@@ -1,5 +1,230 @@
 [
   {
+    "id": "a48236930d6a",
+    "slug": "월세-낼-생각-없으면-집-못-구해요수도권-70가-넘어갔다-kb부동산보고서-317195",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T18:50:59.824Z",
+    "updatedAt": "2026-05-06T18:50:59.824Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12035199",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12035199",
+    "titleFingerprint": "eba6241559a8442a483d715ac09a72887ccf970d",
+    "dedupKeys": [
+      "a48236930d6abf2dbff2d56ff3455d719697675d",
+      "eba6241559a8442a483d715ac09a72887ccf970d",
+      "7de71c223779ae03df0335c8468cacc3825e3df2"
+    ],
+    "imageUrl": "/images/articles/a48236930d6a.png",
+    "i18n": {
+      "ko": {
+        "title": "수도권 월세 비중 67%, 전세 포비아에 월세 전환 가속화 [KB부동산보고서]",
+        "excerpt": "2026 KB 부동산 보고서는 수도권 임대차 시장에서 월세 비중이 67%까지 높아졌고, 전월세 상승과 전세 기피가 세입자 부담을 키우고 있다고 짚었다.",
+        "body": "2026 KB 부동산 보고서에 따르면 수도권 임대차 시장에서 월세 비중이 67%까지 올라 세입자의 주거비 부담이 커지고 있다. 보고서는 강남권 매매가격이 규제 영향으로 조정 국면에 들어섰고, 비수도권은 공급 급감 속에 회복세가 나타났다고 설명했다. 임대차 시장에서는 전세와 월세가 함께 오르며 세입자 부담이 가중됐고, 전세 보증금 불안에 따른 ‘전세 포비아’가 월세 전환을 빠르게 만들고 있다. 수도권에서 월세가 임대차의 중심으로 이동하면서 집을 구하려는 수요자는 월세 부담을 전제로 선택지를 좁혀야 하는 상황이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Metro Monthly Rent Share Hits 67% as Jeonse Anxiety Accelerates Shift",
+        "excerpt": "The 2026 KB Real Estate Report says monthly rent now accounts for 67% of leases in the Seoul metro area, as rising rents and jeonse avoidance add pressure on tenants.",
+        "body": "According to the 2026 KB Real Estate Report, monthly rent has risen to 67% of the rental market in the Seoul metropolitan area, increasing housing-cost pressure on tenants. The report said home prices in Gangnam have entered an adjustment phase under regulatory pressure, while non-capital regions are showing recovery as housing supply drops sharply. In the rental market, both jeonse and monthly rents have climbed, adding to tenant burdens. Anxiety over jeonse deposits, described as “jeonse phobia,” is accelerating the move toward monthly rent. As monthly rent becomes central in the metro rental market, home seekers face narrower choices built around rent affordability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "首都圏の月払い家賃比率67%、チョンセ不安で賃貸転換が加速",
+        "excerpt": "2026年KB不動産報告書は、首都圏の賃貸市場で月払い家賃の比率が67%に上昇し、家賃上昇とチョンセ忌避が借り手の負担を強めているとした。",
+        "body": "2026年KB不動産報告書によると、首都圏の賃貸市場で月払い家賃の比率は67%まで上昇し、借り手の住居費負担が大きくなっている。報告書は、江南圏の住宅売買価格が規制の影響で調整局面に入り、非首都圏では供給急減の中で回復傾向が見られると説明した。賃貸市場ではチョンセと月払い家賃がともに上がり、借り手の負担が増している。保証金不安による「チョンセ・フォビア」が月払い賃貸への転換を速めている。首都圏で月払い家賃が賃貸の中心に移る中、住宅を探す人は家賃負担を前提に選択肢を絞らざるを得ない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首都圈月租占比升至67%，全租房焦虑加速租赁结构转变",
+        "excerpt": "《2026 KB房地产报告》指出，首都圈租赁市场月租占比已升至67%，全租和月租上涨叠加全租回避情绪，正在加重租客负担。",
+        "body": "据《2026 KB房地产报告》，首都圈租赁市场中月租占比已升至67%，租客住房成本压力随之加大。报告称，江南地区住宅买卖价格在监管影响下进入调整阶段，非首都圈则在供应急剧减少的情况下出现恢复势头。租赁市场方面，全租和月租价格同步上涨，租客负担进一步加重。由于对全租保证金不安而形成的“全租恐惧”，正在加快向月租转换。随着月租在首都圈租赁市场中成为核心，找房者需要以承担月租为前提来缩小选择范围。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El alquiler mensual alcanza el 67% en Seúl metropolitano por temor al jeonse",
+        "excerpt": "El Informe Inmobiliario KB 2026 señala que el alquiler mensual ya representa el 67% del mercado en el área metropolitana de Seúl, mientras suben los costes para inquilinos.",
+        "body": "Según el Informe Inmobiliario KB 2026, el alquiler mensual ha subido hasta el 67% del mercado de arrendamientos en el área metropolitana de Seúl, elevando la carga habitacional de los inquilinos. El informe explica que los precios de compraventa en Gangnam entraron en una fase de ajuste por el efecto de la regulación, mientras las zonas fuera de la capital muestran recuperación ante una fuerte caída de la oferta. En el mercado de alquiler, tanto el jeonse como el alquiler mensual han aumentado, agravando la presión sobre los inquilinos. La inseguridad sobre los depósitos del jeonse, llamada “fobia al jeonse”, acelera el cambio hacia alquileres mensuales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Aluguel mensal chega a 67% na região de Seul com medo do jeonse",
+        "excerpt": "O Relatório Imobiliário KB 2026 aponta que o aluguel mensal já representa 67% dos contratos na região metropolitana de Seul, com altas de aluguel pressionando inquilinos.",
+        "body": "Segundo o Relatório Imobiliário KB 2026, a participação do aluguel mensal no mercado de locação da região metropolitana de Seul subiu para 67%, aumentando o peso dos custos de moradia para inquilinos. O relatório afirma que os preços de venda em Gangnam entraram em fase de ajuste sob efeito das regulações, enquanto regiões fora da capital mostram recuperação em meio à forte queda da oferta. No mercado de locação, tanto o jeonse quanto o aluguel mensal avançaram, ampliando a pressão sobre os inquilinos. A insegurança em torno dos depósitos do jeonse, chamada de “fobia do jeonse”, acelera a migração para o aluguel mensal. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Monatsmieten erreichen 67% im Großraum Seoul, Jeonse-Sorge treibt Wechsel",
+        "excerpt": "Der KB-Immobilienbericht 2026 meldet, dass Monatsmieten im Großraum Seoul 67% des Mietmarkts ausmachen, während steigende Jeonse- und Mietpreise Mieter belasten.",
+        "body": "Laut dem KB-Immobilienbericht 2026 ist der Anteil der Monatsmiete am Mietmarkt im Großraum Seoul auf 67% gestiegen, wodurch die Wohnkostenbelastung für Mieter zunimmt. Der Bericht erklärt, dass die Kaufpreise in Gangnam unter dem Einfluss von Regulierungen in eine Korrekturphase eingetreten sind, während Regionen außerhalb des Hauptstadtgebiets bei stark sinkendem Angebot eine Erholung zeigen. Im Mietmarkt steigen sowohl Jeonse als auch Monatsmieten, was die Belastung der Mieter erhöht. Unsicherheit über Jeonse-Kautionen, als “Jeonse-Phobie” beschrieben, beschleunigt den Wechsel zur Monatsmiete. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les loyers mensuels montent à 67% dans la région de Séoul avec la peur du jeonse",
+        "excerpt": "Le rapport immobilier KB 2026 indique que les loyers mensuels représentent désormais 67% du marché locatif de la région de Séoul, sur fond de hausse des coûts pour les locataires.",
+        "body": "Selon le rapport immobilier KB 2026, la part des loyers mensuels dans le marché locatif de la région métropolitaine de Séoul est montée à 67%, ce qui accroît la charge de logement des locataires. Le rapport indique que les prix de vente à Gangnam sont entrés dans une phase d’ajustement sous l’effet des réglementations, tandis que les régions hors capitale montrent une reprise avec la forte baisse de l’offre. Sur le marché locatif, le jeonse et les loyers mensuels augmentent tous deux, alourdissant la pression sur les locataires. L’inquiétude liée aux dépôts du jeonse, appelée “phobie du jeonse”, accélère le passage au loyer mensuel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "حصة الإيجار الشهري في منطقة سول الكبرى ترتفع إلى 67% مع تزايد قلق الجونسے",
+        "excerpt": "يشير تقرير KB العقاري لعام 2026 إلى أن الإيجار الشهري بات يمثل 67% من سوق الإيجار في منطقة سول الكبرى، مع ارتفاع الجونسے والإيجارات وزيادة عبء المستأجرين.",
+        "body": "بحسب تقرير KB العقاري لعام 2026، ارتفعت حصة الإيجار الشهري في سوق الإيجارات بمنطقة سول الكبرى إلى 67%، ما يزيد عبء تكاليف السكن على المستأجرين. وذكر التقرير أن أسعار بيع المساكن في غانغنام دخلت مرحلة تصحيح بفعل التنظيمات، بينما تظهر المناطق خارج العاصمة تعافيا مع التراجع الحاد في المعروض. وفي سوق الإيجار، ارتفعت أسعار الجونسے والإيجار الشهري معا، ما زاد الضغط على المستأجرين. كما أن القلق من ودائع الجونسے، أو ما يسمى “رهاب الجونسے”، يسرع التحول نحو الإيجار الشهري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल महानगरीय क्षेत्र में मासिक किराये की हिस्सेदारी 67%, जियोनसे डर से बदलाव तेज",
+        "excerpt": "2026 KB रियल एस्टेट रिपोर्ट के अनुसार सियोल महानगरीय क्षेत्र के किराया बाजार में मासिक किराये की हिस्सेदारी 67% हो गई है, जिससे किरायेदारों का बोझ बढ़ रहा है।",
+        "body": "2026 KB रियल एस्टेट रिपोर्ट के अनुसार, सियोल महानगरीय क्षेत्र के किराया बाजार में मासिक किराये की हिस्सेदारी 67% तक बढ़ गई है, जिससे किरायेदारों पर आवास लागत का बोझ बढ़ा है। रिपोर्ट में कहा गया कि नियमन के असर से गंगनम में घरों की बिक्री कीमतें समायोजन चरण में हैं, जबकि गैर-राजधानी क्षेत्रों में आपूर्ति की तेज कमी के बीच सुधार दिख रहा है। किराया बाजार में जियोनसे और मासिक किराया दोनों बढ़े हैं, जिससे किरायेदारों की परेशानी बढ़ी। जियोनसे जमा राशि को लेकर चिंता, यानी “जियोनसे फोबिया”, मासिक किराये की ओर बदलाव को तेज कर रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Porsi Sewa Bulanan di Area Seoul Raya Capai 67% karena Kekhawatiran Jeonse",
+        "excerpt": "Laporan Properti KB 2026 menyebut porsi sewa bulanan di pasar sewa area metropolitan Seoul naik menjadi 67%, sementara kenaikan jeonse dan sewa menambah beban penyewa.",
+        "body": "Menurut Laporan Properti KB 2026, porsi sewa bulanan di pasar sewa area metropolitan Seoul naik menjadi 67%, sehingga beban biaya hunian bagi penyewa semakin besar. Laporan itu menjelaskan bahwa harga jual rumah di Gangnam masuk fase penyesuaian akibat regulasi, sementara wilayah non-ibu kota menunjukkan pemulihan di tengah penurunan tajam pasokan. Di pasar sewa, jeonse dan sewa bulanan sama-sama meningkat, menambah tekanan bagi penyewa. Kekhawatiran atas uang jaminan jeonse, yang disebut “fobia jeonse”, mempercepat peralihan ke sewa bulanan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ea2e39cf14dc",
+    "slug": "1분기-서울-땅값-110-상승강남구-전국-상승률-1위-101337",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T18:49:52.261Z",
+    "updatedAt": "2026-05-06T18:49:52.261Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035930",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035930",
+    "titleFingerprint": "201d28ede91fc815f1f61d55b704d6b6b6d38678",
+    "dedupKeys": [
+      "ea2e39cf14dc55d4b8c31b22b5480c96c0eeae29",
+      "201d28ede91fc815f1f61d55b704d6b6b6d38678",
+      "31c0f73f52aa165a157a27183c37c43046d7d06e"
+    ],
+    "imageUrl": "/images/articles/ea2e39cf14dc.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 땅값 1분기 1.10% 상승, 강남구 전국 상승률 1위 기록",
+        "excerpt": "올해 1분기 서울 땅값이 1.10% 오르며 전국에서 가장 높은 상승세를 보였고, 강남구는 전국 252개 시군구 중 상승률 1위를 기록했다.",
+        "body": "올해 1분기 서울 땅값이 1.10% 상승하며 전국에서 가장 높은 오름세를 보였다. 5일 한국부동산원에 따르면 서울은 1분기 전국 주요 지역 가운데 땅값 상승률이 가장 높았다. 특히 서울 강남구는 전국 252개 시군구 중 가장 높은 상승률을 기록해 서울 내에서도 두드러진 흐름을 나타냈다. 이번 수치는 1분기 부동산 토지시장 흐름에서 서울, 그중에서도 강남구의 상승세가 상대적으로 강했다는 점을 보여준다. 향후 시장 흐름은 지역별 토지 수요와 가격 변동을 살피는 주요 지표로 활용될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Land Prices Rise 1.10% in Q1, Gangnam Leads Nationwide Gains",
+        "excerpt": "In the first quarter of this year, Seoul land prices rose 1.10%, the highest increase nationwide, while Gangnam-gu ranked first among 252 districts.",
+        "body": "Seoul land prices rose 1.10% in the first quarter of this year, marking the strongest increase nationwide. According to the Korea Real Estate Board on the 5th, Seoul posted the highest land price growth rate among major regions across the country in Q1. In particular, Gangnam-gu in Seoul recorded the highest increase among 252 cities, counties and districts nationwide, standing out even within Seoul. The figures show that Seoul, and especially Gangnam-gu, led the land market’s upward movement in the first quarter. The trend is expected to serve as a key indicator for tracking regional land demand and price changes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル地価が第1四半期1.10%上昇、江南区が全国上昇率1位",
+        "excerpt": "今年第1四半期のソウル地価は1.10%上昇し全国で最も高い伸びを示し、江南区は全国252市郡区の中で上昇率1位となった。",
+        "body": "今年第1四半期、ソウルの地価は1.10%上昇し、全国で最も高い上昇率を示した。5日、韓国不動産院によると、ソウルは第1四半期に全国の主要地域の中で最も高い地価上昇率を記録した。特にソウル市江南区は、全国252市郡区の中で最も高い上昇率となり、ソウル内でも目立つ動きを見せた。今回の数値は、第1四半期の土地市場でソウル、とりわけ江南区の上昇傾向が相対的に強かったことを示している。今後の市場動向を見るうえで、地域別の土地需要と価格変動を確認する主要指標になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔一季度地价上涨1.10%，江南区涨幅居韩国第一",
+        "excerpt": "今年一季度首尔地价上涨1.10%，成为韩国涨幅最高地区；其中江南区在全国252个市郡区中地价涨幅排名第一。",
+        "body": "今年第一季度，首尔地价上涨1.10%，在韩国全国范围内呈现最高涨幅。据韩国房地产院5日发布的内容，首尔在一季度全国主要地区中录得最高地价上涨率。尤其是首尔江南区，在全国252个市、郡、区中涨幅最高，即使在首尔内部也表现突出。这一数据表明，在一季度土地市场走势中，首尔，特别是江南区的上涨势头相对更强。相关趋势预计将成为观察各地区土地需求与价格变化的重要指标。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El suelo de Seúl sube 1,10% en el primer trimestre y Gangnam lidera el país",
+        "excerpt": "En el primer trimestre de este año, el precio del suelo en Seúl subió un 1,10%, el mayor avance nacional, y Gangnam-gu encabezó 252 distritos.",
+        "body": "El precio del suelo en Seúl subió un 1,10% en el primer trimestre de este año, registrando el mayor incremento del país. Según la Korea Real Estate Board el día 5, Seúl mostró en el primer trimestre la tasa de aumento más alta entre las principales regiones nacionales. En particular, Gangnam-gu, en Seúl, obtuvo la mayor subida entre 252 ciudades, condados y distritos del país, destacando incluso dentro de la capital. La cifra muestra que, en el mercado de suelo del primer trimestre, Seúl y especialmente Gangnam-gu tuvieron una tendencia alcista relativamente fuerte. Esta evolución servirá como indicador clave para seguir la demanda regional de suelo y los cambios de precios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Terrenos em Seul sobem 1,10% no 1º trimestre, com Gangnam no topo nacional",
+        "excerpt": "No 1º trimestre deste ano, os preços dos terrenos em Seul subiram 1,10%, a maior alta do país, e Gangnam-gu liderou entre 252 distritos.",
+        "body": "Os preços dos terrenos em Seul subiram 1,10% no primeiro trimestre deste ano, registrando a maior alta do país. Segundo o Korea Real Estate Board no dia 5, Seul apresentou no primeiro trimestre a maior taxa de valorização entre as principais regiões nacionais. Em especial, Gangnam-gu, em Seul, teve a maior alta entre 252 cidades, condados e distritos do país, destacando-se também dentro da capital. O dado mostra que, no mercado de terrenos do primeiro trimestre, Seul e sobretudo Gangnam-gu tiveram uma tendência de alta relativamente forte. A evolução deve servir como indicador importante para acompanhar a demanda regional por terrenos e as mudanças de preços. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Bodenpreise steigen im ersten Quartal um 1,10%, Gangnam landesweit vorn",
+        "excerpt": "Im ersten Quartal dieses Jahres stiegen die Bodenpreise in Seoul um 1,10%, der höchste Wert landesweit; Gangnam-gu führte 252 Bezirke an.",
+        "body": "Die Bodenpreise in Seoul sind im ersten Quartal dieses Jahres um 1,10% gestiegen und verzeichneten damit den stärksten Anstieg landesweit. Nach Angaben des Korea Real Estate Board vom 5. erzielte Seoul im ersten Quartal unter den wichtigsten Regionen des Landes die höchste Wachstumsrate bei Bodenpreisen. Besonders Gangnam-gu in Seoul erreichte unter 252 Städten, Landkreisen und Bezirken im ganzen Land den höchsten Anstieg und stach auch innerhalb Seouls hervor. Die Zahlen zeigen, dass Seoul und insbesondere Gangnam-gu im Bodenmarkt des ersten Quartals eine relativ starke Aufwärtsbewegung aufwiesen. Die Entwicklung dürfte als wichtiger Indikator für regionale Bodennachfrage und Preisveränderungen dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les terrains à Séoul montent de 1,10% au T1, Gangnam en tête du pays",
+        "excerpt": "Au premier trimestre, les prix des terrains à Séoul ont progressé de 1,10%, la plus forte hausse nationale, tandis que Gangnam-gu a dominé 252 districts.",
+        "body": "Les prix des terrains à Séoul ont augmenté de 1,10% au premier trimestre de cette année, affichant la plus forte progression du pays. Selon le Korea Real Estate Board le 5, Séoul a enregistré au premier trimestre le taux de hausse le plus élevé parmi les principales régions nationales. En particulier, Gangnam-gu, à Séoul, a affiché la plus forte progression parmi 252 villes, comtés et districts du pays, se distinguant même au sein de la capitale. Ces chiffres montrent que, sur le marché foncier du premier trimestre, Séoul et surtout Gangnam-gu ont connu une dynamique haussière relativement forte. Cette tendance devrait servir d’indicateur clé pour suivre la demande foncière régionale et l’évolution des prix. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسعار أراضي سول ترتفع 1.10% في الربع الأول وغانغنام تتصدر كوريا",
+        "excerpt": "ارتفعت أسعار الأراضي في سول 1.10% خلال الربع الأول من هذا العام، مسجلة أعلى زيادة في البلاد، فيما تصدرت غانغنام 252 مدينة ومقاطعة ومنطقة.",
+        "body": "ارتفعت أسعار الأراضي في سول بنسبة 1.10% خلال الربع الأول من هذا العام، مسجلة أعلى وتيرة صعود على مستوى كوريا. ووفق ما ذكره مجلس العقارات الكوري في الخامس من الشهر، حققت سول أعلى معدل زيادة في أسعار الأراضي بين المناطق الرئيسية في البلاد خلال الربع الأول. وبشكل خاص، سجلت غانغنام غو في سول أعلى معدل ارتفاع بين 252 مدينة ومقاطعة ومنطقة على مستوى البلاد، لتبرز حتى داخل العاصمة. وتظهر هذه الأرقام أن سوق الأراضي في الربع الأول شهد قوة نسبية في سول، ولا سيما في غانغنام. ومن المتوقع أن يكون هذا الاتجاه مؤشرا مهما لمتابعة الطلب الإقليمي على الأراضي وتغيرات الأسعار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल जमीन कीमतें पहली तिमाही में 1.10% बढ़ीं, गंगनम देश में शीर्ष पर",
+        "excerpt": "इस वर्ष पहली तिमाही में सियोल की जमीन कीमतें 1.10% बढ़ीं, जो देश में सबसे अधिक वृद्धि रही; गंगनम-गु 252 क्षेत्रों में पहले स्थान पर रहा।",
+        "body": "इस वर्ष पहली तिमाही में सियोल की जमीन कीमतें 1.10% बढ़ीं और यह देश में सबसे तेज वृद्धि रही। कोरिया रियल एस्टेट बोर्ड ने 5 तारीख को बताया कि पहली तिमाही में सियोल ने देश के प्रमुख क्षेत्रों में सबसे ऊंची जमीन मूल्य वृद्धि दर दर्ज की। खास तौर पर सियोल का गंगनम-गु देश के 252 शहरों, काउंटियों और जिलों में सबसे अधिक वृद्धि दर के साथ शीर्ष पर रहा और सियोल के भीतर भी अलग दिखाई दिया। ये आंकड़े दिखाते हैं कि पहली तिमाही के भूमि बाजार में सियोल, विशेष रूप से गंगनम-गु, की बढ़त अपेक्षाकृत मजबूत थी। आगे यह रुझान क्षेत्रीय जमीन मांग और मूल्य बदलाव को देखने का प्रमुख संकेतक माना जाएगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Tanah Seoul Naik 1,10% di Kuartal I, Gangnam Tertinggi Nasional",
+        "excerpt": "Pada kuartal pertama tahun ini, harga tanah Seoul naik 1,10%, tertinggi di Korea, sementara Gangnam-gu memimpin kenaikan di antara 252 wilayah.",
+        "body": "Harga tanah di Seoul naik 1,10% pada kuartal pertama tahun ini, mencatat kenaikan tertinggi secara nasional. Menurut Korea Real Estate Board pada tanggal 5, Seoul membukukan tingkat kenaikan harga tanah tertinggi di antara wilayah utama Korea pada kuartal pertama. Secara khusus, Gangnam-gu di Seoul mencatat kenaikan tertinggi di antara 252 kota, kabupaten, dan distrik di seluruh negeri, sehingga menonjol bahkan di dalam Seoul. Angka ini menunjukkan bahwa dalam pasar tanah kuartal pertama, Seoul, terutama Gangnam-gu, memiliki tren kenaikan yang relatif kuat. Perkembangan tersebut diperkirakan menjadi indikator penting untuk memantau permintaan tanah regional dan perubahan harga. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4500905785eb",
+    "slug": "지하철역-주변-규제-확-푼다서울-전역에-직주락-생활-인프라-확산-170527",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T18:48:46.741Z",
+    "updatedAt": "2026-05-06T18:48:46.741Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035931",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035931",
+    "titleFingerprint": "d3ba661e057cc83c83a248567dc23127e3ea7ab4",
+    "dedupKeys": [
+      "4500905785ebae6fd85b055208f3dc3d7027e430",
+      "d3ba661e057cc83c83a248567dc23127e3ea7ab4",
+      "82019200ee937e337c8dd986870dbad84fe710ac"
+    ],
+    "imageUrl": "/images/articles/4500905785eb.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 역세권 규제 완화 본격화…지하철역 주변 ‘직주락’ 생활 인프라 전역 확산",
+        "excerpt": "서울시가 지난 3월 발표한 역세권 구상을 바탕으로 지하철역 주변 규제를 완화해 일자리·주거·여가가 결합된 생활거점을 서울 전역으로 확산한다.",
+        "body": "서울시가 지하철역 주변 역세권을 단순한 교통 거점에서 일자리와 주거, 여가가 결합된 ‘직·주·락’ 생활거점으로 바꾸기 위해 규제 완화에 나선다. 이번 방향은 지난 3월 발표한 역세권 관련 구상을 바탕으로 서울 전역에 생활 인프라를 넓히려는 취지다. 역세권의 기능을 교통 접근성 중심에서 생활 편의와 도시 활동이 함께 이뤄지는 공간으로 확장하는 것이 핵심이다. 세부 수치와 적용 방식은 원문 요약에 공개되지 않았지만, 규제 완화가 본격화되면 지하철역 주변 개발과 복합 기능 배치에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul to Ease Station-Area Rules, Expanding Work-Live-Leisure Hubs Citywide",
+        "excerpt": "Seoul plans to ease regulations around subway stations, based on a station-area initiative announced in March, to spread work, housing and leisure infrastructure across the city.",
+        "body": "The Seoul Metropolitan Government will ease regulations around subway station areas to turn them from simple transport nodes into “work-live-leisure” neighborhood hubs combining jobs, housing and recreation. The move builds on a station-area plan announced in March and aims to expand daily-life infrastructure across Seoul. The core goal is to broaden the role of station areas beyond transit access into places where convenience and urban activity come together. Specific figures and implementation details were not included in the provided summary, but the regulatory easing is expected to affect development and mixed-use placement around subway stations. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル駅勢圏の規制緩和へ、地下鉄駅周辺に職住楽インフラ拡大",
+        "excerpt": "ソウル市は3月に発表した駅勢圏構想を基に、地下鉄駅周辺の規制を緩和し、仕事・住居・余暇が結合した生活拠点を市内全域へ広げる。",
+        "body": "ソウル市は、地下鉄駅周辺の駅勢圏を単なる交通拠点から、仕事・住居・余暇が結合した「職・住・楽」の生活拠点へ転換するため、規制緩和に乗り出す。今回の方針は、3月に発表した駅勢圏関連構想を基に、ソウル全域へ生活インフラを広げる趣旨だ。駅勢圏の機能を交通アクセス中心から、生活利便性と都市活動がともに行われる空間へ拡張することが核心となる。具体的な数値や適用方式は提供された要約に示されていないが、規制緩和が本格化すれば、地下鉄駅周辺の開発と複合機能の配置に影響を与える見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔放宽地铁站周边管制，推动“职住乐”生活基础设施全域扩散",
+        "excerpt": "首尔市将以3月发布的站区构想为基础，放宽地铁站周边管制，把就业、居住和休闲结合的生活据点扩展至全市。",
+        "body": "首尔市将放宽地铁站周边站区管制，推动其从单纯交通节点转变为集就业、居住和休闲于一体的“职·住·乐”生活据点。此次方向基于首尔市3月发布的站区相关构想，旨在把生活基础设施扩展到首尔全域。核心在于将站区功能从以交通可达性为中心，扩大为生活便利与城市活动并行的空间。提供的摘要未列出具体数据和适用方式，但随着管制放宽正式推进，预计将影响地铁站周边开发以及复合功能布局。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl flexibiliza normas junto al metro para extender hubs de trabajo, vivienda y ocio",
+        "excerpt": "El Gobierno de Seúl relajará la regulación en torno a estaciones de metro, con base en un plan anunciado en marzo, para expandir infraestructura de trabajo, vivienda y ocio.",
+        "body": "El Gobierno Metropolitano de Seúl relajará las normas en las áreas cercanas a estaciones de metro para convertirlas de simples nodos de transporte en centros de vida que combinen empleo, vivienda y ocio. La medida se basa en una iniciativa sobre zonas de estación anunciada en marzo y busca extender la infraestructura cotidiana por toda la ciudad. El punto central es ampliar la función de estas áreas más allá del acceso al transporte, hacia espacios donde coincidan comodidad diaria y actividad urbana. El resumen proporcionado no incluye cifras concretas ni detalles de aplicación, pero la flexibilización regulatoria podría influir en el desarrollo y la ubicación de usos mixtos alrededor del metro. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seul aliviará regras no entorno do metrô e ampliará polos de trabalho, moradia e lazer",
+        "excerpt": "A Prefeitura de Seul vai flexibilizar regras ao redor de estações de metrô, com base em plano anunciado em março, para espalhar infraestrutura de trabalho, moradia e lazer.",
+        "body": "A Prefeitura Metropolitana de Seul vai aliviar regulações nas áreas próximas às estações de metrô para transformá-las de simples pontos de transporte em polos de vida que combinem trabalho, moradia e lazer. A diretriz parte de uma iniciativa sobre áreas de estação anunciada em março e busca expandir a infraestrutura cotidiana por toda Seul. O objetivo central é ampliar a função dessas áreas para além da acessibilidade ao transporte, criando espaços onde conveniência diária e atividade urbana coexistam. O resumo fornecido não traz números específicos nem formas de aplicação, mas a flexibilização deve afetar o desenvolvimento e a distribuição de funções mistas ao redor do metrô. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul lockert Regeln an U-Bahn-Stationen für stadtweite Arbeits-, Wohn- und Freizeitzentren",
+        "excerpt": "Seoul will auf Basis eines im März vorgestellten Stationskonzepts Vorschriften rund um U-Bahn-Stationen lockern und Infrastruktur für Arbeit, Wohnen und Freizeit ausweiten.",
+        "body": "Die Stadt Seoul will Vorschriften in den Bereichen rund um U-Bahn-Stationen lockern, um diese von reinen Verkehrsknoten zu Lebenszentren mit Arbeit, Wohnen und Freizeit zu entwickeln. Die Maßnahme baut auf einem im März vorgestellten Konzept für Stationsgebiete auf und soll Alltagsinfrastruktur in ganz Seoul verbreiten. Im Kern geht es darum, die Funktion dieser Gebiete über Verkehrsanbindung hinaus zu erweitern und Räume zu schaffen, in denen Komfort und städtische Aktivität zusammenkommen. Konkrete Zahlen und Anwendungsdetails enthält die vorliegende Zusammenfassung nicht. Mit der Lockerung dürften jedoch Entwicklung und Mischnutzung rund um U-Bahn-Stationen beeinflusst werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul assouplit les règles autour du métro pour étendre les pôles travail-logement-loisirs",
+        "excerpt": "La ville de Séoul va alléger la réglementation autour des stations de métro, sur la base d’un projet annoncé en mars, afin d’étendre les infrastructures de travail, logement et loisirs.",
+        "body": "La municipalité de Séoul va assouplir les règles dans les secteurs proches des stations de métro afin de les transformer de simples pôles de transport en lieux de vie combinant emploi, logement et loisirs. Cette orientation s’appuie sur un projet relatif aux zones de station annoncé en mars et vise à diffuser les infrastructures de proximité dans toute la ville. L’objectif est d’élargir la fonction de ces secteurs au-delà de l’accès aux transports, vers des espaces associant commodité quotidienne et activité urbaine. Le résumé fourni ne précise pas de chiffres ni de modalités d’application, mais l’assouplissement devrait influencer le développement et l’implantation de fonctions mixtes autour du métro. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيول تخفف قيود محيط محطات المترو لتوسيع مراكز العمل والسكن والترفيه",
+        "excerpt": "تعتزم حكومة سيول تخفيف القيود حول محطات المترو، استنادا إلى تصور أعلن في مارس، لنشر بنية معيشية تجمع العمل والسكن والترفيه في أنحاء المدينة.",
+        "body": "تتحرك حكومة سيول الحضرية لتخفيف القيود في المناطق المحيطة بمحطات المترو بهدف تحويلها من نقاط نقل بسيطة إلى مراكز معيشية تجمع بين العمل والسكن والترفيه. ويستند هذا التوجه إلى تصور متعلق بمناطق المحطات أعلنته المدينة في مارس، مع هدف توسيع البنية التحتية اليومية في أنحاء سيول. جوهر الخطة هو توسيع دور مناطق المحطات من التركيز على سهولة الوصول إلى النقل إلى مساحات تجمع الراحة اليومية والنشاط الحضري. لا يتضمن الملخص المقدم أرقاما محددة أو تفاصيل تطبيق، لكن بدء تخفيف القيود قد يؤثر في التطوير وتوزيع الوظائف المختلطة حول محطات المترو. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल मेट्रो स्टेशन क्षेत्रों में नियम ढीले करेगा, काम-आवास-मनोरंजन केंद्र फैलेंगे",
+        "excerpt": "सियोल शहर मार्च में घोषित स्टेशन-क्षेत्र योजना के आधार पर मेट्रो स्टेशनों के आसपास नियमों में ढील देकर काम, आवास और अवकाश से जुड़ा जीवन ढांचा पूरे शहर में फैलाएगा।",
+        "body": "सियोल महानगर सरकार मेट्रो स्टेशनों के आसपास के स्टेशन क्षेत्रों को केवल परिवहन केंद्र से बदलकर रोजगार, आवास और अवकाश को जोड़ने वाले “काम-रहना-मनोरंजन” जीवन केंद्र बनाने के लिए नियमों में ढील देगी। यह दिशा मार्च में घोषित स्टेशन-क्षेत्र संबंधी योजना पर आधारित है और इसका उद्देश्य पूरे सियोल में दैनिक जीवन से जुड़ी बुनियादी सुविधाओं को फैलाना है। मुख्य लक्ष्य स्टेशन क्षेत्रों की भूमिका को यातायात पहुंच से आगे बढ़ाकर ऐसे स्थानों में बदलना है जहां सुविधा और शहरी गतिविधि साथ हों। दिए गए सार में खास आंकड़े या लागू करने का तरीका नहीं बताया गया है, लेकिन नियमों में ढील से मेट्रो स्टेशन आसपास विकास और मिश्रित उपयोग की व्यवस्था प्रभावित हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seoul Longgarkan Aturan Area Stasiun untuk Sebar Pusat Kerja, Hunian, Rekreasi",
+        "excerpt": "Pemerintah Seoul akan melonggarkan aturan di sekitar stasiun subway, berdasarkan rencana yang diumumkan pada Maret, untuk memperluas infrastruktur kerja, hunian, dan rekreasi.",
+        "body": "Pemerintah Metropolitan Seoul akan melonggarkan regulasi di area sekitar stasiun subway untuk mengubahnya dari sekadar simpul transportasi menjadi pusat kehidupan yang memadukan pekerjaan, hunian, dan rekreasi. Arah ini didasarkan pada gagasan terkait kawasan stasiun yang diumumkan pada Maret dan bertujuan memperluas infrastruktur kehidupan sehari-hari ke seluruh Seoul. Intinya adalah memperluas fungsi area stasiun dari akses transportasi menjadi ruang tempat kenyamanan harian dan aktivitas kota berjalan bersama. Ringkasan yang diberikan tidak memuat angka rinci atau cara penerapan, tetapi pelonggaran aturan diperkirakan memengaruhi pengembangan dan penempatan fungsi campuran di sekitar stasiun subway. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "eadf550f4f9c",
     "slug": "인베이드투자자문-삼성서울병원에-1000만원-기부-871953",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Jeong Won-oh: Properti Seoul perlu pasokan, bukan tekanan pajak",
         "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jeong Won-oh, mengatakan kepada Munhwa Ilbo pada 4 Mei bahwa masalah properti harus diselesaikan lewat pasokan-permintaan, sementara RUU jaksa khusus adalah ranah parlemen.",
         "body": "Jeong Won-oh, kandidat Partai Demokrat untuk wali kota Seoul dalam pemilu lokal 3 Juni, mengatakan dalam wawancara dengan Munhwa Ilbo pada 4 Mei bahwa kebijakan properti Seoul harus mengikuti keseimbangan pasokan dan permintaan, bukan pajak. Menanggapi permintaan kandidat Oh Se-hoon agar ia menyatakan sikap atas RUU jaksa khusus terkait dugaan dakwaan yang dimanipulasi, Jeong mengatakan hal itu adalah urusan legislatif.\n\nJeong menyebut Seoul memiliki permintaan tahunan 60.000 hingga 65.000 unit rumah dan berpendapat pasokan kurang dalam beberapa tahun terakhir. Melalui janji “Chakchak Development”, ia mengatakan proyek penataan yang dulu memakan 15 tahun akan dipangkas menjadi kurang dari 10 tahun, sementara perencanaan terpadu cepat akan dilanjutkan dan diperbaiki.\n\nIa mengutip keberhasilan pembangunan kembali Seongsu-dong saat menjabat kepala Distrik Seongdong untuk menolak serangan “Park Won-soon Season 2”. Ia menambahkan kandidat pemerintah daerah harus berfokus pada kehidupan warga, bukan mempolitisasi urusan legislatif.\n\nSumber: Munhwa Ilbo"
-      }
-    }
-  },
-  {
-    "id": "d4821543b13f",
-    "slug": "사회초년생도-빌라는-안-봐요-시대착오-부동산-해법에-시장은-절레절레---뉴데일리-경제-330998",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:50:45.757Z",
-    "updatedAt": "2026-05-06T07:50:45.757Z",
-    "sourceName": "뉴데일리 경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMUs0bVprWDB5bHlMTEdPYUQyVFcxUnNQZlJvd0FiUTVrMjVFYWVUc1hISEwxRm1xeE9Ub1dEcklTbmRXQWd2ZnJxNlVkdTN1Y2UzUGdGRWVGX0pCUzlyR2h4d01VSHlubmFwS3RvWTlfSGlwYWVodXRNaw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyMUs0bVprWDB5bHlMTEdPYUQyVFcxUnNQZlJvd0FiUTVrMjVFYWVUc1hISEwxRm1xeE9Ub1dEcklTbmRXQWd2ZnJxNlVkdTN1Y2UzUGdGRWVGX0pCUzlyR2h4d01VSHlubmFwS3RvWTlfSGlwYWVodXRNaw?oc=5",
-    "titleFingerprint": "4fbe106aa824596b9e7721d513b3773c3e0f8b69",
-    "dedupKeys": [
-      "d4821543b13fe0ddb07b984e8a9f0b963ab4135b",
-      "4fbe106aa824596b9e7721d513b3773c3e0f8b69",
-      "73c1f3cdae147d9af5a9a99de2146e513f500486"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "빌라 외면하는 사회초년생, 시대착오 부동산 해법에 시장 냉담",
-        "excerpt": "뉴데일리 경제는 사회초년생도 빌라를 외면하는 분위기 속에서 빌라 중심 부동산 해법에 시장이 냉담하게 반응하고 있다고 보도했다.",
-        "body": "뉴데일리 경제는 최근 부동산 시장에서 사회초년생조차 빌라를 주요 선택지로 보지 않는 분위기가 나타나고 있다고 보도했다. 기사 제목은 이러한 흐름 속에서 제시된 부동산 해법을 시장이 시대착오적으로 받아들이고 있음을 전했다.\n\n보도에 따르면 시장 반응은 ‘절레절레’라는 표현으로 요약된다. 원문은 빌라에 대한 수요자의 거리감과, 현실과 맞지 않는 해법을 둘러싼 냉담한 반응을 핵심 쟁점으로 제시했다.\n\n이번 보도는 빌라를 둘러싼 정책·시장 인식의 간극이 부동산 해법 논의에서 중요한 변수로 떠올랐다는 점을 보여준다. 다만 제공된 원문 요약에는 구체적인 수치나 관계자 발언은 포함되지 않았다.\n출처: 뉴데일리 경제"
-      },
-      "en": {
-        "title": "Young Buyers Shun Villas as Market Rejects Outdated Housing Fix",
-        "excerpt": "New Daily Economy reported that even young workers are avoiding villas, while the market is reacting coldly to real estate solutions seen as outdated.",
-        "body": "New Daily Economy reported that even early-career workers in South Korea are no longer viewing villas as a main housing option. The article framed this trend as part of a broader market response to real estate solutions perceived as outdated.\n\nAccording to the report, the market reaction is summed up by the phrase that people are “shaking their heads.” The original summary highlights buyers’ distance from villas and the cool response to proposals that appear out of step with current realities.\n\nThe report suggests that the gap between policy ideas and market perception around villas has become a key issue in housing discussions. The provided source summary did not include specific figures or direct stakeholder comments.\nSource: New Daily Economy"
-      },
-      "ja": {
-        "title": "社会人初心者もヴィラ敬遠、時代遅れの不動産策に市場は冷淡",
-        "excerpt": "ニュー・デイリー経済は、社会人になったばかりの層までヴィラを敬遠するなか、時代遅れと受け止められる不動産策に市場が冷淡に反応していると報じた。",
-        "body": "ニュー・デイリー経済は、韓国の不動産市場で社会人になったばかりの層でさえヴィラを主要な選択肢として見なくなっていると報じた。記事は、この流れのなかで提示された不動産解決策を市場が時代遅れと受け止めていると伝えた。\n\n報道によると、市場の反応は「首を横に振る」という表現で要約される。原文の要約は、ヴィラに対する需要者の距離感と、現実に合わない解決策への冷淡な反応を主な論点として示している。\n\n今回の報道は、ヴィラをめぐる政策・市場認識のずれが不動産対策の議論で重要な要素になっていることを示す。ただし、提供された要約には具体的な数値や関係者コメントは含まれていない。\n出典: ニュー・デイリー経済"
-      },
-      "zh": {
-        "title": "年轻职场人也不看别墅式住宅，过时楼市方案遇冷",
-        "excerpt": "New Daily Economy报道称，在年轻职场人也回避别墅式住宅的氛围下，以此为核心的房地产解决方案被市场视为过时并遭到冷淡反应。",
-        "body": "New Daily Economy报道称，韩国房地产市场近期出现了连初入职场者也不再把别墅式住宅作为主要选择的氛围。报道标题指出，在这一趋势下提出的房地产解决方案正被市场视为不合时宜。\n\n据报道，市场反应用“摇头”来概括。原文摘要把购房者对别墅式住宅的距离感，以及对脱离现实的解决方案的冷淡态度列为核心问题。\n\n这篇报道显示，围绕别墅式住宅的政策思路与市场认知之间的落差，已成为房地产解法讨论中的重要变量。不过，所提供的原文摘要未包含具体数据或相关人士发言。\n来源: New Daily Economy"
-      },
-      "es": {
-        "title": "Jóvenes trabajadores evitan villas y el mercado rechaza una receta inmobiliaria obsoleta",
-        "excerpt": "New Daily Economy informó que incluso los jóvenes trabajadores evitan las villas, mientras el mercado responde con frialdad a soluciones inmobiliarias vistas como anacrónicas.",
-        "body": "New Daily Economy informó que, en el mercado inmobiliario surcoreano, incluso quienes recién comienzan su vida laboral ya no ven las villas como una opción principal de vivienda. El titular presenta esta tendencia como parte de una reacción del mercado ante soluciones inmobiliarias consideradas anacrónicas.\n\nSegún el reporte, la respuesta del mercado se resume en una actitud de rechazo. El resumen original destaca la distancia de los demandantes frente a las villas y la reacción fría ante propuestas que no parecen ajustarse a la realidad actual.\n\nLa información muestra que la brecha entre las ideas de política y la percepción del mercado sobre las villas se ha convertido en un punto relevante del debate inmobiliario. El resumen proporcionado no incluye cifras concretas ni comentarios de actores del sector.\nFuente: New Daily Economy"
-      },
-      "pt": {
-        "title": "Jovens profissionais evitam villas e mercado rejeita solução imobiliária ultrapassada",
-        "excerpt": "O New Daily Economy informou que até jovens profissionais estão evitando villas, enquanto o mercado reage friamente a soluções imobiliárias vistas como ultrapassadas.",
-        "body": "O New Daily Economy informou que, no mercado imobiliário sul-coreano, até profissionais em início de carreira já não veem as villas como uma opção principal de moradia. A reportagem enquadra essa tendência como parte da reação do mercado a soluções imobiliárias percebidas como ultrapassadas.\n\nSegundo a notícia, a resposta do mercado pode ser resumida como uma reação de rejeição. O resumo original destaca o distanciamento dos compradores em relação às villas e a frieza diante de propostas que parecem não corresponder à realidade atual.\n\nA reportagem indica que a diferença entre ideias de política habitacional e a percepção do mercado sobre villas tornou-se um ponto importante no debate imobiliário. O resumo fornecido não inclui números específicos nem comentários de envolvidos.\nFonte: New Daily Economy"
-      },
-      "de": {
-        "title": "Berufseinsteiger meiden Villas, Markt weist veraltete Immobilienlösung zurück",
-        "excerpt": "New Daily Economy berichtete, dass selbst Berufseinsteiger Villas meiden, während der Markt auf als überholt wahrgenommene Immobilienlösungen kühl reagiert.",
-        "body": "New Daily Economy berichtete, dass selbst Berufseinsteiger in Südkorea Villas nicht mehr als zentrale Wohnoption betrachten. Der Artikel stellt diesen Trend als Teil einer breiteren Marktreaktion auf Immobilienlösungen dar, die als nicht mehr zeitgemäß gelten.\n\nDem Bericht zufolge lässt sich die Marktreaktion als kopfschüttelnde Ablehnung zusammenfassen. Die Originalzusammenfassung hebt die Distanz der Nachfrager zu Villas und die kühle Reaktion auf Vorschläge hervor, die nicht zur aktuellen Realität zu passen scheinen.\n\nDer Bericht zeigt, dass die Lücke zwischen politischen Ideen und der Marktwahrnehmung rund um Villas zu einem wichtigen Faktor in der Immobiliendebatte geworden ist. Die bereitgestellte Zusammenfassung enthält keine konkreten Zahlen oder direkten Stellungnahmen von Beteiligten.\nQuelle: New Daily Economy"
-      },
-      "fr": {
-        "title": "Les jeunes actifs boudent les villas, le marché rejette une solution immobilière dépassée",
-        "excerpt": "New Daily Economy rapporte que même les jeunes actifs évitent les villas, tandis que le marché réagit froidement à des solutions immobilières jugées dépassées.",
-        "body": "New Daily Economy rapporte que, sur le marché immobilier sud-coréen, même les personnes en début de carrière ne considèrent plus les villas comme une option principale de logement. L’article présente cette tendance comme une réaction du marché à des solutions immobilières perçues comme dépassées.\n\nSelon le reportage, la réaction du marché se résume à un rejet marqué. Le résumé original met en avant la distance des demandeurs vis-à-vis des villas et l’accueil froid réservé à des propositions qui semblent déconnectées de la réalité actuelle.\n\nCe reportage montre que l’écart entre les idées de politique immobilière et la perception du marché autour des villas est devenu un enjeu important du débat. Le résumé fourni ne contient ni chiffres précis ni commentaires directs d’acteurs concernés.\nSource: New Daily Economy"
-      },
-      "ar": {
-        "title": "الموظفون الجدد يتجنبون الفلل والسوق يرفض حلا عقاريا قديما",
-        "excerpt": "ذكرت New Daily Economy أن حتى المبتدئين في سوق العمل يتجنبون الفلل، بينما يتعامل السوق ببرود مع حلول عقارية ينظر إليها على أنها متأخرة عن الواقع.",
-        "body": "ذكرت New Daily Economy أن سوق العقارات في كوريا الجنوبية يشهد اتجاها لا يرى فيه حتى المبتدئون في حياتهم المهنية الفلل خيارا رئيسيا للسكن. وعرضت المقالة هذا الاتجاه ضمن رد فعل السوق على حلول عقارية ينظر إليها على أنها غير مواكبة للواقع.\n\nوبحسب التقرير، يمكن تلخيص موقف السوق برد فعل رافض. يبرز الملخص الأصلي ابتعاد طالبي السكن عن الفلل، والبرود تجاه مقترحات تبدو غير متناسبة مع الظروف الحالية.\n\nيشير التقرير إلى أن الفجوة بين أفكار السياسات ونظرة السوق إلى الفلل أصبحت عاملا مهما في نقاش حلول العقارات. ولم يتضمن الملخص المقدم أرقاما محددة أو تصريحات مباشرة من أطراف معنية.\nالمصدر: New Daily Economy"
-      },
-      "hi": {
-        "title": "नए नौकरीपेशा भी विला से दूर, पुराने रियल एस्टेट समाधान पर बाजार ठंडा",
-        "excerpt": "New Daily Economy ने बताया कि शुरुआती नौकरीपेशा लोग भी विला से दूरी बना रहे हैं, जबकि बाजार पुराने माने जा रहे रियल एस्टेट समाधान पर ठंडी प्रतिक्रिया दे रहा है।",
-        "body": "New Daily Economy ने बताया कि दक्षिण कोरिया के रियल एस्टेट बाजार में शुरुआती नौकरीपेशा लोग भी विला को मुख्य आवास विकल्प के रूप में नहीं देख रहे हैं। लेख ने इस रुझान को ऐसे रियल एस्टेट समाधान पर बाजार की प्रतिक्रिया के रूप में प्रस्तुत किया जिसे समय से पीछे माना जा रहा है।\n\nरिपोर्ट के अनुसार, बाजार की प्रतिक्रिया को असहमति और निराशा के रूप में संक्षेपित किया जा सकता है। मूल सारांश विला को लेकर खरीदारों की दूरी और मौजूदा वास्तविकता से मेल न खाने वाले प्रस्तावों पर ठंडी प्रतिक्रिया को मुख्य मुद्दा बताता है।\n\nयह रिपोर्ट दिखाती है कि विला को लेकर नीति विचारों और बाजार धारणा के बीच अंतर रियल एस्टेट समाधान की चर्चा में अहम कारक बन गया है। दिए गए सारांश में ठोस आंकड़े या संबंधित पक्षों की प्रत्यक्ष टिप्पणियां शामिल नहीं हैं।\nस्रोत: New Daily Economy"
-      },
-      "id": {
-        "title": "Pekerja Pemula Menjauhi Vila, Pasar Dingin pada Solusi Properti Usang",
-        "excerpt": "New Daily Economy melaporkan bahwa pekerja pemula pun menjauhi vila, sementara pasar bereaksi dingin terhadap solusi properti yang dinilai ketinggalan zaman.",
-        "body": "New Daily Economy melaporkan bahwa di pasar properti Korea Selatan, bahkan pekerja pemula tidak lagi melihat vila sebagai pilihan hunian utama. Artikel itu menempatkan tren ini sebagai bagian dari respons pasar terhadap solusi properti yang dianggap tidak sesuai zaman.\n\nMenurut laporan tersebut, reaksi pasar dapat diringkas sebagai sikap geleng kepala. Ringkasan asli menyoroti jarak pembeli terhadap vila dan respons dingin terhadap usulan yang tampak tidak sejalan dengan realitas saat ini.\n\nLaporan ini menunjukkan bahwa kesenjangan antara gagasan kebijakan dan persepsi pasar mengenai vila telah menjadi faktor penting dalam pembahasan solusi properti. Ringkasan yang diberikan tidak memuat angka spesifik atau komentar langsung dari pihak terkait.\nSumber: New Daily Economy"
-      }
-    }
-  },
-  {
-    "id": "664e85bef46d",
-    "slug": "50대-그룹-비업무용-부동산-106조-돌파삼성롯데-10조-시대---경향신문-976322",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:49:36.326Z",
-    "updatedAt": "2026-05-06T07:49:36.326Z",
-    "sourceName": "경향신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UQURzcEtNVWRsbktSa2NjNEpqM1VWem5Za0paR1BHS3FmVzRlWEYwZWVjY0ZHTTVZZWtTUEZQZ3dvTElFTklrQjR0d25mVWk2NUl3RXppaUJ1d9IBX0FVX3lxTFBOOWhETF9HX2FCSUJ2OS0tR0VoUnpBVXRWcnRWTUJUS1ZSMDZGaUEtVTFFRU1GTi1ySlhkRVo4YmZkTU5XT0p1STQ1d1BmVTVYcW1uYTFXaEYySWhRMEhv?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UQURzcEtNVWRsbktSa2NjNEpqM1VWem5Za0paR1BHS3FmVzRlWEYwZWVjY0ZHTTVZZWtTUEZQZ3dvTElFTklrQjR0d25mVWk2NUl3RXppaUJ1d9IBX0FVX3lxTFBOOWhETF9HX2FCSUJ2OS0tR0VoUnpBVXRWcnRWTUJUS1ZSMDZGaUEtVTFFRU1GTi1ySlhkRVo4YmZkTU5XT0p1STQ1d1BmVTVYcW1uYTFXaEYySWhRMEhv?oc=5",
-    "titleFingerprint": "9aa6e1be026a2016597e5f745caef3f39f6462db",
-    "dedupKeys": [
-      "664e85bef46d2f956c8faae6a1b9d0f9939f47eb",
-      "9aa6e1be026a2016597e5f745caef3f39f6462db",
-      "ae4b035ee4e20c538dd85a924242efdec9c4e2a2"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "50대 그룹 비업무용 부동산 106조 돌파, 삼성·롯데 10조원대 진입",
-        "excerpt": "경향신문 보도에 따르면 국내 50대 그룹의 비업무용 부동산 규모가 106조원을 넘어섰고, 삼성과 롯데는 각각 10조원대에 들어섰다.",
-        "body": "국내 50대 그룹이 보유한 ‘비업무용 부동산’ 규모가 106조원을 돌파했다고 경향신문이 보도했다. 그룹별로는 삼성과 롯데가 각각 10조원대에 들어선 것으로 전해졌다.\n\n비업무용 부동산은 기업의 직접 업무와 무관하게 보유한 토지·건물 등을 뜻한다. 이번 보도는 50대 그룹의 관련 자산 규모가 100조원을 넘어 106조원대까지 확대됐다는 점에 주목했다.\n\n삼성과 롯데의 10조원대 진입은 대기업 집단의 부동산 보유 구조와 자산 운용을 둘러싼 관심을 키우는 대목이다. 경향신문은 50대 그룹의 비업무용 부동산 증가 흐름을 주요 쟁점으로 전했다.\n\n출처: 경향신문"
-      },
-      "en": {
-        "title": "Top 50 Korean Groups’ Non-Business Real Estate Tops 106 Trillion Won",
-        "excerpt": "According to Kyunghyang Shinmun, non-business real estate held by South Korea’s top 50 business groups has exceeded 106 trillion won, with Samsung and Lotte each entering the 10 trillion won range.",
-        "body": "Non-business real estate held by South Korea’s top 50 business groups has surpassed 106 trillion won, Kyunghyang Shinmun reported. By group, Samsung and Lotte were reported to have each entered the 10 trillion won range.\n\nNon-business real estate refers to land and buildings held by companies that are not directly tied to their operations. The report focused on the fact that related assets among the top 50 groups have moved beyond 100 trillion won and expanded to more than 106 trillion won.\n\nSamsung and Lotte reaching the 10 trillion won level draws attention to how major conglomerates hold and manage real estate assets. Kyunghyang Shinmun presented the growth in non-business real estate among the top 50 groups as a key issue.\n\nSource: Kyunghyang Shinmun"
-      },
-      "ja": {
-        "title": "韓国50大グループの非業務用不動産106兆ウォン突破、三星・ロッテは10兆台",
-        "excerpt": "京郷新聞によると、韓国50大グループが保有する非業務用不動産の規模が106兆ウォンを超え、サムスンとロッテはそれぞれ10兆ウォン台に入った。",
-        "body": "韓国50大グループが保有する「非業務用不動産」の規模が106兆ウォンを突破したと、京郷新聞が報じた。グループ別では、サムスンとロッテがそれぞれ10兆ウォン台に入ったとされる。\n\n非業務用不動産とは、企業の直接的な業務とは関係なく保有している土地や建物などを指す。今回の報道は、50大グループの関連資産規模が100兆ウォンを超え、106兆ウォン台まで拡大した点に注目した。\n\nサムスンとロッテの10兆ウォン台入りは、大企業集団の不動産保有構造と資産運用をめぐる関心を高める内容だ。京郷新聞は、50大グループの非業務用不動産の増加傾向を主要な論点として伝えた。\n\n出典: 京郷新聞"
-      },
-      "zh": {
-        "title": "韩国50大集团非业务用房地产突破106万亿韩元，三星乐天进10万亿级",
-        "excerpt": "据《京乡新闻》报道，韩国50大集团持有的非业务用房地产规模已超过106万亿韩元，三星和乐天分别进入10万亿韩元级别。",
-        "body": "据《京乡新闻》报道，韩国50大集团持有的“非业务用房地产”规模已突破106万亿韩元。按集团来看，三星和乐天据称分别进入10万亿韩元级别。\n\n非业务用房地产是指企业持有的、与直接业务无关的土地和建筑等。此次报道关注的是，50大集团相关资产规模已超过100万亿韩元，并扩大至106万亿韩元以上。\n\n三星和乐天进入10万亿韩元级别，使外界更加关注大型企业集团的房地产持有结构和资产运用方式。《京乡新闻》将50大集团非业务用房地产增长趋势作为主要议题进行了报道。\n\n来源: 京乡新闻"
-      },
-      "es": {
-        "title": "Inmuebles no operativos de los 50 mayores grupos coreanos superan 106 billones de wones",
-        "excerpt": "Según Kyunghyang Shinmun, los inmuebles no operativos de los 50 mayores grupos empresariales de Corea del Sur superaron 106 billones de wones, con Samsung y Lotte en la franja de 10 billones.",
-        "body": "Los inmuebles no operativos en poder de los 50 mayores grupos empresariales de Corea del Sur superaron los 106 billones de wones, informó Kyunghyang Shinmun. Por grupo, Samsung y Lotte habrían entrado cada uno en la franja de 10 billones de wones.\n\nLos inmuebles no operativos son terrenos y edificios que las empresas poseen sin relación directa con sus actividades principales. El informe destacó que estos activos de los 50 mayores grupos pasaron de 100 billones de wones y se ampliaron hasta más de 106 billones.\n\nLa entrada de Samsung y Lotte en el nivel de 10 billones de wones aumenta la atención sobre la estructura de tenencia inmobiliaria y la gestión de activos de los grandes conglomerados. Kyunghyang Shinmun presentó el aumento de estos inmuebles como un tema clave.\n\nFuente: Kyunghyang Shinmun"
-      },
-      "pt": {
-        "title": "Imóveis não operacionais dos 50 maiores grupos coreanos passam de 106 trilhões de won",
-        "excerpt": "Segundo o Kyunghyang Shinmun, os imóveis não operacionais dos 50 maiores grupos empresariais da Coreia do Sul superaram 106 trilhões de won, com Samsung e Lotte na faixa de 10 trilhões.",
-        "body": "Os imóveis não operacionais detidos pelos 50 maiores grupos empresariais da Coreia do Sul ultrapassaram 106 trilhões de won, informou o Kyunghyang Shinmun. Por grupo, Samsung e Lotte teriam entrado cada uma na faixa de 10 trilhões de won.\n\nImóveis não operacionais são terrenos e edifícios mantidos por empresas sem ligação direta com suas atividades. A reportagem destacou que esses ativos dos 50 maiores grupos passaram de 100 trilhões de won e avançaram para mais de 106 trilhões.\n\nA chegada de Samsung e Lotte ao nível de 10 trilhões de won aumenta a atenção sobre a estrutura de posse imobiliária e a gestão de ativos dos grandes conglomerados. O Kyunghyang Shinmun apontou o crescimento desses imóveis como questão central.\n\nFonte: Kyunghyang Shinmun"
-      },
-      "de": {
-        "title": "Nicht betriebliche Immobilien der 50 größten Korea-Konzerne über 106 Billionen Won",
-        "excerpt": "Laut Kyunghyang Shinmun haben nicht betriebliche Immobilien der 50 größten südkoreanischen Unternehmensgruppen 106 Billionen Won überschritten; Samsung und Lotte liegen jeweils im Bereich von 10 Billionen Won.",
-        "body": "Die von Südkoreas 50 größten Unternehmensgruppen gehaltenen nicht betrieblichen Immobilien haben 106 Billionen Won überschritten, berichtete Kyunghyang Shinmun. Nach Gruppen betrachtet sollen Samsung und Lotte jeweils den Bereich von 10 Billionen Won erreicht haben.\n\nNicht betriebliche Immobilien sind Grundstücke und Gebäude, die Unternehmen ohne direkten Bezug zum Kerngeschäft halten. Der Bericht hob hervor, dass diese Vermögenswerte der 50 größten Gruppen über 100 Billionen Won hinaus auf mehr als 106 Billionen Won gestiegen sind.\n\nDass Samsung und Lotte die Marke von 10 Billionen Won erreichen, lenkt den Blick auf Immobilienbesitz und Vermögensverwaltung großer Konzerne. Kyunghyang Shinmun stellte den Zuwachs nicht betrieblicher Immobilien als zentrales Thema dar.\n\nQuelle: Kyunghyang Shinmun"
-      },
-      "fr": {
-        "title": "L’immobilier non opérationnel des 50 plus grands groupes coréens dépasse 106 billions de wons",
-        "excerpt": "Selon Kyunghyang Shinmun, l’immobilier non opérationnel détenu par les 50 plus grands groupes sud-coréens a dépassé 106 billions de wons, Samsung et Lotte atteignant chacun la tranche des 10 billions.",
-        "body": "L’immobilier non opérationnel détenu par les 50 plus grands groupes d’entreprises de Corée du Sud a dépassé 106 billions de wons, a rapporté Kyunghyang Shinmun. Par groupe, Samsung et Lotte seraient chacun entrés dans la tranche des 10 billions de wons.\n\nL’immobilier non opérationnel désigne les terrains et bâtiments détenus par des entreprises sans lien direct avec leurs activités. Le rapport souligne que ces actifs des 50 plus grands groupes ont dépassé 100 billions de wons pour atteindre plus de 106 billions.\n\nL’arrivée de Samsung et Lotte au niveau des 10 billions de wons attire l’attention sur la structure de détention immobilière et la gestion d’actifs des grands conglomérats. Kyunghyang Shinmun a présenté cette hausse comme un enjeu majeur.\n\nSource: Kyunghyang Shinmun"
-      },
-      "ar": {
-        "title": "عقارات غير تشغيلية لأكبر 50 مجموعة كورية تتجاوز 106 تريليونات وون",
-        "excerpt": "بحسب صحيفة كيونغهيانغ شينمون، تجاوزت قيمة العقارات غير التشغيلية التي تملكها أكبر 50 مجموعة أعمال في كوريا الجنوبية 106 تريليونات وون، ودخلت سامسونغ ولوتيه نطاق 10 تريليونات وون لكل منهما.",
-        "body": "ذكرت صحيفة كيونغهيانغ شينمون أن حجم العقارات غير التشغيلية التي تملكها أكبر 50 مجموعة أعمال في كوريا الجنوبية تجاوز 106 تريليونات وون. وبحسب المجموعة، دخلت سامسونغ ولوتيه كل منهما نطاق 10 تريليونات وون.\n\nتشير العقارات غير التشغيلية إلى الأراضي والمباني التي تحتفظ بها الشركات من دون ارتباط مباشر بأعمالها. وركز التقرير على أن أصول أكبر 50 مجموعة في هذا المجال تجاوزت 100 تريليون وون وارتفعت إلى أكثر من 106 تريليونات وون.\n\nدخول سامسونغ ولوتيه مستوى 10 تريليونات وون يزيد الاهتمام بهيكل حيازة العقارات وإدارة الأصول لدى التكتلات الكبرى. وقدمت كيونغهيانغ شينمون نمو هذه العقارات كقضية رئيسية.\n\nالمصدر: كيونغهيانغ شينمون"
-      },
-      "hi": {
-        "title": "कोरिया के शीर्ष 50 समूहों की गैर-व्यावसायिक अचल संपत्ति 106 ट्रिलियन वॉन से ऊपर",
-        "excerpt": "क्योंगह्यांग शिनमुन के अनुसार, दक्षिण कोरिया के शीर्ष 50 कारोबारी समूहों की गैर-व्यावसायिक अचल संपत्ति 106 ट्रिलियन वॉन से अधिक हो गई है, जबकि सैमसंग और लोटे 10 ट्रिलियन वॉन श्रेणी में पहुंचे।",
-        "body": "दक्षिण कोरिया के शीर्ष 50 कारोबारी समूहों के पास मौजूद गैर-व्यावसायिक अचल संपत्ति 106 ट्रिलियन वॉन से अधिक हो गई है, क्योंगह्यांग शिनमुन ने रिपोर्ट किया। समूहों के आधार पर, सैमसंग और लोटे प्रत्येक 10 ट्रिलियन वॉन श्रेणी में पहुंच गए हैं।\n\nगैर-व्यावसायिक अचल संपत्ति से आशय उन भूमि और इमारतों से है जिन्हें कंपनियां अपने प्रत्यक्ष कारोबार से अलग रखती हैं। रिपोर्ट ने इस बात पर ध्यान दिया कि शीर्ष 50 समूहों की ऐसी संपत्तियां 100 ट्रिलियन वॉन से आगे बढ़कर 106 ट्रिलियन वॉन से अधिक हो गई हैं।\n\nसैमसंग और लोटे का 10 ट्रिलियन वॉन स्तर पर पहुंचना बड़े समूहों की संपत्ति होल्डिंग संरचना और परिसंपत्ति प्रबंधन पर ध्यान बढ़ाता है। क्योंगह्यांग शिनमुन ने इस वृद्धि को प्रमुख मुद्दे के रूप में प्रस्तुत किया।\n\nस्रोत: क्योंगह्यांग शिनमुन"
-      },
-      "id": {
-        "title": "Properti Non-Bisnis 50 Grup Terbesar Korea Tembus 106 Triliun Won",
-        "excerpt": "Menurut Kyunghyang Shinmun, properti non-bisnis milik 50 grup usaha terbesar Korea Selatan melampaui 106 triliun won, sementara Samsung dan Lotte masing-masing masuk kisaran 10 triliun won.",
-        "body": "Properti non-bisnis yang dimiliki 50 grup usaha terbesar Korea Selatan telah melampaui 106 triliun won, lapor Kyunghyang Shinmun. Berdasarkan grup, Samsung dan Lotte disebut masing-masing masuk kisaran 10 triliun won.\n\nProperti non-bisnis merujuk pada tanah dan bangunan yang dimiliki perusahaan tanpa kaitan langsung dengan kegiatan operasionalnya. Laporan itu menyoroti bahwa aset terkait milik 50 grup terbesar telah melewati 100 triliun won dan meningkat hingga lebih dari 106 triliun won.\n\nMasuknya Samsung dan Lotte ke level 10 triliun won meningkatkan perhatian terhadap struktur kepemilikan properti dan pengelolaan aset konglomerasi besar. Kyunghyang Shinmun menyajikan pertumbuhan properti non-bisnis ini sebagai isu utama.\n\nSumber: Kyunghyang Shinmun"
-      }
-    }
-  },
-  {
-    "id": "f59a413cc871",
-    "slug": "쓸데없이-왜-그리-갖나-李-저격50대-그룹-비업무용-부동산-106조---vdaumnet-528913",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:48:21.710Z",
-    "updatedAt": "2026-05-06T07:48:21.710Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mREpSSjBBaGZQanF2cEEwTno0QU5DQW5ZYlIzU3dnVlV3U2FpYXRLdktqZWgxYkFBRGNiTzRmOGhldTMwWFN2d0FWVS02eGM?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mREpSSjBBaGZQanF2cEEwTno0QU5DQW5ZYlIzU3dnVlV3U2FpYXRLdktqZWgxYkFBRGNiTzRmOGhldTMwWFN2d0FWVS02eGM?oc=5",
-    "titleFingerprint": "1008d969c21c9a92532221f2c62ee11232b29c6a",
-    "dedupKeys": [
-      "f59a413cc871f6e138794c27e04b8278bc382dfe",
-      "1008d969c21c9a92532221f2c62ee11232b29c6a",
-      "a17261833961ef02a39571e6b9ad8e5938542416"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "50대 그룹 비업무용 부동산 106조…李 “왜 그리 갖나” 저격",
-        "excerpt": "국내 50대 그룹의 비업무용 부동산 규모가 106조원으로 집계된 가운데, 李가 “쓸데없이 왜 그리 갖나”라고 비판한 내용이 보도됐다.",
-        "body": "국내 50대 그룹이 보유한 ‘비업무용 부동산’ 규모가 106조원에 이른다는 보도가 나왔다. 보도에 따르면 李는 이를 겨냥해 “쓸데없이 왜 그리 갖나”라고 지적했다.\n\n비업무용 부동산은 기업의 본업 수행과 직접 관련이 낮은 부동산을 뜻한다. 이번 보도는 50대 그룹이 보유한 해당 자산 규모를 106조원으로 제시하며, 대기업 부동산 보유 문제를 다시 부각했다.\n\n해당 발언은 기업 자산 운용과 부동산 보유 관행을 둘러싼 논쟁으로 이어질 수 있다. 보도는 50대 그룹의 비업무용 부동산 규모와 李의 비판 발언을 중심으로 전했다.\n\n출처: v.daum.net"
-      },
-      "en": {
-        "title": "Top 50 Groups Hold 106 Trillion Won in Non-Business Real Estate as Lee Criticizes",
-        "excerpt": "South Korea’s top 50 business groups reportedly hold 106 trillion won in non-business real estate, while Lee criticized the holdings by asking why they keep so much unnecessarily.",
-        "body": "South Korea’s top 50 business groups hold 106 trillion won in “non-business real estate,” according to a report. Lee criticized the holdings, asking why they keep so much property unnecessarily.\n\nNon-business real estate refers to property that is not directly tied to a company’s core operations. The report put the total value of such assets held by the top 50 groups at 106 trillion won, bringing renewed attention to large corporate property holdings.\n\nThe remarks may add to debate over corporate asset management and real estate ownership practices. The report focused on the 106 trillion won figure and Lee’s criticism of the groups’ non-business property holdings.\n\nSource: v.daum.net"
-      },
-      "ja": {
-        "title": "50大グループの非業務用不動産106兆ウォン、李氏が保有を批判",
-        "excerpt": "韓国50大グループの非業務用不動産が106兆ウォンに達すると報じられ、李氏は「無駄にどうしてそんなに持つのか」と批判した。",
-        "body": "韓国の50大グループが保有する「非業務用不動産」の規模が106兆ウォンに達するとの報道が出た。報道によると、李氏はこれを念頭に「無駄にどうしてそんなに持つのか」と指摘した。\n\n非業務用不動産とは、企業の本業遂行と直接の関連が低い不動産を指す。今回の報道は、50大グループが保有する該当資産の規模を106兆ウォンと示し、大企業の不動産保有問題を改めて浮き彫りにした。\n\nこの発言は、企業の資産運用や不動産保有慣行をめぐる議論につながる可能性がある。報道は、50大グループの非業務用不動産規模と李氏の批判発言を中心に伝えた。\n\n出典: v.daum.net"
-      },
-      "zh": {
-        "title": "韩国50大集团非业务用房地产达106万亿韩元，李氏发声批评",
-        "excerpt": "报道称，韩国50大集团持有的非业务用房地产规模达106万亿韩元，李氏批评称“没必要为何持有那么多”。",
-        "body": "据报道，韩国50大集团持有的“非业务用房地产”规模达到106万亿韩元。报道显示，李氏针对这一情况批评称，“没必要为何持有那么多”。\n\n非业务用房地产是指与企业主营业务执行直接关联较低的不动产。本次报道提出，50大集团持有的相关资产规模为106万亿韩元，使大型企业房地产持有问题再次受到关注。\n\n这一发言可能引发围绕企业资产运用和房地产持有惯例的讨论。报道主要围绕50大集团非业务用房地产规模以及李氏的批评发言展开。\n\n来源: v.daum.net"
-      },
-      "es": {
-        "title": "Los 50 mayores grupos acumulan 106 billones de wones en inmuebles no operativos",
-        "excerpt": "Los 50 mayores grupos empresariales de Corea del Sur poseen 106 billones de wones en inmuebles no operativos, mientras Lee criticó esa tenencia por considerarla innecesaria.",
-        "body": "Los 50 mayores grupos empresariales de Corea del Sur poseen 106 billones de wones en “inmuebles no operativos”, según un informe. Lee criticó esa situación al preguntar por qué mantienen tantas propiedades sin necesidad.\n\nLos inmuebles no operativos son activos inmobiliarios con baja relación directa con la actividad principal de una empresa. El informe cifró esos activos de los 50 mayores grupos en 106 billones de wones, reabriendo el foco sobre la tenencia inmobiliaria de las grandes corporaciones.\n\nLa declaración puede alimentar el debate sobre la gestión de activos corporativos y las prácticas de propiedad inmobiliaria. El reporte se centró en la cifra de 106 billones de wones y en la crítica de Lee.\n\nFuente: v.daum.net"
-      },
-      "pt": {
-        "title": "50 maiores grupos detêm 106 trilhões de wons em imóveis não operacionais",
-        "excerpt": "Os 50 maiores grupos empresariais da Coreia do Sul possuem 106 trilhões de wons em imóveis não operacionais, enquanto Lee criticou a manutenção desses ativos.",
-        "body": "Os 50 maiores grupos empresariais da Coreia do Sul detêm 106 trilhões de wons em “imóveis não operacionais”, segundo uma reportagem. Lee criticou a posse desses ativos, questionando por que mantêm tantas propriedades sem necessidade.\n\nImóveis não operacionais são bens imobiliários com pouca relação direta com a atividade principal de uma empresa. A reportagem apontou o valor de 106 trilhões de wons em ativos desse tipo nas 50 maiores corporações, reacendendo o debate sobre a posse imobiliária empresarial.\n\nA fala pode ampliar discussões sobre gestão de ativos corporativos e práticas de manutenção de imóveis. A reportagem destacou o montante de 106 trilhões de wons e a crítica de Lee.\n\nFonte: v.daum.net"
-      },
-      "de": {
-        "title": "Top-50-Konzerne halten 106 Billionen Won an nicht betriebsnotwendigen Immobilien",
-        "excerpt": "Südkoreas 50 größte Unternehmensgruppen halten laut Bericht nicht betriebsnotwendige Immobilien im Wert von 106 Billionen Won; Lee kritisierte diese Bestände.",
-        "body": "Südkoreas 50 größte Unternehmensgruppen halten laut einem Bericht „nicht betriebsnotwendige Immobilien“ im Wert von 106 Billionen Won. Lee kritisierte diese Bestände und fragte, warum sie unnötig so viel besitzen.\n\nNicht betriebsnotwendige Immobilien sind Grundstücke oder Gebäude, die nur gering direkt mit dem Kerngeschäft eines Unternehmens verbunden sind. Der Bericht bezifferte solche Vermögenswerte der 50 größten Gruppen auf 106 Billionen Won und rückte damit den Immobilienbesitz großer Unternehmen erneut in den Fokus.\n\nDie Äußerung könnte die Debatte über Unternehmensvermögen und Immobilienbesitzpraktiken verstärken. Der Bericht stellte die Summe von 106 Billionen Won und Lees Kritik in den Mittelpunkt.\n\nQuelle: v.daum.net"
-      },
-      "fr": {
-        "title": "Les 50 grands groupes détiennent 106 billions de wons en immobilier non opérationnel",
-        "excerpt": "Les 50 plus grands groupes sud-coréens détiendraient 106 billions de wons d’immobilier non opérationnel, tandis que Lee a critiqué ces avoirs jugés inutiles.",
-        "body": "Les 50 plus grands groupes sud-coréens détiennent 106 billions de wons d’« immobilier non opérationnel », selon un article. Lee a critiqué ces avoirs en demandant pourquoi ils possèdent autant de biens sans nécessité.\n\nL’immobilier non opérationnel désigne des biens peu directement liés à l’activité principale d’une entreprise. L’article évalue ces actifs détenus par les 50 grands groupes à 106 billions de wons, remettant en lumière la question de la détention immobilière par les grandes entreprises.\n\nCette déclaration pourrait nourrir le débat sur la gestion des actifs d’entreprise et les pratiques de propriété immobilière. Le reportage s’est concentré sur le montant de 106 billions de wons et la critique de Lee.\n\nSource: v.daum.net"
-      },
-      "ar": {
-        "title": "أكبر 50 مجموعة كورية تملك عقارات غير تشغيلية بقيمة 106 تريليونات وون",
-        "excerpt": "أفاد تقرير بأن أكبر 50 مجموعة في كوريا الجنوبية تملك عقارات غير تشغيلية بقيمة 106 تريليونات وون، فيما انتقد لي هذه الحيازة باعتبارها غير ضرورية.",
-        "body": "أفاد تقرير بأن أكبر 50 مجموعة أعمال في كوريا الجنوبية تملك «عقارات غير تشغيلية» بقيمة 106 تريليونات وون. وانتقد لي هذه الحيازة متسائلا عن سبب امتلاك هذا القدر من العقارات بلا ضرورة.\n\nتشير العقارات غير التشغيلية إلى الممتلكات التي لا ترتبط مباشرة على نحو كبير بالنشاط الأساسي للشركة. وقد عرض التقرير قيمة هذه الأصول لدى أكبر 50 مجموعة عند 106 تريليونات وون، ما أعاد تسليط الضوء على حيازة الشركات الكبرى للعقارات.\n\nوقد تثير هذه التصريحات نقاشا حول إدارة أصول الشركات وممارسات امتلاك العقارات. وركز التقرير على رقم 106 تريليونات وون وعلى انتقاد لي لهذه الحيازات.\n\nالمصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "शीर्ष 50 समूहों के पास 106 ट्रिलियन वॉन की गैर-व्यावसायिक रियल एस्टेट",
-        "excerpt": "रिपोर्ट के अनुसार दक्षिण कोरिया के शीर्ष 50 कारोबारी समूहों के पास 106 ट्रिलियन वॉन की गैर-व्यावसायिक रियल एस्टेट है, जिस पर ली ने आलोचना की।",
-        "body": "एक रिपोर्ट के अनुसार दक्षिण कोरिया के शीर्ष 50 कारोबारी समूहों के पास 106 ट्रिलियन वॉन की “गैर-व्यावसायिक रियल एस्टेट” है। ली ने इस पर आलोचना करते हुए पूछा कि वे अनावश्यक रूप से इतनी संपत्ति क्यों रखते हैं।\n\nगैर-व्यावसायिक रियल एस्टेट उन संपत्तियों को कहा जाता है जिनका कंपनी के मुख्य व्यवसाय से सीधा संबंध कम होता है। रिपोर्ट ने शीर्ष 50 समूहों की ऐसी संपत्तियों का मूल्य 106 ट्रिलियन वॉन बताया, जिससे बड़ी कंपनियों की अचल संपत्ति होल्डिंग पर फिर ध्यान गया।\n\nयह टिप्पणी कॉरपोरेट परिसंपत्ति प्रबंधन और रियल एस्टेट स्वामित्व प्रथाओं पर बहस बढ़ा सकती है। रिपोर्ट का केंद्र 106 ट्रिलियन वॉन का आंकड़ा और ली की आलोचना रही।\n\nस्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "50 Grup Terbesar Pegang Real Estat Non-Bisnis 106 Triliun Won, Lee Mengkritik",
-        "excerpt": "Sebanyak 50 grup usaha terbesar Korea Selatan dilaporkan memiliki real estat non-bisnis senilai 106 triliun won, sementara Lee mengkritik kepemilikan itu.",
-        "body": "Sebanyak 50 grup usaha terbesar Korea Selatan memiliki “real estat non-bisnis” senilai 106 triliun won, menurut sebuah laporan. Lee mengkritik kepemilikan tersebut dengan mempertanyakan mengapa mereka menyimpan begitu banyak properti yang tidak perlu.\n\nReal estat non-bisnis merujuk pada properti yang tidak banyak berkaitan langsung dengan kegiatan utama perusahaan. Laporan itu menyebut nilai aset tersebut pada 50 grup terbesar mencapai 106 triliun won, sehingga isu kepemilikan properti oleh korporasi besar kembali menjadi sorotan.\n\nPernyataan itu dapat memicu pembahasan mengenai pengelolaan aset perusahaan dan praktik kepemilikan real estat. Laporan tersebut berfokus pada angka 106 triliun won dan kritik Lee.\n\nSumber: v.daum.net"
       }
     }
   }
