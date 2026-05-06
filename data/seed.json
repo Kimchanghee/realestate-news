@@ -1,5 +1,230 @@
 [
   {
+    "id": "58938e31ef6d",
+    "slug": "공급-없는데-매물-잠겨입지-좋은-곳-청약이-탈출구-129512",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T23:15:11.382Z",
+    "updatedAt": "2026-05-06T23:15:11.382Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050681761",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050681761",
+    "titleFingerprint": "a440e993bc3481946eb6df89cba286192daad19b",
+    "dedupKeys": [
+      "58938e31ef6d260c23d645157b1999d8f38fa6bf",
+      "a440e993bc3481946eb6df89cba286192daad19b",
+      "c7b9ccda25a62499d411e5c1528ebaf13935d12b"
+    ],
+    "imageUrl": "/images/articles/58938e31ef6d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "수도권 매물 잠김 심화, 공급 부족 속 입지 좋은 청약 단지가 해법으로 부상",
+        "excerpt": "2026년 5월 9일 다주택자 양도세 중과 유예 종료를 앞두고 수도권 주택 매물이 줄자, 전문가들은 공급 부족 국면에서 입지 좋은 신규 청약 단지를 주목하라고 조언했다.",
+        "body": "2026년 5월 6일 한국경제에 따르면 서울을 비롯한 수도권 주택시장은 집값 상승세가 이어지는 가운데 매물 잠김과 신규 공급 부족이 동시에 나타나고 있다. 오는 5월 9일부터 다주택자 양도소득세 중과 유예가 종료되면 조정대상지역 주택 매도 때 최고 30%포인트의 세금이 추가된다. 아실 집계에서 3월 31일부터 4월 30일까지 서울 중랑구 아파트 매물은 16.8% 줄었고 송파구, 동작구, 강북구, 구로구도 10% 넘게 감소했다. 서울 아파트값은 4월 넷째 주 0.15%, 마지막 주 0.14% 올랐다. 서울 입주 물량은 지난해 4만6353가구에서 올해 4165가구로 줄어든다. 전문가들은 동작 센트럴, 흑석뉴타운, 목동윤슬자이, 시흥, 왕숙, 검암역, 검단 등 입지 좋은 신규 청약을 대안으로 제시했다. 출처: hankyung.com 인용."
+      },
+      "en": {
+        "title": "Locked Listings in Seoul Area Put Well-Located New Subscriptions in Focus",
+        "excerpt": "Ahead of the May 9, 2026 end of the capital gains tax surcharge deferral for multi-home owners, Seoul-area listings are shrinking and experts point to well-located new subscriptions.",
+        "body": "According to Hankyung.com on May 6, 2026, home prices in Seoul and the wider capital region continue to rise as listings become locked and new supply weakens. From May 9, the deferral of the capital gains tax surcharge for multi-home owners ends, adding up to 30 percentage points in tax when they sell homes in regulated areas. Asil data showed apartment listings in Seoul’s Jungnang-gu fell 16.8% from March 31 to April 30, while Songpa, Dongjak, Gangbuk and Guro also dropped by more than 10%. Seoul apartment prices rose 0.15% in the fourth week of April and 0.14% in the final week. Seoul move-in supply is set to fall from 46,353 units last year to 4,165 this year. Experts named well-located new offerings such as Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, Geomam Station and Geomdan as alternatives. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "首都圏で売り物件減少、供給不足の中で好立地の新規分譲申込に注目",
+        "excerpt": "2026年5月9日の多住宅保有者向け譲渡所得税重課猶予終了を前に首都圏の売り物件が減り、専門家は好立地の新規分譲申込に注目すべきだと指摘した。",
+        "body": "2026年5月6日の韓国経済新聞によると、ソウルを含む首都圏の住宅市場では価格上昇が続く一方、売り物件の減少と新規供給不足が同時に表れている。5月9日から多住宅保有者向け譲渡所得税重課猶予が終了し、規制地域の住宅を売却する際に最大30ポイントの税負担が追加される。Asilの集計では、3月31日から4月30日までソウル中浪区のマンション売り物件は16.8%減少し、松坡区、銅雀区、江北区、九老区も10%超減った。ソウルのマンション価格は4月第4週に0.15%、最終週に0.14%上昇した。ソウルの入居予定戸数は昨年の4万6353戸から今年4165戸へ減る。専門家は銅雀セントラル、黒石ニュータウン、木洞ユンスルXi、始興、王宿、黔岩駅、黔丹など好立地の新規分譲を代案に挙げた。出典: hankyung.com引用。"
+      },
+      "zh": {
+        "title": "首都圈房源锁定加剧，供应不足下优质区位认购成关注焦点",
+        "excerpt": "在2026年5月9日多房业主转让所得税重税缓征结束前，首都圈房源减少，专家建议关注供应不足背景下区位较好的新盘认购。",
+        "body": "据韩国经济新闻2026年5月6日报道，首尔及首都圈住宅市场在房价继续上涨的同时，正出现房源锁定和新供应不足并存的情况。自5月9日起，多房业主转让所得税重税缓征结束，在调控地区出售住房时最高将追加30个百分点税负。Asil数据显示，3月31日至4月30日，首尔中浪区公寓挂牌量减少16.8%，松坡区、铜雀区、江北区、九老区也下降超过10%。首尔公寓价格在4月第四周上涨0.15%，最后一周上涨0.14%。首尔公寓入住供应量将从去年的46353户降至今年4165户。专家将铜雀Central、黑石New Town、木洞Yoonseul Xi、始兴、王宿、黔岩站、黔丹等区位较好的新盘认购列为替代选择。来源：hankyung.com引用。"
+      },
+      "es": {
+        "title": "Menos viviendas en venta en el área de Seúl: la preventa bien ubicada gana peso",
+        "excerpt": "Antes del fin, el 9 de mayo de 2026, de la moratoria del recargo fiscal a multipropietarios, bajan las ofertas en el área de Seúl y expertos miran nuevas preventas bien ubicadas.",
+        "body": "Según Hankyung.com el 6 de mayo de 2026, el mercado residencial de Seúl y su área metropolitana mantiene la subida de precios mientras se reducen las viviendas en venta y escasea la nueva oferta. Desde el 9 de mayo termina la moratoria del recargo del impuesto sobre ganancias de capital para multipropietarios, con hasta 30 puntos porcentuales adicionales al vender viviendas en zonas reguladas. Datos de Asil muestran que las ofertas de apartamentos en Jungnang-gu, Seúl, cayeron 16,8% entre el 31 de marzo y el 30 de abril; Songpa, Dongjak, Gangbuk y Guro también bajaron más de 10%. Los precios de apartamentos en Seúl subieron 0,15% en la cuarta semana de abril y 0,14% en la última. Las entregas previstas en Seúl pasarán de 46.353 unidades el año pasado a 4.165 este año. Expertos citaron Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, estación Geomam y Geomdan como alternativas. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Imóveis travados na região de Seul elevam foco em lançamentos bem localizados",
+        "excerpt": "Antes do fim, em 9 de maio de 2026, da suspensão da sobretaxa sobre ganho de capital para donos de vários imóveis, ofertas caem na região de Seul e especialistas apontam lançamentos bem localizados.",
+        "body": "Segundo o Hankyung.com em 6 de maio de 2026, o mercado residencial de Seul e da região metropolitana segue com preços em alta enquanto os imóveis à venda diminuem e a nova oferta enfraquece. A partir de 9 de maio termina a suspensão da sobretaxa do imposto sobre ganho de capital para proprietários de vários imóveis, acrescentando até 30 pontos percentuais ao vender casas em áreas reguladas. Dados da Asil mostram que as ofertas de apartamentos em Jungnang-gu, Seul, caíram 16,8% de 31 de março a 30 de abril; Songpa, Dongjak, Gangbuk e Guro também recuaram mais de 10%. Os preços dos apartamentos em Seul subiram 0,15% na quarta semana de abril e 0,14% na última. As entregas em Seul devem cair de 46.353 unidades no ano passado para 4.165 neste ano. Especialistas citaram Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, estação Geomam e Geomdan como alternativas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Weniger Angebote im Raum Seoul: Gut gelegene Neubau-Lotterien rücken in den Fokus",
+        "excerpt": "Vor dem Ende der Aufschiebung des Steuerzuschlags für Mehrfachbesitzer am 9. Mai 2026 sinkt das Angebot im Großraum Seoul; Experten verweisen auf gut gelegene Neubauzeichnungen.",
+        "body": "Laut Hankyung.com vom 6. Mai 2026 steigen die Wohnungspreise in Seoul und der Hauptstadtregion weiter, während Verkaufsangebote knapper werden und neue Versorgung fehlt. Ab dem 9. Mai endet die Aufschiebung des Zuschlags auf die Kapitalertragsteuer für Mehrfachhausbesitzer; beim Verkauf von Wohnungen in regulierten Gebieten können bis zu 30 Prozentpunkte zusätzliche Steuer anfallen. Nach Daten von Asil sanken die Apartmentangebote in Seouls Jungnang-gu vom 31. März bis 30. April um 16,8%; auch Songpa, Dongjak, Gangbuk und Guro gingen um mehr als 10% zurück. Seouls Apartmentpreise stiegen in der vierten Aprilwoche um 0,15% und in der letzten Woche um 0,14%. Die Einzugsmenge in Seoul soll von 46.353 Einheiten im Vorjahr auf 4.165 in diesem Jahr fallen. Experten nannten Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, Geomam Station und Geomdan als Alternativen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Offres bloquées autour de Séoul: les programmes neufs bien situés attirent l’attention",
+        "excerpt": "Avant la fin, le 9 mai 2026, du report de surtaxe sur les plus-values pour multipropriétaires, les biens à vendre reculent dans la région de Séoul et les experts ciblent les programmes bien situés.",
+        "body": "Selon Hankyung.com le 6 mai 2026, le marché résidentiel de Séoul et de sa région continue de voir les prix monter, tandis que les biens à vendre se raréfient et que l’offre neuve manque. À partir du 9 mai, le report de la surtaxe sur les plus-values pour les multipropriétaires prend fin, ajoutant jusqu’à 30 points de pourcentage d’impôt lors de la vente de logements en zones réglementées. D’après Asil, les annonces d’appartements à Jungnang-gu, Séoul, ont diminué de 16,8% du 31 mars au 30 avril; Songpa, Dongjak, Gangbuk et Guro ont aussi reculé de plus de 10%. Les prix des appartements à Séoul ont augmenté de 0,15% la quatrième semaine d’avril puis de 0,14% la dernière semaine. Les livraisons à Séoul devraient passer de 46.353 logements l’an dernier à 4.165 cette année. Les experts citent Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, la gare de Geomam et Geomdan comme options. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "تراجع المعروض في منطقة سول يضع الاكتتابات السكنية ذات المواقع الجيدة في الواجهة",
+        "excerpt": "قبيل انتهاء تأجيل الضريبة الإضافية على أرباح بيع العقارات لملاك عدة منازل في 9 مايو 2026، تتراجع المعروضات في منطقة سول ويشير الخبراء إلى الاكتتابات الجديدة الجيدة الموقع.",
+        "body": "وفقاً لموقع Hankyung.com في 6 مايو 2026، يواصل سوق السكن في سول ومنطقة العاصمة ارتفاع الأسعار بينما تتقلص المعروضات ويضعف المعروض الجديد. واعتباراً من 9 مايو ينتهي تأجيل الضريبة الإضافية على أرباح البيع لملاك عدة منازل، ما يضيف ما يصل إلى 30 نقطة مئوية عند بيع مساكن في مناطق خاضعة للتنظيم. أظهرت بيانات Asil أن معروض الشقق في جونغنانغ غو بسول انخفض 16.8% بين 31 مارس و30 أبريل، كما تراجع في سونغبا ودونغجاك وغانغبوك وغورو بأكثر من 10%. ارتفعت أسعار شقق سول 0.15% في الأسبوع الرابع من أبريل و0.14% في الأسبوع الأخير. ومن المتوقع أن ينخفض حجم الوحدات الجاهزة للسكن في سول من 46353 وحدة العام الماضي إلى 4165 هذا العام. وذكر الخبراء دونغجاك سنترال، هيكسوك نيو تاون، موكدونغ يونسل زاي، سيهيونغ، وانغسوك، محطة غيومام وغيومدان كبدائل. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सियोल क्षेत्र में बिक्री सूची घटी, अच्छी लोकेशन वाली नई सदस्यता पर ध्यान",
+        "excerpt": "9 मई 2026 को बहु-गृह मालिकों के पूंजीगत लाभ कर अधिभार स्थगन के अंत से पहले सियोल क्षेत्र में बिक्री सूची घट रही है और विशेषज्ञ अच्छी लोकेशन वाली नई सदस्यता पर ध्यान दे रहे हैं।",
+        "body": "Hankyung.com के अनुसार 6 मई 2026 को सियोल और राजधानी क्षेत्र के आवास बाजार में कीमतें बढ़ रही हैं, जबकि बिक्री सूची बंद हो रही है और नई आपूर्ति कमजोर है। 9 मई से बहु-गृह मालिकों के लिए पूंजीगत लाभ कर अधिभार स्थगन समाप्त होगा, जिससे विनियमित क्षेत्रों में घर बेचते समय अधिकतम 30 प्रतिशत अंक अतिरिक्त कर लगेगा। Asil के आंकड़ों में 31 मार्च से 30 अप्रैल तक सियोल के जुंगनांग-गु में अपार्टमेंट सूची 16.8% घटी; सोंगपा, डोंगजाक, गांगबुक और गुरो में भी 10% से अधिक कमी आई। सियोल अपार्टमेंट कीमतें अप्रैल के चौथे सप्ताह में 0.15% और अंतिम सप्ताह में 0.14% बढ़ीं। सियोल में入住 आपूर्ति पिछले साल 46,353 इकाइयों से इस साल 4,165 इकाइयों तक घटने वाली है। विशेषज्ञों ने डोंगजाक सेंट्रल, ह्यूकसोक न्यू टाउन, मोकडोंग यूनसूल शी, सिहुंग, वांगसुक, जियोमाम स्टेशन और जियोमदान जैसे विकल्प बताए। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Listing Rumah Terkunci di Seoul Raya, Langganan Baru Berlokasi Baik Jadi Sorotan",
+        "excerpt": "Menjelang berakhirnya penangguhan pajak tambahan keuntungan modal bagi pemilik banyak rumah pada 9 Mei 2026, listing di Seoul Raya menyusut dan pakar menyoroti proyek baru berlokasi baik.",
+        "body": "Menurut Hankyung.com pada 6 Mei 2026, pasar perumahan Seoul dan wilayah ibu kota terus mencatat kenaikan harga saat listing makin terkunci dan pasokan baru menipis. Mulai 9 Mei, penangguhan pajak tambahan keuntungan modal bagi pemilik banyak rumah berakhir, sehingga penjualan rumah di area regulasi dapat dikenai tambahan pajak hingga 30 poin persentase. Data Asil menunjukkan listing apartemen di Jungnang-gu, Seoul, turun 16,8% dari 31 Maret hingga 30 April; Songpa, Dongjak, Gangbuk, dan Guro juga turun lebih dari 10%. Harga apartemen Seoul naik 0,15% pada pekan keempat April dan 0,14% pada pekan terakhir. Pasokan unit siap huni di Seoul diperkirakan turun dari 46.353 unit tahun lalu menjadi 4.165 unit tahun ini. Pakar menyebut Dongjak Central, Heukseok New Town, Mokdong Yoonseul Xi, Siheung, Wangsuk, Stasiun Geomam, dan Geomdan sebagai alternatif. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "4c9cfb74a224",
+    "slug": "비아파트라도-공급해야-vs-서울시가-빌라-공급-주도-불가능-909374",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T23:13:51.662Z",
+    "updatedAt": "2026-05-06T23:13:51.662Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605069172i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605069172i",
+    "titleFingerprint": "e2430d00be2c5679700c90664a4da5d240a38e20",
+    "dedupKeys": [
+      "4c9cfb74a2243c4106e25800040c813ef070ff36",
+      "e2430d00be2c5679700c90664a4da5d240a38e20",
+      "90e8e68244092537a0df249d4d87cd2fbbf08607"
+    ],
+    "imageUrl": "/images/articles/4c9cfb74a224.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 주택공급 공방 격화, 비아파트 해법 두고 정원오·오세훈 충돌",
+        "excerpt": "6·3 지방선거를 앞두고 정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 후보가 서울 전·월세난 해법과 비아파트 공급 실효성을 놓고 맞섰다.",
+        "body": "6·3 지방선거를 앞두고 정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 후보가 6일 서울 주택공급 해법을 두고 충돌했다. 두 후보는 서울의 주택공급 확대 필요성에는 공감하지만, 빌라·오피스텔·생활숙박시설 등 비아파트를 전·월세난 대책으로 볼 수 있는지를 놓고 입장이 갈렸다. 정 후보는 공급 부족이 전·월세 문제의 원인이라며 연 6만 가구 신규 공급이 필요하지만 오 후보 시장 재임 당시 4만 가구도 공급되지 않았다고 지적했다. 캠프 자료를 통해 빌라·도시형 생활주택·매입임대 등 다양한 주거 모델 공급도 제시했다. 오 후보는 서울시가 빌라 공급을 주도하기 어렵고 공공은 무주택 시민 선호도가 높은 아파트 공급을 뒷받침해야 한다고 맞섰다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Seoul Housing Supply Debate Deepens as Jeong and Oh Clash Over Non-Apartments",
+        "excerpt": "Ahead of the June 3 local elections, Seoul mayoral candidates Jeong Won-oh and Oh Se-hoon clashed over whether non-apartment supply can ease the city’s rent pressure.",
+        "body": "Ahead of the June 3 local elections, Jeong Won-oh, the Democratic Party candidate for Seoul mayor, and Oh Se-hoon, the People Power Party candidate, clashed on May 6 over how to expand housing supply in Seoul. Both agree that the city needs more homes, but they differ on whether villas, officetels and serviced residences can be a solution to jeonse and monthly rent pressure. Jeong said the rental problem stems from a supply shortage and argued that Seoul needs about 60,000 new homes a year, while fewer than 40,000 were supplied during Oh’s mayoralty. His campaign also proposed various housing models, including villas, urban living housing and purchased rental homes. Oh responded that Seoul cannot realistically lead villa supply and that the public sector should support apartment supply, the type most preferred by homeless residents. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソウル住宅供給論争が激化、非マンション対策で鄭元五氏と呉世勲氏が対立",
+        "excerpt": "6月3日の地方選を前に、鄭元五・共に民主党ソウル市長候補と呉世勲・国民の力候補が、賃貸難対策と非マンション供給の実効性をめぐり対立した。",
+        "body": "6月3日の地方選を前に、鄭元五・共に民主党ソウル市長候補と呉世勲・国民の力候補は5月6日、ソウルの住宅供給策をめぐって衝突した。両候補は住宅供給拡大の必要性では一致するが、ヴィラ、オフィステル、生活宿泊施設など非マンションをチョンセ・月払い家賃難の対策と見なせるかで立場が分かれた。鄭氏は賃貸問題の原因は供給不足だとし、年間約6万戸の新規供給が必要なのに、呉氏の市長在任時は4万戸にも届かなかったと指摘した。陣営資料では、ヴィラ、都市型生活住宅、買い取り賃貸など多様な住居モデルの供給も示した。呉氏は、ソウル市がヴィラ供給を主導するのは現実的でなく、公的部門は無住宅市民の選好が高いマンション供給を支えるべきだと反論した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "首尔住房供应争论升级，郑元五与吴世勋围绕非公寓方案交锋",
+        "excerpt": "在6月3日地方选举前，共同民主党首尔市长候选人郑元五与国民力量候选人吴世勋，就首尔租赁压力和非公寓供应成效发生分歧。",
+        "body": "在6月3日地方选举前，共同民主党首尔市长候选人郑元五和国民力量候选人吴世勋于5月6日围绕首尔住房供应方案发生交锋。两人都认同首尔需要扩大住房供应，但在别墅、办公居住两用楼、生活住宿设施等非公寓是否可作为全租和月租压力对策上意见不同。郑元五表示，租赁问题归根结底来自供应不足，首尔每年需要约6万套新增住房，但吴世勋担任市长期间供应量不足4万套。他的竞选团队还提出供应别墅、城市型生活住宅、收购型租赁住房等多样居住模式。吴世勋则回应称，首尔市难以主导别墅供应，公共部门应支撑无房市民更偏好的公寓供应。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Debate por vivienda en Seúl: Jeong y Oh chocan por la oferta no apartamento",
+        "excerpt": "Antes de las elecciones locales del 3 de junio, Jeong Won-oh y Oh Se-hoon discreparon sobre si las viviendas no apartamento pueden aliviar la presión de alquiler en Seúl.",
+        "body": "Antes de las elecciones locales del 3 de junio, Jeong Won-oh, candidato del Partido Democrático a la alcaldía de Seúl, y Oh Se-hoon, candidato del Partido del Poder Popular, chocaron el 6 de mayo por la forma de ampliar la oferta de vivienda en la ciudad. Ambos coinciden en que Seúl necesita más viviendas, pero discrepan sobre si villas, officetels y alojamientos residenciales pueden servir como respuesta a la presión del jeonse y del alquiler mensual. Jeong afirmó que el problema de alquiler se debe a la escasez de oferta y sostuvo que Seúl necesita unas 60.000 viviendas nuevas al año, mientras que durante la alcaldía de Oh no se llegó a 40.000. Su campaña también propuso modelos diversos, como villas, vivienda urbana compacta y alquileres adquiridos. Oh respondió que Seúl no puede liderar de forma realista la oferta de villas y que el sector público debe respaldar la oferta de apartamentos, el tipo más preferido por ciudadanos sin vivienda. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Debate sobre moradia em Seul cresce com choque entre Jeong e Oh por não apartamentos",
+        "excerpt": "Antes das eleições locais de 3 de junho, Jeong Won-oh e Oh Se-hoon divergiram sobre se imóveis não apartamento podem aliviar a pressão do aluguel em Seul.",
+        "body": "Antes das eleições locais de 3 de junho, Jeong Won-oh, candidato do Partido Democrático à prefeitura de Seul, e Oh Se-hoon, candidato do Partido do Poder Popular, entraram em confronto em 6 de maio sobre como ampliar a oferta habitacional na cidade. Ambos concordam que Seul precisa de mais moradias, mas divergem sobre se villas, officetels e residências de hospedagem podem ser resposta à pressão do jeonse e do aluguel mensal. Jeong disse que o problema de aluguel decorre da falta de oferta e afirmou que Seul precisa de cerca de 60 mil novas unidades por ano, enquanto menos de 40 mil foram ofertadas durante a gestão de Oh. Sua campanha também propôs modelos variados, como villas, habitação urbana compacta e imóveis comprados para aluguel. Oh respondeu que a cidade não pode liderar realisticamente a oferta de villas e que o setor público deve apoiar a oferta de apartamentos, tipo mais preferido por moradores sem casa. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Wohnungsangebot in Seoul: Jeong und Oh streiten über Nicht-Apartment-Lösung",
+        "excerpt": "Vor den Kommunalwahlen am 3. Juni stritten Jeong Won-oh und Oh Se-hoon darüber, ob Nicht-Apartments die Mietprobleme in Seoul lindern können.",
+        "body": "Vor den Kommunalwahlen am 3. Juni gerieten Jeong Won-oh, Bürgermeisterkandidat der Demokratischen Partei für Seoul, und Oh Se-hoon, Kandidat der People Power Party, am 6. Mai über Wege zur Ausweitung des Wohnungsangebots aneinander. Beide sehen den Bedarf an mehr Wohnungen in Seoul, unterscheiden sich aber bei der Frage, ob Villen, Officetels und wohnähnliche Beherbergungsformen eine Antwort auf Jeonse- und Monatsmietdruck sein können. Jeong sagte, das Mietproblem gehe letztlich auf Angebotsmangel zurück; Seoul brauche jährlich rund 60.000 neue Wohnungen, während unter Oh als Bürgermeister nicht einmal 40.000 geliefert worden seien. Sein Wahlkampfteam schlug zudem verschiedene Modelle vor, darunter Villen, städtische Kleinwohnungen und angekaufte Mietwohnungen. Oh entgegnete, Seoul könne die Villenversorgung nicht realistisch anführen; die öffentliche Hand solle vielmehr den von wohnungslosen Bürgern bevorzugten Apartmentbau stützen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Logement à Séoul: Jeong et Oh s’opposent sur l’offre hors appartements",
+        "excerpt": "À l’approche des élections locales du 3 juin, Jeong Won-oh et Oh Se-hoon se sont opposés sur l’efficacité des logements hors appartements face à la tension locative à Séoul.",
+        "body": "À l’approche des élections locales du 3 juin, Jeong Won-oh, candidat du Parti démocrate à la mairie de Séoul, et Oh Se-hoon, candidat du People Power Party, se sont opposés le 6 mai sur les moyens d’accroître l’offre de logements dans la capitale. Tous deux reconnaissent la nécessité d’augmenter l’offre, mais divergent sur le rôle des villas, officetels et résidences de type hébergement dans la réponse aux tensions du jeonse et des loyers mensuels. Jeong a déclaré que le problème locatif vient d’un manque d’offre et que Séoul a besoin d’environ 60.000 nouveaux logements par an, alors que moins de 40.000 ont été fournis lorsque Oh était maire. Son équipe a aussi proposé divers modèles, dont villas, logements urbains compacts et logements locatifs acquis. Oh a répondu que la ville ne peut pas diriger de façon réaliste l’offre de villas et que le secteur public doit soutenir l’offre d’appartements, le type préféré des habitants sans logement. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "جدل إمدادات السكن في سيول يتصاعد مع خلاف جيونغ وأوه حول غير الشقق",
+        "excerpt": "قبيل الانتخابات المحلية في 3 يونيو، اختلف مرشحا عمدة سيول جيونغ وون أوه وأوه سي هون حول قدرة المساكن غير الشقق على تخفيف أزمة الإيجارات في المدينة.",
+        "body": "قبيل الانتخابات المحلية في 3 يونيو، تصادم جيونغ وون أوه، مرشح الحزب الديمقراطي لمنصب عمدة سيول، وأوه سي هون، مرشح حزب قوة الشعب، في 6 مايو بشأن طريقة توسيع إمدادات السكن في سيول. يتفق الطرفان على حاجة المدينة إلى مزيد من المساكن، لكنهما يختلفان حول ما إذا كانت الفيلات والأوفيس텔 ومرافق الإقامة السكنية يمكن أن تكون حلا لضغط الجونسيه والإيجار الشهري. قال جيونغ إن مشكلة الإيجارات تعود إلى نقص العرض، وإن سيول تحتاج إلى نحو 60 ألف مسكن جديد سنويا، بينما لم يتجاوز العرض 40 ألفا خلال فترة أوه في رئاسة البلدية. كما طرحت حملته نماذج متنوعة تشمل الفيلات والمساكن الحضرية والمساكن المؤجرة المشتراة. ورد أوه بأن قيادة بلدية سيول لإمدادات الفيلات ليست واقعية، وأن القطاع العام يجب أن يدعم توفير الشقق، وهي النوع الذي يفضله المواطنون بلا مساكن. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सियोल आवास आपूर्ति पर बहस तेज, गैर-अपार्टमेंट समाधान पर जोंग और ओह आमने-सामने",
+        "excerpt": "3 जून के स्थानीय चुनावों से पहले सियोल मेयर उम्मीदवार जोंग वोन-ओह और ओह से-हून किराया दबाव कम करने में गैर-अपार्टमेंट आपूर्ति की भूमिका पर भिड़े।",
+        "body": "3 जून के स्थानीय चुनावों से पहले डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जोंग वोन-ओह और पीपल पावर पार्टी के उम्मीदवार ओह से-हून 6 मई को सियोल में आवास आपूर्ति बढ़ाने के तरीके पर आमने-सामने आए। दोनों मानते हैं कि शहर को अधिक घरों की जरूरत है, लेकिन विला, ऑफिसटेल और रहने योग्य आवास सुविधाओं को जोंसे और मासिक किराया दबाव का उपाय माना जा सकता है या नहीं, इस पर मतभेद है। जोंग ने कहा कि किराया समस्या आपूर्ति की कमी से पैदा होती है और सियोल को हर साल करीब 60,000 नए घरों की जरूरत है, जबकि ओह के मेयर रहते 40,000 से भी कम घरों की आपूर्ति हुई। उनके अभियान ने विला, शहरी जीवन आवास और खरीदे गए किराये के घरों जैसे विविध मॉडल भी पेश किए। ओह ने जवाब दिया कि सियोल शहर के लिए विला आपूर्ति का नेतृत्व करना यथार्थवादी नहीं है और सार्वजनिक क्षेत्र को उन अपार्टमेंटों की आपूर्ति का समर्थन करना चाहिए जिन्हें बिना घर वाले नागरिक सबसे अधिक पसंद करते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Debat Pasokan Hunian Seoul Memanas, Jeong dan Oh Beda Sikap soal Non-Apartemen",
+        "excerpt": "Menjelang pemilihan lokal 3 Juni, kandidat wali kota Seoul Jeong Won-oh dan Oh Se-hoon berselisih soal apakah hunian non-apartemen dapat meredakan tekanan sewa.",
+        "body": "Menjelang pemilihan lokal 3 Juni, Jeong Won-oh, kandidat wali kota Seoul dari Partai Demokrat, dan Oh Se-hoon, kandidat dari People Power Party, berselisih pada 6 Mei soal cara memperluas pasokan rumah di Seoul. Keduanya sepakat bahwa kota itu membutuhkan lebih banyak hunian, tetapi berbeda pandangan tentang apakah vila, officetel, dan fasilitas penginapan hunian dapat menjadi solusi bagi tekanan jeonse dan sewa bulanan. Jeong mengatakan masalah sewa muncul karena kekurangan pasokan dan Seoul membutuhkan sekitar 60.000 rumah baru per tahun, sedangkan pasokan saat Oh menjabat wali kota tidak mencapai 40.000 unit. Tim kampanyenya juga mengusulkan berbagai model, termasuk vila, rumah tinggal perkotaan, dan rumah sewa yang dibeli pemerintah. Oh menanggapi bahwa Seoul tidak realistis memimpin pasokan vila dan sektor publik harus mendukung pasokan apartemen, jenis yang paling disukai warga tanpa rumah. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "93c52e7604f1",
+    "slug": "여의도-10분컷-아크로-리버-스카이-매부리tv-분양나우-462842",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T23:12:27.400Z",
+    "updatedAt": "2026-05-06T23:12:27.400Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12038083",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038083",
+    "titleFingerprint": "acb18b527b510e3974bac0c40d736c0433962ff1",
+    "dedupKeys": [
+      "93c52e7604f19652e2e224aa72efdf8bb4cea4f2",
+      "acb18b527b510e3974bac0c40d736c0433962ff1",
+      "2435c339db73e3c2f27bfae4e3b327907f17d4ad"
+    ],
+    "imageUrl": "/images/articles/93c52e7604f1.png",
+    "i18n": {
+      "ko": {
+        "title": "아크로 리버 스카이, ‘여의도 10분컷’ 입지로 주목받는 노량진 분양 정보",
+        "excerpt": "매부리TV ‘분양나우’가 노량진 아크로 리버 스카이를 다루며 여의도 10분 생활권으로 소개된 입지와 최신 분양 정보를 전했다.",
+        "body": "매일경제 매부리TV의 ‘분양나우(牛)’ 코너가 노량진 아크로 리버 스카이 분양 정보를 소개했다. 소띠인 위지혜 매일경제 부동산부 기자가 소처럼 성실하게 현장을 취재해 분양 정보를 전달하는 형식이다. 이번 콘텐츠의 핵심은 제목에 제시된 ‘여의도 10분컷’ 입지다. 노량진에서 여의도 접근성을 앞세운 단지로 아크로 리버 스카이가 조명됐으며, 최신 분양 정보를 원하는 수요자에게 관련 내용을 정리해 제공했다. 향후 관심은 실제 분양 조건과 입지 평가에 모일 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Acro River Sky in Noryangjin Draws Notice for ‘10-Minute Yeouido’ Access",
+        "excerpt": "Maeburi TV’s Bunyang Now covered Acro River Sky in Noryangjin, introducing its reported 10-minute Yeouido access and latest sales information.",
+        "body": "Maeil Business Newspaper’s Maeburi TV introduced sales information for Acro River Sky in Noryangjin through its Bunyang Now segment. The format features real estate reporter Wi Ji-hye, born in the Year of the Ox, reporting diligently on new housing sales information. The key point of this installment is the location described in the title as a ‘10-minute cut’ to Yeouido. Acro River Sky was highlighted as a Noryangjin project emphasizing access to Yeouido, with the program organizing the latest information for prospective buyers seeking current presale details. Attention is expected to center on the actual sales terms and location assessment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ノリャンジンのアクロ・リバー・スカイ、汝矣島10分圏の立地で注目",
+        "excerpt": "毎部里TVの「分譲ナウ」がノリャンジンのアクロ・リバー・スカイを取り上げ、汝矣島10分圏と紹介された立地と最新分譲情報を伝えた。",
+        "body": "毎日経済の毎部里TVは「分譲ナウ」コーナーで、ノリャンジンのアクロ・リバー・スカイの分譲情報を紹介した。丑年生まれの毎日経済不動産部、ウィ・ジヘ記者が牛のように誠実に現場を取材し、分譲情報を伝える形式だ。今回の内容の焦点は、タイトルに示された「汝矣島10分カット」という立地である。ノリャンジンから汝矣島へのアクセスを前面に出した団地としてアクロ・リバー・スカイが取り上げられ、最新の分譲情報を求める需要者向けに関連内容が整理された。今後の関心は実際の分譲条件と立地評価に集まるとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "鹭梁津 Acro River Sky 以“10分钟到汝矣岛”区位受到关注",
+        "excerpt": "Maeburi TV“分售Now”介绍了鹭梁津 Acro River Sky，重点呈现其被称为10分钟到汝矣岛生活圈的区位和最新分售信息。",
+        "body": "每日经济 Maeburi TV 在“分售Now”栏目中介绍了鹭梁津 Acro River Sky 的分售信息。该栏目由属牛的每日经济房地产部记者魏智慧像牛一样勤恳采访并传递分售信息。此次内容的核心，是标题中提出的“10分钟到汝矣岛”区位。Acro River Sky 作为强调从鹭梁津前往汝矣岛便利性的项目受到关注，节目为希望了解最新分售信息的需求者整理了相关内容。后续关注点预计将集中在实际分售条件和区位评价上。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Acro River Sky en Noryangjin destaca por su acceso de ‘10 minutos a Yeouido’",
+        "excerpt": "Maeburi TV presentó en Bunyang Now a Acro River Sky en Noryangjin, destacando su ubicación descrita como a 10 minutos de Yeouido y la información reciente de preventa.",
+        "body": "Maeburi TV, de Maeil Business Newspaper, presentó información de preventa de Acro River Sky en Noryangjin en su sección Bunyang Now. El formato muestra a la reportera inmobiliaria Wi Ji-hye, nacida en el Año del Buey, cubriendo con constancia la información de nuevas preventas. El punto central de esta entrega es la ubicación descrita en el título como de ‘10 minutos a Yeouido’. Acro River Sky fue destacado como un complejo en Noryangjin que subraya el acceso a Yeouido, con información organizada para quienes buscan datos recientes de preventa. La atención futura se centrará en las condiciones reales de venta y la valoración de la ubicación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Acro River Sky em Noryangjin chama atenção por acesso de ‘10 minutos a Yeouido’",
+        "excerpt": "O Bunyang Now, da Maeburi TV, apresentou o Acro River Sky em Noryangjin, destacando a localização descrita como a 10 minutos de Yeouido e as informações recentes de venda.",
+        "body": "A Maeburi TV, do Maeil Business Newspaper, apresentou informações de venda do Acro River Sky em Noryangjin no quadro Bunyang Now. O formato traz a repórter imobiliária Wi Ji-hye, nascida no Ano do Boi, apurando de forma diligente informações sobre novos empreendimentos. O ponto central deste conteúdo é a localização descrita no título como ‘10 minutos até Yeouido’. O Acro River Sky foi destacado como um empreendimento em Noryangjin que enfatiza o acesso a Yeouido, com informações organizadas para interessados em dados recentes de venda. A atenção deve se voltar às condições efetivas de venda e à avaliação da localização. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Acro River Sky in Noryangjin rückt mit ‘10 Minuten nach Yeouido’ in den Fokus",
+        "excerpt": "Maeburi TV stellte im Format Bunyang Now Acro River Sky in Noryangjin vor und nannte die Lage mit 10-Minuten-Zugang nach Yeouido sowie aktuelle Verkaufsinformationen.",
+        "body": "Maeburi TV von Maeil Business Newspaper stellte im Format Bunyang Now Verkaufsinformationen zu Acro River Sky in Noryangjin vor. In dem Format berichtet die Immobilienjournalistin Wi Ji-hye, geboren im Jahr des Ochsen, gewissenhaft über neue Wohnungsverkäufe. Im Mittelpunkt dieser Ausgabe steht die im Titel genannte Lage mit ‘10 Minuten nach Yeouido’. Acro River Sky wurde als Projekt in Noryangjin hervorgehoben, das die Anbindung an Yeouido betont, und die neuesten Informationen wurden für Interessenten an Vorverkäufen zusammengefasst. Der weitere Fokus dürfte auf den tatsächlichen Verkaufsbedingungen und der Bewertung der Lage liegen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Acro River Sky à Noryangjin attire l’attention avec son accès à Yeouido en 10 minutes",
+        "excerpt": "Maeburi TV a présenté dans Bunyang Now Acro River Sky à Noryangjin, en mettant en avant son emplacement décrit comme à 10 minutes de Yeouido et les dernières informations de vente.",
+        "body": "Maeburi TV, de Maeil Business Newspaper, a présenté les informations de vente d’Acro River Sky à Noryangjin dans sa rubrique Bunyang Now. Ce format met en scène la journaliste immobilière Wi Ji-hye, née l’année du Buffle, qui couvre avec diligence les nouvelles informations de commercialisation. Le point central de cette édition est l’emplacement décrit dans le titre comme à ‘10 minutes de Yeouido’. Acro River Sky a été mis en avant comme un programme de Noryangjin soulignant l’accès à Yeouido, avec des informations récentes organisées pour les personnes intéressées par les ventes. L’attention devrait porter sur les conditions effectives de vente et l’évaluation de l’emplacement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أكرو ريفر سكاي في نوريانغجين يلفت الأنظار بقربه ‘10 دقائق من يويدو’",
+        "excerpt": "تناول برنامج Bunyang Now من Maeburi TV مشروع Acro River Sky في نوريانغجين، مقدما موقعه الموصوف بأنه على بعد 10 دقائق من يويدو وأحدث معلومات البيع.",
+        "body": "قدمت Maeburi TV التابعة لصحيفة Maeil Business Newspaper معلومات بيع مشروع Acro River Sky في نوريانغجين ضمن فقرة Bunyang Now. يقوم الشكل على تغطية مراسلة العقارات وي جي-هيه، المولودة في عام الثور، لمعلومات البيع الجديدة بجدية تشبه الثور. محور هذه الحلقة هو الموقع الوارد في العنوان بوصفه ‘10 دقائق إلى يويدو’. وجرى تسليط الضوء على Acro River Sky كمجمع في نوريانغجين يبرز سهولة الوصول إلى يويدو، مع تنظيم أحدث المعلومات للمهتمين بتفاصيل البيع. ومن المتوقع أن يتركز الاهتمام لاحقا على شروط البيع الفعلية وتقييم الموقع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नोर्यांगजिन का Acro River Sky ‘Yeouido 10 मिनट’ पहुंच से चर्चा में",
+        "excerpt": "Maeburi TV के Bunyang Now ने नोर्यांगजिन स्थित Acro River Sky को पेश किया, जिसमें Yeouido तक 10 मिनट की पहुंच और नई बिक्री जानकारी पर ध्यान दिया गया।",
+        "body": "Maeil Business Newspaper के Maeburi TV ने Bunyang Now खंड में नोर्यांगजिन स्थित Acro River Sky की बिक्री जानकारी पेश की। इस प्रारूप में Year of the Ox में जन्मी रियल एस्टेट रिपोर्टर Wi Ji-hye नए आवासीय बिक्री विवरणों को मेहनत से कवर करती हैं। इस कड़ी का मुख्य बिंदु शीर्षक में दिया गया ‘Yeouido 10-minute cut’ स्थान है। Acro River Sky को नोर्यांगजिन के ऐसे परिसर के रूप में दिखाया गया जो Yeouido तक पहुंच को प्रमुखता देता है, और ताजा बिक्री जानकारी चाहने वालों के लिए संबंधित विवरण व्यवस्थित किए गए। आगे ध्यान वास्तविक बिक्री शर्तों और स्थान के मूल्यांकन पर केंद्रित रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Acro River Sky Noryangjin Disorot Berkat Akses ‘10 Menit ke Yeouido’",
+        "excerpt": "Maeburi TV melalui Bunyang Now membahas Acro River Sky di Noryangjin, menyoroti lokasi yang disebut 10 menit ke Yeouido serta informasi penjualan terbaru.",
+        "body": "Maeburi TV dari Maeil Business Newspaper memperkenalkan informasi penjualan Acro River Sky di Noryangjin melalui segmen Bunyang Now. Format ini menampilkan reporter properti Wi Ji-hye, yang lahir pada Tahun Kerbau, meliput informasi penjualan hunian baru secara tekun. Fokus utama episode ini adalah lokasi yang dalam judul disebut ‘10 menit ke Yeouido’. Acro River Sky disorot sebagai kompleks di Noryangjin yang menekankan akses ke Yeouido, dengan informasi terbaru disusun bagi calon pembeli yang mencari detail penjualan. Perhatian berikutnya diperkirakan tertuju pada syarat penjualan aktual dan penilaian lokasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "41a74fbfec93",
     "slug": "가로주택-정비사업-구역에서-세입자도-임대주택-입주-가능-598515",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Taeyoung E&C Buka Rumah Contoh ‘Metrocity Jasan Desian’ di Changwon pada 8 Mei",
         "excerpt": "Taeyoung E&C akan membuka rumah contoh ‘Metrocity Jasan Desian’ di Jasan-dong, Masanhappo-gu, Changwon, pada tanggal 8 dan memulai penjualan.",
         "body": "Taeyoung E&C akan membuka rumah contoh ‘Metrocity Jasan Desian’, proyek yang direncanakan di Jasan-dong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, pada tanggal 8 dan masuk ke jadwal penjualan resmi. Proyek ini diperkenalkan sebagai penawaran baru di Masanhappo-gu setelah sekitar lima tahun. Pembukaan rumah contoh diperkirakan menjadi titik kontak resmi pertama bagi calon pembeli untuk melihat langsung komposisi kompleks dan fitur produknya. Di pasar penjualan kawasan Jasan-dong, Masanhappo-gu, Changwon, pasokan kompleks baru setelah jeda panjang menjadi faktor yang menarik perhatian. Taeyoung E&C berencana melanjutkan prosedur penjualan setelah pembukaan rumah contoh. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9e05d53ffc76",
-    "slug": "김포-풍무역세권-2차-공급-본격화호반써밋풍무ii-이달-분양-249862",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T10:50:32.225Z",
-    "updatedAt": "2026-05-06T10:50:32.225Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037657",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037657",
-    "titleFingerprint": "24cd1d879fcffc40709475320f33266b576750af",
-    "dedupKeys": [
-      "9e05d53ffc76cd6373eafe1d346008c2ecc7d973",
-      "24cd1d879fcffc40709475320f33266b576750af",
-      "5f3bf080061db4d57875d85d5ca0f4680d40eca2"
-    ],
-    "imageUrl": "/images/articles/9e05d53ffc76.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김포 풍무역세권 2차 공급 본격화, 호반써밋풍무II 이달 분양 예정",
-        "excerpt": "호반건설은 6일 경기 김포 풍무역세권에서 호반써밋풍무II를 이달 분양할 예정이라고 밝혔다. 서울 인접 비규제 지역으로 주목받은 곳의 2차 공급이다.",
-        "body": "경기 김포 풍무역세권에서 2차 공급이 본격화된다. 호반건설은 6일 김포 풍무역세권에 들어서는 ‘호반써밋풍무II’를 이달 분양할 예정이라고 밝혔다. 이 지역은 지난해 서울과 인접한 비규제 지역으로 주목받았던 곳이다. 이번 공급은 풍무역세권에서 이어지는 2차 공급이라는 점에서 시장의 관심을 받고 있다. 다만 분양 일정과 세부 조건은 사업 주체의 공지에 따라 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gimpo Pungmu Station Area Second Supply Begins, Hoban Summit Pungmu II Set for Sale This Month",
-        "excerpt": "Hoban Construction said on the 6th it plans to sell Hoban Summit Pungmu II this month in the Pungmu station area of Gimpo, Gyeonggi, marking a second supply in a non-regulated area near Seoul.",
-        "body": "A second supply phase is getting underway in the Pungmu station area of Gimpo, Gyeonggi Province. Hoban Construction said on the 6th that it plans to sell ‘Hoban Summit Pungmu II’ in the Gimpo Pungmu station area this month. The area drew attention last year as a non-regulated location adjacent to Seoul. This supply is attracting market interest because it is part of the continued second supply in the Pungmu station area. However, the sales schedule and detailed conditions should be checked through notices from the project operator. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金浦・豊舞駅勢圏の第2次供給が本格化、ホバンサミット豊舞IIが今月分譲へ",
-        "excerpt": "ホバン建設は6日、京畿道金浦の豊舞駅勢圏でホバンサミット豊舞IIを今月分譲する予定だと明らかにした。ソウル隣接の非規制地域として注目された地域の第2次供給だ。",
-        "body": "京畿道金浦の豊舞駅勢圏で第2次供給が本格化する。ホバン建設は6日、金浦豊舞駅勢圏に入る『ホバンサミット豊舞II』を今月分譲する予定だと明らかにした。この地域は昨年、ソウルに隣接する非規制地域として注目を集めた場所だ。今回の供給は、豊舞駅勢圏で続く第2次供給という点で市場の関心を集めている。ただし、分譲日程や詳細条件は事業主体の告知で確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "金浦丰舞站圈第二轮供应启动，Hoban Summit Pungmu II本月拟分售",
-        "excerpt": "Hoban建设6日表示，计划本月在京畿道金浦丰舞站圈分售Hoban Summit Pungmu II。这是去年因毗邻首尔且属非管制地区而受关注区域的第二轮供应。",
-        "body": "京畿道金浦丰舞站圈的第二轮供应正式推进。Hoban建设6日表示，计划本月分售位于金浦丰舞站圈的“Hoban Summit Pungmu II”。该地区去年因毗邻首尔且属于非管制地区而受到关注。本次供应作为丰舞站圈延续推进的第二轮供应，正在吸引市场关注。不过，具体分售日程和详细条件仍需以项目主体公告为准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Gimpo Pungmu inicia segunda oferta: Hoban Summit Pungmu II saldrá a la venta este mes",
-        "excerpt": "Hoban Construction dijo el día 6 que planea vender Hoban Summit Pungmu II este mes en el área de la estación Pungmu de Gimpo, una zona no regulada cercana a Seúl que atrajo atención el año pasado.",
-        "body": "La segunda oferta en el área de la estación Pungmu de Gimpo, en la provincia de Gyeonggi, empieza a tomar forma. Hoban Construction informó el día 6 que planea vender este mes ‘Hoban Summit Pungmu II’ en esa zona. El área llamó la atención el año pasado por ser una zona no regulada cercana a Seúl. Esta oferta despierta interés en el mercado al tratarse de una segunda fase de suministro en el área de Pungmu. No obstante, el calendario de venta y las condiciones detalladas deben confirmarse mediante los avisos del promotor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Gimpo Pungmu avança com segunda oferta, Hoban Summit Pungmu II será lançado este mês",
-        "excerpt": "A Hoban Construction informou no dia 6 que pretende vender o Hoban Summit Pungmu II este mês na área da estação Pungmu, em Gimpo, uma região não regulada próxima a Seul que ganhou atenção no ano passado.",
-        "body": "A segunda oferta na área da estação Pungmu, em Gimpo, província de Gyeonggi, está sendo iniciada. A Hoban Construction informou no dia 6 que planeja vender o ‘Hoban Summit Pungmu II’ este mês na área da estação Pungmu de Gimpo. A região chamou atenção no ano passado por ser uma área não regulada próxima a Seul. Esta oferta atrai interesse do mercado por representar uma segunda fase de fornecimento na área de Pungmu. Ainda assim, o cronograma de venda e as condições detalhadas devem ser confirmados pelos avisos do responsável pelo projeto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gimpo Pungmu startet zweite Angebotsphase, Hoban Summit Pungmu II soll diesen Monat verkauft werden",
-        "excerpt": "Hoban Construction teilte am 6. mit, dass Hoban Summit Pungmu II diesen Monat im Pungmu-Stationsgebiet in Gimpo, Gyeonggi, verkauft werden soll. Das Gebiet galt 2025 als nicht regulierte Lage nahe Seoul.",
-        "body": "Im Pungmu-Stationsgebiet von Gimpo in der Provinz Gyeonggi beginnt die zweite Angebotsphase. Hoban Construction erklärte am 6., dass ‘Hoban Summit Pungmu II’ in diesem Monat im Gimpo Pungmu-Stationsgebiet verkauft werden soll. Das Gebiet hatte im vergangenen Jahr Aufmerksamkeit erhalten, weil es nahe Seoul liegt und nicht reguliert ist. Das Angebot stößt auf Marktinteresse, da es Teil der fortgesetzten zweiten Versorgung im Pungmu-Stationsgebiet ist. Der genaue Verkaufsplan und die Einzelbedingungen sollten jedoch anhand der Mitteilungen des Projektträgers geprüft werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Gimpo Pungmu lance sa deuxième offre, Hoban Summit Pungmu II prévu à la vente ce mois-ci",
-        "excerpt": "Hoban Construction a annoncé le 6 qu’il prévoit de vendre Hoban Summit Pungmu II ce mois-ci dans le secteur de la station Pungmu à Gimpo, une zone non réglementée proche de Séoul remarquée l’an dernier.",
-        "body": "La deuxième phase d’offre démarre dans le secteur de la station Pungmu à Gimpo, dans la province de Gyeonggi. Hoban Construction a déclaré le 6 qu’il prévoit de vendre ‘Hoban Summit Pungmu II’ ce mois-ci dans ce secteur. La zone avait attiré l’attention l’an dernier en tant que secteur non réglementé adjacent à Séoul. Cette offre suscite l’intérêt du marché car elle s’inscrit dans la deuxième phase d’approvisionnement du secteur Pungmu. Toutefois, le calendrier de vente et les conditions détaillées doivent être vérifiés dans les annonces du maître d’ouvrage. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بدء المرحلة الثانية في منطقة محطة بونغمو بغيمبو وطرح Hoban Summit Pungmu II هذا الشهر",
-        "excerpt": "قالت شركة هوبان للإنشاءات في السادس إنها تخطط لطرح Hoban Summit Pungmu II هذا الشهر في منطقة محطة بونغمو في غيمبو بمقاطعة غيونغي، وهي منطقة غير خاضعة للتنظيم قرب سيول لفتت الانتباه العام الماضي.",
-        "body": "تبدأ المرحلة الثانية من المعروض في منطقة محطة بونغمو بمدينة غيمبو في مقاطعة غيونغي. وقالت شركة هوبان للإنشاءات في السادس إنها تخطط لطرح مشروع “Hoban Summit Pungmu II” هذا الشهر في منطقة محطة بونغمو في غيمبو. وكانت هذه المنطقة قد جذبت الانتباه العام الماضي بوصفها منطقة غير خاضعة للتنظيم وقريبة من سيول. ويحظى هذا الطرح باهتمام السوق لأنه يمثل استمرارا للمرحلة الثانية من المعروض في منطقة بونغمو. ومع ذلك، يجب التحقق من جدول الطرح والشروط التفصيلية عبر إعلانات الجهة المنفذة للمشروع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गिम्पो पुंगमु स्टेशन क्षेत्र में दूसरी आपूर्ति शुरू, Hoban Summit Pungmu II इस महीने बिक्री में",
-        "excerpt": "होबान कंस्ट्रक्शन ने 6 तारीख को कहा कि वह ग्योंगगी के गिम्पो पुंगमु स्टेशन क्षेत्र में Hoban Summit Pungmu II को इस महीने बिक्री के लिए पेश करने की योजना बना रही है। यह सियोल के पास गैर-विनियमित क्षेत्र की दूसरी आपूर्ति है।",
-        "body": "ग्योंगगी प्रांत के गिम्पो पुंगमु स्टेशन क्षेत्र में दूसरी आपूर्ति औपचारिक रूप से शुरू हो रही है। होबान कंस्ट्रक्शन ने 6 तारीख को बताया कि गिम्पो पुंगमु स्टेशन क्षेत्र में स्थित ‘Hoban Summit Pungmu II’ को इस महीने बिक्री के लिए पेश करने की योजना है। यह क्षेत्र पिछले वर्ष सियोल से सटे गैर-विनियमित क्षेत्र के रूप में ध्यान में आया था। पुंगमु स्टेशन क्षेत्र में जारी दूसरी आपूर्ति होने के कारण इस पेशकश पर बाजार की नजर है। हालांकि, बिक्री कार्यक्रम और विस्तृत शर्तों की पुष्टि परियोजना संचालक की सूचनाओं से करनी होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pasokan Kedua Kawasan Stasiun Pungmu Gimpo Dimulai, Hoban Summit Pungmu II Dipasarkan Bulan Ini",
-        "excerpt": "Hoban Construction pada tanggal 6 menyatakan akan memasarkan Hoban Summit Pungmu II bulan ini di kawasan Stasiun Pungmu, Gimpo, Gyeonggi, area non-regulasi dekat Seoul yang menarik perhatian tahun lalu.",
-        "body": "Pasokan tahap kedua di kawasan Stasiun Pungmu, Gimpo, Provinsi Gyeonggi, mulai berjalan. Hoban Construction pada tanggal 6 menyatakan bahwa pihaknya berencana memasarkan ‘Hoban Summit Pungmu II’ bulan ini di kawasan Stasiun Pungmu Gimpo. Kawasan ini tahun lalu menarik perhatian sebagai area non-regulasi yang berdekatan dengan Seoul. Pasokan kali ini mendapat perhatian pasar karena menjadi bagian dari pasokan tahap kedua yang berlanjut di kawasan Pungmu. Namun, jadwal pemasaran dan rincian ketentuan perlu dikonfirmasi melalui pengumuman dari pihak penyelenggara proyek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5869b9dda57b",
-    "slug": "gs건설-천안-백석동-백석시그니처자이-5월-분양-132828",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T10:49:32.809Z",
-    "updatedAt": "2026-05-06T10:49:32.809Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037658",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037658",
-    "titleFingerprint": "24030424a693412b17f8a6bb5139567968b3b64a",
-    "dedupKeys": [
-      "5869b9dda57b5e703248b58e00229a51ba990410",
-      "24030424a693412b17f8a6bb5139567968b3b64a",
-      "a3c7b45ea918e63ade85f21182e1846ffcb7dcfa"
-    ],
-    "imageUrl": "/images/articles/5869b9dda57b.png",
-    "i18n": {
-      "ko": {
-        "title": "GS건설, 천안 백석5지구 ‘백석시그니처자이’ 5월 분양 예고",
-        "excerpt": "GS건설은 6일 충청남도 천안시 서북구 백석5지구 도시개발사업지에 조성되는 ‘백석시그니처자이’를 이달 분양한다고 밝혔다.",
-        "body": "GS건설은 6일 충청남도 천안시 서북구 백석5지구에 들어서는 ‘백석시그니처자이’를 5월 중 분양한다고 밝혔다. 이 단지는 백석5지구 도시개발사업의 일환으로 조성되는 주거 단지다. 원문에 따르면 단지는 지하 2층부터 지상 최고층 규모로 소개됐으며, 천안 서북구 백석동 일대 신규 분양 물량으로 시장의 관심을 받을 전망이다. 분양 일정과 단지 세부 정보는 GS건설의 공식 안내에 따라 순차적으로 확인될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "GS E&C to Launch Baekseok Signature Xi in Cheonan’s Baekseok 5 District in May",
-        "excerpt": "GS E&C said on May 6 that it will begin sales this month for Baekseok Signature Xi, a residential complex in Baekseok 5 District, Seobuk-gu, Cheonan.",
-        "body": "GS E&C announced on May 6 that it will sell ‘Baekseok Signature Xi’ in Baekseok 5 District, Seobuk-gu, Cheonan, South Chungcheong Province, during May. The complex is being developed as part of the Baekseok 5 District urban development project. According to the original report, the project was introduced as a residential complex with two basement levels and upper-ground floors. As a new supply in the Baekseok-dong area of Cheonan’s Seobuk-gu, it is expected to draw market attention. Further sales schedules and project details are expected to be confirmed through GS E&C’s official notices. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "GS建設、天安・白石5地区の『白石シグネチャーXi』を5月分譲へ",
-        "excerpt": "GS建設は6日、忠清南道天安市西北区の白石5地区都市開発事業地に造成される『白石シグネチャーXi』を今月分譲すると発表した。",
-        "body": "GS建設は6日、忠清南道天安市西北区白石5地区に入る『白石シグネチャーXi』を5月中に分譲すると明らかにした。同団地は白石5地区都市開発事業の一環として造成される住宅団地である。原文によると、団地は地下2階から地上最高層までの規模として紹介された。天安市西北区白石洞一帯の新規分譲物件として、市場の関心を集める見通しだ。分譲日程や団地の詳細情報は、GS建設の公式案内に従って順次確認されるとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "GS建设将于5月销售天安白石5地区“白石Signature Xi”",
-        "excerpt": "GS建设6日表示，位于忠清南道天安市西北区白石5地区城市开发项目内的“白石Signature Xi”将于本月销售。",
-        "body": "GS建设6日宣布，位于忠清南道天安市西北区白石5地区的“白石Signature Xi”将于5月内启动销售。该项目是白石5地区城市开发事业的一部分，为新建住宅小区。根据原文，该小区被介绍为地下2层至地上最高层规模。作为天安市西北区白石洞一带的新供应项目，预计将受到市场关注。具体销售日程和小区详细信息预计将根据GS建设的官方公告陆续确认。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "GS E&C venderá en mayo Baekseok Signature Xi en el distrito Baekseok 5 de Cheonan",
-        "excerpt": "GS E&C informó el día 6 que este mes iniciará la venta de Baekseok Signature Xi, complejo ubicado en el distrito Baekseok 5 de Seobuk-gu, Cheonan.",
-        "body": "GS E&C anunció el día 6 que venderá en mayo ‘Baekseok Signature Xi’, ubicado en el distrito Baekseok 5 de Seobuk-gu, Cheonan, provincia de Chungcheong del Sur. El complejo se construye como parte del proyecto de desarrollo urbano Baekseok 5. Según el texto original, el complejo fue presentado con una escala que incluye dos niveles subterráneos y plantas sobre rasante. Como nueva oferta en la zona de Baekseok-dong, Seobuk-gu, Cheonan, se espera que atraiga atención del mercado. El calendario de venta y los detalles del complejo se confirmarán gradualmente mediante los avisos oficiales de GS E&C. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "GS E&C lançará em maio o Baekseok Signature Xi no distrito Baekseok 5, em Cheonan",
-        "excerpt": "A GS E&C informou no dia 6 que venderá neste mês o Baekseok Signature Xi, complexo no distrito Baekseok 5, em Seobuk-gu, Cheonan.",
-        "body": "A GS E&C anunciou no dia 6 que colocará à venda em maio o ‘Baekseok Signature Xi’, localizado no distrito Baekseok 5 de Seobuk-gu, Cheonan, na província de Chungcheong do Sul. O complexo será construído como parte do projeto de desenvolvimento urbano Baekseok 5. Segundo o texto original, o empreendimento foi apresentado com dois pavimentos subterrâneos e andares acima do solo. Como nova oferta na área de Baekseok-dong, em Seobuk-gu, Cheonan, deve receber atenção do mercado. O cronograma de vendas e os detalhes do complexo deverão ser confirmados gradualmente por meio dos comunicados oficiais da GS E&C. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "GS E&C startet im Mai Verkauf von Baekseok Signature Xi im Cheonaner Bezirk Baekseok 5",
-        "excerpt": "GS E&C teilte am 6. mit, dass Baekseok Signature Xi im Stadtentwicklungsgebiet Baekseok 5 in Seobuk-gu, Cheonan, noch in diesem Monat verkauft wird.",
-        "body": "GS E&C gab am 6. bekannt, dass ‘Baekseok Signature Xi’ im Bezirk Baekseok 5 von Seobuk-gu, Cheonan, Provinz Süd-Chungcheong, im Mai in den Verkauf geht. Die Anlage entsteht im Rahmen des Stadtentwicklungsprojekts Baekseok 5. Dem Originalbericht zufolge wurde der Komplex als Wohnanlage mit zwei Untergeschossen und oberirdischen Etagen vorgestellt. Als neues Angebot im Gebiet Baekseok-dong in Cheonans Seobuk-gu dürfte das Projekt Aufmerksamkeit am Markt erhalten. Verkaufsplan und weitere Details sollen schrittweise über offizielle Mitteilungen von GS E&C bestätigt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "GS E&C lancera en mai Baekseok Signature Xi dans le district Baekseok 5 à Cheonan",
-        "excerpt": "GS E&C a annoncé le 6 que Baekseok Signature Xi, situé dans le secteur de développement urbain Baekseok 5 à Seobuk-gu, Cheonan, serait mis en vente ce mois-ci.",
-        "body": "GS E&C a annoncé le 6 que ‘Baekseok Signature Xi’, situé dans le district Baekseok 5 de Seobuk-gu, à Cheonan, dans la province du Chungcheong du Sud, serait mis en vente en mai. Le complexe est développé dans le cadre du projet d’aménagement urbain Baekseok 5. Selon le texte original, il a été présenté comme un ensemble résidentiel comprenant deux niveaux en sous-sol et des étages en surface. En tant que nouvelle offre dans le secteur de Baekseok-dong à Seobuk-gu, Cheonan, le projet devrait attirer l’attention du marché. Le calendrier de vente et les détails seront confirmés progressivement par les annonces officielles de GS E&C. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "GS E&C تطرح Baekseok Signature Xi في منطقة Baekseok 5 بتشيونان خلال مايو",
-        "excerpt": "أعلنت GS E&C في 6 مايو أنها ستطرح هذا الشهر مجمع Baekseok Signature Xi السكني في منطقة Baekseok 5 للتطوير الحضري في سيوبوك-غو، تشيونان.",
-        "body": "أعلنت GS E&C في 6 مايو أنها ستبدأ خلال هذا الشهر بيع مشروع ‘Baekseok Signature Xi’ الواقع في منطقة Baekseok 5 في سيوبوك-غو بمدينة تشيونان في مقاطعة تشونغتشونغ الجنوبية. ويجري إنشاء المجمع ضمن مشروع التطوير الحضري لمنطقة Baekseok 5. ووفق النص الأصلي، قُدم المشروع كمجمع سكني يضم طابقين تحت الأرض وطوابق فوق الأرض. وباعتباره معروضا جديدا في منطقة بايك سوك-دونغ في سيوبوك-غو بتشيونان، من المتوقع أن يحظى باهتمام السوق. ومن المنتظر تأكيد جدول البيع والتفاصيل عبر الإعلانات الرسمية من GS E&C. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "GS E&C मई में चेओनान के Baekseok 5 जिले में Baekseok Signature Xi की बिक्री शुरू करेगी",
-        "excerpt": "GS E&C ने 6 मई को बताया कि वह इस महीने चेओनान के Seobuk-gu स्थित Baekseok 5 शहरी विकास क्षेत्र में Baekseok Signature Xi की बिक्री शुरू करेगी।",
-        "body": "GS E&C ने 6 मई को घोषणा की कि वह दक्षिण चुंगचेओंग प्रांत के चेओनान शहर, Seobuk-gu के Baekseok 5 जिले में स्थित ‘Baekseok Signature Xi’ की बिक्री मई में शुरू करेगी। यह परिसर Baekseok 5 जिला शहरी विकास परियोजना के हिस्से के रूप में बनाया जा रहा है। मूल रिपोर्ट के अनुसार, इसे दो भूमिगत स्तरों और जमीन से ऊपर की मंजिलों वाले आवासीय परिसर के रूप में प्रस्तुत किया गया है। चेओनान के Seobuk-gu स्थित Baekseok-dong क्षेत्र में नई आपूर्ति के रूप में इस परियोजना पर बाजार की नजर रहने की उम्मीद है। बिक्री कार्यक्रम और विस्तृत जानकारी GS E&C की आधिकारिक सूचनाओं के अनुसार क्रमशः पुष्टि की जाएगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "GS E&C Pasarkan Baekseok Signature Xi di Distrik Baekseok 5 Cheonan pada Mei",
-        "excerpt": "GS E&C menyatakan pada tanggal 6 bahwa Baekseok Signature Xi di kawasan pengembangan kota Baekseok 5, Seobuk-gu, Cheonan, akan dipasarkan bulan ini.",
-        "body": "GS E&C mengumumkan pada tanggal 6 bahwa ‘Baekseok Signature Xi’ di Distrik Baekseok 5, Seobuk-gu, Cheonan, Provinsi Chungcheong Selatan, akan dipasarkan pada Mei. Kompleks ini dibangun sebagai bagian dari proyek pengembangan kota Baekseok 5. Menurut teks asli, kompleks tersebut diperkenalkan sebagai hunian dengan dua lantai bawah tanah dan lantai di atas permukaan tanah. Sebagai pasokan baru di area Baekseok-dong, Seobuk-gu, Cheonan, proyek ini diperkirakan menarik perhatian pasar. Jadwal penjualan dan rincian kompleks akan dikonfirmasi secara bertahap melalui pengumuman resmi GS E&C. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3852d10daf6b",
-    "slug": "이-대통령-부동산-불패-없다-언급에국힘-주거-희망의-종말---매일경제-338740",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T10:33:42.244Z",
-    "updatedAt": "2026-05-06T10:33:42.244Z",
-    "sourceName": "매일경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QR091VU9zbkFkbTg1Q19ybW5tZm1Xb1JVNnRJTzlfRlpoakt4aVJySTFQYUNaOTVTSmJYc1EwcEhwaUdnaDhtZmhTY3g0a0dXa0g4cU53?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QR091VU9zbkFkbTg1Q19ybW5tZm1Xb1JVNnRJTzlfRlpoakt4aVJySTFQYUNaOTVTSmJYc1EwcEhwaUdnaDhtZmhTY3g0a0dXa0g4cU53?oc=5",
-    "titleFingerprint": "6bea727f0efbcb33b52aa3d0f0c0739a048dfc56",
-    "dedupKeys": [
-      "3852d10daf6b011ce38b90e808c5cbe31957e7cf",
-      "6bea727f0efbcb33b52aa3d0f0c0739a048dfc56",
-      "7156ced71aa4f2f72022a054d1349ab0c40014bc"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "부동산 불패 발언에 국민의힘 반발, 이재명 대통령 SNS 메시지 논란 확산",
-        "excerpt": "이재명 대통령이 5월 6일 SNS에서 부동산 불패 신화는 없다고 언급하자 국민의힘은 주거 희망의 종말이라며 시장 현실을 외면한 메시지라고 비판했다.",
-        "body": "이재명 대통령이 5월 6일 SNS에서 “부동산 불패” 신화는 더 이상 없다는 취지로 부동산 시장 정상화 의지를 밝히자 국민의힘이 즉각 반발했다. 대통령은 부동산 전문가와 공인중개사 절반가량이 집값 하락을 전망했다는 기사를 공유하며 시장이 정상을 되찾고 있다고 언급했다. 국민의힘 박성훈 수석대변인은 일부 지표 하락을 정상화로 포장하고 있다며 현장은 거래 절벽, 매물 잠김, 임대차 왜곡을 겪고 있다고 주장했다. 또 서울 강북에서도 월 300만원 수준의 고가 월세가 등장했다며 서민 주거 사다리 붕괴를 지적했다. 조용술 대변인은 매매가 상승세가 수도권으로 번지고 강남 3구도 다시 올랐다고 비판했다. 출처: 매일경제 인용."
-      },
-      "en": {
-        "title": "People Power Party Rebukes Lee’s Real Estate Remark as Housing Debate Deepens",
-        "excerpt": "After President Lee Jae-myung said on May 6 that the myth of unbeatable real estate no longer exists, the People Power Party criticized the message as detached from housing realities.",
-        "body": "President Lee Jae-myung said on May 6 through social media that the so-called myth of unbeatable real estate no longer exists, signaling his will to normalize the housing market. He shared an article saying roughly half of real estate experts and licensed agents expected home prices to fall, adding that the market was returning to normal. The People Power Party objected. Senior spokesperson Park Sung-hoon argued that falling indicators were being framed as normalization while the market faces stalled transactions, locked-up listings and rental distortions. He also cited high monthly rents of around 3 million won even in northern Seoul as a sign that the housing ladder for ordinary people is weakening. Spokesperson Cho Yong-sul said price gains were spreading across the capital region and that the three Gangnam districts had turned upward again. Source: Maeil Business Newspaper."
-      },
-      "ja": {
-        "title": "不動産不敗発言に国民の力が反発、李在明大統領SNS投稿で論争拡大",
-        "excerpt": "李在明大統領が5月6日、SNSで不動産不敗神話はないと述べたことに対し、国民の力は住宅希望の終わりだとして市場認識を批判した。",
-        "body": "李在明大統領は5月6日、SNSで「不動産不敗」の神話はもはやないとの趣旨を示し、不動産市場正常化への意志を表明した。大統領は、不動産専門家と公認仲介士の約半数が住宅価格の下落を見込むという記事を共有し、市場が正常を取り戻していると述べた。これに国民の力は反発した。朴成訓首席報道官は、一部指標の下落を正常化として包装しているとし、現場では取引の停滞、売り物件の不足、賃貸市場の歪みが続いていると主張した。またソウル江北でも月300万ウォン水準の高額家賃が現れており、庶民の住宅ステップが崩れていると指摘した。趙容述報道官は、売買価格の上昇が首都圏に広がり、江南3区も再び上昇に転じたと批判した。出典：毎日経済引用。"
-      },
-      "zh": {
-        "title": "李在明称房地产不败神话已无，国民力量批评住房希望受挫",
-        "excerpt": "李在明总统5月6日在社交媒体称房地产不败神话不复存在后，国民力量批评其忽视市场现实，并称民众感受到的是住房希望的终结。",
-        "body": "李在明总统5月6日在社交媒体上表示，所谓“房地产不败”神话已不复存在，展现出推动房地产市场正常化的意愿。他分享了一篇报道称，约半数房地产专家和持证中介预计房价将下跌，并称市场正在恢复正常。国民力量随即提出批评。首席发言人朴成勋称，政府把部分指标下滑包装成市场正常化，但实际现场正面临交易冻结、房源锁定和租赁市场扭曲。他还指出，即使在首尔江北地区也出现了月租约300万韩元的高价租金，显示普通民众的住房阶梯正在坍塌。发言人赵容述则称，房价上涨势头正从首尔扩散至首都圈，江南三区也重新转涨。来源：引用《每日经济》。"
-      },
-      "es": {
-        "title": "Críticas del PPP al mensaje de Lee sobre el fin del mito inmobiliario en Corea",
-        "excerpt": "El 6 de mayo, Lee Jae-myung dijo en redes que ya no existe el mito de que los bienes raíces siempre ganan; el Partido del Poder Popular lo criticó por ignorar la realidad habitacional.",
-        "body": "El presidente Lee Jae-myung afirmó el 6 de mayo en redes sociales que el mito de que los bienes raíces siempre ganan ya no existe, mostrando su voluntad de normalizar el mercado inmobiliario. Compartió un artículo según el cual cerca de la mitad de expertos inmobiliarios y agentes autorizados prevén una caída de los precios de la vivienda, y dijo que el mercado está volviendo a la normalidad. El Partido del Poder Popular respondió con críticas. Su portavoz principal, Park Sung-hoon, sostuvo que la caída de algunos indicadores se presenta como normalización, mientras el mercado sufre parálisis de transacciones, escasez de propiedades disponibles y distorsiones en el alquiler. También señaló alquileres mensuales de unos 3 millones de wones incluso en el norte de Seúl como señal del debilitamiento de la escalera residencial. Cho Yong-sul añadió que las alzas se extienden al área metropolitana y que los tres distritos de Gangnam vuelven a subir. Fuente: Maeil Business Newspaper."
-      },
-      "pt": {
-        "title": "Partido do Poder Popular critica fala de Lee sobre fim do mito imobiliário",
-        "excerpt": "Em 6 de maio, Lee Jae-myung disse nas redes que o mito da valorização imobiliária sem derrota acabou; o Partido do Poder Popular criticou a mensagem como distante da realidade da moradia.",
-        "body": "O presidente Lee Jae-myung afirmou em 6 de maio, nas redes sociais, que o chamado mito da valorização imobiliária sem derrota não existe mais, sinalizando sua intenção de normalizar o mercado. Ele compartilhou uma notícia segundo a qual cerca de metade dos especialistas imobiliários e corretores licenciados prevê queda nos preços das casas, acrescentando que o mercado está voltando ao normal. O Partido do Poder Popular reagiu com críticas. O porta-voz sênior Park Sung-hoon disse que a queda de alguns indicadores está sendo apresentada como normalização, enquanto o mercado enfrenta transações paralisadas, imóveis retidos e distorções no aluguel. Ele citou aluguéis mensais de cerca de 3 milhões de won até no norte de Seul como sinal de enfraquecimento da escada habitacional. Cho Yong-sul afirmou que a alta de preços se espalha pela região metropolitana e que os três distritos de Gangnam voltaram a subir. Fonte: Maeil Business Newspaper."
-      },
-      "de": {
-        "title": "Lee spricht vom Ende des Immobilienmythos, Opposition kritisiert Wohnungsnot",
-        "excerpt": "Nachdem Präsident Lee Jae-myung am 6. Mai in sozialen Medien das Ende des Mythos unbesiegbarer Immobilien erklärte, warf die People Power Party ihm Realitätsferne vor.",
-        "body": "Präsident Lee Jae-myung erklärte am 6. Mai in sozialen Medien, der Mythos stets gewinnender Immobilien bestehe nicht mehr, und betonte seinen Willen zur Normalisierung des Immobilienmarkts. Er teilte einen Artikel, wonach etwa die Hälfte der Immobilienexperten und zugelassenen Makler fallende Hauspreise erwartet, und schrieb, der Markt kehre zur Normalität zurück. Die People Power Party widersprach. Chefsprecher Park Sung-hoon sagte, einzelne rückläufige Kennzahlen würden als Normalisierung dargestellt, während der Markt unter ausbleibenden Transaktionen, zurückgehaltenen Angeboten und Verzerrungen im Mietmarkt leide. Er verwies zudem auf Monatsmieten von rund 3 Millionen Won selbst im Norden Seouls als Zeichen für eine geschwächte Wohnleiter für normale Haushalte. Sprecher Cho Yong-sul kritisierte, Preissteigerungen breiteten sich auf die Hauptstadtregion aus, und auch die drei Gangnam-Bezirke legten wieder zu. Quelle: Maeil Business Newspaper."
-      },
-      "fr": {
-        "title": "La droite sud-coréenne critique Lee après son propos sur le mythe immobilier",
-        "excerpt": "Le 6 mai, Lee Jae-myung a déclaré sur les réseaux que le mythe d’un immobilier invincible n’existait plus; le Parti du pouvoir au peuple a dénoncé un message éloigné du terrain.",
-        "body": "Le président Lee Jae-myung a déclaré le 6 mai sur les réseaux sociaux que le mythe d’un immobilier toujours gagnant n’existait plus, affichant sa volonté de normaliser le marché. Il a partagé un article indiquant qu’environ la moitié des experts immobiliers et agents agréés anticipaient une baisse des prix des logements, ajoutant que le marché retrouvait la normale. Le Parti du pouvoir au peuple a réagi. Son porte-parole principal, Park Sung-hoon, a estimé que la baisse de certains indicateurs était présentée comme une normalisation alors que le terrain subit un gel des transactions, une rétention des biens et des distorsions locatives. Il a aussi cité des loyers mensuels proches de 3 millions de wons même dans le nord de Séoul, signe selon lui d’un affaiblissement de l’accès au logement pour les ménages modestes. Cho Yong-sul a ajouté que la hausse des prix s’étendait à la région capitale et que les trois districts de Gangnam repartaient à la hausse. Source : Maeil Business Newspaper."
-      },
-      "ar": {
-        "title": "انتقادات لحزب سلطة الشعب بعد حديث لي عن نهاية أسطورة العقار في كوريا",
-        "excerpt": "قال الرئيس لي جاي ميونغ في 6 مايو عبر مواقع التواصل إن أسطورة العقار الذي لا يخسر انتهت، فانتقد حزب سلطة الشعب الرسالة واعتبرها بعيدة عن واقع السكن.",
-        "body": "قال الرئيس لي جاي ميونغ في 6 مايو عبر وسائل التواصل الاجتماعي إن ما يسمى أسطورة العقار الذي لا يخسر لم تعد قائمة، في إشارة إلى رغبته في إعادة سوق العقارات إلى الوضع الطبيعي. وشارك مقالا يفيد بأن نحو نصف خبراء العقارات والوسطاء المرخصين يتوقعون انخفاض أسعار المساكن، مضيفا أن السوق يستعيد طبيعته. ورد حزب سلطة الشعب بانتقادات. وقال المتحدث الرئيسي بارك سونغ هون إن تراجع بعض المؤشرات يجري تقديمه على أنه تطبيع، بينما يعاني السوق من جمود الصفقات، وانحسار المعروض، واضطراب سوق الإيجارات. كما أشار إلى ظهور إيجارات شهرية تقارب 3 ملايين وون حتى في شمال سيول، معتبرا ذلك دليلا على تآكل سلم السكن للطبقات العادية. وقال المتحدث تشو يونغ سول إن ارتفاع الأسعار ينتشر في منطقة العاصمة، وإن مناطق غانغنام الثلاث عادت إلى الصعود. المصدر: نقلا عن صحيفة ماييل الاقتصادية."
-      },
-      "hi": {
-        "title": "रियल एस्टेट मिथक पर ली के बयान से विवाद, विपक्ष ने आवास संकट बताया",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 6 मई को सोशल मीडिया पर कहा कि अजेय रियल एस्टेट का मिथक अब नहीं है; पीपुल पावर पार्टी ने इसे आवासीय वास्तविकता से दूर बताया।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 6 मई को सोशल मीडिया पर कहा कि तथाकथित अजेय रियल एस्टेट का मिथक अब नहीं रहा, और आवास बाजार को सामान्य बनाने की इच्छा जताई। उन्होंने एक लेख साझा किया जिसमें कहा गया था कि लगभग आधे रियल एस्टेट विशेषज्ञ और लाइसेंस प्राप्त एजेंट घरों की कीमतों में गिरावट की उम्मीद करते हैं, और कहा कि बाजार सामान्य स्थिति में लौट रहा है। पीपुल पावर पार्टी ने इसका विरोध किया। वरिष्ठ प्रवक्ता पार्क सुंग-हून ने कहा कि कुछ संकेतकों की गिरावट को सामान्यीकरण के रूप में पेश किया जा रहा है, जबकि बाजार लेनदेन ठहरने, बिक्री योग्य संपत्तियों के रुकने और किराया बाजार की विकृतियों से जूझ रहा है। उन्होंने सियोल के उत्तरी हिस्से में भी करीब 30 लाख वॉन मासिक किराए का हवाला देते हुए कहा कि आम लोगों की आवास सीढ़ी कमजोर हो रही है। प्रवक्ता चो योंग-सुल ने कहा कि कीमतों की बढ़त राजधानी क्षेत्र में फैल रही है और गंगनाम के तीन जिले फिर चढ़ने लगे हैं। स्रोत: मैइल बिजनेस न्यूजपेपर।"
-      },
-      "id": {
-        "title": "Pernyataan Lee soal Mitos Properti Diprotes, PPP Soroti Harapan Hunian",
-        "excerpt": "Presiden Lee Jae-myung pada 6 Mei menyebut di media sosial bahwa mitos properti tak terkalahkan telah berakhir; Partai Kekuatan Rakyat menilai pesan itu mengabaikan realitas pasar.",
-        "body": "Presiden Lee Jae-myung pada 6 Mei menyatakan melalui media sosial bahwa mitos properti yang selalu menang tidak lagi ada, sekaligus menunjukkan niat menormalkan pasar real estat. Ia membagikan artikel yang menyebut sekitar separuh pakar properti dan agen berlisensi memperkirakan harga rumah akan turun, lalu mengatakan pasar sedang kembali normal. Partai Kekuatan Rakyat menyampaikan kritik. Juru bicara senior Park Sung-hoon mengatakan penurunan sebagian indikator dibingkai sebagai normalisasi, sementara pasar menghadapi transaksi yang mandek, pasokan terkunci, dan distorsi sewa. Ia juga menyebut sewa bulanan sekitar 3 juta won bahkan di Seoul utara sebagai tanda melemahnya tangga hunian bagi warga biasa. Juru bicara Cho Yong-sul mengatakan kenaikan harga menyebar ke wilayah metropolitan dan tiga distrik Gangnam kembali naik. Sumber: Maeil Business Newspaper."
       }
     }
   }
