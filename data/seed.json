@@ -1,5 +1,230 @@
 [
   {
+    "id": "b40c661999d2",
+    "slug": "앞집-8억인데-우리집-19억반포자이-같은-단지평형-전셋값-11억差-왜-229376",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T20:43:56.906Z",
+    "updatedAt": "2026-05-06T20:43:56.906Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12035149",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12035149",
+    "titleFingerprint": "2b8310862a03505c0ee37d16389cf3db3a54282d",
+    "dedupKeys": [
+      "b40c661999d25fe0d4e4acc498885c640cfacdc5",
+      "2b8310862a03505c0ee37d16389cf3db3a54282d",
+      "2e4a84fef83378d2f2b70efda6dca1299e1e3987"
+    ],
+    "imageUrl": "/images/articles/b40c661999d2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 전세 이중가격 고착화, 반포자이 같은 평형도 11억 차이",
+        "excerpt": "임대차 2법 시행 5년 차를 맞은 서울 아파트 전세시장에서 신규·갱신 계약 간 평균 5300만원 격차가 이어지며 반포자이 사례처럼 같은 단지·평형에서도 큰 차이가 나타났다.",
+        "body": "서울 아파트 전세시장에서 임대차 2법 시행 5년 차를 맞아 신규 계약과 갱신 계약의 가격 차이가 고착화되는 모습이다. 매일경제 보도에 따르면 서울 전세의 ‘이중가격’ 현상이 이어지며 신규·갱신 평균 격차는 5300만원으로 나타났다. 반포자이에서는 같은 단지·평형 전셋값이 앞집은 8억원, 다른 집은 19억원으로 11억원 차이를 보인 사례도 제시됐다. 원문은 신축 아파트의 월세화와 계약갱신청구권 소진 누적 영향이 이런 격차의 배경으로 지목된다고 전했다. 전세시장의 가격 기준이 계약 유형에 따라 갈리면서 임차인과 임대인 모두 체감하는 시장 왜곡이 이어질 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Jeonse Dual Pricing Deepens, Banpo Xi Units Show 1.1 Billion Won Gap",
+        "excerpt": "In the fifth year of Korea’s lease laws, Seoul apartment jeonse prices show a persistent gap, with new and renewed contracts differing by an average 53 million won and Banpo Xi showing a far larger case.",
+        "body": "Seoul’s apartment jeonse market is showing signs that the price gap between new contracts and renewed contracts has become entrenched in the fifth year since the two lease laws took effect. According to Maeil Business Newspaper, the city’s jeonse “dual pricing” continues, with the average gap between new and renewed contracts reaching 53 million won. At Banpo Xi, the report cited a case in which units of the same complex and size showed jeonse prices of 800 million won and 1.9 billion won, a difference of 1.1 billion won. The article pointed to the shift of new apartments toward monthly rent and the accumulated effect of exhausted renewal rights as background factors. As price standards diverge by contract type, both tenants and landlords may continue to feel market distortion. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル賃貸保証金の二重価格が固定化、盤浦ザイ同一面積で11億ウォン差",
+        "excerpt": "賃貸借2法の施行5年目を迎えたソウルのマンション保証金市場で、新規・更新契約の平均格差が5300万ウォンに達し、盤浦ザイでは同一団地・面積で大きな差が出た。",
+        "body": "ソウルのマンション賃貸保証金市場では、賃貸借2法の施行5年目を迎え、新規契約と更新契約の価格差が固定化する様相を見せている。毎日経済の報道によると、ソウルの保証金市場では「二重価格」現象が続き、新規・更新契約の平均格差は5300万ウォンとなった。盤浦ザイでは、同じ団地・同じ面積の保証金が一方は8億ウォン、別の住戸は19億ウォンで、11億ウォンの差が出た事例も示された。原文は、新築マンションの月額賃料化と契約更新請求権の消尽が累積した影響が背景として指摘されると伝えた。契約類型によって価格基準が分かれ、借主と貸主の双方が市場のゆがみを体感する状況が続く可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓全租双重价格固化，盘浦Xi同小区同户型相差11亿韩元",
+        "excerpt": "韩国租赁2法实施进入第5年，首尔公寓全租市场新签与续约平均价差达5300万韩元，盘浦Xi同小区同户型也出现巨大差距。",
+        "body": "首尔公寓全租市场在租赁2法实施第5年之际，正呈现新签合同与续约合同价格差固化的现象。据《每日经济》报道，首尔全租的“双重价格”现象持续，新签与续约合同的平均差距为5300万韩元。在盘浦Xi，同一小区、同一户型的全租价格一套为8亿韩元，另一套为19亿韩元，相差11亿韩元的案例也被提及。原文称，新建公寓转向月租化以及合同续约请求权逐步用尽的累积影响，被认为是这一差距的背景。随着价格标准因合同类型而分化，租客和房东都可能继续感受到市场扭曲。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Doble precio del jeonse en Seúl se afianza: Banpo Xi muestra una brecha de 1.100 millones",
+        "excerpt": "En el quinto año de las dos leyes de arrendamiento, el jeonse de apartamentos en Seúl mantiene una brecha media de 53 millones de wones entre contratos nuevos y renovados, con un caso extremo en Banpo Xi.",
+        "body": "El mercado de jeonse de apartamentos en Seúl muestra que la diferencia entre contratos nuevos y renovados se está afianzando en el quinto año desde la aplicación de las dos leyes de arrendamiento. Según Maeil Business Newspaper, continúa el fenómeno de “doble precio” en el jeonse de Seúl, con una brecha media de 53 millones de wones entre contratos nuevos y renovados. En Banpo Xi se citó un caso en el que viviendas del mismo complejo y tamaño registraron precios de 800 millones y 1.900 millones de wones, una diferencia de 1.100 millones. El texto original señaló como factores de fondo la conversión de apartamentos nuevos hacia alquiler mensual y el efecto acumulado del agotamiento del derecho de renovación contractual. La división de precios por tipo de contrato puede prolongar la distorsión percibida por inquilinos y propietarios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Preço duplo do jeonse em Seul se consolida, Banpo Xi tem diferença de 1,1 bilhão de won",
+        "excerpt": "No quinto ano das duas leis de locação, o jeonse de apartamentos em Seul mantém diferença média de 53 milhões de won entre contratos novos e renovados, com caso maior no Banpo Xi.",
+        "body": "O mercado de jeonse de apartamentos em Seul mostra que a diferença entre contratos novos e renovados está se consolidando no quinto ano desde a entrada em vigor das duas leis de locação. Segundo o Maeil Business Newspaper, o fenômeno de “preço duplo” no jeonse de Seul continua, com diferença média de 53 milhões de won entre novos contratos e renovações. No Banpo Xi, foi citado um caso em que unidades do mesmo condomínio e metragem tinham jeonse de 800 milhões de won e 1,9 bilhão de won, diferença de 1,1 bilhão. O texto original apontou como pano de fundo a mudança de novos apartamentos para aluguel mensal e o efeito acumulado do esgotamento do direito de renovação contratual. Com padrões de preço divididos por tipo de contrato, inquilinos e proprietários podem seguir sentindo distorções no mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Doppelte Jeonse-Preise in Seoul verfestigen sich, Banpo Xi zeigt 1,1 Milliarden Won Abstand",
+        "excerpt": "Im fünften Jahr der zwei Mietgesetze zeigt der Jeonse-Markt für Seouler Apartments weiter große Unterschiede: Neue und verlängerte Verträge liegen im Schnitt 53 Millionen Won auseinander.",
+        "body": "Auf dem Jeonse-Markt für Apartments in Seoul verfestigt sich im fünften Jahr seit Einführung der zwei Mietgesetze der Preisunterschied zwischen neuen und verlängerten Verträgen. Laut Maeil Business Newspaper hält das Phänomen der „doppelten Preise“ beim Jeonse in Seoul an; die durchschnittliche Differenz zwischen Neu- und Verlängerungsverträgen beträgt 53 Millionen Won. Im Banpo Xi wurde ein Fall genannt, in dem Wohnungen derselben Anlage und Größe Jeonse-Preise von 800 Millionen Won und 1,9 Milliarden Won aufwiesen, also 1,1 Milliarden Won auseinanderlagen. Der Originalbericht nennt als Hintergrund die Verlagerung neuer Apartments hin zur Monatsmiete und den kumulierten Effekt ausgeschöpfter Vertragsverlängerungsrechte. Da sich Preismaßstäbe nach Vertragsart trennen, könnten Mieter und Vermieter die Marktverzerrung weiter spüren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Double prix du jeonse à Séoul: Banpo Xi affiche jusqu’à 1,1 milliard de wons d’écart",
+        "excerpt": "Cinq ans après les deux lois sur les baux, le jeonse des appartements à Séoul conserve un écart moyen de 53 millions de wons entre nouveaux contrats et renouvellements, avec un cas marqué à Banpo Xi.",
+        "body": "Sur le marché du jeonse des appartements à Séoul, l’écart entre nouveaux contrats et contrats renouvelés semble s’installer cinq ans après l’entrée en vigueur des deux lois sur les baux. Selon Maeil Business Newspaper, le phénomène de « double prix » du jeonse à Séoul se poursuit, avec un écart moyen de 53 millions de wons entre nouveaux contrats et renouvellements. À Banpo Xi, l’article cite un cas où des logements du même ensemble et de même surface affichaient des jeonse de 800 millions et 1,9 milliard de wons, soit 1,1 milliard de différence. Le texte original évoque comme facteurs la conversion des appartements neufs vers le loyer mensuel et l’effet cumulé de l’épuisement du droit de renouvellement. La séparation des repères de prix selon le type de contrat pourrait prolonger la distorsion ressentie par locataires et bailleurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ازدواج أسعار الجونسي في شقق سيول يترسخ وفارق 1.1 مليار وون في بانبو Xi",
+        "excerpt": "في السنة الخامسة لتطبيق قانوني الإيجار في كوريا، يستمر فارق الجونسي في شقق سيول بين العقود الجديدة والمجددة بمتوسط 53 مليون وون، مع حالة أكبر في بانبو Xi.",
+        "body": "يشهد سوق الجونسي لشقق سيول ترسخ الفجوة السعرية بين العقود الجديدة والعقود المجددة في السنة الخامسة منذ تطبيق قانوني الإيجار. ووفق ما نقلته صحيفة ماييل الاقتصادية، يستمر ما يوصف بازدواج الأسعار في جونسي سيول، إذ بلغ متوسط الفارق بين العقود الجديدة والمجددة 53 مليون وون. وفي مجمع بانبو Xi وردت حالة لشقتين من المجمع نفسه وبالمساحة نفسها، كان سعر جونسي إحداهما 800 مليون وون والأخرى 1.9 مليار وون، بفارق 1.1 مليار وون. وأشار النص الأصلي إلى أن خلفية هذه الفجوة ترتبط بتحول الشقق الجديدة نحو الإيجار الشهري وتراكم أثر استنفاد حق طلب تجديد العقد. ومع اختلاف معيار السعر بحسب نوع العقد، قد يستمر شعور المستأجرين والمالكين بتشوهات السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट जोंसे में दोहरी कीमतें गहरी, Banpo Xi में 1.1 अरब वोन का अंतर",
+        "excerpt": "किराया संबंधी दो कानूनों के पांचवें वर्ष में सियोल अपार्टमेंट जोंसे बाजार में नए और नवीनीकृत अनुबंधों का औसत अंतर 5.3 करोड़ वोन बना हुआ है, Banpo Xi में अंतर और बड़ा दिखा।",
+        "body": "सियोल के अपार्टमेंट जोंसे बाजार में किराया संबंधी दो कानूनों के लागू होने के पांचवें वर्ष में नए अनुबंधों और नवीनीकृत अनुबंधों के बीच कीमतों का अंतर स्थायी होता दिख रहा है। Maeil Business Newspaper के अनुसार, सियोल जोंसे में “दोहरी कीमत” की स्थिति जारी है और नए तथा नवीनीकृत अनुबंधों के बीच औसत अंतर 5.3 करोड़ वोन है। Banpo Xi में समान परिसर और समान आकार के घरों के जोंसे मूल्य 80 करोड़ वोन और 1.9 अरब वोन बताए गए, यानी 1.1 अरब वोन का अंतर। मूल लेख ने नए अपार्टमेंटों के मासिक किराये की ओर झुकाव और अनुबंध नवीनीकरण मांग अधिकार के समाप्त होने के संचयी प्रभाव को इस अंतर की पृष्ठभूमि बताया। अनुबंध के प्रकार के अनुसार मूल्य मानक अलग होने से किरायेदार और मकान मालिक दोनों बाजार विकृति महसूस कर सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Ganda Jeonse Apartemen Seoul Menguat, Banpo Xi Selisih 1,1 Miliar Won",
+        "excerpt": "Pada tahun kelima dua undang-undang sewa, pasar jeonse apartemen Seoul masih menunjukkan selisih rata-rata 53 juta won antara kontrak baru dan perpanjangan, dengan kasus besar di Banpo Xi.",
+        "body": "Pasar jeonse apartemen Seoul menunjukkan bahwa selisih harga antara kontrak baru dan kontrak perpanjangan makin menetap pada tahun kelima sejak dua undang-undang sewa diberlakukan. Menurut Maeil Business Newspaper, fenomena “harga ganda” jeonse di Seoul terus berlanjut, dengan selisih rata-rata 53 juta won antara kontrak baru dan perpanjangan. Di Banpo Xi, laporan itu menyebut kasus unit dalam kompleks dan ukuran yang sama dengan harga jeonse 800 juta won dan 1,9 miliar won, berbeda 1,1 miliar won. Naskah asli menyebut perubahan apartemen baru menuju sewa bulanan dan akumulasi dampak habisnya hak permintaan perpanjangan kontrak sebagai latar belakang. Ketika standar harga terbelah menurut jenis kontrak, penyewa dan pemilik dapat terus merasakan distorsi pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "eadfe0a7c467",
+    "slug": "다시-빚내서-집사기-시작했다4월-주담대-19조-늘어-8개월-최대-175512",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T20:42:36.676Z",
+    "updatedAt": "2026-05-06T20:42:36.676Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035203",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035203",
+    "titleFingerprint": "4ca5271c12db1a6c5181d39cc6287043f8f9feb0",
+    "dedupKeys": [
+      "eadfe0a7c4674f2a12d30d6184b16c158c75cb03",
+      "4ca5271c12db1a6c5181d39cc6287043f8f9feb0",
+      "e80c7eadfe452cfcd46faf92afff02c083ef87b2"
+    ],
+    "imageUrl": "/images/articles/eadfe0a7c467.png",
+    "i18n": {
+      "ko": {
+        "title": "4월 주담대 1.9조 증가, 8개월 만에 최대폭…가계대출 다시 확대",
+        "excerpt": "4월 주요 시중은행 주택담보대출이 1조9000억원 늘며 8개월 만에 최대 증가폭을 기록했고, 가계대출도 1조5000억원 증가해 대출 흐름이 다시 확대되는 모습이다.",
+        "body": "지난 4월 주요 시중은행의 주택담보대출이 한 달 새 1조9000억원 늘며 8개월 만에 가장 큰 증가폭을 기록했다. 4월 말 주담대 잔액은 612조원으로 집계됐고, 같은 기간 가계대출도 1조5000억원 증가했다. 이는 최근 위축됐던 가계대출 흐름이 다시 확대 국면으로 돌아서는 신호로 해석된다. 주담대 증가세가 커지면서 부동산 매수 심리와 가계부채 관리에 대한 시장의 관심도 다시 높아질 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "April Mortgage Loans Rise by 1.9 Trillion Won, Biggest Gain in 8 Months",
+        "excerpt": "Mortgage lending at major commercial banks rose by 1.9 trillion won in April, the largest increase in eight months, while household loans also grew by 1.5 trillion won.",
+        "body": "In April, mortgage loans at major commercial banks increased by 1.9 trillion won from the previous month, marking the largest monthly rise in eight months. The outstanding balance of mortgage loans stood at 612 trillion won at the end of April, while total household loans also rose by 1.5 trillion won during the same period. The figures suggest that household lending, which had recently slowed, is moving back into an expansion phase. As mortgage growth picks up again, market attention is expected to return to homebuying sentiment and household debt management. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "4月の住宅ローン1.9兆ウォン増、8カ月ぶり最大…家計融資も拡大",
+        "excerpt": "4月、主要市中銀行の住宅担保ローンは1兆9000億ウォン増え、8カ月ぶりの最大増加幅となり、家計融資も1兆5000億ウォン増加した。",
+        "body": "4月、主要市中銀行の住宅担保ローンは前月比で1兆9000億ウォン増加し、8カ月ぶりに最も大きな伸びを記録した。4月末の住宅担保ローン残高は612兆ウォンと集計され、同じ期間に家計融資も1兆5000億ウォン増えた。最近鈍化していた家計融資の流れが、再び拡大局面に戻りつつあることを示す内容だ。住宅ローンの増加幅が大きくなるなか、住宅購入心理と家計債務管理への市場の関心も再び高まりそうだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "4月房贷增加1.9万亿韩元，创8个月最大增幅，家庭贷款再扩大",
+        "excerpt": "4月主要商业银行住房抵押贷款增加1.9万亿韩元，创8个月最大增幅；同期家庭贷款也增加1.5万亿韩元，贷款趋势再度扩大。",
+        "body": "今年4月，韩国主要商业银行住房抵押贷款较上月增加1.9万亿韩元，创下8个月以来最大月度增幅。4月底住房抵押贷款余额为612万亿韩元，同期家庭贷款也增加1.5万亿韩元。这显示出此前有所放缓的家庭贷款走势正在重新进入扩大阶段。随着住房抵押贷款增势加快，市场对购房心理以及家庭债务管理的关注预计也将再次升温。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Hipotecas suben 1,9 billones de wones en abril, máximo en 8 meses",
+        "excerpt": "En abril, los préstamos hipotecarios de los principales bancos comerciales aumentaron 1,9 billones de wones, su mayor alza en ocho meses, y la deuda de hogares subió 1,5 billones.",
+        "body": "En abril, los préstamos hipotecarios de los principales bancos comerciales aumentaron en 1,9 billones de wones frente al mes anterior, la mayor subida mensual en ocho meses. A finales de abril, el saldo de hipotecas alcanzó los 612 billones de wones, mientras que los préstamos a hogares crecieron también en 1,5 billones de wones durante el mismo periodo. Las cifras indican que el crédito a los hogares, que se había moderado recientemente, vuelve a una fase de expansión. Con el repunte hipotecario, aumentará la atención sobre la demanda de vivienda y la gestión de la deuda familiar. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Hipotecas sobem 1,9 trilhão de won em abril, maior alta em 8 meses",
+        "excerpt": "Em abril, os financiamentos imobiliários dos principais bancos comerciais cresceram 1,9 trilhão de won, a maior alta em oito meses, e os empréstimos às famílias subiram 1,5 trilhão.",
+        "body": "Em abril, os empréstimos com garantia imobiliária dos principais bancos comerciais aumentaram 1,9 trilhão de won em relação ao mês anterior, registrando a maior alta mensal em oito meses. No fim de abril, o saldo desses financiamentos chegou a 612 trilhões de won, enquanto os empréstimos às famílias também cresceram 1,5 trilhão de won no mesmo período. Os dados indicam que o crédito às famílias, recentemente enfraquecido, voltou a uma fase de expansão. Com o avanço das hipotecas, a atenção do mercado deve se concentrar novamente no apetite por compra de imóveis e na gestão da dívida familiar. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Hypotheken steigen im April um 1,9 Bio. Won, größter Zuwachs seit 8 Monaten",
+        "excerpt": "Im April legten Hypothekendarlehen großer Geschäftsbanken um 1,9 Billionen Won zu, der stärkste Anstieg seit acht Monaten; auch Haushaltskredite stiegen um 1,5 Billionen Won.",
+        "body": "Im April erhöhten sich Hypothekendarlehen der großen Geschäftsbanken gegenüber dem Vormonat um 1,9 Billionen Won und verzeichneten damit den größten monatlichen Zuwachs seit acht Monaten. Ende April lag der ausstehende Bestand an Hypothekendarlehen bei 612 Billionen Won. Im selben Zeitraum nahmen auch die gesamten Haushaltskredite um 1,5 Billionen Won zu. Die Zahlen deuten darauf hin, dass sich die zuletzt gebremste Kreditaufnahme der Haushalte wieder ausweitet. Mit dem stärkeren Wachstum der Hypotheken dürfte der Markt erneut auf Kaufstimmung am Immobilienmarkt und Schuldenmanagement der Haushalte blicken. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les prêts immobiliers d’avril bondissent de 1,9 billion de wons, plus forte hausse en 8 mois",
+        "excerpt": "En avril, les prêts hypothécaires des grandes banques commerciales ont augmenté de 1,9 billion de wons, leur plus forte hausse en huit mois, tandis que les prêts aux ménages ont gagné 1,5 billion.",
+        "body": "En avril, les prêts hypothécaires des principales banques commerciales ont augmenté de 1,9 billion de wons sur un mois, soit la plus forte progression mensuelle en huit mois. À la fin avril, l’encours des prêts immobiliers atteignait 612 billions de wons, tandis que les prêts aux ménages progressaient aussi de 1,5 billion de wons sur la même période. Ces chiffres montrent que le crédit aux ménages, récemment ralenti, revient dans une phase d’expansion. Avec la reprise des prêts immobiliers, l’attention du marché devrait se porter de nouveau sur l’appétit d’achat de logements et la gestion de l’endettement des ménages. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "قروض الرهن العقاري في أبريل ترتفع 1.9 تريليون وون، الأكبر خلال 8 أشهر",
+        "excerpt": "ارتفعت قروض الرهن العقاري لدى البنوك التجارية الكبرى في أبريل بمقدار 1.9 تريليون وون، وهو أكبر ارتفاع خلال ثمانية أشهر، كما زادت قروض الأسر 1.5 تريليون وون.",
+        "body": "في أبريل، زادت قروض الرهن العقاري لدى البنوك التجارية الكبرى بمقدار 1.9 تريليون وون مقارنة بالشهر السابق، مسجلة أكبر زيادة شهرية خلال ثمانية أشهر. وبلغ رصيد قروض الرهن العقاري في نهاية أبريل 612 تريليون وون، بينما ارتفعت قروض الأسر أيضا بمقدار 1.5 تريليون وون خلال الفترة نفسها. وتشير هذه الأرقام إلى أن مسار إقراض الأسر، الذي تباطأ مؤخرا، يعود إلى مرحلة توسع. ومع اتساع نمو الرهون العقارية، من المتوقع أن يتجدد اهتمام السوق بمعنويات شراء المساكن وإدارة ديون الأسر. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अप्रैल में गृह ऋण 1.9 ट्रिलियन वॉन बढ़ा, 8 महीनों की सबसे बड़ी तेजी",
+        "excerpt": "अप्रैल में प्रमुख वाणिज्यिक बैंकों के आवास-बंधक ऋण 1.9 ट्रिलियन वॉन बढ़े, जो आठ महीनों की सबसे बड़ी वृद्धि है; घरेलू ऋण भी 1.5 ट्रिलियन वॉन बढ़ा।",
+        "body": "अप्रैल में प्रमुख वाणिज्यिक बैंकों के आवास-बंधक ऋण पिछले महीने की तुलना में 1.9 ट्रिलियन वॉन बढ़े, जो आठ महीनों में सबसे बड़ी मासिक वृद्धि है। अप्रैल के अंत में आवास-बंधक ऋणों की बकाया राशि 612 ट्रिलियन वॉन रही, जबकि इसी अवधि में कुल घरेलू ऋण भी 1.5 ट्रिलियन वॉन बढ़ा। ये आंकड़े बताते हैं कि हाल में धीमा पड़ा घरेलू ऋण प्रवाह फिर से विस्तार के चरण में लौट रहा है। गृह ऋण की वृद्धि तेज होने के साथ बाजार का ध्यान आवास खरीद भावना और घरेलू कर्ज प्रबंधन पर फिर बढ़ने की संभावना है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "KPR April Naik 1,9 Triliun Won, Kenaikan Terbesar dalam 8 Bulan",
+        "excerpt": "Pada April, kredit pemilikan rumah di bank-bank komersial utama naik 1,9 triliun won, kenaikan terbesar dalam delapan bulan, sementara kredit rumah tangga bertambah 1,5 triliun won.",
+        "body": "Pada April, kredit pemilikan rumah di bank-bank komersial utama naik 1,9 triliun won dibanding bulan sebelumnya, mencatat kenaikan bulanan terbesar dalam delapan bulan. Pada akhir April, saldo KPR tercatat 612 triliun won, sementara total kredit rumah tangga juga meningkat 1,5 triliun won pada periode yang sama. Angka ini menunjukkan bahwa aliran kredit rumah tangga yang belakangan melambat kembali memasuki fase ekspansi. Dengan kenaikan KPR yang membesar, perhatian pasar diperkirakan kembali tertuju pada sentimen pembelian rumah dan pengelolaan utang rumah tangga. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "8678791c259f",
+    "slug": "속보-청와대-장특공제-폐지-정부-입장-아냐실거주-보호-문제-없을-것-100996",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T20:41:36.222Z",
+    "updatedAt": "2026-05-06T20:41:36.222Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035251",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035251",
+    "titleFingerprint": "19db5d38551c191cad55f7321dfd7d1861d567d6",
+    "dedupKeys": [
+      "8678791c259f6560bb98fcec020708df74078a02",
+      "19db5d38551c191cad55f7321dfd7d1861d567d6",
+      "b474e44da7ee7d1e4e9f233008d36594c9778a42"
+    ],
+    "imageUrl": "/images/articles/8678791c259f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "장기보유특별공제 폐지 논란에 청와대 선긋기…“정부 입장 아니다”",
+        "excerpt": "김용범 청와대 정책실장은 4일 윤종오 진보당 의원의 장기보유특별공제 전면 폐지 법안에 대해 정부 입장이 아니라고 밝혔다.",
+        "body": "김용범 청와대 정책실장은 4일 오후 춘추관에서 윤종오 진보당 의원이 발의한 장기보유특별공제 전면 폐지 법안과 관련해 “정부 입장이 절대 아니다”라고 밝혔다. 장기보유특별공제는 장기간 보유한 부동산을 양도할 때 양도소득세 부담을 줄여주는 제도로, 이번 법안은 이를 전면 폐지하는 내용을 담은 것으로 알려졌다. 김 실장의 발언은 해당 법안이 정부 정책 방향으로 해석되는 것을 차단하려는 취지로 풀이된다. 그는 실거주자 보호와 관련해 문제가 없을 것이라는 입장도 함께 밝혔다. 출처는 mk.co.kr 보도다."
+      },
+      "en": {
+        "title": "Blue House distances itself from long-term holding deduction abolition bill",
+        "excerpt": "On the 4th, policy chief Kim Yong-beom said Rep. Yoon Jong-o’s bill to abolish the long-term holding special deduction is not the government’s position.",
+        "body": "Kim Yong-beom, policy chief at the Blue House, said on the afternoon of the 4th at Chunchugwan that the bill proposed by Progressive Party lawmaker Yoon Jong-o to fully abolish the long-term holding special deduction is “absolutely not the government’s position.” The deduction reduces capital gains tax burdens when real estate held for a long period is sold, and the bill is known to call for its full abolition. Kim’s remarks appear aimed at preventing the bill from being interpreted as the government’s policy direction. He also said there would be no problem protecting actual residents. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "長期保有特別控除廃止論に大統領府が一線「政府見解ではない」",
+        "excerpt": "金容範大統領府政策室長は4日、尹鍾午進歩党議員の長期保有特別控除全面廃止法案について政府見解ではないと述べた。",
+        "body": "金容範大統領府政策室長は4日午後、春秋館で、尹鍾午進歩党議員が発議した長期保有特別控除の全面廃止法案について「政府の立場では絶対にない」と明らかにした。長期保有特別控除は、長期間保有した不動産を譲渡する際に譲渡所得税の負担を軽減する制度で、今回の法案はこれを全面的に廃止する内容とされる。金室長の発言は、同法案が政府の政策方針と解釈されることを防ぐ趣旨とみられる。実居住者保護についても問題はないとの立場を示した。出典はmk.co.krの報道。"
+      },
+      "zh": {
+        "title": "青瓦台回应长期持有特别扣除废除争议：绝非政府立场",
+        "excerpt": "青瓦台政策室长金容范4日表示，进步党议员尹钟五提出的全面废除长期持有特别扣除法案并非政府立场。",
+        "body": "青瓦台政策室长金容范4日下午在春秋馆表示，进步党议员尹钟五提出的全面废除长期持有特别扣除法案“绝对不是政府立场”。长期持有特别扣除是在出售长期持有的不动产时减轻转让所得税负担的制度，该法案据称包含全面废除这一制度的内容。金室长的表态被认为是为了避免该法案被解读为政府政策方向。他还表示，在保护实际居住者方面不会有问题。消息来源为mk.co.kr报道。"
+      },
+      "es": {
+        "title": "La Casa Azul se desmarca de abolir la deducción por tenencia prolongada",
+        "excerpt": "El jefe de política Kim Yong-beom dijo el día 4 que el proyecto de Yoon Jong-o para abolir la deducción especial no representa al Gobierno.",
+        "body": "Kim Yong-beom, jefe de política de la Casa Azul, afirmó la tarde del día 4 en Chunchugwan que el proyecto presentado por el diputado Yoon Jong-o, del Partido Progresista, para abolir por completo la deducción especial por tenencia prolongada “no es en absoluto la posición del Gobierno”. Esta deducción reduce la carga del impuesto sobre ganancias de capital al vender inmuebles mantenidos durante largo tiempo, y el proyecto busca eliminarla totalmente. Sus declaraciones parecen orientadas a evitar que la iniciativa se interprete como una línea de política gubernamental. También señaló que no habría problemas para proteger a los residentes reales. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Casa Azul nega apoio ao fim da dedução especial por posse prolongada",
+        "excerpt": "Kim Yong-beom afirmou no dia 4 que o projeto de Yoon Jong-o para abolir a dedução especial por posse prolongada não é posição do governo.",
+        "body": "Kim Yong-beom, chefe de política da Casa Azul, declarou na tarde do dia 4, no Chunchugwan, que o projeto apresentado pelo deputado Yoon Jong-o, do Partido Progressista, para abolir totalmente a dedução especial por posse prolongada “absolutamente não é a posição do governo”. A dedução reduz a carga do imposto sobre ganho de capital na venda de imóveis mantidos por longo período, e o projeto é conhecido por prever sua extinção completa. A fala de Kim parece buscar impedir que a proposta seja interpretada como direção de política governamental. Ele também afirmou que não haverá problema na proteção de moradores reais. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Blaues Haus grenzt sich von Abschaffung des Langzeit-Halteabzugs ab",
+        "excerpt": "Politikchef Kim Yong-beom sagte am 4., der Gesetzentwurf von Yoon Jong-o zur Abschaffung des Sonderabzugs sei keine Regierungsposition.",
+        "body": "Kim Yong-beom, Politikchef des Blauen Hauses, erklärte am Nachmittag des 4. im Chunchugwan, der von Yoon Jong-o von der Progressiven Partei eingebrachte Gesetzentwurf zur vollständigen Abschaffung des Sonderabzugs für langfristigen Immobilienbesitz sei “absolut nicht die Position der Regierung”. Der Abzug verringert die Kapitalertragsteuerbelastung beim Verkauf lange gehaltener Immobilien; der Entwurf soll seine vollständige Streichung vorsehen. Kims Äußerung dürfte darauf abzielen, eine Deutung des Entwurfs als Regierungspolitik zu verhindern. Er sagte zudem, beim Schutz tatsächlicher Bewohner werde es keine Probleme geben. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "La Maison Bleue écarte l’abolition de la déduction pour détention longue",
+        "excerpt": "Kim Yong-beom a déclaré le 4 que le projet de Yoon Jong-o visant à abolir la déduction spéciale pour détention longue n’est pas la position du gouvernement.",
+        "body": "Kim Yong-beom, chef de la politique à la Maison Bleue, a déclaré dans l’après-midi du 4 au Chunchugwan que le projet de loi présenté par le député Yoon Jong-o, du Parti progressiste, visant à abolir totalement la déduction spéciale pour détention longue “n’est absolument pas la position du gouvernement”. Cette déduction réduit la charge de l’impôt sur les plus-values lors de la vente de biens immobiliers détenus longtemps, et le texte prévoirait sa suppression complète. Ses propos semblent viser à empêcher que ce projet soit interprété comme une orientation gouvernementale. Il a aussi indiqué qu’il n’y aurait pas de problème pour protéger les résidents effectifs. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "البيت الأزرق ينفي أن يكون إلغاء خصم الحيازة الطويلة موقفا حكوميا",
+        "excerpt": "قال كيم يونغ-بوم في اليوم الرابع إن مشروع يون جونغ-أو لإلغاء الخصم الخاص للحيازة الطويلة بالكامل لا يمثل موقف الحكومة.",
+        "body": "صرح كيم يونغ-بوم، رئيس السياسات في البيت الأزرق، بعد ظهر اليوم الرابع في تشونتشو غوان بأن مشروع القانون الذي قدمه النائب يون جونغ-أو من الحزب التقدمي لإلغاء الخصم الخاص للحيازة الطويلة بالكامل “ليس إطلاقا موقف الحكومة”. ويخفف هذا الخصم عبء ضريبة أرباح رأس المال عند بيع عقارات محتفظ بها لمدة طويلة، ويعرف أن المشروع يتضمن إلغاءه بالكامل. ويبدو أن تصريح كيم يهدف إلى منع تفسير مشروع القانون على أنه اتجاه لسياسة الحكومة. كما أكد أنه لن تكون هناك مشكلة في حماية المقيمين الفعليين. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "लंबी अवधि होल्डिंग विशेष कटौती खत्म करने पर ब्लू हाउस ने दूरी बनाई",
+        "excerpt": "किम योंग-बोम ने 4 तारीख को कहा कि यून जोंग-ओ का लंबी अवधि होल्डिंग विशेष कटौती पूरी तरह खत्म करने का विधेयक सरकार का रुख नहीं है।",
+        "body": "ब्लू हाउस के नीति प्रमुख किम योंग-बोम ने 4 तारीख की दोपहर चुंचुग्वान में कहा कि प्रोग्रेसिव पार्टी के सांसद यून जोंग-ओ द्वारा पेश लंबी अवधि होल्डिंग विशेष कटौती को पूरी तरह खत्म करने वाला विधेयक “बिल्कुल भी सरकार का रुख नहीं है।” यह कटौती लंबे समय तक रखी गई अचल संपत्ति बेचते समय पूंजीगत लाभ कर का बोझ कम करती है, और बताया गया है कि विधेयक इसे पूरी तरह समाप्त करने की बात करता है। किम की टिप्पणी का उद्देश्य इस विधेयक को सरकारी नीति की दिशा के रूप में समझे जाने से रोकना माना जाता है। उन्होंने यह भी कहा कि वास्तविक निवासियों की सुरक्षा में कोई समस्या नहीं होगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Blue House bantah penghapusan potongan khusus kepemilikan jangka panjang",
+        "excerpt": "Kim Yong-beom pada tanggal 4 menyatakan RUU Yoon Jong-o untuk menghapus potongan khusus kepemilikan jangka panjang bukan posisi pemerintah.",
+        "body": "Kim Yong-beom, kepala kebijakan Blue House, pada sore tanggal 4 di Chunchugwan menyatakan bahwa RUU yang diajukan anggota parlemen Partai Progresif Yoon Jong-o untuk menghapus sepenuhnya potongan khusus kepemilikan jangka panjang “sama sekali bukan posisi pemerintah”. Potongan ini mengurangi beban pajak keuntungan modal saat menjual properti yang dimiliki dalam jangka panjang, dan RUU tersebut diketahui memuat penghapusan penuh. Pernyataan Kim tampaknya bertujuan mencegah RUU itu ditafsirkan sebagai arah kebijakan pemerintah. Ia juga menyatakan tidak akan ada masalah dalam perlindungan penghuni riil. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "761cfbcb2de2",
     "slug": "명일동-일대-재건축-시동-12만가구-들어선다-658864",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kebijakan Real Estat Jadi Faktor Kunci dalam Pemilihan Wali Kota Seoul",
         "excerpt": "Maeil Ilbo melaporkan bahwa kebijakan real estat menjadi isu penentu dalam pemilihan wali kota Seoul, dengan stabilitas hunian dan arah pembangunan memengaruhi pemilih.",
         "body": "Maeil Ilbo melaporkan bahwa kebijakan real estat muncul sebagai faktor utama yang dapat memengaruhi hasil pemilihan wali kota Seoul. Laporan itu menyebut isu yang dekat dengan kehidupan warga, seperti stabilitas hunian dan arah kebijakan pembangunan, dapat memengaruhi keputusan pemilih.\n\nBerita tersebut merangkum isu utama pemilihan wali kota Seoul dalam kerangka kebijakan real estat. Pasar properti Seoul berkaitan dengan beban biaya hunian, harapan pasokan, serta pembahasan pembangunan kembali dan rekonstruksi, sehingga pesan kebijakan para kandidat berada di pusat persaingan pemilu.\n\nKebijakan real estat juga dapat memengaruhi persepsi warga setelah pemilihan, bergantung pada kemungkinan pelaksanaan dan cara penerapannya. Maeil Ilbo menyatakan isu ini menjadi salah satu ukuran penting bagi pemilih dalam pemilihan wali kota Seoul.\n\nSumber: Maeil Ilbo"
-      }
-    }
-  },
-  {
-    "id": "5439dc45edda",
-    "slug": "이재명-대통령-부동산-불패-이제-그런-신화-없다---머니투데이---머니투데이-395440",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:05:24.337Z",
-    "updatedAt": "2026-05-06T08:05:24.337Z",
-    "sourceName": "머니투데이",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fc1VLWkx2eGlCQVNBS0JsRXk3ekY1VklDSklmZnAtYzJSblBPaWc2YzlGbV9aWmREcW82czV2RUpLT284RGFXNXFWTW5BY3lidV9vbjBJX0w4YnowcFVLZ2FTOGJwUmZOT1hqMNIBckFVX3lxTE5YdHJDREh1ZE9Hd044ZmE4WjJrZVBRQjU4amVaUFc2WnluSGhtUTJnWjlpcGxpM0pkVHNFQnBReTQ1ektsVlMwdDZpbGVCdjJKWjd5ZV8tc3lyUlJRRTVrTzljM2pwS084ZnJJVF9VTFJRZw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fc1VLWkx2eGlCQVNBS0JsRXk3ekY1VklDSklmZnAtYzJSblBPaWc2YzlGbV9aWmREcW82czV2RUpLT284RGFXNXFWTW5BY3lidV9vbjBJX0w4YnowcFVLZ2FTOGJwUmZOT1hqMNIBckFVX3lxTE5YdHJDREh1ZE9Hd044ZmE4WjJrZVBRQjU4amVaUFc2WnluSGhtUTJnWjlpcGxpM0pkVHNFQnBReTQ1ektsVlMwdDZpbGVCdjJKWjd5ZV8tc3lyUlJRRTVrTzljM2pwS084ZnJJVF9VTFJRZw?oc=5",
-    "titleFingerprint": "19acdfe43305e9b600e9cf00f763fa2a476a20f2",
-    "dedupKeys": [
-      "5439dc45eddac38ee709b47ec3a0f414764c8fd0",
-      "19acdfe43305e9b600e9cf00f763fa2a476a20f2",
-      "c9dc3503b1dbd7215a26222f271d8f3f0f6ce840"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, 부동산 불패 신화 부정…다주택자 세제 원칙 강조",
-        "excerpt": "이재명 대통령은 3일 국무회의에서 부동산 불패 신화는 더 이상 없다고 밝히며 다주택자 양도세 중과 유예 종료와 정책 일관성을 강조했다.",
-        "body": "이재명 대통령은 3일 청와대에서 열린 국무회의에서 다주택자 양도소득세 중과 유예 종료와 보완 방안을 보고받고 “부동산 불패 신화”는 더 이상 없다는 취지로 말했다.\n\n이 대통령은 다주택자 양도세 중과 유예가 1년씩 네 차례 연장된 점을 언급하며 정책은 신뢰와 예측 가능성이 중요하다고 강조했다. 앞서 그는 5월 9일 만료 예정인 유예 제도에 대해 연장은 고려하지 않는다고 밝힌 바 있다.\n\n그는 과거에는 부동산이 유일한 투자 수단이었지만 이제는 증시라는 대체 투자 수단이 생겼고, 국민의식조사에서도 부동산이 투자 수단 2위로 내려갔다고 설명했다. 또 공약 이행률 평균 95%를 언급하며 대통령으로서 빈말할 이유가 없다고 밝혔다.\n\n출처: 머니투데이"
-      },
-      "en": {
-        "title": "President Lee Rejects Real Estate ‘Never Falls’ Myth, Stresses Tax Policy Consistency",
-        "excerpt": "President Lee Jae-myung said at a Feb. 3 Cabinet meeting that the real estate ‘never falls’ myth no longer holds, stressing consistency on multi-homeowner tax policy.",
-        "body": "President Lee Jae-myung said at a Cabinet meeting held at Cheong Wa Dae on Feb. 3 that the so-called real estate “never falls” myth no longer exists, after receiving a report on the end of the capital gains tax surcharge suspension for multi-homeowners and related measures.\n\nLee noted that the suspension had been extended four times, one year at a time, and said policy requires trust and predictability. He had earlier stated that he was not considering extending the suspension scheduled to expire on May 9.\n\nHe said real estate was once the only investment option, but the stock market has now emerged as an alternative. He also cited a public awareness survey showing real estate has fallen to second place as an investment vehicle. Referring to an average pledge fulfillment rate of 95%, he said he had no reason to make empty remarks as president.\n\nSource: Money Today"
-      },
-      "ja": {
-        "title": "李在明大統領、不動産不敗神話を否定…多住宅者税制の一貫性を強調",
-        "excerpt": "李在明大統領は2月3日の国務会議で、不動産不敗神話はもはやないと述べ、多住宅者の譲渡税重課猶予終了と政策の一貫性を強調した。",
-        "body": "李在明大統領は2月3日、青瓦台で開かれた国務会議で、多住宅者に対する譲渡所得税重課猶予の終了と補完策について報告を受け、「不動産不敗神話」はもはやないとの趣旨を示した。\n\n李大統領は、多住宅者の譲渡税重課猶予が1年ずつ4回延長された点に触れ、政策には信頼と予測可能性が重要だと強調した。これに先立ち、5月9日に満了予定の猶予制度について延長は考えていないと明らかにしていた。\n\nまた、以前は不動産が唯一の投資手段だったが、今は株式市場という代替投資手段が生まれたと説明した。国民意識調査で不動産が投資手段の2位に下がったことにも言及し、公約履行率平均95％を挙げて、大統領として空言を述べる理由はないとした。\n\n出典: マネートゥデイ"
-      },
-      "zh": {
-        "title": "李在明总统否认房地产不败神话，强调多房者税政原则",
-        "excerpt": "李在明总统在2月3日国务会议上表示，房地产不败神话已不复存在，并强调多房者转让税重课暂缓到期及政策一致性。",
-        "body": "李在明总统2月3日在青瓦台召开的国务会议上，听取关于多房者转让所得税重课暂缓结束及补充方案的报告后表示，所谓“房地产不败神话”已不再存在。\n\n李总统提到，多房者转让税重课暂缓曾以一年为单位延长四次，并强调政策需要信任和可预见性。此前，他已表示，对将于5月9日到期的暂缓制度，并未考虑继续延长。\n\n他说明，过去房地产曾是唯一投资手段，但如今股市已成为替代投资渠道。根据国民意识调查，房地产作为投资手段已降至第二位。他还提及平均95%的竞选承诺履行率，称作为总统没有理由说空话。\n\n来源: Money Today"
-      },
-      "es": {
-        "title": "Lee rechaza el mito de que la vivienda siempre sube y defiende coherencia fiscal",
-        "excerpt": "El presidente Lee Jae-myung dijo en el Consejo de Ministros del 3 de febrero que el mito inmobiliario ya no existe y subrayó el fin de la exención fiscal a multipropietarios.",
-        "body": "El presidente Lee Jae-myung afirmó el 3 de febrero, durante una reunión del Consejo de Ministros en Cheong Wa Dae, que el llamado mito de que el sector inmobiliario “nunca pierde” ya no existe, tras recibir un informe sobre el fin de la suspensión del recargo del impuesto a las ganancias de capital para multipropietarios.\n\nLee señaló que la suspensión se había prorrogado cuatro veces, de un año cada una, y destacó que la política pública necesita confianza y previsibilidad. Ya había dicho que no contemplaba extender el régimen previsto para expirar el 9 de mayo.\n\nExplicó que antes la vivienda era el único medio de inversión, pero ahora existe la bolsa como alternativa. También citó una encuesta de opinión pública según la cual el inmobiliario cayó al segundo lugar como instrumento de inversión. Al mencionar una tasa media de cumplimiento de promesas del 95%, dijo que no tiene motivo para hacer declaraciones vacías como presidente.\n\nFuente: Money Today"
-      },
-      "pt": {
-        "title": "Lee nega mito da valorização imobiliária certa e reforça coerência tributária",
-        "excerpt": "O presidente Lee Jae-myung afirmou no Conselho de Ministros de 3 de fevereiro que o mito imobiliário acabou e destacou o fim da suspensão fiscal para multiproprietários.",
-        "body": "O presidente Lee Jae-myung disse em 3 de fevereiro, durante reunião do Conselho de Ministros em Cheong Wa Dae, que o chamado mito de que o mercado imobiliário “nunca perde” não existe mais, após receber relatório sobre o fim da suspensão da sobretaxa de imposto sobre ganhos de capital para multiproprietários.\n\nLee observou que a suspensão foi prorrogada quatro vezes, por um ano cada, e afirmou que políticas públicas precisam de confiança e previsibilidade. Antes, ele já havia declarado que não considerava estender o regime previsto para expirar em 9 de maio.\n\nSegundo ele, o imóvel antes era o único meio de investimento, mas agora há a bolsa de valores como alternativa. Lee também citou uma pesquisa de percepção pública em que o setor imobiliário caiu para o segundo lugar entre os meios de investimento. Ao mencionar uma média de 95% no cumprimento de promessas, disse que, como presidente, não tem motivo para fazer declarações vazias.\n\nFonte: Money Today"
-      },
-      "de": {
-        "title": "Lee weist Mythos sicherer Immobiliengewinne zurück und betont Steuerlinie",
-        "excerpt": "Präsident Lee Jae-myung sagte bei der Kabinettssitzung am 3. Februar, der Mythos sicherer Immobiliengewinne gelte nicht mehr, und betonte Konsequenz bei Steuern für Mehrfachbesitzer.",
-        "body": "Präsident Lee Jae-myung sagte am 3. Februar bei einer Kabinettssitzung im Cheong Wa Dae, der sogenannte Mythos sicherer Immobiliengewinne existiere nicht mehr. Zuvor hatte er einen Bericht über das Ende der Aussetzung des Kapitalertragsteuerzuschlags für Mehrfachhausbesitzer und ergänzende Maßnahmen erhalten.\n\nLee verwies darauf, dass die Aussetzung viermal jeweils um ein Jahr verlängert worden sei, und betonte, Politik brauche Vertrauen und Vorhersehbarkeit. Zuvor hatte er erklärt, eine Verlängerung der am 9. Mai auslaufenden Regelung werde nicht erwogen.\n\nEr sagte, Immobilien seien früher die einzige Anlageform gewesen, inzwischen gebe es mit dem Aktienmarkt eine Alternative. Außerdem führte er eine Umfrage an, nach der Immobilien als Anlageform auf Platz zwei gefallen seien. Mit Blick auf eine durchschnittliche Erfüllungsquote von Wahlversprechen von 95% sagte er, als Präsident habe er keinen Grund für leere Worte.\n\nQuelle: Money Today"
-      },
-      "fr": {
-        "title": "Lee conteste le mythe de l’immobilier invincible et insiste sur la cohérence fiscale",
-        "excerpt": "Le président Lee Jae-myung a déclaré lors du Conseil des ministres du 3 février que le mythe immobilier n’existait plus, en soulignant la fin du sursis fiscal des multipropriétaires.",
-        "body": "Le président Lee Jae-myung a déclaré le 3 février, lors d’un Conseil des ministres tenu à Cheong Wa Dae, que le soi-disant mythe d’un immobilier « invincible » n’existait plus, après avoir reçu un rapport sur la fin du sursis à la surtaxe sur les plus-values pour les multipropriétaires.\n\nLee a rappelé que ce sursis avait été prolongé quatre fois, chaque fois d’un an, et a souligné qu’une politique publique exige confiance et prévisibilité. Il avait auparavant indiqué ne pas envisager de prolonger le dispositif devant expirer le 9 mai.\n\nIl a expliqué qu’autrefois l’immobilier était le seul moyen d’investissement, mais que la Bourse constitue désormais une alternative. Il a aussi cité une enquête d’opinion montrant que l’immobilier est descendu au deuxième rang des moyens d’investissement. Évoquant un taux moyen de réalisation des promesses de 95%, il a déclaré n’avoir aucune raison de tenir des propos vides en tant que président.\n\nSource: Money Today"
-      },
-      "ar": {
-        "title": "لي يرفض أسطورة أن العقار لا يخسر ويؤكد ثبات سياسة ضرائب مالكي عدة منازل",
-        "excerpt": "قال الرئيس لي جاي ميونغ في اجتماع مجلس الوزراء في 3 فبراير إن أسطورة العقار الذي لا يخسر لم تعد قائمة، مؤكدا انتهاء تعليق ضريبة مالكي عدة منازل.",
-        "body": "قال الرئيس لي جاي ميونغ في اجتماع لمجلس الوزراء عقد في تشونغ وا داي في 3 فبراير إن ما يسمى أسطورة أن العقار “لا يخسر” لم تعد قائمة، وذلك بعد تلقيه تقريرا عن انتهاء تعليق الضريبة الإضافية على أرباح بيع العقارات لمالكي عدة منازل وإجراءاتها المكملة.\n\nوأشار لي إلى أن تعليق الضريبة مدد أربع مرات، كل مرة لمدة عام، مؤكدا أن السياسات تحتاج إلى الثقة وقابلية التنبؤ. وكان قد أعلن سابقا أنه لا يدرس تمديد النظام المقرر أن ينتهي في 9 مايو.\n\nوأوضح أن العقار كان في السابق وسيلة الاستثمار الوحيدة، لكن سوق الأسهم أصبح الآن بديلا استثماريا. كما ذكر أن استطلاع وعي عام أظهر تراجع العقار إلى المرتبة الثانية كوسيلة استثمار. وبالإشارة إلى متوسط تنفيذ وعود انتخابية يبلغ 95%، قال إنه لا سبب لديه كرئيس لإطلاق كلمات فارغة.\n\nالمصدر: Money Today"
-      },
-      "hi": {
-        "title": "ली ने रियल एस्टेट अजेय होने की धारणा नकारी, कर नीति में निरंतरता पर जोर",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 3 फरवरी की कैबिनेट बैठक में कहा कि रियल एस्टेट के अजेय होने का मिथक अब नहीं है और बहु-गृह मालिकों की कर छूट समाप्ति पर जोर दिया।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 3 फरवरी को चेओंग वा डे में हुई कैबिनेट बैठक में बहु-गृह मालिकों पर पूंजीगत लाभ कर अधिभार की स्थगन अवधि समाप्त करने और पूरक उपायों पर रिपोर्ट लेने के बाद कहा कि रियल एस्टेट के “कभी न हारने” का मिथक अब नहीं रहा।\n\nली ने कहा कि इस स्थगन को एक-एक वर्ष कर चार बार बढ़ाया गया था और नीति में विश्वास तथा पूर्वानुमेयता महत्वपूर्ण हैं। इससे पहले उन्होंने कहा था कि 9 मई को समाप्त होने वाली इस छूट को आगे बढ़ाने पर विचार नहीं किया जा रहा है।\n\nउन्होंने बताया कि पहले रियल एस्टेट ही एकमात्र निवेश साधन था, लेकिन अब शेयर बाजार वैकल्पिक निवेश माध्यम बन गया है। उन्होंने जन-जागरूकता सर्वेक्षण का हवाला देते हुए कहा कि निवेश साधन के रूप में रियल एस्टेट दूसरे स्थान पर आ गया है। औसतन 95% वादों के पालन का उल्लेख करते हुए उन्होंने कहा कि राष्ट्रपति के रूप में खाली बात कहने का कोई कारण नहीं है।\n\nस्रोत: Money Today"
-      },
-      "id": {
-        "title": "Lee Tolak Mitos Properti Selalu Untung, Tegaskan Konsistensi Pajak",
-        "excerpt": "Presiden Lee Jae-myung pada rapat kabinet 3 Februari mengatakan mitos properti selalu untung tidak lagi berlaku dan menegaskan akhir penangguhan pajak bagi pemilik banyak rumah.",
-        "body": "Presiden Lee Jae-myung mengatakan dalam rapat kabinet di Cheong Wa Dae pada 3 Februari bahwa mitos properti “tak pernah kalah” tidak lagi ada, setelah menerima laporan tentang berakhirnya penangguhan tambahan pajak keuntungan modal bagi pemilik banyak rumah serta langkah pelengkapnya.\n\nLee menyebut penangguhan itu telah diperpanjang empat kali, masing-masing satu tahun, dan menekankan bahwa kebijakan membutuhkan kepercayaan serta kepastian. Sebelumnya, ia menyatakan tidak mempertimbangkan perpanjangan skema yang dijadwalkan berakhir pada 9 Mei.\n\nIa menjelaskan bahwa dulu properti merupakan satu-satunya sarana investasi, tetapi kini pasar saham menjadi alternatif. Ia juga mengutip survei kesadaran publik yang menunjukkan properti turun ke posisi kedua sebagai sarana investasi. Dengan menyebut rata-rata pemenuhan janji sebesar 95%, Lee mengatakan tidak ada alasan baginya sebagai presiden untuk berbicara kosong.\n\nSumber: Money Today"
-      }
-    }
-  },
-  {
-    "id": "1bec1d2bb96c",
-    "slug": "鄭吳-어버이날-앞두고-큰아들-신경전부동산-설전도-계속종합---뉴스1-592132",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:03:53.362Z",
-    "updatedAt": "2026-05-06T08:03:53.362Z",
-    "sourceName": "뉴스1",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92T0Q3TXo0em9lUHRoa2d3OVdOekdzMkN5a0h2SVRWdGJWbWFvMFpQUXo3X0dWSDN2LTdqZUszeURVdHI3ejVuQm5XUGF0cUlCVExKeGZ6alB4dw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92T0Q3TXo0em9lUHRoa2d3OVdOekdzMkN5a0h2SVRWdGJWbWFvMFpQUXo3X0dWSDN2LTdqZUszeURVdHI3ejVuQm5XUGF0cUlCVExKeGZ6alB4dw?oc=5",
-    "titleFingerprint": "5ba15f89243dd51f0d45620a1ca0ee7e4e03a374",
-    "dedupKeys": [
-      "1bec1d2bb96cc7281dc62227cc0abc5854c53ddc",
-      "5ba15f89243dd51f0d45620a1ca0ee7e4e03a374",
-      "381ab80e0dc77a0422decfc25bf13c18d1070d94"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "부동산 공방 이어간 鄭·吳, 어버이날 앞두고 ‘큰아들’ 신경전",
-        "excerpt": "뉴스1은 어버이날을 앞두고 鄭·吳 양측이 ‘큰아들’ 표현을 둘러싼 신경전을 벌였고, 부동산 현안을 둘러싼 설전도 이어졌다고 보도했다.",
-        "body": "어버이날을 앞두고 鄭·吳가 ‘큰아들’ 표현을 놓고 신경전을 벌였다고 뉴스1이 보도했다. 양측의 공방은 부동산 현안을 둘러싼 설전과 함께 이어졌다.\n\n보도에 따르면 이번 발언 경쟁은 어버이날을 앞둔 정치적 메시지 속에서 나왔다. 동시에 부동산 문제를 둘러싼 기존 논쟁도 계속되며 양측의 대립 구도가 재확인됐다.\n\n이번 공방은 민생과 주거 이슈가 정치권의 주요 쟁점으로 남아 있음을 보여준다. 뉴스1은 관련 논쟁을 종합 보도하며 양측의 신경전과 부동산 설전이 계속되고 있다고 전했다.\n\n출처: 뉴스1"
-      },
-      "en": {
-        "title": "Jung and Oh Extend Real Estate Clash Amid ‘Eldest Son’ Tension Before Parents’ Day",
-        "excerpt": "News1 reported that Jung and Oh traded barbs over the phrase ‘eldest son’ ahead of Parents’ Day, while their dispute over real estate issues also continued.",
-        "body": "Ahead of Parents’ Day, Jung and Oh engaged in a war of nerves over the phrase ‘eldest son,’ News1 reported. The exchange continued alongside an ongoing clash over real estate issues.\n\nAccording to the report, the competition in messaging emerged in the context of political remarks before Parents’ Day. At the same time, existing debate over real estate continued, underscoring the confrontation between the two sides.\n\nThe dispute shows that livelihood and housing issues remain key political topics. News1 reported the developments together, noting that both the ‘eldest son’ tension and the real estate war of words are continuing.\n\nSource: News1"
-      },
-      "ja": {
-        "title": "鄭氏と呉氏、父母の日控え「長男」神経戦　不動産論争も継続",
-        "excerpt": "ニュース1は、父母の日を前に鄭氏と呉氏が「長男」という表現を巡って神経戦を繰り広げ、不動産問題を巡る舌戦も続いたと報じた。",
-        "body": "父母の日を前に、鄭氏と呉氏が「長男」という表現を巡って神経戦を繰り広げたとニュース1が報じた。両者の攻防は、不動産問題を巡る舌戦とともに続いた。\n\n報道によると、今回の発言競争は父母の日を控えた政治的メッセージの中で出たものだ。同時に、不動産問題を巡る既存の論争も続き、双方の対立構図が改めて確認された。\n\n今回の攻防は、民生と住居問題が政治圏の主要争点として残っていることを示している。ニュース1は関連論争を総合的に報じ、神経戦と不動産舌戦が続いていると伝えた。\n\n出典: ニュース1"
-      },
-      "zh": {
-        "title": "郑、吴父母节前围绕“长子”交锋 房地产争论持续",
-        "excerpt": "News1报道称，父母节前，郑、吴双方围绕“长子”表述展开交锋，同时围绕房地产议题的口水战也在持续。",
-        "body": "父母节临近之际，郑、吴双方围绕“长子”这一表述展开神经战，News1对此作出报道。双方交锋还伴随着围绕房地产议题的持续争论。\n\n报道称，这场发言较量出现在父母节前的政治信息表达之中。与此同时，围绕房地产问题的既有争议仍在继续，双方对立格局再次显现。\n\n此次交锋显示，民生与住房议题仍是政界的重要焦点。News1综合报道了相关争论，并称“长子”神经战和房地产口水战仍在延续。\n\n来源: News1"
-      },
-      "es": {
-        "title": "Jung y Oh cruzan críticas por ‘hijo mayor’ antes del Día de los Padres y por vivienda",
-        "excerpt": "News1 informó que Jung y Oh se enfrentaron por la expresión ‘hijo mayor’ antes del Día de los Padres, mientras continuó su disputa sobre temas inmobiliarios.",
-        "body": "Antes del Día de los Padres, Jung y Oh protagonizaron una tensión política por la expresión ‘hijo mayor’, informó News1. El intercambio se produjo junto con una disputa continua sobre asuntos inmobiliarios.\n\nSegún el reporte, la competencia de mensajes surgió en el contexto de declaraciones políticas previas a la fecha conmemorativa. Al mismo tiempo, el debate existente sobre bienes raíces siguió adelante y reafirmó la confrontación entre ambas partes.\n\nLa controversia muestra que los temas de vida cotidiana y vivienda siguen siendo asuntos políticos centrales. News1 informó de forma conjunta sobre la tensión por ‘hijo mayor’ y la prolongada disputa inmobiliaria.\n\nFuente: News1"
-      },
-      "pt": {
-        "title": "Jung e Oh mantêm embate imobiliário e tensão por ‘filho mais velho’ antes do Dia dos Pais",
-        "excerpt": "A News1 informou que Jung e Oh trocaram críticas sobre a expressão ‘filho mais velho’ antes do Dia dos Pais, enquanto a disputa sobre imóveis continuou.",
-        "body": "Antes do Dia dos Pais, Jung e Oh travaram uma disputa em torno da expressão ‘filho mais velho’, informou a News1. O embate ocorreu em paralelo à continuidade das críticas sobre temas imobiliários.\n\nSegundo a reportagem, a competição de mensagens apareceu no contexto de declarações políticas antes da data comemorativa. Ao mesmo tempo, o debate já existente sobre imóveis continuou, reafirmando o confronto entre os dois lados.\n\nA discussão mostra que questões de custo de vida e moradia seguem como temas políticos centrais. A News1 reuniu os desdobramentos e informou que tanto a tensão por ‘filho mais velho’ quanto a disputa imobiliária prosseguem.\n\nFonte: News1"
-      },
-      "de": {
-        "title": "Jung und Oh streiten vor Elterntag über ‘ältesten Sohn’ und Immobilienfragen",
-        "excerpt": "News1 berichtete, dass Jung und Oh vor dem Elterntag über den Ausdruck ‘ältester Sohn’ aneinandergerieten, während auch der Streit über Immobilienfragen weiterging.",
-        "body": "Vor dem Elterntag lieferten sich Jung und Oh einen Schlagabtausch über den Ausdruck ‘ältester Sohn’, berichtete News1. Die Auseinandersetzung setzte sich parallel zum anhaltenden Streit über Immobilienfragen fort.\n\nDem Bericht zufolge entstand der Wettbewerb der Botschaften im Umfeld politischer Äußerungen vor dem Gedenktag. Zugleich ging die bestehende Debatte über Immobilien weiter und bestätigte die Konfrontation zwischen beiden Seiten.\n\nDer Streit zeigt, dass Lebenshaltung und Wohnfragen weiterhin wichtige politische Themen sind. News1 fasste die Entwicklungen zusammen und berichtete, dass sowohl die Spannung um den ‘ältesten Sohn’ als auch der Immobilien-Schlagabtausch andauern.\n\nQuelle: News1"
-      },
-      "fr": {
-        "title": "Jung et Oh s’affrontent sur le ‘fils aîné’ avant la Fête des parents et sur l’immobilier",
-        "excerpt": "News1 rapporte que Jung et Oh se sont opposés sur l’expression ‘fils aîné’ avant la Fête des parents, tandis que leur échange sur l’immobilier s’est poursuivi.",
-        "body": "À l’approche de la Fête des parents, Jung et Oh se sont livrés à une tension autour de l’expression ‘fils aîné’, selon News1. Cet échange s’est poursuivi en parallèle d’une controverse sur les questions immobilières.\n\nD’après le reportage, cette concurrence de messages est apparue dans le contexte de déclarations politiques avant la date commémorative. Dans le même temps, le débat existant sur l’immobilier a continué, confirmant l’opposition entre les deux camps.\n\nCette controverse montre que les questions de vie quotidienne et de logement restent des enjeux politiques majeurs. News1 a rapporté l’ensemble du dossier, indiquant que la tension sur le ‘fils aîné’ et le débat immobilier se poursuivent.\n\nSource: News1"
-      },
-      "ar": {
-        "title": "جونغ وأوه يواصلان سجال العقارات ويتبادلان التوتر حول ‘الابن الأكبر’ قبل يوم الوالدين",
-        "excerpt": "ذكرت News1 أن جونغ وأوه دخلا في شد وجذب حول تعبير ‘الابن الأكبر’ قبل يوم الوالدين، بينما استمر السجال بينهما بشأن قضايا العقارات.",
-        "body": "قبل يوم الوالدين، دخل جونغ وأوه في شد وجذب حول تعبير ‘الابن الأكبر’، بحسب ما أوردته News1. وجاء هذا التبادل بالتزامن مع استمرار السجال بشأن قضايا العقارات.\n\nووفق التقرير، ظهر هذا التنافس في الرسائل ضمن سياق تصريحات سياسية سبقت المناسبة. وفي الوقت نفسه، واصل الجدل القائم حول العقارات حضوره، ما أكد من جديد حالة المواجهة بين الطرفين.\n\nيعكس هذا السجال أن قضايا المعيشة والسكن ما زالت من الموضوعات السياسية الرئيسية. وأفادت News1 في تقريرها المجمع بأن التوتر حول ‘الابن الأكبر’ وسجال العقارات مستمران.\n\nالمصدر: News1"
-      },
-      "hi": {
-        "title": "माता-पिता दिवस से पहले ‘बड़े बेटे’ पर जंग और ओह में तनातनी, रियल एस्टेट विवाद भी जारी",
-        "excerpt": "News1 ने बताया कि माता-पिता दिवस से पहले जंग और ओह के बीच ‘बड़े बेटे’ शब्द को लेकर तनातनी हुई, जबकि रियल एस्टेट मुद्दों पर बहस भी जारी रही।",
-        "body": "माता-पिता दिवस से पहले जंग और ओह के बीच ‘बड़े बेटे’ शब्द को लेकर तनातनी हुई, News1 ने यह रिपोर्ट किया। यह टकराव रियल एस्टेट मुद्दों पर जारी बहस के साथ आगे बढ़ा।\n\nरिपोर्ट के अनुसार, यह बयानबाजी माता-पिता दिवस से पहले दिए गए राजनीतिक संदेशों के संदर्भ में सामने आई। इसी दौरान रियल एस्टेट से जुड़ा मौजूदा विवाद भी जारी रहा, जिससे दोनों पक्षों के बीच टकराव फिर स्पष्ट हुआ।\n\nयह विवाद दिखाता है कि आजीविका और आवास से जुड़े मुद्दे राजनीति के प्रमुख विषय बने हुए हैं। News1 ने संबंधित विवादों को समेकित रूप से रिपोर्ट करते हुए कहा कि ‘बड़े बेटे’ पर तनातनी और रियल एस्टेट बहस जारी है।\n\nस्रोत: News1"
-      },
-      "id": {
-        "title": "Jung dan Oh Bersitegang soal ‘Putra Sulung’ Jelang Hari Orang Tua, Debat Properti Berlanjut",
-        "excerpt": "News1 melaporkan Jung dan Oh saling bersitegang soal ungkapan ‘putra sulung’ menjelang Hari Orang Tua, sementara perdebatan isu properti terus berlanjut.",
-        "body": "Menjelang Hari Orang Tua, Jung dan Oh bersitegang soal ungkapan ‘putra sulung’, lapor News1. Pertukaran itu berlangsung bersamaan dengan perdebatan yang terus berlanjut mengenai isu properti.\n\nMenurut laporan tersebut, persaingan pesan ini muncul dalam konteks pernyataan politik menjelang hari peringatan itu. Pada saat yang sama, perdebatan yang sudah ada tentang properti terus berjalan dan kembali menegaskan konfrontasi kedua pihak.\n\nPolemik ini menunjukkan bahwa isu kehidupan sehari-hari dan perumahan masih menjadi topik politik utama. News1 merangkum perkembangan terkait dan menyebut ketegangan soal ‘putra sulung’ serta debat properti masih berlanjut.\n\nSumber: News1"
-      }
-    }
-  },
-  {
-    "id": "50da93cf8b8d",
-    "slug": "李-대통령-부동산-불패-이제-그런-신화-없다---매일건설신문-941973",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:02:46.868Z",
-    "updatedAt": "2026-05-06T08:02:46.868Z",
-    "sourceName": "매일건설신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yeFZjYWdac2FELUtNVGVTTVo0QldHbVNBZjh2d1luOWpNSzhVRDlUQkkybHZpTDg4VENFajBNQXZqNVU?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yeFZjYWdac2FELUtNVGVTTVo0QldHbVNBZjh2d1luOWpNSzhVRDlUQkkybHZpTDg4VENFajBNQXZqNVU?oc=5",
-    "titleFingerprint": "913bcad72a6c4c185706227933972b1ae429627d",
-    "dedupKeys": [
-      "50da93cf8b8d1ed5fae0194db7f6e84f00cf5a91",
-      "913bcad72a6c4c185706227933972b1ae429627d",
-      "35f60b496bb99f04394373fc8de9c210f5633f3f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "이 대통령 “부동산 불패 신화 없다”…주택시장 고정관념에 던진 메시지",
-        "excerpt": "매일건설신문은 이 대통령이 부동산 불패에 대해 “이제 그런 신화는 없다”는 취지로 발언했다고 보도했다. 보도는 주택시장 인식 변화 메시지에 초점을 맞췄다.",
-        "body": "이 대통령은 매일건설신문 보도에서 ‘부동산 불패’라는 인식에 대해 “이제 그런 신화는 없다”는 취지의 발언을 했다. 보도는 대통령 발언을 통해 부동산 시장을 둘러싼 기존 고정관념이 다시 주목받고 있음을 전했다.\n\n해당 보도는 부동산을 사면 반드시 오른다는 식의 시장 인식, 이른바 ‘부동산 불패’ 신화를 핵심 키워드로 다뤘다. 원문에 공개된 요약 정보에는 구체적인 수치나 추가 정책 내용은 제시되지 않았으며, 발언의 핵심은 신화가 더 이상 유효하지 않다는 메시지에 있다.\n\n이번 발언은 주택시장과 투자 심리에 영향을 줄 수 있는 대통령의 공개 메시지로 해석될 수 있다. 다만 보도 요약 기준으로는 세부 대책이나 후속 조치보다 ‘부동산 불패’ 인식에 대한 직접적인 부정이 중심이다.\n\n출처: 매일건설신문"
-      },
-      "en": {
-        "title": "President Lee Says the Myth of Ever-Rising Real Estate No Longer Exists",
-        "excerpt": "Maeil Construction News reported that President Lee said the belief in unbeatable real estate gains is no longer a myth that holds, focusing on a message about changing housing market perceptions.",
-        "body": "President Lee said, according to Maeil Construction News, that the belief in “unbeatable real estate” no longer stands as a myth. The report highlighted the president’s remarks as a message aimed at a long-held perception surrounding the housing market.\n\nThe article centered on the idea that property prices inevitably rise after purchase, commonly described as the “real estate never loses” myth. The available summary of the original report did not present specific figures or additional policy details. Its main point was the statement that such a myth is no longer valid.\n\nThe remarks may be read as a public presidential message relevant to housing market sentiment and real estate investment perceptions. Based on the report summary, however, the focus is not on detailed measures or follow-up actions, but on the direct rejection of the “unbeatable real estate” belief.\n\nSource: Maeil Construction News"
-      },
-      "ja": {
-        "title": "李大統領「不動産不敗神話はもうない」住宅市場認識に示したメッセージ",
-        "excerpt": "毎日建設新聞は、李大統領が不動産不敗について「もはやそのような神話はない」との趣旨で発言したと報じ、住宅市場認識の変化に焦点を当てた。",
-        "body": "李大統領は毎日建設新聞の報道で、「不動産不敗」という認識について「もはやそのような神話はない」との趣旨の発言をした。報道は、大統領の発言を通じて不動産市場をめぐる従来の固定観念が改めて注目されていると伝えた。\n\n同報道は、不動産を買えば必ず値上がりするという市場認識、いわゆる「不動産不敗」神話を主要なキーワードとして扱った。原文の要約情報には具体的な数値や追加の政策内容は示されておらず、発言の核心はその神話がもはや有効ではないというメッセージにある。\n\n今回の発言は、住宅市場や投資心理に影響し得る大統領の公開メッセージとして受け止められる。ただし報道要約の範囲では、詳細な対策や後続措置よりも「不動産不敗」認識への直接的な否定が中心となっている。\n\n出典: 毎日建設新聞"
-      },
-      "zh": {
-        "title": "李总统称“房地产不败神话已不存在”，住房市场认知受关注",
-        "excerpt": "《每日建设新闻》报道称，李总统就房地产不败表示“现在已没有那样的神话”，报道聚焦住房市场认知变化的信息。",
-        "body": "据《每日建设新闻》报道，李总统就“房地产不败”这一认知表示，“现在已没有那样的神话”。报道通过总统发言指出，围绕房地产市场的既有固定观念再次受到关注。\n\n该报道以买入房地产就一定会上涨的市场认知，也就是所谓“房地产不败”神话为核心关键词。原文摘要信息中未提出具体数据或更多政策内容，发言重点在于传递这一神话已不再有效的信息。\n\n这番话可被视为总统面向住房市场和投资心理释放的公开信息。不过，依据报道摘要，重点并非具体对策或后续措施，而是对“房地产不败”认知的直接否定。\n\n来源: 每日建设新闻"
-      },
-      "es": {
-        "title": "Presidente Lee afirma que ya no existe el mito de la inversión inmobiliaria infalible",
-        "excerpt": "Maeil Construction News informó que el presidente Lee dijo que el mito de que el sector inmobiliario nunca pierde ya no existe, con foco en el cambio de percepción del mercado de vivienda.",
-        "body": "El presidente Lee afirmó, según Maeil Construction News, que la idea de una inversión inmobiliaria “infalible” ya no puede sostenerse como mito. El reporte destacó sus palabras como un mensaje sobre una percepción arraigada en torno al mercado de la vivienda.\n\nLa nota se centró en la creencia de que comprar bienes raíces lleva necesariamente a una subida de precios, conocida como el mito de que “el inmobiliario nunca pierde”. El resumen disponible del texto original no presentó cifras concretas ni detalles adicionales de política. El punto central fue que ese mito ya no es válido.\n\nLa declaración puede entenderse como un mensaje público presidencial relacionado con el mercado de vivienda y el ánimo inversor. Sin embargo, según el resumen del reporte, el foco no está en medidas detalladas o pasos posteriores, sino en la negación directa de esa creencia.\n\nFuente: Maeil Construction News"
-      },
-      "pt": {
-        "title": "Presidente Lee diz que mito do imóvel sempre valorizado já não existe",
-        "excerpt": "O Maeil Construction News informou que o presidente Lee disse que o mito de que o mercado imobiliário nunca perde já não existe, destacando uma mensagem sobre mudança de percepção no setor habitacional.",
-        "body": "O presidente Lee afirmou, segundo o Maeil Construction News, que a crença no “imóvel infalível” já não se sustenta como mito. A reportagem destacou a fala presidencial como uma mensagem sobre uma percepção antiga em torno do mercado habitacional.\n\nO texto tratou como ponto central a ideia de que comprar imóveis leva necessariamente à valorização, conhecida como o mito de que o mercado imobiliário nunca perde. O resumo disponível da reportagem original não apresentou números específicos nem detalhes adicionais de política. O núcleo da fala foi a mensagem de que esse mito deixou de ser válido.\n\nA declaração pode ser lida como uma manifestação pública do presidente com possível relevância para o mercado de moradia e o sentimento de investimento. Ainda assim, com base no resumo, o foco está na rejeição direta da crença, não em medidas detalhadas ou ações posteriores.\n\nFonte: Maeil Construction News"
-      },
-      "de": {
-        "title": "Präsident Lee: Mythos stets steigender Immobilienpreise existiert nicht mehr",
-        "excerpt": "Maeil Construction News berichtete, Präsident Lee habe erklärt, der Mythos unbesiegbarer Immobiliengewinne bestehe nicht mehr. Im Mittelpunkt steht eine Botschaft zur Wahrnehmung des Wohnungsmarkts.",
-        "body": "Präsident Lee sagte laut Maeil Construction News, die Vorstellung von „unbesiegbaren Immobilien“ bestehe nicht länger als Mythos. Der Bericht stellte die Äußerung des Präsidenten als Botschaft zu einer lange verankerten Wahrnehmung des Wohnungsmarkts dar.\n\nIm Mittelpunkt stand die Annahme, dass Immobilien nach dem Kauf zwangsläufig im Wert steigen, oft als Mythos vom nie verlierenden Immobilienmarkt beschrieben. Die verfügbare Zusammenfassung des Originalberichts nannte keine konkreten Zahlen und keine weiteren politischen Details. Kernaussage war, dass dieser Mythos nicht mehr gilt.\n\nDie Äußerung kann als öffentliche Botschaft des Präsidenten mit Bezug zu Wohnungsmarkt und Investitionsstimmung verstanden werden. Nach der Zusammenfassung des Berichts liegt der Schwerpunkt jedoch nicht auf konkreten Maßnahmen oder Folgeschritten, sondern auf der direkten Zurückweisung dieses Glaubens.\n\nQuelle: Maeil Construction News"
-      },
-      "fr": {
-        "title": "Le président Lee affirme que le mythe de l’immobilier toujours gagnant n’existe plus",
-        "excerpt": "Maeil Construction News rapporte que le président Lee a déclaré que le mythe d’un immobilier toujours gagnant n’existe plus, en soulignant un message sur l’évolution de la perception du marché du logement.",
-        "body": "Selon Maeil Construction News, le président Lee a déclaré que l’idée d’un immobilier « toujours gagnant » ne tient plus comme mythe. Le reportage a présenté ces propos comme un message concernant une perception ancienne du marché du logement.\n\nL’article s’est concentré sur la croyance selon laquelle l’achat d’un bien immobilier entraîne forcément une hausse de valeur, souvent appelée mythe de l’immobilier qui ne perd jamais. Le résumé disponible du texte original ne mentionne ni chiffres précis ni détails politiques supplémentaires. Le point central est que ce mythe n’est plus valable.\n\nCette déclaration peut être comprise comme un message public présidentiel lié au marché du logement et au sentiment d’investissement. Toutefois, d’après le résumé du reportage, l’accent porte non sur des mesures détaillées ou des suites concrètes, mais sur le rejet direct de cette croyance.\n\nSource: Maeil Construction News"
-      },
-      "ar": {
-        "title": "الرئيس لي: أسطورة العقار الذي لا يخسر لم تعد قائمة في سوق الإسكان",
-        "excerpt": "ذكرت صحيفة Maeil Construction News أن الرئيس لي قال إن أسطورة العقار الذي لا يخسر لم تعد موجودة، مع التركيز على رسالة تتعلق بتغير النظرة إلى سوق الإسكان.",
-        "body": "قال الرئيس لي، وفق ما نقلته صحيفة Maeil Construction News، إن الاعتقاد بما يسمى “العقار الذي لا يخسر” لم يعد قائما كأسطورة. وركز التقرير على تصريح الرئيس بوصفه رسالة تتعلق بتصور راسخ حول سوق الإسكان.\n\nوتناول التقرير فكرة أن شراء العقارات يؤدي حتما إلى ارتفاع قيمتها، وهي الفكرة المعروفة بأسطورة أن العقار لا يخسر. ولم تتضمن خلاصة التقرير الأصلي المتاحة أرقاما محددة أو تفاصيل إضافية عن السياسات. وتتمثل النقطة الأساسية في أن هذه الأسطورة لم تعد صالحة.\n\nيمكن قراءة التصريح كرسالة علنية من الرئيس ذات صلة بسوق الإسكان وبمزاج الاستثمار العقاري. لكن استنادا إلى خلاصة التقرير، فإن التركيز ليس على إجراءات مفصلة أو خطوات لاحقة، بل على الرفض المباشر لفكرة “العقار الذي لا يخسر”.\n\nالمصدر: Maeil Construction News"
-      },
-      "hi": {
-        "title": "राष्ट्रपति ली बोले, रियल एस्टेट में हमेशा लाभ का मिथक अब नहीं रहा",
-        "excerpt": "Maeil Construction News ने बताया कि राष्ट्रपति ली ने कहा कि रियल एस्टेट के हमेशा अजेय रहने का मिथक अब नहीं रहा, और रिपोर्ट ने आवास बाजार की धारणा में बदलाव के संदेश पर ध्यान दिया।",
-        "body": "Maeil Construction News के अनुसार, राष्ट्रपति ली ने कहा कि “रियल एस्टेट कभी नहीं हारता” जैसी धारणा अब मिथक के रूप में कायम नहीं है। रिपोर्ट ने राष्ट्रपति के बयान को आवास बाजार से जुड़ी लंबे समय से चली आ रही धारणा पर संदेश के रूप में पेश किया।\n\nरिपोर्ट का केंद्र यह विचार था कि संपत्ति खरीदने के बाद कीमतें अनिवार्य रूप से बढ़ती हैं, जिसे आम तौर पर रियल एस्टेट के अजेय रहने का मिथक कहा जाता है। मूल रिपोर्ट के उपलब्ध सार में कोई ठोस आंकड़े या अतिरिक्त नीतिगत विवरण नहीं दिए गए। मुख्य बात यह रही कि यह मिथक अब मान्य नहीं है।\n\nइस बयान को आवास बाजार और निवेश भावना से जुड़े राष्ट्रपति के सार्वजनिक संदेश के रूप में देखा जा सकता है। हालांकि रिपोर्ट के सार के आधार पर, जोर विस्तृत उपायों या आगे की कार्रवाई पर नहीं, बल्कि इस धारणा के सीधे खंडन पर है।\n\nस्रोत: Maeil Construction News"
-      },
-      "id": {
-        "title": "Presiden Lee Sebut Mitos Properti Selalu Untung Kini Tidak Berlaku Lagi",
-        "excerpt": "Maeil Construction News melaporkan Presiden Lee mengatakan mitos bahwa properti tidak pernah kalah kini tidak ada lagi, dengan fokus pada pesan perubahan persepsi pasar perumahan.",
-        "body": "Presiden Lee, menurut laporan Maeil Construction News, menyatakan bahwa keyakinan tentang “properti yang tidak pernah kalah” kini tidak lagi berdiri sebagai mitos. Laporan itu menyoroti pernyataan presiden sebagai pesan mengenai persepsi lama di pasar perumahan.\n\nArtikel tersebut berpusat pada pandangan bahwa membeli properti pasti membuat nilainya naik, yang sering disebut sebagai mitos bahwa pasar properti selalu menang. Ringkasan laporan asli yang tersedia tidak memuat angka spesifik atau rincian kebijakan tambahan. Inti pernyataannya adalah bahwa mitos tersebut tidak lagi berlaku.\n\nPernyataan ini dapat dibaca sebagai pesan publik presiden yang relevan dengan pasar perumahan dan sentimen investasi. Namun, berdasarkan ringkasan laporan, fokusnya bukan pada langkah terperinci atau tindak lanjut, melainkan pada penolakan langsung terhadap keyakinan tersebut.\n\nSumber: Maeil Construction News"
       }
     }
   }
