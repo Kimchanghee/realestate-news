@@ -1,5 +1,155 @@
 [
   {
+    "id": "4ef938ef80b1",
+    "slug": "청와대-질책도-무시카뱅-부동산대출-비중-확대---서울경제-116618",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T09:42:57.734Z",
+    "updatedAt": "2026-05-06T09:42:57.734Z",
+    "sourceName": "서울경제",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRVFyX2hDOEVlQm1fWmlzX2FqRUgxX0gwN21BdUVCVFZsaVNYMzVEWUVOdGNlR0ZtRUF4eEdHeVdpQ2RGMU9YR1E1QkIxaFJsRkHSAVNBVV95cUxPeHB3TWFBN2laT3h5bkxFcHpicHREbDZMeVplS0w2dU9ZR0p3clVVNC1ZVDRpZmI3VEtENk5sbHY0d1NaTFBhWTN4RzZIVWM4bXQxaw?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NRVFyX2hDOEVlQm1fWmlzX2FqRUgxX0gwN21BdUVCVFZsaVNYMzVEWUVOdGNlR0ZtRUF4eEdHeVdpQ2RGMU9YR1E1QkIxaFJsRkHSAVNBVV95cUxPeHB3TWFBN2laT3h5bkxFcHpicHREbDZMeVplS0w2dU9ZR0p3clVVNC1ZVDRpZmI3VEtENk5sbHY0d1NaTFBhWTN4RzZIVWM4bXQxaw?oc=5",
+    "titleFingerprint": "9313653a922462b628012fc1b6b2d2fa3e27bf0e",
+    "dedupKeys": [
+      "4ef938ef80b12108b6e454d13d12f633ff02ef24",
+      "9313653a922462b628012fc1b6b2d2fa3e27bf0e",
+      "d2e47def5f65cc0b96f8ea4192a8bdf5e5bb5f0e"
+    ],
+    "imageUrl": "/images/articles/4ef938ef80b1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카뱅 부동산대출 비중 확대 논란, 청와대 질책에도 방향 유지",
+        "excerpt": "서울경제는 카뱅이 청와대의 질책에도 부동산대출 비중 확대 방침을 밝히며 금융권 대출 포트폴리오 논란이 이어지고 있다고 보도했다.",
+        "body": "서울경제 보도에 따르면 카뱅은 청와대의 질책에도 부동산대출 비중을 확대하겠다는 입장을 보였다. 이번 사안은 인터넷전문은행의 대출 포트폴리오에서 부동산 관련 대출이 차지하는 비중을 둘러싼 논란과 맞물려 있다. 원문 요약에는 구체적인 확대 규모나 시점, 관련 수치가 제시되지 않았지만, 핵심은 카뱅이 외부 지적 이후에도 부동산대출 확대 방향을 유지했다는 점이다. 이에 따라 카뱅의 여신 전략과 금융당국·정책권의 시각 차이가 향후 쟁점으로 이어질 가능성이 있다. 출처: 서울경제."
+      },
+      "en": {
+        "title": "KakaoBank Real Estate Loan Share Plan Draws Scrutiny After Blue House Rebuke",
+        "excerpt": "Seoul Economic Daily reported that KakaoBank maintained its plan to increase the share of real estate loans despite criticism from the Blue House.",
+        "body": "According to Seoul Economic Daily, KakaoBank indicated that it would expand the share of real estate loans despite criticism from the Blue House. The issue is tied to debate over how much real estate-related lending should account for in an internet-only bank’s loan portfolio. The source summary did not provide a specific scale, timing, or numerical figures for the planned increase. The central point is that KakaoBank kept its direction on expanding real estate lending even after external criticism. The bank’s lending strategy and the views of financial authorities or policymakers may therefore remain a point of contention. Source: Seoul Economic Daily."
+      },
+      "ja": {
+        "title": "カカオバンク、不動産融資比率拡大方針に波紋 青瓦台の叱責後も維持",
+        "excerpt": "ソウル経済は、カカオバンクが青瓦台の叱責にもかかわらず不動産融資比率を拡大する方針を示し、議論が続いていると報じた。",
+        "body": "ソウル経済の報道によると、カカオバンクは青瓦台からの叱責にもかかわらず、不動産融資の比率を拡大する姿勢を示した。今回の問題は、インターネット専門銀行の融資ポートフォリオにおいて、不動産関連融資がどの程度を占めるべきかという議論と重なっている。原文の要約には、拡大規模や時期、関連数値は示されていない。核心は、外部からの指摘後もカカオバンクが不動産融資拡大の方向を維持した点にある。今後、同行の与信戦略と金融当局・政策側の見方の違いが争点となる可能性がある。出典：ソウル経済。"
+      },
+      "zh": {
+        "title": "KakaoBank拟扩大房地产贷款占比，青瓦台批评后仍坚持方向",
+        "excerpt": "据《首尔经济》报道，KakaoBank在受到青瓦台批评后仍表示将扩大房地产贷款占比，引发贷款组合争议。",
+        "body": "据《首尔经济》报道，KakaoBank在受到青瓦台批评后，仍表明将扩大房地产贷款占比。该事件与互联网专业银行贷款组合中房地产相关贷款应占多大比例的争议相联系。原文摘要未列出具体扩大规模、时间表或相关数字。核心在于，KakaoBank在外部指出问题后，仍维持扩大房地产贷款的方向。因此，KakaoBank的信贷策略以及金融监管部门和政策层面的看法差异，今后可能继续成为争议焦点。来源：《首尔经济》。"
+      },
+      "es": {
+        "title": "KakaoBank mantiene plan de ampliar préstamos inmobiliarios pese a crítica oficial",
+        "excerpt": "Seoul Economic Daily informó que KakaoBank sostuvo su plan de elevar la proporción de préstamos inmobiliarios pese a una reprimenda de la Casa Azul.",
+        "body": "Según Seoul Economic Daily, KakaoBank señaló que ampliaría la proporción de préstamos inmobiliarios pese a una crítica de la Casa Azul. El caso se vincula con el debate sobre cuánto deben pesar los créditos relacionados con bienes raíces dentro de la cartera de préstamos de un banco exclusivamente digital. El resumen original no incluyó una escala concreta, un calendario ni cifras relacionadas con la ampliación. El punto central es que KakaoBank mantuvo la dirección de expandir los préstamos inmobiliarios incluso después de los señalamientos externos. Por ello, su estrategia crediticia y la visión de las autoridades financieras o del ámbito político podrían seguir siendo un tema de debate. Fuente: Seoul Economic Daily."
+      },
+      "pt": {
+        "title": "KakaoBank mantém plano de ampliar crédito imobiliário apesar de crítica oficial",
+        "excerpt": "O Seoul Economic Daily informou que o KakaoBank manteve a intenção de elevar a participação dos empréstimos imobiliários mesmo após crítica da Casa Azul.",
+        "body": "Segundo o Seoul Economic Daily, o KakaoBank indicou que ampliaria a participação dos empréstimos imobiliários apesar de uma crítica da Casa Azul. O caso se relaciona ao debate sobre quanto os créditos ligados ao setor imobiliário devem representar na carteira de empréstimos de um banco digital. O resumo original não apresentou escala específica, prazo ou números relacionados à ampliação. O ponto central é que o KakaoBank manteve a direção de expandir o crédito imobiliário mesmo após questionamentos externos. Assim, a estratégia de crédito do banco e a visão das autoridades financeiras ou formuladores de política podem continuar em discussão. Fonte: Seoul Economic Daily."
+      },
+      "de": {
+        "title": "KakaoBank hält an Ausbau von Immobilienkrediten trotz Kritik aus dem Blauen Haus fest",
+        "excerpt": "Seoul Economic Daily berichtete, dass KakaoBank trotz Kritik aus dem Blauen Haus den Anteil von Immobilienkrediten erhöhen will.",
+        "body": "Nach Angaben von Seoul Economic Daily hat KakaoBank erkennen lassen, den Anteil von Immobilienkrediten trotz Kritik aus dem Blauen Haus ausweiten zu wollen. Der Vorgang steht im Zusammenhang mit der Debatte darüber, welchen Anteil immobilienbezogene Kredite im Kreditportfolio einer reinen Internetbank haben sollten. Die ursprüngliche Zusammenfassung nennt keinen konkreten Umfang, keinen Zeitpunkt und keine zugehörigen Zahlen. Im Kern geht es darum, dass KakaoBank auch nach externen Hinweisen an der Ausweitung der Immobilienkredite festhielt. Damit könnten die Kreditstrategie der Bank und die Sicht von Finanzaufsicht oder Politik weiter zum Streitpunkt werden. Quelle: Seoul Economic Daily."
+      },
+      "fr": {
+        "title": "KakaoBank veut accroître les prêts immobiliers malgré la critique de la Maison Bleue",
+        "excerpt": "Seoul Economic Daily rapporte que KakaoBank maintient son intention d’augmenter la part des prêts immobiliers malgré une critique de la Maison Bleue.",
+        "body": "Selon Seoul Economic Daily, KakaoBank a indiqué vouloir accroître la part des prêts immobiliers malgré une critique de la Maison Bleue. Le sujet s’inscrit dans le débat sur la place que doivent occuper les prêts liés à l’immobilier dans le portefeuille d’une banque exclusivement en ligne. Le résumé original ne précise ni l’ampleur de l’augmentation, ni son calendrier, ni des chiffres associés. Le point central est que KakaoBank a maintenu son orientation vers une hausse des prêts immobiliers après les remarques externes. Sa stratégie de crédit et la position des autorités financières ou politiques pourraient donc rester un sujet de débat. Source : Seoul Economic Daily."
+      },
+      "ar": {
+        "title": "كاكاو بنك يتمسك بتوسيع قروض العقارات رغم انتقاد البيت الأزرق",
+        "excerpt": "ذكرت صحيفة سيول الاقتصادية أن كاكاو بنك واصل اتجاهه لزيادة حصة القروض العقارية رغم انتقاد من البيت الأزرق، ما أبقى الجدل قائما.",
+        "body": "بحسب ما أوردته صحيفة سيول الاقتصادية، أظهر كاكاو بنك موقفا يفيد بأنه سيزيد حصة القروض العقارية رغم انتقاد من البيت الأزرق. وترتبط هذه القضية بالنقاش حول حجم القروض المرتبطة بالعقارات داخل محفظة الإقراض لدى بنك يعمل عبر الإنترنت. ولم يتضمن ملخص المصدر الأصلي حجما محددا للتوسع أو توقيتا أو أرقاما ذات صلة. وتتمثل النقطة الأساسية في أن كاكاو بنك أبقى على اتجاه توسيع القروض العقارية حتى بعد الملاحظات الخارجية. لذلك قد تظل استراتيجية الإقراض لدى البنك واختلاف الرؤى مع السلطات المالية أو دوائر السياسات محل نقاش. المصدر: صحيفة سيول الاقتصادية."
+      },
+      "hi": {
+        "title": "काकाओबैंक ने रियल एस्टेट कर्ज हिस्सेदारी बढ़ाने का रुख कायम रखा",
+        "excerpt": "Seoul Economic Daily के अनुसार, काकाओबैंक ने ब्लू हाउस की फटकार के बावजूद रियल एस्टेट ऋण की हिस्सेदारी बढ़ाने की दिशा बरकरार रखी।",
+        "body": "Seoul Economic Daily की रिपोर्ट के अनुसार, काकाओबैंक ने ब्लू हाउस की फटकार के बावजूद रियल एस्टेट ऋण की हिस्सेदारी बढ़ाने का रुख दिखाया। यह मामला इंटरनेट-आधारित बैंक के ऋण पोर्टफोलियो में रियल एस्टेट से जुड़े कर्ज की हिस्सेदारी को लेकर चल रही बहस से जुड़ा है। मूल सारांश में विस्तार के ठोस आकार, समय या संबंधित आंकड़ों का उल्लेख नहीं है। मुख्य बात यह है कि बाहरी आलोचना के बाद भी काकाओबैंक ने रियल एस्टेट कर्ज बढ़ाने की दिशा बनाए रखी। इसलिए बैंक की ऋण रणनीति और वित्तीय अधिकारियों या नीति पक्ष की दृष्टि में अंतर आगे भी मुद्दा बन सकता है। स्रोत: Seoul Economic Daily."
+      },
+      "id": {
+        "title": "KakaoBank Tetap Perluas Porsi Kredit Properti Meski Dikritik Blue House",
+        "excerpt": "Seoul Economic Daily melaporkan KakaoBank tetap mengarah pada perluasan porsi kredit properti meski mendapat teguran dari Blue House.",
+        "body": "Menurut laporan Seoul Economic Daily, KakaoBank menunjukkan sikap akan memperluas porsi kredit properti meski mendapat teguran dari Blue House. Isu ini berkaitan dengan perdebatan mengenai seberapa besar kredit terkait properti dalam portofolio pinjaman bank khusus internet. Ringkasan sumber asli tidak mencantumkan skala perluasan, waktu pelaksanaan, atau angka terkait. Intinya, KakaoBank tetap mempertahankan arah perluasan kredit properti setelah adanya kritik dari luar. Karena itu, strategi penyaluran kredit KakaoBank serta perbedaan pandangan dengan otoritas keuangan atau kalangan pembuat kebijakan dapat terus menjadi isu. Sumber: Seoul Economic Daily."
+      }
+    }
+  },
+  {
+    "id": "63d70b69937a",
+    "slug": "정원오-본진-성동구-찾은-오세훈-부동산-지옥에-시민들-삶의-터전서-밀려나---조선비즈---chosunbiz-464972",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T09:41:55.832Z",
+    "updatedAt": "2026-05-06T09:41:55.833Z",
+    "sourceName": "Chosunbiz",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHBqSWs3elhHenV2Z21FRy10VU5pSHEzT0hORzdoSDB0bHJJdktTQ19Iem9mRXE0SmI0cFZ1UjFfVHpKSmhDa3JOblRDaHUtSWEtUGNoMXhaZHVySVhUaVZkRmdVSGhYcEFjQUtOZWJrbGFmeWVnVURDSjNIMFVWYThDYWRHRTdaOVY0OWZtMNIBowFBVV95cUxNWGtaWGlYSExIcFF4RURWYUk0bE1haHBtTGZfU0k3V3ZRaTVxeTRxYUJkaTJUYjlBNGk4eXMyX3FsMmZUSlhjdHJiWl9lYUxDcUE4bnJlbW8yekNHZlFWX3J2MlppS2ljQWFjR1U1ZjBDYlQ5WVRMLWo1OGdpUEJJT3dMTFFaZ21mYXZEalAyOERxRWd5dXo1ZHVpamI0aGVCcW1r?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHBqSWs3elhHenV2Z21FRy10VU5pSHEzT0hORzdoSDB0bHJJdktTQ19Iem9mRXE0SmI0cFZ1UjFfVHpKSmhDa3JOblRDaHUtSWEtUGNoMXhaZHVySVhUaVZkRmdVSGhYcEFjQUtOZWJrbGFmeWVnVURDSjNIMFVWYThDYWRHRTdaOVY0OWZtMNIBowFBVV95cUxNWGtaWGlYSExIcFF4RURWYUk0bE1haHBtTGZfU0k3V3ZRaTVxeTRxYUJkaTJUYjlBNGk4eXMyX3FsMmZUSlhjdHJiWl9lYUxDcUE4bnJlbW8yekNHZlFWX3J2MlppS2ljQWFjR1U1ZjBDYlQ5WVRMLWo1OGdpUEJJT3dMTFFaZ21mYXZEalAyOERxRWd5dXo1ZHVpamI0aGVCcW1r?oc=5",
+    "titleFingerprint": "1c65873d2c83997877747a28fd84cea746b8df52",
+    "dedupKeys": [
+      "63d70b69937ab6c77d2808cd9c31bd752b7f3cf6",
+      "1c65873d2c83997877747a28fd84cea746b8df52",
+      "b7f496f91806b9130509ad5c00b3993987e9a3c0"
+    ],
+    "imageUrl": "/images/articles/63d70b69937a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오세훈, 정원오 본진 성동구서 부동산 문제 비판…“삶의 터전서 밀려나”",
+        "excerpt": "오세훈 서울시장이 정원오 구청장의 본진으로 불리는 성동구를 찾아 부동산 문제를 언급하며 시민들이 삶의 터전에서 밀려나고 있다고 비판했다.",
+        "body": "오세훈 서울시장이 정원오 성동구청장의 정치적 기반으로 언급되는 서울 성동구를 찾아 부동산 문제를 정면으로 비판했다. 조선비즈 보도에 따르면 오 시장은 성동구 방문 자리에서 “부동산 지옥에 시민들 삶의 터전서 밀려나”라고 말했다. 이번 발언은 서울 지역 부동산 부담과 주거 안정 문제가 정치권의 주요 의제로 이어지는 가운데 나왔다. 성동구는 정원오 구청장의 본진으로 표현된 지역이라는 점에서 오 시장의 현장 방문과 발언에 관심이 모였다. 향후 서울시 부동산 정책과 지역 민심을 둘러싼 논의가 이어질 전망이다. 출처: Chosunbiz."
+      },
+      "en": {
+        "title": "Oh Se-hoon Criticizes Housing Pressure in Seongdong, Jung Won-oh’s Base",
+        "excerpt": "Seoul Mayor Oh Se-hoon visited Seongdong-gu, described as Jung Won-oh’s political base, and criticized real estate pressures pushing citizens from their homes.",
+        "body": "Seoul Mayor Oh Se-hoon visited Seongdong-gu in Seoul, a district described as the political base of Seongdong District Mayor Jung Won-oh, and directly criticized the real estate problem. According to Chosunbiz, Oh said during the visit that citizens are being pushed out of the places where they live because of “real estate hell.” The remark came as housing costs and residential stability remain major issues in Seoul politics. Because Seongdong-gu was described as Jung Won-oh’s home ground, Oh’s visit and comments drew attention. Further debate is expected over Seoul’s real estate policy and local public sentiment. Source: Chosunbiz."
+      },
+      "ja": {
+        "title": "呉世勲氏、鄭願伍氏の地盤・城東区で不動産問題を批判",
+        "excerpt": "ソウル市長の呉世勲氏は、鄭願伍区庁長の地盤とされる城東区を訪れ、不動産問題により市民が生活の場から押し出されていると批判した。",
+        "body": "ソウル市長の呉世勲氏は、鄭願伍城東区庁長の政治的基盤とされるソウル城東区を訪れ、不動産問題を正面から批判した。Chosunbizの報道によると、呉氏は城東区訪問の場で、市民が「不動産地獄」によって生活の場から押し出されていると述べた。今回の発言は、ソウル地域の不動産負担と住居安定が政界の主要課題となる中で出たものだ。城東区が鄭願伍区庁長の本拠地と表現された地域であるため、呉氏の現地訪問と発言に関心が集まった。今後、ソウル市の不動産政策と地域世論をめぐる議論が続く見通しだ。出典: Chosunbiz。"
+      },
+      "zh": {
+        "title": "吴世勋访问郑愿伍大本营城东区，批评房地产压力",
+        "excerpt": "首尔市长吴世勋访问被称为郑愿伍区厅长大本营的城东区，谈及房地产问题，批评市民正被迫离开生活根基。",
+        "body": "首尔市长吴世勋访问了被提及为郑愿伍城东区厅长政治基础的首尔城东区，并正面批评房地产问题。据Chosunbiz报道，吴世勋在城东区访问现场表示，市民因“房地产地狱”而被迫离开生活的根基。此番发言出现在首尔房地产负担和居住稳定问题持续成为政界主要议题之际。由于城东区被形容为郑愿伍区厅长的大本营，吴世勋的现场访问和相关表态受到关注。预计围绕首尔市房地产政策和地区民意的讨论将继续。来源：Chosunbiz。"
+      },
+      "es": {
+        "title": "Oh Se-hoon critica la presión inmobiliaria en Seongdong, base de Jung Won-oh",
+        "excerpt": "El alcalde de Seúl, Oh Se-hoon, visitó Seongdong-gu, descrito como base de Jung Won-oh, y criticó que la presión inmobiliaria expulse a ciudadanos de sus hogares.",
+        "body": "El alcalde de Seúl, Oh Se-hoon, visitó Seongdong-gu, en Seúl, distrito descrito como base política del jefe distrital Jung Won-oh, y criticó directamente el problema inmobiliario. Según Chosunbiz, Oh dijo durante la visita que los ciudadanos están siendo desplazados de sus lugares de vida por un “infierno inmobiliario”. La declaración se produjo mientras la carga inmobiliaria y la estabilidad residencial siguen siendo temas centrales en la política de Seúl. Como Seongdong-gu fue presentado como el bastión de Jung Won-oh, la visita y las palabras de Oh atrajeron atención. Se prevé que continúe el debate sobre la política inmobiliaria de Seúl y el sentir local. Fuente: Chosunbiz."
+      },
+      "pt": {
+        "title": "Oh Se-hoon critica pressão imobiliária em Seongdong, base de Jung Won-oh",
+        "excerpt": "O prefeito de Seul, Oh Se-hoon, visitou Seongdong-gu, descrito como base de Jung Won-oh, e criticou a pressão imobiliária que afasta cidadãos de seus lares.",
+        "body": "O prefeito de Seul, Oh Se-hoon, visitou Seongdong-gu, em Seul, distrito citado como base política do chefe distrital Jung Won-oh, e criticou diretamente o problema imobiliário. Segundo o Chosunbiz, Oh afirmou durante a visita que os cidadãos estão sendo empurrados para fora de seus locais de vida por um “inferno imobiliário”. A declaração ocorreu enquanto o peso dos imóveis e a estabilidade habitacional seguem como temas centrais na política de Seul. Como Seongdong-gu foi descrito como reduto de Jung Won-oh, a visita e as falas de Oh chamaram atenção. O debate sobre a política imobiliária de Seul e o sentimento local deve continuar. Fonte: Chosunbiz."
+      },
+      "de": {
+        "title": "Oh Se-hoon kritisiert Immobiliendruck in Seongdong, Jung Won-ohs Basis",
+        "excerpt": "Seouls Bürgermeister Oh Se-hoon besuchte Seongdong-gu, das als Basis von Jung Won-oh gilt, und kritisierte, dass Immobiliendruck Bürger aus ihrem Lebensumfeld verdrängt.",
+        "body": "Seouls Bürgermeister Oh Se-hoon besuchte Seongdong-gu in Seoul, einen Bezirk, der als politische Basis des Bezirksbürgermeisters Jung Won-oh beschrieben wird, und kritisierte direkt das Immobilienproblem. Laut Chosunbiz sagte Oh bei dem Besuch, Bürger würden durch eine „Immobilienhölle“ aus ihrem Lebensumfeld gedrängt. Die Äußerung fiel, während Immobilienbelastung und Wohnstabilität zentrale Themen der Seouler Politik bleiben. Da Seongdong-gu als Hochburg von Jung Won-oh bezeichnet wurde, zogen Ohs Besuch und seine Aussagen Aufmerksamkeit auf sich. Die Debatte über Seouls Immobilienpolitik und die lokale Stimmung dürfte weitergehen. Quelle: Chosunbiz."
+      },
+      "fr": {
+        "title": "Oh Se-hoon critique la pression immobilière à Seongdong, base de Jung Won-oh",
+        "excerpt": "Le maire de Séoul, Oh Se-hoon, s’est rendu à Seongdong-gu, décrit comme la base de Jung Won-oh, et a dénoncé une pression immobilière qui pousse les citoyens hors de leur lieu de vie.",
+        "body": "Le maire de Séoul, Oh Se-hoon, s’est rendu à Seongdong-gu, à Séoul, un district présenté comme la base politique du chef d’arrondissement Jung Won-oh, et a critiqué directement le problème immobilier. Selon Chosunbiz, Oh a déclaré lors de cette visite que les citoyens sont poussés hors de leur lieu de vie par un « enfer immobilier ». Cette déclaration intervient alors que le coût de l’immobilier et la stabilité résidentielle restent des sujets majeurs dans la politique de Séoul. Comme Seongdong-gu a été décrit comme le bastion de Jung Won-oh, la visite et les propos d’Oh ont attiré l’attention. Le débat sur la politique immobilière de Séoul et l’opinion locale devrait se poursuivre. Source : Chosunbiz."
+      },
+      "ar": {
+        "title": "أوه سي هون ينتقد أزمة العقارات في سيونغدونغ، قاعدة جونغ وون أو",
+        "excerpt": "زار عمدة سيول أوه سي هون حي سيونغدونغ، الموصوف بأنه قاعدة جونغ وون أو، وانتقد ضغوط العقارات التي تدفع المواطنين بعيداً عن أماكن عيشهم.",
+        "body": "زار عمدة سيول أوه سي هون حي سيونغدونغ في سيول، وهو حي وُصف بأنه القاعدة السياسية لرئيس الحي جونغ وون أو، ووجّه انتقاداً مباشراً لمشكلة العقارات. وبحسب Chosunbiz، قال أوه خلال الزيارة إن المواطنين يُدفعون بعيداً عن أماكن حياتهم بسبب “جحيم العقارات”. جاءت هذه التصريحات في وقت تبقى فيه أعباء العقارات واستقرار السكن من القضايا الرئيسية في سياسة سيول. وبما أن سيونغدونغ وُصف بأنه معقل جونغ وون أو، فقد جذبت زيارة أوه وتصريحاته الانتباه. ومن المتوقع استمرار النقاش حول سياسة سيول العقارية ومزاج الرأي المحلي. المصدر: Chosunbiz."
+      },
+      "hi": {
+        "title": "ओह से-हून ने जंग वोन-ओ के आधार सोंगदोंग में रियल एस्टेट दबाव की आलोचना की",
+        "excerpt": "सियोल के मेयर ओह से-हून ने जंग वोन-ओ का राजनीतिक आधार कहे जाने वाले सोंगदोंग-गु का दौरा कर कहा कि रियल एस्टेट दबाव नागरिकों को उनके जीवन-स्थल से हटा रहा है।",
+        "body": "सियोल के मेयर ओह से-हून ने सियोल के सोंगदोंग-गु का दौरा किया, जिसे सोंगदोंग जिला प्रमुख जंग वोन-ओ का राजनीतिक आधार बताया गया है, और रियल एस्टेट समस्या की सीधी आलोचना की। Chosunbiz के अनुसार, ओह ने दौरे के दौरान कहा कि नागरिक “रियल एस्टेट नरक” के कारण अपने जीवन-स्थल से धकेले जा रहे हैं। यह टिप्पणी ऐसे समय आई है जब सियोल में आवासीय बोझ और रहने की स्थिरता राजनीति के प्रमुख मुद्दे बने हुए हैं। चूंकि सोंगदोंग-गु को जंग वोन-ओ का गढ़ बताया गया, इसलिए ओह की यात्रा और बयान पर ध्यान गया। सियोल की रियल एस्टेट नीति और स्थानीय जनमत पर चर्चा आगे भी जारी रहने की संभावना है। स्रोत: Chosunbiz."
+      },
+      "id": {
+        "title": "Oh Se-hoon Kritik Tekanan Properti di Seongdong, Basis Jung Won-oh",
+        "excerpt": "Wali Kota Seoul Oh Se-hoon mengunjungi Seongdong-gu, yang disebut basis Jung Won-oh, dan mengkritik tekanan properti yang membuat warga tersingkir dari tempat hidup mereka.",
+        "body": "Wali Kota Seoul Oh Se-hoon mengunjungi Seongdong-gu di Seoul, wilayah yang disebut sebagai basis politik Kepala Distrik Jung Won-oh, dan secara langsung mengkritik persoalan properti. Menurut Chosunbiz, Oh mengatakan dalam kunjungan itu bahwa warga terdorong keluar dari tempat hidup mereka karena “neraka properti”. Pernyataan ini muncul ketika beban properti dan stabilitas hunian tetap menjadi isu utama dalam politik Seoul. Karena Seongdong-gu digambarkan sebagai basis Jung Won-oh, kunjungan dan pernyataan Oh menarik perhatian. Perdebatan mengenai kebijakan properti Seoul dan sentimen lokal diperkirakan akan berlanjut. Sumber: Chosunbiz."
+      }
+    }
+  },
+  {
     "id": "6a5f4fa1fbaf",
     "slug": "뜨는-주식부동산-콕콕-부자-되는-길-제시합니다---vdaumnet-961729",
     "channelId": "REALESTATE",
