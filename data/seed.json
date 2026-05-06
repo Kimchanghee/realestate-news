@@ -1,5 +1,230 @@
 [
   {
+    "id": "0b8fd0adc1ea",
+    "slug": "안-그래도-힘든데-전쟁-때문에-더-힘들어요중소건설사-곡소리-594435",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T15:28:00.614Z",
+    "updatedAt": "2026-05-06T15:28:00.614Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037110",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037110",
+    "titleFingerprint": "a2dc757dc64310dba39df7005f2909353fd29627",
+    "dedupKeys": [
+      "0b8fd0adc1ea11a8d54ca46eee19bf070bacd277",
+      "a2dc757dc64310dba39df7005f2909353fd29627",
+      "06586b09a7d9149caf18f49c70f15b15bca98122"
+    ],
+    "imageUrl": "/images/articles/0b8fd0adc1ea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중소건설사 위기 심화, 공사비 급등·자재난에 중동전쟁까지 부담",
+        "excerpt": "공사비 급등과 자재난, 미분양으로 자금난을 겪는 중소·지방 건설사들이 중동전쟁 장기화까지 겹치며 폐업 증가와 업계 양극화 압박을 받고 있다.",
+        "body": "공사비 급등과 자재난, 미분양으로 돈줄이 막힌 중소건설사들이 중동전쟁 장기화라는 추가 악재에 직면했다. 이미 지방 건설사를 중심으로 폐업이 늘어나는 가운데, 원가 부담과 자금 조달 어려움이 겹치며 현장 운영 부담이 커지고 있다. 원문은 공사비가 급등하고 자재난이 이어지는 상황에서 중동전쟁 장기화가 중소건설사에 또 다른 파고가 될 수 있다고 전했다. 특히 미분양 등으로 유동성이 약해진 업체들은 연이은 악재를 버티기 어려울 수 있다는 우려가 나온다. 폐업 증가 속에 건설업 내 양극화도 심화되는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Small builders face deeper crisis as costs, material shortages and Middle East war weigh",
+        "excerpt": "Small and regional builders squeezed by rising construction costs, material shortages and unsold homes face added pressure from a prolonged Middle East war and growing closures.",
+        "body": "Small construction companies whose funding has been constrained by soaring construction costs, material shortages and unsold homes are facing another setback: the prolonged Middle East war. Closures are already increasing, especially among regional builders, while higher costs and tighter financing are adding pressure to site operations. The original report said that, as construction costs rise sharply and material shortages continue, a prolonged Middle East conflict could become another wave of difficulty for smaller builders. Firms with weakened liquidity due to unsold units may struggle to withstand repeated adverse conditions. Amid rising closures, polarization within the construction industry is also deepening. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "中小建設会社の危機深刻化、工事費高騰・資材難に中東戦争も重荷",
+        "excerpt": "工事費高騰、資材難、未分譲で資金繰りが厳しい中小・地方建設会社は、中東戦争の長期化も重なり、廃業増加と業界の二極化に直面している。",
+        "body": "工事費の高騰と資材難、未分譲によって資金繰りが詰まった中小建設会社が、中東戦争の長期化という追加の悪材料に直面している。すでに地方建設会社を中心に廃業が増える中、原価負担と資金調達の難しさが重なり、現場運営の負担も大きくなっている。原文は、工事費が急騰し資材難が続く状況で、中東戦争の長期化が中小建設会社にとってもう一つの荒波になり得ると伝えた。特に未分譲などで流動性が弱まった企業は、相次ぐ悪材料に耐えにくいとの懸念が出ている。廃業増加の中、建設業界内の二極化も深まる雰囲気だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "中小建筑企业危机加深，工程费飙升、材料短缺叠加中东战争压力",
+        "excerpt": "受工程费飙升、材料短缺和未售房影响，中小及地方建筑企业资金吃紧；中东战争长期化又加重压力，停业增加并加剧行业分化。",
+        "body": "受工程费飙升、材料短缺和未售房影响，资金链受阻的中小建筑企业正面临中东战争长期化这一新增利空。以地方建筑企业为中心，停业数量已经增加，而成本负担和融资困难叠加，使施工现场运营压力进一步扩大。原文称，在工程费急剧上升、材料短缺持续的情况下，中东战争长期化可能成为中小建筑企业需要跨越的又一道浪潮。尤其是因未售房等问题导致流动性减弱的企业，可能难以承受接连不断的不利因素。随着停业增加，建筑行业内部的两极分化也呈加深趋势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Constructoras pequeñas bajo más presión por costos, escasez y guerra en Oriente Medio",
+        "excerpt": "Las constructoras pequeñas y regionales, afectadas por el alza de costos, la falta de materiales y viviendas sin vender, enfrentan más cierres y polarización del sector.",
+        "body": "Las pequeñas constructoras con problemas de financiación por el fuerte aumento de los costos de obra, la escasez de materiales y las viviendas sin vender afrontan ahora otro factor adverso: la prolongación de la guerra en Oriente Medio. Los cierres ya aumentan, sobre todo entre empresas regionales, mientras la carga de costos y las dificultades para obtener financiación presionan más la operación de las obras. El texto original señaló que, en un entorno de costos de construcción en alza y escasez persistente de materiales, el conflicto prolongado en Oriente Medio podría convertirse en otra ola difícil para las constructoras pequeñas. Las compañías con liquidez debilitada por unidades sin vender podrían tener problemas para resistir sucesivos golpes. También se profundiza la polarización del sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pequenas construtoras sofrem mais com custos, falta de materiais e guerra no Oriente Médio",
+        "excerpt": "Construtoras pequenas e regionais, pressionadas por alta dos custos, escassez de materiais e imóveis não vendidos, enfrentam mais fechamentos e polarização no setor.",
+        "body": "Pequenas construtoras com o financiamento travado pela disparada dos custos de obra, pela escassez de materiais e por imóveis não vendidos enfrentam agora outro fator negativo: a prolongação da guerra no Oriente Médio. Os fechamentos já aumentam, sobretudo entre construtoras regionais, enquanto o peso dos custos e a dificuldade de obter recursos elevam a pressão sobre as operações nos canteiros. O texto original informou que, em meio ao forte aumento dos custos de construção e à continuidade da falta de materiais, a guerra prolongada no Oriente Médio pode se tornar mais uma onda difícil para as pequenas construtoras. Empresas com liquidez enfraquecida por estoques não vendidos podem ter dificuldade para suportar adversidades sucessivas. A polarização no setor também se aprofunda. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kleine Baufirmen geraten durch Kosten, Materialmangel und Nahostkrieg stärker unter Druck",
+        "excerpt": "Kleine und regionale Baufirmen leiden unter steigenden Baukosten, Materialmangel und unverkauften Wohnungen; der lange Nahostkrieg erhöht den Druck und die Zahl der Schließungen.",
+        "body": "Kleine Bauunternehmen, deren Finanzierung durch stark steigende Baukosten, Materialmangel und unverkaufte Einheiten blockiert ist, stehen vor einem weiteren Belastungsfaktor: der anhaltenden Nahostkrise. Bereits jetzt nehmen Schließungen vor allem bei regionalen Baufirmen zu, während höhere Kosten und schwierige Finanzierung den Betrieb auf den Baustellen zusätzlich erschweren. Der Originalbericht erklärte, dass der langwierige Krieg im Nahen Osten in einer Lage mit stark steigenden Baukosten und anhaltendem Materialmangel zu einer weiteren Welle von Problemen für kleine Baufirmen werden könnte. Besonders Unternehmen mit geschwächter Liquidität wegen unverkaufter Bestände könnten die wiederholten Belastungen nur schwer verkraften. Zugleich vertieft sich die Polarisierung in der Baubranche. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les petites entreprises du bâtiment sous pression face aux coûts, pénuries et guerre au Moyen-Orient",
+        "excerpt": "Les petites entreprises régionales du bâtiment, fragilisées par la hausse des coûts, les pénuries et les invendus, subissent la guerre prolongée au Moyen-Orient et davantage de fermetures.",
+        "body": "Les petites entreprises de construction, dont le financement est freiné par la flambée des coûts de chantier, les pénuries de matériaux et les logements invendus, font face à un nouveau facteur défavorable: la prolongation de la guerre au Moyen-Orient. Les fermetures augmentent déjà, surtout parmi les constructeurs régionaux, tandis que les coûts et les difficultés de financement alourdissent la gestion des chantiers. Le texte original indique que, dans un contexte de forte hausse des coûts de construction et de pénuries persistantes, la guerre prolongée au Moyen-Orient pourrait devenir une nouvelle vague difficile pour ces entreprises. Celles dont la liquidité a été affaiblie par les invendus pourraient peiner à résister à ces revers successifs. La polarisation du secteur s’accentue aussi. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شركات البناء الصغيرة تواجه أزمة أعمق مع ارتفاع التكاليف ونقص المواد وحرب الشرق الأوسط",
+        "excerpt": "شركات البناء الصغيرة والإقليمية، المتضررة من ارتفاع تكاليف البناء ونقص المواد والوحدات غير المباعة، تواجه ضغطا إضافيا مع طول أمد حرب الشرق الأوسط وزيادة الإغلاقات.",
+        "body": "تواجه شركات البناء الصغيرة، التي ضاقت مصادر تمويلها بسبب ارتفاع تكاليف البناء ونقص المواد والوحدات غير المباعة، عاملا سلبيا إضافيا يتمثل في طول أمد الحرب في الشرق الأوسط. وتزداد حالات الإغلاق بالفعل، خصوصا بين شركات البناء الإقليمية، بينما تتفاقم أعباء التشغيل في مواقع العمل مع تداخل ارتفاع التكاليف وصعوبة تأمين التمويل. وذكر النص الأصلي أن استمرار الحرب في الشرق الأوسط، في ظل الارتفاع الحاد لتكاليف البناء وتواصل نقص المواد، قد يشكل موجة أخرى صعبة أمام شركات البناء الصغيرة. وتبرز مخاوف من أن الشركات التي ضعفت سيولتها بسبب الوحدات غير المباعة قد لا تتمكن من تحمل سلسلة العوامل السلبية. كما يتعمق الاستقطاب داخل قطاع البناء وسط زيادة الإغلاقات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "छोटी निर्माण कंपनियों पर गहराया संकट, लागत वृद्धि, सामग्री कमी और मध्यपूर्व युद्ध का दबाव",
+        "excerpt": "निर्माण लागत में तेज बढ़ोतरी, सामग्री की कमी और बिना बिके घरों से जूझ रहीं छोटी व क्षेत्रीय निर्माण कंपनियों पर मध्यपूर्व युद्ध लंबा खिंचने से बंदी और उद्योग विभाजन का दबाव बढ़ा है।",
+        "body": "निर्माण लागत में तेज बढ़ोतरी, सामग्री की कमी और बिना बिके घरों के कारण धन प्रवाह रुकने से परेशान छोटी निर्माण कंपनियां अब मध्यपूर्व युद्ध के लंबे खिंचने जैसी अतिरिक्त प्रतिकूल स्थिति का सामना कर रही हैं। क्षेत्रीय निर्माण कंपनियों में बंदी पहले ही बढ़ रही है, जबकि लागत का बोझ और वित्त जुटाने की कठिनाई मिलकर साइट संचालन पर दबाव बढ़ा रहे हैं। मूल रिपोर्ट के अनुसार, निर्माण लागत तेजी से बढ़ने और सामग्री संकट जारी रहने की स्थिति में मध्यपूर्व युद्ध का लंबा होना छोटी निर्माण कंपनियों के लिए एक और बड़ी लहर बन सकता है। खासकर बिना बिके आवासों आदि से जिन कंपनियों की तरलता कमजोर हुई है, उनके लिए लगातार प्रतिकूल परिस्थितियों को झेलना कठिन हो सकता है। बंदी बढ़ने के बीच निर्माण उद्योग में ध्रुवीकरण भी गहरा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Krisis kontraktor kecil makin dalam akibat biaya, kelangkaan material, dan perang Timur Tengah",
+        "excerpt": "Kontraktor kecil dan daerah yang tertekan oleh lonjakan biaya konstruksi, kelangkaan material, dan unit tak terjual menghadapi tekanan tambahan dari perang Timur Tengah yang berkepanjangan.",
+        "body": "Kontraktor kecil yang aliran dananya tersumbat oleh lonjakan biaya konstruksi, kelangkaan material, dan unit yang belum terjual kini menghadapi faktor negatif tambahan: perang Timur Tengah yang berkepanjangan. Penutupan usaha sudah meningkat, terutama di kalangan kontraktor daerah, sementara beban biaya dan sulitnya memperoleh pendanaan membuat operasi proyek semakin berat. Teks asli menyebutkan bahwa, dalam situasi biaya konstruksi melonjak dan kelangkaan material berlanjut, perang Timur Tengah yang berkepanjangan dapat menjadi gelombang lain yang harus dihadapi kontraktor kecil. Perusahaan dengan likuiditas melemah akibat unit tak terjual dikhawatirkan sulit bertahan dari rangkaian tekanan tersebut. Di tengah peningkatan penutupan usaha, polarisasi dalam industri konstruksi juga makin dalam. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fe91a83e869f",
+    "slug": "특공에-3040-무주택-실수요-몰려e편한세상-부천-어반스퀘어-6일-1순위-청약-303067",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T15:26:38.596Z",
+    "updatedAt": "2026-05-06T15:26:38.596Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037118",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037118",
+    "titleFingerprint": "219b10fcca531eafe5feb8930b7c46ab7f72bd9d",
+    "dedupKeys": [
+      "fe91a83e869f9e9615b07fdf38031960df36b1eb",
+      "219b10fcca531eafe5feb8930b7c46ab7f72bd9d",
+      "bd8523828a707a5db78e6917355a05fda4fa5c55"
+    ],
+    "imageUrl": "/images/articles/fe91a83e869f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "e편한세상 부천 어반스퀘어 6일 1순위 청약, 특공에 3040 실수요 집중",
+        "excerpt": "DL이앤씨가 경기 부천시 원미구에서 공급한 e편한세상 부천 어반스퀘어가 6일 1순위 청약을 진행하며, 특별공급에는 495가구 모집에 628건이 접수됐다.",
+        "body": "DL이앤씨가 경기 부천시 원미구 일원에서 공급한 ‘e편한세상 부천 어반스퀘어’가 6일 1순위 청약에 들어간다. 앞서 진행된 특별공급에서는 495가구 모집에 628건이 접수되며 3040 무주택 실수요자의 관심이 확인됐다. 유형별로는 생애최초 특별공급이 5.16대 1의 경쟁률을 기록했다. 단지는 2중 역세권 입지와 비규제 단지라는 점이 청약 수요의 주요 배경으로 거론된다. 특별공급 접수 결과가 1순위 청약 분위기로 이어질지 시장의 관심이 모인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "e Pyeonhansesang Bucheon Urban Square Opens First-Round Subscriptions on May 6",
+        "excerpt": "DL E&C’s e Pyeonhansesang Bucheon Urban Square in Wonmi-gu, Bucheon, begins first-priority subscriptions on May 6 after 628 applications for 495 special-supply homes.",
+        "body": "DL E&C’s ‘e Pyeonhansesang Bucheon Urban Square,’ supplied in the Wonmi-gu area of Bucheon, Gyeonggi Province, begins first-priority subscriptions on May 6. In the earlier special-supply round, 628 applications were submitted for 495 homes, showing interest from homeless end-user buyers in their 30s and 40s. By category, the first-home special supply recorded a competition ratio of 5.16 to 1. The project’s dual-station-area location and status as a non-regulated complex are cited as key factors behind demand. Market attention is now on whether the special-supply result will carry into the first-priority round. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "eピョナンセサン富川アーバンスクエア、6日に1順位申込開始",
+        "excerpt": "DL E&Cが京畿道富川市遠美区で供給するeピョナンセサン富川アーバンスクエアは6日に1順位申込を実施し、特別供給495戸に628件が集まった。",
+        "body": "DL E&Cが京畿道富川市遠美区一帯で供給した「eピョナンセサン富川アーバンスクエア」が6日、1順位申込に入る。先に行われた特別供給では、495戸の募集に628件が受け付けられ、30代・40代の無住宅実需層の関心が確認された。類型別では生涯初の特別供給が5.16倍の競争率を記録した。同団地は二重駅勢圏の立地と非規制団地である点が、申込需要の主な背景として挙げられる。特別供給の受付結果が1順位申込の雰囲気につながるか、市場の関心が集まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "e편한세상富川Urban Square 6日启动第一顺位认购",
+        "excerpt": "DL E&C在京畿道富川市远美区供应的e편한세상富川Urban Square将于6日进行第一顺位认购，特别供应495户收到628份申请。",
+        "body": "DL E&C在京畿道富川市远美区一带供应的“e편한세상富川Urban Square”将于6日进入第一顺位认购。此前进行的特别供应中，495户募集共收到628份申请，显示出30至40多岁无房刚需人群的关注。按类型看，首次置业特别供应的竞争率达到5.16比1。该项目被提及的主要认购需求背景，是双重车站生活圈区位以及非管制楼盘属性。特别供应申请结果是否会延续至第一顺位认购，正受到市场关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "e Pyeonhansesang Bucheon Urban Square abre suscripción prioritaria el día 6",
+        "excerpt": "DL E&C inicia el día 6 la suscripción de primera prioridad de e Pyeonhansesang Bucheon Urban Square en Wonmi-gu, Bucheon, tras recibir 628 solicitudes para 495 viviendas especiales.",
+        "body": "DL E&C iniciará el día 6 la suscripción de primera prioridad para ‘e Pyeonhansesang Bucheon Urban Square’, suministrado en la zona de Wonmi-gu, ciudad de Bucheon, provincia de Gyeonggi. En la oferta especial realizada previamente, se recibieron 628 solicitudes para 495 viviendas, confirmando el interés de compradores finales sin vivienda en sus 30 y 40 años. Por tipo, la oferta especial para primera vivienda registró una competencia de 5,16 a 1. La ubicación con acceso a dos estaciones y su condición de complejo no regulado se citan como factores clave de la demanda. El mercado observa si este resultado se trasladará a la primera prioridad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "e Pyeonhansesang Bucheon Urban Square abre 1ª prioridade no dia 6",
+        "excerpt": "A DL E&C realiza no dia 6 a subscrição de primeira prioridade do e Pyeonhansesang Bucheon Urban Square, em Wonmi-gu, Bucheon, após 628 pedidos para 495 unidades especiais.",
+        "body": "A DL E&C inicia no dia 6 a subscrição de primeira prioridade do ‘e Pyeonhansesang Bucheon Urban Square’, fornecido na região de Wonmi-gu, cidade de Bucheon, província de Gyeonggi. Na oferta especial realizada anteriormente, 628 pedidos foram recebidos para 495 unidades, mostrando o interesse de compradores finais sem moradia própria na faixa dos 30 e 40 anos. Por categoria, a oferta especial para primeira aquisição registrou concorrência de 5,16 para 1. A localização com acesso a duas estações e o fato de ser um complexo não regulado são apontados como fatores relevantes da demanda. A atenção do mercado se volta para a continuidade desse resultado na primeira prioridade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "e Pyeonhansesang Bucheon Urban Square startet Erstrang-Zeichnung am 6.",
+        "excerpt": "DL E&C startet am 6. die Erstrang-Zeichnung für e Pyeonhansesang Bucheon Urban Square in Wonmi-gu, Bucheon, nachdem für 495 Sonderkontingent-Wohnungen 628 Anträge eingingen.",
+        "body": "DL E&C startet am 6. die Erstrang-Zeichnung für ‘e Pyeonhansesang Bucheon Urban Square’ im Gebiet Wonmi-gu der Stadt Bucheon in der Provinz Gyeonggi. In der zuvor durchgeführten Sonderzuteilung gingen für 495 Wohnungen 628 Anträge ein, was das Interesse wohnungsloser Eigennutzer in ihren 30ern und 40ern zeigt. Nach Kategorie verzeichnete die Sonderzuteilung für Erstkäufer eine Quote von 5,16 zu 1. Als wichtige Nachfragefaktoren gelten die Lage mit Zugang zu zwei Bahnhofsbereichen und der Status als nicht regulierte Anlage. Der Markt beobachtet, ob das Ergebnis der Sonderzuteilung auf die Erstrang-Zeichnung übergeht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "e Pyeonhansesang Bucheon Urban Square lance la priorité 1 le 6",
+        "excerpt": "DL E&C ouvre le 6 la souscription de priorité 1 pour e Pyeonhansesang Bucheon Urban Square à Wonmi-gu, Bucheon, après 628 demandes pour 495 logements en offre spéciale.",
+        "body": "DL E&C lance le 6 la souscription de priorité 1 pour ‘e Pyeonhansesang Bucheon Urban Square’, proposé dans le secteur de Wonmi-gu à Bucheon, dans la province de Gyeonggi. Lors de l’offre spéciale précédente, 628 demandes ont été reçues pour 495 logements, confirmant l’intérêt des acheteurs utilisateurs sans logement dans la trentaine et la quarantaine. Par catégorie, l’offre spéciale destinée aux primo-accédants a enregistré un ratio de 5,16 contre 1. La localisation desservie par deux zones de gares et le statut de complexe non réglementé sont cités comme principaux facteurs de demande. Le marché observe si ce résultat se prolongera dans la souscription de priorité 1. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "e Pyeonhansesang Bucheon Urban Square يبدأ اكتتاب الأولوية الأولى في 6 مايو",
+        "excerpt": "تبدأ DL E&C في 6 مايو اكتتاب الأولوية الأولى لمشروع e Pyeonhansesang Bucheon Urban Square في وونمي غو بمدينة بوتشون، بعد تلقي 628 طلبا على 495 وحدة ضمن العرض الخاص.",
+        "body": "تبدأ DL E&C في 6 مايو اكتتاب الأولوية الأولى لمشروع ‘e Pyeonhansesang Bucheon Urban Square’ المطروح في منطقة وونمي غو بمدينة بوتشون في مقاطعة غيونغي. وفي العرض الخاص السابق، تم تلقي 628 طلبا على 495 وحدة، ما أظهر اهتمام المشترين الفعليين بلا مساكن، وخصوصا في الثلاثينيات والأربعينيات. وبحسب الفئة، سجل عرض شراء المسكن الأول منافسة بلغت 5.16 إلى 1. ويشار إلى موقع المشروع ضمن نطاق محطتين وكونه مجمعا غير خاضع للتنظيم كعاملين رئيسيين وراء الطلب. وتتركز أنظار السوق على ما إذا كانت نتائج العرض الخاص ستنعكس على اكتتاب الأولوية الأولى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "e Pyeonhansesang Bucheon Urban Square में 6 मई को प्रथम प्राथमिकता आवेदन",
+        "excerpt": "DL E&C का e Pyeonhansesang Bucheon Urban Square, बुछन के Wonmi-gu में, 6 मई को प्रथम प्राथमिकता आवेदन शुरू करेगा; विशेष आपूर्ति की 495 इकाइयों पर 628 आवेदन मिले।",
+        "body": "DL E&C द्वारा ग्योंगगी प्रांत के बुछन शहर के Wonmi-gu क्षेत्र में आपूर्ति किया गया ‘e Pyeonhansesang Bucheon Urban Square’ 6 मई को प्रथम प्राथमिकता आवेदन में प्रवेश करेगा। इससे पहले हुई विशेष आपूर्ति में 495 इकाइयों के लिए 628 आवेदन मिले, जिससे 30 और 40 की उम्र वाले बिना घर के वास्तविक खरीदारों की रुचि दिखाई दी। श्रेणी के अनुसार, पहली बार घर खरीदने वालों की विशेष आपूर्ति में 5.16:1 की प्रतिस्पर्धा दर्ज हुई। दोहरे स्टेशन क्षेत्र की स्थिति और गैर-नियामित परिसर होना आवेदन मांग की प्रमुख पृष्ठभूमि माने जा रहे हैं। बाजार की नजर इस पर है कि विशेष आपूर्ति का परिणाम प्रथम प्राथमिकता आवेदन में जारी रहता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "e Pyeonhansesang Bucheon Urban Square Buka Prioritas Pertama pada 6 Mei",
+        "excerpt": "DL E&C akan membuka pendaftaran prioritas pertama e Pyeonhansesang Bucheon Urban Square di Wonmi-gu, Bucheon, pada 6 Mei setelah 628 aplikasi masuk untuk 495 unit pasokan khusus.",
+        "body": "DL E&C akan memulai pendaftaran prioritas pertama untuk ‘e Pyeonhansesang Bucheon Urban Square’ yang dipasok di wilayah Wonmi-gu, Kota Bucheon, Provinsi Gyeonggi, pada 6 Mei. Dalam pasokan khusus sebelumnya, 628 aplikasi diterima untuk 495 unit, menunjukkan minat pembeli pengguna akhir tanpa rumah, terutama usia 30-an dan 40-an. Berdasarkan kategori, pasokan khusus untuk pembeli rumah pertama mencatat rasio persaingan 5,16 banding 1. Lokasi dengan akses ke dua area stasiun serta status sebagai kompleks non-regulasi disebut sebagai faktor utama permintaan. Pasar memperhatikan apakah hasil pasokan khusus ini akan berlanjut ke pendaftaran prioritas pertama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ccd6c8e460c7",
+    "slug": "신규-계약-17-감소한-서울갱신권-앞세워-집-지키기-들어간-수도권-아파트-세입자들-968672",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T15:25:36.192Z",
+    "updatedAt": "2026-05-06T15:25:36.192Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037172",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037172",
+    "titleFingerprint": "77e62f3fb7caa2a2e8a3a72c611e6efa267e52a1",
+    "dedupKeys": [
+      "ccd6c8e460c7cefa58d082baf3ec4684a46f48b8",
+      "77e62f3fb7caa2a2e8a3a72c611e6efa267e52a1",
+      "ae0477b2c40160bf4d1cf03f59b9f0f1a7b5fa7b"
+    ],
+    "imageUrl": "/images/articles/ccd6c8e460c7.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 신규 전월세 계약 17% 감소…수도권 세입자 갱신권으로 ‘집 지키기’ 확산",
+        "excerpt": "6일 집품이 국토교통부 실거래가 자료를 분석한 결과, 올해 1분기 수도권 전월세 시장에서 공급 불안이 커지며 신규 계약은 줄고 갱신 계약 비중은 늘었다.",
+        "body": "서울 아파트 전월세 시장에서 신규 계약이 17% 감소한 가운데 수도권 세입자들이 계약갱신청구권을 활용해 기존 주거지를 유지하는 흐름이 강해진 것으로 나타났다. 6일 부동산 정보 앱 집품이 국토교통부 실거래가 자료를 분석한 결과, 올해 1분기 수도권 전월세 시장에서는 공급 불안이 심화하며 갱신 계약 비중이 늘었다. 특히 서울에서 신규 계약 감소가 두드러지면서 세입자들이 새 집을 찾기보다 기존 계약을 연장하는 선택을 하는 모습이다. 전월세 공급이 불안정한 상황이 이어질 경우 수도권 임차 시장에서 갱신 중심 흐름은 당분간 주목될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul New Rental Contracts Drop 17% as Metro Tenants Use Renewal Rights to Stay Put",
+        "excerpt": "According to Jippoom’s May 6 analysis of MOLIT transaction data, supply concerns in the capital-area rental market pushed up the share of renewed leases in Q1.",
+        "body": "New apartment jeonse and monthly rent contracts in Seoul fell 17%, while tenants across the capital region increasingly used renewal rights to remain in their current homes. Real estate information app Jippoom said on May 6 that its analysis of Ministry of Land, Infrastructure and Transport transaction data showed a higher share of renewal contracts in the capital-area rental market in the first quarter of this year as supply instability deepened. The decline in new contracts was especially notable in Seoul, indicating tenants were choosing to extend existing leases rather than look for new homes. If rental supply remains unstable, renewal-centered leasing in the metropolitan market is expected to stay in focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル新規賃貸契約17％減、首都圏借家人は更新権で住まい維持へ",
+        "excerpt": "不動産情報アプリのチップムが6日、国土交通部の実取引価格資料を分析した結果、今年1～3月の首都圏賃貸市場で供給不安により更新契約の比率が上昇した。",
+        "body": "ソウルのマンション賃貸市場で新規契約が17％減少するなか、首都圏の借家人が契約更新請求権を使って現在の住まいを維持する動きが強まっている。6日、不動産情報アプリのチップムが国土交通部の実取引価格資料を分析したところ、今年1～3月の首都圏のチョンセ・月払い家賃市場では供給不安が深まり、更新契約の比率が高まった。特にソウルでは新規契約の減少が目立ち、借家人が新たな住宅を探すより既存契約を延長する選択をしている様子がうかがえる。賃貸供給の不安定さが続けば、首都圏の賃貸市場では更新中心の流れが当面注目される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔新租赁合同减少17%，首都圈租户借续约权保住房源",
+        "excerpt": "房地产信息应用Jippoom于6日分析韩国国土交通部实际成交资料显示，今年一季度首都圈租赁市场供给不安加深，续约合同占比上升。",
+        "body": "首尔公寓全租和月租市场的新签合同减少17%，首都圈租户利用合同续约请求权维持现有居住地的趋势增强。6日，房地产信息应用Jippoom分析韩国国土交通部实际成交价资料后表示，今年一季度首都圈全租、月租市场供给不安加深，续约合同占比有所上升。尤其在首尔，新签合同减少更为明显，显示租户相比寻找新住房，更倾向于延长既有合同。若租赁供给不稳定局面持续，首都圈租赁市场以续约为中心的 흐름预计仍将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl registra 17% menos contratos nuevos y los inquilinos renuevan para conservar vivienda",
+        "excerpt": "Según Jippoom, que analizó el 6 de mayo datos de transacciones del Ministerio de Tierra, la inestabilidad de oferta elevó la proporción de renovaciones en el área metropolitana en el primer trimestre.",
+        "body": "En el mercado de alquiler de apartamentos de Seúl, los nuevos contratos de jeonse y renta mensual cayeron 17%, mientras más inquilinos del área metropolitana recurren al derecho de renovación para permanecer en sus viviendas actuales. La aplicación inmobiliaria Jippoom informó el 6 de mayo que, tras analizar datos de precios reales de transacciones del Ministerio de Tierra, Infraestructura y Transporte, la proporción de contratos renovados aumentó en el primer trimestre de este año por la creciente inestabilidad de la oferta. La baja de nuevos contratos fue especialmente marcada en Seúl, lo que muestra que los inquilinos optan por extender acuerdos existentes antes que buscar otra vivienda. Si la oferta sigue inestable, el mercado de alquiler metropolitano seguirá atento a esta tendencia. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seul tem queda de 17% em novos aluguéis e inquilinos renovam para manter moradia",
+        "excerpt": "Segundo análise da Jippoom divulgada em 6 de maio com dados do Ministério da Terra, a instabilidade de oferta elevou a fatia de renovações no mercado de aluguel da região metropolitana no 1º trimestre.",
+        "body": "No mercado de jeonse e aluguel mensal de apartamentos em Seul, os novos contratos caíram 17%, enquanto inquilinos da região metropolitana passaram a usar mais o direito de renovação para permanecer nas moradias atuais. A plataforma imobiliária Jippoom informou em 6 de maio que, ao analisar dados de transações reais do Ministério da Terra, Infraestrutura e Transportes, identificou aumento da proporção de contratos renovados no primeiro trimestre deste ano, em meio à piora da instabilidade de oferta. A queda foi particularmente evidente em Seul, mostrando que os locatários preferem estender contratos existentes a procurar novas casas. Se a oferta de aluguel continuar instável, essa tendência de renovação deve seguir em destaque. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul: Neue Mietverträge sinken um 17%, Mieter sichern Wohnungen per Verlängerung",
+        "excerpt": "Jippoom analysierte am 6. Mai Transaktionsdaten des Verkehrs- und Bauministeriums: Im ersten Quartal stieg im Großraum Seoul wegen Angebotsunsicherheit der Anteil verlängerter Mietverträge.",
+        "body": "Auf dem Wohnungsmarkt für Jeonse- und Monatsmieten in Seoul gingen neue Mietverträge um 17% zurück, während Mieter im Großraum Seoul häufiger ihr Verlängerungsrecht nutzten, um in ihren bisherigen Wohnungen zu bleiben. Die Immobilien-App Jippoom teilte am 6. Mai mit, eine Analyse realer Transaktionsdaten des Ministeriums für Land, Infrastruktur und Verkehr zeige für das erste Quartal dieses Jahres einen höheren Anteil von Vertragsverlängerungen im Mietmarkt der Hauptstadtregion, da sich die Unsicherheit beim Angebot verschärft habe. Besonders in Seoul fiel der Rückgang neuer Verträge auf. Das deutet darauf hin, dass Mieter bestehende Verträge verlängern, statt neue Wohnungen zu suchen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul: les nouveaux baux chutent de 17%, les locataires misent sur le renouvellement",
+        "excerpt": "Selon Jippoom, qui a analysé le 6 mai les données de transactions du ministère du Territoire, l’instabilité de l’offre a accru la part des renouvellements dans la région capitale au 1er trimestre.",
+        "body": "Sur le marché des appartements en jeonse et loyers mensuels à Séoul, les nouveaux contrats ont reculé de 17%, tandis que les locataires de la région capitale utilisent davantage leur droit au renouvellement pour conserver leur logement. L’application immobilière Jippoom a indiqué le 6 mai que son analyse des données de transactions réelles du ministère du Territoire, des Infrastructures et des Transports montrait une hausse de la part des baux renouvelés au premier trimestre de cette année, sur fond d’instabilité accrue de l’offre. La baisse des nouveaux contrats est particulièrement visible à Séoul, signe que les locataires préfèrent prolonger leur bail existant plutôt que chercher un nouveau logement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "انخفاض عقود الإيجار الجديدة في سيول 17% والمستأجرون يتمسكون بالتجديد",
+        "excerpt": "أظهر تحليل تطبيق Jippoom في 6 مايو لبيانات الصفقات الفعلية بوزارة الأراضي أن اضطراب المعروض في سوق الإيجار بمنطقة العاصمة رفع حصة عقود التجديد في الربع الأول.",
+        "body": "تراجعت عقود الجونسي والإيجار الشهري الجديدة للشقق في سيول بنسبة 17%، في حين اتجه مستأجرو منطقة العاصمة بشكل أكبر إلى استخدام حق طلب تجديد العقد للبقاء في مساكنهم الحالية. وقال تطبيق المعلومات العقارية Jippoom في 6 مايو إن تحليله لبيانات الأسعار الفعلية للصفقات الصادرة عن وزارة الأراضي والبنية التحتية والنقل أظهر ارتفاع حصة عقود التجديد في سوق الجونسي والإيجار الشهري بمنطقة العاصمة خلال الربع الأول من هذا العام، مع تعمق اضطراب المعروض. وكان انخفاض العقود الجديدة لافتا خصوصا في سيول، ما يشير إلى أن المستأجرين يفضلون تمديد العقود القائمة بدلا من البحث عن مساكن جديدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल में नए किराया अनुबंध 17% घटे, राजधानी क्षेत्र के किरायेदार नवीनीकरण से घर बचा रहे",
+        "excerpt": "Jippoom ने 6 मई को भूमि मंत्रालय के वास्तविक लेनदेन आंकड़ों के विश्लेषण में बताया कि इस वर्ष पहली तिमाही में राजधानी क्षेत्र के किराया बाजार में आपूर्ति अस्थिरता से नवीनीकरण अनुबंधों की हिस्सेदारी बढ़ी।",
+        "body": "सियोल के अपार्टमेंट jeonse और मासिक किराया बाजार में नए अनुबंध 17% घटे, जबकि राजधानी क्षेत्र के किरायेदार अपने मौजूदा घरों में बने रहने के लिए अनुबंध नवीनीकरण अधिकार का अधिक उपयोग कर रहे हैं। रियल एस्टेट सूचना ऐप Jippoom ने 6 मई को कहा कि भूमि, अवसंरचना और परिवहन मंत्रालय के वास्तविक लेनदेन मूल्य आंकड़ों के उसके विश्लेषण के अनुसार, इस वर्ष पहली तिमाही में राजधानी क्षेत्र के jeonse और मासिक किराया बाजार में आपूर्ति अस्थिरता गहराने से नवीनीकरण अनुबंधों की हिस्सेदारी बढ़ी। सियोल में नए अनुबंधों की गिरावट विशेष रूप से स्पष्ट रही, जिससे दिखता है कि किरायेदार नया घर खोजने के बजाय मौजूदा अनुबंध बढ़ा रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kontrak Sewa Baru Seoul Turun 17%, Penyewa Metro Pilih Perpanjangan untuk Bertahan",
+        "excerpt": "Analisis Jippoom pada 6 Mei atas data transaksi Kementerian Pertanahan menunjukkan ketidakstabilan pasokan pasar sewa wilayah metropolitan pada kuartal I menaikkan porsi kontrak perpanjangan.",
+        "body": "Di pasar jeonse dan sewa bulanan apartemen Seoul, kontrak baru turun 17%, sementara penyewa di wilayah metropolitan makin banyak memakai hak perpanjangan kontrak untuk tetap tinggal di hunian saat ini. Aplikasi informasi properti Jippoom pada 6 Mei menyatakan bahwa hasil analisis atas data harga transaksi aktual Kementerian Pertanahan, Infrastruktur, dan Transportasi menunjukkan porsi kontrak perpanjangan meningkat pada kuartal pertama tahun ini karena ketidakstabilan pasokan di pasar jeonse dan sewa bulanan wilayah metropolitan memburuk. Penurunan kontrak baru terutama menonjol di Seoul, memperlihatkan penyewa memilih memperpanjang kontrak yang ada daripada mencari rumah baru. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ae05c5e5a720",
     "slug": "평형-구조-넘어-마감재까지-차별화하는-신축-아파트-978497",
     "channelId": "REALESTATE",
