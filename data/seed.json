@@ -1,5 +1,230 @@
 [
   {
+    "id": "bd35bb055b41",
+    "slug": "경기인데-지역번호-02-자격있네집값-상승률-1위-찍은-이-동네-531554",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T16:53:48.303Z",
+    "updatedAt": "2026-05-06T16:53:48.303Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036184",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036184",
+    "titleFingerprint": "c6fc76181dc052328fdec968236314a3dad737e2",
+    "dedupKeys": [
+      "bd35bb055b41b5bcde9a3642a906e1f675a04f6e",
+      "c6fc76181dc052328fdec968236314a3dad737e2",
+      "07591cc9d94d1b6c5507a55b1b649092f503a692"
+    ],
+    "imageUrl": "/images/articles/bd35bb055b41.jpg",
+    "i18n": {
+      "ko": {
+        "title": "광명 아파트값 0.31% 상승, 4월 넷째 주 수도권 상승률 1위",
+        "excerpt": "4월 넷째 주 수도권 주간 아파트값 상승률에서 경기 광명시가 0.31%로 가장 높았다. 전주 0.34%보다 낮아졌지만 수도권 내 상승세는 여전히 두드러졌다.",
+        "body": "4월 넷째 주 수도권에서 주간 아파트 가격 상승률이 가장 높았던 지역은 경기 광명시로 집계됐다. 광명시 아파트값은 해당 주 0.31% 올라 수도권 주요 지역 가운데 1위를 기록했다. 전주 상승률 0.34%와 비교하면 오름폭은 소폭 둔화됐지만, 수도권 내에서는 가장 높은 상승률을 유지했다. 이번 수치는 광명 아파트 시장이 단기적으로 강한 가격 흐름을 보였음을 보여준다. 다만 상승률이 전주보다 낮아진 만큼 향후 흐름은 추가 지표를 통해 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gwangmyeong Apartment Prices Rise 0.31%, Leading Seoul Metro Gains",
+        "excerpt": "In the fourth week of April, Gwangmyeong in Gyeonggi posted the highest weekly apartment price gain in the Seoul metropolitan area at 0.31%, slightly below the previous week’s 0.34%.",
+        "body": "In the fourth week of April, Gwangmyeong in Gyeonggi Province recorded the highest weekly apartment price increase among areas in the Seoul metropolitan region. Apartment prices in Gwangmyeong rose 0.31% during the week, placing the city first among metropolitan-area markets. The pace was slightly lower than the previous week’s 0.34%, but it still remained the highest growth rate in the region. The figure shows that Gwangmyeong’s apartment market maintained a relatively strong short-term price trend. However, because the rate eased from the prior week, future movement will need to be checked through additional data. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "光明市マンション価格0.31%上昇、4月第4週首都圏で首位",
+        "excerpt": "4月第4週の首都圏週間マンション価格上昇率で、京畿道光明市が0.31%と最も高かった。前週の0.34%より小幅に低下したが首位を維持した。",
+        "body": "4月第4週、首都圏で週間マンション価格の上昇率が最も高かった地域は京畿道光明市だった。光明市のマンション価格は同週に0.31%上昇し、首都圏の主要地域の中で1位を記録した。前週の上昇率0.34%と比べると伸びは小幅に鈍化したが、首都圏内では最も高い上昇率を維持した。この数値は、光明市のマンション市場が短期的に強い価格の流れを示したことを表している。ただし上昇率が前週より低下したため、今後の動きは追加指標で確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "光明公寓价格上涨0.31%，4月第四周领涨首都圈",
+        "excerpt": "4月第四周，京畿道光明市在首都圈周度公寓价格涨幅中以0.31%居首。虽低于前一周的0.34%，但仍是首都圈最高涨幅。",
+        "body": "4月第四周，首都圈周度公寓价格涨幅最高的地区是京畿道光明市。该周光明市公寓价格上涨0.31%，在首都圈主要地区中排名第一。与前一周0.34%的涨幅相比，升幅略有回落，但仍保持首都圈内最高上涨率。这一数据表明，光明公寓市场在短期内呈现较强的价格走势。不过，由于涨幅较前一周有所下降，后续走势仍需通过更多指标确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Gwangmyeong sube 0,31% y lidera el alza de apartamentos metropolitanos",
+        "excerpt": "En la cuarta semana de abril, Gwangmyeong, en Gyeonggi, registró el mayor aumento semanal de precios de apartamentos del área metropolitana, con 0,31%, bajo el 0,34% previo.",
+        "body": "En la cuarta semana de abril, la ciudad de Gwangmyeong, en la provincia de Gyeonggi, registró el mayor aumento semanal de precios de apartamentos entre las zonas del área metropolitana de Seúl. Los precios de los apartamentos en Gwangmyeong subieron un 0,31% esa semana, ubicando a la ciudad en el primer lugar regional. Frente al 0,34% de la semana anterior, el ritmo de alza se moderó levemente, pero siguió siendo el más alto del área metropolitana. El dato muestra que el mercado de apartamentos de Gwangmyeong mantuvo una tendencia de precios fuerte en el corto plazo. Como el aumento fue menor que el previo, la evolución futura deberá confirmarse con nuevos indicadores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Gwangmyeong sobe 0,31% e lidera alta de apartamentos na região metropolitana",
+        "excerpt": "Na quarta semana de abril, Gwangmyeong, em Gyeonggi, teve a maior alta semanal de apartamentos da região metropolitana, com 0,31%, abaixo dos 0,34% da semana anterior.",
+        "body": "Na quarta semana de abril, Gwangmyeong, na província de Gyeonggi, registrou a maior alta semanal nos preços de apartamentos entre as áreas da região metropolitana de Seul. Os preços dos apartamentos em Gwangmyeong subiram 0,31% na semana, colocando a cidade em primeiro lugar na região. Em comparação com os 0,34% da semana anterior, o ritmo de alta recuou ligeiramente, mas ainda foi o maior da área metropolitana. O dado mostra que o mercado de apartamentos de Gwangmyeong manteve uma forte tendência de preços no curto prazo. Como a taxa caiu ante a semana anterior, os próximos movimentos precisarão ser confirmados por indicadores adicionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gwangmyeong-Wohnungen steigen 0,31% und führen Metropolregion an",
+        "excerpt": "In der vierten Aprilwoche verzeichnete Gwangmyeong in Gyeonggi mit 0,31% den höchsten wöchentlichen Anstieg der Wohnungspreise im Großraum Seoul, nach 0,34% zuvor.",
+        "body": "In der vierten Aprilwoche verzeichnete Gwangmyeong in der Provinz Gyeonggi den höchsten wöchentlichen Anstieg der Wohnungspreise unter den Gebieten im Großraum Seoul. Die Apartmentpreise in Gwangmyeong stiegen in dieser Woche um 0,31% und lagen damit regional an erster Stelle. Gegenüber 0,34% in der Vorwoche schwächte sich der Anstieg leicht ab, blieb aber der höchste Wert im Großraum. Die Zahl zeigt, dass der Apartmentmarkt in Gwangmyeong kurzfristig eine starke Preisentwicklung aufwies. Da die Rate jedoch niedriger war als in der Vorwoche, müssen weitere Indikatoren die künftige Entwicklung bestätigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Gwangmyeong gagne 0,31% et mène la hausse des appartements métropolitains",
+        "excerpt": "Lors de la quatrième semaine d’avril, Gwangmyeong, dans le Gyeonggi, a affiché la plus forte hausse hebdomadaire des prix d’appartements de la région métropolitaine, à 0,31%.",
+        "body": "Lors de la quatrième semaine d’avril, la ville de Gwangmyeong, dans la province de Gyeonggi, a enregistré la plus forte hausse hebdomadaire des prix des appartements parmi les zones de la région métropolitaine de Séoul. Les prix des appartements à Gwangmyeong ont augmenté de 0,31% sur la semaine, plaçant la ville au premier rang régional. Par rapport aux 0,34% de la semaine précédente, le rythme a légèrement ralenti, mais il est resté le plus élevé de la région métropolitaine. Ce chiffre montre que le marché des appartements de Gwangmyeong a conservé une tendance de prix solide à court terme. Comme le taux a reculé, l’évolution future devra être confirmée par d’autres indicateurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "غوانغميونغ ترتفع 0.31% وتتصدر مكاسب أسعار الشقق في منطقة سول",
+        "excerpt": "في الأسبوع الرابع من أبريل، سجلت غوانغميونغ في مقاطعة غيونغي أعلى ارتفاع أسبوعي لأسعار الشقق في منطقة سول الكبرى عند 0.31%، بعد 0.34% في الأسبوع السابق.",
+        "body": "في الأسبوع الرابع من أبريل، كانت مدينة غوانغميونغ في مقاطعة غيونغي المنطقة التي سجلت أعلى معدل ارتفاع أسبوعي في أسعار الشقق داخل منطقة سول الكبرى. وارتفعت أسعار الشقق في غوانغميونغ بنسبة 0.31% خلال ذلك الأسبوع، لتحتل المركز الأول بين المناطق الرئيسية في العاصمة الكبرى. وبالمقارنة مع ارتفاع الأسبوع السابق البالغ 0.34%، تباطأ معدل الزيادة قليلا، لكنه ظل الأعلى في المنطقة. ويظهر هذا الرقم أن سوق الشقق في غوانغميونغ حافظ على اتجاه سعري قوي على المدى القصير. ومع تراجع المعدل عن الأسبوع السابق، ستكون هناك حاجة إلى مؤشرات إضافية لمتابعة الاتجاه المقبل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्वांगम्योंग अपार्टमेंट 0.31% चढ़े, महानगरीय क्षेत्र में सबसे आगे",
+        "excerpt": "अप्रैल के चौथे सप्ताह में ग्योंगगी के ग्वांगम्योंग ने सियोल महानगरीय क्षेत्र में साप्ताहिक अपार्टमेंट कीमत वृद्धि में 0.31% के साथ पहला स्थान हासिल किया।",
+        "body": "अप्रैल के चौथे सप्ताह में सियोल महानगरीय क्षेत्र में साप्ताहिक अपार्टमेंट कीमतों की वृद्धि दर सबसे अधिक ग्योंगगी प्रांत के ग्वांगम्योंग शहर में रही। उस सप्ताह ग्वांगम्योंग में अपार्टमेंट कीमतें 0.31% बढ़ीं और यह क्षेत्रीय प्रमुख बाजारों में पहले स्थान पर रहा। पिछले सप्ताह की 0.34% वृद्धि की तुलना में बढ़त थोड़ी कम हुई, फिर भी यह महानगरीय क्षेत्र में सबसे ऊंची दर रही। यह आंकड़ा दिखाता है कि ग्वांगम्योंग का अपार्टमेंट बाजार अल्प अवधि में मजबूत कीमत रुझान बनाए हुए था। हालांकि वृद्धि दर पिछले सप्ताह से कम हुई है, इसलिए आगे की दिशा को अतिरिक्त आंकड़ों से 확인 करना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Apartemen Gwangmyeong Naik 0,31%, Tertinggi di Wilayah Metropolitan Seoul",
+        "excerpt": "Pada pekan keempat April, Gwangmyeong di Gyeonggi mencatat kenaikan harga apartemen mingguan tertinggi di wilayah metropolitan Seoul sebesar 0,31%, turun dari 0,34% sebelumnya.",
+        "body": "Pada pekan keempat April, wilayah dengan kenaikan harga apartemen mingguan tertinggi di kawasan metropolitan Seoul adalah Kota Gwangmyeong di Provinsi Gyeonggi. Harga apartemen di Gwangmyeong naik 0,31% pada pekan tersebut, menempatkannya di posisi pertama di antara wilayah utama metropolitan. Dibandingkan kenaikan 0,34% pada pekan sebelumnya, lajunya sedikit melambat, tetapi tetap menjadi yang tertinggi di kawasan itu. Angka ini menunjukkan pasar apartemen Gwangmyeong mempertahankan tren harga yang kuat dalam jangka pendek. Namun, karena tingkat kenaikan turun dari pekan sebelumnya, arah berikutnya perlu dikonfirmasi melalui indikator tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a02eb8a082f4",
+    "slug": "집주인들-자기-집으로-소환한-규제주택거래-급감집값-급등-현실되나-812515",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T16:52:51.649Z",
+    "updatedAt": "2026-05-06T16:52:51.649Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12036193",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12036193",
+    "titleFingerprint": "7b42a1f5e046c8c0feb8b116b4d08a89d6096563",
+    "dedupKeys": [
+      "a02eb8a082f4a50fb9fad10a1b1f9e8cfd564148",
+      "7b42a1f5e046c8c0feb8b116b4d08a89d6096563",
+      "78118d0e62b4a6e7cbd6c0bdf5790eea093ca6ef"
+    ],
+    "imageUrl": "/images/articles/a02eb8a082f4.png",
+    "i18n": {
+      "ko": {
+        "title": "장기보유특별공제 폐지 법안 재발의, 주택거래 급감 우려 커진다",
+        "excerpt": "장기보유특별공제 폐지 관련 법안이 다시 발의되며 3년 이상 보유 부동산에 적용되는 세제 혜택 변화와 주택거래 위축, 집값 영향 가능성이 주목된다.",
+        "body": "장기보유특별공제, 이른바 장특공 폐지 관련 법안이 또다시 발의됐다. 장특공은 3년 이상 보유한 부동산에 대해 적용되는 제도로, 보유 기간이 긴 주택 소유자의 양도세 부담과 연결된다. 원문에 따르면 법안이 통과될 경우 개정은 세 가지 방향에서 이뤄질 수 있다. 이번 논의는 집주인들이 보유 주택을 계속 유지할지, 매도에 나설지 판단하는 데 영향을 줄 수 있는 세제 변화라는 점에서 시장의 관심이 크다. 주택거래가 급감하고 집값이 급등하는 상황이 현실화할지에 대한 우려도 함께 제기된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Long-Term Holding Deduction Bill Revived, Raising Home Transaction Concerns",
+        "excerpt": "A bill to abolish South Korea’s long-term holding special deduction has been proposed again, drawing attention to possible tax changes for real estate held over three years.",
+        "body": "A bill related to abolishing South Korea’s long-term holding special deduction has been proposed again. The deduction applies to real estate held for more than three years and is tied to the capital gains tax burden of long-term property owners. According to the original report, if the bill passes, the revision would move in three directions. The debate is drawing market attention because it could affect whether homeowners keep their properties or move to sell them. Concerns are also being raised over whether a sharp drop in housing transactions and a surge in home prices could become reality. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "長期保有特別控除廃止法案が再発議、住宅取引減少への懸念拡大",
+        "excerpt": "3年以上保有した不動産に適用される長期保有特別控除の廃止関連法案が再び発議され、税制変更と住宅市場への影響が注目されている。",
+        "body": "長期保有特別控除、いわゆる長特控の廃止に関する法案が再び発議された。長特控は3年以上保有した不動産に適用される制度で、長期保有する住宅所有者の譲渡税負担と関係している。原文によると、法案が可決されれば改正は三つの方向で進む可能性がある。今回の議論は、家主が保有住宅を維持するのか売却に動くのかを判断するうえで影響し得る税制変更として市場の関心を集めている。住宅取引の急減や住宅価格の急騰が現実化するのかという懸念も出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "长期持有特别扣除废除法案再提，住房交易骤减担忧升温",
+        "excerpt": "韩国长期持有特别扣除废除相关法案再次被提出，该制度适用于持有三年以上的不动产，税制变化及其对住房市场的影响受到关注。",
+        "body": "韩国长期持有特别扣除废除相关法案再次被提出。该制度适用于持有三年以上的不动产，与长期持有住宅业主的转让税负担相关。根据原文，如果法案获得通过，修订可能将从三个方向展开。此次讨论之所以受到市场关注，是因为这项税制变化可能影响房主继续持有住房还是选择出售的判断。住房交易是否会急剧减少、房价是否会快速上涨，也成为外界提出的担忧。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Reactivan proyecto para eliminar deducción por tenencia larga de vivienda",
+        "excerpt": "Un proyecto para abolir la deducción especial por tenencia prolongada volvió a presentarse en Corea del Sur, con foco en inmuebles mantenidos más de tres años.",
+        "body": "Un proyecto relacionado con la abolición de la deducción especial por tenencia prolongada volvió a presentarse en Corea del Sur. Este régimen se aplica a bienes inmuebles mantenidos durante más de tres años y está vinculado con la carga del impuesto sobre ganancias de capital de los propietarios de largo plazo. Según el informe original, si el proyecto se aprueba, la reforma avanzaría en tres direcciones. El debate atrae atención porque podría influir en si los propietarios conservan sus viviendas o deciden venderlas. También surgen preocupaciones sobre si una fuerte caída de las transacciones y una subida de los precios de la vivienda podrían hacerse realidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Projeto para abolir dedução por longa posse reacende alerta no mercado",
+        "excerpt": "Um projeto para abolir a dedução especial por longa posse voltou a ser apresentado na Coreia do Sul, mirando imóveis mantidos por mais de três anos.",
+        "body": "Um projeto relacionado à abolição da dedução especial por longa posse voltou a ser apresentado na Coreia do Sul. O benefício se aplica a imóveis mantidos por mais de três anos e está ligado ao peso do imposto sobre ganhos de capital para proprietários de longo prazo. Segundo o texto original, se o projeto for aprovado, a revisão poderá ocorrer em três direções. A discussão chama atenção do mercado porque pode influenciar a decisão dos proprietários entre manter seus imóveis ou vendê-los. Também há preocupação sobre a possibilidade de queda acentuada nas transações habitacionais e alta dos preços das casas se tornarem realidade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gesetzentwurf zur Abschaffung von Langzeit-Halteabzug neu eingebracht",
+        "excerpt": "Ein Gesetzentwurf zur Abschaffung des Sonderabzugs für langfristig gehaltene Immobilien wurde in Südkorea erneut eingebracht und lenkt den Blick auf mögliche Steuerfolgen.",
+        "body": "Ein Gesetzentwurf zur Abschaffung des Sonderabzugs für langfristig gehaltene Immobilien wurde in Südkorea erneut eingebracht. Der Abzug gilt für Immobilien, die länger als drei Jahre gehalten werden, und steht im Zusammenhang mit der Kapitalertragsteuerlast langfristiger Eigentümer. Dem Originalbericht zufolge könnte die Reform bei einer Verabschiedung in drei Richtungen erfolgen. Die Debatte findet Beachtung, weil diese Steueränderung beeinflussen kann, ob Hauseigentümer ihre Immobilien weiter halten oder verkaufen. Zugleich werden Sorgen laut, ob ein starker Rückgang der Wohnungsverkäufe und ein Anstieg der Hauspreise Realität werden könnten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le projet supprimant l’abattement de détention longue relancé en Corée",
+        "excerpt": "Un texte visant à supprimer l’abattement spécial pour détention longue a de nouveau été présenté en Corée du Sud, concernant les biens détenus plus de trois ans.",
+        "body": "Un projet de loi lié à la suppression de l’abattement spécial pour détention longue a de nouveau été présenté en Corée du Sud. Ce dispositif s’applique aux biens immobiliers détenus pendant plus de trois ans et concerne la charge fiscale sur les plus-values des propriétaires de long terme. Selon l’article original, si le texte est adopté, la révision pourrait suivre trois directions. Le débat retient l’attention du marché, car ce changement fiscal peut peser sur le choix des propriétaires entre conserver leur logement ou le vendre. Des inquiétudes apparaissent aussi sur une possible chute des transactions immobilières et une hausse des prix des logements. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إعادة طرح مشروع إلغاء خصم الحيازة الطويلة يثير قلق سوق المساكن",
+        "excerpt": "أعيد طرح مشروع قانون لإلغاء الخصم الخاص للحيازة طويلة الأجل في كوريا الجنوبية، وهو نظام يطبق على العقارات المحتفظ بها لأكثر من ثلاث سنوات.",
+        "body": "أعيد طرح مشروع قانون يتعلق بإلغاء الخصم الخاص للحيازة طويلة الأجل في كوريا الجنوبية. يطبق هذا النظام على العقارات المحتفظ بها لأكثر من ثلاث سنوات، ويرتبط بعبء ضريبة أرباح رأس المال على مالكي العقارات لفترة طويلة. ووفق النص الأصلي، إذا تم تمرير القانون فقد يتم التعديل في ثلاثة اتجاهات. يحظى النقاش باهتمام السوق لأنه قد يؤثر في قرار المالكين بين الاحتفاظ بمساكنهم أو بيعها. كما تثار مخاوف بشأن ما إذا كان تراجع معاملات الإسكان وارتفاع أسعار المنازل قد يصبحان واقعاً. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "लंबी होल्डिंग कटौती खत्म करने का विधेयक फिर पेश, आवास बाजार पर नजर",
+        "excerpt": "दक्षिण कोरिया में लंबी अवधि की विशेष कटौती खत्म करने से जुड़ा विधेयक फिर पेश हुआ है, जो तीन साल से अधिक रखी गई अचल संपत्ति पर लागू व्यवस्था से संबंधित है।",
+        "body": "दक्षिण कोरिया में लंबी अवधि की विशेष कटौती, यानी लॉन्ग-टर्म होल्डिंग स्पेशल डिडक्शन, को खत्म करने से जुड़ा विधेयक फिर पेश किया गया है। यह व्यवस्था तीन साल से अधिक समय तक रखी गई अचल संपत्ति पर लागू होती है और लंबे समय तक घर रखने वाले मालिकों के पूंजीगत लाभ कर बोझ से जुड़ी है। मूल रिपोर्ट के अनुसार, विधेयक पारित होने पर संशोधन तीन दिशाओं में हो सकता है। यह चर्चा बाजार का ध्यान इसलिए खींच रही है क्योंकि कर बदलाव से मालिकों के घर बनाए रखने या बेचने के निर्णय पर असर पड़ सकता है। आवास लेनदेन में तेज गिरावट और घरों की कीमतों में उछाल की आशंका भी उठाई जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RUU Penghapusan Deduksi Kepemilikan Lama Kembali Picu Kekhawatiran",
+        "excerpt": "RUU untuk menghapus deduksi khusus kepemilikan jangka panjang kembali diajukan di Korea Selatan, menyasar properti yang dimiliki lebih dari tiga tahun.",
+        "body": "RUU terkait penghapusan deduksi khusus kepemilikan jangka panjang kembali diajukan di Korea Selatan. Skema ini berlaku untuk properti yang dimiliki lebih dari tiga tahun dan berkaitan dengan beban pajak keuntungan modal bagi pemilik properti jangka panjang. Menurut laporan asli, jika RUU disahkan, revisi dapat dilakukan dalam tiga arah. Pembahasan ini menarik perhatian pasar karena perubahan pajak tersebut dapat memengaruhi keputusan pemilik rumah untuk tetap menahan asetnya atau menjual. Kekhawatiran juga muncul mengenai apakah penurunan tajam transaksi perumahan dan lonjakan harga rumah dapat menjadi kenyataan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b559bd2609d7",
+    "slug": "5월9일까지-팔라고-난리인데정부가-더-사라는-집-따로-있다-378876",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T16:51:51.953Z",
+    "updatedAt": "2026-05-06T16:51:51.953Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035271",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035271",
+    "titleFingerprint": "76efad98f742452e8d7448a9ef2d0a1bb98d2d89",
+    "dedupKeys": [
+      "b559bd2609d7c7f2a7fd5e7711f29ce631925b41",
+      "76efad98f742452e8d7448a9ef2d0a1bb98d2d89",
+      "2cd85685cb1b1c4f0e2ef9ce5a09c558578f07a3"
+    ],
+    "imageUrl": "/images/articles/b559bd2609d7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 유예 5월 9일 종료, 세금혜택 주택 전략 주목",
+        "excerpt": "다주택자 양도세 중과 유예 시한이 5월 9일로 다가오면서, 이후 매물 잠김 가능성과 세금혜택을 받을 수 있는 주택 보유 전략이 부동산시장 쟁점으로 떠올랐다.",
+        "body": "다주택자 양도소득세 중과 유예 시한이 5월 9일로 다가오면서 부동산시장에 중요한 변곡점이 형성되고 있다. 현재 시장에서는 유예 종료 전 매도를 둘러싼 움직임이 커지고 있으며, 이후에는 다주택자의 매물 잠김 가능성이 제기된다. 원문은 이 같은 상황을 ‘규제 탈출구’와 세금혜택을 받을 수 있는 다주택 전략이라는 관점에서 다뤘다. 특히 정부 규제와 세제 변화 속에서 어떤 주택은 처분 압박을 받고, 어떤 주택은 보유 또는 추가 매수 대상으로 거론되는 흐름이 시장의 관심사다. 유예 종료 이후 매물이 줄어들 경우 거래 흐름에도 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Multihome Capital Gains Tax Grace Period Ends May 9, Tax-Benefit Strategy in Focus",
+        "excerpt": "As the May 9 deadline for the suspension of heavier capital gains tax on multihome owners approaches, tax-benefit housing strategies and possible listing freezes are drawing market attention.",
+        "body": "The grace period suspending heavier capital gains tax for owners of multiple homes is approaching its May 9 deadline, creating a major turning point for the real estate market. Market attention is focused on moves to sell before the deadline, while concerns are rising that listings from multihome owners could become locked up afterward. The original report frames the issue as a “regulatory exit” and a multihome strategy that can receive tax benefits. In a market shaped by government rules and tax changes, some homes are under selling pressure while others are being discussed as assets to hold or buy more of. If listings decline after the grace period ends, transaction flows could also be affected. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課猶予が5月9日終了、税制優遇住宅戦略に注目",
+        "excerpt": "多住宅保有者への譲渡所得税重課猶予の期限が5月9日に迫り、終了後の売り物件減少懸念と税制優遇を受けられる住宅戦略が市場の焦点となっている。",
+        "body": "多住宅保有者に対する譲渡所得税重課猶予の期限が5月9日に迫り、不動産市場に大きな転換点が生まれている。市場では猶予終了前の売却をめぐる動きが強まり、終了後には多住宅保有者の売り物件が出にくくなる可能性も指摘されている。原文はこの状況を「規制の抜け道」と、税制優遇を受けられる多住宅戦略という観点から扱った。政府規制と税制変更の中で、処分圧力を受ける住宅がある一方、保有または追加購入の対象として語られる住宅もある。猶予終了後に売り物件が減れば、取引の流れにも影響し得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "多房者转让税重税暂缓5月9日到期，税收优惠住房策略受关注",
+        "excerpt": "多房者转让所得税重税暂缓期限临近5月9日，市场关注到期后的房源锁定可能，以及可获得税收优惠的多房持有策略。",
+        "body": "多房者转让所得税重税暂缓期限将于5月9日临近到期，房地产市场正迎来一个重要转折点。当前市场围绕期限前出售的动向增多，同时也有人担心，到期后多房者挂牌房源可能减少并出现锁定。原文从“规制出口”和可享受税收优惠的多房策略角度讨论了这一局面。在政府监管和税制变化之下，有些住房面临出售压力，另一些住房则被提及为继续持有或追加购买的对象。若暂缓期结束后房源减少，交易流向也可能受到影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La pausa fiscal a multipropietarios vence el 9 de mayo y enfoca estrategias con beneficios",
+        "excerpt": "Al acercarse el 9 de mayo, fin de la suspensión del recargo fiscal sobre ganancias de capital para multipropietarios, crece la atención sobre estrategias de vivienda con ventajas fiscales.",
+        "body": "El plazo de suspensión del recargo del impuesto a las ganancias de capital para propietarios de varias viviendas se acerca al 9 de mayo, marcando un punto de inflexión para el mercado inmobiliario. En el mercado aumentan los movimientos para vender antes del vencimiento, mientras se plantea la posibilidad de que después se bloqueen o reduzcan las propiedades puestas a la venta por multipropietarios. El reporte original aborda esta situación como una “salida regulatoria” y una estrategia de múltiples viviendas con beneficios fiscales. En medio de normas gubernamentales y cambios tributarios, algunas viviendas enfrentan presión de venta y otras se mencionan como activos para conservar o comprar. Si caen las ofertas tras el vencimiento, también podría verse afectado el flujo de transacciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Alívio fiscal para multi-imóveis termina em 9 de maio e estratégia com benefício ganha foco",
+        "excerpt": "Com o prazo de 9 de maio para a suspensão da tributação agravada sobre ganhos de capital de múltiplos proprietários, o mercado observa estratégias de moradia com benefício fiscal.",
+        "body": "O prazo de suspensão da tributação agravada sobre ganhos de capital para proprietários de múltiplas moradias se aproxima de 9 de maio, criando um ponto de virada importante no mercado imobiliário. O mercado acompanha os movimentos de venda antes do fim do prazo, enquanto cresce a possibilidade de que, depois disso, os imóveis desses proprietários fiquem menos disponíveis para venda. A reportagem original trata o tema como uma “saída regulatória” e uma estratégia de múltiplos imóveis capaz de receber benefícios fiscais. Em meio a regras do governo e mudanças tributárias, algumas casas sofrem pressão de venda, enquanto outras são citadas como alvos de manutenção ou compra adicional. Se a oferta diminuir após o fim da suspensão, o fluxo de transações também pode ser afetado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Steueraufschub für Mehrfachhausbesitzer endet am 9. Mai, Vorteile rücken in den Fokus",
+        "excerpt": "Mit dem nahenden 9. Mai, dem Ende des Aufschubs bei der höheren Kapitalertragsteuer für Mehrfachhausbesitzer, rücken mögliche Angebotsengpässe und steuerbegünstigte Strategien in den Blick.",
+        "body": "Der Aufschub der höheren Kapitalertragsteuer für Eigentümer mehrerer Wohnungen läuft am 9. Mai aus und markiert damit einen wichtigen Wendepunkt für den Immobilienmarkt. Derzeit richten sich die Blicke auf Verkäufe vor Ablauf der Frist, während danach ein Zurückhalten von Angeboten durch Mehrfachhausbesitzer möglich erscheint. Der Originalbericht beschreibt die Lage als „regulatorischen Ausweg“ und als Mehrfachhaus-Strategie, die steuerliche Vorteile erhalten kann. Unter dem Einfluss staatlicher Regeln und steuerlicher Änderungen geraten einige Immobilien unter Verkaufsdruck, während andere als Objekte zum Halten oder zusätzlichen Kaufen diskutiert werden. Wenn nach Fristende weniger Objekte angeboten werden, könnte dies auch den Transaktionsfluss beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Fin du sursis fiscal des multipropriétaires le 9 mai, les stratégies avantagées en vue",
+        "excerpt": "À l’approche du 9 mai, fin du sursis à la surtaxe sur les plus-values des multipropriétaires, le marché surveille les risques de blocage des biens et les stratégies fiscales.",
+        "body": "Le sursis à la surtaxe sur les plus-values immobilières pour les propriétaires de plusieurs logements arrive à échéance le 9 mai, créant un tournant important pour le marché immobilier. Les ventes avant la fin du délai attirent l’attention, tandis que la possibilité d’un blocage des biens mis en vente par les multipropriétaires après cette date est évoquée. L’article original présente cette situation sous l’angle d’une « sortie réglementaire » et d’une stratégie de détention multiple pouvant bénéficier d’avantages fiscaux. Dans un contexte de règles gouvernementales et de changements fiscaux, certains logements subissent une pression à la vente, tandis que d’autres sont cités comme biens à conserver ou à acheter davantage. Si l’offre diminue après la fin du sursis, le flux des transactions pourrait aussi être affecté. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "انتهاء مهلة ضريبة أصحاب المنازل المتعددة في 9 مايو واستراتيجيات الإعفاء تحت المجهر",
+        "excerpt": "مع اقتراب 9 مايو، موعد انتهاء تعليق الضريبة المشددة على أرباح بيع المنازل لأصحاب العقارات المتعددة، يترقب السوق استراتيجيات الاستفادة الضريبية واحتمال تراجع المعروض.",
+        "body": "تقترب مهلة تعليق الضريبة المشددة على أرباح بيع العقارات لأصحاب المنازل المتعددة من نهايتها في 9 مايو، ما يشكل نقطة تحول مهمة في سوق العقارات. وتتركز الأنظار حاليا على تحركات البيع قبل انتهاء المهلة، مع طرح احتمال تراجع المعروض من قبل أصحاب العقارات المتعددة بعد ذلك. عرض التقرير الأصلي هذه المسألة من زاوية “مخرج تنظيمي” واستراتيجية امتلاك عدة منازل يمكن أن تحصل على مزايا ضريبية. وفي ظل اللوائح الحكومية والتغيرات الضريبية، تتعرض بعض المنازل لضغط البيع، بينما يجري الحديث عن منازل أخرى كأصول للاحتفاظ بها أو شراء المزيد منها. وإذا انخفض المعروض بعد انتهاء المهلة، فقد يتأثر مسار الصفقات أيضا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मल्टीहोम मालिकों की पूंजीगत लाभ कर मोहलत 9 मई को खत्म, टैक्स लाभ रणनीति पर नजर",
+        "excerpt": "मल्टीहोम मालिकों पर भारी पूंजीगत लाभ कर की मोहलत 9 मई को खत्म होने के करीब है, जिससे संभावित बिक्री रुकावट और टैक्स लाभ वाली आवास रणनीति बाजार का मुद्दा बनी है।",
+        "body": "कई घरों के मालिकों पर पूंजीगत लाभ कर की भारी दर से जुड़ी मोहलत 9 मई को समाप्त होने के करीब है, जिससे रियल एस्टेट बाजार में अहम मोड़ बन रहा है। अभी बाजार में समयसीमा से पहले बेचने की गतिविधियों पर ध्यान है, जबकि बाद में मल्टीहोम मालिकों की बिक्री सूची कम या बंद हो जाने की संभावना उठाई जा रही है। मूल रिपोर्ट ने इसे “नियामकीय निकास” और टैक्स लाभ पाने वाली मल्टीहोम रणनीति के रूप में देखा। सरकारी नियमों और कर बदलावों के बीच कुछ घरों पर बेचने का दबाव है, जबकि कुछ घरों को रखने या और खरीदने के विकल्प के रूप में चर्चा मिल रही है। मोहलत खत्म होने के बाद यदि उपलब्ध मकान घटते हैं, तो लेनदेन के प्रवाह पर भी असर पड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Penangguhan Pajak Pemilik Banyak Rumah Berakhir 9 Mei, Strategi Insentif Disorot",
+        "excerpt": "Menjelang batas 9 Mei untuk penangguhan pajak capital gain lebih berat bagi pemilik banyak rumah, pasar menyoroti potensi terkuncinya pasokan dan strategi rumah berinsentif pajak.",
+        "body": "Batas penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah semakin dekat pada 9 Mei, membentuk titik balik penting bagi pasar properti. Saat ini perhatian pasar tertuju pada langkah menjual sebelum masa penangguhan berakhir, sementara setelah itu muncul kemungkinan pasokan dari pemilik banyak rumah menjadi tertahan. Laporan asli membahas situasi ini sebagai “jalan keluar regulasi” dan strategi kepemilikan banyak rumah yang dapat menerima manfaat pajak. Di tengah aturan pemerintah dan perubahan pajak, sebagian rumah mendapat tekanan untuk dijual, sementara rumah lain dibicarakan sebagai aset untuk dipertahankan atau dibeli lagi. Jika pasokan menurun setelah penangguhan berakhir, arus transaksi juga dapat terdampak. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c0dcf57a56c8",
     "slug": "56-mk-추천매물-중랑구-역-출구-앞-5대-신축-메디컬빌딩-등-918098",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Sarangbang Media Luncurkan ‘Sarangbang AI’ untuk Inovasi Pencarian Properti dan Kerja",
         "excerpt": "Sarangbang Media meluncurkan ‘Sarangbang AI’ untuk memperbarui layanan pencarian properti dan rekrutmen, menurut Newsis, dengan fokus pada pengalaman pencarian pengguna.",
         "body": "Sarangbang Media meluncurkan layanan berbasis kecerdasan buatan ‘Sarangbang AI’ dan mulai mendorong inovasi pencarian properti serta rekrutmen, menurut laporan Newsis. Layanan ini diperkenalkan sebagai upaya meningkatkan fungsi pencarian di bidang informasi kehidupan sehari-hari yang dioperasikan oleh Sarangbang Media.\n\nMenurut sumber tersebut, ‘Sarangbang AI’ berfokus pada perubahan pengalaman pencarian pengguna yang mencari informasi properti dan pekerjaan. Sarangbang Media menempatkan pemanfaatan AI di depan dalam dua bidang utama informasi lokal: properti dan rekrutmen.\n\nDengan peluncuran ini, pengguna akan menjumpai layanan pencarian berbasis AI saat menelusuri daftar properti dan informasi lowongan kerja. Namun, fitur spesifik, cakupan penerapan, dan angka penggunaan tidak diungkapkan secara terpisah dalam ringkasan asli.\n\nSumber: Newsis"
-      }
-    }
-  },
-  {
-    "id": "59cf77bcc716",
-    "slug": "돈-벌려면-증시로고자산가-투자-1순위는-주식-부동산은-2위-2026-kb-부동산-보고서---vdaumnet-773379",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T06:59:41.706Z",
-    "updatedAt": "2026-05-06T06:59:41.706Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96TDF1NEt6NF9wYUFoUDEtQjU3b0xQYjBEcjJxTm5mXzJ1dll6M3RyZ0Mwb29tMGo1VXQtS25hbHdRWFFIMVprTnlBRkRMdUk?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96TDF1NEt6NF9wYUFoUDEtQjU3b0xQYjBEcjJxTm5mXzJ1dll6M3RyZ0Mwb29tMGo1VXQtS25hbHdRWFFIMVprTnlBRkRMdUk?oc=5",
-    "titleFingerprint": "01e1399711adaac97b52e66ef51ceec81d59ff76",
-    "dedupKeys": [
-      "59cf77bcc7161b05d91466e914188fede7f4c764",
-      "01e1399711adaac97b52e66ef51ceec81d59ff76",
-      "23faf2eec43df881c598e791cdd00e23743568b6"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "2026 KB 부동산 보고서, 고자산가 투자 1순위는 주식…부동산은 2위",
-        "excerpt": "2026 KB 부동산 보고서에 따르면 고자산가들이 돈을 벌기 위한 투자처로 주식을 가장 먼저 꼽았고, 부동산은 두 번째 선택지로 제시됐다.",
-        "body": "2026 KB 부동산 보고서에서 고자산가들의 투자 선호 순위가 공개됐다. 보도에 따르면 고자산가들은 돈을 벌기 위한 투자 1순위로 주식을 꼽았고, 부동산은 2위에 올랐다.\n\n이번 내용은 ‘돈 벌려면 증시로’라는 흐름을 보여주는 사례로 소개됐다. 원문은 고자산가 투자자들이 자산 증식을 기대하는 대상에서 주식시장을 우선순위에 두고 있으며, 부동산은 그다음 선택지로 언급됐다고 전했다.\n\n해당 결과는 2026 KB 부동산 보고서와 관련해 자산가들의 투자 판단이 어디에 무게를 두는지 보여준다. 다만 제공된 원문 정보에서는 구체적인 응답 비율이나 세부 조사 방식은 제시되지 않았다.\n\n출처: v.daum.net"
-      },
-      "en": {
-        "title": "2026 KB Real Estate Report: Wealthy Investors Pick Stocks First, Property Second",
-        "excerpt": "According to the 2026 KB Real Estate Report, high-net-worth investors chose stocks as their top investment option for making money, while real estate ranked second.",
-        "body": "The 2026 KB Real Estate Report has revealed the investment preferences of high-net-worth individuals. According to the report, wealthy investors named stocks as their top choice for making money, while real estate ranked second.\n\nThe article presented the result as a sign of a shift toward the stock market under the theme of “go to stocks to make money.” It said high-net-worth investors placed the stock market first among assets expected to increase wealth, with real estate cited as the next option.\n\nThe finding shows where wealthy investors are placing weight in their investment decisions in connection with the 2026 KB Real Estate Report. However, the provided source information did not include specific response rates or details on the survey method.\n\nSource: v.daum.net"
-      },
-      "ja": {
-        "title": "2026年KB不動産報告書、富裕層の投資先1位は株式…不動産は2位",
-        "excerpt": "2026年KB不動産報告書によると、富裕層は資産を増やすための投資先として株式を最優先に挙げ、不動産は2番目の選択肢となった。",
-        "body": "2026年KB不動産報告書で、富裕層の投資選好順位が明らかになった。報道によると、富裕層はお金を稼ぐための投資先の1位に株式を挙げ、不動産は2位に入った。\n\n今回の内容は「お金を稼ぐなら株式市場へ」という流れを示す事例として紹介された。原文は、富裕層投資家が資産増加を期待する対象として株式市場を優先し、不動産をその次の選択肢として言及したと伝えた。\n\nこの結果は、2026年KB不動産報告書に関連し、資産家の投資判断がどこに重点を置いているかを示している。ただし、提供された原文情報には具体的な回答比率や調査方法の詳細は示されていない。\n\n出典: v.daum.net"
-      },
-      "zh": {
-        "title": "2026年KB房地产报告：高净值人群投资首选股票，房地产排第二",
-        "excerpt": "据2026年KB房地产报告，高净值人群把股票列为赚钱投资的首选，房地产则成为第二选择，显示其投资关注点有所倾向。",
-        "body": "2026年KB房地产报告公布了高净值人群的投资偏好排序。据报道，高净值人群将股票列为赚钱投资的第一选择，房地产则位居第二。\n\n这一内容被作为“想赚钱就去股市”的趋势案例进行介绍。原文称，高净值投资者在期待资产增值的对象中优先考虑股票市场，而房地产被提及为其后的选择。\n\n该结果显示，在2026年KB房地产报告相关内容中，资产人群的投资判断更重视哪些领域。不过，所提供的原文信息未列出具体回答比例或详细调查方式。\n\n来源: v.daum.net"
-      },
-      "es": {
-        "title": "Informe Inmobiliario KB 2026: los grandes patrimonios prefieren acciones; bienes raíces, segundo",
-        "excerpt": "Según el Informe Inmobiliario KB 2026, los inversores de alto patrimonio eligieron las acciones como primera opción para ganar dinero, por delante del sector inmobiliario.",
-        "body": "El Informe Inmobiliario KB 2026 reveló el orden de preferencia de inversión entre las personas de alto patrimonio. Según la información publicada, estos inversores eligieron las acciones como primera opción para ganar dinero, mientras que los bienes raíces ocuparon el segundo lugar.\n\nEl contenido fue presentado como un ejemplo de la idea de que “para ganar dinero, hay que ir al mercado bursátil”. El texto original indicó que los inversores de alto patrimonio dan prioridad al mercado de valores como destino esperado para aumentar sus activos, y mencionan los bienes raíces como la siguiente opción.\n\nEl resultado muestra dónde ponen el énfasis los grandes patrimonios al tomar decisiones de inversión en relación con el Informe Inmobiliario KB 2026. Sin embargo, la información proporcionada no incluye porcentajes de respuesta ni detalles del método de encuesta.\n\nFuente: v.daum.net"
-      },
-      "pt": {
-        "title": "Relatório Imobiliário KB 2026: grandes fortunas escolhem ações em 1º lugar; imóveis ficam em 2º",
-        "excerpt": "Segundo o Relatório Imobiliário KB 2026, investidores de alto patrimônio escolheram ações como principal opção para ganhar dinheiro, enquanto imóveis ficaram em segundo lugar.",
-        "body": "O Relatório Imobiliário KB 2026 revelou a ordem de preferência de investimento entre pessoas de alto patrimônio. De acordo com a reportagem, esses investidores apontaram as ações como a primeira opção para ganhar dinheiro, enquanto os imóveis ficaram em segundo lugar.\n\nO conteúdo foi apresentado como um exemplo do movimento de “ir para a bolsa para ganhar dinheiro”. O texto original informou que investidores de alto patrimônio colocam o mercado acionário como prioridade entre os ativos dos quais esperam aumento de riqueza, citando os imóveis como a opção seguinte.\n\nO resultado mostra onde os detentores de patrimônio estão concentrando suas decisões de investimento no contexto do Relatório Imobiliário KB 2026. No entanto, as informações fornecidas não trazem percentuais de resposta nem detalhes sobre o método de pesquisa.\n\nFonte: v.daum.net"
-      },
-      "de": {
-        "title": "KB-Immobilienbericht 2026: Vermögende setzen zuerst auf Aktien, Immobilien auf Rang zwei",
-        "excerpt": "Laut KB-Immobilienbericht 2026 nannten vermögende Anleger Aktien als wichtigste Anlageform zum Geldverdienen; Immobilien folgten auf dem zweiten Platz.",
-        "body": "Der KB-Immobilienbericht 2026 hat die Anlagepräferenzen vermögender Personen offengelegt. Dem Bericht zufolge nannten vermögende Anleger Aktien als erste Wahl, um Geld zu verdienen, während Immobilien den zweiten Platz belegten.\n\nDer Inhalt wurde als Beispiel für den Trend „zum Geldverdienen an die Börse“ vorgestellt. Der Originaltext berichtete, dass vermögende Investoren den Aktienmarkt unter den Anlagezielen für Vermögenszuwachs priorisieren und Immobilien als nächste Option nennen.\n\nDas Ergebnis zeigt, worauf vermögende Anleger ihre Investitionsentscheidungen im Zusammenhang mit dem KB-Immobilienbericht 2026 stützen. Konkrete Antwortquoten oder Einzelheiten zur Erhebungsmethode wurden in den bereitgestellten Ausgangsinformationen jedoch nicht genannt.\n\nQuelle: v.daum.net"
-      },
-      "fr": {
-        "title": "Rapport immobilier KB 2026 : les grandes fortunes privilégient les actions, l’immobilier arrive deuxième",
-        "excerpt": "Selon le Rapport immobilier KB 2026, les investisseurs fortunés ont choisi les actions comme premier placement pour gagner de l’argent, devant l’immobilier.",
-        "body": "Le Rapport immobilier KB 2026 a révélé le classement des préférences d’investissement des personnes fortunées. Selon l’article, ces investisseurs ont placé les actions en première position pour gagner de l’argent, tandis que l’immobilier arrive au deuxième rang.\n\nCe contenu a été présenté comme un exemple de la tendance consistant à se tourner vers la Bourse pour gagner de l’argent. Le texte original indique que les investisseurs fortunés donnent la priorité au marché actions parmi les actifs susceptibles d’accroître leur patrimoine, l’immobilier étant cité comme option suivante.\n\nCe résultat montre où les grandes fortunes placent le poids de leurs décisions d’investissement dans le cadre du Rapport immobilier KB 2026. Toutefois, les informations fournies ne présentent pas de taux de réponse précis ni de détails sur la méthode d’enquête.\n\nSource: v.daum.net"
-      },
-      "ar": {
-        "title": "تقرير KB العقاري 2026: الأثرياء يفضلون الأسهم أولاً والعقارات في المرتبة الثانية",
-        "excerpt": "بحسب تقرير KB العقاري 2026، اختار أصحاب الثروات العالية الأسهم كخيارهم الأول للاستثمار من أجل تحقيق الأرباح، بينما جاءت العقارات في المرتبة الثانية.",
-        "body": "كشف تقرير KB العقاري لعام 2026 عن ترتيب تفضيلات الاستثمار لدى أصحاب الثروات العالية. ووفقاً للتقرير، اختار هؤلاء المستثمرون الأسهم كخيار أول لكسب المال، بينما جاءت العقارات في المرتبة الثانية.\n\nوقد قُدم هذا المحتوى بوصفه مثالاً على توجه يقول إن من يريد تحقيق المال يتجه إلى سوق الأسهم. وذكر النص الأصلي أن المستثمرين ذوي الثروات العالية يضعون سوق الأسهم في المقدمة بين الأصول التي يتوقعون منها زيادة الثروة، مع ذكر العقارات كخيار تالٍ.\n\nوتوضح هذه النتيجة أين يضع الأثرياء ثقل قراراتهم الاستثمارية في سياق تقرير KB العقاري 2026. إلا أن المعلومات الأصلية المقدمة لم تتضمن نسباً محددة للإجابات أو تفاصيل عن طريقة المسح.\n\nالمصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "2026 KB रियल एस्टेट रिपोर्ट: धनाढ्य निवेशकों की पहली पसंद शेयर, रियल एस्टेट दूसरे स्थान पर",
-        "excerpt": "2026 KB रियल एस्टेट रिपोर्ट के अनुसार, उच्च संपत्ति वाले निवेशकों ने पैसा कमाने के लिए शेयरों को पहली पसंद बताया, जबकि रियल एस्टेट दूसरे स्थान पर रहा।",
-        "body": "2026 KB रियल एस्टेट रिपोर्ट में उच्च संपत्ति वाले लोगों की निवेश प्राथमिकताएं सामने आईं। रिपोर्ट के अनुसार, धनाढ्य निवेशकों ने पैसा कमाने के लिए निवेश की पहली पसंद के रूप में शेयरों को चुना, जबकि रियल एस्टेट दूसरे स्थान पर रहा।\n\nइस जानकारी को “पैसा कमाना है तो शेयर बाजार की ओर” जैसे रुझान के उदाहरण के रूप में पेश किया गया। मूल लेख में बताया गया कि उच्च संपत्ति वाले निवेशक संपत्ति बढ़ाने की उम्मीद वाले साधनों में शेयर बाजार को प्राथमिकता देते हैं और रियल एस्टेट को अगला विकल्प मानते हैं।\n\nयह नतीजा 2026 KB रियल एस्टेट रिपोर्ट के संदर्भ में दिखाता है कि धनाढ्य निवेशक अपने निवेश निर्णयों में किस क्षेत्र को अधिक महत्व दे रहे हैं। हालांकि, उपलब्ध मूल जानकारी में जवाबों का अनुपात या सर्वेक्षण पद्धति का विवरण नहीं दिया गया।\n\nस्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "Laporan Real Estat KB 2026: Investor Kaya Pilih Saham Pertama, Properti di Urutan Kedua",
-        "excerpt": "Menurut Laporan Real Estat KB 2026, investor bernilai aset tinggi memilih saham sebagai pilihan utama untuk menghasilkan uang, sementara properti berada di posisi kedua.",
-        "body": "Laporan Real Estat KB 2026 mengungkap urutan preferensi investasi kalangan bernilai aset tinggi. Menurut laporan tersebut, investor kaya memilih saham sebagai pilihan pertama untuk menghasilkan uang, sementara real estat menempati posisi kedua.\n\nInformasi ini disajikan sebagai contoh arus “ingin menghasilkan uang, masuk ke pasar saham”. Teks asli menyebutkan bahwa investor bernilai aset tinggi menempatkan pasar saham sebagai prioritas di antara aset yang diharapkan dapat meningkatkan kekayaan, sedangkan real estat disebut sebagai pilihan berikutnya.\n\nHasil ini menunjukkan ke mana kalangan pemilik aset memberi bobot dalam keputusan investasi mereka terkait Laporan Real Estat KB 2026. Namun, informasi sumber yang diberikan tidak memuat persentase jawaban atau rincian metode survei.\n\nSumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "412d7b19962b",
-    "slug": "코스피-7000-집-판-돈까지-증시로-부동산-불패-신화-꺾고-머니무브-폭발---조선비즈---chosunbiz-611170",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T06:57:28.370Z",
-    "updatedAt": "2026-05-06T06:57:28.370Z",
-    "sourceName": "Chosunbiz",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkRyWTYycHZFZ05SdkJiMWlwenJidEFxeW9ZVTZfSnAzcTVHTGtXZkU2QndEN2RUeDkwVkFUWWdpX0o3WTc2bUJRNnhBTDJQT09IOWdlTkljOVU1aVo5MkJJbFprSGRxSWROQ25zeVBlT0FrZFAxaTJaNHZEWlhmOHdEc1BNb3c40gGcAUFVX3lxTFAwRFV1SHR4WkpyX0h6bVYtZmN6Rnc2ckNNdGtwQVVOaHdEdkgxaXpaQkZDTE9iOEhrd0J2UEVtUm1vVHRjUTNfRzdLMGtnUmlUYWNPUE1hOWhPNGpUc2x3VE1uUUoyMWdlcnRfdlRMN1plTy1SV3Z0TV9yQUtqTnotN1dyUnFPRG9Ca2lUOUxJSVpDQkFiMkFIcFprYg?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkRyWTYycHZFZ05SdkJiMWlwenJidEFxeW9ZVTZfSnAzcTVHTGtXZkU2QndEN2RUeDkwVkFUWWdpX0o3WTc2bUJRNnhBTDJQT09IOWdlTkljOVU1aVo5MkJJbFprSGRxSWROQ25zeVBlT0FrZFAxaTJaNHZEWlhmOHdEc1BNb3c40gGcAUFVX3lxTFAwRFV1SHR4WkpyX0h6bVYtZmN6Rnc2ckNNdGtwQVVOaHdEdkgxaXpaQkZDTE9iOEhrd0J2UEVtUm1vVHRjUTNfRzdLMGtnUmlUYWNPUE1hOWhPNGpUc2x3VE1uUUoyMWdlcnRfdlRMN1plTy1SV3Z0TV9yQUtqTnotN1dyUnFPRG9Ca2lUOUxJSVpDQkFiMkFIcFprYg?oc=5",
-    "titleFingerprint": "abb55121c20758a302c50df3884f6cf0b4e3d750",
-    "dedupKeys": [
-      "412d7b19962b4d18230e198e24f6c130915b2a79",
-      "abb55121c20758a302c50df3884f6cf0b4e3d750",
-      "d891d4fef7e649e9d4bb79a9afde6e8d1c0edc4f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 기대 속 ‘집 판 돈’도 증시로, 부동산 자금 이동 주목",
-        "excerpt": "Chosunbiz는 코스피 7000을 둘러싼 증시 열기 속에서 부동산 불패 인식이 흔들리고 주식시장으로 자금이 이동하는 현상을 조명했다.",
-        "body": "Chosunbiz는 ‘코스피 7000’을 내건 보도에서 집을 판 돈까지 증시로 향하는 흐름이 나타나고 있다고 전했다. 보도는 부동산 중심으로 움직였던 투자 자금이 주식시장으로 이동하는 ‘머니무브’ 현상에 초점을 맞췄다.\n\n기사 제목은 한국 투자 시장에서 오래 이어진 ‘부동산 불패’ 인식이 약해지고 있음을 강조한다. 동시에 코스피 7000이라는 키워드를 통해 증시 기대감이 자금 이동의 배경으로 거론되고 있음을 보여준다.\n\n이번 흐름은 부동산과 증시 사이의 투자 선호 변화가 시장의 주요 관심사로 떠올랐다는 점에서 의미가 있다. 다만 제공된 원문 정보상 구체적인 수치와 관계자 발언은 확인되지 않았다.\n\n출처: Chosunbiz"
-      },
-      "en": {
-        "title": "KOSPI 7000 Hopes Draw Even Home-Sale Cash Into Stocks as Money Moves",
-        "excerpt": "Chosunbiz reported that amid talk of KOSPI 7000, funds including proceeds from home sales are moving toward stocks as faith in real estate weakens.",
-        "body": "Chosunbiz reported in an article framed around “KOSPI 7000” that even money from home sales is flowing into the stock market. The report focused on a “money move” in which investment funds once centered on real estate are shifting toward equities.\n\nThe headline highlights a weakening of South Korea’s long-standing belief that real estate is unbeatable. It also presents KOSPI 7000 as a key phrase behind growing attention on the stock market and the movement of capital.\n\nThe trend is significant because changing investor preference between real estate and stocks has become a major market issue. Specific figures and quoted comments were not confirmed in the provided source information.\n\nSource: Chosunbiz"
-      },
-      "ja": {
-        "title": "KOSPI7000期待で住宅売却資金も株式市場へ、不動産神話に変化",
-        "excerpt": "Chosunbizは、KOSPI7000をめぐる株式市場への期待の中で、不動産不敗の認識が揺らぎ、資金が株式へ移る動きを報じた。",
-        "body": "Chosunbizは「KOSPI7000」を掲げた報道で、住宅を売却した資金まで株式市場に向かう流れが出ていると伝えた。記事は、不動産を中心に動いてきた投資資金が株式市場へ移る「マネームーブ」に焦点を当てた。\n\n見出しは、韓国の投資市場で長く続いた「不動産不敗」への認識が弱まっている点を強調している。同時に、KOSPI7000というキーワードを通じて、株式市場への期待が資金移動の背景として注目されていることを示した。\n\nこの動きは、不動産と株式の間で投資選好の変化が市場の主要な関心事になっている点で意味がある。ただし、提供された原文情報では具体的な数値や関係者コメントは確認されていない。\n\n出典: Chosunbiz"
-      },
-      "zh": {
-        "title": "KOSPI 7000预期升温，卖房资金也流向股市引关注",
-        "excerpt": "Chosunbiz报道称，在KOSPI 7000话题带动的股市热度中，房地产不败观念动摇，资金正转向股票市场。",
-        "body": "Chosunbiz在以“KOSPI 7000”为主题的报道中称，连卖房所得资金也出现流向股市的趋势。报道聚焦于原本以房地产为中心的投资资金转向股票市场的“资金迁移”现象。\n\n标题强调，韩国投资市场长期存在的“房地产不败”认知正在减弱。同时，KOSPI 7000这一关键词显示，股市预期正被视为资金流动的重要背景。\n\n这一趋势的意义在于，房地产与股市之间投资偏好的变化已成为市场关注焦点。不过，根据所提供的原文信息，具体数据和相关人士评论尚未确认。\n\n来源: Chosunbiz"
-      },
-      "es": {
-        "title": "KOSPI 7000 atrae dinero de venta de viviendas hacia la bolsa coreana",
-        "excerpt": "Chosunbiz informó que, entre expectativas por el KOSPI 7000, capitales ligados a ventas de viviendas se mueven a acciones al debilitarse el mito inmobiliario.",
-        "body": "Chosunbiz informó, en una nota centrada en “KOSPI 7000”, que incluso el dinero obtenido por la venta de viviendas se está dirigiendo al mercado bursátil. El artículo puso el foco en un “movimiento de dinero” desde inversiones centradas en bienes raíces hacia las acciones.\n\nEl titular subraya que la percepción de que el sector inmobiliario siempre gana en Corea del Sur se está debilitando. También muestra que KOSPI 7000 funciona como una palabra clave asociada a las expectativas sobre la bolsa y al cambio en los flujos de capital.\n\nLa tendencia es relevante porque el cambio de preferencia entre bienes raíces y acciones se ha convertido en un tema importante del mercado. La información proporcionada no confirma cifras concretas ni comentarios de fuentes.\n\nFuente: Chosunbiz"
-      },
-      "pt": {
-        "title": "KOSPI 7000 leva até dinheiro da venda de imóveis para ações na Coreia",
-        "excerpt": "A Chosunbiz informou que, com a expectativa em torno do KOSPI 7000, recursos ligados à venda de casas migram para ações enquanto o mito imobiliário perde força.",
-        "body": "A Chosunbiz informou, em uma reportagem centrada no “KOSPI 7000”, que até o dinheiro obtido com a venda de casas está indo para o mercado acionário. A matéria destacou um “money move” em que recursos antes concentrados no setor imobiliário passam a buscar ações.\n\nO título enfatiza o enfraquecimento da antiga percepção de que o mercado imobiliário sempre vence na Coreia do Sul. Ao mesmo tempo, o termo KOSPI 7000 aparece como referência para a expectativa em torno da bolsa e para a mudança no fluxo de capital.\n\nEsse movimento é relevante porque a alteração de preferência entre imóveis e ações se tornou um ponto central de atenção do mercado. As informações fornecidas não confirmam números específicos nem declarações de fontes.\n\nFonte: Chosunbiz"
-      },
-      "de": {
-        "title": "KOSPI-7000-Erwartung lenkt sogar Hausverkaufsgeld in Aktien",
-        "excerpt": "Chosunbiz berichtet, dass im Umfeld der KOSPI-7000-Debatte selbst Erlöse aus Hausverkäufen in Aktien fließen, während der Immobilienglaube schwächer wird.",
-        "body": "Chosunbiz berichtete in einem Beitrag unter dem Stichwort „KOSPI 7000“, dass sogar Geld aus Hausverkäufen in den Aktienmarkt fließt. Der Bericht konzentrierte sich auf eine Kapitalverlagerung, bei der Anlagegelder, die zuvor stark auf Immobilien ausgerichtet waren, in Aktien wandern.\n\nDie Überschrift betont, dass der lange verbreitete Glaube an die Unbesiegbarkeit von Immobilien in Südkorea an Kraft verliert. Zugleich zeigt der Begriff KOSPI 7000, dass Erwartungen an den Aktienmarkt als Hintergrund dieser Geldbewegung genannt werden.\n\nDie Entwicklung ist bedeutsam, weil sich die Präferenz zwischen Immobilien und Aktien zu einem wichtigen Marktthema entwickelt hat. Konkrete Zahlen oder Kommentare von Beteiligten wurden in den bereitgestellten Originalinformationen nicht bestätigt.\n\nQuelle: Chosunbiz"
-      },
-      "fr": {
-        "title": "KOSPI 7000 pousse même l’argent de ventes immobilières vers les actions",
-        "excerpt": "Chosunbiz rapporte qu’avec le thème KOSPI 7000, des fonds issus de ventes de logements se dirigent vers la Bourse alors que le mythe immobilier faiblit.",
-        "body": "Chosunbiz a rapporté, dans un article axé sur « KOSPI 7000 », que même l’argent provenant de ventes de logements se dirige vers le marché boursier. Le sujet porte sur un mouvement de capitaux quittant des placements centrés sur l’immobilier pour aller vers les actions.\n\nLe titre souligne l’affaiblissement de l’idée longtemps répandue en Corée du Sud selon laquelle l’immobilier ne perd pas. Il montre aussi que KOSPI 7000 sert de mot-clé associé aux attentes envers la Bourse et au déplacement des capitaux.\n\nCette tendance est importante car le changement de préférence entre immobilier et actions devient un sujet majeur du marché. Les informations fournies ne confirment pas de chiffres précis ni de commentaires de responsables.\n\nSource: Chosunbiz"
-      },
-      "ar": {
-        "title": "توقعات كوسبي 7000 تدفع حتى أموال بيع المنازل إلى سوق الأسهم",
-        "excerpt": "ذكرت Chosunbiz أن حماس كوسبي 7000 يبرز انتقال أموال، حتى من بيع المنازل، إلى الأسهم مع تراجع الاعتقاد بتفوق العقار الدائم.",
-        "body": "ذكرت Chosunbiz في تقرير حمل عنوان «كوسبي 7000» أن أموال بيع المنازل نفسها تتجه إلى سوق الأسهم. وركز التقرير على ظاهرة انتقال الأموال من استثمارات كانت تتمحور حول العقارات إلى سوق الأسهم.\n\nيشير العنوان إلى تراجع الاعتقاد الطويل في كوريا الجنوبية بأن العقارات لا تخسر. كما يبرز مصطلح كوسبي 7000 باعتباره كلمة مفتاحية مرتبطة بتوقعات سوق الأسهم وخلفية حركة رأس المال.\n\nتكتسب هذه الحركة أهمية لأنها تعكس تحول تفضيلات الاستثمار بين العقارات والأسهم إلى قضية رئيسية في السوق. ولا تؤكد المعلومات الأصلية المقدمة أرقاما محددة أو تصريحات من مسؤولين.\n\nالمصدر: Chosunbiz"
-      },
-      "hi": {
-        "title": "KOSPI 7000 की उम्मीद में घर बेचकर मिला पैसा भी शेयर बाजार की ओर",
-        "excerpt": "Chosunbiz ने बताया कि KOSPI 7000 की चर्चा के बीच रियल एस्टेट पर अटूट भरोसा कमजोर पड़ रहा है और धन शेयर बाजार की ओर जा रहा है।",
-        "body": "Chosunbiz ने “KOSPI 7000” पर केंद्रित रिपोर्ट में बताया कि घर बेचकर मिला पैसा भी शेयर बाजार की ओर जाने लगा है। रिपोर्ट ने उस “मनी मूव” पर ध्यान दिया जिसमें पहले रियल एस्टेट पर केंद्रित निवेश धन अब शेयरों की ओर मुड़ रहा है।\n\nशीर्षक यह रेखांकित करता है कि दक्षिण कोरिया में लंबे समय से कायम रियल एस्टेट के अजेय होने का विश्वास कमजोर हो रहा है। साथ ही KOSPI 7000 शब्द शेयर बाजार की उम्मीदों और पूंजी प्रवाह के बदलाव की पृष्ठभूमि के रूप में सामने आता है।\n\nयह रुझान इसलिए महत्वपूर्ण है क्योंकि रियल एस्टेट और शेयरों के बीच निवेश प्राथमिकता में बदलाव बाजार का प्रमुख मुद्दा बन गया है। उपलब्ध मूल जानकारी में ठोस आंकड़े या संबंधित पक्षों की टिप्पणियां पुष्टि नहीं हुईं।\n\nस्रोत: Chosunbiz"
-      },
-      "id": {
-        "title": "Harapan KOSPI 7000 Tarik Dana Hasil Jual Rumah ke Pasar Saham",
-        "excerpt": "Chosunbiz melaporkan bahwa di tengah isu KOSPI 7000, dana termasuk hasil penjualan rumah bergerak ke saham saat keyakinan pada properti melemah.",
-        "body": "Chosunbiz melaporkan dalam artikel bertema “KOSPI 7000” bahwa bahkan uang hasil penjualan rumah mulai mengalir ke pasar saham. Laporan itu menyoroti fenomena “money move”, ketika dana investasi yang sebelumnya berpusat pada properti bergeser ke saham.\n\nJudul tersebut menekankan bahwa keyakinan lama di Korea Selatan bahwa properti selalu unggul mulai melemah. Pada saat yang sama, KOSPI 7000 menjadi kata kunci yang menunjukkan ekspektasi terhadap pasar saham sebagai latar perpindahan dana.\n\nTren ini penting karena perubahan preferensi investasi antara properti dan saham telah menjadi perhatian utama pasar. Informasi sumber yang diberikan tidak mengonfirmasi angka rinci atau komentar narasumber.\n\nSumber: Chosunbiz"
-      }
-    }
-  },
-  {
-    "id": "c56ed0c118fb",
-    "slug": "역대급-불장에-부동산-무너졌다주식-투자선호-1위-올라---연합인포맥스-726650",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T06:56:16.368Z",
-    "updatedAt": "2026-05-06T06:56:16.368Z",
-    "sourceName": "연합인포맥스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWXB2akhZdTVweUpJSWN0QjduUnR3ZFo4SXhoN2tSb2E0eDg5Nmdla1c4QnRDMlhJWlRWQ1RIUXNwMTM0c29zNXVmUWlSSVZCVXhlWWVWNXlfczk3WThuVFFNYUJDMlBrOXN2Wmc2VDA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWXB2akhZdTVweUpJSWN0QjduUnR3ZFo4SXhoN2tSb2E0eDg5Nmdla1c4QnRDMlhJWlRWQ1RIUXNwMTM0c29zNXVmUWlSSVZCVXhlWWVWNXlfczk3WThuVFFNYUJDMlBrOXN2Wmc2VDA?oc=5",
-    "titleFingerprint": "8216006874e8d0848ae47e614914e5363c3ca1ad",
-    "dedupKeys": [
-      "c56ed0c118fb06d8049b03fc831a17eb66ddf52b",
-      "8216006874e8d0848ae47e614914e5363c3ca1ad",
-      "fa44475e4b6ea0baa555fab886c990a9abc6c679"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "주식 투자선호 1위 부상, 역대급 불장 속 부동산 선호 약화",
-        "excerpt": "연합인포맥스는 역대급 주식 불장 속에서 투자 선호 1위가 부동산에서 주식으로 이동한 흐름을 보도했다. 자산시장 선호 변화가 핵심이다.",
-        "body": "연합인포맥스 보도에 따르면 역대급 주식 불장이 이어지는 가운데 투자 선호도에서 ‘주식’이 1위에 올랐다. 반면 그동안 대표 투자처로 꼽혀 온 부동산 선호는 약화된 것으로 전해졌다.\n\n이번 흐름은 주식시장 강세가 투자자들의 관심을 끌어올린 반면, 부동산에 대한 선호가 이전보다 낮아졌다는 점을 보여준다. 기사 제목은 ‘역대급 불장’과 ‘부동산 무너졌다’는 표현으로 투자 선호 변화의 대비를 강조했다.\n\n이에 따라 자산시장에서는 주식과 부동산을 바라보는 투자자 인식 변화가 주목된다. 다만 원문에 구체적인 조사 수치나 관계자 발언은 제시되지 않았다.\n\n출처: 연합인포맥스"
-      },
-      "en": {
-        "title": "Stocks Take Top Investment Preference as Real Estate Loses Ground",
-        "excerpt": "Yonhap Infomax reported that amid an exceptional stock market rally, stocks have risen to No. 1 in investment preference while real estate preference has weakened.",
-        "body": "According to Yonhap Infomax, stocks have climbed to the top spot in investment preference as an exceptional stock market rally continues. Real estate, long viewed as a leading investment destination, has reportedly seen its appeal weaken.\n\nThe shift shows that the strong stock market has drawn more investor attention, while preference for real estate has declined compared with the past. The original headline highlighted the contrast between a “record-level bull market” and weakening real estate sentiment.\n\nAs a result, changes in how investors view stocks and real estate are drawing attention across asset markets. The original report did not provide detailed survey figures or direct comments from officials.\n\nSource: Yonhap Infomax"
-      },
-      "ja": {
-        "title": "株式が投資選好1位に浮上、歴史的強気相場で不動産は後退",
-        "excerpt": "聯合インフォマックスは、歴史的な株式強気相場の中で投資選好の首位が不動産から株式へ移った流れを報じた。資産市場の選好変化が焦点だ。",
-        "body": "聯合インフォマックスの報道によると、歴史的な株式強気相場が続く中、投資選好で「株式」が1位に浮上した。一方、これまで代表的な投資先とされてきた不動産への選好は弱まったと伝えられた。\n\n今回の流れは、株式市場の強さが投資家の関心を高める一方、不動産への選好が以前より低下したことを示している。記事の見出しは「歴史的な強気相場」と「不動産が崩れた」という表現で、投資選好の変化を対比した。\n\nこれにより、資産市場では株式と不動産に対する投資家の認識変化が注目される。ただし、原文には具体的な調査数値や関係者コメントは示されていない。\n\n出典: 聯合インフォマックス"
-      },
-      "zh": {
-        "title": "股票升至投资偏好首位，罕见牛市下房地产吸引力减弱",
-        "excerpt": "韩联Infomax报道称，在罕见股市牛市中，投资偏好首位从房地产转向股票。资产市场偏好的变化成为关注焦点。",
-        "body": "据韩联Infomax报道，在罕见股市牛市持续之际，“股票”升至投资偏好首位。与此同时，长期被视为代表性投资标的的房地产偏好有所减弱。\n\n这一变化显示，强劲的股票市场提升了投资者关注度，而房地产偏好较以往下降。原文标题以“罕见牛市”和“房地产倒下”的表述，强调了投资偏好变化的对比。\n\n因此，资产市场中投资者对股票和房地产的认知变化受到关注。不过，原文并未提供具体调查数据或相关人士评论。\n\n来源: 韩联Infomax"
-      },
-      "es": {
-        "title": "Las acciones lideran la preferencia inversora y el inmobiliario pierde fuerza",
-        "excerpt": "Yonhap Infomax informó que, en medio de un mercado alcista excepcional, las acciones subieron al primer lugar de preferencia inversora y el inmobiliario se debilitó.",
-        "body": "Según Yonhap Infomax, las acciones alcanzaron el primer lugar en la preferencia de inversión mientras continúa un mercado bursátil alcista excepcional. En cambio, el sector inmobiliario, considerado durante mucho tiempo un destino de inversión representativo, habría perdido atractivo.\n\nEste movimiento muestra que la fortaleza del mercado de acciones elevó el interés de los inversores, mientras que la preferencia por el inmobiliario cayó frente a etapas anteriores. El titular original destacó el contraste entre un “mercado alcista histórico” y el debilitamiento del inmobiliario.\n\nAsí, los cambios en la percepción de los inversores sobre acciones e inmobiliario ganan atención en los mercados de activos. El texto original no incluyó cifras concretas de encuestas ni comentarios de fuentes.\n\nFuente: Yonhap Infomax"
-      },
-      "pt": {
-        "title": "Ações assumem liderança na preferência de investimento e imóveis recuam",
-        "excerpt": "A Yonhap Infomax informou que, em meio a uma forte alta histórica da bolsa, as ações chegaram ao primeiro lugar na preferência de investimento, enquanto imóveis perderam força.",
-        "body": "Segundo a Yonhap Infomax, as ações subiram ao primeiro lugar na preferência de investimento enquanto continua uma forte alta histórica do mercado acionário. Já os imóveis, por muito tempo vistos como um destino típico de investimento, tiveram sua preferência enfraquecida.\n\nEsse movimento mostra que a força da bolsa elevou o interesse dos investidores, enquanto a preferência por imóveis caiu em relação ao passado. O título original destacou o contraste entre uma “alta histórica” e o enfraquecimento do setor imobiliário.\n\nCom isso, mudanças na percepção dos investidores sobre ações e imóveis chamam atenção nos mercados de ativos. O texto original não apresentou números específicos de pesquisa nem comentários de fontes.\n\nFonte: Yonhap Infomax"
-      },
-      "de": {
-        "title": "Aktien werden beliebteste Anlage, Immobilien verlieren im Börsenboom",
-        "excerpt": "Yonhap Infomax berichtete, dass Aktien inmitten einer außergewöhnlichen Börsenrally auf Platz eins der Anlagepräferenzen gestiegen sind, während Immobilien an Attraktivität verloren.",
-        "body": "Nach Angaben von Yonhap Infomax sind Aktien inmitten einer außergewöhnlichen Börsenrally auf den ersten Platz der Anlagepräferenzen gestiegen. Immobilien, die lange als führendes Anlageziel galten, haben demnach an Beliebtheit verloren.\n\nDiese Entwicklung zeigt, dass die Stärke des Aktienmarkts mehr Aufmerksamkeit von Anlegern auf sich zieht, während die Präferenz für Immobilien im Vergleich zu früher nachgelassen hat. Die ursprüngliche Überschrift stellte den „historischen Bullenmarkt“ dem schwächeren Immobilieninteresse gegenüber.\n\nDamit rückt in den Vermögensmärkten die veränderte Wahrnehmung von Aktien und Immobilien in den Fokus. Konkrete Umfragezahlen oder Kommentare von Beteiligten wurden im Originaltext nicht genannt.\n\nQuelle: Yonhap Infomax"
-      },
-      "fr": {
-        "title": "Les actions deviennent le premier choix d’investissement, l’immobilier recule",
-        "excerpt": "Yonhap Infomax a rapporté qu’au cœur d’un marché boursier haussier exceptionnel, les actions sont passées en tête des préférences d’investissement, devant l’immobilier affaibli.",
-        "body": "Selon Yonhap Infomax, les actions sont montées à la première place des préférences d’investissement alors qu’un marché boursier haussier exceptionnel se poursuit. L’immobilier, longtemps considéré comme une destination d’investissement majeure, aurait vu son attrait diminuer.\n\nCette évolution montre que la vigueur du marché actions attire davantage l’attention des investisseurs, tandis que la préférence pour l’immobilier a reculé par rapport au passé. Le titre original soulignait le contraste entre un « marché haussier historique » et l’affaiblissement de l’immobilier.\n\nAinsi, les changements de perception des investisseurs à l’égard des actions et de l’immobilier retiennent l’attention sur les marchés d’actifs. Le texte original ne mentionnait pas de chiffres d’enquête précis ni de commentaires de responsables.\n\nSource: Yonhap Infomax"
-      },
-      "ar": {
-        "title": "الأسهم تتصدر تفضيلات الاستثمار مع تراجع جاذبية العقارات",
-        "excerpt": "أفادت يونهاب إنفوماكس بأن الأسهم صعدت إلى المركز الأول في تفضيلات الاستثمار وسط موجة صعود قوية في السوق، بينما تراجعت جاذبية العقارات.",
-        "body": "بحسب تقرير يونهاب إنفوماكس، صعدت الأسهم إلى المركز الأول في تفضيلات الاستثمار مع استمرار موجة صعود استثنائية في سوق الأسهم. وفي المقابل، تراجعت جاذبية العقارات التي كانت تعد لفترة طويلة وجهة استثمارية رئيسية.\n\nويظهر هذا التحول أن قوة سوق الأسهم رفعت اهتمام المستثمرين، بينما انخفض تفضيل العقارات مقارنة بالسابق. وقد أبرز العنوان الأصلي التباين بين “سوق صاعدة تاريخية” وضعف الاهتمام بالعقارات.\n\nوبذلك تحظى التغيرات في نظرة المستثمرين إلى الأسهم والعقارات باهتمام في أسواق الأصول. ولم يقدم النص الأصلي أرقاما تفصيلية لمسح أو تعليقات مباشرة من مسؤولين.\n\nالمصدر: يونهاب إنفوماكس"
-      },
-      "hi": {
-        "title": "शेयर निवेश पसंद में पहले स्थान पर, तेज बाजार में रियल एस्टेट कमजोर",
-        "excerpt": "योनहाप इन्फोमैक्स ने बताया कि असाधारण शेयर बाजार तेजी के बीच निवेश पसंद में शेयर पहले स्थान पर आ गए, जबकि रियल एस्टेट की पसंद कमजोर हुई।",
-        "body": "योनहाप इन्फोमैक्स के अनुसार, असाधारण शेयर बाजार तेजी जारी रहने के बीच निवेश पसंद में “शेयर” पहले स्थान पर पहुंच गए हैं। वहीं, लंबे समय से प्रमुख निवेश विकल्प माने जाने वाले रियल एस्टेट की पसंद कमजोर हुई है।\n\nयह बदलाव दिखाता है कि शेयर बाजार की मजबूती ने निवेशकों का ध्यान बढ़ाया, जबकि रियल एस्टेट के प्रति झुकाव पहले की तुलना में कम हुआ। मूल शीर्षक ने “रिकॉर्ड स्तर की तेजी” और रियल एस्टेट की कमजोरी के बीच अंतर को रेखांकित किया।\n\nइससे संपत्ति बाजारों में शेयर और रियल एस्टेट को लेकर निवेशकों की धारणा में बदलाव पर ध्यान जा रहा है। मूल रिपोर्ट में कोई विशिष्ट सर्वेक्षण आंकड़े या संबंधित पक्षों की टिप्पणियां नहीं दी गईं।\n\nस्रोत: योनहाप इन्फोमैक्स"
-      },
-      "id": {
-        "title": "Saham Jadi Pilihan Investasi Utama, Minat Properti Melemah",
-        "excerpt": "Yonhap Infomax melaporkan bahwa di tengah reli besar pasar saham, saham naik ke posisi pertama dalam preferensi investasi, sementara minat pada properti melemah.",
-        "body": "Menurut laporan Yonhap Infomax, saham naik ke posisi pertama dalam preferensi investasi saat reli besar pasar saham terus berlangsung. Sebaliknya, properti yang selama ini dianggap sebagai tujuan investasi utama disebut mengalami penurunan minat.\n\nPerubahan ini menunjukkan bahwa penguatan pasar saham menarik perhatian investor, sementara preferensi terhadap properti melemah dibandingkan sebelumnya. Judul asli menekankan kontras antara “bull market bersejarah” dan melemahnya daya tarik properti.\n\nDengan demikian, perubahan cara investor memandang saham dan properti menjadi perhatian di pasar aset. Namun, naskah asli tidak menyajikan angka survei terperinci atau komentar dari pihak terkait.\n\nSumber: Yonhap Infomax"
       }
     }
   }
