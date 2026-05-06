@@ -1,0 +1,75 @@
+{
+  "id": "57029ac18b7a",
+  "slug": "집값-오를수록-서울아파트-통계-격차-확대-267281",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-06T17:26:21.190Z",
+  "updatedAt": "2026-05-06T17:26:21.190Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/realestate/12036087",
+  "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036087",
+  "titleFingerprint": "90848b732d3ed0afc3fdae68b7786d58daddf205",
+  "dedupKeys": [
+    "57029ac18b7a223c2716547921e4cf9d075aa09f",
+    "90848b732d3ed0afc3fdae68b7786d58daddf205",
+    "3dbd8f2529e8150a5eb94272103a97d406694180"
+  ],
+  "imageUrl": "/images/articles/57029ac18b7a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "서울 아파트 통계 격차 확대, 집값 상승기에 공공·민간 지표 엇갈려",
+      "excerpt": "최근 주택시장 진단에 쓰이는 공공·민간 통계가 서울 아파트를 중심으로 빠르게 벌어지며, 같은 기간 수만 개 표본 조사에도 시세·호가 결과가 달라졌다.",
+      "body": "최근 주택시장을 진단하는 공공기관과 민간기관의 통계 격차가 서울 아파트를 중심으로 빠르게 확대되고 있다. 비슷한 기간에 수만 개 표본을 바탕으로 시세와 호가를 조사했지만, 서울지역에서는 기관별 결과가 서로 다르게 나타났다. 집값이 오를수록 시장 흐름을 판단하는 지표 간 차이가 커지면서, 수요자와 정책 담당자가 주택시장 상황을 해석할 때 혼선이 생길 수 있다는 점이 부각된다. 공공과 민간 통계가 각각 다른 방식으로 시장을 보여주는 만큼, 서울 아파트 가격 흐름을 볼 때 단일 지표보다 통계 간 차이를 함께 확인할 필요가 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Seoul Apartment Data Gap Widens as Home Prices Rise, Public and Private Indicators Diverge",
+      "excerpt": "Public and private housing-market statistics have recently diverged quickly around Seoul apartments, even though both examined tens of thousands of samples over similar periods.",
+      "body": "The gap between public and private statistics used to assess the housing market has recently widened rapidly, especially for Seoul apartments. Over similar periods, institutions examined tens of thousands of samples covering market prices and asking prices, but the results for Seoul differed by organization. As home prices rise, the widening gap between indicators used to read market trends may create confusion for buyers and policy officials interpreting housing conditions. Because public and private statistics each show the market through different measures, Seoul apartment price trends need to be reviewed with attention to the differences between indicators rather than relying on a single figure. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "ソウルマンション統計格差が拡大、住宅価格上昇で公的・民間指標にずれ",
+      "excerpt": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に広がり、同様の期間の多数標本調査でも結果が分かれた。",
+      "body": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に拡大している。同様の期間に数万件の標本を基に相場と売り出し価格を調査したにもかかわらず、ソウル地域では機関ごとに結果が異なった。住宅価格が上がるほど市場の流れを判断する指標間の差が大きくなり、需要者や政策担当者が住宅市場の状況を解釈する際に混乱が生じる可能性が浮き彫りになっている。公的統計と民間統計がそれぞれ異なる形で市場を示すため、ソウルのマンション価格を見る際は単一指標ではなく統計間の差も確認する必要がある。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "首尔公寓统计差距扩大，房价上涨期公共与民间指标分化",
+      "excerpt": "近期用于诊断住房市场的公共和民间机构统计差距迅速扩大，尤其集中在首尔公寓；即使在相近期间调查数万个样本，市价和挂牌价结果仍不一致。",
+      "body": "近期，用于诊断住房市场的公共机构与民间机构之间的统计差距正在迅速扩大，尤其体现在首尔公寓。相关机构在相近期间以数万个样本为基础调查市价和挂牌价，但首尔地区的结果因机构而异。随着房价上涨，用于判断市场走势的指标之间差异扩大，购房者和政策负责人在解读住房市场状况时可能出现混乱。由于公共和民间统计分别以不同方式呈现市场，在观察首尔公寓价格走势时，有必要同时关注统计之间的差异，而不是只依赖单一指标。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Brecha estadística en apartamentos de Seúl crece mientras suben los precios de la vivienda",
+      "excerpt": "Las estadísticas públicas y privadas usadas para diagnosticar el mercado residencial se han separado con rapidez en Seúl, pese a encuestas de decenas de miles de muestras en periodos similares.",
+      "body": "La brecha entre las estadísticas de organismos públicos y privados usadas para evaluar el mercado de la vivienda se ha ampliado rápidamente en los últimos tiempos, sobre todo en los apartamentos de Seúl. En periodos similares se analizaron decenas de miles de muestras sobre precios de mercado y precios de oferta, pero los resultados en Seúl variaron según la institución. A medida que suben los precios de la vivienda, la diferencia entre indicadores para leer la tendencia del mercado puede generar confusión entre compradores y responsables de política pública. Dado que las estadísticas públicas y privadas muestran el mercado de formas distintas, al revisar los precios de apartamentos en Seúl conviene observar también las diferencias entre indicadores, no solo una cifra aislada. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Diferença nas estatísticas de apartamentos em Seul aumenta com alta dos imóveis",
+      "excerpt": "As estatísticas públicas e privadas usadas para avaliar o mercado habitacional passaram a divergir rapidamente em Seul, embora tenham analisado dezenas de milhares de amostras em períodos semelhantes.",
+      "body": "A diferença entre estatísticas de órgãos públicos e instituições privadas usadas para diagnosticar o mercado habitacional vem aumentando rapidamente, especialmente nos apartamentos de Seul. Em períodos semelhantes, foram pesquisadas dezenas de milhares de amostras sobre preços de mercado e preços pedidos, mas os resultados para Seul variaram conforme a instituição. À medida que os preços dos imóveis sobem, a diferença entre indicadores usados para interpretar a tendência do mercado pode causar confusão entre compradores e formuladores de políticas. Como as estatísticas públicas e privadas mostram o mercado de maneiras diferentes, a leitura dos preços dos apartamentos em Seul deve considerar também a distância entre os indicadores, e não apenas um único número. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Statistiklücke bei Seouler Wohnungen wächst, öffentliche und private Daten driften auseinander",
+      "excerpt": "Öffentliche und private Statistiken zur Bewertung des Wohnungsmarkts weichen zuletzt rund um Seouler Apartments rasch stärker voneinander ab, obwohl ähnliche Zeiträume und zehntausende Stichproben untersucht wurden.",
+      "body": "Die Kluft zwischen öffentlichen und privaten Statistiken zur Einschätzung des Wohnungsmarkts hat sich zuletzt schnell vergrößert, vor allem bei Apartments in Seoul. In ähnlichen Zeiträumen wurden zehntausende Stichproben zu Marktpreisen und Angebotspreisen ausgewertet, doch die Ergebnisse für Seoul fielen je nach Institution unterschiedlich aus. Mit steigenden Immobilienpreisen wächst damit auch der Abstand zwischen Indikatoren, die zur Beurteilung des Marktverlaufs genutzt werden. Das kann bei Käufern und politischen Entscheidungsträgern zu Unsicherheit bei der Einordnung der Wohnungsmarktlage führen. Da öffentliche und private Statistiken den Markt jeweils anders abbilden, sollten Preisentwicklungen bei Seouler Apartments nicht nur anhand einer einzelnen Kennzahl, sondern auch im Vergleich der Daten gelesen werden. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "L’écart statistique sur les appartements de Séoul s’élargit avec la hausse des prix",
+      "excerpt": "Les statistiques publiques et privées utilisées pour analyser le marché immobilier divergent rapidement autour des appartements de Séoul, malgré des enquêtes sur des dizaines de milliers d’échantillons à périodes comparables.",
+      "body": "L’écart entre les statistiques des organismes publics et privés utilisées pour diagnostiquer le marché du logement s’est récemment élargi rapidement, en particulier pour les appartements de Séoul. Sur des périodes similaires, des dizaines de milliers d’échantillons portant sur les prix de marché et les prix demandés ont été examinés, mais les résultats pour Séoul diffèrent selon les institutions. À mesure que les prix immobiliers montent, l’écart entre les indicateurs servant à lire la tendance du marché peut créer de la confusion chez les acheteurs et les responsables publics. Comme les statistiques publiques et privées présentent chacune le marché d’une manière différente, l’évolution des prix des appartements à Séoul doit être analysée en tenant compte des écarts entre indicateurs, plutôt qu’à partir d’un seul chiffre. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "اتساع فجوة إحصاءات شقق سيول مع صعود الأسعار وتباين المؤشرات العامة والخاصة",
+      "excerpt": "اتسعت مؤخرا الفجوة بين إحصاءات الجهات العامة والخاصة المستخدمة لتشخيص سوق الإسكان، خصوصا في شقق سيول، رغم اعتمادها على عشرات الآلاف من العينات خلال فترات متقاربة.",
+      "body": "اتسعت مؤخرا وبوتيرة سريعة الفجوة بين إحصاءات المؤسسات العامة والخاصة المستخدمة في تشخيص سوق الإسكان، ولا سيما في شقق سيول. فقد جرى خلال فترات متقاربة فحص عشرات الآلاف من العينات المتعلقة بأسعار السوق وأسعار العرض، لكن النتائج في منطقة سيول جاءت مختلفة من جهة إلى أخرى. ومع ارتفاع أسعار المساكن، تكبر الفروق بين المؤشرات المستخدمة لقراءة اتجاه السوق، ما قد يسبب التباسا لدى المشترين وصناع السياسات عند تفسير أوضاع سوق الإسكان. وبما أن الإحصاءات العامة والخاصة تعرض السوق بطرق مختلفة، فإن متابعة أسعار شقق سيول تحتاج إلى النظر في الفروق بين المؤشرات، لا الاعتماد على رقم واحد فقط. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "सियोल अपार्टमेंट आंकड़ों की खाई बढ़ी, घरों की कीमत चढ़ने पर संकेतक अलग",
+      "excerpt": "आवास बाजार का आकलन करने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में सियोल अपार्टमेंट को लेकर तेजी से अंतर बढ़ा है, जबकि समान अवधि में हजारों नमूनों पर जांच हुई।",
+      "body": "आवास बाजार का आकलन करने के लिए इस्तेमाल होने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में तेजी से अंतर बढ़ रहा है, खासकर सियोल के अपार्टमेंट बाजार में। समान अवधि में दसियों हजार नमूनों के आधार पर बाजार भाव और मांगी गई कीमतों की जांच की गई, फिर भी सियोल क्षेत्र के नतीजे संस्थान के अनुसार अलग-अलग रहे। जैसे-जैसे घरों की कीमतें बढ़ती हैं, बाजार की दिशा समझने वाले संकेतकों के बीच अंतर बड़ा होता है, जिससे खरीदारों और नीति अधिकारियों को आवास बाजार की स्थिति समझने में भ्रम हो सकता है। सार्वजनिक और निजी आंकड़े बाजार को अलग-अलग तरीके से दिखाते हैं, इसलिए सियोल अपार्टमेंट कीमतों को देखते समय एक ही संकेतक पर निर्भर रहने के बजाय आंकड़ों के बीच अंतर भी देखना जरूरी है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Kesenjangan Statistik Apartemen Seoul Melebar Saat Harga Rumah Naik",
+      "excerpt": "Statistik lembaga publik dan swasta untuk membaca pasar perumahan belakangan cepat melebar di apartemen Seoul, meski sama-sama memakai puluhan ribu sampel pada periode serupa.",
+      "body": "Kesenjangan antara statistik lembaga publik dan swasta yang digunakan untuk mendiagnosis pasar perumahan belakangan ini melebar cepat, terutama pada apartemen di Seoul. Dalam periode yang serupa, puluhan ribu sampel mengenai harga pasar dan harga penawaran diperiksa, tetapi hasil untuk wilayah Seoul berbeda menurut lembaga. Saat harga rumah naik, perbedaan antarsindikator untuk menilai arah pasar ikut membesar, sehingga pembeli dan pembuat kebijakan dapat mengalami kebingungan saat menafsirkan kondisi pasar perumahan. Karena statistik publik dan swasta menampilkan pasar dengan cara berbeda, tren harga apartemen Seoul perlu dilihat bersama selisih antarindikator, bukan hanya melalui satu angka. Sumber: mk.co.kr"
+    }
+  }
+}

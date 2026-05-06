@@ -1,5 +1,230 @@
 [
   {
+    "id": "f45176fd1706",
+    "slug": "자산-9조-돌파-라인그룹-대기업-반열-올랐다-557756",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T17:28:25.223Z",
+    "updatedAt": "2026-05-06T17:28:25.223Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036086",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036086",
+    "titleFingerprint": "ef41d32c6357b38b19516e3c722b3016c36d2379",
+    "dedupKeys": [
+      "f45176fd170642a381b9b5a84d5cdc6a8f6afcbc",
+      "ef41d32c6357b38b19516e3c722b3016c36d2379",
+      "921dfce947280666ffaa222dc8369923e80367c9"
+    ],
+    "imageUrl": "/images/articles/f45176fd1706.jpg",
+    "i18n": {
+      "ko": {
+        "title": "라인그룹 자산 9조4000억원 돌파, 지역 건설사서 대기업 반열로",
+        "excerpt": "라인그룹이 자산 9조4000억원 규모로 성장하며 공정거래위원회 발표 기준 대기업 반열에 올랐다. 지역 건설사로 출발한 지 40여 년 만의 변화다.",
+        "body": "라인그룹이 자산 9조4000억원 규모로 성장하며 대기업 반열에 올랐다. 5일 부동산업계에 따르면 공정거래위원회가 발표한 자료에서 라인그룹은 자산 규모 9조4000억원을 기록한 것으로 전해졌다. 지역 건설사로 출발한 지 40여 년 만에 이룬 성장이다. 이번 결과는 라인그룹이 지역 기반 건설사에서 자산 규모를 갖춘 기업집단으로 확대됐음을 보여준다. 부동산업계는 공정거래위원회 발표를 통해 확인된 자산 규모와 기업 위상 변화에 주목하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Line Group’s Assets Top 9.4 Trillion Won, Entering Big-Business Ranks",
+        "excerpt": "Line Group has grown to 9.4 trillion won in assets and entered the ranks of major business groups under the Fair Trade Commission’s announcement, about 40 years after starting as a regional builder.",
+        "body": "Line Group has entered the ranks of major business groups after expanding its assets to 9.4 trillion won. According to the real estate industry on the 5th, Line Group was reported to have posted assets of 9.4 trillion won in data released by the Fair Trade Commission. The milestone comes more than 40 years after the company began as a regional construction firm. The result shows Line Group’s growth from a locally based builder into a business group with significant asset scale. The real estate industry is watching the asset figure and the change in corporate status confirmed through the Fair Trade Commission announcement. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ライン・グループ資産9兆4000億ウォン突破、地域建設会社から大企業へ",
+        "excerpt": "ライン・グループは資産9兆4000億ウォン規模に成長し、公正取引委員会の発表基準で大企業の仲間入りを果たした。地域建設会社として出発してから約40年後の変化だ。",
+        "body": "ライン・グループが資産9兆4000億ウォン規模に成長し、大企業の仲間入りを果たした。5日、不動産業界によると、公正取引委員会が発表した資料でライン・グループは資産規模9兆4000億ウォンを記録したと伝えられた。地域建設会社として出発してから40年以上を経て達成した成長だ。今回の結果は、ライン・グループが地域基盤の建設会社から資産規模を備えた企業集団へ拡大したことを示している。不動産業界は、公正取引委員会の発表で確認された資産規模と企業としての位置づけの変化に注目している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Line集团资产突破9.4万亿韩元，由地区建筑商跻身大企业行列",
+        "excerpt": "Line集团资产规模增至9.4万亿韩元，并按韩国公平交易委员会发布标准进入大企业行列。这是其从地区建筑公司起步约40年后的变化。",
+        "body": "Line集团资产规模增至9.4万亿韩元，跻身大企业行列。据房地产行业5日消息，在韩国公平交易委员会发布的资料中，Line集团资产规模被披露为9.4万亿韩元。这是其作为地区建筑公司起步40多年后取得的增长。此次结果显示，Line集团已从以地区为基础的建筑公司，扩大为具备相当资产规模的企业集团。房地产行业正关注通过公平交易委员会发布资料确认的资产规模，以及企业地位的变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Line Group supera 9,4 billones de wones en activos y entra entre grandes empresas",
+        "excerpt": "Line Group creció hasta 9,4 billones de wones en activos y entró en la categoría de grandes grupos según la Comisión de Comercio Justo, unos 40 años después de nacer como constructora regional.",
+        "body": "Line Group entró en la categoría de grandes grupos empresariales tras elevar sus activos a 9,4 billones de wones. Según la industria inmobiliaria el día 5, los datos publicados por la Comisión de Comercio Justo indicaron que Line Group registró activos por 9,4 billones de wones. El crecimiento llega más de 40 años después de que la compañía comenzara como una constructora regional. El resultado muestra que Line Group pasó de ser una empresa constructora de base local a un grupo empresarial con una escala relevante de activos. El sector inmobiliario observa la cifra de activos y el cambio de posición corporativa confirmado por la comisión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Line Group supera 9,4 trilhões de wons em ativos e entra no grupo das grandes empresas",
+        "excerpt": "O Line Group cresceu para 9,4 trilhões de wons em ativos e passou a integrar o grupo de grandes empresas segundo a Comissão de Comércio Justo, cerca de 40 anos após nascer como construtora regional.",
+        "body": "O Line Group passou a integrar o grupo de grandes empresas ao ampliar seus ativos para 9,4 trilhões de wons. Segundo o setor imobiliário no dia 5, dados divulgados pela Comissão de Comércio Justo apontaram que o Line Group registrou ativos de 9,4 trilhões de wons. O marco ocorre mais de 40 anos depois de a empresa começar como uma construtora regional. O resultado mostra a expansão do Line Group de uma construtora de base local para um grupo empresarial com escala relevante de ativos. O setor imobiliário acompanha o valor dos ativos e a mudança de posição corporativa confirmados pelo anúncio da comissão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Line Group knackt 9,4 Billionen Won Vermögen und steigt in die Großunternehmensklasse auf",
+        "excerpt": "Die Line Group ist auf 9,4 Billionen Won Vermögen gewachsen und zählt nach Angaben der Fair Trade Commission nun zu den großen Unternehmensgruppen, rund 40 Jahre nach dem Start als regionaler Baukonzern.",
+        "body": "Die Line Group ist mit einem Vermögen von 9,4 Billionen Won in die Reihe großer Unternehmensgruppen aufgestiegen. Nach Angaben der Immobilienbranche vom 5. geht aus den von der Fair Trade Commission veröffentlichten Daten hervor, dass die Line Group ein Vermögen von 9,4 Billionen Won erreichte. Der Schritt erfolgt mehr als 40 Jahre nach dem Start als regionales Bauunternehmen. Das Ergebnis zeigt den Wandel der Line Group von einem lokal verankerten Bauunternehmen zu einer Unternehmensgruppe mit erheblicher Vermögensgröße. Die Immobilienbranche achtet nun auf die bestätigte Vermögenszahl und die veränderte Unternehmensstellung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Line Group dépasse 9 400 milliards de wons d’actifs et rejoint les grands groupes",
+        "excerpt": "Line Group a porté ses actifs à 9 400 milliards de wons et rejoint la catégorie des grands groupes selon la Commission du commerce équitable, environ 40 ans après ses débuts comme constructeur régional.",
+        "body": "Line Group a rejoint la catégorie des grands groupes d’entreprises après avoir porté ses actifs à 9 400 milliards de wons. Selon le secteur immobilier le 5, les données publiées par la Commission du commerce équitable indiquent que Line Group a enregistré 9 400 milliards de wons d’actifs. Cette étape intervient plus de 40 ans après ses débuts comme entreprise de construction régionale. Le résultat montre que Line Group est passé d’un constructeur à base locale à un groupe d’entreprises doté d’une taille d’actifs notable. Le secteur immobilier suit le montant confirmé des actifs et l’évolution du statut de l’entreprise. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "مجموعة لاين تتجاوز أصولها 9.4 تريليون وون وتنضم إلى فئة الشركات الكبرى",
+        "excerpt": "نمت مجموعة لاين إلى أصول بقيمة 9.4 تريليون وون ودخلت فئة مجموعات الأعمال الكبرى وفق إعلان لجنة التجارة العادلة، بعد نحو 40 عاما من انطلاقها كشركة بناء إقليمية.",
+        "body": "دخلت مجموعة لاين فئة مجموعات الأعمال الكبرى بعدما ارتفع حجم أصولها إلى 9.4 تريليون وون. ووفقا لقطاع العقارات في اليوم الخامس، أظهرت البيانات التي أعلنتها لجنة التجارة العادلة أن مجموعة لاين سجلت أصولا بقيمة 9.4 تريليون وون. ويأتي هذا الإنجاز بعد أكثر من 40 عاما على انطلاق الشركة كشركة بناء إقليمية. وتوضح النتيجة أن مجموعة لاين توسعت من شركة بناء محلية الأساس إلى مجموعة أعمال ذات حجم أصول ملحوظ. ويركز قطاع العقارات على حجم الأصول المؤكد من خلال إعلان لجنة التجارة العادلة وعلى تغير مكانة الشركة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन पार, क्षेत्रीय बिल्डर से बड़े समूह तक",
+        "excerpt": "लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन तक बढ़ी और फेयर ट्रेड कमीशन की घोषणा के आधार पर यह बड़े कारोबारी समूहों की श्रेणी में आ गया, क्षेत्रीय निर्माण कंपनी के रूप में शुरुआत के करीब 40 साल बाद।",
+        "body": "लाइन ग्रुप 9.4 ट्रिलियन वॉन की संपत्ति के साथ बड़े कारोबारी समूहों की श्रेणी में आ गया है। रियल एस्टेट उद्योग के अनुसार, 5 तारीख को फेयर ट्रेड कमीशन द्वारा जारी आंकड़ों में लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन बताई गई। यह वृद्धि उस कंपनी के लिए है जिसने 40 साल से अधिक पहले एक क्षेत्रीय निर्माण कंपनी के रूप में शुरुआत की थी। यह परिणाम दिखाता है कि लाइन ग्रुप स्थानीय आधार वाली निर्माण कंपनी से पर्याप्त संपत्ति आकार वाले कारोबारी समूह में विस्तारित हुआ है। रियल एस्टेट उद्योग आयोग की घोषणा से पुष्टि हुई संपत्ति और कंपनी की स्थिति में बदलाव पर ध्यान दे रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Aset Line Group Tembus 9,4 Triliun Won, Masuk Jajaran Perusahaan Besar",
+        "excerpt": "Line Group tumbuh menjadi 9,4 triliun won dalam aset dan masuk jajaran grup usaha besar berdasarkan pengumuman Komisi Perdagangan Adil, sekitar 40 tahun setelah bermula sebagai kontraktor regional.",
+        "body": "Line Group masuk jajaran grup usaha besar setelah asetnya tumbuh menjadi 9,4 triliun won. Menurut industri properti pada tanggal 5, data yang diumumkan Komisi Perdagangan Adil menunjukkan Line Group mencatat aset sebesar 9,4 triliun won. Pencapaian ini terjadi lebih dari 40 tahun setelah perusahaan tersebut bermula sebagai perusahaan konstruksi regional. Hasil ini menunjukkan Line Group telah berkembang dari kontraktor berbasis daerah menjadi grup usaha dengan skala aset yang signifikan. Industri properti memperhatikan angka aset dan perubahan posisi perusahaan yang dikonfirmasi melalui pengumuman komisi tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "13b4c17df89c",
+    "slug": "서울-지하철역-주변-개발-공공기여-30로-낮춘다-761480",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T17:27:23.252Z",
+    "updatedAt": "2026-05-06T17:27:23.252Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036085",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036085",
+    "titleFingerprint": "9fc5ea4c0a45b070a5bbbecf15ca2f9922f7df8d",
+    "dedupKeys": [
+      "13b4c17df89c559917a8a84dc03c939ecb1b67c1",
+      "9fc5ea4c0a45b070a5bbbecf15ca2f9922f7df8d",
+      "4d8494f4bdc01bcdede5838340f3c4eea21ad556"
+    ],
+    "imageUrl": "/images/articles/13b4c17df89c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 역세권 개발 규제 완화…공공기여 30%로 낮춰 직·주·락 거점 조성",
+        "excerpt": "서울시는 지난 3월 발표한 역세권 활성화 방안의 후속 조치로, 지하철역 주변 개발의 공공기여 부담을 30%로 낮춰 일자리·주거·여가가 결합된 생활 거점을 조성한다.",
+        "body": "서울시가 지하철역 주변 개발 규제를 완화해 역세권을 단순한 교통 거점에서 일자리와 주거, 여가 기능이 결합된 ‘직·주·락’ 생활 거점으로 바꾸는 방안을 추진한다. 시는 지난 3월 발표한 ‘역세권’ 관련 활성화 방안의 연장선에서 공공기여 부담을 30%로 낮추는 방향을 제시했다. 이번 조치는 역 주변 개발의 부담을 줄여 복합 기능을 갖춘 생활권 조성을 유도하려는 취지다. 규제 완화가 적용되면 역세권 개발 사업에서 주거와 업무, 여가 기능을 함께 배치하는 계획이 더 활발해질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Eases Station-Area Development Rules, Cutting Public Contribution to 30%",
+        "excerpt": "Seoul is following up on its March station-area plan by lowering public contribution requirements to 30% to turn subway areas into mixed hubs for jobs, housing and leisure.",
+        "body": "The Seoul Metropolitan Government is moving to ease development rules around subway stations, aiming to transform station areas from simple transport nodes into “work-live-play” 생활 hubs combining jobs, housing and leisure. As a follow-up to the station-area revitalization plan announced in March, the city presented a direction to lower the public contribution burden to 30%. The measure is intended to reduce the burden on development near stations and encourage mixed-use neighborhoods. If applied, station-area projects may more actively include residential, business and leisure functions in a single plan. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル駅勢圏開発の規制緩和へ、公共貢献30％に引き下げ生活拠点化",
+        "excerpt": "ソウル市は3月に発表した駅勢圏活性化策の後続措置として、地下鉄駅周辺開発の公共貢献負担を30％に下げ、職住遊が結合した生活拠点づくりを進める。",
+        "body": "ソウル市は、地下鉄駅周辺の開発規制を緩和し、駅勢圏を単なる交通拠点から、雇用・住居・余暇機能が結合した「職・住・楽」の生活拠点へ転換する方針を進める。市は3月に発表した駅勢圏関連の活性化策の延長線上で、公共貢献負担を30％に引き下げる方向を示した。今回の措置は、駅周辺開発の負担を軽減し、複合機能を備えた生活圏の形成を促す狙いがある。規制緩和が適用されれば、駅勢圏開発事業で住宅、業務、余暇機能を同時に配置する計画がより活発になる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔放宽地铁站周边开发限制，公共贡献降至30%打造职住乐据点",
+        "excerpt": "首尔市作为3月发布的站区活化方案后续措施，将地铁站周边开发的公共贡献负担降至30%，推动就业、居住、休闲结合的生活据点建设。",
+        "body": "首尔市正推进放宽地铁站周边开发限制，计划把站区从单纯交通节点转变为就业、居住和休闲功能结合的“职住乐”生活据点。首尔市在3月发布的站区相关活化方案基础上，提出将公共贡献负担降至30%的方向。此举旨在降低车站周边开发负担，引导形成具备复合功能的生活圈。若相关放宽措施适用，站区开发项目中同时配置住宅、办公和休闲功能的规划可能更加活跃。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl flexibiliza el desarrollo junto al metro y baja la contribución pública al 30%",
+        "excerpt": "Seúl aplicará medidas posteriores al plan de marzo para reducir al 30% la contribución pública en desarrollos cerca del metro y crear núcleos de empleo, vivienda y ocio.",
+        "body": "El Gobierno Metropolitano de Seúl avanza en la flexibilización de las normas de desarrollo alrededor de las estaciones de metro para transformar esas zonas, hoy centradas en el transporte, en núcleos de vida que combinen empleo, vivienda y ocio. Como continuación del plan de revitalización de áreas de estación anunciado en marzo, la ciudad planteó reducir la carga de contribución pública al 30%. La medida busca aliviar el peso de los desarrollos cerca de las estaciones e inducir barrios con funciones mixtas. Si se aplica la flexibilización, los proyectos en áreas de estación podrían incorporar con más actividad usos residenciales, laborales y de ocio. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seul flexibiliza desenvolvimento perto do metrô e reduz contribuição pública a 30%",
+        "excerpt": "Seul dará sequência ao plano de março para áreas de estação ao reduzir para 30% a contribuição pública em projetos próximos ao metrô, criando polos de trabalho, moradia e lazer.",
+        "body": "O Governo Metropolitano de Seul está avançando na flexibilização das regras de desenvolvimento ao redor das estações de metrô para transformar essas áreas, hoje vistas como simples pontos de transporte, em centros de vida que combinem trabalho, moradia e lazer. Como desdobramento do plano de revitalização de áreas de estação anunciado em março, a cidade apresentou a diretriz de reduzir a carga de contribuição pública para 30%. A medida busca diminuir o peso dos projetos próximos às estações e incentivar bairros de uso misto. Se aplicada, a flexibilização pode tornar mais ativos os planos que reúnem funções residenciais, comerciais e de lazer. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul lockert Entwicklung an U-Bahn-Stationen und senkt öffentlichen Beitrag auf 30%",
+        "excerpt": "Seoul setzt seinen im März vorgestellten Plan für Stationsgebiete fort und senkt die öffentliche Beitragslast auf 30%, um Zentren für Arbeit, Wohnen und Freizeit zu schaffen.",
+        "body": "Die Stadt Seoul will die Entwicklungsregeln rund um U-Bahn-Stationen lockern, um Stationsgebiete von reinen Verkehrsknotenpunkten zu Lebenszentren mit Arbeit, Wohnen und Freizeit zu entwickeln. Im Anschluss an den im März vorgestellten Aktivierungsplan für Stationsgebiete legte die Stadt die Richtung fest, die öffentliche Beitragslast auf 30% zu senken. Die Maßnahme soll die Belastung bei Projekten in Bahnhofsnähe verringern und die Bildung gemischt genutzter Lebensräume fördern. Wird die Lockerung angewendet, könnten Entwicklungsprojekte in Stationsgebieten häufiger Wohn-, Arbeits- und Freizeitfunktionen gemeinsam vorsehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul assouplit le développement près du métro et abaisse la contribution publique à 30%",
+        "excerpt": "Séoul prolonge son plan de mars pour les quartiers de gare en réduisant à 30% la contribution publique des projets autour du métro afin de créer des pôles emploi-logement-loisirs.",
+        "body": "La municipalité de Séoul avance vers un assouplissement des règles de développement autour des stations de métro afin de transformer ces secteurs, au-delà de simples pôles de transport, en lieux de vie combinant emploi, logement et loisirs. Dans le prolongement du plan de revitalisation des quartiers de gare annoncé en mars, la ville a présenté une orientation visant à ramener la charge de contribution publique à 30%. Cette mesure vise à réduire le poids des projets près des stations et à encourager des quartiers à fonctions mixtes. Si elle est appliquée, les projets en zones de gare pourraient intégrer plus activement logement, activités économiques et loisirs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيول تخفف قواعد التطوير حول محطات المترو وتخفض المساهمة العامة إلى 30%",
+        "excerpt": "تتابع سيول خطة مناطق المحطات التي أعلنتها في مارس عبر خفض عبء المساهمة العامة إلى 30% في تطوير محيط المترو لإنشاء مراكز تجمع العمل والسكن والترفيه.",
+        "body": "تتجه حكومة سيول إلى تخفيف قواعد التطوير حول محطات المترو بهدف تحويل مناطق المحطات من نقاط نقل فقط إلى مراكز معيشية تجمع بين العمل والسكن والترفيه. وتأتي الخطوة امتدادا لخطة تنشيط مناطق المحطات التي أعلنتها المدينة في مارس، إذ طرحت اتجاها لخفض عبء المساهمة العامة إلى 30%. وتهدف هذه الإجراءات إلى تقليل أعباء التطوير قرب المحطات وتشجيع إنشاء أحياء ذات وظائف متعددة. وإذا طُبق التخفيف، فقد تصبح مشروعات تطوير مناطق المحطات أكثر نشاطا في الجمع بين الوظائف السكنية والتجارية والترفيهية ضمن خطة واحدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल मेट्रो स्टेशन क्षेत्रों में विकास नियम नरम, सार्वजनिक योगदान 30% होगा",
+        "excerpt": "सियोल ने मार्च में घोषित स्टेशन-क्षेत्र योजना की अगली कड़ी में मेट्रो स्टेशन आसपास विकास के सार्वजनिक योगदान बोझ को 30% करने और काम, आवास व अवकाश वाले केंद्र बनाने की दिशा रखी।",
+        "body": "सियोल महानगर सरकार मेट्रो स्टेशनों के आसपास विकास नियमों में ढील देने की दिशा में आगे बढ़ रही है, ताकि स्टेशन क्षेत्र केवल परिवहन केंद्र न रहकर काम, आवास और अवकाश को जोड़ने वाले जीवन केंद्र बन सकें। शहर ने मार्च में घोषित स्टेशन-क्षेत्र सक्रियण योजना के विस्तार के रूप में सार्वजनिक योगदान का बोझ 30% तक घटाने की दिशा पेश की। इस कदम का उद्देश्य स्टेशन के आसपास विकास की बाधा कम करना और मिश्रित कार्यों वाले जीवन क्षेत्र को प्रोत्साहित करना है। यदि यह ढील लागू होती है, तो स्टेशन-क्षेत्र विकास परियोजनाओं में आवासीय, व्यावसायिक और अवकाश सुविधाओं को साथ रखने की योजनाएं अधिक सक्रिय हो सकती हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seoul Longgarkan Pengembangan Area Stasiun, Kontribusi Publik Turun Jadi 30%",
+        "excerpt": "Seoul menindaklanjuti rencana area stasiun yang diumumkan Maret dengan menurunkan beban kontribusi publik menjadi 30% untuk membentuk pusat kerja, hunian, dan rekreasi.",
+        "body": "Pemerintah Metropolitan Seoul bergerak melonggarkan aturan pengembangan di sekitar stasiun kereta bawah tanah untuk mengubah area stasiun dari sekadar simpul transportasi menjadi pusat kehidupan yang memadukan pekerjaan, hunian, dan rekreasi. Sebagai kelanjutan dari rencana aktivasi area stasiun yang diumumkan pada Maret, kota ini mengajukan arah penurunan beban kontribusi publik menjadi 30%. Langkah ini bertujuan mengurangi beban pengembangan di sekitar stasiun dan mendorong terbentuknya kawasan hidup multifungsi. Jika pelonggaran diterapkan, proyek pengembangan area stasiun dapat lebih aktif menggabungkan fungsi hunian, bisnis, dan rekreasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "57029ac18b7a",
+    "slug": "집값-오를수록-서울아파트-통계-격차-확대-267281",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T17:26:21.190Z",
+    "updatedAt": "2026-05-06T17:26:21.190Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036087",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036087",
+    "titleFingerprint": "90848b732d3ed0afc3fdae68b7786d58daddf205",
+    "dedupKeys": [
+      "57029ac18b7a223c2716547921e4cf9d075aa09f",
+      "90848b732d3ed0afc3fdae68b7786d58daddf205",
+      "3dbd8f2529e8150a5eb94272103a97d406694180"
+    ],
+    "imageUrl": "/images/articles/57029ac18b7a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 통계 격차 확대, 집값 상승기에 공공·민간 지표 엇갈려",
+        "excerpt": "최근 주택시장 진단에 쓰이는 공공·민간 통계가 서울 아파트를 중심으로 빠르게 벌어지며, 같은 기간 수만 개 표본 조사에도 시세·호가 결과가 달라졌다.",
+        "body": "최근 주택시장을 진단하는 공공기관과 민간기관의 통계 격차가 서울 아파트를 중심으로 빠르게 확대되고 있다. 비슷한 기간에 수만 개 표본을 바탕으로 시세와 호가를 조사했지만, 서울지역에서는 기관별 결과가 서로 다르게 나타났다. 집값이 오를수록 시장 흐름을 판단하는 지표 간 차이가 커지면서, 수요자와 정책 담당자가 주택시장 상황을 해석할 때 혼선이 생길 수 있다는 점이 부각된다. 공공과 민간 통계가 각각 다른 방식으로 시장을 보여주는 만큼, 서울 아파트 가격 흐름을 볼 때 단일 지표보다 통계 간 차이를 함께 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Data Gap Widens as Home Prices Rise, Public and Private Indicators Diverge",
+        "excerpt": "Public and private housing-market statistics have recently diverged quickly around Seoul apartments, even though both examined tens of thousands of samples over similar periods.",
+        "body": "The gap between public and private statistics used to assess the housing market has recently widened rapidly, especially for Seoul apartments. Over similar periods, institutions examined tens of thousands of samples covering market prices and asking prices, but the results for Seoul differed by organization. As home prices rise, the widening gap between indicators used to read market trends may create confusion for buyers and policy officials interpreting housing conditions. Because public and private statistics each show the market through different measures, Seoul apartment price trends need to be reviewed with attention to the differences between indicators rather than relying on a single figure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルマンション統計格差が拡大、住宅価格上昇で公的・民間指標にずれ",
+        "excerpt": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に広がり、同様の期間の多数標本調査でも結果が分かれた。",
+        "body": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に拡大している。同様の期間に数万件の標本を基に相場と売り出し価格を調査したにもかかわらず、ソウル地域では機関ごとに結果が異なった。住宅価格が上がるほど市場の流れを判断する指標間の差が大きくなり、需要者や政策担当者が住宅市場の状況を解釈する際に混乱が生じる可能性が浮き彫りになっている。公的統計と民間統計がそれぞれ異なる形で市場を示すため、ソウルのマンション価格を見る際は単一指標ではなく統計間の差も確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓统计差距扩大，房价上涨期公共与民间指标分化",
+        "excerpt": "近期用于诊断住房市场的公共和民间机构统计差距迅速扩大，尤其集中在首尔公寓；即使在相近期间调查数万个样本，市价和挂牌价结果仍不一致。",
+        "body": "近期，用于诊断住房市场的公共机构与民间机构之间的统计差距正在迅速扩大，尤其体现在首尔公寓。相关机构在相近期间以数万个样本为基础调查市价和挂牌价，但首尔地区的结果因机构而异。随着房价上涨，用于判断市场走势的指标之间差异扩大，购房者和政策负责人在解读住房市场状况时可能出现混乱。由于公共和民间统计分别以不同方式呈现市场，在观察首尔公寓价格走势时，有必要同时关注统计之间的差异，而不是只依赖单一指标。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Brecha estadística en apartamentos de Seúl crece mientras suben los precios de la vivienda",
+        "excerpt": "Las estadísticas públicas y privadas usadas para diagnosticar el mercado residencial se han separado con rapidez en Seúl, pese a encuestas de decenas de miles de muestras en periodos similares.",
+        "body": "La brecha entre las estadísticas de organismos públicos y privados usadas para evaluar el mercado de la vivienda se ha ampliado rápidamente en los últimos tiempos, sobre todo en los apartamentos de Seúl. En periodos similares se analizaron decenas de miles de muestras sobre precios de mercado y precios de oferta, pero los resultados en Seúl variaron según la institución. A medida que suben los precios de la vivienda, la diferencia entre indicadores para leer la tendencia del mercado puede generar confusión entre compradores y responsables de política pública. Dado que las estadísticas públicas y privadas muestran el mercado de formas distintas, al revisar los precios de apartamentos en Seúl conviene observar también las diferencias entre indicadores, no solo una cifra aislada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Diferença nas estatísticas de apartamentos em Seul aumenta com alta dos imóveis",
+        "excerpt": "As estatísticas públicas e privadas usadas para avaliar o mercado habitacional passaram a divergir rapidamente em Seul, embora tenham analisado dezenas de milhares de amostras em períodos semelhantes.",
+        "body": "A diferença entre estatísticas de órgãos públicos e instituições privadas usadas para diagnosticar o mercado habitacional vem aumentando rapidamente, especialmente nos apartamentos de Seul. Em períodos semelhantes, foram pesquisadas dezenas de milhares de amostras sobre preços de mercado e preços pedidos, mas os resultados para Seul variaram conforme a instituição. À medida que os preços dos imóveis sobem, a diferença entre indicadores usados para interpretar a tendência do mercado pode causar confusão entre compradores e formuladores de políticas. Como as estatísticas públicas e privadas mostram o mercado de maneiras diferentes, a leitura dos preços dos apartamentos em Seul deve considerar também a distância entre os indicadores, e não apenas um único número. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Statistiklücke bei Seouler Wohnungen wächst, öffentliche und private Daten driften auseinander",
+        "excerpt": "Öffentliche und private Statistiken zur Bewertung des Wohnungsmarkts weichen zuletzt rund um Seouler Apartments rasch stärker voneinander ab, obwohl ähnliche Zeiträume und zehntausende Stichproben untersucht wurden.",
+        "body": "Die Kluft zwischen öffentlichen und privaten Statistiken zur Einschätzung des Wohnungsmarkts hat sich zuletzt schnell vergrößert, vor allem bei Apartments in Seoul. In ähnlichen Zeiträumen wurden zehntausende Stichproben zu Marktpreisen und Angebotspreisen ausgewertet, doch die Ergebnisse für Seoul fielen je nach Institution unterschiedlich aus. Mit steigenden Immobilienpreisen wächst damit auch der Abstand zwischen Indikatoren, die zur Beurteilung des Marktverlaufs genutzt werden. Das kann bei Käufern und politischen Entscheidungsträgern zu Unsicherheit bei der Einordnung der Wohnungsmarktlage führen. Da öffentliche und private Statistiken den Markt jeweils anders abbilden, sollten Preisentwicklungen bei Seouler Apartments nicht nur anhand einer einzelnen Kennzahl, sondern auch im Vergleich der Daten gelesen werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’écart statistique sur les appartements de Séoul s’élargit avec la hausse des prix",
+        "excerpt": "Les statistiques publiques et privées utilisées pour analyser le marché immobilier divergent rapidement autour des appartements de Séoul, malgré des enquêtes sur des dizaines de milliers d’échantillons à périodes comparables.",
+        "body": "L’écart entre les statistiques des organismes publics et privés utilisées pour diagnostiquer le marché du logement s’est récemment élargi rapidement, en particulier pour les appartements de Séoul. Sur des périodes similaires, des dizaines de milliers d’échantillons portant sur les prix de marché et les prix demandés ont été examinés, mais les résultats pour Séoul diffèrent selon les institutions. À mesure que les prix immobiliers montent, l’écart entre les indicateurs servant à lire la tendance du marché peut créer de la confusion chez les acheteurs et les responsables publics. Comme les statistiques publiques et privées présentent chacune le marché d’une manière différente, l’évolution des prix des appartements à Séoul doit être analysée en tenant compte des écarts entre indicateurs, plutôt qu’à partir d’un seul chiffre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اتساع فجوة إحصاءات شقق سيول مع صعود الأسعار وتباين المؤشرات العامة والخاصة",
+        "excerpt": "اتسعت مؤخرا الفجوة بين إحصاءات الجهات العامة والخاصة المستخدمة لتشخيص سوق الإسكان، خصوصا في شقق سيول، رغم اعتمادها على عشرات الآلاف من العينات خلال فترات متقاربة.",
+        "body": "اتسعت مؤخرا وبوتيرة سريعة الفجوة بين إحصاءات المؤسسات العامة والخاصة المستخدمة في تشخيص سوق الإسكان، ولا سيما في شقق سيول. فقد جرى خلال فترات متقاربة فحص عشرات الآلاف من العينات المتعلقة بأسعار السوق وأسعار العرض، لكن النتائج في منطقة سيول جاءت مختلفة من جهة إلى أخرى. ومع ارتفاع أسعار المساكن، تكبر الفروق بين المؤشرات المستخدمة لقراءة اتجاه السوق، ما قد يسبب التباسا لدى المشترين وصناع السياسات عند تفسير أوضاع سوق الإسكان. وبما أن الإحصاءات العامة والخاصة تعرض السوق بطرق مختلفة، فإن متابعة أسعار شقق سيول تحتاج إلى النظر في الفروق بين المؤشرات، لا الاعتماد على رقم واحد فقط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट आंकड़ों की खाई बढ़ी, घरों की कीमत चढ़ने पर संकेतक अलग",
+        "excerpt": "आवास बाजार का आकलन करने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में सियोल अपार्टमेंट को लेकर तेजी से अंतर बढ़ा है, जबकि समान अवधि में हजारों नमूनों पर जांच हुई।",
+        "body": "आवास बाजार का आकलन करने के लिए इस्तेमाल होने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में तेजी से अंतर बढ़ रहा है, खासकर सियोल के अपार्टमेंट बाजार में। समान अवधि में दसियों हजार नमूनों के आधार पर बाजार भाव और मांगी गई कीमतों की जांच की गई, फिर भी सियोल क्षेत्र के नतीजे संस्थान के अनुसार अलग-अलग रहे। जैसे-जैसे घरों की कीमतें बढ़ती हैं, बाजार की दिशा समझने वाले संकेतकों के बीच अंतर बड़ा होता है, जिससे खरीदारों और नीति अधिकारियों को आवास बाजार की स्थिति समझने में भ्रम हो सकता है। सार्वजनिक और निजी आंकड़े बाजार को अलग-अलग तरीके से दिखाते हैं, इसलिए सियोल अपार्टमेंट कीमतों को देखते समय एक ही संकेतक पर निर्भर रहने के बजाय आंकड़ों के बीच अंतर भी देखना जरूरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kesenjangan Statistik Apartemen Seoul Melebar Saat Harga Rumah Naik",
+        "excerpt": "Statistik lembaga publik dan swasta untuk membaca pasar perumahan belakangan cepat melebar di apartemen Seoul, meski sama-sama memakai puluhan ribu sampel pada periode serupa.",
+        "body": "Kesenjangan antara statistik lembaga publik dan swasta yang digunakan untuk mendiagnosis pasar perumahan belakangan ini melebar cepat, terutama pada apartemen di Seoul. Dalam periode yang serupa, puluhan ribu sampel mengenai harga pasar dan harga penawaran diperiksa, tetapi hasil untuk wilayah Seoul berbeda menurut lembaga. Saat harga rumah naik, perbedaan antarsindikator untuk menilai arah pasar ikut membesar, sehingga pembeli dan pembuat kebijakan dapat mengalami kebingungan saat menafsirkan kondisi pasar perumahan. Karena statistik publik dan swasta menampilkan pasar dengan cara berbeda, tren harga apartemen Seoul perlu dilihat bersama selisih antarindikator, bukan hanya melalui satu angka. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bd35bb055b41",
     "slug": "경기인데-지역번호-02-자격있네집값-상승률-1위-찍은-이-동네-531554",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Oh Se-hoon Luncurkan Rapat Warga Soal Properti, Targetkan 130.000 Rumah Publik hingga 2031",
         "excerpt": "Wali Kota Seoul Oh Se-hoon meluncurkan ‘Rapat Warga Melawan Neraka Properti’ dan mengumumkan rencana penyediaan 130.000 rumah publik hingga 2031, menurut Chosun Ilbo.",
         "body": "Wali Kota Seoul Oh Se-hoon meluncurkan ‘Rapat Warga Melawan Neraka Properti’ dan menyatakan rencana untuk menyediakan 130.000 unit hunian publik hingga 2031.\n\nMenurut Chosun Ilbo, rapat ini diluncurkan sebagai wadah diskusi yang berpusat pada warga untuk merespons masalah properti. Angka utamanya adalah penyediaan 130.000 rumah publik hingga 2031, yang diajukan sebagai tanggapan atas ketidakstabilan hunian dan kekurangan pasokan.\n\nPengumuman ini diperkirakan akan meningkatkan perhatian terhadap kebijakan pasokan perumahan Seoul dan arah perluasan hunian publik. Bersamaan dengan peluncuran rapat, Oh menegaskan niatnya menangani masalah properti melalui target pasokan rumah publik.\n\nSumber: Chosun Ilbo"
-      }
-    }
-  },
-  {
-    "id": "82d54dfac711",
-    "slug": "오세훈-부동산-지옥-공세에-정원오-남-탓만-반복---머니투데이---머니투데이-827729",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:43:36.954Z",
-    "updatedAt": "2026-05-06T07:43:36.954Z",
-    "sourceName": "머니투데이",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94R3dqWDRtNi02R0lJZXk3MENETW0wWU1mVE9DR05MSHVuNC1PYllHWXlJS21rLU9xV25Cb1NYWkVoeGJfa0ZMWGxPeFZfNXdPRzFLUklhMU9XbUxmeDZpYkFhek1YbklYVnBYadIBckFVX3lxTE10aTczbFUyc0ZVVnZacFFrMWYwaFd6R3FCVHdSNWJRUWlZYzhRbTZVWUpaUXF1V2w2a1JQTFZ1SHVsZjNlV2lHNy1nUmJYZ2J2cmc1RWs0VndkYUtVNjh0NDU0VElNMmt5eDFWSmN1VE4xUQ?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94R3dqWDRtNi02R0lJZXk3MENETW0wWU1mVE9DR05MSHVuNC1PYllHWXlJS21rLU9xV25Cb1NYWkVoeGJfa0ZMWGxPeFZfNXdPRzFLUklhMU9XbUxmeDZpYkFhek1YbklYVnBYadIBckFVX3lxTE10aTczbFUyc0ZVVnZacFFrMWYwaFd6R3FCVHdSNWJRUWlZYzhRbTZVWUpaUXF1V2w2a1JQTFZ1SHVsZjNlV2lHNy1nUmJYZ2J2cmc1RWs0VndkYUtVNjh0NDU0VElNMmt5eDFWSmN1VE4xUQ?oc=5",
-    "titleFingerprint": "46408fb09853795b860adf051defcfd750fa9d1e",
-    "dedupKeys": [
-      "82d54dfac711ff7ec911df0624b317a5e64cf6fe",
-      "46408fb09853795b860adf051defcfd750fa9d1e",
-      "b41774fdd0bd43b0a5130898a256c4b803886ee4"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "오세훈 ‘부동산 지옥’ 공세에 정원오 ‘남 탓만 반복’ 맞불, 부동산 책임론 충돌",
-        "excerpt": "오세훈의 ‘부동산 지옥’ 공세에 정원오가 ‘남 탓만 반복한다’고 맞서며 부동산 책임론을 둘러싼 정치권 공방이 이어졌다고 머니투데이가 보도했다.",
-        "body": "오세훈의 ‘부동산 지옥’ 공세에 정원오가 ‘남 탓만 반복한다’고 맞서면서 부동산 문제를 둘러싼 책임론 공방이 불거졌다고 머니투데이가 보도했다. 이번 발언은 부동산 정책과 주거 문제를 놓고 양측이 책임 소재를 다투는 흐름 속에서 나왔다.\n\n보도에 따르면 핵심 쟁점은 ‘부동산 지옥’이라는 표현으로 제기된 비판과, 이에 대한 정원오의 반박이다. 정원오는 오세훈의 공세를 두고 문제 해결보다 책임 전가에 초점을 맞춘 발언이라는 취지로 ‘남 탓만 반복’한다고 비판했다.\n\n이번 공방은 부동산 민심과 정책 책임을 둘러싼 정치적 논쟁으로 이어질 가능성이 있다. 양측 발언은 향후 부동산 정책 평가와 책임론 논의에서 주요 쟁점으로 다뤄질 전망이다.\n출처: 머니투데이"
-      },
-      "en": {
-        "title": "Oh Se-hoon’s ‘Real Estate Hell’ Attack Meets Jung Won-oh’s ‘Blame-Shifting’ Rebuttal",
-        "excerpt": "Money Today reported that Jung Won-oh pushed back against Oh Se-hoon’s ‘real estate hell’ attack, accusing him of repeatedly blaming others in a dispute over real estate responsibility.",
-        "body": "Money Today reported that Jung Won-oh responded to Oh Se-hoon’s attack describing the situation as ‘real estate hell’ by saying Oh was ‘only repeating blame of others.’ The exchange highlighted a dispute over responsibility for real estate and housing issues.\n\nAccording to the report, the central issue was Oh’s criticism using the phrase ‘real estate hell’ and Jung’s direct rebuttal. Jung criticized the attack as focusing more on shifting responsibility than on solving the problem, using the phrase ‘only blaming others.’\n\nThe clash could continue as a political debate over public sentiment on real estate and accountability for policy outcomes. The remarks from both sides are expected to remain part of discussions over real estate policy evaluation and responsibility.\nSource: Money Today"
-      },
-      "ja": {
-        "title": "呉世勲氏の「不動産地獄」攻勢に鄭愿五氏が「責任転嫁の繰り返し」と反論",
-        "excerpt": "マネートゥデイは、呉世勲氏の「不動産地獄」攻勢に対し、鄭愿五氏が「他人のせいにするだけだ」と反論し、不動産責任論を巡る応酬が続いたと報じた。",
-        "body": "マネートゥデイは、呉世勲氏が「不動産地獄」と攻勢をかけたことに対し、鄭愿五氏が「他人のせいにすることを繰り返している」と反論し、不動産問題を巡る責任論争が浮上したと報じた。この発言は、不動産政策と住居問題をめぐって双方が責任の所在を争う流れの中で出た。\n\n報道によると、核心となる争点は「不動産地獄」という表現で提起された批判と、それに対する鄭氏の反論だ。鄭氏は呉氏の攻勢について、問題解決よりも責任転嫁に重点を置いた発言だとの趣旨で批判した。\n\n今回の応酬は、不動産を巡る世論と政策責任をめぐる政治的議論につながる可能性がある。双方の発言は今後、不動産政策の評価と責任論をめぐる議論で主要な争点として扱われる見通しだ。\n出典: マネートゥデイ"
-      },
-      "zh": {
-        "title": "吴世勋称“房地产地狱”遭郑愿五反击：只会反复归咎他人",
-        "excerpt": "《Money Today》报道称，针对吴世勋提出“房地产地狱”的攻势，郑愿五回应称其“只是在反复归咎他人”，围绕房地产责任的争论持续发酵。",
-        "body": "《Money Today》报道称，吴世勋以“房地产地狱”发起批评后，郑愿五回应称其“只是在反复归咎他人”，围绕房地产问题的责任争论随之浮现。这一表态出现在双方就房地产政策和居住问题责任归属展开交锋的背景下。\n\n据报道，核心争议在于吴世勋用“房地产地狱”一词提出的批评，以及郑愿五对此作出的反驳。郑愿五批评称，吴世勋的攻势重点并非解决问题，而是把责任推给他人。\n\n这场交锋可能继续发展为围绕房地产民意和政策责任的政治争论。双方发言预计将在今后房地产政策评价和责任讨论中成为主要议题。\n来源: Money Today"
-      },
-      "es": {
-        "title": "Oh Se-hoon habla de ‘infierno inmobiliario’ y Jung Won-oh replica: ‘solo culpa a otros’",
-        "excerpt": "Money Today informó que Jung Won-oh respondió al ataque de Oh Se-hoon sobre un ‘infierno inmobiliario’, acusándolo de repetir culpas ajenas en el debate sobre responsabilidad inmobiliaria.",
-        "body": "Money Today informó que Jung Won-oh respondió al ataque de Oh Se-hoon, quien describió la situación como un ‘infierno inmobiliario’, diciendo que Oh ‘solo repite culpas contra otros’. El intercambio abrió una disputa sobre la responsabilidad en torno a los problemas inmobiliarios y de vivienda.\n\nSegún el reporte, el punto central fue la crítica planteada con la expresión ‘infierno inmobiliario’ y la réplica de Jung. Jung cuestionó el ataque de Oh al considerar que se enfocaba más en trasladar responsabilidades que en resolver el problema.\n\nLa disputa podría continuar como un debate político sobre el ánimo público frente al mercado inmobiliario y la responsabilidad por las políticas. Las declaraciones de ambas partes podrían seguir siendo un tema clave en la evaluación de la política inmobiliaria.\nFuente: Money Today"
-      },
-      "pt": {
-        "title": "Oh Se-hoon fala em ‘inferno imobiliário’ e Jung Won-oh rebate: ‘só culpa os outros’",
-        "excerpt": "O Money Today informou que Jung Won-oh rebateu o ataque de Oh Se-hoon sobre um ‘inferno imobiliário’, acusando-o de repetir a responsabilização de terceiros no debate imobiliário.",
-        "body": "O Money Today informou que Jung Won-oh respondeu ao ataque de Oh Se-hoon, que descreveu a situação como um ‘inferno imobiliário’, dizendo que Oh ‘apenas repete a culpa sobre os outros’. A troca expôs uma disputa sobre responsabilidade em torno dos problemas imobiliários e habitacionais.\n\nSegundo a reportagem, o ponto central foi a crítica feita com a expressão ‘inferno imobiliário’ e a resposta de Jung. Jung criticou a ofensiva de Oh ao afirmar, em essência, que ela se concentra mais em transferir responsabilidade do que em resolver o problema.\n\nA controvérsia pode continuar como debate político sobre a opinião pública no setor imobiliário e a responsabilidade por políticas. As falas dos dois lados devem permanecer como tema relevante na avaliação das políticas imobiliárias.\nFonte: Money Today"
-      },
-      "de": {
-        "title": "Oh Se-hoons Angriff mit ‘Immobilienhölle’ trifft auf Jung Won-ohs Vorwurf der Schuldzuweisung",
-        "excerpt": "Money Today berichtete, Jung Won-oh habe Oh Se-hoons Angriff über eine ‘Immobilienhölle’ zurückgewiesen und ihm vorgeworfen, in der Debatte über Verantwortung nur andere zu beschuldigen.",
-        "body": "Money Today berichtete, dass Jung Won-oh auf Oh Se-hoons Angriff reagierte, der die Lage als ‘Immobilienhölle’ bezeichnete, und sagte, Oh wiederhole nur Schuldzuweisungen an andere. Der Austausch machte einen Streit über Verantwortung bei Immobilien- und Wohnungsfragen sichtbar.\n\nDem Bericht zufolge stand die Kritik mit dem Ausdruck ‘Immobilienhölle’ im Mittelpunkt, ebenso wie Jungs Erwiderung darauf. Jung kritisierte Ohs Angriff sinngemäß als Äußerung, die stärker auf Verantwortungsverschiebung als auf Problemlösung ausgerichtet sei.\n\nDer Schlagabtausch könnte sich zu einer politischen Debatte über die Stimmung in Immobilienfragen und die Verantwortung für politische Entscheidungen fortsetzen. Die Aussagen beider Seiten dürften bei der Bewertung der Immobilienpolitik weiter eine Rolle spielen.\nQuelle: Money Today"
-      },
-      "fr": {
-        "title": "Oh Se-hoon dénonce un ‘enfer immobilier’, Jung Won-oh réplique: ‘il ne fait que blâmer les autres’",
-        "excerpt": "Money Today rapporte que Jung Won-oh a répondu à l’attaque d’Oh Se-hoon sur un ‘enfer immobilier’, l’accusant de répéter des reproches envers autrui dans le débat sur la responsabilité.",
-        "body": "Money Today rapporte que Jung Won-oh a répondu à l’attaque d’Oh Se-hoon, qui parlait d’un ‘enfer immobilier’, en affirmant qu’Oh ‘ne fait que répéter qu’il faut blâmer les autres’. Cet échange a mis en lumière une controverse sur la responsabilité liée aux questions immobilières et de logement.\n\nSelon le reportage, le point central porte sur la critique formulée avec l’expression ‘enfer immobilier’ et sur la réplique de Jung. Celui-ci a critiqué l’offensive d’Oh, estimant qu’elle visait davantage à transférer la responsabilité qu’à résoudre le problème.\n\nCette confrontation pourrait se poursuivre sous forme de débat politique sur l’opinion publique en matière immobilière et sur la responsabilité des politiques menées. Les déclarations des deux parties devraient rester un enjeu dans l’évaluation de la politique immobilière.\nSource: Money Today"
-      },
-      "ar": {
-        "title": "أوه سي-هون يهاجم بعبارة ‘جحيم العقارات’ وجونغ وون-أو يرد: ‘يكرر لوم الآخرين’",
-        "excerpt": "ذكرت Money Today أن جونغ وون-أو رد على هجوم أوه سي-هون بشأن ‘جحيم العقارات’، متهما إياه بتكرار إلقاء اللوم على الآخرين في جدل المسؤولية العقارية.",
-        "body": "ذكرت Money Today أن جونغ وون-أو رد على هجوم أوه سي-هون، الذي وصف الوضع بأنه ‘جحيم عقاري’، قائلا إن أوه ‘يكرر فقط لوم الآخرين’. وأبرز هذا السجال خلافا حول المسؤولية عن مشكلات العقارات والسكن.\n\nوبحسب التقرير، تمحور الخلاف حول الانتقاد الذي طرحه أوه باستخدام عبارة ‘جحيم العقارات’، ورد جونغ المباشر عليه. وانتقد جونغ هجوم أوه باعتباره يركز على نقل المسؤولية أكثر من التركيز على حل المشكلة.\n\nوقد يستمر هذا السجال كجدل سياسي حول الرأي العام المتعلق بالعقارات والمسؤولية عن السياسات. ومن المتوقع أن تبقى تصريحات الطرفين ضمن النقاشات الخاصة بتقييم السياسة العقارية وتحديد المسؤولية.\nالمصدر: Money Today"
-      },
-      "hi": {
-        "title": "ओह से-हून के ‘रियल एस्टेट हेल’ हमले पर जुंग वोन-ओह का पलटवार: ‘दूसरों को दोष देने की पुनरावृत्ति’",
-        "excerpt": "Money Today ने बताया कि ओह से-हून के ‘रियल एस्टेट हेल’ हमले पर जुंग वोन-ओह ने पलटवार करते हुए कहा कि वे जिम्मेदारी के विवाद में बार-बार दूसरों को दोष दे रहे हैं।",
-        "body": "Money Today ने बताया कि ओह से-हून द्वारा स्थिति को ‘रियल एस्टेट हेल’ बताकर किए गए हमले पर जुंग वोन-ओह ने जवाब दिया कि ओह ‘सिर्फ दूसरों को दोष देने की बात दोहरा रहे हैं।’ इस बयानबाजी ने रियल एस्टेट और आवास संबंधी मुद्दों पर जिम्मेदारी को लेकर विवाद को सामने ला दिया।\n\nरिपोर्ट के अनुसार, मुख्य मुद्दा ‘रियल एस्टेट हेल’ अभिव्यक्ति के जरिए उठाई गई आलोचना और उस पर जुंग की प्रतिक्रिया थी। जुंग ने ओह के हमले की आलोचना करते हुए कहा कि इसका ध्यान समस्या समाधान से अधिक जिम्मेदारी स्थानांतरित करने पर है।\n\nयह टकराव रियल एस्टेट जनमत और नीतिगत जिम्मेदारी पर राजनीतिक बहस के रूप में आगे बढ़ सकता है। दोनों पक्षों के बयान आगे रियल एस्टेट नीति के मूल्यांकन और जिम्मेदारी की चर्चा में प्रमुख मुद्दे बने रहने की संभावना है।\nस्रोत: Money Today"
-      },
-      "id": {
-        "title": "Oh Se-hoon Serang dengan ‘Neraka Properti’, Jung Won-oh Membalas: ‘Hanya Menyalahkan Orang Lain’",
-        "excerpt": "Money Today melaporkan Jung Won-oh membalas serangan Oh Se-hoon soal ‘neraka properti’ dengan menuduhnya terus menyalahkan pihak lain dalam perdebatan tanggung jawab properti.",
-        "body": "Money Today melaporkan bahwa Jung Won-oh menanggapi serangan Oh Se-hoon, yang menyebut situasi sebagai ‘neraka properti’, dengan mengatakan bahwa Oh ‘hanya mengulang sikap menyalahkan orang lain’. Pertukaran pernyataan itu memunculkan perdebatan tentang tanggung jawab atas masalah properti dan hunian.\n\nMenurut laporan tersebut, pokok persoalannya adalah kritik yang diajukan melalui istilah ‘neraka properti’ dan bantahan Jung terhadapnya. Jung mengkritik serangan Oh sebagai pernyataan yang lebih berfokus pada pengalihan tanggung jawab daripada penyelesaian masalah.\n\nPerdebatan ini dapat berlanjut sebagai polemik politik mengenai sentimen publik terhadap properti dan tanggung jawab kebijakan. Pernyataan kedua pihak diperkirakan tetap menjadi isu dalam evaluasi kebijakan properti dan pembahasan tanggung jawab.\nSumber: Money Today"
-      }
-    }
-  },
-  {
-    "id": "f0cd121475d5",
-    "slug": "부동산지옥-시민대책회의하는-오세훈-후보---뉴스1-690222",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:42:18.993Z",
-    "updatedAt": "2026-05-06T07:42:18.993Z",
-    "sourceName": "뉴스1",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wdHpBRzRQNXp5OHdOWW53UzJxbGZ6V0VkYTNDeGVrSlg5LWZnUGx2RF8xTDlCTFlHeENFUldmLXJnMnFCTkpDUnotOA?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wdHpBRzRQNXp5OHdOWW53UzJxbGZ6V0VkYTNDeGVrSlg5LWZnUGx2RF8xTDlCTFlHeENFUldmLXJnMnFCTkpDUnotOA?oc=5",
-    "titleFingerprint": "d8898e5c67ec6910e9e524acb7e6a54f7eef01ad",
-    "dedupKeys": [
-      "f0cd121475d565126b7e6d4765f9e070df014814",
-      "d8898e5c67ec6910e9e524acb7e6a54f7eef01ad",
-      "04fd2d36e238e3ed2e8492213633daf83003392d"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "오세훈 후보, ‘부동산지옥’ 시민대책회의 열고 주거·부동산 문제 대응 논의 나서",
-        "excerpt": "뉴스1은 오세훈 후보가 ‘부동산지옥’을 주제로 시민대책회의를 진행했다고 전했다. 구체적 일시와 장소, 발언 내용은 원문 요약에 공개되지 않았다.",
-        "body": "오세훈 후보가 ‘부동산지옥’을 주제로 시민대책회의를 진행했다고 뉴스1이 보도했다. 제공된 원문 정보에는 회의의 구체적 일시와 장소는 명시되지 않았다.\n\n이번 보도는 부동산 문제를 둘러싼 시민 대응 회의 장면을 전한 내용이다. 원문 요약에는 참석 규모, 세부 의제, 관련 수치, 후보의 구체 발언 등 추가 정보가 포함되지 않았다.\n\n부동산 이슈가 선거와 민생 의제로 다뤄지는 가운데, 해당 회의는 주거 문제에 대한 시민 의견과 대응 논의를 보여주는 장면으로 소개됐다. 향후 정책 방향이나 후속 일정은 원문 정보만으로는 확인되지 않는다.\n\n출처: 뉴스1"
-      },
-      "en": {
-        "title": "Oh Se-hoon Holds Citizens’ Meeting on ‘Real Estate Hell’ and Housing Concerns",
-        "excerpt": "News1 reported that candidate Oh Se-hoon held a citizens’ countermeasure meeting on “real estate hell.” The original summary did not disclose the exact date, venue, or remarks.",
-        "body": "News1 reported that candidate Oh Se-hoon held a citizens’ countermeasure meeting under the theme of “real estate hell.” The information provided in the original summary did not specify the meeting’s exact date or location.\n\nThe report covered a scene of a citizens’ response meeting focused on real estate issues. The original summary did not include additional details such as attendance size, specific agenda items, related figures, or the candidate’s remarks.\n\nAs real estate remains a public livelihood and election issue, the meeting was presented as a scene showing discussion of citizens’ views and responses to housing problems. Future policy direction or follow-up schedules cannot be confirmed from the provided source information alone.\n\nSource: News1"
-      },
-      "ja": {
-        "title": "呉世勲候補、「不動産地獄」市民対策会議で住宅・不動産問題を協議",
-        "excerpt": "ニュース1は、呉世勲候補が「不動産地獄」をテーマに市民対策会議を行ったと伝えた。具体的な日時、場所、発言内容は原文要約に示されていない。",
-        "body": "ニュース1は、呉世勲候補が「不動産地獄」をテーマに市民対策会議を行ったと報じた。提供された原文情報には、会議の具体的な日時と場所は明記されていない。\n\n今回の報道は、不動産問題をめぐる市民対応会議の場面を伝えたものだ。原文要約には、参加規模、詳細な議題、関連数値、候補者の具体的な発言などの追加情報は含まれていない。\n\n不動産問題が選挙と生活課題として扱われるなか、この会議は住宅問題に関する市民の意見と対応協議を示す場面として紹介された。今後の政策方向や追加日程は、原文情報だけでは確認できない。\n\n出典: ニュース1"
-      },
-      "zh": {
-        "title": "吴世勋候选人举行“房地产地狱”市民对策会议，讨论住房问题",
-        "excerpt": "News1报道称，吴世勋候选人围绕“房地产地狱”主题举行市民对策会议。原文摘要未披露具体时间、地点及发言内容。",
-        "body": "News1报道称，吴世勋候选人围绕“房地产地狱”主题举行了市民对策会议。所提供的原文信息中，并未注明会议的具体时间和地点。\n\n这篇报道呈现的是围绕房地产问题举行市民应对会议的场景。原文摘要未包含参会规模、具体议题、相关数据以及候选人具体发言等补充信息。\n\n在房地产议题被纳入选举和民生议程的背景下，该会议被介绍为展现市民就住房问题提出意见并讨论应对方式的场景。至于今后的政策方向或后续日程，仅凭原文信息无法确认。\n\n来源：News1"
-      },
-      "es": {
-        "title": "Oh Se-hoon celebra reunión ciudadana sobre el ‘infierno inmobiliario’ y vivienda",
-        "excerpt": "News1 informó que el candidato Oh Se-hoon celebró una reunión ciudadana de medidas sobre el “infierno inmobiliario”. El resumen original no precisó fecha, lugar ni declaraciones.",
-        "body": "News1 informó que el candidato Oh Se-hoon celebró una reunión ciudadana de medidas bajo el tema del “infierno inmobiliario”. La información proporcionada en el resumen original no especificó la fecha ni el lugar exactos del encuentro.\n\nLa nota presentó una escena de una reunión ciudadana centrada en la respuesta a los problemas inmobiliarios. El resumen original no incluyó datos adicionales como número de asistentes, agenda concreta, cifras relacionadas o declaraciones específicas del candidato.\n\nMientras el tema inmobiliario sigue formando parte de la agenda electoral y de subsistencia, la reunión fue presentada como un espacio de debate sobre opiniones ciudadanas y respuestas ante los problemas de vivienda. La orientación futura de políticas o posibles próximos pasos no puede confirmarse solo con la información original.\n\nFuente: News1"
-      },
-      "pt": {
-        "title": "Oh Se-hoon realiza reunião cidadã sobre ‘inferno imobiliário’ e questões habitacionais",
-        "excerpt": "A News1 informou que o candidato Oh Se-hoon realizou uma reunião cidadã de contramedidas sobre o “inferno imobiliário”. O resumo original não trouxe data, local ou falas.",
-        "body": "A News1 informou que o candidato Oh Se-hoon realizou uma reunião cidadã de contramedidas sob o tema do “inferno imobiliário”. As informações fornecidas no resumo original não especificaram a data nem o local exatos da reunião.\n\nA reportagem apresentou uma cena de reunião cidadã voltada à resposta a problemas imobiliários. O resumo original não incluiu detalhes adicionais como número de participantes, pauta específica, dados relacionados ou declarações concretas do candidato.\n\nEnquanto o setor imobiliário segue como tema de campanha e de vida cotidiana, a reunião foi apresentada como um momento de debate sobre opiniões dos cidadãos e respostas aos problemas habitacionais. Direções futuras de política ou agendas posteriores não podem ser confirmadas apenas pelas informações originais.\n\nFonte: News1"
-      },
-      "de": {
-        "title": "Oh Se-hoon hält Bürgertreffen zum Thema ‘Immobilienhölle’ und Wohnungsfragen ab",
-        "excerpt": "News1 berichtete, dass Kandidat Oh Se-hoon ein Bürgertreffen zu Gegenmaßnahmen gegen die „Immobilienhölle“ abhielt. Datum, Ort und Aussagen wurden nicht genannt.",
-        "body": "News1 berichtete, dass Kandidat Oh Se-hoon ein Bürgertreffen zu Gegenmaßnahmen unter dem Thema „Immobilienhölle“ abhielt. In den bereitgestellten Originalinformationen wurden der genaue Zeitpunkt und Ort des Treffens nicht angegeben.\n\nDer Bericht schilderte eine Szene eines Bürgertreffens, das sich mit Reaktionen auf Immobilienprobleme befasste. Die Originalzusammenfassung enthielt keine weiteren Angaben zu Teilnehmerzahl, konkreter Tagesordnung, einschlägigen Zahlen oder spezifischen Aussagen des Kandidaten.\n\nDa Immobilienfragen weiterhin als Wahl- und Alltagsthema behandelt werden, wurde das Treffen als Szene vorgestellt, in der Bürgermeinungen und Reaktionen auf Wohnungsprobleme diskutiert wurden. Künftige politische Ausrichtungen oder Folgetermine lassen sich allein aus den Originalinformationen nicht bestätigen.\n\nQuelle: News1"
-      },
-      "fr": {
-        "title": "Oh Se-hoon réunit des citoyens autour de « l’enfer immobilier » et du logement",
-        "excerpt": "News1 a rapporté que le candidat Oh Se-hoon avait tenu une réunion citoyenne de mesures sur « l’enfer immobilier ». Le résumé original ne précise ni date, ni lieu, ni propos.",
-        "body": "News1 a rapporté que le candidat Oh Se-hoon avait tenu une réunion citoyenne de mesures sur le thème de « l’enfer immobilier ». Les informations fournies dans le résumé original ne précisent pas la date ni le lieu exacts de la réunion.\n\nLe reportage présente une scène de réunion citoyenne consacrée aux réponses aux problèmes immobiliers. Le résumé original ne contient pas d’autres détails, comme le nombre de participants, l’ordre du jour précis, des chiffres liés au sujet ou des déclarations spécifiques du candidat.\n\nAlors que l’immobilier demeure un enjeu électoral et de vie quotidienne, cette réunion a été présentée comme un moment de discussion sur les avis des citoyens et les réponses aux problèmes de logement. Les orientations politiques futures ou un calendrier de suivi ne peuvent pas être confirmés à partir des seules informations originales.\n\nSource : News1"
-      },
-      "ar": {
-        "title": "أوه سي-هون يعقد اجتماعاً للمواطنين حول «جحيم العقارات» وقضايا السكن",
-        "excerpt": "أفادت News1 بأن المرشح أوه سي-هون عقد اجتماعاً مدنياً للتدابير بشأن «جحيم العقارات». ولم يذكر الملخص الأصلي التاريخ أو المكان أو مضمون التصريحات.",
-        "body": "أفادت News1 بأن المرشح أوه سي-هون عقد اجتماعاً مدنياً للتدابير تحت عنوان «جحيم العقارات». ولم تحدد المعلومات الواردة في الملخص الأصلي التاريخ أو المكان الدقيق للاجتماع.\n\nتناول التقرير مشهداً لاجتماع مدني يركز على التعامل مع مشكلات العقارات. ولم يتضمن الملخص الأصلي معلومات إضافية مثل حجم الحضور أو جدول الأعمال التفصيلي أو الأرقام ذات الصلة أو تصريحات محددة للمرشح.\n\nومع بقاء قضايا العقارات ضمن أجندة الانتخابات والمعيشة، قُدم الاجتماع بوصفه مشهداً يعرض آراء المواطنين ومناقشة سبل التعامل مع مشكلات السكن. ولا يمكن تأكيد الاتجاهات السياسية المقبلة أو المواعيد اللاحقة اعتماداً على المعلومات الأصلية وحدها.\n\nالمصدر: News1"
-      },
-      "hi": {
-        "title": "ओह से-हून ने ‘रियल एस्टेट हेल’ पर नागरिक बैठक में आवास मुद्दों पर चर्चा की",
-        "excerpt": "News1 ने बताया कि उम्मीदवार ओह से-हून ने “रियल एस्टेट हेल” विषय पर नागरिक उपाय बैठक की। मूल सारांश में तारीख, स्थान या बयानों का विवरण नहीं दिया गया।",
-        "body": "News1 ने बताया कि उम्मीदवार ओह से-हून ने “रियल एस्टेट हेल” विषय पर नागरिक उपाय बैठक की। उपलब्ध कराई गई मूल जानकारी में बैठक की सटीक तारीख और स्थान का उल्लेख नहीं है।\n\nयह रिपोर्ट रियल एस्टेट समस्याओं से जुड़ी नागरिक प्रतिक्रिया बैठक के दृश्य को प्रस्तुत करती है। मूल सारांश में प्रतिभागियों की संख्या, विस्तृत एजेंडा, संबंधित आंकड़े या उम्मीदवार के विशिष्ट बयान जैसी अतिरिक्त जानकारी शामिल नहीं थी।\n\nजब रियल एस्टेट मुद्दा चुनाव और जनजीवन के एजेंडे में बना हुआ है, यह बैठक आवास समस्याओं पर नागरिक विचारों और प्रतिक्रिया पर चर्चा के रूप में पेश की गई। भविष्य की नीति दिशा या आगे की समय-सारिणी की पुष्टि केवल मूल जानकारी से नहीं की जा सकती।\n\nस्रोत: News1"
-      },
-      "id": {
-        "title": "Oh Se-hoon Gelar Rapat Warga soal ‘Neraka Properti’ dan Isu Perumahan",
-        "excerpt": "News1 melaporkan kandidat Oh Se-hoon menggelar rapat langkah warga bertema “neraka properti”. Ringkasan asli tidak memuat tanggal, tempat, atau isi pernyataan.",
-        "body": "News1 melaporkan bahwa kandidat Oh Se-hoon menggelar rapat langkah warga dengan tema “neraka properti”. Informasi yang diberikan dalam ringkasan asli tidak menyebutkan tanggal maupun lokasi pasti rapat tersebut.\n\nLaporan ini menyampaikan adegan rapat warga yang berfokus pada respons terhadap masalah properti. Ringkasan asli tidak memuat informasi tambahan seperti jumlah peserta, agenda rinci, angka terkait, atau pernyataan spesifik dari kandidat.\n\nSaat isu properti tetap menjadi agenda pemilu dan kehidupan publik, rapat tersebut diperkenalkan sebagai ruang yang menunjukkan pendapat warga dan pembahasan respons atas masalah perumahan. Arah kebijakan berikutnya atau jadwal lanjutan tidak dapat dipastikan hanya dari informasi asli.\n\nSumber: News1"
-      }
-    }
-  },
-  {
-    "id": "eeec155155ee",
-    "slug": "사랑방미디어-사랑방-ai-오픈부동산채용-검색-혁신---뉴시스-660630",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:41:02.115Z",
-    "updatedAt": "2026-05-06T07:41:02.115Z",
-    "sourceName": "뉴시스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CQ2M5VWJMWnJVWm9BZTl2ZF8xUEs4QzROOEI0aEZwSERyM2VxcU1udEVKWWNaQjJZbnZzMWZtcHZSajdMNU9sbW5rVExNTkRJRnk1T21pVzdncDVGRUEwStIBeEFVX3lxTE55NUJnZzc0dXk5RHRJNEFxR2t6WVNSZnZPNUhKam0tcEJuSVJOR3lpU292VEhNdU42ZmstZkNiUFZneGhGdk5xNGVqcHg2WWVjZ2hkUmVFOG5fNm9JalBLYlduN05vMTJ2ZzNObFI4QkUxS1g2bDFaNQ?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CQ2M5VWJMWnJVWm9BZTl2ZF8xUEs4QzROOEI0aEZwSERyM2VxcU1udEVKWWNaQjJZbnZzMWZtcHZSajdMNU9sbW5rVExNTkRJRnk1T21pVzdncDVGRUEwStIBeEFVX3lxTE55NUJnZzc0dXk5RHRJNEFxR2t6WVNSZnZPNUhKam0tcEJuSVJOR3lpU292VEhNdU42ZmstZkNiUFZneGhGdk5xNGVqcHg2WWVjZ2hkUmVFOG5fNm9JalBLYlduN05vMTJ2ZzNObFI4QkUxS1g2bDFaNQ?oc=5",
-    "titleFingerprint": "e3d7b915e6bc16774a0adfd9968cec3bc8405e31",
-    "dedupKeys": [
-      "eeec155155eec835853dc31baff8453715f3cfe3",
-      "e3d7b915e6bc16774a0adfd9968cec3bc8405e31",
-      "8d82b222b0a7792f15b99627c0018a187c64abbd"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "사랑방미디어 ‘사랑방 AI’ 오픈, 부동산·채용 검색 혁신 서비스 본격화",
-        "excerpt": "사랑방미디어가 ‘사랑방 AI’를 오픈하며 부동산과 채용 검색 서비스 혁신에 나섰다고 뉴시스가 보도했다. 이용자 검색 경험 개선에 초점이 맞춰졌다.",
-        "body": "사랑방미디어가 인공지능 기반 서비스 ‘사랑방 AI’를 오픈하고 부동산·채용 검색 혁신에 나섰다고 뉴시스가 보도했다. 이번 서비스는 사랑방미디어가 운영하는 생활정보 영역에서 검색 기능을 고도화하기 위한 시도로 소개됐다.\n\n원문에 따르면 ‘사랑방 AI’는 부동산과 채용 정보를 찾는 이용자의 검색 경험을 바꾸는 데 초점을 둔다. 사랑방미디어는 지역 생활정보와 관련된 핵심 분야인 부동산·채용 검색에서 AI 활용 가능성을 전면에 내세웠다.\n\n이번 오픈으로 이용자는 부동산 매물과 채용 정보를 탐색하는 과정에서 AI 기반 검색 서비스를 접하게 된다. 다만 구체적인 기능, 적용 범위, 이용 수치 등은 원문 요약에 별도로 공개되지 않았다.\n\n출처: 뉴시스"
-      },
-      "en": {
-        "title": "Sarangbang Media Launches ‘Sarangbang AI’ to Innovate Real Estate and Job Search",
-        "excerpt": "Sarangbang Media has launched ‘Sarangbang AI’ to improve real estate and recruitment search services, Newsis reported, with a focus on enhancing user search experiences.",
-        "body": "Sarangbang Media has launched its artificial intelligence-based service ‘Sarangbang AI’ and is moving to innovate real estate and recruitment search, Newsis reported. The service was introduced as an effort to upgrade search functions across the life-information areas operated by Sarangbang Media.\n\nAccording to the source, ‘Sarangbang AI’ focuses on changing the search experience for users looking for real estate and job information. Sarangbang Media is putting AI use at the forefront in two key local information categories: real estate and recruitment.\n\nWith the launch, users will encounter AI-based search services when exploring property listings and job information. However, specific features, scope of application, and usage figures were not separately disclosed in the original summary.\n\nSource: Newsis"
-      },
-      "ja": {
-        "title": "サランバンメディアが「サランバンAI」公開、不動産・採用検索の革新へ",
-        "excerpt": "サランバンメディアが「サランバンAI」を公開し、不動産と採用検索サービスの革新に乗り出したとニューシスが報じた。利用者の検索体験改善が焦点だ。",
-        "body": "サランバンメディアが人工知能ベースのサービス「サランバンAI」を公開し、不動産・採用検索の革新に乗り出したとニューシスが報じた。今回のサービスは、同社が運営する生活情報分野で検索機能を高度化する試みとして紹介された。\n\n原文によると、「サランバンAI」は不動産と採用情報を探す利用者の検索体験を変えることに焦点を当てている。サランバンメディアは、地域生活情報の中核分野である不動産・採用検索でAI活用の可能性を前面に出した。\n\n今回の公開により、利用者は不動産物件や採用情報を探す過程でAIベースの検索サービスに接することになる。ただし、具体的な機能、適用範囲、利用数値などは原文要約では別途公開されていない。\n\n出典: ニューシス"
-      },
-      "zh": {
-        "title": "Sarangbang Media推出“Sarangbang AI”，推进房产与招聘搜索创新",
-        "excerpt": "据纽西斯报道，Sarangbang Media推出“Sarangbang AI”，着力革新房地产和招聘搜索服务，重点改善用户的信息搜索体验。",
-        "body": "据纽西斯报道，Sarangbang Media推出基于人工智能的服务“Sarangbang AI”，并开始推进房地产和招聘搜索创新。该服务被介绍为在公司运营的生活信息领域提升搜索功能的一项尝试。\n\n根据原文，“Sarangbang AI”聚焦于改变用户查找房地产和招聘信息时的搜索体验。Sarangbang Media将AI应用的可能性置于房地产和招聘这两个本地生活信息核心领域的前台。\n\n随着此次上线，用户在浏览房源和招聘信息的过程中将接触到AI驱动的搜索服务。不过，具体功能、适用范围和使用数据等内容在原文摘要中并未另行披露。\n\n来源: 纽西斯"
-      },
-      "es": {
-        "title": "Sarangbang Media lanza ‘Sarangbang AI’ para innovar la búsqueda inmobiliaria y laboral",
-        "excerpt": "Sarangbang Media lanzó ‘Sarangbang AI’ para renovar sus servicios de búsqueda inmobiliaria y de empleo, informó Newsis, con foco en mejorar la experiencia del usuario.",
-        "body": "Sarangbang Media lanzó su servicio basado en inteligencia artificial ‘Sarangbang AI’ y avanza en la innovación de la búsqueda inmobiliaria y de empleo, informó Newsis. El servicio fue presentado como un intento de mejorar las funciones de búsqueda en las áreas de información cotidiana operadas por la compañía.\n\nSegún la fuente, ‘Sarangbang AI’ se centra en cambiar la experiencia de búsqueda de los usuarios que buscan información inmobiliaria y laboral. Sarangbang Media destaca el uso de IA en dos campos clave de la información local: bienes raíces y contratación.\n\nCon este lanzamiento, los usuarios accederán a un servicio de búsqueda basado en IA al explorar anuncios inmobiliarios y ofertas de empleo. Sin embargo, el resumen original no reveló funciones concretas, alcance de aplicación ni cifras de uso.\n\nFuente: Newsis"
-      },
-      "pt": {
-        "title": "Sarangbang Media lança ‘Sarangbang AI’ para inovar buscas imobiliárias e de emprego",
-        "excerpt": "A Sarangbang Media lançou o ‘Sarangbang AI’ para renovar buscas de imóveis e recrutamento, informou a Newsis, com foco em melhorar a experiência de pesquisa dos usuários.",
-        "body": "A Sarangbang Media lançou o serviço baseado em inteligência artificial ‘Sarangbang AI’ e passou a impulsionar a inovação nas buscas de imóveis e recrutamento, informou a Newsis. O serviço foi apresentado como uma tentativa de aprimorar as funções de busca nas áreas de informação cotidiana operadas pela empresa.\n\nSegundo a fonte, o ‘Sarangbang AI’ tem foco em mudar a experiência de busca dos usuários que procuram informações sobre imóveis e empregos. A Sarangbang Media coloca o uso de IA em destaque em dois campos centrais da informação local: imóveis e recrutamento.\n\nCom o lançamento, os usuários terão contato com serviços de busca baseados em IA ao explorar anúncios imobiliários e vagas de emprego. No entanto, funções específicas, escopo de aplicação e números de uso não foram divulgados no resumo original.\n\nFonte: Newsis"
-      },
-      "de": {
-        "title": "Sarangbang Media startet ‘Sarangbang AI’ für neue Immobilien- und Jobsuche",
-        "excerpt": "Sarangbang Media hat ‘Sarangbang AI’ gestartet, um Immobilien- und Recruiting-Suchen zu verbessern, berichtete Newsis. Im Mittelpunkt steht die Nutzererfahrung bei der Suche.",
-        "body": "Sarangbang Media hat den auf künstlicher Intelligenz basierenden Dienst ‘Sarangbang AI’ gestartet und will damit die Immobilien- und Recruiting-Suche erneuern, berichtete Newsis. Der Dienst wurde als Versuch vorgestellt, Suchfunktionen in den von Sarangbang Media betriebenen Bereichen für Alltagsinformationen weiterzuentwickeln.\n\nDem Bericht zufolge konzentriert sich ‘Sarangbang AI’ darauf, die Sucherfahrung von Nutzern zu verändern, die Immobilien- und Jobinformationen suchen. Sarangbang Media stellt den KI-Einsatz in zwei zentralen lokalen Informationsfeldern in den Vordergrund: Immobilien und Recruiting.\n\nMit dem Start treffen Nutzer bei der Suche nach Immobilienangeboten und Stelleninformationen auf einen KI-basierten Suchdienst. Konkrete Funktionen, Anwendungsbereiche und Nutzungszahlen wurden in der ursprünglichen Zusammenfassung jedoch nicht gesondert genannt.\n\nQuelle: Newsis"
-      },
-      "fr": {
-        "title": "Sarangbang Media lance ‘Sarangbang AI’ pour renouveler la recherche immobilière et emploi",
-        "excerpt": "Sarangbang Media a lancé ‘Sarangbang AI’ afin d’améliorer la recherche immobilière et de recrutement, selon Newsis, avec un accent sur l’expérience de recherche utilisateur.",
-        "body": "Sarangbang Media a lancé son service fondé sur l’intelligence artificielle ‘Sarangbang AI’ et s’engage dans l’innovation de la recherche immobilière et de recrutement, a rapporté Newsis. Le service a été présenté comme une initiative visant à améliorer les fonctions de recherche dans les domaines d’information de vie quotidienne exploités par l’entreprise.\n\nSelon la source, ‘Sarangbang AI’ vise à transformer l’expérience de recherche des utilisateurs qui consultent des informations immobilières et d’emploi. Sarangbang Media met en avant l’usage de l’IA dans deux secteurs clés de l’information locale: l’immobilier et le recrutement.\n\nAvec ce lancement, les utilisateurs accéderont à un service de recherche basé sur l’IA lorsqu’ils explorent des annonces immobilières et des offres d’emploi. Les fonctions précises, le champ d’application et les chiffres d’utilisation n’ont toutefois pas été détaillés dans le résumé original.\n\nSource: Newsis"
-      },
-      "ar": {
-        "title": "سارانغبانغ ميديا تطلق ‘Sarangbang AI’ لتطوير بحث العقارات والتوظيف",
-        "excerpt": "أطلقت سارانغبانغ ميديا خدمة ‘Sarangbang AI’ لتحسين البحث في العقارات والتوظيف، وفق ما أوردته نيوسيس، مع تركيز على تطوير تجربة البحث للمستخدمين.",
-        "body": "أطلقت سارانغبانغ ميديا خدمة قائمة على الذكاء الاصطناعي باسم ‘Sarangbang AI’ وبدأت التحرك نحو ابتكار البحث في مجالي العقارات والتوظيف، وفق ما أوردته نيوسيس. وقُدمت الخدمة كمحاولة لتطوير وظائف البحث في مجالات معلومات الحياة اليومية التي تديرها الشركة.\n\nوبحسب المصدر، تركز ‘Sarangbang AI’ على تغيير تجربة البحث لدى المستخدمين الذين يبحثون عن معلومات عقارية ووظيفية. وتضع سارانغبانغ ميديا استخدام الذكاء الاصطناعي في الواجهة ضمن مجالين رئيسيين من المعلومات المحلية: العقارات والتوظيف.\n\nومع هذا الإطلاق، سيواجه المستخدمون خدمة بحث قائمة على الذكاء الاصطناعي عند استكشاف قوائم العقارات ومعلومات الوظائف. لكن الملخص الأصلي لم يكشف بشكل منفصل عن الوظائف المحددة أو نطاق التطبيق أو أرقام الاستخدام.\n\nالمصدر: نيوسيس"
-      },
-      "hi": {
-        "title": "Sarangbang Media ने ‘Sarangbang AI’ लॉन्च किया, रियल एस्टेट और नौकरी खोज में बदलाव",
-        "excerpt": "Newsis के अनुसार, Sarangbang Media ने ‘Sarangbang AI’ लॉन्च किया है, जिसका उद्देश्य रियल एस्टेट और भर्ती खोज सेवाओं में सुधार कर उपयोगकर्ता अनुभव बेहतर बनाना है।",
-        "body": "Newsis के अनुसार, Sarangbang Media ने कृत्रिम बुद्धिमत्ता आधारित सेवा ‘Sarangbang AI’ लॉन्च की है और रियल एस्टेट तथा भर्ती खोज में नवाचार की दिशा में कदम बढ़ाया है। इस सेवा को कंपनी द्वारा संचालित दैनिक जीवन सूचना क्षेत्रों में खोज सुविधाओं को बेहतर बनाने के प्रयास के रूप में पेश किया गया।\n\nस्रोत के मुताबिक, ‘Sarangbang AI’ उन उपयोगकर्ताओं के खोज अनुभव को बदलने पर केंद्रित है जो रियल एस्टेट और नौकरी से जुड़ी जानकारी खोजते हैं। Sarangbang Media स्थानीय जीवन सूचना के दो प्रमुख क्षेत्रों, रियल एस्टेट और भर्ती, में AI उपयोग की संभावना को सामने रख रही है।\n\nइस लॉन्च के बाद उपयोगकर्ता संपत्ति सूची और नौकरी जानकारी तलाशते समय AI आधारित खोज सेवा का अनुभव करेंगे। हालांकि, मूल सारांश में विशेष सुविधाओं, लागू दायरे या उपयोग के आंकड़ों का अलग से खुलासा नहीं किया गया।\n\nस्रोत: Newsis"
-      },
-      "id": {
-        "title": "Sarangbang Media Luncurkan ‘Sarangbang AI’ untuk Inovasi Pencarian Properti dan Kerja",
-        "excerpt": "Sarangbang Media meluncurkan ‘Sarangbang AI’ untuk memperbarui layanan pencarian properti dan rekrutmen, menurut Newsis, dengan fokus pada pengalaman pencarian pengguna.",
-        "body": "Sarangbang Media meluncurkan layanan berbasis kecerdasan buatan ‘Sarangbang AI’ dan mulai mendorong inovasi pencarian properti serta rekrutmen, menurut laporan Newsis. Layanan ini diperkenalkan sebagai upaya meningkatkan fungsi pencarian di bidang informasi kehidupan sehari-hari yang dioperasikan oleh Sarangbang Media.\n\nMenurut sumber tersebut, ‘Sarangbang AI’ berfokus pada perubahan pengalaman pencarian pengguna yang mencari informasi properti dan pekerjaan. Sarangbang Media menempatkan pemanfaatan AI di depan dalam dua bidang utama informasi lokal: properti dan rekrutmen.\n\nDengan peluncuran ini, pengguna akan menjumpai layanan pencarian berbasis AI saat menelusuri daftar properti dan informasi lowongan kerja. Namun, fitur spesifik, cakupan penerapan, dan angka penggunaan tidak diungkapkan secara terpisah dalam ringkasan asli.\n\nSumber: Newsis"
       }
     }
   }
