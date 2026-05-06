@@ -13,11 +13,11 @@ export const channel = {
   keywords: ['부동산', '아파트', '청약', '분양', '시세', '재건축'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0&hl=ko&gl=KR&ceid=KR:ko', category: 'breaking' },
-    { url: 'https://news.google.com/rss/search?q=%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%8B%9C%EC%84%B8&hl=ko&gl=KR&ceid=KR:ko', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+%EC%A0%95%EC%B1%85&hl=ko&gl=KR&ceid=KR:ko', category: 'policy' },
-    { url: 'https://news.google.com/rss/search?q=%EC%B2%AD%EC%95%BD+%EC%B6%84%EC%96%91&hl=ko&gl=KR&ceid=KR:ko', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=korea+real+estate&hl=en&gl=US&ceid=US:en', category: 'analysis' }
+    { url: 'https://www.mk.co.kr/rss/50300009/', category: 'market' },
+    { url: 'https://www.hankyung.com/feed/realestate', category: 'breaking' },
+    { url: 'https://rss.mt.co.kr/mt_realestate.xml', category: 'policy' },
+    { url: 'https://rss.donga.com/economy.xml', category: 'analysis' },
+    { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
