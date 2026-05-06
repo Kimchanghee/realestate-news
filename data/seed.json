@@ -1,5 +1,230 @@
 [
   {
+    "id": "feee6e67104c",
+    "slug": "단독-인허가-기다렸을-뿐인데-29억-토해내라뇨폭탄-된-개발지연-499619",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T19:25:05.583Z",
+    "updatedAt": "2026-05-06T19:25:05.583Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035306",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035306",
+    "titleFingerprint": "40a78c49056d8d91819f323b13d51b8408d08791",
+    "dedupKeys": [
+      "feee6e67104c1c788c94265c538ebc7652db5229",
+      "40a78c49056d8d91819f323b13d51b8408d08791",
+      "0e30151af6f308c6417d17e8f41c214b14ac2f9c"
+    ],
+    "imageUrl": "/images/articles/feee6e67104c.png",
+    "i18n": {
+      "ko": {
+        "title": "오산 개발사업 승인 지연에 29억 추징…디벨로퍼 세금 분쟁 확산",
+        "excerpt": "대형 디벨로퍼 A사가 오산 개발사업 승인 지연으로 감면세액 29억원을 추징당하자 조세심판원과 서울행정법원에 종합부동산세 부과가 부당하다고 다퉜다.",
+        "body": "오산 개발사업을 추진하던 대형 디벨로퍼 A사가 사업 승인 지연을 이유로 지난해 부과된 종합부동산세 29억원에 대해 불복 절차에 나섰다. A사는 최근 조세심판원에 이의신청을 냈고, 서울행정법원에도 관련 판단을 구하고 있다. 쟁점은 개발사업 인허가가 5년 안에 이뤄지지 않을 경우 앞서 감면받은 세액을 다시 내야 하는 규정이다. 회사 측은 인허가를 기다리는 과정에서 승인 지연이 발생했는데도 세금 추징 부담이 커졌다고 문제를 제기한 것으로 알려졌다. 개발 지연이 세제 혜택 환수로 이어질 수 있다는 점에서 유사 사업장의 세무 리스크도 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Osan Project Delay Triggers 2.9 Billion Won Tax Dispute for Developer",
+        "excerpt": "A major developer has challenged a 2.9 billion won comprehensive real estate tax bill after delayed approval of an Osan development project led to a clawback of tax benefits.",
+        "body": "A major developer, identified as Company A, has begun contesting a 2.9 billion won comprehensive real estate tax assessment imposed last year after approval for its Osan development project was delayed. The company recently filed an objection with the Tax Tribunal and has also sought review from the Seoul Administrative Court. The central issue is a rule requiring previously reduced taxes to be repaid if a development project is not approved within five years. Company A is understood to argue that it was waiting for permits and approvals, yet the delay resulted in a major tax clawback. The case highlights the tax risk that delayed development approvals can create for similar projects. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "烏山開発の承認遅れで29億ウォン追徴、開発会社が税務争い",
+        "excerpt": "大手デベロッパーA社は、烏山開発事業の承認遅延により減免税額29億ウォンを追徴され、総合不動産税の賦課は不当だとして争っている。",
+        "body": "烏山で開発事業を進めていた大手デベロッパーA社が、事業承認の遅れを理由に昨年課された総合不動産税29億ウォンについて不服手続きに入った。A社は最近、租税審判院に異議を申し立て、ソウル行政裁判所にも関連判断を求めている。争点は、開発事業の許認可が5年以内に行われない場合、以前に減免された税額を返還しなければならない規定だ。会社側は、許認可を待つ過程で承認が遅れたにもかかわらず、追徴負担が大きくなったと問題提起しているとされる。開発遅延が税制優遇の回収につながり得る点で、類似事業の税務リスクも注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "乌山开发审批延迟引发29亿韩元追缴，开发商陷税务争议",
+        "excerpt": "大型开发商A公司因乌山开发项目审批延迟被追缴29亿韩元减免税额，已就综合房地产税征收向税务审判机构和法院提出异议。",
+        "body": "推进乌山开发项目的大型开发商A公司，因项目审批延迟，对去年被征收的29亿韩元综合房地产税启动不服程序。A公司近期向租税审判院提出异议，并向首尔行政法院寻求相关判断。争议焦点在于一项规定：开发项目若未能在5年内获得审批，此前享受的减免税额必须返还。公司方面据称认为，项目是在等待许可和审批过程中发生延迟，却因此承担了较大的税款追缴负担。此案显示，开发延迟可能导致税收优惠被追回，类似项目的税务风险也因此受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Retraso en proyecto de Osan desata disputa fiscal de 2.900 millones de wones",
+        "excerpt": "La gran promotora A impugna un impuesto inmobiliario integral tras ser reclamada por 2.900 millones de wones debido al retraso en la aprobación de un desarrollo en Osan.",
+        "body": "La gran promotora A inició un procedimiento de impugnación contra un impuesto inmobiliario integral de 2.900 millones de wones impuesto el año pasado por el retraso en la aprobación de su proyecto de desarrollo en Osan. La empresa presentó recientemente una objeción ante el Tribunal Fiscal y también acudió al Tribunal Administrativo de Seúl. El punto central es la norma que obliga a devolver los impuestos previamente reducidos si un proyecto de desarrollo no obtiene aprobación en un plazo de cinco años. Según se conoce, la compañía sostiene que el retraso ocurrió mientras esperaba permisos y autorizaciones, pero aun así derivó en una elevada carga fiscal. El caso pone de relieve el riesgo tributario que los retrasos en desarrollos pueden generar para proyectos similares. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Atraso em projeto de Osan gera cobrança fiscal de 2,9 bi de wones",
+        "excerpt": "A grande incorporadora A contesta a cobrança de imposto imobiliário após o atraso na aprovação de um projeto em Osan levar à devolução de 2,9 bilhões de wones em benefícios fiscais.",
+        "body": "A grande incorporadora A iniciou um processo de contestação contra a cobrança de 2,9 bilhões de wones em imposto imobiliário abrangente, imposta no ano passado devido ao atraso na aprovação de seu projeto de desenvolvimento em Osan. A empresa apresentou recentemente uma objeção ao Tribunal Tributário e também buscou avaliação no Tribunal Administrativo de Seul. O ponto central é a regra que exige a devolução dos impostos reduzidos anteriormente caso o projeto não seja aprovado em até cinco anos. A companhia alega que o atraso ocorreu enquanto aguardava licenças e aprovações, mas acabou resultando em uma cobrança elevada. O caso chama atenção para o risco fiscal de atrasos em projetos semelhantes. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Osan-Projekt verzögert: Entwickler wehrt sich gegen 2,9 Mrd. Won Steuer",
+        "excerpt": "Ein großer Entwickler ficht eine umfassende Immobiliensteuer an, nachdem die verzögerte Genehmigung eines Projekts in Osan zur Rückforderung von 2,9 Mrd. Won führte.",
+        "body": "Ein großer Entwickler, als Unternehmen A bezeichnet, hat ein Einspruchsverfahren gegen eine im vergangenen Jahr auferlegte umfassende Immobiliensteuer von 2,9 Milliarden Won eingeleitet, nachdem sich die Genehmigung seines Entwicklungsprojekts in Osan verzögert hatte. Das Unternehmen legte kürzlich beim Steuergericht Einspruch ein und wandte sich auch an das Verwaltungsgericht Seoul. Kernpunkt ist eine Regel, nach der zuvor gewährte Steuerermäßigungen zurückgezahlt werden müssen, wenn ein Entwicklungsprojekt nicht innerhalb von fünf Jahren genehmigt wird. Nach Angaben aus dem Umfeld argumentiert das Unternehmen, es habe lediglich auf Genehmigungen gewartet, dennoch sei daraus eine hohe Steuerlast entstanden. Der Fall zeigt, dass Verzögerungen bei Entwicklungen auch für ähnliche Projekte steuerliche Risiken auslösen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Retard du projet d’Osan: 2,9 milliards de wons réclamés au promoteur",
+        "excerpt": "Le grand promoteur A conteste une taxe immobilière globale après le retard d’approbation d’un projet à Osan, qui a entraîné la restitution de 2,9 milliards de wons d’avantages fiscaux.",
+        "body": "Le grand promoteur A a engagé une procédure de contestation contre une taxe immobilière globale de 2,9 milliards de wons imposée l’an dernier à la suite du retard d’approbation de son projet de développement à Osan. L’entreprise a récemment déposé une objection auprès du Tribunal fiscal et a aussi saisi le Tribunal administratif de Séoul. Le point litigieux porte sur une règle obligeant à restituer les réductions d’impôt obtenues si un projet de développement n’est pas approuvé dans un délai de cinq ans. La société estime que le retard est survenu alors qu’elle attendait les permis et autorisations, mais qu’il a néanmoins entraîné une lourde charge fiscale. Cette affaire met en évidence le risque fiscal que les retards de développement peuvent créer pour des projets similaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تأخر موافقة مشروع أوسان يثير نزاعا ضريبيا بقيمة 2.9 مليار وون",
+        "excerpt": "طعنت شركة تطوير كبرى في ضريبة عقارية شاملة بعد أن أدى تأخر الموافقة على مشروع تطوير في أوسان إلى استرداد مزايا ضريبية بقيمة 2.9 مليار وون.",
+        "body": "بدأت شركة تطوير كبرى، يشار إليها باسم الشركة A، إجراءات اعتراض على ضريبة عقارية شاملة بقيمة 2.9 مليار وون فُرضت العام الماضي بسبب تأخر الموافقة على مشروعها التطويري في أوسان. وقد قدمت الشركة مؤخرا اعتراضا إلى محكمة الضرائب، وطلبت أيضا حكما من المحكمة الإدارية في سيول. تتمحور القضية حول قاعدة تلزم برد الضرائب المخفضة سابقا إذا لم يحصل مشروع التطوير على الموافقة خلال خمس سنوات. وتقول الشركة، بحسب ما عُرف، إن التأخر وقع أثناء انتظار التصاريح والموافقات، لكنه أدى رغم ذلك إلى عبء ضريبي كبير. وتبرز القضية أن تأخر التطوير قد يقود إلى استرداد المزايا الضريبية، ما يلفت الانتباه إلى المخاطر الضريبية في مشروعات مماثلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ओसान परियोजना में देरी से 2.9 अरब वॉन कर विवाद, डेवलपर ने दी चुनौती",
+        "excerpt": "बड़ी डेवलपर कंपनी A ने ओसान विकास परियोजना की मंजूरी में देरी के बाद 2.9 अरब वॉन की कर छूट वापसी और व्यापक रियल एस्टेट कर निर्धारण को चुनौती दी है।",
+        "body": "ओसान विकास परियोजना चला रही बड़ी डेवलपर कंपनी A ने पिछले साल लगाए गए 2.9 अरब वॉन के व्यापक रियल एस्टेट कर के खिलाफ आपत्ति प्रक्रिया शुरू की है। यह कर परियोजना की मंजूरी में देरी के आधार पर लगाया गया था। कंपनी ने हाल ही में टैक्स ट्रिब्यूनल में आपत्ति दायर की और सियोल प्रशासनिक अदालत से भी संबंधित निर्णय मांगा है। विवाद का मुख्य मुद्दा वह नियम है जिसके तहत विकास परियोजना को पांच साल के भीतर मंजूरी न मिलने पर पहले मिली कर छूट वापस करनी होती है। कंपनी का कहना बताया जाता है कि वह परमिट और मंजूरी की प्रतीक्षा कर रही थी, फिर भी देरी के कारण बड़ा कर बोझ आ गया। यह मामला दिखाता है कि विकास में देरी समान परियोजनाओं के लिए कर जोखिम बढ़ा सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Keterlambatan Proyek Osan Picu Sengketa Pajak 2,9 Miliar Won",
+        "excerpt": "Pengembang besar A menggugat pajak properti komprehensif setelah keterlambatan persetujuan proyek Osan membuat insentif pajak senilai 2,9 miliar won harus dikembalikan.",
+        "body": "Pengembang besar A memulai proses keberatan atas pajak properti komprehensif senilai 2,9 miliar won yang dikenakan tahun lalu karena keterlambatan persetujuan proyek pengembangan di Osan. Perusahaan baru-baru ini mengajukan keberatan ke Pengadilan Pajak dan juga meminta penilaian dari Pengadilan Administratif Seoul. Inti sengketa adalah aturan yang mewajibkan pengembalian pajak yang sebelumnya dikurangi jika proyek pengembangan tidak mendapat persetujuan dalam lima tahun. Pihak perusahaan disebut menilai bahwa keterlambatan terjadi saat mereka menunggu izin dan persetujuan, tetapi tetap berujung pada beban pajak besar. Kasus ini menyoroti risiko pajak yang dapat muncul ketika proyek serupa mengalami penundaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c2cc55a3f189",
+    "slug": "김용범-실수요와-무관한-대출-앞으로-못-나가게-하는-것-당연-660402",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T19:23:57.560Z",
+    "updatedAt": "2026-05-06T19:23:57.560Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12035436",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12035436",
+    "titleFingerprint": "05056d3f604b849e28e823d52e30ce4575b77613",
+    "dedupKeys": [
+      "c2cc55a3f1893f658099589d182f37b4682a8d77",
+      "05056d3f604b849e28e823d52e30ce4575b77613",
+      "7e95f9626f8f7c52ed1543fca82ca7310e003411"
+    ],
+    "imageUrl": "/images/articles/c2cc55a3f189.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부동산 대출 규제 강화 신호, 김용범 “실수요 무관 대출 제한 당연”",
+        "excerpt": "김용범 청와대 정책실장은 4일 기자들과 만나 부동산 정책과 관련해 실수요자와 관계없다고 판단되는 대출은 앞으로 나가지 못하게 하는 것이 당연하다고 밝혔다.",
+        "body": "김용범 청와대 정책실장은 4일 기자들과 만난 자리에서 부동산 정책과 관련해 실수요와 무관한 대출 제한 필요성을 밝혔다. 김 실장은 “실수요자와 관계없다고 판단되는 부분에 대한 대출을 앞으로 못 나가게 하는 것은 당연하다”고 말했다. 이는 부동산 대출 관리에서 실수요 여부를 중요한 기준으로 보겠다는 취지로 해석된다. 다만 원문에 구체적인 적용 대상, 시행 시점, 세부 기준은 제시되지 않았다. 향후 부동산 금융 정책 논의에서 실수요자와 비실수요성 대출을 어떻게 구분할지가 쟁점이 될 전망이다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Real Estate Loan Curbs Signal: Kim Yong-beom Says Non-End-User Loans Should Be Blocked",
+        "excerpt": "Kim Yong-beom, presidential policy chief, told reporters on the 4th that loans judged unrelated to genuine housing demand should naturally be prevented under real estate policy.",
+        "body": "Kim Yong-beom, chief of policy at the presidential office, said on the 4th during a meeting with reporters that loans unrelated to genuine housing demand should be restricted in connection with real estate policy. Kim said, “It is natural to prevent loans from going out in areas judged unrelated to end users.” The remark indicates that genuine demand may be treated as a key standard in managing real estate lending. The original report did not provide specific targets, timing, or detailed criteria. Future policy discussions are expected to focus on how authorities distinguish end-user loans from non-end-user borrowing. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "不動産融資規制強化の示唆、金容範氏「実需と無関係な融資制限は当然」",
+        "excerpt": "金容範大統領室政策室長は4日、記者らに対し、不動産政策に関連して実需者と関係ないと判断される融資は今後出ないようにするのが当然だと述べた。",
+        "body": "金容範大統領室政策室長は4日、記者らと会った場で、不動産政策に関連し、実需と無関係な融資を制限する必要性を明らかにした。金氏は「実需者と関係ないと判断される部分への融資を今後出ないようにするのは当然だ」と述べた。これは不動産融資管理で実需の有無を重要な基準にする趣旨と受け止められる。ただし原文では、具体的な適用対象、実施時期、詳細基準は示されていない。今後の不動産金融政策の議論では、実需者向け融資と非実需性融資をどう区分するかが争点になる見通しだ。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "房地产贷款监管释放收紧信号，金容范称限制非刚需贷款理所当然",
+        "excerpt": "韩国总统室政策室长金容范4日对记者表示，关于房地产政策，今后阻止被判断为与实际需求者无关的贷款发放是理所当然的。",
+        "body": "韩国总统室政策室长金容范4日在会见记者时，就房地产政策表示，有必要限制与实际需求无关的贷款。金容范说：“对于被判断为与实际需求者无关的部分，今后不让贷款发放是理所当然的。”这一表态被解读为，在房地产贷款管理中，是否属于实际需求将成为重要标准。不过，原文并未提出具体适用对象、实施时间或详细标准。今后房地产金融政策讨论中，如何区分实际需求者贷款和非实际需求性贷款，预计将成为焦点。出处：引自mk.co.kr。"
+      },
+      "es": {
+        "title": "Señal de más control al crédito inmobiliario: Kim Yong-beom defiende limitar préstamos sin demanda real",
+        "excerpt": "Kim Yong-beom, jefe de política presidencial, dijo el día 4 a periodistas que es natural impedir préstamos considerados ajenos a compradores con demanda real dentro de la política inmobiliaria.",
+        "body": "Kim Yong-beom, jefe de política de la oficina presidencial, afirmó el día 4 ante periodistas la necesidad de limitar los préstamos no vinculados a la demanda real en la política inmobiliaria. Kim dijo: “Es natural impedir que salgan préstamos en partes que se consideren no relacionadas con usuarios finales reales”. La declaración sugiere que la existencia de demanda real será un criterio importante en la gestión del crédito inmobiliario. El texto original no presentó objetivos concretos, calendario de aplicación ni criterios detallados. En adelante, el debate sobre financiación inmobiliaria podría centrarse en cómo distinguir los préstamos de demanda real de los que no lo son. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Crédito imobiliário sob maior controle: Kim Yong-beom defende barrar empréstimos sem demanda real",
+        "excerpt": "Kim Yong-beom, chefe de política da Presidência, disse no dia 4 a jornalistas que é natural impedir empréstimos considerados sem relação com compradores de demanda real na política imobiliária.",
+        "body": "Kim Yong-beom, chefe de política da Presidência, afirmou no dia 4, em encontro com jornalistas, a necessidade de restringir empréstimos sem relação com demanda real no âmbito da política imobiliária. Kim disse: “É natural impedir que saiam empréstimos em partes julgadas sem relação com usuários finais reais”. A fala indica que a existência de demanda real pode ser tratada como critério importante na gestão do crédito imobiliário. O texto original não trouxe alvos específicos, prazo de implementação nem critérios detalhados. Nas próximas discussões de política financeira imobiliária, a distinção entre empréstimos de demanda real e empréstimos sem essa característica deve ser um ponto central. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Strengere Immobilienkredite im Fokus: Kim Yong-beom nennt Begrenzung nicht echter Nachfrage selbstverständlich",
+        "excerpt": "Kim Yong-beom, politischer Chef des Präsidialamts, sagte am 4. vor Journalisten, Kredite ohne Bezug zu tatsächlichen Eigennutzern künftig zu blockieren sei in der Immobilienpolitik selbstverständlich.",
+        "body": "Kim Yong-beom, Leiter der Politikabteilung im Präsidialamt, sprach am 4. bei einem Treffen mit Journalisten über Immobilienpolitik und die Notwendigkeit, Kredite ohne Bezug zu tatsächlicher Nachfrage zu begrenzen. Kim sagte: „Es ist selbstverständlich, Kredite für Bereiche, die als nicht mit tatsächlichen Nutzern verbunden beurteilt werden, künftig nicht mehr herausgehen zu lassen.“ Die Aussage deutet darauf hin, dass echte Nachfrage ein wichtiger Maßstab bei der Steuerung von Immobilienkrediten sein soll. Der Originalbericht nannte keine konkreten Zielgruppen, keinen Umsetzungszeitpunkt und keine Detailkriterien. Künftige Diskussionen dürften sich darauf richten, wie Kredite für echte Nutzer von nicht nachfragebezogenen Krediten unterschieden werden. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Crédit immobilier plus encadré : Kim Yong-beom juge normal de bloquer les prêts hors demande réelle",
+        "excerpt": "Kim Yong-beom, chef de la politique présidentielle, a déclaré le 4 aux journalistes qu’il était naturel d’empêcher les prêts jugés sans lien avec les acheteurs à demande réelle.",
+        "body": "Kim Yong-beom, chef de la politique au bureau présidentiel, a déclaré le 4 lors d’une rencontre avec des journalistes qu’il fallait limiter les prêts sans lien avec la demande réelle dans le cadre de la politique immobilière. Kim a affirmé : « Il est naturel d’empêcher à l’avenir les prêts dans les parties jugées sans rapport avec les utilisateurs finaux réels. » Cette position laisse entendre que la demande réelle pourrait devenir un critère important dans la gestion du crédit immobilier. Le texte original ne précise ni les cibles, ni le calendrier d’application, ni les critères détaillés. Les prochains débats sur la finance immobilière devraient porter sur la manière de distinguer les prêts liés à une demande réelle des autres prêts. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "تشديد محتمل لقروض العقارات: كيم يونغ بوم يؤكد أن منع القروض غير المرتبطة بالطلب الحقيقي أمر طبيعي",
+        "excerpt": "قال كيم يونغ بوم، رئيس السياسات في المكتب الرئاسي، للصحفيين في اليوم الرابع إن منع القروض التي تُعد غير مرتبطة بالمستخدمين ذوي الطلب الحقيقي أمر طبيعي ضمن سياسة العقارات.",
+        "body": "قال كيم يونغ بوم، رئيس السياسات في المكتب الرئاسي، في لقاء مع الصحفيين في اليوم الرابع، إن هناك حاجة إلى تقييد القروض غير المرتبطة بالطلب الحقيقي في ما يتعلق بسياسة العقارات. وصرح كيم: “من الطبيعي ألا يُسمح مستقبلا بخروج القروض في الأجزاء التي يُحكم بأنها غير مرتبطة بالمستخدمين الحقيقيين.” وتشير هذه التصريحات إلى أن وجود طلب حقيقي قد يصبح معيارا مهما في إدارة الإقراض العقاري. ولم يورد النص الأصلي أهدافا محددة أو موعدا للتنفيذ أو معايير تفصيلية. ومن المتوقع أن تتركز مناقشات سياسة التمويل العقاري لاحقا على كيفية التمييز بين قروض المستخدمين الحقيقيين والقروض غير المرتبطة بطلب حقيقي. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "रियल एस्टेट ऋण पर सख्ती का संकेत: किम योंग-बोम ने वास्तविक मांग से इतर कर्ज रोकना उचित बताया",
+        "excerpt": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 4 तारीख को पत्रकारों से कहा कि रियल एस्टेट नीति में वास्तविक खरीदारों से असंबंधित माने जाने वाले ऋणों को रोकना स्वाभाविक है।",
+        "body": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 4 तारीख को पत्रकारों से मुलाकात में रियल एस्टेट नीति से जुड़े वास्तविक मांग से असंबंधित ऋणों पर रोक की आवश्यकता बताई। किम ने कहा, “जिन हिस्सों को वास्तविक उपयोगकर्ताओं से असंबंधित माना जाता है, उनके लिए आगे ऋण न निकलने देना स्वाभाविक है।” यह टिप्पणी संकेत देती है कि रियल एस्टेट ऋण प्रबंधन में वास्तविक मांग को महत्वपूर्ण मानदंड माना जा सकता है। मूल रिपोर्ट में विशिष्ट लागू 대상, लागू करने का समय या विस्तृत मानदंड नहीं दिए गए। आगे रियल एस्टेट वित्त नीति की चर्चा में वास्तविक उपयोगकर्ता ऋण और गैर-वास्तविक मांग वाले ऋणों को कैसे अलग किया जाए, यह मुद्दा बन सकता है। स्रोत: mk.co.kr से उद्धृत."
+      },
+      "id": {
+        "title": "Sinyal Pengetatan Kredit Properti: Kim Yong-beom Sebut Wajar Batasi Pinjaman di Luar Kebutuhan Riil",
+        "excerpt": "Kim Yong-beom, kepala kebijakan kantor kepresidenan, mengatakan kepada wartawan pada tanggal 4 bahwa pinjaman yang dinilai tidak terkait pengguna dengan kebutuhan riil wajar dicegah dalam kebijakan properti.",
+        "body": "Kim Yong-beom, kepala kebijakan kantor kepresidenan, dalam pertemuan dengan wartawan pada tanggal 4 menyampaikan perlunya membatasi pinjaman yang tidak terkait dengan kebutuhan riil dalam kebijakan properti. Kim mengatakan, “Wajar jika pinjaman untuk bagian yang dinilai tidak berhubungan dengan pengguna berkebutuhan riil ke depan tidak dibiarkan keluar.” Pernyataan ini menunjukkan bahwa ada atau tidaknya kebutuhan riil dapat menjadi standar penting dalam pengelolaan kredit properti. Laporan asli tidak menyebut sasaran penerapan, waktu pelaksanaan, atau kriteria rinci. Ke depan, pembahasan kebijakan pembiayaan properti diperkirakan berfokus pada cara membedakan pinjaman untuk pengguna riil dan pinjaman yang tidak berbasis kebutuhan riil. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "7f7ea1b8ce05",
+    "slug": "막차-놓칠라-다주택-매물-다-주워간다서울-토허신청-1만건-387900",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-06T19:22:43.398Z",
+    "updatedAt": "2026-05-06T19:22:43.398Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035771",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035771",
+    "titleFingerprint": "5ca6ba66505d7962a9f011dfac658a3140b606bc",
+    "dedupKeys": [
+      "7f7ea1b8ce059dd166772c1a257a85a96b1844a3",
+      "5ca6ba66505d7962a9f011dfac658a3140b606bc",
+      "721b6187be327357ede2f6619c92e37c4c13707e"
+    ],
+    "imageUrl": "/images/articles/7f7ea1b8ce05.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 토지거래허가 신청 1만건 돌파, 다주택 매물 소진 빨라진 이유",
+        "excerpt": "지난 4월 서울 토지거래허가 신청이 1만건을 넘어서며 집값 급등기와 비슷한 거래 열기를 보였고, 현금 여력이 있는 무주택자가 매수를 주도한 것으로 전해졌다.",
+        "body": "지난 4월 서울에서 토지거래허가 신청이 1만건을 넘어섰다. 다주택자 매물이 빠르게 소진되며 거래 열기가 집값 급등기를 방불케 한 것으로 전해졌다. 원문에 따르면 현금 여력이 큰 무주택자가 거래를 주도했고, 시행을 9일 앞둔 시점에 쌓여 있던 매물도 감소세를 보였다. 토지거래허가 신청 증가는 규제 시행 전 매수 수요가 집중된 흐름으로 해석된다. 중과 시행 이후에는 매물 감소와 함께 가격 인상 가능성이 거론된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Land Transaction Permit Applications Top 10,000 as Listings Shrink",
+        "excerpt": "In April, Seoul saw more than 10,000 land transaction permit applications, echoing a period of sharp home-price gains as cash-rich first-time buyers led purchases.",
+        "body": "In April, land transaction permit applications in Seoul exceeded 10,000. Multiple-homeowner listings were quickly absorbed, and the market reportedly resembled a period of rapid home-price increases. According to the original report, cash-rich buyers without homes led transactions, while listings that had accumulated began to decline nine days before implementation. The rise in permit applications reflects concentrated buying demand ahead of the rule taking effect. After the heavier tax measure begins, the report notes that fewer listings could raise the possibility of price increases. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル土地取引許可申請1万件超、複数住宅の売り物減少が加速",
+        "excerpt": "4月のソウルで土地取引許可申請が1万件を超え、住宅価格急騰期を思わせる取引熱の中、現金余力のある無住宅者が購入を主導したと伝えられた。",
+        "body": "4月、ソウルの土地取引許可申請は1万件を超えた。複数住宅保有者の売り物が急速に消化され、住宅価格の急騰期を思わせる取引熱だったと伝えられている。原文によると、現金余力の大きい無住宅者が取引を主導し、施行を9日後に控えた時点で積み上がっていた売り物も減少傾向を示した。許可申請の増加は、規制施行前に買い需要が集中した流れとみられる。重課実施後は売り物減少とともに価格上昇の可能性も取り沙汰されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔土地交易许可申请突破1万件，多套房房源加速减少",
+        "excerpt": "今年4月，首尔土地交易许可申请超过1万件，交易热度近似房价快速上涨时期，现金充裕的无房买家被认为主导了成交。",
+        "body": "今年4月，首尔土地交易许可申请超过1万件。多套房业主挂牌房源被迅速消化，交易热度据称接近房价急涨时期。原文称，现金实力较强的无房买家主导交易，在相关措施实施前9天，此前累积的房源也开始减少。土地交易许可申请增加，反映出监管实施前买入需求集中释放。报道还提到，在重税措施实施后，随着房源减少，价格上调的可能性受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Solicitudes de permiso de compraventa de suelo en Seúl superan 10.000",
+        "excerpt": "En abril, Seúl registró más de 10.000 solicitudes de permiso para transacciones de suelo, con compras lideradas por personas sin vivienda y alta liquidez.",
+        "body": "En abril, las solicitudes de permiso para transacciones de suelo en Seúl superaron las 10.000. Las propiedades puestas en venta por propietarios con varias viviendas se absorbieron rápidamente, en un ambiente similar al de una etapa de fuertes subidas de precios. Según el informe original, compradores sin vivienda y con abundante efectivo lideraron las operaciones, mientras que los listados acumulados empezaron a disminuir nueve días antes de la aplicación de la medida. El aumento de solicitudes muestra una concentración de demanda antes de la norma. Tras la aplicación del recargo, se menciona la posibilidad de alzas de precios por menor oferta. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pedidos de licença para transações de terrenos em Seul passam de 10 mil",
+        "excerpt": "Em abril, Seul registrou mais de 10 mil pedidos de licença para transações de terrenos, com compradores sem imóvel e alta liquidez liderando as negociações.",
+        "body": "Em abril, os pedidos de licença para transações de terrenos em Seul ultrapassaram 10 mil. Imóveis colocados à venda por proprietários de múltiplas moradias foram rapidamente absorvidos, em um cenário comparado a períodos de forte alta nos preços das casas. Segundo o texto original, compradores sem imóvel e com grande disponibilidade de dinheiro lideraram as transações, enquanto estoques acumulados começaram a cair nove dias antes da implementação. O aumento dos pedidos indica demanda concentrada antes da regra. Após a cobrança mais pesada, há possibilidade mencionada de alta de preços com menor oferta. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul: Anträge für Grundstückstransaktionen übersteigen 10.000",
+        "excerpt": "Im April überschritten die Anträge für Grundstückstransaktionen in Seoul die Marke von 10.000; kaufkräftige Wohnungslose führten die Nachfrage vor der Regelumsetzung an.",
+        "body": "Im April stiegen die Anträge auf Genehmigung von Grundstückstransaktionen in Seoul auf über 10.000. Angebote von Eigentümern mehrerer Wohnungen wurden rasch aufgenommen, und die Marktlage erinnerte laut Bericht an eine Phase stark steigender Immobilienpreise. Dem Original zufolge führten zahlungskräftige Käufer ohne eigene Wohnung die Transaktionen an. Neun Tage vor Inkrafttreten gingen zuvor angesammelte Angebote zurück. Der Anstieg der Anträge deutet auf gebündelte Kaufnachfrage vor der Umsetzung der Regel hin. Nach Einführung der höheren Belastung wird bei knapperem Angebot die Möglichkeit steigender Preise genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Séoul, plus de 10.000 demandes d’autorisation de transaction foncière",
+        "excerpt": "En avril, Séoul a dépassé 10.000 demandes d’autorisation de transaction foncière, avec des acheteurs sans logement et fortement liquides en tête du marché.",
+        "body": "En avril, les demandes d’autorisation de transaction foncière à Séoul ont dépassé 10.000. Les biens mis en vente par des propriétaires de plusieurs logements ont été rapidement absorbés, dans une ambiance rappelant une période de forte hausse des prix immobiliers. Selon le texte original, les transactions ont été menées par des acheteurs sans logement disposant d’importantes liquidités. Neuf jours avant l’application de la mesure, les offres accumulées ont commencé à diminuer. Cette hausse des demandes traduit une concentration de la demande avant l’entrée en vigueur. Après le durcissement fiscal, une hausse des prix est évoquée avec la baisse des offres. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلبات تصاريح تداول الأراضي في سيول تتجاوز 10 آلاف مع تراجع المعروض",
+        "excerpt": "في أبريل، تجاوزت طلبات تصاريح تداول الأراضي في سيول 10 آلاف طلب، وسط نشاط يشبه فترات قفزات الأسعار وقيادة مشترين بلا مساكن وذوي سيولة مرتفعة.",
+        "body": "في أبريل، تجاوز عدد طلبات تصاريح تداول الأراضي في سيول 10 آلاف طلب. وجرى امتصاص المعروض من عقارات مالكي المنازل المتعددة بسرعة، في أجواء قيل إنها تشبه فترات الارتفاع الحاد في أسعار المساكن. وبحسب النص الأصلي، قاد التعاملات مشترون لا يملكون مساكن ولديهم سيولة نقدية كبيرة، كما بدأت العقارات المتراكمة في الانخفاض قبل تسعة أيام من بدء التطبيق. وتشير زيادة الطلبات إلى تركز الطلب على الشراء قبل سريان القاعدة. وبعد تطبيق التشديد، يرد احتمال ارتفاع الأسعار مع تراجع المعروض. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल में भूमि लेनदेन अनुमति आवेदन 10,000 पार, बहु-घर लिस्टिंग घटी",
+        "excerpt": "अप्रैल में सियोल में भूमि लेनदेन अनुमति आवेदनों की संख्या 10,000 से ऊपर गई, जहां नकद क्षमता वाले बिना-घर खरीदारों ने सौदों का नेतृत्व किया।",
+        "body": "अप्रैल में सियोल में भूमि लेनदेन अनुमति के आवेदन 10,000 से अधिक हो गए। कई घर रखने वालों की बिक्री लिस्टिंग तेजी से खरीदी गईं और बाजार की गर्मी घरों की कीमतों में तेज वृद्धि वाले दौर जैसी बताई गई। मूल रिपोर्ट के अनुसार, अधिक नकद क्षमता वाले बिना-घर खरीदारों ने लेनदेन का नेतृत्व किया। लागू होने से नौ दिन पहले तक जमा लिस्टिंग में कमी दिखने लगी। अनुमति आवेदनों की बढ़ोतरी नियम लागू होने से पहले खरीद मांग के केंद्रित होने को दिखाती है। भारी कर लागू होने के बाद कम लिस्टिंग के साथ कीमत बढ़ने की संभावना भी बताई गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permohonan Izin Transaksi Tanah Seoul Tembus 10.000, Listing Menyusut",
+        "excerpt": "Pada April, permohonan izin transaksi tanah di Seoul melampaui 10.000, dengan pembeli belum punya rumah dan bermodal tunai besar memimpin transaksi.",
+        "body": "Pada April, permohonan izin transaksi tanah di Seoul melampaui 10.000. Listing dari pemilik beberapa rumah terserap cepat, dan aktivitas pasar disebut menyerupai periode lonjakan harga rumah. Menurut laporan asli, pembeli yang belum memiliki rumah dan punya kemampuan tunai besar memimpin transaksi. Sembilan hari sebelum penerapan, listing yang sebelumnya menumpuk mulai menurun. Kenaikan permohonan izin menunjukkan permintaan beli yang terkonsentrasi sebelum aturan berlaku. Setelah pengenaan yang lebih berat diterapkan, kemungkinan kenaikan harga ikut disebut seiring berkurangnya listing. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "a48236930d6a",
     "slug": "월세-낼-생각-없으면-집-못-구해요수도권-70가-넘어갔다-kb부동산보고서-317195",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Porsi Sewa Bulanan di Area Seoul Naik 67,3%, Peralihan dari Jeonse Makin Cepat",
         "excerpt": "Menurut 2026 KB Real Estate Report yang dirilis KB Financial Research Institute pada 5 Mei, porsi sewa bulanan mencapai 67,3% di wilayah metropolitan Seoul dan 70,2% di luar ibu kota pada Januari-Februari.",
         "body": "Menurut 2026 KB Real Estate Report yang diterbitkan KB Financial Research Institute pada 5 Mei, porsi rumah tangga dengan sewa bulanan mencapai 67,3% di wilayah metropolitan Seoul dan 70,2% di luar kawasan ibu kota secara kumulatif pada Januari dan Februari, menunjukkan percepatan peralihan pasar sewa.\n\nLaporan itu menyebut kenaikan harga jual rumah di Seoul dan wilayah metropolitan tahun lalu memperlebar kesenjangan antardaerah, tetapi kawasan yang naik tajam memasuki fase koreksi karena regulasi pemerintah yang lebih kuat dan beban lonjakan jangka pendek. Harga jeonse naik 2,6% di Seoul dan 1,6% di Gyeonggi, sementara sewa bulanan apartemen di kawasan ibu kota naik 8%, melampaui kenaikan jeonse 2,5%.\n\nKB menilai penghindaran jeonse setelah kasus deposit tidak dikembalikan dan perubahan kondisi pinjaman menjadi faktor peralihan ke sewa bulanan. Laporan menyebut kontrak semi-jeonse, yang mengubah sebagian deposit menjadi sewa bulanan, meningkat dan dalam jangka panjang dapat menjadi dasar perluasan pasokan rumah sewa serta pertumbuhan pasar sewa korporasi.\n\nSumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "8d0f63e44390",
-    "slug": "부동산-인사이트-전세-월세가-사라지고-있다---비즈한국-863367",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:55:52.334Z",
-    "updatedAt": "2026-05-06T07:55:52.334Z",
-    "sourceName": "비즈한국",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UVc4c1NBWkJMcGx3ZUROdWFzdGZqT2pvbWlEVXBtSDlHVGZUZE5BY3pTN0F2YmdoOU9qWlBsbWo5VHB6cnE3czJOTTdvdGdnOGZQUkpn?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UVc4c1NBWkJMcGx3ZUROdWFzdGZqT2pvbWlEVXBtSDlHVGZUZE5BY3pTN0F2YmdoOU9qWlBsbWo5VHB6cnE3czJOTTdvdGdnOGZQUkpn?oc=5",
-    "titleFingerprint": "e22713c6748dfe0171027fea782fb36c9ed97763",
-    "dedupKeys": [
-      "8d0f63e443905ae20da1aa7b19a5ff6f15b3cfe7",
-      "e22713c6748dfe0171027fea782fb36c9ed97763",
-      "984a0e338fa19754f19e58d0fa09d7352f923499"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "서울 전월세 매물 실종, 1000세대 대단지도 ‘전세 0건’ 임차시장 경고",
-        "excerpt": "비즈한국은 2026년 5월 4일 서울 주요 대단지 아파트에서 전세와 월세 매물이 동시에 줄어드는 현상을 짚고 임차시장 구조 변화를 분석했다.",
-        "body": "비즈한국은 2026년 5월 4일 서울 도심 주요 대단지 아파트에서 전세와 월세 매물이 사라지는 현상이 나타나고 있다고 보도했다. 1000세대가 넘는 단지에서도 전세 물건이 한 건도 없는 사례가 확인됐다.\n\n기사에 따르면 원인은 토지거래허가구역 확대에 따른 실거주 의무, 2021~2022년 금리 급등 이후 줄어든 신규 입주 물량, 임대차 3법 이후 갱신청구권을 사용한 계약의 종료 시점이 겹친 데 있다. 정부의 수도권 127만 호 공급 계획도 착공 목표가 2030년으로 제시돼 당장의 전월세 공백을 메우기 어렵다는 지적이 나왔다.\n\n전세 물건이 줄고 월세도 충분히 공급되지 않으면 세입자는 외곽 이동, 주거 수준 하향, 높은 주거비 부담을 떠안을 수 있다. 기사에서는 수도권 직장인의 월세 부담률이 소득의 30~40%에 육박한다는 조사 결과도 언급됐다.\n\n출처: 비즈한국"
-      },
-      "en": {
-        "title": "Seoul Rental Listings Vanish as Large Apartment Complexes Show Zero Jeonse Units",
-        "excerpt": "BizHankook reported on May 4, 2026 that jeonse and monthly rental listings are disappearing in major Seoul apartment complexes, pointing to structural stress in Korea’s rental market.",
-        "body": "BizHankook reported on May 4, 2026 that jeonse and monthly rental listings are disappearing from major apartment complexes in central Seoul. In some complexes with more than 1,000 households, not a single jeonse listing was available.\n\nThe article cited several causes: expanded land transaction permit zones that require owner occupancy, reduced new apartment move-in supply after the 2021-2022 interest-rate surge, and contracts ending after tenants used renewal rights under the lease laws. It also noted that the government’s 1.27 million-home supply plan for the Seoul metropolitan area targets construction starts in 2030, making it difficult to ease the current shortage.\n\nIf both jeonse and monthly rentals remain scarce, tenants may face moves to outer areas, lower housing standards, or heavier housing costs. The article also mentioned survey findings that monthly rent burdens for metropolitan office workers are nearing 30-40% of income.\n\nSource: BizHankook"
-      },
-      "ja": {
-        "title": "ソウル賃貸物件が消える、1000戸超の大団地でもチョンセ0件の警告",
-        "excerpt": "ビズ韓国は2026年5月4日、ソウル主要大規模マンションでチョンセと月払い賃貸の物件が同時に減る現象を報じ、賃貸市場の構造変化を分析した。",
-        "body": "ビズ韓国は2026年5月4日、ソウル都心の主要大規模マンションでチョンセと月払い賃貸の物件が消えつつあると報じた。1000戸を超える団地でも、チョンセ物件が1件もない事例が確認された。\n\n記事によると、背景には土地取引許可区域の拡大に伴う実居住義務、2021～2022年の金利急騰後に減った新規入居物件、賃貸借3法以降に更新請求権を使った契約の終了時期が重なったことがある。政府の首都圏127万戸供給計画も着工目標が2030年で、目先の賃貸空白を埋めにくいと指摘した。\n\nチョンセが減り、月払い賃貸も十分に供給されなければ、借り手は郊外移転、住居水準の低下、高い住居費負担を迫られる可能性がある。記事は首都圏会社員の月払い負担率が所得の30～40％に迫るとの調査結果にも触れた。\n\n出典: ビズ韓国"
-      },
-      "zh": {
-        "title": "首尔租房房源消失，千户大盘也出现“全租0套”市场警讯",
-        "excerpt": "BizHankook于2026年5月4日报道称，首尔主要大型公寓的全租和月租房源同步减少，韩国租赁市场正面临结构性变化。",
-        "body": "BizHankook于2026年5月4日报道，首尔市中心主要大型公寓中，全租和月租房源正在消失。在部分超过1000户的大型小区，也出现了全租房源一套都没有的情况。\n\n报道指出，原因包括土地交易许可区扩大后带来的实际居住义务、2021至2022年利率急升后新入住供应减少，以及《住宅租赁保护法》相关续约请求权使用后的合同陆续到期。政府提出的首都圈127万户供应计划，开工目标为2030年，难以填补眼前的租赁缺口。\n\n如果全租减少、月租供应也不足，租户可能被迫迁往外围地区、降低居住标准，或承担更高住房成本。报道还提到，首都圈上班族的月租负担率已接近收入的30%至40%。\n\n来源: BizHankook"
-      },
-      "es": {
-        "title": "Desaparecen alquileres en Seúl: complejos de 1.000 viviendas sin jeonse disponible",
-        "excerpt": "BizHankook informó el 4 de mayo de 2026 que las ofertas de jeonse y alquiler mensual caen en grandes complejos de Seúl, señalando un cambio estructural del mercado arrendatario coreano.",
-        "body": "BizHankook informó el 4 de mayo de 2026 que las ofertas de jeonse y alquiler mensual están desapareciendo en grandes complejos de apartamentos del centro de Seúl. En algunos conjuntos con más de 1.000 viviendas no había ni una sola oferta de jeonse.\n\nEl artículo atribuyó el fenómeno a la expansión de zonas con permiso de transacción de suelo, que exige residencia efectiva; a la caída de nuevas viviendas disponibles tras el alza de tipos de 2021-2022; y al vencimiento de contratos renovados bajo las leyes de arrendamiento. También señaló que el plan oficial de 1,27 millones de viviendas en el área metropolitana prevé iniciar obras en 2030, por lo que no cubre el vacío actual.\n\nSi faltan tanto jeonse como alquileres mensuales, los inquilinos podrían mudarse a zonas periféricas, aceptar viviendas de menor calidad o asumir mayores costes. El texto citó encuestas que sitúan la carga del alquiler mensual de trabajadores metropolitanos cerca del 30-40% de sus ingresos.\n\nFuente: BizHankook"
-      },
-      "pt": {
-        "title": "Aluguéis somem em Seul: grandes condomínios já têm zero unidades de jeonse",
-        "excerpt": "A BizHankook informou em 4 de maio de 2026 que ofertas de jeonse e aluguel mensal estão caindo em grandes condomínios de Seul, revelando tensão estrutural no mercado locatício coreano.",
-        "body": "A BizHankook informou em 4 de maio de 2026 que ofertas de jeonse e aluguel mensal estão desaparecendo de grandes condomínios de apartamentos no centro de Seul. Em alguns conjuntos com mais de 1.000 unidades, não havia nenhuma oferta de jeonse.\n\nSegundo a reportagem, as causas incluem a ampliação de zonas de permissão para transações de terra, que impõe obrigação de moradia própria; a queda de novas entregas após a alta dos juros em 2021-2022; e o fim de contratos renovados após o uso do direito de renovação previsto nas leis de locação. O plano oficial de 1,27 milhão de moradias na região metropolitana tem meta de início de obras em 2030, o que não resolve a falta atual.\n\nCom menos jeonse e aluguel mensal insuficiente, inquilinos podem ser empurrados para áreas periféricas, reduzir padrão de moradia ou arcar com custos maiores. A reportagem citou pesquisas que apontam aluguel mensal perto de 30-40% da renda de trabalhadores metropolitanos.\n\nFonte: BizHankook"
-      },
-      "de": {
-        "title": "Mietangebote in Seoul verschwinden: Großanlagen melden null Jeonse-Wohnungen",
-        "excerpt": "BizHankook berichtete am 4. Mai 2026, dass Jeonse- und Monatsmietangebote in großen Wohnanlagen Seouls zurückgehen und Koreas Mietmarkt strukturell unter Druck steht.",
-        "body": "BizHankook berichtete am 4. Mai 2026, dass Jeonse- und Monatsmietangebote in großen Apartmentanlagen im Zentrum von Seoul verschwinden. In einigen Anlagen mit mehr als 1.000 Haushalten gab es kein einziges Jeonse-Angebot.\n\nAls Gründe nannte der Artikel erweiterte Landtransaktions-Genehmigungszonen mit Pflicht zur Eigennutzung, weniger neue Bezugswohnungen nach dem Zinsschock von 2021-2022 und auslaufende Verträge nach Nutzung des Verlängerungsrechts unter den Mietgesetzen. Auch der staatliche Plan für 1,27 Millionen Wohnungen im Großraum Seoul helfe kurzfristig kaum, da der Baubeginn für 2030 angesetzt ist.\n\nWenn Jeonse-Angebote sinken und Monatsmieten ebenfalls knapp bleiben, drohen Mietern Umzüge an den Stadtrand, geringere Wohnqualität oder höhere Wohnkosten. Der Artikel verwies zudem auf Umfragen, wonach die Monatsmietbelastung von Beschäftigten im Großraum Seoul fast 30-40% ihres Einkommens erreicht.\n\nQuelle: BizHankook"
-      },
-      "fr": {
-        "title": "À Séoul, les locations disparaissent: des grands ensembles sans aucun jeonse",
-        "excerpt": "BizHankook a rapporté le 4 mai 2026 que les offres de jeonse et de loyers mensuels reculent dans les grands ensembles de Séoul, signe d’un changement structurel du marché locatif coréen.",
-        "body": "BizHankook a rapporté le 4 mai 2026 que les offres de jeonse et de location mensuelle disparaissent dans de grands ensembles d’appartements du centre de Séoul. Dans certains ensembles de plus de 1 000 logements, aucune offre de jeonse n’était disponible.\n\nL’article cite plusieurs causes: l’extension des zones soumises à permis de transaction foncière avec obligation d’occupation, la baisse des nouvelles livraisons après la flambée des taux de 2021-2022, et l’arrivée à échéance de contrats renouvelés sous les lois locatives. Le plan public de 1,27 million de logements dans la région métropolitaine vise un démarrage des travaux en 2030, ce qui ne comble pas le manque actuel.\n\nSi le jeonse diminue et que les locations mensuelles restent insuffisantes, les locataires pourraient s’éloigner en périphérie, accepter un logement de moindre qualité ou supporter des coûts plus élevés. L’article mentionne aussi des enquêtes plaçant le poids du loyer mensuel des actifs métropolitains près de 30-40% du revenu.\n\nSource: BizHankook"
-      },
-      "ar": {
-        "title": "اختفاء إيجارات سيول: مجمعات تضم ألف أسرة بلا أي عرض جيونسي متاح",
-        "excerpt": "أفاد BizHankook في 4 مايو 2026 بأن عروض الجيونسي والإيجار الشهري تتراجع في مجمعات سيول الكبرى، ما يكشف تغيرا هيكليا في سوق الإيجار الكورية.",
-        "body": "أفاد BizHankook في 4 مايو 2026 بأن عروض الجيونسي والإيجار الشهري تختفي من مجمعات الشقق الكبرى في وسط سيول. وفي بعض المجمعات التي تضم أكثر من 1000 أسرة، لم يكن هناك أي عرض جيونسي متاح.\n\nوذكر التقرير أن الأسباب تشمل توسيع مناطق تصاريح معاملات الأراضي وما يفرضه ذلك من سكن فعلي للمالك، وتراجع المعروض الجديد بعد قفزة أسعار الفائدة في 2021 و2022، وانتهاء عقود استخدم أصحابها حق التجديد بموجب قوانين الإيجار. كما أشار إلى أن خطة الحكومة لتوفير 1.27 مليون منزل في منطقة العاصمة تستهدف بدء البناء في 2030، ما يصعب معالجة النقص الحالي.\n\nإذا بقيت عروض الجيونسي قليلة ولم يكف الإيجار الشهري، فقد يواجه المستأجرون الانتقال إلى الأطراف أو خفض مستوى السكن أو تحمل تكاليف أعلى. وذكر التقرير نتائج مسوح تفيد بأن عبء الإيجار الشهري على موظفي منطقة العاصمة يقترب من 30 إلى 40% من الدخل.\n\nالمصدر: BizHankook"
-      },
-      "hi": {
-        "title": "सियोल में किराये की कमी, 1,000 घरों वाले परिसरों में भी जीओन्से शून्य",
-        "excerpt": "BizHankook ने 4 मई 2026 को बताया कि सियोल के बड़े अपार्टमेंट परिसरों में जीओन्से और मासिक किराये की लिस्टिंग घट रही हैं, जो कोरिया के किराया बाजार में संरचनात्मक दबाव दिखाता है।",
-        "body": "BizHankook ने 4 मई 2026 को बताया कि सियोल के केंद्रीय इलाकों के बड़े अपार्टमेंट परिसरों से जीओन्से और मासिक किराये की लिस्टिंग गायब हो रही हैं। कुछ 1,000 से अधिक घरों वाले परिसरों में जीओन्से की एक भी उपलब्ध लिस्टिंग नहीं थी।\n\nरिपोर्ट के अनुसार इसके कारणों में भूमि लेनदेन अनुमति क्षेत्रों का विस्तार और उससे जुड़ी मालिक के वास्तविक निवास की शर्त, 2021-2022 में ब्याज दरों की तेज वृद्धि के बाद नई आपूर्ति में कमी, और किराया कानूनों के तहत नवीनीकरण अधिकार इस्तेमाल कर चुके अनुबंधों की समाप्ति शामिल हैं। सरकार की 수도권 12.7 लाख घरों की योजना में निर्माण शुरू करने का लक्ष्य 2030 है, इसलिए मौजूदा कमी तुरंत दूर होना कठिन बताया गया।\n\nयदि जीओन्से कम होता रहा और मासिक किराया भी पर्याप्त नहीं रहा, तो किरायेदारों को बाहरी इलाकों में जाना, कम गुणवत्ता का आवास चुनना या अधिक खर्च उठाना पड़ सकता है। रिपोर्ट में यह भी कहा गया कि महानगरीय कर्मचारियों का मासिक किराया बोझ आय के 30-40% के करीब पहुंच रहा है।\n\nस्रोत: BizHankook"
-      },
-      "id": {
-        "title": "Sewa di Seoul Menghilang, Kompleks 1.000 Unit pun Nol Listing Jeonse",
-        "excerpt": "BizHankook melaporkan pada 4 Mei 2026 bahwa listing jeonse dan sewa bulanan menyusut di kompleks apartemen besar Seoul, menandai tekanan struktural di pasar sewa Korea.",
-        "body": "BizHankook melaporkan pada 4 Mei 2026 bahwa listing jeonse dan sewa bulanan menghilang dari kompleks apartemen besar di pusat Seoul. Di beberapa kompleks dengan lebih dari 1.000 rumah tangga, tidak ada satu pun listing jeonse tersedia.\n\nArtikel itu menyebut beberapa penyebab: perluasan zona izin transaksi tanah yang mewajibkan pemilik tinggal sendiri, berkurangnya pasokan hunian baru setelah lonjakan suku bunga 2021-2022, serta berakhirnya kontrak setelah penyewa menggunakan hak perpanjangan berdasarkan undang-undang sewa. Rencana pemerintah menyediakan 1,27 juta rumah di kawasan metropolitan juga menargetkan mulai konstruksi pada 2030, sehingga sulit menutup kekosongan saat ini.\n\nJika jeonse berkurang dan sewa bulanan juga tidak cukup, penyewa bisa terdorong ke pinggiran, menurunkan standar hunian, atau menanggung biaya lebih tinggi. Artikel tersebut juga menyebut survei bahwa beban sewa bulanan pekerja metropolitan mendekati 30-40% dari pendapatan.\n\nSumber: BizHankook"
-      }
-    }
-  },
-  {
-    "id": "ffd045bf04cd",
-    "slug": "단독보이스피싱-기획부동산-범죄에도-위장수사-도입-추진---동아일보-603899",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:54:16.550Z",
-    "updatedAt": "2026-05-06T07:54:16.550Z",
-    "sourceName": "동아일보",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ValZ1TTVQRWhCbjNCLWVkbWxTMjB3Ym1rcnMxaGlJdVJablMzckRvMFZjQUZEcTd3YzNIdmVQS19iZnV6WDEtNGktRmkwaEd1U1E0NjJNX0pSazR1Szc4Z1NTWHFNQlBCV0VoTlNGelFTTHhTUHfSAWZBVV95cUxNUV9YY1VxMkF1a1gtcW1FMDE1SVJhbmN3X2JKZjRhVGNCcENuRVRZaUlUdmZuNmN4enZjWnZFZ3dKWkJGdGtPejZVbVItaEdORjFtamhtRVY2a0k3QjZiYThEc3M4aEE?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ValZ1TTVQRWhCbjNCLWVkbWxTMjB3Ym1rcnMxaGlJdVJablMzckRvMFZjQUZEcTd3YzNIdmVQS19iZnV6WDEtNGktRmkwaEd1U1E0NjJNX0pSazR1Szc4Z1NTWHFNQlBCV0VoTlNGelFTTHhTUHfSAWZBVV95cUxNUV9YY1VxMkF1a1gtcW1FMDE1SVJhbmN3X2JKZjRhVGNCcENuRVRZaUlUdmZuNmN4enZjWnZFZ3dKWkJGdGtPejZVbVItaEdORjFtamhtRVY2a0k3QjZiYThEc3M4aEE?oc=5",
-    "titleFingerprint": "9ef172f12749c1df753bc8962b4e86f56ce24c0e",
-    "dedupKeys": [
-      "ffd045bf04cdedaf3aec4f7f225a78c5634b0f4d",
-      "9ef172f12749c1df753bc8962b4e86f56ce24c0e",
-      "5686a6d3ee1b7cf1670a2e1fd61f2ff59863ea3f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "보이스피싱·기획부동산도 위장수사 추진, 조직사기특별법 국회 발의",
-        "excerpt": "국민의힘 조배숙 의원과 여야 의원 59명은 2026년 5월 6일 보이스피싱·기획부동산 등 조직사기에 위장수사를 허용하는 특별법안을 발의한다.",
-        "body": "국회 법제사법위원회 소속 국민의힘 조배숙 의원은 여야 의원 59명과 함께 2026년 5월 6일 조직사기 범죄에 위장수사를 허용하는 ‘조직사기 피해 방지 및 피해자 보호 등에 관한 특별법안’을 발의한다. 법안은 보이스피싱, 로맨스스캠, 투자 리딩방, 기획부동산 사기 등에 수사관이 조직원이나 피해자 등으로 위장해 계약·거래에 참여하고 증거를 수집할 수 있도록 하는 내용이다.\n\n현재 위장수사는 디지털 성범죄와 마약 범죄에 제한적으로 허용된다. 그러나 조직사기가 점조직 형태로 진화하면서 총책 검거와 자금 흐름 파악에 한계가 있다는 지적이 이어졌다. 동아일보는 보이스피싱 범죄수익 약 3000억 원 세탁 사건과 18억 원대 투자 리딩방 사건에서도 총책 검거가 어려웠다고 전했다.\n\n법안에는 수사에 협조한 핵심 조직원의 처벌을 감경하는 플리바기닝 제도도 포함됐다. 일각에서는 함정수사와 수사권 남용 우려가 제기되지만, 익명 플랫폼을 활용하는 조직사기 대응을 위해 수사 재량 확대가 필요하다는 반론도 나온다.\n\n출처: 동아일보"
-      },
-      "en": {
-        "title": "South Korea Moves to Allow Undercover Probes in Voice Phishing and Real Estate Fraud",
-        "excerpt": "Rep. Cho Bae-sook and 59 lawmakers will introduce a bill on May 6, 2026, to permit undercover investigations into organized fraud such as voice phishing and planned real estate scams.",
-        "body": "Rep. Cho Bae-sook of the People Power Party, a member of the National Assembly Legislation and Judiciary Committee, will introduce a special bill on May 6, 2026, with 59 lawmakers from both ruling and opposition parties. The bill would allow undercover investigations into organized fraud. It would let investigators pose as members or victims and take part in contracts or transactions to collect evidence in cases involving voice phishing, romance scams, investment chat-room fraud and planned real estate fraud.\n\nUnder current rules, undercover investigations are allowed only in limited areas such as digital sex crimes and drug offenses. Dong-A Ilbo reported that organized fraud has evolved into cell-like networks, making it difficult to identify top leaders and trace money flows. In past cases involving about 300 billion won in laundered voice-phishing proceeds and an 1.8 billion won investment-room fraud, key leaders were reportedly hard to arrest.\n\nThe bill also includes a plea-bargaining system that could reduce punishment for key members who cooperate with investigations. Critics warn of entrapment and abuse of investigative powers, while supporters argue broader discretion is needed as fraud groups hide behind anonymous platforms.\n\nSource: Dong-A Ilbo"
-      },
-      "ja": {
-        "title": "韓国、ボイスフィッシング・企画不動産詐欺にも潜入捜査導入を推進",
-        "excerpt": "国民の力の趙培淑議員と与野党議員59人は2026年5月6日、ボイスフィッシングや企画不動産詐欺など組織詐欺に潜入捜査を認める特別法案を発議する。",
-        "body": "韓国国会法制司法委員会所属の国民の力、趙培淑議員は、与野党議員59人とともに2026年5月6日、組織詐欺犯罪に潜入捜査を認める「組織詐欺被害防止および被害者保護などに関する特別法案」を発議する。法案は、ボイスフィッシング、ロマンス詐欺、投資リーディングルーム、企画不動産詐欺などで、捜査官が組織員や被害者などを装い、契約や取引に参加して証拠を集められるようにする内容だ。\n\n現在、潜入捜査はデジタル性犯罪と麻薬犯罪に限って認められている。しかし、組織詐欺が分散型の組織へ進化し、首謀者の検挙や資金の流れの把握に限界があるとの指摘が続いてきた。東亜日報は、ボイスフィッシング犯罪収益約3000億ウォンの資金洗浄事件や18億ウォン規模の投資リーディングルーム事件でも、首謀者の検挙が難しかったと伝えた。\n\n法案には、捜査に協力した核心組織員の処罰を軽減する司法取引制度も盛り込まれた。一方で、おとり捜査や捜査権乱用への懸念も出ているが、匿名プラットフォームを利用する組織詐欺に対応するため、捜査裁量の拡大が必要だとの反論もある。\n\n出典: 東亜日報"
-      },
-      "zh": {
-        "title": "韩国拟将卧底侦查扩大至电信诈骗和策划型房地产诈骗",
-        "excerpt": "韩国国民力量议员赵培淑与朝野59名议员将于2026年5月6日提出特别法案，允许对电信诈骗、策划型房地产诈骗等有组织诈骗进行卧底侦查。",
-        "body": "韩国国会法制司法委员会所属国民力量议员赵培淑将与朝野59名议员于2026年5月6日提出《防止有组织诈骗受害及保护受害者等特别法案》。该法案拟允许对有组织诈骗犯罪实施卧底侦查，侦查人员可伪装成组织成员或受害者，参与合同或交易并收集证据，适用对象包括电信诈骗、恋爱诈骗、投资带单群诈骗和策划型房地产诈骗。\n\n目前，韩国卧底侦查仅在数字性犯罪和毒品犯罪中受到有限允许。但有组织诈骗正演变为分散式网络，外界持续指出，现有方式在抓捕首脑和掌握资金流向方面存在局限。东亚日报报道，在约3000亿韩元电信诈骗犯罪收益洗钱案以及18亿韩元规模投资带单群诈骗案中，首脑抓捕均面临困难。\n\n法案还包括对配合侦查的核心组织成员减轻处罚的认罪协商制度。也有意见担忧诱导犯罪和侦查权滥用，但支持者认为，诈骗组织利用匿名平台隐藏身份，扩大侦查裁量具有必要性。\n\n来源: 东亚日报"
-      },
-      "es": {
-        "title": "Corea del Sur impulsa agentes encubiertos contra phishing telefónico y fraude inmobiliario",
-        "excerpt": "La diputada Cho Bae-sook y 59 legisladores presentarán el 6 de mayo de 2026 un proyecto para permitir investigaciones encubiertas en fraudes organizados como phishing telefónico y estafas inmobiliarias planificadas.",
-        "body": "La diputada Cho Bae-sook, del Partido del Poder Popular y miembro del Comité de Legislación y Justicia de la Asamblea Nacional, presentará el 6 de mayo de 2026, junto con 59 legisladores del oficialismo y la oposición, un proyecto de ley especial contra el fraude organizado. La iniciativa permitiría que investigadores se hagan pasar por miembros de una organización o por víctimas, participen en contratos o transacciones y recojan pruebas en casos de phishing telefónico, estafas románticas, salas de inversión dirigidas y fraudes inmobiliarios planificados.\n\nActualmente, las investigaciones encubiertas en Corea del Sur solo se permiten de forma limitada para delitos sexuales digitales y narcotráfico. Dong-A Ilbo informó que el fraude organizado ha evolucionado hacia redes fragmentadas, lo que dificulta detener a los cabecillas y seguir el flujo de dinero. En casos previos de lavado de unos 300.000 millones de wones y de una estafa de inversión por 1.800 millones de wones, los líderes fueron difíciles de capturar.\n\nEl proyecto también incluye un sistema de negociación penal para reducir penas a miembros clave que colaboren. Hay preocupación por posibles provocaciones policiales y abuso de poder, mientras otros sostienen que se necesita más margen de investigación ante grupos que usan plataformas anónimas.\n\nFuente: Dong-A Ilbo"
-      },
-      "pt": {
-        "title": "Coreia do Sul avança com infiltração contra voice phishing e fraude imobiliária planejada",
-        "excerpt": "A deputada Cho Bae-sook e 59 parlamentares apresentarão em 6 de maio de 2026 um projeto para permitir investigações encobertas em fraudes organizadas, como voice phishing e golpes imobiliários planejados.",
-        "body": "A deputada Cho Bae-sook, do Partido do Poder Popular e integrante do Comitê de Legislação e Justiça da Assembleia Nacional, apresentará em 6 de maio de 2026, com 59 parlamentares da situação e da oposição, um projeto de lei especial contra fraudes organizadas. A proposta permitiria que investigadores se passassem por membros de organizações ou vítimas, participassem de contratos ou transações e coletassem provas em casos de voice phishing, golpes românticos, salas de investimento guiado e fraudes imobiliárias planejadas.\n\nAtualmente, investigações encobertas na Coreia do Sul são permitidas de forma limitada apenas para crimes sexuais digitais e crimes de drogas. O Dong-A Ilbo informou que as fraudes organizadas evoluíram para redes fragmentadas, dificultando a prisão dos chefes e o rastreamento do fluxo de dinheiro. Em casos envolvendo cerca de 300 bilhões de wons em lavagem de receitas de voice phishing e uma fraude de investimento de 1,8 bilhão de wons, os líderes foram difíceis de prender.\n\nO projeto também inclui um mecanismo de acordo penal para reduzir penas de membros centrais que cooperem com a investigação. Há preocupação com indução ao crime e abuso de poder, mas defensores afirmam que é preciso ampliar a discricionariedade investigativa contra grupos que se escondem em plataformas anônimas.\n\nFonte: Dong-A Ilbo"
-      },
-      "de": {
-        "title": "Südkorea plant verdeckte Ermittlungen gegen Voice-Phishing und Immobilienbetrug",
-        "excerpt": "Die Abgeordnete Cho Bae-sook und 59 Parlamentarier wollen am 6. Mai 2026 einen Gesetzentwurf einbringen, der verdeckte Ermittlungen bei organisierter Betrugskriminalität erlaubt.",
-        "body": "Die Abgeordnete Cho Bae-sook von der People Power Party, Mitglied des Gesetzgebungs- und Justizausschusses der Nationalversammlung, will am 6. Mai 2026 gemeinsam mit 59 Abgeordneten von Regierung und Opposition ein Sondergesetz gegen organisierte Betrugsdelikte einbringen. Der Entwurf soll Ermittlern erlauben, sich als Organisationsmitglieder oder Opfer auszugeben, an Verträgen oder Transaktionen teilzunehmen und Beweise zu sammeln. Erfasst wären unter anderem Voice-Phishing, Romance Scams, Anlage-Chatroom-Betrug und geplanter Immobilienbetrug.\n\nDerzeit sind verdeckte Ermittlungen in Südkorea nur begrenzt bei digitalen Sexualdelikten und Drogendelikten zulässig. Dong-A Ilbo berichtete, organisierte Betrugsgruppen hätten sich zu zellenartigen Netzwerken entwickelt, wodurch die Festnahme der Führung und die Nachverfolgung von Geldflüssen erschwert würden. In Fällen von rund 300 Milliarden Won gewaschener Voice-Phishing-Erlöse und einem Anlagebetrug über 1,8 Milliarden Won seien führende Täter schwer zu fassen gewesen.\n\nDer Entwurf enthält zudem eine Art Verständigungsregel, die Strafen für kooperierende Schlüsselfiguren mindern kann. Kritiker warnen vor Tatprovokation und Machtmissbrauch, Befürworter verweisen auf Betrugsgruppen, die sich hinter anonymen Plattformen verbergen.\n\nQuelle: Dong-A Ilbo"
-      },
-      "fr": {
-        "title": "La Corée du Sud veut des enquêtes sous couverture contre phishing vocal et fraude immobilière",
-        "excerpt": "La députée Cho Bae-sook et 59 élus déposeront le 6 mai 2026 un projet autorisant les enquêtes sous couverture dans les fraudes organisées, dont le phishing vocal et l’immobilier frauduleux.",
-        "body": "La députée Cho Bae-sook, du Parti du pouvoir au peuple et membre de la commission législation et justice de l’Assemblée nationale, déposera le 6 mai 2026, avec 59 élus de la majorité et de l’opposition, un projet de loi spécial contre la fraude organisée. Le texte permettrait à des enquêteurs de se faire passer pour des membres d’un groupe ou des victimes, de participer à des contrats ou transactions et de recueillir des preuves dans des affaires de phishing vocal, d’arnaques sentimentales, de salons d’investissement guidé et de fraude immobilière planifiée.\n\nAujourd’hui, les enquêtes sous couverture ne sont autorisées en Corée du Sud que de façon limitée pour les crimes sexuels numériques et les affaires de drogue. Dong-A Ilbo rapporte que les fraudes organisées évoluent en réseaux fragmentés, ce qui complique l’arrestation des dirigeants et le suivi des flux financiers. Des affaires de blanchiment d’environ 300 milliards de wons issus du phishing vocal et de fraude à l’investissement de 1,8 milliard de wons ont illustré ces limites.\n\nLe projet inclut aussi un mécanisme de négociation de peine pour les membres clés coopérant avec les enquêteurs. Certains redoutent des provocations policières et des abus, tandis que d’autres jugent nécessaire d’élargir la marge d’enquête face aux groupes utilisant des plateformes anonymes.\n\nSource: Dong-A Ilbo"
-      },
-      "ar": {
-        "title": "كوريا الجنوبية تتجه للسماح بالتحقيق السري في التصيد الهاتفي والاحتيال العقاري",
-        "excerpt": "تعتزم النائبة تشو باي سوك و59 مشرعا تقديم مشروع قانون في 6 مايو 2026 يسمح بالتحقيقات السرية في جرائم الاحتيال المنظم مثل التصيد الهاتفي والاحتيال العقاري المخطط.",
-        "body": "تعتزم النائبة تشو باي سوك من حزب قوة الشعب، وهي عضو في لجنة التشريع والقضاء بالجمعية الوطنية، تقديم مشروع قانون خاص في 6 مايو 2026 مع 59 مشرعا من الحكومة والمعارضة. ويسمح المشروع بإجراء تحقيقات سرية في جرائم الاحتيال المنظم، بحيث يستطيع المحققون التنكر كأعضاء في التنظيم أو كضحايا، والمشاركة في العقود أو المعاملات لجمع الأدلة في قضايا التصيد الهاتفي، والاحتيال العاطفي، وغرف الاستثمار الموجه، والاحتيال العقاري المخطط.\n\nفي الوقت الحالي، لا يسمح بالتحقيقات السرية في كوريا الجنوبية إلا بشكل محدود في جرائم الجنس الرقمية وجرائم المخدرات. وذكرت دونغ آه إلبو أن الاحتيال المنظم تطور إلى شبكات خلوية، ما يصعب اعتقال القادة وتتبع حركة الأموال. وأشارت إلى صعوبات في قضايا غسل نحو 300 مليار وون من عائدات التصيد الهاتفي واحتيال استثماري بقيمة 1.8 مليار وون.\n\nيتضمن المشروع أيضا نظاما لتخفيف عقوبة أعضاء رئيسيين يتعاونون مع التحقيق. وتثار مخاوف من الاستدراج وإساءة استخدام سلطة التحقيق، بينما يرى مؤيدون أن توسيع هامش التحقيق ضروري مع اختباء الجماعات خلف منصات مجهولة.\n\nالمصدر: دونغ آه إلبو"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया में वॉइस फिशिंग और रियल एस्टेट धोखाधड़ी पर गुप्त जांच का प्रस्ताव",
-        "excerpt": "सांसद चो बे-सूक और 59 सांसद 6 मई 2026 को ऐसा विधेयक पेश करेंगे जो वॉइस फिशिंग और योजनाबद्ध रियल एस्टेट धोखाधड़ी जैसे संगठित फ्रॉड में गुप्त जांच की अनुमति देगा।",
-        "body": "नेशनल असेंबली की विधान और न्याय समिति की सदस्य तथा पीपुल पावर पार्टी की सांसद चो बे-सूक 59 सत्तापक्ष और विपक्षी सांसदों के साथ 6 मई 2026 को संगठित धोखाधड़ी पर विशेष विधेयक पेश करेंगी। प्रस्ताव के तहत जांचकर्ता संगठन के सदस्य या पीड़ित बनकर अनुबंधों या लेनदेन में भाग ले सकेंगे और वॉइस फिशिंग, रोमांस स्कैम, निवेश लीडिंग रूम और योजनाबद्ध रियल एस्टेट धोखाधड़ी जैसे मामलों में सबूत जुटा सकेंगे।\n\nफिलहाल दक्षिण कोरिया में गुप्त जांच केवल डिजिटल यौन अपराधों और ड्रग अपराधों में सीमित रूप से मान्य है। डोंग-ए इल्बो के अनुसार संगठित धोखाधड़ी छोटे-छोटे नेटवर्कों में विकसित हो गई है, जिससे सरगनाओं को पकड़ना और धन प्रवाह का पता लगाना कठिन हो गया है। वॉइस फिशिंग से जुड़े लगभग 300 अरब वॉन के मनी लॉन्ड्रिंग मामले और 1.8 अरब वॉन के निवेश धोखाधड़ी मामले में भी शीर्ष लोगों को पकड़ना मुश्किल रहा।\n\nविधेयक में जांच में सहयोग करने वाले प्रमुख सदस्यों की सजा कम करने की व्यवस्था भी शामिल है। कुछ पक्षों ने फंसाने वाली जांच और अधिकारों के दुरुपयोग की चिंता जताई है, जबकि समर्थकों का कहना है कि गुमनाम प्लेटफॉर्म का उपयोग करने वाले गिरोहों से निपटने के लिए जांच का दायरा बढ़ाना जरूरी है।\n\nस्रोत: डोंग-ए इल्बो"
-      },
-      "id": {
-        "title": "Korea Selatan Dorong Penyamaran untuk Ungkap Voice Phishing dan Penipuan Properti",
-        "excerpt": "Anggota parlemen Cho Bae-sook dan 59 legislator akan mengajukan RUU pada 6 Mei 2026 untuk mengizinkan penyidikan penyamaran dalam penipuan terorganisasi seperti voice phishing dan penipuan properti terencana.",
-        "body": "Anggota parlemen Cho Bae-sook dari People Power Party, anggota Komite Legislasi dan Kehakiman Majelis Nasional, akan mengajukan RUU khusus pada 6 Mei 2026 bersama 59 legislator dari kubu pemerintah dan oposisi. RUU itu memungkinkan penyidik menyamar sebagai anggota organisasi atau korban, ikut dalam kontrak atau transaksi, dan mengumpulkan bukti dalam kasus voice phishing, penipuan asmara, ruang panduan investasi, serta penipuan properti terencana.\n\nSaat ini, penyidikan penyamaran di Korea Selatan hanya diizinkan secara terbatas untuk kejahatan seksual digital dan narkoba. Dong-A Ilbo melaporkan bahwa penipuan terorganisasi telah berkembang menjadi jaringan terpecah, sehingga sulit menangkap pimpinan dan melacak aliran dana. Dalam kasus pencucian sekitar 300 miliar won hasil voice phishing dan penipuan investasi senilai 1,8 miliar won, para pemimpin utama juga sulit ditangkap.\n\nRUU tersebut juga mencakup mekanisme pengurangan hukuman bagi anggota kunci yang bekerja sama dengan penyidikan. Ada kekhawatiran soal jebakan dan penyalahgunaan wewenang, tetapi pendukung menilai perluasan diskresi penyidikan diperlukan karena kelompok penipu bersembunyi di balik platform anonim.\n\nSumber: Dong-A Ilbo"
-      }
-    }
-  },
-  {
-    "id": "7488e2cc5297",
-    "slug": "부동산-세금으로-잡아선-안돼-조작기소-특검은-국회-영역63-후보자-직격-인터뷰---문화일보-720083",
-    "channelId": "REALESTATE",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:52:22.115Z",
-    "updatedAt": "2026-05-06T07:52:22.115Z",
-    "sourceName": "문화일보",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYVg0c3pXUDBSM2NSR1ZCcl9XM09jd280dF9uaHc5WTRhOWV4NXoyVEJETzBKeXVLZ2NicTVpTGlqRDRZSzlob3VpZXF0WGJH?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYVg0c3pXUDBSM2NSR1ZCcl9XM09jd280dF9uaHc5WTRhOWV4NXoyVEJETzBKeXVLZ2NicTVpTGlqRDRZSzlob3VpZXF0WGJH?oc=5",
-    "titleFingerprint": "51beaebfd2952751a583c7a253f517de4d378109",
-    "dedupKeys": [
-      "7488e2cc5297e3c02a80ecd1b56fef7712789878",
-      "51beaebfd2952751a583c7a253f517de4d378109",
-      "251ae59aaafd788a535e998463f9ffcd3e12273c"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "정원오 서울시장 후보 “부동산 세금보다 공급, 조작기소 특검은 국회 사안”",
-        "excerpt": "정원오 더불어민주당 서울시장 후보가 5월 4일 문화일보 인터뷰에서 서울 부동산 문제는 세금이 아니라 수요·공급 원리로 풀어야 하며 ‘조작기소 특검법’은 국회 영역이라고 밝혔다.",
-        "body": "정원오 6·3 지방선거 더불어민주당 서울시장 후보는 5월 4일 문화일보와의 인터뷰에서 서울 부동산 정책은 세금보다 수요와 공급의 균형에 따라야 한다고 밝혔다. 오세훈 국민의힘 후보가 요구한 ‘조작기소 특검법’ 입장 표명에는 입법부의 일이라고 선을 그었다.\n\n정 후보는 서울에 매년 6만~6만5000호 수요가 있다며 최근 몇 년간 공급이 부족했다고 주장했다. 그는 ‘착착 개발’ 공약을 통해 15년씩 걸리던 정비사업을 10년 이내로 줄이고, 신속통합기획은 행정 연속성 아래 보완하겠다고 설명했다.\n\n그는 성동구청장 시절 성수동 재개발 성과를 내세우며 ‘박원순 시즌2’라는 공세를 반박했다. 또 지방정부 후보들이 입법부 사안을 끌어와 정쟁화하기보다 시민 삶의 중심에 서야 한다고 말했다.\n\n출처: 문화일보"
-      },
-      "en": {
-        "title": "Seoul mayoral candidate Jeong Won-oh says housing needs supply, not tax pressure",
-        "excerpt": "Democratic Party Seoul mayoral candidate Jeong Won-oh told Munhwa Ilbo on May 4 that Seoul’s housing issue should be addressed through supply and demand, while the special counsel bill is a National Assembly matter.",
-        "body": "Jeong Won-oh, the Democratic Party candidate for Seoul mayor in the June 3 local election, said in a May 4 interview with Munhwa Ilbo that Seoul’s real estate policy should be guided by supply and demand rather than taxes. Asked to state a position on the disputed special counsel bill over alleged fabricated prosecution, he said it falls under the legislature.\n\nJeong said Seoul has annual housing demand of 60,000 to 65,000 units and argued that supply has fallen short in recent years. Under his “Chakchak Development” pledge, he said redevelopment and reconstruction projects that used to take 15 years would be shortened to within 10 years, while the rapid integrated planning system would be maintained and improved.\n\nHe cited the redevelopment of Seongsu-dong during his tenure as Seongdong district mayor and rejected attacks calling him “Park Won-soon Season 2.” He added that local government candidates should focus on citizens’ lives instead of politicizing legislative issues.\n\nSource: Munhwa Ilbo"
-      },
-      "ja": {
-        "title": "鄭願伍ソウル市長候補、不動産は税でなく供給で対応と強調",
-        "excerpt": "共に民主党の鄭願伍ソウル市長候補は5月4日の文化日報インタビューで、不動産問題は税ではなく需給で解くべきで、特検法は国会の領域だと述べた。",
-        "body": "6月3日の地方選挙に出馬する共に民主党の鄭願伍ソウル市長候補は、5月4日の文化日報とのインタビューで、ソウルの不動産政策は税金ではなく需要と供給の均衡に基づくべきだと述べた。国民の力の呉世勲候補が求めた「捏造起訴特検法」への立場表明については、立法府の問題だと一線を画した。\n\n鄭候補は、ソウルでは毎年6万～6万5000戸の需要があるが、ここ数年は供給が不足したと主張した。公約「チャクチャク開発」では、15年かかっていた整備事業を10年以内に短縮し、迅速統合企画は行政の継続性の下で補完すると説明した。\n\nまた、城東区庁長時代の聖水洞再開発の成果を挙げ、「朴元淳シーズン2」との攻撃に反論した。地方政府の候補者は立法府の事案を政争化するより、市民生活の中心に立つべきだとも語った。\n\n出典: 文化日報"
-      },
-      "zh": {
-        "title": "郑愿伍谈首尔房地产：不靠税收打压，关键在增加供给",
-        "excerpt": "共同民主党首尔市长候选人郑愿伍5月4日接受《文化日报》采访时表示，首尔房地产问题应按供需原则解决，“操纵起诉特检法”属于国会事务。",
-        "body": "韩国6月3日地方选举共同民主党首尔市长候选人郑愿伍在5月4日接受《文化日报》采访时表示，首尔房地产政策应遵循供需平衡，而不是依靠税收来压制房价。对于国民力量候选人吴世勋要求其表态的“操纵起诉特检法”，他划清界线称这是立法部门的事务。\n\n郑愿伍表示，首尔每年有6万至6.5万套住房需求，但近几年供给不足。他介绍，其“顺畅开发”承诺旨在把过去需要15年的整备项目缩短到10年以内，并将在行政连续性下补充完善快速综合规划。\n\n他还以担任城东区厅长时期推动圣水洞再开发的成果，反驳“朴元淳第二季”的攻击。郑愿伍称，地方政府候选人不应把立法事务拉入政治争斗，而应站在市民生活的中心。\n\n来源: 文化日报"
-      },
-      "es": {
-        "title": "Jeong Won-oh: vivienda en Seúl requiere oferta, no presión fiscal",
-        "excerpt": "El candidato demócrata a la alcaldía de Seúl, Jeong Won-oh, dijo a Munhwa Ilbo el 4 de mayo que el problema inmobiliario debe resolverse con oferta y demanda, y que la ley de fiscal especial compete al Parlamento.",
-        "body": "Jeong Won-oh, candidato del Partido Democrático a la alcaldía de Seúl en las elecciones locales del 3 de junio, dijo en una entrevista con Munhwa Ilbo el 4 de mayo que la política inmobiliaria de Seúl debe basarse en el equilibrio entre oferta y demanda, no en impuestos. Sobre la petición del candidato Oh Se-hoon de fijar postura ante la ley de fiscal especial por supuesta acusación manipulada, respondió que es un asunto del poder legislativo.\n\nJeong afirmó que Seúl tiene una demanda anual de 60.000 a 65.000 viviendas y sostuvo que la oferta ha sido insuficiente en los últimos años. Con su promesa de “desarrollo fluido”, dijo que reducirá a menos de 10 años proyectos de renovación que antes tomaban 15, y que mantendrá y complementará la planificación integrada rápida.\n\nTambién citó la remodelación de Seongsu-dong durante su gestión como jefe de Seongdong para rechazar la crítica de “Park Won-soon temporada 2”. Añadió que los candidatos locales deben centrarse en la vida de los ciudadanos, no politizar asuntos legislativos.\n\nFuente: Munhwa Ilbo"
-      },
-      "pt": {
-        "title": "Jeong Won-oh defende oferta imobiliária em Seul, não pressão tributária",
-        "excerpt": "O candidato democrata à prefeitura de Seul, Jeong Won-oh, disse ao Munhwa Ilbo em 4 de maio que o mercado imobiliário deve ser tratado por oferta e demanda, e que a lei de promotor especial cabe ao Parlamento.",
-        "body": "Jeong Won-oh, candidato do Partido Democrático à prefeitura de Seul nas eleições locais de 3 de junho, disse em entrevista ao Munhwa Ilbo em 4 de maio que a política imobiliária de Seul deve seguir o equilíbrio entre oferta e demanda, e não depender de impostos. Sobre o pedido do candidato Oh Se-hoon para comentar a lei de promotor especial sobre suposta acusação fabricada, afirmou que se trata de assunto do Legislativo.\n\nJeong disse que Seul tem demanda anual de 60 mil a 65 mil moradias e argumentou que a oferta foi insuficiente nos últimos anos. Em sua promessa de “desenvolvimento ordenado”, afirmou que reduzirá para menos de 10 anos obras de renovação que levavam 15 anos, mantendo e aperfeiçoando o planejamento integrado rápido.\n\nEle citou a reurbanização de Seongsu-dong durante sua gestão em Seongdong para rebater o rótulo de “Park Won-soon temporada 2”. Também disse que candidatos locais devem focar a vida dos cidadãos, em vez de politizar temas legislativos.\n\nFonte: Munhwa Ilbo"
-      },
-      "de": {
-        "title": "Jeong Won-oh: Seouls Immobilienproblem braucht Angebot statt Steuerdruck",
-        "excerpt": "Der demokratische Bürgermeisterkandidat Jeong Won-oh sagte Munhwa Ilbo am 4. Mai, Seouls Immobilienfrage müsse über Angebot und Nachfrage gelöst werden; das Sonderermittlergesetz sei Sache des Parlaments.",
-        "body": "Jeong Won-oh, Kandidat der Demokratischen Partei für das Bürgermeisteramt in Seoul bei der Kommunalwahl am 3. Juni, sagte in einem Interview mit Munhwa Ilbo am 4. Mai, Seouls Immobilienpolitik müsse sich am Gleichgewicht von Angebot und Nachfrage orientieren und nicht an Steuern. Zur Forderung von Oh Se-hoon, sich zum umstrittenen Sonderermittlergesetz wegen angeblich manipulierter Anklagen zu äußern, sagte er, dies sei Sache der Legislative.\n\nJeong erklärte, Seoul habe jährlich Nachfrage nach 60.000 bis 65.000 Wohnungen, doch in den vergangenen Jahren habe das Angebot nicht gereicht. Mit seinem Versprechen einer zügigen Entwicklung wolle er Sanierungsprojekte, die bisher 15 Jahre dauerten, auf unter 10 Jahre verkürzen und die schnelle integrierte Planung fortführen und ergänzen.\n\nEr verwies auf die Entwicklung von Seongsu-dong während seiner Zeit als Bezirksbürgermeister von Seongdong und wies den Angriff “Park Won-soon Staffel 2” zurück. Lokale Kandidaten sollten gesetzgeberische Fragen nicht politisieren, sondern das Leben der Bürger in den Mittelpunkt stellen.\n\nQuelle: Munhwa Ilbo"
-      },
-      "fr": {
-        "title": "Jeong Won-oh: l’immobilier à Séoul exige de l’offre, pas des hausses fiscales",
-        "excerpt": "Le candidat démocrate à la mairie de Séoul, Jeong Won-oh, a déclaré au Munhwa Ilbo le 4 mai que l’immobilier devait être traité par l’offre et la demande, et que la loi de procureur spécial relevait du Parlement.",
-        "body": "Jeong Won-oh, candidat du Parti démocrate à la mairie de Séoul pour les élections locales du 3 juin, a déclaré dans une interview au Munhwa Ilbo le 4 mai que la politique immobilière de Séoul devait reposer sur l’équilibre entre l’offre et la demande, plutôt que sur la fiscalité. À la demande d’Oh Se-hoon de prendre position sur la loi de procureur spécial liée à une accusation présumée fabriquée, il a répondu qu’il s’agissait d’une affaire législative.\n\nJeong a affirmé que Séoul connaît une demande annuelle de 60 000 à 65 000 logements et que l’offre a été insuffisante ces dernières années. Avec sa promesse de “développement fluide”, il veut ramener à moins de 10 ans des projets de rénovation qui prenaient 15 ans, tout en maintenant et complétant la planification intégrée rapide.\n\nIl a cité le réaménagement de Seongsu-dong durant son mandat à Seongdong pour rejeter l’étiquette “Park Won-soon saison 2”. Selon lui, les candidats locaux doivent se concentrer sur la vie des citoyens plutôt que politiser les sujets législatifs.\n\nSource: Munhwa Ilbo"
-      },
-      "ar": {
-        "title": "جونغ وون أو: عقارات سيول تحتاج زيادة المعروض لا الضغط الضريبي",
-        "excerpt": "قال مرشح الحزب الديمقراطي لرئاسة بلدية سيول جونغ وون أو لصحيفة مونهوا إلبو في 4 مايو إن أزمة العقارات يجب أن تُحل عبر العرض والطلب، وإن قانون المدعي الخاص شأن برلماني.",
-        "body": "قال جونغ وون أو، مرشح الحزب الديمقراطي لرئاسة بلدية سيول في الانتخابات المحلية المقررة في 3 يونيو، في مقابلة مع صحيفة مونهوا إلبو يوم 4 مايو إن سياسة العقارات في سيول يجب أن تقوم على توازن العرض والطلب لا على الضرائب. وردا على مطالبة مرشح حزب قوة الشعب أوه سي هون بإعلان موقفه من قانون المدعي الخاص بشأن اتهامات مزعومة بالتلاعب، قال إن ذلك من اختصاص السلطة التشريعية.\n\nوأوضح جونغ أن سيول تحتاج سنويا إلى 60 ألفا إلى 65 ألف وحدة سكنية، معتبرا أن المعروض كان غير كاف في السنوات الأخيرة. وذكر أن تعهده بـ“التطوير السلس” يهدف إلى تقليص مشروعات التجديد التي كانت تستغرق 15 عاما إلى أقل من 10 سنوات، مع مواصلة التخطيط المتكامل السريع وتحسينه.\n\nواستشهد بإعادة تطوير منطقة سونغسو دونغ خلال فترة رئاسته لمنطقة سونغدونغ للرد على وصفه بـ“موسم بارك وون سون الثاني”. وأضاف أن على مرشحي الحكومات المحلية التركيز على حياة المواطنين بدلا من تسييس قضايا تشريعية.\n\nالمصدر: مونهوا إلبو"
-      },
-      "hi": {
-        "title": "जोंग वोन-ओ बोले: सियोल रियल एस्टेट में टैक्स नहीं, आपूर्ति समाधान",
-        "excerpt": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जोंग वोन-ओ ने 4 मई को मुनह्वा इल्बो से कहा कि आवास समस्या मांग-आपूर्ति से सुलझनी चाहिए और विशेष अभियोजक विधेयक संसद का विषय है।",
-        "body": "3 जून के स्थानीय चुनाव में डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जोंग वोन-ओ ने 4 मई को मुनह्वा इल्बो को दिए इंटरव्यू में कहा कि सियोल की रियल एस्टेट नीति करों के बजाय मांग और आपूर्ति के संतुलन पर आधारित होनी चाहिए। पीपुल पावर पार्टी के ओ से-हुन द्वारा कथित गढ़े गए अभियोजन से जुड़े विशेष अभियोजक विधेयक पर रुख मांगने पर उन्होंने कहा कि यह विधायिका का मामला है।\n\nजोंग ने कहा कि सियोल में हर साल 60,000 से 65,000 घरों की मांग है और हाल के वर्षों में आपूर्ति कम रही। अपने “चकचक डेवलपमेंट” वादे के तहत उन्होंने कहा कि 15 साल लगने वाली पुनर्विकास और पुनर्निर्माण परियोजनाओं को 10 साल के भीतर लाया जाएगा, और तेज एकीकृत योजना को प्रशासनिक निरंतरता के साथ सुधारा जाएगा।\n\nउन्होंने सोंगडोंग जिला प्रमुख रहते हुए सोंगसू-दोंग पुनर्विकास की उपलब्धि का हवाला देकर “पार्क वोन-सून सीजन 2” आरोप को खारिज किया। उन्होंने कहा कि स्थानीय उम्मीदवारों को विधायी मुद्दों को राजनीतिक विवाद बनाने के बजाय नागरिकों के जीवन पर ध्यान देना चाहिए।\n\nस्रोत: मुनह्वा इल्बो"
-      },
-      "id": {
-        "title": "Jeong Won-oh: Properti Seoul perlu pasokan, bukan tekanan pajak",
-        "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jeong Won-oh, mengatakan kepada Munhwa Ilbo pada 4 Mei bahwa masalah properti harus diselesaikan lewat pasokan-permintaan, sementara RUU jaksa khusus adalah ranah parlemen.",
-        "body": "Jeong Won-oh, kandidat Partai Demokrat untuk wali kota Seoul dalam pemilu lokal 3 Juni, mengatakan dalam wawancara dengan Munhwa Ilbo pada 4 Mei bahwa kebijakan properti Seoul harus mengikuti keseimbangan pasokan dan permintaan, bukan pajak. Menanggapi permintaan kandidat Oh Se-hoon agar ia menyatakan sikap atas RUU jaksa khusus terkait dugaan dakwaan yang dimanipulasi, Jeong mengatakan hal itu adalah urusan legislatif.\n\nJeong menyebut Seoul memiliki permintaan tahunan 60.000 hingga 65.000 unit rumah dan berpendapat pasokan kurang dalam beberapa tahun terakhir. Melalui janji “Chakchak Development”, ia mengatakan proyek penataan yang dulu memakan 15 tahun akan dipangkas menjadi kurang dari 10 tahun, sementara perencanaan terpadu cepat akan dilanjutkan dan diperbaiki.\n\nIa mengutip keberhasilan pembangunan kembali Seongsu-dong saat menjabat kepala Distrik Seongdong untuk menolak serangan “Park Won-soon Season 2”. Ia menambahkan kandidat pemerintah daerah harus berfokus pada kehidupan warga, bukan mempolitisasi urusan legislatif.\n\nSumber: Munhwa Ilbo"
       }
     }
   }
