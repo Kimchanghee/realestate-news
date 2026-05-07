@@ -1,5 +1,230 @@
 [
   {
+    "id": "91b71bd8e2d2",
+    "slug": "다주택-매물소진-끝났나송파-뛰고-용산-반등-서울-집값-상승폭-확대-455145",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T12:18:07.365Z",
+    "updatedAt": "2026-05-07T12:18:07.365Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039051",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039051",
+    "titleFingerprint": "63251e2bd3cd2e30ee48de686648a3370f9c7dde",
+    "dedupKeys": [
+      "91b71bd8e2d24d33367c6dc552c9d3a008d70f3a",
+      "63251e2bd3cd2e30ee48de686648a3370f9c7dde",
+      "dc7ca39b8e55a04856c569b9a8e02ccc0ab23a6a"
+    ],
+    "imageUrl": "/images/articles/91b71bd8e2d2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 집값 상승폭 확대…송파 뛰고 용산 반등, 전세도 급등",
+        "excerpt": "다주택자 양도소득세 부활을 앞두고 서울 강남권과 용산구 집값이 반등세를 보이며 서울 아파트값 상승폭이 확대됐다. 전세도 2015년 11월 이후 최고 수준으로 올랐다.",
+        "body": "다주택자 양도소득세 부활을 앞두고 서울 집값 상승폭이 확대됐다. 강남권은 혼조세를 보인 가운데 송파구의 상승세가 커졌고, 용산구도 반등 흐름을 나타냈다. 강북과 한강벨트의 강세도 이어지며 서울 주택시장 전반의 상승 압력이 확인됐다. 전세시장에서는 서울 전셋값이 0.23% 급등해 2015년 11월 이후 가장 높은 수준을 기록했다. 매물 소진 이후 주요 지역의 가격 반등이 나타나면서 매매와 전세 모두 수요 부담이 커질 수 있다는 점이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Home Price Gains Widen as Songpa Jumps and Yongsan Rebounds",
+        "excerpt": "Ahead of the reinstatement of capital gains tax for multiple-home owners, home prices in Seoul’s Gangnam area and Yongsan rebounded, while jeonse rents hit their highest level since November 2015.",
+        "body": "Seoul home price gains widened ahead of the reinstatement of capital gains tax for multiple-home owners. While the Gangnam area showed mixed movements, Songpa’s upward trend strengthened and Yongsan also showed a rebound. Strength continued in northern Seoul and the Han River belt, confirming broader upward pressure in the city’s housing market. In the jeonse rental market, Seoul jeonse prices surged 0.23%, the highest level since November 2015. As prices rebound in key districts after listings were absorbed, rising pressure in both sales and jeonse markets is drawing attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル住宅価格の上昇幅拡大、松坡上昇・龍山反発で賃貸も急騰",
+        "excerpt": "多住宅保有者への譲渡所得税復活を前に、ソウルの江南圏と龍山区の住宅価格が反発し、ソウルの住宅価格上昇幅が拡大した。チョンセも2015年11月以来の高水準となった。",
+        "body": "多住宅保有者への譲渡所得税復活を前に、ソウルの住宅価格上昇幅が拡大した。江南圏はまちまちの動きとなるなか、松坡区の上昇傾向が強まり、龍山区も反発の流れを示した。江北と漢江ベルトの強さも続き、ソウル住宅市場全体の上昇圧力が確認された。チョンセ市場ではソウルのチョンセ価格が0.23%急騰し、2015年11月以来の最高水準を記録した。売り物件の消化後、主要地域で価格反発が表れ、売買とチョンセの双方で需要負担が高まる可能性が注目されている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔房价涨幅扩大：松坡走强、龙山反弹，租赁价格也急升",
+        "excerpt": "在多套房持有者资本利得税即将恢复前，首尔江南圈和龙山区房价出现反弹，首尔住宅价格涨幅扩大。全租价格也升至2015年11月以来最高水平。",
+        "body": "在多套房持有者资本利得税即将恢复前，首尔房价涨幅扩大。江南圈走势分化，其中松坡区涨势扩大，龙山区也出现反弹。江北和汉江沿线地带的强势延续，显示首尔整体住宅市场上行压力仍在。全租市场方面，首尔全租价格急升0.23%，创下2015年11月以来最高水平。随着挂牌房源被消化后主要地区价格反弹，买卖和全租市场的需求压力可能进一步受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Suben más las viviendas en Seúl: Songpa avanza y Yongsan rebota",
+        "excerpt": "Antes del restablecimiento del impuesto a las plusvalías para propietarios de varias viviendas, los precios en Gangnam y Yongsan repuntaron, mientras el jeonse alcanzó su mayor nivel desde noviembre de 2015.",
+        "body": "Los precios de la vivienda en Seúl ampliaron su subida antes del restablecimiento del impuesto a las ganancias de capital para propietarios de varias viviendas. Mientras la zona de Gangnam mostró movimientos mixtos, el alza de Songpa se fortaleció y Yongsan también registró un rebote. La fortaleza continuó en el norte de Seúl y en el cinturón del río Han, confirmando presiones alcistas en el mercado residencial de la ciudad. En el mercado de jeonse, los precios de Seúl subieron bruscamente un 0,23%, el nivel más alto desde noviembre de 2015. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Preços de imóveis em Seul aceleram com alta em Songpa e reação em Yongsan",
+        "excerpt": "Antes da volta do imposto sobre ganhos de capital para donos de múltiplos imóveis, os preços em Gangnam e Yongsan reagiram, enquanto o jeonse chegou ao maior nível desde novembro de 2015.",
+        "body": "Os preços dos imóveis em Seul ampliaram a alta antes da retomada do imposto sobre ganhos de capital para proprietários de múltiplas casas. Enquanto a região de Gangnam teve movimentos mistos, a tendência de alta em Songpa se intensificou e Yongsan também mostrou recuperação. A força continuou no norte de Seul e no cinturão do rio Han, confirmando pressão de alta no mercado habitacional da cidade. No mercado de jeonse, os preços em Seul saltaram 0,23%, o maior nível desde novembro de 2015. A reação dos preços em áreas-chave após a absorção de ofertas chama atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Immobilienpreise steigen stärker: Songpa legt zu, Yongsan erholt sich",
+        "excerpt": "Vor der Wiedereinführung der Kapitalertragsteuer für Mehrfachhausbesitzer erholten sich die Preise in Gangnam und Yongsan, während Jeonse-Mieten den höchsten Stand seit November 2015 erreichten.",
+        "body": "Die Immobilienpreise in Seoul haben vor der Wiedereinführung der Kapitalertragsteuer für Besitzer mehrerer Wohnungen stärker zugelegt. Während der Gangnam-Raum uneinheitlich blieb, beschleunigte sich der Anstieg in Songpa, und auch Yongsan zeigte eine Erholung. Die Stärke im Norden Seouls und im Han-Fluss-Gürtel hielt an und bestätigte den Aufwärtsdruck im Wohnungsmarkt der Stadt. Im Jeonse-Markt stiegen die Preise in Seoul um 0,23% und erreichten damit den höchsten Stand seit November 2015. Nach dem Abbau von Angeboten rückt die Preiserholung in wichtigen Bezirken in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les prix immobiliers à Séoul accélèrent, Songpa monte et Yongsan rebondit",
+        "excerpt": "Avant le retour de l’impôt sur les plus-values pour les multipropriétaires, les prix à Gangnam et Yongsan ont rebondi, tandis que le jeonse a atteint son plus haut niveau depuis novembre 2015.",
+        "body": "Les prix des logements à Séoul ont accentué leur hausse avant le rétablissement de l’impôt sur les plus-values pour les propriétaires de plusieurs biens. Alors que le secteur de Gangnam a évolué de façon contrastée, la progression de Songpa s’est renforcée et Yongsan a aussi montré un rebond. La vigueur s’est poursuivie dans le nord de Séoul et le long de la ceinture du fleuve Han, confirmant une pression haussière sur le marché résidentiel. Sur le marché du jeonse, les prix à Séoul ont bondi de 0,23%, au plus haut depuis novembre 2015. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اتساع صعود أسعار المنازل في سيول مع قفزة سونغبا وارتداد يونغسان",
+        "excerpt": "قبيل عودة ضريبة أرباح رأس المال على مالكي عدة منازل، ارتفعت أسعار المساكن في منطقة غانغنام ويونغسان، بينما سجلت إيجارات الجونسي أعلى مستوى منذ نوفمبر 2015.",
+        "body": "اتسع ارتفاع أسعار المنازل في سيول قبيل عودة ضريبة أرباح رأس المال على مالكي عدة مساكن. وبينما أظهرت منطقة غانغنام تباينا، تعزز الاتجاه الصاعد في سونغبا، كما سجلت يونغسان حركة ارتداد. واستمرت القوة في شمال سيول وحزام نهر الهان، ما يؤكد ضغوطا صعودية أوسع في سوق السكن بالمدينة. وفي سوق الجونسي، قفزت الأسعار في سيول 0.23%، وهو أعلى مستوى منذ نوفمبر 2015. وبعد امتصاص المعروض، يلفت ارتداد الأسعار في المناطق الرئيسية الانتباه إلى ضغوط الطلب في البيع والجونسي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल घरों की कीमतों में तेज बढ़त, सोंगपा उछला और योंगसान लौटा",
+        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर की बहाली से पहले सियोल के गंगनम क्षेत्र और योंगसान में घरों की कीमतें पलटीं, जबकि जोंसे नवंबर 2015 के बाद उच्चतम स्तर पर पहुंचा।",
+        "body": "कई घरों के मालिकों पर पूंजीगत लाभ कर की बहाली से पहले सियोल में घरों की कीमतों की बढ़त और तेज हो गई। गंगनम क्षेत्र में मिश्रित रुख दिखा, लेकिन सोंगपा की तेजी बढ़ी और योंगसान में भी पलटाव दिखा। उत्तरी सियोल और हान नदी बेल्ट की मजबूती जारी रही, जिससे शहर के आवास बाजार में व्यापक ऊपर की ओर दबाव दिखा। जोंसे बाजार में सियोल की जोंसे कीमतें 0.23% उछलीं, जो नवंबर 2015 के बाद सबसे ऊंचा स्तर है। प्रमुख क्षेत्रों में उपलब्ध मकानों के खपने के बाद कीमतों का पलटाव बिक्री और जोंसे दोनों बाजारों में मांग दबाव की ओर ध्यान खींच रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Rumah Seoul Makin Naik, Songpa Melonjak dan Yongsan Berbalik",
+        "excerpt": "Menjelang kembalinya pajak keuntungan modal bagi pemilik banyak rumah, harga rumah di kawasan Gangnam dan Yongsan rebound, sementara jeonse mencapai level tertinggi sejak November 2015.",
+        "body": "Kenaikan harga rumah di Seoul melebar menjelang kembalinya pajak keuntungan modal bagi pemilik beberapa rumah. Saat kawasan Gangnam bergerak campuran, tren kenaikan di Songpa menguat dan Yongsan juga menunjukkan rebound. Kekuatan di Seoul utara dan sabuk Sungai Han berlanjut, menegaskan tekanan naik di pasar hunian kota. Di pasar jeonse, harga jeonse Seoul melonjak 0,23%, level tertinggi sejak November 2015. Setelah pasokan listing terserap, rebound harga di wilayah utama membuat tekanan permintaan pada pasar jual beli dan jeonse kembali menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f221b03e3aa0",
+    "slug": "강남-빼고는-서울-다-올랐다다시금-고개-드는-서울-아파트값-상승세-533824",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T12:17:02.038Z",
+    "updatedAt": "2026-05-07T12:17:02.038Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039052",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039052",
+    "titleFingerprint": "f03b0e577a1fb674009bcf0b930856936088aec6",
+    "dedupKeys": [
+      "f221b03e3aa0a71ce52f8fb122b7309534df5d07",
+      "f03b0e577a1fb674009bcf0b930856936088aec6",
+      "5bd26b6ae13f16f65773b23f3bcdbca23a0ced9d"
+    ],
+    "imageUrl": "/images/articles/f221b03e3aa0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5월 첫째 주 서울 아파트값 0.15% 상승, 강남 3구 약세 속 지역별 온도차 뚜렷",
+        "excerpt": "5월 첫째 주 전국 아파트값 동향에서 서울 아파트값은 0.15% 상승하며 소폭 오름세를 이어갔고, 강남 3구는 약세가 지속돼 지역별 온도차가 뚜렷했다.",
+        "body": "5월 첫째 주 전국 아파트값 동향에서 서울 아파트값이 0.15% 오르며 소폭 상승세를 이어갔다. 이번 흐름은 서울 전반의 아파트값이 다시 상승 압력을 받는 가운데, 지역별로는 차이가 뚜렷하다는 점이 특징이다. 원문에 따르면 강남 3구는 약세 흐름에서 벗어나지 못했지만, 강남을 제외한 서울 지역은 상승세를 보인 것으로 전해졌다. 이에 따라 서울 아파트 시장은 단일한 회복세라기보다 권역별 수요와 가격 흐름이 엇갈리는 국면으로 해석된다. 향후 시장 판단에서도 서울 평균 상승률뿐 아니라 강남 3구와 비강남권의 차이를 함께 살펴볼 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Prices Rise 0.15% in Early May as Gangnam 3 Districts Stay Weak",
+        "excerpt": "In the first week of May, Seoul apartment prices rose 0.15%, extending a modest uptrend, while the Gangnam 3 districts remained weak and regional gaps became clear.",
+        "body": "In the first week of May, nationwide apartment price data showed Seoul apartment prices rising 0.15%, continuing a modest upward trend. The key feature of the latest movement is that prices across Seoul are again facing upward pressure, but the pattern differs clearly by area. According to the source article, the Gangnam 3 districts have not escaped their weak trend, while areas of Seoul excluding Gangnam posted gains. This suggests that Seoul’s apartment market is not moving in a single uniform recovery, but is instead showing diverging demand and price trends by district. Future market assessments should therefore look not only at Seoul’s average increase, but also at the contrast between the Gangnam 3 districts and non-Gangnam areas. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "5月第1週のソウルマンション価格0.15%上昇、江南3区は弱含み続く",
+        "excerpt": "5月第1週の全国マンション価格動向で、ソウルのマンション価格は0.15%上昇し小幅な上昇基調を維持した一方、江南3区は弱含みが続いた。",
+        "body": "5月第1週の全国マンション価格動向で、ソウルのマンション価格は0.15%上昇し、小幅な上昇基調を続けた。今回の動きは、ソウル全体で再び価格上昇圧力が見られる一方、地域別の差が明確だという点が特徴だ。原文によると、江南3区は弱含みの流れから抜け出せていないが、江南を除くソウル地域では上昇が見られたという。これにより、ソウルのマンション市場は一律の回復ではなく、圏域ごとの需要と価格の動きが分かれる局面と解釈される。今後の市場判断では、ソウル平均の上昇率だけでなく、江南3区と非江南圏の違いも併せて見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "5月第一周首尔公寓价格上涨0.15%，江南三区仍显疲弱",
+        "excerpt": "5月第一周全国公寓价格走势显示，首尔公寓价格上涨0.15%，延续小幅升势，但江南三区仍未摆脱疲弱走势，区域温差明显。",
+        "body": "5月第一周全国公寓价格走势显示，首尔公寓价格上涨0.15%，延续了小幅上升趋势。此次变化的特点是，首尔整体公寓价格再次出现上行压力，但不同区域之间的差异十分明显。原文称，江南三区仍未摆脱疲弱走势，而除江南外的首尔地区则出现上涨。据此来看，首尔公寓市场并非呈现单一的全面复苏，而是进入了按区域需求和价格走势分化的阶段。未来判断市场时，不仅需要关注首尔平均涨幅，也应同时观察江南三区与非江南地区之间的差异。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Seúl suben 0,15% en mayo pese a debilidad en Gangnam",
+        "excerpt": "En la primera semana de mayo, los apartamentos de Seúl subieron 0,15% y mantuvieron un leve avance, mientras los tres distritos de Gangnam siguieron débiles.",
+        "body": "En la primera semana de mayo, la tendencia nacional de precios de apartamentos mostró que los precios en Seúl subieron 0,15%, prolongando un avance moderado. El rasgo principal del dato es que el mercado de Seúl vuelve a mostrar presión alcista, aunque con diferencias claras por zona. Según el artículo original, los tres distritos de Gangnam no han logrado salir de una tendencia débil, mientras que las áreas de Seúl excluyendo Gangnam registraron aumentos. Esto indica que el mercado de apartamentos de Seúl no atraviesa una recuperación uniforme, sino una fase en la que la demanda y los precios divergen por región. Para evaluar el mercado será necesario observar no solo el promedio de Seúl, sino también la diferencia entre Gangnam y las zonas no Gangnam. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Seul sobem 0,15% no início de maio, com Gangnam ainda fraco",
+        "excerpt": "Na primeira semana de maio, os preços dos apartamentos em Seul subiram 0,15% e mantiveram leve alta, enquanto os três distritos de Gangnam seguiram fracos.",
+        "body": "Na primeira semana de maio, os dados nacionais de preços de apartamentos mostraram que os valores em Seul subiram 0,15%, mantendo uma trajetória de leve alta. O ponto central do movimento é que os preços em Seul voltam a mostrar pressão de alta, mas com diferenças claras entre regiões. Segundo o artigo original, os três distritos de Gangnam ainda não saíram da tendência de fraqueza, enquanto as áreas de Seul excluindo Gangnam registraram aumentos. Assim, o mercado de apartamentos da capital não indica uma recuperação uniforme, mas uma fase de divergência entre demanda e preços por zona. Nas próximas avaliações, será necessário observar não apenas a alta média de Seul, mas também a diferença entre Gangnam e as demais regiões. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Wohnungspreise steigen Anfang Mai um 0,15%, Gangnam 3 bleibt schwach",
+        "excerpt": "In der ersten Maiwoche stiegen die Wohnungspreise in Seoul um 0,15% und setzten ihren leichten Aufwärtstrend fort, während die drei Gangnam-Bezirke schwach blieben.",
+        "body": "In der ersten Maiwoche zeigten die landesweiten Daten zu Wohnungspreisen, dass die Preise für Apartments in Seoul um 0,15% stiegen und damit ihren leichten Aufwärtstrend fortsetzten. Auffällig ist, dass in Seoul insgesamt wieder Aufwärtsdruck zu sehen ist, die Unterschiede nach Regionen jedoch klar hervortreten. Laut dem Ausgangsartikel konnten sich die drei Gangnam-Bezirke nicht aus ihrer schwachen Entwicklung lösen, während die übrigen Gebiete Seouls ohne Gangnam Zuwächse verzeichneten. Damit zeigt der Seouler Apartmentmarkt keine einheitliche Erholung, sondern eine Phase unterschiedlicher Nachfrage- und Preisbewegungen je nach Gebiet. Bei der weiteren Markteinschätzung sollte daher nicht nur der Durchschnittswert für Seoul, sondern auch der Abstand zwischen Gangnam 3 und den Nicht-Gangnam-Gebieten betrachtet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les appartements à Séoul montent de 0,15% début mai, Gangnam reste en faiblesse",
+        "excerpt": "La première semaine de mai, les prix des appartements à Séoul ont augmenté de 0,15%, prolongeant une légère hausse, tandis que les trois districts de Gangnam restaient faibles.",
+        "body": "La première semaine de mai, les données nationales sur les prix des appartements ont montré une hausse de 0,15% à Séoul, prolongeant une progression modérée. Le point marquant est que les prix dans la capitale subissent de nouveau une pression haussière, mais avec des écarts nets selon les secteurs. Selon l’article original, les trois districts de Gangnam ne sont pas sortis de leur tendance faible, tandis que les zones de Séoul hors Gangnam ont progressé. Le marché des appartements à Séoul ne traduit donc pas une reprise uniforme, mais une phase où la demande et les prix divergent selon les quartiers. Pour lire la suite du marché, il faudra regarder non seulement la hausse moyenne de Séoul, mais aussi l’écart entre Gangnam 3 et les secteurs non Gangnam. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسعار شقق سيول ترتفع 0.15% في أول أسبوع من مايو رغم ضعف مناطق غانغنام الثلاث",
+        "excerpt": "في الأسبوع الأول من مايو، ارتفعت أسعار الشقق في سيول 0.15% مواصلة صعودا محدودا، بينما بقيت مناطق غانغنام الثلاث ضعيفة مع وضوح الفوارق المحلية.",
+        "body": "أظهرت اتجاهات أسعار الشقق على مستوى البلاد في الأسبوع الأول من مايو أن أسعار الشقق في سيول ارتفعت 0.15%، مواصلة اتجاها صعوديا محدودا. وتتمثل السمة الأبرز في أن أسعار سيول عادت لتواجه ضغطا صعوديا، لكن الفوارق بين المناطق بدت واضحة. ووفقا للمقال الأصلي، لم تتمكن مناطق غانغنام الثلاث من الخروج من مسار الضعف، في حين سجلت مناطق سيول باستثناء غانغنام ارتفاعا. لذلك لا يبدو سوق الشقق في سيول في حالة تعاف موحد، بل في مرحلة تختلف فيها حركة الطلب والأسعار حسب المنطقة. وعند تقييم السوق لاحقا، ينبغي النظر إلى متوسط ارتفاع سيول وإلى الفارق بين مناطق غانغنام الثلاث والمناطق الأخرى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मई के पहले सप्ताह सियोल अपार्टमेंट कीमतें 0.15% बढ़ीं, गंगनम 3 जिले कमजोर",
+        "excerpt": "मई के पहले सप्ताह में सियोल अपार्टमेंट कीमतें 0.15% बढ़ीं और हल्की तेजी जारी रही, जबकि गंगनम के तीन जिले कमजोर रुझान से बाहर नहीं निकले।",
+        "body": "मई के पहले सप्ताह के राष्ट्रीय अपार्टमेंट मूल्य रुझान में सियोल अपार्टमेंट कीमतें 0.15% बढ़ीं और हल्की तेजी जारी रही। इस बदलाव की मुख्य बात यह है कि सियोल में कुल मिलाकर कीमतों पर फिर से ऊपर जाने का दबाव दिख रहा है, लेकिन क्षेत्रों के बीच अंतर स्पष्ट है। मूल लेख के अनुसार, गंगनम के तीन जिले कमजोर रुझान से बाहर नहीं निकल सके, जबकि गंगनम को छोड़कर सियोल के अन्य क्षेत्रों में वृद्धि देखी गई। इससे संकेत मिलता है कि सियोल अपार्टमेंट बाजार एक समान सुधार में नहीं है, बल्कि क्षेत्र के अनुसार मांग और कीमतों की दिशा अलग-अलग है। आगे बाजार का आकलन करते समय सियोल की औसत वृद्धि के साथ गंगनम 3 जिलों और गैर-गंगनम क्षेत्रों के अंतर को भी देखना आवश्यक होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Apartemen Seoul Naik 0,15% pada Pekan Pertama Mei, Gangnam 3 Masih Lemah",
+        "excerpt": "Pada pekan pertama Mei, harga apartemen Seoul naik 0,15% dan melanjutkan kenaikan tipis, sementara tiga distrik Gangnam tetap lemah dan perbedaan wilayah makin jelas.",
+        "body": "Pada pekan pertama Mei, data tren harga apartemen nasional menunjukkan harga apartemen di Seoul naik 0,15%, melanjutkan kenaikan tipis. Ciri utama pergerakan ini adalah harga di Seoul kembali mendapat tekanan naik, tetapi perbedaan antarwilayah terlihat jelas. Menurut artikel asli, tiga distrik Gangnam belum keluar dari tren lemah, sementara wilayah Seoul di luar Gangnam mencatat kenaikan. Dengan demikian, pasar apartemen Seoul tidak menunjukkan pemulihan yang seragam, melainkan fase ketika permintaan dan harga bergerak berbeda menurut kawasan. Dalam menilai pasar ke depan, perlu melihat bukan hanya rata-rata kenaikan Seoul, tetapi juga perbedaan antara Gangnam 3 dan wilayah non-Gangnam. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3742afa8e140",
+    "slug": "6천억-미래도시펀드-1호-가동-1기-신도시-재건축-돈줄-푼다-584083",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T12:15:50.052Z",
+    "updatedAt": "2026-05-07T12:15:50.052Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039342",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039342",
+    "titleFingerprint": "09aa544c3596a4903194d19f172c6fef462b9a12",
+    "dedupKeys": [
+      "3742afa8e140e8ec879f543f4be7a6264e7552a4",
+      "09aa544c3596a4903194d19f172c6fef462b9a12",
+      "1d447ecccebd3ff3113f6ada1c969a74a285b802"
+    ],
+    "imageUrl": "/images/articles/3742afa8e140.jpg",
+    "i18n": {
+      "ko": {
+        "title": "6천억 미래도시펀드 1호 가동, 1기 신도시 재건축 초기 자금 부담 낮춘다",
+        "excerpt": "국토교통부가 1기 신도시 등 노후계획도시 정비사업의 초기 자금 부담을 줄이기 위해 6000억원 규모 미래도시펀드 1호를 조성하고 절차 간소화 법령 개정도 추진한다.",
+        "body": "국토교통부가 1기 신도시 등 노후계획도시 정비사업의 초기 자금 부담을 낮추기 위해 6000억원 규모의 정책 펀드인 미래도시펀드 1호를 가동한다. 이번 펀드는 재건축 추진 과정에서 사업 초기 단계에 필요한 자금 부담을 덜어 정비사업의 속도를 높이려는 취지다. 정부는 펀드 조성과 함께 절차 간소화를 위한 법령 개정도 병행한다. 이를 통해 선도지구를 중심으로 노후계획도시 정비사업의 추진 여건을 개선하겠다는 방향이다. 1기 신도시 재건축은 초기 비용과 행정 절차가 사업 속도에 영향을 미치는 핵심 변수로 꼽혀 왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KRW 600 Billion Future City Fund Launches to Ease First-Generation New Town Rebuilding Costs",
+        "excerpt": "South Korea’s Ministry of Land, Infrastructure and Transport will create a KRW 600 billion Future City Fund to lower early funding burdens for renewal projects in aging planned cities, including first-generation new towns.",
+        "body": "South Korea’s Ministry of Land, Infrastructure and Transport is launching the first Future City Fund, a KRW 600 billion policy fund, to reduce early-stage financing burdens for renewal projects in aging planned cities, including first-generation new towns. The fund is intended to ease the capital pressure needed at the initial phase of reconstruction projects and help improve project momentum. The government will also pursue legal revisions to simplify procedures. Through these measures, it aims to improve conditions for urban renewal projects centered on leading districts. For first-generation new town reconstruction, upfront costs and administrative procedures have been key factors affecting project speed. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "6000億ウォン未来都市ファンド始動、1期新都市再建築の初期資金負担を軽減",
+        "excerpt": "韓国国土交通部は、1期新都市など老朽計画都市の整備事業で初期資金負担を下げるため、6000億ウォン規模の未来都市ファンド1号を造成し、手続き簡素化の法令改正も進める。",
+        "body": "韓国国土交通部は、1期新都市など老朽計画都市の整備事業における初期資金負担を下げるため、6000億ウォン規模の政策ファンドである未来都市ファンド1号を始動する。今回のファンドは、再建築推進過程で事業初期に必要となる資金負担を和らげ、整備事業の速度を高める狙いがある。政府はファンド造成とあわせて、手続き簡素化に向けた法令改正も進める。これにより、先導地区を中心に老朽計画都市整備事業の推進環境を改善する方針だ。1期新都市の再建築では、初期費用と行政手続きが事業速度に影響する主要な要因とされてきた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "6000亿韩元未来城市基金启动，降低第一代新城重建初期资金压力",
+        "excerpt": "韩国国土交通部将设立6000亿韩元规模的未来城市基金1号，以降低第一代新城等老旧规划城市整治项目的初期资金负担，并推进简化程序的法规修订。",
+        "body": "韩国国土交通部将启动未来城市基金1号，这是一项规模为6000亿韩元的政策基金，旨在降低第一代新城等老旧规划城市整治项目的初期资金负担。该基金的目的，是缓解重建推进过程中项目初期所需资金压力，从而改善整治项目推进速度。政府还将同步推进旨在简化程序的法规修订。通过这些措施，政府计划以先导地区为中心，改善老旧规划城市整治项目的推进条件。第一代新城重建中，初期费用和行政程序一直被视为影响项目速度的关键因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Fondo Futuro Ciudad de 600.000 millones de wones busca aliviar la reconstrucción de nuevas ciudades",
+        "excerpt": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur creará un fondo de 600.000 millones de wones para reducir la carga financiera inicial de proyectos de renovación en ciudades planificadas envejecidas.",
+        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur pondrá en marcha el primer Fondo Futuro Ciudad, un fondo de política pública de 600.000 millones de wones, para reducir la carga de financiación inicial en proyectos de renovación de ciudades planificadas envejecidas, incluidas las nuevas ciudades de primera generación. El fondo busca aliviar los recursos necesarios en las primeras etapas de la reconstrucción y mejorar el ritmo de los proyectos. El Gobierno también impulsará reformas legales para simplificar los procedimientos. Con estas medidas, pretende mejorar las condiciones de ejecución de los proyectos centrados en distritos líderes. En la reconstrucción de las nuevas ciudades de primera generación, los costos iniciales y los trámites administrativos han sido variables clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Fundo Cidade do Futuro de 600 bilhões de wones alivia reconstrução de novas cidades",
+        "excerpt": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul criará um fundo de 600 bilhões de wones para reduzir o peso financeiro inicial em projetos de renovação de cidades planejadas envelhecidas.",
+        "body": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul vai lançar o primeiro Fundo Cidade do Futuro, um fundo público de 600 bilhões de wones, para reduzir a carga de financiamento inicial em projetos de renovação de cidades planejadas envelhecidas, incluindo as novas cidades de primeira geração. O objetivo é aliviar a necessidade de recursos nas etapas iniciais da reconstrução e melhorar o ritmo dos projetos. O governo também promoverá mudanças legais para simplificar procedimentos. Com isso, pretende melhorar as condições de execução dos projetos, com foco nos distritos líderes. Na reconstrução das novas cidades de primeira geração, custos iniciais e trâmites administrativos têm sido fatores centrais para a velocidade dos projetos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "600-Milliarden-Won-Future-City-Fonds soll Wiederaufbau erster New Towns entlasten",
+        "excerpt": "Südkoreas Ministerium für Land, Infrastruktur und Verkehr legt einen 600-Milliarden-Won-Fonds auf, um die Anfangsfinanzierung bei Sanierungsprojekten alternder Planstädte zu erleichtern.",
+        "body": "Südkoreas Ministerium für Land, Infrastruktur und Verkehr startet den ersten Future-City-Fonds, einen politischen Fonds im Umfang von 600 Milliarden Won, um die anfängliche Finanzierungslast bei Sanierungsprojekten alternder Planstädte, darunter die New Towns der ersten Generation, zu senken. Der Fonds soll den Kapitalbedarf in der frühen Phase von Wiederaufbauprojekten verringern und die Umsetzung der Sanierungen erleichtern. Parallel plant die Regierung Gesetzesänderungen zur Vereinfachung der Verfahren. Damit sollen die Bedingungen für Sanierungsprojekte alternder Planstädte, vor allem in führenden Bezirken, verbessert werden. Bei der Rekonstruktion der ersten New Towns gelten Anfangskosten und Verwaltungsverfahren als zentrale Einflussfaktoren für das Projekttempo. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un fonds Future City de 600 milliards de wons pour soutenir la reconstruction des new towns",
+        "excerpt": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports créera un fonds de 600 milliards de wons afin de réduire le poids financier initial des projets de rénovation des villes planifiées vieillissantes.",
+        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports lance le premier fonds Future City, un fonds public de 600 milliards de wons, afin de réduire la charge de financement initiale des projets de rénovation des villes planifiées vieillissantes, dont les new towns de première génération. Ce fonds vise à alléger les besoins en capitaux au début des projets de reconstruction et à améliorer leur rythme d’avancement. Le gouvernement poursuivra aussi des révisions législatives pour simplifier les procédures. Ces mesures doivent améliorer les conditions de mise en œuvre des projets, en particulier dans les districts pilotes. Pour la reconstruction des new towns de première génération, les coûts initiaux et les procédures administratives sont des facteurs déterminants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إطلاق صندوق مدينة المستقبل بـ600 مليار وون لتخفيف تمويل إعادة بناء المدن الجديدة الأولى",
+        "excerpt": "تعتزم وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية إنشاء صندوق بقيمة 600 مليار وون لخفض عبء التمويل الأولي لمشروعات تجديد المدن المخططة المتقادمة، ومنها مدن الجيل الأول الجديدة.",
+        "body": "تطلق وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية أول صندوق لمدينة المستقبل، وهو صندوق سياساتي بقيمة 600 مليار وون، بهدف خفض عبء التمويل في المراحل الأولى لمشروعات تجديد المدن المخططة المتقادمة، بما في ذلك مدن الجيل الأول الجديدة. ويهدف الصندوق إلى تخفيف الحاجة إلى الأموال في بداية مشروعات إعادة البناء وتحسين وتيرة تنفيذها. كما ستدفع الحكومة بتعديلات قانونية لتبسيط الإجراءات. ومن خلال هذه الخطوات، تسعى إلى تحسين ظروف تنفيذ مشروعات تجديد المدن المخططة المتقادمة، مع التركيز على المناطق الرائدة. وكانت التكاليف الأولية والإجراءات الإدارية من العوامل الرئيسية المؤثرة في سرعة إعادة بناء مدن الجيل الأول الجديدة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "600 अरब वॉन का फ्यूचर सिटी फंड शुरू, पहली पीढ़ी के न्यू टाउन पुनर्निर्माण को राहत",
+        "excerpt": "दक्षिण कोरिया का भूमि, अवसंरचना और परिवहन मंत्रालय पहली पीढ़ी के न्यू टाउन समेत पुराने नियोजित शहरों की मरम्मत परियोजनाओं में शुरुआती वित्तीय बोझ घटाने के लिए 600 अरब वॉन का फंड बनाएगा।",
+        "body": "दक्षिण कोरिया का भूमि, अवसंरचना और परिवहन मंत्रालय फ्यूचर सिटी फंड-1 शुरू कर रहा है। यह 600 अरब वॉन का नीति फंड है, जिसका उद्देश्य पहली पीढ़ी के न्यू टाउन समेत पुराने नियोजित शहरों की पुनर्विकास परियोजनाओं में शुरुआती वित्तीय बोझ कम करना है। यह फंड पुनर्निर्माण प्रक्रिया के आरंभिक चरण में आवश्यक धन का दबाव घटाकर परियोजनाओं की गति सुधारने के लिए बनाया जा रहा है। सरकार प्रक्रियाओं को सरल बनाने के लिए कानूनी संशोधन भी साथ-साथ आगे बढ़ाएगी। इन उपायों के जरिए अग्रणी जिलों के केंद्र में पुराने नियोजित शहरों की मरम्मत परियोजनाओं के लिए बेहतर हालात बनाने की योजना है। पहली पीढ़ी के न्यू टाउन पुनर्निर्माण में शुरुआती लागत और प्रशासनिक प्रक्रियाएं परियोजना की गति को प्रभावित करने वाले प्रमुख कारक रही हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dana Future City 600 Miliar Won Diluncurkan untuk Ringankan Rekonstruksi New Town Generasi Pertama",
+        "excerpt": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan akan membentuk dana 600 miliar won untuk menurunkan beban pendanaan awal proyek penataan kota terencana yang menua.",
+        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan akan meluncurkan Dana Future City pertama, sebuah dana kebijakan senilai 600 miliar won, untuk mengurangi beban pendanaan tahap awal dalam proyek penataan kota terencana yang menua, termasuk new town generasi pertama. Dana ini dimaksudkan untuk meringankan kebutuhan modal pada fase awal rekonstruksi dan membantu mempercepat pelaksanaan proyek penataan. Pemerintah juga akan mendorong revisi aturan guna menyederhanakan prosedur. Melalui langkah tersebut, pemerintah ingin memperbaiki kondisi pelaksanaan proyek penataan kota terencana yang menua, terutama di distrik percontohan. Dalam rekonstruksi new town generasi pertama, biaya awal dan prosedur administratif selama ini menjadi faktor utama yang memengaruhi kecepatan proyek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "205337e8f134",
     "slug": "수억-날릴라-장기보유주택-매도-러시-728560",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "GS E&C Raih Proyek Rekonstruksi Seocho Jinheung Senilai 680 Miliar Won",
         "excerpt": "GS E&C mengumumkan pada tanggal 4 bahwa perusahaan terpilih sebagai kontraktor proyek rekonstruksi Seocho Jinheung Apartment di Seocho-gu, Seoul, dengan rencana lima gedung 58 lantai.",
         "body": "GS E&C menyatakan dalam keterbukaan pada tanggal 4 bahwa perusahaan terpilih sebagai kontraktor proyek rekonstruksi Seocho Jinheung Apartment di Seocho-gu, Seoul. Proyek ini berlokasi di kawasan Jinheung Apartment, 385 Seocho-daero, dengan nilai 680 miliar won. Kompleks yang direncanakan akan terdiri dari lima gedung, mulai dari lima lantai bawah tanah hingga 58 lantai di atas tanah. Karena kontraktor besar memperoleh hak konstruksi untuk proyek rekonstruksi di area Seocho-daero, perhatian tertuju pada proses pelaksanaan proyek dan perkembangan proyek penataan kawasan setempat. Konten ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "071afe1dc5d7",
-    "slug": "성과급-n억-세금-떼면-반토막삼전닉스-직원들-강남-아파트는-여전히-넘사벽-368832",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T21:12:56.815Z",
-    "updatedAt": "2026-05-06T21:12:56.815Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12035098",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12035098",
-    "titleFingerprint": "dc8504ec32e2f69ff04e29649a0cfca60a9d8544",
-    "dedupKeys": [
-      "071afe1dc5d7ac7e38742f99e08e9d43c39adb6e",
-      "dc8504ec32e2f69ff04e29649a0cfca60a9d8544",
-      "73e98ebbba3103a51b68c14e057f223bb0a631c1"
-    ],
-    "imageUrl": "/images/articles/071afe1dc5d7.png",
-    "i18n": {
-      "ko": {
-        "title": "삼전닉스 성과급도 강남 아파트는 넘사벽, 세금 뒤 체감 격차 커졌다",
-        "excerpt": "삼성전자·SK하이닉스 등 이른바 ‘삼전닉스’ 직원들이 언론 보도 속 수억 원 성과급 이미지와 달리 세금 공제 후 강남 아파트 마련은 여전히 어렵다고 토로했다.",
-        "body": "삼성전자와 SK하이닉스 등 이른바 ‘삼전닉스’ 직원들이 성과급을 둘러싼 외부 시선과 실제 체감 사이의 간극을 말하고 있다. 언론 보도에서는 수억 원이 한꺼번에 지급되는 ‘돈 잔치’처럼 비치지만, 직원들은 세금을 제하고 나면 실수령액이 크게 줄어든다고 설명했다. 일부 직원들은 동기들끼리 “보도대로라면 벌써 강남에 빌딩 몇 채는 올렸어야 한다”고 농담한다고 전했다. 고액 성과급이 부러움의 대상이 되지만, 강남 아파트 가격 앞에서는 여전히 넘기 어려운 장벽이라는 인식이 크다. 성과급 규모보다 세후 소득과 주거비 격차가 더 크게 체감된다는 점에서, 고소득 직장인에게도 강남 주거 진입은 쉽지 않은 문제로 남아 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung-SK Hynix Bonuses Still Fall Short of Gangnam Apartments After Tax",
-        "excerpt": "Employees at Samsung Electronics and SK Hynix say the image of massive bonus payouts differs from reality, as taxes sharply reduce take-home pay and Gangnam homes remain out of reach.",
-        "body": "Employees at Samsung Electronics and SK Hynix, often grouped in Korea as “Samjeon-nix,” are pointing to a gap between outside perceptions of performance bonuses and what they actually feel. Media reports can make the payments look like a windfall of hundreds of millions of won, but employees say the amount drops sharply after taxes. Some said they joke with colleagues that, if the reports were accurate, they should already own several buildings in Gangnam. While large bonuses draw envy from outsiders, many workers still see Gangnam apartment prices as an almost unreachable barrier. The issue highlights that even for high-earning employees, the gap between after-tax income and housing costs remains significant. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン・SKハイニックス賞与でも江南マンションは遠い、税引き後に実感差",
-        "excerpt": "サムスン電子やSKハイニックスの社員は、報道で語られる高額成果給の印象とは異なり、税金を差し引くと江南マンション購入はなお難しいと話している。",
-        "body": "サムスン電子とSKハイニックス、いわゆる「サムジョンニックス」の社員らが、成果給をめぐる外部の視線と実際の体感には差があると語っている。報道では数億ウォンが一度に支給される「金の祭り」のように映るが、社員らは税金を差し引けば手取りは大きく減ると説明する。一部の社員は同期同士で「報道通りなら、すでに江南にビルを何棟も建てているはずだ」と冗談を言うという。高額成果給は羨望の対象だが、江南マンション価格の前では依然として越えにくい壁との認識が強い。税引き後所得と住居費の差が大きく、高所得会社員にも江南居住への参入は容易ではない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星与SK海力士奖金税后缩水，江南公寓仍是难越高墙",
-        "excerpt": "三星电子、SK海力士等员工表示，外界所称数亿韩元绩效奖金与实际感受不同，扣税后收入大减，购买江南公寓仍然困难。",
-        "body": "三星电子和SK海力士等所谓“三电尼克斯”员工表示，围绕绩效奖金的外部看法与实际体感之间存在差距。媒体报道中，这类奖金常被描述为一次性到账数亿韩元的“金钱盛宴”，但员工称扣除税费后实际到手金额明显减少。有员工说，同期同事之间会开玩笑称，“如果真像报道那样，我们早该在江南盖起好几栋楼了。”高额绩效奖金虽让外界羡慕，但在江南公寓价格面前，仍被认为是难以跨越的门槛。这显示，即便是高收入上班族，税后收入与住房成本之间的差距仍然很大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Bonos de Samsung y SK Hynix no alcanzan para Gangnam tras impuestos",
-        "excerpt": "Empleados de Samsung Electronics y SK Hynix dicen que la imagen de bonos millonarios no refleja su realidad, porque tras impuestos comprar un apartamento en Gangnam sigue siendo difícil.",
-        "body": "Empleados de Samsung Electronics y SK Hynix, conocidos en Corea como “Samjeon-nix”, señalan la brecha entre la percepción externa de sus bonos por desempeño y lo que realmente reciben. En los medios, los pagos pueden parecer una “fiesta de dinero” de cientos de millones de wones, pero los trabajadores explican que el importe neto cae con fuerza después de impuestos. Algunos comentan en broma con sus colegas que, si las noticias fueran tal como se presentan, ya deberían haber levantado varios edificios en Gangnam. Aunque los grandes bonos generan envidia, los precios de los apartamentos en Gangnam siguen viéndose como una barrera difícil de superar. La distancia entre ingreso neto y coste de vivienda continúa siendo considerable incluso para empleados de altos ingresos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Bônus da Samsung e SK Hynix ainda não bastam para apartamento em Gangnam",
-        "excerpt": "Funcionários da Samsung Electronics e da SK Hynix dizem que a imagem de bônus milionários não corresponde ao valor líquido, pois impostos reduzem o ganho e Gangnam segue distante.",
-        "body": "Funcionários da Samsung Electronics e da SK Hynix, chamados na Coreia de “Samjeon-nix”, apontam uma diferença entre a visão externa sobre os bônus de desempenho e a sensação real. Reportagens podem retratar os pagamentos como uma “festa de dinheiro” de centenas de milhões de won, mas os empregados dizem que o valor líquido cai bastante após impostos. Alguns afirmam brincar entre colegas que, se as notícias fossem exatamente assim, já teriam construído vários prédios em Gangnam. Embora bônus altos despertem inveja, os preços dos apartamentos em Gangnam continuam sendo vistos como uma barreira difícil. A diferença entre renda após impostos e custo de moradia segue grande mesmo para trabalhadores de alta renda. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung- und SK-Hynix-Boni reichen nach Steuern nicht für Gangnam-Wohnungen",
-        "excerpt": "Beschäftigte von Samsung Electronics und SK Hynix sagen, das Bild riesiger Bonuszahlungen täusche: Nach Steuern sinke der Nettobetrag stark, Gangnam-Wohnungen blieben unerreichbar.",
-        "body": "Beschäftigte von Samsung Electronics und SK Hynix, in Korea oft als „Samjeon-nix“ bezeichnet, verweisen auf die Lücke zwischen der öffentlichen Wahrnehmung ihrer Leistungsboni und der tatsächlichen Erfahrung. Medienberichte lassen die Zahlungen wie ein Geldfest mit Hunderten Millionen Won wirken, doch Mitarbeiter sagen, nach Steuern schrumpfe der Nettobetrag deutlich. Einige scherzen unter Kollegen, wenn die Berichte so stimmten, müssten sie längst mehrere Gebäude in Gangnam besitzen. Hohe Boni wecken zwar Neid, doch die Preise für Wohnungen in Gangnam gelten weiterhin als schwer überwindbare Hürde. Das zeigt, dass selbst gut verdienende Angestellte die Kluft zwischen Nettoeinkommen und Wohnkosten stark spüren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les bonus Samsung et SK Hynix restent insuffisants pour un appartement à Gangnam",
-        "excerpt": "Des salariés de Samsung Electronics et SK Hynix disent que l’image de bonus massifs ne reflète pas leur réalité: après impôts, Gangnam reste difficilement accessible.",
-        "body": "Des salariés de Samsung Electronics et de SK Hynix, souvent regroupés en Corée sous le nom de « Samjeon-nix », soulignent l’écart entre le regard extérieur sur leurs primes de performance et leur ressenti réel. Dans les médias, ces versements peuvent apparaître comme une « fête de l’argent » de plusieurs centaines de millions de wons, mais les employés expliquent que le montant net baisse fortement après impôts. Certains plaisantent entre collègues en disant que, si les reportages étaient exacts, ils auraient déjà construit plusieurs immeubles à Gangnam. Même si les grosses primes suscitent l’envie, les prix des appartements à Gangnam restent perçus comme un obstacle majeur. L’écart entre revenu après impôt et coût du logement demeure donc important, même pour des salariés à hauts revenus. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مكافآت سامسونغ وSK هاينكس لا تكفي لشقق غانغنام بعد الضرائب",
-        "excerpt": "يقول موظفون في سامسونغ إلكترونيكس وSK هاينكس إن صورة المكافآت الضخمة لا تعكس الواقع، فبعد الضرائب يتراجع المبلغ الصافي وتبقى شقق غانغنام بعيدة المنال.",
-        "body": "يشير موظفون في سامسونغ إلكترونيكس وSK هاينكس، المعروفين في كوريا باسم “سامجون نيكس”، إلى فجوة بين نظرة الخارج لمكافآت الأداء وما يشعرون به فعليا. ففي التقارير الإعلامية تبدو المدفوعات كأنها “احتفال مالي” بمئات الملايين من الوونات، لكن الموظفين يقولون إن المبلغ الصافي ينخفض كثيرا بعد خصم الضرائب. وذكر بعضهم أنهم يمزحون مع زملائهم قائلين إنهم لو حصلوا فعلا على ما تصفه التقارير، لكانوا قد بنوا عدة مبان في غانغنام. ورغم أن المكافآت الكبيرة تثير الحسد، فإن أسعار شقق غانغنام لا تزال تعد حاجزا يصعب تجاوزه. وهذا يوضح أن الفجوة بين الدخل بعد الضريبة وتكاليف السكن تبقى كبيرة حتى لدى أصحاب الدخل المرتفع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung-SK Hynix बोनस के बाद भी Gangnam अपार्टमेंट पहुंच से दूर",
-        "excerpt": "Samsung Electronics और SK Hynix के कर्मचारियों का कहना है कि करोड़ों वोन बोनस की छवि वास्तविकता से अलग है, क्योंकि कर कटने के बाद Gangnam घर अब भी मुश्किल हैं।",
-        "body": "Samsung Electronics और SK Hynix, जिन्हें कोरिया में अक्सर “Samjeon-nix” कहा जाता है, के कर्मचारी प्रदर्शन बोनस को लेकर बाहरी धारणा और वास्तविक अनुभव के बीच अंतर बता रहे हैं। मीडिया रिपोर्टों में यह भुगतान सैकड़ों मिलियन वोन की “पैसे की दावत” जैसा दिखता है, लेकिन कर्मचारियों का कहना है कि कर कटने के बाद हाथ में आने वाली राशि काफी घट जाती है। कुछ कर्मचारी सहकर्मियों के बीच मजाक करते हैं कि अगर रिपोर्टों जैसा सच होता, तो वे अब तक Gangnam में कई इमारतें खड़ी कर चुके होते। बड़े बोनस ईर्ष्या का कारण बनते हैं, फिर भी Gangnam अपार्टमेंट की कीमतें अब भी लगभग अजेय बाधा मानी जाती हैं। इससे पता चलता है कि उच्च आय वाले कर्मचारियों के लिए भी कर-पश्चात आय और आवास लागत का अंतर बड़ा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bonus Samsung dan SK Hynix Tetap Tak Cukup untuk Apartemen Gangnam",
-        "excerpt": "Karyawan Samsung Electronics dan SK Hynix mengatakan citra bonus ratusan juta won tidak sesuai kenyataan, karena setelah pajak, membeli apartemen Gangnam masih sulit.",
-        "body": "Karyawan Samsung Electronics dan SK Hynix, yang di Korea kerap disebut “Samjeon-nix”, menyoroti jarak antara pandangan publik atas bonus kinerja dan kenyataan yang mereka rasakan. Dalam pemberitaan, pembayaran itu tampak seperti “pesta uang” bernilai ratusan juta won, tetapi karyawan mengatakan jumlah bersih turun besar setelah pajak. Beberapa mengaku bercanda dengan rekan seangkatan bahwa jika laporan media benar seperti itu, mereka seharusnya sudah membangun beberapa gedung di Gangnam. Meski bonus besar menimbulkan rasa iri, harga apartemen Gangnam masih dianggap sebagai tembok yang sulit ditembus. Hal ini menunjukkan bahwa bahkan bagi pekerja berpenghasilan tinggi, selisih antara pendapatan setelah pajak dan biaya hunian tetap besar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c835bdacc4b0",
-    "slug": "고덕역-남측에-새-주거타운강동구청-정비구역-지정-공고-217130",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T21:11:50.552Z",
-    "updatedAt": "2026-05-06T21:11:50.552Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035104",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035104",
-    "titleFingerprint": "5a03479b8a980f5097a097702842429634f4b1c9",
-    "dedupKeys": [
-      "c835bdacc4b033972b890ba1484cf06302bda085",
-      "5a03479b8a980f5097a097702842429634f4b1c9",
-      "2b5d6880d77ea9a010de16243a9eda577511d535"
-    ],
-    "imageUrl": "/images/articles/c835bdacc4b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고덕역 남측 새 주거타운 추진…강동구 명일동 재건축 정비구역 공고",
-        "excerpt": "강동구청이 고덕역 남측 명일동 일대 고덕주공9단지와 명일한양아파트의 정비구역 지정을 공고하면서, 9개 단지 1만2000가구 규모 주거타운 조성 기대가 커지고 있다.",
-        "body": "강동구청이 서울 강동구 명일동 고덕주공9단지와 명일한양아파트에 대한 정비구역 지정을 공고했다. 이번 공고로 고덕역 남측 명일동 일대 재건축 추진 단지들이 정비사업 대열에 합류하게 됐다. 해당 지역은 고덕주공9단지와 명일한양을 포함해 9개 단지, 약 1만2000가구 규모의 주거타운으로 거론된다. 여기에 지하철 9호선 연장선이라는 교통 호재도 기대 요인으로 제시되고 있다. 정비구역 지정 절차가 본격화되면서 고덕역 남측 주거지의 재건축 흐름과 명일동 일대 주거환경 변화에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "New Residential Town South of Godeok Station as Gangdong Announces Redevelopment Zone",
-        "excerpt": "Gangdong District Office announced redevelopment-zone designation for Godeok Jugong 9 and Myeongil Hanyang in Myeongil-dong, raising attention on a 12,000-home town across nine complexes.",
-        "body": "Gangdong District Office has announced the designation of redevelopment zones for Godeok Jugong Complex 9 and Myeongil Hanyang Apartments in Myeongil-dong, Gangdong-gu, Seoul. With the notice, redevelopment complexes south of Godeok Station in the Myeongil-dong area have joined the broader reconstruction pipeline. The area is being discussed as a residential town of about 12,000 homes across nine apartment complexes, including Godeok Jugong 9 and Myeongil Hanyang. The planned extension of Subway Line 9 is also cited as a potential transport benefit. As the designation process begins in earnest, attention is turning to the reconstruction trend south of Godeok Station and possible changes to Myeongil-dong’s residential environment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "高徳駅南側に新住宅タウン推進、江東区が明逸洞の整備区域指定を公告",
-        "excerpt": "江東区庁が明逸洞の高徳住公9団地と明逸漢陽アパートの整備区域指定を公告し、9団地約1万2000戸規模の住宅タウン形成に関心が集まっている。",
-        "body": "ソウル市江東区庁は、江東区明逸洞の高徳住公9団地と明逸漢陽アパートについて整備区域指定を公告した。今回の公告により、高徳駅南側の明逸洞一帯にある再建築推進団地が整備事業の流れに加わることになった。同地域は高徳住公9団地と明逸漢陽を含む9団地、約1万2000戸規模の住宅タウンとして取り上げられている。さらに地下鉄9号線延伸という交通面の好材料も期待要因に挙げられる。整備区域指定手続きが本格化するなか、高徳駅南側住宅地の再建築の流れと明逸洞一帯の住環境変化に注目が集まる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "高德站南侧新住宅城推进，江东区公告明逸洞重建整备区指定",
-        "excerpt": "江东区政府公告高德住公9小区和明逸汉阳公寓整备区指定，明逸洞一带9个小区约1.2万户住宅城建设预期受到关注。",
-        "body": "首尔江东区政府公告了江东区明逸洞高德住公9小区和明逸汉阳公寓的整备区指定。随着此次公告，高德站南侧明逸洞一带推进重建的住宅小区加入整备事业行列。该区域被提及为包括高德住公9小区和明逸汉阳在内的9个小区、约1.2万户规模的住宅城。同时，地铁9号线延长线这一交通利好也被视为期待因素。随着整备区指定程序正式推进，市场关注高德站南侧住宅区的重建进程以及明逸洞一带居住环境的变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nuevo barrio residencial al sur de Godeok: Gangdong anuncia zona de reconstrucción",
-        "excerpt": "La oficina de Gangdong anunció la designación de zona de renovación para Godeok Jugong 9 y Myeongil Hanyang, elevando el interés por un conjunto de 12.000 viviendas en nueve complejos.",
-        "body": "La Oficina del Distrito de Gangdong, en Seúl, anunció la designación de zonas de renovación para Godeok Jugong 9 y los apartamentos Myeongil Hanyang, ubicados en Myeongil-dong. Con este aviso, los complejos que impulsan la reconstrucción al sur de la estación Godeok se incorporan a la línea de proyectos de renovación. La zona se menciona como un futuro barrio residencial de unos 12.000 hogares distribuidos en nueve complejos, incluidos Godeok Jugong 9 y Myeongil Hanyang. También se señala como factor de expectativa la ampliación de la línea 9 del metro. Con el avance del procedimiento, aumenta la atención sobre la reconstrucción al sur de Godeok y los cambios en el entorno residencial de Myeongil-dong. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Novo bairro residencial ao sul de Godeok: Gangdong anuncia zona de reconstrução",
-        "excerpt": "A prefeitura distrital de Gangdong anunciou a designação de área de reurbanização para Godeok Jugong 9 e Myeongil Hanyang, destacando um projeto de 12 mil moradias em nove complexos.",
-        "body": "A Prefeitura Distrital de Gangdong, em Seul, anunciou a designação de zonas de reurbanização para o Godeok Jugong 9 e os apartamentos Myeongil Hanyang, em Myeongil-dong. Com o aviso, os complexos ao sul da estação Godeok que promovem reconstrução passam a integrar a lista de projetos de renovação urbana. A área é mencionada como um futuro bairro residencial com cerca de 12 mil unidades em nove complexos, incluindo Godeok Jugong 9 e Myeongil Hanyang. A extensão da linha 9 do metrô também é apontada como fator de expectativa no transporte. Com o início mais concreto do processo de designação, cresce a atenção sobre a reconstrução ao sul de Godeok e as mudanças no ambiente residencial de Myeongil-dong. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Neues Wohnquartier südlich von Godeok: Gangdong kündigt Sanierungszone an",
-        "excerpt": "Das Bezirksamt Gangdong hat die Ausweisung von Sanierungszonen für Godeok Jugong 9 und Myeongil Hanyang bekannt gegeben; im Fokus steht ein Wohnquartier mit 12.000 Haushalten in neun Anlagen.",
-        "body": "Das Bezirksamt Gangdong in Seoul hat die Ausweisung von Sanierungszonen für Godeok Jugong 9 und die Myeongil-Hanyang-Apartments in Myeongil-dong bekannt gegeben. Mit der Bekanntmachung schließen sich die südlich der Godeok-Station gelegenen Wohnanlagen der Rekonstruktionspipeline an. Das Gebiet wird als mögliches Wohnquartier mit rund 12.000 Haushalten in neun Apartmentanlagen genannt, darunter Godeok Jugong 9 und Myeongil Hanyang. Auch die Verlängerung der U-Bahn-Linie 9 wird als erwarteter Verkehrsvorteil angeführt. Da das Verfahren zur Gebietsausweisung nun anläuft, richtet sich der Blick auf die Rekonstruktion südlich der Godeok-Station und mögliche Veränderungen des Wohnumfelds in Myeongil-dong. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nouveau quartier résidentiel au sud de Godeok: Gangdong annonce une zone de reconstruction",
-        "excerpt": "La mairie de Gangdong a annoncé la désignation en zone de réaménagement de Godeok Jugong 9 et Myeongil Hanyang, attirant l’attention sur un ensemble de 12.000 logements dans neuf complexes.",
-        "body": "La mairie de l’arrondissement de Gangdong, à Séoul, a annoncé la désignation en zones de réaménagement de Godeok Jugong 9 et des appartements Myeongil Hanyang, situés à Myeongil-dong. Avec cet avis, les complexes au sud de la station Godeok engagés dans une reconstruction rejoignent le mouvement des projets de rénovation. Le secteur est évoqué comme un futur quartier résidentiel d’environ 12.000 logements répartis dans neuf complexes, dont Godeok Jugong 9 et Myeongil Hanyang. L’extension de la ligne 9 du métro est également citée comme un facteur positif attendu pour les transports. Alors que la procédure de désignation s’accélère, l’attention se porte sur la reconstruction au sud de Godeok et l’évolution du cadre résidentiel à Myeongil-dong. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "حي سكني جديد جنوب محطة غودوك مع إعلان غانغدونغ منطقة إعادة تطوير",
-        "excerpt": "أعلن مكتب غانغدونغ تعيين غودوك جوغونغ 9 وميونغيل هانيانغ في ميونغيل-دونغ كمنطقة تنظيم، ما يبرز مشروع حي يضم نحو 12 ألف وحدة عبر 9 مجمعات.",
-        "body": "أعلن مكتب مقاطعة غانغدونغ في سيول تعيين مجمع غودوك جوغونغ 9 وشقق ميونغيل هانيانغ في ميونغيل-دونغ كمنطقتين للتنظيم وإعادة التطوير. وبهذا الإعلان، تنضم المجمعات الواقعة جنوب محطة غودوك في منطقة ميونغيل-دونغ إلى مسار مشاريع إعادة البناء. ويجري الحديث عن المنطقة كحي سكني يضم نحو 12 ألف وحدة في 9 مجمعات، بما في ذلك غودوك جوغونغ 9 وميونغيل هانيانغ. كما تُطرح خطة تمديد خط المترو رقم 9 كعامل متوقع لتحسين النقل. ومع بدء إجراءات تعيين المنطقة بشكل جدي، يتجه الاهتمام إلى مسار إعادة البناء جنوب محطة غودوك والتغيرات المحتملة في البيئة السكنية في ميونغيل-دونغ. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गोडेक स्टेशन के दक्षिण में नया आवासीय टाउन, गांगडोंग ने पुनर्विकास क्षेत्र घोषित किया",
-        "excerpt": "गांगडोंग जिला कार्यालय ने म्योंगइल-दोंग के गोडेक जुगोंग 9 और म्योंगइल हानयांग अपार्टमेंट के लिए 정비구역 지정 की घोषणा की, जिससे 9 परिसरों में 12,000 घरों की योजना पर ध्यान बढ़ा।",
-        "body": "सियोल के गांगडोंग जिला कार्यालय ने गांगडोंग-गु के म्योंगइल-दोंग स्थित गोडेक जुगोंग कॉम्प्लेक्स 9 और म्योंगइल हानयांग अपार्टमेंट को पुनर्विकास क्षेत्र के रूप में नामित करने की घोषणा की। इस घोषणा के साथ गोडेक स्टेशन के दक्षिण में म्योंगइल-दोंग क्षेत्र के पुनर्निर्माण 추진 परिसर 정비사업 की कतार में शामिल हो गए हैं। इस क्षेत्र को गोडेक जुगोंग 9 और म्योंगइल हानयांग सहित 9 परिसरों में लगभग 12,000 घरों वाले आवासीय टाउन के रूप में देखा जा रहा है। मेट्रो लाइन 9 के विस्तार को भी परिवहन से जुड़ी सकारात्मक संभावना के रूप में रखा गया है। प्रक्रिया आगे बढ़ने के साथ गोडेक स्टेशन के दक्षिणी आवासीय क्षेत्र के पुनर्निर्माण और म्योंगइल-दोंग के आवासीय वातावरण में बदलाव पर ध्यान है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kawasan Hunian Baru Selatan Stasiun Godeok, Gangdong Umumkan Zona Rekonstruksi",
-        "excerpt": "Kantor Distrik Gangdong mengumumkan penetapan zona penataan untuk Godeok Jugong 9 dan Myeongil Hanyang di Myeongil-dong, memicu perhatian pada kota hunian 12.000 unit di 9 kompleks.",
-        "body": "Kantor Distrik Gangdong di Seoul mengumumkan penetapan zona penataan untuk Godeok Jugong 9 dan Apartemen Myeongil Hanyang di Myeongil-dong, Gangdong-gu. Melalui pengumuman ini, kompleks yang mendorong rekonstruksi di kawasan Myeongil-dong selatan Stasiun Godeok bergabung dalam jajaran proyek penataan. Wilayah tersebut disebut sebagai calon kota hunian dengan sekitar 12.000 rumah di sembilan kompleks, termasuk Godeok Jugong 9 dan Myeongil Hanyang. Perpanjangan jalur subway Line 9 juga menjadi faktor transportasi yang diharapkan. Seiring dimulainya prosedur penetapan zona, perhatian tertuju pada arus rekonstruksi di selatan Stasiun Godeok dan perubahan lingkungan hunian di Myeongil-dong. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2d2e32a2aa80",
-    "slug": "당첨되면-7억-차익-하닉직원-안부러워4년전-분양가-줍줍-오픈런-예고-489442",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T21:10:39.795Z",
-    "updatedAt": "2026-05-06T21:10:39.795Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12035137",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12035137",
-    "titleFingerprint": "8b38414cf9d951295bc2e10f7ea8813d4691636d",
-    "dedupKeys": [
-      "2d2e32a2aa8092756d3f636fded9cd6cade6e2ec",
-      "8b38414cf9d951295bc2e10f7ea8813d4691636d",
-      "32a85c095aed8b3de7d135baad0562594a0b7c11"
-    ],
-    "imageUrl": "/images/articles/2d2e32a2aa80.png",
-    "i18n": {
-      "ko": {
-        "title": "동대문 래미안 라그란데 줍줍 예고, 7억 차익 기대에 무주택자 관심 집중",
-        "excerpt": "서울 동대문구 이문동 ‘래미안 라그란데’ 계약 취소 물량이 4년 전 분양가로 나오며, 청약통장과 무관하게 서울 무주택자가 신청할 수 있어 관심이 커지고 있다.",
-        "body": "서울 동대문구 이문동 대단지 아파트 ‘래미안 라그란데’ 계약 취소 물량이 4년 전 분양가 수준으로 공급될 예정이어서 무주택 실수요자의 관심이 집중되고 있다. 원문에 따르면 이번 물량은 서울 무주택자라면 청약통장 보유 여부와 관계없이 신청할 수 있다. 시장에서는 당첨 시 약 7억원의 차익이 가능하다는 점이 부각되며 ‘줍줍’ 청약 수요가 몰릴 가능성이 거론된다. 일반 공급에는 최대 10만명까지 지원할 수 있다는 예상도 나온다. 청약 문턱이 낮고 분양가 매력이 큰 만큼 접수 경쟁은 치열할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Dongdaemun Raemian La Grande resale lottery draws attention over possible 700 million won gain",
-        "excerpt": "Cancelled-contract units at Raemian La Grande in Imun-dong, Dongdaemun, Seoul are set to be offered at prices from four years ago, drawing interest from homeless Seoul residents.",
-        "body": "Cancelled-contract units at the large apartment complex Raemian La Grande in Imun-dong, Dongdaemun-gu, Seoul are expected to be supplied at price levels from four years ago, drawing strong attention from end users without homes. According to the original report, Seoul residents without homes can apply regardless of whether they hold a housing subscription account. Market attention is focused on the possibility that winners could see a gain of about 700 million won, raising expectations for heavy demand in the so-called “jupjup” lottery. Some estimates suggest as many as 100,000 people could apply for the general supply. With a low application barrier and attractive pricing, competition is expected to be intense. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "東大門レミアン・ラグランデの契約取消住戸、7億ウォン差益期待で関心集中",
-        "excerpt": "ソウル東大門区里門洞の「レミアン・ラグランデ」契約取消住戸が4年前の分譲価格で供給される見通しとなり、無住宅者の関心が高まっている。",
-        "body": "ソウル東大門区里門洞の大規模マンション「レミアン・ラグランデ」の契約取消住戸が、4年前の分譲価格水準で供給される予定となり、無住宅の実需層から注目を集めている。原文によると、今回の住戸はソウルの無住宅者であれば、住宅請約通帳の有無に関係なく申し込める。市場では、当選すれば約7億ウォンの差益が見込める点が注目され、「拾い物」請約の需要が集まる可能性が指摘されている。一般供給には最大10万人が申し込むとの予想もある。申請のハードルが低く、価格面の魅力が大きいため、受付競争は激しくなる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "东大门Raemian La Grande取消合约房源受关注，预计可获7亿韩元价差",
-        "excerpt": "首尔东大门区里门洞“Raemian La Grande”取消合约房源将按4年前分售价供应，无住房首尔居民可不受认购账户限制申请。",
-        "body": "首尔东大门区里门洞大型公寓“Raemian La Grande”的取消合约房源预计将按4年前的分售价格水平供应，引发无住房刚需群体关注。根据原文，此次房源面向首尔无住房者开放，是否持有住房认购账户并不影响申请。市场关注点在于，中签后可能获得约7亿韩元价差，因此所谓“捡漏”认购需求或将集中涌入。也有预测称，一般供应申请人数最多可能达到10万人。由于申请门槛较低且价格吸引力较大，预计认购竞争将十分激烈。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Raemian La Grande en Dongdaemun atrae interés por posible ganancia de 700 millones de wones",
-        "excerpt": "Unidades canceladas de Raemian La Grande en Imun-dong, Dongdaemun, Seúl, se ofrecerían a precios de hace cuatro años y podrán solicitarlas residentes sin vivienda.",
-        "body": "Las unidades por contratos cancelados del gran complejo Raemian La Grande en Imun-dong, Dongdaemun-gu, Seúl, se ofrecerían a niveles de precio de hace cuatro años, lo que está atrayendo la atención de compradores finales sin vivienda. Según el informe original, los residentes de Seúl sin vivienda pueden solicitarlas independientemente de si tienen una cuenta de suscripción de vivienda. El mercado destaca que los ganadores podrían obtener una diferencia de alrededor de 700 millones de wones, lo que alimenta la expectativa de fuerte demanda por esta oferta tipo “jupjup”. Algunas estimaciones apuntan a hasta 100.000 solicitantes para la oferta general. Con una barrera de entrada baja y precios atractivos, se prevé una competencia intensa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Raemian La Grande em Dongdaemun atrai atenção por possível ganho de 700 milhões de won",
-        "excerpt": "Unidades de contratos cancelados do Raemian La Grande, em Imun-dong, Dongdaemun, Seul, devem sair a preços de quatro anos atrás para moradores sem casa.",
-        "body": "Unidades de contratos cancelados do grande complexo Raemian La Grande, em Imun-dong, Dongdaemun-gu, Seul, devem ser ofertadas em níveis de preço de quatro anos atrás, atraindo forte interesse de compradores sem moradia própria. Segundo o texto original, moradores de Seul sem casa podem se candidatar independentemente de possuírem uma conta de subscrição habitacional. O mercado destaca a possibilidade de um ganho de cerca de 700 milhões de won para quem for sorteado, elevando a expectativa de grande procura pela chamada oferta “jupjup”. Há estimativas de que até 100 mil pessoas possam se inscrever na oferta geral. Com baixa barreira de inscrição e preço atrativo, a disputa deve ser intensa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Raemian La Grande in Dongdaemun im Fokus wegen möglichem Gewinn von 700 Mio. Won",
-        "excerpt": "Stornierte Vertragseinheiten im Raemian La Grande in Imun-dong, Dongdaemun, Seoul sollen zu Preisen von vor vier Jahren angeboten werden und wecken großes Interesse.",
-        "body": "Stornierte Vertragseinheiten im großen Apartmentkomplex Raemian La Grande in Imun-dong, Dongdaemun-gu, Seoul sollen voraussichtlich zu Preisniveaus von vor vier Jahren angeboten werden. Dadurch rücken sie stark in den Fokus wohnungsloser Eigennutzer. Dem Originalbericht zufolge können sich wohnungslose Einwohner Seouls unabhängig davon bewerben, ob sie ein Wohnungszeichnungs-Konto besitzen. Im Markt wird hervorgehoben, dass Gewinner einen Preisvorteil von etwa 700 Millionen Won erzielen könnten, was eine starke Nachfrage nach dieser sogenannten „Jupjup“-Zuteilung erwarten lässt. Für das allgemeine Angebot werden teils bis zu 100.000 Bewerber prognostiziert. Wegen niedriger Zugangshürden und attraktiver Preise dürfte der Wettbewerb hart werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Raemian La Grande à Dongdaemun attire l’attention pour un gain possible de 700 millions de wons",
-        "excerpt": "Des logements issus de contrats annulés à Raemian La Grande, à Imun-dong dans Dongdaemun, Séoul, devraient être proposés aux prix d’il y a quatre ans.",
-        "body": "Des logements issus de contrats annulés dans le grand complexe Raemian La Grande, à Imun-dong, Dongdaemun-gu, Séoul, devraient être proposés à des niveaux de prix datant d’il y a quatre ans, attirant l’attention des acheteurs sans logement. Selon le texte original, les résidents de Séoul sans logement peuvent déposer une demande, qu’ils possèdent ou non un compte de souscription immobilière. Le marché souligne qu’un gagnant pourrait réaliser un écart d’environ 700 millions de wons, ce qui nourrit l’attente d’une forte demande pour cette offre dite “jupjup”. Certaines estimations évoquent jusqu’à 100.000 candidats pour l’offre générale. Avec une barrière d’entrée faible et un prix attractif, la concurrence devrait être intense. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شقق Raemian La Grande في دونغ ديمون تجذب الاهتمام مع احتمال مكسب 700 مليون وون",
-        "excerpt": "من المتوقع طرح وحدات ألغيت عقودها في Raemian La Grande بمنطقة إيمون دونغ في سيول بأسعار تعود إلى ما قبل أربع سنوات، ما يثير اهتمام غير المالكين.",
-        "body": "من المتوقع طرح وحدات ألغيت عقودها في مجمع Raemian La Grande السكني الكبير في إيمون دونغ، دونغ ديمون غو، سيول، عند مستويات أسعار تعود إلى ما قبل أربع سنوات، ما يجذب اهتمام طالبي السكن غير المالكين. ووفقا للنص الأصلي، يمكن لسكان سيول الذين لا يملكون مسكنا التقدم بغض النظر عن امتلاكهم حساب اشتراك سكني. ويركز السوق على احتمال تحقيق الفائزين فرقا يقارب 700 مليون وون، ما يرفع توقعات الإقبال على هذا النوع من الطرح المعروف باسم “jupjup”. وتشير بعض التقديرات إلى أن عدد المتقدمين للطرح العام قد يصل إلى 100 ألف شخص. ومع انخفاض عتبة التقديم وجاذبية السعر، من المتوقع أن تكون المنافسة قوية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "डोंगदेमुन Raemian La Grande पर ध्यान, 70 करोड़ वॉन तक लाभ की संभावना",
-        "excerpt": "सियोल के डोंगदेमुन, इमुन-डोंग स्थित Raemian La Grande की रद्द अनुबंध वाली इकाइयां चार साल पुराने बिक्री मूल्य पर आने की उम्मीद है।",
-        "body": "सियोल के डोंगदेमुन-गु, इमुन-डोंग स्थित बड़े अपार्टमेंट परिसर Raemian La Grande की रद्द अनुबंध वाली इकाइयां चार साल पहले के बिक्री मूल्य स्तर पर उपलब्ध कराई जाने की उम्मीद है, जिससे बिना घर वाले वास्तविक खरीदारों का ध्यान बढ़ रहा है। मूल रिपोर्ट के अनुसार, सियोल के वे निवासी जिनके पास अपना घर नहीं है, हाउसिंग सब्सक्रिप्शन खाते की परवाह किए बिना आवेदन कर सकते हैं। बाजार में इस बात पर ध्यान है कि चयनित आवेदकों को लगभग 70 करोड़ वॉन का मूल्य अंतर मिल सकता है, जिससे “jupjup” आवेदन मांग बढ़ने की संभावना बताई जा रही है। सामान्य आपूर्ति के लिए अधिकतम 100,000 आवेदकों तक का अनुमान भी सामने आया है। कम आवेदन बाधा और आकर्षक कीमत के कारण प्रतिस्पर्धा तीव्र रहने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Raemian La Grande Dongdaemun jadi sorotan karena potensi selisih 700 juta won",
-        "excerpt": "Unit kontrak batal di Raemian La Grande, Imun-dong, Dongdaemun, Seoul, akan ditawarkan pada harga empat tahun lalu dan menarik minat warga tanpa rumah.",
-        "body": "Unit kontrak batal di kompleks apartemen besar Raemian La Grande di Imun-dong, Dongdaemun-gu, Seoul, diperkirakan akan dipasok pada level harga empat tahun lalu, sehingga menarik perhatian pembeli akhir yang belum memiliki rumah. Menurut laporan asli, warga Seoul tanpa rumah dapat mengajukan permohonan terlepas dari apakah mereka memiliki rekening langganan perumahan. Pasar menyoroti kemungkinan pemenang memperoleh selisih sekitar 700 juta won, sehingga permintaan untuk skema “jupjup” ini diperkirakan dapat terkonsentrasi. Ada pula perkiraan bahwa pasokan umum dapat menerima hingga 100.000 pendaftar. Dengan hambatan pendaftaran yang rendah dan harga yang menarik, persaingan diperkirakan ketat. Sumber: mk.co.kr"
       }
     }
   }
