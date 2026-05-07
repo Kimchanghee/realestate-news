@@ -1,5 +1,230 @@
 [
   {
+    "id": "f63487166011",
+    "slug": "韓美日-전성비-가성비-ai-메모리-통합칩-공동-개발해야-247304",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T22:02:04.714Z",
+    "updatedAt": "2026-05-07T22:02:04.714Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881554/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881554/2",
+    "titleFingerprint": "1e882417c2c871757ca134200a747f05e064c7af",
+    "dedupKeys": [
+      "f634871660110d25fd34e997ff257e55c2106c27",
+      "1e882417c2c871757ca134200a747f05e064c7af",
+      "9cd68e8f6a36b3b11310736f9e487d3766985164"
+    ],
+    "imageUrl": "/images/articles/f63487166011.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한미일 AI 메모리 통합칩 공동 개발론 부상, 전성비·가성비 경쟁 대응",
+        "excerpt": "대한상의와 한미협회가 7일 서울에서 연 콘퍼런스에서 전문가들은 AI 시대 메모리 반도체·에너지·냉각 인프라 공동 R&D 필요성을 강조했다.",
+        "body": "한국과 미국, 일본이 AI 시대 핵심 분야인 메모리 반도체와 에너지 인프라에서 공동 연구개발 기반을 마련해야 한다는 제안이 나왔다. 대한상공회의소와 한미협회는 7일 서울 중구 대한상의회관에서 ‘제6회 한미 산업협력 콘퍼런스’를 열고 3국 경제·산업 전문가들의 협력 논의를 진행했다. 참석 전문가들은 글로벌 AI 경쟁이 심화되는 상황에서 한미일 공동 대응이 필요하다고 봤다. 권석준 성균관대 화학공학과 교수는 AI 생태계가 학습에서 추론으로, 성능 경쟁에서 전성비와 가성비 경쟁으로 옮겨가고 있다며 컴퓨팅·에너지·냉각 인프라 공동 개발과 AI 데이터센터 전용 메모리 공동연구센터 구축을 제안했다. 한미일 스타트업이 함께 활용할 AI 인프라 필요성도 제기됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Korea, US and Japan urged to co-develop AI memory chips for power and cost efficiency",
+        "excerpt": "At a Seoul conference on May 7, experts from Korea, the US and Japan called for joint R&D in AI-era memory semiconductors, energy and cooling infrastructure.",
+        "body": "A proposal has emerged for Korea, the United States and Japan to build a joint R&D foundation in memory semiconductors and energy infrastructure, key fields in the AI era. The Korea Chamber of Commerce and Industry and the Korea-America Association held the 6th Korea-US Industrial Cooperation Conference on May 7 at the KCCI building in Jung-gu, Seoul, bringing together economic and industrial experts from the three countries. Participants said a coordinated response is needed as global AI competition intensifies. Kwon Seok-joon, a professor of chemical engineering at Sungkyunkwan University, said the AI ecosystem is shifting from training to inference and from simple performance competition to power-efficiency and cost-efficiency competition. He proposed joint development of computing, energy and cooling infrastructure and a joint research center for memory dedicated to AI data centers. The need for AI infrastructure shared by startups from the three countries was also raised. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓米日、AIメモリー統合チップ共同開発論が浮上　電力効率・価格効率に対応",
+        "excerpt": "大韓商工会議所と韓米協会が5月7日にソウルで開いた会議で、専門家らはAI時代のメモリー半導体、エネルギー、冷却インフラの共同R&Dを強調した。",
+        "body": "韓国、米国、日本がAI時代の核心分野であるメモリー半導体とエネルギーインフラで共同研究開発の基盤を築くべきだとの提案が出た。大韓商工会議所と韓米協会は5月7日、ソウル中区の大韓商工会議所会館で「第6回韓米産業協力カンファレンス」を開き、3カ国の経済・産業専門家が協力を議論した。出席者は、世界的なAI競争が激しくなる中で韓米日の共同対応が必要だと強調した。成均館大学化学工学科の権錫俊教授は、AIエコシステムが学習から推論へ、単純な性能競争から電力効率と価格効率の競争へ移っていると述べ、コンピューティング、エネルギー、冷却インフラの共同開発とAIデータセンター専用メモリーの共同研究センター設立を提案した。3カ国のスタートアップが共同利用できるAIインフラの必要性も提起された。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩美日被建议联合开发AI存储集成芯片，应对能效与性价比竞争",
+        "excerpt": "大韩商工会议所和韩美协会5月7日在首尔举行会议，专家强调AI时代存储半导体、能源和冷却基础设施共同研发的必要性。",
+        "body": "韩国、美国和日本应在AI时代的关键领域存储半导体和能源基础设施上建立共同研发基础的建议被提出。大韩商工会议所和韩美协会5月7日在首尔中区大韩商工会议所会馆举行“第六届韩美产业合作会议”，三国经济和产业专家参加并讨论合作。与会专家认为，在全球AI竞争加剧的背景下，韩美日三国需要共同应对。成均馆大学化学工程系教授权锡俊表示，AI生态系统正从训练转向推理，也从单纯性能竞争转向能效和性价比竞争。他建议三国共同开发计算、能源和冷却基础设施，并建立面向AI数据中心专用存储的联合研究中心。会议还提出了三国初创企业可共同使用的AI基础设施需求。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Corea, EE. UU. y Japón son instados a desarrollar chips de memoria para IA eficientes",
+        "excerpt": "En una conferencia celebrada el 7 de mayo en Seúl, expertos pidieron I+D conjunta en semiconductores de memoria, energía e infraestructura de refrigeración para la era de la IA.",
+        "body": "Se planteó que Corea del Sur, Estados Unidos y Japón deberían crear una base conjunta de I+D en semiconductores de memoria e infraestructura energética, áreas esenciales en la era de la inteligencia artificial. La Cámara de Comercio e Industria de Corea y la Asociación Corea-Estados Unidos celebraron el 7 de mayo la sexta Conferencia de Cooperación Industrial Corea-EE. UU. en el edificio de la KCCI, en Jung-gu, Seúl, con expertos económicos e industriales de los tres países. Los asistentes subrayaron que se necesita una respuesta conjunta ante la creciente competencia global en IA. Kwon Seok-joon, profesor de ingeniería química en la Universidad Sungkyunkwan, dijo que el ecosistema de IA pasa del entrenamiento a la inferencia y de la competencia por rendimiento simple a la eficiencia energética y de costos. Propuso desarrollar conjuntamente infraestructura de computación, energía y refrigeración, además de un centro de investigación de memoria para centros de datos de IA. También se mencionó la necesidad de infraestructura de IA compartida por startups de los tres países. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Coreia, EUA e Japão devem codesenvolver chips de memória para IA com eficiência e custo",
+        "excerpt": "Em conferência realizada em 7 de maio em Seul, especialistas defenderam P&D conjunta em memória semicondutora, energia e infraestrutura de resfriamento para a era da IA.",
+        "body": "Foi apresentada a proposta de que Coreia do Sul, Estados Unidos e Japão criem uma base conjunta de P&D em semicondutores de memória e infraestrutura de energia, áreas essenciais na era da inteligência artificial. A Câmara de Comércio e Indústria da Coreia e a Associação Coreia-EUA realizaram, em 7 de maio, a 6ª Conferência de Cooperação Industrial Coreia-EUA no edifício da KCCI, em Jung-gu, Seul, reunindo especialistas econômicos e industriais dos três países. Os participantes afirmaram que uma resposta conjunta é necessária diante da intensificação da competição global em IA. Kwon Seok-joon, professor de engenharia química da Universidade Sungkyunkwan, disse que o ecossistema de IA está passando do treinamento para a inferência e da disputa por desempenho simples para a competição por eficiência energética e de custo. Ele propôs o desenvolvimento conjunto de infraestrutura de computação, energia e resfriamento, além de um centro de pesquisa para memória dedicada a data centers de IA. Também foi levantada a necessidade de infraestrutura de IA compartilhada por startups dos três países. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Korea, USA und Japan sollen KI-Speicherchips gemeinsam für Effizienz und Kosten entwickeln",
+        "excerpt": "Auf einer Konferenz am 7. Mai in Seoul betonten Fachleute gemeinsamen F&E-Bedarf bei KI-Speicherhalbleitern, Energie und Kühlungsinfrastruktur.",
+        "body": "Es wurde vorgeschlagen, dass Südkorea, die USA und Japan eine gemeinsame F&E-Grundlage für Speicherhalbleiter und Energieinfrastruktur schaffen, zentrale Bereiche im Zeitalter der künstlichen Intelligenz. Die Korea Chamber of Commerce and Industry und die Korea-America Association veranstalteten am 7. Mai im KCCI-Gebäude in Jung-gu, Seoul, die 6. Konferenz zur industriellen Zusammenarbeit zwischen Korea und den USA. Wirtschafts- und Industrieexperten der drei Länder kamen dort zu Kooperationsgesprächen zusammen. Die Teilnehmer betonten, dass angesichts des verschärften globalen KI-Wettbewerbs eine gemeinsame Reaktion von Korea, den USA und Japan nötig sei. Kwon Seok-joon, Professor für Chemieingenieurwesen an der Sungkyunkwan University, sagte, das KI-Ökosystem verlagere sich vom Training zur Inferenz und vom reinen Leistungswettbewerb zu Energie- und Kosteneffizienz. Er schlug gemeinsame Entwicklung bei Computing, Energie und Kühlung sowie ein Forschungszentrum für Speicher speziell für KI-Rechenzentren vor. Auch der Bedarf an KI-Infrastruktur, die Start-ups der drei Länder gemeinsam nutzen können, wurde angesprochen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Corée, États-Unis et Japon appelés à codévelopper des puces mémoire IA efficaces",
+        "excerpt": "Lors d’une conférence à Séoul le 7 mai, des experts ont appelé à une R&D commune sur les semi-conducteurs mémoire, l’énergie et le refroidissement pour l’ère de l’IA.",
+        "body": "La Corée du Sud, les États-Unis et le Japon devraient établir une base commune de recherche et développement dans les semi-conducteurs mémoire et les infrastructures énergétiques, domaines essentiels à l’ère de l’intelligence artificielle, selon une proposition présentée à Séoul. La Chambre de commerce et d’industrie de Corée et l’Association Corée-États-Unis ont organisé le 7 mai, au siège de la KCCI à Jung-gu, la 6e Conférence de coopération industrielle Corée-États-Unis, réunissant des experts économiques et industriels des trois pays. Les participants ont souligné la nécessité d’une réponse conjointe face à l’intensification de la concurrence mondiale dans l’IA. Kwon Seok-joon, professeur de génie chimique à l’Université Sungkyunkwan, a déclaré que l’écosystème de l’IA passait de l’entraînement à l’inférence et d’une compétition de performance pure à une compétition d’efficacité énergétique et de coût. Il a proposé un développement conjoint des infrastructures de calcul, d’énergie et de refroidissement ainsi qu’un centre de recherche sur la mémoire dédiée aux centres de données IA. Le besoin d’une infrastructure IA partagée par les startups des trois pays a aussi été évoqué. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "دعوة كوريا والولايات المتحدة واليابان لتطوير رقائق ذاكرة للذكاء الاصطناعي بكفاءة أعلى",
+        "excerpt": "في مؤتمر عقد في سيول في 7 مايو، شدد خبراء على الحاجة إلى بحث وتطوير مشترك في ذاكرة أشباه الموصلات والطاقة والتبريد لعصر الذكاء الاصطناعي.",
+        "body": "طُرح اقتراح بأن تبني كوريا الجنوبية والولايات المتحدة واليابان أساسا مشتركا للبحث والتطوير في أشباه موصلات الذاكرة وبنية الطاقة، وهما من المجالات الأساسية في عصر الذكاء الاصطناعي. عقدت غرفة التجارة والصناعة الكورية والجمعية الكورية الأميركية في 7 مايو مؤتمر التعاون الصناعي الكوري الأميركي السادس في مبنى الغرفة بمنطقة جونغ في سيول، بمشاركة خبراء اقتصاديين وصناعيين من الدول الثلاث. وأكد المشاركون أن المنافسة العالمية في الذكاء الاصطناعي تتطلب استجابة مشتركة من كوريا والولايات المتحدة واليابان. وقال كوون سوك جون، أستاذ الهندسة الكيميائية في جامعة سونغكيونكوان، إن منظومة الذكاء الاصطناعي تنتقل من التدريب إلى الاستدلال، ومن منافسة الأداء المجرد إلى منافسة كفاءة استهلاك الطاقة وكفاءة التكلفة. واقترح تطويرا مشتركا للبنية التحتية للحوسبة والطاقة والتبريد، وإنشاء مركز أبحاث مشترك لذاكرة مخصصة لمراكز بيانات الذكاء الاصطناعي. كما طُرحت الحاجة إلى بنية تحتية للذكاء الاصطناعي يمكن للشركات الناشئة في الدول الثلاث استخدامها معا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कोरिया, अमेरिका और जापान से AI मेमोरी चिप संयुक्त विकास की अपील, दक्षता पर जोर",
+        "excerpt": "7 मई को सियोल में हुए सम्मेलन में विशेषज्ञों ने AI युग के लिए मेमोरी सेमीकंडक्टर, ऊर्जा और कूलिंग इन्फ्रास्ट्रक्चर में संयुक्त R&D की जरूरत बताई।",
+        "body": "दक्षिण कोरिया, अमेरिका और जापान को AI युग के प्रमुख क्षेत्रों, मेमोरी सेमीकंडक्टर और ऊर्जा इन्फ्रास्ट्रक्चर, में संयुक्त अनुसंधान एवं विकास आधार बनाना चाहिए, यह प्रस्ताव सामने आया। कोरिया चैंबर ऑफ कॉमर्स एंड इंडस्ट्री और कोरिया-अमेरिका एसोसिएशन ने 7 मई को सियोल के जंग-गु स्थित KCCI भवन में छठा कोरिया-अमेरिका औद्योगिक सहयोग सम्मेलन आयोजित किया, जहां तीनों देशों के आर्थिक और औद्योगिक विशेषज्ञों ने सहयोग पर चर्चा की। विशेषज्ञों ने कहा कि वैश्विक AI प्रतिस्पर्धा तेज होने के बीच कोरिया, अमेरिका और जापान की संयुक्त प्रतिक्रिया जरूरी है। सुंगक्युनक्वान विश्वविद्यालय के रासायनिक अभियांत्रिकी प्रोफेसर क्वोन सॉक-जून ने कहा कि AI पारिस्थितिकी तंत्र प्रशिक्षण से इन्फरेंस की ओर और केवल प्रदर्शन प्रतिस्पर्धा से बिजली-दक्षता व लागत-दक्षता प्रतिस्पर्धा की ओर बढ़ रहा है। उन्होंने कंप्यूटिंग, ऊर्जा और कूलिंग इन्फ्रास्ट्रक्चर के संयुक्त विकास तथा AI डेटा सेंटरों के लिए समर्पित मेमोरी पर संयुक्त शोध केंद्र बनाने का प्रस्ताव रखा। तीनों देशों के स्टार्टअप द्वारा साझा उपयोग योग्य AI इन्फ्रास्ट्रक्चर की जरूरत भी उठाई गई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Korea, AS, Jepang didorong kembangkan chip memori AI bersama demi efisiensi biaya",
+        "excerpt": "Dalam konferensi di Seoul pada 7 Mei, para pakar menekankan perlunya R&D bersama untuk semikonduktor memori, energi, dan infrastruktur pendinginan era AI.",
+        "body": "Muncul usulan agar Korea Selatan, Amerika Serikat, dan Jepang membangun dasar riset dan pengembangan bersama di bidang semikonduktor memori serta infrastruktur energi, sektor penting pada era kecerdasan buatan. Kamar Dagang dan Industri Korea bersama Korea-America Association menggelar Konferensi Kerja Sama Industri Korea-AS ke-6 pada 7 Mei di gedung KCCI, Jung-gu, Seoul, dengan menghadirkan pakar ekonomi dan industri dari tiga negara. Para peserta menekankan perlunya respons bersama Korea, AS, dan Jepang di tengah meningkatnya persaingan AI global. Kwon Seok-joon, profesor teknik kimia Universitas Sungkyunkwan, mengatakan ekosistem AI bergeser dari pelatihan ke inferensi serta dari persaingan kinerja semata ke persaingan efisiensi daya dan biaya. Ia mengusulkan pengembangan bersama infrastruktur komputasi, energi, dan pendinginan, serta pusat riset bersama untuk memori khusus pusat data AI. Kebutuhan infrastruktur AI yang dapat digunakan bersama oleh startup dari tiga negara juga disampaikan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "729efb536c46",
+    "slug": "스몰-럭셔리-붐-타고-호텔-망고빙수-13만원-202687",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T22:00:50.003Z",
+    "updatedAt": "2026-05-07T22:00:50.003Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881552/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881552/2",
+    "titleFingerprint": "bd068125e81c95e5399c16d6b9fc2173b67c9297",
+    "dedupKeys": [
+      "729efb536c463998cf331b44466f6533beb5ca92",
+      "bd068125e81c95e5399c16d6b9fc2173b67c9297",
+      "d6166a114e3ecb54f8009cecd43fd47d72c3a5d8"
+    ],
+    "imageUrl": "/images/articles/729efb536c46.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호텔 애플망고 빙수 가격 또 인상, 시그니엘 13만5000원까지 올랐다",
+        "excerpt": "7일 호텔업계에 따르면 서울 주요 특급호텔들이 여름 대표 상품인 애플망고 빙수 가격을 올해도 올렸다. 고급 과일과 인건비 등 비용 상승이 배경이다.",
+        "body": "서울 주요 특급호텔의 여름 대표 상품인 애플망고 빙수 가격이 올해도 인상됐다. 7일 호텔업계에 따르면 시그니엘 서울은 79층 ‘더 라운지’에서 판매하는 애플망고 빙수 가격을 지난해 13만 원에서 올해 13만5000원으로 5000원 올렸다. 롯데호텔 서울은 애플망고 빙수 R사이즈를 12만 원으로, 워커힐호텔은 9만5000원으로 각각 1만 원 인상했다. 서울신라호텔은 지난해 11만 원에서 올해 13만 원으로 2만 원 올렸다. 포시즌스호텔 서울은 가격을 동결했지만 14만9000원으로 주요 호텔 중 최고가 수준이다. 업계는 제주산 애플망고 등 고급 과일 가격과 인건비, 임차료, 서비스 비용 상승을 이유로 들었다. 최근 20, 30대를 중심으로 확산된 ‘스몰 럭셔리’ 소비 흐름도 호텔 빙수 수요와 맞물린 것으로 풀이된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Hotel Apple Mango Bingsu Prices Rise Again as Signiel Hits 135,000 Won",
+        "excerpt": "According to the hotel industry on May 7, major luxury hotels in Seoul raised prices again this year for apple mango bingsu, citing higher premium fruit, labor and service costs.",
+        "body": "Prices for apple mango bingsu, a signature summer item at Seoul’s major luxury hotels, have risen again this year. According to the hotel industry on May 7, Signiel Seoul raised the price of the apple mango bingsu sold at The Lounge on the 79th floor from 130,000 won last year to 135,000 won this year. Lotte Hotel Seoul increased the R-size apple mango bingsu to 120,000 won, while Walkerhill Hotel raised its price to 95,000 won, each up by 10,000 won. The Shilla Seoul lifted its price from 110,000 won last year to 130,000 won this year. Four Seasons Hotel Seoul kept its price unchanged, but at 149,000 won it remains among the highest of major hotels. The industry cited rising prices for premium fruit such as Jeju apple mangoes, as well as labor, rent and service costs. The demand is also seen as linked to the “small luxury” trend spreading among consumers in their 20s and 30s. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ホテルのアップルマンゴーかき氷が再値上げ、シグニエルは13万5000ウォンに",
+        "excerpt": "ホテル業界が7日に明らかにしたところによると、ソウル主要高級ホテルは夏の代表商品であるアップルマンゴーかき氷を今年も値上げした。高級果物や人件費の上昇が背景だ。",
+        "body": "ソウル主要高級ホテルの夏の代表商品であるアップルマンゴーかき氷の価格が今年も引き上げられた。ホテル業界が7日に明らかにしたところによると、シグニエルソウルは79階「ザ・ラウンジ」で販売するアップルマンゴーかき氷を、昨年の13万ウォンから今年13万5000ウォンへ5000ウォン値上げした。ロッテホテルソウルはRサイズを12万ウォンに、ウォーカーヒルホテルは9万5000ウォンにそれぞれ1万ウォン引き上げた。ソウル新羅ホテルは昨年の11万ウォンから今年13万ウォンへ2万ウォン値上げした。フォーシーズンズホテルソウルは価格を据え置いたが、14万9000ウォンで主要ホテルの中でも最高水準だ。業界は済州産アップルマンゴーなど高級果物の価格、人件費、賃料、サービス費用の上昇を理由に挙げている。20代、30代を中心に広がる「スモールラグジュアリー」消費の流れも需要と結びついているとみられる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "酒店苹果芒果刨冰再涨价，Signiel首尔升至13.5万韩元",
+        "excerpt": "据酒店业5月7日消息，首尔主要豪华酒店今年再次上调夏季代表产品苹果芒果刨冰价格，原因包括高端水果、人力和服务成本上涨。",
+        "body": "首尔主要豪华酒店的夏季代表产品苹果芒果刨冰价格今年再次上涨。据酒店业5月7日消息，Signiel首尔将79层“The Lounge”销售的苹果芒果刨冰价格从去年的13万韩元上调至今年的13.5万韩元，上涨5000韩元。乐天酒店首尔将苹果芒果刨冰R尺寸价格上调至12万韩元，华克山庄酒店上调至9.5万韩元，分别上涨1万韩元。首尔新罗酒店则从去年的11万韩元涨至今年的13万韩元，上涨2万韩元。首尔四季酒店虽维持价格不变，但14.9万韩元仍处于主要酒店最高价水平。业界表示，济州产苹果芒果等高端水果价格以及人力、租金、服务成本上涨，是价格调整原因。近来在二三十岁消费者中扩散的“小奢侈”趋势，也被认为与酒店刨冰需求相关。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El bingsu de mango en hoteles vuelve a subir: Signiel llega a 135.000 wones",
+        "excerpt": "Según el sector hotelero el 7 de mayo, los principales hoteles de lujo de Seúl volvieron a subir este año el precio del bingsu de mango por mayores costos de fruta premium, mano de obra y servicios.",
+        "body": "El precio del bingsu de mango manzana, producto representativo del verano en los principales hoteles de lujo de Seúl, volvió a subir este año. Según el sector hotelero el 7 de mayo, Signiel Seoul elevó el precio del bingsu vendido en The Lounge, en el piso 79, de 130.000 wones el año pasado a 135.000 wones este año. Lotte Hotel Seoul subió el tamaño R a 120.000 wones y Walkerhill Hotel a 95.000 wones, cada uno con un aumento de 10.000 wones. The Shilla Seoul pasó de 110.000 wones el año pasado a 130.000 wones este año. Four Seasons Hotel Seoul congeló el precio, pero con 149.000 wones se mantiene entre los más altos de los principales hoteles. La industria citó el alza de frutas premium como el mango manzana de Jeju, además de mano de obra, alquileres y costos de servicio. La demanda también se vincula con la tendencia de “pequeño lujo” entre consumidores de 20 y 30 años. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Bingsu de manga em hotéis volta a subir, e Signiel chega a 135 mil wons",
+        "excerpt": "Segundo o setor hoteleiro em 7 de maio, grandes hotéis de luxo de Seul elevaram novamente neste ano o preço do bingsu de manga, citando alta de frutas premium, mão de obra e serviços.",
+        "body": "O preço do bingsu de manga-maçã, produto típico do verão nos principais hotéis de luxo de Seul, voltou a subir neste ano. Segundo o setor hoteleiro em 7 de maio, o Signiel Seoul aumentou o preço do bingsu vendido no The Lounge, no 79º andar, de 130 mil wons no ano passado para 135 mil wons neste ano. O Lotte Hotel Seoul elevou o tamanho R para 120 mil wons, e o Walkerhill Hotel para 95 mil wons, cada um com alta de 10 mil wons. O The Shilla Seoul subiu de 110 mil wons no ano passado para 130 mil wons neste ano. O Four Seasons Hotel Seoul manteve o preço, mas, a 149 mil wons, segue entre os mais caros dos principais hotéis. O setor apontou a alta de frutas premium, como a manga-maçã de Jeju, além de mão de obra, aluguel e custos de serviço. A demanda também é associada à tendência de “pequeno luxo” entre consumidores de 20 e 30 anos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hotel-Apple-Mango-Bingsu wird erneut teurer, Signiel verlangt 135.000 Won",
+        "excerpt": "Nach Angaben der Hotelbranche vom 7. Mai haben große Luxushotels in Seoul die Preise für Apple-Mango-Bingsu erneut erhöht. Gründe sind höhere Kosten für Premiumobst, Personal und Service.",
+        "body": "Die Preise für Apple-Mango-Bingsu, ein typisches Sommerprodukt großer Luxushotels in Seoul, sind auch in diesem Jahr gestiegen. Nach Angaben der Hotelbranche vom 7. Mai erhöhte Signiel Seoul den Preis für das im The Lounge im 79. Stock verkaufte Apple-Mango-Bingsu von 130.000 Won im Vorjahr auf 135.000 Won. Lotte Hotel Seoul hob den Preis der R-Größe auf 120.000 Won an, Walkerhill Hotel auf 95.000 Won, jeweils um 10.000 Won. The Shilla Seoul erhöhte den Preis von 110.000 Won im vergangenen Jahr auf 130.000 Won. Four Seasons Hotel Seoul beließ den Preis unverändert, liegt mit 149.000 Won aber unter den großen Hotels auf Spitzenniveau. Die Branche verweist auf gestiegene Preise für Premiumobst wie Apple-Mangos von Jeju sowie höhere Personal-, Miet- und Servicekosten. Die Nachfrage wird zudem mit dem unter Menschen in den Zwanzigern und Dreißigern verbreiteten Trend zu „kleinem Luxus“ in Verbindung gebracht. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le bingsu à la mangue des hôtels augmente encore, Signiel atteint 135 000 wons",
+        "excerpt": "Selon le secteur hôtelier le 7 mai, les grands hôtels de luxe de Séoul ont de nouveau augmenté cette année le prix du bingsu à la mangue, en raison de la hausse des fruits premium, du travail et des services.",
+        "body": "Le prix du bingsu à la mangue apple, produit estival phare des grands hôtels de luxe de Séoul, a encore augmenté cette année. Selon le secteur hôtelier le 7 mai, Signiel Seoul a relevé le prix du bingsu vendu au The Lounge, au 79e étage, de 130 000 wons l’an dernier à 135 000 wons cette année. Lotte Hotel Seoul a porté le format R à 120 000 wons, et Walkerhill Hotel à 95 000 wons, soit une hausse de 10 000 wons chacun. The Shilla Seoul est passé de 110 000 wons l’an dernier à 130 000 wons cette année. Four Seasons Hotel Seoul a gelé son prix, mais à 149 000 wons, il reste parmi les plus chers des grands hôtels. Le secteur invoque la hausse du prix des fruits premium, comme les mangues apple de Jeju, ainsi que celle de la main-d’œuvre, des loyers et des services. La demande est aussi liée à la tendance du “petit luxe” chez les consommateurs dans la vingtaine et la trentaine. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ارتفاع جديد في أسعار بينغسو المانغو بالفنادق وسيغنيل يصل إلى 135 ألف وون",
+        "excerpt": "وفق قطاع الفنادق في 7 مايو، رفعت فنادق فاخرة رئيسية في سيول أسعار بينغسو مانغو التفاح هذا العام مجددا، بسبب ارتفاع تكاليف الفاكهة الفاخرة والعمالة والخدمات.",
+        "body": "ارتفعت هذا العام مجددا أسعار بينغسو مانغو التفاح، وهو منتج صيفي بارز في الفنادق الفاخرة الرئيسية في سيول. ووفق قطاع الفنادق في 7 مايو، رفعت سيغنيل سيول سعر بينغسو مانغو التفاح المباع في “ذا لاونج” في الطابق 79 من 130 ألف وون العام الماضي إلى 135 ألف وون هذا العام. ورفع فندق لوتيه سيول سعر حجم R إلى 120 ألف وون، ورفع فندق ووكرهِل السعر إلى 95 ألف وون، بزيادة 10 آلاف وون لكل منهما. أما فندق شيلا سيول فرفع السعر من 110 آلاف وون العام الماضي إلى 130 ألف وون هذا العام. وأبقى فندق فورسيزونز سيول السعر دون تغيير، لكنه عند 149 ألف وون يظل بين الأعلى في الفنادق الرئيسية. وتقول الصناعة إن السبب هو ارتفاع أسعار الفاكهة الفاخرة مثل مانغو التفاح من جيجو، إضافة إلى تكاليف العمالة والإيجار والخدمات. كما ترتبط الطلبات باتجاه “الرفاهية الصغيرة” المنتشر بين المستهلكين في العشرينات والثلاثينات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "होटल एप्पल मैंगो बिंग्सू फिर महंगा, सिग्निएल में कीमत 135,000 वॉन हुई",
+        "excerpt": "होटल उद्योग के अनुसार 7 मई को सियोल के प्रमुख लग्जरी होटलों ने इस साल फिर एप्पल मैंगो बिंग्सू की कीमत बढ़ाई। वजह प्रीमियम फल, श्रम और सेवा लागत में वृद्धि है।",
+        "body": "सियोल के प्रमुख लग्जरी होटलों में गर्मियों के प्रतिनिधि उत्पाद एप्पल मैंगो बिंग्सू की कीमत इस साल फिर बढ़ गई है। होटल उद्योग के अनुसार 7 मई को सिग्निएल सियोल ने 79वीं मंजिल के “द लाउंज” में बिकने वाले एप्पल मैंगो बिंग्सू की कीमत पिछले साल 130,000 वॉन से बढ़ाकर इस साल 135,000 वॉन कर दी। लोट्टे होटल सियोल ने R आकार की कीमत 120,000 वॉन और वॉकरहिल होटल ने 95,000 वॉन कर दी, दोनों में 10,000 वॉन की बढ़ोतरी हुई। द शिल्ला सियोल ने पिछले साल 110,000 वॉन से इस साल 130,000 वॉन तक कीमत बढ़ाई। फोर सीजन्स होटल सियोल ने कीमत स्थिर रखी, लेकिन 149,000 वॉन के साथ यह प्रमुख होटलों में सबसे ऊंचे स्तर पर है। उद्योग ने जेजू एप्पल मैंगो जैसे प्रीमियम फलों, श्रम, किराये और सेवा लागत में वृद्धि को कारण बताया। 20 और 30 की उम्र वाले उपभोक्ताओं में फैल रही “स्मॉल लग्जरी” प्रवृत्ति भी मांग से जुड़ी मानी जा रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Bingsu Mangga Hotel Naik Lagi, Signiel Seoul Tembus 135.000 Won",
+        "excerpt": "Menurut industri hotel pada 7 Mei, hotel-hotel mewah utama di Seoul kembali menaikkan harga bingsu mangga apel tahun ini karena biaya buah premium, tenaga kerja, sewa, dan layanan meningkat.",
+        "body": "Harga bingsu mangga apel, produk musim panas andalan hotel-hotel mewah utama di Seoul, kembali naik tahun ini. Menurut industri hotel pada 7 Mei, Signiel Seoul menaikkan harga bingsu mangga apel yang dijual di The Lounge lantai 79 dari 130.000 won tahun lalu menjadi 135.000 won tahun ini. Lotte Hotel Seoul menaikkan ukuran R menjadi 120.000 won, sementara Walkerhill Hotel menjadi 95.000 won, masing-masing naik 10.000 won. The Shilla Seoul menaikkan harga dari 110.000 won tahun lalu menjadi 130.000 won tahun ini. Four Seasons Hotel Seoul mempertahankan harga, tetapi 149.000 won tetap termasuk level tertinggi di antara hotel utama. Industri menyebut kenaikan harga buah premium seperti mangga apel Jeju, serta biaya tenaga kerja, sewa, dan layanan sebagai alasan. Permintaan juga dinilai terkait dengan tren “small luxury” yang menyebar di kalangan konsumen usia 20-an dan 30-an. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "5800d35ae9cf",
+    "slug": "중저신용-대출-인터넷銀도-고신용자에-대출-쏠려-644948",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T21:59:37.747Z",
+    "updatedAt": "2026-05-07T21:59:37.747Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881537/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881537/2",
+    "titleFingerprint": "e667e419b0a2835728c482bad023b7e6e1a44223",
+    "dedupKeys": [
+      "5800d35ae9cf476b02f7c0176f71613ec4199d97",
+      "e667e419b0a2835728c482bad023b7e6e1a44223",
+      "7835996ca8d7b6aeac245ec8e310c7f6f7088b4f"
+    ],
+    "imageUrl": "/images/articles/5800d35ae9cf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중저신용 대출 외친 인터넷은행도 고신용자 쏠림 여전",
+        "excerpt": "7일 은행연합회 자료에 따르면 은행권 신용대출 고객 평균 신용점수가 대부분 800점대 후반~900점대 중반에 몰리며 중·저신용자 포용 한계가 드러났다.",
+        "body": "정부가 중·저신용자를 충분히 포용하지 못하는 금융권 신용대출 관행을 지적한 가운데, 은행권 전반에서 고신용자 중심 대출이 여전한 것으로 나타났다. 7일 은행연합회에 따르면 지난달 은행권 일반 신용대출 고객의 평균 신용점수는 KCB 기준 대부분 800점대 후반에서 900점대 중반에 분포했다. 평균 신용점수가 높은 곳은 SC제일은행 965점, BNK부산은행 954점, SH수협은행 940점, NH농협은행 932점, 토스뱅크 930점 순이었다. 설립 취지로 중금리 대출 확대를 내세운 인터넷전문은행도 중·저신용자 대출 비중이 30% 수준에 머물렀다. 시중은행 역시 안정적 급여를 받는 고신용자 위주의 대출 관행이 이어졌다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Internet Banks Still Lean Toward High-Credit Borrowers Despite Pledge",
+        "excerpt": "Data from the Korea Federation of Banks on May 7 showed average credit scores for bank personal loan customers clustered mostly in the high 800s to mid-900s, exposing limits in serving mid- and low-credit borrowers.",
+        "body": "As the government criticized financial institutions’ personal loan practices for failing to sufficiently include mid- and low-credit borrowers, data showed that lending across the banking sector remains concentrated among high-credit customers. According to the Korea Federation of Banks on May 7, the average KCB credit scores of customers who received general personal loans from banks last month mostly ranged from the high 800s to the mid-900s. The highest averages were SC First Bank at 965, BNK Busan Bank at 954, SH Suhyup Bank at 940, NH NongHyup Bank at 932, and Toss Bank at 930. Internet-only banks, which cited expanding mid-rate loans as a founding purpose, still had mid- and low-credit lending at around 30%. Major commercial banks also continued lending mainly to high-credit borrowers with stable salaries. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "中低信用向け掲げたネット銀行も高信用者への融資偏重続く",
+        "excerpt": "5月7日の銀行連合会資料によると、銀行の信用ローン利用者の平均信用スコアは大半が800点台後半から900点台半ばに集中し、中低信用者包摂の限界が示された。",
+        "body": "政府が中低信用者を十分に包摂できていない金融圏の信用ローン慣行を指摘する中、銀行業界全体で高信用者中心の融資が続いていることが分かった。5月7日の銀行連合会によると、先月、銀行が一般信用ローンを実行した顧客の平均信用スコアはKCB基準で大半が800点台後半から900点台半ばに分布した。平均スコアが高い上位はSC第一銀行965点、BNK釜山銀行954点、SH水協銀行940点、NH農協銀行932点、トスバンク930点だった。設立趣旨として中金利融資の拡大を掲げたネット専業銀行でも、中低信用者向け融資比率はなお30%水準にとどまった。市中銀行でも安定した給与を得る高信用者中心の融資慣行が続いた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "网银曾主打中低信用贷款，如今仍偏向高信用客户",
+        "excerpt": "据5月7日韩国银行联合会资料，银行个人信用贷款客户平均信用分多集中在800分后段至900分中段，显示中低信用人群覆盖仍有限。",
+        "body": "在政府指出金融业个人信用贷款惯例未能充分覆盖中低信用借款人的背景下，银行业整体仍呈现向高信用客户集中的现象。韩国银行联合会5月7日数据显示，上月银行发放一般个人信用贷款的客户平均信用分按KCB标准大多位于800分后段至900分中段。平均信用分最高的机构依次为SC第一银行965分、BNK釜山银行954分、SH水协银行940分、NH农协银行932分、Toss Bank 930分。以扩大中等利率贷款为设立宗旨的互联网专业银行，中低信用者贷款占比仍停留在约30%。主要商业银行也继续以拥有稳定工资收入的高信用客户为主发放贷款。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Bancos digitales siguen concentrando créditos en clientes de alta solvencia",
+        "excerpt": "Según datos del 7 de mayo de la Federación de Bancos de Corea, la puntuación media de clientes con préstamos personales se concentró entre finales de los 800 y mediados de los 900, mostrando límites para incluir a prestatarios de crédito medio y bajo.",
+        "body": "Mientras el Gobierno señaló que las prácticas de préstamos personales del sector financiero no incluyen suficientemente a los prestatarios de crédito medio y bajo, los datos muestran que la banca sigue concentrada en clientes de alta solvencia. Según la Federación de Bancos de Corea, el 7 de mayo, la puntuación crediticia media KCB de quienes recibieron préstamos personales generales el mes pasado se ubicó en su mayoría entre finales de los 800 y mediados de los 900. Los promedios más altos fueron SC First Bank con 965, BNK Busan Bank con 954, SH Suhyup Bank con 940, NH NongHyup Bank con 932 y Toss Bank con 930. Los bancos exclusivamente digitales, creados con el objetivo de ampliar préstamos de tasa media, aún mantienen la proporción de préstamos a crédito medio y bajo cerca del 30%. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Bancos digitais ainda concentram crédito em clientes de alta pontuação",
+        "excerpt": "Dados de 7 de maio da Federação de Bancos da Coreia mostram que a pontuação média dos clientes de crédito pessoal ficou, em geral, do fim dos 800 ao meio dos 900, revelando limites na inclusão de tomadores de crédito médio e baixo.",
+        "body": "Enquanto o governo criticou as práticas de crédito pessoal do setor financeiro por não incluírem de forma suficiente tomadores de crédito médio e baixo, dados indicam que os empréstimos bancários seguem concentrados em clientes de alta pontuação. Segundo a Federação de Bancos da Coreia, em 7 de maio, a pontuação média KCB dos clientes que receberam crédito pessoal geral no mês passado ficou majoritariamente entre o fim dos 800 e o meio dos 900. As maiores médias foram do SC First Bank, com 965 pontos, BNK Busan Bank, 954, SH Suhyup Bank, 940, NH NongHyup Bank, 932, e Toss Bank, 930. Bancos exclusivamente digitais, que defenderam a expansão de empréstimos de taxa média como objetivo de criação, ainda mantêm a fatia para crédito médio e baixo em torno de 30%. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Internetbanken verleihen trotz Anspruch weiter vor allem an Top-Bonität",
+        "excerpt": "Daten der Korea Federation of Banks vom 7. Mai zeigen, dass die Durchschnittsbonität bei Privatkrediten meist zwischen hohen 800er- und mittleren 900er-Werten lag und die Einbindung mittlerer und schwächerer Bonität begrenzt bleibt.",
+        "body": "Nachdem die Regierung kritisiert hatte, dass die Kreditpraxis der Finanzbranche Kreditnehmer mit mittlerer und niedriger Bonität nicht ausreichend einbezieht, zeigen Daten eine deutliche Konzentration auf Kunden mit hoher Bonität. Nach Angaben der Korea Federation of Banks vom 7. Mai lagen die durchschnittlichen KCB-Kreditwerte der Kunden, die im Vormonat allgemeine Privatkredite erhielten, meist zwischen dem hohen 800er- und dem mittleren 900er-Bereich. Die höchsten Durchschnittswerte verzeichneten SC First Bank mit 965 Punkten, BNK Busan Bank mit 954, SH Suhyup Bank mit 940, NH NongHyup Bank mit 932 und Toss Bank mit 930. Auch reine Internetbanken, deren Gründungszweck die Ausweitung von Krediten zu mittleren Zinssätzen war, kamen bei Krediten an mittlere und niedrige Bonitäten weiter nur auf etwa 30%. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les banques en ligne restent tournées vers les emprunteurs très bien notés",
+        "excerpt": "Selon les données du 7 mai de la Fédération des banques de Corée, les scores moyens des clients de prêts personnels se situaient surtout entre la fin des 800 et le milieu des 900, révélant une inclusion limitée des profils moyens et faibles.",
+        "body": "Alors que le gouvernement a critiqué les pratiques de crédit personnel du secteur financier, jugées insuffisantes pour inclure les emprunteurs à crédit moyen ou faible, les données montrent une concentration persistante sur les clients les mieux notés. D’après la Fédération des banques de Corée, le 7 mai, le score KCB moyen des clients ayant obtenu un prêt personnel général le mois précédent se situait majoritairement entre la fin des 800 et le milieu des 900. Les moyennes les plus élevées étaient celles de SC First Bank, 965 points, BNK Busan Bank, 954, SH Suhyup Bank, 940, NH NongHyup Bank, 932, et Toss Bank, 930. Les banques exclusivement en ligne, créées notamment pour élargir les prêts à taux intermédiaire, maintiennent encore la part des prêts aux profils moyens et faibles autour de 30%. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "البنوك الرقمية ما زالت تميل إلى المقترضين ذوي الجدارة الائتمانية العالية",
+        "excerpt": "أظهرت بيانات اتحاد البنوك الكورية في 7 مايو أن متوسط درجات الائتمان لعملاء القروض الشخصية تركز غالبا بين أواخر نطاق 800 ومنتصف 900، ما يكشف محدودية شمول أصحاب الائتمان المتوسط والمنخفض.",
+        "body": "في وقت انتقدت فيه الحكومة ممارسات القروض الشخصية في القطاع المالي لعدم شمولها الكافي للمقترضين ذوي الائتمان المتوسط والمنخفض، أظهرت البيانات أن الإقراض المصرفي لا يزال متركزا حول أصحاب الجدارة الائتمانية العالية. ووفقا لاتحاد البنوك الكورية في 7 مايو، فإن متوسط درجات KCB للعملاء الذين حصلوا على قروض شخصية عامة في الشهر الماضي توزع في الغالب بين أواخر نطاق 800 ومنتصف نطاق 900. وسجلت أعلى المتوسطات لدى SC First Bank بواقع 965 نقطة، ثم BNK Busan Bank بـ954، وSH Suhyup Bank بـ940، وNH NongHyup Bank بـ932، وToss Bank بـ930. كما بقيت حصة قروض أصحاب الائتمان المتوسط والمنخفض لدى البنوك الرقمية، التي تأسست بهدف توسيع القروض متوسطة الفائدة، عند نحو 30%. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "इंटरनेट बैंक भी उच्च क्रेडिट ग्राहकों पर केंद्रित, मध्यम-निम्न ऋण सीमित",
+        "excerpt": "7 मई को कोरिया फेडरेशन ऑफ बैंक्स के आंकड़ों के अनुसार, बैंकों के व्यक्तिगत ऋण ग्राहकों का औसत क्रेडिट स्कोर अधिकतर 800 के ऊपरी स्तर से 900 के मध्य स्तर में रहा, जिससे मध्यम और निम्न क्रेडिट ग्राहकों की सीमित पहुंच दिखी।",
+        "body": "सरकार ने वित्तीय क्षेत्र की व्यक्तिगत ऋण प्रथाओं पर सवाल उठाया है कि वे मध्यम और निम्न क्रेडिट वाले उधारकर्ताओं को पर्याप्त रूप से शामिल नहीं कर रहीं। इसी बीच आंकड़ों से पता चला कि बैंकिंग क्षेत्र में ऋण अब भी उच्च क्रेडिट ग्राहकों पर केंद्रित है। कोरिया फेडरेशन ऑफ बैंक्स के अनुसार, 7 मई को जारी जानकारी में पिछले महीने सामान्य व्यक्तिगत ऋण लेने वाले ग्राहकों का औसत KCB क्रेडिट स्कोर अधिकतर 800 के ऊपरी स्तर से 900 के मध्य स्तर तक रहा। सबसे ऊंचे औसत SC First Bank 965, BNK Busan Bank 954, SH Suhyup Bank 940, NH NongHyup Bank 932 और Toss Bank 930 रहे। मध्यम ब्याज दर ऋण बढ़ाने के उद्देश्य से बने इंटरनेट-केवल बैंकों में भी मध्यम और निम्न क्रेडिट ऋण की हिस्सेदारी करीब 30% पर ही रही। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Bank Digital Masih Condong ke Debitur Kredit Tinggi, Porsi Menengah-Rendah Terbatas",
+        "excerpt": "Data Federasi Bank Korea pada 7 Mei menunjukkan skor kredit rata-rata nasabah pinjaman pribadi bank mayoritas berada di akhir 800 hingga pertengahan 900, menandakan keterbatasan inklusi bagi debitur kredit menengah dan rendah.",
+        "body": "Saat pemerintah menyoroti praktik pinjaman pribadi sektor keuangan yang dinilai belum cukup merangkul debitur dengan kredit menengah dan rendah, data menunjukkan pinjaman perbankan masih terkonsentrasi pada nasabah ber kredit tinggi. Menurut Federasi Bank Korea pada 7 Mei, skor kredit rata-rata KCB nasabah yang menerima pinjaman pribadi umum dari bank pada bulan lalu sebagian besar berada di kisaran akhir 800 hingga pertengahan 900. Rata-rata tertinggi tercatat di SC First Bank 965 poin, BNK Busan Bank 954, SH Suhyup Bank 940, NH NongHyup Bank 932, dan Toss Bank 930. Bank khusus internet, yang sejak awal menekankan perluasan pinjaman berbunga menengah, juga masih mencatat porsi pinjaman untuk kredit menengah dan rendah sekitar 30%. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "8bd5cabba5ce",
     "slug": "道公-퇴직자단체-고속도-휴게소-수익금-파티-204549",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Beban Perpanjangan Jeonse di Area Gangnam Naik, Penyewa Songpa Butuh Tambahan 430 Juta Won",
         "excerpt": "Bulan lalu, perpanjangan jeonse unit 84㎡ di Hyundai Riverville 1, Pungnap-dong, Songpa-gu, dilaporkan sebesar 800 juta won, membuat penyewa lama dengan deposit 370 juta won perlu menambah 430 juta won.",
         "body": "Bulan lalu, kontrak perpanjangan jeonse untuk unit 84㎡ di Hyundai Riverville 1, Pungnap-dong, Songpa-gu, Seoul, dilaporkan sebesar 800 juta won. Penyewa yang sebelumnya tinggal dengan deposit 370 juta won harus menyiapkan tambahan 430 juta won untuk memperbarui kontrak di rumah yang sama. Judul asli menyoroti bahwa di area Gangnam, perpanjangan jeonse dapat menimbulkan beban tambahan deposit yang besar. Kasus ini menunjukkan bahwa proses pembaruan kontrak dapat meningkatkan tekanan pendanaan bagi penyewa lama. Konten ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f18df6db1b6d",
-    "slug": "새로운-철도망-따라-뜰-곳을-찜하라-박합수의-부동산-끝판-192793",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T08:12:01.050Z",
-    "updatedAt": "2026-05-07T08:12:01.050Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12038113",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038113",
-    "titleFingerprint": "77d23723954f85fb4370908865db43626e1e12b7",
-    "dedupKeys": [
-      "f18df6db1b6d2abd932f51eb8f0d97d2ef0ca1e8",
-      "77d23723954f85fb4370908865db43626e1e12b7",
-      "4c291fd8c93d5431cf9509e80da8f5a6554590eb"
-    ],
-    "imageUrl": "/images/articles/f18df6db1b6d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GTX 등 새 철도망이 바꿀 부동산 입지, 주목할 지역 찾는 법",
-        "excerpt": "박합수 건국대 부동산대학원 겸임교수가 매경 콘텐츠에서 GTX 등 새 철도망 구축이 부동산 입지 가치와 향후 주목 지역을 어떻게 바꾸는지 짚었다.",
-        "body": "부동산시장에서 새로운 교통망은 입지의 가치를 바꾸는 핵심 변수로 꼽힌다. 박합수 건국대 부동산대학원 겸임교수는 매경 콘텐츠 ‘박합수의 부동산 끝판’에서 앞으로 GTX 등 철도망이 구축되면서 주목받을 지역을 살펴볼 필요가 있다고 설명했다. 원문은 새 철도망이 특정 지역의 접근성과 시장 관심에 영향을 줄 수 있다는 점을 중심으로 다뤘다. 다만 제시된 정보는 새 교통망이 입지 평가에 중요한 요인이라는 내용과 GTX 등 철도망 구축 흐름에 한정된다. 향후 부동산 수요자는 교통 인프라 변화가 입지 가치 판단에 어떤 의미를 갖는지 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "New Rail Networks Like GTX May Reshape Real Estate Location Value",
-        "excerpt": "In Maeil Business content, Park Hap-soo of Konkuk University Graduate School of Real Estate discussed how new rail networks such as GTX may affect location value and areas drawing attention.",
-        "body": "In the real estate market, new transport networks are considered a key factor that can change the value of a location. Park Hap-soo, adjunct professor at Konkuk University Graduate School of Real Estate, said in Maeil Business content “Park Hap-soo’s Real Estate Final” that areas likely to attract attention should be watched as rail networks such as GTX are built. The original article focused on the point that new rail links may affect access and market interest in certain areas. The information provided is limited to the importance of new transport networks in location assessment and the development trend of rail networks including GTX. Buyers and investors may need to review what transport infrastructure changes mean for judging location value. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "GTXなど新鉄道網が変える不動産立地価値、注目地域の見方",
-        "excerpt": "建国大学不動産大学院の朴合洙兼任教授が、毎経コンテンツでGTXなど新鉄道網の整備が不動産の立地価値と注目地域に与える影響を解説した。",
-        "body": "不動産市場では、新たな交通網が立地の価値を変える重要な要因とされる。建国大学不動産大学院の朴合洙兼任教授は、毎経コンテンツ「朴合洙の不動産終盤」で、今後GTXなどの鉄道網が整備されるなか、注目される地域を確認する必要があると説明した。原文は、新鉄道網が特定地域のアクセス性と市場の関心に影響し得る点を中心に扱った。ただし提示された情報は、新交通網が立地評価の重要要因であることと、GTXなど鉄道網整備の流れに限られる。今後の不動産需要者は、交通インフラの変化が立地価値の判断にどのような意味を持つか確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "GTX等新铁路网络将影响房地产区位价值，哪些地方受关注",
-        "excerpt": "建国大学房地产研究生院兼职教授朴合洙在每日经济内容中指出，GTX等新铁路网络建设将如何改变房地产区位价值和受关注地区。",
-        "body": "在房地产市场中，新的交通网络被视为改变区位价值的关键因素。建国大学房地产研究生院兼职教授朴合洙在每日经济内容《朴合洙的房地产终极篇》中表示，随着GTX等铁路网络今后逐步建设，有必要关注可能受到市场关注的地区。原文主要讨论了新铁路网络可能影响特定地区可达性和市场关注度这一点。不过，所提供的信息仅限于新交通网络是区位评估的重要因素，以及包括GTX在内的铁路网络建设趋势。未来房地产需求者需要确认交通基础设施变化对判断区位价值意味着什么。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Nuevas redes ferroviarias como GTX pueden cambiar el valor inmobiliario",
-        "excerpt": "Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de Konkuk, explicó en Maeil Business cómo redes como GTX pueden modificar el valor de ubicación.",
-        "body": "En el mercado inmobiliario, las nuevas redes de transporte se consideran un factor clave que puede cambiar el valor de una ubicación. Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de la Universidad Konkuk, señaló en el contenido de Maeil Business “El final inmobiliario de Park Hap-soo” que conviene observar las zonas que podrían atraer atención a medida que se construyan redes ferroviarias como GTX. El texto original se centró en que las nuevas líneas ferroviarias pueden influir en la accesibilidad y el interés del mercado por ciertas zonas. La información disponible se limita a la importancia de las nuevas redes de transporte en la evaluación de ubicaciones y a la tendencia de desarrollo de redes como GTX. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Novas ferrovias como GTX podem mudar o valor da localização imobiliária",
-        "excerpt": "Park Hap-soo, professor adjunto da pós-graduação em mercado imobiliário da Universidade Konkuk, explicou na Maeil Business como redes como GTX podem alterar o valor de localização.",
-        "body": "No mercado imobiliário, novas redes de transporte são vistas como um fator essencial capaz de mudar o valor de uma localização. Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Mercado Imobiliário da Universidade Konkuk, afirmou no conteúdo da Maeil Business “O final imobiliário de Park Hap-soo” que é preciso observar as áreas que poderão ganhar atenção à medida que redes ferroviárias como GTX forem construídas. O texto original tratou principalmente de como novas ferrovias podem afetar a acessibilidade e o interesse do mercado por determinadas áreas. As informações fornecidas se limitam à importância das novas redes de transporte na avaliação de localização e ao avanço de ferrovias como GTX. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Neue Bahnnetze wie GTX können Immobilienlagen neu bewerten",
-        "excerpt": "Park Hap-soo von der Graduate School of Real Estate der Konkuk University erklärte bei Maeil Business, wie neue Bahnnetze wie GTX Lagewerte und künftige Fokusregionen beeinflussen.",
-        "body": "Auf dem Immobilienmarkt gelten neue Verkehrsnetze als wichtiger Faktor, der den Wert einer Lage verändern kann. Park Hap-soo, außerordentlicher Professor an der Graduate School of Real Estate der Konkuk University, erklärte im Maeil-Business-Format „Park Hap-soos Immobilien-Finale“, dass Regionen beobachtet werden sollten, die mit dem Ausbau von Bahnnetzen wie GTX Aufmerksamkeit erhalten könnten. Der Originaltext konzentrierte sich darauf, dass neue Bahnverbindungen die Erreichbarkeit und das Marktinteresse bestimmter Gebiete beeinflussen können. Die vorliegenden Informationen beschränken sich auf die Bedeutung neuer Verkehrsnetze für die Lagebewertung und den Ausbau von Bahnnetzen wie GTX. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les nouveaux réseaux ferroviaires comme GTX peuvent changer la valeur des emplacements",
-        "excerpt": "Park Hap-soo, professeur adjoint à l’École supérieure d’immobilier de l’Université Konkuk, a expliqué dans Maeil Business l’effet possible de GTX sur la valeur des emplacements.",
-        "body": "Sur le marché immobilier, les nouveaux réseaux de transport sont considérés comme un facteur clé pouvant modifier la valeur d’un emplacement. Park Hap-soo, professeur adjoint à l’École supérieure d’immobilier de l’Université Konkuk, a indiqué dans le contenu de Maeil Business « La finale immobilière de Park Hap-soo » qu’il faut observer les zones susceptibles d’attirer l’attention à mesure que des réseaux ferroviaires comme GTX seront construits. L’article original met surtout l’accent sur le fait que de nouvelles lignes peuvent influencer l’accessibilité et l’intérêt du marché pour certaines zones. Les informations disponibles se limitent à l’importance des nouveaux transports dans l’évaluation de l’emplacement et au développement de réseaux comme GTX. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شبكات السكك الجديدة مثل GTX قد تغيّر قيمة مواقع العقارات",
-        "excerpt": "أوضح بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، عبر محتوى ماييل بيزنس كيف قد تؤثر شبكات مثل GTX في قيمة الموقع العقاري.",
-        "body": "في سوق العقارات، تُعد شبكات النقل الجديدة عاملا رئيسيا يمكن أن يغيّر قيمة الموقع. قال بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، في محتوى ماييل بيزنس «النهاية العقارية لبارك هاب سو» إن من الضروري متابعة المناطق التي قد تجذب الاهتمام مع بناء شبكات سكك حديدية مثل GTX. ركز النص الأصلي على أن الشبكات الحديدية الجديدة قد تؤثر في سهولة الوصول واهتمام السوق بمناطق معينة. وتقتصر المعلومات المقدمة على أن شبكات النقل الجديدة عامل مهم في تقييم الموقع، وعلى اتجاه بناء شبكات سكك تشمل GTX. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "GTX जैसे नए रेल नेटवर्क बदल सकते हैं रियल एस्टेट लोकेशन वैल्यू",
-        "excerpt": "कोंकुक यूनिवर्सिटी ग्रेजुएट स्कूल ऑफ रियल एस्टेट के सहायक प्रोफेसर पार्क हाप-सू ने Maeil Business में बताया कि GTX जैसे रेल नेटवर्क लोकेशन वैल्यू को कैसे प्रभावित कर सकते हैं।",
-        "body": "रियल एस्टेट बाजार में नया परिवहन नेटवर्क किसी स्थान के मूल्य को बदलने वाला प्रमुख कारक माना जाता है। कोंकुक यूनिवर्सिटी ग्रेजुएट स्कूल ऑफ रियल एस्टेट के सहायक प्रोफेसर पार्क हाप-सू ने Maeil Business के कंटेंट “Park Hap-soo’s Real Estate Final” में कहा कि GTX जैसे रेल नेटवर्क बनने के साथ उन क्षेत्रों पर ध्यान देना जरूरी है जो आगे बाजार का ध्यान खींच सकते हैं। मूल लेख में यह बात केंद्र में रही कि नया रेल नेटवर्क कुछ क्षेत्रों की पहुंच और बाजार रुचि को प्रभावित कर सकता है। उपलब्ध जानकारी नई परिवहन व्यवस्था के लोकेशन मूल्यांकन में महत्व और GTX सहित रेल नेटवर्क निर्माण की प्रवृत्ति तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jaringan Rel Baru Seperti GTX Bisa Mengubah Nilai Lokasi Properti",
-        "excerpt": "Park Hap-soo dari Graduate School of Real Estate Universitas Konkuk menjelaskan di Maeil Business bagaimana jaringan rel seperti GTX dapat memengaruhi nilai lokasi dan area sorotan.",
-        "body": "Di pasar properti, jaringan transportasi baru dinilai sebagai faktor utama yang dapat mengubah nilai sebuah lokasi. Park Hap-soo, profesor adjunct di Graduate School of Real Estate Universitas Konkuk, dalam konten Maeil Business “Park Hap-soo’s Real Estate Final” menyatakan bahwa area yang mungkin mendapat perhatian perlu dicermati seiring pembangunan jaringan rel seperti GTX. Artikel asli berfokus pada kemungkinan bahwa jaringan rel baru memengaruhi aksesibilitas dan minat pasar terhadap wilayah tertentu. Informasi yang tersedia terbatas pada pentingnya jaringan transportasi baru dalam penilaian lokasi dan tren pembangunan jaringan rel termasuk GTX. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f31cb87d7560",
-    "slug": "포스코이앤씨-신반포-청구-리모델링해-고층-한강저층-정원뷰-확보-462107",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T08:10:50.975Z",
-    "updatedAt": "2026-05-07T08:10:50.975Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039135",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039135",
-    "titleFingerprint": "be9ff423a65b2b3728da5982046652befabdc628",
-    "dedupKeys": [
-      "f31cb87d75606cfd83f0503bf2f7745c86beadc2",
-      "be9ff423a65b2b3728da5982046652befabdc628",
-      "853c15afe63c79c42c74c40974078c25a15a151a"
-    ],
-    "imageUrl": "/images/articles/f31cb87d7560.jpg",
-    "i18n": {
-      "ko": {
-        "title": "포스코이앤씨, 서울 서초구 신반포 청구 리모델링에 고층 한강·저층 정원뷰 설계 적용",
-        "excerpt": "포스코이앤씨는 7일 서울 서초구 신반포 청구아파트 리모델링 사업에 고·저층 전환형 평면 설계를 적용해 고층은 한강, 저층은 정원 조망을 확보한다고 밝혔다.",
-        "body": "포스코이앤씨는 7일 서울 서초구 ‘신반포 청구아파트’ 리모델링 사업에 고·저층 전환형 평면 설계를 적용했다고 밝혔다. 이번 설계는 층별 조망 조건을 반영해 아파트 고층부 가구의 거실은 한강 방향으로 배치하고, 저층부 가구는 정원 조망을 확보하도록 한 것이 핵심이다. 신반포 청구아파트 리모델링은 기존 단지의 주거 환경을 개선하는 사업으로, 포스코이앤씨는 평면 구성 단계에서 조망 차이를 고려했다. 고층과 저층의 장점을 각각 살린 배치는 리모델링 단지의 주거 만족도와 공간 활용 측면에서 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "POSCO E&C Applies Han River and Garden View Layouts to Sinbanpo Cheonggu Remodel",
-        "excerpt": "POSCO E&C said on the 7th it applied a convertible high- and low-floor layout to the Sinbanpo Cheonggu Apartment remodeling project in Seocho-gu, Seoul, securing Han River views for upper floors and garden views for lower floors.",
-        "body": "POSCO E&C said on the 7th that it applied a convertible floor-plan design for high- and low-rise units to the remodeling project for Sinbanpo Cheonggu Apartment in Seocho-gu, Seoul. The design reflects view conditions by floor: living rooms in upper-floor homes are oriented toward the Han River, while lower-floor homes are arranged to secure garden views. The Sinbanpo Cheonggu remodeling project aims to improve the residential environment of the existing complex, and POSCO E&C considered differences in views from the floor-plan stage. The layout, which uses the strengths of both upper and lower floors, is expected to draw attention in terms of residential satisfaction and space planning. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ポスコE&C、ソウル瑞草区・新盤浦チョング改修に高層漢江・低層庭園ビュー設計",
-        "excerpt": "ポスコE&Cは7日、ソウル瑞草区の新盤浦チョングマンション改修事業に高層・低層転換型の平面設計を適用し、高層は漢江、低層は庭園の眺望を確保すると明らかにした。",
-        "body": "ポスコE&Cは7日、ソウル瑞草区の「新盤浦チョングマンション」改修事業に、高層・低層転換型の平面設計を適用したと発表した。今回の設計は階層別の眺望条件を反映し、高層部住戸のリビングを漢江方向に配置し、低層部住戸では庭園の眺望を確保することが中心となる。新盤浦チョングマンションの改修は既存団地の住環境を改善する事業で、ポスコE&Cは平面構成の段階から眺望の違いを考慮した。高層と低層それぞれの利点を生かした配置は、住居満足度と空間活用の面で注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "浦项建设在首尔瑞草新盘浦Cheonggu改造中应用高层汉江、低层庭园景观设计",
-        "excerpt": "浦项建设7日表示，已在首尔瑞草区新盘浦Cheonggu公寓改造项目中应用高低层转换型平面设计，使高层面向汉江、低层 확보庭园景观。",
-        "body": "浦项建设7日表示，已在首尔瑞草区“新盘浦Cheonggu公寓”改造项目中应用高低层转换型平面设计。该设计根据不同楼层的景观条件进行调整，将高层住户的客厅朝向汉江方向布置，同时让低层住户 확보庭园景观。新盘浦Cheonggu公寓改造项目旨在改善既有小区的居住环境，浦项建设在户型规划阶段就考虑了景观差异。分别发挥高层和低层优势的布局，在居住满意度和空间利用方面受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "POSCO E&C aplica vistas al río Han y jardines en la remodelación de Sinbanpo Cheonggu",
-        "excerpt": "POSCO E&C informó el día 7 que aplicó un diseño convertible para plantas altas y bajas en la remodelación de Sinbanpo Cheonggu, en Seocho-gu, Seúl, para asegurar vistas al río Han y al jardín.",
-        "body": "POSCO E&C informó el día 7 que aplicó un diseño de planta convertible para niveles altos y bajos en el proyecto de remodelación del complejo Sinbanpo Cheonggu Apartment, ubicado en Seocho-gu, Seúl. El diseño refleja las condiciones de vista por nivel: las salas de las viviendas en plantas altas se orientan hacia el río Han, mientras que las viviendas en plantas bajas aseguran vistas al jardín. La remodelación de Sinbanpo Cheonggu busca mejorar el entorno residencial del complejo existente, y POSCO E&C consideró las diferencias de vista desde la etapa de distribución. La disposición, que aprovecha las ventajas de las plantas altas y bajas, destaca por su relación con la satisfacción residencial y el uso del espacio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "POSCO E&C aplica vistas do rio Han e jardins na remodelação do Sinbanpo Cheonggu",
-        "excerpt": "A POSCO E&C informou no dia 7 que aplicou um projeto de plantas conversíveis para andares altos e baixos na remodelação do Sinbanpo Cheonggu, em Seocho-gu, Seul, garantindo vistas para o rio Han e jardins.",
-        "body": "A POSCO E&C informou no dia 7 que aplicou um projeto de planta conversível para andares altos e baixos na remodelação do Sinbanpo Cheonggu Apartment, em Seocho-gu, Seul. O desenho considera as condições de vista por pavimento: as salas das unidades em andares altos ficam voltadas para o rio Han, enquanto as unidades em andares baixos asseguram vista para o jardim. A remodelação do Sinbanpo Cheonggu busca melhorar o ambiente residencial do complexo existente, e a POSCO E&C levou em conta essas diferenças ainda na etapa de configuração das plantas. A solução, que aproveita as características de andares altos e baixos, chama atenção pela satisfação residencial e pelo uso do espaço. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "POSCO E&C plant bei Sinbanpo Cheonggu Han-Fluss- und Gartenblicke nach Etage",
-        "excerpt": "POSCO E&C teilte am 7. mit, beim Remodeling der Wohnanlage Sinbanpo Cheonggu in Seocho-gu, Seoul, ein wandelbares Grundrisskonzept für hohe und niedrige Etagen anzuwenden, um Han-Fluss- und Gartenblicke zu sichern.",
-        "body": "POSCO E&C teilte am 7. mit, beim Remodeling-Projekt der Wohnanlage „Sinbanpo Cheonggu Apartment“ in Seocho-gu, Seoul, ein wandelbares Grundrisskonzept für hohe und niedrige Etagen angewendet zu haben. Der Entwurf berücksichtigt die Sichtbedingungen je Etage: Wohnzimmer in oberen Geschossen werden zum Han-Fluss ausgerichtet, während Wohnungen in niedrigeren Geschossen Gartenblicke erhalten. Das Remodeling von Sinbanpo Cheonggu dient der Verbesserung des Wohnumfelds der bestehenden Anlage, wobei POSCO E&C die unterschiedlichen Ausblicke bereits in der Grundrissplanung einbezog. Die Aufteilung, die die jeweiligen Vorteile hoher und niedriger Etagen nutzt, rückt Wohnzufriedenheit und Raumnutzung in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "POSCO E&C prévoit vues sur le Han et jardins dans la rénovation de Sinbanpo Cheonggu",
-        "excerpt": "POSCO E&C a annoncé le 7 avoir appliqué un plan modulé pour étages hauts et bas à la rénovation de Sinbanpo Cheonggu, à Seocho-gu, Séoul, afin d’assurer des vues sur le Han et les jardins.",
-        "body": "POSCO E&C a annoncé le 7 avoir appliqué un plan d’aménagement modulé pour étages hauts et bas au projet de rénovation de la résidence Sinbanpo Cheonggu Apartment, située à Seocho-gu, Séoul. La conception tient compte des conditions de vue selon les niveaux: les salons des logements en étages élevés sont orientés vers le fleuve Han, tandis que les logements en étages bas bénéficient de vues sur le jardin. La rénovation de Sinbanpo Cheonggu vise à améliorer l’environnement résidentiel du complexe existant, et POSCO E&C a intégré ces différences de vue dès l’étape du plan. Cette disposition, qui exploite les atouts des niveaux hauts et bas, attire l’attention pour la satisfaction résidentielle et l’usage de l’espace. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بوسكو E&C تطبق تصميم إطلالات نهر هان والحدائق في تجديد سينبانبو تشونغو بسيول",
-        "excerpt": "أعلنت بوسكو E&C في 7 من الشهر أنها طبقت تصميما مرنا للطوابق العليا والسفلى في مشروع تجديد شقق سينبانبو تشونغو في سوتشو، سيول، لتأمين إطلالة على نهر هان للطوابق العليا والحدائق للسفلى.",
-        "body": "أعلنت بوسكو E&C في 7 من الشهر أنها طبقت تصميما مسطحا مرنا للطوابق العليا والسفلى في مشروع تجديد شقق «سينبانبو تشونغو» في حي سوتشو بسيول. ويعكس التصميم شروط الإطلالة بحسب الطابق، إذ توضع غرف المعيشة في الوحدات العليا باتجاه نهر هان، بينما تضمن الوحدات في الطوابق السفلى إطلالة على الحديقة. ويهدف مشروع تجديد سينبانبو تشونغو إلى تحسين البيئة السكنية للمجمع القائم، وقد راعت بوسكو E&C اختلاف الإطلالات منذ مرحلة تخطيط المساحات. ويبرز هذا التوزيع لأنه يستفيد من مزايا الطوابق العليا والسفلى في الرضا السكني واستخدام المساحة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "POSCO E&C ने सियोल के सिनबानपो चेओंगगु रीमॉडलिंग में हान नदी और गार्डन व्यू डिजाइन लागू किया",
-        "excerpt": "POSCO E&C ने 7 तारीख को कहा कि उसने सियोल के सेओचो-गु स्थित सिनबानपो चेओंगगु अपार्टमेंट रीमॉडलिंग में ऊंची और निचली मंजिलों के लिए परिवर्तनीय फ्लोर प्लान लागू किया है।",
-        "body": "POSCO E&C ने 7 तारीख को बताया कि उसने सियोल के सेओचो-गु स्थित ‘सिनबानपो चेओंगगु अपार्टमेंट’ रीमॉडलिंग परियोजना में ऊंची और निचली मंजिलों के लिए परिवर्तनीय फ्लोर प्लान डिजाइन लागू किया है। इस डिजाइन में मंजिल के अनुसार दृश्य स्थितियों को ध्यान में रखा गया है: ऊपरी मंजिलों के घरों के लिविंग रूम हान नदी की ओर रखे गए हैं, जबकि निचली मंजिलों के घरों में गार्डन व्यू सुनिश्चित किया गया है। यह रीमॉडलिंग मौजूदा परिसर के आवासीय वातावरण को बेहतर बनाने की परियोजना है, और POSCO E&C ने प्लानिंग चरण से ही दृश्य के अंतर को शामिल किया। ऊंची और निचली मंजिलों की खूबियों को अलग-अलग इस्तेमाल करने वाली यह व्यवस्था आवासीय संतुष्टि और स्पेस उपयोग के लिहाज से ध्यान खींचती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "POSCO E&C Terapkan Desain Pemandangan Sungai Han dan Taman di Renovasi Sinbanpo Cheonggu",
-        "excerpt": "POSCO E&C menyatakan pada tanggal 7 bahwa pihaknya menerapkan desain denah konvertibel untuk lantai tinggi dan rendah dalam proyek renovasi Apartemen Sinbanpo Cheonggu di Seocho-gu, Seoul.",
-        "body": "POSCO E&C menyatakan pada tanggal 7 bahwa pihaknya menerapkan desain denah konvertibel untuk lantai tinggi dan rendah dalam proyek renovasi ‘Apartemen Sinbanpo Cheonggu’ di Seocho-gu, Seoul. Desain ini mencerminkan kondisi pemandangan berdasarkan lantai: ruang keluarga unit di bagian lantai tinggi diarahkan ke Sungai Han, sedangkan unit di lantai rendah dibuat untuk memperoleh pemandangan taman. Renovasi Sinbanpo Cheonggu merupakan proyek untuk memperbaiki lingkungan hunian kompleks yang sudah ada, dan POSCO E&C mempertimbangkan perbedaan pemandangan sejak tahap penyusunan denah. Penataan yang memanfaatkan keunggulan lantai tinggi dan rendah ini menarik perhatian dari sisi kepuasan hunian dan pemanfaatan ruang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ae1eb563045b",
-    "slug": "여기마저-전세매물-동-날라오피스텔-임대차-10건-중-8건-월세-111739",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T08:09:28.236Z",
-    "updatedAt": "2026-05-07T08:09:28.237Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12039144",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12039144",
-    "titleFingerprint": "66cbeae7693a43f142eb2e6309861176272fdebb",
-    "dedupKeys": [
-      "ae1eb563045bf01ca8f1e26cb1f97359a2b4469c",
-      "66cbeae7693a43f142eb2e6309861176272fdebb",
-      "ca88b1b92156aaab3cd5fc36fa2729ce6e20afa4"
-    ],
-    "imageUrl": "/images/articles/ae1eb563045b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오피스텔 임대차 10건 중 8건 월세, 전세 매물 감소에 수요 이동",
-        "excerpt": "올해 1분기 오피스텔 신규 임대차 계약 10건 중 8건 이상이 월세로 나타났다. 아파트 전세 매물 감소와 전세 사기 우려가 수요 이동에 영향을 준 것으로 보인다.",
-        "body": "올해 1분기 오피스텔 신규 임대차 시장에서 월세 비중이 크게 높아진 것으로 나타났다. mk.co.kr에 따르면 1분기 오피스텔 신규 임대차 계약 10건 중 8건 이상이 월세 계약이었다. 아파트 전세 매물이 줄어든 가운데 전세를 찾던 수요자들이 오피스텔로 이동한 점이 배경으로 제시됐다. 여기에 전세 사기 우려와 신규 입주 물량 관련 상황도 전세 선택을 어렵게 하는 요인으로 언급됐다. 전세 매물 감소가 오피스텔 임대차 구조에도 영향을 미치면서, 당분간 월세 중심의 계약 흐름이 이어질 가능성이 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Officetel Rentals Shift to Monthly Rent as 8 in 10 New Leases Choose Wolse",
-        "excerpt": "In Q1 this year, more than eight out of 10 new officetel lease contracts were monthly rent deals, as shrinking apartment jeonse listings and fraud concerns pushed demand toward officetels.",
-        "body": "In the first quarter of this year, monthly rent became the dominant format in South Korea’s officetel rental market. According to mk.co.kr, more than eight out of 10 new officetel lease contracts signed in Q1 were monthly rent agreements. The shift came as apartment jeonse listings declined, sending some tenants looking for alternatives in officetels. Concerns over jeonse fraud and conditions related to new move-in supply were also cited as factors making jeonse choices more difficult. As the shortage of jeonse listings affects officetel leasing patterns, the market is watching whether the monthly-rent-centered trend will continue for now. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "オフィステル賃貸の8割超が月払い、チョンセ物件減少で需要移動",
-        "excerpt": "今年第1四半期のオフィステル新規賃貸契約は10件中8件以上が月払いだった。マンションのチョンセ物件減少と詐欺懸念が需要移動に影響した。",
-        "body": "今年第1四半期、韓国のオフィステル新規賃貸市場で月払い契約の比重が大きく高まった。mk.co.krによると、第1四半期のオフィステル新規賃貸契約10件のうち8件以上が月払い契約だった。マンションのチョンセ物件が減少する中、チョンセを探していた需要者がオフィステルへ移動したことが背景として示された。さらに、チョンセ詐欺への懸念や新規入居物件に関連する状況も、チョンセ選択を難しくする要因として言及された。チョンセ物件の減少がオフィステル賃貸構造にも影響し、当面は月払い中心の契約動向が続くか注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "办公型公寓租赁10笔中8笔为月租，全租房源减少推动需求转移",
-        "excerpt": "今年一季度，办公型公寓新签租赁合同10笔中超过8笔为月租。公寓全租房源减少及全租诈骗担忧，影响租客转向办公型公寓。",
-        "body": "今年一季度，韩国办公型公寓新租赁市场中月租占比明显上升。据 mk.co.kr 报道，一季度办公型公寓新签租赁合同10笔中超过8笔为月租合同。背景是公寓全租房源减少，原本寻找全租的租客转向办公型公寓。与此同时，对全租诈骗的担忧以及与新入住房源相关的情况，也被提及为增加全租选择难度的因素。随着全租房源减少影响到办公型公寓租赁结构，市场正关注以月租为中心的签约趋势是否会暂时延续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Officetels: 8 de cada 10 nuevos alquileres son mensuales ante menos jeonse",
-        "excerpt": "En el primer trimestre, más de 8 de cada 10 nuevos contratos de alquiler de officetels fueron mensuales, por la caída de ofertas jeonse en apartamentos y el temor a fraudes.",
-        "body": "En el primer trimestre de este año, el alquiler mensual ganó peso en el mercado de nuevos contratos de officetels en Corea del Sur. Según mk.co.kr, más de 8 de cada 10 nuevos contratos de arrendamiento de officetels en el periodo fueron acuerdos de renta mensual. El contexto señalado es la reducción de viviendas de apartamentos disponibles bajo jeonse, lo que llevó a parte de la demanda a buscar officetels. También se mencionaron las preocupaciones por fraudes vinculados al jeonse y las condiciones relacionadas con nuevas unidades para mudanza como factores que dificultan elegir jeonse. Con menos ofertas jeonse influyendo en la estructura de alquiler de officetels, se observa si continuará la tendencia centrada en rentas mensuales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Officetels têm 8 em cada 10 novos contratos no aluguel mensal após queda do jeonse",
-        "excerpt": "No 1º trimestre, mais de 8 em cada 10 novos contratos de officetel foram de aluguel mensal, com queda nas ofertas de jeonse em apartamentos e receio de fraudes.",
-        "body": "No primeiro trimestre deste ano, o aluguel mensal ganhou forte presença no mercado de novos contratos de officetels na Coreia do Sul. Segundo o mk.co.kr, mais de 8 em cada 10 novos contratos de locação de officetels no período foram acordos de aluguel mensal. A redução das ofertas de apartamentos no modelo jeonse levou parte dos inquilinos que buscavam esse tipo de contrato a migrar para officetels. Também foram citadas as preocupações com fraudes de jeonse e fatores ligados a novas unidades disponíveis para mudança como elementos que tornam a escolha pelo jeonse mais difícil. Com a queda das ofertas jeonse afetando a estrutura de locação dos officetels, o mercado acompanha se o fluxo centrado no aluguel mensal continuará por enquanto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Officetel-Mieten: 8 von 10 neuen Verträgen laufen monatlich statt Jeonse",
-        "excerpt": "Im ersten Quartal waren mehr als 8 von 10 neuen Officetel-Mietverträgen Monatsmieten. Weniger Apartment-Jeonse-Angebote und Betrugssorgen trieben Nachfrage in Officetels.",
-        "body": "Im ersten Quartal dieses Jahres hat die Monatsmiete im südkoreanischen Markt für neue Officetel-Mietverträge deutlich an Gewicht gewonnen. Laut mk.co.kr waren mehr als 8 von 10 neuen Officetel-Mietverträgen in diesem Zeitraum monatliche Mietverträge. Als Hintergrund wurde genannt, dass weniger Apartment-Angebote im Jeonse-Modell verfügbar waren und Mieter, die Jeonse suchten, auf Officetels auswichen. Zudem wurden Sorgen vor Jeonse-Betrug und Bedingungen im Zusammenhang mit neuen Einzugsobjekten als Faktoren erwähnt, die die Wahl von Jeonse erschweren. Da der Rückgang von Jeonse-Angeboten auch die Mietstruktur von Officetels beeinflusst, bleibt im Blick, ob der Trend zu Monatsmieten vorerst anhält. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Officetels: plus de 8 nouveaux baux sur 10 passent au loyer mensuel",
-        "excerpt": "Au 1er trimestre, plus de 8 nouveaux contrats d’officetels sur 10 étaient mensuels, sous l’effet de la baisse des offres jeonse d’appartements et des craintes de fraude.",
-        "body": "Au premier trimestre de cette année, le loyer mensuel a fortement progressé dans le marché sud-coréen des nouveaux baux d’officetels. Selon mk.co.kr, plus de 8 nouveaux contrats de location d’officetels sur 10 conclus pendant cette période étaient des contrats à loyer mensuel. Cette évolution s’explique par la diminution des offres d’appartements en jeonse, qui a poussé une partie des locataires cherchant ce type de bail vers les officetels. Les inquiétudes liées aux fraudes au jeonse et les conditions concernant les nouvelles unités disponibles à l’emménagement ont aussi été citées comme facteurs rendant le choix du jeonse plus difficile. La baisse des offres jeonse influençant également la structure locative des officetels, l’attention se porte sur la poursuite éventuelle de cette tendance centrée sur le loyer mensuel. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عقود الأوفيستيل تميل للإيجار الشهري مع تجاوزها 8 من كل 10 عقود جديدة",
-        "excerpt": "في الربع الأول من هذا العام، كان أكثر من 8 من كل 10 عقود إيجار جديدة للأوفيستيل بنظام الإيجار الشهري، وسط تراجع عروض الجونسي للشقق ومخاوف الاحتيال.",
-        "body": "في الربع الأول من هذا العام، ارتفعت حصة الإيجار الشهري بوضوح في سوق عقود الأوفيستيل الجديدة في كوريا الجنوبية. ووفقاً لـ mk.co.kr، فإن أكثر من 8 من كل 10 عقود إيجار جديدة للأوفيستيل خلال الربع الأول كانت عقود إيجار شهرية. وجاء ذلك في ظل تراجع معروض شقق الجونسي، ما دفع بعض الباحثين عن هذا النوع من السكن إلى الانتقال نحو الأوفيستيل. كما ذُكرت المخاوف من احتيال الجونسي والظروف المرتبطة بوحدات السكن الجديدة كعوامل تجعل اختيار الجونسي أكثر صعوبة. ومع تأثير انخفاض معروض الجونسي في هيكل إيجارات الأوفيستيل، يتركز الاهتمام على ما إذا كان اتجاه العقود الشهرية سيستمر في الوقت الحالي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ऑफिसटेल किराये में मासिक अनुबंध हावी, 10 में 8 से अधिक नए लीज वोल्से",
-        "excerpt": "इस साल पहली तिमाही में ऑफिसटेल के 10 में 8 से अधिक नए किराया अनुबंध मासिक किराये वाले रहे। अपार्टमेंट जोंसे आपूर्ति घटने और धोखाधड़ी की चिंता से मांग ऑफिसटेल की ओर गई।",
-        "body": "इस साल की पहली तिमाही में दक्षिण कोरिया के ऑफिसटेल नए किराया बाजार में मासिक किराये की हिस्सेदारी काफी बढ़ी। mk.co.kr के अनुसार, पहली तिमाही में ऑफिसटेल के 10 में 8 से अधिक नए लीज अनुबंध मासिक किराये के थे। इसकी पृष्ठभूमि में अपार्टमेंट जोंसे उपलब्धता में कमी बताई गई, जिससे जोंसे खोज रहे कुछ किरायेदार ऑफिसटेल की ओर चले गए। जोंसे धोखाधड़ी को लेकर चिंता और नई入居 आपूर्ति से जुड़ी स्थितियों को भी जोंसे चुनना कठिन बनाने वाले कारणों के रूप में उल्लेख किया गया। जोंसे उपलब्धता घटने से ऑफिसटेल किराया ढांचे पर भी असर पड़ रहा है, इसलिए यह देखा जा रहा है कि मासिक किराये पर केंद्रित अनुबंध प्रवाह फिलहाल जारी रहेगा या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sewa Officetel Bergeser ke Bulanan, 8 dari 10 Kontrak Baru Berbasis Wolse",
-        "excerpt": "Pada kuartal I tahun ini, lebih dari 8 dari 10 kontrak sewa baru officetel berupa sewa bulanan, dipengaruhi berkurangnya pasokan jeonse apartemen dan kekhawatiran penipuan.",
-        "body": "Pada kuartal pertama tahun ini, porsi sewa bulanan meningkat tajam di pasar kontrak sewa baru officetel di Korea Selatan. Menurut mk.co.kr, lebih dari 8 dari 10 kontrak sewa baru officetel pada kuartal tersebut merupakan kontrak sewa bulanan. Latar belakangnya adalah berkurangnya pasokan jeonse apartemen, sehingga sebagian penyewa yang mencari jeonse beralih ke officetel. Kekhawatiran terhadap penipuan jeonse serta kondisi terkait pasokan hunian baru juga disebut sebagai faktor yang membuat pilihan jeonse semakin sulit. Karena penurunan pasokan jeonse turut memengaruhi struktur sewa officetel, pasar mencermati apakah arus kontrak yang berpusat pada sewa bulanan akan berlanjut untuk sementara. Sumber: mk.co.kr"
       }
     }
   }
