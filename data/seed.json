@@ -1,5 +1,230 @@
 [
   {
+    "id": "1c24408acb5b",
+    "slug": "아가포럼-제11회-아름다운-우리-아파트-사진공모전-개최-201297",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T19:01:57.162Z",
+    "updatedAt": "2026-05-07T19:01:57.162Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605068545i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605068545i",
+    "titleFingerprint": "80ca299c46a1a84db6e9ef9187a1a609263fd0c9",
+    "dedupKeys": [
+      "1c24408acb5bd52156ad641e6042c07b9b3e10aa",
+      "80ca299c46a1a84db6e9ef9187a1a609263fd0c9",
+      "751d8b2b74a6b6c831c9efbd3125e42777735eb6"
+    ],
+    "imageUrl": "/images/articles/1c24408acb5b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아가포럼 제11회 아름다운 우리 아파트 사진공모전 개최 소식",
+        "excerpt": "아가포럼이 제11회 ‘아름다운 우리 아파트 사진공모전’ 개최를 알렸다. 아파트를 주제로 한 사진 공모 소식으로, 관련 내용은 hankyung.com을 통해 전해졌다.",
+        "body": "아가포럼이 ‘제11회 아름다운 우리 아파트 사진공모전’을 개최한다고 밝혔다. 이번 소식은 아파트를 주제로 한 사진 공모전 개최 발표로, 행사명에 따르면 올해 공모전은 11회째를 맞는다. 제공된 원문에는 공모전의 세부 일정, 접수 방식, 심사 기준, 시상 내역 등 추가 정보는 포함되지 않았다. 이번 개최 소식은 아파트와 주거 공간을 사진으로 조명하는 공모전 관련 뉴스로 정리된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Agaforum Announces 11th Beautiful Our Apartment Photo Contest",
+        "excerpt": "Agaforum has announced the 11th “Beautiful Our Apartment Photo Contest,” a photography contest centered on apartments, according to hankyung.com.",
+        "body": "Agaforum has announced that it will hold the 11th “Beautiful Our Apartment Photo Contest.” The news concerns a photo contest themed around apartments, and the contest title indicates that this year’s event marks its 11th edition. The source text provided does not include further details such as the schedule, submission method, judging criteria, or prize information. The announcement is therefore summarized as news of a photo contest that highlights apartments and residential spaces through photography. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アガフォーラム、第11回美しい私たちのアパート写真公募展を開催",
+        "excerpt": "アガフォーラムが第11回「美しい私たちのアパート写真公募展」の開催を発表した。アパートをテーマにした写真公募のニュースとしてhankyung.comが伝えた。",
+        "body": "アガフォーラムは「第11回美しい私たちのアパート写真公募展」を開催すると発表した。今回のニュースは、アパートをテーマにした写真公募展の開催発表であり、名称から今年で11回目を迎える公募展であることが分かる。提供された原文には、詳しい日程、応募方法、審査基準、賞の内容などの追加情報は含まれていない。今回の開催発表は、アパートと住居空間を写真で照らす公募展関連ニュースとして整理される。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Agaforum举办第11届美丽我们的公寓摄影征集赛",
+        "excerpt": "Agaforum宣布举办第11届“美丽我们的公寓摄影征集赛”。这是一则以公寓为主题的摄影征集活动消息，相关内容由hankyung.com报道。",
+        "body": "Agaforum宣布将举办第11届“美丽我们的公寓摄影征集赛”。这则消息是关于以公寓为主题的摄影征集活动的举办公告，活动名称显示本届赛事已迎来第11届。所提供的原文未包含具体日程、报名方式、评审标准、奖项内容等更多信息。因此，本消息可整理为一则通过摄影聚焦公寓与居住空间的征集赛新闻。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Agaforum anuncia el 11.º concurso fotográfico Beautiful Our Apartment",
+        "excerpt": "Agaforum anunció la celebración del 11.º “Beautiful Our Apartment Photo Contest”, un certamen fotográfico centrado en apartamentos, según hankyung.com.",
+        "body": "Agaforum anunció que celebrará el 11.º “Beautiful Our Apartment Photo Contest”. La noticia corresponde al anuncio de un concurso fotográfico con los apartamentos como tema central, y el nombre del evento indica que esta edición es la undécima. El texto original proporcionado no incluye detalles adicionales como calendario, método de inscripción, criterios de evaluación o información sobre premios. Por ello, el anuncio se resume como una noticia sobre un concurso que observa apartamentos y espacios residenciales a través de la fotografía. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Agaforum anuncia 11º concurso fotográfico Beautiful Our Apartment",
+        "excerpt": "A Agaforum anunciou a realização do 11º “Beautiful Our Apartment Photo Contest”, um concurso de fotografia sobre apartamentos, conforme divulgado por hankyung.com.",
+        "body": "A Agaforum anunciou que realizará o 11º “Beautiful Our Apartment Photo Contest”. A notícia trata do lançamento de um concurso fotográfico com foco em apartamentos, e o nome do evento indica que esta será a 11ª edição. O texto original fornecido não inclui informações adicionais como cronograma, forma de inscrição, critérios de avaliação ou detalhes sobre prêmios. Assim, o anúncio é resumido como uma notícia sobre um concurso que destaca apartamentos e espaços residenciais por meio da fotografia. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Agaforum kündigt 11. Beautiful Our Apartment Photo Contest an",
+        "excerpt": "Agaforum hat den 11. “Beautiful Our Apartment Photo Contest” angekündigt, einen Fotowettbewerb rund um Apartments, wie hankyung.com berichtet.",
+        "body": "Agaforum hat angekündigt, den 11. “Beautiful Our Apartment Photo Contest” zu veranstalten. Die Meldung betrifft die Ankündigung eines Fotowettbewerbs mit Apartments als Thema, und der Veranstaltungsname zeigt, dass der Wettbewerb in diesem Jahr zum 11. Mal stattfindet. Der bereitgestellte Ursprungstext enthält keine weiteren Angaben zu Zeitplan, Einreichungsweg, Bewertungskriterien oder Preisen. Die Nachricht wird daher als Meldung über einen Fotowettbewerb zusammengefasst, der Apartments und Wohnräume fotografisch in den Mittelpunkt stellt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Agaforum annonce le 11e concours photo Beautiful Our Apartment",
+        "excerpt": "Agaforum a annoncé la tenue du 11e “Beautiful Our Apartment Photo Contest”, un concours photo consacré aux appartements, selon hankyung.com.",
+        "body": "Agaforum a annoncé l’organisation du 11e “Beautiful Our Apartment Photo Contest”. Cette information concerne le lancement d’un concours photo ayant les appartements pour thème, et le nom de l’événement indique qu’il s’agit de sa 11e édition. Le texte source fourni ne comprend pas d’autres précisions, comme le calendrier, les modalités de candidature, les critères d’évaluation ou les prix. L’annonce se résume donc à une nouvelle sur un concours qui met en lumière les appartements et les espaces résidentiels par la photographie. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أغافوروم تعلن إقامة مسابقة صور شققنا الجميلة في نسختها الـ11",
+        "excerpt": "أعلنت أغافوروم إقامة الدورة الحادية عشرة من مسابقة “شققنا الجميلة” للتصوير، وهي مسابقة تتمحور حول الشقق، بحسب ما أورده موقع hankyung.com.",
+        "body": "أعلنت أغافوروم أنها ستقيم الدورة الحادية عشرة من مسابقة “شققنا الجميلة” للتصوير. ويتعلق الخبر بإعلان مسابقة تصوير موضوعها الشقق، ويشير اسم الفعالية إلى أن هذه الدورة هي الحادية عشرة. ولا يتضمن النص الأصلي المقدم تفاصيل إضافية مثل الجدول الزمني أو طريقة التقديم أو معايير التحكيم أو معلومات الجوائز. لذلك يُلخص الإعلان بوصفه خبرا عن مسابقة تسلط الضوء على الشقق والمساحات السكنية من خلال التصوير. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Agaforum ने 11वीं Beautiful Our Apartment फोटो प्रतियोगिता घोषित की",
+        "excerpt": "Agaforum ने 11वीं “Beautiful Our Apartment Photo Contest” आयोजित करने की घोषणा की है। अपार्टमेंट विषयक इस फोटो प्रतियोगिता की जानकारी hankyung.com ने दी।",
+        "body": "Agaforum ने घोषणा की है कि वह 11वीं “Beautiful Our Apartment Photo Contest” आयोजित करेगा। यह खबर अपार्टमेंट को विषय बनाकर होने वाली फोटो प्रतियोगिता की घोषणा से जुड़ी है, और प्रतियोगिता के नाम से स्पष्ट है कि यह इसका 11वां संस्करण है। उपलब्ध कराए गए मूल पाठ में कार्यक्रम की तारीख, आवेदन प्रक्रिया, मूल्यांकन मानदंड या पुरस्कार संबंधी अतिरिक्त जानकारी शामिल नहीं है। इसलिए इस घोषणा को अपार्टमेंट और आवासीय स्थानों को फोटोग्राफी के माध्यम से सामने लाने वाली प्रतियोगिता की खबर के रूप में संक्षेपित किया गया है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Agaforum Gelar Kontes Foto Beautiful Our Apartment Edisi ke-11",
+        "excerpt": "Agaforum mengumumkan penyelenggaraan “Beautiful Our Apartment Photo Contest” edisi ke-11, sebuah kontes foto bertema apartemen, menurut hankyung.com.",
+        "body": "Agaforum mengumumkan akan menggelar “Beautiful Our Apartment Photo Contest” edisi ke-11. Kabar ini merupakan pengumuman penyelenggaraan kontes foto bertema apartemen, dan nama acaranya menunjukkan bahwa tahun ini kontes tersebut memasuki edisi ke-11. Teks sumber yang diberikan tidak memuat rincian tambahan seperti jadwal, cara pendaftaran, kriteria penilaian, atau informasi hadiah. Karena itu, pengumuman ini dirangkum sebagai berita tentang kontes yang menyoroti apartemen dan ruang hunian melalui fotografi. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "9590b8d0164f",
+    "slug": "가수-비가-495억에-판-청담동-빌딩실소유주-이희진이었나-748941",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T19:01:09.797Z",
+    "updatedAt": "2026-05-07T19:01:09.797Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050687167",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050687167",
+    "titleFingerprint": "cb5778124c5c6a2494e26112678fcb1d0f325c22",
+    "dedupKeys": [
+      "9590b8d0164f1424a165dd583b14840b6f1b2943",
+      "cb5778124c5c6a2494e26112678fcb1d0f325c22",
+      "22418645cd557b1c2af6d9a84aacfcaeef76aedb"
+    ],
+    "imageUrl": "/images/articles/9590b8d0164f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "청담동 레인에비뉴 495억 매각 후폭풍…이희진 차명 의혹 부상",
+        "excerpt": "가수 비가 2021년 6월 495억원에 매각한 청담동 레인에비뉴가 이희진의 차명 재산이라는 의혹에 휩싸이며 매입 법인과 현재 시세가 주목받고 있다.",
+        "body": "가수 비가 2021년 6월 495억원에 매각한 서울 청담동 빌딩 레인에비뉴의 실소유주를 둘러싼 의혹이 제기됐다. 한경닷컴에 따르면 비는 2019년 8월부터 해당 건물을 개인 명의로 보유하다 약 2년 만에 주식회사 엠유파트너스에 소유권을 이전했다. 엠유파트너스는 이희진의 장인 박모씨가 대표로 있는 법인으로 알려졌으며, 매입 당시 대출 없이 전액 현금으로 지급한 것으로 파악됐다. 레인에비뉴는 청담동 명품거리와 화랑거리 인근에 있는 지하 3층, 지상 6층 규모 건물로, 밸류맵 기준 현재 시세는 약 759억원이다. 검찰은 이희진이 가족 또는 지인 명의로 부동산을 보유했다는 의혹과 관련해 일부 자산을 추징보전했으나, 레인에비뉴는 소유권 신탁 때문에 대상에서 빠진 것으로 알려졌다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Rain Avenue sale for 49.5 billion won draws Lee Hee-jin nominee-ownership questions",
+        "excerpt": "Rain’s 2021 sale of Cheongdam-dong building Rain Avenue for 49.5 billion won is drawing scrutiny as questions emerge over whether it was tied to Lee Hee-jin’s nominee assets.",
+        "body": "Questions have emerged over the real owner of Rain Avenue, the Cheongdam-dong building that singer Rain sold in June 2021 for 49.5 billion won. According to Hankyung.com, Rain held the property in his own name from August 2019 before transferring ownership about two years later to MU Partners. MU Partners is known as a company headed by Park, the father-in-law of Lee Hee-jin, and the purchase was reportedly paid fully in cash with no loan. Rain Avenue is a six-story building with three basement levels near Cheongdam’s luxury and gallery streets. ValueMap estimates its current market value at about 75.9 billion won. Prosecutors have preserved some assets amid allegations that Lee held real estate under family or acquaintance names, but Rain Avenue was reportedly excluded because its ownership had been placed in trust. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "清潭洞レインアベニュー495億ウォン売却、イ・ヒジン名義借り疑惑が浮上",
+        "excerpt": "歌手Rainが2021年6月に495億ウォンで売却した清潭洞のレインアベニューをめぐり、イ・ヒジン氏の名義借り資産ではないかとの疑惑が注目されている。",
+        "body": "歌手Rainが2021年6月に495億ウォンで売却したソウル清潭洞のビル、レインアベニューの実質所有者をめぐる疑惑が提起された。Hankyung.comによると、Rainは2019年8月から同ビルを個人名義で保有し、約2年後に株式会社MUパートナーズへ所有権を移転した。MUパートナーズはイ・ヒジン氏の義父パク氏が代表を務める法人として知られ、購入時に融資なしで全額現金を支払ったと把握されている。レインアベニューは清潭洞の高級ブランド通りとギャラリー通り付近にある地下3階、地上6階建ての建物で、ValueMap基準の現在価値は約759億ウォン。検察はイ氏が家族や知人名義で不動産を保有したとの疑惑に関連し一部資産を追徴保全したが、同ビルは所有権信託のため対象外になったとされる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "清潭洞Rain Avenue以495亿韩元售出后，李熙镇代持疑云升温",
+        "excerpt": "歌手Rain于2021年6月以495亿韩元出售清潭洞Rain Avenue后，该楼是否属于李熙镇代持资产的疑问受到关注，买方法人与现估值成为焦点。",
+        "body": "歌手Rain于2021年6月以495亿韩元出售的首尔清潭洞大楼Rain Avenue，近日围绕实际所有人出现疑问。据Hankyung.com报道，Rain自2019年8月起以个人名义持有该楼，约两年后将所有权转让给MU Partners株式会社。MU Partners被称为由李熙镇岳父朴某担任代表的法人，购入时据悉没有贷款，而是全额现金支付。Rain Avenue位于清潭洞名品街和画廊街附近，规模为地下3层、地上6层；按ValueMap估算，目前市价约为759亿韩元。检方曾就李熙镇疑似以家人或熟人名义持有房地产，对部分资产采取追缴保全措施，但Rain Avenue因所有权已信托，据称未被列入对象。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Rain Avenue, vendido por 49.500 millones de wones, queda bajo dudas por Lee Hee-jin",
+        "excerpt": "El edificio Rain Avenue de Cheongdam-dong, vendido por Rain en junio de 2021 por 49.500 millones de wones, enfrenta dudas sobre si formaba parte de activos a nombre de terceros de Lee Hee-jin.",
+        "body": "Han surgido dudas sobre el verdadero propietario de Rain Avenue, el edificio de Cheongdam-dong que el cantante Rain vendió en junio de 2021 por 49.500 millones de wones. Según Hankyung.com, Rain tuvo el inmueble a su nombre desde agosto de 2019 y transfirió la propiedad unos dos años después a MU Partners. La compañía es conocida como una sociedad dirigida por Park, suegro de Lee Hee-jin, y la compra se habría pagado íntegramente en efectivo, sin préstamo. Rain Avenue está cerca de la calle de lujo y la zona de galerías de Cheongdam-dong, con tres plantas subterráneas y seis sobre rasante. ValueMap estima su valor actual en unos 75.900 millones de wones. La fiscalía preservó algunos activos por sospechas de bienes inmobiliarios a nombre de familiares o conocidos de Lee, pero Rain Avenue habría quedado fuera por estar en fideicomiso. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Rain Avenue vendido por 49,5 bilhões de won levanta suspeitas sobre Lee Hee-jin",
+        "excerpt": "O Rain Avenue, prédio em Cheongdam-dong vendido por Rain em junho de 2021 por 49,5 bilhões de won, passou a ser analisado por suspeitas de ligação a bens em nome de terceiros de Lee Hee-jin.",
+        "body": "Surgiram questionamentos sobre o real proprietário do Rain Avenue, edifício em Cheongdam-dong que o cantor Rain vendeu em junho de 2021 por 49,5 bilhões de won. Segundo o Hankyung.com, Rain mantinha o imóvel em seu nome desde agosto de 2019 e transferiu a propriedade cerca de dois anos depois para a MU Partners. A empresa é conhecida como uma pessoa jurídica liderada por Park, sogro de Lee Hee-jin, e a compra teria sido paga integralmente em dinheiro, sem financiamento. O Rain Avenue fica perto da rua de luxo e da área de galerias de Cheongdam-dong, com três subsolos e seis andares. A ValueMap estima seu valor atual em cerca de 75,9 bilhões de won. Promotores preservaram alguns ativos diante de suspeitas de imóveis em nomes de familiares ou conhecidos de Lee, mas o Rain Avenue teria ficado fora por estar em truste. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Rain Avenue für 49,5 Milliarden Won verkauft: Fragen zu Lee Hee-jin rücken auf",
+        "excerpt": "Das Cheongdam-dong-Gebäude Rain Avenue, das Sänger Rain im Juni 2021 für 49,5 Milliarden Won verkaufte, steht wegen möglicher Treuhandvermögen von Lee Hee-jin im Fokus.",
+        "body": "Zum tatsächlichen Eigentümer von Rain Avenue, dem Gebäude in Cheongdam-dong, das Sänger Rain im Juni 2021 für 49,5 Milliarden Won verkaufte, sind Fragen aufgekommen. Laut Hankyung.com hielt Rain die Immobilie seit August 2019 auf seinen Namen und übertrug sie rund zwei Jahre später an MU Partners. Das Unternehmen gilt als Gesellschaft, deren Vertreter Park ist, der Schwiegervater von Lee Hee-jin. Der Kauf soll vollständig bar und ohne Kredit bezahlt worden sein. Rain Avenue liegt nahe der Luxusstraße und der Galerienzone von Cheongdam-dong und umfasst drei Untergeschosse sowie sechs oberirdische Etagen. ValueMap schätzt den aktuellen Wert auf etwa 75,9 Milliarden Won. Die Staatsanwaltschaft sicherte einige Vermögenswerte wegen des Verdachts, Lee halte Immobilien über Familienmitglieder oder Bekannte; Rain Avenue soll wegen einer Eigentumstreuhand nicht darunter gefallen sein. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Rain Avenue vendu 49,5 milliards de wons: les soupçons autour de Lee Hee-jin montent",
+        "excerpt": "Le Rain Avenue de Cheongdam-dong, vendu par le chanteur Rain en juin 2021 pour 49,5 milliards de wons, suscite des questions sur un éventuel patrimoine détenu pour Lee Hee-jin.",
+        "body": "Des questions ont été soulevées sur le véritable propriétaire de Rain Avenue, l’immeuble de Cheongdam-dong vendu par le chanteur Rain en juin 2021 pour 49,5 milliards de wons. Selon Hankyung.com, Rain détenait le bien à son nom depuis août 2019 avant d’en transférer la propriété environ deux ans plus tard à MU Partners. Cette société est connue comme étant dirigée par Park, le beau-père de Lee Hee-jin, et l’achat aurait été payé entièrement en espèces, sans prêt. Rain Avenue se trouve près de la rue du luxe et du quartier des galeries de Cheongdam-dong, avec trois sous-sols et six étages. ValueMap évalue sa valeur actuelle à environ 75,9 milliards de wons. Le parquet a gelé certains actifs liés à des soupçons de biens détenus via des proches de Lee, mais Rain Avenue aurait été exclu en raison d’une fiducie de propriété. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "بيع رين أفينيو في تشونغدام مقابل 49.5 مليار وون يثير شبهة صلة بلي هي جين",
+        "excerpt": "مبنى رين أفينيو في تشونغدام دونغ، الذي باعه المغني رين في يونيو 2021 مقابل 49.5 مليار وون، يواجه تساؤلات حول ما إذا كان مرتبطا بأصول باسم بديل للي هي جين.",
+        "body": "أثيرت تساؤلات حول المالك الفعلي لمبنى رين أفينيو في تشونغدام دونغ، الذي باعه المغني رين في يونيو 2021 مقابل 49.5 مليار وون. وبحسب Hankyung.com، امتلك رين المبنى باسمه الشخصي منذ أغسطس 2019، ثم نقل الملكية بعد نحو عامين إلى شركة MU Partners. وتعرف الشركة بأنها كيان يرأسه بارك، حمو لي هي جين، ويعتقد أن الشراء تم نقدا بالكامل من دون قرض. يقع رين أفينيو قرب شارع السلع الفاخرة ومنطقة المعارض في تشونغدام دونغ، ويتكون من ثلاثة طوابق تحت الأرض وستة طوابق فوقها. وتقدر ValueMap قيمته الحالية بنحو 75.9 مليار وون. وقد تحفظ الادعاء على بعض الأصول وسط شبهات بأن لي امتلك عقارات بأسماء أفراد عائلته أو معارفه، لكن رين أفينيو استثني على ما يبدو بسبب وضع الملكية في ائتمان. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "49.5 अरब वॉन में बिका Rain Avenue, Lee Hee-jin की बेनामी संपत्ति पर सवाल",
+        "excerpt": "गायक Rain ने जून 2021 में Cheongdam-dong का Rain Avenue 49.5 अरब वॉन में बेचा था; अब इसके Lee Hee-jin की कथित बेनामी संपत्ति से जुड़े होने पर सवाल उठ रहे हैं।",
+        "body": "गायक Rain द्वारा जून 2021 में 49.5 अरब वॉन में बेचे गए Cheongdam-dong स्थित Rain Avenue के वास्तविक मालिक को लेकर सवाल उठे हैं। Hankyung.com के अनुसार, Rain ने अगस्त 2019 से इस इमारत को अपने व्यक्तिगत नाम पर रखा और करीब दो साल बाद इसका स्वामित्व MU Partners को स्थानांतरित किया। MU Partners को Lee Hee-jin के ससुर Park के प्रतिनिधित्व वाली कंपनी माना जाता है, और खरीद के समय कथित रूप से कोई कर्ज नहीं लिया गया, बल्कि पूरी राशि नकद दी गई। Rain Avenue Cheongdam की लक्जरी स्ट्रीट और गैलरी क्षेत्र के पास स्थित है, जिसमें तीन बेसमेंट और छह मंजिलें हैं। ValueMap के अनुसार इसका वर्तमान मूल्य लगभग 75.9 अरब वॉन है। अभियोजन पक्ष ने Lee द्वारा परिवार या परिचितों के नाम पर संपत्ति रखने के संदेह में कुछ संपत्तियों को संरक्षित किया, लेकिन Rain Avenue स्वामित्व ट्रस्ट के कारण सूची से बाहर रहा बताया गया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Rain Avenue dijual 49,5 miliar won, dugaan aset nominee Lee Hee-jin mencuat",
+        "excerpt": "Gedung Rain Avenue di Cheongdam-dong yang dijual penyanyi Rain pada Juni 2021 senilai 49,5 miliar won kini disorot karena dugaan terkait aset nominee Lee Hee-jin.",
+        "body": "Pertanyaan muncul mengenai pemilik sebenarnya Rain Avenue, gedung di Cheongdam-dong yang dijual penyanyi Rain pada Juni 2021 seharga 49,5 miliar won. Menurut Hankyung.com, Rain memiliki gedung itu atas nama pribadi sejak Agustus 2019, lalu mengalihkan kepemilikan sekitar dua tahun kemudian kepada MU Partners. Perusahaan tersebut dikenal sebagai badan hukum yang dipimpin Park, mertua Lee Hee-jin, dan pembelian disebut dibayar seluruhnya tunai tanpa pinjaman. Rain Avenue berada dekat jalan barang mewah dan kawasan galeri Cheongdam-dong, dengan tiga lantai bawah tanah dan enam lantai di atas tanah. ValueMap memperkirakan nilai saat ini sekitar 75,9 miliar won. Jaksa membekukan beberapa aset terkait dugaan Lee memegang properti atas nama keluarga atau kenalan, tetapi Rain Avenue dilaporkan tidak termasuk karena kepemilikannya sudah ditempatkan dalam trust. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3f9f7a9b051c",
+    "slug": "평택-고덕-우미린-프레스티지-평택시청-이전-예정분상제-적용-삼성전자-반도체단지-배후-수요-940876",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T18:59:54.170Z",
+    "updatedAt": "2026-05-07T18:59:54.170Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050682071",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050682071",
+    "titleFingerprint": "4fed3d7ecec992a3de996e751bf955535511c291",
+    "dedupKeys": [
+      "3f9f7a9b051c43f9b38b9e3d618f30434cfd249a",
+      "4fed3d7ecec992a3de996e751bf955535511c291",
+      "0ee673f040aae3f3f7c7312d52530423ef2d05da"
+    ],
+    "imageUrl": "/images/articles/3f9f7a9b051c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "평택 고덕 우미린 프레스티지, 평택시청 이전 예정지와 삼성전자 배후 수요 주목",
+        "excerpt": "평택 고덕 우미린 프레스티지가 평택시청 이전 예정과 삼성전자 반도체단지 배후 수요, 분양가상한제 적용 단지로 주목받고 있다.",
+        "body": "평택 고덕 우미린 프레스티지가 평택시청 이전 예정과 삼성전자 반도체단지 배후 수요를 앞세워 시장의 관심을 받고 있다. 이 단지는 평택 고덕 지역에 들어서는 주거 상품으로, 분양가상한제가 적용되는 점이 주요 특징으로 제시됐다. 원문은 평택시청 이전 예정 이슈와 삼성전자 반도체단지 관련 배후 수요를 함께 언급하며 입지 여건을 설명했다. 분양가상한제 적용 여부는 수요자들이 가격 조건을 판단할 때 참고할 수 있는 요소다. 향후 관심은 평택 고덕 일대 개발 흐름과 배후 수요가 실제 청약 및 분양 성과로 어떻게 이어질지에 모일 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige draws attention on city hall move and Samsung demand",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige is drawing notice for the planned Pyeongtaek City Hall relocation, demand linked to Samsung Electronics’ semiconductor complex, and price-cap rules.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige is receiving market attention as a residential project tied to the planned relocation of Pyeongtaek City Hall and demand from the Samsung Electronics semiconductor complex. The project is located in the Godeok area of Pyeongtaek, and the original report highlighted that it is subject to the housing price ceiling system. The source also described the location by citing the planned city hall move and nearby demand associated with Samsung’s semiconductor cluster. The price-cap application may be a reference point for buyers assessing pricing conditions. Future interest is expected to focus on how development in Godeok and related demand translate into subscription and sales results. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "平沢高徳ウミリン・プレステージ、市庁移転予定とサムスン需要で注目",
+        "excerpt": "平沢高徳ウミリン・プレステージは、平沢市庁移転予定、サムスン電子半導体団地の背後需要、分譲価格上限制の適用で注目されている。",
+        "body": "平沢高徳ウミリン・プレステージが、平沢市庁の移転予定とサムスン電子半導体団地の背後需要を背景に市場の関心を集めている。同物件は平沢・高徳エリアに供給される住宅商品で、分譲価格上限制が適用される点が主な特徴として示された。原文は、平沢市庁移転予定という要素とサムスン電子半導体団地に関連する背後需要をあわせて取り上げ、立地条件を説明している。価格上限制の適用は、需要者が価格条件を判断する際の参考材料となる。今後は、高徳一帯の開発動向と背後需要が実際の申込や分譲成果にどうつながるかが注目される。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "平泽高德Woomi Lynn Prestige受关注，市厅迁址与三星需求成看点",
+        "excerpt": "平泽高德Woomi Lynn Prestige因平泽市厅拟迁址、三星电子半导体园区背后需求以及适用分售价上限制而受到关注。",
+        "body": "平泽高德Woomi Lynn Prestige正因平泽市厅拟迁址以及三星电子半导体园区相关背后需求而受到市场关注。该项目是位于平泽高德地区的住宅产品，原文提出其适用分售价上限制是主要特点之一。报道同时提到平泽市厅迁址计划和与三星电子半导体园区相关的背后需求，以说明其区位条件。分售价上限制的适用，可成为购房需求者判断价格条件时的参考因素。今后市场关注点预计将集中在平泽高德一带开发趋势及背后需求如何转化为实际认购和销售成果。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige gana foco por traslado municipal y demanda de Samsung",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige atrae atención por el traslado previsto del Ayuntamiento de Pyeongtaek, la demanda vinculada al complejo de semiconductores de Samsung y el control de precios.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige está atrayendo la atención del mercado por el traslado previsto del Ayuntamiento de Pyeongtaek y la demanda de respaldo asociada al complejo de semiconductores de Samsung Electronics. El proyecto es una oferta residencial en la zona de Godeok, en Pyeongtaek, y el reporte original destacó que está sujeto al sistema de límite de precio de venta. La fuente explicó sus condiciones de ubicación mencionando tanto el traslado municipal previsto como la demanda vinculada al complejo de Samsung. La aplicación del límite de precio puede servir como referencia para quienes evalúan las condiciones de compra. El interés futuro se centrará en si el desarrollo de Godeok y esa demanda se reflejan en resultados de suscripción y venta. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige atrai foco com prefeitura e demanda da Samsung",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige chama atenção pelo plano de mudança da prefeitura, pela demanda ligada ao complexo de semicondutores da Samsung e pelo teto de preço.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige está chamando atenção do mercado por combinar a transferência prevista da Prefeitura de Pyeongtaek com a demanda de apoio relacionada ao complexo de semicondutores da Samsung Electronics. O empreendimento é um produto residencial na área de Godeok, em Pyeongtaek, e o texto original destacou a aplicação do sistema de teto para preço de venda. A fonte descreveu as condições de localização citando o plano de mudança da prefeitura e a demanda associada ao complexo da Samsung. A aplicação do teto de preço pode ser usada por compradores como referência ao avaliar as condições de preço. A atenção futura deve se concentrar em como o desenvolvimento de Godeok e essa demanda se refletirão em inscrições e vendas. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige im Fokus durch Rathausumzug und Samsung-Nachfrage",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige rückt wegen des geplanten Rathausumzugs, der Nachfrage rund um Samsungs Halbleiterkomplex und der Preisdeckelung in den Blick.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige erhält Marktaufmerksamkeit, da das Projekt mit dem geplanten Umzug des Rathauses von Pyeongtaek und der Nachfrage aus dem Umfeld des Halbleiterkomplexes von Samsung Electronics verbunden ist. Es handelt sich um ein Wohnangebot im Gebiet Godeok in Pyeongtaek; der Originalbericht hob hervor, dass die Regelung zur Begrenzung der Verkaufspreise gilt. Die Quelle beschrieb die Standortbedingungen mit Verweis auf den geplanten Rathausumzug und die Nachfrage im Zusammenhang mit Samsungs Halbleiterstandort. Die Preisdeckelung kann für Interessenten ein Faktor bei der Bewertung der Preiskonditionen sein. Künftig dürfte sich das Interesse darauf richten, wie sich die Entwicklung in Godeok und die Nachfrage in tatsächlichen Zeichnungs- und Verkaufsergebnissen zeigen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige attire l’attention avec la mairie et la demande Samsung",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige est remarqué pour le projet de transfert de la mairie, la demande liée au complexe de semi-conducteurs de Samsung et le plafonnement des prix.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige suscite l’intérêt du marché grâce au projet de transfert de la mairie de Pyeongtaek et à la demande de proximité associée au complexe de semi-conducteurs de Samsung Electronics. Ce programme résidentiel est situé dans le secteur de Godeok, à Pyeongtaek, et le texte original souligne qu’il est soumis au système de plafonnement des prix de vente. La source présente les conditions de localisation en mentionnant le transfert prévu de la mairie et la demande liée au complexe de Samsung. L’application du plafonnement peut servir de repère aux acheteurs pour évaluer les conditions de prix. L’attention devrait désormais porter sur la façon dont le développement de Godeok et cette demande se traduiront en résultats de souscription et de vente. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "بيونغتايك غوديوك وومي لين بريستيج يبرز مع نقل البلدية وطلب سامسونغ",
+        "excerpt": "يحظى مشروع بيونغتايك غوديوك وومي لين بريستيج بالاهتمام بسبب خطة نقل بلدية بيونغتايك، والطلب المرتبط بمجمع سامسونغ لأشباه الموصلات، وتطبيق سقف سعر البيع.",
+        "body": "يحظى مشروع بيونغتايك غوديوك وومي لين بريستيج باهتمام السوق مع ارتباطه بخطة نقل بلدية بيونغتايك والطلب الخلفي المتصل بمجمع أشباه الموصلات التابع لسامسونغ إلكترونيكس. ويقع المشروع السكني في منطقة غوديوك بمدينة بيونغتايك، وذكر التقرير الأصلي أن نظام سقف سعر البيع مطبق عليه. كما أوضح المصدر ظروف الموقع من خلال الإشارة إلى خطة نقل البلدية والطلب المرتبط بمجمع سامسونغ لأشباه الموصلات. وقد يشكل تطبيق سقف السعر عاملا مرجعيا للمشترين عند تقييم شروط السعر. ومن المتوقع أن يتركز الاهتمام لاحقا على كيفية انعكاس تطوير منطقة غوديوك وهذا الطلب في نتائج الاكتتاب والبيع الفعلية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "प्योंगटेक गोडोक Woomi Lynn Prestige पर सिटी हॉल स्थानांतरण और Samsung मांग से ध्यान",
+        "excerpt": "प्योंगटेक गोडोक Woomi Lynn Prestige सिटी हॉल के प्रस्तावित स्थानांतरण, Samsung Electronics सेमीकंडक्टर परिसर से जुड़ी मांग और मूल्य-सीमा नियम के कारण चर्चा में है।",
+        "body": "प्योंगटेक गोडोक Woomi Lynn Prestige बाजार का ध्यान आकर्षित कर रहा है, क्योंकि इसे प्योंगटेक सिटी हॉल के प्रस्तावित स्थानांतरण और Samsung Electronics के सेमीकंडक्टर परिसर से जुड़ी पृष्ठभूमि मांग के साथ जोड़ा जा रहा है। यह प्योंगटेक के गोडोक क्षेत्र में आने वाला आवासीय उत्पाद है, और मूल रिपोर्ट में बताया गया कि इस पर बिक्री मूल्य सीमा प्रणाली लागू होती है। स्रोत ने सिटी हॉल स्थानांतरण योजना और Samsung सेमीकंडक्टर परिसर से संबंधित मांग का उल्लेख करते हुए स्थान की परिस्थितियों को समझाया। मूल्य सीमा लागू होना खरीदारों के लिए कीमत की शर्तें परखने में संदर्भ बन सकता है। आगे ध्यान इस पर रहेगा कि गोडोक क्षेत्र का विकास और यह मांग वास्तविक सदस्यता तथा बिक्री परिणामों में कैसे बदलते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Pyeongtaek Godeok Woomi Lynn Prestige disorot karena relokasi balai kota dan permintaan Samsung",
+        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige menarik perhatian berkat rencana relokasi Balai Kota Pyeongtaek, permintaan dari kompleks semikonduktor Samsung, dan aturan batas harga.",
+        "body": "Pyeongtaek Godeok Woomi Lynn Prestige mendapat perhatian pasar karena dikaitkan dengan rencana relokasi Balai Kota Pyeongtaek dan permintaan pendukung dari kompleks semikonduktor Samsung Electronics. Proyek ini merupakan produk hunian di kawasan Godeok, Pyeongtaek, dan laporan asli menyoroti bahwa proyek tersebut menerapkan sistem batas harga jual. Sumber juga menjelaskan kondisi lokasi dengan menyebut rencana pemindahan balai kota serta permintaan yang terkait dengan kompleks semikonduktor Samsung. Penerapan batas harga dapat menjadi acuan bagi calon pembeli saat menilai kondisi harga. Ke depan, perhatian diperkirakan tertuju pada bagaimana perkembangan kawasan Godeok dan permintaan tersebut tercermin dalam hasil pendaftaran dan penjualan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "6f487fe5c3d7",
     "slug": "제주스프링데일-편백향-가득한-서귀포에서-골프-라운드-213074",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Jual Apartemen Mok-dong Lalu Pindah ke Guro: Pelajaran dari Siklus Properti",
         "excerpt": "Kasus A, warga usia 30-an yang membeli apartemen 20-pyeong di Mok-dong, Seoul, pada 2006, menunjukkan risiko menjual dan pindah saat pasar properti jatuh.",
         "body": "Pada 2006, A, yang saat itu berusia 30-an dan membesarkan dua anak, membeli apartemen berukuran sekitar 20 pyeong di Mok-dong, Yangcheon-gu, Seoul. Saat itu harga rumah naik cepat, dan ia disebut menggunakan pinjaman hipotek dengan rasio loan-to-value atau LTV sekitar 50%. Keputusan berikutnya untuk menjual properti di Mok-dong dan pindah ke Guro disajikan sebagai contoh bagaimana pasar properti yang jatuh dapat memengaruhi keputusan hunian pribadi. Kasus ini menunjukkan bahwa pembelian dengan utang bisa terlihat memungkinkan saat pasar naik, tetapi pada fase turun, waktu menjual dan pilihan wilayah baru dapat sangat mengubah arah aset. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "02af2229e9a9",
-    "slug": "힐스테이트-구월-아트파크-인천-예술회관역-직결gtx-예정-구월아이시티-개발-수혜지로-주목-147201",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T01:31:49.359Z",
-    "updatedAt": "2026-05-07T01:31:49.359Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050681931",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050681931",
-    "titleFingerprint": "d176dc9a69191887252790d146d7a4ef733868e6",
-    "dedupKeys": [
-      "02af2229e9a9c706f20bbb8f59e06924c5df7952",
-      "d176dc9a69191887252790d146d7a4ef733868e6",
-      "e0548723e30106fdf423bd10b8426837653287c8"
-    ],
-    "imageUrl": "/images/articles/02af2229e9a9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "힐스테이트 구월 아트파크, 예술회관역 직결·GTX 예정 수혜지 주목",
-        "excerpt": "힐스테이트 구월 아트파크가 인천 예술회관역 직결 입지와 GTX 예정, 구월아이시티 개발 흐름 속에서 교통·개발 수혜 단지로 주목받고 있다.",
-        "body": "힐스테이트 구월 아트파크가 인천 예술회관역 직결 입지와 GTX 예정 이슈, 구월아이시티 개발 흐름을 배경으로 주목받고 있다. 해당 단지는 예술회관역과 직접 연결되는 점이 핵심 키워드로 제시됐으며, 향후 GTX 예정 노선과 구월아이시티 개발 수혜지로 거론되고 있다. 인천 구월권역에서 교통 접근성과 개발 기대가 함께 언급되면서 실수요자와 투자자의 관심 요인으로 부각되는 모습이다. 다만 구체적인 일정과 수치 등은 원문 제목에 제시되지 않았다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Hillstate Guwol Art Park Draws Notice for Arts Center Station Link and Planned GTX",
-        "excerpt": "Hillstate Guwol Art Park is drawing attention in Incheon for its direct connection to Arts Center Station, planned GTX factor and Guwol i-City development context.",
-        "body": "Hillstate Guwol Art Park is gaining attention in Incheon on the back of its direct connection to Arts Center Station, the planned GTX issue and the Guwol i-City development trend. The project’s direct link to Arts Center Station was presented as a key point, while it is also being mentioned as a possible beneficiary of the planned GTX route and Guwol i-City development. In the Guwol area of Incheon, transport access and development expectations are being cited together as factors attracting end users and investors. Specific schedules and figures were not provided in the original title. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "ヒルステート九月アートパーク、芸術会館駅直結とGTX予定で注目",
-        "excerpt": "ヒルステート九月アートパークは仁川・芸術会館駅直結の立地、GTX予定、九月アイシティ開発の流れを背景に注目されている。",
-        "body": "ヒルステート九月アートパークが、仁川の芸術会館駅に直結する立地、GTX予定という材料、九月アイシティ開発の流れを背景に注目されている。同物件は芸術会館駅と直接つながる点が主要キーワードとして示され、今後のGTX予定路線や九月アイシティ開発の受益地としても言及されている。仁川・九月エリアでは交通アクセスと開発期待が同時に取り上げられ、実需者や投資家の関心要因として浮上している。ただし、具体的な日程や数値は原文タイトルには示されていない。出典：hankyung.com引用。"
-      },
-      "zh": {
-        "title": "Hillstate九月艺术公园因直连艺术会馆站和GTX规划受关注",
-        "excerpt": "Hillstate九月艺术公园凭借仁川艺术会馆站直连区位、GTX规划因素及九月i-City开发背景，正受到市场关注。",
-        "body": "Hillstate九月艺术公园正因仁川艺术会馆站直连区位、GTX规划议题以及九月i-City开发趋势而受到关注。该项目与艺术会馆站直接连接被作为核心关键词提出，同时也被提及为未来GTX规划线路和九月i-City开发的潜在受益地。在仁川九月片区，交通可达性与开发预期被同时提及，成为吸引自住需求者和投资者关注的因素。不过，原文标题中未列出具体日程和数据。来源：引自hankyung.com。"
-      },
-      "es": {
-        "title": "Hillstate Guwol Art Park destaca por conexión a Arts Center Station y GTX previsto",
-        "excerpt": "Hillstate Guwol Art Park gana atención en Incheon por su conexión directa con Arts Center Station, el GTX previsto y el desarrollo de Guwol i-City.",
-        "body": "Hillstate Guwol Art Park está atrayendo atención en Incheon por su conexión directa con Arts Center Station, el factor del GTX previsto y el contexto del desarrollo de Guwol i-City. La conexión directa con la estación se presentó como un punto clave, mientras que el complejo también se menciona como zona beneficiaria del futuro trazado GTX y del desarrollo Guwol i-City. En el área de Guwol, la accesibilidad del transporte y las expectativas de desarrollo aparecen juntas como factores de interés para usuarios finales e inversores. El título original no ofrece calendarios ni cifras concretas. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Hillstate Guwol Art Park chama atenção por ligação à Arts Center Station e GTX previsto",
-        "excerpt": "O Hillstate Guwol Art Park ganha destaque em Incheon pela ligação direta à Arts Center Station, pelo GTX previsto e pelo desenvolvimento Guwol i-City.",
-        "body": "O Hillstate Guwol Art Park está chamando atenção em Incheon por sua ligação direta à Arts Center Station, pelo tema do GTX previsto e pelo contexto do desenvolvimento Guwol i-City. A conexão direta com a estação foi apresentada como ponto central, enquanto o empreendimento também é citado como possível beneficiário da futura rota GTX e do desenvolvimento Guwol i-City. Na região de Guwol, em Incheon, acesso ao transporte e expectativa de desenvolvimento aparecem juntos como fatores de interesse para moradores e investidores. O título original não informa cronogramas nem números específicos. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Hillstate Guwol Art Park rückt mit direkter Station-Anbindung und geplanter GTX in den Fokus",
-        "excerpt": "Hillstate Guwol Art Park steht in Incheon wegen der direkten Anbindung an die Arts Center Station, der geplanten GTX und Guwol-i-City-Entwicklung im Blickpunkt.",
-        "body": "Hillstate Guwol Art Park zieht in Incheon Aufmerksamkeit auf sich, gestützt auf die direkte Anbindung an die Arts Center Station, das Thema der geplanten GTX und die Entwicklung von Guwol i-City. Die direkte Verbindung zur Station wurde als zentraler Punkt genannt, zugleich wird das Projekt als möglicher Profiteur der geplanten GTX-Strecke und der Guwol-i-City-Entwicklung erwähnt. Im Gebiet Guwol in Incheon werden Verkehrszugang und Entwicklungserwartungen gemeinsam als Faktoren genannt, die Endnutzer und Investoren interessieren. Konkrete Zeitpläne oder Zahlen nennt der Originaltitel nicht. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Hillstate Guwol Art Park attire l’attention avec sa liaison à Arts Center Station et le GTX prévu",
-        "excerpt": "Hillstate Guwol Art Park retient l’attention à Incheon grâce à sa connexion directe à Arts Center Station, au GTX prévu et au développement de Guwol i-City.",
-        "body": "Hillstate Guwol Art Park attire l’attention à Incheon grâce à sa connexion directe à Arts Center Station, à l’enjeu du GTX prévu et au contexte du développement de Guwol i-City. Le lien direct avec la station a été présenté comme un point clé, tandis que le programme est aussi cité comme un possible bénéficiaire du futur tracé GTX et du développement de Guwol i-City. Dans le secteur de Guwol à Incheon, l’accessibilité des transports et les attentes de développement sont évoquées ensemble comme facteurs d’intérêt pour les utilisateurs finaux et les investisseurs. Le titre original ne fournit ni calendrier ni chiffres précis. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "هيلستيت غوول آرت بارك يبرز بارتباطه بمحطة Arts Center وخطة GTX",
-        "excerpt": "يحظى هيلستيت غوول آرت بارك في إنتشون باهتمام بفضل الاتصال المباشر بمحطة Arts Center، وعامل GTX المخطط له، وسياق تطوير Guwol i-City.",
-        "body": "يحظى هيلستيت غوول آرت بارك باهتمام في إنتشون استنادا إلى موقعه المتصل مباشرة بمحطة Arts Center، وقضية GTX المخطط لها، واتجاه تطوير Guwol i-City. وقد طُرحت نقطة الاتصال المباشر بالمحطة كعامل رئيسي، كما يُذكر المشروع كمنطقة قد تستفيد من مسار GTX المخطط له ومن تطوير Guwol i-City. وفي منطقة غوول في إنتشون، يجري تناول سهولة الوصول إلى النقل وتوقعات التطوير معا كعوامل تجذب اهتمام المستخدمين النهائيين والمستثمرين. ولم يورد العنوان الأصلي جداول زمنية أو أرقاما محددة. المصدر: مقتبس من hankyung.com."
-      },
-      "hi": {
-        "title": "Hillstate Guwol Art Park स्टेशन कनेक्शन और प्रस्तावित GTX से चर्चा में",
-        "excerpt": "Incheon में Hillstate Guwol Art Park Arts Center Station से सीधे जुड़ाव, प्रस्तावित GTX और Guwol i-City विकास संदर्भ के कारण ध्यान खींच रहा है।",
-        "body": "Hillstate Guwol Art Park Incheon में Arts Center Station से सीधे जुड़ाव, प्रस्तावित GTX मुद्दे और Guwol i-City विकास की पृष्ठभूमि के कारण ध्यान आकर्षित कर रहा है। इस परियोजना का Arts Center Station से सीधा संपर्क मुख्य बिंदु के रूप में रखा गया है, जबकि इसे भविष्य की प्रस्तावित GTX लाइन और Guwol i-City विकास से लाभान्वित क्षेत्र के रूप में भी उल्लेखित किया जा रहा है। Incheon के Guwol क्षेत्र में परिवहन पहुंच और विकास अपेक्षाएं साथ-साथ चर्चा में हैं, जिससे अंतिम उपयोगकर्ताओं और निवेशकों की रुचि बढ़ने का कारण बन रहा है। मूल शीर्षक में ठोस समयसीमा या आंकड़े नहीं दिए गए हैं। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Hillstate Guwol Art Park Disorot karena Terhubung ke Arts Center Station dan Rencana GTX",
-        "excerpt": "Hillstate Guwol Art Park di Incheon menarik perhatian berkat koneksi langsung ke Arts Center Station, rencana GTX, dan konteks pengembangan Guwol i-City.",
-        "body": "Hillstate Guwol Art Park menarik perhatian di Incheon dengan latar koneksi langsung ke Arts Center Station, isu rencana GTX, dan arus pengembangan Guwol i-City. Keterhubungan langsung dengan Arts Center Station disajikan sebagai poin utama, sementara proyek ini juga disebut sebagai kawasan yang berpotensi mendapat manfaat dari rute GTX yang direncanakan dan pengembangan Guwol i-City. Di wilayah Guwol, Incheon, akses transportasi dan ekspektasi pengembangan dibahas bersama sebagai faktor yang menarik minat pengguna akhir dan investor. Jadwal dan angka spesifik tidak tercantum dalam judul asli. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a90d1c3f8c6f",
-    "slug": "이사갈-집-없어요-그냥-버텨야죠서울-아파트-갱신권-비중-확대-118268",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T01:30:54.433Z",
-    "updatedAt": "2026-05-07T01:30:54.433Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038854",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038854",
-    "titleFingerprint": "82628e3d8019b44ed3a3796d03e6848b4edef89b",
-    "dedupKeys": [
-      "a90d1c3f8c6f2ea18a062bcc2989ad4a762079ec",
-      "82628e3d8019b44ed3a3796d03e6848b4edef89b",
-      "1f6aa5239ffa2d4dd74b77380f33b63535311766"
-    ],
-    "imageUrl": "/images/articles/a90d1c3f8c6f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 갱신권 비중 확대, 매물 부족·고금리에 세입자 ‘집 지키기’",
-        "excerpt": "서울과 수도권 전월세 시장에서 매물 부족과 고금리 상황이 이어지며 세입자들이 새 집을 찾기보다 기존 주거지 계약을 갱신하는 경향이 강화되고 있다.",
-        "body": "서울 아파트 전월세 시장에서 계약갱신권을 활용해 기존 주거지에 머무는 비중이 확대되고 있다. 매물 부족과 고금리 상황이 계속되면서 세입자들이 신규 매물을 찾아 이동하기보다 현재 거주지를 유지하려는 흐름이 뚜렷해진 것이다. 수도권 전월세 시장에서도 이른바 ‘집 지키기’ 현상이 나타나며 기존 계약을 갱신하는 경향이 강화되고 있다. 이는 새 주거지를 찾는 부담이 커진 상황에서 주거 안정성을 우선하는 선택으로 풀이된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Seoul Apartment Renewal Rights Rise as Short Supply and High Rates Keep Tenants Put",
-        "excerpt": "In Seoul and the wider metro rental market, tight listings and high interest rates are pushing tenants to renew existing leases rather than search for a new home.",
-        "body": "In Seoul’s apartment rental market, the share of tenants using lease renewal rights to stay in their current homes is expanding. Continued shortages of available listings and high interest rates are reinforcing a pattern in which tenants choose to remain where they live instead of moving to a newly listed property. The same “holding on to home” trend is becoming clearer across the capital-area jeonse and monthly rent market, with more households leaning toward renewing existing contracts. The shift reflects a preference for housing stability as the burden of finding a new place grows. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウルのマンション更新権比率拡大、物件不足と高金利で住み続ける動き",
-        "excerpt": "ソウルと首都圏の賃貸市場では、物件不足と高金利が続き、入居者が新居を探すより既存住居の契約を更新する傾向が強まっている。",
-        "body": "ソウルのマンション賃貸市場で、契約更新権を活用して現在の住居にとどまる比率が拡大している。物件不足と高金利の状況が続くなか、入居者は新規物件を探して移動するより、今住んでいる場所を維持しようとする流れを強めている。首都圏のチョンセ・月払い家賃市場でも、いわゆる「家を守る」現象が目立ち、既存契約を更新する傾向が広がっている。新しい住まいを探す負担が大きくなるなか、住居の安定を優先する選択とみられる。出典: mk.co.kr 引用。"
-      },
-      "zh": {
-        "title": "首尔公寓续约权占比扩大，房源短缺与高利率让租户选择留下",
-        "excerpt": "在首尔及首都圈租赁市场，房源短缺和高利率持续，租户比起寻找新房，更倾向于续签现有住房合同。",
-        "body": "首尔公寓租赁市场中，使用合同续约权并继续留在现有住所的比例正在扩大。随着房源短缺和高利率状况持续，租户不再优先寻找新房搬迁，而是更明显地选择维持当前居住地。首都圈的全租和月租市场也出现了这种“守住房子”的现象，续签既有合同的倾向进一步增强。在寻找新住所负担加重的情况下，这被视为优先考虑居住稳定性的选择。来源：引用 mk.co.kr。"
-      },
-      "es": {
-        "title": "En Seúl crece la renovación de alquileres por falta de oferta y tasas altas",
-        "excerpt": "En el mercado de alquiler de Seúl y su área metropolitana, la escasez de viviendas y las tasas altas llevan a más inquilinos a renovar sus contratos actuales.",
-        "body": "En el mercado de alquiler de apartamentos de Seúl está aumentando la proporción de inquilinos que usan el derecho de renovación para permanecer en su vivienda actual. La falta de oferta y el entorno de tasas de interés altas hacen que muchos prefieran no buscar una nueva propiedad y mantener su residencia existente. En el mercado de jeonse y alquiler mensual del área metropolitana también se observa con claridad este fenómeno de “proteger la casa”, con una mayor tendencia a renovar contratos vigentes. El cambio refleja la prioridad por la estabilidad residencial ante la creciente carga de encontrar otro hogar. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Renovações de aluguel crescem em Seul com pouca oferta e juros altos",
-        "excerpt": "No mercado de aluguel de Seul e da região metropolitana, a escassez de imóveis e os juros altos levam inquilinos a renovar contratos em vez de procurar nova casa.",
-        "body": "No mercado de aluguel de apartamentos de Seul, cresce a parcela de inquilinos que usa o direito de renovação para permanecer na moradia atual. A continuidade da falta de imóveis disponíveis e dos juros elevados reforça a tendência de manter a residência existente, em vez de buscar uma nova oferta e se mudar. No mercado de jeonse e aluguel mensal da região metropolitana, o fenômeno de “preservar a casa” também se torna mais evidente, com maior inclinação à renovação dos contratos existentes. A mudança indica uma escolha pela estabilidade residencial diante do maior peso de encontrar outro imóvel. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Mehr Mietverlängerungen in Seoul: Wohnungsmangel und hohe Zinsen halten Mieter fest",
-        "excerpt": "Im Mietmarkt von Seoul und der Hauptstadtregion führen knappes Angebot und hohe Zinsen dazu, dass Mieter eher bestehende Verträge verlängern als umziehen.",
-        "body": "Im Mietmarkt für Apartments in Seoul steigt der Anteil der Haushalte, die ihr Erneuerungsrecht nutzen und in ihrer bisherigen Wohnung bleiben. Anhaltender Wohnungsmangel und hohe Zinsen verstärken die Tendenz, keine neue Mietwohnung zu suchen, sondern den aktuellen Wohnsitz zu halten. Auch im Jeonse- und Monatsmietmarkt der Hauptstadtregion wird dieses Muster des „Zuhause-Bewahrens“ deutlicher, während bestehende Verträge häufiger verlängert werden. Die Entwicklung zeigt, dass viele angesichts der größeren Belastung bei der Wohnungssuche Wohnstabilität vorziehen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "À Séoul, les renouvellements de bail progressent avec l’offre rare et les taux élevés",
-        "excerpt": "Sur le marché locatif de Séoul et de sa région, le manque de biens et les taux élevés poussent les locataires à renouveler leur bail plutôt qu’à déménager.",
-        "body": "Sur le marché locatif des appartements à Séoul, la part des locataires utilisant leur droit au renouvellement pour rester dans leur logement actuel augmente. La pénurie de biens disponibles et le maintien de taux d’intérêt élevés renforcent la tendance à conserver son domicile plutôt qu’à chercher une nouvelle offre et déménager. Dans le marché du jeonse et des loyers mensuels de la région capitale, ce phénomène de “garder son logement” devient aussi plus net, avec davantage de renouvellements de contrats existants. Cette évolution traduit une priorité donnée à la stabilité résidentielle alors que trouver un nouveau logement devient plus contraignant. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "ارتفاع تجديد عقود شقق سيول مع نقص المعروض وأسعار الفائدة المرتفعة",
-        "excerpt": "في سوق الإيجارات في سيول ومنطقة العاصمة، يدفع نقص المعروض واستمرار الفائدة المرتفعة المستأجرين إلى تجديد عقودهم الحالية بدلاً من البحث عن منزل جديد.",
-        "body": "في سوق إيجارات الشقق في سيول، تتسع حصة المستأجرين الذين يستخدمون حق تجديد العقد للبقاء في مساكنهم الحالية. ومع استمرار نقص المعروض وارتفاع أسعار الفائدة، يزداد ميل المستأجرين إلى الحفاظ على محل السكن الحالي بدلاً من البحث عن عقار جديد والانتقال إليه. ويظهر الاتجاه نفسه في سوق الجونسِه والإيجار الشهري بمنطقة العاصمة، حيث تتضح ظاهرة “حماية المنزل” عبر تجديد العقود القائمة. ويعكس ذلك تفضيلاً للاستقرار السكني في ظل تزايد عبء العثور على مسكن جديد. المصدر: نقلاً عن mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट में नवीनीकरण अधिकार बढ़े, कम आपूर्ति और ऊंची दरों से किरायेदार रुके",
-        "excerpt": "सियोल और राजधानी क्षेत्र के किराया बाजार में कम उपलब्धता और ऊंची ब्याज दरों के कारण किरायेदार नया घर खोजने के बजाय मौजूदा अनुबंध नवीनीकृत कर रहे हैं।",
-        "body": "सियोल के अपार्टमेंट किराया बाजार में अनुबंध नवीनीकरण अधिकार का उपयोग कर मौजूदा आवास में बने रहने वाले किरायेदारों की हिस्सेदारी बढ़ रही है। उपलब्ध मकानों की कमी और ऊंची ब्याज दरों की स्थिति जारी रहने से किरायेदार नई सूचीबद्ध संपत्ति खोजकर स्थानांतरित होने के बजाय वर्तमान घर को बनाए रखने की ओर झुक रहे हैं। राजधानी क्षेत्र के जोंसे और मासिक किराया बाजार में भी यह “घर बचाए रखने” की प्रवृत्ति स्पष्ट हो रही है और मौजूदा अनुबंधों के नवीनीकरण की प्रवृत्ति मजबूत हुई है। नए आवास की खोज का बोझ बढ़ने के बीच यह आवासीय स्थिरता को प्राथमिकता देने का संकेत है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Hak perpanjangan apartemen Seoul naik, pasokan minim dan bunga tinggi menahan penyewa",
-        "excerpt": "Di pasar sewa Seoul dan wilayah metropolitan, minimnya pasokan serta suku bunga tinggi membuat penyewa lebih memilih memperpanjang kontrak lama daripada pindah.",
-        "body": "Di pasar sewa apartemen Seoul, porsi penyewa yang menggunakan hak perpanjangan kontrak untuk tetap tinggal di hunian saat ini meningkat. Kekurangan unit yang tersedia dan kondisi suku bunga tinggi yang berlanjut memperkuat kecenderungan penyewa untuk mempertahankan tempat tinggal lama, bukan mencari unit baru dan pindah. Di pasar jeonse dan sewa bulanan wilayah metropolitan, fenomena “menjaga rumah” ini juga makin terlihat, dengan kecenderungan memperpanjang kontrak yang ada semakin kuat. Perubahan ini mencerminkan pilihan untuk mengutamakan stabilitas tempat tinggal saat beban mencari hunian baru meningkat. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "db84ca3c0740",
-    "slug": "한토신-북가좌-제6구역-재건축-사업시행계획-승인-청신호-474783",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T01:29:45.668Z",
-    "updatedAt": "2026-05-07T01:29:45.669Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038877",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038877",
-    "titleFingerprint": "77d4dd1a69d4036c95340d6a1d4883194f76b9a6",
-    "dedupKeys": [
-      "db84ca3c07408bf13da6453d7879d85f9c28d771",
-      "77d4dd1a69d4036c95340d6a1d4883194f76b9a6",
-      "b4355946559a3dd0692469d2c8e48c5d18f7d1d2"
-    ],
-    "imageUrl": "/images/articles/db84ca3c0740.png",
-    "i18n": {
-      "ko": {
-        "title": "북가좌6구역 재건축 사업시행계획 승인 기대감, 한토신 특화 설계 속도",
-        "excerpt": "한국토지신탁은 서울 서대문구 북가좌6구역 재건축이 사업시행계획 수립 정기총회를 성공적으로 마치며 우수디자인 선정과 발코니 확장 등 특화 설계로 인허가 절차에 속도를 낼 것으로 봤다.",
-        "body": "한국토지신탁은 서울 서대문구 북가좌제6구역 주택재건축정비사업이 사업시행계획 수립을 위한 정기총회를 성공적으로 마치며 사업시행계획 승인에 긍정적 신호가 켜졌다고 밝혔다. 북가좌6구역은 재건축 인허가 절차를 앞두고 우수디자인 선정, 발코니 확장 등 특화 설계를 적용한 것이 핵심이다. 한토신은 이 같은 설계 보완이 사업계획의 완성도를 높이고 향후 행정 절차 진행에 힘을 보탤 것으로 보고 있다. 사업시행계획 승인은 정비사업이 다음 단계로 나아가기 위한 주요 관문인 만큼, 북가좌6구역의 재건축 추진 속도와 조합원 관심도도 함께 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Bukgajwa District 6 Reconstruction Gains Momentum as KOREIT Sees Approval Signal",
-        "excerpt": "Korea Real Estate Investment & Trust said Bukgajwa District 6 in Seodaemun, Seoul, completed a regular meeting for its project implementation plan, with specialized design features expected to support faster approvals.",
-        "body": "Korea Real Estate Investment & Trust said the Bukgajwa District 6 housing reconstruction project in Seodaemun-gu, Seoul, has shown a positive signal for approval of its project implementation plan after successfully holding a regular meeting to establish the plan. The project’s key design elements include selection as an excellent design and specialized planning such as balcony expansion. KOREIT said these design improvements could raise the completeness of the project plan and help advance the administrative approval process. Because project implementation approval is a major step for a reconstruction project to move forward, the pace of Bukgajwa District 6 and interest from association members are drawing attention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "北加佐6区域再建築、事業施行計画承認に前進 韓国土地信託が特化設計",
-        "excerpt": "韓国土地信託は、ソウル西大門区の北加佐6区域再建築が事業施行計画策定の定期総会を終え、優秀デザイン選定やバルコニー拡張などで認可手続きの加速が期待されるとした。",
-        "body": "韓国土地信託は、ソウル市西大門区の北加佐第6区域住宅再建築整備事業が、事業施行計画策定に向けた定期総会を成功裏に終え、事業施行計画承認に前向きな兆しが出たと明らかにした。北加佐6区域は再建築の認可手続きを控え、優秀デザイン選定やバルコニー拡張などの特化設計を適用した点が中心となる。韓国土地信託は、こうした設計補完が事業計画の完成度を高め、今後の行政手続きの進行を後押しするとみている。事業施行計画承認は整備事業が次の段階に進むための主要な関門であり、同区域の推進速度と組合員の関心も注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "北加佐6区重建项目推进提速，韩国土地信托称实施计划审批现积极信号",
-        "excerpt": "韩国土地信托表示，首尔西大门区北加佐6区重建项目已成功召开制定项目实施计划的定期总会，并通过优秀设计评选、阳台扩展等特色设计推动审批进程。",
-        "body": "韩国土地信托表示，首尔西大门区北加佐第6区住宅重建整备项目已成功召开用于制定项目实施计划的定期总会，项目实施计划审批出现积极信号。北加佐6区在重建审批程序推进前，重点采用了优秀设计评选、阳台扩展等特色设计。韩国土地信托认为，这些设计完善措施将提高项目计划的完成度，并有助于后续行政审批程序推进。项目实施计划审批是整备项目进入下一阶段的重要关口，因此北加佐6区重建推进速度及组合成员关注度也受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reconstrucción de Bukgajwa 6 avanza con señal favorable para el plan de ejecución",
-        "excerpt": "Korea Real Estate Investment & Trust dijo que Bukgajwa 6, en Seodaemun, Seúl, completó la asamblea para su plan de ejecución, con diseño destacado y expansión de balcones para acelerar permisos.",
-        "body": "Korea Real Estate Investment & Trust informó que el proyecto de reconstrucción residencial de Bukgajwa Distrito 6, en Seodaemun-gu, Seúl, mostró una señal positiva para la aprobación de su plan de ejecución tras celebrar con éxito la asamblea ordinaria destinada a establecerlo. El proyecto incorpora elementos de diseño especializado, incluida la selección como diseño destacado y la ampliación de balcones, antes de los trámites de autorización. La compañía considera que estas mejoras elevan la solidez del plan y pueden apoyar el avance de los procedimientos administrativos. Como la aprobación del plan de ejecución es una etapa clave para que una reconstrucción avance, también se observa el ritmo del proyecto y el interés de los miembros de la asociación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reconstrução de Bukgajwa 6 ganha sinal positivo para aprovação do plano",
-        "excerpt": "A Korea Real Estate Investment & Trust afirmou que Bukgajwa 6, em Seodaemun, Seul, concluiu a assembleia para o plano de execução e espera acelerar licenças com design selecionado e varandas ampliadas.",
-        "body": "A Korea Real Estate Investment & Trust informou que o projeto de reconstrução habitacional do Distrito 6 de Bukgajwa, em Seodaemun-gu, Seul, recebeu um sinal positivo para a aprovação do plano de execução após realizar com sucesso a assembleia ordinária para sua elaboração. O projeto tem como pontos centrais a seleção de design de excelência e soluções especializadas, como a ampliação de varandas, antes das etapas de licenciamento. A empresa avalia que essas melhorias elevam a qualidade do plano e podem ajudar no avanço dos procedimentos administrativos. Como a aprovação do plano de execução é uma etapa importante para a reconstrução seguir adiante, o ritmo do projeto e o interesse dos membros da associação também chamam atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bukgajwa-6-Wiederaufbau mit positivem Signal für Durchführungsplan",
-        "excerpt": "Korea Real Estate Investment & Trust meldete, dass Bukgajwa 6 in Seouls Bezirk Seodaemun die Versammlung zum Durchführungsplan abgeschlossen hat und mit Sonderdesigns Genehmigungen beschleunigen will.",
-        "body": "Korea Real Estate Investment & Trust erklärte, dass das Wohnungswiederaufbauprojekt Bukgajwa District 6 im Seouler Bezirk Seodaemun nach einer erfolgreich abgehaltenen ordentlichen Versammlung zur Aufstellung des Durchführungsplans ein positives Signal für dessen Genehmigung erhalten habe. Im Mittelpunkt stehen spezialisierte Planungselemente wie die Auswahl als ausgezeichnetes Design und die Erweiterung von Balkonen. Das Unternehmen geht davon aus, dass diese Ergänzungen die Qualität des Projektplans erhöhen und die weiteren Verwaltungsverfahren unterstützen können. Da die Genehmigung des Durchführungsplans ein wichtiger Schritt für den Fortgang eines Wiederaufbauprojekts ist, rücken auch Tempo und Interesse der Verbandsmitglieder in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Bukgajwa 6 avance vers l’approbation du plan de reconstruction, selon KOREIT",
-        "excerpt": "Korea Real Estate Investment & Trust a indiqué que Bukgajwa 6, à Seodaemun, Séoul, a tenu l’assemblée de son plan d’exécution, avec design distingué et balcons élargis pour soutenir les autorisations.",
-        "body": "Korea Real Estate Investment & Trust a annoncé que le projet de reconstruction résidentielle de Bukgajwa District 6, dans l’arrondissement de Seodaemun à Séoul, affichait un signal positif pour l’approbation de son plan d’exécution après la tenue réussie de l’assemblée ordinaire destinée à l’établir. Le projet met en avant des éléments de conception spécialisés, notamment une sélection au titre du design d’excellence et l’extension des balcons. L’entreprise estime que ces améliorations renforcent la qualité du plan et peuvent soutenir la progression des démarches administratives. L’approbation du plan d’exécution étant une étape majeure pour faire avancer une opération de reconstruction, le rythme du projet et l’intérêt des membres de l’association sont également suivis. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة تطوير بوكغاجوا 6 تقترب من إشارة إيجابية لاعتماد خطة التنفيذ",
-        "excerpt": "قالت كوريا ريال إستيت إنفستمنت آند ترست إن مشروع بوكغاجوا 6 في سوديمون بسيول أنهى اجتماعه الدوري لخطة التنفيذ، مع تصميم مميز وتوسعة شرفات لدعم تسريع إجراءات الترخيص.",
-        "body": "أعلنت كوريا ريال إستيت إنفستمنت آند ترست أن مشروع إعادة بناء المساكن في منطقة بوكغاجوا السادسة في سوديمون-غو بسيول حصل على إشارة إيجابية لاعتماد خطة تنفيذ المشروع بعد نجاح الاجتماع الدوري المخصص لإعداد الخطة. ويرتكز المشروع قبل إجراءات الترخيص على عناصر تصميم خاصة، منها اختياره ضمن التصميمات المتميزة وتوسعة الشرفات. وترى الشركة أن هذه التحسينات ترفع اكتمال خطة المشروع ويمكن أن تساعد في تقدم الإجراءات الإدارية المقبلة. وبما أن اعتماد خطة التنفيذ يعد بوابة رئيسية لانتقال مشروع إعادة البناء إلى المرحلة التالية، فإن سرعة دفع مشروع بوكغاجوا 6 واهتمام أعضاء الجمعية يحظيان بالمتابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "बुकगाजवा 6 पुनर्निर्माण को कार्यान्वयन योजना मंजूरी के लिए सकारात्मक संकेत",
-        "excerpt": "कोरिया रियल एस्टेट इन्वेस्टमेंट एंड ट्रस्ट ने कहा कि सियोल के सियोदेमुन स्थित बुकगाजवा 6 ने कार्यान्वयन योजना की नियमित बैठक पूरी की, जिसमें उत्कृष्ट डिजाइन और बालकनी विस्तार जैसे विशेष उपाय शामिल हैं।",
-        "body": "कोरिया रियल एस्टेट इन्वेस्टमेंट एंड ट्रस्ट ने बताया कि सियोल के सियोदेमुन-गु में बुकगाजवा जिला 6 आवास पुनर्निर्माण परियोजना ने कार्यान्वयन योजना तैयार करने के लिए नियमित आम बैठक सफलतापूर्वक पूरी की है, जिससे योजना की मंजूरी के लिए सकारात्मक संकेत मिला है। परियोजना में पुनर्निर्माण अनुमति प्रक्रिया से पहले उत्कृष्ट डिजाइन चयन और बालकनी विस्तार जैसे विशेष डिजाइन उपाय लागू किए गए हैं। कंपनी का मानना है कि ये डिजाइन सुधार परियोजना योजना की पूर्णता बढ़ाएंगे और आगे की प्रशासनिक प्रक्रिया को सहारा देंगे। कार्यान्वयन योजना की मंजूरी पुनर्निर्माण परियोजना के अगले चरण में जाने की प्रमुख शर्त है, इसलिए बुकगाजवा 6 की गति और संघ सदस्यों की रुचि पर ध्यान है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi Bukgajwa 6 Mendapat Sinyal Positif untuk Persetujuan Rencana",
-        "excerpt": "Korea Real Estate Investment & Trust menyebut Bukgajwa 6 di Seodaemun, Seoul, telah menyelesaikan rapat rutin rencana pelaksanaan, dengan desain unggulan dan perluasan balkon untuk mempercepat izin.",
-        "body": "Korea Real Estate Investment & Trust menyatakan proyek rekonstruksi perumahan Bukgajwa Distrik 6 di Seodaemun-gu, Seoul, mendapat sinyal positif untuk persetujuan rencana pelaksanaan setelah berhasil menggelar rapat rutin untuk penyusunan rencana tersebut. Menjelang proses perizinan rekonstruksi, proyek ini menerapkan desain khusus, termasuk pemilihan desain unggulan dan perluasan balkon. Perusahaan menilai penyempurnaan desain tersebut dapat meningkatkan kelengkapan rencana proyek dan membantu kelanjutan prosedur administrasi. Karena persetujuan rencana pelaksanaan merupakan tahap penting agar proyek rekonstruksi dapat bergerak ke fase berikutnya, laju Bukgajwa 6 dan perhatian anggota asosiasi turut menjadi sorotan. Sumber: mk.co.kr"
       }
     }
   }
