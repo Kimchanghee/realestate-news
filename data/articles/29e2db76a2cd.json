@@ -1,0 +1,75 @@
+{
+  "id": "29e2db76a2cd",
+  "slug": "공장에-비상상황-동료-빈자리-로봇끼리-메워-척척-해결-797331",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-07T23:42:06.646Z",
+  "updatedAt": "2026-05-07T23:42:06.646Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133880895/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133880895/2",
+  "titleFingerprint": "41bd43a6799cec6f35b62329547345be94b341dc",
+  "dedupKeys": [
+    "29e2db76a2cd54a8da96f0e63bf3180b55664138",
+    "41bd43a6799cec6f35b62329547345be94b341dc",
+    "aecf0ff1d065084d161f0117b6dae479de65b3cb"
+  ],
+  "imageUrl": "/images/articles/29e2db76a2cd.jpg",
+  "i18n": {
+    "ko": {
+      "title": "LG CNS 로봇전환 플랫폼 공개, 공장 비상상황도 로봇끼리 실시간 대응",
+      "excerpt": "LG CNS는 7일 서울 강서구 LG사이언스파크 로봇 시연장에서 RX 플랫폼 ‘피지컬웍스’를 공개하고 로봇이 공정 업무를 실시간 전환하는 미래 공장을 선보였다.",
+      "body": "LG CNS는 7일 서울 강서구 LG사이언스파크 내 로봇 시연장에서 로봇전환(RX) 플랫폼 기반의 미래 공장 시연을 진행했다. 돌발 상황 알림이 울리자 컨베이어벨트 업무를 맡던 4족 보행 로봇은 즉시 현장 점검 구역으로 이동해 계단을 오르내리며 이상 여부를 확인했다. 동시에 종합 관제 시스템은 해당 로봇을 대신할 장비를 찾아 업무를 재배치했고, 쉬고 있던 물류로봇이 물건을 받는 작업을 이어갔다. 이 과정은 사람의 개입 없이 RX 플랫폼으로 이뤄졌다. LG CNS는 약 15분간의 시연에서 모든 공정이 자동화된 다크 팩토리를 넘어, 로봇의 역할을 실시간으로 바꾸는 ‘다이내믹 팩토리’ 개념을 제시했다. 회사는 기자간담회에서 RX를 이끌 플랫폼 ‘피지컬웍스’를 공개하고 2년 내 성과 창출을 목표로 한다고 밝혔다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "LG CNS Unveils Robot Transformation Platform for Real-Time Factory Response",
+      "excerpt": "On May 7 at LG Sciencepark in Seoul, LG CNS showed its Physicalworks RX platform, demonstrating robots that can switch factory tasks in real time without human intervention.",
+      "body": "LG CNS held a robot demonstration on May 7 at its robotics demo site inside LG Sciencepark in Gangseo-gu, Seoul, showing a future factory powered by a robot transformation, or RX, platform. When an emergency alert sounded, a quadruped robot waiting to receive goods from a conveyor belt immediately moved to an inspection area, climbing stairs to check whether there were any problems. At the same time, the integrated control system found another robot to replace it and reassigned the work, allowing an idle logistics robot to continue the receiving task. The process took place without human intervention through the RX platform. In the roughly 15-minute demonstration, LG CNS presented the idea of a “dynamic factory,” which goes beyond a fully automated dark factory by changing robot roles in real time. At the press conference, the company unveiled “Physicalworks,” the platform that will lead RX, and said it aims to produce results within two years. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "LG CNSがロボット転換平台公開、工場の非常時もロボット同士で即応",
+      "excerpt": "LG CNSは7日、ソウル江西区LGサイエンスパークのロボット実演場でRX平台「フィジカルワークス」を公開し、工程業務をリアルタイムで切り替える未来工場を披露した。",
+      "body": "LG CNSは7日、ソウル江西区のLGサイエンスパーク内にあるロボット実演場で、ロボット転換（RX）平台を基盤にした未来工場の実演を行った。突発状況を知らせる音が鳴ると、コンベヤーベルトで物を受け取るため待機していた4足歩行ロボットは、直ちに現場点検が必要な場所へ移動し、階段を上り下りしながら異常の有無を確認した。同時に総合管制システムは、そのロボットを代替できる別のロボットを探して業務を配分し、休止中だった物流ロボットが作業を引き継いだ。この一連の過程は人の介入なしにRX平台で行われた。約15分の実演でLG CNSは、全工程が自動化されたダークファクトリーを超え、ロボットの役割をリアルタイムで変更できる「ダイナミックファクトリー」の概念を示した。同社は記者懇談会でRXを率いる平台「フィジカルワークス」を公開し、2年以内の成果創出を目指すと明らかにした。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "LG CNS发布机器人转换平台，工厂突发情况由机器人实时接力处理",
+      "excerpt": "LG CNS于7日在首尔江西区LG科学园机器人演示场公开RX平台“Physicalworks”，展示机器人实时切换工厂任务的未来工厂模式。",
+      "body": "LG CNS于7日在首尔江西区LG科学园内的机器人演示场，进行了基于机器人转换（RX）平台的未来工厂演示。突发情况提示音响起后，原本在传送带旁等待接收物品的四足行走机器人立即前往需要现场检查的区域，上下楼梯确认是否存在问题。与此同时，综合管制系统寻找可替代该机器人的其他设备并重新分配任务，一台正在休息的物流机器人接手了接收物品的工作。整个过程均由RX平台完成，没有人员介入。LG CNS在约15分钟的演示中提出了“动态工厂”概念，即在所有工序自动化的“黑灯工厂”之上，实现机器人工作内容的实时变更。该公司在记者会上公开了主导RX的平台“Physicalworks”，并表示目标是在两年内取得成果。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "LG CNS presenta plataforma RX para que robots respondan en tiempo real en fábricas",
+      "excerpt": "LG CNS mostró el 7 de mayo en LG Sciencepark, Seúl, su plataforma RX Physicalworks, con robots capaces de cambiar tareas de fábrica en tiempo real sin intervención humana.",
+      "body": "LG CNS realizó el 7 de mayo una demostración de una fábrica futura basada en su plataforma de transformación robótica, o RX, en el área de pruebas de robots de LG Sciencepark, en Gangseo-gu, Seúl. Cuando sonó una alerta de emergencia, un robot cuadrúpedo que esperaba recibir objetos desde una cinta transportadora se desplazó de inmediato a la zona que requería inspección, subiendo y bajando escaleras para comprobar si había problemas. Al mismo tiempo, el sistema integral de control buscó otro robot capaz de reemplazarlo y redistribuyó el trabajo, por lo que un robot logístico que estaba en pausa continuó la tarea. Todo el proceso se realizó mediante la plataforma RX, sin intervención humana. En la demostración, de unos 15 minutos, LG CNS presentó el concepto de “fábrica dinámica”, que va más allá de una dark factory totalmente automatizada al permitir cambiar en tiempo real las funciones de los robots. En la rueda de prensa, la empresa dio a conocer “Physicalworks”, la plataforma que liderará RX, y dijo que busca generar resultados en un plazo de dos años. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "LG CNS revela plataforma RX para resposta em tempo real de robôs na fábrica",
+      "excerpt": "A LG CNS apresentou em 7 de maio, no LG Sciencepark em Seul, a plataforma RX Physicalworks, mostrando robôs que alternam tarefas fabris em tempo real sem intervenção humana.",
+      "body": "A LG CNS realizou em 7 de maio, no espaço de demonstração de robôs dentro do LG Sciencepark, em Gangseo-gu, Seul, uma apresentação de uma fábrica do futuro baseada em uma plataforma de transformação robótica, ou RX. Quando soou um alerta de emergência, um robô quadrúpede que aguardava para receber itens de uma esteira transportadora se deslocou imediatamente para a área que precisava de inspeção, subindo e descendo escadas para verificar se havia problemas. Ao mesmo tempo, o sistema integrado de controle encontrou outro robô para substituí-lo e redistribuiu a tarefa, permitindo que um robô logístico em pausa assumisse o trabalho. Todo o processo ocorreu pela plataforma RX, sem intervenção humana. Na demonstração de cerca de 15 minutos, a LG CNS apresentou o conceito de “fábrica dinâmica”, que vai além da dark factory totalmente automatizada ao permitir a mudança das funções dos robôs em tempo real. Em coletiva, a empresa revelou a plataforma “Physicalworks”, que liderará o RX, e afirmou que pretende gerar resultados em até dois anos. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "LG CNS zeigt RX-Plattform für Roboterreaktion in Fabriken in Echtzeit",
+      "excerpt": "LG CNS präsentierte am 7. Mai im LG Sciencepark in Seoul die RX-Plattform Physicalworks und zeigte, wie Roboter Fabrikaufgaben in Echtzeit ohne menschlichen Eingriff wechseln.",
+      "body": "LG CNS hat am 7. Mai auf dem Robotik-Demogelände im LG Sciencepark in Gangseo-gu, Seoul, eine Zukunftsfabrik auf Basis einer Plattform für Robot Transformation, kurz RX, demonstriert. Als ein Notfallalarm ertönte, verließ ein vierbeiniger Roboter, der an einem Förderband auf Waren wartete, sofort seine Aufgabe und begab sich in den Bereich, der überprüft werden musste. Dort stieg er Treppen hinauf und hinab, um mögliche Probleme zu kontrollieren. Gleichzeitig suchte das integrierte Kontrollsystem einen Ersatzroboter und verteilte die Arbeit neu, sodass ein ruhender Logistikroboter die Warenannahme übernahm. Der gesamte Ablauf erfolgte ohne menschlichen Eingriff über die RX-Plattform. In der rund 15-minütigen Vorführung zeigte LG CNS das Konzept einer „Dynamic Factory“, die über eine vollständig automatisierte Dark Factory hinausgeht, indem Roboterrollen in Echtzeit geändert werden können. Auf der Pressekonferenz stellte das Unternehmen die RX-Plattform „Physicalworks“ vor und erklärte, innerhalb von zwei Jahren Ergebnisse erzielen zu wollen. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "LG CNS dévoile une plateforme RX pour réagir en temps réel dans l’usine",
+      "excerpt": "LG CNS a présenté le 7 mai à LG Sciencepark, à Séoul, sa plateforme RX Physicalworks, montrant des robots capables de changer de tâche en usine en temps réel sans intervention humaine.",
+      "body": "LG CNS a organisé le 7 mai, sur le site de démonstration robotique de LG Sciencepark à Gangseo-gu, Séoul, une présentation d’une usine du futur fondée sur une plateforme de transformation robotique, ou RX. Lorsqu’une alerte d’urgence a retenti, un robot quadrupède qui attendait de recevoir des objets depuis un convoyeur a immédiatement quitté sa tâche pour se rendre dans la zone à inspecter, montant et descendant des escaliers afin de vérifier l’absence de problème. En parallèle, le système de contrôle intégré a trouvé un autre robot pouvant le remplacer et a redistribué le travail, permettant à un robot logistique au repos de reprendre la tâche. Tout le processus s’est déroulé via la plateforme RX, sans intervention humaine. Lors de cette démonstration d’environ 15 minutes, LG CNS a présenté le concept d’« usine dynamique », qui va au-delà de la dark factory entièrement automatisée en permettant de modifier les rôles des robots en temps réel. Lors de la conférence de presse, l’entreprise a dévoilé « Physicalworks », la plateforme appelée à piloter RX, et a indiqué viser des résultats d’ici deux ans. Source : rss.donga.com"
+    },
+    "ar": {
+      "title": "إل جي CNS تكشف منصة RX لتبديل مهام الروبوتات في المصانع فوريا",
+      "excerpt": "عرضت إل جي CNS في 7 مايو داخل LG Sciencepark في سيول منصة Physicalworks للروبوتات، موضحة كيف يمكن للروبوتات تبديل مهام المصنع فوريا دون تدخل بشري.",
+      "body": "أجرت إل جي CNS في 7 مايو عرضا داخل ساحة تجارب الروبوتات في LG Sciencepark بمنطقة غانغسيو في سيول، وقدمت نموذجا لمصنع مستقبلي يعتمد على منصة التحول الروبوتي RX. وعندما صدر تنبيه بوجود حالة طارئة، توقف روبوت رباعي الأرجل كان ينتظر استلام أشياء من سير ناقل، وانتقل فورا إلى منطقة تحتاج إلى فحص ميداني، حيث صعد الدرج ونزله للتحقق من عدم وجود مشكلة. وفي الوقت نفسه، بحث نظام التحكم المتكامل عن روبوت آخر يمكنه الحلول محله وأعاد توزيع العمل، فتولى روبوت لوجستي كان في وضع راحة مهمة الاستلام. جرى كل ذلك عبر منصة RX من دون تدخل بشري. وخلال عرض استغرق نحو 15 دقيقة، طرحت إل جي CNS مفهوم “المصنع الديناميكي”، الذي يتجاوز المصنع المظلم المؤتمت بالكامل عبر تغيير أدوار الروبوتات في الوقت الحقيقي. وكشفت الشركة في مؤتمر صحفي عن منصة “Physicalworks” التي ستقود RX، وقالت إنها تستهدف تحقيق نتائج خلال عامين. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "LG CNS ने RX प्लेटफॉर्म दिखाया, फैक्टरी आपात स्थिति में रोबोट संभालेंगे काम",
+      "excerpt": "LG CNS ने 7 मई को सियोल के LG Sciencepark में RX प्लेटफॉर्म Physicalworks पेश किया, जिसमें रोबोट बिना मानवीय हस्तक्षेप के फैक्टरी कार्य रियल टाइम में बदलते दिखे।",
+      "body": "LG CNS ने 7 मई को सियोल के गांगसियो-गु स्थित LG Sciencepark के रोबोट प्रदर्शन स्थल पर रोबोट ट्रांसफॉर्मेशन, यानी RX, प्लेटफॉर्म पर आधारित भविष्य की फैक्टरी का प्रदर्शन किया। आपात स्थिति का संकेत बजते ही कन्वेयर बेल्ट से सामान लेने के लिए प्रतीक्षा कर रहा चार पैरों वाला रोबोट तुरंत निरीक्षण की जरूरत वाले क्षेत्र में गया और सीढ़ियां चढ़-उतरकर समस्या की जांच की। उसी समय एकीकृत नियंत्रण प्रणाली ने उसकी जगह लेने वाला दूसरा रोबोट खोजा और काम दोबारा बांटा, जिसके बाद विश्राम कर रहा लॉजिस्टिक्स रोबोट सामान लेने का कार्य करने लगा। यह पूरी प्रक्रिया RX प्लेटफॉर्म के जरिए बिना किसी मानवीय हस्तक्षेप के हुई। लगभग 15 मिनट के प्रदर्शन में LG CNS ने “डायनेमिक फैक्टरी” की अवधारणा पेश की, जो सभी प्रक्रियाओं के स्वचालित “डार्क फैक्टरी” मॉडल से आगे जाकर रोबोटों की भूमिकाएं रियल टाइम में बदलती है। कंपनी ने प्रेस कॉन्फ्रेंस में RX को आगे बढ़ाने वाले प्लेटफॉर्म “Physicalworks” का अनावरण किया और कहा कि वह दो वर्षों के भीतर परिणाम हासिल करने का लक्ष्य रखती है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "LG CNS Perkenalkan Platform RX, Robot Pabrik Tanggap Darurat Secara Real Time",
+      "excerpt": "LG CNS pada 7 Mei di LG Sciencepark, Seoul, memperkenalkan platform RX Physicalworks dan menunjukkan robot yang dapat mengganti tugas pabrik secara real time tanpa campur tangan manusia.",
+      "body": "LG CNS pada 7 Mei menggelar demonstrasi pabrik masa depan berbasis platform robot transformation, atau RX, di area demo robot LG Sciencepark, Gangseo-gu, Seoul. Saat bunyi peringatan keadaan darurat terdengar, robot berkaki empat yang sedang menunggu untuk menerima barang dari ban berjalan langsung bergerak ke lokasi yang membutuhkan pemeriksaan, naik turun tangga untuk memastikan tidak ada masalah. Pada saat yang sama, sistem kendali terpadu mencari robot lain yang dapat menggantikannya dan membagi ulang pekerjaan, sehingga robot logistik yang sedang beristirahat mengambil alih tugas penerimaan barang. Seluruh proses berlangsung melalui platform RX tanpa campur tangan manusia. Dalam demonstrasi sekitar 15 menit itu, LG CNS memperkenalkan konsep “dynamic factory”, yaitu pabrik yang melampaui dark factory dengan seluruh proses otomatis karena peran robot dapat diubah secara real time. Dalam konferensi pers, perusahaan memperkenalkan “Physicalworks”, platform yang akan memimpin RX, dan menyatakan menargetkan hasil dalam dua tahun. Sumber: rss.donga.com"
+    }
+  }
+}
