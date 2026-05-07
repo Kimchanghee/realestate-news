@@ -1,5 +1,230 @@
 [
   {
+    "id": "436657d08875",
+    "slug": "서울-아파트-매물-7만건-아래로-서초-송파-이어-용산-집값-상승-397087",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T20:12:09.538Z",
+    "updatedAt": "2026-05-07T20:12:09.538Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882660/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882660/2",
+    "titleFingerprint": "ac710a5c81f169a9de724a567a8e46735254ab6e",
+    "dedupKeys": [
+      "436657d0887561e25a259ea118de54299aed5522",
+      "ac710a5c81f169a9de724a567a8e46735254ab6e",
+      "fd1851749aea5bf77a1be4b7c8a711d728c2cf29"
+    ],
+    "imageUrl": "/images/articles/436657d08875.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 매물 7만건 아래로 감소, 용산까지 집값 상승 전환",
+        "excerpt": "5월 9일 다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매매 매물이 7만 건 아래로 줄며 용산구까지 가격 상승세가 확산됐다.",
+        "body": "5월 9일 다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매매 매물이 7만 건 아래로 내려갔다. 7일 부동산 플랫폼 아실에 따르면 이날 기준 서울 아파트 매물은 6만9554건으로 집계됐다. 매물이 8만80건으로 정점을 찍었던 3월 21일과 비교하면 약 15.1% 감소한 수준이다. 시장에서는 상대적으로 낮은 가격에 나온 다주택자 매물이 사실상 거래를 마쳤고, 팔지 못한 집주인들이 매물을 거둬들이고 있다는 분석이 나온다. 강남권에서는 호가보다 낮은 다주택자 매물이 단지별 1, 2건 수준으로 줄었다. 하락 거래가 주춤하면서 용산구 아파트값도 상승 전환했고, 강남구를 제외한 서울 전 지역 아파트값이 올랐다. 출처: rss.donga.com."
+      },
+      "en": {
+        "title": "Seoul Apartment Listings Fall Below 70,000 as Yongsan Prices Turn Up",
+        "excerpt": "Ahead of the May 9 end of the capital gains tax surcharge suspension for multi-home owners, Seoul apartment listings fell below 70,000 and price gains spread to Yongsan.",
+        "body": "Seoul apartment sale listings fell below 70,000 ahead of the May 9 end of the suspension of the capital gains tax surcharge for multi-home owners. According to real estate platform Asil on the 7th, Seoul apartment listings stood at 69,554 that day. Compared with March 21, when listings peaked at 80,080, the figure was down about 15.1%. Market observers say relatively low-priced listings from multi-home owners have largely been sold, while owners who failed to sell are withdrawing properties from the market. In Seoul’s Gangnam area, below-asking listings from multi-home owners have fallen to only one or two per complex. As declining transactions slowed, apartment prices in Yongsan also turned upward, and prices rose across all Seoul districts except Gangnam. Source: rss.donga.com."
+      },
+      "ja": {
+        "title": "ソウルのマンション売り物件7万件割れ、龍山まで価格上昇に転換",
+        "excerpt": "5月9日の多住宅所有者向け譲渡税重課猶予終了を前に、ソウルのマンション売買物件が7万件を下回り、龍山区まで価格上昇が広がった。",
+        "body": "5月9日に多住宅所有者への譲渡所得税重課猶予が終了するのを前に、ソウルのマンション売買物件数が7万件を下回った。7日、不動産プラットフォームのアシルによると、同日時点のソウルのマンション売り物件は6万9554件だった。物件数が8万80件でピークを付けた3月21日と比べると、約15.1%減少した水準だ。市場では、相対的に低い価格で出された多住宅所有者の物件は事実上取引を終え、売れなかった家主が物件を取り下げているとの見方が出ている。ソウル江南圏では、希望価格を下回る多住宅所有者の物件が団地ごとに1、2件程度まで減った。下落取引が一服し、龍山区のマンション価格も上昇に転じ、江南区を除くソウル全域でマンション価格が上がった。出典: rss.donga.com."
+      },
+      "zh": {
+        "title": "首尔公寓挂牌跌破7万套，龙山房价也转为上涨",
+        "excerpt": "在5月9日多套房持有者转让税重税暂缓到期前，首尔公寓买卖挂牌降至7万套以下，价格上涨扩大至龙山区。",
+        "body": "在5月9日多套房持有者转让税重税暂缓措施到期前，首尔公寓买卖挂牌数量降至7万套以下。房地产平台Asil 7日数据显示，当天首尔公寓挂牌为69554套。与3月21日挂牌达到80080套峰值时相比，减少约15.1%。市场分析认为，相对低价推出的多套房持有者房源实际上已完成交易，未能售出的房东正在撤回挂牌。在首尔江南圈，低于要价的多套房持有者房源已减少到每个小区约1至2套。随着下跌成交放缓，龙山区公寓价格也转为上涨，除江南区外，首尔所有地区公寓价格均上涨。来源: rss.donga.com."
+      },
+      "es": {
+        "title": "Seúl baja de 70.000 anuncios de pisos y Yongsan se suma al alza de precios",
+        "excerpt": "Antes del fin el 9 de mayo de la suspensión del recargo fiscal a multipropietarios, los anuncios de pisos en Seúl bajaron de 70.000 y Yongsan giró al alza.",
+        "body": "Los anuncios de venta de apartamentos en Seúl cayeron por debajo de 70.000 antes del fin, el 9 de mayo, de la suspensión del recargo del impuesto sobre ganancias de capital para propietarios de varias viviendas. Según la plataforma inmobiliaria Asil, el día 7 había 69.554 anuncios de apartamentos en Seúl. Frente al máximo de 80.080 registrado el 21 de marzo, supone una caída de alrededor del 15,1%. En el mercado se analiza que las viviendas de multipropietarios ofrecidas a precios relativamente bajos prácticamente ya se vendieron, mientras que los dueños que no lograron vender están retirando anuncios. En la zona de Gangnam, los anuncios de multipropietarios por debajo del precio pedido se redujeron a uno o dos por complejo. Al frenarse las operaciones a la baja, los precios en Yongsan también pasaron a subir y todos los distritos de Seúl, excepto Gangnam, registraron alzas. Fuente: rss.donga.com."
+      },
+      "pt": {
+        "title": "Ofertas de apartamentos em Seul caem abaixo de 70 mil e Yongsan vira alta",
+        "excerpt": "Antes do fim, em 9 de maio, da suspensão da sobretaxa sobre ganho de capital para múltiplos proprietários, as ofertas em Seul caíram abaixo de 70 mil e Yongsan subiu.",
+        "body": "As ofertas de venda de apartamentos em Seul caíram abaixo de 70 mil antes do fim, em 9 de maio, da suspensão da sobretaxa de imposto sobre ganhos de capital para proprietários de vários imóveis. Segundo a plataforma imobiliária Asil, no dia 7 havia 69.554 ofertas de apartamentos em Seul. Em comparação com 21 de março, quando o volume atingiu o pico de 80.080, a queda foi de cerca de 15,1%. A leitura do mercado é que os imóveis de múltiplos proprietários anunciados a preços relativamente baixos praticamente já foram negociados, enquanto donos que não conseguiram vender estão retirando ofertas. Na região de Gangnam, anúncios abaixo do preço pedido por esses proprietários caíram para um ou dois por complexo. Com a desaceleração das transações em queda, os preços em Yongsan também viraram alta, e todos os distritos de Seul, exceto Gangnam, registraram aumento. Fonte: rss.donga.com."
+      },
+      "de": {
+        "title": "Seouls Wohnungsangebote fallen unter 70.000, auch Yongsan dreht nach oben",
+        "excerpt": "Vor dem Ende der Aussetzung des Steuerzuschlags für Mehrfachbesitzer am 9. Mai sanken Seouls Wohnungsangebote unter 70.000, und Yongsan wechselte ins Plus.",
+        "body": "Die Verkaufsangebote für Apartments in Seoul sind vor dem Ende der Aussetzung des Kapitalertragsteuer-Zuschlags für Mehrfachbesitzer am 9. Mai unter 70.000 gefallen. Nach Angaben der Immobilienplattform Asil lagen die Angebote am 7. bei 69.554. Gegenüber dem Höchststand von 80.080 Angeboten am 21. März entspricht das einem Rückgang von rund 15,1%. Marktbeobachter erklären, relativ günstig angebotene Objekte von Mehrfachbesitzern seien weitgehend verkauft, während Eigentümer ohne Verkaufserfolg ihre Angebote zurückziehen. Im Gangnam-Gebiet sind Angebote solcher Eigentümer unter dem geforderten Preis auf ein bis zwei je Anlage geschrumpft. Da rückläufige Transaktionen nachließen, drehten auch die Apartmentpreise in Yongsan nach oben; außer in Gangnam stiegen die Preise in allen Bezirken Seouls. Quelle: rss.donga.com."
+      },
+      "fr": {
+        "title": "À Séoul, les annonces d’appartements passent sous 70 000 et Yongsan repart à la hausse",
+        "excerpt": "Avant la fin le 9 mai du sursis à la surtaxe sur les plus-values des multipropriétaires, les annonces à Séoul sont passées sous 70 000 et Yongsan a rebondi.",
+        "body": "Les annonces de vente d’appartements à Séoul sont passées sous 70 000 avant la fin, le 9 mai, du sursis à la surtaxe sur les plus-values immobilières des propriétaires de plusieurs logements. Selon la plateforme immobilière Asil, Séoul comptait 69 554 annonces le 7. Par rapport au pic de 80 080 annonces enregistré le 21 mars, cela représente une baisse d’environ 15,1%. Le marché estime que les biens de multipropriétaires proposés à des prix relativement bas ont pour l’essentiel été vendus, tandis que les propriétaires n’ayant pas réussi à vendre retirent leurs annonces. Dans le secteur de Gangnam, ces offres sous le prix demandé sont tombées à un ou deux biens par résidence. Avec le ralentissement des transactions en baisse, les prix des appartements à Yongsan sont aussi repassés en hausse, et tous les arrondissements de Séoul sauf Gangnam ont progressé. Source: rss.donga.com."
+      },
+      "ar": {
+        "title": "معروض شقق سيول يهبط دون 70 ألفا وأسعار يونغسان تتحول للصعود",
+        "excerpt": "قبيل انتهاء تعليق الضريبة الإضافية على أرباح بيع العقارات لملاك المنازل المتعددة في 9 مايو، تراجع معروض شقق سيول دون 70 ألفا وامتد الصعود إلى يونغسان.",
+        "body": "تراجع عدد شقق سيول المعروضة للبيع إلى أقل من 70 ألفا قبيل انتهاء تعليق الضريبة الإضافية على أرباح البيع لملاك المنازل المتعددة في 9 مايو. ووفقا لمنصة العقارات Asil في السابع من الشهر، بلغ عدد المعروضات في سيول 69,554 شقة. ومقارنة بذروة 80,080 شقة المسجلة في 21 مارس، فإن ذلك يمثل انخفاضا بنحو 15.1%. ويرى السوق أن الشقق التي طرحها ملاك متعددون بأسعار منخفضة نسبيا أتمت صفقاتها فعليا، بينما يسحب الملاك الذين لم ينجحوا في البيع معروضاتهم. وفي منطقة غانغنام، تراجعت معروضات هؤلاء الملاك دون سعر الطلب إلى شقة أو شقتين فقط في كل مجمع. ومع تباطؤ الصفقات الهابطة، تحولت أسعار شقق يونغسان إلى الارتفاع أيضا، وصعدت أسعار الشقق في جميع مناطق سيول باستثناء غانغنام. المصدر: rss.donga.com."
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट लिस्टिंग 70 हजार से नीचे, योंगसान में भी कीमतें चढ़ीं",
+        "excerpt": "9 मई को बहु-घर मालिकों पर पूंजीगत लाभ कर अधिभार स्थगन खत्म होने से पहले सियोल में अपार्टमेंट लिस्टिंग 70 हजार से नीचे आई और योंगसान में कीमतें बढ़ीं।",
+        "body": "9 मई को बहु-घर मालिकों के लिए पूंजीगत लाभ कर अधिभार की स्थगन अवधि समाप्त होने से पहले सियोल में बिक्री के लिए उपलब्ध अपार्टमेंट लिस्टिंग 70 हजार से नीचे आ गई। रियल एस्टेट प्लेटफॉर्म Asil के अनुसार, 7 तारीख को सियोल अपार्टमेंट लिस्टिंग 69,554 रही। 21 मार्च को 80,080 की चोटी की तुलना में यह करीब 15.1% कम है। बाजार का आकलन है कि अपेक्षाकृत कम कीमत पर रखी गई बहु-घर मालिकों की संपत्तियां लगभग बिक चुकी हैं, जबकि जो मालिक बेच नहीं पाए वे लिस्टिंग वापस ले रहे हैं। सियोल के गंगनम क्षेत्र में मांगी गई कीमत से कम वाली ऐसी लिस्टिंग प्रति कॉम्प्लेक्स 1 या 2 तक घट गई है। गिरती कीमत वाले सौदे धीमे पड़ने से योंगसान अपार्टमेंट कीमतें भी बढ़त में लौट आईं, और गंगनम को छोड़कर सियोल के सभी क्षेत्रों में अपार्टमेंट कीमतें बढ़ीं। स्रोत: rss.donga.com."
+      },
+      "id": {
+        "title": "Listing Apartemen Seoul Turun di Bawah 70 Ribu, Harga Yongsan Ikut Naik",
+        "excerpt": "Menjelang berakhirnya penangguhan pajak tambahan capital gain bagi pemilik banyak rumah pada 9 Mei, listing apartemen Seoul turun di bawah 70 ribu dan Yongsan menguat.",
+        "body": "Listing penjualan apartemen di Seoul turun di bawah 70 ribu menjelang berakhirnya penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah pada 9 Mei. Menurut platform properti Asil pada tanggal 7, listing apartemen Seoul tercatat 69.554 unit. Dibandingkan puncak 80.080 unit pada 21 Maret, jumlah itu turun sekitar 15,1%. Pasar menilai unit milik pemilik banyak rumah yang ditawarkan dengan harga relatif rendah pada dasarnya sudah terjual, sementara pemilik yang belum berhasil menjual menarik kembali listing mereka. Di kawasan Gangnam, listing dari pemilik banyak rumah di bawah harga penawaran tinggal satu atau dua unit per kompleks. Saat transaksi turun mulai tertahan, harga apartemen di Yongsan juga berbalik naik, dan harga apartemen di seluruh Seoul kecuali Gangnam ikut meningkat. Sumber: rss.donga.com."
+      }
+    }
+  },
+  {
+    "id": "a5a0e80a9c01",
+    "slug": "2주택자-10년-보유-옥수삼성-12억-차익땐-양도세-4억8억-632637",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T20:11:00.361Z",
+    "updatedAt": "2026-05-07T20:11:00.361Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882656/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882656/2",
+    "titleFingerprint": "6f02dec0e1516d7f0c6d43619a25be44d8f994dc",
+    "dedupKeys": [
+      "a5a0e80a9c0174e82caaf5f0efd16371dad413e7",
+      "6f02dec0e1516d7f0c6d43619a25be44d8f994dc",
+      "88e1a43b6a4818ad97ad1fa05743d31b85ae9924"
+    ],
+    "imageUrl": "/images/articles/a5a0e80a9c01.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 10일부터 재개, 옥수삼성 12억 차익 세금 8억 가능",
+        "excerpt": "이달 9일 다주택자 양도소득세 중과 유예가 종료되며 10일부터 서울 등 조정대상지역 주택 매도 시 2주택자는 20%포인트, 3주택 이상은 30%포인트 중과된다.",
+        "body": "이달 9일 다주택자 양도소득세 중과 유예 조치가 끝나면서 10일부터 서울 전역과 경기 일부 조정대상지역에서 다주택자가 주택을 팔 경우 세 부담이 크게 늘어난다. 7일 재정경제부에 따르면 기본세율 6~45%에 2주택자는 20%포인트, 3주택 이상 보유자는 30%포인트가 더해진다. 3주택 이상 보유자가 집을 팔면 지방소득세를 포함한 최고세율은 82.5%까지 오른다. 장기보유특별공제도 적용받지 못한다. 예컨대 2주택자가 10년 보유한 서울 옥수삼성 아파트에서 12억원 차익을 얻으면 양도세가 4억원대에서 8억원대로 늘 수 있다. 정부는 막판 매물 유도를 위해 토요일인 9일에도 서울 25개 구청과 경기 12곳에서 토지거래허가 신청을 받게 했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Multiple-home capital gains tax surcharge resumes on the 10th, Seoul sellers face steep rise",
+        "excerpt": "After the temporary suspension of the capital gains tax surcharge for multiple-home owners ends on the 9th, sellers in regulated areas such as Seoul face added rates from the 10th.",
+        "body": "The temporary suspension of the capital gains tax surcharge for multiple-home owners ends on the 9th of this month, increasing the tax burden from the 10th for sellers in all of Seoul and parts of Gyeonggi designated as regulated areas. According to the Ministry of Finance and Economy on the 7th, the basic rate of 6% to 45% will be increased by 20 percentage points for owners of two homes and by 30 percentage points for owners of three or more homes. For those with three or more homes, the top rate can reach 82.5% including local income tax. The long-term holding special deduction will also not apply. For example, if a two-home owner earns a 1.2 billion won gain on an Oksu Samsung apartment held for 10 years, the capital gains tax could rise from the 400 million won range to the 800 million won range. The government said Seoul’s 25 district offices and 12 offices in Gyeonggi would accept land transaction permit applications on Saturday the 9th to encourage last-minute listings. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課が10日再開、ソウル売却で税負担急増",
+        "excerpt": "今月9日に多住宅保有者への譲渡所得税重課猶予が終了し、10日以降はソウルなど調整対象地域で2住宅は20ポイント、3住宅以上は30ポイント加算される。",
+        "body": "今月9日に多住宅保有者への譲渡所得税重課猶予措置が終了し、10日からソウル全域と京畿道の一部調整対象地域で住宅を売却する多住宅保有者の税負担が大きく増える。7日、財政経済部によると、基本税率6~45%に対し、2住宅保有者は20ポイント、3住宅以上の保有者は30ポイントが上乗せされる。3住宅以上の保有者が売却する場合、地方所得税を含む最高税率は82.5%まで上がる。長期保有特別控除も受けられない。例えば2住宅保有者が10年保有したソウルのオクスサムスンマンションで12億ウォンの差益を得ると、譲渡税は4億ウォン台から8億ウォン台に増える可能性がある。政府は駆け込み売却を促すため、土曜日の9日にもソウル25区庁と京畿12カ所で土地取引許可申請を受け付けるようにした。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "多套房业主转让税加征10日起恢复，首尔卖房税负或大增",
+        "excerpt": "本月9日多套房业主资本利得税加征暂缓措施结束后，10日起在首尔等调整对象地区出售住房，二套加征20个百分点，三套及以上加征30个百分点。",
+        "body": "本月9日，多套房业主资本利得税加征暂缓措施结束，10日起在首尔全域和京畿部分调整对象地区出售住房的多套房业主税负将明显增加。财政经济部7日表示，在6%至45%的基本税率基础上，二套房业主加征20个百分点，三套及以上业主加征30个百分点。三套及以上业主出售住房时，含地方所得税在内的最高税率可升至82.5%。长期持有特别扣除也无法适用。例如，二套房业主持有首尔玉水三星公寓10年并取得12亿韩元差价时，转让税可能从4亿韩元区间增至8亿韩元区间。政府为促使多套房业主最后阶段增加挂牌，要求首尔25个区厅和京畿12处市厅、区厅在周六9日也受理土地交易许可申请。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Recargo al impuesto por plusvalías de multipropietarios vuelve el día 10 en Seúl",
+        "excerpt": "Tras terminar el día 9 la suspensión del recargo al impuesto sobre ganancias de capital para multipropietarios, desde el 10 se aplicarán recargos en Seúl y otras zonas reguladas.",
+        "body": "La suspensión del recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas termina el día 9 de este mes, por lo que desde el día 10 aumentará la carga fiscal para quienes vendan casas en todo Seúl y en algunas zonas reguladas de Gyeonggi. Según el Ministerio de Finanzas y Economía el día 7, al tipo básico del 6% al 45% se añadirán 20 puntos porcentuales para propietarios de dos viviendas y 30 puntos para quienes tengan tres o más. En este último caso, el tipo máximo, incluido el impuesto local sobre la renta, puede llegar al 82,5%. Tampoco se aplicará la deducción especial por tenencia prolongada. Por ejemplo, si un propietario de dos viviendas obtiene una ganancia de 1.200 millones de wones por un apartamento Oksu Samsung mantenido 10 años, el impuesto podría subir de unos 400 millones a unos 800 millones de wones. El Gobierno hizo que las 25 oficinas distritales de Seúl y 12 oficinas de Gyeonggi acepten solicitudes de permiso de transacción de tierras también el sábado 9. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganho de capital de múltiplos imóveis volta no dia 10 em Seul",
+        "excerpt": "Com o fim da suspensão da sobretaxa do imposto sobre ganhos de capital para donos de vários imóveis no dia 9, vendas em Seul e áreas reguladas terão acréscimos a partir do dia 10.",
+        "body": "A suspensão da sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplos imóveis termina no dia 9 deste mês, elevando a carga tributária a partir do dia 10 para vendas em toda Seul e em partes reguladas de Gyeonggi. Segundo o Ministério das Finanças e Economia no dia 7, à alíquota básica de 6% a 45% serão somados 20 pontos percentuais para donos de duas casas e 30 pontos para quem possui três ou mais. Para proprietários de três ou mais imóveis, a alíquota máxima, incluindo o imposto local sobre a renda, pode chegar a 82,5%. A dedução especial por posse de longo prazo também não será aplicada. Por exemplo, se um proprietário de duas casas obtiver ganho de 1,2 bilhão de won em um apartamento Oksu Samsung mantido por 10 anos, o imposto pode subir da faixa de 400 milhões para a de 800 milhões de won. O governo fez com que os 25 escritórios distritais de Seul e 12 em Gyeonggi recebam pedidos de licença de transação de terras também no sábado, dia 9. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Zuschlag auf Veräußerungssteuer für Mehrfach-Eigentümer gilt ab dem 10. wieder",
+        "excerpt": "Nach Ende der Aussetzung am 9. wird ab dem 10. beim Verkauf in regulierten Gebieten wie Seoul ein Zuschlag von 20 Prozentpunkten für zwei Wohnungen und 30 Punkten für drei oder mehr fällig.",
+        "body": "Die Aussetzung des Zuschlags auf die Kapitalertragsteuer für Eigentümer mehrerer Wohnungen endet am 9. dieses Monats. Ab dem 10. steigt damit die Steuerlast bei Verkäufen in ganz Seoul und in bestimmten regulierten Gebieten der Provinz Gyeonggi deutlich. Nach Angaben des Ministeriums für Finanzen und Wirtschaft vom 7. wird auf den Grundsteuersatz von 6% bis 45% bei zwei Wohnungen ein Zuschlag von 20 Prozentpunkten und bei drei oder mehr Wohnungen ein Zuschlag von 30 Prozentpunkten erhoben. Bei drei oder mehr Wohnungen kann der Spitzensatz einschließlich lokaler Einkommensteuer auf 82,5% steigen. Der Sonderabzug für langfristiges Halten entfällt ebenfalls. Erzielt etwa ein Eigentümer von zwei Wohnungen nach zehnjährigem Halten einer Oksu-Samsung-Wohnung in Seoul einen Gewinn von 1,2 Milliarden Won, kann die Steuer von rund 400 Millionen auf rund 800 Millionen Won steigen. Um letzte Verkäufe zu fördern, ließ die Regierung auch am Samstag, dem 9., in 25 Bezirksämtern Seouls und 12 Ämtern in Gyeonggi Anträge auf Landtransaktionsgenehmigung annehmen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La surtaxe sur les plus-values des multipropriétaires reprend le 10 à Séoul",
+        "excerpt": "Après la fin du sursis le 9, les ventes de logements par multipropriétaires dans les zones réglementées comme Séoul seront majorées de 20 ou 30 points dès le 10.",
+        "body": "Le sursis à la surtaxe sur l’impôt sur les plus-values immobilières des propriétaires de plusieurs logements prend fin le 9 de ce mois. À partir du 10, la charge fiscale augmentera pour les ventes dans tout Séoul et dans certaines zones réglementées de la province de Gyeonggi. Selon le ministère des Finances et de l’Économie le 7, le taux de base de 6% à 45% sera majoré de 20 points pour les propriétaires de deux logements et de 30 points pour ceux qui en détiennent trois ou plus. Pour ces derniers, le taux maximal, impôt local sur le revenu compris, peut atteindre 82,5%. La déduction spéciale pour détention longue ne s’appliquera pas non plus. Par exemple, si un propriétaire de deux logements réalise 1,2 milliard de wons de gain sur un appartement Oksu Samsung détenu 10 ans, l’impôt pourrait passer d’environ 400 millions à environ 800 millions de wons. Pour encourager les mises en vente de dernière minute, le gouvernement a fait accepter les demandes de permis de transaction foncière le samedi 9 dans les 25 bureaux d’arrondissement de Séoul et 12 bureaux de Gyeonggi. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "استئناف زيادة ضريبة أرباح بيع المنازل المتعددة في سيول من 10 الشهر",
+        "excerpt": "بعد انتهاء تعليق زيادة ضريبة الأرباح الرأسمالية على مالكي عدة مساكن في 9 الشهر، تطبق من 10 الشهر زيادات 20 نقطة لملاك منزلين و30 نقطة لثلاثة منازل أو أكثر في سيول ومناطق منظمة.",
+        "body": "ينتهي في 9 هذا الشهر تعليق زيادة ضريبة الأرباح الرأسمالية على مالكي عدة مساكن، لترتفع الأعباء الضريبية من 10 الشهر عند بيع المنازل في كامل سيول وبعض المناطق المنظمة في غيونغي. وبحسب وزارة المالية والاقتصاد في 7 الشهر، ستضاف إلى المعدل الأساسي البالغ 6% إلى 45% زيادة قدرها 20 نقطة مئوية لمالكي منزلين و30 نقطة مئوية لمن يملكون ثلاثة منازل أو أكثر. وعند بيع مالكي ثلاثة منازل أو أكثر، قد يصل المعدل الأقصى شاملا ضريبة الدخل المحلية إلى 82.5%. كما لا يطبق الخصم الخاص للحيازة الطويلة. فمثلا، إذا حقق مالك منزلين ربحا قدره 1.2 مليار وون من شقة أوكسو سامسونغ في سيول احتفظ بها 10 سنوات، فقد ترتفع الضريبة من نطاق 400 مليون وون إلى نطاق 800 مليون وون. ولتشجيع طرح المعروض في اللحظة الأخيرة، جعلت الحكومة مكاتب الأحياء الـ25 في سيول و12 مكتبا في غيونغي تستقبل طلبات تصاريح معاملات الأراضي يوم السبت 9 أيضا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कई घर मालिकों पर पूंजीगत लाभ कर अधिभार 10 तारीख से फिर लागू",
+        "excerpt": "इस महीने 9 तारीख को कई घर मालिकों के पूंजीगत लाभ कर अधिभार की मोहलत समाप्त होने के बाद, 10 तारीख से सियोल जैसे विनियमित क्षेत्रों में बिक्री पर 20 या 30 प्रतिशत अंक अधिभार लगेगा।",
+        "body": "इस महीने 9 तारीख को कई घर मालिकों पर पूंजीगत लाभ कर अधिभार की अस्थायी मोहलत समाप्त हो रही है, इसलिए 10 तारीख से पूरे सियोल और ग्योंगगी के कुछ विनियमित क्षेत्रों में घर बेचने वालों पर कर बोझ काफी बढ़ेगा। वित्त और अर्थव्यवस्था मंत्रालय ने 7 तारीख को बताया कि 6% से 45% की मूल दर पर दो घर रखने वालों के लिए 20 प्रतिशत अंक और तीन या अधिक घर रखने वालों के लिए 30 प्रतिशत अंक जोड़े जाएंगे। तीन या अधिक घरों के मालिक के लिए स्थानीय आयकर सहित अधिकतम दर 82.5% तक पहुंच सकती है। दीर्घकालिक होल्डिंग विशेष कटौती भी लागू नहीं होगी। उदाहरण के लिए, यदि दो घरों का मालिक 10 साल रखे गए सियोल के ओक्सू सैमसंग अपार्टमेंट पर 1.2 अरब वोन का लाभ कमाता है, तो पूंजीगत लाभ कर 400 मिलियन वोन के स्तर से 800 मिलियन वोन के स्तर तक बढ़ सकता है। सरकार ने अंतिम समय में बिक्री बढ़ाने के लिए शनिवार 9 तारीख को भी सियोल के 25 जिला कार्यालयों और ग्योंगगी के 12 कार्यालयों में भूमि लेनदेन अनुमति आवेदन स्वीकार कराने की व्यवस्था की। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pajak capital gain pemilik banyak rumah kembali naik mulai tanggal 10",
+        "excerpt": "Setelah penangguhan pajak tambahan capital gain bagi pemilik banyak rumah berakhir pada tanggal 9, mulai tanggal 10 penjualan di Seoul dan area terkendali dikenai tambahan 20 atau 30 poin persentase.",
+        "body": "Penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah berakhir pada tanggal 9 bulan ini, sehingga mulai tanggal 10 beban pajak untuk penjualan rumah di seluruh Seoul dan sebagian wilayah terkendali di Gyeonggi akan meningkat. Menurut Kementerian Keuangan dan Ekonomi pada tanggal 7, tarif dasar 6% hingga 45% akan ditambah 20 poin persentase untuk pemilik dua rumah dan 30 poin persentase untuk pemilik tiga rumah atau lebih. Untuk pemilik tiga rumah atau lebih, tarif tertinggi termasuk pajak penghasilan daerah dapat mencapai 82,5%. Pengurangan khusus untuk kepemilikan jangka panjang juga tidak berlaku. Misalnya, jika pemilik dua rumah memperoleh keuntungan 1,2 miliar won dari apartemen Oksu Samsung di Seoul yang dimiliki selama 10 tahun, pajak capital gain dapat naik dari kisaran 400 juta won menjadi kisaran 800 juta won. Untuk mendorong pasokan terakhir, pemerintah membuat 25 kantor distrik Seoul dan 12 kantor di Gyeonggi menerima permohonan izin transaksi tanah juga pada Sabtu tanggal 9. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "71511140b3b9",
+    "slug": "영업익-현금으로-나눠달라-한국식-성과급에-흔들리는-기업들-936584",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T20:09:39.995Z",
+    "updatedAt": "2026-05-07T20:09:39.995Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882936/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882936/2",
+    "titleFingerprint": "f2ed2c26024926c86dc78850325312a73a9cef0b",
+    "dedupKeys": [
+      "71511140b3b9864b0597ca928558dac1fd0f53fa",
+      "f2ed2c26024926c86dc78850325312a73a9cef0b",
+      "5543394213db9574c213ea22c8628e1eba8485e6"
+    ],
+    "imageUrl": "/images/articles/71511140b3b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "영업이익 연동 성과급 요구 확산, 삼성전자 등 대기업 노사 갈등 고조",
+        "excerpt": "7일 재계에 따르면 삼성전자·기아차 등 주요 대기업 노조가 영업이익 또는 순이익의 일정 비율을 성과급으로 요구하면서 노사 갈등과 정부 중재 움직임이 커지고 있다.",
+        "body": "국내 주요 대기업 노동조합이 7일 현재 영업이익 또는 순이익의 일정 비율을 성과급으로 요구하면서 기업 노사 갈등이 고조되고 있다. 재계에 따르면 삼성전자 노조는 영업이익의 15%, 기아차 30%, 삼성바이오로직스 20%, LG유플러스 30%를 요구하고 있으며 현대자동차 노조는 순이익의 30%를 성과급으로 요구하고 있다. 이미 영업이익의 10%를 지급하기로 한 SK하이닉스를 포함해 이들 6개 기업의 올해 영업이익 및 순이익 컨센서스 합계는 612조 원 수준이다. 노조 요구대로라면 성과급 지급액은 약 83조 원에 이른다. 개인 성과보다 조직 전체 이익 배분에 무게를 둔 한국식 성과급 제도가 초호황과 맞물리며 갈등을 키운다는 지적도 나온다. 삼성전자 노조의 파업 예고일이 2주 앞으로 다가오면서 정부도 중재에 나섰다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Profit-Linked Bonus Demands Spread as Major Korean Firms Face Labor Tensions",
+        "excerpt": "According to business circles on the 7th, unions at Samsung Electronics, Kia and other major Korean companies are demanding bonuses tied to operating or net profit, deepening labor-management conflict.",
+        "body": "Labor unions at major South Korean companies are escalating disputes as of the 7th by demanding that a fixed share of operating profit or net profit be paid as bonuses. According to business circles, Samsung Electronics’ union is asking for 15% of operating profit, Kia’s for 30%, Samsung Biologics’ for 20%, and LG Uplus’ for 30%, while Hyundai Motor’s union is demanding 30% of net profit. Including SK hynix, which has already agreed to pay 10% of operating profit, the combined 2026 operating profit and net profit consensus for these six companies is about 612 trillion won. If the unions’ demands are met, bonus payments alone would reach roughly 83 trillion won. Critics say the Korean-style bonus system, which emphasizes sharing companywide profits over individual performance, is intensifying conflict amid an unprecedented boom. With Samsung Electronics’ union strike notice date two weeks away, the government has moved to mediate. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "営業利益連動の成果給要求が拡大、サムスン電子など大企業で労使対立",
+        "excerpt": "財界によると7日、サムスン電子や起亜など韓国主要大企業の労組が営業利益または純利益の一定割合を成果給として求め、労使対立と政府の仲裁の動きが広がっている。",
+        "body": "韓国の主要大企業の労働組合が7日現在、営業利益または純利益の一定割合を成果給として支給するよう求め、労使対立が高まっている。財界によると、サムスン電子労組は営業利益の15%、起亜は30%、サムスンバイオロジクスは20%、LGユープラスは30%を要求しており、現代自動車労組は純利益の30%を成果給として求めている。すでに営業利益の10%を支給することにしたSKハイニックスを含め、これら6社の今年の営業利益および純利益コンセンサス合計は約612兆ウォン規模だ。労組の要求通りなら成果給だけで約83兆ウォンを支払うことになる。個人の実績より組織全体の利益配分を重視する韓国式成果給制度が、前例のない好況と重なり対立を広げているとの指摘もある。サムスン電子労組のスト予告日が2週間後に迫り、政府も仲裁に乗り出した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "营业利润挂钩奖金诉求扩散，三星电子等韩国大企业劳资矛盾升温",
+        "excerpt": "据韩国经济界7日消息，三星电子、起亚等主要大企业工会要求按营业利润或净利润一定比例发放奖金，劳资矛盾加剧，政府也开始介入调解。",
+        "body": "截至7日，韩国主要大企业工会要求将营业利润或净利润的一定比例作为绩效奖金发放，企业劳资矛盾正在升温。据经济界消息，三星电子工会要求营业利润的15%，起亚要求30%，三星生物制剂要求20%，LG U+要求30%，现代汽车工会则要求净利润的30%作为绩效奖金。加上已决定支付营业利润10%的SK海力士，这6家企业今年营业利润及净利润市场一致预期合计约为612万亿韩元。若按工会要求执行，仅绩效奖金就将达到约83万亿韩元。有观点指出，重视整体组织利润分配、而非个人实际业绩的韩式绩效奖金制度，在前所未有的超级景气中放大了冲突。三星电子工会预告罢工日期仅剩两周，政府也已出面调解。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Crece la demanda de bonos ligados a ganancias y sube la tensión laboral en Corea",
+        "excerpt": "Según círculos empresariales el día 7, sindicatos de Samsung Electronics, Kia y otras grandes compañías surcoreanas exigen bonos vinculados a ganancias operativas o netas, elevando el conflicto laboral.",
+        "body": "Los sindicatos de grandes empresas surcoreanas intensifican el conflicto laboral al exigir, al día 7, que una parte fija de las ganancias operativas o netas se pague como bono por desempeño. Según círculos empresariales, el sindicato de Samsung Electronics pide el 15% de la ganancia operativa, Kia el 30%, Samsung Biologics el 20% y LG Uplus el 30%, mientras que el sindicato de Hyundai Motor exige el 30% de la ganancia neta. Incluida SK hynix, que ya decidió pagar el 10% de la ganancia operativa, el consenso de ganancias operativas y netas de estas seis empresas para este año suma cerca de 612 billones de wones. Si se aceptan las demandas sindicales, solo los bonos alcanzarían unos 83 billones de wones. Se señala que el sistema coreano de bonos, centrado en repartir beneficios de toda la organización más que en el desempeño individual, agrava el conflicto en medio de una bonanza sin precedentes. Con la huelga anunciada por el sindicato de Samsung Electronics a dos semanas, el gobierno intervino para mediar. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Bônus ligados ao lucro avançam e elevam tensão trabalhista em grandes empresas coreanas",
+        "excerpt": "Segundo o setor empresarial no dia 7, sindicatos da Samsung Electronics, Kia e outras grandes companhias sul-coreanas pedem bônus atrelados ao lucro operacional ou líquido, ampliando conflitos trabalhistas.",
+        "body": "Sindicatos de grandes empresas da Coreia do Sul intensificam, no dia 7, conflitos trabalhistas ao exigir que uma parcela fixa do lucro operacional ou líquido seja paga como bônus por desempenho. Segundo o setor empresarial, o sindicato da Samsung Electronics pede 15% do lucro operacional, o da Kia 30%, o da Samsung Biologics 20% e o da LG Uplus 30%, enquanto o sindicato da Hyundai Motor exige 30% do lucro líquido. Incluindo a SK hynix, que já decidiu pagar 10% do lucro operacional, o consenso de lucro operacional e líquido dessas seis empresas para este ano soma cerca de 612 trilhões de wones. Se as demandas sindicais forem aceitas, os bônus chegariam a aproximadamente 83 trilhões de wones. Há críticas de que o modelo coreano de bônus, focado na distribuição do lucro de toda a organização mais do que no desempenho individual, amplia o conflito em meio a uma superexpansão sem precedentes. Com a data de greve anunciada pelo sindicato da Samsung Electronics a duas semanas, o governo passou a mediar. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Gewinngekoppelte Boni verschärfen Arbeitskonflikte bei Koreas Großkonzernen",
+        "excerpt": "Laut Wirtschaftskreisen fordern Gewerkschaften von Samsung Electronics, Kia und weiteren südkoreanischen Großunternehmen am 7. Boni nach Betriebs- oder Nettogewinn, wodurch Konflikte und Vermittlung zunehmen.",
+        "body": "Gewerkschaften großer südkoreanischer Unternehmen verschärfen am 7. die Arbeitskonflikte, indem sie verlangen, dass ein fester Anteil des Betriebs- oder Nettogewinns als Leistungsbonus ausgezahlt wird. Laut Wirtschaftskreisen fordert die Gewerkschaft von Samsung Electronics 15% des Betriebsgewinns, Kia 30%, Samsung Biologics 20% und LG Uplus 30%; die Gewerkschaft von Hyundai Motor verlangt 30% des Nettogewinns. Einschließlich SK hynix, das bereits 10% des Betriebsgewinns zahlen will, liegt der Konsens für Betriebs- und Nettogewinn dieser sechs Unternehmen in diesem Jahr bei rund 612 Billionen Won. Würden die Forderungen erfüllt, beliefen sich allein die Boni auf etwa 83 Billionen Won. Kritiker sehen im koreanischen Bonussystem, das stärker auf die Verteilung des Gesamtgewinns als auf individuelle Leistung setzt, einen Konflikttreiber inmitten einer beispiellosen Hochkonjunktur. Da der von der Samsung-Electronics-Gewerkschaft angekündigte Streiktermin in zwei Wochen liegt, vermittelt nun auch die Regierung. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les primes liées aux profits attisent les conflits dans les grands groupes coréens",
+        "excerpt": "Selon les milieux économiques le 7, les syndicats de Samsung Electronics, Kia et d’autres grands groupes sud-coréens réclament des primes indexées sur le bénéfice opérationnel ou net, accentuant les tensions.",
+        "body": "Les syndicats de grands groupes sud-coréens accentuent les conflits sociaux, le 7, en demandant qu’une part fixe du bénéfice opérationnel ou net soit versée en primes de performance. Selon les milieux économiques, le syndicat de Samsung Electronics réclame 15% du bénéfice opérationnel, celui de Kia 30%, Samsung Biologics 20% et LG Uplus 30%, tandis que le syndicat de Hyundai Motor demande 30% du bénéfice net. En incluant SK hynix, qui a déjà décidé de verser 10% du bénéfice opérationnel, le consensus de bénéfice opérationnel et net de ces six entreprises pour cette année atteint environ 612 billions de wons. Si les demandes syndicales sont acceptées, les seules primes représenteraient près de 83 billions de wons. Des critiques estiment que le système coréen de primes, centré sur la répartition des profits de l’ensemble de l’organisation plutôt que sur la performance individuelle, nourrit les tensions dans une conjoncture exceptionnellement favorable. À deux semaines de la date de grève annoncée par le syndicat de Samsung Electronics, le gouvernement intervient comme médiateur. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "مطالب المكافآت المرتبطة بالأرباح تزيد توتر العمل في كبرى الشركات الكورية",
+        "excerpt": "بحسب أوساط الأعمال في اليوم السابع، تطالب نقابات سامسونغ إلكترونيكس وكيا وشركات كورية كبرى أخرى بمكافآت مرتبطة بالربح التشغيلي أو الصافي، ما يزيد الخلافات ويدفع الحكومة للوساطة.",
+        "body": "تتصاعد الخلافات العمالية في كبرى الشركات الكورية الجنوبية حتى اليوم السابع، مع مطالبة النقابات بدفع نسبة محددة من الربح التشغيلي أو صافي الربح كمكافآت أداء. وبحسب أوساط الأعمال، تطالب نقابة سامسونغ إلكترونيكس بـ15% من الربح التشغيلي، وكيا بـ30%، وسامسونغ بايولوجيكس بـ20%، وLG Uplus بـ30%، بينما تطالب نقابة هيونداي موتور بـ30% من صافي الربح. ومع إدراج SK hynix، التي قررت بالفعل دفع 10% من الربح التشغيلي، يبلغ إجمالي توقعات الربح التشغيلي والصافي لهذه الشركات الست هذا العام نحو 612 تريليون وون. وإذا نُفذت مطالب النقابات، فستصل المكافآت وحدها إلى نحو 83 تريليون وون. وتشير انتقادات إلى أن نظام المكافآت الكوري، الذي يركز على توزيع أرباح المؤسسة كلها أكثر من الأداء الفردي، يزيد حدة النزاع مع طفرة غير مسبوقة. ومع اقتراب موعد الإضراب الذي أعلنته نقابة سامسونغ إلكترونيكس بعد أسبوعين، تدخلت الحكومة للوساطة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "मुनाफे से जुड़े बोनस की मांग बढ़ी, कोरियाई बड़ी कंपनियों में श्रम तनाव तेज",
+        "excerpt": "व्यावसायिक जगत के अनुसार 7 तारीख को Samsung Electronics, Kia और अन्य बड़ी दक्षिण कोरियाई कंपनियों के यूनियन परिचालन या शुद्ध लाभ से जुड़े बोनस की मांग कर रहे हैं, जिससे विवाद बढ़ रहा है।",
+        "body": "दक्षिण कोरिया की प्रमुख बड़ी कंपनियों के श्रमिक यूनियन 7 तारीख तक परिचालन लाभ या शुद्ध लाभ का निश्चित हिस्सा प्रदर्शन बोनस के रूप में मांग रहे हैं, जिससे श्रम-प्रबंधन विवाद तेज हो रहा है। व्यावसायिक जगत के अनुसार Samsung Electronics का यूनियन परिचालन लाभ का 15%, Kia 30%, Samsung Biologics 20% और LG Uplus 30% मांग रहे हैं, जबकि Hyundai Motor का यूनियन शुद्ध लाभ का 30% प्रदर्शन बोनस के रूप में चाहता है। SK hynix, जिसने पहले ही परिचालन लाभ का 10% देने का फैसला किया है, को मिलाकर इन छह कंपनियों के इस वर्ष के परिचालन और शुद्ध लाभ का बाजार अनुमान कुल लगभग 612 ट्रिलियन वोन है। यदि यूनियनों की मांग मानी गई, तो केवल बोनस भुगतान लगभग 83 ट्रिलियन वोन होगा। आलोचकों का कहना है कि व्यक्तिगत प्रदर्शन की तुलना में पूरे संगठन के लाभ वितरण पर केंद्रित कोरियाई बोनस प्रणाली, अभूतपूर्व तेजी के बीच विवाद बढ़ा रही है। Samsung Electronics यूनियन की घोषित हड़ताल तिथि में दो सप्ताह शेष हैं, इसलिए सरकार भी मध्यस्थता में उतरी है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tuntutan Bonus Berbasis Laba Meluas, Konflik Buruh di Konglomerat Korea Meningkat",
+        "excerpt": "Menurut kalangan bisnis pada tanggal 7, serikat Samsung Electronics, Kia, dan perusahaan besar Korea Selatan lain menuntut bonus terkait laba operasi atau laba bersih, memicu konflik dan mediasi pemerintah.",
+        "body": "Serikat pekerja di perusahaan besar Korea Selatan pada tanggal 7 meningkatkan konflik hubungan industrial dengan menuntut sebagian tetap dari laba operasi atau laba bersih dibayarkan sebagai bonus kinerja. Menurut kalangan bisnis, serikat Samsung Electronics meminta 15% dari laba operasi, Kia 30%, Samsung Biologics 20%, dan LG Uplus 30%, sementara serikat Hyundai Motor menuntut 30% dari laba bersih. Termasuk SK hynix, yang sudah memutuskan membayar 10% dari laba operasi, total konsensus laba operasi dan laba bersih enam perusahaan ini untuk tahun ini sekitar 612 triliun won. Jika tuntutan serikat dipenuhi, pembayaran bonus saja akan mencapai sekitar 83 triliun won. Ada penilaian bahwa sistem bonus ala Korea, yang lebih menekankan pembagian laba seluruh organisasi daripada kinerja individu, memperbesar konflik di tengah masa sangat makmur yang belum pernah terjadi. Dengan tanggal mogok yang diumumkan serikat Samsung Electronics tinggal dua minggu lagi, pemerintah ikut melakukan mediasi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "0a26f86fa0b3",
     "slug": "단독-올들어-주가-9배-올랐다반도체-뛰어-넘을까-996764",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Industri Perumahan Sambut Sistem Rekomendasi Penilai untuk Jaminan Deposit Sewa",
         "excerpt": "Asosiasi Pembangun Perumahan Korea pada 7 Mei menyambut HUG yang menerapkan paralel sistem rekomendasi lembaga penilai dalam jaminan deposit sewa rumah sewa konstruksi.",
         "body": "Asosiasi Pembangun Perumahan Korea menyatakan pada 7 Mei bahwa pihaknya menyambut aktif langkah Korea Housing & Urban Guarantee Corporation (HUG) yang menerapkan secara paralel “sistem rekomendasi lembaga penilai” dari Korea Association of Property Appraisers dalam pekerjaan jaminan deposit sewa untuk rumah sewa konstruksi. Sistem ini diperkenalkan dengan cara menggunakan prosedur rekomendasi lembaga penilai saat jaminan deposit sewa diproses. Asosiasi baru-baru ini menyampaikan pandangan positif terhadap langkah HUG dari sudut pandang industri perumahan. Dengan penerapan paralel sistem rekomendasi dalam proses jaminan rumah sewa konstruksi, prosedur terkait diperkirakan berubah. Namun, teks asli tidak memuat dampak pelaksanaan konkret atau standar rinci tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f6102efed557",
-    "slug": "급한-사람은-다-팔았나서울-아파트-매물-줄고-강남도-반등-조짐-407252",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T03:47:27.590Z",
-    "updatedAt": "2026-05-07T03:47:27.590Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038901",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038901",
-    "titleFingerprint": "c3d95be06ef26eafc74a25523d8147fdc65d76ea",
-    "dedupKeys": [
-      "f6102efed557e821af3a0c259ecfb2f95a38de8f",
-      "c3d95be06ef26eafc74a25523d8147fdc65d76ea",
-      "afa0218fa1bc284b1ea54f137e5e464f3f474628"
-    ],
-    "imageUrl": "/images/articles/f6102efed557.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 매물 7만건 아래로…강남권 급매 거래에 반등 조짐",
-        "excerpt": "다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매물이 70일 만에 7만건 아래로 줄었으며, 강남권 급매물 거래가 활발해지며 가격 반등 조짐도 나타났다.",
-        "body": "다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매물이 다시 감소세를 보이고 있다. 서울 아파트 매물은 70일 만에 7만건 아래로 내려갔고, 강남권을 중심으로 급매물 거래가 활발해진 것으로 전해졌다. 지난달 서울 아파트 가격은 0.15% 오르며 상승폭을 키웠다. 매물 감소와 급매 거래 소진은 시장에서 급히 팔려는 물량이 줄어드는 흐름으로 해석된다. 특히 강남권에서 거래가 살아나는 움직임이 나타나면서 서울 아파트 시장 전반의 가격 흐름에도 관심이 커지고 있다. 다만 원문은 매물 축소와 상승폭 확대라는 현재 수치와 거래 흐름을 중심으로 전했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Apartment Listings Fall Below 70,000 as Gangnam Shows Rebound Signs",
-        "excerpt": "Ahead of the end of a capital gains tax surcharge deferral for multiple-home owners, Seoul apartment listings fell below 70,000 in 70 days, with active bargain sales in Gangnam.",
-        "body": "Seoul apartment listings are declining again ahead of the end of a deferral on the capital gains tax surcharge for multiple-home owners. The number of apartment listings in Seoul fell below 70,000 for the first time in 70 days, while bargain-priced transactions have reportedly become active, especially in the Gangnam area. Seoul apartment prices rose 0.15% last month, widening the pace of increase. The drop in listings and the absorption of urgent sale properties are being viewed as signs that the volume of homes being sold quickly is shrinking. As trading activity in Gangnam shows signs of revival, attention is growing on the broader price trend in Seoul’s apartment market. The original report focused on current figures, including reduced listings and a wider price increase. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウルマンション売り物件7万件割れ、江南圏の急売取引で反発兆し",
-        "excerpt": "多住宅保有者への譲渡税重課猶予終了を控え、ソウルのマンション売り物件は70日ぶりに7万件を下回り、江南圏の急売物件取引も活発化した。",
-        "body": "多住宅保有者に対する譲渡所得税重課猶予の終了を前に、ソウルのマンション売り物件が再び減少している。ソウルのマンション売り物件は70日ぶりに7万件を下回り、江南圏を中心に急売物件の取引が活発になったと伝えられた。先月のソウルのマンション価格は0.15%上昇し、上げ幅が拡大した。売り物件の減少と急売物件の消化は、市場で急いで売ろうとする物件が減っている流れと受け止められる。特に江南圏で取引が動き出す兆しが見られ、ソウルのマンション市場全体の価格動向にも関心が高まっている。原文は売り物件減少と上昇幅拡大という現在の数値と取引動向を中心に伝えた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔公寓挂牌跌破7万套，江南急售成交带来反弹迹象",
-        "excerpt": "在多套房持有者转让税重税暂缓即将结束之际，首尔公寓挂牌70天来首次跌破7万套，江南圈急售房交易趋于活跃。",
-        "body": "在多套房持有者转让税重税暂缓即将结束之际，首尔公寓挂牌量再次呈现减少趋势。首尔公寓挂牌在70天后跌破7万套，据报道，以江南圈为中心的急售房交易较为活跃。上月首尔公寓价格上涨0.15%，涨幅有所扩大。挂牌减少和急售房被消化，被解读为市场上急于出售的房源正在减少。尤其是江南圈交易出现恢复动向，使外界对首尔公寓市场整体价格走势的关注升温。不过，原文主要围绕挂牌缩减、涨幅扩大等当前数据和交易 흐름进行报道。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La oferta de apartamentos en Seúl baja de 70.000 y Gangnam apunta a repunte",
-        "excerpt": "Antes del fin de la suspensión del recargo fiscal a multipropietarios, la oferta de apartamentos en Seúl cayó por debajo de 70.000 en 70 días, con ventas urgentes activas en Gangnam.",
-        "body": "La oferta de apartamentos en Seúl vuelve a disminuir antes del fin de la suspensión del recargo sobre el impuesto a las ganancias de capital para propietarios de varias viviendas. Los anuncios de apartamentos en Seúl cayeron por debajo de 70.000 por primera vez en 70 días, mientras que las operaciones de propiedades en venta urgente se activaron, especialmente en el área de Gangnam. El mes pasado, los precios de los apartamentos en Seúl subieron un 0,15%, ampliando el ritmo de aumento. La reducción de la oferta y la absorción de ventas urgentes se interpretan como una señal de que disminuyen las propiedades que se intentan vender con prisa. Con señales de mayor actividad en Gangnam, crece la atención sobre la tendencia general de precios del mercado de apartamentos de Seúl. La fuente original se centró en las cifras actuales y el flujo de transacciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ofertas de apartamentos em Seul caem abaixo de 70 mil e Gangnam reage",
-        "excerpt": "Antes do fim da suspensão da sobretaxa de ganho de capital para multiproprietários, os anúncios de apartamentos em Seul caíram abaixo de 70 mil em 70 dias, com vendas urgentes em Gangnam.",
-        "body": "Os anúncios de apartamentos em Seul voltam a diminuir antes do fim da suspensão da sobretaxa sobre ganhos de capital para proprietários de múltiplos imóveis. O número de ofertas caiu abaixo de 70 mil pela primeira vez em 70 dias, enquanto transações de imóveis com venda urgente ficaram mais ativas, especialmente na região de Gangnam. No mês passado, os preços dos apartamentos em Seul subiram 0,15%, ampliando o ritmo de alta. A queda na oferta e a absorção de imóveis urgentes são vistas como indicação de que o volume de unidades colocadas à venda com pressa está diminuindo. Com sinais de retomada das negociações em Gangnam, cresce a atenção sobre a tendência geral dos preços no mercado de apartamentos de Seul. A reportagem original destacou os números atuais e o movimento das transações. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seouls Wohnungsangebote fallen unter 70.000, Gangnam zeigt Erholungssignale",
-        "excerpt": "Vor dem Ende der Aussetzung eines Steuerzuschlags für Mehrfachhausbesitzer sanken Seouls Wohnungsangebote binnen 70 Tagen unter 70.000, während Notverkäufe in Gangnam anzogen.",
-        "body": "Die Zahl der zum Verkauf stehenden Wohnungen in Seoul geht vor dem Ende der Aussetzung des Zuschlags auf die Kapitalertragsteuer für Eigentümer mehrerer Wohnungen erneut zurück. Die Angebote für Wohnungen in Seoul fielen nach 70 Tagen wieder unter 70.000, während Transaktionen mit dringend verkauften Objekten vor allem im Gebiet Gangnam lebhafter wurden. Im vergangenen Monat stiegen die Wohnungspreise in Seoul um 0,15%, womit sich der Anstieg ausweitete. Der Rückgang der Angebote und die Abwicklung von Notverkäufen werden als Hinweis verstanden, dass weniger Objekte unter Verkaufsdruck auf den Markt kommen. Da sich besonders in Gangnam eine Belebung der Transaktionen zeigt, wächst das Interesse an der allgemeinen Preisentwicklung des Seouler Wohnungsmarkts. Der Originalbericht stellte aktuelle Zahlen und Transaktionsbewegungen in den Mittelpunkt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les annonces d’appartements à Séoul passent sous 70 000, Gangnam rebondit",
-        "excerpt": "À l’approche de la fin du sursis sur la surtaxe des plus-values pour multipropriétaires, les annonces à Séoul sont repassées sous 70 000 en 70 jours, avec des ventes urgentes à Gangnam.",
-        "body": "Les annonces d’appartements à Séoul repartent à la baisse à l’approche de la fin du sursis concernant la surtaxe sur les plus-values pour les propriétaires de plusieurs logements. Leur nombre est repassé sous 70 000 pour la première fois en 70 jours, tandis que les transactions de biens vendus en urgence se sont activées, surtout dans le secteur de Gangnam. Le mois dernier, les prix des appartements à Séoul ont augmenté de 0,15%, avec une hausse plus marquée. La diminution des annonces et l’absorption des ventes urgentes sont vues comme le signe d’un recul des biens mis en vente rapidement. Les mouvements de reprise des transactions à Gangnam attirent donc l’attention sur l’évolution générale des prix du marché des appartements à Séoul. L’article original s’est concentré sur ces chiffres et tendances de transaction. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عروض شقق سيول تهبط دون 70 ألفا وغانغنام تظهر مؤشرات تعاف",
-        "excerpt": "قبيل انتهاء تأجيل الضريبة الإضافية على أرباح بيع العقارات لملاك المنازل المتعددة، تراجعت عروض شقق سيول دون 70 ألفا خلال 70 يوما مع نشاط صفقات البيع العاجل في غانغنام.",
-        "body": "تتراجع عروض الشقق في سيول مجددا قبيل انتهاء تأجيل الضريبة الإضافية على أرباح بيع العقارات المفروضة على ملاك المنازل المتعددة. فقد انخفض عدد عروض شقق سيول إلى ما دون 70 ألف عرض لأول مرة خلال 70 يوما، فيما أصبحت صفقات الشقق المعروضة للبيع العاجل نشطة خصوصا في منطقة غانغنام. وارتفعت أسعار الشقق في سيول الشهر الماضي بنسبة 0.15%، مع اتساع وتيرة الزيادة. ويُنظر إلى انخفاض العروض واستيعاب الصفقات العاجلة على أنهما إشارة إلى تراجع حجم الوحدات التي يندفع أصحابها لبيعها بسرعة. ومع ظهور حركة تداول أكثر نشاطا في غانغنام، يزداد الاهتمام باتجاه الأسعار في سوق شقق سيول عموما. ركز التقرير الأصلي على الأرقام الحالية وتدفق الصفقات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट लिस्टिंग 70 हजार से नीचे, गंगनम में पलटाव के संकेत",
-        "excerpt": "कई मकान रखने वालों पर पूंजीगत लाभ कर अधिभार की मोहलत खत्म होने से पहले सियोल अपार्टमेंट लिस्टिंग 70 दिनों में 70 हजार से नीचे आई और गंगनम में त्वरित बिक्री सक्रिय हुई।",
-        "body": "कई मकान रखने वालों पर पूंजीगत लाभ कर अधिभार की मोहलत समाप्त होने से पहले सियोल में अपार्टमेंट लिस्टिंग फिर घट रही है। सियोल अपार्टमेंट की बिक्री लिस्टिंग 70 दिनों में पहली बार 70 हजार से नीचे आ गई, जबकि गंगनम क्षेत्र को केंद्र बनाकर त्वरित बिक्री वाली संपत्तियों के सौदे सक्रिय बताए गए। पिछले महीने सियोल अपार्टमेंट कीमतें 0.15% बढ़ीं और बढ़त का दायरा विस्तृत हुआ। लिस्टिंग में कमी और तात्कालिक बिक्री वाली संपत्तियों का बिकना इस रूप में देखा जा रहा है कि बाजार में जल्दी बेचने वाली आपूर्ति घट रही है। खासकर गंगनम में लेनदेन के फिर सक्रिय होने के संकेतों से सियोल अपार्टमेंट बाजार की व्यापक कीमत दिशा पर ध्यान बढ़ा है। मूल रिपोर्ट ने मौजूदा आंकड़ों और सौदों की 흐름 पर जोर दिया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Listing Apartemen Seoul Turun di Bawah 70 Ribu, Gangnam Tunjukkan Sinyal Pulih",
-        "excerpt": "Menjelang berakhirnya penangguhan pajak tambahan capital gain bagi pemilik banyak rumah, listing apartemen Seoul turun di bawah 70 ribu dalam 70 hari, dengan transaksi jual cepat aktif di Gangnam.",
-        "body": "Listing apartemen di Seoul kembali menurun menjelang berakhirnya penangguhan pajak tambahan atas keuntungan penjualan properti bagi pemilik banyak rumah. Jumlah listing apartemen Seoul turun di bawah 70 ribu untuk pertama kalinya dalam 70 hari, sementara transaksi properti jual cepat dilaporkan aktif, terutama di kawasan Gangnam. Bulan lalu, harga apartemen Seoul naik 0,15%, memperlebar laju kenaikan. Penurunan listing dan terserapnya properti jual cepat dipandang sebagai tanda bahwa pasokan yang ingin segera dijual mulai berkurang. Dengan munculnya aktivitas transaksi di Gangnam, perhatian terhadap arah harga pasar apartemen Seoul secara keseluruhan ikut meningkat. Laporan asli berfokus pada angka terkini dan arus transaksi tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cf694fb3ecf2",
-    "slug": "상계보람아파트-4483가구-대단지로-탈바꿈재건축-정비계획-통과-736162",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T03:46:20.428Z",
-    "updatedAt": "2026-05-07T03:46:20.428Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038997",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038997",
-    "titleFingerprint": "91265e3194986bcd1b4e60e8c3574554f9531804",
-    "dedupKeys": [
-      "cf694fb3ecf2ebb08c14f4906a7d2f166613c4ff",
-      "91265e3194986bcd1b4e60e8c3574554f9531804",
-      "e9335925587a17574fb508eb3a1b2ed2f7ebcd53"
-    ],
-    "imageUrl": "/images/articles/cf694fb3ecf2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "상계보람아파트 재건축 정비계획 통과, 4483가구 대단지로 탈바꿈",
-        "excerpt": "서울시 노원구 상계동 보람아파트가 제6차 도시계획위원회 심의를 거쳐 4483가구 규모 대단지로 재건축될 전망이다.",
-        "body": "서울시 노원구 상계동 보람아파트가 제6차 도시계획위원회 개최 결과 재건축 정비계획을 통과해 총 4483가구 규모의 대단지로 탈바꿈한다. 이 단지는 1988년 준공된 노후 아파트로, 이번 정비계획 통과에 따라 상계동 일대 주거환경 개선과 대규모 주택 공급의 기반이 마련됐다. 계획이 본격 추진되면 기존 노후 단지는 4483가구 규모의 새 주거단지로 재편될 예정이다. 구체적인 사업 일정과 세부 추진 절차는 향후 정비사업 단계에 따라 진행된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Sanggye Boram Apartment Redevelopment Plan Approved for 4,483 Homes",
-        "excerpt": "Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, is set to be rebuilt into a 4,483-unit complex after review by the 6th Urban Planning Committee.",
-        "body": "Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, has passed its redevelopment maintenance plan following the 6th Urban Planning Committee meeting and will be transformed into a large complex with 4,483 homes. The aging apartment complex was completed in 1988. With the plan’s approval, a foundation has been laid for improving the residential environment in the Sanggye-dong area and supplying a large number of homes. Once the project moves forward, the old complex will be reorganized into a new 4,483-unit residential development. Specific schedules and procedures will proceed through future redevelopment stages. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "上渓ボラムアパート再建築計画が通過、4483戸の大団地へ転換",
-        "excerpt": "ソウル市蘆原区上渓洞のボラムアパートは、第6回都市計画委員会の審議を経て4483戸規模の大団地に再建築される見通しです。",
-        "body": "ソウル市蘆原区上渓洞のボラムアパートは、第6回都市計画委員会の開催結果、再建築整備計画を通過し、総4483戸規模の大団地へと生まれ変わる。1988年に竣工した老朽アパートで、今回の整備計画通過により、上渓洞一帯の住環境改善と大規模な住宅供給に向けた基盤が整った。事業が本格的に進めば、既存の老朽団地は4483戸規模の新たな住宅団地に再編される予定だ。具体的な事業日程と詳細な手続きは、今後の整備事業段階に沿って進められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "上溪Boram公寓重建规划获批，将变身4483户大型社区",
-        "excerpt": "首尔市芦原区上溪洞Boram公寓经第六次城市规划委员会审议后，预计将重建为4483户规模的大型住宅社区。",
-        "body": "首尔市芦原区上溪洞Boram公寓在第六次城市规划委员会会议后通过重建整备规划，将改造为总计4483户的大型住宅社区。该小区于1988年竣工，属于老旧公寓。此次整备规划获批，为改善上溪洞一带居住环境并推进大规模住宅供应奠定了基础。项目正式推进后，现有老旧小区将重组为4483户规模的新住宅区。具体项目日程和后续程序将根据今后的整备事业阶段推进。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Boram Apartment en Sanggye aprueba su plan y será un complejo de 4.483 viviendas",
-        "excerpt": "Boram Apartment, en Sanggye-dong, Nowon-gu, Seúl, será reconstruido como un complejo de 4.483 viviendas tras la revisión del 6.º Comité de Planificación Urbana.",
-        "body": "Boram Apartment, ubicado en Sanggye-dong, Nowon-gu, Seúl, aprobó su plan de mantenimiento para la reconstrucción tras la reunión del 6.º Comité de Planificación Urbana y se transformará en un gran complejo de 4.483 viviendas. El conjunto fue terminado en 1988 y se considera un complejo envejecido. Con esta aprobación, se establece una base para mejorar el entorno residencial de Sanggye-dong y ampliar la oferta de viviendas a gran escala. Cuando el proyecto avance, el complejo antiguo será reorganizado como una nueva zona residencial de 4.483 unidades. Los plazos y procedimientos específicos seguirán las etapas posteriores del proyecto de reconstrucción. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Boram Apartment em Sanggye tem plano aprovado e será complexo de 4.483 unidades",
-        "excerpt": "O Boram Apartment, em Sanggye-dong, Nowon-gu, Seul, deverá ser reconstruído como um complexo de 4.483 unidades após análise do 6.º Comitê de Planejamento Urbano.",
-        "body": "O Boram Apartment, em Sanggye-dong, Nowon-gu, Seul, teve seu plano de manutenção para reconstrução aprovado após a reunião do 6.º Comitê de Planejamento Urbano e será transformado em um grande complexo com 4.483 unidades. O conjunto foi concluído em 1988 e é considerado um empreendimento antigo. Com a aprovação do plano, foi criada a base para melhorar o ambiente residencial na região de Sanggye-dong e ampliar a oferta habitacional em larga escala. Quando o projeto avançar, o complexo envelhecido será reorganizado como um novo empreendimento residencial de 4.483 unidades. Cronograma e procedimentos detalhados seguirão as próximas etapas do projeto. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sanggye Boram Apartment: Sanierungsplan für 4.483 Wohnungen genehmigt",
-        "excerpt": "Das Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, soll nach Prüfung durch den 6. Stadtplanungsausschuss zu einer Großanlage mit 4.483 Wohnungen umgebaut werden.",
-        "body": "Das Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, hat nach der Sitzung des 6. Stadtplanungsausschusses den Sanierungs- und Wiederaufbauplan passiert und soll zu einer großen Wohnanlage mit insgesamt 4.483 Wohnungen werden. Die bestehende Anlage wurde 1988 fertiggestellt und gilt als veraltet. Mit der Genehmigung des Plans ist die Grundlage für eine Verbesserung des Wohnumfelds in Sanggye-dong und für ein umfangreiches Wohnungsangebot geschaffen. Sobald das Projekt voranschreitet, wird die alte Anlage zu einem neuen Wohnkomplex mit 4.483 Einheiten umstrukturiert. Konkrete Zeitpläne und weitere Verfahren folgen in den nächsten Projektphasen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Boram Apartment à Sanggye obtient son plan de reconstruction pour 4 483 logements",
-        "excerpt": "Boram Apartment, à Sanggye-dong dans l’arrondissement de Nowon à Séoul, devrait être reconstruit en un grand ensemble de 4 483 logements après l’examen du 6e comité d’urbanisme.",
-        "body": "Boram Apartment, situé à Sanggye-dong dans l’arrondissement de Nowon à Séoul, a obtenu l’approbation de son plan de réaménagement après la réunion du 6e comité d’urbanisme et sera transformé en un vaste ensemble de 4 483 logements. Le complexe, achevé en 1988, est un ensemble ancien. Cette approbation établit une base pour améliorer l’environnement résidentiel du secteur de Sanggye-dong et fournir un grand volume de logements. Lorsque le projet avancera, l’ancien complexe sera réorganisé en un nouveau quartier résidentiel de 4 483 unités. Le calendrier précis et les procédures détaillées suivront les prochaines étapes du projet. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إقرار خطة إعادة بناء شقق سانغيه بورام وتحويلها إلى مجمع من 4483 وحدة",
-        "excerpt": "من المتوقع إعادة بناء شقق بورام في سانغيه دونغ، نوون غو في سيول، كمجمع كبير يضم 4483 وحدة بعد مراجعة لجنة التخطيط الحضري السادسة.",
-        "body": "اجتازت شقق بورام في سانغيه دونغ، نوون غو في سيول، خطة الصيانة الخاصة بإعادة البناء بعد اجتماع لجنة التخطيط الحضري السادسة، لتتحول إلى مجمع سكني كبير يضم إجمالا 4483 وحدة. وقد اكتمل بناء هذا المجمع القديم في عام 1988. ومع إقرار الخطة، وُضعت قاعدة لتحسين البيئة السكنية في منطقة سانغيه دونغ وتوفير مساكن على نطاق واسع. وعند بدء تنفيذ المشروع بشكل فعلي، سيعاد تنظيم المجمع القديم ليصبح مجمعا سكنيا جديدا من 4483 وحدة. أما الجدول الزمني والتفاصيل الإجرائية فستتقدم وفق مراحل مشروع الصيانة المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सांग्ये बोराम अपार्टमेंट पुनर्निर्माण योजना मंजूर, 4,483 घरों का बड़ा परिसर बनेगा",
-        "excerpt": "सियोल के नोवोन-गु स्थित सांग्ये-डोंग बोराम अपार्टमेंट को छठी शहरी योजना समिति की समीक्षा के बाद 4,483 घरों के बड़े परिसर में बदला जाएगा।",
-        "body": "सियोल के नोवोन-गु, सांग्ये-डोंग स्थित बोराम अपार्टमेंट ने छठी शहरी योजना समिति की बैठक के बाद पुनर्निर्माण रखरखाव योजना पार कर ली है और यह कुल 4,483 घरों वाले बड़े आवासीय परिसर में बदलेगा। यह पुराना अपार्टमेंट परिसर 1988 में पूरा हुआ था। योजना की मंजूरी से सांग्ये-डोंग क्षेत्र के आवासीय वातावरण में सुधार और बड़े पैमाने पर आवास आपूर्ति की नींव तैयार हुई है। परियोजना आगे बढ़ने पर मौजूदा पुराना परिसर 4,483 इकाइयों वाले नए आवासीय परिसर के रूप में पुनर्गठित किया जाएगा। विस्तृत समय-सारिणी और प्रक्रियाएं आगे के पुनर्विकास चरणों के अनुसार चलेंगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rencana Rekonstruksi Apartemen Sanggye Boram Lolos, Jadi Kompleks 4.483 Unit",
-        "excerpt": "Apartemen Boram di Sanggye-dong, Nowon-gu, Seoul, akan direkonstruksi menjadi kompleks besar 4.483 unit setelah ditinjau Komite Perencanaan Kota ke-6.",
-        "body": "Apartemen Boram di Sanggye-dong, Nowon-gu, Seoul, telah meloloskan rencana penataan untuk rekonstruksi setelah rapat Komite Perencanaan Kota ke-6 dan akan berubah menjadi kompleks besar dengan total 4.483 unit. Kompleks apartemen tua ini selesai dibangun pada 1988. Dengan lolosnya rencana tersebut, dasar untuk memperbaiki lingkungan hunian di kawasan Sanggye-dong dan menyediakan pasokan rumah berskala besar telah disiapkan. Jika proyek mulai berjalan penuh, kompleks lama akan ditata ulang menjadi kawasan hunian baru berisi 4.483 unit. Jadwal dan prosedur terperinci akan berjalan mengikuti tahap proyek penataan berikutnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5d5e0c896d5f",
-    "slug": "지난달-아파트-증여직거래-급증-가족-간-저가양도-늘었나-378872",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T03:45:20.544Z",
-    "updatedAt": "2026-05-07T03:45:20.544Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039025",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039025",
-    "titleFingerprint": "36e5ee0aac886cd7959876675c3c4e75def55895",
-    "dedupKeys": [
-      "5d5e0c896d5f58921d04ee280c6cb060eb63119d",
-      "36e5ee0aac886cd7959876675c3c4e75def55895",
-      "c48506659da18261c80a2f4b5c6f903f47cfd2d1"
-    ],
-    "imageUrl": "/images/articles/5d5e0c896d5f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아파트 증여·직거래 급증에 저가양도 주목, 세금 전략 교육도 진행",
-        "excerpt": "지난달 아파트 증여와 직거래가 급증한 가운데 가족 간 저가양도 가능성이 주목받고, 증여·양도·보유세 절세 전략 교육과 상담이 진행된다.",
-        "body": "지난달 아파트 증여와 직거래가 급증하면서 가족 간 저가양도가 늘어난 것 아니냐는 시장의 관심이 커지고 있다. 원문은 증여와 상속을 주제로 한 ‘14기’ 교육 진행 소식과 함께 다주택자 양도세 중과 부활, 비거주 1주택자 장기보유특별공제 개정 등 세제 이슈를 다뤘다. 교육은 증여·양도·보유세 절세 전략을 중심으로 진행되며, 질의응답과 1:1 개별 상담도 포함된다. 아파트 거래 방식 변화와 세금 부담 조정 이슈가 맞물리면서 관련 교육 수요가 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Apartment Gifts and Direct Deals Surge, Spotlight on Family Discount Transfers",
-        "excerpt": "Apartment gifts and direct transactions rose sharply last month, drawing attention to possible low-price transfers within families and related tax-planning education.",
-        "body": "Apartment gifts and direct transactions surged last month, raising market attention over whether low-price transfers among family members have increased. The original report also covered news of the 14th education program on gifts and inheritance, along with tax issues such as the return of heavier capital gains tax for multiple-home owners and revisions to the long-term holding special deduction for nonresident single-home owners. The program focuses on strategies for reducing gift, transfer and holding taxes, and includes Q&A sessions and one-on-one consultations. Demand for related education is expected to continue as changes in apartment transaction methods intersect with tax burden issues. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "マンション贈与・直接取引が急増、家族間の低価格譲渡に関心",
-        "excerpt": "先月、マンションの贈与と直接取引が急増し、家族間の低価格譲渡の可能性と贈与・譲渡・保有税の節税教育が注目されている。",
-        "body": "先月、マンションの贈与と直接取引が急増し、家族間の低価格譲渡が増えたのではないかという市場の関心が高まっている。原文は、贈与と相続をテーマにした「14期」教育の実施案内とともに、多住宅保有者への譲渡税重課復活、非居住の1住宅保有者に対する長期保有特別控除の改正などの税制課題を扱った。教育は贈与税・譲渡税・保有税の節税戦略を中心に進められ、質疑応答と1対1の個別相談も含まれる。マンション取引方式の変化と税負担の調整問題が重なり、関連教育への需要は続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "公寓赠与和直接交易激增，家庭低价转让问题受关注",
-        "excerpt": "上月公寓赠与和直接交易大幅增加，家庭成员之间低价转让的可能性受到关注，相关赠与、转让和持有税节税教育也将进行。",
-        "body": "上月公寓赠与和直接交易激增，引发市场对家庭成员之间低价转让是否增加的关注。原文在介绍以赠与和继承为主题的“第14期”教育活动时，还提到多套房持有者转让税加重恢复、非居民一套房持有者长期持有特别扣除修订等税制议题。该教育将围绕赠与税、转让税和持有税的节税策略展开，并包括问答和一对一单独咨询。随着公寓交易方式变化与税负调整问题交织，相关教育需求预计将持续。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Suben donaciones y tratos directos de apartamentos; foco en cesiones familiares",
-        "excerpt": "Las donaciones y operaciones directas de apartamentos aumentaron con fuerza el mes pasado, mientras crece la atención sobre cesiones familiares a bajo precio y educación fiscal.",
-        "body": "Las donaciones y transacciones directas de apartamentos aumentaron con fuerza el mes pasado, elevando la atención del mercado sobre si han crecido las cesiones a bajo precio entre familiares. El texto original también informó sobre la realización del curso número 14 sobre donaciones y herencias, junto con temas fiscales como el retorno del recargo del impuesto a las ganancias de capital para propietarios de múltiples viviendas y la revisión de la deducción especial por tenencia a largo plazo para no residentes con una sola vivienda. La formación se centrará en estrategias para reducir impuestos sobre donación, transferencia y tenencia, e incluirá preguntas y respuestas y consultas individuales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Doações e negócios diretos de apartamentos disparam; foco em transferências familiares",
-        "excerpt": "As doações e transações diretas de apartamentos cresceram no mês passado, aumentando a atenção para possíveis transferências familiares abaixo do preço e educação tributária.",
-        "body": "As doações e transações diretas de apartamentos dispararam no mês passado, ampliando a atenção do mercado para a possibilidade de aumento das transferências a baixo preço entre familiares. O texto original também tratou da realização da 14ª turma de educação sobre doações e heranças, além de temas tributários como a volta da tributação agravada sobre ganhos de capital para proprietários de múltiplas moradias e a revisão da dedução especial por posse de longo prazo para não residentes com uma única moradia. O curso será centrado em estratégias para reduzir impostos sobre doação, transferência e posse, com perguntas e respostas e consultas individuais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Wohnungsschenkungen und Direktdeals steigen stark, Familientransfers im Fokus",
-        "excerpt": "Im vergangenen Monat nahmen Wohnungsschenkungen und Direktgeschäfte deutlich zu; mögliche günstige Übertragungen innerhalb von Familien und Steuerbildung rücken in den Blick.",
-        "body": "Im vergangenen Monat sind Schenkungen und Direkttransaktionen von Wohnungen stark gestiegen, wodurch die Aufmerksamkeit des Marktes auf die Frage wächst, ob günstige Übertragungen zwischen Familienmitgliedern zugenommen haben. Der Originalbericht behandelte zudem die Durchführung des 14. Bildungsprogramms zu Schenkung und Erbschaft sowie steuerliche Themen wie die Rückkehr der erhöhten Kapitalertragsteuer für Mehrfachwohnungsbesitzer und die Änderung des Sonderabzugs für langfristigen Besitz bei nicht ansässigen Eigentümern einer einzigen Wohnung. Die Schulung konzentriert sich auf Strategien zur Senkung von Schenkungs-, Übertragungs- und Besitzsteuern und umfasst Fragen sowie Einzelberatungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Dons et ventes directes d’appartements bondissent, les transferts familiaux scrutés",
-        "excerpt": "Les dons et transactions directes d’appartements ont fortement augmenté le mois dernier, attirant l’attention sur les cessions familiales à bas prix et la formation fiscale.",
-        "body": "Les dons et transactions directes d’appartements ont bondi le mois dernier, renforçant l’attention du marché sur une possible hausse des cessions à bas prix entre membres d’une famille. Le texte original mentionne aussi la tenue de la 14e formation consacrée aux dons et successions, ainsi que des sujets fiscaux comme le retour de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements et la révision de la déduction spéciale pour détention longue des non-résidents possédant un seul logement. La formation portera sur les stratégies de réduction des impôts liés aux dons, aux transferts et à la détention, avec questions-réponses et consultations individuelles. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع هبات الشقق والصفقات المباشرة يسلط الضوء على التحويلات العائلية",
-        "excerpt": "ارتفعت هبات الشقق والصفقات المباشرة الشهر الماضي، ما أثار الاهتمام باحتمال زيادة التحويلات منخفضة السعر بين أفراد الأسرة وبالتدريب الضريبي المرتبط بها.",
-        "body": "ارتفعت هبات الشقق والمعاملات المباشرة الشهر الماضي، ما زاد اهتمام السوق بما إذا كانت التحويلات منخفضة السعر بين أفراد الأسرة قد تزايدت. وتناول النص الأصلي أيضا خبر تنفيذ الدورة الرابعة عشرة حول الهبات والميراث، إلى جانب قضايا ضريبية مثل عودة التشديد على ضريبة الأرباح الرأسمالية لمالكي عدة مساكن، وتعديل الخصم الخاص للحيازة طويلة الأجل لغير المقيمين الذين يملكون مسكنا واحدا. يركز التدريب على استراتيجيات خفض ضرائب الهبة والتحويل والحيازة، ويشمل أسئلة وأجوبة واستشارات فردية. ومع تداخل تغير طرق تداول الشقق مع قضايا العبء الضريبي، من المتوقع استمرار الطلب على هذا النوع من التعليم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अपार्टमेंट उपहार और सीधे सौदे तेजी से बढ़े, पारिवारिक कम कीमत हस्तांतरण पर नजर",
-        "excerpt": "पिछले महीने अपार्टमेंट उपहार और सीधे लेनदेन तेजी से बढ़े, जिससे परिवारों के बीच कम कीमत हस्तांतरण और संबंधित कर-बचत शिक्षा पर ध्यान गया।",
-        "body": "पिछले महीने अपार्टमेंट के उपहार और सीधे लेनदेन तेजी से बढ़े, जिससे बाजार में यह ध्यान बढ़ा कि क्या परिवार के सदस्यों के बीच कम कीमत पर हस्तांतरण बढ़ा है। मूल पाठ में उपहार और उत्तराधिकार पर केंद्रित ‘14वीं’ शिक्षा प्रक्रिया के साथ-साथ कई घर रखने वालों पर पूंजीगत लाभ कर की अतिरिक्त दर की वापसी और गैर-निवासी एकल-घर मालिकों के लिए दीर्घकालिक होल्डिंग विशेष कटौती में संशोधन जैसे कर मुद्दों का उल्लेख किया गया। शिक्षा कार्यक्रम उपहार, हस्तांतरण और होल्डिंग करों की बचत रणनीतियों पर केंद्रित होगा तथा इसमें प्रश्नोत्तर और 1:1 व्यक्तिगत परामर्श शामिल होगा। अपार्टमेंट लेनदेन के तरीकों में बदलाव और कर बोझ से जुड़े मुद्दों के साथ संबंधित शिक्षा की मांग जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hibah dan Transaksi Langsung Apartemen Melonjak, Transfer Keluarga Disorot",
-        "excerpt": "Hibah dan transaksi langsung apartemen meningkat tajam bulan lalu, memicu perhatian pada kemungkinan transfer murah antar keluarga dan edukasi strategi pajak terkait.",
-        "body": "Hibah dan transaksi langsung apartemen melonjak bulan lalu, sehingga perhatian pasar meningkat terhadap kemungkinan bertambahnya transfer berharga rendah antar anggota keluarga. Teks asli juga memuat kabar penyelenggaraan pendidikan angkatan ke-14 tentang hibah dan warisan, disertai isu pajak seperti kembalinya pengenaan tambahan pajak capital gain bagi pemilik banyak rumah dan revisi potongan khusus kepemilikan jangka panjang bagi nonresiden pemilik satu rumah. Program ini berfokus pada strategi penghematan pajak hibah, pengalihan, dan kepemilikan, serta mencakup tanya jawab dan konsultasi individual 1:1. Seiring perubahan pola transaksi apartemen dan isu beban pajak, kebutuhan edukasi terkait diperkirakan berlanjut. Sumber: mk.co.kr"
       }
     }
   }
