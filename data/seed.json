@@ -1,5 +1,230 @@
 [
   {
+    "id": "f6102efed557",
+    "slug": "급한-사람은-다-팔았나서울-아파트-매물-줄고-강남도-반등-조짐-407252",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T03:47:27.590Z",
+    "updatedAt": "2026-05-07T03:47:27.590Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038901",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038901",
+    "titleFingerprint": "c3d95be06ef26eafc74a25523d8147fdc65d76ea",
+    "dedupKeys": [
+      "f6102efed557e821af3a0c259ecfb2f95a38de8f",
+      "c3d95be06ef26eafc74a25523d8147fdc65d76ea",
+      "afa0218fa1bc284b1ea54f137e5e464f3f474628"
+    ],
+    "imageUrl": "/images/articles/f6102efed557.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 매물 7만건 아래로…강남권 급매 거래에 반등 조짐",
+        "excerpt": "다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매물이 70일 만에 7만건 아래로 줄었으며, 강남권 급매물 거래가 활발해지며 가격 반등 조짐도 나타났다.",
+        "body": "다주택자 양도세 중과 유예 종료를 앞두고 서울 아파트 매물이 다시 감소세를 보이고 있다. 서울 아파트 매물은 70일 만에 7만건 아래로 내려갔고, 강남권을 중심으로 급매물 거래가 활발해진 것으로 전해졌다. 지난달 서울 아파트 가격은 0.15% 오르며 상승폭을 키웠다. 매물 감소와 급매 거래 소진은 시장에서 급히 팔려는 물량이 줄어드는 흐름으로 해석된다. 특히 강남권에서 거래가 살아나는 움직임이 나타나면서 서울 아파트 시장 전반의 가격 흐름에도 관심이 커지고 있다. 다만 원문은 매물 축소와 상승폭 확대라는 현재 수치와 거래 흐름을 중심으로 전했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Listings Fall Below 70,000 as Gangnam Shows Rebound Signs",
+        "excerpt": "Ahead of the end of a capital gains tax surcharge deferral for multiple-home owners, Seoul apartment listings fell below 70,000 in 70 days, with active bargain sales in Gangnam.",
+        "body": "Seoul apartment listings are declining again ahead of the end of a deferral on the capital gains tax surcharge for multiple-home owners. The number of apartment listings in Seoul fell below 70,000 for the first time in 70 days, while bargain-priced transactions have reportedly become active, especially in the Gangnam area. Seoul apartment prices rose 0.15% last month, widening the pace of increase. The drop in listings and the absorption of urgent sale properties are being viewed as signs that the volume of homes being sold quickly is shrinking. As trading activity in Gangnam shows signs of revival, attention is growing on the broader price trend in Seoul’s apartment market. The original report focused on current figures, including reduced listings and a wider price increase. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルマンション売り物件7万件割れ、江南圏の急売取引で反発兆し",
+        "excerpt": "多住宅保有者への譲渡税重課猶予終了を控え、ソウルのマンション売り物件は70日ぶりに7万件を下回り、江南圏の急売物件取引も活発化した。",
+        "body": "多住宅保有者に対する譲渡所得税重課猶予の終了を前に、ソウルのマンション売り物件が再び減少している。ソウルのマンション売り物件は70日ぶりに7万件を下回り、江南圏を中心に急売物件の取引が活発になったと伝えられた。先月のソウルのマンション価格は0.15%上昇し、上げ幅が拡大した。売り物件の減少と急売物件の消化は、市場で急いで売ろうとする物件が減っている流れと受け止められる。特に江南圏で取引が動き出す兆しが見られ、ソウルのマンション市場全体の価格動向にも関心が高まっている。原文は売り物件減少と上昇幅拡大という現在の数値と取引動向を中心に伝えた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓挂牌跌破7万套，江南急售成交带来反弹迹象",
+        "excerpt": "在多套房持有者转让税重税暂缓即将结束之际，首尔公寓挂牌70天来首次跌破7万套，江南圈急售房交易趋于活跃。",
+        "body": "在多套房持有者转让税重税暂缓即将结束之际，首尔公寓挂牌量再次呈现减少趋势。首尔公寓挂牌在70天后跌破7万套，据报道，以江南圈为中心的急售房交易较为活跃。上月首尔公寓价格上涨0.15%，涨幅有所扩大。挂牌减少和急售房被消化，被解读为市场上急于出售的房源正在减少。尤其是江南圈交易出现恢复动向，使外界对首尔公寓市场整体价格走势的关注升温。不过，原文主要围绕挂牌缩减、涨幅扩大等当前数据和交易 흐름进行报道。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La oferta de apartamentos en Seúl baja de 70.000 y Gangnam apunta a repunte",
+        "excerpt": "Antes del fin de la suspensión del recargo fiscal a multipropietarios, la oferta de apartamentos en Seúl cayó por debajo de 70.000 en 70 días, con ventas urgentes activas en Gangnam.",
+        "body": "La oferta de apartamentos en Seúl vuelve a disminuir antes del fin de la suspensión del recargo sobre el impuesto a las ganancias de capital para propietarios de varias viviendas. Los anuncios de apartamentos en Seúl cayeron por debajo de 70.000 por primera vez en 70 días, mientras que las operaciones de propiedades en venta urgente se activaron, especialmente en el área de Gangnam. El mes pasado, los precios de los apartamentos en Seúl subieron un 0,15%, ampliando el ritmo de aumento. La reducción de la oferta y la absorción de ventas urgentes se interpretan como una señal de que disminuyen las propiedades que se intentan vender con prisa. Con señales de mayor actividad en Gangnam, crece la atención sobre la tendencia general de precios del mercado de apartamentos de Seúl. La fuente original se centró en las cifras actuales y el flujo de transacciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ofertas de apartamentos em Seul caem abaixo de 70 mil e Gangnam reage",
+        "excerpt": "Antes do fim da suspensão da sobretaxa de ganho de capital para multiproprietários, os anúncios de apartamentos em Seul caíram abaixo de 70 mil em 70 dias, com vendas urgentes em Gangnam.",
+        "body": "Os anúncios de apartamentos em Seul voltam a diminuir antes do fim da suspensão da sobretaxa sobre ganhos de capital para proprietários de múltiplos imóveis. O número de ofertas caiu abaixo de 70 mil pela primeira vez em 70 dias, enquanto transações de imóveis com venda urgente ficaram mais ativas, especialmente na região de Gangnam. No mês passado, os preços dos apartamentos em Seul subiram 0,15%, ampliando o ritmo de alta. A queda na oferta e a absorção de imóveis urgentes são vistas como indicação de que o volume de unidades colocadas à venda com pressa está diminuindo. Com sinais de retomada das negociações em Gangnam, cresce a atenção sobre a tendência geral dos preços no mercado de apartamentos de Seul. A reportagem original destacou os números atuais e o movimento das transações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Wohnungsangebote fallen unter 70.000, Gangnam zeigt Erholungssignale",
+        "excerpt": "Vor dem Ende der Aussetzung eines Steuerzuschlags für Mehrfachhausbesitzer sanken Seouls Wohnungsangebote binnen 70 Tagen unter 70.000, während Notverkäufe in Gangnam anzogen.",
+        "body": "Die Zahl der zum Verkauf stehenden Wohnungen in Seoul geht vor dem Ende der Aussetzung des Zuschlags auf die Kapitalertragsteuer für Eigentümer mehrerer Wohnungen erneut zurück. Die Angebote für Wohnungen in Seoul fielen nach 70 Tagen wieder unter 70.000, während Transaktionen mit dringend verkauften Objekten vor allem im Gebiet Gangnam lebhafter wurden. Im vergangenen Monat stiegen die Wohnungspreise in Seoul um 0,15%, womit sich der Anstieg ausweitete. Der Rückgang der Angebote und die Abwicklung von Notverkäufen werden als Hinweis verstanden, dass weniger Objekte unter Verkaufsdruck auf den Markt kommen. Da sich besonders in Gangnam eine Belebung der Transaktionen zeigt, wächst das Interesse an der allgemeinen Preisentwicklung des Seouler Wohnungsmarkts. Der Originalbericht stellte aktuelle Zahlen und Transaktionsbewegungen in den Mittelpunkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les annonces d’appartements à Séoul passent sous 70 000, Gangnam rebondit",
+        "excerpt": "À l’approche de la fin du sursis sur la surtaxe des plus-values pour multipropriétaires, les annonces à Séoul sont repassées sous 70 000 en 70 jours, avec des ventes urgentes à Gangnam.",
+        "body": "Les annonces d’appartements à Séoul repartent à la baisse à l’approche de la fin du sursis concernant la surtaxe sur les plus-values pour les propriétaires de plusieurs logements. Leur nombre est repassé sous 70 000 pour la première fois en 70 jours, tandis que les transactions de biens vendus en urgence se sont activées, surtout dans le secteur de Gangnam. Le mois dernier, les prix des appartements à Séoul ont augmenté de 0,15%, avec une hausse plus marquée. La diminution des annonces et l’absorption des ventes urgentes sont vues comme le signe d’un recul des biens mis en vente rapidement. Les mouvements de reprise des transactions à Gangnam attirent donc l’attention sur l’évolution générale des prix du marché des appartements à Séoul. L’article original s’est concentré sur ces chiffres et tendances de transaction. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عروض شقق سيول تهبط دون 70 ألفا وغانغنام تظهر مؤشرات تعاف",
+        "excerpt": "قبيل انتهاء تأجيل الضريبة الإضافية على أرباح بيع العقارات لملاك المنازل المتعددة، تراجعت عروض شقق سيول دون 70 ألفا خلال 70 يوما مع نشاط صفقات البيع العاجل في غانغنام.",
+        "body": "تتراجع عروض الشقق في سيول مجددا قبيل انتهاء تأجيل الضريبة الإضافية على أرباح بيع العقارات المفروضة على ملاك المنازل المتعددة. فقد انخفض عدد عروض شقق سيول إلى ما دون 70 ألف عرض لأول مرة خلال 70 يوما، فيما أصبحت صفقات الشقق المعروضة للبيع العاجل نشطة خصوصا في منطقة غانغنام. وارتفعت أسعار الشقق في سيول الشهر الماضي بنسبة 0.15%، مع اتساع وتيرة الزيادة. ويُنظر إلى انخفاض العروض واستيعاب الصفقات العاجلة على أنهما إشارة إلى تراجع حجم الوحدات التي يندفع أصحابها لبيعها بسرعة. ومع ظهور حركة تداول أكثر نشاطا في غانغنام، يزداد الاهتمام باتجاه الأسعار في سوق شقق سيول عموما. ركز التقرير الأصلي على الأرقام الحالية وتدفق الصفقات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट लिस्टिंग 70 हजार से नीचे, गंगनम में पलटाव के संकेत",
+        "excerpt": "कई मकान रखने वालों पर पूंजीगत लाभ कर अधिभार की मोहलत खत्म होने से पहले सियोल अपार्टमेंट लिस्टिंग 70 दिनों में 70 हजार से नीचे आई और गंगनम में त्वरित बिक्री सक्रिय हुई।",
+        "body": "कई मकान रखने वालों पर पूंजीगत लाभ कर अधिभार की मोहलत समाप्त होने से पहले सियोल में अपार्टमेंट लिस्टिंग फिर घट रही है। सियोल अपार्टमेंट की बिक्री लिस्टिंग 70 दिनों में पहली बार 70 हजार से नीचे आ गई, जबकि गंगनम क्षेत्र को केंद्र बनाकर त्वरित बिक्री वाली संपत्तियों के सौदे सक्रिय बताए गए। पिछले महीने सियोल अपार्टमेंट कीमतें 0.15% बढ़ीं और बढ़त का दायरा विस्तृत हुआ। लिस्टिंग में कमी और तात्कालिक बिक्री वाली संपत्तियों का बिकना इस रूप में देखा जा रहा है कि बाजार में जल्दी बेचने वाली आपूर्ति घट रही है। खासकर गंगनम में लेनदेन के फिर सक्रिय होने के संकेतों से सियोल अपार्टमेंट बाजार की व्यापक कीमत दिशा पर ध्यान बढ़ा है। मूल रिपोर्ट ने मौजूदा आंकड़ों और सौदों की 흐름 पर जोर दिया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Listing Apartemen Seoul Turun di Bawah 70 Ribu, Gangnam Tunjukkan Sinyal Pulih",
+        "excerpt": "Menjelang berakhirnya penangguhan pajak tambahan capital gain bagi pemilik banyak rumah, listing apartemen Seoul turun di bawah 70 ribu dalam 70 hari, dengan transaksi jual cepat aktif di Gangnam.",
+        "body": "Listing apartemen di Seoul kembali menurun menjelang berakhirnya penangguhan pajak tambahan atas keuntungan penjualan properti bagi pemilik banyak rumah. Jumlah listing apartemen Seoul turun di bawah 70 ribu untuk pertama kalinya dalam 70 hari, sementara transaksi properti jual cepat dilaporkan aktif, terutama di kawasan Gangnam. Bulan lalu, harga apartemen Seoul naik 0,15%, memperlebar laju kenaikan. Penurunan listing dan terserapnya properti jual cepat dipandang sebagai tanda bahwa pasokan yang ingin segera dijual mulai berkurang. Dengan munculnya aktivitas transaksi di Gangnam, perhatian terhadap arah harga pasar apartemen Seoul secara keseluruhan ikut meningkat. Laporan asli berfokus pada angka terkini dan arus transaksi tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cf694fb3ecf2",
+    "slug": "상계보람아파트-4483가구-대단지로-탈바꿈재건축-정비계획-통과-736162",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T03:46:20.428Z",
+    "updatedAt": "2026-05-07T03:46:20.428Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12038997",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12038997",
+    "titleFingerprint": "91265e3194986bcd1b4e60e8c3574554f9531804",
+    "dedupKeys": [
+      "cf694fb3ecf2ebb08c14f4906a7d2f166613c4ff",
+      "91265e3194986bcd1b4e60e8c3574554f9531804",
+      "e9335925587a17574fb508eb3a1b2ed2f7ebcd53"
+    ],
+    "imageUrl": "/images/articles/cf694fb3ecf2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "상계보람아파트 재건축 정비계획 통과, 4483가구 대단지로 탈바꿈",
+        "excerpt": "서울시 노원구 상계동 보람아파트가 제6차 도시계획위원회 심의를 거쳐 4483가구 규모 대단지로 재건축될 전망이다.",
+        "body": "서울시 노원구 상계동 보람아파트가 제6차 도시계획위원회 개최 결과 재건축 정비계획을 통과해 총 4483가구 규모의 대단지로 탈바꿈한다. 이 단지는 1988년 준공된 노후 아파트로, 이번 정비계획 통과에 따라 상계동 일대 주거환경 개선과 대규모 주택 공급의 기반이 마련됐다. 계획이 본격 추진되면 기존 노후 단지는 4483가구 규모의 새 주거단지로 재편될 예정이다. 구체적인 사업 일정과 세부 추진 절차는 향후 정비사업 단계에 따라 진행된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Sanggye Boram Apartment Redevelopment Plan Approved for 4,483 Homes",
+        "excerpt": "Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, is set to be rebuilt into a 4,483-unit complex after review by the 6th Urban Planning Committee.",
+        "body": "Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, has passed its redevelopment maintenance plan following the 6th Urban Planning Committee meeting and will be transformed into a large complex with 4,483 homes. The aging apartment complex was completed in 1988. With the plan’s approval, a foundation has been laid for improving the residential environment in the Sanggye-dong area and supplying a large number of homes. Once the project moves forward, the old complex will be reorganized into a new 4,483-unit residential development. Specific schedules and procedures will proceed through future redevelopment stages. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "上渓ボラムアパート再建築計画が通過、4483戸の大団地へ転換",
+        "excerpt": "ソウル市蘆原区上渓洞のボラムアパートは、第6回都市計画委員会の審議を経て4483戸規模の大団地に再建築される見通しです。",
+        "body": "ソウル市蘆原区上渓洞のボラムアパートは、第6回都市計画委員会の開催結果、再建築整備計画を通過し、総4483戸規模の大団地へと生まれ変わる。1988年に竣工した老朽アパートで、今回の整備計画通過により、上渓洞一帯の住環境改善と大規模な住宅供給に向けた基盤が整った。事業が本格的に進めば、既存の老朽団地は4483戸規模の新たな住宅団地に再編される予定だ。具体的な事業日程と詳細な手続きは、今後の整備事業段階に沿って進められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "上溪Boram公寓重建规划获批，将变身4483户大型社区",
+        "excerpt": "首尔市芦原区上溪洞Boram公寓经第六次城市规划委员会审议后，预计将重建为4483户规模的大型住宅社区。",
+        "body": "首尔市芦原区上溪洞Boram公寓在第六次城市规划委员会会议后通过重建整备规划，将改造为总计4483户的大型住宅社区。该小区于1988年竣工，属于老旧公寓。此次整备规划获批，为改善上溪洞一带居住环境并推进大规模住宅供应奠定了基础。项目正式推进后，现有老旧小区将重组为4483户规模的新住宅区。具体项目日程和后续程序将根据今后的整备事业阶段推进。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Boram Apartment en Sanggye aprueba su plan y será un complejo de 4.483 viviendas",
+        "excerpt": "Boram Apartment, en Sanggye-dong, Nowon-gu, Seúl, será reconstruido como un complejo de 4.483 viviendas tras la revisión del 6.º Comité de Planificación Urbana.",
+        "body": "Boram Apartment, ubicado en Sanggye-dong, Nowon-gu, Seúl, aprobó su plan de mantenimiento para la reconstrucción tras la reunión del 6.º Comité de Planificación Urbana y se transformará en un gran complejo de 4.483 viviendas. El conjunto fue terminado en 1988 y se considera un complejo envejecido. Con esta aprobación, se establece una base para mejorar el entorno residencial de Sanggye-dong y ampliar la oferta de viviendas a gran escala. Cuando el proyecto avance, el complejo antiguo será reorganizado como una nueva zona residencial de 4.483 unidades. Los plazos y procedimientos específicos seguirán las etapas posteriores del proyecto de reconstrucción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Boram Apartment em Sanggye tem plano aprovado e será complexo de 4.483 unidades",
+        "excerpt": "O Boram Apartment, em Sanggye-dong, Nowon-gu, Seul, deverá ser reconstruído como um complexo de 4.483 unidades após análise do 6.º Comitê de Planejamento Urbano.",
+        "body": "O Boram Apartment, em Sanggye-dong, Nowon-gu, Seul, teve seu plano de manutenção para reconstrução aprovado após a reunião do 6.º Comitê de Planejamento Urbano e será transformado em um grande complexo com 4.483 unidades. O conjunto foi concluído em 1988 e é considerado um empreendimento antigo. Com a aprovação do plano, foi criada a base para melhorar o ambiente residencial na região de Sanggye-dong e ampliar a oferta habitacional em larga escala. Quando o projeto avançar, o complexo envelhecido será reorganizado como um novo empreendimento residencial de 4.483 unidades. Cronograma e procedimentos detalhados seguirão as próximas etapas do projeto. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sanggye Boram Apartment: Sanierungsplan für 4.483 Wohnungen genehmigt",
+        "excerpt": "Das Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, soll nach Prüfung durch den 6. Stadtplanungsausschuss zu einer Großanlage mit 4.483 Wohnungen umgebaut werden.",
+        "body": "Das Boram Apartment in Sanggye-dong, Nowon-gu, Seoul, hat nach der Sitzung des 6. Stadtplanungsausschusses den Sanierungs- und Wiederaufbauplan passiert und soll zu einer großen Wohnanlage mit insgesamt 4.483 Wohnungen werden. Die bestehende Anlage wurde 1988 fertiggestellt und gilt als veraltet. Mit der Genehmigung des Plans ist die Grundlage für eine Verbesserung des Wohnumfelds in Sanggye-dong und für ein umfangreiches Wohnungsangebot geschaffen. Sobald das Projekt voranschreitet, wird die alte Anlage zu einem neuen Wohnkomplex mit 4.483 Einheiten umstrukturiert. Konkrete Zeitpläne und weitere Verfahren folgen in den nächsten Projektphasen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Boram Apartment à Sanggye obtient son plan de reconstruction pour 4 483 logements",
+        "excerpt": "Boram Apartment, à Sanggye-dong dans l’arrondissement de Nowon à Séoul, devrait être reconstruit en un grand ensemble de 4 483 logements après l’examen du 6e comité d’urbanisme.",
+        "body": "Boram Apartment, situé à Sanggye-dong dans l’arrondissement de Nowon à Séoul, a obtenu l’approbation de son plan de réaménagement après la réunion du 6e comité d’urbanisme et sera transformé en un vaste ensemble de 4 483 logements. Le complexe, achevé en 1988, est un ensemble ancien. Cette approbation établit une base pour améliorer l’environnement résidentiel du secteur de Sanggye-dong et fournir un grand volume de logements. Lorsque le projet avancera, l’ancien complexe sera réorganisé en un nouveau quartier résidentiel de 4 483 unités. Le calendrier précis et les procédures détaillées suivront les prochaines étapes du projet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إقرار خطة إعادة بناء شقق سانغيه بورام وتحويلها إلى مجمع من 4483 وحدة",
+        "excerpt": "من المتوقع إعادة بناء شقق بورام في سانغيه دونغ، نوون غو في سيول، كمجمع كبير يضم 4483 وحدة بعد مراجعة لجنة التخطيط الحضري السادسة.",
+        "body": "اجتازت شقق بورام في سانغيه دونغ، نوون غو في سيول، خطة الصيانة الخاصة بإعادة البناء بعد اجتماع لجنة التخطيط الحضري السادسة، لتتحول إلى مجمع سكني كبير يضم إجمالا 4483 وحدة. وقد اكتمل بناء هذا المجمع القديم في عام 1988. ومع إقرار الخطة، وُضعت قاعدة لتحسين البيئة السكنية في منطقة سانغيه دونغ وتوفير مساكن على نطاق واسع. وعند بدء تنفيذ المشروع بشكل فعلي، سيعاد تنظيم المجمع القديم ليصبح مجمعا سكنيا جديدا من 4483 وحدة. أما الجدول الزمني والتفاصيل الإجرائية فستتقدم وفق مراحل مشروع الصيانة المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सांग्ये बोराम अपार्टमेंट पुनर्निर्माण योजना मंजूर, 4,483 घरों का बड़ा परिसर बनेगा",
+        "excerpt": "सियोल के नोवोन-गु स्थित सांग्ये-डोंग बोराम अपार्टमेंट को छठी शहरी योजना समिति की समीक्षा के बाद 4,483 घरों के बड़े परिसर में बदला जाएगा।",
+        "body": "सियोल के नोवोन-गु, सांग्ये-डोंग स्थित बोराम अपार्टमेंट ने छठी शहरी योजना समिति की बैठक के बाद पुनर्निर्माण रखरखाव योजना पार कर ली है और यह कुल 4,483 घरों वाले बड़े आवासीय परिसर में बदलेगा। यह पुराना अपार्टमेंट परिसर 1988 में पूरा हुआ था। योजना की मंजूरी से सांग्ये-डोंग क्षेत्र के आवासीय वातावरण में सुधार और बड़े पैमाने पर आवास आपूर्ति की नींव तैयार हुई है। परियोजना आगे बढ़ने पर मौजूदा पुराना परिसर 4,483 इकाइयों वाले नए आवासीय परिसर के रूप में पुनर्गठित किया जाएगा। विस्तृत समय-सारिणी और प्रक्रियाएं आगे के पुनर्विकास चरणों के अनुसार चलेंगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rencana Rekonstruksi Apartemen Sanggye Boram Lolos, Jadi Kompleks 4.483 Unit",
+        "excerpt": "Apartemen Boram di Sanggye-dong, Nowon-gu, Seoul, akan direkonstruksi menjadi kompleks besar 4.483 unit setelah ditinjau Komite Perencanaan Kota ke-6.",
+        "body": "Apartemen Boram di Sanggye-dong, Nowon-gu, Seoul, telah meloloskan rencana penataan untuk rekonstruksi setelah rapat Komite Perencanaan Kota ke-6 dan akan berubah menjadi kompleks besar dengan total 4.483 unit. Kompleks apartemen tua ini selesai dibangun pada 1988. Dengan lolosnya rencana tersebut, dasar untuk memperbaiki lingkungan hunian di kawasan Sanggye-dong dan menyediakan pasokan rumah berskala besar telah disiapkan. Jika proyek mulai berjalan penuh, kompleks lama akan ditata ulang menjadi kawasan hunian baru berisi 4.483 unit. Jadwal dan prosedur terperinci akan berjalan mengikuti tahap proyek penataan berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5d5e0c896d5f",
+    "slug": "지난달-아파트-증여직거래-급증-가족-간-저가양도-늘었나-378872",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T03:45:20.544Z",
+    "updatedAt": "2026-05-07T03:45:20.544Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039025",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039025",
+    "titleFingerprint": "36e5ee0aac886cd7959876675c3c4e75def55895",
+    "dedupKeys": [
+      "5d5e0c896d5f58921d04ee280c6cb060eb63119d",
+      "36e5ee0aac886cd7959876675c3c4e75def55895",
+      "c48506659da18261c80a2f4b5c6f903f47cfd2d1"
+    ],
+    "imageUrl": "/images/articles/5d5e0c896d5f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아파트 증여·직거래 급증에 저가양도 주목, 세금 전략 교육도 진행",
+        "excerpt": "지난달 아파트 증여와 직거래가 급증한 가운데 가족 간 저가양도 가능성이 주목받고, 증여·양도·보유세 절세 전략 교육과 상담이 진행된다.",
+        "body": "지난달 아파트 증여와 직거래가 급증하면서 가족 간 저가양도가 늘어난 것 아니냐는 시장의 관심이 커지고 있다. 원문은 증여와 상속을 주제로 한 ‘14기’ 교육 진행 소식과 함께 다주택자 양도세 중과 부활, 비거주 1주택자 장기보유특별공제 개정 등 세제 이슈를 다뤘다. 교육은 증여·양도·보유세 절세 전략을 중심으로 진행되며, 질의응답과 1:1 개별 상담도 포함된다. 아파트 거래 방식 변화와 세금 부담 조정 이슈가 맞물리면서 관련 교육 수요가 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Apartment Gifts and Direct Deals Surge, Spotlight on Family Discount Transfers",
+        "excerpt": "Apartment gifts and direct transactions rose sharply last month, drawing attention to possible low-price transfers within families and related tax-planning education.",
+        "body": "Apartment gifts and direct transactions surged last month, raising market attention over whether low-price transfers among family members have increased. The original report also covered news of the 14th education program on gifts and inheritance, along with tax issues such as the return of heavier capital gains tax for multiple-home owners and revisions to the long-term holding special deduction for nonresident single-home owners. The program focuses on strategies for reducing gift, transfer and holding taxes, and includes Q&A sessions and one-on-one consultations. Demand for related education is expected to continue as changes in apartment transaction methods intersect with tax burden issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "マンション贈与・直接取引が急増、家族間の低価格譲渡に関心",
+        "excerpt": "先月、マンションの贈与と直接取引が急増し、家族間の低価格譲渡の可能性と贈与・譲渡・保有税の節税教育が注目されている。",
+        "body": "先月、マンションの贈与と直接取引が急増し、家族間の低価格譲渡が増えたのではないかという市場の関心が高まっている。原文は、贈与と相続をテーマにした「14期」教育の実施案内とともに、多住宅保有者への譲渡税重課復活、非居住の1住宅保有者に対する長期保有特別控除の改正などの税制課題を扱った。教育は贈与税・譲渡税・保有税の節税戦略を中心に進められ、質疑応答と1対1の個別相談も含まれる。マンション取引方式の変化と税負担の調整問題が重なり、関連教育への需要は続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "公寓赠与和直接交易激增，家庭低价转让问题受关注",
+        "excerpt": "上月公寓赠与和直接交易大幅增加，家庭成员之间低价转让的可能性受到关注，相关赠与、转让和持有税节税教育也将进行。",
+        "body": "上月公寓赠与和直接交易激增，引发市场对家庭成员之间低价转让是否增加的关注。原文在介绍以赠与和继承为主题的“第14期”教育活动时，还提到多套房持有者转让税加重恢复、非居民一套房持有者长期持有特别扣除修订等税制议题。该教育将围绕赠与税、转让税和持有税的节税策略展开，并包括问答和一对一单独咨询。随着公寓交易方式变化与税负调整问题交织，相关教育需求预计将持续。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Suben donaciones y tratos directos de apartamentos; foco en cesiones familiares",
+        "excerpt": "Las donaciones y operaciones directas de apartamentos aumentaron con fuerza el mes pasado, mientras crece la atención sobre cesiones familiares a bajo precio y educación fiscal.",
+        "body": "Las donaciones y transacciones directas de apartamentos aumentaron con fuerza el mes pasado, elevando la atención del mercado sobre si han crecido las cesiones a bajo precio entre familiares. El texto original también informó sobre la realización del curso número 14 sobre donaciones y herencias, junto con temas fiscales como el retorno del recargo del impuesto a las ganancias de capital para propietarios de múltiples viviendas y la revisión de la deducción especial por tenencia a largo plazo para no residentes con una sola vivienda. La formación se centrará en estrategias para reducir impuestos sobre donación, transferencia y tenencia, e incluirá preguntas y respuestas y consultas individuales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Doações e negócios diretos de apartamentos disparam; foco em transferências familiares",
+        "excerpt": "As doações e transações diretas de apartamentos cresceram no mês passado, aumentando a atenção para possíveis transferências familiares abaixo do preço e educação tributária.",
+        "body": "As doações e transações diretas de apartamentos dispararam no mês passado, ampliando a atenção do mercado para a possibilidade de aumento das transferências a baixo preço entre familiares. O texto original também tratou da realização da 14ª turma de educação sobre doações e heranças, além de temas tributários como a volta da tributação agravada sobre ganhos de capital para proprietários de múltiplas moradias e a revisão da dedução especial por posse de longo prazo para não residentes com uma única moradia. O curso será centrado em estratégias para reduzir impostos sobre doação, transferência e posse, com perguntas e respostas e consultas individuais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsschenkungen und Direktdeals steigen stark, Familientransfers im Fokus",
+        "excerpt": "Im vergangenen Monat nahmen Wohnungsschenkungen und Direktgeschäfte deutlich zu; mögliche günstige Übertragungen innerhalb von Familien und Steuerbildung rücken in den Blick.",
+        "body": "Im vergangenen Monat sind Schenkungen und Direkttransaktionen von Wohnungen stark gestiegen, wodurch die Aufmerksamkeit des Marktes auf die Frage wächst, ob günstige Übertragungen zwischen Familienmitgliedern zugenommen haben. Der Originalbericht behandelte zudem die Durchführung des 14. Bildungsprogramms zu Schenkung und Erbschaft sowie steuerliche Themen wie die Rückkehr der erhöhten Kapitalertragsteuer für Mehrfachwohnungsbesitzer und die Änderung des Sonderabzugs für langfristigen Besitz bei nicht ansässigen Eigentümern einer einzigen Wohnung. Die Schulung konzentriert sich auf Strategien zur Senkung von Schenkungs-, Übertragungs- und Besitzsteuern und umfasst Fragen sowie Einzelberatungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dons et ventes directes d’appartements bondissent, les transferts familiaux scrutés",
+        "excerpt": "Les dons et transactions directes d’appartements ont fortement augmenté le mois dernier, attirant l’attention sur les cessions familiales à bas prix et la formation fiscale.",
+        "body": "Les dons et transactions directes d’appartements ont bondi le mois dernier, renforçant l’attention du marché sur une possible hausse des cessions à bas prix entre membres d’une famille. Le texte original mentionne aussi la tenue de la 14e formation consacrée aux dons et successions, ainsi que des sujets fiscaux comme le retour de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements et la révision de la déduction spéciale pour détention longue des non-résidents possédant un seul logement. La formation portera sur les stratégies de réduction des impôts liés aux dons, aux transferts et à la détention, avec questions-réponses et consultations individuelles. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع هبات الشقق والصفقات المباشرة يسلط الضوء على التحويلات العائلية",
+        "excerpt": "ارتفعت هبات الشقق والصفقات المباشرة الشهر الماضي، ما أثار الاهتمام باحتمال زيادة التحويلات منخفضة السعر بين أفراد الأسرة وبالتدريب الضريبي المرتبط بها.",
+        "body": "ارتفعت هبات الشقق والمعاملات المباشرة الشهر الماضي، ما زاد اهتمام السوق بما إذا كانت التحويلات منخفضة السعر بين أفراد الأسرة قد تزايدت. وتناول النص الأصلي أيضا خبر تنفيذ الدورة الرابعة عشرة حول الهبات والميراث، إلى جانب قضايا ضريبية مثل عودة التشديد على ضريبة الأرباح الرأسمالية لمالكي عدة مساكن، وتعديل الخصم الخاص للحيازة طويلة الأجل لغير المقيمين الذين يملكون مسكنا واحدا. يركز التدريب على استراتيجيات خفض ضرائب الهبة والتحويل والحيازة، ويشمل أسئلة وأجوبة واستشارات فردية. ومع تداخل تغير طرق تداول الشقق مع قضايا العبء الضريبي، من المتوقع استمرار الطلب على هذا النوع من التعليم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अपार्टमेंट उपहार और सीधे सौदे तेजी से बढ़े, पारिवारिक कम कीमत हस्तांतरण पर नजर",
+        "excerpt": "पिछले महीने अपार्टमेंट उपहार और सीधे लेनदेन तेजी से बढ़े, जिससे परिवारों के बीच कम कीमत हस्तांतरण और संबंधित कर-बचत शिक्षा पर ध्यान गया।",
+        "body": "पिछले महीने अपार्टमेंट के उपहार और सीधे लेनदेन तेजी से बढ़े, जिससे बाजार में यह ध्यान बढ़ा कि क्या परिवार के सदस्यों के बीच कम कीमत पर हस्तांतरण बढ़ा है। मूल पाठ में उपहार और उत्तराधिकार पर केंद्रित ‘14वीं’ शिक्षा प्रक्रिया के साथ-साथ कई घर रखने वालों पर पूंजीगत लाभ कर की अतिरिक्त दर की वापसी और गैर-निवासी एकल-घर मालिकों के लिए दीर्घकालिक होल्डिंग विशेष कटौती में संशोधन जैसे कर मुद्दों का उल्लेख किया गया। शिक्षा कार्यक्रम उपहार, हस्तांतरण और होल्डिंग करों की बचत रणनीतियों पर केंद्रित होगा तथा इसमें प्रश्नोत्तर और 1:1 व्यक्तिगत परामर्श शामिल होगा। अपार्टमेंट लेनदेन के तरीकों में बदलाव और कर बोझ से जुड़े मुद्दों के साथ संबंधित शिक्षा की मांग जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hibah dan Transaksi Langsung Apartemen Melonjak, Transfer Keluarga Disorot",
+        "excerpt": "Hibah dan transaksi langsung apartemen meningkat tajam bulan lalu, memicu perhatian pada kemungkinan transfer murah antar keluarga dan edukasi strategi pajak terkait.",
+        "body": "Hibah dan transaksi langsung apartemen melonjak bulan lalu, sehingga perhatian pasar meningkat terhadap kemungkinan bertambahnya transfer berharga rendah antar anggota keluarga. Teks asli juga memuat kabar penyelenggaraan pendidikan angkatan ke-14 tentang hibah dan warisan, disertai isu pajak seperti kembalinya pengenaan tambahan pajak capital gain bagi pemilik banyak rumah dan revisi potongan khusus kepemilikan jangka panjang bagi nonresiden pemilik satu rumah. Program ini berfokus pada strategi penghematan pajak hibah, pengalihan, dan kepemilikan, serta mencakup tanya jawab dan konsultasi individual 1:1. Seiring perubahan pola transaksi apartemen dan isu beban pajak, kebutuhan edukasi terkait diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "00b32be42873",
     "slug": "3기-신도시-분양-재개-고양창릉남양주-왕숙2-등-5600여-가구-공급-129361",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Tekanan Sewa Seoul Dorong Pindah ke Gyeonggi: 83.900 Orang pada Kuartal I, Tertinggi dalam 4 Tahun",
         "excerpt": "Pada kuartal pertama, 83.900 orang pindah dari Seoul ke Provinsi Gyeonggi, tertinggi dalam empat tahun, seiring berkurangnya pasokan jeonse dan meningkatnya beban harga rumah.",
         "body": "Pada kuartal pertama, jumlah penduduk yang pindah dari Seoul ke Provinsi Gyeonggi mencapai 83.900 orang, level tertinggi dalam empat tahun. Berkurangnya pasokan rumah sewa jeonse di Seoul dan meningkatnya beban biaya hunian membuat tren “keluar dari Seoul” kembali terlihat jelas. Menurut laporan asli, arus masuk di Gyeonggi banyak terjadi ke Suwon, Goyang, Yongin, dan Seongnam. Warga Seoul bergerak ke wilayah sekitar yang relatif memiliki lebih banyak pilihan, di tengah makin beratnya masalah sewa dan ketidakpastian harga rumah. Pergerakan ini menunjukkan permintaan hunian di kawasan metropolitan menyebar ke pinggiran Seoul dan kota-kota utama Gyeonggi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0b8fd0adc1ea",
-    "slug": "안-그래도-힘든데-전쟁-때문에-더-힘들어요중소건설사-곡소리-594435",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T15:28:00.614Z",
-    "updatedAt": "2026-05-06T15:28:00.614Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037110",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037110",
-    "titleFingerprint": "a2dc757dc64310dba39df7005f2909353fd29627",
-    "dedupKeys": [
-      "0b8fd0adc1ea11a8d54ca46eee19bf070bacd277",
-      "a2dc757dc64310dba39df7005f2909353fd29627",
-      "06586b09a7d9149caf18f49c70f15b15bca98122"
-    ],
-    "imageUrl": "/images/articles/0b8fd0adc1ea.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중소건설사 위기 심화, 공사비 급등·자재난에 중동전쟁까지 부담",
-        "excerpt": "공사비 급등과 자재난, 미분양으로 자금난을 겪는 중소·지방 건설사들이 중동전쟁 장기화까지 겹치며 폐업 증가와 업계 양극화 압박을 받고 있다.",
-        "body": "공사비 급등과 자재난, 미분양으로 돈줄이 막힌 중소건설사들이 중동전쟁 장기화라는 추가 악재에 직면했다. 이미 지방 건설사를 중심으로 폐업이 늘어나는 가운데, 원가 부담과 자금 조달 어려움이 겹치며 현장 운영 부담이 커지고 있다. 원문은 공사비가 급등하고 자재난이 이어지는 상황에서 중동전쟁 장기화가 중소건설사에 또 다른 파고가 될 수 있다고 전했다. 특히 미분양 등으로 유동성이 약해진 업체들은 연이은 악재를 버티기 어려울 수 있다는 우려가 나온다. 폐업 증가 속에 건설업 내 양극화도 심화되는 분위기다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Small builders face deeper crisis as costs, material shortages and Middle East war weigh",
-        "excerpt": "Small and regional builders squeezed by rising construction costs, material shortages and unsold homes face added pressure from a prolonged Middle East war and growing closures.",
-        "body": "Small construction companies whose funding has been constrained by soaring construction costs, material shortages and unsold homes are facing another setback: the prolonged Middle East war. Closures are already increasing, especially among regional builders, while higher costs and tighter financing are adding pressure to site operations. The original report said that, as construction costs rise sharply and material shortages continue, a prolonged Middle East conflict could become another wave of difficulty for smaller builders. Firms with weakened liquidity due to unsold units may struggle to withstand repeated adverse conditions. Amid rising closures, polarization within the construction industry is also deepening. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "中小建設会社の危機深刻化、工事費高騰・資材難に中東戦争も重荷",
-        "excerpt": "工事費高騰、資材難、未分譲で資金繰りが厳しい中小・地方建設会社は、中東戦争の長期化も重なり、廃業増加と業界の二極化に直面している。",
-        "body": "工事費の高騰と資材難、未分譲によって資金繰りが詰まった中小建設会社が、中東戦争の長期化という追加の悪材料に直面している。すでに地方建設会社を中心に廃業が増える中、原価負担と資金調達の難しさが重なり、現場運営の負担も大きくなっている。原文は、工事費が急騰し資材難が続く状況で、中東戦争の長期化が中小建設会社にとってもう一つの荒波になり得ると伝えた。特に未分譲などで流動性が弱まった企業は、相次ぐ悪材料に耐えにくいとの懸念が出ている。廃業増加の中、建設業界内の二極化も深まる雰囲気だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "中小建筑企业危机加深，工程费飙升、材料短缺叠加中东战争压力",
-        "excerpt": "受工程费飙升、材料短缺和未售房影响，中小及地方建筑企业资金吃紧；中东战争长期化又加重压力，停业增加并加剧行业分化。",
-        "body": "受工程费飙升、材料短缺和未售房影响，资金链受阻的中小建筑企业正面临中东战争长期化这一新增利空。以地方建筑企业为中心，停业数量已经增加，而成本负担和融资困难叠加，使施工现场运营压力进一步扩大。原文称，在工程费急剧上升、材料短缺持续的情况下，中东战争长期化可能成为中小建筑企业需要跨越的又一道浪潮。尤其是因未售房等问题导致流动性减弱的企业，可能难以承受接连不断的不利因素。随着停业增加，建筑行业内部的两极分化也呈加深趋势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Constructoras pequeñas bajo más presión por costos, escasez y guerra en Oriente Medio",
-        "excerpt": "Las constructoras pequeñas y regionales, afectadas por el alza de costos, la falta de materiales y viviendas sin vender, enfrentan más cierres y polarización del sector.",
-        "body": "Las pequeñas constructoras con problemas de financiación por el fuerte aumento de los costos de obra, la escasez de materiales y las viviendas sin vender afrontan ahora otro factor adverso: la prolongación de la guerra en Oriente Medio. Los cierres ya aumentan, sobre todo entre empresas regionales, mientras la carga de costos y las dificultades para obtener financiación presionan más la operación de las obras. El texto original señaló que, en un entorno de costos de construcción en alza y escasez persistente de materiales, el conflicto prolongado en Oriente Medio podría convertirse en otra ola difícil para las constructoras pequeñas. Las compañías con liquidez debilitada por unidades sin vender podrían tener problemas para resistir sucesivos golpes. También se profundiza la polarización del sector. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Pequenas construtoras sofrem mais com custos, falta de materiais e guerra no Oriente Médio",
-        "excerpt": "Construtoras pequenas e regionais, pressionadas por alta dos custos, escassez de materiais e imóveis não vendidos, enfrentam mais fechamentos e polarização no setor.",
-        "body": "Pequenas construtoras com o financiamento travado pela disparada dos custos de obra, pela escassez de materiais e por imóveis não vendidos enfrentam agora outro fator negativo: a prolongação da guerra no Oriente Médio. Os fechamentos já aumentam, sobretudo entre construtoras regionais, enquanto o peso dos custos e a dificuldade de obter recursos elevam a pressão sobre as operações nos canteiros. O texto original informou que, em meio ao forte aumento dos custos de construção e à continuidade da falta de materiais, a guerra prolongada no Oriente Médio pode se tornar mais uma onda difícil para as pequenas construtoras. Empresas com liquidez enfraquecida por estoques não vendidos podem ter dificuldade para suportar adversidades sucessivas. A polarização no setor também se aprofunda. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kleine Baufirmen geraten durch Kosten, Materialmangel und Nahostkrieg stärker unter Druck",
-        "excerpt": "Kleine und regionale Baufirmen leiden unter steigenden Baukosten, Materialmangel und unverkauften Wohnungen; der lange Nahostkrieg erhöht den Druck und die Zahl der Schließungen.",
-        "body": "Kleine Bauunternehmen, deren Finanzierung durch stark steigende Baukosten, Materialmangel und unverkaufte Einheiten blockiert ist, stehen vor einem weiteren Belastungsfaktor: der anhaltenden Nahostkrise. Bereits jetzt nehmen Schließungen vor allem bei regionalen Baufirmen zu, während höhere Kosten und schwierige Finanzierung den Betrieb auf den Baustellen zusätzlich erschweren. Der Originalbericht erklärte, dass der langwierige Krieg im Nahen Osten in einer Lage mit stark steigenden Baukosten und anhaltendem Materialmangel zu einer weiteren Welle von Problemen für kleine Baufirmen werden könnte. Besonders Unternehmen mit geschwächter Liquidität wegen unverkaufter Bestände könnten die wiederholten Belastungen nur schwer verkraften. Zugleich vertieft sich die Polarisierung in der Baubranche. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les petites entreprises du bâtiment sous pression face aux coûts, pénuries et guerre au Moyen-Orient",
-        "excerpt": "Les petites entreprises régionales du bâtiment, fragilisées par la hausse des coûts, les pénuries et les invendus, subissent la guerre prolongée au Moyen-Orient et davantage de fermetures.",
-        "body": "Les petites entreprises de construction, dont le financement est freiné par la flambée des coûts de chantier, les pénuries de matériaux et les logements invendus, font face à un nouveau facteur défavorable: la prolongation de la guerre au Moyen-Orient. Les fermetures augmentent déjà, surtout parmi les constructeurs régionaux, tandis que les coûts et les difficultés de financement alourdissent la gestion des chantiers. Le texte original indique que, dans un contexte de forte hausse des coûts de construction et de pénuries persistantes, la guerre prolongée au Moyen-Orient pourrait devenir une nouvelle vague difficile pour ces entreprises. Celles dont la liquidité a été affaiblie par les invendus pourraient peiner à résister à ces revers successifs. La polarisation du secteur s’accentue aussi. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شركات البناء الصغيرة تواجه أزمة أعمق مع ارتفاع التكاليف ونقص المواد وحرب الشرق الأوسط",
-        "excerpt": "شركات البناء الصغيرة والإقليمية، المتضررة من ارتفاع تكاليف البناء ونقص المواد والوحدات غير المباعة، تواجه ضغطا إضافيا مع طول أمد حرب الشرق الأوسط وزيادة الإغلاقات.",
-        "body": "تواجه شركات البناء الصغيرة، التي ضاقت مصادر تمويلها بسبب ارتفاع تكاليف البناء ونقص المواد والوحدات غير المباعة، عاملا سلبيا إضافيا يتمثل في طول أمد الحرب في الشرق الأوسط. وتزداد حالات الإغلاق بالفعل، خصوصا بين شركات البناء الإقليمية، بينما تتفاقم أعباء التشغيل في مواقع العمل مع تداخل ارتفاع التكاليف وصعوبة تأمين التمويل. وذكر النص الأصلي أن استمرار الحرب في الشرق الأوسط، في ظل الارتفاع الحاد لتكاليف البناء وتواصل نقص المواد، قد يشكل موجة أخرى صعبة أمام شركات البناء الصغيرة. وتبرز مخاوف من أن الشركات التي ضعفت سيولتها بسبب الوحدات غير المباعة قد لا تتمكن من تحمل سلسلة العوامل السلبية. كما يتعمق الاستقطاب داخل قطاع البناء وسط زيادة الإغلاقات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "छोटी निर्माण कंपनियों पर गहराया संकट, लागत वृद्धि, सामग्री कमी और मध्यपूर्व युद्ध का दबाव",
-        "excerpt": "निर्माण लागत में तेज बढ़ोतरी, सामग्री की कमी और बिना बिके घरों से जूझ रहीं छोटी व क्षेत्रीय निर्माण कंपनियों पर मध्यपूर्व युद्ध लंबा खिंचने से बंदी और उद्योग विभाजन का दबाव बढ़ा है।",
-        "body": "निर्माण लागत में तेज बढ़ोतरी, सामग्री की कमी और बिना बिके घरों के कारण धन प्रवाह रुकने से परेशान छोटी निर्माण कंपनियां अब मध्यपूर्व युद्ध के लंबे खिंचने जैसी अतिरिक्त प्रतिकूल स्थिति का सामना कर रही हैं। क्षेत्रीय निर्माण कंपनियों में बंदी पहले ही बढ़ रही है, जबकि लागत का बोझ और वित्त जुटाने की कठिनाई मिलकर साइट संचालन पर दबाव बढ़ा रहे हैं। मूल रिपोर्ट के अनुसार, निर्माण लागत तेजी से बढ़ने और सामग्री संकट जारी रहने की स्थिति में मध्यपूर्व युद्ध का लंबा होना छोटी निर्माण कंपनियों के लिए एक और बड़ी लहर बन सकता है। खासकर बिना बिके आवासों आदि से जिन कंपनियों की तरलता कमजोर हुई है, उनके लिए लगातार प्रतिकूल परिस्थितियों को झेलना कठिन हो सकता है। बंदी बढ़ने के बीच निर्माण उद्योग में ध्रुवीकरण भी गहरा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Krisis kontraktor kecil makin dalam akibat biaya, kelangkaan material, dan perang Timur Tengah",
-        "excerpt": "Kontraktor kecil dan daerah yang tertekan oleh lonjakan biaya konstruksi, kelangkaan material, dan unit tak terjual menghadapi tekanan tambahan dari perang Timur Tengah yang berkepanjangan.",
-        "body": "Kontraktor kecil yang aliran dananya tersumbat oleh lonjakan biaya konstruksi, kelangkaan material, dan unit yang belum terjual kini menghadapi faktor negatif tambahan: perang Timur Tengah yang berkepanjangan. Penutupan usaha sudah meningkat, terutama di kalangan kontraktor daerah, sementara beban biaya dan sulitnya memperoleh pendanaan membuat operasi proyek semakin berat. Teks asli menyebutkan bahwa, dalam situasi biaya konstruksi melonjak dan kelangkaan material berlanjut, perang Timur Tengah yang berkepanjangan dapat menjadi gelombang lain yang harus dihadapi kontraktor kecil. Perusahaan dengan likuiditas melemah akibat unit tak terjual dikhawatirkan sulit bertahan dari rangkaian tekanan tersebut. Di tengah peningkatan penutupan usaha, polarisasi dalam industri konstruksi juga makin dalam. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fe91a83e869f",
-    "slug": "특공에-3040-무주택-실수요-몰려e편한세상-부천-어반스퀘어-6일-1순위-청약-303067",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T15:26:38.596Z",
-    "updatedAt": "2026-05-06T15:26:38.596Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037118",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037118",
-    "titleFingerprint": "219b10fcca531eafe5feb8930b7c46ab7f72bd9d",
-    "dedupKeys": [
-      "fe91a83e869f9e9615b07fdf38031960df36b1eb",
-      "219b10fcca531eafe5feb8930b7c46ab7f72bd9d",
-      "bd8523828a707a5db78e6917355a05fda4fa5c55"
-    ],
-    "imageUrl": "/images/articles/fe91a83e869f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "e편한세상 부천 어반스퀘어 6일 1순위 청약, 특공에 3040 실수요 집중",
-        "excerpt": "DL이앤씨가 경기 부천시 원미구에서 공급한 e편한세상 부천 어반스퀘어가 6일 1순위 청약을 진행하며, 특별공급에는 495가구 모집에 628건이 접수됐다.",
-        "body": "DL이앤씨가 경기 부천시 원미구 일원에서 공급한 ‘e편한세상 부천 어반스퀘어’가 6일 1순위 청약에 들어간다. 앞서 진행된 특별공급에서는 495가구 모집에 628건이 접수되며 3040 무주택 실수요자의 관심이 확인됐다. 유형별로는 생애최초 특별공급이 5.16대 1의 경쟁률을 기록했다. 단지는 2중 역세권 입지와 비규제 단지라는 점이 청약 수요의 주요 배경으로 거론된다. 특별공급 접수 결과가 1순위 청약 분위기로 이어질지 시장의 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "e Pyeonhansesang Bucheon Urban Square Opens First-Round Subscriptions on May 6",
-        "excerpt": "DL E&C’s e Pyeonhansesang Bucheon Urban Square in Wonmi-gu, Bucheon, begins first-priority subscriptions on May 6 after 628 applications for 495 special-supply homes.",
-        "body": "DL E&C’s ‘e Pyeonhansesang Bucheon Urban Square,’ supplied in the Wonmi-gu area of Bucheon, Gyeonggi Province, begins first-priority subscriptions on May 6. In the earlier special-supply round, 628 applications were submitted for 495 homes, showing interest from homeless end-user buyers in their 30s and 40s. By category, the first-home special supply recorded a competition ratio of 5.16 to 1. The project’s dual-station-area location and status as a non-regulated complex are cited as key factors behind demand. Market attention is now on whether the special-supply result will carry into the first-priority round. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "eピョナンセサン富川アーバンスクエア、6日に1順位申込開始",
-        "excerpt": "DL E&Cが京畿道富川市遠美区で供給するeピョナンセサン富川アーバンスクエアは6日に1順位申込を実施し、特別供給495戸に628件が集まった。",
-        "body": "DL E&Cが京畿道富川市遠美区一帯で供給した「eピョナンセサン富川アーバンスクエア」が6日、1順位申込に入る。先に行われた特別供給では、495戸の募集に628件が受け付けられ、30代・40代の無住宅実需層の関心が確認された。類型別では生涯初の特別供給が5.16倍の競争率を記録した。同団地は二重駅勢圏の立地と非規制団地である点が、申込需要の主な背景として挙げられる。特別供給の受付結果が1順位申込の雰囲気につながるか、市場の関心が集まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "e편한세상富川Urban Square 6日启动第一顺位认购",
-        "excerpt": "DL E&C在京畿道富川市远美区供应的e편한세상富川Urban Square将于6日进行第一顺位认购，特别供应495户收到628份申请。",
-        "body": "DL E&C在京畿道富川市远美区一带供应的“e편한세상富川Urban Square”将于6日进入第一顺位认购。此前进行的特别供应中，495户募集共收到628份申请，显示出30至40多岁无房刚需人群的关注。按类型看，首次置业特别供应的竞争率达到5.16比1。该项目被提及的主要认购需求背景，是双重车站生活圈区位以及非管制楼盘属性。特别供应申请结果是否会延续至第一顺位认购，正受到市场关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "e Pyeonhansesang Bucheon Urban Square abre suscripción prioritaria el día 6",
-        "excerpt": "DL E&C inicia el día 6 la suscripción de primera prioridad de e Pyeonhansesang Bucheon Urban Square en Wonmi-gu, Bucheon, tras recibir 628 solicitudes para 495 viviendas especiales.",
-        "body": "DL E&C iniciará el día 6 la suscripción de primera prioridad para ‘e Pyeonhansesang Bucheon Urban Square’, suministrado en la zona de Wonmi-gu, ciudad de Bucheon, provincia de Gyeonggi. En la oferta especial realizada previamente, se recibieron 628 solicitudes para 495 viviendas, confirmando el interés de compradores finales sin vivienda en sus 30 y 40 años. Por tipo, la oferta especial para primera vivienda registró una competencia de 5,16 a 1. La ubicación con acceso a dos estaciones y su condición de complejo no regulado se citan como factores clave de la demanda. El mercado observa si este resultado se trasladará a la primera prioridad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "e Pyeonhansesang Bucheon Urban Square abre 1ª prioridade no dia 6",
-        "excerpt": "A DL E&C realiza no dia 6 a subscrição de primeira prioridade do e Pyeonhansesang Bucheon Urban Square, em Wonmi-gu, Bucheon, após 628 pedidos para 495 unidades especiais.",
-        "body": "A DL E&C inicia no dia 6 a subscrição de primeira prioridade do ‘e Pyeonhansesang Bucheon Urban Square’, fornecido na região de Wonmi-gu, cidade de Bucheon, província de Gyeonggi. Na oferta especial realizada anteriormente, 628 pedidos foram recebidos para 495 unidades, mostrando o interesse de compradores finais sem moradia própria na faixa dos 30 e 40 anos. Por categoria, a oferta especial para primeira aquisição registrou concorrência de 5,16 para 1. A localização com acesso a duas estações e o fato de ser um complexo não regulado são apontados como fatores relevantes da demanda. A atenção do mercado se volta para a continuidade desse resultado na primeira prioridade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "e Pyeonhansesang Bucheon Urban Square startet Erstrang-Zeichnung am 6.",
-        "excerpt": "DL E&C startet am 6. die Erstrang-Zeichnung für e Pyeonhansesang Bucheon Urban Square in Wonmi-gu, Bucheon, nachdem für 495 Sonderkontingent-Wohnungen 628 Anträge eingingen.",
-        "body": "DL E&C startet am 6. die Erstrang-Zeichnung für ‘e Pyeonhansesang Bucheon Urban Square’ im Gebiet Wonmi-gu der Stadt Bucheon in der Provinz Gyeonggi. In der zuvor durchgeführten Sonderzuteilung gingen für 495 Wohnungen 628 Anträge ein, was das Interesse wohnungsloser Eigennutzer in ihren 30ern und 40ern zeigt. Nach Kategorie verzeichnete die Sonderzuteilung für Erstkäufer eine Quote von 5,16 zu 1. Als wichtige Nachfragefaktoren gelten die Lage mit Zugang zu zwei Bahnhofsbereichen und der Status als nicht regulierte Anlage. Der Markt beobachtet, ob das Ergebnis der Sonderzuteilung auf die Erstrang-Zeichnung übergeht. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "e Pyeonhansesang Bucheon Urban Square lance la priorité 1 le 6",
-        "excerpt": "DL E&C ouvre le 6 la souscription de priorité 1 pour e Pyeonhansesang Bucheon Urban Square à Wonmi-gu, Bucheon, après 628 demandes pour 495 logements en offre spéciale.",
-        "body": "DL E&C lance le 6 la souscription de priorité 1 pour ‘e Pyeonhansesang Bucheon Urban Square’, proposé dans le secteur de Wonmi-gu à Bucheon, dans la province de Gyeonggi. Lors de l’offre spéciale précédente, 628 demandes ont été reçues pour 495 logements, confirmant l’intérêt des acheteurs utilisateurs sans logement dans la trentaine et la quarantaine. Par catégorie, l’offre spéciale destinée aux primo-accédants a enregistré un ratio de 5,16 contre 1. La localisation desservie par deux zones de gares et le statut de complexe non réglementé sont cités comme principaux facteurs de demande. Le marché observe si ce résultat se prolongera dans la souscription de priorité 1. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "e Pyeonhansesang Bucheon Urban Square يبدأ اكتتاب الأولوية الأولى في 6 مايو",
-        "excerpt": "تبدأ DL E&C في 6 مايو اكتتاب الأولوية الأولى لمشروع e Pyeonhansesang Bucheon Urban Square في وونمي غو بمدينة بوتشون، بعد تلقي 628 طلبا على 495 وحدة ضمن العرض الخاص.",
-        "body": "تبدأ DL E&C في 6 مايو اكتتاب الأولوية الأولى لمشروع ‘e Pyeonhansesang Bucheon Urban Square’ المطروح في منطقة وونمي غو بمدينة بوتشون في مقاطعة غيونغي. وفي العرض الخاص السابق، تم تلقي 628 طلبا على 495 وحدة، ما أظهر اهتمام المشترين الفعليين بلا مساكن، وخصوصا في الثلاثينيات والأربعينيات. وبحسب الفئة، سجل عرض شراء المسكن الأول منافسة بلغت 5.16 إلى 1. ويشار إلى موقع المشروع ضمن نطاق محطتين وكونه مجمعا غير خاضع للتنظيم كعاملين رئيسيين وراء الطلب. وتتركز أنظار السوق على ما إذا كانت نتائج العرض الخاص ستنعكس على اكتتاب الأولوية الأولى. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "e Pyeonhansesang Bucheon Urban Square में 6 मई को प्रथम प्राथमिकता आवेदन",
-        "excerpt": "DL E&C का e Pyeonhansesang Bucheon Urban Square, बुछन के Wonmi-gu में, 6 मई को प्रथम प्राथमिकता आवेदन शुरू करेगा; विशेष आपूर्ति की 495 इकाइयों पर 628 आवेदन मिले।",
-        "body": "DL E&C द्वारा ग्योंगगी प्रांत के बुछन शहर के Wonmi-gu क्षेत्र में आपूर्ति किया गया ‘e Pyeonhansesang Bucheon Urban Square’ 6 मई को प्रथम प्राथमिकता आवेदन में प्रवेश करेगा। इससे पहले हुई विशेष आपूर्ति में 495 इकाइयों के लिए 628 आवेदन मिले, जिससे 30 और 40 की उम्र वाले बिना घर के वास्तविक खरीदारों की रुचि दिखाई दी। श्रेणी के अनुसार, पहली बार घर खरीदने वालों की विशेष आपूर्ति में 5.16:1 की प्रतिस्पर्धा दर्ज हुई। दोहरे स्टेशन क्षेत्र की स्थिति और गैर-नियामित परिसर होना आवेदन मांग की प्रमुख पृष्ठभूमि माने जा रहे हैं। बाजार की नजर इस पर है कि विशेष आपूर्ति का परिणाम प्रथम प्राथमिकता आवेदन में जारी रहता है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "e Pyeonhansesang Bucheon Urban Square Buka Prioritas Pertama pada 6 Mei",
-        "excerpt": "DL E&C akan membuka pendaftaran prioritas pertama e Pyeonhansesang Bucheon Urban Square di Wonmi-gu, Bucheon, pada 6 Mei setelah 628 aplikasi masuk untuk 495 unit pasokan khusus.",
-        "body": "DL E&C akan memulai pendaftaran prioritas pertama untuk ‘e Pyeonhansesang Bucheon Urban Square’ yang dipasok di wilayah Wonmi-gu, Kota Bucheon, Provinsi Gyeonggi, pada 6 Mei. Dalam pasokan khusus sebelumnya, 628 aplikasi diterima untuk 495 unit, menunjukkan minat pembeli pengguna akhir tanpa rumah, terutama usia 30-an dan 40-an. Berdasarkan kategori, pasokan khusus untuk pembeli rumah pertama mencatat rasio persaingan 5,16 banding 1. Lokasi dengan akses ke dua area stasiun serta status sebagai kompleks non-regulasi disebut sebagai faktor utama permintaan. Pasar memperhatikan apakah hasil pasokan khusus ini akan berlanjut ke pendaftaran prioritas pertama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ccd6c8e460c7",
-    "slug": "신규-계약-17-감소한-서울갱신권-앞세워-집-지키기-들어간-수도권-아파트-세입자들-968672",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T15:25:36.192Z",
-    "updatedAt": "2026-05-06T15:25:36.192Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037172",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037172",
-    "titleFingerprint": "77e62f3fb7caa2a2e8a3a72c611e6efa267e52a1",
-    "dedupKeys": [
-      "ccd6c8e460c7cefa58d082baf3ec4684a46f48b8",
-      "77e62f3fb7caa2a2e8a3a72c611e6efa267e52a1",
-      "ae0477b2c40160bf4d1cf03f59b9f0f1a7b5fa7b"
-    ],
-    "imageUrl": "/images/articles/ccd6c8e460c7.png",
-    "i18n": {
-      "ko": {
-        "title": "서울 신규 전월세 계약 17% 감소…수도권 세입자 갱신권으로 ‘집 지키기’ 확산",
-        "excerpt": "6일 집품이 국토교통부 실거래가 자료를 분석한 결과, 올해 1분기 수도권 전월세 시장에서 공급 불안이 커지며 신규 계약은 줄고 갱신 계약 비중은 늘었다.",
-        "body": "서울 아파트 전월세 시장에서 신규 계약이 17% 감소한 가운데 수도권 세입자들이 계약갱신청구권을 활용해 기존 주거지를 유지하는 흐름이 강해진 것으로 나타났다. 6일 부동산 정보 앱 집품이 국토교통부 실거래가 자료를 분석한 결과, 올해 1분기 수도권 전월세 시장에서는 공급 불안이 심화하며 갱신 계약 비중이 늘었다. 특히 서울에서 신규 계약 감소가 두드러지면서 세입자들이 새 집을 찾기보다 기존 계약을 연장하는 선택을 하는 모습이다. 전월세 공급이 불안정한 상황이 이어질 경우 수도권 임차 시장에서 갱신 중심 흐름은 당분간 주목될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul New Rental Contracts Drop 17% as Metro Tenants Use Renewal Rights to Stay Put",
-        "excerpt": "According to Jippoom’s May 6 analysis of MOLIT transaction data, supply concerns in the capital-area rental market pushed up the share of renewed leases in Q1.",
-        "body": "New apartment jeonse and monthly rent contracts in Seoul fell 17%, while tenants across the capital region increasingly used renewal rights to remain in their current homes. Real estate information app Jippoom said on May 6 that its analysis of Ministry of Land, Infrastructure and Transport transaction data showed a higher share of renewal contracts in the capital-area rental market in the first quarter of this year as supply instability deepened. The decline in new contracts was especially notable in Seoul, indicating tenants were choosing to extend existing leases rather than look for new homes. If rental supply remains unstable, renewal-centered leasing in the metropolitan market is expected to stay in focus. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル新規賃貸契約17％減、首都圏借家人は更新権で住まい維持へ",
-        "excerpt": "不動産情報アプリのチップムが6日、国土交通部の実取引価格資料を分析した結果、今年1～3月の首都圏賃貸市場で供給不安により更新契約の比率が上昇した。",
-        "body": "ソウルのマンション賃貸市場で新規契約が17％減少するなか、首都圏の借家人が契約更新請求権を使って現在の住まいを維持する動きが強まっている。6日、不動産情報アプリのチップムが国土交通部の実取引価格資料を分析したところ、今年1～3月の首都圏のチョンセ・月払い家賃市場では供給不安が深まり、更新契約の比率が高まった。特にソウルでは新規契約の減少が目立ち、借家人が新たな住宅を探すより既存契約を延長する選択をしている様子がうかがえる。賃貸供給の不安定さが続けば、首都圏の賃貸市場では更新中心の流れが当面注目される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔新租赁合同减少17%，首都圈租户借续约权保住房源",
-        "excerpt": "房地产信息应用Jippoom于6日分析韩国国土交通部实际成交资料显示，今年一季度首都圈租赁市场供给不安加深，续约合同占比上升。",
-        "body": "首尔公寓全租和月租市场的新签合同减少17%，首都圈租户利用合同续约请求权维持现有居住地的趋势增强。6日，房地产信息应用Jippoom分析韩国国土交通部实际成交价资料后表示，今年一季度首都圈全租、月租市场供给不安加深，续约合同占比有所上升。尤其在首尔，新签合同减少更为明显，显示租户相比寻找新住房，更倾向于延长既有合同。若租赁供给不稳定局面持续，首都圈租赁市场以续约为中心的 흐름预计仍将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Seúl registra 17% menos contratos nuevos y los inquilinos renuevan para conservar vivienda",
-        "excerpt": "Según Jippoom, que analizó el 6 de mayo datos de transacciones del Ministerio de Tierra, la inestabilidad de oferta elevó la proporción de renovaciones en el área metropolitana en el primer trimestre.",
-        "body": "En el mercado de alquiler de apartamentos de Seúl, los nuevos contratos de jeonse y renta mensual cayeron 17%, mientras más inquilinos del área metropolitana recurren al derecho de renovación para permanecer en sus viviendas actuales. La aplicación inmobiliaria Jippoom informó el 6 de mayo que, tras analizar datos de precios reales de transacciones del Ministerio de Tierra, Infraestructura y Transporte, la proporción de contratos renovados aumentó en el primer trimestre de este año por la creciente inestabilidad de la oferta. La baja de nuevos contratos fue especialmente marcada en Seúl, lo que muestra que los inquilinos optan por extender acuerdos existentes antes que buscar otra vivienda. Si la oferta sigue inestable, el mercado de alquiler metropolitano seguirá atento a esta tendencia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Seul tem queda de 17% em novos aluguéis e inquilinos renovam para manter moradia",
-        "excerpt": "Segundo análise da Jippoom divulgada em 6 de maio com dados do Ministério da Terra, a instabilidade de oferta elevou a fatia de renovações no mercado de aluguel da região metropolitana no 1º trimestre.",
-        "body": "No mercado de jeonse e aluguel mensal de apartamentos em Seul, os novos contratos caíram 17%, enquanto inquilinos da região metropolitana passaram a usar mais o direito de renovação para permanecer nas moradias atuais. A plataforma imobiliária Jippoom informou em 6 de maio que, ao analisar dados de transações reais do Ministério da Terra, Infraestrutura e Transportes, identificou aumento da proporção de contratos renovados no primeiro trimestre deste ano, em meio à piora da instabilidade de oferta. A queda foi particularmente evidente em Seul, mostrando que os locatários preferem estender contratos existentes a procurar novas casas. Se a oferta de aluguel continuar instável, essa tendência de renovação deve seguir em destaque. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul: Neue Mietverträge sinken um 17%, Mieter sichern Wohnungen per Verlängerung",
-        "excerpt": "Jippoom analysierte am 6. Mai Transaktionsdaten des Verkehrs- und Bauministeriums: Im ersten Quartal stieg im Großraum Seoul wegen Angebotsunsicherheit der Anteil verlängerter Mietverträge.",
-        "body": "Auf dem Wohnungsmarkt für Jeonse- und Monatsmieten in Seoul gingen neue Mietverträge um 17% zurück, während Mieter im Großraum Seoul häufiger ihr Verlängerungsrecht nutzten, um in ihren bisherigen Wohnungen zu bleiben. Die Immobilien-App Jippoom teilte am 6. Mai mit, eine Analyse realer Transaktionsdaten des Ministeriums für Land, Infrastruktur und Verkehr zeige für das erste Quartal dieses Jahres einen höheren Anteil von Vertragsverlängerungen im Mietmarkt der Hauptstadtregion, da sich die Unsicherheit beim Angebot verschärft habe. Besonders in Seoul fiel der Rückgang neuer Verträge auf. Das deutet darauf hin, dass Mieter bestehende Verträge verlängern, statt neue Wohnungen zu suchen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Séoul: les nouveaux baux chutent de 17%, les locataires misent sur le renouvellement",
-        "excerpt": "Selon Jippoom, qui a analysé le 6 mai les données de transactions du ministère du Territoire, l’instabilité de l’offre a accru la part des renouvellements dans la région capitale au 1er trimestre.",
-        "body": "Sur le marché des appartements en jeonse et loyers mensuels à Séoul, les nouveaux contrats ont reculé de 17%, tandis que les locataires de la région capitale utilisent davantage leur droit au renouvellement pour conserver leur logement. L’application immobilière Jippoom a indiqué le 6 mai que son analyse des données de transactions réelles du ministère du Territoire, des Infrastructures et des Transports montrait une hausse de la part des baux renouvelés au premier trimestre de cette année, sur fond d’instabilité accrue de l’offre. La baisse des nouveaux contrats est particulièrement visible à Séoul, signe que les locataires préfèrent prolonger leur bail existant plutôt que chercher un nouveau logement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "انخفاض عقود الإيجار الجديدة في سيول 17% والمستأجرون يتمسكون بالتجديد",
-        "excerpt": "أظهر تحليل تطبيق Jippoom في 6 مايو لبيانات الصفقات الفعلية بوزارة الأراضي أن اضطراب المعروض في سوق الإيجار بمنطقة العاصمة رفع حصة عقود التجديد في الربع الأول.",
-        "body": "تراجعت عقود الجونسي والإيجار الشهري الجديدة للشقق في سيول بنسبة 17%، في حين اتجه مستأجرو منطقة العاصمة بشكل أكبر إلى استخدام حق طلب تجديد العقد للبقاء في مساكنهم الحالية. وقال تطبيق المعلومات العقارية Jippoom في 6 مايو إن تحليله لبيانات الأسعار الفعلية للصفقات الصادرة عن وزارة الأراضي والبنية التحتية والنقل أظهر ارتفاع حصة عقود التجديد في سوق الجونسي والإيجار الشهري بمنطقة العاصمة خلال الربع الأول من هذا العام، مع تعمق اضطراب المعروض. وكان انخفاض العقود الجديدة لافتا خصوصا في سيول، ما يشير إلى أن المستأجرين يفضلون تمديد العقود القائمة بدلا من البحث عن مساكن جديدة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल में नए किराया अनुबंध 17% घटे, राजधानी क्षेत्र के किरायेदार नवीनीकरण से घर बचा रहे",
-        "excerpt": "Jippoom ने 6 मई को भूमि मंत्रालय के वास्तविक लेनदेन आंकड़ों के विश्लेषण में बताया कि इस वर्ष पहली तिमाही में राजधानी क्षेत्र के किराया बाजार में आपूर्ति अस्थिरता से नवीनीकरण अनुबंधों की हिस्सेदारी बढ़ी।",
-        "body": "सियोल के अपार्टमेंट jeonse और मासिक किराया बाजार में नए अनुबंध 17% घटे, जबकि राजधानी क्षेत्र के किरायेदार अपने मौजूदा घरों में बने रहने के लिए अनुबंध नवीनीकरण अधिकार का अधिक उपयोग कर रहे हैं। रियल एस्टेट सूचना ऐप Jippoom ने 6 मई को कहा कि भूमि, अवसंरचना और परिवहन मंत्रालय के वास्तविक लेनदेन मूल्य आंकड़ों के उसके विश्लेषण के अनुसार, इस वर्ष पहली तिमाही में राजधानी क्षेत्र के jeonse और मासिक किराया बाजार में आपूर्ति अस्थिरता गहराने से नवीनीकरण अनुबंधों की हिस्सेदारी बढ़ी। सियोल में नए अनुबंधों की गिरावट विशेष रूप से स्पष्ट रही, जिससे दिखता है कि किरायेदार नया घर खोजने के बजाय मौजूदा अनुबंध बढ़ा रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kontrak Sewa Baru Seoul Turun 17%, Penyewa Metro Pilih Perpanjangan untuk Bertahan",
-        "excerpt": "Analisis Jippoom pada 6 Mei atas data transaksi Kementerian Pertanahan menunjukkan ketidakstabilan pasokan pasar sewa wilayah metropolitan pada kuartal I menaikkan porsi kontrak perpanjangan.",
-        "body": "Di pasar jeonse dan sewa bulanan apartemen Seoul, kontrak baru turun 17%, sementara penyewa di wilayah metropolitan makin banyak memakai hak perpanjangan kontrak untuk tetap tinggal di hunian saat ini. Aplikasi informasi properti Jippoom pada 6 Mei menyatakan bahwa hasil analisis atas data harga transaksi aktual Kementerian Pertanahan, Infrastruktur, dan Transportasi menunjukkan porsi kontrak perpanjangan meningkat pada kuartal pertama tahun ini karena ketidakstabilan pasokan di pasar jeonse dan sewa bulanan wilayah metropolitan memburuk. Penurunan kontrak baru terutama menonjol di Seoul, memperlihatkan penyewa memilih memperpanjang kontrak yang ada daripada mencari rumah baru. Sumber: mk.co.kr"
       }
     }
   }
