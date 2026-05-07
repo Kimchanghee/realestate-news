@@ -1,5 +1,230 @@
 [
   {
+    "id": "71d29b34ce72",
+    "slug": "분당-양지마을-주민대표단-신규-신탁사-선정-설명회-개최-563907",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T00:55:24.311Z",
+    "updatedAt": "2026-05-07T00:55:24.311Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050703746",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050703746",
+    "titleFingerprint": "8e66649b6ec58d42c1e3bd9b9716c51a40ef48d6",
+    "dedupKeys": [
+      "71d29b34ce72a4638bced1fbc4bc0e9ead5ad3ca",
+      "8e66649b6ec58d42c1e3bd9b9716c51a40ef48d6",
+      "0a8a605225181903f5479aa150c39b9b3030a3f5"
+    ],
+    "imageUrl": "/images/articles/71d29b34ce72.jpg",
+    "i18n": {
+      "ko": {
+        "title": "분당 양지마을 주민대표단, 신규 신탁사 선정 설명회 개최",
+        "excerpt": "분당 양지마을 주민대표단이 신규 신탁사 선정을 위한 설명회를 열고 주민들에게 관련 절차와 논의 내용을 알렸다고 hankyung.com이 보도했다.",
+        "body": "분당 양지마을 주민대표단이 신규 신탁사 선정을 위한 설명회를 개최했다. 이번 설명회는 주민대표단이 신탁사 선정과 관련한 내용을 주민들에게 공유하기 위해 마련한 자리다. 원문에 따르면 설명회의 핵심 사안은 신규 신탁사 선정이며, 주민대표단이 이를 중심으로 설명회를 진행했다. 구체적인 일정, 참석 인원, 후보 신탁사 명단, 선정 방식 등 추가 수치는 원문 요약에 제시되지 않았다. 이번 설명회는 양지마을 주민들이 신탁사 선정 관련 흐름을 확인하는 절차로 의미가 있다. 향후 진행 상황은 주민대표단의 추가 안내와 관련 절차에 따라 확인될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Bundang Yangji Village Residents Hold Briefing on New Trustee Selection",
+        "excerpt": "The residents’ delegation of Yangji Village in Bundang held a briefing on selecting a new trustee company, hankyung.com reported.",
+        "body": "The residents’ delegation of Yangji Village in Bundang held a briefing session to discuss the selection of a new trustee company. The meeting was arranged to share information with residents about matters related to choosing the new trustee. According to the original report, the central issue of the session was the selection of a new trust company, with the delegation leading the explanation. Specific details such as the date, number of attendees, candidate firms, or selection method were not provided in the source summary. The briefing is significant as a step for residents to review the direction of the trustee selection process. Further developments are expected to depend on additional notices from the delegation and related procedures. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "盆唐・陽地村住民代表団、新たな信託会社選定説明会を開催",
+        "excerpt": "盆唐の陽地村住民代表団が、新たな信託会社の選定に向けた説明会を開き、関連手続きと議論内容を住民に共有したとhankyung.comが報じた。",
+        "body": "盆唐の陽地村住民代表団が、新たな信託会社を選定するための説明会を開催した。今回の説明会は、住民代表団が信託会社選定に関する内容を住民に共有するために設けた場だ。原文によると、説明会の中心議題は新たな信託会社の選定であり、住民代表団がこれを軸に説明を行った。具体的な日程、参加人数、候補となる信託会社名、選定方式などの追加数値は原文要約には示されていない。今回の説明会は、陽地村の住民が信託会社選定の流れを確認する手続きとして意味を持つ。今後の進行状況は、住民代表団の追加案内と関連手続きに沿って確認される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "盆唐阳地村居民代表团举行新信托公司遴选说明会",
+        "excerpt": "据hankyung.com报道，盆唐阳地村居民代表团举行新信托公司遴选说明会，向居民说明相关程序和讨论内容。",
+        "body": "盆唐阳地村居民代表团举行了新信托公司遴选说明会。此次说明会旨在由居民代表团向居民共享与信托公司遴选有关的内容。根据原文，说明会的核心事项是新信托公司的遴选，居民代表团围绕这一主题进行了说明。原文摘要未提供具体日期、参会人数、候选信托公司名单、遴选方式等进一步数据。此次说明会的意义在于，阳地村居民可借此确认信托公司遴选相关进展。后续情况预计将根据居民代表团的进一步通知和相关程序加以确认。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Delegación de Yangji Village en Bundang realiza reunión sobre nueva fiduciaria",
+        "excerpt": "La delegación vecinal de Yangji Village en Bundang celebró una sesión informativa para seleccionar una nueva sociedad fiduciaria, informó hankyung.com.",
+        "body": "La delegación de residentes de Yangji Village, en Bundang, celebró una sesión informativa para la selección de una nueva sociedad fiduciaria. La reunión fue organizada para compartir con los vecinos información relacionada con la elección de la fiduciaria. Según el texto original, el asunto central de la sesión fue la selección de la nueva compañía fiduciaria, y la delegación vecinal condujo la explicación. El resumen de la fuente no incluye detalles como fecha concreta, número de asistentes, lista de firmas candidatas o método de selección. La sesión tiene relevancia como paso para que los residentes de Yangji Village conozcan el curso del proceso. Los próximos avances se confirmarían mediante nuevos avisos de la delegación y los procedimientos correspondientes. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Representantes de Yangji Village, em Bundang, fazem reunião sobre nova fiduciária",
+        "excerpt": "A delegação de moradores de Yangji Village, em Bundang, realizou uma sessão informativa para escolher uma nova empresa fiduciária, informou o hankyung.com.",
+        "body": "A delegação de moradores de Yangji Village, em Bundang, realizou uma sessão informativa para tratar da seleção de uma nova empresa fiduciária. O encontro foi organizado para compartilhar com os residentes informações relacionadas à escolha da fiduciária. Segundo o texto original, o ponto central da sessão foi a seleção da nova empresa fiduciária, com a delegação conduzindo a explicação. O resumo da fonte não apresenta detalhes como data específica, número de participantes, lista de candidatas ou método de seleção. A reunião tem importância como etapa para que os moradores acompanhem o andamento do processo. Os próximos desdobramentos deverão ser confirmados por novos comunicados da delegação e pelos procedimentos relacionados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Bewohnerdelegation von Yangji Village in Bundang hält Infoveranstaltung ab",
+        "excerpt": "Die Bewohnerdelegation von Yangji Village in Bundang hat eine Informationsveranstaltung zur Auswahl einer neuen Treuhandgesellschaft abgehalten, berichtete hankyung.com.",
+        "body": "Die Bewohnerdelegation von Yangji Village in Bundang hat eine Informationsveranstaltung zur Auswahl einer neuen Treuhandgesellschaft abgehalten. Die Veranstaltung diente dazu, den Bewohnern Inhalte im Zusammenhang mit der Auswahl der Treuhandgesellschaft mitzuteilen. Laut dem Originalbericht stand die Auswahl einer neuen Treuhandgesellschaft im Mittelpunkt, wobei die Bewohnerdelegation die Erläuterungen übernahm. Konkrete Angaben zu Termin, Teilnehmerzahl, Kandidatenliste oder Auswahlverfahren wurden in der Zusammenfassung der Quelle nicht genannt. Die Veranstaltung ist als Schritt zu werten, mit dem die Bewohner von Yangji Village den Stand des Auswahlprozesses nachvollziehen können. Weitere Entwicklungen dürften über zusätzliche Mitteilungen der Delegation und die entsprechenden Verfahren bestätigt werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "À Bundang, Yangji Village organise une réunion sur le choix d’un nouveau fiduciaire",
+        "excerpt": "La délégation des résidents de Yangji Village à Bundang a tenu une réunion d’information sur la sélection d’une nouvelle société fiduciaire, selon hankyung.com.",
+        "body": "La délégation des résidents de Yangji Village, à Bundang, a organisé une réunion d’information consacrée à la sélection d’une nouvelle société fiduciaire. Cette réunion visait à partager avec les habitants les informations liées au choix du fiduciaire. Selon le texte original, le sujet central était la sélection d’une nouvelle société fiduciaire, et la délégation des résidents a mené les explications. Le résumé de la source ne précise pas la date, le nombre de participants, la liste des sociétés candidates ni la méthode de sélection. Cette réunion constitue une étape permettant aux habitants de Yangji Village de suivre l’évolution du processus. Les prochaines avancées devraient être confirmées par de nouvelles communications de la délégation et par les procédures concernées. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "وفد سكان قرية يانغجي في بوندانغ يعقد جلسة لاختيار شركة ائتمان جديدة",
+        "excerpt": "عقد وفد سكان قرية يانغجي في بوندانغ جلسة توضيحية بشأن اختيار شركة ائتمان جديدة، لإبلاغ السكان بالإجراءات والنقاشات ذات الصلة، بحسب hankyung.com.",
+        "body": "عقد وفد سكان قرية يانغجي في بوندانغ جلسة توضيحية لاختيار شركة ائتمان جديدة. وجاءت الجلسة بهدف أن يشارك الوفد مع السكان المعلومات المتعلقة باختيار شركة الائتمان. ووفق النص الأصلي، كان الموضوع الرئيسي للجلسة هو اختيار شركة ائتمان جديدة، وقد تولى وفد السكان شرح ذلك. ولم يرد في ملخص المصدر تفاصيل إضافية مثل الموعد المحدد، أو عدد الحاضرين، أو أسماء الشركات المرشحة، أو طريقة الاختيار. تكتسب هذه الجلسة أهمية بوصفها خطوة تتيح لسكان قرية يانغجي متابعة مسار اختيار شركة الائتمان. ومن المتوقع أن تتضح التطورات اللاحقة عبر إعلانات إضافية من وفد السكان والإجراءات ذات الصلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "बुंदांग यांगजी विलेज प्रतिनिधिमंडल ने नई ट्रस्ट कंपनी चयन बैठक की",
+        "excerpt": "बुंदांग के यांगजी विलेज निवासी प्रतिनिधिमंडल ने नई ट्रस्ट कंपनी के चयन पर सूचना बैठक आयोजित की और संबंधित प्रक्रिया साझा की, hankyung.com ने बताया।",
+        "body": "बुंदांग के यांगजी विलेज निवासी प्रतिनिधिमंडल ने नई ट्रस्ट कंपनी के चयन के लिए एक सूचना बैठक आयोजित की। यह बैठक प्रतिनिधिमंडल द्वारा निवासियों को ट्रस्ट कंपनी चयन से जुड़ी जानकारी साझा करने के लिए रखी गई थी। मूल रिपोर्ट के अनुसार, बैठक का मुख्य विषय नई ट्रस्ट कंपनी का चयन था और निवासी प्रतिनिधिमंडल ने इसी पर説明 दिया। स्रोत सारांश में बैठक की सटीक तारीख, उपस्थित लोगों की संख्या, उम्मीदवार ट्रस्ट कंपनियों की सूची या चयन पद्धति जैसे अतिरिक्त विवरण नहीं दिए गए हैं। यह बैठक यांगजी विलेज के निवासियों के लिए चयन प्रक्रिया की दिशा समझने का एक चरण है। आगे की स्थिति प्रतिनिधिमंडल की अतिरिक्त सूचना और संबंधित प्रक्रियाओं के अनुसार स्पष्ट होने की उम्मीद है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Delegasi Warga Yangji Village Bundang Gelar Paparan Pemilihan Trustee Baru",
+        "excerpt": "Delegasi warga Yangji Village di Bundang menggelar sesi paparan untuk memilih perusahaan trustee baru dan membagikan proses terkait, menurut hankyung.com.",
+        "body": "Delegasi warga Yangji Village di Bundang menggelar sesi paparan untuk pemilihan perusahaan trustee baru. Pertemuan ini disiapkan agar delegasi warga dapat membagikan informasi terkait pemilihan perusahaan trustee kepada para penghuni. Menurut teks asli, isu utama dalam sesi tersebut adalah pemilihan perusahaan trustee baru, dengan delegasi warga memimpin penjelasan. Ringkasan sumber tidak memuat rincian tambahan seperti tanggal, jumlah peserta, daftar perusahaan kandidat, atau metode pemilihan. Sesi ini bermakna sebagai langkah bagi warga Yangji Village untuk memahami alur pemilihan trustee. Perkembangan berikutnya diperkirakan akan dikonfirmasi melalui pemberitahuan tambahan dari delegasi warga dan prosedur terkait. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "71b40c2b6a8f",
+    "slug": "다주택자-양도세-중과-종료-5월-9일-서울-25개-구청-문연다-863517",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T00:54:30.450Z",
+    "updatedAt": "2026-05-07T00:54:30.450Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605069916i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605069916i",
+    "titleFingerprint": "d0f78bf915a2c657c1679088c7ed51eef06241c2",
+    "dedupKeys": [
+      "71b40c2b6a8f136c5b2a82dc81795bf60c68755b",
+      "d0f78bf915a2c657c1679088c7ed51eef06241c2",
+      "e996c6c63476c821e9835d4908fe622d68378775"
+    ],
+    "imageUrl": "/images/articles/71b40c2b6a8f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 종료 앞두고 5월 9일 서울 25개 구청 문 연다",
+        "excerpt": "서울 25개 구청이 5월 9일 문을 연다. 다주택자 양도세 중과 종료와 관련해 구청 운영이 이뤄지는 일정으로, 한경닷컴 보도 내용을 기준으로 정리했다.",
+        "body": "서울 25개 구청이 5월 9일 문을 연다. 한경닷컴 보도에 따르면 이번 운영은 ‘다주택자 양도세 중과 종료’와 맞물린 일정이다. 핵심 수치는 서울 전역 25개 구청과 운영일인 5월 9일이다. 원문에서 확인되는 정보는 다주택자 양도세 중과 종료라는 세제 이슈, 그리고 이에 따라 서울 25개 구청이 해당 날짜에 문을 연다는 내용이다. 관련 민원이나 확인이 필요한 시민은 구청 운영 일정을 살펴볼 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Seoul’s 25 district offices to open May 9 as multi-home capital gains tax surcharge ends",
+        "excerpt": "Seoul’s 25 district offices will open on May 9 in connection with the end of the capital gains tax surcharge on multiple-home owners, according to a Hankyung.com report.",
+        "body": "Seoul’s 25 district offices will open on May 9. According to Hankyung.com, the schedule is linked to the end of the capital gains tax surcharge on owners of multiple homes. The key figures confirmed in the source are Seoul’s 25 district offices and the operating date of May 9. The original report states only the tax issue, described as the end of the surcharge for multiple-home owners, and that all 25 district offices in Seoul will open on that date. Residents who need related administrative checks should review the district office schedule. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "多住宅所有者の譲渡税重課終了で5月9日にソウル25区庁が開庁",
+        "excerpt": "ソウルの25区庁が5月9日に開庁する。多住宅所有者への譲渡税重課終了に関連した日程として、ハンギョンドットコムの報道内容を基に整理した。",
+        "body": "ソウルの25区庁が5月9日に開庁する。ハンギョンドットコムの報道によると、今回の開庁は「多住宅所有者への譲渡税重課終了」と関連する日程だ。確認できる主な数字は、ソウル全域の25区庁と開庁日である5月9日である。原文で示された情報は、多住宅所有者に対する譲渡税重課終了という税制上の論点と、それに合わせてソウルの25区庁が同日に開くという内容に限られる。関連する確認が必要な市民は区庁の運営日程を確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "多套房持有者转让税重税结束在即，首尔25个区厅5月9日开门",
+        "excerpt": "首尔25个区厅将于5月9日开门办公。韩经网报道称，此安排与多套房持有者转让税重税结束相关，本文按原文信息整理。",
+        "body": "首尔25个区厅将于5月9日开门办公。据韩经网报道，此次安排与“多套房持有者转让税重税结束”相衔接。原文中可确认的核心数字是首尔全市25个区厅以及5月9日这一办公日期。报道所提供的信息限于两点：一是多套房持有者转让税重税结束这一税制议题，二是首尔25个区厅将在该日期开门。需要办理或确认相关事项的市民，应留意区厅当天的办公安排。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Seúl abrirá sus 25 oficinas distritales el 9 de mayo por fin del recargo fiscal a multipropietarios",
+        "excerpt": "Las 25 oficinas distritales de Seúl abrirán el 9 de mayo por el fin del recargo del impuesto a las ganancias de capital para propietarios de varias viviendas, según Hankyung.com.",
+        "body": "Las 25 oficinas distritales de Seúl abrirán el 9 de mayo. Según Hankyung.com, la medida está vinculada al fin del recargo del impuesto a las ganancias de capital aplicado a propietarios de varias viviendas. Los datos clave confirmados por la fuente son las 25 oficinas distritales de Seúl y la fecha de apertura, el 9 de mayo. El reporte original solo indica el asunto tributario, descrito como el fin del recargo para multipropietarios, y que las 25 oficinas distritales de la ciudad abrirán ese día. Quienes necesiten hacer consultas relacionadas deben revisar el horario de atención. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Seul abrirá 25 repartições distritais em 9 de maio com fim da sobretaxa sobre ganho de capital",
+        "excerpt": "As 25 repartições distritais de Seul abrirão em 9 de maio em razão do fim da sobretaxa do imposto sobre ganho de capital para donos de múltiplas casas, segundo o Hankyung.com.",
+        "body": "As 25 repartições distritais de Seul abrirão em 9 de maio. Segundo o Hankyung.com, a abertura está ligada ao fim da sobretaxa do imposto sobre ganho de capital aplicada a proprietários de múltiplas moradias. Os números confirmados pela fonte são as 25 repartições distritais de Seul e a data de funcionamento, 9 de maio. A reportagem original informa apenas o tema tributário, descrito como o fim da sobretaxa para donos de várias casas, e que todas as 25 repartições distritais da cidade abrirão nessa data. Cidadãos que precisem de verificações relacionadas devem consultar o horário local. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Seouls 25 Bezirksämter öffnen am 9. Mai zum Ende des Zuschlags auf Veräußerungssteuer",
+        "excerpt": "Seouls 25 Bezirksämter öffnen am 9. Mai. Anlass ist laut Hankyung.com das Ende des Zuschlags auf die Kapitalertragsteuer für Eigentümer mehrerer Wohnungen.",
+        "body": "Seouls 25 Bezirksämter werden am 9. Mai öffnen. Nach Angaben von Hankyung.com steht dieser Termin im Zusammenhang mit dem Ende des Zuschlags auf die Veräußerungssteuer für Eigentümer mehrerer Wohnungen. Die aus der Quelle bestätigten Kerndaten sind die 25 Bezirksämter in Seoul und der Öffnungstag 9. Mai. Der Originalbericht nennt ausschließlich das steuerliche Thema, also das Ende des Zuschlags für Mehrwohnungseigentümer, sowie die Tatsache, dass alle 25 Bezirksämter der Stadt an diesem Datum öffnen. Bürger mit entsprechendem Klärungsbedarf sollten die Amtszeiten prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Séoul ouvrira ses 25 bureaux d’arrondissement le 9 mai avec la fin de la surtaxe immobilière",
+        "excerpt": "Les 25 bureaux d’arrondissement de Séoul ouvriront le 9 mai, en lien avec la fin de la surtaxe sur les plus-values pour propriétaires de plusieurs logements, selon Hankyung.com.",
+        "body": "Les 25 bureaux d’arrondissement de Séoul ouvriront le 9 mai. Selon Hankyung.com, ce calendrier est lié à la fin de la surtaxe sur l’impôt des plus-values appliquée aux propriétaires de plusieurs logements. Les données clés confirmées par la source sont les 25 bureaux d’arrondissement de Séoul et la date d’ouverture, le 9 mai. L’article original indique uniquement le sujet fiscal, présenté comme la fin de la surtaxe pour les multipropriétaires, ainsi que l’ouverture des 25 bureaux ce jour-là. Les habitants concernés doivent vérifier les horaires de leur bureau d’arrondissement. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مكاتب أحياء سيول الـ25 تفتح في 9 مايو مع انتهاء ضريبة إضافية على مالكي عدة منازل",
+        "excerpt": "ستفتح مكاتب الأحياء الـ25 في سيول أبوابها في 9 مايو، بالتزامن مع انتهاء الضريبة الإضافية على أرباح بيع العقارات لمالكي عدة منازل، بحسب Hankyung.com.",
+        "body": "ستفتح مكاتب الأحياء الـ25 في سيول أبوابها في 9 مايو. ووفقاً لتقرير Hankyung.com، يرتبط هذا الموعد بانتهاء الضريبة الإضافية على أرباح بيع العقارات المفروضة على مالكي عدة منازل. الأرقام الأساسية المؤكدة في المصدر هي 25 مكتباً للأحياء في سيول وتاريخ التشغيل، 9 مايو. ولا يورد التقرير الأصلي سوى هذه المعلومات: قضية ضريبية تتمثل في انتهاء العبء الإضافي على مالكي أكثر من منزل، وأن جميع مكاتب الأحياء الـ25 في سيول ستفتح في ذلك اليوم. وينبغي لمن يحتاج إلى مراجعة إدارية ذات صلة التحقق من جدول المكتب المختص. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कई घरों के मालिकों पर पूंजीगत लाभ कर सरचार्ज खत्म, 9 मई को सियोल के 25 जिला कार्यालय खुलेंगे",
+        "excerpt": "सियोल के 25 जिला कार्यालय 9 मई को खुलेंगे। Hankyung.com के अनुसार यह कार्यक्रम कई घरों के मालिकों पर पूंजीगत लाभ कर सरचार्ज खत्म होने से जुड़ा है।",
+        "body": "सियोल के 25 जिला कार्यालय 9 मई को खुलेंगे। Hankyung.com की रिपोर्ट के अनुसार यह कार्यक्रम कई घरों के मालिकों पर लगने वाले पूंजीगत लाभ कर सरचार्ज के खत्म होने से जुड़ा है। स्रोत में पुष्टि किए गए मुख्य तथ्य सियोल के 25 जिला कार्यालय और 9 मई की तारीख हैं। मूल रिपोर्ट में केवल कर से जुड़ा मुद्दा, यानी कई घरों के मालिकों पर अतिरिक्त कर भार की समाप्ति, और यह तथ्य दिया गया है कि सियोल के सभी 25 जिला कार्यालय उस दिन खुलेंगे। संबंधित प्रशासनिक जानकारी चाहिए तो नागरिकों को अपने जिला कार्यालय का कार्यक्रम देखना होगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "25 kantor distrik Seoul buka 9 Mei saat tambahan pajak capital gain pemilik banyak rumah berakhir",
+        "excerpt": "Sebanyak 25 kantor distrik di Seoul akan buka pada 9 Mei. Jadwal ini terkait berakhirnya tambahan pajak capital gain bagi pemilik banyak rumah, menurut Hankyung.com.",
+        "body": "Sebanyak 25 kantor distrik di Seoul akan buka pada 9 Mei. Menurut Hankyung.com, jadwal ini terkait dengan berakhirnya tambahan pajak capital gain bagi pemilik banyak rumah. Angka utama yang terkonfirmasi dari sumber adalah 25 kantor distrik di Seoul dan tanggal operasional 9 Mei. Laporan asli hanya menyebut isu pajak tersebut, yaitu berakhirnya beban tambahan bagi pemilik lebih dari satu rumah, serta bahwa seluruh 25 kantor distrik Seoul akan buka pada tanggal itu. Warga yang membutuhkan pengecekan administratif terkait perlu melihat jadwal kantor distrik masing-masing. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "602ab3ffc9c0",
+    "slug": "김포-풍무-초역세권-주상복합호반써밋-풍무ⅱ-이달-분양-388915",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T00:53:36.458Z",
+    "updatedAt": "2026-05-07T00:53:36.458Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050704416",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050704416",
+    "titleFingerprint": "b22aabe2456cd43a3bda1e9a0131f7da504fbd6e",
+    "dedupKeys": [
+      "602ab3ffc9c017cefc3a75e21acfee3d0532bbf0",
+      "b22aabe2456cd43a3bda1e9a0131f7da504fbd6e",
+      "81735c39087870414d608f59345a9526d058b73e"
+    ],
+    "imageUrl": "/images/articles/602ab3ffc9c0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김포 풍무역세권 호반써밋 풍무Ⅱ, C5블록 초역세권 주상복합 1059가구 이달 분양",
+        "excerpt": "호반건설은 5월 경기 김포시 사우동 김포풍무역세권 C5블록에서 공동주택 961가구와 오피스텔 98실 규모의 ‘호반써밋 풍무Ⅱ’를 분양한다.",
+        "body": "호반건설은 6일 경기 김포시 사우동 527-1 일원 김포풍무역세권 C5블록에 조성되는 주상복합 ‘호반써밋 풍무Ⅱ’를 이달 중 분양한다고 밝혔다. 단지는 지하 3층~지상 38층 5개 동 공동주택 961가구와 지하 2층~지상 26층 1개 동 발코니형 오피스텔 98실로 구성된다. 공동주택은 59㎡, 84㎡, 113㎡, 182㎡ 타입이며 오피스텔은 84㎡ 단일 타입이다. 김포풍무역세권은 약 88만㎡ 규모 도시개발사업지구로, 공동주택과 상업·업무·의료·교육시설이 복합 개발 중이다. C5블록은 김포골드라인 풍무역과 가까운 초역세권 용지로 평가되며, 5호선 김포·검단연장사업 예비타당성 조사 통과로 향후 접근성 개선이 전망된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hoban Summit Pungmu II in Gimpo Pungmu Station Area to Offer 1,059 Units This Month",
+        "excerpt": "Hoban Construction will sell Hoban Summit Pungmu II in May at C5 block of Gimpo Pungmu Station Area in Sau-dong, Gimpo, with 961 apartments and 98 officetel units.",
+        "body": "Hoban Construction said on May 6 that it will launch sales this month for Hoban Summit Pungmu II, a mixed-use complex planned for C5 block in the Gimpo Pungmu Station Area at 527-1 Sau-dong, Gimpo, Gyeonggi Province. The project includes five apartment buildings with three basement levels and up to 38 floors, totaling 961 homes, plus one balcony-type officetel building with two basement levels and up to 26 floors, totaling 98 units. Apartments will come in 59㎡, 84㎡, 113㎡ and 182㎡ types, while the officetel will be a single 84㎡ type. The Gimpo Pungmu Station Area is an urban development district of about 880,000㎡ where housing, commercial, business, medical and education facilities are being developed together. C5 block is viewed as a prime site close to Pungmu Station on the Gimpo Goldline, and access is expected to improve after the Gimpo-Gumdan extension of Line 5 passed the preliminary feasibility review. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "金浦豊舞駅勢圏のホバンサミット豊舞Ⅱ、C5ブロック超駅近複合1059戸を今月分譲",
+        "excerpt": "ホバン建設は5月、京畿道金浦市沙隅洞の金浦豊舞駅勢圏C5ブロックで、共同住宅961戸とオフィステル98室からなる「ホバンサミット豊舞Ⅱ」を分譲する。",
+        "body": "ホバン建設は6日、京畿道金浦市沙隅洞527-1一帯の金浦豊舞駅勢圏C5ブロックに造成される複合住宅「ホバンサミット豊舞Ⅱ」を今月中に分譲すると発表した。団地は地下3階、地上38階建て5棟の共同住宅961戸と、地下2階、地上26階建て1棟のバルコニー型オフィステル98室で構成される。共同住宅は59㎡、84㎡、113㎡、182㎡タイプで、オフィステルは84㎡単一タイプだ。金浦豊舞駅勢圏は約88万㎡規模の都市開発事業地区で、共同住宅、商業・業務・医療・教育施設が複合的に開発されている。C5ブロックは金浦ゴールドライン豊舞駅に近い超駅近用地と評価され、5号線金浦・黔丹延伸事業が予備妥当性調査を通過したことで、今後のアクセス改善が見込まれる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "金浦丰舞站圈Hoban Summit丰舞Ⅱ本月开盘，C5地块超站旁综合体1059户",
+        "excerpt": "Hoban建设将于5月在京畿道金浦市沙隅洞金浦丰舞站圈C5地块销售“Hoban Summit丰舞Ⅱ”，项目包括961户住宅和98间办公居住设施。",
+        "body": "Hoban建设6日表示，位于京畿道金浦市沙隅洞527-1一带、金浦丰舞站圈C5地块的综合体“Hoban Summit丰舞Ⅱ”将于本月开盘。该项目由地下3层至地上38层的5栋共同住宅961户，以及地下2层至地上26层的1栋阳台型办公居住设施98间组成。住宅户型包括59㎡、84㎡、113㎡、182㎡，办公居住设施为84㎡单一户型。金浦丰舞站圈是约88万㎡规模的城市开发事业地区，正在复合开发住宅、商业、办公、医疗和教育设施。C5地块被评价为靠近金浦Goldline丰舞站的超站旁住宅用地；随着5号线金浦、黔丹延长项目通过预可行性调查，未来交通可达性有望改善。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hoban Summit Pungmu II en Gimpo: 1.059 unidades junto a la estación salen a venta este mes",
+        "excerpt": "Hoban Construction venderá en mayo Hoban Summit Pungmu II en el bloque C5 del área de la estación Pungmu de Gimpo, con 961 viviendas y 98 unidades de officetel.",
+        "body": "Hoban Construction informó el día 6 que este mes iniciará la venta de Hoban Summit Pungmu II, un complejo mixto previsto en el bloque C5 del área de la estación Pungmu de Gimpo, en 527-1 Sau-dong, Gimpo, provincia de Gyeonggi. El proyecto tendrá cinco edificios residenciales, de tres sótanos a 38 plantas, con 961 viviendas, y un edificio de officetel tipo balcón, de dos sótanos a 26 plantas, con 98 unidades. Las viviendas serán de 59㎡, 84㎡, 113㎡ y 182㎡, mientras que el officetel será de un único tipo de 84㎡. El área de la estación Pungmu de Gimpo es un distrito de desarrollo urbano de unos 880.000㎡ donde se desarrollan de forma conjunta viviendas e instalaciones comerciales, empresariales, médicas y educativas. El bloque C5 se considera una ubicación muy cercana a la estación Pungmu de la Gimpo Goldline, y se prevé mejor acceso tras superar la revisión preliminar de viabilidad la extensión Gimpo-Gumdan de la línea 5. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hoban Summit Pungmu II em Gimpo terá 1.059 unidades junto à estação e venda neste mês",
+        "excerpt": "A Hoban Construction venderá em maio o Hoban Summit Pungmu II no bloco C5 da área da estação Pungmu, em Sau-dong, Gimpo, com 961 apartamentos e 98 officetels.",
+        "body": "A Hoban Construction informou no dia 6 que lançará neste mês as vendas do Hoban Summit Pungmu II, complexo de uso misto planejado para o bloco C5 da área da estação Pungmu de Gimpo, em 527-1 Sau-dong, Gimpo, província de Gyeonggi. O empreendimento terá cinco edifícios residenciais, do 3º subsolo ao 38º andar, somando 961 unidades, além de um edifício de officetel com varanda, do 2º subsolo ao 26º andar, com 98 unidades. Os apartamentos terão tipos de 59㎡, 84㎡, 113㎡ e 182㎡; o officetel terá tipo único de 84㎡. A área da estação Pungmu de Gimpo é um distrito de desenvolvimento urbano de cerca de 880.000㎡, com habitação e instalações comerciais, empresariais, médicas e educacionais em desenvolvimento integrado. O bloco C5 é avaliado como terreno muito próximo da estação Pungmu da Gimpo Goldline, e a acessibilidade deve melhorar após a extensão Gimpo-Gumdan da linha 5 passar pela análise preliminar de viabilidade. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hoban Summit Pungmu II in Gimpo: 1.059 Einheiten am Bahnhof kommen diesen Monat auf den Markt",
+        "excerpt": "Hoban Construction vermarktet im Mai Hoban Summit Pungmu II im C5-Block des Gimpo-Pungmu-Bahnhofsgebiets in Sau-dong mit 961 Wohnungen und 98 Officetel-Einheiten.",
+        "body": "Hoban Construction teilte am 6. Mai mit, dass das gemischt genutzte Projekt Hoban Summit Pungmu II im C5-Block des Gimpo-Pungmu-Bahnhofsgebiets bei 527-1 Sau-dong in Gimpo, Provinz Gyeonggi, noch in diesem Monat in den Verkauf geht. Geplant sind fünf Wohngebäude mit drei Untergeschossen und bis zu 38 Etagen, insgesamt 961 Wohnungen, sowie ein Balkon-Officetel-Gebäude mit zwei Untergeschossen und bis zu 26 Etagen, insgesamt 98 Einheiten. Die Wohnungen werden als 59㎡-, 84㎡-, 113㎡- und 182㎡-Typen angeboten, das Officetel ausschließlich als 84㎡-Typ. Das Gimpo-Pungmu-Bahnhofsgebiet ist ein rund 880.000㎡ großes Stadtentwicklungsgebiet, in dem Wohn-, Handels-, Büro-, Medizin- und Bildungseinrichtungen gemeinsam entwickelt werden. Der C5-Block gilt als besonders bahnhofsnaher Standort an der Pungmu-Station der Gimpo Goldline; nach dem Bestehen der vorläufigen Machbarkeitsprüfung für die Gimpo-Gumdan-Verlängerung der Linie 5 wird eine bessere Erreichbarkeit erwartet. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hoban Summit Pungmu II à Gimpo: 1 059 unités près de la station mises en vente ce mois-ci",
+        "excerpt": "Hoban Construction commercialisera en mai Hoban Summit Pungmu II dans le bloc C5 du secteur de la station Pungmu à Gimpo, avec 961 logements et 98 officetels.",
+        "body": "Hoban Construction a annoncé le 6 mai que Hoban Summit Pungmu II, un ensemble mixte prévu dans le bloc C5 du secteur de la station Pungmu à Gimpo, au 527-1 Sau-dong, province de Gyeonggi, serait mis en vente ce mois-ci. Le projet comprend cinq immeubles résidentiels, de trois niveaux de sous-sol à 38 étages, totalisant 961 logements, ainsi qu’un immeuble d’officetel avec balcon, de deux niveaux de sous-sol à 26 étages, totalisant 98 unités. Les logements seront proposés en types 59㎡, 84㎡, 113㎡ et 182㎡, tandis que l’officetel sera uniquement en type 84㎡. Le secteur de la station Pungmu de Gimpo est une zone de développement urbain d’environ 880 000㎡ où logements et équipements commerciaux, tertiaires, médicaux et éducatifs sont développés ensemble. Le bloc C5 est considéré comme un emplacement très proche de la station Pungmu de la Gimpo Goldline, et l’accessibilité devrait s’améliorer après le passage de l’examen préliminaire de faisabilité de l’extension Gimpo-Gumdan de la ligne 5. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "هوبان ساميت بونغمو II في غيمبو يطرح 1059 وحدة قرب محطة بونغمو هذا الشهر",
+        "excerpt": "تطرح هوبان للإنشاءات في مايو مشروع هوبان ساميت بونغمو II في بلوك C5 بمنطقة محطة بونغمو في غيمبو، ويضم 961 شقة و98 وحدة أوفيس텔.",
+        "body": "أعلنت هوبان للإنشاءات في 6 مايو أنها ستطرح هذا الشهر مشروع هوبان ساميت بونغمو II، وهو مجمع متعدد الاستخدامات في بلوك C5 بمنطقة محطة بونغمو في غيمبو، عند 527-1 ساو-دونغ في مدينة غيمبو بمقاطعة غيونغي. يتكون المشروع من خمسة مبان سكنية من ثلاثة طوابق تحت الأرض حتى 38 طابقا فوق الأرض، بإجمالي 961 وحدة، إضافة إلى مبنى أوفيس텔 من طراز الشرفة من طابقين تحت الأرض حتى 26 طابقا، بإجمالي 98 وحدة. تشمل الشقق مساحات 59㎡ و84㎡ و113㎡ و182㎡، بينما يأتي الأوفيس텔 بنوع واحد 84㎡. تعد منطقة محطة بونغمو في غيمبو منطقة تطوير حضري بمساحة تقارب 880 ألف㎡، يجري فيها تطوير مشترك للمساكن والمرافق التجارية والإدارية والطبية والتعليمية. ويعد بلوك C5 موقعا قريبا جدا من محطة بونغمو على خط غيمبو غولدلاين، ومن المتوقع تحسن الوصول بعد اجتياز مشروع تمديد الخط 5 إلى غيمبو وغومدان مراجعة الجدوى الأولية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "गिम्पो पुंगमु स्टेशन क्षेत्र में Hoban Summit Pungmu II की 1,059 इकाइयां इस महीने बिकेंगी",
+        "excerpt": "Hoban Construction मई में गिम्पो के साउ-डोंग स्थित Gimpo Pungmu Station Area के C5 ब्लॉक में Hoban Summit Pungmu II बेचेगी, जिसमें 961 अपार्टमेंट और 98 ऑफिसटेल इकाइयां हैं।",
+        "body": "Hoban Construction ने 6 मई को कहा कि वह इस महीने Gyeonggi Province के Gimpo शहर में Sau-dong 527-1 स्थित Gimpo Pungmu Station Area के C5 ब्लॉक में बनने वाले मिश्रित उपयोग परिसर Hoban Summit Pungmu II की बिक्री शुरू करेगी। परियोजना में भूमिगत 3 स्तरों से जमीन से ऊपर 38 मंजिलों तक के पांच आवासीय भवन होंगे, जिनमें 961 घर शामिल हैं। इसके साथ भूमिगत 2 स्तरों से 26 मंजिलों तक का एक बालकनी-प्रकार officetel भवन होगा, जिसमें 98 इकाइयां होंगी। अपार्टमेंट 59㎡, 84㎡, 113㎡ और 182㎡ प्रकारों में होंगे, जबकि officetel 84㎡ के एक ही प्रकार में होगा। Gimpo Pungmu Station Area लगभग 880,000㎡ का शहरी विकास जिला है, जहां आवास, वाणिज्यिक, कार्यालय, चिकित्सा और शिक्षा सुविधाएं साथ-साथ विकसित की जा रही हैं। C5 ब्लॉक को Gimpo Goldline के Pungmu Station के बहुत पास स्थित प्रमुख भूमि माना जाता है, और लाइन 5 के Gimpo-Gumdan विस्तार की प्रारंभिक व्यवहार्यता समीक्षा पार होने के बाद पहुंच बेहतर होने की उम्मीद है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Hoban Summit Pungmu II di Area Stasiun Pungmu Gimpo Pasarkan 1.059 Unit Bulan Ini",
+        "excerpt": "Hoban Construction akan memasarkan Hoban Summit Pungmu II pada Mei di blok C5 Area Stasiun Pungmu Gimpo, Sau-dong, dengan 961 hunian dan 98 unit officetel.",
+        "body": "Hoban Construction menyatakan pada 6 Mei bahwa mereka akan memasarkan Hoban Summit Pungmu II bulan ini, kompleks campuran yang direncanakan di blok C5 Area Stasiun Pungmu Gimpo, 527-1 Sau-dong, Gimpo, Provinsi Gyeonggi. Proyek ini mencakup lima gedung hunian dari tiga lantai bawah tanah hingga 38 lantai, dengan total 961 unit, serta satu gedung officetel tipe balkon dari dua lantai bawah tanah hingga 26 lantai, dengan total 98 unit. Hunian tersedia dalam tipe 59㎡, 84㎡, 113㎡, dan 182㎡, sementara officetel hanya bertipe 84㎡. Area Stasiun Pungmu Gimpo merupakan distrik pengembangan perkotaan seluas sekitar 880.000㎡, tempat hunian serta fasilitas komersial, bisnis, medis, dan pendidikan dikembangkan secara terpadu. Blok C5 dinilai sebagai lokasi sangat dekat dengan Stasiun Pungmu di Gimpo Goldline, dan akses diperkirakan membaik setelah proyek perpanjangan Jalur 5 Gimpo-Gumdan lolos kajian kelayakan awal. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "1281d2fcb374",
     "slug": "메트로시티-자산-데시앙-마산합포구-5년-만에-신규-아파트7000가구-데시앙-브랜드타운-완성-183136",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Jang Dong-hyuk Soroti Apartemen Bundang Lee Jae-myung: Tidak Dijual atau Tak Bisa",
         "excerpt": "Ketua People Power Party Jang Dong-hyuk pada 6 Mei menulis di media sosial bahwa Presiden Lee Jae-myung pernah menyatakan akan menjual apartemen Bundang sejak akhir Februari.",
         "body": "Ketua People Power Party Jang Dong-hyuk pada 6 Mei secara terbuka menyoroti isu penjualan apartemen Presiden Lee Jae-myung di Bundang melalui akun media sosialnya. Jang menulis bahwa apartemen Bundang itu disebut akan dijual sejak akhir Februari, lalu mempertanyakan apakah Lee tidak menjualnya atau tidak bisa menjualnya. Seperti tercermin dalam judul, Jang menyebut perkara ini sebagai masalah standar ganda dan mengkritik bahwa hal itu hanya menyusahkan publik. Pernyataan ini menjadi bagian dari perdebatan politik mengenai apakah apartemen tersebut akan dijual. Laporan asli tidak memuat perkembangan penjualan yang konkret atau angka tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2ebb193eb909",
-    "slug": "혼자-밥-먹기-힘들어질-때실버타운이-필요한-순간-946717",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T12:58:06.106Z",
-    "updatedAt": "2026-05-06T12:58:06.106Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12037380",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12037380",
-    "titleFingerprint": "db3d3fc7b73ba1f257a6aa81b3efe51df4314a0d",
-    "dedupKeys": [
-      "2ebb193eb9091cbf5b4478b83b03a483881905ed",
-      "db3d3fc7b73ba1f257a6aa81b3efe51df4314a0d",
-      "f8b36983360d0032dd151b4e4b879d83d672a734"
-    ],
-    "imageUrl": "/images/articles/2ebb193eb909.png",
-    "i18n": {
-      "ko": {
-        "title": "실버타운 필요성 커지는 순간, 혼자 밥 먹기 힘들어질 때 60대가 점검할 노후 거주 선택",
-        "excerpt": "최근 은퇴한 62세 박 모 씨 사례를 통해 자녀 독립 뒤 60대가 맞닥뜨리는 노후 거주 불안을 짚고, 실버타운 탐방 연재가 왜 시작됐는지 살펴본다.",
-        "body": "최근 은퇴한 62세 박 모 씨는 자녀 결혼식을 마치고 돌아온 빈 거실에서 노후를 어디에서 보낼지라는 질문과 마주했다. 30년 넘는 직장 생활과 자녀 교육은 끝났지만, 자신의 다음 30년에 대한 설계도는 없었다. 지금은 등산을 다닐 만큼 건강하지만, 70대 이후 혼자 밥을 챙기기 버거워지고 몸이 예전 같지 않을 때를 떠올리면 막막함이 커진다. 박 씨처럼 구체적 답 없이 불안한 60대를 맞는 이들이 많다는 점이 배경이다. 공빠의 실버타운 탐방기 연재는 이 질문에 직접 답을 찾기 위해 시작됐다. 필자는 25년간 한의원에서 고령층을 만나며 노후의 삶을 관찰했고, 60대에는 자녀와 삶이 분리되고 70·80대에는 배우자와 이별해 혼자가 되는 경우가 많다고 전했다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "When Senior Living Becomes Necessary: A 60s Housing Choice as Eating Alone Gets Hard",
-        "excerpt": "The case of a recently retired 62-year-old Mr. Park shows why anxiety over later-life housing can emerge after children become independent, and why a senior town visit series began.",
-        "body": "Recently retired, 62-year-old Mr. Park returned from his child’s wedding to an empty living room and faced the question of where he would spend his later years. More than 30 years of work and childrearing were over, but he had no plan for his next 30 years. He is healthy enough to go hiking now, yet he feels uncertain when imagining life after his 70s, when preparing meals alone may become difficult and his body may not be the same. Many people enter their 60s with similar anxiety and no clear answer. The series Gongppa’s Senior Town Visits began to look for direct answers to that question. The writer said 25 years of meeting older patients at a Korean medicine clinic shaped an objective view of later life, noting that many people separate their lives from children in their 60s and may become alone after parting from a spouse in their 70s or 80s. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "シルバータウンが必要になる時、ひとりの食事がつらくなる60代の住まい選び",
-        "excerpt": "最近退職した62歳のパクさんの事例から、子どもの独立後に60代が直面する老後の住まいへの不安と、シルバータウン探訪連載の出発点を伝える。",
-        "body": "最近退職した62歳のパクさんは、子どもの結婚式を終えて戻った空の居間で、老後をどこで過ごすのかという問いに向き合った。30年以上の会社員生活と子どもの教育は終わったが、自分の次の30年についての設計図はなかった。今は登山に行けるほど健康だが、70代以降、ひとりで食事を用意するのが負担になり、体も以前のようでなくなる時を考えると不安が大きくなる。パクさんのように明確な答えを持たないまま不安な60代を迎える人は多い。連載「コンパのシルバータウン探訪記」は、この問いに直接答えを探すために始まった。筆者は25年間、韓医院で高齢者に接し、老後の暮らしを見る目を得たとし、60代には子どもと生活が分かれ、70・80代には配偶者とも別れてひとりになる場合が多いと伝えた。出典: mk.co.kr 引用。"
-      },
-      "zh": {
-        "title": "银发社区何时变得必要：当独自吃饭吃力时，60岁后的养老居住选择",
-        "excerpt": "通过近期退休的62岁朴某案例，文章呈现子女独立后60岁群体面对的养老居住不安，并说明银发社区探访连载为何启动。",
-        "body": "近期退休的62岁朴某在参加完子女婚礼、回到空荡客厅后，突然面对一个问题：晚年要在哪里度过。30多年的职场生活和对子女教育的投入已经结束，但他并没有为自己的下一个30年画出规划。现在他健康到还能去登山，可一想到70岁以后，独自准备饭菜可能变得吃力、身体也不如从前，便感到茫然。像朴某这样没有具体答案、带着不安进入60岁阶段的人很多。连载《孔爸的银发社区探访记》正是为直接寻找这个问题的答案而开始。作者表示，自己25年来在韩医院接触了许多高龄者，因此形成了观察晚年生活的视角；许多人在60岁阶段与子女生活分离，到了70、80岁又可能与配偶离别而独自生活。来源：引自 mk.co.kr。"
-      },
-      "es": {
-        "title": "Cuándo se vuelve necesario un senior town: la vivienda en los 60 si comer solo pesa",
-        "excerpt": "El caso del señor Park, jubilado recientemente a los 62 años, muestra la inquietud sobre dónde vivir en la vejez tras la independencia de los hijos y el inicio de una serie de visitas a senior towns.",
-        "body": "El señor Park, de 62 años y jubilado recientemente, volvió de la boda de su hijo a una sala vacía y se enfrentó a la pregunta de dónde pasará su vejez. Tras más de 30 años de trabajo y crianza, esa etapa terminó, pero no tenía un plan para sus próximos 30 años. Hoy está lo bastante sano como para hacer senderismo, pero siente incertidumbre al pensar en después de los 70, cuando preparar comida solo pueda resultar pesado y el cuerpo ya no responda igual. Muchas personas llegan a los 60 con la misma ansiedad y sin una respuesta concreta. La serie de visitas a senior towns de Gongppa comenzó para buscar una respuesta directa a esa pregunta. El autor dijo que, tras 25 años tratando con personas mayores en una clínica de medicina coreana, obtuvo una mirada sobre la vida en la vejez, y señaló que muchos se separan de la vida cotidiana de sus hijos en los 60 y pueden quedar solos tras despedirse del cónyuge en los 70 u 80. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Quando o senior town se torna necessário: a moradia aos 60 se comer sozinho pesar",
-        "excerpt": "O caso do sr. Park, recém-aposentado aos 62 anos, mostra a insegurança sobre onde viver na velhice após a independência dos filhos e explica o início de uma série sobre senior towns.",
-        "body": "O sr. Park, de 62 anos e recém-aposentado, voltou do casamento de um filho para uma sala vazia e se deparou com a pergunta sobre onde passará a velhice. Mais de 30 anos de trabalho e educação dos filhos ficaram para trás, mas ele não tinha um plano para os próximos 30 anos. Hoje ainda tem saúde para fazer trilhas, mas sente incerteza ao imaginar a vida depois dos 70, quando preparar refeições sozinho pode se tornar difícil e o corpo pode não ser o mesmo. Muitas pessoas chegam aos 60 com ansiedade semelhante e sem resposta concreta. A série de visitas a senior towns de Gongppa começou para buscar uma resposta direta a essa questão. O autor afirmou que, em 25 anos trabalhando em uma clínica de medicina coreana, conheceu muitos idosos e passou a observar a velhice com mais objetividade; segundo ele, muitos se separam da rotina dos filhos nos 60 e podem ficar sozinhos após a perda do cônjuge nos 70 ou 80. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Wann Senior Towns nötig werden: Wohnen im Alter, wenn allein essen schwerfällt",
-        "excerpt": "Der Fall des kürzlich pensionierten 62-jährigen Herrn Park zeigt die Unsicherheit über das Wohnen im Alter nach der Selbstständigkeit der Kinder und den Anlass einer Senior-Town-Serie.",
-        "body": "Der kürzlich pensionierte 62-jährige Herr Park kam von der Hochzeit seines Kindes in ein leeres Wohnzimmer zurück und stellte sich die Frage, wo er seinen Lebensabend verbringen wird. Mehr als 30 Jahre Berufsleben und Kindererziehung waren abgeschlossen, doch für die nächsten 30 Jahre hatte er keinen Plan. Noch ist er gesund genug zum Wandern, aber der Gedanke an die Zeit nach dem 70. Lebensjahr, wenn allein Mahlzeiten zuzubereiten beschwerlich werden und der Körper nicht mehr wie früher sein könnte, macht ihn unsicher. Viele Menschen erreichen ihre 60er mit ähnlicher Sorge und ohne konkrete Antwort. Die Serie über Gongppas Besuche in Senior Towns begann, um auf diese Frage direkt Antworten zu suchen. Der Autor erklärte, dass er in 25 Jahren Arbeit in einer koreanischen Medizinklinik viele ältere Menschen traf und dadurch einen Blick auf das Leben im Alter gewann; oft trennt sich in den 60ern das Leben von dem der Kinder, und in den 70ern oder 80ern kann nach dem Abschied vom Ehepartner Einsamkeit folgen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Quand une résidence seniors devient nécessaire : choisir son logement à 60 ans si manger seul devient difficile",
-        "excerpt": "Le cas de M. Park, récemment retraité à 62 ans, montre l’inquiétude liée au logement après le départ des enfants et explique le lancement d’une série de visites de résidences seniors.",
-        "body": "M. Park, 62 ans, récemment retraité, est rentré du mariage de son enfant dans un salon vide et s’est trouvé face à une question : où passera-t-il sa vieillesse ? Plus de 30 ans de vie professionnelle et d’éducation des enfants étaient terminés, mais il n’avait aucun plan pour ses 30 prochaines années. Il est aujourd’hui assez en forme pour faire de la randonnée, mais l’idée de l’après-70 ans, lorsque préparer ses repas seul pourrait devenir pénible et que le corps ne serait plus le même, le laisse désemparé. Beaucoup de personnes abordent la soixantaine avec la même inquiétude, sans réponse précise. La série de visites de résidences seniors de Gongppa a commencé pour chercher directement des réponses à cette question. L’auteur explique que 25 ans passés dans une clinique de médecine coréenne auprès de personnes âgées lui ont donné un regard sur la vieillesse; selon lui, beaucoup voient leur vie se séparer de celle de leurs enfants dans la soixantaine, puis peuvent se retrouver seuls après la séparation d’avec leur conjoint dans les 70 ou 80 ans. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "متى تصبح مدن كبار السن ضرورية؟ اختيار السكن في الستينيات عندما يصعب تناول الطعام وحيدا",
-        "excerpt": "تعرض حالة السيد بارك، المتقاعد حديثا في سن 62 عاما، قلق السكن في الشيخوخة بعد استقلال الأبناء، وتوضح سبب بدء سلسلة زيارات إلى مدن كبار السن.",
-        "body": "عاد السيد بارك، البالغ 62 عاما والمتقاعد حديثا، من حفل زفاف أحد أبنائه إلى غرفة معيشة فارغة، فواجه سؤالا باردا: أين سيقضي سنواته المقبلة؟ انتهت أكثر من 30 سنة من العمل وتربية الأبناء، لكنه لم يكن يملك خطة لثلاثين سنة قادمة من حياته. هو الآن بصحة تسمح له بالمشي في الجبال، لكن التفكير في ما بعد السبعين، حين قد يصبح إعداد الطعام وحده مرهقا ولا يعود الجسد كما كان، يجعله يشعر بالحيرة. كثيرون يستقبلون الستينيات بقلق مشابه ومن دون إجابة محددة. بدأت سلسلة زيارات غونغبا إلى مدن كبار السن للبحث مباشرة عن إجابة لهذا السؤال. وقال الكاتب إن عمله 25 عاما في عيادة للطب الكوري ولقاءه بكثير من كبار السن منحه نظرة إلى حياة الشيخوخة؛ فكثيرون تنفصل حياتهم عن أبنائهم في الستينيات، وقد يصبحون وحدهم بعد الفراق عن الزوج أو الزوجة في السبعينيات أو الثمانينيات. المصدر: مقتبس من mk.co.kr."
-      },
-      "hi": {
-        "title": "सीनियर टाउन कब जरूरी होता है: जब अकेले खाना मुश्किल लगे, 60 की उम्र में आवास का सवाल",
-        "excerpt": "हाल में सेवानिवृत्त 62 वर्षीय श्री पार्क के उदाहरण से बच्चों के अलग हो जाने के बाद बुजुर्गावस्था में रहने की चिंता और सीनियर टाउन खोज श्रृंखला की शुरुआत समझ में आती है।",
-        "body": "हाल में सेवानिवृत्त 62 वर्षीय श्री पार्क अपने बच्चे की शादी से लौटकर खाली बैठक में पहुंचे तो उनके सामने सवाल आया कि बुजुर्गावस्था कहां बिताई जाए। 30 साल से अधिक की नौकरी और बच्चों की शिक्षा पूरी हो चुकी थी, लेकिन अपने अगले 30 वर्षों की कोई योजना उनके पास नहीं थी। अभी वे पहाड़ पर चढ़ने जितने स्वस्थ हैं, फिर भी 70 के बाद का समय सोचकर घबराहट होती है, जब अकेले भोजन तैयार करना कठिन हो सकता है और शरीर पहले जैसा न रहे। श्री पार्क की तरह कई लोग बिना ठोस उत्तर के चिंता के साथ 60 की उम्र में प्रवेश करते हैं। गोंगपा की सीनियर टाउन यात्रा श्रृंखला इसी सवाल का सीधा उत्तर खोजने के लिए शुरू हुई। लेखक ने कहा कि 25 वर्षों तक कोरियाई चिकित्सा क्लिनिक में बुजुर्गों से मिलते हुए उन्हें वृद्ध जीवन को देखने की दृष्टि मिली; आम तौर पर 60 की उम्र में बच्चों से जीवन अलग होता है और 70 या 80 की उम्र में जीवनसाथी से बिछड़ने के बाद कई लोग अकेले हो जाते हैं। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Kapan Senior Town Dibutuhkan: Saat Makan Sendiri Mulai Sulit, Pilihan Hunian Usia 60-an",
-        "excerpt": "Kisah Pak Park, 62 tahun dan baru pensiun, memperlihatkan kecemasan soal tempat tinggal masa tua setelah anak mandiri, serta alasan seri kunjungan senior town dimulai.",
-        "body": "Pak Park, 62 tahun dan baru pensiun, pulang dari pernikahan anaknya ke ruang tamu yang kosong lalu berhadapan dengan pertanyaan tentang di mana ia akan menghabiskan masa tua. Lebih dari 30 tahun bekerja dan mendidik anak telah selesai, tetapi ia belum memiliki rancangan untuk 30 tahun berikutnya. Saat ini ia masih cukup sehat untuk mendaki, namun ia merasa buntu saat membayangkan usia setelah 70 tahun, ketika menyiapkan makan sendiri bisa terasa berat dan tubuh tidak lagi seperti dulu. Banyak orang memasuki usia 60-an dengan kecemasan serupa tanpa jawaban konkret. Seri kunjungan senior town Gongppa dimulai untuk mencari jawaban langsung atas pertanyaan itu. Penulis mengatakan bahwa selama 25 tahun bekerja di klinik pengobatan Korea, ia bertemu banyak lansia dan memperoleh cara pandang terhadap kehidupan tua; banyak orang berpisah pola hidupnya dari anak-anak pada usia 60-an, lalu bisa menjadi sendiri setelah berpisah dari pasangan pada usia 70-an atau 80-an. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a94eae936b77",
-    "slug": "공급-불안에-전세난까지서울-첫-집-쇼핑-10명-중-6명-30대-646586",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T12:56:25.366Z",
-    "updatedAt": "2026-05-06T12:56:25.366Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12037471",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12037471",
-    "titleFingerprint": "de18bc9586e88c4ae84a9249f4f8b7111a358fa8",
-    "dedupKeys": [
-      "a94eae936b77c5e9a993cc5da5e377e0f9f5a238",
-      "de18bc9586e88c4ae84a9249f4f8b7111a358fa8",
-      "740884e72f6c214968cc59e13c1bd0a596c6e1e3"
-    ],
-    "imageUrl": "/images/articles/a94eae936b77.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 생애최초 주택매수 30대 57%대, 공급 불안·전세난에 강서·노원 몰렸다",
-        "excerpt": "서울에서 생애 처음 집합건물을 산 30대 비율이 2026년 3월 57.4%, 4월 57.0%로 고점을 유지하며 공급 불안과 전월세 시장 불안 속 매수세를 키우고 있다.",
-        "body": "서울에서 생애 처음 내 집 마련에 나선 30대 비중이 역대 최고 수준을 이어가고 있다. 6일 법원 등기정보광장에 따르면 지난해 서울 집합건물 생애최초 구입자 중 30대 비율은 49.9%로 2010년 통계 작성 이후 최고치였다. 올해도 1월 53.9%, 2월 55.2%, 3월 57.4%, 4월 57.0%를 기록했다. 3월 서울 아파트 30대 매수 비율도 43.4%로 2019년 1월 집계 이후 87개월 만에 최고였다. 매수는 강서구 1051명, 노원구 958명, 성북구 882명 등 중저가 지역에 집중됐다. 전·월세 불안, 공급 불신, 임대 매물 감소가 매수 전환 배경으로 거론된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Seoul First-Home Buyers in Their 30s Hold Near 57% as Rent and Supply Worries Rise",
-        "excerpt": "In Seoul, people in their 30s accounted for 57.4% of first-time aggregate-building purchases in March 2026 and 57.0% in April, extending record-high demand amid supply and rental-market anxiety.",
-        "body": "The share of Seoul first-time home buyers in their 30s remains at a record level. According to the Court Registration Information Plaza on May 6, people in their 30s made up 49.9% of first-time buyers of Seoul aggregate buildings last year, the highest since related statistics began in 2010. This year, the figure reached 53.9% in January, 55.2% in February, 57.4% in March and 57.0% in April. In March, buyers in their 30s also accounted for 43.4% of Seoul apartment purchases, the highest in 87 months since January 2019. Purchases were concentrated in lower- to mid-priced areas, including Gangseo with 1,051 buyers, Nowon with 958 and Seongbuk with 882. Rental-market instability, distrust over supply and fewer rental listings are cited as reasons for the shift to buying. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ソウル初購入の30代が57％台、供給不安と賃貸難で江西・蘆原に集中",
-        "excerpt": "ソウルで集合建物を初めて購入した30代の割合は2026年3月に57.4％、4月に57.0％となり、供給不安と賃貸市場の不安定さの中で高水準を維持している。",
-        "body": "ソウルで初めてマイホーム取得に動いた30代の比率が過去最高水準を維持している。5月6日の法院登記情報広場によると、昨年ソウルの集合建物を生涯で初めて購入した人のうち30代は49.9％で、2010年の統計開始以来最高だった。今年も1月53.9％、2月55.2％、3月57.4％、4月57.0％を記録した。3月のソウルマンション購入に占める30代の割合も43.4％で、2019年1月の集計開始以来87カ月ぶりの高水準だった。購入は江西区1051人、蘆原区958人、城北区882人など中低価格地域に集中した。賃貸市場の不安、供給への不信、賃貸物件の減少が購入転換の背景に挙げられる。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "首尔首次购房30多岁占比维持57%左右，供给不安与租赁压力推高买盘",
-        "excerpt": "在首尔，2026年3月首次购买集合建筑的30多岁人群占比达57.4%，4月为57.0%，在供给不安和租赁市场不稳中保持高位。",
-        "body": "首尔首次置业者中30多岁人群占比继续处于历史高位。5月6日，韩国法院登记信息广场数据显示，去年首尔集合建筑首次购买者中30多岁占49.9%，为2010年相关统计开始以来最高。今年该比例1月为53.9%，2月为55.2%，3月升至57.4%，4月仍为57.0%。3月首尔公寓购买者中30多岁占比也达43.4%，创2019年1月开始统计以来87个月最高。购买集中在中低价区域，包括江西区1051人、芦原区958人、城北区882人。租赁市场不安、对供给的疑虑以及出租房源减少，被认为是转向买房的背景。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Compradores primerizos de Seúl en sus 30 rondan el 57% por tensión de oferta y alquiler",
-        "excerpt": "En Seúl, los compradores primerizos de edificios colectivos de entre 30 y 39 años alcanzaron el 57,4% en marzo de 2026 y el 57,0% en abril, en medio de preocupación por oferta y alquileres.",
-        "body": "La proporción de compradores primerizos de vivienda en Seúl que tienen entre 30 y 39 años sigue en niveles récord. Según el Portal de Información Registral de los tribunales, al 6 de mayo, este grupo representó el 49,9% de quienes compraron por primera vez edificios colectivos en Seúl el año pasado, el mayor dato desde que comenzó la estadística en 2010. Este año marcó 53,9% en enero, 55,2% en febrero, 57,4% en marzo y 57,0% en abril. En marzo, los treintañeros también fueron el 43,4% de las compras de apartamentos en Seúl, máximo en 87 meses desde enero de 2019. Las compras se concentraron en zonas de precio medio y bajo: Gangseo con 1.051 compradores, Nowon con 958 y Seongbuk con 882. La inestabilidad del jeonse y alquiler mensual, la desconfianza sobre la oferta y la reducción de inmuebles en alquiler explican el giro hacia la compra. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Primeira compra em Seul por pessoas na casa dos 30 fica em 57% com oferta e aluguel sob pressão",
-        "excerpt": "Em Seul, compradores de 30 a 39 anos representaram 57,4% das primeiras compras de edifícios coletivos em março de 2026 e 57,0% em abril, refletindo preocupação com oferta e aluguel.",
-        "body": "A fatia de compradores de primeira moradia em Seul na faixa dos 30 anos segue em nível recorde. Segundo o Portal de Informações de Registro dos tribunais em 6 de maio, esse grupo respondeu por 49,9% dos compradores de primeira viagem de edifícios coletivos em Seul no ano passado, o maior percentual desde o início da série em 2010. Neste ano, foram 53,9% em janeiro, 55,2% em fevereiro, 57,4% em março e 57,0% em abril. Em março, pessoas na casa dos 30 também representaram 43,4% das compras de apartamentos em Seul, maior patamar em 87 meses desde janeiro de 2019. As compras se concentraram em áreas de preço médio e baixo: Gangseo, com 1.051 compradores, Nowon, com 958, e Seongbuk, com 882. Instabilidade no jeonse e no aluguel mensal, desconfiança sobre oferta e queda de imóveis para locação são apontadas como razões para a mudança para compra. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Seouls Erstkäufer in den 30ern halten 57-Prozent-Niveau wegen Angebots- und Mietdruck",
-        "excerpt": "In Seoul stellten Menschen in den 30ern im März 2026 57,4% und im April 57,0% der Erstkäufer von Sammelgebäuden, während Sorgen über Angebot und Mietmarkt die Kaufnachfrage stützen.",
-        "body": "Der Anteil der Erstkäufer von Wohneigentum in Seoul, die in ihren 30ern sind, bleibt auf Rekordniveau. Nach Angaben des Gerichtsportals für Registerinformationen vom 6. Mai machten sie im vergangenen Jahr 49,9% der Erstkäufer von Sammelgebäuden in Seoul aus, der höchste Wert seit Beginn der Statistik 2010. In diesem Jahr lag der Anteil bei 53,9% im Januar, 55,2% im Februar, 57,4% im März und 57,0% im April. Bei Seouler Wohnungen erreichte der Käuferanteil der 30-Jährigen im März 43,4%, den höchsten Stand seit 87 Monaten seit Januar 2019. Die Käufe konzentrierten sich auf mittlere und günstigere Lagen: Gangseo mit 1.051 Käufern, Nowon mit 958 und Seongbuk mit 882. Als Gründe gelten Unsicherheit am Jeonse- und Monatsmietmarkt, Zweifel an der Angebotslage und weniger Mietobjekte. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "À Séoul, les primo-acheteurs trentenaires restent près de 57% face aux tensions locatives",
-        "excerpt": "À Séoul, les trentenaires ont représenté 57,4% des premiers achats d’immeubles collectifs en mars 2026 et 57,0% en avril, sur fond d’inquiétudes liées à l’offre et au marché locatif.",
-        "body": "À Séoul, la part des primo-accédants à la propriété âgés d’une trentaine d’années reste à un niveau record. Selon le portail d’information des registres judiciaires au 6 mai, ils ont représenté l’an dernier 49,9% des premiers acheteurs d’immeubles collectifs à Séoul, un sommet depuis le début des statistiques en 2010. Cette année, le taux a atteint 53,9% en janvier, 55,2% en février, 57,4% en mars et 57,0% en avril. En mars, les trentenaires ont aussi compté pour 43,4% des achats d’appartements à Séoul, le plus haut niveau en 87 mois depuis janvier 2019. Les achats se sont concentrés dans des zones de prix moyens et bas, notamment Gangseo avec 1 051 acheteurs, Nowon avec 958 et Seongbuk avec 882. L’instabilité du jeonse et des loyers mensuels, la défiance envers l’offre et la baisse des biens à louer sont citées comme facteurs de basculement vers l’achat. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "مشترو المسكن الأول في سيول من الثلاثينيين يقتربون من 57% مع قلق العرض والإيجارات",
-        "excerpt": "في سيول، بلغت حصة الثلاثينيين من أول شراء للمباني الجماعية 57.4% في مارس 2026 و57.0% في أبريل، وسط قلق من المعروض واضطراب سوق الإيجارات.",
-        "body": "تواصل حصة الثلاثينيين بين من يشترون مسكنهم الأول في سيول تسجيل مستويات قياسية. ووفق بوابة معلومات التسجيل التابعة للمحاكم في 6 مايو، شكل من هم في الثلاثينيات 49.9% من المشترين لأول مرة للمباني الجماعية في سيول العام الماضي، وهو أعلى مستوى منذ بدء الإحصاءات في 2010. هذا العام بلغت النسبة 53.9% في يناير، و55.2% في فبراير، و57.4% في مارس، و57.0% في أبريل. كما وصلت حصة الثلاثينيين من مشتريات الشقق في سيول خلال مارس إلى 43.4%، وهو أعلى مستوى خلال 87 شهرا منذ يناير 2019. وتركز الشراء في مناطق متوسطة ومنخفضة الأسعار، مثل غانغسيو بـ1051 مشتريا، ونوون بـ958، وسيونغبوك بـ882. وتُذكر اضطرابات الجونسِه والإيجار الشهري، وضعف الثقة بالمعروض، وتراجع المعروض للإيجار كأسباب للتحول إلى الشراء. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "सियोल में पहली बार घर खरीदने वालों में 30 की उम्र वाले करीब 57%, किराया और आपूर्ति चिंता हावी",
-        "excerpt": "सियोल में सामूहिक भवनों की पहली खरीद में 30 की उम्र वालों की हिस्सेदारी मार्च 2026 में 57.4% और अप्रैल में 57.0% रही, आपूर्ति और किराया बाजार की चिंता के बीच मांग ऊंची बनी है।",
-        "body": "सियोल में पहली बार घर खरीदने वालों में 30 की उम्र वाले लोगों की हिस्सेदारी रिकॉर्ड स्तर पर बनी हुई है। 6 मई को कोर्ट रजिस्ट्रेशन इन्फॉर्मेशन प्लाजा के अनुसार, पिछले साल सियोल में सामूहिक भवनों के पहली बार खरीदारों में इस आयु वर्ग की हिस्सेदारी 49.9% थी, जो 2010 में संबंधित आंकड़े शुरू होने के बाद सबसे अधिक है। इस साल यह अनुपात जनवरी में 53.9%, फरवरी में 55.2%, मार्च में 57.4% और अप्रैल में 57.0% रहा। मार्च में सियोल अपार्टमेंट खरीद में भी 30 की उम्र वालों की हिस्सेदारी 43.4% पर पहुंची, जो जनवरी 2019 से 87 महीनों में सबसे ऊंची थी। खरीदारी मध्यम और कम कीमत वाले इलाकों में केंद्रित रही: गांगसेओ में 1,051 खरीदार, नोवोन में 958 और सेओंगबुक में 882। जोंसे और मासिक किराया बाजार की अस्थिरता, आपूर्ति पर अविश्वास और किराये की उपलब्धता में कमी को खरीद की ओर बदलाव की वजह माना जा रहा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Pembeli Rumah Pertama Seoul Usia 30-an Bertahan di 57% karena Cemas Pasokan dan Sewa",
-        "excerpt": "Di Seoul, pembeli usia 30-an mencakup 57,4% pembelian pertama bangunan kolektif pada Maret 2026 dan 57,0% pada April, saat kekhawatiran pasokan dan pasar sewa mendorong permintaan.",
-        "body": "Porsi pembeli rumah pertama di Seoul yang berusia 30-an terus berada pada level rekor. Menurut Court Registration Information Plaza pada 6 Mei, kelompok ini mencakup 49,9% pembeli pertama bangunan kolektif di Seoul tahun lalu, tertinggi sejak statistik terkait dimulai pada 2010. Tahun ini angkanya mencapai 53,9% pada Januari, 55,2% pada Februari, 57,4% pada Maret, dan 57,0% pada April. Pada Maret, pembeli usia 30-an juga menyumbang 43,4% pembelian apartemen Seoul, level tertinggi dalam 87 bulan sejak Januari 2019. Pembelian terkonsentrasi di area harga menengah ke bawah, termasuk Gangseo dengan 1.051 pembeli, Nowon 958, dan Seongbuk 882. Ketidakstabilan pasar jeonse dan sewa bulanan, ketidakpercayaan terhadap pasokan, serta berkurangnya unit sewa disebut sebagai latar peralihan ke pembelian. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9535b1fe44d4",
-    "slug": "살기좋은도시-부동의-1위경기도-거기-매부리tv-n억집-379569",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T12:55:03.544Z",
-    "updatedAt": "2026-05-06T12:55:03.544Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12038067",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038067",
-    "titleFingerprint": "6edb77b1a63e8c9885ea763ee8a9639827f5d678",
-    "dedupKeys": [
-      "9535b1fe44d47381fc5e6125f4b15690aef5c385",
-      "6edb77b1a63e8c9885ea763ee8a9639827f5d678",
-      "db79c1ea471211de21e454b345a256e603fd0607"
-    ],
-    "imageUrl": "/images/articles/9535b1fe44d4.png",
-    "i18n": {
-      "ko": {
-        "title": "경기도 살기좋은도시 1위 부동산, 매부리TV가 전한 재건축·시세 현황",
-        "excerpt": "매부리TV ‘n억집’은 2026년 4월 21일 녹화 영상을 통해 경기도 살기좋은도시 1위 지역의 재건축 현황과 시세 정보를 대리 임장 형식으로 소개했다.",
-        "body": "매부리TV ‘n억집’은 2026년 4월 21일 화요일 녹화된 영상을 통해 경기도의 살기좋은도시 1위로 언급된 지역 부동산을 다뤘다. 영상은 현장을 직접 찾기 어려운 시청자를 위해 생생한 재건축 현황과 시세 정보를 대리 임장 형식으로 전하는 데 초점을 맞췄다. 원문은 해당 지역을 ‘살기좋은도시 부동의 1위’로 소개하며, 이번 주 콘텐츠에서 재건축 진행 상황과 가격 정보를 확인할 수 있다고 안내했다. 부동산 수요자에게는 지역별 정비사업 흐름과 시세 점검이 중요한 판단 자료가 되는 만큼, 영상 공개 시점과 녹화일을 함께 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gyeonggi Livable City No. 1 Real Estate: MaeburiTV Reviews Rebuilds and Prices",
-        "excerpt": "MaeburiTV’s “n-eok House” introduced the real estate market in Gyeonggi’s top livable city through a video recorded on April 21, 2026, focusing on reconstruction and prices.",
-        "body": "MaeburiTV’s “n-eok House” covered real estate in a Gyeonggi-do area described as the undisputed No. 1 livable city through a video recorded on Tuesday, April 21, 2026. The program focused on giving viewers who cannot visit the site directly a virtual field tour with vivid updates on reconstruction activity and market prices. The original article introduced the area as a steady leader among livable cities and said this week’s content allows viewers to check reconstruction progress and price information. For real estate consumers, local redevelopment trends and price checks can be key reference points, so the recording date and release timing should be noted. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "京畿道の住みよい都市1位不動産、メブリTVが再建築と相場を紹介",
-        "excerpt": "メブリTV「n億家」は2026年4月21日に収録された映像で、京畿道の住みよい都市1位地域の再建築状況と相場情報を代理内見形式で伝えた。",
-        "body": "メブリTV「n億家」は、2026年4月21日火曜日に収録された映像を通じて、京畿道で住みよい都市1位と紹介された地域の不動産を取り上げた。番組は、現地を直接訪れにくい視聴者に向けて、再建築の進行状況と相場情報を代理内見の形で伝えることに重点を置いた。原文では同地域を「住みよい都市不動の1位」と表現し、今週のコンテンツで再建築の現況と価格情報を確認できると案内している。不動産需要者にとって、地域別の整備事業の流れと相場確認は重要な判断材料となるため、映像の公開時点と収録日を併せて確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "京畿道宜居城市第一名房产，MaeburiTV聚焦重建与行情",
-        "excerpt": "MaeburiTV《n亿房》通过2026年4月21日录制的视频，以代看房形式介绍京畿道宜居城市第一名地区的重建现状和价格信息。",
-        "body": "MaeburiTV《n亿房》通过2026年4月21日星期二录制的视频，报道了京畿道被称为宜居城市第一名地区的房地产情况。节目面向难以亲自到现场的观众，以代看房形式呈现生动的重建现状和价格信息。原文将该地区介绍为“宜居城市稳居第一”，并说明本周内容可查看重建进展和房价信息。对于房地产需求者而言，按地区了解整备项目进展和核对市场价格，是重要的判断资料，因此有必要同时确认视频发布时点和录制日期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inmuebles en la ciudad más habitable de Gyeonggi: MaeburiTV revisa obras y precios",
-        "excerpt": "MaeburiTV “n-eok House” presentó en un video grabado el 21 de abril de 2026 la zona de Gyeonggi considerada número uno en habitabilidad, con reconstrucción y precios.",
-        "body": "MaeburiTV “n-eok House” trató el mercado inmobiliario de una zona de Gyeonggi-do descrita como la número uno indiscutible entre las ciudades más habitables, mediante un video grabado el martes 21 de abril de 2026. El programa se centró en ofrecer a los espectadores que no pueden visitar el lugar una visita virtual con información viva sobre el estado de la reconstrucción y los precios. El texto original presenta la zona como líder estable en habitabilidad y señala que el contenido de esta semana permite revisar avances de reconstrucción y datos de mercado. Para quienes buscan vivienda o inversión, seguir proyectos de renovación y precios por zona puede ser una referencia relevante, junto con la fecha de grabación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Imóveis na cidade mais habitável de Gyeonggi: MaeburiTV mostra obras e preços",
-        "excerpt": "O “n-eok House” da MaeburiTV apresentou, em vídeo gravado em 21 de abril de 2026, a região de Gyeonggi líder em habitabilidade, com reconstrução e preços.",
-        "body": "O “n-eok House” da MaeburiTV abordou o mercado imobiliário de uma área de Gyeonggi-do descrita como a número um incontestável entre as cidades mais habitáveis, em vídeo gravado na terça-feira, 21 de abril de 2026. O programa focou em oferecer aos espectadores que não podem visitar o local uma visita virtual com informações vívidas sobre o andamento da reconstrução e os preços. O texto original apresenta a região como líder estável em habitabilidade e informa que o conteúdo desta semana permite verificar o status das obras e os valores de mercado. Para interessados em imóveis, acompanhar projetos de renovação e preços por área é uma referência importante, junto com a data de gravação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Immobilien in Gyeonggis lebenswertester Stadt: MaeburiTV zeigt Sanierung und Preise",
-        "excerpt": "MaeburiTVs „n-eok House“ stellte in einem am 21. April 2026 aufgezeichneten Video die Immobilien einer als lebenswerteste Stadt Gyeonggis beschriebenen Region vor.",
-        "body": "MaeburiTVs „n-eok House“ berichtete in einem am Dienstag, dem 21. April 2026, aufgezeichneten Video über Immobilien in einer Region von Gyeonggi-do, die als unangefochtene Nummer eins unter den lebenswerten Städten beschrieben wurde. Die Sendung richtete sich an Zuschauer, die den Standort nicht selbst besuchen können, und bot eine virtuelle Besichtigung mit anschaulichen Informationen zum Stand der Rekonstruktion und zu Marktpreisen. Der Originaltext stellt die Gegend als stabile Spitzenregion bei der Lebensqualität vor und weist darauf hin, dass die aktuelle Folge Baufortschritte und Preisinformationen zeigt. Für Immobilieninteressierte sind lokale Erneuerungsprojekte und Preischecks wichtige Anhaltspunkte; auch das Aufnahmedatum sollte beachtet werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Immobilier dans la ville la plus agréable de Gyeonggi: MaeburiTV détaille chantiers et prix",
-        "excerpt": "MaeburiTV « n-eok House » a présenté, dans une vidéo enregistrée le 21 avril 2026, l’immobilier d’une zone de Gyeonggi classée première pour la qualité de vie.",
-        "body": "MaeburiTV « n-eok House » a consacré une vidéo enregistrée le mardi 21 avril 2026 à l’immobilier d’une zone du Gyeonggi-do décrite comme numéro un incontesté parmi les villes où il fait bon vivre. Le programme vise les spectateurs qui ne peuvent pas se rendre sur place, en proposant une visite virtuelle avec des informations concrètes sur l’état des reconstructions et les prix. Le texte original présente cette zone comme une leader stable en matière de qualité de vie et indique que le contenu de la semaine permet de vérifier l’avancement des projets et les données de prix. Pour les acheteurs ou observateurs du marché, suivre les opérations de renouvellement urbain et les prix locaux reste une référence utile, avec la date d’enregistrement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عقارات مدينة كيونغغي الأكثر ملاءمة للعيش: MaeburiTV يعرض إعادة البناء والأسعار",
-        "excerpt": "قدمت MaeburiTV في برنامج “n-eok House” فيديو مسجلا في 21 أبريل 2026 عن منطقة في كيونغغي وصفت بأنها الأولى في ملاءمة العيش، مع أوضاع إعادة البناء والأسعار.",
-        "body": "تناولت MaeburiTV في برنامج “n-eok House” عقارات منطقة في مقاطعة كيونغغي-دو وُصفت بأنها تحتل المركز الأول بثبات بين المدن الملائمة للعيش، وذلك عبر فيديو سُجل يوم الثلاثاء 21 أبريل 2026. ركزت الحلقة على تقديم جولة ميدانية افتراضية للمشاهدين الذين لا يستطيعون زيارة الموقع مباشرة، مع معلومات حية عن أوضاع إعادة البناء والأسعار. وعرّف النص الأصلي المنطقة بأنها “الأولى دون منازع في ملاءمة العيش”، مشيرا إلى أن محتوى هذا الأسبوع يتيح متابعة تقدم إعادة البناء ومعلومات الأسعار. وبالنسبة للمهتمين بالعقار، فإن التحقق من مسار مشاريع التجديد والأسعار حسب المنطقة يعد مرجعا مهما، مع الانتباه إلى تاريخ التسجيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ग्योंगगी की रहने योग्य शीर्ष शहर संपत्ति: MaeburiTV ने पुनर्निर्माण और कीमतें दिखाईं",
-        "excerpt": "MaeburiTV के “n-eok House” ने 21 अप्रैल 2026 को रिकॉर्ड वीडियो में ग्योंगगी के रहने योग्य नंबर एक बताए गए क्षेत्र की पुनर्निर्माण स्थिति और कीमतें पेश कीं।",
-        "body": "MaeburiTV के “n-eok House” ने मंगलवार, 21 अप्रैल 2026 को रिकॉर्ड किए गए वीडियो के जरिए ग्योंगगी-डो के उस क्षेत्र की रियल एस्टेट स्थिति को दिखाया जिसे रहने योग्य शहरों में स्थिर नंबर एक बताया गया है। कार्यक्रम ने उन दर्शकों के लिए वर्चुअल साइट विजिट का रूप लिया जो सीधे मौके पर नहीं जा सकते, और इसमें पुनर्निर्माण की मौजूदा स्थिति तथा कीमतों की जानकारी पर ध्यान दिया गया। मूल लेख ने इस क्षेत्र को “रहने योग्य शहरों में अडिग पहला स्थान” कहा और बताया कि इस सप्ताह की सामग्री में पुनर्निर्माण प्रगति और मूल्य जानकारी देखी जा सकती है। रियल एस्टेट में रुचि रखने वालों के लिए स्थानीय नवीनीकरण परियोजनाओं और कीमतों की जांच अहम संदर्भ हो सकती है, इसलिए रिकॉर्डिंग तारीख भी देखनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Properti Kota Paling Layak Huni di Gyeonggi: MaeburiTV Ulas Rekonstruksi dan Harga",
-        "excerpt": "MaeburiTV “n-eok House” lewat video yang direkam pada 21 April 2026 memperkenalkan wilayah Gyeonggi yang disebut nomor satu layak huni, dengan kondisi rekonstruksi dan harga.",
-        "body": "MaeburiTV “n-eok House” membahas properti di sebuah wilayah Gyeonggi-do yang disebut sebagai peringkat pertama tak tergoyahkan di antara kota paling layak huni, melalui video yang direkam pada Selasa, 21 April 2026. Program ini berfokus memberi pemirsa yang sulit datang langsung ke lokasi sebuah kunjungan virtual dengan informasi nyata tentang kondisi rekonstruksi dan harga pasar. Teks asli memperkenalkan wilayah tersebut sebagai pemimpin stabil dalam kelayakan huni dan menyebut konten pekan ini dapat digunakan untuk melihat perkembangan rekonstruksi serta informasi harga. Bagi peminat properti, arus proyek penataan ulang dan pengecekan harga per wilayah menjadi bahan pertimbangan penting, bersama tanggal perekaman video. Sumber: mk.co.kr"
       }
     }
   }
