@@ -1,5 +1,230 @@
 [
   {
+    "id": "0f0082786166",
+    "slug": "갤럭시워치로-실신-5분전-신호-잡아내-449378",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T23:21:55.095Z",
+    "updatedAt": "2026-05-07T23:21:55.095Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881503/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881503/2",
+    "titleFingerprint": "ae277ad130638c42912fd9bbf42f44c148420856",
+    "dedupKeys": [
+      "0f0082786166beca7383e96eb7a3be84b7671c9d",
+      "ae277ad130638c42912fd9bbf42f44c148420856",
+      "3a7cd50e40670db7a7e5b0800fae2787a8cda941"
+    ],
+    "imageUrl": "/images/articles/0f0082786166.jpg",
+    "i18n": {
+      "ko": {
+        "title": "갤럭시워치, 실신 5분 전 신호 포착…AI 분석 정확도 84.6%",
+        "excerpt": "삼성전자는 3일 중앙대광명병원과 공동 임상 연구에서 갤럭시 워치와 AI 생체 신호 분석으로 미주신경성 실신을 약 5분 전 예측할 가능성을 확인했다고 밝혔다.",
+        "body": "삼성전자는 3일 중앙대광명병원과 공동 임상 연구를 통해 갤럭시 워치를 활용한 미주신경성 실신 조기 예측 가능성을 확인했다고 밝혔다. 스마트워치의 생체 신호 분석과 인공지능(AI)을 결합해 실신 발생 약 5분 전에 징후를 84.6% 정확도로 포착했다는 조사 결과다. 연구는 조준환 중앙대광명병원 순환기내과 교수팀이 미주신경성 실신 의심 환자 132명을 대상으로 진행했다. 미주신경성 실신은 과도한 긴장이나 스트레스로 혈압이 급격히 떨어져 일시적으로 의식을 잃는 현상이다. 예기치 못한 낙상은 골절이나 뇌출혈 등 2차 상해로 이어질 수 있다. 실신 징후를 미리 알면 환자가 안전한 자세를 취하거나 주변에 도움을 요청할 골든타임을 확보할 수 있다. 이번 성과는 스마트워치로 실신 예측 가능성을 밝힌 세계 최초 연구 사례로, 결과는 유럽심장학회 발행 디지털 헬스 학술지 최신호에 게재됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Galaxy Watch detects fainting signals 5 minutes early with 84.6% AI accuracy",
+        "excerpt": "Samsung said on the 3rd that a joint clinical study with Chung-Ang University Gwangmyeong Hospital confirmed the potential to predict vasovagal syncope about five minutes early using Galaxy Watch and AI biosignal analysis.",
+        "body": "Samsung Electronics said on the 3rd that a joint clinical study with Chung-Ang University Gwangmyeong Hospital confirmed the potential for early prediction of vasovagal syncope using Galaxy Watch. The study found that biosignal analysis from a smartwatch combined with artificial intelligence detected signs of fainting about five minutes before onset with 84.6% accuracy. The research was conducted by Professor Cho Joon-hwan’s cardiology team at Chung-Ang University Gwangmyeong Hospital on 132 patients suspected of vasovagal syncope. Vasovagal syncope is a temporary loss of consciousness caused by a sharp drop in blood pressure due to excessive tension or stress. Unexpected falls can lead to secondary injuries such as fractures or brain hemorrhage. If warning signs are identified in advance, patients may secure a golden time to take a safe posture or ask nearby people for help. Samsung said this is the world’s first study showing the possibility of predicting syncope with a smartwatch, and the findings were published in the latest issue of a digital health journal issued by the European Society of Cardiology. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "Galaxy Watch、失神5分前の兆候を検知…AI分析の精度84.6%",
+        "excerpt": "サムスン電子は3日、中央大学光明病院との共同臨床研究で、Galaxy WatchとAI生体信号分析により迷走神経反射性失神を約5分前に予測できる可能性を確認したと明らかにした。",
+        "body": "サムスン電子は3日、中央大学光明病院との共同臨床研究を通じ、Galaxy Watchを活用した迷走神経反射性失神の早期予測の可能性を確認したと発表した。スマートウォッチの生体信号分析と人工知能（AI）を組み合わせ、失神発生の約5分前に兆候を84.6%の精度で捉えたという調査結果だ。研究は中央大学光明病院循環器内科のチョ・ジュンファン教授チームが、迷走神経反射性失神が疑われる患者132人を対象に実施した。迷走神経反射性失神は、過度な緊張やストレスで血圧が急激に低下し、一時的に意識を失う現象だ。予期しない転倒は骨折や脳出血などの二次被害につながる恐れがある。兆候を事前に把握できれば、患者は安全な姿勢を取ったり周囲に助けを求めたりするゴールデンタイムを確保できる。今回の成果はスマートウォッチによる失神予測の可能性を示した世界初の研究事例で、結果は欧州心臓病学会発行のデジタルヘルス学術誌最新号に掲載された。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Galaxy Watch可提前5分钟捕捉晕厥信号，AI准确率84.6%",
+        "excerpt": "三星电子3日表示，与中央大学光明医院共同开展的临床研究确认，Galaxy Watch结合AI生物信号分析有望在约5分钟前预测迷走神经性晕厥。",
+        "body": "三星电子3日表示，通过与中央大学光明医院的共同临床研究，确认了利用Galaxy Watch早期预测迷走神经性晕厥的可能性。研究结果显示，智能手表的生物信号分析结合人工智能（AI），可在晕厥发生约5分钟前以84.6%的准确率捕捉相关征兆。该研究由中央大学光明医院心血管内科赵俊焕教授团队开展，研究对象为132名疑似迷走神经性晕厥患者。迷走神经性晕厥是指因过度紧张或压力导致血压骤降、暂时失去意识的现象。突发跌倒可能引发骨折、脑出血等二次伤害。若能提前预测晕厥征兆，患者就能争取在晕厥前采取安全姿势或向周围人员求助的黄金时间。此次成果是全球首个证明智能手表具备晕厥预测可能性的研究案例，研究结果已刊登于欧洲心脏病学会发行的数字健康学术期刊最新一期。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Galaxy Watch detecta señales de desmayo 5 minutos antes con 84,6% de precisión",
+        "excerpt": "Samsung informó el día 3 que un estudio clínico conjunto con Chung-Ang University Gwangmyeong Hospital confirmó la posibilidad de prever el síncope vasovagal unos cinco minutos antes con Galaxy Watch y análisis de señales biológicas mediante IA.",
+        "body": "Samsung Electronics informó el día 3 que un estudio clínico conjunto con Chung-Ang University Gwangmyeong Hospital confirmó la posibilidad de predecir de forma temprana el síncope vasovagal mediante Galaxy Watch. Según los resultados, el análisis de señales biológicas del reloj inteligente combinado con inteligencia artificial detectó indicios de desmayo unos cinco minutos antes de que ocurriera, con una precisión del 84,6%. La investigación fue realizada por el equipo del profesor Cho Joon-hwan, del departamento de cardiología del hospital, con 132 pacientes sospechosos de síncope vasovagal. Este tipo de síncope es una pérdida temporal de conciencia causada por una caída brusca de la presión arterial debido a tensión excesiva o estrés. Las caídas inesperadas pueden provocar lesiones secundarias como fracturas o hemorragia cerebral. Si los indicios se anticipan, el paciente puede ganar un tiempo clave para adoptar una postura segura o pedir ayuda a quienes lo rodean. Samsung señaló que se trata del primer estudio del mundo que muestra la posibilidad de predecir el síncope con un reloj inteligente, y los resultados fueron publicados en el número más reciente de una revista de salud digital de la Sociedad Europea de Cardiología. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Galaxy Watch identifica sinais de desmaio 5 minutos antes com 84,6% de precisão",
+        "excerpt": "A Samsung informou no dia 3 que um estudo clínico conjunto com o Chung-Ang University Gwangmyeong Hospital confirmou a possibilidade de prever síncope vasovagal cerca de cinco minutos antes com Galaxy Watch e análise de biossinais por IA.",
+        "body": "A Samsung Electronics informou no dia 3 que um estudo clínico conjunto com o Chung-Ang University Gwangmyeong Hospital confirmou a possibilidade de previsão precoce de síncope vasovagal usando o Galaxy Watch. Segundo os resultados, a análise de sinais biológicos do smartwatch combinada com inteligência artificial identificou indícios de desmaio cerca de cinco minutos antes do evento, com 84,6% de precisão. A pesquisa foi conduzida pela equipe do professor Cho Joon-hwan, do departamento de cardiologia do hospital, com 132 pacientes suspeitos de síncope vasovagal. A síncope vasovagal é uma perda temporária de consciência causada por queda brusca da pressão arterial devido a tensão excessiva ou estresse. Quedas inesperadas podem levar a lesões secundárias, como fraturas ou hemorragia cerebral. Se os sinais forem previstos com antecedência, o paciente pode ganhar tempo essencial para assumir uma postura segura ou pedir ajuda às pessoas próximas. A Samsung afirmou que este é o primeiro estudo do mundo a demonstrar a possibilidade de prever síncope com um smartwatch, e os resultados foram publicados na edição mais recente de uma revista de saúde digital da Sociedade Europeia de Cardiologia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Galaxy Watch erkennt Ohnmachtssignale 5 Minuten vorher mit 84,6% Genauigkeit",
+        "excerpt": "Samsung teilte am 3. mit, dass eine gemeinsame klinische Studie mit dem Chung-Ang University Gwangmyeong Hospital die Möglichkeit bestätigte, vasovagale Synkopen mit Galaxy Watch und KI-Biosignalanalyse etwa fünf Minuten vorher vorherzusagen.",
+        "body": "Samsung Electronics teilte am 3. mit, dass eine gemeinsame klinische Studie mit dem Chung-Ang University Gwangmyeong Hospital die Möglichkeit einer frühen Vorhersage vasovagaler Synkopen mithilfe der Galaxy Watch bestätigt habe. Den Ergebnissen zufolge erfasste die Analyse von Biosignalen der Smartwatch in Verbindung mit künstlicher Intelligenz Anzeichen einer Ohnmacht etwa fünf Minuten vor dem Auftreten mit einer Genauigkeit von 84,6%. Die Studie wurde vom Kardiologieteam um Professor Cho Joon-hwan am Chung-Ang University Gwangmyeong Hospital mit 132 Patienten durchgeführt, bei denen eine vasovagale Synkope vermutet wurde. Dabei handelt es sich um einen vorübergehenden Bewusstseinsverlust, der durch einen starken Blutdruckabfall infolge übermäßiger Anspannung oder Stress entsteht. Unerwartete Stürze können zu Folgeverletzungen wie Knochenbrüchen oder Hirnblutungen führen. Werden Warnzeichen früh erkannt, können Patienten Zeit gewinnen, um eine sichere Haltung einzunehmen oder Hilfe aus der Umgebung zu rufen. Laut Samsung ist dies weltweit die erste Studie, die die Möglichkeit einer Synkopenvorhersage mit einer Smartwatch zeigt. Die Ergebnisse erschienen in der neuesten Ausgabe einer von der Europäischen Gesellschaft für Kardiologie herausgegebenen Fachzeitschrift für digitale Gesundheit. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Galaxy Watch repère les signes d’évanouissement 5 minutes avant avec 84,6% de précision",
+        "excerpt": "Samsung a annoncé le 3 qu’une étude clinique menée avec le Chung-Ang University Gwangmyeong Hospital avait confirmé la possibilité de prévoir une syncope vasovagale environ cinq minutes avant grâce à Galaxy Watch et à l’analyse de biosignaux par IA.",
+        "body": "Samsung Electronics a annoncé le 3 qu’une étude clinique conjointe avec le Chung-Ang University Gwangmyeong Hospital avait confirmé la possibilité de prédire précocement une syncope vasovagale à l’aide de la Galaxy Watch. Selon les résultats, l’analyse des signaux biologiques de la montre connectée, combinée à l’intelligence artificielle, a détecté les signes d’un évanouissement environ cinq minutes avant sa survenue avec une précision de 84,6%. L’étude a été menée par l’équipe du professeur Cho Joon-hwan, du service de cardiologie de l’hôpital, auprès de 132 patients suspectés de syncope vasovagale. Cette syncope correspond à une perte temporaire de conscience provoquée par une chute brutale de la tension artérielle due à une tension excessive ou au stress. Les chutes imprévues peuvent entraîner des blessures secondaires, comme des fractures ou une hémorragie cérébrale. Si les signes sont anticipés, le patient peut disposer d’un temps précieux pour adopter une posture sûre ou demander de l’aide autour de lui. Samsung indique qu’il s’agit de la première étude au monde montrant la possibilité de prédire une syncope avec une montre connectée. Les résultats ont été publiés dans le dernier numéro d’une revue de santé numérique éditée par la Société européenne de cardiologie. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ساعة Galaxy Watch ترصد إشارات الإغماء قبل 5 دقائق بدقة 84.6% عبر الذكاء الاصطناعي",
+        "excerpt": "أعلنت سامسونغ في الثالث من الشهر أن دراسة سريرية مشتركة مع مستشفى جامعة تشونغ أنغ غوانغميونغ أكدت إمكانية التنبؤ بالإغماء الوعائي المبهمي قبل نحو خمس دقائق باستخدام Galaxy Watch وتحليل الإشارات الحيوية بالذكاء الاصطناعي.",
+        "body": "أعلنت سامسونغ إلكترونيكس في الثالث من الشهر أن دراسة سريرية مشتركة مع مستشفى جامعة تشونغ أنغ غوانغميونغ أكدت إمكانية التنبؤ المبكر بالإغماء الوعائي المبهمي باستخدام ساعة Galaxy Watch. ووفق النتائج، جمع التحليل بين الإشارات الحيوية للساعة الذكية والذكاء الاصطناعي لرصد علامات الإغماء قبل حدوثه بنحو خمس دقائق، بدقة بلغت 84.6%. أجرى الدراسة فريق البروفيسور تشو جون هوان في قسم أمراض القلب بالمستشفى على 132 مريضا يشتبه بإصابتهم بالإغماء الوعائي المبهمي. ويحدث هذا النوع من الإغماء عندما ينخفض ضغط الدم بشكل حاد بسبب التوتر أو الضغط النفسي المفرط، ما يؤدي إلى فقدان مؤقت للوعي. وقد تؤدي السقوطات المفاجئة إلى إصابات ثانوية مثل الكسور أو النزيف الدماغي. وإذا أمكن توقع العلامات مسبقا، يمكن للمريض كسب وقت مهم لاتخاذ وضعية آمنة أو طلب المساعدة من المحيطين به. وتقول سامسونغ إن هذه أول دراسة في العالم تظهر إمكانية التنبؤ بالإغماء عبر ساعة ذكية، وقد نشرت النتائج في أحدث عدد من مجلة للصحة الرقمية تصدرها الجمعية الأوروبية لأمراض القلب. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Galaxy Watch ने बेहोशी से 5 मिनट पहले संकेत पकड़े, AI सटीकता 84.6%",
+        "excerpt": "सैमसंग ने 3 तारीख को बताया कि चुंग-आंग यूनिवर्सिटी ग्वांगम्योंग हॉस्पिटल के साथ संयुक्त नैदानिक अध्ययन में Galaxy Watch और AI आधारित जैव संकेत विश्लेषण से वासोवैगल सिंकोप को लगभग पांच मिनट पहले पहचानने की संभावना पुष्ट हुई।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स ने 3 तारीख को कहा कि चुंग-आंग यूनिवर्सिटी ग्वांगम्योंग हॉस्पिटल के साथ संयुक्त नैदानिक अध्ययन में Galaxy Watch के जरिए वासोवैगल सिंकोप की शुरुआती भविष्यवाणी की संभावना की पुष्टि हुई है। अध्ययन के अनुसार, स्मार्टवॉच के जैव संकेतों के विश्लेषण और कृत्रिम बुद्धिमत्ता को मिलाकर बेहोशी से लगभग पांच मिनट पहले संकेतों को 84.6% सटीकता से पकड़ा गया। यह शोध अस्पताल के कार्डियोलॉजी विभाग के प्रोफेसर चो जून-ह्वान की टीम ने वासोवैगल सिंकोप के संदेह वाले 132 मरीजों पर किया। वासोवैगल सिंकोप अत्यधिक तनाव या मानसिक दबाव से रक्तचाप में तेज गिरावट के कारण अस्थायी रूप से चेतना खोने की स्थिति है। अचानक गिरने से फ्रैक्चर या मस्तिष्क रक्तस्राव जैसी द्वितीयक चोटें हो सकती हैं। यदि संकेत पहले मिल जाएं, तो मरीज सुरक्षित मुद्रा अपनाने या आसपास के लोगों से मदद मांगने के लिए महत्वपूर्ण समय पा सकता है। सैमसंग के अनुसार, स्मार्टवॉच से सिंकोप की भविष्यवाणी की संभावना दिखाने वाला यह दुनिया का पहला अध्ययन है, और इसके निष्कर्ष यूरोपियन सोसाइटी ऑफ कार्डियोलॉजी की डिजिटल हेल्थ पत्रिका के नवीनतम अंक में प्रकाशित हुए हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Galaxy Watch deteksi sinyal pingsan 5 menit lebih awal, akurasi AI 84,6%",
+        "excerpt": "Samsung pada tanggal 3 menyatakan studi klinis bersama Chung-Ang University Gwangmyeong Hospital mengonfirmasi potensi Galaxy Watch dan analisis biosinyal berbasis AI untuk memprediksi sinkop vasovagal sekitar lima menit sebelumnya.",
+        "body": "Samsung Electronics pada tanggal 3 menyatakan bahwa studi klinis bersama Chung-Ang University Gwangmyeong Hospital telah mengonfirmasi potensi prediksi dini sinkop vasovagal menggunakan Galaxy Watch. Hasil penelitian menunjukkan bahwa analisis sinyal biologis dari smartwatch yang dipadukan dengan kecerdasan buatan mampu menangkap tanda-tanda pingsan sekitar lima menit sebelum terjadi, dengan akurasi 84,6%. Penelitian ini dilakukan oleh tim Profesor Cho Joon-hwan dari departemen kardiologi rumah sakit tersebut terhadap 132 pasien yang diduga mengalami sinkop vasovagal. Sinkop vasovagal adalah hilangnya kesadaran sementara akibat penurunan tekanan darah secara tiba-tiba karena ketegangan berlebihan atau stres. Jatuh tanpa diduga dapat menyebabkan cedera lanjutan seperti patah tulang atau pendarahan otak. Jika tanda-tandanya dapat diprediksi lebih awal, pasien bisa memperoleh waktu penting untuk mengambil posisi aman atau meminta bantuan orang di sekitar. Samsung menyebut capaian ini sebagai studi pertama di dunia yang menunjukkan kemungkinan prediksi sinkop dengan smartwatch, dan hasilnya diterbitkan dalam edisi terbaru jurnal kesehatan digital yang diterbitkan European Society of Cardiology. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "9fcbf8cbc528",
+    "slug": "빈-쇼핑봉투로-매대-채운-홈플러스-428163",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T23:20:33.239Z",
+    "updatedAt": "2026-05-07T23:20:33.239Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881507/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881507/2",
+    "titleFingerprint": "c5dec2cc021265bc798f5dfb8b5aef9f80e9e110",
+    "dedupKeys": [
+      "9fcbf8cbc5280cfd5561d4a899be002b0895209a",
+      "c5dec2cc021265bc798f5dfb8b5aef9f80e9e110",
+      "9132cb1cc6dfd9e76c917cfdf855dfb966a1c2e8"
+    ],
+    "imageUrl": "/images/articles/9fcbf8cbc528.jpg",
+    "i18n": {
+      "ko": {
+        "title": "홈플러스 빈 매대, 쇼핑봉투로 채워진 현장…기업회생 1년 넘게 진행",
+        "excerpt": "7일 서울 시내 한 홈플러스 매장에서 빈 매대가 홈플러스 쇼핑백으로 채워진 모습이 확인됐다. 경영 악화로 법정관리를 신청한 뒤 기업회생 절차가 이어지고 있다.",
+        "body": "7일 서울 시내 한 홈플러스 매장에서 상품이 놓여야 할 빈 매대가 홈플러스 쇼핑백으로 채워져 있는 모습이 포착됐다. 해당 장면은 경영 악화 등의 이유로 법정관리를 신청한 홈플러스의 현재 상황을 보여주는 현장 사례다. 홈플러스는 지난해 3월 4일 법정관리를 신청했으며, 이후 1년 넘게 기업회생 절차를 밟고 있다. 빈 매대가 쇼핑봉투로 채워진 모습은 유통 현장의 운영 여건과 회생 절차 진행 상황에 대한 관심을 키우고 있다. 출처는 rss.donga.com이다."
+      },
+      "en": {
+        "title": "Homeplus Empty Shelves Filled With Shopping Bags as Rehabilitation Continues",
+        "excerpt": "On May 7, empty shelves at a Homeplus store in Seoul were seen filled with Homeplus shopping bags as the retailer continues corporate rehabilitation after seeking court receivership.",
+        "body": "On May 7, empty shelves at a Homeplus store in Seoul were seen filled with Homeplus shopping bags instead of products. The scene illustrates the current situation facing Homeplus, which applied for court receivership due to worsening management conditions and other reasons. Homeplus filed for court receivership on March 4 last year and has been undergoing corporate rehabilitation proceedings for more than a year. The sight of empty shelves filled with shopping bags is drawing attention to operating conditions at the retail site and the ongoing rehabilitation process. Source: rss.donga.com."
+      },
+      "ja": {
+        "title": "ホームプラスの空の売り場、買い物袋で埋まる…企業再生手続き続く",
+        "excerpt": "7日、ソウル市内のホームプラス店舗で空の陳列棚がホームプラスの買い物袋で埋められている様子が確認された。経営悪化で法定管理を申請後、再生手続きが続く。",
+        "body": "7日、ソウル市内のホームプラス店舗で、本来商品が並ぶはずの空の陳列棚がホームプラスの買い物袋で埋められている様子が確認された。この場面は、経営悪化などを理由に法定管理を申請したホームプラスの現在の状況を示す現場事例だ。ホームプラスは昨年3月4日に法定管理を申請し、その後1年以上にわたり企業再生手続きを進めている。空の売り場が買い物袋で満たされた様子は、小売現場の運営状況と再生手続きの進行に関心を集めている。出典はrss.donga.com。"
+      },
+      "zh": {
+        "title": "Homeplus空货架被购物袋填满，企业重整程序已持续一年多",
+        "excerpt": "5月7日，首尔市内一家Homeplus门店的空货架被Homeplus购物袋填满。该公司因经营恶化申请法院管理后，企业重整程序仍在进行。",
+        "body": "5月7日，首尔市内一家Homeplus门店内，本应摆放商品的空货架被Homeplus购物袋填满。这一现场画面显示了Homeplus当前所处的状况。Homeplus因经营恶化等原因，于去年3月4日申请法院管理，此后已持续一年多推进企业重整程序。空货架被购物袋填充的景象，使外界更加关注该零售现场的运营条件以及企业重整程序的进展。消息来源为rss.donga.com。"
+      },
+      "es": {
+        "title": "Homeplus llena estantes vacíos con bolsas mientras sigue en rehabilitación",
+        "excerpt": "El 7 de mayo, en una tienda Homeplus de Seúl, estantes vacíos aparecieron llenos con bolsas de compra de la cadena, mientras continúa el proceso de rehabilitación empresarial.",
+        "body": "El 7 de mayo, en una tienda Homeplus de Seúl, se observaron estantes vacíos que debían exhibir productos llenos con bolsas de compra de Homeplus. La escena muestra la situación actual de la compañía, que solicitó administración judicial por deterioro de su gestión y otros motivos. Homeplus presentó la solicitud el 4 de marzo del año pasado y lleva más de un año en un proceso de rehabilitación empresarial. La imagen de estantes vacíos cubiertos con bolsas atrae atención sobre las condiciones operativas en el comercio y el avance del procedimiento. Fuente: rss.donga.com."
+      },
+      "pt": {
+        "title": "Homeplus preenche prateleiras vazias com sacolas em meio à recuperação",
+        "excerpt": "Em 7 de maio, prateleiras vazias de uma loja Homeplus em Seul foram vistas preenchidas com sacolas da rede, enquanto a empresa segue em recuperação judicial há mais de um ano.",
+        "body": "Em 7 de maio, em uma loja Homeplus na cidade de Seul, prateleiras vazias que deveriam exibir produtos foram vistas preenchidas com sacolas de compras da própria Homeplus. A cena mostra a situação atual da empresa, que solicitou administração judicial por deterioração da gestão e outros motivos. A Homeplus fez o pedido em 4 de março do ano passado e, desde então, passa por um processo de recuperação empresarial há mais de um ano. A imagem das prateleiras vazias ocupadas por sacolas chama atenção para as condições de operação no varejo e o andamento do processo. Fonte: rss.donga.com."
+      },
+      "de": {
+        "title": "Homeplus füllt leere Regale mit Einkaufstüten, Sanierung läuft weiter",
+        "excerpt": "Am 7. Mai waren in einer Homeplus-Filiale in Seoul leere Regale mit Homeplus-Einkaufstüten gefüllt. Nach dem Antrag auf gerichtliche Verwaltung läuft die Sanierung weiter.",
+        "body": "Am 7. Mai waren in einer Homeplus-Filiale in Seoul leere Regale, auf denen eigentlich Waren stehen sollten, mit Einkaufstüten von Homeplus gefüllt. Die Szene zeigt die aktuelle Lage des Unternehmens, das wegen verschlechterter Geschäftsbedingungen und weiterer Gründe gerichtliche Verwaltung beantragt hatte. Homeplus stellte den Antrag am 4. März vergangenen Jahres und befindet sich seit mehr als einem Jahr im Verfahren zur Unternehmenssanierung. Der Anblick leerer Regale, die mit Einkaufstüten gefüllt sind, lenkt den Blick auf die Betriebsbedingungen im Einzelhandel und den Fortgang des Verfahrens. Quelle: rss.donga.com."
+      },
+      "fr": {
+        "title": "Homeplus remplit des rayons vides avec des sacs, la restructuration continue",
+        "excerpt": "Le 7 mai, dans un magasin Homeplus de Séoul, des rayons vides ont été remplis de sacs de l’enseigne, alors que la procédure de redressement se poursuit depuis plus d’un an.",
+        "body": "Le 7 mai, dans un magasin Homeplus situé à Séoul, des rayons vides qui auraient dû accueillir des produits ont été remplis de sacs de courses Homeplus. Cette scène illustre la situation actuelle de l’entreprise, qui a demandé un placement sous administration judiciaire en raison d’une détérioration de sa gestion et d’autres facteurs. Homeplus a déposé cette demande le 4 mars de l’an dernier et suit depuis plus d’un an une procédure de redressement d’entreprise. L’image de rayons vides occupés par des sacs attire l’attention sur les conditions d’exploitation dans le commerce et sur l’avancement de la procédure. Source : rss.donga.com."
+      },
+      "ar": {
+        "title": "رفوف Homeplus الفارغة تمتلئ بأكياس التسوق مع استمرار إعادة الهيكلة",
+        "excerpt": "في 7 مايو، شوهدت رفوف فارغة في متجر Homeplus داخل سيول وقد مُلئت بأكياس تسوق تابعة للشركة، بينما تستمر إجراءات إنعاشها بعد طلب الإدارة القضائية.",
+        "body": "في 7 مايو، شوهدت في أحد متاجر Homeplus بمدينة سيول رفوف فارغة كان يفترض أن تعرض المنتجات، وقد مُلئت بأكياس تسوق تحمل اسم Homeplus. يعكس هذا المشهد الوضع الحالي للشركة التي تقدمت بطلب للإدارة القضائية بسبب تدهور أوضاعها الإدارية وأسباب أخرى. وقد قدمت Homeplus الطلب في 4 مارس من العام الماضي، ومنذ ذلك الحين تمضي في إجراءات إنعاش الشركات لأكثر من عام. ويجذب مشهد الرفوف الفارغة المملوءة بالأكياس الانتباه إلى ظروف التشغيل في موقع البيع بالتجزئة وإلى مسار إجراءات الإنعاش. المصدر: rss.donga.com."
+      },
+      "hi": {
+        "title": "Homeplus की खाली शेल्फ़ shopping bags से भरी, पुनर्गठन प्रक्रिया जारी",
+        "excerpt": "7 मई को सियोल के एक Homeplus स्टोर में खाली शेल्फ़ कंपनी के shopping bags से भरी दिखीं। प्रबंधन संकट के बाद अदालत प्रबंधन के लिए आवेदन किया गया था।",
+        "body": "7 मई को सियोल शहर के एक Homeplus स्टोर में वे खाली शेल्फ़, जहां सामान रखा जाना चाहिए था, Homeplus के shopping bags से भरी हुई दिखीं। यह दृश्य कंपनी की मौजूदा स्थिति को दिखाता है, जिसने प्रबंधन की बिगड़ती स्थिति और अन्य कारणों से अदालत प्रबंधन के लिए आवेदन किया था। Homeplus ने पिछले वर्ष 4 मार्च को अदालत प्रबंधन के लिए आवेदन किया था और इसके बाद से एक वर्ष से अधिक समय से कॉरपोरेट पुनर्गठन प्रक्रिया से गुजर रही है। खाली शेल्फ़ को shopping bags से भरने का दृश्य खुदरा संचालन की स्थितियों और पुनर्गठन प्रक्रिया की प्रगति पर ध्यान खींच रहा है। स्रोत: rss.donga.com."
+      },
+      "id": {
+        "title": "Rak Kosong Homeplus Diisi Kantong Belanja Saat Rehabilitasi Berlanjut",
+        "excerpt": "Pada 7 Mei, rak kosong di sebuah gerai Homeplus di Seoul terlihat diisi kantong belanja Homeplus, sementara proses rehabilitasi perusahaan masih berjalan lebih dari setahun.",
+        "body": "Pada 7 Mei, di sebuah gerai Homeplus di Seoul, rak kosong yang seharusnya berisi produk terlihat diisi dengan kantong belanja Homeplus. Pemandangan ini menunjukkan kondisi terkini Homeplus, yang mengajukan pengelolaan hukum karena memburuknya kondisi manajemen dan alasan lainnya. Homeplus mengajukan pengelolaan hukum pada 4 Maret tahun lalu dan sejak itu menjalani proses rehabilitasi perusahaan selama lebih dari satu tahun. Rak kosong yang diisi kantong belanja menarik perhatian pada kondisi operasional di lokasi ritel tersebut dan perkembangan proses rehabilitasi. Sumber: rss.donga.com."
+      }
+    }
+  },
+  {
+    "id": "935c2af12030",
+    "slug": "반도체-호황에-3월-경상수지도-3733억-달러-역대-최대-413061",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T23:19:44.864Z",
+    "updatedAt": "2026-05-07T23:19:44.864Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133883541/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133883541/1",
+    "titleFingerprint": "62703573e1ed8779abd3960928432d024306ad12",
+    "dedupKeys": [
+      "935c2af12030ff18fd294503be3baba700a32217",
+      "62703573e1ed8779abd3960928432d024306ad12",
+      "c5c0ac90daaecba94c49eba8141e0cac65c2ea4a"
+    ],
+    "imageUrl": "/images/articles/935c2af12030.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 수출 호조에 3월 경상수지 373.3억 달러, 역대 최대 경신",
+        "excerpt": "한국은행은 3월 경상수지가 반도체 등 IT 품목 수출 호조와 상품수지 흑자 확대에 힘입어 373억3000만 달러로 역대 최대를 기록했다고 밝혔다.",
+        "body": "한국은행이 8일 발표한 3월 국제수지 잠정치에 따르면 올해 3월 경상수지는 373억3000만 달러 흑자로 집계됐다. 이는 직전 최고치였던 2월 231억9000만 달러를 넘어선 역대 최대 규모로, 경상수지는 35개월 연속 흑자를 이어갔다. 상품수지도 350억7000만 달러 흑자로 사상 최대치를 경신했다. 수출은 전년 동월 대비 56.9% 늘어난 943억2000만 달러였으며, 반도체와 컴퓨터 주변기기를 중심으로 IT 품목이 호조를 보였다. 비IT 품목도 조업일수 증가와 석유제품 가격 상승 영향으로 증가세를 나타냈다. 수입은 17.4% 늘어난 592억4000만 달러로, 자본재와 소비재 증가세가 이어졌다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Semiconductor Exports Lift Korea’s March Current Account to Record $37.33 Billion",
+        "excerpt": "The Bank of Korea said the March current account reached a record $37.33 billion, driven by strong semiconductor-led IT exports and a record goods surplus.",
+        "body": "According to preliminary March balance-of-payments data released by the Bank of Korea on the 8th, South Korea’s current account posted a surplus of $37.33 billion. The figure surpassed the previous record of $23.19 billion set in February and extended the surplus streak to 35 months. The goods balance also reached a record surplus of $35.07 billion. Exports rose 56.9% from a year earlier to $94.32 billion, led by strong IT items, especially semiconductors and computer peripherals. Non-IT items also increased, helped by more working days and higher petroleum product prices. Imports grew 17.4% to $59.24 billion, with capital goods and consumer goods continuing to rise. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "半導体輸出好調で韓国3月経常収支373.3億ドル、過去最大を更新",
+        "excerpt": "韓国銀行は、半導体などIT品目の輸出好調と商品収支の黒字拡大により、3月の経常収支が373億3000万ドルで過去最大となったと発表した。",
+        "body": "韓国銀行が8日に発表した3月の国際収支暫定値によると、韓国の3月経常収支は373億3000万ドルの黒字となった。これは直前の最高記録だった2月の231億9000万ドルを上回る過去最大で、経常収支は35カ月連続の黒字を維持した。商品収支も350億7000万ドルの黒字で過去最大を更新した。輸出は前年同月比56.9%増の943億2000万ドルで、半導体とコンピューター周辺機器を中心にIT品目が好調だった。非IT品目も操業日数の増加と石油製品価格の上昇を受けて増加した。輸入は17.4%増の592億4000万ドルで、資本財と消費財の増加が続いた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "半导体出口强劲推动韩国3月经常账户顺差达373.3亿美元创新高",
+        "excerpt": "韩国银行表示，受半导体等IT产品出口强劲和商品收支顺差扩大带动，3月经常账户顺差达373.3亿美元，创历史最高纪录。",
+        "body": "韩国银行8日发布的3月国际收支初步数据显示，韩国3月经常账户实现373.3亿美元顺差。这一规模超过此前2月创下的231.9亿美元最高纪录，刷新历史新高，且经常账户已连续35个月保持顺差。商品收支也以350.7亿美元顺差创下历史最大规模。出口同比增长56.9%，达到943.2亿美元，IT产品在半导体和计算机外围设备带动下表现强劲。非IT产品也因开工日数增加和石油产品价格上涨而增长。进口同比增长17.4%，为592.4亿美元，资本货物和消费品延续增势。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Exportaciones de semiconductores llevan la cuenta corriente de Corea a récord de US$37.330 millones",
+        "excerpt": "El Banco de Corea informó que la cuenta corriente de marzo alcanzó un récord de US$37.330 millones, impulsada por exportaciones de TI y un superávit histórico de bienes.",
+        "body": "Según los datos preliminares de la balanza de pagos de marzo publicados por el Banco de Corea el día 8, la cuenta corriente de Corea del Sur registró un superávit de US$37.330 millones. La cifra superó el récord anterior de US$23.190 millones de febrero y mantuvo una racha de 35 meses consecutivos en superávit. La balanza de bienes también marcó un máximo histórico, con US$35.070 millones. Las exportaciones crecieron 56,9% interanual hasta US$94.320 millones, lideradas por productos de TI como semiconductores y periféricos informáticos. Los productos no TI también aumentaron por más días laborables y mayores precios de derivados del petróleo. Las importaciones subieron 17,4% a US$59.240 millones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Semicondutores levam conta corrente da Coreia a recorde de US$ 37,33 bilhões em março",
+        "excerpt": "O Banco da Coreia informou que a conta corrente de março bateu recorde de US$ 37,33 bilhões, impulsionada por exportações de TI e superávit histórico em bens.",
+        "body": "Segundo dados preliminares do balanço de pagamentos de março divulgados pelo Banco da Coreia no dia 8, a conta corrente da Coreia do Sul registrou superávit de US$ 37,33 bilhões. O valor superou o recorde anterior de US$ 23,19 bilhões em fevereiro e manteve a sequência de 35 meses de superávit. A balança de bens também atingiu recorde, com superávit de US$ 35,07 bilhões. As exportações cresceram 56,9% em relação ao ano anterior, para US$ 94,32 bilhões, puxadas por itens de TI, especialmente semicondutores e periféricos de computador. Itens não relacionados a TI também avançaram com mais dias úteis e alta dos preços de derivados de petróleo. As importações subiram 17,4%, para US$ 59,24 bilhões. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Halbleiterexporte treiben Koreas Leistungsbilanz im März auf Rekord von 37,33 Mrd. Dollar",
+        "excerpt": "Die Bank of Korea meldete für März einen Rekordüberschuss von 37,33 Mrd. Dollar in der Leistungsbilanz, getragen von starken IT-Exporten und einem Rekord bei Waren.",
+        "body": "Nach vorläufigen Zahlungsbilanzdaten der Bank of Korea vom 8. verzeichnete Südkoreas Leistungsbilanz im März einen Überschuss von 37,33 Mrd. Dollar. Damit wurde der bisherige Höchstwert von 23,19 Mrd. Dollar aus dem Februar übertroffen; zugleich setzte sich die Überschussserie auf 35 Monate fort. Auch die Warenbilanz erreichte mit 35,07 Mrd. Dollar einen Rekordüberschuss. Die Exporte stiegen gegenüber dem Vorjahr um 56,9% auf 94,32 Mrd. Dollar, gestützt von IT-Gütern, insbesondere Halbleitern und Computerperipherie. Nicht-IT-Güter legten ebenfalls zu, begünstigt durch mehr Arbeitstage und höhere Preise für Erdölprodukte. Die Importe stiegen um 17,4% auf 59,24 Mrd. Dollar. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les semi-conducteurs portent le compte courant coréen de mars à un record de 37,33 Md$",
+        "excerpt": "La Banque de Corée a annoncé que le compte courant de mars avait atteint un record de 37,33 Md$, grâce aux exportations informatiques et à l’excédent des biens.",
+        "body": "Selon les données provisoires de la balance des paiements de mars publiées le 8 par la Banque de Corée, le compte courant de la Corée du Sud a affiché un excédent de 37,33 milliards de dollars. Ce montant dépasse le précédent record de 23,19 milliards de dollars enregistré en février et prolonge la série d’excédents à 35 mois. La balance des biens a également atteint un record, avec un excédent de 35,07 milliards de dollars. Les exportations ont progressé de 56,9% sur un an à 94,32 milliards de dollars, portées par les produits informatiques, notamment les semi-conducteurs et les périphériques d’ordinateur. Les produits non informatiques ont aussi augmenté avec davantage de jours ouvrés et la hausse des prix des produits pétroliers. Les importations ont crû de 17,4% à 59,24 milliards de dollars. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "صادرات أشباه الموصلات ترفع فائض الحساب الجاري الكوري في مارس إلى رقم قياسي",
+        "excerpt": "قال بنك كوريا إن فائض الحساب الجاري في مارس بلغ 37.33 مليار دولار، مدعوما بقوة صادرات منتجات تقنية المعلومات وفائض قياسي في ميزان السلع.",
+        "body": "وفقا للبيانات الأولية لميزان المدفوعات لشهر مارس التي أعلنها بنك كوريا في الثامن، سجل الحساب الجاري لكوريا الجنوبية فائضا قدره 37.33 مليار دولار. وتجاوز هذا الرقم المستوى القياسي السابق البالغ 23.19 مليار دولار في فبراير، كما واصل الحساب الجاري تحقيق الفائض للشهر الخامس والثلاثين على التوالي. وسجل ميزان السلع أيضا فائضا قياسيا بلغ 35.07 مليار دولار. وارتفعت الصادرات 56.9% على أساس سنوي إلى 94.32 مليار دولار، مدفوعة بمنتجات تقنية المعلومات، خصوصا أشباه الموصلات وملحقات الحاسوب. كما زادت المنتجات غير التقنية بفضل زيادة أيام العمل وارتفاع أسعار المنتجات النفطية. وارتفعت الواردات 17.4% إلى 59.24 مليار دولار. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर निर्यात से कोरिया का मार्च चालू खाता 37.33 अरब डॉलर के रिकॉर्ड पर",
+        "excerpt": "बैंक ऑफ कोरिया ने कहा कि मार्च में चालू खाते का अधिशेष 37.33 अरब डॉलर के रिकॉर्ड स्तर पर पहुंचा, जिसे आईटी निर्यात और वस्तु अधिशेष ने सहारा दिया।",
+        "body": "बैंक ऑफ कोरिया द्वारा 8 तारीख को जारी मार्च के भुगतान संतुलन के प्रारंभिक आंकड़ों के अनुसार, दक्षिण कोरिया के चालू खाते में 37.33 अरब डॉलर का अधिशेष दर्ज हुआ। यह फरवरी के 23.19 अरब डॉलर के पिछले रिकॉर्ड से अधिक है और चालू खाते का अधिशेष लगातार 35वें महीने जारी रहा। वस्तु खाते ने भी 35.07 अरब डॉलर के अधिशेष के साथ नया रिकॉर्ड बनाया। निर्यात एक साल पहले की तुलना में 56.9% बढ़कर 94.32 अरब डॉलर रहा, जिसमें सेमीकंडक्टर और कंप्यूटर पेरिफेरल्स जैसे आईटी उत्पादों की प्रमुख भूमिका रही। गैर-आईटी उत्पाद भी कार्यदिवसों में वृद्धि और पेट्रोलियम उत्पादों की कीमतों में बढ़ोतरी से बढ़े। आयात 17.4% बढ़कर 59.24 अरब डॉलर रहा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Ekspor Semikonduktor Dorong Transaksi Berjalan Korea Maret ke Rekor US$37,33 Miliar",
+        "excerpt": "Bank of Korea menyatakan transaksi berjalan Maret mencapai rekor US$37,33 miliar, ditopang ekspor TI termasuk semikonduktor dan surplus barang terbesar.",
+        "body": "Menurut data sementara neraca pembayaran Maret yang diumumkan Bank of Korea pada tanggal 8, transaksi berjalan Korea Selatan mencatat surplus US$37,33 miliar. Angka ini melampaui rekor sebelumnya pada Februari sebesar US$23,19 miliar dan memperpanjang surplus menjadi 35 bulan berturut-turut. Neraca barang juga mencetak rekor dengan surplus US$35,07 miliar. Ekspor naik 56,9% dibanding tahun sebelumnya menjadi US$94,32 miliar, didorong produk TI terutama semikonduktor dan perangkat periferal komputer. Produk non-TI juga meningkat karena bertambahnya hari kerja dan kenaikan harga produk minyak. Impor naik 17,4% menjadi US$59,24 miliar, dengan barang modal dan barang konsumsi terus bertambah. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "f59702f5b5d2",
     "slug": "현대모비스-전기차-심장-pe시스템-잇달아-독자-개발-256240",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Harga Rumah Seoul Naik di Seocho, Songpa, Yongsan; Gangnam Jadi Pengecualian",
         "excerpt": "Data Korea Real Estate Board pekan pertama Mei menunjukkan harga rumah naik di Seocho, Songpa, dan Yongsan, sementara Gangnam menjadi pengecualian di wilayah Seoul yang disebut.",
         "body": "Statistik harga rumah Korea Real Estate Board untuk pekan pertama Mei menunjukkan arah yang beragam di kawasan utama Seoul. Di luar Distrik Gangnam, harga rumah naik di Seocho, Songpa, dan Yongsan. Khusus Yongsan, harga kembali berbalik naik hanya dalam satu minggu. Kondisi ini terjadi saat pasokan properti jeonse terus berkurang dan harga jeonse melonjak, sehingga tekanan kenaikan harga juga terlihat di pasar jual beli apartemen Seoul. Selain itu, menjelang pemberlakuan tambahan pajak keuntungan pengalihan pada 9 Mei, permohonan sistem izin transaksi tanah juga akan diterima pada hari Sabtu. Perhatian pasar tertuju pada dampak perubahan pasokan dan harga jeonse terhadap harga jual. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a9a18533429c",
-    "slug": "전세사기-방지위해-깜깜이-빌라-가격도-시세-산출할-것-913313",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T10:56:49.183Z",
-    "updatedAt": "2026-05-07T10:56:49.183Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039344",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039344",
-    "titleFingerprint": "d77b4ae3d4b0df1c12cb9092b129bccb46d2427f",
-    "dedupKeys": [
-      "a9a18533429ca42bc0c6836dd5dc8475a590ea74",
-      "d77b4ae3d4b0df1c12cb9092b129bccb46d2427f",
-      "1ea880d2cf3d93360b9243e873349339e3108a56"
-    ],
-    "imageUrl": "/images/articles/a9a18533429c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전세사기 방지 대책, HUG ‘깜깜이 빌라 가격’도 연내 시세 산출",
-        "excerpt": "최인호 HUG 사장이 취임 100일을 맞아 전세사기 예방을 위해 연내 적정 빌라 시세 산출을 완료하고 매물별 부채를 실시간 집계하겠다고 밝혔다.",
-        "body": "최인호 주택도시보증공사(HUG) 사장은 취임 100일을 맞아 전세사기 예방을 위한 적정 빌라 시세 산출 작업을 올해 안에 완료하겠다고 밝혔다. 대상은 거래 정보가 부족해 가격을 알기 어려운 이른바 ‘깜깜이 빌라’까지 포함된다. HUG는 빌라 매물별 부채를 실시간으로 집계하는 방안도 추진한다. 이는 임차인이 전세계약 전 해당 주택의 가격과 채무 상태를 더 쉽게 확인하도록 해 보증금 피해 위험을 줄이려는 취지다. 빌라 시세와 부채 정보가 정교해지면 전세보증 심사와 시장 투명성에도 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jeonse fraud prevention: HUG to price opaque villas within this year",
-        "excerpt": "HUG President Choi In-ho said on his 100th day in office that the agency will complete fair villa price estimates this year and track debt by listing in real time.",
-        "body": "Choi In-ho, president of the Korea Housing & Urban Guarantee Corporation (HUG), said on his 100th day in office that HUG will complete work this year to calculate fair villa market prices to help prevent jeonse fraud. The plan includes so-called “opaque villas,” whose prices are hard to verify because transaction data is limited. HUG is also pursuing a system to aggregate debt by individual villa listing in real time. The goal is to help tenants check a home’s price and debt status more easily before signing a jeonse contract, reducing the risk of deposit losses. More precise villa price and debt data could also affect jeonse guarantee reviews and market transparency. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "全世詐欺防止へ、HUGが『価格不透明なヴィラ』も年内に相場算出",
-        "excerpt": "HUGの崔仁鎬社長は就任100日を迎え、全世詐欺防止のため年内に適正なヴィラ相場の算出を終え、物件別債務をリアルタイムで集計すると述べた。",
-        "body": "住宅都市保証公社（HUG）の崔仁鎬社長は、就任100日を迎え、全世詐欺を防ぐための適正なヴィラ相場算出作業を今年中に完了すると明らかにした。対象には、取引情報が不足して価格を把握しにくい、いわゆる「価格不透明なヴィラ」も含まれる。HUGはヴィラ物件ごとの債務をリアルタイムで集計する方策も進める。入居者が全世契約前に住宅価格と債務状況をより簡単に確認できるようにし、保証金被害のリスクを下げる狙いだ。ヴィラ相場と債務情報が精緻化されれば、全世保証審査や市場の透明性にも影響するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "防范全租房诈骗，HUG年内也将测算“盲区别墅”市价",
-        "excerpt": "HUG社长崔仁镐在就任100日之际表示，为防范全租房诈骗，将于年内完成合理别墅市价测算，并实时统计各房源债务。",
-        "body": "韩国住宅都市保证公社（HUG）社长崔仁镐在就任100日之际表示，将在今年内完成用于防范全租房诈骗的合理别墅市价测算工作。测算对象包括因交易信息不足而难以确认价格的所谓“盲区别墅”。HUG还将推进按别墅房源实时统计债务的方案。此举旨在帮助租户在签订全租房合同前，更容易确认相关住房的价格和债务状况，从而降低保证金受损风险。若别墅市价和债务信息更加精细，也有望影响全租保证审查和市场透明度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "HUG tasará este año villas opacas para prevenir fraudes de jeonse",
-        "excerpt": "Choi In-ho, presidente de HUG, dijo en su día 100 en el cargo que completará este año precios justos de villas y recopilará deuda por inmueble en tiempo real.",
-        "body": "Choi In-ho, presidente de Korea Housing & Urban Guarantee Corporation (HUG), dijo al cumplir 100 días en el cargo que la entidad completará este año el cálculo de precios justos de villas para prevenir fraudes de jeonse. El plan incluirá las llamadas villas “opacas”, cuyo precio es difícil de conocer por la falta de datos de transacciones. HUG también impulsará la recopilación en tiempo real de la deuda de cada inmueble tipo villa. El objetivo es que los inquilinos puedan verificar con más facilidad el precio y el estado de deuda de una vivienda antes de firmar un contrato de jeonse, reduciendo el riesgo de perder el depósito. Datos más precisos podrían influir en la revisión de garantías de jeonse y en la transparencia del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "HUG calculará preço de villas opacas este ano para conter fraude no jeonse",
-        "excerpt": "Choi In-ho, presidente da HUG, disse ao completar 100 dias no cargo que concluirá neste ano preços justos de villas e apurará dívidas por imóvel em tempo real.",
-        "body": "Choi In-ho, presidente da Korea Housing & Urban Guarantee Corporation (HUG), afirmou ao completar 100 dias no cargo que a entidade concluirá ainda este ano o cálculo de preços justos de villas para prevenir fraudes no jeonse. A medida inclui as chamadas villas “opacas”, cujo preço é difícil de verificar por falta de informações de transações. A HUG também pretende agregar em tempo real as dívidas de cada imóvel anunciado. O objetivo é permitir que inquilinos confirmem com mais facilidade o preço da moradia e sua situação de dívida antes de assinar um contrato de jeonse, reduzindo o risco de perdas no depósito. Dados mais precisos sobre preços e dívidas podem afetar a análise de garantias de jeonse e a transparência do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "HUG will intransparente Villa-Preise noch dieses Jahr gegen Jeonse-Betrug berechnen",
-        "excerpt": "HUG-Präsident Choi In-ho sagte an seinem 100. Amtstag, HUG werde faire Villa-Marktpreise dieses Jahr abschließen und Schulden je Objekt in Echtzeit erfassen.",
-        "body": "Choi In-ho, Präsident der Korea Housing & Urban Guarantee Corporation (HUG), erklärte an seinem 100. Amtstag, HUG werde die Berechnung fairer Marktpreise für Villas noch in diesem Jahr abschließen, um Jeonse-Betrug vorzubeugen. Einbezogen werden auch sogenannte intransparente Villas, deren Preise wegen fehlender Transaktionsdaten schwer zu ermitteln sind. HUG treibt zudem ein System voran, das Schulden je Villa-Angebot in Echtzeit zusammenführt. Ziel ist, Mietern vor Abschluss eines Jeonse-Vertrags eine einfachere Prüfung von Immobilienpreis und Schuldenstand zu ermöglichen und so das Risiko von Kautionsschäden zu senken. Genauere Preis- und Schuldendaten könnten auch die Jeonse-Garantieprüfung und die Markttransparenz beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "HUG veut chiffrer les villas opaques cette année contre la fraude au jeonse",
-        "excerpt": "Choi In-ho, président de HUG, a déclaré pour ses 100 jours qu’il finalisera cette année les prix justes des villas et suivra les dettes par bien en temps réel.",
-        "body": "Choi In-ho, président de la Korea Housing & Urban Guarantee Corporation (HUG), a déclaré à l’occasion de ses 100 jours en poste que l’organisme achèvera cette année le calcul de prix de marché justes pour les villas afin de prévenir la fraude au jeonse. Le dispositif couvrira aussi les villas dites “opaques”, dont le prix est difficile à vérifier faute de données de transaction. HUG prévoit également de consolider en temps réel les dettes de chaque bien mis en vente ou en location. L’objectif est d’aider les locataires à vérifier plus facilement le prix du logement et son niveau d’endettement avant de signer un contrat de jeonse, afin de réduire le risque de perte de dépôt. Des données plus précises pourraient aussi peser sur l’examen des garanties jeonse et la transparence du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "منع احتيال الجونسي: HUG ستقدر أسعار الفيلات الغامضة هذا العام",
-        "excerpt": "قال تشوي إن-هو رئيس HUG في يومه المئة بالمنصب إن المؤسسة ستنجز هذا العام تقدير الأسعار المناسبة للفيلات وتجمع ديون كل عقار فوريا.",
-        "body": "قال تشوي إن-هو، رئيس مؤسسة ضمان الإسكان والمدن الكورية HUG، بمناسبة مرور 100 يوم على توليه المنصب، إن المؤسسة ستكمل خلال هذا العام احتساب أسعار سوق مناسبة للفيلات بهدف منع احتيال الجونسي. وتشمل الخطة ما يسمى بالفيلات “الغامضة”، التي يصعب معرفة أسعارها بسبب نقص معلومات التداول. كما تمضي HUG في خطة لجمع ديون كل فيلا معروضة بصورة فورية. والهدف هو مساعدة المستأجرين على التحقق بسهولة أكبر من سعر المسكن وحالة ديونه قبل توقيع عقد جونسي، بما يقلل خطر خسارة الوديعة. وقد تؤثر دقة بيانات أسعار الفيلات والديون أيضا في مراجعة ضمانات الجونسي وشفافية السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जोंसे धोखाधड़ी रोकने को HUG इस साल ‘अस्पष्ट विला’ की कीमत भी निकालेगा",
-        "excerpt": "HUG अध्यक्ष चोई इन-हो ने पदभार के 100वें दिन कहा कि एजेंसी इस साल उचित विला कीमतों का आकलन पूरा करेगी और हर लिस्टिंग का कर्ज रियल टाइम में जोड़ेगी।",
-        "body": "कोरिया हाउसिंग एंड अर्बन गारंटी कॉरपोरेशन (HUG) के अध्यक्ष चोई इन-हो ने पदभार संभालने के 100 दिन पूरे होने पर कहा कि जोंसे धोखाधड़ी रोकने के लिए उचित विला बाजार कीमतों की गणना इस साल के भीतर पूरी की जाएगी। इसमें वे तथाकथित “अस्पष्ट विला” भी शामिल होंगे जिनकी कीमत लेनदेन जानकारी की कमी के कारण पता करना कठिन है। HUG हर विला लिस्टिंग के कर्ज को रियल टाइम में एकत्र करने की योजना भी आगे बढ़ा रहा है। इसका उद्देश्य किरायेदारों को जोंसे अनुबंध से पहले घर की कीमत और कर्ज स्थिति आसानी से जांचने में मदद करना है, ताकि जमा राशि के नुकसान का जोखिम घटे। अधिक सटीक कीमत और कर्ज डेटा जोंसे गारंटी समीक्षा और बाजार पारदर्शिता को भी प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Cegah penipuan jeonse, HUG akan hitung harga vila gelap tahun ini",
-        "excerpt": "Presiden HUG Choi In-ho mengatakan pada 100 hari masa jabatannya bahwa HUG akan menuntaskan harga wajar vila tahun ini dan menghimpun utang tiap listing real time.",
-        "body": "Choi In-ho, Presiden Korea Housing & Urban Guarantee Corporation (HUG), mengatakan pada hari ke-100 masa jabatannya bahwa HUG akan menyelesaikan penghitungan harga pasar vila yang wajar tahun ini untuk mencegah penipuan jeonse. Cakupannya termasuk apa yang disebut “vila gelap”, yaitu properti yang harganya sulit diketahui karena minim data transaksi. HUG juga mendorong cara untuk menghimpun utang setiap listing vila secara real time. Tujuannya membantu penyewa memeriksa harga rumah dan kondisi utangnya dengan lebih mudah sebelum menandatangani kontrak jeonse, sehingga risiko kerugian uang jaminan berkurang. Data harga vila dan utang yang lebih akurat juga dapat memengaruhi penilaian jaminan jeonse serta transparansi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "897f8fccfb6d",
-    "slug": "광명-재건축-최대어-철산1213단지-본궤도-올라-568548",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T10:55:49.321Z",
-    "updatedAt": "2026-05-07T10:55:49.321Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039343",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039343",
-    "titleFingerprint": "3f1355cd8f3aebcaa73a8bcce40fd225902a863e",
-    "dedupKeys": [
-      "897f8fccfb6dcae97fcd31d05b85c3192a5c47f3",
-      "3f1355cd8f3aebcaa73a8bcce40fd225902a863e",
-      "e0243b4d62cf54937344edc0424613c4fa4d4fe8"
-    ],
-    "imageUrl": "/images/articles/897f8fccfb6d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "광명 재건축 핵심 철산12·13단지, 조합 설립 속도 내며 본궤도",
-        "excerpt": "경기 광명시 재건축 최대어로 꼽히는 철산주공 12·13단지 정비사업이 조합 설립 절차를 거치며 본격 추진 단계에 들어서고 있다.",
-        "body": "경기 광명시 재건축 시장에서 최대어로 꼽히는 철산주공 12단지와 13단지 정비사업이 본궤도에 오르고 있다. 철산주공 13단지는 조합이 만들어졌고, 철산주공 12단지는 올해 안에 조합 설립이 마무리될 것으로 전해졌다. 두 단지는 광명 지역 재건축 사업 가운데 주목도가 높은 단지로 거론돼 왔다. 조합 설립은 정비사업이 본격적인 추진 체계로 들어서는 핵심 절차인 만큼, 사업 진행 상황에 대한 시장의 관심도 커질 전망이다. 다만 향후 일정과 세부 사업 계획은 각 단지의 절차 진행에 따라 구체화될 것으로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gwangmyeong’s Key Reconstruction Sites Cheolsan 12 and 13 Gain Momentum",
-        "excerpt": "The Cheolsan Jugong 12 and 13 reconstruction projects in Gwangmyeong, Gyeonggi Province, are moving into full swing as union formation procedures advance.",
-        "body": "The reconstruction projects for Cheolsan Jugong Complexes 12 and 13, regarded as major targets in Gwangmyeong’s redevelopment market in Gyeonggi Province, are gaining momentum. A union has been established for Cheolsan Jugong Complex 13, while Complex 12 is expected to complete its union establishment within this year. The two complexes have been cited as highly watched reconstruction projects in the Gwangmyeong area. Since forming a union is a key step that places a maintenance project into a full-scale implementation structure, market attention on the progress is likely to increase. Detailed schedules and business plans are expected to take shape according to each complex’s procedures. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "光明再建築の注目株、鉄山12・13団地が組合設立で本格軌道へ",
-        "excerpt": "京畿道光明市で再建築の有力案件とされる鉄山住公12・13団地の整備事業が、組合設立手続きを進め本格化している。",
-        "body": "京畿道光明市の再建築市場で有力案件とされる鉄山住公12団地と13団地の整備事業が本格軌道に乗りつつある。鉄山住公13団地では組合が設立され、鉄山住公12団地は今年中に組合設立が完了する見通しだ。両団地は光明地域の再建築事業の中でも注目度が高い団地として挙げられてきた。組合設立は整備事業が本格的な推進体制に入るための重要な手続きであるため、事業の進行状況に対する市場の関心も高まりそうだ。今後の日程や詳細な事業計画は、各団地の手続き進行に応じて具体化するとみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "光明重建焦点铁山12、13小区提速，组建组合进入正轨",
-        "excerpt": "京畿道光明市备受关注的铁山住公12、13小区重建项目正推进组合设立程序，相关整备事业进入正式推动阶段。",
-        "body": "京畿道光明市重建市场中备受关注的铁山住公12小区和13小区整备事业正在进入正轨。铁山住公13小区已经成立组合，铁山住公12小区预计将在今年内完成组合设立。两个小区一直被视为光明地区关注度较高的重建项目。组合设立是整备事业进入正式推进体系的关键程序，因此市场对项目进展的关注预计将进一步提高。不过，后续日程和具体事业计划仍将根据各小区程序推进情况逐步明确。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Cheolsan 12 y 13, claves de reconstrucción en Gwangmyeong, avanzan",
-        "excerpt": "Los proyectos de reconstrucción Cheolsan Jugong 12 y 13 en Gwangmyeong, Gyeonggi, avanzan hacia una fase plena con los trámites de creación de asociaciones.",
-        "body": "Los proyectos de reconstrucción de los complejos Cheolsan Jugong 12 y 13, considerados entre los más relevantes del mercado de reconstrucción de Gwangmyeong, en la provincia de Gyeonggi, están tomando impulso. En el complejo 13 ya se ha creado la asociación, mientras que en el complejo 12 se espera que la constitución de la asociación finalice dentro de este año. Ambos complejos han sido mencionados como proyectos de alta atención en la zona de Gwangmyeong. La creación de una asociación es un paso clave para que un proyecto de mantenimiento entre en una estructura de ejecución formal, por lo que se prevé mayor interés del mercado en su avance. Los calendarios y planes detallados se concretarán según los procedimientos de cada complejo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Cheolsan 12 e 13, foco da reconstrução em Gwangmyeong, avançam",
-        "excerpt": "Os projetos de reconstrução Cheolsan Jugong 12 e 13, em Gwangmyeong, Gyeonggi, avançam para uma fase efetiva com os procedimentos de criação de associações.",
-        "body": "Os projetos de reconstrução dos complexos Cheolsan Jugong 12 e 13, considerados entre os principais no mercado de reconstrução de Gwangmyeong, na província de Gyeonggi, estão ganhando ritmo. O complexo 13 já formou sua associação, enquanto o complexo 12 deve concluir a criação da associação ainda este ano. Os dois complexos têm sido citados como projetos de grande atenção na região de Gwangmyeong. Como a criação de uma associação é uma etapa essencial para que um projeto de manutenção entre em uma estrutura de execução plena, o interesse do mercado sobre o andamento deve crescer. Cronogramas e planos detalhados deverão ser definidos conforme os procedimentos de cada complexo avançarem. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Cheolsan 12 und 13 in Gwangmyeong kommen bei Sanierungsplänen voran",
-        "excerpt": "Die Wiederaufbauprojekte Cheolsan Jugong 12 und 13 in Gwangmyeong, Provinz Gyeonggi, treten mit Fortschritten bei der Gründung von Vereinigungen in eine aktive Phase ein.",
-        "body": "Die Wiederaufbauprojekte der Cheolsan-Jugong-Komplexe 12 und 13, die im Markt von Gwangmyeong in der Provinz Gyeonggi als besonders wichtige Vorhaben gelten, kommen voran. Für den Komplex 13 wurde bereits eine Vereinigung gegründet, während die Gründung der Vereinigung für Komplex 12 voraussichtlich noch in diesem Jahr abgeschlossen wird. Beide Anlagen wurden unter den Wiederaufbauprojekten der Region Gwangmyeong als stark beachtete Standorte genannt. Da die Gründung einer Vereinigung ein zentraler Schritt ist, mit dem ein Sanierungsprojekt in eine formelle Umsetzungsstruktur eintritt, dürfte das Marktinteresse am Projektfortschritt zunehmen. Zeitpläne und detaillierte Geschäftspläne sollen sich nach dem jeweiligen Verfahrensstand konkretisieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Cheolsan 12 et 13 à Gwangmyeong avancent dans leur reconstruction",
-        "excerpt": "Les projets de reconstruction Cheolsan Jugong 12 et 13, à Gwangmyeong dans le Gyeonggi, entrent dans une phase active avec les démarches de création d’associations.",
-        "body": "Les projets de reconstruction des complexes Cheolsan Jugong 12 et 13, considérés comme majeurs sur le marché de Gwangmyeong dans la province du Gyeonggi, prennent de l’élan. Une association a été créée pour le complexe 13, tandis que celle du complexe 12 devrait être finalisée avant la fin de l’année. Les deux ensembles ont été cités comme des projets de reconstruction très suivis dans la région de Gwangmyeong. La création d’une association étant une étape clé pour faire entrer un projet d’aménagement dans une structure de mise en œuvre complète, l’attention du marché sur son avancement devrait augmenter. Les calendriers et plans détaillés devraient se préciser selon la progression des procédures de chaque complexe. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشروعا تشولسان 12 و13 في غوانغميونغ يدخلان مسار إعادة الإعمار",
-        "excerpt": "تتقدم مشاريع إعادة إعمار مجمعي تشولسان جوغونغ 12 و13 في غوانغميونغ بمقاطعة غيونغي مع تسارع إجراءات تأسيس الجمعيات.",
-        "body": "تكتسب مشاريع إعادة إعمار مجمعي تشولسان جوغونغ 12 و13، اللذين يعدان من أبرز مواقع إعادة الإعمار في سوق غوانغميونغ بمقاطعة غيونغي، زخما واضحا. فقد تم تأسيس الجمعية الخاصة بمجمع تشولسان جوغونغ 13، بينما من المتوقع أن يكتمل تأسيس جمعية مجمع تشولسان جوغونغ 12 خلال هذا العام. وجرى ذكر المجمعين بوصفهما من المشاريع ذات الاهتمام المرتفع في منطقة غوانغميونغ. ويعد تأسيس الجمعية خطوة أساسية لدخول مشروع التطوير في هيكل تنفيذ فعلي، لذلك من المتوقع أن يزداد اهتمام السوق بمسار التقدم. أما الجداول والخطط التفصيلية فستتضح وفقا لتقدم إجراءات كل مجمع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ग्वांगम्योंग पुनर्निर्माण के प्रमुख चेओलसान 12 और 13 ने रफ्तार पकड़ी",
-        "excerpt": "ग्योंगगी के ग्वांगम्योंग में चेओलसान जुगोंग 12 और 13 पुनर्निर्माण परियोजनाएं यूनियन गठन प्रक्रिया के साथ औपचारिक 추진 चरण में बढ़ रही हैं।",
-        "body": "ग्योंगगी प्रांत के ग्वांगम्योंग पुनर्निर्माण बाजार में प्रमुख परियोजनाओं के रूप में देखे जा रहे चेओलसान जुगोंग 12 और 13 परिसरों की रखरखाव परियोजनाएं रफ्तार पकड़ रही हैं। चेओलसान जुगोंग 13 के लिए यूनियन बन चुकी है, जबकि चेओलसान जुगोंग 12 की यूनियन स्थापना इस वर्ष के भीतर पूरी होने की उम्मीद है। दोनों परिसरों को ग्वांगम्योंग क्षेत्र की अधिक ध्यान खींचने वाली पुनर्निर्माण परियोजनाओं में गिना जाता रहा है। यूनियन गठन किसी रखरखाव परियोजना को पूर्ण कार्यान्वयन ढांचे में ले जाने वाली प्रमुख प्रक्रिया है, इसलिए प्रगति पर बाजार की रुचि बढ़ने की संभावना है। आगे की समय-सारिणी और विस्तृत योजनाएं प्रत्येक परिसर की प्रक्रिया के अनुसार स्पष्ट होंगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi Cheolsan 12 dan 13 Gwangmyeong Masuk Jalur Utama",
-        "excerpt": "Proyek rekonstruksi Cheolsan Jugong 12 dan 13 di Gwangmyeong, Gyeonggi, mulai bergerak penuh seiring kemajuan prosedur pembentukan asosiasi.",
-        "body": "Proyek rekonstruksi kompleks Cheolsan Jugong 12 dan 13, yang disebut sebagai proyek besar di pasar rekonstruksi Gwangmyeong, Provinsi Gyeonggi, mulai masuk jalur utama. Asosiasi untuk Cheolsan Jugong 13 telah dibentuk, sementara pembentukan asosiasi Cheolsan Jugong 12 diperkirakan selesai dalam tahun ini. Kedua kompleks tersebut selama ini disebut sebagai proyek rekonstruksi dengan perhatian tinggi di wilayah Gwangmyeong. Pembentukan asosiasi merupakan prosedur kunci agar proyek penataan masuk ke struktur pelaksanaan penuh, sehingga perhatian pasar terhadap perkembangannya diperkirakan meningkat. Jadwal dan rencana terperinci selanjutnya akan menjadi lebih jelas sesuai kemajuan prosedur masing-masing kompleks. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e37bca106452",
-    "slug": "재건축재개발도-양극화-시대이곳들-아니면-매수-신중하세요-서울머니쇼2026-783460",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T10:54:46.065Z",
-    "updatedAt": "2026-05-07T10:54:46.065Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12039654",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12039654",
-    "titleFingerprint": "09139055b632444c71cb0b67900114ccc83c10a3",
-    "dedupKeys": [
-      "e37bca1064522e2cb6745cce717aef9ad43c945c",
-      "09139055b632444c71cb0b67900114ccc83c10a3",
-      "f22641705d5e3c06287be7cf248734907a070bbe"
-    ],
-    "imageUrl": "/images/articles/e37bca106452.jpg",
-    "i18n": {
-      "ko": {
-        "title": "재건축·재개발 투자도 양극화…박합수 교수 “입지 선별 신중해야”",
-        "excerpt": "박합수 건국대 부동산대학원 겸임교수는 7일 강남 코엑스 ‘2026 서울머니쇼’ 강연에서 재건축·재개발을 통한 내 집 마련 전략과 신중한 매수 필요성을 설명했다.",
-        "body": "박합수 건국대 부동산대학원 겸임교수는 7일 서울 강남 코엑스에서 개막한 ‘2026 서울머니쇼’에서 ‘재건축·재개발로 내 집 마련 성공하기’를 주제로 강연했다. 그는 재건축·재개발 시장에서도 양극화 흐름이 나타나고 있다는 점을 짚으며, 특정 지역이나 조건을 갖춘 사업지가 아니라면 매수에 신중해야 한다는 취지로 설명했다. 이번 강연은 내 집 마련을 고민하는 수요자에게 정비사업 투자 판단의 기준을 제시하는 자리였다. 시장이 모든 사업지에 동일하게 반응하지 않는 만큼, 입지와 사업성을 따져 접근할 필요가 있다는 메시지가 핵심으로 제시됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Redevelopment Investment Is Polarizing: Professor Park Urges Selective Buying",
-        "excerpt": "At the 2026 Seoul Money Show at COEX in Gangnam on May 7, Konkuk University professor Park Hap-soo discussed home-buying strategies through reconstruction and redevelopment.",
-        "body": "Park Hap-soo, adjunct professor at Konkuk University’s Graduate School of Real Estate, gave a lecture titled “Succeeding in Home Ownership Through Reconstruction and Redevelopment” on May 7 at the 2026 Seoul Money Show, which opened at COEX in Gangnam, Seoul. He explained that polarization is also emerging in the reconstruction and redevelopment market, and that buyers should be cautious unless a project has certain locations or conditions. The lecture offered criteria for people considering home ownership through urban renewal projects. Since the market does not respond equally to every project, his key message was the need to examine location and project feasibility before buying. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "再建築・再開発投資も二極化、朴教授「立地を選別し慎重に」",
-        "excerpt": "建国大学不動産大学院の朴合洙兼任教授は5月7日、江南COEXの「2026ソウルマネーショー」で、再建築・再開発による住宅購入戦略を説明した。",
-        "body": "建国大学不動産大学院の朴合洙兼任教授は5月7日、ソウル江南のCOEXで開幕した「2026ソウルマネーショー」で、「再建築・再開発でマイホーム取得に成功する」をテーマに講演した。朴教授は、再建築・再開発市場でも二極化の流れが見られると指摘し、特定の地域や条件を備えた事業地でなければ購入には慎重であるべきだという趣旨で説明した。今回の講演は、住宅購入を検討する需要者に整備事業投資の判断基準を示す場となった。市場がすべての事業地に同じ反応を示すわけではないため、立地と事業性を見極めて 접근する必要があるという点が核心として示された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "重建与再开发投资也现分化，朴教授提醒购房需谨慎筛选",
-        "excerpt": "建国大学房地产研究生院兼职教授朴合洙5月7日在江南COEX“2026首尔Money Show”上，讲解了通过重建与再开发实现置业的策略。",
-        "body": "建国大学房地产研究生院兼职教授朴合洙5月7日在首尔江南COEX开幕的“2026首尔Money Show”上，以“通过重建与再开发成功置业”为题发表演讲。他指出，重建与再开发市场也正在出现分化趋势，并说明如果不是具备特定区域或条件的项目，买入时应保持谨慎。此次演讲面向正在考虑置业的需求者，提出了判断整备项目投资的参考标准。由于市场并不会对所有项目作出相同反应，核心信息是需要在考察区位和项目可行性后再决定是否介入。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reconstrucción y redesarrollo se polarizan: Park pide comprar con cautela",
-        "excerpt": "El profesor Park Hap-soo, de la Escuela de Posgrado Inmobiliaria de la Universidad Konkuk, explicó el 7 de mayo en COEX estrategias para comprar vivienda mediante reconstrucción y redesarrollo.",
-        "body": "Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de la Universidad Konkuk, ofreció el 7 de mayo una conferencia titulada “Tener éxito en la compra de vivienda mediante reconstrucción y redesarrollo” en el Seoul Money Show 2026, inaugurado en COEX, Gangnam, Seúl. Señaló que la polarización también aparece en el mercado de reconstrucción y redesarrollo, y explicó que los compradores deben actuar con cautela si el proyecto no cuenta con determinadas ubicaciones o condiciones. La charla presentó criterios para quienes evalúan comprar vivienda a través de proyectos de renovación urbana. Como el mercado no responde igual a todos los proyectos, el mensaje central fue revisar ubicación y viabilidad antes de comprar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reconstrução e redesenvolvimento se polarizam; Park recomenda cautela",
-        "excerpt": "Park Hap-soo, professor da pós-graduação em imóveis da Universidade Konkuk, explicou em 7 de maio, no COEX, estratégias para comprar casa por reconstrução e redesenvolvimento.",
-        "body": "Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Imóveis da Universidade Konkuk, deu em 7 de maio a palestra “Ter sucesso na compra da casa própria por meio de reconstrução e redesenvolvimento” no Seoul Money Show 2026, aberto no COEX, em Gangnam, Seul. Ele afirmou que a polarização também aparece no mercado de reconstrução e redesenvolvimento, explicando que compradores devem ser cautelosos quando o projeto não reúne certas localizações ou condições. A palestra apresentou critérios para quem avalia a compra de moradia por projetos de renovação urbana. Como o mercado não reage da mesma forma a todos os projetos, a mensagem principal foi analisar localização e viabilidade antes de comprar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sanierung und Neuentwicklung polarisieren: Park rät zu selektivem Kauf",
-        "excerpt": "Park Hap-soo von der Immobilien-Graduiertenschule der Konkuk University erläuterte am 7. Mai auf der Seoul Money Show 2026 im COEX Strategien für Wohneigentum über Sanierung und Neuentwicklung.",
-        "body": "Park Hap-soo, außerordentlicher Professor an der Graduate School of Real Estate der Konkuk University, hielt am 7. Mai auf der im COEX in Gangnam, Seoul, eröffneten Seoul Money Show 2026 einen Vortrag mit dem Titel „Erfolgreich zum Eigenheim durch Wiederaufbau und Neuentwicklung“. Er erklärte, dass auch im Markt für Wiederaufbau und Neuentwicklung eine Polarisierung sichtbar werde, und dass Käufer vorsichtig sein sollten, wenn ein Projekt nicht über bestimmte Lagen oder Bedingungen verfügt. Der Vortrag bot Kriterien für Interessenten, die über Stadterneuerungsprojekte Wohneigentum erwerben wollen. Da der Markt nicht auf jedes Projekt gleich reagiert, lautete die Kernbotschaft, Lage und Wirtschaftlichkeit vor einem Kauf genau zu prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Reconstruction et réaménagement se polarisent: Park appelle à la prudence",
-        "excerpt": "Park Hap-soo, professeur à l’école supérieure d’immobilier de l’université Konkuk, a présenté le 7 mai au COEX des stratégies d’achat de logement par reconstruction et réaménagement.",
-        "body": "Park Hap-soo, professeur associé à l’École supérieure d’immobilier de l’université Konkuk, a donné le 7 mai une conférence intitulée « Réussir l’achat de son logement par la reconstruction et le réaménagement » lors du Seoul Money Show 2026, ouvert au COEX de Gangnam, à Séoul. Il a expliqué que le marché de la reconstruction et du réaménagement connaît lui aussi une polarisation, et que les acheteurs doivent rester prudents si un projet ne réunit pas certaines localisations ou conditions. La conférence a fourni des critères aux personnes qui envisagent l’achat d’un logement via des projets de rénovation urbaine. Comme le marché ne réagit pas de la même manière à tous les projets, le message central était d’examiner l’emplacement et la faisabilité avant d’acheter. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة البناء والتطوير تشهدان استقطابا: بارك يدعو إلى شراء انتقائي",
-        "excerpt": "شرح بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، في 7 مايو خلال معرض سيول للمال 2026 في كويكس، استراتيجيات تملك المسكن عبر إعادة البناء والتطوير.",
-        "body": "ألقى بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، محاضرة في 7 مايو بعنوان “النجاح في تملك المنزل عبر إعادة البناء وإعادة التطوير” ضمن معرض سيول للمال 2026 الذي افتتح في كويكس بمنطقة غانغنام في سيول. وأوضح أن سوق إعادة البناء وإعادة التطوير يشهد أيضا اتجاها نحو الاستقطاب، وأن على المشترين توخي الحذر ما لم يكن المشروع في موقع محدد أو مستوفيا لشروط معينة. وقدمت المحاضرة معايير لمن يفكرون في تملك مسكن عبر مشاريع التجديد الحضري. وبما أن السوق لا يتفاعل بالطريقة نفسها مع جميع المشاريع، كانت الرسالة الأساسية هي ضرورة فحص الموقع وجدوى المشروع قبل الشراء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पुनर्निर्माण और पुनर्विकास में ध्रुवीकरण, पार्क ने सावधानी की सलाह दी",
-        "excerpt": "कोंकुक यूनिवर्सिटी के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने 7 मई को गंगनम COEX में 2026 Seoul Money Show में पुनर्निर्माण और पुनर्विकास से घर खरीदने की रणनीति बताई।",
-        "body": "कोंकुक यूनिवर्सिटी के ग्रेजुएट स्कूल ऑफ रियल एस्टेट के सहायक प्रोफेसर पार्क हाप-सू ने 7 मई को सियोल के गंगनम स्थित COEX में शुरू हुए 2026 Seoul Money Show में “पुनर्निर्माण और पुनर्विकास से अपना घर पाने में सफलता” विषय पर व्याख्यान दिया। उन्होंने बताया कि पुनर्निर्माण और पुनर्विकास बाजार में भी ध्रुवीकरण दिख रहा है, और यदि कोई परियोजना विशेष क्षेत्र या शर्तों को पूरा नहीं करती है तो खरीदारी में सावधानी जरूरी है। यह व्याख्यान उन लोगों के लिए था जो शहरी नवीनीकरण परियोजनाओं के जरिए घर खरीदने पर विचार कर रहे हैं। मुख्य संदेश यह था कि बाजार हर परियोजना पर समान प्रतिक्रिया नहीं देता, इसलिए स्थान और परियोजना की व्यवहार्यता की जांच के बाद ही आगे बढ़ना चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi dan Redevelopment Makin Terbelah, Park Minta Pembeli Selektif",
-        "excerpt": "Park Hap-soo, profesor di Sekolah Pascasarjana Real Estat Universitas Konkuk, pada 7 Mei di COEX menjelaskan strategi membeli rumah lewat rekonstruksi dan redevelopment.",
-        "body": "Park Hap-soo, profesor adjung di Sekolah Pascasarjana Real Estat Universitas Konkuk, memberikan kuliah bertajuk “Sukses Memiliki Rumah melalui Rekonstruksi dan Redevelopment” pada 7 Mei di Seoul Money Show 2026 yang dibuka di COEX, Gangnam, Seoul. Ia menjelaskan bahwa tren polarisasi juga muncul di pasar rekonstruksi dan redevelopment, sehingga pembeli perlu berhati-hati jika proyek tidak berada di lokasi atau tidak memiliki kondisi tertentu. Kuliah ini memberi kriteria bagi calon pembeli rumah yang mempertimbangkan proyek penataan kota. Karena pasar tidak merespons semua proyek dengan cara yang sama, pesan utamanya adalah menilai lokasi dan kelayakan proyek sebelum membeli. Sumber: mk.co.kr"
       }
     }
   }
