@@ -1,5 +1,230 @@
 [
   {
+    "id": "8e961760d658",
+    "slug": "전쟁발-금리-오르면-집값을-잡을수-있을까요-박합수의-부동산-끝판-215915",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T07:21:47.950Z",
+    "updatedAt": "2026-05-07T07:21:47.950Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12038138",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038138",
+    "titleFingerprint": "d58b6af32772cffc07648aa275008fe879e5f632",
+    "dedupKeys": [
+      "8e961760d658dca72394f24ddeacc67e03121f87",
+      "d58b6af32772cffc07648aa275008fe879e5f632",
+      "3584230a235e0161595fc9d61303dc64149836d4"
+    ],
+    "imageUrl": "/images/articles/8e961760d658.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전쟁발 금리 상승, 집값 상승세를 누를 수 있을까: 박합수의 부동산 진단",
+        "excerpt": "박합수 건국대 부동산대학원 겸임교수는 최근 전쟁 여파로 물가 상승세와 대출 금리 인상 조짐이 나타나는 가운데 집값 억제 가능성을 짚었다.",
+        "body": "최근 전쟁 여파로 물가 상승세가 심상치 않고 대출 금리도 오를 조짐을 보이면서 주택시장에 미칠 영향이 주목된다. 박합수 건국대 부동산대학원 겸임교수는 매경 플러스 ‘박합수의 부동산 끝판’에 출연해 금리 상승이 집값 상승을 누를 수 있을지에 대한 질문을 중심으로 시장 상황을 설명했다. 배경에는 전쟁으로 인한 물가 부담 확대와 이에 따른 대출 금리 상승 가능성이 있다. 대출 금리가 오르면 주택 구매자의 금융 부담이 커질 수 있어 집값 상승 압력을 낮출 수 있는지가 핵심 쟁점이다. 다만 원문은 구체적 수치나 단정적 전망보다 금리와 집값의 관계를 점검하는 데 초점을 뒀다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "War-Driven Rate Rise: Can Higher Loan Costs Cool Home Prices?",
+        "excerpt": "Park Hap-soo of Konkuk University’s Graduate School of Real Estate examined whether inflation pressure and signs of rising loan rates after the war can restrain home prices.",
+        "body": "The housing market is drawing attention as inflation pressure grows in the wake of war and loan rates show signs of rising. Park Hap-soo, adjunct professor at Konkuk University’s Graduate School of Real Estate, appeared on Maeil Business Newspaper’s “Park Hap-soo’s Real Estate Final Round” and discussed whether higher interest rates can curb rising home prices. The context is the burden of higher prices caused by the war and the possibility that borrowing costs may increase as a result. If loan rates rise, homebuyers’ financing burden can grow, making the key issue whether this can reduce upward pressure on prices. The original article focuses on reviewing the relationship between rates and home prices rather than giving specific figures or a firm forecast. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "戦争発の金利上昇、住宅価格の上昇を抑えられるか",
+        "excerpt": "建国大学不動産大学院の朴合洙兼任教授は、戦争の影響による物価上昇と融資金利上昇の兆しが住宅価格を抑制できるかを点検した。",
+        "body": "戦争の影響で物価上昇が目立ち、融資金利にも上昇の兆しが出るなか、住宅市場への影響が注目されている。建国大学不動産大学院の朴合洙兼任教授は、毎経プラスの「朴合洙の不動産終盤」に出演し、金利上昇が住宅価格の上昇を抑えられるのかという問いを中心に市場状況を説明した。背景には、戦争による物価負担の拡大と、それに伴う融資金利上昇の可能性がある。融資金利が上がれば住宅購入者の金融負担は増えるため、住宅価格の上昇圧力を弱められるかが核心となる。ただし原文は具体的な数値や断定的な見通しより、金利と住宅価格の関係を点検することに焦点を置いている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "战争推高利率，能否压住房价上涨势头？",
+        "excerpt": "建国大学房地产研究生院兼职教授朴合洙指出，在战争影响下通胀压力加大、贷款利率出现上升迹象，市场关注其能否抑制房价。",
+        "body": "近期受战争影响，物价上涨势头不容忽视，贷款利率也出现上升迹象，住宅市场所受影响受到关注。建国大学房地产研究生院兼职教授朴合洙做客每日经济Plus《朴合洙的房地产终局》，围绕利率上升能否压住房价上涨这一问题说明了市场状况。其背景是战争带来的物价负担扩大，以及由此引发贷款利率上升的可能性。若贷款利率上升，购房者的融资负担可能加重，因此能否削弱房价上行压力成为核心议题。不过，原文重点并非给出具体数字或断定性展望，而是检视利率与房价之间的关系。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Subida de tasas por la guerra: ¿puede frenar el alza de la vivienda?",
+        "excerpt": "Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de Konkuk, analizó si la inflación y las señales de mayores préstamos pueden contener los precios.",
+        "body": "El mercado inmobiliario está bajo atención porque, tras la guerra, la inflación muestra una presión notable y las tasas de los préstamos dan señales de subir. Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de la Universidad Konkuk, participó en “El final inmobiliario de Park Hap-soo” de Maeil Business Plus y explicó la situación del mercado en torno a una pregunta central: si el aumento de las tasas puede frenar la subida de los precios de la vivienda. El contexto es el mayor peso de los precios por la guerra y la posibilidad de que suban los costos de financiación. Si las tasas de los préstamos aumentan, la carga financiera de los compradores puede crecer, por lo que el punto clave es si eso reducirá la presión alcista sobre los precios. El original se centra en revisar la relación entre tasas y vivienda, no en cifras concretas ni previsiones tajantes. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Juros em alta pela guerra podem conter os preços dos imóveis?",
+        "excerpt": "Park Hap-soo, professor adjunto da pós-graduação em mercado imobiliário da Universidade Konkuk, analisou se inflação e sinais de alta nos empréstimos podem conter os preços.",
+        "body": "O mercado imobiliário ganha atenção porque, após a guerra, a pressão inflacionária se intensifica e as taxas de empréstimos mostram sinais de alta. Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Mercado Imobiliário da Universidade Konkuk, participou do programa “O ponto final do mercado imobiliário de Park Hap-soo”, da Maeil Business Plus, e explicou o cenário a partir da pergunta sobre se juros mais altos podem conter a alta dos preços das moradias. O pano de fundo é o aumento do peso dos preços causado pela guerra e a possibilidade de avanço nas taxas de crédito. Se os empréstimos ficarem mais caros, a carga financeira dos compradores pode crescer, tornando central a questão de saber se isso reduzirá a pressão de alta sobre os imóveis. O texto original foca a relação entre juros e preços, sem apresentar números específicos ou previsão definitiva. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Kriegsbedingter Zinsanstieg: Kann er die Immobilienpreise bremsen?",
+        "excerpt": "Park Hap-soo von der Graduate School of Real Estate der Konkuk University analysierte, ob Inflation und Anzeichen steigender Kreditkosten die Hauspreise dämpfen können.",
+        "body": "Der Immobilienmarkt rückt in den Fokus, weil die Inflation infolge des Krieges spürbar anzieht und sich bei Kreditzinsen ein Anstieg abzeichnet. Park Hap-soo, außerordentlicher Professor an der Graduate School of Real Estate der Konkuk University, trat bei Maeil Business Plus in „Park Hap-soos Immobilien-Endrunde“ auf und erläuterte die Marktlage anhand der Frage, ob höhere Zinsen steigende Hauspreise bremsen können. Hintergrund sind die durch den Krieg wachsende Preisbelastung und die Möglichkeit höherer Kreditkosten. Wenn Kreditzinsen steigen, kann die finanzielle Last für Käufer zunehmen; entscheidend ist daher, ob dies den Aufwärtsdruck auf Immobilienpreise verringern kann. Der Originaltext konzentriert sich auf die Beziehung zwischen Zinsen und Hauspreisen, ohne konkrete Zahlen oder eine definitive Prognose zu nennen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Hausse des taux liée à la guerre: peut-elle calmer les prix immobiliers?",
+        "excerpt": "Park Hap-soo, professeur adjoint à l’école supérieure d’immobilier de l’Université Konkuk, a examiné si l’inflation et la hausse possible des prêts peuvent freiner les prix.",
+        "body": "Le marché immobilier retient l’attention alors que, sous l’effet de la guerre, la hausse des prix devient préoccupante et que les taux des prêts montrent des signes de progression. Park Hap-soo, professeur adjoint à l’école supérieure d’immobilier de l’Université Konkuk, est intervenu dans l’émission « Le dernier mot immobilier de Park Hap-soo » de Maeil Business Plus pour expliquer la situation autour d’une question centrale: la hausse des taux peut-elle freiner la montée des prix des logements? Le contexte est celui d’une charge inflationniste accrue par la guerre et d’une possible augmentation des coûts d’emprunt. Si les taux de prêt montent, le poids financier des acheteurs peut s’alourdir, ce qui pose la question de l’effet sur la pression haussière des prix. Le texte original se concentre sur le lien entre taux et logement, sans chiffres précis ni prévision catégorique. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ارتفاع الفائدة بسبب الحرب: هل يكبح صعود أسعار المساكن؟",
+        "excerpt": "ناقش بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، ما إذا كان التضخم وإشارات ارتفاع قروض السكن قد يحدان من الأسعار.",
+        "body": "تتجه الأنظار إلى سوق السكن مع تزايد ضغوط الأسعار في أعقاب الحرب وظهور مؤشرات على ارتفاع فوائد القروض. وشارك بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، في برنامج «النهاية العقارية لبارك هاب سو» على منصة ماييل بيزنس بلس، وشرح أوضاع السوق من خلال سؤال رئيسي: هل يمكن لارتفاع الفائدة أن يضغط على صعود أسعار المنازل؟ تأتي الخلفية من اتساع عبء التضخم الناتج عن الحرب واحتمال ارتفاع تكاليف الاقتراض. وإذا زادت فوائد القروض، فقد ترتفع الأعباء المالية على مشتري المنازل، ولذلك يصبح السؤال الأساسي هو ما إذا كان ذلك سيخفف الضغط الصعودي على الأسعار. ويركز النص الأصلي على فحص العلاقة بين الفائدة وأسعار المساكن، من دون أرقام محددة أو توقعات قاطعة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "युद्ध से बढ़ती ब्याज दरें: क्या घरों की कीमतों पर लगाम लगेगी?",
+        "excerpt": "कोंकुक यूनिवर्सिटी के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने देखा कि युद्धजनित महंगाई और ऋण दरों में बढ़ोतरी के संकेत घरों की कीमतों को रोक सकते हैं या नहीं।",
+        "body": "युद्ध के प्रभाव से महंगाई का दबाव असामान्य रूप से बढ़ रहा है और ऋण ब्याज दरों में भी वृद्धि के संकेत दिख रहे हैं, इसलिए आवास बाजार पर असर ध्यान में है। कोंकुक यूनिवर्सिटी के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने मेइल बिजनेस प्लस के “पार्क हाप-सू का रियल एस्टेट फाइनल” कार्यक्रम में भाग लेकर यह समझाया कि क्या ब्याज दरों की बढ़ोतरी घरों की कीमतों की तेजी को दबा सकती है। पृष्ठभूमि में युद्ध से बढ़ा मूल्य दबाव और उसके कारण ऋण दरों के ऊपर जाने की संभावना है। यदि ऋण दरें बढ़ती हैं, तो घर खरीदने वालों का वित्तीय बोझ बढ़ सकता है, इसलिए मुख्य मुद्दा यह है कि क्या इससे कीमतों पर चढ़ाव का दबाव कम होगा। मूल लेख ठोस आंकड़ों या निर्णायक पूर्वानुमान के बजाय ब्याज दर और घरों की कीमतों के संबंध की समीक्षा पर केंद्रित है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Suku bunga naik akibat perang, bisakah meredam harga rumah?",
+        "excerpt": "Park Hap-soo dari Sekolah Pascasarjana Real Estat Universitas Konkuk meninjau apakah inflasi dan tanda kenaikan bunga pinjaman akibat perang dapat menahan harga rumah.",
+        "body": "Pasar perumahan menjadi sorotan karena dampak perang membuat tekanan inflasi tidak biasa dan suku bunga pinjaman menunjukkan tanda-tanda naik. Park Hap-soo, profesor adjung di Sekolah Pascasarjana Real Estat Universitas Konkuk, tampil dalam program “Babak Akhir Real Estat Park Hap-soo” di Maeil Business Plus dan menjelaskan kondisi pasar dengan fokus pada pertanyaan apakah kenaikan suku bunga dapat menekan kenaikan harga rumah. Latar belakangnya adalah beban harga yang meningkat akibat perang dan kemungkinan naiknya biaya pinjaman. Jika bunga pinjaman naik, beban keuangan pembeli rumah dapat bertambah, sehingga isu utamanya adalah apakah hal itu bisa mengurangi tekanan kenaikan harga. Artikel asli berfokus pada pemeriksaan hubungan antara suku bunga dan harga rumah, bukan pada angka tertentu atau prospek yang tegas. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "082822ba421a",
+    "slug": "전세난-시달리는-세입자-주택-매수로-돌아서야-할까요-박합수의-부동산-끝판-806760",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T07:20:19.639Z",
+    "updatedAt": "2026-05-07T07:20:19.639Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12038144",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038144",
+    "titleFingerprint": "7ced4a849f18538e5d34f29392b4910b37f82be0",
+    "dedupKeys": [
+      "082822ba421ab07117bf935ab0fdce45ddbf9de0",
+      "7ced4a849f18538e5d34f29392b4910b37f82be0",
+      "305c318049d9a5809102d0427a6ba3609370fc10"
+    ],
+    "imageUrl": "/images/articles/082822ba421a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전세난·월세화 가속 속 세입자, 지금 주택 매수로 전환해야 할까",
+        "excerpt": "최근 전세의 월세화가 빨라지는 가운데 박합수 건국대 부동산대학원 겸임교수가 전세난에 놓인 세입자의 주택 매수 전환 여부를 매경 플러스에서 짚었다.",
+        "body": "최근 전세의 월세화가 가속화하면서 전세난을 겪는 세입자들이 주택 매수로 돌아서야 하는지에 관심이 커지고 있다. 박합수 건국대 부동산대학원 겸임교수는 매경 플러스 ‘부동산 끝판’에 출연해 이 문제를 다뤘다. 전세에서 월세로 이동하는 흐름이 빨라지면 세입자는 거주비 부담과 주거 안정성 문제를 함께 고려해야 한다. 다만 원문은 구체적인 가격 수치나 지역별 통계보다 전세난 속 매수 전환 여부라는 질문에 초점을 맞췄다. 향후 세입자들은 전세 시장 변화와 자신의 자금 여건을 살피며 매수 여부를 판단해야 할 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jeonse Crunch and Rising Monthly Rents: Should Tenants Consider Buying?",
+        "excerpt": "As Korea’s shift from jeonse deposits to monthly rent accelerates, Konkuk University adjunct professor Park Hap-soo discussed whether tenants under pressure should buy a home on Maeil Plus.",
+        "body": "As the conversion of Korea’s jeonse lease system into monthly rent accelerates, more tenants facing a jeonse crunch are asking whether they should turn to home purchases. Park Hap-soo, adjunct professor at Konkuk University Graduate School of Real Estate, addressed the issue on Maeil Plus’s “Real Estate Final Round.” When the move from jeonse to monthly rent speeds up, tenants must weigh both housing cost burdens and residential stability. The original report focuses on the question of whether tenants should switch to buying amid the jeonse shortage, rather than detailed price figures or regional statistics. Tenants are expected to judge their options by watching changes in the jeonse market and reviewing their own financing conditions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "チョンセ難と月払い化が加速、借家人は今住宅購入へ向かうべきか",
+        "excerpt": "チョンセの月払い化が最近加速する中、建国大学不動産大学院の朴合洙兼任教授が、チョンセ難に直面する借家人の住宅購入転換を毎経プラスで解説した。",
+        "body": "最近、チョンセの月払い化が加速し、チョンセ難に苦しむ借家人が住宅購入へ転じるべきかに関心が高まっている。建国大学不動産大学院の朴合洙兼任教授は、毎経プラスの「不動産終盤」に出演し、この問題を取り上げた。チョンセから月払いへ移る流れが速まれば、借家人は居住費負担と住まいの安定性を同時に考える必要がある。ただし原文は、具体的な価格数値や地域別統計よりも、チョンセ難の中で購入に切り替えるべきかという問いに焦点を当てている。今後、借家人はチョンセ市場の変化と自らの資金事情を見ながら購入可否を判断する必要がありそうだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "全租房源紧张、月租化加速，租户现在该转向买房吗",
+        "excerpt": "近期韩国全租向月租转化加快，建国大学房地产研究生院兼任教授朴合洙在每日经济Plus节目中分析了受全租难困扰租户是否应买房。",
+        "body": "近期，韩国全租向月租转化的趋势加快，受全租房源紧张困扰的租户是否应转向购买住房，正受到更多关注。建国大学房地产研究生院兼任教授朴合洙出演每日经济Plus“房地产终极篇”，讨论了这一问题。随着全租转向月租的速度加快，租户需要同时考虑居住成本负担和住房稳定性。不过，原文的重点并非具体房价数据或分地区统计，而是在全租难背景下是否应转向买房这一问题。今后，租户或需观察全租市场变化，并结合自身资金条件判断是否购房。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Crisis del jeonse y avance del alquiler mensual: ¿deben comprar los inquilinos?",
+        "excerpt": "Ante la aceleración del paso del jeonse al alquiler mensual en Corea, Park Hap-soo, profesor adjunto de la Universidad Konkuk, analizó en Maeil Plus si los inquilinos deberían comprar vivienda.",
+        "body": "A medida que se acelera la conversión del sistema coreano de jeonse hacia el alquiler mensual, crece el interés de los inquilinos afectados por la escasez de jeonse sobre si deberían pasar a comprar una vivienda. Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de la Universidad Konkuk, trató el tema en “Real Estate Final Round” de Maeil Plus. Cuando el traslado del jeonse al alquiler mensual se acelera, los inquilinos deben considerar tanto la carga de los costos de vivienda como la estabilidad residencial. El texto original se centra en la pregunta de si conviene comprar en medio de la crisis del jeonse, más que en cifras de precios o estadísticas regionales. Los inquilinos deberán evaluar el mercado del jeonse y sus propias condiciones financieras antes de decidir. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Crise do jeonse e alta do aluguel mensal: inquilinos devem comprar imóvel?",
+        "excerpt": "Com a aceleração da mudança do jeonse para aluguel mensal na Coreia, Park Hap-soo, professor adjunto da Universidade Konkuk, analisou no Maeil Plus se inquilinos devem comprar casa.",
+        "body": "Com a aceleração da conversão do sistema coreano de jeonse para aluguel mensal, aumenta o interesse de inquilinos afetados pela escassez de jeonse sobre a possibilidade de comprar uma moradia. Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Mercado Imobiliário da Universidade Konkuk, abordou o tema no programa “Real Estate Final Round”, do Maeil Plus. Quando a passagem do jeonse para o aluguel mensal ganha velocidade, os inquilinos precisam considerar tanto o peso dos custos de moradia quanto a estabilidade residencial. O texto original se concentra na pergunta sobre comprar ou não em meio à crise do jeonse, sem apresentar números detalhados de preços ou estatísticas por região. A decisão deve levar em conta as mudanças no mercado de jeonse e a capacidade financeira de cada inquilino. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeonse-Knappheit und mehr Monatsmieten: Sollten Mieter jetzt kaufen?",
+        "excerpt": "Da sich in Korea der Wechsel von Jeonse zu Monatsmieten beschleunigt, erklärte Park Hap-soo von der Konkuk University bei Maeil Plus, ob betroffene Mieter einen Wohnungskauf erwägen sollten.",
+        "body": "Da sich die Umwandlung des koreanischen Jeonse-Systems in Monatsmieten beschleunigt, fragen sich immer mehr Mieter, die unter der Jeonse-Knappheit leiden, ob sie auf den Kauf einer Wohnung umsteigen sollten. Park Hap-soo, Lehrbeauftragter an der Graduate School of Real Estate der Konkuk University, behandelte das Thema in Maeil Plus’ “Real Estate Final Round”. Wenn der Wechsel von Jeonse zu Monatsmieten schneller wird, müssen Mieter sowohl die Wohnkostenbelastung als auch die Wohnstabilität berücksichtigen. Der Originalbericht konzentriert sich nicht auf konkrete Preiszahlen oder regionale Statistiken, sondern auf die Frage, ob ein Kauf angesichts der Jeonse-Krise sinnvoll ist. Mieter dürften künftig Marktveränderungen und ihre eigene Finanzierungslage prüfen müssen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Crise du jeonse et loyers mensuels: les locataires doivent-ils acheter?",
+        "excerpt": "Alors que le passage du jeonse au loyer mensuel s’accélère en Corée, Park Hap-soo, professeur associé à l’Université Konkuk, a examiné sur Maeil Plus si les locataires devraient acheter.",
+        "body": "Alors que la transformation du système coréen de jeonse en loyers mensuels s’accélère, les locataires confrontés à la pénurie de jeonse s’interrogent davantage sur l’opportunité d’acheter un logement. Park Hap-soo, professeur associé à la Graduate School of Real Estate de l’Université Konkuk, a abordé ce sujet dans “Real Estate Final Round” sur Maeil Plus. Quand le passage du jeonse au loyer mensuel s’accélère, les locataires doivent considérer à la fois la charge des coûts de logement et la stabilité résidentielle. Le texte original met l’accent sur la question d’un passage à l’achat dans un contexte de crise du jeonse, plutôt que sur des chiffres de prix ou des statistiques régionales. Les locataires devront donc suivre l’évolution du marché du jeonse et évaluer leurs propres capacités financières. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أزمة الجيونسي وتسارع الإيجار الشهري: هل يتجه المستأجرون للشراء؟",
+        "excerpt": "مع تسارع تحول نظام الجيونسي في كوريا إلى إيجار شهري، ناقش بارك هاب-سو، الأستاذ المساعد في جامعة كونكوك، عبر ماييل بلس ما إذا كان على المستأجرين شراء منزل.",
+        "body": "مع تسارع تحول نظام الجيونسي الكوري إلى الإيجار الشهري، يزداد اهتمام المستأجرين الذين يعانون من أزمة الجيونسي بسؤال ما إذا كان عليهم الاتجاه إلى شراء مسكن. تناول بارك هاب-سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، هذه القضية في برنامج “Real Estate Final Round” على ماييل بلس. وعندما تتسارع الحركة من الجيونسي إلى الإيجار الشهري، يحتاج المستأجرون إلى النظر في عبء تكاليف السكن واستقرار الإقامة معا. ويركز النص الأصلي على سؤال التحول إلى الشراء وسط أزمة الجيونسي، لا على أرقام أسعار تفصيلية أو إحصاءات إقليمية. ومن المتوقع أن يقيّم المستأجرون تغيرات سوق الجيونسي وظروفهم المالية قبل اتخاذ القرار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जोंसे संकट और मासिक किराया बढ़ता रुझान: क्या किरायेदार घर खरीदें?",
+        "excerpt": "कोरिया में जोंसे से मासिक किराए की ओर बदलाव तेज होने के बीच, कोंकुक यूनिवर्सिटी के सहायक प्रोफेसर पार्क हाप-सू ने Maeil Plus पर बताया कि किरायेदारों को घर खरीदना चाहिए या नहीं।",
+        "body": "कोरिया में जोंसे व्यवस्था का मासिक किराए में बदलना तेज हो रहा है, जिससे जोंसे संकट झेल रहे किरायेदारों के बीच यह सवाल बढ़ रहा है कि क्या उन्हें घर खरीदने की ओर जाना चाहिए। कोंकुक यूनिवर्सिटी ग्रेजुएट स्कूल ऑफ रियल एस्टेट के सहायक प्रोफेसर पार्क हाप-सू ने Maeil Plus के “Real Estate Final Round” में इस विषय पर चर्चा की। जोंसे से मासिक किराए की ओर रुझान तेज होने पर किरायेदारों को आवास लागत के बोझ और रहने की स्थिरता दोनों पर विचार करना पड़ता है। मूल रिपोर्ट ने कीमतों के विस्तृत आंकड़ों या क्षेत्रीय आँकड़ों के बजाय जोंसे संकट में खरीदारी की ओर मुड़ने के प्रश्न पर ध्यान दिया है। आगे किरायेदारों को जोंसे बाजार में बदलाव और अपनी वित्तीय स्थिति देखकर निर्णय लेना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Krisis Jeonse dan Sewa Bulanan Meningkat: Perlukah Penyewa Membeli Rumah?",
+        "excerpt": "Saat peralihan jeonse ke sewa bulanan di Korea makin cepat, Park Hap-soo, dosen tambahan Universitas Konkuk, membahas di Maeil Plus apakah penyewa sebaiknya membeli rumah.",
+        "body": "Ketika perubahan sistem jeonse Korea menuju sewa bulanan makin cepat, penyewa yang terdampak krisis jeonse semakin mempertanyakan apakah mereka perlu beralih membeli rumah. Park Hap-soo, dosen tambahan di Graduate School of Real Estate Universitas Konkuk, membahas isu ini dalam “Real Estate Final Round” di Maeil Plus. Jika perpindahan dari jeonse ke sewa bulanan terus berlangsung lebih cepat, penyewa harus mempertimbangkan beban biaya tempat tinggal dan stabilitas hunian sekaligus. Teks asli berfokus pada pertanyaan apakah perlu beralih membeli rumah di tengah krisis jeonse, bukan pada angka harga rinci atau statistik per wilayah. Ke depan, penyewa perlu menilai perubahan pasar jeonse dan kondisi pendanaan masing-masing sebelum memutuskan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1eb257b5d4e8",
+    "slug": "최인호-hug-사장-전세사기-막기-위해-연내-빌라-시세-제공-105030",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-07T07:18:46.454Z",
+    "updatedAt": "2026-05-07T07:18:46.454Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12039198",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12039198",
+    "titleFingerprint": "54d027fecbd06862fb41b6f29dff721fad05ac9d",
+    "dedupKeys": [
+      "1eb257b5d4e8cc8ac1ff5ad33d3d78f544bd1835",
+      "54d027fecbd06862fb41b6f29dff721fad05ac9d",
+      "420bf0c0042b546b7d1a955bcb7c90acc6bf8d73"
+    ],
+    "imageUrl": "/images/articles/1eb257b5d4e8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전세사기 예방책 속도…최인호 HUG 사장, 연내 빌라 시세 제공 추진",
+        "excerpt": "최인호 주택도시보증공사(HUG) 사장은 취임 100일을 맞아 전세사기 예방을 위해 올해 안에 적정 빌라 시세 산출을 완료하겠다고 밝혔다.",
+        "body": "최인호 주택도시보증공사(HUG) 사장은 취임 100일을 맞아 전세사기 예방을 위한 적정 빌라 시세 산출 작업을 연내 완료하겠다고 밝혔다. 빌라는 아파트보다 공신력 있는 시세 정보가 부족해 임차인이 보증금 위험을 판단하기 어렵다는 지적을 받아왔다. HUG는 빌라 매물별 부채를 실시간으로 집계해 부채 정보를 제공하는 방안도 추진한다. 적정 시세와 부채 정보가 함께 공개되면 임차인의 정보 비대칭을 줄이고 전세보증금 위험 판단에 도움이 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HUG to Provide Villa Price Data This Year as Choi In-ho Targets Jeonse Fraud",
+        "excerpt": "HUG President Choi In-ho said on his 100th day in office that the agency will complete fair villa price calculations this year to help prevent jeonse fraud.",
+        "body": "Choi In-ho, president of the Korea Housing & Urban Guarantee Corporation (HUG), said on his 100th day in office that HUG will complete work this year to calculate fair market prices for villas to help prevent jeonse fraud. Villas have faced criticism because reliable price information is less available than for apartments, making it harder for tenants to assess deposit risk. HUG is also pursuing real-time aggregation of debt by individual villa listing. If fair price and debt data are provided together, they are expected to reduce information gaps for tenants and support risk checks on jeonse deposits. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "全世詐欺防止へHUGが年内にヴィラ相場提供、崔仁浩社長が表明",
+        "excerpt": "就任100日を迎えた住宅都市保証公社（HUG）の崔仁浩社長は、全世詐欺防止に向け年内に適正なヴィラ相場算定を終えると述べた。",
+        "body": "住宅都市保証公社（HUG）の崔仁浩社長は、就任100日を迎え、全世詐欺を防ぐための適正なヴィラ相場算定作業を年内に完了すると明らかにした。ヴィラはマンションに比べて信頼できる相場情報が不足し、賃借人が保証金リスクを判断しにくいとの指摘があった。HUGはヴィラ物件ごとの負債をリアルタイムで集計し、負債情報を提供する案も進める。適正相場と負債情報が併せて公開されれば、賃借人の情報格差を減らし、全世保証金リスクの判断に役立つ見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HUG年内推进别墅市价信息，崔仁浩称将防范全租诈骗",
+        "excerpt": "韩国住宅都市保证公社（HUG）社长崔仁浩在就任100日之际表示，将在年内完成合理别墅市价测算，以防范全租诈骗。",
+        "body": "韩国住宅都市保证公社（HUG）社长崔仁浩在就任100日之际表示，将于年内完成用于防范全租诈骗的合理别墅市价测算工作。与公寓相比，别墅缺乏具有公信力的市价信息，租户难以判断保证金风险，这一问题一直受到关注。HUG还将推进按别墅房源实时汇总债务并提供相关信息的方案。若合理市价与债务信息一并公开，预计将减少租户面临的信息不对称，并有助于判断全租保证金风险。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HUG dará precios de villas este año: Choi In-ho apunta a frenar fraude jeonse",
+        "excerpt": "Choi In-ho, presidente de HUG, dijo al cumplir 100 días en el cargo que completará este año el cálculo de precios adecuados de villas para prevenir fraude jeonse.",
+        "body": "Choi In-ho, presidente de Korea Housing & Urban Guarantee Corporation (HUG), afirmó al cumplir 100 días en el cargo que la entidad completará este año el cálculo de precios adecuados de mercado para villas con el fin de prevenir el fraude jeonse. Las villas han sido señaladas por tener menos información fiable de precios que los apartamentos, lo que dificulta a los inquilinos evaluar el riesgo de sus depósitos. HUG también impulsa un sistema para recopilar en tiempo real la deuda de cada vivienda en oferta. La publicación conjunta de precios y deuda podría reducir la asimetría de información y ayudar a valorar el riesgo del depósito jeonse. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HUG dará preços de vilas neste ano; Choi In-ho mira fraude no jeonse",
+        "excerpt": "Choi In-ho, presidente da HUG, disse ao completar 100 dias no cargo que concluirá este ano o cálculo de preços adequados de vilas para prevenir fraude no jeonse.",
+        "body": "Choi In-ho, presidente da Korea Housing & Urban Guarantee Corporation (HUG), afirmou ao completar 100 dias no cargo que a entidade concluirá ainda neste ano o cálculo de preços adequados de mercado para vilas, com o objetivo de prevenir fraudes no jeonse. As vilas têm sido criticadas pela falta de informações confiáveis de preço em comparação com apartamentos, dificultando a avaliação do risco do depósito pelos inquilinos. A HUG também pretende compilar em tempo real a dívida de cada imóvel anunciado. Com preço adequado e dados de dívida divulgados juntos, a medida deve reduzir a assimetria de informação e apoiar a análise do risco do depósito jeonse. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HUG will Villa-Preise noch dieses Jahr liefern: Choi In-ho gegen Jeonse-Betrug",
+        "excerpt": "HUG-Präsident Choi In-ho sagte an seinem 100. Amtstag, die Behörde werde noch dieses Jahr faire Villa-Preise berechnen, um Jeonse-Betrug vorzubeugen.",
+        "body": "Choi In-ho, Präsident der Korea Housing & Urban Guarantee Corporation (HUG), erklärte an seinem 100. Amtstag, HUG werde noch in diesem Jahr die Berechnung angemessener Marktpreise für Villen abschließen, um Jeonse-Betrug vorzubeugen. Bei Villen fehlen im Vergleich zu Wohnungen häufig verlässliche Preisinformationen, wodurch Mieter das Risiko ihrer Kaution schwerer einschätzen können. HUG treibt zudem voran, Schulden je Villa-Angebot in Echtzeit zu erfassen und bereitzustellen. Werden faire Preise und Schuldendaten gemeinsam veröffentlicht, dürfte dies Informationsasymmetrien verringern und Mietern bei der Risikoprüfung ihrer Jeonse-Kaution helfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HUG fournira des prix de villas cette année, Choi In-ho cible la fraude jeonse",
+        "excerpt": "Choi In-ho, président de HUG, a déclaré pour ses 100 jours en poste que l’agence achèverait cette année le calcul des prix justes des villas contre la fraude jeonse.",
+        "body": "Choi In-ho, président de la Korea Housing & Urban Guarantee Corporation (HUG), a déclaré à l’occasion de ses 100 jours en fonction que HUG achèvera cette année le calcul de prix de marché appropriés pour les villas afin de prévenir la fraude jeonse. Les villas disposent de moins d’informations de prix fiables que les appartements, ce qui rend plus difficile pour les locataires l’évaluation du risque lié à leur dépôt. HUG prévoit aussi d’agréger en temps réel la dette associée à chaque bien mis en vente ou en location. La publication conjointe des prix et des dettes devrait réduire l’asymétrie d’information et aider à évaluer le risque des dépôts jeonse. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "HUG تعتزم توفير أسعار الفيلات هذا العام للحد من احتيال الجونسِه",
+        "excerpt": "قال تشوي إن-هو رئيس مؤسسة ضمان الإسكان والمدن HUG في يومه المئة بالمنصب إن المؤسسة ستنجز هذا العام حساب الأسعار المناسبة للفيلات لمنع احتيال الجونسِه.",
+        "body": "قال تشوي إن-هو، رئيس مؤسسة ضمان الإسكان والمدن الكورية HUG، بمناسبة مرور 100 يوم على توليه المنصب، إن المؤسسة ستكمل هذا العام حساب الأسعار السوقية المناسبة للفيلات بهدف الوقاية من احتيال الجونسِه. وتواجه الفيلات انتقادات بسبب نقص معلومات الأسعار الموثوقة مقارنة بالشقق، ما يصعّب على المستأجرين تقييم مخاطر الوديعة. كما تعمل HUG على جمع ديون كل عقار فيلا معروض بشكل فوري وتوفير هذه المعلومات. وإذا نُشرت الأسعار المناسبة وبيانات الديون معاً، فمن المتوقع أن يقلّ تفاوت المعلومات ويساعد ذلك المستأجرين في تقييم مخاطر ودائع الجونسِه. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Jeonse धोखाधड़ी रोकने को HUG इस साल विला कीमतें देगा, चोई इन-हो का ऐलान",
+        "excerpt": "HUG के अध्यक्ष चोई इन-हो ने पदभार संभालने के 100 दिन पर कहा कि एजेंसी इस साल विला की उचित कीमतों की गणना पूरी करेगी ताकि jeonse धोखाधड़ी रोकी जा सके।",
+        "body": "कोरिया हाउसिंग एंड अर्बन गारंटी कॉरपोरेशन (HUG) के अध्यक्ष चोई इन-हो ने पदभार संभालने के 100 दिन पूरे होने पर कहा कि HUG jeonse धोखाधड़ी रोकने के लिए इस साल विला की उचित बाजार कीमतों की गणना पूरी करेगा। विला के मामले में अपार्टमेंट की तुलना में भरोसेमंद कीमत जानकारी कम उपलब्ध रही है, जिससे किरायेदारों के लिए जमा राशि का जोखिम समझना कठिन होता है। HUG हर विला लिस्टिंग पर कर्ज को वास्तविक समय में संकलित कर जानकारी देने की योजना भी आगे बढ़ा रहा है। उचित कीमत और कर्ज जानकारी साथ मिलने से सूचना असमानता घटने और jeonse जमा जोखिम का आकलन करने में मदद मिलने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HUG Siapkan Harga Vila Tahun Ini, Choi In-ho Fokus Cegah Penipuan Jeonse",
+        "excerpt": "Presiden HUG Choi In-ho mengatakan pada 100 hari masa jabatannya bahwa lembaga itu akan menuntaskan perhitungan harga wajar vila tahun ini untuk mencegah penipuan jeonse.",
+        "body": "Choi In-ho, Presiden Korea Housing & Urban Guarantee Corporation (HUG), mengatakan pada 100 hari masa jabatannya bahwa HUG akan menyelesaikan perhitungan harga pasar wajar untuk vila tahun ini guna mencegah penipuan jeonse. Vila dinilai memiliki informasi harga tepercaya yang lebih terbatas dibanding apartemen, sehingga penyewa sulit menilai risiko uang jaminan. HUG juga mendorong pengumpulan utang secara real time untuk setiap listing vila dan penyediaan informasi tersebut. Jika harga wajar dan data utang dibuka bersama, hal itu diperkirakan dapat mengurangi kesenjangan informasi dan membantu penyewa menilai risiko deposito jeonse. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "b4846a26e63b",
     "slug": "국민주택-평형-84보다-59가-대세가-될까요-박합수의-부동산끝판-496935",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Prospek harga rumah naik turun dari 81% ke 56%, kekhawatiran sewa bulanan meningkat",
         "excerpt": "Menurut mk.co.kr pada tanggal 5, setelah kebijakan stabilisasi pasar properti yang kuat dari pemerintahan Lee Jae-myung, ekspektasi kenaikan harga rumah turun, tetapi harga jeonse dan peralihan ke sewa bulanan diperkirakan meningkat.",
         "body": "Menurut mk.co.kr pada tanggal 5, para ahli menilai harga rumah yang sempat melonjak kini berbalik menuju stabilitas setelah kebijakan kuat pemerintahan Lee Jae-myung untuk menstabilkan pasar properti. Porsi ahli yang memperkirakan harga rumah akan naik turun tajam dari 81% tiga bulan lalu menjadi 56%. Namun, berbeda dengan prospek harga jual-beli yang mulai mereda, pasar sewa diperkirakan bergerak lain. Harga jeonse diperkirakan naik, sementara peralihan dari jeonse ke sewa bulanan, yang disebut “monthly-rentization”, dapat semakin cepat. Artinya, kebijakan tersebut meredakan panasnya pasar jual-beli, tetapi beban di pasar sewa masih mungkin berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f45176fd1706",
-    "slug": "자산-9조-돌파-라인그룹-대기업-반열-올랐다-557756",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T17:28:25.223Z",
-    "updatedAt": "2026-05-06T17:28:25.223Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036086",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036086",
-    "titleFingerprint": "ef41d32c6357b38b19516e3c722b3016c36d2379",
-    "dedupKeys": [
-      "f45176fd170642a381b9b5a84d5cdc6a8f6afcbc",
-      "ef41d32c6357b38b19516e3c722b3016c36d2379",
-      "921dfce947280666ffaa222dc8369923e80367c9"
-    ],
-    "imageUrl": "/images/articles/f45176fd1706.jpg",
-    "i18n": {
-      "ko": {
-        "title": "라인그룹 자산 9조4000억원 돌파, 지역 건설사서 대기업 반열로",
-        "excerpt": "라인그룹이 자산 9조4000억원 규모로 성장하며 공정거래위원회 발표 기준 대기업 반열에 올랐다. 지역 건설사로 출발한 지 40여 년 만의 변화다.",
-        "body": "라인그룹이 자산 9조4000억원 규모로 성장하며 대기업 반열에 올랐다. 5일 부동산업계에 따르면 공정거래위원회가 발표한 자료에서 라인그룹은 자산 규모 9조4000억원을 기록한 것으로 전해졌다. 지역 건설사로 출발한 지 40여 년 만에 이룬 성장이다. 이번 결과는 라인그룹이 지역 기반 건설사에서 자산 규모를 갖춘 기업집단으로 확대됐음을 보여준다. 부동산업계는 공정거래위원회 발표를 통해 확인된 자산 규모와 기업 위상 변화에 주목하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Line Group’s Assets Top 9.4 Trillion Won, Entering Big-Business Ranks",
-        "excerpt": "Line Group has grown to 9.4 trillion won in assets and entered the ranks of major business groups under the Fair Trade Commission’s announcement, about 40 years after starting as a regional builder.",
-        "body": "Line Group has entered the ranks of major business groups after expanding its assets to 9.4 trillion won. According to the real estate industry on the 5th, Line Group was reported to have posted assets of 9.4 trillion won in data released by the Fair Trade Commission. The milestone comes more than 40 years after the company began as a regional construction firm. The result shows Line Group’s growth from a locally based builder into a business group with significant asset scale. The real estate industry is watching the asset figure and the change in corporate status confirmed through the Fair Trade Commission announcement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ライン・グループ資産9兆4000億ウォン突破、地域建設会社から大企業へ",
-        "excerpt": "ライン・グループは資産9兆4000億ウォン規模に成長し、公正取引委員会の発表基準で大企業の仲間入りを果たした。地域建設会社として出発してから約40年後の変化だ。",
-        "body": "ライン・グループが資産9兆4000億ウォン規模に成長し、大企業の仲間入りを果たした。5日、不動産業界によると、公正取引委員会が発表した資料でライン・グループは資産規模9兆4000億ウォンを記録したと伝えられた。地域建設会社として出発してから40年以上を経て達成した成長だ。今回の結果は、ライン・グループが地域基盤の建設会社から資産規模を備えた企業集団へ拡大したことを示している。不動産業界は、公正取引委員会の発表で確認された資産規模と企業としての位置づけの変化に注目している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Line集团资产突破9.4万亿韩元，由地区建筑商跻身大企业行列",
-        "excerpt": "Line集团资产规模增至9.4万亿韩元，并按韩国公平交易委员会发布标准进入大企业行列。这是其从地区建筑公司起步约40年后的变化。",
-        "body": "Line集团资产规模增至9.4万亿韩元，跻身大企业行列。据房地产行业5日消息，在韩国公平交易委员会发布的资料中，Line集团资产规模被披露为9.4万亿韩元。这是其作为地区建筑公司起步40多年后取得的增长。此次结果显示，Line集团已从以地区为基础的建筑公司，扩大为具备相当资产规模的企业集团。房地产行业正关注通过公平交易委员会发布资料确认的资产规模，以及企业地位的变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Line Group supera 9,4 billones de wones en activos y entra entre grandes empresas",
-        "excerpt": "Line Group creció hasta 9,4 billones de wones en activos y entró en la categoría de grandes grupos según la Comisión de Comercio Justo, unos 40 años después de nacer como constructora regional.",
-        "body": "Line Group entró en la categoría de grandes grupos empresariales tras elevar sus activos a 9,4 billones de wones. Según la industria inmobiliaria el día 5, los datos publicados por la Comisión de Comercio Justo indicaron que Line Group registró activos por 9,4 billones de wones. El crecimiento llega más de 40 años después de que la compañía comenzara como una constructora regional. El resultado muestra que Line Group pasó de ser una empresa constructora de base local a un grupo empresarial con una escala relevante de activos. El sector inmobiliario observa la cifra de activos y el cambio de posición corporativa confirmado por la comisión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Line Group supera 9,4 trilhões de wons em ativos e entra no grupo das grandes empresas",
-        "excerpt": "O Line Group cresceu para 9,4 trilhões de wons em ativos e passou a integrar o grupo de grandes empresas segundo a Comissão de Comércio Justo, cerca de 40 anos após nascer como construtora regional.",
-        "body": "O Line Group passou a integrar o grupo de grandes empresas ao ampliar seus ativos para 9,4 trilhões de wons. Segundo o setor imobiliário no dia 5, dados divulgados pela Comissão de Comércio Justo apontaram que o Line Group registrou ativos de 9,4 trilhões de wons. O marco ocorre mais de 40 anos depois de a empresa começar como uma construtora regional. O resultado mostra a expansão do Line Group de uma construtora de base local para um grupo empresarial com escala relevante de ativos. O setor imobiliário acompanha o valor dos ativos e a mudança de posição corporativa confirmados pelo anúncio da comissão. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Line Group knackt 9,4 Billionen Won Vermögen und steigt in die Großunternehmensklasse auf",
-        "excerpt": "Die Line Group ist auf 9,4 Billionen Won Vermögen gewachsen und zählt nach Angaben der Fair Trade Commission nun zu den großen Unternehmensgruppen, rund 40 Jahre nach dem Start als regionaler Baukonzern.",
-        "body": "Die Line Group ist mit einem Vermögen von 9,4 Billionen Won in die Reihe großer Unternehmensgruppen aufgestiegen. Nach Angaben der Immobilienbranche vom 5. geht aus den von der Fair Trade Commission veröffentlichten Daten hervor, dass die Line Group ein Vermögen von 9,4 Billionen Won erreichte. Der Schritt erfolgt mehr als 40 Jahre nach dem Start als regionales Bauunternehmen. Das Ergebnis zeigt den Wandel der Line Group von einem lokal verankerten Bauunternehmen zu einer Unternehmensgruppe mit erheblicher Vermögensgröße. Die Immobilienbranche achtet nun auf die bestätigte Vermögenszahl und die veränderte Unternehmensstellung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Line Group dépasse 9 400 milliards de wons d’actifs et rejoint les grands groupes",
-        "excerpt": "Line Group a porté ses actifs à 9 400 milliards de wons et rejoint la catégorie des grands groupes selon la Commission du commerce équitable, environ 40 ans après ses débuts comme constructeur régional.",
-        "body": "Line Group a rejoint la catégorie des grands groupes d’entreprises après avoir porté ses actifs à 9 400 milliards de wons. Selon le secteur immobilier le 5, les données publiées par la Commission du commerce équitable indiquent que Line Group a enregistré 9 400 milliards de wons d’actifs. Cette étape intervient plus de 40 ans après ses débuts comme entreprise de construction régionale. Le résultat montre que Line Group est passé d’un constructeur à base locale à un groupe d’entreprises doté d’une taille d’actifs notable. Le secteur immobilier suit le montant confirmé des actifs et l’évolution du statut de l’entreprise. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "مجموعة لاين تتجاوز أصولها 9.4 تريليون وون وتنضم إلى فئة الشركات الكبرى",
-        "excerpt": "نمت مجموعة لاين إلى أصول بقيمة 9.4 تريليون وون ودخلت فئة مجموعات الأعمال الكبرى وفق إعلان لجنة التجارة العادلة، بعد نحو 40 عاما من انطلاقها كشركة بناء إقليمية.",
-        "body": "دخلت مجموعة لاين فئة مجموعات الأعمال الكبرى بعدما ارتفع حجم أصولها إلى 9.4 تريليون وون. ووفقا لقطاع العقارات في اليوم الخامس، أظهرت البيانات التي أعلنتها لجنة التجارة العادلة أن مجموعة لاين سجلت أصولا بقيمة 9.4 تريليون وون. ويأتي هذا الإنجاز بعد أكثر من 40 عاما على انطلاق الشركة كشركة بناء إقليمية. وتوضح النتيجة أن مجموعة لاين توسعت من شركة بناء محلية الأساس إلى مجموعة أعمال ذات حجم أصول ملحوظ. ويركز قطاع العقارات على حجم الأصول المؤكد من خلال إعلان لجنة التجارة العادلة وعلى تغير مكانة الشركة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन पार, क्षेत्रीय बिल्डर से बड़े समूह तक",
-        "excerpt": "लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन तक बढ़ी और फेयर ट्रेड कमीशन की घोषणा के आधार पर यह बड़े कारोबारी समूहों की श्रेणी में आ गया, क्षेत्रीय निर्माण कंपनी के रूप में शुरुआत के करीब 40 साल बाद।",
-        "body": "लाइन ग्रुप 9.4 ट्रिलियन वॉन की संपत्ति के साथ बड़े कारोबारी समूहों की श्रेणी में आ गया है। रियल एस्टेट उद्योग के अनुसार, 5 तारीख को फेयर ट्रेड कमीशन द्वारा जारी आंकड़ों में लाइन ग्रुप की संपत्ति 9.4 ट्रिलियन वॉन बताई गई। यह वृद्धि उस कंपनी के लिए है जिसने 40 साल से अधिक पहले एक क्षेत्रीय निर्माण कंपनी के रूप में शुरुआत की थी। यह परिणाम दिखाता है कि लाइन ग्रुप स्थानीय आधार वाली निर्माण कंपनी से पर्याप्त संपत्ति आकार वाले कारोबारी समूह में विस्तारित हुआ है। रियल एस्टेट उद्योग आयोग की घोषणा से पुष्टि हुई संपत्ति और कंपनी की स्थिति में बदलाव पर ध्यान दे रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aset Line Group Tembus 9,4 Triliun Won, Masuk Jajaran Perusahaan Besar",
-        "excerpt": "Line Group tumbuh menjadi 9,4 triliun won dalam aset dan masuk jajaran grup usaha besar berdasarkan pengumuman Komisi Perdagangan Adil, sekitar 40 tahun setelah bermula sebagai kontraktor regional.",
-        "body": "Line Group masuk jajaran grup usaha besar setelah asetnya tumbuh menjadi 9,4 triliun won. Menurut industri properti pada tanggal 5, data yang diumumkan Komisi Perdagangan Adil menunjukkan Line Group mencatat aset sebesar 9,4 triliun won. Pencapaian ini terjadi lebih dari 40 tahun setelah perusahaan tersebut bermula sebagai perusahaan konstruksi regional. Hasil ini menunjukkan Line Group telah berkembang dari kontraktor berbasis daerah menjadi grup usaha dengan skala aset yang signifikan. Industri properti memperhatikan angka aset dan perubahan posisi perusahaan yang dikonfirmasi melalui pengumuman komisi tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "13b4c17df89c",
-    "slug": "서울-지하철역-주변-개발-공공기여-30로-낮춘다-761480",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T17:27:23.252Z",
-    "updatedAt": "2026-05-06T17:27:23.252Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036085",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036085",
-    "titleFingerprint": "9fc5ea4c0a45b070a5bbbecf15ca2f9922f7df8d",
-    "dedupKeys": [
-      "13b4c17df89c559917a8a84dc03c939ecb1b67c1",
-      "9fc5ea4c0a45b070a5bbbecf15ca2f9922f7df8d",
-      "4d8494f4bdc01bcdede5838340f3c4eea21ad556"
-    ],
-    "imageUrl": "/images/articles/13b4c17df89c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 역세권 개발 규제 완화…공공기여 30%로 낮춰 직·주·락 거점 조성",
-        "excerpt": "서울시는 지난 3월 발표한 역세권 활성화 방안의 후속 조치로, 지하철역 주변 개발의 공공기여 부담을 30%로 낮춰 일자리·주거·여가가 결합된 생활 거점을 조성한다.",
-        "body": "서울시가 지하철역 주변 개발 규제를 완화해 역세권을 단순한 교통 거점에서 일자리와 주거, 여가 기능이 결합된 ‘직·주·락’ 생활 거점으로 바꾸는 방안을 추진한다. 시는 지난 3월 발표한 ‘역세권’ 관련 활성화 방안의 연장선에서 공공기여 부담을 30%로 낮추는 방향을 제시했다. 이번 조치는 역 주변 개발의 부담을 줄여 복합 기능을 갖춘 생활권 조성을 유도하려는 취지다. 규제 완화가 적용되면 역세권 개발 사업에서 주거와 업무, 여가 기능을 함께 배치하는 계획이 더 활발해질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Eases Station-Area Development Rules, Cutting Public Contribution to 30%",
-        "excerpt": "Seoul is following up on its March station-area plan by lowering public contribution requirements to 30% to turn subway areas into mixed hubs for jobs, housing and leisure.",
-        "body": "The Seoul Metropolitan Government is moving to ease development rules around subway stations, aiming to transform station areas from simple transport nodes into “work-live-play” 생활 hubs combining jobs, housing and leisure. As a follow-up to the station-area revitalization plan announced in March, the city presented a direction to lower the public contribution burden to 30%. The measure is intended to reduce the burden on development near stations and encourage mixed-use neighborhoods. If applied, station-area projects may more actively include residential, business and leisure functions in a single plan. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル駅勢圏開発の規制緩和へ、公共貢献30％に引き下げ生活拠点化",
-        "excerpt": "ソウル市は3月に発表した駅勢圏活性化策の後続措置として、地下鉄駅周辺開発の公共貢献負担を30％に下げ、職住遊が結合した生活拠点づくりを進める。",
-        "body": "ソウル市は、地下鉄駅周辺の開発規制を緩和し、駅勢圏を単なる交通拠点から、雇用・住居・余暇機能が結合した「職・住・楽」の生活拠点へ転換する方針を進める。市は3月に発表した駅勢圏関連の活性化策の延長線上で、公共貢献負担を30％に引き下げる方向を示した。今回の措置は、駅周辺開発の負担を軽減し、複合機能を備えた生活圏の形成を促す狙いがある。規制緩和が適用されれば、駅勢圏開発事業で住宅、業務、余暇機能を同時に配置する計画がより活発になる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔放宽地铁站周边开发限制，公共贡献降至30%打造职住乐据点",
-        "excerpt": "首尔市作为3月发布的站区活化方案后续措施，将地铁站周边开发的公共贡献负担降至30%，推动就业、居住、休闲结合的生活据点建设。",
-        "body": "首尔市正推进放宽地铁站周边开发限制，计划把站区从单纯交通节点转变为就业、居住和休闲功能结合的“职住乐”生活据点。首尔市在3月发布的站区相关活化方案基础上，提出将公共贡献负担降至30%的方向。此举旨在降低车站周边开发负担，引导形成具备复合功能的生活圈。若相关放宽措施适用，站区开发项目中同时配置住宅、办公和休闲功能的规划可能更加活跃。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Seúl flexibiliza el desarrollo junto al metro y baja la contribución pública al 30%",
-        "excerpt": "Seúl aplicará medidas posteriores al plan de marzo para reducir al 30% la contribución pública en desarrollos cerca del metro y crear núcleos de empleo, vivienda y ocio.",
-        "body": "El Gobierno Metropolitano de Seúl avanza en la flexibilización de las normas de desarrollo alrededor de las estaciones de metro para transformar esas zonas, hoy centradas en el transporte, en núcleos de vida que combinen empleo, vivienda y ocio. Como continuación del plan de revitalización de áreas de estación anunciado en marzo, la ciudad planteó reducir la carga de contribución pública al 30%. La medida busca aliviar el peso de los desarrollos cerca de las estaciones e inducir barrios con funciones mixtas. Si se aplica la flexibilización, los proyectos en áreas de estación podrían incorporar con más actividad usos residenciales, laborales y de ocio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Seul flexibiliza desenvolvimento perto do metrô e reduz contribuição pública a 30%",
-        "excerpt": "Seul dará sequência ao plano de março para áreas de estação ao reduzir para 30% a contribuição pública em projetos próximos ao metrô, criando polos de trabalho, moradia e lazer.",
-        "body": "O Governo Metropolitano de Seul está avançando na flexibilização das regras de desenvolvimento ao redor das estações de metrô para transformar essas áreas, hoje vistas como simples pontos de transporte, em centros de vida que combinem trabalho, moradia e lazer. Como desdobramento do plano de revitalização de áreas de estação anunciado em março, a cidade apresentou a diretriz de reduzir a carga de contribuição pública para 30%. A medida busca diminuir o peso dos projetos próximos às estações e incentivar bairros de uso misto. Se aplicada, a flexibilização pode tornar mais ativos os planos que reúnem funções residenciais, comerciais e de lazer. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul lockert Entwicklung an U-Bahn-Stationen und senkt öffentlichen Beitrag auf 30%",
-        "excerpt": "Seoul setzt seinen im März vorgestellten Plan für Stationsgebiete fort und senkt die öffentliche Beitragslast auf 30%, um Zentren für Arbeit, Wohnen und Freizeit zu schaffen.",
-        "body": "Die Stadt Seoul will die Entwicklungsregeln rund um U-Bahn-Stationen lockern, um Stationsgebiete von reinen Verkehrsknotenpunkten zu Lebenszentren mit Arbeit, Wohnen und Freizeit zu entwickeln. Im Anschluss an den im März vorgestellten Aktivierungsplan für Stationsgebiete legte die Stadt die Richtung fest, die öffentliche Beitragslast auf 30% zu senken. Die Maßnahme soll die Belastung bei Projekten in Bahnhofsnähe verringern und die Bildung gemischt genutzter Lebensräume fördern. Wird die Lockerung angewendet, könnten Entwicklungsprojekte in Stationsgebieten häufiger Wohn-, Arbeits- und Freizeitfunktionen gemeinsam vorsehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Séoul assouplit le développement près du métro et abaisse la contribution publique à 30%",
-        "excerpt": "Séoul prolonge son plan de mars pour les quartiers de gare en réduisant à 30% la contribution publique des projets autour du métro afin de créer des pôles emploi-logement-loisirs.",
-        "body": "La municipalité de Séoul avance vers un assouplissement des règles de développement autour des stations de métro afin de transformer ces secteurs, au-delà de simples pôles de transport, en lieux de vie combinant emploi, logement et loisirs. Dans le prolongement du plan de revitalisation des quartiers de gare annoncé en mars, la ville a présenté une orientation visant à ramener la charge de contribution publique à 30%. Cette mesure vise à réduire le poids des projets près des stations et à encourager des quartiers à fonctions mixtes. Si elle est appliquée, les projets en zones de gare pourraient intégrer plus activement logement, activités économiques et loisirs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سيول تخفف قواعد التطوير حول محطات المترو وتخفض المساهمة العامة إلى 30%",
-        "excerpt": "تتابع سيول خطة مناطق المحطات التي أعلنتها في مارس عبر خفض عبء المساهمة العامة إلى 30% في تطوير محيط المترو لإنشاء مراكز تجمع العمل والسكن والترفيه.",
-        "body": "تتجه حكومة سيول إلى تخفيف قواعد التطوير حول محطات المترو بهدف تحويل مناطق المحطات من نقاط نقل فقط إلى مراكز معيشية تجمع بين العمل والسكن والترفيه. وتأتي الخطوة امتدادا لخطة تنشيط مناطق المحطات التي أعلنتها المدينة في مارس، إذ طرحت اتجاها لخفض عبء المساهمة العامة إلى 30%. وتهدف هذه الإجراءات إلى تقليل أعباء التطوير قرب المحطات وتشجيع إنشاء أحياء ذات وظائف متعددة. وإذا طُبق التخفيف، فقد تصبح مشروعات تطوير مناطق المحطات أكثر نشاطا في الجمع بين الوظائف السكنية والتجارية والترفيهية ضمن خطة واحدة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल मेट्रो स्टेशन क्षेत्रों में विकास नियम नरम, सार्वजनिक योगदान 30% होगा",
-        "excerpt": "सियोल ने मार्च में घोषित स्टेशन-क्षेत्र योजना की अगली कड़ी में मेट्रो स्टेशन आसपास विकास के सार्वजनिक योगदान बोझ को 30% करने और काम, आवास व अवकाश वाले केंद्र बनाने की दिशा रखी।",
-        "body": "सियोल महानगर सरकार मेट्रो स्टेशनों के आसपास विकास नियमों में ढील देने की दिशा में आगे बढ़ रही है, ताकि स्टेशन क्षेत्र केवल परिवहन केंद्र न रहकर काम, आवास और अवकाश को जोड़ने वाले जीवन केंद्र बन सकें। शहर ने मार्च में घोषित स्टेशन-क्षेत्र सक्रियण योजना के विस्तार के रूप में सार्वजनिक योगदान का बोझ 30% तक घटाने की दिशा पेश की। इस कदम का उद्देश्य स्टेशन के आसपास विकास की बाधा कम करना और मिश्रित कार्यों वाले जीवन क्षेत्र को प्रोत्साहित करना है। यदि यह ढील लागू होती है, तो स्टेशन-क्षेत्र विकास परियोजनाओं में आवासीय, व्यावसायिक और अवकाश सुविधाओं को साथ रखने की योजनाएं अधिक सक्रिय हो सकती हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Seoul Longgarkan Pengembangan Area Stasiun, Kontribusi Publik Turun Jadi 30%",
-        "excerpt": "Seoul menindaklanjuti rencana area stasiun yang diumumkan Maret dengan menurunkan beban kontribusi publik menjadi 30% untuk membentuk pusat kerja, hunian, dan rekreasi.",
-        "body": "Pemerintah Metropolitan Seoul bergerak melonggarkan aturan pengembangan di sekitar stasiun kereta bawah tanah untuk mengubah area stasiun dari sekadar simpul transportasi menjadi pusat kehidupan yang memadukan pekerjaan, hunian, dan rekreasi. Sebagai kelanjutan dari rencana aktivasi area stasiun yang diumumkan pada Maret, kota ini mengajukan arah penurunan beban kontribusi publik menjadi 30%. Langkah ini bertujuan mengurangi beban pengembangan di sekitar stasiun dan mendorong terbentuknya kawasan hidup multifungsi. Jika pelonggaran diterapkan, proyek pengembangan area stasiun dapat lebih aktif menggabungkan fungsi hunian, bisnis, dan rekreasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "57029ac18b7a",
-    "slug": "집값-오를수록-서울아파트-통계-격차-확대-267281",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-06T17:26:21.190Z",
-    "updatedAt": "2026-05-06T17:26:21.190Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12036087",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12036087",
-    "titleFingerprint": "90848b732d3ed0afc3fdae68b7786d58daddf205",
-    "dedupKeys": [
-      "57029ac18b7a223c2716547921e4cf9d075aa09f",
-      "90848b732d3ed0afc3fdae68b7786d58daddf205",
-      "3dbd8f2529e8150a5eb94272103a97d406694180"
-    ],
-    "imageUrl": "/images/articles/57029ac18b7a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 통계 격차 확대, 집값 상승기에 공공·민간 지표 엇갈려",
-        "excerpt": "최근 주택시장 진단에 쓰이는 공공·민간 통계가 서울 아파트를 중심으로 빠르게 벌어지며, 같은 기간 수만 개 표본 조사에도 시세·호가 결과가 달라졌다.",
-        "body": "최근 주택시장을 진단하는 공공기관과 민간기관의 통계 격차가 서울 아파트를 중심으로 빠르게 확대되고 있다. 비슷한 기간에 수만 개 표본을 바탕으로 시세와 호가를 조사했지만, 서울지역에서는 기관별 결과가 서로 다르게 나타났다. 집값이 오를수록 시장 흐름을 판단하는 지표 간 차이가 커지면서, 수요자와 정책 담당자가 주택시장 상황을 해석할 때 혼선이 생길 수 있다는 점이 부각된다. 공공과 민간 통계가 각각 다른 방식으로 시장을 보여주는 만큼, 서울 아파트 가격 흐름을 볼 때 단일 지표보다 통계 간 차이를 함께 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Apartment Data Gap Widens as Home Prices Rise, Public and Private Indicators Diverge",
-        "excerpt": "Public and private housing-market statistics have recently diverged quickly around Seoul apartments, even though both examined tens of thousands of samples over similar periods.",
-        "body": "The gap between public and private statistics used to assess the housing market has recently widened rapidly, especially for Seoul apartments. Over similar periods, institutions examined tens of thousands of samples covering market prices and asking prices, but the results for Seoul differed by organization. As home prices rise, the widening gap between indicators used to read market trends may create confusion for buyers and policy officials interpreting housing conditions. Because public and private statistics each show the market through different measures, Seoul apartment price trends need to be reviewed with attention to the differences between indicators rather than relying on a single figure. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウルマンション統計格差が拡大、住宅価格上昇で公的・民間指標にずれ",
-        "excerpt": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に広がり、同様の期間の多数標本調査でも結果が分かれた。",
-        "body": "住宅市場を診断する公的機関と民間機関の統計格差が最近、ソウルのマンションを中心に急速に拡大している。同様の期間に数万件の標本を基に相場と売り出し価格を調査したにもかかわらず、ソウル地域では機関ごとに結果が異なった。住宅価格が上がるほど市場の流れを判断する指標間の差が大きくなり、需要者や政策担当者が住宅市場の状況を解釈する際に混乱が生じる可能性が浮き彫りになっている。公的統計と民間統計がそれぞれ異なる形で市場を示すため、ソウルのマンション価格を見る際は単一指標ではなく統計間の差も確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔公寓统计差距扩大，房价上涨期公共与民间指标分化",
-        "excerpt": "近期用于诊断住房市场的公共和民间机构统计差距迅速扩大，尤其集中在首尔公寓；即使在相近期间调查数万个样本，市价和挂牌价结果仍不一致。",
-        "body": "近期，用于诊断住房市场的公共机构与民间机构之间的统计差距正在迅速扩大，尤其体现在首尔公寓。相关机构在相近期间以数万个样本为基础调查市价和挂牌价，但首尔地区的结果因机构而异。随着房价上涨，用于判断市场走势的指标之间差异扩大，购房者和政策负责人在解读住房市场状况时可能出现混乱。由于公共和民间统计分别以不同方式呈现市场，在观察首尔公寓价格走势时，有必要同时关注统计之间的差异，而不是只依赖单一指标。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Brecha estadística en apartamentos de Seúl crece mientras suben los precios de la vivienda",
-        "excerpt": "Las estadísticas públicas y privadas usadas para diagnosticar el mercado residencial se han separado con rapidez en Seúl, pese a encuestas de decenas de miles de muestras en periodos similares.",
-        "body": "La brecha entre las estadísticas de organismos públicos y privados usadas para evaluar el mercado de la vivienda se ha ampliado rápidamente en los últimos tiempos, sobre todo en los apartamentos de Seúl. En periodos similares se analizaron decenas de miles de muestras sobre precios de mercado y precios de oferta, pero los resultados en Seúl variaron según la institución. A medida que suben los precios de la vivienda, la diferencia entre indicadores para leer la tendencia del mercado puede generar confusión entre compradores y responsables de política pública. Dado que las estadísticas públicas y privadas muestran el mercado de formas distintas, al revisar los precios de apartamentos en Seúl conviene observar también las diferencias entre indicadores, no solo una cifra aislada. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Diferença nas estatísticas de apartamentos em Seul aumenta com alta dos imóveis",
-        "excerpt": "As estatísticas públicas e privadas usadas para avaliar o mercado habitacional passaram a divergir rapidamente em Seul, embora tenham analisado dezenas de milhares de amostras em períodos semelhantes.",
-        "body": "A diferença entre estatísticas de órgãos públicos e instituições privadas usadas para diagnosticar o mercado habitacional vem aumentando rapidamente, especialmente nos apartamentos de Seul. Em períodos semelhantes, foram pesquisadas dezenas de milhares de amostras sobre preços de mercado e preços pedidos, mas os resultados para Seul variaram conforme a instituição. À medida que os preços dos imóveis sobem, a diferença entre indicadores usados para interpretar a tendência do mercado pode causar confusão entre compradores e formuladores de políticas. Como as estatísticas públicas e privadas mostram o mercado de maneiras diferentes, a leitura dos preços dos apartamentos em Seul deve considerar também a distância entre os indicadores, e não apenas um único número. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Statistiklücke bei Seouler Wohnungen wächst, öffentliche und private Daten driften auseinander",
-        "excerpt": "Öffentliche und private Statistiken zur Bewertung des Wohnungsmarkts weichen zuletzt rund um Seouler Apartments rasch stärker voneinander ab, obwohl ähnliche Zeiträume und zehntausende Stichproben untersucht wurden.",
-        "body": "Die Kluft zwischen öffentlichen und privaten Statistiken zur Einschätzung des Wohnungsmarkts hat sich zuletzt schnell vergrößert, vor allem bei Apartments in Seoul. In ähnlichen Zeiträumen wurden zehntausende Stichproben zu Marktpreisen und Angebotspreisen ausgewertet, doch die Ergebnisse für Seoul fielen je nach Institution unterschiedlich aus. Mit steigenden Immobilienpreisen wächst damit auch der Abstand zwischen Indikatoren, die zur Beurteilung des Marktverlaufs genutzt werden. Das kann bei Käufern und politischen Entscheidungsträgern zu Unsicherheit bei der Einordnung der Wohnungsmarktlage führen. Da öffentliche und private Statistiken den Markt jeweils anders abbilden, sollten Preisentwicklungen bei Seouler Apartments nicht nur anhand einer einzelnen Kennzahl, sondern auch im Vergleich der Daten gelesen werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’écart statistique sur les appartements de Séoul s’élargit avec la hausse des prix",
-        "excerpt": "Les statistiques publiques et privées utilisées pour analyser le marché immobilier divergent rapidement autour des appartements de Séoul, malgré des enquêtes sur des dizaines de milliers d’échantillons à périodes comparables.",
-        "body": "L’écart entre les statistiques des organismes publics et privés utilisées pour diagnostiquer le marché du logement s’est récemment élargi rapidement, en particulier pour les appartements de Séoul. Sur des périodes similaires, des dizaines de milliers d’échantillons portant sur les prix de marché et les prix demandés ont été examinés, mais les résultats pour Séoul diffèrent selon les institutions. À mesure que les prix immobiliers montent, l’écart entre les indicateurs servant à lire la tendance du marché peut créer de la confusion chez les acheteurs et les responsables publics. Comme les statistiques publiques et privées présentent chacune le marché d’une manière différente, l’évolution des prix des appartements à Séoul doit être analysée en tenant compte des écarts entre indicateurs, plutôt qu’à partir d’un seul chiffre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "اتساع فجوة إحصاءات شقق سيول مع صعود الأسعار وتباين المؤشرات العامة والخاصة",
-        "excerpt": "اتسعت مؤخرا الفجوة بين إحصاءات الجهات العامة والخاصة المستخدمة لتشخيص سوق الإسكان، خصوصا في شقق سيول، رغم اعتمادها على عشرات الآلاف من العينات خلال فترات متقاربة.",
-        "body": "اتسعت مؤخرا وبوتيرة سريعة الفجوة بين إحصاءات المؤسسات العامة والخاصة المستخدمة في تشخيص سوق الإسكان، ولا سيما في شقق سيول. فقد جرى خلال فترات متقاربة فحص عشرات الآلاف من العينات المتعلقة بأسعار السوق وأسعار العرض، لكن النتائج في منطقة سيول جاءت مختلفة من جهة إلى أخرى. ومع ارتفاع أسعار المساكن، تكبر الفروق بين المؤشرات المستخدمة لقراءة اتجاه السوق، ما قد يسبب التباسا لدى المشترين وصناع السياسات عند تفسير أوضاع سوق الإسكان. وبما أن الإحصاءات العامة والخاصة تعرض السوق بطرق مختلفة، فإن متابعة أسعار شقق سيول تحتاج إلى النظر في الفروق بين المؤشرات، لا الاعتماد على رقم واحد فقط. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट आंकड़ों की खाई बढ़ी, घरों की कीमत चढ़ने पर संकेतक अलग",
-        "excerpt": "आवास बाजार का आकलन करने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में सियोल अपार्टमेंट को लेकर तेजी से अंतर बढ़ा है, जबकि समान अवधि में हजारों नमूनों पर जांच हुई।",
-        "body": "आवास बाजार का आकलन करने के लिए इस्तेमाल होने वाले सार्वजनिक और निजी संस्थानों के आंकड़ों में हाल में तेजी से अंतर बढ़ रहा है, खासकर सियोल के अपार्टमेंट बाजार में। समान अवधि में दसियों हजार नमूनों के आधार पर बाजार भाव और मांगी गई कीमतों की जांच की गई, फिर भी सियोल क्षेत्र के नतीजे संस्थान के अनुसार अलग-अलग रहे। जैसे-जैसे घरों की कीमतें बढ़ती हैं, बाजार की दिशा समझने वाले संकेतकों के बीच अंतर बड़ा होता है, जिससे खरीदारों और नीति अधिकारियों को आवास बाजार की स्थिति समझने में भ्रम हो सकता है। सार्वजनिक और निजी आंकड़े बाजार को अलग-अलग तरीके से दिखाते हैं, इसलिए सियोल अपार्टमेंट कीमतों को देखते समय एक ही संकेतक पर निर्भर रहने के बजाय आंकड़ों के बीच अंतर भी देखना जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kesenjangan Statistik Apartemen Seoul Melebar Saat Harga Rumah Naik",
-        "excerpt": "Statistik lembaga publik dan swasta untuk membaca pasar perumahan belakangan cepat melebar di apartemen Seoul, meski sama-sama memakai puluhan ribu sampel pada periode serupa.",
-        "body": "Kesenjangan antara statistik lembaga publik dan swasta yang digunakan untuk mendiagnosis pasar perumahan belakangan ini melebar cepat, terutama pada apartemen di Seoul. Dalam periode yang serupa, puluhan ribu sampel mengenai harga pasar dan harga penawaran diperiksa, tetapi hasil untuk wilayah Seoul berbeda menurut lembaga. Saat harga rumah naik, perbedaan antarsindikator untuk menilai arah pasar ikut membesar, sehingga pembeli dan pembuat kebijakan dapat mengalami kebingungan saat menafsirkan kondisi pasar perumahan. Karena statistik publik dan swasta menampilkan pasar dengan cara berbeda, tren harga apartemen Seoul perlu dilihat bersama selisih antarindikator, bukan hanya melalui satu angka. Sumber: mk.co.kr"
       }
     }
   }
