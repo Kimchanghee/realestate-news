@@ -1,5 +1,230 @@
 [
   {
+    "id": "0b01423d58fa",
+    "slug": "또-오르기-전에-사놓자환율-하락에-달러예금-늘어-890326",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T11:24:30.144Z",
+    "updatedAt": "2026-05-08T11:24:30.144Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887182/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887182/1",
+    "titleFingerprint": "615a10dc7633c5b5bf63e0872b92a445a189afef",
+    "dedupKeys": [
+      "0b01423d58faef3803a4b1c8a17bce690269df8a",
+      "615a10dc7633c5b5bf63e0872b92a445a189afef",
+      "18f932603074f6955e9196b31e26248ce44e3aec"
+    ],
+    "imageUrl": "/images/articles/0b01423d58fa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 하락에 5대 은행 달러예금 677억 달러로 증가",
+        "excerpt": "8일 5대 시중은행에 따르면 원·달러 환율 하락 영향으로 7일 달러예금 잔액이 677억 달러로 전월 말보다 8% 늘었다.",
+        "body": "국내 5대 시중은행의 달러예금이 원·달러 환율 하락 속에 증가했다. 8일 KB국민·신한·하나·우리·NH농협은행에 따르면 이들 은행의 7일 달러예금 잔액은 677억 달러, 약 99조6341억 원으로 전월 말 626억 달러보다 8% 늘었다. 미국과 이란 간 종전 협상, 외국인 자금의 국내 증시 유입 등이 환율 하락 요인으로 거론됐다. 특히 원·달러 환율이 1462.8원으로 내린 4일 하루에만 37억 달러가 늘어 일일 기준 연중 최대 증가폭을 기록했다. 기업 달러예금은 517억 달러로 7.6% 증가했고, 개인 달러예금은 130억 달러로 1.9% 늘었다. 환율이 한때 1440원대까지 내려가자 투자자들이 향후 환율 상승을 염두에 두고 달러 매수에 나선 것으로 보인다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Dollar Deposits at Five Major Korean Banks Rise as Won-Dollar Rate Falls",
+        "excerpt": "As of the 7th, dollar deposits at five major Korean banks rose 8% from the previous month-end to $67.7 billion amid a decline in the won-dollar exchange rate.",
+        "body": "Dollar deposits at South Korea’s five major commercial banks increased as the won-dollar exchange rate fell. According to KB Kookmin, Shinhan, Hana, Woori and NH NongHyup Bank on the 8th, their dollar deposit balance stood at $67.7 billion, about 99.6341 trillion won, on the 7th, up 8% from $62.6 billion at the end of the previous month. Talks between the United States and Iran to end hostilities and foreign inflows into the Korean stock market were cited among factors behind the exchange-rate decline. On the 4th alone, when the rate fell to 1,462.8 won per dollar, deposits increased by $3.7 billion, the largest daily rise this year. Corporate dollar deposits rose 7.6% to $51.7 billion, while individual deposits rose 1.9% to $13 billion. As the exchange rate briefly moved into the 1,440-won range, investors appeared to buy dollars with a possible future rebound in mind. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場下落で5大銀行のドル預金が677億ドルに増加",
+        "excerpt": "韓国5大市中銀行の7日時点のドル預金残高は、ウォン・ドル相場の下落を受け、前月末比8%増の677億ドルとなった。",
+        "body": "韓国の5大市中銀行で、ウォン・ドル相場の下落を背景にドル預金が増加した。8日にKB国民、新韓、ハナ、ウリ、NH農協銀行が明らかにしたところによると、これら5行の7日時点のドル預金残高は677億ドル、約99兆6341億ウォンで、前月末の626億ドルから8%増えた。米国とイランの終戦協議や外国人資金の韓国株式市場への流入などが相場下落の要因として挙げられた。特にウォン・ドル相場が1ドル=1462.8ウォンに下がった4日には、1日だけで37億ドル増え、今年最大の日次増加幅となった。企業のドル預金は517億ドルで7.6%増、個人のドル預金は130億ドルで1.9%増だった。相場が一時1440ウォン台まで下がる中、投資家は今後の上昇を見込みドル買いに動いたとみられる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率下跌，韩国五大银行美元存款增至677亿美元",
+        "excerpt": "韩国五大商业银行8日数据显示，受韩元兑美元汇率下跌影响，7日美元存款余额较上月末增加8%，达677亿美元。",
+        "body": "在韩元兑美元汇率下跌的背景下，韩国五大商业银行美元存款增加。8日，据KB国民银行、新韩银行、韩亚银行、友利银行和NH农协银行数据，截至7日，这五家银行美元存款余额为677亿美元，约合99.6341万亿韩元，较上月末的626亿美元增加8%。美国与伊朗之间的终战谈判、外国资金流入韩国股市等被认为是汇率下行的相关因素。尤其在4日，韩元兑美元汇率降至1462.8韩元，当天美元存款增加37亿美元，创今年以来单日最大增幅。企业美元存款为517亿美元，较上月末增加7.6%；个人美元存款为130亿美元，增加1.9%。随着汇率一度降至1440韩元区间，投资者似乎在预期未来汇率回升的情况下买入美元。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Depósitos en dólares suben a US$67.700 millones en grandes bancos coreanos",
+        "excerpt": "Los cinco grandes bancos de Corea del Sur registraron el día 7 depósitos en dólares por US$67.700 millones, un 8% más que a fin del mes anterior.",
+        "body": "Los depósitos en dólares de los cinco principales bancos comerciales de Corea del Sur aumentaron mientras bajaba el tipo de cambio won-dólar. Según KB Kookmin, Shinhan, Hana, Woori y NH NongHyup Bank el día 8, el saldo al día 7 fue de US$67.700 millones, unos 99,6341 billones de wones, un 8% más que los US$62.600 millones de fin del mes anterior. Entre los factores vinculados a la caída del tipo de cambio se mencionaron las negociaciones entre Estados Unidos e Irán para poner fin al conflicto y la entrada de capital extranjero en la bolsa surcoreana. Solo el día 4, cuando el tipo bajó a 1.462,8 wones por dólar, los depósitos crecieron US$3.700 millones, el mayor aumento diario del año. Los depósitos corporativos subieron 7,6% a US$51.700 millones y los individuales 1,9% a US$13.000 millones. Con el tipo llegando temporalmente a la zona de 1.440 wones, los inversores parecieron comprar dólares ante una posible subida futura. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Depósitos em dólar sobem para US$ 67,7 bi nos cinco maiores bancos coreanos",
+        "excerpt": "Os cinco maiores bancos comerciais da Coreia do Sul tinham US$ 67,7 bilhões em depósitos em dólar no dia 7, alta de 8% ante o fim do mês anterior.",
+        "body": "Os depósitos em dólar nos cinco principais bancos comerciais da Coreia do Sul aumentaram em meio à queda da taxa de câmbio won-dólar. Segundo KB Kookmin, Shinhan, Hana, Woori e NH NongHyup Bank no dia 8, o saldo desses depósitos no dia 7 chegou a US$ 67,7 bilhões, cerca de 99,6341 trilhões de wons, alta de 8% frente aos US$ 62,6 bilhões do fim do mês anterior. As negociações entre Estados Unidos e Irã para encerrar o conflito e a entrada de capital estrangeiro no mercado acionário coreano foram citadas entre os fatores ligados à queda cambial. Só no dia 4, quando a taxa caiu para 1.462,8 wons por dólar, os depósitos cresceram US$ 3,7 bilhões, maior avanço diário do ano. Os depósitos corporativos subiram 7,6%, para US$ 51,7 bilhões, e os de pessoas físicas avançaram 1,9%, para US$ 13 bilhões. Com a taxa chegando temporariamente à faixa de 1.440 wons, investidores pareceram comprar dólares mirando uma possível alta futura. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Dollar-Einlagen bei Koreas fünf Großbanken steigen auf 67,7 Milliarden Dollar",
+        "excerpt": "Bei fünf großen Geschäftsbanken Südkoreas lagen die Dollar-Einlagen am 7. bei 67,7 Milliarden Dollar, 8% mehr als am Ende des Vormonats.",
+        "body": "Die Dollar-Einlagen bei den fünf großen Geschäftsbanken Südkoreas sind gestiegen, während der Won-Dollar-Wechselkurs nachgab. Wie KB Kookmin, Shinhan, Hana, Woori und NH NongHyup Bank am 8. mitteilten, belief sich der Bestand am 7. auf 67,7 Milliarden Dollar, etwa 99,6341 Billionen Won, und lag damit 8% über den 62,6 Milliarden Dollar zum Ende des Vormonats. Als Faktoren für den Rückgang des Wechselkurses wurden unter anderem Verhandlungen zwischen den USA und Iran über ein Ende der Feindseligkeiten sowie ausländische Kapitalzuflüsse in den koreanischen Aktienmarkt genannt. Allein am 4., als der Kurs auf 1.462,8 Won je Dollar sank, stiegen die Einlagen um 3,7 Milliarden Dollar, der größte Tageszuwachs in diesem Jahr. Unternehmenseinlagen erhöhten sich um 7,6% auf 51,7 Milliarden Dollar, private Einlagen um 1,9% auf 13 Milliarden Dollar. Da der Kurs zeitweise in den Bereich von 1.440 Won fiel, kauften Anleger offenbar Dollar mit Blick auf einen möglichen späteren Anstieg. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les dépôts en dollars des cinq grandes banques coréennes montent à 67,7 milliards",
+        "excerpt": "Les cinq grandes banques commerciales sud-coréennes affichaient le 7 des dépôts en dollars de 67,7 milliards, en hausse de 8% sur un mois.",
+        "body": "Les dépôts en dollars des cinq principales banques commerciales sud-coréennes ont augmenté alors que le taux de change won-dollar reculait. Selon KB Kookmin, Shinhan, Hana, Woori et NH NongHyup Bank le 8, leur encours au 7 s’élevait à 67,7 milliards de dollars, soit environ 99.634,1 milliards de wons, en hausse de 8% par rapport aux 62,6 milliards de dollars de la fin du mois précédent. Les négociations entre les États-Unis et l’Iran pour mettre fin au conflit, ainsi que l’afflux de capitaux étrangers sur le marché boursier coréen, ont été cités parmi les facteurs de baisse du taux de change. Le 4 seulement, lorsque le taux est descendu à 1.462,8 wons pour un dollar, les dépôts ont augmenté de 3,7 milliards de dollars, la plus forte hausse quotidienne de l’année. Les dépôts des entreprises ont progressé de 7,6% à 51,7 milliards de dollars, et ceux des particuliers de 1,9% à 13 milliards. Le taux étant brièvement passé dans la zone des 1.440 wons, les investisseurs semblent avoir acheté des dollars en anticipant une éventuelle remontée. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ارتفاع ودائع الدولار في أكبر خمسة بنوك كورية إلى 67.7 مليار دولار",
+        "excerpt": "أظهرت بيانات أكبر خمسة بنوك تجارية في كوريا الجنوبية أن ودائع الدولار بلغت في 7 من الشهر 67.7 مليار دولار، بزيادة 8% عن نهاية الشهر السابق.",
+        "body": "زادت ودائع الدولار لدى أكبر خمسة بنوك تجارية في كوريا الجنوبية مع تراجع سعر صرف الوون مقابل الدولار. ووفقا لما أعلنته بنوك KB Kookmin وShinhan وHana وWoori وNH NongHyup في 8 من الشهر، بلغ رصيد ودائع الدولار لديها في 7 من الشهر 67.7 مليار دولار، أي نحو 99.6341 تريليون وون، مرتفعا 8% عن 62.6 مليار دولار في نهاية الشهر السابق. وذكرت عوامل منها مفاوضات الولايات المتحدة وإيران لإنهاء الصراع وتدفق أموال أجنبية إلى سوق الأسهم الكورية ضمن أسباب انخفاض سعر الصرف. وفي يوم 4 وحده، عندما هبط السعر إلى 1462.8 وون للدولار، زادت الودائع 3.7 مليار دولار، وهو أكبر ارتفاع يومي هذا العام. وارتفعت ودائع الشركات بالدولار 7.6% إلى 51.7 مليار دولار، بينما زادت ودائع الأفراد 1.9% إلى 13 مليار دولار. ومع تراجع السعر مؤقتا إلى نطاق 1440 وونا، بدا أن المستثمرين يشترون الدولار ترقبا لاحتمال ارتفاعه لاحقا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर गिरने पर कोरिया के पांच बड़े बैंकों में डॉलर जमा बढ़े",
+        "excerpt": "दक्षिण कोरिया के पांच बड़े बैंकों में 7 तारीख को डॉलर जमा 67.7 अरब डॉलर रहा, जो पिछले महीने के अंत से 8% अधिक है।",
+        "body": "दक्षिण कोरिया के पांच प्रमुख वाणिज्यिक बैंकों में डॉलर जमा वॉन-डॉलर विनिमय दर में गिरावट के बीच बढ़ा। 8 तारीख को KB Kookmin, Shinhan, Hana, Woori और NH NongHyup Bank के अनुसार, 7 तारीख को इन बैंकों का डॉलर जमा शेष 67.7 अरब डॉलर, यानी लगभग 99.6341 ट्रिलियन वॉन था, जो पिछले महीने के अंत के 62.6 अरब डॉलर से 8% अधिक है। अमेरिका और ईरान के बीच युद्ध समाप्ति वार्ता तथा विदेशी धन के कोरियाई शेयर बाजार में आने को दर गिरने से जुड़े कारकों में गिना गया। खासकर 4 तारीख को, जब दर 1,462.8 वॉन प्रति डॉलर तक नीचे आई, एक ही दिन में जमा 3.7 अरब डॉलर बढ़ा, जो इस वर्ष का सबसे बड़ा दैनिक इजाफा था। कंपनियों का डॉलर जमा 7.6% बढ़कर 51.7 अरब डॉलर और व्यक्तिगत जमा 1.9% बढ़कर 13 अरब डॉलर हुआ। दर के कुछ समय के लिए 1,440 वॉन के स्तर तक उतरने पर निवेशक भविष्य में संभावित बढ़त को ध्यान में रखकर डॉलर खरीदते दिखे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Deposito Dolar di Lima Bank Besar Korea Naik Jadi US$67,7 Miliar",
+        "excerpt": "Lima bank komersial besar Korea Selatan mencatat saldo deposito dolar US$67,7 miliar pada tanggal 7, naik 8% dari akhir bulan sebelumnya.",
+        "body": "Deposito dolar di lima bank komersial utama Korea Selatan meningkat saat nilai tukar won terhadap dolar melemah. Menurut KB Kookmin, Shinhan, Hana, Woori, dan NH NongHyup Bank pada tanggal 8, saldo deposito dolar mereka pada tanggal 7 mencapai US$67,7 miliar, sekitar 99,6341 triliun won, naik 8% dari US$62,6 miliar pada akhir bulan sebelumnya. Perundingan antara Amerika Serikat dan Iran untuk mengakhiri konflik serta masuknya dana asing ke pasar saham Korea disebut sebagai faktor yang terkait dengan penurunan kurs. Pada tanggal 4 saja, ketika kurs turun ke 1.462,8 won per dolar, deposito bertambah US$3,7 miliar, kenaikan harian terbesar tahun ini. Deposito dolar perusahaan naik 7,6% menjadi US$51,7 miliar, sedangkan deposito individu naik 1,9% menjadi US$13 miliar. Saat kurs sempat turun ke kisaran 1.440 won, investor tampaknya membeli dolar dengan mempertimbangkan kemungkinan kenaikan di kemudian hari. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "e91092ca1ee0",
+    "slug": "대웅제약-월-1회-비만-치료제-임상-돌입-티온랩테라퓨틱스와-개발-협력-723788",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T11:23:17.862Z",
+    "updatedAt": "2026-05-08T11:23:17.862Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888867/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888867/1",
+    "titleFingerprint": "da446e137e44a822a54cf464f6609817bec959f9",
+    "dedupKeys": [
+      "e91092ca1ee0ff4c26190424d8f44fc035100da3",
+      "da446e137e44a822a54cf464f6609817bec959f9",
+      "21f64ce7cb9fec10c9f93e4b0ec114ba887a787a"
+    ],
+    "imageUrl": "/images/articles/e91092ca1ee0.png",
+    "i18n": {
+      "ko": {
+        "title": "대웅제약, 월 1회 비만 치료제 임상 돌입…티온랩테라퓨틱스와 협력",
+        "excerpt": "대웅제약은 8일 티온랩테라퓨틱스와 전략적 제휴를 맺고 월 1회 투여 가능한 장기지속형 세마글루타이드 비만 치료제의 글로벌 개발과 상업화에 나섰다.",
+        "body": "대웅제약이 8일 국내 바이오텍 티온랩테라퓨틱스와 비만 치료용 세마글루타이드 월 1회 장기지속형 주사제의 글로벌 개발 및 상업화를 위한 전략적 제휴 협약을 체결했다고 밝혔다. 양사는 연내 첫 투약을 목표로 임상에 돌입한 상태다. 이번 협력은 티온랩테라퓨틱스의 장기지속형 약물 전달 플랫폼 ‘큐젝트 스피어’와 대웅제약의 의약품 개발, 임상, 사업화 역량을 결합하는 방식이다. 양사는 각자 보유한 독자 플랫폼을 활용해 월 1회 투여 치료제 구현을 목표로 한다. 대형 제약사와 바이오 스타트업이 보완적으로 협력하는 오픈 이노베이션 모델이라는 점도 강조됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Daewoong Starts Trials for Monthly Obesity Drug With TionLab Partnership",
+        "excerpt": "Daewoong Pharmaceutical said on the 8th it partnered with TionLab Therapeutics to develop and commercialize a once-monthly long-acting semaglutide obesity injection globally.",
+        "body": "Daewoong Pharmaceutical said on the 8th that it signed a strategic partnership agreement with Korean biotech TionLab Therapeutics for the global development and commercialization of a once-monthly long-acting semaglutide injection for obesity treatment. The companies have entered clinical development with the goal of first dosing within the year. The collaboration combines TionLab Therapeutics’ long-acting drug delivery platform, Qject Sphere, with Daewoong’s capabilities in drug development, clinical trials and commercialization. The two companies aim to realize a monthly treatment by combining their respective proprietary platforms. The partnership was also described as an open innovation model in which a major pharmaceutical company and a biotech startup complement each other. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "大熊製薬、月1回投与の肥満治療薬で臨床入り…TionLabと協力",
+        "excerpt": "大熊製薬は8日、TionLab Therapeuticsと戦略的提携を結び、月1回投与の長期持続型セマグルチド肥満治療注射剤の世界開発と商業化に乗り出した。",
+        "body": "大熊製薬は8日、韓国のバイオ企業TionLab Therapeuticsと、肥満治療用セマグルチドの月1回長期持続型注射剤について、世界開発および商業化に向けた戦略的提携契約を締結したと発表した。両社は年内の初回投与を目標に臨床段階に入っている。今回の協力は、TionLab Therapeuticsが持つ長期持続型薬物送達プラットフォーム「Qject Sphere」と、大熊製薬の医薬品開発、臨床、事業化能力を組み合わせるものだ。両社はそれぞれの独自プラットフォームを活用し、月1回投与の治療剤実現を目指す。大手製薬会社とバイオスタートアップが相互補完するオープンイノベーションモデルとしても位置づけられている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "大熊制药启动每月一次肥胖治疗药临床，与TionLab合作开发",
+        "excerpt": "大熊制药8日表示，已与TionLab Therapeutics达成战略合作，推进每月一次长效司美格鲁肽肥胖治疗注射剂的全球开发和商业化。",
+        "body": "大熊制药8日表示，已与韩国生物技术企业TionLab Therapeutics签署战略合作协议，共同推进用于肥胖治疗的每月一次长效司美格鲁肽注射剂的全球开发和商业化。两家公司目前已进入临床阶段，目标是在年内完成首次给药。此次合作将TionLab Therapeutics拥有的长效药物递送平台“Qject Sphere”与大熊制药在药品开发、临床和商业化方面的能力相结合。双方计划通过整合各自的独有平台技术，实现每月一次给药的治疗方案。该合作也被强调为大型制药企业与生物初创企业互补协作、共同成长的开放式创新模式。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Daewoong inicia ensayos de fármaco mensual contra la obesidad con TionLab",
+        "excerpt": "Daewoong Pharmaceutical anunció el día 8 una alianza con TionLab Therapeutics para desarrollar y comercializar globalmente una inyección mensual de semaglutida de acción prolongada contra la obesidad.",
+        "body": "Daewoong Pharmaceutical informó el día 8 que firmó un acuerdo de alianza estratégica con la biotecnológica surcoreana TionLab Therapeutics para el desarrollo global y la comercialización de una inyección de semaglutida de acción prolongada, administrada una vez al mes, para tratar la obesidad. Las compañías ya entraron en fase clínica con el objetivo de realizar la primera administración dentro de este año. La cooperación combina la plataforma de administración de fármacos de acción prolongada de TionLab Therapeutics, Qject Sphere, con la capacidad de Daewoong en desarrollo farmacéutico, ensayos clínicos y comercialización. Ambas buscan materializar un tratamiento mensual usando sus plataformas propias. También se destacó como un modelo de innovación abierta entre una gran farmacéutica y una startup biotecnológica. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Daewoong inicia estudo de remédio mensal contra obesidade com TionLab",
+        "excerpt": "A Daewoong Pharmaceutical anunciou no dia 8 uma parceria com a TionLab Therapeutics para desenvolver e comercializar globalmente uma injeção mensal de semaglutida de longa ação contra a obesidade.",
+        "body": "A Daewoong Pharmaceutical informou no dia 8 que assinou um acordo de parceria estratégica com a biotecnológica sul-coreana TionLab Therapeutics para o desenvolvimento global e a comercialização de uma injeção de semaglutida de longa ação, aplicada uma vez por mês, para tratamento da obesidade. As empresas já entraram na fase clínica, com meta de realizar a primeira administração ainda este ano. A colaboração combina a plataforma de entrega de medicamentos de longa duração da TionLab Therapeutics, Qject Sphere, com as capacidades da Daewoong em desenvolvimento de fármacos, estudos clínicos e comercialização. As duas pretendem concretizar um tratamento mensal usando suas plataformas próprias. A parceria também foi apresentada como um modelo de inovação aberta entre uma grande farmacêutica e uma startup de biotecnologia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Daewoong startet Studie zu monatlicher Adipositas-Therapie mit TionLab",
+        "excerpt": "Daewoong Pharmaceutical gab am 8. eine strategische Partnerschaft mit TionLab Therapeutics bekannt, um eine einmal monatliche langwirksame Semaglutid-Injektion gegen Adipositas weltweit zu entwickeln und zu vermarkten.",
+        "body": "Daewoong Pharmaceutical teilte am 8. mit, dass das Unternehmen mit dem koreanischen Biotech-Unternehmen TionLab Therapeutics eine strategische Partnerschaft für die globale Entwicklung und Vermarktung einer einmal monatlich verabreichten langwirksamen Semaglutid-Injektion zur Behandlung von Adipositas geschlossen hat. Die Unternehmen sind mit dem Ziel einer ersten Verabreichung noch in diesem Jahr in die klinische Entwicklung eingetreten. Die Zusammenarbeit verbindet TionLab Therapeutics’ langwirksame Wirkstoffabgabeplattform Qject Sphere mit Daewoongs Kompetenzen in Arzneimittelentwicklung, klinischen Studien und Kommerzialisierung. Beide Seiten wollen durch die Kombination ihrer eigenen Plattformtechnologien eine monatliche Therapie ermöglichen. Hervorgehoben wurde zudem ein Open-Innovation-Modell, bei dem ein großer Pharmakonzern und ein Biotech-Startup sich ergänzen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Daewoong lance l’essai d’un traitement mensuel de l’obésité avec TionLab",
+        "excerpt": "Daewoong Pharmaceutical a annoncé le 8 un partenariat avec TionLab Therapeutics pour développer et commercialiser à l’échelle mondiale une injection mensuelle de sémaglutide à action prolongée contre l’obésité.",
+        "body": "Daewoong Pharmaceutical a annoncé le 8 avoir signé un accord de partenariat stratégique avec la biotech sud-coréenne TionLab Therapeutics pour le développement mondial et la commercialisation d’une injection de sémaglutide à action prolongée, administrée une fois par mois, destinée au traitement de l’obésité. Les deux entreprises sont entrées en phase clinique avec pour objectif une première administration d’ici la fin de l’année. Cette coopération associe la plateforme d’administration prolongée de médicaments de TionLab Therapeutics, Qject Sphere, aux capacités de Daewoong en développement pharmaceutique, essais cliniques et commercialisation. Les deux sociétés visent un traitement mensuel en combinant leurs plateformes propriétaires. Le partenariat est aussi présenté comme un modèle d’innovation ouverte entre un grand laboratoire et une startup biotech. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "دايوونغ تبدأ تجربة علاج شهري للسمنة بالشراكة مع تيونلاب ثيرابيوتكس",
+        "excerpt": "أعلنت دايوونغ فارماسيوتيكال في 8 من الشهر اتفاقا استراتيجيا مع تيونلاب ثيرابيوتكس لتطوير وتسويق حقنة سيماجلوتايد طويلة المفعول لعلاج السمنة تعطى مرة شهريا عالميا.",
+        "body": "أعلنت دايوونغ فارماسيوتيكال في 8 من الشهر أنها وقعت اتفاق شراكة استراتيجية مع شركة التكنولوجيا الحيوية الكورية تيونلاب ثيرابيوتكس من أجل التطوير العالمي والتسويق لحقنة سيماجلوتايد طويلة المفعول لعلاج السمنة تعطى مرة واحدة شهريا. ودخلت الشركتان المرحلة السريرية بهدف إعطاء الجرعة الأولى خلال هذا العام. وتجمع هذه الشراكة بين منصة تيونلاب ثيرابيوتكس لتوصيل الأدوية طويلة المفعول، كيوجكت سفير، وقدرات دايوونغ في تطوير الأدوية والتجارب السريرية والتسويق التجاري. وتهدف الشركتان إلى تحقيق علاج يعطى مرة شهريا عبر دمج منصتيهما المملوكتين. كما جرى التأكيد على أنها نموذج ابتكار مفتوح تتكامل فيه شركة أدوية كبرى مع شركة ناشئة في التكنولوجيا الحيوية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Daewoong ने मासिक मोटापा उपचार के क्लिनिकल परीक्षण शुरू किए, TionLab से साझेदारी",
+        "excerpt": "Daewoong Pharmaceutical ने 8 तारीख को TionLab Therapeutics के साथ रणनीतिक समझौता किया, जिसके तहत मासिक दी जाने वाली लंबी अवधि की सेमाग्लूटाइड मोटापा उपचार इंजेक्शन का वैश्विक विकास और व्यावसायीकरण होगा।",
+        "body": "Daewoong Pharmaceutical ने 8 तारीख को बताया कि उसने कोरियाई बायोटेक कंपनी TionLab Therapeutics के साथ मोटापा उपचार के लिए महीने में एक बार दी जाने वाली लंबी अवधि की सेमाग्लूटाइड इंजेक्शन के वैश्विक विकास और व्यावसायीकरण हेतु रणनीतिक साझेदारी समझौता किया है। दोनों कंपनियां इस वर्ष के भीतर पहली खुराक देने के लक्ष्य के साथ क्लिनिकल चरण में प्रवेश कर चुकी हैं। यह सहयोग TionLab Therapeutics के लंबी अवधि के ड्रग डिलीवरी प्लेटफॉर्म Qject Sphere और Daewoong की दवा विकास, क्लिनिकल परीक्षण तथा व्यावसायीकरण क्षमताओं को जोड़ता है। दोनों कंपनियां अपनी स्वामित्व वाली प्लेटफॉर्म तकनीकों के संयोजन से मासिक उपचार को साकार करने का लक्ष्य रखती हैं। इसे बड़ी फार्मा कंपनी और बायोटेक स्टार्टअप के पूरक सहयोग वाले ओपन इनोवेशन मॉडल के रूप में भी बताया गया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Daewoong Mulai Uji Obat Obesitas Bulanan, Gandeng TionLab Therapeutics",
+        "excerpt": "Daewoong Pharmaceutical pada tanggal 8 mengumumkan kemitraan strategis dengan TionLab Therapeutics untuk mengembangkan dan mengomersialkan secara global suntikan semaglutide kerja panjang sebulan sekali untuk obesitas.",
+        "body": "Daewoong Pharmaceutical menyatakan pada tanggal 8 bahwa pihaknya menandatangani perjanjian kemitraan strategis dengan perusahaan biotek Korea, TionLab Therapeutics, untuk pengembangan global dan komersialisasi suntikan semaglutide kerja panjang yang diberikan sebulan sekali untuk pengobatan obesitas. Kedua perusahaan telah memasuki tahap klinis dengan target pemberian pertama dalam tahun ini. Kerja sama ini menggabungkan platform penghantaran obat kerja panjang milik TionLab Therapeutics, Qject Sphere, dengan kemampuan Daewoong dalam pengembangan obat, uji klinis, dan komersialisasi. Keduanya menargetkan terwujudnya terapi sebulan sekali melalui kombinasi platform masing-masing. Kemitraan ini juga ditekankan sebagai model inovasi terbuka antara perusahaan farmasi besar dan startup biotek yang saling melengkapi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "03eb2378f6e8",
+    "slug": "10억-전후-서울-아파트-산다면-초등학생-많은-대단지-노려라-689753",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T11:22:09.403Z",
+    "updatedAt": "2026-05-08T11:22:09.404Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041343",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041343",
+    "titleFingerprint": "1382994b3553c99673c7877cd2bd1bdf32675d3c",
+    "dedupKeys": [
+      "03eb2378f6e81b060e07cf07dcf3640647af785d",
+      "1382994b3553c99673c7877cd2bd1bdf32675d3c",
+      "661fad54ccfd396116ed3417a7a07ef8cfe0fab0"
+    ],
+    "imageUrl": "/images/articles/03eb2378f6e8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "10억 전후 서울 아파트 매수, 초등학생 많은 대단지가 주목받는 이유",
+        "excerpt": "서울에서 10억 원 전후 중저가 아파트를 찾는 실수요자와 투자자는 같은 가격대라면 초등학생이 많은 대단지의 실거주 가치와 투자 여지를 함께 살펴봐야 한다.",
+        "body": "서울에서 10억 원 전후 아파트를 사려는 수요자라면 초등학생이 많은 대단지를 눈여겨볼 필요가 있다는 분석이 나왔다. 중저가 서울 아파트는 실거주 가치가 강한 시장으로 분류된다. 이 때문에 가격 상승 여력은 상대적으로 제한적이라는 평가가 붙는다. 다만 같은 가격대라면 단지 규모가 크고 초등학생 수요가 뒷받침되는 곳이 투자 가치 측면에서 비교 우위를 가질 수 있다는 설명이다. 실거주 기반이 탄탄한 단지는 매수자의 선택지에서 꾸준히 검토될 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartments Around 1 Billion Won: Why Large Complexes With Many Pupils Stand Out",
+        "excerpt": "For buyers looking at mid- to lower-priced Seoul apartments around 1 billion won, large complexes with many elementary school students may offer relatively better end-use value and investment appeal.",
+        "body": "Buyers considering apartments in Seoul priced around 1 billion won are being advised to look closely at large complexes with many elementary school students. Mid- to lower-priced apartments in Seoul are described as a market supported by strong owner-occupier demand. That also means their upside potential may be relatively limited. Even so, when prices are similar, complexes with large scale and steady elementary school demand may hold comparatively better investment value. Such properties can remain on buyers’ lists because their residential value is supported by actual living needs. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "10億ウォン前後のソウルマンション、小学生が多い大規模団地に注目",
+        "excerpt": "ソウルで10億ウォン前後の中低価格マンションを探す実需層や投資家は、同じ価格帯なら小学生が多い大規模団地の居住価値と投資余地を確認する必要がある。",
+        "body": "ソウルで10億ウォン前後のマンション購入を検討するなら、小学生が多い大規模団地に注目する必要があるとの分析が出ている。ソウルの中低価格マンションは、実際の居住需要が強い市場と位置づけられる。そのため価格上昇余地は相対的に限られるとの評価もある。ただし同じ価格帯であれば、団地規模が大きく、小学生需要に支えられる物件は投資価値の面で比較優位を持ち得るという説明だ。実需基盤がしっかりした団地は、買い手の選択肢として継続的に検討される可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔约10亿韩元公寓，为何应关注小学生多的大型小区",
+        "excerpt": "在首尔寻找约10亿韩元中低价公寓的自住买家和投资者，应在同等价格下关注小学生较多的大型小区，比较其居住价值与投资空间。",
+        "body": "有分析认为，若计划购买首尔约10亿韩元的公寓，需要关注小学生较多的大型小区。首尔中低价公寓被视为由实际居住需求支撑较强的市场。因此，其价格上涨空间相对有限。不过，在价格相同的情况下，规模较大且有小学生需求支撑的小区，可能在投资价值方面具备相对优势。居住基础稳固的小区，未来仍可能持续进入买家的考量范围。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Apartamentos en Seúl cerca de 1.000 millones de wones: atención a grandes complejos con escolares",
+        "excerpt": "Quienes buscan apartamentos de precio medio-bajo en Seúl, cerca de 1.000 millones de wones, deberían comparar complejos grandes con muchos alumnos de primaria por su valor residencial e inversión.",
+        "body": "Para quienes consideran comprar un apartamento en Seúl por alrededor de 1.000 millones de wones, el análisis apunta a observar los grandes complejos con muchos estudiantes de primaria. Los apartamentos de precio medio-bajo en Seúl se consideran un mercado sostenido por un fuerte valor de uso residencial. Por eso, su margen de subida de precios se evalúa como relativamente limitado. Aun así, si el precio es similar, los complejos de mayor escala y con demanda de alumnos de primaria pueden tener una ventaja comparativa en valor de inversión. Los complejos con una base sólida de residencia real pueden seguir siendo revisados por los compradores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Seul perto de 1 bilhão de won: grandes condomínios com alunos ganham atenção",
+        "excerpt": "Quem procura apartamentos de preço médio-baixo em Seul, perto de 1 bilhão de won, deve observar grandes condomínios com muitos alunos do ensino fundamental pelo valor de moradia e investimento.",
+        "body": "Para compradores que avaliam apartamentos em Seul na faixa de 1 bilhão de won, a análise indica atenção aos grandes condomínios com muitos alunos do ensino fundamental. Os apartamentos de preço médio-baixo em Seul são vistos como um mercado sustentado por forte valor de moradia real. Por isso, o potencial de alta dos preços é considerado relativamente limitado. Ainda assim, em uma mesma faixa de preço, condomínios maiores e apoiados pela demanda de estudantes podem ter vantagem comparativa em valor de investimento. Empreendimentos com base sólida de uso residencial podem continuar no radar dos compradores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul-Wohnungen um 1 Milliarde Won: Warum große Anlagen mit vielen Grundschülern auffallen",
+        "excerpt": "Wer in Seoul mittel- bis niedrigpreisige Wohnungen um 1 Milliarde Won sucht, sollte bei gleichem Preis große Anlagen mit vielen Grundschülern wegen Wohnwert und Anlagepotenzial prüfen.",
+        "body": "Käufer, die in Seoul Wohnungen um rund 1 Milliarde Won in Betracht ziehen, sollten laut Analyse große Wohnanlagen mit vielen Grundschülern genauer ansehen. Mittel- bis niedrigpreisige Wohnungen in Seoul gelten als Markt mit starkem tatsächlichem Wohnwert. Dadurch wird ihr Preisanstiegspotenzial als relativ begrenzt eingeschätzt. Bei ähnlichem Preis können jedoch große Anlagen, die von Nachfrage durch Grundschüler-Familien gestützt werden, beim Anlagewert einen relativen Vorteil haben. Wohnanlagen mit stabiler Eigennutzerbasis dürften daher weiterhin auf den Prüflisten von Käufern stehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Appartements à Séoul autour de 1 milliard de wons: les grands ensembles avec écoliers à surveiller",
+        "excerpt": "À Séoul, les acheteurs d’appartements de milieu ou bas de gamme autour de 1 milliard de wons devraient examiner les grands ensembles comptant de nombreux élèves du primaire.",
+        "body": "Pour les acheteurs qui envisagent un appartement à Séoul autour de 1 milliard de wons, l’analyse recommande de regarder les grands ensembles où vivent de nombreux élèves du primaire. Les appartements de prix moyen à bas à Séoul sont considérés comme un marché porté par une forte valeur d’usage résidentiel. Cela limite relativement leur potentiel de hausse des prix. Toutefois, à prix comparable, les grands ensembles soutenus par une demande liée aux élèves du primaire peuvent présenter un avantage relatif en matière de valeur d’investissement. Les complexes dotés d’une base solide de résidence réelle peuvent rester dans les options étudiées par les acheteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شقق سيول حول مليار وون: لماذا تبرز المجمعات الكبيرة ذات طلاب الابتدائي",
+        "excerpt": "على الباحثين عن شقق متوسطة أو منخفضة السعر في سيول حول مليار وون مقارنة المجمعات الكبيرة التي تضم عددا كبيرا من طلاب الابتدائي لقيمتها السكنية والاستثمارية.",
+        "body": "تشير قراءة للسوق إلى أن من يخطط لشراء شقة في سيول بسعر يقارب مليار وون عليه النظر إلى المجمعات الكبيرة التي تضم عددا كبيرا من طلاب المرحلة الابتدائية. فالشقق المتوسطة والمنخفضة السعر في سيول تعد سوقا تستند بقوة إلى قيمة السكن الفعلي. لذلك ينظر إلى إمكانية ارتفاع أسعارها على أنها محدودة نسبيا. ومع ذلك، إذا كان السعر متشابها، فقد تتمتع المجمعات الأكبر حجما والمدعومة بطلب طلاب الابتدائي بميزة نسبية من حيث القيمة الاستثمارية. وقد تبقى المجمعات ذات قاعدة السكن الفعلي القوية ضمن خيارات المشترين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल में करीब 1 अरब वॉन के अपार्टमेंट: प्राथमिक छात्रों वाले बड़े कॉम्प्लेक्स क्यों अहम",
+        "excerpt": "सियोल में करीब 1 अरब वॉन के मध्यम-निम्न कीमत वाले अपार्टमेंट खोजने वालों को समान कीमत पर अधिक प्राथमिक छात्रों वाले बड़े कॉम्प्लेक्स के आवासीय और निवेश मूल्य को देखना चाहिए।",
+        "body": "सियोल में करीब 1 अरब वॉन के अपार्टमेंट खरीदने पर विचार कर रहे खरीदारों के लिए विश्लेषण है कि अधिक प्राथमिक विद्यालय छात्रों वाले बड़े कॉम्प्लेक्स पर ध्यान देना चाहिए। सियोल के मध्यम से निम्न कीमत वाले अपार्टमेंट को मजबूत वास्तविक आवासीय मांग वाला बाजार माना जाता है। इसी कारण इनमें कीमत बढ़ने की गुंजाइश अपेक्षाकृत सीमित आंकी जाती है। फिर भी समान कीमत होने पर बड़े आकार और प्राथमिक छात्र मांग से समर्थित कॉम्प्लेक्स निवेश मूल्य में तुलनात्मक बढ़त रख सकते हैं। मजबूत वास्तविक निवास आधार वाले कॉम्प्लेक्स खरीदारों की सूची में बने रह सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Apartemen Seoul Sekitar 1 Miliar Won: Kompleks Besar dengan Banyak Siswa SD Jadi Sorotan",
+        "excerpt": "Pembeli apartemen kelas menengah-bawah di Seoul sekitar 1 miliar won perlu menilai kompleks besar dengan banyak siswa SD karena nilai hunian dan peluang investasinya relatif lebih baik.",
+        "body": "Bagi pembeli yang mempertimbangkan apartemen di Seoul sekitar 1 miliar won, analisis menyarankan untuk mencermati kompleks besar dengan banyak siswa sekolah dasar. Apartemen kelas menengah-bawah di Seoul digambarkan sebagai pasar yang kuat dari sisi nilai hunian nyata. Karena itu, ruang kenaikan harganya dinilai relatif terbatas. Namun, jika berada pada harga yang sama, kompleks berskala besar dan didukung permintaan dari siswa SD dapat memiliki keunggulan komparatif dalam nilai investasi. Kompleks dengan dasar hunian nyata yang kuat berpotensi tetap masuk dalam pertimbangan pembeli. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "077d79db38fc",
     "slug": "매물-잠김-우려-커지자임대사업자-양도세-혜택도-축소-검토-743697",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kospi Cetak Rekor 7.490, Samsung Electronics dan SK Hynix Sentuh Level Tertinggi",
         "excerpt": "Pada 7 Mei, Kospi ditutup di rekor 7.490,05 didorong ekspektasi supercycle semikonduktor, sementara Samsung Electronics dan SK Hynix juga mencetak level tertinggi baru.",
         "body": "Kospi ditutup pada 7 Mei di 7.490,05, naik 1,43% dari sesi sebelumnya, melanjutkan deretan rekor tertinggi sepanjang masa. Ekspektasi supercycle semikonduktor mengangkat indeks, sementara tren kenaikan target harga untuk Samsung Electronics dan SK Hynix turut mendukung sentimen investor. Investor asing mencatat jual bersih 7,15 triliun won, tetapi investor individu membeli bersih 5,98 triliun won dan institusi 1,09 triliun won, mendorong pasar naik. Samsung Electronics mencapai 271.500 won dan SK Hynix 1.654.000 won, keduanya mencetak level tertinggi baru. Pasar saham Korea menyalip Kanada dan berada di peringkat ketujuh dunia berdasarkan kapitalisasi pasar. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "f63487166011",
-    "slug": "韓美日-전성비-가성비-ai-메모리-통합칩-공동-개발해야-247304",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T22:02:04.714Z",
-    "updatedAt": "2026-05-07T22:02:04.714Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881554/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881554/2",
-    "titleFingerprint": "1e882417c2c871757ca134200a747f05e064c7af",
-    "dedupKeys": [
-      "f634871660110d25fd34e997ff257e55c2106c27",
-      "1e882417c2c871757ca134200a747f05e064c7af",
-      "9cd68e8f6a36b3b11310736f9e487d3766985164"
-    ],
-    "imageUrl": "/images/articles/f63487166011.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한미일 AI 메모리 통합칩 공동 개발론 부상, 전성비·가성비 경쟁 대응",
-        "excerpt": "대한상의와 한미협회가 7일 서울에서 연 콘퍼런스에서 전문가들은 AI 시대 메모리 반도체·에너지·냉각 인프라 공동 R&D 필요성을 강조했다.",
-        "body": "한국과 미국, 일본이 AI 시대 핵심 분야인 메모리 반도체와 에너지 인프라에서 공동 연구개발 기반을 마련해야 한다는 제안이 나왔다. 대한상공회의소와 한미협회는 7일 서울 중구 대한상의회관에서 ‘제6회 한미 산업협력 콘퍼런스’를 열고 3국 경제·산업 전문가들의 협력 논의를 진행했다. 참석 전문가들은 글로벌 AI 경쟁이 심화되는 상황에서 한미일 공동 대응이 필요하다고 봤다. 권석준 성균관대 화학공학과 교수는 AI 생태계가 학습에서 추론으로, 성능 경쟁에서 전성비와 가성비 경쟁으로 옮겨가고 있다며 컴퓨팅·에너지·냉각 인프라 공동 개발과 AI 데이터센터 전용 메모리 공동연구센터 구축을 제안했다. 한미일 스타트업이 함께 활용할 AI 인프라 필요성도 제기됐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Korea, US and Japan urged to co-develop AI memory chips for power and cost efficiency",
-        "excerpt": "At a Seoul conference on May 7, experts from Korea, the US and Japan called for joint R&D in AI-era memory semiconductors, energy and cooling infrastructure.",
-        "body": "A proposal has emerged for Korea, the United States and Japan to build a joint R&D foundation in memory semiconductors and energy infrastructure, key fields in the AI era. The Korea Chamber of Commerce and Industry and the Korea-America Association held the 6th Korea-US Industrial Cooperation Conference on May 7 at the KCCI building in Jung-gu, Seoul, bringing together economic and industrial experts from the three countries. Participants said a coordinated response is needed as global AI competition intensifies. Kwon Seok-joon, a professor of chemical engineering at Sungkyunkwan University, said the AI ecosystem is shifting from training to inference and from simple performance competition to power-efficiency and cost-efficiency competition. He proposed joint development of computing, energy and cooling infrastructure and a joint research center for memory dedicated to AI data centers. The need for AI infrastructure shared by startups from the three countries was also raised. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓米日、AIメモリー統合チップ共同開発論が浮上　電力効率・価格効率に対応",
-        "excerpt": "大韓商工会議所と韓米協会が5月7日にソウルで開いた会議で、専門家らはAI時代のメモリー半導体、エネルギー、冷却インフラの共同R&Dを強調した。",
-        "body": "韓国、米国、日本がAI時代の核心分野であるメモリー半導体とエネルギーインフラで共同研究開発の基盤を築くべきだとの提案が出た。大韓商工会議所と韓米協会は5月7日、ソウル中区の大韓商工会議所会館で「第6回韓米産業協力カンファレンス」を開き、3カ国の経済・産業専門家が協力を議論した。出席者は、世界的なAI競争が激しくなる中で韓米日の共同対応が必要だと強調した。成均館大学化学工学科の権錫俊教授は、AIエコシステムが学習から推論へ、単純な性能競争から電力効率と価格効率の競争へ移っていると述べ、コンピューティング、エネルギー、冷却インフラの共同開発とAIデータセンター専用メモリーの共同研究センター設立を提案した。3カ国のスタートアップが共同利用できるAIインフラの必要性も提起された。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩美日被建议联合开发AI存储集成芯片，应对能效与性价比竞争",
-        "excerpt": "大韩商工会议所和韩美协会5月7日在首尔举行会议，专家强调AI时代存储半导体、能源和冷却基础设施共同研发的必要性。",
-        "body": "韩国、美国和日本应在AI时代的关键领域存储半导体和能源基础设施上建立共同研发基础的建议被提出。大韩商工会议所和韩美协会5月7日在首尔中区大韩商工会议所会馆举行“第六届韩美产业合作会议”，三国经济和产业专家参加并讨论合作。与会专家认为，在全球AI竞争加剧的背景下，韩美日三国需要共同应对。成均馆大学化学工程系教授权锡俊表示，AI生态系统正从训练转向推理，也从单纯性能竞争转向能效和性价比竞争。他建议三国共同开发计算、能源和冷却基础设施，并建立面向AI数据中心专用存储的联合研究中心。会议还提出了三国初创企业可共同使用的AI基础设施需求。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Corea, EE. UU. y Japón son instados a desarrollar chips de memoria para IA eficientes",
-        "excerpt": "En una conferencia celebrada el 7 de mayo en Seúl, expertos pidieron I+D conjunta en semiconductores de memoria, energía e infraestructura de refrigeración para la era de la IA.",
-        "body": "Se planteó que Corea del Sur, Estados Unidos y Japón deberían crear una base conjunta de I+D en semiconductores de memoria e infraestructura energética, áreas esenciales en la era de la inteligencia artificial. La Cámara de Comercio e Industria de Corea y la Asociación Corea-Estados Unidos celebraron el 7 de mayo la sexta Conferencia de Cooperación Industrial Corea-EE. UU. en el edificio de la KCCI, en Jung-gu, Seúl, con expertos económicos e industriales de los tres países. Los asistentes subrayaron que se necesita una respuesta conjunta ante la creciente competencia global en IA. Kwon Seok-joon, profesor de ingeniería química en la Universidad Sungkyunkwan, dijo que el ecosistema de IA pasa del entrenamiento a la inferencia y de la competencia por rendimiento simple a la eficiencia energética y de costos. Propuso desarrollar conjuntamente infraestructura de computación, energía y refrigeración, además de un centro de investigación de memoria para centros de datos de IA. También se mencionó la necesidad de infraestructura de IA compartida por startups de los tres países. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Coreia, EUA e Japão devem codesenvolver chips de memória para IA com eficiência e custo",
-        "excerpt": "Em conferência realizada em 7 de maio em Seul, especialistas defenderam P&D conjunta em memória semicondutora, energia e infraestrutura de resfriamento para a era da IA.",
-        "body": "Foi apresentada a proposta de que Coreia do Sul, Estados Unidos e Japão criem uma base conjunta de P&D em semicondutores de memória e infraestrutura de energia, áreas essenciais na era da inteligência artificial. A Câmara de Comércio e Indústria da Coreia e a Associação Coreia-EUA realizaram, em 7 de maio, a 6ª Conferência de Cooperação Industrial Coreia-EUA no edifício da KCCI, em Jung-gu, Seul, reunindo especialistas econômicos e industriais dos três países. Os participantes afirmaram que uma resposta conjunta é necessária diante da intensificação da competição global em IA. Kwon Seok-joon, professor de engenharia química da Universidade Sungkyunkwan, disse que o ecossistema de IA está passando do treinamento para a inferência e da disputa por desempenho simples para a competição por eficiência energética e de custo. Ele propôs o desenvolvimento conjunto de infraestrutura de computação, energia e resfriamento, além de um centro de pesquisa para memória dedicada a data centers de IA. Também foi levantada a necessidade de infraestrutura de IA compartilhada por startups dos três países. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Korea, USA und Japan sollen KI-Speicherchips gemeinsam für Effizienz und Kosten entwickeln",
-        "excerpt": "Auf einer Konferenz am 7. Mai in Seoul betonten Fachleute gemeinsamen F&E-Bedarf bei KI-Speicherhalbleitern, Energie und Kühlungsinfrastruktur.",
-        "body": "Es wurde vorgeschlagen, dass Südkorea, die USA und Japan eine gemeinsame F&E-Grundlage für Speicherhalbleiter und Energieinfrastruktur schaffen, zentrale Bereiche im Zeitalter der künstlichen Intelligenz. Die Korea Chamber of Commerce and Industry und die Korea-America Association veranstalteten am 7. Mai im KCCI-Gebäude in Jung-gu, Seoul, die 6. Konferenz zur industriellen Zusammenarbeit zwischen Korea und den USA. Wirtschafts- und Industrieexperten der drei Länder kamen dort zu Kooperationsgesprächen zusammen. Die Teilnehmer betonten, dass angesichts des verschärften globalen KI-Wettbewerbs eine gemeinsame Reaktion von Korea, den USA und Japan nötig sei. Kwon Seok-joon, Professor für Chemieingenieurwesen an der Sungkyunkwan University, sagte, das KI-Ökosystem verlagere sich vom Training zur Inferenz und vom reinen Leistungswettbewerb zu Energie- und Kosteneffizienz. Er schlug gemeinsame Entwicklung bei Computing, Energie und Kühlung sowie ein Forschungszentrum für Speicher speziell für KI-Rechenzentren vor. Auch der Bedarf an KI-Infrastruktur, die Start-ups der drei Länder gemeinsam nutzen können, wurde angesprochen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Corée, États-Unis et Japon appelés à codévelopper des puces mémoire IA efficaces",
-        "excerpt": "Lors d’une conférence à Séoul le 7 mai, des experts ont appelé à une R&D commune sur les semi-conducteurs mémoire, l’énergie et le refroidissement pour l’ère de l’IA.",
-        "body": "La Corée du Sud, les États-Unis et le Japon devraient établir une base commune de recherche et développement dans les semi-conducteurs mémoire et les infrastructures énergétiques, domaines essentiels à l’ère de l’intelligence artificielle, selon une proposition présentée à Séoul. La Chambre de commerce et d’industrie de Corée et l’Association Corée-États-Unis ont organisé le 7 mai, au siège de la KCCI à Jung-gu, la 6e Conférence de coopération industrielle Corée-États-Unis, réunissant des experts économiques et industriels des trois pays. Les participants ont souligné la nécessité d’une réponse conjointe face à l’intensification de la concurrence mondiale dans l’IA. Kwon Seok-joon, professeur de génie chimique à l’Université Sungkyunkwan, a déclaré que l’écosystème de l’IA passait de l’entraînement à l’inférence et d’une compétition de performance pure à une compétition d’efficacité énergétique et de coût. Il a proposé un développement conjoint des infrastructures de calcul, d’énergie et de refroidissement ainsi qu’un centre de recherche sur la mémoire dédiée aux centres de données IA. Le besoin d’une infrastructure IA partagée par les startups des trois pays a aussi été évoqué. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "دعوة كوريا والولايات المتحدة واليابان لتطوير رقائق ذاكرة للذكاء الاصطناعي بكفاءة أعلى",
-        "excerpt": "في مؤتمر عقد في سيول في 7 مايو، شدد خبراء على الحاجة إلى بحث وتطوير مشترك في ذاكرة أشباه الموصلات والطاقة والتبريد لعصر الذكاء الاصطناعي.",
-        "body": "طُرح اقتراح بأن تبني كوريا الجنوبية والولايات المتحدة واليابان أساسا مشتركا للبحث والتطوير في أشباه موصلات الذاكرة وبنية الطاقة، وهما من المجالات الأساسية في عصر الذكاء الاصطناعي. عقدت غرفة التجارة والصناعة الكورية والجمعية الكورية الأميركية في 7 مايو مؤتمر التعاون الصناعي الكوري الأميركي السادس في مبنى الغرفة بمنطقة جونغ في سيول، بمشاركة خبراء اقتصاديين وصناعيين من الدول الثلاث. وأكد المشاركون أن المنافسة العالمية في الذكاء الاصطناعي تتطلب استجابة مشتركة من كوريا والولايات المتحدة واليابان. وقال كوون سوك جون، أستاذ الهندسة الكيميائية في جامعة سونغكيونكوان، إن منظومة الذكاء الاصطناعي تنتقل من التدريب إلى الاستدلال، ومن منافسة الأداء المجرد إلى منافسة كفاءة استهلاك الطاقة وكفاءة التكلفة. واقترح تطويرا مشتركا للبنية التحتية للحوسبة والطاقة والتبريد، وإنشاء مركز أبحاث مشترك لذاكرة مخصصة لمراكز بيانات الذكاء الاصطناعي. كما طُرحت الحاجة إلى بنية تحتية للذكاء الاصطناعي يمكن للشركات الناشئة في الدول الثلاث استخدامها معا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "कोरिया, अमेरिका और जापान से AI मेमोरी चिप संयुक्त विकास की अपील, दक्षता पर जोर",
-        "excerpt": "7 मई को सियोल में हुए सम्मेलन में विशेषज्ञों ने AI युग के लिए मेमोरी सेमीकंडक्टर, ऊर्जा और कूलिंग इन्फ्रास्ट्रक्चर में संयुक्त R&D की जरूरत बताई।",
-        "body": "दक्षिण कोरिया, अमेरिका और जापान को AI युग के प्रमुख क्षेत्रों, मेमोरी सेमीकंडक्टर और ऊर्जा इन्फ्रास्ट्रक्चर, में संयुक्त अनुसंधान एवं विकास आधार बनाना चाहिए, यह प्रस्ताव सामने आया। कोरिया चैंबर ऑफ कॉमर्स एंड इंडस्ट्री और कोरिया-अमेरिका एसोसिएशन ने 7 मई को सियोल के जंग-गु स्थित KCCI भवन में छठा कोरिया-अमेरिका औद्योगिक सहयोग सम्मेलन आयोजित किया, जहां तीनों देशों के आर्थिक और औद्योगिक विशेषज्ञों ने सहयोग पर चर्चा की। विशेषज्ञों ने कहा कि वैश्विक AI प्रतिस्पर्धा तेज होने के बीच कोरिया, अमेरिका और जापान की संयुक्त प्रतिक्रिया जरूरी है। सुंगक्युनक्वान विश्वविद्यालय के रासायनिक अभियांत्रिकी प्रोफेसर क्वोन सॉक-जून ने कहा कि AI पारिस्थितिकी तंत्र प्रशिक्षण से इन्फरेंस की ओर और केवल प्रदर्शन प्रतिस्पर्धा से बिजली-दक्षता व लागत-दक्षता प्रतिस्पर्धा की ओर बढ़ रहा है। उन्होंने कंप्यूटिंग, ऊर्जा और कूलिंग इन्फ्रास्ट्रक्चर के संयुक्त विकास तथा AI डेटा सेंटरों के लिए समर्पित मेमोरी पर संयुक्त शोध केंद्र बनाने का प्रस्ताव रखा। तीनों देशों के स्टार्टअप द्वारा साझा उपयोग योग्य AI इन्फ्रास्ट्रक्चर की जरूरत भी उठाई गई। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Korea, AS, Jepang didorong kembangkan chip memori AI bersama demi efisiensi biaya",
-        "excerpt": "Dalam konferensi di Seoul pada 7 Mei, para pakar menekankan perlunya R&D bersama untuk semikonduktor memori, energi, dan infrastruktur pendinginan era AI.",
-        "body": "Muncul usulan agar Korea Selatan, Amerika Serikat, dan Jepang membangun dasar riset dan pengembangan bersama di bidang semikonduktor memori serta infrastruktur energi, sektor penting pada era kecerdasan buatan. Kamar Dagang dan Industri Korea bersama Korea-America Association menggelar Konferensi Kerja Sama Industri Korea-AS ke-6 pada 7 Mei di gedung KCCI, Jung-gu, Seoul, dengan menghadirkan pakar ekonomi dan industri dari tiga negara. Para peserta menekankan perlunya respons bersama Korea, AS, dan Jepang di tengah meningkatnya persaingan AI global. Kwon Seok-joon, profesor teknik kimia Universitas Sungkyunkwan, mengatakan ekosistem AI bergeser dari pelatihan ke inferensi serta dari persaingan kinerja semata ke persaingan efisiensi daya dan biaya. Ia mengusulkan pengembangan bersama infrastruktur komputasi, energi, dan pendinginan, serta pusat riset bersama untuk memori khusus pusat data AI. Kebutuhan infrastruktur AI yang dapat digunakan bersama oleh startup dari tiga negara juga disampaikan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "729efb536c46",
-    "slug": "스몰-럭셔리-붐-타고-호텔-망고빙수-13만원-202687",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T22:00:50.003Z",
-    "updatedAt": "2026-05-07T22:00:50.003Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881552/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881552/2",
-    "titleFingerprint": "bd068125e81c95e5399c16d6b9fc2173b67c9297",
-    "dedupKeys": [
-      "729efb536c463998cf331b44466f6533beb5ca92",
-      "bd068125e81c95e5399c16d6b9fc2173b67c9297",
-      "d6166a114e3ecb54f8009cecd43fd47d72c3a5d8"
-    ],
-    "imageUrl": "/images/articles/729efb536c46.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호텔 애플망고 빙수 가격 또 인상, 시그니엘 13만5000원까지 올랐다",
-        "excerpt": "7일 호텔업계에 따르면 서울 주요 특급호텔들이 여름 대표 상품인 애플망고 빙수 가격을 올해도 올렸다. 고급 과일과 인건비 등 비용 상승이 배경이다.",
-        "body": "서울 주요 특급호텔의 여름 대표 상품인 애플망고 빙수 가격이 올해도 인상됐다. 7일 호텔업계에 따르면 시그니엘 서울은 79층 ‘더 라운지’에서 판매하는 애플망고 빙수 가격을 지난해 13만 원에서 올해 13만5000원으로 5000원 올렸다. 롯데호텔 서울은 애플망고 빙수 R사이즈를 12만 원으로, 워커힐호텔은 9만5000원으로 각각 1만 원 인상했다. 서울신라호텔은 지난해 11만 원에서 올해 13만 원으로 2만 원 올렸다. 포시즌스호텔 서울은 가격을 동결했지만 14만9000원으로 주요 호텔 중 최고가 수준이다. 업계는 제주산 애플망고 등 고급 과일 가격과 인건비, 임차료, 서비스 비용 상승을 이유로 들었다. 최근 20, 30대를 중심으로 확산된 ‘스몰 럭셔리’ 소비 흐름도 호텔 빙수 수요와 맞물린 것으로 풀이된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hotel Apple Mango Bingsu Prices Rise Again as Signiel Hits 135,000 Won",
-        "excerpt": "According to the hotel industry on May 7, major luxury hotels in Seoul raised prices again this year for apple mango bingsu, citing higher premium fruit, labor and service costs.",
-        "body": "Prices for apple mango bingsu, a signature summer item at Seoul’s major luxury hotels, have risen again this year. According to the hotel industry on May 7, Signiel Seoul raised the price of the apple mango bingsu sold at The Lounge on the 79th floor from 130,000 won last year to 135,000 won this year. Lotte Hotel Seoul increased the R-size apple mango bingsu to 120,000 won, while Walkerhill Hotel raised its price to 95,000 won, each up by 10,000 won. The Shilla Seoul lifted its price from 110,000 won last year to 130,000 won this year. Four Seasons Hotel Seoul kept its price unchanged, but at 149,000 won it remains among the highest of major hotels. The industry cited rising prices for premium fruit such as Jeju apple mangoes, as well as labor, rent and service costs. The demand is also seen as linked to the “small luxury” trend spreading among consumers in their 20s and 30s. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ホテルのアップルマンゴーかき氷が再値上げ、シグニエルは13万5000ウォンに",
-        "excerpt": "ホテル業界が7日に明らかにしたところによると、ソウル主要高級ホテルは夏の代表商品であるアップルマンゴーかき氷を今年も値上げした。高級果物や人件費の上昇が背景だ。",
-        "body": "ソウル主要高級ホテルの夏の代表商品であるアップルマンゴーかき氷の価格が今年も引き上げられた。ホテル業界が7日に明らかにしたところによると、シグニエルソウルは79階「ザ・ラウンジ」で販売するアップルマンゴーかき氷を、昨年の13万ウォンから今年13万5000ウォンへ5000ウォン値上げした。ロッテホテルソウルはRサイズを12万ウォンに、ウォーカーヒルホテルは9万5000ウォンにそれぞれ1万ウォン引き上げた。ソウル新羅ホテルは昨年の11万ウォンから今年13万ウォンへ2万ウォン値上げした。フォーシーズンズホテルソウルは価格を据え置いたが、14万9000ウォンで主要ホテルの中でも最高水準だ。業界は済州産アップルマンゴーなど高級果物の価格、人件費、賃料、サービス費用の上昇を理由に挙げている。20代、30代を中心に広がる「スモールラグジュアリー」消費の流れも需要と結びついているとみられる。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "酒店苹果芒果刨冰再涨价，Signiel首尔升至13.5万韩元",
-        "excerpt": "据酒店业5月7日消息，首尔主要豪华酒店今年再次上调夏季代表产品苹果芒果刨冰价格，原因包括高端水果、人力和服务成本上涨。",
-        "body": "首尔主要豪华酒店的夏季代表产品苹果芒果刨冰价格今年再次上涨。据酒店业5月7日消息，Signiel首尔将79层“The Lounge”销售的苹果芒果刨冰价格从去年的13万韩元上调至今年的13.5万韩元，上涨5000韩元。乐天酒店首尔将苹果芒果刨冰R尺寸价格上调至12万韩元，华克山庄酒店上调至9.5万韩元，分别上涨1万韩元。首尔新罗酒店则从去年的11万韩元涨至今年的13万韩元，上涨2万韩元。首尔四季酒店虽维持价格不变，但14.9万韩元仍处于主要酒店最高价水平。业界表示，济州产苹果芒果等高端水果价格以及人力、租金、服务成本上涨，是价格调整原因。近来在二三十岁消费者中扩散的“小奢侈”趋势，也被认为与酒店刨冰需求相关。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "El bingsu de mango en hoteles vuelve a subir: Signiel llega a 135.000 wones",
-        "excerpt": "Según el sector hotelero el 7 de mayo, los principales hoteles de lujo de Seúl volvieron a subir este año el precio del bingsu de mango por mayores costos de fruta premium, mano de obra y servicios.",
-        "body": "El precio del bingsu de mango manzana, producto representativo del verano en los principales hoteles de lujo de Seúl, volvió a subir este año. Según el sector hotelero el 7 de mayo, Signiel Seoul elevó el precio del bingsu vendido en The Lounge, en el piso 79, de 130.000 wones el año pasado a 135.000 wones este año. Lotte Hotel Seoul subió el tamaño R a 120.000 wones y Walkerhill Hotel a 95.000 wones, cada uno con un aumento de 10.000 wones. The Shilla Seoul pasó de 110.000 wones el año pasado a 130.000 wones este año. Four Seasons Hotel Seoul congeló el precio, pero con 149.000 wones se mantiene entre los más altos de los principales hoteles. La industria citó el alza de frutas premium como el mango manzana de Jeju, además de mano de obra, alquileres y costos de servicio. La demanda también se vincula con la tendencia de “pequeño lujo” entre consumidores de 20 y 30 años. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Bingsu de manga em hotéis volta a subir, e Signiel chega a 135 mil wons",
-        "excerpt": "Segundo o setor hoteleiro em 7 de maio, grandes hotéis de luxo de Seul elevaram novamente neste ano o preço do bingsu de manga, citando alta de frutas premium, mão de obra e serviços.",
-        "body": "O preço do bingsu de manga-maçã, produto típico do verão nos principais hotéis de luxo de Seul, voltou a subir neste ano. Segundo o setor hoteleiro em 7 de maio, o Signiel Seoul aumentou o preço do bingsu vendido no The Lounge, no 79º andar, de 130 mil wons no ano passado para 135 mil wons neste ano. O Lotte Hotel Seoul elevou o tamanho R para 120 mil wons, e o Walkerhill Hotel para 95 mil wons, cada um com alta de 10 mil wons. O The Shilla Seoul subiu de 110 mil wons no ano passado para 130 mil wons neste ano. O Four Seasons Hotel Seoul manteve o preço, mas, a 149 mil wons, segue entre os mais caros dos principais hotéis. O setor apontou a alta de frutas premium, como a manga-maçã de Jeju, além de mão de obra, aluguel e custos de serviço. A demanda também é associada à tendência de “pequeno luxo” entre consumidores de 20 e 30 anos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hotel-Apple-Mango-Bingsu wird erneut teurer, Signiel verlangt 135.000 Won",
-        "excerpt": "Nach Angaben der Hotelbranche vom 7. Mai haben große Luxushotels in Seoul die Preise für Apple-Mango-Bingsu erneut erhöht. Gründe sind höhere Kosten für Premiumobst, Personal und Service.",
-        "body": "Die Preise für Apple-Mango-Bingsu, ein typisches Sommerprodukt großer Luxushotels in Seoul, sind auch in diesem Jahr gestiegen. Nach Angaben der Hotelbranche vom 7. Mai erhöhte Signiel Seoul den Preis für das im The Lounge im 79. Stock verkaufte Apple-Mango-Bingsu von 130.000 Won im Vorjahr auf 135.000 Won. Lotte Hotel Seoul hob den Preis der R-Größe auf 120.000 Won an, Walkerhill Hotel auf 95.000 Won, jeweils um 10.000 Won. The Shilla Seoul erhöhte den Preis von 110.000 Won im vergangenen Jahr auf 130.000 Won. Four Seasons Hotel Seoul beließ den Preis unverändert, liegt mit 149.000 Won aber unter den großen Hotels auf Spitzenniveau. Die Branche verweist auf gestiegene Preise für Premiumobst wie Apple-Mangos von Jeju sowie höhere Personal-, Miet- und Servicekosten. Die Nachfrage wird zudem mit dem unter Menschen in den Zwanzigern und Dreißigern verbreiteten Trend zu „kleinem Luxus“ in Verbindung gebracht. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le bingsu à la mangue des hôtels augmente encore, Signiel atteint 135 000 wons",
-        "excerpt": "Selon le secteur hôtelier le 7 mai, les grands hôtels de luxe de Séoul ont de nouveau augmenté cette année le prix du bingsu à la mangue, en raison de la hausse des fruits premium, du travail et des services.",
-        "body": "Le prix du bingsu à la mangue apple, produit estival phare des grands hôtels de luxe de Séoul, a encore augmenté cette année. Selon le secteur hôtelier le 7 mai, Signiel Seoul a relevé le prix du bingsu vendu au The Lounge, au 79e étage, de 130 000 wons l’an dernier à 135 000 wons cette année. Lotte Hotel Seoul a porté le format R à 120 000 wons, et Walkerhill Hotel à 95 000 wons, soit une hausse de 10 000 wons chacun. The Shilla Seoul est passé de 110 000 wons l’an dernier à 130 000 wons cette année. Four Seasons Hotel Seoul a gelé son prix, mais à 149 000 wons, il reste parmi les plus chers des grands hôtels. Le secteur invoque la hausse du prix des fruits premium, comme les mangues apple de Jeju, ainsi que celle de la main-d’œuvre, des loyers et des services. La demande est aussi liée à la tendance du “petit luxe” chez les consommateurs dans la vingtaine et la trentaine. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "ارتفاع جديد في أسعار بينغسو المانغو بالفنادق وسيغنيل يصل إلى 135 ألف وون",
-        "excerpt": "وفق قطاع الفنادق في 7 مايو، رفعت فنادق فاخرة رئيسية في سيول أسعار بينغسو مانغو التفاح هذا العام مجددا، بسبب ارتفاع تكاليف الفاكهة الفاخرة والعمالة والخدمات.",
-        "body": "ارتفعت هذا العام مجددا أسعار بينغسو مانغو التفاح، وهو منتج صيفي بارز في الفنادق الفاخرة الرئيسية في سيول. ووفق قطاع الفنادق في 7 مايو، رفعت سيغنيل سيول سعر بينغسو مانغو التفاح المباع في “ذا لاونج” في الطابق 79 من 130 ألف وون العام الماضي إلى 135 ألف وون هذا العام. ورفع فندق لوتيه سيول سعر حجم R إلى 120 ألف وون، ورفع فندق ووكرهِل السعر إلى 95 ألف وون، بزيادة 10 آلاف وون لكل منهما. أما فندق شيلا سيول فرفع السعر من 110 آلاف وون العام الماضي إلى 130 ألف وون هذا العام. وأبقى فندق فورسيزونز سيول السعر دون تغيير، لكنه عند 149 ألف وون يظل بين الأعلى في الفنادق الرئيسية. وتقول الصناعة إن السبب هو ارتفاع أسعار الفاكهة الفاخرة مثل مانغو التفاح من جيجو، إضافة إلى تكاليف العمالة والإيجار والخدمات. كما ترتبط الطلبات باتجاه “الرفاهية الصغيرة” المنتشر بين المستهلكين في العشرينات والثلاثينات. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "होटल एप्पल मैंगो बिंग्सू फिर महंगा, सिग्निएल में कीमत 135,000 वॉन हुई",
-        "excerpt": "होटल उद्योग के अनुसार 7 मई को सियोल के प्रमुख लग्जरी होटलों ने इस साल फिर एप्पल मैंगो बिंग्सू की कीमत बढ़ाई। वजह प्रीमियम फल, श्रम और सेवा लागत में वृद्धि है।",
-        "body": "सियोल के प्रमुख लग्जरी होटलों में गर्मियों के प्रतिनिधि उत्पाद एप्पल मैंगो बिंग्सू की कीमत इस साल फिर बढ़ गई है। होटल उद्योग के अनुसार 7 मई को सिग्निएल सियोल ने 79वीं मंजिल के “द लाउंज” में बिकने वाले एप्पल मैंगो बिंग्सू की कीमत पिछले साल 130,000 वॉन से बढ़ाकर इस साल 135,000 वॉन कर दी। लोट्टे होटल सियोल ने R आकार की कीमत 120,000 वॉन और वॉकरहिल होटल ने 95,000 वॉन कर दी, दोनों में 10,000 वॉन की बढ़ोतरी हुई। द शिल्ला सियोल ने पिछले साल 110,000 वॉन से इस साल 130,000 वॉन तक कीमत बढ़ाई। फोर सीजन्स होटल सियोल ने कीमत स्थिर रखी, लेकिन 149,000 वॉन के साथ यह प्रमुख होटलों में सबसे ऊंचे स्तर पर है। उद्योग ने जेजू एप्पल मैंगो जैसे प्रीमियम फलों, श्रम, किराये और सेवा लागत में वृद्धि को कारण बताया। 20 और 30 की उम्र वाले उपभोक्ताओं में फैल रही “स्मॉल लग्जरी” प्रवृत्ति भी मांग से जुड़ी मानी जा रही है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Bingsu Mangga Hotel Naik Lagi, Signiel Seoul Tembus 135.000 Won",
-        "excerpt": "Menurut industri hotel pada 7 Mei, hotel-hotel mewah utama di Seoul kembali menaikkan harga bingsu mangga apel tahun ini karena biaya buah premium, tenaga kerja, sewa, dan layanan meningkat.",
-        "body": "Harga bingsu mangga apel, produk musim panas andalan hotel-hotel mewah utama di Seoul, kembali naik tahun ini. Menurut industri hotel pada 7 Mei, Signiel Seoul menaikkan harga bingsu mangga apel yang dijual di The Lounge lantai 79 dari 130.000 won tahun lalu menjadi 135.000 won tahun ini. Lotte Hotel Seoul menaikkan ukuran R menjadi 120.000 won, sementara Walkerhill Hotel menjadi 95.000 won, masing-masing naik 10.000 won. The Shilla Seoul menaikkan harga dari 110.000 won tahun lalu menjadi 130.000 won tahun ini. Four Seasons Hotel Seoul mempertahankan harga, tetapi 149.000 won tetap termasuk level tertinggi di antara hotel utama. Industri menyebut kenaikan harga buah premium seperti mangga apel Jeju, serta biaya tenaga kerja, sewa, dan layanan sebagai alasan. Permintaan juga dinilai terkait dengan tren “small luxury” yang menyebar di kalangan konsumen usia 20-an dan 30-an. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "5800d35ae9cf",
-    "slug": "중저신용-대출-인터넷銀도-고신용자에-대출-쏠려-644948",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T21:59:37.747Z",
-    "updatedAt": "2026-05-07T21:59:37.747Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881537/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260507/133881537/2",
-    "titleFingerprint": "e667e419b0a2835728c482bad023b7e6e1a44223",
-    "dedupKeys": [
-      "5800d35ae9cf476b02f7c0176f71613ec4199d97",
-      "e667e419b0a2835728c482bad023b7e6e1a44223",
-      "7835996ca8d7b6aeac245ec8e310c7f6f7088b4f"
-    ],
-    "imageUrl": "/images/articles/5800d35ae9cf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중저신용 대출 외친 인터넷은행도 고신용자 쏠림 여전",
-        "excerpt": "7일 은행연합회 자료에 따르면 은행권 신용대출 고객 평균 신용점수가 대부분 800점대 후반~900점대 중반에 몰리며 중·저신용자 포용 한계가 드러났다.",
-        "body": "정부가 중·저신용자를 충분히 포용하지 못하는 금융권 신용대출 관행을 지적한 가운데, 은행권 전반에서 고신용자 중심 대출이 여전한 것으로 나타났다. 7일 은행연합회에 따르면 지난달 은행권 일반 신용대출 고객의 평균 신용점수는 KCB 기준 대부분 800점대 후반에서 900점대 중반에 분포했다. 평균 신용점수가 높은 곳은 SC제일은행 965점, BNK부산은행 954점, SH수협은행 940점, NH농협은행 932점, 토스뱅크 930점 순이었다. 설립 취지로 중금리 대출 확대를 내세운 인터넷전문은행도 중·저신용자 대출 비중이 30% 수준에 머물렀다. 시중은행 역시 안정적 급여를 받는 고신용자 위주의 대출 관행이 이어졌다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Internet Banks Still Lean Toward High-Credit Borrowers Despite Pledge",
-        "excerpt": "Data from the Korea Federation of Banks on May 7 showed average credit scores for bank personal loan customers clustered mostly in the high 800s to mid-900s, exposing limits in serving mid- and low-credit borrowers.",
-        "body": "As the government criticized financial institutions’ personal loan practices for failing to sufficiently include mid- and low-credit borrowers, data showed that lending across the banking sector remains concentrated among high-credit customers. According to the Korea Federation of Banks on May 7, the average KCB credit scores of customers who received general personal loans from banks last month mostly ranged from the high 800s to the mid-900s. The highest averages were SC First Bank at 965, BNK Busan Bank at 954, SH Suhyup Bank at 940, NH NongHyup Bank at 932, and Toss Bank at 930. Internet-only banks, which cited expanding mid-rate loans as a founding purpose, still had mid- and low-credit lending at around 30%. Major commercial banks also continued lending mainly to high-credit borrowers with stable salaries. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "中低信用向け掲げたネット銀行も高信用者への融資偏重続く",
-        "excerpt": "5月7日の銀行連合会資料によると、銀行の信用ローン利用者の平均信用スコアは大半が800点台後半から900点台半ばに集中し、中低信用者包摂の限界が示された。",
-        "body": "政府が中低信用者を十分に包摂できていない金融圏の信用ローン慣行を指摘する中、銀行業界全体で高信用者中心の融資が続いていることが分かった。5月7日の銀行連合会によると、先月、銀行が一般信用ローンを実行した顧客の平均信用スコアはKCB基準で大半が800点台後半から900点台半ばに分布した。平均スコアが高い上位はSC第一銀行965点、BNK釜山銀行954点、SH水協銀行940点、NH農協銀行932点、トスバンク930点だった。設立趣旨として中金利融資の拡大を掲げたネット専業銀行でも、中低信用者向け融資比率はなお30%水準にとどまった。市中銀行でも安定した給与を得る高信用者中心の融資慣行が続いた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "网银曾主打中低信用贷款，如今仍偏向高信用客户",
-        "excerpt": "据5月7日韩国银行联合会资料，银行个人信用贷款客户平均信用分多集中在800分后段至900分中段，显示中低信用人群覆盖仍有限。",
-        "body": "在政府指出金融业个人信用贷款惯例未能充分覆盖中低信用借款人的背景下，银行业整体仍呈现向高信用客户集中的现象。韩国银行联合会5月7日数据显示，上月银行发放一般个人信用贷款的客户平均信用分按KCB标准大多位于800分后段至900分中段。平均信用分最高的机构依次为SC第一银行965分、BNK釜山银行954分、SH水协银行940分、NH农协银行932分、Toss Bank 930分。以扩大中等利率贷款为设立宗旨的互联网专业银行，中低信用者贷款占比仍停留在约30%。主要商业银行也继续以拥有稳定工资收入的高信用客户为主发放贷款。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Bancos digitales siguen concentrando créditos en clientes de alta solvencia",
-        "excerpt": "Según datos del 7 de mayo de la Federación de Bancos de Corea, la puntuación media de clientes con préstamos personales se concentró entre finales de los 800 y mediados de los 900, mostrando límites para incluir a prestatarios de crédito medio y bajo.",
-        "body": "Mientras el Gobierno señaló que las prácticas de préstamos personales del sector financiero no incluyen suficientemente a los prestatarios de crédito medio y bajo, los datos muestran que la banca sigue concentrada en clientes de alta solvencia. Según la Federación de Bancos de Corea, el 7 de mayo, la puntuación crediticia media KCB de quienes recibieron préstamos personales generales el mes pasado se ubicó en su mayoría entre finales de los 800 y mediados de los 900. Los promedios más altos fueron SC First Bank con 965, BNK Busan Bank con 954, SH Suhyup Bank con 940, NH NongHyup Bank con 932 y Toss Bank con 930. Los bancos exclusivamente digitales, creados con el objetivo de ampliar préstamos de tasa media, aún mantienen la proporción de préstamos a crédito medio y bajo cerca del 30%. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Bancos digitais ainda concentram crédito em clientes de alta pontuação",
-        "excerpt": "Dados de 7 de maio da Federação de Bancos da Coreia mostram que a pontuação média dos clientes de crédito pessoal ficou, em geral, do fim dos 800 ao meio dos 900, revelando limites na inclusão de tomadores de crédito médio e baixo.",
-        "body": "Enquanto o governo criticou as práticas de crédito pessoal do setor financeiro por não incluírem de forma suficiente tomadores de crédito médio e baixo, dados indicam que os empréstimos bancários seguem concentrados em clientes de alta pontuação. Segundo a Federação de Bancos da Coreia, em 7 de maio, a pontuação média KCB dos clientes que receberam crédito pessoal geral no mês passado ficou majoritariamente entre o fim dos 800 e o meio dos 900. As maiores médias foram do SC First Bank, com 965 pontos, BNK Busan Bank, 954, SH Suhyup Bank, 940, NH NongHyup Bank, 932, e Toss Bank, 930. Bancos exclusivamente digitais, que defenderam a expansão de empréstimos de taxa média como objetivo de criação, ainda mantêm a fatia para crédito médio e baixo em torno de 30%. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Internetbanken verleihen trotz Anspruch weiter vor allem an Top-Bonität",
-        "excerpt": "Daten der Korea Federation of Banks vom 7. Mai zeigen, dass die Durchschnittsbonität bei Privatkrediten meist zwischen hohen 800er- und mittleren 900er-Werten lag und die Einbindung mittlerer und schwächerer Bonität begrenzt bleibt.",
-        "body": "Nachdem die Regierung kritisiert hatte, dass die Kreditpraxis der Finanzbranche Kreditnehmer mit mittlerer und niedriger Bonität nicht ausreichend einbezieht, zeigen Daten eine deutliche Konzentration auf Kunden mit hoher Bonität. Nach Angaben der Korea Federation of Banks vom 7. Mai lagen die durchschnittlichen KCB-Kreditwerte der Kunden, die im Vormonat allgemeine Privatkredite erhielten, meist zwischen dem hohen 800er- und dem mittleren 900er-Bereich. Die höchsten Durchschnittswerte verzeichneten SC First Bank mit 965 Punkten, BNK Busan Bank mit 954, SH Suhyup Bank mit 940, NH NongHyup Bank mit 932 und Toss Bank mit 930. Auch reine Internetbanken, deren Gründungszweck die Ausweitung von Krediten zu mittleren Zinssätzen war, kamen bei Krediten an mittlere und niedrige Bonitäten weiter nur auf etwa 30%. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les banques en ligne restent tournées vers les emprunteurs très bien notés",
-        "excerpt": "Selon les données du 7 mai de la Fédération des banques de Corée, les scores moyens des clients de prêts personnels se situaient surtout entre la fin des 800 et le milieu des 900, révélant une inclusion limitée des profils moyens et faibles.",
-        "body": "Alors que le gouvernement a critiqué les pratiques de crédit personnel du secteur financier, jugées insuffisantes pour inclure les emprunteurs à crédit moyen ou faible, les données montrent une concentration persistante sur les clients les mieux notés. D’après la Fédération des banques de Corée, le 7 mai, le score KCB moyen des clients ayant obtenu un prêt personnel général le mois précédent se situait majoritairement entre la fin des 800 et le milieu des 900. Les moyennes les plus élevées étaient celles de SC First Bank, 965 points, BNK Busan Bank, 954, SH Suhyup Bank, 940, NH NongHyup Bank, 932, et Toss Bank, 930. Les banques exclusivement en ligne, créées notamment pour élargir les prêts à taux intermédiaire, maintiennent encore la part des prêts aux profils moyens et faibles autour de 30%. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "البنوك الرقمية ما زالت تميل إلى المقترضين ذوي الجدارة الائتمانية العالية",
-        "excerpt": "أظهرت بيانات اتحاد البنوك الكورية في 7 مايو أن متوسط درجات الائتمان لعملاء القروض الشخصية تركز غالبا بين أواخر نطاق 800 ومنتصف 900، ما يكشف محدودية شمول أصحاب الائتمان المتوسط والمنخفض.",
-        "body": "في وقت انتقدت فيه الحكومة ممارسات القروض الشخصية في القطاع المالي لعدم شمولها الكافي للمقترضين ذوي الائتمان المتوسط والمنخفض، أظهرت البيانات أن الإقراض المصرفي لا يزال متركزا حول أصحاب الجدارة الائتمانية العالية. ووفقا لاتحاد البنوك الكورية في 7 مايو، فإن متوسط درجات KCB للعملاء الذين حصلوا على قروض شخصية عامة في الشهر الماضي توزع في الغالب بين أواخر نطاق 800 ومنتصف نطاق 900. وسجلت أعلى المتوسطات لدى SC First Bank بواقع 965 نقطة، ثم BNK Busan Bank بـ954، وSH Suhyup Bank بـ940، وNH NongHyup Bank بـ932، وToss Bank بـ930. كما بقيت حصة قروض أصحاب الائتمان المتوسط والمنخفض لدى البنوك الرقمية، التي تأسست بهدف توسيع القروض متوسطة الفائدة، عند نحو 30%. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "इंटरनेट बैंक भी उच्च क्रेडिट ग्राहकों पर केंद्रित, मध्यम-निम्न ऋण सीमित",
-        "excerpt": "7 मई को कोरिया फेडरेशन ऑफ बैंक्स के आंकड़ों के अनुसार, बैंकों के व्यक्तिगत ऋण ग्राहकों का औसत क्रेडिट स्कोर अधिकतर 800 के ऊपरी स्तर से 900 के मध्य स्तर में रहा, जिससे मध्यम और निम्न क्रेडिट ग्राहकों की सीमित पहुंच दिखी।",
-        "body": "सरकार ने वित्तीय क्षेत्र की व्यक्तिगत ऋण प्रथाओं पर सवाल उठाया है कि वे मध्यम और निम्न क्रेडिट वाले उधारकर्ताओं को पर्याप्त रूप से शामिल नहीं कर रहीं। इसी बीच आंकड़ों से पता चला कि बैंकिंग क्षेत्र में ऋण अब भी उच्च क्रेडिट ग्राहकों पर केंद्रित है। कोरिया फेडरेशन ऑफ बैंक्स के अनुसार, 7 मई को जारी जानकारी में पिछले महीने सामान्य व्यक्तिगत ऋण लेने वाले ग्राहकों का औसत KCB क्रेडिट स्कोर अधिकतर 800 के ऊपरी स्तर से 900 के मध्य स्तर तक रहा। सबसे ऊंचे औसत SC First Bank 965, BNK Busan Bank 954, SH Suhyup Bank 940, NH NongHyup Bank 932 और Toss Bank 930 रहे। मध्यम ब्याज दर ऋण बढ़ाने के उद्देश्य से बने इंटरनेट-केवल बैंकों में भी मध्यम और निम्न क्रेडिट ऋण की हिस्सेदारी करीब 30% पर ही रही। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Bank Digital Masih Condong ke Debitur Kredit Tinggi, Porsi Menengah-Rendah Terbatas",
-        "excerpt": "Data Federasi Bank Korea pada 7 Mei menunjukkan skor kredit rata-rata nasabah pinjaman pribadi bank mayoritas berada di akhir 800 hingga pertengahan 900, menandakan keterbatasan inklusi bagi debitur kredit menengah dan rendah.",
-        "body": "Saat pemerintah menyoroti praktik pinjaman pribadi sektor keuangan yang dinilai belum cukup merangkul debitur dengan kredit menengah dan rendah, data menunjukkan pinjaman perbankan masih terkonsentrasi pada nasabah ber kredit tinggi. Menurut Federasi Bank Korea pada 7 Mei, skor kredit rata-rata KCB nasabah yang menerima pinjaman pribadi umum dari bank pada bulan lalu sebagian besar berada di kisaran akhir 800 hingga pertengahan 900. Rata-rata tertinggi tercatat di SC First Bank 965 poin, BNK Busan Bank 954, SH Suhyup Bank 940, NH NongHyup Bank 932, dan Toss Bank 930. Bank khusus internet, yang sejak awal menekankan perluasan pinjaman berbunga menengah, juga masih mencatat porsi pinjaman untuk kredit menengah dan rendah sekitar 30%. Sumber: rss.donga.com"
       }
     }
   }
