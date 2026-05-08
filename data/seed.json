@@ -1,5 +1,230 @@
 [
   {
+    "id": "077d79db38fc",
+    "slug": "매물-잠김-우려-커지자임대사업자-양도세-혜택도-축소-검토-743697",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T10:52:33.612Z",
+    "updatedAt": "2026-05-08T10:52:33.612Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888036/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888036/1",
+    "titleFingerprint": "fd0fe8d6075ee8eb7a46b98bfc602d1a84c678e0",
+    "dedupKeys": [
+      "077d79db38fcc0d2fb8ac62667b2f58c61dded3a",
+      "fd0fe8d6075ee8eb7a46b98bfc602d1a84c678e0",
+      "afb52c851a9ff482122a4c5d7769e33292c7c791"
+    ],
+    "imageUrl": "/images/articles/077d79db38fc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "임대사업자 양도세 혜택 축소 검토, ‘매물 잠김’ 우려 속 공급 확대 카드",
+        "excerpt": "정부가 8일 조정대상지역 매입임대아파트 사업자의 양도소득세 중과 배제 혜택 축소를 검토하며 매물 출회를 통한 주택 공급 확대 방안을 논의했다.",
+        "body": "정부가 조정대상지역 내 매입임대아파트 사업자에게 적용되던 양도소득세 중과 배제 혜택을 축소하는 방안을 검토한다. 8일 구윤철 부총리 겸 재정경제부 장관은 비상경제본부 회의 겸 경제·부동산 관계 장관회의에서 잠겨 있는 매물이 시장에 나오고 실거주자에게 돌아가도록 하는 방안을 지속 논의하고 있다고 밝혔다. 매입임대는 등록 임대사업자 유형 중 하나로, 의무 임대 기간을 지키고 임대료 인상률을 연 5% 이하로 제한하는 등 조건을 충족하면 세제 혜택을 받아왔다. 정부는 조정대상지역 매입임대아파트 사업자에게 영구적으로 주어진 중과 배제 혜택이 조세형평 측면에서 과도하다는 지적을 살펴보고 있다. 시장에서는 9일 다주택자 양도세 중과 유예 종료 이후 매물 잠김으로 거래가 많지 않을 수 있다는 전망도 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Rental landlord capital gains tax break review aims to ease Korea’s locked listings",
+        "excerpt": "On May 8, the government said it is reviewing a reduction in capital gains tax surcharge exemptions for registered rental apartment operators in regulated areas to draw out housing listings.",
+        "body": "The government is reviewing whether to scale back the capital gains tax surcharge exemption applied to rental apartment operators in regulated areas. On May 8, Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said at an emergency economic headquarters meeting and economy-real estate ministers’ meeting that officials are continuing to discuss ways to bring locked-up listings to the market and ensure they go to owner-occupiers. Purchase-based rental housing is one type of registered rental business. Operators have received tax benefits when meeting conditions such as observing mandatory rental periods and limiting rent increases to no more than 5% a year. The government is examining criticism that the permanent surcharge exemption for such operators in regulated areas is excessive from a tax fairness perspective. Market observers expect transactions may remain limited for some time after the multi-homeowner capital gains tax surcharge suspension ends on May 9. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "賃貸事業者の譲渡税優遇縮小を検討、韓国住宅市場の売り渋り懸念に対応",
+        "excerpt": "韓国政府は8日、調整対象地域の買入賃貸マンション事業者に対する譲渡所得税重課除外の縮小を検討し、売り物件の供給拡大策を議論した。",
+        "body": "韓国政府は、調整対象地域内の買入賃貸マンション事業者に適用されてきた譲渡所得税の重課除外措置を縮小する案を検討している。8日、具潤哲副首相兼財政経済部長官は非常経済本部会議兼経済・不動産関係閣僚会議で、滞留している物件が市場に出て実需者に回るようにする方策を継続的に議論していると述べた。買入賃貸は登録賃貸事業者の一類型で、義務賃貸期間を守り、賃料引き上げを年5%以下に抑えるなどの条件を満たせば税制優遇を受けてきた。政府は、調整対象地域の買入賃貸マンション事業者に恒久的に与えられてきた重課除外が税の公平性の面で過度だとの指摘を検討している。市場では、9日に多住宅保有者への譲渡税重課猶予が終了すれば、売り渋りで当面取引が多くないとの見方も出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国拟缩减租赁业主资本利得税优惠，应对房源锁定担忧",
+        "excerpt": "韩国政府8日表示，正研究缩减调控地区买入租赁公寓经营者的资本利得税重税排除优惠，以推动房源入市、扩大住房供应。",
+        "body": "韩国政府正研究缩减调控地区内买入租赁公寓经营者适用的资本利得税重税排除优惠。8日，副总理兼财政经济部长官具润哲在紧急经济本部会议暨经济、房地产相关部长会议上表示，政府持续讨论让被锁定的房源进入市场并流向实际居住者的方案。买入租赁是注册租赁经营者的一种类型，经营者若遵守义务租赁期限，并将租金涨幅限制在每年5%以内等条件，便可获得税收优惠。政府正在审视外界有关调控地区买入租赁公寓经营者永久享有重税排除优惠、从税收公平角度看过度的意见。市场预计，9日多套房持有者资本利得税重税暂缓措施结束后，因房源锁定现象，短期内交易可能不会活跃。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Corea revisa exenciones fiscales a arrendadores para aliviar inmuebles retenidos",
+        "excerpt": "El Gobierno surcoreano dijo el 8 de mayo que revisa reducir la exención del recargo sobre ganancias de capital a operadores de alquiler en zonas reguladas para aumentar la oferta.",
+        "body": "El Gobierno surcoreano estudia reducir la exención del recargo del impuesto sobre ganancias de capital aplicada a operadores de apartamentos de alquiler en zonas reguladas. El 8 de mayo, Koo Yun-cheol, viceprimer ministro y ministro de Economía y Finanzas, dijo en una reunión de emergencia económica y de ministros de economía e inmobiliario que se siguen discutiendo medidas para que los inmuebles retenidos salgan al mercado y lleguen a residentes reales. La modalidad de compra para alquiler es un tipo de negocio de alquiler registrado. Sus operadores han recibido beneficios fiscales si cumplen condiciones como mantener el periodo obligatorio de alquiler y limitar los aumentos de renta a un máximo del 5% anual. El Gobierno analiza críticas de que la exención permanente para estos operadores en zonas reguladas es excesiva desde la equidad fiscal. El mercado prevé pocas operaciones por un tiempo cuando termine el 9 de mayo la suspensión del recargo a propietarios de varias viviendas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Coreia avalia cortar benefício fiscal de locadores para destravar imóveis à venda",
+        "excerpt": "Em 8 de maio, o governo sul-coreano informou que avalia reduzir a isenção de sobretaxa sobre ganho de capital para operadores de aluguel em áreas reguladas, buscando ampliar a oferta.",
+        "body": "O governo sul-coreano avalia reduzir a isenção da sobretaxa do imposto sobre ganho de capital aplicada a operadores de apartamentos de aluguel em áreas reguladas. Em 8 de maio, Koo Yun-cheol, vice-primeiro-ministro e ministro da Economia e Finanças, disse em reunião de emergência econômica e de ministros de economia e imóveis que seguem em discussão formas de fazer imóveis retidos chegarem ao mercado e aos moradores efetivos. A modalidade de compra para aluguel é um tipo de negócio de aluguel registrado. Os operadores recebem benefícios fiscais quando cumprem condições como manter o período obrigatório de locação e limitar reajustes de aluguel a até 5% ao ano. O governo examina críticas de que a isenção permanente dada a esses operadores em áreas reguladas é excessiva do ponto de vista da justiça tributária. No mercado, há previsão de poucas transações por algum tempo após o fim, em 9 de maio, da suspensão da sobretaxa para proprietários de múltiplas casas. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Südkorea prüft Kürzung von Steuerprivilegien für Vermieter gegen Angebotsstau",
+        "excerpt": "Die Regierung prüft seit dem 8. Mai eine Einschränkung der Befreiung vom Kapitalertragsteuerzuschlag für Mietwohnungsbetreiber in regulierten Gebieten, um mehr Wohnungen auf den Markt zu bringen.",
+        "body": "Die südkoreanische Regierung prüft, die Befreiung vom Zuschlag auf die Kapitalertragsteuer für Betreiber gekaufter Mietwohnungen in regulierten Gebieten zu verringern. Am 8. Mai sagte Vizepremier und Finanzminister Koo Yun-cheol bei einer Sitzung des Notfall-Wirtschaftsstabs und der zuständigen Minister für Wirtschaft und Immobilien, man diskutiere weiter Maßnahmen, damit blockierte Objekte auf den Markt kommen und Selbstnutzern zugutekommen. Der Kauf zur Vermietung ist eine Form des registrierten Mietgeschäfts. Betreiber erhielten Steuervergünstigungen, wenn sie unter anderem die verpflichtende Mietdauer einhielten und Mieterhöhungen auf höchstens 5% pro Jahr begrenzten. Die Regierung prüft den Hinweis, dass die dauerhafte Befreiung für solche Betreiber in regulierten Gebieten aus Sicht der Steuergerechtigkeit übermäßig sei. Am Markt wird erwartet, dass nach dem Ende der Aussetzung des Zuschlags für Mehrhausbesitzer am 9. Mai wegen zurückgehaltener Angebote vorerst wenige Transaktionen stattfinden. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La Corée examine les avantages fiscaux des bailleurs face aux biens bloqués",
+        "excerpt": "Le 8 mai, le gouvernement sud-coréen a indiqué étudier une réduction de l’exemption de surtaxe sur les plus-values pour les exploitants locatifs en zones régulées afin d’accroître l’offre.",
+        "body": "Le gouvernement sud-coréen étudie une réduction de l’exemption de surtaxe sur l’impôt sur les plus-values appliquée aux exploitants d’appartements locatifs en zones régulées. Le 8 mai, Koo Yun-cheol, vice-Premier ministre et ministre de l’Économie et des Finances, a déclaré lors d’une réunion d’urgence économique et des ministres chargés de l’économie et de l’immobilier que des mesures continuaient d’être discutées pour faire sortir les biens bloqués sur le marché et les orienter vers les occupants réels. L’achat destiné à la location est une catégorie d’activité locative enregistrée. Les exploitants bénéficient d’avantages fiscaux s’ils respectent notamment la durée obligatoire de location et limitent les hausses de loyer à 5% par an. Le gouvernement examine les critiques selon lesquelles l’exemption permanente accordée en zones régulées serait excessive au regard de l’équité fiscale. Le marché anticipe peu de transactions pendant un temps après la fin, le 9 mai, du report de surtaxe visant les multipropriétaires. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كوريا تراجع إعفاء ضريبة الأرباح العقارية لمؤجري الشقق وسط مخاوف تجميد المعروض",
+        "excerpt": "قالت الحكومة الكورية في 8 مايو إنها تدرس تقليص إعفاء مشغلي شقق الإيجار في المناطق الخاضعة للتنظيم من ضريبة الأرباح الرأسمالية المشددة لزيادة المعروض.",
+        "body": "تدرس الحكومة الكورية الجنوبية تقليص الإعفاء من تشديد ضريبة الأرباح الرأسمالية المطبق على مشغلي شقق الإيجار المشتراة في المناطق الخاضعة للتنظيم. وفي 8 مايو، قال كو يون تشول، نائب رئيس الوزراء ووزير الاقتصاد والمالية، خلال اجتماع مقر الطوارئ الاقتصادية واجتماع الوزراء المعنيين بالاقتصاد والعقارات، إن الحكومة تواصل بحث سبل إخراج الوحدات المحتجزة إلى السوق ووصولها إلى المقيمين الفعليين. ويعد شراء الشقق للتأجير أحد أنواع نشاط الإيجار المسجل. وقد حصل المشغلون على مزايا ضريبية عند الالتزام بفترة الإيجار الإلزامية وتقييد زيادة الإيجار السنوية بما لا يتجاوز 5%. وتراجع الحكومة انتقادات ترى أن الإعفاء الدائم الممنوح لهؤلاء المشغلين في المناطق المنظمة مفرط من زاوية العدالة الضريبية. ويتوقع السوق أن تظل الصفقات محدودة لفترة بعد انتهاء تعليق الضريبة المشددة على مالكي عدة مساكن في 9 مايو بسبب تجميد المعروض. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कोरिया में किराया कारोबारियों की पूंजीगत लाभ कर छूट घटाने पर विचार",
+        "excerpt": "दक्षिण कोरियाई सरकार ने 8 मई को कहा कि वह विनियमित क्षेत्रों में किराये के अपार्टमेंट कारोबारियों की पूंजीगत लाभ कर अधिभार छूट घटाने पर विचार कर रही है ताकि आपूर्ति बढ़े।",
+        "body": "दक्षिण कोरियाई सरकार विनियमित क्षेत्रों में खरीदे गए किराये के अपार्टमेंट कारोबारियों को मिलने वाली पूंजीगत लाभ कर अधिभार छूट घटाने पर विचार कर रही है। 8 मई को उपप्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने आपात आर्थिक मुख्यालय बैठक और अर्थव्यवस्था-रियल एस्टेट मंत्रियों की बैठक में कहा कि सरकार बंद पड़ी लिस्टिंग को बाजार में लाने और उन्हें वास्तविक निवासियों तक पहुंचाने के उपायों पर लगातार चर्चा कर रही है। खरीदकर किराये पर देना पंजीकृत किराया कारोबार का एक प्रकार है। कारोबारियों को अनिवार्य किराया अवधि का पालन करने और किराया वृद्धि को सालाना 5% से अधिक न रखने जैसी शर्तों पर कर लाभ मिलते रहे हैं। सरकार इस आलोचना की समीक्षा कर रही है कि विनियमित क्षेत्रों के ऐसे कारोबारियों को स्थायी अधिभार छूट कर समानता के लिहाज से अत्यधिक है। बाजार में अनुमान है कि 9 मई को बहु-घर मालिकों के लिए पूंजीगत लाभ कर अधिभार स्थगन खत्म होने के बाद लिस्टिंग लॉक होने से कुछ समय तक लेनदेन कम रह सकता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Korea kaji pemangkasan insentif pajak tuan tanah sewa untuk buka pasokan rumah",
+        "excerpt": "Pada 8 Mei, pemerintah Korea Selatan menyatakan mengkaji pengurangan pengecualian pajak capital gain tambahan bagi operator apartemen sewa di wilayah regulasi untuk mendorong pasokan.",
+        "body": "Pemerintah Korea Selatan mengkaji pengurangan pengecualian pajak tambahan atas capital gain yang selama ini berlaku bagi operator apartemen sewa beli di wilayah regulasi. Pada 8 Mei, Wakil Perdana Menteri sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol mengatakan dalam rapat markas ekonomi darurat dan rapat menteri ekonomi-real estat bahwa pemerintah terus membahas cara agar listing yang tertahan keluar ke pasar dan sampai kepada penghuni nyata. Skema beli untuk disewakan adalah salah satu jenis bisnis sewa terdaftar. Operator mendapat manfaat pajak jika memenuhi syarat seperti menjalankan masa sewa wajib dan membatasi kenaikan sewa maksimal 5% per tahun. Pemerintah menelaah kritik bahwa pengecualian permanen bagi operator tersebut di wilayah regulasi berlebihan dari sisi keadilan pajak. Pasar memperkirakan transaksi dapat tetap terbatas untuk sementara setelah penangguhan pajak tambahan capital gain bagi pemilik banyak rumah berakhir pada 9 Mei. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "cd9113df18dc",
+    "slug": "과천-거래-뚝-끊길-때구리는-314-폭증했다-671488",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T10:51:13.732Z",
+    "updatedAt": "2026-05-08T10:51:13.732Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050829726",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050829726",
+    "titleFingerprint": "65680fe298852cc66960333728a8f404475ec28a",
+    "dedupKeys": [
+      "cd9113df18dc6815f1cfeafe3b57762baa1fd554",
+      "65680fe298852cc66960333728a8f404475ec28a",
+      "2fd8a2c56143befabace27e41f9c46d0c5c6d44c"
+    ],
+    "imageUrl": "/images/articles/cd9113df18dc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "과천 거래 급감 속 구리 314% 폭증, 경기 부동산 매수 흐름 온도차 뚜렷해졌다",
+        "excerpt": "hankyung.com 보도에 따르면 과천의 부동산 거래가 크게 줄어든 가운데 구리 거래는 314% 폭증하며 경기 지역별 매수 흐름 차이가 부각됐다.",
+        "body": "hankyung.com 보도에 따르면 경기 부동산 시장에서 과천과 구리의 거래 흐름이 크게 엇갈렸다. 과천은 거래가 ‘뚝’ 끊겼다는 평가가 나올 정도로 거래가 위축된 반면, 구리는 거래가 314% 폭증한 것으로 전해졌다. 같은 경기권 안에서도 지역별 매수세와 거래 회복 속도가 다르게 나타난 셈이다. 이번 수치는 특정 지역의 거래 감소와 다른 지역의 급증이 동시에 나타난 사례로, 시장 참여자들이 지역별 거래량 변화를 살펴볼 필요가 있음을 보여준다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Guri Transactions Jump 314% as Gwacheon Slumps, Highlighting Gyeonggi Market Divide",
+        "excerpt": "According to hankyung.com, real estate transactions in Gwacheon fell sharply while Guri surged 314%, underscoring a clear gap in buying momentum across Gyeonggi areas.",
+        "body": "According to hankyung.com, real estate transaction trends in Gyeonggi Province diverged sharply between Gwacheon and Guri. Gwacheon saw activity weaken to the point that transactions were described as having nearly stopped, while Guri recorded a 314% surge in deals. The figures show that even within the same Gyeonggi region, buying momentum and the pace of transaction recovery can differ by area. This case, in which one locality saw a drop while another posted a sharp increase, points to the need for market participants to watch transaction-volume changes by district. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "果川の取引急減の一方で九里は314％急増、京畿不動産市場の温度差鮮明",
+        "excerpt": "hankyung.comによると、果川の不動産取引が大きく減る一方、九里の取引は314％急増し、京畿地域ごとの買い需要の差が浮き彫りになった。",
+        "body": "hankyung.comによると、京畿道の不動産市場で果川と九里の取引動向が大きく分かれた。果川では取引が途切れたと評されるほど動きが鈍った一方、九里では取引が314％急増したという。同じ京畿圏内でも、地域によって買い需要や取引回復の速度が異なる形だ。今回の数値は、ある地域で取引が減少する一方、別の地域では急増する事例として、市場参加者が地域別の取引量変化を確認する必要性を示している。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "果川交易骤减之际九里激增314%，京畿房地产买盘分化更明显",
+        "excerpt": "据hankyung.com报道，果川房地产交易大幅减少，而九里交易激增314%，凸显京畿不同地区买盘和交易恢复节奏的差异。",
+        "body": "据hankyung.com报道，京畿房地产市场中，果川与九里的交易走势明显分化。果川的交易被形容为几乎中断，市场活动明显收缩；相比之下，九里的交易量激增314%。这显示即便同属京畿地区，不同城市的买盘力度和交易恢复速度也可能不同。此次数据同时呈现一个地区交易减少、另一个地区交易急增的情况，说明市场参与者有必要关注各地区交易量变化。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Guri se dispara 314% mientras Gwacheon frena operaciones y crece la brecha en Gyeonggi",
+        "excerpt": "Según hankyung.com, las transacciones inmobiliarias en Gwacheon cayeron con fuerza, mientras Guri subió 314%, mostrando diferencias claras en la demanda por zonas de Gyeonggi.",
+        "body": "Según hankyung.com, el mercado inmobiliario de Gyeonggi mostró una marcada divergencia entre Gwacheon y Guri. En Gwacheon, las operaciones se debilitaron hasta el punto de describirse como prácticamente paralizadas, mientras que en Guri las transacciones aumentaron un 314%. Esto indica que, incluso dentro de la misma provincia, el impulso comprador y el ritmo de recuperación de las operaciones pueden variar según la zona. El caso muestra una caída en un área y un fuerte aumento en otra, por lo que los participantes del mercado deben observar los cambios de volumen por localidad. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Guri salta 314% enquanto Gwacheon perde negócios e expõe divisão imobiliária em Gyeonggi",
+        "excerpt": "Segundo o hankyung.com, as transações imobiliárias em Gwacheon caíram fortemente, enquanto Guri avançou 314%, destacando diferenças de demanda entre áreas de Gyeonggi.",
+        "body": "Segundo o hankyung.com, o mercado imobiliário de Gyeonggi registrou uma forte divergência entre Gwacheon e Guri. Em Gwacheon, a atividade enfraqueceu a ponto de as transações serem descritas como praticamente interrompidas; em Guri, por outro lado, os negócios aumentaram 314%. O dado mostra que, mesmo dentro da mesma província, a força compradora e o ritmo de recuperação das transações podem variar por região. O caso combina queda em uma localidade e forte alta em outra, indicando a necessidade de acompanhar as mudanças de volume por área. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Guri legt um 314% zu, während Gwacheon einbricht und Gyeonggis Immobilienmarkt auseinanderdriftet",
+        "excerpt": "Laut hankyung.com gingen die Immobilientransaktionen in Gwacheon stark zurück, während Guri um 314% zulegte und regionale Unterschiede in Gyeonggi sichtbar wurden.",
+        "body": "Laut hankyung.com haben sich die Immobilientransaktionen in der Provinz Gyeonggi zwischen Gwacheon und Guri deutlich unterschiedlich entwickelt. In Gwacheon schwächte sich die Aktivität so stark ab, dass von nahezu zum Erliegen gekommenen Geschäften die Rede war. In Guri stiegen die Transaktionen dagegen um 314%. Damit zeigt sich, dass Kaufdynamik und Erholungstempo selbst innerhalb derselben Region je nach Stadt variieren können. Der Fall verbindet einen Rückgang an einem Ort mit einem starken Anstieg an einem anderen und unterstreicht, dass Marktteilnehmer regionale Volumenänderungen beobachten sollten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Guri bondit de 314% quand Gwacheon ralentit, révélant l’écart immobilier à Gyeonggi",
+        "excerpt": "Selon hankyung.com, les transactions immobilières à Gwacheon ont fortement reculé tandis que Guri a bondi de 314%, révélant des écarts d’achat selon les zones de Gyeonggi.",
+        "body": "Selon hankyung.com, le marché immobilier de la province de Gyeonggi a montré une forte divergence entre Gwacheon et Guri. À Gwacheon, l’activité s’est affaiblie au point que les transactions ont été décrites comme presque interrompues, tandis qu’à Guri elles ont bondi de 314%. Ces chiffres montrent que, même dans une même région, la demande d’achat et le rythme de reprise des transactions peuvent varier selon les secteurs. Ce cas, avec une baisse dans une zone et une forte hausse dans une autre, invite les acteurs du marché à suivre les volumes de transaction par localité. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "غوري تقفز 314% مع تراجع غواتشيون وتكشف تفاوت سوق عقارات غيونغي",
+        "excerpt": "بحسب hankyung.com، تراجعت معاملات العقارات في غواتشيون بشدة، بينما قفزت في غوري 314%، ما أبرز اختلاف زخم الشراء بين مناطق غيونغي.",
+        "body": "بحسب hankyung.com، شهد سوق العقارات في مقاطعة غيونغي تباينا واضحا بين غواتشيون وغوري. ففي غواتشيون ضعفت حركة التداول إلى حد وُصفت معه المعاملات بأنها شبه متوقفة، بينما سجلت غوري زيادة في المعاملات بلغت 314%. وتظهر هذه الأرقام أن زخم الشراء وسرعة تعافي التداول قد يختلفان من منطقة إلى أخرى حتى داخل المقاطعة نفسها. وتعكس الحالة انخفاضا في منطقة وقفزة حادة في أخرى، ما يبرز حاجة المشاركين في السوق إلى متابعة تغيرات حجم المعاملات حسب المنطقة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "ग्वाचोन में सौदे घटे, गुरी में 314% उछाल से ग्योंगगी बाजार का अंतर साफ",
+        "excerpt": "hankyung.com के अनुसार, ग्वाचोन में रियल एस्टेट लेनदेन तेज घटे, जबकि गुरी में 314% उछाल आया, जिससे ग्योंगगी के क्षेत्रों में खरीद रुझान का फर्क दिखा।",
+        "body": "hankyung.com के अनुसार, ग्योंगगी प्रांत के रियल एस्टेट बाजार में ग्वाचोन और गुरी के लेनदेन रुझान स्पष्ट रूप से अलग रहे। ग्वाचोन में गतिविधि इतनी कमजोर रही कि सौदों को लगभग रुकता हुआ बताया गया, जबकि गुरी में लेनदेन 314% बढ़े। इससे पता चलता है कि एक ही ग्योंगगी क्षेत्र के भीतर भी खरीदारी की गति और लेनदेन की रिकवरी क्षेत्र के अनुसार अलग हो सकती है। यह मामला एक जगह गिरावट और दूसरी जगह तेज वृद्धि को साथ दिखाता है, इसलिए बाजार प्रतिभागियों के लिए क्षेत्रवार लेनदेन मात्रा पर नजर रखना महत्वपूर्ण है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Transaksi Guri Melonjak 314% Saat Gwacheon Lesu, Kontras Pasar Gyeonggi Makin Terlihat",
+        "excerpt": "Menurut hankyung.com, transaksi properti di Gwacheon turun tajam, sementara Guri melonjak 314%, menyoroti perbedaan arus beli antarwilayah di Gyeonggi.",
+        "body": "Menurut hankyung.com, pasar properti Provinsi Gyeonggi menunjukkan perbedaan tajam antara Gwacheon dan Guri. Di Gwacheon, aktivitas melemah hingga transaksi digambarkan hampir terhenti, sementara di Guri jumlah transaksi melonjak 314%. Angka ini menunjukkan bahwa, bahkan dalam wilayah Gyeonggi yang sama, daya beli dan kecepatan pemulihan transaksi dapat berbeda menurut daerah. Kasus ini memperlihatkan penurunan di satu wilayah dan lonjakan kuat di wilayah lain, sehingga pelaku pasar perlu mencermati perubahan volume transaksi secara lokal. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "aea7fb492f05",
+    "slug": "신축-살고-싶어요전국-집-절반이-20년-넘었다-221151",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T10:50:12.302Z",
+    "updatedAt": "2026-05-08T10:50:12.303Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050832096",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050832096",
+    "titleFingerprint": "9abcdba5bc2dc65477ce7e1cc336effc4a82cd67",
+    "dedupKeys": [
+      "aea7fb492f05551cf21e879d7d3392d89a6de602",
+      "9abcdba5bc2dc65477ce7e1cc336effc4a82cd67",
+      "72152f253d85f7f3e38e052ea3eaf848600410b4"
+    ],
+    "imageUrl": "/images/articles/aea7fb492f05.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전국 주택 절반 20년 초과, 신축 선호 커지는 이유",
+        "excerpt": "한국경제 보도에 따르면 전국 주택의 절반이 지은 지 20년을 넘기며, 신축 주거를 원하는 수요와 노후 주택 문제에 관심이 모이고 있다.",
+        "body": "전국 주택 가운데 지은 지 20년을 넘긴 집이 절반에 달하는 것으로 전해졌다. 한국경제(hankyung.com)는 ‘신축 살고 싶어요’라는 주거 수요의 목소리와 함께 전국 집 절반이 20년 넘었다고 보도했다. 이 내용은 새 아파트나 신축 주거를 선호하는 흐름이 단순한 취향을 넘어 주택 노후화와 맞닿아 있음을 보여준다. 주택 연식이 길어질수록 거주 편의, 시설 관리, 주거 환경에 대한 관심도 커질 수밖에 없다. 향후 주택 시장에서는 신축 공급과 기존 주택 관리 문제가 함께 주목될 전망이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Half of Homes Nationwide Are Over 20 Years Old as Demand for New Builds Grows",
+        "excerpt": "According to Hankyung, half of homes nationwide are now more than 20 years old, drawing attention to demand for new housing and aging housing stock.",
+        "body": "Half of homes across the country are reportedly more than 20 years old. Hankyung.com reported the trend under the theme of residents saying they want to live in newly built homes, noting that half of the nation’s housing stock has passed the 20-year mark. The figures show that preference for new housing is tied not only to taste but also to the aging of existing homes. As housing gets older, interest in residential convenience, facility management and living conditions naturally increases. The housing market is therefore expected to pay closer attention to both new supply and the upkeep of older homes. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "全国住宅の半数が築20年超、新築志向が強まる背景に注目",
+        "excerpt": "韓国経済の報道によると、全国の住宅の半数が築20年を超え、新築住宅を望む需要と老朽住宅問題への関心が高まっている。",
+        "body": "全国の住宅のうち、築20年を超える家が半数に達していると報じられた。韓国経済（hankyung.com）は「新築に住みたい」という居住需要の声とともに、全国の家の半分が20年を超えていると伝えた。この内容は、新築住宅を好む流れが単なる好みではなく、住宅の老朽化と結びついていることを示している。住宅の築年数が長くなるほど、居住の利便性、設備管理、住環境への関心も高まりやすい。今後の住宅市場では、新築供給と既存住宅の管理がともに注目される見通しだ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "全国半数住宅房龄超20年，新房居住需求为何升温",
+        "excerpt": "据韩国经济报道，全国半数住宅房龄已超过20年，新建住宅居住需求以及老旧住房问题正受到更多关注。",
+        "body": "据报道，全国住宅中有一半房龄已经超过20年。韩国经济（hankyung.com）以“想住新房”的居住需求为切入点，报道了全国半数房屋已超过20年的情况。这一内容显示，对新建住宅的偏好并不只是个人喜好，也与住房老化问题相连。随着住宅年限增加，居住便利性、设施维护和居住环境都会受到更多关注。未来住房市场预计将同时关注新房供应和既有住宅管理问题。来源: hankyung.com."
+      },
+      "es": {
+        "title": "La mitad de las viviendas del país supera los 20 años y crece el interés por obra nueva",
+        "excerpt": "Según Hankyung, la mitad de las viviendas del país tiene más de 20 años, lo que centra la atención en la demanda de casas nuevas y el envejecimiento del parque residencial.",
+        "body": "La mitad de las viviendas del país tendría más de 20 años de antigüedad. Hankyung.com informó sobre esta situación junto con la voz de quienes dicen que quieren vivir en una vivienda nueva, señalando que la mitad de las casas del país ya superó las dos décadas. El dato muestra que la preferencia por obra nueva no responde solo al gusto, sino que también está vinculada al envejecimiento de las viviendas existentes. A medida que aumenta la antigüedad, crece el interés por la comodidad, la gestión de instalaciones y el entorno residencial. El mercado deberá observar tanto la oferta nueva como el mantenimiento del parque usado. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Metade das casas do país tem mais de 20 anos, e busca por imóveis novos ganha força",
+        "excerpt": "Segundo o Hankyung, metade das moradias do país já tem mais de 20 anos, elevando a atenção sobre a demanda por imóveis novos e o envelhecimento habitacional.",
+        "body": "Metade das moradias do país teria mais de 20 anos. O Hankyung.com noticiou o tema junto à voz de moradores que dizem querer viver em imóveis novos, apontando que metade das casas nacionais já ultrapassou duas décadas. O dado mostra que a preferência por moradias novas não é apenas uma questão de gosto, mas também se relaciona ao envelhecimento do estoque habitacional. Quanto maior a idade dos imóveis, maior tende a ser a atenção à conveniência, à manutenção das instalações e ao ambiente residencial. O mercado deve observar tanto a nova oferta quanto a gestão das moradias existentes. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Landesweit ist jede zweite Wohnung über 20 Jahre alt, Neubauwunsch rückt in den Fokus",
+        "excerpt": "Laut Hankyung ist landesweit jede zweite Wohnung älter als 20 Jahre; dadurch wächst die Aufmerksamkeit für Neubau-Nachfrage und alternde Wohnbestände.",
+        "body": "Landesweit ist Berichten zufolge etwa jede zweite Wohnung beziehungsweise jedes zweite Haus älter als 20 Jahre. Hankyung.com berichtete darüber im Zusammenhang mit dem Wunsch vieler Bewohner, in Neubauten zu leben, und verwies darauf, dass die Hälfte des Wohnbestands die Marke von 20 Jahren überschritten hat. Die Zahlen zeigen, dass die Vorliebe für Neubauten nicht nur Geschmackssache ist, sondern mit der Alterung bestehender Wohnungen zusammenhängt. Mit zunehmendem Gebäudealter rücken Wohnkomfort, Anlagenmanagement und Wohnumfeld stärker in den Vordergrund. Künftig dürften sowohl Neubauangebot als auch Pflege bestehender Wohnungen wichtiger werden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "La moitié des logements du pays a plus de 20 ans, la demande de neuf attire l’attention",
+        "excerpt": "Selon Hankyung, la moitié des logements du pays a plus de 20 ans, ce qui met en lumière la demande de logements neufs et le vieillissement du parc résidentiel.",
+        "body": "La moitié des logements du pays aurait plus de 20 ans. Hankyung.com a rapporté cette situation en l’associant aux voix de résidents disant vouloir vivre dans un logement neuf, précisant que la moitié des habitations nationales a dépassé deux décennies. Ce constat montre que la préférence pour le neuf n’est pas seulement une question de goût, mais qu’elle est liée au vieillissement du parc existant. Plus un logement vieillit, plus les questions de confort, de gestion des équipements et d’environnement résidentiel deviennent importantes. Le marché devrait donc suivre à la fois l’offre neuve et l’entretien des logements existants. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "نصف المساكن في البلاد يتجاوز عمره 20 عاما مع تزايد الرغبة في السكن الجديد",
+        "excerpt": "بحسب هانكيونغ، فإن نصف المساكن في البلاد يتجاوز عمره 20 عاما، ما يسلط الضوء على الطلب على المساكن الجديدة ومشكلة تقادم المخزون السكني.",
+        "body": "أفادت تقارير بأن نصف المساكن في البلاد يتجاوز عمره 20 عاما. ونقل موقع hankyung.com هذا الواقع إلى جانب أصوات سكان يقولون إنهم يريدون العيش في مساكن جديدة، مشيرا إلى أن نصف المنازل على مستوى البلاد تخطى حاجز العقدين. وتوضح هذه المعطيات أن تفضيل المساكن الجديدة لا يرتبط بالذوق فقط، بل يتصل أيضا بتقادم المساكن القائمة. فكلما زاد عمر المسكن، زاد الاهتمام براحة السكن وإدارة المرافق والبيئة السكنية. ومن المتوقع أن يحظى كل من عرض المساكن الجديدة وصيانة المساكن القائمة باهتمام أكبر في سوق الإسكان. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "देश में आधे घर 20 साल से पुराने, नए घरों की चाहत पर बढ़ा ध्यान",
+        "excerpt": "हैंक्युंग के अनुसार देश के आधे घर 20 साल से अधिक पुराने हैं, जिससे नए आवास की मांग और पुराने होते आवासीय ढांचे पर ध्यान बढ़ रहा है।",
+        "body": "देश भर में आधे घर 20 साल से अधिक पुराने बताए गए हैं। hankyung.com ने नए घर में रहने की इच्छा जताने वाली आवासीय मांग के संदर्भ में बताया कि देश के आधे घर 20 साल की उम्र पार कर चुके हैं। यह तथ्य दिखाता है कि नए आवास को पसंद करना केवल रुचि का मामला नहीं है, बल्कि मौजूदा घरों के पुराने होने से भी जुड़ा है। घर जितने पुराने होते हैं, रहने की सुविधा, सुविधाओं के रखरखाव और आवासीय वातावरण पर उतना ही अधिक ध्यान जाता है। आगे आवास बाजार में नए घरों की आपूर्ति और पुराने घरों के प्रबंधन, दोनों पर ध्यान रहने की संभावना है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Separuh Rumah di Negara Ini Berusia Lebih dari 20 Tahun, Minat Hunian Baru Menguat",
+        "excerpt": "Menurut Hankyung, separuh rumah di seluruh negeri telah berusia lebih dari 20 tahun, memicu perhatian pada permintaan hunian baru dan penuaan stok rumah.",
+        "body": "Separuh rumah di seluruh negeri dilaporkan telah berusia lebih dari 20 tahun. Hankyung.com memberitakan hal ini bersama suara warga yang ingin tinggal di hunian baru, dengan menyebut bahwa setengah dari rumah nasional sudah melewati usia dua dekade. Data tersebut menunjukkan bahwa preferensi terhadap hunian baru bukan sekadar soal selera, tetapi juga terkait dengan penuaan rumah yang ada. Semakin tua usia bangunan, semakin besar perhatian pada kenyamanan tinggal, pengelolaan fasilitas, dan lingkungan hunian. Ke depan, pasar perumahan diperkirakan akan mencermati pasokan baru sekaligus pengelolaan rumah lama. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "e58b7312e9bc",
     "slug": "한미글로벌-서울대와-차세대-건설리더-아카데미-개설-876710",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Bank Digital Masih Condong ke Debitur Kredit Tinggi, Porsi Menengah-Rendah Terbatas",
         "excerpt": "Data Federasi Bank Korea pada 7 Mei menunjukkan skor kredit rata-rata nasabah pinjaman pribadi bank mayoritas berada di akhir 800 hingga pertengahan 900, menandakan keterbatasan inklusi bagi debitur kredit menengah dan rendah.",
         "body": "Saat pemerintah menyoroti praktik pinjaman pribadi sektor keuangan yang dinilai belum cukup merangkul debitur dengan kredit menengah dan rendah, data menunjukkan pinjaman perbankan masih terkonsentrasi pada nasabah ber kredit tinggi. Menurut Federasi Bank Korea pada 7 Mei, skor kredit rata-rata KCB nasabah yang menerima pinjaman pribadi umum dari bank pada bulan lalu sebagian besar berada di kisaran akhir 800 hingga pertengahan 900. Rata-rata tertinggi tercatat di SC First Bank 965 poin, BNK Busan Bank 954, SH Suhyup Bank 940, NH NongHyup Bank 932, dan Toss Bank 930. Bank khusus internet, yang sejak awal menekankan perluasan pinjaman berbunga menengah, juga masih mencatat porsi pinjaman untuk kredit menengah dan rendah sekitar 30%. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8bd5cabba5ce",
-    "slug": "道公-퇴직자단체-고속도-휴게소-수익금-파티-204549",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T21:37:28.450Z",
-    "updatedAt": "2026-05-07T21:37:28.450Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882681/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133882681/2",
-    "titleFingerprint": "ee3a55c1c2c74544c1eaa0932cb885d178fd67a2",
-    "dedupKeys": [
-      "8bd5cabba5ce695e37bf2d37a99b4d8b286d42bc",
-      "ee3a55c1c2c74544c1eaa0932cb885d178fd67a2",
-      "6b3a9c6e27e5634251263a352183f27c14397d3f"
-    ],
-    "imageUrl": "/images/articles/8bd5cabba5ce.jpg",
-    "i18n": {
-      "ko": {
-        "title": "도로공사 퇴직자단체 도성회, 고속도로 휴게소 수익 배당 논란",
-        "excerpt": "국토교통부는 7일 한국도로공사 퇴직자단체 도성회가 자회사 H&DE의 고속도로 휴게시설 운영 수익을 회원 경조금 등에 사용한 감사 결과를 발표했다.",
-        "body": "국토교통부는 7일 한국도로공사와 퇴직자단체 도성회에 대한 감사 결과를 발표하며, 도성회가 자회사를 통해 고속도로 휴게시설을 운영하고 배당 수익 일부를 회원 생일축하금 등으로 지급해 온 사실을 공개했다. 도성회는 1984년 2월 설립된 친목단체로, 2024년 말 기준 퇴직자 약 2800명을 회원으로 두고 있다. 감사에 따르면 도성회는 휴게시설 운영기업 H&DE 지분 100%를 보유하고 있으며 대표이사 등 임원 4명도 모두 도성회 회원이다. 도성회는 2016년부터 2025년까지 H&DE에서 연평균 8억8000만 원을 배당받았고, 이 가운데 약 4억 원을 회원 경조금 명목으로 썼다. 세부 항목은 고희·희수 등 축하금 1억500만 원, 일반 생일축하금 8300만 원, 축·조의금 7400만 원, 기념품 1억3000만 원 등이다. 이번 감사 결과는 공공기관 퇴직자단체와 자회사 운영 수익의 사용 방식에 대한 논란으로 이어질 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Korea Expressway Retiree Group Faces Scrutiny Over Rest-Area Profits",
-        "excerpt": "South Korea’s transport ministry said on May 7 that the Korea Expressway retirees’ group Doseonghoe used subsidiary H&DE rest-area dividends for member gifts and allowances.",
-        "body": "South Korea’s Ministry of Land, Infrastructure and Transport announced audit findings on May 7 concerning Korea Expressway Corporation and its retirees’ association, Doseonghoe. The audit found that the group operated highway rest facilities through its wholly owned subsidiary H&DE and used part of the dividend income for members’ birthday payments and other congratulatory or condolence benefits. Doseonghoe was founded in February 1984 and had about 2,800 retired members as of the end of 2024. According to the ministry, Doseonghoe owns 100% of H&DE, and all four executives, including the chief executive, are members of the association. From 2016 to 2025, Doseonghoe received an annual average of 880 million won in dividends from H&DE and spent about 400 million won of that on member benefits. The spending included 105 million won for milestone birthday payments, 83 million won for ordinary birthday gifts, 74 million won for congratulatory and condolence money, and 130 million won for souvenirs. The findings are expected to fuel debate over how retiree groups tied to public corporations use profits from affiliated companies. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国道路公社退職者団体、高速道路休憩施設収益の使途で波紋",
-        "excerpt": "韓国国土交通部は7日、道路公社退職者団体の道成会が子会社H&DEの高速道路休憩施設収益を会員の慶弔金などに使った監査結果を発表した。",
-        "body": "韓国国土交通部は7日、韓国道路公社と同公社の退職者団体である道成会に対する監査結果を発表し、道成会が子会社を通じて高速道路休憩施設を運営し、配当収益の一部を会員の誕生日祝い金などとして支給していたと明らかにした。道成会は1984年2月に設立された親睦団体で、2024年末時点で退職者約2800人を会員としている。監査によると、道成会は休憩施設運営会社H&DEの株式を100%保有し、代表取締役を含む役員4人も全員が道成会会員だった。道成会は2016年から2025年までH&DEから年平均8億8000万ウォンの配当を受け、そのうち約4億ウォンを会員の慶弔金名目で使った。内訳は古希・喜寿などの祝い金1億500万ウォン、一般の誕生日祝い金8300万ウォン、祝い金・弔慰金7400万ウォン、記念品1億3000万ウォンなどだった。今回の監査結果は、公的機関退職者団体と子会社収益の使途をめぐる論議につながる見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国道路公社退休者团体被查，高速公路服务区收益用途引争议",
-        "excerpt": "韩国国土交通部7日发布审计结果称，道路公社退休者团体道成会通过子公司H&DE经营高速公路服务设施，并将部分收益用于会员慰问金等支出。",
-        "body": "韩国国土交通部7日公布对韩国道路公社及其退休者团体道成会的审计结果，称道成会通过子公司经营高速公路服务设施，并将部分分红收益用于会员生日祝贺金等支出。道成会成立于1984年2月，是一个联谊性质团体，截至2024年底拥有约2800名退休者会员。审计显示，道成会100%持有高速公路服务设施运营企业H&DE，代表理事等4名高管也全部为道成会会员。2016年至2025年，道成会每年平均从H&DE获得8.8亿韩元分红，其中约4亿韩元以会员红白事慰问金等名义支出。具体包括古稀、喜寿等祝贺金1.05亿韩元、普通生日祝贺金8300万韩元、祝贺及吊唁金7400万韩元、纪念品1.3亿韩元等。此次审计结果预计将引发围绕公共机构退休者团体及其子公司收益使用方式的争议。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Grupo de jubilados de Korea Expressway, bajo la lupa por ganancias de áreas de descanso",
-        "excerpt": "El Ministerio de Transporte surcoreano informó el 7 de mayo que Doseonghoe, grupo de jubilados de Korea Expressway, usó dividendos de H&DE para pagos y regalos a socios.",
-        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur anunció el 7 de mayo los resultados de una auditoría sobre Korea Expressway Corporation y su asociación de jubilados, Doseonghoe. Según la auditoría, el grupo operaba instalaciones de descanso en autopistas mediante su filial H&DE y utilizó parte de los dividendos para pagos de cumpleaños y otros beneficios de felicitación o condolencia a sus miembros. Doseonghoe fue fundada en febrero de 1984 y tenía unos 2.800 jubilados afiliados al cierre de 2024. El ministerio señaló que Doseonghoe posee el 100% de H&DE y que los cuatro directivos, incluido el director ejecutivo, son miembros de la asociación. Entre 2016 y 2025, Doseonghoe recibió de H&DE un promedio anual de 880 millones de wones en dividendos y destinó unos 400 millones de wones a beneficios para socios. El gasto incluyó 105 millones de wones para celebraciones de edades especiales, 83 millones para cumpleaños ordinarios, 74 millones para felicitaciones y condolencias, y 130 millones para obsequios conmemorativos. El caso puede ampliar el debate sobre el uso de ingresos de filiales vinculadas a entidades públicas. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Grupo de aposentados da Korea Expressway é questionado por lucros de áreas de descanso",
-        "excerpt": "O Ministério dos Transportes da Coreia do Sul informou em 7 de maio que a Doseonghoe usou dividendos da H&DE, operadora de áreas de descanso, em benefícios a membros.",
-        "body": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul divulgou em 7 de maio os resultados de uma auditoria sobre a Korea Expressway Corporation e sua associação de aposentados, Doseonghoe. A auditoria apontou que o grupo operava instalações de descanso em rodovias por meio da subsidiária H&DE e usava parte dos dividendos para pagamentos de aniversário e outros benefícios de congratulação ou condolência a seus membros. A Doseonghoe foi criada em fevereiro de 1984 e tinha cerca de 2.800 aposentados associados no fim de 2024. Segundo o ministério, a entidade detém 100% da H&DE, e os quatro executivos, incluindo o diretor-presidente, também são membros da associação. De 2016 a 2025, a Doseonghoe recebeu em média 880 milhões de wones por ano em dividendos da H&DE e destinou cerca de 400 milhões de wones a benefícios para associados. Os gastos incluíram 105 milhões de wones para celebrações de idades especiais, 83 milhões para aniversários comuns, 74 milhões para congratulações e condolências, e 130 milhões para brindes comemorativos. O resultado deve alimentar discussões sobre o uso de receitas de subsidiárias ligadas a entidades públicas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Rentnerverein von Korea Expressway wegen Raststätten-Gewinnen in der Kritik",
-        "excerpt": "Südkoreas Verkehrsministerium teilte am 7. Mai mit, dass Doseonghoe Dividenden der Tochter H&DE aus Autobahnraststätten für Zahlungen und Geschenke an Mitglieder nutzte.",
-        "body": "Das südkoreanische Ministerium für Land, Infrastruktur und Verkehr veröffentlichte am 7. Mai Prüfungsergebnisse zu Korea Expressway Corporation und deren Rentnervereinigung Doseonghoe. Demnach betrieb die Gruppe über ihre Tochtergesellschaft H&DE Autobahn-Rastanlagen und verwendete einen Teil der Dividendenerträge für Geburtstagszahlungen sowie weitere Glückwunsch- und Beileidsleistungen an Mitglieder. Doseonghoe wurde im Februar 1984 gegründet und hatte Ende 2024 rund 2.800 pensionierte Mitglieder. Laut Ministerium hält Doseonghoe 100% an H&DE; auch alle vier Führungskräfte, einschließlich des Vorstandschefs, sind Mitglieder der Vereinigung. Von 2016 bis 2025 erhielt Doseonghoe von H&DE jährlich im Durchschnitt 880 Millionen Won an Dividenden und gab davon etwa 400 Millionen Won für Mitgliederleistungen aus. Dazu gehörten 105 Millionen Won für besondere Altersjubiläen, 83 Millionen Won für reguläre Geburtstagsgeschenke, 74 Millionen Won für Glückwunsch- und Kondolenzzahlungen sowie 130 Millionen Won für Erinnerungspräsente. Die Ergebnisse dürften eine Debatte über die Verwendung von Gewinnen verbundener Unternehmen öffentlicher Institutionen auslösen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Un groupe de retraités de Korea Expressway visé pour les profits des aires d’autoroute",
-        "excerpt": "Le ministère sud-coréen des Transports a indiqué le 7 mai que Doseonghoe avait utilisé des dividendes de H&DE, exploitant d’aires d’autoroute, pour des avantages à ses membres.",
-        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a publié le 7 mai les résultats d’un audit visant Korea Expressway Corporation et son association de retraités, Doseonghoe. Selon l’audit, le groupe exploitait des aires de repos autoroutières par l’intermédiaire de sa filiale H&DE et utilisait une partie des dividendes pour verser des cadeaux d’anniversaire ainsi que d’autres prestations de félicitations ou de condoléances à ses membres. Doseonghoe a été fondée en février 1984 et comptait environ 2.800 retraités membres fin 2024. Le ministère indique que l’association détient 100% de H&DE et que les quatre dirigeants, dont le directeur général, sont tous membres de Doseonghoe. De 2016 à 2025, l’association a reçu en moyenne 880 millions de wons par an de dividendes de H&DE et a consacré environ 400 millions de wons à ces avantages. Les dépenses comprenaient 105 millions de wons pour des anniversaires d’âge marquants, 83 millions pour des anniversaires ordinaires, 74 millions pour des félicitations et condoléances, et 130 millions pour des souvenirs. Ces conclusions devraient relancer le débat sur l’usage des revenus de filiales liées à des organismes publics. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "تدقيق يطال رابطة متقاعدي شركة الطرق الكورية بسبب أرباح استراحات الطرق السريعة",
-        "excerpt": "أعلنت وزارة النقل الكورية الجنوبية في 7 مايو أن رابطة دوسونغهوي استخدمت توزيعات أرباح H&DE من مرافق استراحات الطرق السريعة في هدايا ومدفوعات للأعضاء.",
-        "body": "أعلنت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية في 7 مايو نتائج تدقيق شمل شركة الطرق السريعة الكورية ورابطة متقاعديها دوسونغهوي. وخلص التدقيق إلى أن الرابطة أدارت مرافق استراحة على الطرق السريعة عبر شركتها التابعة H&DE، واستخدمت جزءا من توزيعات الأرباح في مدفوعات أعياد ميلاد ومبالغ تهنئة وتعزية لأعضائها. تأسست دوسونغهوي في فبراير 1984، وكان لديها نحو 2800 عضو من المتقاعدين حتى نهاية 2024. وبحسب الوزارة، تمتلك الرابطة 100% من H&DE، كما أن المسؤولين التنفيذيين الأربعة، بمن فيهم الرئيس التنفيذي، جميعهم أعضاء في الرابطة. ومن 2016 إلى 2025 تلقت دوسونغهوي من H&DE توزيعات أرباح سنوية بمتوسط 880 مليون وون، وأنفقت منها نحو 400 مليون وون على مزايا للأعضاء. وشملت البنود 105 ملايين وون لتهاني مناسبات عمرية مثل السبعين، و83 مليون وون لأعياد الميلاد العادية، و74 مليون وون للتهاني والتعازي، و130 مليون وون للهدايا التذكارية. ومن المتوقع أن تثير النتائج نقاشا حول استخدام أرباح الشركات التابعة المرتبطة بالمؤسسات العامة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "कोरिया एक्सप्रेसवे के सेवानिवृत्त समूह पर रेस्ट एरिया मुनाफे के इस्तेमाल को लेकर सवाल",
-        "excerpt": "दक्षिण कोरिया के परिवहन मंत्रालय ने 7 मई को बताया कि Doseonghoe ने H&DE से मिले हाईवे रेस्ट सुविधा लाभांश का उपयोग सदस्यों के उपहारों और भुगतानों में किया।",
-        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने 7 मई को Korea Expressway Corporation और उसके सेवानिवृत्त कर्मचारियों के संगठन Doseonghoe पर ऑडिट के निष्कर्ष जारी किए। ऑडिट में कहा गया कि संगठन ने अपनी पूर्ण स्वामित्व वाली सहायक कंपनी H&DE के माध्यम से हाईवे रेस्ट सुविधाएं संचालित कीं और लाभांश आय का एक हिस्सा सदस्यों को जन्मदिन भुगतान तथा अन्य बधाई और शोक राशि के रूप में दिया। Doseonghoe फरवरी 1984 में स्थापित एक मैत्री संगठन है और 2024 के अंत तक इसमें लगभग 2,800 सेवानिवृत्त सदस्य थे। मंत्रालय के अनुसार Doseonghoe के पास H&DE की 100% हिस्सेदारी है, और मुख्य कार्यकारी सहित चारों अधिकारी संगठन के सदस्य हैं। 2016 से 2025 तक Doseonghoe को H&DE से सालाना औसतन 88 करोड़ वॉन लाभांश मिला, जिसमें से करीब 40 करोड़ वॉन सदस्यों के लाभों पर खर्च किए गए। इसमें विशेष आयु समारोहों के लिए 10.5 करोड़ वॉन, सामान्य जन्मदिन के लिए 8.3 करोड़ वॉन, बधाई और शोक राशि के लिए 7.4 करोड़ वॉन तथा स्मृति उपहारों के लिए 13 करोड़ वॉन शामिल थे। निष्कर्ष सार्वजनिक संस्थानों से जुड़े सेवानिवृत्त समूहों और सहायक कंपनियों की आय के उपयोग पर बहस बढ़ा सकते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Kelompok Pensiunan Korea Expressway Disorot soal Laba Rest Area Jalan Tol",
-        "excerpt": "Kementerian Transportasi Korea Selatan pada 7 Mei menyebut Doseonghoe memakai dividen H&DE dari pengelolaan fasilitas rest area jalan tol untuk hadiah dan santunan anggota.",
-        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan pada 7 Mei mengumumkan hasil audit terhadap Korea Expressway Corporation dan kelompok pensiunannya, Doseonghoe. Audit menemukan bahwa kelompok tersebut mengoperasikan fasilitas istirahat jalan tol melalui anak perusahaan H&DE dan memakai sebagian pendapatan dividen untuk pembayaran ulang tahun serta dana ucapan selamat dan belasungkawa bagi anggota. Doseonghoe didirikan pada Februari 1984 sebagai kelompok pertemanan dan memiliki sekitar 2.800 anggota pensiunan pada akhir 2024. Menurut kementerian, Doseonghoe memiliki 100% saham H&DE, dan empat eksekutif termasuk direktur utama semuanya merupakan anggota Doseonghoe. Dari 2016 hingga 2025, Doseonghoe menerima rata-rata 880 juta won per tahun dalam bentuk dividen dari H&DE dan menggunakan sekitar 400 juta won untuk manfaat anggota. Rinciannya mencakup 105 juta won untuk perayaan usia khusus, 83 juta won untuk ulang tahun biasa, 74 juta won untuk ucapan selamat dan belasungkawa, serta 130 juta won untuk cendera mata. Hasil audit ini diperkirakan memicu pembahasan tentang penggunaan pendapatan anak perusahaan yang terkait dengan lembaga publik. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "a3e3ee2859ff",
-    "slug": "햄스터-세포-너무-비싸-계란으로-항암제-만든다-928242",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T21:36:06.293Z",
-    "updatedAt": "2026-05-07T21:36:06.293Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/It/article/all/20260508/133881387/2",
-    "canonicalUrl": "https://www.donga.com/news/It/article/all/20260508/133881387/2",
-    "titleFingerprint": "b08209743b341efa1c077745f8996fb3cfd1dc04",
-    "dedupKeys": [
-      "a3e3ee2859ff9b345d82a7a7992acbe555635ae3",
-      "b08209743b341efa1c077745f8996fb3cfd1dc04",
-      "a27225255d6fb45e667ac768b2d86d3f612d92f7"
-    ],
-    "imageUrl": "/images/articles/a3e3ee2859ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "계란 기반 항암제 생산 주목… 고비용 CHO 세포 대체 가능성 부상",
-        "excerpt": "7일 과학계에 따르면 키트루다 등 주요 단백질 의약품 생산이 고비용 CHO 세포에 의존하는 가운데, 일부 과학자들이 계란을 차세대 생산 기반으로 제시했다.",
-        "body": "7일 과학계에 따르면 대표 면역항암제 키트루다를 포함한 전 세계 인기 의약품 상당수는 단백질 형태이며, 이들 단백질 의약품 생산의 70% 이상은 중국 햄스터 난소 세포, 즉 CHO 세포 플랫폼에 의존하고 있다. CHO 세포는 연구용 중국 햄스터가 미국으로 건너가며 활용이 시작됐고, 염색체 수가 적은 세포주를 선호한 생명공학 연구 흐름 속에서 자리 잡았다. 대장균은 인간 체내의 복잡한 단백질이나 단백질 기반 의약품 생산에 한계를 보였다. 이런 가운데 일부 과학자들은 고비용 CHO 세포를 대체할 차세대 생산 기반으로 계란을 제시하고 있다. 수십 년간 유지된 단백질 의약품 생산 방식에 변화가 생길지 관심이 모인다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Egg-Based Cancer Drug Production Draws Attention as CHO Cell Alternative",
-        "excerpt": "According to the science community on May 7, as major protein drugs such as Keytruda rely on costly CHO cells, some scientists are proposing eggs as a next-generation production platform.",
-        "body": "According to the science community on May 7, many of the world’s popular medicines, including the leading immuno-oncology drug Keytruda, are protein-based. More than 70% of protein drug production depends on the Chinese hamster ovary cell, or CHO cell, platform. CHO cells began to be used after Chinese hamsters raised for research were brought to the United States, and they gained ground as biotechnologists favored cell lines with fewer chromosomes. E. coli showed limits in producing complex proteins found in the human body or protein-based medicines. Against this backdrop, some scientists are presenting eggs as a next-generation production base that could replace costly CHO cells. Attention is focused on whether a production method maintained for decades may change. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "卵を使う抗がん剤生産に注目、高コストCHO細胞の代替候補に",
-        "excerpt": "科学界によると5月7日、キイトルーダなど主要なたんぱく質医薬品が高コストのCHO細胞に依存する中、一部科学者が卵を次世代の生産基盤として提案した。",
-        "body": "5月7日の科学界によると、代表的な免疫抗がん剤キイトルーダを含む世界の人気医薬品の多くはたんぱく質の形態であり、こうしたたんぱく質医薬品の生産の70%以上はチャイニーズハムスター卵巣細胞、すなわちCHO細胞プラットフォームに依存している。CHO細胞は研究用に飼育されていたチャイニーズハムスターが米国に渡ったことから利用が始まり、染色体数の少ない細胞株を好む生命工学研究の流れの中で定着した。大腸菌は人体内の複雑なたんぱく質やたんぱく質ベースの医薬品を作るうえで限界を示した。こうした中、一部の科学者は高コストのCHO細胞に代わる次世代生産基盤として卵を提示している。数十年維持されてきた生産方式に変化が起きるか注目される。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "鸡蛋生产抗癌药受关注，高成本CHO细胞替代方案浮现",
-        "excerpt": "据科学界5月7日消息，在Keytruda等主要蛋白质药物依赖高成本CHO细胞之际，部分科学家提出将鸡蛋作为下一代生产平台。",
-        "body": "据科学界5月7日消息，包括代表性免疫抗癌药Keytruda在内，全球许多热门药物属于蛋白质形态。这类蛋白质药物生产的70%以上依赖中国仓鼠卵巢细胞，即CHO细胞平台。CHO细胞的使用始于用于研究饲养的中国仓鼠被带到美国之后，并在生物技术研究人员偏好染色体数量较少细胞株的背景下确立地位。大肠杆菌在制造人体内复杂蛋白质或蛋白质类药物方面显示出局限。在此情况下，部分科学家提出以鸡蛋作为替代高成本CHO细胞的下一代生产基础。持续数十年的蛋白质药物生产方式是否会发生变化，正受到关注。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Producción de fármacos contra el cáncer con huevos gana atención frente a células CHO",
-        "excerpt": "Según la comunidad científica el 7 de mayo, mientras medicamentos proteicos clave como Keytruda dependen de costosas células CHO, algunos científicos proponen los huevos como plataforma futura.",
-        "body": "Según la comunidad científica el 7 de mayo, muchos de los medicamentos populares del mundo, incluido Keytruda, un inmunoanticancerígeno representativo, son de forma proteica. Más del 70% de la producción de estos medicamentos proteicos depende de la plataforma de células de ovario de hámster chino, conocidas como células CHO. Su historia comenzó cuando hámsteres chinos criados para investigación llegaron a Estados Unidos, y se consolidaron en un contexto en el que los biotecnólogos preferían líneas celulares con menor número de cromosomas. E. coli mostró limitaciones para fabricar proteínas complejas del cuerpo humano o medicamentos basados en proteínas. En este contexto, algunos científicos plantean los huevos como base de producción de próxima generación para sustituir las costosas células CHO. Crece el interés por saber si cambiará un método mantenido durante décadas. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Produção de anticancerígenos com ovos ganha atenção como alternativa às células CHO",
-        "excerpt": "Segundo a comunidade científica em 7 de maio, enquanto fármacos proteicos como Keytruda dependem de células CHO caras, alguns cientistas propõem ovos como plataforma de próxima geração.",
-        "body": "Segundo a comunidade científica em 7 de maio, muitos medicamentos populares no mundo, incluindo o imunoterápico anticâncer Keytruda, são de natureza proteica. Mais de 70% da produção desses medicamentos proteicos depende da plataforma de células de ovário de hamster chinês, conhecidas como células CHO. A história das CHO começou quando hamsters chineses criados para pesquisa foram levados aos Estados Unidos, ganhando espaço em uma fase em que biotecnólogos preferiam linhagens celulares com menor número de cromossomos. A E. coli mostrou limites para produzir proteínas complexas do corpo humano ou medicamentos baseados em proteínas. Nesse cenário, alguns cientistas apresentam ovos como uma base de produção de próxima geração para substituir as caras células CHO. Há atenção sobre possível mudança em um método mantido por décadas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Krebsmedikamente aus Eiern rücken als Alternative zu teuren CHO-Zellen in den Fokus",
-        "excerpt": "Laut Wissenschaftskreisen vom 7. Mai hängen wichtige Proteinmedikamente wie Keytruda von teuren CHO-Zellen ab; einige Forscher schlagen Eier als nächste Produktionsbasis vor.",
-        "body": "Laut Wissenschaftskreisen vom 7. Mai liegen viele weltweit gefragte Arzneimittel, darunter das bekannte Immunonkologikum Keytruda, in Proteinform vor. Mehr als 70% der Produktion solcher Proteinmedikamente stützt sich auf die Plattform aus Ovarialzellen des chinesischen Hamsters, kurz CHO-Zellen. Die Nutzung dieser Zellen begann, nachdem zu Forschungszwecken gehaltene chinesische Hamster in die USA gelangt waren. Sie setzten sich in einer Forschungsrichtung durch, in der Biotechnologen Zelllinien mit geringer Chromosomenzahl bevorzugten. E. coli zeigte Grenzen bei der Herstellung komplexer menschlicher Proteine oder proteinbasierter Arzneien. Vor diesem Hintergrund nennen einige Wissenschaftler Eier als Produktionsbasis der nächsten Generation, die teure CHO-Zellen ersetzen könnte. Ob sich eine jahrzehntelang etablierte Produktionsweise verändert, zieht Aufmerksamkeit auf sich. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Des anticancéreux produits avec des œufs attirent l’attention face aux coûteuses cellules CHO",
-        "excerpt": "Selon les milieux scientifiques le 7 mai, alors que des médicaments protéiques majeurs comme Keytruda dépendent de cellules CHO coûteuses, certains chercheurs proposent les œufs comme nouvelle base.",
-        "body": "Selon les milieux scientifiques le 7 mai, une grande partie des médicaments populaires dans le monde, dont Keytruda, immunothérapie anticancéreuse représentative, sont des médicaments sous forme de protéines. Plus de 70% de leur production repose sur la plateforme de cellules ovariennes de hamster chinois, ou cellules CHO. L’histoire des cellules CHO a commencé lorsque des hamsters chinois élevés pour la recherche sont arrivés aux États-Unis, puis s’est imposée dans un contexte où les biotechnologistes privilégiaient des lignées cellulaires avec peu de chromosomes. E. coli a montré ses limites pour produire des protéines humaines complexes ou des médicaments à base de protéines. Dans ce contexte, certains scientifiques présentent les œufs comme une base de production de nouvelle génération pouvant remplacer les coûteuses cellules CHO. L’attention se porte sur une possible évolution d’une méthode maintenue depuis des décennies. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "إنتاج أدوية السرطان من البيض يبرز كبديل محتمل لخلايا CHO المكلفة",
-        "excerpt": "بحسب الأوساط العلمية في 7 مايو، تعتمد أدوية بروتينية كبرى مثل كيترودا على خلايا CHO المكلفة، فيما يقترح بعض العلماء البيض كمنصة إنتاج من الجيل التالي.",
-        "body": "بحسب الأوساط العلمية في 7 مايو، فإن عددا كبيرا من الأدوية الرائجة عالميا، ومنها دواء العلاج المناعي للسرطان كيترودا، يأتي في صورة بروتينات. ويعتمد أكثر من 70% من إنتاج هذه الأدوية البروتينية على منصة خلايا مبيض الهامستر الصيني، المعروفة باسم خلايا CHO. بدأ تاريخ هذه الخلايا عندما انتقل الهامستر الصيني المستخدم في الأبحاث إلى الولايات المتحدة، ثم ترسخت مكانتها مع تفضيل علماء التكنولوجيا الحيوية للسلالات الخلوية ذات العدد الأقل من الكروموسومات. وأظهرت بكتيريا E. coli حدودا في إنتاج البروتينات المعقدة داخل جسم الإنسان أو الأدوية القائمة على البروتين. وفي هذا السياق، يطرح بعض العلماء البيض كأساس إنتاج من الجيل التالي يمكن أن يحل محل خلايا CHO العالية التكلفة. وينصب الاهتمام على ما إذا كانت طريقة إنتاج استمرت لعقود قد تشهد تغييرا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "महंगी CHO कोशिकाओं के विकल्प के रूप में अंडों से कैंसर दवा उत्पादन पर ध्यान",
-        "excerpt": "वैज्ञानिक समुदाय के अनुसार 7 मई को, Keytruda जैसी प्रमुख प्रोटीन दवाएं महंगी CHO कोशिकाओं पर निर्भर हैं, जबकि कुछ वैज्ञानिक अंडों को अगली पीढ़ी का उत्पादन आधार बता रहे हैं।",
-        "body": "वैज्ञानिक समुदाय के अनुसार 7 मई को, प्रमुख इम्यूनो-ऑन्कोलॉजी दवा Keytruda सहित दुनिया की कई लोकप्रिय दवाएं प्रोटीन रूप में हैं। ऐसी प्रोटीन दवाओं के उत्पादन का 70% से अधिक हिस्सा चीनी हैम्स्टर ओवरी कोशिकाओं, यानी CHO सेल प्लेटफॉर्म, पर निर्भर करता है। CHO कोशिकाओं का इतिहास तब शुरू हुआ जब शोध के लिए पाले गए चीनी हैम्स्टर अमेरिका पहुंचे, और यह उस समय स्थापित हुआ जब जैवप्रौद्योगिकी विशेषज्ञ कम गुणसूत्र संख्या वाली कोशिका रेखाओं को पसंद करते थे। E. coli ने मानव शरीर के जटिल प्रोटीन या प्रोटीन-आधारित दवाएं बनाने में सीमाएं दिखाईं। इसी बीच कुछ वैज्ञानिक महंगी CHO कोशिकाओं की जगह लेने वाले अगली पीढ़ी के उत्पादन आधार के रूप में अंडों को पेश कर रहे हैं। दशकों से कायम प्रोटीन दवा उत्पादन पद्धति में बदलाव होगा या नहीं, इस पर ध्यान है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Produksi Obat Kanker Berbasis Telur Disorot sebagai Alternatif Sel CHO Mahal",
-        "excerpt": "Menurut kalangan sains pada 7 Mei, saat obat protein utama seperti Keytruda bergantung pada sel CHO yang mahal, sebagian ilmuwan mengusulkan telur sebagai platform produksi generasi berikutnya.",
-        "body": "Menurut kalangan sains pada 7 Mei, banyak obat populer dunia, termasuk obat imunoterapi kanker Keytruda, berbentuk protein. Lebih dari 70% produksi obat protein semacam itu bergantung pada platform sel ovarium hamster Tiongkok, atau sel CHO. Riwayat sel CHO dimulai ketika hamster Tiongkok yang dipelihara untuk penelitian dibawa ke Amerika Serikat, lalu menguat dalam arus riset bioteknologi yang menyukai lini sel dengan jumlah kromosom lebih sedikit. E. coli menunjukkan keterbatasan dalam membuat protein kompleks di tubuh manusia atau obat berbasis protein. Dalam situasi ini, sebagian ilmuwan mengajukan telur sebagai basis produksi generasi berikutnya untuk menggantikan sel CHO yang berbiaya tinggi. Perhatian tertuju pada apakah metode produksi obat protein yang bertahan puluhan tahun akan berubah. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "7027402e752a",
-    "slug": "한노총-이어-민노총도-지방선거-청구서-특수고용-플랫폼직-노동자-인정해달라-812429",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T21:34:58.432Z",
-    "updatedAt": "2026-05-07T21:34:58.432Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260508/133882911/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260508/133882911/2",
-    "titleFingerprint": "33ef56d9727abefd4c5de04c3677a28d011fb5d7",
-    "dedupKeys": [
-      "7027402e752aa77e1d175da4375edcadfa375ebf",
-      "33ef56d9727abefd4c5de04c3677a28d011fb5d7",
-      "4bebbc135dca7331f3f1641354d2641ecf70801b"
-    ],
-    "imageUrl": "/images/articles/7027402e752a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "민노총, 지방선거 앞두고 특수고용·플랫폼 노동자 보호 조례 요구",
-        "excerpt": "민노총 서비스연맹 특수고용자·플랫폼노동 특별위원회는 7일 6·3 지방선거 요구안을 발표하고 지자체 조례로 특수고용·플랫폼 노동자 보호를 요구했다.",
-        "body": "전국민주노동조합총연맹 서비스연맹 특수고용자·플랫폼노동 특별위원회는 7일 서울 중구 광화문광장에서 기자회견을 열고 6·3 지방선거 요구안을 발표했다. 민노총은 특수고용직과 플랫폼 노동자, 프리랜서, 민간위탁 노동자 등을 노동정책 보호 대상에 포함해야 한다고 요구했다. 요구안에는 노동관계법 적용 여부와 관계없이 일하는 사람을 폭넓게 보호하는 지방자치단체 조례를 제정하라는 내용이 담겼다. 또 지자체가 물가와 주거비 등을 고려해 비정규직 근로자에게 지급하는 생활임금을 이들에게도 적용하고, 산재보험료 노동자 부담분도 지원해야 한다고 했다. 노란봉투법 시행과 맞물려 노동자 개념과 정부 책임 범위가 지나치게 넓어질 수 있다는 우려도 제기된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "KCTU urges local election pledges to protect platform and gig workers",
-        "excerpt": "On May 7, a KCTU service federation committee announced demands for the June 3 local elections, calling for municipal ordinances to protect platform, freelance and specially employed workers.",
-        "body": "The Korean Confederation of Trade Unions’ Service Federation special committee on specially employed and platform labor held a press conference on May 7 at Gwanghwamun Square in Jung-gu, Seoul, and announced its demands for the June 3 local elections. The KCTU called for specially employed workers, platform workers, freelancers and private-contracted workers to be included in labor policy protections. The proposal asks local governments to enact ordinances that broadly protect working people regardless of whether labor relations laws apply. It also demands that living wages, paid to nonregular workers based on prices and housing costs, be extended to these workers, and that local governments support workers’ shares of industrial accident insurance premiums. Concerns have also been raised that, together with the Yellow Envelope Act, the scope of “worker” status and government responsibility could become too broad. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "民主労総、地方選前に特殊雇用・プラットフォーム労働者保護条例を要求",
-        "excerpt": "民主労総サービス連盟の特別委員会は7日、6月3日の地方選挙に向けた要求案を発表し、自治体条例による特殊雇用・プラットフォーム労働者の保護を求めた。",
-        "body": "全国民主労働組合総連盟サービス連盟の特殊雇用者・プラットフォーム労働特別委員会は7日、ソウル中区の光化門広場で記者会見を開き、6月3日地方選挙に向けた要求案を発表した。民主労総は、特殊雇用職、プラットフォーム労働者、フリーランス、民間委託労働者などを労働政策の保護対象に含めるべきだと求めた。要求案には、労働関係法の適用有無にかかわらず、働く人を幅広く保護する地方自治体条例の制定が盛り込まれた。また、自治体が物価や住居費などを考慮して非正規労働者に支給する生活賃金をこれらの人々にも適用し、産業災害保険料の労働者負担分も支援すべきだとした。黄色封筒法の施行と重なり、労働者概念と政府責任の範囲が過度に広がるとの懸念も出ている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "民劳总地方选举前要求保护特殊雇佣与平台劳动者",
-        "excerpt": "民劳总服务联盟特别委员会7日发布6月3日地方选举诉求，要求地方政府通过条例保护特殊雇佣、平台、自由职业及民间委托劳动者。",
-        "body": "全国民主劳动组合总联盟服务联盟特殊雇佣者与平台劳动特别委员会7日在首尔中区光化门广场举行记者会，发布6月3日地方选举诉求。民劳总要求将特殊雇佣职、平台劳动者、自由职业者、民间委托劳动者等纳入劳动政策保护对象。诉求内容包括，不论是否适用劳动关系法律，地方自治团体都应制定广泛保护劳动者的条例。民劳总还要求，把地方政府为保障非正规劳动者生计、考虑物价和住房费用等支付的生活工资适用于这些群体，并支持其产业灾害保险费中由劳动者承担的部分。与此同时，也有观点担忧，在“黄色信封法”实施背景下，劳动者概念和政府责任范围可能被过度扩大。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "KCTU pide ordenanzas para proteger a trabajadores de plataforma y autónomos",
-        "excerpt": "El 7 de mayo, un comité de la federación de servicios de KCTU presentó sus demandas para las elecciones locales del 3 de junio y pidió protección municipal para trabajadores especiales y de plataforma.",
-        "body": "El comité especial de la Federación de Servicios de la Confederación Coreana de Sindicatos para trabajadores de empleo especial y de plataformas celebró el 7 de mayo una rueda de prensa en la plaza Gwanghwamun, en Jung-gu, Seúl, y presentó sus demandas para las elecciones locales del 3 de junio. KCTU pidió incluir a trabajadores de empleo especial, de plataformas, freelancers y empleados de servicios subcontratados privados dentro de la protección de la política laboral. La propuesta exige que los gobiernos locales aprueben ordenanzas que protejan ampliamente a quienes trabajan, independientemente de si se les aplican las leyes laborales. También pide extenderles el salario vital que los municipios pagan a trabajadores no regulares considerando precios y vivienda, y apoyar la parte de las primas del seguro de accidentes laborales que corresponde al trabajador. Se han planteado preocupaciones de que, junto con la Ley del Sobre Amarillo, el concepto de trabajador y la responsabilidad del gobierno puedan ampliarse demasiado. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "KCTU pede proteção a trabalhadores de plataforma antes das eleições locais",
-        "excerpt": "Em 7 de maio, um comitê da federação de serviços da KCTU anunciou reivindicações para as eleições locais de 3 de junho e pediu ordenanças municipais para proteger trabalhadores especiais e de plataforma.",
-        "body": "O comitê especial da Federação de Serviços da Confederação Coreana de Sindicatos para trabalhadores de vínculo especial e de plataformas realizou em 7 de maio uma coletiva na praça Gwanghwamun, em Jung-gu, Seul, e apresentou suas reivindicações para as eleições locais de 3 de junho. A KCTU pediu que trabalhadores de vínculo especial, de plataformas, freelancers e trabalhadores de serviços terceirizados privados sejam incluídos nas proteções da política trabalhista. A proposta solicita que governos locais aprovem ordenanças que protejam amplamente pessoas que trabalham, independentemente da aplicação das leis de relações trabalhistas. Também exige estender a elas o salário de subsistência pago a trabalhadores não regulares com base em preços e custos de moradia, além de apoiar a parte do seguro contra acidentes de trabalho paga pelo trabalhador. Há preocupações de que, junto com a Lei do Envelope Amarelo, o conceito de trabalhador e a responsabilidade do governo possam se ampliar excessivamente. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "KCTU fordert vor Kommunalwahl Schutz für Plattform- und freie Beschäftigte",
-        "excerpt": "Am 7. Mai stellte ein Sonderausschuss der KCTU-Dienstleistungsföderation Forderungen zur Kommunalwahl am 3. Juni vor und verlangte kommunale Regeln zum Schutz von Plattform- und Sonderbeschäftigten.",
-        "body": "Der Sonderausschuss der Dienstleistungsföderation des Koreanischen Gewerkschaftsbundes KCTU für Sonderbeschäftigte und Plattformarbeit hielt am 7. Mai auf dem Gwanghwamun-Platz im Seouler Bezirk Jung-gu eine Pressekonferenz ab und stellte Forderungen zur Kommunalwahl am 3. Juni vor. Die KCTU verlangte, Sonderbeschäftigte, Plattformarbeiter, Freiberufler und Beschäftigte privater Auftragsdienste in den Schutz der Arbeitspolitik einzubeziehen. Der Vorschlag sieht kommunale Verordnungen vor, die arbeitende Menschen unabhängig von der Anwendbarkeit arbeitsrechtlicher Vorschriften breit schützen. Außerdem sollen existenzsichernde Löhne, die Kommunen nicht regulär Beschäftigten unter Berücksichtigung von Preisen und Wohnkosten zahlen, auch für diese Gruppen gelten; ebenso sollen Kommunen den Arbeitnehmeranteil an Beiträgen zur Arbeitsunfallversicherung unterstützen. Zugleich gibt es Bedenken, dass mit dem Gelbe-Umschläge-Gesetz der Arbeitnehmerbegriff und die staatliche Verantwortung zu weit ausgelegt werden könnten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "La KCTU réclame des protections locales pour travailleurs de plateforme",
-        "excerpt": "Le 7 mai, un comité de la fédération des services de la KCTU a présenté ses demandes pour les élections locales du 3 juin, appelant à protéger par ordonnance les travailleurs spéciaux et de plateforme.",
-        "body": "Le comité spécial de la Fédération des services de la Confédération coréenne des syndicats pour les travailleurs à statut spécial et les travailleurs de plateforme a tenu le 7 mai une conférence de presse sur la place Gwanghwamun, à Jung-gu, Séoul, et présenté ses demandes pour les élections locales du 3 juin. La KCTU a demandé que les travailleurs à statut spécial, les travailleurs de plateforme, les freelances et les travailleurs de contrats privés soient inclus dans les protections de la politique du travail. Le texte appelle les collectivités locales à adopter des ordonnances protégeant largement les personnes qui travaillent, qu’elles relèvent ou non du droit des relations du travail. Il demande aussi d’étendre à ces groupes le salaire de subsistance versé aux travailleurs non réguliers selon les prix et les coûts du logement, ainsi qu’un soutien à leur part des cotisations d’assurance accidents du travail. Des inquiétudes portent aussi sur un élargissement excessif de la notion de travailleur et de la responsabilité publique avec la loi dite de l’enveloppe jaune. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اتحاد العمال الكوري يطالب بحماية عمال المنصات قبل الانتخابات المحلية",
-        "excerpt": "في 7 مايو، أعلنت لجنة تابعة لاتحاد الخدمات في الاتحاد الكوري للنقابات مطالبها لانتخابات 3 يونيو المحلية، داعية إلى لوائح بلدية تحمي عمال المنصات والعمالة الخاصة.",
-        "body": "عقدت اللجنة الخاصة للعمالة الخاصة وعمل المنصات في اتحاد الخدمات التابع للاتحاد الكوري للنقابات العمالية مؤتمرا صحفيا في 7 مايو في ساحة غوانغهوامون بمنطقة جونغ في سيول، وأعلنت مطالبها لانتخابات 3 يونيو المحلية. وطالب الاتحاد بإدراج عمال التوظيف الخاص، وعمال المنصات، والمستقلين، والعاملين بعقود تفويض خاصة ضمن الفئات المشمولة بحماية سياسات العمل. وتشمل المطالب سن لوائح من الحكومات المحلية تحمي العاملين على نطاق واسع بغض النظر عن انطباق قوانين علاقات العمل عليهم. كما طالب الاتحاد بتطبيق أجر المعيشة الذي تدفعه البلديات للعمال غير النظاميين مع مراعاة الأسعار وتكاليف السكن على هذه الفئات أيضا، ودعم حصة العامل من أقساط التأمين ضد حوادث العمل. وتثار مخاوف من أن يؤدي ذلك، بالتزامن مع تطبيق قانون الظرف الأصفر، إلى توسيع مفرط لمفهوم العامل ونطاق مسؤولية الحكومة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "KCTU ने स्थानीय चुनाव से पहले प्लेटफॉर्म व विशेष रोजगार श्रमिकों की सुरक्षा मांगी",
-        "excerpt": "7 मई को KCTU सेवा महासंघ की विशेष समिति ने 3 जून के स्थानीय चुनावों के लिए मांगें रखीं और विशेष रोजगार, प्लेटफॉर्म, फ्रीलांस तथा निजी委탁 श्रमिकों के लिए नगरपालिका संरक्षण मांगा।",
-        "body": "कोरियाई ट्रेड यूनियनों के परिसंघ के सेवा महासंघ की विशेष रोजगार और प्लेटफॉर्म श्रम विशेष समिति ने 7 मई को सियोल के जंग-गु स्थित ग्वांगह्वामुन स्क्वायर में प्रेस कॉन्फ्रेंस की और 3 जून के स्थानीय चुनावों के लिए अपनी मांगें घोषित कीं। KCTU ने विशेष रोजगार वाले श्रमिकों, प्लेटफॉर्म श्रमिकों, फ्रीलांसरों और निजी委탁 श्रमिकों को श्रम नीति की सुरक्षा में शामिल करने की मांग की। प्रस्ताव में कहा गया कि स्थानीय सरकारें ऐसे अध्यादेश बनाएं जो श्रम संबंधी कानून लागू होने या न होने से अलग, काम करने वाले लोगों की व्यापक रक्षा करें। उसने यह भी मांग की कि महंगाई और आवास लागत को देखते हुए अनियमित श्रमिकों को दिया जाने वाला जीवन निर्वाह वेतन इन समूहों पर भी लागू हो, और औद्योगिक दुर्घटना बीमा प्रीमियम में श्रमिकों के हिस्से को स्थानीय सरकारें समर्थन दें। येलो एनवेलप कानून के लागू होने के साथ यह चिंता भी उठी है कि श्रमिक की परिभाषा और सरकारी जिम्मेदारी का दायरा बहुत अधिक बढ़ सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "KCTU minta perlindungan pekerja platform jelang pemilu lokal",
-        "excerpt": "Pada 7 Mei, komite khusus federasi layanan KCTU mengumumkan tuntutan untuk pemilu lokal 3 Juni dan meminta perda yang melindungi pekerja berstatus khusus, platform, lepas, dan kontrak swasta.",
-        "body": "Komite khusus pekerja berstatus khusus dan pekerja platform dari Federasi Layanan Konfederasi Serikat Buruh Korea menggelar konferensi pers pada 7 Mei di Gwanghwamun Square, Jung-gu, Seoul, dan mengumumkan tuntutan untuk pemilu lokal 3 Juni. KCTU meminta pekerja berstatus khusus, pekerja platform, pekerja lepas, dan pekerja kontrak swasta dimasukkan sebagai sasaran perlindungan kebijakan ketenagakerjaan. Tuntutan itu memuat seruan agar pemerintah daerah membuat peraturan yang melindungi secara luas orang yang bekerja, terlepas dari apakah hukum hubungan kerja berlaku. KCTU juga meminta upah layak yang dibayarkan pemerintah daerah kepada pekerja nonreguler dengan mempertimbangkan harga dan biaya hunian diterapkan kepada kelompok ini, serta bagian premi asuransi kecelakaan kerja yang ditanggung pekerja didukung oleh pemerintah daerah. Ada pula kekhawatiran bahwa, bersamaan dengan penerapan Yellow Envelope Act, konsep pekerja dan cakupan tanggung jawab pemerintah dapat melebar terlalu jauh. Sumber: rss.donga.com"
       }
     }
   }
