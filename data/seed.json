@@ -1,5 +1,230 @@
 [
   {
+    "id": "9f6795c91c68",
+    "slug": "삼성전자-노사-정부-중재로-대화-물꼬-성과급-이견은-여전-598501",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T17:26:28.421Z",
+    "updatedAt": "2026-05-08T17:26:28.421Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889751/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889751/2",
+    "titleFingerprint": "4d9297decf43805d47f8618e17d8a0839fc87f27",
+    "dedupKeys": [
+      "9f6795c91c68be2b8fc983f8c6c4dd5bad6adcaa",
+      "4d9297decf43805d47f8618e17d8a0839fc87f27",
+      "027e820095facf8c49a98b5f553f121a7b1a9fb7"
+    ],
+    "imageUrl": "/images/articles/9f6795c91c68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사, 정부 사후조정으로 45일 만에 교섭 재개…성과급 쟁점은 지속",
+        "excerpt": "삼성전자 노사가 정부 중재로 3월 27일 집중 교섭 결렬 이후 45일 만에 대화를 재개한다. 21일 총파업을 앞두고 성과급 재원·지급 방식 이견이 핵심 쟁점이다.",
+        "body": "삼성전자 노사가 정부 중재로 3월 27일 집중 교섭 결렬 이후 45일 만에 다시 협상 테이블에 앉는다. 8일 고용노동부에 따르면 김도형 경기지방고용노동청장은 삼성전자 최대 노조인 초기업노조의 최승호 위원장을 만나 사후조정 절차를 권유했고, 노조는 내부 검토 끝에 이를 수용했다. 사후조정은 중앙노동위원회 조정 절차가 중지돼 노조가 합법적 쟁의권을 확보한 뒤에도 노사 양측이 동의하면 중노위가 다시 중재할 수 있는 제도다. 집중 교섭은 이달 11일과 12일 진행된다. 노조 측에서는 최 위원장과 이송이·김재원 부위원장 등 3명이 참석하며 사측 교섭위원은 아직 확정되지 않았다. 다만 성과급 재원과 지급 방식을 둘러싼 입장 차가 커 합의 전망은 불투명하다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Labor Talks Resume After 45 Days With Government Mediation, Bonus Gap Remains",
+        "excerpt": "Samsung Electronics labor and management will resume talks 45 days after March 27 negotiations collapsed, as government mediation opens post-adjustment talks ahead of a planned full strike on the 21st.",
+        "body": "Samsung Electronics labor and management are returning to the negotiating table 45 days after intensive talks broke down on March 27, following government mediation. According to the Ministry of Employment and Labor on the 8th, Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, recently met Choi Seung-ho, chair of Samsung Electronics’ largest union, the Supra-Enterprise Union, and recommended a post-adjustment procedure. The union accepted after internal review. Post-adjustment allows the National Labor Relations Commission to mediate again if both labor and management agree, even after the union has secured legal strike rights because the prior mediation process was halted. Intensive talks are scheduled for the 11th and 12th of this month. Three union representatives, including Choi and vice chairs Lee Song-i and Kim Jae-won, will attend, while management negotiators have not yet been confirmed. A wide gap remains over bonus funding and payment methods. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子労使、政府の事後調整で45日ぶり協議再開へ…成果給の隔たり続く",
+        "excerpt": "サムスン電子の労使は政府の仲裁により、3月27日の集中交渉決裂から45日ぶりに対話を再開する。21日の全面ストを前に成果給の財源と支給方式が焦点だ。",
+        "body": "サムスン電子の労使が、政府の仲裁により3月27日の集中交渉決裂から45日ぶりに再び交渉の場に着く。8日、雇用労働部によると、金度亨・京畿地方雇用労働庁長は最近、サムスン電子最大労組である超企業労組の崔承浩委員長と会い、事後調整手続きを勧めた。労組は内部検討の末、これを受け入れた。事後調整は、中央労働委員会の調整手続きが中止され、労組が合法的な争議権を確保した後でも、労使双方が同意すれば中労委が再び仲裁に入れる制度だ。集中交渉は今月11日と12日に行われる予定。労組側からは崔委員長と李松伊・金載元副委員長ら3人が出席し、会社側交渉委員はまだ確定していない。ただし成果給の財源と支給方式をめぐる立場の差は大きく、合意の見通しは不透明だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子劳资在政府事后调解下时隔45天重启谈判，绩效奖金分歧仍存",
+        "excerpt": "三星电子劳资双方将在政府调解下，于3月27日集中谈判破裂45天后重启对话。21日总罢工临近，绩效奖金资金来源和支付方式仍是核心争议。",
+        "body": "在政府调解下，三星电子劳资双方将在3月27日集中谈判破裂45天后重新回到谈判桌。韩国雇佣劳动部8日表示，京畿地方雇佣劳动厅厅长金度亨近日会见三星电子最大工会、超企业工会委员长崔承浩，建议启动事后调解程序。工会经内部讨论后决定接受。事后调解是指中央劳动委员会调解程序中止、工会已取得合法争议权后，只要劳资双方同意，中劳委仍可再次介入调解的制度。本次集中谈判预计于本月11日和12日进行。工会方面将有崔委员长及李松伊、金载元两名副委员长等3人参加，公司方面谈判委员尚未确定。不过，围绕绩效奖金资金来源和支付方式，双方立场差距仍大，能否达成协议仍不明朗。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Samsung Electronics reanuda diálogo laboral tras 45 días por mediación estatal, pero persiste disputa por bonos",
+        "excerpt": "Samsung Electronics y su sindicato retomarán conversaciones 45 días después del fracaso del 27 de marzo. Antes de la huelga general del día 21, siguen las diferencias sobre fondos y pago de bonos.",
+        "body": "La dirección y el sindicato de Samsung Electronics volverán a la mesa de negociación 45 días después de que fracasaran las conversaciones intensivas del 27 de marzo, gracias a la mediación del Gobierno. Según el Ministerio de Empleo y Trabajo el día 8, Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, se reunió recientemente con Choi Seung-ho, presidente del mayor sindicato de Samsung Electronics, el sindicato supraempresarial, y recomendó un procedimiento de ajuste posterior. El sindicato lo aceptó tras una revisión interna. Este mecanismo permite que la Comisión Nacional de Relaciones Laborales vuelva a mediar si ambas partes lo acuerdan, incluso después de que el sindicato haya obtenido legalmente el derecho a la huelga por la suspensión del proceso previo. Las negociaciones intensivas se celebrarán los días 11 y 12 de este mes. Por el sindicato asistirán Choi y los vicepresidentes Lee Song-i y Kim Jae-won; la empresa aún no confirmó sus negociadores. La brecha sobre la financiación y el método de pago de los bonos sigue siendo amplia. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Samsung Electronics retoma negociações trabalhistas após 45 dias com mediação do governo; bônus ainda divide partes",
+        "excerpt": "A Samsung Electronics e seu sindicato voltarão a negociar 45 dias após o fracasso das conversas de 27 de março. Antes da greve geral do dia 21, bônus seguem como ponto central.",
+        "body": "A administração e o sindicato da Samsung Electronics voltarão à mesa de negociações 45 dias depois do colapso das conversas intensivas de 27 de março, com mediação do governo. Segundo o Ministério do Emprego e Trabalho no dia 8, Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, reuniu-se recentemente com Choi Seung-ho, presidente do maior sindicato da Samsung Electronics, o sindicato supraempresarial, e recomendou o procedimento de ajuste posterior. O sindicato aceitou após análise interna. O ajuste posterior permite que a Comissão Nacional de Relações Trabalhistas volte a mediar se ambas as partes concordarem, mesmo depois de o sindicato obter direito legal de greve com a suspensão do processo anterior. As negociações intensivas ocorrerão nos dias 11 e 12 deste mês. Pelo sindicato participarão Choi e os vice-presidentes Lee Song-i e Kim Jae-won; os negociadores da empresa ainda não foram definidos. A diferença sobre fonte de recursos e forma de pagamento dos bônus continua grande. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung Electronics nimmt Tarifgespräche nach 45 Tagen mit Regierungsvermittlung wieder auf, Bonusstreit bleibt",
+        "excerpt": "Samsung Electronics und die Gewerkschaft nehmen 45 Tage nach dem Scheitern der Gespräche vom 27. März den Dialog wieder auf. Vor dem Generalstreik am 21. bleiben Bonusfinanzierung und Auszahlung strittig.",
+        "body": "Management und Gewerkschaft von Samsung Electronics kehren dank staatlicher Vermittlung 45 Tage nach dem Scheitern intensiver Verhandlungen am 27. März an den Verhandlungstisch zurück. Nach Angaben des Ministeriums für Beschäftigung und Arbeit vom 8. traf Kim Do-hyung, Leiter des regionalen Beschäftigungs- und Arbeitsamts Gyeonggi, kürzlich Choi Seung-ho, den Vorsitzenden der größten Samsung-Electronics-Gewerkschaft, der Supra-Enterprise Union, und empfahl ein Verfahren der nachträglichen Schlichtung. Die Gewerkschaft nahm dies nach interner Prüfung an. Diese Schlichtung erlaubt der Nationalen Arbeitsbeziehungskommission, erneut zu vermitteln, wenn beide Seiten zustimmen, auch nachdem die Gewerkschaft wegen des Stopps des vorherigen Verfahrens ein legales Streikrecht erhalten hat. Die intensiven Gespräche sollen am 11. und 12. dieses Monats stattfinden. Für die Gewerkschaft nehmen Choi sowie die Vizevorsitzenden Lee Song-i und Kim Jae-won teil; die Verhandler des Unternehmens stehen noch nicht fest. Die Differenzen über Finanzierung und Auszahlung der Leistungsboni bleiben groß. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Samsung Electronics reprend le dialogue social après 45 jours grâce à l’État, mais le désaccord sur les primes demeure",
+        "excerpt": "Samsung Electronics et son syndicat reprendront les discussions 45 jours après l’échec du 27 mars. À l’approche de la grève générale du 21, le financement et le versement des primes restent en débat.",
+        "body": "La direction et le syndicat de Samsung Electronics vont reprendre les négociations 45 jours après l’échec des discussions intensives du 27 mars, grâce à la médiation du gouvernement. Selon le ministère de l’Emploi et du Travail le 8, Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, a récemment rencontré Choi Seung-ho, président du plus grand syndicat de Samsung Electronics, le syndicat supra-entreprise, et lui a recommandé une procédure d’ajustement postérieur. Le syndicat l’a acceptée après examen interne. Cette procédure permet à la Commission nationale des relations du travail de reprendre une médiation si les deux parties y consentent, même après que le syndicat a obtenu un droit légal de grève à la suite de l’arrêt de la procédure précédente. Les discussions intensives auront lieu les 11 et 12 de ce mois. Côté syndical, Choi et les vice-présidents Lee Song-i et Kim Jae-won participeront; les négociateurs de l’entreprise ne sont pas encore confirmés. Les écarts restent importants sur le financement et le mode de versement des primes. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تستأنف الحوار العمالي بعد 45 يوما بوساطة حكومية وخلاف المكافآت مستمر",
+        "excerpt": "تستأنف إدارة سامسونغ إلكترونيكس ونقابتها المحادثات بعد 45 يوما من انهيار مفاوضات 27 مارس. وقبل الإضراب العام في 21، تبقى موارد مكافآت الأداء وطريقة دفعها محور الخلاف.",
+        "body": "تعود إدارة سامسونغ إلكترونيكس والنقابة إلى طاولة التفاوض بعد 45 يوما من انهيار المفاوضات المكثفة في 27 مارس، وذلك بوساطة من الحكومة. وبحسب وزارة التوظيف والعمل في اليوم الثامن، التقى كيم دو-هيونغ، رئيس مكتب التوظيف والعمل الإقليمي في كيونغي، مؤخرا تشوي سونغ-هو، رئيس أكبر نقابة في سامسونغ إلكترونيكس وهي النقابة فوق المؤسسية، وأوصى بإجراء تسوية لاحقة. وقبلت النقابة ذلك بعد مراجعة داخلية. وتتيح التسوية اللاحقة للجنة علاقات العمل المركزية التدخل مجددا إذا وافق الطرفان، حتى بعد توقف إجراء الوساطة السابق وحصول النقابة على حق إضراب قانوني. ومن المقرر إجراء مفاوضات مكثفة يومي 11 و12 من هذا الشهر. وسيحضر عن النقابة تشوي ونائبا الرئيس لي سونغ-يي وكيم جاي-وون، بينما لم تحدد الشركة بعد مفاوضيها. ولا تزال الفجوة كبيرة بشأن مصدر تمويل مكافآت الأداء وطريقة دفعها. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics में सरकार की मध्यस्थता से 45 दिन बाद वार्ता फिर शुरू, बोनस विवाद कायम",
+        "excerpt": "Samsung Electronics प्रबंधन और यूनियन 27 मार्च की वार्ता विफल होने के 45 दिन बाद बातचीत फिर शुरू करेंगे। 21 तारीख की आम हड़ताल से पहले प्रदर्शन बोनस के स्रोत और भुगतान तरीके पर मतभेद बने हैं।",
+        "body": "Samsung Electronics का प्रबंधन और यूनियन सरकार की मध्यस्थता के बाद 27 मार्च को गहन वार्ता विफल होने के 45 दिन बाद फिर बातचीत की मेज पर लौटेंगे। रोजगार और श्रम मंत्रालय ने 8 तारीख को बताया कि ग्योंगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्योंग ने हाल में Samsung Electronics की सबसे बड़ी यूनियन, सुपर-एंटरप्राइज यूनियन, के अध्यक्ष चोई स्युंग-हो से मुलाकात की और बाद-समायोजन प्रक्रिया का सुझाव दिया। यूनियन ने आंतरिक समीक्षा के बाद इसे स्वीकार किया। यह प्रक्रिया केंद्रीय श्रम संबंध आयोग को फिर मध्यस्थता करने की अनुमति देती है, यदि दोनों पक्ष सहमत हों, भले ही पिछली मध्यस्थता रुकने के बाद यूनियन को कानूनी हड़ताल अधिकार मिल चुका हो। गहन वार्ता इस महीने की 11 और 12 तारीख को होगी। यूनियन की ओर से चोई और उपाध्यक्ष ली सोंग-ई तथा किम जे-वोन सहित तीन लोग शामिल होंगे; कंपनी के वार्ताकार अभी तय नहीं हैं। प्रदर्शन बोनस की राशि के स्रोत और भुगतान पद्धति पर मतभेद अभी भी बड़े हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Samsung Electronics Buka Lagi Dialog Buruh Setelah 45 Hari Lewat Mediasi Pemerintah, Isu Bonus Masih Mengganjal",
+        "excerpt": "Manajemen dan serikat Samsung Electronics akan kembali berunding 45 hari setelah negosiasi 27 Maret gagal. Menjelang mogok total pada tanggal 21, sumber dana dan cara pembayaran bonus masih menjadi isu utama.",
+        "body": "Manajemen dan serikat Samsung Electronics akan kembali ke meja perundingan 45 hari setelah negosiasi intensif pada 27 Maret gagal, menyusul mediasi pemerintah. Menurut Kementerian Ketenagakerjaan pada tanggal 8, Kim Do-hyung, kepala Kantor Ketenagakerjaan Regional Gyeonggi, baru-baru ini bertemu Choi Seung-ho, ketua serikat terbesar Samsung Electronics, yaitu serikat supra-perusahaan, dan menyarankan prosedur penyesuaian pasca-mediasi. Serikat menerimanya setelah kajian internal. Prosedur ini memungkinkan Komisi Hubungan Perburuhan Nasional kembali menjadi mediator jika kedua pihak setuju, bahkan setelah serikat memperoleh hak mogok legal karena proses mediasi sebelumnya dihentikan. Perundingan intensif dijadwalkan pada tanggal 11 dan 12 bulan ini. Dari pihak serikat, Choi serta wakil ketua Lee Song-i dan Kim Jae-won akan hadir; perunding dari perusahaan belum ditetapkan. Namun perbedaan soal sumber dana dan metode pembayaran bonus kinerja masih besar. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "0b1c4ac4a78d",
+    "slug": "머스크-반도체-독립-선언-테라팹-1190억달러-투자-186834",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T17:25:07.144Z",
+    "updatedAt": "2026-05-08T17:25:07.144Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889749/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889749/2",
+    "titleFingerprint": "6e363c83b234f912dd06d69f7d36b1ce51ac363c",
+    "dedupKeys": [
+      "0b1c4ac4a78dc4ec63b190f629b4c97cac69db02",
+      "6e363c83b234f912dd06d69f7d36b1ce51ac363c",
+      "e578fcd5e162910c571afd447f469687e8a13718"
+    ],
+    "imageUrl": "/images/articles/0b1c4ac4a78d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "머스크 테라팹 1190억달러 투자 계획, 반도체 독립 승부수",
+        "excerpt": "일론 머스크가 이끄는 스페이스X가 텍사스 그라임스 카운티에 초대형 반도체 공장 ‘테라팹’을 추진하며 최대 1190억달러 투자를 계획한 것으로 알려졌다.",
+        "body": "일론 머스크가 이끄는 스페이스X가 미국 텍사스주 그라임스 카운티에 초대형 반도체 공장 ‘테라팹(Terafab)’을 세우기 위해 최대 1190억달러를 투자할 계획인 것으로 나타났다. 7일 현지 공청회 공고문에 따르면 테라팹 프로젝트 1단계 투자 비용은 최소 550억달러, 전체 투자 규모는 추가 건설비를 포함해 최대 1190억달러에 이를 전망이다. 이는 통상 100억~300억달러 수준인 첨단 반도체 공장 건설비를 크게 웃도는 규모다. 테라팹은 스페이스X, 테슬라, xAI와 인텔이 공동 추진하는 AI 칩 생산 프로젝트로, 그라임스 카운티는 미국 내 반도체 생산 역량을 획기적으로 확대할 투자라고 평가했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Musk’s $119 Billion Terafab Plan Signals a Push for Chip Independence",
+        "excerpt": "SpaceX, led by Elon Musk, is reportedly planning to invest up to $119 billion in Terafab, a massive semiconductor plant project in Grimes County, Texas.",
+        "body": "SpaceX, led by Elon Musk, is reportedly planning to invest up to $119 billion to build a massive semiconductor plant called Terafab in Grimes County, Texas. According to a public hearing notice cited on the 7th local time, the first phase of the Terafab project lists a minimum investment cost of $55 billion, while total spending, including additional construction costs, could reach $119 billion. That scale far exceeds the usual $10 billion to $30 billion cost range for advanced semiconductor plants. Terafab is an AI chip production project jointly pursued by SpaceX, Tesla, xAI and Intel. Grimes County described it as an investment that would sharply expand semiconductor production capacity in the United States. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "マスク氏の1190億ドル『テラファブ』計画、半導体独立へ大型投資",
+        "excerpt": "イーロン・マスク氏率いるスペースXが、米テキサス州グライムス郡で超大型半導体工場『テラファブ』に最大1190億ドルを投じる計画とされる。",
+        "body": "イーロン・マスク氏率いるスペースXが、米テキサス州グライムス郡に超大型半導体工場『テラファブ（Terafab）』を建設するため、最大1190億ドルを投資する計画であることが明らかになった。現地時間7日に伝えられた公聴会公告によると、テラファブ計画の第1段階の投資額は少なくとも550億ドルで、追加の建設費を含めた総投資額は最大1190億ドルに達する見通しだ。通常、先端半導体工場の建設費が100億〜300億ドル規模であることを考えると、極めて大きな投資となる。テラファブはスペースX、テスラ、xAI、インテルが共同で進めるAIチップ生産プロジェクトで、グライムス郡は米国内の半導体生産能力を大幅に拡大する投資だと評価した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "马斯克1190亿美元Terafab计划，押注半导体独立生产",
+        "excerpt": "据称，埃隆·马斯克领导的SpaceX计划在美国得克萨斯州格赖姆斯县建设超大型半导体工厂Terafab，最高投资1190亿美元。",
+        "body": "埃隆·马斯克领导的SpaceX计划在美国得克萨斯州格赖姆斯县建设超大型半导体工厂“Terafab”，投资额最高可达1190亿美元。据当地时间7日披露的公开听证会公告，Terafab项目第一阶段投资成本至少为550亿美元，加上后续建设费用后，总投资规模预计最高可达1190亿美元。考虑到通常先进半导体工厂建设成本约为100亿至300亿美元，这一规模明显更高。Terafab是SpaceX、特斯拉、xAI与英特尔共同推进的AI芯片生产项目。格赖姆斯县评价称，该投资将大幅扩大美国国内半导体生产能力。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Musk planea invertir hasta 119.000 millones de dólares en Terafab",
+        "excerpt": "SpaceX, dirigida por Elon Musk, planea invertir hasta 119.000 millones de dólares en Terafab, una megafábrica de semiconductores en el condado de Grimes, Texas.",
+        "body": "SpaceX, dirigida por Elon Musk, planea invertir hasta 119.000 millones de dólares para construir una megafábrica de semiconductores llamada Terafab en el condado de Grimes, Texas. Según un aviso de audiencia pública citado el día 7, hora local, la primera fase del proyecto Terafab contempla un coste mínimo de inversión de 55.000 millones de dólares, mientras que el gasto total, incluidos costes adicionales de construcción, podría alcanzar los 119.000 millones de dólares. La cifra supera ampliamente el rango habitual de 10.000 a 30.000 millones de dólares para una planta avanzada de semiconductores. Terafab es un proyecto de producción de chips de IA impulsado conjuntamente por SpaceX, Tesla, xAI e Intel. El condado de Grimes lo calificó como una inversión que ampliaría de forma significativa la capacidad de producción de semiconductores en Estados Unidos. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Musk planeja até US$ 119 bilhões para Terafab e produção de chips",
+        "excerpt": "A SpaceX, liderada por Elon Musk, planeja investir até US$ 119 bilhões na Terafab, megafábrica de semicondutores prevista para o condado de Grimes, no Texas.",
+        "body": "A SpaceX, liderada por Elon Musk, planeja investir até US$ 119 bilhões para construir uma megafábrica de semicondutores chamada Terafab no condado de Grimes, no Texas. Segundo um aviso de audiência pública citado no dia 7, horário local, a primeira fase do projeto Terafab prevê investimento mínimo de US$ 55 bilhões, enquanto o total, incluindo custos adicionais de construção, pode chegar a US$ 119 bilhões. O valor supera com folga o custo usual de US$ 10 bilhões a US$ 30 bilhões para fábricas avançadas de semicondutores. A Terafab é um projeto de produção de chips de IA promovido em conjunto por SpaceX, Tesla, xAI e Intel. O condado de Grimes avaliou o investimento como uma iniciativa capaz de ampliar de forma marcante a capacidade de produção de semicondutores nos Estados Unidos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Musk plant bis zu 119 Milliarden Dollar für Terafab-Chipfabrik",
+        "excerpt": "SpaceX unter Elon Musk plant Berichten zufolge bis zu 119 Milliarden Dollar für Terafab, eine riesige Halbleiterfabrik im Grimes County in Texas.",
+        "body": "SpaceX unter der Führung von Elon Musk plant Berichten zufolge Investitionen von bis zu 119 Milliarden Dollar, um im Grimes County im US-Bundesstaat Texas eine riesige Halbleiterfabrik namens Terafab zu errichten. Laut einer am 7. Ortszeit zitierten Bekanntmachung für eine öffentliche Anhörung werden die Kosten der ersten Projektphase mit mindestens 55 Milliarden Dollar angegeben. Einschließlich weiterer Baukosten könnte das Gesamtvolumen bis zu 119 Milliarden Dollar erreichen. Damit läge das Vorhaben deutlich über den üblichen 10 bis 30 Milliarden Dollar, die der Bau moderner Halbleiterwerke normalerweise kostet. Terafab ist ein Projekt zur Produktion von KI-Chips, das gemeinsam von SpaceX, Tesla, xAI und Intel vorangetrieben wird. Grimes County bewertete es als Investition, die die Halbleiterproduktion in den USA erheblich ausweiten würde. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Musk prévoit jusqu’à 119 milliards de dollars pour l’usine Terafab",
+        "excerpt": "SpaceX, dirigée par Elon Musk, prévoirait d’investir jusqu’à 119 milliards de dollars dans Terafab, une méga-usine de semi-conducteurs au comté de Grimes, au Texas.",
+        "body": "SpaceX, dirigée par Elon Musk, prévoirait d’investir jusqu’à 119 milliards de dollars pour construire une méga-usine de semi-conducteurs baptisée Terafab dans le comté de Grimes, au Texas. Selon un avis d’audience publique cité le 7, heure locale, la première phase du projet Terafab affiche un coût d’investissement minimal de 55 milliards de dollars, tandis que le montant total, en incluant les coûts de construction supplémentaires, pourrait atteindre 119 milliards de dollars. Ce niveau dépasse largement les 10 à 30 milliards de dollars généralement nécessaires pour construire une usine avancée de semi-conducteurs. Terafab est un projet de production de puces d’IA mené conjointement par SpaceX, Tesla, xAI et Intel. Le comté de Grimes l’a présenté comme un investissement susceptible d’élargir fortement les capacités de production de semi-conducteurs aux États-Unis. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ماسك يخطط لاستثمار 119 مليار دولار في تيرافاب لإنتاج الرقائق",
+        "excerpt": "تخطط سبيس إكس بقيادة إيلون ماسك لاستثمار ما يصل إلى 119 مليار دولار في مشروع تيرافاب، وهو مصنع ضخم لأشباه الموصلات في مقاطعة غرايمز بولاية تكساس.",
+        "body": "تخطط سبيس إكس، بقيادة إيلون ماسك، لاستثمار ما يصل إلى 119 مليار دولار لبناء مصنع ضخم لأشباه الموصلات باسم “تيرافاب” في مقاطعة غرايمز بولاية تكساس الأميركية. ووفق إشعار جلسة استماع عامة ورد في تقارير يوم 7 بالتوقيت المحلي، تبلغ تكلفة المرحلة الأولى من مشروع تيرافاب ما لا يقل عن 55 مليار دولار، بينما قد يصل إجمالي الاستثمار، مع تكاليف البناء الإضافية، إلى 119 مليار دولار. ويتجاوز هذا الرقم بكثير النطاق المعتاد لتكلفة بناء مصانع أشباه الموصلات المتقدمة، والذي يتراوح بين 10 و30 مليار دولار. تيرافاب مشروع لإنتاج رقائق الذكاء الاصطناعي تشارك فيه سبيس إكس وتسلا وxAI وإنتل. ووصفت مقاطعة غرايمز المشروع بأنه استثمار سيزيد بشكل كبير قدرة إنتاج أشباه الموصلات داخل الولايات المتحدة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "मस्क की Terafab योजना, चिप उत्पादन के लिए 119 अरब डॉलर तक निवेश",
+        "excerpt": "एलन मस्क के नेतृत्व वाली SpaceX टेक्सास के ग्राइम्स काउंटी में विशाल सेमीकंडक्टर संयंत्र Terafab के लिए 119 अरब डॉलर तक निवेश करने की योजना बना रही है।",
+        "body": "एलन मस्क के नेतृत्व वाली SpaceX अमेरिका के टेक्सास राज्य के ग्राइम्स काउंटी में Terafab नामक विशाल सेमीकंडक्टर संयंत्र बनाने के लिए 119 अरब डॉलर तक निवेश करने की योजना बना रही है। स्थानीय समयानुसार 7 तारीख को उद्धृत सार्वजनिक सुनवाई सूचना के अनुसार, Terafab परियोजना के पहले चरण की निवेश लागत कम से कम 55 अरब डॉलर है, जबकि अतिरिक्त निर्माण लागतों को मिलाकर कुल निवेश 119 अरब डॉलर तक पहुंच सकता है। यह राशि उन्नत सेमीकंडक्टर संयंत्रों की सामान्य 10 अरब से 30 अरब डॉलर की निर्माण लागत से कहीं अधिक है। Terafab, SpaceX, Tesla, xAI और Intel द्वारा संयुक्त रूप से 추진 किया जा रहा AI चिप उत्पादन प्रोजेक्ट है। ग्राइम्स काउंटी ने इसे अमेरिका में सेमीकंडक्टर उत्पादन क्षमता को बड़े पैमाने पर बढ़ाने वाला निवेश बताया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Musk Siapkan Investasi Terafab hingga US$119 Miliar untuk Chip AI",
+        "excerpt": "SpaceX yang dipimpin Elon Musk disebut berencana menginvestasikan hingga US$119 miliar untuk Terafab, pabrik semikonduktor raksasa di Grimes County, Texas.",
+        "body": "SpaceX yang dipimpin Elon Musk disebut berencana menginvestasikan hingga US$119 miliar untuk membangun pabrik semikonduktor raksasa bernama Terafab di Grimes County, Texas, Amerika Serikat. Menurut pengumuman dengar pendapat publik yang dikutip pada tanggal 7 waktu setempat, biaya investasi tahap pertama proyek Terafab tercatat minimal US$55 miliar, sementara total investasi, termasuk biaya konstruksi tambahan, diperkirakan dapat mencapai US$119 miliar. Nilai itu jauh melampaui biaya umum pembangunan pabrik semikonduktor canggih yang biasanya berada di kisaran US$10 miliar hingga US$30 miliar. Terafab adalah proyek produksi chip AI yang digarap bersama oleh SpaceX, Tesla, xAI, dan Intel. Grimes County menilai proyek ini sebagai investasi yang akan memperluas secara besar kapasitas produksi semikonduktor di Amerika Serikat. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "7a9750785c65",
+    "slug": "삼성전자-노조-잇단-균열-2대-노조-1대-노조에-사과-요구-639611",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T17:24:03.892Z",
+    "updatedAt": "2026-05-08T17:24:03.892Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
+    "titleFingerprint": "56811067bc0d508433564f4c0ae1a80fa63663d6",
+    "dedupKeys": [
+      "7a9750785c652c0ed855c7ecc0d865779ce25681",
+      "56811067bc0d508433564f4c0ae1a80fa63663d6",
+      "c44c4b234f2f4a7f20cfda1d2756a360723e58ea"
+    ],
+    "imageUrl": "/images/articles/7a9750785c65.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노조 갈등 확산…2대 노조, 1대 노조에 공식 사과 요구",
+        "excerpt": "삼성전자 노사가 협상 재개를 앞둔 가운데 8일 재계에 따르면 2대 노조 전삼노가 1대 노조 초기업노조에 공문을 보내 공식 사과를 요구했다.",
+        "body": "삼성전자 노사가 협상을 재개하기로 했지만 노조 내부 갈등은 더 커지고 있다. 8일 재계에 따르면 삼성전자 2대 노조인 전국삼성전자노동조합은 전날 최대 노조인 초기업노동조합 삼성전자 지부에 공문을 보내 공식 사과를 요구했다. 전삼노는 최승호 초기업노조 위원장이 DX 부문을 챙기지 않는다는 취지로 말한 교섭위원에게 ‘교섭 배제’ 등을 거론하며 협박성 발언을 했다고 주장했다. 전삼노는 이를 “DX 조합원의 목소리를 지우겠다는 행위”라고 지적했다. 앞서 4일에는 3대 노조인 삼성전자노동조합동행이 초기업노조가 자신들을 ‘어용 노조’라고 비하했다며 공동교섭단에서 이탈했다. 근로자 절반이 넘는 7만3000명 이상이 가입한 과반 노조와 다른 노조 간 충돌이 이어지며 향후 교섭에도 부담이 커질 전망이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics union rift deepens as No. 2 union demands apology",
+        "excerpt": "As Samsung Electronics and its unions prepare to resume talks, industry sources said on May 8 that the second-largest union demanded a formal apology from the largest union.",
+        "body": "Samsung Electronics management and labor have agreed to resume negotiations, but divisions inside the union camp are widening. According to industry sources on May 8, the National Samsung Electronics Union, the company’s second-largest union, sent an official letter the previous day to the Samsung Electronics branch of the Super-Enterprise Labor Union, the largest union, demanding a formal apology. The union claimed Chair Choi Seung-ho made threatening remarks, including mentioning exclusion from bargaining, toward a bargaining member who had said the chair was not looking after the DX division. It said the incident went beyond a personal attack and amounted to an attempt to erase the voices of DX members. On May 4, the third-largest union, Samsung Electronics Labor Union Donghaeng, left the joint bargaining group, saying the largest union had disparaged it as a pro-management union. With the majority union, which has more than 73,000 members and represents over half of employees, now clashing with other unions, pressure on future talks is expected to grow. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子労組対立拡大、2大労組が最大労組に謝罪要求",
+        "excerpt": "サムスン電子の労使が交渉再開に向かう中、8日の財界情報によると第2労組が最大労組に公文書で公式謝罪を求めた。",
+        "body": "サムスン電子の労使は交渉を再開する方針だが、労組内部の亀裂は深まっている。8日の財界情報によると、同社第2労組の全国サムスン電子労働組合は前日、最大労組である超企業労働組合サムスン電子支部に公文書を送り、公式謝罪を要求した。全サム労は、崔承浩・超企業労組委員長が「委員長がDX部門を十分に見ていない」という趣旨の発言をした交渉委員に対し、「交渉からの排除」などに触れる威圧的発言をしたと主張した。全サム労はこれを「個人攻撃を超え、DX組合員の声を消そうとする行為」と指摘した。これに先立つ4日には、第3労組のサムスン電子労働組合同幸が、超企業労組から「御用労組」とおとしめられたとして共同交渉団を離脱した。従業員の半数を超える7万3000人以上が加入する過半労組と他労組の衝突が続き、今後の交渉にも負担が増す見通しだ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子工会内部分歧扩大，第二大工会要求最大工会道歉",
+        "excerpt": "在三星电子劳资双方准备重启谈判之际，据8日业界消息，第二大工会向最大工会发送公文，要求其正式道歉。",
+        "body": "三星电子劳资双方虽已决定重启谈判，但工会内部裂痕正在加深。据8日业界消息，三星电子第二大工会全国三星电子劳动组合前一天向最大工会超企业劳动组合三星电子支部发送公文，要求正式道歉。全三劳称，超企业工会委员长崔承镐对一名谈判委员作出带有威胁性质的发言，包括提及“排除出谈判”等，而该谈判委员此前曾表示委员长未照顾DX部门。全三劳在公文中指出，这已超出个人攻击，是“试图抹去DX会员声音的行为”。此前4日，第三大工会三星电子劳动组合同行也因超企业工会称其为“御用工会”而突然退出共同谈判团。加入人数超过7.3万人、占员工半数以上的过半工会与其他工会接连冲突，预计将给今后的谈判带来更大压力。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Crece la fractura sindical en Samsung Electronics: el segundo sindicato exige disculpas",
+        "excerpt": "Mientras Samsung Electronics y sus sindicatos se preparan para reanudar negociaciones, fuentes empresariales dijeron el 8 de mayo que el segundo sindicato exigió disculpas formales al mayor.",
+        "body": "Samsung Electronics y sus sindicatos acordaron reanudar las negociaciones, pero las divisiones internas entre las organizaciones laborales se están intensificando. Según fuentes empresariales citadas el 8 de mayo, el Sindicato Nacional de Samsung Electronics, segundo mayor sindicato de la compañía, envió el día anterior una carta oficial a la filial de Samsung Electronics del Sindicato Supraempresarial, la mayor organización, para exigir una disculpa formal. El sindicato afirmó que el presidente Choi Seung-ho hizo comentarios de tono amenazante, incluida la posibilidad de excluir de la negociación a un miembro que había dicho que el presidente no atendía al área DX. La organización señaló que el hecho iba más allá de un ataque personal y equivalía a borrar la voz de los afiliados de DX. El 4 de mayo, el tercer sindicato, Samsung Electronics Labor Union Donghaeng, abandonó la mesa conjunta tras acusar al mayor sindicato de llamarlo “sindicato progubernamental de la empresa”. Con más de 73.000 afiliados, más de la mitad de los trabajadores, el sindicato mayoritario afronta choques con otras organizaciones, lo que podría aumentar la carga sobre futuras negociaciones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Conflito sindical na Samsung Electronics cresce e 2º sindicato exige desculpas",
+        "excerpt": "Enquanto Samsung Electronics e sindicatos se preparam para retomar negociações, fontes do setor disseram em 8 de maio que o segundo maior sindicato exigiu desculpas formais do maior.",
+        "body": "A Samsung Electronics e seus sindicatos decidiram retomar as negociações, mas as divisões internas entre as entidades trabalhistas estão se aprofundando. Segundo fontes empresariais em 8 de maio, o Sindicato Nacional da Samsung Electronics, segundo maior da companhia, enviou no dia anterior um ofício à filial da Samsung Electronics do Sindicato Supraempresarial, a maior organização, exigindo um pedido formal de desculpas. O sindicato afirmou que o presidente Choi Seung-ho fez comentários de caráter ameaçador, incluindo menção à exclusão das negociações, contra um negociador que havia dito que o presidente não cuidava do setor DX. A entidade disse que o episódio foi além de um ataque pessoal e representou uma tentativa de apagar a voz dos membros do DX. Em 4 de maio, o terceiro maior sindicato, Samsung Electronics Labor Union Donghaeng, deixou o grupo conjunto de negociação, alegando que o maior sindicato o depreciou como “sindicato alinhado à empresa”. Com mais de 73 mil filiados, acima da metade dos empregados, o sindicato majoritário enfrenta choques com outras entidades, o que deve pesar sobre futuras negociações. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Gewerkschaften im Streit: zweitgrößte fordert Entschuldigung",
+        "excerpt": "Während Samsung Electronics und die Arbeitnehmerseite Gespräche wiederaufnehmen wollen, verlangte die zweitgrößte Gewerkschaft laut Branchenkreisen am 8. Mai eine formelle Entschuldigung von der größten.",
+        "body": "Samsung Electronics und die Arbeitnehmerseite wollen die Verhandlungen wiederaufnehmen, doch die Spaltung innerhalb der Gewerkschaften vertieft sich. Nach Angaben aus Wirtschaftskreisen vom 8. Mai schickte die National Samsung Electronics Union, die zweitgrößte Gewerkschaft des Unternehmens, am Vortag ein offizielles Schreiben an den Samsung-Electronics-Zweig der Super-Enterprise Labor Union, die größte Gewerkschaft, und verlangte eine formelle Entschuldigung. Die Gewerkschaft erklärte, der Vorsitzende Choi Seung-ho habe gegenüber einem Verhandlungsmitglied, das gesagt hatte, der Vorsitzende kümmere sich nicht um den DX-Bereich, drohende Äußerungen gemacht und unter anderem einen Ausschluss von Verhandlungen erwähnt. Dies gehe über einen persönlichen Angriff hinaus und bedeute, die Stimme der DX-Mitglieder auslöschen zu wollen. Bereits am 4. Mai hatte die drittgrößte Gewerkschaft, Samsung Electronics Labor Union Donghaeng, die gemeinsame Verhandlungsgruppe verlassen, nachdem sie der größten Gewerkschaft vorgeworfen hatte, sie als arbeitgebernahe Gewerkschaft herabzusetzen. Da die Mehrheitsgewerkschaft mit mehr als 73.000 Mitgliedern und damit über der Hälfte der Beschäftigten nun mit anderen Gewerkschaften kollidiert, dürfte der Druck auf künftige Gespräche steigen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Samsung Electronics: la fracture syndicale s’aggrave, le 2e syndicat exige des excuses",
+        "excerpt": "Alors que Samsung Electronics et ses syndicats doivent reprendre les négociations, des sources du secteur ont indiqué le 8 mai que le deuxième syndicat a demandé des excuses formelles au plus grand.",
+        "body": "Samsung Electronics et ses syndicats ont convenu de reprendre les négociations, mais les tensions internes au camp syndical s’aggravent. Selon des sources économiques le 8 mai, le Syndicat national de Samsung Electronics, deuxième organisation de l’entreprise, a envoyé la veille un courrier officiel à la branche Samsung Electronics du Syndicat supra-entreprise, la plus grande organisation, pour exiger des excuses formelles. Le syndicat affirme que le président Choi Seung-ho a tenu des propos de nature menaçante, évoquant notamment une exclusion des négociations, envers un négociateur qui avait déclaré que le président ne s’occupait pas du secteur DX. Il a estimé que cela dépassait l’attaque personnelle et revenait à effacer la voix des membres de DX. Le 4 mai, le troisième syndicat, Samsung Electronics Labor Union Donghaeng, avait quitté le groupe de négociation commun, accusant le plus grand syndicat de l’avoir rabaissé en le qualifiant de syndicat favorable à la direction. Avec plus de 73.000 membres, soit plus de la moitié des salariés, le syndicat majoritaire est désormais en conflit avec d’autres organisations, ce qui pourrait peser sur les prochaines discussions. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "اتساع الخلاف بين نقابات سامسونغ إلكترونيكس والثانية تطالب الكبرى باعتذار",
+        "excerpt": "بينما تستعد سامسونغ إلكترونيكس ونقاباتها لاستئناف المفاوضات، قالت مصادر اقتصادية في 8 مايو إن ثاني أكبر نقابة طلبت اعتذارا رسميا من أكبر نقابة.",
+        "body": "اتفقت إدارة سامسونغ إلكترونيكس والنقابات على استئناف المفاوضات، لكن الانقسام داخل المعسكر النقابي يزداد حدة. وبحسب مصادر اقتصادية في 8 مايو، أرسلت النقابة الوطنية لسامسونغ إلكترونيكس، وهي ثاني أكبر نقابة في الشركة، في اليوم السابق خطابا رسميا إلى فرع سامسونغ إلكترونيكس في نقابة العمال فوق الشركات، وهي أكبر نقابة، مطالبة باعتذار رسمي. وقالت النقابة إن الرئيس تشوي سونغ هو أدلى بتصريحات ذات طابع تهديدي، من بينها الإشارة إلى الاستبعاد من التفاوض، تجاه عضو تفاوض قال إن الرئيس لا يهتم بقطاع DX. واعتبرت أن ذلك يتجاوز الهجوم الشخصي ويمثل محاولة لإسكات أصوات أعضاء DX. وفي 4 مايو، غادرت ثالث أكبر نقابة، وهي نقابة عمال سامسونغ إلكترونيكس دونغ هينغ، فريق التفاوض المشترك، قائلة إن أكبر نقابة وصفتها بازدراء بأنها نقابة موالية للإدارة. ومع امتلاك النقابة الأكبر أكثر من 73 ألف عضو، أي ما يزيد على نصف العاملين، فإن استمرار التصادم مع النقابات الأخرى قد يزيد العبء على المفاوضات المقبلة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics यूनियनों में दरार गहरी, दूसरी यूनियन ने मांगी माफी",
+        "excerpt": "Samsung Electronics में प्रबंधन और यूनियनों की वार्ता फिर शुरू होने से पहले, उद्योग सूत्रों ने 8 मई को बताया कि दूसरी सबसे बड़ी यूनियन ने सबसे बड़ी यूनियन से औपचारिक माफी मांगी।",
+        "body": "Samsung Electronics प्रबंधन और यूनियनों ने वार्ता फिर शुरू करने पर सहमति बनाई है, लेकिन यूनियनों के भीतर मतभेद और गहरे हो रहे हैं। 8 मई को उद्योग सूत्रों के अनुसार, कंपनी की दूसरी सबसे बड़ी यूनियन National Samsung Electronics Union ने एक दिन पहले सबसे बड़ी यूनियन Super-Enterprise Labor Union की Samsung Electronics शाखा को आधिकारिक पत्र भेजकर औपचारिक माफी की मांग की। यूनियन ने आरोप लगाया कि अध्यक्ष Choi Seung-ho ने उस वार्ता सदस्य के प्रति धमकी भरे बयान दिए, जिसमें वार्ता से बाहर करने जैसी बात शामिल थी; उस सदस्य ने कहा था कि अध्यक्ष DX विभाग का ध्यान नहीं रख रहे। यूनियन ने इसे व्यक्तिगत हमले से आगे जाकर DX सदस्यों की आवाज मिटाने की कोशिश बताया। इससे पहले 4 मई को तीसरी सबसे बड़ी यूनियन Samsung Electronics Labor Union Donghaeng ने साझा वार्ता दल छोड़ दिया था, क्योंकि उसका कहना था कि सबसे बड़ी यूनियन ने उसे प्रबंधन समर्थक यूनियन कहकर नीचा दिखाया। 73,000 से अधिक सदस्यों और कर्मचारियों के आधे से ज्यादा प्रतिनिधित्व वाली बहुमत यूनियन तथा अन्य यूनियनों के बीच टकराव जारी रहने से आगे की वार्ताओं पर दबाव बढ़ सकता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Konflik serikat Samsung Electronics melebar, serikat kedua tuntut permintaan maaf",
+        "excerpt": "Saat Samsung Electronics dan serikat pekerja bersiap melanjutkan perundingan, sumber industri pada 8 Mei menyebut serikat terbesar kedua menuntut permintaan maaf resmi dari serikat terbesar.",
+        "body": "Samsung Electronics dan pihak serikat telah sepakat melanjutkan perundingan, tetapi perpecahan di internal serikat semakin dalam. Menurut sumber industri pada 8 Mei, National Samsung Electronics Union, serikat terbesar kedua di perusahaan itu, pada hari sebelumnya mengirim surat resmi kepada cabang Samsung Electronics dari Super-Enterprise Labor Union, serikat terbesar, untuk menuntut permintaan maaf resmi. Serikat tersebut menyatakan Ketua Choi Seung-ho membuat pernyataan bernada mengancam, termasuk menyebut kemungkinan dikeluarkan dari perundingan, kepada seorang anggota perunding yang mengatakan ketua tidak memperhatikan divisi DX. Mereka menilai tindakan itu melampaui serangan pribadi dan merupakan upaya menghapus suara anggota DX. Pada 4 Mei, serikat terbesar ketiga, Samsung Electronics Labor Union Donghaeng, juga keluar dari kelompok perundingan bersama setelah menyebut serikat terbesar merendahkan mereka sebagai serikat pro-manajemen. Dengan lebih dari 73.000 anggota, atau lebih dari separuh pekerja, benturan antara serikat mayoritas dan serikat lain diperkirakan menambah beban pada perundingan mendatang. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "e2ad095b6968",
     "slug": "삼성전자-최대-노조-다시-협상-테이블로-304417",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Pajak tambahan capital gain pemilik banyak rumah berlaku lagi 10 Mei, batas izin disorot",
         "excerpt": "Pajak tambahan atas capital gain bagi pemilik banyak rumah, yang ditangguhkan sementara sejak 2022, akan berlaku lagi pada 10 Mei; pengajuan izin transaksi tanah hingga besok bisa mendapat pengecualian.",
         "body": "Pajak tambahan atas capital gain bagi pemilik banyak rumah akan kembali diberlakukan pada 10 Mei. Kebijakan yang ditangguhkan sementara selama empat tahun sejak 2022 itu berakhir, sehingga pemilik banyak rumah yang menjual hunian di wilayah regulasi dapat dikenai tarif hingga 82,5%. Menurut teks asli, mereka yang mengajukan izin transaksi tanah hingga besok dapat masuk dalam対象 pengecualian pajak tambahan, sehingga perhatian juga tertuju pada apakah kantor kota dan distrik akan beroperasi. Pemberlakuan kembali ini diperkirakan berdampak langsung pada pemilik yang harus mempertimbangkan waktu penjualan dan beban pajak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "289b682e2d4f",
-    "slug": "대우건설-임직원과-함께-만드는-대우건설-nature-정원-조성-준공-348815",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T05:13:47.350Z",
-    "updatedAt": "2026-05-08T05:13:47.350Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040733",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040733",
-    "titleFingerprint": "08d869da8f0af0bc48b7a5e194ec000d6d322fb4",
-    "dedupKeys": [
-      "289b682e2d4f0e63d4c65cb6535a92758bb622b2",
-      "08d869da8f0af0bc48b7a5e194ec000d6d322fb4",
-      "096442ae7158b5b23c14642c9a5ea1a412f2f49c"
-    ],
-    "imageUrl": "/images/articles/289b682e2d4f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대우건설 Nature 정원 준공, 임직원 참여로 중랑천 생태복원 나서",
-        "excerpt": "대우건설은 7일 서울 성동구 중랑천 일대에서 임직원과 생물다양성 보전 및 생태환경 개선 봉사활동을 진행하고 친환경 생태공간 ‘대우건설 Nature’ 정원 조성을 마쳤다.",
-        "body": "대우건설은 지난 7일 서울시 성동구 중랑천 일대에서 임직원이 참여한 환경 생태 복원 봉사활동을 진행하고 친환경 생태공간인 ‘대우건설 Nature’ 정원 조성을 준공했다. 이번 활동은 생물다양성 보전과 생태환경 개선을 목적으로 마련됐다. 임직원이 함께 참여해 도심 하천 주변 생태공간을 조성했다는 점에서 기업의 환경 사회공헌 활동으로 의미가 있다. 대우건설은 이번 정원 조성을 통해 중랑천 일대의 생태환경 개선에 힘을 보탰다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daewoo E&C Completes ‘Daewoo E&C Nature’ Garden With Employees at Jungnangcheon",
-        "excerpt": "Daewoo E&C held an environmental restoration volunteer activity on May 7 near Jungnangcheon in Seongdong-gu, Seoul, and completed the eco-friendly ‘Daewoo E&C Nature’ garden.",
-        "body": "Daewoo E&C held an environmental and ecological restoration volunteer activity on May 7 near Jungnangcheon in Seongdong-gu, Seoul, with employee participation, and completed the eco-friendly ecological space called the ‘Daewoo E&C Nature’ garden. The activity was organized to preserve biodiversity and improve the ecological environment. Its significance lies in employees working together to create an ecological space around an urban stream as part of the company’s environmental social contribution efforts. Through this garden project, Daewoo E&C contributed to improving the ecological environment around Jungnangcheon. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大宇建設、社員参加で『Daewoo E&C Nature』庭園を中浪川に完成",
-        "excerpt": "大宇建設は7日、ソウル市城東区の中浪川一帯で生物多様性の保全と生態環境改善に向けた奉仕活動を行い、環境配慮型の『Daewoo E&C Nature』庭園を完成させた。",
-        "body": "大宇建設は7日、ソウル市城東区の中浪川一帯で、社員が参加する環境・生態復元の奉仕活動を実施し、環境配慮型の生態空間である『Daewoo E&C Nature』庭園の造成を完了した。今回の活動は、生物多様性の保全と生態環境の改善を目的に行われた。社員が共に参加し、都市河川周辺に生態空間を整備した点で、企業の環境社会貢献活動として意味を持つ。大宇建設は今回の庭園造成を通じ、中浪川一帯の生態環境改善に力を添えた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大宇建设员工共建‘Daewoo E&C Nature’花园，中浪川生态空间完工",
-        "excerpt": "大宇建设7日在首尔城东区中浪川一带开展保护生物多样性、改善生态环境的志愿活动，并完成环保生态空间‘Daewoo E&C Nature’花园建设。",
-        "body": "大宇建设于7日在首尔市城东区中浪川一带，开展由员工参与的环境生态修复志愿活动，并完成环保生态空间‘Daewoo E&C Nature’花园建设。此次活动旨在保护生物多样性并改善生态环境。员工共同参与，在城市河流周边打造生态空间，这一点体现了企业环境社会贡献活动的意义。通过此次花园建设，大宇建设为中浪川一带生态环境改善作出了贡献。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Daewoo E&C completa el jardín ‘Daewoo E&C Nature’ con empleados en Jungnangcheon",
-        "excerpt": "Daewoo E&C realizó el 7 de mayo una actividad voluntaria de restauración ecológica en Jungnangcheon, Seongdong-gu, Seúl, y completó el jardín ecológico ‘Daewoo E&C Nature’.",
-        "body": "Daewoo E&C llevó a cabo el 7 de mayo una actividad voluntaria de restauración ambiental y ecológica con la participación de empleados en la zona de Jungnangcheon, en Seongdong-gu, Seúl, y completó la creación del espacio ecológico ‘Daewoo E&C Nature’. La actividad fue organizada para conservar la biodiversidad y mejorar el entorno ecológico. Su relevancia radica en que los empleados participaron juntos en la creación de un espacio ecológico junto a un arroyo urbano, como parte de la contribución ambiental de la empresa. Con este jardín, Daewoo E&C apoyó la mejora ecológica de Jungnangcheon. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Daewoo E&C conclui jardim ‘Daewoo E&C Nature’ com funcionários em Jungnangcheon",
-        "excerpt": "A Daewoo E&C realizou em 7 de maio uma ação voluntária de restauração ecológica em Jungnangcheon, Seongdong-gu, Seul, e concluiu o jardim ecológico ‘Daewoo E&C Nature’.",
-        "body": "A Daewoo E&C realizou em 7 de maio uma atividade voluntária de restauração ambiental e ecológica com a participação de funcionários na região de Jungnangcheon, em Seongdong-gu, Seul, e concluiu a criação do espaço ecológico ‘Daewoo E&C Nature’. A ação foi organizada para preservar a biodiversidade e melhorar o ambiente ecológico. O significado está no fato de os funcionários participarem juntos da criação de um espaço ecológico ao redor de um curso d’água urbano, como parte da contribuição ambiental da empresa. Com o jardim, a Daewoo E&C ajudou na melhoria ecológica de Jungnangcheon. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daewoo E&C stellt mit Mitarbeitern den Garten ‘Daewoo E&C Nature’ am Jungnangcheon fertig",
-        "excerpt": "Daewoo E&C führte am 7. Mai am Jungnangcheon in Seongdong-gu, Seoul, eine freiwillige ökologische Restaurierungsaktion durch und vollendete den umweltfreundlichen Garten ‘Daewoo E&C Nature’.",
-        "body": "Daewoo E&C hat am 7. Mai in der Umgebung des Jungnangcheon in Seongdong-gu, Seoul, mit Beteiligung von Mitarbeitern eine freiwillige Umwelt- und Ökorestaurierungsaktion durchgeführt und den umweltfreundlichen ökologischen Raum ‘Daewoo E&C Nature’ fertiggestellt. Die Aktion wurde organisiert, um Biodiversität zu bewahren und die ökologische Umwelt zu verbessern. Bedeutend ist, dass Mitarbeiter gemeinsam an der Schaffung eines ökologischen Raums an einem städtischen Gewässer mitwirkten, als Teil des ökologischen gesellschaftlichen Engagements des Unternehmens. Damit trug Daewoo E&C zur Verbesserung der Umwelt am Jungnangcheon bei. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Daewoo E&C achève le jardin ‘Daewoo E&C Nature’ avec ses employés à Jungnangcheon",
-        "excerpt": "Daewoo E&C a mené le 7 mai une action bénévole de restauration écologique à Jungnangcheon, Seongdong-gu, Séoul, et achevé le jardin écologique ‘Daewoo E&C Nature’.",
-        "body": "Daewoo E&C a mené le 7 mai, dans le secteur de Jungnangcheon à Seongdong-gu, Séoul, une activité bénévole de restauration environnementale et écologique avec la participation de ses employés, et a achevé l’aménagement de l’espace écologique ‘Daewoo E&C Nature’. Cette action visait à préserver la biodiversité et à améliorer l’environnement écologique. Elle se distingue par la participation des employés à la création d’un espace écologique autour d’un cours d’eau urbain, dans le cadre de l’engagement environnemental de l’entreprise. Grâce à ce jardin, Daewoo E&C a contribué à l’amélioration écologique de Jungnangcheon. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دايو للهندسة والإنشاء تكمل حديقة ‘Daewoo E&C Nature’ بمشاركة الموظفين في جونغنانغتشون",
-        "excerpt": "أجرت دايو للهندسة والإنشاء في 7 مايو نشاطا تطوعيا لاستعادة البيئة في منطقة جونغنانغتشون بسونغدونغ-غو في سيول، وأكملت حديقة ‘Daewoo E&C Nature’ الصديقة للبيئة.",
-        "body": "أجرت دايو للهندسة والإنشاء في 7 مايو نشاطا تطوعيا لاستعادة البيئة والنظام البيئي بمشاركة الموظفين في منطقة جونغنانغتشون في سونغدونغ-غو بسيول، وأكملت إنشاء المساحة البيئية الصديقة للبيئة ‘Daewoo E&C Nature’. نُظم هذا النشاط بهدف الحفاظ على التنوع البيولوجي وتحسين البيئة البيئية. وتكمن أهميته في مشاركة الموظفين معا في إنشاء مساحة بيئية حول مجرى مائي حضري، ضمن مساهمة الشركة البيئية والاجتماعية. ومن خلال هذه الحديقة، ساعدت دايو للهندسة والإنشاء في تحسين البيئة البيئية بمنطقة جونغنانغتشون. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Daewoo E&C ने कर्मचारियों के साथ Jungnangcheon में ‘Daewoo E&C Nature’ उद्यान पूरा किया",
-        "excerpt": "Daewoo E&C ने 7 मई को सियोल के Seongdong-gu स्थित Jungnangcheon क्षेत्र में जैव विविधता संरक्षण और पारिस्थितिक सुधार के लिए स्वयंसेवी गतिविधि की और ‘Daewoo E&C Nature’ उद्यान पूरा किया।",
-        "body": "Daewoo E&C ने 7 मई को सियोल के Seongdong-gu में Jungnangcheon क्षेत्र के पास कर्मचारियों की भागीदारी के साथ पर्यावरण और पारिस्थितिक बहाली की स्वयंसेवी गतिविधि आयोजित की और पर्यावरण अनुकूल पारिस्थितिक स्थान ‘Daewoo E&C Nature’ उद्यान का निर्माण पूरा किया। यह गतिविधि जैव विविधता संरक्षण और पारिस्थितिक पर्यावरण सुधार के उद्देश्य से आयोजित की गई थी। कर्मचारियों ने मिलकर शहरी नदी क्षेत्र के आसपास पारिस्थितिक स्थान बनाया, जिससे यह कंपनी की पर्यावरण संबंधी सामाजिक योगदान गतिविधि के रूप में महत्व रखता है। इस उद्यान के जरिए Daewoo E&C ने Jungnangcheon क्षेत्र के पारिस्थितिक सुधार में योगदान दिया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daewoo E&C Rampungkan Taman ‘Daewoo E&C Nature’ Bersama Karyawan di Jungnangcheon",
-        "excerpt": "Daewoo E&C pada 7 Mei menggelar kegiatan sukarela restorasi ekologi di Jungnangcheon, Seongdong-gu, Seoul, untuk menjaga keanekaragaman hayati dan menyelesaikan taman ‘Daewoo E&C Nature’.",
-        "body": "Daewoo E&C pada 7 Mei menggelar kegiatan sukarela restorasi lingkungan dan ekologi dengan partisipasi karyawan di kawasan Jungnangcheon, Seongdong-gu, Seoul, sekaligus menyelesaikan pembangunan ruang ekologi ramah lingkungan ‘Daewoo E&C Nature’. Kegiatan ini disiapkan untuk menjaga keanekaragaman hayati dan memperbaiki lingkungan ekologi. Maknanya terletak pada keterlibatan karyawan dalam membangun ruang ekologi di sekitar sungai perkotaan sebagai bentuk kontribusi sosial perusahaan di bidang lingkungan. Melalui taman ini, Daewoo E&C turut mendukung perbaikan ekologi di kawasan Jungnangcheon. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "47da4e1d68f6",
-    "slug": "토요일에도-토지거래허가-신청-가능양도세-중과-유예-마지막날까지-접수-252389",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T05:12:55.291Z",
-    "updatedAt": "2026-05-08T05:12:55.291Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12040741",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12040741",
-    "titleFingerprint": "40d857f3e810d677e5e89a3a05f722567d558768",
-    "dedupKeys": [
-      "47da4e1d68f603b974f2da24cc4019b14afa7732",
-      "40d857f3e810d677e5e89a3a05f722567d558768",
-      "aa9fd043db665594f94538b8fd6566cd0ec54cdb"
-    ],
-    "imageUrl": "/images/articles/47da4e1d68f6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토요일 토지거래허가 신청 가능, 양도세 중과 유예 막판 접수 안내",
-        "excerpt": "정부는 다주택자 양도소득세 중과 유예와 관련해 토요일인 9일에도 조정대상지역 관할 시·구청에서 토지거래허가 신청을 받는다고 밝혔다.",
-        "body": "정부가 토요일인 9일에도 다주택자 양도소득세 중과 유예와 관련한 토지거래허가 신청을 접수한다. 신청 대상자는 조정대상지역 관할 시·구청에 신청하면 된다. 이번 접수는 양도소득세 중과 유예 적용과 관련해 마지막 날까지 신청 기회를 열어두기 위한 조치다. 지역별 기한은 다르다. 강남3구와 용산은 9월 9일까지, 나머지 조정대상지역은 11월 9일까지 신청을 받을 예정이다. 토요일 접수 운영으로 해당 지역에서 거래 허가가 필요한 다주택자는 기한 내 신청 일정을 확인해야 한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Saturday Land Transaction Permit Applications Open as Capital Gains Tax Relief Deadline Nears",
-        "excerpt": "The government said land transaction permit applications tied to temporary relief from heavier capital gains tax for multiple-home owners will be accepted on Saturday, the 9th.",
-        "body": "The government will accept land transaction permit applications on Saturday, the 9th, in connection with the temporary suspension of heavier capital gains tax for multiple-home owners. Applicants should file with the city or district office that has jurisdiction over the regulated area. The measure keeps applications open through the final day for those seeking eligibility under the tax relief arrangement. Deadlines differ by location: Gangnam 3 districts and Yongsan are open until September 9, while other regulated areas will accept applications until November 9. Multiple-home owners who need transaction approval in these areas should check the applicable deadline. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "土曜日も土地取引許可申請を受付、譲渡税重課猶予の最終日まで対応",
-        "excerpt": "政府は、複数住宅所有者の譲渡所得税重課猶予に関連し、9日の土曜日にも調整対象地域の管轄市・区庁で土地取引許可申請を受け付ける。",
-        "body": "政府は9日の土曜日にも、複数住宅所有者の譲渡所得税重課猶予に関連する土地取引許可申請を受け付ける。申請者は調整対象地域を管轄する市・区庁に申請すればよい。今回の受付は、譲渡所得税重課猶予の適用に関し、最終日まで申請機会を確保するための措置だ。地域別の期限は異なる。江南3区と龍山は9月9日まで、その他の調整対象地域は11月9日まで申請を受け付ける予定だ。土曜日受付により、該当地域で取引許可が必要な複数住宅所有者は期限を確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "周六也可申请土地交易许可，资本利得税重税暂缓受理至最后一天",
-        "excerpt": "政府表示，与多房产持有者资本利得税重税暂缓有关的土地交易许可申请，将在9日周六于调控对象地区所属市、区政府受理。",
-        "body": "政府将在9日周六继续受理与多房产持有者资本利得税重税暂缓有关的土地交易许可申请。申请人可向调控对象地区所属的市、区政府提交申请。此次受理是为确保相关人员在适用资本利得税重税暂缓时，直到最后一天仍有申请机会。各地区期限不同。江南3区和龙山受理至9月9日，其余调控对象地区预计受理至11月9日。由于周六也开放受理，在相关地区需要交易许可的多房产持有者应确认适用期限。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Solicitudes de permiso de transacción de tierras también el sábado por alivio fiscal final",
-        "excerpt": "El Gobierno aceptará el sábado 9 solicitudes de permiso de transacción de tierras vinculadas a la suspensión del recargo del impuesto a las ganancias de capital para multipropietarios.",
-        "body": "El Gobierno aceptará el sábado 9 solicitudes de permiso de transacción de tierras relacionadas con la suspensión temporal del recargo del impuesto a las ganancias de capital para propietarios de múltiples viviendas. Los solicitantes deben presentarlas ante la oficina municipal o distrital competente en la zona sujeta a regulación. La medida busca mantener abierta la posibilidad de solicitud hasta el último día para quienes busquen acogerse al alivio fiscal. Los plazos varían por zona: los tres distritos de Gangnam y Yongsan hasta el 9 de septiembre, y las demás zonas reguladas hasta el 9 de noviembre. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Pedidos de licença para transação de terras serão aceitos no sábado até prazo fiscal final",
-        "excerpt": "O governo aceitará no sábado, dia 9, pedidos de licença para transação de terras ligados à suspensão da tributação agravada sobre ganho de capital de proprietários múltiplos.",
-        "body": "O governo aceitará no sábado, dia 9, pedidos de licença para transação de terras relacionados à suspensão temporária da tributação agravada sobre ganho de capital para proprietários de múltiplas moradias. Os interessados devem apresentar o pedido à prefeitura ou administração distrital responsável pela área sujeita a regulação. A medida mantém aberta a possibilidade de solicitação até o último dia para quem busca a aplicação do alívio fiscal. Os prazos variam por região: os três distritos de Gangnam e Yongsan até 9 de setembro; as demais áreas reguladas até 9 de novembro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Anträge auf Grundstückstransaktionsgenehmigung auch samstags bis zur Steuerfrist möglich",
-        "excerpt": "Die Regierung nimmt am Samstag, dem 9., Anträge auf Grundstückstransaktionsgenehmigung im Zusammenhang mit der Aussetzung der höheren Kapitalertragsteuer für Mehrfachimmobilienbesitzer entgegen.",
-        "body": "Die Regierung nimmt auch am Samstag, dem 9., Anträge auf Grundstückstransaktionsgenehmigung im Zusammenhang mit der vorübergehenden Aussetzung der höheren Kapitalertragsteuer für Besitzer mehrerer Wohnungen entgegen. Antragsteller sollen sich an das zuständige Stadt- oder Bezirksamt der regulierten Region wenden. Damit bleibt die Antragstellung bis zum letzten Tag für Personen möglich, die die steuerliche Entlastung nutzen wollen. Die Fristen unterscheiden sich nach Region: die drei Gangnam-Bezirke und Yongsan bis zum 9. September, die übrigen regulierten Gebiete bis zum 9. November. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Demandes de permis de transaction foncière acceptées samedi jusqu’à la fin du délai fiscal",
-        "excerpt": "Le gouvernement acceptera samedi 9 les demandes de permis de transaction foncière liées au report de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements.",
-        "body": "Le gouvernement acceptera aussi samedi 9 les demandes de permis de transaction foncière liées au report temporaire de la surtaxe sur les plus-values immobilières pour les propriétaires de plusieurs logements. Les demandeurs doivent déposer leur dossier auprès de la mairie ou du bureau d’arrondissement compétent pour la zone réglementée. Cette mesure vise à maintenir la possibilité de demander l’application du dispositif jusqu’au dernier jour. Les délais varient selon les zones: les trois districts de Gangnam et Yongsan jusqu’au 9 septembre, les autres zones réglementées jusqu’au 9 novembre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "قبول طلبات تصاريح تداول الأراضي يوم السبت مع اقتراب مهلة تخفيف ضريبة الأرباح",
-        "excerpt": "قالت الحكومة إنها ستقبل يوم السبت 9 طلبات تصاريح تداول الأراضي المرتبطة بتأجيل الضريبة المشددة على أرباح رأس المال لمالكي عدة مساكن.",
-        "body": "ستقبل الحكومة يوم السبت 9 طلبات تصاريح تداول الأراضي المرتبطة بالتأجيل المؤقت للضريبة المشددة على أرباح رأس المال لمالكي عدة مساكن. ويمكن للمتقدمين تقديم الطلب إلى مكتب المدينة أو الحي المختص بالمنطقة الخاضعة للتنظيم. ويهدف هذا الإجراء إلى إبقاء فرصة التقديم متاحة حتى اليوم الأخير لمن يسعون إلى تطبيق التخفيف الضريبي. وتختلف المواعيد حسب المنطقة: أحياء غانغنام الثلاثة ويونغسان حتى 9 سبتمبر، وبقية المناطق الخاضعة للتنظيم حتى 9 نوفمبر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शनिवार को भी भूमि लेनदेन परमिट आवेदन, पूंजीगत लाभ कर राहत की अंतिम तारीख तक受付",
-        "excerpt": "सरकार ने कहा कि बहु-घर मालिकों के पूंजीगत लाभ कर अधिभार स्थगन से जुड़े भूमि लेनदेन परमिट आवेदन शनिवार 9 तारीख को भी संबंधित शहर व जिला कार्यालयों में लिए जाएंगे।",
-        "body": "सरकार शनिवार, 9 तारीख को भी बहु-घर मालिकों के पूंजीगत लाभ कर अधिभार स्थगन से जुड़े भूमि लेनदेन परमिट आवेदन स्वीकार करेगी। आवेदक विनियमित क्षेत्र के अधिकार क्षेत्र वाले शहर या जिला कार्यालय में आवेदन कर सकते हैं। यह कदम कर राहत लागू कराने के इच्छुक लोगों को अंतिम दिन तक आवेदन का अवसर देने के लिए है। क्षेत्र के अनुसार समयसीमा अलग है। गंगनम के तीन जिलों और योंगसान में 9 सितंबर तक, जबकि अन्य विनियमित क्षेत्रों में 9 नवंबर तक आवेदन लिए जाएंगे। जिन बहु-घर मालिकों को इन क्षेत्रों में लेनदेन अनुमति चाहिए, उन्हें अपनी समयसीमा 확인 करनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Permohonan Izin Transaksi Tanah Dibuka Sabtu hingga Batas Akhir Relaksasi Pajak",
-        "excerpt": "Pemerintah akan menerima permohonan izin transaksi tanah pada Sabtu tanggal 9 terkait penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah.",
-        "body": "Pemerintah akan menerima permohonan izin transaksi tanah pada Sabtu tanggal 9 terkait penangguhan sementara pajak capital gain yang lebih berat bagi pemilik banyak rumah. Pemohon dapat mengajukan ke kantor kota atau distrik yang berwenang atas wilayah berstatus area penyesuaian. Langkah ini membuka kesempatan pengajuan hingga hari terakhir bagi pihak yang ingin memperoleh penerapan relaksasi pajak tersebut. Tenggat berbeda menurut wilayah: Gangnam 3-gu dan Yongsan hingga 9 September, sedangkan area penyesuaian lainnya hingga 9 November. Pemilik banyak rumah yang memerlukan izin transaksi perlu memeriksa tenggat yang berlaku. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7d0ea1672913",
-    "slug": "은평-증산5구역-정비사업-심의-통과1906가구-대단지-조성-660139",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T05:12:01.450Z",
-    "updatedAt": "2026-05-08T05:12:01.450Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040998",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040998",
-    "titleFingerprint": "dd5b0202ae45b7e46dadfe5b9ae91d1274c53248",
-    "dedupKeys": [
-      "7d0ea167291315ae67e969599f5d34420c6ad11c",
-      "dd5b0202ae45b7e46dadfe5b9ae91d1274c53248",
-      "285cb070b6262542d8f215ce4aa8abedf826b03d"
-    ],
-    "imageUrl": "/images/articles/7d0ea1672913.jpg",
-    "i18n": {
-      "ko": {
-        "title": "은평 증산5구역 정비사업 심의 통과, 최고 29층 1906가구 역세권 대단지 추진",
-        "excerpt": "은평구 증산5구역 정비사업이 제8차 정비사업 통합심의위원회를 통과하면서 최고 29층, 1906가구 규모의 역세권 대단지 조성에 속도가 붙을 전망이다.",
-        "body": "서울 은평구 증산5구역 정비사업이 제8차 정비사업 통합심의위원회를 통과했다. 이번 심의 통과로 증산5구역에는 최고 29층, 총 1906가구 규모의 역세권 대단지 조성이 추진된다. 원문에 따르면 해당 구역은 정비사업 통합심의를 넘어서며 향후 착공 절차에 속도를 낼 전망이다. 증산5구역은 은평구 내 역세권 정비사업지로, 대규모 주거 공급 계획이 구체화됐다는 점에서 지역 주거 여건 변화와 사업 진행 상황에 관심이 모인다. 다만 기사에 공개된 내용은 심의 통과와 규모, 층수, 가구 수에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Eunpyeong Jeungsan Zone 5 Redevelopment Clears Review, 1,906 Homes Planned Near Station",
-        "excerpt": "The redevelopment project for Jeungsan Zone 5 in Eunpyeong has passed the 8th integrated review, paving the way for a 29-story, 1,906-unit residential complex near transit.",
-        "body": "The redevelopment project for Jeungsan Zone 5 in Eunpyeong-gu, Seoul, has passed the 8th Integrated Redevelopment Review Committee. With this approval, the area is set to move forward with plans for a large residential complex near a transit station, reaching up to 29 floors and including 1,906 housing units. According to the source article, the passage of the integrated review is expected to help accelerate steps toward construction. Jeungsan Zone 5 is a redevelopment site in Eunpyeong-gu’s station-area district, and the plan draws attention as a major housing supply project in the area. The disclosed information is limited to the review approval, building height, and unit count. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "恩平・繒山5区域の整備事業が審議通過、最高29階1906戸の駅勢圏団地へ",
-        "excerpt": "ソウル恩平区の繒山5区域整備事業が第8回統合審議委員会を通過し、最高29階・1906戸規模の駅勢圏大型団地造成が前進する見通しです。",
-        "body": "ソウル市恩平区の繒山5区域整備事業が、第8回整備事業統合審議委員会を通過した。今回の審議通過により、同区域では最高29階、計1906戸規模の駅勢圏大型住宅団地の造成が進められる。原文によると、繒山5区域は整備事業の統合審議を越えたことで、今後の着工手続きに速度がつく見通しだ。同区域は恩平区内の駅勢圏整備事業地であり、大規模な住宅供給計画が具体化した点で、地域の住環境変化と事業進行に関心が集まる。ただし記事で公開された内容は、審議通過、規模、階数、戸数に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "恩平缯山5区整备项目通过审议，拟建最高29层1906户地铁圈大盘",
-        "excerpt": "首尔恩平区缯山5区整备项目通过第8次整备项目综合审议，最高29层、1906户规模的站区大型住宅小区建设有望提速。",
-        "body": "首尔恩平区缯山5区整备项目已通过第8次整备项目综合审议委员会审议。随着此次审议通过，该区域将推进最高29层、共1906户规模的站区大型住宅小区建设。根据原文，缯山5区在通过整备项目综合审议后，未来开工相关程序有望加快。缯山5区是恩平区内的站区整备项目地，大规模住宅供应计划进一步具体化，因此其对当地居住条件变化和项目进展的影响受到关注。不过，报道公开的信息仅限于审议通过、项目规模、楼层高度和户数。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jeungsan 5 en Eunpyeong supera revisión: gran complejo de 1.906 viviendas junto a estación",
-        "excerpt": "El proyecto de reurbanización de Jeungsan 5, en Eunpyeong-gu, pasó la 8ª revisión integrada y prevé un complejo de hasta 29 pisos con 1.906 viviendas cerca de una estación.",
-        "body": "El proyecto de reurbanización de Jeungsan 5, en Eunpyeong-gu, Seúl, superó la 8ª Comisión de Revisión Integrada de Proyectos de Reurbanización. Con esta aprobación, la zona avanzará hacia la creación de un gran complejo residencial cercano a una estación, con edificios de hasta 29 pisos y un total de 1.906 viviendas. Según el artículo original, el paso por la revisión integrada podría acelerar los procedimientos previos al inicio de obras. Jeungsan 5 es un área de reurbanización vinculada al entorno de transporte en Eunpyeong-gu, por lo que el plan concentra atención por su escala de suministro residencial. La información divulgada se limita a la aprobación, altura y número de viviendas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jeungsan 5 em Eunpyeong passa por revisão e prevê 1.906 moradias perto de estação",
-        "excerpt": "O projeto de reurbanização de Jeungsan 5, em Eunpyeong-gu, passou pela 8ª revisão integrada e prevê um complexo de até 29 andares com 1.906 unidades residenciais.",
-        "body": "O projeto de reurbanização de Jeungsan 5, em Eunpyeong-gu, Seul, foi aprovado na 8ª Comissão de Revisão Integrada de Projetos de Reurbanização. Com a aprovação, a área deve avançar com o plano de criar um grande complexo residencial próximo a uma estação, com até 29 andares e 1.906 unidades. Segundo o texto original, a passagem pela revisão integrada deve dar mais velocidade aos procedimentos rumo ao início das obras. Jeungsan 5 é uma área de reurbanização em zona de influência de transporte em Eunpyeong-gu, e o plano chama atenção por concretizar uma oferta habitacional de grande escala. As informações divulgadas se limitam à aprovação, altura e número de unidades. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Eunpyeong Jeungsan 5 besteht Prüfung: 1.906 Wohnungen nahe Bahnhof geplant",
-        "excerpt": "Das Sanierungsprojekt Jeungsan 5 in Eunpyeong-gu hat die 8. integrierte Prüfung passiert und sieht einen Wohnkomplex mit bis zu 29 Etagen und 1.906 Einheiten vor.",
-        "body": "Das Sanierungsprojekt Jeungsan 5 im Seouler Bezirk Eunpyeong-gu hat die 8. integrierte Prüfungskommission für Sanierungsprojekte passiert. Damit kann die Planung für einen großen Wohnkomplex in Bahnhofsnähe mit bis zu 29 Etagen und insgesamt 1.906 Wohneinheiten voranschreiten. Laut dem Originalbericht dürfte die bestandene integrierte Prüfung die weiteren Schritte bis zum Baubeginn beschleunigen. Jeungsan 5 ist ein Sanierungsgebiet im Einzugsbereich einer Station in Eunpyeong-gu. Aufmerksamkeit erhält das Vorhaben, weil damit ein groß angelegter Wohnungsbauplan konkreter wird. Die veröffentlichten Angaben beschränken sich auf die Prüfung, Höhe und Zahl der Einheiten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Eunpyeong Jeungsan 5 validé: 1 906 logements prévus près d’une station",
-        "excerpt": "Le projet de réaménagement de Jeungsan 5, à Eunpyeong-gu, a passé le 8e examen intégré et prévoit un grand ensemble de 1 906 logements, jusqu’à 29 étages.",
-        "body": "Le projet de réaménagement de Jeungsan 5, dans l’arrondissement d’Eunpyeong-gu à Séoul, a été validé par le 8e comité d’examen intégré des projets de réaménagement. Cette approbation permet d’avancer vers la création d’un grand ensemble résidentiel situé près d’une station, avec des bâtiments pouvant atteindre 29 étages et un total de 1 906 logements. Selon l’article d’origine, le passage de l’examen intégré devrait accélérer les procédures menant au chantier. Jeungsan 5 est un secteur de réaménagement en zone de desserte à Eunpyeong-gu, et le plan attire l’attention par l’ampleur de l’offre résidentielle prévue. Les informations publiées portent uniquement sur l’approbation, la hauteur et le nombre de logements. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشروع جيونغسان 5 في أونبيونغ يجتاز المراجعة لبناء 1906 مساكن قرب محطة",
-        "excerpt": "اجتاز مشروع إعادة تطوير جيونغسان 5 في أونبيونغ غو المراجعة المتكاملة الثامنة، مع خطة لإنشاء مجمع سكني يصل إلى 29 طابقا ويضم 1906 وحدات قرب محطة.",
-        "body": "اجتاز مشروع إعادة تطوير منطقة جيونغسان 5 في أونبيونغ غو بسيول لجنة المراجعة المتكاملة الثامنة لمشروعات إعادة التطوير. وبموجب هذه الموافقة، تمضي المنطقة في خطة إنشاء مجمع سكني كبير قرب محطة، بارتفاع يصل إلى 29 طابقا وبإجمالي 1906 وحدات سكنية. ووفقا للنص الأصلي، فإن اجتياز المراجعة المتكاملة من المتوقع أن يسرع إجراءات الوصول إلى مرحلة بدء البناء. وتعد جيونغسان 5 موقعا لإعادة التطوير ضمن نطاق محطة في أونبيونغ غو، لذلك يتركز الاهتمام على تغير ظروف السكن المحلية وتقدم المشروع. تقتصر المعلومات المنشورة على الموافقة والحجم والارتفاع وعدد الوحدات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "उनप्योंग ज्यूंगसान 5 पुनर्विकास को मंजूरी, स्टेशन क्षेत्र में 1,906 घरों की योजना",
-        "excerpt": "सियोल के उनप्योंग-गु में ज्यूंगसान 5 पुनर्विकास परियोजना ने 8वीं एकीकृत समीक्षा पार की, जिससे 29 मंजिल और 1,906 घरों वाले स्टेशन-क्षेत्र परिसर की योजना आगे बढ़ेगी।",
-        "body": "सियोल के उनप्योंग-गु में ज्यूंगसान 5 क्षेत्र की पुनर्विकास परियोजना ने 8वीं पुनर्विकास परियोजना एकीकृत समीक्षा समिति की मंजूरी प्राप्त कर ली है। इस मंजूरी के बाद क्षेत्र में स्टेशन के पास अधिकतम 29 मंजिल और कुल 1,906 आवासीय इकाइयों वाला बड़ा आवासीय परिसर बनाने की योजना आगे बढ़ेगी। मूल लेख के अनुसार, एकीकृत समीक्षा पार होने से निर्माण शुरू करने से जुड़ी आगे की प्रक्रियाओं में गति आने की उम्मीद है। ज्यूंगसान 5 उनप्योंग-गु का स्टेशन-क्षेत्र पुनर्विकास स्थल है, इसलिए बड़े पैमाने की आवास आपूर्ति योजना के ठोस होने पर स्थानीय आवास स्थितियों और परियोजना प्रगति पर ध्यान है। प्रकाशित जानकारी समीक्षा मंजूरी, ऊंचाई और इकाइयों की संख्या तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Redevelopment Jeungsan 5 Eunpyeong Lolos Tinjauan, 1.906 Hunian Dekat Stasiun Disiapkan",
-        "excerpt": "Proyek redevelopment Jeungsan 5 di Eunpyeong-gu lolos tinjauan terpadu ke-8, membuka jalan bagi kompleks hunian dekat stasiun hingga 29 lantai dengan 1.906 unit.",
-        "body": "Proyek redevelopment kawasan Jeungsan 5 di Eunpyeong-gu, Seoul, telah lolos Komite Tinjauan Terpadu Proyek Redevelopment ke-8. Dengan persetujuan ini, kawasan tersebut akan melanjutkan rencana pembangunan kompleks hunian besar di dekat stasiun, dengan ketinggian hingga 29 lantai dan total 1.906 unit. Menurut artikel asli, lolosnya tinjauan terpadu diperkirakan mempercepat prosedur menuju tahap konstruksi. Jeungsan 5 merupakan lokasi redevelopment di area berorientasi stasiun di Eunpyeong-gu, sehingga rencana pasokan hunian berskala besar ini menarik perhatian terhadap perubahan kondisi hunian dan perkembangan proyek setempat. Informasi yang dipublikasikan terbatas pada persetujuan, ketinggian, dan jumlah unit. Sumber: mk.co.kr"
       }
     }
   }
