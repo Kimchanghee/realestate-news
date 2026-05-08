@@ -1,0 +1,75 @@
+{
+  "id": "6494bec897d7",
+  "slug": "토스증권-한국콜마-실적-반토막-표기-오류투자자들-매도-등-혼란-537070",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-08T16:20:05.631Z",
+  "updatedAt": "2026-05-08T16:20:05.631Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886980/1",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886980/1",
+  "titleFingerprint": "85b7a5c2054d89869a640a7d00da63cd31d0778b",
+  "dedupKeys": [
+    "6494bec897d70d2cc981e254dec022484486fa8a",
+    "85b7a5c2054d89869a640a7d00da63cd31d0778b",
+    "996c4d4ed03494a671c68e34bafe8d66d9f6f4ed"
+  ],
+  "imageUrl": "/images/articles/6494bec897d7.jpg",
+  "i18n": {
+    "ko": {
+      "title": "토스증권, 한국콜마 1분기 실적 ‘반토막’ 표기 오류로 투자자 혼선",
+      "excerpt": "토스증권이 8일 MTS에 한국콜마 1분기 실적을 연결 기준이 아닌 별도 기준으로 낮게 표기해 장중 투자자 매도 혼선 논란이 불거졌다.",
+      "body": "토스증권이 8일 자사 모바일트레이딩시스템(MTS)에 한국콜마 1분기 실적을 실제 연결 기준보다 낮은 별도 기준으로 표기해 투자자 혼선이 발생했다. 금융투자업계에 따르면 한국콜마는 1분기 연결 기준 매출액 7280억 원으로 분기 최대 매출을 기록했지만, 토스증권 MTS에는 약 절반 수준인 3430억 원으로 표시됐다. 토스증권은 오류를 인지한 뒤 오전 중 해당 정보를 수정했다. 다만 실적이 장중 발표된 만큼 잘못된 수치를 본 일부 투자자가 매도에 나섰다면 피해를 봤을 수 있다는 지적이 나온다. 토스증권은 연결 기준이 아닌 개별 기준 데이터가 일시 표기돼 고객 혼선이 있었다며 유감을 표하고 공시 데이터 검증 절차를 강화하겠다고 밝혔다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Toss Securities Error Shows Kolmar Korea Q1 Sales Nearly Halved, Confusing Investors",
+      "excerpt": "Toss Securities displayed Kolmar Korea’s first-quarter results on May 8 using separate rather than consolidated figures, causing intraday investor confusion.",
+      "body": "Toss Securities caused investor confusion on May 8 after its mobile trading system displayed Kolmar Korea’s first-quarter earnings using separate financial figures instead of consolidated results. According to the financial investment industry, Kolmar Korea posted consolidated first-quarter revenue of 728 billion won, its highest quarterly sales, but Toss Securities’ MTS showed 343 billion won, roughly half the actual consolidated figure. Toss Securities corrected the data later that morning after recognizing the error. Because the earnings were released during trading hours, concerns were raised that investors who sold after seeing the incorrect figure may have suffered losses. Toss Securities said the data was temporarily shown on an individual basis rather than a consolidated basis, apologized for the confusion, and said it would strengthen disclosure data verification procedures. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "トス証券、韓国コルマー1Q実績を半減表示する誤表記で投資家混乱",
+      "excerpt": "トス証券は8日、MTSで韓国コルマーの1四半期実績を連結ではなく個別基準で低く表示し、取引時間中の投資家混乱を招いた。",
+      "body": "トス証券は8日、自社モバイル取引システム（MTS）で韓国コルマーの第1四半期業績を、実際の連結基準ではなく個別基準で低く表示し、投資家に混乱を与えた。金融投資業界によると、韓国コルマーは第1四半期の連結売上高が7280億ウォンとなり四半期ベースで過去最高を記録したが、トス証券MTSには約半分の3430億ウォンと表示された。トス証券は誤りを認識し、午前中に修正した。ただし業績発表が取引時間中だったため、誤った数値を見て売却した投資家が損害を受けた可能性があるとの指摘が出ている。同社は連結ではなく個別基準のデータが一時表示され顧客混乱が生じたとして遺憾を示し、公示データ検証手続きを強化するとした。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "Toss证券误将韩国科玛一季度业绩显示近乎腰斩，引发投资者混乱",
+      "excerpt": "Toss证券8日在MTS上将韩国科玛一季度业绩误按个别口径而非合并口径显示，数值偏低，引发盘中投资者混乱。",
+      "body": "Toss证券8日在其移动交易系统（MTS）上，将韩国科玛第一季度业绩误以个别财务口径而非合并口径显示，导致投资者混乱。据金融投资业界消息，韩国科玛第一季度合并口径销售额为7280亿韩元，创下季度最高销售额，但Toss证券MTS上显示为约一半的3430亿韩元。Toss证券发现错误后，于当天上午进行了修正。不过，由于业绩是在交易时段内发布，有观点指出，若投资者看到错误业绩后选择卖出，可能已受到损失。Toss证券表示，韩国科玛今年第一季度业绩数据曾短暂以个别口径而非合并口径显示，造成客户混淆，对此表示遗憾，并称将加强公告数据验证程序。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Toss Securities mostró casi a la mitad los resultados de Kolmar Korea y causó confusión",
+      "excerpt": "Toss Securities publicó el 8 de mayo en su MTS los resultados trimestrales de Kolmar Korea con cifras individuales y no consolidadas, generando confusión.",
+      "body": "Toss Securities generó confusión entre inversionistas el 8 de mayo al mostrar en su sistema móvil de negociación (MTS) los resultados del primer trimestre de Kolmar Korea con cifras individuales en lugar de consolidadas. Según la industria de inversión financiera, Kolmar Korea registró ingresos consolidados de 728.000 millones de wones en el primer trimestre, su mayor venta trimestral, pero el MTS de Toss Securities mostró 343.000 millones de wones, casi la mitad. La compañía corrigió la información durante la mañana tras detectar el error. Sin embargo, como los resultados se publicaron durante la sesión bursátil, se señala que los inversionistas que vendieron al ver la cifra incorrecta podrían haber sufrido perjuicios. Toss Securities lamentó la confusión causada por la visualización temporal de datos individuales y dijo que reforzará la verificación de datos de divulgación. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Toss Securities erra resultado da Kolmar Korea e mostra vendas quase pela metade",
+      "excerpt": "A Toss Securities exibiu em 8 de maio no MTS os resultados do 1º trimestre da Kolmar Korea por base individual, não consolidada, causando confusão.",
+      "body": "A Toss Securities causou confusão entre investidores em 8 de maio ao exibir em seu sistema móvel de negociação (MTS) os resultados do primeiro trimestre da Kolmar Korea com dados individuais, e não consolidados. Segundo o setor de investimentos financeiros, a Kolmar Korea registrou receita consolidada de 728 bilhões de wons no primeiro trimestre, o maior valor trimestral da empresa, mas o MTS da Toss Securities mostrou 343 bilhões de wons, cerca de metade do número consolidado. A corretora identificou o erro e corrigiu a informação ainda pela manhã. Como os resultados foram divulgados durante o pregão, há críticas de que investidores que venderam após ver o dado incorreto podem ter sofrido prejuízo. A Toss Securities lamentou a confusão e afirmou que reforçará os procedimentos de verificação de dados de divulgação. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Toss Securities zeigt Kolmar-Korea-Umsatz fast halbiert und sorgt für Anlegerverwirrung",
+      "excerpt": "Toss Securities wies am 8. Mai im MTS die Q1-Zahlen von Kolmar Korea fälschlich einzeln statt konsolidiert aus und löste im Handel Verwirrung aus.",
+      "body": "Toss Securities hat am 8. Mai in seinem mobilen Handelssystem (MTS) die Ergebnisse von Kolmar Korea für das erste Quartal fälschlich auf Einzelbasis statt auf konsolidierter Basis angezeigt und damit Anleger verwirrt. Nach Angaben der Finanzinvestmentbranche erzielte Kolmar Korea im ersten Quartal einen konsolidierten Umsatz von 728 Milliarden Won, den höchsten Quartalsumsatz des Unternehmens. Im MTS von Toss Securities wurden jedoch 343 Milliarden Won angezeigt, also etwa die Hälfte. Das Unternehmen erkannte den Fehler und korrigierte die Angabe noch am Vormittag. Da die Ergebnisse während der Handelszeit veröffentlicht wurden, wird darauf hingewiesen, dass Anleger, die nach der falschen Zahl verkauften, geschädigt worden sein könnten. Toss Securities bedauerte die Verwirrung und kündigte an, die Prüfverfahren für Offenlegungsdaten zu stärken. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Toss Securities affiche par erreur les résultats de Kolmar Korea presque divisés par deux",
+      "excerpt": "Toss Securities a indiqué le 8 mai sur son MTS les résultats du 1er trimestre de Kolmar Korea en base individuelle, non consolidée, semant la confusion.",
+      "body": "Toss Securities a semé la confusion parmi les investisseurs le 8 mai en affichant sur son système mobile de trading (MTS) les résultats du premier trimestre de Kolmar Korea sur une base individuelle plutôt que consolidée. Selon le secteur de l’investissement financier, Kolmar Korea a enregistré un chiffre d’affaires consolidé de 728 milliards de wons au premier trimestre, un record trimestriel, mais le MTS de Toss Securities indiquait 343 milliards de wons, soit environ la moitié. La société a reconnu l’erreur et corrigé l’information dans la matinée. Comme les résultats ont été publiés pendant la séance, certains estiment que les investisseurs ayant vendu après avoir vu le chiffre erroné ont pu subir un préjudice. Toss Securities a regretté la confusion et déclaré qu’elle renforcerait ses procédures de vérification des données publiées. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "توس سيكيوريتيز تعرض نتائج كولمار كوريا للربع الأول بنحو النصف وتربك المستثمرين",
+      "excerpt": "عرضت توس سيكيوريتيز في 8 مايو على نظامها للتداول عبر الهاتف نتائج كولمار كوريا للربع الأول وفق أساس منفرد لا موحد، ما أثار ارتباكا أثناء الجلسة.",
+      "body": "تسببت توس سيكيوريتيز في ارتباك بين المستثمرين في 8 مايو بعدما عرض نظامها للتداول عبر الهاتف المحمول نتائج كولمار كوريا للربع الأول وفق بيانات منفردة بدلا من البيانات الموحدة. وبحسب قطاع الاستثمار المالي، سجلت كولمار كوريا إيرادات موحدة قدرها 728 مليار وون في الربع الأول، وهو أعلى مستوى فصلي لها، لكن نظام توس سيكيوريتيز أظهر 343 مليار وون، أي نحو نصف الرقم الموحد. وأدركت الشركة الخطأ وصححت البيانات خلال الصباح. غير أن إعلان النتائج جرى أثناء ساعات التداول، ما أثار ملاحظات بأن مستثمرين باعوا بعد رؤية الرقم الخاطئ ربما تكبدوا ضررا. وقالت توس سيكيوريتيز إن بيانات الربع الأول ظهرت مؤقتا على أساس منفرد لا موحد، معربة عن أسفها للتشويش ومؤكدة أنها ستعزز إجراءات التحقق من بيانات الإفصاح. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "Toss Securities ने Kolmar Korea के Q1 नतीजे आधे दिखाए, निवेशकों में भ्रम",
+      "excerpt": "Toss Securities ने 8 मई को अपने MTS पर Kolmar Korea के पहली तिमाही नतीजे समेकित के बजाय अलग आधार पर कम दिखाए, जिससे कारोबार के दौरान भ्रम हुआ।",
+      "body": "Toss Securities ने 8 मई को अपने मोबाइल ट्रेडिंग सिस्टम (MTS) पर Kolmar Korea के पहली तिमाही के नतीजे समेकित आधार के बजाय अलग आधार पर दिखाए, जिससे निवेशकों में भ्रम पैदा हुआ। वित्तीय निवेश उद्योग के अनुसार, Kolmar Korea ने पहली तिमाही में समेकित आधार पर 728 अरब वॉन का राजस्व दर्ज किया, जो उसका तिमाही रिकॉर्ड था, लेकिन Toss Securities के MTS पर यह आंकड़ा करीब आधा, 343 अरब वॉन दिखा। कंपनी ने गलती पहचानने के बाद सुबह में इसे सुधार दिया। हालांकि नतीजे कारोबार के दौरान जारी हुए थे, इसलिए यह सवाल उठा कि गलत आंकड़ा देखकर बेचने वाले निवेशकों को नुकसान हुआ हो सकता है। Toss Securities ने कहा कि डेटा अस्थायी रूप से समेकित के बजाय व्यक्तिगत आधार पर दिखा, ग्राहक भ्रम के लिए खेद जताया और प्रकटीकरण डेटा सत्यापन प्रक्रिया मजबूत करने की बात कही। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Toss Securities Salah Tampilkan Kinerja Kolmar Korea Hampir Separuh, Investor Bingung",
+      "excerpt": "Toss Securities pada 8 Mei menampilkan kinerja kuartal I Kolmar Korea di MTS dengan basis individual, bukan konsolidasi, sehingga memicu kebingungan.",
+      "body": "Toss Securities memicu kebingungan investor pada 8 Mei setelah sistem perdagangan mobile (MTS) miliknya menampilkan kinerja kuartal pertama Kolmar Korea berdasarkan angka individual, bukan konsolidasi. Menurut industri investasi keuangan, Kolmar Korea mencatat pendapatan konsolidasi kuartal pertama sebesar 728 miliar won, rekor penjualan kuartalan tertinggi, tetapi MTS Toss Securities menampilkan 343 miliar won, sekitar setengahnya. Toss Securities memperbaiki data tersebut pada pagi hari setelah mengetahui kesalahan. Namun, karena kinerja diumumkan saat perdagangan berlangsung, muncul kritik bahwa investor yang menjual setelah melihat angka keliru itu bisa mengalami kerugian. Toss Securities menyatakan data sempat tampil dalam basis individual, meminta maaf atas kebingungan pelanggan, dan akan memperkuat prosedur verifikasi data keterbukaan. Sumber: rss.donga.com"
+    }
+  }
+}
