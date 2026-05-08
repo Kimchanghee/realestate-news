@@ -1,5 +1,230 @@
 [
   {
+    "id": "2c84053585cd",
+    "slug": "중앙일보-ma-매각설-유포자-고소-중앙그룹-차입금-부담에-중앙일보-jtbc-사옥-매각-추진-640497",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:05:59.298Z",
+    "updatedAt": "2026-05-08T15:05:59.298Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133884293/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133884293/1",
+    "titleFingerprint": "1e3003f4cecbc7965bf57c6488241a1ec9c6aec6",
+    "dedupKeys": [
+      "2c84053585cdb859edc42498cc86fccbd0810487",
+      "1e3003f4cecbc7965bf57c6488241a1ec9c6aec6",
+      "ba65e4b740a80eb3e86c428f0e17d8e9714cc2e7"
+    ],
+    "imageUrl": "/images/articles/2c84053585cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중앙일보 M&A 매각설 유포자 고소, 중앙그룹 사옥 매각 추진 배경 주목",
+        "excerpt": "중앙일보는 8일 M&A 매각설을 허위로 작성·유포한 성명불상자를 고소했다. 중앙그룹은 차입금 부담 속 중앙일보·JTBC 사옥 등 핵심 자산 매각을 추진한다.",
+        "body": "중앙일보가 8일 자사의 인수합병(M&A) 매각설을 허위로 작성해 유포한 성명불상자를 명예훼손 및 업무방해 혐의로 서울 마포경찰서에 고소했다. 중앙일보에 따르면 6일 오후 ‘중앙일보가 M&A 시장에 매물로 나왔다’는 취지의 메시지가 카카오톡 오픈채팅방 등을 통해 퍼졌다. 해당 방에는 불특정 인원 1600여명이 참여했고, 이후 다른 채팅방으로 2·3차 유포가 이어졌다고 회사는 설명했다. 중앙일보는 회사와 무관한 명백한 허위 사실이라고 밝혔다. 한편 중앙그룹은 재무구조 악화와 신용등급 하향 속에서 중앙일보·JTBC 사옥 등 핵심 자산 매각을 추진하기로 했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "JoongAng Ilbo Files Complaint Over M&A Rumor as Group Pursues Asset Sale",
+        "excerpt": "JoongAng Ilbo filed a complaint on May 8 against an unidentified person accused of spreading a false M&A sale rumor, while JoongAng Group moves to sell key real estate assets.",
+        "body": "JoongAng Ilbo said on May 8 it filed a complaint with Seoul Mapo Police Station against an unidentified person on defamation and business obstruction charges for allegedly writing and spreading a false rumor that the company was up for an M&A sale. According to the company, a message claiming JoongAng Ilbo had entered the M&A market circulated through KakaoTalk open chat rooms on the afternoon of May 6. About 1,600 unspecified participants were in the room, and the message later spread to other chat rooms. JoongAng Ilbo called it a clearly false claim unrelated to the company. Separately, JoongAng Group plans to sell key assets, including the JoongAng Ilbo and JTBC headquarters, amid financial strain and a credit rating downgrade. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "中央日報がM&A売却説の流布者を告訴、中央グループは社屋売却へ",
+        "excerpt": "中央日報は8日、M&A売却説を虚偽に作成・流布した氏名不詳者を告訴した。中央グループは借入金負担の中、中央日報・JTBC社屋など中核資産の売却を進める。",
+        "body": "中央日報は8日、自社の買収・合併（M&A）売却説を虚偽に作成して流布した氏名不詳者を、名誉毀損および業務妨害の疑いでソウル麻浦警察署に告訴した。中央日報によると、6日午後「中央日報がM&A市場で売り物に出た」という趣旨のメッセージがカカオトークのオープンチャットルームなどを通じて広がった。同チャットには不特定の約1600人が参加しており、その後ほかのチャットルームにも二次、三次拡散したという。中央日報は会社と一切関係のない明白な虚偽事実だと説明した。一方、中央グループは財務構造の悪化と信用格付けの引き下げを受け、中央日報・JTBC社屋など中核資産の売却を進める方針だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "中央日报起诉M&A出售传言散布者，中央集团推进总部楼出售",
+        "excerpt": "中央日报8日起诉涉嫌编造并散布M&A出售传言的身份不明者。与此同时，中央集团在借款压力下推进出售中央日报、JTBC总部楼等核心资产。",
+        "body": "中央日报8日表示，已向首尔麻浦警察署起诉一名身份不明者，指其编造并散布有关公司被列入并购（M&A）出售市场的虚假传言，涉嫌名誉毁损和妨碍业务。据中央日报称，6日下午，一则称“中央日报已作为出售标的进入M&A市场”的消息通过KakaoTalk开放聊天室等渠道流传。该聊天室约有1600名不特定人员参与，随后相关内容又向多个聊天室二次、三次扩散。中央日报方面表示，这是与公司完全无关的明确虚假事实。另一方面，中央集团因财务结构恶化、信用评级下调，决定推进出售中央日报、JTBC总部楼等核心资产。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "JoongAng Ilbo denuncia rumor de venta M&A y el grupo impulsa venta de sedes",
+        "excerpt": "JoongAng Ilbo presentó el 8 de mayo una denuncia contra una persona no identificada por difundir un falso rumor de venta M&A, mientras JoongAng Group busca vender activos clave.",
+        "body": "JoongAng Ilbo informó el 8 de mayo que presentó una denuncia ante la comisaría de Mapo, en Seúl, contra una persona no identificada por difamación y obstrucción de negocios, tras la presunta redacción y difusión de un falso rumor sobre una venta por fusiones y adquisiciones (M&A). Según la empresa, la tarde del 6 de mayo circuló en salas abiertas de KakaoTalk un mensaje que afirmaba que JoongAng Ilbo había salido al mercado de M&A. En esa sala participaban unas 1.600 personas no identificadas, y luego el contenido se difundió a otros chats. La compañía lo calificó de hecho claramente falso y ajeno a ella. Por separado, JoongAng Group decidió impulsar la venta de activos clave, incluidas las sedes de JoongAng Ilbo y JTBC, tras el deterioro financiero y la rebaja de su calificación crediticia. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "JoongAng Ilbo processa autor de rumor de M&A enquanto grupo vende sedes",
+        "excerpt": "O JoongAng Ilbo apresentou em 8 de maio queixa contra pessoa não identificada por divulgar falso rumor de venda via M&A, enquanto o JoongAng Group busca vender ativos centrais.",
+        "body": "O JoongAng Ilbo informou em 8 de maio que apresentou queixa à Delegacia de Mapo, em Seul, contra uma pessoa não identificada por difamação e obstrução de negócios, acusada de criar e divulgar um falso rumor de venda por fusões e aquisições (M&A). Segundo a empresa, na tarde de 6 de maio circulou em salas abertas do KakaoTalk uma mensagem dizendo que o JoongAng Ilbo havia sido colocado no mercado de M&A. A sala tinha cerca de 1.600 participantes não identificados, e o conteúdo depois se espalhou para outros chats. A empresa afirmou que se trata de fato claramente falso e sem relação com ela. Separadamente, o JoongAng Group decidiu avançar com a venda de ativos essenciais, incluindo os edifícios do JoongAng Ilbo e da JTBC, em meio à piora financeira e ao rebaixamento de crédito. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "JoongAng Ilbo klagt wegen M&A-Verkaufsgerücht, Gruppe plant Immobilienverkauf",
+        "excerpt": "JoongAng Ilbo erstattete am 8. Mai Anzeige gegen eine unbekannte Person wegen eines falschen M&A-Verkaufsgerüchts. JoongAng Group plant den Verkauf zentraler Immobilienwerte.",
+        "body": "JoongAng Ilbo teilte am 8. Mai mit, bei der Polizeistation Mapo in Seoul Anzeige gegen eine unbekannte Person wegen Verleumdung und Geschäftsbehinderung erstattet zu haben. Der Vorwurf lautet, ein falsches Gerücht über einen Verkauf des Unternehmens im Rahmen von Fusionen und Übernahmen (M&A) erstellt und verbreitet zu haben. Nach Angaben von JoongAng Ilbo kursierte am Nachmittag des 6. Mai in offenen KakaoTalk-Chaträumen eine Nachricht, wonach JoongAng Ilbo auf dem M&A-Markt zum Verkauf stehe. In dem Chat waren rund 1.600 nicht näher bestimmte Personen, später verbreitete sich die Meldung in weiteren Räumen. Das Unternehmen bezeichnete sie als eindeutig falsche Tatsache ohne Bezug zur Firma. Gleichzeitig will JoongAng Group angesichts verschlechterter Finanzstruktur und herabgestufter Bonität zentrale Vermögenswerte verkaufen, darunter die Gebäude von JoongAng Ilbo und JTBC. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "JoongAng Ilbo porte plainte sur une rumeur de vente M&A, le groupe vend des actifs",
+        "excerpt": "JoongAng Ilbo a porté plainte le 8 mai contre une personne non identifiée pour une fausse rumeur de vente M&A, tandis que JoongAng Group prépare la vente d’actifs immobiliers clés.",
+        "body": "JoongAng Ilbo a annoncé le 8 mai avoir déposé plainte auprès du commissariat de Mapo, à Séoul, contre une personne non identifiée pour diffamation et entrave aux activités, l’accusant d’avoir rédigé et diffusé une fausse rumeur de vente dans le cadre d’une fusion-acquisition (M&A). Selon l’entreprise, un message affirmant que JoongAng Ilbo avait été mis sur le marché des M&A a circulé l’après-midi du 6 mai dans des salons ouverts de KakaoTalk. Environ 1 600 personnes non identifiées participaient au salon, puis le contenu s’est propagé à d’autres discussions. JoongAng Ilbo a déclaré qu’il s’agissait d’un fait manifestement faux, sans lien avec la société. Par ailleurs, JoongAng Group a décidé de poursuivre la vente d’actifs clés, dont les immeubles de JoongAng Ilbo et JTBC, sur fond de détérioration financière et d’abaissement de sa note de crédit. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "جونغAng إلبو تقاضي مروج شائعة بيع M&A والمجموعة تتجه لبيع مقار رئيسية",
+        "excerpt": "قدمت جونغAng إلبو في 8 مايو شكوى ضد شخص مجهول بتهمة نشر شائعة كاذبة عن بيعها عبر صفقات M&A، بينما تمضي جونغAng Group في بيع أصول رئيسية.",
+        "body": "أعلنت جونغAng إلبو في 8 مايو أنها قدمت شكوى إلى مركز شرطة مابو في سيول ضد شخص مجهول بتهمتي التشهير وعرقلة الأعمال، بسبب اتهامه بصياغة ونشر شائعة كاذبة تفيد بأن الشركة معروضة للبيع في سوق الاندماج والاستحواذ (M&A). ووفق الشركة، انتشرت بعد ظهر 6 مايو رسالة بهذا المعنى عبر غرف دردشة مفتوحة على كاكاوتوك. وشارك في تلك الغرفة نحو 1600 شخص غير محددين، ثم انتقل المحتوى إلى غرف دردشة أخرى في موجات لاحقة. وقالت جونغAng إلبو إن الأمر حقيقة زائفة بوضوح ولا علاقة لها بالشركة. وفي سياق منفصل، قررت جونغAng Group المضي في بيع أصول أساسية، منها مقرا جونغAng إلبو وJTBC، وسط تدهور الهيكل المالي وخفض التصنيف الائتماني. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "JoongAng Ilbo ने M&A बिक्री अफवाह पर शिकायत की, समूह मुख्य संपत्ति बेचेगा",
+        "excerpt": "JoongAng Ilbo ने 8 मई को M&A बिक्री की झूठी अफवाह फैलाने वाले अज्ञात व्यक्ति के खिलाफ शिकायत दर्ज कराई। JoongAng Group मुख्यालय भवनों समेत प्रमुख संपत्तियां बेचने की तैयारी में है।",
+        "body": "JoongAng Ilbo ने 8 मई को कहा कि उसने अपनी M&A बिक्री से जुड़ी झूठी अफवाह लिखने और फैलाने के आरोप में एक अज्ञात व्यक्ति के खिलाफ सियोल के मापो पुलिस स्टेशन में मानहानि और कारोबार में बाधा की शिकायत दर्ज कराई है। कंपनी के अनुसार, 6 मई की दोपहर KakaoTalk के ओपन चैट रूम आदि में एक संदेश फैला जिसमें कहा गया कि JoongAng Ilbo M&A बाजार में बिक्री के लिए आया है। उस चैट रूम में करीब 1,600 अनिश्चित प्रतिभागी थे और बाद में वही सामग्री कई अन्य चैट रूम में आगे फैली। JoongAng Ilbo ने इसे कंपनी से असंबंधित स्पष्ट रूप से झूठा तथ्य बताया। दूसरी ओर, वित्तीय ढांचे की कमजोरी और क्रेडिट रेटिंग घटने के बीच JoongAng Group ने JoongAng Ilbo और JTBC मुख्यालय भवनों सहित प्रमुख संपत्तियों की बिक्री आगे बढ़ाने का फैसला किया है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "JoongAng Ilbo Laporkan Penyebar Rumor M&A, Grup Jual Aset Gedung Utama",
+        "excerpt": "JoongAng Ilbo pada 8 Mei melaporkan orang tak dikenal atas dugaan menyebarkan rumor palsu penjualan M&A, sementara JoongAng Group mendorong penjualan aset utama termasuk gedung kantor.",
+        "body": "JoongAng Ilbo pada 8 Mei menyatakan telah mengajukan laporan ke Kantor Polisi Mapo Seoul terhadap orang tak dikenal atas dugaan pencemaran nama baik dan gangguan usaha, karena menulis dan menyebarkan rumor palsu bahwa perusahaan masuk pasar merger dan akuisisi (M&A) untuk dijual. Menurut JoongAng Ilbo, pada sore 6 Mei beredar pesan di ruang obrolan terbuka KakaoTalk yang menyebut JoongAng Ilbo telah menjadi objek penjualan di pasar M&A. Ruang itu diikuti sekitar 1.600 orang tidak tertentu, lalu isi pesan menyebar lagi ke sejumlah ruang obrolan lain. Perusahaan menyebut informasi tersebut jelas palsu dan tidak terkait dengan perusahaan. Di sisi lain, JoongAng Group memutuskan mendorong penjualan aset inti, termasuk gedung JoongAng Ilbo dan JTBC, di tengah memburuknya struktur keuangan dan penurunan peringkat kredit. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "00e64729fc04",
+    "slug": "lg화학-난임-치료제-유티프로-출시-황체기-보조요법-선택지-넓혔다-266904",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:04:41.853Z",
+    "updatedAt": "2026-05-08T15:04:41.853Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887533/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887533/1",
+    "titleFingerprint": "76883a5583a3c15e95244ac123b2ee74e276df33",
+    "dedupKeys": [
+      "00e64729fc0470dc2e45398273d0ae4b2166e0b9",
+      "76883a5583a3c15e95244ac123b2ee74e276df33",
+      "62e047f8fc14f714bd6d0612f2d0dc9915de0812"
+    ],
+    "imageUrl": "/images/articles/00e64729fc04.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG화학 ‘유티프로’ 출시, 난임 황체기 보조요법 선택지 확대",
+        "excerpt": "LG화학은 8일 황체기 보조요법용 난임 치료제 ‘유티프로주 25mg’을 출시하며 IVF 중심으로 성장하는 국내 난임 시술 시장에서 여성 건강 사업을 강화했다.",
+        "body": "LG화학은 8일 황체기 보조요법용 난임 치료제 ‘유티프로주 25mg(유티프로)’을 출시했다고 밝혔다. 국내 난임 시술 시장이 빠르게 커지는 가운데, 기존 배란유도 중심 치료에서 착상과 임신 유지 단계까지 영역을 넓히려는 행보로 풀이된다. 건강보험심사평가원에 따르면 국내 난임 시술 건수는 2022년 20만건을 넘어섰고, 체외수정(IVF) 비중은 전체의 80% 이상을 차지한다. 결혼·출산 연령 상승으로 난임 시술 환자 평균 연령도 높아지고 있으며, 40대 이상 환자 증가세도 두드러진다. 의료계는 고령 환자일수록 황체 기능 저하 가능성이 높아 프로게스테론 보조요법 중요성이 커진다고 설명한다. 황체기 보조요법은 시험관 시술의 마지막 단계로 꼽힌다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "LG Chem Launches Utipro, Expanding Luteal Support Options in Infertility Care",
+        "excerpt": "LG Chem said on the 8th it launched Utipro Injection 25 mg for luteal phase support, strengthening its women’s health business as South Korea’s IVF-led infertility market grows.",
+        "body": "LG Chem said on the 8th that it launched Utipro Injection 25 mg, an infertility treatment for luteal phase support. The move comes as South Korea’s infertility treatment market expands rapidly and is seen as an effort to broaden care beyond ovulation induction to the stages of implantation and pregnancy maintenance. According to the Health Insurance Review & Assessment Service, infertility procedures in South Korea exceeded 200,000 in 2022, with in vitro fertilization accounting for more than 80% of the total. Rising ages for marriage and childbirth are also cited as a growth factor. The average age of infertility patients continues to rise, and the increase among patients aged 40 and older is notable. Medical experts say progesterone support is becoming more important because older patients are more likely to have reduced luteal function. Luteal phase support is regarded as the final stage of IVF treatment. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "LG化学が「ユティプロ」発売、不妊治療の黄体期補助療法の選択肢拡大",
+        "excerpt": "LG化学は8日、黄体期補助療法用の不妊治療薬「ユティプロ注25mg」を発売し、IVF中心に拡大する韓国の不妊治療市場で女性健康事業を強化した。",
+        "body": "LG化学は8日、黄体期補助療法用の不妊治療薬「ユティプロ注25mg（ユティプロ）」を発売したと発表した。韓国の不妊治療市場が急速に成長する中、従来の排卵誘発中心の治療から、着床や妊娠維持の段階まで領域を広げる動きとみられる。健康保険審査評価院によると、韓国の不妊治療件数は2022年に20万件を超えた。特に体外受精（IVF）の比率は全体の80％以上を占め、試験管治療中心の市場が拡大している。結婚・出産年齢の上昇も市場成長の背景とされる。不妊治療患者の平均年齢は上昇を続けており、40代以上の高齢患者の増加も目立つ。医療界では、高齢患者ほど黄体機能低下の可能性が高く、プロゲステロン補助療法の重要性が増していると説明している。黄体期補助療法はIVFの最終段階とされる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "LG化学推出“Utipro”，扩大不孕治疗黄体期辅助疗法选择",
+        "excerpt": "LG化学8日表示，已推出用于黄体期辅助疗法的不孕治疗药物“Utipro注射液25mg”，在韩国IVF主导的不孕治疗市场中强化女性健康业务。",
+        "body": "LG化学8日表示，已推出用于黄体期辅助疗法的不孕治疗药物“Utipro注射液25mg（Utipro）”。在韩国不孕治疗市场快速增长的背景下，此举被视为公司从以促排卵为中心的治疗，扩大到着床和维持妊娠阶段的布局。韩国健康保险审查评价院数据显示，韩国不孕治疗次数在2022年已超过20万次。其中，体外受精（IVF）占比超过整体的80%，以试管婴儿为中心的市场正在扩大。结婚和生育年龄上升也被认为是市场增长的背景。不孕治疗患者平均年龄持续提高，40岁以上高龄患者的增加也十分明显。医疗界说明，高龄患者黄体功能下降的可能性更高，因此孕酮辅助疗法的重要性进一步上升。黄体期辅助疗法被称为试管婴儿治疗的最后阶段。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "LG Chem lanza Utipro y amplía opciones de apoyo lúteo en infertilidad",
+        "excerpt": "LG Chem anunció el día 8 el lanzamiento de Utipro Inyección 25 mg para apoyo de la fase lútea, reforzando salud femenina ante el crecimiento del mercado surcoreano de infertilidad centrado en FIV.",
+        "body": "LG Chem anunció el día 8 que lanzó Utipro Inyección 25 mg, un tratamiento de infertilidad para apoyo de la fase lútea. La decisión llega mientras el mercado surcoreano de procedimientos de infertilidad crece con rapidez y se interpreta como una ampliación desde los tratamientos centrados en inducción de la ovulación hacia las etapas de implantación y mantenimiento del embarazo. Según el Servicio de Revisión y Evaluación del Seguro de Salud, los procedimientos de infertilidad en Corea del Sur superaron los 200.000 en 2022, y la fecundación in vitro (FIV) representa más del 80% del total. El aumento de la edad al casarse y tener hijos también se menciona como contexto de crecimiento. La edad media de las pacientes sigue subiendo y destaca el incremento entre mayores de 40 años. El sector médico explica que, cuanto mayor es la paciente, más alta puede ser la posibilidad de menor función lútea, por lo que crece la importancia del apoyo con progesterona. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "LG Chem lança Utipro e amplia opções de suporte lúteo na infertilidade",
+        "excerpt": "A LG Chem informou no dia 8 o lançamento do Utipro Injeção 25 mg para suporte da fase lútea, reforçando saúde feminina no mercado sul-coreano de infertilidade liderado pela FIV.",
+        "body": "A LG Chem informou no dia 8 que lançou o Utipro Injeção 25 mg, tratamento de infertilidade para suporte da fase lútea. A iniciativa ocorre em meio ao rápido crescimento do mercado sul-coreano de procedimentos de infertilidade e é vista como uma ampliação do foco além da indução da ovulação para as etapas de implantação e manutenção da gravidez. Segundo o Serviço de Revisão e Avaliação do Seguro de Saúde, os procedimentos de infertilidade na Coreia do Sul passaram de 200 mil em 2022, e a fertilização in vitro (FIV) responde por mais de 80% do total. O aumento da idade para casamento e parto também é citado como fator de crescimento. A idade média das pacientes em tratamento continua subindo, com destaque para o avanço entre mulheres de 40 anos ou mais. A área médica explica que pacientes mais velhas têm maior possibilidade de redução da função lútea, elevando a importância do suporte com progesterona. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "LG Chem bringt Utipro auf den Markt und erweitert Optionen für Lutealphasen-Support",
+        "excerpt": "LG Chem gab am 8. die Einführung von Utipro Injektion 25 mg zur Lutealphasenunterstützung bekannt und stärkt damit das Frauengesundheitsgeschäft im wachsenden südkoreanischen IVF-Markt.",
+        "body": "LG Chem teilte am 8. mit, Utipro Injektion 25 mg als Infertilitätsbehandlung zur Unterstützung der Lutealphase eingeführt zu haben. Der Schritt erfolgt vor dem Hintergrund eines schnell wachsenden südkoreanischen Marktes für Kinderwunschbehandlungen und wird als Ausweitung vom bisherigen Schwerpunkt Ovulationsinduktion auf die Phasen Einnistung und Erhalt der Schwangerschaft gesehen. Nach Angaben des Health Insurance Review & Assessment Service überschritt die Zahl der Infertilitätsbehandlungen in Südkorea 2022 die Marke von 200.000. Die In-vitro-Fertilisation (IVF) macht dabei mehr als 80% des Gesamtvolumens aus. Auch das steigende Heirats- und Gebäralter gilt als Wachstumsfaktor. Das Durchschnittsalter der Patientinnen steigt weiter, und der Zuwachs bei Patientinnen ab 40 Jahren ist deutlich. Medizinische Kreise erklären, dass bei älteren Patientinnen die Wahrscheinlichkeit einer verminderten Gelbkörperfunktion höher ist und Progesteron-Unterstützung daher wichtiger wird. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "LG Chem lance Utipro et élargit les options de soutien lutéal en infertilité",
+        "excerpt": "LG Chem a annoncé le 8 le lancement d’Utipro Injection 25 mg pour le soutien de la phase lutéale, renforçant la santé des femmes dans le marché sud-coréen de l’infertilité porté par la FIV.",
+        "body": "LG Chem a annoncé le 8 avoir lancé Utipro Injection 25 mg, un traitement de l’infertilité destiné au soutien de la phase lutéale. Cette décision intervient alors que le marché sud-coréen des traitements de l’infertilité progresse rapidement et s’inscrit dans une extension du champ thérapeutique, au-delà de l’induction de l’ovulation, vers les étapes d’implantation et de maintien de la grossesse. Selon le Health Insurance Review & Assessment Service, le nombre de procédures d’infertilité en Corée du Sud a dépassé 200.000 en 2022, la fécondation in vitro (FIV) représentant plus de 80% du total. La hausse de l’âge au mariage et à l’accouchement est aussi citée comme facteur de croissance. L’âge moyen des patientes augmente, avec une progression marquée chez les 40 ans et plus. Le milieu médical explique que les patientes plus âgées présentent davantage de risques de baisse de la fonction lutéale, ce qui renforce l’importance du soutien par progestérone. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إل جي كيم تطلق Utipro وتوسع خيارات دعم الطور الأصفري لعلاج العقم",
+        "excerpt": "أعلنت إل جي كيم في 8 من الشهر إطلاق Utipro Injection 25 mg لدعم الطور الأصفري، معززة أعمال صحة المرأة في سوق علاج العقم الكوري الجنوبي المتنامي بقيادة أطفال الأنابيب.",
+        "body": "أعلنت إل جي كيم في 8 من الشهر أنها أطلقت Utipro Injection 25 mg، وهو علاج للعقم مخصص لدعم الطور الأصفري. وتأتي الخطوة بينما ينمو سوق إجراءات علاج العقم في كوريا الجنوبية بسرعة، وتُفهم على أنها توسيع لنطاق العلاج من التركيز التقليدي على تحفيز الإباضة إلى مرحلتي الانغراس والحفاظ على الحمل. وبحسب هيئة مراجعة وتقييم التأمين الصحي، تجاوز عدد إجراءات علاج العقم في كوريا الجنوبية 200 ألف إجراء في 2022، وتشكل تقنية الإخصاب خارج الجسم IVF أكثر من 80% من الإجمالي. كما يُعد ارتفاع سن الزواج والإنجاب من خلفيات نمو السوق. ويستمر متوسط عمر مريضات علاج العقم في الارتفاع، مع بروز زيادة بين المريضات في الأربعينيات وما فوق. ويوضح القطاع الطبي أن احتمال تراجع وظيفة الجسم الأصفر يكون أعلى لدى الأكبر سنا، ما يزيد أهمية العلاج الداعم بالبروجسترون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "LG Chem ने Utipro लॉन्च किया, बांझपन उपचार में luteal support विकल्प बढ़े",
+        "excerpt": "LG Chem ने 8 तारीख को luteal phase support के लिए Utipro Injection 25 mg लॉन्च किया, जिससे IVF-केंद्रित दक्षिण कोरियाई बांझपन उपचार बाजार में महिला स्वास्थ्य कारोबार मजबूत हुआ।",
+        "body": "LG Chem ने 8 तारीख को कहा कि उसने luteal phase support के लिए बांझपन उपचार दवा Utipro Injection 25 mg लॉन्च की है। दक्षिण कोरिया में बांझपन प्रक्रियाओं का बाजार तेजी से बढ़ रहा है, और इसे ovulation induction पर केंद्रित पारंपरिक उपचार से आगे बढ़कर implantation और pregnancy maintenance चरणों तक विस्तार के रूप में देखा जा रहा है। Health Insurance Review & Assessment Service के अनुसार, दक्षिण कोरिया में बांझपन उपचार प्रक्रियाएं 2022 में 200,000 से अधिक हो गईं। इनमें in vitro fertilization (IVF) की हिस्सेदारी कुल का 80% से अधिक है। विवाह और प्रसव की उम्र बढ़ना भी बाजार वृद्धि की पृष्ठभूमि माना जाता है। बांझपन उपचार कराने वाली मरीजों की औसत उम्र लगातार बढ़ रही है, और 40 वर्ष या उससे अधिक उम्र की मरीजों में वृद्धि भी स्पष्ट है। चिकित्सा क्षेत्र का कहना है कि अधिक उम्र की मरीजों में luteal function घटने की संभावना अधिक होती है, इसलिए progesterone support therapy का महत्व बढ़ता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "LG Chem Luncurkan Utipro, Perluas Pilihan Dukungan Fase Luteal Infertilitas",
+        "excerpt": "LG Chem pada tanggal 8 meluncurkan Utipro Injection 25 mg untuk dukungan fase luteal, memperkuat bisnis kesehatan perempuan di pasar infertilitas Korea Selatan yang tumbuh dengan dominasi IVF.",
+        "body": "LG Chem menyatakan pada tanggal 8 bahwa perusahaan meluncurkan Utipro Injection 25 mg, obat infertilitas untuk dukungan fase luteal. Langkah ini hadir saat pasar prosedur infertilitas Korea Selatan tumbuh cepat dan dipandang sebagai perluasan dari terapi yang berpusat pada induksi ovulasi ke tahap implantasi dan pemeliharaan kehamilan. Menurut Health Insurance Review & Assessment Service, jumlah prosedur infertilitas di Korea Selatan melampaui 200.000 pada 2022, sementara fertilisasi in vitro (IVF) menyumbang lebih dari 80% dari total. Kenaikan usia menikah dan melahirkan juga disebut sebagai latar pertumbuhan pasar. Rata-rata usia pasien infertilitas terus meningkat, dan kenaikan pada pasien berusia 40 tahun ke atas juga menonjol. Kalangan medis menjelaskan bahwa pasien lebih tua memiliki kemungkinan lebih tinggi mengalami penurunan fungsi luteal, sehingga dukungan progesteron menjadi semakin penting. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "b673cca78a20",
+    "slug": "ab인베브-칸-라이언즈-최초-올해의-크리에이티브-마케터-3회-선정-789650",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:03:28.928Z",
+    "updatedAt": "2026-05-08T15:03:28.928Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887749/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887749/1",
+    "titleFingerprint": "617597a1077bbaf96c766c390e42ca7f22f8e87d",
+    "dedupKeys": [
+      "b673cca78a208e34755ccb14d6da82d8bd68a29e",
+      "617597a1077bbaf96c766c390e42ca7f22f8e87d",
+      "6aaa05084462dbb23441ab0f954391e2048bfd0a"
+    ],
+    "imageUrl": "/images/articles/b673cca78a20.png",
+    "i18n": {
+      "ko": {
+        "title": "AB인베브, 칸 라이언즈 ‘올해의 크리에이티브 마케터’ 첫 3회 수상",
+        "excerpt": "오비맥주 글로벌 본사 AB인베브가 8일 칸 라이언즈 ‘올해의 크리에이티브 마케터 2026’에 선정되며 사상 최초 3회 수상 기업이 됐다.",
+        "body": "오비맥주의 글로벌 본사인 AB인베브가 8일 ‘칸 라이언즈 국제 광고제’가 수여하는 ‘올해의 크리에이티브 마케터 2026’에 선정됐다고 밝혔다. 칸 국제광고제로 널리 알려진 칸 라이언즈는 미국 클리오 광고제, 뉴욕 페스티벌과 함께 세계 3대 광고제로 꼽힌다. 이 상은 1992년부터 창의적인 마케팅 활동으로 브랜드 혁신과 비즈니스 성장을 이끈 글로벌 기업에 수여돼 왔다. 역대 수상 기업에는 애플, 코카콜라, 구글, 삼성전자, 마이크로소프트 등이 있다. AB인베브는 지난해 칸 라이언즈에서 총 37개 라이언 상을 받았고, 2022년과 2023년에 이어 올해 다시 선정됐다. 동일 기업이 이 상을 3회 받은 것은 칸 라이언즈 사상 처음이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "AB InBev Wins Cannes Lions Creative Marketer of the Year for Historic Third Time",
+        "excerpt": "AB InBev, the global parent of Oriental Brewery, said on May 8 it was named Cannes Lions Creative Marketer of the Year 2026, becoming the first company to win the honor three times.",
+        "body": "AB InBev, the global parent company of Oriental Brewery, said on May 8 that it had been named Creative Marketer of the Year 2026 by the Cannes Lions International Festival of Creativity. Cannes Lions, widely known as the Cannes International Advertising Festival, is considered one of the world’s three major advertising festivals alongside the Clio Awards in the United States and the New York Festivals. Since 1992, the award has recognized global companies that drive brand innovation and business growth through creative marketing. Past winners include Apple, Coca-Cola, Google, Samsung Electronics and Microsoft. AB InBev won 37 Lions at last year’s Cannes Lions and was selected again after receiving the honor in 2022 and 2023. It is the first company in Cannes Lions history to win the award three times. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ABインベブ、カンヌライオンズ「今年のクリエイティブマーケター」初の3回受賞",
+        "excerpt": "OBビールのグローバル本社ABインベブは8日、カンヌライオンズの「今年のクリエイティブマーケター2026」に選ばれ、史上初の3回受賞企業となった。",
+        "body": "OBビールのグローバル本社であるABインベブは8日、「カンヌライオンズ国際クリエイティビティ・フェスティバル」が授与する「今年のクリエイティブマーケター2026」に選定されたと明らかにした。カンヌ国際広告祭として広く知られるカンヌライオンズは、米国のクリオ広告祭、ニューヨーク・フェスティバルとともに世界3大広告祭に数えられる。同賞は1992年から、創造的なマーケティング活動でブランド革新と事業成長を導いたグローバル企業に授与されてきた。過去の受賞企業にはアップル、コカ・コーラ、グーグル、サムスン電子、マイクロソフトなどがある。ABインベブは昨年のカンヌライオンズで計37個のライオン賞を受賞し、2022年、2023年に続いて今年再び選ばれた。同一企業が同賞を3回受賞するのはカンヌライオンズ史上初めてだ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "百威英博三度获戛纳狮子“年度创意营销者”，创历史首次纪录",
+        "excerpt": "OB啤酒全球总部百威英博8日表示，已获评戛纳狮子“2026年度创意营销者”，成为该奖项历史上首家三度获奖企业。",
+        "body": "OB啤酒的全球总部百威英博8日表示，公司被“戛纳狮子国际创意节”评为“2026年度创意营销者”。戛纳狮子广泛被称为戛纳国际广告节，与美国克里奥广告奖、纽约广告节并列为世界三大广告节。自1992年起，该奖项授予通过创意营销活动推动品牌创新和业务增长的全球企业。历届获奖企业包括苹果、可口可乐、谷歌、三星电子和微软等。百威英博在去年戛纳狮子共获得37座“狮子”奖，并继2022年、2023年之后今年再次入选。戛纳狮子历史上，同一家企业三次获得该奖项尚属首次。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "AB InBev gana por tercera vez el premio Creative Marketer of the Year de Cannes Lions",
+        "excerpt": "AB InBev, matriz global de Oriental Brewery, informó el 8 de mayo que fue elegida Creative Marketer of the Year 2026 de Cannes Lions, la primera empresa en lograrlo tres veces.",
+        "body": "AB InBev, la matriz global de Oriental Brewery, informó el 8 de mayo que fue seleccionada como Creative Marketer of the Year 2026 por el Cannes Lions International Festival of Creativity. Cannes Lions, ampliamente conocido como el Festival Internacional de Publicidad de Cannes, es considerado uno de los tres grandes festivales publicitarios del mundo junto con los Clio Awards de Estados Unidos y el New York Festivals. Desde 1992, el premio se entrega a empresas globales que han impulsado la innovación de marca y el crecimiento empresarial mediante actividades de marketing creativo. Entre los ganadores anteriores figuran Apple, Coca-Cola, Google, Samsung Electronics y Microsoft. AB InBev obtuvo 37 premios Lions en Cannes Lions el año pasado y volvió a ser elegida tras recibir el reconocimiento en 2022 y 2023. Es la primera empresa en la historia de Cannes Lions que gana este premio tres veces. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "AB InBev vence pela terceira vez o Creative Marketer of the Year do Cannes Lions",
+        "excerpt": "A AB InBev, controladora global da Oriental Brewery, informou em 8 de maio que foi eleita Creative Marketer of the Year 2026 do Cannes Lions, primeira empresa a vencer três vezes.",
+        "body": "A AB InBev, controladora global da Oriental Brewery, informou em 8 de maio que foi escolhida como Creative Marketer of the Year 2026 pelo Cannes Lions International Festival of Creativity. O Cannes Lions, amplamente conhecido como Festival Internacional de Publicidade de Cannes, é considerado um dos três maiores festivais de publicidade do mundo, ao lado do Clio Awards, dos Estados Unidos, e do New York Festivals. Desde 1992, o prêmio reconhece empresas globais que impulsionam inovação de marca e crescimento dos negócios por meio de marketing criativo. Entre vencedores anteriores estão Apple, Coca-Cola, Google, Samsung Electronics e Microsoft. A AB InBev recebeu 37 prêmios Lions no Cannes Lions do ano passado e foi selecionada novamente após as vitórias de 2022 e 2023. É a primeira empresa na história do Cannes Lions a conquistar o prêmio três vezes. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "AB InBev gewinnt Cannes-Lions-Titel Creative Marketer of the Year zum dritten Mal",
+        "excerpt": "AB InBev, globale Mutter von Oriental Brewery, teilte am 8. Mai mit, zum Cannes Lions Creative Marketer of the Year 2026 gewählt worden zu sein, erstmals zum dritten Mal.",
+        "body": "AB InBev, die globale Muttergesellschaft von Oriental Brewery, teilte am 8. Mai mit, vom Cannes Lions International Festival of Creativity zum Creative Marketer of the Year 2026 ernannt worden zu sein. Cannes Lions, weithin als Internationales Werbefestival von Cannes bekannt, gilt neben den Clio Awards in den USA und den New York Festivals als eines der drei großen Werbefestivals der Welt. Seit 1992 zeichnet der Preis globale Unternehmen aus, die durch kreative Marketingaktivitäten Markeninnovation und Geschäftswachstum vorantreiben. Zu früheren Preisträgern zählen Apple, Coca-Cola, Google, Samsung Electronics und Microsoft. AB InBev gewann beim Cannes Lions im vergangenen Jahr insgesamt 37 Lions und wurde nach 2022 und 2023 erneut ausgewählt. Es ist das erste Unternehmen in der Geschichte von Cannes Lions, das diese Auszeichnung dreimal erhält. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "AB InBev remporte pour la troisième fois le titre Creative Marketer of the Year à Cannes Lions",
+        "excerpt": "AB InBev, maison mère mondiale d’Oriental Brewery, a annoncé le 8 mai avoir été nommée Creative Marketer of the Year 2026 de Cannes Lions, une première avec trois titres.",
+        "body": "AB InBev, maison mère mondiale d’Oriental Brewery, a annoncé le 8 mai avoir été désignée Creative Marketer of the Year 2026 par le Cannes Lions International Festival of Creativity. Cannes Lions, largement connu comme le Festival international de la publicité de Cannes, est considéré comme l’un des trois grands festivals publicitaires mondiaux avec les Clio Awards aux États-Unis et les New York Festivals. Depuis 1992, ce prix distingue des entreprises mondiales qui ont favorisé l’innovation de marque et la croissance commerciale grâce à des activités de marketing créatif. Parmi les anciens lauréats figurent Apple, Coca-Cola, Google, Samsung Electronics et Microsoft. AB InBev a remporté 37 Lions au Cannes Lions l’an dernier et a de nouveau été sélectionnée après 2022 et 2023. C’est la première entreprise de l’histoire de Cannes Lions à recevoir cette distinction trois fois. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إيه بي إنبف تفوز بلقب مسوق العام الإبداعي في كان ليونز للمرة الثالثة تاريخيا",
+        "excerpt": "أعلنت إيه بي إنبف، الشركة الأم العالمية لأوبي맥جو، في 8 مايو اختيارها مسوق العام الإبداعي 2026 في كان ليونز، لتصبح أول شركة تنال الجائزة ثلاث مرات.",
+        "body": "أعلنت إيه بي إنبف، الشركة الأم العالمية لأوبي맥جو، في 8 مايو أنها اختيرت لجائزة “مسوق العام الإبداعي 2026” التي يمنحها مهرجان كان ليونز الدولي للإبداع. ويعرف كان ليونز على نطاق واسع باسم مهرجان كان الدولي للإعلان، ويعد من أكبر ثلاثة مهرجانات إعلانية في العالم إلى جانب جوائز كليو في الولايات المتحدة ومهرجان نيويورك. ومنذ عام 1992، تمنح الجائزة لشركات عالمية قادت ابتكار العلامات التجارية ونمو الأعمال من خلال أنشطة تسويق إبداعية. وتشمل قائمة الفائزين السابقين آبل وكوكاكولا وغوغل وسامسونغ إلكترونيكس ومايكروسوفت. وفازت إيه بي إنبف في كان ليونز العام الماضي بما مجموعه 37 جائزة “ليونز”، واختيرت هذا العام مجددا بعد عامي 2022 و2023. وهذه هي المرة الأولى في تاريخ كان ليونز التي تفوز فيها شركة واحدة بالجائزة ثلاث مرات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "AB InBev ने Cannes Lions Creative Marketer of the Year तीसरी बार जीतकर इतिहास बनाया",
+        "excerpt": "ओरिएंटल ब्रुअरी की वैश्विक मूल कंपनी AB InBev ने 8 मई को बताया कि उसे Cannes Lions Creative Marketer of the Year 2026 चुना गया है, यह सम्मान तीन बार पाने वाली पहली कंपनी है।",
+        "body": "ओरिएंटल ब्रुअरी की वैश्विक मूल कंपनी AB InBev ने 8 मई को कहा कि उसे Cannes Lions International Festival of Creativity की ओर से Creative Marketer of the Year 2026 चुना गया है। Cannes Lions, जिसे Cannes International Advertising Festival के रूप में व्यापक रूप से जाना जाता है, अमेरिका के Clio Awards और New York Festivals के साथ दुनिया के तीन प्रमुख विज्ञापन समारोहों में गिना जाता है। 1992 से यह पुरस्कार उन वैश्विक कंपनियों को दिया जाता है जिन्होंने रचनात्मक मार्केटिंग गतिविधियों के जरिए ब्रांड नवाचार और कारोबारी वृद्धि को आगे बढ़ाया। पिछले विजेताओं में Apple, Coca-Cola, Google, Samsung Electronics और Microsoft शामिल हैं। AB InBev ने पिछले साल Cannes Lions में कुल 37 Lions पुरस्कार जीते थे और 2022 तथा 2023 के बाद इस साल फिर चुनी गई। Cannes Lions के इतिहास में पहली बार किसी कंपनी ने यह पुरस्कार तीन बार जीता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "AB InBev Raih Creative Marketer of the Year Cannes Lions untuk Ketiga Kalinya",
+        "excerpt": "AB InBev, induk global Oriental Brewery, pada 8 Mei menyatakan terpilih sebagai Creative Marketer of the Year 2026 Cannes Lions, perusahaan pertama yang meraih gelar itu tiga kali.",
+        "body": "AB InBev, perusahaan induk global Oriental Brewery, menyatakan pada 8 Mei bahwa pihaknya terpilih sebagai Creative Marketer of the Year 2026 oleh Cannes Lions International Festival of Creativity. Cannes Lions, yang luas dikenal sebagai Festival Periklanan Internasional Cannes, dianggap sebagai salah satu dari tiga festival periklanan terbesar di dunia bersama Clio Awards di Amerika Serikat dan New York Festivals. Sejak 1992, penghargaan ini diberikan kepada perusahaan global yang mendorong inovasi merek dan pertumbuhan bisnis melalui aktivitas pemasaran kreatif. Pemenang sebelumnya mencakup Apple, Coca-Cola, Google, Samsung Electronics, dan Microsoft. AB InBev meraih total 37 penghargaan Lions di Cannes Lions tahun lalu dan kembali terpilih setelah 2022 dan 2023. Ini menjadi pertama kalinya dalam sejarah Cannes Lions satu perusahaan memenangkan penghargaan tersebut tiga kali. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "e3a3a08a822c",
     "slug": "대한항공-두바이-노선-운항-중단-8월2일까지-연장공역-제한-영향-236751",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Efek Balon Area Non-Regulasi Terlihat, Transaksi Apartemen Guri Naik 4 Kali",
         "excerpt": "Setelah kebijakan 15 Oktober 2025 memperketat aturan hunian di wilayah metropolitan Seoul, permintaan bergeser ke area non-regulasi dan transaksi apartemen Guri naik 4 kali.",
         "body": "Setelah kebijakan 15 Oktober 2025 memperketat regulasi perumahan di sebagian wilayah metropolitan Seoul, permintaan hunian dianalisis bergeser ke area yang relatif tidak diatur. Guri disebut sebagai contoh utama, dengan volume transaksi apartemen meningkat empat kali lipat. Area non-regulasi memiliki ketentuan pinjaman dan penjualan kembali yang relatif lebih longgar, serta beban kewajiban tinggal langsung yang lebih rendah dibanding area regulasi. Tren ini menunjukkan bahwa pengetatan aturan di satu wilayah dapat menekan permintaan setempat, sekaligus mendorong transaksi di pasar non-regulasi terdekat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "33aacc069734",
-    "slug": "4월-분양물량-2만4천-가구서울은-당-2천만원84-19억원대-130500",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:10:43.130Z",
-    "updatedAt": "2026-05-08T01:10:43.130Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040804",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040804",
-    "titleFingerprint": "d32b568c33b3e62735fbf8b216746f8d60618cab",
-    "dedupKeys": [
-      "33aacc06973463a86733d4bb2bccaaaf43671fcf",
-      "d32b568c33b3e62735fbf8b216746f8d60618cab",
-      "094b0577f6e7234de2eea8c66b10f8f4f9fe6ee6"
-    ],
-    "imageUrl": "/images/articles/33aacc069734.jpg",
-    "i18n": {
-      "ko": {
-        "title": "4월 민간 아파트 분양 2만4천 가구, 서울 84㎡는 19억원대",
-        "excerpt": "4월 전국 민간 아파트 분양 물량이 2만4천 가구로 3년 6개월 만에 최대치를 기록했고, 서울 평균 분양가는 ㎡당 2천만원 수준으로 84㎡ 기준 19억원대에 달했다.",
-        "body": "4월 전국 민간 아파트 분양 물량이 2만4천 가구를 넘어서며 3년 6개월 만에 최대치를 기록했다. 지방 대단지 공급이 집중되면서 전용면적 기준 전국 ㎡당 평균 분양가는 3개월 만에 하락했다. 반면 서울은 ㎡당 평균 분양가가 2천만원 수준으로 집계돼 전용 84㎡ 기준 분양가가 19억원대에 이르는 것으로 나타났다. 공급 확대는 분양 시장의 선택지를 넓히지만, 서울과 지방의 가격 흐름 차이는 지역별 청약 수요와 부담을 가를 변수로 남는다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "April Private Apartment Supply Hits 24,000 Units as Seoul 84㎡ Homes Reach 1.9 Billion Won",
-        "excerpt": "Private apartment presales in Korea topped 24,000 units in April, the highest in three years and six months, while Seoul prices averaged about 20 million won per ㎡.",
-        "body": "Private apartment presale volume across Korea exceeded 24,000 units in April, marking the highest level in three years and six months. As large-scale projects in regional areas were concentrated, the national average presale price per square meter, based on exclusive-use area, fell for the first time in three months. In Seoul, however, the average presale price was about 20 million won per square meter, putting an 84㎡ unit in the 1.9 billion won range. The increase in supply broadens choices in the presale market, but the price gap between Seoul and regional markets remains a key factor for subscription demand and affordability. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "4月の民間マンション分譲2万4千戸、ソウル84㎡は19億ウォン台",
-        "excerpt": "4月の韓国全国の民間マンション分譲戸数は2万4千戸を超え、3年6カ月ぶりの高水準となり、ソウルは㎡当たり約2千万ウォンだった。",
-        "body": "4月の韓国全国の民間マンション分譲戸数は2万4千戸を超え、3年6カ月ぶりの最大規模を記録した。地方の大規模団地の供給が集中したことで、専有面積基準の全国平均分譲価格は㎡当たりで3カ月ぶりに下落した。一方、ソウルは平均分譲価格が㎡当たり約2千万ウォンとなり、専有84㎡基準では19億ウォン台に達する水準となった。供給拡大は分譲市場の選択肢を広げるが、ソウルと地方の価格動向の差は地域別の申込需要と負担を左右する要因として残る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "4月韩国民间公寓供应2.4万户，首尔84㎡达19亿韩元区间",
-        "excerpt": "4月韩国全国民间公寓预售量超过2.4万户，创3年6个月来最高水平；首尔平均预售价约为每㎡2000万韩元。",
-        "body": "4月，韩国全国民间公寓预售量超过2.4万户，创下3年6个月以来最大规模。由于地方大型住宅小区供应集中，按专有面积计算的全国每平方米平均预售价时隔3个月出现下降。相反，首尔平均预售价约为每平方米2000万韩元，按专有84㎡计算，预售价达到19亿韩元区间。供应增加扩大了预售市场选择，但首尔与地方价格走势差异仍将成为影响各地区认购需求和购房负担的重要因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La oferta privada de abril llega a 24.000 viviendas y Seúl sitúa 84㎡ en 1.900 millones de wones",
-        "excerpt": "En abril, las preventas privadas de apartamentos en Corea superaron las 24.000 unidades, el mayor volumen en tres años y seis meses, con Seúl cerca de 20 millones de wones por ㎡.",
-        "body": "El volumen nacional de preventas de apartamentos privados en Corea superó las 24.000 unidades en abril, el nivel más alto en tres años y seis meses. La concentración de grandes complejos en regiones fuera de Seúl llevó a que el precio medio nacional por metro cuadrado, según superficie exclusiva, bajara por primera vez en tres meses. En Seúl, en cambio, el precio medio de preventa se situó cerca de 20 millones de wones por metro cuadrado, lo que coloca una vivienda de 84㎡ en el rango de 1.900 millones de wones. La mayor oferta amplía opciones, pero la brecha de precios regional sigue pesando sobre la demanda y la asequibilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Oferta privada de abril chega a 24 mil unidades, com 84㎡ em Seul na faixa de 1,9 bi de won",
-        "excerpt": "As pré-vendas de apartamentos privados na Coreia passaram de 24 mil unidades em abril, maior nível em três anos e seis meses, enquanto Seul ficou perto de 20 milhões de won por ㎡.",
-        "body": "O volume nacional de pré-vendas de apartamentos privados na Coreia ultrapassou 24 mil unidades em abril, o maior patamar em três anos e seis meses. Com a concentração de grandes empreendimentos em regiões fora de Seul, o preço médio nacional por metro quadrado, com base na área exclusiva, caiu pela primeira vez em três meses. Em Seul, porém, o preço médio de pré-venda ficou em torno de 20 milhões de won por metro quadrado, colocando uma unidade de 84㎡ na faixa de 1,9 bilhão de won. A ampliação da oferta aumenta as opções no mercado, mas a diferença de preços entre Seul e as regiões segue relevante para demanda e acessibilidade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Private Wohnungsverkäufe im April bei 24.000 Einheiten, Seoul 84㎡ bei rund 1,9 Mrd. Won",
-        "excerpt": "Im April überstieg das private Apartmentangebot in Korea 24.000 Einheiten, der höchste Stand seit dreieinhalb Jahren; in Seoul lagen die Preise bei etwa 20 Mio. Won je ㎡.",
-        "body": "Das landesweite Volumen privater Apartment-Vorverkäufe in Korea überstieg im April 24.000 Einheiten und erreichte damit den höchsten Stand seit drei Jahren und sechs Monaten. Da sich das Angebot großer Wohnanlagen auf regionale Märkte konzentrierte, fiel der nationale Durchschnittspreis je Quadratmeter auf Basis der exklusiven Wohnfläche erstmals seit drei Monaten. In Seoul lag der durchschnittliche Vorverkaufspreis dagegen bei etwa 20 Millionen Won je Quadratmeter, womit eine 84㎡-Einheit in den Bereich von 1,9 Milliarden Won kommt. Das größere Angebot erweitert die Auswahl, doch die Preisunterschiede zwischen Seoul und den Regionen bleiben entscheidend für Nachfrage und Belastung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les ventes privées d’avril atteignent 24 000 logements, 84㎡ à Séoul autour de 1,9 md de wons",
-        "excerpt": "En avril, les préventes d’appartements privés en Corée ont dépassé 24 000 unités, un record en trois ans et six mois, tandis que Séoul approchait 20 millions de wons par ㎡.",
-        "body": "Le volume national des préventes d’appartements privés en Corée a dépassé 24 000 unités en avril, soit le niveau le plus élevé depuis trois ans et six mois. La concentration de grands ensembles en province a fait reculer le prix moyen national au mètre carré, calculé sur la surface exclusive, pour la première fois en trois mois. À Séoul, en revanche, le prix moyen de prévente s’est établi autour de 20 millions de wons par mètre carré, plaçant un logement de 84㎡ dans la tranche des 1,9 milliard de wons. L’offre accrue élargit le choix, mais l’écart de prix entre Séoul et les régions reste un facteur pour la demande et l’accessibilité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "معروض الشقق الخاصة في أبريل يتجاوز 24 ألف وحدة وسعر 84㎡ في سيول يبلغ نحو 1.9 مليار وون",
-        "excerpt": "تجاوزت مبيعات الشقق الخاصة على الخريطة في كوريا 24 ألف وحدة في أبريل، وهو أعلى مستوى خلال 3 سنوات و6 أشهر، بينما بلغ متوسط سيول نحو 20 مليون وون لكل ㎡.",
-        "body": "تجاوز حجم طرح الشقق الخاصة على مستوى كوريا 24 ألف وحدة في أبريل، مسجلا أعلى مستوى منذ 3 سنوات و6 أشهر. ومع تركز إمدادات المجمعات الكبيرة في المناطق خارج سيول، انخفض متوسط سعر البيع الوطني لكل متر مربع، على أساس المساحة الحصرية، للمرة الأولى خلال 3 أشهر. أما في سيول، فبلغ متوسط سعر البيع نحو 20 مليون وون لكل متر مربع، ما يضع وحدة بمساحة 84㎡ في نطاق 1.9 مليار وون. يوسع نمو المعروض خيارات سوق الطرح، لكن اختلاف اتجاه الأسعار بين سيول والمناطق يبقى عاملا مؤثرا في الطلب والقدرة على تحمل التكلفة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अप्रैल में निजी अपार्टमेंट आपूर्ति 24 हजार यूनिट, सियोल में 84㎡ करीब 1.9 अरब वॉन",
-        "excerpt": "कोरिया में अप्रैल के निजी अपार्टमेंट प्रीसेल 24 हजार यूनिट से ऊपर रहे, जो 3 साल 6 महीने का उच्चतम स्तर है; सियोल में औसत कीमत करीब 2 करोड़ वॉन प्रति ㎡ रही।",
-        "body": "कोरिया में अप्रैल के दौरान निजी अपार्टमेंट प्रीसेल की राष्ट्रीय मात्रा 24 हजार यूनिट से अधिक रही, जो 3 साल 6 महीने में सबसे ऊंचा स्तर है। क्षेत्रीय इलाकों में बड़े कॉम्प्लेक्स की आपूर्ति केंद्रित होने से एक्सक्लूसिव एरिया के आधार पर राष्ट्रीय औसत प्रीसेल कीमत प्रति वर्ग मीटर 3 महीने बाद घटी। इसके उलट सियोल में औसत प्रीसेल कीमत करीब 2 करोड़ वॉन प्रति वर्ग मीटर रही, जिससे 84㎡ यूनिट की कीमत 1.9 अरब वॉन के दायरे में पहुंचती है। अधिक आपूर्ति बाजार में विकल्प बढ़ाती है, लेकिन सियोल और क्षेत्रों के बीच कीमतों का अंतर मांग और वहनीयता पर असर डालता रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pasokan Apartemen Swasta April Capai 24 Ribu Unit, 84㎡ di Seoul Tembus Kisaran 1,9 Miliar Won",
-        "excerpt": "Pra-penjualan apartemen swasta Korea pada April melampaui 24 ribu unit, tertinggi dalam 3 tahun 6 bulan, sementara harga rata-rata Seoul sekitar 20 juta won per ㎡.",
-        "body": "Volume pra-penjualan apartemen swasta di seluruh Korea melampaui 24 ribu unit pada April, mencatat level tertinggi dalam 3 tahun 6 bulan. Karena pasokan kompleks besar terkonsentrasi di daerah luar Seoul, harga rata-rata nasional per meter persegi berdasarkan luas eksklusif turun untuk pertama kalinya dalam 3 bulan. Sebaliknya, di Seoul, harga rata-rata pra-penjualan mencapai sekitar 20 juta won per meter persegi, sehingga unit 84㎡ berada di kisaran 1,9 miliar won. Kenaikan pasokan memperluas pilihan pasar, tetapi perbedaan tren harga antara Seoul dan daerah tetap menjadi faktor bagi permintaan dan keterjangkauan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "20b3ff4ab241",
-    "slug": "mk-분양뉴스-年-79대-준공-후-성업-중-상업시설-공급-529547",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:09:45.431Z",
-    "updatedAt": "2026-05-08T01:09:45.431Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040807",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040807",
-    "titleFingerprint": "fe2cb06c1725be660c2f5379337330816e9d5806",
-    "dedupKeys": [
-      "20b3ff4ab24156fe321d991578bc85b27de1df10",
-      "fe2cb06c1725be660c2f5379337330816e9d5806",
-      "08627788de5d02ed940ef9f304b10dab29c78a8b"
-    ],
-    "imageUrl": "/images/articles/20b3ff4ab241.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천 검단신도시 상업시설 공급, 연 7~9%대·준공 후 성업 중 주목",
-        "excerpt": "인천 검단신도시에서 준공 후 영업 중인 대규모 주상복합 상업시설이 연 7~9%대 수익률과 8천만~15억 원대 실투자 조건으로 공급된다.",
-        "body": "인천 검단신도시에서 준공 후 영업 중인 대규모 주상복합 프리미엄 상업시설이 공급된다. MK 분양뉴스에 따르면 해당 상업시설은 연 7~9%대 수익률을 제시하며, 실투자 금액은 8천만 원대부터 15억 원대까지로 안내됐다. 현장에는 다이소와 애슐리퀸즈 등 주요 매장이 성업 중인 것으로 소개됐다. 입지는 다이소, 아라역, 법조타운과 인접한 점이 특징이다. 여기에 5호선 연장과 GTX-D 노선 예정 내용도 함께 언급됐다. 검단신도시 내 상업시설 공급 사례로, 준공 후 운영 중인 점과 주변 생활·교통 여건이 투자 판단 요소로 제시된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Incheon Geomdan New Town retail space offered with 7-9% annual return range",
-        "excerpt": "A completed, operating mixed-use commercial facility in Incheon Geomdan New Town is being offered with a 7-9% annual return range and investment options from about KRW 80 million to KRW 1.5 billion.",
-        "body": "A large premium commercial facility within a mixed-use complex in Incheon Geomdan New Town is being supplied after completion and while already in operation. According to MK Sales News, the facility presents an annual return range of 7-9%, with actual investment amounts guided from the KRW 80 million range to the KRW 1.5 billion range. Major tenants such as Daiso and Ashley Queens are described as operating actively on site. The location is noted for proximity to Daiso, Ara Station and the legal town area. Planned Line 5 extension and GTX-D route information were also mentioned. As a retail supply case in Geomdan New Town, its completed operating status and surrounding living and transport conditions are presented as investment factors. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "仁川・黔丹新都市の商業施設供給、年7～9％台・竣工後営業中に注目",
-        "excerpt": "仁川・黔丹新都市で竣工後に営業中の大規模住商複合商業施設が、年7～9％台の利回りと実投資約8,000万～15億ウォン台の条件で供給される。",
-        "body": "仁川・黔丹新都市で、竣工後すでに営業中の大規模住商複合プレミアム商業施設が供給される。MK分譲ニュースによると、同商業施設は年7～9％台の利回りを提示し、実投資額は8,000万ウォン台から15億ウォン台までと案内された。現場ではダイソーやアシュリークイーンズなどの主要店舗が盛業中と紹介されている。立地はダイソー、アラ駅、法曹タウンに近い点が特徴だ。さらに5号線延伸とGTX-D路線予定も言及された。黔丹新都市内の商業施設供給事例として、竣工後運営中である点と周辺の生活・交通条件が投資判断要素として示されている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "仁川黔丹新城商业设施供应，年7%至9%区间且竣工后运营中",
-        "excerpt": "仁川黔丹新城一处竣工后正在营业的大型住商复合商业设施对外供应，提出年7%至9%区间收益率及约8000万至15亿韩元实际投资条件。",
-        "body": "仁川黔丹新城一处竣工后已投入营业的大型住商复合高端商业设施正在供应。MK分售新闻称，该商业设施提出年7%至9%区间的收益率，实际投资金额从8000万韩元区间到15亿韩元区间不等。现场被介绍为已有大创、Ashley Queens等主要门店经营情况良好。其区位特点是靠近大创、阿拉站和法曹城。报道还提到5号线延长线及GTX-D线路规划。作为黔丹新城内商业设施供应案例，竣工后运营状态以及周边生活、交通条件被列为投资判断因素。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Locales en Geomdan, Incheon, con rango anual de 7-9% y operación tras entrega",
-        "excerpt": "En Geomdan New Town, Incheon, se ofrece un gran complejo comercial ya terminado y en operación, con rentabilidad anual de 7-9% e inversión real de unos KRW 80 millones a KRW 1.500 millones.",
-        "body": "En Geomdan New Town, Incheon, se ofrece un gran espacio comercial premium dentro de un complejo mixto ya terminado y en operación. Según MK Sales News, el activo presenta un rango de rentabilidad anual del 7-9%, con montos de inversión real desde el rango de KRW 80 millones hasta el de KRW 1.500 millones. En el lugar se mencionan tiendas principales como Daiso y Ashley Queens, descritas como operando activamente. La ubicación destaca por su cercanía a Daiso, la estación Ara y el distrito legal. También se citan la extensión prevista de la Línea 5 y la ruta GTX-D. Como caso de suministro comercial en Geomdan New Town, se presentan como factores de análisis su estado operativo tras la finalización y las condiciones de vida y transporte cercanas. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Comércio em Geomdan, Incheon, é ofertado com faixa anual de 7-9%",
-        "excerpt": "Em Geomdan New Town, Incheon, um grande centro comercial misto já concluído e em operação é ofertado com retorno anual de 7-9% e investimento real de cerca de KRW 80 milhões a KRW 1,5 bilhão.",
-        "body": "Em Geomdan New Town, Incheon, está sendo ofertada uma grande instalação comercial premium em complexo de uso misto, já concluída e em operação. Segundo o MK Sales News, o empreendimento apresenta faixa de retorno anual de 7-9%, com valores de investimento real orientados de cerca de KRW 80 milhões até KRW 1,5 bilhão. O local é descrito como tendo lojas importantes, como Daiso e Ashley Queens, em funcionamento ativo. A localização se destaca pela proximidade com Daiso, estação Ara e o bairro jurídico. Também foram mencionadas a extensão planejada da Linha 5 e a rota GTX-D. Como caso de oferta comercial em Geomdan New Town, o status operacional após a conclusão e as condições de vida e transporte ao redor são apontados como fatores de avaliação. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Gewerbeflächen in Incheon Geomdan mit 7-9% Jahresrendite angeboten",
-        "excerpt": "In Incheon Geomdan New Town wird eine fertiggestellte und laufend betriebene große Mixed-Use-Gewerbefläche mit 7-9% jährlicher Renditespanne und Investitionen von rund 80 Mio. bis 1,5 Mrd. KRW angeboten.",
-        "body": "In Incheon Geomdan New Town wird eine große Premium-Gewerbefläche in einem Mixed-Use-Komplex angeboten, die bereits fertiggestellt ist und betrieben wird. Laut MK Sales News wird eine jährliche Renditespanne von 7-9% genannt; die tatsächlichen Investitionsbeträge reichen vom Bereich um 80 Mio. KRW bis zum Bereich um 1,5 Mrd. KRW. Vor Ort werden wichtige Geschäfte wie Daiso und Ashley Queens als aktiv laufend beschrieben. Die Lage zeichnet sich durch Nähe zu Daiso, Ara Station und dem Rechtsviertel aus. Ebenfalls erwähnt werden die geplante Verlängerung der Linie 5 und die GTX-D-Strecke. Als Gewerbeangebot in Geomdan New Town gelten der laufende Betrieb nach Fertigstellung sowie die umliegenden Lebens- und Verkehrsbedingungen als Bewertungsfaktoren. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Commerces à Geomdan, Incheon, proposés avec rendement annuel de 7-9%",
-        "excerpt": "À Geomdan New Town, Incheon, un grand espace commercial mixte déjà achevé et exploité est proposé avec un rendement annuel de 7-9% et un investissement réel d’environ 80 millions à 1,5 milliard de KRW.",
-        "body": "À Geomdan New Town, Incheon, un grand espace commercial premium dans un complexe mixte est proposé après achèvement et alors qu’il est déjà en exploitation. Selon MK Sales News, le site affiche une fourchette de rendement annuel de 7-9%, avec des montants d’investissement réel indiqués d’environ 80 millions de KRW à 1,5 milliard de KRW. Des enseignes majeures comme Daiso et Ashley Queens y sont présentées comme actives. L’emplacement est mis en avant pour sa proximité avec Daiso, la station Ara et le quartier judiciaire. L’extension prévue de la ligne 5 et l’itinéraire GTX-D sont également mentionnés. Comme offre commerciale à Geomdan New Town, l’exploitation après achèvement et les conditions de vie et de transport voisines sont présentées comme facteurs d’évaluation. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "طرح مرافق تجارية في غومدان بإنشيون بعائد سنوي 7-9% بعد اكتمالها",
-        "excerpt": "في مدينة غومدان الجديدة بإنشيون، يجري طرح مرفق تجاري كبير ضمن مجمع متعدد الاستخدامات مكتمل ويعمل حاليا، مع نطاق عائد سنوي 7-9% واستثمار فعلي من نحو 80 مليون إلى 1.5 مليار وون.",
-        "body": "في مدينة غومدان الجديدة بإنشيون، يجري طرح مرفق تجاري فاخر كبير ضمن مجمع سكني تجاري بعد اكتماله وبدء تشغيله. ووفقا لـ MK Sales News، يعرض المرفق نطاق عائد سنوي بين 7 و9%، مع مبالغ استثمار فعلية موجهة من نطاق 80 مليون وون إلى نطاق 1.5 مليار وون. وذُكر أن متاجر رئيسية مثل دايسو وآشلي كوينز تعمل بنشاط في الموقع. ويتميز الموقع بقربه من دايسو ومحطة آرا والمدينة القانونية. كما ورد ذكر تمديد الخط 5 المخطط له ومسار GTX-D المتوقع. وبوصفه حالة طرح لمرافق تجارية داخل غومدان الجديدة، تُعرض حالة التشغيل بعد الاكتمال وظروف المعيشة والنقل المحيطة كعوامل لتقييم الاستثمار. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "इंचियोन ग्योमदान न्यू टाउन में 7-9% वार्षिक रेंज वाला वाणिज्यिक परिसर",
-        "excerpt": "इंचियोन ग्योमदान न्यू टाउन में पूर्ण होकर संचालित हो रहा बड़ा मिश्रित-उपयोग वाणिज्यिक परिसर 7-9% वार्षिक रिटर्न रेंज और करीब 8 करोड़ से 150 करोड़ वॉन निवेश शर्तों के साथ उपलब्ध है।",
-        "body": "इंचियोन ग्योमदान न्यू टाउन में एक बड़े मिश्रित-उपयोग प्रीमियम वाणिज्यिक परिसर की आपूर्ति की जा रही है, जो निर्माण पूरा होने के बाद संचालन में है। MK Sales News के अनुसार, यह परिसर 7-9% वार्षिक रिटर्न रेंज प्रस्तुत करता है, और वास्तविक निवेश राशि 8 करोड़ वॉन के दायरे से 150 करोड़ वॉन के दायरे तक बताई गई है। स्थल पर Daiso और Ashley Queens जैसे प्रमुख स्टोर सक्रिय रूप से संचालित बताए गए हैं। इसकी स्थिति Daiso, Ara Station और कानूनी टाउन के निकट होने से पहचानी जाती है। लाइन 5 विस्तार और प्रस्तावित GTX-D मार्ग का भी उल्लेख किया गया। ग्योमदान न्यू टाउन में वाणिज्यिक आपूर्ति के इस मामले में, पूर्णता के बाद संचालन और आसपास की जीवन व परिवहन स्थितियां निवेश मूल्यांकन कारकों के रूप में प्रस्तुत हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Fasilitas komersial Geomdan Incheon ditawarkan dengan kisaran 7-9% per tahun",
-        "excerpt": "Di Geomdan New Town, Incheon, fasilitas komersial besar dalam kompleks campuran yang telah selesai dan beroperasi ditawarkan dengan kisaran imbal hasil 7-9% per tahun serta investasi sekitar KRW 80 juta hingga KRW 1,5 miliar.",
-        "body": "Di Geomdan New Town, Incheon, fasilitas komersial premium besar dalam kompleks hunian-komersial sedang ditawarkan setelah selesai dibangun dan telah beroperasi. Menurut MK Sales News, fasilitas ini menyajikan kisaran imbal hasil tahunan 7-9%, dengan nilai investasi aktual dari kisaran KRW 80 juta hingga kisaran KRW 1,5 miliar. Di lokasi, gerai utama seperti Daiso dan Ashley Queens disebut sedang beroperasi dengan baik. Lokasinya menonjol karena dekat dengan Daiso, Stasiun Ara, dan kawasan hukum. Rencana perpanjangan Jalur 5 serta rute GTX-D juga disebutkan. Sebagai contoh pasokan fasilitas komersial di Geomdan New Town, status operasional setelah penyelesaian serta kondisi kehidupan dan transportasi sekitar disajikan sebagai faktor pertimbangan investasi. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d47c394b0b79",
-    "slug": "분당-무지개마을-10단지s8구역-결합재건축-속도-752837",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:08:40.928Z",
-    "updatedAt": "2026-05-08T01:08:40.928Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040821",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040821",
-    "titleFingerprint": "d938aaba8ed3d8f50faf7a406ef15e63fbd81541",
-    "dedupKeys": [
-      "d47c394b0b79f4c5ce55fb66a3f241696725612d",
-      "d938aaba8ed3d8f50faf7a406ef15e63fbd81541",
-      "9e011caed786b64da3b5ce3354f9790e42799542"
-    ],
-    "imageUrl": "/images/articles/d47c394b0b79.jpg",
-    "i18n": {
-      "ko": {
-        "title": "분당 무지개마을 10단지·S8구역 결합재건축, 7일 만에 동의 과반 돌파",
-        "excerpt": "분당 무지개마을 10단지와 S8구역 결합재건축 추진준비위원회가 특별정비구역 지정 동의를 시작한 지 7일 만에 과반 동의를 넘기며 사업 추진 속도를 높이고 있다.",
-        "body": "분당 무지개마을 10단지와 S8구역(극동빌라·대우빌라·동부썬빌라) 결합재건축 추진준비위원회가 특별정비구역 지정 동의 절차를 시작한 지 7일 만에 동의율 과반을 넘겼다. 이번 사업은 각 구역의 이해관계를 고려한 독립정산 기반 ‘결합재건축’ 방식으로 추진된다. 동의 과반 확보는 특별정비구역 지정 추진 과정에서 초기 동력이 커졌다는 점에서 의미가 있다. 추진준비위원회는 무지개마을 10단지와 S8구역을 함께 묶어 재건축 절차를 진행하는 구상이다. 향후 절차는 특별정비구역 지정 동의와 관련 행정 단계의 진행 상황에 따라 구체화될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Bundang Mujigae Village 10 and S8 Joint Reconstruction Gains Speed After Majority Consent",
-        "excerpt": "The preparatory committee for the joint reconstruction of Bundang Mujigae Village 10 and the S8 area surpassed majority consent just seven days after starting approval for special maintenance district designation.",
-        "body": "The preparatory committee for the joint reconstruction of Bundang Mujigae Village Complex 10 and the S8 area, which includes Geukdong Villa, Daewoo Villa and Dongbu Sun Villa, has exceeded majority consent seven days after beginning the consent process for designation as a special maintenance district. The project is being pursued as a “combined reconstruction” based on independent settlement, reflecting the interests of each area. Securing majority consent gives the plan early momentum in the process of seeking special maintenance district designation. The committee’s concept is to proceed with reconstruction by linking Mujigae Village Complex 10 and the S8 area. The next steps are expected to become clearer as the consent process and related administrative procedures advance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "盆唐ムジゲ村10団地・S8区域の結合再建築、7日で同意過半を突破",
-        "excerpt": "盆唐ムジゲ村10団地とS8区域の結合再建築推進準備委員会は、特別整備区域指定への同意開始から7日で過半の同意を確保し、事業推進に弾みをつけている。",
-        "body": "盆唐ムジゲ村10団地とS8区域（極東ビラ・大宇ビラ・東部サンビラ）の結合再建築推進準備委員会は、特別整備区域指定に向けた同意手続きを始めてから7日で同意率が過半を超えた。今回の事業は、各区域の利害関係を考慮した独立精算ベースの「結合再建築」方式で進められる。過半同意の確保は、特別整備区域指定を推進する過程で初期の推進力が高まった点に意味がある。準備委員会はムジゲ村10団地とS8区域を一体で結び、再建築手続きを進める構想だ。今後の手続きは、特別整備区域指定への同意と関連行政段階の進行状況に応じて具体化される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "盆唐彩虹村10小区与S8区域联合重建提速，7天同意过半",
-        "excerpt": "盆唐彩虹村10小区和S8区域联合重建推进筹备委员会启动特别整备区域指定同意程序后，仅7天同意率便超过半数，项目推进速度加快。",
-        "body": "盆唐彩虹村10小区和S8区域（极东Villa、大宇Villa、东部Sun Villa）联合重建推进筹备委员会在启动特别整备区域指定同意程序后，7天内同意率超过半数。该项目将以考虑各区域利益关系的独立结算为基础，采用“联合重建”方式推进。取得过半同意意味着在推动特别整备区域指定的过程中，项目初期动力有所增强。筹备委员会计划将彩虹村10小区与S8区域捆绑在一起推进重建程序。后续步骤预计将根据特别整备区域指定同意及相关行政程序的进展进一步具体化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reconstrucción conjunta de Mujigae 10 y S8 en Bundang avanza tras mayoría en 7 días",
-        "excerpt": "El comité preparatorio de la reconstrucción conjunta de Mujigae Village 10 y el área S8 de Bundang superó la mayoría de consentimientos siete días después de iniciar el proceso para la designación como zona especial de mantenimiento.",
-        "body": "El comité preparatorio para la reconstrucción conjunta de Mujigae Village Complejo 10 y el área S8 de Bundang, que incluye Geukdong Villa, Daewoo Villa y Dongbu Sun Villa, superó la mayoría de consentimientos siete días después de iniciar el procedimiento para la designación como zona especial de mantenimiento. El proyecto se impulsa como una “reconstrucción combinada” basada en liquidación independiente, teniendo en cuenta los intereses de cada zona. Haber asegurado la mayoría de consentimientos da impulso inicial al proceso de designación. El comité plantea avanzar con la reconstrucción vinculando Mujigae Village 10 y el área S8. Los próximos pasos se concretarán según el avance del consentimiento y de los trámites administrativos relacionados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reconstrução conjunta de Mujigae 10 e S8 em Bundang acelera após maioria em 7 dias",
-        "excerpt": "O comitê preparatório da reconstrução conjunta do Mujigae Village 10 e da área S8, em Bundang, superou a maioria de consentimentos sete dias após iniciar o processo para designação como zona especial de manutenção.",
-        "body": "O comitê preparatório para a reconstrução conjunta do Complexo 10 do Mujigae Village e da área S8, em Bundang, que inclui Geukdong Villa, Daewoo Villa e Dongbu Sun Villa, superou a maioria de consentimentos sete dias após iniciar o procedimento para designação como zona especial de manutenção. O projeto será conduzido como uma “reconstrução combinada” com base em liquidação independente, considerando os interesses de cada área. A obtenção da maioria dá impulso inicial ao processo de designação. O comitê planeja avançar com a reconstrução vinculando o Mujigae Village 10 e a área S8. As próximas etapas devem ser definidas conforme o avanço do consentimento e dos trâmites administrativos relacionados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bundang Mujigae 10 und S8: Gemeinsamer Wiederaufbau gewinnt nach Mehrheit in 7 Tagen Tempo",
-        "excerpt": "Das Vorbereitungskomitee für den gemeinsamen Wiederaufbau von Bundang Mujigae Village 10 und dem S8-Gebiet hat sieben Tage nach Beginn der Zustimmung zur Ausweisung als besonderes Instandhaltungsgebiet eine Mehrheit erreicht.",
-        "body": "Das Vorbereitungskomitee für den gemeinsamen Wiederaufbau von Bundang Mujigae Village Komplex 10 und dem S8-Gebiet, zu dem Geukdong Villa, Daewoo Villa und Dongbu Sun Villa gehören, hat sieben Tage nach Beginn des Zustimmungsverfahrens zur Ausweisung als besonderes Instandhaltungsgebiet eine Mehrheit überschritten. Das Projekt wird als „kombinierter Wiederaufbau“ auf Grundlage einer unabhängigen Abrechnung vorangetrieben, wobei die Interessen der einzelnen Gebiete berücksichtigt werden. Die Mehrheit der Zustimmungen verleiht dem Verfahren zur Gebietsausweisung frühe Dynamik. Das Komitee plant, Mujigae Village 10 und das S8-Gebiet gemeinsam in das Wiederaufbauverfahren einzubinden. Die nächsten Schritte dürften sich je nach Fortschritt der Zustimmung und der damit verbundenen Verwaltungsverfahren konkretisieren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Bundang Mujigae 10 et zone S8: la reconstruction conjointe accélère après une majorité en 7 jours",
-        "excerpt": "Le comité préparatoire de la reconstruction conjointe de Mujigae Village 10 et de la zone S8 à Bundang a dépassé la majorité des consentements sept jours après le lancement de la procédure de désignation en zone spéciale de maintenance.",
-        "body": "Le comité préparatoire pour la reconstruction conjointe du complexe Mujigae Village 10 et de la zone S8 à Bundang, qui comprend Geukdong Villa, Daewoo Villa et Dongbu Sun Villa, a dépassé la majorité des consentements sept jours après le début de la procédure de désignation en zone spéciale de maintenance. Le projet sera mené comme une « reconstruction combinée » fondée sur un règlement indépendant, en tenant compte des intérêts de chaque secteur. L’obtention d’une majorité donne une dynamique initiale au processus de désignation. Le comité prévoit de faire avancer la reconstruction en reliant Mujigae Village 10 et la zone S8. Les prochaines étapes devraient se préciser selon l’avancement du consentement et des procédures administratives connexes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة إعمار مشتركة لمجمع موجيغه 10 ومنطقة S8 في بوندانغ تتسارع بعد أغلبية خلال 7 أيام",
-        "excerpt": "تجاوزت لجنة التحضير لإعادة الإعمار المشتركة لمجمع موجيغه 10 ومنطقة S8 في بوندانغ أغلبية الموافقات بعد سبعة أيام فقط من بدء إجراءات الموافقة على تصنيفها كمنطقة صيانة خاصة.",
-        "body": "تجاوزت لجنة التحضير لإعادة الإعمار المشتركة لمجمع موجيغه فيليدج 10 ومنطقة S8 في بوندانغ، التي تضم فيلا غوكدونغ وفيلا دايو وفيلا دونغبو صن، أغلبية الموافقات بعد سبعة أيام من بدء إجراءات الموافقة على تصنيفها كمنطقة صيانة خاصة. ويجري دفع المشروع بصيغة «إعادة إعمار مدمجة» قائمة على التسوية المستقلة، مع مراعاة مصالح كل منطقة. ويعني تأمين أغلبية الموافقات أن المشروع اكتسب زخما أوليا في مسار السعي إلى تصنيف المنطقة الخاصة. وتخطط اللجنة لربط مجمع موجيغه 10 ومنطقة S8 والمضي في إجراءات إعادة الإعمار معا. ومن المتوقع أن تتضح الخطوات المقبلة وفقا لتقدم الموافقات والمراحل الإدارية ذات الصلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "बुंदांग मुजिगे विलेज 10 और S8 संयुक्त पुनर्निर्माण, 7 दिन में बहुमत सहमति",
-        "excerpt": "बुंदांग मुजिगे विलेज 10 और S8 क्षेत्र के संयुक्त पुनर्निर्माण की तैयारी समिति ने विशेष रखरखाव क्षेत्र नामांकन के लिए सहमति प्रक्रिया शुरू होने के सात दिन बाद बहुमत सहमति हासिल कर ली।",
-        "body": "बुंदांग मुजिगे विलेज कॉम्प्लेक्स 10 और S8 क्षेत्र, जिसमें गुकडोंग विला, देवू विला और डोंगबू सन विला शामिल हैं, के संयुक्त पुनर्निर्माण की तैयारी समिति ने विशेष रखरखाव क्षेत्र नामांकन के लिए सहमति प्रक्रिया शुरू करने के सात दिन बाद बहुमत सहमति पार कर ली। यह परियोजना प्रत्येक क्षेत्र के हितों को ध्यान में रखते हुए स्वतंत्र निपटान पर आधारित “संयुक्त पुनर्निर्माण” 방식 से आगे बढ़ाई जा रही है। बहुमत सहमति मिलना विशेष रखरखाव क्षेत्र नामांकन की प्रक्रिया में शुरुआती गति बढ़ने का संकेत है। समिति मुजिगे विलेज 10 और S8 क्षेत्र को साथ जोड़कर पुनर्निर्माण प्रक्रिया चलाने की योजना रखती है। आगे की प्रक्रिया सहमति और संबंधित प्रशासनिक चरणों की प्रगति के अनुसार स्पष्ट होगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi Gabungan Mujigae 10 dan Area S8 Bundang Melaju Usai Mayoritas Setuju 7 Hari",
-        "excerpt": "Komite persiapan rekonstruksi gabungan Mujigae Village 10 dan area S8 di Bundang melampaui mayoritas persetujuan hanya tujuh hari setelah memulai proses persetujuan penetapan kawasan pemeliharaan khusus.",
-        "body": "Komite persiapan rekonstruksi gabungan Kompleks 10 Mujigae Village dan area S8 di Bundang, yang mencakup Geukdong Villa, Daewoo Villa, dan Dongbu Sun Villa, telah melampaui mayoritas persetujuan tujuh hari setelah memulai prosedur persetujuan penetapan kawasan pemeliharaan khusus. Proyek ini didorong sebagai “rekonstruksi gabungan” berbasis penyelesaian independen, dengan mempertimbangkan kepentingan tiap area. Perolehan mayoritas persetujuan memberi momentum awal dalam proses penetapan kawasan pemeliharaan khusus. Komite berencana menjalankan prosedur rekonstruksi dengan mengaitkan Mujigae Village 10 dan area S8. Tahap berikutnya diperkirakan akan diperjelas sesuai kemajuan persetujuan dan proses administratif terkait. Sumber: mk.co.kr"
       }
     }
   }
