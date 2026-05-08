@@ -1,5 +1,230 @@
 [
   {
+    "id": "c370085da4cd",
+    "slug": "가정의-달나들이-시즌-장바구니-부담-던다-롯데마트-먹거리-할인-행사-진행-410381",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:46:32.035Z",
+    "updatedAt": "2026-05-08T15:46:32.035Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887142/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887142/1",
+    "titleFingerprint": "ca77a1277ba5b26ffe7f42f48f4010e91f9cb0d7",
+    "dedupKeys": [
+      "c370085da4cd683f398b0fa893b6b0df53d26d6b",
+      "ca77a1277ba5b26ffe7f42f48f4010e91f9cb0d7",
+      "5e0bd587357f64b3528242acda6f773d1f6b1555"
+    ],
+    "imageUrl": "/images/articles/c370085da4cd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데마트 먹거리 할인 행사, 가정의 달·나들이 시즌 장바구니 부담 낮춘다",
+        "excerpt": "롯데마트가 가정의 달과 나들이 시즌을 맞아 5월 13일까지 델리, 음료, 돼지고기, 수박 등 고객 수요가 높은 먹거리 할인 행사를 진행한다.",
+        "body": "롯데마트가 가정의 달과 나들이 시즌을 맞아 5월 13일까지 주요 신선·가공식품 할인 행사에 나선다고 8일 밝혔다. 이번 행사는 장바구니 부담을 낮추기 위해 고객 수요가 높은 먹거리 상품을 중심으로 마련됐다. 나들이용 간편 델리 상품으로 ‘큰치킨(팩/국내산)’, ‘큰초밥(20입)’, ‘온가족 모둠도시락(팩)’ 등을 선보이며, 탄산·커피음료 49종은 2개 이상 구매 시 50% 할인한다. ‘지평 평생 막걸리(750ml)’도 할인 판매한다. 구이류와 과일 할인도 포함된다. ‘끝돼 삼겹살/목심(각 100g/냉장)’과 ‘끝돼 항정살(100g/냉장)’은 엘포인트 회원 대상 40% 할인, 100% 비파괴 당도 선별을 거친 수박 전 품목은 엘포인트 회원 대상 2000원 할인 혜택을 제공한다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Lotte Mart Food Discounts Aim to Ease Family Month Picnic Basket Costs",
+        "excerpt": "Lotte Mart will run food discounts through May 13 for Family Month and picnic season, covering deli meals, drinks, pork cuts, watermelon and other high-demand items.",
+        "body": "Lotte Mart said on May 8 that it will run discounts on major fresh and processed foods through May 13 for Family Month and the picnic season. The event is designed to ease shopping basket costs by focusing on food products with strong customer demand. Convenient deli items for outings include “Big Chicken” made with domestic chicken, a 20-piece “Big Sushi” pack and a “Family Assorted Lunchbox” pack. Shoppers buying two or more items from 49 carbonated and coffee drinks receive 50% off, while “Jipyeong Pyeongsaeng Makgeolli” in a 750 ml bottle is also discounted. Grill items and fruit are included as well. L.POINT members receive 40% off “Kkeutdwae” pork belly, pork neck and pork jowl, and 2,000 won off all watermelons selected through 100% non-destructive sweetness testing. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ロッテマート食品割引、家庭の月と行楽シーズンの買い物負担を軽減",
+        "excerpt": "ロッテマートは家庭の月と行楽シーズンに合わせ、5月13日までデリ、飲料、豚肉、スイカなど需要の高い食品を割引販売する。",
+        "body": "ロッテマートは8日、家庭の月と行楽シーズンに合わせ、5月13日まで主要な生鮮・加工食品の割引イベントを行うと発表した。今回の企画は、買い物かごの負担を抑えるため、顧客需要の高い食品を中心に構成された。行楽向けの手軽なデリ商品として「大きなチキン（パック・韓国産）」「大きな寿司（20貫）」「家族向け盛り合わせ弁当（パック）」などを販売する。炭酸・コーヒー飲料49種は2点以上購入で50%割引となり、「地平 平生マッコリ（750ml）」も割引対象だ。焼き物用の肉類と果物も含まれる。「クットェ」豚バラ・肩ロース各100g冷蔵と豚トロ100g冷蔵はL.POINT会員に40%割引、100%非破壊糖度選別を経た全スイカ商品はL.POINT会員に2000ウォン割引を提供する。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "乐天玛特食品折扣启动，家庭月和出游季减轻购物篮压力",
+        "excerpt": "乐天玛特迎接家庭月和出游季，将优惠活动持续至5月13日，涵盖熟食、饮料、猪肉、西瓜等顾客需求较高的食品。",
+        "body": "乐天玛特8日表示，为迎接家庭月和出游季，将于5月13日前开展主要生鲜及加工食品折扣活动。此次活动以顾客需求较高的食品为中心，旨在减轻购物篮负担。面向出游场景，乐天玛特推出方便熟食，包括“大香鸡（盒装/韩国产）”“大寿司（20个）”“全家什锦便当（盒装）”等。49种碳酸和咖啡饮料购买两件以上可享50%折扣，“地平平生米酒（750ml）”也参与优惠。烧烤类和水果同样打折。“Kkeutdwae”五花肉、梅花肉各100克冷藏及猪颈肉100克冷藏面向L.POINT会员享40%折扣，所有经过100%非破坏糖度筛选的西瓜商品面向L.POINT会员优惠2000韩元。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Lotte Mart lanza descuentos en alimentos para aliviar la cesta en la temporada de salidas",
+        "excerpt": "Lotte Mart aplica descuentos hasta el 13 de mayo por el Mes de la Familia y la temporada de salidas, con deli, bebidas, cerdo y sandía entre los productos clave.",
+        "body": "Lotte Mart informó el día 8 que realizará hasta el 13 de mayo una campaña de descuentos en alimentos frescos y procesados por el Mes de la Familia y la temporada de salidas. La iniciativa busca aliviar el costo de la cesta de compra con productos de alta demanda. Para comidas prácticas de picnic ofrece “Big Chicken” en paquete con pollo nacional, “Big Sushi” de 20 piezas y “Family Assorted Lunchbox” en paquete. En 49 tipos de bebidas carbonatadas y de café, la compra de dos o más unidades tiene un 50% de descuento, y también se rebaja “Jipyeong Pyeongsaeng Makgeolli” de 750 ml. La promoción incluye carnes para asar y fruta. Los miembros de L.POINT obtienen 40% de descuento en panceta, cuello y secreto de cerdo refrigerados de la línea “Kkeutdwae”, y 2.000 wones de descuento en todas las sandías seleccionadas mediante prueba de dulzor 100% no destructiva. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Lotte Mart faz descontos em alimentos para reduzir custos no Mês da Família",
+        "excerpt": "A Lotte Mart realiza até 13 de maio descontos para o Mês da Família e a temporada de passeios, incluindo deli, bebidas, cortes suínos e melancias.",
+        "body": "A Lotte Mart informou no dia 8 que realizará até 13 de maio uma campanha de descontos em alimentos frescos e processados para o Mês da Família e a temporada de passeios. A ação foi organizada para reduzir o peso da cesta de compras, com foco em itens alimentícios de alta demanda. Entre as opções práticas para passeios estão “Big Chicken” em pacote com frango nacional, “Big Sushi” com 20 peças e “Family Assorted Lunchbox” em pacote. Em 49 tipos de bebidas gaseificadas e de café, compras de duas ou mais unidades recebem 50% de desconto, e o “Jipyeong Pyeongsaeng Makgeolli” de 750 ml também é vendido com desconto. Carnes para grelhar e frutas entram na promoção. Membros L.POINT têm 40% de desconto em barriga, copa e jowl suíno refrigerados da linha “Kkeutdwae”, além de 2.000 won de desconto em todas as melancias selecionadas por teste de doçura 100% não destrutivo. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Lotte Mart senkt mit Lebensmittelrabatten Einkaufskosten zur Familien- und Ausflugssaison",
+        "excerpt": "Lotte Mart bietet bis 13. Mai Rabatte zur Familien- und Ausflugssaison auf gefragte Lebensmittel wie Deli-Gerichte, Getränke, Schweinefleisch und Wassermelonen.",
+        "body": "Lotte Mart teilte am 8. Mai mit, bis zum 13. Mai eine Rabattaktion für wichtige frische und verarbeitete Lebensmittel zur Familien- und Ausflugssaison durchzuführen. Die Aktion soll die Belastung des Einkaufskorbs verringern und konzentriert sich auf Lebensmittel mit hoher Kundennachfrage. Für Ausflüge werden praktische Deli-Produkte wie “Big Chicken” im Pack mit koreanischem Hähnchen, “Big Sushi” mit 20 Stück und ein “Family Assorted Lunchbox”-Pack angeboten. Bei 49 Sorten kohlensäurehaltiger und Kaffeegetränke gibt es beim Kauf von zwei oder mehr Artikeln 50% Rabatt; auch “Jipyeong Pyeongsaeng Makgeolli” mit 750 ml wird reduziert verkauft. Grillwaren und Obst sind ebenfalls Teil der Aktion. L.POINT-Mitglieder erhalten 40% Rabatt auf gekühlten Schweinebauch, Schweinenacken und Schweinebacke der Linie “Kkeutdwae” sowie 2.000 Won Rabatt auf alle Wassermelonen, die per 100% zerstörungsfreier Süßeprüfung ausgewählt wurden. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Lotte Mart réduit les prix alimentaires pour alléger le panier du mois de la famille",
+        "excerpt": "Lotte Mart propose jusqu’au 13 mai des remises pour le mois de la famille et la saison des sorties, sur les plats deli, boissons, porc, pastèques et autres produits demandés.",
+        "body": "Lotte Mart a annoncé le 8 mai lancer jusqu’au 13 mai une opération de remises sur les principaux produits frais et transformés, à l’occasion du mois de la famille et de la saison des sorties. L’opération vise à réduire le poids du panier d’achat en ciblant les produits alimentaires les plus demandés. Pour les repas pratiques à emporter, l’enseigne propose notamment “Big Chicken” en pack avec du poulet coréen, “Big Sushi” en 20 pièces et un “Family Assorted Lunchbox” en pack. Sur 49 boissons gazeuses et cafés prêts à boire, l’achat de deux articles ou plus donne droit à 50% de réduction, tandis que le “Jipyeong Pyeongsaeng Makgeolli” de 750 ml est aussi vendu à prix réduit. Les viandes à griller et les fruits sont inclus. Les membres L.POINT bénéficient de 40% sur la poitrine, l’échine et la joue de porc réfrigérées “Kkeutdwae”, et de 2.000 wons sur toutes les pastèques sélectionnées par mesure de sucrosité 100% non destructive. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "لوتيه مارت تطلق خصومات غذائية لتخفيف كلفة السلة في شهر العائلة وموسم النزهات",
+        "excerpt": "تقدم لوتيه مارت حتى 13 مايو خصومات بمناسبة شهر العائلة وموسم النزهات، تشمل أطعمة جاهزة ومشروبات ولحوم خنزير وبطيخا ومنتجات مطلوبة أخرى.",
+        "body": "أعلنت لوتيه مارت في 8 مايو أنها ستنفذ حتى 13 مايو حملة خصومات على منتجات غذائية طازجة ومصنعة رئيسية بمناسبة شهر العائلة وموسم النزهات. وتركز الحملة على أصناف الطعام ذات الطلب المرتفع بهدف تخفيف عبء سلة التسوق. وتشمل الأطعمة الجاهزة المناسبة للنزهات “الدجاج الكبير” في عبوة وبمصدر محلي، و“السوشي الكبير” من 20 قطعة، و“علبة طعام مشكلة للعائلة” في عبوة. كما تقدم خصما بنسبة 50% عند شراء منتجين أو أكثر من 49 نوعا من المشروبات الغازية ومشروبات القهوة، إلى جانب بيع “Jipyeong Pyeongsaeng Makgeolli” بحجم 750 مل بسعر مخفض. وتشمل الحملة أيضا أصناف الشواء والفواكه. يحصل أعضاء L.POINT على خصم 40% على بطن ورقبة ولحم خد الخنزير المبرد من “Kkeutdwae”، وعلى خصم 2000 وون على جميع أصناف البطيخ المختارة عبر فحص حلاوة غير إتلافي بنسبة 100%. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "लोटे मार्ट खाद्य छूट से फैमिली मंथ और पिकनिक सीजन की खरीदारी लागत घटाएगा",
+        "excerpt": "लोटे मार्ट फैमिली मंथ और पिकनिक सीजन के लिए 13 मई तक डेली फूड, पेय, पोर्क, तरबूज और अधिक मांग वाले खाद्य उत्पादों पर छूट देगा।",
+        "body": "लोटे मार्ट ने 8 मई को कहा कि वह फैमिली मंथ और पिकनिक सीजन को देखते हुए 13 मई तक प्रमुख ताजे और प्रोसेस्ड खाद्य उत्पादों पर छूट अभियान चलाएगा। यह आयोजन ग्राहकों की अधिक मांग वाले खाद्य सामानों पर केंद्रित है ताकि शॉपिंग बास्केट का बोझ कम किया जा सके। बाहर जाने के लिए आसान डेली फूड में घरेलू चिकन से बना “बिग चिकन” पैक, 20 पीस “बिग सुशी” और “फैमिली असॉर्टेड लंचबॉक्स” पैक शामिल हैं। 49 प्रकार के कार्बोनेटेड और कॉफी पेय में दो या अधिक खरीदने पर 50% छूट मिलेगी, जबकि 750 ml “Jipyeong Pyeongsaeng Makgeolli” भी रियायती कीमत पर बेचा जाएगा। ग्रिलिंग आइटम और फल भी शामिल हैं। L.POINT सदस्यों को “Kkeutdwae” पोर्क बेली, पोर्क नेक और पोर्क जॉल पर 40% छूट मिलेगी, और 100% गैर-विनाशकारी मिठास जांच से चुने गए सभी तरबूजों पर 2,000 वॉन की छूट दी जाएगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lotte Mart Gelar Diskon Makanan untuk Ringankan Belanja Musim Keluarga dan Piknik",
+        "excerpt": "Lotte Mart mengadakan diskon hingga 13 Mei untuk Bulan Keluarga dan musim piknik, mencakup deli, minuman, daging babi, semangka, dan produk pangan tinggi permintaan.",
+        "body": "Lotte Mart menyatakan pada 8 Mei bahwa pihaknya menggelar diskon untuk produk pangan segar dan olahan utama hingga 13 Mei, bertepatan dengan Bulan Keluarga dan musim piknik. Program ini disiapkan untuk meringankan beban keranjang belanja dengan berfokus pada produk makanan yang banyak dicari pelanggan. Untuk makanan praktis saat bepergian, tersedia “Big Chicken” kemasan dengan ayam domestik, “Big Sushi” 20 potong, dan “Family Assorted Lunchbox” kemasan. Sebanyak 49 jenis minuman bersoda dan kopi mendapat diskon 50% untuk pembelian dua item atau lebih, sementara “Jipyeong Pyeongsaeng Makgeolli” 750 ml juga dijual dengan harga diskon. Produk panggang dan buah turut masuk promosi. Anggota L.POINT mendapat diskon 40% untuk pork belly, pork neck, dan pork jowl dingin merek “Kkeutdwae”, serta potongan 2.000 won untuk semua semangka yang lolos seleksi kadar manis 100% non-destruktif. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "c078226b75c2",
+    "slug": "올리비에앤코-신세계-강남점-팝업스토어-14일까지-운영-지중해-미식과-웰니스-경험의-확장-651969",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:45:11.017Z",
+    "updatedAt": "2026-05-08T15:45:11.017Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887246/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887246/1",
+    "titleFingerprint": "cdd99e62c52b0c359fc84d9a625c6ba6bae4946f",
+    "dedupKeys": [
+      "c078226b75c2807a61d3823fd4307344d13fd291",
+      "cdd99e62c52b0c359fc84d9a625c6ba6bae4946f",
+      "b0ea938a848ad9b3f37a8bba80efe2b6a0856ba2"
+    ],
+    "imageUrl": "/images/articles/c078226b75c2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "올리비에앤코 신세계 강남 팝업스토어, 14일까지 지중해 미식 웰니스 경험 제공",
+        "excerpt": "지중해 미식 웰니스 브랜드 올리비에앤코가 8일부터 14일까지 신세계백화점 강남점 팝업스토어를 운영하며 빈티지 올리브오일과 신규 라인업을 소개한다.",
+        "body": "지중해 미식 웰니스 브랜드 올리비에앤코(Oliviers & Co)가 8일부터 14일까지 신세계백화점 강남점에서 팝업스토어를 운영하며 국내 고객과의 접점을 확대한다. 올리비에앤코는 록시땅 창업자 올리비에 보송이 1996년 프랑스에서 설립한 브랜드로, 매년 지중해 연안의 우수 농가를 선별해 해당 수확 시즌 올리브만 사용한 빈티지 올리브오일을 선보여 왔다. 이번 팝업스토어는 지중해식 웰니스 라이프스타일을 직접 경험하도록 구성됐으며, 방문객은 올리브오일의 향과 풍미를 중심으로 한 건강한 미식 여행을 체험할 수 있다. 행사에서는 올리비에앤코의 2026년 그랑크뤼 라인업 등 신규 제품군도 처음 공개된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Oliviers & Co Opens Shinsegae Gangnam Pop-Up Through May 14",
+        "excerpt": "Mediterranean gourmet wellness brand Oliviers & Co is running a pop-up at Shinsegae Department Store Gangnam from May 8 to 14, introducing vintage olive oils and new products.",
+        "body": "Mediterranean gourmet wellness brand Oliviers & Co is expanding its contact with Korean customers by operating a pop-up store at Shinsegae Department Store Gangnam from May 8 to 14. Founded in France in 1996 by Olivier Baussan, founder of L’Occitane, the brand has built its position in the global gourmet market by selecting leading farms around the Mediterranean each year and presenting vintage olive oils made only with olives from that harvest season. The pop-up is designed so visitors can experience a Mediterranean wellness lifestyle firsthand. The space focuses on the aroma and flavor of olive oil, offering more than a tasting: a healthy gourmet journey. The event will also debut new products, including Oliviers & Co’s premium 2026 Grand Cru lineup. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "オリヴィエ＆コー、新世界江南店で14日までポップアップ開催",
+        "excerpt": "地中海グルメ・ウェルネスブランドのオリヴィエ＆コーが、8日から14日まで新世界百貨店江南店でポップアップを運営し、ヴィンテージオリーブオイルと新商品を紹介する。",
+        "body": "地中海グルメ・ウェルネスブランドのオリヴィエ＆コー（Oliviers & Co）は、8日から14日まで新世界百貨店江南店でポップアップストアを運営し、韓国の顧客との接点を広げる。オリヴィエ＆コーは、ロクシタン創業者のオリヴィエ・ボーサン氏が1996年にフランスで設立したブランド。毎年、地中海沿岸の優れた農家を選び、その収穫シーズンのオリーブだけを使ったヴィンテージオリーブオイルを展開してきた。今回のポップアップは、地中海式ウェルネスライフスタイルを直接体験できるよう企画された。会場はオリーブオイルの香りと風味を感じられる構成で、来場者は単なる試食を超えた健康的な美食の旅を体験できる。会場では2026年グランクリュラインなど新商品群も初公開される。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Oliviers & Co新世界江南快闪店营业至14日，呈现地中海美食健康体验",
+        "excerpt": "地中海美食健康品牌Oliviers & Co自8日至14日在新世界百货江南店运营快闪店，向韩国顾客介绍年份橄榄油及新品阵容。",
+        "body": "地中海美食健康品牌Oliviers & Co自8日至14日在新世界百货江南店运营快闪店，扩大与韩国消费者的接触。Oliviers & Co由欧舒丹创始人Olivier Baussan于1996年在法国创立。该品牌每年甄选地中海沿岸优质农户，只使用当季收获的橄榄推出年份橄榄油，在全球美食市场形成差异化。此次快闪店旨在让顾客直接体验地中海式健康生活方式。空间围绕橄榄油的香气与风味打造，访客获得的不只是试吃，而是一段健康的美食之旅。活动期间，品牌还将首次公开包括2026年Grand Cru系列在内的新品阵容。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Oliviers & Co abre pop-up en Shinsegae Gangnam hasta el 14 de mayo",
+        "excerpt": "La marca mediterránea de gastronomía y bienestar Oliviers & Co opera del 8 al 14 de mayo una pop-up en Shinsegae Gangnam para presentar aceites de oliva vintage y novedades.",
+        "body": "La marca mediterránea de gastronomía y bienestar Oliviers & Co opera del 8 al 14 de mayo una tienda pop-up en Shinsegae Department Store Gangnam, ampliando su contacto con los clientes en Corea. La firma fue fundada en Francia en 1996 por Olivier Baussan, fundador de L’Occitane. Cada año selecciona destacadas fincas de la ribera mediterránea y presenta aceites de oliva vintage elaborados solo con aceitunas de la cosecha de esa temporada, lo que la ha diferenciado en el mercado gourmet global. Esta pop-up está diseñada para que los visitantes experimenten directamente un estilo de vida mediterráneo de bienestar. El espacio se centra en el aroma y el sabor del aceite de oliva y ofrece una experiencia de viaje gastronómico saludable, más allá de una simple degustación. En el evento también se presenta por primera vez una nueva gama, incluida la línea Grand Cru 2026 de Oliviers & Co. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Oliviers & Co abre pop-up na Shinsegae Gangnam até 14 de maio",
+        "excerpt": "A marca mediterrânea de gastronomia e wellness Oliviers & Co opera de 8 a 14 de maio uma pop-up na Shinsegae Gangnam, apresentando azeites vintage e novos produtos.",
+        "body": "A marca mediterrânea de gastronomia e wellness Oliviers & Co opera de 8 a 14 de maio uma loja pop-up na Shinsegae Department Store Gangnam, ampliando seu contato com consumidores na Coreia. A Oliviers & Co foi fundada na França em 1996 por Olivier Baussan, fundador da L’Occitane. A cada ano, a marca seleciona produtores de destaque na região mediterrânea e apresenta azeites vintage feitos apenas com azeitonas da safra daquela temporada, mantendo diferenciação no mercado gourmet global. A pop-up foi planejada para permitir uma experiência direta do estilo de vida mediterrâneo de bem-estar. O espaço destaca o aroma e o sabor do azeite, oferecendo aos visitantes uma jornada gastronômica saudável além da degustação. O evento também marca a estreia de uma nova linha, incluindo a seleção Grand Cru 2026 da Oliviers & Co. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Oliviers & Co Pop-up bei Shinsegae Gangnam läuft bis 14. Mai",
+        "excerpt": "Die mediterrane Gourmet- und Wellnessmarke Oliviers & Co betreibt vom 8. bis 14. Mai einen Pop-up-Store bei Shinsegae Gangnam und stellt Vintage-Olivenöle sowie neue Produkte vor.",
+        "body": "Die mediterrane Gourmet- und Wellnessmarke Oliviers & Co betreibt vom 8. bis 14. Mai einen Pop-up-Store im Shinsegae Department Store Gangnam und baut damit den Kontakt zu Kunden in Korea aus. Oliviers & Co wurde 1996 in Frankreich von Olivier Baussan, dem Gründer von L’Occitane, gegründet. Die Marke wählt jedes Jahr hochwertige Betriebe an der Mittelmeerküste aus und präsentiert Vintage-Olivenöle, die nur aus Oliven der jeweiligen Erntesaison hergestellt werden. So setzt sie sich im globalen Gourmetmarkt ab. Der Pop-up-Store ist darauf ausgelegt, einen mediterranen Wellness-Lifestyle direkt erlebbar zu machen. Der Raum konzentriert sich auf Duft und Geschmack von Olivenöl und bietet Besuchern mehr als eine Verkostung: eine gesunde kulinarische Reise. Erstmals werden dort auch neue Produkte vorgestellt, darunter die Grand-Cru-Linie 2026 von Oliviers & Co. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Oliviers & Co ouvre un pop-up à Shinsegae Gangnam jusqu’au 14 mai",
+        "excerpt": "La marque méditerranéenne de gastronomie et bien-être Oliviers & Co tient du 8 au 14 mai un pop-up à Shinsegae Gangnam pour présenter ses huiles d’olive vintage et nouveautés.",
+        "body": "La marque méditerranéenne de gastronomie et bien-être Oliviers & Co tient du 8 au 14 mai une boutique éphémère au grand magasin Shinsegae de Gangnam, afin d’élargir ses points de contact avec les clients en Corée. Fondée en France en 1996 par Olivier Baussan, fondateur de L’Occitane, la marque sélectionne chaque année des producteurs de qualité sur le pourtour méditerranéen et propose des huiles d’olive vintage élaborées uniquement avec les olives de la récolte de la saison. Cette approche la distingue sur le marché gourmet mondial. Le pop-up est conçu pour faire découvrir directement un art de vivre méditerranéen axé sur le bien-être. L’espace met en avant les arômes et les saveurs de l’huile d’olive, au-delà d’une simple dégustation, comme un voyage gastronomique sain. L’événement dévoile aussi de nouveaux produits, dont la ligne Grand Cru 2026 d’Oliviers & Co. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أوليفييه آند كو تفتتح متجر شينسيغيه غانغنام المؤقت حتى 14 مايو",
+        "excerpt": "تشغل علامة أوليفييه آند كو المتوسطية للذواقة والعافية متجرا مؤقتا في شينسيغيه غانغنام من 8 إلى 14 مايو، لعرض زيوت زيتون عتيقة وتشكيلة جديدة.",
+        "body": "تعمل علامة أوليفييه آند كو (Oliviers & Co) المتوسطية للذواقة والعافية على توسيع تواصلها مع العملاء في كوريا من خلال متجر مؤقت في متجر شينسيغيه غانغنام متعدد الأقسام من 8 إلى 14 مايو. تأسست العلامة في فرنسا عام 1996 على يد أوليفييه بوسان، مؤسس لوكسيتان. وتختار كل عام مزارع متميزة على سواحل المتوسط لتقديم زيوت زيتون عتيقة مصنوعة فقط من زيتون موسم الحصاد نفسه، ما منحها تميزا في سوق الذواقة العالمي. صمم المتجر المؤقت ليتيح تجربة مباشرة لنمط حياة متوسطي قائم على العافية. ويركز المكان على رائحة زيت الزيتون ونكهته، مقدما للزوار رحلة مذاق صحية تتجاوز التذوق البسيط. كما تكشف الفعالية لأول مرة عن منتجات جديدة، منها تشكيلة غراند كرو لعام 2026 من أوليفييه آند كو. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Oliviers & Co का Shinsegae Gangnam पॉप-अप 14 मई तक चलेगा",
+        "excerpt": "भूमध्यसागरीय गॉरमे व वेलनेस ब्रांड Oliviers & Co 8 से 14 मई तक Shinsegae Gangnam में पॉप-अप चला रहा है, जहां विंटेज ऑलिव ऑयल और नई श्रृंखला पेश होगी।",
+        "body": "भूमध्यसागरीय गॉरमे व वेलनेस ब्रांड Oliviers & Co 8 से 14 मई तक Shinsegae Department Store Gangnam में पॉप-अप स्टोर संचालित कर रहा है, जिससे वह कोरिया के ग्राहकों से संपर्क बढ़ा रहा है। इस ब्रांड की स्थापना 1996 में फ्रांस में L’Occitane के संस्थापक Olivier Baussan ने की थी। ब्रांड हर वर्ष भूमध्यसागरीय तट के उत्कृष्ट किसानों का चयन करता है और उसी फसल सत्र के जैतून से बने विंटेज ऑलिव ऑयल पेश करता है, जिससे वैश्विक गॉरमे बाजार में उसकी अलग पहचान बनी है। यह पॉप-अप भूमध्यसागरीय वेलनेस लाइफस्टाइल का प्रत्यक्ष अनुभव देने के लिए तैयार किया गया है। स्थान को ऑलिव ऑयल की सुगंध और स्वाद पर केंद्रित रखा गया है, ताकि आगंतुक साधारण चखने से आगे एक स्वस्थ गॉरमे यात्रा का अनुभव कर सकें। कार्यक्रम में Oliviers & Co की 2026 Grand Cru श्रृंखला सहित नई उत्पाद लाइन पहली बार पेश की जाएगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Oliviers & Co Buka Pop-Up di Shinsegae Gangnam hingga 14 Mei",
+        "excerpt": "Merek kuliner dan wellness Mediterania Oliviers & Co menggelar pop-up di Shinsegae Gangnam pada 8-14 Mei, memperkenalkan minyak zaitun vintage dan lini produk baru.",
+        "body": "Merek kuliner dan wellness Mediterania Oliviers & Co mengoperasikan pop-up store di Shinsegae Department Store Gangnam pada 8-14 Mei untuk memperluas kontak dengan pelanggan di Korea. Oliviers & Co didirikan di Prancis pada 1996 oleh Olivier Baussan, pendiri L’Occitane. Setiap tahun, merek ini memilih petani unggulan di kawasan pesisir Mediterania dan menghadirkan minyak zaitun vintage yang hanya memakai zaitun dari musim panen tersebut, sehingga terus membedakan diri di pasar gourmet global. Pop-up ini dirancang agar pengunjung dapat merasakan langsung gaya hidup wellness Mediterania. Ruangnya menonjolkan aroma dan rasa minyak zaitun, memberi pengalaman perjalanan kuliner sehat, bukan sekadar mencicipi. Dalam acara ini, Oliviers & Co juga pertama kali memperkenalkan lini produk baru, termasuk jajaran Grand Cru 2026. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "afe6c0f7eea9",
+    "slug": "닌텐도마저-올렸다스위치-전-모델-최대-5만원-기습-인상-550859",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T15:43:57.223Z",
+    "updatedAt": "2026-05-08T15:43:57.224Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887276/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887276/1",
+    "titleFingerprint": "a6cbfc257ec62dae2098c546cbb5edb0d15a5425",
+    "dedupKeys": [
+      "afe6c0f7eea9cacf63ef9ece1885bf3f89ccb0c0",
+      "a6cbfc257ec62dae2098c546cbb5edb0d15a5425",
+      "6427baec8c8a57e5dbdbd55a0d5fa11376e2179b"
+    ],
+    "imageUrl": "/images/articles/afe6c0f7eea9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "닌텐도 스위치 가격 인상, OLED·일반 모델 최대 5만원 오른다",
+        "excerpt": "한국닌텐도는 오는 25일부터 닌텐도 스위치 전 모델의 희망소비자가격을 올린다. 반도체 가격 상승과 환율 변동 등 시장 환경 변화가 배경이다.",
+        "body": "한국닌텐도는 오는 25일부터 국내 닌텐도 스위치 본체 희망소비자가격을 일제히 인상한다. OLED 모델은 41만5000원에서 46만5000원으로 5만원 오르고, 일반 모델도 36만원에서 41만원으로 5만원 오른다. 스위치 라이트는 24만9800원에서 27만9800원으로 3만원 인상된다. 회사는 다양한 시장 환경 변화와 향후 글로벌 사업성 검토 결과에 따른 결정이라고 밝혔다. 차세대 콘솔인 닌텐도 스위치2도 오는 9월 가격이 오를 예정이나, 구체적인 가격과 적용 일정은 추후 별도 안내된다. 이번 인상 배경으로는 반도체 가격 상승과 환율 변동 등이 거론된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Nintendo Switch price hike: OLED and standard models rise by up to ₩50,000",
+        "excerpt": "Nintendo Korea will raise suggested retail prices for all Nintendo Switch models from the 25th, citing market changes such as higher semiconductor prices and currency fluctuations.",
+        "body": "Nintendo Korea will raise suggested retail prices for Nintendo Switch consoles in Korea from the 25th. The OLED model will increase by ₩50,000, from ₩415,000 to ₩465,000, while the standard Nintendo Switch will also rise by ₩50,000, from ₩360,000 to ₩410,000. The Nintendo Switch Lite will go up by ₩30,000, from ₩249,800 to ₩279,800. The company said the decision followed a review of future global business viability amid various market environment changes. The next-generation Nintendo Switch 2 is also scheduled for a price increase in September, though specific prices and timing will be announced separately. Semiconductor price increases and exchange-rate movements were cited as background factors. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ニンテンドースイッチ値上げ、OLED・通常モデルは最大5万ウォン上昇",
+        "excerpt": "韓国任天堂は25日からニンテンドースイッチ全モデルの希望小売価格を引き上げる。半導体価格の上昇や為替変動など市場環境の変化が背景だ。",
+        "body": "韓国任天堂は25日から、韓国内のニンテンドースイッチ本体の希望小売価格を一斉に引き上げる。OLEDモデルは41万5000ウォンから46万5000ウォンへ5万ウォン上がり、通常モデルも36万ウォンから41万ウォンへ5万ウォン値上げされる。スイッチライトは24万9800ウォンから27万9800ウォンへ3万ウォン上昇する。同社は、多様な市場環境の変化と今後のグローバル事業性を検討した結果だと説明した。次世代機「ニンテンドースイッチ2」も9月に価格が上がる予定だが、具体的な価格と適用時期は別途案内される。背景には半導体価格の上昇や為替変動が挙げられる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "任天堂Switch价格上调，OLED与普通版最高涨5万韩元",
+        "excerpt": "韩国任天堂将从25日起上调Nintendo Switch全机型建议零售价，原因包括半导体价格上涨、汇率波动等市场环境变化。",
+        "body": "韩国任天堂将从25日起统一上调韩国市场Nintendo Switch主机建议零售价。OLED版将从41.5万韩元涨至46.5万韩元，上调5万韩元；普通版也将从36万韩元涨至41万韩元，同样上调5万韩元。Switch Lite将从24.98万韩元涨至27.98万韩元，上调3万韩元。公司表示，这是在多种市场环境变化下，审视未来全球业务可行性后作出的决定。下一代主机Nintendo Switch 2也计划于9月涨价，但具体价格和适用时间将另行公布。此次调价背景包括半导体价格上涨和汇率波动等因素。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Nintendo Switch sube de precio: OLED y modelo estándar aumentan hasta ₩50.000",
+        "excerpt": "Nintendo Korea elevará desde el día 25 los precios sugeridos de todos los modelos Switch, por cambios del mercado como alzas de semiconductores y variaciones cambiarias.",
+        "body": "Nintendo Korea aumentará desde el día 25 los precios minoristas sugeridos de las consolas Nintendo Switch en Corea. El modelo OLED subirá ₩50.000, de ₩415.000 a ₩465.000, y el modelo estándar también aumentará ₩50.000, de ₩360.000 a ₩410.000. La Nintendo Switch Lite pasará de ₩249.800 a ₩279.800, un alza de ₩30.000. La compañía explicó que la decisión se tomó tras revisar la viabilidad futura del negocio global ante diversos cambios del entorno de mercado. La consola de próxima generación Nintendo Switch 2 también tendrá un aumento de precio en septiembre, aunque el precio concreto y el calendario se anunciarán aparte. Entre los factores señalados figuran el encarecimiento de semiconductores y las fluctuaciones cambiarias. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Nintendo Switch fica mais caro: OLED e modelo padrão sobem até ₩50.000",
+        "excerpt": "A Nintendo Korea elevará a partir do dia 25 os preços sugeridos de todos os modelos Switch, citando mudanças de mercado como alta de semicondutores e câmbio.",
+        "body": "A Nintendo Korea aumentará a partir do dia 25 os preços sugeridos dos consoles Nintendo Switch na Coreia. O modelo OLED subirá ₩50.000, de ₩415.000 para ₩465.000, enquanto o modelo padrão também terá alta de ₩50.000, de ₩360.000 para ₩410.000. O Nintendo Switch Lite passará de ₩249.800 para ₩279.800, aumento de ₩30.000. A empresa afirmou que a decisão veio após revisar a viabilidade futura do negócio global diante de diversas mudanças no ambiente de mercado. O console de próxima geração Nintendo Switch 2 também terá aumento de preço em setembro, mas valores e datas específicas serão informados separadamente. Entre os fatores estão a alta dos semicondutores e as variações cambiais. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Nintendo Switch wird teurer: OLED- und Standardmodell steigen um bis zu ₩50.000",
+        "excerpt": "Nintendo Korea erhöht ab dem 25. die empfohlenen Preise aller Switch-Modelle. Hintergrund sind Marktveränderungen wie höhere Halbleiterpreise und Wechselkursschwankungen.",
+        "body": "Nintendo Korea erhöht ab dem 25. die empfohlenen Verkaufspreise für Nintendo-Switch-Konsolen in Korea. Das OLED-Modell steigt um ₩50.000 von ₩415.000 auf ₩465.000, das Standardmodell ebenfalls um ₩50.000 von ₩360.000 auf ₩410.000. Die Nintendo Switch Lite wird von ₩249.800 auf ₩279.800 angehoben, ein Plus von ₩30.000. Das Unternehmen erklärte, die Entscheidung sei nach Prüfung der künftigen globalen Geschäftsfähigkeit angesichts verschiedener Marktveränderungen gefallen. Auch die nächste Konsolengeneration Nintendo Switch 2 soll im September teurer werden; konkrete Preise und Termine werden separat bekannt gegeben. Als Hintergrund gelten steigende Halbleiterpreise und Wechselkursschwankungen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Nintendo Switch augmente ses prix: OLED et modèle standard jusqu’à ₩50.000 de plus",
+        "excerpt": "Nintendo Korea relèvera dès le 25 les prix conseillés de tous les modèles Switch, en raison de changements du marché dont les semi-conducteurs et le change.",
+        "body": "Nintendo Korea augmentera à partir du 25 les prix de vente conseillés des consoles Nintendo Switch en Corée. Le modèle OLED passera de ₩415.000 à ₩465.000, soit une hausse de ₩50.000, et le modèle standard augmentera aussi de ₩50.000, de ₩360.000 à ₩410.000. La Nintendo Switch Lite passera de ₩249.800 à ₩279.800, soit ₩30.000 de plus. L’entreprise a expliqué que cette décision résultait d’un examen de la viabilité future de ses activités mondiales face à diverses évolutions du marché. La console de nouvelle génération Nintendo Switch 2 doit également voir son prix augmenter en septembre, mais les montants et le calendrier précis seront annoncés séparément. Les facteurs cités incluent la hausse des semi-conducteurs et les variations de change. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ارتفاع أسعار نينتندو سويتش: زيادات تصل إلى 50 ألف وون لطرازي OLED والعادي",
+        "excerpt": "سترفع نينتندو كوريا الأسعار المقترحة لجميع طرازات Nintendo Switch اعتبارا من يوم 25، بسبب تغيرات السوق مثل ارتفاع أسعار أشباه الموصلات وتقلبات الصرف.",
+        "body": "أعلنت نينتندو كوريا أنها سترفع اعتبارا من يوم 25 الأسعار المقترحة لأجهزة Nintendo Switch في السوق الكورية. سيرتفع سعر طراز OLED من 415 ألف وون إلى 465 ألف وون، بزيادة 50 ألف وون، كما سيرتفع الطراز العادي من 360 ألف وون إلى 410 آلاف وون، بزيادة مماثلة. أما Nintendo Switch Lite فسيرتفع من 249800 وون إلى 279800 وون، بزيادة 30 ألف وون. وقالت الشركة إن القرار جاء بعد مراجعة جدوى الأعمال العالمية المستقبلية في ظل تغيرات متعددة في بيئة السوق. ومن المقرر أيضا رفع سعر Nintendo Switch 2 في سبتمبر، على أن تعلن التفاصيل لاحقا. وتشمل الخلفية ارتفاع أسعار أشباه الموصلات وتقلبات أسعار الصرف. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Nintendo Switch महंगा होगा: OLED और सामान्य मॉडल में ₩50,000 तक बढ़ोतरी",
+        "excerpt": "Nintendo Korea 25 तारीख से सभी Nintendo Switch मॉडलों की सुझाई खुदरा कीमत बढ़ाएगी। इसकी वजह सेमीकंडक्टर कीमतों में वृद्धि और विनिमय दर बदलाव जैसे बाजार कारक हैं।",
+        "body": "Nintendo Korea 25 तारीख से कोरिया में Nintendo Switch कंसोल की सुझाई खुदरा कीमतें बढ़ाएगी। OLED मॉडल ₩415,000 से बढ़कर ₩465,000 होगा, यानी ₩50,000 की वृद्धि। सामान्य Nintendo Switch भी ₩360,000 से ₩410,000 होगा, इसमें भी ₩50,000 की बढ़ोतरी है। Nintendo Switch Lite की कीमत ₩249,800 से ₩279,800 होगी, यानी ₩30,000 की वृद्धि। कंपनी ने कहा कि विभिन्न बाजार परिस्थितियों में बदलाव और भविष्य की वैश्विक व्यावसायिकता की समीक्षा के बाद यह फैसला लिया गया। अगली पीढ़ी का Nintendo Switch 2 भी सितंबर में महंगा होगा, लेकिन सटीक कीमत और लागू तारीख अलग से बताई जाएगी। पृष्ठभूमि में सेमीकंडक्टर कीमतों में वृद्धि और विनिमय दर बदलाव शामिल हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Harga Nintendo Switch naik: model OLED dan standar bertambah hingga ₩50.000",
+        "excerpt": "Nintendo Korea akan menaikkan harga ritel yang disarankan untuk semua model Switch mulai tanggal 25, dipicu perubahan pasar seperti harga semikonduktor dan kurs.",
+        "body": "Nintendo Korea akan menaikkan harga ritel yang disarankan untuk konsol Nintendo Switch di Korea mulai tanggal 25. Model OLED naik ₩50.000 dari ₩415.000 menjadi ₩465.000, sementara model standar juga naik ₩50.000 dari ₩360.000 menjadi ₩410.000. Nintendo Switch Lite naik dari ₩249.800 menjadi ₩279.800, bertambah ₩30.000. Perusahaan menyatakan keputusan ini diambil setelah meninjau kelayakan bisnis global ke depan di tengah berbagai perubahan lingkungan pasar. Konsol generasi berikutnya, Nintendo Switch 2, juga dijadwalkan naik harga pada September, tetapi harga dan jadwal rinci akan diumumkan terpisah. Faktor latar belakangnya mencakup kenaikan harga semikonduktor dan perubahan nilai tukar. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "2c84053585cd",
     "slug": "중앙일보-ma-매각설-유포자-고소-중앙그룹-차입금-부담에-중앙일보-jtbc-사옥-매각-추진-640497",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Penjualan Apartemen Kota Baru Utamakan Akses ke Kawasan Komersial Pusat",
         "excerpt": "Menurut industri penjualan pada 8 Mei, kompleks apartemen dekat kawasan komersial pusat di kota baru menarik perhatian karena akses ke infrastruktur utama.",
         "body": "Di pasar penjualan apartemen kota baru, kedekatan dengan fasilitas harian menjadi kata kunci utama. Menurut industri penjualan pada 8 Mei, kompleks apartemen yang dipasarkan di dekat kawasan komersial pusat dalam kota baru sedang mendapat perhatian. Kota baru yang dikembangkan secara terencana memiliki karakter struktural berupa pemusatan infrastruktur utama, termasuk fasilitas kehidupan dan komersial, di sekitar distrik komersial pusat. Karena itu, akses ke kawasan komersial pusat muncul sebagai faktor prioritas bagi pembeli saat memilih kompleks. Lokasi yang memungkinkan penggunaan fasilitas kenyamanan di dekatnya meningkatkan daya saing di pasar penjualan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e39b9a841c5c",
-    "slug": "전국-누구나-1순위-청약거주지-제한-없는-공급-물량-보니-489456",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:54:41.375Z",
-    "updatedAt": "2026-05-08T01:54:41.375Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040852",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040852",
-    "titleFingerprint": "7305fd0c547d5bd9fe96f88a2ef224d2a22d3206",
-    "dedupKeys": [
-      "e39b9a841c5c458d61d9d09911bf39ec1e192fc2",
-      "7305fd0c547d5bd9fe96f88a2ef224d2a22d3206",
-      "b923b507f7bd565000b64b303f63e72602435b6e"
-    ],
-    "imageUrl": "/images/articles/e39b9a841c5c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전국 1순위 청약 가능 단지 주목…거주지 제한 없는 공급 물량은",
-        "excerpt": "지난해 세종·평택·청주 등에서 전국 청약 단지가 흥행한 가운데, 거주지 제한이 없는 공급 물량이 일부 지역 집중 청약 수요 속에서 다시 관심을 받고 있다.",
-        "body": "최근 분양 시장에서 청약 수요가 일부 지역에 집중되는 가운데, 거주지 제한을 받지 않는 ‘전국 청약’ 단지가 수요자들의 관심을 받고 있다. 원문에 따르면 지난해 세종·평택·청주 등 전국 청약이 가능한 단지들이 청약 흥행을 기록했다. 이러한 흐름 속에서 6월에는 호반써밋 첨단3지구 공급이 예정돼 있어 관련 청약 수요의 관심이 이어지고 있다. 전국 누구나 1순위 청약이 가능한 물량은 거주 요건에 따른 진입 장벽이 낮다는 점에서 주목된다. 다만 실제 청약 조건과 일정은 단지별 모집공고 확인이 필요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nationwide First-Priority Housing Subscriptions Draw Attention as Residency Limits Ease",
-        "excerpt": "After nationwide subscription complexes in Sejong, Pyeongtaek and Cheongju performed strongly last year, supply without residency limits is again drawing attention amid concentrated demand.",
-        "body": "As demand in South Korea’s new-home subscription market has recently been concentrated in certain regions, complexes open to applicants nationwide without residency restrictions are drawing renewed attention. According to the source, nationwide subscription complexes in Sejong, Pyeongtaek and Cheongju recorded strong results last year. Against this backdrop, supply at Hoban Summit Cheomdan District 3 is scheduled for June, keeping related subscription demand in focus. Units open to first-priority applicants from across the country are notable because they lower entry barriers tied to residence requirements. However, applicants should check each complex’s official notice for exact conditions and schedules. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "全国から1順位申込み可能な団地に注目、居住地制限なしの供給とは",
-        "excerpt": "昨年、世宗・平沢・清州などで全国申込み可能な団地が好調だった中、居住地制限のない供給物件が一部地域に集中する需要の中で再び注目されている。",
-        "body": "最近の韓国分譲市場では、申込み需要が一部地域に集中するなか、居住地制限を受けない「全国申込み」可能な団地が需要者の関心を集めている。原文によると、昨年は世宗、平沢、清州などで全国から申込み可能な団地が好調な申込み結果を記録した。こうした流れの中、6月にはホバンサミット尖端3地区の供給が予定されており、関連する申込み需要への関心が続いている。全国の誰でも1順位申込みが可能な物件は、居住要件による参入障壁が低い点で注目される。ただし、実際の条件や日程は団地別の募集公告を確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全国一顺位认购楼盘受关注，无居住地限制供应量成焦点",
-        "excerpt": "去年世宗、平泽、清州等全国认购楼盘表现火热，在认购需求集中于部分地区的背景下，不受居住地限制的供应再次受到关注。",
-        "body": "近期韩国新房认购市场中，认购需求集中在部分地区，不受居住地限制、面向全国认购的楼盘正受到购房者关注。根据原文，去年世宗、平泽、清州等地可全国认购的楼盘取得了较好的认购成绩。在这一趋势下，6月将供应Hoban Summit尖端3地区项目，相关认购需求的关注度仍在延续。全国任何人都可按一顺位申请的供应量，因降低了居住条件带来的进入门槛而受到关注。不过，实际认购条件和日程仍需以各楼盘募集公告为准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Viviendas con suscripción nacional de primera prioridad ganan atención sin límite de residencia",
-        "excerpt": "Tras el buen desempeño de complejos abiertos a todo el país en Sejong, Pyeongtaek y Cheongju el año pasado, la oferta sin restricción residencial vuelve a atraer interés.",
-        "body": "En el reciente mercado surcoreano de preventa de viviendas, la demanda de suscripción se concentra en algunas zonas, y los complejos abiertos a solicitantes de todo el país sin restricciones de residencia están recibiendo atención. Según el texto original, el año pasado los complejos con suscripción nacional en Sejong, Pyeongtaek y Cheongju registraron buenos resultados. En este contexto, para junio está prevista la oferta de Hoban Summit Cheomdan Distrito 3, lo que mantiene el interés de la demanda relacionada. Las unidades en las que cualquier persona del país puede solicitar con primera prioridad destacan porque reducen la barrera ligada al lugar de residencia. Aun así, las condiciones y fechas concretas deben verificarse en el anuncio de cada complejo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Imóveis com subscrição nacional em 1ª prioridade atraem atenção sem limite de residência",
-        "excerpt": "Após bons resultados de complexos abertos a todo o país em Sejong, Pyeongtaek e Cheongju no ano passado, ofertas sem restrição de residência voltam ao foco.",
-        "body": "No recente mercado sul-coreano de pré-venda imobiliária, a demanda por subscrições tem se concentrado em algumas regiões, enquanto complexos abertos a candidatos de todo o país, sem restrições de residência, ganham atenção. Segundo o texto original, no ano passado os empreendimentos com subscrição nacional em Sejong, Pyeongtaek e Cheongju registraram forte desempenho. Nesse contexto, a oferta do Hoban Summit Cheomdan Distrito 3 está prevista para junho, mantendo o interesse da demanda relacionada. Unidades nas quais qualquer pessoa do país pode se candidatar em 1ª prioridade chamam atenção por reduzir barreiras ligadas ao requisito de residência. As condições e datas exatas devem ser conferidas no edital de cada complexo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Landesweite Erstprioritäts-Bewerbung rückt in den Fokus: Angebote ohne Wohnsitzgrenze",
-        "excerpt": "Nach starkem Interesse an landesweit offenen Wohnprojekten in Sejong, Pyeongtaek und Cheongju im Vorjahr gewinnen Angebote ohne Wohnsitzbeschränkung erneut Aufmerksamkeit.",
-        "body": "Im südkoreanischen Markt für neue Wohnungsangebote konzentriert sich die Nachfrage nach Bewerbungen zuletzt auf bestimmte Regionen. Gleichzeitig rücken Anlagen in den Fokus, bei denen sich Interessenten landesweit ohne Wohnsitzbeschränkung bewerben können. Laut Ausgangstext erzielten solche Projekte im vergangenen Jahr in Sejong, Pyeongtaek und Cheongju starke Bewerbungsergebnisse. Vor diesem Hintergrund ist im Juni die Versorgung des Hoban Summit Cheomdan District 3 geplant, wodurch das Interesse an entsprechenden Bewerbungen anhält. Angebote, bei denen landesweit eine Bewerbung mit erster Priorität möglich ist, fallen auf, weil sie Hürden durch Wohnsitzanforderungen senken. Die genauen Bedingungen und Termine sollten jedoch in der jeweiligen Ausschreibung geprüft werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les logements ouverts en priorité nationale attirent l’attention sans limite de résidence",
-        "excerpt": "Après le succès de programmes ouverts à tout le pays à Sejong, Pyeongtaek et Cheongju l’an dernier, l’offre sans restriction de résidence suscite de nouveau l’intérêt.",
-        "body": "Sur le marché sud-coréen récent des logements neufs, la demande de souscription se concentre dans certaines régions, tandis que les programmes accessibles à l’échelle nationale sans restriction de résidence attirent l’attention. Selon le texte original, des complexes ouverts aux candidatures nationales à Sejong, Pyeongtaek et Cheongju ont enregistré de bons résultats l’an dernier. Dans ce contexte, l’offre de Hoban Summit Cheomdan District 3 est prévue en juin, maintenant l’intérêt des candidats concernés. Les logements pour lesquels toute personne du pays peut déposer une demande en première priorité se distinguent par une barrière d’entrée plus faible liée au lieu de résidence. Les conditions et calendriers précis doivent toutefois être vérifiés dans l’avis de chaque programme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشروعات الاكتتاب السكني بالأولوية الأولى على مستوى كوريا تجذب الاهتمام دون قيود إقامة",
-        "excerpt": "بعد نجاح مشروعات مفتوحة للاكتتاب على مستوى البلاد في سيجونغ وبيونغتايك وتشونغجو العام الماضي، تعود الإمدادات غير المقيدة بمحل الإقامة إلى دائرة الاهتمام.",
-        "body": "في سوق الطرح السكني الحديث في كوريا الجنوبية، تتركز طلبات الاكتتاب في بعض المناطق، بينما تحظى المشروعات المفتوحة للمتقدمين من جميع أنحاء البلاد من دون قيود على محل الإقامة باهتمام متزايد. ووفق النص الأصلي، سجلت مشروعات الاكتتاب الوطني في سيجونغ وبيونغتايك وتشونغجو نتائج قوية العام الماضي. وفي هذا السياق، من المقرر طرح مشروع Hoban Summit Cheomdan District 3 في يونيو، ما يبقي اهتمام الطلب المرتبط به مستمرا. وتبرز الوحدات التي تتيح لأي شخص في البلاد التقدم بالأولوية الأولى لأنها تخفض عائق شروط الإقامة. ومع ذلك، يجب مراجعة إعلان كل مشروع لمعرفة الشروط والمواعيد الفعلية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "देशभर से प्रथम-प्राथमिकता हाउसिंग आवेदन वाले प्रोजेक्ट चर्चा में, निवास सीमा नहीं",
-        "excerpt": "पिछले साल सेजोंग, प्योंगटेक और चेओंगजू में देशव्यापी आवेदन वाले प्रोजेक्ट सफल रहे; अब सीमित क्षेत्रों में मांग केंद्रित होने के बीच बिना निवास प्रतिबंध की आपूर्ति फिर ध्यान खींच रही है।",
-        "body": "दक्षिण कोरिया के हालिया आवासीय प्री-सेल बाजार में आवेदन मांग कुछ क्षेत्रों में केंद्रित हो रही है। इसी बीच ऐसे प्रोजेक्ट ध्यान में हैं जिनमें निवास-स्थान की पाबंदी के बिना देशभर से आवेदन किया जा सकता है। मूल स्रोत के अनुसार, पिछले साल सेजोंग, प्योंगटेक और चेओंगजू जैसे क्षेत्रों में देशव्यापी आवेदन योग्य प्रोजेक्टों ने मजबूत परिणाम दर्ज किए। इसी प्रवृत्ति के बीच जून में Hoban Summit Cheomdan District 3 की आपूर्ति प्रस्तावित है, जिससे संबंधित आवेदन मांग पर ध्यान बना हुआ है। देश में कोई भी व्यक्ति प्रथम प्राथमिकता से आवेदन कर सके, ऐसी इकाइयां निवास शर्तों से जुड़ी प्रवेश बाधा कम होने के कारण उल्लेखनीय हैं। वास्तविक शर्तें और तारीखें प्रत्येक प्रोजेक्ट की आधिकारिक सूचना में जांचनी होंगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Unit Langganan Prioritas Pertama Nasional Disorot, Tanpa Batas Domisili",
-        "excerpt": "Setelah kompleks di Sejong, Pyeongtaek, dan Cheongju yang terbuka untuk pendaftar nasional mencatat minat tinggi tahun lalu, pasokan tanpa batas domisili kembali menarik perhatian.",
-        "body": "Di pasar prapenjualan hunian Korea Selatan belakangan ini, permintaan langganan terkonsentrasi di sejumlah wilayah, sementara kompleks yang terbuka bagi pendaftar dari seluruh negeri tanpa batas domisili mendapat perhatian. Menurut teks asli, tahun lalu kompleks dengan langganan nasional di Sejong, Pyeongtaek, dan Cheongju mencatat hasil yang kuat. Dalam tren tersebut, pasokan Hoban Summit Cheomdan District 3 dijadwalkan pada Juni, sehingga minat terhadap permintaan terkait terus berlanjut. Unit yang memungkinkan siapa pun di seluruh negeri mengajukan prioritas pertama menonjol karena menurunkan hambatan terkait syarat domisili. Namun, syarat dan jadwal sebenarnya perlu diperiksa pada pengumuman resmi masing-masing kompleks. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "54ce517cd939",
-    "slug": "흥행-보증-민간참여-공공분양-올해-11만-가구-풀린다-736831",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:53:41.575Z",
-    "updatedAt": "2026-05-08T01:53:41.575Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040879",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040879",
-    "titleFingerprint": "cd653b5cdb005b59c24f05a04da0976ea364a65e",
-    "dedupKeys": [
-      "54ce517cd939fd4727e3b7774651c28ce506e842",
-      "cd653b5cdb005b59c24f05a04da0976ea364a65e",
-      "8aef235191d76d1e9aa7173b17dcf0d4fb1c9e4c"
-    ],
-    "imageUrl": "/images/articles/54ce517cd939.png",
-    "i18n": {
-      "ko": {
-        "title": "민간참여 공공분양 아파트 올해 1만1000여 가구 공급 예정",
-        "excerpt": "가격 경쟁력과 상품성을 갖춘 민간참여 공공분양 아파트가 올해 전국에서 1만1000여 가구 공급될 예정이라고 8일 LH가 밝혔다.",
-        "body": "가격 경쟁력과 상품성을 갖춘 민간참여 공공분양 아파트가 올해 전국에 1만1000여 가구 공급될 예정이다. 8일 한국토지주택공사(LH)에 따르면 지난달 기준 올해 전국에 공급 예정된 공공분양 물량 가운데 민간참여 방식 아파트가 포함됐다. 민간참여 공공분양은 공공이 공급 기반을 마련하고 민간의 시공·상품 기획 역량이 더해지는 형태로, 수요자에게 가격 경쟁력과 상품성을 함께 갖춘 선택지로 주목받아 왔다. 올해 예정 물량은 공공분양 시장에서 실수요자의 관심을 끌 수 있는 공급으로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Public-Private Public Housing Sales to Add About 11,000 Homes This Year",
-        "excerpt": "LH said on the 8th that about 11,000 public-private public housing sale units with price competitiveness and product quality are scheduled nationwide this year.",
-        "body": "Public-private public housing sale apartments with price competitiveness and solid product quality are expected to supply about 11,000 homes nationwide this year. According to Korea Land and Housing Corporation (LH) on the 8th, as of last month, public housing sale units scheduled across the country this year include apartments developed through private-sector participation. This model combines a public supply base with private construction and product-planning capabilities, drawing attention as an option that offers both affordability and quality. The planned volume is expected to attract end-user interest in the public housing sale market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "民間参加型公共分譲マンション、今年約1万1000戸を供給へ",
-        "excerpt": "価格競争力と商品性を備えた民間参加型公共分譲マンションが、今年全国で約1万1000戸供給される予定だとLHが8日に明らかにした。",
-        "body": "価格競争力と商品性を備えた民間参加型公共分譲マンションが、今年全国で約1万1000戸供給される見通しだ。8日、韓国土地住宅公社（LH）によると、先月時点で今年全国に供給予定の公共分譲物量の中に、民間参加方式のマンションが含まれている。民間参加型公共分譲は、公共が供給基盤を整え、民間の施工力や商品企画力を加える形で、需要者に価格競争力と商品性を兼ね備えた選択肢として注目されてきた。今年予定されている物量は、公共分譲市場で実需層の関心を集める供給と評価される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "民间参与型公共分售公寓今年预计供应约1.1万套",
-        "excerpt": "LH于8日表示，具备价格竞争力和产品品质的民间参与型公共分售公寓今年将在韩国全国供应约1.1万套。",
-        "body": "具备价格竞争力和产品品质的民间参与型公共分售公寓，今年预计将在韩国全国供应约1.1万套。韩国土地住宅公社（LH）8日表示，以截至上月的统计为准，今年全国计划供应的公共分售房源中包含民间参与方式公寓。民间参与型公共分售由公共部门奠定供应基础，并结合民间企业的施工和产品策划能力，因此一直被视为兼具价格竞争力与产品品质的选择。今年计划供应的房源，有望在公共分售市场吸引实际购房需求者关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Vivienda pública con participación privada sumará unas 11.000 unidades este año",
-        "excerpt": "LH informó el día 8 que los apartamentos de venta pública con participación privada, competitivos en precio y calidad, sumarán unas 11.000 unidades este año.",
-        "body": "Los apartamentos de venta pública con participación privada, con competitividad de precio y calidad de producto, prevén aportar unas 11.000 unidades en todo el país este año. Según Korea Land and Housing Corporation (LH) el día 8, con datos hasta el mes pasado, entre la oferta de vivienda pública programada a nivel nacional para este año se incluyen apartamentos bajo el modelo de participación privada. Este esquema combina una base de suministro pública con capacidades privadas de construcción y planificación de producto, por lo que ha llamado la atención como una opción que reúne precio competitivo y calidad. El volumen previsto podría atraer el interés de compradores finales en el mercado de venta pública. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Habitação pública com participação privada terá cerca de 11 mil unidades neste ano",
-        "excerpt": "A LH informou no dia 8 que apartamentos públicos com participação privada, competitivos em preço e qualidade, devem somar cerca de 11 mil unidades neste ano.",
-        "body": "Apartamentos de venda pública com participação privada, dotados de competitividade de preço e qualidade de produto, devem somar cerca de 11 mil unidades em todo o país neste ano. Segundo a Korea Land and Housing Corporation (LH) no dia 8, com base nos dados até o mês passado, a oferta pública programada nacionalmente para este ano inclui apartamentos no modelo de participação privada. Esse formato combina uma base pública de fornecimento com capacidades privadas de construção e planejamento de produto, chamando atenção como opção que reúne preço competitivo e qualidade. O volume previsto tende a despertar interesse de compradores finais no mercado de venda pública. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Öffentlich geförderte Wohnungen mit Privatbeteiligung: rund 11.000 Einheiten geplant",
-        "excerpt": "LH teilte am 8. mit, dass landesweit rund 11.000 öffentlich verkaufte Wohnungen mit Privatbeteiligung und wettbewerbsfähigem Preis-Leistungs-Profil geplant sind.",
-        "body": "Öffentlich verkaufte Wohnungen mit Privatbeteiligung, die Preiswettbewerbsfähigkeit und Produktqualität verbinden, sollen in diesem Jahr landesweit rund 11.000 Einheiten umfassen. Nach Angaben der Korea Land and Housing Corporation (LH) vom 8. sind in den bis zum vergangenen Monat erfassten öffentlichen Verkaufsplänen für dieses Jahr auch Wohnungen im Modell der privaten Beteiligung enthalten. Dabei schafft die öffentliche Hand die Versorgungsbasis, während private Bau- und Produktplanungskompetenz hinzukommt. Das Modell gilt daher als Option mit Preisvorteil und Qualität. Die geplante Menge dürfte im Markt für öffentliche Wohnungsverkäufe das Interesse von Eigennutzern wecken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Logements publics avec participation privée : environ 11 000 unités prévues cette année",
-        "excerpt": "LH a indiqué le 8 que des appartements publics avec participation privée, compétitifs en prix et en qualité, devraient totaliser environ 11 000 unités cette année.",
-        "body": "Des appartements de vente publique avec participation privée, associant compétitivité des prix et qualité du produit, devraient être fournis à hauteur d’environ 11 000 unités dans tout le pays cette année. Selon Korea Land and Housing Corporation (LH) le 8, sur la base des données disponibles le mois dernier, les volumes de vente publique prévus cette année incluent des appartements réalisés avec participation privée. Ce modèle combine une base d’offre publique avec les capacités privées de construction et de conception du produit, ce qui en fait une option remarquée pour son prix et sa qualité. Le volume prévu devrait attirer l’attention des acheteurs finaux sur le marché de la vente publique. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "شقق البيع العام بمشاركة القطاع الخاص تضيف نحو 11 ألف وحدة هذا العام",
-        "excerpt": "أعلنت LH في الثامن أن شقق البيع العام بمشاركة القطاع الخاص، ذات القدرة السعرية التنافسية وجودة المنتج، ستطرح نحو 11 ألف وحدة في أنحاء البلاد هذا العام.",
-        "body": "من المتوقع أن يتم توريد نحو 11 ألف شقة من شقق البيع العام بمشاركة القطاع الخاص في أنحاء كوريا هذا العام، وهي شقق تتمتع بقدرة سعرية تنافسية وجودة في المنتج. ووفق ما ذكرته مؤسسة الأراضي والإسكان الكورية (LH) في الثامن، وبحسب البيانات المتاحة حتى الشهر الماضي، تشمل كميات البيع العام المخطط طرحها هذا العام شققا بنظام مشاركة القطاع الخاص. يقوم هذا النموذج على توفير القطاع العام قاعدة العرض، مع إضافة قدرات القطاع الخاص في البناء وتخطيط المنتج، لذلك حظي بالاهتمام كخيار يجمع بين السعر التنافسي والجودة. ومن المتوقع أن يجذب حجم الطرح المقرر اهتمام المشترين الفعليين في سوق البيع العام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "निजी भागीदारी वाली सार्वजनिक आवास बिक्री में इस साल करीब 11,000 घर",
-        "excerpt": "LH ने 8 तारीख को बताया कि कीमत प्रतिस्पर्धा और उत्पाद गुणवत्ता वाले निजी भागीदारी सार्वजनिक बिक्री अपार्टमेंट इस साल देशभर में करीब 11,000 इकाइयों में आएंगे।",
-        "body": "कीमत प्रतिस्पर्धा और उत्पाद गुणवत्ता वाले निजी भागीदारी सार्वजनिक बिक्री अपार्टमेंट इस साल पूरे देश में करीब 11,000 इकाइयों की आपूर्ति करने वाले हैं। Korea Land and Housing Corporation (LH) ने 8 तारीख को बताया कि पिछले महीने तक के आधार पर, इस साल देशभर में निर्धारित सार्वजनिक बिक्री आपूर्ति में निजी भागीदारी मॉडल के अपार्टमेंट शामिल हैं। इस मॉडल में सार्वजनिक क्षेत्र आपूर्ति का आधार तैयार करता है और निजी क्षेत्र की निर्माण तथा उत्पाद योजना क्षमता जुड़ती है। इसलिए इसे कीमत प्रतिस्पर्धा और गुणवत्ता दोनों रखने वाले विकल्प के रूप में देखा गया है। इस साल की नियोजित आपूर्ति सार्वजनिक बिक्री बाजार में वास्तविक खरीदारों का ध्यान खींच सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Apartemen Publik Partisipasi Swasta Tahun Ini Siapkan Sekitar 11.000 Unit",
-        "excerpt": "LH menyatakan pada tanggal 8 bahwa apartemen penjualan publik dengan partisipasi swasta, yang unggul dari sisi harga dan kualitas, akan dipasok sekitar 11.000 unit tahun ini.",
-        "body": "Apartemen penjualan publik dengan partisipasi swasta, yang memiliki daya saing harga dan kualitas produk, diperkirakan akan dipasok sekitar 11.000 unit secara nasional tahun ini. Menurut Korea Land and Housing Corporation (LH) pada tanggal 8, berdasarkan data hingga bulan lalu, pasokan penjualan publik yang dijadwalkan tahun ini mencakup apartemen dengan skema partisipasi swasta. Model ini menggabungkan basis pasokan dari sektor publik dengan kemampuan konstruksi dan perencanaan produk dari sektor swasta, sehingga menarik perhatian sebagai pilihan yang menawarkan harga kompetitif sekaligus kualitas. Volume yang direncanakan tahun ini dinilai dapat menarik minat pengguna akhir di pasar penjualan publik. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7c53e90fd587",
-    "slug": "비규제지역-풍선효과구리-아파트-거래량-4배-늘었다-930342",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T01:52:37.774Z",
-    "updatedAt": "2026-05-08T01:52:37.775Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040881",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040881",
-    "titleFingerprint": "3bc860c1caf68cc8a52c4e53db7f60e1c7c55dd8",
-    "dedupKeys": [
-      "7c53e90fd587354ca4b449e89518e1d98fca22e0",
-      "3bc860c1caf68cc8a52c4e53db7f60e1c7c55dd8",
-      "368b0a6b699b652fce92f920f039048f53ce5256"
-    ],
-    "imageUrl": "/images/articles/7c53e90fd587.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비규제지역 풍선효과 뚜렷…구리 아파트 거래량 4배 증가",
-        "excerpt": "2025년 10·15 대책 이후 수도권 규제지역의 주택 수요가 비규제지역으로 이동하면서 구리 아파트 거래량이 4배 늘어난 것으로 분석됐다.",
-        "body": "2025년 10·15 대책으로 수도권 일부 지역의 주택 규제가 강화된 뒤, 주택 수요가 상대적으로 규제가 덜한 비규제지역으로 옮겨간 것으로 분석됐다. 특히 구리 아파트 거래량은 4배 늘며 이른바 풍선효과가 나타난 사례로 거론됐다. 비규제지역은 대출과 전매 요건이 비교적 여유롭고, 실거주 의무 부담도 규제지역보다 낮아 수요자 관심이 이동한 것으로 풀이된다. 규제 강화가 특정 지역 수요를 억제하는 동시에 인접 비규제지역 거래를 자극할 수 있다는 점에서 시장 흐름에 대한 주의가 요구된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Non-Regulated Area Effect Grows as Guri Apartment Deals Quadruple",
-        "excerpt": "After the Oct. 15 measures in 2025 tightened housing rules in parts of the Seoul metro area, demand shifted to non-regulated zones and Guri apartment transactions quadrupled.",
-        "body": "After the Oct. 15 measures in 2025 strengthened housing regulations in parts of the Seoul metropolitan area, housing demand appears to have moved toward non-regulated areas. Guri was cited as a clear example, with apartment transaction volume increasing fourfold. Non-regulated areas have relatively looser loan and resale conditions, and their obligation to live in the purchased home is also less burdensome than in regulated zones. The trend suggests that stronger rules in one area may restrain local demand while encouraging transactions in nearby non-regulated markets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "非規制地域への需要移動鮮明、九里マンション取引量4倍に増加",
-        "excerpt": "2025年10・15対策で首都圏の規制地域の住宅規制が強化され、需要が非規制地域へ移り、九里のマンション取引量は4倍に増えたと分析された。",
-        "body": "2025年10・15対策により首都圏の一部地域で住宅規制が強化された後、住宅需要が相対的に規制の少ない非規制地域へ移動したと分析された。特に九里のマンション取引量は4倍に増え、いわゆる風船効果の事例として挙げられた。非規制地域は融資や転売の条件が比較的緩く、実居住義務の負担も規制地域より低い。規制強化が特定地域の需要を抑える一方、近隣の非規制地域の取引を刺激し得る点で、市場の流れに注意が必要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "非管制地区虹吸效应显现，九里公寓交易量增至4倍",
-        "excerpt": "2025年10·15对策后，首都圈受管制地区住房需求转向非管制地区，九里公寓交易量被分析为增加至4倍。",
-        "body": "2025年10·15对策使首都圈部分地区住房管制加强后，住房需求被分析为转向管制相对较少的非管制地区。九里公寓交易量增加至4倍，被视为所谓虹吸效应的案例。非管制地区在贷款和转售条件上相对宽松，实际居住义务负担也低于管制地区，因此吸引了购房需求。该趋势显示，监管强化在抑制特定地区需求的同时，也可能刺激邻近非管制地区交易，市场走向仍需关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Efecto globo en zonas no reguladas: ventas de apartamentos en Guri se cuadruplican",
-        "excerpt": "Tras las medidas del 15 de octubre de 2025, la demanda de vivienda del área metropolitana regulada se desplazó a zonas no reguladas y las operaciones en Guri se cuadruplicaron.",
-        "body": "Después de que las medidas del 15 de octubre de 2025 reforzaran la regulación de vivienda en algunas zonas del área metropolitana de Seúl, la demanda parece haberse trasladado a áreas no reguladas. Guri fue señalado como un caso claro, con un volumen de transacciones de apartamentos cuatro veces mayor. En las zonas no reguladas, las condiciones de préstamo y reventa son relativamente más flexibles, y la obligación de residencia efectiva pesa menos que en las áreas reguladas. La tendencia muestra que endurecer reglas en una zona puede contener su demanda, pero también estimular operaciones en mercados no regulados cercanos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Efeito balão em áreas não reguladas: negócios de apartamentos em Guri quadruplicam",
-        "excerpt": "Após as medidas de 15 de outubro de 2025, a demanda por moradias em áreas reguladas da região metropolitana migrou para zonas não reguladas, e Guri viu negócios quadruplicarem.",
-        "body": "Depois que as medidas de 15 de outubro de 2025 reforçaram as regras habitacionais em partes da região metropolitana de Seul, a demanda por moradias parece ter se deslocado para áreas não reguladas. Guri foi citado como exemplo, com o volume de transações de apartamentos aumentando quatro vezes. Nessas áreas, as condições de empréstimo e revenda são relativamente mais flexíveis, e a obrigação de residência real é menor que nas zonas reguladas. O movimento indica que regras mais rígidas podem conter a demanda local, mas estimular negócios em mercados não regulados próximos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Balloneffekt in unregulierten Gebieten: Wohnungsverkäufe in Guri vervierfacht",
-        "excerpt": "Nach den Maßnahmen vom 15. Oktober 2025 verlagerte sich Wohnungsnachfrage aus regulierten Teilen des Großraums Seoul in unregulierte Gebiete; in Guri vervierfachten sich die Transaktionen.",
-        "body": "Nach den Maßnahmen vom 15. Oktober 2025 wurden die Wohnungsregeln in Teilen des Großraums Seoul verschärft. Daraufhin verlagerte sich die Nachfrage offenbar in weniger regulierte Gebiete. Guri wurde als Beispiel genannt: Dort stieg das Transaktionsvolumen bei Apartments auf das Vierfache. In unregulierten Gebieten sind Kredit- und Weiterverkaufsbedingungen vergleichsweise lockerer, zudem ist die Pflicht zur tatsächlichen Eigennutzung weniger belastend als in regulierten Zonen. Der Trend zeigt, dass strengere Regeln lokale Nachfrage dämpfen, zugleich aber Geschäfte in nahen unregulierten Märkten anregen können. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Effet de report vers les zones non régulées: les ventes d’appartements à Guri quadruplent",
-        "excerpt": "Après les mesures du 15 octobre 2025, la demande de logements dans les zones régulées de la région de Séoul s’est déplacée vers les zones non régulées, et Guri a vu ses transactions quadrupler.",
-        "body": "Après le renforcement des règles immobilières dans certaines parties de la région métropolitaine de Séoul à la suite des mesures du 15 octobre 2025, la demande de logements semble s’être déplacée vers des zones moins régulées. Guri a été cité comme exemple, avec un volume de transactions d’appartements multiplié par quatre. Dans les zones non régulées, les conditions de prêt et de revente sont relativement plus souples, et l’obligation de résidence effective est moins lourde que dans les zones régulées. Cette évolution montre qu’un durcissement local peut freiner la demande sur place tout en stimulant les marchés non régulés voisins. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تأثير الانتقال إلى المناطق غير المنظمة يظهر بوضوح ومعاملات شقق غوري تتضاعف 4 مرات",
-        "excerpt": "بعد إجراءات 15 أكتوبر 2025 التي شددت قواعد الإسكان في مناطق من العاصمة الكبرى، انتقل الطلب إلى مناطق غير منظمة وارتفعت معاملات شقق غوري أربعة أضعاف.",
-        "body": "بعد أن عززت إجراءات 15 أكتوبر 2025 قواعد الإسكان في بعض مناطق منطقة سيئول الكبرى، جرى تحليل أن الطلب على المساكن انتقل إلى مناطق غير منظمة نسبيا. وذُكرت غوري كمثال واضح، إذ زاد حجم معاملات الشقق فيها أربعة أضعاف. وتتمتع المناطق غير المنظمة بشروط أكثر مرونة نسبيا في القروض وإعادة البيع، كما أن عبء الالتزام بالسكن الفعلي فيها أقل من المناطق المنظمة. ويشير هذا الاتجاه إلى أن تشديد القواعد في منطقة معينة قد يحد الطلب المحلي، لكنه قد ينشط المعاملات في مناطق غير منظمة قريبة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गैर-नियंत्रित क्षेत्रों में मांग का असर साफ, गुरी अपार्टमेंट सौदे 4 गुना बढ़े",
-        "excerpt": "2025 की 15 अक्टूबर नीति के बाद सियोल महानगर क्षेत्र के नियंत्रित इलाकों की आवास मांग गैर-नियंत्रित क्षेत्रों में गई और गुरी अपार्टमेंट लेनदेन 4 गुना बढ़े।",
-        "body": "2025 की 15 अक्टूबर नीति के तहत सियोल महानगर क्षेत्र के कुछ इलाकों में आवास नियम कड़े होने के बाद मांग अपेक्षाकृत कम नियंत्रित क्षेत्रों की ओर जाने का विश्लेषण किया गया। गुरी इसका प्रमुख उदाहरण रहा, जहां अपार्टमेंट लेनदेन की मात्रा चार गुना बढ़ी। गैर-नियंत्रित क्षेत्रों में ऋण और पुनर्विक्रय की शर्तें अपेक्षाकृत ढीली हैं, और वास्तविक निवास की अनिवार्यता का बोझ भी नियंत्रित क्षेत्रों से कम है। यह रुझान दिखाता है कि किसी क्षेत्र में नियम कड़े करने से वहां मांग घट सकती है, लेकिन पास के गैर-नियंत्रित बाजारों में लेनदेन बढ़ सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Efek Balon Area Non-Regulasi Terlihat, Transaksi Apartemen Guri Naik 4 Kali",
-        "excerpt": "Setelah kebijakan 15 Oktober 2025 memperketat aturan hunian di wilayah metropolitan Seoul, permintaan bergeser ke area non-regulasi dan transaksi apartemen Guri naik 4 kali.",
-        "body": "Setelah kebijakan 15 Oktober 2025 memperketat regulasi perumahan di sebagian wilayah metropolitan Seoul, permintaan hunian dianalisis bergeser ke area yang relatif tidak diatur. Guri disebut sebagai contoh utama, dengan volume transaksi apartemen meningkat empat kali lipat. Area non-regulasi memiliki ketentuan pinjaman dan penjualan kembali yang relatif lebih longgar, serta beban kewajiban tinggal langsung yang lebih rendah dibanding area regulasi. Tren ini menunjukkan bahwa pengetatan aturan di satu wilayah dapat menekan permintaan setempat, sekaligus mendorong transaksi di pasar non-regulasi terdekat. Sumber: mk.co.kr"
       }
     }
   }
