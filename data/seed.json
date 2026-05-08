@@ -1,5 +1,230 @@
 [
   {
+    "id": "e39b9a841c5c",
+    "slug": "전국-누구나-1순위-청약거주지-제한-없는-공급-물량-보니-489456",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T01:54:41.375Z",
+    "updatedAt": "2026-05-08T01:54:41.375Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040852",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040852",
+    "titleFingerprint": "7305fd0c547d5bd9fe96f88a2ef224d2a22d3206",
+    "dedupKeys": [
+      "e39b9a841c5c458d61d9d09911bf39ec1e192fc2",
+      "7305fd0c547d5bd9fe96f88a2ef224d2a22d3206",
+      "b923b507f7bd565000b64b303f63e72602435b6e"
+    ],
+    "imageUrl": "/images/articles/e39b9a841c5c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전국 1순위 청약 가능 단지 주목…거주지 제한 없는 공급 물량은",
+        "excerpt": "지난해 세종·평택·청주 등에서 전국 청약 단지가 흥행한 가운데, 거주지 제한이 없는 공급 물량이 일부 지역 집중 청약 수요 속에서 다시 관심을 받고 있다.",
+        "body": "최근 분양 시장에서 청약 수요가 일부 지역에 집중되는 가운데, 거주지 제한을 받지 않는 ‘전국 청약’ 단지가 수요자들의 관심을 받고 있다. 원문에 따르면 지난해 세종·평택·청주 등 전국 청약이 가능한 단지들이 청약 흥행을 기록했다. 이러한 흐름 속에서 6월에는 호반써밋 첨단3지구 공급이 예정돼 있어 관련 청약 수요의 관심이 이어지고 있다. 전국 누구나 1순위 청약이 가능한 물량은 거주 요건에 따른 진입 장벽이 낮다는 점에서 주목된다. 다만 실제 청약 조건과 일정은 단지별 모집공고 확인이 필요하다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Nationwide First-Priority Housing Subscriptions Draw Attention as Residency Limits Ease",
+        "excerpt": "After nationwide subscription complexes in Sejong, Pyeongtaek and Cheongju performed strongly last year, supply without residency limits is again drawing attention amid concentrated demand.",
+        "body": "As demand in South Korea’s new-home subscription market has recently been concentrated in certain regions, complexes open to applicants nationwide without residency restrictions are drawing renewed attention. According to the source, nationwide subscription complexes in Sejong, Pyeongtaek and Cheongju recorded strong results last year. Against this backdrop, supply at Hoban Summit Cheomdan District 3 is scheduled for June, keeping related subscription demand in focus. Units open to first-priority applicants from across the country are notable because they lower entry barriers tied to residence requirements. However, applicants should check each complex’s official notice for exact conditions and schedules. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "全国から1順位申込み可能な団地に注目、居住地制限なしの供給とは",
+        "excerpt": "昨年、世宗・平沢・清州などで全国申込み可能な団地が好調だった中、居住地制限のない供給物件が一部地域に集中する需要の中で再び注目されている。",
+        "body": "最近の韓国分譲市場では、申込み需要が一部地域に集中するなか、居住地制限を受けない「全国申込み」可能な団地が需要者の関心を集めている。原文によると、昨年は世宗、平沢、清州などで全国から申込み可能な団地が好調な申込み結果を記録した。こうした流れの中、6月にはホバンサミット尖端3地区の供給が予定されており、関連する申込み需要への関心が続いている。全国の誰でも1順位申込みが可能な物件は、居住要件による参入障壁が低い点で注目される。ただし、実際の条件や日程は団地別の募集公告を確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全国一顺位认购楼盘受关注，无居住地限制供应量成焦点",
+        "excerpt": "去年世宗、平泽、清州等全国认购楼盘表现火热，在认购需求集中于部分地区的背景下，不受居住地限制的供应再次受到关注。",
+        "body": "近期韩国新房认购市场中，认购需求集中在部分地区，不受居住地限制、面向全国认购的楼盘正受到购房者关注。根据原文，去年世宗、平泽、清州等地可全国认购的楼盘取得了较好的认购成绩。在这一趋势下，6月将供应Hoban Summit尖端3地区项目，相关认购需求的关注度仍在延续。全国任何人都可按一顺位申请的供应量，因降低了居住条件带来的进入门槛而受到关注。不过，实际认购条件和日程仍需以各楼盘募集公告为准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Viviendas con suscripción nacional de primera prioridad ganan atención sin límite de residencia",
+        "excerpt": "Tras el buen desempeño de complejos abiertos a todo el país en Sejong, Pyeongtaek y Cheongju el año pasado, la oferta sin restricción residencial vuelve a atraer interés.",
+        "body": "En el reciente mercado surcoreano de preventa de viviendas, la demanda de suscripción se concentra en algunas zonas, y los complejos abiertos a solicitantes de todo el país sin restricciones de residencia están recibiendo atención. Según el texto original, el año pasado los complejos con suscripción nacional en Sejong, Pyeongtaek y Cheongju registraron buenos resultados. En este contexto, para junio está prevista la oferta de Hoban Summit Cheomdan Distrito 3, lo que mantiene el interés de la demanda relacionada. Las unidades en las que cualquier persona del país puede solicitar con primera prioridad destacan porque reducen la barrera ligada al lugar de residencia. Aun así, las condiciones y fechas concretas deben verificarse en el anuncio de cada complejo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Imóveis com subscrição nacional em 1ª prioridade atraem atenção sem limite de residência",
+        "excerpt": "Após bons resultados de complexos abertos a todo o país em Sejong, Pyeongtaek e Cheongju no ano passado, ofertas sem restrição de residência voltam ao foco.",
+        "body": "No recente mercado sul-coreano de pré-venda imobiliária, a demanda por subscrições tem se concentrado em algumas regiões, enquanto complexos abertos a candidatos de todo o país, sem restrições de residência, ganham atenção. Segundo o texto original, no ano passado os empreendimentos com subscrição nacional em Sejong, Pyeongtaek e Cheongju registraram forte desempenho. Nesse contexto, a oferta do Hoban Summit Cheomdan Distrito 3 está prevista para junho, mantendo o interesse da demanda relacionada. Unidades nas quais qualquer pessoa do país pode se candidatar em 1ª prioridade chamam atenção por reduzir barreiras ligadas ao requisito de residência. As condições e datas exatas devem ser conferidas no edital de cada complexo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Landesweite Erstprioritäts-Bewerbung rückt in den Fokus: Angebote ohne Wohnsitzgrenze",
+        "excerpt": "Nach starkem Interesse an landesweit offenen Wohnprojekten in Sejong, Pyeongtaek und Cheongju im Vorjahr gewinnen Angebote ohne Wohnsitzbeschränkung erneut Aufmerksamkeit.",
+        "body": "Im südkoreanischen Markt für neue Wohnungsangebote konzentriert sich die Nachfrage nach Bewerbungen zuletzt auf bestimmte Regionen. Gleichzeitig rücken Anlagen in den Fokus, bei denen sich Interessenten landesweit ohne Wohnsitzbeschränkung bewerben können. Laut Ausgangstext erzielten solche Projekte im vergangenen Jahr in Sejong, Pyeongtaek und Cheongju starke Bewerbungsergebnisse. Vor diesem Hintergrund ist im Juni die Versorgung des Hoban Summit Cheomdan District 3 geplant, wodurch das Interesse an entsprechenden Bewerbungen anhält. Angebote, bei denen landesweit eine Bewerbung mit erster Priorität möglich ist, fallen auf, weil sie Hürden durch Wohnsitzanforderungen senken. Die genauen Bedingungen und Termine sollten jedoch in der jeweiligen Ausschreibung geprüft werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les logements ouverts en priorité nationale attirent l’attention sans limite de résidence",
+        "excerpt": "Après le succès de programmes ouverts à tout le pays à Sejong, Pyeongtaek et Cheongju l’an dernier, l’offre sans restriction de résidence suscite de nouveau l’intérêt.",
+        "body": "Sur le marché sud-coréen récent des logements neufs, la demande de souscription se concentre dans certaines régions, tandis que les programmes accessibles à l’échelle nationale sans restriction de résidence attirent l’attention. Selon le texte original, des complexes ouverts aux candidatures nationales à Sejong, Pyeongtaek et Cheongju ont enregistré de bons résultats l’an dernier. Dans ce contexte, l’offre de Hoban Summit Cheomdan District 3 est prévue en juin, maintenant l’intérêt des candidats concernés. Les logements pour lesquels toute personne du pays peut déposer une demande en première priorité se distinguent par une barrière d’entrée plus faible liée au lieu de résidence. Les conditions et calendriers précis doivent toutefois être vérifiés dans l’avis de chaque programme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مشروعات الاكتتاب السكني بالأولوية الأولى على مستوى كوريا تجذب الاهتمام دون قيود إقامة",
+        "excerpt": "بعد نجاح مشروعات مفتوحة للاكتتاب على مستوى البلاد في سيجونغ وبيونغتايك وتشونغجو العام الماضي، تعود الإمدادات غير المقيدة بمحل الإقامة إلى دائرة الاهتمام.",
+        "body": "في سوق الطرح السكني الحديث في كوريا الجنوبية، تتركز طلبات الاكتتاب في بعض المناطق، بينما تحظى المشروعات المفتوحة للمتقدمين من جميع أنحاء البلاد من دون قيود على محل الإقامة باهتمام متزايد. ووفق النص الأصلي، سجلت مشروعات الاكتتاب الوطني في سيجونغ وبيونغتايك وتشونغجو نتائج قوية العام الماضي. وفي هذا السياق، من المقرر طرح مشروع Hoban Summit Cheomdan District 3 في يونيو، ما يبقي اهتمام الطلب المرتبط به مستمرا. وتبرز الوحدات التي تتيح لأي شخص في البلاد التقدم بالأولوية الأولى لأنها تخفض عائق شروط الإقامة. ومع ذلك، يجب مراجعة إعلان كل مشروع لمعرفة الشروط والمواعيد الفعلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "देशभर से प्रथम-प्राथमिकता हाउसिंग आवेदन वाले प्रोजेक्ट चर्चा में, निवास सीमा नहीं",
+        "excerpt": "पिछले साल सेजोंग, प्योंगटेक और चेओंगजू में देशव्यापी आवेदन वाले प्रोजेक्ट सफल रहे; अब सीमित क्षेत्रों में मांग केंद्रित होने के बीच बिना निवास प्रतिबंध की आपूर्ति फिर ध्यान खींच रही है।",
+        "body": "दक्षिण कोरिया के हालिया आवासीय प्री-सेल बाजार में आवेदन मांग कुछ क्षेत्रों में केंद्रित हो रही है। इसी बीच ऐसे प्रोजेक्ट ध्यान में हैं जिनमें निवास-स्थान की पाबंदी के बिना देशभर से आवेदन किया जा सकता है। मूल स्रोत के अनुसार, पिछले साल सेजोंग, प्योंगटेक और चेओंगजू जैसे क्षेत्रों में देशव्यापी आवेदन योग्य प्रोजेक्टों ने मजबूत परिणाम दर्ज किए। इसी प्रवृत्ति के बीच जून में Hoban Summit Cheomdan District 3 की आपूर्ति प्रस्तावित है, जिससे संबंधित आवेदन मांग पर ध्यान बना हुआ है। देश में कोई भी व्यक्ति प्रथम प्राथमिकता से आवेदन कर सके, ऐसी इकाइयां निवास शर्तों से जुड़ी प्रवेश बाधा कम होने के कारण उल्लेखनीय हैं। वास्तविक शर्तें और तारीखें प्रत्येक प्रोजेक्ट की आधिकारिक सूचना में जांचनी होंगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Unit Langganan Prioritas Pertama Nasional Disorot, Tanpa Batas Domisili",
+        "excerpt": "Setelah kompleks di Sejong, Pyeongtaek, dan Cheongju yang terbuka untuk pendaftar nasional mencatat minat tinggi tahun lalu, pasokan tanpa batas domisili kembali menarik perhatian.",
+        "body": "Di pasar prapenjualan hunian Korea Selatan belakangan ini, permintaan langganan terkonsentrasi di sejumlah wilayah, sementara kompleks yang terbuka bagi pendaftar dari seluruh negeri tanpa batas domisili mendapat perhatian. Menurut teks asli, tahun lalu kompleks dengan langganan nasional di Sejong, Pyeongtaek, dan Cheongju mencatat hasil yang kuat. Dalam tren tersebut, pasokan Hoban Summit Cheomdan District 3 dijadwalkan pada Juni, sehingga minat terhadap permintaan terkait terus berlanjut. Unit yang memungkinkan siapa pun di seluruh negeri mengajukan prioritas pertama menonjol karena menurunkan hambatan terkait syarat domisili. Namun, syarat dan jadwal sebenarnya perlu diperiksa pada pengumuman resmi masing-masing kompleks. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "54ce517cd939",
+    "slug": "흥행-보증-민간참여-공공분양-올해-11만-가구-풀린다-736831",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T01:53:41.575Z",
+    "updatedAt": "2026-05-08T01:53:41.575Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040879",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040879",
+    "titleFingerprint": "cd653b5cdb005b59c24f05a04da0976ea364a65e",
+    "dedupKeys": [
+      "54ce517cd939fd4727e3b7774651c28ce506e842",
+      "cd653b5cdb005b59c24f05a04da0976ea364a65e",
+      "8aef235191d76d1e9aa7173b17dcf0d4fb1c9e4c"
+    ],
+    "imageUrl": "/images/articles/54ce517cd939.png",
+    "i18n": {
+      "ko": {
+        "title": "민간참여 공공분양 아파트 올해 1만1000여 가구 공급 예정",
+        "excerpt": "가격 경쟁력과 상품성을 갖춘 민간참여 공공분양 아파트가 올해 전국에서 1만1000여 가구 공급될 예정이라고 8일 LH가 밝혔다.",
+        "body": "가격 경쟁력과 상품성을 갖춘 민간참여 공공분양 아파트가 올해 전국에 1만1000여 가구 공급될 예정이다. 8일 한국토지주택공사(LH)에 따르면 지난달 기준 올해 전국에 공급 예정된 공공분양 물량 가운데 민간참여 방식 아파트가 포함됐다. 민간참여 공공분양은 공공이 공급 기반을 마련하고 민간의 시공·상품 기획 역량이 더해지는 형태로, 수요자에게 가격 경쟁력과 상품성을 함께 갖춘 선택지로 주목받아 왔다. 올해 예정 물량은 공공분양 시장에서 실수요자의 관심을 끌 수 있는 공급으로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Public-Private Public Housing Sales to Add About 11,000 Homes This Year",
+        "excerpt": "LH said on the 8th that about 11,000 public-private public housing sale units with price competitiveness and product quality are scheduled nationwide this year.",
+        "body": "Public-private public housing sale apartments with price competitiveness and solid product quality are expected to supply about 11,000 homes nationwide this year. According to Korea Land and Housing Corporation (LH) on the 8th, as of last month, public housing sale units scheduled across the country this year include apartments developed through private-sector participation. This model combines a public supply base with private construction and product-planning capabilities, drawing attention as an option that offers both affordability and quality. The planned volume is expected to attract end-user interest in the public housing sale market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "民間参加型公共分譲マンション、今年約1万1000戸を供給へ",
+        "excerpt": "価格競争力と商品性を備えた民間参加型公共分譲マンションが、今年全国で約1万1000戸供給される予定だとLHが8日に明らかにした。",
+        "body": "価格競争力と商品性を備えた民間参加型公共分譲マンションが、今年全国で約1万1000戸供給される見通しだ。8日、韓国土地住宅公社（LH）によると、先月時点で今年全国に供給予定の公共分譲物量の中に、民間参加方式のマンションが含まれている。民間参加型公共分譲は、公共が供給基盤を整え、民間の施工力や商品企画力を加える形で、需要者に価格競争力と商品性を兼ね備えた選択肢として注目されてきた。今年予定されている物量は、公共分譲市場で実需層の関心を集める供給と評価される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "民间参与型公共分售公寓今年预计供应约1.1万套",
+        "excerpt": "LH于8日表示，具备价格竞争力和产品品质的民间参与型公共分售公寓今年将在韩国全国供应约1.1万套。",
+        "body": "具备价格竞争力和产品品质的民间参与型公共分售公寓，今年预计将在韩国全国供应约1.1万套。韩国土地住宅公社（LH）8日表示，以截至上月的统计为准，今年全国计划供应的公共分售房源中包含民间参与方式公寓。民间参与型公共分售由公共部门奠定供应基础，并结合民间企业的施工和产品策划能力，因此一直被视为兼具价格竞争力与产品品质的选择。今年计划供应的房源，有望在公共分售市场吸引实际购房需求者关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vivienda pública con participación privada sumará unas 11.000 unidades este año",
+        "excerpt": "LH informó el día 8 que los apartamentos de venta pública con participación privada, competitivos en precio y calidad, sumarán unas 11.000 unidades este año.",
+        "body": "Los apartamentos de venta pública con participación privada, con competitividad de precio y calidad de producto, prevén aportar unas 11.000 unidades en todo el país este año. Según Korea Land and Housing Corporation (LH) el día 8, con datos hasta el mes pasado, entre la oferta de vivienda pública programada a nivel nacional para este año se incluyen apartamentos bajo el modelo de participación privada. Este esquema combina una base de suministro pública con capacidades privadas de construcción y planificación de producto, por lo que ha llamado la atención como una opción que reúne precio competitivo y calidad. El volumen previsto podría atraer el interés de compradores finales en el mercado de venta pública. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Habitação pública com participação privada terá cerca de 11 mil unidades neste ano",
+        "excerpt": "A LH informou no dia 8 que apartamentos públicos com participação privada, competitivos em preço e qualidade, devem somar cerca de 11 mil unidades neste ano.",
+        "body": "Apartamentos de venda pública com participação privada, dotados de competitividade de preço e qualidade de produto, devem somar cerca de 11 mil unidades em todo o país neste ano. Segundo a Korea Land and Housing Corporation (LH) no dia 8, com base nos dados até o mês passado, a oferta pública programada nacionalmente para este ano inclui apartamentos no modelo de participação privada. Esse formato combina uma base pública de fornecimento com capacidades privadas de construção e planejamento de produto, chamando atenção como opção que reúne preço competitivo e qualidade. O volume previsto tende a despertar interesse de compradores finais no mercado de venda pública. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Öffentlich geförderte Wohnungen mit Privatbeteiligung: rund 11.000 Einheiten geplant",
+        "excerpt": "LH teilte am 8. mit, dass landesweit rund 11.000 öffentlich verkaufte Wohnungen mit Privatbeteiligung und wettbewerbsfähigem Preis-Leistungs-Profil geplant sind.",
+        "body": "Öffentlich verkaufte Wohnungen mit Privatbeteiligung, die Preiswettbewerbsfähigkeit und Produktqualität verbinden, sollen in diesem Jahr landesweit rund 11.000 Einheiten umfassen. Nach Angaben der Korea Land and Housing Corporation (LH) vom 8. sind in den bis zum vergangenen Monat erfassten öffentlichen Verkaufsplänen für dieses Jahr auch Wohnungen im Modell der privaten Beteiligung enthalten. Dabei schafft die öffentliche Hand die Versorgungsbasis, während private Bau- und Produktplanungskompetenz hinzukommt. Das Modell gilt daher als Option mit Preisvorteil und Qualität. Die geplante Menge dürfte im Markt für öffentliche Wohnungsverkäufe das Interesse von Eigennutzern wecken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Logements publics avec participation privée : environ 11 000 unités prévues cette année",
+        "excerpt": "LH a indiqué le 8 que des appartements publics avec participation privée, compétitifs en prix et en qualité, devraient totaliser environ 11 000 unités cette année.",
+        "body": "Des appartements de vente publique avec participation privée, associant compétitivité des prix et qualité du produit, devraient être fournis à hauteur d’environ 11 000 unités dans tout le pays cette année. Selon Korea Land and Housing Corporation (LH) le 8, sur la base des données disponibles le mois dernier, les volumes de vente publique prévus cette année incluent des appartements réalisés avec participation privée. Ce modèle combine une base d’offre publique avec les capacités privées de construction et de conception du produit, ce qui en fait une option remarquée pour son prix et sa qualité. Le volume prévu devrait attirer l’attention des acheteurs finaux sur le marché de la vente publique. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "شقق البيع العام بمشاركة القطاع الخاص تضيف نحو 11 ألف وحدة هذا العام",
+        "excerpt": "أعلنت LH في الثامن أن شقق البيع العام بمشاركة القطاع الخاص، ذات القدرة السعرية التنافسية وجودة المنتج، ستطرح نحو 11 ألف وحدة في أنحاء البلاد هذا العام.",
+        "body": "من المتوقع أن يتم توريد نحو 11 ألف شقة من شقق البيع العام بمشاركة القطاع الخاص في أنحاء كوريا هذا العام، وهي شقق تتمتع بقدرة سعرية تنافسية وجودة في المنتج. ووفق ما ذكرته مؤسسة الأراضي والإسكان الكورية (LH) في الثامن، وبحسب البيانات المتاحة حتى الشهر الماضي، تشمل كميات البيع العام المخطط طرحها هذا العام شققا بنظام مشاركة القطاع الخاص. يقوم هذا النموذج على توفير القطاع العام قاعدة العرض، مع إضافة قدرات القطاع الخاص في البناء وتخطيط المنتج، لذلك حظي بالاهتمام كخيار يجمع بين السعر التنافسي والجودة. ومن المتوقع أن يجذب حجم الطرح المقرر اهتمام المشترين الفعليين في سوق البيع العام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "निजी भागीदारी वाली सार्वजनिक आवास बिक्री में इस साल करीब 11,000 घर",
+        "excerpt": "LH ने 8 तारीख को बताया कि कीमत प्रतिस्पर्धा और उत्पाद गुणवत्ता वाले निजी भागीदारी सार्वजनिक बिक्री अपार्टमेंट इस साल देशभर में करीब 11,000 इकाइयों में आएंगे।",
+        "body": "कीमत प्रतिस्पर्धा और उत्पाद गुणवत्ता वाले निजी भागीदारी सार्वजनिक बिक्री अपार्टमेंट इस साल पूरे देश में करीब 11,000 इकाइयों की आपूर्ति करने वाले हैं। Korea Land and Housing Corporation (LH) ने 8 तारीख को बताया कि पिछले महीने तक के आधार पर, इस साल देशभर में निर्धारित सार्वजनिक बिक्री आपूर्ति में निजी भागीदारी मॉडल के अपार्टमेंट शामिल हैं। इस मॉडल में सार्वजनिक क्षेत्र आपूर्ति का आधार तैयार करता है और निजी क्षेत्र की निर्माण तथा उत्पाद योजना क्षमता जुड़ती है। इसलिए इसे कीमत प्रतिस्पर्धा और गुणवत्ता दोनों रखने वाले विकल्प के रूप में देखा गया है। इस साल की नियोजित आपूर्ति सार्वजनिक बिक्री बाजार में वास्तविक खरीदारों का ध्यान खींच सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Apartemen Publik Partisipasi Swasta Tahun Ini Siapkan Sekitar 11.000 Unit",
+        "excerpt": "LH menyatakan pada tanggal 8 bahwa apartemen penjualan publik dengan partisipasi swasta, yang unggul dari sisi harga dan kualitas, akan dipasok sekitar 11.000 unit tahun ini.",
+        "body": "Apartemen penjualan publik dengan partisipasi swasta, yang memiliki daya saing harga dan kualitas produk, diperkirakan akan dipasok sekitar 11.000 unit secara nasional tahun ini. Menurut Korea Land and Housing Corporation (LH) pada tanggal 8, berdasarkan data hingga bulan lalu, pasokan penjualan publik yang dijadwalkan tahun ini mencakup apartemen dengan skema partisipasi swasta. Model ini menggabungkan basis pasokan dari sektor publik dengan kemampuan konstruksi dan perencanaan produk dari sektor swasta, sehingga menarik perhatian sebagai pilihan yang menawarkan harga kompetitif sekaligus kualitas. Volume yang direncanakan tahun ini dinilai dapat menarik minat pengguna akhir di pasar penjualan publik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7c53e90fd587",
+    "slug": "비규제지역-풍선효과구리-아파트-거래량-4배-늘었다-930342",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T01:52:37.774Z",
+    "updatedAt": "2026-05-08T01:52:37.775Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040881",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040881",
+    "titleFingerprint": "3bc860c1caf68cc8a52c4e53db7f60e1c7c55dd8",
+    "dedupKeys": [
+      "7c53e90fd587354ca4b449e89518e1d98fca22e0",
+      "3bc860c1caf68cc8a52c4e53db7f60e1c7c55dd8",
+      "368b0a6b699b652fce92f920f039048f53ce5256"
+    ],
+    "imageUrl": "/images/articles/7c53e90fd587.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비규제지역 풍선효과 뚜렷…구리 아파트 거래량 4배 증가",
+        "excerpt": "2025년 10·15 대책 이후 수도권 규제지역의 주택 수요가 비규제지역으로 이동하면서 구리 아파트 거래량이 4배 늘어난 것으로 분석됐다.",
+        "body": "2025년 10·15 대책으로 수도권 일부 지역의 주택 규제가 강화된 뒤, 주택 수요가 상대적으로 규제가 덜한 비규제지역으로 옮겨간 것으로 분석됐다. 특히 구리 아파트 거래량은 4배 늘며 이른바 풍선효과가 나타난 사례로 거론됐다. 비규제지역은 대출과 전매 요건이 비교적 여유롭고, 실거주 의무 부담도 규제지역보다 낮아 수요자 관심이 이동한 것으로 풀이된다. 규제 강화가 특정 지역 수요를 억제하는 동시에 인접 비규제지역 거래를 자극할 수 있다는 점에서 시장 흐름에 대한 주의가 요구된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Non-Regulated Area Effect Grows as Guri Apartment Deals Quadruple",
+        "excerpt": "After the Oct. 15 measures in 2025 tightened housing rules in parts of the Seoul metro area, demand shifted to non-regulated zones and Guri apartment transactions quadrupled.",
+        "body": "After the Oct. 15 measures in 2025 strengthened housing regulations in parts of the Seoul metropolitan area, housing demand appears to have moved toward non-regulated areas. Guri was cited as a clear example, with apartment transaction volume increasing fourfold. Non-regulated areas have relatively looser loan and resale conditions, and their obligation to live in the purchased home is also less burdensome than in regulated zones. The trend suggests that stronger rules in one area may restrain local demand while encouraging transactions in nearby non-regulated markets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "非規制地域への需要移動鮮明、九里マンション取引量4倍に増加",
+        "excerpt": "2025年10・15対策で首都圏の規制地域の住宅規制が強化され、需要が非規制地域へ移り、九里のマンション取引量は4倍に増えたと分析された。",
+        "body": "2025年10・15対策により首都圏の一部地域で住宅規制が強化された後、住宅需要が相対的に規制の少ない非規制地域へ移動したと分析された。特に九里のマンション取引量は4倍に増え、いわゆる風船効果の事例として挙げられた。非規制地域は融資や転売の条件が比較的緩く、実居住義務の負担も規制地域より低い。規制強化が特定地域の需要を抑える一方、近隣の非規制地域の取引を刺激し得る点で、市場の流れに注意が必要だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "非管制地区虹吸效应显现，九里公寓交易量增至4倍",
+        "excerpt": "2025年10·15对策后，首都圈受管制地区住房需求转向非管制地区，九里公寓交易量被分析为增加至4倍。",
+        "body": "2025年10·15对策使首都圈部分地区住房管制加强后，住房需求被分析为转向管制相对较少的非管制地区。九里公寓交易量增加至4倍，被视为所谓虹吸效应的案例。非管制地区在贷款和转售条件上相对宽松，实际居住义务负担也低于管制地区，因此吸引了购房需求。该趋势显示，监管强化在抑制特定地区需求的同时，也可能刺激邻近非管制地区交易，市场走向仍需关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Efecto globo en zonas no reguladas: ventas de apartamentos en Guri se cuadruplican",
+        "excerpt": "Tras las medidas del 15 de octubre de 2025, la demanda de vivienda del área metropolitana regulada se desplazó a zonas no reguladas y las operaciones en Guri se cuadruplicaron.",
+        "body": "Después de que las medidas del 15 de octubre de 2025 reforzaran la regulación de vivienda en algunas zonas del área metropolitana de Seúl, la demanda parece haberse trasladado a áreas no reguladas. Guri fue señalado como un caso claro, con un volumen de transacciones de apartamentos cuatro veces mayor. En las zonas no reguladas, las condiciones de préstamo y reventa son relativamente más flexibles, y la obligación de residencia efectiva pesa menos que en las áreas reguladas. La tendencia muestra que endurecer reglas en una zona puede contener su demanda, pero también estimular operaciones en mercados no regulados cercanos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Efeito balão em áreas não reguladas: negócios de apartamentos em Guri quadruplicam",
+        "excerpt": "Após as medidas de 15 de outubro de 2025, a demanda por moradias em áreas reguladas da região metropolitana migrou para zonas não reguladas, e Guri viu negócios quadruplicarem.",
+        "body": "Depois que as medidas de 15 de outubro de 2025 reforçaram as regras habitacionais em partes da região metropolitana de Seul, a demanda por moradias parece ter se deslocado para áreas não reguladas. Guri foi citado como exemplo, com o volume de transações de apartamentos aumentando quatro vezes. Nessas áreas, as condições de empréstimo e revenda são relativamente mais flexíveis, e a obrigação de residência real é menor que nas zonas reguladas. O movimento indica que regras mais rígidas podem conter a demanda local, mas estimular negócios em mercados não regulados próximos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Balloneffekt in unregulierten Gebieten: Wohnungsverkäufe in Guri vervierfacht",
+        "excerpt": "Nach den Maßnahmen vom 15. Oktober 2025 verlagerte sich Wohnungsnachfrage aus regulierten Teilen des Großraums Seoul in unregulierte Gebiete; in Guri vervierfachten sich die Transaktionen.",
+        "body": "Nach den Maßnahmen vom 15. Oktober 2025 wurden die Wohnungsregeln in Teilen des Großraums Seoul verschärft. Daraufhin verlagerte sich die Nachfrage offenbar in weniger regulierte Gebiete. Guri wurde als Beispiel genannt: Dort stieg das Transaktionsvolumen bei Apartments auf das Vierfache. In unregulierten Gebieten sind Kredit- und Weiterverkaufsbedingungen vergleichsweise lockerer, zudem ist die Pflicht zur tatsächlichen Eigennutzung weniger belastend als in regulierten Zonen. Der Trend zeigt, dass strengere Regeln lokale Nachfrage dämpfen, zugleich aber Geschäfte in nahen unregulierten Märkten anregen können. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Effet de report vers les zones non régulées: les ventes d’appartements à Guri quadruplent",
+        "excerpt": "Après les mesures du 15 octobre 2025, la demande de logements dans les zones régulées de la région de Séoul s’est déplacée vers les zones non régulées, et Guri a vu ses transactions quadrupler.",
+        "body": "Après le renforcement des règles immobilières dans certaines parties de la région métropolitaine de Séoul à la suite des mesures du 15 octobre 2025, la demande de logements semble s’être déplacée vers des zones moins régulées. Guri a été cité comme exemple, avec un volume de transactions d’appartements multiplié par quatre. Dans les zones non régulées, les conditions de prêt et de revente sont relativement plus souples, et l’obligation de résidence effective est moins lourde que dans les zones régulées. Cette évolution montre qu’un durcissement local peut freiner la demande sur place tout en stimulant les marchés non régulés voisins. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تأثير الانتقال إلى المناطق غير المنظمة يظهر بوضوح ومعاملات شقق غوري تتضاعف 4 مرات",
+        "excerpt": "بعد إجراءات 15 أكتوبر 2025 التي شددت قواعد الإسكان في مناطق من العاصمة الكبرى، انتقل الطلب إلى مناطق غير منظمة وارتفعت معاملات شقق غوري أربعة أضعاف.",
+        "body": "بعد أن عززت إجراءات 15 أكتوبر 2025 قواعد الإسكان في بعض مناطق منطقة سيئول الكبرى، جرى تحليل أن الطلب على المساكن انتقل إلى مناطق غير منظمة نسبيا. وذُكرت غوري كمثال واضح، إذ زاد حجم معاملات الشقق فيها أربعة أضعاف. وتتمتع المناطق غير المنظمة بشروط أكثر مرونة نسبيا في القروض وإعادة البيع، كما أن عبء الالتزام بالسكن الفعلي فيها أقل من المناطق المنظمة. ويشير هذا الاتجاه إلى أن تشديد القواعد في منطقة معينة قد يحد الطلب المحلي، لكنه قد ينشط المعاملات في مناطق غير منظمة قريبة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "गैर-नियंत्रित क्षेत्रों में मांग का असर साफ, गुरी अपार्टमेंट सौदे 4 गुना बढ़े",
+        "excerpt": "2025 की 15 अक्टूबर नीति के बाद सियोल महानगर क्षेत्र के नियंत्रित इलाकों की आवास मांग गैर-नियंत्रित क्षेत्रों में गई और गुरी अपार्टमेंट लेनदेन 4 गुना बढ़े।",
+        "body": "2025 की 15 अक्टूबर नीति के तहत सियोल महानगर क्षेत्र के कुछ इलाकों में आवास नियम कड़े होने के बाद मांग अपेक्षाकृत कम नियंत्रित क्षेत्रों की ओर जाने का विश्लेषण किया गया। गुरी इसका प्रमुख उदाहरण रहा, जहां अपार्टमेंट लेनदेन की मात्रा चार गुना बढ़ी। गैर-नियंत्रित क्षेत्रों में ऋण और पुनर्विक्रय की शर्तें अपेक्षाकृत ढीली हैं, और वास्तविक निवास की अनिवार्यता का बोझ भी नियंत्रित क्षेत्रों से कम है। यह रुझान दिखाता है कि किसी क्षेत्र में नियम कड़े करने से वहां मांग घट सकती है, लेकिन पास के गैर-नियंत्रित बाजारों में लेनदेन बढ़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Efek Balon Area Non-Regulasi Terlihat, Transaksi Apartemen Guri Naik 4 Kali",
+        "excerpt": "Setelah kebijakan 15 Oktober 2025 memperketat aturan hunian di wilayah metropolitan Seoul, permintaan bergeser ke area non-regulasi dan transaksi apartemen Guri naik 4 kali.",
+        "body": "Setelah kebijakan 15 Oktober 2025 memperketat regulasi perumahan di sebagian wilayah metropolitan Seoul, permintaan hunian dianalisis bergeser ke area yang relatif tidak diatur. Guri disebut sebagai contoh utama, dengan volume transaksi apartemen meningkat empat kali lipat. Area non-regulasi memiliki ketentuan pinjaman dan penjualan kembali yang relatif lebih longgar, serta beban kewajiban tinggal langsung yang lebih rendah dibanding area regulasi. Tren ini menunjukkan bahwa pengetatan aturan di satu wilayah dapat menekan permintaan setempat, sekaligus mendorong transaksi di pasar non-regulasi terdekat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "33aacc069734",
     "slug": "4월-분양물량-2만4천-가구서울은-당-2천만원84-19억원대-130500",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Seoul dan Gyeonggi Buka Layanan Izin Transaksi Tanah pada Sabtu, 9 Mei",
         "excerpt": "Sebanyak 25 kantor distrik Seoul dan sejumlah kantor di wilayah regulasi Gyeonggi akan buka Sabtu, 9 Mei, pukul 09.00-18.00 untuk menerima permohonan izin transaksi tanah.",
         "body": "Sebanyak 25 kantor distrik Seoul akan buka pada Sabtu, 9 Mei, hari berakhirnya penangguhan pajak tambahan atas keuntungan penjualan properti bagi pemilik banyak rumah, pukul 09.00-18.00 dan hanya menerima urusan terkait izin transaksi tanah. Pemerintah Kota Seoul baru-baru ini bertemu dengan 25 distrik otonom dan menyepakati pengoperasian seluruh kantor distrik. Langkah ini mengikuti pernyataan Presiden Lee Jae-myung dalam rapat kabinet 6 April bahwa permohonan izin transaksi tanah yang diajukan hingga 9 Mei dapat tetap mendapat penangguhan pajak. Tidak semua loket layanan sipil dibuka; sebagian staf bagian informasi real estat akan bertugas. Wilayah regulasi Gyeonggi seperti Gwacheon, Gwangmyeong, Bundang, Sujeong dan Jungwon di Seongnam, Yeongtong, Jangan dan Paldal di Suwon, Dongan di Anyang, Suji di Yongin, Uiwang dan Hanam juga akan beroperasi sementara. hankyung.com melaporkan bahwa pertimbangan kesetaraan dan potensi gugatan muncul jika penerimaan berbeda antar distrik."
-      }
-    }
-  },
-  {
-    "id": "9ef94bbc9a29",
-    "slug": "인허가-번복공사비-갈등방치된-용인-개발사업-921667",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T13:46:51.173Z",
-    "updatedAt": "2026-05-07T13:46:51.173Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050721861",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050721861",
-    "titleFingerprint": "5d1a3e73fd8a4e0f9d5f3122184e0371f7d24fdb",
-    "dedupKeys": [
-      "9ef94bbc9a29e5c72fa4f69e2658cedaf4408f86",
-      "5d1a3e73fd8a4e0f9d5f3122184e0371f7d24fdb",
-      "9e408dd36aeb4c4fccc87c4b7996a1a6c0c96508"
-    ],
-    "imageUrl": "/images/articles/9ef94bbc9a29.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인허가 번복·공사비 갈등에 멈춘 용인 개발사업, 장기 방치 우려",
-        "excerpt": "용인 개발사업이 인허가 번복과 공사비 갈등으로 추진에 차질을 빚으며 방치 상태가 이어지고 있다고 hankyung.com이 보도했다.",
-        "body": "용인 지역의 한 개발사업이 인허가 번복과 공사비 갈등으로 정상 추진되지 못한 채 방치되고 있다. 사업 추진 과정에서 행정 인허가가 번복되고, 공사비를 둘러싼 이해관계자 간 갈등이 겹치면서 현장의 정비와 개발 일정에 차질이 생긴 것으로 전해졌다. 개발사업은 인허가의 안정성과 공사비 조율이 핵심인데, 두 문제가 동시에 불거지면 사업 지연이 장기화될 수 있다. 이번 사례는 지역 개발 현장에서 행정 절차와 비용 부담 문제가 사업 지속성을 흔들 수 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Yongin Development Project Stalls Amid Permit Reversal and Cost Dispute",
-        "excerpt": "A Yongin development project has reportedly been left stalled as permit reversals and construction cost disputes disrupt progress, according to hankyung.com.",
-        "body": "A development project in Yongin has been left unable to proceed normally due to a reversal of permits and conflict over construction costs. According to the report, changes in administrative approvals and disputes among stakeholders over project expenses have disrupted site management and the development schedule. For development projects, stable permitting and agreement on construction costs are essential. When both issues emerge at the same time, delays can become prolonged. The case highlights how administrative procedures and cost burdens can undermine the continuity of local development projects. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "許認可撤回と工事費対立で止まる龍仁開発事業、放置長期化の懸念",
-        "excerpt": "龍仁の開発事業が許認可の撤回と工事費をめぐる対立で進行に支障を来し、放置状態が続いているとhankyung.comが報じた。",
-        "body": "龍仁地域の開発事業が、許認可の撤回と工事費をめぐる対立により正常に進められず、放置された状態にある。報道によると、事業推進の過程で行政の許認可が覆され、工事費をめぐる利害関係者間の対立が重なったことで、現場の整理や開発日程に支障が生じた。開発事業では許認可の安定性と工事費の調整が重要であり、二つの問題が同時に起きれば遅延が長期化する可能性がある。今回の事例は、地域開発で行政手続きと費用負担が事業継続性を揺るがし得ることを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "许可反复与工程费矛盾拖住龙仁开发项目，长期搁置引关注",
-        "excerpt": "据hankyung.com报道，龙仁一项开发项目因许可反复和工程费用纠纷推进受阻，现场持续处于搁置状态。",
-        "body": "龙仁地区一项开发项目因许可反复和工程费用纠纷，未能正常推进并处于搁置状态。报道称，在项目推进过程中，行政许可出现反复，同时围绕工程费用的相关方矛盾叠加，导致现场整理和开发日程受到影响。对开发项目而言，许可稳定性和工程费用协调是关键。如果两类问题同时出现，项目延误可能被拉长。该案例显示，在地方开发现场，行政程序和费用负担问题可能动摇项目持续推进的基础。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Proyecto en Yongin queda frenado por permisos revertidos y disputa de costes",
-        "excerpt": "Un proyecto de desarrollo en Yongin sigue paralizado por la reversión de permisos y conflictos sobre costes de construcción, informó hankyung.com.",
-        "body": "Un proyecto de desarrollo en Yongin no avanza con normalidad y permanece abandonado por la reversión de permisos y una disputa sobre los costes de construcción. Según el informe, durante el proceso del proyecto se modificaron aprobaciones administrativas y se sumaron conflictos entre partes interesadas por los gastos de obra, lo que afectó la gestión del sitio y el calendario de desarrollo. En estos proyectos, la estabilidad de los permisos y el ajuste de los costes son esenciales. Cuando ambos problemas aparecen a la vez, los retrasos pueden prolongarse. El caso muestra cómo los trámites administrativos y la carga de costes pueden afectar la continuidad del desarrollo local. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Projeto em Yongin trava com reversão de licenças e conflito de custos",
-        "excerpt": "Um projeto de desenvolvimento em Yongin segue parado após reversão de licenças e disputa sobre custos de construção, informou o hankyung.com.",
-        "body": "Um projeto de desenvolvimento em Yongin não consegue avançar normalmente e permanece abandonado devido à reversão de licenças e a um conflito sobre custos de construção. Segundo a reportagem, mudanças nas aprovações administrativas e disputas entre partes interessadas sobre despesas de obra afetaram a organização do local e o cronograma do projeto. Em empreendimentos desse tipo, a estabilidade das licenças e a coordenação dos custos são essenciais. Quando os dois problemas surgem ao mesmo tempo, os atrasos podem se prolongar. O caso mostra como procedimentos administrativos e encargos de custos podem comprometer a continuidade do desenvolvimento local. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Yongin-Entwicklung stockt wegen Genehmigungswende und Baukostenstreit",
-        "excerpt": "Ein Entwicklungsprojekt in Yongin kommt wegen zurückgenommener Genehmigungen und Streit über Baukosten nicht voran, berichtete hankyung.com.",
-        "body": "Ein Entwicklungsprojekt in Yongin kann wegen einer Genehmigungswende und eines Konflikts über Baukosten nicht normal voranschreiten und liegt brach. Dem Bericht zufolge wurden im Verlauf des Projekts administrative Genehmigungen geändert, während Streitigkeiten zwischen Beteiligten über Baukosten hinzukamen. Dadurch wurden die Verwaltung des Standorts und der Entwicklungszeitplan beeinträchtigt. Für solche Projekte sind stabile Genehmigungen und eine Einigung über Baukosten zentral. Treten beide Probleme zugleich auf, können sich Verzögerungen verlängern. Der Fall zeigt, wie Verwaltungsverfahren und Kostenlasten die Kontinuität lokaler Entwicklungsprojekte gefährden können. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "À Yongin, un projet bloqué par permis annulés et conflit sur les coûts",
-        "excerpt": "Un projet de développement à Yongin reste à l’arrêt après des revirements d’autorisations et un conflit sur les coûts de construction, selon hankyung.com.",
-        "body": "Un projet de développement à Yongin ne progresse pas normalement et reste délaissé en raison de revirements d’autorisations et d’un conflit sur les coûts de construction. Selon le reportage, des changements dans les autorisations administratives et des désaccords entre parties prenantes sur les dépenses de chantier ont perturbé la gestion du site et le calendrier de développement. Pour ce type de projet, la stabilité des permis et l’ajustement des coûts sont essentiels. Lorsque ces deux problèmes surgissent ensemble, les retards peuvent se prolonger. Ce cas montre comment les procédures administratives et la charge des coûts peuvent fragiliser la continuité d’un développement local. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "مشروع تطوير في يونغين يتعثر بسبب تراجع التراخيص ونزاع تكاليف البناء",
-        "excerpt": "أفاد hankyung.com بأن مشروع تطوير في يونغين يواجه تعثرا مستمرا بسبب تراجع التراخيص وخلافات حول تكاليف البناء.",
-        "body": "يواجه مشروع تطوير في منطقة يونغين صعوبة في التقدم بصورة طبيعية، وبقي في حالة إهمال بسبب تراجع في التراخيص ونزاع حول تكاليف البناء. ووفقا للتقرير، شهد مسار المشروع تبدلا في الموافقات الإدارية، وترافق ذلك مع خلافات بين الأطراف المعنية بشأن نفقات البناء، ما أثر في إدارة الموقع وجدول التطوير. في مشاريع التطوير، تعد استقرار التراخيص وتسوية تكاليف البناء من العناصر الأساسية. وعندما تظهر المشكلتان في وقت واحد، قد تطول فترات التأخير. وتوضح هذه الحالة أن الإجراءات الإدارية وأعباء التكلفة يمكن أن تهز استمرارية مشاريع التطوير المحلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "योंगिन विकास परियोजना परमिट पलटने और निर्माण लागत विवाद से अटकी",
-        "excerpt": "hankyung.com के अनुसार, योंगिन की एक विकास परियोजना परमिट पलटने और निर्माण लागत विवाद के कारण बाधित होकर उपेक्षित पड़ी है।",
-        "body": "योंगिन क्षेत्र की एक विकास परियोजना परमिट पलटने और निर्माण लागत को लेकर विवाद के कारण सामान्य रूप से आगे नहीं बढ़ पा रही है और उपेक्षित स्थिति में है। रिपोर्ट के अनुसार, परियोजना की प्रक्रिया में प्रशासनिक अनुमतियों में बदलाव हुआ और निर्माण लागत पर हितधारकों के बीच विवाद भी जुड़ गया, जिससे स्थल प्रबंधन और विकास कार्यक्रम प्रभावित हुए। किसी भी विकास परियोजना में परमिट की स्थिरता और निर्माण लागत पर समन्वय अहम होता है। दोनों समस्याएं साथ आने पर देरी लंबी खिंच सकती है। यह मामला दिखाता है कि प्रशासनिक प्रक्रिया और लागत भार स्थानीय विकास परियोजनाओं की निरंतरता को कमजोर कर सकते हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Proyek Yongin Terhenti akibat Pembalikan Izin dan Konflik Biaya Konstruksi",
-        "excerpt": "Proyek pengembangan di Yongin dilaporkan terhambat dan terbengkalai karena pembalikan izin serta konflik biaya konstruksi, menurut hankyung.com.",
-        "body": "Sebuah proyek pengembangan di wilayah Yongin tidak dapat berjalan normal dan berada dalam kondisi terbengkalai akibat pembalikan izin serta konflik mengenai biaya konstruksi. Menurut laporan, dalam proses proyek terjadi perubahan pada perizinan administratif, sementara perselisihan antarpihak terkait biaya pekerjaan juga muncul, sehingga pengelolaan lokasi dan jadwal pengembangan terganggu. Dalam proyek pengembangan, stabilitas izin dan penyesuaian biaya konstruksi merupakan hal penting. Jika kedua masalah muncul bersamaan, penundaan dapat berlangsung lebih lama. Kasus ini menunjukkan bahwa prosedur administratif dan beban biaya dapat mengguncang keberlanjutan proyek pengembangan lokal. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "1fbe5f6d267c",
-    "slug": "최인호-든든전세임대리츠로-주택-공급-944697",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T13:45:51.209Z",
-    "updatedAt": "2026-05-07T13:45:51.209Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050721851",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050721851",
-    "titleFingerprint": "4d486806a02b3f0f274f69a577b6b37ae4ea704c",
-    "dedupKeys": [
-      "1fbe5f6d267ccf390f41f9b7e89708651548bdbb",
-      "4d486806a02b3f0f274f69a577b6b37ae4ea704c",
-      "2227acddf4d360deec5df6e805c0f90966d96bee"
-    ],
-    "imageUrl": "/images/articles/1fbe5f6d267c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "든든전세·임대리츠로 주택 공급 추진, 최인호 발언 주목",
-        "excerpt": "최인호가 든든전세와 임대리츠를 활용한 주택 공급 방안을 언급했다고 hankyung.com이 전했다. 공급 확대 논의의 방향과 정책 수단이 주목된다.",
-        "body": "최인호는 주택 공급과 관련해 든든전세와 임대리츠를 활용하겠다는 취지의 입장을 밝혔다고 hankyung.com이 보도했다. 이번 발언은 주택 공급 방식을 둘러싼 논의 속에서 전세형 공급과 리츠 기반 임대주택을 정책 수단으로 제시했다는 점에서 주목된다. 든든전세는 전세 주거 수요에 대응하는 공급 방식으로, 임대리츠는 리츠 구조를 활용해 임대주택을 공급하는 방식으로 이해된다. 구체적인 공급 규모나 시행 일정은 원문에 제시되지 않았다. 향후 관련 제도 설계와 실행 방식에 따라 주택 시장에 미칠 영향이 달라질 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Choi In-ho Highlights Housing Supply Through Deundeun Jeonse and Rental REITs",
-        "excerpt": "Choi In-ho mentioned plans to use Deundeun Jeonse and rental REITs for housing supply, hankyung.com reported, drawing attention to policy tools for supply expansion.",
-        "body": "Choi In-ho said housing supply could be pursued through Deundeun Jeonse and rental REITs, according to a report by hankyung.com. The remark is notable because it presents jeonse-style housing supply and REIT-based rental housing as possible policy tools amid discussions over how to expand supply. Deundeun Jeonse can be understood as a supply model responding to demand for jeonse housing, while rental REITs use a REIT structure to provide rental homes. The original report did not specify the scale of supply or an implementation schedule. The impact on the housing market will depend on future institutional design and execution. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "チョ・インホ氏、安心チョンセと賃貸REITで住宅供給を推進",
-        "excerpt": "チョ・インホ氏が安心チョンセと賃貸REITを活用した住宅供給方針に言及したとhankyung.comが報じ、供給拡大策に注目が集まる。",
-        "body": "チョ・インホ氏は住宅供給に関連し、安心チョンセと賃貸REITを活用する趣旨の立場を示したとhankyung.comが報じた。今回の発言は、住宅供給方式をめぐる議論の中で、チョンセ型供給とREITを基盤とする賃貸住宅を政策手段として提示した点で注目される。安心チョンセはチョンセ住宅需要に対応する供給方式として、賃貸REITはREIT構造を活用して賃貸住宅を供給する方式として理解できる。具体的な供給規模や実施日程は原文では示されていない。今後の制度設計と実行方法によって住宅市場への影響は変わり得る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "崔仁浩提出以放心全租与租赁REITs推进住房供应",
-        "excerpt": "据hankyung.com报道，崔仁浩提到将通过放心全租和租赁REITs扩大住房供应，相关政策工具和供应方向受到关注。",
-        "body": "据hankyung.com报道，崔仁浩就住房供应表示，将利用放心全租和租赁REITs推进相关工作。这一表态之所以受到关注，是因为在围绕住房供应方式的讨论中，他将全租型供应和基于REITs结构的租赁住房作为政策手段提出。放心全租可理解为回应全租住房需求的供应方式，租赁REITs则是利用REITs结构提供租赁住房的方式。原文未提及具体供应规模或实施时间表。未来对住房市场的影响，将取决于相关制度设计和执行方式。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Choi In-ho plantea oferta de vivienda con Deundeun Jeonse y REITs de alquiler",
-        "excerpt": "Choi In-ho mencionó el uso de Deundeun Jeonse y REITs de alquiler para suministrar vivienda, informó hankyung.com, en medio del debate sobre ampliar la oferta.",
-        "body": "Choi In-ho señaló que la oferta de vivienda podría impulsarse mediante Deundeun Jeonse y REITs de alquiler, según informó hankyung.com. La declaración destaca porque presenta la oferta tipo jeonse y la vivienda de alquiler basada en estructuras REIT como herramientas de política en el debate sobre cómo ampliar la oferta residencial. Deundeun Jeonse puede entenderse como un modelo de suministro que responde a la demanda de vivienda jeonse, mientras que los REITs de alquiler utilizan una estructura REIT para proveer viviendas en arriendo. El reporte original no indicó una escala concreta de suministro ni un calendario de ejecución. Su impacto dependerá del diseño institucional y de la implementación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Choi In-ho defende oferta habitacional com Deundeun Jeonse e REITs de aluguel",
-        "excerpt": "Choi In-ho citou Deundeun Jeonse e REITs de aluguel como meios para ampliar a oferta de moradias, informou hankyung.com, em debate sobre política habitacional.",
-        "body": "Choi In-ho afirmou que a oferta de moradias pode ser promovida por meio do Deundeun Jeonse e de REITs de aluguel, segundo informou hankyung.com. A declaração chama atenção por apresentar o fornecimento no modelo jeonse e a habitação para aluguel baseada em estruturas de REIT como instrumentos de política em meio às discussões sobre expansão da oferta. O Deundeun Jeonse pode ser entendido como uma forma de atender à demanda por moradia jeonse, enquanto os REITs de aluguel usam uma estrutura de REIT para oferecer imóveis residenciais de locação. O texto original não informou volume de oferta nem cronograma de execução. O impacto dependerá do desenho institucional e da implementação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Choi In-ho setzt bei Wohnungsangebot auf Deundeun Jeonse und Miet-REITs",
-        "excerpt": "Choi In-ho sprach laut hankyung.com über Wohnungsversorgung durch Deundeun Jeonse und Miet-REITs; damit rücken Instrumente zur Ausweitung des Angebots in den Fokus.",
-        "body": "Choi In-ho hat im Zusammenhang mit der Wohnungsversorgung erklärt, Deundeun Jeonse und Miet-REITs nutzen zu wollen, berichtete hankyung.com. Die Aussage ist bemerkenswert, weil sie in der Debatte über Wege zur Ausweitung des Wohnungsangebots jeonse-artige Angebote und REIT-basierte Mietwohnungen als politische Instrumente nennt. Deundeun Jeonse kann als Angebotsmodell verstanden werden, das auf die Nachfrage nach Jeonse-Wohnraum reagiert, während Miet-REITs eine REIT-Struktur nutzen, um Mietwohnungen bereitzustellen. Konkrete Angaben zum Umfang des Angebots oder zum Zeitplan wurden im Originalbericht nicht genannt. Die Wirkung auf den Wohnungsmarkt hängt von der weiteren Ausgestaltung und Umsetzung ab. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Choi In-ho mise sur Deundeun Jeonse et les REITs locatifs pour fournir des logements",
-        "excerpt": "Choi In-ho a évoqué l’usage de Deundeun Jeonse et des REITs locatifs pour accroître l’offre de logements, selon hankyung.com, dans le débat sur l’approvisionnement.",
-        "body": "Choi In-ho a indiqué que l’offre de logements pourrait être soutenue par Deundeun Jeonse et des REITs locatifs, a rapporté hankyung.com. Cette déclaration retient l’attention car elle présente l’offre de type jeonse et les logements locatifs fondés sur une structure de REIT comme des instruments de politique publique dans les discussions sur l’élargissement de l’offre résidentielle. Deundeun Jeonse peut être compris comme un mode d’offre répondant à la demande de logements jeonse, tandis que les REITs locatifs utilisent une structure de REIT pour fournir des logements à louer. Le texte original ne précise ni volume d’offre ni calendrier de mise en œuvre. L’impact dépendra de la conception institutionnelle et de l’exécution. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تشوي إن هو يطرح توفير المساكن عبر ديوندون جونسي وصناديق الريت للإيجار",
-        "excerpt": "ذكر تشوي إن هو استخدام ديوندون جونسي وصناديق الريت للإيجار في توفير المساكن، بحسب hankyung.com، وسط اهتمام بأدوات توسيع المعروض.",
-        "body": "قال تشوي إن هو إن توفير المساكن يمكن أن يتم عبر ديوندون جونسي وصناديق الريت الخاصة بالإيجار، وفق ما أورد موقع hankyung.com. وتكتسب هذه التصريحات أهمية لأنها تطرح نموذج العرض القائم على جونسي والمساكن المؤجرة المعتمدة على هيكل الريت كأدوات سياسية في نقاش توسيع المعروض السكني. ويمكن فهم ديوندون جونسي باعتباره طريقة توريد تستجيب للطلب على مساكن جونسي، بينما تستخدم صناديق الريت للإيجار هيكل الريت لتوفير مساكن للإيجار. ولم يذكر التقرير الأصلي حجم العرض المحدد أو جدول التنفيذ. وسيعتمد الأثر في سوق الإسكان على تصميم النظام وآلية التطبيق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "चोई इन-हो ने ड्यूंड्यून जोंसे और रेंटल REITs से आवास आपूर्ति की बात की",
-        "excerpt": "hankyung.com के अनुसार, चोई इन-हो ने ड्यूंड्यून जोंसे और रेंटल REITs के जरिए आवास आपूर्ति बढ़ाने की बात कही, जिससे नीति साधनों पर ध्यान गया।",
-        "body": "hankyung.com की रिपोर्ट के अनुसार, चोई इन-हो ने आवास आपूर्ति के लिए ड्यूंड्यून जोंसे और रेंटल REITs का उपयोग करने की बात कही। यह बयान इसलिए महत्वपूर्ण है क्योंकि आवास आपूर्ति बढ़ाने पर जारी चर्चा में जोंसे-शैली की आपूर्ति और REIT संरचना पर आधारित किराये के आवास को नीति साधन के रूप में रखा गया है। ड्यूंड्यून जोंसे को जोंसे आवास मांग का जवाब देने वाली आपूर्ति पद्धति के रूप में समझा जा सकता है, जबकि रेंटल REITs REIT ढांचे का उपयोग कर किराये के घर उपलब्ध कराते हैं। मूल रिपोर्ट में आपूर्ति की ठोस मात्रा या लागू करने की समय-सारिणी नहीं दी गई। आवास बाजार पर प्रभाव आगे की संस्थागत रूपरेखा और क्रियान्वयन पर निर्भर करेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Choi In-ho Soroti Pasokan Hunian Lewat Deundeun Jeonse dan REIT Sewa",
-        "excerpt": "Choi In-ho menyebut penggunaan Deundeun Jeonse dan REIT sewa untuk memasok hunian, lapor hankyung.com, di tengah perhatian pada alat perluasan pasokan.",
-        "body": "Choi In-ho menyampaikan bahwa pasokan hunian dapat didorong melalui Deundeun Jeonse dan REIT sewa, menurut laporan hankyung.com. Pernyataan ini menjadi perhatian karena menempatkan pasokan bergaya jeonse dan hunian sewa berbasis struktur REIT sebagai instrumen kebijakan dalam pembahasan perluasan pasokan rumah. Deundeun Jeonse dapat dipahami sebagai model pasokan yang merespons permintaan hunian jeonse, sedangkan REIT sewa memakai struktur REIT untuk menyediakan rumah sewa. Laporan asli tidak menyebutkan jumlah pasokan secara spesifik atau jadwal pelaksanaan. Dampaknya terhadap pasar perumahan akan bergantung pada rancangan kelembagaan dan cara implementasinya. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f373b2568f5e",
-    "slug": "손-놓고-있다가-수억-날린다장기보유주택-매도-러시-489299",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T13:44:49.098Z",
-    "updatedAt": "2026-05-07T13:44:49.098Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12040004",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12040004",
-    "titleFingerprint": "c16075784b7ccb31e5a6cee7f65521dc39996d80",
-    "dedupKeys": [
-      "f373b2568f5e57f2fa825a74f6303709b1a24dc2",
-      "c16075784b7ccb31e5a6cee7f65521dc39996d80",
-      "5ef687eca006d8a701370fb19957e9197d68de32"
-    ],
-    "imageUrl": "/images/articles/f373b2568f5e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "장기보유주택 매도 러시, 비실거주 공제 제외 방침에 절세매물 급증",
-        "excerpt": "정부가 장기보유특별공제에서 비실거주 기간을 제외하는 방침을 추진하자 고령층을 중심으로 10년 이상 보유 주택 매물이 늘고 있다.",
-        "body": "정부가 장기보유특별공제 산정 때 실제 거주하지 않은 기간을 제외하는 방침을 내놓으면서 장기보유주택 매도 움직임이 커지고 있다. 원문에 따르면 고령층을 중심으로 세 부담을 줄이려는 절세 매물이 나오고 있으며, 10년 이상 보유한 매도인이 전체 거래에서 차지한 비중은 34%로 역대 최고 수준을 기록했다. 지역별로는 강남이 54%로 전국에서 가장 높았다. 제도 변화가 현실화될 경우 비실거주 기간이 긴 보유자의 매도 판단에 영향을 줄 수 있다는 점에서 관련 매물 흐름이 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Long-held homes hit market as tax deduction change drives sellers",
-        "excerpt": "As the government moves to exclude non-residence periods from the long-term holding special deduction, more owners, especially older sellers, are listing homes held over 10 years.",
-        "body": "A wave of sales is emerging among owners of long-held homes after the government outlined a plan to exclude periods of non-residence from the calculation of the long-term holding special deduction. According to the original report, tax-saving listings are appearing mainly among older owners. Sellers who had held homes for more than 10 years accounted for 34% of all transactions, the highest level on record. By region, Gangnam posted the highest share nationwide at 54%. If the policy change is implemented, it may affect selling decisions by owners with long non-residence periods, keeping attention on the flow of related listings. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "長期保有住宅の売却急増、非居住期間の控除除外方針が影響",
-        "excerpt": "政府が長期保有特別控除で非居住期間を除外する方針を示し、高齢層を中心に10年以上保有した住宅の節税売却が増えている。",
-        "body": "政府が長期保有特別控除の算定で実際に居住していない期間を除外する方針を打ち出し、長期保有住宅の売却の動きが広がっている。原文によると、高齢層を中心に税負担を抑えるための節税目的の物件が出ている。10年以上保有した売り手が全取引に占める割合は34%となり、過去最高水準を記録した。地域別では江南が54%で全国最高だった。制度変更が現実化すれば、非居住期間が長い保有者の売却判断に影響する可能性があり、関連物件の動向が注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "长期持有住房现出售潮，非自住期拟排除扣除引发节税卖盘",
-        "excerpt": "韩国政府拟在长期持有特别扣除中排除非实际居住期间后，以老年群体为主，持有10年以上住房的节税出售增加。",
-        "body": "韩国政府提出在计算长期持有特别扣除时排除未实际居住期间后，长期持有住房的出售动向正在扩大。原文称，以老年群体为中心，为降低税负而出售的节税房源正在出现。持有住房10年以上的卖方在全部交易中的占比达到34%，创历史最高水平。按地区看，江南占比为54%，为全国最高。如果制度变化落实，非实际居住期间较长的持有人可能会重新判断是否出售，因此相关房源流向受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ventas de viviendas de larga tenencia suben por cambio en deducción fiscal",
-        "excerpt": "El Gobierno planea excluir los periodos sin residencia real de la deducción especial por tenencia prolongada, lo que impulsa ventas fiscales entre propietarios mayores.",
-        "body": "Las ventas de viviendas mantenidas durante largo tiempo están aumentando después de que el Gobierno anunciara un plan para excluir los periodos sin residencia real del cálculo de la deducción especial por tenencia prolongada. Según el texto original, están apareciendo propiedades en venta para reducir impuestos, principalmente entre propietarios de mayor edad. Los vendedores que habían conservado sus viviendas durante más de 10 años representaron el 34% de todas las transacciones, el nivel más alto registrado. Por región, Gangnam fue el mayor del país con un 54%. Si el cambio se concreta, podría influir en las decisiones de venta de propietarios con largos periodos sin residencia. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Venda de imóveis mantidos por anos cresce com mudança em dedução fiscal",
-        "excerpt": "Com o plano do governo de excluir períodos sem residência real da dedução especial por posse longa, idosos lideram vendas de imóveis mantidos há mais de 10 anos.",
-        "body": "As vendas de imóveis mantidos por longo período estão ganhando força depois que o governo apresentou uma diretriz para excluir períodos sem residência real do cálculo da dedução especial por posse prolongada. Segundo o texto original, imóveis vendidos para reduzir impostos estão surgindo principalmente entre proprietários idosos. Vendedores que mantiveram a casa por mais de 10 anos responderam por 34% de todas as transações, o maior nível já registrado. Por região, Gangnam teve a maior proporção do país, com 54%. Se a mudança for efetivada, poderá afetar a decisão de venda de proprietários com longos períodos sem residência. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mehr Verkäufe lang gehaltener Wohnungen wegen geplanter Steueränderung",
-        "excerpt": "Die Regierung will Zeiten ohne Eigennutzung aus dem Sonderabzug für Langzeitbesitz herausnehmen, wodurch vor allem ältere Eigentümer steuerbedingt verkaufen.",
-        "body": "Der Verkauf lang gehaltener Wohnungen nimmt zu, nachdem die Regierung einen Plan vorgestellt hat, Zeiten ohne tatsächliche Eigennutzung bei der Berechnung des Sonderabzugs für langfristigen Besitz auszuschließen. Dem Originalbericht zufolge kommen vor allem von älteren Eigentümern Angebote auf den Markt, um Steuerlasten zu senken. Verkäufer, die ihre Wohnung länger als 10 Jahre gehalten hatten, machten 34% aller Transaktionen aus und erreichten damit den höchsten Stand seit Beginn der Erfassung. Regional lag Gangnam mit 54% landesweit am höchsten. Wird die Regeländerung umgesetzt, könnte sie Verkaufsentscheidungen von Eigentümern mit langen Nichtwohnzeiten beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Ventes de logements détenus longtemps en hausse avec le projet fiscal",
-        "excerpt": "Le gouvernement veut exclure les périodes sans résidence réelle de l’abattement spécial de détention longue, poussant surtout des propriétaires âgés à vendre.",
-        "body": "Les ventes de logements détenus de longue date augmentent après l’annonce par le gouvernement d’un projet visant à exclure les périodes sans résidence réelle du calcul de l’abattement spécial pour détention longue. Selon le texte original, des biens mis en vente pour réduire l’impôt apparaissent surtout chez les propriétaires âgés. Les vendeurs ayant conservé leur logement plus de 10 ans ont représenté 34% de l’ensemble des transactions, un record historique. Par région, Gangnam affiche le niveau le plus élevé du pays avec 54%. Si la réforme se concrétise, elle pourrait peser sur les décisions de vente des propriétaires ayant de longues périodes de non-résidence. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "موجة بيع للمساكن طويلة الحيازة مع توجه لتغيير الخصم الضريبي",
-        "excerpt": "مع توجه الحكومة إلى استبعاد فترات عدم السكن الفعلي من خصم الحيازة الطويلة، زادت عروض البيع لتقليل الضرائب خصوصا بين كبار السن.",
-        "body": "تتزايد حركة بيع المساكن المحتفظ بها لفترات طويلة بعدما طرحت الحكومة توجها يقضي باستبعاد فترات عدم السكن الفعلي من حساب الخصم الخاص للحيازة طويلة الأجل. وبحسب النص الأصلي، تظهر عروض بيع بهدف خفض العبء الضريبي، خصوصا بين كبار السن. وشكل البائعون الذين احتفظوا بمنازلهم لأكثر من 10 سنوات نسبة 34% من إجمالي الصفقات، وهو أعلى مستوى تاريخي. وعلى مستوى المناطق، سجلت غانغنام أعلى نسبة في البلاد عند 54%. وإذا أصبح التغيير ساريا، فقد يؤثر في قرارات البيع لدى المالكين الذين لديهم فترات طويلة من عدم الإقامة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "लंबे समय से रखे घरों की बिक्री तेज, कर कटौती नियम बदलने की तैयारी असरदार",
-        "excerpt": "सरकार दीर्घकालीन होल्डिंग विशेष कटौती से गैर-निवास अवधि हटाने की दिशा में बढ़ रही है, जिससे बुजुर्ग मालिकों में 10 साल से अधिक रखे घरों की बिक्री बढ़ी है।",
-        "body": "सरकार ने दीर्घकालीन होल्डिंग विशेष कटौती की गणना में वास्तविक रूप से निवास न की गई अवधि को बाहर करने की योजना रखी है, जिसके बाद लंबे समय से रखे घरों की बिक्री बढ़ रही है। मूल रिपोर्ट के अनुसार, कर बोझ घटाने के लिए बिक्री के ऐसे मामले मुख्य रूप से बुजुर्ग मालिकों में दिख रहे हैं। जिन विक्रेताओं ने घर 10 साल से अधिक रखा था, उनकी हिस्सेदारी कुल लेनदेन में 34% रही, जो अब तक का उच्चतम स्तर है। क्षेत्र के हिसाब से गंगनम 54% के साथ देश में सबसे ऊपर रहा। यदि नियम लागू हुआ, तो लंबी गैर-निवास अवधि वाले मालिकों के बिक्री निर्णय प्रभावित हो सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Penjualan rumah lama melonjak saat aturan potongan pajak akan diubah",
-        "excerpt": "Pemerintah berencana mengecualikan masa tidak dihuni dari potongan khusus kepemilikan jangka panjang, memicu penjualan hemat pajak terutama oleh lansia.",
-        "body": "Penjualan rumah yang telah dimiliki lama meningkat setelah pemerintah menyampaikan rencana untuk mengecualikan masa tidak dihuni secara nyata dari perhitungan potongan khusus kepemilikan jangka panjang. Menurut teks asli, listing untuk mengurangi beban pajak muncul terutama dari pemilik lanjut usia. Penjual yang telah memegang rumah lebih dari 10 tahun mencakup 34% dari seluruh transaksi, level tertinggi sepanjang sejarah. Berdasarkan wilayah, Gangnam mencatat angka tertinggi secara nasional dengan 54%. Jika perubahan aturan diterapkan, keputusan menjual dari pemilik dengan masa tidak tinggal yang panjang dapat terpengaruh. Sumber: mk.co.kr"
       }
     }
   }
