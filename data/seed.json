@@ -1,5 +1,230 @@
 [
   {
+    "id": "ed68422f9561",
+    "slug": "eu-항공권-이미-구입한-승객에-유류할증료-추가-안돼-185924",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T21:00:15.757Z",
+    "updatedAt": "2026-05-08T21:00:15.757Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
+    "titleFingerprint": "97fd8a9868ffebcd358c70df2fd0b4e278241672",
+    "dedupKeys": [
+      "ed68422f9561fee5570bd0cbec76dc4c60689ddd",
+      "97fd8a9868ffebcd358c70df2fd0b4e278241672",
+      "002c01aa4f89dcd62424f5da6decbd6f2bbf9c77"
+    ],
+    "imageUrl": "/images/articles/ed68422f9561.jpg",
+    "i18n": {
+      "ko": {
+        "title": "EU, 항공권 구매 승객 유류할증료 추가 부과 금지 방침 확인",
+        "excerpt": "EU가 중동 전쟁에 따른 에너지 가격 급등과 항공유 부족에도 이미 항공권을 산 승객에게 유류할증료를 추가 부과할 수 없다고 밝혔다.",
+        "body": "유럽연합(EU)은 중동 전쟁 여파로 에너지 가격이 급등하고 항공유 부족 사태가 이어지더라도, 이미 항공권을 구입한 승객에게 항공사가 유류할증료를 추가로 부과해서는 안 된다고 밝혔다. 유럽 항공사들은 에너지 비용 상승과 연료 수급난으로 타격을 받고 있지만, EU는 이를 기존 구매 승객에게 비용을 전가하는 구실로 삼을 수 없다는 입장이다. 이번 방침은 항공권 구매 이후 추가 비용 부담을 우려하는 승객 보호에 초점을 둔 조치로 풀이된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "EU Says Airlines Cannot Add Fuel Surcharges to Tickets Already Bought",
+        "excerpt": "The EU said airlines may not impose extra fuel surcharges on passengers who have already bought tickets, despite energy price spikes and jet fuel shortages tied to the Middle East war.",
+        "body": "The European Union said airlines must not add fuel surcharges to passengers who have already purchased tickets, even as energy prices surge and jet fuel shortages continue because of the Middle East war. European carriers have been hit by higher energy costs and tighter fuel supplies, but the EU’s position is that these pressures cannot be used as a reason to pass new charges on to existing ticket holders. The move focuses on protecting passengers concerned about additional costs after buying airline tickets. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "EU、購入済み航空券への燃油サーチャージ追加請求を禁止へ",
+        "excerpt": "EUは、中東戦争によるエネルギー価格高騰と航空燃料不足が続いても、購入済み航空券の乗客に燃油サーチャージを追加請求できないとした。",
+        "body": "欧州連合（EU）は、中東戦争の影響でエネルギー価格が急騰し、航空燃料不足が続いている場合でも、すでに航空券を購入した乗客に航空会社が燃油サーチャージを追加で課してはならないと明らかにした。欧州の航空会社はエネルギー費用の上昇と燃料需給の逼迫で打撃を受けているが、EUはそれを既存の購入者へ費用転嫁する理由にはできないとの立場だ。航空券購入後の追加負担を懸念する乗客保護に焦点を当てた措置とみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "欧盟明确：已购机票乘客不得被追加征收燃油附加费",
+        "excerpt": "欧盟表示，尽管中东战争导致能源价格飙升并出现航空燃油短缺，航空公司也不得向已购买机票的乘客追加燃油附加费。",
+        "body": "欧盟表示，即使受中东战争影响能源价格大幅上涨、航空燃油短缺持续，航空公司也不得向已经购买机票的乘客追加征收燃油附加费。欧洲航空公司正受到能源成本上升和燃油供应紧张的冲击，但欧盟认为，这不能成为把新增费用转嫁给既有购票乘客的理由。该立场被视为着眼于保护担心购票后再被追加收费的乘客权益。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La UE prohíbe añadir recargos por combustible a billetes ya comprados",
+        "excerpt": "La UE afirmó que las aerolíneas no pueden imponer recargos adicionales por combustible a pasajeros que ya compraron billetes, pese al alza energética y la escasez de queroseno por la guerra en Oriente Medio.",
+        "body": "La Unión Europea señaló que las aerolíneas no deben añadir recargos por combustible a los pasajeros que ya han comprado sus billetes, aunque los precios de la energía se disparen y continúe la escasez de combustible de aviación por la guerra en Oriente Medio. Las compañías europeas se ven afectadas por el aumento de los costos energéticos y las dificultades de suministro, pero la UE sostiene que esas presiones no pueden usarse para trasladar nuevos cargos a quienes ya adquirieron pasajes. La medida se centra en proteger a los pasajeros ante costes añadidos tras la compra. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "UE veta cobrança extra de combustível em passagens aéreas já compradas",
+        "excerpt": "A UE disse que companhias aéreas não podem cobrar sobretaxa adicional de combustível de passageiros que já compraram bilhetes, apesar da alta da energia e da falta de querosene ligada à guerra no Oriente Médio.",
+        "body": "A União Europeia afirmou que as companhias aéreas não devem acrescentar sobretaxas de combustível a passageiros que já compraram passagens, mesmo com a disparada dos preços de energia e a escassez de combustível de aviação causada pela guerra no Oriente Médio. As empresas europeias sofrem com custos energéticos mais altos e dificuldades no abastecimento, mas a UE entende que isso não pode justificar a transferência de novas cobranças para quem já adquiriu bilhetes. A orientação busca proteger passageiros preocupados com custos adicionais após a compra. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "EU untersagt nachträgliche Kerosinzuschläge auf bereits gekaufte Tickets",
+        "excerpt": "Die EU erklärte, Fluggesellschaften dürften Passagieren mit bereits gekauften Tickets keine zusätzlichen Kerosinzuschläge berechnen, trotz Energiepreissprung und Treibstoffmangel infolge des Nahostkriegs.",
+        "body": "Die Europäische Union erklärte, Fluggesellschaften dürften Passagieren, die ihre Tickets bereits gekauft haben, keine zusätzlichen Kerosinzuschläge auferlegen, auch wenn die Energiepreise wegen des Nahostkriegs stark steigen und Engpässe bei Flugtreibstoff anhalten. Europäische Airlines sind durch höhere Energiekosten und knappe Treibstoffversorgung belastet, doch nach Auffassung der EU kann dies nicht als Grund dienen, neue Kosten auf bestehende Ticketinhaber abzuwälzen. Die Linie zielt auf den Schutz von Fluggästen vor nachträglichen Zusatzkosten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’UE interdit les surtaxes carburant ajoutées aux billets déjà achetés",
+        "excerpt": "L’UE a indiqué que les compagnies aériennes ne peuvent pas imposer de surtaxe carburant aux passagers ayant déjà acheté leur billet, malgré la hausse de l’énergie et la pénurie de kérosène liées à la guerre au Moyen-Orient.",
+        "body": "L’Union européenne a déclaré que les compagnies aériennes ne doivent pas ajouter de surtaxe carburant aux passagers ayant déjà acheté leur billet, même si les prix de l’énergie flambent et que la pénurie de carburant aviation se poursuit en raison de la guerre au Moyen-Orient. Les compagnies européennes sont touchées par la hausse des coûts énergétiques et les difficultés d’approvisionnement, mais l’UE estime que cela ne peut pas servir de motif pour transférer de nouveaux frais aux détenteurs de billets existants. Cette position vise à protéger les passagers contre des coûts ajoutés après l’achat. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الاتحاد الأوروبي يمنع إضافة رسوم وقود على تذاكر الطيران المشتراة مسبقا",
+        "excerpt": "قال الاتحاد الأوروبي إن شركات الطيران لا يجوز لها فرض رسوم وقود إضافية على الركاب الذين اشتروا تذاكرهم بالفعل، رغم ارتفاع أسعار الطاقة ونقص وقود الطائرات بسبب حرب الشرق الأوسط.",
+        "body": "قال الاتحاد الأوروبي إن شركات الطيران يجب ألا تضيف رسوما إضافية للوقود على الركاب الذين اشتروا تذاكرهم بالفعل، حتى مع ارتفاع أسعار الطاقة واستمرار نقص وقود الطائرات نتيجة حرب الشرق الأوسط. وتتضرر شركات الطيران الأوروبية من زيادة تكاليف الطاقة وصعوبات الإمداد بالوقود، لكن موقف الاتحاد الأوروبي هو أن هذه الضغوط لا يمكن أن تكون مبررا لنقل تكاليف جديدة إلى حاملي التذاكر الحاليين. ويركز هذا التوجه على حماية الركاب من أعباء إضافية بعد شراء التذاكر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "EU ने खरीदे जा चुके हवाई टिकटों पर ईंधन शुल्क जोड़ने से रोका",
+        "excerpt": "EU ने कहा कि मध्य पूर्व युद्ध से ऊर्जा कीमतों में उछाल और विमान ईंधन की कमी के बावजूद एयरलाइंस पहले से टिकट खरीद चुके यात्रियों पर अतिरिक्त ईंधन शुल्क नहीं लगा सकतीं।",
+        "body": "यूरोपीय संघ ने कहा कि मध्य पूर्व युद्ध के असर से ऊर्जा कीमतें तेज बढ़ने और विमान ईंधन की कमी जारी रहने पर भी एयरलाइंस पहले से हवाई टिकट खरीद चुके यात्रियों पर अतिरिक्त ईंधन अधिभार नहीं लगा सकतीं। यूरोपीय एयरलाइंस ऊर्जा लागत में बढ़ोतरी और ईंधन आपूर्ति की कठिनाइयों से प्रभावित हैं, लेकिन EU का रुख है कि इन दबावों को मौजूदा टिकट धारकों पर नई लागत डालने का आधार नहीं बनाया जा सकता। यह कदम टिकट खरीद के बाद अतिरिक्त खर्च को लेकर चिंतित यात्रियों की सुरक्षा पर केंद्रित है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "UE Larang Maskapai Tambah Biaya Bahan Bakar pada Tiket yang Sudah Dibeli",
+        "excerpt": "UE menyatakan maskapai tidak boleh mengenakan biaya tambahan bahan bakar kepada penumpang yang sudah membeli tiket, meski harga energi melonjak dan bahan bakar aviasi langka akibat perang Timur Tengah.",
+        "body": "Uni Eropa menyatakan maskapai tidak boleh menambahkan biaya bahan bakar kepada penumpang yang sudah membeli tiket, sekalipun harga energi melonjak dan kelangkaan bahan bakar aviasi berlanjut akibat perang di Timur Tengah. Maskapai Eropa terdampak kenaikan biaya energi dan kesulitan pasokan bahan bakar, tetapi UE menilai tekanan itu tidak dapat dijadikan alasan untuk mengalihkan biaya baru kepada pemegang tiket yang sudah ada. Kebijakan ini berfokus melindungi penumpang dari beban tambahan setelah pembelian tiket. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "80e6a6900836",
+    "slug": "국세청-탈세-혐의-하나금융은행-세무조사-착수-820906",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T20:59:19.731Z",
+    "updatedAt": "2026-05-08T20:59:19.731Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509001300002",
+    "titleFingerprint": "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+    "dedupKeys": [
+      "80e6a690083677f0ff90d95fc62246c1125bbebf",
+      "41b9c5b84dd8c7364c0511e14367dbeaeb587fd0",
+      "36e96fa175e0310c2166069dbc8887c5bcd0d5e6"
+    ],
+    "imageUrl": "/images/articles/80e6a6900836.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청, 탈세 혐의 관련 하나금융·하나은행 세무조사 착수",
+        "excerpt": "국세청이 하나금융지주와 하나은행을 대상으로 탈세 혐의와 관련한 세무조사에 착수한 것으로 알려졌다고 연합뉴스가 보도했다.",
+        "body": "국세청이 하나금융지주[086790]와 하나은행에 대한 세무조사에 착수한 것으로 알려졌다. 연합뉴스에 따르면 이번 조사는 두 기관을 대상으로 한 탈세 혐의와 관련해 진행되는 것으로 전해졌다. 하나금융지주와 하나은행은 국내 금융권의 주요 금융회사로, 세무조사 착수 여부는 금융시장과 관련 업계의 관심을 받을 수 있는 사안이다. 다만 원문 보도에서 조사 범위, 구체적 혐의 내용, 조사 기간, 회사 측 입장 등 추가 세부 사항은 제시되지 않았다. 향후 국세청 조사 진행 상황과 관련 기관의 설명이 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tax Agency Starts Probe Into Hana Financial and Hana Bank Over Tax Evasion Suspicions",
+        "excerpt": "South Korea’s National Tax Service has reportedly begun a tax investigation into Hana Financial Group and Hana Bank over suspected tax evasion, Yonhap News Agency reported.",
+        "body": "South Korea’s National Tax Service has reportedly launched a tax investigation into Hana Financial Group [086790] and Hana Bank. According to Yonhap News Agency, the probe is said to be connected to suspected tax evasion involving the two institutions. Hana Financial Group and Hana Bank are major companies in the domestic financial sector, making the reported start of a tax investigation a matter likely to draw attention from financial markets and the industry. However, the original report did not provide further details such as the scope of the investigation, specific allegations, investigation period, or the companies’ responses. Developments in the tax probe and explanations from related parties are expected to be watched closely. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "国税庁、脱税疑惑でハナ金融・ハナ銀行への税務調査に着手",
+        "excerpt": "韓国国税庁がハナ金融持株とハナ銀行を対象に、脱税疑惑に関連した税務調査に着手したと聯合ニュースが報じた。",
+        "body": "韓国国税庁がハナ金融持株[086790]とハナ銀行に対する税務調査に着手したとされる。聯合ニュースによると、今回の調査は両機関を対象とした脱税疑惑に関連して進められているという。ハナ金融持株とハナ銀行は韓国金融業界の主要企業であり、税務調査の着手は金融市場や関連業界の関心を集め得る事案だ。ただし、元記事では調査範囲、具体的な疑惑の内容、調査期間、会社側の立場など追加の詳細は示されていない。今後の国税庁の調査進行状況と関連機関の説明が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国国税厅就逃税嫌疑启动对韩亚金融和韩亚银行税务调查",
+        "excerpt": "韩联社报道称，韩国国税厅已据悉开始对韩亚金融控股和韩亚银行展开与逃税嫌疑有关的税务调查。",
+        "body": "韩国国税厅据悉已开始对韩亚金融控股[086790]和韩亚银行进行税务调查。据韩联社报道，此次调查被认为与针对这两家机构的逃税嫌疑有关。韩亚金融控股和韩亚银行是韩国金融业的主要公司，因此税务调查的启动可能引发金融市场和相关行业关注。不过，原报道未提供调查范围、具体嫌疑内容、调查期限以及公司方面立场等更多细节。未来国税厅调查进展及相关机构说明预计将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agencia tributaria investiga a Hana Financial y Hana Bank por sospechas de evasión",
+        "excerpt": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal sobre Hana Financial Group y Hana Bank por presunta evasión fiscal, informó Yonhap.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur habría iniciado una investigación fiscal sobre Hana Financial Group [086790] y Hana Bank. Según la agencia Yonhap, la pesquisa estaría relacionada con sospechas de evasión fiscal que involucran a ambas instituciones. Hana Financial Group y Hana Bank son compañías relevantes del sector financiero surcoreano, por lo que el inicio de una investigación fiscal puede atraer la atención de los mercados financieros y de la industria. Sin embargo, el reporte original no ofreció más detalles sobre el alcance de la investigación, los cargos específicos, el periodo de revisión ni la postura de las empresas. Se espera atención sobre el avance de la investigación y las explicaciones de las partes relacionadas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Fisco sul-coreano investiga Hana Financial e Hana Bank por suspeita de evasão",
+        "excerpt": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma investigação fiscal sobre Hana Financial Group e Hana Bank por suspeita de evasão fiscal, informou a Yonhap.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul teria iniciado uma investigação fiscal sobre o Hana Financial Group [086790] e o Hana Bank. Segundo a agência Yonhap, a investigação estaria ligada a suspeitas de evasão fiscal envolvendo as duas instituições. O Hana Financial Group e o Hana Bank são empresas importantes do setor financeiro sul-coreano, tornando o início da investigação um tema que pode atrair atenção dos mercados e da indústria. No entanto, a reportagem original não apresentou detalhes adicionais sobre o escopo da investigação, acusações específicas, período apurado ou posição das empresas. O andamento da investigação e as explicações das partes relacionadas devem ser acompanhados. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Steuerbehörde prüft Hana Financial und Hana Bank wegen Verdachts auf Steuerhinterziehung",
+        "excerpt": "Südkoreas National Tax Service hat laut Yonhap eine Steuerprüfung gegen Hana Financial Group und Hana Bank wegen mutmaßlicher Steuerhinterziehung eingeleitet.",
+        "body": "Südkoreas National Tax Service hat Berichten zufolge eine Steuerprüfung gegen Hana Financial Group [086790] und Hana Bank eingeleitet. Nach Angaben der Nachrichtenagentur Yonhap steht die Prüfung im Zusammenhang mit dem Verdacht auf Steuerhinterziehung bei den beiden Institutionen. Hana Financial Group und Hana Bank zählen zu den wichtigen Unternehmen des südkoreanischen Finanzsektors, weshalb der Beginn einer Steuerprüfung Aufmerksamkeit an den Finanzmärkten und in der Branche auf sich ziehen kann. Der ursprüngliche Bericht nannte jedoch keine weiteren Details zum Umfang der Prüfung, zu konkreten Vorwürfen, zum Untersuchungszeitraum oder zur Position der Unternehmen. Der weitere Verlauf der Prüfung und Erklärungen der beteiligten Stellen dürften im Fokus stehen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le fisc sud-coréen enquête sur Hana Financial et Hana Bank pour soupçons d’évasion",
+        "excerpt": "Le Service national des impôts sud-coréen aurait lancé une enquête fiscale sur Hana Financial Group et Hana Bank pour soupçons d’évasion fiscale, selon Yonhap.",
+        "body": "Le Service national des impôts de Corée du Sud aurait lancé une enquête fiscale sur Hana Financial Group [086790] et Hana Bank. Selon l’agence Yonhap, cette enquête serait liée à des soupçons d’évasion fiscale visant les deux institutions. Hana Financial Group et Hana Bank figurent parmi les grandes entreprises du secteur financier sud-coréen, ce qui peut attirer l’attention des marchés financiers et du secteur. Toutefois, l’article initial ne fournit pas de détails supplémentaires sur le périmètre de l’enquête, la nature précise des soupçons, la période examinée ou la position des entreprises. L’évolution de l’enquête fiscale et les explications des parties concernées devraient être suivies de près. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مصلحة الضرائب الكورية تحقق مع هانا المالية وبنك هانا بشبهة تهرب ضريبي",
+        "excerpt": "أفادت يونهاب بأن مصلحة الضرائب الوطنية في كوريا الجنوبية بدأت تحقيقا ضريبيا مع مجموعة هانا المالية وبنك هانا على خلفية شبهات تهرب ضريبي.",
+        "body": "أفادت تقارير بأن مصلحة الضرائب الوطنية في كوريا الجنوبية بدأت تحقيقا ضريبيا مع مجموعة هانا المالية [086790] وبنك هانا. وبحسب وكالة يونهاب، يرتبط التحقيق بشبهات تهرب ضريبي تخص المؤسستين. وتعد مجموعة هانا المالية وبنك هانا من الشركات الرئيسية في القطاع المالي الكوري الجنوبي، لذلك قد يحظى بدء التحقيق الضريبي باهتمام الأسواق المالية والقطاع المعني. ولم يورد التقرير الأصلي تفاصيل إضافية بشأن نطاق التحقيق أو مضمون الشبهات المحددة أو مدة التحقيق أو موقف الشركتين. ومن المتوقع متابعة تطورات تحقيق مصلحة الضرائب وتوضيحات الجهات ذات الصلة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कर चोरी संदेह पर हाना फाइनेंशियल और हाना बैंक की कर जांच शुरू",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरिया की राष्ट्रीय कर सेवा ने कर चोरी के संदेह को लेकर हाना फाइनेंशियल ग्रुप और हाना बैंक की कर जांच शुरू की है।",
+        "body": "दक्षिण कोरिया की राष्ट्रीय कर सेवा ने कथित तौर पर हाना फाइनेंशियल ग्रुप [086790] और हाना बैंक के खिलाफ कर जांच शुरू की है। योनहाप समाचार एजेंसी के अनुसार, यह जांच दोनों संस्थानों से जुड़े कर चोरी के संदेह से संबंधित बताई जा रही है। हाना फाइनेंशियल ग्रुप और हाना बैंक दक्षिण कोरिया के वित्तीय क्षेत्र की प्रमुख कंपनियां हैं, इसलिए कर जांच शुरू होने की खबर वित्तीय बाजारों और संबंधित उद्योग का ध्यान खींच सकती है। हालांकि मूल रिपोर्ट में जांच के दायरे, विशिष्ट आरोपों, जांच अवधि या कंपनियों की प्रतिक्रिया जैसे अतिरिक्त विवरण नहीं दिए गए। आगे राष्ट्रीय कर सेवा की जांच की प्रगति और संबंधित पक्षों की व्याख्या पर नजर रहेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Otoritas Pajak Korea Selidiki Hana Financial dan Hana Bank atas Dugaan Penghindaran Pajak",
+        "excerpt": "Layanan Pajak Nasional Korea Selatan dilaporkan mulai menyelidiki Hana Financial Group dan Hana Bank terkait dugaan penghindaran pajak, menurut Yonhap.",
+        "body": "Layanan Pajak Nasional Korea Selatan dilaporkan telah memulai penyelidikan pajak terhadap Hana Financial Group [086790] dan Hana Bank. Menurut kantor berita Yonhap, penyelidikan ini disebut terkait dengan dugaan penghindaran pajak yang melibatkan kedua institusi tersebut. Hana Financial Group dan Hana Bank merupakan perusahaan utama di sektor keuangan Korea Selatan, sehingga dimulainya penyelidikan pajak dapat menarik perhatian pasar keuangan dan industri terkait. Namun, laporan awal tidak memberikan rincian tambahan mengenai cakupan penyelidikan, isi dugaan secara spesifik, periode pemeriksaan, atau sikap perusahaan. Perkembangan penyelidikan otoritas pajak dan penjelasan dari pihak terkait diperkirakan akan menjadi perhatian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9e8fc581a9e5",
+    "slug": "달러-원-위험-선호-재확산에-오름폭-축소146230원-마감-384427",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T20:58:21.709Z",
+    "updatedAt": "2026-05-08T20:58:21.710Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509004100002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509004100002",
+    "titleFingerprint": "b647ab32ba2affb63f23b0f7fac8a7c067fc7098",
+    "dedupKeys": [
+      "9e8fc581a9e5d93362b07a805d5d4531b1c51762",
+      "b647ab32ba2affb63f23b0f7fac8a7c067fc7098",
+      "977b7cd7638ac02dafffbc60dc56b7cd6d8345d0"
+    ],
+    "imageUrl": "/images/articles/9e8fc581a9e5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "달러-원 환율 1,462.30원 마감, 위험 선호 재확산에 상승폭 축소",
+        "excerpt": "뉴욕 야간 거래에서 달러-원 환율이 위험 선호 재확산 영향으로 상승폭을 줄이며 1,462.30원에 마감했다. 환율은 1,460원대 초반에서 장을 닫았다.",
+        "body": "달러-원 환율이 뉴욕 야간 거래에서 상승폭을 줄이며 1,462.30원에 마감했다. 연합뉴스에 따르면 진정호 연합인포맥스 특파원은 달러-원 환율이 1,460원대 초반에서 장을 닫았다고 전했다. 이번 움직임은 위험 선호 심리가 다시 확산된 가운데 나타났다. 환율은 상승 흐름을 보였지만 장중 오름폭을 축소하며 마감가 기준 1,462.30원을 기록했다. 시장에서는 달러-원 환율이 1,460원대 초반에서 마감했다는 점이 확인됐다. 관련 내용은 yna.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "Dollar-Won Ends at 1,462.30 Won as Risk Appetite Narrows Gains",
+        "excerpt": "In overnight trading in New York, the dollar-won exchange rate trimmed its gains as risk appetite reemerged, closing at 1,462.30 won in the low 1,460 won range.",
+        "body": "The dollar-won exchange rate trimmed its gains in overnight trading in New York and closed at 1,462.30 won. According to Yonhap News Agency, Jin Jung-ho, a correspondent for Yonhap Infomax, reported that the exchange rate ended the session in the low 1,460 won range. The move came as risk appetite spread again. Although the rate moved higher, it reduced its advance during the session and recorded a closing level of 1,462.30 won. The market confirmed that the dollar-won rate finished in the low 1,460 won range. This report cites yna.co.kr."
+      },
+      "ja": {
+        "title": "ドル・ウォン相場、リスク選好再拡大で上げ幅縮小し1,462.30ウォンで終了",
+        "excerpt": "ニューヨークの夜間取引でドル・ウォン相場はリスク選好の再拡大を受けて上げ幅を縮小し、1,462.30ウォンで取引を終えた。",
+        "body": "ドル・ウォン相場はニューヨークの夜間取引で上げ幅を縮小し、1,462.30ウォンで終了した。聯合ニュースによると、聯合インフォマックスのチン・ジョンホ特派員は、ドル・ウォン相場が1,460ウォン台前半で取引を終えたと伝えた。今回の動きは、リスク選好心理が再び広がるなかで現れた。相場は上昇基調を示したものの、取引中に上げ幅を縮め、終値ベースで1,462.30ウォンを記録した。市場では、ドル・ウォン相場が1,460ウォン台前半で終了した点が確認された。本記事はyna.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "美元兑韩元收于1,462.30韩元，风险偏好回升令涨幅收窄",
+        "excerpt": "在纽约夜盘交易中，美元兑韩元汇率因风险偏好重新扩散而缩小涨幅，最终收于1,462.30韩元，位于1,460韩元出头区间。",
+        "body": "美元兑韩元汇率在纽约夜盘交易中缩小涨幅，收于1,462.30韩元。据韩联社报道，韩联Infomax记者陈正浩称，美元兑韩元汇率在1,460韩元出头区间结束交易。此次走势出现在风险偏好情绪再次扩散的背景下。汇率虽呈上涨走势，但盘中涨幅收窄，按收盘价计算为1,462.30韩元。市场确认，美元兑韩元汇率最终收在1,460韩元出头区间。本文引用yna.co.kr报道。"
+      },
+      "es": {
+        "title": "Dólar-won cierra en 1.462,30 wones al recortar avances por mayor apetito por riesgo",
+        "excerpt": "En la negociación nocturna de Nueva York, el dólar-won redujo sus ganancias por la reaparición del apetito por riesgo y cerró en 1.462,30 wones.",
+        "body": "El tipo de cambio dólar-won recortó sus avances en la negociación nocturna de Nueva York y cerró en 1.462,30 wones. Según Yonhap News, Jin Jung-ho, corresponsal de Yonhap Infomax, informó que el dólar-won terminó la sesión en la zona baja de los 1.460 wones. El movimiento se produjo mientras volvía a extenderse el apetito por el riesgo. Aunque el tipo de cambio mostró una tendencia al alza, redujo su avance durante la sesión y registró un cierre de 1.462,30 wones. El mercado confirmó que el dólar-won cerró en la parte baja de los 1.460 wones. Este texto cita el reporte de yna.co.kr."
+      },
+      "pt": {
+        "title": "Dólar-won fecha a 1.462,30 won com ganhos menores após retorno do apetite por risco",
+        "excerpt": "No pregão noturno em Nova York, o dólar-won reduziu a alta com a volta do apetite por risco e encerrou a 1.462,30 won, na faixa inicial de 1.460 won.",
+        "body": "A taxa de câmbio dólar-won reduziu seus ganhos no pregão noturno em Nova York e fechou a 1.462,30 won. Segundo a Yonhap News, Jin Jung-ho, correspondente da Yonhap Infomax, informou que o dólar-won encerrou a sessão na faixa inicial de 1.460 won. O movimento ocorreu em meio à nova disseminação do apetite por risco. Embora a taxa tenha mostrado alta, ela diminuiu o avanço durante a sessão e registrou fechamento de 1.462,30 won. O mercado confirmou que o dólar-won terminou na faixa inicial de 1.460 won. Este texto cita a reportagem de yna.co.kr."
+      },
+      "de": {
+        "title": "Dollar-Won schließt bei 1.462,30 Won, Risikofreude dämpft Kursanstieg",
+        "excerpt": "Im New Yorker Nachthandel verringerte der Dollar-Won seine Gewinne, da die Risikoneigung wieder zunahm, und schloss bei 1.462,30 Won im unteren 1.460er-Bereich.",
+        "body": "Der Dollar-Won-Wechselkurs hat im New Yorker Nachthandel seine Gewinne reduziert und bei 1.462,30 Won geschlossen. Laut Yonhap News berichtete Jin Jung-ho, Korrespondent von Yonhap Infomax, dass der Kurs die Sitzung im unteren Bereich von 1.460 Won beendete. Die Bewegung erfolgte, während sich die Risikoneigung erneut ausbreitete. Zwar zeigte der Wechselkurs eine Aufwärtsbewegung, doch im Handelsverlauf verringerte sich der Anstieg, sodass der Schlusskurs bei 1.462,30 Won lag. Am Markt wurde bestätigt, dass der Dollar-Won im unteren 1.460-Won-Bereich schloss. Dieser Beitrag zitiert yna.co.kr."
+      },
+      "fr": {
+        "title": "Dollar-won à 1 462,30 wons, hausse réduite avec le retour de l’appétit pour le risque",
+        "excerpt": "Lors des échanges nocturnes à New York, le dollar-won a réduit ses gains avec le retour de l’appétit pour le risque et a clôturé à 1 462,30 wons.",
+        "body": "Le taux de change dollar-won a réduit ses gains lors des échanges nocturnes à New York et a clôturé à 1 462,30 wons. Selon Yonhap News, Jin Jung-ho, correspondant de Yonhap Infomax, a rapporté que le dollar-won avait terminé la séance dans le bas de la zone des 1 460 wons. Ce mouvement est intervenu alors que l’appétit pour le risque se diffusait de nouveau. Même si le taux a progressé, il a réduit son avance pendant la séance et a inscrit une clôture à 1 462,30 wons. Le marché a confirmé une fin de séance dans le bas des 1 460 wons. Cet article cite yna.co.kr."
+      },
+      "ar": {
+        "title": "الدولار-وون يغلق عند 1,462.30 وون مع تقلص المكاسب بفعل عودة شهية المخاطرة",
+        "excerpt": "في التداولات الليلية في نيويورك، قلص سعر صرف الدولار-وون مكاسبه مع عودة انتشار شهية المخاطرة، وأغلق عند 1,462.30 وون ضمن أوائل نطاق 1,460 وون.",
+        "body": "قلص سعر صرف الدولار-وون مكاسبه في التداولات الليلية في نيويورك وأغلق عند 1,462.30 وون. وبحسب وكالة يونهاب للأنباء، أفاد جين جونغ هو، مراسل يونهاب إنفوماكس، بأن سعر الدولار-وون أنهى الجلسة في أوائل نطاق 1,460 وون. وجاءت هذه الحركة مع عودة انتشار شهية المخاطرة. ورغم أن السعر اتجه صعودا، فإنه خفض مكاسبه خلال الجلسة وسجل مستوى إغلاق عند 1,462.30 وون. وأكد السوق أن الدولار-وون أغلق في أوائل نطاق 1,460 وون. يستند هذا النص إلى تقرير yna.co.kr."
+      },
+      "hi": {
+        "title": "डॉलर-वॉन 1,462.30 वॉन पर बंद, जोखिम रुझान लौटने से बढ़त घटी",
+        "excerpt": "न्यूयॉर्क के रात्रिकालीन कारोबार में डॉलर-वॉन विनिमय दर ने जोखिम रुझान फिर फैलने के बीच बढ़त घटाई और 1,462.30 वॉन पर बंद हुई।",
+        "body": "डॉलर-वॉन विनिमय दर न्यूयॉर्क के रात्रिकालीन कारोबार में अपनी बढ़त घटाकर 1,462.30 वॉन पर बंद हुई। योनहाप न्यूज के अनुसार, योनहाप इन्फोमैक्स के संवाददाता जिन जंग-हो ने बताया कि डॉलर-वॉन दर 1,460 वॉन के शुरुआती दायरे में सत्र समाप्त कर गई। यह चाल जोखिम लेने की भावना के फिर फैलने के बीच आई। दर में बढ़त दिखी, लेकिन कारोबार के दौरान उसका उछाल कम हुआ और बंद भाव 1,462.30 वॉन रहा। बाजार में यह पुष्टि हुई कि डॉलर-वॉन दर 1,460 वॉन के शुरुआती स्तरों पर बंद हुई। यह लेख yna.co.kr की रिपोर्ट का हवाला देता है।"
+      },
+      "id": {
+        "title": "Dolar-won ditutup 1.462,30 won, kenaikan menyempit saat selera risiko kembali",
+        "excerpt": "Dalam perdagangan malam di New York, kurs dolar-won memangkas kenaikan karena selera risiko kembali menyebar dan ditutup pada 1.462,30 won.",
+        "body": "Kurs dolar-won memangkas kenaikannya dalam perdagangan malam di New York dan ditutup pada 1.462,30 won. Menurut Yonhap News, Jin Jung-ho, koresponden Yonhap Infomax, melaporkan bahwa dolar-won mengakhiri sesi di kisaran awal 1.460 won. Pergerakan ini terjadi saat sentimen selera risiko kembali menyebar. Meski kurs bergerak naik, kenaikannya menyempit selama sesi dan mencatat penutupan di 1.462,30 won. Pasar memastikan dolar-won berakhir di kisaran awal 1.460 won. Artikel ini mengutip laporan yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "8b83a5c2879e",
     "slug": "국제유가-호르무즈-긴장에-상승-브렌트유-12-515851",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kompleks Langganan Nasional Makin Diminati, Hoban Summit Cheomdan 3 Siap Dipasarkan Juni",
         "excerpt": "Kompleks hunian yang membuka langganan prioritas pertama tanpa melihat domisili menarik perhatian, dengan Hoban Summit Cheomdan 3 dijadwalkan dipasarkan pada Juni.",
         "body": "Kompleks hunian yang memungkinkan pengajuan langganan tanpa memandang domisili sedang menarik perhatian di pasar properti Korea Selatan. Menurut kalangan industri properti pada tanggal 8, kompleks yang terbuka untuk langganan nasional secara umum menunjukkan hasil langganan yang baik. Khususnya Hoban Summit Cheomdan 3 District, yang dijadwalkan dipasarkan pada Juni, menjadi perhatian karena siapa pun dapat mengajukan sebagai pemohon prioritas pertama. Dengan menurunkan batasan wilayah dan memperluas basis permintaan, kinerja kompleks semacam ini diperkirakan tetap menjadi fokus di pasar penjualan mendatang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f8908d0e72ee",
-    "slug": "평택-고덕-수자인풍경채-12단지-288804",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T09:41:41.288Z",
-    "updatedAt": "2026-05-08T09:41:41.288Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050847141",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050847141",
-    "titleFingerprint": "5efe4578d6c68279dead4e9b89d0b2b833368c4d",
-    "dedupKeys": [
-      "f8908d0e72ee1de2cf92133c0b144072d1603038",
-      "5efe4578d6c68279dead4e9b89d0b2b833368c4d",
-      "ce94eb585d1edf67098e52f3067f2d9b1cfeb5bd"
-    ],
-    "imageUrl": "/images/articles/f8908d0e72ee.jpg",
-    "i18n": {
-      "ko": {
-        "title": "평택 고덕 수자인풍경채 1·2단지, 8일 모델하우스 열고 분양 돌입",
-        "excerpt": "BS한양에 따르면 평택 고덕국제신도시 수자인풍경채 1·2단지는 2026년 5월 8일 모델하우스를 열고 11일부터 청약 일정을 시작한다.",
-        "body": "경기 평택시 고덕국제화계획지구에 조성되는 ‘고덕국제신도시 수자인풍경채 1·2단지’가 2026년 5월 8일 모델하우스를 열고 분양 일정에 들어간다. BS한양에 따르면 이 단지는 고덕국제신도시 Abc-14, Abc-61 두 블록에 2개 단지, 총 1126가구 규모로 조성되며 전용 84㎡와 101㎡로 구성된다. 청약은 5월 11일 특별공급, 12일 1순위, 13일 2순위 순으로 진행된다. 당첨자 발표는 1단지 5월 19일, 2단지 5월 20일로 달라 중복 청약이 가능하다. 계약은 6월 1일부터 4일까지다. 거주지와 관계없이 만 19세 이상이면 청약할 수 있으며, 유주택자 청약과 재당첨 제한 없음도 안내됐다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae Opens Model Home on May 8",
-        "excerpt": "According to BS Hanyang, Godeok International New Town Sujain Punggyeongchae Blocks 1 and 2 in Pyeongtaek opens its model home on May 8, 2026, with subscriptions starting May 11.",
-        "body": "Godeok International New Town Sujain Punggyeongchae Blocks 1 and 2, planned in the Godeok Internationalization Planning District in Pyeongtaek, Gyeonggi Province, will open its model home on May 8, 2026 and begin its sales schedule. According to BS Hanyang, the project will be built across two blocks, Abc-14 and Abc-61, as two apartment complexes with a total of 1,126 homes. Units will be offered in exclusive areas of 84 square meters and 101 square meters. The subscription schedule begins with special supply on May 11, first-priority applications on May 12, and second-priority applications on May 13. Winners will be announced separately, on May 19 for Complex 1 and May 20 for Complex 2, allowing duplicate applications. Contracts run from June 1 to 4. Adults aged 19 or older may apply regardless of residence, and applications by homeowners are allowed with no re-winning restriction. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "平沢高徳スザイン風景チェ1・2団地、5月8日にモデルハウス開館",
-        "excerpt": "BSハンヤンによると、平沢の高徳国際新都市スザイン風景チェ1・2団地は2026年5月8日にモデルハウスを開き、11日から申込日程に入る。",
-        "body": "京畿道平沢市の高徳国際化計画地区に造成される「高徳国際新都市スザイン風景チェ1・2団地」は、2026年5月8日にモデルハウスを開館し、分譲日程を開始する。BSハンヤンによると、同団地は高徳国際新都市のAbc-14、Abc-61の2ブロックに2団地、計1126戸規模で造成され、専用面積84平方メートルと101平方メートルで構成される。申込は5月11日の特別供給を皮切りに、12日に第1順位、13日に第2順位を受け付ける。当選者発表は1団地が5月19日、2団地が5月20日と異なるため重複申込が可能だ。契約は6月1日から4日まで行われる。居住地に関係なく満19歳以上なら申込でき、有住宅者の申込や再当選制限なしも案内された。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "平泽高德Sujain Punggyeongchae 1、2期5月8日开放样板房",
-        "excerpt": "据BS韩阳介绍，平泽高德国際新城Sujain Punggyeongchae 1、2期将于2026年5月8日开放样板房，并从5月11日起启动认购日程。",
-        "body": "位于京畿道平泽市高德国際化计划地区的“高德国際新城Sujain Punggyeongchae 1、2期”将于2026年5月8日开放样板房，并进入销售日程。据BS韩阳介绍，该项目位于高德国際新城Abc-14和Abc-61两个地块，由两个小区组成，总规模为1126户，户型为专有面积84平方米和101平方米。认购安排为5月11日特别供应、5月12日一顺位、5月13日二顺位。中签者公布日期不同，1期为5月19日，2期为5月20日，因此可以重复认购。合同签署时间为6月1日至4日。项目面向全国认购，满19岁以上成年人不受居住地限制均可申请，同时允许有房者认购，并无再次中签限制。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae abre casa modelo el 8 de mayo",
-        "excerpt": "Según BS Hanyang, Godeok International New Town Sujain Punggyeongchae 1 y 2 en Pyeongtaek abrirá su casa modelo el 8 de mayo de 2026 e iniciará solicitudes el día 11.",
-        "body": "Godeok International New Town Sujain Punggyeongchae 1 y 2, que se construirá en el distrito de planificación internacional de Godeok en Pyeongtaek, provincia de Gyeonggi, abrirá su casa modelo el 8 de mayo de 2026 y comenzará su calendario de venta. Según BS Hanyang, el proyecto se levantará en dos bloques, Abc-14 y Abc-61, con dos complejos y un total de 1.126 viviendas. Las unidades tendrán superficies exclusivas de 84 y 101 metros cuadrados. Las solicitudes empiezan el 11 de mayo con la oferta especial, siguen el 12 con primera prioridad y el 13 con segunda prioridad. Los ganadores se anuncian el 19 de mayo para el complejo 1 y el 20 de mayo para el complejo 2, por lo que se permite solicitar ambos. Los contratos se firmarán del 1 al 4 de junio. Pueden postular adultos de 19 años o más sin importar su residencia; también se permite a propietarios y no hay restricción por adjudicación previa. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae abre modelo em 8 de maio",
-        "excerpt": "Segundo a BS Hanyang, o Godeok International New Town Sujain Punggyeongchae 1 e 2, em Pyeongtaek, abre o modelo em 8 de maio de 2026 e inicia inscrições no dia 11.",
-        "body": "O Godeok International New Town Sujain Punggyeongchae 1 e 2, planejado para o distrito de internacionalização de Godeok em Pyeongtaek, província de Gyeonggi, abrirá seu modelo decorado em 8 de maio de 2026 e iniciará o cronograma de venda. Segundo a BS Hanyang, o empreendimento será construído em dois blocos, Abc-14 e Abc-61, com dois complexos e 1.126 unidades no total. As moradias terão áreas privativas de 84 e 101 metros quadrados. As inscrições começam em 11 de maio com a oferta especial, seguem em 12 de maio para primeira prioridade e em 13 de maio para segunda prioridade. Os resultados saem em datas diferentes, 19 de maio para o complexo 1 e 20 de maio para o complexo 2, permitindo inscrições duplicadas. Os contratos serão assinados de 1 a 4 de junho. Adultos de 19 anos ou mais podem se inscrever independentemente da residência; proprietários também são aceitos e não há restrição de nova contemplação. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae öffnet Musterhaus am 8. Mai",
-        "excerpt": "Laut BS Hanyang öffnet Godeok International New Town Sujain Punggyeongchae 1 und 2 in Pyeongtaek am 8. Mai 2026 sein Musterhaus; die Bewerbungen starten am 11. Mai.",
-        "body": "Godeok International New Town Sujain Punggyeongchae 1 und 2 im Godeok Internationalization Planning District der Stadt Pyeongtaek in der Provinz Gyeonggi öffnet am 8. Mai 2026 sein Musterhaus und startet damit den Verkaufszeitplan. Laut BS Hanyang entsteht das Projekt auf den zwei Blöcken Abc-14 und Abc-61 als zwei Wohnanlagen mit insgesamt 1.126 Haushalten. Angeboten werden Einheiten mit exklusiven Flächen von 84 und 101 Quadratmetern. Die Bewerbungen beginnen am 11. Mai mit dem Sonderkontingent, am 12. Mai folgt die erste Priorität und am 13. Mai die zweite Priorität. Die Gewinner werden getrennt bekannt gegeben, am 19. Mai für Anlage 1 und am 20. Mai für Anlage 2, wodurch Doppelbewerbungen möglich sind. Die Vertragsphase läuft vom 1. bis 4. Juni. Erwachsene ab 19 Jahren können unabhängig vom Wohnort teilnehmen; auch Eigentümer dürfen sich bewerben, und es gibt keine Wiedergewinnbeschränkung. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae ouvre son logement témoin le 8 mai",
-        "excerpt": "Selon BS Hanyang, Godeok International New Town Sujain Punggyeongchae 1 et 2 à Pyeongtaek ouvrira son logement témoin le 8 mai 2026, avant les souscriptions du 11 mai.",
-        "body": "Godeok International New Town Sujain Punggyeongchae 1 et 2, prévu dans le district de planification internationale de Godeok à Pyeongtaek, dans la province de Gyeonggi, ouvrira son logement témoin le 8 mai 2026 et lancera son calendrier de vente. Selon BS Hanyang, le projet sera construit sur deux blocs, Abc-14 et Abc-61, sous la forme de deux ensembles résidentiels totalisant 1 126 logements. Les surfaces privatives proposées seront de 84 et 101 mètres carrés. Les demandes commenceront le 11 mai avec l’offre spéciale, puis la première priorité le 12 mai et la deuxième priorité le 13 mai. Les résultats seront annoncés séparément, le 19 mai pour l’ensemble 1 et le 20 mai pour l’ensemble 2, ce qui permet une double demande. Les contrats seront signés du 1er au 4 juin. Les adultes de 19 ans ou plus peuvent postuler sans condition de résidence; les propriétaires sont aussi éligibles et aucune restriction de réattribution n’est indiquée. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "بيونغتايك غودوك سوجاين بونغيونغتشي يفتح نموذج العرض في 8 مايو",
-        "excerpt": "بحسب BS Hanyang، يفتح مشروع Godeok International New Town Sujain Punggyeongchae 1 و2 في بيونغتايك نموذج العرض في 8 مايو 2026، وتبدأ طلبات الاكتتاب في 11 مايو.",
-        "body": "يفتح مشروع Godeok International New Town Sujain Punggyeongchae 1 و2، المخطط له في منطقة غودوك الدولية بمدينة بيونغتايك في مقاطعة غيونغي، نموذج العرض في 8 مايو 2026 ويدخل جدول البيع. وبحسب BS Hanyang، سيقام المشروع على قطعتين هما Abc-14 وAbc-61، في مجمعين يضمان إجمالا 1126 وحدة سكنية. وتتكون الوحدات من مساحات خاصة تبلغ 84 و101 متر مربع. يبدأ الاكتتاب في 11 مايو بالعرض الخاص، ثم طلبات الأولوية الأولى في 12 مايو، والأولوية الثانية في 13 مايو. ويختلف موعد إعلان الفائزين، إذ يعلن مجمع 1 في 19 مايو ومجمع 2 في 20 مايو، ما يتيح التقديم المزدوج. وتمتد فترة التعاقد من 1 إلى 4 يونيو. يمكن لمن بلغ 19 عاما فأكثر التقديم بغض النظر عن محل الإقامة، كما يسمح لأصحاب المنازل بالتقديم ولا توجد قيود على إعادة الفوز. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "प्योंगटेक गोदेओक सुजाइन पुङग्योंगचाए 8 मई को मॉडल हाउस खोलेगा",
-        "excerpt": "BS Hanyang के अनुसार, प्योंगटेक का Godeok International New Town Sujain Punggyeongchae 1 और 2, 8 मई 2026 को मॉडल हाउस खोलेगा और 11 मई से आवेदन शुरू करेगा।",
-        "body": "ग्योंगी प्रांत के प्योंगटेक शहर में गोदेओक इंटरनेशनलाइजेशन प्लानिंग डिस्ट्रिक्ट में बनने वाला “Godeok International New Town Sujain Punggyeongchae 1 और 2” 8 मई 2026 को मॉडल हाउस खोलेगा और बिक्री कार्यक्रम शुरू करेगा। BS Hanyang के अनुसार, यह परियोजना Godeok International New Town के Abc-14 और Abc-61 दो ब्लॉकों में दो कॉम्प्लेक्स के रूप में बनेगी, जिनमें कुल 1,126 घर होंगे। इकाइयां 84 वर्ग मीटर और 101 वर्ग मीटर के विशेष क्षेत्रफल में होंगी। आवेदन 11 मई को विशेष आपूर्ति, 12 मई को पहली प्राथमिकता और 13 मई को दूसरी प्राथमिकता के क्रम में लिए जाएंगे। विजेताओं की घोषणा अलग-अलग होगी: कॉम्प्लेक्स 1 के लिए 19 मई और कॉम्प्लेक्स 2 के लिए 20 मई, इसलिए दोहरा आवेदन संभव है। अनुबंध 1 से 4 जून तक होंगे। 19 वर्ष या उससे अधिक आयु के वयस्क निवास स्थान की परवाह किए बिना आवेदन कर सकते हैं; मकान मालिकों को भी आवेदन की अनुमति है और पुनः चयन पर कोई प्रतिबंध नहीं है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Pyeongtaek Godeok Sujain Punggyeongchae Buka Rumah Contoh 8 Mei",
-        "excerpt": "Menurut BS Hanyang, Godeok International New Town Sujain Punggyeongchae 1 dan 2 di Pyeongtaek membuka rumah contoh pada 8 Mei 2026 dan memulai pendaftaran 11 Mei.",
-        "body": "Godeok International New Town Sujain Punggyeongchae 1 dan 2, yang dibangun di Distrik Perencanaan Internasionalisasi Godeok, Kota Pyeongtaek, Provinsi Gyeonggi, akan membuka rumah contoh pada 8 Mei 2026 dan memulai jadwal penjualan. Menurut BS Hanyang, proyek ini berada di dua blok, Abc-14 dan Abc-61, terdiri dari dua kompleks dengan total 1.126 rumah. Unit yang ditawarkan memiliki luas eksklusif 84 meter persegi dan 101 meter persegi. Pendaftaran dimulai 11 Mei untuk pasokan khusus, 12 Mei untuk prioritas pertama, dan 13 Mei untuk prioritas kedua. Pengumuman pemenang berbeda tanggal, yaitu 19 Mei untuk kompleks 1 dan 20 Mei untuk kompleks 2, sehingga pendaftaran ganda dimungkinkan. Kontrak berlangsung pada 1 hingga 4 Juni. Orang dewasa berusia 19 tahun ke atas dapat mendaftar tanpa memandang domisili; pemilik rumah juga dapat mendaftar dan tidak ada pembatasan menang kembali. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "cdc724a6b139",
-    "slug": "서울-아파트-낙찰가율-3개월-만에-반등-198629",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T09:40:23.135Z",
-    "updatedAt": "2026-05-08T09:40:23.135Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050847161",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050847161",
-    "titleFingerprint": "e51cbee4ea442abc7f6c89956b787dcba99d0559",
-    "dedupKeys": [
-      "cdc724a6b139cb79f4f2b3d0faba8278d31d3469",
-      "e51cbee4ea442abc7f6c89956b787dcba99d0559",
-      "5c6818ab7e4fa2eec348ebbad97e65b4a43e009b"
-    ],
-    "imageUrl": "/images/articles/cdc724a6b139.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 낙찰가율 3개월 만에 반등, 경매시장 흐름 변화 주목",
-        "excerpt": "서울 아파트 낙찰가율이 3개월 만에 반등했다. 경매시장에서 낙찰가 수준이 다시 올라서며 서울 주택 경매 흐름에 관심이 모이고 있다.",
-        "body": "서울 아파트 낙찰가율이 3개월 만에 반등했다. 낙찰가율은 감정가 대비 실제 낙찰가의 비율로, 경매시장에서 매수 수요와 가격 흐름을 가늠하는 지표로 활용된다. 이번 반등은 최근 서울 아파트 경매시장에서 낙찰가 수준이 이전보다 높아졌다는 점을 보여준다. 다만 제공된 원문에는 구체적인 낙찰가율 수치나 지역별 세부 내용은 포함되지 않았다. 시장에서는 서울 아파트 경매 가격 흐름이 다시 움직이는지 주목하고 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Seoul apartment auction price ratio rebounds after three months",
-        "excerpt": "The auction price ratio for Seoul apartments rebounded after three months, drawing attention to whether pricing momentum is shifting in the city’s housing auction market.",
-        "body": "The auction price ratio for apartments in Seoul has rebounded after three months. The ratio compares the winning auction price with the appraised value and is used as an indicator of buyer demand and price trends in the auction market. The rebound shows that winning bid levels for Seoul apartments have moved higher than before. However, the provided source text does not include specific ratio figures or district-level details. Market watchers are now paying attention to whether Seoul’s apartment auction price trend is beginning to shift again. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ソウルのマンション落札価率、3カ月ぶり反発に市場が注目",
-        "excerpt": "ソウルのマンション落札価率が3カ月ぶりに反発した。競売市場で落札価格の水準が再び上向き、住宅競売の流れに関心が集まっている。",
-        "body": "ソウルのマンション落札価率が3カ月ぶりに反発した。落札価率は鑑定価格に対する実際の落札価格の割合で、競売市場における買い需要や価格動向を把握する指標として使われる。今回の反発は、最近のソウルのマンション競売市場で落札価格の水準が以前より高まったことを示している。ただし、提供された原文には具体的な落札価率の数値や地域別の詳細は含まれていない。市場ではソウルのマンション競売価格の流れが再び動くのか注目されている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "首尔公寓拍卖成交价率三个月来反弹，市场关注走势变化",
-        "excerpt": "首尔公寓拍卖成交价率三个月来出现反弹，拍卖成交价格水平再次上升，引发市场对首尔住宅拍卖走势的关注。",
-        "body": "首尔公寓拍卖成交价率三个月来出现反弹。成交价率是实际成交价相对于评估价的比例，常被用来观察拍卖市场中的买方需求和价格走势。此次反弹显示，近期首尔公寓拍卖市场的成交价格水平较此前有所上升。不过，所提供的原文未包含具体成交价率数据或各地区细节。市场正在关注首尔公寓拍卖价格走势是否再次发生变化。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La ratio de adjudicación de apartamentos en Seúl repunta tras tres meses",
-        "excerpt": "La ratio de precio de adjudicación de apartamentos en Seúl repuntó tras tres meses, elevando el interés por la evolución del mercado de subastas residenciales.",
-        "body": "La ratio de precio de adjudicación de los apartamentos en Seúl repuntó tras tres meses. Este indicador compara el precio final de una subasta con el valor tasado y se utiliza para medir la demanda compradora y la tendencia de precios en el mercado de subastas. El repunte muestra que los niveles de adjudicación de apartamentos en Seúl han subido frente al periodo anterior. Sin embargo, el texto original proporcionado no incluye cifras concretas ni detalles por zona. El mercado observa ahora si la tendencia de precios en las subastas de apartamentos de Seúl vuelve a cambiar. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Taxa de arremate de apartamentos em Seul volta a subir após três meses",
-        "excerpt": "A taxa de preço de arremate de apartamentos em Seul voltou a subir após três meses, chamando atenção para o rumo do mercado de leilões residenciais.",
-        "body": "A taxa de preço de arremate de apartamentos em Seul voltou a subir após três meses. O indicador compara o preço efetivo de arremate com o valor de avaliação e é usado para acompanhar a demanda compradora e a tendência de preços no mercado de leilões. A recuperação mostra que os níveis de arremate de apartamentos em Seul ficaram mais altos do que antes. No entanto, o texto original fornecido não traz números específicos da taxa nem detalhes por região. O mercado observa se o movimento dos preços nos leilões de apartamentos de Seul voltará a mudar. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Seouls Auktionspreisquote für Wohnungen steigt nach drei Monaten wieder",
-        "excerpt": "Die Auktionspreisquote für Wohnungen in Seoul ist nach drei Monaten wieder gestiegen und lenkt den Blick auf mögliche Veränderungen im Wohnungsauktionsmarkt.",
-        "body": "Die Auktionspreisquote für Wohnungen in Seoul ist nach drei Monaten wieder gestiegen. Die Quote vergleicht den tatsächlichen Zuschlagspreis mit dem Schätzwert und dient als Indikator für Käufernachfrage und Preisentwicklung im Auktionsmarkt. Der Anstieg zeigt, dass die Zuschlagspreise für Wohnungen in Seoul zuletzt höher lagen als zuvor. Der bereitgestellte Originaltext enthält jedoch keine konkreten Quotenwerte oder Details nach Stadtteilen. Marktteilnehmer beobachten nun, ob sich der Preistrend bei Seouls Wohnungsauktionen erneut verändert. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le taux d’adjudication des appartements à Séoul rebondit après trois mois",
-        "excerpt": "Le taux de prix d’adjudication des appartements à Séoul a rebondi après trois mois, attirant l’attention sur l’évolution du marché des enchères résidentielles.",
-        "body": "Le taux de prix d’adjudication des appartements à Séoul a rebondi après trois mois. Cet indicateur compare le prix final obtenu aux enchères avec la valeur estimée et sert à mesurer la demande des acheteurs ainsi que la tendance des prix sur le marché des enchères. Ce rebond montre que les niveaux d’adjudication des appartements à Séoul ont augmenté par rapport à la période précédente. Toutefois, le texte source fourni ne contient pas de chiffres précis ni de détails par secteur. Le marché observe désormais si la tendance des prix des enchères d’appartements à Séoul évolue de nouveau. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "نسبة أسعار مزادات الشقق في سيول ترتد بعد ثلاثة أشهر من التراجع",
-        "excerpt": "ارتفعت نسبة أسعار ترسية مزادات الشقق في سيول بعد ثلاثة أشهر، ما يلفت الانتباه إلى مسار سوق مزادات المساكن في العاصمة الكورية.",
-        "body": "ارتفعت نسبة أسعار ترسية الشقق في سيول بعد ثلاثة أشهر. وتقيس هذه النسبة سعر الترسية الفعلي مقارنة بالقيمة التقديرية، وتستخدم مؤشرا على طلب المشترين واتجاهات الأسعار في سوق المزادات. ويظهر هذا الارتداد أن مستويات أسعار ترسية الشقق في سيول أصبحت أعلى من السابق. لكن النص الأصلي المقدم لا يتضمن أرقاما محددة للنسبة أو تفاصيل حسب المناطق. ويراقب السوق الآن ما إذا كان اتجاه أسعار مزادات الشقق في سيول سيتحرك من جديد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट नीलामी मूल्य अनुपात तीन महीने बाद फिर चढ़ा",
-        "excerpt": "सियोल अपार्टमेंटों का नीलामी मूल्य अनुपात तीन महीने बाद फिर बढ़ा, जिससे शहर के आवासीय नीलामी बाजार की कीमतों के रुझान पर ध्यान गया है।",
-        "body": "सियोल में अपार्टमेंटों का नीलामी मूल्य अनुपात तीन महीने बाद फिर बढ़ा है। यह अनुपात मूल्यांकन राशि की तुलना में वास्तविक नीलामी成交 मूल्य को दिखाता है और नीलामी बाजार में खरीदार मांग तथा कीमतों के रुझान का संकेतक माना जाता है। इस बढ़त से पता चलता है कि सियोल अपार्टमेंट नीलामी में成交 मूल्य का स्तर पहले से ऊपर गया है। हालांकि उपलब्ध कराए गए मूल पाठ में कोई विशिष्ट अनुपात आंकड़ा या क्षेत्रवार विवरण शामिल नहीं है। बाजार अब देख रहा है कि सियोल अपार्टमेंट नीलामी कीमतों का रुझान फिर बदलता है या नहीं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Rasio harga lelang apartemen Seoul naik lagi setelah tiga bulan",
-        "excerpt": "Rasio harga lelang apartemen Seoul rebound setelah tiga bulan, membuat pasar mencermati kembali arah harga dalam lelang hunian di ibu kota Korea Selatan.",
-        "body": "Rasio harga lelang apartemen di Seoul rebound setelah tiga bulan. Rasio ini membandingkan harga lelang yang dimenangkan dengan nilai taksiran dan digunakan sebagai indikator permintaan pembeli serta tren harga di pasar lelang. Kenaikan ini menunjukkan bahwa tingkat harga pemenang lelang apartemen di Seoul bergerak lebih tinggi dari sebelumnya. Namun, teks sumber yang diberikan tidak memuat angka rasio tertentu atau rincian per wilayah. Pasar kini mencermati apakah tren harga lelang apartemen Seoul kembali berubah. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2272a7cb875e",
-    "slug": "돈-가치는-떨어지고-공급은-줄고집값-더-오를-수밖에-없다-976758",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T09:39:24.623Z",
-    "updatedAt": "2026-05-08T09:39:24.623Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041410",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041410",
-    "titleFingerprint": "ac9613d7fd88b1a3fa20658599bc18b5143f7db5",
-    "dedupKeys": [
-      "2272a7cb875ed8af2028af81bc37341225945eae",
-      "ac9613d7fd88b1a3fa20658599bc18b5143f7db5",
-      "5e5c47a3a35aa9980e0047e6876ae6bed8c6af87"
-    ],
-    "imageUrl": "/images/articles/2272a7cb875e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산 시장 전망, 돈 가치 하락·공급 감소가 집값 상승 압력 키운다",
-        "excerpt": "‘아기곰의 재테크 불변의 법칙’ 저자 아기곰은 현재 부동산 시장이 재미없지만 중요한 구간이라며 돈 가치 하락과 공급 감소가 집값 상승 압력으로 작용한다고 짚었다.",
-        "body": "부동산 재테크 분야 베스트셀러 ‘아기곰의 재테크 불변의 법칙’ 저자 아기곰은 현재 부동산 시장을 “재미없는 구간”이지만 “가장 중요한 구간”이라고 진단했다. 그는 돈 가치가 떨어지고 공급은 줄어드는 흐름이 맞물리면서 집값이 더 오를 수밖에 없다는 취지로 시장을 설명했다. 이번 발언은 부동산 시장의 단기 흥미보다 가격을 움직이는 기본 조건에 주목해야 한다는 맥락에서 나왔다. 수요·공급과 화폐 가치 변화가 시장 판단의 핵심 변수로 제시된 만큼, 향후 시장 참여자들은 공급 축소와 자산 가격 흐름을 함께 살펴볼 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Real Estate Outlook: Falling Money Value and Lower Supply Add Pressure on Home Prices",
-        "excerpt": "Aegigom, author of The Immutable Laws of Wealth Building, said the current real estate market is dull but important, citing falling money value and reduced supply as upward pressure on home prices.",
-        "body": "Aegigom, author of the real estate finance bestseller The Immutable Laws of Wealth Building, described the current housing market as a “dull stretch” but also “the most important stretch.” He explained that falling money value and shrinking supply are combining in a way that leaves home prices with further upward pressure. The remarks were made in the context of focusing less on short-term market excitement and more on the basic conditions that move prices. As supply and demand, along with changes in currency value, were presented as key variables for market judgment, participants may need to watch both reduced supply and asset price trends. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "不動産市場見通し、貨幣価値低下と供給減少が住宅価格上昇圧力に",
-        "excerpt": "『アギゴムの財テク不変の法則』著者のアギゴム氏は、現在の不動産市場は面白みに欠けるが重要な局面であり、貨幣価値の低下と供給減少が住宅価格の上昇圧力になると指摘した。",
-        "body": "不動産財テク分野のベストセラー『アギゴムの財テク不変の法則』の著者アギゴム氏は、現在の不動産市場を「面白くない局面」だが「最も重要な局面」と診断した。同氏は、貨幣価値が下がり供給が減る流れが重なり、住宅価格はさらに上がらざるを得ないという趣旨で市場を説明した。今回の発言は、短期的な市場の面白さよりも価格を動かす基本条件に注目すべきだという文脈で出た。需給と貨幣価値の変化が市場判断の核心変数として示されたため、今後の市場参加者は供給縮小と資産価格の流れを併せて見る必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "房地产市场展望：货币价值下滑与供应减少推高房价压力",
-        "excerpt": "《Aegigom理财不变法则》作者Aegigom指出，当前房地产市场虽然缺乏看点，却是重要阶段，货币价值下滑和供应减少正对房价形成上行压力。",
-        "body": "房地产理财畅销书《Aegigom理财不变法则》作者Aegigom将当前房地产市场判断为“无趣的区间”，但也是“最重要的区间”。他解释称，货币价值下降与供应减少的趋势相互叠加，使房价不得不面临进一步上涨的压力。此番表态是在提醒市场，与其关注短期热度，不如关注推动价格变化的基本条件。由于供需关系和货币价值变化被视为判断市场的核心变量，未来市场参与者有必要同时观察供应收缩和资产价格走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Perspectiva inmobiliaria: menor valor del dinero y menos oferta presionan la vivienda",
-        "excerpt": "Aegigom, autor de Las leyes inmutables de la inversión personal, dijo que el mercado inmobiliario actual es poco atractivo pero clave, y que la caída del valor del dinero y la menor oferta presionan al alza los precios.",
-        "body": "Aegigom, autor del bestseller de finanzas inmobiliarias Las leyes inmutables de la inversión personal, describió el mercado inmobiliario actual como un “tramo poco interesante”, pero también como “el tramo más importante”. Explicó que la caída del valor del dinero y la reducción de la oferta se combinan de forma que los precios de la vivienda no pueden evitar una mayor presión alcista. Sus comentarios se enmarcan en la necesidad de observar menos el atractivo de corto plazo del mercado y más las condiciones básicas que mueven los precios. Dado que la oferta y la demanda, junto con los cambios en el valor de la moneda, fueron presentados como variables centrales, los participantes deberán seguir tanto la contracción de la oferta como la evolución de los activos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Perspectiva imobiliária: queda do valor do dinheiro e menor oferta pressionam preços",
-        "excerpt": "Aegigom, autor de As Leis Imutáveis da Construção de Patrimônio, afirmou que o mercado imobiliário atual é pouco atraente, mas importante, e que a queda do valor do dinheiro e a menor oferta pressionam os preços das casas.",
-        "body": "Aegigom, autor do best-seller de finanças imobiliárias As Leis Imutáveis da Construção de Patrimônio, classificou o mercado imobiliário atual como um “período sem graça”, mas também como “o período mais importante”. Ele explicou que a queda do valor do dinheiro e a redução da oferta se combinam de modo a criar pressão para novas altas nos preços dos imóveis. A declaração surgiu no contexto de dar menos atenção ao interesse de curto prazo do mercado e mais às condições básicas que movem os preços. Como oferta e demanda, além das mudanças no valor da moeda, foram apresentadas como variáveis centrais, os participantes do mercado devem acompanhar tanto a redução da oferta quanto a trajetória dos preços dos ativos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Immobilienausblick: Sinkender Geldwert und knappere Versorgung erhöhen Preisdruck",
-        "excerpt": "Aegigom, Autor von Die unveränderlichen Regeln des Vermögensaufbaus, bezeichnete den aktuellen Immobilienmarkt als wenig spannend, aber wichtig, und verwies auf sinkenden Geldwert und geringeres Angebot als Preistreiber.",
-        "body": "Aegigom, Autor des Immobilienfinanz-Bestsellers Die unveränderlichen Regeln des Vermögensaufbaus, beschrieb den aktuellen Immobilienmarkt als eine “wenig interessante Phase”, zugleich aber als “die wichtigste Phase”. Er erklärte, dass sinkender Geldwert und ein rückläufiges Angebot zusammenwirken und dadurch weiteren Aufwärtsdruck auf die Hauspreise erzeugen. Die Aussage fiel im Kontext, weniger auf kurzfristige Marktspannung und stärker auf die grundlegenden Bedingungen zu achten, die Preise bewegen. Da Angebot und Nachfrage sowie Veränderungen des Geldwerts als zentrale Variablen für die Markteinschätzung genannt wurden, sollten Marktteilnehmer künftig sowohl die Angebotsverknappung als auch die Entwicklung der Vermögenspreise beobachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Immobilier: baisse de la valeur de l’argent et offre réduite accentuent la pression",
-        "excerpt": "Aegigom, auteur de Les lois immuables de la constitution de patrimoine, estime que le marché immobilier actuel est peu animé mais essentiel, la baisse de la valeur de l’argent et l’offre réduite soutenant la pression sur les prix.",
-        "body": "Aegigom, auteur du best-seller de finance immobilière Les lois immuables de la constitution de patrimoine, a décrit le marché immobilier actuel comme une “période peu intéressante”, mais aussi comme “la période la plus importante”. Il a expliqué que la baisse de la valeur de l’argent et la diminution de l’offre se combinent, créant une pression supplémentaire à la hausse sur les prix des logements. Cette déclaration s’inscrit dans l’idée qu’il faut moins se concentrer sur l’attrait de court terme du marché que sur les conditions fondamentales qui font évoluer les prix. L’offre et la demande, ainsi que les changements de valeur de la monnaie, ayant été présentés comme des variables clés, les acteurs du marché devront suivre à la fois la contraction de l’offre et l’évolution des prix des actifs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات العقار: تراجع قيمة المال وانخفاض المعروض يزيدان ضغط أسعار المنازل",
-        "excerpt": "قال أيغيغوم، مؤلف كتاب القواعد الثابتة لبناء الثروة، إن سوق العقارات الحالي ليس مثيرا لكنه مهم، مشيرا إلى أن تراجع قيمة المال وانخفاض المعروض يضيفان ضغطا صعوديا على أسعار المنازل.",
-        "body": "وصف أيغيغوم، مؤلف كتاب القواعد الثابتة لبناء الثروة في مجال التمويل العقاري، سوق العقارات الحالي بأنه “مرحلة غير ممتعة”، لكنه قال إنها أيضا “المرحلة الأكثر أهمية”. وأوضح أن تراجع قيمة المال وتقلص المعروض يتداخلان بطريقة تجعل أسعار المنازل تحت ضغط إضافي نحو الارتفاع. جاءت هذه التصريحات في سياق الدعوة إلى التركيز بدرجة أقل على جاذبية السوق قصيرة الأجل وبدرجة أكبر على الشروط الأساسية التي تحرك الأسعار. وبما أن العرض والطلب، إلى جانب تغير قيمة العملة، طُرحت كمتغيرات رئيسية في تقييم السوق، فقد يحتاج المشاركون إلى متابعة تقلص المعروض واتجاه أسعار الأصول معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रियल एस्टेट परिदृश्य: पैसे का घटता मूल्य और कम आपूर्ति घरों की कीमतों पर दबाव बढ़ाते हैं",
-        "excerpt": "द इम्यूटेबल लॉज ऑफ वेल्थ बिल्डिंग के लेखक एगिगोम ने कहा कि मौजूदा रियल एस्टेट बाजार नीरस लेकिन महत्वपूर्ण दौर में है, जहां पैसे का घटता मूल्य और कम आपूर्ति घरों की कीमतों पर ऊपर की ओर दबाव बना रहे हैं।",
-        "body": "रियल एस्टेट वित्त की बेस्टसेलर पुस्तक द इम्यूटेबल लॉज ऑफ वेल्थ बिल्डिंग के लेखक एगिगोम ने मौजूदा संपत्ति बाजार को “नीरस दौर” लेकिन “सबसे महत्वपूर्ण दौर” बताया। उन्होंने समझाया कि पैसे का मूल्य घटने और आपूर्ति कम होने की प्रवृत्ति साथ आ रही है, जिससे घरों की कीमतों पर और बढ़ने का दबाव बनता है। यह टिप्पणी बाजार की अल्पकालिक दिलचस्पी से अधिक उन बुनियादी स्थितियों पर ध्यान देने के संदर्भ में आई जो कीमतों को चलाती हैं। चूंकि मांग-आपूर्ति और मुद्रा मूल्य में बदलाव को बाजार आकलन के प्रमुख कारक के रूप में रखा गया है, इसलिए बाजार प्रतिभागियों को आपूर्ति में कमी और संपत्ति कीमतों की दिशा को साथ-साथ देखना होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Prospek Properti: Nilai Uang Turun dan Pasokan Menyusut Tekan Harga Rumah",
-        "excerpt": "Aegigom, penulis The Immutable Laws of Wealth Building, menilai pasar properti saat ini kurang menarik tetapi penting, karena penurunan nilai uang dan berkurangnya pasokan memberi tekanan naik pada harga rumah.",
-        "body": "Aegigom, penulis buku laris keuangan properti The Immutable Laws of Wealth Building, menggambarkan pasar properti saat ini sebagai “periode yang kurang menarik”, tetapi juga “periode paling penting”. Ia menjelaskan bahwa penurunan nilai uang dan menyusutnya pasokan saling bertemu sehingga harga rumah berada dalam tekanan untuk terus naik. Pernyataan ini muncul dalam konteks perlunya lebih memperhatikan kondisi dasar yang menggerakkan harga, bukan sekadar daya tarik jangka pendek pasar. Karena pasokan dan permintaan, bersama perubahan nilai mata uang, disebut sebagai variabel inti dalam menilai pasar, pelaku pasar perlu mencermati penyusutan pasokan dan arah harga aset secara bersamaan. Sumber: mk.co.kr"
       }
     }
   }
