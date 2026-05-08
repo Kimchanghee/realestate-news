@@ -1,5 +1,230 @@
 [
   {
+    "id": "bfc6e0ac022f",
+    "slug": "지방-분양시장-4베이판상형에-청약-34배-더-몰렸다-826578",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T07:53:51.989Z",
+    "updatedAt": "2026-05-08T07:53:51.989Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605083403i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605083403i",
+    "titleFingerprint": "3b654934a8cb1eb544a09cc671a8dac742bd5973",
+    "dedupKeys": [
+      "bfc6e0ac022f4f88451de62dde747121f5cce84a",
+      "3b654934a8cb1eb544a09cc671a8dac742bd5973",
+      "226b01684febe690d26c642713a3bc8adaf6b2f4"
+    ],
+    "imageUrl": "/images/articles/bfc6e0ac022f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "지방 분양시장 4베이·판상형 청약 집중, 경쟁률 3.4배 차이",
+        "excerpt": "지방 분양시장에서 4베이·판상형 구조를 갖춘 단지에 청약 수요가 더 많이 몰리며, 해당 평면의 청약 경쟁이 다른 유형보다 3.4배 높게 나타났다고 hankyung.com이 전했다.",
+        "body": "지방 분양시장에서 4베이·판상형 구조를 갖춘 아파트에 청약 수요가 더 집중된 것으로 나타났다. hankyung.com에 따르면 해당 평면을 적용한 단지에는 다른 구조보다 청약자가 3.4배 더 몰렸다. 4베이와 판상형은 주거 선호도가 높은 평면 요소로 꼽히며, 지방 분양시장에서도 청약 결과의 차이를 만든 요인으로 제시됐다. 이번 수치는 지방 신규 분양 단지에서 평면 설계가 수요 선택에 영향을 줄 수 있음을 보여준다. 분양시장에서는 입지와 가격뿐 아니라 실내 구조와 생활 편의성이 청약 경쟁에 반영되는 흐름이 이어질 수 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Local Apartment Sales See 3.4 Times More Bids for 4-Bay Plate-Type Layouts",
+        "excerpt": "In local apartment presale markets, complexes with 4-bay, plate-type layouts drew stronger subscription demand, with competition 3.4 times higher than other layouts, hankyung.com reported.",
+        "body": "In local apartment presale markets, demand was more concentrated on apartments with 4-bay, plate-type layouts. According to hankyung.com, complexes using those floor plans attracted 3.4 times more subscription applicants than other structures. The 4-bay and plate-type formats are viewed as preferred residential layout features, and the report presented them as factors that created a difference in subscription results in regional markets. The figure shows that floor-plan design can affect buyer choice in new local presale projects. In the presale market, indoor structure and living convenience may continue to be reflected in competition, along with location and price. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "地方分譲市場、4ベイ・板状型に申込み集中 競争率3.4倍",
+        "excerpt": "地方の分譲市場で、4ベイ・板状型の間取りを備えた団地に申込み需要が集まり、他のタイプより3.4倍高い競争となったとhankyung.comが伝えた。",
+        "body": "地方の分譲市場で、4ベイ・板状型の構造を備えたマンションに申込み需要がより集中したことが分かった。hankyung.comによると、該当する間取りを採用した団地には、他の構造より申込者が3.4倍多く集まった。4ベイと板状型は居住選好度の高い間取り要素とされ、地方分譲市場でも申込み結果に差を生む要因として示された。今回の数値は、地方の新規分譲団地で間取り設計が需要者の選択に影響し得ることを示している。分譲市場では立地や価格だけでなく、室内構造と生活利便性も競争に反映される流れが続く可能性がある。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "地方新盘市场4开间板式户型受青睐，认购热度高3.4倍",
+        "excerpt": "hankyung.com报道称，在地方新盘市场，采用4开间、板式结构的项目吸引更多认购需求，其认购竞争比其他户型高出3.4倍。",
+        "body": "地方新盘市场中，采用4开间、板式结构的公寓认购需求更为集中。hankyung.com报道称，应用该类户型的项目吸引的认购者数量比其他结构多3.4倍。4开间和板式户型被视为居住偏好较高的平面要素，也被提出为地方新盘市场认购结果出现差异的原因之一。这一数据表明，在地方新建预售项目中，户型设计可能影响购房需求的选择。新盘市场中，除地段和价格外，室内结构与生活便利性也可能继续反映在认购竞争中。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Mercado regional de preventa: diseños 4-bay y tipo placa atraen 3,4 veces más demanda",
+        "excerpt": "En el mercado regional de preventa de viviendas, los complejos con diseños 4-bay y tipo placa recibieron más demanda de suscripción, 3,4 veces superior a otros formatos, informó hankyung.com.",
+        "body": "En el mercado regional de preventa de apartamentos, la demanda se concentró más en viviendas con diseños 4-bay y tipo placa. Según hankyung.com, los complejos que aplicaron esos planos atrajeron 3,4 veces más solicitantes de suscripción que otras estructuras. Los formatos 4-bay y tipo placa se consideran elementos de distribución con alta preferencia residencial, y fueron presentados como factores que marcaron diferencias en los resultados de suscripción en mercados regionales. La cifra muestra que el diseño del plano puede influir en la elección de la demanda en nuevos proyectos regionales. En el mercado de preventa, además de ubicación y precio, la estructura interior y la comodidad de vida pueden seguir reflejándose en la competencia. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Mercado regional de pré-venda: plantas 4-bay e tipo lâmina atraem 3,4 vezes mais procura",
+        "excerpt": "No mercado regional de pré-venda de apartamentos, empreendimentos com plantas 4-bay e tipo lâmina concentraram mais inscrições, 3,4 vezes acima de outros formatos, informou hankyung.com.",
+        "body": "No mercado regional de pré-venda de apartamentos, a demanda se concentrou mais em unidades com plantas 4-bay e tipo lâmina. Segundo hankyung.com, os empreendimentos que adotaram esse tipo de planta receberam 3,4 vezes mais inscritos do que outras estruturas. Os formatos 4-bay e tipo lâmina são considerados elementos de planta com alta preferência residencial e foram apontados como fatores que criaram diferença nos resultados de inscrição no mercado regional. O dado mostra que o desenho da planta pode influenciar a escolha da demanda em novos empreendimentos regionais. No mercado de pré-venda, além de localização e preço, a estrutura interna e a conveniência de moradia podem continuar refletidas na competição. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Regionale Wohnungsverkäufe: 4-Bay- und Plattenlayouts ziehen 3,4-mal mehr Bewerber an",
+        "excerpt": "Im regionalen Vorverkaufsmarkt für Wohnungen erhielten Projekte mit 4-Bay- und Plattenlayouts deutlich mehr Nachfrage; die Bewerbungen lagen 3,4-mal höher, berichtete hankyung.com.",
+        "body": "Im regionalen Vorverkaufsmarkt für Wohnungen konzentrierte sich die Nachfrage stärker auf Apartments mit 4-Bay- und Plattenlayouts. Laut hankyung.com zogen Projekte mit diesen Grundrissen 3,4-mal mehr Bewerber an als andere Strukturen. 4-Bay- und Plattenlayouts gelten als Grundrisselemente mit hoher Wohnpräferenz und wurden als Faktoren genannt, die in regionalen Märkten Unterschiede bei den Bewerbungsergebnissen verursachten. Die Zahl zeigt, dass die Grundrissgestaltung die Auswahl der Nachfrage bei neuen regionalen Vorverkaufsprojekten beeinflussen kann. Im Vorverkaufsmarkt könnten neben Lage und Preis auch Innenstruktur und Wohnkomfort weiter in den Wettbewerb einfließen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Marché régional du neuf : les plans 4-bay et en barre attirent 3,4 fois plus de demandes",
+        "excerpt": "Sur le marché régional des logements en prévente, les résidences avec plans 4-bay et en barre ont attiré davantage de souscriptions, 3,4 fois plus que les autres formats, selon hankyung.com.",
+        "body": "Sur le marché régional des appartements en prévente, la demande s’est davantage concentrée sur les logements dotés de plans 4-bay et en barre. Selon hankyung.com, les résidences utilisant ces plans ont attiré 3,4 fois plus de candidats à la souscription que les autres structures. Les formats 4-bay et en barre sont considérés comme des éléments de plan très appréciés pour l’habitation, et ils ont été présentés comme des facteurs expliquant l’écart des résultats de souscription dans les marchés régionaux. Ce chiffre montre que la conception du plan peut influencer le choix de la demande dans les nouveaux projets régionaux. Sur le marché de la prévente, la structure intérieure et la commodité de vie pourraient continuer à peser dans la concurrence, avec l’emplacement et le prix. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "سوق الطرح السكني المحلي: مخططات 4 باي والنمط اللوحي تجذب طلبا أعلى 3.4 مرات",
+        "excerpt": "في سوق الطرح السكني المحلي، جذبت المجمعات ذات مخططات 4 باي والنمط اللوحي طلبا أكبر على الاكتتاب، بمستوى أعلى 3.4 مرات من الأنماط الأخرى، وفق hankyung.com.",
+        "body": "في سوق الطرح المسبق للشقق في المناطق المحلية، تركز الطلب بدرجة أكبر على الشقق ذات مخططات 4 باي والنمط اللوحي. ووفقا لموقع hankyung.com، اجتذبت المجمعات التي تطبق هذه المخططات عددا من المتقدمين للاكتتاب يزيد 3.4 مرات عن الهياكل الأخرى. وتعد مخططات 4 باي والنمط اللوحي من عناصر التصميم السكني المفضلة، وقد طرحت كعوامل صنعت فارقا في نتائج الاكتتاب داخل أسواق المناطق. ويظهر هذا الرقم أن تصميم المخطط الداخلي يمكن أن يؤثر في اختيار الطلب في مشاريع الطرح الجديدة خارج المراكز الرئيسية. وفي سوق الطرح، قد تستمر البنية الداخلية وراحة المعيشة في الانعكاس على المنافسة، إلى جانب الموقع والسعر. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "क्षेत्रीय प्रीसेल बाजार में 4-बे और प्लेट-टाइप लेआउट पर 3.4 गुना अधिक आवेदन",
+        "excerpt": "क्षेत्रीय अपार्टमेंट प्रीसेल बाजार में 4-बे और प्लेट-टाइप लेआउट वाले परिसरों पर आवेदन मांग अधिक रही, जो अन्य संरचनाओं से 3.4 गुना ज्यादा थी, hankyung.com ने बताया।",
+        "body": "क्षेत्रीय अपार्टमेंट प्रीसेल बाजार में 4-बे और प्लेट-टाइप संरचना वाले अपार्टमेंट पर आवेदन मांग अधिक केंद्रित रही। hankyung.com के अनुसार, ऐसे फ्लोर प्लान अपनाने वाले परिसरों में अन्य संरचनाओं की तुलना में 3.4 गुना अधिक आवेदक आए। 4-बे और प्लेट-टाइप को उच्च आवासीय पसंद वाले लेआउट तत्व माना जाता है, और क्षेत्रीय प्रीसेल बाजार में आवेदन परिणामों में अंतर पैदा करने वाले कारक के रूप में प्रस्तुत किया गया। यह आंकड़ा दिखाता है कि नए क्षेत्रीय प्रीसेल परिसरों में फ्लोर-प्लान डिजाइन मांग के चयन को प्रभावित कर सकता है। प्रीसेल बाजार में स्थान और कीमत के साथ-साथ आंतरिक संरचना और रहने की सुविधा भी प्रतिस्पर्धा में झलकती रह सकती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Pasar Prasale Daerah: Layout 4-Bay dan Tipe Plat Diminati 3,4 Kali Lebih Tinggi",
+        "excerpt": "Di pasar prasale apartemen daerah, kompleks dengan layout 4-bay dan tipe plat menarik permintaan pendaftaran lebih besar, 3,4 kali lebih tinggi dibanding struktur lain, lapor hankyung.com.",
+        "body": "Di pasar prasale apartemen daerah, permintaan lebih terkonsentrasi pada apartemen dengan struktur 4-bay dan tipe plat. Menurut hankyung.com, kompleks yang menerapkan denah tersebut menarik pendaftar 3,4 kali lebih banyak dibanding struktur lain. Format 4-bay dan tipe plat dinilai sebagai unsur denah hunian yang banyak disukai, dan disebut sebagai faktor yang membuat perbedaan dalam hasil pendaftaran di pasar daerah. Angka ini menunjukkan bahwa desain denah dapat memengaruhi pilihan permintaan pada proyek prasale baru di daerah. Di pasar prasale, selain lokasi dan harga, struktur interior dan kenyamanan tinggal dapat terus tercermin dalam persaingan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "8fb430122a24",
+    "slug": "2주-먼저-분양권-계약했다-3억-세금-폭탄5월-9일-양도세-중과-부활-국세청-출신-전문가의-조언-792175",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T07:52:42.887Z",
+    "updatedAt": "2026-05-08T07:52:42.887Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041197",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041197",
+    "titleFingerprint": "bb9302d3ce91ec842bb27224237958a229f0affb",
+    "dedupKeys": [
+      "8fb430122a24d7848753673f830e06e10ae0d111",
+      "bb9302d3ce91ec842bb27224237958a229f0affb",
+      "2ad86ddbc35d7a6b678f2ed4125a997f611b36b2"
+    ],
+    "imageUrl": "/images/articles/8fb430122a24.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5월 9일 다주택자 양도세 중과 부활…분양권 계약 시점 따라 세금 급증",
+        "excerpt": "5월 9일 유예됐던 다주택자 양도세 중과가 다시 적용되며, 같은 주택을 같은 가격에 팔아도 계약 시점과 보유 상황에 따라 세 부담이 크게 달라질 수 있다.",
+        "body": "5월 9일부터 유예됐던 다주택자 양도소득세 중과가 부활한다. 매일경제 보도에 따르면 김범진 세무법인 상승 이사와 박민수 더스마트컴퍼니 대표는 분양권 계약 시점이 2주 빨랐다는 이유만으로 약 3억원의 세 부담 차이가 발생할 수 있다고 설명했다. 같은 집을 같은 가격에 팔아도 중과 적용 여부에 따라 세금이 두 배 수준으로 불어날 수 있고, 매도하지 않고 보유만 해도 종합부동산세 부담이 이어질 수 있다. 다주택자는 매매 일정과 보유 주택 수, 분양권 계약일을 면밀히 확인해야 한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Multi-Home Capital Gains Surtax Returns May 9, Raising Tax Risk on Presale Rights",
+        "excerpt": "From May 9, the suspended capital gains surtax for multiple-home owners returns, meaning the same home sold at the same price may carry sharply different taxes depending on timing and holdings.",
+        "body": "The suspended capital gains tax surcharge for multiple-home owners will return on May 9. According to Maeil Business Newspaper, Kim Beom-jin, director at Sangsung Tax Corporation, and Park Min-soo, CEO of The Smart Company, said signing a presale-rights contract just two weeks earlier could create a tax burden difference of about 300 million won. Even when the same home is sold at the same price, tax may rise to roughly double depending on whether the surcharge applies. Owners who simply keep holding properties may also continue to face comprehensive real estate tax burdens. Multiple-home owners need to check sale schedules, the number of homes held, and presale contract dates closely. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "5月9日に多住宅所有者の譲渡税重課が復活、分譲権契約時期で税負担急増",
+        "excerpt": "5月9日から猶予されていた多住宅所有者への譲渡所得税重課が再適用され、同じ住宅を同じ価格で売っても契約時期や保有状況で税負担が大きく変わる。",
+        "body": "5月9日から、猶予されていた多住宅所有者への譲渡所得税重課が復活する。毎日経済の報道によると、税務法人サンスンのキム・ボムジン理事とザ・スマートカンパニーのパク・ミンス代表は、分譲権契約が2週間早かっただけで約3億ウォンの税負担差が生じる可能性があると説明した。同じ住宅を同じ価格で売却しても、重課の適用有無によって税金が約2倍に膨らむ可能性がある。売却せず保有し続ける場合も総合不動産税の負担が続き得る。多住宅所有者は売買日程、保有住宅数、分譲権契約日を綿密に確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "5月9日多房者转让税重税恢复，预售权签约时间或推高税负",
+        "excerpt": "自5月9日起，曾被暂缓的多套住房持有者转让所得税重税将重新适用，同一房屋以同一价格出售也可能因签约时间和持有情况而税负大变。",
+        "body": "从5月9日起，曾被暂缓的多套住房持有者转让所得税重税将恢复。每日经济报道称，Sangsung税务法人理事金范镇和The Smart Company代表朴敏洙表示，仅因预售权合同提前两周签订，就可能产生约3亿韩元的税负差异。即使同一套房屋以相同价格出售，是否适用重税也可能使税额增至约两倍。不出售而继续持有时，也可能持续承担综合房地产税。多套住房持有者需要仔细核对买卖日程、持有住房数量和预售权合同日期。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Recargo fiscal a multipropietarios vuelve el 9 de mayo y eleva riesgo en preventas",
+        "excerpt": "Desde el 9 de mayo vuelve el recargo del impuesto a las ganancias de capital para multipropietarios, por lo que una misma vivienda al mismo precio puede generar cargas fiscales muy distintas.",
+        "body": "El recargo del impuesto sobre ganancias de capital para propietarios de varias viviendas, que estaba suspendido, volverá el 9 de mayo. Según Maeil Business Newspaper, Kim Beom-jin, director de Sangsung Tax Corporation, y Park Min-soo, CEO de The Smart Company, explicaron que firmar un contrato de derecho de preventa apenas dos semanas antes podría generar una diferencia fiscal de unos 300 millones de wones. Incluso si la misma vivienda se vende al mismo precio, el impuesto puede duplicarse aproximadamente según se aplique o no el recargo. Quienes solo mantengan propiedades también pueden seguir enfrentando el impuesto integral inmobiliario. Los multipropietarios deben revisar fechas de venta, número de viviendas y contratos de preventa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa para múltiplos imóveis volta em 9 de maio e amplia risco em pré-vendas",
+        "excerpt": "A partir de 9 de maio, volta a sobretaxa sobre ganho de capital para donos de vários imóveis, fazendo a carga fiscal variar muito conforme contrato, preço e número de propriedades.",
+        "body": "A sobretaxa do imposto sobre ganho de capital para proprietários de vários imóveis, que estava suspensa, será retomada em 9 de maio. Segundo o Maeil Business Newspaper, Kim Beom-jin, diretor da Sangsung Tax Corporation, e Park Min-soo, CEO da The Smart Company, disseram que assinar um contrato de direito de pré-venda apenas duas semanas antes pode gerar uma diferença tributária de cerca de 300 milhões de won. Mesmo vendendo a mesma casa pelo mesmo preço, o imposto pode chegar a aproximadamente o dobro dependendo da aplicação da sobretaxa. Quem apenas mantém os imóveis também pode continuar sujeito ao imposto imobiliário abrangente. Proprietários de múltiplos imóveis devem verificar cronogramas de venda, número de casas e datas de contratos de pré-venda. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Zuschlag auf Immobiliengewinne kehrt am 9. Mai zurück und erhöht Steuerlast",
+        "excerpt": "Ab 9. Mai gilt der ausgesetzte Zuschlag auf Kapitalgewinne für Mehrfachimmobilienbesitzer wieder; selbst bei gleichem Haus und Preis kann die Steuer stark abweichen.",
+        "body": "Der ausgesetzte Zuschlag auf Kapitalertragsteuer für Eigentümer mehrerer Wohnungen kehrt am 9. Mai zurück. Nach Angaben der Maeil Business Newspaper erklärten Kim Beom-jin, Direktor bei Sangsung Tax Corporation, und Park Min-soo, CEO von The Smart Company, dass ein nur zwei Wochen früher unterzeichneter Vertrag über Bezugsrechte eine Steuerdifferenz von rund 300 Millionen Won auslösen kann. Wird dasselbe Haus zum selben Preis verkauft, kann die Steuer je nach Anwendung des Zuschlags etwa doppelt so hoch ausfallen. Auch wer Immobilien lediglich weiter hält, kann weiterhin der umfassenden Immobiliensteuer unterliegen. Mehrfacheigentümer sollten Verkaufszeitpläne, Zahl der gehaltenen Wohnungen und Vertragsdaten für Bezugsrechte genau prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La surtaxe des multipropriétaires revient le 9 mai et accroît le risque fiscal",
+        "excerpt": "À partir du 9 mai, la surtaxe sur les plus-values des multipropriétaires reprend; un même logement vendu au même prix peut entraîner une charge fiscale très différente.",
+        "body": "La surtaxe sur l’impôt sur les plus-values pour les propriétaires de plusieurs logements, jusqu’ici suspendue, sera rétablie le 9 mai. Selon le Maeil Business Newspaper, Kim Beom-jin, directeur chez Sangsung Tax Corporation, et Park Min-soo, PDG de The Smart Company, ont expliqué qu’un contrat de droit de prévente signé seulement deux semaines plus tôt peut entraîner un écart fiscal d’environ 300 millions de wons. Même pour le même logement vendu au même prix, l’impôt peut pratiquement doubler selon que la surtaxe s’applique ou non. Les propriétaires qui conservent simplement leurs biens peuvent aussi continuer à supporter l’impôt immobilier global. Les multipropriétaires doivent vérifier les calendriers de vente, le nombre de logements détenus et les dates de contrats de prévente. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عودة ضريبة الأرباح العقارية الإضافية في 9 مايو ترفع مخاطر عقود ما قبل البيع",
+        "excerpt": "اعتبارا من 9 مايو تعود الضريبة الإضافية المؤجلة على مكاسب بيع العقارات لأصحاب المنازل المتعددة، ما قد يغير العبء الضريبي لنفس المنزل والسعر حسب التوقيت والحيازة.",
+        "body": "تعود في 9 مايو الضريبة الإضافية على مكاسب بيع العقارات لأصحاب المنازل المتعددة، بعد فترة تعليق. ووفقا لصحيفة Maeil Business Newspaper، أوضح كيم بوم جين، المدير في Sangsung Tax Corporation، وبارك مين سو، الرئيس التنفيذي لشركة The Smart Company، أن توقيع عقد حق ما قبل البيع قبل أسبوعين فقط قد يؤدي إلى فرق ضريبي يقارب 300 مليون وون. وحتى عند بيع المنزل نفسه بالسعر نفسه، قد يتضاعف مقدار الضريبة تقريبا بحسب تطبيق الضريبة الإضافية من عدمه. كما أن مجرد الاحتفاظ بالعقارات قد يعني استمرار عبء ضريبة العقارات الشاملة. لذلك يحتاج أصحاب المنازل المتعددة إلى مراجعة جدول البيع وعدد المنازل المملوكة وتاريخ عقد ما قبل البيع بدقة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "9 मई से बहु-घर मालिकों पर कैपिटल गेन सरचार्ज लौटेगा, प्रीसेल कर जोखिम बढ़ा",
+        "excerpt": "9 मई से बहु-घर मालिकों पर स्थगित कैपिटल गेन टैक्स सरचार्ज फिर लागू होगा, जिससे समान घर समान कीमत पर बेचने पर भी समय और होल्डिंग के अनुसार कर भार बदल सकता है।",
+        "body": "9 मई से बहु-घर मालिकों पर स्थगित कैपिटल गेन टैक्स सरचार्ज फिर लागू होगा। Maeil Business Newspaper के अनुसार, Sangsung Tax Corporation के निदेशक किम बियोम-जिन और The Smart Company के सीईओ पार्क मिन-सू ने बताया कि प्रीसेल अधिकार अनुबंध केवल दो सप्ताह पहले करने से करीब 300 मिलियन वोन का कर अंतर पैदा हो सकता है। समान घर को समान कीमत पर बेचने पर भी सरचार्ज लागू होने या न होने से कर लगभग दोगुना हो सकता है। जो मालिक संपत्ति बेचे बिना रखते हैं, उन पर व्यापक रियल एस्टेट टैक्स का बोझ भी जारी रह सकता है। बहु-घर मालिकों को बिक्री कार्यक्रम, रखे गए घरों की संख्या और प्रीसेल अनुबंध तिथि को सावधानी से जांचना चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pajak Tambahan Pemilik Banyak Rumah Kembali 9 Mei, Risiko Hak Prasale Naik",
+        "excerpt": "Mulai 9 Mei, pajak tambahan capital gain bagi pemilik beberapa rumah yang sempat ditangguhkan kembali berlaku, membuat pajak atas rumah yang sama bisa berbeda besar menurut waktu kontrak.",
+        "body": "Mulai 9 Mei, pajak tambahan atas keuntungan penjualan properti bagi pemilik beberapa rumah yang sempat ditangguhkan akan kembali berlaku. Menurut Maeil Business Newspaper, Kim Beom-jin, direktur Sangsung Tax Corporation, dan Park Min-soo, CEO The Smart Company, menjelaskan bahwa kontrak hak prasale yang ditandatangani hanya dua minggu lebih awal dapat menimbulkan selisih beban pajak sekitar 300 juta won. Bahkan jika rumah yang sama dijual dengan harga yang sama, pajak bisa meningkat hingga sekitar dua kali lipat tergantung apakah tambahan pajak berlaku. Pemilik yang hanya mempertahankan properti juga dapat terus menanggung pajak real estat komprehensif. Pemilik beberapa rumah perlu memeriksa jadwal jual beli, jumlah rumah yang dimiliki, dan tanggal kontrak hak prasale dengan cermat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "107708c40fea",
+    "slug": "용산국제업무지구-놓고-정원오-un-ai-허브-유치99년-토지-임대-오세훈-닭장-아파트촌-전락-683494",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T07:51:24.104Z",
+    "updatedAt": "2026-05-08T07:51:24.104Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/politics/12041226",
+    "canonicalUrl": "https://www.mk.co.kr/news/politics/12041226",
+    "titleFingerprint": "2d6e05bb6d0bc2e9e78d927c5f89bb1589d1bd25",
+    "dedupKeys": [
+      "107708c40feac0812b151c122d9f6fa674c87074",
+      "2d6e05bb6d0bc2e9e78d927c5f89bb1589d1bd25",
+      "2f7755e3e32b1182a73da7d2e29e7f72fd0e8b8d"
+    ],
+    "imageUrl": "/images/articles/107708c40fea.png",
+    "i18n": {
+      "ko": {
+        "title": "용산국제업무지구 쟁점화…정원오 UN AI 허브·오세훈 1만가구 철회 공방",
+        "excerpt": "서울시장 선거에서 용산국제업무지구 개발 방향을 놓고 정원오 후보는 UN AI 허브 유치와 99년 토지 임대를, 오세훈 시장은 1만가구 계획 철회를 주장했다.",
+        "body": "서울시장 선거에서 용산국제업무지구 개발 방향이 핵심 쟁점으로 떠올랐다. 정원오 후보는 유엔 AI 허브 유치에 총력을 기울이고, 서울투자공사 등 공공이 개발 책임을 맡는 구상을 제시했다. 토지는 99년 임대 방식으로 활용하겠다는 방안도 언급됐다. 반면 오세훈 서울시장은 국제업무 기능이 훼손될 수 있다며 강하게 반발했다. 그는 해당 지역이 ‘닭장 아파트촌’으로 전락할 수 있다고 지적하고, 정부 코드 맞추기식 1만가구 공급 계획은 철회해야 한다고 주장했다. 용산 개발을 둘러싼 공공 주도 개발과 주거 공급, 국제업무 기능 유지 논쟁은 선거 국면에서 계속될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Yongsan Business District Clash: Jung’s UN AI Hub Plan vs. Oh’s Housing Warning",
+        "excerpt": "In Seoul’s mayoral race, Jung Won-oh proposed attracting a UN AI hub and 99-year land leases for Yongsan, while Oh Se-hoon called for scrapping the 10,000-home plan.",
+        "body": "The future of the Yongsan International Business District has emerged as a key issue in Seoul’s mayoral election. Jung Won-oh said he would focus on attracting a United Nations AI hub and proposed that public entities, including the Seoul Investment Agency, take responsibility for development. He also mentioned using land through a 99-year lease model. Seoul Mayor Oh Se-hoon objected, warning that the district’s international business function could be damaged. He argued the area could become a dense apartment zone and said the 10,000-home supply plan, which he described as aligning with the government, should be withdrawn. The debate over public-led development, housing supply, and preserving Yongsan’s business role is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "龍山国際業務地区が争点に、鄭氏のUN AI拠点構想と呉氏の1万戸撤回論",
+        "excerpt": "ソウル市長選で龍山国際業務地区を巡り、鄭元五氏はUN AIハブ誘致と99年土地賃貸を掲げ、呉世勲市長は1万戸計画撤回を主張した。",
+        "body": "ソウル市長選で、龍山国際業務地区の開発方向が主要争点として浮上した。鄭元五氏は国連AIハブの誘致に全力を注ぎ、ソウル投資公社など公共部門が開発責任を担う構想を示した。土地は99年賃貸方式で活用する案にも言及した。一方、呉世勲ソウル市長は国際業務機能が損なわれる恐れがあるとして強く反発した。呉氏は同地域が過密なアパート群に転落しかねないと指摘し、政府方針に合わせた1万戸供給計画は撤回すべきだと主張した。公共主導開発、住宅供給、国際業務機能の維持を巡る論争は選挙戦で続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "龙山国际业务区成焦点：郑愿伍推UN AI枢纽，吴世勋促撤1万户",
+        "excerpt": "在首尔市长选举中，围绕龙山国际业务区，郑愿伍提出引进UN AI枢纽和99年土地租赁，吴世勋则要求撤回1万户住宅计划。",
+        "body": "在首尔市长选举中，龙山国际业务区的开发方向成为核心议题。郑愿伍表示将全力引进联合国AI枢纽，并提出由首尔投资公社等公共机构负责开发的构想。他还提到以99年土地租赁方式进行利用。相反，首尔市长吴世勋强烈反对，担心国际业务功能可能受损。他指出该地区可能沦为高密度公寓区，并主张应撤回迎合政府路线的1万户住宅供应计划。围绕公共主导开发、住宅供应以及维持国际业务功能的争论，预计将在选举局势中持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Yongsan entra en campaña: Jung propone hub de IA de la ONU y Oh rechaza 10.000 viviendas",
+        "excerpt": "En la elección a la alcaldía de Seúl, Jung Won-oh planteó atraer un hub de IA de la ONU y arrendar suelo por 99 años; Oh Se-hoon pidió retirar el plan de 10.000 viviendas.",
+        "body": "La dirección del desarrollo del Distrito Internacional de Negocios de Yongsan surgió como un tema central en la elección a la alcaldía de Seúl. Jung Won-oh dijo que se esforzaría por atraer un hub de inteligencia artificial de Naciones Unidas y propuso que entidades públicas, incluida la Corporación de Inversión de Seúl, asumieran la responsabilidad del desarrollo. También mencionó el uso del suelo mediante arriendos de 99 años. El alcalde Oh Se-hoon se opuso con fuerza, al advertir que la función internacional de negocios podría verse dañada. Señaló que la zona podría convertirse en un conjunto de apartamentos densos y pidió retirar el plan de 10.000 viviendas alineado con el gobierno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Yongsan vira disputa: Jung quer hub de IA da ONU e Oh pede retirar plano de 10 mil casas",
+        "excerpt": "Na eleição para prefeito de Seul, Jung Won-oh propôs atrair um hub de IA da ONU e arrendar terras por 99 anos; Oh Se-hoon defendeu retirar o plano de 10 mil moradias.",
+        "body": "O rumo do desenvolvimento do Distrito Internacional de Negócios de Yongsan tornou-se um tema central na eleição para prefeito de Seul. Jung Won-oh afirmou que concentraria esforços para atrair um hub de inteligência artificial da ONU e propôs que entidades públicas, incluindo a Seoul Investment Agency, assumissem a responsabilidade pelo projeto. Ele também mencionou o uso das terras por meio de arrendamentos de 99 anos. O prefeito Oh Se-hoon reagiu, alertando que a função internacional de negócios poderia ser prejudicada. Ele disse que a área poderia se transformar em um conjunto denso de apartamentos e pediu a retirada do plano de 10 mil moradias alinhado ao governo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Yongsan im Wahlkampf: Jung setzt auf UN-KI-Hub, Oh fordert Stopp von 10.000 Wohnungen",
+        "excerpt": "Im Seouler Bürgermeisterwahlkampf streiten Jung Won-oh und Oh Se-hoon über Yongsan: UN-KI-Hub und 99-jährige Landpacht gegen Rücknahme des Plans für 10.000 Wohnungen.",
+        "body": "Die Entwicklungsrichtung des Yongsan International Business District ist zu einem zentralen Thema im Seouler Bürgermeisterwahlkampf geworden. Jung Won-oh erklärte, er wolle sich auf die Ansiedlung eines KI-Hubs der Vereinten Nationen konzentrieren und schlug vor, dass öffentliche Akteure wie die Seoul Investment Agency die Verantwortung für die Entwicklung übernehmen. Zudem nannte er eine Nutzung des Bodens über 99-jährige Pachtverträge. Bürgermeister Oh Se-hoon widersprach und warnte, die internationale Geschäftsfunktion könne beschädigt werden. Er sagte, das Gebiet könne zu einer dichten Apartmentsiedlung werden, und forderte, den auf die Regierungslinie abgestimmten Plan für 10.000 Wohnungen zurückzuziehen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Yongsan au cœur du scrutin: Jung vise un hub IA de l’ONU, Oh refuse 10.000 logements",
+        "excerpt": "Dans la course à la mairie de Séoul, Jung Won-oh propose un hub IA de l’ONU et des baux fonciers de 99 ans, tandis qu’Oh Se-hoon demande le retrait du plan de 10.000 logements.",
+        "body": "L’avenir du quartier international des affaires de Yongsan est devenu un enjeu majeur de l’élection municipale à Séoul. Jung Won-oh a déclaré vouloir tout faire pour attirer un hub d’intelligence artificielle des Nations unies et proposé que des acteurs publics, dont la Seoul Investment Agency, prennent la responsabilité du développement. Il a aussi évoqué un usage des terrains par des baux de 99 ans. Le maire Oh Se-hoon s’y est opposé, avertissant que la fonction internationale d’affaires pourrait être affaiblie. Il a estimé que la zone risquait de devenir un ensemble dense d’appartements et a demandé le retrait du plan de 10.000 logements aligné sur le gouvernement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "يونغسان في صلب سباق سيول: جونغ يقترح مركزا أمميا للذكاء الاصطناعي وأوه يرفض 10 آلاف مسكن",
+        "excerpt": "في انتخابات عمدة سيول، اقترح جونغ وون أوه جذب مركز ذكاء اصطناعي تابع للأمم المتحدة وتأجير الأرض 99 عاما، بينما طالب أوه سي هون بسحب خطة 10 آلاف مسكن.",
+        "body": "برز اتجاه تطوير منطقة يونغسان الدولية للأعمال كقضية رئيسية في انتخابات عمدة سيول. قال جونغ وون أوه إنه سيركز على جذب مركز للذكاء الاصطناعي تابع للأمم المتحدة، وطرح تصورا تتولى فيه جهات عامة، منها مؤسسة سيول للاستثمار، مسؤولية التطوير. كما أشار إلى استخدام الأرض عبر نظام تأجير لمدة 99 عاما. في المقابل، عارض عمدة سيول أوه سي هون ذلك بقوة، محذرا من احتمال الإضرار بوظيفة المنطقة كمركز أعمال دولي. وقال إن المنطقة قد تتحول إلى مجمع شقق عالي الكثافة، ودعا إلى سحب خطة توفير 10 آلاف مسكن التي وصفها بأنها منسجمة مع توجه الحكومة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "योंगसान बिजनेस डिस्ट्रिक्ट पर टकराव: जंग का UN AI हब प्रस्ताव, ओह ने 10,000 घरों का विरोध किया",
+        "excerpt": "सियोल मेयर चुनाव में जंग वोन-ओह ने योंगसान के लिए UN AI हब और 99 साल की भूमि लीज का प्रस्ताव रखा, जबकि ओह से-हून ने 10,000 घरों की योजना वापस लेने को कहा।",
+        "body": "सियोल मेयर चुनाव में योंगसान इंटरनेशनल बिजनेस डिस्ट्रिक्ट के विकास की दिशा प्रमुख मुद्दा बन गई है। जंग वोन-ओह ने कहा कि वह संयुक्त राष्ट्र के AI हब को आकर्षित करने पर जोर देंगे और प्रस्ताव रखा कि Seoul Investment Agency सहित सार्वजनिक संस्थाएं विकास की जिम्मेदारी संभालें। उन्होंने भूमि के 99 साल के लीज मॉडल का भी उल्लेख किया। दूसरी ओर, सियोल के मेयर ओह से-हून ने इसका कड़ा विरोध किया और चेतावनी दी कि अंतरराष्ट्रीय व्यापारिक भूमिका कमजोर हो सकती है। उन्होंने कहा कि यह क्षेत्र घने अपार्टमेंट इलाके में बदल सकता है और सरकार की नीति से मेल खाते 10,000 घरों की आपूर्ति योजना वापस ली जानी चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Yongsan Jadi Isu Pilkada Seoul: Jung Usul Hub AI PBB, Oh Tolak Rencana 10.000 Hunian",
+        "excerpt": "Dalam pemilihan wali kota Seoul, Jung Won-oh mengusulkan hub AI PBB dan sewa lahan 99 tahun di Yongsan, sementara Oh Se-hoon meminta rencana 10.000 hunian ditarik.",
+        "body": "Arah pengembangan Distrik Bisnis Internasional Yongsan menjadi isu utama dalam pemilihan wali kota Seoul. Jung Won-oh mengatakan akan berfokus menarik hub kecerdasan buatan Perserikatan Bangsa-Bangsa dan mengusulkan agar badan publik, termasuk Seoul Investment Agency, bertanggung jawab atas pengembangan. Ia juga menyebut pemanfaatan lahan melalui skema sewa 99 tahun. Sebaliknya, Wali Kota Seoul Oh Se-hoon menentang keras dengan alasan fungsi bisnis internasional dapat terganggu. Ia menilai kawasan itu bisa berubah menjadi area apartemen padat dan meminta rencana pasokan 10.000 hunian yang disebut menyesuaikan arah pemerintah ditarik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "38f858825aa8",
     "slug": "거주지-제한-없는-전국-청약-단지-공급-이어져-970296",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Korban Penipuan Jeonse Capai 38.503 Kasus, Usia 30-an Lebih dari Separuh",
         "excerpt": "Kementerian Transportasi Korea Selatan pada 6 Mei 2026 menyatakan 855 kasus penipuan jeonse disetujui pada April, menaikkan total korban menjadi 38.503 kasus, dengan usia 30-an sebesar 50,38%.",
         "body": "Menurut Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan, jumlah kumulatif kasus yang diakui sebagai korban penipuan jeonse mencapai 38.503 per 6 Mei 2026. Komite Dukungan Korban Penipuan Jeonse menggelar tiga rapat pleno pada April, sehingga total rapat mencapai 100 kali, dan menyetujui 855 dari 2.047 kasus yang ditinjau sebagai korban. Sebanyak 748 kasus ditolak karena tidak memenuhi syarat, sementara 250 dikecualikan karena pengembalian penuh deposit dimungkinkan melalui asuransi jaminan atau pembayaran prioritas. Dari total korban, 29.269 orang atau 76,02% berusia di bawah 40 tahun; kelompok usia 30-an mencapai 50,38%, lebih dari separuh. Korban yang diakui telah menerima 63.568 dukungan terkait hunian, keuangan, dan prosedur hukum. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "1c24408acb5b",
-    "slug": "아가포럼-제11회-아름다운-우리-아파트-사진공모전-개최-201297",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T19:01:57.162Z",
-    "updatedAt": "2026-05-07T19:01:57.162Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605068545i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605068545i",
-    "titleFingerprint": "80ca299c46a1a84db6e9ef9187a1a609263fd0c9",
-    "dedupKeys": [
-      "1c24408acb5bd52156ad641e6042c07b9b3e10aa",
-      "80ca299c46a1a84db6e9ef9187a1a609263fd0c9",
-      "751d8b2b74a6b6c831c9efbd3125e42777735eb6"
-    ],
-    "imageUrl": "/images/articles/1c24408acb5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아가포럼 제11회 아름다운 우리 아파트 사진공모전 개최 소식",
-        "excerpt": "아가포럼이 제11회 ‘아름다운 우리 아파트 사진공모전’ 개최를 알렸다. 아파트를 주제로 한 사진 공모 소식으로, 관련 내용은 hankyung.com을 통해 전해졌다.",
-        "body": "아가포럼이 ‘제11회 아름다운 우리 아파트 사진공모전’을 개최한다고 밝혔다. 이번 소식은 아파트를 주제로 한 사진 공모전 개최 발표로, 행사명에 따르면 올해 공모전은 11회째를 맞는다. 제공된 원문에는 공모전의 세부 일정, 접수 방식, 심사 기준, 시상 내역 등 추가 정보는 포함되지 않았다. 이번 개최 소식은 아파트와 주거 공간을 사진으로 조명하는 공모전 관련 뉴스로 정리된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Agaforum Announces 11th Beautiful Our Apartment Photo Contest",
-        "excerpt": "Agaforum has announced the 11th “Beautiful Our Apartment Photo Contest,” a photography contest centered on apartments, according to hankyung.com.",
-        "body": "Agaforum has announced that it will hold the 11th “Beautiful Our Apartment Photo Contest.” The news concerns a photo contest themed around apartments, and the contest title indicates that this year’s event marks its 11th edition. The source text provided does not include further details such as the schedule, submission method, judging criteria, or prize information. The announcement is therefore summarized as news of a photo contest that highlights apartments and residential spaces through photography. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アガフォーラム、第11回美しい私たちのアパート写真公募展を開催",
-        "excerpt": "アガフォーラムが第11回「美しい私たちのアパート写真公募展」の開催を発表した。アパートをテーマにした写真公募のニュースとしてhankyung.comが伝えた。",
-        "body": "アガフォーラムは「第11回美しい私たちのアパート写真公募展」を開催すると発表した。今回のニュースは、アパートをテーマにした写真公募展の開催発表であり、名称から今年で11回目を迎える公募展であることが分かる。提供された原文には、詳しい日程、応募方法、審査基準、賞の内容などの追加情報は含まれていない。今回の開催発表は、アパートと住居空間を写真で照らす公募展関連ニュースとして整理される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Agaforum举办第11届美丽我们的公寓摄影征集赛",
-        "excerpt": "Agaforum宣布举办第11届“美丽我们的公寓摄影征集赛”。这是一则以公寓为主题的摄影征集活动消息，相关内容由hankyung.com报道。",
-        "body": "Agaforum宣布将举办第11届“美丽我们的公寓摄影征集赛”。这则消息是关于以公寓为主题的摄影征集活动的举办公告，活动名称显示本届赛事已迎来第11届。所提供的原文未包含具体日程、报名方式、评审标准、奖项内容等更多信息。因此，本消息可整理为一则通过摄影聚焦公寓与居住空间的征集赛新闻。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Agaforum anuncia el 11.º concurso fotográfico Beautiful Our Apartment",
-        "excerpt": "Agaforum anunció la celebración del 11.º “Beautiful Our Apartment Photo Contest”, un certamen fotográfico centrado en apartamentos, según hankyung.com.",
-        "body": "Agaforum anunció que celebrará el 11.º “Beautiful Our Apartment Photo Contest”. La noticia corresponde al anuncio de un concurso fotográfico con los apartamentos como tema central, y el nombre del evento indica que esta edición es la undécima. El texto original proporcionado no incluye detalles adicionales como calendario, método de inscripción, criterios de evaluación o información sobre premios. Por ello, el anuncio se resume como una noticia sobre un concurso que observa apartamentos y espacios residenciales a través de la fotografía. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Agaforum anuncia 11º concurso fotográfico Beautiful Our Apartment",
-        "excerpt": "A Agaforum anunciou a realização do 11º “Beautiful Our Apartment Photo Contest”, um concurso de fotografia sobre apartamentos, conforme divulgado por hankyung.com.",
-        "body": "A Agaforum anunciou que realizará o 11º “Beautiful Our Apartment Photo Contest”. A notícia trata do lançamento de um concurso fotográfico com foco em apartamentos, e o nome do evento indica que esta será a 11ª edição. O texto original fornecido não inclui informações adicionais como cronograma, forma de inscrição, critérios de avaliação ou detalhes sobre prêmios. Assim, o anúncio é resumido como uma notícia sobre um concurso que destaca apartamentos e espaços residenciais por meio da fotografia. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Agaforum kündigt 11. Beautiful Our Apartment Photo Contest an",
-        "excerpt": "Agaforum hat den 11. “Beautiful Our Apartment Photo Contest” angekündigt, einen Fotowettbewerb rund um Apartments, wie hankyung.com berichtet.",
-        "body": "Agaforum hat angekündigt, den 11. “Beautiful Our Apartment Photo Contest” zu veranstalten. Die Meldung betrifft die Ankündigung eines Fotowettbewerbs mit Apartments als Thema, und der Veranstaltungsname zeigt, dass der Wettbewerb in diesem Jahr zum 11. Mal stattfindet. Der bereitgestellte Ursprungstext enthält keine weiteren Angaben zu Zeitplan, Einreichungsweg, Bewertungskriterien oder Preisen. Die Nachricht wird daher als Meldung über einen Fotowettbewerb zusammengefasst, der Apartments und Wohnräume fotografisch in den Mittelpunkt stellt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Agaforum annonce le 11e concours photo Beautiful Our Apartment",
-        "excerpt": "Agaforum a annoncé la tenue du 11e “Beautiful Our Apartment Photo Contest”, un concours photo consacré aux appartements, selon hankyung.com.",
-        "body": "Agaforum a annoncé l’organisation du 11e “Beautiful Our Apartment Photo Contest”. Cette information concerne le lancement d’un concours photo ayant les appartements pour thème, et le nom de l’événement indique qu’il s’agit de sa 11e édition. Le texte source fourni ne comprend pas d’autres précisions, comme le calendrier, les modalités de candidature, les critères d’évaluation ou les prix. L’annonce se résume donc à une nouvelle sur un concours qui met en lumière les appartements et les espaces résidentiels par la photographie. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أغافوروم تعلن إقامة مسابقة صور شققنا الجميلة في نسختها الـ11",
-        "excerpt": "أعلنت أغافوروم إقامة الدورة الحادية عشرة من مسابقة “شققنا الجميلة” للتصوير، وهي مسابقة تتمحور حول الشقق، بحسب ما أورده موقع hankyung.com.",
-        "body": "أعلنت أغافوروم أنها ستقيم الدورة الحادية عشرة من مسابقة “شققنا الجميلة” للتصوير. ويتعلق الخبر بإعلان مسابقة تصوير موضوعها الشقق، ويشير اسم الفعالية إلى أن هذه الدورة هي الحادية عشرة. ولا يتضمن النص الأصلي المقدم تفاصيل إضافية مثل الجدول الزمني أو طريقة التقديم أو معايير التحكيم أو معلومات الجوائز. لذلك يُلخص الإعلان بوصفه خبرا عن مسابقة تسلط الضوء على الشقق والمساحات السكنية من خلال التصوير. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Agaforum ने 11वीं Beautiful Our Apartment फोटो प्रतियोगिता घोषित की",
-        "excerpt": "Agaforum ने 11वीं “Beautiful Our Apartment Photo Contest” आयोजित करने की घोषणा की है। अपार्टमेंट विषयक इस फोटो प्रतियोगिता की जानकारी hankyung.com ने दी।",
-        "body": "Agaforum ने घोषणा की है कि वह 11वीं “Beautiful Our Apartment Photo Contest” आयोजित करेगा। यह खबर अपार्टमेंट को विषय बनाकर होने वाली फोटो प्रतियोगिता की घोषणा से जुड़ी है, और प्रतियोगिता के नाम से स्पष्ट है कि यह इसका 11वां संस्करण है। उपलब्ध कराए गए मूल पाठ में कार्यक्रम की तारीख, आवेदन प्रक्रिया, मूल्यांकन मानदंड या पुरस्कार संबंधी अतिरिक्त जानकारी शामिल नहीं है। इसलिए इस घोषणा को अपार्टमेंट और आवासीय स्थानों को फोटोग्राफी के माध्यम से सामने लाने वाली प्रतियोगिता की खबर के रूप में संक्षेपित किया गया है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Agaforum Gelar Kontes Foto Beautiful Our Apartment Edisi ke-11",
-        "excerpt": "Agaforum mengumumkan penyelenggaraan “Beautiful Our Apartment Photo Contest” edisi ke-11, sebuah kontes foto bertema apartemen, menurut hankyung.com.",
-        "body": "Agaforum mengumumkan akan menggelar “Beautiful Our Apartment Photo Contest” edisi ke-11. Kabar ini merupakan pengumuman penyelenggaraan kontes foto bertema apartemen, dan nama acaranya menunjukkan bahwa tahun ini kontes tersebut memasuki edisi ke-11. Teks sumber yang diberikan tidak memuat rincian tambahan seperti jadwal, cara pendaftaran, kriteria penilaian, atau informasi hadiah. Karena itu, pengumuman ini dirangkum sebagai berita tentang kontes yang menyoroti apartemen dan ruang hunian melalui fotografi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "9590b8d0164f",
-    "slug": "가수-비가-495억에-판-청담동-빌딩실소유주-이희진이었나-748941",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T19:01:09.797Z",
-    "updatedAt": "2026-05-07T19:01:09.797Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050687167",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050687167",
-    "titleFingerprint": "cb5778124c5c6a2494e26112678fcb1d0f325c22",
-    "dedupKeys": [
-      "9590b8d0164f1424a165dd583b14840b6f1b2943",
-      "cb5778124c5c6a2494e26112678fcb1d0f325c22",
-      "22418645cd557b1c2af6d9a84aacfcaeef76aedb"
-    ],
-    "imageUrl": "/images/articles/9590b8d0164f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "청담동 레인에비뉴 495억 매각 후폭풍…이희진 차명 의혹 부상",
-        "excerpt": "가수 비가 2021년 6월 495억원에 매각한 청담동 레인에비뉴가 이희진의 차명 재산이라는 의혹에 휩싸이며 매입 법인과 현재 시세가 주목받고 있다.",
-        "body": "가수 비가 2021년 6월 495억원에 매각한 서울 청담동 빌딩 레인에비뉴의 실소유주를 둘러싼 의혹이 제기됐다. 한경닷컴에 따르면 비는 2019년 8월부터 해당 건물을 개인 명의로 보유하다 약 2년 만에 주식회사 엠유파트너스에 소유권을 이전했다. 엠유파트너스는 이희진의 장인 박모씨가 대표로 있는 법인으로 알려졌으며, 매입 당시 대출 없이 전액 현금으로 지급한 것으로 파악됐다. 레인에비뉴는 청담동 명품거리와 화랑거리 인근에 있는 지하 3층, 지상 6층 규모 건물로, 밸류맵 기준 현재 시세는 약 759억원이다. 검찰은 이희진이 가족 또는 지인 명의로 부동산을 보유했다는 의혹과 관련해 일부 자산을 추징보전했으나, 레인에비뉴는 소유권 신탁 때문에 대상에서 빠진 것으로 알려졌다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Rain Avenue sale for 49.5 billion won draws Lee Hee-jin nominee-ownership questions",
-        "excerpt": "Rain’s 2021 sale of Cheongdam-dong building Rain Avenue for 49.5 billion won is drawing scrutiny as questions emerge over whether it was tied to Lee Hee-jin’s nominee assets.",
-        "body": "Questions have emerged over the real owner of Rain Avenue, the Cheongdam-dong building that singer Rain sold in June 2021 for 49.5 billion won. According to Hankyung.com, Rain held the property in his own name from August 2019 before transferring ownership about two years later to MU Partners. MU Partners is known as a company headed by Park, the father-in-law of Lee Hee-jin, and the purchase was reportedly paid fully in cash with no loan. Rain Avenue is a six-story building with three basement levels near Cheongdam’s luxury and gallery streets. ValueMap estimates its current market value at about 75.9 billion won. Prosecutors have preserved some assets amid allegations that Lee held real estate under family or acquaintance names, but Rain Avenue was reportedly excluded because its ownership had been placed in trust. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "清潭洞レインアベニュー495億ウォン売却、イ・ヒジン名義借り疑惑が浮上",
-        "excerpt": "歌手Rainが2021年6月に495億ウォンで売却した清潭洞のレインアベニューをめぐり、イ・ヒジン氏の名義借り資産ではないかとの疑惑が注目されている。",
-        "body": "歌手Rainが2021年6月に495億ウォンで売却したソウル清潭洞のビル、レインアベニューの実質所有者をめぐる疑惑が提起された。Hankyung.comによると、Rainは2019年8月から同ビルを個人名義で保有し、約2年後に株式会社MUパートナーズへ所有権を移転した。MUパートナーズはイ・ヒジン氏の義父パク氏が代表を務める法人として知られ、購入時に融資なしで全額現金を支払ったと把握されている。レインアベニューは清潭洞の高級ブランド通りとギャラリー通り付近にある地下3階、地上6階建ての建物で、ValueMap基準の現在価値は約759億ウォン。検察はイ氏が家族や知人名義で不動産を保有したとの疑惑に関連し一部資産を追徴保全したが、同ビルは所有権信託のため対象外になったとされる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "清潭洞Rain Avenue以495亿韩元售出后，李熙镇代持疑云升温",
-        "excerpt": "歌手Rain于2021年6月以495亿韩元出售清潭洞Rain Avenue后，该楼是否属于李熙镇代持资产的疑问受到关注，买方法人与现估值成为焦点。",
-        "body": "歌手Rain于2021年6月以495亿韩元出售的首尔清潭洞大楼Rain Avenue，近日围绕实际所有人出现疑问。据Hankyung.com报道，Rain自2019年8月起以个人名义持有该楼，约两年后将所有权转让给MU Partners株式会社。MU Partners被称为由李熙镇岳父朴某担任代表的法人，购入时据悉没有贷款，而是全额现金支付。Rain Avenue位于清潭洞名品街和画廊街附近，规模为地下3层、地上6层；按ValueMap估算，目前市价约为759亿韩元。检方曾就李熙镇疑似以家人或熟人名义持有房地产，对部分资产采取追缴保全措施，但Rain Avenue因所有权已信托，据称未被列入对象。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Rain Avenue, vendido por 49.500 millones de wones, queda bajo dudas por Lee Hee-jin",
-        "excerpt": "El edificio Rain Avenue de Cheongdam-dong, vendido por Rain en junio de 2021 por 49.500 millones de wones, enfrenta dudas sobre si formaba parte de activos a nombre de terceros de Lee Hee-jin.",
-        "body": "Han surgido dudas sobre el verdadero propietario de Rain Avenue, el edificio de Cheongdam-dong que el cantante Rain vendió en junio de 2021 por 49.500 millones de wones. Según Hankyung.com, Rain tuvo el inmueble a su nombre desde agosto de 2019 y transfirió la propiedad unos dos años después a MU Partners. La compañía es conocida como una sociedad dirigida por Park, suegro de Lee Hee-jin, y la compra se habría pagado íntegramente en efectivo, sin préstamo. Rain Avenue está cerca de la calle de lujo y la zona de galerías de Cheongdam-dong, con tres plantas subterráneas y seis sobre rasante. ValueMap estima su valor actual en unos 75.900 millones de wones. La fiscalía preservó algunos activos por sospechas de bienes inmobiliarios a nombre de familiares o conocidos de Lee, pero Rain Avenue habría quedado fuera por estar en fideicomiso. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Rain Avenue vendido por 49,5 bilhões de won levanta suspeitas sobre Lee Hee-jin",
-        "excerpt": "O Rain Avenue, prédio em Cheongdam-dong vendido por Rain em junho de 2021 por 49,5 bilhões de won, passou a ser analisado por suspeitas de ligação a bens em nome de terceiros de Lee Hee-jin.",
-        "body": "Surgiram questionamentos sobre o real proprietário do Rain Avenue, edifício em Cheongdam-dong que o cantor Rain vendeu em junho de 2021 por 49,5 bilhões de won. Segundo o Hankyung.com, Rain mantinha o imóvel em seu nome desde agosto de 2019 e transferiu a propriedade cerca de dois anos depois para a MU Partners. A empresa é conhecida como uma pessoa jurídica liderada por Park, sogro de Lee Hee-jin, e a compra teria sido paga integralmente em dinheiro, sem financiamento. O Rain Avenue fica perto da rua de luxo e da área de galerias de Cheongdam-dong, com três subsolos e seis andares. A ValueMap estima seu valor atual em cerca de 75,9 bilhões de won. Promotores preservaram alguns ativos diante de suspeitas de imóveis em nomes de familiares ou conhecidos de Lee, mas o Rain Avenue teria ficado fora por estar em truste. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Rain Avenue für 49,5 Milliarden Won verkauft: Fragen zu Lee Hee-jin rücken auf",
-        "excerpt": "Das Cheongdam-dong-Gebäude Rain Avenue, das Sänger Rain im Juni 2021 für 49,5 Milliarden Won verkaufte, steht wegen möglicher Treuhandvermögen von Lee Hee-jin im Fokus.",
-        "body": "Zum tatsächlichen Eigentümer von Rain Avenue, dem Gebäude in Cheongdam-dong, das Sänger Rain im Juni 2021 für 49,5 Milliarden Won verkaufte, sind Fragen aufgekommen. Laut Hankyung.com hielt Rain die Immobilie seit August 2019 auf seinen Namen und übertrug sie rund zwei Jahre später an MU Partners. Das Unternehmen gilt als Gesellschaft, deren Vertreter Park ist, der Schwiegervater von Lee Hee-jin. Der Kauf soll vollständig bar und ohne Kredit bezahlt worden sein. Rain Avenue liegt nahe der Luxusstraße und der Galerienzone von Cheongdam-dong und umfasst drei Untergeschosse sowie sechs oberirdische Etagen. ValueMap schätzt den aktuellen Wert auf etwa 75,9 Milliarden Won. Die Staatsanwaltschaft sicherte einige Vermögenswerte wegen des Verdachts, Lee halte Immobilien über Familienmitglieder oder Bekannte; Rain Avenue soll wegen einer Eigentumstreuhand nicht darunter gefallen sein. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Rain Avenue vendu 49,5 milliards de wons: les soupçons autour de Lee Hee-jin montent",
-        "excerpt": "Le Rain Avenue de Cheongdam-dong, vendu par le chanteur Rain en juin 2021 pour 49,5 milliards de wons, suscite des questions sur un éventuel patrimoine détenu pour Lee Hee-jin.",
-        "body": "Des questions ont été soulevées sur le véritable propriétaire de Rain Avenue, l’immeuble de Cheongdam-dong vendu par le chanteur Rain en juin 2021 pour 49,5 milliards de wons. Selon Hankyung.com, Rain détenait le bien à son nom depuis août 2019 avant d’en transférer la propriété environ deux ans plus tard à MU Partners. Cette société est connue comme étant dirigée par Park, le beau-père de Lee Hee-jin, et l’achat aurait été payé entièrement en espèces, sans prêt. Rain Avenue se trouve près de la rue du luxe et du quartier des galeries de Cheongdam-dong, avec trois sous-sols et six étages. ValueMap évalue sa valeur actuelle à environ 75,9 milliards de wons. Le parquet a gelé certains actifs liés à des soupçons de biens détenus via des proches de Lee, mais Rain Avenue aurait été exclu en raison d’une fiducie de propriété. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيع رين أفينيو في تشونغدام مقابل 49.5 مليار وون يثير شبهة صلة بلي هي جين",
-        "excerpt": "مبنى رين أفينيو في تشونغدام دونغ، الذي باعه المغني رين في يونيو 2021 مقابل 49.5 مليار وون، يواجه تساؤلات حول ما إذا كان مرتبطا بأصول باسم بديل للي هي جين.",
-        "body": "أثيرت تساؤلات حول المالك الفعلي لمبنى رين أفينيو في تشونغدام دونغ، الذي باعه المغني رين في يونيو 2021 مقابل 49.5 مليار وون. وبحسب Hankyung.com، امتلك رين المبنى باسمه الشخصي منذ أغسطس 2019، ثم نقل الملكية بعد نحو عامين إلى شركة MU Partners. وتعرف الشركة بأنها كيان يرأسه بارك، حمو لي هي جين، ويعتقد أن الشراء تم نقدا بالكامل من دون قرض. يقع رين أفينيو قرب شارع السلع الفاخرة ومنطقة المعارض في تشونغدام دونغ، ويتكون من ثلاثة طوابق تحت الأرض وستة طوابق فوقها. وتقدر ValueMap قيمته الحالية بنحو 75.9 مليار وون. وقد تحفظ الادعاء على بعض الأصول وسط شبهات بأن لي امتلك عقارات بأسماء أفراد عائلته أو معارفه، لكن رين أفينيو استثني على ما يبدو بسبب وضع الملكية في ائتمان. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "49.5 अरब वॉन में बिका Rain Avenue, Lee Hee-jin की बेनामी संपत्ति पर सवाल",
-        "excerpt": "गायक Rain ने जून 2021 में Cheongdam-dong का Rain Avenue 49.5 अरब वॉन में बेचा था; अब इसके Lee Hee-jin की कथित बेनामी संपत्ति से जुड़े होने पर सवाल उठ रहे हैं।",
-        "body": "गायक Rain द्वारा जून 2021 में 49.5 अरब वॉन में बेचे गए Cheongdam-dong स्थित Rain Avenue के वास्तविक मालिक को लेकर सवाल उठे हैं। Hankyung.com के अनुसार, Rain ने अगस्त 2019 से इस इमारत को अपने व्यक्तिगत नाम पर रखा और करीब दो साल बाद इसका स्वामित्व MU Partners को स्थानांतरित किया। MU Partners को Lee Hee-jin के ससुर Park के प्रतिनिधित्व वाली कंपनी माना जाता है, और खरीद के समय कथित रूप से कोई कर्ज नहीं लिया गया, बल्कि पूरी राशि नकद दी गई। Rain Avenue Cheongdam की लक्जरी स्ट्रीट और गैलरी क्षेत्र के पास स्थित है, जिसमें तीन बेसमेंट और छह मंजिलें हैं। ValueMap के अनुसार इसका वर्तमान मूल्य लगभग 75.9 अरब वॉन है। अभियोजन पक्ष ने Lee द्वारा परिवार या परिचितों के नाम पर संपत्ति रखने के संदेह में कुछ संपत्तियों को संरक्षित किया, लेकिन Rain Avenue स्वामित्व ट्रस्ट के कारण सूची से बाहर रहा बताया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Rain Avenue dijual 49,5 miliar won, dugaan aset nominee Lee Hee-jin mencuat",
-        "excerpt": "Gedung Rain Avenue di Cheongdam-dong yang dijual penyanyi Rain pada Juni 2021 senilai 49,5 miliar won kini disorot karena dugaan terkait aset nominee Lee Hee-jin.",
-        "body": "Pertanyaan muncul mengenai pemilik sebenarnya Rain Avenue, gedung di Cheongdam-dong yang dijual penyanyi Rain pada Juni 2021 seharga 49,5 miliar won. Menurut Hankyung.com, Rain memiliki gedung itu atas nama pribadi sejak Agustus 2019, lalu mengalihkan kepemilikan sekitar dua tahun kemudian kepada MU Partners. Perusahaan tersebut dikenal sebagai badan hukum yang dipimpin Park, mertua Lee Hee-jin, dan pembelian disebut dibayar seluruhnya tunai tanpa pinjaman. Rain Avenue berada dekat jalan barang mewah dan kawasan galeri Cheongdam-dong, dengan tiga lantai bawah tanah dan enam lantai di atas tanah. ValueMap memperkirakan nilai saat ini sekitar 75,9 miliar won. Jaksa membekukan beberapa aset terkait dugaan Lee memegang properti atas nama keluarga atau kenalan, tetapi Rain Avenue dilaporkan tidak termasuk karena kepemilikannya sudah ditempatkan dalam trust. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "3f9f7a9b051c",
-    "slug": "평택-고덕-우미린-프레스티지-평택시청-이전-예정분상제-적용-삼성전자-반도체단지-배후-수요-940876",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-07T18:59:54.170Z",
-    "updatedAt": "2026-05-07T18:59:54.170Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050682071",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050682071",
-    "titleFingerprint": "4fed3d7ecec992a3de996e751bf955535511c291",
-    "dedupKeys": [
-      "3f9f7a9b051c43f9b38b9e3d618f30434cfd249a",
-      "4fed3d7ecec992a3de996e751bf955535511c291",
-      "0ee673f040aae3f3f7c7312d52530423ef2d05da"
-    ],
-    "imageUrl": "/images/articles/3f9f7a9b051c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "평택 고덕 우미린 프레스티지, 평택시청 이전 예정지와 삼성전자 배후 수요 주목",
-        "excerpt": "평택 고덕 우미린 프레스티지가 평택시청 이전 예정과 삼성전자 반도체단지 배후 수요, 분양가상한제 적용 단지로 주목받고 있다.",
-        "body": "평택 고덕 우미린 프레스티지가 평택시청 이전 예정과 삼성전자 반도체단지 배후 수요를 앞세워 시장의 관심을 받고 있다. 이 단지는 평택 고덕 지역에 들어서는 주거 상품으로, 분양가상한제가 적용되는 점이 주요 특징으로 제시됐다. 원문은 평택시청 이전 예정 이슈와 삼성전자 반도체단지 관련 배후 수요를 함께 언급하며 입지 여건을 설명했다. 분양가상한제 적용 여부는 수요자들이 가격 조건을 판단할 때 참고할 수 있는 요소다. 향후 관심은 평택 고덕 일대 개발 흐름과 배후 수요가 실제 청약 및 분양 성과로 어떻게 이어질지에 모일 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige draws attention on city hall move and Samsung demand",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige is drawing notice for the planned Pyeongtaek City Hall relocation, demand linked to Samsung Electronics’ semiconductor complex, and price-cap rules.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige is receiving market attention as a residential project tied to the planned relocation of Pyeongtaek City Hall and demand from the Samsung Electronics semiconductor complex. The project is located in the Godeok area of Pyeongtaek, and the original report highlighted that it is subject to the housing price ceiling system. The source also described the location by citing the planned city hall move and nearby demand associated with Samsung’s semiconductor cluster. The price-cap application may be a reference point for buyers assessing pricing conditions. Future interest is expected to focus on how development in Godeok and related demand translate into subscription and sales results. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "平沢高徳ウミリン・プレステージ、市庁移転予定とサムスン需要で注目",
-        "excerpt": "平沢高徳ウミリン・プレステージは、平沢市庁移転予定、サムスン電子半導体団地の背後需要、分譲価格上限制の適用で注目されている。",
-        "body": "平沢高徳ウミリン・プレステージが、平沢市庁の移転予定とサムスン電子半導体団地の背後需要を背景に市場の関心を集めている。同物件は平沢・高徳エリアに供給される住宅商品で、分譲価格上限制が適用される点が主な特徴として示された。原文は、平沢市庁移転予定という要素とサムスン電子半導体団地に関連する背後需要をあわせて取り上げ、立地条件を説明している。価格上限制の適用は、需要者が価格条件を判断する際の参考材料となる。今後は、高徳一帯の開発動向と背後需要が実際の申込や分譲成果にどうつながるかが注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "平泽高德Woomi Lynn Prestige受关注，市厅迁址与三星需求成看点",
-        "excerpt": "平泽高德Woomi Lynn Prestige因平泽市厅拟迁址、三星电子半导体园区背后需求以及适用分售价上限制而受到关注。",
-        "body": "平泽高德Woomi Lynn Prestige正因平泽市厅拟迁址以及三星电子半导体园区相关背后需求而受到市场关注。该项目是位于平泽高德地区的住宅产品，原文提出其适用分售价上限制是主要特点之一。报道同时提到平泽市厅迁址计划和与三星电子半导体园区相关的背后需求，以说明其区位条件。分售价上限制的适用，可成为购房需求者判断价格条件时的参考因素。今后市场关注点预计将集中在平泽高德一带开发趋势及背后需求如何转化为实际认购和销售成果。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige gana foco por traslado municipal y demanda de Samsung",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige atrae atención por el traslado previsto del Ayuntamiento de Pyeongtaek, la demanda vinculada al complejo de semiconductores de Samsung y el control de precios.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige está atrayendo la atención del mercado por el traslado previsto del Ayuntamiento de Pyeongtaek y la demanda de respaldo asociada al complejo de semiconductores de Samsung Electronics. El proyecto es una oferta residencial en la zona de Godeok, en Pyeongtaek, y el reporte original destacó que está sujeto al sistema de límite de precio de venta. La fuente explicó sus condiciones de ubicación mencionando tanto el traslado municipal previsto como la demanda vinculada al complejo de Samsung. La aplicación del límite de precio puede servir como referencia para quienes evalúan las condiciones de compra. El interés futuro se centrará en si el desarrollo de Godeok y esa demanda se reflejan en resultados de suscripción y venta. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige atrai foco com prefeitura e demanda da Samsung",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige chama atenção pelo plano de mudança da prefeitura, pela demanda ligada ao complexo de semicondutores da Samsung e pelo teto de preço.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige está chamando atenção do mercado por combinar a transferência prevista da Prefeitura de Pyeongtaek com a demanda de apoio relacionada ao complexo de semicondutores da Samsung Electronics. O empreendimento é um produto residencial na área de Godeok, em Pyeongtaek, e o texto original destacou a aplicação do sistema de teto para preço de venda. A fonte descreveu as condições de localização citando o plano de mudança da prefeitura e a demanda associada ao complexo da Samsung. A aplicação do teto de preço pode ser usada por compradores como referência ao avaliar as condições de preço. A atenção futura deve se concentrar em como o desenvolvimento de Godeok e essa demanda se refletirão em inscrições e vendas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige im Fokus durch Rathausumzug und Samsung-Nachfrage",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige rückt wegen des geplanten Rathausumzugs, der Nachfrage rund um Samsungs Halbleiterkomplex und der Preisdeckelung in den Blick.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige erhält Marktaufmerksamkeit, da das Projekt mit dem geplanten Umzug des Rathauses von Pyeongtaek und der Nachfrage aus dem Umfeld des Halbleiterkomplexes von Samsung Electronics verbunden ist. Es handelt sich um ein Wohnangebot im Gebiet Godeok in Pyeongtaek; der Originalbericht hob hervor, dass die Regelung zur Begrenzung der Verkaufspreise gilt. Die Quelle beschrieb die Standortbedingungen mit Verweis auf den geplanten Rathausumzug und die Nachfrage im Zusammenhang mit Samsungs Halbleiterstandort. Die Preisdeckelung kann für Interessenten ein Faktor bei der Bewertung der Preiskonditionen sein. Künftig dürfte sich das Interesse darauf richten, wie sich die Entwicklung in Godeok und die Nachfrage in tatsächlichen Zeichnungs- und Verkaufsergebnissen zeigen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige attire l’attention avec la mairie et la demande Samsung",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige est remarqué pour le projet de transfert de la mairie, la demande liée au complexe de semi-conducteurs de Samsung et le plafonnement des prix.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige suscite l’intérêt du marché grâce au projet de transfert de la mairie de Pyeongtaek et à la demande de proximité associée au complexe de semi-conducteurs de Samsung Electronics. Ce programme résidentiel est situé dans le secteur de Godeok, à Pyeongtaek, et le texte original souligne qu’il est soumis au système de plafonnement des prix de vente. La source présente les conditions de localisation en mentionnant le transfert prévu de la mairie et la demande liée au complexe de Samsung. L’application du plafonnement peut servir de repère aux acheteurs pour évaluer les conditions de prix. L’attention devrait désormais porter sur la façon dont le développement de Godeok et cette demande se traduiront en résultats de souscription et de vente. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بيونغتايك غوديوك وومي لين بريستيج يبرز مع نقل البلدية وطلب سامسونغ",
-        "excerpt": "يحظى مشروع بيونغتايك غوديوك وومي لين بريستيج بالاهتمام بسبب خطة نقل بلدية بيونغتايك، والطلب المرتبط بمجمع سامسونغ لأشباه الموصلات، وتطبيق سقف سعر البيع.",
-        "body": "يحظى مشروع بيونغتايك غوديوك وومي لين بريستيج باهتمام السوق مع ارتباطه بخطة نقل بلدية بيونغتايك والطلب الخلفي المتصل بمجمع أشباه الموصلات التابع لسامسونغ إلكترونيكس. ويقع المشروع السكني في منطقة غوديوك بمدينة بيونغتايك، وذكر التقرير الأصلي أن نظام سقف سعر البيع مطبق عليه. كما أوضح المصدر ظروف الموقع من خلال الإشارة إلى خطة نقل البلدية والطلب المرتبط بمجمع سامسونغ لأشباه الموصلات. وقد يشكل تطبيق سقف السعر عاملا مرجعيا للمشترين عند تقييم شروط السعر. ومن المتوقع أن يتركز الاهتمام لاحقا على كيفية انعكاس تطوير منطقة غوديوك وهذا الطلب في نتائج الاكتتاب والبيع الفعلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "प्योंगटेक गोडोक Woomi Lynn Prestige पर सिटी हॉल स्थानांतरण और Samsung मांग से ध्यान",
-        "excerpt": "प्योंगटेक गोडोक Woomi Lynn Prestige सिटी हॉल के प्रस्तावित स्थानांतरण, Samsung Electronics सेमीकंडक्टर परिसर से जुड़ी मांग और मूल्य-सीमा नियम के कारण चर्चा में है।",
-        "body": "प्योंगटेक गोडोक Woomi Lynn Prestige बाजार का ध्यान आकर्षित कर रहा है, क्योंकि इसे प्योंगटेक सिटी हॉल के प्रस्तावित स्थानांतरण और Samsung Electronics के सेमीकंडक्टर परिसर से जुड़ी पृष्ठभूमि मांग के साथ जोड़ा जा रहा है। यह प्योंगटेक के गोडोक क्षेत्र में आने वाला आवासीय उत्पाद है, और मूल रिपोर्ट में बताया गया कि इस पर बिक्री मूल्य सीमा प्रणाली लागू होती है। स्रोत ने सिटी हॉल स्थानांतरण योजना और Samsung सेमीकंडक्टर परिसर से संबंधित मांग का उल्लेख करते हुए स्थान की परिस्थितियों को समझाया। मूल्य सीमा लागू होना खरीदारों के लिए कीमत की शर्तें परखने में संदर्भ बन सकता है। आगे ध्यान इस पर रहेगा कि गोडोक क्षेत्र का विकास और यह मांग वास्तविक सदस्यता तथा बिक्री परिणामों में कैसे बदलते हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pyeongtaek Godeok Woomi Lynn Prestige disorot karena relokasi balai kota dan permintaan Samsung",
-        "excerpt": "Pyeongtaek Godeok Woomi Lynn Prestige menarik perhatian berkat rencana relokasi Balai Kota Pyeongtaek, permintaan dari kompleks semikonduktor Samsung, dan aturan batas harga.",
-        "body": "Pyeongtaek Godeok Woomi Lynn Prestige mendapat perhatian pasar karena dikaitkan dengan rencana relokasi Balai Kota Pyeongtaek dan permintaan pendukung dari kompleks semikonduktor Samsung Electronics. Proyek ini merupakan produk hunian di kawasan Godeok, Pyeongtaek, dan laporan asli menyoroti bahwa proyek tersebut menerapkan sistem batas harga jual. Sumber juga menjelaskan kondisi lokasi dengan menyebut rencana pemindahan balai kota serta permintaan yang terkait dengan kompleks semikonduktor Samsung. Penerapan batas harga dapat menjadi acuan bagi calon pembeli saat menilai kondisi harga. Ke depan, perhatian diperkirakan tertuju pada bagaimana perkembangan kawasan Godeok dan permintaan tersebut tercermin dalam hasil pendaftaran dan penjualan. Sumber: hankyung.com"
       }
     }
   }
