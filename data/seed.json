@@ -1,5 +1,230 @@
 [
   {
+    "id": "8b83a5c2879e",
+    "slug": "국제유가-호르무즈-긴장에-상승-브렌트유-12-515851",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T20:35:33.412Z",
+    "updatedAt": "2026-05-08T20:35:33.412Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509005600072",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509005600072",
+    "titleFingerprint": "cca117f55ced2e5ab46d7d65834da554225ebf76",
+    "dedupKeys": [
+      "8b83a5c2879e7a8d5df558d075ab57a63d044e11",
+      "cca117f55ced2e5ab46d7d65834da554225ebf76",
+      "f13864b5b5426c4465f1949b1ed07e404df30f86"
+    ],
+    "imageUrl": "/images/articles/8b83a5c2879e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국제유가, 호르무즈 해협 긴장 재점화에 상승…브렌트유 1.2% 올라",
+        "excerpt": "8일 현지시간 호르무즈 해협 인근에서 무력 충돌이 재개되자 국제유가가 다시 상승했고, 브렌트유는 1.2% 오른 흐름을 보였다.",
+        "body": "8일 현지시간 호르무즈 해협 인근에서 무력 충돌이 재개되면서 국제유가가 다시 상승했다. 뉴욕발 보도에 따르면 지정학적 긴장이 커진 가운데 원유 시장은 공급 차질 가능성에 민감하게 반응했고, 브렌트유는 1.2% 올랐다. 호르무즈 해협은 중동 원유 수송과 관련해 시장이 주목하는 지역으로, 인근 긴장 재점화는 유가 변동성을 키우는 요인으로 작용했다. 이번 상승은 충돌 재개 소식이 국제 원유 가격에 반영된 결과로 풀이된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Oil Prices Rise as Hormuz Strait Tensions Flare Again; Brent Gains 1.2%",
+        "excerpt": "International oil prices rose again on May 8 local time after armed clashes resumed near the Strait of Hormuz, with Brent crude up 1.2%.",
+        "body": "International oil prices rose again on May 8 local time as armed clashes resumed near the Strait of Hormuz. According to a New York-datelined report, the crude market reacted sensitively to the possibility of supply disruptions amid heightened geopolitical tensions, and Brent crude gained 1.2%. The Strait of Hormuz is a region closely watched by markets because of its role in Middle East oil transport, and renewed tension nearby added to oil-price volatility. The latest rise is seen as the market reflecting news of the resumed clashes in global crude prices. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "国際原油価格、ホルムズ海峡の緊張再燃で上昇…ブレント1.2％高",
+        "excerpt": "現地時間8日、ホルムズ海峡付近で武力衝突が再開したことを受け、国際原油価格が再び上昇し、ブレント原油は1.2％高となった。",
+        "body": "現地時間8日、ホルムズ海峡付近で武力衝突が再開し、国際原油価格が再び上昇した。ニューヨーク発の報道によると、地政学的緊張が高まる中、原油市場は供給支障の可能性に敏感に反応し、ブレント原油は1.2％上昇した。ホルムズ海峡は中東産原油の輸送に関連して市場が注目する地域であり、周辺の緊張再燃は原油価格の変動性を高める要因となった。今回の上昇は、衝突再開のニュースが国際原油価格に反映された結果とみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "国际油价因霍尔木兹海峡紧张再起上涨，布伦特原油涨1.2%",
+        "excerpt": "当地时间8日，霍尔木兹海峡附近武装冲突重新爆发，国际油价再次上涨，布伦特原油价格上涨1.2%。",
+        "body": "当地时间8日，霍尔木兹海峡附近武装冲突重新爆发，国际油价再次上涨。据纽约发出的报道，在地缘政治紧张升温之际，原油市场对供应中断的可能性作出敏感反应，布伦特原油上涨1.2%。霍尔木兹海峡因与中东原油运输密切相关而受到市场关注，周边紧张局势再度升温成为推高油价波动的因素。此次上涨可被视为冲突重启消息反映到国际原油价格中的结果。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El petróleo sube por nueva tensión en Ormuz; el Brent avanza un 1,2%",
+        "excerpt": "El 8 de mayo, hora local, los precios internacionales del petróleo volvieron a subir tras reanudarse choques armados cerca del estrecho de Ormuz; el Brent avanzó un 1,2%.",
+        "body": "Los precios internacionales del petróleo volvieron a subir el 8 de mayo, hora local, después de que se reanudaran los choques armados cerca del estrecho de Ormuz. Según un informe fechado en Nueva York, el mercado del crudo reaccionó con sensibilidad ante la posibilidad de interrupciones en el suministro en medio de mayores tensiones geopolíticas, y el Brent avanzó un 1,2%. El estrecho de Ormuz es una zona observada por los mercados por su relación con el transporte de petróleo de Oriente Medio, y la renovada tensión cercana elevó la volatilidad del precio del crudo. La subida refleja la incorporación de la noticia de los choques a los precios internacionales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Petróleo sobe com nova tensão no Estreito de Ormuz; Brent avança 1,2%",
+        "excerpt": "Em 8 de maio, no horário local, os preços internacionais do petróleo voltaram a subir após a retomada de confrontos armados perto do Estreito de Ormuz; o Brent avançou 1,2%.",
+        "body": "Os preços internacionais do petróleo voltaram a subir em 8 de maio, no horário local, depois que confrontos armados foram retomados perto do Estreito de Ormuz. Segundo uma reportagem de Nova York, o mercado de petróleo reagiu de forma sensível à possibilidade de interrupções no fornecimento em meio ao aumento das tensões geopolíticas, e o Brent avançou 1,2%. O Estreito de Ormuz é uma área acompanhada pelos mercados por sua relação com o transporte de petróleo do Oriente Médio, e a renovação da tensão nas proximidades ampliou a volatilidade dos preços. A alta reflete a notícia da retomada dos confrontos nos preços globais do petróleo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ölpreise steigen wegen neuer Spannungen an der Straße von Hormus; Brent +1,2%",
+        "excerpt": "Am 8. Mai Ortszeit stiegen die internationalen Ölpreise erneut, nachdem nahe der Straße von Hormus bewaffnete Zusammenstöße wieder aufflammten; Brent legte 1,2% zu.",
+        "body": "Die internationalen Ölpreise stiegen am 8. Mai Ortszeit erneut, nachdem nahe der Straße von Hormus bewaffnete Zusammenstöße wieder aufgenommen wurden. Einem Bericht aus New York zufolge reagierte der Rohölmarkt sensibel auf die Möglichkeit von Lieferstörungen, während die geopolitischen Spannungen zunahmen; Brent-Rohöl legte um 1,2% zu. Die Straße von Hormus steht wegen ihrer Bedeutung für den Transport von Öl aus dem Nahen Osten im Fokus der Märkte. Die erneute Spannung in der Nähe wirkte als Faktor, der die Ölpreisvolatilität erhöhte. Der Anstieg gilt als Folge der Einpreisung der Nachricht über die wieder aufgenommenen Zusammenstöße. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le pétrole grimpe avec le regain de tension à Ormuz; le Brent gagne 1,2%",
+        "excerpt": "Le 8 mai, heure locale, les prix internationaux du pétrole ont de nouveau augmenté après la reprise d’affrontements armés près du détroit d’Ormuz; le Brent a gagné 1,2%.",
+        "body": "Les prix internationaux du pétrole ont de nouveau augmenté le 8 mai, heure locale, après la reprise d’affrontements armés près du détroit d’Ormuz. Selon un reportage daté de New York, le marché du brut a réagi avec sensibilité à la possibilité de perturbations de l’approvisionnement dans un contexte de tensions géopolitiques accrues, et le Brent a progressé de 1,2%. Le détroit d’Ormuz est une zone suivie par les marchés en raison de son lien avec le transport du pétrole du Moyen-Orient. Le regain de tension dans ses environs a renforcé la volatilité des cours. Cette hausse reflète l’intégration de la nouvelle des affrontements dans les prix internationaux du brut. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار النفط ترتفع مع تجدد توتر مضيق هرمز وبرنت يصعد 1.2%",
+        "excerpt": "في 8 مايو بالتوقيت المحلي، عادت أسعار النفط العالمية إلى الارتفاع بعد استئناف اشتباكات مسلحة قرب مضيق هرمز، وصعد خام برنت 1.2%.",
+        "body": "عادت أسعار النفط العالمية إلى الارتفاع في 8 مايو بالتوقيت المحلي بعدما استؤنفت اشتباكات مسلحة قرب مضيق هرمز. ووفق تقرير من نيويورك، تفاعل سوق الخام بحساسية مع احتمال حدوث اضطرابات في الإمدادات وسط ارتفاع التوترات الجيوسياسية، وصعد خام برنت 1.2%. ويعد مضيق هرمز منطقة تتابعها الأسواق بسبب ارتباطه بنقل نفط الشرق الأوسط، لذلك أسهم تجدد التوتر في محيطه في زيادة تقلبات أسعار النفط. ويُنظر إلى هذا الصعود على أنه انعكاس لخبر استئناف الاشتباكات في الأسعار العالمية للخام. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज तनाव फिर बढ़ने से कच्चा तेल चढ़ा, ब्रेंट 1.2% ऊपर",
+        "excerpt": "स्थानीय समयानुसार 8 मई को हॉर्मुज जलडमरूमध्य के पास सशस्त्र झड़पें फिर शुरू होने के बाद अंतरराष्ट्रीय तेल कीमतें फिर बढ़ीं और ब्रेंट 1.2% चढ़ा।",
+        "body": "स्थानीय समयानुसार 8 मई को हॉर्मुज जलडमरूमध्य के पास सशस्त्र झड़पें फिर शुरू होने से अंतरराष्ट्रीय तेल कीमतें फिर बढ़ गईं। न्यूयॉर्क से आई रिपोर्ट के अनुसार, भू-राजनीतिक तनाव बढ़ने के बीच कच्चे तेल के बाजार ने आपूर्ति में बाधा की संभावना पर संवेदनशील प्रतिक्रिया दी और ब्रेंट कच्चा तेल 1.2% चढ़ा। हॉर्मुज जलडमरूमध्य मध्य पूर्व के तेल परिवहन से जुड़े होने के कारण बाजारों की नजर में रहता है, और इसके आसपास तनाव का फिर उभरना कीमतों में उतार-चढ़ाव बढ़ाने वाला कारक बना। यह वृद्धि झड़पों के दोबारा शुरू होने की खबर के वैश्विक कच्चे तेल कीमतों में परिलक्षित होने का परिणाम मानी जा रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Minyak Naik Saat Ketegangan Selat Hormuz Muncul Lagi; Brent +1,2%",
+        "excerpt": "Pada 8 Mei waktu setempat, harga minyak internasional kembali naik setelah bentrokan bersenjata berlanjut di dekat Selat Hormuz, dengan Brent menguat 1,2%.",
+        "body": "Harga minyak internasional kembali naik pada 8 Mei waktu setempat setelah bentrokan bersenjata berlanjut di dekat Selat Hormuz. Menurut laporan dari New York, pasar minyak mentah bereaksi sensitif terhadap kemungkinan gangguan pasokan di tengah meningkatnya ketegangan geopolitik, dan Brent naik 1,2%. Selat Hormuz menjadi wilayah yang diperhatikan pasar karena kaitannya dengan pengangkutan minyak Timur Tengah, sehingga ketegangan yang kembali muncul di sekitarnya menjadi faktor yang meningkatkan volatilitas harga minyak. Kenaikan ini dipandang sebagai cerminan berita berlanjutnya bentrokan dalam harga minyak mentah global. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9dd224f99f0c",
+    "slug": "생크림-찹쌀떡-성공-잇는다-농협경제지주-가공식품-집중-육성-654391",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T20:34:41.343Z",
+    "updatedAt": "2026-05-08T20:34:41.343Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886535/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886535/1",
+    "titleFingerprint": "3b5bbf49c57a1ad1f4743940b7b24fbe8de756c5",
+    "dedupKeys": [
+      "9dd224f99f0ca860520d195c98c419ff3a456bd4",
+      "3b5bbf49c57a1ad1f4743940b7b24fbe8de756c5",
+      "596a54839f885359e550b4051089f0307efc6dbf"
+    ],
+    "imageUrl": "/images/articles/9dd224f99f0c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농협경제지주, 생크림 찹쌀떡 성공 이어 가공식품 육성 속도",
+        "excerpt": "농협경제지주는 8일 설명회를 열고 가공식품 판로 확대와 SNS 마케팅 지원 방향을 공유하며 고부가가치 식품 사업을 미래 성장동력으로 키우겠다고 밝혔다.",
+        "body": "농협경제지주가 8일 마케팅 원스톱 지원사업 설명회를 열고 농협 가공식품 사업 확대 전략을 공유했다. 온라인과 오프라인 유통망을 넓히고 SNS·인플루언서 마케팅을 강화해 농협 가공식품의 브랜드 경쟁력을 높이려는 취지다. 이날 설명회에는 농협 가공공장, 식품연구소, 농협식품 관계자 등 40여 명이 참석했다. 주요 지원사업 안내와 SNS 마케팅 교육, 신제품 유통·판매 전략이 소개됐고, 식품 마케팅 전문가의 히트상품 개발 사례 발표도 진행됐다. 경제지주는 최근 소비 트렌드 변화에 맞춰 간편식(HMR), 디저트, 건강식품 등 부가가치가 높은 제품군 확대에 집중하고 있다. 농산물 유통을 넘어 식품 사업을 미래 성장동력으로 키우겠다는 전략이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "NongHyup Economic Holding Accelerates Processed Food Push After Cream Mochi Success",
+        "excerpt": "NongHyup Economic Holding held a briefing on the 8th to share sales-channel expansion and SNS marketing support plans for processed foods as a future growth driver.",
+        "body": "NongHyup Economic Holding held a briefing on its one-stop marketing support program on the 8th and shared strategies to expand its processed food business. The aim is to strengthen the brand competitiveness of NongHyup processed foods by widening online and offline distribution channels and reinforcing SNS and influencer marketing. About 40 people attended, including officials from NongHyup processing plants, the food research institute and NongHyup Food. The session introduced key support programs, SNS marketing training, and distribution and sales strategies for new products. A food marketing expert also presented cases of hit-product development. In line with changing consumer trends, the holding company is focusing on higher value-added categories such as HMR, desserts and health foods. Its strategy is to grow beyond agricultural product distribution and develop the food business as a future growth engine. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "農協経済持株、クリーム餅成功に続き加工食品育成を加速",
+        "excerpt": "農協経済持株は8日、説明会を開き、加工食品の販路拡大とSNSマーケティング支援方針を共有し、高付加価値食品事業を将来の成長軸に育てる考えを示した。",
+        "body": "農協経済持株は8日、マーケティング・ワンストップ支援事業の説明会を開き、農協加工食品事業の拡大戦略を共有した。オンラインとオフラインの流通網を広げ、SNSやインフルエンサーマーケティングを強化することで、農協加工食品のブランド競争力を高める狙いだ。説明会には農協の加工工場、食品研究所、農協食品の関係者など約40人が出席した。主要支援事業の案内、SNSマーケティング教育、新商品の流通・販売戦略が紹介され、食品マーケティング専門家によるヒット商品開発事例の発表も行われた。経済持株は最近の消費トレンドの変化に合わせ、HMR、デザート、健康食品など付加価値の高い製品群の拡大に注力している。農産物流通を超え、食品事業を将来の成長エンジンに育てる戦略だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "农协经济控股延续奶油糯米糕成功，加速培育加工食品业务",
+        "excerpt": "农协经济控股8日举行说明会，分享加工食品渠道拓展和SNS营销支持方向，计划将高附加值食品业务培育为未来增长动力。",
+        "body": "农协经济控股8日举行营销一站式支持项目说明会，分享农协加工食品业务扩大策略。其目的在于拓宽线上和线下流通网络，并强化SNS与网红营销，从而提升农协加工食品的品牌竞争力。当天说明会有农协加工工厂、食品研究所、农协食品相关人士等约40人参加。会议介绍了主要支持项目、SNS营销培训以及新产品流通和销售策略，并由食品营销专家发表热门商品开发案例。经济控股正顺应近期消费趋势变化，集中扩大方便食品、甜点、健康食品等高附加值产品线。其战略是超越农产品流通，将食品业务培育为未来增长动力。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "NongHyup Economic Holding acelera alimentos procesados tras el éxito del mochi con crema",
+        "excerpt": "NongHyup Economic Holding celebró el día 8 una sesión para compartir planes de expansión de canales y apoyo en marketing SNS para impulsar alimentos procesados de mayor valor.",
+        "body": "NongHyup Economic Holding celebró el día 8 una sesión informativa sobre su programa de apoyo integral de marketing y compartió estrategias para ampliar el negocio de alimentos procesados de NongHyup. El objetivo es elevar la competitividad de marca ampliando redes de distribución en línea y fuera de línea, y reforzando el marketing en SNS e influencers. Asistieron unas 40 personas, incluidos representantes de plantas de procesamiento de NongHyup, del instituto de investigación alimentaria y de NongHyup Food. Se presentaron los principales programas de apoyo, formación en marketing SNS y estrategias de distribución y venta de nuevos productos. También hubo una exposición de casos de desarrollo de productos exitosos por parte de un experto en marketing alimentario. La compañía se centra en categorías de alto valor añadido como HMR, postres y alimentos saludables, acorde con los cambios de consumo. Su estrategia es ir más allá de la distribución agrícola y convertir el negocio alimentario en motor de crecimiento futuro. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "NongHyup Economic Holding acelera alimentos processados após sucesso do mochi com creme",
+        "excerpt": "A NongHyup Economic Holding realizou no dia 8 uma apresentação sobre expansão de canais e apoio a marketing em SNS para fortalecer alimentos processados como motor futuro.",
+        "body": "A NongHyup Economic Holding realizou no dia 8 uma sessão sobre seu programa de apoio integrado de marketing e compartilhou estratégias para expandir o negócio de alimentos processados da NongHyup. A iniciativa busca aumentar a competitividade da marca ampliando redes de distribuição online e offline e reforçando marketing em SNS e com influenciadores. Cerca de 40 pessoas participaram, incluindo representantes de fábricas de processamento da NongHyup, do instituto de pesquisa alimentar e da NongHyup Food. Foram apresentados os principais programas de apoio, treinamento em marketing SNS e estratégias de distribuição e venda de novos produtos. Um especialista em marketing de alimentos também mostrou casos de desenvolvimento de produtos de sucesso. A empresa está focada em categorias de maior valor agregado, como HMR, sobremesas e alimentos saudáveis, acompanhando mudanças nas tendências de consumo. A estratégia é ir além da distribuição de produtos agrícolas e desenvolver alimentos como motor de crescimento futuro. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "NongHyup Economic Holding baut verarbeitete Lebensmittel nach Sahne-Mochi-Erfolg aus",
+        "excerpt": "NongHyup Economic Holding stellte am 8. Pläne für Vertriebsausbau und SNS-Marketinghilfen vor, um verarbeitete Lebensmittel als künftigen Wachstumstreiber zu stärken.",
+        "body": "NongHyup Economic Holding hat am 8. eine Informationsveranstaltung zu seinem One-Stop-Marketingförderprogramm abgehalten und Strategien zur Ausweitung des Geschäfts mit verarbeiteten NongHyup-Lebensmitteln vorgestellt. Ziel ist es, die Markenwettbewerbsfähigkeit durch breitere Online- und Offline-Vertriebskanäle sowie stärkeres SNS- und Influencer-Marketing zu erhöhen. Rund 40 Personen nahmen teil, darunter Vertreter von NongHyup-Verarbeitungsbetrieben, dem Lebensmittelforschungsinstitut und NongHyup Food. Vorgestellt wurden zentrale Förderprogramme, SNS-Marketing-Schulungen sowie Vertriebs- und Verkaufsstrategien für neue Produkte. Ein Experte für Lebensmittelmarketing präsentierte zudem Beispiele für die Entwicklung von Erfolgsprodukten. Angesichts veränderter Konsumtrends konzentriert sich das Unternehmen auf wertschöpfungsstarke Kategorien wie HMR, Desserts und Gesundheitslebensmittel. Die Strategie ist, über den Agrarvertrieb hinauszugehen und das Lebensmittelgeschäft als künftigen Wachstumsmotor zu entwickeln. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "NongHyup Economic Holding accélère les aliments transformés après le succès du mochi à la crème",
+        "excerpt": "NongHyup Economic Holding a tenu le 8 une réunion sur l’élargissement des canaux de vente et le soutien au marketing SNS pour faire des aliments transformés un relais de croissance.",
+        "body": "NongHyup Economic Holding a organisé le 8 une réunion de présentation de son programme de soutien marketing intégré et a partagé ses stratégies d’expansion pour les aliments transformés de NongHyup. L’objectif est de renforcer la compétitivité de la marque en élargissant les réseaux de distribution en ligne et hors ligne, tout en intensifiant le marketing sur les SNS et via les influenceurs. Environ 40 personnes étaient présentes, dont des responsables d’usines de transformation de NongHyup, de l’institut de recherche alimentaire et de NongHyup Food. La réunion a présenté les principaux dispositifs de soutien, une formation au marketing SNS et des stratégies de distribution et de vente de nouveaux produits. Un expert en marketing alimentaire a aussi exposé des cas de développement de produits à succès. Face à l’évolution des tendances de consommation, la société se concentre sur des catégories à forte valeur ajoutée comme les HMR, les desserts et les aliments santé. Sa stratégie consiste à dépasser la distribution agricole pour faire de l’alimentaire un moteur de croissance futur. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "نونغهيوب الاقتصادية تسرّع تنمية الأغذية المصنّعة بعد نجاح كعك الأرز بالكريمة",
+        "excerpt": "عقدت نونغهيوب الاقتصادية القابضة في 8 مايو جلسة لعرض خطط توسيع قنوات بيع الأغذية المصنّعة ودعم تسويق SNS، بهدف جعل الأغذية عالية القيمة محرك نمو مستقبلياً.",
+        "body": "عقدت نونغهيوب الاقتصادية القابضة في 8 مايو جلسة تعريفية ببرنامج الدعم التسويقي الشامل، وشاركت استراتيجيات توسيع أعمال الأغذية المصنّعة التابعة لنونغهيوب. وتهدف الخطوة إلى تعزيز القدرة التنافسية للعلامة من خلال توسيع قنوات التوزيع عبر الإنترنت وخارجه، وتقوية التسويق عبر SNS والمؤثرين. حضر الجلسة نحو 40 شخصاً من مصانع التصنيع التابعة لنونغهيوب، ومعهد أبحاث الغذاء، وشركة نونغهيوب فود. وتضمنت العروض تعريفاً ببرامج الدعم الرئيسية، وتدريباً على تسويق SNS، واستراتيجيات توزيع وبيع المنتجات الجديدة. كما قدّم خبير في تسويق الأغذية حالات لتطوير منتجات ناجحة. وتركز الشركة، تماشياً مع تغير اتجاهات الاستهلاك، على فئات ذات قيمة مضافة عالية مثل الوجبات الجاهزة HMR والحلويات والأغذية الصحية. وتتمثل استراتيجيتها في تجاوز توزيع المنتجات الزراعية وتنمية أعمال الغذاء كمحرك نمو مستقبلي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "क्रीम चावल केक की सफलता के बाद NongHyup Economic Holding ने प्रोसेस्ड फूड पर जोर बढ़ाया",
+        "excerpt": "NongHyup Economic Holding ने 8 मई को बैठक कर प्रोसेस्ड फूड के बिक्री चैनल विस्तार और SNS मार्केटिंग समर्थन की दिशा साझा की, ताकि उच्च मूल्य वाले खाद्य कारोबार को भविष्य का विकास इंजन बनाया जा सके।",
+        "body": "NongHyup Economic Holding ने 8 मई को मार्केटिंग वन-स्टॉप सपोर्ट कार्यक्रम की जानकारी बैठक आयोजित की और NongHyup प्रोसेस्ड फूड कारोबार के विस्तार की रणनीतियां साझा कीं। इसका उद्देश्य ऑनलाइन और ऑफलाइन वितरण नेटवर्क बढ़ाकर तथा SNS और इन्फ्लुएंसर मार्केटिंग को मजबूत कर NongHyup प्रोसेस्ड फूड की ब्रांड प्रतिस्पर्धा बढ़ाना है। बैठक में NongHyup प्रोसेसिंग फैक्ट्रियों, खाद्य अनुसंधान संस्थान और NongHyup Food से जुड़े लगभग 40 लोग शामिल हुए। इसमें प्रमुख समर्थन कार्यक्रमों, SNS मार्केटिंग प्रशिक्षण और नए उत्पादों की वितरण व बिक्री रणनीतियों का परिचय दिया गया। खाद्य मार्केटिंग विशेषज्ञ ने सफल उत्पाद विकास के उदाहरण भी प्रस्तुत किए। कंपनी हालिया उपभोक्ता रुझानों के अनुरूप HMR, डेजर्ट और हेल्थ फूड जैसे उच्च मूल्य-वर्धित उत्पाद समूहों के विस्तार पर ध्यान दे रही है। उसकी रणनीति कृषि उत्पाद वितरण से आगे बढ़कर खाद्य कारोबार को भविष्य के विकास इंजन के रूप में विकसित करने की है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "NongHyup Economic Holding Percepat Pangan Olahan Setelah Sukses Mochi Krim",
+        "excerpt": "NongHyup Economic Holding pada 8 Mei menggelar paparan strategi perluasan kanal penjualan dan dukungan pemasaran SNS untuk menjadikan pangan olahan bernilai tambah sebagai motor pertumbuhan.",
+        "body": "NongHyup Economic Holding pada 8 Mei mengadakan sesi penjelasan program dukungan pemasaran terpadu dan membagikan strategi perluasan bisnis pangan olahan NongHyup. Tujuannya adalah meningkatkan daya saing merek dengan memperluas jaringan distribusi online dan offline serta memperkuat pemasaran SNS dan influencer. Sekitar 40 orang hadir, termasuk perwakilan pabrik pengolahan NongHyup, lembaga riset pangan, dan NongHyup Food. Sesi tersebut memperkenalkan program dukungan utama, pelatihan pemasaran SNS, serta strategi distribusi dan penjualan produk baru. Pakar pemasaran pangan juga memaparkan contoh pengembangan produk laris. Sejalan dengan perubahan tren konsumsi, perusahaan berfokus pada perluasan kategori bernilai tambah tinggi seperti HMR, makanan penutup, dan pangan kesehatan. Strateginya adalah melampaui distribusi hasil pertanian dan mengembangkan bisnis pangan sebagai motor pertumbuhan masa depan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "377fa6a05fa0",
+    "slug": "농협임직원-헌혈행사로-생명나눔-문화-확산-883479",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-08T20:33:36.081Z",
+    "updatedAt": "2026-05-08T20:33:36.081Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886542/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886542/2",
+    "titleFingerprint": "b600e429643d9fc3f3615ba3543cacfa81f8d89e",
+    "dedupKeys": [
+      "377fa6a05fa0ec667a32563be2854f18873429fc",
+      "b600e429643d9fc3f3615ba3543cacfa81f8d89e",
+      "ef811b90ad01be41346e9a3c276994bb09e362bb"
+    ],
+    "imageUrl": "/images/articles/377fa6a05fa0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농협 임직원 헌혈행사, 불안정한 혈액 수급 속 생명나눔 확산",
+        "excerpt": "농협경제지주와 농협하나로유통 임직원들이 7일 서울 마포구 농협하나로마트 신촌점 인근에서 헌혈행사를 열고 혈액 수급 안정과 생명나눔 문화 확산에 동참했다.",
+        "body": "농협경제지주와 농협하나로유통 임직원들이 7일 서울 마포구 농협하나로마트 신촌점 인근 헌혈버스에서 ‘사랑의 헌혈행사’를 실시했다. 이번 행사는 불안정한 혈액 수급 상황에 선제적으로 대응하고, 생명나눔 문화를 확산하기 위해 마련됐다. 참석자들은 헌혈에 참여한 뒤 헌혈증을 기부하며 나눔의 의미를 더했다. 이날 모인 헌혈증은 대한적십자사를 통해 생명을 살리는 데 사용될 예정이다. 장상우 마트상품부장은 “우리의 소중한 피가 한사람의 생명을 살리는 희망의 불씨가 되기를 소망한다”며 “농협은 다양한 사회공헌활동을 지속적으로 추진해 상생의 가치를 실현하는 데 앞장서겠다”고 말했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "NongHyup Employees Hold Blood Drive to Promote Life-Sharing Culture",
+        "excerpt": "Employees of NongHyup Agribusiness Group and NongHyup Hanaro Retail held a blood donation event on May 7 near Hanaro Mart Sinchon in Mapo-gu, Seoul, to support blood supply stability and life-sharing.",
+        "body": "Employees of NongHyup Agribusiness Group and NongHyup Hanaro Retail held a “Love Blood Donation Event” on May 7 at a blood donation bus near NongHyup Hanaro Mart Sinchon in Mapo-gu, Seoul. The event was organized as a proactive response to unstable blood supply conditions and to help spread a culture of sharing life. Participants donated blood and then contributed their blood donation certificates, adding meaning to the act of giving. The certificates collected that day will be used through the Korean Red Cross to help save lives. Jang Sang-woo, head of the mart product division, said he hopes their precious blood becomes a spark of hope that saves a person’s life, adding that NongHyup will continue various social contribution activities to realize the value of mutual growth. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "農協職員の献血行事、不安定な血液需給の中で命の分かち合い広げる",
+        "excerpt": "農協経済持株と農協ハナロ流通の職員は7日、ソウル麻浦区の農協ハナロマート新村店付近で献血行事を行い、血液需給の安定と命の分かち合い文化の拡散に参加した。",
+        "body": "農協経済持株と農協ハナロ流通の職員は7日、ソウル麻浦区の農協ハナロマート新村店付近に設けられた献血バスで「愛の献血行事」を実施した。今回の行事は、不安定な血液需給状況に先制的に対応し、命を分かち合う文化を広げる目的で用意された。参加者は献血に応じた後、献血証を寄付し、分かち合いの意味を深めた。この日集まった献血証は、大韓赤十字社を通じて命を救うために使われる予定だ。マート商品部の張相祐部長は「私たちの大切な血が一人の命を救う希望の火種になることを願う」とし、「農協は多様な社会貢献活動を継続的に推進し、共生の価値を実現することに先頭に立つ」と述べた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "农协员工举行献血活动，在血液供应不稳中传播生命分享文化",
+        "excerpt": "农协经济控股和农协Hanaro流通员工7日在首尔麻浦区农协Hanaro Mart新村店附近举行献血活动，参与稳定血液供应并传播生命分享文化。",
+        "body": "农协经济控股和农协Hanaro流通员工7日在首尔麻浦区农协Hanaro Mart新村店附近的献血车上举行了“爱心献血活动”。此次活动旨在主动应对不稳定的血液供应状况，并扩大生命分享文化。参加者献血后还捐出了献血证，进一步体现了分享的意义。当天收集到的献血证将通过大韩红十字会用于挽救生命。卖场商品部部长张相祐表示：“希望我们珍贵的血液能成为拯救一个人生命的希望火种。”他还说：“农协将持续推进多种社会贡献活动，带头实现共生价值。”来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Empleados de NongHyup donan sangre para ampliar la cultura de compartir vida",
+        "excerpt": "Empleados de NongHyup Agribusiness Group y NongHyup Hanaro Retail realizaron el 7 de mayo una campaña de donación de sangre cerca de Hanaro Mart Sinchon, en Mapo-gu, Seúl, ante la inestabilidad del suministro.",
+        "body": "Empleados de NongHyup Agribusiness Group y NongHyup Hanaro Retail realizaron el 7 de mayo una “Campaña de Donación de Sangre de Amor” en un autobús de donación situado cerca de NongHyup Hanaro Mart Sinchon, en Mapo-gu, Seúl. La iniciativa se organizó como respuesta preventiva a la inestabilidad del suministro de sangre y para difundir una cultura de compartir vida. Tras donar sangre, los participantes entregaron sus certificados de donación, reforzando el sentido de solidaridad. Los certificados reunidos ese día serán utilizados a través de la Cruz Roja Coreana para salvar vidas. Jang Sang-woo, jefe del departamento de productos de mart, dijo que espera que su valiosa sangre se convierta en una chispa de esperanza capaz de salvar una vida, y añadió que NongHyup seguirá impulsando diversas actividades de contribución social para realizar el valor de la convivencia. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Funcionários da NongHyup fazem doação de sangue para ampliar cultura de salvar vidas",
+        "excerpt": "Funcionários da NongHyup Agribusiness Group e da NongHyup Hanaro Retail realizaram em 7 de maio uma campanha de doação de sangue perto do Hanaro Mart Sinchon, em Mapo-gu, Seul, diante da instabilidade no abastecimento.",
+        "body": "Funcionários da NongHyup Agribusiness Group e da NongHyup Hanaro Retail realizaram em 7 de maio a “Campanha de Doação de Sangue do Amor” em um ônibus de coleta perto do NongHyup Hanaro Mart Sinchon, em Mapo-gu, Seul. A ação foi preparada como resposta preventiva à instabilidade no abastecimento de sangue e para ampliar a cultura de compartilhar vida. Após participarem da doação, os funcionários também doaram seus certificados de doação, reforçando o significado da solidariedade. Os certificados reunidos no dia serão usados por meio da Cruz Vermelha Coreana para salvar vidas. Jang Sang-woo, chefe do departamento de produtos de mart, afirmou esperar que esse sangue precioso se torne uma chama de esperança para salvar uma vida, acrescentando que a NongHyup continuará promovendo diversas atividades de contribuição social para realizar o valor da convivência. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "NongHyup-Mitarbeiter fördern mit Blutspendeaktion Kultur des Lebensrettens",
+        "excerpt": "Mitarbeiter von NongHyup Agribusiness Group und NongHyup Hanaro Retail organisierten am 7. Mai nahe Hanaro Mart Sinchon in Mapo-gu, Seoul, eine Blutspendeaktion zur Stabilisierung der Versorgung.",
+        "body": "Mitarbeiter von NongHyup Agribusiness Group und NongHyup Hanaro Retail veranstalteten am 7. Mai in einem Blutspendebus nahe dem NongHyup Hanaro Mart Sinchon in Mapo-gu, Seoul, eine „Blutspendeaktion der Liebe“. Die Aktion wurde als vorbeugende Reaktion auf die instabile Blutversorgungslage organisiert und soll die Kultur des Teilens von Leben verbreiten. Die Teilnehmenden spendeten Blut und übergaben anschließend ihre Blutspendenbescheinigungen, wodurch der Sinn des Gebens zusätzlich betont wurde. Die an diesem Tag gesammelten Bescheinigungen sollen über das Koreanische Rote Kreuz zur Rettung von Leben eingesetzt werden. Jang Sang-woo, Leiter der Mart-Warenabteilung, sagte, er hoffe, dass ihr wertvolles Blut zu einem Funken Hoffnung werde, der ein Menschenleben rettet. NongHyup werde weiterhin verschiedene soziale Beitragsaktivitäten vorantreiben, um den Wert des Miteinanders zu verwirklichen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les employés de NongHyup donnent leur sang pour diffuser la culture du partage de vie",
+        "excerpt": "Les employés de NongHyup Agribusiness Group et de NongHyup Hanaro Retail ont organisé le 7 mai une collecte de sang près du Hanaro Mart Sinchon, à Mapo-gu, Séoul, pour soutenir l’approvisionnement.",
+        "body": "Les employés de NongHyup Agribusiness Group et de NongHyup Hanaro Retail ont organisé le 7 mai une « collecte de sang de l’amour » dans un bus de don du sang près du NongHyup Hanaro Mart Sinchon, à Mapo-gu, Séoul. L’événement a été préparé comme une réponse préventive à l’instabilité de l’approvisionnement en sang et afin de diffuser une culture du partage de vie. Après avoir donné leur sang, les participants ont également fait don de leurs certificats de don, ajoutant du sens à leur geste. Les certificats collectés ce jour-là seront utilisés par l’intermédiaire de la Croix-Rouge coréenne pour sauver des vies. Jang Sang-woo, responsable du département des produits de mart, a déclaré espérer que leur précieux sang devienne une étincelle d’espoir capable de sauver une vie, ajoutant que NongHyup poursuivra diverses activités de contribution sociale pour réaliser la valeur de la coexistence. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "موظفو نونغهيوب ينظمون حملة تبرع بالدم لنشر ثقافة إنقاذ الحياة",
+        "excerpt": "نظم موظفو نونغهيوب القابضة الاقتصادية ونونغهيوب هانارو للتوزيع في 7 مايو حملة تبرع بالدم قرب متجر هانارو مارت شينتشون في مابو غو بسيول لدعم استقرار إمدادات الدم.",
+        "body": "نظم موظفو نونغهيوب القابضة الاقتصادية ونونغهيوب هانارو للتوزيع في 7 مايو فعالية “التبرع بالدم بدافع المحبة” داخل حافلة تبرع بالدم قرب متجر نونغهيوب هانارو مارت شينتشون في منطقة مابو غو بسيول. وجاءت الفعالية استجابة استباقية لحالة عدم الاستقرار في إمدادات الدم، وبهدف نشر ثقافة تقاسم الحياة. وبعد مشاركتهم في التبرع، قدم المشاركون شهادات التبرع بالدم، مضيفين معنى أكبر للعطاء. وستستخدم الشهادات التي جُمعت في ذلك اليوم عبر الصليب الأحمر الكوري للمساعدة في إنقاذ الأرواح. وقال جانغ سانغ وو، رئيس قسم منتجات المتاجر، إنه يأمل أن يصبح دمهم الثمين شرارة أمل تنقذ حياة شخص، مضيفا أن نونغهيوب ستواصل تنفيذ أنشطة اجتماعية متنوعة لتحقيق قيمة التعايش. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "नॉन्गह्युप कर्मचारियों ने रक्तदान अभियान से जीवन-साझा संस्कृति को बढ़ाया",
+        "excerpt": "नॉन्गह्युप एग्रीबिजनेस ग्रुप और नॉन्गह्युप हानारो रिटेल के कर्मचारियों ने 7 मई को सियोल के मापो-गु में हानारो मार्ट शिनचोन के पास रक्तदान अभियान आयोजित किया।",
+        "body": "नॉन्गह्युप एग्रीबिजनेस ग्रुप और नॉन्गह्युप हानारो रिटेल के कर्मचारियों ने 7 मई को सियोल के मापो-गु स्थित नॉन्गह्युप हानारो मार्ट शिनचोन के पास रक्तदान बस में “प्रेम रक्तदान अभियान” आयोजित किया। यह कार्यक्रम अस्थिर रक्त आपूर्ति की स्थिति का अग्रिम रूप से जवाब देने और जीवन-साझा करने की संस्कृति को फैलाने के उद्देश्य से तैयार किया गया था। प्रतिभागियों ने रक्तदान के बाद अपने रक्तदान प्रमाणपत्र भी दान किए, जिससे साझा करने का अर्थ और गहरा हुआ। उस दिन एकत्र प्रमाणपत्र कोरियन रेड क्रॉस के माध्यम से जीवन बचाने में उपयोग किए जाएंगे। मार्ट उत्पाद विभाग के प्रमुख जंग सांग-वू ने कहा कि उन्हें आशा है कि उनका मूल्यवान रक्त किसी एक व्यक्ति के जीवन को बचाने वाली आशा की चिंगारी बनेगा। उन्होंने कहा कि नॉन्गह्युप विभिन्न सामाजिक योगदान गतिविधियों को लगातार आगे बढ़ाकर सहअस्तित्व के मूल्य को साकार करने में अग्रणी रहेगा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pegawai NongHyup Gelar Donor Darah untuk Perluas Budaya Berbagi Kehidupan",
+        "excerpt": "Pegawai NongHyup Agribusiness Group dan NongHyup Hanaro Retail menggelar donor darah pada 7 Mei di dekat Hanaro Mart Sinchon, Mapo-gu, Seoul, untuk membantu stabilitas pasokan darah.",
+        "body": "Pegawai NongHyup Agribusiness Group dan NongHyup Hanaro Retail menggelar “Kegiatan Donor Darah Kasih” pada 7 Mei di bus donor darah dekat NongHyup Hanaro Mart Sinchon, Mapo-gu, Seoul. Kegiatan ini disiapkan sebagai respons lebih awal terhadap kondisi pasokan darah yang tidak stabil dan untuk memperluas budaya berbagi kehidupan. Setelah mendonorkan darah, para peserta juga menyumbangkan sertifikat donor darah mereka, sehingga makna berbagi semakin kuat. Sertifikat yang terkumpul pada hari itu akan digunakan melalui Palang Merah Korea untuk membantu menyelamatkan nyawa. Jang Sang-woo, kepala departemen produk mart, mengatakan ia berharap darah berharga mereka menjadi percikan harapan yang menyelamatkan satu kehidupan. Ia menambahkan bahwa NongHyup akan terus mendorong berbagai kegiatan kontribusi sosial untuk mewujudkan nilai hidup berdampingan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "dcd87b7558d8",
     "slug": "블랙록도-주목하는-중고거래-시장-유럽-최대-플랫폼-빈티드-투자-참여-479597",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Prospek Properti: Nilai Uang Turun dan Pasokan Menyusut Tekan Harga Rumah",
         "excerpt": "Aegigom, penulis The Immutable Laws of Wealth Building, menilai pasar properti saat ini kurang menarik tetapi penting, karena penurunan nilai uang dan berkurangnya pasokan memberi tekanan naik pada harga rumah.",
         "body": "Aegigom, penulis buku laris keuangan properti The Immutable Laws of Wealth Building, menggambarkan pasar properti saat ini sebagai “periode yang kurang menarik”, tetapi juga “periode paling penting”. Ia menjelaskan bahwa penurunan nilai uang dan menyusutnya pasokan saling bertemu sehingga harga rumah berada dalam tekanan untuk terus naik. Pernyataan ini muncul dalam konteks perlunya lebih memperhatikan kondisi dasar yang menggerakkan harga, bukan sekadar daya tarik jangka pendek pasar. Karena pasokan dan permintaan, bersama perubahan nilai mata uang, disebut sebagai variabel inti dalam menilai pasar, pelaku pasar perlu mencermati penyusutan pasokan dan arah harga aset secara bersamaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "38ba4df132cf",
-    "slug": "분상제-적용-에코델타시티-중흥s-클래스잔여-가구-계약-735844",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T09:00:42.256Z",
-    "updatedAt": "2026-05-08T09:00:42.256Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050831056",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050831056",
-    "titleFingerprint": "61383a0c951af542bd927a880a78104ce06c3234",
-    "dedupKeys": [
-      "38ba4df132cfd4e834fcbed7d011a974ceb6239e",
-      "61383a0c951af542bd927a880a78104ce06c3234",
-      "6156e3f772cd42fe3a53f0b1c2d12039cb1c04be"
-    ],
-    "imageUrl": "/images/articles/38ba4df132cf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "분상제 적용 에코델타시티 중흥S-클래스, 잔여 가구 계약 진행",
-        "excerpt": "중흥토건이 부산 에코델타시티에 조성하는 ‘에코델타시티 중흥S-클래스 에듀리버’ 일부 잔여 가구 계약을 진행하며 분양가상한제 적용 단지로 수요자 관심을 받고 있다.",
-        "body": "중흥건설그룹 중흥토건이 부산 에코델타시티 공동 4블록에 들어서는 ‘에코델타시티 중흥S-클래스 에듀리버’의 일부 잔여 가구 계약을 진행하고 있다. 이 단지는 분양가상한제가 적용되는 아파트로, 지하 2층~지상 최고 18층 12개 동, 전용 84·112㎡ 총 728가구 규모로 조성된다. 전용 84㎡와 112㎡ 중심의 구성, 부산 에코델타시티 입지, 분상제 적용 여부가 실수요자의 관심 요소로 꼽힌다. 잔여 가구 계약 진행은 청약 이후 남은 물량을 대상으로 한 공급 절차라는 점에서 향후 계약률과 입주 수요가 주목된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Price-Cap Eco Delta City Jungheung S-Class Opens Remaining Unit Contracts",
-        "excerpt": "Jungheung Togeon is taking contracts for remaining units at Eco Delta City Jungheung S-Class Edu River in Busan, a price-cap apartment project drawing buyer interest.",
-        "body": "Jungheung Togeon, part of Jungheung Construction Group, is proceeding with contracts for some remaining units at Eco Delta City Jungheung S-Class Edu River in Block 4 of Busan Eco Delta City. The apartment complex is subject to Korea’s price ceiling system and is planned with 12 buildings from two basement levels to up to 18 floors above ground, totaling 728 units in 84㎡ and 112㎡ exclusive-use layouts. Its unit mix, Busan Eco Delta City location and price-cap status are key points for end-user demand. The remaining-unit contracts are a post-subscription supply step, putting future contract progress and move-in demand in focus. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "分譲価格上限制のエコデルタシティ中興Sクラス、残余住戸契約へ",
-        "excerpt": "中興土建は釜山エコデルタシティの「エコデルタシティ中興Sクラス・エデュリバー」で一部残余住戸の契約を進めており、価格上限制適用団地として注目されている。",
-        "body": "中興建設グループの中興土建は、釜山エコデルタシティ共同4ブロックに入る「エコデルタシティ中興Sクラス・エデュリバー」の一部残余住戸について契約を進めている。同団地は分譲価格上限制が適用されるマンションで、地下2階から地上最高18階、12棟、専有84・112㎡の計728戸規模で造成される。84㎡と112㎡中心の構成、釜山エコデルタシティという立地、価格上限制の適用が実需層の関心要因とされる。残余住戸契約は申込み後に残った住戸を対象にした供給手続きであり、今後の契約率と入居需要が注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "限价适用的Eco Delta City中兴S-Class启动剩余房源签约",
-        "excerpt": "中兴土建正在为釜山Eco Delta City“中兴S-Class Edu River”部分剩余房源办理签约，该项目因适用分售价格上限制而受到购房者关注。",
-        "body": "中兴建设集团旗下中兴土建正在推进釜山Eco Delta City共同4区块“Eco Delta City中兴S-Class Edu River”部分剩余房源的签约。该项目为适用分售价格上限制的公寓，规划为地下2层至地上最高18层、12栋，专有面积84㎡和112㎡，共728户。以84㎡、112㎡为主的户型构成、釜山Eco Delta City区位，以及限价适用，是实际居住需求者关注的要素。剩余房源签约属于认购之后针对剩余户数进行的供应程序，后续签约率和入住需求将受到关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Eco Delta City Jungheung S-Class con precio regulado firma unidades restantes",
-        "excerpt": "Jungheung Togeon avanza con contratos de unidades restantes en Eco Delta City Jungheung S-Class Edu River, en Busan, un complejo sujeto al sistema de precio máximo.",
-        "body": "Jungheung Togeon, del grupo Jungheung Construction, está gestionando contratos para algunas unidades restantes de Eco Delta City Jungheung S-Class Edu River, ubicado en el bloque comunitario 4 de Eco Delta City, Busan. El complejo está sujeto al sistema de límite de precio de venta y se proyecta con 12 edificios, desde dos niveles subterráneos hasta un máximo de 18 plantas, con 728 viviendas de 84㎡ y 112㎡ de uso exclusivo. La composición de unidades, la ubicación en Busan Eco Delta City y la aplicación del límite de precio son factores de interés para compradores finales. La contratación de unidades restantes corresponde a la oferta posterior a la suscripción, por lo que se observarán la tasa de contratos y la demanda de ocupación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Eco Delta City Jungheung S-Class com teto de preço abre contratos restantes",
-        "excerpt": "A Jungheung Togeon está firmando contratos de unidades remanescentes no Eco Delta City Jungheung S-Class Edu River, em Busan, empreendimento sujeito ao teto de preço de venda.",
-        "body": "A Jungheung Togeon, do Jungheung Construction Group, está conduzindo contratos para algumas unidades remanescentes do Eco Delta City Jungheung S-Class Edu River, no bloco comunitário 4 de Eco Delta City, em Busan. O complexo é um apartamento sujeito ao sistema de teto de preço de venda e será composto por 12 edifícios, de dois subsolos a até 18 pavimentos, com 728 unidades de áreas exclusivas de 84㎡ e 112㎡. A composição focada em 84㎡ e 112㎡, a localização em Busan Eco Delta City e a aplicação do teto de preço são fatores de interesse para compradores finais. A contratação das unidades remanescentes é uma etapa de oferta após a subscrição, com atenção voltada à taxa de contratos e à demanda de ocupação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Preisgedeckeltes Eco Delta City Jungheung S-Class vergibt Restwohnungen",
-        "excerpt": "Jungheung Togeon schließt Verträge für Restwohnungen im Eco Delta City Jungheung S-Class Edu River in Busan ab, einem Projekt unter Koreas Preisdeckelregelung.",
-        "body": "Jungheung Togeon aus der Jungheung Construction Group führt Verträge für einige Restwohnungen im Eco Delta City Jungheung S-Class Edu River im gemeinsamen Block 4 der Busan Eco Delta City durch. Die Anlage unterliegt dem koreanischen Preisdeckel für Wohnungsverkäufe und wird mit 12 Gebäuden, zwei Untergeschossen bis maximal 18 oberirdischen Etagen sowie insgesamt 728 Einheiten mit 84㎡ und 112㎡ exklusiver Fläche errichtet. Die Grundrissstruktur, der Standort in Busan Eco Delta City und die Anwendung des Preisdeckels gelten als wichtige Punkte für Eigennutzer. Die Restwohnungsverträge sind ein Angebotsschritt nach der Zeichnungsphase; im Fokus stehen nun Vertragsquote und spätere Einzugsnachfrage. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Eco Delta City Jungheung S-Class sous plafond de prix lance les contrats restants",
-        "excerpt": "Jungheung Togeon signe des contrats pour des logements restants à Eco Delta City Jungheung S-Class Edu River, à Busan, un programme soumis au plafond des prix de vente.",
-        "body": "Jungheung Togeon, société du groupe Jungheung Construction, poursuit les contrats pour une partie des logements restants d’Eco Delta City Jungheung S-Class Edu River, dans le bloc commun 4 de Busan Eco Delta City. Ce programme d’appartements est soumis au système coréen de plafonnement des prix de vente et prévoit 12 bâtiments, de deux niveaux en sous-sol jusqu’à 18 étages, pour 728 logements de 84㎡ et 112㎡ de surface privative. La composition des logements, l’emplacement à Busan Eco Delta City et l’application du plafond de prix sont des éléments suivis par les acheteurs utilisateurs. Ces contrats portent sur les logements restant après la souscription, avec une attention portée au taux de signature et à la demande d’emménagement. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إيكو دلتا سيتي جونغهونغ إس-كلاس الخاضع لسقف السعر يطرح الوحدات المتبقية",
-        "excerpt": "تواصل جونغهونغ توغون توقيع عقود بعض الوحدات المتبقية في مشروع إيكو دلتا سيتي جونغهونغ إس-كلاس إديو ريفر في بوسان، وهو مجمع سكني يخضع لنظام سقف سعر البيع.",
-        "body": "تقوم جونغهونغ توغون، التابعة لمجموعة جونغهونغ للإنشاءات، بإتمام عقود بعض الوحدات المتبقية في مشروع «إيكو دلتا سيتي جونغهونغ إس-كلاس إديو ريفر» في الكتلة المشتركة 4 بمدينة إيكو دلتا في بوسان. ويخضع هذا المجمع السكني لنظام سقف أسعار البيع، ويتكون من 12 مبنى بارتفاع يمتد من طابقين تحت الأرض إلى 18 طابقا كحد أقصى فوق الأرض، بإجمالي 728 وحدة بمساحات حصرية 84 و112 متر مربع. وتعد تركيبة الوحدات، وموقع بوسان إيكو دلتا سيتي، وتطبيق سقف السعر عوامل اهتمام للمشترين الفعليين. وتمثل عقود الوحدات المتبقية مرحلة توريد بعد الاكتتاب، مع ترقب معدل التعاقد والطلب على السكن. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "प्राइस कैप वाला Eco Delta City Jungheung S-Class शेष यूनिट अनुबंध शुरू",
-        "excerpt": "Jungheung Togeon बुसान के Eco Delta City Jungheung S-Class Edu River में कुछ शेष यूनिटों के अनुबंध आगे बढ़ा रही है, जो मूल्य-सीमा लागू अपार्टमेंट परियोजना है।",
-        "body": "Jungheung Construction Group की Jungheung Togeon बुसान Eco Delta City के कम्युनिटी ब्लॉक 4 में स्थित ‘Eco Delta City Jungheung S-Class Edu River’ की कुछ शेष यूनिटों के अनुबंध कर रही है। यह अपार्टमेंट परियोजना बिक्री मूल्य सीमा प्रणाली के अधीन है और इसमें भूमिगत 2 मंजिल से जमीन के ऊपर अधिकतम 18 मंजिल तक 12 इमारतें, 84㎡ और 112㎡ एक्सक्लूसिव एरिया की कुल 728 यूनिटें प्रस्तावित हैं। 84㎡ और 112㎡ केंद्रित यूनिट संरचना, बुसान Eco Delta City स्थान और प्राइस कैप लागू होना वास्तविक खरीदारों के लिए प्रमुख बिंदु हैं। शेष यूनिट अनुबंध सदस्यता के बाद बची आपूर्ति की प्रक्रिया है, इसलिए आगे अनुबंध दर और रहने की मांग पर नजर रहेगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Eco Delta City Jungheung S-Class Bersubsidi Batas Harga Buka Kontrak Sisa Unit",
-        "excerpt": "Jungheung Togeon memproses kontrak sisa unit di Eco Delta City Jungheung S-Class Edu River, Busan, proyek apartemen yang menerapkan batas harga jual.",
-        "body": "Jungheung Togeon dari Jungheung Construction Group sedang memproses kontrak untuk sebagian sisa unit Eco Delta City Jungheung S-Class Edu River di blok bersama 4 Eco Delta City, Busan. Kompleks apartemen ini menerapkan sistem batas harga jual dan direncanakan terdiri dari 12 gedung, dari dua lantai basement hingga maksimal 18 lantai di atas tanah, dengan total 728 unit berukuran eksklusif 84㎡ dan 112㎡. Komposisi unit 84㎡ dan 112㎡, lokasi di Busan Eco Delta City, serta penerapan batas harga menjadi faktor perhatian bagi pembeli pengguna akhir. Kontrak sisa unit merupakan tahap pasokan setelah proses langganan, sehingga tingkat kontrak dan permintaan hunian berikutnya akan menjadi sorotan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e0078823db31",
-    "slug": "김이탁-국토부-1차관-밀레니엄-힐튼-해체공사-현장점검안전-최우선-가치-364388",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T08:59:19.137Z",
-    "updatedAt": "2026-05-08T08:59:19.137Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041277",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041277",
-    "titleFingerprint": "83f2ff8c01469f34ba02b32cbd312fa62a770898",
-    "dedupKeys": [
-      "e0078823db3142f053f620047fcb796c1bc042eb",
-      "83f2ff8c01469f34ba02b32cbd312fa62a770898",
-      "587f91cae494d2c573093636d6a7d043a8ac8a2c"
-    ],
-    "imageUrl": "/images/articles/e0078823db31.jpg",
-    "i18n": {
-      "ko": {
-        "title": "밀레니엄 힐튼 해체공사 현장점검…김이탁 차관 “안전 최우선”",
-        "excerpt": "김이탁 국토교통부 제1차관이 8일 오후 서울 중구 밀레니엄 힐튼 해체공사 현장을 점검하며 도심 공사 안전수칙 준수를 강조했다.",
-        "body": "김이탁 국토교통부 제1차관은 8일 오후 서울 중구 밀레니엄 힐튼 해체공사 현장을 찾아 안전관리 실태를 점검했다. 국토교통부는 6월까지 국토교통 분야 집중안전점검을 실시하고 있으며, 이번 방문은 도심 해체공사 현장의 위험 요인을 확인하기 위한 일정이다. 김 차관은 도심 해체공사가 시민 안전과 직결되는 만큼 안전을 최우선 가치로 삼아야 한다고 강조했다. 현장 관계자들에게는 해체공사 과정에서 정해진 안전수칙을 철저히 지키고, 사고 예방에 만전을 기할 것을 당부했다. 국토부의 집중안전점검은 주요 시설과 공사 현장의 안전관리 수준을 점검하는 방식으로 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Millennium Hilton Demolition Site Inspected as Vice Minister Kim Stresses Safety",
-        "excerpt": "First Vice Minister Kim Yi-tak inspected the Millennium Hilton demolition site in Jung-gu, Seoul, on the afternoon of the 8th, stressing strict safety compliance.",
-        "body": "Kim Yi-tak, First Vice Minister of Land, Infrastructure and Transport, visited the Millennium Hilton demolition site in Jung-gu, Seoul, on the afternoon of the 8th to inspect safety management conditions. The ministry is conducting intensive safety inspections across the land and transport sector through June, and the visit was part of checking risk factors at an urban demolition site. Kim emphasized that safety must be the top priority because demolition work in city centers is directly linked to public safety. He urged site officials to strictly follow prescribed safety rules during demolition and make every effort to prevent accidents. The ministry’s intensive inspections are expected to continue by reviewing safety management at major facilities and construction sites. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ミレニアムヒルトン解体現場を点検、金利鐸次官「安全が最優先」",
-        "excerpt": "金利鐸・国土交通部第1次官は8日午後、ソウル中区のミレニアムヒルトン解体工事現場を点検し、安全規則の徹底を強調した。",
-        "body": "金利鐸・国土交通部第1次官は8日午後、ソウル中区のミレニアムヒルトン解体工事現場を訪れ、安全管理の状況を点検した。国土交通部は6月まで国土交通分野の集中安全点検を実施しており、今回の訪問は都心の解体工事現場における危険要因を確認するためのものだ。金次官は、都心での解体工事は市民の安全に直結するため、安全を最優先の価値に置くべきだと強調した。現場関係者には、解体工事の過程で定められた安全規則を徹底して守り、事故防止に万全を期すよう求めた。国土交通部の集中安全点検は、主要施設や工事現場の安全管理水準を確認する形で続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "千禧希尔顿拆除工程接受现场检查，金二铎强调“安全优先”",
-        "excerpt": "韩国国土交通部第一次官金二铎8日下午检查首尔中区千禧希尔顿拆除工程现场，强调市中心施工必须严格遵守安全规则。",
-        "body": "韩国国土交通部第一次官金二铎8日下午来到首尔中区千禧希尔顿拆除工程现场，检查安全管理情况。国土交通部正持续到6月开展国土交通领域集中安全检查，此次访问是为确认市中心拆除工程现场的风险因素。金次官强调，市中心拆除工程与市民安全直接相关，必须把安全作为最优先价值。他要求现场相关人员在拆除施工过程中严格遵守既定安全规则，并全力预防事故。国土交通部的集中安全检查预计将继续以检查主要设施和施工现场安全管理水平的方式推进。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inspeccionan demolición del Millennium Hilton; Kim Yi-tak prioriza la seguridad",
-        "excerpt": "Kim Yi-tak, primer viceministro de Tierra, Infraestructura y Transporte, inspeccionó el día 8 la demolición del Millennium Hilton en Jung-gu, Seúl, y pidió cumplir las normas de seguridad.",
-        "body": "Kim Yi-tak, primer viceministro de Tierra, Infraestructura y Transporte, visitó la tarde del día 8 la obra de demolición del Millennium Hilton en Jung-gu, Seúl, para revisar el estado de la gestión de seguridad. El ministerio realiza hasta junio inspecciones intensivas de seguridad en el sector de territorio y transporte, y esta visita forma parte de la revisión de factores de riesgo en una demolición urbana. Kim subrayó que la seguridad debe ser el valor prioritario, ya que las demoliciones en el centro de la ciudad están directamente vinculadas con la seguridad de los ciudadanos. También pidió a los responsables de la obra cumplir estrictamente las normas establecidas durante el proceso y hacer todo lo posible para prevenir accidentes. Las inspecciones continuarán revisando instalaciones principales y obras. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Demolição do Millennium Hilton é vistoriada; Kim Yi-tak destaca segurança",
-        "excerpt": "Kim Yi-tak, primeiro vice-ministro de Terras, Infraestrutura e Transporte, vistoriou no dia 8 a demolição do Millennium Hilton, em Jung-gu, Seul, e reforçou regras de segurança.",
-        "body": "Kim Yi-tak, primeiro vice-ministro de Terras, Infraestrutura e Transporte, visitou na tarde do dia 8 o canteiro de demolição do Millennium Hilton, em Jung-gu, Seul, para verificar a gestão de segurança. O ministério realiza até junho inspeções intensivas de segurança no setor de território e transporte, e a visita buscou confirmar fatores de risco em uma obra de demolição urbana. Kim afirmou que a segurança deve ser o valor mais importante, pois esse tipo de obra no centro da cidade está diretamente ligado à segurança dos cidadãos. Ele pediu aos responsáveis pelo local que cumpram rigorosamente as normas de segurança durante a demolição e se empenhem na prevenção de acidentes. As inspeções devem continuar em instalações principais e canteiros de obras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Millennium-Hilton-Abriss geprüft: Vize-Minister Kim betont Sicherheit",
-        "excerpt": "Kim Yi-tak, erster Vizeminister für Land, Infrastruktur und Verkehr, prüfte am 8. den Abriss des Millennium Hilton in Jung-gu, Seoul, und mahnte strikte Sicherheitsregeln an.",
-        "body": "Kim Yi-tak, erster Vizeminister für Land, Infrastruktur und Verkehr, besuchte am Nachmittag des 8. die Abrissbaustelle des Millennium Hilton in Jung-gu, Seoul, um den Stand des Sicherheitsmanagements zu überprüfen. Das Ministerium führt bis Juni intensive Sicherheitsinspektionen im Bereich Land und Verkehr durch; der Besuch diente der Prüfung von Risikofaktoren auf einer innerstädtischen Abrissbaustelle. Kim betonte, dass Sicherheit oberste Priorität haben müsse, da Abrissarbeiten in der Innenstadt direkt mit der Sicherheit der Bürger verbunden seien. Er forderte die Verantwortlichen vor Ort auf, die festgelegten Sicherheitsregeln während des Abrisses strikt einzuhalten und Unfälle umfassend zu verhindern. Die Inspektionen sollen an wichtigen Anlagen und Baustellen fortgesetzt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Démolition du Millennium Hilton inspectée, Kim Yi-tak met la sécurité en priorité",
-        "excerpt": "Kim Yi-tak, premier vice-ministre des Territoires, des Infrastructures et des Transports, a inspecté le 8 le chantier de démolition du Millennium Hilton à Jung-gu, Séoul.",
-        "body": "Kim Yi-tak, premier vice-ministre des Territoires, des Infrastructures et des Transports, s’est rendu dans l’après-midi du 8 sur le chantier de démolition du Millennium Hilton, à Jung-gu, Séoul, afin de vérifier la gestion de la sécurité. Le ministère mène jusqu’en juin des inspections intensives de sécurité dans le secteur du territoire et des transports, et cette visite visait à examiner les facteurs de risque d’un chantier de démolition en centre-ville. Kim a souligné que la sécurité devait être la priorité absolue, car ces travaux sont directement liés à la sécurité des citoyens. Il a demandé aux responsables du site de respecter strictement les règles prévues pendant la démolition et de tout mettre en œuvre pour prévenir les accidents. Les inspections devraient se poursuivre sur les principaux sites et chantiers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تفقد موقع هدم ميلينيوم هيلتون في سيول وكيم يي تاك يؤكد أولوية السلامة",
-        "excerpt": "تفقد كيم يي تاك، النائب الأول لوزير الأراضي والبنية التحتية والنقل، بعد ظهر يوم 8 موقع هدم فندق ميلينيوم هيلتون في جونغ غو بسيول مشددا على قواعد السلامة.",
-        "body": "زار كيم يي تاك، النائب الأول لوزير الأراضي والبنية التحتية والنقل، بعد ظهر يوم 8 موقع أعمال هدم فندق ميلينيوم هيلتون في جونغ غو بسيول لتفقد حالة إدارة السلامة. وتجري الوزارة حتى يونيو فحوصات سلامة مكثفة في مجالات الأراضي والنقل، وجاءت هذه الزيارة للتحقق من عوامل الخطر في موقع هدم داخل المدينة. وأكد كيم أن السلامة يجب أن تكون القيمة ذات الأولوية القصوى، لأن أعمال الهدم في المناطق الحضرية ترتبط مباشرة بسلامة المواطنين. وطلب من مسؤولي الموقع الالتزام الصارم بقواعد السلامة المحددة أثناء عملية الهدم وبذل كل الجهود لمنع الحوادث. ومن المتوقع أن تستمر فحوصات الوزارة عبر مراجعة مستوى إدارة السلامة في المنشآت الرئيسية ومواقع البناء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मिलेनियम हिल्टन ध्वस्तीकरण स्थल का निरीक्षण, किम यी-ताक ने सुरक्षा को सर्वोपरि बताया",
-        "excerpt": "भूमि, अवसंरचना और परिवहन मंत्रालय के प्रथम उपमंत्री किम यी-ताक ने 8 तारीख की दोपहर सियोल के जंग-गु में मिलेनियम हिल्टन ध्वस्तीकरण स्थल का निरीक्षण किया।",
-        "body": "भूमि, अवसंरचना और परिवहन मंत्रालय के प्रथम उपमंत्री किम यी-ताक ने 8 तारीख की दोपहर सियोल के जंग-गु स्थित मिलेनियम हिल्टन ध्वस्तीकरण स्थल का दौरा कर सुरक्षा प्रबंधन की स्थिति की जांच की। मंत्रालय जून तक भूमि और परिवहन क्षेत्र में गहन सुरक्षा निरीक्षण कर रहा है, और यह दौरा शहरी ध्वस्तीकरण स्थल के जोखिम कारकों की पुष्टि के लिए था। किम ने कहा कि शहर के बीच ध्वस्तीकरण कार्य नागरिकों की सुरक्षा से सीधे जुड़ा है, इसलिए सुरक्षा को सर्वोच्च मूल्य माना जाना चाहिए। उन्होंने स्थल अधिकारियों से ध्वस्तीकरण प्रक्रिया में निर्धारित सुरक्षा नियमों का कड़ाई से पालन करने और दुर्घटनाओं की रोकथाम में पूरी तैयारी रखने को कहा। मंत्रालय के गहन निरीक्षण प्रमुख सुविधाओं और निर्माण स्थलों की सुरक्षा प्रबंधन स्थिति की समीक्षा के रूप में जारी रहने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pembongkaran Millennium Hilton Ditinjau, Kim Yi-tak Tekankan Utama Keselamatan",
-        "excerpt": "Wakil Menteri Pertama Pertanahan, Infrastruktur, dan Transportasi Kim Yi-tak meninjau lokasi pembongkaran Millennium Hilton di Jung-gu, Seoul, pada sore tanggal 8.",
-        "body": "Kim Yi-tak, Wakil Menteri Pertama Pertanahan, Infrastruktur, dan Transportasi, pada sore tanggal 8 mengunjungi lokasi pembongkaran Millennium Hilton di Jung-gu, Seoul, untuk memeriksa kondisi manajemen keselamatan. Kementerian sedang melakukan inspeksi keselamatan intensif di sektor pertanahan dan transportasi hingga Juni, dan kunjungan ini bertujuan memastikan faktor risiko di lokasi pembongkaran kawasan perkotaan. Kim menegaskan bahwa keselamatan harus menjadi nilai utama karena pekerjaan pembongkaran di pusat kota berkaitan langsung dengan keselamatan warga. Ia meminta pihak di lokasi mematuhi aturan keselamatan yang telah ditetapkan selama proses pembongkaran dan berupaya penuh mencegah kecelakaan. Inspeksi kementerian diperkirakan berlanjut dengan memeriksa tingkat manajemen keselamatan di fasilitas utama dan lokasi konstruksi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1a50be8d6fd7",
-    "slug": "급매-더-나온다-510-싼-집-노려라-650474",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T08:58:10.635Z",
-    "updatedAt": "2026-05-08T08:58:10.635Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12041340",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12041340",
-    "titleFingerprint": "13aa91a66a0c18e283907ebc3ecb20374b9b87db",
-    "dedupKeys": [
-      "1a50be8d6fd7d68673422ea49e9267cf1a9d6857",
-      "13aa91a66a0c18e283907ebc3ecb20374b9b87db",
-      "a0b0c989fb6f84c79c2f1669e1bad6a84568ae00"
-    ],
-    "imageUrl": "/images/articles/1a50be8d6fd7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아파트 급매물 더 나온다…무주택자라면 5~10% 싼 매물 주목",
-        "excerpt": "정부가 아파트 매물을 시장으로 유도하는 정책을 이어가면서 급매물이 추가로 나올 가능성이 제기됐다. 무주택자는 가격 흐름을 살피며 5~10% 낮은 매물을 주목해야 한다.",
-        "body": "정부가 아파트 매물을 시장으로 끌어내는 정책을 계속 쓰고 있는 가운데, 급매물이 추가로 나올 수 있다는 전망이 나왔다. 무주택자는 매매 가격 흐름을 주의 깊게 확인하다가 시세보다 5~10% 낮은 물건이 나오면 매수 기회로 검토할 필요가 있다는 조언이다. 이번 내용은 정부 정책이 매물 출회를 유도하는 상황에서 가격 부담을 낮춘 매물이 나올 수 있다는 점에 초점을 맞춘다. 다만 핵심은 무리한 추격 매수가 아니라 가격 동향을 살피며 할인 폭이 확인되는 물건을 선별하는 데 있다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "More urgent apartment listings expected; buyers urged to watch 5-10% discounts",
-        "excerpt": "As the government continues policies aimed at drawing apartment listings into the market, more urgent sales may appear. Home seekers without a property are advised to monitor prices and look for homes priced 5-10% lower.",
-        "body": "As the government continues to use policies intended to bring apartment listings into the market, more urgent-sale properties are expected to appear. For people without a home, the advice is to closely track price trends and consider buying when a property is offered 5-10% below the prevailing level. The point is that government measures encouraging listings could create opportunities for homes with lower price burdens. The focus, however, is not on chasing prices, but on selecting properties only after confirming both market movement and the size of the discount. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "マンション急売物件さらに増加へ、無住宅者は5～10％安い物件に注目",
-        "excerpt": "政府がマンション売り物件を市場に引き出す政策を続ける中、急売物件がさらに出る可能性が示された。無住宅者は価格動向を確認し、5～10％安い物件に注目したい。",
-        "body": "政府がマンションの売り物件を市場に引き出す政策を継続している中、急売物件が追加で出る可能性があるとの見方が出ている。住宅を持たない人は、売買価格の動きを注意深く確認し、相場より5～10％低い物件が出た場合には購入機会として検討する必要があるという助言だ。今回の内容は、政府政策が売り物件の放出を促す状況で、価格負担を抑えた物件が出る可能性に焦点を当てている。ただし重要なのは無理な追随買いではなく、価格動向と割引幅を確認して物件を選別することだ。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "公寓急售房源或继续增加，无房者可关注低5%至10%房源",
-        "excerpt": "随着政府继续推动公寓房源进入市场，急售房源可能进一步出现。无房者应密切关注价格走势，在出现低于市价5%至10%的房源时审慎把握。",
-        "body": "在政府持续采取政策推动公寓房源进入市场的背景下，市场上可能会继续出现急售房源。对于无房者而言，建议密切查看买卖价格走势，若出现比市场价格低5%至10%的房源，可作为购房机会加以考虑。此次信息的重点在于，政府政策正在诱导房源释放，因此可能出现价格负担较低的房源。不过，核心并不是盲目追涨买入，而是在确认价格动向和折扣幅度后筛选合适房源。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Más ventas urgentes de apartamentos: compradores deben mirar descuentos del 5-10%",
-        "excerpt": "Con el Gobierno manteniendo políticas para atraer listados de apartamentos al mercado, podrían aparecer más ventas urgentes. Quienes no tienen vivienda deberían vigilar precios y buscar inmuebles 5-10% más baratos.",
-        "body": "El Gobierno sigue aplicando políticas destinadas a llevar más apartamentos al mercado, y por ello podrían aparecer más propiedades en venta urgente. Para quienes no tienen vivienda, la recomendación es revisar con atención la evolución de los precios y considerar una compra si surge un inmueble entre 5% y 10% por debajo del nivel de mercado. El punto central es que las medidas oficiales que incentivan la salida de oferta pueden generar propiedades con menor carga de precio. Aun así, la clave no es comprar de forma apresurada, sino seleccionar inmuebles tras confirmar la tendencia de precios y el descuento real. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Mais apartamentos em venda urgente podem surgir; atenção a descontos de 5-10%",
-        "excerpt": "Com o governo mantendo políticas para levar anúncios de apartamentos ao mercado, novas vendas urgentes podem aparecer. Quem não possui imóvel deve acompanhar preços e observar ofertas 5-10% mais baratas.",
-        "body": "O governo continua usando políticas para trazer anúncios de apartamentos ao mercado, e a expectativa é de que mais imóveis em venda urgente possam surgir. Para quem ainda não possui casa, a orientação é acompanhar de perto a tendência dos preços e considerar a compra quando aparecer um imóvel 5% a 10% abaixo do nível de mercado. O foco é que as medidas oficiais que estimulam a oferta podem criar oportunidades com menor peso de preço. Ainda assim, a questão central não é comprar por impulso, mas selecionar imóveis depois de confirmar a evolução dos preços e o tamanho do desconto. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Mehr Notverkäufe bei Wohnungen erwartet: Käufer sollten 5-10% Rabatt beachten",
-        "excerpt": "Da die Regierung weiter Maßnahmen nutzt, um Wohnungsangebote in den Markt zu bringen, könnten weitere Notverkäufe folgen. Wohnungslose Käufer sollten Preise beobachten und 5-10% günstigere Angebote prüfen.",
-        "body": "Die Regierung setzt ihre Maßnahmen fort, um mehr Wohnungsangebote auf den Markt zu bringen. Vor diesem Hintergrund wird erwartet, dass weitere Notverkäufe bei Apartments auftauchen können. Menschen ohne eigene Wohnung sollten die Preisentwicklung genau verfolgen und ein Objekt als Kaufchance prüfen, wenn es 5% bis 10% unter dem Marktpreis angeboten wird. Im Mittelpunkt steht, dass politische Maßnahmen zur Angebotsausweitung Immobilien mit geringerer Preisbelastung hervorbringen könnten. Entscheidend ist jedoch nicht ein überstürzter Kauf, sondern die Auswahl von Objekten nach Prüfung der Preisbewegung und des tatsächlichen Abschlags. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Davantage de ventes urgentes d’appartements attendues: viser 5-10% moins cher",
-        "excerpt": "Alors que le gouvernement poursuit ses mesures pour faire arriver des appartements sur le marché, d’autres ventes urgentes pourraient apparaître. Les non-propriétaires doivent suivre les prix et repérer les biens 5-10% moins chers.",
-        "body": "Le gouvernement continue d’appliquer des politiques destinées à faire venir davantage d’appartements sur le marché, ce qui pourrait entraîner l’apparition de nouvelles ventes urgentes. Pour les personnes sans logement, le conseil est de suivre attentivement l’évolution des prix et d’envisager un achat lorsqu’un bien est proposé 5% à 10% sous le niveau du marché. L’enjeu est que les mesures publiques favorisant la mise en vente peuvent créer des biens avec une charge de prix plus faible. Toutefois, l’essentiel n’est pas d’acheter dans la précipitation, mais de sélectionner les biens après avoir confirmé la tendance des prix et l’ampleur de la décote. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "مزيد من عروض الشقق العاجلة متوقع؛ راقبوا عقارات أرخص بـ5-10%",
-        "excerpt": "مع استمرار الحكومة في سياسات تدفع معروض الشقق إلى السوق، قد تظهر مزيد من عروض البيع العاجلة. وينصح من لا يملكون منزلا بمتابعة الأسعار والبحث عن عقارات أقل بـ5-10%.",
-        "body": "تواصل الحكومة استخدام سياسات تهدف إلى دفع معروض الشقق إلى السوق، وفي هذا السياق قد تظهر مزيد من عقارات البيع العاجل. وبالنسبة لمن لا يملكون منزلا، تتمثل النصيحة في متابعة اتجاهات أسعار البيع بدقة، والنظر في الشراء عندما يظهر عقار بسعر يقل عن مستوى السوق بنسبة 5% إلى 10%. يركز هذا الطرح على أن السياسات الحكومية التي تشجع خروج المعروض قد تتيح عقارات بعبء سعري أقل. لكن النقطة الأساسية ليست الشراء المتسرع، بل اختيار العقار بعد التحقق من حركة الأسعار وحجم الخصم. المصدر: مقتبس من mk.co.kr."
-      },
-      "hi": {
-        "title": "अपार्टमेंट की और तत्काल बिक्री आ सकती है; 5-10% सस्ते घरों पर नजर रखें",
-        "excerpt": "सरकार अपार्टमेंट आपूर्ति को बाजार में लाने वाली नीतियां जारी रखे हुए है, इसलिए और तत्काल बिक्री आ सकती है। जिनके पास घर नहीं है, वे कीमतों पर नजर रखकर 5-10% सस्ते घर देखें।",
-        "body": "सरकार अपार्टमेंट की बिक्री योग्य आपूर्ति को बाजार में लाने के लिए नीतियां जारी रखे हुए है, और इसी कारण आगे और तत्काल बिक्री वाले घर सामने आ सकते हैं। जिन लोगों के पास अपना घर नहीं है, उनके लिए सलाह है कि वे बिक्री कीमतों की दिशा को ध्यान से देखें और जब बाजार स्तर से 5% से 10% कम कीमत वाला घर मिले तो उसे खरीद अवसर के रूप में परखें। मुख्य बात यह है कि सरकारी नीतियां आपूर्ति को बाहर लाने में मदद कर रही हैं, जिससे कम कीमत बोझ वाले घर मिल सकते हैं। फिर भी जोर जल्दबाजी में खरीद पर नहीं, बल्कि कीमत रुझान और छूट की पुष्टि के बाद चयन पर है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Listing apartemen jual cepat diperkirakan bertambah; incar diskon 5-10%",
-        "excerpt": "Pemerintah terus memakai kebijakan untuk mendorong listing apartemen masuk ke pasar, sehingga penjualan cepat bisa bertambah. Pembeli tanpa rumah disarankan memantau harga dan melihat unit 5-10% lebih murah.",
-        "body": "Pemerintah terus menjalankan kebijakan yang mendorong listing apartemen masuk ke pasar, sehingga properti jual cepat diperkirakan masih bisa muncul. Bagi masyarakat yang belum memiliki rumah, sarannya adalah memantau pergerakan harga dengan cermat dan mempertimbangkan pembelian ketika ada unit yang ditawarkan 5% hingga 10% di bawah harga pasar. Fokusnya adalah bahwa kebijakan pemerintah yang mendorong keluarnya pasokan dapat menghadirkan properti dengan beban harga lebih rendah. Namun intinya bukan membeli secara terburu-buru, melainkan memilih properti setelah memastikan tren harga dan besarnya diskon. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
