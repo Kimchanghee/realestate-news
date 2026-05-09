@@ -1,5 +1,230 @@
 [
   {
+    "id": "7192a16633ac",
+    "slug": "소비자-87가-ai-알지만업무에-사용하는-비율은-32에-불과-406124",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T15:03:27.414Z",
+    "updatedAt": "2026-05-09T15:03:27.414Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507131800030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507131800030",
+    "titleFingerprint": "ce900a0a62c1e4d5ade1186096a69d353f6edb9c",
+    "dedupKeys": [
+      "7192a16633ac95b39403bbd3d41cf5bdcaf15fe6",
+      "ce900a0a62c1e4d5ade1186096a69d353f6edb9c",
+      "b1838ae451ad71feb093b0e772210fc089f09dfe"
+    ],
+    "imageUrl": "/images/articles/7192a16633ac.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 인지도 87%인데 업무 활용은 32%…소비자 체감 격차 뚜렷",
+        "excerpt": "연합뉴스에 따르면 소비자 87%가 인공지능(AI)을 알고 있지만 일상생활이나 업무에 활용하는 비율은 32%에 그쳐 인지도와 실제 사용 사이 격차가 확인됐다.",
+        "body": "서울에서 연합뉴스 정수연 기자가 전한 내용에 따르면, 소비자의 대다수는 인공지능(AI)을 알고 있지만 실제 일상생활이나 업무에서 활용하는 비율은 10명 중 3명 수준에 머물렀다. 조사에서 AI를 알고 있다고 답한 소비자는 87%였지만, 이를 생활이나 업무에 사용한다고 답한 비율은 32%에 불과했다. 이는 AI에 대한 인지도는 이미 높아졌지만 실제 활용은 아직 제한적이라는 점을 보여준다. 관련 수치는 AI 서비스 확산에도 소비자 경험과 업무 적용 사이에 간극이 남아 있음을 시사한다. 향후 AI 활용 확대 여부는 인지도뿐 아니라 실제 사용 환경과 필요성에 따라 달라질 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "AI Awareness Reaches 87%, but Workplace Use Stays at Just 32%",
+        "excerpt": "According to Yonhap News, 87% of consumers know about artificial intelligence, but only 32% use it in daily life or at work, showing a clear gap between awareness and adoption.",
+        "body": "According to a report from Seoul by Yonhap News reporter Jung Soo-youn, most consumers are aware of artificial intelligence, but actual use in daily life or work remains limited to about three in ten people. The report said 87% of consumers responded that they know about AI, while only 32% said they use it in their lives or jobs. The figures show that awareness of AI has already become high, but practical adoption remains constrained. They also suggest that, despite the spread of AI services, a gap remains between consumer recognition and actual workplace or everyday use. Future expansion of AI use is likely to depend not only on awareness, but also on real usage conditions and perceived need. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "AI認知度は87%も業務利用は32%にとどまる、消費者利用に差",
+        "excerpt": "聯合ニュースによると、消費者の87%が人工知能（AI）を知っている一方、日常生活や業務で利用する割合は32%にとどまり、認知と活用の差が示された。",
+        "body": "ソウル発、聯合ニュースのチョン・スヨン記者によると、消費者の大多数は人工知能（AI）を知っているものの、実際に日常生活や業務で活用している割合は10人中3人程度にとどまった。調査では、AIを知っていると答えた消費者は87%だったが、生活や仕事で使っていると答えた割合は32%にすぎなかった。これはAIへの認知度がすでに高まっている一方、実際の活用はなお限定的であることを示している。関連数値は、AIサービスが広がる中でも消費者体験と業務適用の間に隔たりが残っていることを示唆する。今後のAI利用拡大は、認知度だけでなく実際の利用環境や必要性に左右されるとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "AI认知率达87%，但工作使用率仅32%，消费者应用差距明显",
+        "excerpt": "据韩联社报道，87%的消费者了解人工智能（AI），但在日常生活或工作中使用的比例仅为32%，显示认知度与实际使用之间存在明显差距。",
+        "body": "据韩联社记者郑秀妍自首尔报道，大多数消费者了解人工智能（AI），但实际在日常生活或工作中使用的比例仅停留在约三成。调查显示，回答了解AI的消费者占87%，但表示在生活或工作中使用AI的比例只有32%。这一结果表明，AI的认知度已经较高，但实际应用仍然有限。相关数据也显示，尽管AI服务正在扩散，消费者体验与工作场景应用之间仍存在差距。今后AI使用能否扩大，不仅取决于认知度，也将受到实际使用环境和需求的影响。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El 87% conoce la IA, pero solo el 32% la usa en el trabajo o a diario",
+        "excerpt": "Según Yonhap, el 87% de los consumidores conoce la inteligencia artificial, pero solo el 32% la utiliza en la vida diaria o en el trabajo, lo que revela una brecha entre conocimiento y uso.",
+        "body": "Según un reporte desde Seúl de la periodista Jung Soo-youn de Yonhap News, la mayoría de los consumidores conoce la inteligencia artificial (IA), pero su uso real en la vida diaria o en el trabajo se mantiene en torno a tres de cada diez personas. El informe señala que el 87% de los consumidores dijo conocer la IA, mientras que solo el 32% afirmó usarla en su vida o empleo. Las cifras muestran que el nivel de conocimiento sobre la IA ya es alto, pero que la adopción práctica sigue siendo limitada. También sugieren que, pese a la expansión de los servicios de IA, persiste una brecha entre la experiencia del consumidor y la aplicación laboral. La ampliación futura del uso de IA dependerá no solo del conocimiento, sino también de las condiciones reales de uso y de la necesidad percibida. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Conhecimento sobre IA chega a 87%, mas uso no trabalho fica em 32%",
+        "excerpt": "Segundo a Yonhap, 87% dos consumidores conhecem a inteligência artificial, mas apenas 32% a utilizam no dia a dia ou no trabalho, evidenciando diferença entre reconhecimento e uso real.",
+        "body": "Segundo reportagem de Seul da jornalista Jung Soo-youn, da Yonhap News, a maioria dos consumidores conhece a inteligência artificial (IA), mas o uso efetivo no cotidiano ou no trabalho permanece em cerca de três em cada dez pessoas. O levantamento mostrou que 87% dos consumidores disseram conhecer a IA, enquanto apenas 32% afirmaram usá-la na vida diária ou profissional. Os números indicam que a percepção sobre a IA já é elevada, mas sua adoção prática ainda é limitada. Eles também sugerem que, apesar da expansão dos serviços de IA, permanece uma distância entre a experiência do consumidor e a aplicação no trabalho. A ampliação futura do uso de IA deve depender não apenas do conhecimento, mas também das condições reais de uso e da necessidade percebida. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "87% kennen KI, doch nur 32% nutzen sie im Alltag oder im Beruf",
+        "excerpt": "Laut Yonhap News kennen 87% der Verbraucher künstliche Intelligenz, aber nur 32% nutzen sie im Alltag oder bei der Arbeit. Das zeigt eine deutliche Lücke zwischen Bekanntheit und Anwendung.",
+        "body": "Nach einem Bericht der Yonhap-News-Reporterin Jung Soo-youn aus Seoul kennt die große Mehrheit der Verbraucher künstliche Intelligenz (KI), doch die tatsächliche Nutzung im Alltag oder im Beruf liegt nur bei etwa drei von zehn Personen. Dem Bericht zufolge gaben 87% der Verbraucher an, KI zu kennen, während nur 32% sagten, sie im Leben oder bei der Arbeit einzusetzen. Die Zahlen zeigen, dass die Bekanntheit von KI bereits hoch ist, die praktische Nutzung jedoch weiterhin begrenzt bleibt. Sie deuten auch darauf hin, dass trotz der Verbreitung von KI-Diensten eine Lücke zwischen Verbraucherwahrnehmung und beruflicher Anwendung besteht. Ob sich die KI-Nutzung künftig ausweitet, dürfte nicht nur von der Bekanntheit, sondern auch von realen Nutzungsbedingungen und dem Bedarf abhängen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "87% connaissent l’IA, mais seuls 32% l’utilisent au travail ou au quotidien",
+        "excerpt": "Selon Yonhap, 87% des consommateurs connaissent l’intelligence artificielle, mais seulement 32% l’utilisent dans la vie quotidienne ou au travail, révélant un écart entre notoriété et usage.",
+        "body": "Selon un reportage depuis Séoul de la journaliste Jung Soo-youn de Yonhap News, la grande majorité des consommateurs connaît l’intelligence artificielle (IA), mais son usage réel dans la vie quotidienne ou au travail reste limité à environ trois personnes sur dix. Le rapport indique que 87% des consommateurs ont déclaré connaître l’IA, tandis que seulement 32% ont dit l’utiliser dans leur vie ou leur activité professionnelle. Ces chiffres montrent que la notoriété de l’IA est déjà élevée, mais que son adoption concrète demeure limitée. Ils suggèrent aussi que, malgré la diffusion des services d’IA, un écart subsiste entre l’expérience des consommateurs et l’application au travail. L’élargissement futur de l’usage de l’IA dépendra non seulement de la notoriété, mais aussi des conditions réelles d’utilisation et du besoin ressenti. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "معرفة الذكاء الاصطناعي تبلغ 87% لكن استخدامه في العمل لا يتجاوز 32%",
+        "excerpt": "بحسب وكالة يونهاب، يعرف 87% من المستهلكين الذكاء الاصطناعي، لكن 32% فقط يستخدمونه في الحياة اليومية أو العمل، ما يكشف فجوة واضحة بين المعرفة والاستخدام.",
+        "body": "وفق تقرير من سيول للصحفية جونغ سو-يون في وكالة يونهاب للأنباء، فإن غالبية المستهلكين يعرفون الذكاء الاصطناعي، لكن الاستخدام الفعلي في الحياة اليومية أو العمل لا يزال عند مستوى يقارب ثلاثة من كل عشرة أشخاص. وذكر التقرير أن 87% من المستهلكين قالوا إنهم يعرفون الذكاء الاصطناعي، بينما قال 32% فقط إنهم يستخدمونه في حياتهم أو أعمالهم. وتظهر هذه الأرقام أن مستوى الوعي بالذكاء الاصطناعي أصبح مرتفعا، لكن التطبيق العملي ما زال محدودا. كما تشير إلى أنه رغم انتشار خدمات الذكاء الاصطناعي، لا تزال هناك فجوة بين تجربة المستهلك والتطبيق في بيئة العمل. ومن المرجح أن يعتمد اتساع استخدام الذكاء الاصطناعي مستقبلا ليس على المعرفة وحدها، بل أيضا على ظروف الاستخدام الفعلية والحاجة إليه. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "AI की जानकारी 87% तक, लेकिन काम में इस्तेमाल सिर्फ 32% तक सीमित",
+        "excerpt": "योनहाप न्यूज के अनुसार 87% उपभोक्ता कृत्रिम बुद्धिमत्ता को जानते हैं, लेकिन दैनिक जीवन या काम में इसका उपयोग केवल 32% करते हैं, जिससे जागरूकता और उपयोग के बीच अंतर दिखता है।",
+        "body": "सियोल से योनहाप न्यूज की पत्रकार जंग सू-योन की रिपोर्ट के अनुसार, अधिकांश उपभोक्ता कृत्रिम बुद्धिमत्ता (AI) के बारे में जानते हैं, लेकिन दैनिक जीवन या काम में इसका वास्तविक उपयोग लगभग दस में तीन लोगों तक ही सीमित है। रिपोर्ट में कहा गया कि 87% उपभोक्ताओं ने AI के बारे में जानकारी होने की बात कही, जबकि केवल 32% ने कहा कि वे इसे अपने जीवन या कार्य में इस्तेमाल करते हैं। ये आंकड़े दिखाते हैं कि AI को लेकर जागरूकता पहले ही ऊंचे स्तर पर पहुंच चुकी है, लेकिन व्यावहारिक उपयोग अब भी सीमित है। इससे यह भी संकेत मिलता है कि AI सेवाओं के विस्तार के बावजूद उपभोक्ता अनुभव और कार्यस्थल पर उपयोग के बीच अंतर बना हुआ है। आगे AI उपयोग का विस्तार केवल जागरूकता पर नहीं, बल्कि वास्तविक उपयोग की परिस्थितियों और आवश्यकता पर भी निर्भर करेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kesadaran AI Capai 87%, tetapi Penggunaan Kerja Baru 32%",
+        "excerpt": "Menurut Yonhap News, 87% konsumen mengetahui kecerdasan buatan, tetapi hanya 32% yang menggunakannya dalam kehidupan sehari-hari atau pekerjaan, menunjukkan kesenjangan antara kesadaran dan pemakaian.",
+        "body": "Menurut laporan dari Seoul oleh reporter Yonhap News Jung Soo-youn, sebagian besar konsumen mengetahui kecerdasan buatan (AI), tetapi penggunaan nyata dalam kehidupan sehari-hari atau pekerjaan masih berada di kisaran tiga dari sepuluh orang. Laporan itu menyebut 87% konsumen menjawab mengetahui AI, sementara hanya 32% yang mengatakan menggunakannya dalam kehidupan atau pekerjaan. Angka tersebut menunjukkan bahwa kesadaran terhadap AI sudah tinggi, tetapi pemanfaatan praktis masih terbatas. Data ini juga mengisyaratkan bahwa meski layanan AI meluas, masih ada jarak antara pengalaman konsumen dan penerapan di tempat kerja. Perluasan penggunaan AI ke depan kemungkinan bergantung bukan hanya pada tingkat kesadaran, tetapi juga pada kondisi penggunaan nyata dan kebutuhan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7efc0a0b8736",
+    "slug": "구로구-가리봉2구역-재개발-본격화9일-조합-창립총회-485483",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T15:02:27.961Z",
+    "updatedAt": "2026-05-09T15:02:27.961Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508092100004",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508092100004",
+    "titleFingerprint": "d201eddbf4b0f78bc0ef6f31899bf66f0d09ab93",
+    "dedupKeys": [
+      "7efc0a0b8736326fc03d22262db8c687735ee497",
+      "d201eddbf4b0f78bc0ef6f31899bf66f0d09ab93",
+      "7291a1957386b8de962bd3f44e4ac061ebedf3a6"
+    ],
+    "imageUrl": "/images/articles/7efc0a0b8736.jpg",
+    "i18n": {
+      "ko": {
+        "title": "구로구 가리봉2구역 재개발 본격화, 9일 조합 창립총회 개최",
+        "excerpt": "서울 구로구는 가리봉동 87-177번지 일대 가리봉2구역 재개발이 9일 오후 5시 조합 창립총회를 열며 본격화된다고 밝혔다.",
+        "body": "서울 구로구는 가리봉동 87-177번지 일대 ‘가리봉2구역’ 재개발 사업이 9일 오후 5시 조합 창립총회를 계기로 본격화된다고 밝혔다. 구로구가 전한 내용에 따르면 해당 구역은 가리봉동 일대 정비사업 대상지로, 조합 창립총회는 재개발 추진 과정에서 사업 주체를 구성하는 중요한 절차다. 이번 총회 개최로 가리봉2구역은 향후 조합 설립과 정비사업 절차를 이어갈 기반을 마련하게 된다. 사업이 예정대로 진행될 경우 가리봉동 일대 주거환경 정비 논의에도 영향을 줄 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Guro’s Garibong 2 Redevelopment Moves Ahead With Union Launch Meeting on May 9",
+        "excerpt": "Seoul’s Guro District said redevelopment of the Garibong 2 area around 87-177 Garibong-dong will move forward with a union founding meeting at 5 p.m. on May 9.",
+        "body": "Seoul’s Guro District said the redevelopment project for the Garibong 2 area around 87-177 Garibong-dong will begin moving forward in earnest with a union founding general meeting at 5 p.m. on May 9. According to the district, the area is a designated redevelopment site in Garibong-dong, and the meeting is an important step in forming the project’s operating body. With the meeting, Garibong 2 is expected to establish the basis for union formation and subsequent redevelopment procedures. If the project proceeds as scheduled, it could influence discussions on improving the residential environment in Garibong-dong. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "九老区・加里峰2区域の再開発が本格化、9日に組合創立総会",
+        "excerpt": "ソウル九老区は、加里峰洞87-177番地一帯の加里峰2区域再開発が、9日午後5時の組合創立総会を機に本格化すると明らかにした。",
+        "body": "ソウル九老区は、加里峰洞87-177番地一帯の「加里峰2区域」再開発事業が、9日午後5時に開かれる組合創立総会を機に本格化すると発表した。九老区によると、同区域は加里峰洞一帯の整備事業対象地であり、組合創立総会は再開発推進過程で事業主体を構成する重要な手続きとなる。今回の総会開催により、加里峰2区域は今後の組合設立と整備事業手続きを進める基盤を整えることになる。事業が予定通り進めば、加里峰洞一帯の住環境整備をめぐる議論にも影響を与える見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "九老区加里峰2区重建提速，5月9日举行组合创立大会",
+        "excerpt": "首尔九老区表示，位于加里峰洞87-177号一带的加里峰2区重建项目将于5月9日下午5时举行组合创立大会并正式推进。",
+        "body": "首尔九老区表示，位于加里峰洞87-177号一带的“加里峰2区”重建项目，将以5月9日下午5时举行的组合创立大会为契机正式推进。根据九老区发布的信息，该区域是加里峰洞一带的整备事业对象地，组合创立大会是在重建推进过程中组建项目主体的重要程序。此次大会举行后，加里峰2区将为今后的组合设立和整备事业流程奠定基础。若项目按计划推进，预计也将影响加里峰洞一带居住环境整备相关讨论。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Guro acelera la remodelación de Garibong 2 con asamblea fundacional el 9 de mayo",
+        "excerpt": "El distrito de Guro, en Seúl, informó que la remodelación de Garibong 2, en torno al 87-177 de Garibong-dong, avanzará con una asamblea a las 17:00 del 9 de mayo.",
+        "body": "El distrito de Guro, en Seúl, informó que el proyecto de remodelación de la zona Garibong 2, situada alrededor del 87-177 de Garibong-dong, comenzará a avanzar en firme con una asamblea general fundacional de la asociación a las 17:00 del 9 de mayo. Según el distrito, el área forma parte de los sitios sujetos a proyecto de mejora urbana en Garibong-dong, y la asamblea es un procedimiento importante para constituir el órgano que impulsará la remodelación. Con esta reunión, Garibong 2 sentará la base para la creación de la asociación y los trámites posteriores. Si el proyecto avanza según lo previsto, podría influir en el debate sobre la mejora del entorno residencial local. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Guro avança com a reurbanização de Garibong 2 e assembleia em 9 de maio",
+        "excerpt": "O distrito de Guro, em Seul, informou que a reurbanização de Garibong 2, na área de Garibong-dong 87-177, avançará com assembleia fundadora às 17h de 9 de maio.",
+        "body": "O distrito de Guro, em Seul, informou que o projeto de reurbanização da área Garibong 2, localizada em torno de Garibong-dong 87-177, passará a avançar de forma mais concreta com a assembleia geral fundadora da associação, marcada para as 17h de 9 de maio. Segundo o distrito, a região é uma área-alvo de melhoria urbana em Garibong-dong, e a assembleia é uma etapa importante para formar o órgão responsável pela condução do projeto. Com a reunião, Garibong 2 deverá preparar a base para a criação da associação e os procedimentos seguintes de reurbanização. Se o projeto seguir o cronograma previsto, poderá influenciar as discussões sobre melhoria do ambiente residencial local. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Guro treibt Sanierung von Garibong 2 voran, Gründungsversammlung am 9. Mai",
+        "excerpt": "Der Bezirk Guro in Seoul teilte mit, dass die Sanierung von Garibong 2 rund um Garibong-dong 87-177 mit einer Gründungsversammlung am 9. Mai um 17 Uhr voranschreitet.",
+        "body": "Der Bezirk Guro in Seoul teilte mit, dass das Sanierungsprojekt für das Gebiet Garibong 2 rund um Garibong-dong 87-177 mit einer Gründungsversammlung der Vereinigung am 9. Mai um 17 Uhr in eine konkretere Phase eintritt. Nach Angaben des Bezirks gehört das Gebiet zu den vorgesehenen Stadterneuerungsflächen in Garibong-dong. Die Gründungsversammlung ist ein wichtiger Schritt, um den Träger des Projekts zu bilden. Mit der Versammlung schafft Garibong 2 die Grundlage für die spätere Gründung der Vereinigung und die folgenden Sanierungsverfahren. Wenn das Projekt wie geplant verläuft, dürfte es auch die Diskussion über die Verbesserung des Wohnumfelds in Garibong-dong beeinflussen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Guro relance le réaménagement de Garibong 2 avec une assemblée le 9 mai",
+        "excerpt": "L’arrondissement de Guro à Séoul a annoncé que le réaménagement de Garibong 2, autour du 87-177 Garibong-dong, avancera avec une assemblée fondatrice le 9 mai à 17 h.",
+        "body": "L’arrondissement de Guro à Séoul a annoncé que le projet de réaménagement du secteur Garibong 2, situé autour du 87-177 Garibong-dong, entrera dans une phase plus concrète avec l’assemblée générale fondatrice de l’association prévue le 9 mai à 17 h. Selon l’arrondissement, ce secteur fait partie des zones visées par un projet d’amélioration urbaine à Garibong-dong, et l’assemblée constitue une étape importante pour former l’entité chargée de porter le projet. Cette réunion doit permettre à Garibong 2 de préparer la création de l’association et les procédures de réaménagement suivantes. Si le calendrier est respecté, le projet pourrait influencer les discussions sur l’amélioration du cadre résidentiel local. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "غورو تدفع إعادة تطوير غاريبونغ 2 باجتماع تأسيسي في 9 مايو",
+        "excerpt": "قالت منطقة غورو في سيول إن إعادة تطوير غاريبونغ 2 حول 87-177 غاريبونغ-دونغ ستتقدم مع اجتماع تأسيسي للجمعية في الساعة 5 مساء 9 مايو.",
+        "body": "أعلنت منطقة غورو في سيول أن مشروع إعادة تطوير منطقة غاريبونغ 2، الواقعة حول 87-177 غاريبونغ-دونغ، سيتقدم بصورة أكثر جدية مع عقد الجمعية العمومية التأسيسية للاتحاد في الساعة الخامسة مساء 9 مايو. وبحسب ما أفادت به المنطقة، فإن الموقع يعد من مناطق مشاريع التحسين في غاريبونغ-دونغ، ويشكل الاجتماع التأسيسي خطوة مهمة لتكوين الجهة التي ستقود مشروع إعادة التطوير. ومن خلال هذا الاجتماع، ستضع غاريبونغ 2 أساسا للمضي في تأسيس الاتحاد والإجراءات اللاحقة لمشروع التحسين. وإذا سار المشروع وفق الجدول المتوقع، فقد يؤثر في النقاشات المتعلقة بتحسين البيئة السكنية في غاريبونغ-دونغ. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "गुरो में गारिबोंग 2 पुनर्विकास आगे बढ़ा, 9 मई को संघ स्थापना बैठक",
+        "excerpt": "सियोल के गुरो जिला ने कहा कि गारिबोंग-दोंग 87-177 के आसपास गारिबोंग 2 क्षेत्र का पुनर्विकास 9 मई शाम 5 बजे संघ स्थापना बैठक के साथ आगे बढ़ेगा।",
+        "body": "सियोल के गुरो जिला ने बताया कि गारिबोंग-दोंग 87-177 के आसपास स्थित ‘गारिबोंग 2 क्षेत्र’ का पुनर्विकास 9 मई शाम 5 बजे होने वाली संघ स्थापना आम बैठक के साथ औपचारिक रूप से आगे बढ़ेगा। जिला प्रशासन के अनुसार, यह क्षेत्र गारिबोंग-दोंग में शहरी सुधार परियोजना का लक्षित इलाका है, और संघ स्थापना बैठक परियोजना को आगे बढ़ाने वाली संस्था के गठन की महत्वपूर्ण प्रक्रिया है। इस बैठक के बाद गारिबोंग 2 क्षेत्र संघ गठन और आगे की पुनर्विकास प्रक्रियाओं के लिए आधार तैयार करेगा। यदि परियोजना तय कार्यक्रम के अनुसार आगे बढ़ती है, तो यह गारिबोंग-दोंग के आवासीय वातावरण सुधार पर चर्चा को भी प्रभावित कर सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Guro Percepat Redevelopment Garibong 2, Rapat Pendirian Digelar 9 Mei",
+        "excerpt": "Distrik Guro, Seoul, menyatakan redevelopment Garibong 2 di sekitar Garibong-dong 87-177 akan bergerak maju lewat rapat pendirian asosiasi pukul 17.00 pada 9 Mei.",
+        "body": "Distrik Guro di Seoul menyatakan proyek redevelopment kawasan Garibong 2 di sekitar Garibong-dong 87-177 akan mulai bergerak lebih konkret melalui rapat umum pendirian asosiasi pada pukul 17.00, 9 Mei. Menurut distrik tersebut, kawasan ini merupakan lokasi sasaran proyek penataan di Garibong-dong, dan rapat pendirian asosiasi menjadi prosedur penting untuk membentuk badan pelaksana proyek redevelopment. Dengan digelarnya rapat ini, Garibong 2 akan menyiapkan dasar bagi pembentukan asosiasi dan tahapan penataan berikutnya. Jika proyek berjalan sesuai rencana, hal itu diperkirakan turut memengaruhi pembahasan mengenai perbaikan lingkungan hunian di Garibong-dong. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1f17a58fa340",
+    "slug": "李대통령-캐나다-총리-통화호르무즈-항행-자유공급망-논의-273861",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T15:01:24.543Z",
+    "updatedAt": "2026-05-09T15:01:24.543Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508093800001",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508093800001",
+    "titleFingerprint": "b52c0011981cd21b99feb9cf1b1b1f084e20a551",
+    "dedupKeys": [
+      "1f17a58fa34015fe6288907e96d7651432bd8d16",
+      "b52c0011981cd21b99feb9cf1b1b1f084e20a551",
+      "bc890109edce4eff399b6486f655be70d4f9d266"
+    ],
+    "imageUrl": "/images/articles/1f17a58fa340.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이재명 대통령·캐나다 총리 통화, 호르무즈 항행 자유와 공급망 협력 논의",
+        "excerpt": "이재명 대통령은 8일 마크 카니 캐나다 총리와 통화하고 호르무즈 해협 항행 자유와 공급망 등 양국 협력 강화 방안을 논의했다.",
+        "body": "이재명 대통령은 8일 마크 카니 캐나다 총리와 전화 통화를 하고 한국과 캐나다의 협력 강화 방안을 논의했다. 이번 통화에서는 호르무즈 해협의 항행 자유와 공급망 관련 사안이 주요 의제로 다뤄졌다. 양측은 양국 간 협력 필요성을 확인하며 관련 현안에 대해 의견을 나눈 것으로 전해졌다. 호르무즈 해협은 국제 에너지 운송과 해상 교통에서 중요한 통로로 언급되는 지역이며, 공급망 안정 역시 국가 간 경제 협력의 핵심 의제다. 이번 통화는 한국과 캐나다가 주요 국제 현안과 경제 협력 분야에서 소통을 이어가는 흐름으로 해석된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "President Lee, Canada PM Discuss Hormuz Navigation Freedom and Supply Chains",
+        "excerpt": "President Lee Jae Myung spoke by phone with Canadian Prime Minister Mark Carney on the 8th to discuss ways to strengthen cooperation, including Hormuz navigation freedom and supply chains.",
+        "body": "President Lee Jae Myung held a phone call on the 8th with Canadian Prime Minister Mark Carney and discussed ways to strengthen cooperation between South Korea and Canada. The call focused on freedom of navigation in the Strait of Hormuz and supply chain-related issues. The two sides reportedly confirmed the need for bilateral cooperation and exchanged views on relevant matters. The Strait of Hormuz is cited as an important route for international energy transport and maritime traffic, while supply chain stability is also a key agenda item in economic cooperation between countries. The call indicates continued communication between South Korea and Canada on major international issues and economic cooperation. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "李在明大統領とカナダ首相が電話会談、ホルムズ航行自由と供給網を協議",
+        "excerpt": "李在明大統領は8日、マーク・カーニー・カナダ首相と電話会談し、ホルムズ海峡の航行自由や供給網など両国協力の強化策を協議した。",
+        "body": "李在明大統領は8日、マーク・カーニー・カナダ首相と電話会談し、韓国とカナダの協力強化策について協議した。今回の通話では、ホルムズ海峡の航行の自由と供給網に関する問題が主な議題として扱われた。双方は両国間協力の必要性を確認し、関連する懸案について意見を交わしたと伝えられている。ホルムズ海峡は国際的なエネルギー輸送と海上交通で重要な通路として言及される地域であり、供給網の安定も国家間の経済協力における核心的な議題だ。今回の通話は、韓国とカナダが主要な国際懸案と経済協力分野で意思疎通を続ける流れと受け止められる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "李在明总统同加拿大总理通话，讨论霍尔木兹航行自由与供应链合作",
+        "excerpt": "李在明总统8日同加拿大总理马克·卡尼通电话，讨论包括霍尔木兹海峡航行自由和供应链在内的两国合作强化方案。",
+        "body": "李在明总统8日同加拿大总理马克·卡尼通电话，讨论加强韩国与加拿大合作的方案。此次通话中，霍尔木兹海峡航行自由和供应链相关议题被作为主要内容进行讨论。据悉，双方确认了两国合作的必要性，并就相关当前问题交换了意见。霍尔木兹海峡是国际能源运输和海上交通中经常被提及的重要通道，供应链稳定也是国家间经济合作的核心议题。此次通话可被视为韩国和加拿大在主要国际问题及经济合作领域继续保持沟通的一环。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Lee y el primer ministro de Canadá tratan libertad de navegación en Ormuz y cadenas de suministro",
+        "excerpt": "El presidente Lee Jae Myung habló el día 8 con el primer ministro canadiense Mark Carney para abordar la cooperación bilateral, incluida la libertad de navegación en Ormuz y las cadenas de suministro.",
+        "body": "El presidente Lee Jae Myung mantuvo el día 8 una llamada telefónica con el primer ministro de Canadá, Mark Carney, y conversó sobre formas de fortalecer la cooperación entre Corea del Sur y Canadá. En la llamada se trataron como temas principales la libertad de navegación en el estrecho de Ormuz y asuntos relacionados con las cadenas de suministro. Según se informó, ambas partes confirmaron la necesidad de cooperación bilateral e intercambiaron opiniones sobre cuestiones pertinentes. El estrecho de Ormuz es mencionado como una ruta importante para el transporte internacional de energía y el tráfico marítimo, mientras que la estabilidad de las cadenas de suministro también es un tema central de la cooperación económica entre países. La llamada muestra la continuidad del diálogo entre Corea del Sur y Canadá sobre asuntos internacionales clave y cooperación económica. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Lee e premiê do Canadá discutem liberdade de navegação em Ormuz e cadeias de suprimento",
+        "excerpt": "O presidente Lee Jae Myung falou no dia 8 com o primeiro-ministro canadense Mark Carney sobre cooperação bilateral, incluindo liberdade de navegação em Ormuz e cadeias de suprimento.",
+        "body": "O presidente Lee Jae Myung realizou no dia 8 uma chamada telefônica com o primeiro-ministro do Canadá, Mark Carney, e discutiu formas de fortalecer a cooperação entre Coreia do Sul e Canadá. Na conversa, a liberdade de navegação no Estreito de Ormuz e questões ligadas às cadeias de suprimento foram tratadas como principais temas. Segundo as informações, os dois lados confirmaram a necessidade de cooperação bilateral e trocaram opiniões sobre assuntos relacionados. O Estreito de Ormuz é citado como uma rota importante para o transporte internacional de energia e o tráfego marítimo, enquanto a estabilidade das cadeias de suprimento também é uma agenda central da cooperação econômica entre países. A chamada indica a continuidade da comunicação entre Coreia do Sul e Canadá sobre grandes temas internacionais e cooperação econômica. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Lee und Kanadas Premier beraten über freie Schifffahrt in Hormus und Lieferketten",
+        "excerpt": "Präsident Lee Jae Myung telefonierte am 8. mit Kanadas Premier Mark Carney und sprach über stärkere bilaterale Zusammenarbeit, darunter freie Schifffahrt in Hormus und Lieferketten.",
+        "body": "Präsident Lee Jae Myung führte am 8. ein Telefongespräch mit dem kanadischen Premierminister Mark Carney und erörterte Wege zur Stärkung der Zusammenarbeit zwischen Südkorea und Kanada. Im Mittelpunkt des Gesprächs standen die Freiheit der Schifffahrt in der Straße von Hormus sowie Fragen der Lieferketten. Beide Seiten bestätigten Berichten zufolge die Notwendigkeit bilateraler Kooperation und tauschten Ansichten zu den betreffenden Themen aus. Die Straße von Hormus gilt als wichtiger Korridor für den internationalen Energietransport und den Seeverkehr, während die Stabilität von Lieferketten ebenfalls ein zentrales Thema wirtschaftlicher Zusammenarbeit zwischen Staaten ist. Das Telefonat zeigt, dass Südkorea und Kanada den Austausch über wichtige internationale Fragen und wirtschaftliche Kooperation fortsetzen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Lee et le premier ministre canadien discutent navigation à Ormuz et chaînes d’approvisionnement",
+        "excerpt": "Le président Lee Jae Myung s’est entretenu par téléphone le 8 avec le premier ministre canadien Mark Carney au sujet de la coopération bilatérale, dont la liberté de navigation à Ormuz et les chaînes d’approvisionnement.",
+        "body": "Le président Lee Jae Myung s’est entretenu par téléphone le 8 avec le premier ministre canadien Mark Carney et a discuté des moyens de renforcer la coopération entre la Corée du Sud et le Canada. La liberté de navigation dans le détroit d’Ormuz et les questions liées aux chaînes d’approvisionnement ont été les principaux sujets abordés. Les deux parties auraient confirmé la nécessité d’une coopération bilatérale et échangé leurs vues sur les dossiers concernés. Le détroit d’Ormuz est cité comme une voie importante pour le transport international d’énergie et le trafic maritime, tandis que la stabilité des chaînes d’approvisionnement constitue aussi un thème central de la coopération économique entre pays. Cet appel s’inscrit dans la poursuite du dialogue entre la Corée du Sud et le Canada sur les grands enjeux internationaux et la coopération économique. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "لي ورئيس وزراء كندا يبحثان حرية الملاحة في هرمز وسلاسل الإمداد",
+        "excerpt": "أجرى الرئيس لي جاي ميونغ في الثامن اتصالا هاتفيا مع رئيس وزراء كندا مارك كارني لبحث تعزيز التعاون الثنائي، بما في ذلك حرية الملاحة في هرمز وسلاسل الإمداد.",
+        "body": "أجرى الرئيس لي جاي ميونغ في الثامن اتصالا هاتفيا مع رئيس وزراء كندا مارك كارني، وبحث سبل تعزيز التعاون بين كوريا الجنوبية وكندا. وتركز الاتصال على حرية الملاحة في مضيق هرمز والقضايا المرتبطة بسلاسل الإمداد. وذكرت المعلومات أن الجانبين أكدا الحاجة إلى التعاون الثنائي وتبادلا الآراء بشأن القضايا ذات الصلة. ويشار إلى مضيق هرمز بوصفه ممرا مهما لنقل الطاقة الدولي وحركة الملاحة البحرية، كما يعد استقرار سلاسل الإمداد من القضايا الأساسية في التعاون الاقتصادي بين الدول. ويعكس هذا الاتصال استمرار التواصل بين كوريا الجنوبية وكندا بشأن القضايا الدولية الرئيسية ومجالات التعاون الاقتصادي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ली और कनाडा के प्रधानमंत्री ने होर्मुज में नौवहन स्वतंत्रता व आपूर्ति श्रृंखला पर चर्चा की",
+        "excerpt": "राष्ट्रपति ली जे म्युंग ने 8 तारीख को कनाडा के प्रधानमंत्री मार्क कार्नी से फोन पर बात की और होर्मुज जलडमरूमध्य में नौवहन स्वतंत्रता व आपूर्ति श्रृंखला सहित सहयोग मजबूत करने पर चर्चा की।",
+        "body": "राष्ट्रपति ली जे म्युंग ने 8 तारीख को कनाडा के प्रधानमंत्री मार्क कार्नी से फोन पर बातचीत की और दक्षिण कोरिया तथा कनाडा के बीच सहयोग मजबूत करने के उपायों पर चर्चा की। इस बातचीत में होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता और आपूर्ति श्रृंखला से जुड़े मुद्दे प्रमुख विषय रहे। बताया गया कि दोनों पक्षों ने द्विपक्षीय सहयोग की आवश्यकता की पुष्टि की और संबंधित मामलों पर विचार साझा किए। होर्मुज जलडमरूमध्य को अंतरराष्ट्रीय ऊर्जा परिवहन और समुद्री यातायात के लिए एक महत्वपूर्ण मार्ग के रूप में देखा जाता है, जबकि आपूर्ति श्रृंखला की स्थिरता भी देशों के बीच आर्थिक सहयोग का मुख्य मुद्दा है। यह फोन कॉल प्रमुख अंतरराष्ट्रीय मुद्दों और आर्थिक सहयोग पर दक्षिण कोरिया और कनाडा के निरंतर संवाद को दर्शाता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Lee dan PM Kanada Bahas Kebebasan Navigasi Hormuz serta Rantai Pasok",
+        "excerpt": "Presiden Lee Jae Myung berbicara melalui telepon pada tanggal 8 dengan Perdana Menteri Kanada Mark Carney untuk membahas penguatan kerja sama, termasuk kebebasan navigasi Hormuz dan rantai pasok.",
+        "body": "Presiden Lee Jae Myung melakukan pembicaraan telepon pada tanggal 8 dengan Perdana Menteri Kanada Mark Carney dan membahas cara memperkuat kerja sama antara Korea Selatan dan Kanada. Dalam panggilan tersebut, kebebasan navigasi di Selat Hormuz dan isu terkait rantai pasok menjadi agenda utama. Kedua pihak dilaporkan menegaskan perlunya kerja sama bilateral dan bertukar pandangan mengenai isu terkait. Selat Hormuz disebut sebagai jalur penting bagi transportasi energi internasional dan lalu lintas laut, sementara stabilitas rantai pasok juga menjadi agenda utama dalam kerja sama ekonomi antarnegara. Panggilan ini menunjukkan berlanjutnya komunikasi antara Korea Selatan dan Kanada mengenai isu internasional utama dan kerja sama ekonomi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "75da41c432d7",
     "slug": "협력업체-마진-0원으로-일방인하교촌에-벌금-5천만원-구형-809587",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Hari Terakhir Sebelum Pajak Capital Gain Lebih Berat, Warga Serbu Kantor Distrik",
         "excerpt": "Pada 9 Mei, sehari sebelum pajak capital gain lebih berat bagi pemilik banyak rumah berlaku, 25 kantor distrik Seoul dan 12 kantor kota serta distrik di Gyeonggi menerima permohonan izin transaksi tanah pada Sabtu.",
         "body": "Pada 9 Mei, meski hari Sabtu, seluruh 25 kantor distrik di Seoul dibuka untuk menerima permohonan izin transaksi tanah, sehari sebelum pajak capital gain yang lebih berat bagi pemilik beberapa rumah mulai berlaku. Di Provinsi Gyeonggi, 12 kantor kota dan distrik juga membuka loket penerimaan. Karena aturan tersebut berlaku mulai 10 Mei, warga yang ingin menyelesaikan permohonan sebelum penerapan datang sejak pagi, memicu fenomena seperti “open run”. Lonjakan ini mencerminkan permintaan administrasi yang terkonsentrasi pada hari terakhir sebelum perubahan pajak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5145141d5a59",
-    "slug": "연합뉴스-이-시각-헤드라인---1030-379187",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T03:08:35.407Z",
-    "updatedAt": "2026-05-09T03:08:35.407Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
-    "titleFingerprint": "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
-    "dedupKeys": [
-      "5145141d5a599ae27bee2877ba653f288dcf2c11",
-      "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
-      "2006ec74eacea2cec595227b10ba824a74ce429c"
-    ],
-    "imageUrl": "/images/articles/5145141d5a59.jpg",
-    "i18n": {
-      "ko": {
-        "title": "연합뉴스 10시30분 헤드라인 공개, 주요 뉴스 흐름 한눈에 확인",
-        "excerpt": "연합뉴스는 10시30분 기준 ‘이 시각 헤드라인’을 통해 해당 시점의 주요 뉴스 목록을 독자에게 알렸다. 원문은 제목과 요약이 동일하게 제공됐다.",
-        "body": "연합뉴스는 10시30분 기준 ‘[연합뉴스 이 시각 헤드라인] - 10:30’을 공개했다. 원문에서 확인되는 핵심 정보는 제목과 요약, 출처이며, 제목과 요약은 모두 같은 문구로 제시됐다. 해당 콘텐츠는 특정 사건의 세부 내용이나 수치, 관련 인물, 장소를 추가로 설명하지 않고 이 시각 주요 뉴스 헤드라인 형식으로 제공된 것으로 확인된다. 따라서 본 기사는 원문에 명시된 범위 안에서 10시30분 기준 헤드라인 공개 사실만 전달한다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Yonhap 10:30 Headlines Released, Key News Snapshot Now Available",
-        "excerpt": "Yonhap News released its “Headlines at This Hour” item for 10:30, informing readers of the main news flow at that time. The original title and summary are identical.",
-        "body": "Yonhap News released “[Yonhap News Headlines at This Hour] - 10:30” as of 10:30. The core information available in the original text is the title, summary and source, with the title and summary presented in the same wording. The item does not add details about a specific event, figures, people or locations, and is confirmed as a headline-format update for major news at that time. This article therefore reports only the fact that the 10:30 headline item was published within the scope stated in the source. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "聯合ニュース10時30分ヘッドライン公開、主要ニュースを確認",
-        "excerpt": "聯合ニュースは10時30分基準の「この時刻のヘッドライン」を通じ、その時点の主要ニュース項目を読者に知らせた。原文の題名と要約は同一だ。",
-        "body": "聯合ニュースは10時30分基準で「[聯合ニュース この時刻のヘッドライン] - 10:30」を公開した。原文で確認できる主な情報は題名、要約、出典であり、題名と要約はいずれも同じ文言で示されている。特定の事件の詳細、数値、関係者、場所に関する追加説明はなく、この時刻の主要ニュースを示すヘッドライン形式の内容として確認される。したがって本記事は、原文に明示された範囲内で10時30分基準のヘッドライン公開事実のみを伝える。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩联社10时30分头条发布，可查看当时主要新闻动态",
-        "excerpt": "韩联社发布10时30分“此刻头条”，向读者告知该时间点的主要新闻条目。原文标题与摘要使用相同表述。",
-        "body": "韩联社于10时30分发布“[韩联社此刻头条] - 10:30”。原文可确认的核心信息包括标题、摘要和来源，其中标题与摘要均以相同措辞呈现。该内容未补充说明具体事件细节、数据、相关人物或地点，可确认是以此刻主要新闻头条形式提供的更新。因此，本文仅在原文明确范围内，传达10时30分基准头条内容发布这一事实。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Yonhap publica titulares de las 10:30 con el panorama informativo clave",
-        "excerpt": "Yonhap News publicó su sección “Titulares de esta hora” a las 10:30 para informar a los lectores sobre las principales noticias de ese momento. Título y resumen coinciden.",
-        "body": "Yonhap News publicó “[Titulares de Yonhap News de esta hora] - 10:30” con referencia a las 10:30. La información central visible en el original es el título, el resumen y la fuente, y el título y el resumen aparecen con la misma redacción. El contenido no añade detalles sobre un hecho concreto, cifras, personas o lugares, y se presenta como una actualización en formato de titulares de las principales noticias de ese momento. Por ello, este artículo informa solo del hecho de que se publicó el titular de las 10:30 dentro del alcance indicado por la fuente. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Yonhap divulga manchetes das 10h30 com resumo do noticiário principal",
-        "excerpt": "A Yonhap News publicou “Manchetes desta hora” às 10h30 para informar os leitores sobre os principais destaques daquele momento. O título e o resumo originais são iguais.",
-        "body": "A Yonhap News divulgou “[Manchetes da Yonhap News desta hora] - 10:30” com referência às 10h30. As informações centrais disponíveis no texto original são o título, o resumo e a fonte, sendo que título e resumo aparecem com a mesma redação. O item não acrescenta detalhes sobre um evento específico, números, pessoas envolvidas ou locais, e é apresentado como uma atualização em formato de manchetes das principais notícias daquele momento. Assim, este artigo relata apenas o fato da publicação das manchetes das 10h30 dentro do escopo informado pela fonte. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Yonhap veröffentlicht 10:30-Uhr-Schlagzeilen mit aktuellem Nachrichtenüberblick",
-        "excerpt": "Yonhap News veröffentlichte um 10:30 Uhr die Rubrik „Schlagzeilen zu dieser Stunde“ und informierte über die wichtigsten Nachrichten dieses Zeitpunkts. Titel und Kurztext sind identisch.",
-        "body": "Yonhap News veröffentlichte um 10:30 Uhr „[Yonhap News Schlagzeilen zu dieser Stunde] - 10:30“. Die im Original erkennbaren Kerninformationen sind Titel, Zusammenfassung und Quelle; Titel und Zusammenfassung werden mit derselben Formulierung angegeben. Der Beitrag enthält keine zusätzlichen Details zu einem konkreten Ereignis, Zahlen, beteiligten Personen oder Orten und ist als Schlagzeilenformat zu den wichtigsten Nachrichten dieses Zeitpunkts einzuordnen. Daher berichtet dieser Artikel nur über die Veröffentlichung der 10:30-Uhr-Schlagzeile im ausdrücklich genannten Umfang der Quelle. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Yonhap publie ses titres de 10h30, aperçu des principales nouvelles",
-        "excerpt": "Yonhap News a publié ses “titres de cette heure” à 10h30 afin d’informer les lecteurs des principales nouvelles du moment. Le titre et le résumé originaux sont identiques.",
-        "body": "Yonhap News a publié à 10h30 “[Titres de Yonhap News à cette heure] - 10:30”. Les informations essentielles visibles dans le texte original sont le titre, le résumé et la source, le titre et le résumé étant présentés avec la même formulation. Le contenu n’ajoute pas de détails sur un événement précis, des chiffres, des personnes ou des lieux, et se présente comme une mise à jour sous forme de titres des principales nouvelles du moment. Cet article rapporte donc uniquement la publication du titre de 10h30 dans le périmètre explicitement indiqué par la source. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "يونهاب تنشر عناوين الساعة 10:30 لعرض أبرز الأخبار الحالية",
-        "excerpt": "نشرت وكالة يونهاب بند “عناوين هذه الساعة” عند 10:30 لإبلاغ القراء بأبرز الأخبار في ذلك التوقيت. وجاء العنوان والملخص في النص الأصلي بالصياغة نفسها.",
-        "body": "نشرت وكالة يونهاب عند الساعة 10:30 مادة بعنوان “[عناوين يونهاب في هذه الساعة] - 10:30”. وتقتصر المعلومات الأساسية الواردة في النص الأصلي على العنوان والملخص والمصدر، مع تقديم العنوان والملخص بالصياغة نفسها. ولا يضيف المحتوى تفاصيل عن حدث محدد أو أرقام أو أشخاص أو أماكن، بل يظهر كتحديث بصيغة عناوين لأبرز الأخبار في ذلك التوقيت. لذلك ينقل هذا المقال فقط واقعة نشر عناوين الساعة 10:30 ضمن الحدود المذكورة صراحة في المصدر. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "योनहाप ने 10:30 बजे की हेडलाइन जारी की, प्रमुख खबरों की झलक",
-        "excerpt": "योनहाप न्यूज ने 10:30 बजे “इस समय की हेडलाइन” जारी कर पाठकों को उस समय की प्रमुख खबरों की जानकारी दी। मूल शीर्षक और सारांश समान हैं।",
-        "body": "योनहाप न्यूज ने 10:30 बजे “[योनहाप न्यूज इस समय की हेडलाइन] - 10:30” जारी किया। मूल पाठ में उपलब्ध मुख्य जानकारी शीर्षक, सारांश और स्रोत है, और शीर्षक तथा सारांश एक ही शब्दों में दिए गए हैं। सामग्री में किसी विशेष घटना, आंकड़े, संबंधित व्यक्ति या स्थान का अतिरिक्त विवरण नहीं दिया गया है और यह उस समय की प्रमुख खबरों के हेडलाइन प्रारूप के रूप में प्रस्तुत है। इसलिए यह लेख स्रोत में स्पष्ट रूप से दी गई सीमा के भीतर केवल 10:30 बजे हेडलाइन प्रकाशित होने की बात बताता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Yonhap Rilis Headline 10:30, Ringkasan Berita Utama Saat Itu",
-        "excerpt": "Yonhap News merilis “Headline Saat Ini” pada pukul 10:30 untuk memberi tahu pembaca tentang arus berita utama pada waktu tersebut. Judul dan ringkasan asli sama.",
-        "body": "Yonhap News merilis “[Headline Yonhap News Saat Ini] - 10:30” pada pukul 10:30. Informasi inti yang dapat dipastikan dari teks asli adalah judul, ringkasan, dan sumber, dengan judul serta ringkasan disajikan dalam redaksi yang sama. Konten tersebut tidak menambahkan rincian tentang peristiwa tertentu, angka, tokoh, atau lokasi, dan terkonfirmasi sebagai pembaruan berbentuk headline untuk berita utama pada saat itu. Karena itu, artikel ini hanya menyampaikan fakta bahwa headline pukul 10:30 dipublikasikan sesuai batas informasi yang tertulis dalam sumber. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9e0f8fca0cce",
-    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-917258",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T03:07:49.504Z",
-    "updatedAt": "2026-05-09T03:07:49.504Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
-    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-    "dedupKeys": [
-      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
-      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
-      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
-    ],
-    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
-    "i18n": {
-      "ko": {
-        "title": "울진 택시요금 19일부터 인상, 기본요금 4천원에서 4천500원으로",
-        "excerpt": "경북 울진군은 9일 택시요금 조정 방침을 밝히고 오는 19일부터 기본요금을 4천원에서 4천500원으로 인상한다고 밝혔다.",
-        "body": "경북 울진군은 오는 19일부터 택시요금을 인상한다고 9일 밝혔다. 이번 조정에 따라 울진 지역 택시 기본요금은 기존 4천원에서 4천500원으로 오른다. 인상 폭은 500원이며, 적용 시점은 19일부터다. 울진군이 택시요금 인상 방침을 밝히면서 지역 택시 이용자는 시행일 이후 변경된 기본요금을 적용받게 된다. 이번 내용은 경북 울진군 발표를 바탕으로 한 연합뉴스 보도이며, 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "Uljin Taxi Fares to Rise From 19th, Base Fare Set at 4,500 Won",
-        "excerpt": "Uljin County in North Gyeongsang said on the 9th that taxi fares will rise from the 19th, with the base fare adjusted from 4,000 won to 4,500 won.",
-        "body": "Uljin County in North Gyeongsang Province said on the 9th that it will raise taxi fares starting on the 19th. Under the adjustment, the base taxi fare in Uljin will increase from 4,000 won to 4,500 won. The rise amounts to 500 won, and the new fare will take effect from the 19th. As Uljin County announced the fare increase plan, taxi users in the area will be charged the revised base fare after the implementation date. The information is based on a Yonhap News report citing Uljin County, with the source listed as yna.co.kr."
-      },
-      "ja": {
-        "title": "蔚珍のタクシー料金、19日から引き上げ 基本料金4,500ウォンに",
-        "excerpt": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げ、基本料金を4,000ウォンから4,500ウォンに調整すると明らかにした。",
-        "body": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げると発表した。今回の調整により、蔚珍地域のタクシー基本料金は従来の4,000ウォンから4,500ウォンに上がる。引き上げ幅は500ウォンで、適用開始日は19日からとなる。蔚珍郡がタクシー料金の引き上げ方針を示したことで、地域のタクシー利用者は施行日以降、変更後の基本料金の適用を受ける。内容は蔚珍郡の発表を基にした聯合ニュース報道で、出典はyna.co.kr。"
-      },
-      "zh": {
-        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
-        "excerpt": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费，起步价由4000韩元调整为4500韩元。",
-        "body": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费用。根据此次调整，蔚珍地区出租车起步价将由现行4000韩元提高至4500韩元。上调幅度为500韩元，适用时间为19日起。随着蔚珍郡公布出租车费上调方针，当地出租车乘客将在实施日后适用变更后的起步价。本内容基于韩联社援引蔚珍郡发布的报道，来源为yna.co.kr。"
-      },
-      "es": {
-        "title": "Uljin subirá la tarifa de taxi desde el día 19: bajada inicial a 4.500 wones",
-        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que desde el 19 elevará la tarifa base de taxi de 4.000 a 4.500 wones.",
-        "body": "El condado de Uljin, en la provincia de Gyeongsang del Norte, anunció el día 9 que aumentará las tarifas de taxi a partir del día 19. Con este ajuste, la tarifa base de los taxis en Uljin pasará de 4.000 wones a 4.500 wones. El incremento será de 500 wones y se aplicará desde el día 19. Tras el anuncio del condado, los usuarios de taxi de la zona pagarán la tarifa base modificada una vez entre en vigor. La información se basa en un reporte de Yonhap News que cita al condado de Uljin; la fuente es yna.co.kr."
-      },
-      "pt": {
-        "title": "Uljin aumenta tarifa de táxi no dia 19, com bandeirada a 4.500 won",
-        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará a tarifa básica de táxi de 4.000 para 4.500 won a partir do dia 19.",
-        "body": "O condado de Uljin, na província de Gyeongsang do Norte, informou no dia 9 que aumentará as tarifas de táxi a partir do dia 19. Com o ajuste, a tarifa básica dos táxis em Uljin passará de 4.000 won para 4.500 won. O aumento é de 500 won, com aplicação prevista a partir do dia 19. Com o anúncio da mudança, usuários de táxi na região passarão a pagar a nova tarifa básica após a data de entrada em vigor. A informação se baseia em reportagem da Yonhap News citando o condado de Uljin; a fonte é yna.co.kr."
-      },
-      "de": {
-        "title": "Uljin erhöht Taxitarife ab dem 19.: Grundpreis steigt auf 4.500 Won",
-        "excerpt": "Der Landkreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen und der Grundpreis von 4.000 auf 4.500 Won angepasst wird.",
-        "body": "Der Landkreis Uljin in der Provinz Nord-Gyeongsang gab am 9. bekannt, dass die Taxitarife ab dem 19. erhöht werden. Durch die Anpassung steigt der Grundpreis für Taxis in Uljin von bisher 4.000 Won auf 4.500 Won. Die Erhöhung beträgt 500 Won und gilt ab dem 19. Nach der Ankündigung des Landkreises wird für Taxinutzer in der Region ab dem Inkrafttreten der geänderte Grundpreis berechnet. Die Angaben beruhen auf einem Bericht von Yonhap News unter Berufung auf den Landkreis Uljin; Quelle ist yna.co.kr."
-      },
-      "fr": {
-        "title": "Uljin relève ses tarifs de taxi dès le 19, prix de base à 4 500 wons",
-        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 que les tarifs de taxi augmenteront dès le 19, avec un prix de base porté de 4 000 à 4 500 wons.",
-        "body": "Le comté d’Uljin, dans la province du Gyeongsang du Nord, a annoncé le 9 qu’il augmentera les tarifs de taxi à partir du 19. Avec cet ajustement, le prix de base des taxis à Uljin passera de 4 000 wons à 4 500 wons. La hausse est de 500 wons et s’appliquera à compter du 19. Après l’annonce de cette mesure, les usagers des taxis de la région se verront appliquer le nouveau prix de base après la date d’entrée en vigueur. Ces informations proviennent d’un article de Yonhap News citant le comté d’Uljin; source: yna.co.kr."
-      },
-      "ar": {
-        "title": "أولجين ترفع أجرة التاكسي من 19 الجاري والتعرفة الأساسية إلى 4,500 وون",
-        "excerpt": "أعلنت مقاطعة أولجين في شمال غيونغسانغ يوم 9 أنها سترفع أجرة سيارات الأجرة اعتبارا من يوم 19، مع تعديل التعرفة الأساسية من 4,000 إلى 4,500 وون.",
-        "body": "أعلنت مقاطعة أولجين في إقليم شمال غيونغسانغ يوم 9 أنها سترفع أجرة سيارات الأجرة اعتبارا من يوم 19. وبموجب هذا التعديل، سترتفع التعرفة الأساسية لسيارات الأجرة في أولجين من 4,000 وون إلى 4,500 وون. وتبلغ قيمة الزيادة 500 وون، على أن يبدأ تطبيقها من يوم 19. ومع إعلان المقاطعة خطة رفع الأجرة، سيخضع مستخدمو سيارات الأجرة في المنطقة للتعرفة الأساسية المعدلة بعد تاريخ التنفيذ. تستند هذه المعلومات إلى تقرير لوكالة يونهاب نقلا عن مقاطعة أولجين، والمصدر هو yna.co.kr."
-      },
-      "hi": {
-        "title": "उलजिन में 19 से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वोन होगा",
-        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 तारीख को बताया कि 19 तारीख से टैक्सी किराया बढ़ेगा और मूल किराया 4,000 वोन से 4,500 वोन किया जाएगा।",
-        "body": "उत्तर ग्योंगसांग प्रांत के उलजिन काउंटी ने 9 तारीख को घोषणा की कि 19 तारीख से टैक्सी किराया बढ़ाया जाएगा। इस समायोजन के तहत उलजिन क्षेत्र में टैक्सी का मूल किराया मौजूदा 4,000 वोन से बढ़कर 4,500 वोन हो जाएगा। वृद्धि 500 वोन की है और यह 19 तारीख से लागू होगी। उलजिन काउंटी द्वारा किराया वृद्धि की जानकारी दिए जाने के बाद क्षेत्र के टैक्सी उपयोगकर्ताओं पर लागू तिथि के बाद बदला हुआ मूल किराया लगेगा। यह जानकारी उलजिन काउंटी के हवाले से योनहाप न्यूज की रिपोर्ट पर आधारित है; स्रोत yna.co.kr है।"
-      },
-      "id": {
-        "title": "Tarif Taksi Uljin Naik Mulai 19, Tarif Dasar Jadi 4.500 Won",
-        "excerpt": "Kabupaten Uljin di Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan naik mulai tanggal 19, dengan tarif dasar disesuaikan dari 4.000 menjadi 4.500 won.",
-        "body": "Kabupaten Uljin di Provinsi Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan dinaikkan mulai tanggal 19. Melalui penyesuaian ini, tarif dasar taksi di wilayah Uljin akan naik dari 4.000 won menjadi 4.500 won. Kenaikannya sebesar 500 won dan mulai berlaku pada tanggal 19. Setelah Pemerintah Kabupaten Uljin mengumumkan rencana kenaikan tarif, pengguna taksi di wilayah tersebut akan dikenai tarif dasar yang telah berubah setelah tanggal penerapan. Informasi ini berdasarkan laporan Yonhap News yang mengutip Kabupaten Uljin; sumbernya yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9d7da430158f",
-    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-707971",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T03:06:53.317Z",
-    "updatedAt": "2026-05-09T03:06:53.317Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
-    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-    "dedupKeys": [
-      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
-      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
-      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
-    ],
-    "imageUrl": "/images/articles/9d7da430158f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전남도, 2026 지역혁신 선도기업 R&D 국비 71억 확보…중소기업 육성 탄력",
-        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성(R&D) 사업에 선정돼 국비 71억원을 확보했다고 연합뉴스가 보도했다.",
-        "body": "전남도는 중소벤처기업부가 추진하는 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다. 이번 선정은 전남 지역 기업 육성을 위한 연구개발 지원 사업과 관련된 것으로, 전남도는 국가 재원을 바탕으로 지역혁신 선도기업 육성 기반을 마련하게 됐다. 확보된 국비 규모는 71억원이다. 지역혁신선도기업육성 사업은 지역의 혁신 역량을 갖춘 기업을 지원하는 R&D 성격의 사업으로 소개됐다. 전남도는 이번 국비 확보를 통해 지역 기업 지원과 산업 경쟁력 강화에 필요한 재정 기반을 더하게 됐다. 출처는 yna.co.kr이며, 연합뉴스 형민우 기자 보도를 인용했다."
-      },
-      "en": {
-        "title": "Jeonnam Secures 7.1 Billion Won in State Funds for 2026 Regional Innovation R&D",
-        "excerpt": "South Jeolla Province was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Company Development R&D program, securing 7.1 billion won in national funding, Yonhap reported.",
-        "body": "South Jeolla Province has secured 7.1 billion won in national funding after being selected for the Ministry of SMEs and Startups’ “2026 Regional Innovation Leading Company Development (R&D)” program. The selection relates to a research and development support project aimed at fostering companies in the Jeonnam region. With the state funding, the province has gained a financial basis for nurturing regional innovation-leading firms. The confirmed amount is 7.1 billion won. The program was introduced as an R&D initiative supporting companies with regional innovation capacity. The funding is expected to strengthen the province’s fiscal foundation for local business support and industrial competitiveness. Source: yna.co.kr, citing Yonhap News reporter Hyung Min-woo."
-      },
-      "ja": {
-        "title": "全羅南道、2026年地域革新先導企業R&Dで国費71億ウォン確保",
-        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成（R&D）事業に選定され、国費71億ウォンを確保したと聯合ニュースが報じた。",
-        "body": "全羅南道は、中小ベンチャー企業部が進める「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保した。今回の選定は、全羅南道地域の企業育成に向けた研究開発支援事業に関するものだ。これにより同道は、国の財源を基に地域革新先導企業を育成するための基盤を整えることになった。確保した国費の規模は71億ウォン。地域革新先導企業育成事業は、地域の革新力を備えた企業を支援するR&D性格の事業として紹介された。今回の国費確保により、地域企業支援と産業競争力強化に必要な財政基盤が加わる。出典はyna.co.krで、聯合ニュースのヒョン・ミンウ記者の報道を引用した。"
-      },
-      "zh": {
-        "title": "全南道获2026区域创新领军企业R&D国费71亿韩元支持",
-        "excerpt": "韩联社报道称，全南道入选中小风险企业部2026年区域创新领军企业培育（R&D）项目，获得国费71亿韩元。",
-        "body": "全南道入选中小风险企业部推进的“2026年区域创新领军企业培育（R&D）”项目，获得国费71亿韩元。此次入选与支持全南地区企业培育的研发项目有关，全南道将以国家财政资金为基础，建立培育区域创新领军企业的支撑条件。此次确保的国费规模为71亿韩元。区域创新领军企业培育项目被介绍为一项R&D性质的项目，旨在支持具备区域创新能力的企业。通过此次国费 확보，全南道将为支持地区企业和增强产业竞争力补充所需财政基础。来源为yna.co.kr，引用韩联社记者Hyung Min-woo的报道。"
-      },
-      "es": {
-        "title": "Jeonnam obtiene 7.100 millones de wones para I+D de empresas líderes regionales",
-        "excerpt": "Jeonnam fue seleccionada para el programa 2026 de desarrollo de empresas líderes en innovación regional del Ministerio de Pymes y Startups y obtuvo 7.100 millones de wones, informó Yonhap.",
-        "body": "La provincia de Jeonnam fue seleccionada para el programa “Desarrollo de Empresas Líderes en Innovación Regional 2026 (I+D)” impulsado por el Ministerio de Pymes y Startups, con lo que aseguró 7.100 millones de wones en fondos estatales. La selección está vinculada a un proyecto de apoyo a la investigación y desarrollo para fomentar empresas en la región. Con estos recursos nacionales, Jeonnam contará con una base financiera para impulsar empresas líderes en innovación regional. El monto confirmado es de 7.100 millones de wones. El programa fue presentado como una iniciativa de I+D que apoya a empresas con capacidad de innovación local. La financiación añade base fiscal para el apoyo empresarial regional y la competitividad industrial. Fuente: yna.co.kr, citando a Hyung Min-woo de Yonhap."
-      },
-      "pt": {
-        "title": "Jeonnam garante 7,1 bilhões de won para P&D de empresas líderes em inovação regional",
-        "excerpt": "Jeonnam foi selecionada para o programa de 2026 de desenvolvimento de empresas líderes em inovação regional do Ministério das PMEs e Startups e garantiu 7,1 bilhões de won, informou a Yonhap.",
-        "body": "A província de Jeonnam foi selecionada para o programa “Desenvolvimento de Empresas Líderes em Inovação Regional 2026 (P&D)”, promovido pelo Ministério das PMEs e Startups, e garantiu 7,1 bilhões de won em recursos nacionais. A seleção está relacionada a um projeto de apoio à pesquisa e desenvolvimento voltado ao fomento de empresas na região. Com esses recursos, Jeonnam passa a contar com uma base financeira para cultivar empresas líderes em inovação regional. O valor confirmado é de 7,1 bilhões de won. O programa foi apresentado como uma iniciativa de P&D que apoia empresas com capacidade de inovação regional. O financiamento reforça a base fiscal para apoio a empresas locais e competitividade industrial. Fonte: yna.co.kr, com base em reportagem de Hyung Min-woo da Yonhap."
-      },
-      "de": {
-        "title": "Jeonnam sichert 7,1 Milliarden Won für regionale Innovationsführer im R&D-Programm",
-        "excerpt": "Jeonnam wurde für das R&D-Programm 2026 zur Förderung regionaler Innovationsführer des Ministeriums für KMU und Startups ausgewählt und erhält 7,1 Milliarden Won, berichtete Yonhap.",
-        "body": "Die Provinz Jeonnam wurde für das vom Ministerium für KMU und Startups geförderte Programm „Entwicklung regionaler Innovationsführer 2026 (R&D)“ ausgewählt und hat damit 7,1 Milliarden Won an staatlichen Mitteln gesichert. Die Auswahl steht im Zusammenhang mit einem Forschungs- und Entwicklungsprojekt zur Förderung von Unternehmen in der Region Jeonnam. Mit den nationalen Mitteln erhält die Provinz eine finanzielle Grundlage für die Entwicklung regionaler innovationsführender Unternehmen. Der bestätigte Betrag liegt bei 7,1 Milliarden Won. Das Programm wurde als R&D-Initiative beschrieben, die Unternehmen mit regionaler Innovationskraft unterstützt. Die Mittel stärken die finanzielle Basis für regionale Unternehmensförderung und industrielle Wettbewerbsfähigkeit. Quelle: yna.co.kr, unter Berufung auf Yonhap-Reporter Hyung Min-woo."
-      },
-      "fr": {
-        "title": "Jeonnam obtient 7,1 milliards de wons pour la R&D des entreprises innovantes régionales",
-        "excerpt": "Jeonnam a été sélectionnée pour le programme 2026 de développement des entreprises leaders de l’innovation régionale du ministère des PME et Startups et obtient 7,1 milliards de wons, selon Yonhap.",
-        "body": "La province de Jeonnam a été sélectionnée pour le programme « Développement des entreprises leaders de l’innovation régionale 2026 (R&D) » mené par le ministère des PME et Startups, ce qui lui permet d’obtenir 7,1 milliards de wons de financement national. Cette sélection concerne un projet de soutien à la recherche et au développement destiné à favoriser les entreprises de la région. Grâce à ces fonds publics, Jeonnam dispose d’une base financière pour développer des entreprises leaders de l’innovation régionale. Le montant confirmé est de 7,1 milliards de wons. Le programme est présenté comme une initiative de R&D soutenant les entreprises dotées de capacités d’innovation régionales. Ce financement renforce la base budgétaire nécessaire au soutien des entreprises locales et à la compétitivité industrielle. Source : yna.co.kr, citant le reportage de Hyung Min-woo de Yonhap."
-      },
-      "ar": {
-        "title": "جولا الجنوبية تؤمن 7.1 مليار وون لبرنامج بحث وتطوير لشركات الابتكار الإقليمي",
-        "excerpt": "اختيرت مقاطعة جولا الجنوبية لبرنامج 2026 لتنمية الشركات الرائدة في الابتكار الإقليمي التابع لوزارة الشركات الصغيرة والناشئة، وحصلت على 7.1 مليار وون، بحسب يونهاب.",
-        "body": "اختيرت مقاطعة جولا الجنوبية لبرنامج “تنمية الشركات الرائدة في الابتكار الإقليمي لعام 2026 (بحث وتطوير)” الذي تديره وزارة الشركات الصغيرة والمتوسطة والناشئة، وبذلك ضمنت تمويلا حكوميا قدره 7.1 مليار وون. يرتبط هذا الاختيار بمشروع دعم للبحث والتطوير يهدف إلى تنمية الشركات في منطقة جولا الجنوبية. وبفضل التمويل الوطني، حصلت المقاطعة على أساس مالي لرعاية الشركات الرائدة في الابتكار الإقليمي. ويبلغ حجم التمويل المؤكد 7.1 مليار وون. ووصفت المبادرة بأنها برنامج بحث وتطوير يدعم الشركات ذات القدرة الابتكارية الإقليمية. ومن شأن هذا التمويل أن يضيف قاعدة مالية لدعم الشركات المحلية وتعزيز التنافسية الصناعية. المصدر: yna.co.kr، نقلا عن تقرير مراسل يونهاب هيونغ مين وو."
-      },
-      "hi": {
-        "title": "जिओन्नम को क्षेत्रीय नवाचार अग्रणी कंपनियों के R&D के लिए 7.1 अरब वॉन मिले",
-        "excerpt": "योनहाप के अनुसार, जिओन्नम प्रांत को SMEs और Startups मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास R&D कार्यक्रम में चुना गया और 7.1 अरब वॉन की राष्ट्रीय निधि मिली।",
-        "body": "जिओन्नम प्रांत को SMEs और Startups मंत्रालय द्वारा संचालित “2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास (R&D)” कार्यक्रम के लिए चुना गया है, जिससे उसे 7.1 अरब वॉन की राष्ट्रीय निधि मिली है। यह चयन जिओन्नम क्षेत्र की कंपनियों को विकसित करने से जुड़े अनुसंधान और विकास सहायता कार्यक्रम से संबंधित है। इस सरकारी वित्तपोषण के आधार पर प्रांत को क्षेत्रीय नवाचार अग्रणी कंपनियों के विकास के लिए वित्तीय आधार मिला है। सुनिश्चित राशि 7.1 अरब वॉन है। इस कार्यक्रम को क्षेत्रीय नवाचार क्षमता वाली कंपनियों का समर्थन करने वाली R&D पहल के रूप में पेश किया गया। यह निधि स्थानीय कंपनियों के समर्थन और औद्योगिक प्रतिस्पर्धा को मजबूत करने के लिए आवश्यक वित्तीय आधार जोड़ेगी। स्रोत: yna.co.kr, योनहाप के रिपोर्टर Hyung Min-woo की रिपोर्ट के हवाले से।"
-      },
-      "id": {
-        "title": "Jeonnam Raih Dana Negara 7,1 Miliar Won untuk R&D Perusahaan Inovasi Daerah",
-        "excerpt": "Jeonnam terpilih dalam program 2026 pengembangan perusahaan pemimpin inovasi daerah Kementerian UKM dan Startup, sehingga memperoleh dana negara 7,1 miliar won, menurut Yonhap.",
-        "body": "Provinsi Jeonnam terpilih dalam program “Pengembangan Perusahaan Pemimpin Inovasi Daerah 2026 (R&D)” yang dijalankan Kementerian UKM dan Startup, sehingga mengamankan dana negara sebesar 7,1 miliar won. Seleksi ini terkait dengan proyek dukungan penelitian dan pengembangan untuk membina perusahaan di wilayah Jeonnam. Dengan dana nasional tersebut, provinsi ini memperoleh dasar finansial untuk mengembangkan perusahaan pemimpin inovasi daerah. Jumlah dana yang dipastikan adalah 7,1 miliar won. Program ini diperkenalkan sebagai inisiatif R&D yang mendukung perusahaan dengan kapasitas inovasi regional. Pendanaan tersebut menambah dasar fiskal untuk dukungan perusahaan lokal dan penguatan daya saing industri. Sumber: yna.co.kr, mengutip laporan reporter Yonhap Hyung Min-woo."
       }
     }
   }
