@@ -1,5 +1,230 @@
 [
   {
+    "id": "3876bdc91fa5",
+    "slug": "부산은행-부산-수출입기업에-1천억원-규모-대출-196750",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T11:27:35.452Z",
+    "updatedAt": "2026-05-09T11:27:35.452Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "titleFingerprint": "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+    "dedupKeys": [
+      "3876bdc91fa5e112bc06bc55ebc81932a82c9585",
+      "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+      "a10463ca72a83da5aa6c25249c27822d01841d8b"
+    ],
+    "imageUrl": "/images/articles/3876bdc91fa5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산은행, 부산 수출입기업에 1천억원 대출 지원 나선다",
+        "excerpt": "BNK부산은행은 8일 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 부산 지역 수출입기업을 위해 1천억원 규모의 대출 지원에 나선다고 밝혔다.",
+        "body": "BNK부산은행은 8일 부산 지역 수출입기업을 대상으로 1천억원 규모의 대출 지원에 나선다고 밝혔다. 이번 지원은 중동분쟁 장기화와 글로벌 공급망 불안으로 자금 운용에 어려움을 겪는 지역 기업을 돕기 위한 조치다. 부산은행은 지역 수출입기업의 금융 부담을 줄이고 경영 안정에 보탬이 되도록 대출 재원을 마련했다. 불확실한 대외 여건이 이어지는 가운데 이번 자금 지원은 부산 기업들의 유동성 확보에 영향을 줄 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Bank to Offer 100 Billion Won in Loans to Local Import-Export Firms",
+        "excerpt": "BNK Busan Bank said on the 8th it will provide 100 billion won in loans to Busan import-export companies struggling with prolonged Middle East conflict and global supply chain instability.",
+        "body": "BNK Busan Bank said on the 8th that it will provide 100 billion won in loans to import-export companies in Busan. The measure is aimed at supporting local firms facing financing difficulties due to the prolonged Middle East conflict and instability in global supply chains. The bank prepared the lending program to ease financial burdens and help stabilize business operations among regional trading companies. As external uncertainty continues, the funding is expected to support liquidity for Busan-based firms. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山銀行、釜山の輸出入企業に1,000億ウォン規模の融資支援",
+        "excerpt": "BNK釜山銀行は8日、中東紛争の長期化と世界的な供給網不安で苦境にある釜山地域の輸出入企業に1,000億ウォン規模の融資を行うと明らかにした。",
+        "body": "BNK釜山銀行は8日、釜山地域の輸出入企業を対象に1,000億ウォン規模の融資支援を行うと発表した。今回の支援は、中東紛争の長期化と世界的な供給網の不安により資金運用に困難を抱える地域企業を支えるための措置だ。釜山銀行は、地域の輸出入企業の金融負担を軽減し、経営安定に役立てるため融資財源を用意した。対外環境の不確実性が続く中、今回の資金支援は釜山企業の流動性確保に影響を与えるとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山银行将向釜山进出口企业提供1000亿韩元贷款支持",
+        "excerpt": "BNK釜山银行8日表示，将为因中东冲突长期化和全球供应链不稳定而面临困难的釜山地区进出口企业提供1000亿韩元规模贷款。",
+        "body": "BNK釜山银行8日表示，将面向釜山地区进出口企业提供1000亿韩元规模的贷款支持。此次支持旨在帮助因中东冲突长期化和全球供应链不稳定而在资金运作上遇到困难的当地企业。釜山银行准备相关贷款资金，以减轻地区进出口企业的金融负担，并助力经营稳定。在外部环境不确定性持续的情况下，此次资金支持预计将有助于釜山企业 확보流动性。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Busan Bank ofrecerá 100.000 millones de wones en préstamos a exportadoras locales",
+        "excerpt": "BNK Busan Bank anunció el día 8 que apoyará con préstamos por 100.000 millones de wones a empresas importadoras y exportadoras de Busan afectadas por el conflicto en Oriente Medio y la inestabilidad de las cadenas de suministro.",
+        "body": "BNK Busan Bank anunció el día 8 que ofrecerá préstamos por 100.000 millones de wones a empresas importadoras y exportadoras de la región de Busan. La medida busca apoyar a compañías locales que enfrentan dificultades de financiación por la prolongación del conflicto en Oriente Medio y la inestabilidad de las cadenas globales de suministro. El banco preparó estos recursos para reducir la carga financiera de las empresas regionales y ayudar a estabilizar su gestión. En medio de la continua incertidumbre externa, el apoyo podría contribuir a asegurar liquidez para las firmas de Busan. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Busan Bank dará 100 bilhões de won em crédito a empresas de comércio exterior",
+        "excerpt": "O BNK Busan Bank informou no dia 8 que oferecerá 100 bilhões de won em empréstimos a empresas importadoras e exportadoras de Busan afetadas pelo conflito prolongado no Oriente Médio e pela instabilidade das cadeias globais.",
+        "body": "O BNK Busan Bank informou no dia 8 que oferecerá 100 bilhões de won em empréstimos a empresas importadoras e exportadoras da região de Busan. A medida busca apoiar companhias locais que enfrentam dificuldades de financiamento devido ao prolongamento do conflito no Oriente Médio e à instabilidade das cadeias globais de suprimentos. O banco preparou os recursos para reduzir a carga financeira dessas empresas e ajudar na estabilidade da gestão. Com a incerteza externa persistente, o apoio deve contribuir para a liquidez das empresas de Busan. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Busan Bank stellt 100 Milliarden Won Kredite für Import-Export-Firmen bereit",
+        "excerpt": "Die BNK Busan Bank erklärte am 8., sie werde Import- und Exportunternehmen in Busan mit Krediten über 100 Milliarden Won unterstützen, da der Nahostkonflikt andauert und globale Lieferketten unsicher bleiben.",
+        "body": "Die BNK Busan Bank teilte am 8. mit, dass sie Import- und Exportunternehmen in der Region Busan Kredite im Umfang von 100 Milliarden Won bereitstellen wird. Die Maßnahme soll lokale Firmen unterstützen, die wegen des anhaltenden Nahostkonflikts und der Unsicherheit in globalen Lieferketten Schwierigkeiten bei der Finanzierung haben. Die Bank stellte die Mittel bereit, um die finanzielle Belastung regionaler Handelsunternehmen zu verringern und zur Stabilisierung des Geschäftsbetriebs beizutragen. Angesichts fortdauernder externer Unsicherheit dürfte die Unterstützung die Liquidität von Unternehmen in Busan stärken. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Busan Bank va prêter 100 milliards de wons aux entreprises d’import-export locales",
+        "excerpt": "BNK Busan Bank a annoncé le 8 qu’elle accordera 100 milliards de wons de prêts aux entreprises d’import-export de Busan touchées par la prolongation du conflit au Moyen-Orient et l’instabilité des chaînes d’approvisionnement mondiales.",
+        "body": "BNK Busan Bank a annoncé le 8 qu’elle accordera des prêts d’un montant total de 100 milliards de wons aux entreprises d’import-export de la région de Busan. Cette mesure vise à soutenir les sociétés locales confrontées à des difficultés de financement en raison de la prolongation du conflit au Moyen-Orient et de l’instabilité des chaînes d’approvisionnement mondiales. La banque a préparé ces fonds afin d’alléger la charge financière des entreprises régionales et d’aider à stabiliser leur gestion. Dans un contexte d’incertitude externe persistante, ce soutien devrait contribuer à la liquidité des entreprises de Busan. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "بنك بوسان يخصص قروضا بقيمة 100 مليار وون لشركات الاستيراد والتصدير",
+        "excerpt": "قال بنك BNK بوسان في 8 من الشهر إنه سيقدم قروضا بقيمة 100 مليار وون لشركات الاستيراد والتصدير في بوسان المتضررة من طول أمد نزاع الشرق الأوسط واضطراب سلاسل الإمداد العالمية.",
+        "body": "أعلن بنك BNK بوسان في 8 من الشهر أنه سيقدم دعما تمويليا بقيمة 100 مليار وون لشركات الاستيراد والتصدير في منطقة بوسان. ويأتي هذا الإجراء لمساعدة الشركات المحلية التي تواجه صعوبات في إدارة التمويل بسبب طول أمد نزاع الشرق الأوسط وعدم استقرار سلاسل الإمداد العالمية. وأعد البنك موارد القروض لتخفيف الأعباء المالية عن شركات التجارة الإقليمية والمساهمة في استقرار إدارتها. ومع استمرار عدم اليقين في الظروف الخارجية، من المتوقع أن يساعد هذا التمويل شركات بوسان على تأمين السيولة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान बैंक स्थानीय आयात-निर्यात कंपनियों को 100 अरब वोन ऋण देगा",
+        "excerpt": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह मध्य पूर्व संघर्ष के लंबा खिंचने और वैश्विक आपूर्ति शृंखला अस्थिरता से जूझ रही बुसान की आयात-निर्यात कंपनियों को 100 अरब वोन का ऋण समर्थन देगा।",
+        "body": "BNK बुसान बैंक ने 8 तारीख को बताया कि वह बुसान क्षेत्र की आयात-निर्यात कंपनियों को 100 अरब वोन 규모 का ऋण समर्थन देगा। यह कदम उन स्थानीय कंपनियों की मदद के लिए है जिन्हें मध्य पूर्व संघर्ष के लंबा खिंचने और वैश्विक आपूर्ति शृंखलाओं की अस्थिरता के कारण धन संचालन में कठिनाई हो रही है। बैंक ने क्षेत्रीय व्यापार कंपनियों का वित्तीय बोझ घटाने और प्रबंधन स्थिरता में मदद करने के लिए ऋण संसाधन तैयार किए हैं। बाहरी अनिश्चितता जारी रहने के बीच यह वित्तीय समर्थन बुसान की कंपनियों की तरलता 확보 में सहायक हो सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Busan Bank Siapkan Pinjaman 100 Miliar Won untuk Perusahaan Ekspor-Impor",
+        "excerpt": "BNK Busan Bank pada tanggal 8 menyatakan akan memberikan pinjaman 100 miliar won kepada perusahaan ekspor-impor di Busan yang terdampak konflik Timur Tengah berkepanjangan dan ketidakstabilan rantai pasok global.",
+        "body": "BNK Busan Bank pada tanggal 8 menyatakan akan memberikan dukungan pinjaman senilai 100 miliar won kepada perusahaan ekspor-impor di wilayah Busan. Langkah ini ditujukan untuk membantu perusahaan lokal yang mengalami kesulitan pengelolaan dana akibat berkepanjangannya konflik Timur Tengah dan ketidakstabilan rantai pasok global. Bank menyiapkan dana pinjaman tersebut untuk mengurangi beban finansial perusahaan ekspor-impor daerah dan membantu stabilitas usaha. Di tengah ketidakpastian eksternal yang berlanjut, dukungan ini diperkirakan dapat membantu perusahaan Busan memperoleh likuiditas. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f8d73f8b318b",
+    "slug": "코스피-상승-전환해-7500선-턱밑서-마감또-사상-최고치-787707",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T11:26:38.217Z",
+    "updatedAt": "2026-05-09T11:26:38.217Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124100008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124100008",
+    "titleFingerprint": "bec4d455d25609938f41b0bdec09b5e2187ef5e9",
+    "dedupKeys": [
+      "f8d73f8b318bc4b36b53f90d2a574fcfeba52b9a",
+      "bec4d455d25609938f41b0bdec09b5e2187ef5e9",
+      "97460a21414d50d9f5d32021ab083b30d5a15a38"
+    ],
+    "imageUrl": "/images/articles/f8d73f8b318b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,500선 턱밑 마감, 장 후반 상승 전환하며 사상 최고치 경신",
+        "excerpt": "코스피가 8일 장 후반 상승세로 돌아서 7,500선에 근접해 마감하며 다시 사상 최고치를 경신했다. 연합뉴스는 서울발 기사에서 이 같은 흐름을 전했다.",
+        "body": "코스피가 8일 서울 증시에서 장 후반 상승 전환에 성공하며 7,500선 턱밑에서 거래를 마쳤다. 이날 지수는 마감 기준으로 다시 사상 최고치를 경신했다. 원문에 따르면 코스피는 장 후반 흐름을 바꾸며 상승세로 돌아섰고, 7,500선에 바짝 다가선 수준에서 장을 마감했다. 이번 마감은 직전 고점을 다시 넘어선 기록으로, 국내 증시의 주요 지수 흐름을 보여주는 지표로 주목된다. 다만 원문은 구체적인 종가, 상승 폭, 업종별 움직임 등 추가 수치는 제시하지 않았다. 향후 시장의 관심은 사상 최고치 경신 이후 지수가 7,500선을 넘어설 수 있는지에 모일 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Ends Just Below 7,500 After Late Rebound, Sets Fresh Record High",
+        "excerpt": "The KOSPI turned higher late on the 8th and closed near the 7,500 mark, renewing its all-time high, according to a Seoul-datelined Yonhap News report.",
+        "body": "The KOSPI reversed course late in the session on the 8th in Seoul and finished just below the 7,500 level. The index again set an all-time closing high. According to the original report, the KOSPI shifted into positive territory in the latter part of trading and ended the day close to the 7,500 line. The close marks another move beyond its previous record and highlights the latest direction of South Korea’s benchmark stock index. The source did not provide additional figures such as the exact closing level, point gain, or sector-by-sector performance. Market attention is expected to remain on whether the index can move above 7,500 after this record-setting close. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、終盤に上昇転換し7,500目前で終了　再び史上最高値更新",
+        "excerpt": "KOSPIは8日、取引終盤に上昇へ転じ、7,500に迫る水準で終了し、再び史上最高値を更新したと聯合ニュースが伝えた。",
+        "body": "KOSPIは8日、ソウル市場で取引終盤に上昇へ転じ、7,500目前の水準で取引を終えた。終値ベースで再び史上最高値を更新した。原文によると、KOSPIは後場終盤に流れを変えてプラス圏に入り、7,500線に接近した水準で終了した。今回の終値は従来の高値を再び上回った記録であり、韓国株式市場の主要指数の動きを示す材料として注目される。ただし原文では、具体的な終値、上昇幅、業種別の動きなど追加の数値は示されていない。今後の市場では、史上最高値更新後に指数が7,500線を突破できるかが関心事となりそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI尾盘转涨收于7,500点附近，再创历史最高收盘纪录",
+        "excerpt": "KOSPI于8日尾盘转为上涨，收在接近7,500点的位置，并再次刷新历史最高纪录，韩联社首尔报道披露了这一走势。",
+        "body": "KOSPI于8日在首尔股市尾盘成功转为上涨，并在7,500点关口附近收盘。该指数以收盘价计算再次刷新历史最高纪录。根据原文，KOSPI在交易后半段改变走势进入上涨区间，并以逼近7,500点的水平结束当天交易。此次收盘意味着指数再次超过此前高点，也成为观察韩国股市主要指数走向的重要信号。不过，原文未提供具体收盘点位、上涨幅度或各行业表现等更多数据。接下来，市场关注点预计将集中在指数创出历史新高后能否进一步突破7,500点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cierra cerca de 7.500 tras girar al alza y marca nuevo récord histórico",
+        "excerpt": "El KOSPI cambió a terreno positivo al final de la sesión del día 8 y cerró cerca de los 7.500 puntos, renovando su máximo histórico, informó Yonhap desde Seúl.",
+        "body": "El KOSPI logró girar al alza en la parte final de la sesión del día 8 en el mercado de Seúl y cerró justo por debajo de la zona de 7.500 puntos. Con ese cierre, el índice volvió a renovar su máximo histórico. Según el texto original, el KOSPI cambió de tendencia en el tramo final de la negociación, pasó a terreno positivo y terminó muy cerca de la línea de 7.500. Este cierre supone superar de nuevo el récord anterior y muestra la evolución reciente del principal índice bursátil de Corea del Sur. La fuente no incluyó cifras adicionales, como el nivel exacto de cierre, el avance en puntos o el comportamiento por sectores. La atención del mercado se centrará ahora en si el índice puede superar los 7.500 tras este nuevo récord. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI fecha perto de 7.500 após virada no fim e renova máxima histórica",
+        "excerpt": "O KOSPI virou para alta no fim do pregão do dia 8 e fechou próximo dos 7.500 pontos, renovando sua máxima histórica, segundo reportagem da Yonhap em Seul.",
+        "body": "O KOSPI conseguiu virar para alta na parte final do pregão do dia 8, no mercado de Seul, e encerrou logo abaixo da marca de 7.500 pontos. Com o fechamento, o índice voltou a renovar sua máxima histórica. Segundo o texto original, o KOSPI mudou de direção no fim das negociações, passou para o campo positivo e terminou muito perto da linha dos 7.500. O resultado representa uma nova superação do recorde anterior e mostra o movimento recente do principal índice acionário da Coreia do Sul. A fonte não apresentou números adicionais, como o fechamento exato, a alta em pontos ou o desempenho por setor. A atenção do mercado deve se concentrar agora na possibilidade de o índice ultrapassar os 7.500 após esse novo recorde. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KOSPI schließt knapp unter 7.500 nach später Wende und erreicht Rekordhoch",
+        "excerpt": "Der KOSPI drehte am 8. im späten Handel ins Plus und schloss nahe der Marke von 7.500 Punkten. Damit markierte er laut Yonhap erneut ein Allzeithoch.",
+        "body": "Der KOSPI drehte am 8. im Handel in Seoul gegen Ende der Sitzung ins Plus und schloss knapp unter der Marke von 7.500 Punkten. Auf Schlusskursbasis erreichte der Index damit erneut ein Allzeithoch. Dem Originalbericht zufolge änderte der KOSPI im späten Handel seine Richtung, wechselte in positives Terrain und beendete die Sitzung nahe der 7.500er-Linie. Dieser Schlussstand übertraf den vorherigen Rekord erneut und zeigt die aktuelle Entwicklung des wichtigsten südkoreanischen Aktienindex. Weitere Angaben wie der genaue Schlussstand, der Punktgewinn oder Bewegungen einzelner Branchen wurden in der Vorlage nicht genannt. Der Marktfokus dürfte nun darauf liegen, ob der Index nach dem Rekordschluss die Marke von 7.500 überschreiten kann. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI finit près des 7 500 après un rebond tardif et bat un nouveau record",
+        "excerpt": "Le KOSPI est repassé dans le vert en fin de séance le 8 et a clôturé près des 7 500 points, établissant un nouveau record historique, selon Yonhap à Séoul.",
+        "body": "Le KOSPI a réussi à repasser dans le vert en fin de séance le 8 sur le marché de Séoul et a terminé tout près du seuil des 7 500 points. Sur la base de la clôture, l’indice a de nouveau établi un record historique. Selon le texte original, le KOSPI a changé de direction dans la dernière partie des échanges, est revenu en territoire positif et a clôturé à un niveau proche de la ligne des 7 500. Cette clôture dépasse une nouvelle fois le précédent sommet et illustre l’évolution récente du principal indice boursier sud-coréen. La source ne donne pas de chiffres supplémentaires, comme le niveau exact de clôture, le gain en points ou les mouvements par secteur. L’attention du marché devrait désormais porter sur la capacité de l’indice à franchir les 7 500 après ce record. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يغلق قرب 7,500 بعد تحول صعودي متأخر ويسجل قمة تاريخية جديدة",
+        "excerpt": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة الثامن من الشهر وأغلق قرب مستوى 7,500 نقطة، مجددا أعلى مستوى تاريخي له، وفق تقرير ليونهاب من سيول.",
+        "body": "نجح مؤشر كوسبي في سوق سيول يوم 8 في التحول إلى الصعود خلال الجزء الأخير من الجلسة، وأنهى التداول قرب مستوى 7,500 نقطة. وبحسب الإغلاق، جدد المؤشر أعلى مستوى تاريخي له مرة أخرى. ووفقا للنص الأصلي، غير كوسبي اتجاهه في أواخر التداول ودخل المنطقة الإيجابية، ثم أنهى الجلسة عند مستوى يقترب كثيرا من خط 7,500. ويعد هذا الإغلاق تجاوزا جديدا للقمة السابقة، كما يبرز حركة المؤشر الرئيسي لسوق الأسهم في كوريا الجنوبية. ولم يورد المصدر أرقاما إضافية مثل مستوى الإغلاق الدقيق أو مقدار الارتفاع أو أداء القطاعات. ومن المتوقع أن يتركز اهتمام السوق على ما إذا كان المؤشر سيتمكن من تجاوز مستوى 7,500 بعد هذا الإغلاق القياسي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI देर से तेजी में लौटा, 7,500 के पास बंद होकर नया रिकॉर्ड बनाया",
+        "excerpt": "KOSPI 8 तारीख को सत्र के अंतिम हिस्से में बढ़त में लौटा और 7,500 के करीब बंद हुआ, जिससे उसने फिर नया सर्वकालिक उच्च स्तर दर्ज किया, योनहाप ने बताया।",
+        "body": "KOSPI ने 8 तारीख को सियोल बाजार में सत्र के अंतिम हिस्से में बढ़त की ओर रुख किया और 7,500 के ठीक नीचे बंद हुआ। बंद भाव के आधार पर सूचकांक ने फिर अपना सर्वकालिक उच्च स्तर दर्ज किया। मूल रिपोर्ट के अनुसार, KOSPI ने कारोबार के अंतिम चरण में दिशा बदली, सकारात्मक क्षेत्र में आया और 7,500 रेखा के बहुत करीब दिन का कारोबार समाप्त किया। यह बंद पिछले उच्च स्तर को फिर पार करने वाला रिकॉर्ड है और दक्षिण कोरिया के प्रमुख शेयर सूचकांक की ताजा चाल को दिखाता है। हालांकि मूल स्रोत ने सटीक बंद स्तर, बढ़त की मात्रा या क्षेत्रवार प्रदर्शन जैसे अतिरिक्त आंकड़े नहीं दिए। अब बाजार की नजर इस पर रह सकती है कि रिकॉर्ड बंद के बाद सूचकांक 7,500 को पार कर पाता है या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Ditutup Dekat 7.500 Setelah Berbalik Naik, Cetak Rekor Tertinggi",
+        "excerpt": "KOSPI berbalik menguat pada akhir sesi tanggal 8 dan ditutup mendekati level 7.500, kembali mencetak rekor tertinggi sepanjang masa, menurut laporan Yonhap dari Seoul.",
+        "body": "KOSPI berhasil berbalik naik pada akhir perdagangan tanggal 8 di bursa Seoul dan ditutup tepat di bawah level 7.500. Berdasarkan penutupan, indeks tersebut kembali mencetak rekor tertinggi sepanjang masa. Menurut naskah asli, KOSPI mengubah arah pada bagian akhir sesi, masuk ke wilayah positif, lalu mengakhiri perdagangan sangat dekat dengan garis 7.500. Penutupan ini kembali melampaui rekor sebelumnya dan menjadi penanda pergerakan terbaru indeks utama saham Korea Selatan. Namun, sumber tidak menyebutkan angka tambahan seperti level penutupan pasti, besaran kenaikan, atau pergerakan per sektor. Perhatian pasar berikutnya diperkirakan tertuju pada apakah indeks dapat menembus 7.500 setelah penutupan rekor ini. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "bd50332fb7c4",
+    "slug": "한화운용-코스피50-etf-연수익률-261코스피-추종-etf-1위-997536",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T11:25:32.644Z",
+    "updatedAt": "2026-05-09T11:25:32.644Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508123000008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508123000008",
+    "titleFingerprint": "9b7bb616fc0e140d2d455d4e589d2ef7b4fb0bd7",
+    "dedupKeys": [
+      "bd50332fb7c4ddffd5737adc55e5cfa5809da13a",
+      "9b7bb616fc0e140d2d455d4e589d2ef7b4fb0bd7",
+      "d25ec5e1aeb0af276aad38c4ddde4d43bfc60e6d"
+    ],
+    "imageUrl": "/images/articles/bd50332fb7c4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "PLUS 코스피50 ETF 연수익률 261%, 코스피 추종 ETF 1위",
+        "excerpt": "한화자산운용은 최근 1년간 ‘PLUS 코스피50’ ETF가 261% 수익률을 기록해 코스피 추종 ETF 중 1위에 올랐다고 밝혔다.",
+        "body": "서울에서 연합뉴스 고은지 기자가 전한 내용에 따르면 한화자산운용은 코스피50 지수를 따르는 ‘PLUS 코스피50’ 상장지수펀드(ETF)가 최근 1년간 261%의 연수익률을 기록했다고 밝혔다. 회사는 이 상품이 코스피를 추종하는 ETF 가운데 수익률 1위에 올랐다고 설명했다. 이번 수치는 코스피50 지수 연계 ETF 성과를 비교하는 투자자들에게 주요 참고 지표가 될 수 있다. 해당 내용은 한화자산운용 발표를 바탕으로 보도됐으며, 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "PLUS KOSPI50 ETF Posts 261% One-Year Return, Leads KOSPI-Tracking ETFs",
+        "excerpt": "Hanwha Asset Management said its PLUS KOSPI50 ETF recorded a 261% return over the past year, ranking first among KOSPI-tracking ETFs.",
+        "body": "According to Yonhap News Agency reporter Ko Eun-ji in Seoul, Hanwha Asset Management said the ‘PLUS KOSPI50’ exchange-traded fund, which tracks the KOSPI50 index, posted an annual return of 261% over the past year. The company explained that the fund ranked first in returns among ETFs tracking the KOSPI. The figure may serve as a key reference point for investors comparing the performance of ETFs linked to the KOSPI50 index. The report was based on Hanwha Asset Management’s announcement, with the source cited as yna.co.kr."
+      },
+      "ja": {
+        "title": "PLUSコスピ50 ETF、年利回り261％でコスピ連動ETF首位",
+        "excerpt": "ハンファ資産運用は、‘PLUSコスピ50’ ETFが直近1年間で261％の収益率を記録し、コスピ連動ETFで首位になったと明らかにした。",
+        "body": "ソウル発の聯合ニュース高恩智記者の報道によると、ハンファ資産運用はコスピ50指数に連動する‘PLUSコスピ50’上場投資信託（ETF）が、直近1年間で261％の年収益率を記録したと発表した。同社は、この商品がコスピに連動するETFの中で収益率1位になったと説明した。今回の数値は、コスピ50指数連動ETFの成果を比較する投資家にとって主要な参考指標となり得る。内容はハンファ資産運用の発表に基づくもので、出典はyna.co.kr。"
+      },
+      "zh": {
+        "title": "PLUS KOSPI50 ETF年收益率261%，居KOSPI跟踪ETF首位",
+        "excerpt": "韩华资产管理表示，‘PLUS KOSPI50’ ETF过去一年收益率达261%，在跟踪KOSPI的ETF中排名第一。",
+        "body": "据韩联社首尔记者高恩智报道，韩华资产管理表示，跟踪KOSPI50指数的‘PLUS KOSPI50’交易所交易基金（ETF）在最近一年录得261%的年收益率。公司说明，该产品在跟踪KOSPI的ETF中收益率排名第一。这一数据可成为投资者比较KOSPI50指数相关ETF表现时的重要参考指标。相关报道基于韩华资产管理发布的信息，来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "PLUS KOSPI50 ETF logra retorno anual de 261% y lidera ETFs ligados al KOSPI",
+        "excerpt": "Hanwha Asset Management informó que el ETF ‘PLUS KOSPI50’ obtuvo un retorno de 261% en el último año y ocupó el primer lugar entre los ETFs que siguen el KOSPI.",
+        "body": "Según informó desde Seúl la periodista Ko Eun-ji de Yonhap, Hanwha Asset Management señaló que el fondo cotizado ‘PLUS KOSPI50’, que sigue el índice KOSPI50, registró una rentabilidad anual de 261% durante el último año. La compañía explicó que el producto ocupó el primer lugar en rentabilidad entre los ETFs que siguen el KOSPI. Esta cifra puede servir como referencia principal para los inversionistas que comparan el desempeño de ETFs vinculados al índice KOSPI50. La información se basa en el anuncio de Hanwha Asset Management y la fuente es yna.co.kr."
+      },
+      "pt": {
+        "title": "PLUS KOSPI50 ETF rende 261% em um ano e lidera ETFs que seguem o KOSPI",
+        "excerpt": "A Hanwha Asset Management informou que o ETF ‘PLUS KOSPI50’ registrou retorno de 261% no último ano, ficando em primeiro entre ETFs que acompanham o KOSPI.",
+        "body": "Segundo reportagem de Ko Eun-ji, da Yonhap, em Seul, a Hanwha Asset Management informou que o fundo de índice ‘PLUS KOSPI50’, que acompanha o índice KOSPI50, registrou retorno anual de 261% nos últimos 12 meses. A empresa explicou que o produto ficou em primeiro lugar em rentabilidade entre os ETFs que seguem o KOSPI. O número pode servir como referência para investidores que comparam o desempenho de ETFs ligados ao índice KOSPI50. A notícia foi baseada no comunicado da Hanwha Asset Management, com fonte em yna.co.kr."
+      },
+      "de": {
+        "title": "PLUS KOSPI50 ETF erzielt 261% Jahresrendite und führt KOSPI-ETFs an",
+        "excerpt": "Hanwha Asset Management teilte mit, dass der ‘PLUS KOSPI50’ ETF im vergangenen Jahr 261% Rendite erzielte und unter KOSPI-Tracking-ETFs Rang eins belegte.",
+        "body": "Nach Angaben der Yonhap-Reporterin Ko Eun-ji aus Seoul erklärte Hanwha Asset Management, dass der börsengehandelte Fonds ‘PLUS KOSPI50’, der den KOSPI50-Index abbildet, in den vergangenen zwölf Monaten eine Jahresrendite von 261% erzielt habe. Das Unternehmen sagte, das Produkt habe bei der Rendite unter den ETFs, die den KOSPI nachbilden, den ersten Platz erreicht. Diese Zahl kann Anlegern als wichtiger Vergleichspunkt für die Performance von ETFs dienen, die an den KOSPI50-Index gekoppelt sind. Die Meldung beruht auf Angaben von Hanwha Asset Management; Quelle ist yna.co.kr."
+      },
+      "fr": {
+        "title": "PLUS KOSPI50 ETF affiche 261% sur un an et mène les ETF liés au KOSPI",
+        "excerpt": "Hanwha Asset Management a indiqué que l’ETF ‘PLUS KOSPI50’ a enregistré 261% de rendement sur un an, au premier rang des ETF suivant le KOSPI.",
+        "body": "Selon la journaliste Ko Eun-ji de Yonhap à Séoul, Hanwha Asset Management a déclaré que le fonds coté ‘PLUS KOSPI50’, qui suit l’indice KOSPI50, avait enregistré un rendement annuel de 261% sur la dernière année. La société a expliqué que ce produit occupait la première place en matière de rendement parmi les ETF suivant le KOSPI. Ce chiffre peut constituer un repère important pour les investisseurs comparant les performances des ETF liés à l’indice KOSPI50. L’information repose sur l’annonce de Hanwha Asset Management, avec yna.co.kr comme source."
+      },
+      "ar": {
+        "title": "صندوق PLUS KOSPI50 يحقق عائدا سنويا 261% ويتصدر صناديق KOSPI",
+        "excerpt": "قالت هانوا لإدارة الأصول إن صندوق ‘PLUS KOSPI50’ سجل عائدا قدره 261% خلال عام واحد، ليحتل المركز الأول بين صناديق ETF المتتبعة لمؤشر KOSPI.",
+        "body": "وفقا لما نقلته وكالة يونهاب عن الصحفية كو أون جي في سول، أعلنت هانوا لإدارة الأصول أن صندوق المؤشرات المتداولة ‘PLUS KOSPI50’، الذي يتتبع مؤشر KOSPI50، سجل عائدا سنويا بلغ 261% خلال العام الأخير. وأوضحت الشركة أن هذا المنتج جاء في المركز الأول من حيث العائد بين صناديق ETF التي تتبع مؤشر KOSPI. ويمكن أن يشكل هذا الرقم مرجعا مهما للمستثمرين عند مقارنة أداء الصناديق المرتبطة بمؤشر KOSPI50. يستند الخبر إلى إعلان هانوا لإدارة الأصول، والمصدر هو yna.co.kr."
+      },
+      "hi": {
+        "title": "PLUS KOSPI50 ETF का सालाना रिटर्न 261%, KOSPI ट्रैकिंग ETFs में पहला स्थान",
+        "excerpt": "Hanwha Asset Management ने कहा कि ‘PLUS KOSPI50’ ETF ने पिछले एक वर्ष में 261% रिटर्न दर्ज किया और KOSPI को ट्रैक करने वाले ETFs में पहले स्थान पर रहा।",
+        "body": "सियोल से योनहाप की पत्रकार Ko Eun-ji की रिपोर्ट के अनुसार, Hanwha Asset Management ने बताया कि KOSPI50 सूचकांक को ट्रैक करने वाले ‘PLUS KOSPI50’ एक्सचेंज ट्रेडेड फंड ने पिछले एक वर्ष में 261% वार्षिक रिटर्न दर्ज किया। कंपनी ने कहा कि यह उत्पाद KOSPI को ट्रैक करने वाले ETFs में रिटर्न के आधार पर पहले स्थान पर रहा। यह आंकड़ा KOSPI50 सूचकांक से जुड़े ETFs के प्रदर्शन की तुलना करने वाले निवेशकों के लिए एक प्रमुख संदर्भ बन सकता है। यह रिपोर्ट Hanwha Asset Management की घोषणा पर आधारित है और स्रोत yna.co.kr है।"
+      },
+      "id": {
+        "title": "PLUS KOSPI50 ETF Catat Imbal Hasil 261%, Teratas di ETF Pelacak KOSPI",
+        "excerpt": "Hanwha Asset Management menyatakan ETF ‘PLUS KOSPI50’ mencatat imbal hasil 261% dalam satu tahun terakhir dan menempati posisi pertama di antara ETF pelacak KOSPI.",
+        "body": "Menurut laporan reporter Yonhap Ko Eun-ji dari Seoul, Hanwha Asset Management menyatakan bahwa reksa dana yang diperdagangkan di bursa ‘PLUS KOSPI50’, yang mengikuti indeks KOSPI50, mencatat imbal hasil tahunan 261% dalam satu tahun terakhir. Perusahaan menjelaskan bahwa produk ini menempati peringkat pertama dalam imbal hasil di antara ETF yang mengikuti KOSPI. Angka tersebut dapat menjadi acuan utama bagi investor yang membandingkan kinerja ETF terkait indeks KOSPI50. Laporan ini didasarkan pada pengumuman Hanwha Asset Management, dengan sumber yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "779e479031b9",
     "slug": "외국환시세5월8일마감가-595060",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Foodnamoo Putuskan Rights Issue Pihak Ketiga Senilai KRW 1 Miliar untuk Dana Operasional",
         "excerpt": "Perusahaan Kosdaq Foodnamoo mengumumkan pada tanggal 8 bahwa mereka memutuskan penambahan modal disetor melalui alokasi pihak ketiga untuk menghimpun sekitar KRW 1 miliar bagi dana operasional.",
         "body": "Foodnamoo[290720], perusahaan yang tercatat di Kosdaq, menyampaikan dalam keterbukaan informasi pada tanggal 8 bahwa mereka memutuskan melakukan penambahan modal disetor melalui alokasi kepada pihak ketiga senilai sekitar KRW 1 miliar untuk memperoleh dana operasional dan kebutuhan lainnya. Tujuan yang diumumkan adalah mengamankan dana untuk operasional perusahaan serta penggunaan terkait. Nilai penghimpunan dana sekitar KRW 1 miliar, dengan alokasi kepada pihak ketiga, bukan kepada pemegang saham lama. Keputusan ini merupakan keterbukaan pasar terkait rencana pendanaan dan pengelolaan dana Foodnamoo. Investor perlu memantau pengumuman lanjutan serta rincian penggunaan dana. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "de5563402be9",
-    "slug": "삼성바이오-노사-논의-이어가기로사측은-노조-간부-고소종합2보-859151",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T22:16:38.272Z",
-    "updatedAt": "2026-05-08T22:16:38.272Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507110652017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507110652017",
-    "titleFingerprint": "c1a4ef537455937f3786952a4de3ae268affde30",
-    "dedupKeys": [
-      "de5563402be91f5d16acced427227bac5a2a645f",
-      "c1a4ef537455937f3786952a4de3ae268affde30",
-      "22865e658a85395354aeddda3b055ed50a76a466"
-    ],
-    "imageUrl": "/images/articles/de5563402be9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성바이오 노사, 임금·인사 갈등 논의 계속…사측 노조 간부 고소",
-        "excerpt": "삼성바이오로직스 노사가 8일 임금 인상과 인사 제도 개선을 둘러싼 갈등을 논의하기 위해 다시 만났고, 사측은 노조 간부를 고소했다.",
-        "body": "삼성바이오로직스 노사는 8일 임금 인상과 인사 제도 개선 등을 둘러싼 갈등을 논의하기 위해 다시 만났다. 양측은 현안에 대한 논의를 이어가기로 했으나, 같은 사안의 긴장도는 계속 남아 있다. 원문 요약에 따르면 갈등의 핵심은 임금 인상과 인사 제도 개선이며, 구체적인 합의 내용이나 관련 수치는 제시되지 않았다. 특히 사측이 노조 간부를 고소한 사실이 함께 전해지면서 향후 대화의 분위기와 노사 관계 전개가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Samsung Bio Labor Talks to Continue as Company Sues Union Officials",
-        "excerpt": "Samsung Biologics labor and management met again on the 8th to discuss disputes over wage increases and personnel system reforms, while the company sued union officials.",
-        "body": "Samsung Biologics labor and management met again on the 8th to discuss disputes over wage increases and improvements to the personnel system. The two sides decided to continue talks on the pending issues, but tensions surrounding the same agenda remain. According to the source summary, the core points of conflict are wage increases and personnel system reform, while no specific agreement details or related figures were provided. The report also said the company filed a complaint against union officials, drawing attention to how future dialogue and labor-management relations may unfold. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "サムスンバイオ労使、賃金・人事対立で協議継続…会社は組合幹部を告訴",
-        "excerpt": "サムスンバイオロジクスの労使は8日、賃上げと人事制度改善をめぐる対立を協議するため再び会い、会社側は組合幹部を告訴した。",
-        "body": "サムスンバイオロジクスの労使は8日、賃金引き上げと人事制度の改善などをめぐる対立について協議するため、再び会合を開いた。双方は懸案に関する話し合いを続けることにしたが、同じ争点をめぐる緊張は残っている。原文の要約によると、対立の中心は賃上げと人事制度改善であり、具体的な合意内容や関連数値は示されていない。特に会社側が組合幹部を告訴した事実も伝えられ、今後の対話の雰囲気と労使関係の展開が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "三星生物劳资将继续讨论薪资与人事争议，公司起诉工会干部",
-        "excerpt": "三星生物制剂劳资双方8日再次会面，讨论围绕加薪和人事制度改善的争议，同时公司方面已起诉工会干部。",
-        "body": "三星生物制剂劳资双方8日再次会面，就加薪和人事制度改善等问题引发的争议进行讨论。双方决定继续就相关议题展开磋商，但围绕同一事项的紧张局面仍然存在。根据原文摘要，争议核心是加薪和人事制度改善，摘要中未提出具体协议内容或相关数字。与此同时，公司方面起诉工会干部的消息也一并传出，因此后续对话氛围以及劳资关系走向受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Samsung Bio seguirá el diálogo laboral por salarios y personal; demanda a sindicalistas",
-        "excerpt": "La dirección y el sindicato de Samsung Biologics se reunieron de nuevo el día 8 para tratar disputas por aumentos salariales y mejoras del sistema de personal.",
-        "body": "La dirección y el sindicato de Samsung Biologics se reunieron de nuevo el día 8 para discutir el conflicto en torno a los aumentos salariales y la mejora del sistema de personal. Ambas partes decidieron continuar las conversaciones sobre los asuntos pendientes, aunque la tensión sobre los mismos temas sigue presente. Según el resumen original, el eje del conflicto son los salarios y la reforma del sistema de personal, sin que se indicaran acuerdos concretos ni cifras relacionadas. También se informó que la empresa presentó una denuncia contra dirigentes sindicales, por lo que se observa el rumbo del diálogo y de las relaciones laborales. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Bio mantém diálogo trabalhista sobre salários e pessoal; empresa processa sindicalistas",
-        "excerpt": "A Samsung Biologics e o sindicato voltaram a se reunir no dia 8 para discutir aumentos salariais e melhorias no sistema de pessoal, enquanto a empresa denunciou dirigentes sindicais.",
-        "body": "A Samsung Biologics e representantes dos trabalhadores voltaram a se reunir no dia 8 para discutir o conflito envolvendo aumentos salariais e melhorias no sistema de pessoal. As partes decidiram continuar as conversas sobre as questões pendentes, mas a tensão em torno dos mesmos temas permanece. Segundo o resumo original, o centro da disputa está nos salários e na reforma do sistema de pessoal, sem detalhes de acordo ou números relacionados. O relato também informou que a empresa denunciou dirigentes sindicais, o que aumenta a atenção sobre o clima das próximas negociações e o rumo das relações trabalhistas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Samsung Bio setzt Gespräche über Löhne und Personal fort; Firma verklagt Gewerkschafter",
-        "excerpt": "Samsung Biologics und die Arbeitnehmerseite trafen sich am 8. erneut, um Konflikte über Lohnerhöhungen und Verbesserungen des Personalsystems zu besprechen.",
-        "body": "Samsung Biologics und die Arbeitnehmerseite kamen am 8. erneut zusammen, um den Konflikt über Lohnerhöhungen und Verbesserungen des Personalsystems zu besprechen. Beide Seiten beschlossen, die Gespräche über die offenen Punkte fortzusetzen, doch die Spannungen rund um dieselben Themen bleiben bestehen. Laut der ursprünglichen Zusammenfassung liegen die Kernpunkte des Streits bei Löhnen und Reformen des Personalsystems; konkrete Einigungsdetails oder Zahlen wurden nicht genannt. Zugleich wurde berichtet, dass das Unternehmen Gewerkschaftsfunktionäre angezeigt hat, wodurch der weitere Verlauf des Dialogs und der Arbeitsbeziehungen im Fokus steht. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Bio poursuit les discussions sur salaires et personnel; plainte contre des syndicalistes",
-        "excerpt": "Samsung Biologics et ses représentants syndicaux se sont retrouvés le 8 pour discuter des hausses salariales et de l’amélioration du système de gestion du personnel.",
-        "body": "Samsung Biologics et la partie syndicale se sont de nouveau réunies le 8 afin de discuter du conflit portant sur les hausses salariales et l’amélioration du système de gestion du personnel. Les deux parties ont décidé de poursuivre les échanges sur les dossiers en suspens, mais les tensions autour de ces sujets demeurent. Selon le résumé original, le cœur du différend concerne les salaires et la réforme du système de personnel, sans détail d’accord ni chiffre associé. Il a aussi été rapporté que l’entreprise a porté plainte contre des responsables syndicaux, ce qui attire l’attention sur le climat des prochains échanges et l’évolution des relations sociales. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ بايو تواصل محادثات الأجور والموارد البشرية والشركة تقاضي مسؤولي النقابة",
-        "excerpt": "اجتمع طرفا العمل والإدارة في سامسونغ بايولوجكس مجددا في 8 لبحث الخلاف حول زيادة الأجور وتحسين نظام شؤون الموظفين، بينما رفعت الشركة شكوى ضد مسؤولي نقابة.",
-        "body": "اجتمع طرفا العمل والإدارة في سامسونغ بايولوجكس مجددا في 8 لبحث الخلاف المتعلق بزيادة الأجور وتحسين نظام شؤون الموظفين. وقرر الجانبان مواصلة النقاش بشأن القضايا القائمة، لكن التوتر حول الموضوعات نفسها لا يزال قائما. وبحسب ملخص المصدر، يتمحور الخلاف حول زيادة الأجور وإصلاح نظام شؤون الموظفين، من دون تقديم تفاصيل عن اتفاق محدد أو أرقام ذات صلة. كما ورد أن الشركة رفعت شكوى ضد مسؤولين في النقابة، ما يسلط الضوء على أجواء الحوار المقبلة ومسار علاقات العمل. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "सैमसंग बायो में वेतन और कार्मिक विवाद पर बातचीत जारी, कंपनी ने यूनियन नेताओं पर शिकायत की",
-        "excerpt": "सैमसंग बायोलॉजिक्स के श्रम और प्रबंधन पक्ष 8 तारीख को वेतन वृद्धि और कार्मिक प्रणाली सुधार से जुड़े विवाद पर फिर मिले, जबकि कंपनी ने यूनियन पदाधिकारियों के खिलाफ शिकायत की।",
-        "body": "सैमसंग बायोलॉजिक्स के श्रम और प्रबंधन पक्ष 8 तारीख को वेतन वृद्धि और कार्मिक प्रणाली में सुधार से जुड़े विवाद पर चर्चा के लिए फिर मिले। दोनों पक्ष लंबित मुद्दों पर बातचीत जारी रखने पर सहमत हुए, लेकिन उन्हीं विषयों को लेकर तनाव बना हुआ है। मूल सारांश के अनुसार विवाद का केंद्र वेतन वृद्धि और कार्मिक प्रणाली सुधार है, जबकि किसी ठोस समझौते या संबंधित आंकड़ों का उल्लेख नहीं किया गया। साथ ही यह भी बताया गया कि कंपनी ने यूनियन पदाधिकारियों के खिलाफ शिकायत दर्ज कराई है, जिससे आगे की बातचीत और श्रम-प्रबंधन संबंधों की दिशा पर ध्यान गया है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Samsung Bio Lanjutkan Dialog Upah dan Personalia; Perusahaan Gugat Pengurus Serikat",
-        "excerpt": "Manajemen dan pekerja Samsung Biologics kembali bertemu pada tanggal 8 untuk membahas konflik soal kenaikan upah dan perbaikan sistem personalia, sementara perusahaan menggugat pengurus serikat.",
-        "body": "Manajemen dan pihak pekerja Samsung Biologics kembali bertemu pada tanggal 8 untuk membahas konflik terkait kenaikan upah dan perbaikan sistem personalia. Kedua pihak memutuskan untuk melanjutkan pembahasan atas isu yang tertunda, tetapi ketegangan seputar agenda yang sama masih tersisa. Menurut ringkasan sumber, inti konflik adalah kenaikan upah dan perbaikan sistem personalia, tanpa rincian kesepakatan atau angka terkait yang disampaikan. Laporan itu juga menyebut perusahaan menggugat pengurus serikat, sehingga arah dialog berikutnya dan hubungan industrial menjadi perhatian. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "345b80968d9e",
-    "slug": "신상잇슈-매일유업-엠즈씨드-폴바셋-한정판-머그컵하림-치킨왕라면-454558",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T22:15:42.047Z",
-    "updatedAt": "2026-05-08T22:15:42.047Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508068000030",
-    "titleFingerprint": "1be39da20e70036c8d581976162e31275cdaa238",
-    "dedupKeys": [
-      "345b80968d9e5c0f4e8a071328ee19428e73843a",
-      "1be39da20e70036c8d581976162e31275cdaa238",
-      "258a31da726e514333ba51600ae854aa3ebd195c"
-    ],
-    "imageUrl": "/images/articles/345b80968d9e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "폴 바셋 한정판 머그컵 2종 출시, 하림 치킨왕라면도 신상 주목",
-        "excerpt": "매일유업 관계사 엠즈씨드가 운영하는 폴 바셋은 테이블웨어 브랜드 소일베이커와 협업해 한정판 머그컵 2종을 선보였고, 하림 치킨왕라면도 신제품으로 소개됐다.",
-        "body": "매일유업 관계사 엠즈씨드가 운영하는 커피 전문점 폴 바셋은 테이블웨어 브랜드 소일베이커와 협업해 한정판 머그컵 2종을 출시했다. 이번 제품은 폴 바셋 브랜드와 소일베이커의 테이블웨어 협업 상품으로 소개됐다. 함께 언급된 하림 치킨왕라면도 신상품 소식에 포함됐다. 식음료 업계가 브랜드 협업과 한정판 제품을 통해 소비자 접점을 넓히는 가운데, 이번 신제품은 머그컵과 라면 카테고리에서 각각 주목받고 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Paul Bassett Releases Two Limited Mugs as Harim Chicken King Ramen Draws Attention",
-        "excerpt": "Paul Bassett, operated by Maeil Dairies affiliate M’s Seed, introduced two limited-edition mugs in collaboration with tableware brand Soil Baker, while Harim Chicken King Ramen was also featured as a new product.",
-        "body": "Paul Bassett, the coffee chain operated by Maeil Dairies affiliate M’s Seed, has released two limited-edition mugs in collaboration with tableware brand Soil Baker. The products were introduced as a joint tableware item combining the Paul Bassett brand with Soil Baker. Harim Chicken King Ramen was also included in the new-product roundup. As food and beverage companies use brand collaborations and limited items to expand consumer touchpoints, these new products are drawing notice in the mug and ramen categories. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ポール・バセット限定マグ2種発売、ハリムのチキン王ラーメンも新商品で注目",
-        "excerpt": "毎日乳業の関係会社エムズシードが運営するポール・バセットは、テーブルウェアブランドのソイルベイカーと協業し、限定版マグカップ2種を発売した。ハリムのチキン王ラーメンも新商品として紹介された。",
-        "body": "毎日乳業の関係会社エムズシードが運営するコーヒー専門店ポール・バセットは、テーブルウェアブランドのソイルベイカーと協業し、限定版マグカップ2種を発売した。今回の商品は、ポール・バセットのブランドとソイルベイカーによるテーブルウェア協業商品として紹介された。あわせて、ハリムのチキン王ラーメンも新商品情報に含まれた。食品・飲料業界がブランド協業と限定商品で消費者接点を広げる中、今回の新商品はマグカップとラーメンの各カテゴリーで注目されている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Paul Bassett推出两款限量马克杯，Harim鸡王拉面新品受关注",
-        "excerpt": "每日乳业关联公司M’s Seed运营的Paul Bassett与餐桌用品品牌Soil Baker合作，推出两款限量版马克杯；Harim鸡王拉面也作为新品被介绍。",
-        "body": "每日乳业关联公司M’s Seed运营的咖啡品牌Paul Bassett与餐桌用品品牌Soil Baker合作，推出两款限量版马克杯。该产品被介绍为Paul Bassett品牌与Soil Baker共同推出的餐桌用品合作商品。同时，Harim鸡王拉面也被列入新品消息。随着食品饮料行业通过品牌合作和限量产品扩大与消费者的接触点，本次新品分别在马克杯和拉面品类中受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Paul Bassett lanza dos tazas limitadas y Harim Chicken King Ramen gana foco",
-        "excerpt": "Paul Bassett, operado por M’s Seed, filial de Maeil Dairies, presentó dos tazas de edición limitada junto con la marca de vajilla Soil Baker, mientras Harim Chicken King Ramen también fue citado como novedad.",
-        "body": "Paul Bassett, la cadena de café operada por M’s Seed, filial de Maeil Dairies, lanzó dos tazas de edición limitada en colaboración con la marca de vajilla Soil Baker. Los productos fueron presentados como una colaboración de mesa entre la marca Paul Bassett y Soil Baker. Harim Chicken King Ramen también fue incluido en el resumen de nuevos productos. En un mercado de alimentos y bebidas que amplía el contacto con consumidores mediante colaboraciones y ediciones limitadas, estas novedades atraen atención en las categorías de tazas y ramen. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Paul Bassett lança duas canecas limitadas e Harim Chicken King Ramen chama atenção",
-        "excerpt": "A Paul Bassett, operada pela M’s Seed, afiliada da Maeil Dairies, apresentou duas canecas de edição limitada em parceria com a marca de mesa Soil Baker; o Harim Chicken King Ramen também apareceu como novidade.",
-        "body": "A Paul Bassett, rede de cafés operada pela M’s Seed, afiliada da Maeil Dairies, lançou duas canecas de edição limitada em colaboração com a marca de artigos de mesa Soil Baker. Os produtos foram apresentados como uma parceria de tableware entre a marca Paul Bassett e a Soil Baker. O Harim Chicken King Ramen também foi incluído nas notícias de novos produtos. Enquanto o setor de alimentos e bebidas amplia pontos de contato com consumidores por meio de colaborações e itens limitados, as novidades chamam atenção nas categorias de canecas e ramen. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Paul Bassett bringt zwei limitierte Becher, Harim Chicken King Ramen im Fokus",
-        "excerpt": "Paul Bassett, betrieben von M’s Seed, einer verbundenen Gesellschaft von Maeil Dairies, stellte mit der Tableware-Marke Soil Baker zwei limitierte Becher vor; auch Harim Chicken King Ramen wurde als Neuheit genannt.",
-        "body": "Paul Bassett, die von M’s Seed, einer verbundenen Gesellschaft von Maeil Dairies, betriebene Kaffeekette, hat in Zusammenarbeit mit der Tableware-Marke Soil Baker zwei limitierte Becher herausgebracht. Die Produkte wurden als gemeinsame Tableware-Artikel der Marke Paul Bassett und Soil Baker vorgestellt. Harim Chicken King Ramen wurde ebenfalls in die Meldung zu neuen Produkten aufgenommen. Während Lebensmittel- und Getränkeunternehmen über Markenkooperationen und limitierte Produkte mehr Kontaktpunkte zu Verbrauchern schaffen, stehen diese Neuheiten in den Kategorien Becher und Ramen im Blick. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Paul Bassett lance deux mugs limités, Harim Chicken King Ramen attire l’attention",
-        "excerpt": "Paul Bassett, exploité par M’s Seed, société liée à Maeil Dairies, a présenté deux mugs en édition limitée avec la marque d’art de la table Soil Baker; Harim Chicken King Ramen figure aussi parmi les nouveautés.",
-        "body": "Paul Bassett, chaîne de cafés exploitée par M’s Seed, société liée à Maeil Dairies, a lancé deux mugs en édition limitée en collaboration avec la marque d’art de la table Soil Baker. Les produits ont été présentés comme une collaboration de tableware entre Paul Bassett et Soil Baker. Harim Chicken King Ramen a également été inclus dans les nouvelles annonces de produits. Alors que le secteur agroalimentaire élargit ses points de contact avec les consommateurs grâce aux collaborations de marques et aux éditions limitées, ces nouveautés retiennent l’attention dans les catégories mugs et ramen. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بول باسيت يطرح كوبين محدودين وهاريم تشيكن كينغ رامن ضمن المنتجات الجديدة",
-        "excerpt": "طرحت بول باسيت، التي تديرها M’s Seed التابعة لماييل للألبان، كوبين محدودي الإصدار بالتعاون مع علامة أدوات المائدة Soil Baker، كما ورد هاريم تشيكن كينغ رامن ضمن المنتجات الجديدة.",
-        "body": "أطلقت سلسلة القهوة بول باسيت، التي تديرها M’s Seed التابعة لماييل للألبان، كوبين محدودي الإصدار بالتعاون مع علامة أدوات المائدة Soil Baker. وقد قُدم المنتجان بوصفهما ثمرة تعاون بين علامة بول باسيت وSoil Baker في فئة أدوات المائدة. كما أُدرج هاريم تشيكن كينغ رامن ضمن أخبار المنتجات الجديدة. ومع توجه شركات الأغذية والمشروبات إلى توسيع نقاط التواصل مع المستهلكين عبر التعاونات والمنتجات المحدودة، تحظى هذه الإصدارات باهتمام في فئتي الأكواب والرامن. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Paul Bassett ने दो सीमित मग उतारे, Harim Chicken King Ramen भी नई पेशकश में शामिल",
-        "excerpt": "Maeil Dairies से जुड़ी M’s Seed द्वारा संचालित Paul Bassett ने टेबलवेयर ब्रांड Soil Baker के साथ दो सीमित संस्करण मग पेश किए, जबकि Harim Chicken King Ramen भी नए उत्पाद के रूप में सामने आया।",
-        "body": "Maeil Dairies से जुड़ी M’s Seed द्वारा संचालित कॉफी चेन Paul Bassett ने टेबलवेयर ब्रांड Soil Baker के साथ सहयोग में दो सीमित संस्करण मग लॉन्च किए। इन उत्पादों को Paul Bassett ब्रांड और Soil Baker की संयुक्त टेबलवेयर पेशकश के रूप में बताया गया। इसी खबर में Harim Chicken King Ramen को भी नए उत्पादों में शामिल किया गया। खाद्य और पेय कंपनियां ब्रांड सहयोग और सीमित संस्करण उत्पादों के जरिए उपभोक्ताओं तक पहुंच बढ़ा रही हैं, और ये नए उत्पाद मग तथा रैमन श्रेणियों में ध्यान खींच रहे हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Paul Bassett Rilis Dua Mug Terbatas, Harim Chicken King Ramen Ikut Disorot",
-        "excerpt": "Paul Bassett, yang dioperasikan M’s Seed afiliasi Maeil Dairies, meluncurkan dua mug edisi terbatas bersama merek tableware Soil Baker, sementara Harim Chicken King Ramen juga disebut sebagai produk baru.",
-        "body": "Paul Bassett, jaringan kedai kopi yang dioperasikan oleh M’s Seed, afiliasi Maeil Dairies, meluncurkan dua mug edisi terbatas hasil kolaborasi dengan merek tableware Soil Baker. Produk ini diperkenalkan sebagai barang tableware kolaboratif antara merek Paul Bassett dan Soil Baker. Harim Chicken King Ramen juga masuk dalam kabar produk baru. Saat industri makanan dan minuman memperluas titik temu dengan konsumen melalui kolaborasi merek dan produk terbatas, peluncuran ini menarik perhatian di kategori mug dan ramen. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "844e6bb28d0b",
-    "slug": "금주핫템-코오롱fnc-슈즈라인업블랙야크-에어로프레쉬-114911",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T22:14:52.639Z",
-    "updatedAt": "2026-05-08T22:14:52.639Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "titleFingerprint": "74cd4ca220fe9ffa2923f101e64d691306151c93",
-    "dedupKeys": [
-      "844e6bb28d0b64c0276094b6270c124773101f33",
-      "74cd4ca220fe9ffa2923f101e64d691306151c93",
-      "e4d4c2aeaac480a2b86fdbe314fed55361789e12"
-    ],
-    "imageUrl": "/images/articles/844e6bb28d0b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "슈콤마보니 여름 슈즈 라인업 출시, 스트랩 플랫 앞세운 금주 패션 핫템",
-        "excerpt": "코오롱인더스트리FnC부문이 전개하는 컨템포러리 슈즈 브랜드 슈콤마보니가 여름철을 맞아 스트랩 플랫 등을 포함한 슈즈 라인업을 출시했다.",
-        "body": "코오롱인더스트리FnC부문이 전개하는 컨템포러리 슈즈 브랜드 슈콤마보니가 여름철을 맞아 새 ‘슈즈 라인업’을 선보였다. 이번 라인업은 스트랩 플랫을 중심으로 여름 시즌에 맞춘 상품군으로 소개됐다. 원문 제목에는 코오롱FnC의 슈즈 라인업과 함께 블랙야크 ‘에어로프레쉬’도 금주 핫템으로 언급됐다. 패션·아웃도어 업계가 계절 수요에 맞춰 신상품을 전면에 내세우는 흐름 속에서, 이번 출시는 여름철 소비자 선택지를 넓히는 사례로 볼 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Suecomma Bonnie Launches Summer Shoe Lineup Led by Strap Flats",
-        "excerpt": "Suecomma Bonnie, the contemporary shoe brand operated by Kolon Industries FnC, has launched a summer shoe lineup featuring strap flats for the season.",
-        "body": "Suecomma Bonnie, the contemporary shoe brand operated by Kolon Industries FnC, has introduced a new “shoe lineup” for the summer season. The lineup is presented around strap flats and other seasonal footwear items suited to warmer weather. The original headline also names Blackyak’s “Aero Fresh” alongside Kolon FnC’s shoe lineup as one of this week’s hot items. As fashion and outdoor brands highlight new products in response to seasonal demand, the launch adds another option for summer consumers. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "シュコムマボニー、夏向けシューズラインアップ発売 ストラップフラット中心",
-        "excerpt": "コーロンインダストリーFnC部門が展開するコンテンポラリーシューズブランド、シュコムマボニーが夏に合わせてシューズラインアップを発売した。",
-        "body": "コーロンインダストリーFnC部門が展開するコンテンポラリーシューズブランド、シュコムマボニーが夏シーズンに合わせて新たな「シューズラインアップ」を発売した。今回のラインアップはストラップフラットを中心に、夏向けの商品群として紹介された。原文の見出しでは、コーロンFnCのシューズラインアップとともにブラックヤクの「エアロフレッシュ」も今週の注目商品として言及されている。ファッション・アウトドア業界が季節需要に合わせて新商品を前面に出す流れの中、今回の発売は夏の消費者の選択肢を広げる事例といえる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Suecomma Bonnie推出夏季鞋履阵容，以绑带平底鞋为主打",
-        "excerpt": "Kolon Industries FnC部门运营的当代鞋履品牌Suecomma Bonnie迎接夏季，推出包含绑带平底鞋在内的鞋履阵容。",
-        "body": "Kolon Industries FnC部门运营的当代鞋履品牌Suecomma Bonnie迎接夏季，推出新的“鞋履阵容”。该阵容以绑带平底鞋为中心，被介绍为适合夏季的产品组合。原文标题还将Blackyak的“Aero Fresh”与Kolon FnC的鞋履阵容一同列为本周热门单品。在时尚和户外行业顺应季节需求推出新品的背景下，此次发布可视为扩大夏季消费者选择的案例。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Suecomma Bonnie lanza línea de calzado de verano con bailarinas de tiras",
-        "excerpt": "Suecomma Bonnie, marca contemporánea de calzado de Kolon Industries FnC, presentó una línea de verano que incluye bailarinas de tiras para la temporada.",
-        "body": "Suecomma Bonnie, la marca contemporánea de calzado operada por la división FnC de Kolon Industries, presentó una nueva “línea de calzado” para la temporada de verano. La propuesta se centra en bailarinas de tiras y otros productos adaptados al periodo estival. El titular original también menciona “Aero Fresh” de Blackyak junto con la línea de calzado de Kolon FnC como uno de los artículos destacados de la semana. En un contexto en el que las marcas de moda y outdoor impulsan novedades según la demanda estacional, el lanzamiento amplía las opciones para los consumidores de verano. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Suecomma Bonnie lança linha de calçados de verão com flats de tiras",
-        "excerpt": "A Suecomma Bonnie, marca contemporânea de calçados da Kolon Industries FnC, lançou uma linha de verão com modelos como flats de tiras para a estação.",
-        "body": "A Suecomma Bonnie, marca contemporânea de calçados operada pela divisão FnC da Kolon Industries, apresentou uma nova “linha de calçados” para o verão. A linha é apresentada com foco em flats de tiras e em produtos pensados para a temporada mais quente. O título original também cita o “Aero Fresh” da Blackyak ao lado da linha de calçados da Kolon FnC como um dos destaques da semana. Em meio ao movimento de marcas de moda e outdoor que promovem novidades conforme a demanda sazonal, o lançamento amplia as opções para consumidores no verão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Suecomma Bonnie startet Sommer-Schuhlinie mit Strap-Flats im Fokus",
-        "excerpt": "Suecomma Bonnie, die Contemporary-Schuhmarke der Kolon Industries FnC-Sparte, hat zum Sommer eine Schuhlinie mit Strap-Flats vorgestellt.",
-        "body": "Suecomma Bonnie, die Contemporary-Schuhmarke der FnC-Sparte von Kolon Industries, hat zur Sommersaison eine neue „Schuhlinie“ vorgestellt. Im Mittelpunkt der Linie stehen Strap-Flats sowie weitere auf die warme Jahreszeit ausgerichtete Produkte. In der Originalüberschrift wird neben der Schuhlinie von Kolon FnC auch Blackyaks „Aero Fresh“ als Hot Item der Woche genannt. Während Mode- und Outdoor-Marken neue Produkte passend zur saisonalen Nachfrage hervorheben, erweitert diese Einführung die Auswahl für Verbraucher im Sommer. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Suecomma Bonnie lance sa ligne de chaussures d’été, avec des flats à brides",
-        "excerpt": "Suecomma Bonnie, marque de chaussures contemporaine de Kolon Industries FnC, a lancé pour l’été une gamme comprenant notamment des flats à brides.",
-        "body": "Suecomma Bonnie, la marque de chaussures contemporaine exploitée par la division FnC de Kolon Industries, a présenté une nouvelle « ligne de chaussures » pour la saison estivale. Cette gamme met en avant des flats à brides et des produits adaptés à l’été. Le titre original mentionne aussi « Aero Fresh » de Blackyak aux côtés de la ligne de chaussures de Kolon FnC parmi les articles phares de la semaine. Alors que les marques de mode et d’outdoor mettent en avant de nouveaux produits selon la demande saisonnière, ce lancement élargit les choix offerts aux consommateurs pour l’été. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "سوكمّا بوني تطلق تشكيلة أحذية صيفية تتصدرها الأحذية المسطحة ذات الأشرطة",
-        "excerpt": "أطلقت سوكمّا بوني، علامة الأحذية المعاصرة التابعة لقسم FnC في كولون إندستريز، تشكيلة صيفية تضم أحذية مسطحة ذات أشرطة.",
-        "body": "أطلقت سوكمّا بوني، علامة الأحذية المعاصرة التي يديرها قسم FnC في كولون إندستريز، “تشكيلة أحذية” جديدة لموسم الصيف. وتتمحور التشكيلة حول الأحذية المسطحة ذات الأشرطة ومنتجات مناسبة للموسم الحار. كما يشير العنوان الأصلي إلى منتج “إيرو فريش” من بلاك ياك إلى جانب تشكيلة أحذية كولون FnC باعتبارهما من أبرز منتجات هذا الأسبوع. وفي ظل إبراز شركات الموضة والمنتجات الخارجية لسلع جديدة تواكب الطلب الموسمي، تضيف هذه الخطوة خيارات أوسع أمام المستهلكين في الصيف. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Suecomma Bonnie ने स्ट्रैप फ्लैट्स के साथ समर शू लाइनअप लॉन्च किया",
-        "excerpt": "Kolon Industries FnC द्वारा संचालित समकालीन फुटवियर ब्रांड Suecomma Bonnie ने गर्मियों के लिए स्ट्रैप फ्लैट्स सहित नया शू लाइनअप पेश किया।",
-        "body": "Kolon Industries FnC विभाग द्वारा संचालित समकालीन फुटवियर ब्रांड Suecomma Bonnie ने गर्मियों के मौसम को ध्यान में रखते हुए नया “शू लाइनअप” पेश किया है। इस लाइनअप में स्ट्रैप फ्लैट्स को केंद्र में रखा गया है और इसे गर्मियों के लिए उपयुक्त उत्पाद समूह के रूप में बताया गया है। मूल शीर्षक में Kolon FnC के शू लाइनअप के साथ Blackyak के “Aero Fresh” को भी इस सप्ताह के हॉट आइटम के रूप में उल्लेखित किया गया है। फैशन और आउटडोर उद्योग में मौसमी मांग के अनुरूप नए उत्पादों को आगे रखने की प्रवृत्ति के बीच, यह लॉन्च गर्मियों में उपभोक्ताओं के विकल्प बढ़ाता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Suecomma Bonnie Luncurkan Lini Sepatu Musim Panas dengan Strap Flat",
-        "excerpt": "Suecomma Bonnie, merek sepatu kontemporer di bawah Kolon Industries FnC, meluncurkan lini sepatu musim panas yang mencakup strap flat.",
-        "body": "Suecomma Bonnie, merek sepatu kontemporer yang dijalankan oleh divisi FnC Kolon Industries, memperkenalkan “lini sepatu” baru untuk musim panas. Lini ini diperkenalkan dengan strap flat sebagai fokus utama serta produk yang sesuai untuk musim panas. Judul asli juga menyebut “Aero Fresh” dari Blackyak bersama lini sepatu Kolon FnC sebagai item panas pekan ini. Di tengah langkah merek fesyen dan outdoor menonjolkan produk baru sesuai permintaan musiman, peluncuran ini menambah pilihan bagi konsumen pada musim panas. Sumber: yna.co.kr"
       }
     }
   }
