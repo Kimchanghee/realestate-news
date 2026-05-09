@@ -1,5 +1,230 @@
 [
   {
+    "id": "41e593e64d14",
+    "slug": "밸류업-지수-지난달-사상-최고치-경신코스피-상승률-상회-639386",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T13:41:18.669Z",
+    "updatedAt": "2026-05-09T13:41:18.669Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096300008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096300008",
+    "titleFingerprint": "f8b0d2106d4b392cb9e365ae13be4265c62c4914",
+    "dedupKeys": [
+      "41e593e64d141aa98e9a7c7aa8d8597021a05a34",
+      "f8b0d2106d4b392cb9e365ae13be4265c62c4914",
+      "18768ec7d85b3479d68f6c5e817ea66408d4206d"
+    ],
+    "imageUrl": "/images/articles/41e593e64d14.jpg",
+    "i18n": {
+      "ko": {
+        "title": "밸류업 지수 지난달 사상 최고치 경신, 코스피 상승률 웃돈 흐름 주목",
+        "excerpt": "연합뉴스에 따르면 밸류업 지수는 지난달 역대 최고치를 경신했으며, 같은 기간 코스피 상승률을 상회한 것으로 나타났다.",
+        "body": "밸류업 지수가 지난달 역대 최고치를 경신한 것으로 나타났다. 연합뉴스가 전한 이민영 기자 보도에 따르면 해당 지수는 지난달 사상 최고 수준에 올랐고, 같은 기간 코스피 상승률을 웃돈 흐름을 보였다. 밸류업 지수는 국내 증시에서 기업가치 제고 흐름과 관련해 주목받는 지표로, 이번 최고치 경신은 코스피 흐름과 비교해 상대적으로 높은 상승세가 확인됐다는 점에서 의미가 있다. 다만 원문은 구체적인 지수 수치나 상승 폭은 제시하지 않았다. 향후 시장에서는 밸류업 지수의 상승 흐름이 이어질지와 코스피 대비 강세가 지속될지가 관심사로 남는다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Value-Up Index Hits Record High Last Month, Outpacing Kospi Gains",
+        "excerpt": "According to Yonhap News Agency, the Value-Up Index reached an all-time high last month and outperformed the Kospi’s rate of increase over the same period.",
+        "body": "The Value-Up Index reached an all-time high last month, according to a report by Yonhap News Agency’s Lee Min-young. The index climbed to its highest level on record and showed gains that exceeded the Kospi’s rise during the same period. The Value-Up Index is watched in the Korean stock market in connection with efforts to enhance corporate value, and the latest record is notable because it confirms a stronger relative performance than the broader Kospi. The original report did not provide specific index levels or percentage gains. Market attention is likely to remain on whether the index can maintain its upward trend and continue outperforming the Kospi. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "バリューアップ指数が先月過去最高値、KOSPI上昇率を上回る",
+        "excerpt": "聯合ニュースによると、バリューアップ指数は先月、過去最高値を更新し、同期間のKOSPI上昇率を上回ったことが分かった。",
+        "body": "バリューアップ指数が先月、過去最高値を更新したことが分かった。聯合ニュースのイ・ミニョン記者の報道によると、同指数は先月、史上最高水準に達し、同期間のKOSPI上昇率を上回る動きを示した。バリューアップ指数は韓国株式市場で企業価値向上の流れに関連して注目される指標であり、今回の最高値更新はKOSPIの動きと比べて相対的に高い上昇が確認された点で意味がある。ただし、原文では具体的な指数水準や上昇幅は示されていない。今後は上昇基調が続くか、KOSPIに対する優位が維持されるかが注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "价值提升指数上月创历史新高，涨幅超过韩国综合股指",
+        "excerpt": "据韩联社报道，价值提升指数上月刷新历史最高点，并在同一时期超过韩国综合股价指数的涨幅。",
+        "body": "价值提升指数上月刷新历史最高点。韩联社记者李旼英报道称，该指数在上月升至有史以来最高水平，并表现出超过同期韩国综合股价指数涨幅的走势。价值提升指数是韩国股市中与提升企业价值相关、受到关注的指标，此次创下新高的意义在于，相较于韩国综合股价指数，其相对更强的上涨表现得到确认。不过，原文未列出具体指数点位或涨幅。未来市场关注点将集中在价值提升指数的上升趋势能否延续，以及相对于韩国综合股价指数的强势能否持续。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Índice Value-Up marca récord histórico y supera el avance del Kospi",
+        "excerpt": "Según Yonhap, el índice Value-Up alcanzó el mes pasado un máximo histórico y superó la tasa de subida del Kospi durante el mismo periodo.",
+        "body": "El índice Value-Up alcanzó el mes pasado un máximo histórico, según un reporte de Lee Min-young de Yonhap News Agency. El indicador subió a su nivel más alto registrado y mostró un avance superior al del Kospi durante el mismo periodo. El índice Value-Up es observado en el mercado bursátil surcoreano por su relación con la mejora del valor corporativo, y este nuevo récord es relevante porque confirma un desempeño relativamente más fuerte que el del Kospi. El reporte original no presentó niveles concretos del índice ni porcentajes de aumento. En adelante, la atención del mercado se centrará en si la tendencia alcista continúa y si mantiene su ventaja frente al Kospi. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Índice Value-Up atinge máxima histórica e supera alta do Kospi",
+        "excerpt": "Segundo a Yonhap, o índice Value-Up renovou no mês passado sua máxima histórica e superou a taxa de avanço do Kospi no mesmo período.",
+        "body": "O índice Value-Up atingiu no mês passado sua máxima histórica, segundo reportagem de Lee Min-young, da Yonhap News Agency. O indicador chegou ao nível mais alto já registrado e apresentou desempenho superior ao avanço do Kospi no mesmo período. O índice Value-Up é acompanhado no mercado acionário sul-coreano por sua relação com a valorização das empresas, e a renovação do recorde chama atenção por confirmar uma alta relativamente mais forte que a do Kospi. A reportagem original não informou níveis específicos do índice nem a magnitude da alta. Daqui em diante, o mercado observará se a tendência de alta continuará e se a força frente ao Kospi será mantida. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Value-Up-Index erreicht Rekordhoch und übertrifft Kospi-Anstieg",
+        "excerpt": "Laut Yonhap News Agency erreichte der Value-Up-Index im vergangenen Monat ein Allzeithoch und übertraf im selben Zeitraum die Steigerungsrate des Kospi.",
+        "body": "Der Value-Up-Index hat im vergangenen Monat ein Allzeithoch erreicht. Das berichtete Lee Min-young von der Yonhap News Agency. Demnach stieg der Index auf den höchsten Stand seiner Geschichte und entwickelte sich stärker als der Kospi im selben Zeitraum. Der Value-Up-Index gilt am südkoreanischen Aktienmarkt als beachteter Indikator im Zusammenhang mit Maßnahmen zur Steigerung des Unternehmenswerts. Das neue Rekordhoch ist daher bedeutsam, weil es eine relativ höhere Aufwärtsbewegung gegenüber dem Kospi zeigt. Konkrete Indexstände oder prozentuale Zuwächse nannte der Originalbericht nicht. Im Fokus bleibt, ob der Index seinen Aufwärtstrend fortsetzt und die Stärke gegenüber dem Kospi anhält. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’indice Value-Up atteint un record et dépasse la hausse du Kospi",
+        "excerpt": "Selon Yonhap, l’indice Value-Up a atteint le mois dernier un plus haut historique et a dépassé le rythme de progression du Kospi sur la même période.",
+        "body": "L’indice Value-Up a atteint le mois dernier un plus haut historique, selon un article de Lee Min-young pour Yonhap News Agency. L’indice est monté à son niveau le plus élevé jamais enregistré et a progressé davantage que le Kospi sur la même période. Suivi sur le marché boursier sud-coréen en lien avec les efforts de valorisation des entreprises, l’indice Value-Up attire l’attention car ce record confirme une performance relativement plus forte que celle du Kospi. Le texte d’origine ne précise toutefois pas le niveau exact de l’indice ni l’ampleur de la hausse. Le marché suivra désormais la poursuite éventuelle de cette tendance et le maintien de sa vigueur face au Kospi. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر Value-Up يسجل أعلى مستوى تاريخي ويتجاوز مكاسب كوسبي",
+        "excerpt": "بحسب وكالة يونهاب، سجّل مؤشر Value-Up في الشهر الماضي أعلى مستوى له على الإطلاق، متجاوزا معدل ارتفاع مؤشر كوسبي خلال الفترة نفسها.",
+        "body": "سجّل مؤشر Value-Up في الشهر الماضي أعلى مستوى له على الإطلاق، وفق تقرير أعدته لي مين-يونغ لوكالة يونهاب للأنباء. وارتفع المؤشر إلى أعلى مستوى تاريخي، كما أظهر أداء فاق معدل صعود مؤشر كوسبي خلال الفترة نفسها. ويعد مؤشر Value-Up من المؤشرات التي تحظى بمتابعة في سوق الأسهم الكورية الجنوبية لارتباطه باتجاهات تعزيز قيمة الشركات. وتكتسب هذه القمة الجديدة أهميتها لأنها تؤكد أداء صعوديا أقوى نسبيا مقارنة بمؤشر كوسبي. ولم يذكر التقرير الأصلي مستوى المؤشر بالتحديد أو حجم الزيادة. وستتركز أنظار السوق لاحقا على ما إذا كان المؤشر سيواصل اتجاهه الصاعد وما إذا كانت قوته أمام كوسبي ستستمر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वैल्यू-अप इंडेक्स ने बनाया रिकॉर्ड, कोस्पी की बढ़त को पीछे छोड़ा",
+        "excerpt": "योनहाप के अनुसार, वैल्यू-अप इंडेक्स ने पिछले महीने अब तक का उच्चतम स्तर छुआ और उसी अवधि में कोस्पी की वृद्धि दर से बेहतर प्रदर्शन किया।",
+        "body": "वैल्यू-अप इंडेक्स ने पिछले महीने अब तक का अपना उच्चतम स्तर दर्ज किया। योनहाप न्यूज एजेंसी की ली मिन-यंग की रिपोर्ट के अनुसार, यह सूचकांक रिकॉर्ड ऊंचाई पर पहुंचा और उसी अवधि में कोस्पी की बढ़त से अधिक तेजी दिखी। दक्षिण कोरिया के शेयर बाजार में वैल्यू-अप इंडेक्स को कंपनियों के मूल्य बढ़ाने से जुड़े रुझानों के संदर्भ में देखा जाता है। इसलिए यह नया रिकॉर्ड महत्वपूर्ण है, क्योंकि इससे कोस्पी की तुलना में अपेक्षाकृत मजबूत प्रदर्शन की पुष्टि होती है। मूल रिपोर्ट में सूचकांक का सटीक स्तर या वृद्धि का प्रतिशत नहीं दिया गया। आगे बाजार की नजर इस पर रहेगी कि क्या यह तेजी जारी रहती है और क्या कोस्पी के मुकाबले इसकी मजबूती बनी रहती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Indeks Value-Up Cetak Rekor Tertinggi, Kalahkan Kenaikan Kospi",
+        "excerpt": "Menurut Yonhap, Indeks Value-Up mencetak rekor tertinggi sepanjang masa bulan lalu dan melampaui tingkat kenaikan Kospi pada periode yang sama.",
+        "body": "Indeks Value-Up mencetak rekor tertinggi sepanjang masa bulan lalu, menurut laporan Lee Min-young dari Yonhap News Agency. Indeks tersebut naik ke level tertinggi dalam sejarahnya dan menunjukkan kenaikan yang melampaui Kospi pada periode yang sama. Di pasar saham Korea Selatan, Indeks Value-Up diperhatikan karena terkait dengan arus peningkatan nilai perusahaan. Rekor terbaru ini penting karena menunjukkan kinerja yang relatif lebih kuat dibandingkan pergerakan Kospi. Namun, laporan asli tidak menyebutkan angka indeks secara spesifik maupun besaran kenaikannya. Ke depan, perhatian pasar akan tertuju pada apakah tren kenaikan Indeks Value-Up berlanjut dan apakah penguatannya terhadap Kospi dapat dipertahankan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "193fb1fe8c33",
+    "slug": "한미약품-본부-통합-부문제-도입비만약-전면-강화-140427",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T13:40:10.452Z",
+    "updatedAt": "2026-05-09T13:40:10.452Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508103200017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508103200017",
+    "titleFingerprint": "9a85f4bc3fd1680fc0fe18ea9807cf927ea0419c",
+    "dedupKeys": [
+      "193fb1fe8c33e98cb435d45e1106bcd0be791090",
+      "9a85f4bc3fd1680fc0fe18ea9807cf927ea0419c",
+      "17c0e13b33eaff5be3c37172b5f0fcc55a715abf"
+    ],
+    "imageUrl": "/images/articles/193fb1fe8c33.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한미약품, 본부 통합 ‘부문제’ 도입…비만약 사업 전면 강화",
+        "excerpt": "한미약품은 급변하는 글로벌 제약·바이오 시장에 대응하고 사업 목표를 효율적으로 달성하기 위해 본부를 통합한 ‘부문제’를 도입하고 비만약 역량을 강화한다.",
+        "body": "한미약품은 급변하는 글로벌 제약·바이오 시장 환경에 대응하고 사업 목표를 효율적으로 달성하기 위해 본부를 통합한 ‘부문제’를 도입했다. 이번 조직 개편은 기존 본부 단위 운영을 부문 중심 체계로 묶어 의사결정과 실행 효율을 높이는 데 초점이 맞춰졌다. 특히 회사는 비만약 관련 사업 역량을 전면 강화하는 방향을 제시했다. 글로벌 제약·바이오 시장 변화가 빨라지는 가운데, 한미약품은 조직 통합을 통해 핵심 사업 추진력을 높이고 시장 대응력을 확보하겠다는 취지다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Hanmi Pharm adopts integrated division system, strengthens obesity drug business",
+        "excerpt": "Hanmi Pharm is introducing an integrated division system to respond to the fast-changing global pharma and biotech market and pursue its business goals more efficiently.",
+        "body": "Hanmi Pharm has introduced an integrated “division system” to respond to the rapidly changing global pharmaceutical and biotech market and achieve its business goals more efficiently. The reorganization brings existing headquarters-level operations into a division-centered structure, with a focus on improving decision-making and execution efficiency. The company also set a direction to fully strengthen its capabilities in the obesity drug business. As global pharma and biotech market conditions shift quickly, Hanmi Pharm aims to enhance momentum in key businesses and secure stronger market responsiveness through organizational integration. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓美薬品、本部統合の「部門制」導入…肥満薬事業を全面強化",
+        "excerpt": "韓美薬品は、急変するグローバル製薬・バイオ市場に対応し事業目標を効率的に達成するため、本部を統合した部門制を導入し肥満薬の競争力を強化する。",
+        "body": "韓美薬品は、急速に変化するグローバル製薬・バイオ市場環境に対応し、事業目標を効率的に達成するため、本部を統合した「部門制」を導入した。今回の組織改編は、従来の本部単位の運営を部門中心の体制にまとめ、意思決定と実行の効率を高めることに重点を置いている。特に同社は、肥満薬関連事業の能力を全面的に強化する方針を示した。市場変化が速まるなか、韓美薬品は組織統合を通じて中核事業の推進力を高め、市場対応力を確保する考えだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩美药品导入总部整合“部门制”，全面强化减肥药业务",
+        "excerpt": "韩美药品为应对快速变化的全球制药与生物市场，并更高效实现业务目标，导入整合总部的部门制，同时强化减肥药相关能力。",
+        "body": "韩美药品为应对快速变化的全球制药与生物市场环境，并更高效实现业务目标，导入了整合总部的“部门制”。此次组织调整的重点，是将原有总部单位运营整合为以部门为中心的体系，以提升决策和执行效率。公司还提出将全面强化减肥药相关业务能力。随着全球制药与生物市场变化加快，韩美药品希望通过组织整合增强核心业务推进力，并提升市场应对能力。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Hanmi Pharm integra sedes en divisiones y refuerza el negocio de fármacos contra la obesidad",
+        "excerpt": "Hanmi Pharm adopta un sistema integrado de divisiones para responder al cambiante mercado farmacéutico y biotecnológico global y alcanzar sus objetivos con mayor eficiencia.",
+        "body": "Hanmi Pharm introdujo un sistema integrado de “divisiones” para responder al rápido cambio del mercado farmacéutico y biotecnológico global y cumplir sus objetivos de negocio con mayor eficiencia. La reorganización agrupa las operaciones que antes se gestionaban por sedes en una estructura centrada en divisiones, con énfasis en mejorar la toma de decisiones y la ejecución. La compañía también señaló que reforzará de forma integral sus capacidades en el negocio de medicamentos contra la obesidad. En un entorno global de cambios acelerados, Hanmi Pharm busca elevar el impulso de sus negocios clave y mejorar su capacidad de respuesta al mercado mediante la integración organizativa. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Hanmi Pharm adota sistema de divisões integradas e reforça área de medicamentos contra obesidade",
+        "excerpt": "A Hanmi Pharm introduz um sistema de divisões integradas para responder ao mercado farmacêutico e biotecnológico global em rápida mudança e cumprir metas com mais eficiência.",
+        "body": "A Hanmi Pharm introduziu um sistema integrado de “divisões” para responder ao ambiente global farmacêutico e biotecnológico em rápida transformação e atingir seus objetivos de negócios com mais eficiência. A reorganização reúne operações antes estruturadas por sedes em um modelo centrado em divisões, com foco em melhorar a tomada de decisão e a execução. A empresa também indicou que reforçará amplamente suas capacidades no negócio de medicamentos contra a obesidade. Em meio à aceleração das mudanças no mercado global, a Hanmi Pharm busca aumentar a força de seus negócios principais e ampliar sua capacidade de resposta por meio da integração organizacional. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Hanmi Pharm führt integrierte Spartenstruktur ein und stärkt Geschäft mit Adipositasmitteln",
+        "excerpt": "Hanmi Pharm führt ein integriertes Spartensystem ein, um auf den schnellen Wandel im globalen Pharma- und Biotechmarkt zu reagieren und Geschäftsziele effizienter zu erreichen.",
+        "body": "Hanmi Pharm hat ein integriertes „Spartensystem“ eingeführt, um auf das sich rasch verändernde globale Pharma- und Biotechmarktumfeld zu reagieren und Geschäftsziele effizienter zu erreichen. Die Umstrukturierung bündelt bisherige Hauptquartier-Einheiten in einer spartenorientierten Struktur und zielt darauf ab, Entscheidungsfindung und Umsetzung effizienter zu gestalten. Besonders will das Unternehmen seine Fähigkeiten im Geschäft mit Medikamenten gegen Adipositas umfassend stärken. Angesichts schneller Marktveränderungen will Hanmi Pharm durch organisatorische Integration die Durchsetzungskraft zentraler Geschäftsbereiche erhöhen und die Reaktionsfähigkeit am Markt sichern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Hanmi Pharm adopte une structure intégrée par divisions et renforce les médicaments contre l’obésité",
+        "excerpt": "Hanmi Pharm met en place un système de divisions intégrées pour répondre au marché pharmaceutique et biotech mondial en rapide évolution et atteindre ses objectifs plus efficacement.",
+        "body": "Hanmi Pharm a introduit un système intégré de « divisions » afin de répondre à l’évolution rapide du marché pharmaceutique et biotechnologique mondial et d’atteindre plus efficacement ses objectifs commerciaux. Cette réorganisation regroupe les opérations auparavant gérées par sièges en une structure centrée sur les divisions, avec l’objectif d’améliorer la prise de décision et l’exécution. L’entreprise a également indiqué qu’elle renforcerait pleinement ses capacités dans les médicaments contre l’obésité. Alors que le marché mondial évolue vite, Hanmi Pharm entend accroître l’élan de ses activités clés et améliorer sa réactivité grâce à l’intégration organisationnelle. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "هانمي فارما تعتمد نظام أقسام مدمجاً وتعزز أعمال أدوية السمنة",
+        "excerpt": "تقدم هانمي فارما نظام أقسام مدمجاً للاستجابة للتغير السريع في سوق الأدوية والتقنيات الحيوية عالمياً وتحقيق أهدافها التجارية بكفاءة أكبر.",
+        "body": "أدخلت هانمي فارما نظاماً مدمجاً قائماً على “الأقسام” للاستجابة لبيئة سوق الأدوية والتقنيات الحيوية العالمية سريعة التغير، ولتحقيق أهداف الأعمال بكفاءة أكبر. ويجمع هذا التعديل التنظيمي العمليات التي كانت تدار على مستوى المقرات ضمن هيكل يركز على الأقسام، مع التركيز على تحسين سرعة اتخاذ القرار وكفاءة التنفيذ. كما أوضحت الشركة أنها ستعزز قدراتها في أعمال أدوية السمنة بصورة شاملة. ومع تسارع تغيرات السوق العالمية، تسعى هانمي فارما من خلال الدمج التنظيمي إلى تقوية دفع أعمالها الأساسية وتحسين قدرتها على الاستجابة للسوق. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Hanmi Pharm ने एकीकृत डिवीजन प्रणाली अपनाई, मोटापा दवा कारोबार को मजबूत करेगी",
+        "excerpt": "Hanmi Pharm ने तेजी से बदलते वैश्विक फार्मा और बायोटेक बाजार का जवाब देने तथा कारोबारी लक्ष्यों को अधिक दक्षता से हासिल करने के लिए एकीकृत डिवीजन प्रणाली शुरू की है।",
+        "body": "Hanmi Pharm ने तेजी से बदलते वैश्विक फार्मास्यूटिकल और बायोटेक बाजार माहौल का जवाब देने तथा अपने कारोबारी लक्ष्यों को अधिक दक्षता से हासिल करने के लिए एकीकृत “डिवीजन प्रणाली” शुरू की है। इस संगठनात्मक बदलाव में मौजूदा मुख्यालय-स्तर के संचालन को डिवीजन-केंद्रित ढांचे में जोड़ा गया है, ताकि निर्णय लेने और क्रियान्वयन की दक्षता बढ़ाई जा सके। कंपनी ने मोटापा दवाओं से जुड़े कारोबार की क्षमताओं को व्यापक रूप से मजबूत करने की दिशा भी बताई है। वैश्विक फार्मा और बायोटेक बाजार में तेज बदलाव के बीच Hanmi Pharm संगठनात्मक एकीकरण के जरिए प्रमुख कारोबारों की गति और बाजार प्रतिक्रिया क्षमता बढ़ाना चाहती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Hanmi Pharm terapkan sistem divisi terintegrasi, perkuat bisnis obat obesitas",
+        "excerpt": "Hanmi Pharm memperkenalkan sistem divisi terintegrasi untuk merespons pasar farmasi dan biotek global yang cepat berubah serta mencapai target bisnis dengan lebih efisien.",
+        "body": "Hanmi Pharm memperkenalkan sistem “divisi” terintegrasi untuk merespons lingkungan pasar farmasi dan biotek global yang berubah cepat serta mencapai tujuan bisnis dengan lebih efisien. Restrukturisasi ini menggabungkan operasi yang sebelumnya berjalan di tingkat kantor pusat ke dalam struktur berbasis divisi, dengan fokus meningkatkan efisiensi pengambilan keputusan dan pelaksanaan. Perusahaan juga menyatakan arah untuk memperkuat sepenuhnya kapabilitas bisnis obat obesitas. Di tengah percepatan perubahan pasar global, Hanmi Pharm berupaya meningkatkan daya dorong bisnis inti dan kemampuan merespons pasar melalui integrasi organisasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dfe0c8ef4e76",
+    "slug": "연합뉴스-이-시각-헤드라인---1430-642410",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T13:39:06.697Z",
+    "updatedAt": "2026-05-09T13:39:06.697Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099800011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099800011",
+    "titleFingerprint": "09cac2862d401b01a0a2539aebb00342c9d5ac8e",
+    "dedupKeys": [
+      "dfe0c8ef4e7610a579344a87602cfcf6eba9ec66",
+      "09cac2862d401b01a0a2539aebb00342c9d5ac8e",
+      "99829b3b5bae25c532fb4f1a6e75b7bd6051769a"
+    ],
+    "imageUrl": "/images/articles/dfe0c8ef4e76.jpg",
+    "i18n": {
+      "ko": {
+        "title": "'채상병 순직' 임성근 징역 3년, 생명위험 등한시 판단 주목",
+        "excerpt": "연합뉴스 14시30분 헤드라인은 ‘채상병 순직’ 사건과 관련해 임성근에게 징역 3년이 선고됐고, 성과를 얻으려 생명위험을 등한시했다는 판단이 나왔다고 전했다.",
+        "body": "연합뉴스가 14시30분 ‘이 시각 헤드라인’으로 전한 내용에 따르면, ‘채상병 순직’ 사건과 관련해 임성근에게 징역 3년이 선고됐다. 보도 요약은 이번 판단의 핵심을 “성과 얻으려 생명위험 등한시”라는 표현으로 제시했다. 원문이 제공한 정보는 사건명, 대상자, 형량, 판단 취지와 출처에 한정된다. 이번 헤드라인은 채상병 순직 사안에서 생명 위험을 어떻게 다뤘는지가 주요 쟁점으로 부각됐음을 보여준다. 향후 관련 보도에서는 판결 내용과 후속 절차가 추가로 다뤄질 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Chae Marine Death Case: Lim Sung-keun Gets 3 Years Over Life-Risk Finding",
+        "excerpt": "Yonhap’s 14:30 headline reported that Lim Sung-keun received a three-year prison sentence in the Chae Marine death case, citing a finding that life risks were disregarded for results.",
+        "body": "According to Yonhap’s 14:30 headline roundup, Lim Sung-keun was sentenced to three years in prison in connection with the death of Marine Chae. The summary presented the central finding with the phrase that he “disregarded risks to life to obtain results.” The source information is limited to the case, the person named, the sentence, the stated reasoning, and the source. The headline indicates that how life-threatening risks were handled has become a key point in the case. Further coverage may address the details of the ruling and any subsequent procedures. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "「チェ上等兵殉職」イム・ソングン氏に懲役3年、生命リスク軽視の判断",
+        "excerpt": "聯合ニュースの14時30分ヘッドラインは、「チェ上等兵殉職」事件をめぐりイム・ソングン氏に懲役3年が言い渡され、成果のため生命リスクを軽視したとの判断を伝えた。",
+        "body": "聯合ニュースが14時30分の「この時刻のヘッドライン」として伝えた内容によると、「チェ上等兵殉職」事件に関連し、イム・ソングン氏に懲役3年が言い渡された。要約は今回の判断の核心を「成果を得るため生命の危険を等閑視した」という表現で示した。原文が提供した情報は、事件名、対象者、刑量、判断の趣旨、出典に限られる。このヘッドラインは、チェ上等兵殉職事案で生命への危険がどう扱われたかが主要な争点として浮上したことを示している。今後の報道では判決内容や後続手続きが追加で扱われる可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "“蔡上兵殉职”案林成根获刑3年，漠视生命风险判断受关注",
+        "excerpt": "韩联社14时30分头条称，围绕“蔡上兵殉职”事件，林成根被判处有期徒刑3年，相关判断指出其为取得成果而漠视生命危险。",
+        "body": "据韩联社14时30分“此刻头条”报道，围绕“蔡上兵殉职”事件，林成根被判处有期徒刑3年。报道摘要将此次判断的核心表述为“为取得成果而漠视生命危险”。原文提供的信息限于事件名称、涉事对象、刑期、判断主旨和来源。该头条显示，在蔡上兵殉职事项中，生命危险如何被对待成为主要焦点。后续报道可能进一步涉及判决内容和相关程序。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Caso de muerte del soldado Chae: Lim Sung-keun recibe 3 años de prisión",
+        "excerpt": "El titular de Yonhap de las 14:30 informó que Lim Sung-keun fue condenado a tres años de prisión por el caso de la muerte del soldado Chae, con una conclusión sobre riesgos vitales ignorados.",
+        "body": "Según el resumen de titulares de Yonhap de las 14:30, Lim Sung-keun fue condenado a tres años de prisión en relación con la muerte del soldado Chae. El resumen presentó el punto central de la decisión con la expresión de que se “desatendieron riesgos para la vida para obtener resultados”. La información original se limita al caso, la persona nombrada, la pena, el sentido de la conclusión y la fuente. El titular muestra que la forma en que se trataron los riesgos para la vida se ha convertido en un punto clave del asunto. Coberturas posteriores podrían abordar el contenido del fallo y los procedimientos siguientes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Caso da morte do soldado Chae: Lim Sung-keun recebe pena de 3 anos",
+        "excerpt": "A manchete da Yonhap das 14h30 informou que Lim Sung-keun foi condenado a três anos de prisão no caso da morte do soldado Chae, com avaliação de que riscos à vida foram ignorados.",
+        "body": "Segundo a rodada de manchetes da Yonhap das 14h30, Lim Sung-keun foi condenado a três anos de prisão em relação à morte do soldado Chae. O resumo apresentou o ponto central da decisão com a expressão de que ele “desconsiderou riscos à vida para obter resultados”. As informações fornecidas pelo texto original se limitam ao caso, à pessoa citada, à pena, ao sentido da avaliação e à fonte. A manchete indica que a forma como os riscos à vida foram tratados se tornou um ponto central no caso. Reportagens posteriores poderão tratar do conteúdo da decisão e de procedimentos seguintes. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Fall Tod von Soldat Chae: Lim Sung-keun zu 3 Jahren Haft verurteilt",
+        "excerpt": "Yonhaps Schlagzeile von 14:30 Uhr meldete, dass Lim Sung-keun im Fall des Todes von Soldat Chae zu drei Jahren Haft verurteilt wurde, mit dem Befund, Lebensrisiken seien missachtet worden.",
+        "body": "Nach Yonhaps Schlagzeilenüberblick von 14:30 Uhr wurde Lim Sung-keun im Zusammenhang mit dem Tod von Soldat Chae zu drei Jahren Gefängnis verurteilt. Die Zusammenfassung stellte den Kern der Entscheidung mit der Formulierung dar, er habe „Lebensgefahren missachtet, um Ergebnisse zu erzielen“. Die im Ausgangstext genannten Informationen beschränken sich auf den Fall, die genannte Person, das Strafmaß, den Sinn der Bewertung und die Quelle. Die Schlagzeile zeigt, dass der Umgang mit Lebensrisiken in diesem Fall zu einem zentralen Punkt geworden ist. Weitere Berichte könnten den Inhalt des Urteils und anschließende Verfahren behandeln. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Mort du soldat Chae : Lim Sung-keun condamné à 3 ans de prison",
+        "excerpt": "Le titre de Yonhap à 14 h 30 indique que Lim Sung-keun a été condamné à trois ans de prison dans l’affaire de la mort du soldat Chae, avec un constat de risques vitaux négligés.",
+        "body": "Selon le tour d’horizon des titres de Yonhap à 14 h 30, Lim Sung-keun a été condamné à trois ans de prison en lien avec la mort du soldat Chae. Le résumé présente le cœur de la décision avec l’expression selon laquelle il a « négligé les risques pour la vie afin d’obtenir des résultats ». Les informations fournies par le texte d’origine se limitent à l’affaire, à la personne nommée, à la peine, au sens du constat et à la source. Ce titre montre que la manière dont les risques vitaux ont été traités est devenue un point majeur du dossier. De futurs articles pourraient détailler la décision et les procédures suivantes. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "قضية وفاة الجندي تشاي: الحكم على ليم سونغ-غن بالسجن 3 سنوات",
+        "excerpt": "أفاد عنوان يونهاب عند الساعة 14:30 بأن ليم سونغ-غن حُكم عليه بالسجن ثلاث سنوات في قضية وفاة الجندي تشاي، مع الإشارة إلى تجاهل مخاطر على الحياة من أجل تحقيق نتائج.",
+        "body": "بحسب موجز عناوين يونهاب عند الساعة 14:30، حُكم على ليم سونغ-غن بالسجن ثلاث سنوات في ما يتعلق بوفاة الجندي تشاي. وقد عرض الملخص جوهر الحكم بعبارة تفيد بأنه «تجاهل مخاطر على الحياة من أجل تحقيق نتائج». وتقتصر المعلومات الواردة في النص الأصلي على اسم القضية، والشخص المعني، ومدة العقوبة، ومغزى التقييم، والمصدر. ويُظهر العنوان أن كيفية التعامل مع المخاطر التي تهدد الحياة أصبحت نقطة رئيسية في هذه القضية. وقد تتناول تقارير لاحقة تفاصيل الحكم والإجراءات التالية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "चाए सैनिक मृत्यु मामला: लिम सुंग-क्यून को 3 साल की सजा",
+        "excerpt": "योनहाप की 14:30 हेडलाइन के अनुसार, चाए सैनिक की मृत्यु से जुड़े मामले में लिम सुंग-क्यून को तीन साल की जेल हुई और कहा गया कि परिणाम पाने के लिए जीवन जोखिमों की अनदेखी की गई।",
+        "body": "योनहाप की 14:30 की हेडलाइन सूची के अनुसार, चाए सैनिक की मृत्यु से जुड़े मामले में लिम सुंग-क्यून को तीन साल की जेल की सजा सुनाई गई। सार में निर्णय का मुख्य बिंदु इस रूप में रखा गया कि “परिणाम पाने के लिए जीवन के जोखिमों की अनदेखी की गई।” मूल पाठ में दी गई जानकारी मामले के नाम, संबंधित व्यक्ति, सजा की अवधि, निर्णय के आशय और स्रोत तक सीमित है। यह हेडलाइन दिखाती है कि चाए सैनिक की मृत्यु के मामले में जीवन के जोखिमों को कैसे संभाला गया, यह प्रमुख मुद्दा बना है। आगे की रिपोर्टों में फैसले की सामग्री और बाद की प्रक्रियाएं शामिल हो सकती हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kasus Tewasnya Prajurit Chae: Lim Sung-keun Divonis 3 Tahun Penjara",
+        "excerpt": "Headline Yonhap pukul 14.30 melaporkan Lim Sung-keun divonis tiga tahun penjara dalam kasus tewasnya Prajurit Chae, dengan penilaian bahwa risiko nyawa diabaikan demi hasil.",
+        "body": "Menurut rangkuman headline Yonhap pukul 14.30, Lim Sung-keun dijatuhi hukuman tiga tahun penjara terkait kasus tewasnya Prajurit Chae. Ringkasan tersebut menyajikan inti penilaian dengan frasa bahwa ia “mengabaikan risiko terhadap nyawa demi memperoleh hasil”. Informasi dalam teks asal terbatas pada nama kasus, pihak yang disebut, lama hukuman, pokok penilaian, dan sumber. Headline ini menunjukkan bahwa cara risiko terhadap nyawa diperlakukan menjadi isu utama dalam perkara tewasnya Prajurit Chae. Liputan berikutnya dapat membahas isi putusan dan prosedur lanjutan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "2a0a0f98233e",
     "slug": "롯데웰푸드-1분기-영업익-전년-대비-1184-증가글로벌-효과종합-212074",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Harga Jeonse Naik 50 Kali Lebih Cepat, Melonjak 1,56% hingga Awal Mei",
         "excerpt": "Hingga pekan pertama Mei tahun ini, harga jeonse nasional naik 1,56%, sekitar 50 kali kenaikan 0,03% pada periode yang sama tahun lalu; daerah juga berbalik naik mendekati 1%.",
         "body": "Hingga pekan pertama Mei tahun ini, kenaikan harga jeonse meningkat tajam dibandingkan tahun lalu. Pada periode yang sama tahun lalu, harga jeonse nasional hanya naik 0,03%, tetapi tahun ini meningkat 1,56%. Dari sisi laju kenaikan, angkanya sekitar 50 kali lebih tinggi. Harga jeonse di daerah, yang tahun lalu sempat turun, juga berbalik naik mendekati 1% pada tahun ini. Karena kenaikan terjadi bukan hanya di wilayah metropolitan tetapi juga di daerah, beban penyewa dapat menjadi perhatian. Naskah asli tidak menyampaikan penyebab tambahan atau prospek rinci ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3252ffcc33cb",
-    "slug": "1100만-시니어-시대왜-지금-시니어-주거인가-726333",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T00:17:51.727Z",
-    "updatedAt": "2026-05-09T00:17:51.727Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605056156i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605056156i",
-    "titleFingerprint": "4c36fd3f652e97fadbd6c391cbe1b21197fa6ade",
-    "dedupKeys": [
-      "3252ffcc33cb8bdcbc2dd04f41c7db479cee3f4f",
-      "4c36fd3f652e97fadbd6c391cbe1b21197fa6ade",
-      "81afb19254a0b7df1c2a85fb0d3475897e661596"
-    ],
-    "imageUrl": "/images/articles/3252ffcc33cb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "1100만 시니어 시대, 지금 ‘시니어 주거’가 주목받는 이유",
-        "excerpt": "한국경제는 1100만 시니어 시대를 맞아 시니어 주거가 왜 지금 중요한 의제로 떠올랐는지 조명하며 고령층 주거 수요와 사회적 관심 변화를 짚었다.",
-        "body": "한국경제는 ‘1100만 시니어 시대…왜 지금 시니어 주거인가?’라는 제목의 기사에서 1100만 시니어 시대를 배경으로 시니어 주거가 왜 현재 중요한 이슈로 부상했는지 다뤘다. 기사는 고령층 규모가 커지는 흐름 속에서 주거 문제가 단순한 거주 공간을 넘어 생활 방식과 돌봄, 안정적인 노후와 연결된 의제로 떠오르고 있음을 짚는다. 시니어 주거에 대한 관심은 인구 구조 변화와 맞물려 관련 시장과 정책 논의에도 영향을 줄 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "11 Million Seniors: Why Senior Housing Is Drawing Attention Now",
-        "excerpt": "Hankyung examined why senior housing has emerged as a key issue in the era of 11 million seniors, focusing on changing housing needs and growing social attention.",
-        "body": "Hankyung, in an article titled “The era of 11 million seniors… why senior housing now?”, addressed why senior housing is becoming an important issue against the backdrop of 11 million seniors. The article notes that as the older population grows, housing is being discussed not only as a place to live but also as an issue connected to lifestyle, care and a stable later life. Interest in senior housing may also affect related market and policy discussions as demographic structures change. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "1100万人シニア時代、いまシニア住宅が注目される理由",
-        "excerpt": "韓国経済新聞は、1100万人シニア時代を迎え、なぜ今シニア住宅が重要な議題として浮上しているのかを取り上げた。",
-        "body": "韓国経済新聞は「1100万人シニア時代…なぜ今シニア住宅なのか」という記事で、1100万人シニア時代を背景に、シニア住宅がなぜ現在重要なイシューとして浮上しているのかを扱った。記事は、高齢層の規模が拡大する流れの中で、住まいの問題が単なる居住空間を超え、生活様式やケア、安定した老後と結び付く議題になっていると指摘する。シニア住宅への関心は、人口構造の変化と連動し、関連市場や政策議論にも影響を及ぼし得る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "1100万老年人口时代，为何现在关注银发住宅",
-        "excerpt": "韩国经济新闻关注在1100万老年人口时代，银发住宅为何成为重要议题，并梳理老年居住需求与社会关注的变化。",
-        "body": "韩国经济新闻在题为《1100万老年人口时代……为何现在是银发住宅？》的报道中，围绕1100万老年人口时代这一背景，讨论银发住宅为何在当下成为重要议题。报道指出，随着老年群体规模扩大，住房问题已不只是居住空间，还与生活方式、照护以及稳定的晚年生活相连接。对银发住宅的关注，可能随着人口结构变化，进一步影响相关市场和政策讨论。来源: hankyung.com"
-      },
-      "es": {
-        "title": "11 millones de seniors: por qué la vivienda sénior gana atención ahora",
-        "excerpt": "Hankyung analizó por qué la vivienda sénior emerge como tema clave en la era de 11 millones de personas mayores y revisó el cambio en la demanda habitacional.",
-        "body": "Hankyung, en un artículo titulado “La era de 11 millones de seniors… ¿por qué vivienda sénior ahora?”, abordó por qué la vivienda sénior se está convirtiendo en un asunto importante en el contexto de 11 millones de personas mayores. El artículo señala que, a medida que crece la población de mayor edad, la vivienda se debate no solo como espacio residencial, sino como un tema ligado al estilo de vida, el cuidado y una vejez estable. El interés por la vivienda sénior también puede influir en el mercado relacionado y en las discusiones de política pública. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "11 milhões de idosos: por que a moradia sênior ganha foco agora",
-        "excerpt": "O Hankyung analisou por que a moradia sênior virou uma pauta importante na era de 11 milhões de idosos, destacando mudanças na demanda habitacional.",
-        "body": "O Hankyung, em artigo intitulado “A era de 11 milhões de idosos… por que moradia sênior agora?”, tratou de por que a moradia sênior está se tornando uma questão importante no contexto de 11 milhões de idosos. A reportagem observa que, com o crescimento da população mais velha, a moradia deixa de ser apenas um espaço de residência e passa a se conectar a estilo de vida, cuidado e estabilidade na velhice. O interesse por moradia sênior também pode influenciar o mercado relacionado e discussões de políticas públicas. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "11 Millionen Senioren: Warum Seniorenwohnen jetzt im Fokus steht",
-        "excerpt": "Hankyung beleuchtete, warum Seniorenwohnen im Zeitalter von 11 Millionen Senioren zu einem wichtigen Thema wird und wie sich Wohnbedarf und Aufmerksamkeit verändern.",
-        "body": "Hankyung behandelte in einem Artikel mit dem Titel „Das Zeitalter von 11 Millionen Senioren… warum jetzt Seniorenwohnen?“ die Frage, warum Seniorenwohnen vor dem Hintergrund von 11 Millionen Senioren derzeit zu einem wichtigen Thema wird. Der Artikel weist darauf hin, dass mit der wachsenden älteren Bevölkerung Wohnen nicht nur als Wohnraum, sondern auch als Thema von Lebensstil, Betreuung und stabilem Ruhestand diskutiert wird. Das Interesse an Seniorenwohnen kann mit dem demografischen Wandel auch Markt- und Politikdebatten beeinflussen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "11 millions de seniors : pourquoi le logement senior attire l’attention",
-        "excerpt": "Hankyung a examiné pourquoi le logement senior devient un enjeu majeur à l’ère des 11 millions de seniors, entre besoins résidentiels et attention sociale.",
-        "body": "Hankyung, dans un article intitulé « L’ère des 11 millions de seniors… pourquoi le logement senior maintenant ? », a expliqué pourquoi le logement senior devient un sujet important dans le contexte des 11 millions de seniors. L’article souligne qu’avec la croissance de la population âgée, le logement n’est plus seulement un espace d’habitation, mais un enjeu lié au mode de vie, aux soins et à une vieillesse stable. L’intérêt pour le logement senior peut aussi influencer les marchés concernés et les débats de politique publique. Source : hankyung.com"
-      },
-      "ar": {
-        "title": "عصر 11 مليون مسن: لماذا تبرز مساكن كبار السن الآن؟",
-        "excerpt": "تناولت هانكيونغ سبب تحول مساكن كبار السن إلى قضية مهمة في عصر 11 مليون مسن، مع التركيز على تغير احتياجات السكن والاهتمام الاجتماعي.",
-        "body": "تناولت هانكيونغ في مقال بعنوان «عصر 11 مليون مسن… لماذا مساكن كبار السن الآن؟» سبب بروز مساكن كبار السن كقضية مهمة في ظل وجود 11 مليون مسن. ويشير المقال إلى أنه مع اتساع حجم الفئة الأكبر سنا، لم تعد قضية السكن مجرد مساحة للعيش، بل أصبحت مرتبطة بنمط الحياة والرعاية والاستقرار في مرحلة الشيخوخة. وقد يؤثر الاهتمام بمساكن كبار السن، مع تغير البنية السكانية، في الأسواق ذات الصلة ونقاشات السياسات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "1.1 करोड़ वरिष्ठों का दौर: अभी वरिष्ठ आवास पर ध्यान क्यों",
-        "excerpt": "हैंक्यूंग ने 1.1 करोड़ वरिष्ठों के दौर में वरिष्ठ आवास के अहम मुद्दा बनने की वजहों, बदलती आवास जरूरतों और बढ़ते सामाजिक ध्यान को रेखांकित किया।",
-        "body": "हैंक्यूंग ने “1.1 करोड़ वरिष्ठों का दौर… अभी वरिष्ठ आवास क्यों?” शीर्षक वाले लेख में बताया कि 1.1 करोड़ वरिष्ठों की पृष्ठभूमि में वरिष्ठ आवास वर्तमान में अहम मुद्दा क्यों बन रहा है। लेख के अनुसार, बुजुर्ग आबादी का आकार बढ़ने के साथ आवास का सवाल केवल रहने की जगह तक सीमित नहीं रह गया है, बल्कि जीवनशैली, देखभाल और स्थिर वृद्धावस्था से जुड़ा विषय बन रहा है। वरिष्ठ आवास में रुचि जनसंख्या संरचना के बदलाव के साथ संबंधित बाजार और नीति चर्चा को भी प्रभावित कर सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Era 11 juta senior: mengapa hunian senior jadi sorotan sekarang",
-        "excerpt": "Hankyung membahas mengapa hunian senior menjadi isu penting di era 11 juta senior, menyoroti perubahan kebutuhan tempat tinggal dan perhatian sosial.",
-        "body": "Hankyung, dalam artikel berjudul “Era 11 juta senior… mengapa hunian senior sekarang?”, membahas mengapa hunian senior kini menjadi isu penting dengan latar belakang 11 juta senior. Artikel itu mencatat bahwa seiring bertambahnya skala kelompok usia lanjut, persoalan hunian tidak lagi hanya tentang tempat tinggal, tetapi juga terkait gaya hidup, perawatan, dan masa tua yang stabil. Minat terhadap hunian senior dapat turut memengaruhi pasar terkait dan pembahasan kebijakan sejalan dengan perubahan struktur demografi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "140d66fd3edd",
-    "slug": "수도권-똘똘한-한-채는이런-아파트-사야-한다-915458",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T00:17:08.192Z",
-    "updatedAt": "2026-05-09T00:17:08.192Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605056728i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605056728i",
-    "titleFingerprint": "e3a200f4f82dd0f84123dbadbf6eaa2eb4f063cd",
-    "dedupKeys": [
-      "140d66fd3eddfe6d3f19332dd257d328b634724c",
-      "e3a200f4f82dd0f84123dbadbf6eaa2eb4f063cd",
-      "a1d47e353c0c3b3388016053427dc4a3c1f6e468"
-    ],
-    "imageUrl": "/images/articles/140d66fd3edd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "수도권 똘똘한 한 채 기준은 신축·재건축 아파트, 거래 줄어도 신고가 집중",
-        "excerpt": "6·27 대책 이후 수도권 아파트 거래가 급감했지만 20억원 초과, 전용 85㎡ 초과, 5년 이하 신축과 30년 초과 구축에 신고가가 집중됐다.",
-        "body": "6·27 부동산 대책 이후 수도권 아파트 시장에서 거래는 크게 줄었지만 일부 고가·희소 단지에는 신고가가 이어진 것으로 나타났다. 부동산 중개·분석업체 집토스가 대책 전후 한 달간 거래를 분석한 결과 수도권 매매 감소율은 -72.5%로 비수도권(-39.9%)보다 약 1.8배 컸다. 다만 20억원 초과 아파트는 거래가 85.8% 줄었는데도 신고가 비율이 66.1%로 가장 높았다. 전용 85㎡ 초과도 거래 감소 속 신고가 비율이 12.1%였고, 건축연도별로는 5년 이하 신축 12.7%, 30년 초과 구축 9.5%가 높았다. hankyung.com은 대출 규제 속 수요가 초고가·신축·재건축 단지로 집중됐다고 전했다."
-      },
-      "en": {
-        "title": "Seoul Metro ‘Smart One Home’ Focus Shifts to New and Rebuild-Ready Apartments",
-        "excerpt": "After the June 27 measures, apartment deals in the Seoul metro area plunged, but record prices clustered in units over 2 billion won, larger homes, new builds and older rebuild candidates.",
-        "body": "After the June 27 real estate measures, apartment transactions in the Seoul metropolitan area fell sharply, yet some high-priced and scarce complexes continued to set record prices. According to ZipToss, which analyzed one month before and after the measures, metro-area sales dropped 72.5%, about 1.8 times the 39.9% decline outside the region. Apartments priced above 2 billion won saw transactions fall 85.8%, but their record-price ratio reached 66.1%, the highest among price bands. Units larger than 85 square meters recorded a 12.1% record-price ratio despite weaker trading. By age, buildings five years old or less posted 12.7%, while those over 30 years old posted 9.5%. hankyung.com reported that demand under tighter lending rules concentrated in ultra-high-priced, new and reconstruction-potential complexes."
-      },
-      "ja": {
-        "title": "首都圏の「賢い一戸」は新築・再建築期待マンション、取引減でも最高値集中",
-        "excerpt": "6・27対策後、首都圏マンション取引は急減したが、20億ウォン超、専有85㎡超、築5年以下と築30年超に最高値更新が集中した。",
-        "body": "6・27不動産対策後、首都圏マンション市場では取引が大きく減った一方、一部の高額・希少団地では最高値更新が続いた。仲介・分析会社のZipTossが対策前後1カ月を分析した結果、首都圏の売買減少率は72.5%で、非首都圏の39.9%の約1.8倍だった。ただし20億ウォン超のマンションは取引が85.8%減ったにもかかわらず、最高値比率が66.1%で最も高かった。専有85㎡超も取引減の中で最高値比率が12.1%だった。築年数別では築5年以下の新築が12.7%、築30年超の既存物件が9.5%と高かった。hankyung.comは、融資規制の下で需要が超高額・新築・再建築団地に集中したと伝えた。"
-      },
-      "zh": {
-        "title": "首都圈“优质一套房”转向新房和重建预期公寓，成交降仍创新高",
-        "excerpt": "6·27措施后，首都圈公寓成交大幅减少，但20亿韩元以上、85㎡以上、5年内新房和30年以上旧房的新高成交更集中。",
-        "body": "6·27房地产措施实施后，首都圈公寓市场成交明显减少，但部分高价、稀缺小区仍持续出现创新高交易。房地产中介与分析机构ZipToss对措施前后一个月的交易进行分析后发现，首都圈买卖减少率为72.5%，约为非首都圈39.9%的1.8倍。不过，20亿韩元以上公寓成交减少85.8%，其创新高比例却达到66.1%，为各价格段最高。专有面积85㎡以上公寓在成交减少中创新高比例为12.1%。按建筑年限看，5年以内新房为12.7%，30年以上旧房为9.5%。hankyung.com报道称，在贷款监管下，需求集中到超高价、新房和具备重建预期的小区。"
-      },
-      "es": {
-        "title": "La ‘vivienda única sólida’ en Seúl se concentra en pisos nuevos y con reconstrucción",
-        "excerpt": "Tras las medidas del 27 de junio, las ventas de apartamentos en el área metropolitana cayeron, pero los récords se concentraron en viviendas caras, grandes, nuevas y antiguas con potencial.",
-        "body": "Tras las medidas inmobiliarias del 27 de junio, las transacciones de apartamentos en el área metropolitana de Seúl cayeron con fuerza, pero algunos complejos caros y escasos siguieron marcando precios récord. Según ZipToss, que analizó el mes anterior y posterior a las medidas, las ventas metropolitanas bajaron un 72,5%, unas 1,8 veces más que el descenso del 39,9% fuera de la región. Los apartamentos de más de 2.000 millones de wones redujeron sus operaciones un 85,8%, pero su proporción de récords llegó al 66,1%, la más alta. Las unidades de más de 85 m² registraron un 12,1%. Por antigüedad, los edificios de cinco años o menos marcaron un 12,7% y los de más de 30 años un 9,5%. hankyung.com informó que la demanda se concentró en complejos ultracaros, nuevos y con expectativa de reconstrucción."
-      },
-      "pt": {
-        "title": "‘Um imóvel certeiro’ na região de Seul mira apartamentos novos e para reconstrução",
-        "excerpt": "Após as medidas de 27 de junho, negócios com apartamentos na região metropolitana caíram, mas recordes se concentraram em unidades caras, maiores, novas e antigas com potencial.",
-        "body": "Depois das medidas imobiliárias de 27 de junho, as transações de apartamentos na região metropolitana de Seul recuaram fortemente, mas alguns condomínios caros e escassos continuaram renovando máximas. Segundo a ZipToss, que analisou o mês anterior e posterior às medidas, as vendas na região caíram 72,5%, cerca de 1,8 vez a queda de 39,9% fora dela. Apartamentos acima de 2 bilhões de won tiveram baixa de 85,8% nas negociações, mas a fatia de vendas em preço recorde chegou a 66,1%, a maior entre as faixas. Unidades acima de 85 m² marcaram 12,1%. Por idade, prédios com até cinco anos chegaram a 12,7%, e os com mais de 30 anos, a 9,5%. hankyung.com relatou que, sob restrições de crédito, a demanda se concentrou em imóveis ultracaros, novos e com potencial de reconstrução."
-      },
-      "de": {
-        "title": "Seouls ‘kluge Einzelwohnung’ richtet sich auf Neubauten und Wiederaufbau-Apartments",
-        "excerpt": "Nach den Maßnahmen vom 27. Juni brachen die Verkäufe im Großraum Seoul ein, doch Rekordpreise konzentrierten sich auf teure, große, neue und alte Objekte mit Neubaupotenzial.",
-        "body": "Nach den Immobilienmaßnahmen vom 27. Juni gingen die Apartmenttransaktionen im Großraum Seoul stark zurück, doch einige hochpreisige und knappe Anlagen erzielten weiter Rekordpreise. ZipToss analysierte den Monat vor und nach den Maßnahmen: Die Verkäufe im Großraum fielen um 72,5%, etwa 1,8-mal so stark wie der Rückgang von 39,9% außerhalb der Region. Bei Apartments über 2 Milliarden Won sank die Zahl der Abschlüsse um 85,8%, dennoch lag der Anteil der Rekordpreise bei 66,1% und damit am höchsten. Einheiten über 85 m² kamen trotz schwacher Umsätze auf 12,1%. Nach Baualter erreichten Objekte bis fünf Jahre 12,7%, solche über 30 Jahre 9,5%. hankyung.com berichtete, dass sich die Nachfrage unter strengeren Kreditregeln auf ultrateure, neue und wiederaufbaufähige Anlagen konzentrierte."
-      },
-      "fr": {
-        "title": "Le ‘bon seul logement’ du Grand Séoul cible le neuf et les immeubles à reconstruire",
-        "excerpt": "Après les mesures du 27 juin, les transactions d’appartements ont chuté dans le Grand Séoul, mais les records se sont concentrés sur les biens chers, grands, neufs et anciens.",
-        "body": "Après les mesures immobilières du 27 juin, les transactions d’appartements dans le Grand Séoul ont fortement diminué, mais certains ensembles chers et rares ont continué d’atteindre des prix records. Selon ZipToss, qui a analysé le mois précédant et suivant les mesures, les ventes dans la région ont reculé de 72,5%, soit environ 1,8 fois la baisse de 39,9% hors métropole. Les appartements de plus de 2 milliards de wons ont vu leurs ventes chuter de 85,8%, mais leur part de prix records a atteint 66,1%, la plus élevée. Les logements de plus de 85 m² ont affiché 12,1%. Par ancienneté, les immeubles de cinq ans ou moins ont atteint 12,7% et ceux de plus de 30 ans 9,5%. hankyung.com a indiqué que, sous les restrictions de crédit, la demande s’est concentrée sur les biens ultrachers, neufs et à potentiel de reconstruction."
-      },
-      "ar": {
-        "title": "‘المنزل الواحد الذكي’ في سيئول يتجه إلى الشقق الجديدة والقابلة لإعادة البناء",
-        "excerpt": "بعد إجراءات 27 يونيو، هبطت صفقات الشقق في منطقة سيئول الكبرى، لكن الأسعار القياسية تركزت في الوحدات فوق 2 مليار وون، والأكبر مساحة، والجديدة والقديمة.",
-        "body": "بعد إجراءات العقارات في 27 يونيو، تراجعت معاملات الشقق في منطقة سيئول الكبرى بقوة، لكن بعض المجمعات مرتفعة السعر والنادرة واصلت تسجيل أسعار قياسية. وبحسب تحليل ZipToss للشهر السابق واللاحق للإجراءات، انخفضت مبيعات المنطقة 72.5%، أي نحو 1.8 مرة من تراجع المناطق غير الحضرية البالغ 39.9%. الشقق التي تتجاوز 2 مليار وون انخفضت معاملاتها 85.8%، لكن نسبة الصفقات القياسية فيها بلغت 66.1%، وهي الأعلى بين الفئات السعرية. كما سجلت الوحدات الأكبر من 85 م² نسبة 12.1%. وبحسب عمر البناء، بلغت النسبة 12.7% في المباني بعمر خمس سنوات أو أقل، و9.5% في المباني التي تتجاوز 30 عاما. وذكر hankyung.com أن الطلب، وسط قيود الإقراض، تركز في المجمعات فائقة السعر والجديدة وذات توقعات إعادة البناء."
-      },
-      "hi": {
-        "title": "सियोल क्षेत्र की ‘समझदार एक घर’ पसंद अब नई और पुनर्निर्माण योग्य अपार्टमेंट पर",
-        "excerpt": "27 जून के उपायों के बाद सियोल महानगरीय क्षेत्र में अपार्टमेंट सौदे घटे, लेकिन 2 अरब वॉन से ऊपर, 85㎡ से बड़े, नए और 30 साल से पुराने घरों में रिकॉर्ड कीमतें दिखीं।",
-        "body": "27 जून के रियल एस्टेट उपायों के बाद सियोल महानगरीय क्षेत्र में अपार्टमेंट लेनदेन तेजी से घटे, लेकिन कुछ महंगे और दुर्लभ परिसरों में रिकॉर्ड कीमतें जारी रहीं। ZipToss ने उपायों से पहले और बाद के एक महीने का विश्लेषण किया। इसके अनुसार महानगरीय क्षेत्र में बिक्री 72.5% घटी, जो गैर-महानगरीय क्षेत्र की 39.9% गिरावट से करीब 1.8 गुना अधिक थी। 2 अरब वॉन से महंगे अपार्टमेंट में सौदे 85.8% घटे, फिर भी रिकॉर्ड कीमतों का अनुपात 66.1% रहा, जो सबसे अधिक था। 85㎡ से बड़ी इकाइयों में यह अनुपात 12.1% था। निर्माण आयु के आधार पर पांच साल या कम पुराने भवनों में 12.7% और 30 साल से अधिक पुराने भवनों में 9.5% दर्ज हुआ। hankyung.com ने बताया कि कर्ज नियम सख्त होने के बीच मांग अति-महंगे, नए और पुनर्निर्माण संभावना वाले परिसरों में केंद्रित हुई।"
-      },
-      "id": {
-        "title": "‘Satu Hunian Terbaik’ di Seoul Raya Mengarah ke Apartemen Baru dan Rekonstruksi",
-        "excerpt": "Setelah kebijakan 27 Juni, transaksi apartemen Seoul Raya anjlok, tetapi rekor harga terkonsentrasi pada unit di atas 2 miliar won, lebih luas, baru, dan tua potensial.",
-        "body": "Setelah kebijakan properti 27 Juni, transaksi apartemen di wilayah metropolitan Seoul turun tajam, tetapi beberapa kompleks mahal dan langka tetap mencetak harga rekor. Menurut ZipToss, yang menganalisis satu bulan sebelum dan sesudah kebijakan, penjualan di wilayah metropolitan turun 72,5%, sekitar 1,8 kali penurunan 39,9% di luar wilayah itu. Apartemen di atas 2 miliar won mengalami penurunan transaksi 85,8%, tetapi rasio harga rekornya mencapai 66,1%, tertinggi di antara kelompok harga. Unit di atas 85 m² mencatat rasio 12,1% meski transaksi melemah. Berdasarkan usia bangunan, apartemen berusia lima tahun atau kurang mencapai 12,7%, sedangkan yang berusia lebih dari 30 tahun 9,5%. hankyung.com melaporkan bahwa di tengah pembatasan kredit, permintaan terkonsentrasi pada kompleks supermahal, baru, dan berpotensi rekonstruksi."
-      }
-    }
-  },
-  {
-    "id": "bd5c03e697de",
-    "slug": "분양가-45억대-강남-출퇴근러-필수-시청-788993",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T00:15:51.691Z",
-    "updatedAt": "2026-05-09T00:15:51.691Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042233",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042233",
-    "titleFingerprint": "b2ddb09abf14828700432b7cc248ce3ed6ba6c00",
-    "dedupKeys": [
-      "bd5c03e697de8f0d1109e00e003717e046cb77c5",
-      "b2ddb09abf14828700432b7cc248ce3ed6ba6c00",
-      "855770f78087579c766ceade271680bfe18fe093"
-    ],
-    "imageUrl": "/images/articles/bd5c03e697de.png",
-    "i18n": {
-      "ko": {
-        "title": "공공분양 4~5억대 분양가 관심, 강남 출퇴근 수요가 주목한 정보",
-        "excerpt": "매부리TV ‘분양나우’가 매일경제 부동산부 위지혜 기자의 취재를 바탕으로 4~5억대 분양가와 강남 출퇴근 수요가 주목할 공공분양 정보를 전했다.",
-        "body": "매부리TV는 최신 분양 정보를 전달하는 코너 ‘분양나우(牛)’에서 공공분양 관련 정보를 소개했다. 매일경제 부동산부 위지혜 기자가 취재를 맡아 소처럼 성실하게 분양 정보를 확인하고 전달하는 형식이다. 이번 콘텐츠의 핵심은 4~5억대 분양가 가능성과 강남으로 출퇴근하는 수요자가 눈여겨볼 만한 공공분양 정보다. 원문은 구체 단지명이나 세부 조건보다 해당 코너의 취지와 이번 회차의 관심 포인트를 중심으로 소개했다. 공공분양은 실수요자의 주거 선택지와 직장 접근성 측면에서 관심을 받을 수 있어 관련 정보 확인이 중요하다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Public Housing Sale in the 400–500 Million Won Range Draws Gangnam Commuter Interest",
-        "excerpt": "MaeBuri TV’s ‘Bunyang Now’ shared public housing sale information reported by Maeil Business Newspaper real estate reporter Wi Ji-hye, focusing on possible 400–500 million won prices and Gangnam commuters.",
-        "body": "MaeBuri TV introduced information on a public housing sale through ‘Bunyang Now,’ a segment dedicated to the latest presale news. The report was handled by Wi Ji-hye, a real estate reporter at Maeil Business Newspaper, who presents housing sale information in a diligent, detail-focused format. This episode centers on the possibility of sale prices in the 400–500 million won range and information that may interest people commuting to Gangnam. The original article highlights the purpose of the segment and the main point of interest in this installment, rather than detailed project names or conditions. Public presales can matter to end users weighing housing options and workplace access. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "4〜5億ウォン台の公共分譲に関心、江南通勤層が注目する情報",
-        "excerpt": "メブリTVの『分譲ナウ』は、毎日経済新聞不動産部のウィ・ジヘ記者の取材を基に、4〜5億ウォン台の分譲価格と江南通勤需要が注目する公共分譲情報を伝えた。",
-        "body": "メブリTVは、最新の分譲情報を伝えるコーナー『分譲ナウ（牛）』で公共分譲に関する情報を紹介した。毎日経済新聞不動産部のウィ・ジヘ記者が取材を担当し、牛のように誠実に分譲情報を確認して伝える形式だ。今回の内容の中心は、4〜5億ウォン台の分譲価格の可能性と、江南へ通勤する需要者が注目し得る公共分譲情報である。原文は具体的な団地名や詳細条件よりも、同コーナーの趣旨と今回の関心ポイントを中心に紹介している。公共分譲は実需者の住まいの選択肢や職場へのアクセス面で関心を集め得るため、関連情報の確認が重要だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "4亿至5亿韩元公共预售受关注，江南通勤族留意相关信息",
-        "excerpt": "MaeBuri TV《分售Now》根据《每日经济》房地产部记者魏智慧的采访，介绍了4亿至5亿韩元价位及江南通勤需求关注的公共分售信息。",
-        "body": "MaeBuri TV在传递最新分售信息的栏目《分售Now（牛）》中介绍了公共分售相关内容。《每日经济》房地产部记者魏智慧负责采访，以像牛一样踏实的方式核实并传递分售信息。本期内容的核心，是4亿至5亿韩元价位的可能性，以及前往江南通勤的需求者可能关注的公共分售信息。原文主要介绍该栏目的宗旨和本期关注点，并未侧重具体小区名称或详细条件。公共分售关系到实际居住需求者的住房选择和通勤便利性，因此确认相关信息具有重要意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Venta pública de 400 a 500 millones de won atrae a quienes viajan a Gangnam",
-        "excerpt": "‘Bunyang Now’ de MaeBuri TV presentó información de preventa pública elaborada por la periodista inmobiliaria Wi Ji-hye, con foco en precios de 400 a 500 millones de won y viajes a Gangnam.",
-        "body": "MaeBuri TV presentó información sobre una preventa pública en ‘Bunyang Now’, una sección dedicada a las novedades de preventa inmobiliaria. La cobertura estuvo a cargo de Wi Ji-hye, periodista de la sección inmobiliaria de Maeil Business Newspaper, quien verifica y transmite la información con un enfoque constante y detallado. El punto central de este episodio es la posible franja de precios de 400 a 500 millones de won y la información que podrían observar quienes se desplazan a Gangnam por trabajo. El texto original destaca el propósito de la sección y el foco de esta entrega, más que nombres concretos de complejos o condiciones específicas. La preventa pública puede ser relevante para usuarios finales que evalúan vivienda y acceso laboral. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Venda pública de 400 a 500 milhões de won chama atenção de quem vai a Gangnam",
-        "excerpt": "O ‘Bunyang Now’ da MaeBuri TV divulgou informações de venda pública apuradas pela repórter imobiliária Wi Ji-hye, com foco em preços de 400 a 500 milhões de won e no deslocamento a Gangnam.",
-        "body": "A MaeBuri TV apresentou informações sobre venda pública no ‘Bunyang Now’, quadro dedicado às novidades de pré-venda imobiliária. A apuração foi conduzida por Wi Ji-hye, repórter da editoria imobiliária do Maeil Business Newspaper, que verifica e transmite as informações de forma constante e detalhada. O ponto central deste episódio é a possibilidade de preços na faixa de 400 a 500 milhões de won e dados que podem interessar a quem se desloca diariamente para Gangnam. O texto original destaca a proposta do quadro e o principal foco desta edição, sem priorizar nomes específicos de empreendimentos ou condições detalhadas. A venda pública pode ser relevante para compradores finais que avaliam moradia e acesso ao trabalho. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Öffentliche Wohnungen für 400 bis 500 Mio. Won rücken bei Gangnam-Pendlern in den Fokus",
-        "excerpt": "MaeBuri TVs ‘Bunyang Now’ berichtete auf Basis der Recherchen von Immobilienreporterin Wi Ji-hye über öffentliche Wohnungsverkäufe, mögliche Preise von 400 bis 500 Mio. Won und Gangnam-Pendler.",
-        "body": "MaeBuri TV stellte in ‘Bunyang Now’, einem Format für aktuelle Informationen zu Wohnungsverkäufen, Details zu einem öffentlichen Verkauf vor. Die Recherche übernahm Wi Ji-hye, Immobilienreporterin der Maeil Business Newspaper, die Verkaufsinformationen sorgfältig prüft und vermittelt. Im Mittelpunkt dieser Folge stehen mögliche Preise im Bereich von 400 bis 500 Millionen Won sowie Informationen, die für Menschen mit Arbeitsweg nach Gangnam von Interesse sein können. Der Originaltext betont vor allem den Zweck des Formats und den Schwerpunkt dieser Ausgabe, weniger konkrete Projektnamen oder Detailbedingungen. Öffentliche Wohnungsverkäufe können für Eigennutzer relevant sein, die Wohnoptionen und Erreichbarkeit des Arbeitsplatzes abwägen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Logements publics à 400-500 millions de wons : intérêt des navetteurs vers Gangnam",
-        "excerpt": "‘Bunyang Now’ de MaeBuri TV a présenté des informations de vente publique recueillies par la journaliste immobilier Wi Ji-hye, axées sur des prix de 400 à 500 millions de wons et les trajets vers Gangnam.",
-        "body": "MaeBuri TV a présenté des informations sur une vente publique dans ‘Bunyang Now’, une rubrique consacrée aux dernières nouvelles de prévente immobilière. Le sujet a été couvert par Wi Ji-hye, journaliste immobilier au Maeil Business Newspaper, qui vérifie et transmet les informations de manière rigoureuse. L’élément central de cet épisode est la possibilité de prix situés entre 400 et 500 millions de wons, ainsi que les informations susceptibles d’intéresser les personnes se rendant à Gangnam pour le travail. Le texte original met surtout en avant l’objectif de la rubrique et le point d’attention de cette édition, plutôt que des noms précis de complexes ou des conditions détaillées. Les ventes publiques peuvent compter pour les acheteurs occupants qui évaluent logement et accès au lieu de travail. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "بيع سكن عام بسعر 400 إلى 500 مليون وون يجذب اهتمام المتنقلين إلى غانغنام",
-        "excerpt": "قدمت فقرة ‘Bunyang Now’ من MaeBuri TV معلومات عن بيع سكن عام أعدتها الصحفية العقارية وي جي-هي، مع التركيز على أسعار محتملة بين 400 و500 مليون وون والتنقل إلى غانغنام.",
-        "body": "قدمت MaeBuri TV في فقرة ‘Bunyang Now’، المخصصة لأحدث معلومات البيع المسبق، معلومات تتعلق ببيع سكن عام. تولت التغطية وي جي-هي، الصحفية في قسم العقارات بصحيفة Maeil Business Newspaper، بصيغة تقوم على التحقق الدؤوب من معلومات البيع ونقلها. يتركز هذا الإصدار على احتمال وجود أسعار في نطاق 400 إلى 500 مليون وون، وعلى معلومات قد تهم من يتنقلون يوميا إلى غانغنام للعمل. يبرز النص الأصلي هدف الفقرة ونقطة الاهتمام في هذه الحلقة أكثر من تركيزه على أسماء مجمعات محددة أو شروط تفصيلية. وقد تكون مبيعات السكن العام مهمة للمستخدمين الفعليين عند تقييم خيارات السكن وسهولة الوصول إلى العمل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "40-50 करोड़ वॉन की सार्वजनिक बिक्री पर ध्यान, गंगनम आने-जाने वालों के लिए जानकारी",
-        "excerpt": "MaeBuri TV के ‘Bunyang Now’ ने मैइल बिजनेस न्यूजपेपर की रियल एस्टेट रिपोर्टर Wi Ji-hye की रिपोर्टिंग के आधार पर 40-50 करोड़ वॉन कीमत और गंगनम यात्रियों से जुड़ी सार्वजनिक बिक्री जानकारी दी।",
-        "body": "MaeBuri TV ने नवीनतम प्रीसेल जानकारी देने वाले कार्यक्रम ‘Bunyang Now’ में सार्वजनिक आवास बिक्री से जुड़ी जानकारी पेश की। यह रिपोर्ट मैइल बिजनेस न्यूजपेपर के रियल एस्टेट विभाग की रिपोर्टर Wi Ji-hye ने तैयार की, जो बिक्री संबंधी जानकारी को सावधानी से जांचकर विस्तार से बताती हैं। इस एपिसोड का मुख्य बिंदु 40 से 50 करोड़ वॉन की संभावित कीमत और गंगनम तक रोजाना आने-जाने वाले लोगों के लिए ध्यान देने योग्य सार्वजनिक बिक्री जानकारी है। मूल लेख में किसी विशेष परिसर के नाम या विस्तृत शर्तों से अधिक इस कार्यक्रम के उद्देश्य और इस कड़ी के प्रमुख रुचि बिंदु पर जोर दिया गया है। सार्वजनिक बिक्री वास्तविक उपयोगकर्ताओं के लिए आवास विकल्प और कार्यस्थल तक पहुंच के लिहाज से महत्वपूर्ण हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hunian Publik 400-500 Juta Won Jadi Perhatian Komuter ke Gangnam",
-        "excerpt": "‘Bunyang Now’ dari MaeBuri TV menyampaikan informasi penjualan hunian publik berdasarkan liputan reporter properti Wi Ji-hye, dengan fokus pada kisaran harga 400-500 juta won dan komuter Gangnam.",
-        "body": "MaeBuri TV memperkenalkan informasi terkait penjualan hunian publik melalui ‘Bunyang Now’, segmen yang menyampaikan kabar terbaru tentang prapenjualan properti. Liputan ini ditangani oleh Wi Ji-hye, reporter properti Maeil Business Newspaper, yang memeriksa dan menyampaikan informasi penjualan secara tekun dan rinci. Fokus episode ini adalah kemungkinan harga di kisaran 400 hingga 500 juta won serta informasi yang dapat diperhatikan oleh orang yang bepergian ke Gangnam untuk bekerja. Artikel asli lebih menyoroti tujuan segmen dan titik perhatian edisi ini, bukan nama kompleks tertentu atau syarat rinci. Penjualan hunian publik dapat menjadi informasi penting bagi pengguna akhir yang mempertimbangkan pilihan tempat tinggal dan akses ke tempat kerja. Sumber: mk.co.kr"
       }
     }
   }
