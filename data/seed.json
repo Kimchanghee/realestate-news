@@ -1,5 +1,230 @@
 [
   {
+    "id": "e7b906a7bc77",
+    "slug": "노동부-가족돌봄휴가-적용대상-가족-외로-확대-검토-656676",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:23:21.273Z",
+    "updatedAt": "2026-05-09T21:23:21.273Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "titleFingerprint": "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+    "dedupKeys": [
+      "e7b906a7bc77dcf25c07ff47d82624e4d678094f",
+      "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+      "9be3525449730ca86d31d2b9fd92a97cb77209fb"
+    ],
+    "imageUrl": "/images/articles/e7b906a7bc77.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가족돌봄휴가 확대 검토…노동부, 법률상 가족 밖 관계까지 살핀다",
+        "excerpt": "노동부가 가족돌봄 휴직·휴가 적용 대상을 법률상 가족이 아닌 관계까지 넓히는 방안을 검토한다. 돌봄 수요 변화에 맞춰 제도 적용 범위를 살피는 취지다.",
+        "body": "노동부가 가족돌봄 휴직·휴가 제도의 적용 대상을 법률상 가족이 아닌 관계까지 확대하는 방안을 검토한다. 9일 연합뉴스 보도에 따르면, 현재 가족돌봄 휴직·휴가는 법률상 가족을 돌보기 위한 제도로 운영돼 왔으나, 앞으로는 가족으로 규정되지 않은 관계까지 포함할 수 있는지 살펴보는 절차가 추진된다. 이번 검토는 돌봄이 필요한 관계가 법적 가족 범위에만 머물지 않는 현실을 반영할 수 있는지 확인하는 데 초점이 있다. 다만 구체적인 적용 대상, 시행 시기, 제도 변경 방식 등은 원문에서 추가로 제시되지 않았다. 제도 확대가 실제 추진될 경우 근로자의 돌봄권과 휴가 사용 범위에 영향을 줄 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Family Care Leave Expansion Under Review as Labor Ministry Looks Beyond Legal Family",
+        "excerpt": "The Labor Ministry is reviewing whether family care leave and leave of absence could cover relationships beyond legally defined family, reflecting changing care needs.",
+        "body": "South Korea’s Labor Ministry is reviewing a plan to expand the scope of family care leave and family care leave of absence to include relationships that are not legally defined as family. According to a Yonhap News Agency report on May 9, the system has been operated for workers caring for legal family members, but officials are now examining whether people outside that legal category could also be covered. The review focuses on whether the system can reflect the reality that care needs may extend beyond legally recognized family ties. The original report did not provide specific eligible groups, an implementation timeline, or the method of any rule change. If pursued, the expansion could affect workers’ care rights and the range of leave they may use. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "家族介護休暇の対象拡大を検討、労働部が法的家族以外の関係も確認へ",
+        "excerpt": "労働部は、家族介護の休職・休暇の対象を法的な家族ではない関係にまで広げる案を検討する。介護需要の変化を踏まえ、制度の適用範囲を点検する趣旨だ。",
+        "body": "労働部は、家族介護のための休職・休暇制度の適用対象を、法的に家族とされない関係にまで拡大する案を検討する。5月9日の聯合ニュース報道によると、同制度はこれまで法的な家族を介護するための制度として運用されてきたが、今後は家族として規定されていない関係まで含められるかを確認する手続きが進められる。今回の検討は、介護を必要とする関係が法的家族の範囲だけにとどまらない現実を制度に反映できるかに焦点がある。ただし、具体的な対象、実施時期、制度変更の方法などは原文で追加提示されていない。制度拡大が実際に進めば、労働者の介護に関する権利や休暇利用の範囲に影響を与える可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "家庭照护假适用范围拟扩大，劳动部将研究纳入法定家庭外关系",
+        "excerpt": "劳动部将研究把家庭照护停职和休假的适用对象扩大至非法定家庭关系，以回应照护需求变化并审视制度覆盖范围。",
+        "body": "劳动部将研究把家庭照护停职、休假的适用对象扩大到法定家庭以外的关系。根据韩联社5月9日报道，现行家庭照护停职和休假制度主要面向照护法定家庭成员的劳动者，但今后将推进相关审查，确认是否可将未被法律定义为家庭的关系纳入适用范围。此次研究的重点在于，制度能否反映照护需求并不只存在于法定家庭范围内的现实。不过，原文未进一步说明具体适用对象、实施时间或制度调整方式。若相关扩大方案实际推进，可能影响劳动者的照护权利和休假使用范围。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Permiso por cuidado familiar: Trabajo estudia ampliarlo más allá de la familia legal",
+        "excerpt": "El Ministerio de Trabajo revisa si la excedencia y el permiso por cuidado familiar pueden cubrir relaciones no definidas legalmente como familia, ante cambios en las necesidades de cuidado.",
+        "body": "El Ministerio de Trabajo de Corea del Sur estudia ampliar el alcance de la excedencia y el permiso por cuidado familiar a relaciones que no están definidas legalmente como familia. Según informó Yonhap el 9 de mayo, el sistema ha funcionado hasta ahora para trabajadores que cuidan a familiares reconocidos por la ley, pero se revisará si también puede incluir vínculos que no entran en esa categoría legal. La revisión se centra en comprobar si la norma puede reflejar una realidad en la que las necesidades de cuidado no se limitan al ámbito de la familia legal. El texto original no detalla beneficiarios concretos, calendario de aplicación ni forma de modificación del sistema. Si la ampliación avanza, podría influir en los derechos de cuidado de los trabajadores y en el alcance de los permisos disponibles. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Licença para cuidado familiar pode ser ampliada além da família legal, avalia ministério",
+        "excerpt": "O Ministério do Trabalho avalia ampliar a licença e o afastamento para cuidado familiar a relações não definidas legalmente como família, em resposta a mudanças nas necessidades de cuidado.",
+        "body": "O Ministério do Trabalho da Coreia do Sul avalia ampliar o alcance do afastamento e da licença para cuidado familiar a relações que não são legalmente definidas como família. Segundo reportagem da Yonhap em 9 de maio, o sistema tem sido operado para trabalhadores que cuidam de familiares reconhecidos pela lei, mas agora será examinada a possibilidade de incluir relações fora dessa categoria legal. A revisão busca verificar se o制度 pode refletir a realidade de que as necessidades de cuidado não se limitam à família legal. O texto original não apresentou grupos específicos, prazo de implementação nem forma de alteração das regras. Caso a ampliação avance, ela poderá afetar os direitos de cuidado dos trabalhadores e o alcance das licenças disponíveis. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Familienpflegeurlaub vor Ausweitung: Arbeitsministerium prüft Beziehungen außerhalb der Rechtsfamilie",
+        "excerpt": "Das Arbeitsministerium prüft, ob Pflegefreistellung und Familienpflegeurlaub auch Beziehungen außerhalb der gesetzlich definierten Familie erfassen können, um veränderte Pflegebedarfe abzubilden.",
+        "body": "Das südkoreanische Arbeitsministerium prüft eine Ausweitung der Pflegefreistellung und des Familienpflegeurlaubs auf Beziehungen, die rechtlich nicht als Familie definiert sind. Wie Yonhap am 9. Mai berichtete, wurde das System bislang für Beschäftigte genutzt, die gesetzlich anerkannte Familienmitglieder betreuen. Nun soll geprüft werden, ob auch Beziehungen außerhalb dieser rechtlichen Kategorie einbezogen werden können. Im Mittelpunkt steht die Frage, ob das System der Realität Rechnung tragen kann, dass Pflegebedarf nicht nur innerhalb der gesetzlichen Familie entsteht. Der Originalbericht nennt keine konkreten Anspruchsgruppen, keinen Zeitplan und keine genaue Form einer möglichen Änderung. Sollte die Ausweitung umgesetzt werden, könnte sie die Pflegeansprüche von Beschäftigten und den Umfang nutzbarer Freistellungen beeinflussen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Congé pour soins familiaux: le ministère du Travail étudie une extension hors famille légale",
+        "excerpt": "Le ministère du Travail examine l’élargissement du congé et de l’absence pour soins familiaux à des relations non reconnues légalement comme familiales, afin de tenir compte de nouveaux besoins de prise en charge.",
+        "body": "Le ministère sud-coréen du Travail étudie une extension du congé et de l’absence pour soins familiaux à des relations qui ne sont pas définies légalement comme familiales. Selon Yonhap, dans un article du 9 mai, ce dispositif fonctionne jusqu’à présent pour les travailleurs qui s’occupent de membres de leur famille reconnus par la loi, mais les autorités vont examiner s’il peut aussi couvrir des liens situés hors de cette catégorie juridique. L’examen vise à déterminer si le système peut refléter une réalité où les besoins de soins ne se limitent pas à la famille légale. Le texte original ne précise pas les bénéficiaires concrets, le calendrier d’application ni la méthode de modification du dispositif. Si l’extension est engagée, elle pourrait influer sur les droits de prise en charge des travailleurs et sur l’étendue des congés utilisables. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "توسيع إجازة رعاية الأسرة قيد الدراسة ليشمل علاقات خارج الأسرة القانونية",
+        "excerpt": "تدرس وزارة العمل توسيع نطاق إجازة وترك رعاية الأسرة ليشمل علاقات لا تُعرّف قانونيا كأسرة، في مراجعة تعكس تغير احتياجات الرعاية.",
+        "body": "تدرس وزارة العمل في كوريا الجنوبية خطة لتوسيع نطاق ترك وإجازة رعاية الأسرة ليشمل علاقات لا تُعد أسرة بموجب القانون. ووفقا لتقرير وكالة يونهاب في 9 مايو، كان النظام يعمل حتى الآن للعاملين الذين يعتنون بأفراد الأسرة المعترف بهم قانونيا، لكن السلطات ستراجع ما إذا كان من الممكن إدراج علاقات لا تدخل ضمن هذا التعريف القانوني. تركز المراجعة على ما إذا كان النظام قادرا على عكس واقع أن احتياجات الرعاية لا تقتصر دائما على نطاق الأسرة القانونية. ولم يورد النص الأصلي فئات محددة مشمولة، أو موعدا للتنفيذ، أو طريقة لتغيير النظام. وإذا مضى التوسيع قدما، فقد يؤثر في حقوق الرعاية للعاملين ونطاق الإجازات التي يمكنهم استخدامها. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "परिवार देखभाल अवकाश का दायरा बढ़ाने पर विचार, कानूनी परिवार से बाहर संबंध भी शामिल हो सकते हैं",
+        "excerpt": "श्रम मंत्रालय परिवार देखभाल अवकाश और अवकाश-कालीन छुट्टी का दायरा कानूनी परिवार से बाहर के संबंधों तक बढ़ाने की समीक्षा कर रहा है, ताकि बदलती देखभाल जरूरतों को परखा जा सके।",
+        "body": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और परिवार देखभाल के लिए अवकाश-कालीन छुट्टी का दायरा उन संबंधों तक बढ़ाने की योजना पर विचार कर रहा है जिन्हें कानूनन परिवार नहीं माना जाता। 9 मई को योनहाप की रिपोर्ट के अनुसार, यह व्यवस्था अब तक कानूनी परिवार के सदस्यों की देखभाल करने वाले श्रमिकों के लिए संचालित रही है, लेकिन अब यह देखा जाएगा कि क्या कानूनी परिभाषा से बाहर के संबंधों को भी इसमें शामिल किया जा सकता है। समीक्षा का केंद्र यह है कि क्या व्यवस्था उस वास्तविकता को प्रतिबिंबित कर सकती है जिसमें देखभाल की जरूरतें केवल कानूनी परिवार तक सीमित नहीं रहतीं। मूल रिपोर्ट में पात्र समूहों, लागू करने की तारीख या बदलाव की पद्धति का विवरण नहीं दिया गया। यदि विस्तार आगे बढ़ता है, तो यह श्रमिकों के देखभाल अधिकारों और उपलब्ध छुट्टियों की सीमा को प्रभावित कर सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Cuti Perawatan Keluarga Dikaji Diperluas, Kementerian Tenaga Kerja Lirik Relasi di Luar Keluarga Hukum",
+        "excerpt": "Kementerian Tenaga Kerja mengkaji perluasan cuti dan izin perawatan keluarga ke hubungan yang tidak didefinisikan secara hukum sebagai keluarga, sejalan dengan perubahan kebutuhan perawatan.",
+        "body": "Kementerian Tenaga Kerja Korea Selatan mengkaji rencana memperluas cakupan cuti dan izin perawatan keluarga hingga mencakup hubungan yang tidak didefinisikan secara hukum sebagai keluarga. Menurut laporan Yonhap pada 9 Mei, sistem ini selama ini dijalankan bagi pekerja yang merawat anggota keluarga yang diakui secara hukum, tetapi kini akan ditinjau apakah hubungan di luar kategori hukum tersebut dapat ikut dicakup. Kajian ini berfokus pada apakah制度 dapat mencerminkan kenyataan bahwa kebutuhan perawatan tidak selalu terbatas pada keluarga legal. Laporan asli tidak merinci kelompok penerima, waktu penerapan, atau cara perubahan sistem. Jika perluasan benar-benar dilanjutkan, hal itu dapat memengaruhi hak perawatan pekerja dan cakupan cuti yang dapat digunakan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "74c5b723bdfb",
+    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-156227",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:22:18.830Z",
+    "updatedAt": "2026-05-09T21:22:18.830Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+    "dedupKeys": [
+      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
+      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+      "1e6a3d755483d53ed344770b6cc79e7956576453"
+    ],
+    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부영주택 도급대금 미지급 논란에 노동부 시정지시, 임금체불·고공농성까지",
+        "excerpt": "고용노동부는 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 준 부영주택에 대해 시정지시를 내렸다.",
+        "body": "고용노동부가 자체 감사 등을 이유로 하도급 업체에 기성금 지급을 미루고 직원들에게 수당을 적게 지급한 부영주택에 대해 시정지시를 내렸다. 이번 사안은 도급대금 미지급 논란이 임금체불 문제와 고공농성으로 이어지면서 노동 당국의 조치로 번졌다. 원문에 따르면 부영주택은 하도급 업체에 지급해야 할 기성금 처리를 지연했고, 이 과정에서 직원 수당도 제대로 지급되지 않은 것으로 전해졌다. 노동부의 시정지시는 미지급 대금과 임금 관련 문제를 바로잡도록 요구하는 절차로, 향후 이행 여부가 쟁점이 될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Booyoung Housing Ordered to Correct Unpaid Contract Payments and Wage Issues",
+        "excerpt": "South Korea’s labor ministry ordered Booyoung Housing to take corrective action after it delayed progress payments to a subcontractor and underpaid staff allowances.",
+        "body": "South Korea’s Ministry of Employment and Labor issued a corrective order to Booyoung Housing after the company delayed progress payments to a subcontractor, citing reasons including an internal audit, and paid some employee allowances below the proper amount. The case escalated from unpaid contract payments to wage arrears and a high-altitude protest, prompting labor authorities to intervene. According to the original report, Booyoung Housing postponed payments owed to a subcontractor and, in the process, failed to properly pay staff allowances. The corrective order requires the company to address the unpaid payments and wage-related issues, with attention now turning to whether it complies. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "富栄住宅に是正指示、請負代金未払いから賃金未払い・高所抗議へ",
+        "excerpt": "雇用労働部は、自社監査などを理由に下請け業者への出来高払いを遅らせ、職員手当を少なく支給した富栄住宅に是正指示を出した。",
+        "body": "韓国の雇用労働部は、自社監査などを理由に下請け業者への出来高金の支払いを遅らせ、職員の手当を本来より少なく支給した富栄住宅に対し、是正指示を出した。今回の事案は、請負代金の未払い問題が賃金未払いと高所での抗議行動につながり、労働当局の対応へと拡大したものだ。原文によると、富栄住宅は下請け業者に支払うべき出来高金の処理を遅延し、その過程で職員手当も適切に支払われなかったという。是正指示は未払い代金と賃金関連問題の改善を求める手続きで、今後は履行状況が焦点となる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "富荣住宅因拖欠承包款和工资问题被劳动部责令整改",
+        "excerpt": "韩国雇佣劳动部对富荣住宅下达整改指示，原因是其以内部审计等为由推迟向分包企业支付工程进度款，并少发员工津贴。",
+        "body": "韩国雇佣劳动部对富荣住宅下达整改指示。该公司被指出以内部审计等为由，推迟向分包企业支付工程进度款，并向员工少发津贴。此次事件由承包款未支付争议扩大为工资拖欠问题，并引发高空抗议，最终促使劳动主管部门介入。根据原文，富荣住宅延迟处理应支付给分包企业的进度款，在此过程中员工津贴也未能得到正常支付。整改指示要求其纠正未付款项和工资相关问题，后续是否落实将成为关注点。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Booyoung Housing recibe orden laboral por pagos de contrato y salarios impagos",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur ordenó medidas correctivas a Booyoung Housing por retrasar pagos a una subcontratista y pagar menos complementos a empleados.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden correctiva contra Booyoung Housing después de que la empresa retrasara pagos por avance de obra a una subcontratista, alegando motivos como una auditoría interna, y pagara complementos reducidos a sus empleados. El caso pasó de una disputa por pagos de contrato no abonados a un problema de salarios atrasados y una protesta en altura, lo que llevó a la intervención de la autoridad laboral. Según el reporte original, Booyoung Housing demoró el pago que debía a la subcontratista y, durante el proceso, no abonó correctamente los complementos del personal. La orden exige corregir los pagos pendientes y los asuntos salariales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Booyoung Housing recebe ordem por atraso em pagamentos e salários devidos",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul ordenou correções à Booyoung Housing por adiar pagamentos a uma subcontratada e pagar menos adicionais a funcionários.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem corretiva contra a Booyoung Housing após a empresa adiar pagamentos por etapas concluídas a uma subcontratada, citando motivos como auditoria interna, e pagar adicionais abaixo do devido a funcionários. O caso evoluiu de uma controvérsia sobre valores contratuais não pagos para atrasos salariais e um protesto em local elevado, levando à atuação da autoridade trabalhista. Segundo o relato original, a Booyoung Housing atrasou o processamento de valores devidos à subcontratada e, nesse processo, não pagou corretamente os adicionais dos empregados. A ordem exige correção dos pagamentos pendentes e das questões salariais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Booyoung Housing erhält Anordnung wegen ausstehender Zahlungen und Löhnen",
+        "excerpt": "Südkoreas Arbeitsministerium hat Booyoung Housing angewiesen, verzögerte Zahlungen an einen Subunternehmer und zu niedrig gezahlte Zulagen zu korrigieren.",
+        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanordnung erteilt. Das Unternehmen hatte unter anderem mit einer internen Prüfung begründet, Abschlagszahlungen an einen Subunternehmer zu verzögern, und Beschäftigten Zulagen zu niedrig ausgezahlt. Der Fall weitete sich von nicht gezahlten Vertragsbeträgen zu Lohnrückständen und einem Protest in großer Höhe aus, wodurch die Arbeitsbehörde einschritt. Laut Originalbericht verschob Booyoung Housing die Auszahlung fälliger Beträge an den Subunternehmer; zugleich wurden Mitarbeiterzulagen nicht ordnungsgemäß gezahlt. Die Anordnung verlangt die Behebung der offenen Zahlungs- und Lohnfragen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Booyoung Housing visée par une injonction pour paiements et salaires impayés",
+        "excerpt": "Le ministère sud-coréen du Travail a ordonné à Booyoung Housing de corriger des retards de paiement à un sous-traitant et des indemnités insuffisantes versées aux salariés.",
+        "body": "Le ministère sud-coréen de l’Emploi et du Travail a adressé une injonction de correction à Booyoung Housing. L’entreprise avait retardé des paiements d’avancement dus à un sous-traitant, en invoquant notamment un audit interne, et versé des indemnités inférieures au montant dû à des salariés. L’affaire, partie d’un litige sur des paiements contractuels non réglés, s’est étendue à des arriérés de salaires et à une protestation en hauteur, entraînant l’intervention des autorités du travail. Selon l’article original, Booyoung Housing a différé le traitement des sommes dues au sous-traitant et n’a pas correctement payé certaines indemnités du personnel. L’injonction exige la correction de ces problèmes de paiement et de salaire. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أمر تصحيحي ضد بويوoung للإسكان بسبب مستحقات مقاولات وأجور غير مدفوعة",
+        "excerpt": "أصدرت وزارة العمل الكورية الجنوبية أمرا تصحيحيا بحق بويوoung للإسكان بعد تأخير مدفوعات لمقاول فرعي ودفع بدلات أقل للموظفين.",
+        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا بحق شركة بويوoung للإسكان بعدما أخرت دفعات مستحقة لمقاول فرعي، لأسباب من بينها تدقيق داخلي، ودفعت بعض بدلات الموظفين بأقل من المستحق. وتطور الأمر من خلاف حول عدم دفع مستحقات المقاولات إلى مشكلة أجور متأخرة واحتجاج على ارتفاع عال، ما دفع سلطات العمل إلى التدخل. ووفق التقرير الأصلي، أرجأت بويوoung للإسكان معالجة مبالغ كان يجب دفعها للمقاول الفرعي، وخلال ذلك لم تسدد بدلات الموظفين بشكل صحيح. ويطلب الأمر التصحيحي معالجة المدفوعات غير المسددة والقضايا المرتبطة بالأجور. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Booyoung Housing को ठेका भुगतान और वेतन बकाया पर सुधार आदेश",
+        "excerpt": "दक्षिण कोरिया के श्रम मंत्रालय ने Booyoung Housing को उपठेकेदार को भुगतान टालने और कर्मचारियों के भत्ते कम देने पर सुधार आदेश जारी किया।",
+        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने Booyoung Housing को सुधार आदेश जारी किया है। कंपनी ने आंतरिक ऑडिट जैसे कारणों का हवाला देते हुए उपठेकेदार को प्रगति भुगतान में देरी की और कर्मचारियों को भत्ते कम दिए। यह मामला ठेका भुगतान न किए जाने के विवाद से बढ़कर वेतन बकाया और ऊंचाई पर विरोध प्रदर्शन तक पहुंचा, जिसके बाद श्रम अधिकारियों ने कार्रवाई की। मूल रिपोर्ट के अनुसार, Booyoung Housing ने उपठेकेदार को देय राशि के भुगतान की प्रक्रिया टाली और इसी दौरान कर्मचारियों के भत्ते भी सही ढंग से नहीं दिए गए। सुधार आदेश में लंबित भुगतान और वेतन संबंधी समस्याओं को ठीक करने की मांग की गई है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Booyoung Housing Diperintahkan Koreksi Pembayaran Kontrak dan Upah Tertunda",
+        "excerpt": "Kementerian Ketenagakerjaan Korea Selatan memerintahkan Booyoung Housing memperbaiki penundaan pembayaran kepada subkontraktor dan tunjangan karyawan yang dibayar kurang.",
+        "body": "Kementerian Ketenagakerjaan dan Perburuhan Korea Selatan mengeluarkan perintah korektif kepada Booyoung Housing setelah perusahaan menunda pembayaran progres kepada subkontraktor dengan alasan antara lain audit internal, serta membayar tunjangan karyawan lebih rendah dari semestinya. Kasus ini berkembang dari sengketa pembayaran kontrak yang belum dibayar menjadi persoalan tunggakan upah dan aksi protes di ketinggian, sehingga otoritas ketenagakerjaan turun tangan. Menurut laporan asli, Booyoung Housing menunda pemrosesan dana yang harus dibayarkan kepada subkontraktor dan dalam proses itu tunjangan staf tidak dibayar dengan benar. Perintah tersebut meminta masalah pembayaran dan upah diperbaiki. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cfb5be7d479e",
+    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-791896",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:21:22.135Z",
+    "updatedAt": "2026-05-09T21:21:22.135Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
+    "dedupKeys": [
+      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
+      "7896331f2884b3abc9c1971d827cba1f84d2321d",
+      "d74d14b5e2011c527047156bb61999944588467f"
+    ],
+    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라, 지난달 국내 승용 전기차 판매 첫 1위…기아 처음 제치며 순위 변화",
+        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 앞서며 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
+        "body": "미국 전기차 브랜드 테슬라가 지난달 국내 승용 전기차 판매에서 처음으로 한국 기아를 제치고 1위에 올랐다. 연합뉴스에 따르면 테슬라는 해당 기간 국내 승용 전기차 분야에서 판매 1위 브랜드가 됐으며, 기아를 앞선 것은 이번이 처음이다. 이번 결과는 국내 전기차 시장에서 브랜드별 판매 순위가 바뀐 사례로 주목된다. 구체적인 판매 대수나 차종별 실적은 원문 요약에 제시되지 않았지만, 테슬라가 기아를 넘어섰다는 점은 국내 승용 전기차 경쟁 구도에서 의미 있는 변화로 해석된다. 향후 월별 판매 흐름에 따라 1위 브랜드 경쟁은 계속 주목받을 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tesla Takes No. 1 in Korea Passenger EV Sales for First Time, Passing Kia",
+        "excerpt": "Tesla became South Korea’s top-selling passenger EV brand last month, overtaking Kia for the first time, according to a Yonhap News Agency report.",
+        "body": "U.S. electric vehicle brand Tesla ranked first in South Korea’s passenger EV sales last month, surpassing Korean automaker Kia for the first time. According to Yonhap News Agency, Tesla became the top-selling brand in the domestic passenger electric vehicle segment during the period. The report highlights a change in brand rankings within Korea’s EV market. Specific sales volumes or model-by-model results were not included in the provided source summary, but Tesla moving ahead of Kia marks a notable shift in the passenger EV sales landscape. Monthly sales trends will continue to draw attention in the race for the top brand position. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "テスラ、韓国乗用EV販売で初の首位に…起亜を初めて上回る",
+        "excerpt": "米テスラが先月、韓国の乗用電気自動車市場で起亜を初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
+        "body": "米電気自動車ブランドのテスラが先月、韓国の乗用EV販売で初めて韓国の起亜を抜き、首位に立った。聯合ニュースによると、テスラは同期間、韓国国内の乗用電気自動車分野で販売1位ブランドとなり、起亜を上回ったのは今回が初めてだ。今回の結果は、韓国EV市場におけるブランド別販売順位の変化として注目される。具体的な販売台数や車種別実績は原文要約に示されていないが、テスラが起亜を超えた点は乗用EV競争の構図における意味ある変化と受け止められる。今後の月別販売動向にも関心が集まりそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特斯拉首次登顶韩国乘用电动车销量榜，上月超越起亚",
+        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量第一的品牌。",
+        "body": "美国电动车品牌特斯拉上月在韩国乘用电动车销量中首次超过韩国起亚，升至第一位。据韩联社报道，特斯拉在该期间成为韩国国内乘用电动车领域销量排名第一的品牌，这也是其首次领先起亚。此次结果显示，韩国电动车市场的品牌销量排名出现变化。原文摘要未提供具体销量或分车型成绩，但特斯拉超过起亚这一事实，被视为韩国乘用电动车竞争格局中的一个重要变化。未来按月销量走势仍将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tesla lidera por primera vez las ventas de autos eléctricos en Corea y supera a Kia",
+        "excerpt": "Tesla fue la marca más vendida de vehículos eléctricos de pasajeros en Corea del Sur el mes pasado, superando por primera vez a Kia, informó Yonhap.",
+        "body": "La marca estadounidense Tesla ocupó el primer lugar en las ventas de vehículos eléctricos de pasajeros en Corea del Sur el mes pasado, superando por primera vez a la surcoreana Kia. Según la agencia Yonhap, Tesla se convirtió durante ese periodo en la marca líder del segmento nacional de autos eléctricos de pasajeros. El resultado llama la atención porque marca un cambio en el orden de ventas por marca dentro del mercado coreano de vehículos eléctricos. El resumen original no incluye cifras concretas de unidades vendidas ni resultados por modelo, pero el hecho de que Tesla haya adelantado a Kia representa una variación relevante en la competencia del sector. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tesla assume pela primeira vez a liderança de carros elétricos na Coreia, à frente da Kia",
+        "excerpt": "A Tesla foi a marca mais vendida de veículos elétricos de passeio na Coreia do Sul no mês passado, superando a Kia pela primeira vez, segundo a Yonhap.",
+        "body": "A marca norte-americana Tesla ficou em primeiro lugar nas vendas de veículos elétricos de passeio na Coreia do Sul no mês passado, ultrapassando pela primeira vez a sul-coreana Kia. Segundo a agência Yonhap, a Tesla tornou-se a marca líder no segmento doméstico de carros elétricos de passeio durante o período. O resultado chama atenção por indicar uma mudança na classificação de vendas por marca no mercado coreano de veículos elétricos. O resumo original não apresenta volumes específicos de vendas nem desempenho por modelo, mas a superação da Kia pela Tesla é vista como uma mudança relevante na disputa do setor. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tesla erstmals Nummer eins bei E-Auto-Verkäufen in Korea und überholt Kia",
+        "excerpt": "Tesla wurde im vergangenen Monat erstmals meistverkaufte Marke bei Pkw-Elektroautos in Südkorea und lag vor Kia, berichtete Yonhap.",
+        "body": "Die US-Elektroautomarke Tesla hat im vergangenen Monat bei den Verkäufen von Pkw-Elektroautos in Südkorea erstmals Kia überholt und Platz eins erreicht. Nach Angaben der Nachrichtenagentur Yonhap wurde Tesla in diesem Zeitraum zur meistverkauften Marke im heimischen Segment der elektrischen Personenwagen. Das Ergebnis wird als Veränderung in der Markenrangfolge des koreanischen EV-Marktes gewertet. Konkrete Verkaufszahlen oder Ergebnisse nach Modell nennt die vorliegende Zusammenfassung nicht. Dass Tesla jedoch vor Kia lag, markiert eine beachtliche Verschiebung im Wettbewerb um die Spitzenposition bei Pkw-Elektroautos. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Tesla devient numéro un des voitures électriques en Corée et dépasse Kia pour la première fois",
+        "excerpt": "Tesla a pris la tête des ventes de voitures électriques particulières en Corée du Sud le mois dernier, devant Kia pour la première fois, selon Yonhap.",
+        "body": "La marque américaine Tesla a pris la première place des ventes de voitures électriques particulières en Corée du Sud le mois dernier, dépassant pour la première fois le constructeur sud-coréen Kia. Selon l’agence Yonhap, Tesla est devenue sur cette période la marque la plus vendue du segment national des véhicules électriques particuliers. Ce résultat attire l’attention car il traduit un changement dans le classement des ventes par marque sur le marché coréen. Le résumé original ne fournit pas de volumes précis ni de résultats par modèle, mais le passage de Tesla devant Kia constitue une évolution notable dans la concurrence du secteur. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تسلا تتصدر مبيعات السيارات الكهربائية في كوريا لأول مرة متجاوزة كيا",
+        "excerpt": "أصبحت تسلا العلامة الأكثر مبيعا في سيارات الركاب الكهربائية بكوريا الجنوبية الشهر الماضي، متجاوزة كيا لأول مرة، وفق يونهاب.",
+        "body": "احتلت العلامة الأميركية تسلا المركز الأول في مبيعات سيارات الركاب الكهربائية في كوريا الجنوبية الشهر الماضي، متجاوزة شركة كيا الكورية لأول مرة. ووفقا لوكالة يونهاب، أصبحت تسلا خلال تلك الفترة العلامة الأعلى مبيعا في قطاع سيارات الركاب الكهربائية داخل السوق الكورية. وتلفت النتيجة الانتباه لأنها تمثل تغيرا في ترتيب العلامات التجارية ضمن سوق السيارات الكهربائية في كوريا. ولم يتضمن ملخص المصدر أرقاما محددة للمبيعات أو نتائج بحسب الطراز، لكن تقدم تسلا على كيا يعد تغيرا ملحوظا في مشهد المنافسة بين علامات سيارات الركاب الكهربائية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "टेस्ला पहली बार कोरिया में यात्री ईवी बिक्री में नंबर वन, किआ से आगे निकली",
+        "excerpt": "योनहाप के अनुसार, टेस्ला पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की सबसे अधिक बिकने वाली ब्रांड बनी और पहली बार किआ से आगे निकली।",
+        "body": "अमेरिकी इलेक्ट्रिक वाहन ब्रांड टेस्ला ने पिछले महीने दक्षिण कोरिया में यात्री इलेक्ट्रिक वाहनों की बिक्री में पहली बार कोरियाई कंपनी किआ को पीछे छोड़ते हुए पहला स्थान हासिल किया। योनहाप समाचार एजेंसी के अनुसार, टेस्ला उस अवधि में घरेलू यात्री ईवी क्षेत्र की बिक्री में शीर्ष ब्रांड बनी। यह परिणाम कोरिया के इलेक्ट्रिक वाहन बाजार में ब्रांड आधारित बिक्री क्रम में बदलाव के रूप में देखा जा रहा है। मूल सारांश में बिक्री की सटीक संख्या या मॉडलवार प्रदर्शन नहीं दिया गया है, लेकिन टेस्ला का किआ से आगे निकलना यात्री ईवी प्रतिस्पर्धा में एक महत्वपूर्ण बदलाव माना जा सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tesla Pertama Kali Pimpin Penjualan EV Penumpang di Korea, Salip Kia",
+        "excerpt": "Tesla menjadi merek mobil listrik penumpang terlaris di Korea Selatan bulan lalu, untuk pertama kalinya mengungguli Kia, menurut laporan Yonhap.",
+        "body": "Merek mobil listrik asal Amerika Serikat, Tesla, menempati posisi pertama dalam penjualan kendaraan listrik penumpang di Korea Selatan bulan lalu, untuk pertama kalinya melampaui Kia. Menurut kantor berita Yonhap, Tesla menjadi merek terlaris di segmen mobil listrik penumpang domestik selama periode tersebut. Hasil ini menarik perhatian karena menunjukkan perubahan dalam peringkat penjualan berdasarkan merek di pasar EV Korea. Ringkasan sumber tidak memuat angka penjualan rinci atau kinerja per model, tetapi keberhasilan Tesla melewati Kia menjadi perubahan penting dalam persaingan kendaraan listrik penumpang. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "8210191de7b2",
     "slug": "5대-은행장-금융-역할-재정립-공감건전성-챙겨야-지속-가능-524375",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Lotte Wellfood Catat Laba Operasi Kuartal I Naik 118,4% Berkat Efek Global",
         "excerpt": "Lotte Wellfood menyatakan laba operasi konsolidasian kuartal pertama tahun ini mencapai 35,8 miliar won, naik 118,4% secara tahunan, dengan efek bisnis global sebagai pendorong.",
         "body": "Lotte Wellfood menyatakan laba operasi konsolidasian pada kuartal pertama tahun ini mencapai 35,8 miliar won, naik 118,4% dibanding periode yang sama tahun lalu. Menurut pengumuman tersebut, perbaikan kinerja ini dijelaskan sebagai hasil dari efek bisnis global. Laba operasi kuartal pertama meningkat lebih dari dua kali lipat secara tahunan, menunjukkan perbaikan profitabilitas yang jelas. Berdasarkan teks asli yang diberikan, rincian lain seperti pendapatan dan laba bersih tidak dikonfirmasi secara terpisah. Di tengah meningkatnya pengaruh kinerja luar negeri bagi perusahaan makanan, Lotte Wellfood menunjukkan perbaikan laba kuartal pertama melalui efek global. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "476233ed559b",
-    "slug": "nh농협은행-임베디드플랫폼-서비스-가입-프로모션-870118",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T13:02:18.943Z",
-    "updatedAt": "2026-05-09T13:02:18.943Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508091200002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508091200002",
-    "titleFingerprint": "92ad55039bae0f64123d05504269be87dc1ba9bd",
-    "dedupKeys": [
-      "476233ed559bf4f2d7316a2455adb408b5b6fc26",
-      "92ad55039bae0f64123d05504269be87dc1ba9bd",
-      "8db367fa24e3d4daf8e31c44d752af4f8cdb619e"
-    ],
-    "imageUrl": "/images/articles/476233ed559b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NH농협은행 임베디드플랫폼 신규가입 프로모션, 기업 디지털 금융 편의 강화",
-        "excerpt": "NH농협은행은 8일 기업 디지털 금융 이용 편의성을 높이기 위해 NH임베디드플랫폼 신규가입 이벤트를 진행한다고 밝혔다.",
-        "body": "NH농협은행은 8일 기업 디지털 금융 이용 편의성을 높이기 위해 NH임베디드플랫폼 신규가입 이벤트를 진행한다고 밝혔다. 이번 프로모션은 기업 고객이 디지털 금융 서비스를 보다 편리하게 이용할 수 있도록 마련된 신규가입 행사다. NH임베디드플랫폼은 기업 금융 업무의 디지털 접근성을 높이는 서비스로 소개됐다. 은행권에서 기업 고객의 비대면·디지털 금융 수요가 커지는 가운데, NH농협은행은 가입 이벤트를 통해 플랫폼 이용 확대를 추진한다. 구체적인 혜택이나 기간은 원문에 공개된 정보 범위에서 확인되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "NH NongHyup Bank Launches Embedded Platform Sign-Up Promotion for Business Finance",
-        "excerpt": "NH NongHyup Bank said on May 8 it is running a new sign-up event for NH Embedded Platform to improve convenience in corporate digital finance.",
-        "body": "NH NongHyup Bank said on May 8 that it is running a new sign-up event for NH Embedded Platform to improve convenience in corporate digital finance. The promotion is a new membership campaign designed to help corporate customers use digital financial services more easily. NH Embedded Platform was introduced as a service that enhances digital access to corporate banking tasks. As demand for non-face-to-face and digital finance among business customers grows, NH NongHyup Bank is seeking to expand platform use through the sign-up event. Specific benefits or the event period were not confirmed within the original information. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "NH農協銀行、企業向けデジタル金融の利便性高める新規加入促進策",
-        "excerpt": "NH農協銀行は8日、企業デジタル金融の利用利便性を高めるため、NHエンベデッドプラットフォームの新規加入イベントを行うと明らかにした。",
-        "body": "NH農協銀行は8日、企業デジタル金融の利用利便性を高めるため、NHエンベデッドプラットフォームの新規加入イベントを行うと明らかにした。今回のプロモーションは、企業顧客がデジタル金融サービスをより便利に利用できるよう用意された新規加入キャンペーンだ。NHエンベデッドプラットフォームは、企業金融業務のデジタルアクセス性を高めるサービスとして紹介された。企業顧客の非対面・デジタル金融需要が高まる中、NH農協銀行は加入イベントを通じてプラットフォーム利用の拡大を進める。具体的な特典や期間は原文情報の範囲では確認されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "NH农协银行推出嵌入式平台新 가입促销，提升企业数字金融便利性",
-        "excerpt": "NH农协银行8日表示，为提高企业数字金融使用便利性，将开展NH嵌入式平台新 가입活动。",
-        "body": "NH农协银行8日表示，为提高企业数字金融使用便利性，将开展NH嵌入式平台新 가입活动。此次促销是面向企业客户的新 가입活动，旨在帮助其更便捷地使用数字金融服务。NH嵌入式平台被介绍为提升企业金融业务数字化接入能力的服务。随着企业客户对非面对面和数字金融的需求增加，NH农协银行希望通过 가입活动扩大平台使用。具体优惠内容或活动期限，在原文信息范围内尚未确认。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "NH NongHyup Bank lanza promoción de alta en Embedded Platform para finanzas empresariales",
-        "excerpt": "NH NongHyup Bank informó el día 8 que realizará un evento de nuevas altas en NH Embedded Platform para mejorar la comodidad de las finanzas digitales corporativas.",
-        "body": "NH NongHyup Bank informó el día 8 que realizará un evento de nuevas altas en NH Embedded Platform para mejorar la comodidad de uso de las finanzas digitales corporativas. La promoción está dirigida a clientes empresariales y busca facilitar el acceso a servicios financieros digitales. NH Embedded Platform fue presentada como un servicio que mejora la accesibilidad digital de las operaciones financieras de las empresas. En un contexto de mayor demanda corporativa por finanzas digitales y no presenciales, el banco busca ampliar el uso de la plataforma mediante este evento. Los beneficios concretos o el periodo de la campaña no fueron confirmados en la información original. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "NH NongHyup Bank lança promoção de adesão à Embedded Platform para finanças empresariais",
-        "excerpt": "O NH NongHyup Bank informou no dia 8 que realizará um evento de novas adesões à NH Embedded Platform para ampliar a conveniência das finanças digitais corporativas.",
-        "body": "O NH NongHyup Bank informou no dia 8 que realizará um evento de novas adesões à NH Embedded Platform para ampliar a conveniência no uso das finanças digitais corporativas. A promoção foi preparada para ajudar clientes empresariais a utilizar serviços financeiros digitais com mais facilidade. A NH Embedded Platform foi apresentada como um serviço que melhora o acesso digital às operações financeiras corporativas. Com o crescimento da demanda por finanças digitais e sem atendimento presencial entre empresas, o banco busca expandir o uso da plataforma por meio do evento de adesão. Benefícios específicos ou período da campanha não foram confirmados nas informações originais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "NH NongHyup Bank startet Anmeldeaktion für Embedded Platform im Firmenkundengeschäft",
-        "excerpt": "Die NH NongHyup Bank teilte am 8. mit, dass sie eine Neuanmeldeaktion für die NH Embedded Platform durchführt, um digitales Firmenbanking bequemer zu machen.",
-        "body": "Die NH NongHyup Bank teilte am 8. mit, dass sie eine Neuanmeldeaktion für die NH Embedded Platform durchführt, um die Nutzung digitaler Finanzdienste für Unternehmen bequemer zu machen. Die Promotion richtet sich an Firmenkunden und soll ihnen den Zugang zu digitalen Finanzservices erleichtern. Die NH Embedded Platform wurde als Dienst vorgestellt, der den digitalen Zugang zu Finanzaufgaben von Unternehmen verbessert. Angesichts wachsender Nachfrage nach kontaktlosen und digitalen Finanzlösungen bei Firmenkunden will die Bank die Nutzung der Plattform durch das Anmeldeevent ausweiten. Konkrete Vorteile oder der Aktionszeitraum wurden in den ursprünglichen Angaben nicht bestätigt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "NH NongHyup Bank lance une promotion d’inscription à Embedded Platform pour les entreprises",
-        "excerpt": "NH NongHyup Bank a annoncé le 8 organiser un événement de nouvelles inscriptions à NH Embedded Platform afin d’améliorer la commodité de la finance numérique d’entreprise.",
-        "body": "NH NongHyup Bank a annoncé le 8 organiser un événement de nouvelles inscriptions à NH Embedded Platform afin d’améliorer la commodité d’utilisation de la finance numérique d’entreprise. Cette promotion vise à aider les clients professionnels à utiliser plus facilement les services financiers numériques. NH Embedded Platform a été présentée comme un service renforçant l’accès numérique aux opérations financières des entreprises. Alors que la demande des entreprises pour des services financiers numériques et à distance augmente, la banque cherche à élargir l’usage de la plateforme grâce à cet événement. Les avantages précis ou la durée de la campagne ne sont pas confirmés dans les informations d’origine. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بنك NH NongHyup يطلق عرض تسجيل جديد لمنصة Embedded Platform لتمويل الشركات",
-        "excerpt": "أعلن بنك NH NongHyup في 8 من الشهر أنه ينظم فعالية تسجيل جديد في NH Embedded Platform لتعزيز سهولة استخدام التمويل الرقمي للشركات.",
-        "body": "أعلن بنك NH NongHyup في 8 من الشهر أنه ينظم فعالية تسجيل جديد في NH Embedded Platform بهدف تعزيز سهولة استخدام التمويل الرقمي للشركات. وتأتي هذه الحملة لمساعدة عملاء الشركات على استخدام الخدمات المالية الرقمية بصورة أكثر راحة. وقد قُدمت NH Embedded Platform كخدمة ترفع إمكانية الوصول الرقمي إلى أعمال التمويل الخاصة بالشركات. ومع تزايد طلب الشركات على الخدمات المالية الرقمية وغير الحضورية، يسعى البنك إلى توسيع استخدام المنصة من خلال فعالية التسجيل. ولم تُؤكد في المعلومات الأصلية تفاصيل المزايا المحددة أو مدة الحملة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "NH NongHyup Bank ने कॉरपोरेट डिजिटल फाइनेंस के लिए Embedded Platform साइन-अप प्रमोशन शुरू किया",
-        "excerpt": "NH NongHyup Bank ने 8 तारीख को कहा कि वह कॉरपोरेट डिजिटल फाइनेंस की सुविधा बढ़ाने के लिए NH Embedded Platform का नया साइन-अप इवेंट चला रहा है।",
-        "body": "NH NongHyup Bank ने 8 तारीख को कहा कि वह कॉरपोरेट डिजिटल फाइनेंस के उपयोग को अधिक सुविधाजनक बनाने के लिए NH Embedded Platform का नया साइन-अप इवेंट चला रहा है। यह प्रमोशन कॉरपोरेट ग्राहकों को डिजिटल वित्तीय सेवाओं का अधिक आसानी से उपयोग करने में मदद देने के लिए तैयार किया गया है। NH Embedded Platform को कॉरपोरेट वित्तीय कार्यों तक डिजिटल पहुंच बढ़ाने वाली सेवा के रूप में पेश किया गया। कंपनियों में गैर-आमने-सामने और डिजिटल फाइनेंस की मांग बढ़ने के बीच बैंक इस साइन-अप इवेंट के जरिए प्लेटफॉर्म उपयोग बढ़ाना चाहता है। मूल जानकारी में विशिष्ट लाभ या अवधि की पुष्टि नहीं की गई। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "NH NongHyup Bank Gelar Promosi Pendaftaran Embedded Platform untuk Keuangan Digital Korporasi",
-        "excerpt": "NH NongHyup Bank menyatakan pada tanggal 8 bahwa mereka mengadakan acara pendaftaran baru NH Embedded Platform untuk meningkatkan kemudahan keuangan digital perusahaan.",
-        "body": "NH NongHyup Bank menyatakan pada tanggal 8 bahwa mereka mengadakan acara pendaftaran baru NH Embedded Platform untuk meningkatkan kemudahan penggunaan keuangan digital perusahaan. Promosi ini disiapkan agar nasabah korporasi dapat memakai layanan keuangan digital dengan lebih mudah. NH Embedded Platform diperkenalkan sebagai layanan yang meningkatkan akses digital terhadap pekerjaan keuangan perusahaan. Di tengah meningkatnya kebutuhan nasabah korporasi terhadap keuangan digital dan non-tatap muka, bank berupaya memperluas penggunaan platform melalui acara pendaftaran ini. Manfaat konkret atau periode acara tidak dikonfirmasi dalam informasi asli. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f533a9186efd",
-    "slug": "우리은행-알뜰폰-우리won모바일-가족-결합-혜택-강화-820829",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T13:01:23.277Z",
-    "updatedAt": "2026-05-09T13:01:23.277Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508094800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508094800002",
-    "titleFingerprint": "ffcd0ceb28ddfb8ec7249ad688190b7de44b4d54",
-    "dedupKeys": [
-      "f533a9186efdc8464bf1ba23dcf9acc0b2d9c3eb",
-      "ffcd0ceb28ddfb8ec7249ad688190b7de44b4d54",
-      "4f4b22c83e3f23e7ff98ea4ac0495fe14d09f55f"
-    ],
-    "imageUrl": "/images/articles/f533a9186efd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리은행 ‘우리WON모바일’, 5월 가족 결합 혜택 강화 이벤트 진행",
-        "excerpt": "우리은행은 5월 가정의 달을 맞아 알뜰폰 서비스 ‘우리WON모바일’의 가족 결합 혜택을 강화하는 ‘모두다 WON하는 대로’ 이벤트를 진행한다고 밝혔다.",
-        "body": "우리은행은 5월 가정의 달을 맞아 알뜰폰 서비스 ‘우리WON모바일’에서 가족 결합 혜택을 강화하는 ‘모두다 WON하는 대로’ 이벤트를 진행한다고 밝혔다. 이번 행사는 가족 단위 이용자를 대상으로 우리WON모바일의 결합 혜택을 알리고 이용 편의성을 높이기 위한 취지로 마련됐다. 우리은행은 알뜰폰 서비스 이용 고객이 가족 결합을 통해 혜택을 받을 수 있도록 이벤트를 운영한다. 가정의 달 수요와 맞물려 금융권의 생활 밀착형 서비스 경쟁에도 관심이 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Woori Bank Boosts WooriWON Mobile Family Bundle Benefits in May Event",
-        "excerpt": "Woori Bank said it is holding the “Moduda WONhaneun Daero” event in May to strengthen family bundle benefits for its MVNO service WooriWON Mobile.",
-        "body": "Woori Bank said it is holding the “Moduda WONhaneun Daero” event for its budget mobile service, WooriWON Mobile, in May, Korea’s Family Month, to strengthen family bundle benefits. The event is designed to inform family users about WooriWON Mobile’s bundled benefits and improve convenience for customers using the service. Woori Bank will operate the promotion so customers of the MVNO service can receive benefits through family bundling. Interest is expected to continue in financial companies’ lifestyle-focused service competition as demand rises during Family Month. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ウリィ銀行「WooriWONモバイル」、5月に家族割引特典を強化",
-        "excerpt": "ウリィ銀行は5月の家庭の月に合わせ、格安スマホサービス「WooriWONモバイル」の家族結合特典を強化するイベントを実施すると明らかにした。",
-        "body": "ウリィ銀行は、5月の家庭の月に合わせ、格安スマホサービス「WooriWONモバイル」で家族結合特典を強化する「モドゥダ WONハヌン デロ」イベントを実施すると明らかにした。今回のイベントは、家族単位の利用者にWooriWONモバイルの結合特典を知らせ、サービス利用の利便性を高める趣旨で用意された。ウリィ銀行は、格安スマホサービスの利用顧客が家族結合を通じて特典を受けられるようイベントを運営する。家庭の月の需要と重なり、金融圏の生活密着型サービス競争にも関心が続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "友利银行WooriWON Mobile 5月强化家庭绑定优惠活动",
-        "excerpt": "友利银行表示，迎接5月家庭月，将为平价手机服务“WooriWON Mobile”开展强化家庭绑定优惠的“Moduda WONhaneun Daero”活动。",
-        "body": "友利银行表示，迎接5月家庭月，将在平价手机服务“WooriWON Mobile”中开展强化家庭绑定优惠的“Moduda WONhaneun Daero”活动。此次活动面向家庭单位用户，旨在介绍WooriWON Mobile的绑定优惠，并提高服务使用便利性。友利银行将运营该活动，使平价手机服务客户能够通过家庭绑定获得相关优惠。随着家庭月需求增加，金融业生活贴近型服务竞争也预计将继续受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Woori Bank refuerza en mayo los beneficios familiares de WooriWON Mobile",
-        "excerpt": "Woori Bank informó que realizará en mayo el evento “Moduda WONhaneun Daero” para fortalecer los beneficios de vinculación familiar de su servicio móvil económico WooriWON Mobile.",
-        "body": "Woori Bank informó que, con motivo del Mes de la Familia en mayo, realizará el evento “Moduda WONhaneun Daero” en su servicio móvil económico WooriWON Mobile para reforzar los beneficios de vinculación familiar. La iniciativa busca informar a los usuarios familiares sobre las ventajas combinadas de WooriWON Mobile y mejorar la comodidad de uso del servicio. El banco operará la promoción para que los clientes del servicio móvil económico puedan recibir beneficios mediante la vinculación familiar. Con la demanda del Mes de la Familia, se prevé que continúe el interés por la competencia de servicios financieros ligados a la vida cotidiana. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Woori Bank reforça benefícios familiares do WooriWON Mobile em maio",
-        "excerpt": "O Woori Bank informou que realizará em maio o evento “Moduda WONhaneun Daero” para ampliar os benefícios de combinação familiar do serviço móvel econômico WooriWON Mobile.",
-        "body": "O Woori Bank informou que, em maio, mês da família, realizará o evento “Moduda WONhaneun Daero” em seu serviço móvel econômico WooriWON Mobile para reforçar os benefícios de combinação familiar. A ação foi preparada para apresentar aos usuários em família os benefícios combinados do WooriWON Mobile e aumentar a conveniência do uso do serviço. O banco conduzirá o evento para que clientes do serviço móvel econômico possam receber benefícios por meio da combinação familiar. Com a demanda do mês da família, a competição de serviços financeiros voltados ao cotidiano deve seguir atraindo atenção. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Woori Bank stärkt im Mai Familienvorteile von WooriWON Mobile",
-        "excerpt": "Die Woori Bank teilte mit, dass sie im Mai die Aktion „Moduda WONhaneun Daero“ startet, um Familienbündel-Vorteile ihres Mobilfunkdienstes WooriWON Mobile zu stärken.",
-        "body": "Die Woori Bank teilte mit, dass sie im Mai, dem koreanischen Familienmonat, für ihren günstigen Mobilfunkdienst WooriWON Mobile die Aktion „Moduda WONhaneun Daero“ durchführt, um Familienbündel-Vorteile zu stärken. Die Aktion soll Familiennutzer über die Kombivorteile von WooriWON Mobile informieren und die Nutzung des Dienstes komfortabler machen. Die Bank wird die Promotion so betreiben, dass Kunden des Mobilfunkdienstes über Familienbündel Vorteile erhalten können. Im Zusammenhang mit der Nachfrage im Familienmonat dürfte auch der Wettbewerb der Finanzbranche um alltagsnahe Dienste weiter Beachtung finden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Woori Bank renforce en mai les avantages familiaux de WooriWON Mobile",
-        "excerpt": "Woori Bank a annoncé l’événement « Moduda WONhaneun Daero » en mai afin de renforcer les avantages de regroupement familial de son service mobile économique WooriWON Mobile.",
-        "body": "Woori Bank a annoncé qu’à l’occasion du Mois de la famille en mai, elle organise l’événement « Moduda WONhaneun Daero » pour son service mobile économique WooriWON Mobile afin de renforcer les avantages de regroupement familial. L’opération vise à faire connaître ces avantages aux utilisateurs familiaux et à améliorer la commodité du service. La banque mènera cette promotion pour permettre aux clients du service mobile économique de bénéficier d’avantages grâce au regroupement familial. Avec la demande liée au Mois de la famille, l’intérêt pour la concurrence des services financiers proches du quotidien devrait se poursuivre. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "بنك ووري يعزز مزايا العائلة في WooriWON Mobile خلال مايو",
-        "excerpt": "أعلن بنك ووري أنه سيقيم في مايو فعالية “Moduda WONhaneun Daero” لتعزيز مزايا الربط العائلي في خدمة الاتصالات الاقتصادية WooriWON Mobile.",
-        "body": "أعلن بنك ووري أنه بمناسبة شهر العائلة في مايو سيقيم فعالية “Moduda WONhaneun Daero” عبر خدمة الاتصالات الاقتصادية WooriWON Mobile لتعزيز مزايا الربط العائلي. وتهدف الفعالية إلى تعريف المستخدمين من الأسر بمزايا الربط في WooriWON Mobile وزيادة سهولة استخدام الخدمة. وسيشغل البنك الحدث بحيث يتمكن عملاء خدمة الاتصالات الاقتصادية من الحصول على مزايا عبر الربط العائلي. ومع تزامن ذلك مع الطلب في شهر العائلة، من المتوقع أن يستمر الاهتمام بالمنافسة بين الخدمات المالية المرتبطة بالحياة اليومية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Woori Bank ने मई में WooriWON Mobile के परिवार लाभ मजबूत किए",
-        "excerpt": "Woori Bank ने कहा कि वह मई के परिवार माह पर अपनी किफायती मोबाइल सेवा WooriWON Mobile में परिवार संयोजन लाभ मजबूत करने के लिए “Moduda WONhaneun Daero” कार्यक्रम चलाएगा।",
-        "body": "Woori Bank ने कहा कि मई के परिवार माह को देखते हुए वह अपनी किफायती मोबाइल सेवा WooriWON Mobile में परिवार संयोजन लाभ मजबूत करने के लिए “Moduda WONhaneun Daero” कार्यक्रम आयोजित करेगा। यह कार्यक्रम परिवार इकाई के उपयोगकर्ताओं को WooriWON Mobile के संयोजन लाभों की जानकारी देने और सेवा उपयोग की सुविधा बढ़ाने के उद्देश्य से तैयार किया गया है। बैंक इस आयोजन को इस तरह संचालित करेगा कि किफायती मोबाइल सेवा के ग्राहक परिवार संयोजन के माध्यम से लाभ प्राप्त कर सकें। परिवार माह की मांग के साथ वित्तीय क्षेत्र की जीवन-निकट सेवाओं की प्रतिस्पर्धा पर ध्यान जारी रहने की संभावना है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Woori Bank Perkuat Benefit Keluarga WooriWON Mobile pada Mei",
-        "excerpt": "Woori Bank menyatakan akan menggelar acara “Moduda WONhaneun Daero” pada Mei untuk memperkuat benefit paket keluarga layanan seluler hemat WooriWON Mobile.",
-        "body": "Woori Bank menyatakan bahwa pada Mei, bertepatan dengan Bulan Keluarga, pihaknya menggelar acara “Moduda WONhaneun Daero” untuk layanan seluler hemat WooriWON Mobile guna memperkuat benefit paket keluarga. Acara ini disiapkan untuk memperkenalkan benefit gabungan WooriWON Mobile kepada pengguna keluarga dan meningkatkan kenyamanan penggunaan layanan. Woori Bank akan menjalankan promosi agar pelanggan layanan seluler hemat dapat memperoleh benefit melalui paket keluarga. Seiring permintaan pada Bulan Keluarga, perhatian terhadap persaingan layanan keuangan yang dekat dengan kebutuhan sehari-hari diperkirakan berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e07d0c4f7a3b",
-    "slug": "우리은행-국민연금-외화금고-재유치최대-5년-계약종합-723211",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T12:37:35.035Z",
-    "updatedAt": "2026-05-09T12:37:35.035Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508055251002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508055251002",
-    "titleFingerprint": "f307aee68d57c39c669539c1d7ffcce6400c5f55",
-    "dedupKeys": [
-      "e07d0c4f7a3b2f0ebef24270fbc746e73f09525f",
-      "f307aee68d57c39c669539c1d7ffcce6400c5f55",
-      "019ff3cf61f3d59c068729987a549b7dfef8e343"
-    ],
-    "imageUrl": "/images/articles/e07d0c4f7a3b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리은행, 국민연금 외화금고 재유치 성공…최대 5년 계약 추진",
-        "excerpt": "우리은행은 8일 국민연금공단 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔다. 계약 기간은 최대 5년으로, 외화금고 재유치 결과에 관심이 모인다.",
-        "body": "우리은행은 8일 국민연금공단의 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔다. 이번 선정은 국민연금의 외화금고 업무를 맡을 은행을 정하는 절차에서 우리은행이 다시 우선 협상 지위를 확보했다는 의미다. 원문 제목에 따르면 계약 기간은 최대 5년이다. 국민연금공단은 대규모 연기금을 운용하는 기관인 만큼 외화금고은행 선정은 금융권의 관심을 받는 사안이다. 우리은행은 이번 재선정을 통해 기존 외화금고 관련 입지를 이어갈 수 있는 기반을 마련했다. 세부 계약 조건과 최종 절차는 우선협상 이후 확정될 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Woori Bank Wins Preferred Bidder Status Again for NPS FX Vault Deal",
-        "excerpt": "Woori Bank said on May 8 it was again selected as the preferred bidder for the National Pension Service’s foreign currency vault bank, with a contract of up to five years.",
-        "body": "Woori Bank said on May 8 that it had again been selected as the preferred bidder to serve as the foreign currency vault bank for the National Pension Service. The selection means Woori Bank has once more secured priority negotiation status in the process to choose the bank handling the NPS foreign currency vault role. According to the original headline, the contract period is up to five years. Because the National Pension Service manages a large public pension fund, the choice of its foreign currency vault bank draws attention from the financial sector. Through the renewed selection, Woori Bank has gained a basis to continue its position related to the foreign currency vault business. Detailed contract terms and final procedures are expected to be confirmed after priority negotiations. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ウリィ銀行、国民年金の外貨金庫銀行に再選定…最大5年契約へ",
-        "excerpt": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選ばれたと発表した。契約期間は最大5年とされる。",
-        "body": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選定されたと明らかにした。今回の選定は、国民年金の外貨金庫業務を担う銀行を決める手続きで、ウリィ銀行が再び優先交渉の地位を確保したことを意味する。原文の見出しによると、契約期間は最大5年だ。国民年金公団は大規模な年金基金を運用する機関であるため、外貨金庫銀行の選定は金融業界の関心を集める案件だ。ウリィ銀行は今回の再選定により、既存の外貨金庫関連の立場を継続できる基盤を整えた。細部の契約条件と最終手続きは、優先交渉後に確定する見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "友利银行再获国民年金外汇金库优先谈判资格，合同最长5年",
-        "excerpt": "友利银行8日表示，再次被选为韩国国民年金公团外汇金库银行优先谈判对象，合同期限最长为5年。",
-        "body": "友利银行8日表示，已再次被选为韩国国民年金公团外汇金库银行的优先谈判对象。此次入选意味着，在确定负责国民年金外汇金库业务银行的程序中，友利银行再次取得优先谈判地位。根据原文标题，合同期限最长为5年。韩国国民年金公团是管理大规模养老基金的机构，因此外汇金库银行的遴选受到金融业关注。友利银行通过此次再度入选，为延续其在外汇金库相关业务中的既有地位奠定了基础。具体合同条件和最终程序预计将在优先谈判后确定。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Woori Bank vuelve a ser elegido para la caja en divisas del NPS",
-        "excerpt": "Woori Bank informó el 8 de mayo que fue seleccionado otra vez como negociador preferente para ser banco de caja en divisas del Servicio Nacional de Pensiones.",
-        "body": "Woori Bank informó el 8 de mayo que volvió a ser seleccionado como negociador preferente para actuar como banco de caja en divisas del Servicio Nacional de Pensiones de Corea. La decisión significa que Woori Bank obtuvo de nuevo una posición prioritaria en el proceso para elegir al banco encargado de esa función. Según el titular original, el contrato puede durar hasta cinco años. Dado que el Servicio Nacional de Pensiones administra un fondo público de gran escala, la selección de su banco de caja en divisas atrae la atención del sector financiero. Con esta nueva selección, Woori Bank asegura una base para mantener su posición vinculada a ese negocio. Los términos detallados y el trámite final se definirán tras la negociación preferente. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Woori Bank volta a ser escolhido para cofre cambial do NPS",
-        "excerpt": "O Woori Bank informou em 8 de maio que foi novamente selecionado como negociador preferencial para banco de cofre em moeda estrangeira do Serviço Nacional de Pensões.",
-        "body": "O Woori Bank informou em 8 de maio que foi novamente selecionado como negociador preferencial para atuar como banco de cofre em moeda estrangeira do Serviço Nacional de Pensões da Coreia. A escolha significa que o banco voltou a obter posição prioritária no processo para definir a instituição responsável por essa função. Segundo o título original, o contrato pode ter duração de até cinco anos. Como o Serviço Nacional de Pensões administra um grande fundo público, a seleção do banco de cofre cambial atrai atenção do setor financeiro. Com a nova seleção, o Woori Bank passa a ter base para manter sua posição relacionada a esse negócio. As condições detalhadas e os procedimentos finais devem ser confirmados após a negociação preferencial. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Woori Bank erneut für NPS-Devisentresor bevorzugt ausgewählt",
-        "excerpt": "Die Woori Bank teilte am 8. Mai mit, erneut als bevorzugter Verhandlungspartner für die Devisentresorbank des National Pension Service ausgewählt worden zu sein.",
-        "body": "Die Woori Bank teilte am 8. Mai mit, dass sie erneut als bevorzugter Verhandlungspartner für die Rolle der Devisentresorbank des koreanischen National Pension Service ausgewählt wurde. Die Auswahl bedeutet, dass Woori Bank im Verfahren zur Bestimmung der Bank für diese Aufgabe wieder Vorrang bei den Verhandlungen erhalten hat. Laut Originalüberschrift kann die Vertragslaufzeit bis zu fünf Jahre betragen. Da der National Pension Service einen großen öffentlichen Pensionsfonds verwaltet, stößt die Wahl der Devisentresorbank in der Finanzbranche auf Interesse. Mit der erneuten Auswahl schafft Woori Bank eine Grundlage, ihre bisherige Position in diesem Geschäft fortzuführen. Details der Vertragsbedingungen und das abschließende Verfahren dürften nach den bevorzugten Verhandlungen festgelegt werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Woori Bank de nouveau choisie pour le coffre en devises du NPS",
-        "excerpt": "Woori Bank a annoncé le 8 mai avoir de nouveau été retenue comme négociateur préférentiel pour la banque de coffre en devises du Service national des pensions.",
-        "body": "Woori Bank a annoncé le 8 mai avoir de nouveau été sélectionnée comme négociateur préférentiel pour devenir la banque de coffre en devises du Service national des pensions coréen. Cette sélection signifie que Woori Bank retrouve une position prioritaire dans la procédure visant à choisir la banque chargée de cette fonction. Selon le titre original, le contrat peut durer jusqu’à cinq ans. Le Service national des pensions gérant un fonds public de grande taille, le choix de sa banque de coffre en devises retient l’attention du secteur financier. Avec cette nouvelle sélection, Woori Bank dispose d’une base pour poursuivre sa position liée à cette activité. Les conditions détaillées et la procédure finale devraient être confirmées après la négociation préférentielle. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بنك ووري يستعيد موقعه المفضل لخزينة النقد الأجنبي لصندوق التقاعد",
-        "excerpt": "قال بنك ووري في 8 مايو إنه اختير مجددا كصاحب أولوية تفاوضية لبنك خزينة العملات الأجنبية التابع لخدمة المعاشات الوطنية، بعقد قد يمتد حتى خمس سنوات.",
-        "body": "قال بنك ووري في 8 مايو إنه اختير مجددا كصاحب أولوية تفاوضية لتولي دور بنك خزينة العملات الأجنبية لخدمة المعاشات الوطنية في كوريا. وتعني هذه الخطوة أن البنك حصل مرة أخرى على موقع تفاوضي متقدم في عملية اختيار الجهة المصرفية المسؤولة عن هذه المهمة. وبحسب العنوان الأصلي، فإن مدة العقد تصل إلى خمس سنوات. ونظرا لأن خدمة المعاشات الوطنية تدير صندوق تقاعد عاما كبيرا، فإن اختيار بنك خزينة العملات الأجنبية يحظى باهتمام القطاع المالي. ومن خلال هذا الاختيار المتجدد، يملك بنك ووري أساسا لمواصلة موقعه المرتبط بهذا النشاط. ومن المتوقع تأكيد شروط العقد التفصيلية والإجراءات النهائية بعد مفاوضات الأولوية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "वूरी बैंक फिर NPS विदेशी मुद्रा वॉल्ट बैंक के लिए पसंदीदा बोलीदाता",
-        "excerpt": "वूरी बैंक ने 8 मई को बताया कि उसे नेशनल पेंशन सर्विस के विदेशी मुद्रा वॉल्ट बैंक के लिए फिर से पसंदीदा वार्ताकार चुना गया है। अनुबंध अधिकतम पांच वर्ष का हो सकता है।",
-        "body": "वूरी बैंक ने 8 मई को कहा कि उसे कोरिया की नेशनल पेंशन सर्विस के विदेशी मुद्रा वॉल्ट बैंक के लिए फिर से पसंदीदा वार्ताकार के रूप में चुना गया है। इस चयन का अर्थ है कि नेशनल पेंशन सर्विस की विदेशी मुद्रा वॉल्ट सेवा संभालने वाले बैंक को चुनने की प्रक्रिया में वूरी बैंक ने फिर प्राथमिक वार्ता की स्थिति हासिल की है। मूल शीर्षक के अनुसार, अनुबंध अवधि अधिकतम पांच वर्ष है। नेशनल पेंशन सर्विस बड़े सार्वजनिक पेंशन फंड का प्रबंधन करती है, इसलिए विदेशी मुद्रा वॉल्ट बैंक का चयन वित्तीय क्षेत्र का ध्यान खींचता है। इस पुनः चयन से वूरी बैंक को संबंधित व्यवसाय में अपनी मौजूदा स्थिति जारी रखने का आधार मिला है। विस्तृत अनुबंध शर्तें और अंतिम प्रक्रिया प्राथमिक वार्ता के बाद तय होने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Woori Bank Kembali Jadi Kandidat Utama Bank Valas NPS",
-        "excerpt": "Woori Bank menyatakan pada 8 Mei bahwa pihaknya kembali dipilih sebagai pihak negosiasi utama untuk bank brankas valuta asing National Pension Service.",
-        "body": "Woori Bank menyatakan pada 8 Mei bahwa pihaknya kembali dipilih sebagai pihak negosiasi utama untuk menjadi bank brankas valuta asing National Pension Service Korea. Pemilihan ini berarti Woori Bank kembali memperoleh posisi prioritas dalam proses penentuan bank yang menangani fungsi brankas valuta asing NPS. Menurut judul asli, masa kontrak dapat mencapai hingga lima tahun. Karena National Pension Service mengelola dana pensiun publik berskala besar, pemilihan bank brankas valuta asing menjadi perhatian sektor keuangan. Melalui pemilihan ulang ini, Woori Bank memiliki dasar untuk melanjutkan posisinya dalam bisnis terkait brankas valuta asing. Rincian syarat kontrak dan prosedur akhir diperkirakan akan dikonfirmasi setelah negosiasi prioritas. Sumber: yna.co.kr"
       }
     }
   }
