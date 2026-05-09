@@ -1,5 +1,230 @@
 [
   {
+    "id": "84e7ca20623f",
+    "slug": "하나금융-경희대와-업무협약청년-창업가-육성-지원-437426",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T17:51:01.908Z",
+    "updatedAt": "2026-05-09T17:51:01.909Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508056000002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508056000002",
+    "titleFingerprint": "3d86fed3820a3412b5da83325af3d7daa0c4a09d",
+    "dedupKeys": [
+      "84e7ca20623f85350b9010a2e9be955761d9707d",
+      "3d86fed3820a3412b5da83325af3d7daa0c4a09d",
+      "06c955afb33365220896713618c8d6e406e9e185"
+    ],
+    "imageUrl": "/images/articles/84e7ca20623f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "하나금융·경희대 업무협약 체결, 지역 청년 창업가 육성 지원 본격화",
+        "excerpt": "하나금융은 경희대학교와 지역 청년 창업 활성화를 위한 업무협약을 체결하고, 청년 창업가 발굴·육성 프로그램을 통해 지역 기반 창업 생태계 지원에 나선다.",
+        "body": "하나금융은 경희대학교와 지역 청년 창업 활성화를 위한 업무협약을 체결했다고 연합뉴스가 보도했다. 이번 협약은 지역 청년 창업가를 발굴하고 육성하는 프로그램 운영을 지원하기 위한 취지로 마련됐다. 하나금융은 경희대와 협력해 청년 창업가들이 성장할 수 있는 기반을 넓히는 데 초점을 맞춘다. 대학과 금융그룹이 함께 청년 창업 지원에 나서면서 지역 창업 생태계 활성화에도 보탬이 될 것으로 보인다. 관련 내용은 연합뉴스 이도흔 기자 보도를 바탕으로 했으며, 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "Hana Financial and Kyung Hee University Sign MOU to Support Young Entrepreneurs",
+        "excerpt": "Hana Financial Group signed an agreement with Kyung Hee University to promote local youth entrepreneurship and support a program to identify and nurture young founders.",
+        "body": "Hana Financial Group has signed a memorandum of understanding with Kyung Hee University to promote youth entrepreneurship in local communities, Yonhap News Agency reported. The agreement is aimed at supporting a program that discovers and nurtures young entrepreneurs. Through cooperation with the university, Hana Financial plans to focus on expanding the foundation that helps young founders grow. The partnership between a financial group and a university is expected to contribute to strengthening the local startup ecosystem. This article is based on a report by Yonhap reporter Lee Do-heun, with the source cited as yna.co.kr."
+      },
+      "ja": {
+        "title": "ハナ金融、慶熙大学と業務協約を締結し地域の若手起業家育成を支援",
+        "excerpt": "ハナ金融は慶熙大学と地域の若者による起業活性化に向けた業務協約を結び、若手起業家の発掘・育成プログラムを支援する。",
+        "body": "ハナ金融は、地域の若者による起業を活性化するため、慶熙大学と業務協約を締結したと聯合ニュースが報じた。今回の協約は、若手起業家を発掘し育成するプログラムの運営を支援する目的で進められた。ハナ金融は慶熙大学と協力し、若い起業家が成長できる基盤を広げることに重点を置く。大学と金融グループが共同で若者の起業支援に乗り出すことで、地域のスタートアップ生態系の活性化にもつながるとみられる。内容は聯合ニュースのイ・ドフン記者の報道に基づき、出典はyna.co.krである。"
+      },
+      "zh": {
+        "title": "韩亚金融与庆熙大学签署合作协议，支持地区青年创业者培养",
+        "excerpt": "韩亚金融与庆熙大学签署业务合作协议，旨在激活地区青年创业，并通过相关项目发掘和培养青年创业者。",
+        "body": "据韩联社报道，韩亚金融与庆熙大学签署了旨在激活地区青年创业的业务合作协议。此次协议的目的在于支持发掘和培养青年创业者的项目运营。韩亚金融将与庆熙大学合作，重点扩大青年创业者成长所需的基础条件。金融集团与大学共同参与青年创业支持，有望为地区创业生态的活跃提供助力。本文内容依据韩联社记者李到欣的报道整理，出处为yna.co.kr。"
+      },
+      "es": {
+        "title": "Hana Financial y la Universidad Kyung Hee firman acuerdo para apoyar a jóvenes emprendedores",
+        "excerpt": "Hana Financial firmó un acuerdo con la Universidad Kyung Hee para impulsar el emprendimiento juvenil local y apoyar un programa de identificación y formación de emprendedores.",
+        "body": "Hana Financial firmó un memorando de entendimiento con la Universidad Kyung Hee para promover el emprendimiento juvenil en las comunidades locales, informó la agencia Yonhap. El acuerdo busca respaldar un programa dedicado a descubrir y formar a jóvenes emprendedores. En cooperación con la universidad, Hana Financial centrará sus esfuerzos en ampliar la base que permite el crecimiento de los fundadores jóvenes. La participación conjunta de un grupo financiero y una universidad en el apoyo al emprendimiento juvenil podría contribuir a dinamizar el ecosistema local de startups. Este texto se basa en un reporte del periodista Lee Do-heun de Yonhap, con fuente en yna.co.kr."
+      },
+      "pt": {
+        "title": "Hana Financial e Universidade Kyung Hee assinam acordo para apoiar jovens empreendedores",
+        "excerpt": "O Hana Financial firmou um acordo com a Universidade Kyung Hee para estimular o empreendedorismo juvenil local e apoiar um programa de descoberta e formação de jovens fundadores.",
+        "body": "O Hana Financial assinou um memorando de entendimento com a Universidade Kyung Hee para promover o empreendedorismo juvenil em comunidades locais, informou a agência Yonhap. O acordo tem como objetivo apoiar a operação de um programa voltado a identificar e formar jovens empreendedores. Em cooperação com a universidade, o Hana Financial pretende concentrar-se em ampliar a base que ajuda esses fundadores a crescer. A atuação conjunta de um grupo financeiro e de uma universidade no apoio ao empreendedorismo juvenil deve contribuir para fortalecer o ecossistema local de startups. O conteúdo se baseia em reportagem de Lee Do-heun, da Yonhap, com fonte em yna.co.kr."
+      },
+      "de": {
+        "title": "Hana Financial und Kyung-Hee-Universität vereinbaren Förderung junger Gründer",
+        "excerpt": "Hana Financial hat mit der Kyung-Hee-Universität eine Vereinbarung geschlossen, um lokales Jugendunternehmertum zu fördern und junge Gründer zu entdecken und auszubilden.",
+        "body": "Hana Financial hat mit der Kyung-Hee-Universität eine Absichtserklärung zur Förderung des lokalen Jugendunternehmertums unterzeichnet, berichtete die Nachrichtenagentur Yonhap. Die Vereinbarung soll ein Programm unterstützen, das junge Unternehmerinnen und Unternehmer entdeckt und fördert. In Zusammenarbeit mit der Universität will Hana Financial den Schwerpunkt darauf legen, die Grundlage für das Wachstum junger Gründer zu erweitern. Dass eine Finanzgruppe und eine Universität gemeinsam junge Gründer unterstützen, dürfte zur Belebung des lokalen Startup-Ökosystems beitragen. Dieser Beitrag basiert auf einem Bericht von Yonhap-Reporter Lee Do-heun; Quelle ist yna.co.kr."
+      },
+      "fr": {
+        "title": "Hana Financial et l’Université Kyung Hee s’allient pour soutenir les jeunes entrepreneurs",
+        "excerpt": "Hana Financial a signé un accord avec l’Université Kyung Hee afin de promouvoir l’entrepreneuriat local des jeunes et soutenir un programme de repérage et de formation.",
+        "body": "Hana Financial a signé un protocole d’accord avec l’Université Kyung Hee afin de promouvoir l’entrepreneuriat des jeunes dans les communautés locales, a rapporté l’agence Yonhap. Cet accord vise à soutenir un programme destiné à repérer et former de jeunes entrepreneurs. En coopération avec l’université, Hana Financial entend se concentrer sur l’élargissement des bases permettant à ces fondateurs de se développer. L’engagement conjoint d’un groupe financier et d’une université dans le soutien à l’entrepreneuriat des jeunes devrait contribuer à dynamiser l’écosystème local des startups. Ce texte est fondé sur un article du journaliste Lee Do-heun de Yonhap, avec yna.co.kr comme source."
+      },
+      "ar": {
+        "title": "هانا فايننشال وجامعة كيونغ هي توقعان اتفاقا لدعم رواد الأعمال الشباب",
+        "excerpt": "وقعت مجموعة هانا فايننشال اتفاقية مع جامعة كيونغ هي لتنشيط ريادة الأعمال الشبابية المحلية ودعم برنامج لاكتشاف رواد الأعمال الشباب وتنميتهم.",
+        "body": "وقعت مجموعة هانا فايننشال مذكرة تفاهم مع جامعة كيونغ هي لتعزيز ريادة الأعمال بين الشباب في المناطق المحلية، وفقا لما أوردته وكالة يونهاب. وتهدف الاتفاقية إلى دعم تشغيل برنامج يركز على اكتشاف رواد الأعمال الشباب وتنميتهم. ومن خلال التعاون مع الجامعة، تركز هانا فايننشال على توسيع الأساس الذي يساعد المؤسسين الشباب على النمو. ومن المتوقع أن يسهم تعاون مجموعة مالية وجامعة في دعم ريادة الأعمال الشبابية في تنشيط منظومة الشركات الناشئة المحلية. يستند هذا النص إلى تقرير للصحفي لي دو-هون من يونهاب، والمصدر هو yna.co.kr."
+      },
+      "hi": {
+        "title": "हाना फाइनेंशियल और क्युंग ही विश्वविद्यालय ने युवा उद्यमियों के समर्थन के लिए समझौता किया",
+        "excerpt": "हाना फाइनेंशियल ने स्थानीय युवा उद्यमिता को बढ़ावा देने और युवा उद्यमियों की पहचान व विकास कार्यक्रम का समर्थन करने के लिए क्युंग ही विश्वविद्यालय से समझौता किया।",
+        "body": "योनहाप न्यूज एजेंसी के अनुसार, हाना फाइनेंशियल ने स्थानीय समुदायों में युवा उद्यमिता को बढ़ावा देने के लिए क्युंग ही विश्वविद्यालय के साथ समझौता ज्ञापन पर हस्ताक्षर किए। इस समझौते का उद्देश्य ऐसे कार्यक्रम को समर्थन देना है जो युवा उद्यमियों की पहचान और उनका विकास करता है। विश्वविद्यालय के साथ सहयोग के जरिए हाना फाइनेंशियल युवा संस्थापकों के विकास की बुनियाद को व्यापक बनाने पर ध्यान देगा। एक वित्तीय समूह और विश्वविद्यालय की संयुक्त भागीदारी से स्थानीय स्टार्टअप पारिस्थितिकी तंत्र को सक्रिय करने में मदद मिलने की उम्मीद है। यह लेख योनहाप के रिपोर्टर ली दो-हून की रिपोर्ट पर आधारित है, स्रोत yna.co.kr है।"
+      },
+      "id": {
+        "title": "Hana Financial dan Universitas Kyung Hee Teken Kerja Sama Dukung Wirausaha Muda",
+        "excerpt": "Hana Financial menandatangani kesepakatan dengan Universitas Kyung Hee untuk mendorong kewirausahaan muda lokal dan mendukung program pencarian serta pembinaan pendiri muda.",
+        "body": "Hana Financial menandatangani nota kesepahaman dengan Universitas Kyung Hee untuk mendorong kewirausahaan muda di komunitas lokal, menurut laporan Yonhap News Agency. Kesepakatan ini ditujukan untuk mendukung program yang menemukan dan membina wirausaha muda. Melalui kerja sama dengan universitas, Hana Financial akan berfokus pada perluasan fondasi yang membantu para pendiri muda berkembang. Kolaborasi antara grup keuangan dan universitas dalam mendukung kewirausahaan muda diperkirakan dapat membantu mengaktifkan ekosistem startup lokal. Artikel ini berdasarkan laporan reporter Yonhap Lee Do-heun, dengan sumber yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f1f76bcb5159",
+    "slug": "삼성바이오-노사-협상-난항사측-노조-간부-고소종합-674273",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T17:50:05.217Z",
+    "updatedAt": "2026-05-09T17:50:05.217Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507110651017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507110651017",
+    "titleFingerprint": "e3e176d5c2aa5ce4f3859ac0e87dbf38903d8b40",
+    "dedupKeys": [
+      "f1f76bcb5159d3d9d4cc7c167f09c44e1422378b",
+      "e3e176d5c2aa5ce4f3859ac0e87dbf38903d8b40",
+      "dfd93ac2b066ac5e470755e78914a955bfe546a3"
+    ],
+    "imageUrl": "/images/articles/f1f76bcb5159.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성바이오 노사 협상 난항, 임금·인사 갈등 속 노조 간부 고소",
+        "excerpt": "삼성바이오로직스가 임금 인상과 인사 제도 개선을 둘러싼 노조와의 갈등 속에서 노조 간부를 고소하며 노사 협상이 난항을 겪고 있다.",
+        "body": "삼성바이오로직스가 임금 인상과 인사 제도 개선 등을 놓고 노동조합과 갈등을 이어가는 가운데 노조 간부를 고소하면서 노사 협상이 난항을 겪고 있다. 원문에 따르면 이번 갈등은 임금 인상 요구와 인사 제도 개선 문제를 둘러싼 노사 간 입장 차에서 비롯됐다. 사측의 고소 조치가 알려지며 협상 국면은 더 복잡해진 모습이다. 향후 노사 간 대화가 재개되더라도 쟁점 조율과 신뢰 회복이 핵심 과제로 남을 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Samsung Biologics Labor Talks Stall as Company Files Complaint Against Union Officials",
+        "excerpt": "Samsung Biologics is facing stalled labor talks after filing a complaint against union officials amid disputes over wage increases and personnel system reforms.",
+        "body": "Samsung Biologics is facing difficulty in labor-management negotiations after filing a complaint against union officials amid an ongoing dispute with its labor union over wage increases and improvements to personnel systems. According to the original report, the conflict stems from differences between management and the union over pay raises and changes to human resources policies. The company’s legal action has added further strain to the negotiation process. Even if talks resume, resolving key issues and rebuilding trust are expected to remain central challenges. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "サムスンバイオ労使交渉が難航、賃上げ・人事制度対立で組合幹部を告訴",
+        "excerpt": "サムスンバイオロジクスは賃上げと人事制度改善を巡る労組との対立の中、組合幹部を告訴し、労使交渉が難航している。",
+        "body": "サムスンバイオロジクスは、賃上げや人事制度の改善などを巡って労働組合との対立が続く中、組合幹部を告訴し、労使交渉が難航している。原文によると、今回の対立は賃上げ要求と人事制度改善を巡る労使双方の立場の違いから生じた。会社側の告訴措置が明らかになったことで、交渉局面はさらに複雑になった。今後、労使対話が再開されても、争点の調整と信頼回復が主要課題として残る見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "三星生物劳资谈判陷入僵局，薪资与人事制度争议中起诉工会干部",
+        "excerpt": "三星生物制剂因加薪和人事制度改善问题与工会发生矛盾，并起诉工会干部，劳资谈判因此陷入困难局面。",
+        "body": "三星生物制剂在围绕加薪和人事制度改善等问题与工会持续发生矛盾的情况下，起诉工会干部，劳资谈判陷入困难。根据原文，此次矛盾源于劳资双方在加薪要求和人事制度改善问题上的立场差异。公司方面采取起诉措施的消息传出后，谈判局面变得更加复杂。即使今后劳资对话重新启动，如何协调争议焦点并恢复信任，预计仍将是核心课题。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Samsung Biologics afronta trabas laborales tras denunciar a dirigentes sindicales",
+        "excerpt": "Samsung Biologics enfrenta dificultades en sus negociaciones laborales tras denunciar a dirigentes sindicales en medio de disputas por salarios y sistema de personal.",
+        "body": "Samsung Biologics atraviesa dificultades en las negociaciones entre la empresa y el sindicato después de presentar una denuncia contra dirigentes sindicales, en medio de un conflicto por aumentos salariales y mejoras del sistema de personal. Según el texto original, la disputa se originó en diferencias de postura entre la dirección y el sindicato sobre las subidas de sueldo y la reforma de las normas de recursos humanos. La acción legal de la empresa ha complicado aún más el proceso de diálogo. Si las conversaciones se reanudan, ajustar los puntos en disputa y recuperar la confianza seguirán siendo tareas clave. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Biologics vê negociação trabalhista travar após queixa contra líderes sindicais",
+        "excerpt": "A Samsung Biologics enfrenta impasse nas negociações trabalhistas após apresentar queixa contra líderes sindicais em meio a disputas sobre salários e pessoal.",
+        "body": "A Samsung Biologics enfrenta dificuldades nas negociações entre empresa e sindicato depois de apresentar queixa contra líderes sindicais, em meio a um conflito sobre reajustes salariais e melhorias no sistema de pessoal. Segundo o texto original, a disputa decorre de diferenças entre a direção e o sindicato em relação aos aumentos de salários e às mudanças nas regras de recursos humanos. A medida legal da empresa tornou o cenário de negociação mais complexo. Mesmo que o diálogo seja retomado, alinhar os pontos em disputa e reconstruir a confiança devem continuar como desafios centrais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Samsung Biologics: Tarifgespräche stocken nach Anzeige gegen Gewerkschaftsfunktionäre",
+        "excerpt": "Samsung Biologics steckt in schwierigen Verhandlungen, nachdem das Unternehmen Gewerkschaftsfunktionäre wegen Streit über Löhne und Personalregeln angezeigt hat.",
+        "body": "Samsung Biologics hat in den Verhandlungen zwischen Management und Gewerkschaft Schwierigkeiten, nachdem das Unternehmen Gewerkschaftsfunktionäre angezeigt hat. Hintergrund ist ein anhaltender Konflikt über Lohnerhöhungen und Verbesserungen des Personalsystems. Dem Originalbericht zufolge beruht der Streit auf unterschiedlichen Positionen beider Seiten zu Gehaltsforderungen und Änderungen der Personalregeln. Die rechtliche Maßnahme des Unternehmens hat die Verhandlungslage weiter verkompliziert. Selbst bei einer Wiederaufnahme der Gespräche dürften die Klärung der Streitpunkte und die Wiederherstellung von Vertrauen zentrale Aufgaben bleiben. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Biologics: négociations sociales bloquées après plainte contre des syndicalistes",
+        "excerpt": "Samsung Biologics voit ses négociations sociales se compliquer après une plainte contre des responsables syndicaux sur fond de conflit salarial et RH.",
+        "body": "Samsung Biologics rencontre des difficultés dans les négociations entre la direction et le syndicat après avoir déposé une plainte contre des responsables syndicaux, dans un contexte de conflit sur les hausses de salaires et l’amélioration du système de gestion du personnel. Selon le texte original, le différend vient d’écarts de position entre les deux parties sur les revendications salariales et les réformes des règles de ressources humaines. L’action en justice de l’entreprise a rendu la phase de négociation plus complexe. Même si le dialogue reprend, l’ajustement des points litigieux et le rétablissement de la confiance resteront des enjeux clés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تعثر مفاوضات سامسونغ بايولوجكس العمالية بعد شكوى ضد قيادات نقابية",
+        "excerpt": "تواجه سامسونغ بايولوجكس تعثرا في مفاوضاتها العمالية بعد تقديم شكوى ضد قيادات نقابية وسط خلافات بشأن زيادة الأجور ونظام شؤون الموظفين.",
+        "body": "تواجه سامسونغ بايولوجكس صعوبات في المفاوضات بين الإدارة والنقابة بعدما قدمت الشركة شكوى ضد قيادات نقابية، في ظل خلاف مستمر حول زيادة الأجور وتحسين نظام شؤون الموظفين. وبحسب النص الأصلي، يعود الخلاف إلى تباين مواقف الطرفين بشأن مطالب رفع الرواتب وتعديل أنظمة الموارد البشرية. وقد زادت خطوة الشركة القانونية من تعقيد مسار التفاوض. وحتى إذا استؤنف الحوار بين الجانبين، فمن المتوقع أن يظل تنسيق نقاط الخلاف واستعادة الثقة من أبرز المهام المطروحة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Biologics में श्रम वार्ता अटकी, यूनियन पदाधिकारियों पर शिकायत से विवाद बढ़ा",
+        "excerpt": "Samsung Biologics में वेतन वृद्धि और मानव संसाधन व्यवस्था सुधार को लेकर यूनियन से विवाद के बीच कंपनी ने यूनियन पदाधिकारियों के खिलाफ शिकायत की है।",
+        "body": "Samsung Biologics में वेतन वृद्धि और मानव संसाधन व्यवस्था में सुधार जैसे मुद्दों पर श्रमिक संघ के साथ विवाद जारी है। इसी बीच कंपनी ने यूनियन पदाधिकारियों के खिलाफ शिकायत दर्ज की, जिससे श्रम-प्रबंधन वार्ता कठिन दौर में पहुंच गई है। मूल रिपोर्ट के अनुसार, विवाद वेतन बढ़ोतरी की मांग और कर्मी व्यवस्था में सुधार पर दोनों पक्षों के अलग-अलग रुख से शुरू हुआ। कंपनी की कानूनी कार्रवाई सामने आने के बाद बातचीत की स्थिति और जटिल हो गई है। आगे संवाद दोबारा शुरू होने पर भी विवादित मुद्दों का समन्वय और भरोसे की बहाली मुख्य चुनौती रहेंगे। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Negosiasi Samsung Biologics Tersendat Usai Adukan Pejabat Serikat Pekerja",
+        "excerpt": "Samsung Biologics menghadapi hambatan negosiasi kerja setelah mengadukan pejabat serikat pekerja di tengah sengketa kenaikan upah dan sistem personalia.",
+        "body": "Samsung Biologics menghadapi kesulitan dalam negosiasi antara manajemen dan serikat pekerja setelah perusahaan mengadukan pejabat serikat, di tengah konflik terkait kenaikan upah dan perbaikan sistem personalia. Menurut teks asli, perselisihan ini bermula dari perbedaan posisi kedua pihak mengenai tuntutan kenaikan gaji dan perubahan aturan sumber daya manusia. Langkah hukum dari pihak perusahaan membuat proses negosiasi semakin kompleks. Jika dialog kembali dimulai, penyesuaian isu utama dan pemulihan kepercayaan diperkirakan tetap menjadi tantangan utama. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e5ddd83eb3c",
+    "slug": "토스뱅크로-국세-환급금-받는다국고수납대리점-자격-취득-345648",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T17:49:09.316Z",
+    "updatedAt": "2026-05-09T17:49:09.317Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508061400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508061400002",
+    "titleFingerprint": "1ff56004db95be9b7d940de3a8507ce5dcd944f8",
+    "dedupKeys": [
+      "6e5ddd83eb3cb9a541dd8266420073fbb7e42e4f",
+      "1ff56004db95be9b7d940de3a8507ce5dcd944f8",
+      "fc52cff8eed335f8120899afbf028fdb8c7ccc4a"
+    ],
+    "imageUrl": "/images/articles/6e5ddd83eb3c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토스뱅크, 국세 환급금 수령 가능해진다…국고수납대리점 자격 취득",
+        "excerpt": "토스뱅크는 8일 한국은행과 직접 연동해 국고수납대리점 자격을 취득하고, 국고금 환지급 서비스를 확대한다고 밝혔다.",
+        "body": "토스뱅크가 8일 한국은행과 직접 연동해 국고수납대리점 자격을 취득하고 국고금 환지급 서비스를 확대한다고 밝혔다. 이에 따라 토스뱅크를 통한 국세 환급금 수령이 가능해질 전망이다. 국고수납대리점 자격은 국고금 관련 업무를 처리할 수 있는 기반으로, 이번 취득은 토스뱅크가 한국은행과 직접 연결되는 방식으로 이뤄졌다. 토스뱅크는 국고금 환지급 서비스 확대를 통해 이용자가 환급금을 받을 수 있는 경로를 넓힌다는 설명이다. 이번 내용은 연합뉴스가 보도했으며 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "Toss Bank to Enable National Tax Refunds After Treasury Agency Approval",
+        "excerpt": "Toss Bank said on May 8 it has obtained treasury collection agency status through a direct link with the Bank of Korea and will expand refund payment services.",
+        "body": "Toss Bank said on May 8 that it has obtained qualification as a national treasury collection agency by directly linking with the Bank of Korea and will expand its treasury refund payment service. The move is expected to make it possible for users to receive national tax refunds through Toss Bank. The qualification provides the basis for handling treasury-related payment work, and the approval was secured through direct connection with the Bank of Korea. Toss Bank said the service expansion will broaden the channels through which users can receive refunds. The report was carried by Yonhap News Agency; source: yna.co.kr."
+      },
+      "ja": {
+        "title": "トスバンク、国税還付金の受け取り可能に…国庫収納代理店資格を取得",
+        "excerpt": "トスバンクは8日、韓国銀行と直接連動して国庫収納代理店資格を取得し、国庫金還支給サービスを拡大すると明らかにした。",
+        "body": "トスバンクは8日、韓国銀行と直接連動して国庫収納代理店資格を取得し、国庫金の還支給サービスを拡大すると発表した。これにより、トスバンクを通じた国税還付金の受け取りが可能になる見通しだ。国庫収納代理店資格は国庫金関連業務を処理するための基盤で、今回の取得はトスバンクが韓国銀行と直接つながる形で実現した。トスバンクは国庫金還支給サービスの拡大により、利用者が還付金を受け取れる経路を広げるとしている。この記事は聯合ニュースが報じたもので、出所はyna.co.kr。"
+      },
+      "zh": {
+        "title": "Toss Bank获国库收纳代理资格，用户将可接收国税退税款",
+        "excerpt": "Toss Bank于8日表示，已通过与韩国银行直接联动取得国库收纳代理资格，并将扩大国库款项退付服务。",
+        "body": "Toss Bank于8日表示，已通过与韩国银行直接联动取得国库收纳代理资格，并将扩大国库款项退付服务。因此，用户预计可通过Toss Bank接收国税退税款。国库收纳代理资格是处理国库款项相关业务的基础，此次资格取得是以Toss Bank与韩国银行直接连接的方式完成的。Toss Bank说明称，通过扩大国库款项退付服务，将拓宽用户接收退税款的渠道。该消息由韩联社报道，来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "Toss Bank permitirá recibir devoluciones de impuestos tras nueva autorización",
+        "excerpt": "Toss Bank informó el día 8 que obtuvo la condición de agencia de cobro del Tesoro mediante conexión directa con el Banco de Corea y ampliará sus reembolsos.",
+        "body": "Toss Bank informó el día 8 que obtuvo la condición de agencia de cobro del Tesoro nacional al conectarse directamente con el Banco de Corea y que ampliará su servicio de pago de reembolsos del Tesoro. Con ello, se prevé que sea posible recibir devoluciones de impuestos nacionales a través de Toss Bank. Esta condición permite gestionar operaciones relacionadas con fondos del Tesoro, y fue obtenida mediante una conexión directa con el Banco de Corea. Toss Bank explicó que la ampliación del servicio aumentará las vías para que los usuarios reciban reembolsos. La información fue publicada por Yonhap; fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Toss Bank poderá pagar restituições fiscais após obter autorização do Tesouro",
+        "excerpt": "O Toss Bank informou no dia 8 que obteve status de agente de arrecadação do Tesouro por conexão direta com o Banco da Coreia e ampliará reembolsos.",
+        "body": "O Toss Bank informou no dia 8 que obteve qualificação como agente de arrecadação do Tesouro nacional por meio de conexão direta com o Banco da Coreia e que ampliará seu serviço de pagamento de reembolsos do Tesouro. Com isso, deve se tornar possível receber restituições de impostos nacionais pelo Toss Bank. A qualificação serve como base para processar operações relacionadas a fundos do Tesouro, e foi obtida por ligação direta com o Banco da Coreia. O Toss Bank afirma que a expansão do serviço ampliará os canais para usuários receberem reembolsos. A notícia foi divulgada pela Yonhap; fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Toss Bank ermöglicht Steuererstattungen nach Zulassung als Treasury-Agent",
+        "excerpt": "Toss Bank teilte am 8. mit, durch direkte Anbindung an die Bank of Korea den Status als Treasury-Einzugsagentur erhalten zu haben und Erstattungen auszuweiten.",
+        "body": "Toss Bank teilte am 8. mit, dass das Unternehmen durch eine direkte Anbindung an die Bank of Korea die Qualifikation als Einzugsagentur für Staatskassenmittel erhalten hat und seinen Dienst für Rückzahlungen aus Staatsmitteln ausweiten wird. Damit dürfte es möglich werden, nationale Steuererstattungen über Toss Bank zu erhalten. Die Qualifikation bildet die Grundlage für die Bearbeitung entsprechender Treasury-Aufgaben und wurde über die direkte Verbindung zur Bank of Korea erworben. Toss Bank erklärte, die Ausweitung des Dienstes werde die Wege für Nutzer zum Erhalt von Erstattungen erweitern. Berichtet wurde dies von Yonhap; Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Toss Bank pourra verser les remboursements d’impôts après un nouvel agrément",
+        "excerpt": "Toss Bank a annoncé le 8 avoir obtenu le statut d’agence de collecte du Trésor via un lien direct avec la Banque de Corée et élargir ses remboursements.",
+        "body": "Toss Bank a annoncé le 8 avoir obtenu le statut d’agence de collecte du Trésor national grâce à une connexion directe avec la Banque de Corée, et élargir son service de paiement des remboursements du Trésor. Cette évolution devrait permettre aux utilisateurs de recevoir des remboursements d’impôts nationaux via Toss Bank. Ce statut constitue la base nécessaire au traitement des opérations liées aux fonds du Trésor, et a été obtenu par une liaison directe avec la Banque de Corée. Toss Bank indique que l’élargissement du service augmentera les canaux de réception des remboursements. L’information a été rapportée par Yonhap; source: yna.co.kr."
+      },
+      "ar": {
+        "title": "توس بنك يتيح استلام ردّ ضرائب وطنية بعد نيل صفة وكيل للخزانة",
+        "excerpt": "قال توس بنك في 8 مايو إنه حصل على صفة وكيل تحصيل للخزانة عبر ربط مباشر مع بنك كوريا، وسيعمل على توسيع خدمة دفع مبالغ الرد.",
+        "body": "قال توس بنك في 8 مايو إنه حصل على صفة وكيل تحصيل للخزانة الوطنية من خلال ربط مباشر مع بنك كوريا، وإنه سيوسع خدمة دفع مبالغ الرد المتعلقة بأموال الخزانة. وبذلك من المتوقع أن يصبح استلام ردّ الضرائب الوطنية ممكنا عبر توس بنك. وتعد هذه الصفة أساسا لمعالجة الأعمال المرتبطة بأموال الخزانة، وقد حصل عليها البنك من خلال الاتصال المباشر ببنك كوريا. وأوضح توس بنك أن توسيع الخدمة سيزيد القنوات المتاحة للمستخدمين لتلقي مبالغ الرد. وردت هذه المعلومات في تقرير لوكالة يونهاب، والمصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "Toss Bank से राष्ट्रीय कर रिफंड मिल सकेगा, ट्रेजरी एजेंसी योग्यता मिली",
+        "excerpt": "Toss Bank ने 8 मई को कहा कि उसने बैंक ऑफ कोरिया से सीधे जुड़कर राष्ट्रीय कोष संग्रह एजेंसी की योग्यता हासिल की और रिफंड सेवा बढ़ाएगा।",
+        "body": "Toss Bank ने 8 मई को बताया कि उसने बैंक ऑफ कोरिया से सीधे जुड़कर राष्ट्रीय कोष संग्रह एजेंसी की योग्यता हासिल कर ली है और वह राष्ट्रीय कोष रिफंड भुगतान सेवा का विस्तार करेगा। इसके साथ Toss Bank के माध्यम से राष्ट्रीय कर रिफंड प्राप्त करना संभव होने की उम्मीद है। यह योग्यता राष्ट्रीय कोष से जुड़े कार्यों को संभालने का आधार देती है, और इसे बैंक ऑफ कोरिया के साथ सीधे कनेक्शन के जरिए हासिल किया गया। Toss Bank के अनुसार, सेवा विस्तार से उपयोगकर्ताओं के लिए रिफंड प्राप्त करने के रास्ते बढ़ेंगे। यह खबर योनहाप ने दी है; स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Toss Bank Bisa Terima Restitusi Pajak Nasional Setelah Jadi Agen Kas Negara",
+        "excerpt": "Toss Bank pada 8 Mei menyatakan memperoleh status agen penerimaan kas negara melalui koneksi langsung dengan Bank of Korea dan memperluas layanan pengembalian dana.",
+        "body": "Toss Bank pada 8 Mei menyatakan telah memperoleh kualifikasi sebagai agen penerimaan kas negara melalui koneksi langsung dengan Bank of Korea dan akan memperluas layanan pembayaran pengembalian dana kas negara. Dengan langkah ini, penerimaan restitusi pajak nasional melalui Toss Bank diperkirakan menjadi memungkinkan. Kualifikasi tersebut menjadi dasar untuk menangani pekerjaan terkait dana kas negara, dan diperoleh lewat hubungan langsung dengan Bank of Korea. Toss Bank menjelaskan bahwa perluasan layanan ini akan menambah jalur bagi pengguna untuk menerima pengembalian dana. Berita ini dilaporkan oleh Yonhap; sumber: yna.co.kr."
+      }
+    }
+  },
+  {
     "id": "edfcdd5829c9",
     "slug": "대신증권-코스피-목표치-750088002개월만에-또-상향-255091",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Seoul Menyerap 40% Nilai Resmi Hunian Bersama Korea, Gangnam Paling Menonjol",
         "excerpt": "Total nilai resmi hunian bersama Korea tahun ini mencapai 4.530,8419 triliun won, sekitar 40% terkonsentrasi di Seoul, dengan apartemen sangat dominan di tiga distrik Gangnam.",
         "body": "Tahun ini, total nilai resmi hunian bersama di Korea Selatan tercatat 4.530,8419 triliun won, dengan rata-rata per rumah tangga sekitar 208,56 juta won. Poin utamanya adalah sekitar 40% dari total nasional terkonsentrasi di Seoul. Di dalam Seoul, apartemen menyumbang 89% dari total nilai resmi hunian bersama di tiga distrik Gangnam, sehingga terlihat sangat menonjol. Sebaliknya, kawasan non-Gangnam menunjukkan proporsi villa yang relatif lebih tinggi. Total nilai resmi dan komposisi menurut jenis hunian dapat menjadi indikator struktur aset regional serta basis pajak. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e1702b38e47e",
-    "slug": "외인-던지고-개미-받고코스피-7500선-턱밑-마감-또-사상최고종합-992341",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T09:05:03.139Z",
-    "updatedAt": "2026-05-09T09:05:03.139Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508131500008",
-    "titleFingerprint": "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
-    "dedupKeys": [
-      "e1702b38e47ec5a06e5dedcf7d6043cfbcb30877",
-      "bd6f7579d6a05a39cbbe2298e2f80c0a0b02e742",
-      "347f9fce9658eceb653019a475b51c5c95986ac6"
-    ],
-    "imageUrl": "/images/articles/e1702b38e47e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7,500선 턱밑 마감, 외인 매도·개미 매수 속 또 사상최고",
-        "excerpt": "8일 서울 증시에서 코스피가 장 후반 상승 전환해 7,500선 턱밑에서 마감하며 사상 최고치를 다시 경신했다. 외국인 매도와 개인 매수 흐름이 맞물렸다.",
-        "body": "코스피가 8일 서울 증시에서 장 후반 상승 전환에 성공하며 7,500선 턱밑에서 거래를 마쳤다. 이날 지수는 외국인이 던지고 개인 투자자가 받는 흐름 속에서도 종가 기준으로 또 사상 최고치를 새로 썼다. 장중 흐름은 후반부에 반전됐고, 마감 지점은 7,500선에 근접했다. 사상 최고치 경신은 국내 증시의 투자 심리를 보여주는 주요 장면으로 받아들여진다. 다만 원문은 구체적인 상승률이나 투자 주체별 순매수 규모를 제시하지 않았다. 향후 시장은 외국인 매도와 개인 매수 흐름이 이어질지, 7,500선 돌파 여부에 관심이 모일 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Ends Near 7,500 as Foreign Selling and Retail Buying Lift Record Close",
-        "excerpt": "The KOSPI turned higher late in Seoul trading on the 8th and closed just below 7,500, setting another all-time high amid foreign selling and retail buying.",
-        "body": "The KOSPI turned upward late in the session on the 8th in Seoul and finished just below the 7,500 mark. Despite a market flow in which foreign investors sold and individual investors bought, the index set another record high on a closing basis. The day’s movement shifted in the latter part of trading, and the close came near 7,500. The renewed record is being viewed as a key signal of investor sentiment in the domestic stock market. The original report did not provide a specific percentage gain or net buying figures by investor group. Market attention is expected to focus on whether foreign selling and retail buying continue and whether the index breaks above 7,500. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、7,500目前で終了　外国人売り・個人買いの中で最高値更新",
-        "excerpt": "8日のソウル株式市場でKOSPIは取引終盤に上昇へ転じ、7,500目前で終了した。外国人売りと個人買いが交錯する中、再び過去最高値を更新した。",
-        "body": "KOSPIは8日、ソウル株式市場で取引終盤に上昇へ転じ、7,500の目前で取引を終えた。この日は外国人投資家が売り、個人投資家が買う流れの中でも、終値基準で再び過去最高値を更新した。相場の流れは後半に反転し、終値は7,500に近い水準となった。最高値更新は、国内株式市場の投資心理を示す重要な場面と受け止められる。原文では具体的な上昇率や投資主体別の純買い規模は示されていない。今後は外国人売りと個人買いの流れが続くか、7,500突破の有無に関心が集まりそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近7,500点收盘，外资卖出散户承接中再创历史新高",
-        "excerpt": "8日首尔股市中，KOSPI在尾盘转为上涨，并在7,500点关口下方收盘，再次刷新历史最高纪录，外资卖出与个人买入并行。",
-        "body": "KOSPI于8日在首尔股市尾盘成功转为上涨，并在7,500点关口下方结束交易。当天市场呈现外国投资者卖出、个人投资者承接买入的走势，但指数仍以收盘价为基准再次刷新历史最高纪录。盘中走势在后半段出现反转，收盘位置接近7,500点。再创新高被视为反映韩国国内股市投资情绪的重要信号。不过，原文未提供具体涨幅或各类投资主体的净买入规模。后续市场关注点将集中在外资卖出与个人买入是否持续，以及KOSPI能否突破7,500点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cierra cerca de 7.500 con venta extranjera y compra minorista récord",
-        "excerpt": "El KOSPI giró al alza al final de la sesión del día 8 en Seúl y cerró justo por debajo de 7.500, renovando su máximo histórico entre ventas extranjeras y compras individuales.",
-        "body": "El KOSPI logró cambiar a terreno positivo al final de la sesión del día 8 en el mercado de Seúl y terminó justo por debajo del nivel de 7.500. Aun con un flujo en el que los inversores extranjeros vendieron y los inversores individuales compraron, el índice volvió a marcar un máximo histórico con base en el cierre. El movimiento intradía se revirtió en la parte final y el cierre quedó cerca de 7.500. La renovación del récord se interpreta como una señal relevante del ánimo inversor en el mercado bursátil surcoreano. El texto original no ofreció una tasa concreta de subida ni cifras netas por tipo de inversor. La atención se centrará en si continúan las ventas extranjeras y las compras minoristas, y en si el índice supera 7.500. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI fecha perto de 7.500 com venda estrangeira e compra de pessoas físicas",
-        "excerpt": "O KOSPI virou para alta no fim do pregão do dia 8 em Seul e fechou pouco abaixo de 7.500, renovando sua máxima histórica em meio a vendas estrangeiras e compras individuais.",
-        "body": "O KOSPI conseguiu virar para alta no fim da sessão do dia 8 na bolsa de Seul e encerrou pouco abaixo do patamar de 7.500. Mesmo em um fluxo no qual investidores estrangeiros venderam e investidores individuais compraram, o índice renovou mais uma vez sua máxima histórica pelo fechamento. O movimento do dia mudou na parte final do pregão, e o fechamento ficou próximo de 7.500. O novo recorde é visto como um sinal importante do sentimento dos investidores no mercado acionário sul-coreano. A reportagem original não informou uma taxa específica de alta nem os volumes líquidos por tipo de investidor. A atenção agora deve se voltar à continuidade das vendas estrangeiras e compras individuais, além da possível superação de 7.500. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI schließt knapp unter 7.500: Ausländer verkaufen, Privatanleger kaufen",
-        "excerpt": "Der KOSPI drehte am 8. im späten Handel in Seoul ins Plus und schloss knapp unter 7.500. Damit markierte der Index erneut ein Rekordhoch bei Verkäufen ausländischer Anleger.",
-        "body": "Der KOSPI drehte am 8. im späten Handel an der Börse in Seoul nach oben und beendete die Sitzung knapp unter der Marke von 7.500. Obwohl ausländische Investoren verkauften und private Anleger kauften, erreichte der Index auf Schlusskursbasis erneut ein Allzeithoch. Die Tagesbewegung kehrte sich erst in der zweiten Handelshälfte um, der Schlussstand lag nahe bei 7.500. Das neue Rekordhoch gilt als wichtiger Hinweis auf die Anlegerstimmung am südkoreanischen Aktienmarkt. Der Originalbericht nannte keine konkrete prozentuale Veränderung und keine Nettokaufbeträge nach Anlegergruppen. Im Fokus dürfte nun stehen, ob die Verkäufe ausländischer Investoren und die Käufe privater Anleger anhalten und ob der Index 7.500 überschreitet. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI finit près de 7 500, record malgré ventes étrangères et achats individuels",
-        "excerpt": "Le KOSPI a basculé en hausse en fin de séance le 8 à Séoul et a clôturé juste sous 7 500, signant un nouveau record historique dans un marché partagé.",
-        "body": "Le KOSPI a réussi à passer dans le vert en fin de séance le 8 sur le marché de Séoul et a terminé juste sous le seuil de 7 500. Malgré un flux marqué par des ventes des investisseurs étrangers et des achats des investisseurs individuels, l’indice a de nouveau inscrit un plus haut historique sur la base de la clôture. Le mouvement de la séance s’est inversé dans la dernière partie des échanges, avec une clôture proche de 7 500. Ce nouveau record est perçu comme un signal important du sentiment des investisseurs sur le marché actions sud-coréen. Le texte original ne fournit ni taux de hausse précis ni montant net par catégorie d’investisseurs. L’attention devrait désormais porter sur la poursuite de ces flux et sur un éventuel franchissement de 7 500. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يغلق قرب 7,500 نقطة مع بيع الأجانب وشراء الأفراد ويسجل قمة جديدة",
-        "excerpt": "تحول مؤشر كوسبي إلى الصعود في أواخر جلسة 8 في سوق سول وأغلق دون مستوى 7,500 بقليل، مسجلا أعلى مستوى تاريخي جديد وسط بيع أجنبي وشراء فردي.",
-        "body": "نجح مؤشر كوسبي في التحول إلى الصعود في أواخر جلسة التداول يوم 8 في سوق سول، وأنهى التعاملات دون مستوى 7,500 بقليل. ورغم أن حركة السوق اتسمت ببيع المستثمرين الأجانب وشراء المستثمرين الأفراد، سجل المؤشر مرة أخرى أعلى مستوى تاريخي على أساس سعر الإغلاق. تبدل مسار التداول في الجزء الأخير من الجلسة، وجاء الإغلاق قريبا من 7,500 نقطة. ويعد تجديد القمة التاريخية مؤشرا مهما على معنويات المستثمرين في سوق الأسهم المحلية. ولم يورد النص الأصلي نسبة ارتفاع محددة أو حجم صافي الشراء حسب فئات المستثمرين. ومن المتوقع أن يتركز الاهتمام على استمرار بيع الأجانب وشراء الأفراد، وعلى ما إذا كان المؤشر سيتجاوز مستوى 7,500. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के करीब बंद, विदेशी बिकवाली और खुदरा खरीद के बीच नया रिकॉर्ड",
-        "excerpt": "सियोल बाजार में 8 तारीख को KOSPI सत्र के अंतिम हिस्से में बढ़त में आया और 7,500 के ठीक नीचे बंद हुआ, विदेशी बिकवाली और व्यक्तिगत खरीद के बीच नया उच्चतम स्तर बना।",
-        "body": "KOSPI ने 8 तारीख को सियोल शेयर बाजार में सत्र के अंतिम हिस्से में बढ़त में लौटते हुए 7,500 के स्तर के ठीक नीचे कारोबार समाप्त किया। उस दिन विदेशी निवेशकों की बिकवाली और व्यक्तिगत निवेशकों की खरीद के प्रवाह के बीच भी सूचकांक ने बंद भाव के आधार पर फिर नया सर्वकालिक उच्च स्तर दर्ज किया। दिन के कारोबार की दिशा बाद के हिस्से में बदली और बंद स्तर 7,500 के करीब रहा। यह नया रिकॉर्ड घरेलू शेयर बाजार में निवेशक भावना का प्रमुख संकेत माना जा रहा है। मूल रिपोर्ट में सटीक बढ़त प्रतिशत या निवेशक वर्गों के अनुसार शुद्ध खरीद का आकार नहीं दिया गया। आगे बाजार की नजर इस पर रहेगी कि विदेशी बिकवाली और व्यक्तिगत खरीद जारी रहती है या नहीं, और KOSPI 7,500 को पार करता है या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Ditutup Dekat 7.500, Rekor Baru Saat Asing Jual dan Ritel Beli",
-        "excerpt": "KOSPI berbalik naik pada akhir perdagangan tanggal 8 di Seoul dan ditutup tepat di bawah 7.500, kembali mencetak rekor tertinggi di tengah jual asing dan beli investor individu.",
-        "body": "KOSPI berhasil berbalik naik pada akhir sesi perdagangan tanggal 8 di bursa Seoul dan menutup perdagangan tepat di bawah level 7.500. Meski arus pasar menunjukkan investor asing menjual dan investor individu membeli, indeks kembali mencetak rekor tertinggi berdasarkan harga penutupan. Pergerakan intrahari berubah pada bagian akhir sesi, sementara posisi penutupan mendekati 7.500. Rekor baru ini dipandang sebagai sinyal penting bagi sentimen investor di pasar saham domestik Korea Selatan. Laporan asli tidak menyebutkan persentase kenaikan tertentu maupun nilai beli bersih menurut kelompok investor. Ke depan, perhatian pasar akan tertuju pada apakah jual asing dan beli ritel berlanjut serta apakah indeks menembus 7.500. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "70bbae102023",
-    "slug": "아센디오-10억원-제3자배정-유상증자-614490",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T09:03:57.941Z",
-    "updatedAt": "2026-05-09T09:03:57.941Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134400008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134400008",
-    "titleFingerprint": "457b98746fa624c2bde9120573a0dd91953486cc",
-    "dedupKeys": [
-      "70bbae10202399fb530a80dd73ae0d5308cd10b7",
-      "457b98746fa624c2bde9120573a0dd91953486cc",
-      "850307f7c745b05854c9936c8a5c337656fc6005"
-    ],
-    "imageUrl": "/images/articles/70bbae102023.jpg",
-    "i18n": {
-      "ko": {
-        "title": "아센디오, 운영자금 확보 위해 10억원 제3자배정 유상증자 결정",
-        "excerpt": "코스피 상장사 아센디오는 8일 공시를 통해 운영자금 등 약 10억원을 조달하기 위해 제3자배정 유상증자를 결정했다고 밝혔다.",
-        "body": "코스피 상장사 아센디오[012170]가 운영자금 등을 마련하기 위해 약 10억원 규모의 제3자배정 유상증자를 결정했다. 회사는 8일 이 같은 내용을 공시했다. 이번 유상증자는 특정 제3자를 대상으로 신주를 배정하는 방식으로 추진되며, 조달 목적은 운영자금 등으로 제시됐다. 공시된 금액은 약 10억원이다. 이번 결정은 회사의 자금 조달 계획과 관련된 사안으로, 투자자들은 향후 세부 일정과 배정 대상 등 후속 공시를 확인할 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Ascendio to Raise 1 Billion Won Through Third-Party Share Issue",
-        "excerpt": "Kospi-listed Ascendio said in a May 8 filing that it decided on a third-party paid-in capital increase to raise about 1 billion won for operating funds and related purposes.",
-        "body": "Kospi-listed Ascendio[012170] has decided to carry out a third-party paid-in capital increase worth about 1 billion won to secure operating funds and other financing. The company disclosed the decision on May 8. The planned capital increase will allocate new shares to designated third parties, with the stated purpose including operating funds. The disclosed amount is approximately 1 billion won. The decision concerns the company’s funding plan, and investors may need to check future filings for details such as the schedule and allotment targets. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "アセンディオ、運転資金確保へ10億ウォンの第三者割当増資を決定",
-        "excerpt": "韓国総合株価指数上場企業のアセンディオは8日の公示で、運転資金など約10億ウォンを調達するため第三者割当増資を決定したと明らかにした。",
-        "body": "韓国総合株価指数上場企業のアセンディオ[012170]は、運転資金などを確保するため、約10億ウォン規模の第三者割当有償増資を決定した。同社は8日、この内容を公示した。今回の増資は特定の第三者を対象に新株を割り当てる方式で進められ、調達目的は運転資金などと示された。公示された金額は約10億ウォン。今回の決定は同社の資金調達計画に関するもので、投資家は今後の詳細日程や割当対象などの追加公示を確認する必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Ascendio决定通过第三方配股增资筹集10亿韩元运营资金",
-        "excerpt": "韩国KOSPI上市公司Ascendio于8日公告称，为筹集运营资金等约10亿韩元，公司决定实施第三方配股方式的有偿增资。",
-        "body": "韩国KOSPI上市公司Ascendio[012170]决定通过第三方配股方式实施约10亿韩元规模的有偿增资，以筹集运营资金等。公司于8日公告了这一决定。本次增资将以向特定第三方分配新股的方式推进，筹资目的包括运营资金等。公告金额约为10亿韩元。该决定属于公司资金筹措计划相关事项，投资者有必要继续关注后续公告中关于具体日程、配股对象等细节。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ascendio hará una ampliación de capital de 1.000 millones de wones",
-        "excerpt": "La cotizada surcoreana Ascendio informó el día 8 que aprobó una ampliación de capital con asignación a terceros para captar unos 1.000 millones de wones para fondos operativos.",
-        "body": "Ascendio[012170], empresa que cotiza en el Kospi, decidió realizar una ampliación de capital pagada mediante asignación a terceros por unos 1.000 millones de wones para obtener fondos operativos y otros recursos. La compañía lo comunicó en una declaración regulatoria el día 8. La operación se llevará a cabo mediante la asignación de nuevas acciones a terceros determinados, y el objetivo declarado incluye fondos de operación. El monto anunciado es de aproximadamente 1.000 millones de wones. La decisión forma parte del plan de financiación de la empresa, por lo que los inversores deberán revisar futuras comunicaciones sobre calendario y destinatarios de la asignación. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Ascendio aprova aumento de capital de 1 bilhão de won por terceiros",
-        "excerpt": "A Ascendio, listada no Kospi, informou no dia 8 que decidiu realizar aumento de capital com alocação a terceiros para levantar cerca de 1 bilhão de won para capital operacional.",
-        "body": "A Ascendio[012170], companhia listada no Kospi, decidiu realizar um aumento de capital pago por meio de alocação a terceiros no valor de cerca de 1 bilhão de won para obter recursos operacionais e outros fundos. A empresa divulgou a decisão em comunicado no dia 8. A operação prevê a emissão de novas ações destinadas a terceiros específicos, com finalidade declarada de captar capital operacional, entre outros usos. O valor informado é de aproximadamente 1 bilhão de won. A decisão está ligada ao plano de financiamento da companhia, e investidores devem acompanhar comunicados posteriores sobre cronograma e destinatários da alocação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ascendio beschließt Kapitalerhöhung über 1 Milliarde Won an Dritte",
-        "excerpt": "Das im Kospi gelistete Unternehmen Ascendio teilte am 8. mit, zur Beschaffung von Betriebsmitteln und weiteren Mitteln rund 1 Milliarde Won über eine Drittzuteilung aufzunehmen.",
-        "body": "Das im Kospi gelistete Unternehmen Ascendio[012170] hat eine bezahlte Kapitalerhöhung durch Zuteilung an Dritte im Umfang von rund 1 Milliarde Won beschlossen, um Betriebsmittel und weitere Finanzmittel zu sichern. Das Unternehmen gab die Entscheidung am 8. in einer Mitteilung bekannt. Die Maßnahme soll durch die Ausgabe neuer Aktien an bestimmte Dritte erfolgen; als Zweck wurden unter anderem Betriebsmittel genannt. Der veröffentlichte Betrag liegt bei etwa 1 Milliarde Won. Die Entscheidung betrifft den Finanzierungsplan des Unternehmens. Anleger sollten künftige Mitteilungen zu Zeitplan und Zuteilungsempfängern prüfen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Ascendio lève 1 milliard de wons via une émission réservée à des tiers",
-        "excerpt": "La société Ascendio, cotée au Kospi, a annoncé le 8 avoir décidé une augmentation de capital réservée à des tiers afin de lever environ 1 milliard de wons pour ses fonds d’exploitation.",
-        "body": "Ascendio[012170], société cotée au Kospi, a décidé de procéder à une augmentation de capital payée par attribution à des tiers pour un montant d’environ 1 milliard de wons, afin de financer ses besoins d’exploitation et d’autres usages. L’entreprise a publié cette décision le 8 dans un avis réglementaire. L’opération prévoit l’attribution de nouvelles actions à des tiers déterminés, avec pour objectif déclaré des fonds d’exploitation notamment. Le montant communiqué est d’environ 1 milliard de wons. Cette décision relève du plan de financement de la société; les investisseurs devront suivre les prochains avis sur le calendrier et les bénéficiaires de l’attribution. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسينديو تقرر زيادة رأسمال بقيمة مليار وون عبر تخصيص لطرف ثالث",
-        "excerpt": "أعلنت شركة أسينديو المدرجة في كوسبي في إفصاح يوم 8 أنها قررت تنفيذ زيادة رأسمال مخصصة لطرف ثالث لجمع نحو مليار وون لأموال التشغيل وغيرها.",
-        "body": "قررت شركة أسينديو[012170] المدرجة في مؤشر كوسبي تنفيذ زيادة رأسمال مدفوعة عبر تخصيص لطرف ثالث بقيمة تقارب مليار وون، بهدف توفير أموال تشغيلية وموارد أخرى. وأفصحت الشركة عن هذا القرار يوم 8. وستتم العملية من خلال تخصيص أسهم جديدة لأطراف ثالثة محددة، مع الإشارة إلى أن الغرض من التمويل يشمل أموال التشغيل. ويبلغ المبلغ المعلن نحو مليار وون. يرتبط القرار بخطة الشركة لجمع التمويل، وينبغي للمستثمرين متابعة الإفصاحات اللاحقة لمعرفة التفاصيل مثل الجدول الزمني وجهات التخصيص. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Ascendio तीसरे पक्ष को शेयर जारी कर 1 अरब वॉन जुटाएगी",
-        "excerpt": "Kospi में सूचीबद्ध Ascendio ने 8 तारीख की फाइलिंग में कहा कि उसने परिचालन पूंजी आदि के लिए लगभग 1 अरब वॉन जुटाने को तीसरे पक्ष आवंटन वाली पूंजी वृद्धि तय की है।",
-        "body": "Kospi में सूचीबद्ध Ascendio[012170] ने परिचालन पूंजी और अन्य जरूरतों के लिए लगभग 1 अरब वॉन की तीसरे पक्ष आवंटन वाली चुकता पूंजी वृद्धि करने का निर्णय लिया है। कंपनी ने 8 तारीख को यह जानकारी नियामकीय फाइलिंग में दी। इस पूंजी वृद्धि में निर्धारित तीसरे पक्षों को नए शेयर आवंटित किए जाएंगे, और जुटाई जाने वाली राशि का उद्देश्य परिचालन पूंजी आदि बताया गया है। घोषित राशि लगभग 1 अरब वॉन है। यह निर्णय कंपनी की फंडिंग योजना से जुड़ा है, इसलिए निवेशकों को आगे की समय-सारिणी और आवंटन 대상ों से संबंधित अगली फाइलिंग देखनी चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Ascendio Putuskan Rights Issue Pihak Ketiga Senilai 1 Miliar Won",
-        "excerpt": "Perusahaan Kospi Ascendio mengumumkan pada 8 Mei bahwa pihaknya memutuskan penerbitan saham baru melalui alokasi pihak ketiga untuk menghimpun sekitar 1 miliar won bagi dana operasional.",
-        "body": "Ascendio[012170], perusahaan yang tercatat di Kospi, memutuskan melakukan penambahan modal disetor melalui alokasi kepada pihak ketiga senilai sekitar 1 miliar won untuk memperoleh dana operasional dan kebutuhan lain. Perusahaan mengumumkan keputusan tersebut dalam keterbukaan informasi pada 8 Mei. Aksi ini akan dilakukan dengan mengalokasikan saham baru kepada pihak ketiga tertentu, dengan tujuan penghimpunan dana antara lain untuk operasional. Nilai yang diumumkan sekitar 1 miliar won. Keputusan ini terkait rencana pendanaan perusahaan, sehingga investor perlu mencermati pengumuman lanjutan mengenai jadwal dan pihak penerima alokasi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c4e8b4143224",
-    "slug": "cj프레시웨이-1분기-영업익-110억원작년-동기-대비-38-증가-619060",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T09:03:04.356Z",
-    "updatedAt": "2026-05-09T09:03:04.356Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136600030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136600030",
-    "titleFingerprint": "f1ff08b30557387252dfc78c10eb15972401672d",
-    "dedupKeys": [
-      "c4e8b414322498e00666a3b162fcf7b69efb9b05",
-      "f1ff08b30557387252dfc78c10eb15972401672d",
-      "d23d0ba9970f70aade905bf25bc46508bae81066"
-    ],
-    "imageUrl": "/images/articles/c4e8b4143224.jpg",
-    "i18n": {
-      "ko": {
-        "title": "CJ프레시웨이 1분기 영업이익 110억원, 전년 대비 3.8% 증가",
-        "excerpt": "CJ프레시웨이는 올해 1분기 연결 기준 잠정 영업이익이 110억원으로 집계돼 지난해 같은 기간보다 3.8% 증가했다고 밝혔다.",
-        "body": "CJ프레시웨이는 올해 1분기 연결 기준 잠정 영업이익이 110억원으로 집계됐다고 밝혔다. 이는 지난해 같은 기간과 비교해 3.8% 증가한 수치다. 이번 실적은 연결 기준으로 산정된 잠정치이며, 기업의 분기 수익성 흐름을 보여주는 핵심 지표로 제시됐다. 전년 동기 대비 영업이익이 늘면서 CJ프레시웨이의 1분기 실적 개선 여부에 시장의 관심이 이어질 것으로 보인다. 다만 원문에 매출액이나 순이익 등 추가 수치는 제시되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "CJ Freshway Q1 Operating Profit Reaches 11 Billion Won, Up 3.8% Year on Year",
-        "excerpt": "CJ Freshway said its preliminary consolidated operating profit for the first quarter came to 11 billion won, up 3.8% from the same period last year.",
-        "body": "CJ Freshway reported that its preliminary consolidated operating profit for the first quarter of this year totaled 11 billion won. The figure represents a 3.8% increase from the same period a year earlier. The result was presented on a consolidated basis and remains preliminary, serving as a key indicator of the company’s quarterly profitability. With operating profit rising year on year, attention is expected to remain on CJ Freshway’s first-quarter performance trend. The original report did not provide additional figures such as revenue or net profit. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "CJフレッシュウェイ、第1四半期営業利益110億ウォン 前年比3.8%増",
-        "excerpt": "CJフレッシュウェイは、今年第1四半期の連結基準の暫定営業利益が110億ウォンとなり、前年同期比3.8%増加したと明らかにした。",
-        "body": "CJフレッシュウェイは、今年第1四半期の連結基準の暫定営業利益が110億ウォンと集計されたと発表した。これは前年同期に比べて3.8%増加した数値だ。今回の業績は連結基準で算定された暫定値であり、同社の四半期収益性の流れを示す主要指標として示された。前年同期比で営業利益が増えたことで、CJフレッシュウェイの第1四半期業績改善に関心が続くとみられる。ただし、原文では売上高や純利益などの追加数値は示されていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "CJ Freshway第一季度营业利润110亿韩元，同比增加3.8%",
-        "excerpt": "CJ Freshway表示，今年第一季度按合并口径计算的初步营业利润为110亿韩元，较去年同期增加3.8%。",
-        "body": "CJ Freshway公布，今年第一季度按合并口径计算的初步营业利润为110亿韩元。该数值较去年同期增加3.8%。此次业绩为合并口径下的初步数据，被视为反映公司季度盈利能力走势的关键指标。随着营业利润同比增长，市场对CJ Freshway第一季度业绩改善情况的关注预计将持续。不过，原文未提供销售额或净利润等其他具体数据。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "CJ Freshway logra 11.000 millones de wones de beneficio operativo en el primer trimestre",
-        "excerpt": "CJ Freshway informó que su beneficio operativo consolidado preliminar del primer trimestre fue de 11.000 millones de wones, un 3,8% más interanual.",
-        "body": "CJ Freshway informó que su beneficio operativo consolidado preliminar del primer trimestre de este año alcanzó los 11.000 millones de wones. La cifra supone un aumento del 3,8% frente al mismo periodo del año anterior. El resultado fue calculado sobre una base consolidada y tiene carácter preliminar, por lo que funciona como un indicador clave de la rentabilidad trimestral de la empresa. Con el incremento interanual del beneficio operativo, seguirá la atención sobre la evolución de los resultados del primer trimestre de CJ Freshway. El reporte original no incluyó datos adicionales como ventas o beneficio neto. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "CJ Freshway tem lucro operacional de 11 bilhões de wons no 1º trimestre, alta de 3,8%",
-        "excerpt": "A CJ Freshway informou que seu lucro operacional consolidado preliminar no primeiro trimestre foi de 11 bilhões de wons, alta de 3,8% ante um ano antes.",
-        "body": "A CJ Freshway informou que seu lucro operacional consolidado preliminar no primeiro trimestre deste ano somou 11 bilhões de wons. O valor representa aumento de 3,8% em relação ao mesmo período do ano anterior. O resultado foi calculado em base consolidada e é preliminar, servindo como indicador central da rentabilidade trimestral da companhia. Com a alta anual do lucro operacional, a atenção sobre o desempenho da CJ Freshway no primeiro trimestre deve continuar. A reportagem original não apresentou números adicionais, como receita ou lucro líquido. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "CJ Freshway meldet im ersten Quartal 11 Mrd. Won Betriebsgewinn, plus 3,8%",
-        "excerpt": "CJ Freshway teilte mit, dass der vorläufige konsolidierte Betriebsgewinn im ersten Quartal 11 Mrd. Won betrug, 3,8% mehr als im Vorjahr.",
-        "body": "CJ Freshway gab bekannt, dass der vorläufige konsolidierte Betriebsgewinn im ersten Quartal dieses Jahres 11 Milliarden Won erreichte. Das entspricht einem Anstieg von 3,8% gegenüber dem gleichen Zeitraum des Vorjahres. Das Ergebnis wurde auf konsolidierter Basis berechnet und ist vorläufig; es gilt als wichtiger Hinweis auf die vierteljährliche Profitabilität des Unternehmens. Da der Betriebsgewinn im Jahresvergleich gestiegen ist, dürfte die Entwicklung der Quartalszahlen von CJ Freshway weiter beachtet werden. Der ursprüngliche Bericht nannte keine weiteren Kennzahlen wie Umsatz oder Nettogewinn. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "CJ Freshway affiche 11 milliards de wons de bénéfice opérationnel au T1, en hausse de 3,8%",
-        "excerpt": "CJ Freshway a annoncé un bénéfice opérationnel consolidé provisoire de 11 milliards de wons au premier trimestre, en hausse de 3,8% sur un an.",
-        "body": "CJ Freshway a indiqué que son bénéfice opérationnel consolidé provisoire du premier trimestre de cette année s’est établi à 11 milliards de wons. Ce montant représente une hausse de 3,8% par rapport à la même période de l’an dernier. Le résultat, calculé sur une base consolidée, reste provisoire et constitue un indicateur clé de la rentabilité trimestrielle de l’entreprise. Avec cette progression annuelle du bénéfice opérationnel, l’attention devrait rester portée sur l’évolution des performances de CJ Freshway au premier trimestre. Le rapport original ne fournit pas d’autres chiffres, comme le chiffre d’affaires ou le bénéfice net. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "CJ Freshway تحقق 11 مليار وون أرباحا تشغيلية في الربع الأول بزيادة 3.8%",
-        "excerpt": "أعلنت CJ Freshway أن أرباحها التشغيلية الأولية على أساس موحد في الربع الأول بلغت 11 مليار وون، بزيادة 3.8% عن الفترة نفسها من العام الماضي.",
-        "body": "أعلنت CJ Freshway أن أرباحها التشغيلية الأولية على أساس موحد في الربع الأول من هذا العام بلغت 11 مليار وون. ويمثل ذلك زيادة قدرها 3.8% مقارنة بالفترة نفسها من العام الماضي. وتعد هذه النتيجة رقما أوليا محسوبا على أساس موحد، وتقدم مؤشرا رئيسيا على مسار ربحية الشركة الفصلية. ومع ارتفاع الأرباح التشغيلية على أساس سنوي، من المتوقع أن يستمر الاهتمام بأداء CJ Freshway في الربع الأول. ولم يتضمن التقرير الأصلي أرقاما إضافية مثل المبيعات أو صافي الربح. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "CJ Freshway का पहली तिमाही परिचालन लाभ 11 अरब वॉन, सालाना 3.8% बढ़ा",
-        "excerpt": "CJ Freshway ने बताया कि इस वर्ष पहली तिमाही में समेकित आधार पर उसका प्रारंभिक परिचालन लाभ 11 अरब वॉन रहा, जो पिछले साल की समान अवधि से 3.8% अधिक है।",
-        "body": "CJ Freshway ने बताया कि इस वर्ष पहली तिमाही में समेकित आधार पर उसका प्रारंभिक परिचालन लाभ 11 अरब वॉन रहा। यह पिछले वर्ष की समान अवधि की तुलना में 3.8% अधिक है। यह परिणाम समेकित आधार पर तैयार किया गया प्रारंभिक आंकड़ा है और कंपनी की तिमाही लाभप्रदता की दिशा दिखाने वाला प्रमुख संकेतक माना गया। सालाना आधार पर परिचालन लाभ बढ़ने से CJ Freshway के पहली तिमाही प्रदर्शन पर बाजार की नजर बनी रह सकती है। मूल रिपोर्ट में बिक्री या शुद्ध लाभ जैसे अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "CJ Freshway Catat Laba Operasi Kuartal I 11 Miliar Won, Naik 3,8% Tahunan",
-        "excerpt": "CJ Freshway menyatakan laba operasi konsolidasi sementara pada kuartal pertama tahun ini mencapai 11 miliar won, naik 3,8% dari periode sama tahun lalu.",
-        "body": "CJ Freshway menyatakan bahwa laba operasi konsolidasi sementara pada kuartal pertama tahun ini mencapai 11 miliar won. Angka tersebut naik 3,8% dibandingkan periode yang sama tahun lalu. Kinerja ini dihitung secara konsolidasi dan masih bersifat sementara, sekaligus menjadi indikator utama untuk melihat arah profitabilitas kuartalan perusahaan. Dengan kenaikan laba operasi secara tahunan, perhatian terhadap kinerja kuartal pertama CJ Freshway diperkirakan tetap berlanjut. Laporan asli tidak memuat angka tambahan seperti pendapatan atau laba bersih. Sumber: yna.co.kr"
       }
     }
   }
