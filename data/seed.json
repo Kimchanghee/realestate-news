@@ -1,5 +1,230 @@
 [
   {
+    "id": "a88e968b0062",
+    "slug": "르포-직원들-떠나고-손님은-김밥-한-줄만중동발-고물가에-휘청-910467",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T23:30:50.958Z",
+    "updatedAt": "2026-05-09T23:30:50.958Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509041900030",
+    "titleFingerprint": "5ac89975d36eb0f23568c290e316edc8e16f3570",
+    "dedupKeys": [
+      "a88e968b0062eadfd9fb31595d2d02c483e0601f",
+      "5ac89975d36eb0f23568c290e316edc8e16f3570",
+      "88c594b80f4f7a8e181fe6a1c40df095bf61f256"
+    ],
+    "imageUrl": "/images/articles/a88e968b0062.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동발 고물가에 흔들리는 서울 분식·떡집 현장, 쌀값 30% 체감 상승",
+        "excerpt": "서울 분식점과 떡집 등 서민 외식 현장이 중동발 고물가와 쌀·곡물 가격 상승으로 어려움을 겪고 있다. 업주들은 1년 새 원가가 크게 올랐지만 가격 인상은 쉽지 않다고 호소했다.",
+        "body": "서울의 분식점과 떡집 등 서민 외식 현장이 중동발 고물가 여파로 흔들리고 있다. 연합뉴스 르포에 따르면 현장 업주들은 체감상 1년 전보다 쌀과 곡물 가격이 30%가량 오른 것으로 느낀다고 말했다. 그러나 떡이나 김밥처럼 소비자가 자주 찾는 품목은 가격을 쉽게 올리기 어려워 부담이 커지고 있다. 일부 가게는 직원들이 떠나고, 손님도 김밥 한 줄처럼 최소한만 사는 분위기를 전했다. 원재료비 상승이 인건비와 운영 부담으로 이어지면서 영세 자영업자의 수익성 압박은 계속될 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Middle East-Driven Inflation Hits Seoul Snack Bars and Rice Cake Shops as Grain Costs Rise",
+        "excerpt": "Seoul snack bars and rice cake shops are struggling as Middle East-linked inflation and higher rice and grain prices squeeze costs, while owners say raising menu prices remains difficult.",
+        "body": "Seoul’s snack bars and rice cake shops are under pressure from inflation linked to developments in the Middle East. According to a Yonhap News Agency field report, shop owners said rice and grain prices feel about 30% higher than a year ago. Yet items such as rice cakes and gimbap, which many customers buy regularly, are difficult to mark up. Some stores described employees leaving and customers buying only the minimum, such as a single roll of gimbap. As raw material costs add to labor and operating burdens, small business owners are likely to keep facing pressure on profitability. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中東発の物価高がソウルの軽食店・餅店を直撃、米と穀物価格上昇が重荷",
+        "excerpt": "ソウルの軽食店や餅店など庶民的な外食現場が、中東発の物価高と米・穀物価格の上昇で苦境にある。店主らは原価上昇を感じつつも値上げは容易でないと訴えた。",
+        "body": "ソウルの軽食店や餅店など庶民的な外食現場が、中東発の物価高の影響で揺れている。聯合ニュースのルポによると、現場の店主らは体感として1年前より米と穀物の価格が約30%上がったように感じると話した。一方で、餅やキンパのように消費者が頻繁に買う品目は簡単に値上げしにくく、負担が増している。一部の店では従業員が離れ、客もキンパ1本だけを買うなど最小限の消費にとどまる様子が伝えられた。原材料費の上昇が人件費と運営負担につながり、小規模自営業者の収益圧迫は続く見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "中东引发高物价冲击首尔小吃店和年糕店，米粮成本体感涨三成",
+        "excerpt": "首尔小吃店、年糕店等平民餐饮现场正因中东引发的高物价和米粮价格上涨承压。店主称原料成本明显上升，但菜单涨价并不容易。",
+        "body": "首尔的小吃店和年糕店等平民餐饮现场，正受到中东引发高物价的冲击。韩联社现场报道显示，店主们表示，从体感上看，米和谷物价格比一年前上涨了约30%。但年糕、紫菜包饭等消费者经常购买的品类很难轻易涨价，经营负担随之加重。部分店铺反映，员工陆续离开，顾客也只购买一条紫菜包饭等最低限度商品。随着原材料成本上升进一步传导至人工和运营压力，小规模个体经营者的盈利压力预计仍将持续。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La inflación vinculada a Oriente Medio golpea bares de gimbap y pastelerías de arroz en Seúl",
+        "excerpt": "Bares de comida rápida coreana y tiendas de pastel de arroz en Seúl sufren por la inflación ligada a Oriente Medio y el alza del arroz y los cereales, aunque subir precios sigue siendo difícil.",
+        "body": "Los bares de comida rápida coreana y las tiendas de pastel de arroz de Seúl están bajo presión por la inflación vinculada a Oriente Medio. Según un reportaje de Yonhap, comerciantes del sector dijeron que sienten que los precios del arroz y los cereales han subido alrededor de un 30% frente a hace un año. Sin embargo, productos habituales como el tteok y el gimbap son difíciles de encarecer. Algunas tiendas señalaron que los empleados se han marchado y que los clientes compran solo lo mínimo, como una sola tira de gimbap. El aumento de las materias primas se suma a los costos laborales y operativos, manteniendo la presión sobre los pequeños autónomos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Inflação ligada ao Oriente Médio pressiona lanchonetes e lojas de tteok em Seul",
+        "excerpt": "Lanchonetes coreanas e lojas de bolo de arroz em Seul enfrentam pressão com a inflação ligada ao Oriente Médio e a alta do arroz e dos grãos, enquanto reajustar preços segue difícil.",
+        "body": "Lanchonetes coreanas e lojas de bolo de arroz em Seul estão sendo pressionadas pela inflação associada ao Oriente Médio. Segundo uma reportagem de campo da Yonhap, comerciantes disseram sentir que os preços do arroz e dos grãos subiram cerca de 30% em relação a um ano atrás. Ainda assim, itens de consumo frequente, como tteok e gimbap, não podem ter o preço elevado com facilidade. Algumas lojas relataram a saída de funcionários e clientes comprando apenas o mínimo, como um único rolo de gimbap. Com a alta das matérias-primas pesando sobre mão de obra e operação, pequenos autônomos devem continuar sob pressão de rentabilidade. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Nahostbedingte Teuerung belastet Seouls Imbisse und Reiskuchenläden spürbar",
+        "excerpt": "Seouls Imbisse und Reiskuchenläden geraten durch nahostbedingte Inflation sowie höhere Reis- und Getreidepreise unter Druck. Betreiber klagen über steigende Kosten, können Preise aber kaum anheben.",
+        "body": "Seouls Imbisse und Reiskuchenläden stehen wegen der nahostbedingten Teuerung unter Druck. Nach einem Vor-Ort-Bericht der Nachrichtenagentur Yonhap sagten Betreiber, die Preise für Reis und Getreide fühlten sich rund 30% höher an als vor einem Jahr. Doch bei häufig gekauften Produkten wie Reiskuchen und Gimbap lassen sich höhere Kosten nur schwer an Kunden weitergeben. Einige Läden berichteten, dass Beschäftigte gegangen seien und Kunden nur noch das Nötigste kauften, etwa eine einzige Gimbap-Rolle. Steigende Rohstoffkosten verschärfen damit Personal- und Betriebslasten, sodass kleine Selbstständige weiter unter Margendruck stehen dürften. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’inflation liée au Moyen-Orient fragilise les snacks et boutiques de tteok à Séoul",
+        "excerpt": "À Séoul, snacks coréens et boutiques de gâteaux de riz subissent l’inflation liée au Moyen-Orient et la hausse du riz et des céréales, tandis que les commerçants peinent à relever leurs prix.",
+        "body": "À Séoul, les snacks coréens et les boutiques de gâteaux de riz sont fragilisés par l’inflation liée au Moyen-Orient. Selon un reportage de terrain de Yonhap, des commerçants disent ressentir une hausse d’environ 30% des prix du riz et des céréales par rapport à l’an dernier. Pourtant, il reste difficile d’augmenter les prix d’articles courants comme le tteok ou le gimbap. Certains magasins évoquent le départ d’employés et des clients qui n’achètent que le minimum, comme un seul rouleau de gimbap. La hausse des matières premières alourdit aussi les charges de personnel et d’exploitation, maintenant la pression sur les petits indépendants. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "التضخم المرتبط بالشرق الأوسط يضغط على مطاعم الوجبات ومحال كعك الأرز في سيول",
+        "excerpt": "تواجه مطاعم الوجبات الكورية ومحال كعك الأرز في سيول صعوبات بسبب التضخم المرتبط بالشرق الأوسط وارتفاع أسعار الأرز والحبوب، فيما يقول أصحابها إن رفع الأسعار ليس سهلا.",
+        "body": "تتعرض مطاعم الوجبات الكورية ومحال كعك الأرز في سيول لضغوط من موجة غلاء مرتبطة بالشرق الأوسط. وبحسب تقرير ميداني لوكالة يونهاب، قال أصحاب متاجر إن أسعار الأرز والحبوب تبدو لهم أعلى بنحو 30% مقارنة بما كانت عليه قبل عام. لكن رفع أسعار أصناف يشتريها المستهلكون كثيرا، مثل كعك الأرز والغيمباب، ليس أمرا سهلا. وذكرت بعض المتاجر أن موظفين غادروا، وأن الزبائن باتوا يشترون الحد الأدنى فقط، مثل لفة غيمباب واحدة. ومع انتقال ارتفاع كلفة المواد الخام إلى أعباء العمالة والتشغيل، يتوقع استمرار الضغط على ربحية أصحاب الأعمال الصغيرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "मध्य पूर्व से जुड़ी महंगाई ने सियोल की स्नैक दुकानों और राइस केक कारोबार को दबाया",
+        "excerpt": "सियोल की स्नैक दुकानों और राइस केक दुकानों पर मध्य पूर्व से जुड़ी महंगाई तथा चावल और अनाज की कीमतों में बढ़ोतरी का दबाव है, जबकि मालिकों के लिए दाम बढ़ाना आसान नहीं है।",
+        "body": "सियोल की स्नैक दुकानों और राइस केक दुकानों पर मध्य पूर्व से जुड़ी महंगाई का असर दिख रहा है। योनहाप की जमीनी रिपोर्ट के अनुसार, दुकानदारों ने कहा कि उन्हें लगता है कि चावल और अनाज की कीमतें एक साल पहले की तुलना में लगभग 30% बढ़ गई हैं। फिर भी त्तोक और गिम्बाप जैसी रोज खरीदी जाने वाली चीजों के दाम आसानी से बढ़ाना मुश्किल है। कुछ दुकानों ने बताया कि कर्मचारी छोड़कर चले गए हैं और ग्राहक भी केवल न्यूनतम खरीदारी कर रहे हैं, जैसे गिम्बाप की सिर्फ एक रोल। कच्चे माल की बढ़ती लागत श्रम और संचालन खर्च पर दबाव डाल रही है, जिससे छोटे कारोबारियों की आय पर दबाव जारी रह सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Inflasi Terkait Timur Tengah Tekan Kedai Gimbap dan Toko Kue Beras di Seoul",
+        "excerpt": "Kedai makanan ringan Korea dan toko kue beras di Seoul tertekan inflasi terkait Timur Tengah serta kenaikan harga beras dan biji-bijian, sementara pemilik usaha sulit menaikkan harga jual.",
+        "body": "Kedai makanan ringan Korea dan toko kue beras di Seoul tertekan oleh inflasi yang dikaitkan dengan Timur Tengah. Menurut laporan lapangan Yonhap, para pemilik usaha mengatakan harga beras dan biji-bijian terasa sekitar 30% lebih tinggi dibanding setahun lalu. Namun, barang yang sering dibeli konsumen seperti tteok dan gimbap sulit dinaikkan harganya. Beberapa toko menyebut karyawan pergi, sementara pelanggan hanya membeli seperlunya, seperti satu gulung gimbap. Kenaikan biaya bahan baku ikut menambah beban tenaga kerja dan operasional, sehingga tekanan terhadap profitabilitas pelaku usaha kecil diperkirakan berlanjut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f89e391e4d13",
+    "slug": "고유가에-저비용항공사-운항-900편-감축무급휴직-속출-833158",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T23:29:48.325Z",
+    "updatedAt": "2026-05-09T23:29:48.325Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
+    "titleFingerprint": "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
+    "dedupKeys": [
+      "f89e391e4d13e15260ae0801da71b836d0c0aa24",
+      "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
+      "ffa94d52e936968d371a6946f6ea3b6278505cd4"
+    ],
+    "imageUrl": "/images/articles/f89e391e4d13.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고유가 직격탄 맞은 저비용항공사, 운항 900편 감축과 무급휴직 확산",
+        "excerpt": "저비용항공사들이 고유가 부담 속에 운항 900편을 줄이고, 제주항공은 6월 한 달 객실 승무원 희망자를 대상으로 무급휴직을 시행한다.",
+        "body": "고유가 부담이 커지면서 저비용항공사들이 운항 900편을 감축하고 무급휴직에 들어간다. 연합뉴스에 따르면 제주항공은 지난 8일 객실 승무원 가운데 희망자를 대상으로 6월 한 달간 무급휴직을 실시한다고 밝혔다. 이번 조치는 항공유 가격 상승에 따른 비용 압박 속에서 운항 규모를 줄이는 흐름과 맞물려 있다. 운항 편수 축소는 항공사 수익성 방어와 인력 운용 조정으로 이어지고 있으며, 객실 승무원 일부는 무급휴직을 선택하게 됐다. 고유가가 이어질 경우 저비용항공사의 운항 계획과 근무 체계에 추가 부담이 될 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "High Oil Prices Hit Low-Cost Airlines, 900 Flights Cut and Unpaid Leave Spreads",
+        "excerpt": "Low-cost airlines are cutting 900 flights amid high fuel costs, while Jeju Air will offer unpaid leave to cabin crew volunteers for the month of June.",
+        "body": "Low-cost airlines are reducing 900 flights as pressure from high oil prices grows, and unpaid leave is emerging among staff. According to Yonhap News Agency, Jeju Air said on the 8th that it would implement unpaid leave for cabin crew members who volunteer for the program during the month of June. The move comes as rising aviation fuel costs add pressure and carriers reduce their flight operations. The flight cuts are linked to efforts to defend profitability and adjust staffing, with some cabin crew members opting for unpaid leave. If high oil prices continue, they could add further strain to low-cost carriers’ flight plans and work arrangements. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "原油高がLCCを直撃、運航900便削減と無給休職が広がる",
+        "excerpt": "原油高の負担を受け、格安航空会社は運航900便を削減し、チェジュ航空は6月の1カ月間、客室乗務員の希望者を対象に無給休職を実施する。",
+        "body": "原油高による負担が強まるなか、格安航空会社が運航900便を削減し、無給休職に入る動きが出ている。聯合ニュースによると、チェジュ航空は8日、客室乗務員のうち希望者を対象に、6月の1カ月間、無給休職を実施すると明らかにした。今回の措置は、航空燃料価格の上昇によるコスト圧力のなかで、運航規模を縮小する流れと重なる。運航便数の削減は収益性の防衛と人員運用の調整につながり、一部の客室乗務員は無給休職を選ぶことになった。原油高が続けば、LCCの運航計画や勤務体制に追加の負担となる可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "高油价冲击低成本航空，削减900个航班并出现无薪休假",
+        "excerpt": "在高油价压力下，低成本航空公司削减900个航班，济州航空将于6月对自愿申请的客舱乘务员实施一个月无薪休假。",
+        "body": "随着高油价负担加重，低成本航空公司正在削减900个航班，并开始出现无薪休假。韩联社报道称，济州航空8日表示，将在6月一个月内，对客舱乘务员中的自愿申请者实施无薪休假。此举与航空燃油价格上涨带来的成本压力，以及航空公司缩减运营规模的趋势相吻合。航班数量减少正与航空公司维护盈利能力和调整人力运营相连接，部分客舱乘务员将选择无薪休假。如果高油价持续，低成本航空公司的航班计划和工作体系可能面临进一步负担。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "El alto precio del petróleo golpea a aerolíneas low cost: 900 vuelos menos y licencias sin sueldo",
+        "excerpt": "Las aerolíneas de bajo costo recortan 900 vuelos por el encarecimiento del combustible, y Jeju Air aplicará en junio licencias sin sueldo a tripulantes voluntarios.",
+        "body": "La presión de los altos precios del petróleo lleva a las aerolíneas de bajo costo a reducir 900 vuelos y a aplicar licencias sin sueldo. Según Yonhap News Agency, Jeju Air informó el día 8 que durante todo junio implementará licencias sin sueldo para los tripulantes de cabina que se ofrezcan voluntariamente. La medida coincide con la reducción de operaciones en medio del aumento del costo del combustible de aviación. El recorte de vuelos está vinculado a la defensa de la rentabilidad y al ajuste de la gestión de personal, mientras algunos tripulantes optan por la licencia no remunerada. Si los precios altos del petróleo continúan, podrían aumentar la carga sobre los planes de operación y los sistemas laborales de las aerolíneas low cost. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Petróleo caro atinge aéreas de baixo custo, com 900 voos cortados e licença sem salário",
+        "excerpt": "Companhias aéreas de baixo custo reduzem 900 voos sob pressão do combustível caro, enquanto a Jeju Air dará licença não remunerada a tripulantes voluntários em junho.",
+        "body": "A pressão dos altos preços do petróleo levou companhias aéreas de baixo custo a reduzir 900 voos e a adotar licenças não remuneradas. Segundo a Yonhap News Agency, a Jeju Air informou no dia 8 que aplicará, durante o mês de junho, licença sem salário para comissários de bordo que se candidatarem voluntariamente. A medida ocorre em meio ao aumento dos custos do combustível de aviação e à redução do volume de operações. O corte de voos se relaciona à defesa da rentabilidade e ao ajuste da gestão de pessoal, com parte dos tripulantes optando pela licença não remunerada. Se o petróleo caro persistir, poderá elevar a pressão sobre os planos de voo e os regimes de trabalho das aéreas de baixo custo. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Hohe Ölpreise treffen Billigflieger: 900 Flüge gestrichen und unbezahlter Urlaub",
+        "excerpt": "Billigfluggesellschaften streichen wegen hoher Treibstoffkosten 900 Flüge; Jeju Air bietet freiwilligen Flugbegleitern im Juni unbezahlten Urlaub an.",
+        "body": "Der Druck durch hohe Ölpreise wächst, und Billigfluggesellschaften kürzen 900 Flüge sowie führen unbezahlten Urlaub ein. Laut Yonhap News Agency teilte Jeju Air am 8. mit, dass im Juni für freiwillige Kabinenbesatzungsmitglieder ein einmonatiger unbezahlter Urlaub umgesetzt wird. Die Maßnahme steht im Zusammenhang mit steigenden Kosten für Flugtreibstoff und einer Verringerung des Flugbetriebs. Die Reduzierung der Flugzahl dient der Sicherung der Rentabilität und der Anpassung des Personaleinsatzes; einige Flugbegleiter entscheiden sich dadurch für unbezahlten Urlaub. Sollten die hohen Ölpreise anhalten, könnte dies die Flugpläne und Arbeitsstrukturen der Billigfluggesellschaften weiter belasten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le pétrole cher frappe les compagnies low cost: 900 vols réduits et congés sans solde",
+        "excerpt": "Les compagnies aériennes low cost réduisent 900 vols face au coût du carburant, tandis que Jeju Air proposera en juin un congé sans solde aux équipages volontaires.",
+        "body": "La pression des prix élevés du pétrole pousse les compagnies aériennes low cost à réduire 900 vols et à recourir aux congés sans solde. Selon Yonhap News Agency, Jeju Air a annoncé le 8 qu’elle appliquerait, pendant le mois de juin, un congé sans solde aux membres d’équipage de cabine volontaires. Cette mesure s’inscrit dans un contexte de hausse du prix du carburant aérien et de réduction de l’ampleur des opérations. La baisse du nombre de vols est liée à la défense de la rentabilité et à l’ajustement de la gestion du personnel, certains membres d’équipage choisissant le congé non rémunéré. Si les prix élevés du pétrole persistent, ils pourraient accroître la pression sur les plans de vol et l’organisation du travail des compagnies low cost. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع أسعار النفط يضغط على شركات الطيران منخفضة التكلفة: خفض 900 رحلة وإجازات بلا أجر",
+        "excerpt": "تخفض شركات الطيران منخفضة التكلفة 900 رحلة بسبب كلفة الوقود المرتفعة، فيما تطبق جيجو إير إجازة بلا أجر في يونيو لمن يرغب من طاقم المقصورة.",
+        "body": "مع تزايد عبء أسعار النفط المرتفعة، تخفض شركات الطيران منخفضة التكلفة 900 رحلة وتبدأ إجراءات إجازات بلا أجر. ووفقا لوكالة يونهاب للأنباء، قالت جيجو إير في اليوم الثامن إنها ستطبق خلال شهر يونيو إجازة غير مدفوعة الأجر على أفراد طاقم المقصورة الراغبين في ذلك. تأتي الخطوة في سياق ضغوط التكلفة الناتجة عن ارتفاع أسعار وقود الطائرات وتقليص حجم التشغيل. ويرتبط خفض عدد الرحلات بمحاولة حماية الربحية وتعديل إدارة القوى العاملة، إذ سيختار بعض أفراد طاقم المقصورة الإجازة بلا أجر. وإذا استمرت أسعار النفط المرتفعة، فقد تضيف عبئا آخر على خطط التشغيل وأنظمة العمل لدى شركات الطيران منخفضة التكلفة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "महंगे तेल की मार से लो-कॉस्ट एयरलाइंस में 900 उड़ानें कम, बिना वेतन अवकाश बढ़ा",
+        "excerpt": "ऊंची ईंधन लागत के दबाव में लो-कॉस्ट एयरलाइंस 900 उड़ानें घटा रही हैं, जबकि Jeju Air जून में इच्छुक केबिन क्रू को एक महीने का बिना वेतन अवकाश देगी।",
+        "body": "तेल की ऊंची कीमतों का दबाव बढ़ने के साथ लो-कॉस्ट एयरलाइंस 900 उड़ानें घटा रही हैं और बिना वेतन अवकाश लागू कर रही हैं। योनहाप न्यूज एजेंसी के अनुसार, Jeju Air ने 8 तारीख को कहा कि वह जून महीने भर उन केबिन क्रू सदस्यों के लिए बिना वेतन अवकाश लागू करेगी जो स्वेच्छा से इसके लिए आवेदन करेंगे। यह कदम विमान ईंधन की बढ़ती कीमतों से बने लागत दबाव और संचालन घटाने की प्रवृत्ति से जुड़ा है। उड़ानों में कटौती लाभप्रदता बचाने और कर्मचारियों की तैनाती समायोजित करने से संबंधित है, जिससे कुछ केबिन क्रू बिना वेतन अवकाश चुनेंगे। यदि तेल की ऊंची कीमतें जारी रहती हैं, तो लो-कॉस्ट एयरलाइंस की उड़ान योजनाओं और कार्य व्यवस्था पर और दबाव पड़ सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Minyak Tinggi Tekan Maskapai LCC, 900 Penerbangan Dipangkas dan Cuti Tak Dibayar",
+        "excerpt": "Maskapai berbiaya rendah memangkas 900 penerbangan akibat biaya bahan bakar tinggi, sementara Jeju Air menerapkan cuti tak dibayar bagi awak kabin sukarela selama Juni.",
+        "body": "Tekanan harga minyak yang tinggi membuat maskapai berbiaya rendah memangkas 900 penerbangan dan menerapkan cuti tak dibayar. Menurut Yonhap News Agency, Jeju Air pada tanggal 8 menyatakan akan memberlakukan cuti tanpa bayaran selama bulan Juni bagi awak kabin yang secara sukarela mengajukan diri. Langkah ini berkaitan dengan tekanan biaya akibat kenaikan harga bahan bakar aviasi dan pengurangan skala operasi. Pemangkasan jumlah penerbangan terhubung dengan upaya menjaga profitabilitas dan menyesuaikan pengelolaan tenaga kerja, sehingga sebagian awak kabin memilih cuti tak dibayar. Jika harga minyak tinggi berlanjut, hal itu dapat menambah beban pada rencana penerbangan dan sistem kerja maskapai LCC. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1b1b27d3aa20",
+    "slug": "ai-열풍-따라-지방-부동산도-꿈틀-용인-반도체-클러스터-644529",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T23:28:51.829Z",
+    "updatedAt": "2026-05-09T23:28:51.829Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133890923/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133890923/1",
+    "titleFingerprint": "01988ad7c9cee7585a2bd832c25cf6f042302225",
+    "dedupKeys": [
+      "1b1b27d3aa20412a4a27159d42e69e322f6de4e5",
+      "01988ad7c9cee7585a2bd832c25cf6f042302225",
+      "6bfca89e5fabeabd624e2edd2b796a2581ed616f"
+    ],
+    "imageUrl": "/images/articles/1b1b27d3aa20.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 반도체 투자 로드맵에 용인 클러스터 주목, 지방 부동산도 변화 조짐",
+        "excerpt": "AI 열풍 속 대기업의 반도체 투자 로드맵이 용인 반도체 클러스터와 수도권 남부 부동산 시장의 향후 투자 지형을 가늠할 신호로 주목받고 있다.",
+        "body": "인공지능(AI)이 세계경제와 산업을 빠르게 바꾸는 가운데, 부동산 시장도 3~5년 뒤 가까운 미래의 투자 지형 변화를 주시하고 있다. 현재 참고할 만한 신호는 대기업의 장기 투자 로드맵이다. 원문에 따르면 삼성전자와 SK하이닉스를 중심으로 2030년까지 수백조 원 규모의 반도체 투자 계획이 제시됐다. 용인 반도체 종합 클러스터, 서울·판교의 팹리스, 평택·기흥·화성의 메모리·파운드리, 이천·청주의 메모리·패키징·소부장 거점이 수도권 남부 반도체 생태계로 묶일 전망이다. 정책 지원과 대기업 투자가 집중되는 이들 지역은 AI 산업과 부동산의 동반 성장 기대가 커지고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "AI Chip Investment Roadmap Puts Yongin Cluster in Real Estate Spotlight",
+        "excerpt": "Amid the AI boom, major Korean chipmakers’ long-term investment roadmap is drawing attention as a signal for Yongin and southern Seoul-area real estate markets.",
+        "body": "As artificial intelligence rapidly reshapes the global economy and industry, the real estate market is watching how the investment landscape may change over the next three to five years. The most immediate signal is the long-term investment roadmap of major companies. According to the source, Samsung Electronics and SK Hynix are at the center of semiconductor investment plans worth hundreds of trillions of won through 2030. A broad southern metropolitan chip ecosystem is expected to include the Yongin semiconductor cluster, fabless hubs in Seoul and Pangyo, memory and foundry bases in Pyeongtaek, Giheung and Hwaseong, and memory, packaging, materials, parts and equipment hubs in Icheon and Cheongju. With policy support and corporate investment concentrated in these areas, expectations are rising for parallel growth in AI industries and real estate. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "AI半導体投資ロードマップで龍仁クラスターに注目、不動産も変化の兆し",
+        "excerpt": "AIブームの中、韓国大手企業の半導体投資ロードマップが、龍仁半導体クラスターと首都圏南部の不動産市場を読む手掛かりとして注目されている。",
+        "body": "人工知能（AI）が世界経済と産業を急速に変える中、不動産市場も今後3～5年の投資地図の変化に注目している。現時点で参考になるシグナルは、大企業の長期投資ロードマップだ。原文によると、サムスン電子とSKハイニックスを中心に、2030年まで数百兆ウォン規模の半導体投資計画が示されている。龍仁の半導体総合クラスター、ソウル・板橋のファブレス、平沢・器興・華城のメモリー・ファウンドリー、利川・清州のメモリー・パッケージング・素材部品装備拠点が、首都圏南部の大きな半導体生態系を形成する見通しだ。政策支援と大企業投資が集中するこれらの地域では、AI産業と不動産の同時成長への期待が高まっている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "AI半导体投资路线图聚焦龙仁集群，房地产市场显现变化信号",
+        "excerpt": "在AI热潮下，韩国大企业半导体投资路线图正成为观察龙仁半导体集群及首都圈南部房地产投资格局的重要信号。",
+        "body": "随着人工智能（AI）快速改变世界经济和产业，房地产市场也在关注未来3至5年投资格局可能出现的变化。当前可供参考的信号，是大企业的长期投资路线图。原文称，以三星电子和SK海力士为中心，到2030年已提出数百万亿韩元规模的半导体投资计划。龙仁半导体综合集群、首尔和板桥的无晶圆厂企业、平泽、器兴、华城的存储和代工基地，以及利川、清州的存储、封装、材料零部件和设备据点，预计将共同形成覆盖首都圈南部的庞大半导体生态系统。随着政策支持和大企业投资集中，这些地区对AI产业与房地产共同增长的期待正在升温。出处: rss.donga.com"
+      },
+      "es": {
+        "title": "La inversión en chips por IA enfoca a Yongin y mueve el mapa inmobiliario",
+        "excerpt": "En pleno auge de la IA, la hoja de ruta inversora de grandes empresas en semiconductores destaca como señal para Yongin y el mercado inmobiliario del sur metropolitano.",
+        "body": "Mientras la inteligencia artificial transforma con rapidez la economía mundial y la industria, el mercado inmobiliario observa cómo podría cambiar el mapa de inversión en los próximos tres a cinco años. La señal más inmediata es la hoja de ruta de inversión a largo plazo de las grandes empresas. Según la fuente, Samsung Electronics y SK Hynix encabezan planes de inversión en semiconductores por cientos de billones de wones hasta 2030. Se prevé un amplio ecosistema en el sur del área metropolitana, con el clúster integral de semiconductores de Yongin, centros fabless en Seúl y Pangyo, bases de memoria y fundición en Pyeongtaek, Giheung y Hwaseong, y nodos de memoria, empaquetado, materiales, piezas y equipos en Icheon y Cheongju. Con apoyo público e inversión empresarial concentrados, crecen las expectativas de avance conjunto entre la industria de IA y el sector inmobiliario. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Roteiro de chips para IA destaca Yongin e sinaliza mudança imobiliária",
+        "excerpt": "Com a onda de IA, o plano de investimento de grandes empresas em semicondutores ganha atenção como sinal para Yongin e o mercado imobiliário do sul metropolitano.",
+        "body": "Enquanto a inteligência artificial transforma rapidamente a economia mundial e a indústria, o mercado imobiliário observa possíveis mudanças no mapa de investimento dos próximos três a cinco anos. O sinal mais imediato é o roteiro de investimento de longo prazo das grandes empresas. Segundo a fonte, Samsung Electronics e SK Hynix lideram planos de investimento em semicondutores de centenas de trilhões de won até 2030. Deve surgir um amplo ecossistema no sul da região metropolitana, reunindo o cluster de semicondutores de Yongin, polos fabless em Seul e Pangyo, bases de memória e fundição em Pyeongtaek, Giheung e Hwaseong, além de centros de memória, embalagem, materiais, peças e equipamentos em Icheon e Cheongju. Com apoio político e investimento corporativo concentrados, aumentam as expectativas de crescimento conjunto entre IA e imóveis. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "KI-Chipinvestitionen rücken Yongin-Cluster in den Immobilienfokus",
+        "excerpt": "Im KI-Boom gilt die langfristige Halbleiter-Roadmap großer koreanischer Konzerne als Signal für Yongin und den Immobilienmarkt im Süden der Metropolregion.",
+        "body": "Während künstliche Intelligenz Weltwirtschaft und Industrie rasch verändert, beobachtet auch der Immobilienmarkt mögliche Verschiebungen der Investitionslandschaft in den kommenden drei bis fünf Jahren. Das naheliegende Signal ist die langfristige Investitionsroadmap großer Unternehmen. Laut Quelle stehen Samsung Electronics und SK Hynix im Zentrum von Halbleiterplänen im Umfang von Hunderten Billionen Won bis 2030. Erwartet wird ein breites Ökosystem im Süden der Metropolregion: der Halbleiter-Gesamtcluster in Yongin, Fabless-Standorte in Seoul und Pangyo, Speicher- und Foundry-Basen in Pyeongtaek, Giheung und Hwaseong sowie Speicher-, Packaging-, Material-, Teile- und Ausrüstungszentren in Icheon und Cheongju. Da politische Unterstützung und Unternehmensinvestitionen dort gebündelt werden, steigen die Erwartungen an ein gemeinsames Wachstum von KI-Industrie und Immobilien. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La feuille de route des puces IA met Yongin au centre de l’immobilier",
+        "excerpt": "Avec l’essor de l’IA, la stratégie d’investissement des grands groupes coréens dans les semi-conducteurs attire l’attention sur Yongin et le sud métropolitain.",
+        "body": "Alors que l’intelligence artificielle transforme rapidement l’économie mondiale et l’industrie, le marché immobilier suit les changements possibles de la carte des investissements à trois ou cinq ans. Le signal le plus concret vient de la feuille de route à long terme des grandes entreprises. Selon la source, Samsung Electronics et SK Hynix portent des plans d’investissement dans les semi-conducteurs représentant plusieurs centaines de billions de wons d’ici 2030. Un vaste écosystème devrait se former dans le sud de la région métropolitaine, avec le cluster complet de Yongin, les pôles fabless de Séoul et Pangyo, les bases mémoire et fonderie de Pyeongtaek, Giheung et Hwaseong, ainsi que les sites mémoire, packaging, matériaux, pièces et équipements d’Icheon et Cheongju. La concentration du soutien public et des investissements d’entreprise alimente les attentes de croissance conjointe entre industrie de l’IA et immobilier. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "خريطة استثمار رقائق الذكاء الاصطناعي تسلط الضوء على مجمع يونغين العقاري",
+        "excerpt": "وسط طفرة الذكاء الاصطناعي، تبرز خريطة استثمارات شركات كورية كبرى في أشباه الموصلات كإشارة مهمة ليونغين وسوق العقارات جنوب العاصمة.",
+        "body": "مع تسارع تأثير الذكاء الاصطناعي في الاقتصاد العالمي والصناعة، يراقب سوق العقارات تغير خريطة الاستثمار خلال السنوات الثلاث إلى الخمس المقبلة. الإشارة الأوضح حاليا هي خريطة الاستثمار الطويلة الأجل للشركات الكبرى. ووفق المصدر، تقود سامسونغ إلكترونيكس وSK هاينكس خططا للاستثمار في أشباه الموصلات بقيمة مئات التريليونات من الوون حتى عام 2030. ومن المتوقع بناء منظومة واسعة جنوب المنطقة الحضرية تشمل مجمع يونغين الشامل لأشباه الموصلات، ومراكز التصميم دون مصانع في سيول وبانغيو، وقواعد الذاكرة والمسابك في بيونغتايك وكيهونغ وهواسونغ، ومراكز الذاكرة والتغليف والمواد والقطع والمعدات في إيتشيون وتشونغجو. ومع تركز الدعم السياسي واستثمارات الشركات الكبرى في هذه المناطق، تتزايد التوقعات بنمو متزامن بين صناعة الذكاء الاصطناعي والعقارات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "AI चिप निवेश रोडमैप से योंगिन क्लस्टर पर नजर, रियल एस्टेट में हलचल",
+        "excerpt": "AI उछाल के बीच बड़ी कोरियाई कंपनियों का सेमीकंडक्टर निवेश रोडमैप योंगिन क्लस्टर और दक्षिणी महानगरीय रियल एस्टेट बाजार के लिए संकेत माना जा रहा है।",
+        "body": "कृत्रिम बुद्धिमत्ता तेजी से वैश्विक अर्थव्यवस्था और उद्योगों को बदल रही है, और रियल एस्टेट बाजार भी अगले तीन से पांच वर्षों में निवेश परिदृश्य के बदलाव पर नजर रख रहा है। अभी सबसे अहम संकेत बड़ी कंपनियों का दीर्घकालिक निवेश रोडमैप है। स्रोत के अनुसार, सैमसंग इलेक्ट्रॉनिक्स और SK हाइनिक्स के नेतृत्व में 2030 तक सैकड़ों ट्रिलियन वॉन के सेमीकंडक्टर निवेश की योजना सामने आई है। योंगिन का समग्र सेमीकंडक्टर क्लस्टर, सियोल और पांग्यो के फैबलेस केंद्र, प्योंगटेक, गिहुंग और ह्वासोंग के मेमोरी व फाउंड्री आधार, तथा इचॉन और चेओंगजू के मेमोरी, पैकेजिंग, सामग्री, पुर्जे और उपकरण केंद्र मिलकर दक्षिणी महानगरीय क्षेत्र में बड़ा सेमीकंडक्टर पारिस्थितिकी तंत्र बना सकते हैं। नीति समर्थन और कॉरपोरेट निवेश के केंद्रित होने से इन क्षेत्रों में AI उद्योग और रियल एस्टेट की साथ-साथ वृद्धि की उम्मीद बढ़ रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Peta Investasi Chip AI Sorot Klaster Yongin dan Arah Properti",
+        "excerpt": "Di tengah demam AI, roadmap investasi semikonduktor perusahaan besar Korea menjadi sinyal penting bagi Klaster Yongin dan pasar properti selatan metropolitan.",
+        "body": "Saat kecerdasan buatan mengubah ekonomi global dan industri dengan cepat, pasar properti ikut mencermati perubahan peta investasi dalam tiga hingga lima tahun ke depan. Sinyal yang paling dapat dirujuk saat ini adalah roadmap investasi jangka panjang perusahaan besar. Menurut sumber, Samsung Electronics dan SK Hynix menjadi pusat rencana investasi semikonduktor bernilai ratusan triliun won hingga 2030. Ekosistem besar di selatan wilayah metropolitan diperkirakan mencakup klaster semikonduktor terpadu Yongin, pusat fabless di Seoul dan Pangyo, basis memori dan foundry di Pyeongtaek, Giheung dan Hwaseong, serta pusat memori, packaging, material, komponen dan peralatan di Icheon dan Cheongju. Dengan dukungan kebijakan dan investasi korporasi yang terkonsentrasi, ekspektasi pertumbuhan bersama antara industri AI dan properti meningkat. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "86498259f6a3",
     "slug": "반려동물-5천원-카시트-품절-대란펫-시장에-실속형-바람-424083",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Imsil Dorong Penggaruan Sawah Kering untuk Atasi Kekurangan Tenaga Tani dan Krisis Iklim",
         "excerpt": "Kabupaten Imsil di Jeonbuk mulai mempromosikan metode pertanian rendah karbon berupa penggaruan sawah kering untuk mengatasi kekurangan tenaga kerja pedesaan dan merespons krisis iklim, menurut Yonhap.",
         "body": "Kabupaten Imsil di Provinsi Jeonbuk mulai mempromosikan “penggaruan sawah kering”, sebuah metode pertanian rendah karbon, untuk membantu mengatasi kekurangan tenaga kerja di pedesaan dan merespons krisis iklim. Langkah ini diambil saat wilayah pertanian masih menghadapi kekurangan pekerja, dengan tujuan memperluas praktik rendah karbon yang dapat digunakan dalam budidaya padi. Metode tersebut diperkenalkan sebagai penggaruan lahan saat sawah masih kering, bukan setelah sawah dialiri air. Imsil berencana mengurangi beban di lapangan pertanian dan mendukung respons terhadap krisis iklim melalui metode ini. Artikel ini mengutip laporan Yonhap oleh Kim Dong-cheol, sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1f61b02096ef",
-    "slug": "코스피-하락-7400선-안팎에서-등락코스닥은-혼조-456762",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T15:51:54.574Z",
-    "updatedAt": "2026-05-09T15:51:54.574Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
-    "titleFingerprint": "b3917c871aded5c1b61ce7d10daf246389b26bd9",
-    "dedupKeys": [
-      "1f61b02096ef78bb1c487930995673bc480ea98f",
-      "b3917c871aded5c1b61ce7d10daf246389b26bd9",
-      "bd55224adbfb7360613d05cdd7c46bcb6c830201"
-    ],
-    "imageUrl": "/images/articles/1f61b02096ef.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 하락폭 축소, 기관 순매수 전환에 7,370대 등락",
-        "excerpt": "8일 서울 증시에서 코스피는 장중 기관이 순매수세로 돌아서며 낙폭을 줄여 7,370대를 나타냈고, 코스닥은 혼조 흐름을 보였다.",
-        "body": "8일 서울 증시에서 코스피가 하락세를 보였으나 장중 기관 투자자가 순매수세로 전환하면서 낙폭을 축소했다. 연합뉴스에 따르면 코스피는 이날 장중 7,370대를 나타내며 7,400선 안팎에서 등락하는 흐름을 보였다. 원문은 기관 매매 흐름 변화가 지수 하락 폭을 줄인 배경으로 제시했다. 코스닥은 뚜렷한 한 방향을 정하지 못한 채 혼조세를 보였다. 이날 시장은 코스피의 낙폭 축소 여부와 코스닥의 방향성 확인에 관심이 모였다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Trims Losses as Institutions Turn Net Buyers, Trades in 7,370s",
-        "excerpt": "In Seoul trading on the 8th, the KOSPI reduced its intraday losses after institutions shifted to net buying, hovering in the 7,370 range, while the KOSDAQ was mixed.",
-        "body": "In Seoul’s stock market on the 8th, the KOSPI moved lower but narrowed its losses during the session as institutional investors turned to net buying. According to Yonhap News Agency, the index was in the 7,370 range intraday, fluctuating around the 7,400 level. The original report cited the change in institutional trading flow as a factor behind the reduced decline. The KOSDAQ showed mixed movement without a clear single direction. Market attention centered on whether the KOSPI would continue trimming losses and whether the KOSDAQ would find direction. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI下落幅縮小、機関投資家の買い越し転換で7,370台推移",
-        "excerpt": "8日のソウル株式市場でKOSPIは、取引時間中に機関投資家が買い越しに転じたことで下落幅を縮小し、7,370台で推移した。KOSDAQはまちまちだった。",
-        "body": "8日のソウル株式市場でKOSPIは下落したものの、取引時間中に機関投資家が買い越しに転じたことで下落幅を縮小した。聯合ニュースによると、KOSPIは同日場中に7,370台を示し、7,400台前後で上下する流れとなった。原文は、機関投資家の売買動向の変化が指数の下落幅を抑えた背景だと伝えた。KOSDAQは明確な方向感を欠き、まちまちの動きとなった。この日の市場では、KOSPIの下落幅縮小が続くか、KOSDAQの方向性が確認できるかに関心が集まった。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI跌幅收窄，机构转为净买入后在7,370点区间波动",
-        "excerpt": "8日首尔股市中，KOSPI盘中因机构投资者转为净买入而收窄跌幅，运行在7,370点区间；KOSDAQ走势则呈现分化。",
-        "body": "8日首尔股市中，KOSPI虽呈下跌走势，但盘中随着机构投资者转为净买入，跌幅有所收窄。据韩联社报道，KOSPI当天盘中位于7,370点区间，并在7,400点附近上下波动。原文将机构买卖方向的变化列为指数跌幅缩小的背景。KOSDAQ未形成明确单边方向，呈现混合走势。当天市场关注焦点集中在KOSPI能否继续缩小跌幅，以及KOSDAQ后续方向能否进一步明确。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI reduce pérdidas tras compras netas institucionales y ronda los 7.370",
-        "excerpt": "En la Bolsa de Seúl del día 8, el KOSPI recortó sus pérdidas intradía después de que las instituciones pasaran a compras netas, mientras el KOSDAQ mostró un desempeño mixto.",
-        "body": "En el mercado bursátil de Seúl del día 8, el KOSPI cayó, pero redujo sus pérdidas durante la sesión después de que los inversores institucionales pasaran a una posición de compras netas. Según Yonhap News Agency, el índice se situaba intradía en la zona de los 7.370 puntos y fluctuaba alrededor del nivel de 7.400. El informe original señaló el cambio en el flujo de negociación institucional como el contexto de la menor caída. El KOSDAQ mostró movimientos mixtos, sin una dirección clara. La atención del mercado se centró en si el KOSPI seguiría recortando pérdidas y si el KOSDAQ definiría tendencia. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI reduz perdas com compra líquida institucional e oscila nos 7.370",
-        "excerpt": "Na Bolsa de Seul no dia 8, o KOSPI diminuiu as perdas intradiárias após instituições passarem a compras líquidas, enquanto o KOSDAQ teve desempenho misto.",
-        "body": "No mercado acionário de Seul no dia 8, o KOSPI recuou, mas reduziu as perdas durante o pregão depois que investidores institucionais passaram a uma posição de compras líquidas. Segundo a Yonhap News Agency, o índice estava na faixa dos 7.370 pontos no intradia, oscilando em torno do nível de 7.400. A reportagem original apontou a mudança no fluxo de negociação institucional como o fator por trás da menor queda. O KOSDAQ apresentou movimento misto, sem uma direção única clara. O mercado acompanhou se o KOSPI continuaria reduzindo perdas e se o KOSDAQ confirmaria uma direção. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI grenzt Verluste ein, Institutionelle kaufen netto, Index bei 7.370",
-        "excerpt": "Am 8. grenzte der KOSPI im Handel in Seoul seine Tagesverluste ein, nachdem institutionelle Anleger zu Nettokäufern wurden; der KOSDAQ zeigte sich uneinheitlich.",
-        "body": "Am Aktienmarkt in Seoul gab der KOSPI am 8. nach, verringerte seine Verluste im Tagesverlauf jedoch, nachdem institutionelle Investoren zu Nettokäufern geworden waren. Laut Yonhap News Agency lag der Index intraday im Bereich von 7.370 Punkten und schwankte um die Marke von 7.400. Der ursprüngliche Bericht nannte die veränderten Handelsströme institutioneller Anleger als Hintergrund für die geringere Abwärtsbewegung. Der KOSDAQ zeigte sich ohne klare Richtung uneinheitlich. Im Fokus stand, ob der KOSPI seine Verluste weiter eingrenzen und der KOSDAQ eine Richtung finden würde. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI réduit ses pertes avec les achats institutionnels et évolue vers 7 370",
-        "excerpt": "À Séoul le 8, le KOSPI a réduit ses pertes en séance après le passage des institutions à l’achat net, tandis que le KOSDAQ a affiché une tendance mitigée.",
-        "body": "Sur le marché boursier de Séoul le 8, le KOSPI était en baisse, mais a réduit ses pertes en séance après que les investisseurs institutionnels sont passés à l’achat net. Selon Yonhap News Agency, l’indice évoluait intrajournalier dans la zone des 7 370 points, fluctuant autour du seuil de 7 400. Le rapport original a présenté le changement de flux des transactions institutionnelles comme le contexte de l’atténuation du recul. Le KOSDAQ a affiché une évolution mitigée, sans direction claire. L’attention du marché portait sur la poursuite de la réduction des pertes du KOSPI et sur la confirmation d’une direction pour le KOSDAQ. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقلص خسائره مع تحول المؤسسات إلى الشراء الصافي قرب 7,370 نقطة",
-        "excerpt": "في تداولات سيول يوم 8، قلص مؤشر كوسبي خسائره أثناء الجلسة بعد تحول المؤسسات إلى الشراء الصافي، بينما أظهر كوسداك أداء متباينا.",
-        "body": "في سوق الأسهم في سيول يوم 8، تراجع مؤشر كوسبي، لكنه قلص خسائره خلال الجلسة بعدما تحول المستثمرون المؤسسون إلى الشراء الصافي. ووفقا لوكالة يونهاب للأنباء، سجل المؤشر خلال التداولات مستوى في نطاق 7,370 نقطة، متذبذبا حول مستوى 7,400 نقطة. وأشار التقرير الأصلي إلى أن تغير تدفقات تداول المؤسسات كان خلف تقليص حدة الهبوط. أما كوسداك فأظهر حركة متباينة من دون اتجاه واضح. وتركز اهتمام السوق على ما إذا كان كوسبي سيواصل تقليص خسائره، وما إذا كان كوسداك سيحدد اتجاها أوضح. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "संस्थागत शुद्ध खरीद से KOSPI की गिरावट घटी, 7,370 के दायरे में कारोबार",
-        "excerpt": "8 तारीख को सियोल बाजार में संस्थागत निवेशकों के शुद्ध खरीदार बनने के बाद KOSPI ने दिन की गिरावट घटाई और 7,370 के दायरे में रहा, जबकि KOSDAQ मिला-जुला रहा।",
-        "body": "8 तारीख को सियोल शेयर बाजार में KOSPI गिरावट में रहा, लेकिन सत्र के दौरान संस्थागत निवेशकों के शुद्ध खरीदार बनने के बाद इसकी गिरावट कम हुई। योनहाप न्यूज एजेंसी के अनुसार, सूचकांक दिन के कारोबार में 7,370 के दायरे में था और 7,400 के आसपास उतार-चढ़ाव कर रहा था। मूल रिपोर्ट ने संस्थागत कारोबार के रुख में बदलाव को गिरावट कम होने की पृष्ठभूमि बताया। KOSDAQ में स्पष्ट एकतरफा दिशा नहीं दिखी और उसका रुझान मिला-जुला रहा। बाजार का ध्यान इस पर रहा कि KOSPI गिरावट और घटा पाएगा या नहीं तथा KOSDAQ दिशा तय करेगा या नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Pangkas Penurunan saat Institusi Beralih Net Buy, Bergerak di 7.370",
-        "excerpt": "Di bursa Seoul pada tanggal 8, KOSPI memangkas penurunan intraday setelah institusi beralih menjadi pembeli bersih, sementara KOSDAQ bergerak campuran.",
-        "body": "Di pasar saham Seoul pada tanggal 8, KOSPI melemah, tetapi memangkas penurunannya selama sesi setelah investor institusi beralih menjadi pembeli bersih. Menurut Yonhap News Agency, indeks berada di kisaran 7.370 pada perdagangan intraday dan bergerak di sekitar level 7.400. Laporan asli menyebut perubahan arus transaksi institusi sebagai latar belakang menyempitnya penurunan indeks. KOSDAQ bergerak campuran tanpa arah tunggal yang jelas. Perhatian pasar tertuju pada apakah KOSPI dapat terus mengurangi penurunan dan apakah KOSDAQ akan memperlihatkan arah yang lebih jelas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce5ba0a5b232",
-    "slug": "특징주-닉스-1명-성과급이-더-많겠네cj-enm-실적부진에-약세-602192",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T15:51:00.185Z",
-    "updatedAt": "2026-05-09T15:51:00.185Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508078900008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508078900008",
-    "titleFingerprint": "44d284206e4118c5b985b0e9537ae9d84e2cd2a6",
-    "dedupKeys": [
-      "ce5ba0a5b232f60de90e0c064598cf7fdcef315d",
-      "44d284206e4118c5b985b0e9537ae9d84e2cd2a6",
-      "78cbfd364d783756cffafeda98ae26466fbafc4c"
-    ],
-    "imageUrl": "/images/articles/ce5ba0a5b232.jpg",
-    "i18n": {
-      "ko": {
-        "title": "CJ ENM 1분기 영업이익 15억원 확인에 주가 약세",
-        "excerpt": "CJ ENM은 1분기 영업이익이 15억원에 그친 것으로 확인되자 8일 시장 실망감이 커지며 주가가 약세를 보였다.",
-        "body": "CJ ENM[035760]은 8일 1분기 영업이익이 15억원에 그친 것으로 확인되면서 주식시장에서 약세를 보였다. 실적 부진이 확인되자 투자자들의 실망감이 커진 영향이다. 원문은 ‘닉스 1명 성과급이 더 많겠네’라는 시장 반응을 제목에 담아, 회사의 분기 영업이익 규모가 기대에 미치지 못했다는 분위기를 전했다. CJ ENM의 실적 부진은 주가 흐름에 부담으로 작용했으며, 시장은 향후 실적 회복 여부를 주시할 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "CJ ENM shares weaken after Q1 operating profit confirmed at 1.5 billion won",
-        "excerpt": "CJ ENM shares fell on May 8 as market disappointment grew after its first-quarter operating profit was confirmed at just 1.5 billion won.",
-        "body": "CJ ENM[035760] traded weaker on May 8 after it was confirmed that the company’s first-quarter operating profit amounted to only 1.5 billion won. The stock came under pressure as investor disappointment grew over the weak earnings result. The original report highlighted market reaction with the phrase that one Knicks player’s bonus might be larger, underscoring the view that the quarterly operating profit fell short of expectations. The sluggish performance weighed on CJ ENM’s share price, and the market is expected to watch whether earnings recover going forward. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "CJ ENM、1-3月営業益15億ウォン確認で株価が軟調",
-        "excerpt": "CJ ENMは第1四半期の営業利益が15億ウォンにとどまったことが確認され、8日に市場の失望感が広がり株価が軟調となった。",
-        "body": "CJ ENM[035760]は8日、第1四半期の営業利益が15億ウォンにとどまったことが確認され、株式市場で軟調に推移した。業績不振が確認されたことで、投資家の失望感が強まったためだ。原文は「ニックス1人の成果給の方が多そうだ」という市場の反応を見出しに盛り込み、同社の四半期営業利益の規模が期待に届かなかった雰囲気を伝えた。CJ ENMの低調な実績は株価の重荷となり、市場は今後の業績回復の有無を注視するとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "CJ ENM一季度营业利润仅15亿韩元，股价走弱",
-        "excerpt": "CJ ENM第一季度营业利润被确认仅为15亿韩元后，市场失望情绪升温，8日公司股价表现疲弱。",
-        "body": "CJ ENM[035760]在8日股市中走弱，原因是其第一季度营业利润被确认仅为15亿韩元。业绩不振得到确认后，投资者失望情绪扩大，对股价形成压力。原文在标题中引用了“尼克斯一名球员的奖金可能都更多”的市场反应，反映出市场认为该公司季度营业利润规模未达预期。CJ ENM的低迷业绩成为股价走势的负担，市场预计将继续关注其未来业绩能否恢复。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "CJ ENM cae en bolsa tras confirmar solo 1.500 millones de wones de beneficio operativo",
-        "excerpt": "CJ ENM se debilitó el 8 de mayo en bolsa después de confirmarse que su beneficio operativo del primer trimestre fue de apenas 1.500 millones de wones.",
-        "body": "CJ ENM[035760] mostró debilidad en bolsa el 8 de mayo después de confirmarse que su beneficio operativo del primer trimestre fue de solo 1.500 millones de wones. La decepción del mercado aumentó al conocerse el flojo resultado. El informe original recogió en el titular una reacción del mercado según la cual la prima de un solo jugador de los Knicks podría ser mayor, reflejando la percepción de que el beneficio operativo trimestral de la compañía quedó por debajo de las expectativas. La debilidad de los resultados pesó sobre la acción de CJ ENM, y el mercado seguirá atento a una posible recuperación. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "CJ ENM recua após lucro operacional do 1º trimestre ficar em 1,5 bi de won",
-        "excerpt": "As ações da CJ ENM enfraqueceram em 8 de maio após a confirmação de que o lucro operacional do primeiro trimestre foi de apenas 1,5 bilhão de won.",
-        "body": "A CJ ENM[035760] apresentou queda no mercado acionário em 8 de maio depois que foi confirmado que seu lucro operacional do primeiro trimestre ficou em apenas 1,5 bilhão de won. O resultado fraco aumentou a decepção dos investidores. A reportagem original destacou no título uma reação do mercado dizendo que o bônus de um único jogador dos Knicks poderia ser maior, indicando que o tamanho do lucro operacional trimestral ficou aquém das expectativas. O desempenho fraco pressionou as ações da CJ ENM, enquanto o mercado deve acompanhar se haverá recuperação dos resultados daqui em diante. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "CJ ENM-Aktie schwach nach nur 1,5 Mrd. Won Betriebsgewinn im ersten Quartal",
-        "excerpt": "Die CJ ENM-Aktie gab am 8. Mai nach, nachdem bestätigt wurde, dass der Betriebsgewinn im ersten Quartal nur 1,5 Milliarden Won betrug.",
-        "body": "CJ ENM[035760] zeigte sich am 8. Mai am Aktienmarkt schwach, nachdem bestätigt wurde, dass der Betriebsgewinn im ersten Quartal lediglich 1,5 Milliarden Won betrug. Die schwachen Ergebnisse verstärkten die Enttäuschung der Anleger. Der Originalbericht griff im Titel eine Marktreaktion auf, wonach der Bonus eines einzigen Knicks-Spielers wohl höher sei, und vermittelte damit die Stimmung, dass der Quartalsgewinn hinter den Erwartungen zurückblieb. Die Ergebnisflaute belastete den Kurs von CJ ENM, während der Markt nun darauf achten dürfte, ob sich die Gewinne künftig erholen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "CJ ENM recule en Bourse après un bénéfice opérationnel trimestriel de 1,5 milliard de wons",
-        "excerpt": "CJ ENM a faibli en Bourse le 8 mai après la confirmation d’un bénéfice opérationnel limité à 1,5 milliard de wons au premier trimestre.",
-        "body": "CJ ENM[035760] a évolué en baisse en Bourse le 8 mai après la confirmation d’un bénéfice opérationnel de seulement 1,5 milliard de wons au premier trimestre. La faiblesse des résultats a accentué la déception des investisseurs. L’article original a repris dans son titre une réaction du marché selon laquelle la prime d’un seul joueur des Knicks pourrait être plus élevée, illustrant l’idée que le bénéfice opérationnel trimestriel de l’entreprise n’a pas répondu aux attentes. Cette contre-performance a pesé sur l’action de CJ ENM, et le marché surveillera une éventuelle reprise des résultats. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سهم CJ ENM يتراجع بعد تأكيد ربح تشغيلي فصلي بلغ 1.5 مليار وون فقط",
-        "excerpt": "تراجع سهم CJ ENM في 8 مايو بعدما تأكد أن الربح التشغيلي للربع الأول بلغ 1.5 مليار وون فقط، ما زاد خيبة أمل السوق.",
-        "body": "تراجع سهم CJ ENM[035760] في سوق الأسهم يوم 8 مايو بعدما تأكد أن الربح التشغيلي للشركة في الربع الأول بلغ 1.5 مليار وون فقط. وجاء الضعف نتيجة ازدياد خيبة أمل المستثمرين بعد تأكيد الأداء المتراجع. وأبرز التقرير الأصلي في عنوانه رد فعل في السوق مفاده أن مكافأة لاعب واحد من نيكس قد تكون أكبر، في إشارة إلى أن حجم الربح التشغيلي الفصلي لم يلب التوقعات. وقد شكل ضعف النتائج ضغطا على سهم CJ ENM، ومن المتوقع أن يراقب السوق ما إذا كانت الأرباح ستتعافى لاحقا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "CJ ENM का शेयर कमजोर, पहली तिमाही का परिचालन लाभ सिर्फ 1.5 अरब वॉन",
-        "excerpt": "CJ ENM का पहली तिमाही का परिचालन लाभ केवल 1.5 अरब वॉन रहने की पुष्टि के बाद 8 मई को बाजार में निराशा बढ़ी और शेयर कमजोर रहा।",
-        "body": "CJ ENM[035760] का शेयर 8 मई को कमजोर रहा, जब यह पुष्टि हुई कि कंपनी का पहली तिमाही का परिचालन लाभ केवल 1.5 अरब वॉन रहा। कमजोर नतीजों की पुष्टि के बाद निवेशकों में निराशा बढ़ी और शेयर पर दबाव पड़ा। मूल रिपोर्ट ने शीर्षक में बाजार की प्रतिक्रिया को शामिल किया कि निक्स के एक खिलाड़ी का बोनस भी इससे अधिक हो सकता है, जिससे यह संकेत मिला कि कंपनी का तिमाही परिचालन लाभ अपेक्षाओं से कम रहा। CJ ENM के कमजोर प्रदर्शन ने शेयर भाव पर बोझ डाला, और बाजार आगे आय में सुधार की संभावना पर नजर रखेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Saham CJ ENM melemah setelah laba operasi kuartal I hanya 1,5 miliar won",
-        "excerpt": "Saham CJ ENM melemah pada 8 Mei setelah laba operasi kuartal pertama dikonfirmasi hanya 1,5 miliar won, memicu kekecewaan pasar.",
-        "body": "CJ ENM[035760] melemah di pasar saham pada 8 Mei setelah dikonfirmasi bahwa laba operasi kuartal pertamanya hanya mencapai 1,5 miliar won. Kinerja yang lesu membuat kekecewaan investor meningkat. Laporan asli menampilkan reaksi pasar dalam judulnya bahwa bonus satu pemain Knicks mungkin lebih besar, menggambarkan suasana bahwa laba operasi kuartalan perusahaan tidak memenuhi ekspektasi. Lemahnya kinerja tersebut menekan pergerakan saham CJ ENM, dan pasar diperkirakan akan mencermati apakah laba perusahaan dapat pulih ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3ff71bebba17",
-    "slug": "국고채-금리-일제히-상승3년물-장중-연-3566-496012",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T15:30:56.239Z",
-    "updatedAt": "2026-05-09T15:30:56.239Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508080300008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508080300008",
-    "titleFingerprint": "f38362df9d299804354e91c0d7fe9a24968a4cf7",
-    "dedupKeys": [
-      "3ff71bebba17da1520e339151de55b565da56037",
-      "f38362df9d299804354e91c0d7fe9a24968a4cf7",
-      "b86fe9b9059c3102b68cbcbbce01fd7c7dfecd87"
-    ],
-    "imageUrl": "/images/articles/3ff71bebba17.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국고채 금리 일제히 상승, 3년물 장중 연 3.566% 기록",
-        "excerpt": "8일 서울 채권시장에서 국고채 금리가 일제히 상승하며 3년물 금리가 장중 연 3.566%를 기록했다고 연합뉴스가 전했다.",
-        "body": "8일 서울 채권시장에서 국고채 금리가 일제히 상승하고 있다. 연합뉴스에 따르면 이날 국고채 3년물 금리는 장중 연 3.566%를 기록했다. 이번 흐름은 주요 국고채 금리가 같은 방향으로 오르고 있다는 점에서 채권시장 참가자들의 관심을 모으고 있다. 원문에서 확인된 핵심 수치는 3년물 장중 금리 연 3.566%이며, 금리 상승세가 전반적으로 나타났다는 내용이다. 국고채 금리는 채권 가격과 반대로 움직이는 지표로 시장 금리 흐름을 가늠하는 데 활용된다. 향후 시장은 이날 상승 흐름의 지속 여부와 주요 만기별 금리 움직임을 주시할 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korean Treasury Yields Rise Across Board as 3-Year Hits 3.566% Intraday",
-        "excerpt": "Yonhap reported that South Korean Treasury yields rose across the board on the 8th, with the 3-year yield reaching 3.566% intraday in Seoul.",
-        "body": "South Korean Treasury yields were rising across the board in the Seoul bond market on the 8th. According to Yonhap News Agency, the 3-year Treasury yield reached an intraday level of 3.566% per year. The move drew attention because major government bond yields were moving upward in the same direction. The key figure confirmed in the original report is the 3-year yield at 3.566% intraday, along with the broader rise in Treasury yields. Government bond yields move inversely to bond prices and are used as an indicator of market interest-rate trends. Market participants are expected to watch whether the rise continues and how yields move across maturities. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国国債利回りが一斉上昇、3年物は取引時間中3.566%に",
-        "excerpt": "聯合ニュースによると、8日のソウル債券市場で韓国国債利回りが一斉に上昇し、3年物は取引時間中に年3.566%を記録した。",
-        "body": "8日のソウル債券市場で、韓国国債利回りが一斉に上昇している。聯合ニュースによると、同日の国債3年物利回りは取引時間中に年3.566%を記録した。主要な国債利回りが同じ方向に上昇している点で、市場関係者の関心を集めている。原文で確認された主な数値は、3年物の取引時間中利回り年3.566%であり、国債利回り全般に上昇傾向が見られたという内容だ。国債利回りは債券価格と反対に動く指標で、市場金利の流れを把握する際に用いられる。今後、市場はこの上昇の持続性と各年限の利回り動向を注視するとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国国债收益率全线上升，3年期盘中触及年3.566%",
-        "excerpt": "韩联社报道，8日首尔债券市场韩国国债收益率全线上升，3年期国债收益率盘中达到年3.566%。",
-        "body": "8日，首尔债券市场韩国国债收益率全线上升。据韩联社报道，当天3年期韩国国债收益率盘中达到年3.566%。这一走势受到关注，因为主要期限国债收益率呈现同向上行。原文确认的核心数据是3年期国债盘中收益率为年3.566%，并提到国债收益率整体上升。国债收益率通常与债券价格反向变动，是观察市场利率走势的重要指标。接下来，市场预计将关注当天上升趋势是否延续，以及不同期限国债收益率的变化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Suben los rendimientos de bonos coreanos; el 3 años toca 3,566% intradía",
-        "excerpt": "Yonhap informó que el 8 los rendimientos de los bonos del Tesoro surcoreano subieron en conjunto en Seúl, con el bono a 3 años en 3,566% intradía.",
-        "body": "El 8, los rendimientos de los bonos del Tesoro surcoreano subían de forma generalizada en el mercado de bonos de Seúl. Según la agencia Yonhap, el rendimiento del bono a 3 años alcanzó durante la sesión un 3,566% anual. El movimiento llamó la atención porque los principales rendimientos de la deuda pública avanzaban en la misma dirección. El dato clave confirmado en el texto original es el rendimiento intradía del 3 años en 3,566%, junto con la subida general de las tasas de los bonos del Tesoro. Los rendimientos de los bonos se mueven en sentido contrario a los precios y sirven para observar la tendencia de las tasas de mercado. El mercado seguirá atento a si el alza continúa y a la evolución por vencimientos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Juros dos títulos sul-coreanos sobem; papel de 3 anos chega a 3,566%",
-        "excerpt": "A Yonhap informou que, no dia 8, os juros dos títulos do Tesouro sul-coreano subiram em conjunto em Seul, com o papel de 3 anos a 3,566% intradia.",
-        "body": "No dia 8, os juros dos títulos do Tesouro sul-coreano subiam de forma generalizada no mercado de bônus de Seul. Segundo a agência Yonhap, o rendimento do título de 3 anos atingiu 3,566% ao ano durante a sessão. O movimento chamou atenção porque os principais rendimentos dos títulos públicos avançavam na mesma direção. O dado central confirmado no texto original é o rendimento intradiário de 3,566% do título de 3 anos, junto com a alta ampla dos juros dos papéis do Tesouro. Os rendimentos dos títulos se movem em sentido oposto aos preços e ajudam a acompanhar a tendência das taxas de mercado. O mercado deve observar se a alta continua e como os rendimentos se comportam por prazo. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Staatsanleiherenditen steigen, 3-Jährige bei 3,566% intraday",
-        "excerpt": "Yonhap meldete, dass Südkoreas Staatsanleiherenditen am 8. in Seoul durchweg stiegen; die 3-jährige Rendite erreichte intraday 3,566%.",
-        "body": "Am 8. stiegen die Renditen südkoreanischer Staatsanleihen am Anleihemarkt in Seoul auf breiter Front. Laut der Nachrichtenagentur Yonhap erreichte die Rendite der 3-jährigen Staatsanleihe im Tagesverlauf 3,566% pro Jahr. Der Schritt fand Beachtung, weil wichtige Staatsanleiherenditen in dieselbe Richtung nach oben tendierten. Die im Originalbericht bestätigte Kernzahl ist die intraday erreichte Rendite von 3,566% bei der 3-jährigen Anleihe, ergänzt durch den Hinweis auf einen allgemeinen Anstieg der Staatsanleiherenditen. Anleiherenditen bewegen sich entgegengesetzt zu den Anleihepreisen und dienen als Indikator für Marktzinsen. Der Markt dürfte nun verfolgen, ob der Anstieg anhält und wie sich die Renditen nach Laufzeiten entwickeln. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les rendements obligataires coréens montent, le 3 ans atteint 3,566%",
-        "excerpt": "Yonhap a rapporté que le 8, les rendements des obligations d’État sud-coréennes progressaient à Séoul, le 3 ans atteignant 3,566% en séance.",
-        "body": "Le 8, les rendements des obligations d’État sud-coréennes progressaient dans leur ensemble sur le marché obligataire de Séoul. Selon l’agence Yonhap, le rendement de l’obligation à 3 ans a atteint 3,566% par an en séance. Ce mouvement retient l’attention car les principaux rendements des titres publics évoluent dans la même direction haussière. Le chiffre clé confirmé par le texte original est le rendement intrajournalier de 3,566% pour le 3 ans, avec une hausse générale des rendements des obligations d’État. Les rendements obligataires évoluent à l’inverse des prix des obligations et servent à suivre la tendance des taux de marché. Le marché devrait surveiller la poursuite éventuelle de cette hausse et les mouvements par échéance. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع عوائد السندات الكورية كافة و3 سنوات تسجل 3.566% خلال الجلسة",
-        "excerpt": "ذكرت يونهاب أن عوائد سندات الخزانة الكورية الجنوبية ارتفعت في 8 مايو بسوق سول، وسجل عائد سند 3 سنوات 3.566% خلال الجلسة.",
-        "body": "في الثامن من الشهر، ارتفعت عوائد سندات الخزانة الكورية الجنوبية على نطاق واسع في سوق السندات في سول. ووفقاً لوكالة يونهاب، بلغ عائد سند الخزانة لأجل 3 سنوات مستوى 3.566% سنوياً خلال الجلسة. وجذب هذا التحرك الانتباه لأن عوائد السندات الحكومية الرئيسية اتجهت صعوداً في الاتجاه نفسه. الرقم الأساسي المؤكد في النص الأصلي هو عائد سند 3 سنوات عند 3.566% خلال الجلسة، إلى جانب الإشارة إلى ارتفاع عام في عوائد سندات الخزانة. تتحرك عوائد السندات عادة بعكس أسعار السندات، وتستخدم كمؤشر لاتجاه أسعار الفائدة في السوق. ومن المتوقع أن يراقب السوق ما إذا كان هذا الارتفاع سيستمر وحركة العوائد حسب آجال الاستحقاق. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "दक्षिण कोरियाई सरकारी बॉन्ड यील्ड बढ़ी, 3-वर्षीय 3.566% पर",
-        "excerpt": "योनहाप के अनुसार, 8 तारीख को सियोल बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड एक साथ बढ़ी और 3-वर्षीय यील्ड 3.566% पर पहुंची।",
-        "body": "8 तारीख को सियोल बॉन्ड बाजार में दक्षिण कोरियाई सरकारी बॉन्ड यील्ड व्यापक रूप से बढ़ रही थी। योनहाप न्यूज एजेंसी के अनुसार, 3-वर्षीय सरकारी बॉन्ड की यील्ड कारोबार के दौरान सालाना 3.566% पर पहुंची। यह रुझान इसलिए ध्यान में आया क्योंकि प्रमुख सरकारी बॉन्ड यील्ड एक ही दिशा में ऊपर बढ़ रही थीं। मूल रिपोर्ट में पुष्टि किया गया मुख्य आंकड़ा 3-वर्षीय बॉन्ड की 3.566% इंट्राडे यील्ड है, साथ ही सरकारी बॉन्ड यील्ड में समग्र वृद्धि का उल्लेख है। बॉन्ड यील्ड आम तौर पर बॉन्ड कीमतों के विपरीत चलती है और बाजार ब्याज दरों की दिशा समझने के लिए उपयोग की जाती है। बाजार अब देखेगा कि यह वृद्धि जारी रहती है या नहीं और अलग-अलग परिपक्वता अवधि की यील्ड कैसे चलती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Imbal Hasil Obligasi Korea Naik, Tenor 3 Tahun Sentuh 3,566% Intraday",
-        "excerpt": "Yonhap melaporkan pada tanggal 8 imbal hasil obligasi pemerintah Korea Selatan naik serentak di Seoul, dengan tenor 3 tahun mencapai 3,566% intraday.",
-        "body": "Pada tanggal 8, imbal hasil obligasi pemerintah Korea Selatan naik secara menyeluruh di pasar obligasi Seoul. Menurut kantor berita Yonhap, imbal hasil obligasi pemerintah tenor 3 tahun mencapai 3,566% per tahun dalam perdagangan intraday. Pergerakan ini menarik perhatian karena imbal hasil utama obligasi pemerintah bergerak naik ke arah yang sama. Angka utama yang dikonfirmasi dalam teks asli adalah imbal hasil intraday 3,566% untuk tenor 3 tahun, disertai keterangan bahwa imbal hasil obligasi pemerintah secara umum meningkat. Imbal hasil obligasi bergerak berlawanan dengan harga obligasi dan digunakan untuk membaca arah suku bunga pasar. Pasar diperkirakan akan mencermati apakah kenaikan ini berlanjut serta pergerakan imbal hasil menurut tenor. Sumber: yna.co.kr"
       }
     }
   }
