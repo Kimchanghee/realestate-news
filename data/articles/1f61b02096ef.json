@@ -1,0 +1,75 @@
+{
+  "id": "1f61b02096ef",
+  "slug": "코스피-하락-7400선-안팎에서-등락코스닥은-혼조-456762",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-09T15:51:54.574Z",
+  "updatedAt": "2026-05-09T15:51:54.574Z",
+  "sourceName": "yna.co.kr",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508077200008",
+  "titleFingerprint": "b3917c871aded5c1b61ce7d10daf246389b26bd9",
+  "dedupKeys": [
+    "1f61b02096ef78bb1c487930995673bc480ea98f",
+    "b3917c871aded5c1b61ce7d10daf246389b26bd9",
+    "bd55224adbfb7360613d05cdd7c46bcb6c830201"
+  ],
+  "imageUrl": "/images/articles/1f61b02096ef.jpg",
+  "i18n": {
+    "ko": {
+      "title": "코스피 하락폭 축소, 기관 순매수 전환에 7,370대 등락",
+      "excerpt": "8일 서울 증시에서 코스피는 장중 기관이 순매수세로 돌아서며 낙폭을 줄여 7,370대를 나타냈고, 코스닥은 혼조 흐름을 보였다.",
+      "body": "8일 서울 증시에서 코스피가 하락세를 보였으나 장중 기관 투자자가 순매수세로 전환하면서 낙폭을 축소했다. 연합뉴스에 따르면 코스피는 이날 장중 7,370대를 나타내며 7,400선 안팎에서 등락하는 흐름을 보였다. 원문은 기관 매매 흐름 변화가 지수 하락 폭을 줄인 배경으로 제시했다. 코스닥은 뚜렷한 한 방향을 정하지 못한 채 혼조세를 보였다. 이날 시장은 코스피의 낙폭 축소 여부와 코스닥의 방향성 확인에 관심이 모였다. 출처: yna.co.kr"
+    },
+    "en": {
+      "title": "KOSPI Trims Losses as Institutions Turn Net Buyers, Trades in 7,370s",
+      "excerpt": "In Seoul trading on the 8th, the KOSPI reduced its intraday losses after institutions shifted to net buying, hovering in the 7,370 range, while the KOSDAQ was mixed.",
+      "body": "In Seoul’s stock market on the 8th, the KOSPI moved lower but narrowed its losses during the session as institutional investors turned to net buying. According to Yonhap News Agency, the index was in the 7,370 range intraday, fluctuating around the 7,400 level. The original report cited the change in institutional trading flow as a factor behind the reduced decline. The KOSDAQ showed mixed movement without a clear single direction. Market attention centered on whether the KOSPI would continue trimming losses and whether the KOSDAQ would find direction. Source: yna.co.kr"
+    },
+    "ja": {
+      "title": "KOSPI下落幅縮小、機関投資家の買い越し転換で7,370台推移",
+      "excerpt": "8日のソウル株式市場でKOSPIは、取引時間中に機関投資家が買い越しに転じたことで下落幅を縮小し、7,370台で推移した。KOSDAQはまちまちだった。",
+      "body": "8日のソウル株式市場でKOSPIは下落したものの、取引時間中に機関投資家が買い越しに転じたことで下落幅を縮小した。聯合ニュースによると、KOSPIは同日場中に7,370台を示し、7,400台前後で上下する流れとなった。原文は、機関投資家の売買動向の変化が指数の下落幅を抑えた背景だと伝えた。KOSDAQは明確な方向感を欠き、まちまちの動きとなった。この日の市場では、KOSPIの下落幅縮小が続くか、KOSDAQの方向性が確認できるかに関心が集まった。出典: yna.co.kr"
+    },
+    "zh": {
+      "title": "KOSPI跌幅收窄，机构转为净买入后在7,370点区间波动",
+      "excerpt": "8日首尔股市中，KOSPI盘中因机构投资者转为净买入而收窄跌幅，运行在7,370点区间；KOSDAQ走势则呈现分化。",
+      "body": "8日首尔股市中，KOSPI虽呈下跌走势，但盘中随着机构投资者转为净买入，跌幅有所收窄。据韩联社报道，KOSPI当天盘中位于7,370点区间，并在7,400点附近上下波动。原文将机构买卖方向的变化列为指数跌幅缩小的背景。KOSDAQ未形成明确单边方向，呈现混合走势。当天市场关注焦点集中在KOSPI能否继续缩小跌幅，以及KOSDAQ后续方向能否进一步明确。来源: yna.co.kr"
+    },
+    "es": {
+      "title": "El KOSPI reduce pérdidas tras compras netas institucionales y ronda los 7.370",
+      "excerpt": "En la Bolsa de Seúl del día 8, el KOSPI recortó sus pérdidas intradía después de que las instituciones pasaran a compras netas, mientras el KOSDAQ mostró un desempeño mixto.",
+      "body": "En el mercado bursátil de Seúl del día 8, el KOSPI cayó, pero redujo sus pérdidas durante la sesión después de que los inversores institucionales pasaran a una posición de compras netas. Según Yonhap News Agency, el índice se situaba intradía en la zona de los 7.370 puntos y fluctuaba alrededor del nivel de 7.400. El informe original señaló el cambio en el flujo de negociación institucional como el contexto de la menor caída. El KOSDAQ mostró movimientos mixtos, sin una dirección clara. La atención del mercado se centró en si el KOSPI seguiría recortando pérdidas y si el KOSDAQ definiría tendencia. Fuente: yna.co.kr"
+    },
+    "pt": {
+      "title": "KOSPI reduz perdas com compra líquida institucional e oscila nos 7.370",
+      "excerpt": "Na Bolsa de Seul no dia 8, o KOSPI diminuiu as perdas intradiárias após instituições passarem a compras líquidas, enquanto o KOSDAQ teve desempenho misto.",
+      "body": "No mercado acionário de Seul no dia 8, o KOSPI recuou, mas reduziu as perdas durante o pregão depois que investidores institucionais passaram a uma posição de compras líquidas. Segundo a Yonhap News Agency, o índice estava na faixa dos 7.370 pontos no intradia, oscilando em torno do nível de 7.400. A reportagem original apontou a mudança no fluxo de negociação institucional como o fator por trás da menor queda. O KOSDAQ apresentou movimento misto, sem uma direção única clara. O mercado acompanhou se o KOSPI continuaria reduzindo perdas e se o KOSDAQ confirmaria uma direção. Fonte: yna.co.kr"
+    },
+    "de": {
+      "title": "KOSPI grenzt Verluste ein, Institutionelle kaufen netto, Index bei 7.370",
+      "excerpt": "Am 8. grenzte der KOSPI im Handel in Seoul seine Tagesverluste ein, nachdem institutionelle Anleger zu Nettokäufern wurden; der KOSDAQ zeigte sich uneinheitlich.",
+      "body": "Am Aktienmarkt in Seoul gab der KOSPI am 8. nach, verringerte seine Verluste im Tagesverlauf jedoch, nachdem institutionelle Investoren zu Nettokäufern geworden waren. Laut Yonhap News Agency lag der Index intraday im Bereich von 7.370 Punkten und schwankte um die Marke von 7.400. Der ursprüngliche Bericht nannte die veränderten Handelsströme institutioneller Anleger als Hintergrund für die geringere Abwärtsbewegung. Der KOSDAQ zeigte sich ohne klare Richtung uneinheitlich. Im Fokus stand, ob der KOSPI seine Verluste weiter eingrenzen und der KOSDAQ eine Richtung finden würde. Quelle: yna.co.kr"
+    },
+    "fr": {
+      "title": "Le KOSPI réduit ses pertes avec les achats institutionnels et évolue vers 7 370",
+      "excerpt": "À Séoul le 8, le KOSPI a réduit ses pertes en séance après le passage des institutions à l’achat net, tandis que le KOSDAQ a affiché une tendance mitigée.",
+      "body": "Sur le marché boursier de Séoul le 8, le KOSPI était en baisse, mais a réduit ses pertes en séance après que les investisseurs institutionnels sont passés à l’achat net. Selon Yonhap News Agency, l’indice évoluait intrajournalier dans la zone des 7 370 points, fluctuant autour du seuil de 7 400. Le rapport original a présenté le changement de flux des transactions institutionnelles comme le contexte de l’atténuation du recul. Le KOSDAQ a affiché une évolution mitigée, sans direction claire. L’attention du marché portait sur la poursuite de la réduction des pertes du KOSPI et sur la confirmation d’une direction pour le KOSDAQ. Source: yna.co.kr"
+    },
+    "ar": {
+      "title": "كوسبي يقلص خسائره مع تحول المؤسسات إلى الشراء الصافي قرب 7,370 نقطة",
+      "excerpt": "في تداولات سيول يوم 8، قلص مؤشر كوسبي خسائره أثناء الجلسة بعد تحول المؤسسات إلى الشراء الصافي، بينما أظهر كوسداك أداء متباينا.",
+      "body": "في سوق الأسهم في سيول يوم 8، تراجع مؤشر كوسبي، لكنه قلص خسائره خلال الجلسة بعدما تحول المستثمرون المؤسسون إلى الشراء الصافي. ووفقا لوكالة يونهاب للأنباء، سجل المؤشر خلال التداولات مستوى في نطاق 7,370 نقطة، متذبذبا حول مستوى 7,400 نقطة. وأشار التقرير الأصلي إلى أن تغير تدفقات تداول المؤسسات كان خلف تقليص حدة الهبوط. أما كوسداك فأظهر حركة متباينة من دون اتجاه واضح. وتركز اهتمام السوق على ما إذا كان كوسبي سيواصل تقليص خسائره، وما إذا كان كوسداك سيحدد اتجاها أوضح. المصدر: yna.co.kr"
+    },
+    "hi": {
+      "title": "संस्थागत शुद्ध खरीद से KOSPI की गिरावट घटी, 7,370 के दायरे में कारोबार",
+      "excerpt": "8 तारीख को सियोल बाजार में संस्थागत निवेशकों के शुद्ध खरीदार बनने के बाद KOSPI ने दिन की गिरावट घटाई और 7,370 के दायरे में रहा, जबकि KOSDAQ मिला-जुला रहा।",
+      "body": "8 तारीख को सियोल शेयर बाजार में KOSPI गिरावट में रहा, लेकिन सत्र के दौरान संस्थागत निवेशकों के शुद्ध खरीदार बनने के बाद इसकी गिरावट कम हुई। योनहाप न्यूज एजेंसी के अनुसार, सूचकांक दिन के कारोबार में 7,370 के दायरे में था और 7,400 के आसपास उतार-चढ़ाव कर रहा था। मूल रिपोर्ट ने संस्थागत कारोबार के रुख में बदलाव को गिरावट कम होने की पृष्ठभूमि बताया। KOSDAQ में स्पष्ट एकतरफा दिशा नहीं दिखी और उसका रुझान मिला-जुला रहा। बाजार का ध्यान इस पर रहा कि KOSPI गिरावट और घटा पाएगा या नहीं तथा KOSDAQ दिशा तय करेगा या नहीं। स्रोत: yna.co.kr"
+    },
+    "id": {
+      "title": "KOSPI Pangkas Penurunan saat Institusi Beralih Net Buy, Bergerak di 7.370",
+      "excerpt": "Di bursa Seoul pada tanggal 8, KOSPI memangkas penurunan intraday setelah institusi beralih menjadi pembeli bersih, sementara KOSDAQ bergerak campuran.",
+      "body": "Di pasar saham Seoul pada tanggal 8, KOSPI melemah, tetapi memangkas penurunannya selama sesi setelah investor institusi beralih menjadi pembeli bersih. Menurut Yonhap News Agency, indeks berada di kisaran 7.370 pada perdagangan intraday dan bergerak di sekitar level 7.400. Laporan asli menyebut perubahan arus transaksi institusi sebagai latar belakang menyempitnya penurunan indeks. KOSDAQ bergerak campuran tanpa arah tunggal yang jelas. Perhatian pasar tertuju pada apakah KOSPI dapat terus mengurangi penurunan dan apakah KOSDAQ akan memperlihatkan arah yang lebih jelas. Sumber: yna.co.kr"
+    }
+  }
+}
