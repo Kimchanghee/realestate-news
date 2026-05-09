@@ -1,5 +1,230 @@
 [
   {
+    "id": "21b70ab65ace",
+    "slug": "특징주-하이닉스는-또-오르고삼전은-숨고르기종합-692177",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T10:37:14.991Z",
+    "updatedAt": "2026-05-09T10:37:14.991Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508036751008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508036751008",
+    "titleFingerprint": "bee030af6fe5353628c3a42a6b8a448f65e59da9",
+    "dedupKeys": [
+      "21b70ab65ace14865cd3d3fcf0c560d03a5152a8",
+      "bee030af6fe5353628c3a42a6b8a448f65e59da9",
+      "a9d5786a0b44df6ddb4fbd46d01534461e9e942c"
+    ],
+    "imageUrl": "/images/articles/21b70ab65ace.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 1%대 하락, 외국인 순매도에 숨고르기…하이닉스는 상승",
+        "excerpt": "삼성전자는 8일 외국인의 집중 순매도 영향으로 약 1% 하락 마감했고, SK하이닉스는 또 오르며 반도체 대형주의 엇갈린 흐름이 부각됐다.",
+        "body": "삼성전자[005930]는 8일 서울 증시에서 외국인의 집중 순매도 영향으로 약 1% 내린 채 거래를 마쳤다. 같은 반도체 대형주로 분류되는 SK하이닉스는 또 오르며 삼성전자와 다른 흐름을 보였다. 이날 시장에서는 외국인 매매가 삼성전자 주가 흐름의 주요 변수로 부각됐고, 삼성전자는 최근 움직임 이후 숨고르기 양상을 나타냈다. 반도체 대표 종목 간 주가 방향이 엇갈리면서 투자자들은 외국인 수급과 대형 기술주의 후속 흐름을 주시하게 됐다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Falls About 1% on Foreign Selling as Hynix Rises Again",
+        "excerpt": "Samsung Electronics ended May 8 down about 1% as foreign investors concentrated net selling, while SK Hynix rose again, highlighting a split in major chip stocks.",
+        "body": "Samsung Electronics[005930] closed lower by about 1% in Seoul trading on May 8, pressured by concentrated net selling from foreign investors. SK Hynix, another major semiconductor stock, rose again, showing a different trend from Samsung Electronics. In the session, foreign trading emerged as a key factor behind Samsung Electronics’ share movement, and the stock showed a pause after its recent moves. With the two leading chip names moving in opposite directions, investors were left watching foreign fund flows and the next moves in large technology shares. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子が約1%下落、外国人売りで一服…ハイニックスは続伸",
+        "excerpt": "サムスン電子は8日、外国人投資家の集中的な純売りを受けて約1%安で取引を終え、SKハイニックスは再び上昇し半導体大型株の明暗が分かれた。",
+        "body": "サムスン電子[005930]は8日、ソウル市場で外国人投資家による集中的な純売りの影響を受け、約1%下落して取引を終えた。同じ半導体大型株に分類されるSKハイニックスは再び上昇し、サムスン電子とは異なる動きを見せた。この日の市場では外国人の売買動向がサムスン電子株の主な変数として浮上し、同社株は最近の値動き後に一服する形となった。半導体代表銘柄の方向感が分かれ、投資家は外国人需給と大型技術株の今後の流れを注視することになった。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "三星电子跌约1%，外资集中净卖出拖累；海力士再度上涨",
+        "excerpt": "三星电子8日因外国投资者集中净卖出而收跌约1%，SK海力士则再度上涨，显示韩国半导体大型股走势分化。",
+        "body": "三星电子[005930]于8日在首尔股市收盘下跌约1%，主要受到外国投资者集中净卖出的影响。同属半导体大型股的SK海力士则再度上涨，与三星电子呈现不同走势。当天市场上，外资交易成为影响三星电子股价表现的主要变量，三星电子在近期波动后出现休整态势。随着半导体代表性个股涨跌方向分化，投资者开始关注外资资金流向以及大型科技股后续走势。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics cae cerca del 1% por ventas extranjeras; Hynix vuelve a subir",
+        "excerpt": "Samsung Electronics cerró el 8 de mayo con una baja cercana al 1% por ventas netas concentradas de extranjeros, mientras SK Hynix volvió a subir.",
+        "body": "Samsung Electronics[005930] cerró la sesión del 8 de mayo en Seúl con una caída cercana al 1%, presionada por ventas netas concentradas de inversionistas extranjeros. SK Hynix, otro gran valor del sector de semiconductores, volvió a subir y mostró una trayectoria distinta a la de Samsung Electronics. En la jornada, la operativa extranjera destacó como una variable clave para el movimiento de la acción de Samsung Electronics, que mostró una pausa tras sus movimientos recientes. Con direcciones opuestas entre los principales valores de chips, los inversionistas siguieron atentos a los flujos extranjeros y al rumbo posterior de las grandes tecnológicas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics cai cerca de 1% com venda estrangeira; Hynix sobe de novo",
+        "excerpt": "A Samsung Electronics encerrou 8 de maio em queda de cerca de 1% após venda líquida concentrada de estrangeiros, enquanto a SK Hynix voltou a subir.",
+        "body": "A Samsung Electronics[005930] fechou o pregão de 8 de maio em Seul com queda de cerca de 1%, pressionada por venda líquida concentrada de investidores estrangeiros. A SK Hynix, outra grande ação do setor de semicondutores, voltou a subir e mostrou trajetória diferente da Samsung Electronics. Na sessão, as negociações estrangeiras se destacaram como fator central para o movimento das ações da Samsung Electronics, que apresentou uma pausa após movimentos recentes. Com direções divergentes entre os principais papéis de chips, investidores passaram a observar os fluxos estrangeiros e os próximos passos das grandes empresas de tecnologia. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics verliert rund 1% durch Auslandsverkäufe, Hynix steigt erneut",
+        "excerpt": "Samsung Electronics schloss am 8. Mai rund 1% tiefer, belastet durch konzentrierte Nettoverkäufe ausländischer Anleger, während SK Hynix erneut zulegte.",
+        "body": "Samsung Electronics[005930] beendete den Handel am 8. Mai in Seoul mit einem Minus von rund 1%, belastet durch konzentrierte Nettoverkäufe ausländischer Investoren. SK Hynix, ebenfalls ein großer Halbleiterwert, legte erneut zu und zeigte damit eine andere Entwicklung als Samsung Electronics. Am Markt rückten die Transaktionen ausländischer Anleger als wichtiger Faktor für die Kursbewegung von Samsung Electronics in den Fokus, während die Aktie nach jüngsten Bewegungen eine Pause einlegte. Da sich die Richtungen der führenden Chipwerte unterschieden, beobachteten Anleger die ausländischen Kapitalflüsse und den weiteren Verlauf großer Technologiewerte. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics recule d’environ 1% sous les ventes étrangères; Hynix monte",
+        "excerpt": "Samsung Electronics a clôturé le 8 mai en baisse d’environ 1% sous l’effet de ventes nettes concentrées d’investisseurs étrangers, tandis que SK Hynix a encore progressé.",
+        "body": "Samsung Electronics[005930] a terminé la séance du 8 mai à Séoul en baisse d’environ 1%, sous la pression de ventes nettes concentrées d’investisseurs étrangers. SK Hynix, autre grande valeur des semi-conducteurs, a encore progressé, affichant une trajectoire différente de celle de Samsung Electronics. Durant la séance, les opérations étrangères se sont imposées comme un facteur majeur du mouvement de l’action Samsung Electronics, qui a marqué une pause après ses récents mouvements. Avec des directions opposées parmi les valeurs phares des puces, les investisseurs ont surveillé les flux étrangers et l’évolution suivante des grandes technologiques. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تهبط نحو 1% بفعل بيع أجنبي، وهاينكس ترتفع مجددا",
+        "excerpt": "أنهت سامسونغ إلكترونيكس تداولات 8 مايو منخفضة بنحو 1% تحت ضغط صافي بيع مركز من المستثمرين الأجانب، بينما ارتفعت إس كيه هاينكس مجددا.",
+        "body": "أنهت سامسونغ إلكترونيكس[005930] تداولات 8 مايو في سوق سيول على انخفاض بنحو 1%، متأثرة بصافي بيع مركز من المستثمرين الأجانب. وفي المقابل، ارتفعت إس كيه هاينكس، وهي أيضا من الأسهم الكبرى في قطاع أشباه الموصلات، مجددا لتظهر مسارا مختلفا عن سامسونغ إلكترونيكس. خلال الجلسة، برزت تعاملات الأجانب عاملا رئيسيا في حركة سهم سامسونغ إلكترونيكس، الذي بدا في مرحلة التقاط أنفاس بعد تحركاته الأخيرة. ومع تباين اتجاهات أسهم الرقائق الكبرى، تابع المستثمرون تدفقات الأجانب والخطوات التالية لأسهم التكنولوجيا الكبيرة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "विदेशी बिकवाली से Samsung Electronics करीब 1% गिरा, Hynix फिर चढ़ा",
+        "excerpt": "Samsung Electronics 8 मई को विदेशी निवेशकों की केंद्रित शुद्ध बिकवाली से करीब 1% गिरकर बंद हुआ, जबकि SK Hynix फिर चढ़ा और चिप शेयरों में अंतर दिखा।",
+        "body": "Samsung Electronics[005930] 8 मई को सियोल बाजार में करीब 1% गिरकर बंद हुआ, जिस पर विदेशी निवेशकों की केंद्रित शुद्ध बिकवाली का दबाव रहा। इसी सेमीकंडक्टर क्षेत्र के बड़े शेयर SK Hynix ने फिर बढ़त दर्ज की और Samsung Electronics से अलग रुझान दिखाया। उस दिन बाजार में विदेशी निवेशकों की खरीद-बिक्री Samsung Electronics के शेयर की चाल का प्रमुख कारक बनकर उभरी, और शेयर ने हालिया हलचल के बाद ठहराव दिखाया। प्रमुख चिप शेयरों की दिशा अलग होने से निवेशकों का ध्यान विदेशी फंड प्रवाह और बड़ी टेक कंपनियों की आगे की चाल पर रहा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Turun Sekitar 1% karena Jual Asing, Hynix Naik Lagi",
+        "excerpt": "Samsung Electronics pada 8 Mei ditutup turun sekitar 1% akibat aksi jual bersih terpusat investor asing, sementara SK Hynix kembali naik.",
+        "body": "Samsung Electronics[005930] menutup perdagangan 8 Mei di Seoul dengan penurunan sekitar 1%, tertekan oleh aksi jual bersih terpusat dari investor asing. SK Hynix, yang juga termasuk saham besar semikonduktor, kembali naik dan menunjukkan arah berbeda dari Samsung Electronics. Dalam sesi tersebut, transaksi investor asing menjadi faktor utama dalam pergerakan saham Samsung Electronics, yang memperlihatkan fase jeda setelah pergerakan terbaru. Dengan arah yang berbeda di antara saham utama chip, investor mencermati arus dana asing dan pergerakan lanjutan saham teknologi besar. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1a2e5bf916a6",
+    "slug": "상지건설-190억원-주주우선공모-유상증자-737529",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T10:36:21.572Z",
+    "updatedAt": "2026-05-09T10:36:21.572Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127500008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127500008",
+    "titleFingerprint": "7e95bdbe724ec0f2558400af34cd7b26ae947388",
+    "dedupKeys": [
+      "1a2e5bf916a66d540e82044b95224f3224c35101",
+      "7e95bdbe724ec0f2558400af34cd7b26ae947388",
+      "97f0b6f30e6457f1b97b15c6c28d8d32369e73a3"
+    ],
+    "imageUrl": "/images/articles/1a2e5bf916a6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "상지건설, 운영자금 확보 위해 190억원 주주우선공모 유상증자 결정",
+        "excerpt": "코스닥 상장사 상지건설은 8일 공시를 통해 운영자금 등을 마련하기 위해 약 190억원 규모의 주주우선공모 유상증자를 결정했다고 밝혔다.",
+        "body": "코스닥 상장사 상지건설[042940]은 8일 공시를 통해 운영자금 등 약 190억원을 조달하기 위해 주주우선공모 방식의 유상증자를 결정했다고 밝혔다. 이번 결정은 회사가 필요한 자금을 확보하기 위한 자본 조달 절차로, 기존 주주에게 우선 참여 기회를 부여하는 방식이다. 공시된 조달 목적은 운영자금 등으로 제시됐다. 유상증자는 발행 주식 수와 주주 지분 구조에 영향을 줄 수 있는 주요 재무 이벤트인 만큼 투자자들은 향후 일정과 세부 조건을 확인할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Sangji Construction Plans 19 Billion Won Rights Offering to Raise Operating Funds",
+        "excerpt": "Kosdaq-listed Sangji Construction said in a May 8 filing that it decided on a shareholder-priority paid-in capital increase to raise about 19 billion won for operating funds and other needs.",
+        "body": "Kosdaq-listed Sangji Construction [042940] said in a filing on May 8 that it decided to conduct a shareholder-priority paid-in capital increase to raise about 19 billion won for operating funds and other purposes. The decision is a capital-raising step intended to secure funds needed by the company, with existing shareholders given priority participation rights. The stated purpose of the proceeds is operating funds and related needs. Because a paid-in capital increase can affect the number of issued shares and the shareholder ownership structure, investors need to check the upcoming schedule and detailed terms. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "尚志建設、運転資金確保へ190億ウォン規模の株主優先公募増資を決定",
+        "excerpt": "コスダック上場企業の尚志建設は8日の公示で、運転資金などを確保するため約190億ウォン規模の株主優先公募増資を決定したと明らかにした。",
+        "body": "コスダック上場企業の尚志建設[042940]は8日の公示で、運転資金など約190億ウォンを調達するため、株主優先公募方式による有償増資を決定したと明らかにした。今回の決定は、会社が必要な資金を確保するための資本調達手続きであり、既存株主に優先的な参加機会を与える方式だ。公示された調達目的は運転資金などとされた。有償増資は発行株式数や株主持分構成に影響を与え得る主要な財務イベントであるため、投資家は今後の日程と詳細条件を確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "尚志建设拟实施190亿韩元股东优先公开增资用于运营资金",
+        "excerpt": "科斯达克上市公司尚志建设8日公告称，为筹措运营资金等约190亿韩元，已决定实施股东优先公开募集方式的有偿增资。",
+        "body": "科斯达克上市公司尚志建设[042940]8日通过公告表示，为筹措运营资金等约190亿韩元，已决定实施股东优先公开募集方式的有偿增资。此次决定是公司为确保所需资金而进行的资本筹措程序，并以向现有股东优先提供参与机会的方式推进。公告中披露的资金用途为运营资金等。有偿增资可能影响发行股数和股东持股结构，属于重要财务事项，因此投资者有必要关注后续日程和具体条件。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Sangji Construction hará ampliación preferente por 19.000 millones de wones",
+        "excerpt": "La cotizada del Kosdaq Sangji Construction informó el 8 de mayo que decidió una ampliación de capital con prioridad para accionistas para captar unos 19.000 millones de wones para capital operativo.",
+        "body": "Sangji Construction [042940], empresa cotizada en el Kosdaq, informó en una comunicación del 8 de mayo que decidió realizar una ampliación de capital pagada con oferta prioritaria a accionistas para captar unos 19.000 millones de wones destinados a fondos operativos y otros fines. La decisión forma parte de un proceso de financiación de capital para asegurar los recursos necesarios de la compañía, otorgando a los accionistas existentes una oportunidad preferente de participación. El objetivo declarado de los fondos es capital operativo, entre otros usos. Dado que una ampliación puede afectar el número de acciones emitidas y la estructura accionarial, los inversores deben revisar el calendario y las condiciones detalladas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Sangji Construction aprova oferta prioritária de 19 bilhões de wones",
+        "excerpt": "A Sangji Construction, listada na Kosdaq, informou em 8 de maio que decidiu realizar aumento de capital com prioridade aos acionistas para levantar cerca de 19 bilhões de wones para recursos operacionais.",
+        "body": "A Sangji Construction [042940], companhia listada na Kosdaq, informou em comunicado de 8 de maio que decidiu realizar um aumento de capital pago com oferta prioritária aos acionistas para levantar cerca de 19 bilhões de wones destinados a recursos operacionais e outros fins. A decisão é um procedimento de captação de capital para garantir os recursos necessários à empresa, concedendo aos acionistas existentes prioridade de participação. O objetivo divulgado para os recursos é capital operacional, entre outros. Como um aumento de capital pode afetar o número de ações emitidas e a estrutura acionária, investidores devem acompanhar o cronograma e as condições detalhadas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Sangji Construction beschließt Bezugsangebot über 19 Mrd. Won für Betriebsmittel",
+        "excerpt": "Das Kosdaq-Unternehmen Sangji Construction teilte am 8. Mai mit, dass es eine Kapitalerhöhung mit Vorrang für Aktionäre beschlossen hat, um rund 19 Milliarden Won für Betriebsmittel und weitere Zwecke zu beschaffen.",
+        "body": "Sangji Construction [042940], ein an der Kosdaq gelistetes Unternehmen, teilte in einer Mitteilung vom 8. Mai mit, dass es eine bezahlte Kapitalerhöhung mit vorrangigem Angebot an Aktionäre beschlossen hat, um rund 19 Milliarden Won für Betriebsmittel und weitere Zwecke zu beschaffen. Die Entscheidung ist ein Schritt zur Kapitalaufnahme, mit dem das Unternehmen benötigte Mittel sichern will; bestehende Aktionäre erhalten dabei eine bevorzugte Teilnahmemöglichkeit. Als Verwendungszweck wurden Betriebsmittel und ähnliche Zwecke genannt. Da eine Kapitalerhöhung die Zahl der ausgegebenen Aktien und die Aktionärsstruktur beeinflussen kann, sollten Anleger den weiteren Zeitplan und die genauen Bedingungen prüfen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Sangji Construction lance une augmentation prioritaire de 19 milliards de wons",
+        "excerpt": "La société cotée au Kosdaq Sangji Construction a annoncé le 8 mai avoir décidé une augmentation de capital avec priorité aux actionnaires afin de lever environ 19 milliards de wons pour ses fonds d’exploitation.",
+        "body": "Sangji Construction [042940], société cotée au Kosdaq, a indiqué dans un avis publié le 8 mai qu’elle avait décidé de procéder à une augmentation de capital payante avec offre prioritaire aux actionnaires afin de lever environ 19 milliards de wons pour des fonds d’exploitation et d’autres besoins. Cette décision constitue une procédure de financement destinée à sécuriser les ressources nécessaires à l’entreprise, tout en accordant aux actionnaires existants une priorité de participation. L’usage annoncé des fonds concerne notamment les ressources d’exploitation. Comme une augmentation de capital peut modifier le nombre d’actions émises et la structure de l’actionnariat, les investisseurs doivent suivre le calendrier et les conditions détaillées. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سانغجي للإنشاءات تقر زيادة رأسمال بحق أولوية للمساهمين بقيمة 19 مليار وون",
+        "excerpt": "أعلنت سانغجي للإنشاءات المدرجة في كوسداك في إفصاح يوم 8 مايو أنها قررت تنفيذ زيادة رأسمال مدفوعة بحق أولوية للمساهمين لجمع نحو 19 مليار وون لأموال التشغيل وغيرها.",
+        "body": "قالت شركة سانغجي للإنشاءات [042940] المدرجة في سوق كوسداك، في إفصاح يوم 8 مايو، إنها قررت تنفيذ زيادة رأسمال مدفوعة بطريقة الطرح ذي الأولوية للمساهمين لجمع نحو 19 مليار وون لأموال التشغيل وأغراض أخرى. وتأتي هذه الخطوة كإجراء لتمويل رأس المال بهدف تأمين الموارد التي تحتاجها الشركة، مع منح المساهمين الحاليين فرصة مشاركة ذات أولوية. وذكرت الشركة أن الغرض المعلن من التمويل هو أموال التشغيل وغيرها. وبما أن زيادة رأس المال قد تؤثر في عدد الأسهم المصدرة وهيكل الملكية، يحتاج المستثمرون إلى متابعة الجدول الزمني والشروط التفصيلية المقبلة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सांगजी कंस्ट्रक्शन ने परिचालन फंड के लिए 19 अरब वॉन राइट्स ऑफरिंग तय की",
+        "excerpt": "कोस्डैक-सूचीबद्ध सांगजी कंस्ट्रक्शन ने 8 मई की फाइलिंग में कहा कि उसने परिचालन फंड आदि के लिए करीब 19 अरब वॉन जुटाने को शेयरधारक-प्राथमिकता वाली पूंजी वृद्धि का निर्णय लिया है।",
+        "body": "कोस्डैक-सूचीबद्ध सांगजी कंस्ट्रक्शन [042940] ने 8 मई की फाइलिंग में बताया कि उसने परिचालन फंड आदि के लिए करीब 19 अरब वॉन जुटाने के उद्देश्य से शेयरधारक-प्राथमिकता वाली पेड-इन कैपिटल वृद्धि का निर्णय लिया है। यह फैसला कंपनी के लिए आवश्यक धन 확보 करने की पूंजी जुटाने की प्रक्रिया है, जिसमें मौजूदा शेयरधारकों को भागीदारी का प्राथमिक अवसर दिया जाता है। घोषित धन उपयोग में परिचालन फंड आदि शामिल हैं। चूंकि ऐसी पूंजी वृद्धि जारी शेयरों की संख्या और शेयरधारिता संरचना को प्रभावित कर सकती है, इसलिए निवेशकों को आगे की समय-सारिणी और विस्तृत शर्तों की जांच करनी चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Sangji Construction Siapkan Rights Offering 19 Miliar Won untuk Dana Operasional",
+        "excerpt": "Emiten Kosdaq Sangji Construction menyatakan dalam keterbukaan pada 8 Mei bahwa pihaknya memutuskan rights offering prioritas pemegang saham untuk menghimpun sekitar 19 miliar won bagi dana operasional dan kebutuhan lain.",
+        "body": "Sangji Construction [042940], perusahaan yang tercatat di Kosdaq, menyatakan dalam keterbukaan pada 8 Mei bahwa pihaknya memutuskan untuk melakukan penambahan modal disetor dengan metode penawaran umum prioritas kepada pemegang saham guna menghimpun sekitar 19 miliar won untuk dana operasional dan tujuan lainnya. Keputusan ini merupakan langkah penghimpunan modal untuk mengamankan dana yang dibutuhkan perusahaan, dengan memberi pemegang saham lama kesempatan partisipasi lebih dulu. Tujuan penggunaan dana yang diumumkan adalah dana operasional dan kebutuhan terkait. Karena penambahan modal dapat memengaruhi jumlah saham beredar dan struktur kepemilikan, investor perlu mencermati jadwal serta ketentuan rinci berikutnya. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9f4188053c49",
+    "slug": "특징주-건설주-하락-마감호르무즈-교전에-중동-재건-기대종합-548565",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T10:35:21.753Z",
+    "updatedAt": "2026-05-09T10:35:21.753Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508045551008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508045551008",
+    "titleFingerprint": "095d6c5037475f914623d7fdd56119ded56d5a94",
+    "dedupKeys": [
+      "9f4188053c498caf6b891e2054289e60dadcfb32",
+      "095d6c5037475f914623d7fdd56119ded56d5a94",
+      "764920954d9477ea2c550cd1320a588d0d230fd1"
+    ],
+    "imageUrl": "/images/articles/9f4188053c49.jpg",
+    "i18n": {
+      "ko": {
+        "title": "건설주 하락 마감, 호르무즈 교전에 중동 재건 기대감 약화",
+        "excerpt": "8일 국내 증시에서 최근 중동 재건 기대감으로 급등했던 건설주가 미국과 이란의 호르무즈 교전 소식에 투자심리가 식으며 하락 마감했다.",
+        "body": "8일 국내 증시에서 건설주가 하락 마감했다. 최근 중동 재건 기대감을 바탕으로 급등했던 관련 종목들이 미국과 이란의 호르무즈 교전 소식과 맞물리며 약세로 돌아선 것이다. 이번 흐름은 중동 지역의 정세 불안이 커지면서 재건 수혜 기대가 낮아진 데 따른 것으로 풀이된다. 원문은 구체적인 개별 종목 등락률이나 지수 수치를 제시하지 않았지만, 최근 상승 배경이었던 ‘중동 재건’ 기대가 교전 소식 이후 약화됐다는 점을 핵심 배경으로 전했다. 향후 건설주의 투자심리는 중동 정세와 재건 기대감의 변화에 영향을 받을 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Construction Stocks Close Lower as Hormuz Clash Weakens Middle East Rebuild Hopes",
+        "excerpt": "On the 8th, construction shares that had recently surged on Middle East reconstruction hopes closed lower after reports of a U.S.-Iran clash near Hormuz cooled investor sentiment.",
+        "body": "Construction stocks closed lower in the domestic market on the 8th. Shares that had recently rallied on expectations for Middle East reconstruction turned weak as news emerged of a clash between the United States and Iran near Hormuz. The move was linked to growing instability in the region, which reduced expectations that construction companies could benefit from reconstruction demand. The original report did not provide specific stock-by-stock price changes or index figures, but it identified the weakening of Middle East reconstruction hopes after the clash as the key factor. Investor sentiment toward construction stocks may continue to be influenced by developments in the Middle East and changes in reconstruction expectations. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "建設株が下落して終了、ホルムズ交戦で中東再建期待が後退",
+        "excerpt": "8日の韓国株式市場で、中東再建への期待から最近急騰していた建設株は、米国とイランのホルムズ交戦報道を受けて投資心理が冷え、下落して取引を終えた。",
+        "body": "8日の韓国株式市場で建設株が下落して取引を終えた。最近、中東再建への期待を背景に急騰していた関連銘柄が、米国とイランのホルムズ交戦のニュースと重なり、弱含みに転じた。今回の動きは、中東情勢の不安定化が強まり、再建需要による恩恵への期待が低下したためとみられる。原文では個別銘柄の騰落率や指数の具体的な数値は示されていないが、最近の上昇要因だった「中東再建」期待が交戦報道後に弱まった点を主な背景として伝えた。今後の建設株の投資心理は、中東情勢と再建期待の変化に左右される可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "建筑股收跌，霍尔木兹交战削弱中东重建预期",
+        "excerpt": "8日，近期因中东重建预期而大涨的建筑股在美国与伊朗霍尔木兹交战消息影响下投资情绪降温，最终收跌。",
+        "body": "8日，韩国股市中的建筑股收盘下跌。近期在中东重建预期推动下大幅上涨的相关股票，因美国与伊朗在霍尔木兹发生交战的消息而转弱。此次走势被认为与中东地区局势不安加剧、重建受益预期下降有关。原文未提供具体个股涨跌幅或指数数据，但指出，近期上涨背景中的“中东重建”预期在交战消息传出后有所减弱，是此次下跌的核心因素。今后建筑股的投资情绪可能继续受到中东局势和重建预期变化的影响。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Constructoras cierran a la baja al enfriarse las expectativas de reconstrucción en Oriente Medio",
+        "excerpt": "El día 8, las acciones constructoras que habían subido por expectativas de reconstrucción en Oriente Medio cerraron a la baja tras conocerse el choque entre EE. UU. e Irán en Hormuz.",
+        "body": "El día 8, las acciones del sector de la construcción cerraron a la baja en el mercado surcoreano. Los valores relacionados, que habían subido con fuerza recientemente por expectativas de reconstrucción en Oriente Medio, se debilitaron tras conocerse el enfrentamiento entre Estados Unidos e Irán en Hormuz. El movimiento se interpreta como resultado de una mayor inestabilidad regional, que redujo las expectativas de beneficios vinculados a la reconstrucción. La nota original no ofreció variaciones concretas por compañía ni cifras de índices, pero señaló como factor principal el debilitamiento de las expectativas de “reconstrucción en Oriente Medio” tras la noticia del choque. La confianza inversora en las constructoras podría seguir dependiendo de la situación en Oriente Medio y de los cambios en esas expectativas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Ações de construção fecham em queda com menor expectativa de reconstrução no Oriente Médio",
+        "excerpt": "No dia 8, ações de construção que haviam disparado com expectativas de reconstrução no Oriente Médio fecharam em queda após notícia de confronto entre EUA e Irã em Hormuz.",
+        "body": "No dia 8, as ações do setor de construção fecharam em queda no mercado sul-coreano. Papéis relacionados que haviam subido fortemente nos últimos dias, apoiados por expectativas de reconstrução no Oriente Médio, perderam força após a notícia de um confronto entre Estados Unidos e Irã em Hormuz. O movimento é atribuído ao aumento da instabilidade na região, que reduziu a expectativa de benefícios ligados à reconstrução. O texto original não apresentou variações específicas por ação nem números de índices, mas apontou o enfraquecimento da expectativa de “reconstrução no Oriente Médio” após o confronto como o principal pano de fundo. O sentimento em relação às construtoras pode continuar sensível à situação no Oriente Médio e às mudanças nessas expectativas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Bauaktien schließen schwächer, Hormus-Gefecht dämpft Hoffnungen auf Wiederaufbau",
+        "excerpt": "Am 8. schlossen Bauaktien, die zuletzt wegen Hoffnungen auf Wiederaufbau im Nahen Osten stark gestiegen waren, nach Meldungen über ein US-iranisches Gefecht bei Hormus niedriger.",
+        "body": "Am 8. schlossen Bauaktien am südkoreanischen Markt schwächer. Titel aus dem Sektor, die zuletzt wegen Erwartungen auf Wiederaufbau im Nahen Osten stark gestiegen waren, drehten nach Meldungen über ein Gefecht zwischen den USA und Iran bei Hormus ins Minus. Die Entwicklung wird damit erklärt, dass die zunehmende Unsicherheit in der Region die Erwartungen auf mögliche Vorteile durch Wiederaufbauprojekte verringerte. Der Originalbericht nannte keine konkreten Kursveränderungen einzelner Aktien oder Indexzahlen, stellte aber heraus, dass die zuvor kursstützenden Hoffnungen auf “Wiederaufbau im Nahen Osten” nach der Gefechtsmeldung nachließen. Die Stimmung gegenüber Bauaktien dürfte weiter von der Lage im Nahen Osten und den Wiederaufbauerwartungen beeinflusst werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les valeurs de construction clôturent en baisse, les espoirs de reconstruction au Moyen-Orient reculent",
+        "excerpt": "Le 8, les valeurs de construction qui avaient récemment bondi grâce aux attentes de reconstruction au Moyen-Orient ont clôturé en baisse après l’annonce d’un affrontement entre les États-Unis et l’Iran à Hormuz.",
+        "body": "Le 8, les valeurs du secteur de la construction ont clôturé en baisse sur le marché sud-coréen. Les titres concernés, qui avaient récemment fortement progressé sur fond d’attentes de reconstruction au Moyen-Orient, se sont affaiblis après l’annonce d’un affrontement entre les États-Unis et l’Iran à Hormuz. Ce mouvement est interprété comme la conséquence d’une instabilité accrue dans la région, qui a réduit les attentes de bénéfices liés à la reconstruction. L’article original ne fournit pas de variations précises par valeur ni de chiffres d’indice, mais présente l’affaiblissement des espoirs de “reconstruction au Moyen-Orient” après la nouvelle de l’affrontement comme le facteur clé. Le sentiment envers les valeurs de construction pourrait rester influencé par la situation au Moyen-Orient et l’évolution de ces attentes. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسهم البناء تغلق منخفضة مع تراجع آمال إعادة إعمار الشرق الأوسط بعد اشتباك هرمز",
+        "excerpt": "في الثامن، أغلقت أسهم البناء التي صعدت مؤخرا بفعل آمال إعادة إعمار الشرق الأوسط على انخفاض بعد أن أضعفت أنباء اشتباك أميركي إيراني قرب هرمز شهية المستثمرين.",
+        "body": "أغلقت أسهم قطاع البناء في السوق الكورية الجنوبية على انخفاض في الثامن. فقد تحولت الأسهم المرتبطة بالقطاع، التي كانت قد ارتفعت بقوة مؤخرا بدعم من توقعات إعادة إعمار الشرق الأوسط، إلى الضعف بالتزامن مع أنباء اشتباك بين الولايات المتحدة وإيران قرب هرمز. ويُفهم هذا التحرك في ضوء ازدياد عدم الاستقرار في المنطقة، ما خفف التوقعات بأن تستفيد شركات البناء من طلب إعادة الإعمار. ولم يورد النص الأصلي نسب تغير محددة لأسهم بعينها أو أرقاما للمؤشرات، لكنه أشار إلى أن تراجع آمال “إعادة إعمار الشرق الأوسط” بعد خبر الاشتباك كان الخلفية الأساسية. وقد تظل معنويات المستثمرين تجاه أسهم البناء مرتبطة بتطورات الشرق الأوسط وتغير توقعات إعادة الإعمار. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "हॉर्मुज झड़प से मध्य पूर्व पुनर्निर्माण उम्मीद घटी, निर्माण शेयर गिरकर बंद",
+        "excerpt": "8 तारीख को मध्य पूर्व पुनर्निर्माण की उम्मीदों से हाल में तेज चढ़े निर्माण शेयर अमेरिका-ईरान हॉर्मुज झड़प की खबर के बाद निवेश धारणा कमजोर होने से गिरकर बंद हुए।",
+        "body": "8 तारीख को दक्षिण कोरियाई बाजार में निर्माण क्षेत्र के शेयर गिरकर बंद हुए। हाल में मध्य पूर्व पुनर्निर्माण की उम्मीदों के सहारे तेजी से चढ़े संबंधित शेयर अमेरिका और ईरान के बीच हॉर्मुज में झड़प की खबर के साथ कमजोर हो गए। इस चाल को क्षेत्रीय अस्थिरता बढ़ने और पुनर्निर्माण से लाभ की उम्मीद घटने से जोड़ा गया। मूल रिपोर्ट में अलग-अलग शेयरों की गिरावट या सूचकांक के ठोस आंकड़े नहीं दिए गए, लेकिन बताया गया कि हाल की तेजी का आधार रही “मध्य पूर्व पुनर्निर्माण” उम्मीद झड़प की खबर के बाद कमजोर पड़ी। आगे निर्माण शेयरों पर निवेश धारणा मध्य पूर्व की स्थिति और पुनर्निर्माण उम्मीदों में बदलाव से प्रभावित हो सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Saham konstruksi ditutup turun, bentrokan Hormuz lemahkan harapan rekonstruksi Timur Tengah",
+        "excerpt": "Pada tanggal 8, saham konstruksi yang baru-baru ini melonjak karena harapan rekonstruksi Timur Tengah ditutup turun setelah kabar bentrokan AS-Iran di Hormuz menekan sentimen investor.",
+        "body": "Pada tanggal 8, saham sektor konstruksi di pasar Korea Selatan ditutup melemah. Saham-saham terkait yang belakangan melonjak berkat harapan rekonstruksi Timur Tengah berbalik melemah setelah muncul kabar bentrokan antara Amerika Serikat dan Iran di Hormuz. Pergerakan ini dipahami sebagai dampak meningkatnya ketidakstabilan di kawasan tersebut, yang menurunkan ekspektasi manfaat dari permintaan rekonstruksi. Laporan asli tidak menyajikan angka perubahan harga saham per emiten atau data indeks tertentu, tetapi menekankan bahwa harapan “rekonstruksi Timur Tengah” yang menjadi latar kenaikan terbaru melemah setelah kabar bentrokan. Sentimen investor terhadap saham konstruksi dapat terus dipengaruhi oleh situasi Timur Tengah dan perubahan ekspektasi rekonstruksi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "08dc29efcd55",
     "slug": "환율-외국인-순매도에-177원-오른-14717원-785196",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "MTS Toss Securities Salah Tampilkan Kinerja Kolmar Korea, Investor Ajukan Protes",
         "excerpt": "Sistem perdagangan mobile Toss Securities dilaporkan salah menampilkan informasi kinerja Kolmar Korea, yang mencatat hasil mengejutkan, sehingga memicu protes investor.",
         "body": "Kantor berita Yonhap melaporkan bahwa sistem perdagangan mobile Toss Securities, atau MTS, salah menampilkan kinerja Kolmar Korea. Perusahaan itu disebut mencatat kinerja ‘mengejutkan’, tetapi informasi terkait yang muncul di layar MTS Toss Securities dilaporkan berbeda dari data sebenarnya. Investor yang mengetahui kesalahan tersebut mengajukan protes atas penyajian informasi yang keliru. Karena MTS perusahaan sekuritas menjadi kanal utama bagi investor untuk memeriksa kinerja emiten dan informasi pasar, kesalahan tampilan kinerja dapat menimbulkan kebingungan dalam proses pengambilan keputusan investasi. Kasus ini kembali menunjukkan pentingnya akurasi penyajian data keterbukaan dan kinerja dalam layanan perdagangan mobile. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a36a3e314d62",
-    "slug": "김용범-반도체-호황에-역대급-세수-예고재정정책-유연해야-203035",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:30:13.191Z",
-    "updatedAt": "2026-05-08T21:30:13.191Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508175800001",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508175800001",
-    "titleFingerprint": "fba78bf946aee8f76ca03a800e1bb362e62f91ff",
-    "dedupKeys": [
-      "a36a3e314d62fe7ec2fcb40ab656e699a8c3b8cc",
-      "fba78bf946aee8f76ca03a800e1bb362e62f91ff",
-      "cc0cbbc6241982234a7e4ac239fe22325842c158"
-    ],
-    "imageUrl": "/images/articles/a36a3e314d62.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김용범 청와대 정책실장, 반도체 호황에 역대급 초과 세수 예고…재정 유연성 강조",
-        "excerpt": "김용범 청와대 정책실장은 8일 반도체 사이클 영향으로 향후 2년간 역대급 초과 세수가 예상된다며 세입 추계와 재정정책의 유연한 운용 필요성을 밝혔다.",
-        "body": "김용범 청와대 정책실장은 8일 반도체 사이클에 힘입어 향후 2년간 역대급 초과 세수가 예상된다고 밝혔다. 그는 이 같은 세수 흐름을 고려해 세입 추계 등 재정정책을 보다 유연하게 운용해야 한다는 취지의 입장을 내놓았다. 반도체 호황이 국가 세입 전망에 직접적인 변수로 떠오른 가운데, 정부의 재정 운용도 경기와 산업 사이클 변화에 맞춰 조정될 필요가 있다는 메시지다. 초과 세수 전망은 재정정책의 방향성과 세입 예측 방식에 대한 논의를 다시 부각시킬 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kim Yong-beom Flags Record Extra Tax Revenue on Chip Boom, Urges Fiscal Flexibility",
-        "excerpt": "Presidential policy chief Kim Yong-beom said on May 8 that the semiconductor cycle could bring record excess tax revenue over the next two years, calling for flexible fiscal policy.",
-        "body": "Presidential policy chief Kim Yong-beom said on May 8 that South Korea is expected to see record excess tax revenue over the next two years, supported by the semiconductor cycle. He indicated that fiscal policy, including tax revenue estimates, should be managed more flexibly in light of that revenue outlook. With the chip boom emerging as a direct factor in national revenue projections, his remarks point to the need for fiscal management that can adjust to changes in business and industry cycles. The forecast for excess revenue may also renew discussion over the direction of fiscal policy and how tax receipts are estimated. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "金容範政策室長、半導体好況で過去最大級の税収超過を予告…財政柔軟化を強調",
-        "excerpt": "金容範大統領室政策室長は8日、半導体サイクルにより今後2年間で過去最大級の税収超過が見込まれるとして、歳入推計と財政政策の柔軟な運用を求めた。",
-        "body": "金容範大統領室政策室長は8日、半導体サイクルを背景に、今後2年間で過去最大級の税収超過が見込まれると述べた。こうした税収の流れを踏まえ、歳入推計を含む財政政策をより柔軟に運用すべきだとの考えを示した。半導体好況が国家歳入見通しに直接影響する要因として浮上するなか、政府の財政運営も景気と産業サイクルの変化に合わせて調整する必要があるというメッセージだ。税収超過の見通しは、財政政策の方向性と歳入予測のあり方をめぐる議論を再び浮上させる可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "金容范称半导体景气将带来创纪录超额税收，强调财政政策需更灵活",
-        "excerpt": "韩国总统室政策室长金容范8日表示，受半导体周期影响，未来两年预计将出现创纪录的超额税收，并强调税收估算和财政政策需灵活运用。",
-        "body": "韩国总统室政策室长金容范8日表示，受半导体周期推动，未来两年预计将出现创纪录的超额税收。他指出，考虑到这一税收走势，包括税收收入估算在内的财政政策需要更加灵活地运用。随着半导体景气成为影响国家税收前景的直接变量，政府财政运作也有必要根据经济和产业周期变化进行调整。这一超额税收预期也可能使财政政策方向和税收预测方式的相关讨论再次受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kim Yong-beom prevé ingresos fiscales récord por auge de chips y pide flexibilidad fiscal",
-        "excerpt": "Kim Yong-beom, jefe de política presidencial, dijo el 8 de mayo que el ciclo de semiconductores podría generar ingresos fiscales excedentes récord en dos años y pidió una política fiscal flexible.",
-        "body": "Kim Yong-beom, jefe de política de la oficina presidencial, afirmó el 8 de mayo que Corea del Sur prevé ingresos fiscales excedentes de nivel récord durante los próximos dos años, impulsados por el ciclo de los semiconductores. Señaló que, ante ese flujo de ingresos, la política fiscal, incluidas las estimaciones de recaudación, debe gestionarse con mayor flexibilidad. Con el auge de los chips convertido en una variable directa para las previsiones de ingresos nacionales, el mensaje apunta a ajustar la gestión fiscal a los cambios del ciclo económico e industrial. La previsión de ingresos excedentes también puede reactivar el debate sobre la orientación fiscal y los métodos de estimación tributaria. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kim Yong-beom prevê receita fiscal extra recorde com boom de chips e defende flexibilidade",
-        "excerpt": "Kim Yong-beom, chefe de política presidencial, disse em 8 de maio que o ciclo dos semicondutores deve gerar receita fiscal excedente recorde nos próximos dois anos, exigindo política fiscal flexível.",
-        "body": "Kim Yong-beom, chefe de política da Presidência, afirmou em 8 de maio que a Coreia do Sul deve registrar receita fiscal excedente em nível recorde nos próximos dois anos, impulsionada pelo ciclo dos semicondutores. Ele indicou que, diante desse fluxo de arrecadação, a política fiscal, incluindo as estimativas de receita, deve ser conduzida com mais flexibilidade. Com o boom dos chips surgindo como variável direta nas projeções de receita nacional, a gestão fiscal do governo também precisa se ajustar às mudanças dos ciclos econômico e industrial. A previsão de receita excedente pode recolocar em debate a direção da política fiscal e a forma de estimar a arrecadação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kim Yong-beom erwartet Rekord-Mehreinnahmen durch Chipboom und fordert flexible Finanzpolitik",
-        "excerpt": "Kim Yong-beom, Politikchef des Präsidialamts, sagte am 8. Mai, der Halbleiterzyklus könne in den nächsten zwei Jahren rekordhohe Steuermehreinnahmen bringen, weshalb die Finanzpolitik flexibler sein müsse.",
-        "body": "Kim Yong-beom, Politikchef des Präsidialamts, sagte am 8. Mai, Südkorea erwarte dank des Halbleiterzyklus in den kommenden zwei Jahren Steuermehreinnahmen in Rekordhöhe. Angesichts dieser Einnahmenentwicklung sollten die Finanzpolitik und auch die Schätzung der Steuereinnahmen flexibler gehandhabt werden. Da der Chipboom zu einem direkten Faktor für die nationalen Einnahmeprognosen wird, verweist seine Aussage auf die Notwendigkeit, die staatliche Finanzsteuerung an Veränderungen von Konjunktur- und Industriezyklen anzupassen. Die Aussicht auf Mehreinnahmen könnte zudem die Debatte über die finanzpolitische Ausrichtung und die Methodik der Einnahmenschätzung neu beleben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kim Yong-beom prévoit des recettes fiscales record grâce aux puces et prône la souplesse",
-        "excerpt": "Kim Yong-beom, chef de la politique présidentielle, a déclaré le 8 mai que le cycle des semi-conducteurs pourrait entraîner des excédents fiscaux record sur deux ans et a appelé à plus de flexibilité budgétaire.",
-        "body": "Kim Yong-beom, chef de la politique au bureau présidentiel, a déclaré le 8 mai que la Corée du Sud devrait enregistrer des recettes fiscales excédentaires d’un niveau record au cours des deux prochaines années, grâce au cycle des semi-conducteurs. Il a indiqué que la politique budgétaire, y compris les estimations de recettes, devait être menée avec davantage de flexibilité face à cette évolution. Alors que l’essor des puces devient une variable directe dans les perspectives de recettes nationales, ses propos soulignent la nécessité d’adapter la gestion budgétaire aux cycles économiques et industriels. Cette prévision d’excédents pourrait aussi relancer le débat sur l’orientation budgétaire et les méthodes d’estimation fiscale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كيم يونغ بوم يتوقع فائضا ضريبيا قياسيا بفضل طفرة الرقائق ويدعو لمرونة مالية",
-        "excerpt": "قال كيم يونغ بوم، كبير مسؤولي السياسات في الرئاسة، في 8 مايو إن دورة أشباه الموصلات قد تحقق فائضا ضريبيا قياسيا خلال العامين المقبلين، داعيا إلى مرونة في السياسة المالية.",
-        "body": "قال كيم يونغ بوم، كبير مسؤولي السياسات في المكتب الرئاسي، في 8 مايو إن كوريا الجنوبية من المتوقع أن تسجل فائضا ضريبيا قياسيا خلال العامين المقبلين بدعم من دورة أشباه الموصلات. وأشار إلى أن هذا المسار في الإيرادات يتطلب إدارة أكثر مرونة للسياسة المالية، بما في ذلك تقديرات الإيرادات الضريبية. ومع تحول طفرة الرقائق إلى عامل مباشر في توقعات إيرادات الدولة، تحمل تصريحاته رسالة مفادها أن إدارة المالية العامة يجب أن تتكيف مع تغيرات الدورة الاقتصادية والصناعية. وقد تعيد توقعات الفائض الضريبي النقاش حول اتجاه السياسة المالية وطريقة تقدير الإيرادات إلى الواجهة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "किम योंग-बोम ने चिप उछाल से रिकॉर्ड अतिरिक्त कर राजस्व का अनुमान जताया, लचीलापन जरूरी",
-        "excerpt": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 8 मई को कहा कि सेमीकंडक्टर चक्र से अगले दो वर्षों में रिकॉर्ड अतिरिक्त कर राजस्व की उम्मीद है और राजकोषीय नीति लचीली होनी चाहिए।",
-        "body": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 8 मई को कहा कि सेमीकंडक्टर चक्र के कारण दक्षिण कोरिया को अगले दो वर्षों में रिकॉर्ड स्तर का अतिरिक्त कर राजस्व मिलने की उम्मीद है। उन्होंने संकेत दिया कि इस राजस्व प्रवाह को देखते हुए कर आय के अनुमान सहित राजकोषीय नीति को अधिक लचीले ढंग से संचालित किया जाना चाहिए। चिप उद्योग की तेजी राष्ट्रीय राजस्व अनुमान को प्रभावित करने वाला सीधा कारक बन रही है, इसलिए सरकार की वित्तीय व्यवस्था को आर्थिक और औद्योगिक चक्रों के बदलाव के अनुसार समायोजित करने की जरूरत है। अतिरिक्त राजस्व का यह अनुमान राजकोषीय नीति की दिशा और कर आय आकलन पद्धति पर चर्चा को फिर उभार सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kim Yong-beom Perkirakan Surplus Pajak Rekor dari Boom Chip, Tekankan Fleksibilitas Fiskal",
-        "excerpt": "Kepala kebijakan kepresidenan Kim Yong-beom pada 8 Mei mengatakan siklus semikonduktor diperkirakan membawa surplus pajak rekor dalam dua tahun ke depan dan kebijakan fiskal harus fleksibel.",
-        "body": "Kepala kebijakan kepresidenan Kim Yong-beom pada 8 Mei mengatakan Korea Selatan diperkirakan mencatat surplus penerimaan pajak tingkat rekor selama dua tahun ke depan, didorong oleh siklus semikonduktor. Ia menyatakan bahwa dengan mempertimbangkan arus penerimaan tersebut, kebijakan fiskal, termasuk estimasi pendapatan pajak, perlu dijalankan secara lebih fleksibel. Ketika boom chip menjadi variabel langsung dalam proyeksi penerimaan negara, pengelolaan fiskal pemerintah juga perlu menyesuaikan diri dengan perubahan siklus ekonomi dan industri. Perkiraan surplus pajak ini dapat kembali menyoroti pembahasan tentang arah kebijakan fiskal dan metode estimasi penerimaan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c0ea69d4a903",
-    "slug": "부동산캘린더-내주-고덕국제신도시수자인풍경채-등-5천404가구-분양-714058",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:29:07.693Z",
-    "updatedAt": "2026-05-08T21:29:07.693Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508139000003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508139000003",
-    "titleFingerprint": "d01100934305c22d57d235b83d518265ed68ad84",
-    "dedupKeys": [
-      "c0ea69d4a9031fd66771e27c7158e4249bdd9c54",
-      "d01100934305c22d57d235b83d518265ed68ad84",
-      "b9237451b098c0aa95ac5735b0f4587177e84849"
-    ],
-    "imageUrl": "/images/articles/c0ea69d4a903.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고덕국제신도시수자인풍경채 등 내주 전국 5,404가구 분양",
-        "excerpt": "연합뉴스 오진송 기자 보도에 따르면 다음 주 전국에서 고덕국제신도시수자인풍경채 등을 포함해 총 5,404가구가 공급될 예정이다.",
-        "body": "다음 주 전국 분양시장에는 고덕국제신도시수자인풍경채 등을 포함해 총 5,404가구가 공급된다. 연합뉴스 오진송 기자가 전한 부동산 캘린더에 따르면 내주 공급 물량은 전국 기준 5,400여가구 규모다. 이번 일정은 주간 분양 물량을 확인하려는 실수요자와 시장 관계자에게 주요 참고 지표가 될 수 있다. 구체적으로는 고덕국제신도시수자인풍경채 등 단지가 포함됐으며, 전체 공급 규모는 5,404가구로 집계됐다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "5,404 Homes to Be Offered Nationwide Next Week, Including Godeok Sujain",
-        "excerpt": "According to Yonhap reporter Oh Jin-song, 5,404 housing units, including Godeok International New Town Sujain Punggyeongchae, will be supplied nationwide next week.",
-        "body": "Next week, South Korea’s housing subscription market will see a total of 5,404 units supplied nationwide, including Godeok International New Town Sujain Punggyeongchae. According to a real estate calendar reported by Yonhap News Agency reporter Oh Jin-song, the upcoming weekly supply amounts to more than 5,400 homes across the country. The schedule offers a key reference point for end-users and market participants tracking weekly presale volume. The listed projects include Godeok International New Town Sujain Punggyeongchae, with total supply tallied at 5,404 units. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "高徳国際新都市スジャイン風景彩など来週全国で5,404戸分譲",
-        "excerpt": "聯合ニュースのオ・ジンソン記者によると、来週は高徳国際新都市スジャイン風景彩などを含め、全国で計5,404戸が供給される予定だ。",
-        "body": "来週、韓国の分譲市場では高徳国際新都市スジャイン風景彩などを含め、全国で計5,404戸が供給される。聯合ニュースのオ・ジンソン記者が伝えた不動産カレンダーによると、来週の供給量は全国基準で5,400戸余りの規模となる。今回の日程は、週ごとの分譲物量を確認する実需者や市場関係者にとって主要な参考指標となり得る。具体的には高徳国際新都市スジャイン風景彩などの団地が含まれ、全体の供給規模は5,404戸と集計された。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "高德国际新城Sujain风景彩等下周全国供应5,404户",
-        "excerpt": "据韩联社记者吴珍松报道，下周韩国全国将供应包括高德国际新城Sujain风景彩在内的共5,404户住宅。",
-        "body": "下周，韩国全国房地产预售市场将供应包括高德国际新城Sujain风景彩在内的共5,404户住宅。据韩联社记者吴珍松报道的房地产日程显示，下周全国供应量约为5,400多户。该日程可为关注每周预售规模的实际购房者和市场相关人士提供主要参考。具体来看，供应项目包括高德国际新城Sujain风景彩等楼盘，整体供应规模统计为5,404户。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "Godeok Sujain y otros suman 5.404 viviendas en preventa nacional",
-        "excerpt": "Según Yonhap y el periodista Oh Jin-song, la próxima semana se ofrecerán en Corea del Sur 5.404 viviendas, incluido Godeok International New Town Sujain Punggyeongchae.",
-        "body": "La próxima semana, el mercado de preventa residencial de Corea del Sur recibirá un total de 5.404 viviendas en todo el país, incluido Godeok International New Town Sujain Punggyeongchae. Según el calendario inmobiliario informado por el periodista Oh Jin-song de Yonhap, la oferta semanal próxima supera las 5.400 unidades a escala nacional. Este calendario puede servir como referencia principal para compradores finales y participantes del mercado que siguen el volumen semanal de preventas. Entre los complejos incluidos figura Godeok International New Town Sujain Punggyeongchae, con una oferta total contabilizada en 5.404 unidades. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Godeok Sujain e outros terão 5.404 unidades à venda na próxima semana",
-        "excerpt": "Segundo a Yonhap e o repórter Oh Jin-song, 5.404 moradias, incluindo Godeok International New Town Sujain Punggyeongchae, serão ofertadas na Coreia do Sul na próxima semana.",
-        "body": "Na próxima semana, o mercado de pré-venda residencial da Coreia do Sul terá um total de 5.404 unidades ofertadas em todo o país, incluindo Godeok International New Town Sujain Punggyeongchae. Segundo o calendário imobiliário relatado pelo repórter Oh Jin-song, da Yonhap, o volume de oferta da semana seguinte passa de 5.400 moradias em escala nacional. A programação pode servir como referência importante para compradores finais e participantes do mercado que acompanham o volume semanal de pré-vendas. Entre os empreendimentos citados está Godeok International New Town Sujain Punggyeongchae, com oferta total apurada em 5.404 unidades. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Godeok Sujain und weitere Projekte: 5.404 Wohnungen nächste Woche",
-        "excerpt": "Laut Yonhap-Reporter Oh Jin-song werden nächste Woche landesweit 5.404 Wohneinheiten angeboten, darunter Godeok International New Town Sujain Punggyeongchae.",
-        "body": "In der kommenden Woche werden auf dem südkoreanischen Wohnungsmarkt landesweit insgesamt 5.404 Einheiten angeboten, darunter Godeok International New Town Sujain Punggyeongchae. Nach dem von Yonhap-Reporter Oh Jin-song gemeldeten Immobilienkalender beläuft sich das Angebotsvolumen der nächsten Woche landesweit auf mehr als 5.400 Wohnungen. Der Zeitplan kann für Eigennutzer und Marktteilnehmer, die das wöchentliche Vorverkaufsvolumen verfolgen, ein wichtiger Anhaltspunkt sein. Zu den genannten Projekten zählt Godeok International New Town Sujain Punggyeongchae; das Gesamtangebot wurde mit 5.404 Einheiten beziffert. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Godeok Sujain et autres: 5 404 logements proposés la semaine prochaine",
-        "excerpt": "Selon le journaliste Oh Jin-song de Yonhap, 5 404 logements, dont Godeok International New Town Sujain Punggyeongchae, seront proposés en Corée du Sud la semaine prochaine.",
-        "body": "La semaine prochaine, le marché sud-coréen de la prévente immobilière comptera au total 5 404 logements proposés dans tout le pays, dont Godeok International New Town Sujain Punggyeongchae. Selon le calendrier immobilier rapporté par le journaliste Oh Jin-song de Yonhap, le volume d’offre de la semaine à venir dépasse 5 400 logements à l’échelle nationale. Ce calendrier peut servir de repère important aux acheteurs finaux et aux acteurs du marché qui suivent les volumes hebdomadaires. Les projets cités comprennent Godeok International New Town Sujain Punggyeongchae, pour un total comptabilisé de 5 404 unités. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "5,404 وحدات للبيع الأسبوع المقبل بينها Godeok Sujain في كوريا",
-        "excerpt": "بحسب تقرير وكالة يونهاب للصحفي أوه جين سونغ، ستُطرح الأسبوع المقبل 5,404 وحدات سكنية في كوريا الجنوبية، بينها Godeok International New Town Sujain Punggyeongchae.",
-        "body": "يشهد سوق الطرح السكني في كوريا الجنوبية الأسبوع المقبل توفير ما مجموعه 5,404 وحدات على مستوى البلاد، من بينها Godeok International New Town Sujain Punggyeongchae. ووفق تقويم العقارات الذي أورده الصحفي أوه جين سونغ في وكالة يونهاب، يبلغ حجم المعروض للأسبوع المقبل أكثر من 5,400 وحدة على أساس وطني. ويمكن أن يشكل هذا الجدول مؤشرا مرجعيا مهما للمشترين الفعليين والجهات المعنية في السوق التي تتابع حجم الطروحات الأسبوعية. وتشمل القائمة مجمع Godeok International New Town Sujain Punggyeongchae وغيره، بإجمالي معروض قدره 5,404 وحدات. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "Godeok Sujain समेत अगले सप्ताह देशभर में 5,404 घरों की आपूर्ति",
-        "excerpt": "योनहाप के पत्रकार Oh Jin-song के अनुसार, अगले सप्ताह दक्षिण कोरिया में Godeok International New Town Sujain Punggyeongchae सहित कुल 5,404 आवासीय इकाइयां 공급 होंगी।",
-        "body": "अगले सप्ताह दक्षिण कोरिया के आवासीय प्री-सेल बाजार में Godeok International New Town Sujain Punggyeongchae सहित देशभर में कुल 5,404 इकाइयों की आपूर्ति होगी। योनहाप न्यूज एजेंसी के पत्रकार Oh Jin-song द्वारा बताए गए रियल एस्टेट कैलेंडर के अनुसार, अगले सप्ताह की आपूर्ति राष्ट्रीय स्तर पर 5,400 से अधिक घरों की है। यह कार्यक्रम साप्ताहिक प्री-सेल मात्रा पर नजर रखने वाले वास्तविक खरीदारों और बाजार से जुड़े लोगों के लिए प्रमुख संदर्भ बन सकता है। सूची में Godeok International New Town Sujain Punggyeongchae जैसे परिसर शामिल हैं, और कुल आपूर्ति 5,404 इकाइयों पर दर्ज की गई है। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Godeok Sujain dan lainnya pasok 5.404 unit nasional pekan depan",
-        "excerpt": "Menurut laporan reporter Yonhap Oh Jin-song, pekan depan Korea Selatan akan memasok 5.404 unit hunian, termasuk Godeok International New Town Sujain Punggyeongchae.",
-        "body": "Pekan depan, pasar prapenjualan hunian Korea Selatan akan mendapat pasokan total 5.404 unit di seluruh negeri, termasuk Godeok International New Town Sujain Punggyeongchae. Menurut kalender properti yang dilaporkan reporter Yonhap Oh Jin-song, volume pasokan pekan depan mencapai lebih dari 5.400 unit secara nasional. Jadwal ini dapat menjadi acuan utama bagi pembeli akhir dan pelaku pasar yang memantau volume prapenjualan mingguan. Proyek yang tercantum mencakup Godeok International New Town Sujain Punggyeongchae dan lainnya, dengan total pasokan tercatat 5.404 unit. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3faf81e3ae3b",
-    "slug": "주유소-기름값-6주-연속-상승종전-기대감-속-하락-전환할까-147325",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:28:14.778Z",
-    "updatedAt": "2026-05-08T21:28:14.778Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508159400003",
-    "titleFingerprint": "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
-    "dedupKeys": [
-      "3faf81e3ae3b0a576b7099bfb3ff8704d67b0434",
-      "c6a8e7679fd7cd91ab59cb47748d03d756f9af6e",
-      "d399a5e7976334f539d517428c3c991a3d60fba8"
-    ],
-    "imageUrl": "/images/articles/3faf81e3ae3b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "주유소 기름값 6주 연속 상승, 휘발유·경유 동반 오름세 주목",
-        "excerpt": "이번 주 국내 주유소 휘발유와 경유 주간 평균 가격이 6주 연속 함께 상승했다. 종전 기대감 속 국제 유가 흐름과 향후 하락 전환 여부에 관심이 쏠린다.",
-        "body": "이번 주 국내 주유소에서 판매되는 휘발유와 경유의 주간 평균 가격이 6주 연속 동반 상승했다. 연합뉴스에 따르면 서울에서 김민지 기자가 전한 이번 가격 흐름은 국내 소비자가 체감하는 에너지 비용 부담이 이어지고 있음을 보여준다. 휘발유와 경유가 같은 기간 함께 오른 만큼 운전자와 운송업계 모두 주유비 변동에 민감하게 반응할 수밖에 없다. 다만 종전 기대감이 형성되는 가운데 향후 기름값이 하락 전환할 수 있을지에도 관심이 모인다. 국내 주유소 가격은 국제 유가와 수급, 환율 등 여러 요인의 영향을 받는 만큼 당분간 주간 가격 흐름을 지켜볼 필요가 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Gas Station Fuel Prices Rise for Sixth Week as Gasoline and Diesel Climb Together",
-        "excerpt": "Weekly average prices of gasoline and diesel at gas stations in South Korea rose together for the sixth straight week, drawing attention to whether they may turn lower amid hopes for an end to war.",
-        "body": "This week, the weekly average prices of gasoline and diesel sold at gas stations across South Korea rose together for the sixth consecutive week. According to Yonhap News Agency, the price trend reported from Seoul by reporter Kim Min-ji shows that the energy cost burden felt by domestic consumers is continuing. As both gasoline and diesel increased over the same period, drivers and the transport sector remain sensitive to changes in refueling costs. At the same time, attention is turning to whether fuel prices could shift downward amid expectations for an end to war. Since domestic gas station prices are affected by international oil prices, supply and demand, and exchange rates, weekly price movements will need to be watched. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ガソリンスタンド燃料価格が6週連続上昇、ガソリン・軽油とも値上がり",
-        "excerpt": "韓国国内のガソリンスタンドで販売されるガソリンと軽油の週間平均価格が今週もそろって上昇し、6週連続の上昇となった。終戦期待の中で下落転換するか注目される。",
-        "body": "今週、韓国国内のガソリンスタンドで販売されるガソリンと軽油の週間平均価格が6週連続でそろって上昇した。聯合ニュースによると、ソウル発でキム・ミンジ記者が伝えた今回の価格動向は、国内消費者が感じるエネルギー費用の負担が続いていることを示している。ガソリンと軽油が同じ期間にともに上昇したことで、運転者や運送業界は給油費の変動に敏感にならざるを得ない。一方、終戦への期待が形成される中、今後燃料価格が下落に転じるかにも関心が集まる。国内の給油所価格は国際原油価格、需給、為替など複数の要因の影響を受けるため、当面は週間価格の推移を見守る必要がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国加油站油价连续六周上涨，汽油和柴油价格同步走高",
-        "excerpt": "本周韩国国内加油站汽油和柴油周均价格连续第六周同步上涨。在终战预期升温的背景下，市场关注油价今后是否会转为下跌。",
-        "body": "本周，韩国国内加油站销售的汽油和柴油周均价格连续第六周同步上涨。据韩联社报道，记者金敏智从首尔发出的这则消息显示，韩国消费者感受到的能源成本压力仍在持续。由于汽油和柴油在同一时期一起上涨，驾驶者和运输行业都不得不对加油费用变化保持敏感。与此同时，在终战预期形成的情况下，今后油价是否可能转为下跌也受到关注。韩国国内加油站价格受国际油价、供需和汇率等多种因素影响，因此仍需继续观察每周价格走势。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Precios de combustibles suben seis semanas en gasolineras de Corea del Sur",
-        "excerpt": "Los precios promedio semanales de la gasolina y el diésel en las gasolineras surcoreanas subieron juntos por sexta semana consecutiva, mientras crece la atención sobre un posible giro a la baja.",
-        "body": "Esta semana, los precios promedio semanales de la gasolina y el diésel vendidos en las gasolineras de Corea del Sur aumentaron simultáneamente por sexta semana consecutiva. Según la agencia Yonhap, el reporte de la periodista Kim Min-ji desde Seúl muestra que la carga de los costos energéticos que sienten los consumidores nacionales continúa. Como la gasolina y el diésel subieron durante el mismo período, tanto los conductores como el sector del transporte siguen atentos a los cambios en el costo de repostar. Al mismo tiempo, en medio de expectativas de un fin de la guerra, crece el interés por saber si los precios del combustible podrían pasar a la baja. Dado que los precios locales dependen del crudo internacional, la oferta y la demanda, y el tipo de cambio, será necesario observar la tendencia semanal. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Preços dos combustíveis sobem por seis semanas em postos da Coreia do Sul",
-        "excerpt": "Os preços médios semanais da gasolina e do diesel nos postos da Coreia do Sul subiram juntos pela sexta semana seguida, enquanto cresce a atenção para uma possível virada de queda.",
-        "body": "Nesta semana, os preços médios semanais da gasolina e do diesel vendidos nos postos da Coreia do Sul subiram simultaneamente pela sexta semana consecutiva. Segundo a agência Yonhap, a informação divulgada de Seul pela repórter Kim Min-ji mostra que o peso dos custos de energia sentido pelos consumidores domésticos continua. Como gasolina e diesel avançaram no mesmo período, motoristas e o setor de transporte permanecem sensíveis às mudanças no custo de abastecimento. Ao mesmo tempo, em meio a expectativas de fim da guerra, há atenção sobre a possibilidade de os preços dos combustíveis passarem a cair. Como os preços nos postos locais são influenciados pelo petróleo internacional, oferta e demanda e câmbio, será necessário acompanhar os movimentos semanais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Spritpreise in Südkorea steigen sechste Woche, Benzin und Diesel teurer",
-        "excerpt": "Die wöchentlichen Durchschnittspreise für Benzin und Diesel an südkoreanischen Tankstellen sind zum sechsten Mal in Folge gemeinsam gestiegen. Nun richtet sich der Blick auf eine mögliche Trendwende.",
-        "body": "In dieser Woche sind die wöchentlichen Durchschnittspreise für Benzin und Diesel an Tankstellen in Südkorea zum sechsten Mal in Folge gemeinsam gestiegen. Nach Angaben der Nachrichtenagentur Yonhap zeigt der von Reporterin Kim Min-ji aus Seoul gemeldete Preistrend, dass die von Verbrauchern gespürte Belastung durch Energiekosten anhält. Da Benzin und Diesel im selben Zeitraum zusammen teurer wurden, reagieren Fahrer und Transportbranche sensibel auf Veränderungen der Tankkosten. Zugleich richtet sich angesichts von Erwartungen auf ein Kriegsende der Blick darauf, ob die Kraftstoffpreise künftig sinken könnten. Da inländische Tankstellenpreise von internationalen Ölpreisen, Angebot und Nachfrage sowie Wechselkursen beeinflusst werden, bleibt die wöchentliche Entwicklung zu beobachten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Carburants en Corée du Sud: sixième semaine de hausse pour essence et diesel",
-        "excerpt": "Les prix moyens hebdomadaires de l’essence et du diesel dans les stations-service sud-coréennes ont augmenté ensemble pour la sixième semaine consécutive, avec l’attention portée à un possible repli.",
-        "body": "Cette semaine, les prix moyens hebdomadaires de l’essence et du diesel vendus dans les stations-service en Corée du Sud ont progressé ensemble pour la sixième semaine consécutive. Selon l’agence Yonhap, le mouvement rapporté depuis Séoul par la journaliste Kim Min-ji montre que la charge des coûts énergétiques ressentie par les consommateurs nationaux se poursuit. Comme l’essence et le diesel ont augmenté sur la même période, les automobilistes et le secteur du transport restent sensibles aux variations des frais de ravitaillement. Dans le même temps, avec les attentes liées à une fin de guerre, l’attention se porte sur la possibilité d’un retournement à la baisse des prix. Les prix locaux dépendant du pétrole international, de l’offre et de la demande ainsi que des changes, l’évolution hebdomadaire devra être suivie. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسعار الوقود في كوريا الجنوبية ترتفع للأسبوع السادس مع صعود البنزين والديزل",
-        "excerpt": "ارتفع متوسط أسعار البنزين والديزل الأسبوعي في محطات الوقود الكورية الجنوبية معا للأسبوع السادس على التوالي، وسط اهتمام بما إذا كانت الأسعار قد تتحول إلى الانخفاض مع آمال انتهاء الحرب.",
-        "body": "هذا الأسبوع، ارتفع متوسط الأسعار الأسبوعية للبنزين والديزل المباعين في محطات الوقود داخل كوريا الجنوبية معا للأسبوع السادس على التوالي. وبحسب وكالة يونهاب، فإن اتجاه الأسعار الذي نقلته الصحفية كيم مين-جي من سيئول يظهر استمرار عبء تكاليف الطاقة الذي يشعر به المستهلكون المحليون. ومع ارتفاع البنزين والديزل خلال الفترة نفسها، يبقى السائقون وقطاع النقل حساسين لتغيرات تكاليف التزود بالوقود. وفي الوقت نفسه، ومع تشكل توقعات بانتهاء الحرب، يتجه الاهتمام إلى ما إذا كانت أسعار الوقود قد تتحول إلى الانخفاض لاحقا. وبما أن أسعار المحطات المحلية تتأثر بأسعار النفط العالمية والعرض والطلب وأسعار الصرف، فهناك حاجة لمتابعة حركة الأسعار الأسبوعية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया में ईंधन कीमतें छठे सप्ताह बढ़ीं, पेट्रोल और डीजल साथ चढ़े",
-        "excerpt": "दक्षिण कोरिया के पेट्रोल पंपों पर पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह साथ बढ़ीं। युद्ध समाप्ति की उम्मीदों के बीच अब संभावित गिरावट पर ध्यान है।",
-        "body": "इस सप्ताह दक्षिण कोरिया के पेट्रोल पंपों पर बिकने वाले पेट्रोल और डीजल की साप्ताहिक औसत कीमतें लगातार छठे सप्ताह एक साथ बढ़ीं। योनहाप समाचार एजेंसी के अनुसार, सियोल से रिपोर्टर किम मिन-जी की रिपोर्ट में यह कीमत प्रवृत्ति दिखाती है कि घरेलू उपभोक्ताओं पर ऊर्जा लागत का दबाव जारी है। पेट्रोल और डीजल दोनों के एक ही अवधि में बढ़ने से चालक और परिवहन क्षेत्र ईंधन भराने की लागत में बदलाव को लेकर संवेदनशील बने हुए हैं। साथ ही, युद्ध समाप्ति की उम्मीदों के बीच यह भी देखा जा रहा है कि क्या आगे ईंधन कीमतें गिरावट की ओर मुड़ सकती हैं। घरेलू पेट्रोल पंप कीमतें अंतरराष्ट्रीय तेल कीमतों, आपूर्ति-मांग और विनिमय दरों से प्रभावित होती हैं, इसलिए साप्ताहिक रुझान पर नजर रखना जरूरी है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga BBM SPBU Korea Selatan Naik Enam Pekan, Bensin dan Diesel Serempak",
-        "excerpt": "Harga rata-rata mingguan bensin dan diesel di SPBU Korea Selatan naik bersama selama enam pekan berturut-turut, sementara perhatian tertuju pada kemungkinan berbalik turun di tengah harapan perang berakhir.",
-        "body": "Pekan ini, harga rata-rata mingguan bensin dan diesel yang dijual di SPBU Korea Selatan naik bersamaan untuk pekan keenam berturut-turut. Menurut kantor berita Yonhap, laporan reporter Kim Min-ji dari Seoul menunjukkan bahwa beban biaya energi yang dirasakan konsumen domestik masih berlanjut. Karena bensin dan diesel sama-sama naik dalam periode yang sama, pengemudi dan sektor transportasi tetap sensitif terhadap perubahan biaya pengisian bahan bakar. Pada saat yang sama, di tengah harapan berakhirnya perang, perhatian tertuju pada apakah harga BBM dapat berbalik turun ke depan. Karena harga SPBU domestik dipengaruhi harga minyak internasional, pasokan dan permintaan, serta nilai tukar, pergerakan harga mingguan masih perlu dipantau. Sumber: yna.co.kr"
       }
     }
   }
