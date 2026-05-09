@@ -1,5 +1,230 @@
 [
   {
+    "id": "5145141d5a59",
+    "slug": "연합뉴스-이-시각-헤드라인---1030-379187",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T03:08:35.407Z",
+    "updatedAt": "2026-05-09T03:08:35.407Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022700011",
+    "titleFingerprint": "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
+    "dedupKeys": [
+      "5145141d5a599ae27bee2877ba653f288dcf2c11",
+      "64a3a78e24c6543c26fa5d64aa0072cce47a4c29",
+      "2006ec74eacea2cec595227b10ba824a74ce429c"
+    ],
+    "imageUrl": "/images/articles/5145141d5a59.jpg",
+    "i18n": {
+      "ko": {
+        "title": "연합뉴스 10시30분 헤드라인 공개, 주요 뉴스 흐름 한눈에 확인",
+        "excerpt": "연합뉴스는 10시30분 기준 ‘이 시각 헤드라인’을 통해 해당 시점의 주요 뉴스 목록을 독자에게 알렸다. 원문은 제목과 요약이 동일하게 제공됐다.",
+        "body": "연합뉴스는 10시30분 기준 ‘[연합뉴스 이 시각 헤드라인] - 10:30’을 공개했다. 원문에서 확인되는 핵심 정보는 제목과 요약, 출처이며, 제목과 요약은 모두 같은 문구로 제시됐다. 해당 콘텐츠는 특정 사건의 세부 내용이나 수치, 관련 인물, 장소를 추가로 설명하지 않고 이 시각 주요 뉴스 헤드라인 형식으로 제공된 것으로 확인된다. 따라서 본 기사는 원문에 명시된 범위 안에서 10시30분 기준 헤드라인 공개 사실만 전달한다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Yonhap 10:30 Headlines Released, Key News Snapshot Now Available",
+        "excerpt": "Yonhap News released its “Headlines at This Hour” item for 10:30, informing readers of the main news flow at that time. The original title and summary are identical.",
+        "body": "Yonhap News released “[Yonhap News Headlines at This Hour] - 10:30” as of 10:30. The core information available in the original text is the title, summary and source, with the title and summary presented in the same wording. The item does not add details about a specific event, figures, people or locations, and is confirmed as a headline-format update for major news at that time. This article therefore reports only the fact that the 10:30 headline item was published within the scope stated in the source. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "聯合ニュース10時30分ヘッドライン公開、主要ニュースを確認",
+        "excerpt": "聯合ニュースは10時30分基準の「この時刻のヘッドライン」を通じ、その時点の主要ニュース項目を読者に知らせた。原文の題名と要約は同一だ。",
+        "body": "聯合ニュースは10時30分基準で「[聯合ニュース この時刻のヘッドライン] - 10:30」を公開した。原文で確認できる主な情報は題名、要約、出典であり、題名と要約はいずれも同じ文言で示されている。特定の事件の詳細、数値、関係者、場所に関する追加説明はなく、この時刻の主要ニュースを示すヘッドライン形式の内容として確認される。したがって本記事は、原文に明示された範囲内で10時30分基準のヘッドライン公開事実のみを伝える。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩联社10时30分头条发布，可查看当时主要新闻动态",
+        "excerpt": "韩联社发布10时30分“此刻头条”，向读者告知该时间点的主要新闻条目。原文标题与摘要使用相同表述。",
+        "body": "韩联社于10时30分发布“[韩联社此刻头条] - 10:30”。原文可确认的核心信息包括标题、摘要和来源，其中标题与摘要均以相同措辞呈现。该内容未补充说明具体事件细节、数据、相关人物或地点，可确认是以此刻主要新闻头条形式提供的更新。因此，本文仅在原文明确范围内，传达10时30分基准头条内容发布这一事实。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Yonhap publica titulares de las 10:30 con el panorama informativo clave",
+        "excerpt": "Yonhap News publicó su sección “Titulares de esta hora” a las 10:30 para informar a los lectores sobre las principales noticias de ese momento. Título y resumen coinciden.",
+        "body": "Yonhap News publicó “[Titulares de Yonhap News de esta hora] - 10:30” con referencia a las 10:30. La información central visible en el original es el título, el resumen y la fuente, y el título y el resumen aparecen con la misma redacción. El contenido no añade detalles sobre un hecho concreto, cifras, personas o lugares, y se presenta como una actualización en formato de titulares de las principales noticias de ese momento. Por ello, este artículo informa solo del hecho de que se publicó el titular de las 10:30 dentro del alcance indicado por la fuente. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Yonhap divulga manchetes das 10h30 com resumo do noticiário principal",
+        "excerpt": "A Yonhap News publicou “Manchetes desta hora” às 10h30 para informar os leitores sobre os principais destaques daquele momento. O título e o resumo originais são iguais.",
+        "body": "A Yonhap News divulgou “[Manchetes da Yonhap News desta hora] - 10:30” com referência às 10h30. As informações centrais disponíveis no texto original são o título, o resumo e a fonte, sendo que título e resumo aparecem com a mesma redação. O item não acrescenta detalhes sobre um evento específico, números, pessoas envolvidas ou locais, e é apresentado como uma atualização em formato de manchetes das principais notícias daquele momento. Assim, este artigo relata apenas o fato da publicação das manchetes das 10h30 dentro do escopo informado pela fonte. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Yonhap veröffentlicht 10:30-Uhr-Schlagzeilen mit aktuellem Nachrichtenüberblick",
+        "excerpt": "Yonhap News veröffentlichte um 10:30 Uhr die Rubrik „Schlagzeilen zu dieser Stunde“ und informierte über die wichtigsten Nachrichten dieses Zeitpunkts. Titel und Kurztext sind identisch.",
+        "body": "Yonhap News veröffentlichte um 10:30 Uhr „[Yonhap News Schlagzeilen zu dieser Stunde] - 10:30“. Die im Original erkennbaren Kerninformationen sind Titel, Zusammenfassung und Quelle; Titel und Zusammenfassung werden mit derselben Formulierung angegeben. Der Beitrag enthält keine zusätzlichen Details zu einem konkreten Ereignis, Zahlen, beteiligten Personen oder Orten und ist als Schlagzeilenformat zu den wichtigsten Nachrichten dieses Zeitpunkts einzuordnen. Daher berichtet dieser Artikel nur über die Veröffentlichung der 10:30-Uhr-Schlagzeile im ausdrücklich genannten Umfang der Quelle. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Yonhap publie ses titres de 10h30, aperçu des principales nouvelles",
+        "excerpt": "Yonhap News a publié ses “titres de cette heure” à 10h30 afin d’informer les lecteurs des principales nouvelles du moment. Le titre et le résumé originaux sont identiques.",
+        "body": "Yonhap News a publié à 10h30 “[Titres de Yonhap News à cette heure] - 10:30”. Les informations essentielles visibles dans le texte original sont le titre, le résumé et la source, le titre et le résumé étant présentés avec la même formulation. Le contenu n’ajoute pas de détails sur un événement précis, des chiffres, des personnes ou des lieux, et se présente comme une mise à jour sous forme de titres des principales nouvelles du moment. Cet article rapporte donc uniquement la publication du titre de 10h30 dans le périmètre explicitement indiqué par la source. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "يونهاب تنشر عناوين الساعة 10:30 لعرض أبرز الأخبار الحالية",
+        "excerpt": "نشرت وكالة يونهاب بند “عناوين هذه الساعة” عند 10:30 لإبلاغ القراء بأبرز الأخبار في ذلك التوقيت. وجاء العنوان والملخص في النص الأصلي بالصياغة نفسها.",
+        "body": "نشرت وكالة يونهاب عند الساعة 10:30 مادة بعنوان “[عناوين يونهاب في هذه الساعة] - 10:30”. وتقتصر المعلومات الأساسية الواردة في النص الأصلي على العنوان والملخص والمصدر، مع تقديم العنوان والملخص بالصياغة نفسها. ولا يضيف المحتوى تفاصيل عن حدث محدد أو أرقام أو أشخاص أو أماكن، بل يظهر كتحديث بصيغة عناوين لأبرز الأخبار في ذلك التوقيت. لذلك ينقل هذا المقال فقط واقعة نشر عناوين الساعة 10:30 ضمن الحدود المذكورة صراحة في المصدر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "योनहाप ने 10:30 बजे की हेडलाइन जारी की, प्रमुख खबरों की झलक",
+        "excerpt": "योनहाप न्यूज ने 10:30 बजे “इस समय की हेडलाइन” जारी कर पाठकों को उस समय की प्रमुख खबरों की जानकारी दी। मूल शीर्षक और सारांश समान हैं।",
+        "body": "योनहाप न्यूज ने 10:30 बजे “[योनहाप न्यूज इस समय की हेडलाइन] - 10:30” जारी किया। मूल पाठ में उपलब्ध मुख्य जानकारी शीर्षक, सारांश और स्रोत है, और शीर्षक तथा सारांश एक ही शब्दों में दिए गए हैं। सामग्री में किसी विशेष घटना, आंकड़े, संबंधित व्यक्ति या स्थान का अतिरिक्त विवरण नहीं दिया गया है और यह उस समय की प्रमुख खबरों के हेडलाइन प्रारूप के रूप में प्रस्तुत है। इसलिए यह लेख स्रोत में स्पष्ट रूप से दी गई सीमा के भीतर केवल 10:30 बजे हेडलाइन प्रकाशित होने की बात बताता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Yonhap Rilis Headline 10:30, Ringkasan Berita Utama Saat Itu",
+        "excerpt": "Yonhap News merilis “Headline Saat Ini” pada pukul 10:30 untuk memberi tahu pembaca tentang arus berita utama pada waktu tersebut. Judul dan ringkasan asli sama.",
+        "body": "Yonhap News merilis “[Headline Yonhap News Saat Ini] - 10:30” pada pukul 10:30. Informasi inti yang dapat dipastikan dari teks asli adalah judul, ringkasan, dan sumber, dengan judul serta ringkasan disajikan dalam redaksi yang sama. Konten tersebut tidak menambahkan rincian tentang peristiwa tertentu, angka, tokoh, atau lokasi, dan terkonfirmasi sebagai pembaruan berbentuk headline untuk berita utama pada saat itu. Karena itu, artikel ini hanya menyampaikan fakta bahwa headline pukul 10:30 dipublikasikan sesuai batas informasi yang tertulis dalam sumber. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9e0f8fca0cce",
+    "slug": "울진-택시요금-인상기본료-4천4천500원-조정-917258",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T03:07:49.504Z",
+    "updatedAt": "2026-05-09T03:07:49.504Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509023800053",
+    "titleFingerprint": "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+    "dedupKeys": [
+      "9e0f8fca0cce7ff3112ef4b55c00648bac41991b",
+      "8e514c7105a7780dda5397ca29a7c43db606fb1a",
+      "6e58a0a65e24ba440819721883f66a1876b2ac2e"
+    ],
+    "imageUrl": "/images/articles/9e0f8fca0cce.jpg",
+    "i18n": {
+      "ko": {
+        "title": "울진 택시요금 19일부터 인상, 기본요금 4천원에서 4천500원으로",
+        "excerpt": "경북 울진군은 9일 택시요금 조정 방침을 밝히고 오는 19일부터 기본요금을 4천원에서 4천500원으로 인상한다고 밝혔다.",
+        "body": "경북 울진군은 오는 19일부터 택시요금을 인상한다고 9일 밝혔다. 이번 조정에 따라 울진 지역 택시 기본요금은 기존 4천원에서 4천500원으로 오른다. 인상 폭은 500원이며, 적용 시점은 19일부터다. 울진군이 택시요금 인상 방침을 밝히면서 지역 택시 이용자는 시행일 이후 변경된 기본요금을 적용받게 된다. 이번 내용은 경북 울진군 발표를 바탕으로 한 연합뉴스 보도이며, 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "Uljin Taxi Fares to Rise From 19th, Base Fare Set at 4,500 Won",
+        "excerpt": "Uljin County in North Gyeongsang said on the 9th that taxi fares will rise from the 19th, with the base fare adjusted from 4,000 won to 4,500 won.",
+        "body": "Uljin County in North Gyeongsang Province said on the 9th that it will raise taxi fares starting on the 19th. Under the adjustment, the base taxi fare in Uljin will increase from 4,000 won to 4,500 won. The rise amounts to 500 won, and the new fare will take effect from the 19th. As Uljin County announced the fare increase plan, taxi users in the area will be charged the revised base fare after the implementation date. The information is based on a Yonhap News report citing Uljin County, with the source listed as yna.co.kr."
+      },
+      "ja": {
+        "title": "蔚珍のタクシー料金、19日から引き上げ 基本料金4,500ウォンに",
+        "excerpt": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げ、基本料金を4,000ウォンから4,500ウォンに調整すると明らかにした。",
+        "body": "慶尚北道蔚珍郡は9日、19日からタクシー料金を引き上げると発表した。今回の調整により、蔚珍地域のタクシー基本料金は従来の4,000ウォンから4,500ウォンに上がる。引き上げ幅は500ウォンで、適用開始日は19日からとなる。蔚珍郡がタクシー料金の引き上げ方針を示したことで、地域のタクシー利用者は施行日以降、変更後の基本料金の適用を受ける。内容は蔚珍郡の発表を基にした聯合ニュース報道で、出典はyna.co.kr。"
+      },
+      "zh": {
+        "title": "蔚珍出租车费19日起上调，起步价由4000韩元调至4500韩元",
+        "excerpt": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费，起步价由4000韩元调整为4500韩元。",
+        "body": "庆尚北道蔚珍郡9日表示，将从19日起上调出租车费用。根据此次调整，蔚珍地区出租车起步价将由现行4000韩元提高至4500韩元。上调幅度为500韩元，适用时间为19日起。随着蔚珍郡公布出租车费上调方针，当地出租车乘客将在实施日后适用变更后的起步价。本内容基于韩联社援引蔚珍郡发布的报道，来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "Uljin subirá la tarifa de taxi desde el día 19: bajada inicial a 4.500 wones",
+        "excerpt": "El condado de Uljin, en Gyeongsang del Norte, informó el día 9 que desde el 19 elevará la tarifa base de taxi de 4.000 a 4.500 wones.",
+        "body": "El condado de Uljin, en la provincia de Gyeongsang del Norte, anunció el día 9 que aumentará las tarifas de taxi a partir del día 19. Con este ajuste, la tarifa base de los taxis en Uljin pasará de 4.000 wones a 4.500 wones. El incremento será de 500 wones y se aplicará desde el día 19. Tras el anuncio del condado, los usuarios de taxi de la zona pagarán la tarifa base modificada una vez entre en vigor. La información se basa en un reporte de Yonhap News que cita al condado de Uljin; la fuente es yna.co.kr."
+      },
+      "pt": {
+        "title": "Uljin aumenta tarifa de táxi no dia 19, com bandeirada a 4.500 won",
+        "excerpt": "O condado de Uljin, em Gyeongsang do Norte, informou no dia 9 que elevará a tarifa básica de táxi de 4.000 para 4.500 won a partir do dia 19.",
+        "body": "O condado de Uljin, na província de Gyeongsang do Norte, informou no dia 9 que aumentará as tarifas de táxi a partir do dia 19. Com o ajuste, a tarifa básica dos táxis em Uljin passará de 4.000 won para 4.500 won. O aumento é de 500 won, com aplicação prevista a partir do dia 19. Com o anúncio da mudança, usuários de táxi na região passarão a pagar a nova tarifa básica após a data de entrada em vigor. A informação se baseia em reportagem da Yonhap News citando o condado de Uljin; a fonte é yna.co.kr."
+      },
+      "de": {
+        "title": "Uljin erhöht Taxitarife ab dem 19.: Grundpreis steigt auf 4.500 Won",
+        "excerpt": "Der Landkreis Uljin in Nord-Gyeongsang teilte am 9. mit, dass die Taxitarife ab dem 19. steigen und der Grundpreis von 4.000 auf 4.500 Won angepasst wird.",
+        "body": "Der Landkreis Uljin in der Provinz Nord-Gyeongsang gab am 9. bekannt, dass die Taxitarife ab dem 19. erhöht werden. Durch die Anpassung steigt der Grundpreis für Taxis in Uljin von bisher 4.000 Won auf 4.500 Won. Die Erhöhung beträgt 500 Won und gilt ab dem 19. Nach der Ankündigung des Landkreises wird für Taxinutzer in der Region ab dem Inkrafttreten der geänderte Grundpreis berechnet. Die Angaben beruhen auf einem Bericht von Yonhap News unter Berufung auf den Landkreis Uljin; Quelle ist yna.co.kr."
+      },
+      "fr": {
+        "title": "Uljin relève ses tarifs de taxi dès le 19, prix de base à 4 500 wons",
+        "excerpt": "Le comté d’Uljin, dans le Gyeongsang du Nord, a annoncé le 9 que les tarifs de taxi augmenteront dès le 19, avec un prix de base porté de 4 000 à 4 500 wons.",
+        "body": "Le comté d’Uljin, dans la province du Gyeongsang du Nord, a annoncé le 9 qu’il augmentera les tarifs de taxi à partir du 19. Avec cet ajustement, le prix de base des taxis à Uljin passera de 4 000 wons à 4 500 wons. La hausse est de 500 wons et s’appliquera à compter du 19. Après l’annonce de cette mesure, les usagers des taxis de la région se verront appliquer le nouveau prix de base après la date d’entrée en vigueur. Ces informations proviennent d’un article de Yonhap News citant le comté d’Uljin; source: yna.co.kr."
+      },
+      "ar": {
+        "title": "أولجين ترفع أجرة التاكسي من 19 الجاري والتعرفة الأساسية إلى 4,500 وون",
+        "excerpt": "أعلنت مقاطعة أولجين في شمال غيونغسانغ يوم 9 أنها سترفع أجرة سيارات الأجرة اعتبارا من يوم 19، مع تعديل التعرفة الأساسية من 4,000 إلى 4,500 وون.",
+        "body": "أعلنت مقاطعة أولجين في إقليم شمال غيونغسانغ يوم 9 أنها سترفع أجرة سيارات الأجرة اعتبارا من يوم 19. وبموجب هذا التعديل، سترتفع التعرفة الأساسية لسيارات الأجرة في أولجين من 4,000 وون إلى 4,500 وون. وتبلغ قيمة الزيادة 500 وون، على أن يبدأ تطبيقها من يوم 19. ومع إعلان المقاطعة خطة رفع الأجرة، سيخضع مستخدمو سيارات الأجرة في المنطقة للتعرفة الأساسية المعدلة بعد تاريخ التنفيذ. تستند هذه المعلومات إلى تقرير لوكالة يونهاب نقلا عن مقاطعة أولجين، والمصدر هو yna.co.kr."
+      },
+      "hi": {
+        "title": "उलजिन में 19 से टैक्सी किराया बढ़ेगा, बेस फेयर 4,500 वोन होगा",
+        "excerpt": "उत्तर ग्योंगसांग के उलजिन काउंटी ने 9 तारीख को बताया कि 19 तारीख से टैक्सी किराया बढ़ेगा और मूल किराया 4,000 वोन से 4,500 वोन किया जाएगा।",
+        "body": "उत्तर ग्योंगसांग प्रांत के उलजिन काउंटी ने 9 तारीख को घोषणा की कि 19 तारीख से टैक्सी किराया बढ़ाया जाएगा। इस समायोजन के तहत उलजिन क्षेत्र में टैक्सी का मूल किराया मौजूदा 4,000 वोन से बढ़कर 4,500 वोन हो जाएगा। वृद्धि 500 वोन की है और यह 19 तारीख से लागू होगी। उलजिन काउंटी द्वारा किराया वृद्धि की जानकारी दिए जाने के बाद क्षेत्र के टैक्सी उपयोगकर्ताओं पर लागू तिथि के बाद बदला हुआ मूल किराया लगेगा। यह जानकारी उलजिन काउंटी के हवाले से योनहाप न्यूज की रिपोर्ट पर आधारित है; स्रोत yna.co.kr है।"
+      },
+      "id": {
+        "title": "Tarif Taksi Uljin Naik Mulai 19, Tarif Dasar Jadi 4.500 Won",
+        "excerpt": "Kabupaten Uljin di Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan naik mulai tanggal 19, dengan tarif dasar disesuaikan dari 4.000 menjadi 4.500 won.",
+        "body": "Kabupaten Uljin di Provinsi Gyeongsang Utara menyatakan pada tanggal 9 bahwa tarif taksi akan dinaikkan mulai tanggal 19. Melalui penyesuaian ini, tarif dasar taksi di wilayah Uljin akan naik dari 4.000 won menjadi 4.500 won. Kenaikannya sebesar 500 won dan mulai berlaku pada tanggal 19. Setelah Pemerintah Kabupaten Uljin mengumumkan rencana kenaikan tarif, pengguna taksi di wilayah tersebut akan dikenai tarif dasar yang telah berubah setelah tanggal penerapan. Informasi ini berdasarkan laporan Yonhap News yang mengutip Kabupaten Uljin; sumbernya yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9d7da430158f",
+    "slug": "전남도-지역혁신-선도기업-육성사업-국비-71억-확보-707971",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T03:06:53.317Z",
+    "updatedAt": "2026-05-09T03:06:53.317Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508134900054",
+    "titleFingerprint": "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+    "dedupKeys": [
+      "9d7da430158f252b49df2b4f0ba8fb0655ed0c72",
+      "608ba3f4f580f3f7a72cdb62e45575a9b080dc1a",
+      "79eb7626dcc77a8defcd5e21e6ca67ca3d26273f"
+    ],
+    "imageUrl": "/images/articles/9d7da430158f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "전남도, 2026 지역혁신 선도기업 R&D 국비 71억 확보…중소기업 육성 탄력",
+        "excerpt": "전남도는 중소벤처기업부의 2026년 지역혁신선도기업육성(R&D) 사업에 선정돼 국비 71억원을 확보했다고 연합뉴스가 보도했다.",
+        "body": "전남도는 중소벤처기업부가 추진하는 ‘2026년 지역혁신선도기업육성(R&D)’ 사업에 선정돼 국비 71억원을 확보했다. 이번 선정은 전남 지역 기업 육성을 위한 연구개발 지원 사업과 관련된 것으로, 전남도는 국가 재원을 바탕으로 지역혁신 선도기업 육성 기반을 마련하게 됐다. 확보된 국비 규모는 71억원이다. 지역혁신선도기업육성 사업은 지역의 혁신 역량을 갖춘 기업을 지원하는 R&D 성격의 사업으로 소개됐다. 전남도는 이번 국비 확보를 통해 지역 기업 지원과 산업 경쟁력 강화에 필요한 재정 기반을 더하게 됐다. 출처는 yna.co.kr이며, 연합뉴스 형민우 기자 보도를 인용했다."
+      },
+      "en": {
+        "title": "Jeonnam Secures 7.1 Billion Won in State Funds for 2026 Regional Innovation R&D",
+        "excerpt": "South Jeolla Province was selected for the Ministry of SMEs and Startups’ 2026 Regional Innovation Leading Company Development R&D program, securing 7.1 billion won in national funding, Yonhap reported.",
+        "body": "South Jeolla Province has secured 7.1 billion won in national funding after being selected for the Ministry of SMEs and Startups’ “2026 Regional Innovation Leading Company Development (R&D)” program. The selection relates to a research and development support project aimed at fostering companies in the Jeonnam region. With the state funding, the province has gained a financial basis for nurturing regional innovation-leading firms. The confirmed amount is 7.1 billion won. The program was introduced as an R&D initiative supporting companies with regional innovation capacity. The funding is expected to strengthen the province’s fiscal foundation for local business support and industrial competitiveness. Source: yna.co.kr, citing Yonhap News reporter Hyung Min-woo."
+      },
+      "ja": {
+        "title": "全羅南道、2026年地域革新先導企業R&Dで国費71億ウォン確保",
+        "excerpt": "全羅南道は中小ベンチャー企業部の2026年地域革新先導企業育成（R&D）事業に選定され、国費71億ウォンを確保したと聯合ニュースが報じた。",
+        "body": "全羅南道は、中小ベンチャー企業部が進める「2026年地域革新先導企業育成（R&D）」事業に選定され、国費71億ウォンを確保した。今回の選定は、全羅南道地域の企業育成に向けた研究開発支援事業に関するものだ。これにより同道は、国の財源を基に地域革新先導企業を育成するための基盤を整えることになった。確保した国費の規模は71億ウォン。地域革新先導企業育成事業は、地域の革新力を備えた企業を支援するR&D性格の事業として紹介された。今回の国費確保により、地域企業支援と産業競争力強化に必要な財政基盤が加わる。出典はyna.co.krで、聯合ニュースのヒョン・ミンウ記者の報道を引用した。"
+      },
+      "zh": {
+        "title": "全南道获2026区域创新领军企业R&D国费71亿韩元支持",
+        "excerpt": "韩联社报道称，全南道入选中小风险企业部2026年区域创新领军企业培育（R&D）项目，获得国费71亿韩元。",
+        "body": "全南道入选中小风险企业部推进的“2026年区域创新领军企业培育（R&D）”项目，获得国费71亿韩元。此次入选与支持全南地区企业培育的研发项目有关，全南道将以国家财政资金为基础，建立培育区域创新领军企业的支撑条件。此次确保的国费规模为71亿韩元。区域创新领军企业培育项目被介绍为一项R&D性质的项目，旨在支持具备区域创新能力的企业。通过此次国费 확보，全南道将为支持地区企业和增强产业竞争力补充所需财政基础。来源为yna.co.kr，引用韩联社记者Hyung Min-woo的报道。"
+      },
+      "es": {
+        "title": "Jeonnam obtiene 7.100 millones de wones para I+D de empresas líderes regionales",
+        "excerpt": "Jeonnam fue seleccionada para el programa 2026 de desarrollo de empresas líderes en innovación regional del Ministerio de Pymes y Startups y obtuvo 7.100 millones de wones, informó Yonhap.",
+        "body": "La provincia de Jeonnam fue seleccionada para el programa “Desarrollo de Empresas Líderes en Innovación Regional 2026 (I+D)” impulsado por el Ministerio de Pymes y Startups, con lo que aseguró 7.100 millones de wones en fondos estatales. La selección está vinculada a un proyecto de apoyo a la investigación y desarrollo para fomentar empresas en la región. Con estos recursos nacionales, Jeonnam contará con una base financiera para impulsar empresas líderes en innovación regional. El monto confirmado es de 7.100 millones de wones. El programa fue presentado como una iniciativa de I+D que apoya a empresas con capacidad de innovación local. La financiación añade base fiscal para el apoyo empresarial regional y la competitividad industrial. Fuente: yna.co.kr, citando a Hyung Min-woo de Yonhap."
+      },
+      "pt": {
+        "title": "Jeonnam garante 7,1 bilhões de won para P&D de empresas líderes em inovação regional",
+        "excerpt": "Jeonnam foi selecionada para o programa de 2026 de desenvolvimento de empresas líderes em inovação regional do Ministério das PMEs e Startups e garantiu 7,1 bilhões de won, informou a Yonhap.",
+        "body": "A província de Jeonnam foi selecionada para o programa “Desenvolvimento de Empresas Líderes em Inovação Regional 2026 (P&D)”, promovido pelo Ministério das PMEs e Startups, e garantiu 7,1 bilhões de won em recursos nacionais. A seleção está relacionada a um projeto de apoio à pesquisa e desenvolvimento voltado ao fomento de empresas na região. Com esses recursos, Jeonnam passa a contar com uma base financeira para cultivar empresas líderes em inovação regional. O valor confirmado é de 7,1 bilhões de won. O programa foi apresentado como uma iniciativa de P&D que apoia empresas com capacidade de inovação regional. O financiamento reforça a base fiscal para apoio a empresas locais e competitividade industrial. Fonte: yna.co.kr, com base em reportagem de Hyung Min-woo da Yonhap."
+      },
+      "de": {
+        "title": "Jeonnam sichert 7,1 Milliarden Won für regionale Innovationsführer im R&D-Programm",
+        "excerpt": "Jeonnam wurde für das R&D-Programm 2026 zur Förderung regionaler Innovationsführer des Ministeriums für KMU und Startups ausgewählt und erhält 7,1 Milliarden Won, berichtete Yonhap.",
+        "body": "Die Provinz Jeonnam wurde für das vom Ministerium für KMU und Startups geförderte Programm „Entwicklung regionaler Innovationsführer 2026 (R&D)“ ausgewählt und hat damit 7,1 Milliarden Won an staatlichen Mitteln gesichert. Die Auswahl steht im Zusammenhang mit einem Forschungs- und Entwicklungsprojekt zur Förderung von Unternehmen in der Region Jeonnam. Mit den nationalen Mitteln erhält die Provinz eine finanzielle Grundlage für die Entwicklung regionaler innovationsführender Unternehmen. Der bestätigte Betrag liegt bei 7,1 Milliarden Won. Das Programm wurde als R&D-Initiative beschrieben, die Unternehmen mit regionaler Innovationskraft unterstützt. Die Mittel stärken die finanzielle Basis für regionale Unternehmensförderung und industrielle Wettbewerbsfähigkeit. Quelle: yna.co.kr, unter Berufung auf Yonhap-Reporter Hyung Min-woo."
+      },
+      "fr": {
+        "title": "Jeonnam obtient 7,1 milliards de wons pour la R&D des entreprises innovantes régionales",
+        "excerpt": "Jeonnam a été sélectionnée pour le programme 2026 de développement des entreprises leaders de l’innovation régionale du ministère des PME et Startups et obtient 7,1 milliards de wons, selon Yonhap.",
+        "body": "La province de Jeonnam a été sélectionnée pour le programme « Développement des entreprises leaders de l’innovation régionale 2026 (R&D) » mené par le ministère des PME et Startups, ce qui lui permet d’obtenir 7,1 milliards de wons de financement national. Cette sélection concerne un projet de soutien à la recherche et au développement destiné à favoriser les entreprises de la région. Grâce à ces fonds publics, Jeonnam dispose d’une base financière pour développer des entreprises leaders de l’innovation régionale. Le montant confirmé est de 7,1 milliards de wons. Le programme est présenté comme une initiative de R&D soutenant les entreprises dotées de capacités d’innovation régionales. Ce financement renforce la base budgétaire nécessaire au soutien des entreprises locales et à la compétitivité industrielle. Source : yna.co.kr, citant le reportage de Hyung Min-woo de Yonhap."
+      },
+      "ar": {
+        "title": "جولا الجنوبية تؤمن 7.1 مليار وون لبرنامج بحث وتطوير لشركات الابتكار الإقليمي",
+        "excerpt": "اختيرت مقاطعة جولا الجنوبية لبرنامج 2026 لتنمية الشركات الرائدة في الابتكار الإقليمي التابع لوزارة الشركات الصغيرة والناشئة، وحصلت على 7.1 مليار وون، بحسب يونهاب.",
+        "body": "اختيرت مقاطعة جولا الجنوبية لبرنامج “تنمية الشركات الرائدة في الابتكار الإقليمي لعام 2026 (بحث وتطوير)” الذي تديره وزارة الشركات الصغيرة والمتوسطة والناشئة، وبذلك ضمنت تمويلا حكوميا قدره 7.1 مليار وون. يرتبط هذا الاختيار بمشروع دعم للبحث والتطوير يهدف إلى تنمية الشركات في منطقة جولا الجنوبية. وبفضل التمويل الوطني، حصلت المقاطعة على أساس مالي لرعاية الشركات الرائدة في الابتكار الإقليمي. ويبلغ حجم التمويل المؤكد 7.1 مليار وون. ووصفت المبادرة بأنها برنامج بحث وتطوير يدعم الشركات ذات القدرة الابتكارية الإقليمية. ومن شأن هذا التمويل أن يضيف قاعدة مالية لدعم الشركات المحلية وتعزيز التنافسية الصناعية. المصدر: yna.co.kr، نقلا عن تقرير مراسل يونهاب هيونغ مين وو."
+      },
+      "hi": {
+        "title": "जिओन्नम को क्षेत्रीय नवाचार अग्रणी कंपनियों के R&D के लिए 7.1 अरब वॉन मिले",
+        "excerpt": "योनहाप के अनुसार, जिओन्नम प्रांत को SMEs और Startups मंत्रालय के 2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास R&D कार्यक्रम में चुना गया और 7.1 अरब वॉन की राष्ट्रीय निधि मिली।",
+        "body": "जिओन्नम प्रांत को SMEs और Startups मंत्रालय द्वारा संचालित “2026 क्षेत्रीय नवाचार अग्रणी कंपनी विकास (R&D)” कार्यक्रम के लिए चुना गया है, जिससे उसे 7.1 अरब वॉन की राष्ट्रीय निधि मिली है। यह चयन जिओन्नम क्षेत्र की कंपनियों को विकसित करने से जुड़े अनुसंधान और विकास सहायता कार्यक्रम से संबंधित है। इस सरकारी वित्तपोषण के आधार पर प्रांत को क्षेत्रीय नवाचार अग्रणी कंपनियों के विकास के लिए वित्तीय आधार मिला है। सुनिश्चित राशि 7.1 अरब वॉन है। इस कार्यक्रम को क्षेत्रीय नवाचार क्षमता वाली कंपनियों का समर्थन करने वाली R&D पहल के रूप में पेश किया गया। यह निधि स्थानीय कंपनियों के समर्थन और औद्योगिक प्रतिस्पर्धा को मजबूत करने के लिए आवश्यक वित्तीय आधार जोड़ेगी। स्रोत: yna.co.kr, योनहाप के रिपोर्टर Hyung Min-woo की रिपोर्ट के हवाले से।"
+      },
+      "id": {
+        "title": "Jeonnam Raih Dana Negara 7,1 Miliar Won untuk R&D Perusahaan Inovasi Daerah",
+        "excerpt": "Jeonnam terpilih dalam program 2026 pengembangan perusahaan pemimpin inovasi daerah Kementerian UKM dan Startup, sehingga memperoleh dana negara 7,1 miliar won, menurut Yonhap.",
+        "body": "Provinsi Jeonnam terpilih dalam program “Pengembangan Perusahaan Pemimpin Inovasi Daerah 2026 (R&D)” yang dijalankan Kementerian UKM dan Startup, sehingga mengamankan dana negara sebesar 7,1 miliar won. Seleksi ini terkait dengan proyek dukungan penelitian dan pengembangan untuk membina perusahaan di wilayah Jeonnam. Dengan dana nasional tersebut, provinsi ini memperoleh dasar finansial untuk mengembangkan perusahaan pemimpin inovasi daerah. Jumlah dana yang dipastikan adalah 7,1 miliar won. Program ini diperkenalkan sebagai inisiatif R&D yang mendukung perusahaan dengan kapasitas inovasi regional. Pendanaan tersebut menambah dasar fiskal untuk dukungan perusahaan lokal dan penguatan daya saing industri. Sumber: yna.co.kr, mengutip laporan reporter Yonhap Hyung Min-woo."
+      }
+    }
+  },
+  {
     "id": "7718e588bdae",
     "slug": "고점론-시기상조-코스피-영업익-60-넘는-삼성전자sk하이닉스-주가는-45에-불과-879861",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Indikator Ekonomi 9 Mei, Ringkasan Berdasarkan Sumber Donga RSS",
         "excerpt": "Berdasarkan artikel rss.donga.com ‘Ekonomi Dilihat dari Indikator: 9 Mei’, informasi yang tersedia mengonfirmasi tanggal, judul, dan sumber laporan.",
         "body": "Pada 9 Mei, rss.donga.com memuat artikel terkait indikator ekonomi berjudul ‘Ekonomi Dilihat dari Indikator: 9 Mei’. Informasi yang diberikan dalam materi asli mencakup judul dan sumber, tanpa ringkasan terpisah. Karena itu, tulisan ini hanya merangkum fakta yang dapat dikonfirmasi: tanggal, sifat artikel, dan asal sumbernya. Konten tersebut dapat diklasifikasikan sebagai artikel yang melihat pergerakan ekonomi melalui indikator, tetapi informasi asli yang tersedia tidak mencakup nama indikator tertentu, angka, atau analisis. Pembaca yang memeriksa pemberitaan indikator ekonomi untuk 9 Mei perlu merujuk juga pada sumber aslinya. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "6494bec897d7",
-    "slug": "토스증권-한국콜마-실적-반토막-표기-오류투자자들-매도-등-혼란-537070",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T16:20:05.631Z",
-    "updatedAt": "2026-05-08T16:20:05.631Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886980/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133886980/1",
-    "titleFingerprint": "85b7a5c2054d89869a640a7d00da63cd31d0778b",
-    "dedupKeys": [
-      "6494bec897d70d2cc981e254dec022484486fa8a",
-      "85b7a5c2054d89869a640a7d00da63cd31d0778b",
-      "996c4d4ed03494a671c68e34bafe8d66d9f6f4ed"
-    ],
-    "imageUrl": "/images/articles/6494bec897d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토스증권, 한국콜마 1분기 실적 ‘반토막’ 표기 오류로 투자자 혼선",
-        "excerpt": "토스증권이 8일 MTS에 한국콜마 1분기 실적을 연결 기준이 아닌 별도 기준으로 낮게 표기해 장중 투자자 매도 혼선 논란이 불거졌다.",
-        "body": "토스증권이 8일 자사 모바일트레이딩시스템(MTS)에 한국콜마 1분기 실적을 실제 연결 기준보다 낮은 별도 기준으로 표기해 투자자 혼선이 발생했다. 금융투자업계에 따르면 한국콜마는 1분기 연결 기준 매출액 7280억 원으로 분기 최대 매출을 기록했지만, 토스증권 MTS에는 약 절반 수준인 3430억 원으로 표시됐다. 토스증권은 오류를 인지한 뒤 오전 중 해당 정보를 수정했다. 다만 실적이 장중 발표된 만큼 잘못된 수치를 본 일부 투자자가 매도에 나섰다면 피해를 봤을 수 있다는 지적이 나온다. 토스증권은 연결 기준이 아닌 개별 기준 데이터가 일시 표기돼 고객 혼선이 있었다며 유감을 표하고 공시 데이터 검증 절차를 강화하겠다고 밝혔다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Toss Securities Error Shows Kolmar Korea Q1 Sales Nearly Halved, Confusing Investors",
-        "excerpt": "Toss Securities displayed Kolmar Korea’s first-quarter results on May 8 using separate rather than consolidated figures, causing intraday investor confusion.",
-        "body": "Toss Securities caused investor confusion on May 8 after its mobile trading system displayed Kolmar Korea’s first-quarter earnings using separate financial figures instead of consolidated results. According to the financial investment industry, Kolmar Korea posted consolidated first-quarter revenue of 728 billion won, its highest quarterly sales, but Toss Securities’ MTS showed 343 billion won, roughly half the actual consolidated figure. Toss Securities corrected the data later that morning after recognizing the error. Because the earnings were released during trading hours, concerns were raised that investors who sold after seeing the incorrect figure may have suffered losses. Toss Securities said the data was temporarily shown on an individual basis rather than a consolidated basis, apologized for the confusion, and said it would strengthen disclosure data verification procedures. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "トス証券、韓国コルマー1Q実績を半減表示する誤表記で投資家混乱",
-        "excerpt": "トス証券は8日、MTSで韓国コルマーの1四半期実績を連結ではなく個別基準で低く表示し、取引時間中の投資家混乱を招いた。",
-        "body": "トス証券は8日、自社モバイル取引システム（MTS）で韓国コルマーの第1四半期業績を、実際の連結基準ではなく個別基準で低く表示し、投資家に混乱を与えた。金融投資業界によると、韓国コルマーは第1四半期の連結売上高が7280億ウォンとなり四半期ベースで過去最高を記録したが、トス証券MTSには約半分の3430億ウォンと表示された。トス証券は誤りを認識し、午前中に修正した。ただし業績発表が取引時間中だったため、誤った数値を見て売却した投資家が損害を受けた可能性があるとの指摘が出ている。同社は連結ではなく個別基準のデータが一時表示され顧客混乱が生じたとして遺憾を示し、公示データ検証手続きを強化するとした。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "Toss证券误将韩国科玛一季度业绩显示近乎腰斩，引发投资者混乱",
-        "excerpt": "Toss证券8日在MTS上将韩国科玛一季度业绩误按个别口径而非合并口径显示，数值偏低，引发盘中投资者混乱。",
-        "body": "Toss证券8日在其移动交易系统（MTS）上，将韩国科玛第一季度业绩误以个别财务口径而非合并口径显示，导致投资者混乱。据金融投资业界消息，韩国科玛第一季度合并口径销售额为7280亿韩元，创下季度最高销售额，但Toss证券MTS上显示为约一半的3430亿韩元。Toss证券发现错误后，于当天上午进行了修正。不过，由于业绩是在交易时段内发布，有观点指出，若投资者看到错误业绩后选择卖出，可能已受到损失。Toss证券表示，韩国科玛今年第一季度业绩数据曾短暂以个别口径而非合并口径显示，造成客户混淆，对此表示遗憾，并称将加强公告数据验证程序。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Toss Securities mostró casi a la mitad los resultados de Kolmar Korea y causó confusión",
-        "excerpt": "Toss Securities publicó el 8 de mayo en su MTS los resultados trimestrales de Kolmar Korea con cifras individuales y no consolidadas, generando confusión.",
-        "body": "Toss Securities generó confusión entre inversionistas el 8 de mayo al mostrar en su sistema móvil de negociación (MTS) los resultados del primer trimestre de Kolmar Korea con cifras individuales en lugar de consolidadas. Según la industria de inversión financiera, Kolmar Korea registró ingresos consolidados de 728.000 millones de wones en el primer trimestre, su mayor venta trimestral, pero el MTS de Toss Securities mostró 343.000 millones de wones, casi la mitad. La compañía corrigió la información durante la mañana tras detectar el error. Sin embargo, como los resultados se publicaron durante la sesión bursátil, se señala que los inversionistas que vendieron al ver la cifra incorrecta podrían haber sufrido perjuicios. Toss Securities lamentó la confusión causada por la visualización temporal de datos individuales y dijo que reforzará la verificación de datos de divulgación. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Toss Securities erra resultado da Kolmar Korea e mostra vendas quase pela metade",
-        "excerpt": "A Toss Securities exibiu em 8 de maio no MTS os resultados do 1º trimestre da Kolmar Korea por base individual, não consolidada, causando confusão.",
-        "body": "A Toss Securities causou confusão entre investidores em 8 de maio ao exibir em seu sistema móvel de negociação (MTS) os resultados do primeiro trimestre da Kolmar Korea com dados individuais, e não consolidados. Segundo o setor de investimentos financeiros, a Kolmar Korea registrou receita consolidada de 728 bilhões de wons no primeiro trimestre, o maior valor trimestral da empresa, mas o MTS da Toss Securities mostrou 343 bilhões de wons, cerca de metade do número consolidado. A corretora identificou o erro e corrigiu a informação ainda pela manhã. Como os resultados foram divulgados durante o pregão, há críticas de que investidores que venderam após ver o dado incorreto podem ter sofrido prejuízo. A Toss Securities lamentou a confusão e afirmou que reforçará os procedimentos de verificação de dados de divulgação. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Toss Securities zeigt Kolmar-Korea-Umsatz fast halbiert und sorgt für Anlegerverwirrung",
-        "excerpt": "Toss Securities wies am 8. Mai im MTS die Q1-Zahlen von Kolmar Korea fälschlich einzeln statt konsolidiert aus und löste im Handel Verwirrung aus.",
-        "body": "Toss Securities hat am 8. Mai in seinem mobilen Handelssystem (MTS) die Ergebnisse von Kolmar Korea für das erste Quartal fälschlich auf Einzelbasis statt auf konsolidierter Basis angezeigt und damit Anleger verwirrt. Nach Angaben der Finanzinvestmentbranche erzielte Kolmar Korea im ersten Quartal einen konsolidierten Umsatz von 728 Milliarden Won, den höchsten Quartalsumsatz des Unternehmens. Im MTS von Toss Securities wurden jedoch 343 Milliarden Won angezeigt, also etwa die Hälfte. Das Unternehmen erkannte den Fehler und korrigierte die Angabe noch am Vormittag. Da die Ergebnisse während der Handelszeit veröffentlicht wurden, wird darauf hingewiesen, dass Anleger, die nach der falschen Zahl verkauften, geschädigt worden sein könnten. Toss Securities bedauerte die Verwirrung und kündigte an, die Prüfverfahren für Offenlegungsdaten zu stärken. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Toss Securities affiche par erreur les résultats de Kolmar Korea presque divisés par deux",
-        "excerpt": "Toss Securities a indiqué le 8 mai sur son MTS les résultats du 1er trimestre de Kolmar Korea en base individuelle, non consolidée, semant la confusion.",
-        "body": "Toss Securities a semé la confusion parmi les investisseurs le 8 mai en affichant sur son système mobile de trading (MTS) les résultats du premier trimestre de Kolmar Korea sur une base individuelle plutôt que consolidée. Selon le secteur de l’investissement financier, Kolmar Korea a enregistré un chiffre d’affaires consolidé de 728 milliards de wons au premier trimestre, un record trimestriel, mais le MTS de Toss Securities indiquait 343 milliards de wons, soit environ la moitié. La société a reconnu l’erreur et corrigé l’information dans la matinée. Comme les résultats ont été publiés pendant la séance, certains estiment que les investisseurs ayant vendu après avoir vu le chiffre erroné ont pu subir un préjudice. Toss Securities a regretté la confusion et déclaré qu’elle renforcerait ses procédures de vérification des données publiées. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "توس سيكيوريتيز تعرض نتائج كولمار كوريا للربع الأول بنحو النصف وتربك المستثمرين",
-        "excerpt": "عرضت توس سيكيوريتيز في 8 مايو على نظامها للتداول عبر الهاتف نتائج كولمار كوريا للربع الأول وفق أساس منفرد لا موحد، ما أثار ارتباكا أثناء الجلسة.",
-        "body": "تسببت توس سيكيوريتيز في ارتباك بين المستثمرين في 8 مايو بعدما عرض نظامها للتداول عبر الهاتف المحمول نتائج كولمار كوريا للربع الأول وفق بيانات منفردة بدلا من البيانات الموحدة. وبحسب قطاع الاستثمار المالي، سجلت كولمار كوريا إيرادات موحدة قدرها 728 مليار وون في الربع الأول، وهو أعلى مستوى فصلي لها، لكن نظام توس سيكيوريتيز أظهر 343 مليار وون، أي نحو نصف الرقم الموحد. وأدركت الشركة الخطأ وصححت البيانات خلال الصباح. غير أن إعلان النتائج جرى أثناء ساعات التداول، ما أثار ملاحظات بأن مستثمرين باعوا بعد رؤية الرقم الخاطئ ربما تكبدوا ضررا. وقالت توس سيكيوريتيز إن بيانات الربع الأول ظهرت مؤقتا على أساس منفرد لا موحد، معربة عن أسفها للتشويش ومؤكدة أنها ستعزز إجراءات التحقق من بيانات الإفصاح. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Toss Securities ने Kolmar Korea के Q1 नतीजे आधे दिखाए, निवेशकों में भ्रम",
-        "excerpt": "Toss Securities ने 8 मई को अपने MTS पर Kolmar Korea के पहली तिमाही नतीजे समेकित के बजाय अलग आधार पर कम दिखाए, जिससे कारोबार के दौरान भ्रम हुआ।",
-        "body": "Toss Securities ने 8 मई को अपने मोबाइल ट्रेडिंग सिस्टम (MTS) पर Kolmar Korea के पहली तिमाही के नतीजे समेकित आधार के बजाय अलग आधार पर दिखाए, जिससे निवेशकों में भ्रम पैदा हुआ। वित्तीय निवेश उद्योग के अनुसार, Kolmar Korea ने पहली तिमाही में समेकित आधार पर 728 अरब वॉन का राजस्व दर्ज किया, जो उसका तिमाही रिकॉर्ड था, लेकिन Toss Securities के MTS पर यह आंकड़ा करीब आधा, 343 अरब वॉन दिखा। कंपनी ने गलती पहचानने के बाद सुबह में इसे सुधार दिया। हालांकि नतीजे कारोबार के दौरान जारी हुए थे, इसलिए यह सवाल उठा कि गलत आंकड़ा देखकर बेचने वाले निवेशकों को नुकसान हुआ हो सकता है। Toss Securities ने कहा कि डेटा अस्थायी रूप से समेकित के बजाय व्यक्तिगत आधार पर दिखा, ग्राहक भ्रम के लिए खेद जताया और प्रकटीकरण डेटा सत्यापन प्रक्रिया मजबूत करने की बात कही। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Toss Securities Salah Tampilkan Kinerja Kolmar Korea Hampir Separuh, Investor Bingung",
-        "excerpt": "Toss Securities pada 8 Mei menampilkan kinerja kuartal I Kolmar Korea di MTS dengan basis individual, bukan konsolidasi, sehingga memicu kebingungan.",
-        "body": "Toss Securities memicu kebingungan investor pada 8 Mei setelah sistem perdagangan mobile (MTS) miliknya menampilkan kinerja kuartal pertama Kolmar Korea berdasarkan angka individual, bukan konsolidasi. Menurut industri investasi keuangan, Kolmar Korea mencatat pendapatan konsolidasi kuartal pertama sebesar 728 miliar won, rekor penjualan kuartalan tertinggi, tetapi MTS Toss Securities menampilkan 343 miliar won, sekitar setengahnya. Toss Securities memperbaiki data tersebut pada pagi hari setelah mengetahui kesalahan. Namun, karena kinerja diumumkan saat perdagangan berlangsung, muncul kritik bahwa investor yang menjual setelah melihat angka keliru itu bisa mengalami kerugian. Toss Securities menyatakan data sempat tampil dalam basis individual, meminta maaf atas kebingungan pelanggan, dan akan memperkuat prosedur verifikasi data keterbukaan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "654e4ecf1eda",
-    "slug": "300만-훌쩍-넘긴-프리더스트-언더다크-디펜스-다음-목표는-중국-html5-시장-365273",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T16:19:01.918Z",
-    "updatedAt": "2026-05-08T16:19:01.918Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/It/article/all/20260508/133887001/1",
-    "canonicalUrl": "https://www.donga.com/news/It/article/all/20260508/133887001/1",
-    "titleFingerprint": "f04e0932b0c0d65cb631311116799962fe56d653",
-    "dedupKeys": [
-      "654e4ecf1edab109371366d6be08d1180208c65d",
-      "f04e0932b0c0d65cb631311116799962fe56d653",
-      "95bf06501de37c311f0d6f0d5931b1866ed0e7df"
-    ],
-    "imageUrl": "/images/articles/654e4ecf1eda.jpg",
-    "i18n": {
-      "ko": {
-        "title": "언더다크: 디펜스 300만 다운로드 돌파, 프리더스트 중국 HTML5 시장 겨냥",
-        "excerpt": "프리더스트의 모바일 디펜스 게임 ‘언더다크: 디펜스’가 지난해 300만 다운로드를 넘기며 소규모 개발팀의 빠른 개발과 지표 중심 운영 성과를 입증했다.",
-        "body": "프리더스트의 모바일 디펜스 게임 ‘언더다크: 디펜스’가 지난해 기준 300만 다운로드를 넘어섰다. 정승호 대표와 디자이너 등 2명이 약 6개월 동안 개발해 2024년 7월 서비스에 돌입한 작품으로, 인터뷰 당시에는 350만 다운로드에 가까워지고 있었다. 정 대표에 따르면 개발은 2024년 1월 1일 시작됐으며, 장르를 새롭게 해석한 기획과 독특한 아트 스타일이 이용자 몰입을 이끈 요소로 꼽혔다. 출시 이후에는 지표 기반 마케팅 구조를 구축해 안정적인 서비스 기반을 마련했다. 프리더스트는 다음 목표로 중국 HTML5 시장을 제시했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Underdark: Defense tops 3 million downloads as Freedust targets China HTML5 market",
-        "excerpt": "Freedust’s mobile defense game Underdark: Defense surpassed 3 million downloads last year, showing the results of a small team’s fast development and metrics-led operations.",
-        "body": "Freedust’s mobile defense game Underdark: Defense surpassed 3 million downloads as of last year. The title was developed by CEO Seung-ho Jung and one designer over about six months and entered service in July 2024; at the time of the interview, downloads were approaching 3.5 million. According to Jung, development began on January 1, 2024. The project started with a reinterpretation of the defense genre, while its distinctive art style was cited as a key factor drawing users into the game. After launch, the team built a metrics-based marketing structure and secured a stable service foundation. Freedust named China’s HTML5 market as its next target. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "『Underdark: Defense』300万DL突破、Freedustが中国HTML5市場を次の目標に",
-        "excerpt": "Freedustのモバイルディフェンスゲーム『Underdark: Defense』は昨年300万DLを超え、小規模チームの迅速な開発と指標重視運営の成果を示した。",
-        "body": "Freedustのモバイルディフェンスゲーム『Underdark: Defense』は、昨年時点で300万ダウンロードを突破した。鄭承浩代表とデザイナーの2人が約6カ月で開発し、2024年7月にサービスを開始した作品で、インタビュー時点では350万ダウンロードに近づいていた。鄭代表によると、開発は2024年1月1日に始まった。出発点はジャンルの再解釈で、独特のアートスタイルがユーザーをゲームに引き込む要素として挙げられた。リリース後は指標に基づくマーケティング構造を構築し、安定したサービス基盤を整えた。Freedustは次の目標として中国HTML5市場を掲げている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "《Underdark: Defense》下载量破300万，Freedust瞄准中国HTML5市场",
-        "excerpt": "Freedust移动防御游戏《Underdark: Defense》去年下载量突破300万，展现小团队快速开发与数据化运营带来的成果。",
-        "body": "Freedust的移动防御游戏《Underdark: Defense》截至去年下载量已突破300万。这款作品由郑承浩代表和一名设计师两人用约6个月开发，并于2024年7月开始服务；在接受采访时，下载量已接近350万。郑代表表示，游戏开发始于2024年1月1日。项目的起点是对防御类型的重新解读，其独特美术风格也被认为是吸引用户沉浸游戏的重要因素。上线后，团队建立了以数据指标为基础的营销结构，形成较稳定的服务基础。Freedust将下一目标指向中国HTML5市场。来源：rss.donga.com"
-      },
-      "es": {
-        "title": "Underdark: Defense supera 3 millones de descargas y Freedust mira al mercado HTML5 chino",
-        "excerpt": "El juego móvil de defensa Underdark: Defense, de Freedust, superó los 3 millones de descargas el año pasado gracias a un desarrollo rápido y una operación basada en métricas.",
-        "body": "El juego móvil de defensa Underdark: Defense, de Freedust, superó los 3 millones de descargas el año pasado. La obra fue desarrollada en unos seis meses por el CEO Seung-ho Jung y un diseñador, y comenzó su servicio en julio de 2024; al momento de la entrevista se acercaba a los 3,5 millones de descargas. Según Jung, el desarrollo empezó el 1 de enero de 2024. El proyecto partió de una reinterpretación del género de defensa, y su estilo artístico distintivo fue señalado como un factor que ayudó a atraer a los usuarios. Tras el lanzamiento, el equipo construyó una estructura de marketing basada en indicadores y consolidó una base de servicio estable. Freedust plantea ahora como siguiente objetivo el mercado HTML5 de China. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Underdark: Defense passa de 3 milhões de downloads e Freedust mira mercado HTML5 chinês",
-        "excerpt": "O jogo mobile de defesa Underdark: Defense, da Freedust, superou 3 milhões de downloads no ano passado, resultado de uma equipe pequena, ágil e guiada por métricas.",
-        "body": "O jogo mobile de defesa Underdark: Defense, da Freedust, superou 3 milhões de downloads no ano passado. O título foi desenvolvido em cerca de seis meses pelo CEO Seung-ho Jung e um designer, entrando em serviço em julho de 2024; no momento da entrevista, aproximava-se de 3,5 milhões de downloads. Segundo Jung, o desenvolvimento começou em 1º de janeiro de 2024. O ponto de partida foi uma releitura do gênero de defesa, e o estilo artístico distinto foi citado como fator que ajudou a envolver os usuários. Após o lançamento, a equipe montou uma estrutura de marketing baseada em indicadores e estabeleceu uma base de serviço estável. A Freedust aponta o mercado HTML5 da China como próximo objetivo. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Underdark: Defense knackt 3 Millionen Downloads, Freedust zielt auf Chinas HTML5-Markt",
-        "excerpt": "Freedusts Mobile-Defense-Spiel Underdark: Defense überschritt im vergangenen Jahr 3 Millionen Downloads und zeigt den Erfolg schneller Entwicklung und datenbasierter Arbeit.",
-        "body": "Freedusts Mobile-Defense-Spiel Underdark: Defense hat im vergangenen Jahr die Marke von 3 Millionen Downloads überschritten. Das Spiel wurde von CEO Seung-ho Jung und einem Designer in rund sechs Monaten entwickelt und ging im Juli 2024 in den Dienst; zum Zeitpunkt des Interviews näherte es sich 3,5 Millionen Downloads. Laut Jung begann die Entwicklung am 1. Januar 2024. Ausgangspunkt war eine Neuinterpretation des Defense-Genres, während der eigenständige Kunststil als Faktor genannt wurde, der Nutzer stärker in das Spiel hineinzieht. Nach dem Start baute das Team eine kennzahlenbasierte Marketingstruktur auf und schuf eine stabile Servicebasis. Als nächstes Ziel nennt Freedust den chinesischen HTML5-Markt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Underdark: Defense dépasse 3 millions de téléchargements, Freedust vise le HTML5 chinois",
-        "excerpt": "Le jeu mobile de défense Underdark: Defense de Freedust a dépassé 3 millions de téléchargements l’an dernier, porté par une petite équipe rapide et une gestion par les données.",
-        "body": "Le jeu mobile de défense Underdark: Defense, développé par Freedust, a dépassé les 3 millions de téléchargements l’an dernier. Le titre a été conçu en environ six mois par le PDG Seung-ho Jung et un designer, avant un lancement en juillet 2024; au moment de l’entretien, il approchait les 3,5 millions de téléchargements. Selon Jung, le développement a commencé le 1er janvier 2024. Le projet est parti d’une réinterprétation du genre défense, et son style artistique distinctif a été cité comme un élément favorisant l’immersion des utilisateurs. Après la sortie, l’équipe a mis en place une structure marketing fondée sur les indicateurs et assuré une base de service stable. Freedust désigne désormais le marché HTML5 chinois comme prochain objectif. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "Underdark: Defense يتجاوز 3 ملايين تنزيل وفريداست تستهدف سوق HTML5 في الصين",
-        "excerpt": "تجاوزت لعبة الدفاع المحمولة Underdark: Defense من فريداست 3 ملايين تنزيل العام الماضي، في نتيجة تعكس سرعة فريق صغير وإدارته المعتمدة على المؤشرات.",
-        "body": "تجاوزت لعبة الدفاع المحمولة Underdark: Defense من شركة فريداست 3 ملايين تنزيل حتى العام الماضي. طوّرها الرئيس التنفيذي جونغ سونغ هو ومصمم واحد خلال نحو ستة أشهر، وبدأت الخدمة في يوليو 2024؛ وعند إجراء المقابلة كانت تقترب من 3.5 ملايين تنزيل. وبحسب جونغ، بدأ التطوير في 1 يناير 2024. انطلقت اللعبة من إعادة تفسير لنوع ألعاب الدفاع، كما عُدّ أسلوبها الفني المميز عاملا جذب المستخدمين إلى التجربة. وبعد الإطلاق، بنى الفريق هيكلا تسويقيا قائما على المؤشرات، ما وفر قاعدة خدمة مستقرة. وتطرح فريداست سوق HTML5 في الصين هدفا تاليا لها. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Underdark: Defense ने 30 लाख डाउनलोड पार किए, Freedust की नजर चीन HTML5 बाजार पर",
-        "excerpt": "Freedust के मोबाइल डिफेंस गेम Underdark: Defense ने पिछले साल 30 लाख डाउनलोड पार किए, जिससे छोटी टीम के तेज विकास और मेट्रिक्स आधारित संचालन का असर दिखा।",
-        "body": "Freedust के मोबाइल डिफेंस गेम Underdark: Defense ने पिछले साल तक 30 लाख डाउनलोड का आंकड़ा पार कर लिया। इसे सीईओ Seung-ho Jung और एक डिजाइनर ने लगभग छह महीने में विकसित किया और जुलाई 2024 में सेवा शुरू की; इंटरव्यू के समय यह 35 लाख डाउनलोड के करीब पहुंच रहा था। Jung के अनुसार विकास 1 जनवरी 2024 को शुरू हुआ था। गेम की शुरुआत डिफेंस शैली की नई व्याख्या से हुई, जबकि इसकी अलग आर्ट शैली को उपयोगकर्ताओं को खेल में खींचने वाला प्रमुख तत्व बताया गया। लॉन्च के बाद टीम ने संकेतकों पर आधारित मार्केटिंग संरचना बनाई और स्थिर सेवा आधार तैयार किया। Freedust ने अगला लक्ष्य चीन के HTML5 बाजार को बताया है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Underdark: Defense tembus 3 juta unduhan, Freedust bidik pasar HTML5 China",
-        "excerpt": "Game mobile defense Underdark: Defense dari Freedust melampaui 3 juta unduhan tahun lalu, menunjukkan hasil kerja cepat tim kecil dan operasi berbasis metrik.",
-        "body": "Game mobile defense Underdark: Defense dari Freedust telah melampaui 3 juta unduhan pada tahun lalu. Karya ini dikembangkan oleh CEO Seung-ho Jung dan satu desainer selama sekitar enam bulan, lalu mulai beroperasi pada Juli 2024; saat wawancara berlangsung, jumlah unduhan mendekati 3,5 juta. Menurut Jung, pengembangan dimulai pada 1 Januari 2024. Titik awalnya adalah penafsiran ulang genre defense, sementara gaya seni yang khas disebut sebagai faktor yang membuat pengguna tertarik masuk ke dalam game. Setelah peluncuran, tim membangun struktur pemasaran berbasis indikator dan menyiapkan dasar layanan yang stabil. Freedust kini menetapkan pasar HTML5 China sebagai target berikutnya. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "487ade3f69a6",
-    "slug": "삼성전자-노조-다시-협상-테이블로사후조정-절차-돌입-339691",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T16:18:07.626Z",
-    "updatedAt": "2026-05-08T16:18:07.626Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
-    "titleFingerprint": "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
-    "dedupKeys": [
-      "487ade3f69a6ae62696d17163f3d155b88eda8ba",
-      "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
-      "f2c180362d02d1fe7a98ee2a1fda6d68e39dd14a"
-    ],
-    "imageUrl": "/images/articles/487ade3f69a6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조, 사후조정 참여로 협상 재개…21일 총파업 예고는 유지",
-        "excerpt": "삼성전자 최대 노동조합인 초기업노조 삼성전자 지부가 8일 정부 요청에 따라 사후조정 절차에 참여하고 사측과 협상을 재개하겠다고 밝혔다.",
-        "body": "삼성전자 최대 노동조합인 초기업노조 삼성전자 지부가 8일 정부가 요청한 사후조정 절차에 참여해 사측과 협상을 재개하겠다고 밝혔다. 노조는 김도형 경기지방고용노동청장과 면담한 뒤 사측과 노사정 미팅을 진행했고, 이후 사후조정을 통한 협상 재개 방침을 공개했다. 노조는 노동부가 사안의 중대성을 인식하고 정부 차원의 교섭 지원을 약속했으며 사후조정을 강력히 권유했다고 설명했다. 초기업노조 삼성전자 지부가 교섭권과 체결권을 위임받아 대표로 절차를 진행했다. 최승호 지부 위원장은 조합원이 만족할 결과가 나오지 않으면 총파업에 나서겠다고 밝혔다. 노조는 21일 총파업을 예고한 상태다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics union to resume talks through post-mediation as strike date remains",
-        "excerpt": "Samsung Electronics’ largest union said on May 8 it will join the government-requested post-mediation process and resume negotiations with management.",
-        "body": "Samsung Electronics’ largest union, the Samsung Electronics branch of the Supra-Enterprise Union, said on May 8 that it will participate in the post-mediation process requested by the government and resume negotiations with management. The union made the announcement after meeting Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, and then holding a labor-management-government meeting with the company. It said the Labor Ministry recognized the seriousness of the matter, promised full government-level support for bargaining, and strongly recommended post-mediation. The branch said it was handling the process as the representative body after receiving delegated bargaining and signing authority. Branch chair Choi Seung-ho said the union would proceed with a general strike without hesitation if members are not satisfied with the outcome. The union has announced a general strike for May 21. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労組、事後調整参加で交渉再開へ…21日ゼネスト予告は維持",
-        "excerpt": "サムスン電子最大労組の超企業労組サムスン電子支部は8日、政府要請の事後調整手続きに参加し、会社側との交渉を再開すると明らかにした。",
-        "body": "サムスン電子最大労組である超企業労組サムスン電子支部は8日、政府が要請した事後調整手続きに参加し、会社側との交渉を再開すると発表した。労組は金度亨・京畿地方雇用労働庁長との面談後、会社側と労使政会合を行い、その後、事後調整を通じた交渉再開方針を明らかにした。労組は、労働部が今回の事案の重大性を認識し、政府レベルで交渉を全面的に支援すると約束したうえで、事後調整を強く勧めたと説明した。超企業労組サムスン電子支部は交渉権と締結権の委任を受け、代表として手続きを進めた。崔承浩支部委員長は、組合員が満足する結果が出なければ迷わずゼネストに入ると述べた。労組は21日のゼネストを予告している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会将通过事后调解重启谈判，21日总罢工预告仍在",
-        "excerpt": "三星电子最大工会超企业工会三星电子支部8日表示，将参加政府要求的事后调解程序，并与公司方面重启谈判。",
-        "body": "三星电子最大工会超企业工会三星电子支部8日表示，将参加政府要求的事后调解程序，并与公司方面重启谈判。工会在会见京畿地方雇佣劳动厅厅长金度亨后，又与公司方面举行劳资政会议，随后公布了通过事后调解重启谈判的方针。工会说明称，劳动部认识到本案的重要性，承诺在政府层面全力支持协商，并强烈建议启动事后调解。超企业工会三星电子支部表示，其已被委托谈判权和签署权，并作为代表推进相关程序。支部委员长崔承浩强调，如果无法取得让会员满意的结果，将毫不犹豫地发起总罢工。工会此前已预告将于21日举行总罢工。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Sindicato de Samsung Electronics retomará negociación con mediación posterior y mantiene huelga",
-        "excerpt": "El mayor sindicato de Samsung Electronics dijo el 8 de mayo que aceptará el proceso de mediación posterior solicitado por el Gobierno y reanudará las conversaciones.",
-        "body": "El mayor sindicato de Samsung Electronics, la filial de Samsung Electronics del sindicato supraempresarial, anunció el 8 de mayo que participará en el proceso de mediación posterior solicitado por el Gobierno y reanudará las negociaciones con la empresa. La organización hizo el anuncio tras reunirse con Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, y celebrar después una reunión laboral, empresarial y gubernamental con la compañía. El sindicato explicó que el Ministerio de Trabajo reconoció la gravedad del asunto, prometió apoyo pleno a nivel gubernamental para la negociación y recomendó firmemente la mediación posterior. La filial dijo que actúa como representante tras recibir la delegación del derecho de negociación y firma. Su presidente, Choi Seung-ho, afirmó que convocará una huelga general sin dudar si el resultado no satisface a los afiliados. La huelga general está prevista para el día 21. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Sindicato da Samsung Electronics retoma negociação por mediação posterior e mantém greve",
-        "excerpt": "O maior sindicato da Samsung Electronics afirmou em 8 de maio que aceitará o procedimento de mediação posterior pedido pelo governo e retomará as negociações.",
-        "body": "O maior sindicato da Samsung Electronics, a filial da Samsung Electronics do sindicato supraempresarial, informou em 8 de maio que participará do procedimento de mediação posterior solicitado pelo governo e retomará as negociações com a empresa. O anúncio veio após uma reunião com Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, seguida de um encontro entre sindicato, empresa e governo. Segundo o sindicato, o Ministério do Trabalho reconheceu a gravidade do caso, prometeu apoio integral do governo às negociações e recomendou fortemente a mediação posterior. A filial afirmou que conduz o processo como representante após receber a delegação dos direitos de negociação e assinatura. O presidente Choi Seung-ho disse que partirá para uma greve geral sem hesitar se o resultado não satisfizer os filiados. A greve geral está prevista para o dia 21. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaft nimmt Nachschlichtung an und verhandelt wieder",
-        "excerpt": "Die größte Gewerkschaft von Samsung Electronics erklärte am 8. Mai, sie werde am von der Regierung gewünschten Nachschlichtungsverfahren teilnehmen und Gespräche fortsetzen.",
-        "body": "Die größte Gewerkschaft von Samsung Electronics, die Samsung-Electronics-Sparte der überbetrieblichen Gewerkschaft, teilte am 8. Mai mit, dass sie am von der Regierung geforderten Nachschlichtungsverfahren teilnehmen und die Verhandlungen mit dem Unternehmen wieder aufnehmen werde. Die Gewerkschaft gab dies nach einem Treffen mit Kim Do-hyung, Leiter der regionalen Arbeitsbehörde Gyeonggi, und einer anschließenden Runde zwischen Arbeitnehmern, Management und Regierung bekannt. Sie erklärte, das Arbeitsministerium habe die Bedeutung des Falls erkannt, umfassende Unterstützung der Regierung für die Verhandlungen zugesagt und die Nachschlichtung nachdrücklich empfohlen. Die Sparte führt das Verfahren als Vertreterin, nachdem ihr Verhandlungs- und Abschlussrechte übertragen wurden. Vorsitzender Choi Seung-ho sagte, man werde ohne Zögern in einen Generalstreik treten, falls das Ergebnis die Mitglieder nicht zufriedenstelle. Der Streik ist für den 21. angekündigt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le syndicat de Samsung Electronics reprend les négociations via une médiation postérieure",
-        "excerpt": "Le plus grand syndicat de Samsung Electronics a déclaré le 8 mai qu’il participerait à la médiation postérieure demandée par le gouvernement et reprendrait les négociations.",
-        "body": "Le plus grand syndicat de Samsung Electronics, la branche Samsung Electronics du syndicat supra-entreprises, a annoncé le 8 mai qu’il participerait à la procédure de médiation postérieure demandée par le gouvernement et reprendrait les négociations avec la direction. L’annonce est intervenue après une rencontre avec Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, puis une réunion entre syndicat, entreprise et gouvernement. Le syndicat a expliqué que le ministère du Travail avait reconnu la gravité du dossier, promis un soutien gouvernemental complet aux discussions et fortement recommandé la médiation postérieure. La branche a indiqué agir comme représentante après avoir reçu délégation du droit de négocier et de conclure. Son président, Choi Seung-ho, a déclaré qu’une grève générale serait lancée sans hésitation si le résultat ne satisfaisait pas les adhérents. Le syndicat a annoncé une grève générale pour le 21. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "نقابة سامسونغ إلكترونيكس تستأنف التفاوض عبر وساطة لاحقة مع بقاء موعد الإضراب",
-        "excerpt": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس في 8 مايو أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة وتستأنف التفاوض مع الإدارة.",
-        "body": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس، وهي فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية، في 8 مايو أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة وستستأنف المفاوضات مع الشركة. وجاء الإعلان بعد لقاء مع كيم دو هيونغ، رئيس مكتب غيونغي الإقليمي للتوظيف والعمل، ثم عقد اجتماع ضم النقابة والإدارة والحكومة. وقالت النقابة إن وزارة العمل أدركت خطورة القضية، ووعدت بدعم كامل على مستوى الحكومة للمفاوضات، وأوصت بقوة بالوساطة اللاحقة. وأوضحت أن فرع سامسونغ إلكترونيكس يتولى الإجراءات بصفته ممثلا بعد تفويضه بحقوق التفاوض والتوقيع. وقال رئيس الفرع تشوي سونغ هو إن النقابة ستتجه إلى إضراب عام بلا تردد إذا لم تحقق نتيجة ترضي الأعضاء. وكانت النقابة قد أعلنت إضرابا عاما في 21 من الشهر. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सैमसंग इलेक्ट्रॉनिक्स यूनियन मध्यस्थता के जरिए वार्ता फिर शुरू करेगी, हड़ताल तय",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन ने 8 मई को कहा कि वह सरकार के अनुरोध पर बाद-मध्यस्थता प्रक्रिया में भाग लेकर प्रबंधन से बातचीत फिर शुरू करेगी।",
-        "body": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन, सुपर-एंटरप्राइज यूनियन की सैमसंग इलेक्ट्रॉनिक्स शाखा ने 8 मई को कहा कि वह सरकार द्वारा अनुरोधित बाद-मध्यस्थता प्रक्रिया में भाग लेगी और कंपनी प्रबंधन के साथ बातचीत फिर शुरू करेगी। यूनियन ने यह घोषणा ग्योंगगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्यंग से मुलाकात और फिर कंपनी के साथ श्रमिक-प्रबंधन-सरकार बैठक के बाद की। यूनियन ने कहा कि श्रम मंत्रालय ने मामले की गंभीरता को समझा, वार्ता के लिए सरकारी स्तर पर पूर्ण समर्थन का वादा किया और बाद-मध्यस्थता की जोरदार सिफारिश की। शाखा ने बताया कि उसे बातचीत और समझौते पर हस्ताक्षर का अधिकार सौंपा गया है, इसलिए वह प्रतिनिधि के रूप में प्रक्रिया चला रही है। शाखा अध्यक्ष चोई सुंग-हो ने कहा कि अगर सदस्यों को संतुष्ट करने वाला परिणाम नहीं निकला तो वे बिना हिचक आम हड़ताल करेंगे। यूनियन ने 21 तारीख को आम हड़ताल की घोषणा कर रखी है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Serikat Samsung Electronics lanjutkan negosiasi lewat mediasi pasca-sengketa",
-        "excerpt": "Serikat terbesar Samsung Electronics pada 8 Mei menyatakan akan mengikuti prosedur mediasi pasca-sengketa yang diminta pemerintah dan membuka kembali negosiasi.",
-        "body": "Serikat terbesar Samsung Electronics, cabang Samsung Electronics dari serikat supra-perusahaan, menyatakan pada 8 Mei bahwa mereka akan mengikuti prosedur mediasi pasca-sengketa yang diminta pemerintah dan melanjutkan negosiasi dengan pihak perusahaan. Pernyataan itu disampaikan setelah serikat bertemu Kim Do-hyung, kepala Kantor Ketenagakerjaan Regional Gyeonggi, lalu menggelar pertemuan pekerja, manajemen, dan pemerintah dengan perusahaan. Serikat menjelaskan bahwa Kementerian Ketenagakerjaan memahami seriusnya persoalan ini, menjanjikan dukungan penuh pemerintah untuk perundingan, dan sangat menganjurkan mediasi pasca-sengketa. Cabang Samsung Electronics menyebut proses ini dijalankan sebagai perwakilan setelah menerima pelimpahan hak berunding dan menandatangani kesepakatan. Ketua cabang Choi Seung-ho mengatakan pihaknya akan melakukan mogok umum tanpa ragu jika hasilnya tidak memuaskan anggota. Serikat telah mengumumkan mogok umum pada tanggal 21. Sumber: rss.donga.com"
       }
     }
   }
