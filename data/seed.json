@@ -1,5 +1,230 @@
 [
   {
+    "id": "263b152a46b7",
+    "slug": "르포-10만원-써도-카트가-썰렁가격표-앞에서-주저하는-소비자들-297069",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:41:56.448Z",
+    "updatedAt": "2026-05-09T21:41:56.448Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
+    "titleFingerprint": "96922a3253b0920ab49176a442d4a4eebd99f436",
+    "dedupKeys": [
+      "263b152a46b77d1e39d02555af13a35a023899b9",
+      "96922a3253b0920ab49176a442d4a4eebd99f436",
+      "8b269f557001bbb2b933d8162796d8a51b95dd67"
+    ],
+    "imageUrl": "/images/articles/263b152a46b7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "장바구니 물가 요동, 쌀값 부담에 10만원 장보기 카트도 썰렁",
+        "excerpt": "서울 소비자들이 최근 장바구니 물가 변동 속에서 가격표 앞에 멈춰 서고 있다. 배추·무·대파는 지난해보다 내렸지만 쌀값 부담이 장보기 체감을 키웠다.",
+        "body": "최근 서울 소비자들은 장바구니 물가가 품목별로 엇갈리면서 장보기 부담을 크게 체감하고 있다. 배추, 무, 대파 등 주요 채소 가격은 지난해보다 큰 폭으로 떨어졌지만, 쌀값은 부담 요인으로 지목됐다. 현장에서는 10만원을 써도 카트가 넉넉히 채워지지 않는다는 반응이 나오고, 소비자들은 가격표 앞에서 구매를 망설이는 모습이다. 채소 가격 하락에도 밥상 물가 전반의 체감 부담은 쉽게 낮아지지 않는 분위기다. 향후 소비자들은 필수 식재료 가격 흐름을 살피며 지출을 조정할 가능성이 크다. 출처: yna.co.kr 인용"
+      },
+      "en": {
+        "title": "Grocery Prices Stay Volatile as Rice Costs Leave Shoppers Hesitating",
+        "excerpt": "Consumers in Seoul are pausing at price tags amid uneven grocery price moves. Cabbage, radish and green onion prices fell sharply from last year, but rice costs continue to weigh on shopping baskets.",
+        "body": "Consumers in Seoul are feeling the strain of grocery shopping as prices move in different directions by item. Prices for key vegetables such as cabbage, radish and green onion have fallen sharply from a year earlier, but rice prices are being cited as a burden. At shopping sites, some consumers say even spending 100,000 won leaves their carts looking thin, and many hesitate before price tags. Despite cheaper vegetables, the perceived burden of overall table prices has not eased much. Consumers are likely to keep adjusting spending while watching prices of essential food items. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "買い物かご物価が揺れる中、コメ価格負担で消費者は値札前で迷う",
+        "excerpt": "ソウルの消費者は最近、食料品価格の品目別変動の中で値札の前に立ち止まっている。白菜、大根、長ねぎは前年より大きく下がったが、コメ価格の負担が実感を重くしている。",
+        "body": "最近、ソウルの消費者は食料品価格が品目ごとに異なる動きを見せる中、買い物の負担を強く感じている。白菜、大根、長ねぎなど主要野菜の価格は前年より大幅に下がった一方、コメ価格は負担要因として指摘されている。現場では10万ウォンを使ってもカートが十分に埋まらないという声が出ており、消費者は値札の前で購入をためらっている。野菜価格が下がっても食卓物価全体の体感負担は簡単には和らがない状況だ。今後、消費者は必須食材の価格動向を見ながら支出を調整する可能性が高い。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "菜篮子价格波动，米价压力让消费者在价签前犹豫",
+        "excerpt": "首尔消费者近期在食品价格分化中停在价签前。白菜、萝卜、大葱价格较去年大幅下降，但米价负担仍抬高了日常采购的体感压力。",
+        "body": "近期，首尔消费者在食品价格按品类分化的情况下，明显感受到采购负担。白菜、萝卜、大葱等主要蔬菜价格较去年大幅下降，但米价被指出仍是压力因素。在卖场现场，有消费者表示即使花10万韩元，购物车看起来仍不充实，许多人在价签前犹豫是否购买。尽管蔬菜降价，餐桌物价整体带来的体感负担并未明显减轻。今后消费者可能会继续关注必需食材价格走势，并相应调整支出。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Precios de la compra siguen inestables y el arroz pesa en el carrito",
+        "excerpt": "Consumidores de Seúl se detienen ante las etiquetas en medio de cambios desiguales en los alimentos. Col china, rábano y cebolla verde bajaron frente al año pasado, pero el arroz eleva la presión.",
+        "body": "En Seúl, los consumidores sienten con fuerza la carga de hacer la compra mientras los precios se mueven de forma desigual según el producto. Las verduras principales, como la col china, el rábano y la cebolla verde, han bajado mucho respecto al año pasado, pero el precio del arroz se señala como un factor de presión. En los comercios, algunos dicen que incluso gastando 100.000 wones el carrito queda poco lleno, y muchos dudan frente a las etiquetas. Aunque las verduras son más baratas, la carga percibida del costo de la mesa no baja con facilidad. Es probable que los consumidores ajusten sus gastos observando los precios de alimentos esenciales. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Preços da cesta oscilam e arroz pesa no carrinho de compras",
+        "excerpt": "Consumidores em Seul param diante das etiquetas em meio à variação dos alimentos. Repolho napa, rabanete e cebolinha caíram ante o ano passado, mas o arroz mantém a pressão sobre as compras.",
+        "body": "Em Seul, consumidores sentem o peso das compras enquanto os preços dos alimentos se movem de forma desigual por item. Produtos como repolho napa, rabanete e cebolinha caíram bastante em relação ao ano passado, mas o preço do arroz é apontado como um fator de pressão. Nos locais de compra, há quem diga que mesmo gastando 100.000 wones o carrinho parece pouco cheio, e muitos hesitam diante das etiquetas. Apesar da queda das verduras, a percepção de custo da alimentação diária não diminui facilmente. Consumidores devem ajustar gastos acompanhando os preços de itens essenciais. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Schwankende Einkaufspreise: Reis belastet Verbraucher trotz billigerem Gemüse",
+        "excerpt": "Verbraucher in Seoul zögern derzeit vor Preisschildern, weil sich Lebensmittelpreise uneinheitlich bewegen. Chinakohl, Rettich und Frühlingszwiebeln sind deutlich billiger als vor einem Jahr, Reis bleibt belastend.",
+        "body": "Verbraucher in Seoul spüren beim Lebensmitteleinkauf eine deutliche Belastung, da sich die Preise je nach Produkt unterschiedlich entwickeln. Wichtige Gemüsesorten wie Chinakohl, Rettich und Frühlingszwiebeln sind gegenüber dem Vorjahr stark gefallen, doch Reispreise werden weiter als Belastungsfaktor genannt. Vor Ort sagen manche, selbst nach Ausgaben von 100.000 Won wirke der Einkaufswagen leer, und viele zögern vor den Preisschildern. Trotz günstigerem Gemüse sinkt die gefühlte Belastung durch die gesamten Tischpreise kaum. Verbraucher dürften ihre Ausgaben weiter an den Preisen wichtiger Lebensmittel ausrichten. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Prix alimentaires instables: le riz pèse encore sur le panier des ménages",
+        "excerpt": "À Séoul, les consommateurs hésitent devant les étiquettes face à des prix alimentaires contrastés. Chou, radis et ciboule ont fortement baissé sur un an, mais le riz maintient la pression.",
+        "body": "À Séoul, les consommateurs ressentent fortement le poids des courses alors que les prix alimentaires évoluent différemment selon les produits. Les prix de légumes clés comme le chou, le radis et la ciboule ont nettement reculé par rapport à l’an dernier, mais le riz est cité comme un facteur de pression. Sur le terrain, certains disent qu’un panier de 100.000 wons paraît encore peu rempli, et beaucoup hésitent devant les étiquettes. Malgré la baisse des légumes, la charge ressentie des prix de l’alimentation quotidienne ne diminue pas facilement. Les consommateurs devraient ajuster leurs dépenses en surveillant les prix des produits essentiels. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "تقلب أسعار سلة الغذاء في سيول وضغط الأرز يدفع المستهلكين للتردد",
+        "excerpt": "يتوقف مستهلكون في سيول أمام بطاقات الأسعار وسط تحركات متباينة للمواد الغذائية. فقد تراجعت أسعار الملفوف والفجل والبصل الأخضر كثيرا عن العام الماضي، لكن عبء الأرز ما زال واضحا.",
+        "body": "يشعر مستهلكون في سيول بعبء واضح عند شراء الغذاء مع اختلاف اتجاهات الأسعار حسب الصنف. فقد انخفضت أسعار خضروات رئيسية مثل الملفوف والفجل والبصل الأخضر بشكل كبير مقارنة بالعام الماضي، لكن أسعار الأرز تُذكر كعامل ضغط. وفي مواقع التسوق يقول بعض المستهلكين إن إنفاق 100 ألف وون لا يجعل عربة التسوق ممتلئة بما يكفي، بينما يتردد آخرون أمام بطاقات الأسعار. ورغم انخفاض أسعار الخضروات، فإن العبء المحسوس لأسعار المائدة عموما لا يتراجع بسهولة. ومن المرجح أن يواصل المستهلكون تعديل إنفاقهم مع متابعة أسعار المواد الأساسية. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "खाद्य खरीदारी महंगी महसूस, चावल के दाम से ग्राहक दाम देखकर ठिठके",
+        "excerpt": "सियोल में उपभोक्ता खाद्य कीमतों के असमान बदलाव के बीच मूल्य टैग के सामने रुक रहे हैं। पत्ता गोभी, मूली और हरे प्याज के दाम पिछले साल से काफी घटे, लेकिन चावल का बोझ बना है।",
+        "body": "सियोल में उपभोक्ता किराना खरीदारी का दबाव महसूस कर रहे हैं क्योंकि अलग-अलग वस्तुओं की कीमतें अलग दिशा में चल रही हैं। पत्ता गोभी, मूली और हरे प्याज जैसी मुख्य सब्जियों के दाम पिछले साल की तुलना में काफी घटे हैं, लेकिन चावल की कीमत बोझ के रूप में देखी जा रही है। दुकानों में कुछ लोग कहते हैं कि 100,000 वॉन खर्च करने पर भी कार्ट खाली-सा दिखता है, और कई ग्राहक मूल्य टैग देखकर खरीदारी में हिचकते हैं। सब्जियों के सस्ते होने के बावजूद भोजन खर्च का कुल महसूस होने वाला दबाव आसानी से कम नहीं हो रहा। आगे उपभोक्ता जरूरी खाद्य वस्तुओं के दाम देखकर खर्च समायोजित कर सकते हैं। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Harga Belanja Berfluktuasi, Beban Beras Bikin Konsumen Menahan Diri",
+        "excerpt": "Konsumen di Seoul berhenti di depan label harga di tengah pergerakan harga pangan yang tidak merata. Sawi putih, lobak, dan daun bawang turun tajam dari tahun lalu, tetapi beras masih membebani.",
+        "body": "Konsumen di Seoul merasakan beban belanja kebutuhan pangan karena harga bergerak berbeda menurut jenis barang. Harga sayuran utama seperti sawi putih, lobak, dan daun bawang turun tajam dibanding tahun lalu, tetapi harga beras disebut sebagai faktor yang memberatkan. Di lokasi belanja, sebagian konsumen mengatakan keranjang masih tampak kosong meski sudah menghabiskan 100.000 won, sementara banyak yang ragu di depan label harga. Walau harga sayuran turun, beban yang dirasakan dari biaya makan sehari-hari belum mudah berkurang. Konsumen kemungkinan akan menyesuaikan pengeluaran sambil memantau harga bahan pangan pokok. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "46bd6382695c",
+    "slug": "미국으로-쏠리고-유럽으로-확장k뷰티-해외-시장-재편-817215",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:40:47.366Z",
+    "updatedAt": "2026-05-09T21:40:47.366Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
+    "titleFingerprint": "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
+    "dedupKeys": [
+      "46bd6382695c941917e52a40c2aef6d254f57778",
+      "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
+      "4044cc09a9dfc81b4242af9e9b9583c6bb10ea24"
+    ],
+    "imageUrl": "/images/articles/46bd6382695c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K뷰티 해외 매출, 미국 중심 재편 속 유럽 확장세 주목",
+        "excerpt": "국내 주요 뷰티 상장사 3사는 올해 1분기 해외 매출 구조가 미국 중심으로 재편되는 가운데 유럽 시장이 새로운 성장 축으로 떠오르고 있다.",
+        "body": "올해 1분기 국내 주요 뷰티 상장사 3사의 해외 매출 흐름이 미국을 중심으로 재편되고 있다. 연합뉴스에 따르면 이들 기업의 해외 시장 전략은 미국으로 쏠리는 동시에 유럽으로 확장되는 양상을 보이고 있다. K뷰티 수요가 해외에서 이어지는 가운데, 미국 시장은 핵심 매출 기반으로 부각되고 유럽 시장은 새로운 성장 지역으로 주목된다. 이번 흐름은 국내 뷰티 기업들이 해외 매출 구조를 다변화하면서도 성장성이 큰 시장에 집중하고 있음을 보여준다. 향후 K뷰티 해외 시장 경쟁 구도는 미국 중심의 재편과 유럽 확장세가 함께 영향을 미칠 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "K-Beauty Overseas Sales Shift Toward U.S. as Europe Gains Focus",
+        "excerpt": "In the first quarter of this year, three major listed Korean beauty companies saw overseas sales increasingly centered on the U.S., while Europe emerged as a new growth market.",
+        "body": "In the first quarter of this year, overseas sales at three major listed Korean beauty companies were reorganized around the U.S. market. According to Yonhap News Agency, their overseas market direction is shifting toward the United States while also expanding into Europe. As demand for K-beauty continues abroad, the U.S. is standing out as a core sales base, and Europe is drawing attention as a new growth region. This trend shows that Korean beauty companies are diversifying overseas revenue structures while focusing on markets with strong growth potential. The future overseas market landscape for K-beauty is expected to be influenced by both a U.S.-centered shift and expansion into Europe. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "Kビューティー海外売上、米国中心へ再編し欧州拡大にも注目",
+        "excerpt": "韓国の主要上場ビューティー企業3社は今年第1四半期、海外売上が米国中心に再編される一方、欧州市場が新たな成長軸として浮上している。",
+        "body": "今年第1四半期、韓国の主要上場ビューティー企業3社の海外売上の流れが米国を中心に再編されている。聯合ニュースによると、これらの企業の海外市場戦略は米国に集中する一方で、欧州へも拡大する様相を見せている。海外でKビューティー需要が続く中、米国市場は中核的な売上基盤として浮上し、欧州市場は新たな成長地域として注目されている。この流れは、韓国ビューティー企業が海外売上構造を多角化しながら、成長性の高い市場に集中していることを示す。今後のKビューティー海外市場の競争構図には、米国中心の再編と欧州拡大がともに影響するとみられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "K美妆海外销售转向美国，欧洲扩张势头受关注",
+        "excerpt": "韩国三大主要上市美妆企业今年第一季度海外销售结构正以美国为中心重组，同时欧洲市场成为新的增长轴。",
+        "body": "今年第一季度，韩国三家主要上市美妆企业的海外销售趋势正围绕美国市场重组。据韩联社报道，这些企业的海外市场布局一方面集中于美国，另一方面也呈现向欧洲扩张的态势。在K美妆海外需求持续的背景下，美国市场正成为核心销售基础，欧洲市场则作为新的增长地区受到关注。这一变化显示，韩国美妆企业在推动海外销售结构多元化的同时，也在聚焦增长潜力较大的市场。未来K美妆海外市场竞争格局预计将同时受到美国中心化重组和欧洲扩张趋势的影响。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Ventas globales de K-beauty giran a EE. UU. y crecen hacia Europa",
+        "excerpt": "En el primer trimestre de este año, tres grandes firmas coreanas de belleza cotizadas reorganizaron sus ventas exteriores en torno a EE. UU., con Europa como nuevo eje de crecimiento.",
+        "body": "En el primer trimestre de este año, las ventas en el exterior de tres importantes empresas coreanas de belleza cotizadas se están reorganizando alrededor del mercado estadounidense. Según Yonhap News Agency, la estrategia internacional de estas compañías se inclina hacia Estados Unidos al mismo tiempo que se expande hacia Europa. Mientras continúa la demanda global de K-beauty, EE. UU. destaca como una base clave de ventas y Europa atrae atención como nueva región de crecimiento. Esta tendencia muestra que las empresas coreanas de belleza diversifican su estructura de ingresos en el extranjero mientras se concentran en mercados con alto potencial. El panorama internacional de K-beauty podría verse influido por la reorientación hacia EE. UU. y la expansión europea. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "K-beauty muda vendas externas para os EUA e amplia foco na Europa",
+        "excerpt": "No primeiro trimestre deste ano, três grandes empresas coreanas de beleza listadas viram suas vendas externas se reorganizarem em torno dos EUA, com a Europa como novo eixo de crescimento.",
+        "body": "No primeiro trimestre deste ano, as vendas externas de três importantes empresas coreanas de beleza listadas estão sendo reorganizadas em torno do mercado dos Estados Unidos. Segundo a Yonhap News Agency, a estratégia internacional dessas companhias se concentra nos EUA ao mesmo tempo em que avança para a Europa. Com a demanda por K-beauty continuando no exterior, o mercado americano se destaca como base central de vendas, enquanto a Europa chama atenção como nova região de crescimento. Esse movimento mostra que as empresas coreanas de beleza diversificam sua estrutura de receita externa e focam mercados com maior potencial. O cenário global de K-beauty deve ser influenciado pela reorganização centrada nos EUA e pela expansão europeia. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "K-Beauty-Auslandsumsatz verlagert sich in die USA und wächst in Europa",
+        "excerpt": "Im ersten Quartal dieses Jahres richten drei große börsennotierte koreanische Beauty-Unternehmen ihre Auslandsumsätze stärker auf die USA aus, während Europa als neuer Wachstumsmarkt hervortritt.",
+        "body": "Im ersten Quartal dieses Jahres werden die Auslandsumsätze von drei großen börsennotierten koreanischen Beauty-Unternehmen zunehmend um den US-Markt herum neu geordnet. Laut Yonhap News Agency richtet sich ihre Auslandsstrategie stärker auf die Vereinigten Staaten, während sie zugleich nach Europa expandieren. Da die Nachfrage nach K-Beauty im Ausland anhält, tritt der US-Markt als zentrale Umsatzbasis hervor, und Europa gewinnt als neue Wachstumsregion an Aufmerksamkeit. Diese Entwicklung zeigt, dass koreanische Beauty-Unternehmen ihre Auslandsumsätze diversifizieren und zugleich Märkte mit hohem Wachstumspotenzial priorisieren. Die künftige Wettbewerbsstruktur von K-Beauty im Ausland dürfte sowohl von der US-Zentrierung als auch von der Expansion nach Europa geprägt werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "La K-beauty recentre ses ventes étrangères sur les États-Unis et vise l’Europe",
+        "excerpt": "Au premier trimestre de cette année, trois grandes sociétés coréennes cotées de la beauté ont vu leurs ventes étrangères se recentrer sur les États-Unis, tandis que l’Europe devient un nouveau relais de croissance.",
+        "body": "Au premier trimestre de cette année, les ventes à l’étranger de trois grandes entreprises coréennes cotées de la beauté se réorganisent autour du marché américain. Selon Yonhap News Agency, leur stratégie internationale se concentre sur les États-Unis tout en s’étendant vers l’Europe. Alors que la demande mondiale pour la K-beauty se poursuit, le marché américain apparaît comme une base clé de chiffre d’affaires, tandis que l’Europe attire l’attention comme nouvelle région de croissance. Cette tendance montre que les entreprises coréennes de beauté diversifient leur structure de revenus à l’étranger tout en ciblant les marchés à fort potentiel. Le paysage mondial de la K-beauty devrait être influencé par ce recentrage américain et par l’expansion européenne. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مبيعات كي-بيوتي الخارجية تتحول نحو أميركا مع توسع لافت في أوروبا",
+        "excerpt": "في الربع الأول من هذا العام، أعادت ثلاث شركات تجميل كورية كبرى مدرجة تشكيل مبيعاتها الخارجية حول السوق الأميركية، فيما برزت أوروبا كمحور نمو جديد.",
+        "body": "في الربع الأول من هذا العام، تتجه مبيعات الخارج لدى ثلاث شركات تجميل كورية كبرى مدرجة إلى إعادة التمركز حول السوق الأميركية. ووفق وكالة يونهاب للأنباء، فإن استراتيجية هذه الشركات في الأسواق الخارجية تميل نحو الولايات المتحدة في الوقت نفسه الذي تتوسع فيه إلى أوروبا. ومع استمرار الطلب على كي-بيوتي في الخارج، تبرز السوق الأميركية كقاعدة رئيسية للمبيعات، بينما تحظى أوروبا بالاهتمام كمنطقة نمو جديدة. ويظهر هذا الاتجاه أن شركات التجميل الكورية تنوع هيكل إيراداتها الخارجية مع التركيز على الأسواق ذات إمكانات النمو. ومن المتوقع أن يتأثر مشهد المنافسة الخارجية لكي-بيوتي بإعادة التمركز حول أميركا وبالتوسع الأوروبي معا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "K-ब्यूटी की विदेशी बिक्री अमेरिका केंद्रित, यूरोप में विस्तार पर नजर",
+        "excerpt": "इस वर्ष की पहली तिमाही में तीन प्रमुख सूचीबद्ध कोरियाई ब्यूटी कंपनियों की विदेशी बिक्री अमेरिका केंद्रित ढांचे में बदलती दिखी, जबकि यूरोप नया विकास क्षेत्र बनकर उभरा।",
+        "body": "इस वर्ष की पहली तिमाही में तीन प्रमुख सूचीबद्ध कोरियाई ब्यूटी कंपनियों की विदेशी बिक्री का रुख अमेरिकी बाजार के इर्द-गिर्द पुनर्गठित हो रहा है। योनहाप न्यूज एजेंसी के अनुसार, इन कंपनियों की विदेशी बाजार रणनीति अमेरिका की ओर केंद्रित हो रही है और साथ ही यूरोप में विस्तार भी दिखा रही है। विदेशों में K-ब्यूटी की मांग जारी रहने के बीच अमेरिकी बाजार मुख्य बिक्री आधार के रूप में उभर रहा है, जबकि यूरोप नए विकास क्षेत्र के रूप में ध्यान आकर्षित कर रहा है। यह रुझान दिखाता है कि कोरियाई ब्यूटी कंपनियां विदेशी राजस्व ढांचे को विविध बनाते हुए उच्च वृद्धि क्षमता वाले बाजारों पर ध्यान दे रही हैं। आगे K-ब्यूटी के विदेशी बाजार की प्रतिस्पर्धा पर अमेरिका केंद्रित पुनर्गठन और यूरोपीय विस्तार दोनों का असर पड़ सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Penjualan Global K-beauty Bergeser ke AS, Ekspansi Eropa Disorot",
+        "excerpt": "Pada kuartal pertama tahun ini, tiga emiten kecantikan utama Korea menata ulang penjualan luar negeri dengan fokus ke AS, sementara Eropa muncul sebagai poros pertumbuhan baru.",
+        "body": "Pada kuartal pertama tahun ini, alur penjualan luar negeri tiga perusahaan kecantikan utama Korea yang tercatat di bursa sedang ditata ulang dengan pusat pada pasar Amerika Serikat. Menurut Yonhap News Agency, strategi pasar luar negeri perusahaan-perusahaan tersebut mengarah ke AS sekaligus menunjukkan ekspansi ke Eropa. Di tengah berlanjutnya permintaan K-beauty di luar negeri, pasar AS menonjol sebagai basis penjualan utama, sementara Eropa menarik perhatian sebagai wilayah pertumbuhan baru. Tren ini menunjukkan bahwa perusahaan kecantikan Korea mendiversifikasi struktur pendapatan luar negeri sambil berfokus pada pasar dengan potensi pertumbuhan besar. Ke depan, lanskap persaingan global K-beauty diperkirakan dipengaruhi oleh pergeseran berpusat AS dan ekspansi Eropa. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "85471f4688f1",
+    "slug": "강북-거래-활황-vs-강남-숨-고르기서울-집합건물-거래-판-바뀌나-832392",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T21:39:51.079Z",
+    "updatedAt": "2026-05-09T21:39:51.079Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042407",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042407",
+    "titleFingerprint": "de9692c1e67eff800ee4fb911fedfd241d75d0de",
+    "dedupKeys": [
+      "85471f4688f1cabde00ea3f33ea156a88d4aebdd",
+      "de9692c1e67eff800ee4fb911fedfd241d75d0de",
+      "524185f3bd7e7a4d1f092f2068233505b2031f31"
+    ],
+    "imageUrl": "/images/articles/85471f4688f1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 집합건물 거래 온도차 뚜렷…강북 활황·강남 숨 고르기",
+        "excerpt": "서울 부동산 매매 시장에서 자치구별 거래 활성화 차이가 뚜렷해지고 있다. 동작구와 강북권 회전율은 전년 대비 반등한 반면 강남권은 숨 고르기 흐름을 보였다.",
+        "body": "서울 집합건물 매매 시장에서 지역별 거래 흐름이 엇갈리고 있다. mk.co.kr에 따르면 서울 부동산 매매 시장은 자치구별로 거래 활성화 정도에 뚜렷한 온도차가 나타나고 있다. 특히 동작구와 강북권 등 일부 지역은 회전율이 전년 대비 큰 폭으로 반등하며 거래 활황 흐름을 보였다. 반면 강남권은 상대적으로 숨 고르기에 들어간 모습이다. 이 같은 차이는 서울 내 집합건물 거래 판도가 지역별로 달라지고 있음을 보여준다. 향후 시장 흐름은 자치구별 거래 회전율과 매수세 변화에 따라 다르게 전개될 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Multi-Unit Property Deals Diverge as Gangbuk Rises and Gangnam Pauses",
+        "excerpt": "Seoul’s real estate sales market is showing a clearer gap by district, with turnover in Dongjak and parts of Gangbuk rebounding sharply from a year earlier while Gangnam pauses.",
+        "body": "Seoul’s multi-unit property sales market is showing divided regional momentum. According to mk.co.kr, the level of transaction activity in Seoul’s real estate sales market now varies clearly by autonomous district. In particular, Dongjak-gu and parts of the Gangbuk area recorded a sharp year-on-year rebound in turnover, pointing to active trading. By contrast, the Gangnam area appears to be in a relative pause. This gap suggests that the structure of Seoul’s multi-unit property transactions may be shifting by district. Future market conditions could differ depending on changes in turnover rates and buyer demand in each district. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル集合建物取引に温度差、江北は活況・江南は一服感",
+        "excerpt": "ソウル不動産売買市場では自治区ごとの取引活性度の差が鮮明になっている。銅雀区や江北圏の回転率は前年比で反発した一方、江南圏は一服感を見せた。",
+        "body": "ソウルの集合建物売買市場で、地域別の取引の流れが分かれている。mk.co.krによると、ソウル不動産売買市場では自治区ごとに取引活性度の明確な温度差が表れている。特に銅雀区や江北圏など一部地域では、回転率が前年に比べ大きく反発し、取引が活発な様子を示した。一方、江南圏は相対的に一服局面に入った形だ。こうした差は、ソウル内の集合建物取引の構図が地域別に変わりつつあることを示している。今後の市場は、自治区別の回転率と買い需要の変化によって異なる展開となる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔集合建筑交易分化明显：江北活跃、江南暂缓",
+        "excerpt": "首尔房地产买卖市场按自治行政区呈现明显温差。铜雀区和江北圈部分地区周转率同比大幅反弹，而江南圈则出现相对观望节奏。",
+        "body": "首尔集合建筑买卖市场的区域交易走势正在分化。据 mk.co.kr 报道，首尔房地产买卖市场中，各自治行政区的交易活跃程度出现明显温差。尤其是铜雀区和江北圈等部分地区，周转率较去年同期大幅反弹，显示出交易活跃的 흐름。相比之下，江南圈则呈现相对放缓、暂作调整的状态。这种差异表明，首尔集合建筑交易格局正在按区域发生变化。未来市场走势可能会根据各区交易周转率和买方需求变化而有所不同。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl muestra brecha en edificios colectivos: Gangbuk avanza y Gangnam pausa",
+        "excerpt": "El mercado inmobiliario de Seúl evidencia diferencias por distrito. Dongjak y zonas de Gangbuk repuntaron con fuerza en rotación interanual, mientras Gangnam mostró una pausa relativa.",
+        "body": "El mercado de compraventa de edificios colectivos en Seúl muestra un impulso desigual por zonas. Según mk.co.kr, el nivel de actividad de las transacciones inmobiliarias en Seúl presenta una clara diferencia de temperatura entre distritos autónomos. En particular, Dongjak-gu y algunas áreas de Gangbuk registraron un fuerte repunte interanual en la rotación, señal de mayor dinamismo. En cambio, la zona de Gangnam parece haber entrado en una fase de pausa relativa. Esta diferencia indica que el mapa de las transacciones de edificios colectivos en Seúl podría estar cambiando por distrito. La evolución futura dependerá de la rotación y de los cambios en la demanda compradora de cada zona. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Negócios em Seul divergem: Gangbuk aquece e Gangnam faz pausa",
+        "excerpt": "O mercado imobiliário de Seul mostra diferenças claras entre distritos. Dongjak e áreas de Gangbuk tiveram forte recuperação anual na rotatividade, enquanto Gangnam desacelerou.",
+        "body": "O mercado de compra e venda de edifícios coletivos em Seul apresenta movimentos distintos por região. Segundo o mk.co.kr, o grau de atividade das transações imobiliárias na capital sul-coreana mostra uma diferença clara entre os distritos autônomos. Em especial, Dongjak-gu e partes da região de Gangbuk registraram forte recuperação da rotatividade em relação ao ano anterior, indicando maior dinamismo. Já Gangnam parece estar em uma fase relativa de pausa. Essa diferença sugere que o padrão das transações de edifícios coletivos em Seul está mudando conforme a região. O rumo do mercado poderá variar de acordo com a rotatividade e a demanda compradora em cada distrito. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Gebäudedeals driften auseinander: Gangbuk stark, Gangnam pausiert",
+        "excerpt": "Am Immobilienmarkt in Seoul zeigen sich klare Unterschiede nach Bezirk. Dongjak und Teile von Gangbuk verzeichneten eine starke Erholung der Umschlagrate, während Gangnam pausiert.",
+        "body": "Der Markt für den Kauf und Verkauf von Gemeinschaftsgebäuden in Seoul entwickelt sich regional unterschiedlich. Laut mk.co.kr zeigt der Immobilienmarkt der Stadt je nach autonomem Bezirk deutliche Unterschiede bei der Transaktionsaktivität. Besonders Dongjak-gu und Teile des Gangbuk-Gebiets verzeichneten gegenüber dem Vorjahr eine starke Erholung der Umschlagrate und damit eine lebhafte Handelsaktivität. Dagegen befindet sich das Gangnam-Gebiet offenbar in einer relativen Atempause. Diese Differenz deutet darauf hin, dass sich das Bild der Transaktionen mit Gemeinschaftsgebäuden in Seoul je nach Region verändert. Der weitere Marktverlauf dürfte von den Umschlagraten und der Käufernachfrage in den einzelnen Bezirken abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Séoul, les ventes divergent: Gangbuk accélère, Gangnam marque une pause",
+        "excerpt": "Le marché immobilier de Séoul montre un écart net selon les arrondissements. Dongjak et des zones de Gangbuk rebondissent fortement en rotation, tandis que Gangnam ralentit.",
+        "body": "Le marché des ventes d’immeubles collectifs à Séoul affiche des dynamiques régionales contrastées. Selon mk.co.kr, le degré d’activité des transactions immobilières dans la capitale varie nettement d’un arrondissement autonome à l’autre. Dongjak-gu et certaines zones de Gangbuk ont notamment enregistré un fort rebond du taux de rotation par rapport à l’an dernier, signe d’un marché plus actif. À l’inverse, le secteur de Gangnam semble entrer dans une phase relative de pause. Cet écart montre que la configuration des transactions d’immeubles collectifs à Séoul évolue selon les zones. La suite du marché pourrait dépendre des taux de rotation et de l’évolution de la demande acheteuse dans chaque arrondissement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تباين صفقات المباني في سيول: نشاط في غانغبوك وتهدئة في غانغنام",
+        "excerpt": "يشهد سوق العقارات في سيول تباينا واضحا بين المناطق. فقد ارتفع معدل الدوران في دونغجاك وأجزاء من غانغبوك مقارنة بالعام السابق، بينما بدا غانغنام في مرحلة تهدئة.",
+        "body": "يشهد سوق بيع وشراء المباني الجماعية في سيول مسارات مختلفة حسب المنطقة. ووفقا لـ mk.co.kr، يظهر سوق العقارات في سيول تفاوتا واضحا في درجة نشاط الصفقات بين الأحياء ذات الإدارة الذاتية. وعلى وجه الخصوص، سجل حي دونغجاك وأجزاء من منطقة غانغبوك انتعاشا كبيرا في معدل الدوران مقارنة بالعام السابق، ما يشير إلى نشاط قوي في التداول. في المقابل، تبدو منطقة غانغنام في مرحلة تهدئة نسبية. ويعكس هذا التباين أن خريطة صفقات المباني الجماعية في سيول تتغير تبعا لكل منطقة. وقد يتحدد اتجاه السوق لاحقا بحسب معدلات الدوران وتغير الطلب من المشترين في كل حي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल में संपत्ति सौदों की तस्वीर बदली: गांगबुक तेज, गांगनाम ठहरा",
+        "excerpt": "सियोल के रियल एस्टेट बिक्री बाजार में जिलों के बीच अंतर साफ दिख रहा है। डोंगजाक और गांगबुक क्षेत्रों में टर्नओवर दर उछली, जबकि गांगनाम में विराम दिखा।",
+        "body": "सियोल के सामूहिक भवनों की खरीद-बिक्री बाजार में क्षेत्रीय रुझान अलग-अलग दिख रहे हैं। mk.co.kr के अनुसार, सियोल के रियल एस्टेट बिक्री बाजार में स्वायत्त जिलों के हिसाब से लेनदेन सक्रियता में स्पष्ट अंतर दिख रहा है। खासकर डोंगजाक-गु और गांगबुक क्षेत्र के कुछ हिस्सों में टर्नओवर दर पिछले वर्ष की तुलना में काफी उछली, जिससे सक्रिय कारोबार का संकेत मिला। इसके विपरीत, गांगनाम क्षेत्र अपेक्षाकृत ठहराव की स्थिति में दिख रहा है। यह अंतर बताता है कि सियोल में सामूहिक भवन लेनदेन की संरचना क्षेत्र के अनुसार बदल रही है। आगे बाजार की दिशा प्रत्येक जिले की टर्नओवर दर और खरीदार मांग में बदलाव पर निर्भर कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Transaksi Gedung Seoul Berbeda: Gangbuk Ramai, Gangnam Menahan Diri",
+        "excerpt": "Pasar jual beli properti Seoul menunjukkan perbedaan jelas antar distrik. Dongjak dan wilayah Gangbuk mencatat rebound rotasi tahunan, sementara Gangnam cenderung melambat.",
+        "body": "Pasar jual beli gedung kolektif di Seoul menunjukkan arah yang berbeda menurut wilayah. Menurut mk.co.kr, tingkat aktivitas transaksi di pasar properti Seoul kini memperlihatkan perbedaan yang jelas antar distrik otonom. Secara khusus, Dongjak-gu dan sebagian wilayah Gangbuk mencatat kenaikan tajam dalam tingkat perputaran dibanding tahun sebelumnya, menandakan transaksi yang lebih aktif. Sebaliknya, wilayah Gangnam terlihat berada dalam fase menahan diri secara relatif. Perbedaan ini menunjukkan bahwa peta transaksi gedung kolektif di Seoul sedang berubah menurut kawasan. Ke depan, arah pasar dapat berbeda bergantung pada tingkat perputaran dan perubahan minat beli di tiap distrik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "e7b906a7bc77",
     "slug": "노동부-가족돌봄휴가-적용대상-가족-외로-확대-검토-656676",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Indeks Value-Up Cetak Rekor Tertinggi, Kalahkan Kenaikan Kospi",
         "excerpt": "Menurut Yonhap, Indeks Value-Up mencetak rekor tertinggi sepanjang masa bulan lalu dan melampaui tingkat kenaikan Kospi pada periode yang sama.",
         "body": "Indeks Value-Up mencetak rekor tertinggi sepanjang masa bulan lalu, menurut laporan Lee Min-young dari Yonhap News Agency. Indeks tersebut naik ke level tertinggi dalam sejarahnya dan menunjukkan kenaikan yang melampaui Kospi pada periode yang sama. Di pasar saham Korea Selatan, Indeks Value-Up diperhatikan karena terkait dengan arus peningkatan nilai perusahaan. Rekor terbaru ini penting karena menunjukkan kinerja yang relatif lebih kuat dibandingkan pergerakan Kospi. Namun, laporan asli tidak menyebutkan angka indeks secara spesifik maupun besaran kenaikannya. Ke depan, perhatian pasar akan tertuju pada apakah tren kenaikan Indeks Value-Up berlanjut dan apakah penguatannya terhadap Kospi dapat dipertahankan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "193fb1fe8c33",
-    "slug": "한미약품-본부-통합-부문제-도입비만약-전면-강화-140427",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T13:40:10.452Z",
-    "updatedAt": "2026-05-09T13:40:10.452Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508103200017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508103200017",
-    "titleFingerprint": "9a85f4bc3fd1680fc0fe18ea9807cf927ea0419c",
-    "dedupKeys": [
-      "193fb1fe8c33e98cb435d45e1106bcd0be791090",
-      "9a85f4bc3fd1680fc0fe18ea9807cf927ea0419c",
-      "17c0e13b33eaff5be3c37172b5f0fcc55a715abf"
-    ],
-    "imageUrl": "/images/articles/193fb1fe8c33.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한미약품, 본부 통합 ‘부문제’ 도입…비만약 사업 전면 강화",
-        "excerpt": "한미약품은 급변하는 글로벌 제약·바이오 시장에 대응하고 사업 목표를 효율적으로 달성하기 위해 본부를 통합한 ‘부문제’를 도입하고 비만약 역량을 강화한다.",
-        "body": "한미약품은 급변하는 글로벌 제약·바이오 시장 환경에 대응하고 사업 목표를 효율적으로 달성하기 위해 본부를 통합한 ‘부문제’를 도입했다. 이번 조직 개편은 기존 본부 단위 운영을 부문 중심 체계로 묶어 의사결정과 실행 효율을 높이는 데 초점이 맞춰졌다. 특히 회사는 비만약 관련 사업 역량을 전면 강화하는 방향을 제시했다. 글로벌 제약·바이오 시장 변화가 빨라지는 가운데, 한미약품은 조직 통합을 통해 핵심 사업 추진력을 높이고 시장 대응력을 확보하겠다는 취지다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Hanmi Pharm adopts integrated division system, strengthens obesity drug business",
-        "excerpt": "Hanmi Pharm is introducing an integrated division system to respond to the fast-changing global pharma and biotech market and pursue its business goals more efficiently.",
-        "body": "Hanmi Pharm has introduced an integrated “division system” to respond to the rapidly changing global pharmaceutical and biotech market and achieve its business goals more efficiently. The reorganization brings existing headquarters-level operations into a division-centered structure, with a focus on improving decision-making and execution efficiency. The company also set a direction to fully strengthen its capabilities in the obesity drug business. As global pharma and biotech market conditions shift quickly, Hanmi Pharm aims to enhance momentum in key businesses and secure stronger market responsiveness through organizational integration. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓美薬品、本部統合の「部門制」導入…肥満薬事業を全面強化",
-        "excerpt": "韓美薬品は、急変するグローバル製薬・バイオ市場に対応し事業目標を効率的に達成するため、本部を統合した部門制を導入し肥満薬の競争力を強化する。",
-        "body": "韓美薬品は、急速に変化するグローバル製薬・バイオ市場環境に対応し、事業目標を効率的に達成するため、本部を統合した「部門制」を導入した。今回の組織改編は、従来の本部単位の運営を部門中心の体制にまとめ、意思決定と実行の効率を高めることに重点を置いている。特に同社は、肥満薬関連事業の能力を全面的に強化する方針を示した。市場変化が速まるなか、韓美薬品は組織統合を通じて中核事業の推進力を高め、市場対応力を確保する考えだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩美药品导入总部整合“部门制”，全面强化减肥药业务",
-        "excerpt": "韩美药品为应对快速变化的全球制药与生物市场，并更高效实现业务目标，导入整合总部的部门制，同时强化减肥药相关能力。",
-        "body": "韩美药品为应对快速变化的全球制药与生物市场环境，并更高效实现业务目标，导入了整合总部的“部门制”。此次组织调整的重点，是将原有总部单位运营整合为以部门为中心的体系，以提升决策和执行效率。公司还提出将全面强化减肥药相关业务能力。随着全球制药与生物市场变化加快，韩美药品希望通过组织整合增强核心业务推进力，并提升市场应对能力。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Hanmi Pharm integra sedes en divisiones y refuerza el negocio de fármacos contra la obesidad",
-        "excerpt": "Hanmi Pharm adopta un sistema integrado de divisiones para responder al cambiante mercado farmacéutico y biotecnológico global y alcanzar sus objetivos con mayor eficiencia.",
-        "body": "Hanmi Pharm introdujo un sistema integrado de “divisiones” para responder al rápido cambio del mercado farmacéutico y biotecnológico global y cumplir sus objetivos de negocio con mayor eficiencia. La reorganización agrupa las operaciones que antes se gestionaban por sedes en una estructura centrada en divisiones, con énfasis en mejorar la toma de decisiones y la ejecución. La compañía también señaló que reforzará de forma integral sus capacidades en el negocio de medicamentos contra la obesidad. En un entorno global de cambios acelerados, Hanmi Pharm busca elevar el impulso de sus negocios clave y mejorar su capacidad de respuesta al mercado mediante la integración organizativa. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Hanmi Pharm adota sistema de divisões integradas e reforça área de medicamentos contra obesidade",
-        "excerpt": "A Hanmi Pharm introduz um sistema de divisões integradas para responder ao mercado farmacêutico e biotecnológico global em rápida mudança e cumprir metas com mais eficiência.",
-        "body": "A Hanmi Pharm introduziu um sistema integrado de “divisões” para responder ao ambiente global farmacêutico e biotecnológico em rápida transformação e atingir seus objetivos de negócios com mais eficiência. A reorganização reúne operações antes estruturadas por sedes em um modelo centrado em divisões, com foco em melhorar a tomada de decisão e a execução. A empresa também indicou que reforçará amplamente suas capacidades no negócio de medicamentos contra a obesidade. Em meio à aceleração das mudanças no mercado global, a Hanmi Pharm busca aumentar a força de seus negócios principais e ampliar sua capacidade de resposta por meio da integração organizacional. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hanmi Pharm führt integrierte Spartenstruktur ein und stärkt Geschäft mit Adipositasmitteln",
-        "excerpt": "Hanmi Pharm führt ein integriertes Spartensystem ein, um auf den schnellen Wandel im globalen Pharma- und Biotechmarkt zu reagieren und Geschäftsziele effizienter zu erreichen.",
-        "body": "Hanmi Pharm hat ein integriertes „Spartensystem“ eingeführt, um auf das sich rasch verändernde globale Pharma- und Biotechmarktumfeld zu reagieren und Geschäftsziele effizienter zu erreichen. Die Umstrukturierung bündelt bisherige Hauptquartier-Einheiten in einer spartenorientierten Struktur und zielt darauf ab, Entscheidungsfindung und Umsetzung effizienter zu gestalten. Besonders will das Unternehmen seine Fähigkeiten im Geschäft mit Medikamenten gegen Adipositas umfassend stärken. Angesichts schneller Marktveränderungen will Hanmi Pharm durch organisatorische Integration die Durchsetzungskraft zentraler Geschäftsbereiche erhöhen und die Reaktionsfähigkeit am Markt sichern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Hanmi Pharm adopte une structure intégrée par divisions et renforce les médicaments contre l’obésité",
-        "excerpt": "Hanmi Pharm met en place un système de divisions intégrées pour répondre au marché pharmaceutique et biotech mondial en rapide évolution et atteindre ses objectifs plus efficacement.",
-        "body": "Hanmi Pharm a introduit un système intégré de « divisions » afin de répondre à l’évolution rapide du marché pharmaceutique et biotechnologique mondial et d’atteindre plus efficacement ses objectifs commerciaux. Cette réorganisation regroupe les opérations auparavant gérées par sièges en une structure centrée sur les divisions, avec l’objectif d’améliorer la prise de décision et l’exécution. L’entreprise a également indiqué qu’elle renforcerait pleinement ses capacités dans les médicaments contre l’obésité. Alors que le marché mondial évolue vite, Hanmi Pharm entend accroître l’élan de ses activités clés et améliorer sa réactivité grâce à l’intégration organisationnelle. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هانمي فارما تعتمد نظام أقسام مدمجاً وتعزز أعمال أدوية السمنة",
-        "excerpt": "تقدم هانمي فارما نظام أقسام مدمجاً للاستجابة للتغير السريع في سوق الأدوية والتقنيات الحيوية عالمياً وتحقيق أهدافها التجارية بكفاءة أكبر.",
-        "body": "أدخلت هانمي فارما نظاماً مدمجاً قائماً على “الأقسام” للاستجابة لبيئة سوق الأدوية والتقنيات الحيوية العالمية سريعة التغير، ولتحقيق أهداف الأعمال بكفاءة أكبر. ويجمع هذا التعديل التنظيمي العمليات التي كانت تدار على مستوى المقرات ضمن هيكل يركز على الأقسام، مع التركيز على تحسين سرعة اتخاذ القرار وكفاءة التنفيذ. كما أوضحت الشركة أنها ستعزز قدراتها في أعمال أدوية السمنة بصورة شاملة. ومع تسارع تغيرات السوق العالمية، تسعى هانمي فارما من خلال الدمج التنظيمي إلى تقوية دفع أعمالها الأساسية وتحسين قدرتها على الاستجابة للسوق. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Hanmi Pharm ने एकीकृत डिवीजन प्रणाली अपनाई, मोटापा दवा कारोबार को मजबूत करेगी",
-        "excerpt": "Hanmi Pharm ने तेजी से बदलते वैश्विक फार्मा और बायोटेक बाजार का जवाब देने तथा कारोबारी लक्ष्यों को अधिक दक्षता से हासिल करने के लिए एकीकृत डिवीजन प्रणाली शुरू की है।",
-        "body": "Hanmi Pharm ने तेजी से बदलते वैश्विक फार्मास्यूटिकल और बायोटेक बाजार माहौल का जवाब देने तथा अपने कारोबारी लक्ष्यों को अधिक दक्षता से हासिल करने के लिए एकीकृत “डिवीजन प्रणाली” शुरू की है। इस संगठनात्मक बदलाव में मौजूदा मुख्यालय-स्तर के संचालन को डिवीजन-केंद्रित ढांचे में जोड़ा गया है, ताकि निर्णय लेने और क्रियान्वयन की दक्षता बढ़ाई जा सके। कंपनी ने मोटापा दवाओं से जुड़े कारोबार की क्षमताओं को व्यापक रूप से मजबूत करने की दिशा भी बताई है। वैश्विक फार्मा और बायोटेक बाजार में तेज बदलाव के बीच Hanmi Pharm संगठनात्मक एकीकरण के जरिए प्रमुख कारोबारों की गति और बाजार प्रतिक्रिया क्षमता बढ़ाना चाहती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Hanmi Pharm terapkan sistem divisi terintegrasi, perkuat bisnis obat obesitas",
-        "excerpt": "Hanmi Pharm memperkenalkan sistem divisi terintegrasi untuk merespons pasar farmasi dan biotek global yang cepat berubah serta mencapai target bisnis dengan lebih efisien.",
-        "body": "Hanmi Pharm memperkenalkan sistem “divisi” terintegrasi untuk merespons lingkungan pasar farmasi dan biotek global yang berubah cepat serta mencapai tujuan bisnis dengan lebih efisien. Restrukturisasi ini menggabungkan operasi yang sebelumnya berjalan di tingkat kantor pusat ke dalam struktur berbasis divisi, dengan fokus meningkatkan efisiensi pengambilan keputusan dan pelaksanaan. Perusahaan juga menyatakan arah untuk memperkuat sepenuhnya kapabilitas bisnis obat obesitas. Di tengah percepatan perubahan pasar global, Hanmi Pharm berupaya meningkatkan daya dorong bisnis inti dan kemampuan merespons pasar melalui integrasi organisasi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dfe0c8ef4e76",
-    "slug": "연합뉴스-이-시각-헤드라인---1430-642410",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T13:39:06.697Z",
-    "updatedAt": "2026-05-09T13:39:06.697Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099800011",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099800011",
-    "titleFingerprint": "09cac2862d401b01a0a2539aebb00342c9d5ac8e",
-    "dedupKeys": [
-      "dfe0c8ef4e7610a579344a87602cfcf6eba9ec66",
-      "09cac2862d401b01a0a2539aebb00342c9d5ac8e",
-      "99829b3b5bae25c532fb4f1a6e75b7bd6051769a"
-    ],
-    "imageUrl": "/images/articles/dfe0c8ef4e76.jpg",
-    "i18n": {
-      "ko": {
-        "title": "'채상병 순직' 임성근 징역 3년, 생명위험 등한시 판단 주목",
-        "excerpt": "연합뉴스 14시30분 헤드라인은 ‘채상병 순직’ 사건과 관련해 임성근에게 징역 3년이 선고됐고, 성과를 얻으려 생명위험을 등한시했다는 판단이 나왔다고 전했다.",
-        "body": "연합뉴스가 14시30분 ‘이 시각 헤드라인’으로 전한 내용에 따르면, ‘채상병 순직’ 사건과 관련해 임성근에게 징역 3년이 선고됐다. 보도 요약은 이번 판단의 핵심을 “성과 얻으려 생명위험 등한시”라는 표현으로 제시했다. 원문이 제공한 정보는 사건명, 대상자, 형량, 판단 취지와 출처에 한정된다. 이번 헤드라인은 채상병 순직 사안에서 생명 위험을 어떻게 다뤘는지가 주요 쟁점으로 부각됐음을 보여준다. 향후 관련 보도에서는 판결 내용과 후속 절차가 추가로 다뤄질 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Chae Marine Death Case: Lim Sung-keun Gets 3 Years Over Life-Risk Finding",
-        "excerpt": "Yonhap’s 14:30 headline reported that Lim Sung-keun received a three-year prison sentence in the Chae Marine death case, citing a finding that life risks were disregarded for results.",
-        "body": "According to Yonhap’s 14:30 headline roundup, Lim Sung-keun was sentenced to three years in prison in connection with the death of Marine Chae. The summary presented the central finding with the phrase that he “disregarded risks to life to obtain results.” The source information is limited to the case, the person named, the sentence, the stated reasoning, and the source. The headline indicates that how life-threatening risks were handled has become a key point in the case. Further coverage may address the details of the ruling and any subsequent procedures. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "「チェ上等兵殉職」イム・ソングン氏に懲役3年、生命リスク軽視の判断",
-        "excerpt": "聯合ニュースの14時30分ヘッドラインは、「チェ上等兵殉職」事件をめぐりイム・ソングン氏に懲役3年が言い渡され、成果のため生命リスクを軽視したとの判断を伝えた。",
-        "body": "聯合ニュースが14時30分の「この時刻のヘッドライン」として伝えた内容によると、「チェ上等兵殉職」事件に関連し、イム・ソングン氏に懲役3年が言い渡された。要約は今回の判断の核心を「成果を得るため生命の危険を等閑視した」という表現で示した。原文が提供した情報は、事件名、対象者、刑量、判断の趣旨、出典に限られる。このヘッドラインは、チェ上等兵殉職事案で生命への危険がどう扱われたかが主要な争点として浮上したことを示している。今後の報道では判決内容や後続手続きが追加で扱われる可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "“蔡上兵殉职”案林成根获刑3年，漠视生命风险判断受关注",
-        "excerpt": "韩联社14时30分头条称，围绕“蔡上兵殉职”事件，林成根被判处有期徒刑3年，相关判断指出其为取得成果而漠视生命危险。",
-        "body": "据韩联社14时30分“此刻头条”报道，围绕“蔡上兵殉职”事件，林成根被判处有期徒刑3年。报道摘要将此次判断的核心表述为“为取得成果而漠视生命危险”。原文提供的信息限于事件名称、涉事对象、刑期、判断主旨和来源。该头条显示，在蔡上兵殉职事项中，生命危险如何被对待成为主要焦点。后续报道可能进一步涉及判决内容和相关程序。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Caso de muerte del soldado Chae: Lim Sung-keun recibe 3 años de prisión",
-        "excerpt": "El titular de Yonhap de las 14:30 informó que Lim Sung-keun fue condenado a tres años de prisión por el caso de la muerte del soldado Chae, con una conclusión sobre riesgos vitales ignorados.",
-        "body": "Según el resumen de titulares de Yonhap de las 14:30, Lim Sung-keun fue condenado a tres años de prisión en relación con la muerte del soldado Chae. El resumen presentó el punto central de la decisión con la expresión de que se “desatendieron riesgos para la vida para obtener resultados”. La información original se limita al caso, la persona nombrada, la pena, el sentido de la conclusión y la fuente. El titular muestra que la forma en que se trataron los riesgos para la vida se ha convertido en un punto clave del asunto. Coberturas posteriores podrían abordar el contenido del fallo y los procedimientos siguientes. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Caso da morte do soldado Chae: Lim Sung-keun recebe pena de 3 anos",
-        "excerpt": "A manchete da Yonhap das 14h30 informou que Lim Sung-keun foi condenado a três anos de prisão no caso da morte do soldado Chae, com avaliação de que riscos à vida foram ignorados.",
-        "body": "Segundo a rodada de manchetes da Yonhap das 14h30, Lim Sung-keun foi condenado a três anos de prisão em relação à morte do soldado Chae. O resumo apresentou o ponto central da decisão com a expressão de que ele “desconsiderou riscos à vida para obter resultados”. As informações fornecidas pelo texto original se limitam ao caso, à pessoa citada, à pena, ao sentido da avaliação e à fonte. A manchete indica que a forma como os riscos à vida foram tratados se tornou um ponto central no caso. Reportagens posteriores poderão tratar do conteúdo da decisão e de procedimentos seguintes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Fall Tod von Soldat Chae: Lim Sung-keun zu 3 Jahren Haft verurteilt",
-        "excerpt": "Yonhaps Schlagzeile von 14:30 Uhr meldete, dass Lim Sung-keun im Fall des Todes von Soldat Chae zu drei Jahren Haft verurteilt wurde, mit dem Befund, Lebensrisiken seien missachtet worden.",
-        "body": "Nach Yonhaps Schlagzeilenüberblick von 14:30 Uhr wurde Lim Sung-keun im Zusammenhang mit dem Tod von Soldat Chae zu drei Jahren Gefängnis verurteilt. Die Zusammenfassung stellte den Kern der Entscheidung mit der Formulierung dar, er habe „Lebensgefahren missachtet, um Ergebnisse zu erzielen“. Die im Ausgangstext genannten Informationen beschränken sich auf den Fall, die genannte Person, das Strafmaß, den Sinn der Bewertung und die Quelle. Die Schlagzeile zeigt, dass der Umgang mit Lebensrisiken in diesem Fall zu einem zentralen Punkt geworden ist. Weitere Berichte könnten den Inhalt des Urteils und anschließende Verfahren behandeln. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Mort du soldat Chae : Lim Sung-keun condamné à 3 ans de prison",
-        "excerpt": "Le titre de Yonhap à 14 h 30 indique que Lim Sung-keun a été condamné à trois ans de prison dans l’affaire de la mort du soldat Chae, avec un constat de risques vitaux négligés.",
-        "body": "Selon le tour d’horizon des titres de Yonhap à 14 h 30, Lim Sung-keun a été condamné à trois ans de prison en lien avec la mort du soldat Chae. Le résumé présente le cœur de la décision avec l’expression selon laquelle il a « négligé les risques pour la vie afin d’obtenir des résultats ». Les informations fournies par le texte d’origine se limitent à l’affaire, à la personne nommée, à la peine, au sens du constat et à la source. Ce titre montre que la manière dont les risques vitaux ont été traités est devenue un point majeur du dossier. De futurs articles pourraient détailler la décision et les procédures suivantes. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "قضية وفاة الجندي تشاي: الحكم على ليم سونغ-غن بالسجن 3 سنوات",
-        "excerpt": "أفاد عنوان يونهاب عند الساعة 14:30 بأن ليم سونغ-غن حُكم عليه بالسجن ثلاث سنوات في قضية وفاة الجندي تشاي، مع الإشارة إلى تجاهل مخاطر على الحياة من أجل تحقيق نتائج.",
-        "body": "بحسب موجز عناوين يونهاب عند الساعة 14:30، حُكم على ليم سونغ-غن بالسجن ثلاث سنوات في ما يتعلق بوفاة الجندي تشاي. وقد عرض الملخص جوهر الحكم بعبارة تفيد بأنه «تجاهل مخاطر على الحياة من أجل تحقيق نتائج». وتقتصر المعلومات الواردة في النص الأصلي على اسم القضية، والشخص المعني، ومدة العقوبة، ومغزى التقييم، والمصدر. ويُظهر العنوان أن كيفية التعامل مع المخاطر التي تهدد الحياة أصبحت نقطة رئيسية في هذه القضية. وقد تتناول تقارير لاحقة تفاصيل الحكم والإجراءات التالية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "चाए सैनिक मृत्यु मामला: लिम सुंग-क्यून को 3 साल की सजा",
-        "excerpt": "योनहाप की 14:30 हेडलाइन के अनुसार, चाए सैनिक की मृत्यु से जुड़े मामले में लिम सुंग-क्यून को तीन साल की जेल हुई और कहा गया कि परिणाम पाने के लिए जीवन जोखिमों की अनदेखी की गई।",
-        "body": "योनहाप की 14:30 की हेडलाइन सूची के अनुसार, चाए सैनिक की मृत्यु से जुड़े मामले में लिम सुंग-क्यून को तीन साल की जेल की सजा सुनाई गई। सार में निर्णय का मुख्य बिंदु इस रूप में रखा गया कि “परिणाम पाने के लिए जीवन के जोखिमों की अनदेखी की गई।” मूल पाठ में दी गई जानकारी मामले के नाम, संबंधित व्यक्ति, सजा की अवधि, निर्णय के आशय और स्रोत तक सीमित है। यह हेडलाइन दिखाती है कि चाए सैनिक की मृत्यु के मामले में जीवन के जोखिमों को कैसे संभाला गया, यह प्रमुख मुद्दा बना है। आगे की रिपोर्टों में फैसले की सामग्री और बाद की प्रक्रियाएं शामिल हो सकती हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kasus Tewasnya Prajurit Chae: Lim Sung-keun Divonis 3 Tahun Penjara",
-        "excerpt": "Headline Yonhap pukul 14.30 melaporkan Lim Sung-keun divonis tiga tahun penjara dalam kasus tewasnya Prajurit Chae, dengan penilaian bahwa risiko nyawa diabaikan demi hasil.",
-        "body": "Menurut rangkuman headline Yonhap pukul 14.30, Lim Sung-keun dijatuhi hukuman tiga tahun penjara terkait kasus tewasnya Prajurit Chae. Ringkasan tersebut menyajikan inti penilaian dengan frasa bahwa ia “mengabaikan risiko terhadap nyawa demi memperoleh hasil”. Informasi dalam teks asal terbatas pada nama kasus, pihak yang disebut, lama hukuman, pokok penilaian, dan sumber. Headline ini menunjukkan bahwa cara risiko terhadap nyawa diperlakukan menjadi isu utama dalam perkara tewasnya Prajurit Chae. Liputan berikutnya dapat membahas isi putusan dan prosedur lanjutan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2a0a0f98233e",
-    "slug": "롯데웰푸드-1분기-영업익-전년-대비-1184-증가글로벌-효과종합-212074",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T13:03:16.816Z",
-    "updatedAt": "2026-05-09T13:03:16.816Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508098351527",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508098351527",
-    "titleFingerprint": "bb9e2a2bd02c31a8a229d145ffef0e56b7608946",
-    "dedupKeys": [
-      "2a0a0f98233eb19195034922714a34c5aa9823a3",
-      "bb9e2a2bd02c31a8a229d145ffef0e56b7608946",
-      "24fa528acba9067c33e063cac9b5a6efc4e3aed1"
-    ],
-    "imageUrl": "/images/articles/2a0a0f98233e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데웰푸드 1분기 영업익 118.4% 증가, 글로벌 효과로 실적 개선",
-        "excerpt": "롯데웰푸드는 연결 기준 올해 1분기 영업이익이 358억원으로 전년 동기 대비 118.4% 증가했다고 밝혔으며, 회사는 글로벌 사업 효과를 실적 개선 요인으로 제시했다.",
-        "body": "롯데웰푸드는 연결 기준 올해 1분기 영업이익이 358억원으로 지난해 같은 기간보다 118.4% 증가했다고 밝혔다. 발표에 따르면 이번 실적 개선은 글로벌 사업 효과가 반영된 결과로 설명됐다. 회사의 1분기 영업이익은 전년 동기 대비 두 배 이상 늘며 수익성이 크게 개선된 흐름을 보였다. 다만 제공된 원문 기준으로 매출, 순이익 등 다른 세부 항목은 별도로 확인되지 않았다. 식품 기업의 해외 사업 성과가 실적에 미치는 영향이 커지는 가운데, 롯데웰푸드는 글로벌 효과를 앞세워 1분기 수익 개선을 나타냈다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Lotte Wellfood Q1 Operating Profit Jumps 118.4% on Global Business Effect",
-        "excerpt": "Lotte Wellfood said its consolidated operating profit for the first quarter rose 118.4% year on year to 35.8 billion won, citing the effect of its global business.",
-        "body": "Lotte Wellfood reported consolidated operating profit of 35.8 billion won for the first quarter of this year, up 118.4% from the same period a year earlier. According to the company’s announcement, the improvement was explained as reflecting the effect of its global business. The first-quarter operating profit more than doubled year on year, showing a sharp improvement in profitability. Based on the provided original report, other detailed items such as revenue and net income were not separately confirmed. As overseas business performance becomes increasingly relevant for food companies, Lotte Wellfood showed improved first-quarter earnings through the global effect. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ロッテウェルフード、第1四半期営業益118.4%増 グローバル効果で改善",
-        "excerpt": "ロッテウェルフードは、連結基準の今年第1四半期営業利益が358億ウォンとなり、前年同期比118.4%増加したと発表した。グローバル事業効果を要因に挙げた。",
-        "body": "ロッテウェルフードは、連結基準で今年第1四半期の営業利益が358億ウォンとなり、前年同期より118.4%増加したと明らかにした。発表によると、今回の業績改善はグローバル事業の効果が反映された結果と説明された。第1四半期の営業利益は前年同期比で2倍以上に増え、収益性が大きく改善した流れを示した。ただし、提供された原文基準では売上高や純利益など他の詳細項目は別途確認されていない。食品企業における海外事業成果の影響が高まる中、ロッテウェルフードはグローバル効果を背景に第1四半期の収益改善を示した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "乐天Wellfood第一季度营业利润增118.4%，全球业务效应带动改善",
-        "excerpt": "乐天Wellfood表示，按合并口径计算，今年第一季度营业利润为358亿韩元，同比增加118.4%，公司将业绩改善归因于全球业务效应。",
-        "body": "乐天Wellfood表示，按合并口径计算，今年第一季度营业利润为358亿韩元，较去年同期增长118.4%。根据公司发布的内容，此次业绩改善被解释为全球业务效应得到体现的结果。第一季度营业利润同比增加超过一倍，显示盈利能力明显改善。不过，依据所提供的原文，销售额、净利润等其他具体项目尚未另行确认。在食品企业海外业务成果对业绩影响不断扩大的背景下，乐天Wellfood凭借全球业务效应展现出第一季度收益改善。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Lotte Wellfood eleva 118,4% su beneficio operativo del primer trimestre por efecto global",
-        "excerpt": "Lotte Wellfood informó que su beneficio operativo consolidado del primer trimestre fue de 35.800 millones de wones, un 118,4% más interanual, atribuido al efecto de su negocio global.",
-        "body": "Lotte Wellfood informó que su beneficio operativo consolidado del primer trimestre de este año alcanzó los 35.800 millones de wones, un aumento del 118,4% frente al mismo periodo del año anterior. Según el anuncio, la mejora de resultados se explicó como consecuencia del efecto de su negocio global. El beneficio operativo del primer trimestre más que se duplicó en términos interanuales, mostrando una clara mejora de la rentabilidad. Según el texto original proporcionado, no se confirmaron por separado otros detalles como ingresos o beneficio neto. En un contexto en que el desempeño internacional pesa más en las empresas alimentarias, Lotte Wellfood mostró una mejora de ganancias en el primer trimestre por el efecto global. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Lotte Wellfood aumenta lucro operacional do 1º trimestre em 118,4% com efeito global",
-        "excerpt": "A Lotte Wellfood informou que o lucro operacional consolidado do primeiro trimestre foi de 35,8 bilhões de won, alta anual de 118,4%, citando o efeito dos negócios globais.",
-        "body": "A Lotte Wellfood informou que seu lucro operacional consolidado no primeiro trimestre deste ano foi de 35,8 bilhões de won, alta de 118,4% em relação ao mesmo período do ano anterior. Segundo o comunicado, a melhora do resultado foi explicada como reflexo do efeito dos negócios globais. O lucro operacional do primeiro trimestre mais que dobrou na comparação anual, indicando forte melhora da rentabilidade. Com base no texto original fornecido, outros itens detalhados, como receita e lucro líquido, não foram confirmados separadamente. Em meio ao peso crescente do desempenho externo para empresas de alimentos, a Lotte Wellfood apresentou melhora nos ganhos do primeiro trimestre com o efeito global. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Lotte Wellfood steigert operativen Gewinn im ersten Quartal um 118,4% dank globalem Effekt",
-        "excerpt": "Lotte Wellfood meldete für das erste Quartal einen konsolidierten operativen Gewinn von 35,8 Milliarden Won, 118,4% mehr als im Vorjahr, und verwies auf den globalen Geschäftseffekt.",
-        "body": "Lotte Wellfood gab bekannt, dass der konsolidierte operative Gewinn im ersten Quartal dieses Jahres 35,8 Milliarden Won erreichte und damit um 118,4% gegenüber dem Vorjahreszeitraum stieg. Der Ergebnisanstieg wurde laut Mitteilung als Folge des Effekts des globalen Geschäfts erklärt. Der operative Gewinn im ersten Quartal hat sich im Jahresvergleich mehr als verdoppelt und zeigt damit eine deutliche Verbesserung der Profitabilität. Auf Grundlage des bereitgestellten Originaltexts wurden weitere Detailposten wie Umsatz oder Nettogewinn nicht gesondert bestätigt. Während Auslandsgeschäfte für Lebensmittelunternehmen an Bedeutung gewinnen, zeigte Lotte Wellfood im ersten Quartal eine Ergebnisverbesserung durch den globalen Effekt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Lotte Wellfood voit son bénéfice opérationnel du T1 bondir de 118,4% grâce à l’effet mondial",
-        "excerpt": "Lotte Wellfood a annoncé un bénéfice opérationnel consolidé de 35,8 milliards de wons au premier trimestre, en hausse de 118,4% sur un an, grâce à l’effet de ses activités mondiales.",
-        "body": "Lotte Wellfood a annoncé que son bénéfice opérationnel consolidé du premier trimestre de cette année s’élevait à 35,8 milliards de wons, en hausse de 118,4% par rapport à la même période l’an dernier. Selon l’annonce, cette amélioration des résultats s’explique par l’effet des activités mondiales. Le bénéfice opérationnel du premier trimestre a plus que doublé sur un an, montrant une nette amélioration de la rentabilité. D’après le texte original fourni, d’autres éléments détaillés comme le chiffre d’affaires ou le bénéfice net n’ont pas été confirmés séparément. Alors que les performances à l’étranger pèsent davantage sur les entreprises alimentaires, Lotte Wellfood a affiché une amélioration de ses résultats trimestriels grâce à l’effet mondial. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "لوتيه ويلفود ترفع ربح التشغيل في الربع الأول 118.4% بفضل الأثر العالمي",
-        "excerpt": "أعلنت لوتيه ويلفود أن ربحها التشغيلي الموحد في الربع الأول بلغ 35.8 مليار وون، بزيادة 118.4% على أساس سنوي، مشيرة إلى أثر أعمالها العالمية.",
-        "body": "أعلنت لوتيه ويلفود أن ربحها التشغيلي الموحد في الربع الأول من هذا العام بلغ 35.8 مليار وون، بزيادة 118.4% مقارنة بالفترة نفسها من العام الماضي. ووفق الإعلان، فُسّر تحسن النتائج بأنه يعكس أثر الأعمال العالمية. وقد زاد ربح التشغيل في الربع الأول إلى أكثر من الضعف على أساس سنوي، ما يظهر تحسنا واضحا في الربحية. وبناء على النص الأصلي المقدم، لم يتم تأكيد بنود تفصيلية أخرى مثل المبيعات أو صافي الربح بشكل منفصل. ومع تزايد تأثير أداء الأعمال الخارجية في شركات الأغذية، أظهرت لوتيه ويلفود تحسنا في أرباح الربع الأول بفضل الأثر العالمي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "लोट्टे वेलफूड का पहली तिमाही परिचालन लाभ 118.4% बढ़ा, वैश्विक प्रभाव से सुधार",
-        "excerpt": "लोट्टे वेलफूड ने बताया कि इस वर्ष पहली तिमाही में उसका समेकित परिचालन लाभ 35.8 अरब वॉन रहा, जो सालाना आधार पर 118.4% अधिक है; कंपनी ने वैश्विक कारोबार प्रभाव को कारण बताया।",
-        "body": "लोट्टे वेलफूड ने बताया कि इस वर्ष पहली तिमाही में उसका समेकित परिचालन लाभ 35.8 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि की तुलना में 118.4% अधिक है। घोषणा के अनुसार, इस प्रदर्शन सुधार को वैश्विक कारोबार के प्रभाव का परिणाम बताया गया। पहली तिमाही का परिचालन लाभ सालाना आधार पर दोगुने से अधिक हो गया, जिससे लाभप्रदता में स्पष्ट सुधार दिखा। उपलब्ध मूल रिपोर्ट के आधार पर बिक्री या शुद्ध लाभ जैसे अन्य विस्तृत आंकड़े अलग से पुष्टि नहीं किए गए। खाद्य कंपनियों के प्रदर्शन में विदेशी कारोबार की भूमिका बढ़ने के बीच, लोट्टे वेलफूड ने वैश्विक प्रभाव के सहारे पहली तिमाही की आय में सुधार दिखाया। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lotte Wellfood Catat Laba Operasi Kuartal I Naik 118,4% Berkat Efek Global",
-        "excerpt": "Lotte Wellfood menyatakan laba operasi konsolidasian kuartal pertama tahun ini mencapai 35,8 miliar won, naik 118,4% secara tahunan, dengan efek bisnis global sebagai pendorong.",
-        "body": "Lotte Wellfood menyatakan laba operasi konsolidasian pada kuartal pertama tahun ini mencapai 35,8 miliar won, naik 118,4% dibanding periode yang sama tahun lalu. Menurut pengumuman tersebut, perbaikan kinerja ini dijelaskan sebagai hasil dari efek bisnis global. Laba operasi kuartal pertama meningkat lebih dari dua kali lipat secara tahunan, menunjukkan perbaikan profitabilitas yang jelas. Berdasarkan teks asli yang diberikan, rincian lain seperti pendapatan dan laba bersih tidak dikonfirmasi secara terpisah. Di tengah meningkatnya pengaruh kinerja luar negeri bagi perusahaan makanan, Lotte Wellfood menunjukkan perbaikan laba kuartal pertama melalui efek global. Sumber: yna.co.kr"
       }
     }
   }
