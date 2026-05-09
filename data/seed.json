@@ -1,5 +1,230 @@
 [
   {
+    "id": "779e479031b9",
+    "slug": "외국환시세5월8일마감가-595060",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T11:01:58.077Z",
+    "updatedAt": "2026-05-09T11:01:58.077Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508123400002",
+    "titleFingerprint": "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
+    "dedupKeys": [
+      "779e479031b96aefbccc0fe5f0bce3de1b105a60",
+      "c4b2ab1458e5d7b0e3cd11bebf4a28b6c50d3946",
+      "c21442449c4b98871e96d26252e54f2fcb1c779e"
+    ],
+    "imageUrl": "/images/articles/779e479031b9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국환시세 5월 8일 마감가 발표, 오후 3시 30분 기준 환율 정보",
+        "excerpt": "연합뉴스는 5월 8일 오후 3시 30분 기준 외국환시세 마감가를 전하며, 이날 외환시장 마감 시점의 환율 정보를 확인할 수 있도록 했다.",
+        "body": "5월 8일 오후 3시 30분 기준 외국환시세 마감가가 연합뉴스를 통해 공지됐다. 이번 고시는 당일 외환시장 마감 시점에 확인된 외국환시세를 전달한 것으로, 제목에는 ‘외국환시세(5월8일·마감가)’가 명시됐다. 제공된 원문 정보에는 개별 통화별 환율 수치나 등락 폭은 포함되지 않았다. 외국환시세 마감가는 기업의 결제, 금융거래, 해외송금, 투자자 환율 확인 등에 참고되는 기초 정보다. 다만 구체적인 환율 수준과 변동 배경은 원문에 제시된 범위를 넘어서는 만큼 추가 해석은 제한된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "May 8 Closing Foreign Exchange Rates Released at 3:30 p.m. Market Close",
+        "excerpt": "Yonhap News reported the closing foreign exchange rates for May 8 as of 3:30 p.m., providing market-close reference information for currency rates that day.",
+        "body": "The closing foreign exchange rates for May 8 were announced through Yonhap News as of 3:30 p.m. The notice provides foreign exchange rate information confirmed at the market close on that day, under the headline “Foreign Exchange Rates (May 8, Closing Prices).” The source information provided here does not include individual currency rates or changes. Closing foreign exchange rates serve as basic reference data for corporate settlements, financial transactions, overseas remittances and investors checking currency levels. However, because the original information does not present specific rate levels or reasons for movements, further interpretation is limited. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "5月8日の外国為替相場終値、午後3時30分基準で発表",
+        "excerpt": "聯合ニュースは5月8日午後3時30分基準の外国為替相場終値を伝え、同日の市場終了時点の為替情報を確認できるようにした。",
+        "body": "5月8日午後3時30分基準の外国為替相場終値が、聯合ニュースを通じて公表された。今回の告知は、同日の外国為替市場終了時点で確認された相場情報を伝えるもので、見出しには「外国為替相場（5月8日・終値）」と明記された。提供された原文情報には、個別通貨別の為替レートや騰落幅は含まれていない。外国為替相場の終値は、企業決済、金融取引、海外送金、投資家による為替確認などの基礎資料となる。ただし、具体的な水準や変動背景は原文の範囲を超えるため、追加解釈は控えられる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "5月8日外汇牌价收盘价发布，下午3时30分基准信息",
+        "excerpt": "韩联社发布5月8日下午3时30分基准的外汇牌价收盘价，为确认当天外汇市场收盘时点的汇率信息提供参考。",
+        "body": "韩联社发布了5月8日下午3时30分基准的外汇牌价收盘价。此次信息反映当天外汇市场收盘时点确认的外汇牌价，标题标明为“外汇牌价（5月8日·收盘价）”。所提供的原文信息未包含各币种具体汇率或涨跌幅。外汇牌价收盘价可作为企业结算、金融交易、海外汇款以及投资者查询汇率时的基础参考信息。不过，具体汇率水平及变动背景并未在原文范围内列出，因此不作进一步延伸解读。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tipos de cambio del 8 de mayo: cierre publicado a las 15:30",
+        "excerpt": "Yonhap informó los tipos de cambio de cierre del 8 de mayo con referencia a las 15:30, ofreciendo datos del mercado cambiario al momento del cierre.",
+        "body": "Los tipos de cambio de cierre del 8 de mayo fueron publicados por Yonhap News con referencia a las 15:30. El aviso transmite la información de divisas confirmada al cierre del mercado de ese día, bajo el título “Tipos de cambio (8 de mayo, cierre)”. La información original proporcionada no incluye cotizaciones por moneda ni variaciones. Los tipos de cambio de cierre sirven como referencia básica para pagos empresariales, operaciones financieras, remesas internacionales y consultas de inversores. Sin embargo, como el texto original no presenta niveles concretos ni razones de movimiento, no corresponde añadir interpretaciones adicionales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Câmbio de 8 de maio: cotações de fechamento divulgadas às 15h30",
+        "excerpt": "A Yonhap informou as cotações de fechamento do câmbio em 8 de maio, com referência às 15h30, oferecendo dados do mercado no momento do encerramento.",
+        "body": "As cotações de fechamento do câmbio em 8 de maio foram divulgadas pela Yonhap News com referência às 15h30. O comunicado apresenta as informações de câmbio confirmadas no encerramento do mercado naquele dia, sob o título “Cotações de câmbio (8 de maio, fechamento)”. A informação original fornecida não inclui taxas por moeda nem variações. As cotações de fechamento servem como referência básica para liquidações empresariais, transações financeiras, remessas ao exterior e consultas de investidores. No entanto, como o texto original não apresenta níveis específicos nem motivos de variação, interpretações adicionais são limitadas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Devisenkurse vom 8. Mai: Schlusskurse um 15:30 Uhr veröffentlicht",
+        "excerpt": "Yonhap meldete die Devisen-Schlusskurse vom 8. Mai auf Basis von 15:30 Uhr und stellte damit Referenzdaten zum Marktende bereit.",
+        "body": "Die Devisen-Schlusskurse vom 8. Mai wurden von Yonhap News auf Basis von 15:30 Uhr veröffentlicht. Die Meldung gibt die zum Marktende dieses Tages bestätigten Devisenkurse wieder und trägt den Titel „Devisenkurse (8. Mai, Schlusskurse)“. Die bereitgestellte Originalinformation enthält keine einzelnen Währungskurse oder Veränderungen. Devisen-Schlusskurse dienen als grundlegende Referenz für Unternehmensabrechnungen, Finanzgeschäfte, Auslandsüberweisungen und Anleger, die Wechselkurse prüfen. Da der Originaltext jedoch keine konkreten Kursniveaus oder Bewegungsgründe nennt, bleibt eine weitergehende Interpretation begrenzt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Changes du 8 mai : cours de clôture publiés à 15h30",
+        "excerpt": "Yonhap a publié les cours de clôture des changes du 8 mai, sur la base de 15h30, fournissant une référence au moment de la fin du marché.",
+        "body": "Les cours de clôture des changes du 8 mai ont été annoncés par Yonhap News sur la base de 15h30. Cette publication présente les informations de change confirmées à la clôture du marché ce jour-là, sous le titre « Cours des changes (8 mai, clôture) ». Les informations originales fournies ne comprennent pas les taux par devise ni les variations. Les cours de clôture servent de référence de base pour les règlements d’entreprises, les transactions financières, les transferts à l’étranger et les vérifications des investisseurs. Toutefois, comme le texte original ne précise ni niveaux concrets ni causes de mouvement, toute interprétation supplémentaire reste limitée. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار الصرف في 8 مايو: نشر أسعار الإغلاق عند الساعة 3:30 مساء",
+        "excerpt": "أفادت يونهاب بأسعار إغلاق الصرف الأجنبي ليوم 8 مايو وفق توقيت الساعة 3:30 مساء، لتوفير مرجع لحالة السوق عند الإغلاق.",
+        "body": "نُشرت أسعار إغلاق الصرف الأجنبي ليوم 8 مايو عبر وكالة يونهاب استنادا إلى الساعة 3:30 مساء. وتعرض هذه النشرة معلومات أسعار الصرف التي تم تأكيدها عند إغلاق سوق الصرف في ذلك اليوم، تحت عنوان “أسعار الصرف الأجنبي (8 مايو، أسعار الإغلاق)”. ولا تتضمن المعلومات الأصلية المقدمة أسعارا مفصلة لكل عملة أو نسب تغير. وتعد أسعار الإغلاق مرجعا أساسيا لتسويات الشركات والمعاملات المالية والتحويلات الخارجية ومتابعة المستثمرين للعملات. ومع ذلك، لا يورد النص الأصلي مستويات محددة أو أسبابا للتحرك، لذلك تبقى أي قراءة إضافية محدودة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "8 मई विदेशी विनिमय दरें: 3:30 बजे के समापन भाव जारी",
+        "excerpt": "योनहाप ने 8 मई को दोपहर 3:30 बजे के आधार पर विदेशी विनिमय दरों के समापन भाव जारी किए, जिससे बाजार बंद होने की दरों का संदर्भ मिला।",
+        "body": "8 मई को दोपहर 3:30 बजे के आधार पर विदेशी विनिमय दरों के समापन भाव योनहाप न्यूज के माध्यम से जारी किए गए। यह सूचना उस दिन विदेशी मुद्रा बाजार बंद होने के समय पुष्टि की गई विनिमय दर जानकारी बताती है, जिसका शीर्षक “विदेशी विनिमय दरें (8 मई, समापन भाव)” है। उपलब्ध मूल जानकारी में अलग-अलग मुद्राओं की दरें या बदलाव शामिल नहीं हैं। समापन विनिमय दरें कंपनियों के भुगतान, वित्तीय लेनदेन, विदेशी प्रेषण और निवेशकों द्वारा दरों की जांच के लिए बुनियादी संदर्भ होती हैं। हालांकि मूल पाठ में ठोस दर स्तर या बदलाव के कारण नहीं दिए गए, इसलिए अतिरिक्त व्याख्या सीमित है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Valuta Asing 8 Mei: Harga Penutupan Dirilis Pukul 15.30",
+        "excerpt": "Yonhap melaporkan kurs valuta asing penutupan 8 Mei berdasarkan pukul 15.30, menyediakan referensi nilai tukar pada saat pasar ditutup.",
+        "body": "Kurs valuta asing penutupan 8 Mei diumumkan melalui Yonhap News berdasarkan pukul 15.30. Informasi ini menyampaikan kurs valuta asing yang dikonfirmasi pada saat pasar ditutup hari itu, dengan judul “Kurs Valuta Asing (8 Mei, Harga Penutupan)”. Informasi asli yang tersedia tidak memuat kurs per mata uang maupun besaran perubahan. Kurs penutupan menjadi rujukan dasar untuk penyelesaian pembayaran perusahaan, transaksi keuangan, remitansi luar negeri, dan pengecekan nilai tukar oleh investor. Namun, karena teks asli tidak menyajikan level kurs tertentu atau latar belakang pergerakan, penafsiran tambahan dibatasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f84b7530167a",
+    "slug": "특징주-현대차-7-급등현대차그룹주-일제히-상승-마감종합-365013",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T11:00:59.843Z",
+    "updatedAt": "2026-05-09T11:00:59.843Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508096851008",
+    "titleFingerprint": "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
+    "dedupKeys": [
+      "f84b7530167a9d6be6229479df655e1edabd8f6a",
+      "2018ea9bde3e9189eacca306f03d3a3c58a6ac61",
+      "c1a866c802d0a9c8b4e67a252b6f1d121bb42cc5"
+    ],
+    "imageUrl": "/images/articles/f84b7530167a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차 7% 급등, 현대차그룹주 8일 일제히 상승 마감",
+        "excerpt": "현대차가 8일 7% 넘게 급등하며 현대차그룹 관련주가 일제히 강세로 마감했다. 연합뉴스는 이날 그룹주 전반의 상승 흐름을 특징주로 전했다.",
+        "body": "서울 증시에서 8일 현대차가 7% 넘게 급등하며 현대차그룹 관련주가 일제히 상승세로 장을 마쳤다. 연합뉴스에 따르면 이날 현대차를 중심으로 현대차그룹주 전반이 강세를 이어가며 투자자들의 관심을 받았다. 원문은 현대차의 상승 폭이 7%를 넘었다는 점과 그룹 관련주가 함께 오른 흐름을 핵심 내용으로 제시했다. 이번 움직임은 개별 종목을 넘어 현대차그룹 관련 종목 전반의 주가 흐름을 확인하게 한 거래일로 기록됐다. 구체적인 상승 배경이나 추가 수치는 원문에 별도로 제시되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Hyundai Motor jumps over 7% as group shares close higher on May 8",
+        "excerpt": "Hyundai Motor surged more than 7% on May 8, while Hyundai Motor Group-related shares broadly closed stronger, Yonhap News Agency reported in its feature stock coverage.",
+        "body": "In the Seoul stock market on May 8, Hyundai Motor jumped more than 7%, and shares related to Hyundai Motor Group ended the session higher across the board. According to Yonhap News Agency, group stocks centered on Hyundai Motor continued to show strength during the day and drew investor attention. The original report highlighted Hyundai Motor’s gain of more than 7% and the simultaneous rise in related group shares. The move marked a trading day that showed strength not only in one stock but across Hyundai Motor Group-related names. The original article did not provide a specific reason for the rise or additional figures. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "現代自動車が7％超急騰、現代自動車グループ株が8日に一斉高で終了",
+        "excerpt": "現代自動車は8日に7％を超えて急騰し、現代自動車グループ関連株もそろって強含みで取引を終えたと聯合ニュースが伝えた。",
+        "body": "ソウル株式市場で8日、現代自動車が7％を超えて急騰し、現代自動車グループ関連株も一斉に上昇して取引を終えた。聯合ニュースによると、この日は現代自動車を中心にグループ株全般が強い流れを続け、投資家の関心を集めた。原文は、現代自動車の上昇率が7％を上回った点と、グループ関連株がそろって上昇した流れを主な内容として示している。今回の動きは、個別銘柄にとどまらず現代自動車グループ関連銘柄全体の株価動向を確認させた取引日となった。具体的な上昇背景や追加数値は原文で別途示されていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "现代汽车大涨逾7%，现代汽车集团股8日集体收高",
+        "excerpt": "现代汽车8日大涨超过7%，现代汽车集团相关股票也集体走强并收高。韩联社在当日特色股报道中介绍了这一走势。",
+        "body": "在首尔股市8日交易中，现代汽车大涨超过7%，现代汽车集团相关股票也集体上涨并收盘走强。据韩联社报道，当天以现代汽车为中心，现代汽车集团股整体延续强势，受到投资者关注。原文将现代汽车涨幅超过7%，以及集团相关股票同步上涨的走势列为核心内容。此次行情显示，股价变化并非局限于单一股票，而是扩展至现代汽车集团相关股票整体。原文未另行提供具体上涨背景或更多数据。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Hyundai Motor sube más del 7% y acciones del grupo cierran al alza el 8 de mayo",
+        "excerpt": "Hyundai Motor se disparó más de un 7% el 8 de mayo y las acciones vinculadas al grupo Hyundai Motor cerraron en general con avances, informó Yonhap.",
+        "body": "En la bolsa de Seúl, el 8 de mayo Hyundai Motor subió más de un 7%, mientras las acciones relacionadas con Hyundai Motor Group cerraron la sesión al alza de forma generalizada. Según Yonhap News Agency, los valores del grupo, encabezados por Hyundai Motor, mantuvieron la fortaleza durante la jornada y atrajeron la atención de los inversores. El reporte original destacó como puntos centrales el avance superior al 7% de Hyundai Motor y el movimiento conjunto de las acciones relacionadas del grupo. La sesión mostró una tendencia que fue más allá de una sola acción y alcanzó a los valores vinculados a Hyundai Motor Group. El texto original no presentó una causa específica ni cifras adicionales. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai Motor salta mais de 7% e ações do grupo fecham em alta em 8 de maio",
+        "excerpt": "A Hyundai Motor avançou mais de 7% em 8 de maio, enquanto ações ligadas ao Hyundai Motor Group fecharam em alta de forma ampla, informou a Yonhap.",
+        "body": "Na bolsa de Seul, em 8 de maio, a Hyundai Motor disparou mais de 7%, e as ações relacionadas ao Hyundai Motor Group encerraram o pregão em alta de forma generalizada. Segundo a Yonhap News Agency, os papéis do grupo, liderados pela Hyundai Motor, mantiveram força ao longo do dia e atraíram a atenção dos investidores. A reportagem original destacou como pontos centrais a alta superior a 7% da Hyundai Motor e o avanço conjunto das ações vinculadas ao grupo. O movimento registrou uma sessão em que a tendência não ficou limitada a uma ação individual, mas alcançou os papéis relacionados ao Hyundai Motor Group. O texto original não apresentou motivo específico para a alta nem números adicionais. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Hyundai Motor steigt über 7%, Konzernaktien schließen am 8. Mai deutlich fester",
+        "excerpt": "Hyundai Motor legte am 8. Mai um mehr als 7% zu, während Aktien aus dem Umfeld der Hyundai Motor Group insgesamt stärker schlossen, berichtete Yonhap.",
+        "body": "An der Börse in Seoul sprang Hyundai Motor am 8. Mai um mehr als 7% nach oben, und Aktien mit Bezug zur Hyundai Motor Group beendeten den Handel insgesamt höher. Nach Angaben der Nachrichtenagentur Yonhap zeigten die Konzernwerte rund um Hyundai Motor an diesem Tag weiter Stärke und zogen die Aufmerksamkeit der Anleger auf sich. Der Originalbericht stellte den Anstieg von Hyundai Motor um mehr als 7% sowie die gleichzeitige Aufwärtsbewegung der verbundenen Konzernaktien in den Mittelpunkt. Damit war es ein Handelstag, der nicht nur eine einzelne Aktie, sondern die breitere Entwicklung der Hyundai-Motor-Group-Werte sichtbar machte. Konkrete Gründe für den Anstieg oder zusätzliche Zahlen wurden im Original nicht genannt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai Motor bondit de plus de 7%, les actions du groupe clôturent en hausse le 8 mai",
+        "excerpt": "Hyundai Motor a bondi de plus de 7% le 8 mai, tandis que les actions liées à Hyundai Motor Group ont largement terminé en hausse, selon Yonhap.",
+        "body": "À la Bourse de Séoul, le 8 mai, Hyundai Motor a bondi de plus de 7%, tandis que les actions liées à Hyundai Motor Group ont terminé la séance en hausse dans leur ensemble. Selon l’agence Yonhap, les valeurs du groupe, emmenées par Hyundai Motor, ont continué d’afficher de la vigueur au cours de la journée et ont attiré l’attention des investisseurs. L’article original mettait en avant la progression de plus de 7% de Hyundai Motor et la hausse simultanée des actions liées au groupe. Ce mouvement a marqué une séance où la tendance ne s’est pas limitée à une seule valeur, mais a concerné plus largement les titres liés à Hyundai Motor Group. Le texte original n’a pas fourni de raison précise ni de chiffres supplémentaires. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي موتور تقفز بأكثر من 7% وأسهم المجموعة تغلق مرتفعة في 8 مايو",
+        "excerpt": "قفز سهم هيونداي موتور بأكثر من 7% في 8 مايو، فيما أغلقت الأسهم المرتبطة بمجموعة هيونداي موتور على ارتفاع جماعي، بحسب وكالة يونهاب.",
+        "body": "في سوق الأسهم في سول يوم 8 مايو، قفز سهم هيونداي موتور بأكثر من 7%، وأغلقت الأسهم المرتبطة بمجموعة هيونداي موتور على ارتفاع واسع. وبحسب وكالة يونهاب للأنباء، واصلت أسهم المجموعة، بقيادة هيونداي موتور، أداءها القوي خلال الجلسة وجذبت اهتمام المستثمرين. وركز التقرير الأصلي على نقطتين أساسيتين: ارتفاع سهم هيونداي موتور بأكثر من 7%، وصعود الأسهم المرتبطة بالمجموعة في الوقت نفسه. ويظهر هذا التحرك أن جلسة التداول لم تقتصر على سهم منفرد، بل عكست اتجاها أوسع في أسهم مجموعة هيونداي موتور. ولم يورد النص الأصلي سببا محددا للارتفاع أو أرقاما إضافية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai Motor 7% से अधिक उछला, समूह शेयर 8 मई को मजबूती के साथ बंद",
+        "excerpt": "Hyundai Motor 8 मई को 7% से अधिक उछला और Hyundai Motor Group से जुड़े शेयर व्यापक रूप से मजबूती के साथ बंद हुए, Yonhap ने रिपोर्ट किया।",
+        "body": "सियोल शेयर बाजार में 8 मई को Hyundai Motor 7% से अधिक उछला और Hyundai Motor Group से जुड़े शेयरों ने व्यापक रूप से बढ़त के साथ कारोबार समाप्त किया। Yonhap News Agency के अनुसार, Hyundai Motor को केंद्र में रखते हुए समूह के शेयरों में दिन भर मजबूती बनी रही और उन्होंने निवेशकों का ध्यान खींचा। मूल रिपोर्ट ने Hyundai Motor की 7% से अधिक बढ़त और समूह से जुड़े शेयरों के साथ-साथ ऊपर जाने की चाल को मुख्य बिंदु के रूप में प्रस्तुत किया। यह गतिविधि ऐसे कारोबारी दिन के रूप में दर्ज हुई जिसमें रुझान केवल एक शेयर तक सीमित नहीं रहा, बल्कि Hyundai Motor Group से जुड़े शेयरों में व्यापक रूप से दिखाई दिया। मूल लेख में बढ़त का कोई विशेष कारण या अतिरिक्त आंकड़े अलग से नहीं दिए गए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Hyundai Motor melonjak lebih dari 7%, saham grup kompak ditutup naik pada 8 Mei",
+        "excerpt": "Hyundai Motor melonjak lebih dari 7% pada 8 Mei, sementara saham terkait Hyundai Motor Group secara luas ditutup menguat, menurut laporan Yonhap.",
+        "body": "Di bursa Seoul pada 8 Mei, Hyundai Motor melonjak lebih dari 7%, sementara saham-saham yang terkait dengan Hyundai Motor Group menutup perdagangan dengan kenaikan secara luas. Menurut Yonhap News Agency, saham grup yang berpusat pada Hyundai Motor terus menunjukkan penguatan pada hari itu dan menarik perhatian investor. Laporan asli menyoroti kenaikan Hyundai Motor yang melampaui 7% serta pergerakan naik bersama saham-saham terkait grup. Pergerakan ini mencatatkan satu hari perdagangan yang menunjukkan arah harga tidak hanya pada satu saham, tetapi juga pada saham-saham terkait Hyundai Motor Group secara keseluruhan. Artikel asli tidak menyajikan alasan khusus atas kenaikan tersebut atau angka tambahan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a49aeb7da677",
+    "slug": "무주-안성면에-귀농귀촌-마을-조성내년까지-40가구-규모-986510",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T10:59:57.793Z",
+    "updatedAt": "2026-05-09T10:59:57.793Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508127100055",
+    "titleFingerprint": "2038fb93bfaee73560269063d29f0506e4e92994",
+    "dedupKeys": [
+      "a49aeb7da677b02c83f09fce7012c071f8095af4",
+      "2038fb93bfaee73560269063d29f0506e4e92994",
+      "b5d212e886560232f0eda7ba4c716c7e4b48f455"
+    ],
+    "imageUrl": "/images/articles/a49aeb7da677.jpg",
+    "i18n": {
+      "ko": {
+        "title": "무주 안성면 귀농귀촌 에코빌리지 조성, 2027년까지 40가구 규모",
+        "excerpt": "전북 무주군이 안성면 공정리에 2027년까지 귀농귀촌인과 은퇴자를 위한 40가구 규모 친환경마을 에코빌리지를 조성한다고 연합뉴스가 보도했다.",
+        "body": "전북 무주군은 안성면 공정리에 귀농귀촌인과 은퇴자를 위한 친환경마을, 이른바 에코빌리지를 2027년까지 조성한다. 규모는 40가구로 계획됐다. 이번 사업은 무주군 안성면 공정리를 대상지로 하며, 도시에서 농촌으로 이주하려는 귀농귀촌 수요와 은퇴 이후 정주를 원하는 이들을 위한 마을 조성이라는 점이 핵심이다. 군은 내년까지 40가구 규모의 친환경 주거 마을을 마련해 지역 정착 기반을 넓히는 방향으로 사업을 추진한다. 완공 이후에는 무주 지역의 귀농귀촌 유입과 은퇴자 정착에 영향을 줄 전망이다. 출처: yna.co.kr 인용"
+      },
+      "en": {
+        "title": "Muju to Build 40-Home Eco-Village in Anseong-myeon by 2027",
+        "excerpt": "Muju County in North Jeolla plans to create a 40-household eco-village in Gongjeong-ri, Anseong-myeon, by 2027 for return-to-farm residents, rural migrants and retirees, Yonhap reported.",
+        "body": "Muju County in North Jeolla Province will build an eco-friendly village, or eco-village, in Gongjeong-ri, Anseong-myeon, by 2027 for people returning to farming, moving to rural areas and retirees. The project is planned on a scale of 40 households. The site is Gongjeong-ri in Anseong-myeon, Muju, and the key purpose is to create a residential village for people seeking to move from cities to rural communities and for those looking to settle after retirement. The county plans to prepare the 40-home eco-friendly residential village by next year, expanding the foundation for local settlement. Once completed, it is expected to affect the inflow of return-to-rural residents and the settlement of retirees in Muju. Source: cited from yna.co.kr"
+      },
+      "ja": {
+        "title": "茂朱・安城面に帰農帰村エコビレッジ、2027年まで40世帯規模",
+        "excerpt": "全北の茂朱郡は、安城面公正里に2027年まで帰農帰村者と退職者向けの40世帯規模の環境配慮型村、エコビレッジを整備すると聯合ニュースが報じた。",
+        "body": "全北の茂朱郡は、安城面公正里に帰農帰村者と退職者のための環境配慮型村、いわゆるエコビレッジを2027年までに整備する。規模は40世帯で計画されている。今回の事業は茂朱郡安城面公正里を対象地とし、都市から農村へ移住しようとする帰農帰村需要と、退職後の定住を望む人々のための村づくりである点が中心となる。郡は来年までに40世帯規模の環境配慮型住宅村を用意し、地域定着の基盤を広げる方向で事業を進める。完成後は、茂朱地域への帰農帰村者の流入と退職者の定着に影響を与える見通しだ。出典: yna.co.kr 引用"
+      },
+      "zh": {
+        "title": "茂朱安城面将建归农归村生态村，2027年前达40户规模",
+        "excerpt": "据韩联社报道，全北茂朱郡将在安城面公正里于2027年前建设面向归农归村者和退休人员的40户规模环保村，即生态村。",
+        "body": "全北茂朱郡将在安城面公正里为归农归村者和退休人员建设环保村，即生态村，计划到2027年完成。项目规模为40户。此次事业选址茂朱郡安城面公正里，重点在于建设一个面向希望从城市迁往农村的归农归村需求人群，以及退休后希望定居者的居住村。郡方面计划在明年前建设40户规模的环保居住村，扩大当地定居基础。建成后，预计将对茂朱地区归农归村人口流入和退休人员定居产生影响。来源：引自 yna.co.kr"
+      },
+      "es": {
+        "title": "Muju creará una ecoaldea de 40 hogares en Anseong-myeon para 2027",
+        "excerpt": "El condado de Muju, en Jeolla del Norte, construirá en Gongjeong-ri, Anseong-myeon, una ecoaldea de 40 hogares para migrantes rurales, retornados al campo y jubilados, informó Yonhap.",
+        "body": "El condado de Muju, en la provincia de Jeolla del Norte, construirá hasta 2027 una aldea ecológica, o ecoaldea, en Gongjeong-ri, Anseong-myeon, para personas que regresan a la agricultura, migrantes hacia zonas rurales y jubilados. El proyecto está previsto para 40 hogares. El emplazamiento será Gongjeong-ri, en Anseong-myeon, Muju, y su eje es crear una comunidad residencial para quienes buscan trasladarse de la ciudad al campo y para quienes desean establecerse tras la jubilación. El condado impulsará el proyecto para preparar antes del próximo año una aldea residencial ecológica de 40 hogares y ampliar la base de asentamiento local. Una vez terminada, se prevé que influya en la llegada de nuevos residentes rurales y en el asentamiento de jubilados en Muju. Fuente: citado de yna.co.kr"
+      },
+      "pt": {
+        "title": "Muju vai criar ecovila de 40 casas em Anseong-myeon até 2027",
+        "excerpt": "O condado de Muju, em Jeolla do Norte, planeja construir em Gongjeong-ri, Anseong-myeon, uma ecovila de 40 moradias para migrantes rurais, retornados ao campo e aposentados, informou a Yonhap.",
+        "body": "O condado de Muju, na província de Jeolla do Norte, vai construir até 2027 uma vila ecológica, ou ecovila, em Gongjeong-ri, Anseong-myeon, para pessoas que retornam à agricultura, migrantes para áreas rurais e aposentados. O projeto está planejado para 40 moradias. A área escolhida é Gongjeong-ri, em Anseong-myeon, Muju, e o ponto central é criar uma comunidade residencial para atender à demanda de quem pretende sair da cidade para o campo e de quem deseja se fixar após a aposentadoria. O condado pretende preparar até o próximo ano uma vila residencial ecológica de 40 casas, ampliando a base de assentamento local. Após a conclusão, o projeto deverá influenciar a chegada de novos moradores rurais e a fixação de aposentados em Muju. Fonte: citado de yna.co.kr"
+      },
+      "de": {
+        "title": "Muju baut bis 2027 Ökodorf mit 40 Haushalten in Anseong-myeon",
+        "excerpt": "Der Landkreis Muju in Nord-Jeolla will in Gongjeong-ri, Anseong-myeon, bis 2027 ein Ökodorf mit 40 Haushalten für Rückkehrer aufs Land, ländliche Zuzügler und Rentner schaffen, berichtete Yonhap.",
+        "body": "Der Landkreis Muju in der Provinz Nord-Jeolla wird in Gongjeong-ri, Anseong-myeon, bis 2027 ein umweltfreundliches Dorf, ein sogenanntes Ökodorf, für Menschen bauen, die zur Landwirtschaft zurückkehren, in ländliche Gebiete ziehen, sowie für Rentner. Geplant ist eine Größe von 40 Haushalten. Standort des Vorhabens ist Gongjeong-ri in Anseong-myeon, Muju. Im Mittelpunkt steht die Schaffung eines Wohnorts für die Nachfrage nach einem Umzug aus der Stadt aufs Land und für Menschen, die sich nach dem Ruhestand niederlassen möchten. Der Landkreis will bis zum nächsten Jahr ein ökologisches Wohndorf mit 40 Haushalten vorbereiten und damit die Grundlage für lokale Ansiedlung verbreitern. Nach der Fertigstellung dürfte das Projekt den Zuzug ländlicher Neubewohner und die Ansiedlung von Rentnern in Muju beeinflussen. Quelle: zitiert nach yna.co.kr"
+      },
+      "fr": {
+        "title": "Muju aménagera un écovillage de 40 foyers à Anseong-myeon d’ici 2027",
+        "excerpt": "Le comté de Muju, dans le Jeolla du Nord, aménagera à Gongjeong-ri, Anseong-myeon, un écovillage de 40 foyers destiné aux néoruraux, aux personnes revenant à l’agriculture et aux retraités, selon Yonhap.",
+        "body": "Le comté de Muju, dans la province du Jeolla du Nord, aménagera d’ici 2027 un village écologique, ou écovillage, à Gongjeong-ri, Anseong-myeon, pour les personnes revenant à l’agriculture, celles qui s’installent en milieu rural et les retraités. Le projet est prévu à l’échelle de 40 foyers. Le site retenu est Gongjeong-ri, à Anseong-myeon, Muju, et l’objectif central est de créer un village résidentiel répondant à la demande de migration de la ville vers la campagne ainsi qu’au souhait de s’établir après la retraite. Le comté entend préparer d’ici l’an prochain un village résidentiel écologique de 40 foyers afin d’élargir les bases de l’installation locale. Une fois achevé, il devrait avoir un effet sur l’arrivée de nouveaux résidents ruraux et l’installation de retraités à Muju. Source: cité de yna.co.kr"
+      },
+      "ar": {
+        "title": "موجو تنشئ قرية بيئية من 40 منزلا في أنسونغ-ميون بحلول 2027",
+        "excerpt": "أعلنت مقاطعة موجو في شمال جولا أنها ستنشئ في غونغجونغ-ري، أنسونغ-ميون، قرية بيئية تضم 40 أسرة بحلول 2027 للعائدين إلى الزراعة والريف والمتقاعدين، بحسب يونهاب.",
+        "body": "تعتزم مقاطعة موجو في إقليم شمال جولا إنشاء قرية صديقة للبيئة، أو قرية بيئية، في غونغجونغ-ري بمنطقة أنسونغ-ميون بحلول عام 2027، مخصصة للعائدين إلى الزراعة والمنتقلين إلى الريف والمتقاعدين. ويخطط للمشروع بحجم 40 أسرة. ويقع موقع المشروع في غونغجونغ-ري، أنسونغ-ميون، موجو، ويتمحور حول إنشاء قرية سكنية لمن يرغبون في الانتقال من المدن إلى المناطق الريفية، ولمن يريدون الاستقرار بعد التقاعد. وتمضي المقاطعة في المشروع لإعداد قرية سكنية صديقة للبيئة تضم 40 منزلا بحلول العام المقبل، بما يوسع قاعدة الاستقرار المحلي. وبعد اكتمالها، من المتوقع أن تؤثر في تدفق العائدين إلى الريف واستقرار المتقاعدين في موجو. المصدر: نقلا عن yna.co.kr"
+      },
+      "hi": {
+        "title": "मुजू के अनसोंग-म्योन में 2027 तक 40 घरों वाला इको-विलेज बनेगा",
+        "excerpt": "उत्तर जिओला के मुजू काउंटी ने अनसोंग-म्योन के गोंगजोंग-री में 2027 तक लौटकर खेती करने वालों, ग्रामीण प्रवासियों और सेवानिवृत्त लोगों के लिए 40 घरों वाला पर्यावरण-अनुकूल गांव बनाने की योजना बताई, योनहाप ने रिपोर्ट किया।",
+        "body": "उत्तर जिओला प्रांत का मुजू काउंटी अनसोंग-म्योन के गोंगजोंग-री में 2027 तक लौटकर खेती करने वालों, ग्रामीण क्षेत्रों में बसने वालों और सेवानिवृत्त लोगों के लिए पर्यावरण-अनुकूल गांव, यानी इको-विलेज, बनाएगा। परियोजना 40 घरों के पैमाने पर नियोजित है। इसका स्थल मुजू काउंटी के अनसोंग-म्योन में गोंगजोंग-री है, और इसका मुख्य उद्देश्य शहरों से ग्रामीण क्षेत्रों में स्थानांतरित होने की मांग तथा सेवानिवृत्ति के बाद बसने की इच्छा रखने वालों के लिए आवासीय गांव तैयार करना है। काउंटी अगले साल तक 40 घरों वाला पर्यावरण-अनुकूल आवासीय गांव तैयार करने की दिशा में परियोजना आगे बढ़ाएगा, जिससे स्थानीय बसावट का आधार व्यापक होगा। पूरा होने के बाद, यह मुजू क्षेत्र में ग्रामीण प्रवासियों की आमद और सेवानिवृत्त लोगों की बसावट पर असर डालने की उम्मीद है। स्रोत: yna.co.kr से उद्धृत"
+      },
+      "id": {
+        "title": "Muju Bangun Ecovillage 40 Rumah di Anseong-myeon hingga 2027",
+        "excerpt": "Kabupaten Muju di Jeolla Utara akan membangun ecovillage 40 rumah tangga di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk pendatang desa, pelaku kembali bertani, dan pensiunan, lapor Yonhap.",
+        "body": "Kabupaten Muju di Provinsi Jeolla Utara akan membangun desa ramah lingkungan, atau ecovillage, di Gongjeong-ri, Anseong-myeon, hingga 2027 untuk warga yang kembali bertani, pendatang ke wilayah pedesaan, dan pensiunan. Proyek ini direncanakan berskala 40 rumah tangga. Lokasinya berada di Gongjeong-ri, Anseong-myeon, Muju, dengan inti pembangunan berupa desa hunian bagi kebutuhan perpindahan dari kota ke desa serta bagi mereka yang ingin menetap setelah pensiun. Pemerintah kabupaten akan menyiapkan desa hunian ramah lingkungan berisi 40 rumah tangga hingga tahun depan guna memperluas dasar permukiman lokal. Setelah selesai, proyek ini diperkirakan berdampak pada masuknya penduduk baru ke pedesaan dan menetapnya pensiunan di Muju. Sumber: dikutip dari yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "21b70ab65ace",
     "slug": "특징주-하이닉스는-또-오르고삼전은-숨고르기종합-692177",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Suecomma Bonnie Luncurkan Lini Sepatu Musim Panas dengan Strap Flat",
         "excerpt": "Suecomma Bonnie, merek sepatu kontemporer di bawah Kolon Industries FnC, meluncurkan lini sepatu musim panas yang mencakup strap flat.",
         "body": "Suecomma Bonnie, merek sepatu kontemporer yang dijalankan oleh divisi FnC Kolon Industries, memperkenalkan “lini sepatu” baru untuk musim panas. Lini ini diperkenalkan dengan strap flat sebagai fokus utama serta produk yang sesuai untuk musim panas. Judul asli juga menyebut “Aero Fresh” dari Blackyak bersama lini sepatu Kolon FnC sebagai item panas pekan ini. Di tengah langkah merek fesyen dan outdoor menonjolkan produk baru sesuai permintaan musiman, peluncuran ini menambah pilihan bagi konsumen pada musim panas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "86fb99e4eb4c",
-    "slug": "車-5부제-특약-이달-말-출시위반-시-할인-제한할증-가능-860539",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:53:06.942Z",
-    "updatedAt": "2026-05-08T21:53:06.942Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508159300002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508159300002",
-    "titleFingerprint": "0e49654f166713d7b878e0f7f93d486dabaa23f1",
-    "dedupKeys": [
-      "86fb99e4eb4c579fe635ea5b5755f562044cb6c6",
-      "0e49654f166713d7b878e0f7f93d486dabaa23f1",
-      "6e233e1bd69370e37067ebca9f328823650874dc"
-    ],
-    "imageUrl": "/images/articles/86fb99e4eb4c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "차량 5부제 특약 이달 말 출시…위반하면 보험료 할인 제한·할증 가능",
-        "excerpt": "손해보험사들이 이달 말 차량 5부제 참여 자동차를 대상으로 보험료를 할인하는 특별약관을 출시하며, 위반 시 할인 제한이나 할증이 가능해진다.",
-        "body": "손해보험사들이 이달 말 차량 5부제에 참여하는 자동차를 대상으로 보험료 할인 특별약관을 출시한다. 이번 특약은 5부제 운행에 동참하는 차량에 보험료 할인 혜택을 주는 방식으로 마련된다. 다만 특약 조건을 위반할 경우 할인 적용이 제한될 수 있고, 보험료 할증 가능성도 제시됐다. 차량 5부제 참여 여부가 자동차보험료 산정과 직접 연결되는 만큼 가입자는 약관의 참여 기준과 위반 시 불이익을 확인할 필요가 있다. 관련 내용은 연합뉴스가 보도했으며 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "Five-Day Car Rotation Insurance Rider Launches This Month With Penalties for Violations",
-        "excerpt": "Non-life insurers will launch a special rider by the end of this month to discount premiums for vehicles joining the five-day rotation system, with limits or surcharges possible for violations.",
-        "body": "Non-life insurance companies will launch a special rider at the end of this month that offers premium discounts to cars participating in the five-day vehicle rotation system. The rider is designed to provide insurance cost benefits to vehicles that comply with the rotation program. However, if the policy conditions are violated, the discount may be restricted and a premium surcharge may be applied. Because participation in the five-day system will be linked directly to auto insurance premiums, policyholders should check the participation rules and disadvantages for violations. The report was published by Yonhap News Agency; source: yna.co.kr."
-      },
-      "ja": {
-        "title": "車両5部制特約が今月末発売へ、違反時は保険料割引制限や割増も",
-        "excerpt": "損害保険各社は今月末、車両5部制に参加する自動車を対象に保険料を割り引く特別約款を発売し、違反時は割引制限や割増の可能性がある。",
-        "body": "損害保険会社は今月末、車両5部制に参加する自動車を対象に保険料割引を提供する特別約款を発売する。今回の特約は、5部制運行に参加する車両に保険料面の優遇を与える形で用意される。ただし、特約条件に違反した場合、割引の適用が制限される可能性があり、保険料の割増もあり得るとされた。車両5部制への参加が自動車保険料の算定と直接結び付くため、加入者は参加基準と違反時の不利益を確認する必要がある。関連内容は聯合ニュースが報じ、出典はyna.co.kr。"
-      },
-      "zh": {
-        "title": "车辆五日轮行保险特约本月底推出，违规或限制折扣并加费",
-        "excerpt": "损害保险公司将于本月底推出面向参与车辆五日轮行制度汽车的保费折扣特别条款，违规时可能限制折扣或提高保费。",
-        "body": "损害保险公司将于本月底推出特别条款，为参与车辆五日轮行制度的汽车提供保险费折扣。该特约以向配合五日轮行的车辆给予保费优惠为主要内容。不过，如果违反特约条件，折扣适用可能受到限制，也存在保险费加收的可能。由于是否参与车辆五日轮行将与汽车保险费计算直接相关，投保人有必要确认条款中的参与标准以及违规时的不利后果。相关内容由韩联社报道，来源为yna.co.kr。"
-      },
-      "es": {
-        "title": "Cláusula para autos con rotación de cinco días llega este mes con recargos por infracción",
-        "excerpt": "Las aseguradoras de daños lanzarán a finales de este mes una cláusula especial que descuenta primas a autos que participen en la rotación de cinco días, con límites o recargos si incumplen.",
-        "body": "Las compañías de seguros de daños lanzarán a finales de este mes una cláusula especial para ofrecer descuentos en la prima a los vehículos que participen en el sistema de rotación vehicular de cinco días. La medida está diseñada para otorgar beneficios en el seguro a los autos que se sumen al esquema. Sin embargo, si se violan las condiciones de la cláusula, la aplicación del descuento puede quedar limitada y también podría imponerse un recargo en la prima. Dado que la participación en la rotación quedará vinculada al cálculo del seguro de automóvil, los asegurados deben revisar los criterios y las desventajas por incumplimiento. Fuente: Yonhap, yna.co.kr."
-      },
-      "pt": {
-        "title": "Cláusula para rodízio de cinco dias sai este mês com desconto limitado se houver violação",
-        "excerpt": "Seguradoras de danos lançarão no fim deste mês uma cláusula especial que dá desconto a carros no rodízio de cinco dias, mas violações podem limitar o benefício ou gerar acréscimo.",
-        "body": "As seguradoras de danos lançarão no fim deste mês uma cláusula especial que concede desconto no prêmio a veículos participantes do sistema de rodízio de cinco dias. A cláusula foi preparada para oferecer benefício no seguro aos carros que aderirem ao esquema de circulação. No entanto, caso as condições da cláusula sejam violadas, a aplicação do desconto poderá ser restringida e também poderá haver acréscimo no prêmio. Como a participação no rodízio ficará diretamente ligada ao cálculo do seguro automotivo, os segurados precisam verificar os critérios de participação e as desvantagens em caso de descumprimento. A informação é da Yonhap; fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Kfz-Sonderklausel für Fünftage-Rotation startet Ende des Monats mit möglichen Aufschlägen",
-        "excerpt": "Schadenversicherer führen Ende des Monats eine Sonderklausel ein, die Beiträge für Fahrzeuge im Fünftage-Rotationssystem senkt; bei Verstößen drohen Rabattgrenzen oder Aufschläge.",
-        "body": "Schadenversicherer werden Ende dieses Monats eine Sonderklausel einführen, die Fahrzeugen im Fünftage-Rotationssystem Rabatte auf die Versicherungsprämie gewährt. Die Klausel soll Autos, die an der Regelung teilnehmen, einen Beitragsvorteil bieten. Werden die Bedingungen der Klausel jedoch verletzt, kann die Anwendung des Rabatts eingeschränkt werden; auch ein Prämienaufschlag ist möglich. Da die Teilnahme am Fünftage-System damit direkt mit der Berechnung der Kfz-Versicherung verbunden wird, sollten Versicherte die Teilnahmekriterien und Nachteile bei Verstößen prüfen. Dies berichtete Yonhap; Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Avenant auto pour rotation sur cinq jours lancé fin de mois, avec rabais limité si infraction",
-        "excerpt": "Les assureurs dommages lanceront fin ce mois un avenant spécial accordant un rabais aux voitures participant à la rotation sur cinq jours, avec possible limitation ou surprime en cas d’infraction.",
-        "body": "Les compagnies d’assurance dommages lanceront à la fin de ce mois un avenant spécial offrant une réduction de prime aux véhicules participant au système de rotation automobile sur cinq jours. Cet avenant vise à accorder un avantage d’assurance aux voitures qui respectent ce dispositif. Toutefois, si les conditions sont enfreintes, l’application du rabais pourra être limitée et une surprime pourra aussi être imposée. Comme la participation à la rotation sera directement liée au calcul de l’assurance automobile, les assurés devront vérifier les critères de participation et les désavantages prévus en cas de violation. L’information a été rapportée par Yonhap; source: yna.co.kr."
-      },
-      "ar": {
-        "title": "ملحق تأمين لسيارات نظام الخمسة أيام يصدر نهاية الشهر مع قيود ورفع محتمل للقسط",
-        "excerpt": "تعتزم شركات التأمين على الأضرار طرح ملحق خاص نهاية هذا الشهر يمنح خصما للسيارات المشاركة في نظام الخمسة أيام، مع إمكان تقييد الخصم أو زيادة القسط عند المخالفة.",
-        "body": "ستطرح شركات التأمين على الأضرار في نهاية هذا الشهر ملحقا خاصا يمنح خصما على قسط التأمين للسيارات المشاركة في نظام تشغيل المركبات وفق خمسة أيام. ويهدف الملحق إلى تقديم ميزة تأمينية للمركبات التي تلتزم بهذا النظام. لكن في حال مخالفة شروط الملحق، قد يتم تقييد تطبيق الخصم، كما قد يكون فرض زيادة على القسط ممكنا. وبما أن المشاركة في نظام الخمسة أيام سترتبط مباشرة بحساب قسط تأمين السيارة، ينبغي للمشتركين مراجعة معايير المشاركة والعواقب عند المخالفة. أوردت وكالة يونهاب الخبر، والمصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "पांच-दिवसीय वाहन प्रणाली के लिए बीमा विशेष शर्त इस माह अंत में, उल्लंघन पर छूट सीमित",
-        "excerpt": "नुकसान बीमा कंपनियां इस माह के अंत में पांच-दिवसीय वाहन प्रणाली में शामिल कारों के लिए प्रीमियम छूट वाली विशेष शर्त लाएंगी, उल्लंघन पर सीमा या अधिभार संभव है।",
-        "body": "नुकसान बीमा कंपनियां इस माह के अंत में पांच-दिवसीय वाहन संचालन प्रणाली में भाग लेने वाली कारों के लिए बीमा प्रीमियम में छूट देने वाली विशेष शर्त पेश करेंगी। यह विशेष शर्त उन वाहनों को बीमा लागत में लाभ देने के लिए तैयार की गई है जो इस प्रणाली में शामिल होते हैं। हालांकि, यदि विशेष शर्तों का उल्लंघन होता है, तो छूट लागू करने पर सीमा लग सकती है और प्रीमियम पर अधिभार भी संभव है। चूंकि पांच-दिवसीय प्रणाली में भागीदारी सीधे ऑटो बीमा प्रीमियम की गणना से जुड़ जाएगी, इसलिए बीमाधारकों को भागीदारी मानदंड और उल्लंघन पर होने वाले नुकसान की जांच करनी चाहिए। यह रिपोर्ट योनहाप ने दी; स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Klausul Asuransi Mobil Sistem Lima Hari Terbit Akhir Bulan, Pelanggaran Bisa Kena Tambahan",
-        "excerpt": "Perusahaan asuransi kerugian akan meluncurkan klausul khusus akhir bulan ini untuk memberi diskon premi bagi mobil peserta sistem lima hari, dengan pembatasan atau tambahan jika melanggar.",
-        "body": "Perusahaan asuransi kerugian akan meluncurkan klausul khusus pada akhir bulan ini yang memberi diskon premi kepada mobil yang berpartisipasi dalam sistem kendaraan lima hari. Klausul ini disiapkan untuk memberikan manfaat biaya asuransi bagi kendaraan yang ikut menjalankan sistem tersebut. Namun, jika syarat klausul dilanggar, penerapan diskon dapat dibatasi dan kemungkinan tambahan premi juga disebutkan. Karena keikutsertaan dalam sistem lima hari akan terhubung langsung dengan perhitungan premi asuransi mobil, pemegang polis perlu memeriksa kriteria partisipasi dan kerugian jika melanggar. Informasi ini dilaporkan Yonhap; sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "b580d76c7d8c",
-    "slug": "마닐라-현지-기업-만난-주병기-공정-경쟁에-가교역할-하겠다-689833",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:52:10.555Z",
-    "updatedAt": "2026-05-08T21:52:10.555Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508158800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508158800002",
-    "titleFingerprint": "bf0c32afd00ac2fb3cb96d6752d948b811b602b8",
-    "dedupKeys": [
-      "b580d76c7d8c35724936bb00f682c3a31af01b59",
-      "bf0c32afd00ac2fb3cb96d6752d948b811b602b8",
-      "ddd8d02662871f2d56f546298ae5af024c6d914c"
-    ],
-    "imageUrl": "/images/articles/b580d76c7d8c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정위 주병기, 마닐라 현지 기업 만나 “공정 경쟁 가교역할” 강조",
-        "excerpt": "주병기 공정거래위원장이 8일 필리핀 마닐라에서 현지 진출 기업들을 만나 공정 경쟁 환경 조성을 위한 가교역할을 하겠다고 밝혔다.",
-        "body": "주병기 공정거래위원장은 국제경쟁네트워크(ICN) 참석차 필리핀 마닐라를 방문 중인 8일 현지에 진출한 기업 관계자들을 만났다. 주 위원장은 이 자리에서 공정한 경쟁 환경이 자리 잡을 수 있도록 가교역할을 하겠다는 뜻을 밝혔다. 이번 만남은 국제 경쟁당국 간 논의가 이뤄지는 ICN 일정과 맞물려 진행됐다. 현지 기업들과의 접점은 해외 시장에서 활동하는 기업들이 경쟁정책 관련 환경을 이해하는 데 도움이 될 수 있다. 주 위원장의 발언은 공정 경쟁 원칙을 바탕으로 기업 활동과 제도적 소통을 이어가겠다는 메시지로 풀이된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "FTC Chair Joo Byung-ki Meets Manila Firms, Stresses Bridge Role for Fair Competition",
-        "excerpt": "FTC Chair Joo Byung-ki met Korean companies operating in Manila on May 8 and said he would serve as a bridge to support a fair competition environment.",
-        "body": "Joo Byung-ki, chair of South Korea’s Fair Trade Commission, met with representatives of companies operating locally on May 8 while visiting Manila, the Philippines, to attend the International Competition Network (ICN). At the meeting, Joo said he would serve as a bridge so that a fair competition environment can take root. The meeting took place alongside the ICN schedule, where international competition authorities hold discussions. Contact with local businesses may help companies active in overseas markets better understand the environment surrounding competition policy. His remarks are seen as a message that institutional communication and business activity should continue based on fair competition principles. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "公取委の朱炳基委員長、マニラ進出企業と面会し公正競争の橋渡し強調",
-        "excerpt": "朱炳基・公正取引委員長は8日、フィリピンのマニラで現地進出企業と会い、公正な競争環境づくりへ橋渡し役を担う考えを示した。",
-        "body": "韓国公正取引委員会の朱炳基委員長は、国際競争ネットワーク（ICN）出席のためフィリピンのマニラを訪問中の8日、現地に進出している企業関係者と面会した。朱委員長はこの場で、公正な競争環境が根付くよう橋渡し役を果たす考えを明らかにした。今回の面会は、各国の競争当局が議論を行うICN日程に合わせて実施された。現地企業との接点は、海外市場で活動する企業が競争政策に関する環境を理解する助けになり得る。朱委員長の発言は、公正競争の原則を基盤に企業活動と制度的な意思疎通を続けるというメッセージと受け止められる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国公平委主席朱炳基会见马尼拉企业，强调公平竞争桥梁作用",
-        "excerpt": "韩国公平交易委员会主席朱炳基8日在菲律宾马尼拉会见当地进驻企业，表示将为营造公平竞争环境发挥桥梁作用。",
-        "body": "韩国公平交易委员会主席朱炳基为出席国际竞争网络（ICN）会议访问菲律宾马尼拉，并于8日会见了在当地开展业务的企业相关人士。朱炳基在会上表示，将为公平竞争环境扎根发挥桥梁作用。此次会见与各国竞争主管机构进行讨论的ICN日程同步举行。与当地企业的接触，有助于在海外市场经营的企业理解竞争政策相关环境。朱炳基的表态被视为以公平竞争原则为基础，继续推动企业活动与制度沟通的信息。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Joo Byung-ki se reúne con empresas en Manila y destaca un puente para la competencia justa",
-        "excerpt": "Joo Byung-ki, jefe de la autoridad surcoreana de comercio justo, se reunió el 8 de mayo en Manila con empresas locales y prometió apoyar la competencia justa.",
-        "body": "Joo Byung-ki, presidente de la Comisión de Comercio Justo de Corea del Sur, se reunió el 8 de mayo con representantes de empresas establecidas en Manila, Filipinas, durante su visita para asistir a la Red Internacional de Competencia (ICN). En el encuentro, Joo dijo que actuaría como puente para que se consolide un entorno de competencia justa. La reunión se realizó en paralelo a la agenda de la ICN, donde autoridades de competencia de distintos países mantienen conversaciones. El contacto con empresas locales puede ayudar a las compañías que operan en mercados extranjeros a comprender el entorno relacionado con la política de competencia. Sus palabras transmiten un mensaje de continuidad en la comunicación institucional y la actividad empresarial sobre la base de la competencia justa. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Joo Byung-ki encontra empresas em Manila e destaca ponte para concorrência justa",
-        "excerpt": "Joo Byung-ki, chefe da autoridade sul-coreana de comércio justo, reuniu-se em 8 de maio em Manila com empresas locais e prometeu apoiar a concorrência justa.",
-        "body": "Joo Byung-ki, presidente da Comissão de Comércio Justo da Coreia do Sul, reuniu-se em 8 de maio com representantes de empresas instaladas em Manila, nas Filipinas, durante visita para participar da Rede Internacional de Concorrência (ICN). No encontro, Joo afirmou que atuaria como ponte para que um ambiente de concorrência justa se estabeleça. A reunião ocorreu em paralelo à agenda da ICN, onde autoridades de concorrência de vários países realizam discussões. O contato com empresas locais pode ajudar companhias que atuam em mercados externos a compreender o ambiente ligado à política de concorrência. A declaração de Joo sinaliza a continuidade da comunicação institucional e das atividades empresariais com base nos princípios da concorrência justa. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Joo Byung-ki trifft Firmen in Manila und betont Brückenrolle für fairen Wettbewerb",
-        "excerpt": "Joo Byung-ki, Chef der südkoreanischen Fair-Trade-Behörde, traf am 8. Mai in Manila lokale Unternehmen und versprach eine Brückenrolle für fairen Wettbewerb.",
-        "body": "Joo Byung-ki, Vorsitzender der südkoreanischen Fair Trade Commission, traf am 8. Mai während seines Besuchs in Manila auf den Philippinen zur Teilnahme am International Competition Network (ICN) Vertreter dort tätiger Unternehmen. Bei dem Treffen sagte Joo, er wolle als Brücke wirken, damit ein Umfeld fairen Wettbewerbs Fuß fassen könne. Das Gespräch fand im Rahmen des ICN-Programms statt, bei dem Wettbewerbsbehörden aus verschiedenen Ländern beraten. Der Kontakt zu lokalen Unternehmen kann Firmen, die auf Auslandsmärkten tätig sind, helfen, das Umfeld der Wettbewerbspolitik besser zu verstehen. Joos Äußerung gilt als Signal, Unternehmensaktivitäten und institutionelle Kommunikation auf Grundlage fairer Wettbewerbsprinzipien fortzuführen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Joo Byung-ki rencontre des entreprises à Manille et souligne son rôle de pont concurrentiel",
-        "excerpt": "Joo Byung-ki, chef de l’autorité sud-coréenne de la concurrence, a rencontré le 8 mai à Manille des entreprises locales et promis d’aider la concurrence loyale.",
-        "body": "Joo Byung-ki, président de la Commission sud-coréenne du commerce équitable, a rencontré le 8 mai des représentants d’entreprises implantées à Manille, aux Philippines, où il se rendait pour participer au Réseau international de la concurrence (ICN). Lors de cette rencontre, il a déclaré vouloir jouer un rôle de pont afin qu’un environnement de concurrence loyale puisse s’installer. La réunion s’est tenue en marge du programme de l’ICN, qui réunit des autorités de concurrence de plusieurs pays. Ce contact avec les entreprises locales peut aider les sociétés actives à l’étranger à mieux comprendre l’environnement lié aux politiques de concurrence. Ses propos traduisent un message de poursuite du dialogue institutionnel et des activités d’entreprise sur la base des principes de concurrence équitable. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جو بيونغ كي يلتقي شركات في مانيلا ويؤكد دور الجسر للمنافسة العادلة",
-        "excerpt": "التقى رئيس لجنة التجارة العادلة الكورية جو بيونغ كي في 8 مايو شركات عاملة في مانيلا، مؤكدا أنه سيؤدي دور جسر لدعم بيئة منافسة عادلة.",
-        "body": "التقى جو بيونغ كي، رئيس لجنة التجارة العادلة في كوريا الجنوبية، في 8 مايو ممثلين عن شركات عاملة محليا خلال زيارته إلى مانيلا في الفلبين للمشاركة في شبكة المنافسة الدولية (ICN). وقال جو في اللقاء إنه سيؤدي دور الجسر حتى تترسخ بيئة منافسة عادلة. وجاء الاجتماع بالتزامن مع جدول أعمال ICN، حيث تجري سلطات المنافسة الدولية مناقشاتها. ويمكن للتواصل مع الشركات المحلية أن يساعد الشركات النشطة في الأسواق الخارجية على فهم البيئة المرتبطة بسياسات المنافسة. وتُفهم تصريحات جو على أنها رسالة لمواصلة النشاط التجاري والتواصل المؤسسي استنادا إلى مبادئ المنافسة العادلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मनीला में कंपनियों से मिले जू ब्यंग-की, निष्पक्ष प्रतिस्पर्धा के लिए पुल बनने पर जोर",
-        "excerpt": "दक्षिण कोरिया के फेयर ट्रेड आयोग प्रमुख जू ब्यंग-की ने 8 मई को मनीला में स्थानीय कंपनियों से मुलाकात कर निष्पक्ष प्रतिस्पर्धा के लिए पुल की भूमिका बताई।",
-        "body": "दक्षिण कोरिया के फेयर ट्रेड आयोग के अध्यक्ष जू ब्यंग-की ने अंतरराष्ट्रीय प्रतिस्पर्धा नेटवर्क (ICN) में भाग लेने के लिए फिलीपींस के मनीला दौरे के दौरान 8 मई को वहां काम कर रही कंपनियों के प्रतिनिधियों से मुलाकात की। इस बैठक में जू ने कहा कि निष्पक्ष प्रतिस्पर्धा का वातावरण स्थापित हो सके, इसके लिए वह पुल की भूमिका निभाएंगे। यह मुलाकात ICN कार्यक्रम के साथ हुई, जहां विभिन्न देशों की प्रतिस्पर्धा प्राधिकरणों के बीच चर्चा होती है। स्थानीय कंपनियों से संपर्क विदेशों में सक्रिय कंपनियों को प्रतिस्पर्धा नीति से जुड़े माहौल को समझने में मदद कर सकता है। जू का बयान निष्पक्ष प्रतिस्पर्धा के सिद्धांतों के आधार पर व्यावसायिक गतिविधियों और संस्थागत संवाद को आगे बढ़ाने का संदेश देता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Joo Byung-ki Temui Perusahaan di Manila, Tekankan Jembatan Persaingan Adil",
-        "excerpt": "Ketua KFTC Joo Byung-ki pada 8 Mei bertemu perusahaan yang beroperasi di Manila dan menyatakan akan menjadi jembatan bagi lingkungan persaingan yang adil.",
-        "body": "Ketua Komisi Perdagangan Adil Korea Selatan, Joo Byung-ki, pada 8 Mei bertemu perwakilan perusahaan yang beroperasi di Manila, Filipina, saat berkunjung untuk menghadiri International Competition Network (ICN). Dalam pertemuan itu, Joo menyatakan akan berperan sebagai jembatan agar lingkungan persaingan yang adil dapat mengakar. Pertemuan ini berlangsung sejalan dengan agenda ICN, tempat otoritas persaingan dari berbagai negara melakukan pembahasan. Kontak dengan perusahaan lokal dapat membantu pelaku usaha yang aktif di pasar luar negeri memahami lingkungan terkait kebijakan persaingan. Pernyataan Joo dipandang sebagai pesan untuk melanjutkan aktivitas bisnis dan komunikasi kelembagaan berdasarkan prinsip persaingan adil. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c8534981fba6",
-    "slug": "토스증권-mts에-한국콜마-실적-표기-오류투자자들-항의-132147",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T21:51:13.971Z",
-    "updatedAt": "2026-05-08T21:51:13.971Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
-    "titleFingerprint": "953aba60ad9db743629bf8469ff5f9b4b179f29c",
-    "dedupKeys": [
-      "c8534981fba6e3379cb645f1006f959d09d62ce6",
-      "953aba60ad9db743629bf8469ff5f9b4b179f29c",
-      "5285b567b6c703aa77045e1133ca29955df20418"
-    ],
-    "imageUrl": "/images/articles/c8534981fba6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토스증권 MTS, 한국콜마 실적 표기 오류로 투자자 항의 이어져",
-        "excerpt": "토스증권 모바일트레이딩시스템에서 ‘깜짝’ 실적을 기록한 한국콜마의 실적 정보가 잘못 표기되며 투자자 항의가 이어진 것으로 전해졌다.",
-        "body": "토스증권의 모바일트레이딩시스템(MTS)에서 한국콜마의 실적이 잘못 표기되는 소동이 벌어졌다고 연합뉴스가 보도했다. 한국콜마는 ‘깜짝’ 실적을 기록한 종목으로 소개됐지만, 토스증권 MTS 화면에서는 관련 실적 정보가 실제와 다르게 표시된 것으로 전해졌다. 이 오류를 확인한 투자자들은 잘못된 정보 표기에 항의했다. 증권사 MTS는 투자자가 종목 실적과 시장 정보를 확인하는 주요 창구인 만큼, 실적 표기 오류는 투자 판단 과정에서 혼선을 줄 수 있다. 이번 사례는 모바일 거래 서비스에서 공시·실적 데이터 표시의 정확성이 중요하다는 점을 다시 보여준다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Toss Securities MTS Error Shows Kolmar Korea Earnings Incorrectly, Investors Protest",
-        "excerpt": "Toss Securities’ mobile trading system reportedly displayed incorrect earnings information for Kolmar Korea, which had posted surprise results, prompting investor complaints.",
-        "body": "Yonhap News Agency reported that Toss Securities’ mobile trading system, or MTS, displayed incorrect earnings information for Kolmar Korea. The company had been noted for posting ‘surprise’ results, but related earnings data on the Toss Securities MTS screen was reportedly shown differently from the actual figures. Investors who noticed the error lodged complaints over the incorrect information. Because an MTS is a key channel for investors to check company earnings and market data, errors in earnings displays can create confusion in investment decisions. The incident again highlights the importance of accurate disclosure and earnings data presentation in mobile trading services. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "トス証券MTS、韓国コルマーの業績表示ミスで投資家から抗議相次ぐ",
-        "excerpt": "トス証券のモバイル取引システムで、サプライズ決算を記録した韓国コルマーの業績情報が誤って表示され、投資家の抗議につながったと伝えられた。",
-        "body": "聯合ニュースによると、トス証券のモバイル取引システム（MTS）で韓国コルマーの業績が誤って表示される騒ぎが起きた。韓国コルマーは「サプライズ」業績を記録した銘柄として取り上げられていたが、トス証券MTSの画面では関連する業績情報が実際と異なる形で表示されたという。この誤りを確認した投資家は、誤った情報表示に抗議した。証券会社のMTSは投資家が銘柄の業績や市場情報を確認する主要な窓口であり、業績表示のミスは投資判断に混乱を招きかねない。今回の事例は、モバイル取引サービスにおける開示・業績データ表示の正確性の重要性を改めて示した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Toss证券MTS误显韩国科玛业绩信息，投资者提出抗议",
-        "excerpt": "Toss证券移动交易系统 reportedly 将取得“惊喜”业绩的韩国科玛相关业绩信息错误显示，引发投资者抗议。",
-        "body": "据韩联社报道，Toss证券的移动交易系统（MTS）中出现韩国科玛业绩信息错误显示的情况。韩国科玛此前因取得“惊喜”业绩而受到关注，但Toss证券MTS页面上的相关业绩信息据称与实际情况不符。发现这一错误的投资者对错误信息显示提出抗议。证券公司的MTS是投资者查看个股业绩和市场信息的重要渠道，因此业绩显示错误可能在投资判断过程中造成混乱。此次事件再次显示，移动交易服务中公告与业绩数据展示的准确性十分重要。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Error en el MTS de Toss Securities muestra mal resultados de Kolmar Korea y provoca quejas",
-        "excerpt": "El sistema móvil de trading de Toss Securities habría mostrado datos incorrectos de resultados de Kolmar Korea, que había registrado cifras sorpresa, generando protestas de inversores.",
-        "body": "La agencia Yonhap informó que el sistema móvil de trading de Toss Securities, conocido como MTS, mostró de forma incorrecta los resultados de Kolmar Korea. La compañía había sido destacada por registrar resultados ‘sorpresa’, pero la información relacionada en la pantalla del MTS de Toss Securities habría aparecido de manera distinta a los datos reales. Los inversores que detectaron el error presentaron quejas por la información incorrecta. Como el MTS de una firma de valores es un canal clave para consultar resultados de empresas y datos de mercado, un error de este tipo puede generar confusión en las decisiones de inversión. El caso subraya de nuevo la importancia de mostrar con precisión los datos de resultados y divulgación en los servicios móviles de trading. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Erro no MTS da Toss Securities exibe resultados da Kolmar Korea incorretamente e gera protestos",
-        "excerpt": "O sistema móvel de negociação da Toss Securities teria exibido incorretamente os resultados da Kolmar Korea, que registrou desempenho surpresa, levando investidores a reclamar.",
-        "body": "A agência Yonhap informou que o sistema móvel de negociação da Toss Securities, o MTS, exibiu incorretamente os resultados da Kolmar Korea. A empresa havia sido citada por registrar resultados ‘surpresa’, mas os dados relacionados na tela do MTS da Toss Securities teriam aparecido de forma diferente dos números reais. Investidores que identificaram o erro protestaram contra a informação incorreta. Como o MTS de uma corretora é um canal importante para verificar resultados de empresas e informações de mercado, falhas na exibição de resultados podem causar confusão nas decisões de investimento. O caso destaca novamente a importância da precisão na apresentação de dados de divulgação e resultados em serviços móveis de negociação. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Toss-Securities-MTS zeigt Kolmar-Korea-Ergebnisse falsch an, Anleger protestieren",
-        "excerpt": "Im mobilen Handelssystem von Toss Securities wurden offenbar falsche Ergebnisdaten von Kolmar Korea angezeigt, das überraschend starke Zahlen gemeldet hatte; Anleger beschwerten sich.",
-        "body": "Die Nachrichtenagentur Yonhap berichtete, dass im mobilen Handelssystem von Toss Securities, dem MTS, die Ergebnisse von Kolmar Korea falsch angezeigt wurden. Kolmar Korea war wegen eines ‘überraschenden’ Ergebnisses aufgefallen, doch die entsprechenden Daten auf dem MTS-Bildschirm von Toss Securities sollen von den tatsächlichen Angaben abgewichen sein. Anleger, die den Fehler bemerkten, protestierten gegen die fehlerhafte Information. Da ein MTS für Anleger ein zentraler Kanal zur Prüfung von Unternehmenszahlen und Marktdaten ist, können Fehler bei Ergebnisanzeigen zu Verwirrung bei Anlageentscheidungen führen. Der Vorfall zeigt erneut, wie wichtig genaue Darstellungen von Offenlegungs- und Ergebnisdaten in mobilen Handelsdiensten sind. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Erreur sur le MTS de Toss Securities: résultats de Kolmar Korea mal affichés, les investisseurs protestent",
-        "excerpt": "Le système mobile de trading de Toss Securities aurait affiché des données erronées sur les résultats de Kolmar Korea, qui venait de publier une performance surprise, suscitant des plaintes.",
-        "body": "L’agence Yonhap a rapporté qu’une erreur d’affichage des résultats de Kolmar Korea s’est produite sur le système mobile de trading de Toss Securities, appelé MTS. Kolmar Korea avait été signalée pour des résultats ‘surprise’, mais les informations correspondantes affichées sur l’écran du MTS de Toss Securities auraient différé des données réelles. Les investisseurs ayant constaté l’erreur ont protesté contre cette information incorrecte. Le MTS d’une société de courtage étant un canal majeur pour consulter les résultats des entreprises et les données de marché, une erreur d’affichage peut créer de la confusion dans les décisions d’investissement. Ce cas souligne à nouveau l’importance de l’exactitude des données de résultats et de publication dans les services mobiles de trading. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "خطأ في نظام MTS لدى Toss Securities يعرض نتائج Kolmar Korea بشكل غير صحيح ويثير احتجاج المستثمرين",
-        "excerpt": "أفادت تقارير بأن نظام التداول عبر الهاتف لدى Toss Securities عرض معلومات غير صحيحة عن نتائج Kolmar Korea، التي سجلت أداء مفاجئا، ما دفع مستثمرين إلى الاحتجاج.",
-        "body": "ذكرت وكالة يونهاب أن نظام التداول عبر الهاتف المحمول لدى Toss Securities، المعروف باسم MTS، عرض نتائج Kolmar Korea بشكل غير صحيح. وكانت Kolmar Korea قد لفتت الانتباه بعد تسجيل نتائج ‘مفاجئة’، لكن بيانات الأداء ذات الصلة على شاشة MTS لدى Toss Securities ظهرت، بحسب التقرير، مختلفة عن المعلومات الفعلية. واحتج مستثمرون لاحظوا الخطأ على عرض المعلومات غير الصحيحة. وبما أن نظام MTS لدى شركات الوساطة يعد قناة رئيسية للمستثمرين للاطلاع على نتائج الشركات وبيانات السوق، فإن أخطاء عرض النتائج قد تسبب ارتباكا في قرارات الاستثمار. وتبرز هذه الواقعة مجددا أهمية الدقة في عرض بيانات الإفصاح والنتائج داخل خدمات التداول عبر الهاتف. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Toss Securities MTS में Kolmar Korea के नतीजों की गलत सूचना, निवेशकों ने जताया विरोध",
-        "excerpt": "Toss Securities के मोबाइल ट्रेडिंग सिस्टम में ‘सरप्राइज’ नतीजे दर्ज करने वाली Kolmar Korea की आय संबंधी जानकारी गलत दिखने की खबर है, जिसके बाद निवेशकों ने विरोध किया।",
-        "body": "योनहाप समाचार एजेंसी के अनुसार, Toss Securities के मोबाइल ट्रेडिंग सिस्टम यानी MTS में Kolmar Korea के नतीजों की गलत जानकारी प्रदर्शित होने की घटना सामने आई। Kolmar Korea को ‘सरप्राइज’ नतीजे दर्ज करने वाली कंपनी के रूप में बताया गया था, लेकिन Toss Securities MTS स्क्रीन पर संबंधित आय जानकारी वास्तविक आंकड़ों से अलग दिखाई गई। इस त्रुटि को देखने वाले निवेशकों ने गलत सूचना प्रदर्शित होने पर विरोध जताया। किसी证券 कंपनी का MTS निवेशकों के लिए कंपनी के नतीजे और बाजार जानकारी देखने का प्रमुख माध्यम होता है, इसलिए नतीजों की गलत प्रस्तुति निवेश निर्णयों में भ्रम पैदा कर सकती है। यह मामला मोबाइल ट्रेडिंग सेवाओं में प्रकटीकरण और आय डेटा की सटीक प्रस्तुति के महत्व को फिर दिखाता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "MTS Toss Securities Salah Tampilkan Kinerja Kolmar Korea, Investor Ajukan Protes",
-        "excerpt": "Sistem perdagangan mobile Toss Securities dilaporkan salah menampilkan informasi kinerja Kolmar Korea, yang mencatat hasil mengejutkan, sehingga memicu protes investor.",
-        "body": "Kantor berita Yonhap melaporkan bahwa sistem perdagangan mobile Toss Securities, atau MTS, salah menampilkan kinerja Kolmar Korea. Perusahaan itu disebut mencatat kinerja ‘mengejutkan’, tetapi informasi terkait yang muncul di layar MTS Toss Securities dilaporkan berbeda dari data sebenarnya. Investor yang mengetahui kesalahan tersebut mengajukan protes atas penyajian informasi yang keliru. Karena MTS perusahaan sekuritas menjadi kanal utama bagi investor untuk memeriksa kinerja emiten dan informasi pasar, kesalahan tampilan kinerja dapat menimbulkan kebingungan dalam proses pengambilan keputusan investasi. Kasus ini kembali menunjukkan pentingnya akurasi penyajian data keterbukaan dan kinerja dalam layanan perdagangan mobile. Sumber: yna.co.kr"
       }
     }
   }
