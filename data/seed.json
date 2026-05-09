@@ -1,5 +1,230 @@
 [
   {
+    "id": "478bb956b710",
+    "slug": "농식품부-에너지-대전환-tf-가동에너지-자립소득-증대-추진-476059",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T07:13:17.143Z",
+    "updatedAt": "2026-05-09T07:13:17.143Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
+    "titleFingerprint": "1dc4a848a3429b5983ff01125bfa326872449f41",
+    "dedupKeys": [
+      "478bb956b71056a62559c1d5f831b26be712298a",
+      "1dc4a848a3429b5983ff01125bfa326872449f41",
+      "28fb52a6baa2a2d64dd462e0683bed3b45a32ef4"
+    ],
+    "imageUrl": "/images/articles/478bb956b710.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 에너지 대전환 TF 가동, 농촌 에너지 자립·소득 증대 로드맵 추진",
+        "excerpt": "농림축산식품부가 농업·농촌의 에너지 구조 전환을 위해 에너지 대전환 TF를 가동하고 에너지 자립과 농가 소득 증대를 목표로 로드맵 수립에 착수했다.",
+        "body": "농림축산식품부가 농업과 농촌의 에너지 구조를 바꾸기 위한 ‘에너지 대전환’ 로드맵 수립에 본격 착수했다. 정부는 관련 태스크포스(TF)를 가동해 농촌 현장의 에너지 자립 기반을 마련하고, 에너지 전환을 농가 소득 증대와 연결하는 방안을 추진한다. 이번 움직임은 농업·농촌 분야의 에너지 사용 구조를 점검하고 향후 정책 방향을 정리하기 위한 절차로 풀이된다. 구체적인 세부 수치나 실행 일정은 원문 요약에서 공개되지 않았다. 향후 로드맵에는 농촌 에너지 자립과 소득 확대를 함께 고려한 정책 과제가 담길 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry Launches Energy Transition TF to Boost Rural Self-Reliance and Income",
+        "excerpt": "South Korea’s agriculture ministry has launched an energy transition task force to draft a roadmap aimed at reshaping farm and rural energy systems, improving energy self-reliance and raising income.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has begun work on a roadmap for an “energy transition” intended to change the energy structure of farming and rural communities. The government has launched a task force to build a foundation for rural energy self-reliance and link the transition to higher farm income. The move is seen as a step toward reviewing how energy is used in the agricultural and rural sectors and setting future policy direction. Specific figures or implementation schedules were not disclosed in the original summary. The roadmap is expected to include policy tasks that consider both rural energy independence and income growth. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部、エネルギー大転換TF始動　農村の自立と所得増へロードマップ推進",
+        "excerpt": "韓国農林畜産食品部は、農業・農村のエネルギー構造を転換するため、エネルギー大転換TFを稼働し、自立と所得増を目指すロードマップ策定に着手した。",
+        "body": "韓国の農林畜産食品部は、農業と農村のエネルギー構造を変えるための「エネルギー大転換」ロードマップ策定に本格的に着手した。政府は関連タスクフォース（TF）を稼働し、農村現場のエネルギー自立基盤を整え、エネルギー転換を農家所得の増加につなげる方策を進める。今回の動きは、農業・農村分野のエネルギー利用構造を点検し、今後の政策方向を整理する手続きと受け止められる。具体的な数値や実行日程は原文要約では明らかにされていない。今後のロードマップには、農村のエネルギー自立と所得拡大を共に考慮した政策課題が盛り込まれる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食部启动能源大转型TF，推进农村能源自立与增收路线图",
+        "excerpt": "韩国农林畜产食品部为转变农业和农村能源结构，启动能源大转型TF，着手制定以能源自立和农户增收为目标的路线图。",
+        "body": "韩国农林畜产食品部已正式着手制定旨在改变农业和农村能源结构的“能源大转型”路线图。政府启动相关工作组（TF），计划为农村现场建立能源自立基础，并推动把能源转型与农户收入增加相连接。此次举措可视为对农业和农村领域能源使用结构进行检查，并整理今后政策方向的程序。原文摘要未公开具体数据或实施时间表。预计未来路线图将纳入同时考虑农村能源自立和收入扩大的政策课题。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agricultura activa un TF de transición energética para impulsar autosuficiencia rural e ingresos",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur puso en marcha un TF de transición energética para preparar una hoja de ruta que transforme la energía agrícola y rural y eleve ingresos.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur inició formalmente la elaboración de una hoja de ruta para una “gran transición energética” destinada a cambiar la estructura energética de la agricultura y las zonas rurales. El gobierno puso en marcha un grupo de trabajo para sentar las bases de la autosuficiencia energética rural y vincular la transición con mayores ingresos para los agricultores. La medida apunta a revisar el uso de energía en el sector agrícola y rural y ordenar la futura dirección de las políticas. El resumen original no divulgó cifras concretas ni calendario de ejecución. Se prevé que la hoja de ruta incluya tareas de política que contemplen tanto la autosuficiencia energética rural como el aumento de ingresos. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Agricultura aciona TF de transição energética para autonomia rural e aumento de renda",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul ativou uma TF de transição energética para elaborar um roteiro que mude a estrutura de energia no campo e amplie renda agrícola.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul iniciou formalmente a elaboração de um roteiro de “grande transição energética” para mudar a estrutura de energia da agricultura e das comunidades rurais. O governo acionou uma força-tarefa para criar uma base de autonomia energética no campo e conectar a transição ao aumento da renda dos agricultores. A iniciativa é entendida como um procedimento para revisar o uso de energia nos setores agrícola e rural e organizar a futura direção das políticas. O resumo original não informou números específicos nem cronograma de execução. O roteiro deve incluir tarefas políticas que considerem tanto a autonomia energética rural quanto a ampliação da renda. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Agrarministerium startet Energie-Taskforce für mehr ländliche Eigenversorgung und Einkommen",
+        "excerpt": "Südkoreas Agrarministerium hat eine Taskforce zur Energiewende gestartet, um eine Roadmap für Landwirtschaft und ländliche Räume sowie mehr Energieautarkie und Einkommen zu erarbeiten.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat mit der Ausarbeitung einer Roadmap für eine „Energiewende“ begonnen, die die Energiestruktur in Landwirtschaft und ländlichen Gemeinden verändern soll. Die Regierung hat eine Taskforce eingesetzt, um die Grundlage für ländliche Energieautarkie zu schaffen und die Energiewende mit höheren landwirtschaftlichen Einkommen zu verbinden. Der Schritt gilt als Verfahren, um die Energienutzung im Agrar- und ländlichen Bereich zu prüfen und künftige politische Leitlinien zu ordnen. Konkrete Zahlen oder Umsetzungspläne wurden in der ursprünglichen Zusammenfassung nicht genannt. Die Roadmap dürfte politische Aufgaben enthalten, die sowohl Energieautarkie auf dem Land als auch Einkommenssteigerung berücksichtigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Agriculture lance une TF de transition énergétique pour autonomie rurale et hausse des revenus",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a lancé une TF de transition énergétique afin de préparer une feuille de route pour transformer l’énergie agricole et rurale et accroître les revenus.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a officiellement commencé à élaborer une feuille de route de « grande transition énergétique » destinée à modifier la structure énergétique de l’agriculture et des zones rurales. Le gouvernement a lancé une task force afin de poser les bases de l’autonomie énergétique rurale et de relier cette transition à l’augmentation des revenus agricoles. Cette initiative vise à examiner l’usage de l’énergie dans les secteurs agricole et rural et à organiser les futures orientations politiques. Le résumé original ne mentionne pas de chiffres précis ni de calendrier d’exécution. La feuille de route devrait inclure des tâches politiques tenant compte à la fois de l’autonomie énergétique rurale et de la progression des revenus. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة الزراعة الكورية تطلق فريق تحول الطاقة لتعزيز استقلال الريف والدخل",
+        "excerpt": "أطلقت وزارة الزراعة في كوريا الجنوبية فريق عمل لتحول الطاقة بهدف إعداد خريطة طريق تغير بنية الطاقة في الزراعة والريف وتدعم الاستقلال الطاقي وزيادة الدخل.",
+        "body": "بدأت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية رسميا إعداد خريطة طريق لـ«تحول كبير في الطاقة» يهدف إلى تغيير بنية الطاقة في الزراعة والمناطق الريفية. وشغلت الحكومة فريق عمل مختصا لوضع أساس للاستقلال الطاقي في الريف وربط تحول الطاقة بزيادة دخل المزارعين. وتعد هذه الخطوة إجراء لمراجعة هيكل استخدام الطاقة في القطاعين الزراعي والريفي وتنظيم اتجاه السياسات المقبلة. ولم يكشف الملخص الأصلي عن أرقام تفصيلية أو جدول زمني للتنفيذ. ومن المتوقع أن تتضمن خريطة الطريق مهام سياساتية تراعي استقلال الطاقة في الريف وتوسيع الدخل معا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कृषि मंत्रालय ने ऊर्जा बदलाव TF शुरू किया, ग्रामीण आत्मनिर्भरता और आय बढ़ाने पर जोर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कृषि और ग्रामीण ऊर्जा ढांचे को बदलने के लिए ऊर्जा बदलाव TF शुरू किया और ऊर्जा आत्मनिर्भरता व किसान आय बढ़ाने वाली रूपरेखा पर काम शुरू किया।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने कृषि और ग्रामीण क्षेत्रों की ऊर्जा संरचना बदलने के लिए “ऊर्जा महापरिवर्तन” रोडमैप तैयार करने का काम औपचारिक रूप से शुरू किया है। सरकार ने संबंधित टास्क फोर्स शुरू कर ग्रामीण इलाकों में ऊर्जा आत्मनिर्भरता की आधारशिला बनाने और ऊर्जा बदलाव को किसानों की आय बढ़ाने से जोड़ने की दिशा में कदम उठाया है। यह पहल कृषि और ग्रामीण क्षेत्रों में ऊर्जा उपयोग की संरचना की समीक्षा करने और आगे की नीति दिशा तय करने की प्रक्रिया मानी जा रही है। मूल सारांश में कोई विशिष्ट आंकड़े या कार्यान्वयन समय-सारिणी जारी नहीं की गई। भविष्य के रोडमैप में ग्रामीण ऊर्जा आत्मनिर्भरता और आय विस्तार दोनों को ध्यान में रखने वाले नीति कार्य शामिल होने की उम्मीद है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Pertanian Aktifkan TF Transisi Energi untuk Kemandirian Desa dan Kenaikan Pendapatan",
+        "excerpt": "Kementerian Pertanian Korea Selatan mengaktifkan TF transisi energi untuk menyusun peta jalan perubahan struktur energi pertanian dan pedesaan, dengan target kemandirian energi dan kenaikan pendapatan.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mulai menyusun peta jalan “transisi besar energi” untuk mengubah struktur energi di sektor pertanian dan wilayah pedesaan. Pemerintah mengaktifkan satuan tugas terkait untuk membangun dasar kemandirian energi di pedesaan dan menghubungkan transisi energi dengan peningkatan pendapatan petani. Langkah ini dipahami sebagai proses untuk meninjau struktur penggunaan energi di sektor pertanian dan pedesaan serta merapikan arah kebijakan ke depan. Ringkasan asli tidak mengungkap angka rinci atau jadwal pelaksanaan. Peta jalan mendatang diperkirakan memuat agenda kebijakan yang mempertimbangkan kemandirian energi pedesaan sekaligus perluasan pendapatan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fa6d1cb7fb1c",
+    "slug": "부산-아파트값-강보합세-유지전셋값은-22개월째-상승-308582",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T07:12:11.517Z",
+    "updatedAt": "2026-05-09T07:12:11.517Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
+    "titleFingerprint": "13797710c56151b1aa96b137534ae83a37554931",
+    "dedupKeys": [
+      "fa6d1cb7fb1c364a2a9512e2bf098f9799226816",
+      "13797710c56151b1aa96b137534ae83a37554931",
+      "48c09ae8a4c4b6294d04498d2ec979ab82f1bd2f"
+    ],
+    "imageUrl": "/images/articles/fa6d1cb7fb1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 아파트값 강보합 유지…전셋값 22개월 연속 상승세 주목",
+        "excerpt": "연합뉴스에 따르면 부산 아파트 매매가격은 강보합세를 이어가고 있으며, 전셋값은 22개월째 상승해 지역 주택시장의 흐름이 주목된다.",
+        "body": "부산의 아파트 매매가격이 강보합세를 유지하고 있다. 연합뉴스 민영규 기자 보도에 따르면 부산 지역 아파트 매매시장은 뚜렷한 급등이나 급락 없이 비교적 단단한 흐름을 이어가는 모습이다. 특히 전셋값은 22개월째 상승세를 기록하며 매매가격과 함께 지역 주택시장 동향의 핵심 지표로 부각되고 있다. 매매가격이 강보합세를 보이는 가운데 전세가격 상승이 장기간 이어지면서 부산 실수요자와 임차인의 시장 체감도에도 영향을 줄 수 있다. 향후 부산 아파트 시장은 매매가격의 안정적 흐름과 전셋값 상승 지속 여부가 함께 관찰될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Apartment Prices Stay Firm as Jeonse Rents Rise for 22 Months",
+        "excerpt": "According to Yonhap News, Busan apartment sale prices remain firm, while jeonse rents have risen for 22 consecutive months, drawing attention to the local housing market.",
+        "body": "Apartment sale prices in Busan are maintaining a firm, slightly upward trend. According to a report by Yonhap News reporter Min Young-kyu, the Busan apartment sales market is continuing a relatively steady pattern without clear sharp gains or declines. In particular, jeonse rental prices have risen for 22 straight months, emerging as a key indicator alongside sale prices in the regional housing market. With sale prices staying firm and jeonse prices continuing to climb over an extended period, the trend may affect how end users and tenants experience the Busan market. Going forward, attention is expected to remain on whether apartment sale prices stay stable and whether jeonse rents continue rising. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山マンション価格は強含み維持、チョンセ価格は22カ月連続上昇",
+        "excerpt": "聯合ニュースによると、釜山のマンション売買価格は強含みを維持し、チョンセ価格は22カ月連続で上昇して地域住宅市場が注目されている。",
+        "body": "釜山のマンション売買価格が強含みの流れを維持している。聯合ニュースのミン・ヨンギュ記者の報道によると、釜山地域のマンション売買市場は、明確な急騰や急落なしに比較的底堅い動きを続けている。特にチョンセ価格は22カ月連続で上昇し、売買価格とともに地域住宅市場の動向を示す重要な指標として浮上している。売買価格が強含みを見せるなか、チョンセ価格の上昇が長期化しており、釜山の実需層や賃借人の市場実感にも影響を及ぼす可能性がある。今後は売買価格の安定的な流れとチョンセ価格上昇の継続 여부が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山公寓价格保持偏强稳定，全租房价连续22个月上涨",
+        "excerpt": "据韩联社报道，釜山公寓买卖价格保持偏强稳定，全租房价已连续22个月上涨，区域住房市场走势受到关注。",
+        "body": "釜山公寓买卖价格正保持偏强稳定走势。据韩联社记者闵泳奎报道，釜山地区公寓买卖市场没有出现明显暴涨或暴跌，而是延续相对稳固的 흐름。尤其是全租房价已连续22个月上涨，与买卖价格一同成为观察当地住房市场动向的重要指标。在买卖价格保持偏强稳定的同时，全租价格长期上升，可能影响釜山实际购房需求者和租户对市场的体感。展望后市，釜山公寓市场预计将继续关注买卖价格是否维持稳定，以及全租房价上涨是否持续。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Busan firmes; jeonse sube por 22 meses",
+        "excerpt": "Según Yonhap, los precios de venta de apartamentos en Busan mantienen una tendencia firme, mientras el jeonse acumula 22 meses de alzas en el mercado local.",
+        "body": "Los precios de venta de apartamentos en Busan mantienen una tendencia firme con ligero sesgo alcista. Según un reporte del periodista Min Young-kyu de Yonhap News, el mercado de compraventa de apartamentos en Busan continúa relativamente sólido, sin subidas ni caídas bruscas claras. En particular, los precios del jeonse han aumentado durante 22 meses consecutivos, convirtiéndose en un indicador clave junto con los precios de venta para seguir el mercado residencial regional. Mientras las ventas se mantienen firmes y el jeonse sigue subiendo durante un periodo prolongado, la evolución puede influir en la percepción de compradores finales e inquilinos en Busan. En adelante, se observará si los precios de venta siguen estables y si continúa el alza del jeonse. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Apartamentos em Busan seguem firmes; jeonse sobe há 22 meses",
+        "excerpt": "Segundo a Yonhap, os preços de venda de apartamentos em Busan mantêm firmeza, enquanto o jeonse sobe pelo 22º mês seguido no mercado habitacional local.",
+        "body": "Os preços de venda de apartamentos em Busan mantêm uma tendência firme, com leve viés de alta. Segundo reportagem de Min Young-kyu, da Yonhap News, o mercado de compra e venda de apartamentos em Busan segue relativamente sólido, sem altas ou quedas bruscas evidentes. Em especial, os preços do jeonse subiram por 22 meses consecutivos, tornando-se um indicador central, ao lado dos preços de venda, para acompanhar o mercado residencial regional. Com os preços de venda firmes e o jeonse em alta por um período prolongado, a tendência pode afetar a percepção de compradores finais e inquilinos em Busan. Daqui em diante, a atenção deve se concentrar na estabilidade dos preços de venda e na continuidade da alta do jeonse. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Wohnungspreise in Busan bleiben fest, Jeonse steigt seit 22 Monaten",
+        "excerpt": "Laut Yonhap bleiben die Verkaufspreise für Wohnungen in Busan fest, während die Jeonse-Mieten seit 22 Monaten steigen und den lokalen Wohnungsmarkt prägen.",
+        "body": "Die Verkaufspreise für Wohnungen in Busan halten sich weiterhin fest mit leicht positiver Tendenz. Nach einem Bericht von Yonhap-News-Reporter Min Young-kyu zeigt der Wohnungsverkaufsmarkt in Busan einen vergleichsweise stabilen Verlauf, ohne klare starke Anstiege oder Einbrüche. Besonders die Jeonse-Preise steigen bereits seit 22 Monaten in Folge und rücken damit neben den Verkaufspreisen als wichtiger Indikator für den regionalen Wohnungsmarkt in den Vordergrund. Während die Verkaufspreise fest bleiben und die Jeonse-Preise über längere Zeit zulegen, kann dies die Marktwahrnehmung von Eigennutzern und Mietern in Busan beeinflussen. Künftig dürfte beobachtet werden, ob die Verkaufspreise stabil bleiben und ob der Jeonse-Anstieg anhält. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Prix des appartements à Busan fermes; le jeonse monte depuis 22 mois",
+        "excerpt": "Selon Yonhap, les prix de vente des appartements à Busan restent fermes, tandis que le jeonse progresse depuis 22 mois, attirant l’attention sur le marché local.",
+        "body": "Les prix de vente des appartements à Busan restent fermes, avec une légère orientation positive. Selon un article du journaliste Min Young-kyu de Yonhap News, le marché des appartements à Busan poursuit une trajectoire relativement solide, sans hausse ni baisse marquée évidente. En particulier, les prix du jeonse ont augmenté pendant 22 mois consécutifs, devenant avec les prix de vente un indicateur essentiel du marché résidentiel régional. Alors que les prix de vente demeurent fermes et que le jeonse progresse sur une longue période, cette évolution peut influencer la perception du marché par les acheteurs finaux et les locataires à Busan. À l’avenir, l’attention devrait porter sur la stabilité des prix de vente et sur la poursuite de la hausse du jeonse. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أسعار شقق بوسان تبقى متماسكة وإيجارات الجونسي ترتفع 22 شهرا",
+        "excerpt": "وفقا ليونهاب، تواصل أسعار بيع الشقق في بوسان اتجاهها المتماسك، فيما ارتفعت أسعار الجونسي للشهر الثاني والعشرين على التوالي في سوق السكن المحلي.",
+        "body": "تحافظ أسعار بيع الشقق في بوسان على اتجاه متماسك يميل قليلا إلى القوة. وبحسب تقرير للصحفي مين يونغ كيو في وكالة يونهاب للأنباء، يواصل سوق بيع الشقق في بوسان مسارا مستقرا نسبيا من دون ارتفاعات أو انخفاضات حادة واضحة. وعلى نحو خاص، ارتفعت أسعار الجونسي للشهر الثاني والعشرين على التوالي، لتبرز كمؤشر رئيسي إلى جانب أسعار البيع في متابعة سوق الإسكان الإقليمي. ومع بقاء أسعار البيع متماسكة واستمرار صعود الجونسي لفترة طويلة، قد يؤثر ذلك في شعور المشترين الفعليين والمستأجرين باتجاهات السوق في بوسان. ومن المتوقع أن يتركز الاهتمام لاحقا على مدى استمرار استقرار أسعار البيع ومواصلة ارتفاع الجونسي. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान अपार्टमेंट कीमतें मजबूत स्थिर, जोंसे 22 माह से लगातार ऊपर",
+        "excerpt": "योनहाप के अनुसार बुसान में अपार्टमेंट बिक्री कीमतें मजबूत स्थिर रुख बनाए हुए हैं, जबकि जोंसे कीमतें लगातार 22 महीनों से बढ़ रही हैं।",
+        "body": "बुसान में अपार्टमेंट की बिक्री कीमतें मजबूत और स्थिर रुख बनाए हुए हैं। योनहाप न्यूज के रिपोर्टर मिन योंग-क्यू की रिपोर्ट के अनुसार, बुसान का अपार्टमेंट बिक्री बाजार स्पष्ट तेज उछाल या गिरावट के बिना अपेक्षाकृत ठोस प्रवाह जारी रखे हुए है। खास तौर पर जोंसे कीमतें लगातार 22 महीनों से बढ़ी हैं और बिक्री कीमतों के साथ क्षेत्रीय आवास बाजार की दिशा बताने वाला प्रमुख संकेतक बन गई हैं। बिक्री कीमतों के मजबूत स्थिर रहने और जोंसे कीमतों के लंबे समय तक बढ़ते रहने से बुसान के वास्तविक खरीदारों और किरायेदारों की बाजार अनुभूति प्रभावित हो सकती है। आगे बाजार में बिक्री कीमतों की स्थिरता और जोंसे वृद्धि जारी रहने 여부 पर ध्यान रहेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik 22 Bulan Beruntun",
+        "excerpt": "Menurut Yonhap, harga jual apartemen di Busan tetap kuat dan stabil, sementara harga jeonse naik selama 22 bulan berturut-turut di pasar hunian lokal.",
+        "body": "Harga jual apartemen di Busan mempertahankan tren kuat dan stabil. Menurut laporan jurnalis Yonhap News Min Young-kyu, pasar jual beli apartemen di Busan terus bergerak relatif kokoh tanpa kenaikan atau penurunan tajam yang jelas. Secara khusus, harga jeonse telah naik selama 22 bulan berturut-turut, sehingga menjadi indikator utama bersama harga jual dalam melihat arah pasar hunian regional. Ketika harga jual tetap kuat dan kenaikan jeonse berlangsung dalam periode panjang, tren ini dapat memengaruhi persepsi pasar bagi pembeli pengguna akhir dan penyewa di Busan. Ke depan, perhatian diperkirakan tertuju pada apakah harga jual apartemen tetap stabil dan apakah kenaikan jeonse terus berlanjut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6086b471d518",
+    "slug": "세계-식량가격지수-석-달-연속-올라곡물유지류육류-상승-230497",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T07:10:45.345Z",
+    "updatedAt": "2026-05-09T07:10:45.345Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
+    "titleFingerprint": "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
+    "dedupKeys": [
+      "6086b471d51820cfd39fb9b4983fbb1713671dc6",
+      "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
+      "69c8ecc51b4cdf2f5097673becff6e7606b9f95e"
+    ],
+    "imageUrl": "/images/articles/6086b471d518.jpg",
+    "i18n": {
+      "ko": {
+        "title": "세계 식량가격지수 3개월 연속 상승, 곡물·유지류·육류가 끌어올렸다",
+        "excerpt": "농림축산식품부는 FAO가 발표한 지난달 세계 식량가격지수가 130.7로 전월보다 1.6% 오르며 석 달 연속 상승했다고 밝혔다.",
+        "body": "농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.7을 기록해 전달보다 1.6% 상승했다고 밝혔다. 세계 식량가격지수는 석 달 연속 올랐으며, 이번 상승은 곡물과 유지류, 육류 가격 상승이 반영된 결과다. FAO 식량가격지수는 국제 식량 시장의 가격 흐름을 보여주는 지표로, 주요 품목 가격 변동이 전반적인 지수에 영향을 미친다. 정부는 발표 수치를 통해 세계 식량 가격 동향을 설명했다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "World Food Price Index Rises for Third Month as Grains, Oils and Meat Climb",
+        "excerpt": "South Korea’s agriculture ministry said the FAO world food price index reached 130.7 last month, up 1.6% from the previous month and rising for a third straight month.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs said the world food price index released by the UN Food and Agriculture Organization (FAO) stood at 130.7 last month, up 1.6% from the previous month. The index rose for a third consecutive month, reflecting higher prices for grains, vegetable oils and meat. The FAO food price index is a gauge of international food market price trends, and changes in major commodity prices affect the overall reading. The ministry explained the latest global food price movement based on the published figures. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "世界食料価格指数が3カ月連続上昇、穀物・油脂類・肉類が押し上げ",
+        "excerpt": "韓国農林畜産食品部は、FAOが発表した先月の世界食料価格指数が130.7となり、前月比1.6%上昇して3カ月連続で上がったと明らかにした。",
+        "body": "韓国農林畜産食品部は、国連食糧農業機関（FAO）が発表した先月の世界食料価格指数が130.7を記録し、前月より1.6%上昇したと明らかにした。世界食料価格指数は3カ月連続で上昇し、今回の上昇には穀物、油脂類、肉類の価格上昇が反映された。FAOの食料価格指数は国際食料市場の価格動向を示す指標で、主要品目の価格変動が全体の指数に影響する。政府は発表された数値を基に世界の食料価格動向を説明した。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "全球食品价格指数连续三个月上涨，谷物、油脂和肉类推高指数",
+        "excerpt": "韩国农林畜产食品部表示，FAO发布的上月全球食品价格指数为130.7，较前月上涨1.6%，已连续三个月上升。",
+        "body": "韩国农林畜产食品部表示，联合国粮农组织（FAO）发布的上月全球食品价格指数为130.7，较前月上涨1.6%。全球食品价格指数已连续三个月上升，本次上涨反映了谷物、植物油脂和肉类价格走高。FAO食品价格指数是反映国际食品市场价格走势的指标，主要品类价格变动会影响整体指数。韩国政府根据已发布的数据说明了全球食品价格动向。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Índice mundial de precios de alimentos sube por tercer mes por cereales, aceites y carne",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que el índice mundial de precios de alimentos de la FAO llegó a 130,7 el mes pasado, un 1,6% más que el mes anterior.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur informó que el índice mundial de precios de alimentos publicado por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) registró 130,7 el mes pasado, un aumento del 1,6% frente al mes anterior. El índice subió por tercer mes consecutivo, impulsado por alzas en cereales, aceites vegetales y carne. El indicador de la FAO muestra la tendencia de precios del mercado alimentario internacional, y las variaciones de los principales productos influyen en el resultado general. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Índice mundial de preços dos alimentos sobe pelo 3º mês com cereais, óleos e carne",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul informou que o índice mundial de preços dos alimentos da FAO chegou a 130,7 no mês passado, alta de 1,6% ante o mês anterior.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul informou que o índice mundial de preços dos alimentos divulgado pela Organização das Nações Unidas para Alimentação e Agricultura (FAO) ficou em 130,7 no mês passado, alta de 1,6% em relação ao mês anterior. O índice avançou pelo terceiro mês consecutivo, refletindo aumentos nos preços de cereais, óleos vegetais e carne. O índice da FAO acompanha a tendência dos preços no mercado internacional de alimentos, e mudanças nos principais itens afetam o resultado geral. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Welt-Nahrungsmittelpreisindex steigt dritten Monat: Getreide, Öle und Fleisch teurer",
+        "excerpt": "Südkoreas Agrarministerium erklärte, der FAO-Welt-Nahrungsmittelpreisindex habe im vergangenen Monat 130,7 erreicht, 1,6% mehr als im Vormonat.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten teilte mit, dass der von der UN-Ernährungs- und Landwirtschaftsorganisation (FAO) veröffentlichte Welt-Nahrungsmittelpreisindex im vergangenen Monat bei 130,7 lag und damit um 1,6% gegenüber dem Vormonat stieg. Der Index erhöhte sich den dritten Monat in Folge. Ausschlaggebend waren höhere Preise für Getreide, pflanzliche Öle und Fleisch. Der FAO-Index zeigt die Preisentwicklung auf den internationalen Lebensmittelmärkten; Veränderungen bei wichtigen Warengruppen wirken sich auf den Gesamtwert aus. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’indice mondial des prix alimentaires monte encore, porté par céréales, huiles et viande",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’indice FAO des prix alimentaires a atteint 130,7 le mois dernier, en hausse de 1,6% sur un mois.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a annoncé que l’indice mondial des prix alimentaires publié par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO) s’est établi à 130,7 le mois dernier, soit une hausse de 1,6% par rapport au mois précédent. L’indice progresse ainsi pour le troisième mois consécutif, sous l’effet de la hausse des prix des céréales, des huiles végétales et de la viande. L’indice FAO mesure l’évolution des prix sur les marchés alimentaires internationaux. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر أسعار الغذاء العالمي يرتفع للشهر الثالث مع صعود الحبوب والزيوت واللحوم",
+        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن مؤشر أسعار الغذاء العالمي الصادر عن الفاو بلغ 130.7 الشهر الماضي، مرتفعا 1.6% عن الشهر السابق.",
+        "body": "أعلنت وزارة الزراعة والغذاء والشؤون الريفية في كوريا الجنوبية أن مؤشر أسعار الغذاء العالمي الصادر عن منظمة الأغذية والزراعة للأمم المتحدة (الفاو) سجل 130.7 في الشهر الماضي، بزيادة قدرها 1.6% عن الشهر السابق. وارتفع المؤشر للشهر الثالث على التوالي، مع انعكاس صعود أسعار الحبوب والزيوت النباتية واللحوم على القراءة الإجمالية. ويعد مؤشر الفاو مقياسا لاتجاهات الأسعار في سوق الغذاء الدولية، حيث تؤثر تغيرات أسعار السلع الرئيسية في المستوى العام للمؤشر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "विश्व खाद्य मूल्य सूचकांक तीसरे महीने चढ़ा, अनाज, तेल और मांस ने बढ़त दी",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि FAO का विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 रहा, जो पिछले महीने से 1.6% अधिक है।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने बताया कि संयुक्त राष्ट्र खाद्य और कृषि संगठन (FAO) द्वारा जारी विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 पर रहा, जो पिछले महीने की तुलना में 1.6% अधिक है। यह सूचकांक लगातार तीसरे महीने बढ़ा है। इस बढ़त में अनाज, वनस्पति तेलों और मांस की कीमतों में वृद्धि का असर शामिल है। FAO खाद्य मूल्य सूचकांक अंतरराष्ट्रीय खाद्य बाजारों में कीमतों की प्रवृत्ति दिखाने वाला संकेतक है, और प्रमुख वस्तुओं की कीमतों में बदलाव इसके कुल स्तर को प्रभावित करता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Indeks Harga Pangan Dunia Naik Tiga Bulan Beruntun, Dipicu Sereal, Minyak dan Daging",
+        "excerpt": "Kementerian Pertanian Korea Selatan menyebut indeks harga pangan dunia FAO bulan lalu mencapai 130,7, naik 1,6% dari bulan sebelumnya dan naik tiga bulan berturut-turut.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengatakan indeks harga pangan dunia yang dirilis Organisasi Pangan dan Pertanian PBB (FAO) tercatat 130,7 pada bulan lalu, naik 1,6% dibanding bulan sebelumnya. Indeks tersebut meningkat selama tiga bulan berturut-turut, mencerminkan kenaikan harga sereal, minyak nabati, dan daging. Indeks harga pangan FAO menjadi indikator pergerakan harga di pasar pangan internasional, dengan perubahan harga komoditas utama memengaruhi angka keseluruhan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "408477bae4b8",
     "slug": "세계식량가격지수-3년여만에-최고치곡물유지류육류-상승종합-555832",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Obat Obesitas Oral Meluas di AS, Korea Menanti Waktu Peluncuran",
         "excerpt": "Saat era obat obesitas oral dibuka di AS, Korea yang pasar obat obesitasnya tumbuh 137% tahun lalu ikut menyoroti kapan produk itu masuk ke dalam negeri.",
         "body": "Setelah obat obesitas suntik, Amerika Serikat mulai memasuki era obat obesitas berbentuk pil, dan perhatian pasien obesitas serta industri di Korea tertuju pada kapan obat oral itu akan diluncurkan di dalam negeri. Menurut teks asli, pasien obesitas berharap ada pilihan terapi untuk menurunkan berat badan tanpa beban jarum suntik. Di AS, makanan porsi kecil tinggi protein yang menyasar pengguna obat obesitas bertambah, sementara penjualan produk seperti obat rambut rontok yang membantu mengurangi efek samping juga meningkat. Di Korea, pasar obat obesitas tahun lalu tumbuh 137% dibanding tahun sebelumnya. Industri dan konsumen mengamati apakah pil Wegovy dari Novo Nordisk, yang disebut sebagai obat obesitas oral pertama di dunia, atau Poundeyo dari Eli Lilly akan lebih dulu masuk Korea. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "681c2291f65f",
-    "slug": "소식하고-탈모-관리하고-美-식품-미용-업계는-비만약-특수-721200",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T18:30:17.365Z",
-    "updatedAt": "2026-05-08T18:30:17.365Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888990/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133888990/2",
-    "titleFingerprint": "c0087aa3681e1cc22bbf05b05672e52b392909c6",
-    "dedupKeys": [
-      "681c2291f65fbc7668d5c0fc391f9d3f2a2a1088",
-      "c0087aa3681e1cc22bbf05b05672e52b392909c6",
-      "c82ede2b56933834e06b04bfd151e71146c42fdd"
-    ],
-    "imageUrl": "/images/articles/681c2291f65f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GLP-1 비만약 열풍에 미국 식품·미용업계 ‘동반 제품’ 확대",
-        "excerpt": "8일 제약·바이오 및 유통업계에 따르면 미국을 중심으로 GLP-1 비만치료제 사용이 늘며 소량 포장 식품과 부작용 보완 제품 마케팅이 확산되고 있다.",
-        "body": "세계적인 비만치료제 열풍이 8일 제약·바이오 및 유통업계에서 확인되듯 소비 지형을 바꾸고 있다. 매출 기준 세계 비만치료제 시장의 70% 이상을 차지하는 미국에서는 GLP-1 계열 치료제 사용 증가에 맞춘 식품·미용 업계의 대응이 빨라지고 있다. GLP-1 치료제는 포만감을 오래 유지해 식욕을 억제하는 방식으로 주목받고 있으며, 이에 따라 부작용을 보완하는 ‘GLP-1 동반 제품’과 적은 양의 음식을 판매하는 소량 포장 제품이 확대되고 있다. 최근 경구용 비만치료제까지 등장하며 시장이 커지자 관련 마케팅도 늘었다. 영국 슈퍼마켓 체인 모리슨은 어플라이드 뉴트리션과 GLP-1 사용자용 간편식을 내놨고, 코옵은 올해 1월 ‘굿 퓨얼 미니 밀’을 출시했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "GLP-1 Weight-Loss Drug Boom Expands Companion Products in US Food and Beauty",
-        "excerpt": "According to pharmaceutical, biotech and retail sources on May 8, rising GLP-1 weight-loss drug use is spreading marketing for small portions and companion products in the US.",
-        "body": "The global boom in weight-loss drugs is reshaping consumer behavior, according to pharmaceutical, biotech and retail industry information cited on May 8. In the United States, which accounts for more than 70% of the global obesity-drug market by sales, food and beauty companies are responding quickly to wider use of GLP-1 treatments. These drugs suppress appetite by helping users feel full for longer, prompting growth in “GLP-1 companion products” designed to address side effects and in small-portion packaged foods. As the market expands with the arrival of oral obesity treatments, GLP-1 marketing is increasing. UK supermarket chain Morrisons recently partnered with Applied Nutrition to launch ready meals for GLP-1 users, while Co-op introduced “Good Fuel Mini Meals” in January. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "GLP-1肥満薬ブームで米食品・美容業界に広がる関連商品",
-        "excerpt": "8日の製薬・バイオ、流通業界情報によると、米国を中心にGLP-1肥満治療薬の利用拡大で少量包装食品や関連商品の販売が広がっている。",
-        "body": "世界的な肥満治療薬ブームが、8日に伝えられた製薬・バイオおよび流通業界の動向の通り、消費の形を変えている。売上高基準で世界の肥満治療薬市場の70%以上を占める米国では、GLP-1系治療薬の利用増加に合わせ、食品・美容業界の対応が速まっている。GLP-1系治療薬は満腹感を長く維持して食欲を抑えるため、副作用を補う「GLP-1同伴商品」や少量の食品を売る小分け包装商品の拡大につながっている。最近は経口肥満治療薬も登場し、市場拡大とともに関連マーケティングが増加した。英国大手スーパーのモリソンズはApplied NutritionとGLP-1利用者向け簡便食を発売し、Co-opも今年1月に「Good Fuel Mini Meals」を投入した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "GLP-1减重药热潮推动美国食品与美容业扩大配套产品",
-        "excerpt": "据5月8日制药、生物科技和零售业消息，随着GLP-1减重药在美国等市场普及，小份包装食品和配套产品营销正在增加。",
-        "body": "据5月8日制药、生物科技及零售业信息显示，全球减重药热潮正在改变消费版图。美国按销售额计算占全球肥胖治疗药物市场70%以上，GLP-1类治疗药物使用增加后，食品和美容行业的应对明显加快。GLP-1类药物通过延长饱腹感来抑制食欲，因此用于补充相关副作用的“GLP-1配套产品”受到关注，销售少量食品的小份包装产品也在扩大。近期口服肥胖治疗药物出现后，市场进一步扩大，GLP-1营销随之增加。英国大型超市连锁Morrisons最近与Applied Nutrition合作，推出面向GLP-1使用者的便餐；Co-op也在今年1月推出“Good Fuel Mini Meals”。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Auge de fármacos GLP-1 impulsa productos aliados en comida y belleza de EE. UU.",
-        "excerpt": "Según sectores farmacéutico, biotecnológico y minorista el 8 de mayo, el mayor uso de GLP-1 expande en EE. UU. alimentos en porciones pequeñas y productos complementarios.",
-        "body": "El auge mundial de los tratamientos contra la obesidad está cambiando el mapa del consumo, según datos de los sectores farmacéutico, biotecnológico y minorista citados el 8 de mayo. En Estados Unidos, que representa más del 70% del mercado mundial de fármacos contra la obesidad por ventas, las industrias de alimentos y belleza reaccionan con rapidez al mayor uso de terapias GLP-1. Estos medicamentos ayudan a mantener la saciedad durante más tiempo y reducen el apetito, lo que impulsa productos complementarios para abordar efectos secundarios y alimentos en envases de porción reducida. Con la aparición de tratamientos orales contra la obesidad, el mercado crece y también el marketing GLP-1. Morrisons, cadena británica de supermercados, lanzó comidas preparadas para usuarios de GLP-1 con Applied Nutrition, y Co-op presentó “Good Fuel Mini Meals” en enero. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Boom dos remédios GLP-1 amplia produtos aliados em alimentos e beleza nos EUA",
-        "excerpt": "Segundo setores farmacêutico, biotecnológico e varejista em 8 de maio, o avanço dos GLP-1 impulsiona nos EUA porções menores e produtos complementares.",
-        "body": "O boom global dos medicamentos contra a obesidade está mudando o padrão de consumo, conforme informações dos setores farmacêutico, biotecnológico e varejista em 8 de maio. Nos Estados Unidos, que respondem por mais de 70% do mercado mundial de remédios contra obesidade em vendas, empresas de alimentos e beleza reagem rapidamente ao aumento do uso de terapias GLP-1. Esses medicamentos mantêm a sensação de saciedade por mais tempo e reduzem o apetite, estimulando produtos complementares voltados a efeitos colaterais e alimentos em embalagens de menor porção. Com a chegada de tratamentos orais contra a obesidade, o mercado cresce e o marketing GLP-1 também aumenta. A rede britânica Morrisons lançou refeições práticas para usuários de GLP-1 com a Applied Nutrition, e a Co-op apresentou “Good Fuel Mini Meals” em janeiro. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "GLP-1-Abnehmmittel-Boom treibt Begleitprodukte in US-Lebensmittel- und Beautybranche",
-        "excerpt": "Nach Angaben aus Pharma-, Biotech- und Handelskreisen vom 8. Mai fördern mehr GLP-1-Nutzer in den USA kleine Portionen und ergänzende Produkte.",
-        "body": "Der weltweite Boom bei Medikamenten gegen Fettleibigkeit verändert das Konsumverhalten, wie Informationen aus Pharma-, Biotech- und Handelskreisen vom 8. Mai zeigen. In den USA, die nach Umsatz mehr als 70% des globalen Marktes für Adipositasmedikamente ausmachen, reagieren Lebensmittel- und Kosmetikunternehmen rasch auf die zunehmende Nutzung von GLP-1-Therapien. Diese Mittel halten das Sättigungsgefühl länger aufrecht und dämpfen den Appetit. Dadurch gewinnen „GLP-1-Begleitprodukte“, die Nebenwirkungen ergänzend adressieren, sowie klein portionierte Lebensmittel an Bedeutung. Mit dem Auftauchen oraler Adipositasmittel wächst der Markt, und das GLP-1-Marketing nimmt zu. Die britische Supermarktkette Morrisons brachte mit Applied Nutrition Fertiggerichte für GLP-1-Nutzer heraus; Co-op startete im Januar „Good Fuel Mini Meals“. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "L’essor des médicaments GLP-1 stimule les produits associés dans l’alimentation et la beauté aux États-Unis",
-        "excerpt": "Selon les secteurs pharmaceutique, biotechnologique et de la distribution le 8 mai, l’usage accru des GLP-1 favorise aux États-Unis petites portions et produits associés.",
-        "body": "L’essor mondial des traitements contre l’obésité modifie les habitudes de consommation, selon des informations des secteurs pharmaceutique, biotechnologique et de la distribution citées le 8 mai. Aux États-Unis, qui représentent plus de 70% du marché mondial des médicaments anti-obésité en valeur de ventes, les entreprises alimentaires et de beauté réagissent vite à l’usage croissant des traitements GLP-1. Ces médicaments prolongent la sensation de satiété et réduisent l’appétit, ce qui favorise les « produits compagnons GLP-1 » destinés à accompagner les effets secondaires et les aliments en petites portions. Avec l’apparition de traitements oraux contre l’obésité, le marché s’élargit et le marketing GLP-1 progresse. Morrisons a lancé avec Applied Nutrition des repas pratiques pour utilisateurs de GLP-1, tandis que Co-op a présenté en janvier « Good Fuel Mini Meals ». Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "طفرة أدوية GLP-1 للتنحيف توسع المنتجات المرافقة في الغذاء والتجميل بأميركا",
-        "excerpt": "بحسب قطاعات الأدوية والتقنية الحيوية والتجزئة في 8 مايو، يؤدي انتشار أدوية GLP-1 إلى زيادة تسويق الوجبات الصغيرة والمنتجات المرافقة في الولايات المتحدة.",
-        "body": "تغير الطفرة العالمية في أدوية علاج السمنة خريطة الاستهلاك، وفق معلومات من قطاعات الأدوية والتقنية الحيوية والتجزئة في 8 مايو. ففي الولايات المتحدة، التي تمثل أكثر من 70% من سوق أدوية السمنة عالميا من حيث المبيعات، تتحرك شركات الغذاء والتجميل بسرعة مع زيادة استخدام علاجات GLP-1. تعمل هذه الأدوية على إطالة الشعور بالشبع وكبح الشهية، ما يدعم انتشار “منتجات مرافقة لـGLP-1” لمعالجة الآثار الجانبية، إلى جانب منتجات غذائية بعبوات صغيرة. ومع ظهور أدوية فموية لعلاج السمنة، يتوسع السوق وتزداد حملات التسويق المرتبطة بـGLP-1. أطلقت سلسلة Morrisons البريطانية وجبات جاهزة لمستخدمي GLP-1 بالتعاون مع Applied Nutrition، كما طرحت Co-op في يناير “Good Fuel Mini Meals”. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "GLP-1 मोटापा दवाओं की तेजी से अमेरिका में खाद्य और सौंदर्य सहायक उत्पाद बढ़े",
-        "excerpt": "8 मई को दवा, बायोटेक और खुदरा उद्योग के अनुसार, GLP-1 दवाओं के बढ़ते उपयोग से अमेरिका में छोटे पैक भोजन और सहायक उत्पादों की मार्केटिंग बढ़ रही है।",
-        "body": "मोटापा उपचार दवाओं की वैश्विक लोकप्रियता उपभोग के तरीके बदल रही है, जैसा कि 8 मई को दवा, बायोटेक और खुदरा उद्योग से मिली जानकारी में दिखा। बिक्री के आधार पर वैश्विक मोटापा दवा बाजार का 70% से अधिक हिस्सा रखने वाले अमेरिका में GLP-1 वर्ग की दवाओं के बढ़ते उपयोग के साथ खाद्य और सौंदर्य कंपनियां तेजी से प्रतिक्रिया दे रही हैं। ये दवाएं लंबे समय तक पेट भरे होने का एहसास बनाए रखकर भूख कम करती हैं। इसी कारण दुष्प्रभावों की पूर्ति करने वाले “GLP-1 companion products” और कम मात्रा वाले पैक खाद्य उत्पाद बढ़ रहे हैं। हाल में मौखिक मोटापा उपचार दवाओं के आने से बाजार बड़ा हुआ और GLP-1 मार्केटिंग भी बढ़ी। ब्रिटेन की सुपरमार्केट श्रृंखला Morrisons ने Applied Nutrition के साथ GLP-1 उपयोगकर्ताओं के लिए तैयार भोजन लॉन्च किया, जबकि Co-op ने जनवरी में “Good Fuel Mini Meals” पेश किया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Boom Obat GLP-1 Dorong Produk Pendamping di Industri Makanan dan Kecantikan AS",
-        "excerpt": "Menurut industri farmasi, bioteknologi, dan ritel pada 8 Mei, meningkatnya penggunaan GLP-1 memperluas pemasaran porsi kecil dan produk pendamping di AS.",
-        "body": "Boom global obat perawatan obesitas mengubah pola konsumsi, menurut informasi industri farmasi, bioteknologi, dan ritel pada 8 Mei. Di Amerika Serikat, yang menyumbang lebih dari 70% pasar obat obesitas dunia berdasarkan penjualan, industri makanan dan kecantikan bergerak cepat mengikuti peningkatan penggunaan terapi GLP-1. Obat ini membantu mempertahankan rasa kenyang lebih lama dan menekan nafsu makan, sehingga mendorong produk pendamping GLP-1 untuk melengkapi efek samping serta makanan dalam kemasan porsi kecil. Setelah obat obesitas oral mulai muncul, pasar membesar dan pemasaran GLP-1 ikut meningkat. Jaringan supermarket Inggris Morrisons meluncurkan makanan praktis untuk pengguna GLP-1 bersama Applied Nutrition, sementara Co-op merilis “Good Fuel Mini Meals” pada Januari. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "df64a5def654",
-    "slug": "내가-영화-작전-모델-증권사-간부-등-주가조작-일당-기소-961779",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T18:29:11.401Z",
-    "updatedAt": "2026-05-08T18:29:11.401Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260508/133889570/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260508/133889570/2",
-    "titleFingerprint": "b0aff1bab48d260e8b728bf2775fa04fa1352f37",
-    "dedupKeys": [
-      "df64a5def654ff20fbf6749b4c89b0ef2d1110bd",
-      "b0aff1bab48d260e8b728bf2775fa04fa1352f37",
-      "04a20889ce365939ad08148e7b31881f72c0fa85"
-    ],
-    "imageUrl": "/images/articles/df64a5def654.jpg",
-    "i18n": {
-      "ko": {
-        "title": "듀오백 주가조작 의혹, ‘작전’ 실제 모델 자처 기업사냥꾼 등 기소",
-        "excerpt": "서울남부지검은 8일 코스닥 상장사 듀오백 주가를 조작해 최소 14억 원의 부당이득을 챙긴 혐의로 총책 김모 씨 등 일당을 기소했다.",
-        "body": "서울남부지검 금융·증권범죄합동수사부는 8일 코스닥 상장사 듀오백 주가를 조작해 최소 14억 원의 부당이득을 챙긴 혐의로 총책 김모 씨와 대신증권 부장 전모 씨, 재력가 이모 씨 등 3명을 구속 기소했다고 밝혔다. 공범 6명은 불구속 또는 약식 기소됐고, 해외로 출국한 1명은 지명수배됐다. 검찰에 따르면 김 씨는 주가조작을 다룬 영화 ‘작전’의 실제 모델 중 한 명이라고 자처해 온 시세조종 전문가다. 이들은 지난해 1월부터 4월까지 차명계좌, 대포폰, 현금 30억 원 등을 동원해 서로 짜고 주식을 사고파는 방식으로 거래량과 주가를 인위적으로 끌어올린 혐의를 받는다. 이 씨는 인플루언서 양정원 씨의 남편으로 전해졌다. 향후 재판에서 공모 관계와 부당이득 규모가 쟁점이 될 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Duoback Stock Manipulation Case: Alleged ‘Operation’ Model and Broker Executive Indicted",
-        "excerpt": "The Seoul Southern District Prosecutors’ Office said on May 8 it indicted a group accused of manipulating KOSDAQ-listed Duoback shares and gaining at least 1.4 billion won.",
-        "body": "The Seoul Southern District Prosecutors’ Office’s joint financial and securities crime investigation unit said on May 8 that it detained and indicted three people, including alleged ringleader Kim, a Daishin Securities department head identified as Jeon, and wealthy investor Lee, on charges of manipulating the share price of KOSDAQ-listed Duoback and gaining at least 1.4 billion won in illicit profits. Six alleged accomplices were indicted without detention or through summary proceedings, while one person who left the country was placed on a wanted list. Prosecutors said Kim had claimed to be one of the real-life models for the film “The Scam,” which deals with stock manipulation. The group is accused of using borrowed-name accounts, burner phones and 3 billion won in cash from January to April last year to conduct coordinated trades that artificially raised trading volume and the stock price. Lee is reportedly the husband of influencer Yang Jung-won. The trial is expected to focus on the alleged collusion and the size of illicit gains. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "デュオバック株価操作疑惑、『作戦』実在モデル自称の企業買収家ら起訴",
-        "excerpt": "ソウル南部地検は8日、KOSDAQ上場企業デュオバックの株価を操作し少なくとも14億ウォンの不当利益を得た疑いで一味を起訴した。",
-        "body": "ソウル南部地検金融・証券犯罪合同捜査部は8日、KOSDAQ上場企業デュオバックの株価を操作し、少なくとも14億ウォンの不当利益を得た疑いで、主犯格のキム氏、代信証券部長のチョン氏、資産家のイ氏ら3人を拘束起訴したと明らかにした。共犯6人は在宅または略式起訴され、海外に出国した1人は指名手配された。検察によると、キム氏は株価操作を扱った映画「作戦」の実在モデルの一人だと自称してきた相場操縦の専門家だ。彼らは昨年1月から4月まで、借名口座、いわゆる大砲フォン、現金30億ウォンなどを動員し、示し合わせて株式を売買する方法で取引量と株価を人為的に押し上げた疑いがある。イ氏はインフルエンサーのヤン・ジョンウォン氏の夫とされる。今後の裁判では共謀関係と不当利益の規模が争点になる見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "Duoback股价操纵案：自称《作战》原型的企业猎手等被起诉",
-        "excerpt": "首尔南部地方检察厅8日表示，已起诉涉嫌操纵KOSDAQ上市公司Duoback股价并获至少14亿韩元非法利益的一伙人。",
-        "body": "首尔南部地方检察厅金融证券犯罪联合调查部8日表示，已以涉嫌操纵KOSDAQ上市公司Duoback股价、获取至少14亿韩元非法利益为由，拘留起诉总负责人金某、Daishin证券部长全某和富豪李某等3人。另有6名共犯被不拘留起诉或简式起诉，1名已出境人员被通缉。检方称，金某一直自称是描写股价操纵的电影《作战》的现实原型之一，是一名操纵行情专家。他们涉嫌从去年1月至4月动用借名账户、匿名手机和30亿韩元现金等，合谋相互买卖股票，人为推高交易量和股价。据称，李某是网红梁正原的丈夫。今后审判预计将围绕共谋关系和非法获利规模展开。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Caso Duoback: imputan a presunto modelo de “The Scam” y a ejecutivo bursátil",
-        "excerpt": "La Fiscalía del Distrito Sur de Seúl dijo el 8 de mayo que imputó a un grupo acusado de manipular acciones de Duoback en KOSDAQ y ganar al menos 1.400 millones de wones.",
-        "body": "La unidad conjunta de delitos financieros y bursátiles de la Fiscalía del Distrito Sur de Seúl informó el 8 de mayo que acusó y detuvo a tres personas, entre ellas Kim, señalado como cabecilla, Jeon, jefe de departamento de Daishin Securities, y el adinerado Lee, por presuntamente manipular la cotización de Duoback, empresa listada en KOSDAQ, y obtener al menos 1.400 millones de wones en beneficios ilícitos. Otros seis presuntos cómplices fueron acusados sin detención o mediante procedimiento sumario, y una persona que salió al extranjero fue puesta en búsqueda. Según la fiscalía, Kim decía ser uno de los modelos reales de la película “The Scam”, sobre manipulación bursátil. El grupo habría usado cuentas a nombre de terceros, teléfonos no registrados y 3.000 millones de wones en efectivo entre enero y abril del año pasado para comprar y vender acciones de forma coordinada, elevando artificialmente el volumen y el precio. Lee es señalado como esposo de la influencer Yang Jung-won. El juicio abordará la presunta colusión y el monto de las ganancias ilícitas. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Caso Duoback: acusado que dizia inspirar “The Scam” e executivo são denunciados",
-        "excerpt": "A Promotoria do Distrito Sul de Seul disse em 8 de maio que denunciou um grupo acusado de manipular ações da Duoback na KOSDAQ e obter ao menos 1,4 bilhão de won.",
-        "body": "A unidade conjunta de investigação de crimes financeiros e de valores mobiliários da Promotoria do Distrito Sul de Seul informou em 8 de maio que denunciou e manteve presos três suspeitos, incluindo Kim, apontado como chefe do esquema, Jeon, gerente da Daishin Securities, e o investidor Lee, por manipular o preço das ações da Duoback, listada na KOSDAQ, e obter ao menos 1,4 bilhão de won em ganhos ilícitos. Outros seis supostos cúmplices foram denunciados sem prisão ou por rito sumário, e uma pessoa que deixou o país foi colocada na lista de procurados. Segundo a promotoria, Kim dizia ser um dos modelos reais do filme “The Scam”, sobre manipulação de ações. O grupo é acusado de usar contas em nome de terceiros, celulares descartáveis e 3 bilhões de won em dinheiro entre janeiro e abril do ano passado para comprar e vender ações de forma combinada, elevando artificialmente o volume e o preço. Lee é apontado como marido da influenciadora Yang Jung-won. O julgamento deve discutir a conspiração e o tamanho dos ganhos ilícitos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Duoback-Aktienmanipulation: Selbsternanntes „The Scam“-Vorbild angeklagt",
-        "excerpt": "Die Staatsanwaltschaft Seoul Süd teilte am 8. Mai mit, eine Gruppe angeklagt zu haben, die Duoback-Aktien manipuliert und mindestens 1,4 Milliarden Won erlangt haben soll.",
-        "body": "Die gemeinsame Ermittlungsabteilung für Finanz- und Wertpapierkriminalität der Staatsanwaltschaft Seoul Süd erklärte am 8. Mai, sie habe drei Personen in Untersuchungshaft angeklagt: den mutmaßlichen Hauptverantwortlichen Kim, den Daishin-Securities-Abteilungsleiter Jeon und den vermögenden Lee. Ihnen wird vorgeworfen, den Kurs des KOSDAQ-notierten Unternehmens Duoback manipuliert und mindestens 1,4 Milliarden Won unrechtmäßigen Gewinn erzielt zu haben. Sechs mutmaßliche Mittäter wurden ohne Haft oder im summarischen Verfahren angeklagt; eine ins Ausland ausgereiste Person wurde zur Fahndung ausgeschrieben. Laut Staatsanwaltschaft bezeichnete sich Kim als eines der realen Vorbilder des Films „The Scam“, der Aktienmanipulation behandelt. Die Gruppe soll von Januar bis April des Vorjahres Fremdkonten, Wegwerftelefone und 3 Milliarden Won in bar eingesetzt haben, um abgesprochene Käufe und Verkäufe vorzunehmen und so Handelsvolumen und Kurs künstlich zu erhöhen. Lee soll der Ehemann der Influencerin Yang Jung-won sein. Im Prozess dürften die mutmaßliche Absprache und die Höhe der illegalen Gewinne zentral sein. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Affaire Duoback: l’homme se disant modèle de “The Scam” et un cadre inculpés",
-        "excerpt": "Le parquet du district sud de Séoul a annoncé le 8 mai l’inculpation d’un groupe accusé d’avoir manipulé l’action Duoback sur le KOSDAQ et gagné au moins 1,4 milliard de wons.",
-        "body": "La division conjointe d’enquête sur les crimes financiers et boursiers du parquet du district sud de Séoul a indiqué le 8 mai avoir inculpé et placé en détention trois personnes, dont Kim, présenté comme le chef du groupe, Jeon, cadre chez Daishin Securities, et Lee, un investisseur fortuné. Ils sont soupçonnés d’avoir manipulé le cours de Duoback, société cotée au KOSDAQ, et d’avoir obtenu au moins 1,4 milliard de wons de gains illicites. Six complices présumés ont été inculpés sans détention ou par procédure sommaire, et une personne partie à l’étranger a été mise sur la liste des personnes recherchées. Selon le parquet, Kim affirmait être l’un des modèles réels du film “The Scam”, consacré à la manipulation boursière. Le groupe aurait utilisé des comptes sous prête-noms, des téléphones jetables et 3 milliards de wons en espèces entre janvier et avril de l’an dernier pour acheter et vendre des actions de manière concertée, gonflant artificiellement les volumes et le cours. Lee serait le mari de l’influenceuse Yang Jung-won. Le procès devrait porter sur la collusion présumée et le montant des profits illicites. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "قضية تلاعب بسهم Duoback: اتهام رجل قال إنه نموذج فيلم “The Scam” ومسؤول وساطة",
-        "excerpt": "أعلن ادعاء جنوب سيول في 8 مايو توجيه اتهامات إلى مجموعة يشتبه في تلاعبها بسهم Duoback المدرجة في كوسداك وتحقيقها مكاسب غير مشروعة لا تقل عن 1.4 مليار وون.",
-        "body": "أعلنت وحدة التحقيق المشتركة في جرائم المال والأوراق المالية التابعة لمكتب ادعاء منطقة جنوب سيول في 8 مايو أنها أوقفت ووجهت اتهامات إلى ثلاثة أشخاص، بينهم كيم، الذي يشتبه بأنه المدبر، وجيون، رئيس قسم في Daishin Securities، ولي، وهو ثري، بتهمة التلاعب بسعر سهم Duoback المدرجة في كوسداك وتحقيق مكاسب غير مشروعة لا تقل عن 1.4 مليار وون. كما وُجهت اتهامات إلى ستة شركاء مزعومين من دون توقيف أو بإجراءات موجزة، ووُضع شخص غادر إلى الخارج على قائمة المطلوبين. ووفق الادعاء، كان كيم يقول إنه أحد النماذج الحقيقية لفيلم “The Scam” الذي يتناول التلاعب بالأسهم. وتشتبه السلطات في أن المجموعة استخدمت حسابات بأسماء مستعارة وهواتف غير مسجلة و3 مليارات وون نقدا بين يناير وأبريل من العام الماضي لتنفيذ عمليات شراء وبيع منسقة رفعت حجم التداول والسعر بصورة مصطنعة. ويقال إن لي زوج المؤثرة يانغ جونغ وون. ومن المتوقع أن تركز المحاكمة على علاقة التواطؤ وحجم الأرباح غير المشروعة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Duoback शेयर हेरफेर मामला: “The Scam” का मॉडल बताने वाले कारोबारी समेत आरोपित",
-        "excerpt": "सियोल सदर्न डिस्ट्रिक्ट प्रॉसीक्यूटर्स ऑफिस ने 8 मई को कहा कि KOSDAQ-सूचीबद्ध Duoback के शेयरों में हेरफेर कर कम से कम 1.4 अरब वॉन कमाने के आरोप में एक समूह पर अभियोग लगाया गया है।",
-        "body": "सियोल सदर्न डिस्ट्रिक्ट प्रॉसीक्यूटर्स ऑफिस की वित्तीय और प्रतिभूति अपराध संयुक्त जांच इकाई ने 8 मई को बताया कि KOSDAQ-सूचीबद्ध Duoback के शेयर मूल्य में हेरफेर कर कम से कम 1.4 अरब वॉन का अवैध लाभ कमाने के आरोप में तीन लोगों को हिरासत में लेकर अभियोग लगाया गया है। इनमें कथित सरगना किम, Daishin Securities के विभाग प्रमुख जियोन और धनाढ्य ली शामिल हैं। छह कथित सह-अभियुक्तों पर बिना हिरासत या संक्षिप्त प्रक्रिया में अभियोग लगाया गया, जबकि विदेश गए एक व्यक्ति को वांछित घोषित किया गया। अभियोजन के अनुसार, किम खुद को शेयर हेरफेर पर बनी फिल्म “The Scam” के वास्तविक मॉडलों में से एक बताता रहा है। समूह पर आरोप है कि उसने पिछले साल जनवरी से अप्रैल तक बेनामी खातों, अनाम फोन और 3 अरब वॉन नकद का उपयोग कर आपसी सहमति से शेयर खरीदे-बेचे और कारोबार की मात्रा तथा कीमत को कृत्रिम रूप से बढ़ाया। ली को इन्फ्लुएंसर यांग जंग-वोन का पति बताया गया है। मुकदमे में कथित मिलीभगत और अवैध लाभ की राशि मुख्य मुद्दे रहने की संभावना है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Kasus Manipulasi Saham Duoback: Sosok yang Mengaku Model “The Scam” Didakwa",
-        "excerpt": "Kejaksaan Distrik Selatan Seoul pada 8 Mei menyatakan mendakwa kelompok yang dituduh memanipulasi saham Duoback di KOSDAQ dan meraup sedikitnya 1,4 miliar won.",
-        "body": "Unit gabungan investigasi kejahatan keuangan dan sekuritas Kejaksaan Distrik Selatan Seoul pada 8 Mei menyatakan telah menahan dan mendakwa tiga orang, termasuk Kim yang disebut sebagai otak kasus, Jeon, kepala departemen di Daishin Securities, serta Lee, seorang hartawan. Mereka dituduh memanipulasi harga saham Duoback, perusahaan yang tercatat di KOSDAQ, dan memperoleh keuntungan ilegal sedikitnya 1,4 miliar won. Enam terduga kaki tangan didakwa tanpa penahanan atau melalui dakwaan singkat, sementara satu orang yang pergi ke luar negeri dimasukkan dalam daftar buronan. Menurut jaksa, Kim selama ini mengaku sebagai salah satu model nyata film “The Scam” yang mengangkat manipulasi saham. Kelompok itu diduga menggunakan rekening atas nama pihak lain, ponsel tak terdaftar, dan uang tunai 3 miliar won dari Januari hingga April tahun lalu untuk melakukan jual beli saham secara terkoordinasi, sehingga volume transaksi dan harga naik secara artifisial. Lee disebut sebagai suami influencer Yang Jung-won. Persidangan diperkirakan berfokus pada dugaan persekongkolan dan besaran keuntungan ilegal. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "db8868488db7",
-    "slug": "정부-임대사업자-양도세-혜택-과도-서울-43만채-매물-유도-405090",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T18:27:51.544Z",
-    "updatedAt": "2026-05-08T18:27:51.544Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889518/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889518/2",
-    "titleFingerprint": "e39313d02e32bbbeab06ea3371063651c203afd0",
-    "dedupKeys": [
-      "db8868488db70a827dae2ed6a2d2d9f3e1a93240",
-      "e39313d02e32bbbeab06ea3371063651c203afd0",
-      "d14a92ad4bb1bcfed5364135152090328ce8ac9a"
-    ],
-    "imageUrl": "/images/articles/db8868488db7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "임대사업자 양도세 혜택 축소 검토, 서울 4.3만채 매물 유도 나선 정부",
-        "excerpt": "정부가 8일 조정대상지역 매입임대아파트 사업자의 양도소득세 중과 배제 혜택을 손질해 서울 4.3만채 등 잠긴 매물을 시장에 유도하는 방안을 검토한다고 밝혔다.",
-        "body": "정부가 8일 조정대상지역 내 매입임대아파트 사업자에게 적용돼 온 양도소득세 중과 배제 혜택을 축소하는 방안을 검토한다고 밝혔다. 임대사업자의 양도세 부담을 높여 잠겨 있는 매물을 시장에 내놓게 하고, 이를 실거주자에게 돌아가도록 하겠다는 취지다. 구윤철 부총리 겸 재정경제부 장관은 비상경제본부 회의 겸 경제·부동산 관계 장관회의에서 해당 혜택이 조세형평 측면에서 과도하다는 지적을 살펴보고 있다고 말했다. 매입임대는 등록 임대사업자 유형 중 하나로, 의무 임대 기간을 지키고 임대료 인상률을 연 5% 이내로 제한하는 조건 등이 붙는다. 시장에서는 9일 다주택자 양도세 중과 유예 종료 이후 당분간 매물 잠김과 거래 위축 가능성이 거론된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Government Reviews Capital Gains Tax Relief Cuts to Unlock 43,000 Seoul Rental Homes",
-        "excerpt": "On May 8, the government said it is reviewing changes to capital gains tax relief for registered rental apartment operators in regulated areas to encourage locked-up homes, including 43,000 in Seoul, onto the market.",
-        "body": "The government said on May 8 that it is reviewing a plan to reduce the capital gains tax surcharge exemption granted to purchase-rental apartment operators in regulated areas. The aim is to raise the tax burden on rental business operators, encourage locked-up homes to be listed, and help those homes reach end users. Deputy Prime Minister and Minister of Finance and Economy Koo Yun-cheol said at an emergency economic headquarters meeting and ministerial meeting on the economy and real estate that officials are examining criticism that the permanent exemption for purchase-rental apartment operators in regulated areas is excessive from a tax-equity perspective. Purchase rental is one type of registered rental business, with conditions such as maintaining the mandatory rental period and limiting rent increases to no more than 5% a year. Market observers expect listings and transactions may remain limited after the multi-homeowner capital gains tax surcharge suspension ends on May 9. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "賃貸事業者の譲渡税優遇縮小を検討、ソウル4.3万戸の売却促す政府",
-        "excerpt": "政府は8日、調整対象地域の買入賃貸マンション事業者に対する譲渡所得税重課除外の優遇を見直し、ソウル4.3万戸を含む滞留物件の市場流通を促す方針を検討すると明らかにした。",
-        "body": "政府は8日、調整対象地域内の買入賃貸マンション事業者に適用されてきた譲渡所得税重課除外の優遇を縮小する案を検討していると明らかにした。賃貸事業者の譲渡税負担を高め、滞っている物件を市場に出させ、実需者に回るようにする狙いだ。具潤哲副首相兼財政経済部長官は、非常経済本部会議兼経済・不動産関係閣僚会議で、調整対象地域の買入賃貸マンション事業者に恒久的に与えられていた同優遇が税の公平性の面で過度だとの指摘を検討していると述べた。買入賃貸は登録賃貸事業者の類型の一つで、義務賃貸期間の順守や賃料引き上げを年5%以内に抑える条件などがある。市場では9日に多住宅保有者の譲渡税重課猶予が終了すれば、当面は売り物件の停滞と取引減少が続くとの見方が出ている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "政府研议缩减租赁业者转让税优惠，推动首尔4.3万套房源入市",
-        "excerpt": "政府8日表示，正研究调整管制地区购入型租赁公寓业者的转让所得税重课排除优惠，以推动包括首尔4.3万套在内的锁定房源进入市场。",
-        "body": "政府8日表示，正研究缩减适用于管制地区内购入型租赁公寓业者的转让所得税重课排除优惠。政府意在提高租赁业者的转让税负担，促使被锁定的房源投放市场，并让这些房源流向实际居住者。副总理兼财政经济部长官具润哲在紧急经济本部会议暨经济、房地产相关部长会议上表示，正在研究有关管制地区购入型租赁公寓业者永久享有该优惠在税收公平层面过度的意见。购入型租赁是登记租赁业者类型之一，通常需遵守义务租赁期限，并将租金涨幅限制在每年5%以内等条件。市场认为，9日多套房持有者转让税重课暂缓措施结束后，短期内可能出现房源锁定和交易不多的局面。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Gobierno estudia recortar alivio fiscal a arrendadores para liberar 43.000 viviendas en Seúl",
-        "excerpt": "El 8 de mayo, el gobierno dijo que revisa reducir la exención del recargo al impuesto sobre ganancias de capital para operadores de apartamentos de alquiler en zonas reguladas, buscando sacar al mercado 43.000 viviendas en Seúl.",
-        "body": "El gobierno informó el 8 de mayo que estudia reducir el beneficio que excluye a los operadores de apartamentos de alquiler comprados en zonas reguladas del recargo al impuesto sobre ganancias de capital. La medida busca elevar la carga fiscal de esos arrendadores, inducir la salida al mercado de viviendas retenidas y facilitar que lleguen a residentes finales. Koo Yun-cheol, vice primer ministro y ministro de Finanzas y Economía, dijo en una reunión de emergencia económica y de ministros de economía e inmobiliario que se revisan críticas según las cuales la exención permanente para estos operadores en zonas reguladas es excesiva desde el punto de vista de la equidad tributaria. El alquiler por compra es una categoría de operador registrado, sujeto a condiciones como cumplir el periodo obligatorio de alquiler y limitar las subidas de renta a un máximo anual del 5%. En el mercado se prevé que, tras el fin el 9 de mayo de la suspensión del recargo para propietarios de varias viviendas, haya pocas operaciones por bloqueo de oferta. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Governo avalia cortar benefício de ganho de capital para liberar 43 mil imóveis em Seul",
-        "excerpt": "Em 8 de maio, o governo informou que avalia reduzir a exclusão da sobretaxa de ganho de capital para operadores de apartamentos de aluguel em áreas reguladas, buscando levar ao mercado 43 mil unidades em Seul.",
-        "body": "O governo informou em 8 de maio que avalia reduzir o benefício que exclui operadores de apartamentos de aluguel comprados em áreas reguladas da sobretaxa sobre ganho de capital. A intenção é elevar a carga tributária desses locadores, estimular a venda de imóveis retidos e fazer com que cheguem a moradores finais. Koo Yun-cheol, vice-primeiro-ministro e ministro da Economia e Finanças, disse em reunião de emergência econômica e de ministros de economia e mercado imobiliário que o governo examina críticas de que a isenção permanente para esses operadores em áreas reguladas é excessiva do ponto de vista da equidade fiscal. O aluguel por compra é uma modalidade de operador registrado, com condições como cumprir o período obrigatório de locação e limitar reajustes de aluguel a até 5% ao ano. No mercado, há expectativa de que, após o fim em 9 de maio da suspensão da sobretaxa para proprietários de múltiplas casas, a oferta permaneça travada e as transações sejam limitadas por algum tempo. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Regierung prüft Kürzung von Steuerprivilegien für Vermieter, 43.000 Wohnungen in Seoul im Fokus",
-        "excerpt": "Die Regierung erklärte am 8. Mai, sie prüfe eine Einschränkung der Befreiung vom Zuschlag auf Kapitalertragsteuer für Mietwohnungsbetreiber in regulierten Gebieten, um blockierte Bestände wie 43.000 Wohnungen in Seoul auf den Markt zu bringen.",
-        "body": "Die Regierung teilte am 8. Mai mit, dass sie eine Kürzung der Befreiung vom Zuschlag auf die Kapitalertragsteuer für Betreiber gekaufter Mietwohnungen in regulierten Gebieten prüft. Ziel ist es, die Steuerlast dieser Vermieter zu erhöhen, zurückgehaltene Wohnungen zum Verkauf zu bewegen und sie Eigennutzern zugänglich zu machen. Koo Yun-cheol, Vizepremier und Minister für Finanzen und Wirtschaft, sagte bei einer Sitzung des Notfall-Wirtschaftsstabs und einem Treffen der zuständigen Minister für Wirtschaft und Immobilien, die Kritik werde geprüft, wonach die dauerhafte Befreiung für solche Betreiber in regulierten Gebieten aus Sicht der Steuergerechtigkeit übermäßig sei. Gekaufte Mietwohnungen sind eine Kategorie registrierter Vermietungsunternehmen; dazu gehören Pflichten wie die Einhaltung der vorgeschriebenen Mietdauer und eine Begrenzung der Mieterhöhung auf höchstens 5% pro Jahr. Am Markt wird erwartet, dass nach dem Ende der Aussetzung des Steuerzuschlags für Mehrfachhausbesitzer am 9. Mai vorerst wenig Angebot und geringe Transaktionen zu sehen sein könnten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le gouvernement étudie une baisse des avantages fiscaux pour libérer 43 000 logements à Séoul",
-        "excerpt": "Le 8 mai, le gouvernement a indiqué examiner une réduction de l’exemption de surtaxe sur les plus-values immobilières accordée aux exploitants d’appartements locatifs en zones réglementées, afin de remettre sur le marché 43 000 logements à Séoul.",
-        "body": "Le gouvernement a annoncé le 8 mai qu’il examinait une réduction de l’avantage excluant les exploitants d’appartements locatifs acquis en zones réglementées de la surtaxe sur l’impôt des plus-values immobilières. L’objectif est d’alourdir leur charge fiscale, d’inciter la mise en vente des biens retenus et de les orienter vers des résidents effectifs. Koo Yun-cheol, vice-Premier ministre et ministre des Finances et de l’Économie, a déclaré lors d’une réunion d’urgence économique et d’une réunion ministérielle économie-immobilier que les autorités étudiaient les critiques jugeant cette exemption permanente excessive au regard de l’équité fiscale. La location par acquisition est une catégorie de bailleur enregistré, soumise notamment au respect d’une durée obligatoire de location et à une hausse des loyers limitée à 5% par an. Le marché estime qu’après la fin, le 9 mai, du report de la surtaxe pour les multipropriétaires, les biens pourraient rester bloqués et les transactions limitées pendant un temps. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "الحكومة تدرس تقليص إعفاء ضريبة الأرباح الرأسمالية لدفع 43 ألف مسكن في سيئول إلى السوق",
-        "excerpt": "قالت الحكومة في 8 مايو إنها تدرس تعديل إعفاء مشغلي شقق الإيجار في المناطق الخاضعة للتنظيم من ضريبة الأرباح الرأسمالية الإضافية، بهدف تحريك 43 ألف مسكن في سيئول ومساكن أخرى محتجزة نحو السوق.",
-        "body": "أعلنت الحكومة في 8 مايو أنها تدرس تقليص ميزة استبعاد مشغلي شقق الإيجار المشتراة في المناطق الخاضعة للتنظيم من الضريبة الإضافية على الأرباح الرأسمالية. وتهدف الخطوة إلى زيادة العبء الضريبي على مشغلي الإيجار، وتشجيع طرح المساكن المحتجزة في السوق، بحيث تصل إلى المقيمين الفعليين. وقال كو يون تشول، نائب رئيس الوزراء ووزير المالية والاقتصاد، خلال اجتماع مقر الطوارئ الاقتصادية واجتماع الوزراء المعنيين بالاقتصاد والعقارات، إن الحكومة تراجع الانتقادات التي ترى أن الإعفاء الدائم لهؤلاء المشغلين في المناطق المنظمة مفرط من زاوية العدالة الضريبية. ويعد هذا النوع من الإيجار أحد أشكال أعمال الإيجار المسجلة، ويشترط عادة الالتزام بفترة الإيجار الإلزامية وعدم رفع الإيجار بأكثر من 5% سنويا. ويتوقع السوق أن يؤدي انتهاء تعليق الضريبة الإضافية على ملاك المساكن المتعددة في 9 مايو إلى بقاء المعروض محدودا وتراجع الصفقات لبعض الوقت. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सरकार किराया कारोबारियों की कैपिटल गेन टैक्स छूट घटाने पर विचार, सियोल में 43,000 घरों पर नजर",
-        "excerpt": "सरकार ने 8 मई को कहा कि वह विनियमित क्षेत्रों में खरीदे गए किराये अपार्टमेंट चलाने वालों को मिली कैपिटल गेन टैक्स सरचार्ज छूट में बदलाव पर विचार कर रही है, ताकि सियोल के 43,000 सहित अटके घर बाजार में आएं।",
-        "body": "सरकार ने 8 मई को कहा कि वह विनियमित क्षेत्रों में खरीदे गए किराये अपार्टमेंट संचालकों को दी जा रही कैपिटल गेन टैक्स सरचार्ज छूट को घटाने की योजना पर विचार कर रही है। मकसद किराया कारोबारियों पर कर बोझ बढ़ाकर अटके हुए घरों को बाजार में लाना और उन्हें वास्तविक निवासियों तक पहुंचाना है। उपप्रधानमंत्री और वित्त व अर्थव्यवस्था मंत्री कू यून-चोल ने आपात आर्थिक मुख्यालय बैठक और अर्थव्यवस्था-रियल एस्टेट मंत्रिस्तरीय बैठक में कहा कि सरकार इस आलोचना की समीक्षा कर रही है कि विनियमित क्षेत्रों के ऐसे संचालकों को स्थायी रूप से दी गई छूट कर समानता के लिहाज से अत्यधिक है। खरीदा गया किराया पंजीकृत किराया कारोबार की एक श्रेणी है, जिसमें अनिवार्य किराया अवधि का पालन और किराया वृद्धि को सालाना 5% तक सीमित रखने जैसी शर्तें होती हैं। बाजार में राय है कि 9 मई को बहु-घर मालिकों के कैपिटल गेन टैक्स सरचार्ज स्थगन की समाप्ति के बाद कुछ समय तक आपूर्ति अटकी रह सकती है और सौदे कम हो सकते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pemerintah Kaji Pangkas Insentif Pajak Pengalihan Sewa, Dorong 43.000 Unit Seoul Masuk Pasar",
-        "excerpt": "Pada 8 Mei, pemerintah menyatakan sedang mengkaji pengurangan pengecualian tambahan pajak capital gain bagi operator apartemen sewa beli di wilayah pengendalian, untuk mendorong pasokan terkunci termasuk 43.000 unit di Seoul.",
-        "body": "Pemerintah pada 8 Mei menyatakan sedang mengkaji pengurangan manfaat pengecualian tambahan pajak capital gain yang selama ini berlaku bagi operator apartemen sewa beli di wilayah pengendalian. Tujuannya adalah menaikkan beban pajak pelaku usaha sewa, mendorong unit yang terkunci masuk ke pasar, dan memastikan pasokan itu beralih ke penghuni aktual. Wakil Perdana Menteri sekaligus Menteri Keuangan dan Ekonomi Koo Yun-cheol mengatakan dalam rapat markas darurat ekonomi serta rapat menteri terkait ekonomi dan properti bahwa pemerintah menelaah kritik bahwa pengecualian permanen bagi operator sewa beli di wilayah pengendalian terlalu besar dari sisi keadilan pajak. Sewa beli merupakan salah satu jenis usaha sewa terdaftar, dengan syarat seperti memenuhi masa sewa wajib dan membatasi kenaikan sewa maksimal 5% per tahun. Pasar memperkirakan setelah penangguhan tambahan pajak capital gain bagi pemilik banyak rumah berakhir pada 9 Mei, pasokan bisa tetap tertahan dan transaksi tidak banyak untuk sementara. Sumber: rss.donga.com"
       }
     }
   }
