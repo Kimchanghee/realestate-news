@@ -1,5 +1,230 @@
 [
   {
+    "id": "0bd0393cb393",
+    "slug": "인터뷰-미래운용-자산배분부문대표-ai혁명-초기단계증시-더-오를것-904466",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T22:45:27.715Z",
+    "updatedAt": "2026-05-09T22:45:27.715Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508171500008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508171500008",
+    "titleFingerprint": "270f32d4a11ffbe1a3b6630f20ee650f054221bd",
+    "dedupKeys": [
+      "0bd0393cb393973528168ae9113cc818c617d582",
+      "270f32d4a11ffbe1a3b6630f20ee650f054221bd",
+      "4b8ffa1e0ccefc129a3adb6267972b9bfc83214b"
+    ],
+    "imageUrl": "/images/articles/0bd0393cb393.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 혁명 초기 단계, 미래에셋운용 김승범 대표 “증시 더 오를 것”",
+        "excerpt": "미래에셋자산운용 김승범 자산배분 부문대표는 연합뉴스 인터뷰에서 AI 산업혁명이 아직 초기 단계라며 국내 증시의 추가 상승 가능성을 언급했다.",
+        "body": "미래에셋자산운용 김승범 자산배분 부문대표는 연합뉴스와의 인터뷰에서 인공지능(AI) 산업혁명이 아직 초기 단계에 있다고 진단했다. 그는 AI가 산업 전반에 미칠 변화가 본격화되는 국면에 있으며, 이 흐름이 국내 증시에 긍정적으로 작용할 수 있다고 봤다. 이번 발언은 AI 관련 산업과 자본시장의 연결성이 커지는 가운데 나온 것으로, 투자자들의 관심은 AI 성장세가 증시 상승 동력으로 이어질지에 모인다. 김 대표는 “인공지능(AI) 산업혁명은 아직 초기 단계에 있다”며 국내 증시가 더 오를 수 있다는 견해를 밝혔다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "AI Revolution Still Early, Mirae Asset Executive Sees More Stock Gains",
+        "excerpt": "Kim Seung-beom of Mirae Asset Global Investments told Yonhap that the AI industrial revolution remains in its early stage and said Korean stocks could rise further.",
+        "body": "Kim Seung-beom, head of asset allocation at Mirae Asset Global Investments, said in an interview with Yonhap News Agency that the artificial intelligence (AI) industrial revolution is still in its early stage. He said the changes AI may bring across industries are entering a more active phase and could work positively for the Korean stock market. The remarks come as the link between AI-related industries and capital markets grows stronger, drawing investor attention to whether AI growth can become a driver of further market gains. Kim said the AI industrial revolution is “still in its early stage” and expressed the view that domestic stocks could climb further. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "AI革命は初期段階、未来アセット運用幹部「株価はさらに上昇へ」",
+        "excerpt": "未来アセット資産運用のキム・スンボム資産配分部門代表は聯合ニュースのインタビューで、AI産業革命はまだ初期段階で韓国株の追加上昇余地があると述べた。",
+        "body": "未来アセット資産運用のキム・スンボム資産配分部門代表は、聯合ニュースとのインタビューで、人工知能（AI）産業革命はまだ初期段階にあるとの見方を示した。AIが産業全般にもたらす変化は本格化しつつあり、この流れが韓国株式市場に前向きに作用し得るとみている。AI関連産業と資本市場の結び付きが強まるなかでの発言であり、投資家の関心はAIの成長が株価上昇の動力につながるかに集まっている。キム代表は「人工知能（AI）産業革命はまだ初期段階にある」とし、国内株式市場はさらに上昇する可能性があるとの見解を示した。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "AI革命仍处初期，未来资产高管称韩国股市有望继续上涨",
+        "excerpt": "未来资产管理资产配置部门代表金承范在韩联社采访中表示，AI产业革命仍处初期阶段，韩国股市仍存在进一步上涨可能。",
+        "body": "未来资产管理资产配置部门代表金承范在接受韩联社采访时表示，人工智能（AI）产业革命仍处于初期阶段。他认为，AI对整体产业带来的变化正进入更加明显的阶段，这一趋势可能对韩国股市产生积极作用。上述表态出现在AI相关产业与资本市场联系日益增强之际，投资者关注的焦点在于AI增长能否继续转化为股市上行动力。金承范表示，“人工智能（AI）产业革命仍处于初期阶段”，并认为韩国国内股市可能进一步上涨。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La revolución de la IA sigue al inicio, Mirae Asset ve más alzas bursátiles",
+        "excerpt": "Kim Seung-beom, responsable de asignación de activos de Mirae Asset Global Investments, dijo a Yonhap que la revolución industrial de la IA aún está en una fase inicial y que la bolsa coreana podría subir más.",
+        "body": "Kim Seung-beom, responsable de asignación de activos de Mirae Asset Global Investments, afirmó en una entrevista con Yonhap que la revolución industrial de la inteligencia artificial (IA) todavía se encuentra en una etapa inicial. Según su visión, los cambios que la IA puede provocar en el conjunto de las industrias están entrando en una fase más activa y podrían influir positivamente en el mercado bursátil coreano. Sus declaraciones llegan en un momento en que aumenta la conexión entre las industrias vinculadas a la IA y los mercados de capitales, mientras los inversores observan si el crecimiento de la IA puede convertirse en un motor adicional para las acciones. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Revolução da IA ainda está no início, diz Mirae Asset ao prever alta das ações",
+        "excerpt": "Kim Seung-beom, chefe de alocação de ativos da Mirae Asset Global Investments, disse à Yonhap que a revolução industrial da IA ainda está em fase inicial e que a bolsa coreana pode subir mais.",
+        "body": "Kim Seung-beom, chefe da área de alocação de ativos da Mirae Asset Global Investments, afirmou em entrevista à Yonhap que a revolução industrial da inteligência artificial (IA) ainda está em estágio inicial. Ele avaliou que as mudanças que a IA pode provocar em vários setores estão entrando em uma fase mais efetiva e podem atuar de forma positiva sobre o mercado acionário coreano. A declaração ocorre em meio ao fortalecimento da ligação entre indústrias relacionadas à IA e mercados de capitais, com investidores atentos à possibilidade de o crescimento da IA se traduzir em novo impulso para as ações. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "KI-Revolution noch am Anfang: Mirae-Asset-Manager sieht weitere Aktiengewinne",
+        "excerpt": "Kim Seung-beom von Mirae Asset Global Investments sagte Yonhap, die industrielle KI-Revolution befinde sich noch in einer frühen Phase und koreanische Aktien könnten weiter steigen.",
+        "body": "Kim Seung-beom, Leiter der Asset Allocation bei Mirae Asset Global Investments, sagte in einem Interview mit Yonhap, die industrielle Revolution rund um künstliche Intelligenz (KI) befinde sich noch in einer frühen Phase. Er erklärte, die Veränderungen, die KI in vielen Branchen auslösen könne, nähmen an Dynamik zu und könnten sich positiv auf den koreanischen Aktienmarkt auswirken. Die Aussage fällt in eine Zeit, in der die Verbindung zwischen KI-bezogenen Branchen und den Kapitalmärkten stärker wird. Anleger achten daher darauf, ob das KI-Wachstum zu einem weiteren Treiber für steigende Aktienkurse werden kann. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Révolution de l’IA encore au début, Mirae Asset voit la Bourse monter davantage",
+        "excerpt": "Kim Seung-beom, responsable de l’allocation d’actifs chez Mirae Asset Global Investments, a déclaré à Yonhap que la révolution industrielle de l’IA reste à un stade initial et que les actions coréennes pourraient encore progresser.",
+        "body": "Kim Seung-beom, responsable de l’allocation d’actifs chez Mirae Asset Global Investments, a déclaré dans un entretien avec Yonhap que la révolution industrielle liée à l’intelligence artificielle (IA) en était encore à ses débuts. Selon lui, les changements que l’IA peut apporter à l’ensemble des secteurs entrent dans une phase plus concrète et pourraient soutenir le marché boursier coréen. Ces propos interviennent alors que les liens entre les industries liées à l’IA et les marchés de capitaux se renforcent. Les investisseurs cherchent désormais à savoir si la croissance de l’IA peut devenir un moteur supplémentaire de hausse des actions. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "ثورة الذكاء الاصطناعي في بدايتها ومسؤول في ميراي يتوقع صعود الأسهم",
+        "excerpt": "قال كيم سونغ بوم من ميراي أسيت غلوبال إن الثورة الصناعية للذكاء الاصطناعي لا تزال في مرحلتها الأولى، مشيرا في مقابلة مع يونهاب إلى احتمال صعود إضافي للأسهم الكورية.",
+        "body": "قال كيم سونغ بوم، رئيس قسم توزيع الأصول في ميراي أسيت غلوبال إنفستمنتس، في مقابلة مع وكالة يونهاب إن الثورة الصناعية للذكاء الاصطناعي لا تزال في مرحلة مبكرة. ورأى أن التغيرات التي قد يحدثها الذكاء الاصطناعي في مختلف القطاعات بدأت تدخل مرحلة أكثر وضوحا، وقد يكون لهذا الاتجاه أثر إيجابي في سوق الأسهم الكورية. وتأتي هذه التصريحات مع تزايد الترابط بين الصناعات المرتبطة بالذكاء الاصطناعي وأسواق رأس المال، فيما يتركز اهتمام المستثمرين على ما إذا كان نمو الذكاء الاصطناعي سيصبح دافعا إضافيا لصعود الأسهم. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "AI क्रांति शुरुआती चरण में, Mirae Asset अधिकारी को शेयरों में और तेजी की उम्मीद",
+        "excerpt": "Mirae Asset Global Investments के एसेट एलोकेशन प्रमुख किम स्युंग-बोम ने Yonhap से कहा कि AI औद्योगिक क्रांति अभी शुरुआती चरण में है और कोरियाई शेयर बाजार में और तेजी आ सकती है।",
+        "body": "Mirae Asset Global Investments के एसेट एलोकेशन प्रमुख किम स्युंग-बोम ने Yonhap News Agency को दिए साक्षात्कार में कहा कि कृत्रिम बुद्धिमत्ता (AI) की औद्योगिक क्रांति अभी शुरुआती चरण में है। उनके अनुसार, AI से उद्योगों में आने वाले बदलाव अब अधिक सक्रिय दौर में प्रवेश कर रहे हैं और यह रुझान कोरियाई शेयर बाजार के लिए सकारात्मक हो सकता है। यह टिप्पणी ऐसे समय आई है जब AI से जुड़े उद्योगों और पूंजी बाजारों के बीच संबंध मजबूत हो रहा है। निवेशकों का ध्यान इस बात पर है कि क्या AI की वृद्धि शेयर बाजार में आगे की तेजी का आधार बन सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Revolusi AI Masih Awal, Eksekutif Mirae Asset Lihat Saham Bisa Naik Lagi",
+        "excerpt": "Kim Seung-beom dari Mirae Asset Global Investments mengatakan kepada Yonhap bahwa revolusi industri AI masih berada pada tahap awal dan pasar saham Korea berpeluang naik lebih lanjut.",
+        "body": "Kim Seung-beom, kepala divisi alokasi aset di Mirae Asset Global Investments, mengatakan dalam wawancara dengan Yonhap bahwa revolusi industri kecerdasan buatan (AI) masih berada pada tahap awal. Ia menilai perubahan yang dapat dibawa AI ke berbagai industri mulai memasuki fase yang lebih nyata dan dapat berdampak positif pada pasar saham Korea. Pernyataan ini muncul ketika hubungan antara industri terkait AI dan pasar modal semakin kuat. Perhatian investor kini tertuju pada apakah pertumbuhan AI dapat menjadi pendorong tambahan bagi kenaikan saham. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cde4c4b7742b",
+    "slug": "라벨갈이-신고했는데-포상금-3천만원-대리인에게행정심판-제기-634156",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T22:44:33.425Z",
+    "updatedAt": "2026-05-09T22:44:33.425Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508143200065",
+    "titleFingerprint": "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
+    "dedupKeys": [
+      "cde4c4b7742bd51f13b4fc73ed42354587b09ecf",
+      "ca5e978f52176c1ed525c40ed6d228c6ee225c60",
+      "533160f84a2ca3f8ad6f7da6a2e363835c347c7f"
+    ],
+    "imageUrl": "/images/articles/cde4c4b7742b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "라벨갈이 신고 포상금 3천만원, 제보자 아닌 대리인 지급 논란",
+        "excerpt": "인천에서 원산지를 속여 판매하는 ‘라벨갈이’ 행위를 제보한 남성이 신고를 대신 맡은 관세사에게 포상금 3천만원이 지급되자 행정심판을 제기했다.",
+        "body": "인천에서 원산지를 속여 판매하는 이른바 ‘라벨갈이’ 행위를 제보한 남성이 포상금 지급을 둘러싸고 행정심판을 제기했다. 이 남성은 라벨갈이 관련 정보를 제공했지만, 실제 신고 절차를 대신 맡은 관세사에게 포상금 3천만원이 지급된 것으로 전해졌다. 원산지 허위 표시 행위는 소비자 신뢰와 유통 질서를 해칠 수 있어 단속과 신고 제도가 운영된다. 이번 사안은 제보자와 신고 대리인 사이에서 포상금 수령 주체를 어떻게 볼 것인지가 쟁점으로 떠올랐다. 행정심판 결과에 따라 유사 신고 사건의 포상금 지급 기준에도 관심이 모일 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Label-Switching Reward Dispute: Whistleblower Challenges 30 Million Won Payment",
+        "excerpt": "A man in Incheon who tipped off authorities about alleged origin-label switching filed an administrative appeal after a 30 million won reward went to the customs broker who handled the report.",
+        "body": "A man in Incheon has filed an administrative appeal over the payment of a reward tied to a report on so-called “label switching,” in which products are sold with false country-of-origin information. According to the report, the man provided information about the alleged practice, but the 30 million won reward was paid to the customs broker who handled the filing on his behalf. False origin labeling can damage consumer trust and market order, and reporting systems are used to support enforcement. The case centers on whether the informant or the reporting representative should be treated as the recipient of the reward. The outcome may draw attention to how similar reward payments are decided. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ラベル替え通報の報奨金3千万ウォン、代理人支給で行政審判へ",
+        "excerpt": "仁川で原産地を偽って販売する「ラベル替え」行為を情報提供した男性が、通報を代行した関税士に報奨金3千万ウォンが支給されたとして行政審判を申し立てた。",
+        "body": "仁川で原産地を偽って販売する、いわゆる「ラベル替え」行為を情報提供した男性が、報奨金の支給をめぐり行政審判を申し立てた。この男性はラベル替えに関する情報を提供したが、実際の通報手続きを代行した関税士に報奨金3千万ウォンが支給されたと伝えられている。原産地の虚偽表示は消費者の信頼と流通秩序を損なう恐れがあり、取り締まりと通報制度が運用されている。今回の争点は、情報提供者と通報代理人のどちらを報奨金の受領主体と見るかだ。行政審判の結果は、同様の通報事案における支給基準にも関心を集めそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "举报“换标签”奖励3000万韩元给代理人，举报者提起行政审判",
+        "excerpt": "仁川一名男子举报虚假标注原产地销售的“换标签”行为后，3000万韩元奖励金被支付给代为申报的关税士，男子因此提起行政审判。",
+        "body": "在仁川，一名举报虚假标注原产地销售、即所谓“换标签”行为的男子，围绕奖励金支付问题提起行政审判。据报道，该男子提供了有关换标签的信息，但3000万韩元奖励金被支付给实际代办举报程序的关税士。虚假原产地标识可能损害消费者信任和流通秩序，因此相关部门运行查处和举报制度。此次事件的焦点在于，奖励金领取主体应认定为信息提供者，还是代为提交举报的代理人。行政审判结果或将引发外界对类似举报案件奖励金支付标准的关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Recompensa por cambio de etiquetas: denunciante impugna pago de 30 millones de wones",
+        "excerpt": "Un hombre de Incheon que informó sobre la venta con origen falsificado presentó un recurso administrativo después de que la recompensa de 30 millones de wones fuera pagada al agente aduanero que tramitó la denuncia.",
+        "body": "Un hombre de Incheon presentó un recurso administrativo por el pago de una recompensa vinculada a una denuncia sobre el llamado “cambio de etiquetas”, una práctica en la que se venden productos con información falsa sobre su país de origen. Según el reporte, el hombre aportó la información, pero la recompensa de 30 millones de wones fue pagada al agente aduanero que realizó el trámite en su nombre. La indicación falsa de origen puede afectar la confianza del consumidor y el orden de distribución, por lo que existen sistemas de control y denuncia. El punto central es si el beneficiario debe ser el informante o el representante que presentó la denuncia. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Recompensa por troca de rótulos gera disputa após 30 milhões de wones irem a representante",
+        "excerpt": "Um homem de Incheon que denunciou a venda com origem falsificada entrou com recurso administrativo depois que a recompensa de 30 milhões de wones foi paga ao despachante aduaneiro que fez a denúncia por ele.",
+        "body": "Um homem de Incheon entrou com recurso administrativo sobre o pagamento de uma recompensa ligada a uma denúncia de “troca de rótulos”, prática em que produtos são vendidos com informação falsa sobre a origem. Segundo a reportagem, ele forneceu dados sobre o caso, mas a recompensa de 30 milhões de wones foi paga ao despachante aduaneiro que conduziu o procedimento em seu nome. A falsa indicação de origem pode prejudicar a confiança do consumidor e a ordem de distribuição, razão pela qual existem sistemas de fiscalização e denúncia. A questão é definir se o beneficiário deve ser o informante ou o representante que apresentou a denúncia. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Belohnung für Etikettenschwindel: Hinweisgeber ficht Zahlung von 30 Mio. Won an",
+        "excerpt": "Ein Mann aus Incheon, der falsche Herkunftsangaben beim Verkauf meldete, legte Verwaltungseinspruch ein, nachdem die Belohnung von 30 Millionen Won an den Zollagenten gezahlt wurde, der die Meldung übernahm.",
+        "body": "Ein Mann aus Incheon hat wegen der Auszahlung einer Belohnung im Zusammenhang mit einem Hinweis auf sogenannten Etikettenschwindel Verwaltungseinspruch eingelegt. Dabei geht es um Verkäufe mit falschen Angaben zum Ursprungsland. Dem Bericht zufolge lieferte der Mann die Informationen, doch die Belohnung von 30 Millionen Won wurde an den Zollagenten gezahlt, der die Meldung in seinem Namen abwickelte. Falsche Herkunftskennzeichnungen können das Vertrauen der Verbraucher und die Vertriebsordnung beeinträchtigen; deshalb gibt es Kontroll- und Meldesysteme. Strittig ist, ob der Hinweisgeber oder der meldende Vertreter als Empfänger der Belohnung gelten soll. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Récompense pour faux étiquetage: le lanceur d’alerte conteste 30 millions de wons versés",
+        "excerpt": "À Incheon, un homme ayant signalé une vente avec origine falsifiée a déposé un recours administratif après le versement de 30 millions de wons au courtier en douane qui avait effectué la déclaration.",
+        "body": "À Incheon, un homme a déposé un recours administratif au sujet d’une récompense liée au signalement d’un prétendu “changement d’étiquette”, consistant à vendre des produits avec une origine falsifiée. Selon le reportage, l’homme a fourni les informations, mais la récompense de 30 millions de wons a été versée au courtier en douane qui a effectué la déclaration en son nom. Les fausses indications d’origine peuvent nuire à la confiance des consommateurs et à l’ordre de distribution, d’où l’existence de dispositifs de contrôle et de signalement. L’enjeu est de savoir si le bénéficiaire doit être l’informateur ou le représentant ayant déposé la déclaration. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مكافأة بلاغ تبديل الملصقات تثير نزاعا بعد دفع 30 مليون وون للوكيل",
+        "excerpt": "في إنتشون، قدم رجل بلاغا عن بيع سلع بمعلومات منشأ مزيفة، ثم رفع تظلما إداريا بعدما دُفعت مكافأة قدرها 30 مليون وون إلى المخلص الجمركي الذي تولى الإبلاغ نيابة عنه.",
+        "body": "رفع رجل في إنتشون تظلما إداريا بشأن دفع مكافأة مرتبطة ببلاغ عن ما يعرف باسم “تبديل الملصقات”، أي بيع منتجات بمعلومات مزيفة عن بلد المنشأ. ووفقا للتقرير، قدم الرجل المعلومات المتعلقة بالواقعة، لكن مكافأة قدرها 30 مليون وون دُفعت إلى المخلص الجمركي الذي تولى إجراءات البلاغ نيابة عنه. وقد تضر بيانات المنشأ الكاذبة بثقة المستهلكين وبنظام التوزيع، لذلك توجد أنظمة للرقابة وتلقي البلاغات. وتتمحور القضية حول ما إذا كان مستحق المكافأة هو مقدم المعلومات أم الممثل الذي قدم البلاغ. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "लेबल बदलने की शिकायत पर 3 करोड़ वोन इनाम एजेंट को, सूचनादाता ने दी चुनौती",
+        "excerpt": "इंचियोन में मूल देश छिपाकर बिक्री यानी ‘लेबल बदलने’ की सूचना देने वाले व्यक्ति ने 3 करोड़ वोन का इनाम शिकायत दर्ज कराने वाले कस्टम्स एजेंट को मिलने के बाद प्रशासनिक अपील दायर की।",
+        "body": "इंचियोन में मूल देश की गलत जानकारी देकर बिक्री करने की कथित ‘लेबल बदलने’ की कार्रवाई की सूचना देने वाले एक व्यक्ति ने इनाम के भुगतान को लेकर प्रशासनिक अपील दायर की है। रिपोर्ट के अनुसार, उस व्यक्ति ने संबंधित जानकारी दी थी, लेकिन वास्तविक शिकायत प्रक्रिया उसके स्थान पर संभालने वाले कस्टम्स एजेंट को 3 करोड़ वोन का इनाम दिया गया। मूल देश की झूठी 표시 उपभोक्ता भरोसे और वितरण व्यवस्था को नुकसान पहुंचा सकती है, इसलिए जांच और शिकायत प्रणाली चलाई जाती है। विवाद का मुख्य प्रश्न यह है कि इनाम पाने वाला सूचना देने वाला व्यक्ति माना जाए या शिकायत दायर करने वाला प्रतिनिधि। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Imbalan Laporan Ganti Label 30 Juta Won Dibayar ke Wakil, Pelapor Ajukan Banding",
+        "excerpt": "Seorang pria di Incheon yang melaporkan penjualan dengan asal barang palsu mengajukan banding administratif setelah imbalan 30 juta won dibayarkan kepada pialang bea cukai yang mengurus laporan untuknya.",
+        "body": "Seorang pria di Incheon mengajukan banding administratif terkait pembayaran imbalan atas laporan tentang praktik yang disebut “ganti label”, yaitu menjual produk dengan informasi asal barang yang dipalsukan. Menurut laporan, pria itu memberikan informasi mengenai kasus tersebut, tetapi imbalan 30 juta won dibayarkan kepada pialang bea cukai yang menangani prosedur pelaporan atas namanya. Pelabelan asal yang palsu dapat merusak kepercayaan konsumen dan ketertiban distribusi, sehingga sistem pengawasan dan pelaporan dijalankan. Persoalannya adalah apakah penerima imbalan harus dianggap sebagai pemberi informasi atau wakil yang mengajukan laporan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e32bab33fc04",
+    "slug": "학회-갈-돈-없었다국제학회-발표-28-급감-150234",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T22:43:37.775Z",
+    "updatedAt": "2026-05-09T22:43:37.776Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508132600017",
+    "titleFingerprint": "039c9bab1933a6fe593a127d41492ba7713c51d8",
+    "dedupKeys": [
+      "e32bab33fc0471d491827491bcb24f727074fba1",
+      "039c9bab1933a6fe593a127d41492ba7713c51d8",
+      "5f3d90824a9b8768670c96eb839e33eca23ad219"
+    ],
+    "imageUrl": "/images/articles/e32bab33fc04.jpg",
+    "i18n": {
+      "ko": {
+        "title": "R&D 예산 삭감 여파에 국제학회 발표 28% 급감, 연구 현장 위축",
+        "excerpt": "연구개발 예산 삭감 여파로 국내 연구자들의 해외 학회 출장과 특허 활동이 줄고 국제학회 발표가 28% 감소한 것으로 나타났다고 연합뉴스가 보도했다.",
+        "body": "연구개발(R&D) 예산 삭감의 영향이 연구 현장의 활동 축소로 이어진 것으로 나타났다. 연합뉴스 보도에 따르면 국내 연구자들은 예산 부담으로 실제 해외 학회 출장과 특허 활동 등을 줄였고, 국제학회 발표는 28% 급감했다. 국제학회 발표는 연구 성과를 해외 연구자들과 공유하고 후속 협력을 모색하는 주요 통로라는 점에서 감소 폭이 주목된다. 특허 활동 축소 역시 연구 성과의 권리화와 활용 과정에 영향을 줄 수 있다. 이번 통계는 예산 조정이 단순한 회계 변화에 그치지 않고 연구자들의 대외 활동과 성과 확산 방식에도 영향을 미쳤음을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "R&D Budget Cuts Hit Research: International Conference Presentations Fall 28%",
+        "excerpt": "Yonhap reported that after R&D budget cuts, Korean researchers reduced overseas conference trips and patent activities, while international conference presentations dropped 28%.",
+        "body": "The impact of research and development (R&D) budget cuts has appeared in reduced activity across the research field. According to Yonhap News Agency, Korean researchers cut back on overseas conference travel and patent-related activities because of budget pressure, and international conference presentations fell sharply by 28%. Such presentations are a key channel for sharing research results with overseas scholars and seeking follow-up cooperation, making the size of the decline notable. A reduction in patent activity may also affect how research outcomes are protected and used. The figures show that budget adjustments have affected not only accounting plans but also researchers’ external activity and the spread of research results. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "R&D予算削減の影響、国際学会発表が28％急減し研究現場に萎縮",
+        "excerpt": "聯合ニュースは、R&D予算削減の余波で韓国の研究者が海外学会出張や特許活動を減らし、国際学会発表が28％減少したと報じた。",
+        "body": "研究開発（R&D）予算削減の影響が、研究現場の活動縮小として表れている。聯合ニュースによると、韓国の研究者は予算負担により実際の海外学会出張や特許活動などを減らし、国際学会での発表は28％急減した。国際学会発表は、研究成果を海外の研究者と共有し、その後の協力を探る主要な経路であるため、減少幅が注目される。特許活動の縮小も、研究成果の権利化と活用過程に影響を及ぼす可能性がある。今回の統計は、予算調整が単なる会計上の変化にとどまらず、研究者の対外活動と成果拡散の方式にも影響したことを示している。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "研发预算削减冲击科研一线，国际学会发表骤降28%",
+        "excerpt": "韩联社报道称，受研发预算削减影响，韩国研究人员减少海外学会出差和专利活动，国际学会发表数量下降28%。",
+        "body": "研发（R&D）预算削减的影响已表现为科研一线活动收缩。据韩联社报道，韩国研究人员因预算压力减少了实际海外学会出差和专利活动等，国际学会发表数量骤降28%。国际学会发表是研究人员向海外同行分享研究成果并寻求后续合作的重要渠道，因此这一降幅受到关注。专利活动减少也可能影响研究成果的权利化和后续利用。相关统计显示，预算调整并不只是会计层面的变化，也影响了研究人员的对外活动以及研究成果扩散方式。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Recortes de I+D golpean la investigación: ponencias internacionales caen 28%",
+        "excerpt": "Yonhap informó que, tras los recortes de presupuesto de I+D, investigadores coreanos redujeron viajes a congresos y actividad de patentes; las ponencias internacionales bajaron 28%.",
+        "body": "El impacto de los recortes al presupuesto de investigación y desarrollo (I+D) se reflejó en una reducción de actividades en el ámbito científico. Según la agencia Yonhap, investigadores coreanos disminuyeron los viajes reales a congresos en el extranjero y las actividades relacionadas con patentes por la presión presupuestaria, mientras que las presentaciones en congresos internacionales cayeron bruscamente un 28%. Estas presentaciones son una vía importante para compartir resultados con investigadores extranjeros y buscar cooperación posterior, por lo que la magnitud del descenso llama la atención. La menor actividad de patentes también puede afectar la protección y el uso de los resultados de investigación. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Cortes em P&D pesam na pesquisa: apresentações internacionais caem 28%",
+        "excerpt": "A Yonhap informou que, após cortes no orçamento de P&D, pesquisadores coreanos reduziram viagens a congressos e atividades de patentes; apresentações internacionais caíram 28%.",
+        "body": "O impacto dos cortes no orçamento de pesquisa e desenvolvimento (P&D) apareceu na redução de atividades no campo científico. Segundo a agência Yonhap, pesquisadores coreanos diminuíram viagens efetivas a congressos no exterior e atividades ligadas a patentes por causa da pressão orçamentária, enquanto as apresentações em congressos internacionais caíram fortemente, 28%. Essas apresentações são uma via importante para compartilhar resultados com pesquisadores estrangeiros e buscar cooperação posterior, o que torna a queda significativa. A redução das atividades de patente também pode afetar a proteção e o uso dos resultados de pesquisa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Forschungsbudget gekürzt: Internationale Konferenzbeiträge brechen um 28% ein",
+        "excerpt": "Yonhap berichtete, dass koreanische Forschende nach Kürzungen im R&D-Budget Auslandsreisen zu Konferenzen und Patentaktivitäten reduzierten; internationale Beiträge sanken um 28%.",
+        "body": "Die Auswirkungen der Kürzungen im Budget für Forschung und Entwicklung (R&D) zeigen sich in einem Rückgang der Aktivitäten im Forschungsbereich. Nach Angaben der Nachrichtenagentur Yonhap reduzierten koreanische Forschende wegen des Budgetdrucks tatsächliche Auslandsreisen zu wissenschaftlichen Konferenzen sowie Patentaktivitäten; die Zahl der Präsentationen auf internationalen Konferenzen brach um 28% ein. Solche Präsentationen sind ein wichtiger Weg, Forschungsergebnisse mit Fachleuten im Ausland zu teilen und weitere Zusammenarbeit anzustoßen. Auch weniger Patentaktivität kann die Sicherung und Nutzung von Forschungsergebnissen beeinflussen. Die Statistik zeigt, dass Budgetanpassungen nicht nur Buchhaltung betreffen, sondern auch Außenaktivitäten und Ergebnisverbreitung. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Coupes dans la R&D: les présentations en congrès internationaux chutent de 28%",
+        "excerpt": "Yonhap rapporte qu’après les coupes budgétaires en R&D, des chercheurs coréens ont réduit les déplacements à l’étranger et les activités de brevet; les présentations internationales ont baissé de 28%.",
+        "body": "L’effet des coupes dans le budget de recherche et développement (R&D) se traduit par une réduction des activités sur le terrain de la recherche. Selon l’agence Yonhap, des chercheurs coréens ont diminué les déplacements effectifs à des conférences à l’étranger ainsi que les activités liées aux brevets sous la pression budgétaire, tandis que les présentations dans les congrès internationaux ont chuté de 28%. Ces présentations constituent un canal majeur pour partager les résultats avec des chercheurs étrangers et rechercher des coopérations ultérieures, ce qui rend cette baisse notable. Le recul des activités de brevet peut aussi peser sur la protection et l’utilisation des résultats de recherche. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "خفض ميزانية البحث والتطوير يضغط على الباحثين: تراجع العروض الدولية 28%",
+        "excerpt": "أفادت يونهاب بأن خفض ميزانية البحث والتطوير دفع باحثين كوريين إلى تقليل السفر للمؤتمرات الخارجية وأنشطة البراءات، فيما انخفضت عروض المؤتمرات الدولية 28%.",
+        "body": "ظهر أثر خفض ميزانية البحث والتطوير في تراجع أنشطة ميدانية داخل قطاع البحث. ووفقا لما نقلته وكالة يونهاب، قلل الباحثون الكوريون، تحت ضغط الميزانية، من السفر الفعلي إلى المؤتمرات الخارجية ومن أنشطة البراءات، بينما انخفضت العروض في المؤتمرات الدولية بنسبة حادة بلغت 28%. وتعد هذه العروض قناة رئيسية لمشاركة نتائج الأبحاث مع باحثين في الخارج والبحث عن تعاون لاحق، لذلك يلفت حجم الانخفاض الانتباه. كما أن تراجع أنشطة البراءات قد يؤثر في حماية نتائج الأبحاث واستخدامها. وتظهر هذه الإحصاءات أن تعديل الميزانية لم يبق تغييرا حسابيا فقط، بل مس أيضا نشاط الباحثين الخارجي وانتشار النتائج. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "R&D बजट कटौती का असर: अंतरराष्ट्रीय सम्मेलन प्रस्तुतियां 28% घटीं",
+        "excerpt": "योनहाप के अनुसार R&D बजट कटौती के बाद कोरियाई शोधकर्ताओं ने विदेशी सम्मेलनों की यात्राएं और पेटेंट गतिविधियां घटाईं, जबकि अंतरराष्ट्रीय प्रस्तुतियां 28% कम हुईं।",
+        "body": "अनुसंधान एवं विकास (R&D) बजट में कटौती का असर शोध क्षेत्र की गतिविधियों में कमी के रूप में सामने आया है। योनहाप समाचार एजेंसी के अनुसार, बजट दबाव के कारण कोरियाई शोधकर्ताओं ने वास्तविक विदेशी सम्मेलन यात्राएं और पेटेंट संबंधी गतिविधियां घटाईं, जबकि अंतरराष्ट्रीय सम्मेलनों में प्रस्तुतियां 28% तेजी से कम हुईं। ऐसी प्रस्तुतियां शोध परिणामों को विदेशी शोधकर्ताओं के साथ साझा करने और आगे के सहयोग की संभावना तलाशने का प्रमुख माध्यम हैं, इसलिए यह गिरावट ध्यान खींचती है। पेटेंट गतिविधियों में कमी शोध परिणामों के अधिकार संरक्षण और उपयोग को भी प्रभावित कर सकती है। यह आंकड़ा दिखाता है कि बजट समायोजन केवल लेखा बदलाव नहीं, बल्कि शोधकर्ताओं की बाहरी गतिविधियों और परिणाम प्रसार को भी प्रभावित करता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Dampak Pemotongan Anggaran R&D: Presentasi Konferensi Internasional Turun 28%",
+        "excerpt": "Yonhap melaporkan bahwa akibat pemotongan anggaran R&D, peneliti Korea mengurangi perjalanan konferensi luar negeri dan aktivitas paten; presentasi internasional turun 28%.",
+        "body": "Dampak pemotongan anggaran penelitian dan pengembangan (R&D) terlihat dalam berkurangnya aktivitas di lapangan riset. Menurut laporan Yonhap, para peneliti Korea mengurangi perjalanan nyata ke konferensi luar negeri serta aktivitas paten karena tekanan anggaran, sementara presentasi di konferensi internasional turun tajam 28%. Presentasi internasional merupakan saluran penting untuk membagikan hasil riset kepada peneliti luar negeri dan mencari kerja sama lanjutan, sehingga besarnya penurunan ini menjadi perhatian. Berkurangnya aktivitas paten juga dapat memengaruhi perlindungan hak dan pemanfaatan hasil riset. Statistik ini menunjukkan bahwa penyesuaian anggaran tidak hanya berdampak pada pembukuan, tetapi juga pada aktivitas eksternal dan penyebaran hasil riset. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "6afcfb75dbd8",
     "slug": "불장에-손-커진-개미지난달-1억-이상-주문-역대-최대-581773",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kesadaran AI Capai 87%, tetapi Penggunaan Kerja Baru 32%",
         "excerpt": "Menurut Yonhap News, 87% konsumen mengetahui kecerdasan buatan, tetapi hanya 32% yang menggunakannya dalam kehidupan sehari-hari atau pekerjaan, menunjukkan kesenjangan antara kesadaran dan pemakaian.",
         "body": "Menurut laporan dari Seoul oleh reporter Yonhap News Jung Soo-youn, sebagian besar konsumen mengetahui kecerdasan buatan (AI), tetapi penggunaan nyata dalam kehidupan sehari-hari atau pekerjaan masih berada di kisaran tiga dari sepuluh orang. Laporan itu menyebut 87% konsumen menjawab mengetahui AI, sementara hanya 32% yang mengatakan menggunakannya dalam kehidupan atau pekerjaan. Angka tersebut menunjukkan bahwa kesadaran terhadap AI sudah tinggi, tetapi pemanfaatan praktis masih terbatas. Data ini juga mengisyaratkan bahwa meski layanan AI meluas, masih ada jarak antara pengalaman konsumen dan penerapan di tempat kerja. Perluasan penggunaan AI ke depan kemungkinan bergantung bukan hanya pada tingkat kesadaran, tetapi juga pada kondisi penggunaan nyata dan kebutuhan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7efc0a0b8736",
-    "slug": "구로구-가리봉2구역-재개발-본격화9일-조합-창립총회-485483",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T15:02:27.961Z",
-    "updatedAt": "2026-05-09T15:02:27.961Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508092100004",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508092100004",
-    "titleFingerprint": "d201eddbf4b0f78bc0ef6f31899bf66f0d09ab93",
-    "dedupKeys": [
-      "7efc0a0b8736326fc03d22262db8c687735ee497",
-      "d201eddbf4b0f78bc0ef6f31899bf66f0d09ab93",
-      "7291a1957386b8de962bd3f44e4ac061ebedf3a6"
-    ],
-    "imageUrl": "/images/articles/7efc0a0b8736.jpg",
-    "i18n": {
-      "ko": {
-        "title": "구로구 가리봉2구역 재개발 본격화, 9일 조합 창립총회 개최",
-        "excerpt": "서울 구로구는 가리봉동 87-177번지 일대 가리봉2구역 재개발이 9일 오후 5시 조합 창립총회를 열며 본격화된다고 밝혔다.",
-        "body": "서울 구로구는 가리봉동 87-177번지 일대 ‘가리봉2구역’ 재개발 사업이 9일 오후 5시 조합 창립총회를 계기로 본격화된다고 밝혔다. 구로구가 전한 내용에 따르면 해당 구역은 가리봉동 일대 정비사업 대상지로, 조합 창립총회는 재개발 추진 과정에서 사업 주체를 구성하는 중요한 절차다. 이번 총회 개최로 가리봉2구역은 향후 조합 설립과 정비사업 절차를 이어갈 기반을 마련하게 된다. 사업이 예정대로 진행될 경우 가리봉동 일대 주거환경 정비 논의에도 영향을 줄 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Guro’s Garibong 2 Redevelopment Moves Ahead With Union Launch Meeting on May 9",
-        "excerpt": "Seoul’s Guro District said redevelopment of the Garibong 2 area around 87-177 Garibong-dong will move forward with a union founding meeting at 5 p.m. on May 9.",
-        "body": "Seoul’s Guro District said the redevelopment project for the Garibong 2 area around 87-177 Garibong-dong will begin moving forward in earnest with a union founding general meeting at 5 p.m. on May 9. According to the district, the area is a designated redevelopment site in Garibong-dong, and the meeting is an important step in forming the project’s operating body. With the meeting, Garibong 2 is expected to establish the basis for union formation and subsequent redevelopment procedures. If the project proceeds as scheduled, it could influence discussions on improving the residential environment in Garibong-dong. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "九老区・加里峰2区域の再開発が本格化、9日に組合創立総会",
-        "excerpt": "ソウル九老区は、加里峰洞87-177番地一帯の加里峰2区域再開発が、9日午後5時の組合創立総会を機に本格化すると明らかにした。",
-        "body": "ソウル九老区は、加里峰洞87-177番地一帯の「加里峰2区域」再開発事業が、9日午後5時に開かれる組合創立総会を機に本格化すると発表した。九老区によると、同区域は加里峰洞一帯の整備事業対象地であり、組合創立総会は再開発推進過程で事業主体を構成する重要な手続きとなる。今回の総会開催により、加里峰2区域は今後の組合設立と整備事業手続きを進める基盤を整えることになる。事業が予定通り進めば、加里峰洞一帯の住環境整備をめぐる議論にも影響を与える見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "九老区加里峰2区重建提速，5月9日举行组合创立大会",
-        "excerpt": "首尔九老区表示，位于加里峰洞87-177号一带的加里峰2区重建项目将于5月9日下午5时举行组合创立大会并正式推进。",
-        "body": "首尔九老区表示，位于加里峰洞87-177号一带的“加里峰2区”重建项目，将以5月9日下午5时举行的组合创立大会为契机正式推进。根据九老区发布的信息，该区域是加里峰洞一带的整备事业对象地，组合创立大会是在重建推进过程中组建项目主体的重要程序。此次大会举行后，加里峰2区将为今后的组合设立和整备事业流程奠定基础。若项目按计划推进，预计也将影响加里峰洞一带居住环境整备相关讨论。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Guro acelera la remodelación de Garibong 2 con asamblea fundacional el 9 de mayo",
-        "excerpt": "El distrito de Guro, en Seúl, informó que la remodelación de Garibong 2, en torno al 87-177 de Garibong-dong, avanzará con una asamblea a las 17:00 del 9 de mayo.",
-        "body": "El distrito de Guro, en Seúl, informó que el proyecto de remodelación de la zona Garibong 2, situada alrededor del 87-177 de Garibong-dong, comenzará a avanzar en firme con una asamblea general fundacional de la asociación a las 17:00 del 9 de mayo. Según el distrito, el área forma parte de los sitios sujetos a proyecto de mejora urbana en Garibong-dong, y la asamblea es un procedimiento importante para constituir el órgano que impulsará la remodelación. Con esta reunión, Garibong 2 sentará la base para la creación de la asociación y los trámites posteriores. Si el proyecto avanza según lo previsto, podría influir en el debate sobre la mejora del entorno residencial local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Guro avança com a reurbanização de Garibong 2 e assembleia em 9 de maio",
-        "excerpt": "O distrito de Guro, em Seul, informou que a reurbanização de Garibong 2, na área de Garibong-dong 87-177, avançará com assembleia fundadora às 17h de 9 de maio.",
-        "body": "O distrito de Guro, em Seul, informou que o projeto de reurbanização da área Garibong 2, localizada em torno de Garibong-dong 87-177, passará a avançar de forma mais concreta com a assembleia geral fundadora da associação, marcada para as 17h de 9 de maio. Segundo o distrito, a região é uma área-alvo de melhoria urbana em Garibong-dong, e a assembleia é uma etapa importante para formar o órgão responsável pela condução do projeto. Com a reunião, Garibong 2 deverá preparar a base para a criação da associação e os procedimentos seguintes de reurbanização. Se o projeto seguir o cronograma previsto, poderá influenciar as discussões sobre melhoria do ambiente residencial local. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Guro treibt Sanierung von Garibong 2 voran, Gründungsversammlung am 9. Mai",
-        "excerpt": "Der Bezirk Guro in Seoul teilte mit, dass die Sanierung von Garibong 2 rund um Garibong-dong 87-177 mit einer Gründungsversammlung am 9. Mai um 17 Uhr voranschreitet.",
-        "body": "Der Bezirk Guro in Seoul teilte mit, dass das Sanierungsprojekt für das Gebiet Garibong 2 rund um Garibong-dong 87-177 mit einer Gründungsversammlung der Vereinigung am 9. Mai um 17 Uhr in eine konkretere Phase eintritt. Nach Angaben des Bezirks gehört das Gebiet zu den vorgesehenen Stadterneuerungsflächen in Garibong-dong. Die Gründungsversammlung ist ein wichtiger Schritt, um den Träger des Projekts zu bilden. Mit der Versammlung schafft Garibong 2 die Grundlage für die spätere Gründung der Vereinigung und die folgenden Sanierungsverfahren. Wenn das Projekt wie geplant verläuft, dürfte es auch die Diskussion über die Verbesserung des Wohnumfelds in Garibong-dong beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Guro relance le réaménagement de Garibong 2 avec une assemblée le 9 mai",
-        "excerpt": "L’arrondissement de Guro à Séoul a annoncé que le réaménagement de Garibong 2, autour du 87-177 Garibong-dong, avancera avec une assemblée fondatrice le 9 mai à 17 h.",
-        "body": "L’arrondissement de Guro à Séoul a annoncé que le projet de réaménagement du secteur Garibong 2, situé autour du 87-177 Garibong-dong, entrera dans une phase plus concrète avec l’assemblée générale fondatrice de l’association prévue le 9 mai à 17 h. Selon l’arrondissement, ce secteur fait partie des zones visées par un projet d’amélioration urbaine à Garibong-dong, et l’assemblée constitue une étape importante pour former l’entité chargée de porter le projet. Cette réunion doit permettre à Garibong 2 de préparer la création de l’association et les procédures de réaménagement suivantes. Si le calendrier est respecté, le projet pourrait influencer les discussions sur l’amélioration du cadre résidentiel local. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "غورو تدفع إعادة تطوير غاريبونغ 2 باجتماع تأسيسي في 9 مايو",
-        "excerpt": "قالت منطقة غورو في سيول إن إعادة تطوير غاريبونغ 2 حول 87-177 غاريبونغ-دونغ ستتقدم مع اجتماع تأسيسي للجمعية في الساعة 5 مساء 9 مايو.",
-        "body": "أعلنت منطقة غورو في سيول أن مشروع إعادة تطوير منطقة غاريبونغ 2، الواقعة حول 87-177 غاريبونغ-دونغ، سيتقدم بصورة أكثر جدية مع عقد الجمعية العمومية التأسيسية للاتحاد في الساعة الخامسة مساء 9 مايو. وبحسب ما أفادت به المنطقة، فإن الموقع يعد من مناطق مشاريع التحسين في غاريبونغ-دونغ، ويشكل الاجتماع التأسيسي خطوة مهمة لتكوين الجهة التي ستقود مشروع إعادة التطوير. ومن خلال هذا الاجتماع، ستضع غاريبونغ 2 أساسا للمضي في تأسيس الاتحاد والإجراءات اللاحقة لمشروع التحسين. وإذا سار المشروع وفق الجدول المتوقع، فقد يؤثر في النقاشات المتعلقة بتحسين البيئة السكنية في غاريبونغ-دونغ. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "गुरो में गारिबोंग 2 पुनर्विकास आगे बढ़ा, 9 मई को संघ स्थापना बैठक",
-        "excerpt": "सियोल के गुरो जिला ने कहा कि गारिबोंग-दोंग 87-177 के आसपास गारिबोंग 2 क्षेत्र का पुनर्विकास 9 मई शाम 5 बजे संघ स्थापना बैठक के साथ आगे बढ़ेगा।",
-        "body": "सियोल के गुरो जिला ने बताया कि गारिबोंग-दोंग 87-177 के आसपास स्थित ‘गारिबोंग 2 क्षेत्र’ का पुनर्विकास 9 मई शाम 5 बजे होने वाली संघ स्थापना आम बैठक के साथ औपचारिक रूप से आगे बढ़ेगा। जिला प्रशासन के अनुसार, यह क्षेत्र गारिबोंग-दोंग में शहरी सुधार परियोजना का लक्षित इलाका है, और संघ स्थापना बैठक परियोजना को आगे बढ़ाने वाली संस्था के गठन की महत्वपूर्ण प्रक्रिया है। इस बैठक के बाद गारिबोंग 2 क्षेत्र संघ गठन और आगे की पुनर्विकास प्रक्रियाओं के लिए आधार तैयार करेगा। यदि परियोजना तय कार्यक्रम के अनुसार आगे बढ़ती है, तो यह गारिबोंग-दोंग के आवासीय वातावरण सुधार पर चर्चा को भी प्रभावित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Guro Percepat Redevelopment Garibong 2, Rapat Pendirian Digelar 9 Mei",
-        "excerpt": "Distrik Guro, Seoul, menyatakan redevelopment Garibong 2 di sekitar Garibong-dong 87-177 akan bergerak maju lewat rapat pendirian asosiasi pukul 17.00 pada 9 Mei.",
-        "body": "Distrik Guro di Seoul menyatakan proyek redevelopment kawasan Garibong 2 di sekitar Garibong-dong 87-177 akan mulai bergerak lebih konkret melalui rapat umum pendirian asosiasi pada pukul 17.00, 9 Mei. Menurut distrik tersebut, kawasan ini merupakan lokasi sasaran proyek penataan di Garibong-dong, dan rapat pendirian asosiasi menjadi prosedur penting untuk membentuk badan pelaksana proyek redevelopment. Dengan digelarnya rapat ini, Garibong 2 akan menyiapkan dasar bagi pembentukan asosiasi dan tahapan penataan berikutnya. Jika proyek berjalan sesuai rencana, hal itu diperkirakan turut memengaruhi pembahasan mengenai perbaikan lingkungan hunian di Garibong-dong. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1f17a58fa340",
-    "slug": "李대통령-캐나다-총리-통화호르무즈-항행-자유공급망-논의-273861",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T15:01:24.543Z",
-    "updatedAt": "2026-05-09T15:01:24.543Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508093800001",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508093800001",
-    "titleFingerprint": "b52c0011981cd21b99feb9cf1b1b1f084e20a551",
-    "dedupKeys": [
-      "1f17a58fa34015fe6288907e96d7651432bd8d16",
-      "b52c0011981cd21b99feb9cf1b1b1f084e20a551",
-      "bc890109edce4eff399b6486f655be70d4f9d266"
-    ],
-    "imageUrl": "/images/articles/1f17a58fa340.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령·캐나다 총리 통화, 호르무즈 항행 자유와 공급망 협력 논의",
-        "excerpt": "이재명 대통령은 8일 마크 카니 캐나다 총리와 통화하고 호르무즈 해협 항행 자유와 공급망 등 양국 협력 강화 방안을 논의했다.",
-        "body": "이재명 대통령은 8일 마크 카니 캐나다 총리와 전화 통화를 하고 한국과 캐나다의 협력 강화 방안을 논의했다. 이번 통화에서는 호르무즈 해협의 항행 자유와 공급망 관련 사안이 주요 의제로 다뤄졌다. 양측은 양국 간 협력 필요성을 확인하며 관련 현안에 대해 의견을 나눈 것으로 전해졌다. 호르무즈 해협은 국제 에너지 운송과 해상 교통에서 중요한 통로로 언급되는 지역이며, 공급망 안정 역시 국가 간 경제 협력의 핵심 의제다. 이번 통화는 한국과 캐나다가 주요 국제 현안과 경제 협력 분야에서 소통을 이어가는 흐름으로 해석된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "President Lee, Canada PM Discuss Hormuz Navigation Freedom and Supply Chains",
-        "excerpt": "President Lee Jae Myung spoke by phone with Canadian Prime Minister Mark Carney on the 8th to discuss ways to strengthen cooperation, including Hormuz navigation freedom and supply chains.",
-        "body": "President Lee Jae Myung held a phone call on the 8th with Canadian Prime Minister Mark Carney and discussed ways to strengthen cooperation between South Korea and Canada. The call focused on freedom of navigation in the Strait of Hormuz and supply chain-related issues. The two sides reportedly confirmed the need for bilateral cooperation and exchanged views on relevant matters. The Strait of Hormuz is cited as an important route for international energy transport and maritime traffic, while supply chain stability is also a key agenda item in economic cooperation between countries. The call indicates continued communication between South Korea and Canada on major international issues and economic cooperation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "李在明大統領とカナダ首相が電話会談、ホルムズ航行自由と供給網を協議",
-        "excerpt": "李在明大統領は8日、マーク・カーニー・カナダ首相と電話会談し、ホルムズ海峡の航行自由や供給網など両国協力の強化策を協議した。",
-        "body": "李在明大統領は8日、マーク・カーニー・カナダ首相と電話会談し、韓国とカナダの協力強化策について協議した。今回の通話では、ホルムズ海峡の航行の自由と供給網に関する問題が主な議題として扱われた。双方は両国間協力の必要性を確認し、関連する懸案について意見を交わしたと伝えられている。ホルムズ海峡は国際的なエネルギー輸送と海上交通で重要な通路として言及される地域であり、供給網の安定も国家間の経済協力における核心的な議題だ。今回の通話は、韓国とカナダが主要な国際懸案と経済協力分野で意思疎通を続ける流れと受け止められる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "李在明总统同加拿大总理通话，讨论霍尔木兹航行自由与供应链合作",
-        "excerpt": "李在明总统8日同加拿大总理马克·卡尼通电话，讨论包括霍尔木兹海峡航行自由和供应链在内的两国合作强化方案。",
-        "body": "李在明总统8日同加拿大总理马克·卡尼通电话，讨论加强韩国与加拿大合作的方案。此次通话中，霍尔木兹海峡航行自由和供应链相关议题被作为主要内容进行讨论。据悉，双方确认了两国合作的必要性，并就相关当前问题交换了意见。霍尔木兹海峡是国际能源运输和海上交通中经常被提及的重要通道，供应链稳定也是国家间经济合作的核心议题。此次通话可被视为韩国和加拿大在主要国际问题及经济合作领域继续保持沟通的一环。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Lee y el primer ministro de Canadá tratan libertad de navegación en Ormuz y cadenas de suministro",
-        "excerpt": "El presidente Lee Jae Myung habló el día 8 con el primer ministro canadiense Mark Carney para abordar la cooperación bilateral, incluida la libertad de navegación en Ormuz y las cadenas de suministro.",
-        "body": "El presidente Lee Jae Myung mantuvo el día 8 una llamada telefónica con el primer ministro de Canadá, Mark Carney, y conversó sobre formas de fortalecer la cooperación entre Corea del Sur y Canadá. En la llamada se trataron como temas principales la libertad de navegación en el estrecho de Ormuz y asuntos relacionados con las cadenas de suministro. Según se informó, ambas partes confirmaron la necesidad de cooperación bilateral e intercambiaron opiniones sobre cuestiones pertinentes. El estrecho de Ormuz es mencionado como una ruta importante para el transporte internacional de energía y el tráfico marítimo, mientras que la estabilidad de las cadenas de suministro también es un tema central de la cooperación económica entre países. La llamada muestra la continuidad del diálogo entre Corea del Sur y Canadá sobre asuntos internacionales clave y cooperación económica. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Lee e premiê do Canadá discutem liberdade de navegação em Ormuz e cadeias de suprimento",
-        "excerpt": "O presidente Lee Jae Myung falou no dia 8 com o primeiro-ministro canadense Mark Carney sobre cooperação bilateral, incluindo liberdade de navegação em Ormuz e cadeias de suprimento.",
-        "body": "O presidente Lee Jae Myung realizou no dia 8 uma chamada telefônica com o primeiro-ministro do Canadá, Mark Carney, e discutiu formas de fortalecer a cooperação entre Coreia do Sul e Canadá. Na conversa, a liberdade de navegação no Estreito de Ormuz e questões ligadas às cadeias de suprimento foram tratadas como principais temas. Segundo as informações, os dois lados confirmaram a necessidade de cooperação bilateral e trocaram opiniões sobre assuntos relacionados. O Estreito de Ormuz é citado como uma rota importante para o transporte internacional de energia e o tráfego marítimo, enquanto a estabilidade das cadeias de suprimento também é uma agenda central da cooperação econômica entre países. A chamada indica a continuidade da comunicação entre Coreia do Sul e Canadá sobre grandes temas internacionais e cooperação econômica. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Lee und Kanadas Premier beraten über freie Schifffahrt in Hormus und Lieferketten",
-        "excerpt": "Präsident Lee Jae Myung telefonierte am 8. mit Kanadas Premier Mark Carney und sprach über stärkere bilaterale Zusammenarbeit, darunter freie Schifffahrt in Hormus und Lieferketten.",
-        "body": "Präsident Lee Jae Myung führte am 8. ein Telefongespräch mit dem kanadischen Premierminister Mark Carney und erörterte Wege zur Stärkung der Zusammenarbeit zwischen Südkorea und Kanada. Im Mittelpunkt des Gesprächs standen die Freiheit der Schifffahrt in der Straße von Hormus sowie Fragen der Lieferketten. Beide Seiten bestätigten Berichten zufolge die Notwendigkeit bilateraler Kooperation und tauschten Ansichten zu den betreffenden Themen aus. Die Straße von Hormus gilt als wichtiger Korridor für den internationalen Energietransport und den Seeverkehr, während die Stabilität von Lieferketten ebenfalls ein zentrales Thema wirtschaftlicher Zusammenarbeit zwischen Staaten ist. Das Telefonat zeigt, dass Südkorea und Kanada den Austausch über wichtige internationale Fragen und wirtschaftliche Kooperation fortsetzen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Lee et le premier ministre canadien discutent navigation à Ormuz et chaînes d’approvisionnement",
-        "excerpt": "Le président Lee Jae Myung s’est entretenu par téléphone le 8 avec le premier ministre canadien Mark Carney au sujet de la coopération bilatérale, dont la liberté de navigation à Ormuz et les chaînes d’approvisionnement.",
-        "body": "Le président Lee Jae Myung s’est entretenu par téléphone le 8 avec le premier ministre canadien Mark Carney et a discuté des moyens de renforcer la coopération entre la Corée du Sud et le Canada. La liberté de navigation dans le détroit d’Ormuz et les questions liées aux chaînes d’approvisionnement ont été les principaux sujets abordés. Les deux parties auraient confirmé la nécessité d’une coopération bilatérale et échangé leurs vues sur les dossiers concernés. Le détroit d’Ormuz est cité comme une voie importante pour le transport international d’énergie et le trafic maritime, tandis que la stabilité des chaînes d’approvisionnement constitue aussi un thème central de la coopération économique entre pays. Cet appel s’inscrit dans la poursuite du dialogue entre la Corée du Sud et le Canada sur les grands enjeux internationaux et la coopération économique. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "لي ورئيس وزراء كندا يبحثان حرية الملاحة في هرمز وسلاسل الإمداد",
-        "excerpt": "أجرى الرئيس لي جاي ميونغ في الثامن اتصالا هاتفيا مع رئيس وزراء كندا مارك كارني لبحث تعزيز التعاون الثنائي، بما في ذلك حرية الملاحة في هرمز وسلاسل الإمداد.",
-        "body": "أجرى الرئيس لي جاي ميونغ في الثامن اتصالا هاتفيا مع رئيس وزراء كندا مارك كارني، وبحث سبل تعزيز التعاون بين كوريا الجنوبية وكندا. وتركز الاتصال على حرية الملاحة في مضيق هرمز والقضايا المرتبطة بسلاسل الإمداد. وذكرت المعلومات أن الجانبين أكدا الحاجة إلى التعاون الثنائي وتبادلا الآراء بشأن القضايا ذات الصلة. ويشار إلى مضيق هرمز بوصفه ممرا مهما لنقل الطاقة الدولي وحركة الملاحة البحرية، كما يعد استقرار سلاسل الإمداد من القضايا الأساسية في التعاون الاقتصادي بين الدول. ويعكس هذا الاتصال استمرار التواصل بين كوريا الجنوبية وكندا بشأن القضايا الدولية الرئيسية ومجالات التعاون الاقتصادي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "ली और कनाडा के प्रधानमंत्री ने होर्मुज में नौवहन स्वतंत्रता व आपूर्ति श्रृंखला पर चर्चा की",
-        "excerpt": "राष्ट्रपति ली जे म्युंग ने 8 तारीख को कनाडा के प्रधानमंत्री मार्क कार्नी से फोन पर बात की और होर्मुज जलडमरूमध्य में नौवहन स्वतंत्रता व आपूर्ति श्रृंखला सहित सहयोग मजबूत करने पर चर्चा की।",
-        "body": "राष्ट्रपति ली जे म्युंग ने 8 तारीख को कनाडा के प्रधानमंत्री मार्क कार्नी से फोन पर बातचीत की और दक्षिण कोरिया तथा कनाडा के बीच सहयोग मजबूत करने के उपायों पर चर्चा की। इस बातचीत में होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता और आपूर्ति श्रृंखला से जुड़े मुद्दे प्रमुख विषय रहे। बताया गया कि दोनों पक्षों ने द्विपक्षीय सहयोग की आवश्यकता की पुष्टि की और संबंधित मामलों पर विचार साझा किए। होर्मुज जलडमरूमध्य को अंतरराष्ट्रीय ऊर्जा परिवहन और समुद्री यातायात के लिए एक महत्वपूर्ण मार्ग के रूप में देखा जाता है, जबकि आपूर्ति श्रृंखला की स्थिरता भी देशों के बीच आर्थिक सहयोग का मुख्य मुद्दा है। यह फोन कॉल प्रमुख अंतरराष्ट्रीय मुद्दों और आर्थिक सहयोग पर दक्षिण कोरिया और कनाडा के निरंतर संवाद को दर्शाता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lee dan PM Kanada Bahas Kebebasan Navigasi Hormuz serta Rantai Pasok",
-        "excerpt": "Presiden Lee Jae Myung berbicara melalui telepon pada tanggal 8 dengan Perdana Menteri Kanada Mark Carney untuk membahas penguatan kerja sama, termasuk kebebasan navigasi Hormuz dan rantai pasok.",
-        "body": "Presiden Lee Jae Myung melakukan pembicaraan telepon pada tanggal 8 dengan Perdana Menteri Kanada Mark Carney dan membahas cara memperkuat kerja sama antara Korea Selatan dan Kanada. Dalam panggilan tersebut, kebebasan navigasi di Selat Hormuz dan isu terkait rantai pasok menjadi agenda utama. Kedua pihak dilaporkan menegaskan perlunya kerja sama bilateral dan bertukar pandangan mengenai isu terkait. Selat Hormuz disebut sebagai jalur penting bagi transportasi energi internasional dan lalu lintas laut, sementara stabilitas rantai pasok juga menjadi agenda utama dalam kerja sama ekonomi antarnegara. Panggilan ini menunjukkan berlanjutnya komunikasi antara Korea Selatan dan Kanada mengenai isu internasional utama dan kerja sama ekonomi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "75da41c432d7",
-    "slug": "협력업체-마진-0원으로-일방인하교촌에-벌금-5천만원-구형-809587",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T14:38:48.142Z",
-    "updatedAt": "2026-05-09T14:38:48.142Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508093700061",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508093700061",
-    "titleFingerprint": "f0e5c3ff279fc0e0a683c6faa139c6ecd0bcd991",
-    "dedupKeys": [
-      "75da41c432d7a38d0bee50de4782f91142879e4c",
-      "f0e5c3ff279fc0e0a683c6faa139c6ecd0bcd991",
-      "ed978b4432d5d604fd6c547c37b2b1eae9e083fd"
-    ],
-    "imageUrl": "/images/articles/75da41c432d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "교촌에프앤비, 협력업체 유통마진 일방 인하 혐의로 벌금 5천만원 구형",
-        "excerpt": "검찰은 치킨 튀김 전용 기름 공급사의 유통마진을 일방적으로 낮춘 혐의로 재판에 넘겨진 교촌에프앤비에 벌금 5천만원을 구형했다.",
-        "body": "검찰은 성남에서 열린 재판에서 치킨 튀김 전용 기름 공급사의 유통마진을 일방적으로 인하한 혐의로 기소된 교촌에프앤비에 벌금 5천만원을 구형했다. 원문에 따르면 문제의 혐의는 협력업체가 받던 유통마진을 교촌 측이 일방적으로 낮춘 데 초점이 맞춰졌다. 특히 협력업체 마진이 ‘0원’으로 인하됐다는 점이 사건의 핵심으로 언급됐다. 이번 구형은 프랜차이즈 본사와 협력업체 간 거래 조건 변경의 적정성을 둘러싼 판단에 영향을 줄 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kyochon F&B Faces Prosecutors’ 50 Million Won Fine Request Over Supplier Margin Cut",
-        "excerpt": "Prosecutors requested a 50 million won fine for Kyochon F&B, which was put on trial over allegations it unilaterally cut a frying-oil supplier’s distribution margin.",
-        "body": "Prosecutors requested a 50 million won fine for Kyochon F&B at a trial in Seongnam over allegations that the company unilaterally lowered the distribution margin of a supplier providing oil used exclusively for frying chicken. According to the source, the case centers on Kyochon’s alleged unilateral reduction of the margin paid to a partner supplier. The key point cited was that the supplier’s margin was lowered to ‘0 won.’ The request may affect how changes to transaction terms between franchise headquarters and suppliers are judged. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "教村F&B、協力会社マージン一方的引き下げで罰金5千万ウォン求刑",
-        "excerpt": "検察は、チキン揚げ油供給会社の流通マージンを一方的に引き下げた疑いで起訴された教村F&Bに罰金5千万ウォンを求刑した。",
-        "body": "検察は城南で開かれた裁判で、チキンを揚げる専用油の供給会社の流通マージンを一方的に引き下げた疑いで起訴された教村F&Bに対し、罰金5千万ウォンを求刑した。原文によると、問題となった容疑は、協力会社が受け取っていた流通マージンを教村側が一方的に下げた点に焦点が置かれている。特に協力会社のマージンが「0ウォン」に引き下げられたことが事件の核心として言及された。今回の求刑は、フランチャイズ本部と協力会社の取引条件変更の妥当性をめぐる判断に影響し得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Kyochon F&B因单方面下调供应商利润被检方求罚5000万韩元",
-        "excerpt": "检方对因涉嫌单方面下调炸鸡专用油供应商流通利润而受审的Kyochon F&B，提出罚款5000万韩元的量刑建议。",
-        "body": "检方在城南举行的审判中，对因涉嫌单方面下调炸鸡专用油供应商流通利润而被起诉的Kyochon F&B，提出罚款5000万韩元的量刑建议。据原文报道，该案焦点在于Kyochon方面是否单方面降低了合作供应商原本获得的流通利润。尤其是合作企业利润被下调至“0韩元”这一点，被提及为案件核心。此次求刑可能影响外界对加盟总部与合作企业之间交易条件变更是否适当的判断。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kyochon F&B enfrenta petición de multa de 50 millones de wones por bajar margen a proveedor",
-        "excerpt": "La fiscalía pidió una multa de 50 millones de wones para Kyochon F&B, juzgada por reducir unilateralmente el margen de distribución de un proveedor de aceite para pollo frito.",
-        "body": "La fiscalía pidió en un juicio celebrado en Seongnam una multa de 50 millones de wones para Kyochon F&B, acusada de reducir unilateralmente el margen de distribución de una empresa que suministra aceite exclusivo para freír pollo. Según el texto original, la acusación se centra en que Kyochon habría rebajado de forma unilateral el margen que recibía su empresa colaboradora. El punto clave mencionado es que el margen del proveedor fue reducido a ‘0 wones’. Esta petición puede incidir en la evaluación de la adecuación de cambios en condiciones comerciales entre una franquicia matriz y sus proveedores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kyochon F&B tem multa de 50 milhões de won pedida por corte de margem de fornecedora",
-        "excerpt": "Promotores pediram multa de 50 milhões de won para a Kyochon F&B, julgada por reduzir unilateralmente a margem de distribuição de fornecedora de óleo para frango frito.",
-        "body": "Promotores pediram, em julgamento realizado em Seongnam, multa de 50 milhões de won para a Kyochon F&B, acusada de reduzir unilateralmente a margem de distribuição de uma empresa fornecedora de óleo exclusivo para fritar frango. Segundo o texto original, a acusação se concentra no fato de a Kyochon ter supostamente baixado de forma unilateral a margem recebida pela empresa parceira. O ponto central citado é que a margem da parceira foi reduzida para ‘0 won’. O pedido pode influenciar a avaliação sobre a adequação de mudanças nas condições comerciais entre uma franqueadora e seus fornecedores. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kyochon F&B: Staatsanwaltschaft fordert 50 Mio. Won Strafe wegen Lieferantenmarge",
-        "excerpt": "Die Staatsanwaltschaft beantragte eine Geldstrafe von 50 Millionen Won gegen Kyochon F&B wegen der einseitigen Senkung der Vertriebsmarge eines Frittieröl-Lieferanten.",
-        "body": "Die Staatsanwaltschaft beantragte in einem Verfahren in Seongnam eine Geldstrafe von 50 Millionen Won gegen Kyochon F&B. Das Unternehmen ist angeklagt, die Vertriebsmarge eines Lieferanten für spezielles Öl zum Frittieren von Chicken einseitig gesenkt zu haben. Dem Ausgangstext zufolge steht der Vorwurf im Mittelpunkt, dass Kyochon die Marge eines Partnerunternehmens einseitig reduzierte. Besonders hervorgehoben wurde, dass die Marge des Partners auf ‘0 Won’ gesenkt worden sei. Der Antrag könnte die Bewertung von Änderungen der Geschäftsbedingungen zwischen Franchise-Zentrale und Lieferanten beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kyochon F&B visée par une amende requise de 50 millions de wons pour marge fournisseur",
-        "excerpt": "Le parquet a requis 50 millions de wons d’amende contre Kyochon F&B, jugée pour avoir réduit unilatéralement la marge de distribution d’un fournisseur d’huile de friture.",
-        "body": "Le parquet a requis, lors d’un procès à Seongnam, une amende de 50 millions de wons contre Kyochon F&B, poursuivie pour avoir réduit unilatéralement la marge de distribution d’une société fournissant de l’huile destinée à la friture du poulet. Selon le texte original, l’accusation porte sur la baisse unilatérale par Kyochon de la marge perçue par son partenaire. Le point central mentionné est que cette marge aurait été ramenée à ‘0 won’. Cette réquisition pourrait peser sur l’appréciation des modifications de conditions commerciales entre une tête de réseau de franchise et ses fournisseurs. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "طلب تغريم Kyochon F&B بـ50 مليون وون بسبب خفض هامش مورّد إلى صفر",
-        "excerpt": "طلب الادعاء تغريم Kyochon F&B بمبلغ 50 مليون وون بعد إحالتها للمحاكمة بتهمة خفض هامش توزيع مورّد زيت مخصص لقلي الدجاج من جانب واحد.",
-        "body": "طلب الادعاء في محاكمة عقدت في سيونغنام فرض غرامة قدرها 50 مليون وون على Kyochon F&B، المتهمة بخفض هامش التوزيع لشركة تورّد زيتا مخصصا لقلي الدجاج من جانب واحد. وبحسب النص الأصلي، تتركز القضية على أن كيوتشون خفّضت بصورة أحادية الهامش الذي كانت تحصل عليه الشركة المتعاونة. وذُكر أن النقطة المحورية هي خفض هامش تلك الشركة إلى ‘0 وون’. وقد يؤثر هذا الطلب في تقييم مدى ملاءمة تغيير شروط التعامل بين مقر الامتياز التجاري والموردين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Kyochon F&B पर आपूर्तिकर्ता मार्जिन घटाने के मामले में 5 करोड़ वोन जुर्माने की मांग",
-        "excerpt": "अभियोजन ने चिकन तलने के विशेष तेल की आपूर्तिकर्ता कंपनी का वितरण मार्जिन एकतरफा घटाने के आरोप में Kyochon F&B पर 5 करोड़ वोन जुर्माने की मांग की।",
-        "body": "अभियोजन ने सियोंगनाम में हुई सुनवाई में Kyochon F&B पर 5 करोड़ वोन जुर्माने की मांग की। कंपनी पर चिकन तलने के लिए विशेष तेल की आपूर्ति करने वाली कंपनी का वितरण मार्जिन एकतरफा घटाने का आरोप है। मूल पाठ के अनुसार, मामला इस बात पर केंद्रित है कि क्योचोन ने सहयोगी कंपनी को मिलने वाला वितरण मार्जिन कथित रूप से एकतरफा कम किया। खास तौर पर यह बात प्रमुख रूप से सामने आई कि सहयोगी कंपनी का मार्जिन ‘0 वोन’ कर दिया गया। यह मांग फ्रेंचाइजी मुख्यालय और आपूर्तिकर्ता के बीच व्यापार शर्तों में बदलाव की उपयुक्तता पर असर डाल सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kyochon F&B Dituntut Denda 50 Juta Won atas Pemangkasan Margin Pemasok",
-        "excerpt": "Jaksa menuntut denda 50 juta won terhadap Kyochon F&B, yang diadili atas dugaan menurunkan sepihak margin distribusi pemasok minyak khusus penggorengan ayam.",
-        "body": "Jaksa dalam persidangan di Seongnam menuntut denda 50 juta won terhadap Kyochon F&B, yang didakwa menurunkan secara sepihak margin distribusi perusahaan pemasok minyak khusus untuk menggoreng ayam. Menurut naskah asli, perkara ini berfokus pada dugaan bahwa pihak Kyochon secara sepihak menurunkan margin distribusi yang diterima perusahaan mitra. Hal utama yang disebutkan adalah margin perusahaan mitra itu diturunkan menjadi ‘0 won’. Tuntutan ini dapat memengaruhi penilaian atas kelayakan perubahan syarat transaksi antara kantor pusat waralaba dan pemasok. Sumber: yna.co.kr"
       }
     }
   }
