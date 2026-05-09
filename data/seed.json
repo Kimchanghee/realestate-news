@@ -1,5 +1,230 @@
 [
   {
+    "id": "2385fbdd6c2d",
+    "slug": "다음주-경제-4월-취업자-얼마나-늘었나kdi-경제전망도-관심-173858",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T05:32:53.754Z",
+    "updatedAt": "2026-05-09T05:32:53.754Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509014400002",
+    "titleFingerprint": "e8dc6af9af3f61ae883236deb704235c2ba0c475",
+    "dedupKeys": [
+      "2385fbdd6c2dd1be270715469993f113e01863c1",
+      "e8dc6af9af3f61ae883236deb704235c2ba0c475",
+      "4a7e5403ae83abf6a4fcdd11f7527757c9bacd2d"
+    ],
+    "imageUrl": "/images/articles/2385fbdd6c2d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "4월 취업자 증가폭 주목…다음 주 KDI 경제전망·가계대출 지표 공개",
+        "excerpt": "다음 주 11∼15일 4월 고용 상황과 수출입 물가, 가계대출 흐름을 가늠할 주요 경제 지표가 공개되며 KDI 경제전망에도 관심이 쏠린다.",
+        "body": "다음 주 11∼15일에는 4월 취업자 수가 얼마나 늘었는지 확인할 수 있는 고용 지표와 수출입 물가, 가계대출 추이 등 주요 경제 지표가 잇따라 공개된다. 최근 고용 상황을 가늠할 수 있는 취업자 증가폭은 경기 흐름을 판단하는 핵심 자료로 주목된다. 같은 기간 수출입 물가 지표는 대외 가격 여건을, 가계대출 추이는 금융권 대출 흐름과 가계 부담을 살피는 데 활용된다. KDI가 내놓을 경제전망도 향후 경기 판단의 참고 자료가 될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "April Job Growth in Focus as KDI Outlook and Household Loan Data Loom",
+        "excerpt": "From May 11 to 15, key economic indicators on April employment, import-export prices and household loans will be released, drawing attention to KDI’s outlook.",
+        "body": "From May 11 to 15, South Korea will release major economic indicators showing how much the number of employed people increased in April, along with import-export price data and household loan trends. The scale of job growth is drawing attention as a key gauge of recent labor-market conditions and broader economic momentum. Import-export prices will help assess external price conditions, while household loan data will show the flow of lending and household debt pressure. The Korea Development Institute’s economic outlook is also expected to serve as a reference point for judging the path of the economy. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "4月就業者数の増加幅に注目、来週はKDI経済見通しと家計融資も焦点",
+        "excerpt": "5月11～15日に4月の雇用状況、輸出入物価、家計融資の動向を示す主要経済指標が公表され、KDIの経済見通しにも関心が集まる。",
+        "body": "来週5月11～15日には、4月の就業者数がどれだけ増えたかを確認できる雇用指標に加え、輸出入物価、家計融資の推移など主要経済指標が相次いで公表される。就業者数の増加幅は、最近の雇用情勢と景気の流れを判断する重要な材料として注目される。同じ期間に発表される輸出入物価は対外的な価格環境を、家計融資の動向は金融機関の貸し出しと家計負担を把握する手掛かりとなる。KDIが示す経済見通しも今後の景気判断の参考資料になる見込みだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "4月就业人数增幅受关注，下周KDI经济展望与家庭贷款数据将公布",
+        "excerpt": "5月11日至15日，韩国将发布4月就业、进出口物价和家庭贷款走势等主要经济指标，KDI经济展望也受到关注。",
+        "body": "下周5月11日至15日，韩国将陆续发布主要经济指标，包括可确认4月就业人数增加多少的就业数据、进出口物价以及家庭贷款走势。就业人数增幅被视为判断近期就业状况和经济走势的重要依据，因此备受关注。同期公布的进出口物价可用于观察对外价格条件，家庭贷款走势则有助于了解金融机构贷款流向和家庭负担。韩国开发研究院KDI即将发布的经济展望，也预计将成为判断今后经济形势的参考资料。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Empleo de abril, previsión del KDI y deuda familiar centran la agenda económica",
+        "excerpt": "Entre el 11 y el 15 de mayo se publicarán indicadores sobre empleo de abril, precios de exportación e importación y préstamos familiares, junto con la previsión del KDI.",
+        "body": "Entre el 11 y el 15 de mayo se divulgarán en Corea del Sur varios indicadores económicos clave, incluidos los datos que mostrarán cuánto aumentó el número de ocupados en abril, los precios de exportación e importación y la evolución de los préstamos a los hogares. El aumento del empleo será observado como una referencia central para medir la situación laboral reciente y el rumbo de la economía. Los precios de exportación e importación permitirán evaluar las condiciones externas de precios, mientras que los préstamos familiares ayudarán a seguir el flujo del crédito y la carga de los hogares. La previsión económica del KDI también será un dato de referencia. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Emprego de abril, projeção do KDI e crédito às famílias pautam semana econômica",
+        "excerpt": "De 11 a 15 de maio, indicadores sobre emprego de abril, preços de exportação e importação e empréstimos às famílias serão divulgados, com atenção ao KDI.",
+        "body": "Entre 11 e 15 de maio, a Coreia do Sul divulgará indicadores econômicos importantes, incluindo dados que mostram quanto cresceu o número de empregados em abril, além dos preços de exportação e importação e da tendência dos empréstimos às famílias. A expansão do emprego será observada como referência central para avaliar a situação recente do mercado de trabalho e o ritmo da economia. Os preços de exportação e importação ajudarão a medir as condições externas de preços, enquanto os dados de crédito às famílias indicarão o fluxo de empréstimos e o peso financeiro sobre os lares. A projeção econômica do KDI também deve servir de referência. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Beschäftigung im April im Fokus: KDI-Ausblick und Haushaltskredite folgen",
+        "excerpt": "Vom 11. bis 15. Mai werden wichtige Konjunkturdaten zu Beschäftigung, Import- und Exportpreisen sowie Haushaltskrediten veröffentlicht; auch der KDI-Ausblick steht im Blick.",
+        "body": "Vom 11. bis 15. Mai werden in Südkorea mehrere wichtige Wirtschaftsindikatoren veröffentlicht. Dazu gehören Daten dazu, wie stark die Zahl der Beschäftigten im April gestiegen ist, sowie Import- und Exportpreise und die Entwicklung der Haushaltskredite. Der Beschäftigungszuwachs gilt als zentrale Grundlage, um die jüngste Lage am Arbeitsmarkt und die allgemeine Konjunktur einzuschätzen. Die Import- und Exportpreise geben Hinweise auf externe Preisbedingungen, während die Kreditdaten Aufschluss über Kreditflüsse und die Belastung der privaten Haushalte geben. Auch der Wirtschaftsausblick des KDI dürfte als Referenz für die weitere Konjunkturbeurteilung dienen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Emploi d’avril, prévisions du KDI et prêts aux ménages au menu économique",
+        "excerpt": "Du 11 au 15 mai, des indicateurs sur l’emploi d’avril, les prix à l’import-export et les prêts aux ménages seront publiés, avec l’attention portée au KDI.",
+        "body": "Du 11 au 15 mai, la Corée du Sud publiera plusieurs indicateurs économiques majeurs, dont les données permettant de savoir combien d’emplois ont été créés en avril, les prix à l’importation et à l’exportation ainsi que l’évolution des prêts aux ménages. L’ampleur de la hausse de l’emploi sera suivie comme un repère clé pour évaluer la situation récente du marché du travail et la dynamique économique. Les prix à l’import-export aideront à apprécier les conditions de prix extérieures, tandis que les prêts aux ménages permettront d’observer les flux de crédit et la charge financière des foyers. Les prévisions économiques du KDI devraient aussi servir de référence. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وظائف أبريل تحت المجهر مع ترقب توقعات KDI وبيانات قروض الأسر",
+        "excerpt": "بين 11 و15 مايو ستصدر مؤشرات اقتصادية رئيسية عن التوظيف في أبريل وأسعار الصادرات والواردات واتجاه قروض الأسر، مع اهتمام بتوقعات KDI.",
+        "body": "بين 11 و15 مايو، ستصدر في كوريا الجنوبية مؤشرات اقتصادية رئيسية تشمل بيانات توضح مقدار زيادة عدد العاملين في أبريل، إلى جانب أسعار الصادرات والواردات واتجاه قروض الأسر. ويحظى حجم الزيادة في التوظيف باهتمام بوصفه مؤشرا مهما على أوضاع سوق العمل الأخيرة ومسار الاقتصاد. وستساعد بيانات أسعار الصادرات والواردات في تقييم ظروف الأسعار الخارجية، بينما توضح قروض الأسر تدفقات الإقراض والعبء المالي على العائلات. كما من المتوقع أن تشكل التوقعات الاقتصادية الصادرة عن معهد التنمية الكوري KDI مرجعا للحكم على اتجاه الاقتصاد المقبل. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "अप्रैल रोजगार वृद्धि पर नजर, KDI आर्थिक अनुमान और घरेलू कर्ज डेटा भी अहम",
+        "excerpt": "11 से 15 मई के बीच अप्रैल रोजगार, निर्यात-आयात कीमतों और घरेलू ऋण रुझानों से जुड़े प्रमुख आर्थिक आंकड़े जारी होंगे, जबकि KDI अनुमान पर भी ध्यान रहेगा।",
+        "body": "11 से 15 मई के बीच दक्षिण कोरिया में कई प्रमुख आर्थिक संकेतक जारी होंगे। इनमें अप्रैल में रोजगार प्राप्त लोगों की संख्या कितनी बढ़ी, यह दिखाने वाले रोजगार आंकड़े, निर्यात-आयात कीमतें और घरेलू ऋण के रुझान शामिल हैं। रोजगार वृद्धि का आकार हालिया श्रम बाजार स्थिति और व्यापक आर्थिक प्रवाह को समझने के लिए अहम आधार माना जा रहा है। निर्यात-आयात कीमतों के आंकड़े बाहरी मूल्य परिस्थितियों को परखने में मदद करेंगे, जबकि घरेलू ऋण के आंकड़े वित्तीय क्षेत्र में कर्ज प्रवाह और परिवारों पर बोझ को समझने के लिए उपयोगी होंगे। KDI का आर्थिक अनुमान भी आगे की आर्थिक दिशा के आकलन में संदर्भ बनेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kenaikan Pekerja April Jadi Sorotan, Prospek KDI dan Pinjaman Rumah Tangga Menanti",
+        "excerpt": "Pada 11-15 Mei, indikator utama tentang ketenagakerjaan April, harga ekspor-impor, dan tren pinjaman rumah tangga akan dirilis, dengan perhatian pada prospek KDI.",
+        "body": "Pada 11-15 Mei, Korea Selatan akan merilis sejumlah indikator ekonomi utama, termasuk data yang menunjukkan seberapa besar jumlah pekerja bertambah pada April, harga ekspor-impor, serta tren pinjaman rumah tangga. Besarnya kenaikan pekerja menjadi perhatian karena dapat digunakan untuk menilai kondisi ketenagakerjaan terbaru dan arah ekonomi. Data harga ekspor-impor akan membantu melihat kondisi harga eksternal, sementara tren pinjaman rumah tangga digunakan untuk mengamati aliran kredit sektor keuangan dan beban rumah tangga. Prospek ekonomi yang akan dirilis KDI juga diperkirakan menjadi rujukan dalam menilai ekonomi ke depan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1cc149575e68",
+    "slug": "부고-오준일대원제약-이사씨-장인상-586840",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T05:32:02.717Z",
+    "updatedAt": "2026-05-09T05:32:02.717Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509020800017",
+    "titleFingerprint": "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
+    "dedupKeys": [
+      "1cc149575e685582801abd71c5db41552c777659",
+      "bb800a3c9cb8c8adc3b1f4d8e5d668468e162a20",
+      "686e9008b5e672ba5e912c5ec81416a0276485f9"
+    ],
+    "imageUrl": "/images/articles/1cc149575e68.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대원제약 오준일 이사 장인상, 중앙대병원 장례식장 빈소 마련",
+        "excerpt": "신동석 씨가 8일 별세했으며 오준일 대원제약 ICT지원부 이사의 장인상으로 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다.",
+        "body": "신동석 씨가 8일 별세했다. 고인은 오준일 대원제약 ICT지원부 이사의 장인으로, 빈소는 서울 동작구 중앙대병원 장례식장 2호실에 마련됐다. 발인은 11일 오전 5시로 예정됐다. 이번 부고는 유족과 지인들에게 장례 일정과 장소를 알리기 위한 내용으로, 조문은 해당 빈소에서 이뤄진다. 장례 관련 문의는 중앙대병원 장례식장으로 안내됐다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Daewon Pharmaceutical Director Oh Joon-il Mourns Father-in-Law",
+        "excerpt": "Shin Dong-seok died on the 8th, with a funeral hall set up in Room 2 at Chung-Ang University Hospital in Dongjak-gu, Seoul, for the family of Oh Joon-il.",
+        "body": "Shin Dong-seok died on the 8th. He was the father-in-law of Oh Joon-il, director of the ICT Support Department at Daewon Pharmaceutical. The funeral hall has been arranged in Room 2 at Chung-Ang University Hospital Funeral Hall in Dongjak-gu, Seoul. The funeral procession is scheduled for 5 a.m. on the 11th. The notice provides family members and acquaintances with the confirmed funeral schedule and location. Condolences may be offered at the designated funeral room. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "大元製薬オ・ジュンイル理事の義父死去、中央大病院に葬儀場",
+        "excerpt": "シン・ドンソク氏が8日に死去し、大元製薬ICT支援部理事オ・ジュンイル氏の義父として、ソウル銅雀区の中央大病院葬儀場2号室に安置された。",
+        "body": "シン・ドンソク氏が8日に死去した。故人は大元製薬ICT支援部理事のオ・ジュンイル氏の義父にあたる。葬儀場はソウル市銅雀区の中央大病院葬儀場2号室に設けられた。出棺は11日午前5時の予定。今回の訃報は遺族や知人に葬儀の日程と場所を知らせる内容で、弔問は同葬儀場で受け付けられる。葬儀関連の問い合わせ先も中央大病院葬儀場として案内された。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "大元制药理事吴俊日岳父去世，灵堂设于中央大医院",
+        "excerpt": "申东锡于8日去世，系大元制药ICT支援部理事吴俊日的岳父，灵堂设在首尔铜雀区中央大学医院殡仪馆2号室。",
+        "body": "申东锡于8日去世。逝者为大元制药ICT支援部理事吴俊日的岳父。灵堂设在首尔市铜雀区中央大学医院殡仪馆2号室。出殡时间定于11日上午5时。本次讣告旨在向遗属和熟人告知葬礼日程与地点，吊唁将在上述灵堂进行。有关葬礼的咨询也由中央大学医院殡仪馆提供。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Fallece el suegro de Oh Joon-il, directivo de Daewon Pharmaceutical",
+        "excerpt": "Shin Dong-seok falleció el día 8; era suegro de Oh Joon-il, director del área de soporte ICT de Daewon Pharmaceutical, y la capilla ardiente está en Seúl.",
+        "body": "Shin Dong-seok falleció el día 8. Era suegro de Oh Joon-il, director del Departamento de Soporte ICT de Daewon Pharmaceutical. La capilla ardiente fue instalada en la sala 2 del funeral del Hospital de la Universidad Chung-Ang, en Dongjak-gu, Seúl. La salida del cortejo fúnebre está prevista para las 5:00 a. m. del día 11. El aviso informa a familiares y conocidos sobre el lugar y el horario del funeral. Las condolencias se recibirán en la sala indicada. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Morre sogro de Oh Joon-il, diretor da Daewon Pharmaceutical",
+        "excerpt": "Shin Dong-seok morreu no dia 8; ele era sogro de Oh Joon-il, diretor do setor de suporte ICT da Daewon Pharmaceutical, com velório em Dongjak-gu, Seul.",
+        "body": "Shin Dong-seok morreu no dia 8. Ele era sogro de Oh Joon-il, diretor do Departamento de Suporte ICT da Daewon Pharmaceutical. O velório foi organizado na sala 2 da funerária do Hospital da Universidade Chung-Ang, em Dongjak-gu, Seul. O cortejo fúnebre está marcado para as 5h do dia 11. O comunicado informa familiares e conhecidos sobre o local e o horário da cerimônia. As condolências podem ser apresentadas na sala indicada. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Schwiegervater von Daewon-Pharmaceutical-Direktor Oh Joon-il verstorben",
+        "excerpt": "Shin Dong-seok ist am 8. gestorben; er war der Schwiegervater von Oh Joon-il, ICT-Support-Direktor bei Daewon Pharmaceutical, die Trauerhalle ist in Seoul.",
+        "body": "Shin Dong-seok ist am 8. gestorben. Er war der Schwiegervater von Oh Joon-il, Direktor der ICT-Supportabteilung bei Daewon Pharmaceutical. Die Trauerhalle befindet sich in Raum 2 der Bestattungshalle des Chung-Ang University Hospital in Dongjak-gu, Seoul. Die Beisetzung beziehungsweise der Trauerzug ist für den 11. um 5 Uhr morgens angesetzt. Die Mitteilung informiert Angehörige und Bekannte über Ort und Zeit der Trauerfeier. Kondolenzbesuche erfolgen in der genannten Halle. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Décès du beau-père d’Oh Joon-il, directeur chez Daewon Pharmaceutical",
+        "excerpt": "Shin Dong-seok est décédé le 8; il était le beau-père d’Oh Joon-il, directeur du support ICT chez Daewon Pharmaceutical, avec une salle funéraire à Séoul.",
+        "body": "Shin Dong-seok est décédé le 8. Il était le beau-père d’Oh Joon-il, directeur du département de support ICT chez Daewon Pharmaceutical. La chambre funéraire a été installée dans la salle 2 du funérarium de l’hôpital de l’Université Chung-Ang, à Dongjak-gu, Séoul. Le départ du cortège funéraire est prévu le 11 à 5 heures du matin. L’avis communique aux proches et connaissances le lieu et l’horaire des obsèques. Les condoléances sont reçues dans la salle indiquée. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وفاة والد زوجة أوه جون إيل مدير دايوون للأدوية وتحديد قاعة العزاء",
+        "excerpt": "توفي شين دونغ سيوك في الثامن، وهو والد زوجة أوه جون إيل مدير قسم دعم تقنية المعلومات والاتصالات في دايوون للأدوية، وأقيمت قاعة العزاء في سيول.",
+        "body": "توفي شين دونغ سيوك في الثامن. والراحل هو والد زوجة أوه جون إيل، مدير قسم دعم تقنية المعلومات والاتصالات في شركة دايوون للأدوية. أُعدت قاعة العزاء في الغرفة رقم 2 بدار الجنازات في مستشفى جامعة تشونغ أنغ في حي دونغجاك بالعاصمة سيول. ومن المقرر أن يكون موكب التشييع في الساعة الخامسة صباحا من يوم 11. يهدف النعي إلى إبلاغ الأسرة والمعارف بموعد ومكان الجنازة، وتُقبل التعازي في القاعة المذكورة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "डेवोन फार्मास्युटिकल के निदेशक ओह जून-इल के ससुर का निधन",
+        "excerpt": "शिन डोंग-सोक का 8 तारीख को निधन हुआ। वे डेवोन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जून-इल के ससुर थे, अंतिम कक्ष सियोल में रखा गया है।",
+        "body": "शिन डोंग-सोक का 8 तारीख को निधन हो गया। वे डेवोन फार्मास्युटिकल के ICT सपोर्ट विभाग के निदेशक ओह जून-इल के ससुर थे। अंतिम दर्शन कक्ष सियोल के डोंगजाक-गु स्थित चुंग-आंग यूनिवर्सिटी अस्पताल के अंतिम संस्कार गृह के कक्ष संख्या 2 में बनाया गया है। अंतिम यात्रा 11 तारीख को सुबह 5 बजे निर्धारित है। यह शोक सूचना परिजनों और परिचितों को अंतिम संस्कार के समय और स्थान की जानकारी देने के लिए जारी की गई है। श्रद्धांजलि इसी कक्ष में दी जा सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Mertua Direktur Daewon Pharmaceutical Oh Joon-il Meninggal Dunia",
+        "excerpt": "Shin Dong-seok meninggal pada tanggal 8; ia adalah mertua Oh Joon-il, Direktur Departemen Dukungan ICT Daewon Pharmaceutical, dengan rumah duka di Seoul.",
+        "body": "Shin Dong-seok meninggal pada tanggal 8. Almarhum adalah mertua Oh Joon-il, Direktur Departemen Dukungan ICT di Daewon Pharmaceutical. Ruang duka disiapkan di Ruang 2, Rumah Duka Rumah Sakit Universitas Chung-Ang, Dongjak-gu, Seoul. Prosesi pelepasan jenazah dijadwalkan pada tanggal 11 pukul 05.00 pagi. Berita duka ini menyampaikan jadwal dan lokasi pemakaman kepada keluarga serta kenalan. Ucapan belasungkawa dapat disampaikan di ruang duka tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce43cc7e7b20",
+    "slug": "부고-길기완한국-딜로이트-그룹-총괄대표씨-부친상-462296",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T05:31:08.899Z",
+    "updatedAt": "2026-05-09T05:31:08.899Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509029100002",
+    "titleFingerprint": "e3fbb5f32753e63982387de1dc89bc710e3a3165",
+    "dedupKeys": [
+      "ce43cc7e7b20c7b7ed4c1f258bed5f26d0731f66",
+      "e3fbb5f32753e63982387de1dc89bc710e3a3165",
+      "5320d5660a8fd7fb1e762cf8c3349d055399f417"
+    ],
+    "imageUrl": "/images/articles/ce43cc7e7b20.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 딜로이트 그룹 길기완 총괄대표 부친상, 길명섭 씨 향년 90세 별세",
+        "excerpt": "한국 딜로이트 그룹 길기완 총괄대표의 부친 길명섭 씨가 향년 90세로 별세했다. 고인은 고영희 씨의 남편이며 길기철 여의도성모병원 교수의 부친이다.",
+        "body": "한국 딜로이트 그룹 총괄대표 길기완 씨가 부친상을 당했다. 연합뉴스에 따르면 길명섭 씨가 향년 90세로 별세했다. 고인은 고영희 씨의 남편이며, 길기완 한국 딜로이트 그룹 총괄대표와 길기철 여의도성모병원 산부인과 교수의 부친이다. 이번 부고는 주요 경제·의료계 인사의 가족상 소식으로 전해졌다. 별세자의 연령과 가족 관계 외 장례 일정 등 추가 정보는 원문에 공개된 범위 내에서 확인되지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Deloitte Korea CEO Ki-wan Gil Mourns Father Gil Myung-seop, Who Dies at 90",
+        "excerpt": "Gil Myung-seop, father of Ki-wan Gil, chief executive of Deloitte Korea, has died at age 90. He was the husband of Ko Young-hee and father of professor Gil Ki-cheol.",
+        "body": "Ki-wan Gil, chief executive of Deloitte Korea, is mourning the death of his father. According to Yonhap News Agency, Gil Myung-seop died at the age of 90. He was the husband of Ko Young-hee and the father of Ki-wan Gil, chief executive of Deloitte Korea, and Gil Ki-cheol, a professor of obstetrics and gynecology at Yeouido St. Mary’s Hospital. The obituary was reported as family news involving figures in the business and medical sectors. Details beyond the deceased’s age and family relationships, including funeral arrangements, were not confirmed in the provided source. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "韓国デロイトグループ総括代表の吉基完氏、父・吉明燮氏が90歳で死去",
+        "excerpt": "韓国デロイトグループ総括代表の吉基完氏の父、吉明燮氏が90歳で死去した。故人は高英姫氏の夫で、汝矣島聖母病院教授の吉基哲氏の父でもある。",
+        "body": "韓国デロイトグループ総括代表の吉基完氏が父を亡くした。聯合ニュースによると、吉明燮氏が90歳で死去した。故人は高英姫氏の夫であり、吉基完・韓国デロイトグループ総括代表と、吉基哲・汝矣島聖母病院産婦人科教授の父である。今回の訃報は、経済界と医療界の関係者の家族に関する知らせとして伝えられた。死亡年齢と家族関係以外の葬儀日程など追加情報は、原文で確認できる範囲では明らかにされていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国德勤集团总括代表吉基完父亲吉明燮逝世，享年90岁",
+        "excerpt": "韩国德勤集团总括代表吉基完的父亲吉明燮逝世，享年90岁。逝者为高英姬的丈夫，也是汝矣岛圣母医院教授吉基哲的父亲。",
+        "body": "韩国德勤集团总括代表吉基完遭遇父丧。据韩联社报道，吉明燮逝世，享年90岁。逝者是高英姬的丈夫，也是韩国德勤集团总括代表吉基完和汝矣岛圣母医院妇产科教授吉基哲的父亲。此次讣告作为涉及经济界和医疗界人士家属的消息被报道。除逝者年龄及家庭关系外，葬礼日程等更多信息在所提供原文范围内未能确认。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Muere a los 90 años Gil Myung-seop, padre del CEO de Deloitte Corea Ki-wan Gil",
+        "excerpt": "Gil Myung-seop, padre de Ki-wan Gil, director general de Deloitte Corea, falleció a los 90 años. Era esposo de Ko Young-hee y padre del profesor Gil Ki-cheol.",
+        "body": "Ki-wan Gil, director general de Deloitte Corea, está de luto por la muerte de su padre. Según la agencia Yonhap, Gil Myung-seop falleció a los 90 años. Era esposo de Ko Young-hee y padre de Ki-wan Gil, director general de Deloitte Corea, y de Gil Ki-cheol, profesor de obstetricia y ginecología en el Hospital St. Mary’s de Yeouido. La noticia fue difundida como una esquela relacionada con familiares de figuras de los sectores empresarial y médico. Más allá de la edad del fallecido y sus vínculos familiares, no se confirmaron otros datos, como el calendario funerario, en la fuente proporcionada. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Morre aos 90 anos Gil Myung-seop, pai do CEO da Deloitte Coreia Ki-wan Gil",
+        "excerpt": "Gil Myung-seop, pai de Ki-wan Gil, principal executivo da Deloitte Coreia, morreu aos 90 anos. Ele era marido de Ko Young-hee e pai do professor Gil Ki-cheol.",
+        "body": "Ki-wan Gil, principal executivo da Deloitte Coreia, sofreu a perda do pai. Segundo a agência Yonhap, Gil Myung-seop morreu aos 90 anos. Ele era marido de Ko Young-hee e pai de Ki-wan Gil, principal executivo da Deloitte Coreia, e de Gil Ki-cheol, professor de obstetrícia e ginecologia no Hospital St. Mary’s de Yeouido. A nota de falecimento foi divulgada como notícia familiar ligada a nomes dos setores empresarial e médico. Além da idade do falecido e das relações familiares, outros detalhes, como a programação do funeral, não foram confirmados no texto fornecido. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Deloitte-Korea-Chef Ki-wan Gil trauert um Vater Gil Myung-seop, gestorben mit 90",
+        "excerpt": "Gil Myung-seop, Vater von Ki-wan Gil, dem obersten Vertreter von Deloitte Korea, ist im Alter von 90 Jahren gestorben. Er war Ehemann von Ko Young-hee und Vater von Professor Gil Ki-cheol.",
+        "body": "Ki-wan Gil, oberster Vertreter von Deloitte Korea, trauert um seinen Vater. Nach Angaben der Nachrichtenagentur Yonhap ist Gil Myung-seop im Alter von 90 Jahren gestorben. Der Verstorbene war Ehemann von Ko Young-hee sowie Vater von Ki-wan Gil, dem obersten Vertreter von Deloitte Korea, und Gil Ki-cheol, Professor für Geburtshilfe und Gynäkologie am Yeouido St. Mary’s Hospital. Die Todesmeldung wurde als Familiennachricht mit Bezug zu Persönlichkeiten aus Wirtschaft und Medizin verbreitet. Weitere Angaben, etwa zu Trauerfeierlichkeiten, waren über Alter und Familienbeziehungen hinaus in der vorliegenden Quelle nicht bestätigt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Ki-wan Gil de Deloitte Corée en deuil après le décès de son père à 90 ans",
+        "excerpt": "Gil Myung-seop, père de Ki-wan Gil, dirigeant du groupe Deloitte Corée, est décédé à 90 ans. Il était l’époux de Ko Young-hee et le père du professeur Gil Ki-cheol.",
+        "body": "Ki-wan Gil, dirigeant du groupe Deloitte Corée, est en deuil après le décès de son père. Selon l’agence Yonhap, Gil Myung-seop est décédé à l’âge de 90 ans. Le défunt était l’époux de Ko Young-hee et le père de Ki-wan Gil, dirigeant du groupe Deloitte Corée, ainsi que de Gil Ki-cheol, professeur d’obstétrique et de gynécologie à l’hôpital St. Mary’s de Yeouido. L’avis de décès a été relayé comme une information familiale concernant des personnalités des milieux économique et médical. Aucun autre détail, notamment sur les funérailles, n’a été confirmé dans la source fournie au-delà de l’âge et des liens familiaux. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وفاة والد كي وان غيل رئيس ديلويت كوريا، غيل ميونغ سوب، عن 90 عاما",
+        "excerpt": "توفي غيل ميونغ سوب، والد كي وان غيل الرئيس العام لمجموعة ديلويت كوريا، عن عمر 90 عاما. وكان زوج كو يونغ هي ووالد الأستاذ غيل كي تشول.",
+        "body": "تلقى كي وان غيل، الرئيس العام لمجموعة ديلويت كوريا، نبأ وفاة والده. ووفقا لوكالة يونهاب، توفي غيل ميونغ سوب عن عمر 90 عاما. وكان الراحل زوج كو يونغ هي، ووالد كي وان غيل الرئيس العام لمجموعة ديلويت كوريا، وغيل كي تشول أستاذ أمراض النساء والتوليد في مستشفى سانت ماري في يويدو. ونُشر النعي كخبر عائلي يتعلق بشخصيات في قطاعي الأعمال والطب. ولم تتأكد في النص الأصلي المقدم أي معلومات إضافية، مثل مواعيد الجنازة، بخلاف عمر الراحل وصلاته العائلية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "डेलॉयट कोरिया प्रमुख की-वान गिल के पिता गिल म्युंग-सोप का 90 वर्ष की उम्र में निधन",
+        "excerpt": "डेलॉयट कोरिया समूह के प्रमुख की-वान गिल के पिता गिल म्युंग-सोप का 90 वर्ष की आयु में निधन हो गया। वे को यंग-ही के पति और प्रोफेसर गिल की-चोल के पिता थे।",
+        "body": "डेलॉयट कोरिया समूह के प्रमुख की-वान गिल ने अपने पिता को खो दिया है। योनहाप समाचार एजेंसी के अनुसार, गिल म्युंग-सोप का 90 वर्ष की आयु में निधन हुआ। दिवंगत को यंग-ही के पति थे और डेलॉयट कोरिया समूह के प्रमुख की-वान गिल तथा येओइदो सेंट मैरी अस्पताल के प्रसूति एवं स्त्री रोग विभाग के प्रोफेसर गिल की-चोल के पिता थे। यह शोक समाचार व्यापार और चिकित्सा क्षेत्र से जुड़े व्यक्तियों के परिवार से संबंधित सूचना के रूप में सामने आया। उपलब्ध मूल स्रोत में उम्र और पारिवारिक संबंधों के अलावा अंतिम संस्कार कार्यक्रम जैसी अतिरिक्त जानकारी की पुष्टि नहीं हुई। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Ayah CEO Deloitte Korea Ki-wan Gil, Gil Myung-seop, Meninggal pada Usia 90 Tahun",
+        "excerpt": "Gil Myung-seop, ayah Ki-wan Gil, pemimpin Deloitte Korea Group, meninggal pada usia 90 tahun. Ia adalah suami Ko Young-hee dan ayah profesor Gil Ki-cheol.",
+        "body": "Ki-wan Gil, pemimpin Deloitte Korea Group, berduka atas meninggalnya sang ayah. Menurut Kantor Berita Yonhap, Gil Myung-seop meninggal pada usia 90 tahun. Almarhum adalah suami Ko Young-hee serta ayah dari Ki-wan Gil, pemimpin Deloitte Korea Group, dan Gil Ki-cheol, profesor obstetri dan ginekologi di Yeouido St. Mary’s Hospital. Kabar duka ini disampaikan sebagai informasi keluarga yang terkait dengan tokoh di sektor bisnis dan medis. Di luar usia almarhum dan hubungan keluarga, rincian lain seperti jadwal pemakaman tidak terkonfirmasi dalam sumber yang diberikan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "df434de4e500",
     "slug": "jp모건-삼성전자-노조갈등-손실-최대-43조-달할-수도-364987",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Tarif Global Trump Ilegal, Pukulan Hukum bagi Perang Dagang Tanpa Izin Kongres",
         "excerpt": "Pengadilan Perdagangan Internasional AS pada tanggal 7 memutus tarif global Trump ilegal, menambah tekanan sebelum pemilu sela dan negosiasi dagang dengan China.",
         "body": "Pengadilan Perdagangan Internasional AS di Manhattan, New York, pada tanggal 7 waktu setempat memutuskan dengan suara 2 banding 1 bahwa tarif global yang diajukan pemerintahan Donald Trump sebagai kartu alternatif adalah ilegal. Setelah tarif resiprokal, hambatan hukum terhadap tarif global ini dinilai dapat menjadi pukulan politik bagi Presiden Trump menjelang pemilu sela November. Pengadilan federal tersebut menangani perkara perdagangan internasional. Ketua Hakim Mark Barnett dan Hakim Claire Kelly, yang ditunjuk oleh mantan Presiden Barack Obama, menyatakan tarif itu ilegal, sementara Hakim Timothy Stanceu, yang ditunjuk oleh George W. Bush, berpendapat tarif itu sah. Di tengah kritik bahwa tarif tinggi memicu kekacauan perdagangan global dan kenaikan harga, pemerintahan Trump juga dinilai gagal memperoleh legitimasi hukum. Putusan ini keluar sekitar satu minggu sebelum pertemuan puncak dengan China, sehingga dapat merugikan pemerintahan Trump dalam negosiasi perdagangan AS-China. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "9f6795c91c68",
-    "slug": "삼성전자-노사-정부-중재로-대화-물꼬-성과급-이견은-여전-598501",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T17:26:28.421Z",
-    "updatedAt": "2026-05-08T17:26:28.421Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889751/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889751/2",
-    "titleFingerprint": "4d9297decf43805d47f8618e17d8a0839fc87f27",
-    "dedupKeys": [
-      "9f6795c91c68be2b8fc983f8c6c4dd5bad6adcaa",
-      "4d9297decf43805d47f8618e17d8a0839fc87f27",
-      "027e820095facf8c49a98b5f553f121a7b1a9fb7"
-    ],
-    "imageUrl": "/images/articles/9f6795c91c68.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노사, 정부 사후조정으로 45일 만에 교섭 재개…성과급 쟁점은 지속",
-        "excerpt": "삼성전자 노사가 정부 중재로 3월 27일 집중 교섭 결렬 이후 45일 만에 대화를 재개한다. 21일 총파업을 앞두고 성과급 재원·지급 방식 이견이 핵심 쟁점이다.",
-        "body": "삼성전자 노사가 정부 중재로 3월 27일 집중 교섭 결렬 이후 45일 만에 다시 협상 테이블에 앉는다. 8일 고용노동부에 따르면 김도형 경기지방고용노동청장은 삼성전자 최대 노조인 초기업노조의 최승호 위원장을 만나 사후조정 절차를 권유했고, 노조는 내부 검토 끝에 이를 수용했다. 사후조정은 중앙노동위원회 조정 절차가 중지돼 노조가 합법적 쟁의권을 확보한 뒤에도 노사 양측이 동의하면 중노위가 다시 중재할 수 있는 제도다. 집중 교섭은 이달 11일과 12일 진행된다. 노조 측에서는 최 위원장과 이송이·김재원 부위원장 등 3명이 참석하며 사측 교섭위원은 아직 확정되지 않았다. 다만 성과급 재원과 지급 방식을 둘러싼 입장 차가 커 합의 전망은 불투명하다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Labor Talks Resume After 45 Days With Government Mediation, Bonus Gap Remains",
-        "excerpt": "Samsung Electronics labor and management will resume talks 45 days after March 27 negotiations collapsed, as government mediation opens post-adjustment talks ahead of a planned full strike on the 21st.",
-        "body": "Samsung Electronics labor and management are returning to the negotiating table 45 days after intensive talks broke down on March 27, following government mediation. According to the Ministry of Employment and Labor on the 8th, Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, recently met Choi Seung-ho, chair of Samsung Electronics’ largest union, the Supra-Enterprise Union, and recommended a post-adjustment procedure. The union accepted after internal review. Post-adjustment allows the National Labor Relations Commission to mediate again if both labor and management agree, even after the union has secured legal strike rights because the prior mediation process was halted. Intensive talks are scheduled for the 11th and 12th of this month. Three union representatives, including Choi and vice chairs Lee Song-i and Kim Jae-won, will attend, while management negotiators have not yet been confirmed. A wide gap remains over bonus funding and payment methods. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労使、政府の事後調整で45日ぶり協議再開へ…成果給の隔たり続く",
-        "excerpt": "サムスン電子の労使は政府の仲裁により、3月27日の集中交渉決裂から45日ぶりに対話を再開する。21日の全面ストを前に成果給の財源と支給方式が焦点だ。",
-        "body": "サムスン電子の労使が、政府の仲裁により3月27日の集中交渉決裂から45日ぶりに再び交渉の場に着く。8日、雇用労働部によると、金度亨・京畿地方雇用労働庁長は最近、サムスン電子最大労組である超企業労組の崔承浩委員長と会い、事後調整手続きを勧めた。労組は内部検討の末、これを受け入れた。事後調整は、中央労働委員会の調整手続きが中止され、労組が合法的な争議権を確保した後でも、労使双方が同意すれば中労委が再び仲裁に入れる制度だ。集中交渉は今月11日と12日に行われる予定。労組側からは崔委員長と李松伊・金載元副委員長ら3人が出席し、会社側交渉委員はまだ確定していない。ただし成果給の財源と支給方式をめぐる立場の差は大きく、合意の見通しは不透明だ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子劳资在政府事后调解下时隔45天重启谈判，绩效奖金分歧仍存",
-        "excerpt": "三星电子劳资双方将在政府调解下，于3月27日集中谈判破裂45天后重启对话。21日总罢工临近，绩效奖金资金来源和支付方式仍是核心争议。",
-        "body": "在政府调解下，三星电子劳资双方将在3月27日集中谈判破裂45天后重新回到谈判桌。韩国雇佣劳动部8日表示，京畿地方雇佣劳动厅厅长金度亨近日会见三星电子最大工会、超企业工会委员长崔承浩，建议启动事后调解程序。工会经内部讨论后决定接受。事后调解是指中央劳动委员会调解程序中止、工会已取得合法争议权后，只要劳资双方同意，中劳委仍可再次介入调解的制度。本次集中谈判预计于本月11日和12日进行。工会方面将有崔委员长及李松伊、金载元两名副委员长等3人参加，公司方面谈判委员尚未确定。不过，围绕绩效奖金资金来源和支付方式，双方立场差距仍大，能否达成协议仍不明朗。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Samsung Electronics reanuda diálogo laboral tras 45 días por mediación estatal, pero persiste disputa por bonos",
-        "excerpt": "Samsung Electronics y su sindicato retomarán conversaciones 45 días después del fracaso del 27 de marzo. Antes de la huelga general del día 21, siguen las diferencias sobre fondos y pago de bonos.",
-        "body": "La dirección y el sindicato de Samsung Electronics volverán a la mesa de negociación 45 días después de que fracasaran las conversaciones intensivas del 27 de marzo, gracias a la mediación del Gobierno. Según el Ministerio de Empleo y Trabajo el día 8, Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, se reunió recientemente con Choi Seung-ho, presidente del mayor sindicato de Samsung Electronics, el sindicato supraempresarial, y recomendó un procedimiento de ajuste posterior. El sindicato lo aceptó tras una revisión interna. Este mecanismo permite que la Comisión Nacional de Relaciones Laborales vuelva a mediar si ambas partes lo acuerdan, incluso después de que el sindicato haya obtenido legalmente el derecho a la huelga por la suspensión del proceso previo. Las negociaciones intensivas se celebrarán los días 11 y 12 de este mes. Por el sindicato asistirán Choi y los vicepresidentes Lee Song-i y Kim Jae-won; la empresa aún no confirmó sus negociadores. La brecha sobre la financiación y el método de pago de los bonos sigue siendo amplia. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics retoma negociações trabalhistas após 45 dias com mediação do governo; bônus ainda divide partes",
-        "excerpt": "A Samsung Electronics e seu sindicato voltarão a negociar 45 dias após o fracasso das conversas de 27 de março. Antes da greve geral do dia 21, bônus seguem como ponto central.",
-        "body": "A administração e o sindicato da Samsung Electronics voltarão à mesa de negociações 45 dias depois do colapso das conversas intensivas de 27 de março, com mediação do governo. Segundo o Ministério do Emprego e Trabalho no dia 8, Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, reuniu-se recentemente com Choi Seung-ho, presidente do maior sindicato da Samsung Electronics, o sindicato supraempresarial, e recomendou o procedimento de ajuste posterior. O sindicato aceitou após análise interna. O ajuste posterior permite que a Comissão Nacional de Relações Trabalhistas volte a mediar se ambas as partes concordarem, mesmo depois de o sindicato obter direito legal de greve com a suspensão do processo anterior. As negociações intensivas ocorrerão nos dias 11 e 12 deste mês. Pelo sindicato participarão Choi e os vice-presidentes Lee Song-i e Kim Jae-won; os negociadores da empresa ainda não foram definidos. A diferença sobre fonte de recursos e forma de pagamento dos bônus continua grande. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung Electronics nimmt Tarifgespräche nach 45 Tagen mit Regierungsvermittlung wieder auf, Bonusstreit bleibt",
-        "excerpt": "Samsung Electronics und die Gewerkschaft nehmen 45 Tage nach dem Scheitern der Gespräche vom 27. März den Dialog wieder auf. Vor dem Generalstreik am 21. bleiben Bonusfinanzierung und Auszahlung strittig.",
-        "body": "Management und Gewerkschaft von Samsung Electronics kehren dank staatlicher Vermittlung 45 Tage nach dem Scheitern intensiver Verhandlungen am 27. März an den Verhandlungstisch zurück. Nach Angaben des Ministeriums für Beschäftigung und Arbeit vom 8. traf Kim Do-hyung, Leiter des regionalen Beschäftigungs- und Arbeitsamts Gyeonggi, kürzlich Choi Seung-ho, den Vorsitzenden der größten Samsung-Electronics-Gewerkschaft, der Supra-Enterprise Union, und empfahl ein Verfahren der nachträglichen Schlichtung. Die Gewerkschaft nahm dies nach interner Prüfung an. Diese Schlichtung erlaubt der Nationalen Arbeitsbeziehungskommission, erneut zu vermitteln, wenn beide Seiten zustimmen, auch nachdem die Gewerkschaft wegen des Stopps des vorherigen Verfahrens ein legales Streikrecht erhalten hat. Die intensiven Gespräche sollen am 11. und 12. dieses Monats stattfinden. Für die Gewerkschaft nehmen Choi sowie die Vizevorsitzenden Lee Song-i und Kim Jae-won teil; die Verhandler des Unternehmens stehen noch nicht fest. Die Differenzen über Finanzierung und Auszahlung der Leistungsboni bleiben groß. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics reprend le dialogue social après 45 jours grâce à l’État, mais le désaccord sur les primes demeure",
-        "excerpt": "Samsung Electronics et son syndicat reprendront les discussions 45 jours après l’échec du 27 mars. À l’approche de la grève générale du 21, le financement et le versement des primes restent en débat.",
-        "body": "La direction et le syndicat de Samsung Electronics vont reprendre les négociations 45 jours après l’échec des discussions intensives du 27 mars, grâce à la médiation du gouvernement. Selon le ministère de l’Emploi et du Travail le 8, Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, a récemment rencontré Choi Seung-ho, président du plus grand syndicat de Samsung Electronics, le syndicat supra-entreprise, et lui a recommandé une procédure d’ajustement postérieur. Le syndicat l’a acceptée après examen interne. Cette procédure permet à la Commission nationale des relations du travail de reprendre une médiation si les deux parties y consentent, même après que le syndicat a obtenu un droit légal de grève à la suite de l’arrêt de la procédure précédente. Les discussions intensives auront lieu les 11 et 12 de ce mois. Côté syndical, Choi et les vice-présidents Lee Song-i et Kim Jae-won participeront; les négociateurs de l’entreprise ne sont pas encore confirmés. Les écarts restent importants sur le financement et le mode de versement des primes. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس تستأنف الحوار العمالي بعد 45 يوما بوساطة حكومية وخلاف المكافآت مستمر",
-        "excerpt": "تستأنف إدارة سامسونغ إلكترونيكس ونقابتها المحادثات بعد 45 يوما من انهيار مفاوضات 27 مارس. وقبل الإضراب العام في 21، تبقى موارد مكافآت الأداء وطريقة دفعها محور الخلاف.",
-        "body": "تعود إدارة سامسونغ إلكترونيكس والنقابة إلى طاولة التفاوض بعد 45 يوما من انهيار المفاوضات المكثفة في 27 مارس، وذلك بوساطة من الحكومة. وبحسب وزارة التوظيف والعمل في اليوم الثامن، التقى كيم دو-هيونغ، رئيس مكتب التوظيف والعمل الإقليمي في كيونغي، مؤخرا تشوي سونغ-هو، رئيس أكبر نقابة في سامسونغ إلكترونيكس وهي النقابة فوق المؤسسية، وأوصى بإجراء تسوية لاحقة. وقبلت النقابة ذلك بعد مراجعة داخلية. وتتيح التسوية اللاحقة للجنة علاقات العمل المركزية التدخل مجددا إذا وافق الطرفان، حتى بعد توقف إجراء الوساطة السابق وحصول النقابة على حق إضراب قانوني. ومن المقرر إجراء مفاوضات مكثفة يومي 11 و12 من هذا الشهر. وسيحضر عن النقابة تشوي ونائبا الرئيس لي سونغ-يي وكيم جاي-وون، بينما لم تحدد الشركة بعد مفاوضيها. ولا تزال الفجوة كبيرة بشأن مصدر تمويل مكافآت الأداء وطريقة دفعها. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics में सरकार की मध्यस्थता से 45 दिन बाद वार्ता फिर शुरू, बोनस विवाद कायम",
-        "excerpt": "Samsung Electronics प्रबंधन और यूनियन 27 मार्च की वार्ता विफल होने के 45 दिन बाद बातचीत फिर शुरू करेंगे। 21 तारीख की आम हड़ताल से पहले प्रदर्शन बोनस के स्रोत और भुगतान तरीके पर मतभेद बने हैं।",
-        "body": "Samsung Electronics का प्रबंधन और यूनियन सरकार की मध्यस्थता के बाद 27 मार्च को गहन वार्ता विफल होने के 45 दिन बाद फिर बातचीत की मेज पर लौटेंगे। रोजगार और श्रम मंत्रालय ने 8 तारीख को बताया कि ग्योंगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्योंग ने हाल में Samsung Electronics की सबसे बड़ी यूनियन, सुपर-एंटरप्राइज यूनियन, के अध्यक्ष चोई स्युंग-हो से मुलाकात की और बाद-समायोजन प्रक्रिया का सुझाव दिया। यूनियन ने आंतरिक समीक्षा के बाद इसे स्वीकार किया। यह प्रक्रिया केंद्रीय श्रम संबंध आयोग को फिर मध्यस्थता करने की अनुमति देती है, यदि दोनों पक्ष सहमत हों, भले ही पिछली मध्यस्थता रुकने के बाद यूनियन को कानूनी हड़ताल अधिकार मिल चुका हो। गहन वार्ता इस महीने की 11 और 12 तारीख को होगी। यूनियन की ओर से चोई और उपाध्यक्ष ली सोंग-ई तथा किम जे-वोन सहित तीन लोग शामिल होंगे; कंपनी के वार्ताकार अभी तय नहीं हैं। प्रदर्शन बोनस की राशि के स्रोत और भुगतान पद्धति पर मतभेद अभी भी बड़े हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Samsung Electronics Buka Lagi Dialog Buruh Setelah 45 Hari Lewat Mediasi Pemerintah, Isu Bonus Masih Mengganjal",
-        "excerpt": "Manajemen dan serikat Samsung Electronics akan kembali berunding 45 hari setelah negosiasi 27 Maret gagal. Menjelang mogok total pada tanggal 21, sumber dana dan cara pembayaran bonus masih menjadi isu utama.",
-        "body": "Manajemen dan serikat Samsung Electronics akan kembali ke meja perundingan 45 hari setelah negosiasi intensif pada 27 Maret gagal, menyusul mediasi pemerintah. Menurut Kementerian Ketenagakerjaan pada tanggal 8, Kim Do-hyung, kepala Kantor Ketenagakerjaan Regional Gyeonggi, baru-baru ini bertemu Choi Seung-ho, ketua serikat terbesar Samsung Electronics, yaitu serikat supra-perusahaan, dan menyarankan prosedur penyesuaian pasca-mediasi. Serikat menerimanya setelah kajian internal. Prosedur ini memungkinkan Komisi Hubungan Perburuhan Nasional kembali menjadi mediator jika kedua pihak setuju, bahkan setelah serikat memperoleh hak mogok legal karena proses mediasi sebelumnya dihentikan. Perundingan intensif dijadwalkan pada tanggal 11 dan 12 bulan ini. Dari pihak serikat, Choi serta wakil ketua Lee Song-i dan Kim Jae-won akan hadir; perunding dari perusahaan belum ditetapkan. Namun perbedaan soal sumber dana dan metode pembayaran bonus kinerja masih besar. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "0b1c4ac4a78d",
-    "slug": "머스크-반도체-독립-선언-테라팹-1190억달러-투자-186834",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T17:25:07.144Z",
-    "updatedAt": "2026-05-08T17:25:07.144Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889749/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889749/2",
-    "titleFingerprint": "6e363c83b234f912dd06d69f7d36b1ce51ac363c",
-    "dedupKeys": [
-      "0b1c4ac4a78dc4ec63b190f629b4c97cac69db02",
-      "6e363c83b234f912dd06d69f7d36b1ce51ac363c",
-      "e578fcd5e162910c571afd447f469687e8a13718"
-    ],
-    "imageUrl": "/images/articles/0b1c4ac4a78d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "머스크 테라팹 1190억달러 투자 계획, 반도체 독립 승부수",
-        "excerpt": "일론 머스크가 이끄는 스페이스X가 텍사스 그라임스 카운티에 초대형 반도체 공장 ‘테라팹’을 추진하며 최대 1190억달러 투자를 계획한 것으로 알려졌다.",
-        "body": "일론 머스크가 이끄는 스페이스X가 미국 텍사스주 그라임스 카운티에 초대형 반도체 공장 ‘테라팹(Terafab)’을 세우기 위해 최대 1190억달러를 투자할 계획인 것으로 나타났다. 7일 현지 공청회 공고문에 따르면 테라팹 프로젝트 1단계 투자 비용은 최소 550억달러, 전체 투자 규모는 추가 건설비를 포함해 최대 1190억달러에 이를 전망이다. 이는 통상 100억~300억달러 수준인 첨단 반도체 공장 건설비를 크게 웃도는 규모다. 테라팹은 스페이스X, 테슬라, xAI와 인텔이 공동 추진하는 AI 칩 생산 프로젝트로, 그라임스 카운티는 미국 내 반도체 생산 역량을 획기적으로 확대할 투자라고 평가했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Musk’s $119 Billion Terafab Plan Signals a Push for Chip Independence",
-        "excerpt": "SpaceX, led by Elon Musk, is reportedly planning to invest up to $119 billion in Terafab, a massive semiconductor plant project in Grimes County, Texas.",
-        "body": "SpaceX, led by Elon Musk, is reportedly planning to invest up to $119 billion to build a massive semiconductor plant called Terafab in Grimes County, Texas. According to a public hearing notice cited on the 7th local time, the first phase of the Terafab project lists a minimum investment cost of $55 billion, while total spending, including additional construction costs, could reach $119 billion. That scale far exceeds the usual $10 billion to $30 billion cost range for advanced semiconductor plants. Terafab is an AI chip production project jointly pursued by SpaceX, Tesla, xAI and Intel. Grimes County described it as an investment that would sharply expand semiconductor production capacity in the United States. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "マスク氏の1190億ドル『テラファブ』計画、半導体独立へ大型投資",
-        "excerpt": "イーロン・マスク氏率いるスペースXが、米テキサス州グライムス郡で超大型半導体工場『テラファブ』に最大1190億ドルを投じる計画とされる。",
-        "body": "イーロン・マスク氏率いるスペースXが、米テキサス州グライムス郡に超大型半導体工場『テラファブ（Terafab）』を建設するため、最大1190億ドルを投資する計画であることが明らかになった。現地時間7日に伝えられた公聴会公告によると、テラファブ計画の第1段階の投資額は少なくとも550億ドルで、追加の建設費を含めた総投資額は最大1190億ドルに達する見通しだ。通常、先端半導体工場の建設費が100億〜300億ドル規模であることを考えると、極めて大きな投資となる。テラファブはスペースX、テスラ、xAI、インテルが共同で進めるAIチップ生産プロジェクトで、グライムス郡は米国内の半導体生産能力を大幅に拡大する投資だと評価した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "马斯克1190亿美元Terafab计划，押注半导体独立生产",
-        "excerpt": "据称，埃隆·马斯克领导的SpaceX计划在美国得克萨斯州格赖姆斯县建设超大型半导体工厂Terafab，最高投资1190亿美元。",
-        "body": "埃隆·马斯克领导的SpaceX计划在美国得克萨斯州格赖姆斯县建设超大型半导体工厂“Terafab”，投资额最高可达1190亿美元。据当地时间7日披露的公开听证会公告，Terafab项目第一阶段投资成本至少为550亿美元，加上后续建设费用后，总投资规模预计最高可达1190亿美元。考虑到通常先进半导体工厂建设成本约为100亿至300亿美元，这一规模明显更高。Terafab是SpaceX、特斯拉、xAI与英特尔共同推进的AI芯片生产项目。格赖姆斯县评价称，该投资将大幅扩大美国国内半导体生产能力。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Musk planea invertir hasta 119.000 millones de dólares en Terafab",
-        "excerpt": "SpaceX, dirigida por Elon Musk, planea invertir hasta 119.000 millones de dólares en Terafab, una megafábrica de semiconductores en el condado de Grimes, Texas.",
-        "body": "SpaceX, dirigida por Elon Musk, planea invertir hasta 119.000 millones de dólares para construir una megafábrica de semiconductores llamada Terafab en el condado de Grimes, Texas. Según un aviso de audiencia pública citado el día 7, hora local, la primera fase del proyecto Terafab contempla un coste mínimo de inversión de 55.000 millones de dólares, mientras que el gasto total, incluidos costes adicionales de construcción, podría alcanzar los 119.000 millones de dólares. La cifra supera ampliamente el rango habitual de 10.000 a 30.000 millones de dólares para una planta avanzada de semiconductores. Terafab es un proyecto de producción de chips de IA impulsado conjuntamente por SpaceX, Tesla, xAI e Intel. El condado de Grimes lo calificó como una inversión que ampliaría de forma significativa la capacidad de producción de semiconductores en Estados Unidos. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Musk planeja até US$ 119 bilhões para Terafab e produção de chips",
-        "excerpt": "A SpaceX, liderada por Elon Musk, planeja investir até US$ 119 bilhões na Terafab, megafábrica de semicondutores prevista para o condado de Grimes, no Texas.",
-        "body": "A SpaceX, liderada por Elon Musk, planeja investir até US$ 119 bilhões para construir uma megafábrica de semicondutores chamada Terafab no condado de Grimes, no Texas. Segundo um aviso de audiência pública citado no dia 7, horário local, a primeira fase do projeto Terafab prevê investimento mínimo de US$ 55 bilhões, enquanto o total, incluindo custos adicionais de construção, pode chegar a US$ 119 bilhões. O valor supera com folga o custo usual de US$ 10 bilhões a US$ 30 bilhões para fábricas avançadas de semicondutores. A Terafab é um projeto de produção de chips de IA promovido em conjunto por SpaceX, Tesla, xAI e Intel. O condado de Grimes avaliou o investimento como uma iniciativa capaz de ampliar de forma marcante a capacidade de produção de semicondutores nos Estados Unidos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Musk plant bis zu 119 Milliarden Dollar für Terafab-Chipfabrik",
-        "excerpt": "SpaceX unter Elon Musk plant Berichten zufolge bis zu 119 Milliarden Dollar für Terafab, eine riesige Halbleiterfabrik im Grimes County in Texas.",
-        "body": "SpaceX unter der Führung von Elon Musk plant Berichten zufolge Investitionen von bis zu 119 Milliarden Dollar, um im Grimes County im US-Bundesstaat Texas eine riesige Halbleiterfabrik namens Terafab zu errichten. Laut einer am 7. Ortszeit zitierten Bekanntmachung für eine öffentliche Anhörung werden die Kosten der ersten Projektphase mit mindestens 55 Milliarden Dollar angegeben. Einschließlich weiterer Baukosten könnte das Gesamtvolumen bis zu 119 Milliarden Dollar erreichen. Damit läge das Vorhaben deutlich über den üblichen 10 bis 30 Milliarden Dollar, die der Bau moderner Halbleiterwerke normalerweise kostet. Terafab ist ein Projekt zur Produktion von KI-Chips, das gemeinsam von SpaceX, Tesla, xAI und Intel vorangetrieben wird. Grimes County bewertete es als Investition, die die Halbleiterproduktion in den USA erheblich ausweiten würde. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Musk prévoit jusqu’à 119 milliards de dollars pour l’usine Terafab",
-        "excerpt": "SpaceX, dirigée par Elon Musk, prévoirait d’investir jusqu’à 119 milliards de dollars dans Terafab, une méga-usine de semi-conducteurs au comté de Grimes, au Texas.",
-        "body": "SpaceX, dirigée par Elon Musk, prévoirait d’investir jusqu’à 119 milliards de dollars pour construire une méga-usine de semi-conducteurs baptisée Terafab dans le comté de Grimes, au Texas. Selon un avis d’audience publique cité le 7, heure locale, la première phase du projet Terafab affiche un coût d’investissement minimal de 55 milliards de dollars, tandis que le montant total, en incluant les coûts de construction supplémentaires, pourrait atteindre 119 milliards de dollars. Ce niveau dépasse largement les 10 à 30 milliards de dollars généralement nécessaires pour construire une usine avancée de semi-conducteurs. Terafab est un projet de production de puces d’IA mené conjointement par SpaceX, Tesla, xAI et Intel. Le comté de Grimes l’a présenté comme un investissement susceptible d’élargir fortement les capacités de production de semi-conducteurs aux États-Unis. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "ماسك يخطط لاستثمار 119 مليار دولار في تيرافاب لإنتاج الرقائق",
-        "excerpt": "تخطط سبيس إكس بقيادة إيلون ماسك لاستثمار ما يصل إلى 119 مليار دولار في مشروع تيرافاب، وهو مصنع ضخم لأشباه الموصلات في مقاطعة غرايمز بولاية تكساس.",
-        "body": "تخطط سبيس إكس، بقيادة إيلون ماسك، لاستثمار ما يصل إلى 119 مليار دولار لبناء مصنع ضخم لأشباه الموصلات باسم “تيرافاب” في مقاطعة غرايمز بولاية تكساس الأميركية. ووفق إشعار جلسة استماع عامة ورد في تقارير يوم 7 بالتوقيت المحلي، تبلغ تكلفة المرحلة الأولى من مشروع تيرافاب ما لا يقل عن 55 مليار دولار، بينما قد يصل إجمالي الاستثمار، مع تكاليف البناء الإضافية، إلى 119 مليار دولار. ويتجاوز هذا الرقم بكثير النطاق المعتاد لتكلفة بناء مصانع أشباه الموصلات المتقدمة، والذي يتراوح بين 10 و30 مليار دولار. تيرافاب مشروع لإنتاج رقائق الذكاء الاصطناعي تشارك فيه سبيس إكس وتسلا وxAI وإنتل. ووصفت مقاطعة غرايمز المشروع بأنه استثمار سيزيد بشكل كبير قدرة إنتاج أشباه الموصلات داخل الولايات المتحدة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "मस्क की Terafab योजना, चिप उत्पादन के लिए 119 अरब डॉलर तक निवेश",
-        "excerpt": "एलन मस्क के नेतृत्व वाली SpaceX टेक्सास के ग्राइम्स काउंटी में विशाल सेमीकंडक्टर संयंत्र Terafab के लिए 119 अरब डॉलर तक निवेश करने की योजना बना रही है।",
-        "body": "एलन मस्क के नेतृत्व वाली SpaceX अमेरिका के टेक्सास राज्य के ग्राइम्स काउंटी में Terafab नामक विशाल सेमीकंडक्टर संयंत्र बनाने के लिए 119 अरब डॉलर तक निवेश करने की योजना बना रही है। स्थानीय समयानुसार 7 तारीख को उद्धृत सार्वजनिक सुनवाई सूचना के अनुसार, Terafab परियोजना के पहले चरण की निवेश लागत कम से कम 55 अरब डॉलर है, जबकि अतिरिक्त निर्माण लागतों को मिलाकर कुल निवेश 119 अरब डॉलर तक पहुंच सकता है। यह राशि उन्नत सेमीकंडक्टर संयंत्रों की सामान्य 10 अरब से 30 अरब डॉलर की निर्माण लागत से कहीं अधिक है। Terafab, SpaceX, Tesla, xAI और Intel द्वारा संयुक्त रूप से 추진 किया जा रहा AI चिप उत्पादन प्रोजेक्ट है। ग्राइम्स काउंटी ने इसे अमेरिका में सेमीकंडक्टर उत्पादन क्षमता को बड़े पैमाने पर बढ़ाने वाला निवेश बताया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Musk Siapkan Investasi Terafab hingga US$119 Miliar untuk Chip AI",
-        "excerpt": "SpaceX yang dipimpin Elon Musk disebut berencana menginvestasikan hingga US$119 miliar untuk Terafab, pabrik semikonduktor raksasa di Grimes County, Texas.",
-        "body": "SpaceX yang dipimpin Elon Musk disebut berencana menginvestasikan hingga US$119 miliar untuk membangun pabrik semikonduktor raksasa bernama Terafab di Grimes County, Texas, Amerika Serikat. Menurut pengumuman dengar pendapat publik yang dikutip pada tanggal 7 waktu setempat, biaya investasi tahap pertama proyek Terafab tercatat minimal US$55 miliar, sementara total investasi, termasuk biaya konstruksi tambahan, diperkirakan dapat mencapai US$119 miliar. Nilai itu jauh melampaui biaya umum pembangunan pabrik semikonduktor canggih yang biasanya berada di kisaran US$10 miliar hingga US$30 miliar. Terafab adalah proyek produksi chip AI yang digarap bersama oleh SpaceX, Tesla, xAI, dan Intel. Grimes County menilai proyek ini sebagai investasi yang akan memperluas secara besar kapasitas produksi semikonduktor di Amerika Serikat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "7a9750785c65",
-    "slug": "삼성전자-노조-잇단-균열-2대-노조-1대-노조에-사과-요구-639611",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-08T17:24:03.892Z",
-    "updatedAt": "2026-05-08T17:24:03.892Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
-    "titleFingerprint": "56811067bc0d508433564f4c0ae1a80fa63663d6",
-    "dedupKeys": [
-      "7a9750785c652c0ed855c7ecc0d865779ce25681",
-      "56811067bc0d508433564f4c0ae1a80fa63663d6",
-      "c44c4b234f2f4a7f20cfda1d2756a360723e58ea"
-    ],
-    "imageUrl": "/images/articles/7a9750785c65.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 갈등 확산…2대 노조, 1대 노조에 공식 사과 요구",
-        "excerpt": "삼성전자 노사가 협상 재개를 앞둔 가운데 8일 재계에 따르면 2대 노조 전삼노가 1대 노조 초기업노조에 공문을 보내 공식 사과를 요구했다.",
-        "body": "삼성전자 노사가 협상을 재개하기로 했지만 노조 내부 갈등은 더 커지고 있다. 8일 재계에 따르면 삼성전자 2대 노조인 전국삼성전자노동조합은 전날 최대 노조인 초기업노동조합 삼성전자 지부에 공문을 보내 공식 사과를 요구했다. 전삼노는 최승호 초기업노조 위원장이 DX 부문을 챙기지 않는다는 취지로 말한 교섭위원에게 ‘교섭 배제’ 등을 거론하며 협박성 발언을 했다고 주장했다. 전삼노는 이를 “DX 조합원의 목소리를 지우겠다는 행위”라고 지적했다. 앞서 4일에는 3대 노조인 삼성전자노동조합동행이 초기업노조가 자신들을 ‘어용 노조’라고 비하했다며 공동교섭단에서 이탈했다. 근로자 절반이 넘는 7만3000명 이상이 가입한 과반 노조와 다른 노조 간 충돌이 이어지며 향후 교섭에도 부담이 커질 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics union rift deepens as No. 2 union demands apology",
-        "excerpt": "As Samsung Electronics and its unions prepare to resume talks, industry sources said on May 8 that the second-largest union demanded a formal apology from the largest union.",
-        "body": "Samsung Electronics management and labor have agreed to resume negotiations, but divisions inside the union camp are widening. According to industry sources on May 8, the National Samsung Electronics Union, the company’s second-largest union, sent an official letter the previous day to the Samsung Electronics branch of the Super-Enterprise Labor Union, the largest union, demanding a formal apology. The union claimed Chair Choi Seung-ho made threatening remarks, including mentioning exclusion from bargaining, toward a bargaining member who had said the chair was not looking after the DX division. It said the incident went beyond a personal attack and amounted to an attempt to erase the voices of DX members. On May 4, the third-largest union, Samsung Electronics Labor Union Donghaeng, left the joint bargaining group, saying the largest union had disparaged it as a pro-management union. With the majority union, which has more than 73,000 members and represents over half of employees, now clashing with other unions, pressure on future talks is expected to grow. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労組対立拡大、2大労組が最大労組に謝罪要求",
-        "excerpt": "サムスン電子の労使が交渉再開に向かう中、8日の財界情報によると第2労組が最大労組に公文書で公式謝罪を求めた。",
-        "body": "サムスン電子の労使は交渉を再開する方針だが、労組内部の亀裂は深まっている。8日の財界情報によると、同社第2労組の全国サムスン電子労働組合は前日、最大労組である超企業労働組合サムスン電子支部に公文書を送り、公式謝罪を要求した。全サム労は、崔承浩・超企業労組委員長が「委員長がDX部門を十分に見ていない」という趣旨の発言をした交渉委員に対し、「交渉からの排除」などに触れる威圧的発言をしたと主張した。全サム労はこれを「個人攻撃を超え、DX組合員の声を消そうとする行為」と指摘した。これに先立つ4日には、第3労組のサムスン電子労働組合同幸が、超企業労組から「御用労組」とおとしめられたとして共同交渉団を離脱した。従業員の半数を超える7万3000人以上が加入する過半労組と他労組の衝突が続き、今後の交渉にも負担が増す見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会内部分歧扩大，第二大工会要求最大工会道歉",
-        "excerpt": "在三星电子劳资双方准备重启谈判之际，据8日业界消息，第二大工会向最大工会发送公文，要求其正式道歉。",
-        "body": "三星电子劳资双方虽已决定重启谈判，但工会内部裂痕正在加深。据8日业界消息，三星电子第二大工会全国三星电子劳动组合前一天向最大工会超企业劳动组合三星电子支部发送公文，要求正式道歉。全三劳称，超企业工会委员长崔承镐对一名谈判委员作出带有威胁性质的发言，包括提及“排除出谈判”等，而该谈判委员此前曾表示委员长未照顾DX部门。全三劳在公文中指出，这已超出个人攻击，是“试图抹去DX会员声音的行为”。此前4日，第三大工会三星电子劳动组合同行也因超企业工会称其为“御用工会”而突然退出共同谈判团。加入人数超过7.3万人、占员工半数以上的过半工会与其他工会接连冲突，预计将给今后的谈判带来更大压力。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Crece la fractura sindical en Samsung Electronics: el segundo sindicato exige disculpas",
-        "excerpt": "Mientras Samsung Electronics y sus sindicatos se preparan para reanudar negociaciones, fuentes empresariales dijeron el 8 de mayo que el segundo sindicato exigió disculpas formales al mayor.",
-        "body": "Samsung Electronics y sus sindicatos acordaron reanudar las negociaciones, pero las divisiones internas entre las organizaciones laborales se están intensificando. Según fuentes empresariales citadas el 8 de mayo, el Sindicato Nacional de Samsung Electronics, segundo mayor sindicato de la compañía, envió el día anterior una carta oficial a la filial de Samsung Electronics del Sindicato Supraempresarial, la mayor organización, para exigir una disculpa formal. El sindicato afirmó que el presidente Choi Seung-ho hizo comentarios de tono amenazante, incluida la posibilidad de excluir de la negociación a un miembro que había dicho que el presidente no atendía al área DX. La organización señaló que el hecho iba más allá de un ataque personal y equivalía a borrar la voz de los afiliados de DX. El 4 de mayo, el tercer sindicato, Samsung Electronics Labor Union Donghaeng, abandonó la mesa conjunta tras acusar al mayor sindicato de llamarlo “sindicato progubernamental de la empresa”. Con más de 73.000 afiliados, más de la mitad de los trabajadores, el sindicato mayoritario afronta choques con otras organizaciones, lo que podría aumentar la carga sobre futuras negociaciones. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Conflito sindical na Samsung Electronics cresce e 2º sindicato exige desculpas",
-        "excerpt": "Enquanto Samsung Electronics e sindicatos se preparam para retomar negociações, fontes do setor disseram em 8 de maio que o segundo maior sindicato exigiu desculpas formais do maior.",
-        "body": "A Samsung Electronics e seus sindicatos decidiram retomar as negociações, mas as divisões internas entre as entidades trabalhistas estão se aprofundando. Segundo fontes empresariais em 8 de maio, o Sindicato Nacional da Samsung Electronics, segundo maior da companhia, enviou no dia anterior um ofício à filial da Samsung Electronics do Sindicato Supraempresarial, a maior organização, exigindo um pedido formal de desculpas. O sindicato afirmou que o presidente Choi Seung-ho fez comentários de caráter ameaçador, incluindo menção à exclusão das negociações, contra um negociador que havia dito que o presidente não cuidava do setor DX. A entidade disse que o episódio foi além de um ataque pessoal e representou uma tentativa de apagar a voz dos membros do DX. Em 4 de maio, o terceiro maior sindicato, Samsung Electronics Labor Union Donghaeng, deixou o grupo conjunto de negociação, alegando que o maior sindicato o depreciou como “sindicato alinhado à empresa”. Com mais de 73 mil filiados, acima da metade dos empregados, o sindicato majoritário enfrenta choques com outras entidades, o que deve pesar sobre futuras negociações. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaften im Streit: zweitgrößte fordert Entschuldigung",
-        "excerpt": "Während Samsung Electronics und die Arbeitnehmerseite Gespräche wiederaufnehmen wollen, verlangte die zweitgrößte Gewerkschaft laut Branchenkreisen am 8. Mai eine formelle Entschuldigung von der größten.",
-        "body": "Samsung Electronics und die Arbeitnehmerseite wollen die Verhandlungen wiederaufnehmen, doch die Spaltung innerhalb der Gewerkschaften vertieft sich. Nach Angaben aus Wirtschaftskreisen vom 8. Mai schickte die National Samsung Electronics Union, die zweitgrößte Gewerkschaft des Unternehmens, am Vortag ein offizielles Schreiben an den Samsung-Electronics-Zweig der Super-Enterprise Labor Union, die größte Gewerkschaft, und verlangte eine formelle Entschuldigung. Die Gewerkschaft erklärte, der Vorsitzende Choi Seung-ho habe gegenüber einem Verhandlungsmitglied, das gesagt hatte, der Vorsitzende kümmere sich nicht um den DX-Bereich, drohende Äußerungen gemacht und unter anderem einen Ausschluss von Verhandlungen erwähnt. Dies gehe über einen persönlichen Angriff hinaus und bedeute, die Stimme der DX-Mitglieder auslöschen zu wollen. Bereits am 4. Mai hatte die drittgrößte Gewerkschaft, Samsung Electronics Labor Union Donghaeng, die gemeinsame Verhandlungsgruppe verlassen, nachdem sie der größten Gewerkschaft vorgeworfen hatte, sie als arbeitgebernahe Gewerkschaft herabzusetzen. Da die Mehrheitsgewerkschaft mit mehr als 73.000 Mitgliedern und damit über der Hälfte der Beschäftigten nun mit anderen Gewerkschaften kollidiert, dürfte der Druck auf künftige Gespräche steigen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics: la fracture syndicale s’aggrave, le 2e syndicat exige des excuses",
-        "excerpt": "Alors que Samsung Electronics et ses syndicats doivent reprendre les négociations, des sources du secteur ont indiqué le 8 mai que le deuxième syndicat a demandé des excuses formelles au plus grand.",
-        "body": "Samsung Electronics et ses syndicats ont convenu de reprendre les négociations, mais les tensions internes au camp syndical s’aggravent. Selon des sources économiques le 8 mai, le Syndicat national de Samsung Electronics, deuxième organisation de l’entreprise, a envoyé la veille un courrier officiel à la branche Samsung Electronics du Syndicat supra-entreprise, la plus grande organisation, pour exiger des excuses formelles. Le syndicat affirme que le président Choi Seung-ho a tenu des propos de nature menaçante, évoquant notamment une exclusion des négociations, envers un négociateur qui avait déclaré que le président ne s’occupait pas du secteur DX. Il a estimé que cela dépassait l’attaque personnelle et revenait à effacer la voix des membres de DX. Le 4 mai, le troisième syndicat, Samsung Electronics Labor Union Donghaeng, avait quitté le groupe de négociation commun, accusant le plus grand syndicat de l’avoir rabaissé en le qualifiant de syndicat favorable à la direction. Avec plus de 73.000 membres, soit plus de la moitié des salariés, le syndicat majoritaire est désormais en conflit avec d’autres organisations, ce qui pourrait peser sur les prochaines discussions. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اتساع الخلاف بين نقابات سامسونغ إلكترونيكس والثانية تطالب الكبرى باعتذار",
-        "excerpt": "بينما تستعد سامسونغ إلكترونيكس ونقاباتها لاستئناف المفاوضات، قالت مصادر اقتصادية في 8 مايو إن ثاني أكبر نقابة طلبت اعتذارا رسميا من أكبر نقابة.",
-        "body": "اتفقت إدارة سامسونغ إلكترونيكس والنقابات على استئناف المفاوضات، لكن الانقسام داخل المعسكر النقابي يزداد حدة. وبحسب مصادر اقتصادية في 8 مايو، أرسلت النقابة الوطنية لسامسونغ إلكترونيكس، وهي ثاني أكبر نقابة في الشركة، في اليوم السابق خطابا رسميا إلى فرع سامسونغ إلكترونيكس في نقابة العمال فوق الشركات، وهي أكبر نقابة، مطالبة باعتذار رسمي. وقالت النقابة إن الرئيس تشوي سونغ هو أدلى بتصريحات ذات طابع تهديدي، من بينها الإشارة إلى الاستبعاد من التفاوض، تجاه عضو تفاوض قال إن الرئيس لا يهتم بقطاع DX. واعتبرت أن ذلك يتجاوز الهجوم الشخصي ويمثل محاولة لإسكات أصوات أعضاء DX. وفي 4 مايو، غادرت ثالث أكبر نقابة، وهي نقابة عمال سامسونغ إلكترونيكس دونغ هينغ، فريق التفاوض المشترك، قائلة إن أكبر نقابة وصفتها بازدراء بأنها نقابة موالية للإدارة. ومع امتلاك النقابة الأكبر أكثر من 73 ألف عضو، أي ما يزيد على نصف العاملين، فإن استمرار التصادم مع النقابات الأخرى قد يزيد العبء على المفاوضات المقبلة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics यूनियनों में दरार गहरी, दूसरी यूनियन ने मांगी माफी",
-        "excerpt": "Samsung Electronics में प्रबंधन और यूनियनों की वार्ता फिर शुरू होने से पहले, उद्योग सूत्रों ने 8 मई को बताया कि दूसरी सबसे बड़ी यूनियन ने सबसे बड़ी यूनियन से औपचारिक माफी मांगी।",
-        "body": "Samsung Electronics प्रबंधन और यूनियनों ने वार्ता फिर शुरू करने पर सहमति बनाई है, लेकिन यूनियनों के भीतर मतभेद और गहरे हो रहे हैं। 8 मई को उद्योग सूत्रों के अनुसार, कंपनी की दूसरी सबसे बड़ी यूनियन National Samsung Electronics Union ने एक दिन पहले सबसे बड़ी यूनियन Super-Enterprise Labor Union की Samsung Electronics शाखा को आधिकारिक पत्र भेजकर औपचारिक माफी की मांग की। यूनियन ने आरोप लगाया कि अध्यक्ष Choi Seung-ho ने उस वार्ता सदस्य के प्रति धमकी भरे बयान दिए, जिसमें वार्ता से बाहर करने जैसी बात शामिल थी; उस सदस्य ने कहा था कि अध्यक्ष DX विभाग का ध्यान नहीं रख रहे। यूनियन ने इसे व्यक्तिगत हमले से आगे जाकर DX सदस्यों की आवाज मिटाने की कोशिश बताया। इससे पहले 4 मई को तीसरी सबसे बड़ी यूनियन Samsung Electronics Labor Union Donghaeng ने साझा वार्ता दल छोड़ दिया था, क्योंकि उसका कहना था कि सबसे बड़ी यूनियन ने उसे प्रबंधन समर्थक यूनियन कहकर नीचा दिखाया। 73,000 से अधिक सदस्यों और कर्मचारियों के आधे से ज्यादा प्रतिनिधित्व वाली बहुमत यूनियन तथा अन्य यूनियनों के बीच टकराव जारी रहने से आगे की वार्ताओं पर दबाव बढ़ सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Konflik serikat Samsung Electronics melebar, serikat kedua tuntut permintaan maaf",
-        "excerpt": "Saat Samsung Electronics dan serikat pekerja bersiap melanjutkan perundingan, sumber industri pada 8 Mei menyebut serikat terbesar kedua menuntut permintaan maaf resmi dari serikat terbesar.",
-        "body": "Samsung Electronics dan pihak serikat telah sepakat melanjutkan perundingan, tetapi perpecahan di internal serikat semakin dalam. Menurut sumber industri pada 8 Mei, National Samsung Electronics Union, serikat terbesar kedua di perusahaan itu, pada hari sebelumnya mengirim surat resmi kepada cabang Samsung Electronics dari Super-Enterprise Labor Union, serikat terbesar, untuk menuntut permintaan maaf resmi. Serikat tersebut menyatakan Ketua Choi Seung-ho membuat pernyataan bernada mengancam, termasuk menyebut kemungkinan dikeluarkan dari perundingan, kepada seorang anggota perunding yang mengatakan ketua tidak memperhatikan divisi DX. Mereka menilai tindakan itu melampaui serangan pribadi dan merupakan upaya menghapus suara anggota DX. Pada 4 Mei, serikat terbesar ketiga, Samsung Electronics Labor Union Donghaeng, juga keluar dari kelompok perundingan bersama setelah menyebut serikat terbesar merendahkan mereka sebagai serikat pro-manajemen. Dengan lebih dari 73.000 anggota, atau lebih dari separuh pekerja, benturan antara serikat mayoritas dan serikat lain diperkirakan menambah beban pada perundingan mendatang. Sumber: rss.donga.com"
       }
     }
   }
