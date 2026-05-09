@@ -1,5 +1,230 @@
 [
   {
+    "id": "445ac08ca766",
+    "slug": "지난달-서울-아파트-경매-낙찰률-4875개월만-최고-234865",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T16:38:05.811Z",
+    "updatedAt": "2026-05-09T16:38:05.811Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060900003",
+    "titleFingerprint": "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+    "dedupKeys": [
+      "445ac08ca766d15d92179ba6b2cc51e6ba91427b",
+      "f51dd13a732d61f1093abf3ab2b62b9b5c78125f",
+      "8f8218c2360e43b656dd3232393599fd36d073fe"
+    ],
+    "imageUrl": "/images/articles/445ac08ca766.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 경매 낙찰률 48.7%, 5개월 만에 최고치 기록",
+        "excerpt": "지난달 경매에 나온 서울 아파트 낙찰률이 48.7%를 기록해 작년 11월 이후 가장 높은 수준을 보였다고 연합뉴스가 전했다.",
+        "body": "지난달 경매 시장에 나온 서울 아파트의 낙찰률이 48.7%를 기록하며 5개월 만에 최고치를 나타냈다. 연합뉴스에 따르면 이는 작년 11월 이후 가장 높은 수준이다. 낙찰률은 경매에 나온 물건 가운데 실제로 낙찰된 비율을 뜻하는 지표로, 서울 아파트 경매 시장의 흐름을 살피는 데 활용된다. 이번 수치는 최근 서울 아파트 경매 물건 가운데 절반에 가까운 비율이 새 주인을 찾았다는 점에서 주목된다. 향후 경매 시장의 흐름을 판단할 때 관련 지표와 함께 참고될 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Auction Success Rate Hits 48.7%, Highest in Five Months",
+        "excerpt": "Seoul apartments put up for auction last month recorded a 48.7% success rate, the highest level since November last year, Yonhap News Agency reported.",
+        "body": "The success rate for Seoul apartments listed at auction last month reached 48.7%, marking the highest level in five months. According to Yonhap News Agency, the figure was the highest since November last year. The auction success rate refers to the share of listed properties that are actually sold at auction, and it is used to gauge conditions in Seoul’s apartment auction market. The latest number draws attention because nearly half of the Seoul apartment auction listings found buyers. It is expected to be referenced alongside related indicators when assessing the direction of the auction market. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ソウルのマンション競売落札率48.7%、5カ月ぶり高水準",
+        "excerpt": "先月、競売に出されたソウルのマンション落札率は48.7%となり、昨年11月以来の高水準を記録したと聯合ニュースが伝えた。",
+        "body": "先月、競売市場に出されたソウルのマンションの落札率は48.7%となり、5カ月ぶりの高水準を示した。聯合ニュースによると、これは昨年11月以来最も高い水準だ。落札率は、競売に出された物件のうち実際に落札された割合を示す指標で、ソウルのマンション競売市場の流れを把握する際に用いられる。今回の数値は、ソウルのマンション競売物件のうち半数近くが買い手を見つけた点で注目される。今後、競売市場の動きを判断する際、関連指標とともに参考にされる見通しだ。出所: yna.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓拍卖成交率达48.7%，创五个月以来最高水平",
+        "excerpt": "韩联社报道称，上月进入拍卖的首尔公寓成交率为48.7%，达到去年11月以来的最高水平。",
+        "body": "上月进入拍卖市场的首尔公寓成交率达到48.7%，创下五个月以来最高水平。据韩联社报道，这是去年11月以来的最高值。拍卖成交率是指拍卖标的中实际成交的比例，是观察首尔公寓拍卖市场走势的指标之一。此次数据受到关注，是因为近期首尔公寓拍卖标的中接近一半找到了买家。今后在判断拍卖市场走向时，该数据预计将与相关指标一同被参考。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Subasta de apartamentos en Seúl alcanza 48,7%, máximo en cinco meses",
+        "excerpt": "Los apartamentos de Seúl llevados a subasta el mes pasado registraron una tasa de adjudicación del 48,7%, la más alta desde noviembre pasado, informó Yonhap.",
+        "body": "La tasa de adjudicación de apartamentos de Seúl puestos en subasta el mes pasado llegó al 48,7%, el nivel más alto en cinco meses. Según Yonhap News Agency, se trata de la cifra más elevada desde noviembre del año pasado. La tasa de adjudicación indica la proporción de inmuebles subastados que finalmente se venden, y se utiliza para observar la evolución del mercado de subastas de apartamentos en Seúl. El dato llama la atención porque casi la mitad de las propiedades subastadas encontró comprador. Se prevé que sea tomado como referencia, junto con otros indicadores relacionados, al evaluar la dirección del mercado de subastas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Leilões de apartamentos em Seul têm taxa de 48,7%, maior em cinco meses",
+        "excerpt": "Apartamentos de Seul levados a leilão no mês passado registraram taxa de arrematação de 48,7%, o maior nível desde novembro passado, informou a Yonhap.",
+        "body": "A taxa de arrematação de apartamentos de Seul colocados em leilão no mês passado chegou a 48,7%, marcando o maior nível em cinco meses. Segundo a Yonhap News Agency, esse foi o patamar mais alto desde novembro do ano passado. A taxa de arrematação mostra a proporção de imóveis em leilão que foram efetivamente vendidos e é usada para acompanhar o movimento do mercado de leilões de apartamentos em Seul. O número chama atenção porque quase metade dos imóveis listados encontrou comprador. O dado deve ser considerado, junto com indicadores relacionados, na avaliação da trajetória do mercado de leilões. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Seouler Wohnungsauktionen: Zuschlagsquote steigt auf 48,7%, Fünfmonatshoch",
+        "excerpt": "Die Zuschlagsquote für im vergangenen Monat versteigerte Wohnungen in Seoul lag bei 48,7% und erreichte laut Yonhap den höchsten Stand seit November.",
+        "body": "Die Zuschlagsquote für Wohnungen in Seoul, die im vergangenen Monat zur Auktion kamen, erreichte 48,7% und damit den höchsten Stand seit fünf Monaten. Nach Angaben der Nachrichtenagentur Yonhap ist dies der höchste Wert seit November vergangenen Jahres. Die Zuschlagsquote bezeichnet den Anteil der angebotenen Objekte, die tatsächlich versteigert werden, und dient als Kennzahl zur Einschätzung des Auktionsmarkts für Wohnungen in Seoul. Der jüngste Wert fällt auf, weil nahezu die Hälfte der angebotenen Wohnungen einen Käufer fand. Bei der Beurteilung der weiteren Marktentwicklung dürfte er zusammen mit verwandten Indikatoren herangezogen werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Enchères d’appartements à Séoul: taux d’adjudication de 48,7%, plus haut en cinq mois",
+        "excerpt": "Les appartements de Séoul mis aux enchères le mois dernier ont enregistré un taux d’adjudication de 48,7%, le plus élevé depuis novembre dernier, selon Yonhap.",
+        "body": "Le taux d’adjudication des appartements de Séoul mis aux enchères le mois dernier a atteint 48,7%, soit son plus haut niveau en cinq mois. Selon l’agence Yonhap, il s’agit du niveau le plus élevé depuis novembre de l’an dernier. Ce taux mesure la part des biens proposés aux enchères qui sont effectivement adjugés, et sert à suivre l’évolution du marché des enchères d’appartements à Séoul. Le chiffre retient l’attention car près de la moitié des lots concernés ont trouvé preneur. Il devrait être utilisé avec d’autres indicateurs pour apprécier l’orientation du marché des enchères. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مزادات شقق سول تسجل معدل ترسية 48.7%، الأعلى خلال خمسة أشهر",
+        "excerpt": "سجلت الشقق المعروضة للمزاد في سول الشهر الماضي معدل ترسية بلغ 48.7%، وهو أعلى مستوى منذ نوفمبر الماضي، وفق وكالة يونهاب.",
+        "body": "بلغ معدل ترسية الشقق في سول التي طُرحت في المزادات الشهر الماضي 48.7%، مسجلا أعلى مستوى خلال خمسة أشهر. ووفقا لوكالة يونهاب للأنباء، فإن هذا هو أعلى مستوى منذ نوفمبر من العام الماضي. ويعني معدل الترسية نسبة العقارات المعروضة في المزاد التي تم بيعها فعليا، ويُستخدم لمتابعة اتجاه سوق مزادات الشقق في سول. وتلفت هذه النسبة الانتباه لأن ما يقرب من نصف الشقق المعروضة في المزادات وجد مشترين. ومن المتوقع أن يُستند إلى هذا المؤشر، إلى جانب مؤشرات ذات صلة، عند تقييم مسار سوق المزادات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट नीलामी दर 48.7%, पांच महीनों का उच्चतम स्तर",
+        "excerpt": "पिछले महीने नीलामी में आए सियोल अपार्टमेंट की सफल बोली दर 48.7% रही, जो पिछले नवंबर के बाद सबसे ऊंचा स्तर है, योनहाप ने बताया।",
+        "body": "पिछले महीने नीलामी बाजार में आए सियोल अपार्टमेंट की सफल बोली दर 48.7% दर्ज की गई, जो पांच महीनों का उच्चतम स्तर है। योनहाप न्यूज एजेंसी के अनुसार, यह पिछले साल नवंबर के बाद सबसे ऊंचा स्तर है। सफल बोली दर उस अनुपात को दर्शाती है जिसमें नीलामी में रखी गई संपत्तियां वास्तव में बिकती हैं, और इसका उपयोग सियोल अपार्टमेंट नीलामी बाजार की स्थिति समझने के लिए किया जाता है। यह आंकड़ा इसलिए ध्यान खींचता है क्योंकि हालिया नीलामी में रखे गए सियोल अपार्टमेंट में लगभग आधे को खरीदार मिले। आगे नीलामी बाजार की दिशा का आकलन करते समय इसे संबंधित संकेतकों के साथ संदर्भ के रूप में देखा जाएगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Lelang Apartemen Seoul Capai 48,7%, Tertinggi dalam Lima Bulan",
+        "excerpt": "Apartemen Seoul yang masuk lelang bulan lalu mencatat tingkat keberhasilan 48,7%, level tertinggi sejak November tahun lalu, menurut Yonhap.",
+        "body": "Tingkat keberhasilan lelang apartemen Seoul yang masuk pasar lelang bulan lalu mencapai 48,7%, menjadi level tertinggi dalam lima bulan. Menurut Kantor Berita Yonhap, angka ini merupakan yang tertinggi sejak November tahun lalu. Tingkat keberhasilan lelang menunjukkan proporsi properti yang benar-benar terjual dari seluruh objek lelang, dan digunakan untuk membaca arah pasar lelang apartemen di Seoul. Angka terbaru ini menarik perhatian karena hampir separuh apartemen Seoul yang dilelang menemukan pembeli. Ke depan, data tersebut diperkirakan menjadi rujukan bersama indikator terkait saat menilai pergerakan pasar lelang. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4ccea825ed34",
+    "slug": "농식품부-중동-사태-대응팀-가동봄철-농자재-수급-안정-675299",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T16:37:05.340Z",
+    "updatedAt": "2026-05-09T16:37:05.340Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
+    "titleFingerprint": "5659a5e5bf0b46af4185a634a39c793b471def8c",
+    "dedupKeys": [
+      "4ccea825ed3496bc15df47a5f5776d3805d5e484",
+      "5659a5e5bf0b46af4185a634a39c793b471def8c",
+      "3ade34dacb06487acda2efeeda614083003538ac"
+    ],
+    "imageUrl": "/images/articles/4ccea825ed34.jpg",
+    "i18n": {
+      "ko": {
+        "title": "농식품부 중동 사태 대응팀 가동, 봄철 농자재 수급 안정 유지",
+        "excerpt": "농림축산식품부는 중동 전쟁 장기화에도 주요 농자재 수급이 안정적으로 이뤄지고 있다며 봄철 영농 활동이 차질 없이 진행되고 있다고 밝혔다.",
+        "body": "농림축산식품부는 중동 전쟁 장기화에 대응하기 위해 ‘중동 사태 대응팀’을 가동하고 주요 농자재 수급 상황을 점검하고 있다. 9일 연합뉴스 보도에 따르면 농식품부는 비료 등 봄철 영농에 필요한 주요 농자재 공급이 안정적으로 이뤄지고 있어 영농 활동은 차질 없이 진행되고 있다고 밝혔다. 중동 정세 불안이 장기화되면 물류와 원자재 가격 변동 우려가 커질 수 있지만, 현재까지 주요 농자재 수급에는 큰 이상이 없는 상황이다. 농식품부는 대응팀을 통해 관련 동향을 살피며 봄철 농업 현장의 수급 안정을 이어간다는 방침이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Agriculture Ministry Launches Middle East Response Team as Farm Supplies Stay Stable",
+        "excerpt": "South Korea’s Agriculture Ministry said key farm materials remain stably supplied despite the prolonged Middle East war, allowing spring farming to proceed without disruption.",
+        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has launched a “Middle East situation response team” to monitor the supply of key agricultural materials as the war in the Middle East continues. According to a Yonhap News report on May 9, the ministry said major supplies needed for spring farming, including fertilizers, are being provided steadily, so farming activities are proceeding without disruption. Prolonged instability in the Middle East could raise concerns over logistics and raw material price swings, but no major problems have been reported so far in the supply of essential farm inputs. The ministry plans to keep tracking related developments through the response team and maintain supply stability for spring farming. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "農食品部が中東情勢対応チーム稼働、春の農資材需給は安定",
+        "excerpt": "韓国農林畜産食品部は、中東戦争の長期化にも主要農資材の供給は安定しており、春の営農活動は支障なく進んでいると明らかにした。",
+        "body": "韓国農林畜産食品部は、中東戦争の長期化に対応するため「中東情勢対応チーム」を稼働し、主要農資材の需給状況を点検している。5月9日の聯合ニュース報道によると、同部は肥料など春の営農に必要な主要農資材の供給が安定的に行われており、営農活動は支障なく進んでいると説明した。中東情勢の不安が長引けば物流や原材料価格の変動への懸念が高まる可能性があるが、現時点で主要農資材の需給に大きな異常はない状況だ。同部は対応チームを通じて関連動向を注視し、春の農業現場の需給安定を維持する方針だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国农食品部启动中东局势应对组，春季农资供应保持稳定",
+        "excerpt": "韩国农林畜产食品部表示，尽管中东战争长期化，主要农资供应仍保持稳定，春季农业生产正无障碍推进。",
+        "body": "韩国农林畜产食品部已启动“中东局势应对组”，以应对中东战争长期化，并检查主要农业资材的供需情况。据韩联社5月9日报道，农食品部表示，包括肥料在内的春季农业生产所需主要农资供应稳定，因此春季农事活动正在无障碍推进。若中东局势不安持续，物流和原材料价格波动的担忧可能上升，但截至目前，主要农资供需尚未出现重大异常。农食品部计划通过应对组持续关注相关动向，维持春季农业一线的供应稳定。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Agricultura activa equipo por crisis en Oriente Medio y estabiliza insumos de primavera",
+        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que, pese a la prolongación de la guerra en Oriente Medio, los principales insumos agrícolas se suministran con estabilidad.",
+        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur puso en marcha un “equipo de respuesta a la situación de Oriente Medio” para revisar el suministro de insumos agrícolas clave ante la prolongación de la guerra en la región. Según informó Yonhap el 9 de mayo, el ministerio señaló que los principales materiales necesarios para las labores agrícolas de primavera, incluidos fertilizantes, se están suministrando de forma estable, por lo que las actividades agrícolas avanzan sin contratiempos. Si la inestabilidad en Oriente Medio se prolonga, podrían aumentar las preocupaciones por la logística y los precios de materias primas, pero hasta ahora no se han detectado problemas importantes en el suministro. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Agricultura aciona equipe para Oriente Médio e mantém insumos de primavera estáveis",
+        "excerpt": "O Ministério da Agricultura da Coreia do Sul afirmou que, apesar da guerra prolongada no Oriente Médio, os principais insumos agrícolas seguem com fornecimento estável.",
+        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul colocou em operação uma “equipe de resposta à situação no Oriente Médio” para acompanhar o fornecimento dos principais insumos agrícolas diante da guerra prolongada na região. Segundo a Yonhap em 9 de maio, o ministério informou que materiais essenciais para o cultivo de primavera, incluindo fertilizantes, estão sendo fornecidos de forma estável, permitindo que as atividades agrícolas avancem sem interrupções. A instabilidade prolongada no Oriente Médio pode aumentar preocupações com logística e preços de matérias-primas, mas até agora não há grandes anormalidades no abastecimento dos principais insumos. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Agrarministerium startet Nahost-Krisenteam, Frühjahrsbedarf bleibt stabil",
+        "excerpt": "Südkoreas Agrarministerium erklärte, dass trotz des langwierigen Kriegs im Nahen Osten wichtige Agrarmaterialien stabil geliefert werden und die Frühjahrsarbeit planmäßig läuft.",
+        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat ein „Reaktionsteam für die Nahost-Lage“ eingesetzt, um die Versorgung mit wichtigen Agrarmaterialien angesichts des anhaltenden Kriegs im Nahen Osten zu überwachen. Laut einem Bericht von Yonhap vom 9. Mai teilte das Ministerium mit, dass zentrale Materialien für die Frühjahrslandwirtschaft, darunter Düngemittel, stabil geliefert werden und die landwirtschaftlichen Arbeiten ohne Störung vorangehen. Eine längere Unsicherheit im Nahen Osten könnte Sorgen über Logistik und Rohstoffpreise verstärken, doch bislang gibt es keine größeren Auffälligkeiten bei der Versorgung mit wichtigen Betriebsmitteln. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Séoul active une équipe Moyen-Orient, les intrants agricoles restent stables",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que, malgré la guerre prolongée au Moyen-Orient, les principaux intrants agricoles sont fournis de manière stable.",
+        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a lancé une « équipe de réponse à la situation au Moyen-Orient » afin de surveiller l’approvisionnement en principaux intrants agricoles face à la prolongation de la guerre dans la région. Selon Yonhap le 9 mai, le ministère a déclaré que les matériaux nécessaires aux travaux agricoles de printemps, dont les engrais, sont fournis de façon stable, permettant aux activités agricoles de se poursuivre sans perturbation. Une instabilité durable au Moyen-Orient pourrait accroître les inquiétudes sur la logistique et les prix des matières premières, mais aucun problème majeur n’a été constaté jusqu’ici. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة الزراعة الكورية تشغل فريق أزمة الشرق الأوسط مع استقرار مستلزمات الربيع",
+        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن إمدادات المستلزمات الزراعية الرئيسية مستقرة رغم إطالة أمد الحرب في الشرق الأوسط، وإن أعمال الزراعة الربيعية تمضي دون تعطيل.",
+        "body": "شغلت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية «فريق الاستجابة لوضع الشرق الأوسط» لمتابعة إمدادات المستلزمات الزراعية الرئيسية مع استمرار الحرب في المنطقة. ووفقا لتقرير وكالة يونهاب في 9 مايو، أوضحت الوزارة أن المواد الأساسية اللازمة للزراعة الربيعية، بما في ذلك الأسمدة، تصل بصورة مستقرة، ولذلك تمضي الأنشطة الزراعية دون اضطراب. وقد يؤدي استمرار عدم الاستقرار في الشرق الأوسط إلى زيادة المخاوف بشأن اللوجستيات وتقلب أسعار المواد الخام، لكن لم تظهر حتى الآن مشكلات كبيرة في إمدادات المستلزمات الزراعية الأساسية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई कृषि मंत्रालय ने मध्य पूर्व टीम शुरू की, वसंत कृषि सामग्री आपूर्ति स्थिर",
+        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि मध्य पूर्व युद्ध लंबा खिंचने के बावजूद प्रमुख कृषि सामग्री की आपूर्ति स्थिर है और वसंत खेती बिना बाधा चल रही है।",
+        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने मध्य पूर्व में युद्ध लंबा खिंचने के बीच प्रमुख कृषि सामग्री की आपूर्ति पर नजर रखने के लिए “मध्य पूर्व स्थिति प्रतिक्रिया टीम” शुरू की है। योनहाप की 9 मई की रिपोर्ट के अनुसार, मंत्रालय ने कहा कि उर्वरक सहित वसंत खेती के लिए जरूरी प्रमुख सामग्री स्थिर रूप से उपलब्ध कराई जा रही है, इसलिए कृषि गतिविधियां बिना बाधा आगे बढ़ रही हैं। मध्य पूर्व में अस्थिरता लंबे समय तक बनी रहने पर लॉजिस्टिक्स और कच्चे माल की कीमतों में उतार-चढ़ाव को लेकर चिंता बढ़ सकती है, लेकिन अब तक प्रमुख कृषि सामग्री की आपूर्ति में कोई बड़ी समस्या नहीं दिखी है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kementerian Pertanian Aktifkan Tim Timur Tengah, Pasokan Sarana Musim Semi Stabil",
+        "excerpt": "Kementerian Pertanian Korea Selatan menyatakan pasokan sarana pertanian utama tetap stabil meski perang Timur Tengah berkepanjangan, sehingga kegiatan tanam musim semi tidak terganggu.",
+        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengaktifkan “tim respons situasi Timur Tengah” untuk memantau pasokan sarana pertanian utama di tengah berkepanjangannya perang di kawasan itu. Menurut laporan Yonhap pada 9 Mei, kementerian menyebut pasokan bahan utama yang dibutuhkan untuk pertanian musim semi, termasuk pupuk, berjalan stabil sehingga kegiatan pertanian berlangsung tanpa hambatan. Jika ketidakstabilan di Timur Tengah berlanjut, kekhawatiran atas logistik dan perubahan harga bahan baku dapat meningkat, tetapi sejauh ini tidak ada gangguan besar pada pasokan sarana pertanian utama. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ce3433b98bb4",
+    "slug": "오산시-미취업-청년-어학자격시험-응시료-지원-신청-접수-580160",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-09T16:36:03.040Z",
+    "updatedAt": "2026-05-09T16:36:03.040Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
+    "titleFingerprint": "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
+    "dedupKeys": [
+      "ce3433b98bb47fdb687b4824c54f70d414e93799",
+      "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
+      "3b19898f3e9700bfc2f274d2a8c1aec0c2a3d3b0"
+    ],
+    "imageUrl": "/images/articles/ce3433b98bb4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오산시 미취업 청년 어학·자격시험 응시료 지원, 11일부터 신청 접수",
+        "excerpt": "경기 오산시는 오는 11일부터 미취업 청년의 취업 준비 부담을 덜기 위해 어학·자격시험 응시료 지원 신청을 받는다.",
+        "body": "경기 오산시는 오는 11일부터 미취업 청년을 대상으로 어학·자격시험 응시료 지원 신청을 접수한다. 이번 지원은 청년들의 취업 준비 비용 부담을 줄이기 위한 ‘경기청년 역량강화 기회지원 사업’의 일환이다. 시는 미취업 청년이 구직 과정에서 필요한 어학 능력과 자격 취득을 준비하는 데 드는 응시료 부담을 완화하는 데 초점을 맞췄다. 해당 사업은 청년층의 취업 준비 여건을 보완하고 역량 강화 기회를 넓히는 취지로 추진된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Osan Opens Applications for Language and Certification Exam Fee Support for Unemployed Youth",
+        "excerpt": "Osan City in Gyeonggi Province will accept applications from May 11 to help unemployed young people reduce the cost of language and certification exams.",
+        "body": "Osan City in Gyeonggi Province will begin accepting applications on May 11 for support covering language and certification exam fees for unemployed young people. The measure is part of the “Gyeonggi Youth Competency Enhancement Opportunity Support Project,” which aims to ease the financial burden of job preparation. The city is focusing on reducing exam fee costs for young job seekers preparing language skills and qualifications needed for employment. The project is intended to improve job preparation conditions and expand opportunities for youth competency development. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "烏山市、未就業青年向け語学・資格試験受験料支援の申請を11日から受付",
+        "excerpt": "京畿道烏山市は11日から、未就業青年の就職準備負担を軽減するため、語学・資格試験受験料支援の申請を受け付ける。",
+        "body": "京畿道烏山市は11日から、未就業青年を対象に語学・資格試験の受験料支援申請を受け付ける。今回の支援は、青年の就職準備に伴う費用負担を減らすための「京畿青年力量強化機会支援事業」の一環だ。市は、未就業青年が求職過程で必要な語学能力や資格取得を準備する際に生じる受験料負担の緩和に重点を置く。同事業は、青年層の就職準備環境を補完し、力量強化の機会を広げる趣旨で進められる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "乌山市11日起受理未就业青年语言及资格考试报名费补助申请",
+        "excerpt": "韩国京畿道乌山市将从11日起受理未就业青年语言及资格考试报名费补助申请，以减轻其求职准备负担。",
+        "body": "韩国京畿道乌山市将从11日起，面向未就业青年受理语言及资格考试报名费补助申请。此次补助是“京畿青年能力强化机会支持项目”的一部分，旨在减轻青年就业准备过程中的费用负担。乌山市将重点缓解未就业青年在求职过程中准备语言能力和取得资格证书所需的考试报名费压力。该项目以完善青年就业准备条件、扩大能力提升机会为宗旨推进。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Osan recibirá solicitudes para apoyar tasas de exámenes de idiomas y certificación a jóvenes desempleados",
+        "excerpt": "La ciudad de Osan, en Gyeonggi, aceptará desde el día 11 solicitudes para ayudar a jóvenes desempleados con tasas de exámenes de idiomas y certificación.",
+        "body": "La ciudad de Osan, en la provincia de Gyeonggi, comenzará el día 11 a recibir solicitudes de apoyo para cubrir tasas de exámenes de idiomas y certificación dirigidas a jóvenes desempleados. La medida forma parte del “Proyecto de apoyo a oportunidades para fortalecer capacidades de la juventud de Gyeonggi”, destinado a aliviar la carga económica de la preparación laboral. La ciudad se centra en reducir los costos de exámenes necesarios para que los jóvenes desempleados preparen habilidades lingüísticas y obtengan certificaciones durante la búsqueda de empleo. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Osan abre inscrições para apoio a taxas de exames de idiomas e certificações para jovens desempregados",
+        "excerpt": "A cidade de Osan, em Gyeonggi, receberá a partir do dia 11 pedidos de apoio para reduzir custos de exames de idiomas e certificações de jovens desempregados.",
+        "body": "A cidade de Osan, na província de Gyeonggi, começará no dia 11 a receber inscrições para apoio ao pagamento de taxas de exames de idiomas e certificações para jovens desempregados. A iniciativa integra o “Projeto de Apoio a Oportunidades para Fortalecimento de Competências dos Jovens de Gyeonggi”, criado para reduzir o peso financeiro da preparação para o emprego. A cidade busca aliviar os custos de exames necessários para que jovens desempregados desenvolvam habilidades linguísticas e obtenham qualificações no processo de busca por trabalho. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Osan nimmt ab dem 11. Anträge auf Prüfungsgebührenhilfe für arbeitslose junge Menschen an",
+        "excerpt": "Die Stadt Osan in Gyeonggi nimmt ab dem 11. Anträge entgegen, um arbeitslose junge Menschen bei Sprach- und Zertifizierungsprüfungsgebühren zu entlasten.",
+        "body": "Die Stadt Osan in der Provinz Gyeonggi nimmt ab dem 11. Anträge auf Unterstützung bei Gebühren für Sprach- und Zertifizierungsprüfungen für arbeitslose junge Menschen entgegen. Die Maßnahme ist Teil des „Gyeonggi Youth Competency Enhancement Opportunity Support Project“ und soll die finanzielle Belastung bei der Vorbereitung auf eine Beschäftigung verringern. Im Mittelpunkt steht die Entlastung junger Arbeitssuchender von Prüfungsgebühren, die bei der Vorbereitung von Sprachkenntnissen und Qualifikationen für den Bewerbungsprozess anfallen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Osan ouvre les demandes d’aide aux frais d’examens de langue et de certification pour jeunes sans emploi",
+        "excerpt": "La ville d’Osan, dans le Gyeonggi, acceptera dès le 11 les demandes d’aide aux frais d’examens de langue et de certification des jeunes sans emploi.",
+        "body": "La ville d’Osan, dans la province du Gyeonggi, commencera le 11 à recevoir les demandes d’aide aux frais d’examens de langue et de certification destinées aux jeunes sans emploi. Cette mesure s’inscrit dans le « Projet de soutien aux opportunités de renforcement des compétences des jeunes du Gyeonggi », visant à alléger le coût de la préparation à l’emploi. La ville cherche à réduire la charge des frais d’examen nécessaires à l’acquisition de compétences linguistiques et de qualifications dans le parcours de recherche d’emploi. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "أوسان تفتح طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين بدءا من 11",
+        "excerpt": "تبدأ مدينة أوسان في مقاطعة غيونغي من يوم 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات لتخفيف عبء إعداد الشباب غير العاملين للوظائف.",
+        "body": "تبدأ مدينة أوسان في مقاطعة غيونغي من يوم 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين. يأتي هذا الدعم ضمن “مشروع غيونغي لدعم فرص تعزيز قدرات الشباب”، بهدف تخفيف الأعباء المالية المرتبطة بالاستعداد للتوظيف. وتركز المدينة على تقليل تكلفة رسوم الاختبارات التي يحتاجها الشباب غير العاملين أثناء إعداد مهارات اللغة والحصول على المؤهلات المطلوبة في مسار البحث عن عمل. ويهدف المشروع إلى تحسين ظروف الاستعداد للتوظيف وتوسيع فرص تنمية القدرات لدى الشباب. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "ओसान में बेरोजगार युवाओं के भाषा और प्रमाणन परीक्षा शुल्क समर्थन के लिए 11 से आवेदन",
+        "excerpt": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं की रोजगार तैयारी लागत घटाने के लिए भाषा और प्रमाणन परीक्षा शुल्क समर्थन आवेदन लेगा।",
+        "body": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा और प्रमाणन परीक्षाओं के शुल्क समर्थन के आवेदन स्वीकार करेगा। यह समर्थन “ग्योंगगी युवा क्षमता सुदृढ़ीकरण अवसर समर्थन परियोजना” का हिस्सा है, जिसका उद्देश्य रोजगार तैयारी से जुड़ा आर्थिक बोझ कम करना है। शहर का ध्यान उन परीक्षा शुल्कों को घटाने पर है जो बेरोजगार युवाओं को नौकरी खोजने की प्रक्रिया में भाषा कौशल और योग्यता प्राप्त करने की तैयारी के दौरान चुकाने पड़ते हैं। यह परियोजना युवाओं की रोजगार तैयारी स्थितियों को बेहतर करने और क्षमता विकास के अवसर बढ़ाने के उद्देश्य से चलाई जा रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Osan Buka Pendaftaran Bantuan Biaya Ujian Bahasa dan Sertifikasi untuk Pemuda Menganggur Mulai 11",
+        "excerpt": "Kota Osan di Gyeonggi akan menerima pendaftaran mulai tanggal 11 untuk membantu pemuda menganggur mengurangi biaya ujian bahasa dan sertifikasi.",
+        "body": "Kota Osan di Provinsi Gyeonggi akan mulai menerima pendaftaran pada tanggal 11 untuk bantuan biaya ujian bahasa dan sertifikasi bagi pemuda yang belum bekerja. Dukungan ini merupakan bagian dari “Proyek Dukungan Peluang Penguatan Kompetensi Pemuda Gyeonggi” yang bertujuan mengurangi beban biaya persiapan kerja. Pemerintah kota berfokus meringankan biaya ujian yang dibutuhkan pemuda menganggur saat menyiapkan kemampuan bahasa dan memperoleh kualifikasi dalam proses mencari kerja. Program ini dijalankan untuk memperbaiki kondisi persiapan kerja dan memperluas peluang penguatan kompetensi pemuda. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "8a22cd68c9df",
     "slug": "3월-韓-여행수입-역대-최대bts-효과에-환율계절-요인-겹쳐-493068",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Strategi Menang Undian Hunian Disorot: Jeong Ji-young Sebut Tangga Perumahan Belum Putus",
         "excerpt": "Jeong Ji-young, perwakilan I’m Happy Licensed Real Estate Agency, mengatakan bahwa meski kecemasan atas pasar langganan hunian tahun ini meningkat, tangga menuju kepemilikan rumah belum sepenuhnya terputus.",
         "body": "Jeong Ji-young, perwakilan I’m Happy Licensed Real Estate Agency, menyampaikan bahwa tangga menuju kepemilikan rumah belum terputus di tengah meningkatnya kecemasan terhadap pasar langganan hunian tahun ini. Menurut teks asli, Jeong menyinggung kegelisahan pelaku pasar dengan mengatakan bahwa orang merasa seolah “bumi akan berakhir setelah 9 Mei” dan harga rumah akan melonjak tajam. Ia menambahkan bahwa dirinya telah beberapa kali mengalami situasi seperti itu dan memperingatkan agar tidak terjebak ketakutan berlebihan, dengan maksud bahwa bumi tidak akan berakhir. Pernyataan tersebut disampaikan dalam konteks meninjau peluang membeli rumah melalui langganan dan menyusun strategi menang tahun ini secara tenang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "478bb956b710",
-    "slug": "농식품부-에너지-대전환-tf-가동에너지-자립소득-증대-추진-476059",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T07:13:17.143Z",
-    "updatedAt": "2026-05-09T07:13:17.143Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142300030",
-    "titleFingerprint": "1dc4a848a3429b5983ff01125bfa326872449f41",
-    "dedupKeys": [
-      "478bb956b71056a62559c1d5f831b26be712298a",
-      "1dc4a848a3429b5983ff01125bfa326872449f41",
-      "28fb52a6baa2a2d64dd462e0683bed3b45a32ef4"
-    ],
-    "imageUrl": "/images/articles/478bb956b710.jpg",
-    "i18n": {
-      "ko": {
-        "title": "농식품부 에너지 대전환 TF 가동, 농촌 에너지 자립·소득 증대 로드맵 추진",
-        "excerpt": "농림축산식품부가 농업·농촌의 에너지 구조 전환을 위해 에너지 대전환 TF를 가동하고 에너지 자립과 농가 소득 증대를 목표로 로드맵 수립에 착수했다.",
-        "body": "농림축산식품부가 농업과 농촌의 에너지 구조를 바꾸기 위한 ‘에너지 대전환’ 로드맵 수립에 본격 착수했다. 정부는 관련 태스크포스(TF)를 가동해 농촌 현장의 에너지 자립 기반을 마련하고, 에너지 전환을 농가 소득 증대와 연결하는 방안을 추진한다. 이번 움직임은 농업·농촌 분야의 에너지 사용 구조를 점검하고 향후 정책 방향을 정리하기 위한 절차로 풀이된다. 구체적인 세부 수치나 실행 일정은 원문 요약에서 공개되지 않았다. 향후 로드맵에는 농촌 에너지 자립과 소득 확대를 함께 고려한 정책 과제가 담길 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Agriculture Ministry Launches Energy Transition TF to Boost Rural Self-Reliance and Income",
-        "excerpt": "South Korea’s agriculture ministry has launched an energy transition task force to draft a roadmap aimed at reshaping farm and rural energy systems, improving energy self-reliance and raising income.",
-        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has begun work on a roadmap for an “energy transition” intended to change the energy structure of farming and rural communities. The government has launched a task force to build a foundation for rural energy self-reliance and link the transition to higher farm income. The move is seen as a step toward reviewing how energy is used in the agricultural and rural sectors and setting future policy direction. Specific figures or implementation schedules were not disclosed in the original summary. The roadmap is expected to include policy tasks that consider both rural energy independence and income growth. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "農食品部、エネルギー大転換TF始動　農村の自立と所得増へロードマップ推進",
-        "excerpt": "韓国農林畜産食品部は、農業・農村のエネルギー構造を転換するため、エネルギー大転換TFを稼働し、自立と所得増を目指すロードマップ策定に着手した。",
-        "body": "韓国の農林畜産食品部は、農業と農村のエネルギー構造を変えるための「エネルギー大転換」ロードマップ策定に本格的に着手した。政府は関連タスクフォース（TF）を稼働し、農村現場のエネルギー自立基盤を整え、エネルギー転換を農家所得の増加につなげる方策を進める。今回の動きは、農業・農村分野のエネルギー利用構造を点検し、今後の政策方向を整理する手続きと受け止められる。具体的な数値や実行日程は原文要約では明らかにされていない。今後のロードマップには、農村のエネルギー自立と所得拡大を共に考慮した政策課題が盛り込まれる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国农食部启动能源大转型TF，推进农村能源自立与增收路线图",
-        "excerpt": "韩国农林畜产食品部为转变农业和农村能源结构，启动能源大转型TF，着手制定以能源自立和农户增收为目标的路线图。",
-        "body": "韩国农林畜产食品部已正式着手制定旨在改变农业和农村能源结构的“能源大转型”路线图。政府启动相关工作组（TF），计划为农村现场建立能源自立基础，并推动把能源转型与农户收入增加相连接。此次举措可视为对农业和农村领域能源使用结构进行检查，并整理今后政策方向的程序。原文摘要未公开具体数据或实施时间表。预计未来路线图将纳入同时考虑农村能源自立和收入扩大的政策课题。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Agricultura activa un TF de transición energética para impulsar autosuficiencia rural e ingresos",
-        "excerpt": "El Ministerio de Agricultura de Corea del Sur puso en marcha un TF de transición energética para preparar una hoja de ruta que transforme la energía agrícola y rural y eleve ingresos.",
-        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur inició formalmente la elaboración de una hoja de ruta para una “gran transición energética” destinada a cambiar la estructura energética de la agricultura y las zonas rurales. El gobierno puso en marcha un grupo de trabajo para sentar las bases de la autosuficiencia energética rural y vincular la transición con mayores ingresos para los agricultores. La medida apunta a revisar el uso de energía en el sector agrícola y rural y ordenar la futura dirección de las políticas. El resumen original no divulgó cifras concretas ni calendario de ejecución. Se prevé que la hoja de ruta incluya tareas de política que contemplen tanto la autosuficiencia energética rural como el aumento de ingresos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Agricultura aciona TF de transição energética para autonomia rural e aumento de renda",
-        "excerpt": "O Ministério da Agricultura da Coreia do Sul ativou uma TF de transição energética para elaborar um roteiro que mude a estrutura de energia no campo e amplie renda agrícola.",
-        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul iniciou formalmente a elaboração de um roteiro de “grande transição energética” para mudar a estrutura de energia da agricultura e das comunidades rurais. O governo acionou uma força-tarefa para criar uma base de autonomia energética no campo e conectar a transição ao aumento da renda dos agricultores. A iniciativa é entendida como um procedimento para revisar o uso de energia nos setores agrícola e rural e organizar a futura direção das políticas. O resumo original não informou números específicos nem cronograma de execução. O roteiro deve incluir tarefas políticas que considerem tanto a autonomia energética rural quanto a ampliação da renda. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Agrarministerium startet Energie-Taskforce für mehr ländliche Eigenversorgung und Einkommen",
-        "excerpt": "Südkoreas Agrarministerium hat eine Taskforce zur Energiewende gestartet, um eine Roadmap für Landwirtschaft und ländliche Räume sowie mehr Energieautarkie und Einkommen zu erarbeiten.",
-        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat mit der Ausarbeitung einer Roadmap für eine „Energiewende“ begonnen, die die Energiestruktur in Landwirtschaft und ländlichen Gemeinden verändern soll. Die Regierung hat eine Taskforce eingesetzt, um die Grundlage für ländliche Energieautarkie zu schaffen und die Energiewende mit höheren landwirtschaftlichen Einkommen zu verbinden. Der Schritt gilt als Verfahren, um die Energienutzung im Agrar- und ländlichen Bereich zu prüfen und künftige politische Leitlinien zu ordnen. Konkrete Zahlen oder Umsetzungspläne wurden in der ursprünglichen Zusammenfassung nicht genannt. Die Roadmap dürfte politische Aufgaben enthalten, die sowohl Energieautarkie auf dem Land als auch Einkommenssteigerung berücksichtigen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Agriculture lance une TF de transition énergétique pour autonomie rurale et hausse des revenus",
-        "excerpt": "Le ministère sud-coréen de l’Agriculture a lancé une TF de transition énergétique afin de préparer une feuille de route pour transformer l’énergie agricole et rurale et accroître les revenus.",
-        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a officiellement commencé à élaborer une feuille de route de « grande transition énergétique » destinée à modifier la structure énergétique de l’agriculture et des zones rurales. Le gouvernement a lancé une task force afin de poser les bases de l’autonomie énergétique rurale et de relier cette transition à l’augmentation des revenus agricoles. Cette initiative vise à examiner l’usage de l’énergie dans les secteurs agricole et rural et à organiser les futures orientations politiques. Le résumé original ne mentionne pas de chiffres précis ni de calendrier d’exécution. La feuille de route devrait inclure des tâches politiques tenant compte à la fois de l’autonomie énergétique rurale et de la progression des revenus. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "وزارة الزراعة الكورية تطلق فريق تحول الطاقة لتعزيز استقلال الريف والدخل",
-        "excerpt": "أطلقت وزارة الزراعة في كوريا الجنوبية فريق عمل لتحول الطاقة بهدف إعداد خريطة طريق تغير بنية الطاقة في الزراعة والريف وتدعم الاستقلال الطاقي وزيادة الدخل.",
-        "body": "بدأت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية رسميا إعداد خريطة طريق لـ«تحول كبير في الطاقة» يهدف إلى تغيير بنية الطاقة في الزراعة والمناطق الريفية. وشغلت الحكومة فريق عمل مختصا لوضع أساس للاستقلال الطاقي في الريف وربط تحول الطاقة بزيادة دخل المزارعين. وتعد هذه الخطوة إجراء لمراجعة هيكل استخدام الطاقة في القطاعين الزراعي والريفي وتنظيم اتجاه السياسات المقبلة. ولم يكشف الملخص الأصلي عن أرقام تفصيلية أو جدول زمني للتنفيذ. ومن المتوقع أن تتضمن خريطة الطريق مهام سياساتية تراعي استقلال الطاقة في الريف وتوسيع الدخل معا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कृषि मंत्रालय ने ऊर्जा बदलाव TF शुरू किया, ग्रामीण आत्मनिर्भरता और आय बढ़ाने पर जोर",
-        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कृषि और ग्रामीण ऊर्जा ढांचे को बदलने के लिए ऊर्जा बदलाव TF शुरू किया और ऊर्जा आत्मनिर्भरता व किसान आय बढ़ाने वाली रूपरेखा पर काम शुरू किया।",
-        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने कृषि और ग्रामीण क्षेत्रों की ऊर्जा संरचना बदलने के लिए “ऊर्जा महापरिवर्तन” रोडमैप तैयार करने का काम औपचारिक रूप से शुरू किया है। सरकार ने संबंधित टास्क फोर्स शुरू कर ग्रामीण इलाकों में ऊर्जा आत्मनिर्भरता की आधारशिला बनाने और ऊर्जा बदलाव को किसानों की आय बढ़ाने से जोड़ने की दिशा में कदम उठाया है। यह पहल कृषि और ग्रामीण क्षेत्रों में ऊर्जा उपयोग की संरचना की समीक्षा करने और आगे की नीति दिशा तय करने की प्रक्रिया मानी जा रही है। मूल सारांश में कोई विशिष्ट आंकड़े या कार्यान्वयन समय-सारिणी जारी नहीं की गई। भविष्य के रोडमैप में ग्रामीण ऊर्जा आत्मनिर्भरता और आय विस्तार दोनों को ध्यान में रखने वाले नीति कार्य शामिल होने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kementerian Pertanian Aktifkan TF Transisi Energi untuk Kemandirian Desa dan Kenaikan Pendapatan",
-        "excerpt": "Kementerian Pertanian Korea Selatan mengaktifkan TF transisi energi untuk menyusun peta jalan perubahan struktur energi pertanian dan pedesaan, dengan target kemandirian energi dan kenaikan pendapatan.",
-        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mulai menyusun peta jalan “transisi besar energi” untuk mengubah struktur energi di sektor pertanian dan wilayah pedesaan. Pemerintah mengaktifkan satuan tugas terkait untuk membangun dasar kemandirian energi di pedesaan dan menghubungkan transisi energi dengan peningkatan pendapatan petani. Langkah ini dipahami sebagai proses untuk meninjau struktur penggunaan energi di sektor pertanian dan pedesaan serta merapikan arah kebijakan ke depan. Ringkasan asli tidak mengungkap angka rinci atau jadwal pelaksanaan. Peta jalan mendatang diperkirakan memuat agenda kebijakan yang mempertimbangkan kemandirian energi pedesaan sekaligus perluasan pendapatan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fa6d1cb7fb1c",
-    "slug": "부산-아파트값-강보합세-유지전셋값은-22개월째-상승-308582",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T07:12:11.517Z",
-    "updatedAt": "2026-05-09T07:12:11.517Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508075500051",
-    "titleFingerprint": "13797710c56151b1aa96b137534ae83a37554931",
-    "dedupKeys": [
-      "fa6d1cb7fb1c364a2a9512e2bf098f9799226816",
-      "13797710c56151b1aa96b137534ae83a37554931",
-      "48c09ae8a4c4b6294d04498d2ec979ab82f1bd2f"
-    ],
-    "imageUrl": "/images/articles/fa6d1cb7fb1c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부산 아파트값 강보합 유지…전셋값 22개월 연속 상승세 주목",
-        "excerpt": "연합뉴스에 따르면 부산 아파트 매매가격은 강보합세를 이어가고 있으며, 전셋값은 22개월째 상승해 지역 주택시장의 흐름이 주목된다.",
-        "body": "부산의 아파트 매매가격이 강보합세를 유지하고 있다. 연합뉴스 민영규 기자 보도에 따르면 부산 지역 아파트 매매시장은 뚜렷한 급등이나 급락 없이 비교적 단단한 흐름을 이어가는 모습이다. 특히 전셋값은 22개월째 상승세를 기록하며 매매가격과 함께 지역 주택시장 동향의 핵심 지표로 부각되고 있다. 매매가격이 강보합세를 보이는 가운데 전세가격 상승이 장기간 이어지면서 부산 실수요자와 임차인의 시장 체감도에도 영향을 줄 수 있다. 향후 부산 아파트 시장은 매매가격의 안정적 흐름과 전셋값 상승 지속 여부가 함께 관찰될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Busan Apartment Prices Stay Firm as Jeonse Rents Rise for 22 Months",
-        "excerpt": "According to Yonhap News, Busan apartment sale prices remain firm, while jeonse rents have risen for 22 consecutive months, drawing attention to the local housing market.",
-        "body": "Apartment sale prices in Busan are maintaining a firm, slightly upward trend. According to a report by Yonhap News reporter Min Young-kyu, the Busan apartment sales market is continuing a relatively steady pattern without clear sharp gains or declines. In particular, jeonse rental prices have risen for 22 straight months, emerging as a key indicator alongside sale prices in the regional housing market. With sale prices staying firm and jeonse prices continuing to climb over an extended period, the trend may affect how end users and tenants experience the Busan market. Going forward, attention is expected to remain on whether apartment sale prices stay stable and whether jeonse rents continue rising. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "釜山マンション価格は強含み維持、チョンセ価格は22カ月連続上昇",
-        "excerpt": "聯合ニュースによると、釜山のマンション売買価格は強含みを維持し、チョンセ価格は22カ月連続で上昇して地域住宅市場が注目されている。",
-        "body": "釜山のマンション売買価格が強含みの流れを維持している。聯合ニュースのミン・ヨンギュ記者の報道によると、釜山地域のマンション売買市場は、明確な急騰や急落なしに比較的底堅い動きを続けている。特にチョンセ価格は22カ月連続で上昇し、売買価格とともに地域住宅市場の動向を示す重要な指標として浮上している。売買価格が強含みを見せるなか、チョンセ価格の上昇が長期化しており、釜山の実需層や賃借人の市場実感にも影響を及ぼす可能性がある。今後は売買価格の安定的な流れとチョンセ価格上昇の継続 여부が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "釜山公寓价格保持偏强稳定，全租房价连续22个月上涨",
-        "excerpt": "据韩联社报道，釜山公寓买卖价格保持偏强稳定，全租房价已连续22个月上涨，区域住房市场走势受到关注。",
-        "body": "釜山公寓买卖价格正保持偏强稳定走势。据韩联社记者闵泳奎报道，釜山地区公寓买卖市场没有出现明显暴涨或暴跌，而是延续相对稳固的 흐름。尤其是全租房价已连续22个月上涨，与买卖价格一同成为观察当地住房市场动向的重要指标。在买卖价格保持偏强稳定的同时，全租价格长期上升，可能影响釜山实际购房需求者和租户对市场的体感。展望后市，釜山公寓市场预计将继续关注买卖价格是否维持稳定，以及全租房价上涨是否持续。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Precios de apartamentos en Busan firmes; jeonse sube por 22 meses",
-        "excerpt": "Según Yonhap, los precios de venta de apartamentos en Busan mantienen una tendencia firme, mientras el jeonse acumula 22 meses de alzas en el mercado local.",
-        "body": "Los precios de venta de apartamentos en Busan mantienen una tendencia firme con ligero sesgo alcista. Según un reporte del periodista Min Young-kyu de Yonhap News, el mercado de compraventa de apartamentos en Busan continúa relativamente sólido, sin subidas ni caídas bruscas claras. En particular, los precios del jeonse han aumentado durante 22 meses consecutivos, convirtiéndose en un indicador clave junto con los precios de venta para seguir el mercado residencial regional. Mientras las ventas se mantienen firmes y el jeonse sigue subiendo durante un periodo prolongado, la evolución puede influir en la percepción de compradores finales e inquilinos en Busan. En adelante, se observará si los precios de venta siguen estables y si continúa el alza del jeonse. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Apartamentos em Busan seguem firmes; jeonse sobe há 22 meses",
-        "excerpt": "Segundo a Yonhap, os preços de venda de apartamentos em Busan mantêm firmeza, enquanto o jeonse sobe pelo 22º mês seguido no mercado habitacional local.",
-        "body": "Os preços de venda de apartamentos em Busan mantêm uma tendência firme, com leve viés de alta. Segundo reportagem de Min Young-kyu, da Yonhap News, o mercado de compra e venda de apartamentos em Busan segue relativamente sólido, sem altas ou quedas bruscas evidentes. Em especial, os preços do jeonse subiram por 22 meses consecutivos, tornando-se um indicador central, ao lado dos preços de venda, para acompanhar o mercado residencial regional. Com os preços de venda firmes e o jeonse em alta por um período prolongado, a tendência pode afetar a percepção de compradores finais e inquilinos em Busan. Daqui em diante, a atenção deve se concentrar na estabilidade dos preços de venda e na continuidade da alta do jeonse. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Wohnungspreise in Busan bleiben fest, Jeonse steigt seit 22 Monaten",
-        "excerpt": "Laut Yonhap bleiben die Verkaufspreise für Wohnungen in Busan fest, während die Jeonse-Mieten seit 22 Monaten steigen und den lokalen Wohnungsmarkt prägen.",
-        "body": "Die Verkaufspreise für Wohnungen in Busan halten sich weiterhin fest mit leicht positiver Tendenz. Nach einem Bericht von Yonhap-News-Reporter Min Young-kyu zeigt der Wohnungsverkaufsmarkt in Busan einen vergleichsweise stabilen Verlauf, ohne klare starke Anstiege oder Einbrüche. Besonders die Jeonse-Preise steigen bereits seit 22 Monaten in Folge und rücken damit neben den Verkaufspreisen als wichtiger Indikator für den regionalen Wohnungsmarkt in den Vordergrund. Während die Verkaufspreise fest bleiben und die Jeonse-Preise über längere Zeit zulegen, kann dies die Marktwahrnehmung von Eigennutzern und Mietern in Busan beeinflussen. Künftig dürfte beobachtet werden, ob die Verkaufspreise stabil bleiben und ob der Jeonse-Anstieg anhält. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Prix des appartements à Busan fermes; le jeonse monte depuis 22 mois",
-        "excerpt": "Selon Yonhap, les prix de vente des appartements à Busan restent fermes, tandis que le jeonse progresse depuis 22 mois, attirant l’attention sur le marché local.",
-        "body": "Les prix de vente des appartements à Busan restent fermes, avec une légère orientation positive. Selon un article du journaliste Min Young-kyu de Yonhap News, le marché des appartements à Busan poursuit une trajectoire relativement solide, sans hausse ni baisse marquée évidente. En particulier, les prix du jeonse ont augmenté pendant 22 mois consécutifs, devenant avec les prix de vente un indicateur essentiel du marché résidentiel régional. Alors que les prix de vente demeurent fermes et que le jeonse progresse sur une longue période, cette évolution peut influencer la perception du marché par les acheteurs finaux et les locataires à Busan. À l’avenir, l’attention devrait porter sur la stabilité des prix de vente et sur la poursuite de la hausse du jeonse. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أسعار شقق بوسان تبقى متماسكة وإيجارات الجونسي ترتفع 22 شهرا",
-        "excerpt": "وفقا ليونهاب، تواصل أسعار بيع الشقق في بوسان اتجاهها المتماسك، فيما ارتفعت أسعار الجونسي للشهر الثاني والعشرين على التوالي في سوق السكن المحلي.",
-        "body": "تحافظ أسعار بيع الشقق في بوسان على اتجاه متماسك يميل قليلا إلى القوة. وبحسب تقرير للصحفي مين يونغ كيو في وكالة يونهاب للأنباء، يواصل سوق بيع الشقق في بوسان مسارا مستقرا نسبيا من دون ارتفاعات أو انخفاضات حادة واضحة. وعلى نحو خاص، ارتفعت أسعار الجونسي للشهر الثاني والعشرين على التوالي، لتبرز كمؤشر رئيسي إلى جانب أسعار البيع في متابعة سوق الإسكان الإقليمي. ومع بقاء أسعار البيع متماسكة واستمرار صعود الجونسي لفترة طويلة، قد يؤثر ذلك في شعور المشترين الفعليين والمستأجرين باتجاهات السوق في بوسان. ومن المتوقع أن يتركز الاهتمام لاحقا على مدى استمرار استقرار أسعار البيع ومواصلة ارتفاع الجونسي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "बुसान अपार्टमेंट कीमतें मजबूत स्थिर, जोंसे 22 माह से लगातार ऊपर",
-        "excerpt": "योनहाप के अनुसार बुसान में अपार्टमेंट बिक्री कीमतें मजबूत स्थिर रुख बनाए हुए हैं, जबकि जोंसे कीमतें लगातार 22 महीनों से बढ़ रही हैं।",
-        "body": "बुसान में अपार्टमेंट की बिक्री कीमतें मजबूत और स्थिर रुख बनाए हुए हैं। योनहाप न्यूज के रिपोर्टर मिन योंग-क्यू की रिपोर्ट के अनुसार, बुसान का अपार्टमेंट बिक्री बाजार स्पष्ट तेज उछाल या गिरावट के बिना अपेक्षाकृत ठोस प्रवाह जारी रखे हुए है। खास तौर पर जोंसे कीमतें लगातार 22 महीनों से बढ़ी हैं और बिक्री कीमतों के साथ क्षेत्रीय आवास बाजार की दिशा बताने वाला प्रमुख संकेतक बन गई हैं। बिक्री कीमतों के मजबूत स्थिर रहने और जोंसे कीमतों के लंबे समय तक बढ़ते रहने से बुसान के वास्तविक खरीदारों और किरायेदारों की बाजार अनुभूति प्रभावित हो सकती है। आगे बाजार में बिक्री कीमतों की स्थिरता और जोंसे वृद्धि जारी रहने 여부 पर ध्यान रहेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Apartemen Busan Tetap Kuat, Jeonse Naik 22 Bulan Beruntun",
-        "excerpt": "Menurut Yonhap, harga jual apartemen di Busan tetap kuat dan stabil, sementara harga jeonse naik selama 22 bulan berturut-turut di pasar hunian lokal.",
-        "body": "Harga jual apartemen di Busan mempertahankan tren kuat dan stabil. Menurut laporan jurnalis Yonhap News Min Young-kyu, pasar jual beli apartemen di Busan terus bergerak relatif kokoh tanpa kenaikan atau penurunan tajam yang jelas. Secara khusus, harga jeonse telah naik selama 22 bulan berturut-turut, sehingga menjadi indikator utama bersama harga jual dalam melihat arah pasar hunian regional. Ketika harga jual tetap kuat dan kenaikan jeonse berlangsung dalam periode panjang, tren ini dapat memengaruhi persepsi pasar bagi pembeli pengguna akhir dan penyewa di Busan. Ke depan, perhatian diperkirakan tertuju pada apakah harga jual apartemen tetap stabil dan apakah kenaikan jeonse terus berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6086b471d518",
-    "slug": "세계-식량가격지수-석-달-연속-올라곡물유지류육류-상승-230497",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T07:10:45.345Z",
-    "updatedAt": "2026-05-09T07:10:45.345Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031300030",
-    "titleFingerprint": "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
-    "dedupKeys": [
-      "6086b471d51820cfd39fb9b4983fbb1713671dc6",
-      "b266b0bd219901ec1cd824d5b178b30f3fbf6b6b",
-      "69c8ecc51b4cdf2f5097673becff6e7606b9f95e"
-    ],
-    "imageUrl": "/images/articles/6086b471d518.jpg",
-    "i18n": {
-      "ko": {
-        "title": "세계 식량가격지수 3개월 연속 상승, 곡물·유지류·육류가 끌어올렸다",
-        "excerpt": "농림축산식품부는 FAO가 발표한 지난달 세계 식량가격지수가 130.7로 전월보다 1.6% 오르며 석 달 연속 상승했다고 밝혔다.",
-        "body": "농림축산식품부는 유엔 식량농업기구(FAO)가 발표한 지난달 세계 식량가격지수가 130.7을 기록해 전달보다 1.6% 상승했다고 밝혔다. 세계 식량가격지수는 석 달 연속 올랐으며, 이번 상승은 곡물과 유지류, 육류 가격 상승이 반영된 결과다. FAO 식량가격지수는 국제 식량 시장의 가격 흐름을 보여주는 지표로, 주요 품목 가격 변동이 전반적인 지수에 영향을 미친다. 정부는 발표 수치를 통해 세계 식량 가격 동향을 설명했다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "World Food Price Index Rises for Third Month as Grains, Oils and Meat Climb",
-        "excerpt": "South Korea’s agriculture ministry said the FAO world food price index reached 130.7 last month, up 1.6% from the previous month and rising for a third straight month.",
-        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs said the world food price index released by the UN Food and Agriculture Organization (FAO) stood at 130.7 last month, up 1.6% from the previous month. The index rose for a third consecutive month, reflecting higher prices for grains, vegetable oils and meat. The FAO food price index is a gauge of international food market price trends, and changes in major commodity prices affect the overall reading. The ministry explained the latest global food price movement based on the published figures. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "世界食料価格指数が3カ月連続上昇、穀物・油脂類・肉類が押し上げ",
-        "excerpt": "韓国農林畜産食品部は、FAOが発表した先月の世界食料価格指数が130.7となり、前月比1.6%上昇して3カ月連続で上がったと明らかにした。",
-        "body": "韓国農林畜産食品部は、国連食糧農業機関（FAO）が発表した先月の世界食料価格指数が130.7を記録し、前月より1.6%上昇したと明らかにした。世界食料価格指数は3カ月連続で上昇し、今回の上昇には穀物、油脂類、肉類の価格上昇が反映された。FAOの食料価格指数は国際食料市場の価格動向を示す指標で、主要品目の価格変動が全体の指数に影響する。政府は発表された数値を基に世界の食料価格動向を説明した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "全球食品价格指数连续三个月上涨，谷物、油脂和肉类推高指数",
-        "excerpt": "韩国农林畜产食品部表示，FAO发布的上月全球食品价格指数为130.7，较前月上涨1.6%，已连续三个月上升。",
-        "body": "韩国农林畜产食品部表示，联合国粮农组织（FAO）发布的上月全球食品价格指数为130.7，较前月上涨1.6%。全球食品价格指数已连续三个月上升，本次上涨反映了谷物、植物油脂和肉类价格走高。FAO食品价格指数是反映国际食品市场价格走势的指标，主要品类价格变动会影响整体指数。韩国政府根据已发布的数据说明了全球食品价格动向。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Índice mundial de precios de alimentos sube por tercer mes por cereales, aceites y carne",
-        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que el índice mundial de precios de alimentos de la FAO llegó a 130,7 el mes pasado, un 1,6% más que el mes anterior.",
-        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur informó que el índice mundial de precios de alimentos publicado por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) registró 130,7 el mes pasado, un aumento del 1,6% frente al mes anterior. El índice subió por tercer mes consecutivo, impulsado por alzas en cereales, aceites vegetales y carne. El indicador de la FAO muestra la tendencia de precios del mercado alimentario internacional, y las variaciones de los principales productos influyen en el resultado general. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Índice mundial de preços dos alimentos sobe pelo 3º mês com cereais, óleos e carne",
-        "excerpt": "O Ministério da Agricultura da Coreia do Sul informou que o índice mundial de preços dos alimentos da FAO chegou a 130,7 no mês passado, alta de 1,6% ante o mês anterior.",
-        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul informou que o índice mundial de preços dos alimentos divulgado pela Organização das Nações Unidas para Alimentação e Agricultura (FAO) ficou em 130,7 no mês passado, alta de 1,6% em relação ao mês anterior. O índice avançou pelo terceiro mês consecutivo, refletindo aumentos nos preços de cereais, óleos vegetais e carne. O índice da FAO acompanha a tendência dos preços no mercado internacional de alimentos, e mudanças nos principais itens afetam o resultado geral. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Welt-Nahrungsmittelpreisindex steigt dritten Monat: Getreide, Öle und Fleisch teurer",
-        "excerpt": "Südkoreas Agrarministerium erklärte, der FAO-Welt-Nahrungsmittelpreisindex habe im vergangenen Monat 130,7 erreicht, 1,6% mehr als im Vormonat.",
-        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten teilte mit, dass der von der UN-Ernährungs- und Landwirtschaftsorganisation (FAO) veröffentlichte Welt-Nahrungsmittelpreisindex im vergangenen Monat bei 130,7 lag und damit um 1,6% gegenüber dem Vormonat stieg. Der Index erhöhte sich den dritten Monat in Folge. Ausschlaggebend waren höhere Preise für Getreide, pflanzliche Öle und Fleisch. Der FAO-Index zeigt die Preisentwicklung auf den internationalen Lebensmittelmärkten; Veränderungen bei wichtigen Warengruppen wirken sich auf den Gesamtwert aus. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’indice mondial des prix alimentaires monte encore, porté par céréales, huiles et viande",
-        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que l’indice FAO des prix alimentaires a atteint 130,7 le mois dernier, en hausse de 1,6% sur un mois.",
-        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a annoncé que l’indice mondial des prix alimentaires publié par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO) s’est établi à 130,7 le mois dernier, soit une hausse de 1,6% par rapport au mois précédent. L’indice progresse ainsi pour le troisième mois consécutif, sous l’effet de la hausse des prix des céréales, des huiles végétales et de la viande. L’indice FAO mesure l’évolution des prix sur les marchés alimentaires internationaux. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مؤشر أسعار الغذاء العالمي يرتفع للشهر الثالث مع صعود الحبوب والزيوت واللحوم",
-        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن مؤشر أسعار الغذاء العالمي الصادر عن الفاو بلغ 130.7 الشهر الماضي، مرتفعا 1.6% عن الشهر السابق.",
-        "body": "أعلنت وزارة الزراعة والغذاء والشؤون الريفية في كوريا الجنوبية أن مؤشر أسعار الغذاء العالمي الصادر عن منظمة الأغذية والزراعة للأمم المتحدة (الفاو) سجل 130.7 في الشهر الماضي، بزيادة قدرها 1.6% عن الشهر السابق. وارتفع المؤشر للشهر الثالث على التوالي، مع انعكاس صعود أسعار الحبوب والزيوت النباتية واللحوم على القراءة الإجمالية. ويعد مؤشر الفاو مقياسا لاتجاهات الأسعار في سوق الغذاء الدولية، حيث تؤثر تغيرات أسعار السلع الرئيسية في المستوى العام للمؤشر. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "विश्व खाद्य मूल्य सूचकांक तीसरे महीने चढ़ा, अनाज, तेल और मांस ने बढ़त दी",
-        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि FAO का विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 रहा, जो पिछले महीने से 1.6% अधिक है।",
-        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने बताया कि संयुक्त राष्ट्र खाद्य और कृषि संगठन (FAO) द्वारा जारी विश्व खाद्य मूल्य सूचकांक पिछले महीने 130.7 पर रहा, जो पिछले महीने की तुलना में 1.6% अधिक है। यह सूचकांक लगातार तीसरे महीने बढ़ा है। इस बढ़त में अनाज, वनस्पति तेलों और मांस की कीमतों में वृद्धि का असर शामिल है। FAO खाद्य मूल्य सूचकांक अंतरराष्ट्रीय खाद्य बाजारों में कीमतों की प्रवृत्ति दिखाने वाला संकेतक है, और प्रमुख वस्तुओं की कीमतों में बदलाव इसके कुल स्तर को प्रभावित करता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Indeks Harga Pangan Dunia Naik Tiga Bulan Beruntun, Dipicu Sereal, Minyak dan Daging",
-        "excerpt": "Kementerian Pertanian Korea Selatan menyebut indeks harga pangan dunia FAO bulan lalu mencapai 130,7, naik 1,6% dari bulan sebelumnya dan naik tiga bulan berturut-turut.",
-        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengatakan indeks harga pangan dunia yang dirilis Organisasi Pangan dan Pertanian PBB (FAO) tercatat 130,7 pada bulan lalu, naik 1,6% dibanding bulan sebelumnya. Indeks tersebut meningkat selama tiga bulan berturut-turut, mencerminkan kenaikan harga sereal, minyak nabati, dan daging. Indeks harga pangan FAO menjadi indikator pergerakan harga di pasar pangan internasional, dengan perubahan harga komoditas utama memengaruhi angka keseluruhan. Sumber: yna.co.kr"
       }
     }
   }
