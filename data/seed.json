@@ -1,5 +1,230 @@
 [
   {
+    "id": "323fbb266237",
+    "slug": "중기부-모두의-창업-신속심사로-첫-합격자-130명-발표-905847",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T19:26:14.726Z",
+    "updatedAt": "2026-05-10T19:26:14.726Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
+    "titleFingerprint": "08df77d4dca9534001e0dd28515345c43eadd5a9",
+    "dedupKeys": [
+      "323fbb2662370d7125152ec39f2b43a31606824b",
+      "08df77d4dca9534001e0dd28515345c43eadd5a9",
+      "dfa00c7ac852e7d81b6f0bec80e546ef7c781e75"
+    ],
+    "imageUrl": "/images/articles/323fbb266237.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중기부 ‘모두의 창업’ 신속심사 첫 합격자 130명 발표, 창업 지원 본격화",
+        "excerpt": "중소벤처기업부가 10일 ‘모두의 창업’ 프로젝트 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝히며 창업 지원 절차의 첫 결과를 공개했다.",
+        "body": "중소벤처기업부는 10일 ‘모두의 창업’ 프로젝트의 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝혔다. 이번 발표는 해당 프로젝트에서 신속 심사 절차를 거쳐 나온 첫 선정 결과다. 중기부는 창업 지원 대상자를 가려내기 위해 심사를 진행했으며, 첫 합격 규모는 130명으로 집계됐다. 이번 선정은 ‘모두의 창업’ 프로젝트가 실제 지원 단계로 들어섰음을 보여주는 사례로, 향후 사업 진행 과정에서 후속 절차가 이어질 전망이다. 이번 내용은 연합뉴스가 보도했으며 출처는 yna.co.kr이다."
+      },
+      "en": {
+        "title": "MSS Names First 130 Fast-Track Passers for ‘Startup for Everyone’ Project",
+        "excerpt": "South Korea’s Ministry of SMEs and Startups said on May 10 it selected the first 130 successful applicants through fast-track screening for the ‘Startup for Everyone’ project.",
+        "body": "South Korea’s Ministry of SMEs and Startups said on May 10 that it selected the first 130 successful applicants through fast-track screening for the ‘Startup for Everyone’ project. The announcement marks the first selection result produced through the project’s expedited review process. The ministry conducted screening to identify people eligible for startup support, with the initial group totaling 130. The selection shows that the ‘Startup for Everyone’ project has moved into an actual support phase, with follow-up procedures expected as the program proceeds. The report was published by Yonhap News Agency, with yna.co.kr cited as the source."
+      },
+      "ja": {
+        "title": "中企部「みんなの創業」迅速審査で初の合格者130人を発表",
+        "excerpt": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと明らかにした。",
+        "body": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと発表した。今回の発表は、同プロジェクトで迅速審査の手続きを経て示された初めての選定結果となる。中企部は創業支援の対象者を選ぶため審査を行い、最初の合格規模は130人と集計された。今回の選定は、「みんなの創業」プロジェクトが実際の支援段階に入ったことを示す事例であり、今後の事業進行に伴い後続手続きが続く見通しだ。この記事は聯合ニュースが報じ、出典はyna.co.krである。"
+      },
+      "zh": {
+        "title": "韩国中企部公布“全民创业”快速审查首批130名合格者",
+        "excerpt": "韩国中小风险企业部10日表示，通过“全民创业”项目快速审查，已选定首批130名合格者，公开该项目首个审查结果。",
+        "body": "韩国中小风险企业部10日表示，通过“全民创业”项目的快速审查，已选定首批130名合格者。此次发布是该项目经过快速审查程序后公布的首个选定结果。中企部为筛选创业支持对象进行了审查，首批合格人数为130人。此次选定显示，“全民创业”项目已进入实际支持阶段，随着项目推进，后续程序预计将继续进行。相关内容由韩联社报道，来源为yna.co.kr。"
+      },
+      "es": {
+        "title": "Ministerio surcoreano anuncia 130 primeros aprobados de ‘Startup para Todos’",
+        "excerpt": "El Ministerio de Pymes y Startups de Corea del Sur dijo el día 10 que seleccionó a los primeros 130 aprobados mediante revisión rápida del proyecto ‘Startup para Todos’.",
+        "body": "El Ministerio de Pymes y Startups de Corea del Sur anunció el día 10 que seleccionó a los primeros 130 aprobados mediante la revisión rápida del proyecto ‘Startup para Todos’. El anuncio representa el primer resultado de selección obtenido a través del procedimiento acelerado de evaluación de este proyecto. El ministerio realizó la revisión para identificar a los beneficiarios del apoyo al emprendimiento, y el primer grupo quedó compuesto por 130 personas. La selección muestra que el proyecto ‘Startup para Todos’ ha entrado en una fase de apoyo efectivo, con procedimientos posteriores previstos durante su desarrollo. La información fue publicada por Yonhap News Agency; la fuente es yna.co.kr."
+      },
+      "pt": {
+        "title": "Ministério sul-coreano anuncia 130 primeiros aprovados em ‘Startup para Todos’",
+        "excerpt": "O Ministério das PMEs e Startups da Coreia do Sul informou no dia 10 que selecionou os primeiros 130 aprovados pela análise rápida do projeto ‘Startup para Todos’.",
+        "body": "O Ministério das PMEs e Startups da Coreia do Sul informou no dia 10 que selecionou os primeiros 130 aprovados por meio da análise rápida do projeto ‘Startup para Todos’. O anúncio representa o primeiro resultado de seleção produzido pelo procedimento acelerado de avaliação do projeto. O ministério realizou a triagem para identificar os beneficiários do apoio ao empreendedorismo, e o primeiro grupo totalizou 130 pessoas. A seleção mostra que o projeto ‘Startup para Todos’ entrou em uma etapa de apoio efetivo, com procedimentos posteriores previstos conforme o programa avançar. A notícia foi publicada pela Yonhap News Agency, com yna.co.kr como fonte."
+      },
+      "de": {
+        "title": "Südkoreas KMU-Ministerium nennt erste 130 Bestehende bei ‘Startup für alle’",
+        "excerpt": "Das südkoreanische Ministerium für KMU und Startups teilte am 10. mit, dass es durch eine Schnellprüfung die ersten 130 erfolgreichen Bewerber für ‘Startup für alle’ ausgewählt hat.",
+        "body": "Das südkoreanische Ministerium für KMU und Startups teilte am 10. mit, dass es durch eine Schnellprüfung die ersten 130 erfolgreichen Bewerber für das Projekt ‘Startup für alle’ ausgewählt hat. Die Mitteilung ist das erste Auswahlergebnis, das aus dem beschleunigten Prüfverfahren dieses Projekts hervorgegangen ist. Das Ministerium führte die Prüfung durch, um Personen für die Gründungsförderung zu bestimmen; die erste Gruppe umfasst 130 Menschen. Die Auswahl zeigt, dass ‘Startup für alle’ in eine konkrete Unterstützungsphase eingetreten ist, wobei im weiteren Verlauf Folgeverfahren erwartet werden. Berichtet wurde dies von Yonhap News Agency; Quelle ist yna.co.kr."
+      },
+      "fr": {
+        "title": "Le ministère sud-coréen annonce 130 premiers admis pour ‘Startup pour tous’",
+        "excerpt": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 avoir sélectionné les 130 premiers admis via l’examen accéléré du projet ‘Startup pour tous’.",
+        "body": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 avoir sélectionné les 130 premiers admis grâce à l’examen accéléré du projet ‘Startup pour tous’. Cette annonce constitue le premier résultat de sélection issu de la procédure rapide d’évaluation du projet. Le ministère a mené cet examen afin d’identifier les personnes pouvant bénéficier du soutien à la création d’entreprise, et le premier groupe compte 130 personnes. Cette sélection montre que le projet ‘Startup pour tous’ est entré dans une phase de soutien concret, avec des procédures de suivi attendues au fil de son avancement. L’information a été rapportée par Yonhap News Agency; la source est yna.co.kr."
+      },
+      "ar": {
+        "title": "وزارة الشركات الناشئة الكورية تعلن أول 130 ناجحا في ‘ريادة للجميع’",
+        "excerpt": "قالت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 إنها اختارت أول 130 ناجحا عبر المراجعة السريعة لمشروع ‘ريادة للجميع’.",
+        "body": "أعلنت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 أنها اختارت أول 130 ناجحا من خلال المراجعة السريعة لمشروع ‘ريادة للجميع’. ويمثل هذا الإعلان أول نتيجة اختيار تصدر عبر إجراء الفحص المعجل الخاص بالمشروع. وأجرت الوزارة المراجعة لتحديد المستفيدين من دعم ريادة الأعمال، وبلغ حجم الدفعة الأولى 130 شخصا. ويظهر هذا الاختيار أن مشروع ‘ريادة للجميع’ دخل مرحلة الدعم الفعلي، مع توقع استمرار الإجراءات اللاحقة مع تقدم البرنامج. وقد أوردت وكالة يونهاب للأنباء هذا الخبر، والمصدر هو yna.co.kr."
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया ने ‘Startup for Everyone’ में पहले 130 सफल आवेदक घोषित किए",
+        "excerpt": "दक्षिण कोरिया के एसएमई और स्टार्टअप मंत्रालय ने 10 तारीख को कहा कि ‘Startup for Everyone’ परियोजना की त्वरित समीक्षा से पहले 130 सफल आवेदक चुने गए।",
+        "body": "दक्षिण कोरिया के एसएमई और स्टार्टअप मंत्रालय ने 10 तारीख को कहा कि उसने ‘Startup for Everyone’ परियोजना की त्वरित समीक्षा के जरिए पहले 130 सफल आवेदकों का चयन किया है। यह घोषणा इस परियोजना की तेज समीक्षा प्रक्रिया से निकला पहला चयन परिणाम है। मंत्रालय ने उद्यमिता समर्थन के पात्र लोगों की पहचान के लिए समीक्षा की, और पहले समूह की संख्या 130 रही। यह चयन दिखाता है कि ‘Startup for Everyone’ परियोजना वास्तविक समर्थन चरण में प्रवेश कर चुकी है, और कार्यक्रम आगे बढ़ने पर संबंधित अगली प्रक्रियाएं जारी रहने की उम्मीद है। यह रिपोर्ट योनहाप न्यूज एजेंसी ने दी है; स्रोत yna.co.kr है।"
+      },
+      "id": {
+        "title": "Kementerian Korea Umumkan 130 Lolos Pertama Proyek ‘Startup untuk Semua’",
+        "excerpt": "Kementerian UKM dan Startup Korea Selatan pada tanggal 10 menyatakan telah memilih 130 peserta lolos pertama lewat peninjauan cepat proyek ‘Startup untuk Semua’.",
+        "body": "Kementerian UKM dan Startup Korea Selatan pada tanggal 10 menyatakan telah memilih 130 peserta lolos pertama melalui peninjauan cepat proyek ‘Startup untuk Semua’. Pengumuman ini menjadi hasil seleksi pertama yang muncul dari prosedur peninjauan cepat proyek tersebut. Kementerian melakukan seleksi untuk menentukan pihak yang berhak menerima dukungan kewirausahaan, dengan kelompok awal berjumlah 130 orang. Pemilihan ini menunjukkan bahwa proyek ‘Startup untuk Semua’ telah masuk ke tahap dukungan nyata, dengan prosedur lanjutan diperkirakan mengikuti seiring berjalannya program. Informasi ini dilaporkan oleh Yonhap News Agency, dengan yna.co.kr sebagai sumber."
+      }
+    }
+  },
+  {
+    "id": "f491089cd60c",
+    "slug": "주병기-매각명령-등-구조적-조치-사익편취-억제-효과-클-것-917878",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T19:25:24.562Z",
+    "updatedAt": "2026-05-10T19:25:24.562Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
+    "titleFingerprint": "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
+    "dedupKeys": [
+      "f491089cd60c0c91985e13d881cdce512ca1f539",
+      "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
+      "cdc5605c0e9f12394fd36378a80e2e1bccee4206"
+    ],
+    "imageUrl": "/images/articles/f491089cd60c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "공정위원장 주병기, 매각명령 등 구조적 조치로 사익편취 억제 강조",
+        "excerpt": "주병기 공정거래위원장은 마닐라에서 대기업집단의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라며 매각명령 등 조치가 사익편취 억제에 효과가 클 것이라고 밝혔다.",
+        "body": "주병기 공정거래위원장은 마닐라에서 대기업집단의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라는 점을 고려해야 한다고 밝혔다. 그는 이런 구조적 문제를 완화하기 위한 방안으로 매각명령 등 구조적 조치를 언급하며, 해당 조치가 사익편취를 억제하는 데 큰 효과를 낼 수 있다고 설명했다. 이번 발언은 공정거래 정책에서 대기업집단의 지배구조와 시장 집중 문제를 함께 다뤄야 한다는 맥락에서 나왔다. 구체적인 수치나 세부 실행 일정은 원문 요약에 제시되지 않았다. 향후 관련 제도 논의는 시장 독과점 완화와 사익편취 방지 효과를 중심으로 이어질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "FTC Chair Joo Byung-ki Stresses Divestiture Orders to Curb Private Gains",
+        "excerpt": "In Manila, FTC Chair Joo Byung-ki said excessive economic concentration among large business groups is a structural cause of market monopolization and that divestiture orders could curb private benefit-taking.",
+        "body": "Fair Trade Commission Chair Joo Byung-ki said in Manila that excessive concentration of economic power in large business groups should be viewed as a structural cause of market monopolization. As a way to ease this structural problem, he cited measures such as divestiture orders and said they could have a significant effect in restraining private benefit-taking. The remarks came in the context of fair trade policy discussions that link corporate governance at large business groups with market concentration. The original summary did not provide specific figures or an implementation timetable. Future debate is expected to focus on reducing monopolistic market structures and preventing private gains. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "朱炳基公取委員長、売却命令など構造的措置で私益取得抑制を強調",
+        "excerpt": "朱炳基公正取引委員長はマニラで、大企業集団への過度な経済力集中が市場独占化の構造的要因だとし、売却命令などが私益取得の抑制に効果を持つと述べた。",
+        "body": "朱炳基公正取引委員長はマニラで、大企業集団への過度な経済力集中が市場独占化の構造的原因である点を考慮すべきだと述べた。こうした構造的問題を緩和する方法として売却命令などの構造的措置に言及し、これらの措置が私益取得を抑制するうえで大きな効果を発揮し得ると説明した。今回の発言は、公正取引政策において大企業集団の支配構造と市場集中問題をあわせて扱うべきだという文脈で出た。具体的な数値や詳細な実施日程は原文要約には示されていない。今後の制度論議は、市場独占化の緩和と私益取得の防止効果を中心に続く見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩国公正交易委员长朱炳基强调以出售命令等结构性措施遏制私利攫取",
+        "excerpt": "朱炳基在马尼拉表示，大企业集团经济力过度集中是市场垄断化的结构性原因，出售命令等措施对遏制私利攫取将有较大效果。",
+        "body": "韩国公正交易委员长朱炳基在马尼拉表示，应考虑到大企业集团经济力过度集中是市场垄断化的结构性原因。作为缓解这一结构性问题的方案，他提到出售命令等结构性措施，并说明这些措施可能在遏制私利攫取方面产生较大效果。此次发言是在公平交易政策需要同时处理大企业集团治理结构和市场集中问题的背景下作出的。原文摘要未提供具体数据或详细执行时间表。今后相关制度讨论预计将围绕缓解市场垄断化和防止私利攫取的效果展开。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Joo Byung-ki defiende órdenes de venta para frenar beneficios privados",
+        "excerpt": "En Manila, Joo Byung-ki, presidente de la Comisión de Comercio Justo, dijo que la concentración excesiva en grandes grupos causa monopolización y que órdenes de venta pueden frenar beneficios privados.",
+        "body": "Joo Byung-ki, presidente de la Comisión de Comercio Justo, afirmó en Manila que debe tenerse en cuenta que la concentración excesiva de poder económico en grandes grupos empresariales es una causa estructural de la monopolización del mercado. Como vía para aliviar ese problema estructural, mencionó medidas como las órdenes de venta y explicó que podrían tener un gran efecto en la contención de la obtención de beneficios privados. Sus declaraciones se produjeron en un contexto de política de competencia que vincula la gobernanza de los grandes grupos con la concentración del mercado. El resumen original no ofreció cifras concretas ni un calendario detallado de aplicación. El debate institucional previsiblemente seguirá centrado en reducir la monopolización y prevenir beneficios privados. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Joo Byung-ki destaca ordens de venda para conter apropriação de benefícios privados",
+        "excerpt": "Em Manila, Joo Byung-ki disse que a concentração econômica excessiva em grandes grupos é causa estrutural da monopolização e que ordens de venda podem conter benefícios privados.",
+        "body": "Joo Byung-ki, presidente da Comissão de Comércio Justo, afirmou em Manila que é preciso considerar a concentração excessiva de poder econômico em grandes grupos empresariais como uma causa estrutural da monopolização do mercado. Como forma de aliviar esse problema, ele citou medidas estruturais como ordens de venda e explicou que elas podem ter grande efeito na contenção da apropriação de benefícios privados. A declaração surgiu no contexto de políticas de concorrência que tratam conjuntamente a governança dos grandes grupos e a concentração de mercado. O resumo original não apresentou números específicos nem cronograma detalhado de execução. As próximas discussões institucionais devem se concentrar na redução da monopolização e na prevenção de benefícios privados. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Joo Byung-ki betont Verkaufsanordnungen gegen private Vorteilsnahme",
+        "excerpt": "In Manila sagte der FTC-Vorsitzende Joo Byung-ki, übermäßige Wirtschaftsmacht großer Unternehmensgruppen sei eine strukturelle Ursache für Monopolisierung; Verkaufsanordnungen könnten private Vorteilsnahme eindämmen.",
+        "body": "Der Vorsitzende der Fair Trade Commission, Joo Byung-ki, sagte in Manila, die übermäßige Konzentration wirtschaftlicher Macht in großen Unternehmensgruppen müsse als strukturelle Ursache der Monopolisierung von Märkten betrachtet werden. Als Mittel zur Entschärfung dieses Problems nannte er strukturelle Maßnahmen wie Verkaufsanordnungen und erklärte, diese könnten eine große Wirkung bei der Eindämmung privater Vorteilsnahme entfalten. Die Äußerung fiel im Kontext einer Wettbewerbspolitik, die Corporate Governance großer Unternehmensgruppen und Marktkonzentration gemeinsam behandelt. Die ursprüngliche Zusammenfassung enthielt keine konkreten Zahlen und keinen detaillierten Umsetzungsplan. Die weitere Debatte dürfte sich auf die Verringerung monopolistischer Strukturen und die Verhinderung privater Vorteilsnahme konzentrieren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Joo Byung-ki met en avant les ordres de cession contre les gains privés",
+        "excerpt": "À Manille, Joo Byung-ki a déclaré que la concentration excessive du pouvoir économique dans les grands groupes est une cause structurelle de monopolisation et que les ordres de cession peuvent limiter les gains privés.",
+        "body": "Joo Byung-ki, président de la Commission du commerce équitable, a déclaré à Manille qu’il fallait considérer la concentration excessive du pouvoir économique dans les grands groupes comme une cause structurelle de la monopolisation des marchés. Pour atténuer ce problème, il a cité des mesures structurelles telles que les ordres de cession et expliqué qu’elles pourraient avoir un effet important pour freiner l’appropriation de gains privés. Ces propos s’inscrivent dans un contexte de politique de concurrence reliant la gouvernance des grands groupes et la concentration du marché. Le résumé original ne fournit pas de chiffres précis ni de calendrier détaillé. Les discussions institutionnelles devraient désormais porter sur la réduction de la monopolisation et la prévention des gains privés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "جو بيونغ كي يؤكد دور أوامر البيع في كبح جني المنافع الخاصة",
+        "excerpt": "قال جو بيونغ كي في مانيلا إن التركيز المفرط للقوة الاقتصادية لدى مجموعات الشركات الكبرى سبب هيكلي لاحتكار الأسواق، وإن أوامر البيع قد تكون فعالة في كبح المنافع الخاصة.",
+        "body": "قال جو بيونغ كي، رئيس لجنة التجارة العادلة، في مانيلا إنه ينبغي النظر إلى التركيز المفرط للقوة الاقتصادية في مجموعات الشركات الكبرى بوصفه سببا هيكليا لاحتكار الأسواق. وذكر، كوسيلة لتخفيف هذه المشكلة الهيكلية، تدابير مثل أوامر البيع، موضحا أن هذه الإجراءات قد تحقق أثرا كبيرا في كبح جني المنافع الخاصة. وجاءت هذه التصريحات في سياق سياسات المنافسة التي تتعامل مع حوكمة مجموعات الشركات الكبرى ومشكلة تركز السوق معا. ولم يتضمن ملخص النص الأصلي أرقاما محددة أو جدولا زمنيا تفصيليا للتنفيذ. ومن المتوقع أن تتركز المناقشات المقبلة على تخفيف احتكار الأسواق ومنع جني المنافع الخاصة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "जू ब्युंग-की ने निजी लाभ रोकने को बिक्री आदेश जैसे संरचनात्मक उपायों पर जोर दिया",
+        "excerpt": "मनीला में जू ब्युंग-की ने कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति का अत्यधिक केंद्रीकरण बाजार एकाधिकार का संरचनात्मक कारण है और बिक्री आदेश निजी लाभ रोक सकते हैं।",
+        "body": "निष्पक्ष व्यापार आयोग के अध्यक्ष जू ब्युंग-की ने मनीला में कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति के अत्यधिक केंद्रीकरण को बाजार के एकाधिकार की संरचनात्मक वजह के रूप में देखा जाना चाहिए। इस संरचनात्मक समस्या को कम करने के उपाय के तौर पर उन्होंने बिक्री आदेश जैसे संरचनात्मक कदमों का उल्लेख किया और कहा कि ये निजी लाभ लेने की प्रवृत्ति को रोकने में बड़ा असर डाल सकते हैं। यह टिप्पणी निष्पक्ष व्यापार नीति में बड़े समूहों की शासन संरचना और बाजार केंद्रीकरण को साथ देखने के संदर्भ में आई। मूल सारांश में कोई विशिष्ट आंकड़ा या विस्तृत कार्यान्वयन समयसारिणी नहीं दी गई। आगे की संस्थागत चर्चा बाजार एकाधिकार घटाने और निजी लाभ रोकने के प्रभाव पर केंद्रित रहने की उम्मीद है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Joo Byung-ki Tekankan Perintah Divestasi untuk Tekan Pengambilan Keuntungan Pribadi",
+        "excerpt": "Di Manila, Ketua KFTC Joo Byung-ki mengatakan konsentrasi kekuatan ekonomi berlebihan pada grup besar menjadi penyebab struktural monopoli pasar dan perintah divestasi dapat menekan keuntungan pribadi.",
+        "body": "Ketua Komisi Perdagangan Adil Joo Byung-ki mengatakan di Manila bahwa konsentrasi kekuatan ekonomi yang berlebihan pada kelompok usaha besar perlu dilihat sebagai penyebab struktural monopoliasasi pasar. Sebagai cara untuk meredakan masalah struktural itu, ia menyebut langkah seperti perintah divestasi dan menjelaskan bahwa kebijakan tersebut dapat berdampak besar dalam menekan pengambilan keuntungan pribadi. Pernyataan ini muncul dalam konteks kebijakan persaingan yang mengaitkan tata kelola kelompok usaha besar dengan masalah konsentrasi pasar. Ringkasan asli tidak memuat angka khusus atau jadwal pelaksanaan terperinci. Pembahasan kebijakan ke depan diperkirakan berfokus pada pengurangan monopoli pasar dan pencegahan keuntungan pribadi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f04bbcbb0dbf",
+    "slug": "k-엔비디아-인재-노린-꼼수-인수-막는다기업결합-신고추진-789281",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T19:24:23.193Z",
+    "updatedAt": "2026-05-10T19:24:23.193Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
+    "titleFingerprint": "afb111f5ede718d1a189426640b47a384cbf426e",
+    "dedupKeys": [
+      "f04bbcbb0dbf4e9da77afeb553fe64ea36af66e3",
+      "afb111f5ede718d1a189426640b47a384cbf426e",
+      "547a2ef81b4e7d7b5840f253e5a5c030354c227a"
+    ],
+    "imageUrl": "/images/articles/f04bbcbb0dbf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 스타트업 핵심 인재 ‘꼼수 인수’ 차단…기업결합 신고 추진",
+        "excerpt": "공정거래 당국이 기술력 있는 AI 스타트업의 핵심 인재를 채용해 사실상 편법 인수하는 사례를 막기 위해 기업결합 신고 대상에 포함하는 방안을 추진한다.",
+        "body": "연합뉴스에 따르면 공정거래 당국은 기술력이 뛰어난 인공지능(AI) 스타트업의 핵심 인재를 채용하는 방식으로 사실상 회사를 흡수하는 ‘편법 인수’ 사례를 막기 위해 기업결합 신고 제도 개선을 추진한다. 이번 논의는 이른바 ‘K-엔비디아’로 성장할 수 있는 유망 AI 기업의 기술과 인력이 정식 인수 절차 밖에서 빠져나가는 문제를 겨냥한 것이다. 핵심 인재 채용이 단순 고용을 넘어 기업의 실질적 지배력 이전으로 이어질 수 있다는 점에서 신고 필요성이 제기됐다. 제도가 마련되면 AI 스타트업 인재 확보 경쟁에도 경쟁 제한 여부를 따지는 심사가 적용될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "AI Startup Talent ‘Acqui-Hires’ Face Scrutiny as Merger Filing Plan Advances",
+        "excerpt": "Competition authorities are moving to include de facto takeovers through hiring key AI startup talent in merger filing rules to prevent workaround acquisitions.",
+        "body": "According to Yonhap News Agency, competition authorities are pursuing changes to the merger filing system to prevent cases in which companies effectively absorb highly capable artificial intelligence startups by hiring their core talent. The discussion targets so-called workaround acquisitions that could draw technology and people away from promising AI firms capable of growing into a “K-Nvidia” outside formal takeover procedures. Authorities raised the need for notification because hiring key personnel may go beyond ordinary employment and lead to a practical transfer of corporate control. If the system is introduced, competition reviews could apply to talent acquisition battles involving AI startups. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "AIスタートアップ人材の“抜け道買収”防止へ、企業結合申告を推進",
+        "excerpt": "競争当局は、有望AIスタートアップの中核人材採用を通じた事実上の抜け道買収を防ぐため、企業結合申告対象に含める案を進める。",
+        "body": "聯合ニュースによると、競争当局は、優れた技術を持つ人工知能（AI）スタートアップの中核人材を採用する形で、事実上企業を吸収する「抜け道買収」を防ぐため、企業結合申告制度の改善を進める。今回の議論は、いわゆる「Kエヌビディア」へ成長し得る有望AI企業の技術と人材が、正式な買収手続きの外で流出する問題を念頭に置いたものだ。中核人材の採用が単なる雇用を超え、企業の実質的な支配力移転につながる可能性があるとして、申告の必要性が提起された。制度が整えば、AIスタートアップを巡る人材確保競争にも競争制限の有無を判断する審査が適用される見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "AI初创核心人才“变相收购”将受限，拟纳入企业合并申报",
+        "excerpt": "竞争监管部门正推动制度调整，将通过招聘AI初创企业核心人才实现的事实收购纳入企业合并申报，以防止规避式收购。",
+        "body": "据韩联社报道，竞争监管部门正推动完善企业合并申报制度，以防止企业通过招聘技术实力突出的人工智能（AI）初创企业核心人才，事实上吸收该公司的“变相收购”案例。此次讨论针对的是有望成长为所谓“K-英伟达”的AI企业，其技术和人才可能在正式收购程序之外流出的风险。监管方面认为，核心人才招聘可能超出一般雇佣范畴，并导致企业实质控制权转移，因此有必要要求申报。若制度落地，围绕AI初创企业的人才争夺也有望接受是否限制竞争的审查。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Freno a la ‘compra encubierta’ de talento en startups de IA con reporte de fusiones",
+        "excerpt": "Las autoridades de competencia impulsan incluir en las notificaciones de concentración los fichajes de talento clave de startups de IA que equivalgan a adquisiciones encubiertas.",
+        "body": "Según la agencia Yonhap, las autoridades de competencia impulsan mejoras al sistema de notificación de concentraciones empresariales para impedir casos en los que una compañía absorbe de hecho a una startup de inteligencia artificial (IA) con alta capacidad tecnológica mediante la contratación de su talento clave. La discusión apunta a las llamadas adquisiciones por vías indirectas, que podrían sacar tecnología y personal de empresas prometedoras capaces de convertirse en una “K-Nvidia” fuera de los procedimientos formales de compra. Se planteó la necesidad de notificar estos casos porque la contratación de personal esencial puede ir más allá del empleo ordinario y derivar en una transferencia práctica de control empresarial. Si se adopta el sistema, la competencia por talento en startups de IA podría quedar sujeta a revisión sobre posibles restricciones a la competencia. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Aquisição disfarçada de talentos de startups de IA terá controle por notificação",
+        "excerpt": "Autoridades de concorrência buscam incluir contratações de talentos-chave de startups de IA nas regras de notificação de combinação empresarial para barrar aquisições indiretas.",
+        "body": "Segundo a agência Yonhap, autoridades de concorrência estão promovendo mudanças no sistema de notificação de combinações empresariais para impedir casos em que uma empresa absorve, na prática, uma startup de inteligência artificial (IA) com alta capacidade tecnológica ao contratar seus talentos essenciais. A discussão mira aquisições indiretas que poderiam retirar tecnologia e pessoas de empresas promissoras de IA capazes de crescer como uma “K-Nvidia” fora dos procedimentos formais de aquisição. A necessidade de notificação foi levantada porque a contratação de talentos-chave pode ir além do emprego comum e levar à transferência prática de controle empresarial. Se o sistema for adotado, a disputa por talentos de startups de IA também poderá passar por análise de restrição à concorrência. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Umgehungsübernahmen bei KI-Startups im Fokus: Meldepflicht für Talentdeals geplant",
+        "excerpt": "Wettbewerbsbehörden wollen faktische Übernahmen durch das Abwerben zentraler KI-Startup-Talente in die Fusionsmeldepflicht einbeziehen, um Umgehungen zu verhindern.",
+        "body": "Nach Angaben der Nachrichtenagentur Yonhap treiben Wettbewerbsbehörden Änderungen am System der Fusionsmeldungen voran, um Fälle zu verhindern, in denen Unternehmen technologisch starke Startups für künstliche Intelligenz (KI) faktisch übernehmen, indem sie deren Schlüsselpersonal einstellen. Die Debatte richtet sich gegen sogenannte Umgehungsübernahmen, bei denen Technologie und Talente vielversprechender KI-Firmen, die zu einer „K-Nvidia“ heranwachsen könnten, außerhalb formeller Übernahmeverfahren abfließen. Die Notwendigkeit einer Meldung wurde damit begründet, dass die Einstellung zentraler Mitarbeiter über gewöhnliche Beschäftigung hinausgehen und zu einer faktischen Übertragung unternehmerischer Kontrolle führen kann. Kommt die Regelung, dürfte auch der Wettbewerb um KI-Startup-Talente auf mögliche Wettbewerbsbeschränkungen geprüft werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Startups IA : les rachats déguisés par recrutement de talents bientôt déclarés",
+        "excerpt": "Les autorités de concurrence veulent intégrer aux déclarations de concentration les recrutements de talents clés de startups IA pouvant constituer des acquisitions déguisées.",
+        "body": "Selon l’agence Yonhap, les autorités de concurrence poussent à améliorer le régime de déclaration des concentrations afin d’empêcher les cas où une entreprise absorbe de fait une startup d’intelligence artificielle (IA) très technologique en recrutant ses talents clés. La discussion vise les acquisitions dites de contournement, susceptibles de faire sortir technologies et personnels d’entreprises IA prometteuses capables de devenir une « K-Nvidia » en dehors des procédures formelles de rachat. La nécessité d’une déclaration a été soulevée car le recrutement de talents essentiels peut dépasser le simple emploi et entraîner un transfert effectif du contrôle de l’entreprise. Si le dispositif est mis en place, la concurrence pour les talents des startups IA pourrait aussi être examinée sous l’angle des restrictions à la concurrence. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "تشديد على استقطاب مواهب شركات الذكاء الاصطناعي لمنع الاستحواذ الملتف",
+        "excerpt": "تسعى سلطات المنافسة إلى إدراج توظيف المواهب الأساسية في شركات الذكاء الاصطناعي الناشئة ضمن إخطارات الاندماج عندما يؤدي ذلك إلى استحواذ فعلي غير مباشر.",
+        "body": "بحسب وكالة يونهاب، تدفع سلطات المنافسة باتجاه تحسين نظام الإخطار بعمليات الاندماج لمنع حالات تمتص فيها شركات، فعليا، شركات ناشئة متقدمة تقنيا في الذكاء الاصطناعي عبر توظيف مواهبها الأساسية. وتستهدف المناقشة ما يسمى بالاستحواذ عبر الالتفاف، حيث قد تنتقل التكنولوجيا والكوادر من شركات واعدة يمكن أن تنمو لتصبح «كي-إنفيديا» خارج إجراءات الاستحواذ الرسمية. وطرحت الحاجة إلى الإخطار لأن توظيف الكوادر المحورية قد يتجاوز التوظيف العادي ويؤدي إلى نقل فعلي للسيطرة على الشركة. وإذا أقر النظام، فقد تخضع المنافسة على مواهب شركات الذكاء الاصطناعي الناشئة لمراجعة تقييد المنافسة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "AI स्टार्टअप प्रतिभा की ‘घुमावदार खरीद’ पर रोक, विलय सूचना नियम आगे बढ़े",
+        "excerpt": "प्रतिस्पर्धा प्राधिकरण प्रमुख AI स्टार्टअप प्रतिभाओं की भर्ती के जरिये होने वाले वास्तविक अधिग्रहणों को विलय सूचना दायरे में लाने की तैयारी कर रहा है।",
+        "body": "योनहाप समाचार एजेंसी के अनुसार, प्रतिस्पर्धा प्राधिकरण विलय सूचना प्रणाली में सुधार आगे बढ़ा रहा है ताकि उन मामलों को रोका जा सके जिनमें कोई कंपनी उच्च तकनीकी क्षमता वाले कृत्रिम बुद्धिमत्ता (AI) स्टार्टअप की प्रमुख प्रतिभाओं को भर्ती कर उसे व्यवहार में अपने भीतर समाहित कर लेती है। यह चर्चा ऐसे परोक्ष अधिग्रहणों पर केंद्रित है जिनसे ‘K-एनवीडिया’ बन सकने वाली संभावनाशील AI कंपनियों की तकनीक और मानव संसाधन औपचारिक अधिग्रहण प्रक्रिया से बाहर निकल सकते हैं। प्रमुख प्रतिभाओं की भर्ती साधारण रोजगार से आगे जाकर कंपनी के वास्तविक नियंत्रण के हस्तांतरण में बदल सकती है, इसलिए सूचना देने की जरूरत उठाई गई है। व्यवस्था लागू होने पर AI स्टार्टअप प्रतिभाओं की होड़ पर भी प्रतिस्पर्धा-सीमा की समीक्षा लागू हो सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Akuisisi Terselubung Talenta Startup AI Dicegah Lewat Notifikasi Merger",
+        "excerpt": "Otoritas persaingan mendorong perekrutan talenta inti startup AI yang berujung pengambilalihan faktual masuk kewajiban notifikasi merger untuk mencegah akuisisi tidak langsung.",
+        "body": "Menurut kantor berita Yonhap, otoritas persaingan mendorong perbaikan sistem notifikasi penggabungan usaha untuk mencegah kasus ketika perusahaan secara faktual menyerap startup kecerdasan buatan (AI) berteknologi tinggi dengan merekrut talenta intinya. Pembahasan ini menargetkan akuisisi melalui jalur tidak langsung yang dapat membuat teknologi dan tenaga dari perusahaan AI menjanjikan, yang berpotensi tumbuh menjadi “K-Nvidia”, keluar dari prosedur akuisisi resmi. Kebutuhan notifikasi muncul karena perekrutan talenta kunci dapat melampaui hubungan kerja biasa dan mengarah pada perpindahan kendali perusahaan secara nyata. Jika sistem diterapkan, persaingan merebut talenta startup AI juga dapat diperiksa dari sisi pembatasan persaingan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "5c643ba1ade8",
     "slug": "공정위-하도급-계약서-늦게-준-두산에-과징금-2억3천만원-부과-526311",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Permohonan Izin Transaksi Tanah Seoul Melonjak Menjelang Pajak Tambahan",
         "excerpt": "Menjelang berakhirnya penangguhan pajak tambahan capital gain bagi pemilik banyak rumah, Seoul mencatat 10.066 permohonan bulan lalu dan 1.773 hingga 6 Mei.",
         "body": "Permohonan izin transaksi tanah di Seoul meningkat tajam menjelang berakhirnya masa penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah. Menurut hankyung.com, kantor distrik di Seoul menerima 10.066 permohonan bulan lalu, sekitar 1.500 lebih banyak dibanding 8.525 pada Maret. Pada Mei, hingga tanggal 6, masuk lagi 1.773 permohonan karena transaksi tahap akhir menjelang tenggat 9 Mei. Kenaikan paling terlihat di Gangnam, Seocho, dan Songpa, tempat permohonan mencapai 1.585 bulan lalu, naik 32,0% dari Maret. Harga apartemen Seoul naik 0,15% pekan ini, memperpanjang kenaikan di kisaran 0,1% selama enam pekan. Para ahli menilai transaksi di kawasan rumah mahal dapat melambat sementara jika pasokan listing berkurang setelah pajak tambahan berlaku kembali. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "809045e058dc",
-    "slug": "부동산-전문가-78-비거주-1주택-규제-반대전월세-더-줄어-임대료-뛸-것-451117",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T10:47:39.152Z",
-    "updatedAt": "2026-05-10T10:47:39.152Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051066061",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051066061",
-    "titleFingerprint": "afc2b2d3b697b46198405f5b9080f659f0e884b1",
-    "dedupKeys": [
-      "809045e058dce08720bc2df3a915db055bc73615",
-      "afc2b2d3b697b46198405f5b9080f659f0e884b1",
-      "e68067e250213cc396530923decaa7998eafc5c7"
-    ],
-    "imageUrl": "/images/articles/809045e058dc.png",
-    "i18n": {
-      "ko": {
-        "title": "비거주 1주택 규제 반대 78%…부동산 전문가들, 전·월세 감소·임대료 상승 우려",
-        "excerpt": "부동산 전문가 78%가 비거주 1주택 규제에 반대했다. 규제가 시행되면 전·월세 물량이 더 줄고 임대료가 오를 수 있다는 우려가 핵심이다.",
-        "body": "부동산 전문가 78%가 비거주 1주택 규제에 반대한다는 의견을 냈다. 한국경제 보도에 따르면 전문가들은 실거주하지 않는 1주택 보유자까지 규제 대상에 포함할 경우 임대차 시장의 전·월세 물량이 더 줄어들 수 있다고 봤다. 이들은 규제가 임대 공급을 위축시키면 세입자가 선택할 수 있는 매물이 감소하고, 결과적으로 임대료 상승 압력이 커질 수 있다고 지적했다. 비거주 1주택 규제를 둘러싼 논의가 주택 보유 부담과 임대차 공급 사이의 균형 문제로 이어지고 있다는 점도 부각됐다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "78% of Real Estate Experts Oppose Non-Resident One-Home Rule, Warn of Rent Pressure",
-        "excerpt": "Seventy-eight percent of real estate experts opposed regulation on non-resident one-home owners, warning it could reduce jeonse and monthly rental supply and push rents higher.",
-        "body": "Seventy-eight percent of real estate experts said they oppose regulation on non-resident one-home owners. According to a report by Korea Economic Daily, experts said that including owners of a single home they do not live in within the scope of regulation could further reduce jeonse and monthly rental listings in the lease market. They noted that if regulation weakens rental supply, tenants would have fewer homes to choose from, increasing upward pressure on rents. The debate over regulating non-resident one-home owners is therefore being framed as a question of balancing the burden on homeowners with rental housing supply. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "非居住1住宅規制に専門家78%が反対、賃貸物件減少と家賃上昇を懸念",
-        "excerpt": "不動産専門家の78%が非居住1住宅規制に反対した。規制が導入されればチョンセや月払い賃貸の物件がさらに減り、賃料が上がる恐れがあるとの見方だ。",
-        "body": "不動産専門家の78%が、非居住1住宅への規制に反対する意見を示した。韓国経済新聞の報道によると、専門家らは、実際に住んでいない1住宅の保有者まで規制対象に含める場合、賃貸市場でチョンセや月払い賃貸の物件がさらに減る可能性があるとみている。規制により賃貸供給が萎縮すれば、借り手が選べる物件が減り、その結果として賃料上昇圧力が強まる可能性があるとの指摘だ。非居住1住宅規制を巡る議論は、住宅保有負担と賃貸供給の均衡という問題にもつながっている。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "78%房地产专家反对非自住一套房监管，担忧租赁供应减少推高租金",
-        "excerpt": "78%的房地产专家反对对非自住一套房实施监管，认为相关措施可能进一步减少全租和月租房源，并带来租金上涨压力。",
-        "body": "78%的房地产专家表示反对对非自住一套房实施监管。据《韩国经济新闻》报道，专家认为，如果将并未实际居住的一套住房持有人也纳入监管对象，租赁市场上的全租和月租房源可能会进一步减少。他们指出，一旦监管削弱出租供应，租户可选择的房源将减少，最终可能加大租金上涨压力。围绕非自住一套房监管的讨论，也凸显了住房持有负担与租赁供应之间如何取得平衡的问题。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "78% de expertos rechaza regular la única vivienda no residente por riesgo de alzas",
-        "excerpt": "El 78% de los expertos inmobiliarios se opuso a regular a propietarios de una sola vivienda no residente, al advertir que bajaría la oferta de alquileres y subirían las rentas.",
-        "body": "El 78% de los expertos inmobiliarios manifestó su oposición a regular a los propietarios de una sola vivienda en la que no residen. Según informó Korea Economic Daily, los especialistas consideran que incluir en la regulación a quienes poseen una vivienda sin vivir en ella podría reducir aún más la oferta de jeonse y alquiler mensual en el mercado de arrendamiento. Señalaron que, si la regulación contrae la oferta de viviendas en alquiler, los inquilinos tendrán menos opciones y aumentará la presión al alza sobre las rentas. El debate sobre esta norma se vincula así con el equilibrio entre la carga para los propietarios y la oferta de alquiler. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "78% dos especialistas rejeitam regra para imóvel único não residente e veem alta nos aluguéis",
-        "excerpt": "Setenta e oito por cento dos especialistas imobiliários se opuseram à regulação de imóvel único não residente, alertando para menor oferta de aluguel e possível alta dos preços.",
-        "body": "Setenta e oito por cento dos especialistas imobiliários declararam oposição à regulação de proprietários de um único imóvel no qual não residem. Segundo o Korea Economic Daily, os especialistas avaliam que incluir esse tipo de proprietário no alcance da regra pode reduzir ainda mais a oferta de jeonse e de aluguel mensal no mercado de locação. Eles apontam que, se a regulação enfraquecer a oferta de imóveis para alugar, os inquilinos terão menos opções, elevando a pressão sobre os preços dos aluguéis. A discussão sobre a regulação de imóveis únicos não residentes expõe a questão do equilíbrio entre o ônus da posse e a oferta de locação. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "78% der Immobilienexperten lehnen Regeln für nicht selbst genutztes Einzeleigentum ab",
-        "excerpt": "78% der Immobilienexperten lehnen Regeln für Eigentümer einer nicht selbst genutzten Einzelwohnung ab und warnen vor weniger Mietangeboten und steigenden Mieten.",
-        "body": "78% der Immobilienexperten sprechen sich gegen eine Regulierung von Eigentümern aus, die nur eine Wohnung besitzen, diese aber nicht selbst bewohnen. Laut einem Bericht der Korea Economic Daily gehen Experten davon aus, dass eine Einbeziehung solcher Eigentümer in die Regulierung das Angebot an Jeonse- und Monatsmietwohnungen weiter verringern könnte. Sie weisen darauf hin, dass ein Rückgang des Mietangebots die Auswahl für Mieter einschränken und damit den Aufwärtsdruck auf die Mieten erhöhen kann. Die Debatte über die Regulierung nicht selbst genutzten Einzeleigentums wird damit auch zu einer Frage des Gleichgewichts zwischen Belastungen für Eigentümer und Mietangebot. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "78% des experts refusent de réguler le logement unique non occupé, craignant une hausse des loyers",
-        "excerpt": "78% des experts immobiliers s’opposent à la régulation des propriétaires d’un seul logement non occupé, estimant qu’elle réduirait l’offre locative et ferait monter les loyers.",
-        "body": "78% des experts immobiliers se sont déclarés opposés à une régulation visant les propriétaires d’un seul logement dans lequel ils ne résident pas. Selon le Korea Economic Daily, ces experts estiment que l’inclusion de ces propriétaires dans le champ réglementaire pourrait réduire davantage l’offre de jeonse et de locations mensuelles sur le marché locatif. Ils soulignent que si la régulation affaiblit l’offre de logements à louer, les locataires disposeront de moins de choix, ce qui pourrait accroître la pression à la hausse sur les loyers. Le débat met ainsi en avant l’équilibre entre la charge imposée aux propriétaires et l’offre locative. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "78% من خبراء العقارات يرفضون تنظيم مالكي مسكن واحد غير مقيم ويحذرون من ارتفاع الإيجارات",
-        "excerpt": "عارض 78% من خبراء العقارات تنظيم مالكي مسكن واحد غير مقيم، محذرين من أن ذلك قد يقلص معروض الإيجار بنظامي الجونسِه والإيجار الشهري ويرفع الأسعار.",
-        "body": "أعرب 78% من خبراء العقارات عن معارضتهم لتنظيم مالكي مسكن واحد لا يقيمون فيه. ووفقاً لما أوردته صحيفة كوريا الاقتصادية، يرى الخبراء أن إدراج مالكي المسكن الواحد غير المقيم ضمن نطاق التنظيم قد يؤدي إلى مزيد من تراجع معروض الإيجارات بنظامي الجونسِه والإيجار الشهري في سوق الإيجار. وأشاروا إلى أن إضعاف المعروض الإيجاري سيقلل الخيارات المتاحة أمام المستأجرين، ما قد يزيد الضغوط الصعودية على الإيجارات. وتبرز مناقشة تنظيم المسكن الواحد غير المقيم مسألة التوازن بين عبء امتلاك المسكن وتوفير المعروض الإيجاري. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "78% रियल एस्टेट विशेषज्ञ गैर-निवासी एक घर नियम के खिलाफ, किराया बढ़ने की चेतावनी",
-        "excerpt": "78% रियल एस्टेट विशेषज्ञों ने गैर-निवासी एक घर मालिकों पर नियम का विरोध किया। उनका कहना है कि इससे जोंसे और मासिक किराये की आपूर्ति घटकर किराया बढ़ सकता है।",
-        "body": "78% रियल एस्टेट विशेषज्ञों ने गैर-निवासी एक घर मालिकों पर नियमन का विरोध किया है। Korea Economic Daily की रिपोर्ट के अनुसार, विशेषज्ञों का मानना है कि जिस एक घर में मालिक खुद नहीं रहते, उसे भी नियमन के दायरे में लाने से किराया बाजार में जोंसे और मासिक किराये की उपलब्धता और घट सकती है। उन्होंने कहा कि यदि नियमन से किराये की आपूर्ति कमजोर होती है, तो किरायेदारों के पास चुनने के लिए कम मकान रह जाएंगे और किराये में वृद्धि का दबाव बढ़ सकता है। गैर-निवासी एक घर नियमन पर चर्चा इस बात से भी जुड़ती है कि घर मालिकों के बोझ और किराये की आपूर्ति के बीच संतुलन कैसे रखा जाए। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "78% Pakar Real Estat Tolak Aturan Satu Rumah Nonhunian, Khawatir Sewa Naik",
-        "excerpt": "Sebanyak 78% pakar real estat menolak aturan untuk pemilik satu rumah nonhunian karena dinilai dapat mengurangi pasokan jeonse dan sewa bulanan serta mendorong kenaikan harga sewa.",
-        "body": "Sebanyak 78% pakar real estat menyatakan menolak regulasi terhadap pemilik satu rumah yang tidak mereka huni. Menurut laporan Korea Economic Daily, para pakar menilai bahwa memasukkan pemilik satu rumah nonhunian ke dalam cakupan regulasi dapat semakin mengurangi pasokan jeonse dan sewa bulanan di pasar sewa. Mereka menyebut, jika regulasi melemahkan pasokan rumah sewa, pilihan bagi penyewa akan berkurang dan tekanan kenaikan harga sewa dapat meningkat. Perdebatan mengenai regulasi satu rumah nonhunian juga menyoroti persoalan keseimbangan antara beban kepemilikan rumah dan pasokan sewa. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "c92ac56919f8",
-    "slug": "단독-미분양됐다고-세금-수억-내라니서민주택-빌라-공급감소-우려-328463",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T10:46:27.713Z",
-    "updatedAt": "2026-05-10T10:46:27.713Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042671",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042671",
-    "titleFingerprint": "ff0a6721962e878533c8889a6e0ff309d8128825",
-    "dedupKeys": [
-      "c92ac56919f8462f96a0a2acb792671b6ec4768f",
-      "ff0a6721962e878533c8889a6e0ff309d8128825",
-      "807b6de0a3b82d9a1f3a3ab22ba9bbf70fa91661"
-    ],
-    "imageUrl": "/images/articles/c92ac56919f8.png",
-    "i18n": {
-      "ko": {
-        "title": "서민주택 빌라 미분양에 취득세 수억 추징 위기, 소규모 건축주 자금난에 공급 감소 우려",
-        "excerpt": "소규모 빌라 건축주들이 신축 빌라 분양 실패로 수억 원대 취득세 추징 위기에 놓였다. 공급 주체의 자금난이 커지며 서민 주거의 징검다리 역할을 해온 빌라 공급 감소 우려가 제기된다.",
-        "body": "소규모 빌라 건축주들이 신축 빌라를 분양하지 못했다는 이유로 수억 원대 취득세를 추징받을 위기에 놓였다고 mk.co.kr이 보도했다. 문제는 미분양 자체가 건축주 개인의 자금난으로 이어지는 데 그치지 않고, 빌라 공급 기반을 흔들 수 있다는 점이다. 빌라는 그동안 아파트보다 접근 가능한 서민 주거의 ‘징검다리’ 역할을 해왔지만, 공급 주체인 건축주들의 부담이 커지면 신규 공급 감소 우려가 커질 수 있다. 분양 실패와 세금 추징 위험이 겹치면서 소규모 건축 시장의 자금 압박도 한층 심화될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Unsold Villas Face Acquisition Tax Bills Worth Hundreds of Millions, Raising Supply Concerns",
-        "excerpt": "Small villa builders face additional acquisition tax bills worth hundreds of millions of won after failing to sell newly built units, raising concerns over a decline in affordable housing supply.",
-        "body": "Small-scale villa builders are at risk of being charged additional acquisition taxes worth hundreds of millions of won because newly built villas failed to sell, mk.co.kr reported. The issue is not limited to cash-flow pressure on individual builders. It could also weaken the supply base for villas. Villas have served as a housing “stepping stone” for ordinary households seeking options more accessible than apartments, but heavier burdens on builders may fuel concerns over reduced new supply. As failed sales and tax risks overlap, financial pressure on the small-scale construction market is expected to deepen. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未分譲ヴィラに数億ウォンの取得税追徴リスク、庶民住宅の供給減少に懸念",
-        "excerpt": "小規模ヴィラ建築主が新築物件の分譲失敗で数億ウォン規模の取得税追徴を受ける恐れがあり、庶民住宅の供給減少への懸念が高まっている。",
-        "body": "小規模ヴィラ建築主が、新築ヴィラを分譲できなかったことを理由に、数億ウォン規模の取得税を追徴される危機に直面しているとmk.co.krが報じた。問題は、未分譲が建築主個人の資金難にとどまらず、ヴィラ供給の基盤を揺るがしかねない点にある。ヴィラはこれまで、マンションより手が届きやすい庶民住宅の「橋渡し」の役割を果たしてきた。しかし供給主体である建築主の負担が大きくなれば、新規供給の減少懸念が強まる可能性がある。分譲失敗と税追徴リスクが重なり、小規模建築市場の資金圧迫も一段と深まる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未售出别墅面临数亿韩元取得税追缴，平民住房供应减少引担忧",
-        "excerpt": "小规模别墅建筑业主因新建别墅销售失败，面临数亿韩元取得税追缴风险。资金压力加重，作为平民住房过渡选择的别墅供应或受影响。",
-        "body": "据mk.co.kr报道，小规模别墅建筑业主因新建别墅未能售出，正面临被追缴数亿韩元取得税的风险。问题并不只在于未售出房源会加剧个别业主的资金困难，还可能动摇别墅供应基础。别墅一直在韩国住房市场中扮演着平民住宅“过渡阶梯”的角色，相比公寓更容易接近。但如果作为供应主体的建筑业主负担继续加重，新建别墅供应减少的担忧可能扩大。销售失败与税收追缴风险叠加，小规模建筑市场的资金压力预计将进一步加深。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Villas sin vender afrontan impuestos de adquisición millonarios y alertan sobre menor oferta",
-        "excerpt": "Pequeños constructores de villas podrían recibir cobros adicionales de impuesto de adquisición por cientos de millones de wones tras no vender viviendas nuevas, lo que genera preocupación por la oferta asequible.",
-        "body": "Pequeños constructores de villas están en riesgo de recibir cobros adicionales de impuesto de adquisición por cientos de millones de wones porque no lograron vender villas recién construidas, informó mk.co.kr. El problema no se limita a la presión financiera de cada constructor. También podría debilitar la base de suministro de este tipo de vivienda. Las villas han funcionado como una “vía intermedia” de vivienda para hogares comunes que buscan opciones más accesibles que los apartamentos. Si aumenta la carga sobre quienes las construyen, crecerá la preocupación por una menor oferta nueva. La combinación de ventas fallidas y riesgo fiscal agravará la presión de liquidez en el mercado de construcción de pequeña escala. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Villas encalhadas podem gerar imposto de aquisição milionário e risco de menor oferta",
-        "excerpt": "Pequenos construtores de villas enfrentam possível cobrança adicional de imposto de aquisição de centenas de milhões de wons após fracasso nas vendas, elevando temores sobre a oferta popular.",
-        "body": "Pequenos construtores de villas correm o risco de receber cobranças adicionais de imposto de aquisição de centenas de milhões de wons porque não conseguiram vender unidades recém-construídas, informou o mk.co.kr. O problema não se restringe à dificuldade financeira de cada construtor. Ele também pode abalar a base de oferta desse tipo de moradia. As villas têm servido como uma “ponte” habitacional para famílias comuns que buscam opções mais acessíveis do que apartamentos. Se o peso sobre os responsáveis pela oferta aumentar, a preocupação com a queda na nova oferta pode crescer. A combinação de vendas frustradas e risco de cobrança tributária deve intensificar a pressão financeira no mercado de pequenas construções. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Unverkaufte Villen drohen mit Erwerbsteuer in Milliarden-Won-Höhe, Sorge um Wohnungsangebot",
-        "excerpt": "Kleine Villa-Bauherren stehen nach gescheiterten Verkäufen neuer Einheiten vor zusätzlichen Erwerbsteuerforderungen in Höhe von Hunderten Millionen Won; die Sorge um bezahlbaren Wohnraum wächst.",
-        "body": "Kleine Bauherren von Villen laufen Gefahr, zusätzliche Erwerbsteuern in Höhe von Hunderten Millionen Won zahlen zu müssen, weil neu gebaute Villen nicht verkauft wurden, berichtete mk.co.kr. Das Problem beschränkt sich nicht auf Liquiditätsengpässe einzelner Bauherren. Es könnte auch die Grundlage des Villa-Angebots schwächen. Villen dienten bislang als wohnungspolitische “Zwischenstufe” für Haushalte, die eine zugänglichere Alternative zu Apartments suchten. Wenn die Belastung der Anbieter steigt, dürfte die Sorge vor einem Rückgang neuer Angebote zunehmen. Das Zusammentreffen von Verkaufsproblemen und Steuerrisiken wird den finanziellen Druck im kleinteiligen Baumarkt voraussichtlich verschärfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Des villas invendues exposées à une taxe d’acquisition massive, inquiétude sur l’offre populaire",
-        "excerpt": "De petits constructeurs de villas risquent des rappels de taxe d’acquisition de plusieurs centaines de millions de wons après l’échec de ventes de logements neufs, alimentant les craintes sur l’offre abordable.",
-        "body": "De petits constructeurs de villas risquent de se voir réclamer des taxes d’acquisition supplémentaires de plusieurs centaines de millions de wons parce que des villas neuves n’ont pas été vendues, a rapporté mk.co.kr. Le problème ne se limite pas aux difficultés de trésorerie de chaque constructeur. Il pourrait aussi fragiliser la base d’approvisionnement de ce type de logement. Les villas ont longtemps joué un rôle de “passerelle” résidentielle pour les ménages ordinaires cherchant une option plus accessible que les appartements. Si la charge pesant sur les acteurs de l’offre augmente, les inquiétudes sur une baisse des nouvelles constructions pourraient s’accentuer. L’échec des ventes et le risque fiscal devraient renforcer la pression financière sur le petit marché de la construction. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "فيلات غير مباعة تواجه ضريبة تملك بمئات ملايين الوونات ومخاوف من تراجع السكن الميسر",
-        "excerpt": "يواجه بناة الفيلات الصغار خطر مطالبات إضافية بضريبة التملك بمئات ملايين الوونات بعد فشل بيع وحدات جديدة، ما يثير مخاوف بشأن تراجع معروض السكن الميسر.",
-        "body": "أفاد موقع mk.co.kr بأن بناة الفيلات الصغار يواجهون خطر فرض ضريبة تملك إضافية بمئات ملايين الوونات بسبب عدم بيع فيلات جديدة. ولا تقتصر المشكلة على أزمة السيولة لدى كل بنّاء، بل قد تهز أيضا قاعدة المعروض من هذا النوع من السكن. فقد أدت الفيلات دور “جسر” سكني للأسر العادية التي تبحث عن خيار أسهل من الشقق. وإذا زادت الأعباء على الجهات التي توفر هذا المعروض، فقد تتنامى المخاوف من انخفاض البناء الجديد. ومع تداخل فشل البيع ومخاطر المطالبات الضريبية، من المتوقع أن يشتد الضغط المالي على سوق البناء صغير النطاق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "न बिके विला पर करोड़ों वॉन के अधिग्रहण कर का खतरा, किफायती आवास आपूर्ति पर चिंता",
-        "excerpt": "छोटे विला बिल्डर नई इकाइयों की बिक्री विफल रहने के बाद सैकड़ों मिलियन वॉन के अतिरिक्त अधिग्रहण कर के जोखिम में हैं, जिससे आम लोगों के आवास की आपूर्ति घटने की चिंता बढ़ी है।",
-        "body": "mk.co.kr के अनुसार, छोटे विला बिल्डर नई बनी विला इकाइयों को बेचने में असफल रहने के कारण सैकड़ों मिलियन वॉन के अतिरिक्त अधिग्रहण कर के खतरे का सामना कर रहे हैं। यह समस्या केवल अलग-अलग बिल्डरों की नकदी कठिनाई तक सीमित नहीं है। इससे विला आपूर्ति का आधार भी कमजोर हो सकता है। विला अब तक उन सामान्य परिवारों के लिए आवासीय “पुल” की भूमिका निभाते रहे हैं जो अपार्टमेंट की तुलना में अधिक सुलभ विकल्प चाहते हैं। यदि आपूर्ति करने वाले बिल्डरों पर बोझ बढ़ता है, तो नई आपूर्ति घटने की चिंता बढ़ सकती है। बिक्री विफलता और कर जोखिम साथ आने से छोटे निर्माण बाजार पर वित्तीय दबाव और गहराने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Vila Tak Terjual Terancam Pajak Akuisisi Ratusan Juta Won, Pasokan Hunian Rakyat Dikhawatirkan Turun",
-        "excerpt": "Para pembangun vila skala kecil menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won setelah gagal menjual unit baru, memicu kekhawatiran atas pasokan hunian terjangkau.",
-        "body": "Para pembangun vila skala kecil berisiko dikenai tagihan tambahan pajak akuisisi senilai ratusan juta won karena vila yang baru dibangun gagal terjual, lapor mk.co.kr. Persoalannya tidak berhenti pada tekanan keuangan masing-masing pembangun. Kondisi ini juga dapat mengguncang basis pasokan vila. Selama ini vila berperan sebagai “jembatan” hunian bagi masyarakat yang mencari pilihan lebih terjangkau daripada apartemen. Jika beban para pelaku pasokan meningkat, kekhawatiran atas penurunan pasokan baru bisa membesar. Kegagalan penjualan yang bertemu dengan risiko pajak diperkirakan makin memperdalam tekanan dana di pasar konstruksi skala kecil. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "219b5cf1fdf1",
-    "slug": "반세권-평택-고덕신도시-등-이번주-전국-4881가구-청약-129011",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T10:45:10.903Z",
-    "updatedAt": "2026-05-10T10:45:10.903Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042685",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042685",
-    "titleFingerprint": "146321d7b1e340794e720bebe9ad2473782ecbaa",
-    "dedupKeys": [
-      "219b5cf1fdf13ccd6c7815520a36f8e7d39ffcca",
-      "146321d7b1e340794e720bebe9ad2473782ecbaa",
-      "07516b083986e48eca6a53a0370e54d8a6fa3606"
-    ],
-    "imageUrl": "/images/articles/219b5cf1fdf1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "'반세권' 평택 고덕신도시 주목, 이번 주 전국 4881가구 청약 접수",
-        "excerpt": "리얼투데이에 따르면 5월 11~15일 전국 15곳에서 총 4881가구가 청약을 받으며, 삼성전자 실적에 힘입은 수도권 단지가 주목된다.",
-        "body": "부동산 전문 리서치업체 리얼투데이에 따르면 5월 11일부터 15일까지 전국 15곳에서 총 4881가구가 청약 접수를 진행한다. 이번 주 청약 시장에서는 ‘반세권’으로 불리는 평택 고덕신도시 등 수도권 단지가 관심을 받고 있다. 수도권에서는 최근 좋은 실적을 기록 중인 삼성전자의 영향이 청약 수요를 자극하는 요인으로 거론된다. 전국 15개 현장에서 청약 일정이 이어지는 만큼 실수요자들은 지역별 공급 물량과 접수 일정을 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Pyeongtaek Godeok New Town in Focus as 4,881 Homes Open for Subscription",
-        "excerpt": "According to RealToday, 4,881 homes across 15 sites nationwide will accept subscriptions from May 11 to 15, with capital-area projects drawing attention.",
-        "body": "According to real estate research firm RealToday, a total of 4,881 homes at 15 locations nationwide will accept subscription applications from May 11 to 15. This week’s subscription market is drawing attention to capital-area projects, including Pyeongtaek Godeok New Town, often described as a semiconductor-linked location. In the Seoul metropolitan area, Samsung Electronics’ recent strong performance is cited as a factor supporting interest. With schedules proceeding at 15 sites nationwide, end users need to check supply volumes and application dates by region. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "「半導体圏」平沢高徳新都市に注目、今週全国4881戸が申請受付",
-        "excerpt": "リアルトゥデイによると、5月11～15日に全国15カ所で計4881戸が申請を受け付け、首都圏物件に関心が集まっている。",
-        "body": "不動産専門リサーチ会社リアルトゥデイによると、5月11日から15日まで全国15カ所で計4881戸の申請受付が行われる。今週の申請市場では、「半導体圏」と呼ばれる平沢高徳新都市など首都圏の物件が注目されている。首都圏では、最近好業績を記録しているサムスン電子の影響が需要を刺激する要因として挙げられる。全国15現場で日程が続くため、実需者は地域別の供給戸数と受付日程を確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "“半导体圈”平泽高德新城受关注，本周全国4881户开放认购",
-        "excerpt": "据RealToday消息，5月11日至15日，全国15处共4881户将接受认购，受三星电子业绩带动的首都圈项目受到关注。",
-        "body": "据房地产专业研究机构RealToday消息，5月11日至15日，全国15处地点将有共4881户接受认购申请。本周认购市场中，被称为“半导体圈”的平泽高德新城等首都圈项目受到关注。在首都圈，近期业绩表现良好的三星电子被认为是刺激认购需求的因素之一。随着全国15个项目陆续启动认购，实际需求者有必要按地区确认供应规模和申请日程。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Pyeongtaek Godeok, zona vinculada a chips, destaca entre 4.881 viviendas",
-        "excerpt": "Según RealToday, del 11 al 15 de mayo se recibirán solicitudes para 4.881 viviendas en 15 puntos de Corea, con atención en el área capitalina.",
-        "body": "Según la firma de investigación inmobiliaria RealToday, del 11 al 15 de mayo se aceptarán solicitudes de suscripción para un total de 4.881 viviendas en 15 ubicaciones de Corea. En el mercado de esta semana destacan proyectos del área capitalina, incluido Pyeongtaek Godeok New Town, descrito como una zona vinculada al sector de semiconductores. En la región metropolitana, el reciente buen desempeño de Samsung Electronics se menciona como un factor que impulsa el interés. Con calendarios en 15 sitios, los compradores deben revisar volúmenes y fechas por región. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Pyeongtaek Godeok ganha destaque em semana com 4.881 moradias em subscrição",
-        "excerpt": "Segundo a RealToday, de 11 a 15 de maio, 4.881 moradias em 15 locais da Coreia receberão inscrições, com foco nos projetos da região metropolitana.",
-        "body": "Segundo a empresa de pesquisa imobiliária RealToday, entre 11 e 15 de maio serão recebidas inscrições para um total de 4.881 moradias em 15 locais em todo o país. No mercado desta semana, projetos da região metropolitana, incluindo Pyeongtaek Godeok New Town, chamada de área ligada aos semicondutores, atraem atenção. Na região da capital, o recente bom desempenho da Samsung Electronics é citado como fator de estímulo à demanda. Com agendas em 15 empreendimentos, compradores devem verificar oferta e datas por região. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Pyeongtaek Godeok im Blick: Diese Woche 4.881 Wohnungen zur Zeichnung",
-        "excerpt": "Laut RealToday nehmen vom 11. bis 15. Mai landesweit 15 Standorte Anträge für 4.881 Wohnungen an; Projekte im Hauptstadtgebiet stehen im Fokus.",
-        "body": "Nach Angaben des Immobilienforschers RealToday werden vom 11. bis 15. Mai an 15 Standorten landesweit Anträge für insgesamt 4.881 Wohnungen entgegengenommen. Im Zeichnungsmarkt dieser Woche richtet sich der Blick auf Projekte im Hauptstadtgebiet, darunter Pyeongtaek Godeok New Town, das als Standort mit Bezug zur Halbleiterindustrie gilt. In der Metropolregion wird die jüngst gute Geschäftsentwicklung von Samsung Electronics als Faktor für das Interesse genannt. Da an 15 Standorten Termine laufen, sollten Eigennutzer Mengen und Fristen je Region prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Pyeongtaek Godeok attire l’attention avec 4 881 logements ouverts cette semaine",
-        "excerpt": "Selon RealToday, du 11 au 15 mai, 4 881 logements répartis sur 15 sites en Corée accepteront des demandes, avec un intérêt pour la région capitale.",
-        "body": "Selon le cabinet de recherche immobilière RealToday, du 11 au 15 mai, un total de 4 881 logements répartis sur 15 sites dans le pays accepteront les demandes de souscription. Le marché de cette semaine met en avant des projets de la région capitale, dont Pyeongtaek Godeok New Town, souvent associé au secteur des semi-conducteurs. Dans la région métropolitaine, les récents bons résultats de Samsung Electronics sont cités comme un facteur soutenant la demande. Avec 15 sites concernés, les acheteurs doivent vérifier les volumes et calendriers par région. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بيونغتايك غودوك تحت الأضواء مع طرح 4,881 وحدة للاكتتاب هذا الأسبوع",
-        "excerpt": "وفقاً لريال توداي، ستتلقى 15 منطقة في كوريا طلبات اكتتاب على 4,881 وحدة من 11 إلى 15 مايو، مع اهتمام بمشروعات منطقة العاصمة.",
-        "body": "وفقاً لشركة الأبحاث العقارية ريال توداي، سيتم تلقي طلبات الاكتتاب على إجمالي 4,881 وحدة سكنية في 15 موقعاً على مستوى البلاد من 11 إلى 15 مايو. وفي سوق الاكتتاب هذا الأسبوع، تحظى مشروعات منطقة العاصمة بالاهتمام، ومنها مدينة بيونغتايك غودوك الجديدة التي توصف بأنها مرتبطة بقطاع أشباه الموصلات. وفي منطقة العاصمة، يُشار إلى الأداء الجيد الأخير لشركة سامسونغ إلكترونيكس كعامل يدعم الاهتمام. ومع استمرار الجداول في 15 موقعاً، يحتاج المشترون الفعليون إلى مراجعة حجم المعروض ومواعيد التقديم حسب المنطقة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "प्योंगटेक गोडोक पर नजर, इस सप्ताह 4,881 घरों के लिए सब्सक्रिप्शन",
-        "excerpt": "RealToday के अनुसार, 11 से 15 मई तक कोरिया में 15 स्थानों पर कुल 4,881 घरों के लिए आवेदन लिए जाएंगे, राजधानी क्षेत्र पर ध्यान है।",
-        "body": "रियल एस्टेट शोध कंपनी RealToday के अनुसार, 11 से 15 मई तक देशभर के 15 स्थानों पर कुल 4,881 घरों के लिए सब्सक्रिप्शन आवेदन स्वीकार किए जाएंगे। इस सप्ताह के बाजार में प्योंगटेक गोडोक न्यू टाउन सहित राजधानी क्षेत्र की परियोजनाएं ध्यान खींच रही हैं, जिसे सेमीकंडक्टर क्षेत्र से जुड़ा स्थान कहा जाता है। राजधानी क्षेत्र में Samsung Electronics के हालिया अच्छे प्रदर्शन को मांग बढ़ाने वाले कारक के रूप में देखा जा रहा है। 15 स्थलों पर कार्यक्रम चलने के कारण वास्तविक खरीदारों को क्षेत्रवार आपूर्ति और आवेदन तिथियां देखनी चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pyeongtaek Godeok Disorot, 4.881 Unit Dibuka untuk Langganan Pekan Ini",
-        "excerpt": "Menurut RealToday, pada 11–15 Mei sebanyak 4.881 unit di 15 lokasi Korea menerima pendaftaran, dengan proyek area ibu kota menjadi sorotan.",
-        "body": "Menurut perusahaan riset real estat RealToday, pada 11 hingga 15 Mei, total 4.881 unit di 15 lokasi di seluruh negeri akan menerima pendaftaran langganan. Pasar pekan ini menyoroti proyek di area ibu kota, termasuk Pyeongtaek Godeok New Town, yang disebut terkait dengan sektor semikonduktor. Di wilayah metropolitan, kinerja Samsung Electronics yang belakangan kuat disebut sebagai faktor yang mendorong minat. Karena jadwal berlangsung di 15 lokasi, calon pembeli perlu memeriksa jumlah pasokan dan tanggal pendaftaran menurut wilayah. Sumber: mk.co.kr"
       }
     }
   }
