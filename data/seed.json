@@ -1,5 +1,230 @@
 [
   {
+    "id": "06dfa288c4f8",
+    "slug": "hbr알립니다사람-없는-공장이-돈을-번다-205666",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T18:34:29.132Z",
+    "updatedAt": "2026-05-10T18:34:29.132Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+    "titleFingerprint": "e2e6768398507b59172d2098c56eb700f26900b7",
+    "dedupKeys": [
+      "06dfa288c4f8fcecdba38a602d3126cd77216f0a",
+      "e2e6768398507b59172d2098c56eb700f26900b7",
+      "4d135ebf556e5d24b2b7bf59ac9d2c5b391ff82a"
+    ],
+    "imageUrl": "/images/articles/06dfa288c4f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제조 피지컬 AI 도입 전략 아카데미, 자율제조 실패 리스크 줄인다",
+        "excerpt": "DBR과 다임리서치가 2026년 5월 29일 제조 피지컬 AI 도입 전략 아카데미를 열고, 로봇·설비·물류 통합과 사전 시뮬레이션 전략을 다룬다.",
+        "body": "DBR(동아비즈니스리뷰)과 국내 피지컬 AI 선도 기업 다임리서치가 2026년 5월 29일 서울 동아일보 광화문 사옥에서 ‘제조 피지컬 AI 도입 전략 아카데미’를 개최한다. 이번 프로그램은 인력난 대응을 위해 로봇을 서둘러 도입했지만 물류 혼선이나 현장 가동 중단을 겪은 제조 현장을 대상으로 한다. 세션1은 콘퍼런스 형식으로 열리며, 세션2는 기업별 일정 협의를 거쳐 KAIST 제조 피지컬 AI 실증랩 ‘카이로스’에서 프라이빗 워크숍으로 진행된다. 주최 측은 실제 도입 전 시뮬레이션으로 결과를 검증해 실패 리스크를 줄이는 실전 프로그램이라고 설명했다. 제조 피지컬 AI는 로봇 수를 늘리는 자동화를 넘어 공장 내 로봇·설비·물류를 유기적 시스템으로 통합해 스스로 판단하고 최적화하는 자율제조 패러다임으로 제시됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Manufacturing Physical AI Academy Targets Lower Risk in Autonomous Factories",
+        "excerpt": "DBR and Daim Research will hold a Manufacturing Physical AI Strategy Academy on May 29, 2026, covering robot, equipment and logistics integration through simulation.",
+        "body": "DBR, Dong-A Business Review, and Daim Research, a leading Korean physical AI company, will host the Manufacturing Physical AI Implementation Strategy Academy on May 29, 2026, at The Dong-A Ilbo’s Gwanghwamun office in Seoul. The program is aimed at manufacturers that rushed to introduce robots to ease labor shortages but experienced logistics disruption or halted shop-floor operations. Session 1 will be held as a conference, while Session 2 will be arranged separately for each company as a private workshop at KAIST’s manufacturing physical AI test lab, Kairos. Organizers describe it as a practical program that verifies outcomes through simulation before real-world deployment to reduce failure risk. Manufacturing physical AI is presented not as adding more robots, but as a new autonomous manufacturing paradigm that integrates robots, facilities and logistics into one organic system that can judge and optimize operations. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "製造フィジカルAI導入戦略アカデミー、自律製造の失敗リスク低減へ",
+        "excerpt": "DBRとダイムリサーチは2026年5月29日、製造フィジカルAI導入戦略アカデミーを開き、ロボット・設備・物流統合と事前シミュレーションを扱う。",
+        "body": "DBR（東亜ビジネスレビュー）と韓国のフィジカルAI先導企業ダイムリサーチは、2026年5月29日にソウルの東亜日報光化門社屋で「製造フィジカルAI導入戦略アカデミー」を開催する。今回のプログラムは、人手不足への対応としてロボットを急いで導入したものの、物流の混乱や現場稼働の停止を経験した製造現場を対象とする。セッション1はカンファレンス形式で行われ、セッション2は企業別に日程を協議したうえで、KAIST製造フィジカルAI実証ラボ「カイロス」でプライベートワークショップとして実施される。主催側は、実際の導入前にシミュレーションで結果を検証し、失敗リスクを減らす実践型プログラムだと説明した。製造フィジカルAIは、ロボットの台数を増やす自動化にとどまらず、工場内のロボット・設備・物流を有機的なシステムとして統合し、自ら判断して最適化する自律製造の新たなパラダイムとして示された。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "制造业Physical AI导入战略学院，降低自主制造失败风险",
+        "excerpt": "DBR与Daim Research将于2026年5月29日举办制造业Physical AI导入战略学院，讨论机器人、设备、物流整合与事前仿真验证。",
+        "body": "DBR（东亚商业评论）与韩国Physical AI领先企业Daim Research将于2026年5月29日在首尔东亚日报光化门办公楼举办“制造业Physical AI导入战略学院”。该项目面向为缓解用工短缺而仓促引入机器人，却遭遇物流混乱或现场停工问题的制造企业。第一场以会议形式举行，第二场将与各企业单独协商日程，在KAIST制造Physical AI实证实验室“Kairos”以私密工作坊形式进行。主办方表示，该实战项目将在实际导入前通过仿真预先验证结果，以减少失败风险。制造业Physical AI并非单纯增加机器人数量的自动化，而是把工厂内机器人、设备和物流整合为一个有机系统，使其能够自主判断并优化运行，被提出为下一代自主制造的新范式。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Academia de IA física para manufactura busca reducir fallos en fábricas autónomas",
+        "excerpt": "DBR y Daim Research celebrarán el 29 de mayo de 2026 una academia sobre IA física en manufactura, centrada en integración de robots, equipos y logística con simulación previa.",
+        "body": "DBR, Dong-A Business Review, y Daim Research, empresa coreana líder en IA física, celebrarán el 29 de mayo de 2026 la “Academia de estrategia para la adopción de IA física en manufactura” en la sede de The Dong-A Ilbo en Gwanghwamun, Seúl. El programa está dirigido a plantas que incorporaron robots con rapidez para responder a la escasez de personal, pero sufrieron desorden logístico o paradas operativas. La sesión 1 será una conferencia, mientras que la sesión 2 se coordinará con cada empresa como taller privado en “Kairos”, el laboratorio de demostración de IA física para manufactura de KAIST. Los organizadores lo presentan como un programa práctico que verifica resultados mediante simulación antes de la adopción real para reducir riesgos de fracaso. La IA física para manufactura no se plantea como añadir más robots, sino como un nuevo paradigma de manufactura autónoma que integra robots, equipos y logística en un sistema orgánico capaz de decidir y optimizar. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Academia de IA física na manufatura mira reduzir riscos em fábricas autônomas",
+        "excerpt": "DBR e Daim Research realizarão em 29 de maio de 2026 uma academia de estratégia para IA física na manufatura, com integração de robôs, equipamentos e logística via simulação.",
+        "body": "A DBR, Dong-A Business Review, e a Daim Research, empresa coreana líder em IA física, realizarão em 29 de maio de 2026 a “Academia de estratégia para adoção de IA física na manufatura” na sede do The Dong-A Ilbo em Gwanghwamun, Seul. O programa é voltado a fábricas que adotaram robôs rapidamente para enfrentar a falta de mão de obra, mas tiveram confusão logística ou interrupções nas operações. A sessão 1 ocorrerá como conferência, enquanto a sessão 2 será marcada individualmente com cada empresa como workshop privado no “Kairos”, laboratório de demonstração de IA física para manufatura do KAIST. Os organizadores afirmam que o programa verifica resultados por simulação antes da implantação real para reduzir riscos de fracasso. A IA física na manufatura é apresentada não como mera adição de robôs, mas como um novo paradigma de manufatura autônoma que integra robôs, instalações e logística em um sistema orgânico capaz de decidir e otimizar. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Manufacturing Physical AI Academy soll Risiken autonomer Fabriken senken",
+        "excerpt": "DBR und Daim Research veranstalten am 29. Mai 2026 eine Academy zur Einführung von Physical AI in der Fertigung, mit Fokus auf Simulation sowie Integration von Robotern, Anlagen und Logistik.",
+        "body": "DBR, Dong-A Business Review, und Daim Research, ein führendes koreanisches Unternehmen für Physical AI, veranstalten am 29. Mai 2026 die “Manufacturing Physical AI Implementation Strategy Academy” im Gwanghwamun-Gebäude der Dong-A Ilbo in Seoul. Das Programm richtet sich an Fertigungsbetriebe, die wegen Personalmangels rasch Roboter eingeführt haben, dabei aber Logistikprobleme oder Stillstände im Betrieb erlebten. Session 1 findet als Konferenz statt, Session 2 wird mit jedem Unternehmen separat abgestimmt und als privater Workshop im KAIST-Testlabor für Manufacturing Physical AI “Kairos” durchgeführt. Die Veranstalter beschreiben es als praxisnahes Programm, das Ergebnisse vor der realen Einführung per Simulation überprüft und so Fehlerrisiken verringern soll. Manufacturing Physical AI wird nicht als bloße Erweiterung der Roboterzahl dargestellt, sondern als neues Paradigma autonomer Fertigung, das Roboter, Anlagen und Logistik zu einem organischen System verbindet, das selbst entscheidet und optimiert. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "L’académie IA physique manufacturière vise moins de risques en usine autonome",
+        "excerpt": "DBR et Daim Research organiseront le 29 mai 2026 une académie sur l’IA physique manufacturière, axée sur l’intégration robots-équipements-logistique et la simulation préalable.",
+        "body": "DBR, Dong-A Business Review, et Daim Research, entreprise coréenne de référence dans l’IA physique, organiseront le 29 mai 2026 l’“Académie de stratégie d’adoption de l’IA physique manufacturière” au siège de The Dong-A Ilbo à Gwanghwamun, Séoul. Le programme s’adresse aux sites industriels qui ont introduit rapidement des robots pour répondre à la pénurie de main-d’œuvre, mais ont connu des perturbations logistiques ou des arrêts d’exploitation. La session 1 prendra la forme d’une conférence, tandis que la session 2 sera planifiée avec chaque entreprise sous forme d’atelier privé au laboratoire de démonstration d’IA physique manufacturière “Kairos” du KAIST. Les organisateurs présentent ce programme pratique comme un moyen de vérifier les résultats par simulation avant le déploiement réel afin de réduire les risques d’échec. L’IA physique manufacturière n’est pas décrite comme une simple hausse du nombre de robots, mais comme un nouveau paradigme de fabrication autonome intégrant robots, équipements et logistique dans un système organique capable de décider et d’optimiser. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أكاديمية الذكاء الاصطناعي الفيزيائي للتصنيع تقلل مخاطر المصانع الذاتية",
+        "excerpt": "تنظم DBR وDaim Research في 29 مايو 2026 أكاديمية لاستراتيجية إدخال الذكاء الاصطناعي الفيزيائي في التصنيع، مع التركيز على دمج الروبوتات والمعدات واللوجستيات عبر المحاكاة.",
+        "body": "تنظم DBR، وهي Dong-A Business Review، وشركة Daim Research الكورية الرائدة في الذكاء الاصطناعي الفيزيائي، في 29 مايو 2026 “أكاديمية استراتيجية إدخال الذكاء الاصطناعي الفيزيائي في التصنيع” في مبنى صحيفة دونغ آه إلبو في غوانغهوامون بسيول. يستهدف البرنامج المصانع التي سارعت إلى إدخال الروبوتات لمعالجة نقص العمالة، لكنها واجهت اضطرابا لوجستيا أو توقفا في تشغيل الموقع. تعقد الجلسة الأولى كمؤتمر، بينما تنظم الجلسة الثانية وفق جدول منفصل لكل شركة كورشة خاصة في مختبر KAIST التطبيقي للذكاء الاصطناعي الفيزيائي في التصنيع “Kairos”. وتوضح الجهة المنظمة أن البرنامج عملي ويتحقق من النتائج عبر المحاكاة قبل التطبيق الفعلي لتقليل مخاطر الفشل. ولا يطرح الذكاء الاصطناعي الفيزيائي في التصنيع كزيادة في عدد الروبوتات فقط، بل كنموذج جديد للتصنيع الذاتي يدمج الروبوتات والمعدات واللوجستيات داخل نظام عضوي قادر على الحكم والتحسين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "मैन्युफैक्चरिंग फिजिकल AI अकादमी स्वायत्त फैक्टरी जोखिम घटाने पर केंद्रित",
+        "excerpt": "DBR और Daim Research 29 मई 2026 को मैन्युफैक्चरिंग फिजिकल AI रणनीति अकादमी आयोजित करेंगे, जिसमें रोबोट, उपकरण और लॉजिस्टिक्स एकीकरण तथा सिमुलेशन पर चर्चा होगी।",
+        "body": "DBR, यानी Dong-A Business Review, और कोरिया की अग्रणी फिजिकल AI कंपनी Daim Research 29 मई 2026 को सियोल के ग्वांगह्वामुन स्थित The Dong-A Ilbo भवन में “मैन्युफैक्चरिंग फिजिकल AI इम्प्लीमेंटेशन स्ट्रैटेजी अकादमी” आयोजित करेंगी। यह कार्यक्रम उन विनिर्माण स्थलों के लिए है जिन्होंने श्रम की कमी से निपटने के लिए जल्दबाजी में रोबोट लगाए, लेकिन लॉजिस्टिक्स अव्यवस्था या उत्पादन स्थल रुकने जैसी समस्याएं देखीं। पहला सत्र कॉन्फ्रेंस के रूप में होगा, जबकि दूसरा सत्र प्रत्येक कंपनी के साथ अलग समय तय कर KAIST के मैन्युफैक्चरिंग फिजिकल AI प्रदर्शन लैब “Kairos” में निजी वर्कशॉप के रूप में चलेगा। आयोजकों के अनुसार यह व्यावहारिक कार्यक्रम वास्तविक तैनाती से पहले सिमुलेशन से परिणामों की जांच कर विफलता जोखिम कम करता है। मैन्युफैक्चरिंग फिजिकल AI केवल अधिक रोबोट जोड़ने वाली ऑटोमेशन नहीं, बल्कि रोबोट, उपकरण और लॉजिस्टिक्स को एक जैविक प्रणाली में जोड़कर स्वयं निर्णय और अनुकूलन करने वाला स्वायत्त विनिर्माण प्रतिमान है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Akademi Physical AI Manufaktur Bidik Risiko Lebih Rendah di Pabrik Otonom",
+        "excerpt": "DBR dan Daim Research akan menggelar Akademi Strategi Penerapan Physical AI Manufaktur pada 29 Mei 2026, membahas integrasi robot, peralatan, logistik, dan simulasi awal.",
+        "body": "DBR, Dong-A Business Review, dan Daim Research, perusahaan physical AI terkemuka di Korea, akan menggelar “Akademi Strategi Penerapan Physical AI Manufaktur” pada 29 Mei 2026 di kantor The Dong-A Ilbo, Gwanghwamun, Seoul. Program ini ditujukan bagi lokasi manufaktur yang cepat memasang robot untuk mengatasi kekurangan tenaga kerja, tetapi mengalami kekacauan logistik atau penghentian operasi lapangan. Sesi 1 digelar sebagai konferensi, sedangkan Sesi 2 akan dijadwalkan terpisah dengan tiap perusahaan sebagai lokakarya privat di “Kairos”, laboratorium pembuktian physical AI manufaktur KAIST. Penyelenggara menyebutnya program praktis yang memverifikasi hasil melalui simulasi sebelum penerapan nyata untuk mengurangi risiko kegagalan. Physical AI manufaktur tidak diposisikan sebagai sekadar menambah jumlah robot, melainkan paradigma baru manufaktur otonom yang menyatukan robot, fasilitas, dan logistik dalam satu sistem organik yang dapat menilai dan mengoptimalkan operasi sendiri. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "fe5d44033a1c",
+    "slug": "hbr슈퍼팀의-비밀-실패를-학습으로-실험을-문화로-931482",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T18:33:16.280Z",
+    "updatedAt": "2026-05-10T18:33:16.280Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887924/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887924/2",
+    "titleFingerprint": "457dfd1d9a733eb4778a34d18d249426f41b9621",
+    "dedupKeys": [
+      "fe5d44033a1c6b92a31d2a2fd571da5369b1d0da",
+      "457dfd1d9a733eb4778a34d18d249426f41b9621",
+      "256f1a0478c02bc8790f1e3ff2f3bf48c89d9853"
+    ],
+    "imageUrl": "/images/articles/fe5d44033a1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "슈퍼팀의 비밀은 학습 문화, 실패를 실험으로 바꾼 고성과 조직",
+        "excerpt": "고성과 조직인 ‘슈퍼팀’은 실패를 피하지 않고 학습과 실험의 문화로 전환하며 장기 성과를 만든다는 연구와 OKC 사례가 소개됐다.",
+        "body": "고성과 조직으로 불리는 ‘슈퍼팀’의 핵심 조건은 실패를 학습으로 바꾸고 실험을 일상 문화로 만드는 데 있다는 분석이 나왔다. 대부분의 팀은 한 차례 성과를 낸 뒤 익숙한 방식에 머물며 정체되지만, 슈퍼팀은 현재 방식에 안주하지 않고 계속 배운다는 점에서 다르다. 대표 사례로 미국프로농구 NBA 오클라호마시티 선더(OKC)가 제시됐다. OKC는 2022년 봄 58패를 기록하며 하위권에 머물렀으나 이후 40승, 57승, 68승을 차례로 거두며 정상권으로 올라섰다. 비결은 스타 선수 영입이 아니라 전성기 올스타 트레이드, 팀 해체 수준의 재구성, 전통적 포지션 탈피 등 과감한 실험이었다. 사회심리학자 론 프리드먼 연구팀은 금융·법률·의료·기술 분야 지식 노동자 6000여 명을 분석해 고성과 팀의 공통점을 도출했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Superteams Win Through Learning: How Failure Becomes Experimentation",
+        "excerpt": "A study and the Oklahoma City Thunder case show that high-performing superteams sustain success by turning failure into learning and experimentation.",
+        "body": "An analysis says the core of high-performing “superteams” is their ability to turn failure into learning and make experimentation part of everyday culture. Many teams stagnate after one success because they settle into familiar routines, avoid failure, and do not try new ways of working. Superteams differ by continuing to learn instead of remaining fixed in the present. The NBA’s Oklahoma City Thunder is cited as a clear example. After recording 58 losses in spring 2022 and sitting near the bottom of the league, OKC rose rapidly with seasons of 40, 57, and 68 wins. The key was not signing star players. It was bold experimentation, including trading All-Stars in their prime, rebuilding the team extensively, and moving away from traditional position structures. Social psychologist Ron Friedman’s research team analyzed more than 6,000 knowledge workers in finance, law, health care, and technology to identify common traits of high-performing teams. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "スーパー チームの秘密は学習文化、失敗を実験に変える高成果組織",
+        "excerpt": "高成果組織「スーパーチーム」は、失敗を避けず学習と実験の文化に変えることで長期的な成果を生むと、研究とOKCの事例が示した。",
+        "body": "高成果組織とされる「スーパーチーム」の核心は、失敗を学習に変え、実験を日常の文化にすることにあるとの分析が示された。多くのチームは一度成果を出した後、慣れた方法に安住し、失敗を避け、新しい働き方を試さないため停滞する。一方、スーパーチームは現在にとどまらず学び続ける点で異なる。代表例として、NBAのオクラホマシティ・サンダー（OKC）が挙げられた。OKCは2022年春に58敗を記録しリーグ下位にいたが、その後40勝、57勝、68勝を順に挙げ、上位圏へ急浮上した。理由はスター選手の獲得ではなかった。全盛期のオールスター選手のトレード、チーム解体に近い再編、伝統的なポジション構成からの脱却といった大胆な実験が支えた。社会心理学者ロン・フリードマンの研究チームは、金融、法律、医療、技術分野の知識労働者6000人超を分析し、高成果チームの共通点を導いた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "超级团队的秘密在学习文化：把失败转化为实验的高绩效组织",
+        "excerpt": "研究与俄克拉荷马城雷霆案例显示，高绩效“超级团队”不会回避失败，而是将其转化为学习与实验文化，延续长期成果。",
+        "body": "有分析指出，被称为“超级团队”的高绩效组织，其核心在于把失败转化为学习，并让实验成为日常文化。多数团队在取得一次成果后，会停留在熟悉的方法中，回避失败，也不尝试新的工作方式，因此陷入停滞。超级团队则不同，它们不满足于现状，而是持续学习。美国职业篮球联赛NBA俄克拉荷马城雷霆队（OKC）被视为典型案例。OKC在2022年春天曾以58负位居联盟下游，但之后依次取得40胜、57胜、68胜，迅速升至强队行列。秘诀并非引进明星球员，而是大胆实验，包括交易处于巅峰期的全明星球员、近乎重组整个球队，以及摆脱传统位置配置。美国社会心理学家罗恩·弗里德曼研究团队分析了金融、法律、医疗、技术等行业6000多名知识工作者，总结出高绩效团队的共同点。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El secreto de los super equipos: aprender del fracaso y experimentar",
+        "excerpt": "Un estudio y el caso del Oklahoma City Thunder muestran que los super equipos sostienen el alto rendimiento al convertir el fracaso en aprendizaje.",
+        "body": "Un análisis señala que la clave de los llamados “super equipos” de alto rendimiento es convertir el fracaso en aprendizaje y hacer de la experimentación una cultura cotidiana. La mayoría de los equipos se estanca después de lograr un resultado porque se acomoda en métodos conocidos, evita el fracaso y no prueba nuevas formas de trabajo. Los super equipos son distintos porque no se quedan en el presente y siguen aprendiendo. El Oklahoma City Thunder de la NBA aparece como un ejemplo claro. En la primavera de 2022, OKC registró 58 derrotas y permanecía en la parte baja de la liga, pero en las temporadas siguientes logró 40, 57 y 68 victorias, ascendiendo rápidamente a la élite. La clave no fue fichar estrellas, sino experimentar con audacia: traspasar All-Stars en su mejor etapa, reconstruir ampliamente el equipo y alejarse de la composición tradicional por posiciones. El equipo del psicólogo social Ron Friedman analizó a más de 6.000 trabajadores del conocimiento en finanzas, derecho, salud y tecnología para identificar rasgos comunes de los equipos de alto rendimiento. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Segredo dos supertimes é aprender com falhas e transformar experimentos em cultura",
+        "excerpt": "Estudo e o caso do Oklahoma City Thunder mostram que supertimes mantêm alto desempenho ao converter falhas em aprendizado e experimentação.",
+        "body": "Uma análise aponta que o núcleo dos “supertimes” de alto desempenho está em transformar falhas em aprendizado e fazer da experimentação uma cultura cotidiana. A maioria das equipes, depois de obter um resultado, entra em estagnação porque se acomoda a métodos familiares, evita falhar e não testa novas formas de trabalhar. Os supertimes são diferentes porque não ficam presos ao presente e continuam aprendendo. O Oklahoma City Thunder, da NBA, é citado como exemplo claro. Na primavera de 2022, o OKC registrou 58 derrotas e estava entre os últimos da liga, mas depois alcançou 40, 57 e 68 vitórias, subindo rapidamente ao grupo de elite. O segredo não foi contratar estrelas. Foram experiências ousadas, como trocar All-Stars no auge, reconstruir amplamente o elenco e abandonar estruturas tradicionais de posições. A equipe do psicólogo social Ron Friedman analisou mais de 6.000 trabalhadores do conhecimento em finanças, direito, saúde e tecnologia para identificar pontos comuns de equipes de alto desempenho. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Superteams lernen aus Fehlern: Experimentierkultur als Erfolgsgeheimnis",
+        "excerpt": "Eine Studie und das Beispiel Oklahoma City Thunder zeigen, wie Superteams Scheitern in Lernen verwandeln und so langfristig hohe Leistung sichern.",
+        "body": "Eine Analyse sieht den Kern sogenannter leistungsstarker “Superteams” darin, Scheitern in Lernen zu verwandeln und Experimente zur Alltagskultur zu machen. Viele Teams stagnieren nach einem Erfolg, weil sie bei vertrauten Arbeitsweisen bleiben, Fehler vermeiden und keine neuen Methoden ausprobieren. Superteams unterscheiden sich, weil sie nicht im Gegenwärtigen verharren, sondern kontinuierlich lernen. Als klares Beispiel wird das NBA-Team Oklahoma City Thunder genannt. OKC verzeichnete im Frühjahr 2022 noch 58 Niederlagen und lag im unteren Ligabereich, stieg danach aber mit 40, 57 und 68 Siegen nacheinander in die Spitzengruppe auf. Entscheidend war nicht die Verpflichtung von Stars. Vielmehr stützten mutige Experimente den Erfolg: Trades von All-Stars in ihrer Hochphase, ein weitreichender Umbau des Teams und die Abkehr von traditionellen Positionsstrukturen. Das Forschungsteam des Sozialpsychologen Ron Friedman analysierte mehr als 6.000 Wissensarbeiter aus Finanzwesen, Recht, Gesundheitswesen und Technologie, um Gemeinsamkeiten leistungsstarker Teams zu ermitteln. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le secret des super équipes: apprendre de l’échec et installer l’expérimentation",
+        "excerpt": "Une étude et le cas de l’Oklahoma City Thunder montrent que les super équipes durent en transformant l’échec en apprentissage et en culture d’essai.",
+        "body": "Une analyse affirme que le cœur des “super équipes” à haute performance est leur capacité à transformer l’échec en apprentissage et à faire de l’expérimentation une culture quotidienne. La plupart des équipes stagnent après un premier succès parce qu’elles s’installent dans des méthodes familières, évitent l’échec et n’essaient pas de nouvelles façons de travailler. Les super équipes sont différentes: elles ne restent pas figées dans le présent et continuent d’apprendre. L’Oklahoma City Thunder, en NBA, est cité comme exemple. Au printemps 2022, OKC avait enregistré 58 défaites et se trouvait dans le bas du classement, avant d’enchaîner 40, 57 puis 68 victoires et de rejoindre rapidement le haut niveau. La clé n’a pas été le recrutement de stars. Le succès a reposé sur des expérimentations audacieuses: transfert d’All-Stars dans leur meilleure période, reconstruction profonde de l’équipe et abandon de structures de postes traditionnelles. L’équipe du psychologue social Ron Friedman a analysé plus de 6.000 travailleurs du savoir dans la finance, le droit, la santé et la technologie afin d’identifier les points communs des équipes performantes. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سر الفرق الفائقة: ثقافة تعلم تحول الفشل إلى تجارب عالية الأداء",
+        "excerpt": "تظهر دراسة وحالة أوكلاهوما سيتي ثاندر أن الفرق الفائقة تحقق أداء مستداما عندما تحول الفشل إلى تعلم وتجعل التجريب ثقافة عمل.",
+        "body": "يشير تحليل إلى أن جوهر ما يسمى “الفرق الفائقة” عالية الأداء هو تحويل الفشل إلى تعلم وجعل التجريب جزءا من الثقافة اليومية. فمعظم الفرق تدخل مرحلة ركود بعد تحقيق نتيجة واحدة، لأنها تركن إلى أساليب مألوفة وتتجنب الفشل ولا تجرب طرق عمل جديدة. أما الفرق الفائقة فتختلف لأنها لا تبقى عند الحاضر، بل تواصل التعلم. وقد طُرح فريق أوكلاهوما سيتي ثاندر في دوري كرة السلة الأمريكي NBA مثالا واضحا. ففي ربيع 2022 سجل الفريق 58 هزيمة وكان في مؤخرة الدوري، لكنه حقق لاحقا 40 فوزا ثم 57 ثم 68، ليصعد بسرعة إلى المراتب العليا. ولم يكن السر في ضم نجوم جدد، بل في تجارب جريئة شملت مبادلة لاعبي أول ستار في قمة مستواهم، وإعادة بناء واسعة للفريق، والابتعاد عن التكوين التقليدي للمراكز. وحلل فريق عالم النفس الاجتماعي رون فريدمان أكثر من 6000 عامل معرفي في قطاعات المال والقانون والرعاية الصحية والتقنية لاستخلاص القواسم المشتركة بين الفرق عالية الأداء. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सुपरटीम का रहस्य: विफलता से सीखना और प्रयोग को संस्कृति बनाना",
+        "excerpt": "अध्ययन और ओक्लाहोमा सिटी थंडर का उदाहरण दिखाता है कि सुपरटीम विफलता को सीखने और प्रयोग की संस्कृति में बदलकर दीर्घकालिक प्रदर्शन बनाती है।",
+        "body": "एक विश्लेषण के अनुसार उच्च प्रदर्शन वाली “सुपरटीम” की मुख्य विशेषता विफलता को सीखने में बदलना और प्रयोग को रोजमर्रा की संस्कृति बनाना है। अधिकांश टीमें एक बार सफलता पाने के बाद परिचित तरीकों पर टिक जाती हैं, विफलता से बचती हैं और काम के नए तरीके नहीं आजमातीं, इसलिए ठहराव में फंसती हैं। सुपरटीम अलग होती है क्योंकि वह वर्तमान स्थिति में नहीं रुकती और लगातार सीखती रहती है। NBA की ओक्लाहोमा सिटी थंडर (OKC) को इसका स्पष्ट उदाहरण बताया गया। 2022 के वसंत में OKC ने 58 हार दर्ज कीं और लीग के निचले हिस्से में थी, लेकिन बाद में क्रमशः 40, 57 और 68 जीत हासिल कर शीर्ष समूह में तेजी से पहुंची। इसका कारण स्टार खिलाड़ियों को लाना नहीं था। सफलता को साहसी प्रयोगों ने सहारा दिया, जिनमें अपने चरम पर रहे ऑल-स्टार खिलाड़ियों का ट्रेड, टीम का व्यापक पुनर्गठन और पारंपरिक पोजिशन संरचना से हटना शामिल था। सामाजिक मनोवैज्ञानिक रॉन फ्रीडमैन की शोध टीम ने वित्त, कानून, स्वास्थ्य सेवा और तकनीक क्षेत्रों के 6000 से अधिक ज्ञानकर्मियों का विश्लेषण कर उच्च प्रदर्शन टीमों की समानताएं निकालीं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Rahasia Superteam: Mengubah Kegagalan Jadi Pembelajaran dan Eksperimen",
+        "excerpt": "Studi dan kasus Oklahoma City Thunder menunjukkan superteam menjaga kinerja tinggi dengan mengubah kegagalan menjadi pembelajaran dan budaya eksperimen.",
+        "body": "Sebuah analisis menyebut inti dari “superteam” berkinerja tinggi adalah kemampuan mengubah kegagalan menjadi pembelajaran dan menjadikan eksperimen sebagai budaya sehari-hari. Kebanyakan tim mandek setelah meraih satu hasil karena bertahan pada cara yang sudah dikenal, menghindari kegagalan, dan tidak mencoba cara kerja baru. Superteam berbeda karena tidak berhenti pada kondisi saat ini dan terus belajar. Oklahoma City Thunder (OKC) di NBA menjadi contoh jelas. Pada musim semi 2022, OKC mencatat 58 kekalahan dan berada di papan bawah liga, tetapi kemudian meraih 40, 57, dan 68 kemenangan secara berurutan hingga naik cepat ke jajaran atas. Kuncinya bukan perekrutan pemain bintang. Keberhasilan ditopang eksperimen berani, termasuk menukar pemain All-Star pada masa puncak, membangun ulang tim secara luas, dan meninggalkan susunan posisi tradisional. Tim peneliti psikolog sosial Ron Friedman menganalisis lebih dari 6.000 pekerja pengetahuan di bidang keuangan, hukum, kesehatan, dan teknologi untuk menemukan kesamaan tim berkinerja tinggi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "69873a650383",
+    "slug": "hbr팔지-않았더니-더-팔려-체험으로-의료가전-시장-개척-536274",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T18:31:56.496Z",
+    "updatedAt": "2026-05-10T18:31:56.496Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887906/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887906/2",
+    "titleFingerprint": "5e11cd2fba8a4e659582c33a6b6447b558559782",
+    "dedupKeys": [
+      "69873a6503830ef1262f0524ba33460a881d5ff4",
+      "5e11cd2fba8a4e659582c33a6b6447b558559782",
+      "058944b73eabd258aceab77f2a4ff03b0e58d4f1"
+    ],
+    "imageUrl": "/images/articles/69873a650383.jpg",
+    "i18n": {
+      "ko": {
+        "title": "세라젬 ‘의료가전’ 성장 전략, 팔지 않는 체험 마케팅으로 국내 매출 9배 확대",
+        "excerpt": "1998년 창업한 의료기기 기업 세라젬은 2018년 국내 시장 재진출 뒤 체험형 매장과 사후 관리 서비스로 ‘의료가전’ 카테고리를 키우며 매출을 9배 늘렸다.",
+        "body": "의료기기 기업 세라젬은 2018년 국내 시장 재진출을 선언한 뒤 체험형 마케팅과 구매 후 밀착 관리 서비스를 앞세워 국내 ‘의료가전’ 시장을 개척했다. 1998년 창업한 세라젬은 척추를 따라 자동으로 움직이며 온열 마사지와 밀착 견인 효과를 제공하는 척추 온열 의료기기로 70여 개국에서 이름을 알렸지만, 정작 한국에서는 전담 직원조차 거의 없을 만큼 존재감이 작았다. 국내 재진출 이후 핵심 타깃은 40대 후반 여성으로 설정됐다. 이들은 본인과 남편의 건강 변화를 체감하고, 자녀 양육 이후 경제적 여력도 갖춘 소비층으로 분석됐다. 세라젬은 판매보다 체험을 앞세운 매장을 만들고, 구매 이후 서비스까지 강화했다. 그 결과 국내 매출은 4년 만에 676억 원에서 6049억 원으로 9배 증가했다. HBR KOREA 2026년 5-6월호 케이스 스터디는 이 성장 전략을 분석했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Ceragem’s medical home appliance strategy: experience marketing lifts Korea sales ninefold",
+        "excerpt": "Founded in 1998, medical device maker Ceragem re-entered Korea in 2018 and grew its medical home appliance category through experience stores and post-purchase care.",
+        "body": "Ceragem, a medical device company founded in 1998, re-entered the Korean market in 2018 and built a domestic “medical home appliance” category through experience-based marketing and close post-purchase care. The company had gained recognition in more than 70 countries with spinal thermal medical devices that move automatically along the spine to provide heat massage and close traction effects. Yet in Korea, it had little presence and almost no dedicated staff. After returning to the domestic market, Ceragem defined women in their late 40s as its core target customers. This group was seen as consumers who begin to notice health changes in themselves and their husbands, have more financial room after raising children, and can influence major home appliance purchases. Ceragem opened stores centered on experience rather than direct selling and strengthened follow-up services after purchase. As a result, domestic sales rose ninefold in four years, from 67.6 billion won to 604.9 billion won. HBR KOREA’s May-June 2026 case study analyzed this growth strategy. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "セラゼムの「医療家電」戦略、売らない体験型マーケティングで韓国売上9倍に",
+        "excerpt": "1998年創業の医療機器企業セラゼムは2018年に韓国市場へ再参入し、体験型店舗と購入後ケアで医療家電カテゴリーを拡大した。",
+        "body": "医療機器企業セラゼムは2018年、韓国市場への再参入を宣言し、体験型マーケティングと購入後のきめ細かな管理サービスを前面に出して国内の「医療家電」市場を切り開いた。1998年創業の同社は、脊椎に沿って自動で動き、温熱マッサージと密着牽引効果を提供する脊椎温熱医療機器で70カ国以上に名を広げていた。しかし本国の韓国では専任スタッフさえほとんどいないほど存在感が小さかった。再参入後、中心ターゲットは40代後半の女性に定められた。この層は本人と夫の体の変化を感じ始め、子育てが一段落して経済的余力もあり、高額家電の購入判断に関わる消費者とされた。セラゼムは販売より体験を重視する店舗を作り、購入後サービスも強化した。その結果、韓国売上は4年で676億ウォンから6049億ウォンへ9倍に増えた。HBR KOREA 2026年5-6月号のケーススタディがこの成長戦略を分析した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Ceragem“医疗家电”增长战略：不急于销售，以体验营销推动韩国销售额增至9倍",
+        "excerpt": "1998年成立的医疗器械企业Ceragem于2018年重返韩国市场，通过体验式门店和售后贴身管理扩大“医疗家电”品类。",
+        "body": "医疗器械企业Ceragem于2018年宣布重返韩国市场，并以体验式营销和购买后的贴身管理服务开拓韩国“医疗家电”市场。Ceragem成立于1998年，凭借可沿脊椎自动移动、提供温热按摩和贴合牵引效果的脊椎温热医疗器械，在70多个国家获得知名度。但在本国韩国，该公司几乎没有专门员工，市场存在感很低。重返韩国后，Ceragem将核心目标客户定为40多岁后半段女性。该群体开始感受到自己和丈夫的身体变化，子女养育进入一定阶段后具备经济余力，也被视为能决定高价家电购买的消费者。Ceragem打造了重视体验而非直接销售的门店，并强化购买后的服务。结果，韩国销售额在4年内从676亿韩元增至6049亿韩元，扩大9倍。HBR KOREA 2026年5-6月号案例研究分析了这一增长战略。出处: rss.donga.com"
+      },
+      "es": {
+        "title": "La estrategia de Ceragem en electrodomésticos médicos: probar antes que vender multiplicó ventas por nueve",
+        "excerpt": "Ceragem, fabricante de dispositivos médicos fundado en 1998, reingresó a Corea en 2018 y creció con tiendas de experiencia y servicio posventa cercano.",
+        "body": "Ceragem, empresa de dispositivos médicos fundada en 1998, anunció en 2018 su reingreso al mercado coreano y abrió camino en la categoría local de “electrodomésticos médicos” con marketing basado en la experiencia y atención cercana después de la compra. La compañía ya era conocida en más de 70 países por sus dispositivos médicos térmicos para la columna, que se mueven automáticamente a lo largo de la espalda y ofrecen masaje con calor y efecto de tracción ajustada. Sin embargo, en Corea tenía poca presencia e incluso casi no contaba con personal dedicado. Tras volver al mercado doméstico, definió como cliente objetivo principal a mujeres de finales de los 40. Este grupo percibe cambios de salud propios y de sus esposos, tiene mayor margen económico tras criar a los hijos y puede influir en la compra de electrodomésticos de alto precio. Ceragem creó tiendas centradas en la experiencia más que en la venta directa y reforzó el servicio posterior. Como resultado, sus ventas en Corea crecieron nueve veces en cuatro años, de 67.600 millones de wones a 604.900 millones. Un caso de HBR KOREA de mayo-junio de 2026 analizó esta estrategia. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Estratégia da Ceragem em eletrodomésticos médicos: experiência antes da venda elevou receita 9 vezes",
+        "excerpt": "Fundada em 1998, a Ceragem voltou ao mercado coreano em 2018 e ampliou a categoria de eletrodomésticos médicos com lojas de experiência e pós-venda próximo.",
+        "body": "A Ceragem, empresa de dispositivos médicos fundada em 1998, anunciou em 2018 seu retorno ao mercado coreano e passou a desenvolver a categoria doméstica de “eletrodomésticos médicos” com marketing de experiência e atendimento próximo após a compra. A companhia já era conhecida em mais de 70 países por seus dispositivos médicos térmicos para a coluna, que se movem automaticamente ao longo da espinha e oferecem massagem com calor e efeito de tração ajustada. No entanto, na Coreia, sua presença era pequena e quase não havia funcionários dedicados ao país. Ao voltar ao mercado local, a Ceragem definiu como público-alvo principal mulheres no fim dos 40 anos. Esse grupo começa a perceber mudanças na saúde própria e dos maridos, tem mais folga financeira após criar os filhos e pode influenciar compras de eletrodomésticos de alto valor. A empresa criou lojas focadas na experiência, não na venda direta, e reforçou os serviços posteriores. Com isso, a receita doméstica cresceu nove vezes em quatro anos, de 67,6 bilhões de won para 604,9 bilhões de won. Um estudo de caso da HBR KOREA de maio-junho de 2026 analisou essa estratégia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Ceragems Strategie für medizinische Haushaltsgeräte: Erlebnis statt Verkauf steigert Korea-Umsatz um das Neunfache",
+        "excerpt": "Der 1998 gegründete Medizingerätehersteller Ceragem kehrte 2018 nach Korea zurück und wuchs mit Erlebnisgeschäften und enger Betreuung nach dem Kauf.",
+        "body": "Der 1998 gegründete Medizingerätehersteller Ceragem kündigte 2018 die Rückkehr auf den koreanischen Markt an und erschloss dort mit Erlebnis-Marketing und enger Betreuung nach dem Kauf die Kategorie der “medizinischen Haushaltsgeräte”. Das Unternehmen war in mehr als 70 Ländern mit spinalen Wärmetherapiegeräten bekannt geworden, die sich automatisch entlang der Wirbelsäule bewegen und Wärmemassage sowie einen eng anliegenden Traktionseffekt bieten. In Korea selbst hatte Ceragem jedoch kaum Präsenz und fast kein eigenes Personal. Nach dem Wiedereinstieg definierte das Unternehmen Frauen Ende 40 als zentrale Zielgruppe. Diese Kundinnen beginnen, gesundheitliche Veränderungen bei sich und ihren Ehemännern wahrzunehmen, verfügen nach der Kindererziehung über mehr finanziellen Spielraum und können hochpreisige Haushaltskäufe mitentscheiden. Ceragem setzte auf Läden, in denen Erfahrung wichtiger war als unmittelbarer Verkauf, und stärkte den Service nach dem Kauf. Dadurch stieg der Inlandsumsatz in vier Jahren von 67,6 Milliarden Won auf 604,9 Milliarden Won, also um das Neunfache. Eine Fallstudie von HBR KOREA in der Ausgabe Mai-Juni 2026 analysierte diese Wachstumsstrategie. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La stratégie “appareils médicaux domestiques” de Ceragem: l’expérience avant la vente multiplie le chiffre d’affaires par neuf",
+        "excerpt": "Fondée en 1998, Ceragem est revenue sur le marché coréen en 2018 et a développé les appareils médicaux domestiques grâce aux boutiques d’expérience et au suivi client.",
+        "body": "Ceragem, entreprise de dispositifs médicaux fondée en 1998, a annoncé en 2018 son retour sur le marché coréen et a développé la catégorie locale des “appareils médicaux domestiques” grâce au marketing expérientiel et à un suivi étroit après l’achat. La société s’était fait connaître dans plus de 70 pays avec des dispositifs médicaux thermiques pour la colonne vertébrale, capables de se déplacer automatiquement le long du dos afin d’offrir un massage chauffant et un effet de traction rapprochée. Pourtant, en Corée, elle avait peu de visibilité et presque aucun personnel dédié. Après son retour, Ceragem a défini les femmes de la fin de la quarantaine comme cible principale. Ce public commence à ressentir des changements de santé chez soi et chez son conjoint, dispose d’une marge financière après l’éducation des enfants et peut peser sur les achats d’appareils coûteux. L’entreprise a créé des magasins centrés sur l’expérience plutôt que sur la vente directe et renforcé les services après achat. Résultat: le chiffre d’affaires en Corée est passé en quatre ans de 67,6 milliards de wons à 604,9 milliards, soit neuf fois plus. Une étude de cas de HBR KOREA de mai-juin 2026 a analysé cette stratégie. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "استراتيجية سيراجيم في الأجهزة الطبية المنزلية: تجربة المنتج قبل البيع ترفع مبيعات كوريا تسعة أضعاف",
+        "excerpt": "شركة سيراجيم للأجهزة الطبية، التي تأسست عام 1998، عادت إلى سوق كوريا في 2018 ووسعت فئة الأجهزة الطبية المنزلية عبر متاجر التجربة وخدمة ما بعد الشراء.",
+        "body": "أعلنت شركة سيراجيم للأجهزة الطبية، التي تأسست عام 1998، في عام 2018 عودتها إلى السوق الكورية، وبدأت في بناء فئة “الأجهزة الطبية المنزلية” محليا عبر تسويق قائم على التجربة وخدمة متابعة وثيقة بعد الشراء. كانت الشركة قد اشتهرت في أكثر من 70 دولة بأجهزة طبية حرارية للعمود الفقري تتحرك تلقائيا على امتداد الظهر وتوفر تدليكًا حراريا وتأثير شد ملاصق. لكنها في كوريا نفسها كانت محدودة الحضور، بل لم يكن لديها تقريبا موظفون مخصصون للسوق المحلي. بعد العودة، حددت سيراجيم النساء في أواخر الأربعينيات كفئة رئيسية مستهدفة. فهذه الفئة تبدأ في ملاحظة تغيرات صحية لديها ولدى الأزواج، وتمتلك قدرة مالية بعد تقدم مرحلة تربية الأبناء، كما تؤثر في شراء الأجهزة المنزلية مرتفعة الثمن. ركزت الشركة على متاجر تتيح التجربة بدلا من البيع المباشر فقط، وعززت خدمات ما بعد الشراء. ونتيجة لذلك، ارتفعت المبيعات المحلية خلال أربع سنوات من 67.6 مليار وون إلى 604.9 مليار وون، أي تسعة أضعاف. حللت دراسة حالة في HBR KOREA عدد مايو-يونيو 2026 هذه الاستراتيجية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Ceragem की मेडिकल होम अप्लायंस रणनीति: अनुभव आधारित मार्केटिंग से कोरिया बिक्री 9 गुना बढ़ी",
+        "excerpt": "1998 में स्थापित मेडिकल डिवाइस कंपनी Ceragem ने 2018 में कोरियाई बाजार में वापसी की और अनुभव स्टोर व खरीद के बाद सेवा से श्रेणी बढ़ाई।",
+        "body": "1998 में स्थापित मेडिकल डिवाइस कंपनी Ceragem ने 2018 में कोरियाई बाजार में फिर प्रवेश की घोषणा की और अनुभव आधारित मार्केटिंग तथा खरीद के बाद करीबी देखभाल सेवा के जरिए घरेलू “मेडिकल होम अप्लायंस” बाजार को विकसित किया। कंपनी रीढ़ के साथ अपने आप चलने वाले स्पाइनल थर्मल मेडिकल डिवाइस के लिए 70 से अधिक देशों में पहचानी जाती थी, जो गर्माहट वाली मालिश और निकट ट्रैक्शन प्रभाव देता है। लेकिन अपने देश कोरिया में उसकी मौजूदगी बहुत कम थी और लगभग कोई समर्पित कर्मचारी भी नहीं था। वापसी के बाद Ceragem ने 40 के दशक के अंतिम वर्षों की महिलाओं को मुख्य लक्षित ग्राहक बनाया। यह वर्ग अपने और पति के स्वास्थ्य में बदलाव महसूस करने लगता है, बच्चों की परवरिश के बाद आर्थिक क्षमता रखता है और महंगे घरेलू उपकरणों की खरीद पर निर्णयकारी प्रभाव डाल सकता है। कंपनी ने सीधे बेचने के बजाय अनुभव पर केंद्रित स्टोर बनाए और खरीद के बाद सेवा को मजबूत किया। नतीजतन, घरेलू बिक्री चार वर्षों में 67.6 अरब वॉन से 604.9 अरब वॉन हो गई, यानी 9 गुना वृद्धि। HBR KOREA के मई-जून 2026 केस स्टडी ने इस वृद्धि रणनीति का विश्लेषण किया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Strategi Ceragem di perangkat medis rumah: pemasaran pengalaman dorong penjualan Korea naik 9 kali",
+        "excerpt": "Didirikan pada 1998, Ceragem kembali ke pasar Korea pada 2018 dan menumbuhkan kategori perangkat medis rumah lewat gerai pengalaman dan layanan purnabeli.",
+        "body": "Ceragem, perusahaan perangkat medis yang didirikan pada 1998, mengumumkan masuk kembali ke pasar Korea pada 2018 dan mengembangkan kategori “perangkat medis rumah” domestik melalui pemasaran berbasis pengalaman serta layanan dekat setelah pembelian. Perusahaan ini telah dikenal di lebih dari 70 negara lewat perangkat medis pemanas tulang belakang yang bergerak otomatis mengikuti punggung serta memberikan pijatan panas dan efek traksi yang menempel. Namun di Korea sendiri, kehadirannya kecil dan hampir tidak memiliki staf khusus. Setelah kembali ke pasar domestik, Ceragem menetapkan perempuan akhir usia 40-an sebagai pelanggan inti. Kelompok ini mulai merasakan perubahan kesehatan pada diri sendiri dan suami, memiliki ruang finansial setelah membesarkan anak, serta dapat memengaruhi keputusan pembelian peralatan rumah bernilai jutaan won. Ceragem membuka gerai yang mengutamakan pengalaman, bukan penjualan langsung, dan memperkuat layanan setelah pembelian. Hasilnya, penjualan domestik naik sembilan kali dalam empat tahun, dari 67,6 miliar won menjadi 604,9 miliar won. Studi kasus HBR KOREA edisi Mei-Juni 2026 menganalisis strategi pertumbuhan ini. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "be2a3ccdb683",
     "slug": "양자-인재들-복도서-부대끼며-아이디어-나눠야-혁신-나온다-737110",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Pembeli Rumah yang Pakai Dana Penjualan Kripto Terbanyak Berusia 30-an",
         "excerpt": "Menurut data Kementerian Pertanahan, Infrastruktur, dan Transportasi yang diperoleh kantor anggota parlemen Kim Jong-yang pada 10 Mei, pembeli rumah usia 30-an paling banyak memakai dana hasil penjualan kripto dalam sekitar 50 hari terakhir.",
         "body": "Di antara orang yang membeli rumah dalam sekitar 50 hari terakhir, kelompok usia 30-an menjadi yang paling banyak menggunakan dana hasil penjualan mata uang kripto untuk membantu pembelian. Informasi ini berasal dari data Kementerian Pertanahan, Infrastruktur, dan Transportasi yang diperoleh pada 10 Mei oleh kantor anggota parlemen Kim Jong-yang dari Partai Kekuatan Rakyat, anggota Komite Pertanahan, Infrastruktur, dan Transportasi Majelis Nasional. Data tersebut melihat kasus penggunaan dana hasil penjualan aset kripto dalam pembelian rumah berdasarkan kelompok usia, dan kelompok 30-an paling menonjol. Temuan ini menunjukkan bahwa pelepasan aset virtual telah menjadi sumber dana nyata bagi sebagian pembeli rumah. Informasi yang tersedia terbatas pada periode sekitar 50 hari terakhir dan fakta bahwa kelompok usia 30-an mencatat penggunaan terbesar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "dac62a4f111c",
-    "slug": "반포후광-아니어도-좋은-동네-흑석동-646147",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T09:46:21.067Z",
-    "updatedAt": "2026-05-10T09:46:21.067Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042690",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042690",
-    "titleFingerprint": "08b3a693cd802022fb5995bcdc99ee6fe95cbe52",
-    "dedupKeys": [
-      "dac62a4f111c8ab6e8ecb4fdfa751b2c61ed7ced",
-      "08b3a693cd802022fb5995bcdc99ee6fe95cbe52",
-      "2597e0ef40d69933f6a3d3710ab8013d3ac8a1d3"
-    ],
-    "imageUrl": "/images/articles/dac62a4f111c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "흑석동, 반포 후광 없이 주목받는 동작구 핵심 주거지",
-        "excerpt": "서울 부동산 시장에서 동작구 흑석동이 강남 4구 후보로 거론되는 흐름 속에 강동구와 비교되며 주목받고 있다.",
-        "body": "서울 부동산 시장에서 동작구 흑석동이 최근 주목받고 있다. 동작구는 강남 4구 자리를 놓고 강동구와 경쟁하는 지역으로 거론된다. 과거에는 강동구가 강남 4구로 불렸지만, 최근에는 동작구의 부상이 시장의 관심을 끌고 있다. 특히 흑석동은 ‘반포 후광’에만 기대지 않아도 좋은 동네로 평가되는 분위기다. 이는 서울 주요 주거지의 위상 변화와 함께 동작구를 다시 보게 만드는 요인으로 해석된다. 향후 시장에서는 강동구와 동작구를 둘러싼 비교가 이어질 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Heukseok-dong gains attention as Dongjak challenges Gangnam’s fourth spot",
-        "excerpt": "In Seoul’s real estate market, Heukseok-dong in Dongjak-gu is drawing attention as Dongjak is compared with Gangdong-gu for the fourth Gangnam district label.",
-        "body": "Heukseok-dong in Dongjak-gu is drawing renewed attention in Seoul’s real estate market. Dongjak-gu is being discussed as an area competing with Gangdong-gu for the so-called fourth Gangnam district position. In the past, Gangdong-gu was often referred to as part of the Gangnam four, but Dongjak-gu’s recent rise has attracted market interest. Heukseok-dong, in particular, is being viewed as a good neighborhood even without relying solely on Banpo’s halo effect. This reflects changing perceptions of major residential areas in Seoul and is prompting a closer look at Dongjak-gu. Comparisons between Gangdong-gu and Dongjak-gu are likely to continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "黒石洞、盤浦の後光に頼らず注目される銅雀区の住宅地",
-        "excerpt": "ソウル不動産市場で、銅雀区黒石洞が江南4区候補として江東区と比較される流れの中で注目を集めている。",
-        "body": "ソウル不動産市場で、銅雀区黒石洞が近ごろ注目されている。銅雀区は、江南4区の座をめぐって江東区と競合する地域として語られている。かつては江東区が江南4区と呼ばれていたが、最近は銅雀区の浮上が市場の関心を集めている。とくに黒石洞は、盤浦の後光だけに頼らなくても良い街と評価される雰囲気がある。これはソウル主要住宅地の位置づけの変化とともに、銅雀区を見直す要因と解釈される。今後も江東区と銅雀区をめぐる比較は続く可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "黑石洞不靠盘浦光环，也成铜雀区受关注居住地",
-        "excerpt": "在首尔房地产市场中，铜雀区黑石洞因铜雀区被拿来与江东区竞争“江南四区”地位而受到关注。",
-        "body": "在首尔房地产市场中，铜雀区黑石洞近期受到关注。铜雀区被视为与江东区竞争所谓“江南四区”地位的区域。过去，江东区曾被称为江南四区之一，但最近铜雀区的崛起吸引了市场目光。尤其是黑石洞，被评价为即使不依赖盘浦光环也具备吸引力的社区。这一变化反映了首尔主要居住区域地位认知的调整，也成为市场重新审视铜雀区的因素。今后，围绕江东区与铜雀区的比较仍可能持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Heukseok-dong destaca sin depender del halo de Banpo en Dongjak-gu",
-        "excerpt": "En el mercado inmobiliario de Seúl, Heukseok-dong gana atención mientras Dongjak-gu se compara con Gangdong-gu por el puesto del cuarto distrito Gangnam.",
-        "body": "Heukseok-dong, en Dongjak-gu, está atrayendo atención reciente en el mercado inmobiliario de Seúl. Dongjak-gu es citado como una zona que compite con Gangdong-gu por el llamado puesto del cuarto distrito Gangnam. En el pasado, Gangdong-gu era mencionado como parte de los cuatro Gangnam, pero el reciente ascenso de Dongjak-gu ha despertado interés en el mercado. En particular, Heukseok-dong se percibe como un buen barrio incluso sin depender solo del halo de Banpo. Esto refleja un cambio en la percepción de las principales zonas residenciales de Seúl y lleva a mirar de nuevo a Dongjak-gu. Las comparaciones entre Gangdong-gu y Dongjak-gu podrían continuar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Heukseok-dong ganha foco em Dongjak-gu sem depender do brilho de Banpo",
-        "excerpt": "No mercado imobiliário de Seul, Heukseok-dong chama atenção enquanto Dongjak-gu é comparado a Gangdong-gu pelo posto de quarto distrito Gangnam.",
-        "body": "Heukseok-dong, em Dongjak-gu, vem chamando atenção no mercado imobiliário de Seul. Dongjak-gu é citado como uma região que compete com Gangdong-gu pelo chamado posto de quarto distrito Gangnam. No passado, Gangdong-gu era frequentemente chamado de parte dos quatro Gangnam, mas a recente ascensão de Dongjak-gu passou a atrair interesse do mercado. Em especial, Heukseok-dong é visto como um bom bairro mesmo sem depender apenas do brilho de Banpo. Isso reflete uma mudança na percepção sobre as principais áreas residenciais de Seul e leva a uma nova avaliação de Dongjak-gu. As comparações entre Gangdong-gu e Dongjak-gu podem continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Heukseok-dong rückt in Dongjak-gu auch ohne Banpo-Effekt in den Fokus",
-        "excerpt": "Auf dem Immobilienmarkt in Seoul erhält Heukseok-dong Aufmerksamkeit, während Dongjak-gu mit Gangdong-gu um den Rang als viertes Gangnam-Gebiet verglichen wird.",
-        "body": "Heukseok-dong in Dongjak-gu rückt auf dem Immobilienmarkt in Seoul zuletzt stärker in den Fokus. Dongjak-gu wird als Bezirk genannt, der mit Gangdong-gu um die Position als sogenanntes viertes Gangnam-Gebiet konkurriert. Früher wurde Gangdong-gu häufig zu den vier Gangnam-Bezirken gezählt, doch der jüngste Aufstieg von Dongjak-gu weckt Marktinteresse. Besonders Heukseok-dong gilt als gutes Wohnviertel, ohne sich allein auf den Halo-Effekt von Banpo zu stützen. Das deutet auf eine veränderte Wahrnehmung wichtiger Wohnlagen in Seoul hin und lenkt den Blick erneut auf Dongjak-gu. Vergleiche zwischen Gangdong-gu und Dongjak-gu dürften weitergehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Heukseok-dong attire l’attention à Dongjak-gu sans l’effet Banpo",
-        "excerpt": "Sur le marché immobilier de Séoul, Heukseok-dong est remarqué alors que Dongjak-gu est comparé à Gangdong-gu pour la place de quatrième district de Gangnam.",
-        "body": "Heukseok-dong, à Dongjak-gu, attire récemment l’attention sur le marché immobilier de Séoul. Dongjak-gu est cité comme un secteur en concurrence avec Gangdong-gu pour la place dite de quatrième district de Gangnam. Par le passé, Gangdong-gu était souvent désigné comme faisant partie des quatre Gangnam, mais la montée récente de Dongjak-gu suscite l’intérêt du marché. Heukseok-dong, en particulier, est perçu comme un bon quartier même sans dépendre uniquement de l’aura de Banpo. Cela traduit une évolution du regard porté sur les grandes zones résidentielles de Séoul et conduit à réévaluer Dongjak-gu. Les comparaisons entre Gangdong-gu et Dongjak-gu pourraient se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيوكسوك دونغ تبرز في دونغجاك دون الاعتماد على هالة بانبو",
-        "excerpt": "في سوق العقارات في سيول، تحظى هيوكسوك دونغ في دونغجاك غو بالاهتمام مع مقارنة دونغجاك بغانغدونغ على موقع رابع مناطق غانغنام.",
-        "body": "تحظى هيوكسوك دونغ في دونغجاك غو باهتمام متزايد في سوق العقارات في سيول. ويجري الحديث عن دونغجاك غو كمنطقة تنافس غانغدونغ غو على ما يسمى بموقع المنطقة الرابعة ضمن غانغنام. في الماضي، كان غانغدونغ غو يوصف بأنه جزء من غانغنام الأربع، لكن صعود دونغجاك غو مؤخرا جذب اهتمام السوق. وتعد هيوكسوك دونغ خصوصا حيا جيدا حتى من دون الاعتماد فقط على هالة بانبو. ويعكس ذلك تغيرا في النظرة إلى المناطق السكنية الرئيسية في سيول، ويدفع إلى إعادة تقييم دونغجاك غو. ومن المرجح أن تستمر المقارنات بين غانغدونغ غو ودونغجاك غو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "बानपो की चमक के बिना भी डोंगजाक का प्रमुख इलाका बना ह्युकसोक-डोंग",
-        "excerpt": "सियोल रियल एस्टेट बाजार में डोंगजाक-गु का ह्युकसोक-डोंग ध्यान खींच रहा है, क्योंकि डोंगजाक की तुलना गंगडोंग-गु से चौथे गंगनाम क्षेत्र के रूप में हो रही है।",
-        "body": "सियोल के रियल एस्टेट बाजार में डोंगजाक-गु का ह्युकसोक-डोंग हाल में ध्यान आकर्षित कर रहा है। डोंगजाक-गु को उस क्षेत्र के रूप में देखा जा रहा है जो तथाकथित चौथे गंगनाम जिले की जगह के लिए गंगडोंग-गु से प्रतिस्पर्धा कर रहा है। पहले गंगडोंग-गु को गंगनाम चार में गिना जाता था, लेकिन हाल में डोंगजाक-गु का उभार बाजार की रुचि का कारण बना है। खासकर ह्युकसोक-डोंग को ऐसा अच्छा इलाका माना जा रहा है जो केवल बानपो की चमक पर निर्भर नहीं है। यह सियोल के प्रमुख आवासीय क्षेत्रों की धारणा में बदलाव को दिखाता है और डोंगजाक-गु पर नई नजर डालने का कारण बनता है। गंगडोंग-गु और डोंगजाक-गु की तुलना आगे भी जारी रह सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Heukseok-dong disorot sebagai kawasan Dongjak tanpa bayang Banpo",
-        "excerpt": "Di pasar properti Seoul, Heukseok-dong di Dongjak-gu menarik perhatian saat Dongjak dibandingkan dengan Gangdong-gu untuk posisi distrik Gangnam keempat.",
-        "body": "Heukseok-dong di Dongjak-gu belakangan menarik perhatian di pasar properti Seoul. Dongjak-gu disebut sebagai wilayah yang bersaing dengan Gangdong-gu untuk posisi yang disebut distrik Gangnam keempat. Pada masa lalu, Gangdong-gu kerap disebut sebagai bagian dari Gangnam empat, tetapi kebangkitan Dongjak-gu akhir-akhir ini menarik minat pasar. Secara khusus, Heukseok-dong dipandang sebagai lingkungan yang baik meski tidak hanya bergantung pada bayang pengaruh Banpo. Hal ini mencerminkan perubahan persepsi terhadap kawasan hunian utama di Seoul dan mendorong penilaian ulang terhadap Dongjak-gu. Perbandingan antara Gangdong-gu dan Dongjak-gu kemungkinan terus berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ff50d27cb0da",
-    "slug": "28억-찍던-준강남두-달-내내-떨어지다-분위기-반전-865515",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T09:45:26.279Z",
-    "updatedAt": "2026-05-10T09:45:26.279Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042775",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042775",
-    "titleFingerprint": "e1c36f1b3604abdd09d67543fc159daa2d916c52",
-    "dedupKeys": [
-      "ff50d27cb0da92132da288098f765dd3f79b06f6",
-      "e1c36f1b3604abdd09d67543fc159daa2d916c52",
-      "eedb09d2c774c87ed3eab1bbaf163f22f0614412"
-    ],
-    "imageUrl": "/images/articles/ff50d27cb0da.jpg",
-    "i18n": {
-      "ko": {
-        "title": "과천 집값 11주 만에 보합 전환…‘준강남’ 매물 감소가 분위기 바꿨다",
-        "excerpt": "경기도 과천시 집값 변동률이 2월 마지막 주 이후 이어진 하락세를 멈추고 11주 만에 보합세에 들어섰다. 다주택자 양도세 중과 시행을 앞두고 매매 물건이 줄어든 영향으로 풀이된다.",
-        "body": "경기도 과천시 집값 변동률이 2월 마지막 주부터 이어진 하락세를 멈추고 11주 만에 보합세에 접어들었다. 한때 28억원을 찍으며 ‘준강남’으로 불린 과천 주택시장은 두 달 넘게 약세를 보였지만, 최근 매매 물건이 줄어들며 분위기가 달라졌다. 원문은 다주택자에 대한 양도세 중과 시행을 앞두고 시장에 나온 매물이 크게 줄어 가격이 오른 것으로 설명했다. 매물 감소가 가격 하방 압력을 낮춘 가운데, 향후 과천 집값 흐름은 실제 거래와 추가 매물 변화에 따라 달라질 수 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Gwacheon Home Prices Turn Flat After 11 Weeks as ‘Semi-Gangnam’ Listings Drop",
-        "excerpt": "Gwacheon, Gyeonggi Province, stopped its decline in home-price change rates after the last week of February and moved flat after 11 weeks, as listings fell before heavier capital gains tax rules for multiple-home owners.",
-        "body": "Gwacheon in Gyeonggi Province has ended a decline in its home-price change rate that began in the last week of February, moving into a flat trend after 11 weeks. The housing market, once called “semi-Gangnam” after prices reached 2.8 billion won, had weakened for more than two months, but sentiment shifted as homes for sale recently decreased. The original report said prices rose because listings fell sharply ahead of the implementation of heavier capital gains tax rules for multiple-home owners. With fewer listings easing downward price pressure, Gwacheon’s next price direction may depend on actual transactions and further changes in supply. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "果川住宅価格、11週ぶり横ばい転換…「準江南」は売り物減少で変化",
-        "excerpt": "京畿道果川市の住宅価格変動率は2月最終週から続いた下落を止め、11週ぶりに横ばいとなった。多住宅所有者への譲渡税重課を前に売り物件が減った影響とみられる。",
-        "body": "京畿道果川市の住宅価格変動率が、2月最終週から続いていた下落基調を止め、11週ぶりに横ばいに入った。一時28億ウォンを記録し「準江南」と呼ばれた果川の住宅市場は2カ月以上弱含んでいたが、最近は売買物件が減り雰囲気が変わった。原文は、多住宅所有者に対する譲渡税重課の施行を前に市場に出た物件が大きく減り、価格が上がったと説明している。物件減少が価格の下押し圧力を弱めるなか、今後の果川住宅価格は実際の取引と追加物件の変化に左右される可能性がある。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "果川房价11周后转为持平，“准江南”因挂牌减少气氛反转",
-        "excerpt": "京畿道果川市房价变动率自2月最后一周以来持续下跌后，时隔11周转为持平。多房者转让税加重实施在即，出售房源减少被认为是主要影响。",
-        "body": "京畿道果川市房价变动率停止了自2月最后一周以来的下跌，时隔11周进入持平阶段。曾因价格达到28亿韩元而被称为“准江南”的果川住宅市场，在两个多月内持续走弱，但近期随着出售房源减少，市场气氛出现变化。原文称，在针对多房者的转让税加重措施实施前，市场上的买卖房源大幅减少，推动价格上涨。房源减少降低了价格下行压力，未来果川房价走势可能取决于实际成交和后续新增房源变化。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Precios de vivienda en Gwacheon se estabilizan tras 11 semanas por menos oferta",
-        "excerpt": "La variación de precios de la vivienda en Gwacheon, Gyeonggi, dejó de caer tras la última semana de febrero y pasó a estabilidad en 11 semanas, por la menor oferta antes del recargo fiscal a multipropietarios.",
-        "body": "La ciudad de Gwacheon, en la provincia de Gyeonggi, detuvo la caída de su tasa de variación de precios de vivienda iniciada en la última semana de febrero y entró en una fase estable tras 11 semanas. El mercado, llamado alguna vez “semi-Gangnam” tras tocar los 2.800 millones de wones, había mostrado debilidad durante más de dos meses, pero el ambiente cambió al reducirse las propiedades en venta. El texto original explica que los precios subieron porque la oferta de venta cayó con fuerza antes de la aplicación del recargo del impuesto a las ganancias de capital para propietarios de varias viviendas. Con menos oferta, baja la presión bajista; el rumbo dependerá de transacciones reales y nuevos listados. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Preços de casas em Gwacheon ficam estáveis após 11 semanas com menos imóveis",
-        "excerpt": "A variação dos preços residenciais em Gwacheon, Gyeonggi, interrompeu a queda iniciada na última semana de fevereiro e ficou estável após 11 semanas, com menos anúncios antes da tributação maior a multiproprietários.",
-        "body": "Gwacheon, na província de Gyeonggi, interrompeu a queda na taxa de variação dos preços residenciais iniciada na última semana de fevereiro e entrou em estabilidade após 11 semanas. O mercado local, chamado de “semi-Gangnam” depois de atingir 2,8 bilhões de won, vinha fraco por mais de dois meses, mas o clima mudou com a recente redução dos imóveis à venda. O texto original afirma que os preços subiram porque os anúncios diminuíram fortemente antes da aplicação da tributação mais pesada sobre ganhos de capital para proprietários de múltiplas casas. Com menos oferta, a pressão de baixa diminui; o rumo dependerá das transações reais e de novos anúncios. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Gwacheon-Hauspreise nach 11 Wochen stabil: Weniger Angebote drehen Stimmung",
-        "excerpt": "Die Preisänderungsrate für Wohnimmobilien in Gwacheon, Provinz Gyeonggi, stoppte den Rückgang seit der letzten Februarwoche und blieb nach 11 Wochen stabil, da vor höheren Steuern für Mehrfachbesitzer weniger Objekte angeboten wurden.",
-        "body": "In Gwacheon in der Provinz Gyeonggi hat die Preisänderungsrate für Wohnimmobilien den seit der letzten Februarwoche anhaltenden Rückgang beendet und ist nach 11 Wochen in eine stabile Phase übergegangen. Der Markt, einst nach Preisen von 2,8 Milliarden Won als „Semi-Gangnam“ bezeichnet, zeigte mehr als zwei Monate Schwäche, doch zuletzt änderte sich die Stimmung durch weniger Verkaufsangebote. Der Originalbericht erklärt, dass die Preise stiegen, weil vor der Einführung höherer Kapitalertragsteuern für Besitzer mehrerer Wohnungen deutlich weniger Objekte auf den Markt kamen. Das geringere Angebot mindert den Abwärtsdruck; der weitere Verlauf dürfte von tatsächlichen Abschlüssen und neuen Angeboten abhängen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les prix à Gwacheon se stabilisent après 11 semaines avec moins de biens en vente",
-        "excerpt": "À Gwacheon, dans le Gyeonggi, la variation des prix immobiliers a cessé de baisser depuis la dernière semaine de février et s’est stabilisée après 11 semaines, les biens en vente diminuant avant une fiscalité plus lourde.",
-        "body": "À Gwacheon, dans la province de Gyeonggi, le taux de variation des prix des logements a mis fin à la baisse engagée depuis la dernière semaine de février et est devenu stable après 11 semaines. Ce marché, autrefois qualifié de « semi-Gangnam » après avoir atteint 2,8 milliards de wons, était faible depuis plus de deux mois, mais l’ambiance a changé avec la récente diminution des biens à vendre. L’article d’origine explique que les prix ont augmenté car les mises en vente ont fortement reculé avant l’application d’une taxation plus lourde des plus-values pour les multipropriétaires. Avec moins d’offre, la pression baissière diminue; la suite dépendra des transactions réelles et des nouvelles annonces. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "أسعار مساكن غواتشون تستقر بعد 11 أسبوعا مع تراجع معروض «شبه غانغنام»",
-        "excerpt": "توقفت نسبة تغير أسعار المساكن في غواتشون بإقليم غيونغي عن الهبوط المستمر منذ الأسبوع الأخير من فبراير ودخلت مرحلة استقرار بعد 11 أسبوعا، مع تراجع المعروض قبل تشديد ضريبة الأرباح على مالكي عدة منازل.",
-        "body": "توقفت نسبة تغير أسعار المساكن في مدينة غواتشون بإقليم غيونغي عن الاتجاه الهابط الذي بدأ في الأسبوع الأخير من فبراير، ودخلت مرحلة استقرار بعد 11 أسبوعا. وكان سوق غواتشون، الذي وُصف سابقا بأنه «شبه غانغنام» بعدما لامست الأسعار 2.8 مليار وون، قد ظل ضعيفا لأكثر من شهرين، لكن الأجواء تغيرت أخيرا مع انخفاض العقارات المعروضة للبيع. وذكر النص الأصلي أن الأسعار ارتفعت لأن المعروض للبيع تقلص بشدة قبل تطبيق تشديد ضريبة الأرباح الرأسمالية على مالكي عدة مساكن. ومع انخفاض المعروض، تراجعت ضغوط الهبوط، وقد يتحدد مسار الأسعار لاحقا بحسب الصفقات الفعلية وتغيرات المعروض الإضافي. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ग्वाचोन मकान कीमतें 11 सप्ताह बाद स्थिर, ‘सेमी-गंगनम’ में बिक्री सूची घटी",
-        "excerpt": "ग्योंगगी प्रांत के ग्वाचोन में मकान कीमतों की परिवर्तन दर फरवरी के अंतिम सप्ताह से जारी गिरावट रोककर 11 सप्ताह बाद स्थिर हुई। कई घर मालिकों पर भारी पूंजीगत लाभ कर से पहले बिक्री सूची घटने का असर माना गया।",
-        "body": "ग्योंगगी प्रांत के ग्वाचोन शहर में मकान कीमतों की परिवर्तन दर फरवरी के अंतिम सप्ताह से जारी गिरावट रोककर 11 सप्ताह बाद स्थिर चरण में पहुंच गई। कभी 2.8 अरब वॉन तक पहुंचने के कारण “सेमी-गंगनम” कहे गए ग्वाचोन आवास बाजार में दो महीने से अधिक कमजोरी रही, लेकिन हाल में बिक्री के लिए उपलब्ध मकानों की संख्या घटने से माहौल बदला। मूल रिपोर्ट के अनुसार, कई घर रखने वालों पर पूंजीगत लाभ कर की भारी दर लागू होने से पहले बाजार में बिक्री वस्तुएं तेजी से कम हुईं, जिससे कीमतें बढ़ीं। कम आपूर्ति ने कीमतों पर नीचे की ओर दबाव घटाया है; आगे का रुझान वास्तविक सौदों और नई सूची में बदलाव पर निर्भर हो सकता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Harga Rumah Gwacheon Stabil Setelah 11 Pekan karena Listing ‘Semi-Gangnam’ Menipis",
-        "excerpt": "Laju perubahan harga rumah di Gwacheon, Provinsi Gyeonggi, berhenti turun sejak pekan terakhir Februari dan stabil setelah 11 pekan, dipengaruhi berkurangnya listing jelang pajak lebih berat bagi pemilik banyak rumah.",
-        "body": "Laju perubahan harga rumah di Kota Gwacheon, Provinsi Gyeonggi, menghentikan tren turun yang berlangsung sejak pekan terakhir Februari dan masuk fase stabil setelah 11 pekan. Pasar hunian Gwacheon, yang pernah disebut “semi-Gangnam” setelah menyentuh 2,8 miliar won, melemah selama lebih dari dua bulan, tetapi suasana berubah ketika properti yang dijual belakangan berkurang. Naskah asli menjelaskan bahwa harga naik karena listing penjualan menyusut tajam menjelang penerapan pajak keuntungan modal yang lebih berat bagi pemilik banyak rumah. Dengan berkurangnya pasokan, tekanan turun pada harga mereda; arah berikutnya dapat bergantung pada transaksi nyata dan perubahan listing tambahan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f65e2428c7e1",
-    "slug": "올해-안-사면-10년-뒤-또-후회한다부동산-초고수의-집값-상승론-966803",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T09:44:23.269Z",
-    "updatedAt": "2026-05-10T09:44:23.269Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042777",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042777",
-    "titleFingerprint": "01fc5828d7b7457e585182a0b2737056a2d98179",
-    "dedupKeys": [
-      "f65e2428c7e1d10ca3baad187ace75a515c50f0d",
-      "01fc5828d7b7457e585182a0b2737056a2d98179",
-      "f7b4e80bb60189d91f1273e09fc8f8058634c8db"
-    ],
-    "imageUrl": "/images/articles/f65e2428c7e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산 집값 상승론 주목…고준석 교수 “올해 안 사면 후회”",
-        "excerpt": "고준석 연세대 상남경영원 교수가 9일 서울 강남 코엑스에서 열린 2026 서울머니쇼에서 올해 부동산 가격 하락 전망에 반대하며 집값 상승론을 제시했다.",
-        "body": "고준석 연세대 상남경영원 교수는 9일 서울 삼성동 강남 코엑스에서 열린 2026 서울머니쇼 마지막 날 강연에서 부동산 가격 상승 가능성을 강조했다. 그는 “올해 부동산 가격 떨어질 것 같다는 분, 나가 주시면 됩니다”라고 말하며 하락론에 선을 그었다. 이번 발언은 ‘부동산 초고수의’ 강연 자리에서 나왔으며, 원문 제목은 “올해 안 사면 10년 뒤 또 후회한다”는 표현으로 집값 상승론을 전했다. 시장 참여자들에게는 올해 매수 판단과 향후 가격 전망을 둘러싼 논쟁을 다시 부각시키는 발언이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea Home Price Outlook Draws Attention as Professor Backs Rise",
-        "excerpt": "Yonsei Sangnam Institute professor Ko Jun-seok said at the 2026 Seoul Money Show on May 9 that he opposed expectations of a property price decline this year.",
-        "body": "Ko Jun-seok, a professor at Yonsei University’s Sangnam Institute of Management, emphasized the possibility of higher real estate prices during a lecture on the final day of the 2026 Seoul Money Show, held on May 9 at COEX in Samseong-dong, Seoul. He said, “Those who think real estate prices will fall this year may leave,” drawing a clear line against the bearish view. The remark came during a lecture described as being by a top real estate expert, while the original headline framed his view as, “If you don’t buy this year, you will regret it again in 10 years.” The comment brings renewed focus to debates over buying decisions this year and future home price prospects. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国住宅価格の上昇論に注目、高俊錫教授「今年買わなければ後悔」",
-        "excerpt": "延世大学商南経営院の高俊錫教授は9日、ソウル江南のCOEXで開かれた2026ソウルマネーショーで、今年の不動産価格下落見通しに反対する見解を示した。",
-        "body": "延世大学商南経営院の高俊錫教授は9日、ソウル市三成洞の江南COEXで開かれた2026ソウルマネーショー最終日の講演で、不動産価格が上昇する可能性を強調した。教授は「今年、不動産価格が下がると思う方は退席していただいて結構です」と述べ、下落論とは一線を画した。この発言は「不動産の超高手」による講演の場で出たもので、原文の見出しは「今年買わなければ10年後にまた後悔する」という表現で上昇論を伝えた。市場参加者にとっては、今年の購入判断と今後の価格見通しをめぐる議論を改めて浮き彫りにする発言となった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国房价上涨论受关注，高俊锡教授称今年不买或后悔",
-        "excerpt": "延世大学商南经营院教授高俊锡9日在首尔江南COEX举行的2026首尔Money Show上，反对今年房地产价格将下跌的看法，并提出房价上涨论。",
-        "body": "延世大学商南经营院教授高俊锡9日在首尔三成洞江南COEX举行的2026首尔Money Show最后一天演讲中，强调房地产价格存在上涨可能。他表示：“认为今年房地产价格会下跌的人，可以离开了”，明确与下跌论划清界线。这一发言出现在被称为“房地产超级高手”的讲座上，原文标题以“今年不买，10年后还会后悔”的表述传达其房价上涨论。对市场参与者而言，这番话再次凸显了围绕今年购房判断和未来价格预期的争论。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Previsión de alza inmobiliaria en Corea gana foco tras dichos de Ko Jun-seok",
-        "excerpt": "Ko Jun-seok, profesor del Instituto Sangnam de Yonsei, dijo el 9 de mayo en el Seoul Money Show 2026 que no comparte la previsión de caída de precios inmobiliarios este año.",
-        "body": "Ko Jun-seok, profesor del Instituto Sangnam de Gestión de la Universidad Yonsei, subrayó la posibilidad de una subida de los precios inmobiliarios en una conferencia celebrada el 9 de mayo, último día del Seoul Money Show 2026 en COEX, Samseong-dong, Seúl. Afirmó: “Quienes creen que los precios inmobiliarios caerán este año pueden retirarse”, marcando distancia frente a la visión bajista. La declaración se produjo en una charla presentada como la de un experto inmobiliario de alto nivel, y el titular original la resumió con la frase: “Si no compras este año, volverás a arrepentirte dentro de 10 años”. El comentario reaviva el debate sobre la decisión de comprar este año y las perspectivas de precios. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alta dos imóveis na Coreia ganha destaque com fala de Ko Jun-seok",
-        "excerpt": "Ko Jun-seok, professor do Instituto Sangnam da Yonsei, afirmou em 9 de maio no Seoul Money Show 2026 que discorda da previsão de queda dos preços imobiliários neste ano.",
-        "body": "Ko Jun-seok, professor do Instituto Sangnam de Administração da Universidade Yonsei, destacou a possibilidade de alta dos preços imobiliários em palestra no último dia do Seoul Money Show 2026, realizado em 9 de maio no COEX, em Samseong-dong, Seul. Ele disse: “Quem acha que os preços dos imóveis vão cair este ano pode sair”, afastando-se da visão de queda. A declaração ocorreu em uma palestra apresentada como sendo de um grande especialista em imóveis, enquanto o título original resumiu a tese com a frase: “Se não comprar este ano, vai se arrepender de novo em 10 anos”. O comentário recoloca em evidência o debate sobre comprar neste ano e as perspectivas de preços. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreas Immobilienpreise im Fokus: Ko Jun-seok erwartet keinen Rückgang",
-        "excerpt": "Ko Jun-seok, Professor am Sangnam-Institut der Yonsei University, widersprach am 9. Mai auf der Seoul Money Show 2026 der Erwartung fallender Immobilienpreise in diesem Jahr.",
-        "body": "Ko Jun-seok, Professor am Sangnam Institute of Management der Yonsei University, betonte am 9. Mai in einem Vortrag am letzten Tag der Seoul Money Show 2026 im COEX in Samseong-dong, Seoul, die Möglichkeit steigender Immobilienpreise. Er sagte: „Wer glaubt, dass die Immobilienpreise in diesem Jahr fallen, kann den Saal verlassen“, und grenzte sich damit klar von pessimistischen Prognosen ab. Die Aussage fiel in einem Vortrag eines als besonders erfahren beschriebenen Immobilienexperten; die ursprüngliche Überschrift fasste seine Position mit „Wer dieses Jahr nicht kauft, wird es in zehn Jahren wieder bereuen“ zusammen. Für Marktteilnehmer rückt damit die Debatte über Kaufentscheidungen in diesem Jahr und künftige Preisentwicklungen erneut in den Mittelpunkt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Prix immobiliers en Corée: Ko Jun-seok défend une thèse de hausse",
-        "excerpt": "Ko Jun-seok, professeur à l’Institut Sangnam de Yonsei, a déclaré le 9 mai au Seoul Money Show 2026 qu’il s’opposait aux prévisions de baisse des prix immobiliers cette année.",
-        "body": "Ko Jun-seok, professeur à l’Institut Sangnam de gestion de l’Université Yonsei, a souligné la possibilité d’une hausse des prix immobiliers lors d’une conférence donnée le 9 mai, dernier jour du Seoul Money Show 2026 au COEX de Samseong-dong, à Séoul. Il a déclaré: «Ceux qui pensent que les prix immobiliers vont baisser cette année peuvent sortir», marquant clairement son désaccord avec la thèse baissière. Cette remarque a été formulée lors d’une conférence présentée comme celle d’un expert immobilier de très haut niveau, tandis que le titre original résumait son point de vue par: «Si vous n’achetez pas cette année, vous le regretterez encore dans 10 ans». Le propos remet en avant le débat sur l’achat cette année et les perspectives de prix. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات ارتفاع أسعار العقارات في كوريا تبرز مع تصريحات كو جون سوك",
-        "excerpt": "قال كو جون سوك، أستاذ معهد سانغنام في جامعة يونسي، في 9 مايو خلال معرض سيول للمال 2026 إنه يعارض توقعات تراجع أسعار العقارات هذا العام.",
-        "body": "أكد كو جون سوك، أستاذ معهد سانغنام للإدارة في جامعة يونسي، احتمال ارتفاع أسعار العقارات خلال محاضرة في اليوم الأخير من معرض سيول للمال 2026، الذي أقيم في 9 مايو في مركز COEX بمنطقة سامسونغ دونغ في سيول. وقال: «من يعتقد أن أسعار العقارات ستنخفض هذا العام يمكنه المغادرة»، واضعا فاصلا واضحا مع الرأي المتشائم. وجاء التصريح في محاضرة قُدمت على أنها لخبير بارز في العقارات، بينما نقل العنوان الأصلي موقفه بعبارة: «إذا لم تشتر هذا العام، فستندم مرة أخرى بعد 10 سنوات». ويعيد هذا التصريح إبراز الجدل حول قرار الشراء هذا العام وآفاق الأسعار المقبلة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में घरों की कीमतों पर नजर, को जून-सोक ने तेजी का पक्ष रखा",
-        "excerpt": "योनसेई विश्वविद्यालय के सांगनाम संस्थान के प्रोफेसर को जून-सोक ने 9 मई को 2026 सियोल मनी शो में इस साल रियल एस्टेट कीमतों में गिरावट की धारणा से असहमति जताई।",
-        "body": "योनसेई विश्वविद्यालय के सांगनाम इंस्टीट्यूट ऑफ मैनेजमेंट के प्रोफेसर को जून-सोक ने 9 मई को सियोल के सैमसोंग-डोंग स्थित COEX में आयोजित 2026 सियोल मनी शो के अंतिम दिन अपने व्याख्यान में रियल एस्टेट कीमतों में वृद्धि की संभावना पर जोर दिया। उन्होंने कहा, “जो लोग सोचते हैं कि इस साल रियल एस्टेट कीमतें गिरेंगी, वे बाहर जा सकते हैं,” और गिरावट के दृष्टिकोण से स्पष्ट दूरी बनाई। यह बयान ‘रियल एस्टेट के शीर्ष विशेषज्ञ’ के व्याख्यान में आया, जबकि मूल शीर्षक ने उनके विचार को “इस साल नहीं खरीदा तो 10 साल बाद फिर पछताएंगे” के रूप में प्रस्तुत किया। बाजार प्रतिभागियों के लिए यह टिप्पणी इस साल खरीद निर्णय और आगे की कीमतों पर बहस को फिर सामने लाती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Prospek Harga Properti Korea Disorot setelah Pernyataan Ko Jun-seok",
-        "excerpt": "Ko Jun-seok, profesor Institut Sangnam Universitas Yonsei, pada 9 Mei di Seoul Money Show 2026 menolak pandangan bahwa harga properti akan turun tahun ini.",
-        "body": "Ko Jun-seok, profesor di Sangnam Institute of Management Universitas Yonsei, menekankan kemungkinan kenaikan harga properti dalam kuliah pada hari terakhir Seoul Money Show 2026, yang digelar pada 9 Mei di COEX, Samseong-dong, Seoul. Ia berkata, “Mereka yang mengira harga properti akan turun tahun ini boleh keluar,” sehingga mengambil jarak jelas dari pandangan penurunan. Pernyataan itu muncul dalam sesi yang diperkenalkan sebagai kuliah oleh pakar properti tingkat tinggi, sementara judul asli merangkum pandangannya dengan kalimat, “Jika tidak membeli tahun ini, Anda akan menyesal lagi 10 tahun kemudian.” Komentar ini kembali menyoroti perdebatan tentang keputusan membeli tahun ini dan prospek harga ke depan. Sumber: mk.co.kr"
       }
     }
   }
