@@ -1,5 +1,230 @@
 [
   {
+    "id": "f50f5b37d541",
+    "slug": "공정위-명륜진사갈비-가맹점주에-고리-대출-심의-회부-695861",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T16:01:49.685Z",
+    "updatedAt": "2026-05-10T16:01:49.685Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894035/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894035/2",
+    "titleFingerprint": "f6d9af27798294596ee2ba2c084b05b958857bfe",
+    "dedupKeys": [
+      "f50f5b37d541e957a8936b5fd8f8f2f190fcf432",
+      "f6d9af27798294596ee2ba2c084b05b958857bfe",
+      "881ea34bbc06399e3be8ff1b7342a0e22d7fcc36"
+    ],
+    "imageUrl": "/images/articles/f50f5b37d541.jpg",
+    "i18n": {
+      "ko": {
+        "title": "명륜진사갈비 고금리 대출 의혹, 공정위 가맹사업법 위반 심의 착수",
+        "excerpt": "공정거래위원회가 10일 명륜진사갈비 운영사 명륜당을 가맹사업법 위반 혐의로 소회의에 회부하고 고금리 대출과 점포 개설 비용 부담 의혹을 심의한다.",
+        "body": "공정거래위원회는 10일 명륜진사갈비 운영사인 명륜당을 가맹사업법 위반 혐의로 소회의에 회부하고 본격적인 심의 절차에 들어갔다고 밝혔다. 명륜당은 한국산업은행 등 정책금융기관에서 연 3∼6% 수준의 저금리 운전자금을 조달한 뒤, 대주주 등이 소유한 대부업체를 통해 가맹점주들에게 10%대 중후반 금리로 점포 개설 자금을 빌려준 혐의를 받는다. 공정위와 금융위원회의 실태 조사 결과, 가맹점주에게 일률적인 고금리 대출이 제공되고 인테리어·설비 비용도 과다하게 부담됐다는 판단이 나왔다. 공정위 심사관은 시정명령, 과징금 부과, 고발 의견을 담은 심사보고서를 제출한 것으로 전해졌다. 정부는 유사 사례를 막기 위해 정책자금을 지원받은 가맹본부에 대한 대출 규제와 점검을 강화할 방침이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Myungryun Jinsa Galbi High-Interest Loan Case Moves to FTC Franchise Review",
+        "excerpt": "South Korea’s Fair Trade Commission said on May 10 it referred Myungryundang, operator of Myungryun Jinsa Galbi, to review over alleged franchise law violations involving high-interest loans and excessive store-opening costs.",
+        "body": "South Korea’s Fair Trade Commission said on May 10 that it has referred Myungryundang, the operator of Myungryun Jinsa Galbi, to a subcommittee for a formal review of alleged violations of the Franchise Business Act. The company is accused of borrowing operating funds from policy finance institutions, including Korea Development Bank, at low annual rates of about 3% to 6%, then lending store-opening funds to franchisees through a lending company owned by major shareholders and others at mid- to high-teen interest rates. A fact-finding survey by the FTC and the Financial Services Commission found that uniform high-interest loans were offered to franchisees and that they were allegedly made to bear excessive interior and equipment costs. FTC examiners reportedly submitted a review report recommending corrective orders, fines and a criminal complaint. The government plans to strengthen lending rules and inspections for franchisors receiving policy funds to prevent similar cases. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "明倫進士カルビ高金利融資疑惑、公取委が加盟事業法違反審議へ",
+        "excerpt": "韓国公正取引委員会は10日、明倫進士カルビ運営会社の明倫堂を加盟事業法違反の疑いで小会議に付託し、高金利融資と開店費用負担の疑惑を審議する。",
+        "body": "韓国公正取引委員会は10日、明倫進士カルビの運営会社である明倫堂を加盟事業法違反の疑いで小会議に付託し、本格的な審議手続きに入ったと明らかにした。明倫堂は韓国産業銀行など政策金融機関から年3～6%水準の低金利運転資金を調達した後、大株主らが所有する貸金業者を通じて加盟店主に10%台半ばから後半の金利で店舗開設資金を貸し付けた疑いが持たれている。公取委と金融委員会の実態調査では、加盟店主に一律の高金利融資が提供され、内装・設備費用も過大に負担させたとの判断が示された。公取委の審査官は是正命令、課徴金賦課、告発意見を盛り込んだ審査報告書を提出したとされる。政府は類似事例を防ぐため、政策資金の支援を受けた加盟本部への融資規制と点検を強化する方針だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "明伦进士排骨高息贷款疑云，韩国公取委启动加盟法审议",
+        "excerpt": "韩国公平交易委员会10日表示，已将明伦进士排骨运营商明伦堂涉嫌违反加盟事业法一案提交小会议审议，焦点包括高息贷款和开店成本负担。",
+        "body": "韩国公平交易委员会10日表示，已将明伦进士排骨运营商明伦堂涉嫌违反《加盟事业法》一案提交小会议，正式启动审议程序。明伦堂被指从韩国产业银行等政策性金融机构以年利率约3%至6%的低息取得运营资金后，通过大股东等拥有的贷款公司，向加盟店主以10%中后段的高利率出借开店资金。公取委和金融委员会的实态调查显示，加盟店主被提供统一的高息贷款，并被要求承担过高的装修和设备费用。公取委审查人员据称已提交审查报告，内容包括纠正命令、罚款以及提出告发的意见。韩国政府计划加强对获得政策资金支持的加盟总部的贷款监管和检查，以防止类似事件重演。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Myungryun Jinsa Galbi enfrenta revisión por presuntos préstamos de alto interés",
+        "excerpt": "La Comisión de Comercio Justo de Corea del Sur dijo el 10 de mayo que remitió a Myungryundang, operadora de Myungryun Jinsa Galbi, por presuntas infracciones de la ley de franquicias.",
+        "body": "La Comisión de Comercio Justo de Corea del Sur informó el 10 de mayo que remitió a Myungryundang, operadora de Myungryun Jinsa Galbi, a un subcomité para revisar presuntas infracciones de la Ley de Negocios de Franquicia. La empresa está acusada de obtener fondos operativos de bajo interés, de entre 3% y 6% anual, de instituciones financieras públicas como el Korea Development Bank, y luego prestar dinero para apertura de locales a franquiciados mediante una prestamista propiedad de accionistas mayoritarios y otros, con tasas en el rango medio-alto del 10%. Una investigación de la FTC y la Comisión de Servicios Financieros concluyó que se ofrecieron préstamos uniformes de alto interés a franquiciados y que se les habría impuesto una carga excesiva por costos de interiorismo y equipos. Los examinadores de la FTC habrían presentado un informe con propuestas de órdenes correctivas, multas y denuncia. El gobierno reforzará reglas e inspecciones sobre franquiciadores que reciban fondos públicos. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Myungryun Jinsa Galbi vai a análise por suspeita de empréstimos com juros altos",
+        "excerpt": "A Comissão de Comércio Justo da Coreia do Sul disse em 10 de maio que encaminhou a operadora Myungryundang para análise por suspeitas de violar a lei de franquias com empréstimos caros e custos excessivos.",
+        "body": "A Comissão de Comércio Justo da Coreia do Sul informou em 10 de maio que encaminhou a Myungryundang, operadora da Myungryun Jinsa Galbi, a uma subcomissão para análise formal de suspeitas de violação da Lei de Franquias. A empresa é acusada de captar capital de giro a juros baixos, de cerca de 3% a 6% ao ano, junto a instituições financeiras públicas como o Korea Development Bank, e depois emprestar recursos para abertura de lojas a franqueados por meio de uma financeira pertencente a acionistas majoritários e outros, com taxas na faixa intermediária a alta dos 10%. Uma investigação da FTC e da Comissão de Serviços Financeiros apontou que os franqueados receberam empréstimos padronizados de alto juro e teriam arcado com custos excessivos de interiores e equipamentos. Examinadores da FTC teriam apresentado relatório recomendando ordens corretivas, multas e denúncia. O governo pretende reforçar regras e inspeções sobre franqueadores que recebem recursos públicos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Myungryun Jinsa Galbi: Kartellamt prüft Vorwurf teurer Franchise-Darlehen",
+        "excerpt": "Die südkoreanische Fair Trade Commission teilte am 10. Mai mit, Myungryundang wegen mutmaßlicher Verstöße gegen das Franchisegesetz in ein Prüfverfahren verwiesen zu haben.",
+        "body": "Die südkoreanische Fair Trade Commission erklärte am 10. Mai, sie habe Myungryundang, Betreiber von Myungryun Jinsa Galbi, wegen mutmaßlicher Verstöße gegen das Franchise Business Act an einen Unterausschuss überwiesen und ein formelles Prüfverfahren eingeleitet. Dem Unternehmen wird vorgeworfen, Betriebsmittel von politischen Finanzinstituten, darunter der Korea Development Bank, zu niedrigen Jahreszinsen von etwa 3% bis 6% aufgenommen und anschließend über ein Kreditunternehmen im Besitz großer Anteilseigner und anderer Beteiligter Franchise-Nehmern Mittel für Ladeneröffnungen zu Zinssätzen im mittleren bis hohen Zehnerbereich geliehen zu haben. Eine Erhebung der FTC und der Financial Services Commission ergab, dass Franchise-Nehmern einheitliche Hochzinsdarlehen angeboten wurden und sie überhöhte Innenausbau- und Ausrüstungskosten tragen mussten. FTC-Prüfer sollen einen Bericht mit Empfehlungen für Korrekturanordnungen, Bußgelder und Strafanzeige eingereicht haben. Die Regierung will Kreditregeln und Kontrollen für Franchisegeber mit staatlich unterstützten Mitteln verschärfen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Myungryun Jinsa Galbi visé par l’examen de prêts à taux élevé aux franchisés",
+        "excerpt": "La Fair Trade Commission sud-coréenne a annoncé le 10 mai avoir renvoyé Myungryundang, opérateur de Myungryun Jinsa Galbi, pour examen sur des soupçons de violation du droit des franchises.",
+        "body": "La Fair Trade Commission de Corée du Sud a annoncé le 10 mai avoir renvoyé Myungryundang, opérateur de Myungryun Jinsa Galbi, devant une sous-commission pour un examen formel de soupçons de violation de la loi sur les franchises. L’entreprise est soupçonnée d’avoir obtenu des fonds de roulement à bas taux, environ 3% à 6% par an, auprès d’institutions de financement public comme la Korea Development Bank, puis d’avoir prêté des fonds d’ouverture de magasins aux franchisés via une société de crédit détenue par de grands actionnaires et d’autres, à des taux situés au milieu ou dans la partie haute de la tranche des 10%. Une enquête de la FTC et de la Financial Services Commission a conclu que des prêts uniformes à taux élevé avaient été proposés aux franchisés et que ceux-ci auraient supporté des coûts excessifs d’aménagement intérieur et d’équipement. Les enquêteurs de la FTC auraient remis un rapport recommandant des injonctions correctives, des amendes et une plainte. Le gouvernement renforcera les règles et contrôles sur les franchiseurs recevant des fonds publics. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "مطاعم ميونغريون جينسا غالبي أمام مراجعة رسمية بسبب قروض مرتفعة الفائدة",
+        "excerpt": "قالت لجنة التجارة العادلة في كوريا الجنوبية في 10 مايو إنها أحالت شركة ميونغريوندانغ، مشغلة ميونغريون جينسا غالبي، للمراجعة بسبب شبهات انتهاك قانون الامتياز.",
+        "body": "أعلنت لجنة التجارة العادلة في كوريا الجنوبية في 10 مايو أنها أحالت شركة ميونغريوندانغ، مشغلة سلسلة ميونغريون جينسا غالبي، إلى لجنة فرعية لبدء مراجعة رسمية في شبهات انتهاك قانون أعمال الامتياز. وتواجه الشركة اتهاما بالحصول على أموال تشغيل منخفضة الفائدة من مؤسسات تمويل سياساتية، منها بنك التنمية الكوري، بمعدلات سنوية تقارب 3% إلى 6%، ثم إقراض أصحاب الامتياز أموالا لافتتاح المتاجر عبر شركة إقراض يملكها كبار المساهمين وآخرون، بفوائد في منتصف إلى أواخر نطاق العشرة بالمئة. وخلص مسح أجرته لجنة التجارة العادلة ولجنة الخدمات المالية إلى أن أصحاب الامتياز تلقوا قروضا موحدة مرتفعة الفائدة، وأنهم تحملوا تكاليف زائدة للديكور والمعدات. وذكرت المعلومات أن محققي اللجنة قدموا تقريرا يوصي بأوامر تصحيحية وغرامات وإحالة للادعاء. وتعتزم الحكومة تشديد قواعد الإقراض والتفتيش على مانحي الامتياز الذين يتلقون أموالا سياساتية لمنع حالات مماثلة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Myungryun Jinsa Galbi पर ऊंचे ब्याज ऋण मामले में FTC की औपचारिक समीक्षा",
+        "excerpt": "दक्षिण कोरिया के फेयर ट्रेड कमीशन ने 10 मई को कहा कि उसने Myungryun Jinsa Galbi की संचालक Myungryundang को फ्रेंचाइजी कानून उल्लंघन के संदेह में समीक्षा के लिए भेजा है।",
+        "body": "दक्षिण कोरिया के फेयर ट्रेड कमीशन ने 10 मई को कहा कि उसने Myungryun Jinsa Galbi की संचालक कंपनी Myungryundang को फ्रेंचाइजी बिजनेस एक्ट के कथित उल्लंघन पर औपचारिक समीक्षा के लिए उपसमिति को भेजा है। कंपनी पर आरोप है कि उसने Korea Development Bank जैसे नीतिगत वित्त संस्थानों से सालाना करीब 3% से 6% की कम दर पर कार्यशील पूंजी जुटाई और फिर प्रमुख शेयरधारकों आदि के स्वामित्व वाली ऋण कंपनी के जरिए फ्रेंचाइजी मालिकों को स्टोर खोलने के लिए 10% के मध्य से ऊपरी दायरे की दरों पर कर्ज दिया। FTC और Financial Services Commission की जांच में पाया गया कि फ्रेंचाइजी मालिकों को एकसमान ऊंचे ब्याज वाले ऋण दिए गए और उनसे इंटीरियर तथा उपकरणों की अत्यधिक लागत वहन कराई गई। FTC परीक्षकों ने कथित तौर पर सुधार आदेश, जुर्माना और शिकायत दर्ज करने की राय वाला रिपोर्ट पेश किया है। सरकार ऐसे मामलों को रोकने के लिए नीतिगत निधि पाने वाले फ्रेंचाइजरों पर ऋण नियम और निरीक्षण मजबूत करेगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Myungryun Jinsa Galbi Ditinjau FTC atas Dugaan Pinjaman Berbunga Tinggi",
+        "excerpt": "Komisi Perdagangan Adil Korea Selatan pada 10 Mei menyatakan telah membawa Myungryundang, operator Myungryun Jinsa Galbi, ke sidang subkomite atas dugaan pelanggaran hukum waralaba.",
+        "body": "Komisi Perdagangan Adil Korea Selatan pada 10 Mei menyatakan telah membawa Myungryundang, operator Myungryun Jinsa Galbi, ke subkomite untuk memulai peninjauan formal atas dugaan pelanggaran Undang-Undang Bisnis Waralaba. Perusahaan itu diduga memperoleh dana operasional berbunga rendah dari lembaga pembiayaan kebijakan, termasuk Korea Development Bank, dengan bunga tahunan sekitar 3% hingga 6%, lalu meminjamkan dana pembukaan gerai kepada pemilik waralaba melalui perusahaan pembiayaan milik pemegang saham utama dan pihak lain dengan bunga pada kisaran belasan persen menengah hingga tinggi. Survei fakta oleh FTC dan Financial Services Commission menemukan bahwa pinjaman berbunga tinggi diberikan secara seragam kepada pemilik waralaba dan bahwa biaya interior serta peralatan dinilai dibebankan secara berlebihan. Pemeriksa FTC dilaporkan telah menyerahkan laporan yang memuat rekomendasi perintah korektif, denda, dan pengaduan. Pemerintah akan memperketat aturan pinjaman dan pemeriksaan terhadap pemberi waralaba yang menerima dana kebijakan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "0183c3e24328",
+    "slug": "휘발유값-l당-평균-2011원-608197",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T16:00:25.280Z",
+    "updatedAt": "2026-05-10T16:00:25.280Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894034/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894034/2",
+    "titleFingerprint": "4dc441d2fb21d405541caafacdbe56971d0f68e2",
+    "dedupKeys": [
+      "0183c3e243281e47e2174fe22ca19388b87cb7e0",
+      "4dc441d2fb21d405541caafacdbe56971d0f68e2",
+      "97e98cae43334b9627a51f7294265d7ca71cecd3"
+    ],
+    "imageUrl": "/images/articles/0183c3e24328.jpg",
+    "i18n": {
+      "ko": {
+        "title": "휘발유값 L당 평균 2011원, 전국 주유소 판매가 6주 연속 상승",
+        "excerpt": "한국석유공사 오피넷에 따르면 5월 첫째 주 전국 주유소 평균 휘발유 가격은 L당 2011.2원, 경유는 2005.4원으로 전주보다 각각 2.6원 올랐다.",
+        "body": "5월 첫째 주 전국 주유소의 평균 휘발유와 경유 판매 가격이 모두 전주보다 오르며 6주 연속 상승세를 이어갔다. 한국석유공사 유가정보시스템 오피넷에 따르면 이 기간 전국 주유소 평균 휘발유 가격은 L당 2011.2원, 경유 가격은 L당 2005.4원으로 집계됐다. 두 유종 모두 전주 대비 각각 2.6원 상승했다. 10일 서울의 한 주유소에는 휘발유와 경유 가격이 표시돼 있었으며, 소비자들이 체감하는 주유비 부담도 이어지는 흐름이다. 휘발유와 경유 판매 가격이 6주 연속 오른 만큼 향후 주간 유가 추이에 대한 관심도 커질 것으로 보인다. 출처는 rss.donga.com이다."
+      },
+      "en": {
+        "title": "Gasoline Averages 2,011 Won per Liter as Station Prices Rise for Sixth Week",
+        "excerpt": "According to Korea National Oil Corp.’s Opinet, average gasoline prices at stations nationwide reached 2,011.2 won per liter in the first week of May, while diesel stood at 2,005.4 won.",
+        "body": "In the first week of May, average retail prices for gasoline and diesel at gas stations across South Korea rose from the previous week, extending gains for a sixth consecutive week. According to Opinet, the oil price information system operated by Korea National Oil Corp., the nationwide average gasoline price was 2,011.2 won per liter, while diesel averaged 2,005.4 won per liter. Both fuels increased by 2.6 won from the prior week. On May 10, gasoline and diesel prices were displayed at a gas station in Seoul, reflecting the continued burden of fuel costs for consumers. With both gasoline and diesel prices rising for six straight weeks, attention is expected to remain on weekly fuel price trends. Source: rss.donga.com."
+      },
+      "ja": {
+        "title": "ガソリン平均2011ウォン台、全国給油所価格が6週連続上昇",
+        "excerpt": "韓国石油公社のOpinetによると、5月第1週の全国給油所平均価格はガソリンが1リットル2011.2ウォン、軽油が2005.4ウォンで、前週比それぞれ2.6ウォン上昇した。",
+        "body": "5月第1週、韓国全国の給油所におけるガソリンと軽油の平均販売価格はいずれも前週より上昇し、6週連続の上昇となった。韓国石油公社の油価情報システムOpinetによると、この期間の全国平均ガソリン価格は1リットル当たり2011.2ウォン、軽油価格は2005.4ウォンだった。両油種とも前週に比べてそれぞれ2.6ウォン上がった。10日、ソウル市内のある給油所にはガソリンと軽油の価格が表示されており、消費者が感じる燃料費負担が続く状況を示している。ガソリンと軽油の販売価格が6週連続で上昇したことで、今後の週間油価動向にも関心が集まりそうだ。出典はrss.donga.com。"
+      },
+      "zh": {
+        "title": "汽油均价每升2011韩元，全国加油站价格连续6周上涨",
+        "excerpt": "韩国石油公社油价信息系统Opinet显示，5月第一周全国加油站汽油均价为每升2011.2韩元，柴油为2005.4韩元，较前一周均上涨2.6韩元。",
+        "body": "5月第一周，韩国全国加油站汽油和柴油平均销售价格均较前一周上涨，连续第六周走高。韩国石油公社油价信息系统Opinet数据显示，该期间全国加油站汽油平均价格为每升2011.2韩元，柴油平均价格为每升2005.4韩元。两类油品较前一周分别上涨2.6韩元。10日，首尔一家加油站显示了汽油和柴油价格，反映出消费者燃油支出负担仍在持续。由于汽油和柴油销售价格已连续6周上涨，今后每周油价走势预计也将受到关注。来源：rss.donga.com。"
+      },
+      "es": {
+        "title": "La gasolina promedia 2.011 wones por litro y sube por sexta semana",
+        "excerpt": "Según Opinet de Korea National Oil Corp., en la primera semana de mayo la gasolina promedió 2.011,2 wones por litro y el diésel 2.005,4 wones, ambos 2,6 wones más que la semana anterior.",
+        "body": "En la primera semana de mayo, los precios medios de venta de la gasolina y el diésel en las estaciones de servicio de Corea del Sur subieron frente a la semana anterior y encadenaron seis semanas consecutivas al alza. Según Opinet, el sistema de información de precios del petróleo de Korea National Oil Corp., el precio medio nacional de la gasolina fue de 2.011,2 wones por litro, mientras que el diésel se situó en 2.005,4 wones por litro. Ambos combustibles aumentaron 2,6 wones respecto de la semana previa. El 10 de mayo, una estación de servicio en Seúl mostraba los precios de gasolina y diésel, en un contexto de carga sostenida para los consumidores. Con seis semanas consecutivas de aumentos, seguirá la atención sobre la evolución semanal de los precios. Fuente: rss.donga.com."
+      },
+      "pt": {
+        "title": "Gasolina chega a média de 2.011 wons por litro e sobe pela 6ª semana",
+        "excerpt": "Segundo o Opinet da Korea National Oil Corp., na primeira semana de maio a gasolina teve média de 2.011,2 wons por litro, e o diesel, 2.005,4 wons, ambos 2,6 wons acima da semana anterior.",
+        "body": "Na primeira semana de maio, os preços médios de venda da gasolina e do diesel nos postos de combustíveis da Coreia do Sul subiram em relação à semana anterior, mantendo alta pela sexta semana consecutiva. Segundo o Opinet, sistema de informações de preços do petróleo da Korea National Oil Corp., a média nacional da gasolina foi de 2.011,2 wons por litro, enquanto o diesel ficou em 2.005,4 wons por litro. Os dois combustíveis avançaram 2,6 wons ante a semana anterior. Em 10 de maio, uma estação em Seul exibia os preços da gasolina e do diesel, mostrando a continuidade do peso dos custos de abastecimento para os consumidores. Com seis semanas seguidas de alta, a evolução semanal dos preços deve continuar em foco. Fonte: rss.donga.com."
+      },
+      "de": {
+        "title": "Benzin im Schnitt bei 2.011 Won je Liter, Preise steigen sechste Woche",
+        "excerpt": "Laut Opinet der Korea National Oil Corp. lag der landesweite Durchschnittspreis für Benzin in der ersten Maiwoche bei 2.011,2 Won je Liter, Diesel bei 2.005,4 Won, jeweils 2,6 Won höher.",
+        "body": "In der ersten Maiwoche sind die durchschnittlichen Verkaufspreise für Benzin und Diesel an Tankstellen in Südkorea gegenüber der Vorwoche gestiegen und legten damit die sechste Woche in Folge zu. Nach Angaben von Opinet, dem Ölpreisinformationssystem der Korea National Oil Corp., betrug der landesweite Durchschnittspreis für Benzin 2.011,2 Won je Liter, während Diesel im Schnitt bei 2.005,4 Won je Liter lag. Beide Kraftstoffarten verteuerten sich gegenüber der Vorwoche um jeweils 2,6 Won. Am 10. Mai waren an einer Tankstelle in Seoul die Preise für Benzin und Diesel ausgewiesen, was die anhaltende Belastung der Verbraucher durch Kraftstoffkosten zeigt. Da die Verkaufspreise sechs Wochen in Folge gestiegen sind, dürfte die wöchentliche Preisentwicklung weiter beobachtet werden. Quelle: rss.donga.com."
+      },
+      "fr": {
+        "title": "L’essence atteint 2 011 wons le litre, sixième semaine de hausse",
+        "excerpt": "Selon Opinet de Korea National Oil Corp., la première semaine de mai, l’essence a atteint 2 011,2 wons le litre en moyenne nationale et le diesel 2 005,4 wons, soit 2,6 wons de plus.",
+        "body": "Au cours de la première semaine de mai, les prix moyens de vente de l’essence et du diesel dans les stations-service de Corée du Sud ont augmenté par rapport à la semaine précédente, poursuivant une hausse pour la sixième semaine consécutive. Selon Opinet, le système d’information sur les prix du pétrole de Korea National Oil Corp., le prix moyen national de l’essence s’est établi à 2 011,2 wons le litre, tandis que le diesel a atteint 2 005,4 wons le litre. Les deux carburants ont progressé de 2,6 wons chacun par rapport à la semaine précédente. Le 10 mai, une station-service de Séoul affichait les prix de l’essence et du diesel, illustrant la pression persistante des coûts de carburant pour les consommateurs. Avec six semaines consécutives de hausse, l’évolution hebdomadaire des prix devrait rester surveillée. Source : rss.donga.com."
+      },
+      "ar": {
+        "title": "متوسط سعر البنزين يبلغ 2011 وون للتر وأسعار الوقود ترتفع للأسبوع السادس",
+        "excerpt": "بحسب نظام أوبينت التابع لمؤسسة النفط الكورية، بلغ متوسط سعر البنزين في محطات كوريا الجنوبية خلال الأسبوع الأول من مايو 2011.2 وون للتر، والديزل 2005.4 وون، بزيادة 2.6 وون لكل منهما.",
+        "body": "في الأسبوع الأول من مايو، ارتفع متوسط أسعار بيع البنزين والديزل في محطات الوقود في أنحاء كوريا الجنوبية مقارنة بالأسبوع السابق، ليواصل الصعود للأسبوع السادس على التوالي. ووفق نظام معلومات أسعار النفط أوبينت التابع لمؤسسة النفط الكورية، بلغ متوسط سعر البنزين على مستوى البلاد 2011.2 وون للتر، بينما بلغ متوسط سعر الديزل 2005.4 وون للتر. وارتفع كلا النوعين بمقدار 2.6 وون مقارنة بالأسبوع السابق. وفي 10 مايو، عُرضت أسعار البنزين والديزل في إحدى محطات الوقود في سيول، ما يعكس استمرار عبء تكاليف التزود بالوقود على المستهلكين. ومع ارتفاع أسعار بيع البنزين والديزل لستة أسابيع متتالية، من المتوقع أن يستمر الاهتمام باتجاهات الأسعار الأسبوعية. المصدر: rss.donga.com."
+      },
+      "hi": {
+        "title": "पेट्रोल औसतन 2,011 वॉन प्रति लीटर, ईंधन कीमतें लगातार छठे सप्ताह बढ़ीं",
+        "excerpt": "कोरिया नेशनल ऑयल कॉर्प के Opinet के अनुसार मई के पहले सप्ताह में देशभर के पंपों पर पेट्रोल औसतन 2,011.2 वॉन प्रति लीटर और डीजल 2,005.4 वॉन रहा, दोनों में 2.6 वॉन की वृद्धि हुई।",
+        "body": "मई के पहले सप्ताह में दक्षिण कोरिया के देशभर के पेट्रोल पंपों पर पेट्रोल और डीजल की औसत बिक्री कीमतें पिछले सप्ताह की तुलना में बढ़ीं और यह बढ़त लगातार छठे सप्ताह जारी रही। कोरिया नेशनल ऑयल कॉर्प के तेल मूल्य सूचना तंत्र Opinet के अनुसार, इस अवधि में पेट्रोल का राष्ट्रीय औसत मूल्य 2,011.2 वॉन प्रति लीटर और डीजल का औसत मूल्य 2,005.4 वॉन प्रति लीटर दर्ज किया गया। दोनों ईंधनों की कीमतें पिछले सप्ताह से 2.6 वॉन बढ़ीं। 10 मई को सियोल के एक पेट्रोल पंप पर पेट्रोल और डीजल की कीमतें प्रदर्शित थीं, जो उपभोक्ताओं पर ईंधन खर्च के जारी बोझ को दिखाती हैं। पेट्रोल और डीजल की बिक्री कीमतों में लगातार छह सप्ताह की वृद्धि के बाद साप्ताहिक मूल्य रुझानों पर ध्यान बना रहने की संभावना है। स्रोत: rss.donga.com."
+      },
+      "id": {
+        "title": "Bensin Rata-Rata 2.011 Won per Liter, Harga SPBU Naik 6 Pekan",
+        "excerpt": "Menurut Opinet milik Korea National Oil Corp., pada pekan pertama Mei harga rata-rata bensin nasional mencapai 2.011,2 won per liter dan diesel 2.005,4 won, keduanya naik 2,6 won dari pekan sebelumnya.",
+        "body": "Pada pekan pertama Mei, harga jual rata-rata bensin dan diesel di SPBU seluruh Korea Selatan naik dibandingkan pekan sebelumnya, melanjutkan kenaikan selama enam pekan berturut-turut. Menurut Opinet, sistem informasi harga minyak milik Korea National Oil Corp., harga rata-rata nasional bensin tercatat 2.011,2 won per liter, sementara diesel berada di 2.005,4 won per liter. Kedua jenis bahan bakar tersebut masing-masing naik 2,6 won dari pekan sebelumnya. Pada 10 Mei, sebuah SPBU di Seoul menampilkan harga bensin dan diesel, menunjukkan beban biaya bahan bakar yang masih dirasakan konsumen. Karena harga jual bensin dan diesel telah naik enam pekan berturut-turut, tren harga mingguan diperkirakan tetap menjadi perhatian. Sumber: rss.donga.com."
+      }
+    }
+  },
+  {
+    "id": "48c12811cc45",
+    "slug": "oecd-에너지물가-1년새-8-급등-중동發-워플레이션-초비상-754053",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T15:59:12.010Z",
+    "updatedAt": "2026-05-10T15:59:12.010Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894042/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894042/2",
+    "titleFingerprint": "622ea0aefb5fb8b1f6908321a95933531315b4a2",
+    "dedupKeys": [
+      "48c12811cc4502dd670e7d9ad16a19e6982a8486",
+      "622ea0aefb5fb8b1f6908321a95933531315b4a2",
+      "47029656eecc47c75b0efc1cbd9fb31c655374b6"
+    ],
+    "imageUrl": "/images/articles/48c12811cc45.jpg",
+    "i18n": {
+      "ko": {
+        "title": "OECD 에너지물가 8.1% 급등, 중동 전쟁發 유가 상승에 물가 비상",
+        "excerpt": "OECD는 10일 보고서에서 3월 회원국 소비자물가가 전년 대비 4.0% 오르고 에너지 물가가 8.1% 상승했다고 밝혔다.",
+        "body": "중동 전쟁 여파로 국제유가가 오르면서 올해 3월 경제협력개발기구(OECD) 회원국의 에너지 물가가 전년 대비 8.1% 상승했다. OECD가 10일 발행한 보고서에 따르면 3월 회원국 소비자물가는 1년 전보다 4.0% 올라 지난해 10월 이후 유지하던 3%대에서 4%대로 진입했다. 월별 통계가 공개된 37개국 중 33개국에서 전월보다 물가가 높아졌다. OECD는 2월 말부터 시작된 중동 전쟁에 따른 국제유가 상승이 전체 소비자물가를 끌어올린 것으로 봤다. 한국은 석유 최고가격제와 유류세 인하 등으로 3월 에너지 물가 상승률이 주요국보다 낮았지만, 4월 석유류 가격이 20% 넘게 오르며 국내 물가 부담이 커지고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "OECD Energy Prices Jump 8.1% as Middle East War Lifts Oil Costs",
+        "excerpt": "In a report released on the 10th, the OECD said March consumer prices rose 4.0% year on year, while energy prices climbed 8.1%.",
+        "body": "Energy prices across OECD member countries rose 8.1% year on year in March as international oil prices increased following the Middle East war. According to a report published by the OECD on the 10th, consumer prices in member countries rose 4.0% from a year earlier in March, moving into the 4% range after staying in the 3% range since last October. Of the 37 member countries with monthly data available, 33 saw prices rise from the previous month. The OECD said the jump in global oil prices after the Middle East war began in late February pushed up overall consumer prices. Korea’s March energy inflation was lower than in major OECD economies due to measures such as a maximum oil price system and fuel tax cuts, but domestic inflation pressure is growing as petroleum prices rose more than 20% in April. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "OECDエネルギー価格8.1%上昇、中東戦争による原油高で物価警戒",
+        "excerpt": "OECDは10日の報告書で、3月の加盟国消費者物価が前年同月比4.0%上昇し、エネルギー価格は8.1%上がったと明らかにした。",
+        "body": "中東戦争の影響で国際原油価格が上昇し、3月の経済協力開発機構（OECD）加盟国のエネルギー価格は前年同月比8.1%上昇した。OECDが10日に発行した報告書によると、3月の加盟国の消費者物価は1年前より4.0%上がり、昨年10月以降続いていた3%台から4%台に入った。月次統計が公開された37加盟国のうち33カ国で前月より物価が上昇した。OECDは、2月末に始まった中東戦争による国際原油高が全体の消費者物価を押し上げたとみている。韓国は石油最高価格制や燃料税引き下げなどにより3月のエネルギー物価上昇率が主要国より低かったが、4月に石油類価格が20%超上がり、国内物価負担が強まっている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "OECD能源价格上涨8.1%，中东战争推高油价加剧通胀压力",
+        "excerpt": "OECD在10日发布的报告中表示，3月成员国消费者价格同比上涨4.0%，能源价格上涨8.1%。",
+        "body": "受中东战争导致国际油价上涨影响，今年3月经济合作与发展组织（OECD）成员国能源价格同比上涨8.1%。根据OECD于10日发布的报告，3月成员国消费者价格较一年前上涨4.0%，自去年10月以来维持在3%区间后进入4%区间。在已公布月度统计的37个成员国中，33国物价较上月上升。OECD认为，2月底开始的中东战争推高国际油价，并带动整体消费者价格上涨。韩国因实行石油最高价格制、下调燃油税等措施，3月能源价格涨幅低于OECD主要国家，但4月石油类价格上涨超过20%，国内物价负担正在加重。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Precios de energía en la OCDE suben 8,1% por el alza del petróleo tras la guerra en Oriente Medio",
+        "excerpt": "La OCDE informó el día 10 que los precios al consumidor de marzo subieron 4,0% interanual y que la energía aumentó 8,1%.",
+        "body": "Los precios de la energía en los países miembros de la OCDE subieron 8,1% interanual en marzo, impulsados por el aumento del petróleo internacional tras la guerra en Oriente Medio. Según el informe publicado por la OCDE el día 10, los precios al consumidor de los miembros crecieron 4,0% frente a un año antes en marzo, entrando en el rango del 4% después de mantenerse en el 3% desde octubre pasado. De los 37 países miembros con estadísticas mensuales disponibles, 33 registraron precios más altos que el mes anterior. La OCDE considera que el alza del crudo internacional, tras el inicio de la guerra en Oriente Medio a fines de febrero, elevó la inflación general. En Corea, medidas como el precio máximo del petróleo y la reducción del impuesto al combustible limitaron el aumento energético de marzo frente a grandes economías, pero en abril los precios petroleros subieron más de 20%, aumentando la presión interna. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Energia na OCDE sobe 8,1% com alta do petróleo após guerra no Oriente Médio",
+        "excerpt": "A OCDE informou no dia 10 que os preços ao consumidor de março subiram 4,0% em um ano, enquanto a energia avançou 8,1%.",
+        "body": "Os preços de energia nos países membros da OCDE subiram 8,1% em março ante um ano antes, refletindo a alta do petróleo internacional após a guerra no Oriente Médio. Segundo relatório publicado pela OCDE no dia 10, os preços ao consumidor dos membros avançaram 4,0% em março em relação ao ano anterior, entrando na faixa de 4% após permanecerem na casa de 3% desde outubro passado. Entre os 37 membros com dados mensais divulgados, 33 registraram aumento frente ao mês anterior. A OCDE avaliou que a escalada do petróleo global, após o início da guerra no Oriente Médio no fim de fevereiro, elevou a inflação geral. Na Coreia, medidas como preço máximo do petróleo e corte do imposto sobre combustíveis mantiveram a alta de energia de março abaixo da de grandes países, mas em abril os preços de derivados subiram mais de 20%, ampliando a pressão doméstica. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "OECD-Energiepreise steigen 8,1%: Nahostkrieg treibt Ölpreise und Inflation",
+        "excerpt": "Die OECD meldete am 10., dass die Verbraucherpreise im März um 4,0% zum Vorjahr stiegen, während Energiepreise um 8,1% zulegten.",
+        "body": "Die Energiepreise in den OECD-Mitgliedstaaten stiegen im März im Jahresvergleich um 8,1%, nachdem der Nahostkrieg die internationalen Ölpreise nach oben getrieben hatte. Laut einem am 10. veröffentlichten OECD-Bericht legten die Verbraucherpreise der Mitgliedsländer im März um 4,0% gegenüber dem Vorjahr zu und erreichten damit nach Werten im 3%-Bereich seit vergangenem Oktober wieder den 4%-Bereich. Von 37 Mitgliedstaaten mit veröffentlichten Monatsdaten verzeichneten 33 höhere Preise als im Vormonat. Die OECD sieht den Anstieg der globalen Ölpreise seit Beginn des Nahostkriegs Ende Februar als Treiber der gesamten Verbraucherpreise. In Korea fiel die Energieinflation im März dank Ölpreisobergrenze und niedrigerer Kraftstoffsteuer geringer aus als in wichtigen OECD-Ländern, doch im April stiegen Erdölpreise um mehr als 20%, was den heimischen Preisdruck erhöht. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Prix de l’énergie OCDE +8,1%: la guerre au Moyen-Orient renchérit le pétrole",
+        "excerpt": "L’OCDE a indiqué le 10 que les prix à la consommation de mars avaient augmenté de 4,0% sur un an et l’énergie de 8,1%.",
+        "body": "Les prix de l’énergie dans les pays membres de l’OCDE ont augmenté de 8,1% sur un an en mars, sous l’effet de la hausse du pétrole international liée à la guerre au Moyen-Orient. Selon le rapport publié par l’OCDE le 10, les prix à la consommation des membres ont progressé de 4,0% en mars par rapport à un an plus tôt, passant dans la zone des 4% après être restés autour de 3% depuis octobre dernier. Parmi les 37 pays membres dont les données mensuelles sont publiées, 33 ont enregistré une hausse par rapport au mois précédent. L’OCDE estime que l’envolée du pétrole mondial depuis le début de la guerre au Moyen-Orient fin février a tiré l’inflation globale. En Corée, le plafonnement du prix du pétrole et la baisse de la taxe sur les carburants ont contenu la hausse de mars, mais les prix pétroliers ont augmenté de plus de 20% en avril, alourdissant la pression intérieure. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أسعار الطاقة في OECD تقفز 8.1% مع صعود النفط بسبب حرب الشرق الأوسط",
+        "excerpt": "قالت OECD في تقرير صدر يوم 10 إن أسعار المستهلكين في مارس ارتفعت 4.0% سنويا، فيما صعدت أسعار الطاقة 8.1%.",
+        "body": "ارتفعت أسعار الطاقة في دول منظمة التعاون الاقتصادي والتنمية OECD بنسبة 8.1% على أساس سنوي في مارس، مع صعود أسعار النفط العالمية نتيجة حرب الشرق الأوسط. ووفقا لتقرير أصدرته المنظمة يوم 10، زادت أسعار المستهلكين في الدول الأعضاء 4.0% مقارنة بالعام السابق في مارس، منتقلة إلى نطاق 4% بعد بقائها في نطاق 3% منذ أكتوبر الماضي. ومن بين 37 دولة عضوا نشرت بيانات شهرية، سجلت 33 دولة ارتفاعا في الأسعار مقارنة بالشهر السابق. وترى OECD أن ارتفاع أسعار النفط العالمية بعد بدء حرب الشرق الأوسط في أواخر فبراير دفع التضخم العام إلى الصعود. وفي كوريا، أبقت إجراءات مثل سقف أسعار النفط وخفض ضريبة الوقود تضخم الطاقة في مارس دون مستويات الدول الرئيسية، لكن أسعار المنتجات النفطية ارتفعت بأكثر من 20% في أبريل، ما يزيد عبء الأسعار محليا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "OECD ऊर्जा कीमतें 8.1% बढ़ीं, मध्य पूर्व युद्ध से तेल महंगा और महंगाई दबाव",
+        "excerpt": "OECD ने 10 तारीख की रिपोर्ट में कहा कि मार्च में सदस्य देशों के उपभोक्ता मूल्य सालाना 4.0% और ऊर्जा कीमतें 8.1% बढ़ीं।",
+        "body": "मध्य पूर्व युद्ध के असर से अंतरराष्ट्रीय तेल कीमतें बढ़ने के बाद मार्च में OECD सदस्य देशों की ऊर्जा कीमतें सालाना आधार पर 8.1% बढ़ीं। OECD की 10 तारीख को जारी रिपोर्ट के अनुसार, मार्च में सदस्य देशों के उपभोक्ता मूल्य एक साल पहले से 4.0% बढ़े और पिछले अक्टूबर से 3% दायरे में रहने के बाद 4% दायरे में पहुंच गए। मासिक आंकड़े जारी करने वाले 37 सदस्य देशों में से 33 में कीमतें पिछले महीने से बढ़ीं। OECD के अनुसार, फरवरी के अंत में शुरू हुए मध्य पूर्व युद्ध के बाद वैश्विक तेल कीमतों की तेजी ने कुल उपभोक्ता महंगाई को ऊपर धकेला। कोरिया में तेल की अधिकतम कीमत प्रणाली और ईंधन कर कटौती जैसे कदमों से मार्च की ऊर्जा महंगाई प्रमुख देशों से कम रही, लेकिन अप्रैल में पेट्रोलियम कीमतें 20% से अधिक बढ़ीं, जिससे घरेलू कीमतों का बोझ बढ़ रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Harga Energi OECD Naik 8,1%, Perang Timur Tengah Dorong Minyak dan Inflasi",
+        "excerpt": "OECD pada laporan tanggal 10 menyebut harga konsumen Maret naik 4,0% tahunan, sementara harga energi melonjak 8,1%.",
+        "body": "Harga energi di negara anggota OECD naik 8,1% secara tahunan pada Maret setelah harga minyak internasional meningkat akibat perang di Timur Tengah. Menurut laporan OECD yang diterbitkan tanggal 10, harga konsumen negara anggota pada Maret naik 4,0% dari setahun sebelumnya, masuk ke kisaran 4% setelah bertahan di kisaran 3% sejak Oktober lalu. Dari 37 negara anggota yang merilis statistik bulanan, 33 mencatat kenaikan harga dibanding bulan sebelumnya. OECD menilai kenaikan harga minyak global sejak perang Timur Tengah dimulai pada akhir Februari telah mendorong harga konsumen secara keseluruhan. Di Korea, sistem harga maksimum minyak dan pemangkasan pajak bahan bakar membuat inflasi energi Maret lebih rendah dibanding negara utama OECD, tetapi harga produk minyak pada April naik lebih dari 20%, memperbesar tekanan harga domestik. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "00fcb9ec17cb",
     "slug": "가상화폐-팔아-집값-보탰다-30대-103억원어치-가장-많아-817392",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "229 Beli Rumah dari Hasil Jual Kripto, 70% Berusia 30-an",
         "excerpt": "Data Kementerian Pertanahan, Infrastruktur, dan Transportasi menunjukkan hingga Februari ada 229 pembeli rumah yang memakai hasil penjualan kripto, dengan 70% berusia 30-an.",
         "body": "Pembeli rumah yang menggunakan dana hasil penjualan mata uang kripto paling banyak berasal dari kelompok usia 30-an. Menurut data Kementerian Pertanahan, Infrastruktur, dan Transportasi yang diperoleh pada tanggal 10 oleh kantor anggota parlemen Kim Jong-yang dari Partai Kekuatan Rakyat, anggota Komite Pertanahan dan Transportasi Majelis Nasional, jumlah pembeli terkait mencapai 229 orang per Februari. Dari jumlah itu, 70% berada di usia 30-an, lebih tinggi dibanding kelompok usia lain. Data tersebut menunjukkan kasus penggunaan dana penjualan kripto dalam pembelian rumah serta distribusinya menurut usia. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4e275da8cc13",
-    "slug": "토요일에-구청엔-왜양도세-중과-피해-막판-거래신고-이어져-172543",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T04:44:28.775Z",
-    "updatedAt": "2026-05-10T04:44:28.775Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042486",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042486",
-    "titleFingerprint": "b7436695d577cddb8fba267c15c77493a80b591c",
-    "dedupKeys": [
-      "4e275da8cc13eddb58423efda124e0e2c7bff75d",
-      "b7436695d577cddb8fba267c15c77493a80b591c",
-      "307e0b9e284e0905455dd53ec9117d22dbbd13a6"
-    ],
-    "imageUrl": "/images/articles/4e275da8cc13.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양도세 중과 유예 마지막 날, 토요일 구청에 몰린 막판 거래신고",
-        "excerpt": "다주택자 양도소득세 중과 유예 종료를 앞둔 지난 9일, 서울과 경기 일부 자치구에서 중과 적용을 피하려는 토지거래허가 신청이 이어졌다.",
-        "body": "다주택자 양도소득세 중과 유예가 끝나기 전 마지막 날이었던 지난 9일, 서울과 경기 일부 자치구 구청에는 막판 토지거래허가 신청이 이어졌다. 신청자들은 유예 기간 안에 거래 신고를 마쳐 양도세 중과 적용을 피하려는 목적이었다. 일부 자치구는 토요일에도 관련 접수를 처리하며 유예 적용 가능 여부를 확인하려는 문의와 신청을 받았다. 이번 움직임은 다주택자 양도세 중과 재개를 앞두고 세 부담을 줄이려는 거래 수요가 막판에 집중된 사례로 풀이된다. 향후 유예 종료 이후에는 중과 적용 여부가 거래 판단의 주요 변수로 작용할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Capital Gains Tax Deadline Spurs Saturday Rush for Last-Minute Deal Reports",
-        "excerpt": "On May 9, the final day before the end of the capital gains tax surcharge grace period for multi-homeowners, land transaction permit applications continued in parts of Seoul and Gyeonggi.",
-        "body": "On May 9, the final day before the grace period for the capital gains tax surcharge on multi-homeowners ended, district offices in parts of Seoul and Gyeonggi saw a stream of last-minute land transaction permit applications. Applicants sought to complete transaction reports within the grace period to avoid the surcharge. Some local offices handled related filings even on Saturday, receiving inquiries and applications from those checking whether the grace period could still apply. The activity reflects a late concentration of transaction demand aimed at reducing tax burdens before the surcharge resumes. After the grace period ends, whether the surcharge applies is expected to remain a key factor in transaction decisions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "譲渡税重課猶予の最終日、土曜の区役所に駆け込み申告相次ぐ",
-        "excerpt": "多住宅保有者への譲渡所得税重課猶予が終わる直前の9日、ソウルと京畿の一部自治体で重課回避を狙う土地取引許可申請が続いた。",
-        "body": "多住宅保有者に対する譲渡所得税重課の猶予期間が終わる前の最終日だった9日、ソウルと京畿の一部自治体の区役所には、駆け込みの土地取引許可申請が相次いだ。申請者は猶予期間内に取引申告を終え、譲渡税の重課適用を避けることを目的としていた。一部自治体は土曜日にも関連受付を処理し、猶予適用の可否を確認する問い合わせや申請を受けた。今回の動きは、多住宅保有者への譲渡税重課再開を前に、税負担を抑えたい取引需要が最終盤に集中した事例とみられる。猶予終了後は、重課適用の有無が取引判断の主要な変数になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "转让税重税宽限最后一天，周六区厅现最后交易申报潮",
-        "excerpt": "在多套房持有者转让所得税重税宽限期结束前的5月9日，首尔和京畿部分自治政府继续出现为避开重税而提交的土地交易许可申请。",
-        "body": "在多套房持有者转让所得税重税宽限期结束前的最后一天，即5月9日，首尔和京畿部分自治政府区厅出现了最后阶段的土地交易许可申请。申请人希望在宽限期内完成交易申报，以避免适用转让税重税。部分自治政府即使在周六也处理相关受理事项，并接收有关能否适用宽限的咨询和申请。此次情况被视为在多套房持有者转让税重税即将恢复前，为减少税负的交易需求集中在最后时点的案例。宽限期结束后，是否适用重税预计将成为交易判断中的重要变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Último día de gracia fiscal: oficinas reciben avisos de compraventa en sábado",
-        "excerpt": "El 9 de mayo, último día antes del fin de la moratoria del recargo sobre ganancias de capital para multipropietarios, continuaron solicitudes de permisos de transacción de terrenos en Seúl y Gyeonggi.",
-        "body": "El 9 de mayo, último día antes de que terminara la moratoria del recargo del impuesto sobre ganancias de capital para propietarios de múltiples viviendas, oficinas distritales de algunas zonas de Seúl y Gyeonggi recibieron solicitudes de permisos de transacción de terrenos de último momento. Los solicitantes buscaban completar la declaración de la operación dentro del periodo de gracia para evitar la aplicación del recargo. Algunas autoridades locales procesaron trámites incluso en sábado y atendieron consultas y solicitudes sobre si aún podía aplicarse la moratoria. El movimiento muestra una concentración final de demanda de transacciones orientada a reducir cargas fiscales antes de que se reanude el recargo. Tras el fin de la moratoria, la aplicación del recargo será un factor clave en las decisiones de compraventa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Último dia de alívio do imposto leva registros de negócios a prefeituras no sábado",
-        "excerpt": "Em 9 de maio, último dia antes do fim da suspensão da sobretaxa sobre ganhos de capital para múltiplos proprietários, pedidos de autorização para transações de terrenos continuaram em Seul e Gyeonggi.",
-        "body": "Em 9 de maio, último dia antes do fim do período de suspensão da sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplos imóveis, repartições distritais em partes de Seul e Gyeonggi receberam pedidos de autorização para transações de terrenos de última hora. Os solicitantes buscavam concluir o registro da transação dentro do prazo de suspensão para evitar a aplicação da sobretaxa. Algumas administrações locais processaram os pedidos mesmo no sábado, respondendo a consultas e recebendo solicitações sobre a possibilidade de aplicação da suspensão. O movimento indica uma concentração final de demanda por transações para reduzir a carga tributária antes da retomada da sobretaxa. Após o fim do prazo, a aplicação da sobretaxa deve pesar nas decisões de negociação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Letzter Tag der Steuerpause: Samstagsandrang bei Bezirksämtern wegen Meldungen",
-        "excerpt": "Am 9. Mai, dem letzten Tag vor Ende der Aussetzung des Kapitalertragsteuer-Aufschlags für Mehrfachhausbesitzer, gingen in Teilen Seouls und Gyeonggis weiter Anträge auf Grundstückstransaktionen ein.",
-        "body": "Am 9. Mai, dem letzten Tag vor Ablauf der Aussetzung des Kapitalertragsteuer-Aufschlags für Eigentümer mehrerer Wohnungen, verzeichneten Bezirksämter in Teilen von Seoul und Gyeonggi kurzfristige Anträge auf Genehmigung von Grundstückstransaktionen. Die Antragsteller wollten ihre Transaktionsmeldungen noch innerhalb der Frist abschließen, um den Aufschlag zu vermeiden. Einige Kommunen bearbeiteten entsprechende Eingaben auch am Samstag und nahmen Anfragen sowie Anträge zur möglichen Anwendung der Aussetzung entgegen. Die Entwicklung zeigt, dass sich Transaktionsnachfrage zur Verringerung der Steuerlast kurz vor Wiederaufnahme des Aufschlags bündelte. Nach Ende der Aussetzung dürfte die Frage, ob der Aufschlag gilt, ein wichtiger Faktor bei Geschäftsentscheidungen bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Dernier jour de sursis fiscal: les guichets ouverts samedi pour déclarer les ventes",
-        "excerpt": "Le 9 mai, dernier jour avant la fin du sursis à la surtaxe sur les plus-values des multipropriétaires, les demandes d’autorisation de transactions foncières ont continué à Séoul et dans le Gyeonggi.",
-        "body": "Le 9 mai, dernier jour avant la fin du sursis à la surtaxe sur l’impôt des plus-values pour les propriétaires de plusieurs logements, des bureaux d’arrondissement de certaines zones de Séoul et du Gyeonggi ont reçu des demandes de dernière minute d’autorisation de transactions foncières. Les demandeurs voulaient finaliser leur déclaration dans le délai de sursis afin d’éviter l’application de la surtaxe. Certaines collectivités ont traité les dossiers même un samedi, en répondant aux questions et en recevant les demandes sur l’éligibilité au sursis. Ce mouvement illustre une concentration tardive de transactions visant à réduire la charge fiscale avant la reprise de la surtaxe. Après la fin du sursis, son application devrait rester un facteur important dans les décisions de transaction. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "اليوم الأخير لتأجيل ضريبة الأرباح يدفع طلبات الصفقات إلى المكاتب السبت",
-        "excerpt": "في 9 مايو، اليوم الأخير قبل انتهاء تأجيل الضريبة الإضافية على مكاسب رأس المال لأصحاب العقارات المتعددة، تواصلت طلبات تصاريح معاملات الأراضي في أجزاء من سول وغييونغي.",
-        "body": "في 9 مايو، وهو اليوم الأخير قبل انتهاء فترة تأجيل الضريبة الإضافية على مكاسب رأس المال لأصحاب العقارات المتعددة، شهدت مكاتب أحياء في أجزاء من سول وغييونغي طلبات أخيرة للحصول على تصاريح معاملات الأراضي. كان مقدمو الطلبات يسعون إلى إتمام بلاغات المعاملات داخل فترة التأجيل لتجنب تطبيق الضريبة الإضافية. عالجت بعض السلطات المحلية الطلبات حتى يوم السبت، وتلقت استفسارات وطلبات حول إمكانية الاستفادة من التأجيل. ويعكس ذلك تركزا في الطلب على المعاملات في اللحظات الأخيرة بهدف خفض العبء الضريبي قبل عودة تطبيق الضريبة الإضافية. وبعد انتهاء التأجيل، من المتوقع أن تبقى مسألة تطبيق الضريبة عاملا رئيسيا في قرارات التداول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "पूंजीगत लाभ कर छूट का आखिरी दिन, शनिवार को दफ्तरों में सौदा रिपोर्ट की भीड़",
-        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की छूट समाप्त होने से पहले 9 मई को सियोल और ग्योंगगी के कुछ क्षेत्रों में भूमि लेनदेन अनुमति आवेदनों का सिलसिला जारी रहा।",
-        "body": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की छूट अवधि समाप्त होने से पहले अंतिम दिन, 9 मई को, सियोल और ग्योंगगी के कुछ जिला कार्यालयों में भूमि लेनदेन अनुमति के अंतिम समय के आवेदन आते रहे। आवेदक छूट अवधि के भीतर लेनदेन रिपोर्ट पूरी कर अधिभार से बचना चाहते थे। कुछ स्थानीय निकायों ने शनिवार को भी संबंधित आवेदन संसाधित किए और यह जानने के लिए पूछताछ व आवेदन लिए कि छूट लागू हो सकती है या नहीं। यह गतिविधि अधिभार की बहाली से पहले कर बोझ घटाने की लेनदेन मांग के अंतिम समय में केंद्रित होने का उदाहरण है। छूट समाप्त होने के बाद अधिभार लागू होगा या नहीं, यह लेनदेन निर्णयों का अहम कारक रहने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hari Terakhir Penangguhan Pajak, Laporan Transaksi Memadati Kantor Sabtu",
-        "excerpt": "Pada 9 Mei, hari terakhir sebelum penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah berakhir, permohonan izin transaksi tanah terus masuk di sebagian Seoul dan Gyeonggi.",
-        "body": "Pada 9 Mei, hari terakhir sebelum masa penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah berakhir, kantor distrik di sebagian Seoul dan Gyeonggi menerima permohonan izin transaksi tanah pada menit terakhir. Para pemohon berupaya menyelesaikan pelaporan transaksi dalam masa penangguhan agar terhindar dari penerapan pajak tambahan. Beberapa pemerintah daerah memproses berkas terkait meski pada hari Sabtu, sekaligus menerima pertanyaan dan permohonan mengenai apakah penangguhan masih dapat berlaku. Pergerakan ini menunjukkan terkonsentrasinya permintaan transaksi menjelang akhir periode untuk mengurangi beban pajak sebelum pajak tambahan diberlakukan kembali. Setelah penangguhan berakhir, penerapan pajak tambahan diperkirakan menjadi faktor penting dalam keputusan transaksi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a7d85874d3e3",
-    "slug": "팔-사람-다-팔았다-서울-아파트-매물-주말-새-2000건-뚝-307045",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T04:43:28.220Z",
-    "updatedAt": "2026-05-10T04:43:28.220Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042488",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042488",
-    "titleFingerprint": "ab61a07a027acb2f28b023e23b429f1bf966ed4b",
-    "dedupKeys": [
-      "a7d85874d3e3c2e67fe8e113deceba0efb06f166",
-      "ab61a07a027acb2f28b023e23b429f1bf966ed4b",
-      "792e0f421e5bd368308906a79af4ab3f7d636fa2"
-    ],
-    "imageUrl": "/images/articles/a7d85874d3e3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 아파트 매물 2000건 급감, 양도세 중과 유예 종료에 매도세 줄었다",
-        "excerpt": "다주택자 양도세 중과 유예가 종료되면서 10일 서울 아파트 매물이 주말 사이 2000건 이상 줄어든 것으로 부동산 빅데이터 플랫폼 아실 집계에서 나타났다.",
-        "body": "10일 부동산 빅데이터 플랫폼 아실에 따르면 이날 서울 아파트 매물은 6만6914건으로 집계됐다. 주말 사이 매물이 2000건 이상 줄어든 것으로, 다주택자 양도세 중과 유예가 종료된 영향이 반영된 것으로 풀이된다. 원문은 “팔 사람 다 팔았다”는 시장 분위기 속에 서울 아파트 매물이 단기간 크게 감소했다고 전했다. 매물 감소는 매도자들이 세제 유예 종료 전 처분을 마쳤거나 매도 시점을 조정하는 흐름과 맞물려 해석된다. 향후 서울 아파트 시장에서는 매물 축소가 거래와 가격 흐름에 어떤 영향을 줄지가 관건이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul apartment listings drop by over 2,000 after capital gains tax grace period ends",
-        "excerpt": "Seoul apartment listings fell by more than 2,000 over the weekend as the grace period on heavier capital gains taxes for multi-home owners ended, according to Asil data on May 10.",
-        "body": "According to real estate big data platform Asil on May 10, Seoul apartment listings stood at 66,914 that day. The total fell by more than 2,000 over the weekend, a decline viewed as reflecting the end of the grace period on heavier capital gains taxes for multi-home owners. The original report described the market mood as “those who had to sell have already sold,” noting a sharp short-term drop in Seoul apartment listings. The decline may be read alongside sellers completing disposals before the tax grace period ended or adjusting their selling timing. The key issue ahead is how fewer listings will affect transactions and price trends in Seoul’s apartment market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウルのマンション売り物件が2000件超減少、譲渡税重課猶予終了で売り圧力後退",
-        "excerpt": "多住宅所有者への譲渡税重課猶予が終了し、5月10日のアシル集計でソウルのマンション売り物件が週末の間に2000件以上減少した。",
-        "body": "不動産ビッグデータプラットフォームのアシルによると、5月10日時点のソウルのマンション売り物件は6万6914件だった。週末の間に2000件以上減った形で、多住宅所有者に対する譲渡税重課猶予の終了が反映されたものとみられる。原文は「売る人はみな売った」という市場の雰囲気の中で、ソウルのマンション売り物件が短期間で大きく減少したと伝えた。物件減少は、売主が税制猶予の終了前に処分を終えたか、売却時期を調整する流れと重ねて解釈される。今後は、売り物件の縮小がソウルのマンション市場の取引と価格動向にどのような影響を与えるかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔公寓挂牌量周末减少逾2000套，转让税重课缓期结束后卖盘收缩",
-        "excerpt": "随着多套房持有者转让税重课缓期结束，5月10日房地产大数据平台Asil统计显示，首尔公寓挂牌量在周末减少逾2000套。",
-        "body": "据房地产大数据平台Asil 5月10日数据，当天首尔公寓挂牌量为66914套。周末期间挂牌量减少逾2000套，被认为反映了多套房持有者转让税重课缓期结束的影响。原文称，在“该卖的人都卖了”的市场氛围下，首尔公寓挂牌量短期内明显下降。挂牌减少可与卖方在税收缓期结束前完成出售，或调整出售时点的走势联系起来解读。接下来，挂牌量收缩将如何影响首尔公寓市场的交易和价格走势，将成为关注重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Caen más de 2.000 anuncios de apartamentos en Seúl tras el fin del alivio fiscal",
-        "excerpt": "Los anuncios de apartamentos en Seúl bajaron en más de 2.000 durante el fin de semana después de terminar la suspensión del recargo al impuesto sobre ganancias de capital para multipropietarios, según Asil el 10 de mayo.",
-        "body": "Según la plataforma de big data inmobiliario Asil, el 10 de mayo los anuncios de apartamentos en Seúl sumaban 66.914. La cifra cayó en más de 2.000 durante el fin de semana, un descenso interpretado como reflejo del fin de la suspensión del recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas. El reporte original señaló que, en un ambiente de mercado descrito como “quienes iban a vender ya vendieron”, los anuncios de apartamentos en Seúl disminuyeron con fuerza en poco tiempo. La reducción puede leerse junto con vendedores que completaron ventas antes del fin del alivio fiscal o ajustaron el momento de venta. La cuestión será cómo afectará esta menor oferta a las transacciones y precios en Seúl. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ofertas de apartamentos em Seul caem mais de 2.000 após fim de alívio fiscal",
-        "excerpt": "As ofertas de apartamentos em Seul recuaram mais de 2.000 no fim de semana após o fim da suspensão da sobretaxa sobre ganhos de capital para donos de vários imóveis, segundo a Asil em 10 de maio.",
-        "body": "Segundo a plataforma de big data imobiliário Asil, em 10 de maio as ofertas de apartamentos em Seul somavam 66.914. O total caiu mais de 2.000 durante o fim de semana, movimento visto como reflexo do fim da suspensão da tributação agravada sobre ganhos de capital para proprietários de múltiplas moradias. A reportagem original afirmou que, em um clima de mercado de “quem tinha de vender já vendeu”, as ofertas de apartamentos em Seul diminuíram fortemente em curto período. A queda pode ser interpretada junto ao fato de vendedores terem concluído vendas antes do fim do benefício fiscal ou ajustado o momento de venda. A atenção agora recai sobre como a menor oferta afetará transações e preços em Seul. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Wohnungsangebote in Seoul sinken um über 2.000 nach Ende der Steueraufschubregel",
-        "excerpt": "Nach dem Ende der Aussetzung höherer Kapitalertragsteuern für Mehrfachimmobilienbesitzer gingen die Wohnungsangebote in Seoul laut Asil am 10. Mai am Wochenende um mehr als 2.000 zurück.",
-        "body": "Nach Angaben der Immobiliendatenplattform Asil belief sich die Zahl der Wohnungsangebote in Seoul am 10. Mai auf 66.914. Damit sank der Bestand über das Wochenende um mehr als 2.000, was als Folge des Endes der Aussetzung höherer Kapitalertragsteuern für Eigentümer mehrerer Wohnungen gewertet wird. Der Originalbericht beschrieb die Marktstimmung mit „wer verkaufen wollte, hat verkauft“ und meldete einen deutlichen kurzfristigen Rückgang der Wohnungsangebote in Seoul. Der Rückgang lässt sich damit verbinden, dass Verkäufer vor dem Ende der Steuerregelung Verkäufe abschlossen oder ihren Verkaufszeitpunkt anpassten. Entscheidend wird nun, wie der geringere Angebotsbestand Transaktionen und Preisentwicklung am Seouler Wohnungsmarkt beeinflusst. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les annonces d’appartements à Séoul chutent de plus de 2 000 après la fin d’un répit fiscal",
-        "excerpt": "Les annonces d’appartements à Séoul ont diminué de plus de 2 000 durant le week-end après la fin du report de la surtaxe sur les plus-values pour multipropriétaires, selon Asil le 10 mai.",
-        "body": "Selon la plateforme de mégadonnées immobilières Asil, les annonces d’appartements à Séoul s’élevaient à 66 914 le 10 mai. Le total a reculé de plus de 2 000 pendant le week-end, une baisse interprétée comme le reflet de la fin du report de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements. L’article original évoque une ambiance de marché où « ceux qui devaient vendre ont déjà vendu » et signale une forte baisse à court terme des annonces d’appartements à Séoul. Cette contraction peut être liée à des vendeurs ayant finalisé leurs ventes avant la fin du répit fiscal ou ajusté leur calendrier de vente. La question sera désormais son effet sur les transactions et les prix à Séoul. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تراجع معروض شقق سيول بأكثر من 2000 بعد انتهاء مهلة ضريبة الأرباح الرأسمالية",
-        "excerpt": "انخفض معروض الشقق في سيول بأكثر من 2000 إعلان خلال عطلة نهاية الأسبوع بعد انتهاء تعليق التشديد الضريبي على أرباح بيع العقارات لملاك المنازل المتعددة، وفق بيانات أسيل في 10 مايو.",
-        "body": "بحسب منصة البيانات العقارية الضخمة أسيل، بلغ معروض الشقق في سيول يوم 10 مايو 66914 إعلانا. وانخفض العدد بأكثر من 2000 خلال عطلة نهاية الأسبوع، وهو تراجع يفسر بأنه يعكس انتهاء مهلة تعليق الضريبة المشددة على أرباح البيع لملاك المنازل المتعددة. وذكر التقرير الأصلي أن أجواء السوق توصف بعبارة «من كان سيبيع فقد باع»، مع تسجيل انخفاض كبير في معروض شقق سيول خلال فترة قصيرة. ويمكن قراءة هذا التراجع مع إتمام بعض البائعين عمليات البيع قبل انتهاء المهلة الضريبية أو تعديل توقيت البيع. وستكون المسألة الأساسية لاحقا هي أثر تقلص المعروض في معاملات وأسعار سوق الشقق في سيول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल अपार्टमेंट लिस्टिंग 2,000 से अधिक घटीं, टैक्स छूट अवधि खत्म होने का असर",
-        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर की भारी दरों की स्थगन अवधि समाप्त होने के बाद 10 मई को Asil के आंकड़ों में सियोल अपार्टमेंट लिस्टिंग सप्ताहांत में 2,000 से अधिक कम दिखीं।",
-        "body": "रियल एस्टेट बिग डेटा प्लेटफॉर्म Asil के अनुसार, 10 मई को सियोल अपार्टमेंट लिस्टिंग 66,914 रहीं। सप्ताहांत के दौरान इनमें 2,000 से अधिक की कमी आई, जिसे कई घरों के मालिकों पर पूंजीगत लाभ कर की भारी दरों की स्थगन अवधि समाप्त होने के प्रभाव के रूप में देखा जा रहा है। मूल रिपोर्ट ने बाजार के माहौल को “जिन्हें बेचना था, वे बेच चुके” के रूप में बताया और कहा कि सियोल अपार्टमेंट लिस्टिंग कम समय में काफी घटीं। यह कमी इस बात से जुड़ी समझी जा सकती है कि विक्रेताओं ने कर छूट अवधि खत्म होने से पहले बिक्री पूरी कर ली या बिक्री का समय बदला। आगे अहम सवाल यह होगा कि घटा हुआ उपलब्ध स्टॉक सियोल के अपार्टमेंट लेनदेन और कीमतों को कैसे प्रभावित करेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Listing apartemen Seoul turun lebih dari 2.000 usai masa tangguh pajak berakhir",
-        "excerpt": "Listing apartemen Seoul turun lebih dari 2.000 selama akhir pekan setelah penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah berakhir, menurut data Asil pada 10 Mei.",
-        "body": "Menurut platform big data properti Asil, jumlah listing apartemen di Seoul pada 10 Mei tercatat 66.914. Angka itu turun lebih dari 2.000 selama akhir pekan, penurunan yang dipandang mencerminkan berakhirnya masa penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah. Laporan asli menggambarkan suasana pasar sebagai “yang hendak menjual sudah menjual” dan menyebut listing apartemen Seoul turun tajam dalam waktu singkat. Penurunan listing dapat dibaca bersama langkah penjual yang menyelesaikan penjualan sebelum masa penangguhan pajak berakhir atau menyesuaikan waktu jual. Ke depan, perhatian tertuju pada dampak berkurangnya listing terhadap transaksi dan harga apartemen di Seoul. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5bb92df73698",
-    "slug": "국토장관-양도세-중과-매물-잠김-우려-크지만국민주권정부는-과거-정부와-달라-167443",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T04:42:28.868Z",
-    "updatedAt": "2026-05-10T04:42:28.868Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042493",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042493",
-    "titleFingerprint": "95575535bf307a2d1685d658be188b740b3a0406",
-    "dedupKeys": [
-      "5bb92df736983069230ba0ad69695d5f7a54c5e6",
-      "95575535bf307a2d1685d658be188b740b3a0406",
-      "986dc377270c19ce35f821f64cfd9947d33d78d1"
-    ],
-    "imageUrl": "/images/articles/5bb92df73698.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양도세 중과 재개에 매물 잠김 우려…국토장관 “이번 정부는 다르다”",
-        "excerpt": "김윤덕 국토교통부 장관은 10일 SNS를 통해 양도세 중과 재개 이후 매물 잠김 우려가 크지만 국민주권정부는 과거 정부와 다를 수밖에 없다고 밝혔다.",
-        "body": "김윤덕 국토교통부 장관은 10일 사회관계망서비스(SNS)를 통해 양도세 중과 재개 이후 주택 매물이 시장에 나오지 않는 ‘매물 잠김’ 우려가 크다는 목소리를 언급했다. 김 장관은 이 같은 우려에도 “국민주권정부는 다를 것이고 다를 수밖에 없다”고 밝혔다. 이번 발언은 양도세 중과가 다시 시행될 경우 다주택자 등의 매도 결정이 위축될 수 있다는 시장의 걱정이 제기되는 가운데 나왔다. 김 장관은 과거 정부와의 차이를 강조하며 정책 운영에 대한 정부의 입장을 설명했다. 다만 구체적인 보완책이나 추가 수치는 원문에 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Capital Gains Tax Surcharge Raises Listing Freeze Fears as Land Minister Says Government Will Differ",
-        "excerpt": "Land Minister Kim Yoon-duk said on the 10th via social media that concerns over a listing freeze after the capital gains tax surcharge resumes are significant, but the People’s Sovereignty Government will differ from past administrations.",
-        "body": "Minister of Land, Infrastructure and Transport Kim Yoon-duk said on the 10th through social media that there are strong concerns about a potential “listing freeze,” in which homes do not come to market, after the capital gains tax surcharge resumes. Despite those concerns, Kim said the People’s Sovereignty Government “will be different and has no choice but to be different.” The remarks came amid market worries that the reinstated surcharge could discourage selling decisions by multiple-home owners and others. Kim emphasized differences from past administrations and explained the government’s stance on policy management. No specific supplementary measures or additional figures were provided in the original report. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "譲渡税重課再開で売り控え懸念、国土交通相「今回の政府は違う」",
-        "excerpt": "金潤徳国土交通部長官は10日、SNSで譲渡税重課の再開後に売り控え懸念が大きいものの、国民主権政府は過去の政府とは異なると述べた。",
-        "body": "金潤徳（キム・ユンドク）国土交通部長官は10日、SNSを通じ、譲渡税重課の再開後に住宅の売り物件が市場に出にくくなる「売り控え」への懸念が大きいとの声に言及した。金長官はこうした懸念がある一方で、「国民主権政府は違うだろうし、違わざるを得ない」と述べた。今回の発言は、譲渡税重課が再び施行される場合、多住宅保有者などの売却判断が萎縮する可能性があるとの市場の不安が出ている中で行われた。金長官は過去の政府との違いを強調し、政策運営に関する政府の立場を説明した。ただし、具体的な補完策や追加数値は原文に示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "转让税重税重启引发房源锁定担忧，国土部长称“本届政府不同”",
-        "excerpt": "韩国国土交通部长官金润德10日通过社交媒体表示，转让税重税重启后市场担心房源锁定，但国民主权政府必然不同于过去政府。",
-        "body": "韩国国土交通部长官金润德10日通过社交媒体提到，在转让税重税重启后，市场对住房房源不再进入市场的“房源锁定”现象担忧较大。金长官表示，尽管存在这种担忧，“国民主权政府将会不同，也必然不同”。这一表态出现在市场担心转让税重税再次实施后，多套住房持有者等卖房决定可能受到抑制的背景下。金长官强调与过去政府的差异，并说明了政府在政策运行上的立场。不过，原文未提出具体补充措施或更多数据。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Recargo al impuesto de plusvalías inquieta por freno de ventas; ministro dice que el Gobierno será distinto",
-        "excerpt": "El ministro de Tierra, Kim Yoon-duk, dijo el día 10 en redes sociales que preocupa el bloqueo de viviendas en venta tras reanudarse el recargo al impuesto de plusvalías, pero que el Gobierno de Soberanía Popular será diferente.",
-        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yoon-duk, dijo el día 10 a través de redes sociales que existen fuertes preocupaciones por un posible “bloqueo de oferta”, en el que las viviendas no salen al mercado, tras la reanudación del recargo al impuesto de plusvalías. Pese a esas inquietudes, Kim afirmó que el Gobierno de Soberanía Popular “será diferente y no puede sino ser diferente”. Sus palabras llegan en medio de temores del mercado de que la vuelta del recargo pueda desalentar las decisiones de venta de propietarios con varias viviendas y otros actores. Kim subrayó la diferencia con gobiernos anteriores y explicó la postura oficial sobre la gestión de la política. El texto original no ofrece medidas complementarias concretas ni cifras adicionales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sobretaxa sobre ganho de capital reacende temor de trava na oferta; ministro diz que governo será diferente",
-        "excerpt": "O ministro Kim Yoon-duk afirmou no dia 10, em rede social, que há grande preocupação com a retenção de imóveis após a retomada da sobretaxa sobre ganhos de capital, mas que o Governo de Soberania Popular será diferente.",
-        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yoon-duk, afirmou no dia 10, por meio de rede social, que há fortes preocupações com uma possível “trava na oferta”, na qual imóveis deixam de chegar ao mercado, após a retomada da sobretaxa sobre ganhos de capital. Apesar dessas preocupações, Kim disse que o Governo de Soberania Popular “será diferente e não pode deixar de ser diferente”. A declaração ocorre em meio ao receio do mercado de que a volta da sobretaxa possa desestimular decisões de venda por proprietários de múltiplos imóveis e outros agentes. Kim destacou diferenças em relação a governos anteriores e explicou a posição do governo sobre a condução da política. O texto original não apresenta medidas complementares específicas nem números adicionais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Zuschlag auf Veräußerungssteuer weckt Sorge vor Angebotsstau; Minister: Regierung ist anders",
-        "excerpt": "Landminister Kim Yoon-duk sagte am 10. in sozialen Medien, die Sorge vor einem Angebotsstau nach Wiederaufnahme des Zuschlags auf die Veräußerungssteuer sei groß, doch die Regierung der Volkssouveränität werde anders handeln.",
-        "body": "Kim Yoon-duk, Minister für Land, Infrastruktur und Verkehr, sagte am 10. über soziale Medien, es gebe große Sorgen über einen möglichen „Angebotsstau“, bei dem Wohnungen nach Wiederaufnahme des Zuschlags auf die Veräußerungssteuer nicht auf den Markt kommen. Trotz dieser Bedenken erklärte Kim, die Regierung der Volkssouveränität „werde anders sein und müsse anders sein“. Die Äußerung fiel vor dem Hintergrund von Marktsorgen, dass die erneute Anwendung des Zuschlags Verkaufsentscheidungen von Mehrfachwohnungseigentümern und anderen bremsen könnte. Kim betonte den Unterschied zu früheren Regierungen und erläuterte die Haltung der Regierung zur politischen Umsetzung. Konkrete Ergänzungsmaßnahmen oder zusätzliche Zahlen wurden im Originalbericht nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La surtaxe sur les plus-values relance la crainte d’un blocage des ventes, le ministre promet une approche différente",
-        "excerpt": "Le ministre Kim Yoon-duk a déclaré le 10 sur les réseaux sociaux que les craintes de blocage de l’offre après le retour de la surtaxe sur les plus-values sont fortes, mais que le Gouvernement de souveraineté populaire sera différent.",
-        "body": "Kim Yoon-duk, ministre du Territoire, des Infrastructures et des Transports, a déclaré le 10 sur les réseaux sociaux que les inquiétudes sont vives quant à un possible « blocage de l’offre », dans lequel les logements ne seraient pas mis sur le marché, après la reprise de la surtaxe sur les plus-values. Malgré ces préoccupations, Kim a affirmé que le Gouvernement de souveraineté populaire « sera différent et ne peut qu’être différent ». Cette déclaration intervient alors que le marché craint que le rétablissement de la surtaxe ne freine les décisions de vente des propriétaires de plusieurs logements et d’autres acteurs. Kim a souligné la différence avec les gouvernements précédents et expliqué la position du gouvernement sur la conduite de la politique. Aucun dispositif complémentaire précis ni chiffre supplémentaire n’est fourni dans le texte original. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استئناف ضريبة الأرباح الرأسمالية المشددة يثير مخاوف تجميد المعروض ووزير الأراضي: الحكومة مختلفة",
-        "excerpt": "قال وزير الأراضي كيم يون-دوك في العاشر عبر وسائل التواصل إن المخاوف كبيرة من تجميد المعروض بعد استئناف تشديد ضريبة الأرباح الرأسمالية، لكن حكومة السيادة الشعبية ستكون مختلفة عن الحكومات السابقة.",
-        "body": "قال كيم يون-دوك، وزير الأراضي والبنية التحتية والنقل، في العاشر عبر وسائل التواصل الاجتماعي إن هناك مخاوف كبيرة من احتمال “تجميد المعروض”، أي عدم طرح المساكن في السوق، بعد استئناف تشديد ضريبة الأرباح الرأسمالية. ورغم هذه المخاوف، قال كيم إن حكومة السيادة الشعبية “ستكون مختلفة ولا بد أن تكون مختلفة”. وجاء التصريح وسط قلق في السوق من أن إعادة تطبيق الضريبة المشددة قد تحد من قرارات البيع لدى مالكي عدة مساكن وغيرهم. وشدد كيم على الاختلاف عن الحكومات السابقة وشرح موقف الحكومة من إدارة السياسة. ولم يورد النص الأصلي إجراءات تكميلية محددة أو أرقاما إضافية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कैपिटल गेन टैक्स सरचार्ज से घरों की बिक्री अटकने की चिंता, मंत्री बोले सरकार अलग होगी",
-        "excerpt": "भूमि मंत्री किम यून-डुक ने 10 तारीख को सोशल मीडिया पर कहा कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद बिक्री रुकने की चिंता बड़ी है, लेकिन पीपुल्स सोवरेन्टी गवर्नमेंट पिछली सरकारों से अलग होगी।",
-        "body": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-डुक ने 10 तारीख को सोशल मीडिया के जरिए कहा कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद आवास बाजार में न आने वाली स्थिति, यानी “लिस्टिंग फ्रीज”, को लेकर चिंता बड़ी है। इन चिंताओं के बावजूद किम ने कहा कि पीपुल्स सोवरेन्टी गवर्नमेंट “अलग होगी और अलग होना ही पड़ेगा।” यह बयान ऐसे समय आया है जब बाजार में चिंता है कि सरचार्ज दोबारा लागू होने पर कई घर रखने वाले मालिकों और अन्य लोगों के बेचने के फैसले कमजोर पड़ सकते हैं। किम ने पिछली सरकारों से अंतर पर जोर दिया और नीति संचालन पर सरकार का रुख बताया। मूल रिपोर्ट में कोई ठोस पूरक उपाय या अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pajak capital gain tambahan picu kekhawatiran pasokan terkunci, Menteri Agraria sebut pemerintah berbeda",
-        "excerpt": "Menteri Kim Yoon-duk pada tanggal 10 lewat media sosial menyebut kekhawatiran pasokan rumah terkunci setelah pajak capital gain tambahan diberlakukan lagi cukup besar, tetapi Pemerintah Kedaulatan Rakyat akan berbeda.",
-        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yoon-duk pada tanggal 10 melalui media sosial menyebut adanya kekhawatiran besar atas kemungkinan “pasokan terkunci”, yaitu rumah tidak masuk ke pasar, setelah pajak capital gain tambahan diberlakukan kembali. Meski ada kekhawatiran itu, Kim mengatakan Pemerintah Kedaulatan Rakyat “akan berbeda dan memang harus berbeda.” Pernyataan ini muncul di tengah kekhawatiran pasar bahwa penerapan kembali pajak tambahan tersebut dapat melemahkan keputusan menjual dari pemilik beberapa rumah dan pihak lain. Kim menekankan perbedaan dengan pemerintah sebelumnya dan menjelaskan sikap pemerintah dalam menjalankan kebijakan. Laporan asli tidak memuat langkah pelengkap konkret atau angka tambahan. Sumber: mk.co.kr"
       }
     }
   }
