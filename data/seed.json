@@ -1,5 +1,230 @@
 [
   {
+    "id": "13a783b50e16",
+    "slug": "단독-대출-줄었는데-취득세-중과까지-겹쳐빌라-못지을-판-454870",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T09:07:29.846Z",
+    "updatedAt": "2026-05-10T09:07:29.846Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042740",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042740",
+    "titleFingerprint": "9a197d968b7c6cdacc1dc80938baebfe3b3a220f",
+    "dedupKeys": [
+      "13a783b50e162111782f3f3c0435dc0f9ab1b86d",
+      "9a197d968b7c6cdacc1dc80938baebfe3b3a220f",
+      "da2578869ae7a83584c82c90c0a7752f06604df5"
+    ],
+    "imageUrl": "/images/articles/13a783b50e16.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비아파트 취득세 중과·대출 축소 겹치자 빌라 신축업계 공급 위기",
+        "excerpt": "비아파트 시장이 취득세 중과와 자금 조달 난항에 막히며 노후 주택을 매입해 빌라를 공급해온 소규모 주택신축판매업자들의 사업 지속이 어려워지고 있다.",
+        "body": "비아파트 시장이 취득세 중과세와 대출 축소에 따른 자금 조달 난항이 겹치며 공급 위기에 놓였다. 노후 주택을 사들여 허문 뒤 빌라를 공급해온 소규모 주택신축판매업자들은 최근 분양 한파까지 맞물리면서 사업을 이어가기 어려운 상황에 몰리고 있다. 원문에 따르면 이들은 ‘5년’ 관련 부담까지 언급하며 사업 리스크가 커졌다고 호소했다. 비아파트 공급 주체가 위축되면 빌라 등 도심 내 주거 선택지가 줄어들 수 있다는 우려가 나온다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Non-Apartment Housing Hit by Higher Acquisition Tax and Tighter Loans",
+        "excerpt": "The non-apartment market is struggling as higher acquisition taxes and financing difficulties weigh on small builders that buy old homes, demolish them and supply villas.",
+        "body": "The non-apartment housing market is facing a supply crisis as heavier acquisition taxes and reduced lending make financing more difficult. Small homebuilding sellers that have bought aging houses, demolished them and supplied villas are being pushed into a difficult position as the recent sales freeze adds further pressure. According to the original report, these operators cited an additional burden related to a “five-year” rule and said business risks have grown. If these suppliers retreat, concerns may rise that urban housing options such as villas will shrink. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "非マンション市場、取得税重課と融資縮小でヴィラ供給に危機感",
+        "excerpt": "非マンション市場では取得税の重課と資金調達難が重なり、老朽住宅を買い取り解体してヴィラを供給してきた小規模住宅新築販売業者の事業継続が難しくなっている。",
+        "body": "非マンション市場が、取得税の重課と融資縮小による資金調達難が重なり、供給危機に直面している。老朽住宅を買い取って解体し、ヴィラを供給してきた小規模住宅新築販売業者は、最近の分譲不振まで加わり、事業を続けにくい状況に追い込まれている。原文によると、業者らは「5年」に関する負担にも言及し、事業リスクが高まったと訴えた。供給主体が萎縮すれば、都市部のヴィラなど住まいの選択肢が減るとの懸念が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "非公寓市场遭遇购置税重税与贷款收紧，联排住宅供应承压",
+        "excerpt": "非公寓市场受购置税重税和融资困难夹击，收购老旧住宅并拆除后供应联排住宅的小型住宅新建销售商正面临经营持续性压力。",
+        "body": "非公寓市场正因购置税重税与贷款收缩带来的融资困难叠加，面临供应危机。过去收购老旧住宅、拆除后供应联排住宅的小型住宅新建销售商，在近期销售寒潮影响下，被推向难以继续经营的处境。原文称，相关业者还提到与“5年”有关的负担，并表示业务风险正在扩大。如果非公寓供应主体进一步萎缩，城市内包括联排住宅在内的居住选择可能减少。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vivienda no apartamento sufre por impuesto de adquisición y menor crédito",
+        "excerpt": "El mercado de vivienda no apartamento se debilita por mayores impuestos de adquisición y dificultades de financiación que afectan a pequeños promotores de villas.",
+        "body": "El mercado de vivienda no apartamento afronta una crisis de oferta por la combinación de un impuesto de adquisición más gravoso y la reducción del crédito, que dificulta la financiación. Los pequeños vendedores y constructores que compraban viviendas antiguas, las demolían y suministraban villas están cada vez más presionados por el reciente enfriamiento de las ventas. Según el texto original, estos operadores también mencionaron una carga relacionada con “cinco años” y señalaron que el riesgo del negocio ha aumentado. Si estos proveedores se retraen, podrían reducirse opciones urbanas como las villas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Moradias não apartamento sofrem com imposto de aquisição e crédito menor",
+        "excerpt": "O mercado não apartamento enfrenta imposto de aquisição mais pesado e dificuldade de financiamento, pressionando pequenos construtores que forneciam villas após demolir casas antigas.",
+        "body": "O mercado de moradias não apartamento enfrenta uma crise de oferta com a combinação de imposto de aquisição mais pesado e restrição de crédito, que dificulta o financiamento. Pequenos vendedores e construtores que compravam casas antigas, demoliam os imóveis e forneciam villas foram pressionados também pela recente queda nas vendas. Segundo o texto original, esses operadores citaram ainda um encargo relacionado a “cinco anos” e disseram que os riscos do negócio cresceram. Caso esses fornecedores recuem, pode diminuir a oferta de opções urbanas como villas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nicht-Apartment-Markt unter Druck durch Erwerbsteuer und weniger Kredite",
+        "excerpt": "Der Nicht-Apartment-Markt leidet unter höherer Erwerbsteuer und schwieriger Finanzierung, wodurch kleine Anbieter, die alte Häuser kaufen und Villen bauen, unter Druck geraten.",
+        "body": "Der Nicht-Apartment-Wohnungsmarkt steht vor einer Angebotskrise, weil eine höhere Erwerbsteuer und geringere Kreditvergabe die Finanzierung erschweren. Kleine Wohnungsbauverkäufer, die alte Häuser gekauft, abgerissen und anschließend Villen geliefert haben, geraten durch die jüngste Verkaufsflaute zusätzlich unter Druck. Laut Originalbericht verwiesen sie auch auf eine Belastung im Zusammenhang mit “fünf Jahren” und erklärten, das Geschäftsrisiko sei gestiegen. Ziehen sich diese Anbieter zurück, könnten städtische Wohnoptionen wie Villen knapper werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Logement non collectif sous pression avec taxe d’acquisition et crédit réduit",
+        "excerpt": "Le marché non collectif subit la hausse de la taxe d’acquisition et les difficultés de financement, fragilisant les petits constructeurs qui fournissaient des villas.",
+        "body": "Le marché du logement non collectif fait face à une crise de l’offre, sous l’effet combiné d’une taxe d’acquisition alourdie et d’un accès au crédit plus difficile. Les petits vendeurs-constructeurs qui achetaient des logements anciens, les démolissaient puis fournissaient des villas sont davantage fragilisés par le récent gel des ventes. Selon le texte original, ces acteurs ont aussi évoqué une charge liée à “cinq ans” et indiqué que les risques de leur activité avaient augmenté. Si ces fournisseurs se retirent, les choix résidentiels urbains comme les villas pourraient diminuer. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوق المساكن غير الشقق يواجه ضغط ضريبة التملك وتراجع القروض",
+        "excerpt": "يعاني سوق المساكن غير الشقق من ضريبة تملك أعلى وصعوبات في التمويل، ما يضغط على صغار المطورين الذين يشترون منازل قديمة ويهدمونها لتوفير الفيلات.",
+        "body": "يواجه سوق المساكن غير الشقق أزمة في المعروض مع تداخل ضريبة تملك مثقلة وصعوبات في التمويل نتيجة تقلص القروض. فصغار بائعي ومطوري المساكن الذين كانوا يشترون المنازل القديمة ثم يهدمونها لتوفير الفيلات باتوا في وضع صعب مع موجة الركود الأخيرة في المبيعات. وبحسب النص الأصلي، أشار هؤلاء أيضا إلى عبء مرتبط بـ“خمس سنوات” وقالوا إن مخاطر النشاط ازدادت. وإذا انكمش دور موردي هذا النوع من السكن، فقد تتراجع خيارات السكن داخل المدن مثل الفيلات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "गैर-अपार्टमेंट बाजार पर अधिग्रहण कर और घटते कर्ज का दोहरा दबाव",
+        "excerpt": "गैर-अपार्टमेंट बाजार अधिग्रहण कर के अतिरिक्त बोझ और वित्त जुटाने की कठिनाई से जूझ रहा है, जिससे पुराने घर खरीदकर विला बनाने वाले छोटे बिल्डरों पर दबाव बढ़ा है।",
+        "body": "गैर-अपार्टमेंट आवास बाजार अधिग्रहण कर के अतिरिक्त बोझ और कर्ज घटने से पैदा हुई वित्तीय कठिनाई के कारण आपूर्ति संकट में है। पुराने मकान खरीदकर उन्हें गिराने और फिर विला की आपूर्ति करने वाले छोटे आवास निर्माण-विक्रेता हालिया बिक्री सुस्ती के कारण कारोबार जारी रखने में कठिन स्थिति में पहुंच गए हैं। मूल रिपोर्ट के अनुसार, इन कारोबारियों ने “5 वर्ष” से जुड़े बोझ का भी उल्लेख किया और कहा कि व्यावसायिक जोखिम बढ़ गया है। यदि ऐसे आपूर्तिकर्ता पीछे हटते हैं, तो शहरों में विला जैसे आवास विकल्प घट सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pasar Non-Apartemen Tertekan Pajak Akuisisi dan Penyusutan Pinjaman",
+        "excerpt": "Pasar non-apartemen terhambat pajak akuisisi berlapis dan kesulitan pendanaan, menekan pengembang kecil yang membeli rumah tua lalu membangun dan memasok vila.",
+        "body": "Pasar hunian non-apartemen menghadapi krisis pasokan karena pajak akuisisi yang lebih berat berbarengan dengan sulitnya pendanaan akibat penyusutan pinjaman. Pelaku kecil penjualan pembangunan rumah, yang selama ini membeli rumah tua, membongkarnya, lalu memasok vila, kini terdorong ke kondisi sulit akibat lesunya penjualan baru-baru ini. Menurut teks asli, mereka juga menyebut beban terkait “5 tahun” dan mengatakan risiko usaha meningkat. Jika pelaku pasokan non-apartemen menyusut, pilihan hunian perkotaan seperti vila dapat berkurang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4fbcdb3b8a4f",
+    "slug": "단독-서울-아파트단지-전세-실종-중랑-93-금천-92-전세-없어요-293648",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T09:06:33.192Z",
+    "updatedAt": "2026-05-10T09:06:33.192Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042741",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042741",
+    "titleFingerprint": "dfe7ff6cdf7b09952a680d5b6a835b4f81ab56a5",
+    "dedupKeys": [
+      "4fbcdb3b8a4f607d71a165c7bc1064c28e64a0e3",
+      "dfe7ff6cdf7b09952a680d5b6a835b4f81ab56a5",
+      "24ceca519d6ce8e9a62cfb3937a5ee13fb334fdd"
+    ],
+    "imageUrl": "/images/articles/4fbcdb3b8a4f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 전세 매물 급감, 중랑 93%·금천 92% 단지서 ‘전세 없음’",
+        "excerpt": "서울 아파트 단지 10곳 중 8곳에서 전세 매물이 한 건도 없는 것으로 나타났다. 실거주 압력과 입주 물량 감소가 맞물리며 전세 품귀가 확산되고 있다.",
+        "body": "서울 아파트 시장에서 전세 매물이 빠르게 사라지고 있다. mk.co.kr 보도에 따르면 서울 아파트 단지 10곳 중 8곳은 전세 매물이 한 건도 없는 것으로 나타났다. 특히 중랑구는 93%, 금천구는 92%의 단지에서 전세 매물이 없는 것으로 집계됐다. 이 같은 현상은 토지거래허가제와 다주택자 대출·세금 규제 등으로 집주인의 실거주 압력이 커진 데다, 새 아파트 입주 물량이 줄어드는 ‘입주 절벽’이 겹친 영향으로 풀이된다. 전세 물건이 줄어들면서 세입자의 선택지는 좁아지고, 서울 전세 시장의 수급 불균형 우려도 커지고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Jeonse Listings Vanish: 93% in Jungnang, 92% in Geumcheon Have None",
+        "excerpt": "Eight in ten Seoul apartment complexes reportedly have no jeonse listings, as owner-occupancy pressure and fewer new move-ins deepen the rental shortage.",
+        "body": "Jeonse listings are rapidly disappearing from Seoul’s apartment market. According to mk.co.kr, eight out of ten apartment complexes in Seoul have no jeonse units available. The shortage is especially severe in Jungnang District, where 93% of complexes have no listings, and Geumcheon District, where the figure reaches 92%. The report points to stronger owner-occupancy pressure caused by the land transaction permit system and loan and tax restrictions on multiple-home owners, combined with a sharp drop in new apartment move-ins. As jeonse supply shrinks, tenants have fewer options, raising concerns over a supply-demand imbalance in Seoul’s rental market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルのマンション伝貰物件が急減、中浪93％・衿川92％で「物件なし」",
+        "excerpt": "ソウルのマンション団地10カ所中8カ所で伝貰物件が1件もないことが分かった。実居住圧力と入居物量の減少が重なり、品薄感が広がっている。",
+        "body": "ソウルのマンション市場で伝貰物件が急速に消えている。mk.co.krの報道によると、ソウルのマンション団地10カ所中8カ所で伝貰物件が1件もないことが分かった。特に中浪区では93％、衿川区では92％の団地で伝貰物件がないと集計された。こうした現象は、土地取引許可制や多住宅保有者への融資・税制規制により家主の実居住圧力が高まったうえ、新築マンションの入居物量が減る「入居の崖」が重なった影響とみられる。物件減少で借り手の選択肢は狭まり、ソウル伝貰市場の需給不均衡への懸念も強まっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓全租房源锐减，中浪93%、衿川92%小区“无房可租”",
+        "excerpt": "据报道，首尔每10个公寓小区中有8个没有任何全租房源。自住压力上升与新房入住量减少叠加，房源短缺正在扩大。",
+        "body": "首尔公寓市场的全租房源正在迅速消失。据mk.co.kr报道，首尔每10个公寓小区中有8个没有任何全租房源。其中，中浪区93%、衿川区92%的小区被统计为没有全租房源。报道认为，这一现象与土地交易许可制、多套房持有者贷款和税收限制等因素有关，这些因素提高了房东自住压力；同时，新公寓入住量减少的“入住悬崖”也叠加影响。随着全租房源减少，租户可选择范围缩小，首尔全租市场供需失衡的担忧也在上升。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl se queda sin jeonse: 93% de complejos en Jungnang y 92% en Geumcheon no tienen oferta",
+        "excerpt": "Ocho de cada diez complejos de apartamentos en Seúl no tienen anuncios de jeonse, según el reporte, por mayor presión de residencia propia y menos nuevas entregas.",
+        "body": "La oferta de jeonse está desapareciendo con rapidez del mercado de apartamentos de Seúl. Según mk.co.kr, ocho de cada diez complejos de apartamentos en la capital no tienen ni una sola vivienda disponible bajo este sistema. La escasez es especialmente marcada en Jungnang, donde el 93% de los complejos no tiene oferta, y en Geumcheon, con un 92%. El fenómeno se atribuye al aumento de la presión para que los propietarios residan en sus viviendas, derivado del sistema de permisos para transacciones de suelo y de las restricciones de préstamos e impuestos a multipropietarios, junto con una fuerte caída en las nuevas mudanzas. Con menos viviendas disponibles, los inquilinos tienen menos opciones y crece la preocupación por el desequilibrio de oferta y demanda. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Jeonse some em Seul: 93% dos complexos em Jungnang e 92% em Geumcheon não têm oferta",
+        "excerpt": "Oito em cada dez complexos de apartamentos em Seul não têm anúncios de jeonse, com pressão por moradia própria e queda nas novas ocupações reduzindo a oferta.",
+        "body": "As ofertas de jeonse estão desaparecendo rapidamente do mercado de apartamentos de Seul. Segundo o mk.co.kr, oito em cada dez complexos residenciais da capital não têm nenhum imóvel disponível nesse modelo. A escassez é especialmente forte em Jungnang, onde 93% dos complexos não têm oferta, e em Geumcheon, com 92%. O fenômeno é atribuído ao aumento da pressão para moradia própria dos proprietários, causado pelo sistema de autorização para transações de terrenos e por restrições de crédito e impostos a donos de múltiplos imóveis, além da queda nas novas ocupações de apartamentos. Com menos opções, os inquilinos enfrentam um mercado mais limitado e crescem as preocupações sobre desequilíbrio entre oferta e demanda. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jeonse-Angebote in Seoul verschwinden: 93% in Jungnang und 92% in Geumcheon ohne Inserat",
+        "excerpt": "In acht von zehn Apartmentanlagen in Seoul gibt es laut Bericht kein einziges Jeonse-Angebot. Eigennutzungsdruck und weniger neue Einzüge verschärfen den Mangel.",
+        "body": "Auf dem Apartmentmarkt in Seoul verschwinden Jeonse-Angebote in rasantem Tempo. Laut mk.co.kr gibt es in acht von zehn Apartmentanlagen der Stadt kein einziges verfügbares Jeonse-Objekt. Besonders ausgeprägt ist der Mangel im Bezirk Jungnang, wo 93% der Anlagen kein Angebot haben, und in Geumcheon mit 92%. Als Hintergrund nennt der Bericht den wachsenden Druck zur Eigennutzung durch das Landtransaktionsgenehmigungssystem sowie Kredit- und Steuerregeln für Eigentümer mehrerer Wohnungen. Hinzu kommt ein Rückgang neuer Apartmentbezüge. Mit sinkender Zahl verfügbarer Objekte verengt sich die Auswahl für Mieter, während die Sorge über ein Ungleichgewicht von Angebot und Nachfrage am Seoul Jeonse-Markt zunimmt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "À Séoul, les offres de jeonse disparaissent: 93% à Jungnang et 92% à Geumcheon sans bien",
+        "excerpt": "Huit ensembles d’appartements sur dix à Séoul n’ont aucune offre de jeonse, selon le rapport, sous l’effet de la pression d’occupation et du recul des livraisons.",
+        "body": "Les offres de jeonse disparaissent rapidement du marché des appartements à Séoul. Selon mk.co.kr, huit ensembles résidentiels sur dix dans la capitale ne disposent d’aucun bien proposé en jeonse. La pénurie est particulièrement marquée à Jungnang, où 93% des ensembles n’ont aucune offre, et à Geumcheon, avec 92%. Le phénomène est lié à la pression croissante exercée sur les propriétaires pour occuper eux-mêmes leur logement, en raison du système d’autorisation des transactions foncières et des restrictions de prêts et d’impôts visant les multipropriétaires. Il s’ajoute aussi à la baisse des nouvelles entrées dans les appartements. Avec moins de biens disponibles, les locataires ont moins de choix et les inquiétudes grandissent sur le déséquilibre entre l’offre et la demande. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اختفاء عروض الجونسِه في شقق سيول: 93% في جونغنانغ و92% في غومتشون بلا معروض",
+        "excerpt": "أفاد تقرير بأن 8 من كل 10 مجمعات شقق في سيول لا تضم أي عرض جونسِه، مع تزايد ضغط السكن الفعلي وتراجع كميات الانتقال إلى الشقق الجديدة.",
+        "body": "تختفي عروض الجونسِه بسرعة من سوق الشقق في سيول. ووفقًا لما نشره mk.co.kr، فإن 8 من كل 10 مجمعات شقق في العاصمة لا تضم أي وحدة معروضة بنظام الجونسِه. وتبدو الندرة أوضح في حي جونغنانغ، حيث لا توجد عروض في 93% من المجمعات، وفي حي غومتشون بنسبة 92%. ويرتبط ذلك بزيادة ضغط السكن الفعلي على الملاك بسبب نظام تصريح معاملات الأراضي وقيود القروض والضرائب على مالكي عدة منازل، إلى جانب تراجع كميات الانتقال إلى الشقق الجديدة. ومع تقلص المعروض، تضيق خيارات المستأجرين وتزداد المخاوف من اختلال العرض والطلب في سوق الجونسِه في سيول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट जोंसे आपूर्ति घटी: जंगनांग में 93%, गुमचॉन में 92% परिसरों में कोई लिस्टिंग नहीं",
+        "excerpt": "रिपोर्ट के अनुसार सियोल के 10 में से 8 अपार्टमेंट परिसरों में जोंसे की कोई लिस्टिंग नहीं है। वास्तविक निवास दबाव और नए प्रवेश की कमी से संकट बढ़ा है।",
+        "body": "सियोल के अपार्टमेंट बाजार से जोंसे लिस्टिंग तेजी से गायब हो रही हैं। mk.co.kr की रिपोर्ट के अनुसार, सियोल के 10 में से 8 अपार्टमेंट परिसरों में जोंसे की एक भी उपलब्ध लिस्टिंग नहीं है। कमी जंगनांग जिले में खास तौर पर गंभीर है, जहां 93% परिसरों में कोई लिस्टिंग नहीं है, जबकि गुमचॉन जिले में यह आंकड़ा 92% है। रिपोर्ट के मुताबिक, भूमि लेनदेन अनुमति प्रणाली और बहु-घर मालिकों पर ऋण तथा कर नियमों के कारण मकान मालिकों पर वास्तविक निवास का दबाव बढ़ा है। इसके साथ नए अपार्टमेंट में प्रवेश की मात्रा घटने का असर भी जुड़ा है। आपूर्ति घटने से किरायेदारों के विकल्प सीमित हो रहे हैं और सियोल के जोंसे बाजार में मांग-आपूर्ति असंतुलन की चिंता बढ़ रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeonse Apartemen Seoul Makin Langka: 93% Kompleks Jungnang dan 92% Geumcheon Tanpa Unit",
+        "excerpt": "Delapan dari sepuluh kompleks apartemen di Seoul dilaporkan tidak memiliki listing jeonse, karena tekanan hunian sendiri dan penurunan pasokan unit baru.",
+        "body": "Listing jeonse di pasar apartemen Seoul menghilang dengan cepat. Menurut laporan mk.co.kr, delapan dari sepuluh kompleks apartemen di Seoul tidak memiliki satu pun unit jeonse yang tersedia. Kelangkaan paling terasa di Distrik Jungnang, tempat 93% kompleks tidak memiliki listing, dan di Distrik Geumcheon dengan 92%. Fenomena ini dikaitkan dengan meningkatnya tekanan bagi pemilik untuk tinggal sendiri di propertinya akibat sistem izin transaksi tanah serta aturan pinjaman dan pajak bagi pemilik banyak rumah. Kondisi itu berbarengan dengan turunnya jumlah hunian baru yang mulai ditempati. Saat pasokan jeonse menyusut, pilihan penyewa makin terbatas dan kekhawatiran atas ketidakseimbangan pasokan-permintaan di Seoul meningkat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "87f762541398",
+    "slug": "단독-미분양됐다고-세금-수억-내라니서민주택-빌라-공급-감소-우려-449379",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T09:05:28.690Z",
+    "updatedAt": "2026-05-10T09:05:28.690Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042755",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042755",
+    "titleFingerprint": "ded13e123a6f5da643b769284ad887b97cd2faef",
+    "dedupKeys": [
+      "87f762541398cc72cfae7302888cc5537c3780c3",
+      "ded13e123a6f5da643b769284ad887b97cd2faef",
+      "88fb640fcfc8ccf3f51d78185ac9431cd8f2b796"
+    ],
+    "imageUrl": "/images/articles/87f762541398.jpg",
+    "i18n": {
+      "ko": {
+        "title": "빌라 미분양에 취득세 수억 추징 위기…서민주택 공급 감소 우려",
+        "excerpt": "소규모 빌라 건축주들이 신축 빌라 분양 실패 뒤 수억 원대 취득세 추징 위험에 놓이면서, 서민 주거의 징검다리였던 빌라 공급 감소 우려가 커지고 있다.",
+        "body": "소규모 빌라 건축주들이 신축 빌라 분양에 실패한 뒤 수억 원대 취득세를 추징받을 위기에 놓였다. 원문에 따르면 미분양이 발생한 일부 건축주들은 세금 부담까지 겹치며 자금난이 커지고 있다. 빌라는 그동안 아파트보다 진입 장벽이 낮아 서민 주거의 ‘징검다리’ 역할을 해왔지만, 공급 주체인 건축주들의 부담이 커질 경우 신규 공급이 줄어들 수 있다는 우려가 제기된다. 특히 소규모 사업자는 분양 지연과 세금 추징이 동시에 발생하면 사업 지속 여력이 약해질 수 있다. 시장에서는 신축 빌라 분양 실패가 개별 건축주의 문제를 넘어 서민주택 공급 기반을 위축시키는 요인이 될지 주목하고 있다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Unsold Villas Face Huge Acquisition Tax Bills, Raising Supply Fears",
+        "excerpt": "Small villa builders face potential acquisition tax bills worth hundreds of millions of won after failing to sell new units, raising concerns over reduced supply of affordable housing.",
+        "body": "Small-scale villa builders are facing the risk of additional acquisition tax bills worth hundreds of millions of won after failing to sell newly built villas. According to the original report, some builders hit by unsold inventory are seeing financial pressure intensify as tax burdens are added. Villas have served as a lower-entry housing option compared with apartments and as a stepping stone for ordinary households. If builders who supply these homes face heavier financial strain, concerns are growing that new villa supply could decline. The market is watching whether failed sales of new villas could weaken the supply base for affordable housing. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "新築ヴィラ売れ残りで数億ウォンの取得税追徴懸念、庶民住宅供給に影",
+        "excerpt": "小規模ヴィラ建築主が新築物件の分譲失敗後、数億ウォン規模の取得税追徴リスクに直面し、庶民住宅の供給減少への懸念が広がっている。",
+        "body": "小規模ヴィラ建築主が新築ヴィラの分譲に失敗した後、数億ウォン規模の取得税を追徴される危機に直面している。原文によると、未分譲が発生した一部の建築主は税負担まで重なり、資金難が深まっている。ヴィラはこれまでマンションより参入のハードルが低く、庶民住宅の「橋渡し」の役割を果たしてきた。しかし供給主体である建築主の負担が増せば、新規供給が減る可能性があるとの懸念が出ている。市場では、新築ヴィラの分譲失敗が個別建築主の問題を超え、庶民住宅の供給基盤を萎縮させる要因になるか注目している。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "新建多户住宅滞销或被追缴巨额取得税，平民住房供应受忧",
+        "excerpt": "小规模多户住宅建造者因新建住宅销售失败，面临数亿韩元取得税追缴风险，外界担心这类平民住房供应可能减少。",
+        "body": "小规模多户住宅建造者在新建住宅销售失败后，正面临被追缴数亿韩元取得税的风险。据原文报道，部分出现未售出房源的建造者在税负叠加下，资金压力进一步加重。多户住宅过去因进入门槛低于公寓，一直承担着普通居民住房“跳板”的作用。但如果作为供应主体的建造者负担扩大，新供应可能减少的担忧正在升温。市场正关注，新建多户住宅销售失败是否会从个别建造者问题，扩大为削弱平民住房供应基础的因素。来源：引用自 mk.co.kr。"
+      },
+      "es": {
+        "title": "Villas sin vender afrontan impuestos millonarios y alertan por menor oferta",
+        "excerpt": "Pequeños constructores de villas nuevas afrontan posibles recargos de impuesto de adquisición por cientos de millones de wones tras no venderlas, lo que genera preocupación por la oferta de vivienda asequible.",
+        "body": "Pequeños constructores de villas afrontan el riesgo de recibir recargos de impuesto de adquisición por cientos de millones de wones tras no lograr vender unidades recién construidas. Según el reporte original, algunos constructores con viviendas sin vender enfrentan mayores dificultades financieras al sumarse la carga fiscal. Las villas han funcionado como una opción de menor barrera de entrada que los apartamentos y como puente habitacional para hogares comunes. Si aumenta la presión sobre quienes las suministran, crece la preocupación por una posible reducción de nueva oferta. El mercado observa si el fracaso en la venta de villas nuevas puede debilitar la base de suministro de vivienda asequible. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Villas encalhadas podem gerar imposto milionário e ameaçar oferta popular",
+        "excerpt": "Pequenos construtores de villas novas podem receber cobranças adicionais de imposto de aquisição de centenas de milhões de wons após fracasso nas vendas, elevando temores sobre a oferta de moradia acessível.",
+        "body": "Pequenos construtores de villas correm o risco de receber cobranças adicionais de imposto de aquisição de centenas de milhões de wons depois de não conseguirem vender unidades recém-construídas. Segundo a reportagem original, alguns construtores com imóveis não vendidos veem a pressão financeira crescer com a carga tributária adicional. As villas têm servido como opção de entrada mais acessível que apartamentos e como ponte habitacional para famílias comuns. Se a pressão sobre os fornecedores aumentar, há preocupação de que a nova oferta diminua. O mercado observa se o fracasso nas vendas de villas novas poderá enfraquecer a base de oferta de moradia popular. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Unverkaufte Villas drohen mit Millionensteuern und gefährden Wohnangebot",
+        "excerpt": "Kleine Villa-Bauherren könnten nach gescheiterten Verkäufen neuer Einheiten Erwerbsteuer-Nachforderungen in Höhe von mehreren hundert Millionen Won erhalten, was Sorgen um weniger bezahlbaren Wohnraum auslöst.",
+        "body": "Kleine Bauherren von Villas stehen nach dem Scheitern des Verkaufs neu gebauter Einheiten vor dem Risiko zusätzlicher Erwerbsteuerforderungen in Höhe von mehreren hundert Millionen Won. Dem Originalbericht zufolge geraten einige Bauherren mit unverkauften Objekten durch die zusätzliche Steuerlast stärker unter finanziellen Druck. Villas galten bisher als Wohnform mit niedrigeren Einstiegshürden als Apartments und als Zwischenlösung für normale Haushalte. Wenn die Belastung der Anbieter zunimmt, wächst die Sorge, dass das neue Angebot sinken könnte. Der Markt beobachtet, ob gescheiterte Verkäufe neuer Villas die Grundlage für bezahlbaren Wohnraum schwächen. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Villas invendues et lourdes taxes : l’offre de logements modestes inquiète",
+        "excerpt": "De petits constructeurs de villas neuves risquent des rappels de taxe d’acquisition de plusieurs centaines de millions de wons après des ventes ratées, suscitant des craintes sur l’offre abordable.",
+        "body": "De petits constructeurs de villas risquent des rappels de taxe d’acquisition de plusieurs centaines de millions de wons après l’échec de la vente de logements neufs. Selon l’article original, certains constructeurs confrontés à des invendus voient leurs difficultés financières s’aggraver avec cette charge fiscale. Les villas ont jusqu’ici joué un rôle de logement passerelle pour les ménages ordinaires, avec une barrière d’entrée plus basse que les appartements. Si la pression augmente sur les acteurs qui les fournissent, la crainte d’une baisse de nouvelle offre grandit. Le marché surveille si l’échec des ventes de villas neuves peut fragiliser la base de l’offre de logements abordables. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "فيلات غير مباعة تواجه ضرائب ضخمة ومخاوف من تراجع مساكن محدودي الدخل",
+        "excerpt": "يواجه صغار بناة الفيلات الجديدة خطر مطالبات إضافية بضريبة الاستحواذ تصل إلى مئات الملايين من الوونات بعد فشل البيع، ما يثير مخاوف بشأن تراجع المعروض السكني الميسر.",
+        "body": "يواجه صغار بناة الفيلات خطر فرض مطالبات إضافية بضريبة الاستحواذ بقيمة قد تصل إلى مئات الملايين من الوونات بعد فشل بيع فيلات جديدة. وبحسب التقرير الأصلي، فإن بعض البناة الذين ظهرت لديهم وحدات غير مباعة يواجهون ضغوطا مالية أكبر مع إضافة العبء الضريبي. وقد أدت الفيلات دورا كسكن أقل عتبة دخول من الشقق وكجسر سكني للأسر العادية. وإذا زادت الأعباء على الجهات التي توفر هذا النوع من السكن، تتنامى المخاوف من انخفاض المعروض الجديد. ويراقب السوق ما إذا كان فشل بيع الفيلات الجديدة قد يضعف قاعدة توفير المساكن الميسرة. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "न बिकी नई विला पर करोड़ों वोन अधिग्रहण कर का खतरा, आपूर्ति चिंता बढ़ी",
+        "excerpt": "नई विला की बिक्री विफल रहने के बाद छोटे बिल्डर सैकड़ों मिलियन वोन के अधिग्रहण कर के जोखिम में हैं, जिससे किफायती आवास आपूर्ति घटने की चिंता बढ़ रही है।",
+        "body": "छोटे विला बिल्डर नई बनी विला बेचने में विफल रहने के बाद सैकड़ों मिलियन वोन के अतिरिक्त अधिग्रहण कर के जोखिम का सामना कर रहे हैं। मूल रिपोर्ट के अनुसार, बिना बिके घरों वाले कुछ बिल्डरों पर कर बोझ जुड़ने से वित्तीय दबाव बढ़ रहा है। विला अब तक अपार्टमेंट की तुलना में कम प्रवेश बाधा वाला आवास विकल्प और आम परिवारों के लिए एक आवासीय पुल रहे हैं। यदि इन्हें आपूर्ति करने वाले बिल्डरों का बोझ बढ़ता है, तो नई आपूर्ति घटने की चिंता उठ रही है। बाजार देख रहा है कि नई विला की बिक्री विफलता व्यक्तिगत बिल्डरों की समस्या से आगे बढ़कर किफायती आवास आपूर्ति आधार को कमजोर करने वाला कारण बनेगी या नहीं। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Vila Tak Terjual Terancam Pajak Besar, Pasokan Hunian Terjangkau Dikhawatirkan Turun",
+        "excerpt": "Pengembang kecil vila baru menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won setelah gagal menjual unit, memicu kekhawatiran atas pasokan hunian terjangkau.",
+        "body": "Pengembang kecil vila menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won setelah gagal menjual vila yang baru dibangun. Menurut laporan asli, sebagian pengembang dengan unit yang tidak terjual mengalami tekanan keuangan lebih besar karena beban pajak ikut bertambah. Vila selama ini menjadi pilihan hunian dengan hambatan masuk lebih rendah dibanding apartemen dan berperan sebagai jembatan bagi rumah tangga biasa. Jika beban para penyedia pasokan ini meningkat, muncul kekhawatiran bahwa pasokan baru dapat berkurang. Pasar mencermati apakah kegagalan penjualan vila baru akan melemahkan dasar pasokan hunian terjangkau. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "d3892fbbe7d2",
     "slug": "고물가에-편의점-간편식-경쟁-격화건강식까지-확대-905163",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Ulju Tertibkan Refund Pajak Daerah, 57% Bernilai di Bawah 10.000 Won",
         "excerpt": "Kabupaten Ulju di Ulsan menyatakan pada tanggal 8 akan menertibkan refund pajak daerah yang belum diklaim agar dikembalikan kepada wajib pajak.",
         "body": "Kabupaten Ulju di Ulsan menyatakan pada tanggal 8 bahwa pihaknya akan menjalankan penertiban menyeluruh atas refund pajak daerah yang belum diklaim untuk mengembalikan dana kepada wajib pajak. Langkah ini bertujuan mengurangi dana yang masih tertahan dengan mengarahkan wajib pajak untuk memeriksa dan mengajukan klaim atas jumlah yang menjadi haknya. Menurut laporan asli, nilai di bawah 10.000 won mencakup 57% dari total refund yang belum diklaim. Karena refund kecil memiliki porsi besar, konfirmasi dan pengajuan oleh wajib pajak akan menjadi kunci proses ini. Ulju berencana memastikan refund pajak daerah benar-benar kembali kepada wajib pajak yang berhak. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3cab6591ba2b",
-    "slug": "마스턴운용-비전-선포식-개최亞-부동산-대체투자-새-기준-576296",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T20:19:21.328Z",
-    "updatedAt": "2026-05-09T20:19:21.328Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508051200008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508051200008",
-    "titleFingerprint": "f1fe996c8b98cdb5b91fd89d8a7d0e5f58ae230f",
-    "dedupKeys": [
-      "3cab6591ba2b5247752f9070e154280167e234b1",
-      "f1fe996c8b98cdb5b91fd89d8a7d0e5f58ae230f",
-      "9eda786cf3e516fd74e253fc6da14988accb84ea"
-    ],
-    "imageUrl": "/images/articles/3cab6591ba2b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마스턴투자운용 비전 선포식 개최, 아시아 부동산 대체투자 새 기준 제시",
-        "excerpt": "마스턴투자운용은 2026년 5월 7일 전 임직원이 참석한 비전 선포식을 열고, 경영 턴어라운드를 계기로 새 미션과 아시아 부동산 대체투자 비전을 공개했다.",
-        "body": "마스턴투자운용은 2026년 5월 7일 전 임직원이 참석한 가운데 비전 선포식을 열고 회사의 새 미션과 비전을 발표했다고 8일 밝혔다. 이번 행사는 경영 턴어라운드를 계기로 회사 비전과 미션을 재정립하고 조직 방향성에 대한 공감대를 형성하기 위해 마련됐다. 마스턴투자운용은 사람과 가능성, 신뢰 기반의 성장, 고객과 사회의 더 나은 내일을 미션으로 제시했다. 새 비전은 견고한 플랫폼과 차별화된 전문성을 바탕으로 아시아 부동산 대체투자의 새로운 기준이 되는 것이다. 박형석 대표는 단기 성과보다 장기 가치 창출과 지속 가능한 성장을 중시한다고 강조했다. 회사는 반기별 대표이사 주관 타운홀 미팅, 직책별 리더십 교육, 핵심 인재 육성을 위한 마스턴 전문가 맵 구축도 추진한다. 출처: yna.co.kr 인용."
-      },
-      "en": {
-        "title": "Masturn Investment Management unveils vision for new Asia real estate alternative investment standard",
-        "excerpt": "Masturn Investment Management held a companywide vision ceremony on May 7, 2026, using its management turnaround to announce a renewed mission and Asia real estate alternative investment vision.",
-        "body": "Masturn Investment Management said on May 8 that it held a vision declaration ceremony on May 7, 2026, with all employees attending, where it announced a new mission and vision. The event was arranged as part of a management turnaround to redefine the company’s mission and vision and build shared understanding of its organizational direction. The firm presented a mission centered on belief in people and potential, growth through trust, and creating a better tomorrow for customers and society. Its new vision is to become a new standard for Asian real estate alternative investment through a solid platform and differentiated expertise. CEO Park Hyung-seok emphasized long-term value creation and sustainable growth over short-term results. The company will also pursue semiannual CEO-led town halls, role-based leadership training, and a Masturn expert map to develop core talent. Source: cited from yna.co.kr."
-      },
-      "ja": {
-        "title": "マスターン投資運用がビジョン宣言式、アジア不動産代替投資の新基準を提示",
-        "excerpt": "マスターン投資運用は2026年5月7日、全役職員が参加するビジョン宣言式を開き、経営ターンアラウンドを機に新ミッションとアジア不動産代替投資ビジョンを発表した。",
-        "body": "マスターン投資運用は2026年5月7日、全役職員が参加する中でビジョン宣言式を開き、新たなミッションとビジョンを発表したと8日に明らかにした。今回の行事は、経営ターンアラウンドを契機に会社のビジョンとミッションを再定義し、組織の方向性について共感を形成するために設けられた。同社は、人と可能性への信頼、信頼に基づく成長、顧客と社会のより良い明日をつくることをミッションとして示した。新ビジョンは、堅固なプラットフォームと差別化された専門性をもとに、アジア不動産代替投資の新たな基準になるという内容だ。朴炯錫代表は、短期成果より長期的な価値創出と持続可能な成長を重視すると強調した。会社は半期ごとの代表取締役主導タウンホール、職責別リーダーシップ教育、中核人材育成のためのマスターン専門家マップ構築も進める。出典: yna.co.kr引用。"
-      },
-      "zh": {
-        "title": "Masturn投资管理举行愿景发布会，提出亚洲房地产另类投资新标准",
-        "excerpt": "Masturn投资管理于2026年5月7日举行全体员工参加的愿景发布会，借经营转型之机公布新使命和亚洲房地产另类投资愿景。",
-        "body": "Masturn投资管理8日表示，公司于2026年5月7日举行全体员工参加的愿景发布会，公布新的使命和愿景。此次活动旨在以经营转型为契机，重新确立公司愿景和使命，并就组织发展方向形成共识。公司提出的使命包括相信人与可能性、在相互信任基础上共同成长，以及为客户和社会创造更好的明天。新愿景是凭借稳固的平台和差异化专业能力，成为亚洲房地产另类投资的新标准。代表朴炯锡强调，公司重视长期价值创造和可持续增长，而非短期业绩。公司还将推进每半年由代表理事主持的市政厅会议、按职务设置的领导力培训，以及用于培养核心人才的Masturn专家地图建设。来源：引用yna.co.kr。"
-      },
-      "es": {
-        "title": "Masturn Investment Management presenta visión para fijar un nuevo estándar alternativo inmobiliario en Asia",
-        "excerpt": "Masturn Investment Management celebró el 7 de mayo de 2026 una ceremonia de visión con todos sus empleados y anunció una nueva misión y visión para la inversión alternativa inmobiliaria asiática.",
-        "body": "Masturn Investment Management informó el 8 de mayo que celebró el 7 de mayo de 2026 una ceremonia de proclamación de visión con la asistencia de todos sus empleados, en la que presentó una nueva misión y visión. El acto se organizó en el marco de un giro de gestión para redefinir la misión y la visión de la empresa y crear consenso sobre la dirección de la organización. La firma planteó una misión basada en creer en las personas y sus posibilidades, crecer sobre la confianza y construir un mejor mañana para clientes y sociedad. Su nueva visión es convertirse en un nuevo estándar de la inversión alternativa inmobiliaria en Asia mediante una plataforma sólida y experiencia diferenciada. El CEO Park Hyung-seok destacó la creación de valor a largo plazo y el crecimiento sostenible por encima de los resultados de corto plazo. La compañía también impulsará reuniones semestrales con el CEO, formación de liderazgo por cargo y un mapa de expertos Masturn para desarrollar talento clave. Fuente: citado de yna.co.kr."
-      },
-      "pt": {
-        "title": "Masturn Investment Management anuncia visão para novo padrão em investimento imobiliário alternativo na Ásia",
-        "excerpt": "A Masturn Investment Management realizou em 7 de maio de 2026 uma cerimônia de visão com todos os funcionários e anunciou nova missão e visão para investimento imobiliário alternativo na Ásia.",
-        "body": "A Masturn Investment Management informou em 8 de maio que realizou, em 7 de maio de 2026, uma cerimônia de proclamação de visão com a participação de todos os funcionários, na qual anunciou uma nova missão e visão. O evento foi organizado no contexto de uma virada de gestão para redefinir a missão e a visão da empresa e formar consenso sobre a direção organizacional. A companhia apresentou uma missão centrada em acreditar nas pessoas e nas possibilidades, crescer com base na confiança e criar um amanhã melhor para clientes e sociedade. A nova visão é tornar-se um novo padrão para o investimento imobiliário alternativo na Ásia por meio de uma plataforma sólida e competência diferenciada. O CEO Park Hyung-seok enfatizou a criação de valor de longo prazo e o crescimento sustentável em vez de resultados de curto prazo. A empresa também promoverá reuniões semestrais lideradas pelo CEO, treinamento de liderança por função e um mapa de especialistas Masturn para desenvolver talentos essenciais. Fonte: citado de yna.co.kr."
-      },
-      "de": {
-        "title": "Masturn Investment Management verkündet Vision für neuen Standard alternativer Immobilienanlagen in Asien",
-        "excerpt": "Masturn Investment Management hielt am 7. Mai 2026 eine unternehmensweite Visionsveranstaltung ab und stellte im Zuge des Management-Turnarounds eine neue Mission und Asien-Vision vor.",
-        "body": "Masturn Investment Management teilte am 8. Mai mit, dass das Unternehmen am 7. Mai 2026 mit allen Beschäftigten eine Visionsveranstaltung abgehalten und eine neue Mission sowie Vision vorgestellt hat. Die Veranstaltung wurde im Zuge eines Management-Turnarounds organisiert, um Mission und Vision neu zu definieren und ein gemeinsames Verständnis für die organisatorische Ausrichtung zu schaffen. Das Unternehmen nannte als Mission den Glauben an Menschen und Möglichkeiten, Wachstum auf Basis gegenseitigen Vertrauens und ein besseres Morgen für Kunden und Gesellschaft. Die neue Vision lautet, mit einer soliden Plattform und differenzierter Expertise ein neuer Standard für alternative Immobilienanlagen in Asien zu werden. CEO Park Hyung-seok betonte langfristige Wertschöpfung und nachhaltiges Wachstum statt kurzfristiger Ergebnisse. Geplant sind außerdem halbjährliche Townhall-Meetings unter Leitung des CEO, rollenbezogene Führungsschulungen und eine Masturn-Expertenkarte zur Entwicklung von Kernkräften. Quelle: zitiert nach yna.co.kr."
-      },
-      "fr": {
-        "title": "Masturn Investment Management dévoile sa vision pour un nouveau standard immobilier alternatif en Asie",
-        "excerpt": "Masturn Investment Management a tenu le 7 mai 2026 une cérémonie de vision avec l’ensemble du personnel et annoncé une nouvelle mission et vision pour l’investissement immobilier alternatif asiatique.",
-        "body": "Masturn Investment Management a annoncé le 8 mai avoir organisé, le 7 mai 2026, une cérémonie de proclamation de vision avec la participation de tous les employés, afin de présenter une nouvelle mission et une nouvelle vision. L’événement a été préparé dans le cadre d’un redressement de gestion pour redéfinir la mission et la vision de l’entreprise et créer un consensus sur l’orientation de l’organisation. La société a présenté une mission fondée sur la confiance dans les personnes et les possibilités, la croissance sur une base de confiance mutuelle et la création d’un meilleur avenir pour les clients et la société. Sa nouvelle vision est de devenir un nouveau standard de l’investissement immobilier alternatif en Asie grâce à une plateforme solide et à une expertise différenciée. Le PDG Park Hyung-seok a souligné la création de valeur à long terme et la croissance durable plutôt que les résultats de court terme. L’entreprise prévoit aussi des réunions semestrielles menées par le PDG, des formations au leadership par fonction et une carte des experts Masturn pour former les talents clés. Source: cité de yna.co.kr."
-      },
-      "ar": {
-        "title": "ماسترن لإدارة الاستثمار تعلن رؤية جديدة لمعيار آسيوي في الاستثمار العقاري البديل",
-        "excerpt": "أقامت ماسترن لإدارة الاستثمار في 7 مايو 2026 مراسم إعلان رؤية بمشاركة جميع الموظفين، وكشفت عن مهمة ورؤية جديدتين للاستثمار العقاري البديل في آسيا ضمن تحول إداري.",
-        "body": "قالت ماسترن لإدارة الاستثمار في 8 مايو إنها أقامت في 7 مايو 2026 مراسم إعلان رؤية بمشاركة جميع الموظفين، أعلنت خلالها مهمة ورؤية جديدتين للشركة. وجاءت الفعالية في إطار تحول إداري لإعادة تحديد مهمة الشركة ورؤيتها وبناء توافق حول اتجاه المنظمة. وقدمت الشركة مهمة تقوم على الإيمان بالناس والإمكانات، والنمو على أساس الثقة المتبادلة، وصنع غد أفضل للعملاء والمجتمع. أما الرؤية الجديدة فهي أن تصبح معيارا جديدا للاستثمار العقاري البديل في آسيا عبر منصة راسخة وخبرة متمايزة. وشدد الرئيس التنفيذي بارك هيونغ سوك على أهمية خلق قيمة طويلة الأجل والنمو المستدام بدلا من التركيز على النتائج قصيرة الأجل. كما ستدفع الشركة اجتماعات نصف سنوية يقودها الرئيس التنفيذي، وتدريب قيادة بحسب المناصب، وخريطة خبراء ماسترن لتطوير المواهب الأساسية. المصدر: نقلا عن yna.co.kr."
-      },
-      "hi": {
-        "title": "मास्टर्न इन्वेस्टमेंट मैनेजमेंट ने एशियाई रियल एस्टेट वैकल्पिक निवेश का नया मानक रखा",
-        "excerpt": "मास्टर्न इन्वेस्टमेंट मैनेजमेंट ने 7 मई 2026 को सभी कर्मचारियों की उपस्थिति में विजन समारोह किया और प्रबंधन बदलाव के तहत नई मिशन व एशियाई रियल एस्टेट वैकल्पिक निवेश दृष्टि घोषित की।",
-        "body": "मास्टर्न इन्वेस्टमेंट मैनेजमेंट ने 8 मई को बताया कि उसने 7 मई 2026 को सभी कर्मचारियों की उपस्थिति में विजन घोषणा समारोह आयोजित किया और कंपनी की नई मिशन व विजन पेश की। यह कार्यक्रम प्रबंधन टर्नअराउंड को आधार बनाकर कंपनी की मिशन और विजन को फिर से परिभाषित करने तथा संगठन की दिशा पर साझा सहमति बनाने के लिए आयोजित किया गया। कंपनी ने लोगों और संभावनाओं में विश्वास, भरोसे पर आधारित साझा वृद्धि, और ग्राहकों व समाज के लिए बेहतर कल बनाने को अपनी मिशन के रूप में रखा। नई विजन मजबूत प्लेटफॉर्म और अलग विशेषज्ञता के आधार पर एशिया में रियल एस्टेट वैकल्पिक निवेश का नया मानक बनना है। सीईओ पार्क ह्युंग-सोक ने अल्पकालिक प्रदर्शन की तुलना में दीर्घकालिक मूल्य सृजन और सतत वृद्धि को महत्व देने पर जोर दिया। कंपनी अर्धवार्षिक सीईओ-नेतृत्व वाले टाउनहॉल, पदानुसार नेतृत्व प्रशिक्षण और मुख्य प्रतिभाओं के विकास के लिए मास्टर्न विशेषज्ञ मानचित्र भी बनाएगी। स्रोत: yna.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Masturn Investment Management gelar deklarasi visi, bidik standar baru investasi alternatif properti Asia",
-        "excerpt": "Masturn Investment Management menggelar deklarasi visi pada 7 Mei 2026 bersama seluruh karyawan dan mengumumkan misi serta visi baru investasi alternatif real estat Asia setelah turnaround manajemen.",
-        "body": "Masturn Investment Management menyatakan pada 8 Mei bahwa perusahaan menggelar deklarasi visi pada 7 Mei 2026 dengan dihadiri seluruh karyawan, sekaligus mengumumkan misi dan visi baru. Acara ini disiapkan setelah turnaround manajemen untuk merumuskan kembali misi dan visi perusahaan serta membangun kesepahaman atas arah organisasi. Perusahaan menetapkan misi yang berpusat pada kepercayaan terhadap manusia dan potensi, pertumbuhan bersama di atas dasar saling percaya, serta penciptaan hari esok yang lebih baik bagi pelanggan dan masyarakat. Visi barunya adalah menjadi standar baru investasi alternatif real estat Asia melalui platform yang kokoh dan keahlian yang berbeda. CEO Park Hyung-seok menekankan penciptaan nilai jangka panjang dan pertumbuhan berkelanjutan dibanding hasil jangka pendek. Perusahaan juga akan menjalankan town hall yang dipimpin CEO setiap semester, pelatihan kepemimpinan sesuai jabatan, dan peta ahli Masturn untuk membina talenta inti. Sumber: dikutip dari yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f5d64cbcff74",
-    "slug": "서울-수송동-대림빌딩-재개발광화문역kt빌딩-지하-연결-122394",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T20:18:00.751Z",
-    "updatedAt": "2026-05-09T20:18:00.752Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507172100004",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507172100004",
-    "titleFingerprint": "aef5936f8fd518086ab02d71f4e3ef78ee4f449e",
-    "dedupKeys": [
-      "f5d64cbcff745ff88725dfd42f15987e29bbb586",
-      "aef5936f8fd518086ab02d71f4e3ef78ee4f449e",
-      "635009180ca8a78db15e07242445efd713c5b3db"
-    ],
-    "imageUrl": "/images/articles/f5d64cbcff74.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 수송동 대림빌딩 재개발 본격화…준공 50년 부지, 광화문역·KT빌딩 지하 연결",
-        "excerpt": "서울 종로구 수송동의 준공 50년 이상 대림빌딩 부지가 대규모 재개발을 통해 지하철 5호선 광화문역, KT광화문빌딩과 지하로 연결될 예정이다.",
-        "body": "서울 종로구 수송동 대림빌딩 부지가 대규모 재개발에 들어간다. 연합뉴스 황재하 기자 보도에 따르면 준공 50년이 지난 이 부지는 지하철 5호선 광화문역과 KT광화문빌딩을 지하로 잇는 방식으로 정비될 예정이다. 대상지는 광화문 일대 업무·교통 거점과 맞닿아 있어, 노후 건축물 재개발과 보행 동선 개선이 함께 주목된다. 이번 사업은 오래된 도심 빌딩 부지를 주변 지하 교통망 및 인접 건물과 연결하는 계획이라는 점에서 향후 광화문권 도심 공간 활용에 영향을 줄 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Seoul Susong-dong Daelim Building redevelopment to link underground with Gwanghwamun Station and KT building",
-        "excerpt": "The over-50-year-old Daelim Building site in Susong-dong, Jongno-gu, Seoul is set for major redevelopment with underground links to Line 5 Gwanghwamun Station and the KT Gwanghwamun Building.",
-        "body": "The Daelim Building site in Susong-dong, Jongno-gu, Seoul is moving toward a large-scale redevelopment. According to a Yonhap News report by reporter Hwang Jae-ha, the site, completed more than 50 years ago, is planned to be connected underground with Gwanghwamun Station on Subway Line 5 and the KT Gwanghwamun Building. Located next to a key office and transport hub in the Gwanghwamun area, the project draws attention for both aging-building redevelopment and improved pedestrian circulation. The plan may affect how downtown space around Gwanghwamun is used by linking an old building site with nearby underground transit and adjacent buildings. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ソウル寿松洞の大林ビル再開発本格化、竣工50年超の敷地を光化門駅・KTビルと地下接続",
-        "excerpt": "ソウル鍾路区寿松洞の竣工50年を超える大林ビル敷地が大規模再開発され、地下鉄5号線光化門駅とKT光化門ビルに地下でつながる計画だ。",
-        "body": "ソウル鍾路区寿松洞の大林ビル敷地が大規模再開発に入る。聯合ニュースの黄載河記者の報道によると、竣工から50年以上が過ぎたこの敷地は、地下鉄5号線の光化門駅とKT光化門ビルを地下で結ぶ形で整備される予定だ。対象地は光化門一帯の業務・交通拠点に接しており、老朽建築物の再開発と歩行動線の改善が同時に注目される。今回の事業は古い都心ビル敷地を周辺の地下交通網や隣接建物と連結する計画であり、今後の光化門圏の都心空間活用に影響を与える見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "首尔寿松洞大林大厦重建启动，竣工逾50年地块将地下连通光化门站与KT大楼",
-        "excerpt": "首尔钟路区寿松洞竣工超过50年的大林大厦地块将进行大规模重建，并计划与地铁5号线光化门站、KT光化门大楼地下连接。",
-        "body": "首尔钟路区寿松洞大林大厦地块将进入大规模重建。韩联社记者黄载河报道称，这一竣工已超过50年的地块，计划以地下通道方式连接地铁5号线光化门站和KT光化门大楼。该地块毗邻光化门一带的办公和交通核心区域，因此老旧建筑重建与步行动线改善同时受到关注。此次项目的重点在于把旧有市中心大楼地块与周边地下交通网络及相邻建筑相连，预计将对今后光化门圈市中心空间利用产生影响。出处: yna.co.kr"
-      },
-      "es": {
-        "title": "Reurbanización del edificio Daelim en Susong-dong, Seúl: conexión subterránea con Gwanghwamun y KT",
-        "excerpt": "El solar del edificio Daelim en Susong-dong, Jongno-gu, Seúl, con más de 50 años desde su finalización, será objeto de una gran reurbanización conectada bajo tierra con la estación Gwanghwamun de la línea 5 y el edificio KT.",
-        "body": "El solar del edificio Daelim en Susong-dong, Jongno-gu, Seúl, avanzará hacia una reurbanización a gran escala. Según informó el periodista Hwang Jae-ha de Yonhap News, el emplazamiento, terminado hace más de 50 años, se reorganizará con una conexión subterránea a la estación Gwanghwamun de la línea 5 del metro y al edificio KT Gwanghwamun. La zona está junto a un núcleo de oficinas y transporte de Gwanghwamun, por lo que la renovación de un inmueble envejecido y la mejora de los recorridos peatonales concentran la atención. El proyecto podría influir en el uso futuro del espacio urbano del área al enlazar el solar con la red subterránea y edificios cercanos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Reurbanização do edifício Daelim em Susong-dong, Seul, ligará terreno antigo à estação Gwanghwamun e à KT",
-        "excerpt": "O terreno do edifício Daelim em Susong-dong, Jongno-gu, Seul, concluído há mais de 50 anos, passará por grande reurbanização com conexão subterrânea à estação Gwanghwamun da linha 5 e ao edifício KT.",
-        "body": "O terreno do edifício Daelim em Susong-dong, Jongno-gu, Seul, avançará para uma reurbanização de grande escala. Segundo reportagem de Hwang Jae-ha, da Yonhap News, o local, concluído há mais de 50 anos, deverá ser reorganizado com ligação subterrânea à estação Gwanghwamun da linha 5 do metrô e ao edifício KT Gwanghwamun. Situado junto a um polo de escritórios e transporte na área de Gwanghwamun, o projeto chama atenção pela renovação de um prédio antigo e pela melhoria dos fluxos de pedestres. A iniciativa pode influenciar o uso futuro do espaço urbano ao conectar o terreno à rede subterrânea e a edifícios vizinhos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Sanierung des Daelim-Gebäudes in Seouls Susong-dong: Unterirdische Verbindung zu Gwanghwamun und KT",
-        "excerpt": "Das mehr als 50 Jahre alte Areal des Daelim-Gebäudes in Susong-dong, Jongno-gu, Seoul, soll großflächig neu entwickelt und unterirdisch mit der U-Bahn-Station Gwanghwamun der Linie 5 sowie dem KT-Gebäude verbunden werden.",
-        "body": "Das Areal des Daelim-Gebäudes in Susong-dong im Seouler Bezirk Jongno steht vor einer groß angelegten Neuentwicklung. Laut einem Bericht von Yonhap-Reporter Hwang Jae-ha soll das vor mehr als 50 Jahren fertiggestellte Grundstück unterirdisch mit der U-Bahn-Station Gwanghwamun der Linie 5 und dem KT Gwanghwamun Building verbunden werden. Der Standort grenzt an ein wichtiges Büro- und Verkehrszentrum rund um Gwanghwamun, weshalb sowohl die Erneuerung eines alten Gebäudes als auch bessere Fußwege im Fokus stehen. Das Vorhaben könnte die künftige Nutzung des Innenstadtbereichs beeinflussen, da es ein altes Grundstück mit dem unterirdischen Verkehrsnetz und Nachbargebäuden verknüpft. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "À Séoul, le site du Daelim Building à Susong-dong sera réaménagé et relié sous terre à Gwanghwamun et KT",
-        "excerpt": "Le site du Daelim Building à Susong-dong, Jongno-gu, Séoul, achevé il y a plus de 50 ans, fera l’objet d’un vaste réaménagement avec une liaison souterraine vers la station Gwanghwamun de la ligne 5 et le bâtiment KT.",
-        "body": "Le site du Daelim Building à Susong-dong, dans l’arrondissement de Jongno à Séoul, va faire l’objet d’un réaménagement de grande ampleur. Selon un article du journaliste Hwang Jae-ha de Yonhap News, ce site achevé il y a plus de 50 ans doit être relié en sous-sol à la station Gwanghwamun de la ligne 5 du métro et au KT Gwanghwamun Building. Situé au contact d’un pôle de bureaux et de transport du secteur de Gwanghwamun, le projet attire l’attention pour la rénovation d’un bâtiment ancien et l’amélioration des cheminements piétons. Cette opération pourrait influer sur l’usage futur de l’espace urbain en reliant le site aux réseaux souterrains et aux bâtiments voisins. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إعادة تطوير مبنى دايليم في سوسونغ دونغ بسيول وربطه تحت الأرض بمحطة غوانغهوامون ومبنى KT",
-        "excerpt": "سيخضع موقع مبنى دايليم في سوسونغ دونغ، جونغنو غو، سيول، والمنجز منذ أكثر من 50 عاما، لإعادة تطوير واسعة مع ربطه تحت الأرض بمحطة غوانغهوامون على الخط 5 ومبنى KT غوانغهوامون.",
-        "body": "يتجه موقع مبنى دايليم في سوسونغ دونغ بمنطقة جونغنو غو في سيول إلى إعادة تطوير واسعة النطاق. وبحسب تقرير لوكالة يونهاب أعده الصحفي هوانغ جاي ها، فإن الموقع الذي مر على إنجازه أكثر من 50 عاما سيجري تنظيمه عبر ربطه تحت الأرض بمحطة غوانغهوامون على خط المترو 5 وبمبنى KT غوانغهوامون. يقع الموقع بمحاذاة مركز للأعمال والنقل في منطقة غوانغهوامون، ما يسلط الضوء على تجديد المباني القديمة وتحسين حركة المشاة. وقد يؤثر المشروع في استخدام مساحة وسط المدينة مستقبلا عبر وصل الموقع بشبكة النقل تحت الأرض والمباني المجاورة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "सियोल के सुसोंग-दोंग में डेलिम बिल्डिंग पुनर्विकास, ग्वांगह्वामुन स्टेशन और KT भवन से भूमिगत जुड़ाव",
-        "excerpt": "सियोल के जोंगनो-गु स्थित सुसोंग-दोंग में 50 वर्ष से अधिक पुराने डेलिम बिल्डिंग स्थल का बड़े पैमाने पर पुनर्विकास होगा और इसे लाइन 5 के ग्वांगह्वामुन स्टेशन तथा KT ग्वांगह्वामुन बिल्डिंग से भूमिगत जोड़ा जाएगा।",
-        "body": "सियोल के जोंगनो-गु स्थित सुसोंग-दोंग में डेलिम बिल्डिंग स्थल बड़े पैमाने पर पुनर्विकास की ओर बढ़ रहा है। योनहाप न्यूज के पत्रकार ह्वांग जे-हा की रिपोर्ट के अनुसार, 50 वर्ष से अधिक पहले पूर्ण हुए इस स्थल को मेट्रो लाइन 5 के ग्वांगह्वामुन स्टेशन और KT ग्वांगह्वामुन बिल्डिंग से भूमिगत रूप से जोड़ने की योजना है। यह स्थल ग्वांगह्वामुन क्षेत्र के कार्यालय और परिवहन केंद्र के पास है, इसलिए पुराने भवन के पुनर्विकास और पैदल आवाजाही में सुधार दोनों पर ध्यान है। यह परियोजना पुराने शहरी भवन स्थल को आसपास के भूमिगत परिवहन नेटवर्क और निकटवर्ती इमारतों से जोड़ने की योजना के रूप में भविष्य में ग्वांगह्वामुन क्षेत्र के शहरी स्थान उपयोग को प्रभावित कर सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Redevelopment Gedung Daelim Susong-dong Seoul, lahan 50 tahun lebih terhubung bawah tanah ke Gwanghwamun dan KT",
-        "excerpt": "Lahan Gedung Daelim di Susong-dong, Jongno-gu, Seoul, yang telah berdiri lebih dari 50 tahun, akan menjalani redevelopment besar dengan koneksi bawah tanah ke Stasiun Gwanghwamun Jalur 5 dan Gedung KT Gwanghwamun.",
-        "body": "Lahan Gedung Daelim di Susong-dong, Jongno-gu, Seoul, akan masuk ke redevelopment berskala besar. Menurut laporan reporter Hwang Jae-ha dari Yonhap News, lahan yang telah selesai dibangun lebih dari 50 tahun lalu itu direncanakan terhubung bawah tanah dengan Stasiun Gwanghwamun di Jalur 5 subway dan Gedung KT Gwanghwamun. Lokasinya berdekatan dengan pusat perkantoran dan transportasi kawasan Gwanghwamun, sehingga pembaruan bangunan tua dan perbaikan jalur pejalan kaki menjadi perhatian. Proyek ini dapat memengaruhi pemanfaatan ruang pusat kota Gwanghwamun karena menghubungkan lahan bangunan lama dengan jaringan bawah tanah dan gedung sekitar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "35fc43d346ec",
-    "slug": "시니어-돌봄-로봇-선보인-kb금융-서비스-적용-범위-확장-273812",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T19:59:15.943Z",
-    "updatedAt": "2026-05-09T19:59:15.943Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508050700002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508050700002",
-    "titleFingerprint": "18d309b8ac7581daf348196ae790787c10ecbeec",
-    "dedupKeys": [
-      "35fc43d346eca844ea3210308b87d1148ca18c7d",
-      "18d309b8ac7581daf348196ae790787c10ecbeec",
-      "b1a4cf915081987298c302ec07df35b23a74fc43"
-    ],
-    "imageUrl": "/images/articles/35fc43d346ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KB금융, 시니어 돌봄 로봇 공개…금융권 AI 서비스 적용 범위 넓힌다",
-        "excerpt": "KB금융그룹은 서울 강남구 코엑스에서 열린 AI EXPO KOREA 2026에서 금융권 최초로 시니어 돌봄 로봇을 선보이며 서비스 적용 범위 확대 방침을 밝혔다.",
-        "body": "KB금융그룹은 서울 강남구 코엑스에서 열린 국제인공지능대전(AI EXPO KOREA 2026)에서 시니어 돌봄 로봇을 선보였다. 금융권 최초로 소개된 이번 로봇은 고령층 돌봄 영역에 인공지능 기술을 접목한 사례로, KB금융은 이를 통해 금융 서비스의 적용 범위를 넓히겠다는 방향을 제시했다. 이번 전시는 금융사가 AI 기술을 단순 상담이나 내부 업무 효율화에 그치지 않고 고객 생활 지원 영역까지 확장하려는 흐름을 보여준다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KB Financial Unveils Senior Care Robot, Expanding AI Service Use",
-        "excerpt": "KB Financial Group introduced a senior care robot at AI EXPO KOREA 2026 in COEX, Seoul, marking a first for the financial sector and signaling wider service applications.",
-        "body": "KB Financial Group showcased a senior care robot at AI EXPO KOREA 2026, held at COEX in Gangnam, Seoul. The robot, introduced as a first in the financial sector, applies artificial intelligence technology to senior care. KB Financial said the move reflects its plan to expand the scope of services beyond conventional financial functions. The exhibition shows how financial companies are seeking to use AI not only for consultation or internal efficiency, but also for customer life-support services. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KB金融、シニア介護ロボット公開…金融AIサービス拡大へ",
-        "excerpt": "KB金融グループはソウル江南区COEXで開かれたAI EXPO KOREA 2026で、金融圏初となるシニア介護ロボットを披露し、サービス適用範囲の拡大方針を示した。",
-        "body": "KB金融グループは、ソウル江南区のCOEXで開かれた国際人工知能展「AI EXPO KOREA 2026」でシニア介護ロボットを披露した。金融圏で初めて紹介されたこのロボットは、高齢者ケア分野に人工知能技術を組み合わせた事例だ。KB金融はこれを通じ、金融サービスの適用範囲を広げる方針を示した。今回の展示は、金融会社がAI技術を相談や社内業務効率化にとどめず、顧客の生活支援領域へ広げようとする流れを示している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KB金融发布老年照护机器人，扩大金融AI服务应用范围",
-        "excerpt": "KB金融集团在首尔江南区COEX举行的AI EXPO KOREA 2026上，首次面向金融圈展示老年照护机器人，并表示将扩大服务应用范围。",
-        "body": "KB金融集团在首尔江南区COEX举行的国际人工智能展AI EXPO KOREA 2026上展示了老年照护机器人。该机器人被介绍为金融圈首次推出的案例，将人工智能技术应用于老年人照护领域。KB金融表示，将以此扩大金融服务的适用范围。此次展出显示，金融公司正尝试把AI技术从咨询和内部业务效率提升，延伸到客户生活支持领域。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "KB Financial presenta robot de cuidado sénior y amplía uso de IA",
-        "excerpt": "KB Financial Group presentó un robot de cuidado para personas mayores en AI EXPO KOREA 2026, celebrada en COEX, Seúl, y anunció una ampliación del alcance de sus servicios.",
-        "body": "KB Financial Group presentó un robot de cuidado para personas mayores en AI EXPO KOREA 2026, celebrada en COEX, en el distrito de Gangnam de Seúl. El robot, descrito como el primero de su tipo en el sector financiero, aplica tecnología de inteligencia artificial al cuidado sénior. KB Financial señaló que la iniciativa apunta a ampliar el alcance de sus servicios financieros. La exhibición muestra cómo las entidades financieras buscan llevar la IA más allá de la atención y la eficiencia interna hacia servicios de apoyo a la vida del cliente. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KB Financial mostra robô de cuidado sênior e amplia uso de IA",
-        "excerpt": "O KB Financial Group apresentou um robô de cuidado para idosos na AI EXPO KOREA 2026, realizada no COEX, em Seul, indicando expansão do alcance de seus serviços.",
-        "body": "O KB Financial Group apresentou um robô de cuidado para idosos na AI EXPO KOREA 2026, realizada no COEX, no distrito de Gangnam, em Seul. O robô, apresentado como uma estreia no setor financeiro, aplica tecnologia de inteligência artificial ao cuidado sênior. O KB Financial indicou que pretende ampliar o alcance de seus serviços por meio dessa iniciativa. A exposição mostra o movimento de empresas financeiras para usar IA não apenas em atendimento ou eficiência interna, mas também em áreas de apoio à vida dos clientes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KB Financial zeigt Senioren-Pflegeroboter und erweitert KI-Dienste",
-        "excerpt": "KB Financial Group stellte auf der AI EXPO KOREA 2026 im COEX in Seoul einen Senioren-Pflegeroboter vor und kündigte an, den Einsatzbereich seiner Dienste zu erweitern.",
-        "body": "KB Financial Group hat auf der AI EXPO KOREA 2026 im COEX im Seouler Bezirk Gangnam einen Senioren-Pflegeroboter vorgestellt. Der Roboter wurde als erstes Beispiel dieser Art im Finanzsektor präsentiert und verbindet künstliche Intelligenz mit der Betreuung älterer Menschen. KB Financial erklärte damit die Absicht, den Anwendungsbereich seiner Finanzdienste zu erweitern. Die Präsentation zeigt, dass Finanzunternehmen KI nicht nur für Beratung oder interne Effizienz nutzen wollen, sondern auch für lebensnahe Unterstützung von Kunden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "KB Financial dévoile un robot de soins seniors et élargit l’IA",
-        "excerpt": "KB Financial Group a présenté un robot de soins pour seniors à AI EXPO KOREA 2026, au COEX de Séoul, une première dans la finance, afin d’élargir ses services.",
-        "body": "KB Financial Group a présenté un robot de soins pour seniors lors d’AI EXPO KOREA 2026, organisé au COEX, dans le district de Gangnam à Séoul. Ce robot, présenté comme une première dans le secteur financier, applique l’intelligence artificielle au domaine de l’accompagnement des personnes âgées. KB Financial a indiqué vouloir élargir le champ d’application de ses services. Cette exposition montre que les sociétés financières cherchent à utiliser l’IA au-delà du conseil et de l’efficacité interne, vers le soutien à la vie quotidienne des clients. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كي بي فايننشال تكشف روبوت رعاية للمسنين وتوسع خدمات الذكاء الاصطناعي",
-        "excerpt": "عرضت مجموعة كي بي فايننشال روبوت رعاية للمسنين في AI EXPO KOREA 2026 بمركز كويكس في سيول، في خطوة تعد الأولى بالقطاع المالي لتوسيع نطاق الخدمات.",
-        "body": "عرضت مجموعة كي بي فايننشال روبوتا لرعاية المسنين خلال معرض AI EXPO KOREA 2026 الذي أقيم في مركز كويكس بمنطقة غانغنام في سيول. وقدمت المجموعة الروبوت بوصفه الأول من نوعه في القطاع المالي، إذ يطبق تقنيات الذكاء الاصطناعي في مجال رعاية كبار السن. وأوضحت كي بي فايننشال أن الخطوة تعكس توجها لتوسيع نطاق تطبيق خدماتها. ويظهر المعرض سعي الشركات المالية إلى استخدام الذكاء الاصطناعي ليس فقط في الاستشارات أو تحسين العمل الداخلي، بل أيضا في دعم حياة العملاء. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KB Financial ने वरिष्ठ देखभाल रोबोट दिखाया, AI सेवाओं का दायरा बढ़ेगा",
-        "excerpt": "KB Financial Group ने सियोल के COEX में AI EXPO KOREA 2026 में वरिष्ठ देखभाल रोबोट पेश किया और वित्तीय क्षेत्र में सेवा उपयोग का दायरा बढ़ाने की दिशा बताई।",
-        "body": "KB Financial Group ने सियोल के गंगनम स्थित COEX में आयोजित AI EXPO KOREA 2026 में वरिष्ठ नागरिकों की देखभाल के लिए रोबोट पेश किया। इसे वित्तीय क्षेत्र में पहली बार प्रस्तुत किए गए ऐसे उदाहरण के रूप में बताया गया, जिसमें बुजुर्ग देखभाल में कृत्रिम बुद्धिमत्ता तकनीक जोड़ी गई है। KB Financial ने कहा कि इस पहल के जरिए वह वित्तीय सेवाओं के उपयोग का दायरा बढ़ाना चाहता है। यह प्रदर्शनी दिखाती है कि वित्तीय कंपनियां AI को केवल सलाह या आंतरिक दक्षता तक सीमित न रखकर ग्राहक जीवन-सहायता सेवाओं तक ले जाना चाहती हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KB Financial Pamer Robot Perawatan Lansia, Perluas Layanan AI",
-        "excerpt": "KB Financial Group memperkenalkan robot perawatan lansia di AI EXPO KOREA 2026 di COEX, Seoul, sebagai langkah pertama sektor keuangan untuk memperluas cakupan layanan.",
-        "body": "KB Financial Group memperkenalkan robot perawatan lansia di AI EXPO KOREA 2026 yang digelar di COEX, Gangnam, Seoul. Robot tersebut diperkenalkan sebagai yang pertama di sektor keuangan dan menerapkan teknologi kecerdasan buatan pada bidang perawatan lansia. KB Financial menyatakan langkah ini menunjukkan arah perluasan cakupan layanan keuangan. Pameran tersebut memperlihatkan bagaimana perusahaan keuangan berupaya memakai AI bukan hanya untuk konsultasi atau efisiensi internal, tetapi juga untuk mendukung kehidupan pelanggan. Sumber: yna.co.kr"
       }
     }
   }
