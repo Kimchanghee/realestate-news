@@ -1,5 +1,230 @@
 [
   {
+    "id": "f7e52c895373",
+    "slug": "기업-맞춤형-집중교육으로-직업계고-인재-3천명-육성한다-376243",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T00:12:30.648Z",
+    "updatedAt": "2026-05-10T00:12:30.648Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508138700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508138700530",
+    "titleFingerprint": "09366cb93aac4c9cd864b3ce5de6eba3e14fef54",
+    "dedupKeys": [
+      "f7e52c8953735ac5c982b9e260460fcaf1b02192",
+      "09366cb93aac4c9cd864b3ce5de6eba3e14fef54",
+      "24f23909fb7ef802119bc5b86e81c02e14b164a9"
+    ],
+    "imageUrl": "/images/articles/f7e52c895373.jpg",
+    "i18n": {
+      "ko": {
+        "title": "직업계고 인재 3천명 육성, 기업 맞춤형 채용연계 직무교육 시작",
+        "excerpt": "교육부와 대한상공회의소가 11일부터 2026년 직업계고 채용연계형 직무교육과정 지원사업 참여 학생을 모집해 기업 맞춤형 집중교육으로 인재 3천명을 육성한다.",
+        "body": "교육부와 대한상공회의소는 11일부터 ‘2026년 직업계고 채용연계형 직무교육과정 지원사업’에 참여할 학생을 모집한다. 이번 사업은 직업계고 학생을 대상으로 기업 맞춤형 집중교육을 제공해 채용과 연계할 수 있는 실무형 인재를 기르는 데 목적이 있다. 모집과 교육을 통해 육성할 인원은 3천명 규모다. 직업계고 학생들은 기업이 필요로 하는 직무교육을 받으며 취업 준비와 현장 적응력을 높일 수 있다. 정부와 경제단체가 함께 추진하는 채용연계형 교육인 만큼 직업계고 인재 양성과 기업 수요 대응에 초점이 맞춰질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Vocational High Schools to Train 3,000 Students Through Company-Tailored Job Courses",
+        "excerpt": "South Korea’s Education Ministry and Korea Chamber of Commerce and Industry will recruit students from the 11th for a 2026 employment-linked vocational high school training program.",
+        "body": "The Ministry of Education and the Korea Chamber of Commerce and Industry will begin recruiting students on the 11th for the 2026 employment-linked job training course support project for vocational high schools. The program aims to provide company-tailored intensive training to vocational high school students and develop practical talent connected to hiring. A total of 3,000 students are expected to be trained through recruitment and education. Students will receive job training aligned with corporate needs, helping them prepare for employment and adapt to workplaces. As an employment-linked program jointly promoted by the government and an economic organization, it is expected to focus on developing vocational school talent and responding to business demand. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "職業系高校人材3千人育成、企業맞춤型の採用連携職務教育を開始",
+        "excerpt": "教育部と大韓商工会議所は11日から、2026年職業系高校採用連携型職務教育課程支援事業の参加学生を募集し、3千人を育成する。",
+        "body": "教育部と大韓商工会議所は11日から、「2026年職業系高校採用連携型職務教育課程支援事業」に参加する学生を募集する。この事業は、職業系高校の学生を対象に企業に合わせた集中教育を提供し、採用と連携できる実務型人材を育成することを目的としている。募集と教育を通じて育成する人数は3千人規模だ。学生は企業が必要とする職務教育を受け、就職準備と職場適応力を高めることができる。政府と経済団体が共同で進める採用連携型教育であるため、職業系高校人材の育成と企業需要への対応に重点が置かれる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "职业高中将培养3000名人才，启动企业定制型就业衔接培训",
+        "excerpt": "韩国教育部和大韩商工会议所将从11日起招募学生参加2026年职业高中就业衔接型岗位培训课程支持项目，培养3000名人才。",
+        "body": "韩国教育部和大韩商工会议所将从11日起招募学生，参加“2026年职业高中就业衔接型岗位培训课程支持项目”。该项目面向职业高中学生，提供企业定制型集中教育，旨在培养可与招聘相衔接的实践型人才。通过招募和培训，计划培养的人数为3000名。职业高中学生将接受企业所需的岗位培训，从而提高就业准备水平和现场适应能力。由于这是政府与经济团体共同推进的就业衔接型教育，预计重点将放在职业高中人才培养和回应企业需求上。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Escuelas vocacionales formarán a 3.000 alumnos con capacitación ligada al empleo",
+        "excerpt": "El Ministerio de Educación y la Cámara de Comercio e Industria de Corea reclutarán desde el día 11 estudiantes para un programa 2026 de formación laboral vinculada al empleo.",
+        "body": "El Ministerio de Educación y la Cámara de Comercio e Industria de Corea comenzarán el día 11 a reclutar estudiantes para el proyecto de apoyo a cursos de formación laboral vinculados al empleo en escuelas secundarias vocacionales de 2026. El programa busca ofrecer capacitación intensiva adaptada a las empresas y formar talento práctico conectado con la contratación. La escala prevista de formación es de 3.000 estudiantes. Los alumnos recibirán educación laboral requerida por las empresas, lo que puede fortalecer su preparación para el empleo y su adaptación al lugar de trabajo. Al tratarse de una iniciativa conjunta del Gobierno y una entidad económica, el foco estará en formar talento vocacional y responder a la demanda empresarial. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Escolas vocacionais formarão 3 mil alunos com cursos ligados à contratação",
+        "excerpt": "O Ministério da Educação e a Câmara de Comércio e Indústria da Coreia recrutarão, a partir do dia 11, estudantes para um programa de formação profissional vinculado ao emprego em 2026.",
+        "body": "O Ministério da Educação e a Câmara de Comércio e Indústria da Coreia começarão no dia 11 a recrutar estudantes para o projeto de apoio a cursos de formação profissional vinculados à contratação em escolas vocacionais em 2026. A iniciativa pretende oferecer treinamento intensivo adaptado às empresas e formar talentos práticos conectados ao emprego. O número previsto de estudantes a serem formados é de 3 mil. Os alunos receberão educação profissional de acordo com as necessidades das empresas, ampliando a preparação para o trabalho e a capacidade de adaptação ao ambiente profissional. Por ser um programa conjunto do governo e de uma entidade econômica, o foco deve estar na formação de talentos vocacionais e no atendimento à demanda empresarial. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Berufsschulen sollen 3.000 Talente mit firmennaher Jobausbildung fördern",
+        "excerpt": "Das Bildungsministerium und die Korea Chamber of Commerce and Industry werben ab dem 11. Schüler für ein beschäftigungsnahes Berufsbildungsprogramm 2026 an.",
+        "body": "Das Bildungsministerium und die Korea Chamber of Commerce and Industry beginnen am 11. mit der Rekrutierung von Schülern für das Förderprojekt 2026 für beschäftigungsbezogene Berufsausbildungskurse an berufsbildenden Oberschulen. Das Programm soll durch auf Unternehmen zugeschnittene Intensivschulungen praxisnahe Talente entwickeln, die mit Einstellungen verbunden werden können. Insgesamt sollen 3.000 Schüler ausgebildet werden. Die Teilnehmer erhalten berufliche Schulungen, die an den Bedarf der Unternehmen angepasst sind, und können so ihre Vorbereitung auf den Arbeitsmarkt und ihre Anpassungsfähigkeit im Betrieb stärken. Da Regierung und Wirtschaftsorganisation das Programm gemeinsam vorantreiben, liegt der Fokus auf der Förderung von Berufsschultalenten und der Reaktion auf Unternehmensnachfrage. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Les lycées professionnels formeront 3 000 élèves avec des cours liés à l’embauche",
+        "excerpt": "Le ministère de l’Éducation et la Chambre de commerce et d’industrie de Corée recruteront dès le 11 des élèves pour un programme 2026 de formation professionnelle liée à l’emploi.",
+        "body": "Le ministère de l’Éducation et la Chambre de commerce et d’industrie de Corée commenceront le 11 à recruter des élèves pour le projet 2026 de soutien aux cursus de formation professionnelle liés à l’embauche dans les lycées professionnels. Le programme vise à proposer une formation intensive adaptée aux entreprises afin de former des talents pratiques pouvant être reliés au recrutement. Le nombre d’élèves à former est fixé à 3 000. Les participants recevront une formation correspondant aux besoins des entreprises, ce qui pourra renforcer leur préparation à l’emploi et leur capacité d’adaptation au terrain. Comme il s’agit d’une initiative conjointe du gouvernement et d’une organisation économique, l’accent devrait être mis sur la formation des talents des lycées professionnels et la réponse à la demande des entreprises. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تدريب 3 آلاف طالب مهني عبر برامج مخصصة للشركات ومرتبطة بالتوظيف",
+        "excerpt": "تبدأ وزارة التعليم وغرفة التجارة والصناعة الكورية من يوم 11 في استقبال طلبات الطلاب لبرنامج 2026 للتدريب المهني المرتبط بالتوظيف في المدارس الثانوية المهنية.",
+        "body": "تبدأ وزارة التعليم وغرفة التجارة والصناعة الكورية من يوم 11 في募集 الطلاب للمشاركة في مشروع دعم دورات التدريب الوظيفي المرتبطة بالتوظيف للمدارس الثانوية المهنية لعام 2026. يهدف البرنامج إلى تقديم تعليم مكثف مخصص لاحتياجات الشركات لطلاب المدارس المهنية، وتنمية كوادر عملية يمكن ربطها بفرص التوظيف. ويبلغ حجم المستهدفين بالتدريب 3 آلاف طالب. سيحصل الطلاب على تدريب وظيفي تحتاجه الشركات، بما يساعدهم على تعزيز الاستعداد للعمل والقدرة على التكيف في مواقع العمل. وبما أن البرنامج تنفذه الحكومة مع منظمة اقتصادية، فمن المتوقع أن يركز على تنمية مواهب التعليم المهني والاستجابة لاحتياجات الشركات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "व्यावसायिक हाई स्कूलों में 3,000 छात्रों को कंपनी-केंद्रित नौकरी प्रशिक्षण",
+        "excerpt": "शिक्षा मंत्रालय और कोरिया चैंबर ऑफ कॉमर्स एंड इंडस्ट्री 11 तारीख से 2026 के रोजगार-संबद्ध व्यावसायिक हाई स्कूल प्रशिक्षण कार्यक्रम के लिए छात्रों की भर्ती करेंगे।",
+        "body": "शिक्षा मंत्रालय और कोरिया चैंबर ऑफ कॉमर्स एंड इंडस्ट्री 11 तारीख से ‘2026 व्यावसायिक हाई स्कूल रोजगार-संबद्ध नौकरी प्रशिक्षण पाठ्यक्रम सहायता परियोजना’ में भाग लेने वाले छात्रों की भर्ती शुरू करेंगे। इस कार्यक्रम का उद्देश्य व्यावसायिक हाई स्कूल के छात्रों को कंपनियों की जरूरतों के अनुरूप गहन प्रशिक्षण देना और रोजगार से जुड़ सकने वाली व्यावहारिक प्रतिभा तैयार करना है। भर्ती और प्रशिक्षण के माध्यम से कुल 3,000 छात्रों को तैयार किया जाएगा। छात्र कंपनियों द्वारा आवश्यक नौकरी प्रशिक्षण प्राप्त करेंगे, जिससे उनकी रोजगार तैयारी और कार्यस्थल अनुकूलन क्षमता बढ़ सकेगी। सरकार और आर्थिक संगठन द्वारा संयुक्त रूप से चलाए जा रहे इस रोजगार-संबद्ध कार्यक्रम का ध्यान व्यावसायिक प्रतिभा विकास और कंपनियों की मांग पर रहेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "SMK Akan Latih 3.000 Talenta Lewat Pendidikan Kerja Khusus Perusahaan",
+        "excerpt": "Kementerian Pendidikan dan Kamar Dagang serta Industri Korea mulai tanggal 11 merekrut siswa untuk program 2026 pelatihan kerja SMK yang terhubung dengan perekrutan.",
+        "body": "Kementerian Pendidikan dan Kamar Dagang serta Industri Korea akan mulai merekrut siswa pada tanggal 11 untuk mengikuti proyek dukungan kurikulum pelatihan kerja SMK yang terhubung dengan perekrutan tahun 2026. Program ini bertujuan memberikan pelatihan intensif yang disesuaikan dengan kebutuhan perusahaan bagi siswa SMK, serta membina talenta praktis yang dapat dikaitkan dengan pekerjaan. Jumlah peserta yang akan dibina melalui rekrutmen dan pendidikan ini mencapai 3.000 siswa. Para siswa akan menerima pelatihan kerja yang dibutuhkan perusahaan, sehingga dapat meningkatkan kesiapan kerja dan kemampuan beradaptasi di lapangan. Karena dijalankan bersama oleh pemerintah dan organisasi ekonomi, program ini diperkirakan berfokus pada pengembangan talenta SMK dan pemenuhan kebutuhan perusahaan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "593d2367b624",
+    "slug": "충북도-중소기업협동조합-활성화-팔-걷어경쟁력-강화-지원-733841",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T00:11:36.654Z",
+    "updatedAt": "2026-05-10T00:11:36.654Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508146400064",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508146400064",
+    "titleFingerprint": "3cd3b37fe54b0a5f268939bc2133eac48cbe47d8",
+    "dedupKeys": [
+      "593d2367b6246c2332a7ad43ff2c3c96f48ec675",
+      "3cd3b37fe54b0a5f268939bc2133eac48cbe47d8",
+      "22947c20fe67437e52df1f682347078e092e48bd"
+    ],
+    "imageUrl": "/images/articles/593d2367b624.jpg",
+    "i18n": {
+      "ko": {
+        "title": "충북도 중소기업협동조합 활성화 추진, 기업 협업으로 경쟁력 강화 지원",
+        "excerpt": "충북도가 개별기업 중심 지원에서 벗어나 중소기업 간 협업조직인 중소기업협동조합 활성화에 나서며 지역 중소기업 경쟁력 강화를 지원한다.",
+        "body": "충북도가 중소기업 경쟁력 강화를 위해 중소기업협동조합 활성화 지원에 나선다. 연합뉴스 보도에 따르면 충북도는 기존의 개별기업 중심 지원 정책에서 벗어나, 중소기업들이 함께 협업할 수 있는 조직인 중소기업협동조합을 키우는 방향으로 지원의 초점을 넓히고 있다. 중소기업협동조합은 여러 기업이 공동의 필요와 과제를 바탕으로 협력하는 조직이다. 충북도는 이러한 협업 기반을 통해 개별 기업이 단독으로 대응하기 어려운 경쟁력 강화 과제를 함께 풀어갈 수 있도록 지원하려는 취지다. 이번 움직임은 지역 중소기업 지원 정책의 방향이 개별 지원을 넘어 기업 간 협력 구조 강화로 확장되고 있음을 보여준다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Chungbuk Moves to Boost SME Cooperatives and Support Competitiveness",
+        "excerpt": "Chungbuk Province is shifting beyond individual company support to promote SME cooperatives, aiming to strengthen collaboration among small and medium-sized firms.",
+        "body": "Chungbuk Province will support the revitalization of small and medium-sized enterprise cooperatives to strengthen SME competitiveness. According to Yonhap News Agency, the province is moving away from support policies centered mainly on individual companies and widening its focus toward SME cooperatives, organizations that allow small and medium-sized firms to collaborate. These cooperatives are designed around shared needs and common business challenges among multiple companies. Chungbuk’s initiative is intended to help firms address competitiveness issues that may be difficult to handle alone through a cooperative structure. The move shows that the province’s SME policy direction is expanding from individual assistance to stronger inter-company collaboration. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "忠清北道、中小企業協同組合の活性化へ 企業連携で競争力強化を支援",
+        "excerpt": "忠清北道は個別企業中心の支援政策から一歩進め、中小企業間の協業組織である中小企業協同組合の活性化支援に乗り出す。",
+        "body": "忠清北道が中小企業の競争力強化に向け、中小企業協同組合の活性化支援に乗り出す。聯合ニュースによると、忠清北道はこれまでの個別企業中心の支援政策から離れ、中小企業が協力できる組織である中小企業協同組合を育成する方向へ支援の焦点を広げている。中小企業協同組合は、複数の企業が共通の必要や課題をもとに協力する組織だ。忠清北道はこうした協業基盤を通じ、個別企業だけでは対応しにくい競争力強化の課題を共同で解決できるよう支援する考えだ。今回の動きは、地域の中小企業支援政策が個別支援を越え、企業間協力構造の強化へ拡大していることを示している。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "忠清北道推动中小企业合作社发展 以企业协作强化竞争力",
+        "excerpt": "忠清北道将摆脱以单个企业为中心的支持方式，推动中小企业合作社发展，支持中小企业之间协作并提升竞争力。",
+        "body": "忠清北道将为提升中小企业竞争力，支持中小企业合作社的活跃发展。据韩联社报道，忠清北道正从以单个企业为中心的支持政策中进一步转向，把支持重点扩大到中小企业之间可开展协作的组织，即中小企业合作社。中小企业合作社是多个企业基于共同需求和课题进行合作的组织。忠清北道此举旨在通过这种协作基础，帮助企业共同应对单个企业难以独自解决的竞争力提升问题。这一动向显示，地方中小企业支持政策正从个别扶持扩展到强化企业间合作结构。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Chungbuk impulsa cooperativas de pymes para reforzar la competitividad empresarial",
+        "excerpt": "La provincia de Chungbuk dejará atrás el apoyo centrado solo en empresas individuales y promoverá cooperativas de pymes para fortalecer la colaboración.",
+        "body": "La provincia de Chungbuk apoyará la revitalización de las cooperativas de pequeñas y medianas empresas para reforzar su competitividad. Según Yonhap News Agency, la provincia busca apartarse de una política de apoyo centrada principalmente en compañías individuales y ampliar su enfoque hacia las cooperativas de pymes, organizaciones que permiten la colaboración entre empresas. Estas cooperativas reúnen a varias compañías en torno a necesidades y desafíos comunes. La intención de Chungbuk es ayudar a que las pymes aborden, mediante una estructura cooperativa, tareas de fortalecimiento competitivo que pueden resultar difíciles de resolver por separado. La medida muestra que la política regional de apoyo a las pymes se expande desde la asistencia individual hacia una mayor cooperación entre empresas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Chungbuk impulsiona cooperativas de PMEs para fortalecer competitividade",
+        "excerpt": "A província de Chungbuk deixará o foco exclusivo em empresas individuais e apoiará cooperativas de PMEs para ampliar a colaboração empresarial.",
+        "body": "A província de Chungbuk apoiará a revitalização das cooperativas de pequenas e médias empresas para fortalecer a competitividade das PMEs. Segundo a Yonhap News Agency, o governo provincial está deixando de lado uma política centrada principalmente em empresas individuais e ampliando o foco para cooperativas de PMEs, organizações que permitem a colaboração entre empresas. Essas cooperativas reúnem várias companhias em torno de necessidades e desafios comuns. A iniciativa de Chungbuk busca ajudar as empresas a enfrentar, por meio de uma estrutura cooperativa, tarefas de fortalecimento competitivo que podem ser difíceis de resolver isoladamente. O movimento mostra que a política regional de apoio às PMEs está se expandindo da assistência individual para o reforço da cooperação entre empresas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Chungbuk fördert KMU-Genossenschaften zur Stärkung der Wettbewerbsfähigkeit",
+        "excerpt": "Die Provinz Chungbuk erweitert ihre Förderung über einzelne Unternehmen hinaus und will KMU-Genossenschaften als Kooperationsform stärker unterstützen.",
+        "body": "Die Provinz Chungbuk will die Aktivierung von Genossenschaften kleiner und mittlerer Unternehmen unterstützen, um deren Wettbewerbsfähigkeit zu stärken. Nach Angaben der Nachrichtenagentur Yonhap rückt die Provinz von einer Förderpolitik ab, die vor allem auf einzelne Unternehmen ausgerichtet war, und erweitert ihren Fokus auf KMU-Genossenschaften. Dabei handelt es sich um Organisationen, in denen kleine und mittlere Unternehmen zusammenarbeiten können. Solche Genossenschaften beruhen auf gemeinsamen Bedürfnissen und Aufgaben mehrerer Firmen. Chungbuk will damit Unternehmen helfen, Herausforderungen zur Stärkung der Wettbewerbsfähigkeit gemeinsam anzugehen, die einzeln schwer zu bewältigen sein können. Der Schritt zeigt, dass sich die regionale KMU-Politik von individueller Unterstützung hin zu stärkeren Kooperationsstrukturen zwischen Unternehmen ausweitet. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Chungbuk soutient les coopératives de PME pour renforcer leur compétitivité",
+        "excerpt": "La province de Chungbuk élargit son soutien au-delà des entreprises individuelles et veut dynamiser les coopératives de PME pour favoriser la collaboration.",
+        "body": "La province de Chungbuk va soutenir la revitalisation des coopératives de petites et moyennes entreprises afin de renforcer leur compétitivité. Selon Yonhap News Agency, la province s’éloigne d’une politique d’aide centrée principalement sur les entreprises individuelles et élargit son action aux coopératives de PME, des organisations permettant aux entreprises de collaborer. Ces coopératives reposent sur des besoins et des enjeux communs à plusieurs sociétés. L’objectif de Chungbuk est d’aider les entreprises à traiter ensemble, grâce à une structure coopérative, des défis de compétitivité difficiles à résoudre seules. Cette initiative montre que la politique régionale de soutien aux PME s’étend de l’aide individuelle au renforcement de la coopération entre entreprises. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تشونغبوك تدعم تعاونيات الشركات الصغيرة والمتوسطة لتعزيز التنافسية",
+        "excerpt": "تتجه مقاطعة تشونغبوك إلى تجاوز دعم الشركات الفردية عبر تنشيط تعاونيات الشركات الصغيرة والمتوسطة وتعزيز التعاون بينها لرفع التنافسية.",
+        "body": "تعتزم مقاطعة تشونغبوك دعم تنشيط تعاونيات الشركات الصغيرة والمتوسطة من أجل تعزيز قدرتها التنافسية. ووفقًا لوكالة يونهاب للأنباء، تتحرك المقاطعة بعيدًا عن سياسات الدعم التي تركز أساسًا على الشركات الفردية، لتوسيع تركيزها نحو تعاونيات الشركات الصغيرة والمتوسطة، وهي تنظيمات تتيح للشركات التعاون فيما بينها. تقوم هذه التعاونيات على احتياجات وتحديات مشتركة بين عدة شركات. وتهدف تشونغبوك من خلال هذا الأساس التعاوني إلى مساعدة الشركات على معالجة مهام تعزيز التنافسية التي قد يصعب على كل شركة التعامل معها منفردة. وتظهر هذه الخطوة أن سياسة دعم الشركات الصغيرة والمتوسطة في المنطقة تتوسع من الدعم الفردي إلى تقوية هيكل التعاون بين الشركات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "चुंगबुक एसएमई सहकारी समितियों को बढ़ावा देकर प्रतिस्पर्धा मजबूत करेगा",
+        "excerpt": "चुंगबुक प्रांत व्यक्तिगत कंपनियों पर केंद्रित सहायता से आगे बढ़कर एसएमई सहकारी समितियों को सक्रिय करेगा, ताकि कंपनियों के बीच सहयोग मजबूत हो।",
+        "body": "चुंगबुक प्रांत छोटे और मध्यम उद्यमों की प्रतिस्पर्धात्मक क्षमता बढ़ाने के लिए एसएमई सहकारी समितियों को सक्रिय करने में सहायता करेगा। योनहाप समाचार एजेंसी के अनुसार, प्रांत अब केवल व्यक्तिगत कंपनियों पर केंद्रित सहायता नीति से आगे बढ़कर उन संगठनों पर ध्यान बढ़ा रहा है जिनमें छोटे और मध्यम उद्यम मिलकर काम कर सकते हैं। एसएमई सहकारी समितियां कई कंपनियों की साझा जरूरतों और चुनौतियों के आधार पर सहयोग की संरचना देती हैं। चुंगबुक का उद्देश्य इस सहयोगी आधार के जरिए कंपनियों को उन प्रतिस्पर्धात्मक मुद्दों से मिलकर निपटने में मदद करना है जिन्हें अकेले हल करना कठिन हो सकता है। यह कदम दिखाता है कि क्षेत्रीय एसएमई समर्थन नीति व्यक्तिगत सहायता से आगे बढ़कर कंपनियों के बीच सहयोग संरचना को मजबूत करने की दिशा में फैल रही है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Chungbuk Dorong Koperasi UKM untuk Perkuat Daya Saing Perusahaan",
+        "excerpt": "Provinsi Chungbuk akan melampaui dukungan yang berpusat pada perusahaan individu dengan mengaktifkan koperasi UKM sebagai wadah kolaborasi usaha.",
+        "body": "Provinsi Chungbuk akan mendukung pengaktifan koperasi usaha kecil dan menengah untuk memperkuat daya saing UKM. Menurut Kantor Berita Yonhap, pemerintah provinsi bergerak dari kebijakan dukungan yang terutama berpusat pada perusahaan individu menuju fokus yang lebih luas pada koperasi UKM, yaitu organisasi yang memungkinkan perusahaan kecil dan menengah berkolaborasi. Koperasi tersebut dibentuk berdasarkan kebutuhan dan tantangan bersama di antara sejumlah perusahaan. Melalui basis kerja sama ini, Chungbuk bermaksud membantu perusahaan menangani agenda penguatan daya saing yang mungkin sulit diselesaikan secara sendiri-sendiri. Langkah ini menunjukkan bahwa arah kebijakan dukungan UKM daerah meluas dari bantuan individual menuju penguatan struktur kolaborasi antarpelaku usaha. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6c5582b5fb3e",
+    "slug": "최고-82오늘부터-다주택자-양도세-중과-적용-450236",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T00:10:27.481Z",
+    "updatedAt": "2026-05-10T00:10:27.481Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042430",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042430",
+    "titleFingerprint": "367295a159625abb84b65f42d0645e9fb5682aff",
+    "dedupKeys": [
+      "6c5582b5fb3ed95af82ce1838d915bab1bb38dd3",
+      "367295a159625abb84b65f42d0645e9fb5682aff",
+      "64b03209f2b4e29b2fb094badf46b5fe20c11571"
+    ],
+    "imageUrl": "/images/articles/6c5582b5fb3e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 오늘부터 적용…최고 82% 세율 부활",
+        "excerpt": "정부의 한시적 양도소득세 중과 유예가 9일 종료되면서 10일부터 다주택자 양도세 중과 제도가 4년 만에 다시 적용된다.",
+        "body": "다주택자에 대한 양도소득세 중과 제도가 10일부터 다시 적용된다. 관계부처에 따르면 정부가 한시적으로 운영해온 양도세 중과 유예 조치가 전날인 9일 종료되면서 이날부터 다주택자는 중과 대상이 된다. 이번 조치는 4년 만의 제도 부활로, 원문은 최고 세율이 82%에 이를 수 있다고 전했다. 그동안 유예로 적용이 멈췄던 다주택자 양도세 중과가 재개되면서 주택을 여러 채 보유한 매도자의 세 부담과 매각 판단에 직접적인 영향을 줄 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Multiple-home capital gains tax surcharge returns today, with top rate at 82%",
+        "excerpt": "South Korea’s temporary suspension of the capital gains tax surcharge ended on May 9, bringing the rule back for multiple-home owners from May 10 after four years.",
+        "body": "South Korea’s capital gains tax surcharge for multiple-home owners takes effect again from May 10. According to relevant ministries, the government’s temporary suspension of the surcharge ended the previous day, May 9, making multiple-home owners subject to the rule from today. The system is returning after four years, and the original report said the top tax rate could reach 82%. With the surcharge now resumed after a temporary pause, sellers who own several homes may face a direct impact on their tax burden and decisions about selling. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課が今日から再適用、最高82％が復活",
+        "excerpt": "政府が一時的に実施していた譲渡所得税重課の猶予措置が9日に終了し、10日から多住宅保有者への重課制度が4年ぶりに再開される。",
+        "body": "多住宅保有者に対する譲渡所得税の重課制度が10日から再び適用される。関係省庁によると、政府が一時的に運用してきた譲渡税重課の猶予措置は前日の9日に終了し、この日から多住宅保有者は重課対象となる。今回の措置は4年ぶりの制度復活で、原文は最高税率が82％に達する可能性があると伝えた。猶予により停止していた重課が再開されることで、複数の住宅を保有する売却者の税負担や売却判断に直接影響する可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "多套房持有者转让税重课今日恢复，最高税率达82%",
+        "excerpt": "韩国政府临时实施的转让所得税重课暂缓措施已于9日结束，从10日起，多套房持有者重课制度时隔4年重新适用。",
+        "body": "针对多套房持有者的转让所得税重课制度自10日起重新适用。相关部门表示，政府此前临时实施的转让税重课暂缓措施已于前一日即9日结束，从当天起，多套房持有者将成为重课对象。此次措施意味着该制度时隔4年恢复，原文报道称最高税率可能达到82%。随着此前因暂缓而停止适用的多套房转让税重课重启，持有多套住宅的卖方在税负和出售判断上可能受到直接影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vuelve hoy el recargo al impuesto por venta de viviendas múltiples: hasta 82%",
+        "excerpt": "La suspensión temporal del recargo al impuesto sobre ganancias de capital terminó el 9 de mayo, y desde el día 10 vuelve a aplicarse a propietarios de varias viviendas.",
+        "body": "El recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas vuelve a aplicarse desde el 10 de mayo. Según los ministerios competentes, la suspensión temporal que mantenía el Gobierno terminó el día anterior, 9 de mayo, por lo que desde hoy los propietarios de múltiples viviendas quedan sujetos al recargo. La medida supone el regreso del sistema tras cuatro años, y el reporte original indicó que la tasa máxima podría llegar al 82%. Al reanudarse un recargo que había estado suspendido, la carga fiscal y las decisiones de venta de quienes poseen varias viviendas pueden verse directamente afectadas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganho de capital para múltiplos imóveis volta hoje, até 82%",
+        "excerpt": "A suspensão temporária da sobretaxa sobre ganhos de capital terminou em 9 de maio, e desde o dia 10 a regra volta a valer para proprietários de vários imóveis.",
+        "body": "A sobretaxa sobre ganhos de capital para proprietários de vários imóveis volta a ser aplicada a partir de 10 de maio. Segundo os ministérios responsáveis, a medida temporária de suspensão mantida pelo governo terminou no dia anterior, 9 de maio, tornando esses proprietários sujeitos à regra a partir de hoje. A retomada marca o retorno do sistema após quatro anos, e a reportagem original informou que a alíquota máxima pode chegar a 82%. Com o fim da suspensão, vendedores que possuem várias casas podem sentir impacto direto na carga tributária e na decisão de vender. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mehrhausbesitzer zahlen ab heute wieder Zuschlag auf Veräußerungssteuer bis 82%",
+        "excerpt": "Die befristete Aussetzung des Zuschlags auf die Kapitalertragsteuer endete am 9. Mai; seit dem 10. Mai gilt die Regel nach vier Jahren wieder für Mehrhausbesitzer.",
+        "body": "Der Zuschlag auf die Kapitalertragsteuer für Besitzer mehrerer Wohnungen gilt ab dem 10. Mai wieder. Nach Angaben der zuständigen Ministerien endete die von der Regierung vorübergehend betriebene Aussetzung des Zuschlags am Vortag, dem 9. Mai, sodass Mehrhausbesitzer ab heute wieder erfasst werden. Damit kehrt das System nach vier Jahren zurück; der Originalbericht nennt einen möglichen Spitzensteuersatz von 82%. Da der zuvor ausgesetzte Zuschlag nun wieder angewendet wird, können Steuerlast und Verkaufsentscheidungen von Eigentümern mehrerer Wohnungen direkt betroffen sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La surtaxe sur les plus-values des multipropriétaires revient aujourd’hui, jusqu’à 82%",
+        "excerpt": "La suspension temporaire de la surtaxe sur les plus-values immobilières a pris fin le 9 mai; depuis le 10 mai, elle s’applique de nouveau aux multipropriétaires.",
+        "body": "La surtaxe sur les plus-values immobilières visant les propriétaires de plusieurs logements s’applique de nouveau à partir du 10 mai. Selon les ministères concernés, la suspension temporaire mise en place par le gouvernement a pris fin la veille, le 9 mai, rendant ces propriétaires de nouveau concernés dès aujourd’hui. Cette mesure marque le retour du dispositif après quatre ans, et l’article original indique que le taux maximal pourrait atteindre 82%. La reprise de cette surtaxe, jusque-là suspendue, peut peser directement sur la charge fiscale et les décisions de vente des propriétaires de plusieurs logements. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عودة ضريبة الأرباح الرأسمالية المشددة على مالكي عدة منازل اليوم حتى 82%",
+        "excerpt": "انتهى في 9 مايو تعليق الحكومة المؤقت لتشديد ضريبة الأرباح الرأسمالية، لتعود القاعدة في 10 مايو على مالكي عدة منازل بعد أربع سنوات.",
+        "body": "تعود ضريبة الأرباح الرأسمالية المشددة على مالكي عدة منازل إلى التطبيق اعتبارا من 10 مايو. ووفقا للجهات الحكومية المعنية، انتهى في اليوم السابق، 9 مايو، إجراء التعليق المؤقت الذي كانت الحكومة تطبقه على هذه الضريبة، ليصبح مالكو عدة منازل مشمولين بها من اليوم. وتمثل الخطوة عودة للنظام بعد أربع سنوات، وذكر التقرير الأصلي أن المعدل الأعلى قد يصل إلى 82%. ومع استئناف الضريبة بعد فترة تعليق، قد يتأثر عبء الضريبة وقرار البيع لدى من يملكون أكثر من منزل بشكل مباشر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कई घर मालिकों पर पूंजीगत लाभ कर अधिभार आज से लागू, दर 82% तक",
+        "excerpt": "सरकार की अस्थायी पूंजीगत लाभ कर अधिभार छूट 9 मई को समाप्त हुई, जिससे 10 मई से कई घर रखने वालों पर यह व्यवस्था चार साल बाद फिर लागू हो गई।",
+        "body": "कई घर रखने वालों पर पूंजीगत लाभ कर अधिभार 10 मई से फिर लागू हो गया है। संबंधित मंत्रालयों के अनुसार, सरकार द्वारा अस्थायी रूप से चलाई जा रही अधिभार छूट एक दिन पहले, 9 मई को समाप्त हो गई, इसलिए आज से कई घर मालिक इस नियम के दायरे में आएंगे। यह व्यवस्था चार साल बाद वापस आई है, और मूल रिपोर्ट में बताया गया कि अधिकतम कर दर 82% तक पहुंच सकती है। छूट अवधि में रुका हुआ यह अधिभार फिर शुरू होने से कई आवास रखने वाले विक्रेताओं के कर बोझ और बिक्री से जुड़े फैसलों पर सीधा असर पड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pajak capital gain tambahan bagi pemilik banyak rumah berlaku hari ini, hingga 82%",
+        "excerpt": "Penangguhan sementara pajak capital gain tambahan berakhir pada 9 Mei, sehingga mulai 10 Mei aturan untuk pemilik banyak rumah kembali berlaku setelah empat tahun.",
+        "body": "Pajak capital gain tambahan bagi pemilik banyak rumah kembali berlaku mulai 10 Mei. Menurut kementerian terkait, kebijakan penangguhan sementara yang dijalankan pemerintah berakhir sehari sebelumnya, 9 Mei, sehingga mulai hari ini pemilik beberapa rumah menjadi subjek aturan tersebut. Langkah ini menandai kembalinya sistem setelah empat tahun, dan laporan asli menyebut tarif tertinggi dapat mencapai 82%. Dengan berlakunya kembali pajak tambahan yang sempat ditangguhkan, beban pajak dan keputusan menjual bagi pemilik beberapa rumah dapat terdampak langsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4747a4420e00",
     "slug": "인천시-도시주거환경정비사업에-지역업체-인센티브-강화-842548",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Lelang Apartemen Seoul Capai 48,7%, Tertinggi dalam Lima Bulan",
         "excerpt": "Apartemen Seoul yang masuk lelang bulan lalu mencatat tingkat keberhasilan 48,7%, level tertinggi sejak November tahun lalu, menurut Yonhap.",
         "body": "Tingkat keberhasilan lelang apartemen Seoul yang masuk pasar lelang bulan lalu mencapai 48,7%, menjadi level tertinggi dalam lima bulan. Menurut Kantor Berita Yonhap, angka ini merupakan yang tertinggi sejak November tahun lalu. Tingkat keberhasilan lelang menunjukkan proporsi properti yang benar-benar terjual dari seluruh objek lelang, dan digunakan untuk membaca arah pasar lelang apartemen di Seoul. Angka terbaru ini menarik perhatian karena hampir separuh apartemen Seoul yang dilelang menemukan pembeli. Ke depan, data tersebut diperkirakan menjadi rujukan bersama indikator terkait saat menilai pergerakan pasar lelang. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4ccea825ed34",
-    "slug": "농식품부-중동-사태-대응팀-가동봄철-농자재-수급-안정-675299",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T16:37:05.340Z",
-    "updatedAt": "2026-05-09T16:37:05.340Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508069700030",
-    "titleFingerprint": "5659a5e5bf0b46af4185a634a39c793b471def8c",
-    "dedupKeys": [
-      "4ccea825ed3496bc15df47a5f5776d3805d5e484",
-      "5659a5e5bf0b46af4185a634a39c793b471def8c",
-      "3ade34dacb06487acda2efeeda614083003538ac"
-    ],
-    "imageUrl": "/images/articles/4ccea825ed34.jpg",
-    "i18n": {
-      "ko": {
-        "title": "농식품부 중동 사태 대응팀 가동, 봄철 농자재 수급 안정 유지",
-        "excerpt": "농림축산식품부는 중동 전쟁 장기화에도 주요 농자재 수급이 안정적으로 이뤄지고 있다며 봄철 영농 활동이 차질 없이 진행되고 있다고 밝혔다.",
-        "body": "농림축산식품부는 중동 전쟁 장기화에 대응하기 위해 ‘중동 사태 대응팀’을 가동하고 주요 농자재 수급 상황을 점검하고 있다. 9일 연합뉴스 보도에 따르면 농식품부는 비료 등 봄철 영농에 필요한 주요 농자재 공급이 안정적으로 이뤄지고 있어 영농 활동은 차질 없이 진행되고 있다고 밝혔다. 중동 정세 불안이 장기화되면 물류와 원자재 가격 변동 우려가 커질 수 있지만, 현재까지 주요 농자재 수급에는 큰 이상이 없는 상황이다. 농식품부는 대응팀을 통해 관련 동향을 살피며 봄철 농업 현장의 수급 안정을 이어간다는 방침이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Agriculture Ministry Launches Middle East Response Team as Farm Supplies Stay Stable",
-        "excerpt": "South Korea’s Agriculture Ministry said key farm materials remain stably supplied despite the prolonged Middle East war, allowing spring farming to proceed without disruption.",
-        "body": "South Korea’s Ministry of Agriculture, Food and Rural Affairs has launched a “Middle East situation response team” to monitor the supply of key agricultural materials as the war in the Middle East continues. According to a Yonhap News report on May 9, the ministry said major supplies needed for spring farming, including fertilizers, are being provided steadily, so farming activities are proceeding without disruption. Prolonged instability in the Middle East could raise concerns over logistics and raw material price swings, but no major problems have been reported so far in the supply of essential farm inputs. The ministry plans to keep tracking related developments through the response team and maintain supply stability for spring farming. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "農食品部が中東情勢対応チーム稼働、春の農資材需給は安定",
-        "excerpt": "韓国農林畜産食品部は、中東戦争の長期化にも主要農資材の供給は安定しており、春の営農活動は支障なく進んでいると明らかにした。",
-        "body": "韓国農林畜産食品部は、中東戦争の長期化に対応するため「中東情勢対応チーム」を稼働し、主要農資材の需給状況を点検している。5月9日の聯合ニュース報道によると、同部は肥料など春の営農に必要な主要農資材の供給が安定的に行われており、営農活動は支障なく進んでいると説明した。中東情勢の不安が長引けば物流や原材料価格の変動への懸念が高まる可能性があるが、現時点で主要農資材の需給に大きな異常はない状況だ。同部は対応チームを通じて関連動向を注視し、春の農業現場の需給安定を維持する方針だ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国农食品部启动中东局势应对组，春季农资供应保持稳定",
-        "excerpt": "韩国农林畜产食品部表示，尽管中东战争长期化，主要农资供应仍保持稳定，春季农业生产正无障碍推进。",
-        "body": "韩国农林畜产食品部已启动“中东局势应对组”，以应对中东战争长期化，并检查主要农业资材的供需情况。据韩联社5月9日报道，农食品部表示，包括肥料在内的春季农业生产所需主要农资供应稳定，因此春季农事活动正在无障碍推进。若中东局势不安持续，物流和原材料价格波动的担忧可能上升，但截至目前，主要农资供需尚未出现重大异常。农食品部计划通过应对组持续关注相关动向，维持春季农业一线的供应稳定。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Agricultura activa equipo por crisis en Oriente Medio y estabiliza insumos de primavera",
-        "excerpt": "El Ministerio de Agricultura de Corea del Sur dijo que, pese a la prolongación de la guerra en Oriente Medio, los principales insumos agrícolas se suministran con estabilidad.",
-        "body": "El Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur puso en marcha un “equipo de respuesta a la situación de Oriente Medio” para revisar el suministro de insumos agrícolas clave ante la prolongación de la guerra en la región. Según informó Yonhap el 9 de mayo, el ministerio señaló que los principales materiales necesarios para las labores agrícolas de primavera, incluidos fertilizantes, se están suministrando de forma estable, por lo que las actividades agrícolas avanzan sin contratiempos. Si la inestabilidad en Oriente Medio se prolonga, podrían aumentar las preocupaciones por la logística y los precios de materias primas, pero hasta ahora no se han detectado problemas importantes en el suministro. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Agricultura aciona equipe para Oriente Médio e mantém insumos de primavera estáveis",
-        "excerpt": "O Ministério da Agricultura da Coreia do Sul afirmou que, apesar da guerra prolongada no Oriente Médio, os principais insumos agrícolas seguem com fornecimento estável.",
-        "body": "O Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul colocou em operação uma “equipe de resposta à situação no Oriente Médio” para acompanhar o fornecimento dos principais insumos agrícolas diante da guerra prolongada na região. Segundo a Yonhap em 9 de maio, o ministério informou que materiais essenciais para o cultivo de primavera, incluindo fertilizantes, estão sendo fornecidos de forma estável, permitindo que as atividades agrícolas avancem sem interrupções. A instabilidade prolongada no Oriente Médio pode aumentar preocupações com logística e preços de matérias-primas, mas até agora não há grandes anormalidades no abastecimento dos principais insumos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Agrarministerium startet Nahost-Krisenteam, Frühjahrsbedarf bleibt stabil",
-        "excerpt": "Südkoreas Agrarministerium erklärte, dass trotz des langwierigen Kriegs im Nahen Osten wichtige Agrarmaterialien stabil geliefert werden und die Frühjahrsarbeit planmäßig läuft.",
-        "body": "Das südkoreanische Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten hat ein „Reaktionsteam für die Nahost-Lage“ eingesetzt, um die Versorgung mit wichtigen Agrarmaterialien angesichts des anhaltenden Kriegs im Nahen Osten zu überwachen. Laut einem Bericht von Yonhap vom 9. Mai teilte das Ministerium mit, dass zentrale Materialien für die Frühjahrslandwirtschaft, darunter Düngemittel, stabil geliefert werden und die landwirtschaftlichen Arbeiten ohne Störung vorangehen. Eine längere Unsicherheit im Nahen Osten könnte Sorgen über Logistik und Rohstoffpreise verstärken, doch bislang gibt es keine größeren Auffälligkeiten bei der Versorgung mit wichtigen Betriebsmitteln. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Séoul active une équipe Moyen-Orient, les intrants agricoles restent stables",
-        "excerpt": "Le ministère sud-coréen de l’Agriculture a indiqué que, malgré la guerre prolongée au Moyen-Orient, les principaux intrants agricoles sont fournis de manière stable.",
-        "body": "Le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales a lancé une « équipe de réponse à la situation au Moyen-Orient » afin de surveiller l’approvisionnement en principaux intrants agricoles face à la prolongation de la guerre dans la région. Selon Yonhap le 9 mai, le ministère a déclaré que les matériaux nécessaires aux travaux agricoles de printemps, dont les engrais, sont fournis de façon stable, permettant aux activités agricoles de se poursuivre sans perturbation. Une instabilité durable au Moyen-Orient pourrait accroître les inquiétudes sur la logistique et les prix des matières premières, mais aucun problème majeur n’a été constaté jusqu’ici. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وزارة الزراعة الكورية تشغل فريق أزمة الشرق الأوسط مع استقرار مستلزمات الربيع",
-        "excerpt": "قالت وزارة الزراعة الكورية الجنوبية إن إمدادات المستلزمات الزراعية الرئيسية مستقرة رغم إطالة أمد الحرب في الشرق الأوسط، وإن أعمال الزراعة الربيعية تمضي دون تعطيل.",
-        "body": "شغلت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية «فريق الاستجابة لوضع الشرق الأوسط» لمتابعة إمدادات المستلزمات الزراعية الرئيسية مع استمرار الحرب في المنطقة. ووفقا لتقرير وكالة يونهاب في 9 مايو، أوضحت الوزارة أن المواد الأساسية اللازمة للزراعة الربيعية، بما في ذلك الأسمدة، تصل بصورة مستقرة، ولذلك تمضي الأنشطة الزراعية دون اضطراب. وقد يؤدي استمرار عدم الاستقرار في الشرق الأوسط إلى زيادة المخاوف بشأن اللوجستيات وتقلب أسعار المواد الخام، لكن لم تظهر حتى الآن مشكلات كبيرة في إمدادات المستلزمات الزراعية الأساسية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई कृषि मंत्रालय ने मध्य पूर्व टीम शुरू की, वसंत कृषि सामग्री आपूर्ति स्थिर",
-        "excerpt": "दक्षिण कोरिया के कृषि मंत्रालय ने कहा कि मध्य पूर्व युद्ध लंबा खिंचने के बावजूद प्रमुख कृषि सामग्री की आपूर्ति स्थिर है और वसंत खेती बिना बाधा चल रही है।",
-        "body": "दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय ने मध्य पूर्व में युद्ध लंबा खिंचने के बीच प्रमुख कृषि सामग्री की आपूर्ति पर नजर रखने के लिए “मध्य पूर्व स्थिति प्रतिक्रिया टीम” शुरू की है। योनहाप की 9 मई की रिपोर्ट के अनुसार, मंत्रालय ने कहा कि उर्वरक सहित वसंत खेती के लिए जरूरी प्रमुख सामग्री स्थिर रूप से उपलब्ध कराई जा रही है, इसलिए कृषि गतिविधियां बिना बाधा आगे बढ़ रही हैं। मध्य पूर्व में अस्थिरता लंबे समय तक बनी रहने पर लॉजिस्टिक्स और कच्चे माल की कीमतों में उतार-चढ़ाव को लेकर चिंता बढ़ सकती है, लेकिन अब तक प्रमुख कृषि सामग्री की आपूर्ति में कोई बड़ी समस्या नहीं दिखी है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kementerian Pertanian Aktifkan Tim Timur Tengah, Pasokan Sarana Musim Semi Stabil",
-        "excerpt": "Kementerian Pertanian Korea Selatan menyatakan pasokan sarana pertanian utama tetap stabil meski perang Timur Tengah berkepanjangan, sehingga kegiatan tanam musim semi tidak terganggu.",
-        "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan mengaktifkan “tim respons situasi Timur Tengah” untuk memantau pasokan sarana pertanian utama di tengah berkepanjangannya perang di kawasan itu. Menurut laporan Yonhap pada 9 Mei, kementerian menyebut pasokan bahan utama yang dibutuhkan untuk pertanian musim semi, termasuk pupuk, berjalan stabil sehingga kegiatan pertanian berlangsung tanpa hambatan. Jika ketidakstabilan di Timur Tengah berlanjut, kekhawatiran atas logistik dan perubahan harga bahan baku dapat meningkat, tetapi sejauh ini tidak ada gangguan besar pada pasokan sarana pertanian utama. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce3433b98bb4",
-    "slug": "오산시-미취업-청년-어학자격시험-응시료-지원-신청-접수-580160",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T16:36:03.040Z",
-    "updatedAt": "2026-05-09T16:36:03.040Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508074100061",
-    "titleFingerprint": "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
-    "dedupKeys": [
-      "ce3433b98bb47fdb687b4824c54f70d414e93799",
-      "7be1f6c5ef907185d5c173ff8aba27dbecce38ce",
-      "3b19898f3e9700bfc2f274d2a8c1aec0c2a3d3b0"
-    ],
-    "imageUrl": "/images/articles/ce3433b98bb4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오산시 미취업 청년 어학·자격시험 응시료 지원, 11일부터 신청 접수",
-        "excerpt": "경기 오산시는 오는 11일부터 미취업 청년의 취업 준비 부담을 덜기 위해 어학·자격시험 응시료 지원 신청을 받는다.",
-        "body": "경기 오산시는 오는 11일부터 미취업 청년을 대상으로 어학·자격시험 응시료 지원 신청을 접수한다. 이번 지원은 청년들의 취업 준비 비용 부담을 줄이기 위한 ‘경기청년 역량강화 기회지원 사업’의 일환이다. 시는 미취업 청년이 구직 과정에서 필요한 어학 능력과 자격 취득을 준비하는 데 드는 응시료 부담을 완화하는 데 초점을 맞췄다. 해당 사업은 청년층의 취업 준비 여건을 보완하고 역량 강화 기회를 넓히는 취지로 추진된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Osan Opens Applications for Language and Certification Exam Fee Support for Unemployed Youth",
-        "excerpt": "Osan City in Gyeonggi Province will accept applications from May 11 to help unemployed young people reduce the cost of language and certification exams.",
-        "body": "Osan City in Gyeonggi Province will begin accepting applications on May 11 for support covering language and certification exam fees for unemployed young people. The measure is part of the “Gyeonggi Youth Competency Enhancement Opportunity Support Project,” which aims to ease the financial burden of job preparation. The city is focusing on reducing exam fee costs for young job seekers preparing language skills and qualifications needed for employment. The project is intended to improve job preparation conditions and expand opportunities for youth competency development. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "烏山市、未就業青年向け語学・資格試験受験料支援の申請を11日から受付",
-        "excerpt": "京畿道烏山市は11日から、未就業青年の就職準備負担を軽減するため、語学・資格試験受験料支援の申請を受け付ける。",
-        "body": "京畿道烏山市は11日から、未就業青年を対象に語学・資格試験の受験料支援申請を受け付ける。今回の支援は、青年の就職準備に伴う費用負担を減らすための「京畿青年力量強化機会支援事業」の一環だ。市は、未就業青年が求職過程で必要な語学能力や資格取得を準備する際に生じる受験料負担の緩和に重点を置く。同事業は、青年層の就職準備環境を補完し、力量強化の機会を広げる趣旨で進められる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "乌山市11日起受理未就业青年语言及资格考试报名费补助申请",
-        "excerpt": "韩国京畿道乌山市将从11日起受理未就业青年语言及资格考试报名费补助申请，以减轻其求职准备负担。",
-        "body": "韩国京畿道乌山市将从11日起，面向未就业青年受理语言及资格考试报名费补助申请。此次补助是“京畿青年能力强化机会支持项目”的一部分，旨在减轻青年就业准备过程中的费用负担。乌山市将重点缓解未就业青年在求职过程中准备语言能力和取得资格证书所需的考试报名费压力。该项目以完善青年就业准备条件、扩大能力提升机会为宗旨推进。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Osan recibirá solicitudes para apoyar tasas de exámenes de idiomas y certificación a jóvenes desempleados",
-        "excerpt": "La ciudad de Osan, en Gyeonggi, aceptará desde el día 11 solicitudes para ayudar a jóvenes desempleados con tasas de exámenes de idiomas y certificación.",
-        "body": "La ciudad de Osan, en la provincia de Gyeonggi, comenzará el día 11 a recibir solicitudes de apoyo para cubrir tasas de exámenes de idiomas y certificación dirigidas a jóvenes desempleados. La medida forma parte del “Proyecto de apoyo a oportunidades para fortalecer capacidades de la juventud de Gyeonggi”, destinado a aliviar la carga económica de la preparación laboral. La ciudad se centra en reducir los costos de exámenes necesarios para que los jóvenes desempleados preparen habilidades lingüísticas y obtengan certificaciones durante la búsqueda de empleo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Osan abre inscrições para apoio a taxas de exames de idiomas e certificações para jovens desempregados",
-        "excerpt": "A cidade de Osan, em Gyeonggi, receberá a partir do dia 11 pedidos de apoio para reduzir custos de exames de idiomas e certificações de jovens desempregados.",
-        "body": "A cidade de Osan, na província de Gyeonggi, começará no dia 11 a receber inscrições para apoio ao pagamento de taxas de exames de idiomas e certificações para jovens desempregados. A iniciativa integra o “Projeto de Apoio a Oportunidades para Fortalecimento de Competências dos Jovens de Gyeonggi”, criado para reduzir o peso financeiro da preparação para o emprego. A cidade busca aliviar os custos de exames necessários para que jovens desempregados desenvolvam habilidades linguísticas e obtenham qualificações no processo de busca por trabalho. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Osan nimmt ab dem 11. Anträge auf Prüfungsgebührenhilfe für arbeitslose junge Menschen an",
-        "excerpt": "Die Stadt Osan in Gyeonggi nimmt ab dem 11. Anträge entgegen, um arbeitslose junge Menschen bei Sprach- und Zertifizierungsprüfungsgebühren zu entlasten.",
-        "body": "Die Stadt Osan in der Provinz Gyeonggi nimmt ab dem 11. Anträge auf Unterstützung bei Gebühren für Sprach- und Zertifizierungsprüfungen für arbeitslose junge Menschen entgegen. Die Maßnahme ist Teil des „Gyeonggi Youth Competency Enhancement Opportunity Support Project“ und soll die finanzielle Belastung bei der Vorbereitung auf eine Beschäftigung verringern. Im Mittelpunkt steht die Entlastung junger Arbeitssuchender von Prüfungsgebühren, die bei der Vorbereitung von Sprachkenntnissen und Qualifikationen für den Bewerbungsprozess anfallen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Osan ouvre les demandes d’aide aux frais d’examens de langue et de certification pour jeunes sans emploi",
-        "excerpt": "La ville d’Osan, dans le Gyeonggi, acceptera dès le 11 les demandes d’aide aux frais d’examens de langue et de certification des jeunes sans emploi.",
-        "body": "La ville d’Osan, dans la province du Gyeonggi, commencera le 11 à recevoir les demandes d’aide aux frais d’examens de langue et de certification destinées aux jeunes sans emploi. Cette mesure s’inscrit dans le « Projet de soutien aux opportunités de renforcement des compétences des jeunes du Gyeonggi », visant à alléger le coût de la préparation à l’emploi. La ville cherche à réduire la charge des frais d’examen nécessaires à l’acquisition de compétences linguistiques et de qualifications dans le parcours de recherche d’emploi. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أوسان تفتح طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين بدءا من 11",
-        "excerpt": "تبدأ مدينة أوسان في مقاطعة غيونغي من يوم 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات لتخفيف عبء إعداد الشباب غير العاملين للوظائف.",
-        "body": "تبدأ مدينة أوسان في مقاطعة غيونغي من يوم 11 استقبال طلبات دعم رسوم اختبارات اللغة والشهادات للشباب غير العاملين. يأتي هذا الدعم ضمن “مشروع غيونغي لدعم فرص تعزيز قدرات الشباب”، بهدف تخفيف الأعباء المالية المرتبطة بالاستعداد للتوظيف. وتركز المدينة على تقليل تكلفة رسوم الاختبارات التي يحتاجها الشباب غير العاملين أثناء إعداد مهارات اللغة والحصول على المؤهلات المطلوبة في مسار البحث عن عمل. ويهدف المشروع إلى تحسين ظروف الاستعداد للتوظيف وتوسيع فرص تنمية القدرات لدى الشباب. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "ओसान में बेरोजगार युवाओं के भाषा और प्रमाणन परीक्षा शुल्क समर्थन के लिए 11 से आवेदन",
-        "excerpt": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं की रोजगार तैयारी लागत घटाने के लिए भाषा और प्रमाणन परीक्षा शुल्क समर्थन आवेदन लेगा।",
-        "body": "ग्योंगगी प्रांत का ओसान शहर 11 तारीख से बेरोजगार युवाओं के लिए भाषा और प्रमाणन परीक्षाओं के शुल्क समर्थन के आवेदन स्वीकार करेगा। यह समर्थन “ग्योंगगी युवा क्षमता सुदृढ़ीकरण अवसर समर्थन परियोजना” का हिस्सा है, जिसका उद्देश्य रोजगार तैयारी से जुड़ा आर्थिक बोझ कम करना है। शहर का ध्यान उन परीक्षा शुल्कों को घटाने पर है जो बेरोजगार युवाओं को नौकरी खोजने की प्रक्रिया में भाषा कौशल और योग्यता प्राप्त करने की तैयारी के दौरान चुकाने पड़ते हैं। यह परियोजना युवाओं की रोजगार तैयारी स्थितियों को बेहतर करने और क्षमता विकास के अवसर बढ़ाने के उद्देश्य से चलाई जा रही है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Osan Buka Pendaftaran Bantuan Biaya Ujian Bahasa dan Sertifikasi untuk Pemuda Menganggur Mulai 11",
-        "excerpt": "Kota Osan di Gyeonggi akan menerima pendaftaran mulai tanggal 11 untuk membantu pemuda menganggur mengurangi biaya ujian bahasa dan sertifikasi.",
-        "body": "Kota Osan di Provinsi Gyeonggi akan mulai menerima pendaftaran pada tanggal 11 untuk bantuan biaya ujian bahasa dan sertifikasi bagi pemuda yang belum bekerja. Dukungan ini merupakan bagian dari “Proyek Dukungan Peluang Penguatan Kompetensi Pemuda Gyeonggi” yang bertujuan mengurangi beban biaya persiapan kerja. Pemerintah kota berfokus meringankan biaya ujian yang dibutuhkan pemuda menganggur saat menyiapkan kemampuan bahasa dan memperoleh kualifikasi dalam proses mencari kerja. Program ini dijalankan untuk memperbaiki kondisi persiapan kerja dan memperluas peluang penguatan kompetensi pemuda. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8a22cd68c9df",
-    "slug": "3월-韓-여행수입-역대-최대bts-효과에-환율계절-요인-겹쳐-493068",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T16:15:32.449Z",
-    "updatedAt": "2026-05-09T16:15:32.449Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508072700002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508072700002",
-    "titleFingerprint": "cfbe4975cb574e84979751c8ef9847d9ab8148ed",
-    "dedupKeys": [
-      "8a22cd68c9dfc418f689c61487c467741814b721",
-      "cfbe4975cb574e84979751c8ef9847d9ab8148ed",
-      "46e1292aaabe19d2061fe6ada36a32128c49918e"
-    ],
-    "imageUrl": "/images/articles/8a22cd68c9df.jpg",
-    "i18n": {
-      "ko": {
-        "title": "3월 한국 여행수입 역대 최대, BTS 효과와 환율·계절 요인 겹쳤다",
-        "excerpt": "연합뉴스에 따르면 올해 3월 한국 여행수입이 역대 최대를 기록했다. BTS 효과와 환율, 계절적 요인이 맞물리며 외국인 방한 소비 확대가 부각됐다.",
-        "body": "올해 3월 우리나라 여행수입이 역대 최대를 기록한 것으로 나타났다. 연합뉴스 보도에 따르면 3월 여행수입 확대에는 BTS 효과와 환율 요인, 계절적 요인이 함께 작용한 것으로 분석됐다. 여행수입은 외국인이 한국을 방문해 지출한 금액을 반영하는 지표로, 방한 관광 흐름과 소비 동향을 보여준다. 이번 기록은 한류 콘텐츠의 영향력과 환율 여건, 여행 수요가 겹치며 나타난 결과로 해석된다. 다만 기사에서 제시된 범위 안에서는 구체적인 향후 전망보다 3월 실적이 역대 최대였다는 점이 핵심이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korea’s March Travel Receipts Hit Record High on BTS, FX and Seasonality",
-        "excerpt": "According to Yonhap, South Korea’s travel receipts reached an all-time high in March this year, helped by the BTS effect, exchange-rate conditions and seasonal factors.",
-        "body": "South Korea’s travel receipts reached an all-time high in March this year, according to Yonhap News Agency. The report said the record was attributed to a combination of the BTS effect, exchange-rate conditions and seasonal factors. Travel receipts reflect spending by foreign visitors in Korea, making them an indicator of inbound tourism and related consumption. The result highlights how Korean pop culture, currency conditions and travel demand came together in March. Within the information provided, the key point is the record level of March travel receipts rather than any specific forecast. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "3月の韓国旅行収入が過去最大、BTS効果と為替・季節要因が重なる",
-        "excerpt": "聯合ニュースによると、今年3月の韓国の旅行収入は過去最大を記録した。BTS効果に加え、為替や季節要因が重なったことが背景とされる。",
-        "body": "今年3月、韓国の旅行収入が過去最大を記録したことが分かった。聯合ニュースの報道によると、3月の旅行収入拡大にはBTS効果、為替要因、季節的要因が同時に作用したと分析されている。旅行収入は外国人が韓国を訪れて支出した金額を反映する指標で、訪韓観光の流れと消費動向を示す。今回の記録は、韓流コンテンツの影響力、為替環境、旅行需要が重なって生じた結果と受け止められる。ただし、提示された情報の範囲では、具体的な今後の見通しよりも3月実績が過去最大だった点が核心となる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国3月旅游收入创历史新高，BTS效应叠加汇率和季节因素",
-        "excerpt": "据韩联社报道，今年3月韩国旅游收入创下历史最高纪录。BTS效应、汇率条件和季节性因素共同推动访韩消费受到关注。",
-        "body": "据韩联社报道，今年3月韩国旅游收入创下历史最高纪录。报道分析称，3月旅游收入扩大，是BTS效应、汇率因素和季节性因素共同作用的结果。旅游收入反映外国游客到访韩国后的消费金额，是观察入境旅游流向和相关消费动向的重要指标。此次纪录可理解为韩流内容影响力、汇率环境和旅行需求在3月相互叠加的结果。不过，在原文提供的信息范围内，核心事实是3月旅游收入达到历史最高水平，而非具体的未来预测。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ingresos turísticos de Corea baten récord en marzo por BTS, divisas y temporada",
-        "excerpt": "Según Yonhap, los ingresos turísticos de Corea del Sur alcanzaron en marzo un máximo histórico, impulsados por el efecto BTS, el tipo de cambio y factores estacionales.",
-        "body": "Los ingresos turísticos de Corea del Sur alcanzaron en marzo de este año un máximo histórico, según informó la agencia Yonhap. El reporte señaló que el aumento respondió a la combinación del efecto BTS, factores cambiarios y elementos estacionales. Los ingresos turísticos reflejan el gasto de visitantes extranjeros en Corea y sirven como indicador del flujo de turismo receptor y del consumo asociado. El récord muestra cómo la influencia de los contenidos coreanos, las condiciones del tipo de cambio y la demanda de viajes coincidieron en marzo. Con la información disponible, el punto central es el máximo histórico de marzo, no una previsión específica. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Receita turística da Coreia bate recorde em março com BTS, câmbio e sazonalidade",
-        "excerpt": "Segundo a Yonhap, a receita turística da Coreia do Sul atingiu em março o maior nível da história, com efeito BTS, câmbio e fatores sazonais combinados.",
-        "body": "A receita turística da Coreia do Sul atingiu em março deste ano o maior nível já registrado, informou a agência Yonhap. Segundo a reportagem, a expansão da receita no mês foi explicada pela combinação do efeito BTS, de fatores cambiais e de elementos sazonais. A receita turística reflete os gastos de visitantes estrangeiros no país e indica o movimento do turismo receptivo e do consumo ligado a ele. O resultado mostra a convergência entre a força dos conteúdos coreanos, as condições de câmbio e a demanda por viagens em março. Pelas informações fornecidas, o foco é o recorde de março, não uma projeção específica. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Koreas Reiseeinnahmen im März auf Rekordhoch durch BTS, Wechselkurs und Saison",
-        "excerpt": "Laut Yonhap erreichten Südkoreas Reiseeinnahmen im März dieses Jahres ein Allzeithoch. Dazu trugen der BTS-Effekt, Wechselkursbedingungen und saisonale Faktoren bei.",
-        "body": "Südkoreas Reiseeinnahmen haben im März dieses Jahres ein Rekordhoch erreicht, berichtete die Nachrichtenagentur Yonhap. Dem Bericht zufolge wirkten der BTS-Effekt, Wechselkursfaktoren und saisonale Einflüsse zusammen. Reiseeinnahmen spiegeln die Ausgaben ausländischer Besucher in Korea wider und zeigen damit Trends im Einreisetourismus und im damit verbundenen Konsum. Der Rekord lässt sich als Ergebnis der gebündelten Wirkung koreanischer Kulturinhalte, günstiger Währungsbedingungen und der Reisenachfrage im März verstehen. Innerhalb der vorliegenden Informationen steht der historische Höchststand im März im Mittelpunkt, nicht eine konkrete Prognose. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les recettes touristiques coréennes au plus haut en mars grâce à BTS, au change et à la saison",
-        "excerpt": "Selon Yonhap, les recettes touristiques de la Corée du Sud ont atteint en mars un record historique, portées par l’effet BTS, le taux de change et des facteurs saisonniers.",
-        "body": "Les recettes touristiques de la Corée du Sud ont atteint en mars de cette année un niveau record, selon l’agence Yonhap. Le rapport indique que cette hausse résulte de la combinaison de l’effet BTS, de facteurs liés au taux de change et d’éléments saisonniers. Les recettes touristiques reflètent les dépenses des visiteurs étrangers en Corée et servent d’indicateur du tourisme entrant et de la consommation associée. Ce record montre comment l’influence des contenus coréens, les conditions de change et la demande de voyages se sont conjuguées en mars. Dans les informations fournies, l’essentiel reste le record de mars, sans prévision précise. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إيرادات السفر في كوريا تسجل مستوى تاريخيا في مارس بدعم BTS والعملات والموسم",
-        "excerpt": "وفقا لوكالة يونهاب، سجلت إيرادات السفر في كوريا الجنوبية أعلى مستوى لها على الإطلاق في مارس هذا العام، مع تداخل تأثير BTS وسعر الصرف والعوامل الموسمية.",
-        "body": "سجلت إيرادات السفر في كوريا الجنوبية خلال مارس من هذا العام أعلى مستوى في تاريخها، بحسب ما نقلته وكالة يونهاب. وذكر التقرير أن هذا الارتفاع جاء نتيجة اجتماع تأثير BTS مع عوامل سعر الصرف والعوامل الموسمية. وتعكس إيرادات السفر إنفاق الزوار الأجانب داخل كوريا، لذلك تعد مؤشرا على حركة السياحة الوافدة واتجاهات الاستهلاك المرتبطة بها. ويمكن فهم هذا الرقم القياسي بوصفه نتيجة لتلاقي تأثير المحتوى الكوري وظروف العملات وطلب السفر في مارس. وضمن المعلومات المتاحة، تبقى النقطة الأساسية هي أن إيرادات مارس بلغت مستوى تاريخيا، لا تقديم توقعات محددة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "मार्च में कोरिया की यात्रा आय रिकॉर्ड ऊंचाई पर, BTS प्रभाव, विनिमय दर और मौसम कारक साथ आए",
-        "excerpt": "योनहाप के अनुसार, इस वर्ष मार्च में दक्षिण कोरिया की यात्रा आय अब तक के उच्चतम स्तर पर पहुंची। BTS प्रभाव, विनिमय दर और मौसमी कारक इसके पीछे रहे।",
-        "body": "योनहाप समाचार एजेंसी के अनुसार, इस वर्ष मार्च में दक्षिण कोरिया की यात्रा आय अब तक के सबसे ऊंचे स्तर पर पहुंच गई। रिपोर्ट में कहा गया कि मार्च में आय बढ़ने के पीछे BTS प्रभाव, विनिमय दर से जुड़े कारक और मौसमी तत्व एक साथ काम कर रहे थे। यात्रा आय विदेशी आगंतुकों द्वारा कोरिया में किए गए खर्च को दर्शाती है और इससे इनबाउंड पर्यटन तथा संबंधित उपभोग की दिशा समझी जाती है। यह रिकॉर्ड कोरियाई सांस्कृतिक सामग्री के प्रभाव, मुद्रा परिस्थितियों और यात्रा मांग के मार्च में एक साथ आने का परिणाम माना जा सकता है। उपलब्ध जानकारी में मुख्य तथ्य मार्च की रिकॉर्ड आय है, कोई विशिष्ट भविष्यवाणी नहीं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pendapatan Wisata Korea Maret Cetak Rekor, Efek BTS, Kurs dan Musim Berpadu",
-        "excerpt": "Menurut Yonhap, pendapatan wisata Korea Selatan pada Maret tahun ini mencapai rekor tertinggi sepanjang masa, dipengaruhi efek BTS, kurs, dan faktor musiman.",
-        "body": "Pendapatan wisata Korea Selatan pada Maret tahun ini tercatat sebagai yang tertinggi sepanjang sejarah, menurut laporan Yonhap. Laporan itu menyebut peningkatan pendapatan pada Maret dipengaruhi kombinasi efek BTS, faktor nilai tukar, dan faktor musiman. Pendapatan wisata mencerminkan belanja wisatawan asing saat berkunjung ke Korea, sehingga menjadi indikator arus wisata masuk dan konsumsi terkait. Rekor ini menunjukkan pertemuan pengaruh konten Korea, kondisi kurs, dan permintaan perjalanan pada Maret. Dalam batas informasi yang tersedia, poin utamanya adalah capaian rekor pada Maret, bukan proyeksi khusus ke depan. Sumber: yna.co.kr"
       }
     }
   }
