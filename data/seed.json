@@ -1,5 +1,230 @@
 [
   {
+    "id": "4e275da8cc13",
+    "slug": "토요일에-구청엔-왜양도세-중과-피해-막판-거래신고-이어져-172543",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T04:44:28.775Z",
+    "updatedAt": "2026-05-10T04:44:28.775Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042486",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042486",
+    "titleFingerprint": "b7436695d577cddb8fba267c15c77493a80b591c",
+    "dedupKeys": [
+      "4e275da8cc13eddb58423efda124e0e2c7bff75d",
+      "b7436695d577cddb8fba267c15c77493a80b591c",
+      "307e0b9e284e0905455dd53ec9117d22dbbd13a6"
+    ],
+    "imageUrl": "/images/articles/4e275da8cc13.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양도세 중과 유예 마지막 날, 토요일 구청에 몰린 막판 거래신고",
+        "excerpt": "다주택자 양도소득세 중과 유예 종료를 앞둔 지난 9일, 서울과 경기 일부 자치구에서 중과 적용을 피하려는 토지거래허가 신청이 이어졌다.",
+        "body": "다주택자 양도소득세 중과 유예가 끝나기 전 마지막 날이었던 지난 9일, 서울과 경기 일부 자치구 구청에는 막판 토지거래허가 신청이 이어졌다. 신청자들은 유예 기간 안에 거래 신고를 마쳐 양도세 중과 적용을 피하려는 목적이었다. 일부 자치구는 토요일에도 관련 접수를 처리하며 유예 적용 가능 여부를 확인하려는 문의와 신청을 받았다. 이번 움직임은 다주택자 양도세 중과 재개를 앞두고 세 부담을 줄이려는 거래 수요가 막판에 집중된 사례로 풀이된다. 향후 유예 종료 이후에는 중과 적용 여부가 거래 판단의 주요 변수로 작용할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Capital Gains Tax Deadline Spurs Saturday Rush for Last-Minute Deal Reports",
+        "excerpt": "On May 9, the final day before the end of the capital gains tax surcharge grace period for multi-homeowners, land transaction permit applications continued in parts of Seoul and Gyeonggi.",
+        "body": "On May 9, the final day before the grace period for the capital gains tax surcharge on multi-homeowners ended, district offices in parts of Seoul and Gyeonggi saw a stream of last-minute land transaction permit applications. Applicants sought to complete transaction reports within the grace period to avoid the surcharge. Some local offices handled related filings even on Saturday, receiving inquiries and applications from those checking whether the grace period could still apply. The activity reflects a late concentration of transaction demand aimed at reducing tax burdens before the surcharge resumes. After the grace period ends, whether the surcharge applies is expected to remain a key factor in transaction decisions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "譲渡税重課猶予の最終日、土曜の区役所に駆け込み申告相次ぐ",
+        "excerpt": "多住宅保有者への譲渡所得税重課猶予が終わる直前の9日、ソウルと京畿の一部自治体で重課回避を狙う土地取引許可申請が続いた。",
+        "body": "多住宅保有者に対する譲渡所得税重課の猶予期間が終わる前の最終日だった9日、ソウルと京畿の一部自治体の区役所には、駆け込みの土地取引許可申請が相次いだ。申請者は猶予期間内に取引申告を終え、譲渡税の重課適用を避けることを目的としていた。一部自治体は土曜日にも関連受付を処理し、猶予適用の可否を確認する問い合わせや申請を受けた。今回の動きは、多住宅保有者への譲渡税重課再開を前に、税負担を抑えたい取引需要が最終盤に集中した事例とみられる。猶予終了後は、重課適用の有無が取引判断の主要な変数になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "转让税重税宽限最后一天，周六区厅现最后交易申报潮",
+        "excerpt": "在多套房持有者转让所得税重税宽限期结束前的5月9日，首尔和京畿部分自治政府继续出现为避开重税而提交的土地交易许可申请。",
+        "body": "在多套房持有者转让所得税重税宽限期结束前的最后一天，即5月9日，首尔和京畿部分自治政府区厅出现了最后阶段的土地交易许可申请。申请人希望在宽限期内完成交易申报，以避免适用转让税重税。部分自治政府即使在周六也处理相关受理事项，并接收有关能否适用宽限的咨询和申请。此次情况被视为在多套房持有者转让税重税即将恢复前，为减少税负的交易需求集中在最后时点的案例。宽限期结束后，是否适用重税预计将成为交易判断中的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Último día de gracia fiscal: oficinas reciben avisos de compraventa en sábado",
+        "excerpt": "El 9 de mayo, último día antes del fin de la moratoria del recargo sobre ganancias de capital para multipropietarios, continuaron solicitudes de permisos de transacción de terrenos en Seúl y Gyeonggi.",
+        "body": "El 9 de mayo, último día antes de que terminara la moratoria del recargo del impuesto sobre ganancias de capital para propietarios de múltiples viviendas, oficinas distritales de algunas zonas de Seúl y Gyeonggi recibieron solicitudes de permisos de transacción de terrenos de último momento. Los solicitantes buscaban completar la declaración de la operación dentro del periodo de gracia para evitar la aplicación del recargo. Algunas autoridades locales procesaron trámites incluso en sábado y atendieron consultas y solicitudes sobre si aún podía aplicarse la moratoria. El movimiento muestra una concentración final de demanda de transacciones orientada a reducir cargas fiscales antes de que se reanude el recargo. Tras el fin de la moratoria, la aplicación del recargo será un factor clave en las decisiones de compraventa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Último dia de alívio do imposto leva registros de negócios a prefeituras no sábado",
+        "excerpt": "Em 9 de maio, último dia antes do fim da suspensão da sobretaxa sobre ganhos de capital para múltiplos proprietários, pedidos de autorização para transações de terrenos continuaram em Seul e Gyeonggi.",
+        "body": "Em 9 de maio, último dia antes do fim do período de suspensão da sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplos imóveis, repartições distritais em partes de Seul e Gyeonggi receberam pedidos de autorização para transações de terrenos de última hora. Os solicitantes buscavam concluir o registro da transação dentro do prazo de suspensão para evitar a aplicação da sobretaxa. Algumas administrações locais processaram os pedidos mesmo no sábado, respondendo a consultas e recebendo solicitações sobre a possibilidade de aplicação da suspensão. O movimento indica uma concentração final de demanda por transações para reduzir a carga tributária antes da retomada da sobretaxa. Após o fim do prazo, a aplicação da sobretaxa deve pesar nas decisões de negociação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Letzter Tag der Steuerpause: Samstagsandrang bei Bezirksämtern wegen Meldungen",
+        "excerpt": "Am 9. Mai, dem letzten Tag vor Ende der Aussetzung des Kapitalertragsteuer-Aufschlags für Mehrfachhausbesitzer, gingen in Teilen Seouls und Gyeonggis weiter Anträge auf Grundstückstransaktionen ein.",
+        "body": "Am 9. Mai, dem letzten Tag vor Ablauf der Aussetzung des Kapitalertragsteuer-Aufschlags für Eigentümer mehrerer Wohnungen, verzeichneten Bezirksämter in Teilen von Seoul und Gyeonggi kurzfristige Anträge auf Genehmigung von Grundstückstransaktionen. Die Antragsteller wollten ihre Transaktionsmeldungen noch innerhalb der Frist abschließen, um den Aufschlag zu vermeiden. Einige Kommunen bearbeiteten entsprechende Eingaben auch am Samstag und nahmen Anfragen sowie Anträge zur möglichen Anwendung der Aussetzung entgegen. Die Entwicklung zeigt, dass sich Transaktionsnachfrage zur Verringerung der Steuerlast kurz vor Wiederaufnahme des Aufschlags bündelte. Nach Ende der Aussetzung dürfte die Frage, ob der Aufschlag gilt, ein wichtiger Faktor bei Geschäftsentscheidungen bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dernier jour de sursis fiscal: les guichets ouverts samedi pour déclarer les ventes",
+        "excerpt": "Le 9 mai, dernier jour avant la fin du sursis à la surtaxe sur les plus-values des multipropriétaires, les demandes d’autorisation de transactions foncières ont continué à Séoul et dans le Gyeonggi.",
+        "body": "Le 9 mai, dernier jour avant la fin du sursis à la surtaxe sur l’impôt des plus-values pour les propriétaires de plusieurs logements, des bureaux d’arrondissement de certaines zones de Séoul et du Gyeonggi ont reçu des demandes de dernière minute d’autorisation de transactions foncières. Les demandeurs voulaient finaliser leur déclaration dans le délai de sursis afin d’éviter l’application de la surtaxe. Certaines collectivités ont traité les dossiers même un samedi, en répondant aux questions et en recevant les demandes sur l’éligibilité au sursis. Ce mouvement illustre une concentration tardive de transactions visant à réduire la charge fiscale avant la reprise de la surtaxe. Après la fin du sursis, son application devrait rester un facteur important dans les décisions de transaction. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اليوم الأخير لتأجيل ضريبة الأرباح يدفع طلبات الصفقات إلى المكاتب السبت",
+        "excerpt": "في 9 مايو، اليوم الأخير قبل انتهاء تأجيل الضريبة الإضافية على مكاسب رأس المال لأصحاب العقارات المتعددة، تواصلت طلبات تصاريح معاملات الأراضي في أجزاء من سول وغييونغي.",
+        "body": "في 9 مايو، وهو اليوم الأخير قبل انتهاء فترة تأجيل الضريبة الإضافية على مكاسب رأس المال لأصحاب العقارات المتعددة، شهدت مكاتب أحياء في أجزاء من سول وغييونغي طلبات أخيرة للحصول على تصاريح معاملات الأراضي. كان مقدمو الطلبات يسعون إلى إتمام بلاغات المعاملات داخل فترة التأجيل لتجنب تطبيق الضريبة الإضافية. عالجت بعض السلطات المحلية الطلبات حتى يوم السبت، وتلقت استفسارات وطلبات حول إمكانية الاستفادة من التأجيل. ويعكس ذلك تركزا في الطلب على المعاملات في اللحظات الأخيرة بهدف خفض العبء الضريبي قبل عودة تطبيق الضريبة الإضافية. وبعد انتهاء التأجيل، من المتوقع أن تبقى مسألة تطبيق الضريبة عاملا رئيسيا في قرارات التداول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पूंजीगत लाभ कर छूट का आखिरी दिन, शनिवार को दफ्तरों में सौदा रिपोर्ट की भीड़",
+        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की छूट समाप्त होने से पहले 9 मई को सियोल और ग्योंगगी के कुछ क्षेत्रों में भूमि लेनदेन अनुमति आवेदनों का सिलसिला जारी रहा।",
+        "body": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की छूट अवधि समाप्त होने से पहले अंतिम दिन, 9 मई को, सियोल और ग्योंगगी के कुछ जिला कार्यालयों में भूमि लेनदेन अनुमति के अंतिम समय के आवेदन आते रहे। आवेदक छूट अवधि के भीतर लेनदेन रिपोर्ट पूरी कर अधिभार से बचना चाहते थे। कुछ स्थानीय निकायों ने शनिवार को भी संबंधित आवेदन संसाधित किए और यह जानने के लिए पूछताछ व आवेदन लिए कि छूट लागू हो सकती है या नहीं। यह गतिविधि अधिभार की बहाली से पहले कर बोझ घटाने की लेनदेन मांग के अंतिम समय में केंद्रित होने का उदाहरण है। छूट समाप्त होने के बाद अधिभार लागू होगा या नहीं, यह लेनदेन निर्णयों का अहम कारक रहने की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hari Terakhir Penangguhan Pajak, Laporan Transaksi Memadati Kantor Sabtu",
+        "excerpt": "Pada 9 Mei, hari terakhir sebelum penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah berakhir, permohonan izin transaksi tanah terus masuk di sebagian Seoul dan Gyeonggi.",
+        "body": "Pada 9 Mei, hari terakhir sebelum masa penangguhan pajak tambahan atas capital gain bagi pemilik banyak rumah berakhir, kantor distrik di sebagian Seoul dan Gyeonggi menerima permohonan izin transaksi tanah pada menit terakhir. Para pemohon berupaya menyelesaikan pelaporan transaksi dalam masa penangguhan agar terhindar dari penerapan pajak tambahan. Beberapa pemerintah daerah memproses berkas terkait meski pada hari Sabtu, sekaligus menerima pertanyaan dan permohonan mengenai apakah penangguhan masih dapat berlaku. Pergerakan ini menunjukkan terkonsentrasinya permintaan transaksi menjelang akhir periode untuk mengurangi beban pajak sebelum pajak tambahan diberlakukan kembali. Setelah penangguhan berakhir, penerapan pajak tambahan diperkirakan menjadi faktor penting dalam keputusan transaksi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a7d85874d3e3",
+    "slug": "팔-사람-다-팔았다-서울-아파트-매물-주말-새-2000건-뚝-307045",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T04:43:28.220Z",
+    "updatedAt": "2026-05-10T04:43:28.220Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042488",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042488",
+    "titleFingerprint": "ab61a07a027acb2f28b023e23b429f1bf966ed4b",
+    "dedupKeys": [
+      "a7d85874d3e3c2e67fe8e113deceba0efb06f166",
+      "ab61a07a027acb2f28b023e23b429f1bf966ed4b",
+      "792e0f421e5bd368308906a79af4ab3f7d636fa2"
+    ],
+    "imageUrl": "/images/articles/a7d85874d3e3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 매물 2000건 급감, 양도세 중과 유예 종료에 매도세 줄었다",
+        "excerpt": "다주택자 양도세 중과 유예가 종료되면서 10일 서울 아파트 매물이 주말 사이 2000건 이상 줄어든 것으로 부동산 빅데이터 플랫폼 아실 집계에서 나타났다.",
+        "body": "10일 부동산 빅데이터 플랫폼 아실에 따르면 이날 서울 아파트 매물은 6만6914건으로 집계됐다. 주말 사이 매물이 2000건 이상 줄어든 것으로, 다주택자 양도세 중과 유예가 종료된 영향이 반영된 것으로 풀이된다. 원문은 “팔 사람 다 팔았다”는 시장 분위기 속에 서울 아파트 매물이 단기간 크게 감소했다고 전했다. 매물 감소는 매도자들이 세제 유예 종료 전 처분을 마쳤거나 매도 시점을 조정하는 흐름과 맞물려 해석된다. 향후 서울 아파트 시장에서는 매물 축소가 거래와 가격 흐름에 어떤 영향을 줄지가 관건이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul apartment listings drop by over 2,000 after capital gains tax grace period ends",
+        "excerpt": "Seoul apartment listings fell by more than 2,000 over the weekend as the grace period on heavier capital gains taxes for multi-home owners ended, according to Asil data on May 10.",
+        "body": "According to real estate big data platform Asil on May 10, Seoul apartment listings stood at 66,914 that day. The total fell by more than 2,000 over the weekend, a decline viewed as reflecting the end of the grace period on heavier capital gains taxes for multi-home owners. The original report described the market mood as “those who had to sell have already sold,” noting a sharp short-term drop in Seoul apartment listings. The decline may be read alongside sellers completing disposals before the tax grace period ended or adjusting their selling timing. The key issue ahead is how fewer listings will affect transactions and price trends in Seoul’s apartment market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルのマンション売り物件が2000件超減少、譲渡税重課猶予終了で売り圧力後退",
+        "excerpt": "多住宅所有者への譲渡税重課猶予が終了し、5月10日のアシル集計でソウルのマンション売り物件が週末の間に2000件以上減少した。",
+        "body": "不動産ビッグデータプラットフォームのアシルによると、5月10日時点のソウルのマンション売り物件は6万6914件だった。週末の間に2000件以上減った形で、多住宅所有者に対する譲渡税重課猶予の終了が反映されたものとみられる。原文は「売る人はみな売った」という市場の雰囲気の中で、ソウルのマンション売り物件が短期間で大きく減少したと伝えた。物件減少は、売主が税制猶予の終了前に処分を終えたか、売却時期を調整する流れと重ねて解釈される。今後は、売り物件の縮小がソウルのマンション市場の取引と価格動向にどのような影響を与えるかが焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓挂牌量周末减少逾2000套，转让税重课缓期结束后卖盘收缩",
+        "excerpt": "随着多套房持有者转让税重课缓期结束，5月10日房地产大数据平台Asil统计显示，首尔公寓挂牌量在周末减少逾2000套。",
+        "body": "据房地产大数据平台Asil 5月10日数据，当天首尔公寓挂牌量为66914套。周末期间挂牌量减少逾2000套，被认为反映了多套房持有者转让税重课缓期结束的影响。原文称，在“该卖的人都卖了”的市场氛围下，首尔公寓挂牌量短期内明显下降。挂牌减少可与卖方在税收缓期结束前完成出售，或调整出售时点的走势联系起来解读。接下来，挂牌量收缩将如何影响首尔公寓市场的交易和价格走势，将成为关注重点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Caen más de 2.000 anuncios de apartamentos en Seúl tras el fin del alivio fiscal",
+        "excerpt": "Los anuncios de apartamentos en Seúl bajaron en más de 2.000 durante el fin de semana después de terminar la suspensión del recargo al impuesto sobre ganancias de capital para multipropietarios, según Asil el 10 de mayo.",
+        "body": "Según la plataforma de big data inmobiliario Asil, el 10 de mayo los anuncios de apartamentos en Seúl sumaban 66.914. La cifra cayó en más de 2.000 durante el fin de semana, un descenso interpretado como reflejo del fin de la suspensión del recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas. El reporte original señaló que, en un ambiente de mercado descrito como “quienes iban a vender ya vendieron”, los anuncios de apartamentos en Seúl disminuyeron con fuerza en poco tiempo. La reducción puede leerse junto con vendedores que completaron ventas antes del fin del alivio fiscal o ajustaron el momento de venta. La cuestión será cómo afectará esta menor oferta a las transacciones y precios en Seúl. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ofertas de apartamentos em Seul caem mais de 2.000 após fim de alívio fiscal",
+        "excerpt": "As ofertas de apartamentos em Seul recuaram mais de 2.000 no fim de semana após o fim da suspensão da sobretaxa sobre ganhos de capital para donos de vários imóveis, segundo a Asil em 10 de maio.",
+        "body": "Segundo a plataforma de big data imobiliário Asil, em 10 de maio as ofertas de apartamentos em Seul somavam 66.914. O total caiu mais de 2.000 durante o fim de semana, movimento visto como reflexo do fim da suspensão da tributação agravada sobre ganhos de capital para proprietários de múltiplas moradias. A reportagem original afirmou que, em um clima de mercado de “quem tinha de vender já vendeu”, as ofertas de apartamentos em Seul diminuíram fortemente em curto período. A queda pode ser interpretada junto ao fato de vendedores terem concluído vendas antes do fim do benefício fiscal ou ajustado o momento de venda. A atenção agora recai sobre como a menor oferta afetará transações e preços em Seul. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsangebote in Seoul sinken um über 2.000 nach Ende der Steueraufschubregel",
+        "excerpt": "Nach dem Ende der Aussetzung höherer Kapitalertragsteuern für Mehrfachimmobilienbesitzer gingen die Wohnungsangebote in Seoul laut Asil am 10. Mai am Wochenende um mehr als 2.000 zurück.",
+        "body": "Nach Angaben der Immobiliendatenplattform Asil belief sich die Zahl der Wohnungsangebote in Seoul am 10. Mai auf 66.914. Damit sank der Bestand über das Wochenende um mehr als 2.000, was als Folge des Endes der Aussetzung höherer Kapitalertragsteuern für Eigentümer mehrerer Wohnungen gewertet wird. Der Originalbericht beschrieb die Marktstimmung mit „wer verkaufen wollte, hat verkauft“ und meldete einen deutlichen kurzfristigen Rückgang der Wohnungsangebote in Seoul. Der Rückgang lässt sich damit verbinden, dass Verkäufer vor dem Ende der Steuerregelung Verkäufe abschlossen oder ihren Verkaufszeitpunkt anpassten. Entscheidend wird nun, wie der geringere Angebotsbestand Transaktionen und Preisentwicklung am Seouler Wohnungsmarkt beeinflusst. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les annonces d’appartements à Séoul chutent de plus de 2 000 après la fin d’un répit fiscal",
+        "excerpt": "Les annonces d’appartements à Séoul ont diminué de plus de 2 000 durant le week-end après la fin du report de la surtaxe sur les plus-values pour multipropriétaires, selon Asil le 10 mai.",
+        "body": "Selon la plateforme de mégadonnées immobilières Asil, les annonces d’appartements à Séoul s’élevaient à 66 914 le 10 mai. Le total a reculé de plus de 2 000 pendant le week-end, une baisse interprétée comme le reflet de la fin du report de la surtaxe sur les plus-values pour les propriétaires de plusieurs logements. L’article original évoque une ambiance de marché où « ceux qui devaient vendre ont déjà vendu » et signale une forte baisse à court terme des annonces d’appartements à Séoul. Cette contraction peut être liée à des vendeurs ayant finalisé leurs ventes avant la fin du répit fiscal ou ajusté leur calendrier de vente. La question sera désormais son effet sur les transactions et les prix à Séoul. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تراجع معروض شقق سيول بأكثر من 2000 بعد انتهاء مهلة ضريبة الأرباح الرأسمالية",
+        "excerpt": "انخفض معروض الشقق في سيول بأكثر من 2000 إعلان خلال عطلة نهاية الأسبوع بعد انتهاء تعليق التشديد الضريبي على أرباح بيع العقارات لملاك المنازل المتعددة، وفق بيانات أسيل في 10 مايو.",
+        "body": "بحسب منصة البيانات العقارية الضخمة أسيل، بلغ معروض الشقق في سيول يوم 10 مايو 66914 إعلانا. وانخفض العدد بأكثر من 2000 خلال عطلة نهاية الأسبوع، وهو تراجع يفسر بأنه يعكس انتهاء مهلة تعليق الضريبة المشددة على أرباح البيع لملاك المنازل المتعددة. وذكر التقرير الأصلي أن أجواء السوق توصف بعبارة «من كان سيبيع فقد باع»، مع تسجيل انخفاض كبير في معروض شقق سيول خلال فترة قصيرة. ويمكن قراءة هذا التراجع مع إتمام بعض البائعين عمليات البيع قبل انتهاء المهلة الضريبية أو تعديل توقيت البيع. وستكون المسألة الأساسية لاحقا هي أثر تقلص المعروض في معاملات وأسعار سوق الشقق في سيول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट लिस्टिंग 2,000 से अधिक घटीं, टैक्स छूट अवधि खत्म होने का असर",
+        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर की भारी दरों की स्थगन अवधि समाप्त होने के बाद 10 मई को Asil के आंकड़ों में सियोल अपार्टमेंट लिस्टिंग सप्ताहांत में 2,000 से अधिक कम दिखीं।",
+        "body": "रियल एस्टेट बिग डेटा प्लेटफॉर्म Asil के अनुसार, 10 मई को सियोल अपार्टमेंट लिस्टिंग 66,914 रहीं। सप्ताहांत के दौरान इनमें 2,000 से अधिक की कमी आई, जिसे कई घरों के मालिकों पर पूंजीगत लाभ कर की भारी दरों की स्थगन अवधि समाप्त होने के प्रभाव के रूप में देखा जा रहा है। मूल रिपोर्ट ने बाजार के माहौल को “जिन्हें बेचना था, वे बेच चुके” के रूप में बताया और कहा कि सियोल अपार्टमेंट लिस्टिंग कम समय में काफी घटीं। यह कमी इस बात से जुड़ी समझी जा सकती है कि विक्रेताओं ने कर छूट अवधि खत्म होने से पहले बिक्री पूरी कर ली या बिक्री का समय बदला। आगे अहम सवाल यह होगा कि घटा हुआ उपलब्ध स्टॉक सियोल के अपार्टमेंट लेनदेन और कीमतों को कैसे प्रभावित करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Listing apartemen Seoul turun lebih dari 2.000 usai masa tangguh pajak berakhir",
+        "excerpt": "Listing apartemen Seoul turun lebih dari 2.000 selama akhir pekan setelah penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah berakhir, menurut data Asil pada 10 Mei.",
+        "body": "Menurut platform big data properti Asil, jumlah listing apartemen di Seoul pada 10 Mei tercatat 66.914. Angka itu turun lebih dari 2.000 selama akhir pekan, penurunan yang dipandang mencerminkan berakhirnya masa penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah. Laporan asli menggambarkan suasana pasar sebagai “yang hendak menjual sudah menjual” dan menyebut listing apartemen Seoul turun tajam dalam waktu singkat. Penurunan listing dapat dibaca bersama langkah penjual yang menyelesaikan penjualan sebelum masa penangguhan pajak berakhir atau menyesuaikan waktu jual. Ke depan, perhatian tertuju pada dampak berkurangnya listing terhadap transaksi dan harga apartemen di Seoul. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5bb92df73698",
+    "slug": "국토장관-양도세-중과-매물-잠김-우려-크지만국민주권정부는-과거-정부와-달라-167443",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T04:42:28.868Z",
+    "updatedAt": "2026-05-10T04:42:28.868Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042493",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042493",
+    "titleFingerprint": "95575535bf307a2d1685d658be188b740b3a0406",
+    "dedupKeys": [
+      "5bb92df736983069230ba0ad69695d5f7a54c5e6",
+      "95575535bf307a2d1685d658be188b740b3a0406",
+      "986dc377270c19ce35f821f64cfd9947d33d78d1"
+    ],
+    "imageUrl": "/images/articles/5bb92df73698.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양도세 중과 재개에 매물 잠김 우려…국토장관 “이번 정부는 다르다”",
+        "excerpt": "김윤덕 국토교통부 장관은 10일 SNS를 통해 양도세 중과 재개 이후 매물 잠김 우려가 크지만 국민주권정부는 과거 정부와 다를 수밖에 없다고 밝혔다.",
+        "body": "김윤덕 국토교통부 장관은 10일 사회관계망서비스(SNS)를 통해 양도세 중과 재개 이후 주택 매물이 시장에 나오지 않는 ‘매물 잠김’ 우려가 크다는 목소리를 언급했다. 김 장관은 이 같은 우려에도 “국민주권정부는 다를 것이고 다를 수밖에 없다”고 밝혔다. 이번 발언은 양도세 중과가 다시 시행될 경우 다주택자 등의 매도 결정이 위축될 수 있다는 시장의 걱정이 제기되는 가운데 나왔다. 김 장관은 과거 정부와의 차이를 강조하며 정책 운영에 대한 정부의 입장을 설명했다. 다만 구체적인 보완책이나 추가 수치는 원문에 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Capital Gains Tax Surcharge Raises Listing Freeze Fears as Land Minister Says Government Will Differ",
+        "excerpt": "Land Minister Kim Yoon-duk said on the 10th via social media that concerns over a listing freeze after the capital gains tax surcharge resumes are significant, but the People’s Sovereignty Government will differ from past administrations.",
+        "body": "Minister of Land, Infrastructure and Transport Kim Yoon-duk said on the 10th through social media that there are strong concerns about a potential “listing freeze,” in which homes do not come to market, after the capital gains tax surcharge resumes. Despite those concerns, Kim said the People’s Sovereignty Government “will be different and has no choice but to be different.” The remarks came amid market worries that the reinstated surcharge could discourage selling decisions by multiple-home owners and others. Kim emphasized differences from past administrations and explained the government’s stance on policy management. No specific supplementary measures or additional figures were provided in the original report. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "譲渡税重課再開で売り控え懸念、国土交通相「今回の政府は違う」",
+        "excerpt": "金潤徳国土交通部長官は10日、SNSで譲渡税重課の再開後に売り控え懸念が大きいものの、国民主権政府は過去の政府とは異なると述べた。",
+        "body": "金潤徳（キム・ユンドク）国土交通部長官は10日、SNSを通じ、譲渡税重課の再開後に住宅の売り物件が市場に出にくくなる「売り控え」への懸念が大きいとの声に言及した。金長官はこうした懸念がある一方で、「国民主権政府は違うだろうし、違わざるを得ない」と述べた。今回の発言は、譲渡税重課が再び施行される場合、多住宅保有者などの売却判断が萎縮する可能性があるとの市場の不安が出ている中で行われた。金長官は過去の政府との違いを強調し、政策運営に関する政府の立場を説明した。ただし、具体的な補完策や追加数値は原文に示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "转让税重税重启引发房源锁定担忧，国土部长称“本届政府不同”",
+        "excerpt": "韩国国土交通部长官金润德10日通过社交媒体表示，转让税重税重启后市场担心房源锁定，但国民主权政府必然不同于过去政府。",
+        "body": "韩国国土交通部长官金润德10日通过社交媒体提到，在转让税重税重启后，市场对住房房源不再进入市场的“房源锁定”现象担忧较大。金长官表示，尽管存在这种担忧，“国民主权政府将会不同，也必然不同”。这一表态出现在市场担心转让税重税再次实施后，多套住房持有者等卖房决定可能受到抑制的背景下。金长官强调与过去政府的差异，并说明了政府在政策运行上的立场。不过，原文未提出具体补充措施或更多数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Recargo al impuesto de plusvalías inquieta por freno de ventas; ministro dice que el Gobierno será distinto",
+        "excerpt": "El ministro de Tierra, Kim Yoon-duk, dijo el día 10 en redes sociales que preocupa el bloqueo de viviendas en venta tras reanudarse el recargo al impuesto de plusvalías, pero que el Gobierno de Soberanía Popular será diferente.",
+        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yoon-duk, dijo el día 10 a través de redes sociales que existen fuertes preocupaciones por un posible “bloqueo de oferta”, en el que las viviendas no salen al mercado, tras la reanudación del recargo al impuesto de plusvalías. Pese a esas inquietudes, Kim afirmó que el Gobierno de Soberanía Popular “será diferente y no puede sino ser diferente”. Sus palabras llegan en medio de temores del mercado de que la vuelta del recargo pueda desalentar las decisiones de venta de propietarios con varias viviendas y otros actores. Kim subrayó la diferencia con gobiernos anteriores y explicó la postura oficial sobre la gestión de la política. El texto original no ofrece medidas complementarias concretas ni cifras adicionales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Sobretaxa sobre ganho de capital reacende temor de trava na oferta; ministro diz que governo será diferente",
+        "excerpt": "O ministro Kim Yoon-duk afirmou no dia 10, em rede social, que há grande preocupação com a retenção de imóveis após a retomada da sobretaxa sobre ganhos de capital, mas que o Governo de Soberania Popular será diferente.",
+        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yoon-duk, afirmou no dia 10, por meio de rede social, que há fortes preocupações com uma possível “trava na oferta”, na qual imóveis deixam de chegar ao mercado, após a retomada da sobretaxa sobre ganhos de capital. Apesar dessas preocupações, Kim disse que o Governo de Soberania Popular “será diferente e não pode deixar de ser diferente”. A declaração ocorre em meio ao receio do mercado de que a volta da sobretaxa possa desestimular decisões de venda por proprietários de múltiplos imóveis e outros agentes. Kim destacou diferenças em relação a governos anteriores e explicou a posição do governo sobre a condução da política. O texto original não apresenta medidas complementares específicas nem números adicionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Zuschlag auf Veräußerungssteuer weckt Sorge vor Angebotsstau; Minister: Regierung ist anders",
+        "excerpt": "Landminister Kim Yoon-duk sagte am 10. in sozialen Medien, die Sorge vor einem Angebotsstau nach Wiederaufnahme des Zuschlags auf die Veräußerungssteuer sei groß, doch die Regierung der Volkssouveränität werde anders handeln.",
+        "body": "Kim Yoon-duk, Minister für Land, Infrastruktur und Verkehr, sagte am 10. über soziale Medien, es gebe große Sorgen über einen möglichen „Angebotsstau“, bei dem Wohnungen nach Wiederaufnahme des Zuschlags auf die Veräußerungssteuer nicht auf den Markt kommen. Trotz dieser Bedenken erklärte Kim, die Regierung der Volkssouveränität „werde anders sein und müsse anders sein“. Die Äußerung fiel vor dem Hintergrund von Marktsorgen, dass die erneute Anwendung des Zuschlags Verkaufsentscheidungen von Mehrfachwohnungseigentümern und anderen bremsen könnte. Kim betonte den Unterschied zu früheren Regierungen und erläuterte die Haltung der Regierung zur politischen Umsetzung. Konkrete Ergänzungsmaßnahmen oder zusätzliche Zahlen wurden im Originalbericht nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La surtaxe sur les plus-values relance la crainte d’un blocage des ventes, le ministre promet une approche différente",
+        "excerpt": "Le ministre Kim Yoon-duk a déclaré le 10 sur les réseaux sociaux que les craintes de blocage de l’offre après le retour de la surtaxe sur les plus-values sont fortes, mais que le Gouvernement de souveraineté populaire sera différent.",
+        "body": "Kim Yoon-duk, ministre du Territoire, des Infrastructures et des Transports, a déclaré le 10 sur les réseaux sociaux que les inquiétudes sont vives quant à un possible « blocage de l’offre », dans lequel les logements ne seraient pas mis sur le marché, après la reprise de la surtaxe sur les plus-values. Malgré ces préoccupations, Kim a affirmé que le Gouvernement de souveraineté populaire « sera différent et ne peut qu’être différent ». Cette déclaration intervient alors que le marché craint que le rétablissement de la surtaxe ne freine les décisions de vente des propriétaires de plusieurs logements et d’autres acteurs. Kim a souligné la différence avec les gouvernements précédents et expliqué la position du gouvernement sur la conduite de la politique. Aucun dispositif complémentaire précis ni chiffre supplémentaire n’est fourni dans le texte original. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "استئناف ضريبة الأرباح الرأسمالية المشددة يثير مخاوف تجميد المعروض ووزير الأراضي: الحكومة مختلفة",
+        "excerpt": "قال وزير الأراضي كيم يون-دوك في العاشر عبر وسائل التواصل إن المخاوف كبيرة من تجميد المعروض بعد استئناف تشديد ضريبة الأرباح الرأسمالية، لكن حكومة السيادة الشعبية ستكون مختلفة عن الحكومات السابقة.",
+        "body": "قال كيم يون-دوك، وزير الأراضي والبنية التحتية والنقل، في العاشر عبر وسائل التواصل الاجتماعي إن هناك مخاوف كبيرة من احتمال “تجميد المعروض”، أي عدم طرح المساكن في السوق، بعد استئناف تشديد ضريبة الأرباح الرأسمالية. ورغم هذه المخاوف، قال كيم إن حكومة السيادة الشعبية “ستكون مختلفة ولا بد أن تكون مختلفة”. وجاء التصريح وسط قلق في السوق من أن إعادة تطبيق الضريبة المشددة قد تحد من قرارات البيع لدى مالكي عدة مساكن وغيرهم. وشدد كيم على الاختلاف عن الحكومات السابقة وشرح موقف الحكومة من إدارة السياسة. ولم يورد النص الأصلي إجراءات تكميلية محددة أو أرقاما إضافية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कैपिटल गेन टैक्स सरचार्ज से घरों की बिक्री अटकने की चिंता, मंत्री बोले सरकार अलग होगी",
+        "excerpt": "भूमि मंत्री किम यून-डुक ने 10 तारीख को सोशल मीडिया पर कहा कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद बिक्री रुकने की चिंता बड़ी है, लेकिन पीपुल्स सोवरेन्टी गवर्नमेंट पिछली सरकारों से अलग होगी।",
+        "body": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-डुक ने 10 तारीख को सोशल मीडिया के जरिए कहा कि कैपिटल गेन टैक्स सरचार्ज फिर शुरू होने के बाद आवास बाजार में न आने वाली स्थिति, यानी “लिस्टिंग फ्रीज”, को लेकर चिंता बड़ी है। इन चिंताओं के बावजूद किम ने कहा कि पीपुल्स सोवरेन्टी गवर्नमेंट “अलग होगी और अलग होना ही पड़ेगा।” यह बयान ऐसे समय आया है जब बाजार में चिंता है कि सरचार्ज दोबारा लागू होने पर कई घर रखने वाले मालिकों और अन्य लोगों के बेचने के फैसले कमजोर पड़ सकते हैं। किम ने पिछली सरकारों से अंतर पर जोर दिया और नीति संचालन पर सरकार का रुख बताया। मूल रिपोर्ट में कोई ठोस पूरक उपाय या अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pajak capital gain tambahan picu kekhawatiran pasokan terkunci, Menteri Agraria sebut pemerintah berbeda",
+        "excerpt": "Menteri Kim Yoon-duk pada tanggal 10 lewat media sosial menyebut kekhawatiran pasokan rumah terkunci setelah pajak capital gain tambahan diberlakukan lagi cukup besar, tetapi Pemerintah Kedaulatan Rakyat akan berbeda.",
+        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yoon-duk pada tanggal 10 melalui media sosial menyebut adanya kekhawatiran besar atas kemungkinan “pasokan terkunci”, yaitu rumah tidak masuk ke pasar, setelah pajak capital gain tambahan diberlakukan kembali. Meski ada kekhawatiran itu, Kim mengatakan Pemerintah Kedaulatan Rakyat “akan berbeda dan memang harus berbeda.” Pernyataan ini muncul di tengah kekhawatiran pasar bahwa penerapan kembali pajak tambahan tersebut dapat melemahkan keputusan menjual dari pemilik beberapa rumah dan pihak lain. Kim menekankan perbedaan dengan pemerintah sebelumnya dan menjelaskan sikap pemerintah dalam menjalankan kebijakan. Laporan asli tidak memuat langkah pelengkap konkret atau angka tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "393270577921",
     "slug": "메트로시티-자산-데시앙-견본주택-개관-주말에도-방문객-발길-이어져-622584",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kompleks Logistik Pungyu Gimhae Terancam Gagal Setelah 20 Tahun, Rumah Sakit Publik Ikut Dikhawatirkan",
         "excerpt": "Di Gimhae, Gyeongsang Selatan, proyek kompleks logistik umum Pungyu yang didorong lebih dari 20 tahun terancam batal, memunculkan kekhawatiran atas pembangunan pusat medis publik.",
         "body": "Proyek kompleks logistik umum Pungyu di Gimhae, Provinsi Gyeongsang Selatan, terancam gagal meski telah didorong selama lebih dari 20 tahun. Menurut laporan Yonhap, proyek ini merupakan rencana pembangunan kompleks logistik umum yang telah lama dipromosikan di Kota Gimhae. Ketika proyek tersebut menghadapi ketidakpastian, kekhawatiran juga meningkat bahwa pembangunan pusat medis publik yang terkait dengan rencana itu dapat ikut terkatung-katung. Perhatian lokal tertuju pada bagaimana arah proyek jangka panjang ini berkaitan dengan perluasan infrastruktur medis publik. Isu utama yang telah dikonfirmasi adalah kemungkinan gagalnya proyek kompleks logistik Pungyu dan potensi dampaknya terhadap jadwal pembangunan pusat medis publik. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "845326fda0e9",
-    "slug": "우리은행-국민연금-외화금고-재유치향후-5년-계약-789938",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T18:11:16.505Z",
-    "updatedAt": "2026-05-09T18:11:16.505Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508055200002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508055200002",
-    "titleFingerprint": "57d2b0d6a9c6c776a7ec738959301abf32f44ca2",
-    "dedupKeys": [
-      "845326fda0e978b4efdf342d46dd316ca85fef52",
-      "57d2b0d6a9c6c776a7ec738959301abf32f44ca2",
-      "953f0c54406ed47287f8542c786a1c48b1b0b685"
-    ],
-    "imageUrl": "/images/articles/845326fda0e9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리은행, 국민연금 외화금고은행 재유치…향후 5년 계약 우선협상",
-        "excerpt": "우리은행은 8일 국민연금공단의 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔다. 향후 5년 계약을 앞두고 기존 역할을 이어갈 가능성이 커졌다.",
-        "body": "우리은행은 8일 국민연금공단의 외화금고은행 우선협상대상자로 다시 선정됐다고 밝혔다. 이번 선정으로 우리은행은 국민연금공단 외화금고은행 업무와 관련해 향후 5년 계약을 추진하게 됐다. 국민연금공단 외화금고은행은 공단의 외화 관련 금고 업무를 맡는 은행으로, 우리은행은 이번에 해당 지위를 재유치했다. 발표 내용은 우선협상대상자 선정 사실과 계약 기간에 초점이 맞춰졌다. 향후 절차가 마무리되면 우리은행은 앞으로 5년 동안 관련 업무를 이어가게 된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Woori Bank Regains NPS Foreign-Currency Treasury Role for Five-Year Deal",
-        "excerpt": "Woori Bank said on the 8th that it was again selected as preferred bidder for the National Pension Service’s foreign-currency treasury bank, ahead of a five-year contract.",
-        "body": "Woori Bank said on the 8th that it has again been selected as the preferred bidder for the National Pension Service’s foreign-currency treasury bank. With the selection, Woori Bank is set to proceed toward a five-year contract related to the NPS foreign-currency treasury role. The bank previously held the position and has now regained it. The announcement focused on the preferred-bidder selection and the planned contract period. Once the remaining process is completed, Woori Bank is expected to continue the related work for the next five years. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "ウリィ銀行、国民年金の外貨金庫銀行に再選定…今後5年契約へ",
-        "excerpt": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選ばれたと発表した。今後5年契約に向け手続きが進む。",
-        "body": "ウリィ銀行は8日、国民年金公団の外貨金庫銀行の優先交渉対象者に再び選定されたと明らかにした。今回の選定により、ウリィ銀行は国民年金公団の外貨金庫銀行業務について、今後5年の契約に向けた手続きを進めることになる。外貨金庫銀行は公団の外貨関連金庫業務を担う銀行で、ウリィ銀行は今回その地位を再誘致した形だ。発表は優先交渉対象者の選定事実と契約期間に焦点を当てている。手続きが完了すれば、同行は今後5年間、関連業務を続けることになる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "友利银行再获国民年金外汇金库银行优先谈判资格，拟签五年合同",
-        "excerpt": "友利银行8日表示，再次被选为韩国国民年金公团外汇金库银行优先谈判对象，后续将推进为期五年的相关合同。",
-        "body": "友利银行8日表示，已再次被选为韩国国民年金公团外汇金库银行的优先谈判对象。此次入选后，友利银行将围绕国民年金公团外汇金库银行业务推进未来五年的合同。外汇金库银行负责公团外汇相关金库业务，友利银行此次重新获得该地位。公告内容主要集中在优先谈判对象的选定事实以及合同期限。若后续程序完成，友利银行将在未来五年继续承担相关业务。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Woori Bank recupera la caja de divisas del NPS con contrato previsto de cinco años",
-        "excerpt": "Woori Bank informó el día 8 que volvió a ser seleccionado como negociador preferente para el banco de caja en divisas del Servicio Nacional de Pensiones.",
-        "body": "Woori Bank informó el día 8 que volvió a ser seleccionado como negociador preferente para actuar como banco de caja en divisas del Servicio Nacional de Pensiones de Corea. Con esta selección, el banco avanzará hacia un contrato de cinco años vinculado a esa función. El banco de caja en divisas se encarga de las tareas de caja relacionadas con moneda extranjera del organismo, y Woori Bank recuperó ahora esa posición. El anuncio se centró en la selección como negociador preferente y en el periodo contractual previsto. Si el proceso restante concluye, Woori Bank continuará esas labores durante los próximos cinco años. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Woori Bank retoma caixa em divisas do NPS com contrato previsto de cinco anos",
-        "excerpt": "O Woori Bank informou no dia 8 que voltou a ser escolhido como negociador preferencial para banco de caixa em moeda estrangeira do Serviço Nacional de Pensões.",
-        "body": "O Woori Bank informou no dia 8 que foi novamente selecionado como negociador preferencial para atuar como banco de caixa em moeda estrangeira do Serviço Nacional de Pensões da Coreia. Com a seleção, o banco deverá avançar para um contrato de cinco anos relacionado a essa função. O banco de caixa em divisas responde pelas atividades de caixa em moeda estrangeira do órgão, e o Woori Bank reconquistou essa posição. O anúncio destacou a escolha como negociador preferencial e o prazo contratual previsto. Concluídas as etapas restantes, o banco seguirá com as tarefas pelos próximos cinco anos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Woori Bank erhält NPS-Devisenkassenmandat zurück, Fünfjahresvertrag geplant",
-        "excerpt": "Die Woori Bank teilte am 8. mit, erneut als bevorzugter Verhandlungspartner für die Devisenkassenbank des National Pension Service ausgewählt worden zu sein.",
-        "body": "Die Woori Bank teilte am 8. mit, erneut als bevorzugter Verhandlungspartner für die Devisenkassenbank des koreanischen National Pension Service ausgewählt worden zu sein. Damit soll die Bank auf einen Vertrag über fünf Jahre für diese Aufgabe hinarbeiten. Die Devisenkassenbank übernimmt die mit Fremdwährungen verbundenen Kassenaufgaben der Einrichtung; Woori Bank hat diese Position nun zurückgewonnen. Die Mitteilung konzentrierte sich auf die Auswahl als bevorzugter Verhandlungspartner und die vorgesehene Vertragsdauer. Nach Abschluss der weiteren Schritte würde Woori Bank die entsprechenden Aufgaben fünf Jahre lang fortführen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Woori Bank retrouve la caisse en devises du NPS avec un contrat de cinq ans prévu",
-        "excerpt": "Woori Bank a annoncé le 8 avoir été de nouveau retenue comme négociateur prioritaire pour la banque de caisse en devises du Service national des pensions.",
-        "body": "Woori Bank a annoncé le 8 avoir été de nouveau sélectionnée comme négociateur prioritaire pour devenir la banque de caisse en devises du Service national des pensions de Corée. Cette sélection ouvre la voie à un contrat de cinq ans lié à cette fonction. La banque de caisse en devises assure les opérations de caisse en monnaie étrangère de l’organisme, et Woori Bank a ainsi récupéré ce rôle. L’annonce porte principalement sur la désignation comme négociateur prioritaire et sur la durée prévue du contrat. Une fois les étapes restantes achevées, Woori Bank poursuivra ces activités pendant cinq ans. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "بنك ووري يستعيد دور خزانة العملات الأجنبية للمعاشات الوطنية بعقد لخمس سنوات",
-        "excerpt": "قال بنك ووري في الثامن من الشهر إنه اختير مجددا كجهة تفاوض مفضلة لبنك خزانة العملات الأجنبية التابع لمؤسسة المعاشات الوطنية الكورية.",
-        "body": "قال بنك ووري في الثامن من الشهر إنه اختير مرة أخرى كجهة تفاوض مفضلة لتولي دور بنك خزانة العملات الأجنبية لمؤسسة المعاشات الوطنية الكورية. وبموجب هذا الاختيار، سيتجه البنك إلى إبرام عقد مدته خمس سنوات يتعلق بهذه المهمة. ويتولى بنك خزانة العملات الأجنبية أعمال الخزانة المرتبطة بالعملات الأجنبية لدى المؤسسة، وقد استعاد بنك ووري هذا الدور مجددا. وتركز الإعلان على واقعة الاختيار كجهة تفاوض مفضلة وعلى مدة العقد المرتقبة. وبعد استكمال الإجراءات المتبقية، سيواصل بنك ووري أداء الأعمال ذات الصلة خلال السنوات الخمس المقبلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "वूरी बैंक को नेशनल पेंशन की विदेशी मुद्रा ट्रेजरी भूमिका फिर मिली, पांच साल का करार",
-        "excerpt": "वूरी बैंक ने 8 तारीख को कहा कि उसे कोरिया की नेशनल पेंशन सर्विस के विदेशी मुद्रा ट्रेजरी बैंक के लिए फिर पसंदीदा वार्ताकार चुना गया है।",
-        "body": "वूरी बैंक ने 8 तारीख को बताया कि उसे कोरिया की नेशनल पेंशन सर्विस के विदेशी मुद्रा ट्रेजरी बैंक के लिए फिर से पसंदीदा वार्ताकार के रूप में चुना गया है। इस चयन के साथ बैंक इस भूमिका से जुड़े पांच साल के अनुबंध की दिशा में आगे बढ़ेगा। विदेशी मुद्रा ट्रेजरी बैंक संस्था के विदेशी मुद्रा से संबंधित ट्रेजरी कार्यों को संभालता है, और वूरी बैंक ने यह स्थान दोबारा हासिल किया है। घोषणा में मुख्य रूप से पसंदीदा वार्ताकार के चयन और प्रस्तावित अनुबंध अवधि पर जोर दिया गया। शेष प्रक्रिया पूरी होने पर वूरी बैंक अगले पांच वर्षों तक संबंधित कार्य जारी रखेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Woori Bank kembali raih bank kas valuta asing NPS untuk kontrak lima tahun",
-        "excerpt": "Woori Bank menyatakan pada tanggal 8 bahwa pihaknya kembali terpilih sebagai calon negosiator utama untuk bank kas valuta asing National Pension Service Korea.",
-        "body": "Woori Bank menyatakan pada tanggal 8 bahwa pihaknya kembali terpilih sebagai calon negosiator utama untuk menjadi bank kas valuta asing National Pension Service Korea. Dengan pemilihan ini, Woori Bank akan melanjutkan proses menuju kontrak lima tahun terkait peran tersebut. Bank kas valuta asing menangani tugas kas yang berkaitan dengan valuta asing milik lembaga itu, dan Woori Bank kini meraih kembali posisi tersebut. Pengumuman ini berfokus pada fakta pemilihan sebagai calon negosiator utama dan masa kontrak yang direncanakan. Jika proses berikutnya selesai, Woori Bank akan meneruskan tugas terkait selama lima tahun mendatang. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c4ee02449fc8",
-    "slug": "오뚜기-진밀면-출시-54일-만에-누적-판매-500만개-넘어-929434",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T18:10:21.031Z",
-    "updatedAt": "2026-05-09T18:10:21.032Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508060600030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508060600030",
-    "titleFingerprint": "0fa433e81c3bb31afd9a9c9f6e90148e7a9f2b9d",
-    "dedupKeys": [
-      "c4ee02449fc8798708447eebe037acdf3631d90f",
-      "0fa433e81c3bb31afd9a9c9f6e90148e7a9f2b9d",
-      "ee47222d369786d2bba6406010a219b9e472e205"
-    ],
-    "imageUrl": "/images/articles/c4ee02449fc8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오뚜기 진밀면, 출시 54일 만에 누적 판매 500만개 돌파",
-        "excerpt": "오뚜기는 여름철을 맞아 선보인 신제품 ‘진밀면’이 출시 54일 만에 누적 판매량 500만개를 넘어섰다고 8일 밝혔다.",
-        "body": "오뚜기는 여름철을 맞아 출시한 신제품 ‘진밀면’이 출시 54일 만에 누적 판매량 500만개를 돌파했다고 8일 밝혔다. 진밀면은 오뚜기가 여름 시즌을 겨냥해 선보인 제품으로, 출시 이후 단기간에 판매량이 빠르게 늘어난 것으로 전해졌다. 이번 성과는 출시 54일이라는 비교적 짧은 기간에 누적 판매 500만개를 넘어섰다는 점에서 주목된다. 오뚜기는 해당 제품의 판매 추이를 통해 여름철 면 제품 수요를 확인할 수 있을 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Ottogi Jin Milmyeon Tops 5 Million Sales Just 54 Days After Launch",
-        "excerpt": "Ottogi said on the 8th that its new summer product, Jin Milmyeon, surpassed cumulative sales of 5 million units just 54 days after launch.",
-        "body": "Ottogi said on the 8th that its new product Jin Milmyeon, introduced for the summer season, surpassed cumulative sales of 5 million units 54 days after its launch. The product was released as part of Ottogi’s summer lineup, and sales reportedly increased quickly within a short period after launch. The result is notable because the product crossed the 5 million-unit mark in just 54 days. The sales trend may help indicate demand for noodle products during the summer season. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "オットギ『ジンミルミョン』発売54日で累計販売500万個を突破",
-        "excerpt": "オットギは8日、夏向けに投入した新商品『ジンミルミョン』が発売54日で累計販売500万個を超えたと明らかにした。",
-        "body": "オットギは8日、夏シーズンに合わせて発売した新商品『ジンミルミョン』が、発売から54日で累計販売500万個を突破したと発表した。ジンミルミョンはオットギが夏向けに投入した商品で、発売後、短期間で販売量が急速に伸びたと伝えられている。今回の成果は、発売54日という比較的短い期間で累計販売500万個を超えた点で注目される。オットギは同商品の販売推移を通じて、夏場の麺製品需要を確認できるとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "不倒翁Jin Milmyeon上市54天累计销量突破500万包",
-        "excerpt": "不倒翁8日表示，面向夏季推出的新产品“Jin Milmyeon”上市54天后，累计销量已突破500万包。",
-        "body": "不倒翁8日表示，为迎接夏季推出的新产品“Jin Milmyeon”在上市54天后累计销量突破500万包。该产品是不倒翁瞄准夏季市场推出的新品，上市后短时间内销量迅速增加。据悉，此次成绩因其在上市54天这一相对较短的时间内突破累计销量500万包而受到关注。通过该产品的销售走势，也可观察夏季面类产品需求情况。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ottogi Jin Milmyeon supera 5 millones de ventas en 54 días desde su lanzamiento",
-        "excerpt": "Ottogi informó el día 8 que su nuevo producto de verano, Jin Milmyeon, superó los 5 millones de unidades vendidas 54 días después de su lanzamiento.",
-        "body": "Ottogi informó el día 8 que su nuevo producto Jin Milmyeon, presentado para la temporada de verano, superó los 5 millones de unidades en ventas acumuladas 54 días después de su lanzamiento. Jin Milmyeon fue lanzado como parte de la oferta de Ottogi para el verano, y sus ventas aumentaron rápidamente en un corto periodo tras llegar al mercado. El resultado llama la atención porque alcanzó la marca de 5 millones de unidades en solo 54 días. La evolución de sus ventas puede servir para observar la demanda de productos de fideos durante el verano. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Ottogi Jin Milmyeon supera 5 milhões de vendas em 54 dias após lançamento",
-        "excerpt": "A Ottogi informou no dia 8 que seu novo produto de verão, Jin Milmyeon, ultrapassou 5 milhões de unidades vendidas 54 dias após o lançamento.",
-        "body": "A Ottogi informou no dia 8 que seu novo produto Jin Milmyeon, lançado para a temporada de verão, ultrapassou 5 milhões de unidades em vendas acumuladas 54 dias após o lançamento. O Jin Milmyeon foi apresentado como parte da linha de verão da Ottogi, e as vendas cresceram rapidamente em um curto período após chegar ao mercado. O resultado chama atenção por superar a marca de 5 milhões de unidades em apenas 54 dias. A trajetória de vendas do produto pode indicar a demanda por produtos de macarrão durante o verão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Ottogi Jin Milmyeon erreicht 5 Millionen Verkäufe nur 54 Tage nach Marktstart",
-        "excerpt": "Ottogi teilte am 8. mit, dass das neue Sommerprodukt Jin Milmyeon 54 Tage nach dem Start mehr als 5 Millionen verkaufte Einheiten erreichte.",
-        "body": "Ottogi teilte am 8. mit, dass das für die Sommersaison eingeführte neue Produkt Jin Milmyeon 54 Tage nach seiner Markteinführung mehr als 5 Millionen Einheiten im kumulierten Verkauf überschritten hat. Jin Milmyeon wurde als Sommerprodukt von Ottogi vorgestellt, und die Verkäufe sollen nach dem Start in kurzer Zeit schnell gestiegen sein. Das Ergebnis ist bemerkenswert, weil die Marke von 5 Millionen Einheiten in nur 54 Tagen erreicht wurde. Die Verkaufsentwicklung des Produkts kann Hinweise auf die Nachfrage nach Nudelprodukten im Sommer geben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Ottogi Jin Milmyeon dépasse 5 millions de ventes 54 jours après son lancement",
-        "excerpt": "Ottogi a annoncé le 8 que son nouveau produit estival, Jin Milmyeon, avait dépassé 5 millions d’unités vendues 54 jours après son lancement.",
-        "body": "Ottogi a annoncé le 8 que son nouveau produit Jin Milmyeon, lancé pour la saison estivale, avait dépassé 5 millions d’unités en ventes cumulées 54 jours après sa sortie. Jin Milmyeon a été présenté par Ottogi comme un produit destiné à l’été, et ses ventes auraient rapidement progressé en peu de temps après le lancement. Ce résultat retient l’attention car le seuil de 5 millions d’unités a été franchi en seulement 54 jours. L’évolution des ventes du produit pourrait permettre d’observer la demande de produits de nouilles pendant l’été. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أوتوغي جين ميلميون يتجاوز 5 ملايين مبيع خلال 54 يوما من إطلاقه",
-        "excerpt": "قالت أوتوغي في الثامن إن منتجها الصيفي الجديد «جين ميلميون» تجاوز 5 ملايين وحدة في المبيعات التراكمية بعد 54 يوما من إطلاقه.",
-        "body": "قالت أوتوغي في الثامن إن منتجها الجديد «جين ميلميون»، الذي طرحته لموسم الصيف، تجاوز 5 ملايين وحدة في المبيعات التراكمية بعد 54 يوما من إطلاقه. ويعد جين ميلميون منتجا قدمته أوتوغي مستهدفة موسم الصيف، وقد زادت مبيعاته بسرعة خلال فترة قصيرة بعد الإطلاق. وتلفت هذه النتيجة الانتباه لأنها تجاوزت حاجز 5 ملايين وحدة في مدة قصيرة نسبيا بلغت 54 يوما. ويمكن أن يساعد مسار مبيعات المنتج في رصد الطلب على منتجات المعكرونة خلال فصل الصيف. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Ottogi Jin Milmyeon लॉन्च के 54 दिन में 50 लाख बिक्री के पार",
-        "excerpt": "Ottogi ने 8 तारीख को बताया कि गर्मियों के लिए पेश किया गया नया उत्पाद Jin Milmyeon लॉन्च के 54 दिन में 50 लाख इकाइयों की संचयी बिक्री पार कर गया।",
-        "body": "Ottogi ने 8 तारीख को बताया कि गर्मियों के मौसम को ध्यान में रखकर लॉन्च किया गया नया उत्पाद Jin Milmyeon, लॉन्च के 54 दिन बाद 50 लाख इकाइयों की संचयी बिक्री पार कर गया। Jin Milmyeon को Ottogi ने ग्रीष्मकालीन उत्पाद के रूप में पेश किया था, और लॉन्च के बाद कम समय में इसकी बिक्री तेजी से बढ़ी बताई गई। यह उपलब्धि इसलिए ध्यान खींचती है क्योंकि उत्पाद ने केवल 54 दिनों में 50 लाख इकाइयों का आंकड़ा पार किया। इस बिक्री रुझान से गर्मियों में नूडल उत्पादों की मांग को समझने में मदद मिल सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Ottogi Jin Milmyeon Tembus 5 Juta Penjualan dalam 54 Hari Sejak Rilis",
-        "excerpt": "Ottogi menyatakan pada tanggal 8 bahwa produk baru musim panasnya, Jin Milmyeon, melampaui penjualan kumulatif 5 juta unit dalam 54 hari sejak diluncurkan.",
-        "body": "Ottogi menyatakan pada tanggal 8 bahwa produk baru Jin Milmyeon, yang diperkenalkan untuk musim panas, melampaui penjualan kumulatif 5 juta unit dalam 54 hari sejak peluncurannya. Jin Milmyeon merupakan produk yang dirilis Ottogi dengan menyasar musim panas, dan penjualannya disebut meningkat cepat dalam waktu singkat setelah diluncurkan. Capaian ini menarik perhatian karena melewati angka 5 juta unit hanya dalam 54 hari. Tren penjualan produk tersebut dapat membantu melihat permintaan produk mi selama musim panas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "84e7ca20623f",
-    "slug": "하나금융-경희대와-업무협약청년-창업가-육성-지원-437426",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T17:51:01.908Z",
-    "updatedAt": "2026-05-09T17:51:01.909Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508056000002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508056000002",
-    "titleFingerprint": "3d86fed3820a3412b5da83325af3d7daa0c4a09d",
-    "dedupKeys": [
-      "84e7ca20623f85350b9010a2e9be955761d9707d",
-      "3d86fed3820a3412b5da83325af3d7daa0c4a09d",
-      "06c955afb33365220896713618c8d6e406e9e185"
-    ],
-    "imageUrl": "/images/articles/84e7ca20623f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하나금융·경희대 업무협약 체결, 지역 청년 창업가 육성 지원 본격화",
-        "excerpt": "하나금융은 경희대학교와 지역 청년 창업 활성화를 위한 업무협약을 체결하고, 청년 창업가 발굴·육성 프로그램을 통해 지역 기반 창업 생태계 지원에 나선다.",
-        "body": "하나금융은 경희대학교와 지역 청년 창업 활성화를 위한 업무협약을 체결했다고 연합뉴스가 보도했다. 이번 협약은 지역 청년 창업가를 발굴하고 육성하는 프로그램 운영을 지원하기 위한 취지로 마련됐다. 하나금융은 경희대와 협력해 청년 창업가들이 성장할 수 있는 기반을 넓히는 데 초점을 맞춘다. 대학과 금융그룹이 함께 청년 창업 지원에 나서면서 지역 창업 생태계 활성화에도 보탬이 될 것으로 보인다. 관련 내용은 연합뉴스 이도흔 기자 보도를 바탕으로 했으며, 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "Hana Financial and Kyung Hee University Sign MOU to Support Young Entrepreneurs",
-        "excerpt": "Hana Financial Group signed an agreement with Kyung Hee University to promote local youth entrepreneurship and support a program to identify and nurture young founders.",
-        "body": "Hana Financial Group has signed a memorandum of understanding with Kyung Hee University to promote youth entrepreneurship in local communities, Yonhap News Agency reported. The agreement is aimed at supporting a program that discovers and nurtures young entrepreneurs. Through cooperation with the university, Hana Financial plans to focus on expanding the foundation that helps young founders grow. The partnership between a financial group and a university is expected to contribute to strengthening the local startup ecosystem. This article is based on a report by Yonhap reporter Lee Do-heun, with the source cited as yna.co.kr."
-      },
-      "ja": {
-        "title": "ハナ金融、慶熙大学と業務協約を締結し地域の若手起業家育成を支援",
-        "excerpt": "ハナ金融は慶熙大学と地域の若者による起業活性化に向けた業務協約を結び、若手起業家の発掘・育成プログラムを支援する。",
-        "body": "ハナ金融は、地域の若者による起業を活性化するため、慶熙大学と業務協約を締結したと聯合ニュースが報じた。今回の協約は、若手起業家を発掘し育成するプログラムの運営を支援する目的で進められた。ハナ金融は慶熙大学と協力し、若い起業家が成長できる基盤を広げることに重点を置く。大学と金融グループが共同で若者の起業支援に乗り出すことで、地域のスタートアップ生態系の活性化にもつながるとみられる。内容は聯合ニュースのイ・ドフン記者の報道に基づき、出典はyna.co.krである。"
-      },
-      "zh": {
-        "title": "韩亚金融与庆熙大学签署合作协议，支持地区青年创业者培养",
-        "excerpt": "韩亚金融与庆熙大学签署业务合作协议，旨在激活地区青年创业，并通过相关项目发掘和培养青年创业者。",
-        "body": "据韩联社报道，韩亚金融与庆熙大学签署了旨在激活地区青年创业的业务合作协议。此次协议的目的在于支持发掘和培养青年创业者的项目运营。韩亚金融将与庆熙大学合作，重点扩大青年创业者成长所需的基础条件。金融集团与大学共同参与青年创业支持，有望为地区创业生态的活跃提供助力。本文内容依据韩联社记者李到欣的报道整理，出处为yna.co.kr。"
-      },
-      "es": {
-        "title": "Hana Financial y la Universidad Kyung Hee firman acuerdo para apoyar a jóvenes emprendedores",
-        "excerpt": "Hana Financial firmó un acuerdo con la Universidad Kyung Hee para impulsar el emprendimiento juvenil local y apoyar un programa de identificación y formación de emprendedores.",
-        "body": "Hana Financial firmó un memorando de entendimiento con la Universidad Kyung Hee para promover el emprendimiento juvenil en las comunidades locales, informó la agencia Yonhap. El acuerdo busca respaldar un programa dedicado a descubrir y formar a jóvenes emprendedores. En cooperación con la universidad, Hana Financial centrará sus esfuerzos en ampliar la base que permite el crecimiento de los fundadores jóvenes. La participación conjunta de un grupo financiero y una universidad en el apoyo al emprendimiento juvenil podría contribuir a dinamizar el ecosistema local de startups. Este texto se basa en un reporte del periodista Lee Do-heun de Yonhap, con fuente en yna.co.kr."
-      },
-      "pt": {
-        "title": "Hana Financial e Universidade Kyung Hee assinam acordo para apoiar jovens empreendedores",
-        "excerpt": "O Hana Financial firmou um acordo com a Universidade Kyung Hee para estimular o empreendedorismo juvenil local e apoiar um programa de descoberta e formação de jovens fundadores.",
-        "body": "O Hana Financial assinou um memorando de entendimento com a Universidade Kyung Hee para promover o empreendedorismo juvenil em comunidades locais, informou a agência Yonhap. O acordo tem como objetivo apoiar a operação de um programa voltado a identificar e formar jovens empreendedores. Em cooperação com a universidade, o Hana Financial pretende concentrar-se em ampliar a base que ajuda esses fundadores a crescer. A atuação conjunta de um grupo financeiro e de uma universidade no apoio ao empreendedorismo juvenil deve contribuir para fortalecer o ecossistema local de startups. O conteúdo se baseia em reportagem de Lee Do-heun, da Yonhap, com fonte em yna.co.kr."
-      },
-      "de": {
-        "title": "Hana Financial und Kyung-Hee-Universität vereinbaren Förderung junger Gründer",
-        "excerpt": "Hana Financial hat mit der Kyung-Hee-Universität eine Vereinbarung geschlossen, um lokales Jugendunternehmertum zu fördern und junge Gründer zu entdecken und auszubilden.",
-        "body": "Hana Financial hat mit der Kyung-Hee-Universität eine Absichtserklärung zur Förderung des lokalen Jugendunternehmertums unterzeichnet, berichtete die Nachrichtenagentur Yonhap. Die Vereinbarung soll ein Programm unterstützen, das junge Unternehmerinnen und Unternehmer entdeckt und fördert. In Zusammenarbeit mit der Universität will Hana Financial den Schwerpunkt darauf legen, die Grundlage für das Wachstum junger Gründer zu erweitern. Dass eine Finanzgruppe und eine Universität gemeinsam junge Gründer unterstützen, dürfte zur Belebung des lokalen Startup-Ökosystems beitragen. Dieser Beitrag basiert auf einem Bericht von Yonhap-Reporter Lee Do-heun; Quelle ist yna.co.kr."
-      },
-      "fr": {
-        "title": "Hana Financial et l’Université Kyung Hee s’allient pour soutenir les jeunes entrepreneurs",
-        "excerpt": "Hana Financial a signé un accord avec l’Université Kyung Hee afin de promouvoir l’entrepreneuriat local des jeunes et soutenir un programme de repérage et de formation.",
-        "body": "Hana Financial a signé un protocole d’accord avec l’Université Kyung Hee afin de promouvoir l’entrepreneuriat des jeunes dans les communautés locales, a rapporté l’agence Yonhap. Cet accord vise à soutenir un programme destiné à repérer et former de jeunes entrepreneurs. En coopération avec l’université, Hana Financial entend se concentrer sur l’élargissement des bases permettant à ces fondateurs de se développer. L’engagement conjoint d’un groupe financier et d’une université dans le soutien à l’entrepreneuriat des jeunes devrait contribuer à dynamiser l’écosystème local des startups. Ce texte est fondé sur un article du journaliste Lee Do-heun de Yonhap, avec yna.co.kr comme source."
-      },
-      "ar": {
-        "title": "هانا فايننشال وجامعة كيونغ هي توقعان اتفاقا لدعم رواد الأعمال الشباب",
-        "excerpt": "وقعت مجموعة هانا فايننشال اتفاقية مع جامعة كيونغ هي لتنشيط ريادة الأعمال الشبابية المحلية ودعم برنامج لاكتشاف رواد الأعمال الشباب وتنميتهم.",
-        "body": "وقعت مجموعة هانا فايننشال مذكرة تفاهم مع جامعة كيونغ هي لتعزيز ريادة الأعمال بين الشباب في المناطق المحلية، وفقا لما أوردته وكالة يونهاب. وتهدف الاتفاقية إلى دعم تشغيل برنامج يركز على اكتشاف رواد الأعمال الشباب وتنميتهم. ومن خلال التعاون مع الجامعة، تركز هانا فايننشال على توسيع الأساس الذي يساعد المؤسسين الشباب على النمو. ومن المتوقع أن يسهم تعاون مجموعة مالية وجامعة في دعم ريادة الأعمال الشبابية في تنشيط منظومة الشركات الناشئة المحلية. يستند هذا النص إلى تقرير للصحفي لي دو-هون من يونهاب، والمصدر هو yna.co.kr."
-      },
-      "hi": {
-        "title": "हाना फाइनेंशियल और क्युंग ही विश्वविद्यालय ने युवा उद्यमियों के समर्थन के लिए समझौता किया",
-        "excerpt": "हाना फाइनेंशियल ने स्थानीय युवा उद्यमिता को बढ़ावा देने और युवा उद्यमियों की पहचान व विकास कार्यक्रम का समर्थन करने के लिए क्युंग ही विश्वविद्यालय से समझौता किया।",
-        "body": "योनहाप न्यूज एजेंसी के अनुसार, हाना फाइनेंशियल ने स्थानीय समुदायों में युवा उद्यमिता को बढ़ावा देने के लिए क्युंग ही विश्वविद्यालय के साथ समझौता ज्ञापन पर हस्ताक्षर किए। इस समझौते का उद्देश्य ऐसे कार्यक्रम को समर्थन देना है जो युवा उद्यमियों की पहचान और उनका विकास करता है। विश्वविद्यालय के साथ सहयोग के जरिए हाना फाइनेंशियल युवा संस्थापकों के विकास की बुनियाद को व्यापक बनाने पर ध्यान देगा। एक वित्तीय समूह और विश्वविद्यालय की संयुक्त भागीदारी से स्थानीय स्टार्टअप पारिस्थितिकी तंत्र को सक्रिय करने में मदद मिलने की उम्मीद है। यह लेख योनहाप के रिपोर्टर ली दो-हून की रिपोर्ट पर आधारित है, स्रोत yna.co.kr है।"
-      },
-      "id": {
-        "title": "Hana Financial dan Universitas Kyung Hee Teken Kerja Sama Dukung Wirausaha Muda",
-        "excerpt": "Hana Financial menandatangani kesepakatan dengan Universitas Kyung Hee untuk mendorong kewirausahaan muda lokal dan mendukung program pencarian serta pembinaan pendiri muda.",
-        "body": "Hana Financial menandatangani nota kesepahaman dengan Universitas Kyung Hee untuk mendorong kewirausahaan muda di komunitas lokal, menurut laporan Yonhap News Agency. Kesepakatan ini ditujukan untuk mendukung program yang menemukan dan membina wirausaha muda. Melalui kerja sama dengan universitas, Hana Financial akan berfokus pada perluasan fondasi yang membantu para pendiri muda berkembang. Kolaborasi antara grup keuangan dan universitas dalam mendukung kewirausahaan muda diperkirakan dapat membantu mengaktifkan ekosistem startup lokal. Artikel ini berdasarkan laporan reporter Yonhap Lee Do-heun, dengan sumber yna.co.kr."
       }
     }
   }
