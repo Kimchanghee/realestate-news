@@ -1,5 +1,230 @@
 [
   {
+    "id": "e019de903c48",
+    "slug": "확장-재정-힘-실은-김용범-반도체-호황에-역대급-세수재정-유연해야-570849",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T06:50:35.181Z",
+    "updatedAt": "2026-05-10T06:50:35.181Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260510/133892170/1",
+    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260510/133892170/1",
+    "titleFingerprint": "ead12bc1f88ef17e9317648df03558c3fe77653a",
+    "dedupKeys": [
+      "e019de903c488e80bda073414fe87892e09fe107",
+      "ead12bc1f88ef17e9317648df03558c3fe77653a",
+      "38b0ce04b4208d3c3987c8483e62df5189b14601"
+    ],
+    "imageUrl": "/images/articles/e019de903c48.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 호황에 세수 확대 전망, 김용범 “재정 정책 더 유연해야”",
+        "excerpt": "김용범 대통령정책실장은 9일 반도체 사이클이 코스피 상승과 무역수지 개선을 이끌며 2027년까지 역대급 초과 세수가 쌓일 수 있다고 밝혔다.",
+        "body": "김용범 대통령정책실장은 9일 페이스북 글 ‘코스피 7,500 그리고 1만의 문턱 앞에서’를 통해 최근 코스피 상승을 이끄는 반도체 사이클이 2027년까지 역대급 초과 세수로 이어질 수 있다고 전망했다. 그는 한국 재정과 거시 전망이 GDP 성장률 전망을 기초로 움직이지만, 이번 반도체 호황은 기존 GDP 체계가 포착하기 어렵다고 진단했다. 김 실장은 올해 1분기 GDP 성장률 속보치가 1.7%로 한국은행 전망치 0.9%의 거의 두 배이고, 무역수지도 월별 사상 최대 흐름이라고 설명했다. 또 골드만삭스가 추정한 삼성전자와 SK하이닉스의 단독 합산 이익을 언급하며 평범한 경기 순환의 숫자가 아니라고 강조했다. 이는 세입 추계와 재정 운용에서 더 유연한 접근이 필요하다는 취지로, 정부의 확장 재정 기조에 힘을 실은 발언으로 해석된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Chip Boom Lifts Tax Revenue Outlook as Kim Yong-beom Calls for Fiscal Flexibility",
+        "excerpt": "Presidential Policy Chief Kim Yong-beom said on May 9 that the semiconductor cycle driving the Kospi could generate record excess tax revenue through 2027.",
+        "body": "Presidential Policy Chief Kim Yong-beom said on May 9 in a Facebook post titled “Ahead of the Kospi 7,500 and 10,000 thresholds” that the semiconductor cycle behind the recent Kospi rally could lead to record excess tax revenue through 2027. He said Korea’s fiscal and macroeconomic outlooks are based on GDP growth forecasts, but the current chip boom is difficult for the existing GDP framework to capture. Kim noted that the preliminary first-quarter GDP growth rate was 1.7%, nearly double the Bank of Korea’s 0.9% forecast, while the trade balance has been setting monthly records. He also cited Goldman Sachs’ estimate of the combined standalone profits of Samsung Electronics and SK Hynix, stressing that these are not figures from an ordinary business cycle. The remarks suggest a need for more flexible tax revenue estimates and fiscal management, reinforcing the government’s expansionary fiscal stance. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "半導体好況で税収拡大見通し、金容範氏「財政はより柔軟に」",
+        "excerpt": "金容範大統領政策室長は9日、コスピ上昇を主導する半導体サイクルにより、2027年まで過去最大級の超過税収が積み上がる可能性があると述べた。",
+        "body": "金容範大統領政策室長は9日、フェイスブックに「コスピ7,500、そして1万の敷居を前に」と題した投稿を行い、最近のコスピ上昇を主導する半導体サイクルが2027年まで過去最大級の超過税収につながる可能性があるとの見方を示した。金氏は、韓国の財政とマクロ見通しはGDP成長率予測を基礎に動くが、今回の半導体好況は従来のGDP体系では捉えにくいと診断した。今年1～3月期のGDP成長率速報値は1.7%で、韓国銀行の予測0.9%のほぼ2倍であり、貿易収支も月次で過去最大の流れを続けていると説明した。さらに、ゴールドマン・サックスが推定したサムスン電子とSKハイニックスの単独合算利益にも触れ、通常の景気循環から出る数字ではないと強調した。発言は税収推計と財政運営でより柔軟な対応が必要だという趣旨で、政府の拡張財政路線を後押しするものと解釈される。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "半导体景气推升税收预期，金容范称财政政策需更灵活",
+        "excerpt": "总统政策室长金容范9日表示，带动近期KOSPI上涨的半导体周期可能使韩国到2027年累积创纪录的超额税收。",
+        "body": "总统政策室长金容范9日在脸书发表题为《站在KOSPI 7500和1万点门槛前》的文章称，近期推动KOSPI上涨的半导体周期，可能使韩国到2027年累积创纪录的超额税收。他指出，韩国财政和宏观展望以GDP增长率预测为基础，但此次半导体景气难以被现有GDP体系充分捕捉。金容范表示，今年一季度GDP增长率初值为1.7%，几乎是韩国银行0.9%预测值的两倍，贸易收支也在按月刷新历史高位。他还提到高盛估算的三星电子与SK海力士单独合计利润，强调这些并非普通经济周期中出现的数字。相关表态意在说明税收预测和财政运用需要采取更灵活的方法，也被解读为支持政府扩张性财政基调。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Auge de semiconductores mejora previsión fiscal y Kim pide más flexibilidad",
+        "excerpt": "Kim Yong-beom, jefe de Política Presidencial, dijo el 9 de mayo que el ciclo de semiconductores que impulsa el Kospi podría generar ingresos fiscales extraordinarios hasta 2027.",
+        "body": "Kim Yong-beom, jefe de Política Presidencial, afirmó el 9 de mayo en Facebook, en una publicación titulada “Ante los umbrales del Kospi 7.500 y 10.000”, que el ciclo de semiconductores que impulsa el reciente avance del Kospi podría traducirse en ingresos fiscales extraordinarios de nivel récord hasta 2027. Señaló que las perspectivas fiscales y macroeconómicas de Corea se basan en previsiones de crecimiento del PIB, pero que el actual auge de los chips es difícil de captar con el marco tradicional del PIB. Kim indicó que el crecimiento preliminar del PIB del primer trimestre fue del 1,7%, casi el doble del 0,9% previsto por el Banco de Corea, y que la balanza comercial marca máximos históricos mensuales. También mencionó la estimación de Goldman Sachs sobre las ganancias independientes combinadas de Samsung Electronics y SK Hynix, subrayando que no son cifras propias de un ciclo económico ordinario. Sus comentarios apuntan a una mayor flexibilidad en las estimaciones de ingresos y la gestión fiscal, reforzando la orientación expansiva del Gobierno. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Alta dos chips eleva previsão de receita, e Kim pede política fiscal flexível",
+        "excerpt": "Kim Yong-beom, chefe de Política Presidencial, afirmou em 9 de maio que o ciclo de semicondutores que impulsiona o Kospi pode gerar arrecadação extra recorde até 2027.",
+        "body": "Kim Yong-beom, chefe de Política Presidencial, afirmou em 9 de maio no Facebook, em texto intitulado “Diante dos patamares de 7.500 e 10.000 do Kospi”, que o ciclo de semicondutores que lidera a recente alta do índice pode resultar em arrecadação excedente recorde até 2027. Ele disse que as projeções fiscais e macroeconômicas da Coreia se baseiam nas previsões de crescimento do PIB, mas que o atual boom dos chips é difícil de captar pelo sistema tradicional do PIB. Kim observou que a estimativa preliminar de crescimento do PIB no primeiro trimestre foi de 1,7%, quase o dobro da previsão de 0,9% do Banco da Coreia, enquanto a balança comercial vem registrando máximas mensais. Também citou a estimativa do Goldman Sachs para o lucro combinado individual da Samsung Electronics e da SK Hynix, ressaltando que esses números não vêm de um ciclo econômico comum. A fala aponta para maior flexibilidade nas estimativas de receita e na gestão fiscal, reforçando a orientação de expansão fiscal do governo. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Chipboom stützt Steuerprognose, Kim Yong-beom fordert flexiblere Finanzpolitik",
+        "excerpt": "Kim Yong-beom, Leiter des Präsidialamts für Politik, sagte am 9. Mai, der Halbleiterzyklus hinter dem Kospi-Anstieg könne bis 2027 rekordhohe Mehreinnahmen bringen.",
+        "body": "Kim Yong-beom, Leiter des Präsidialamts für Politik, erklärte am 9. Mai in einem Facebook-Beitrag mit dem Titel „Vor den Kospi-Schwellen von 7.500 und 10.000“, der Halbleiterzyklus hinter dem jüngsten Kospi-Anstieg könne bis 2027 zu rekordhohen zusätzlichen Steuereinnahmen führen. Er sagte, Koreas finanz- und makroökonomische Aussichten basierten auf Prognosen zum BIP-Wachstum, doch der aktuelle Chipboom lasse sich mit dem bestehenden BIP-Rahmen nur schwer erfassen. Kim verwies darauf, dass die vorläufige Wachstumsrate des BIP im ersten Quartal bei 1,7% lag, fast doppelt so hoch wie die Prognose der Bank of Korea von 0,9%, während die Handelsbilanz monatlich Rekordwerte erreiche. Zudem nannte er die von Goldman Sachs geschätzten addierten Einzelgewinne von Samsung Electronics und SK Hynix und betonte, dies seien keine Zahlen eines gewöhnlichen Konjunkturzyklus. Seine Äußerungen deuten auf eine flexiblere Herangehensweise bei Steuerschätzungen und Finanzpolitik hin und stützen den expansiven Kurs der Regierung. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Boom des semi-conducteurs: Kim Yong-beom appelle à une politique budgétaire flexible",
+        "excerpt": "Kim Yong-beom, chef de la politique présidentielle, a déclaré le 9 mai que le cycle des semi-conducteurs porté par le Kospi pourrait générer des recettes fiscales excédentaires record d’ici 2027.",
+        "body": "Kim Yong-beom, chef de la politique présidentielle, a écrit le 9 mai sur Facebook, dans un texte intitulé « Devant les seuils de 7 500 et 10 000 du Kospi », que le cycle des semi-conducteurs à l’origine de la récente hausse du Kospi pourrait entraîner des recettes fiscales excédentaires record jusqu’en 2027. Il a expliqué que les perspectives budgétaires et macroéconomiques de la Corée reposent sur les prévisions de croissance du PIB, mais que l’essor actuel des puces est difficile à saisir dans le cadre habituel du PIB. Kim a indiqué que la croissance préliminaire du PIB au premier trimestre atteignait 1,7%, près du double de la prévision de 0,9% de la Banque de Corée, tandis que la balance commerciale enchaîne des records mensuels. Il a aussi cité l’estimation de Goldman Sachs concernant les bénéfices autonomes combinés de Samsung Electronics et SK Hynix, soulignant qu’il ne s’agit pas de chiffres d’un cycle économique ordinaire. Ces propos plaident pour plus de souplesse dans les estimations de recettes et la gestion budgétaire, en appui à l’orientation budgétaire expansionniste du gouvernement. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ازدهار الرقائق يعزز توقعات الضرائب وكيم يدعو إلى مرونة مالية أكبر",
+        "excerpt": "قال كيم يونغ-بوم، كبير مستشاري السياسات الرئاسية، في 9 مايو إن دورة أشباه الموصلات التي تقود صعود كوسبي قد تولد إيرادات ضريبية فائضة قياسية حتى 2027.",
+        "body": "قال كيم يونغ-بوم، كبير مستشاري السياسات الرئاسية، في منشور على فيسبوك في 9 مايو بعنوان «أمام عتبة كوسبي 7500 و10000» إن دورة أشباه الموصلات التي تقود الارتفاع الأخير في مؤشر كوسبي قد تؤدي إلى تراكم إيرادات ضريبية فائضة بمستويات قياسية حتى عام 2027. وأوضح أن التوقعات المالية والكلية في كوريا تتحرك على أساس توقعات نمو الناتج المحلي الإجمالي، لكن ازدهار الرقائق الحالي يصعب على إطار الناتج المحلي القائم التقاطه. وذكر أن القراءة الأولية لنمو الناتج المحلي في الربع الأول بلغت 1.7%، أي ما يقارب ضعف توقع بنك كوريا البالغ 0.9%، وأن الميزان التجاري يسجل مستويات شهرية قياسية. كما أشار إلى تقدير غولدمان ساكس للأرباح المستقلة المجمعة لسامسونغ إلكترونيكس وSK هاينكس، مؤكدا أن هذه ليست أرقاما ناتجة عن دورة اقتصادية عادية. وتشير تصريحاته إلى الحاجة لنهج أكثر مرونة في تقدير الإيرادات وإدارة المالية العامة، بما يدعم توجه الحكومة نحو التوسع المالي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर तेजी से कर राजस्व अनुमान मजबूत, किम ने वित्तीय लचीलापन मांगा",
+        "excerpt": "राष्ट्रपति नीति प्रमुख किम योंग-बोम ने 9 मई को कहा कि कोस्पी को बढ़ा रहा सेमीकंडक्टर चक्र 2027 तक रिकॉर्ड अतिरिक्त कर राजस्व ला सकता है।",
+        "body": "राष्ट्रपति नीति प्रमुख किम योंग-बोम ने 9 मई को फेसबुक पर “कोस्पी 7,500 और 10,000 की दहलीज के सामने” शीर्षक से लिखे पोस्ट में कहा कि हालिया कोस्पी तेजी को चला रहा सेमीकंडक्टर चक्र 2027 तक रिकॉर्ड स्तर का अतिरिक्त कर राजस्व पैदा कर सकता है। उन्होंने कहा कि कोरिया की राजकोषीय और व्यापक आर्थिक संभावनाएं GDP वृद्धि अनुमानों पर आधारित हैं, लेकिन मौजूदा चिप उछाल को मौजूदा GDP ढांचा पूरी तरह पकड़ना कठिन है। किम ने बताया कि इस वर्ष पहली तिमाही की प्रारंभिक GDP वृद्धि दर 1.7% रही, जो बैंक ऑफ कोरिया के 0.9% अनुमान से लगभग दोगुनी है, और व्यापार संतुलन मासिक आधार पर रिकॉर्ड स्तर दिखा रहा है। उन्होंने गोल्डमैन सैक्स द्वारा Samsung Electronics और SK Hynix के संयुक्त स्वतंत्र लाभ के अनुमान का भी उल्लेख किया और कहा कि ये सामान्य आर्थिक चक्र के आंकड़े नहीं हैं। उनके बयान का आशय कर राजस्व अनुमान और वित्तीय संचालन में अधिक लचीले दृष्टिकोण की जरूरत से है, जिसे सरकार की विस्तारवादी वित्तीय नीति को बल देने वाला माना जा रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Boom Semikonduktor Angkat Prospek Pajak, Kim Minta Fiskal Lebih Fleksibel",
+        "excerpt": "Kepala Kebijakan Presiden Kim Yong-beom pada 9 Mei mengatakan siklus semikonduktor yang mendorong Kospi dapat menghasilkan kelebihan penerimaan pajak rekor hingga 2027.",
+        "body": "Kepala Kebijakan Presiden Kim Yong-beom pada 9 Mei menulis di Facebook dengan judul “Di depan ambang Kospi 7.500 dan 10.000” bahwa siklus semikonduktor yang memimpin kenaikan terbaru Kospi dapat berujung pada kelebihan penerimaan pajak tingkat rekor hingga 2027. Ia mengatakan prospek fiskal dan makro Korea bergerak berdasarkan perkiraan pertumbuhan PDB, tetapi boom chip kali ini sulit ditangkap oleh kerangka PDB yang ada. Kim mencatat angka awal pertumbuhan PDB kuartal pertama tahun ini mencapai 1,7%, hampir dua kali perkiraan Bank of Korea sebesar 0,9%, sementara neraca perdagangan terus mencatat rekor bulanan. Ia juga menyebut estimasi Goldman Sachs atas gabungan laba mandiri Samsung Electronics dan SK Hynix, seraya menegaskan bahwa angka-angka itu bukan hasil dari siklus ekonomi biasa. Pernyataan tersebut menunjukkan perlunya pendekatan lebih fleksibel dalam estimasi penerimaan dan pengelolaan fiskal, sekaligus memperkuat arah kebijakan fiskal ekspansif pemerintah. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "57c7b35ce22a",
+    "slug": "김윤덕-국토장관-매물-잠김-우려에-이번-정부는-다를-것-297641",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T06:48:54.925Z",
+    "updatedAt": "2026-05-10T06:48:54.925Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892523/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892523/2",
+    "titleFingerprint": "c4722e41398a84d2fe366743e08f72a9cce657f5",
+    "dedupKeys": [
+      "57c7b35ce22a606ac525b4b4c20706b49b784820",
+      "c4722e41398a84d2fe366743e08f72a9cce657f5",
+      "73b32f0a1c18dad97b6b6334f65dc5431e35fa4e"
+    ],
+    "imageUrl": "/images/articles/57c7b35ce22a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김윤덕 국토장관, 다주택자 양도세 중과 재개 매물 잠김 우려에 “정부는 다를 것”",
+        "excerpt": "김윤덕 국토교통부 장관은 10일 다주택자 양도소득세 중과 재개 이후 제기된 주택 매물 잠김 우려에 대해 과거와 다른 정부 대응을 강조했다.",
+        "body": "김윤덕 국토교통부 장관은 10일 소셜미디어 엑스(X·옛 트위터)를 통해 다주택자 양도소득세 중과 재개 이후 제기되는 주택 매물 잠김 우려에 대해 “이번 정부는 다를 것”이라는 입장을 밝혔다. 김 장관은 매물 잠김 전망이 대체로 과거 정부 경험에 근거한다고 설명했다. 그는 이전 정부들이 통화·금융 등 거시경제 운용의 기본 틀을 유지한 채 부동산시장 안정 정책을 추진했다고 했다. 반면 이재명 정부는 소득 계층과 지역 간 계층 이동 장벽 해소 없이는 대한민국의 미래와 통합을 담보할 수 없다는 인식 아래 근본적 제도 개혁을 추진하고 있다고 밝혔다. 금융, 세제, 공급 등 경제적 유인 구조를 재설계해 부동산 불로소득에 기대는 경제 구조에서 생산적 경제 구조로 전환하겠다는 취지도 제시했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Land Minister Kim Yun-deok says government will differ on home listing lock-up fears",
+        "excerpt": "Land Minister Kim Yun-deok said on the 10th that fears of a housing listing lock-up after the renewed heavy capital gains tax on multi-homeowners are based largely on past governments.",
+        "body": "Land Minister Kim Yun-deok said on the 10th via social media platform X, formerly Twitter, that the current government “will be different” in response to concerns that home listings could freeze after the renewed heavy capital gains tax on multi-homeowners. Kim said forecasts of a listing lock-up are mostly based on experiences under previous governments. He said earlier administrations pursued housing market stabilization while maintaining the basic framework of macroeconomic management, including monetary and financial policy. By contrast, he said the Lee Jae-myung government is pursuing fundamental institutional reform based on the view that Korea’s future and integration cannot be secured unless barriers to mobility between income classes and regions are removed. He also said the government aims to redesign economic incentives in finance, taxation and supply to shift away from an economy reliant on unearned real estate gains toward a productive economic structure. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "金潤徳国土交通相、多住宅保有者の譲渡税重課再開後の売り渋り懸念に「政府は違う」",
+        "excerpt": "金潤徳国土交通部長官は10日、多住宅保有者への譲渡所得税重課再開後に出ている住宅売り渋り懸念について、過去とは異なる政府対応を強調した。",
+        "body": "金潤徳国土交通部長官は10日、SNSのX（旧ツイッター）を通じ、多住宅保有者に対する譲渡所得税の重課再開後に提起されている住宅の売り渋り懸念について、「今回の政府は違う」との立場を示した。金長官は、売り渋りの現場見通しはおおむね過去の政府での経験に基づくものだと説明した。以前の政府は通貨・金融などマクロ経済運営の基本枠組みを維持したまま不動産市場安定策を進めたという。一方、李在明政権は、所得階層と地域間の階層移動の壁を解消しなければ韓国の未来と統合を担保できないとの認識の下、根本的な制度改革を進めていると述べた。金融、税制、供給など経済的誘因構造を再設計し、不動産の不労所得に依存する経済構造から生産的な経済構造への転換を図る趣旨も示した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国国土部长金允德回应多房者资本利得税加重后房源锁定担忧：本届政府会不同",
+        "excerpt": "韩国国土交通部长金允德10日表示，多房者转让所得税加重恢复后出现的住房房源锁定担忧，多基于过去政府经验，本届政府将以不同方式应对。",
+        "body": "韩国国土交通部长金允德10日通过社交媒体X（原推特）表示，针对多房者转让所得税加重恢复后外界提出的住房房源锁定担忧，“本届政府会不同”。金允德说明，关于房源锁定的市场一线预期，大体上是依据过去政府的经验。他表示，以前的政府在维持货币、金融等宏观经济运行基本框架的同时推进房地产市场稳定政策。相比之下，李在明政府并非只从单纯稳定房地产市场的角度出发，而是认为如果不消除收入阶层和地区之间阶层流动的障碍，就无法保障韩国的未来与整合，因此正在推进根本性的制度改革。他还提出，将全面重新设计金融、税制、供应等经济激励结构，推动经济从依赖房地产不劳所得转向生产性经济结构。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Kim Yun-deok responde al temor de bloqueo de viviendas tras reactivar el recargo fiscal a multipropietarios",
+        "excerpt": "El ministro surcoreano de Tierra, Kim Yun-deok, dijo el día 10 que el temor a un bloqueo de viviendas tras reactivar el recargo al impuesto sobre ganancias de capital se basa en experiencias pasadas.",
+        "body": "El ministro surcoreano de Tierra, Infraestructura y Transporte, Kim Yun-deok, afirmó el día 10 en la red social X, antes Twitter, que “este gobierno será diferente” frente a las preocupaciones por un posible bloqueo de la oferta de viviendas tras la reanudación del recargo al impuesto sobre ganancias de capital para propietarios de múltiples viviendas. Kim explicó que esas previsiones se basan en gran medida en la experiencia con gobiernos anteriores. Señaló que administraciones pasadas impulsaron políticas de estabilización del mercado inmobiliario manteniendo el marco básico de gestión macroeconómica, incluidas las políticas monetaria y financiera. En cambio, dijo que el gobierno de Lee Jae-myung promueve una reforma institucional fundamental bajo la idea de que no se puede garantizar el futuro ni la integración de Corea del Sur sin eliminar barreras de movilidad entre niveles de ingreso y regiones. También indicó que se rediseñarán incentivos en finanzas, impuestos y oferta para pasar de una economía apoyada en rentas inmobiliarias no ganadas a una estructura productiva. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Kim Yun-deok responde a temor de trava nas vendas após retomada de imposto maior a múltiplos imóveis",
+        "excerpt": "O ministro sul-coreano Kim Yun-deok disse no dia 10 que o receio de trava na oferta de moradias após a retomada da tributação reforçada sobre ganhos de capital se baseia em experiências passadas.",
+        "body": "O ministro da Terra, Infraestrutura e Transporte da Coreia do Sul, Kim Yun-deok, afirmou no dia 10, pela rede social X, antigo Twitter, que “este governo será diferente” diante das preocupações de que imóveis deixem de ser colocados à venda após a retomada da tributação reforçada sobre ganhos de capital para proprietários de múltiplas residências. Kim disse que as previsões de trava na oferta se apoiam, em grande parte, na experiência com governos anteriores. Segundo ele, administrações passadas buscaram estabilizar o mercado imobiliário mantendo a estrutura básica da gestão macroeconômica, incluindo política monetária e financeira. Em contraste, afirmou que o governo Lee Jae-myung promove reformas institucionais fundamentais com a visão de que o futuro e a integração da Coreia do Sul não podem ser assegurados sem remover barreiras de mobilidade entre faixas de renda e regiões. Ele também citou o redesenho de incentivos em finanças, impostos e oferta para mudar de uma economia dependente de ganhos imobiliários não produtivos para uma estrutura produtiva. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Kim Yun-deok weist Sorgen vor blockierten Wohnungsangeboten nach Steueraufschlag zurück",
+        "excerpt": "Südkoreas Landminister Kim Yun-deok sagte am 10., Sorgen vor einem Einfrieren von Wohnungsangeboten nach der erneuten Kapitalertragsteuer-Verschärfung beruhten vor allem auf Erfahrungen mit früheren Regierungen.",
+        "body": "Südkoreas Minister für Land, Infrastruktur und Verkehr, Kim Yun-deok, erklärte am 10. über die Plattform X, früher Twitter, die derzeitige Regierung werde bei Sorgen über ein mögliches Einfrieren von Wohnungsangeboten nach der Wiederaufnahme des erhöhten Kapitalertragsteuerzuschlags für Mehrfachhausbesitzer „anders sein“. Kim sagte, die Prognosen zu blockierten Angeboten stützten sich überwiegend auf Erfahrungen mit früheren Regierungen. Diese hätten Maßnahmen zur Stabilisierung des Immobilienmarktes verfolgt, während sie den grundlegenden Rahmen der makroökonomischen Steuerung, darunter Geld- und Finanzpolitik, beibehielten. Dagegen treibe die Regierung Lee Jae-myung grundlegende institutionelle Reformen voran, weil sie Koreas Zukunft und Integration ohne den Abbau von Mobilitätsbarrieren zwischen Einkommensschichten und Regionen nicht gesichert sehe. Zudem solle die Anreizstruktur in Finanzierung, Steuern und Angebot neu gestaltet werden, um von einer auf Immobilienrenten gestützten Wirtschaft zu einer produktiven Wirtschaftsstruktur überzugehen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Kim Yun-deok répond aux craintes de blocage des ventes après le retour de la surtaxe immobilière",
+        "excerpt": "Le ministre sud-coréen Kim Yun-deok a déclaré le 10 que les craintes de blocage des mises en vente après le retour de la surtaxe sur les plus-values des multipropriétaires reposent surtout sur le passé.",
+        "body": "Le ministre sud-coréen du Territoire, des Infrastructures et des Transports, Kim Yun-deok, a déclaré le 10 sur le réseau social X, anciennement Twitter, que « ce gouvernement sera différent » face aux inquiétudes concernant un possible blocage des mises en vente de logements après la reprise de la surtaxe sur les plus-values immobilières des multipropriétaires. Kim a expliqué que ces prévisions reposent pour l’essentiel sur l’expérience des gouvernements précédents. Selon lui, les anciennes administrations ont mené des politiques de stabilisation du marché immobilier tout en conservant le cadre de base de la gestion macroéconomique, notamment monétaire et financière. À l’inverse, le gouvernement Lee Jae-myung mène une réforme institutionnelle fondamentale, estimant que l’avenir et l’intégration de la Corée du Sud ne peuvent être garantis sans lever les obstacles à la mobilité entre classes de revenus et régions. Il a aussi évoqué une refonte des incitations liées à la finance, à la fiscalité et à l’offre afin de passer d’une économie dépendante des gains immobiliers non gagnés à une structure productive. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كيم يون-دوك يرد على مخاوف تجميد معروض المساكن بعد عودة الضريبة المشددة على ملاك عدة منازل",
+        "excerpt": "قال وزير الأراضي الكوري الجنوبي كيم يون-دوك في العاشر إن مخاوف تجميد معروض المساكن بعد استئناف تشديد ضريبة أرباح رأس المال على ملاك عدة منازل تستند غالبا إلى تجارب حكومات سابقة.",
+        "body": "قال وزير الأراضي والبنية التحتية والنقل في كوريا الجنوبية كيم يون-دوك في العاشر، عبر منصة التواصل الاجتماعي إكس، تويتر سابقا، إن «هذه الحكومة ستكون مختلفة» في التعامل مع المخاوف من تجميد عرض المساكن بعد استئناف تشديد ضريبة أرباح رأس المال على ملاك عدة منازل. وأوضح كيم أن توقعات تجميد المعروض تستند في معظمها إلى تجارب الحكومات السابقة. وقال إن الإدارات السابقة دفعت بسياسات استقرار سوق العقارات مع الحفاظ على الإطار الأساسي لإدارة الاقتصاد الكلي، بما في ذلك السياسات النقدية والمالية. أما حكومة لي جاي-ميونغ، بحسب قوله، فتدفع بإصلاح مؤسسي جذري انطلاقا من قناعة بأن مستقبل كوريا الجنوبية وتكاملها لا يمكن ضمانهما من دون إزالة حواجز الانتقال بين طبقات الدخل والمناطق. وأضاف أن الحكومة تسعى إلى إعادة تصميم هيكل الحوافز الاقتصادية في التمويل والضرائب والعرض، للانتقال من اقتصاد يعتمد على الدخل غير المكتسب من العقارات إلى بنية اقتصادية منتجة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "किम यून-देओक ने बहु-घर मालिकों पर कर सख्ती के बाद आवास सूची लॉक होने की आशंका पर कहा, सरकार अलग होगी",
+        "excerpt": "दक्षिण कोरिया के भूमि मंत्री किम यून-देओक ने 10 तारीख को कहा कि बहु-घर मालिकों पर पूंजीगत लाभ कर सख्ती फिर शुरू होने के बाद आवास सूची रुकने की आशंका पुराने अनुभवों पर आधारित है।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्री किम यून-देओक ने 10 तारीख को सोशल मीडिया मंच X, पूर्व ट्विटर, पर कहा कि बहु-घर मालिकों के लिए पूंजीगत लाभ कर की कड़ी व्यवस्था फिर शुरू होने के बाद आवास बिक्री सूची रुकने की चिंताओं पर “यह सरकार अलग होगी।” किम ने कहा कि सूची लॉक होने के अनुमान काफी हद तक पिछली सरकारों के अनुभवों पर आधारित हैं। उनके अनुसार, पहले की सरकारों ने मौद्रिक और वित्तीय नीति सहित व्यापक आर्थिक संचालन के मूल ढांचे को बनाए रखते हुए रियल एस्टेट बाजार स्थिर करने की नीतियां चलाईं। इसके विपरीत, उन्होंने कहा कि ली जे-म्यॉंग सरकार इस विचार के तहत बुनियादी संस्थागत सुधार आगे बढ़ा रही है कि आय वर्गों और क्षेत्रों के बीच सामाजिक-आर्थिक गतिशीलता की बाधाएं हटाए बिना दक्षिण कोरिया के भविष्य और एकीकरण को सुनिश्चित नहीं किया जा सकता। उन्होंने वित्त, कर और आपूर्ति में आर्थिक प्रोत्साहन ढांचे को फिर से डिजाइन कर अचल संपत्ति से मिलने वाली अनर्जित आय पर निर्भर अर्थव्यवस्था से उत्पादक आर्थिक संरचना की ओर बदलाव का उद्देश्य भी बताया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kim Yun-deok tanggapi kekhawatiran rumah tertahan setelah pajak capital gain multipemilik diberlakukan lagi",
+        "excerpt": "Menteri Pertanahan Korea Selatan Kim Yun-deok pada tanggal 10 mengatakan kekhawatiran rumah tertahan setelah pajak capital gain lebih berat bagi multipemilik diberlakukan lagi terutama berdasar pengalaman masa lalu.",
+        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Korea Selatan Kim Yun-deok pada tanggal 10 menyampaikan melalui media sosial X, sebelumnya Twitter, bahwa “pemerintah kali ini akan berbeda” dalam menanggapi kekhawatiran bahwa pasokan rumah dijual akan tertahan setelah pemberlakuan kembali pajak capital gain yang lebih berat bagi pemilik banyak rumah. Kim menjelaskan bahwa proyeksi tertahannya pasokan sebagian besar didasarkan pada pengalaman di bawah pemerintahan sebelumnya. Ia mengatakan pemerintahan terdahulu menjalankan kebijakan stabilisasi pasar properti sambil mempertahankan kerangka dasar pengelolaan makroekonomi, termasuk kebijakan moneter dan keuangan. Sebaliknya, menurut Kim, pemerintahan Lee Jae-myung mendorong reformasi kelembagaan mendasar dengan pandangan bahwa masa depan dan integrasi Korea Selatan tidak dapat dijamin tanpa menghapus hambatan mobilitas antara kelompok pendapatan dan wilayah. Ia juga menyebut perancangan ulang insentif ekonomi di bidang keuangan, pajak, dan pasokan untuk beralih dari struktur ekonomi yang bergantung pada pendapatan tak produktif dari properti menuju struktur ekonomi produktif. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "cf668fa92720",
+    "slug": "코스피-불장에국내-주식형-etf-순자산-200조-돌파-405049",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T06:47:33.454Z",
+    "updatedAt": "2026-05-10T06:47:33.454Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133891948/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133891948/1",
+    "titleFingerprint": "b409bce77e36ae83e741e91e45a0d2b9886a8c5c",
+    "dedupKeys": [
+      "cf668fa92720a594e452b9b346039716fe4095e9",
+      "b409bce77e36ae83e741e91e45a0d2b9886a8c5c",
+      "c7135efa3d8f0f23f177c1f1ca11fe524cf37476"
+    ],
+    "imageUrl": "/images/articles/cf668fa92720.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국내 주식형 ETF 순자산 200조 첫 돌파, 코스피 불장에 자금 몰렸다",
+        "excerpt": "코스피가 장중 7,500을 넘는 강세를 보인 가운데 7일 기준 국내 주식형 ETF 순자산이 처음으로 200조 원을 돌파했다.",
+        "body": "코스피가 장중 7,500을 넘는 등 국내 증시 호황이 이어지면서 국내 상장 기업에 투자하는 국내 주식형 상장지수펀드(ETF)의 순자산이 처음으로 200조 원을 넘어섰다. 금융정보업체 애프앤가이드에 따르면 7일 기준 국내 전체 ETF 순자산은 456조2392억 원으로 집계됐다. 지난달 15일 사상 처음 400조 원을 돌파한 뒤 한 달도 안 돼 50조 원 이상 늘었다. 이 가운데 국내 주식형 ETF 순자산은 212조8329억 원이었다. 코스피 시가총액 약 6138조9436억 원 대비 비중은 약 3.5%로 역대 최고 수준을 기록했다. 2024년 12월 약 40조 원, 비중 2.08%였던 국내 주식형 ETF는 지난해 말 93조 원, 2.68%로 확대됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Korea Equity ETF Assets Top 200 Trillion Won for First Time as Kospi Rally Draws Funds",
+        "excerpt": "As the Kospi climbed above 7,500 intraday, net assets in Korea-listed domestic equity ETFs exceeded 200 trillion won for the first time as of the 7th.",
+        "body": "Net assets in domestic equity exchange-traded funds that invest in Korea-listed companies surpassed 200 trillion won for the first time as the local stock market continued to rally, with the Kospi rising above 7,500 intraday. According to financial data provider FnGuide, total net assets of all domestic ETFs stood at 456.2392 trillion won as of the 7th. After exceeding 400 trillion won for the first time on the 15th of last month, the market added more than 50 trillion won in less than a month. Domestic equity ETFs accounted for 212.8329 trillion won. Their share of the Kospi market capitalization, about 6,138.9436 trillion won, reached roughly 3.5%, the highest level on record. The figure was about 40 trillion won, or 2.08%, in December 2024, and rose to 93 trillion won, or 2.68%, at the end of last year. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓国株式型ETF純資産が初の200兆ウォン突破、KOSPI高騰で資金流入",
+        "excerpt": "KOSPIが取引時間中に7,500を超える強さを見せる中、7日時点で韓国株式型ETFの純資産が初めて200兆ウォンを上回った。",
+        "body": "KOSPIが取引時間中に7,500を超えるなど韓国株式市場の好調が続き、韓国上場企業に投資する国内株式型上場投資信託（ETF）の純資産が初めて200兆ウォンを突破した。金融情報会社FnGuideによると、7日時点の韓国ETF全体の純資産は456兆2,392億ウォンだった。先月15日に初めて400兆ウォンを超えてから、1カ月足らずで50兆ウォン以上増えた。このうち国内株式型ETFの純資産は212兆8,329億ウォン。KOSPI時価総額約6,138兆9,436億ウォンに対する比率は約3.5%で、過去最高水準となった。2024年12月には約40兆ウォン、2.08%にとどまっていたが、昨年末には93兆ウォン、2.68%へ拡大した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国股票型ETF净资产首次突破200万亿韩元，Kospi牛市吸引资金",
+        "excerpt": "随着Kospi盘中突破7,500点并延续强势，截至7日，韩国股票型ETF净资产首次超过200万亿韩元。",
+        "body": "在Kospi盘中突破7,500点、韩国股市持续走强的背景下，投资韩国上市企业的本土股票型交易所交易基金（ETF）净资产首次超过200万亿韩元。金融信息公司FnGuide数据显示，截至7日，韩国全部ETF净资产为456.2392万亿韩元。继上月15日首次突破400万亿韩元后，不到一个月又增加逾50万亿韩元。其中，韩国股票型ETF净资产为212.8329万亿韩元。相较Kospi约6,138.9436万亿韩元的总市值，其占比约为3.5%，创历史最高水平。2024年12月该类ETF规模约40万亿韩元，占比仅2.08%；到去年底增至93万亿韩元，占比2.68%。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Los ETF de renta variable coreana superan 200 billones de wones por primera vez",
+        "excerpt": "Con el Kospi por encima de 7.500 puntos intradía, los activos netos de los ETF de acciones coreanas superaron por primera vez los 200 billones de wones al día 7.",
+        "body": "Los activos netos de los fondos cotizados de renta variable nacional que invierten en empresas listadas en Corea superaron por primera vez los 200 billones de wones, en medio del auge bursátil local y con el Kospi por encima de 7.500 puntos intradía. Según la firma de información financiera FnGuide, los activos netos totales de todos los ETF nacionales sumaban 456,2392 billones de wones al día 7. Tras rebasar por primera vez los 400 billones el día 15 del mes pasado, aumentaron en más de 50 billones en menos de un mes. Los ETF de acciones coreanas alcanzaron 212,8329 billones. Frente a una capitalización del Kospi de unos 6.138,9436 billones de wones, su peso fue cercano al 3,5%, un máximo histórico. En diciembre de 2024 era de unos 40 billones, el 2,08%, y a fines del año pasado subió a 93 billones, el 2,68%. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "ETFs de ações coreanas passam de 200 trilhões de wons pela primeira vez",
+        "excerpt": "Com o Kospi acima de 7.500 pontos no intradia, os ativos líquidos dos ETFs de ações coreanas superaram 200 trilhões de wons pela primeira vez no dia 7.",
+        "body": "Os ativos líquidos dos fundos negociados em bolsa de ações domésticas que investem em empresas listadas na Coreia superaram 200 trilhões de wons pela primeira vez, enquanto o mercado acionário local manteve forte alta e o Kospi passou de 7.500 pontos no intradia. Segundo a empresa de informações financeiras FnGuide, os ativos líquidos totais dos ETFs domésticos somavam 456,2392 trilhões de wons no dia 7. Depois de ultrapassar 400 trilhões pela primeira vez no dia 15 do mês passado, o total cresceu mais de 50 trilhões em menos de um mês. Os ETFs de ações coreanas chegaram a 212,8329 trilhões. Em relação ao valor de mercado do Kospi, cerca de 6.138,9436 trilhões de wons, a fatia foi de aproximadamente 3,5%, recorde histórico. Em dezembro de 2024, eram cerca de 40 trilhões, ou 2,08%; no fim do ano passado, 93 trilhões, ou 2,68%. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Koreanische Aktien-ETFs überschreiten erstmals 200 Billionen Won Nettovermögen",
+        "excerpt": "Während der Kospi im Tagesverlauf über 7.500 Punkte stieg, überschritten inländische Aktien-ETFs in Korea am 7. erstmals 200 Billionen Won Nettovermögen.",
+        "body": "Das Nettovermögen inländischer Aktien-ETFs, die in in Korea notierte Unternehmen investieren, hat erstmals 200 Billionen Won überschritten. Hintergrund ist die anhaltende Stärke des koreanischen Aktienmarkts, bei der der Kospi im Tagesverlauf über 7.500 Punkte kletterte. Nach Angaben des Finanzdatenanbieters FnGuide belief sich das Nettovermögen aller heimischen ETFs am 7. auf 456,2392 Billionen Won. Nachdem der Gesamtmarkt am 15. des vergangenen Monats erstmals 400 Billionen Won überschritten hatte, kamen in weniger als einem Monat mehr als 50 Billionen Won hinzu. Auf inländische Aktien-ETFs entfielen 212,8329 Billionen Won. Gemessen an der Kospi-Marktkapitalisierung von rund 6.138,9436 Billionen Won lag ihr Anteil bei etwa 3,5% und damit auf Rekordniveau. Im Dezember 2024 waren es etwa 40 Billionen Won oder 2,08%, Ende vergangenen Jahres 93 Billionen Won oder 2,68%. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les ETF d’actions coréennes dépassent 200 billions de wons pour la première fois",
+        "excerpt": "Alors que le Kospi a franchi 7 500 points en séance, les actifs nets des ETF d’actions coréennes ont dépassé pour la première fois 200 billions de wons au 7.",
+        "body": "Les actifs nets des fonds indiciels cotés investis dans les sociétés cotées en Corée ont dépassé pour la première fois 200 billions de wons, dans un contexte de forte progression du marché coréen et d’un Kospi au-dessus de 7 500 points en séance. Selon le fournisseur d’informations financières FnGuide, les actifs nets de l’ensemble des ETF domestiques atteignaient 456,2392 billions de wons au 7. Après avoir franchi pour la première fois 400 billions le 15 du mois dernier, ils ont augmenté de plus de 50 billions en moins d’un mois. Les ETF d’actions coréennes représentaient 212,8329 billions de wons. Rapportés à la capitalisation du Kospi, environ 6 138,9436 billions de wons, leur poids s’établit à près de 3,5%, un record. En décembre 2024, ils totalisaient environ 40 billions, soit 2,08%; fin de l’an dernier, 93 billions, soit 2,68%. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أصول صناديق ETF للأسهم الكورية تتجاوز 200 تريليون وون لأول مرة مع صعود كوسبي",
+        "excerpt": "مع تجاوز مؤشر كوسبي مستوى 7,500 نقطة خلال الجلسة، تخطت أصول صناديق ETF للأسهم الكورية 200 تريليون وون للمرة الأولى حتى يوم 7.",
+        "body": "تجاوز صافي أصول صناديق المؤشرات المتداولة للأسهم المحلية التي تستثمر في شركات مدرجة في كوريا 200 تريليون وون للمرة الأولى، مع استمرار ازدهار سوق الأسهم المحلي وصعود مؤشر كوسبي فوق 7,500 نقطة خلال التعاملات. ووفق شركة المعلومات المالية FnGuide، بلغ صافي أصول جميع صناديق ETF المحلية 456.2392 تريليون وون حتى يوم 7. وبعد أن تجاوز الإجمالي 400 تريليون وون للمرة الأولى في 15 من الشهر الماضي، زاد بأكثر من 50 تريليون وون في أقل من شهر. وبلغت أصول صناديق ETF للأسهم الكورية 212.8329 تريليون وون. ومقارنة بالقيمة السوقية لكوسبي، البالغة نحو 6,138.9436 تريليون وون، وصل نصيبها إلى نحو 3.5%، وهو مستوى قياسي. وكانت نحو 40 تريليون وون، أو 2.08%، في ديسمبر 2024، ثم ارتفعت إلى 93 تريليون وون، أو 2.68%، بنهاية العام الماضي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कोरियाई इक्विटी ETF की शुद्ध संपत्ति पहली बार 200 ट्रिलियन वॉन के पार",
+        "excerpt": "Kospi के इंट्राडे में 7,500 से ऊपर जाने के बीच 7 तारीख तक कोरियाई इक्विटी ETF की शुद्ध संपत्ति पहली बार 200 ट्रिलियन वॉन से अधिक हो गई।",
+        "body": "कोरिया में सूचीबद्ध कंपनियों में निवेश करने वाले घरेलू इक्विटी एक्सचेंज ट्रेडेड फंडों की शुद्ध संपत्ति पहली बार 200 ट्रिलियन वॉन से ऊपर चली गई, क्योंकि स्थानीय शेयर बाजार में तेजी जारी रही और Kospi इंट्राडे में 7,500 से ऊपर पहुंचा। वित्तीय सूचना कंपनी FnGuide के अनुसार, 7 तारीख तक सभी घरेलू ETF की कुल शुद्ध संपत्ति 456.2392 ट्रिलियन वॉन थी। पिछले महीने की 15 तारीख को पहली बार 400 ट्रिलियन वॉन पार करने के बाद, एक महीने से कम समय में इसमें 50 ट्रिलियन वॉन से अधिक की वृद्धि हुई। इनमें घरेलू इक्विटी ETF की शुद्ध संपत्ति 212.8329 ट्रिलियन वॉन रही। Kospi के लगभग 6,138.9436 ट्रिलियन वॉन बाजार पूंजीकरण के मुकाबले इसका अनुपात करीब 3.5% रहा, जो रिकॉर्ड उच्च स्तर है। दिसंबर 2024 में यह लगभग 40 ट्रिलियन वॉन, यानी 2.08%, था; पिछले साल के अंत तक यह 93 ट्रिलियन वॉन, यानी 2.68%, हो गया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "ETF Saham Korea Tembus 200 Triliun Won untuk Pertama Kali Saat Kospi Menguat",
+        "excerpt": "Saat Kospi menembus 7.500 secara intraday, aset bersih ETF saham domestik Korea melampaui 200 triliun won untuk pertama kalinya per tanggal 7.",
+        "body": "Aset bersih exchange traded fund saham domestik yang berinvestasi pada perusahaan tercatat di Korea melampaui 200 triliun won untuk pertama kalinya, seiring berlanjutnya reli pasar saham lokal dan Kospi sempat menembus 7.500 secara intraday. Menurut perusahaan informasi keuangan FnGuide, total aset bersih seluruh ETF domestik mencapai 456,2392 triliun won per tanggal 7. Setelah pertama kali melewati 400 triliun won pada tanggal 15 bulan lalu, nilainya bertambah lebih dari 50 triliun won dalam waktu kurang dari sebulan. Dari jumlah itu, ETF saham domestik mencatat 212,8329 triliun won. Dibandingkan kapitalisasi pasar Kospi sekitar 6.138,9436 triliun won, porsinya sekitar 3,5%, level tertinggi sepanjang sejarah. Pada Desember 2024, nilainya sekitar 40 triliun won atau 2,08%, lalu naik menjadi 93 triliun won atau 2,68% pada akhir tahun lalu. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "87819a755fe8",
     "slug": "sk에너지-전국-sk주유소-2500여-곳에-월-최대-총-200억-원-지원-315062",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "19 SMK di Gyeonggi Terapkan Pelatihan Praktis AI untuk Perkuat Rekam Jejak Kerja",
         "excerpt": "Kantor Pendidikan Gyeonggi akan menerapkan pelatihan praktis AI di 19 SMK agar siswa meningkatkan kemampuan dalam kelas kejuruan dan memakainya sebagai pengalaman saat melamar kerja.",
         "body": "Kantor Pendidikan Gyeonggi akan memperkenalkan pelatihan praktis kecerdasan buatan yang terhubung dengan pelajaran kejuruan di 19 SMK di provinsi tersebut. Program ini berfokus pada membantu siswa membangun kemampuan praktis menggunakan AI selama proses belajar dan memanfaatkan pengalaman itu sebagai rekam jejak saat mencari pekerjaan. Sasarannya adalah 19 SMK, dengan penguatan kemampuan AI di dalam kelas kejuruan yang terkait dengan pekerjaan nyata. Langkah ini dipandang sebagai upaya memperluas dasar agar pengalaman belajar di kelas dapat diakui sebagai pengalaman karier dalam pendidikan vokasi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fff121ded5f6",
-    "slug": "바이오스냅-gc녹십자-짜먹는-소화제-백초시럽플러스-10-출시-819797",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T19:01:55.577Z",
-    "updatedAt": "2026-05-09T19:01:55.577Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508048100017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508048100017",
-    "titleFingerprint": "079a97106247c1a662ca775ec204648ca6eafe56",
-    "dedupKeys": [
-      "fff121ded5f642c675f467095ab804fd54da3c99",
-      "079a97106247c1a662ca775ec204648ca6eafe56",
-      "225ed8642f99fe894938dc72a5e638d3f900d000"
-    ],
-    "imageUrl": "/images/articles/fff121ded5f6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GC녹십자, 짜먹는 소화제 ‘백초시럽플러스’ 10㎖ 신제품 출시",
-        "excerpt": "GC녹십자가 소화기 가정상비약 스테디셀러 브랜드 ‘백초’의 신제품인 짜먹는 소화제 ‘백초시럽플러스’ 10㎖를 출시했다고 연합뉴스가 보도했다.",
-        "body": "GC녹십자가 소화기 가정상비약 스테디셀러 브랜드 ‘백초’의 신제품으로 짜먹는 소화제 ‘백초시럽플러스’ 10㎖를 출시했다. 연합뉴스 보도에 따르면 이번 제품은 제약업계 소식으로 소개됐으며, ‘백초’ 브랜드의 제품군에 새롭게 더해진 형태다. 기존 브랜드 인지도를 바탕으로 10㎖ 용량의 짜먹는 시럽 제품을 내놓은 것이 핵심이다. 이번 출시로 GC녹십자는 소화기 가정상비약 시장에서 ‘백초’ 브랜드 라인업을 확대하게 됐다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "GC Green Cross launches 10 ml squeeze digestive Baekcho Syrup Plus",
-        "excerpt": "GC Green Cross has launched Baekcho Syrup Plus, a 10 ml squeeze-type digestive product under its steady-selling home digestive medicine brand Baekcho, Yonhap News reported.",
-        "body": "GC Green Cross has released Baekcho Syrup Plus, a 10 ml squeeze-type digestive product, as a new item in its steady-selling home digestive medicine brand Baekcho. According to Yonhap News, the product was introduced as part of pharmaceutical industry news and adds a new format to the Baekcho lineup. The key point is the launch of a squeezeable syrup product in a 10 ml size under an already recognized brand. With this release, GC Green Cross expands the Baekcho brand lineup in the home digestive medicine market. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "GC緑十字、飲み切り型消化剤「百草シロッププラス」10mlを発売",
-        "excerpt": "GC緑十字が、消化器系の家庭常備薬として知られる定番ブランド「百草」の新製品、飲み切り型消化剤「百草シロッププラス」10mlを発売したと聯合ニュースが報じた。",
-        "body": "GC緑十字は、消化器系の家庭常備薬として定着しているブランド「百草」の新製品として、飲み切り型消化剤「百草シロッププラス」10mlを発売した。聯合ニュースによると、この製品は製薬業界のニュースとして紹介され、「百草」ブランドの製品群に新たに加わった形となる。既存ブランドの認知度を背景に、10ml容量のシロップタイプ製品を投入した点が中心だ。今回の発売により、GC緑十字は家庭用消化剤市場で「百草」ブランドのラインアップを拡大した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "GC绿十字推出10毫升挤食型消化药“百草糖浆Plus”新品",
-        "excerpt": "据韩联社报道，GC绿十字推出消化类家庭常备药畅销品牌“百草”的新品，10毫升挤食型消化药“百草糖浆Plus”。",
-        "body": "GC绿十字推出了消化类家庭常备药畅销品牌“百草”的新品，即10毫升挤食型消化药“百草糖浆Plus”。据韩联社报道，该产品作为制药行业消息被介绍，是“百草”品牌产品线中新增加的形态。核心在于GC绿十字依托既有品牌认知度，推出了10毫升容量的挤食型糖浆产品。通过此次上市，GC绿十字在家庭消化药市场进一步扩大了“百草”品牌阵容。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "GC Green Cross lanza Baekcho Syrup Plus, digestivo exprimible de 10 ml",
-        "excerpt": "GC Green Cross lanzó Baekcho Syrup Plus, un digestivo exprimible de 10 ml de su marca estable de medicamentos digestivos domésticos Baekcho, informó Yonhap.",
-        "body": "GC Green Cross lanzó Baekcho Syrup Plus, un digestivo exprimible de 10 ml, como nuevo producto de Baekcho, su marca estable de medicamentos digestivos para el botiquín del hogar. Según informó Yonhap News, el producto fue presentado dentro de las novedades de la industria farmacéutica y se suma en un nuevo formato a la línea Baekcho. El punto central es la introducción de un jarabe exprimible de 10 ml bajo una marca ya reconocida. Con este lanzamiento, GC Green Cross amplía la línea Baekcho en el mercado de digestivos domésticos. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "GC Green Cross lança digestivo espremível Baekcho Syrup Plus de 10 ml",
-        "excerpt": "A GC Green Cross lançou o Baekcho Syrup Plus, digestivo espremível de 10 ml da marca Baekcho, referência em medicamentos digestivos domésticos, informou a Yonhap.",
-        "body": "A GC Green Cross lançou o Baekcho Syrup Plus, um digestivo espremível de 10 ml, como novo produto da Baekcho, marca consolidada de medicamentos digestivos para uso doméstico. Segundo a Yonhap News, o produto foi apresentado entre as notícias do setor farmacêutico e acrescenta um novo formato à linha Baekcho. O ponto principal é a chegada de um xarope espremível de 10 ml sob uma marca já reconhecida. Com o lançamento, a GC Green Cross amplia a linha Baekcho no mercado de digestivos domésticos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "GC Green Cross bringt 10-ml-Quetsch-Digestivum Baekcho Syrup Plus heraus",
-        "excerpt": "GC Green Cross hat Baekcho Syrup Plus, ein 10-ml-Quetsch-Digestivum der etablierten Hausapothekenmarke Baekcho, eingeführt, berichtete Yonhap News.",
-        "body": "GC Green Cross hat Baekcho Syrup Plus, ein 10-ml-Quetsch-Digestivum, als neues Produkt seiner etablierten Hausapothekenmarke für Verdauungsbeschwerden Baekcho eingeführt. Laut Yonhap News wurde das Produkt im Rahmen von Nachrichten aus der Pharmabranche vorgestellt und ergänzt die Baekcho-Produktlinie um eine neue Form. Im Mittelpunkt steht die Einführung eines quetschbaren Sirupprodukts in einer 10-ml-Größe unter einer bereits bekannten Marke. Damit erweitert GC Green Cross die Baekcho-Linie im Markt für häusliche Verdauungsmittel. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "GC Green Cross lance le digestif à presser Baekcho Syrup Plus en 10 ml",
-        "excerpt": "GC Green Cross a lancé Baekcho Syrup Plus, digestif à presser de 10 ml de sa marque de médicaments digestifs domestiques Baekcho, selon Yonhap News.",
-        "body": "GC Green Cross a lancé Baekcho Syrup Plus, un digestif à presser de 10 ml, comme nouveau produit de Baekcho, sa marque établie de médicaments digestifs pour la pharmacie familiale. Selon Yonhap News, le produit a été présenté parmi les nouvelles de l’industrie pharmaceutique et ajoute un nouveau format à la gamme Baekcho. L’élément clé est l’arrivée d’un sirop à presser de 10 ml sous une marque déjà reconnue. Avec ce lancement, GC Green Cross élargit la gamme Baekcho sur le marché des digestifs domestiques. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جي سي غرين كروس تطرح بايكشو سيرب بلس للهضم بحجم 10 مل",
-        "excerpt": "طرحت جي سي غرين كروس منتج بايكشو سيرب بلس، وهو مستحضر هضمي قابل للعصر بحجم 10 مل ضمن علامة بايكشو لأدوية الهضم المنزلية، بحسب يونهاب.",
-        "body": "طرحت جي سي غرين كروس منتج بايكشو سيرب بلس، وهو مستحضر هضمي قابل للعصر بحجم 10 مل، كمنتج جديد ضمن علامة بايكشو المعروفة في أدوية الهضم المنزلية. ووفقا لتقرير وكالة يونهاب، عُرض المنتج ضمن أخبار قطاع الأدوية، ليضيف شكلا جديدا إلى مجموعة منتجات بايكشو. وتتمثل النقطة الأساسية في تقديم شراب قابل للعصر بسعة 10 مل تحت علامة تتمتع بحضور قائم. وبهذا الطرح توسع جي سي غرين كروس تشكيلة بايكشو في سوق أدوية الهضم المنزلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "GC Green Cross ने 10 ml squeeze digestive Baekcho Syrup Plus लॉन्च किया",
-        "excerpt": "Yonhap News के अनुसार, GC Green Cross ने घरेलू पाचन दवा ब्रांड Baekcho के तहत 10 ml squeeze-type digestive product Baekcho Syrup Plus लॉन्च किया है।",
-        "body": "GC Green Cross ने घरेलू पाचन दवा के स्थायी ब्रांड Baekcho के नए उत्पाद के रूप में 10 ml squeeze-type digestive product Baekcho Syrup Plus लॉन्च किया है। Yonhap News के अनुसार, इस उत्पाद को फार्मास्युटिकल उद्योग की खबरों में पेश किया गया और यह Baekcho ब्रांड की उत्पाद श्रृंखला में एक नया रूप जोड़ता है। मुख्य बात यह है कि कंपनी ने पहले से पहचाने जाने वाले ब्रांड के तहत 10 ml क्षमता वाला squeezeable syrup product उतारा है। इस लॉन्च के साथ GC Green Cross घरेलू पाचन दवा बाजार में Baekcho ब्रांड लाइनअप का विस्तार करती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "GC Green Cross luncurkan Baekcho Syrup Plus 10 ml, obat cerna siap tekan",
-        "excerpt": "GC Green Cross meluncurkan Baekcho Syrup Plus, obat cerna siap tekan 10 ml dari merek obat pencernaan rumahan Baekcho, menurut laporan Yonhap News.",
-        "body": "GC Green Cross meluncurkan Baekcho Syrup Plus, obat cerna siap tekan berukuran 10 ml, sebagai produk baru dari Baekcho, merek obat pencernaan rumahan yang telah lama dikenal. Menurut Yonhap News, produk ini diperkenalkan dalam kabar industri farmasi dan menjadi format baru dalam lini Baekcho. Pokok beritanya adalah peluncuran produk sirup siap tekan berukuran 10 ml di bawah merek yang sudah memiliki pengenalan pasar. Dengan peluncuran ini, GC Green Cross memperluas lini Baekcho di pasar obat pencernaan rumahan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a87e2137135b",
-    "slug": "스마트폰-덜-팔렸는데-매출은-뛰었다글로벌-1분기-8-716042",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T19:00:58.939Z",
-    "updatedAt": "2026-05-09T19:00:58.939Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508057600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508057600017",
-    "titleFingerprint": "007b9bc4a051b80df0dc27c9f1150aab921e5744",
-    "dedupKeys": [
-      "a87e2137135b137c68a1129dfca1d42aa90a0450",
-      "007b9bc4a051b80df0dc27c9f1150aab921e5744",
-      "eea879da5330e8e1fa9f709aa7fcc6d4adcc0496"
-    ],
-    "imageUrl": "/images/articles/a87e2137135b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "글로벌 스마트폰 1분기 매출 8% 증가, 출하량 줄어도 프리미엄·가격 인상이 견인",
-        "excerpt": "올해 1분기 전 세계 스마트폰 시장은 출하량이 감소했지만 프리미엄 제품 판매 확대와 가격 인상 영향으로 매출이 8% 증가했다고 연합뉴스가 보도했다.",
-        "body": "올해 1분기 전 세계 스마트폰 시장은 제품이 덜 팔리는 흐름 속에서도 매출이 늘었다. 연합뉴스에 따르면 글로벌 스마트폰 시장 매출은 출하량 감소에도 전년 같은 기간 대비 8% 증가했다. 매출 성장은 프리미엄 제품 판매 확대와 가격 인상 영향이 맞물린 결과로 풀이된다. 즉 판매 대수는 줄었지만 더 높은 가격대 제품의 비중이 커지면서 전체 시장 금액이 올라간 것이다. 이번 흐름은 스마트폰 시장이 단순 출하량보다 제품 구성과 평균 판매가의 영향을 더 크게 받는 국면에 있음을 보여준다. 다만 원문은 출하량 감소와 매출 증가, 프리미엄 판매 확대 및 가격 인상이라는 요인에 초점을 맞췄다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Global Smartphone Q1 Revenue Rises 8% as Premium Sales and Prices Offset Lower Shipments",
-        "excerpt": "In the first quarter of this year, global smartphone shipments fell, but revenue rose 8% as premium product sales expanded and prices increased, Yonhap News Agency reported.",
-        "body": "In the first quarter of this year, the global smartphone market generated higher revenue even as fewer devices were shipped. According to Yonhap News Agency, worldwide smartphone revenue increased 8% from the same period a year earlier despite a decline in shipments. The growth was attributed to expanded sales of premium models and price increases. In other words, while unit sales weakened, a larger share of higher-priced products lifted the total value of the market. The trend shows that the smartphone market is being shaped not only by shipment volume but also by product mix and selling prices. The original report focused on lower shipments, higher revenue, premium sales growth and price increases. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "世界スマホ第1四半期売上高8%増、出荷減でも高級機と値上げが押し上げ",
-        "excerpt": "今年第1四半期の世界スマートフォン市場は出荷台数が減少した一方、プレミアム製品の販売拡大と価格上昇により売上高が8%増えたと聯合ニュースが報じた。",
-        "body": "今年第1四半期の世界スマートフォン市場は、販売台数が伸び悩む中でも売上高が増加した。聯合ニュースによると、世界のスマートフォン市場の売上高は出荷台数の減少にもかかわらず、前年同期比で8%増えた。売上高の伸びは、プレミアム製品の販売拡大と価格引き上げの影響が重なった結果とみられる。つまり販売台数は減ったものの、より高価格帯の製品比率が高まり、市場全体の金額を押し上げた形だ。この流れは、スマートフォン市場が単純な出荷台数だけでなく、製品構成と平均販売価格の影響を強く受けていることを示している。原文は出荷減、売上増、プレミアム販売拡大、価格上昇に焦点を当てている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "全球智能手机一季度营收增长8%，出货下降仍由高端机与涨价推动",
-        "excerpt": "韩联社报道称，今年第一季度全球智能手机市场出货量下降，但受高端产品销售扩大和价格上涨影响，营收增长8%。",
-        "body": "今年第一季度，全球智能手机市场在出货量减少的情况下仍实现营收增长。据韩联社报道，尽管全球智能手机出货量下降，市场营收仍较去年同期增长8%。这一增长主要与高端产品销售扩大和价格上涨有关。也就是说，销售台数减少，但更高价位产品所占比重上升，推动整体市场金额增加。这一趋势显示，智能手机市场不仅受出货规模影响，也受到产品结构和销售价格变化的影响。原文重点提到的事实是出货量下降、营收增长、 premium 产品销售扩大以及价格上涨。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ingresos mundiales de smartphones suben 8% en el primer trimestre pese a menos envíos",
-        "excerpt": "En el primer trimestre de este año, los envíos mundiales de smartphones bajaron, pero los ingresos crecieron 8% por mayores ventas premium y subidas de precios, informó Yonhap.",
-        "body": "En el primer trimestre de este año, el mercado mundial de smartphones aumentó sus ingresos aunque se enviaron menos unidades. Según la agencia Yonhap, los ingresos globales del mercado de teléfonos inteligentes crecieron 8% frente al mismo periodo del año anterior pese a la caída de los envíos. El avance se explica por la expansión de las ventas de productos premium y por el impacto de los aumentos de precios. Es decir, aunque se vendieron menos dispositivos, el mayor peso de modelos de precio más alto elevó el valor total del mercado. La tendencia muestra que el mercado de smartphones depende no solo del volumen de envíos, sino también de la composición de productos y de los precios de venta. El informe original se centró en la caída de envíos, el aumento de ingresos, las ventas premium y los precios. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Receita global de smartphones sobe 8% no 1º trimestre apesar de queda nos envios",
-        "excerpt": "No primeiro trimestre deste ano, os envios globais de smartphones recuaram, mas a receita cresceu 8% com expansão dos modelos premium e aumento de preços, informou a Yonhap.",
-        "body": "No primeiro trimestre deste ano, o mercado global de smartphones registrou alta de receita mesmo com menor volume de aparelhos enviados. Segundo a agência Yonhap, a receita mundial do setor cresceu 8% em relação ao mesmo período do ano anterior, apesar da queda nos envios. O crescimento foi associado à expansão das vendas de produtos premium e ao efeito dos aumentos de preços. Em outras palavras, embora o número de unidades tenha diminuído, a maior participação de modelos mais caros elevou o valor total do mercado. A tendência mostra que o setor de smartphones é influenciado não apenas pelo volume de envios, mas também pela composição dos produtos e pelos preços de venda. A reportagem original destacou envios menores, receita maior, avanço dos premium e alta de preços. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Weltweiter Smartphone-Umsatz steigt im ersten Quartal um 8% trotz weniger Auslieferungen",
-        "excerpt": "Im ersten Quartal dieses Jahres gingen die weltweiten Smartphone-Auslieferungen zurück, doch der Umsatz stieg laut Yonhap dank mehr Premiumverkäufen und höheren Preisen um 8%.",
-        "body": "Im ersten Quartal dieses Jahres erzielte der weltweite Smartphone-Markt höhere Umsätze, obwohl weniger Geräte ausgeliefert wurden. Nach Angaben der Nachrichtenagentur Yonhap stieg der globale Smartphone-Umsatz trotz rückläufiger Auslieferungen gegenüber dem Vorjahreszeitraum um 8%. Als Gründe wurden die Ausweitung der Verkäufe von Premiumprodukten und Preiserhöhungen genannt. Das bedeutet: Die Stückzahlen sanken, doch ein größerer Anteil höherpreisiger Modelle erhöhte den Gesamtwert des Marktes. Die Entwicklung zeigt, dass der Smartphone-Markt nicht nur von Auslieferungsmengen, sondern auch vom Produktmix und den Verkaufspreisen beeinflusst wird. Der Originalbericht konzentrierte sich auf weniger Auslieferungen, höhere Umsätze, mehr Premiumverkäufe und Preissteigerungen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le chiffre d’affaires mondial des smartphones grimpe de 8% au 1er trimestre malgré moins d’expéditions",
-        "excerpt": "Au premier trimestre de cette année, les expéditions mondiales de smartphones ont reculé, mais le chiffre d’affaires a progressé de 8% grâce aux modèles premium et aux hausses de prix, selon Yonhap.",
-        "body": "Au premier trimestre de cette année, le marché mondial des smartphones a vu son chiffre d’affaires augmenter malgré une baisse des expéditions. Selon l’agence Yonhap, les revenus mondiaux du secteur ont progressé de 8% par rapport à la même période de l’an dernier, même si le volume expédié a diminué. Cette croissance s’explique par l’expansion des ventes de produits premium et par l’effet des hausses de prix. Autrement dit, moins d’appareils ont été vendus, mais la part plus élevée de modèles plus chers a fait monter la valeur totale du marché. Cette tendance montre que le marché des smartphones dépend non seulement du nombre d’unités expédiées, mais aussi de la composition des produits et des prix de vente. Le rapport original met l’accent sur la baisse des expéditions, la hausse des revenus, les ventes premium et les prix. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إيرادات الهواتف الذكية عالميا ترتفع 8% في الربع الأول رغم تراجع الشحنات",
-        "excerpt": "في الربع الأول من هذا العام، تراجعت شحنات الهواتف الذكية عالميا، لكن الإيرادات زادت 8% بدعم من توسع مبيعات المنتجات الفاخرة وارتفاع الأسعار، وفق يونهاب.",
-        "body": "في الربع الأول من هذا العام، حقق سوق الهواتف الذكية العالمي نموا في الإيرادات رغم بيع وشحن عدد أقل من الأجهزة. ووفقا لوكالة يونهاب، ارتفعت إيرادات سوق الهواتف الذكية عالميا بنسبة 8% مقارنة بالفترة نفسها من العام السابق، على الرغم من انخفاض الشحنات. ويعزى هذا النمو إلى توسع مبيعات المنتجات الفاخرة وتأثير زيادات الأسعار. وبعبارة أخرى، تراجعت الوحدات المباعة، لكن ارتفاع حصة الأجهزة الأعلى سعرا رفع القيمة الإجمالية للسوق. ويظهر هذا الاتجاه أن سوق الهواتف الذكية يتأثر ليس فقط بحجم الشحنات، بل أيضا بمزيج المنتجات وأسعار البيع. وركز التقرير الأصلي على انخفاض الشحنات، وزيادة الإيرادات، ونمو مبيعات المنتجات الفاخرة، وارتفاع الأسعار. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "वैश्विक स्मार्टफोन राजस्व पहली तिमाही में 8% बढ़ा, कम शिपमेंट के बावजूद प्रीमियम बिक्री सहारा",
-        "excerpt": "इस वर्ष पहली तिमाही में वैश्विक स्मार्टफोन शिपमेंट घटे, लेकिन प्रीमियम उत्पादों की बिक्री बढ़ने और कीमतों में वृद्धि से राजस्व 8% बढ़ा, योनहाप ने बताया।",
-        "body": "इस वर्ष पहली तिमाही में वैश्विक स्मार्टफोन बाजार में कम उपकरण भेजे जाने के बावजूद राजस्व बढ़ा। योनहाप समाचार एजेंसी के अनुसार, शिपमेंट में कमी के बाद भी वैश्विक स्मार्टफोन बाजार का राजस्व पिछले वर्ष की समान अवधि से 8% बढ़ गया। इस वृद्धि का कारण प्रीमियम उत्पादों की बिक्री में विस्तार और कीमतों में बढ़ोतरी का असर बताया गया। यानी बिक्री की संख्या घटी, लेकिन अधिक कीमत वाले मॉडलों की हिस्सेदारी बढ़ने से बाजार का कुल मूल्य ऊपर गया। यह रुझान दिखाता है कि स्मार्टफोन बाजार केवल शिपमेंट मात्रा से नहीं, बल्कि उत्पाद मिश्रण और बिक्री कीमतों से भी प्रभावित हो रहा है। मूल रिपोर्ट ने शिपमेंट में गिरावट, राजस्व वृद्धि, प्रीमियम बिक्री विस्तार और मूल्य वृद्धि पर ध्यान केंद्रित किया। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Pendapatan Smartphone Global Kuartal I Naik 8% meski Pengiriman Turun",
-        "excerpt": "Pada kuartal pertama tahun ini, pengiriman smartphone global menurun, tetapi pendapatan naik 8% karena penjualan produk premium meluas dan harga meningkat, lapor Yonhap.",
-        "body": "Pada kuartal pertama tahun ini, pasar smartphone global mencatat kenaikan pendapatan meski jumlah perangkat yang dikirim menurun. Menurut kantor berita Yonhap, pendapatan pasar smartphone dunia meningkat 8% dibanding periode yang sama tahun sebelumnya walaupun pengiriman turun. Pertumbuhan tersebut dikaitkan dengan perluasan penjualan produk premium dan dampak kenaikan harga. Dengan kata lain, jumlah unit yang terjual melemah, tetapi porsi produk dengan harga lebih tinggi membesar sehingga nilai total pasar ikut naik. Tren ini menunjukkan bahwa pasar smartphone tidak hanya dipengaruhi oleh volume pengiriman, tetapi juga oleh komposisi produk dan harga jual. Laporan asli menyoroti penurunan pengiriman, kenaikan pendapatan, perluasan penjualan premium, dan kenaikan harga. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "94118d8d4f7a",
-    "slug": "미래에셋-美최대증권예탁기관-dtcc-주도-토큰화-워킹그룹-합류-927878",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T18:37:29.240Z",
-    "updatedAt": "2026-05-09T18:37:29.240Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508058900008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508058900008",
-    "titleFingerprint": "b708195d2c06cace64d7d67c200fce9ff3d9040c",
-    "dedupKeys": [
-      "94118d8d4f7ae928c2a60cf57554bb696583e29a",
-      "b708195d2c06cace64d7d67c200fce9ff3d9040c",
-      "20ae608090b942d1b945572c075b531cc1d72446"
-    ],
-    "imageUrl": "/images/articles/94118d8d4f7a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권 미국법인, DTCC 주도 토큰화 워킹그룹 합류",
-        "excerpt": "미래에셋증권 미국법인이 미국 최대 증권예탁결제기관 DTCC가 주도하는 토큰화 워킹그룹에 합류했다고 연합뉴스가 보도했다.",
-        "body": "미래에셋증권 미국법인은 미국 내 최대 증권예탁결제기관인 DTCC(Depository Trust & Clearing Corporation)가 주도하는 ‘토큰화 워킹그룹’에 합류했다. 연합뉴스에 따르면 이번 합류는 증권 예탁·결제 인프라를 담당하는 DTCC가 토큰화 관련 논의를 이끄는 가운데 이뤄졌다. 미래에셋증권은 국내 증권사로서 미국법인을 통해 글로벌 금융 인프라 논의에 참여하게 됐다. 토큰화는 전통 금융자산을 디지털 방식으로 표현·관리하는 흐름과 맞닿아 있어, 관련 논의의 방향이 향후 금융시장 인프라 변화와 연결될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Mirae Asset Securities U.S. Unit Joins DTCC-Led Tokenization Working Group",
-        "excerpt": "Mirae Asset Securities’ U.S. unit has joined a tokenization working group led by DTCC, the largest securities depository and clearing institution in the United States, Yonhap reported.",
-        "body": "Mirae Asset Securities’ U.S. subsidiary has joined a “tokenization working group” led by DTCC, the Depository Trust & Clearing Corporation, the largest securities depository and clearing institution in the United States. According to Yonhap News Agency, the move comes as DTCC leads discussions related to tokenization within securities custody and settlement infrastructure. Through its U.S. unit, Mirae Asset Securities is taking part in global financial infrastructure discussions. Tokenization is linked to the digital representation and management of traditional financial assets, and the direction of these discussions may connect to future changes in financial market infrastructure. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "未来アセット証券米国法人、DTCC主導のトークン化作業部会に参加",
-        "excerpt": "未来アセット証券の米国法人が、米最大の証券預託決済機関DTCCが主導するトークン化作業部会に参加したと聯合ニュースが報じた。",
-        "body": "未来アセット証券の米国法人は、米国最大の証券預託決済機関であるDTCC（Depository Trust & Clearing Corporation）が主導する「トークン化作業部会」に参加した。聯合ニュースによると、今回の参加は、証券の預託・決済インフラを担うDTCCがトークン化関連の議論を主導する中で行われた。未来アセット証券は国内証券会社として、米国法人を通じてグローバル金融インフラの議論に加わることになった。トークン化は伝統的な金融資産をデジタル方式で表現・管理する流れと結び付いており、関連議論の方向性は今後の金融市場インフラの変化につながる可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "未来资产证券美国法人加入DTCC主导的代币化工作组",
-        "excerpt": "韩联社报道称，未来资产证券美国法人已加入由美国最大证券存管清算机构DTCC主导的代币化工作组。",
-        "body": "未来资产证券美国法人已加入由美国最大证券存管清算机构DTCC（Depository Trust & Clearing Corporation）主导的“代币化工作组”。据韩联社报道，此次加入发生在DTCC围绕证券存管与清算基础设施牵头推进代币化相关讨论之际。未来资产证券作为韩国证券公司，将通过美国法人参与全球金融基础设施讨论。代币化与以数字方式表达和管理传统金融资产的趋势相关，相关讨论的方向今后可能与金融市场基础设施变化相连接。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Mirae Asset Securities EE. UU. se suma al grupo de tokenización liderado por DTCC",
-        "excerpt": "La filial estadounidense de Mirae Asset Securities se incorporó al grupo de trabajo sobre tokenización liderado por DTCC, la mayor entidad de depósito y compensación de valores de EE. UU., informó Yonhap.",
-        "body": "La filial estadounidense de Mirae Asset Securities se incorporó al “grupo de trabajo sobre tokenización” liderado por DTCC, Depository Trust & Clearing Corporation, la mayor entidad de depósito y compensación de valores de Estados Unidos. Según la agencia Yonhap, la incorporación se produce mientras DTCC encabeza debates sobre tokenización en la infraestructura de custodia y liquidación de valores. A través de su filial en EE. UU., Mirae Asset Securities participará en conversaciones sobre infraestructura financiera global. La tokenización está vinculada a la representación y gestión digital de activos financieros tradicionales, por lo que el rumbo de estas discusiones puede relacionarse con futuros cambios en la infraestructura del mercado financiero. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities nos EUA entra em grupo de tokenização liderado pela DTCC",
-        "excerpt": "A unidade americana da Mirae Asset Securities ingressou no grupo de trabalho de tokenização liderado pela DTCC, maior instituição de depósito e compensação de valores dos EUA, informou a Yonhap.",
-        "body": "A subsidiária americana da Mirae Asset Securities ingressou no “grupo de trabalho de tokenização” liderado pela DTCC, Depository Trust & Clearing Corporation, a maior instituição de depósito e compensação de valores dos Estados Unidos. Segundo a agência Yonhap, a entrada ocorre enquanto a DTCC conduz discussões sobre tokenização ligadas à infraestrutura de custódia e liquidação de valores mobiliários. Por meio de sua unidade nos EUA, a Mirae Asset Securities passa a participar de debates sobre infraestrutura financeira global. A tokenização se relaciona à representação e gestão digital de ativos financeiros tradicionais, e a direção dessas discussões pode se conectar a futuras mudanças na infraestrutura do mercado financeiro. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "US-Einheit von Mirae Asset Securities tritt DTCC-Arbeitsgruppe zur Tokenisierung bei",
-        "excerpt": "Die US-Tochter von Mirae Asset Securities ist einer von DTCC, der größten US-Wertpapierverwahr- und Abwicklungsstelle, geführten Arbeitsgruppe zur Tokenisierung beigetreten, berichtete Yonhap.",
-        "body": "Die US-Tochter von Mirae Asset Securities ist der von DTCC, der Depository Trust & Clearing Corporation, geführten „Arbeitsgruppe zur Tokenisierung“ beigetreten. DTCC ist die größte Wertpapierverwahr- und Abwicklungsinstitution in den Vereinigten Staaten. Laut der Nachrichtenagentur Yonhap erfolgt der Beitritt, während DTCC Diskussionen zur Tokenisierung im Zusammenhang mit Verwahrung und Abwicklung von Wertpapieren leitet. Mirae Asset Securities beteiligt sich damit über seine US-Einheit an Gesprächen über globale Finanzinfrastruktur. Tokenisierung steht mit der digitalen Darstellung und Verwaltung traditioneller Finanzanlagen in Verbindung; die Richtung dieser Gespräche könnte daher mit künftigen Veränderungen der Finanzmarktinfrastruktur verknüpft sein. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La filiale américaine de Mirae Asset Securities rejoint le groupe de tokenisation de DTCC",
-        "excerpt": "La filiale américaine de Mirae Asset Securities a rejoint le groupe de travail sur la tokenisation dirigé par DTCC, le plus grand organisme américain de dépôt et de compensation de titres, selon Yonhap.",
-        "body": "La filiale américaine de Mirae Asset Securities a rejoint le « groupe de travail sur la tokenisation » dirigé par DTCC, Depository Trust & Clearing Corporation, le plus grand organisme de dépôt et de compensation de titres aux États-Unis. Selon l’agence Yonhap, cette adhésion intervient alors que DTCC mène les discussions liées à la tokenisation dans l’infrastructure de conservation et de règlement des titres. Par l’intermédiaire de sa filiale américaine, Mirae Asset Securities participe ainsi aux discussions sur l’infrastructure financière mondiale. La tokenisation est liée à la représentation et à la gestion numériques des actifs financiers traditionnels, et l’orientation de ces échanges pourrait être associée à de futurs changements de l’infrastructure des marchés financiers. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وحدة ميراي أسيت للأوراق المالية في أمريكا تنضم إلى مجموعة ترميز تقودها DTCC",
-        "excerpt": "انضمت الوحدة الأمريكية لشركة ميراي أسيت للأوراق المالية إلى مجموعة عمل للترميز تقودها DTCC، أكبر مؤسسة إيداع وتسوية للأوراق المالية في الولايات المتحدة، بحسب يونهاب.",
-        "body": "انضمت الشركة الأمريكية التابعة لميراي أسيت للأوراق المالية إلى «مجموعة عمل الترميز» التي تقودها DTCC، وهي Depository Trust & Clearing Corporation وأكبر مؤسسة لإيداع وتسوية الأوراق المالية في الولايات المتحدة. ووفق وكالة يونهاب، تأتي هذه الخطوة في وقت تقود فيه DTCC نقاشات مرتبطة بالترميز ضمن بنية إيداع وتسوية الأوراق المالية. وبذلك تشارك ميراي أسيت للأوراق المالية، عبر وحدتها الأمريكية، في نقاشات البنية التحتية المالية العالمية. ويرتبط الترميز باتجاه تمثيل الأصول المالية التقليدية وإدارتها رقميا، وقد يتصل مسار هذه النقاشات بتغيرات مستقبلية في بنية الأسواق المالية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Mirae Asset Securities की अमेरिकी इकाई DTCC के टोकनाइजेशन वर्किंग ग्रुप में शामिल",
-        "excerpt": "Mirae Asset Securities की अमेरिकी इकाई अमेरिका की सबसे बड़ी सिक्योरिटीज डिपॉजिटरी और क्लियरिंग संस्था DTCC के नेतृत्व वाले टोकनाइजेशन वर्किंग ग्रुप में शामिल हुई, Yonhap ने बताया।",
-        "body": "Mirae Asset Securities की अमेरिकी सहायक कंपनी अमेरिका की सबसे बड़ी सिक्योरिटीज डिपॉजिटरी और क्लियरिंग संस्था DTCC, यानी Depository Trust & Clearing Corporation, के नेतृत्व वाले “टोकनाइजेशन वर्किंग ग्रुप” में शामिल हुई है। Yonhap News Agency के अनुसार, यह कदम ऐसे समय आया है जब DTCC सिक्योरिटीज कस्टडी और सेटलमेंट इन्फ्रास्ट्रक्चर से जुड़े टोकनाइजेशन पर चर्चा का नेतृत्व कर रही है। अपनी अमेरिकी इकाई के जरिए Mirae Asset Securities वैश्विक वित्तीय इन्फ्रास्ट्रक्चर पर चर्चा में भाग लेगी। टोकनाइजेशन पारंपरिक वित्तीय परिसंपत्तियों को डिजिटल तरीके से दर्शाने और प्रबंधित करने की प्रक्रिया से जुड़ा है, और इन चर्चाओं की दिशा भविष्य में वित्तीय बाजार इन्फ्रास्ट्रक्चर में बदलाव से संबंधित हो सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Unit AS Mirae Asset Securities Bergabung dengan Kelompok Tokenisasi yang Dipimpin DTCC",
-        "excerpt": "Unit Amerika Serikat Mirae Asset Securities bergabung dengan kelompok kerja tokenisasi yang dipimpin DTCC, lembaga depositori dan kliring efek terbesar di AS, menurut Yonhap.",
-        "body": "Anak usaha Mirae Asset Securities di Amerika Serikat bergabung dengan “kelompok kerja tokenisasi” yang dipimpin DTCC, Depository Trust & Clearing Corporation, lembaga depositori dan kliring efek terbesar di AS. Menurut kantor berita Yonhap, keikutsertaan ini terjadi saat DTCC memimpin pembahasan terkait tokenisasi dalam infrastruktur kustodian dan penyelesaian efek. Melalui unitnya di AS, Mirae Asset Securities ikut serta dalam diskusi infrastruktur keuangan global. Tokenisasi berkaitan dengan tren merepresentasikan dan mengelola aset keuangan tradisional secara digital, sehingga arah pembahasan ini dapat terhubung dengan perubahan infrastruktur pasar keuangan ke depan. Sumber: yna.co.kr"
       }
     }
   }
