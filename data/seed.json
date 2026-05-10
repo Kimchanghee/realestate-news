@@ -1,5 +1,230 @@
 [
   {
+    "id": "c9c0aeb9eff1",
+    "slug": "국토장관-금융세제공급-재설계해-부동산-불로소득-대전환종합-308889",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T13:55:49.316Z",
+    "updatedAt": "2026-05-10T13:55:49.316Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510021851003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510021851003",
+    "titleFingerprint": "f33dea0d67a40dfa47e1b9a219d9fd66f09bf55f",
+    "dedupKeys": [
+      "c9c0aeb9eff114dde5c82483236b723a74db286d",
+      "f33dea0d67a40dfa47e1b9a219d9fd66f09bf55f",
+      "8fbcbe82e2164d17661721e7f890682163b37a6f"
+    ],
+    "imageUrl": "/images/articles/c9c0aeb9eff1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국토장관, 금융·세제·공급 재설계 예고…부동산 불로소득 구조 전환 추진",
+        "excerpt": "김윤덕 국토교통부 장관은 10일 금융·세제·공급 등 경제적 유인 구조를 전면 재설계해 부동산 불로소득 구조를 바꾸겠다고 밝혔다.",
+        "body": "김윤덕 국토교통부 장관은 10일 세종에서 금융, 세제, 공급 등 부동산 시장을 움직이는 경제적 유인 구조를 전면 재설계하겠다고 밝혔다. 발언의 핵심은 부동산을 통해 발생하는 불로소득 구조를 정책적으로 바꾸겠다는 데 있다. 이번 언급은 주택·토지 시장에서 자산 보유와 거래를 둘러싼 인센티브를 다시 짜겠다는 메시지로 해석된다. 다만 원문 요약에는 구체적인 세율, 대출 규제, 공급 물량 등 세부 실행안은 제시되지 않았다. 향후 정책 논의는 금융·세제·공급을 함께 조정하는 방향에 초점이 맞춰질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Land Minister Signals Finance, Tax and Supply Redesign to Shift Real Estate Unearned Gains",
+        "excerpt": "Land Minister Kim Yun-deok said on the 10th that Korea will redesign financial, tax and supply incentives to change the structure of unearned real estate income.",
+        "body": "Land, Infrastructure and Transport Minister Kim Yun-deok said in Sejong on the 10th that the government will fully redesign the economic incentive structure that drives the real estate market, including finance, taxation and supply. The core of the remarks is a policy shift aimed at changing the structure of unearned income generated through real estate. The statement can be read as a message that incentives around holding and trading housing and land will be reworked. The original summary did not present detailed measures such as tax rates, lending rules or supply volumes. Future policy discussions are expected to focus on coordinating finance, taxation and supply together. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "国土交通相、金融・税制・供給の再設計を予告…不動産不労所得構造の転換へ",
+        "excerpt": "金潤徳国土交通部長官は10日、金融・税制・供給など経済的誘因構造を全面的に再設計し、不動産不労所得の構造を変えると述べた。",
+        "body": "金潤徳国土交通部長官は10日、世宗で、金融、税制、供給など不動産市場を動かす経済的誘因構造を全面的に再設計すると明らかにした。発言の核心は、不動産を通じて生じる不労所得の構造を政策的に変えるという点にある。今回の言及は、住宅・土地市場で資産保有と取引をめぐるインセンティブを組み直すというメッセージと受け止められる。ただし、原文要約には具体的な税率、融資規制、供給量などの詳細な実行案は示されていない。今後の政策議論は、金融・税制・供給を一体的に調整する方向に焦点が当たる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "国土部长预告重设金融、税制与供给机制 推动房地产不劳所得结构转变",
+        "excerpt": "韩国国土交通部长官金润德10日表示，将全面重设金融、税制、供给等经济激励结构，以改变房地产不劳所得格局。",
+        "body": "韩国国土交通部长官金润德10日在世宗表示，将全面重设影响房地产市场运行的经济激励结构，包括金融、税制和供给等方面。其发言核心在于，通过政策改变房地产产生的不劳所得结构。此次表态可被理解为，将重新设计住房和土地市场中围绕资产持有与交易形成的激励机制。不过，原文摘要未提出具体税率、贷款监管或供应规模等执行细节。未来政策讨论预计将聚焦于金融、税制和供给的联动调整。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Ministro de Tierras plantea rediseñar finanzas, impuestos y oferta para cambiar rentas inmobiliarias",
+        "excerpt": "El ministro Kim Yun-deok dijo el día 10 que Corea rediseñará los incentivos financieros, fiscales y de oferta para modificar las rentas no ganadas del sector inmobiliario.",
+        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yun-deok, dijo el día 10 en Sejong que se rediseñará por completo la estructura de incentivos económicos que mueve el mercado inmobiliario, incluidos finanzas, impuestos y oferta. El punto central de sus declaraciones es cambiar mediante políticas la estructura de ingresos no ganados generados por los bienes raíces. El mensaje apunta a reorganizar los incentivos vinculados a la tenencia y transacción de viviendas y terrenos. El resumen original no incluyó medidas detalladas como tasas impositivas, reglas de crédito o volúmenes de oferta. El debate futuro se centrará en coordinar finanzas, impuestos y oferta. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Ministro sinaliza redesenho de finanças, impostos e oferta para mudar ganhos imobiliários",
+        "excerpt": "Kim Yun-deok disse no dia 10 que a Coreia redesenhará incentivos financeiros, tributários e de oferta para alterar a estrutura de renda imobiliária não proveniente do trabalho.",
+        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yun-deok, afirmou no dia 10, em Sejong, que a estrutura de incentivos econômicos que move o mercado imobiliário, incluindo finanças, tributação e oferta, será totalmente redesenhada. O ponto central da fala é mudar, por meio de políticas, a estrutura de renda não proveniente do trabalho gerada pelo setor imobiliário. A declaração sinaliza uma reorganização dos incentivos ligados à posse e à negociação de moradias e terrenos. O resumo original não apresentou detalhes como alíquotas, regras de crédito ou volume de oferta. As próximas discussões devem focar na coordenação entre finanças, impostos e oferta. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Minister kündigt Neugestaltung von Finanzen, Steuern und Angebot gegen Immobiliengewinne an",
+        "excerpt": "Minister Kim Yun-deok sagte am 10., Südkorea werde finanzielle, steuerliche und angebotsbezogene Anreize neu gestalten, um arbeitslose Immobilienerträge zu verändern.",
+        "body": "Der Minister für Land, Infrastruktur und Verkehr, Kim Yun-deok, sagte am 10. in Sejong, die wirtschaftliche Anreizstruktur des Immobilienmarkts werde vollständig neu gestaltet, einschließlich Finanzen, Steuern und Angebot. Im Kern geht es darum, die Struktur arbeitsloser Einkommen aus Immobilien politisch zu verändern. Die Aussage lässt sich als Signal verstehen, die Anreize rund um Besitz und Handel von Wohnungen und Grundstücken neu zu ordnen. In der ursprünglichen Zusammenfassung wurden keine konkreten Details wie Steuersätze, Kreditregeln oder Angebotsmengen genannt. Die weitere politische Diskussion dürfte sich auf die gemeinsame Anpassung von Finanzen, Steuern und Angebot konzentrieren. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le ministre veut refondre finance, fiscalité et offre pour transformer les gains immobiliers",
+        "excerpt": "Kim Yun-deok a déclaré le 10 que la Corée allait revoir les incitations financières, fiscales et d’offre afin de modifier les revenus immobiliers non gagnés par le travail.",
+        "body": "Le ministre du Territoire, des Infrastructures et des Transports, Kim Yun-deok, a déclaré le 10 à Sejong que la structure des incitations économiques qui orientent le marché immobilier serait entièrement repensée, notamment la finance, la fiscalité et l’offre. Le cœur de cette déclaration est de modifier par la politique la structure des revenus non issus du travail générés par l’immobilier. Le message indique une volonté de revoir les incitations liées à la détention et aux transactions de logements et de terrains. Le résumé original ne présente pas de détails tels que taux d’imposition, règles de prêt ou volumes d’offre. Les débats à venir devraient porter sur l’ajustement conjoint de la finance, de la fiscalité et de l’offre. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزير الأراضي يلمح إلى إعادة تصميم التمويل والضرائب والعرض لتغيير مكاسب العقارات",
+        "excerpt": "قال وزير الأراضي كيم يون-ديوك في العاشر إن كوريا ستعيد تصميم حوافز التمويل والضرائب والعرض لتغيير بنية الدخل غير المكتسب من العقارات.",
+        "body": "قال وزير الأراضي والبنية التحتية والنقل كيم يون-ديوك في سيجونغ في العاشر إن الحكومة ستعيد بالكامل تصميم بنية الحوافز الاقتصادية التي تحرك سوق العقارات، بما في ذلك التمويل والضرائب والعرض. جوهر التصريح هو تغيير بنية الدخل غير المكتسب الناتج من العقارات عبر السياسة العامة. ويمكن فهم هذا التصريح على أنه رسالة لإعادة ترتيب الحوافز المرتبطة بحيازة المساكن والأراضي وتداولها. ولم يتضمن الملخص الأصلي تفاصيل تنفيذية مثل معدلات الضرائب أو قواعد الإقراض أو حجم العرض. ومن المتوقع أن تتركز المناقشات المقبلة على تنسيق التمويل والضرائب والعرض معا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "भूमि मंत्री ने वित्त, कर और आपूर्ति ढांचे में बदलाव से रियल एस्टेट आय संरचना बदलने का संकेत दिया",
+        "excerpt": "मंत्री किम यून-देओक ने 10 तारीख को कहा कि कोरिया वित्त, कर और आपूर्ति से जुड़े आर्थिक प्रोत्साहनों को फिर से डिजाइन कर रियल एस्टेट की अनर्जित आय संरचना बदलेगा।",
+        "body": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-देओक ने 10 तारीख को सेजोंग में कहा कि सरकार रियल एस्टेट बाजार को चलाने वाली आर्थिक प्रोत्साहन संरचना को पूरी तरह फिर से डिजाइन करेगी, जिसमें वित्त, कर और आपूर्ति शामिल हैं। उनके बयान का मुख्य बिंदु यह है कि रियल एस्टेट से पैदा होने वाली अनर्जित आय की संरचना को नीति के जरिए बदला जाएगा। इसे आवास और भूमि के स्वामित्व तथा लेनदेन से जुड़े प्रोत्साहनों को फिर से व्यवस्थित करने के संदेश के रूप में देखा जा सकता है। मूल सारांश में कर दर, ऋण नियम या आपूर्ति मात्रा जैसे विस्तृत उपाय नहीं दिए गए। आगे की नीति चर्चा वित्त, कर और आपूर्ति को साथ समायोजित करने पर केंद्रित रहने की संभावना है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Menteri Pertanahan Isyaratkan Desain Ulang Keuangan, Pajak, dan Pasokan untuk Ubah Keuntungan Properti",
+        "excerpt": "Menteri Kim Yun-deok pada tanggal 10 mengatakan Korea akan mendesain ulang insentif keuangan, pajak, dan pasokan untuk mengubah struktur pendapatan properti tanpa kerja.",
+        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yun-deok mengatakan di Sejong pada tanggal 10 bahwa struktur insentif ekonomi yang menggerakkan pasar properti, termasuk keuangan, perpajakan, dan pasokan, akan didesain ulang sepenuhnya. Inti pernyataannya adalah mengubah secara kebijakan struktur pendapatan tanpa kerja yang muncul dari properti. Pernyataan ini dapat dibaca sebagai pesan untuk menata ulang insentif terkait kepemilikan dan transaksi rumah serta tanah. Ringkasan asli tidak memuat rincian seperti tarif pajak, aturan pinjaman, atau volume pasokan. Pembahasan kebijakan ke depan diperkirakan berfokus pada penyesuaian bersama antara keuangan, pajak, dan pasokan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "54cd0e29cc84",
+    "slug": "공정금융위-정책자금으로-고리대출-명륜진사갈비-동시-압박종합-177646",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T13:54:41.311Z",
+    "updatedAt": "2026-05-10T13:54:41.311Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510020651002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510020651002",
+    "titleFingerprint": "46af4e8eb4a0a7e8042d0014569867c8d4239e14",
+    "dedupKeys": [
+      "54cd0e29cc8431b894728385e4b802271b8fbfb7",
+      "46af4e8eb4a0a7e8042d0014569867c8d4239e14",
+      "2ce7ffa20c674c79bbef4654efe50a0cb8c67c91"
+    ],
+    "imageUrl": "/images/articles/54cd0e29cc84.jpg",
+    "i18n": {
+      "ko": {
+        "title": "명륜진사갈비 운영사 명륜당, 정책자금 고리대출 논란에 당국 동시 압박",
+        "excerpt": "공정거래위원회와 금융위원회가 저금리 정책자금으로 고리대부업을 했다는 논란에 휩싸인 명륜진사갈비 운영사 명륜당을 동시에 압박하고 있다.",
+        "body": "공정거래위원회와 금융위원회가 외식 브랜드 명륜진사갈비 운영업체 명륜당을 상대로 동시에 압박에 나섰다. 명륜당은 저금리 정책자금을 활용해 고리대부업을 했다는 논란을 일으킨 업체로 지목됐다. 이번 사안은 정책자금의 취지와 실제 운용 방식이 어긋났는지에 대한 당국의 문제의식과 맞물려 있다. 공정·금융 당국이 함께 움직이면서 명륜당의 자금 운용과 관련 거래 구조에 대한 점검 강도도 높아질 전망이다. 향후 조사 결과에 따라 외식 프랜차이즈 업계의 정책자금 활용 관행에도 파장이 이어질 수 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Myeongryun Jinsa Galbi Operator Faces Pressure Over Policy-Fund Lending",
+        "excerpt": "The Fair Trade Commission and Financial Services Commission are pressing Myeongryundang, operator of Myeongryun Jinsa Galbi, over controversy involving high-interest lending with low-rate policy funds.",
+        "body": "The Fair Trade Commission and the Financial Services Commission have moved simultaneously to pressure Myeongryundang, the operator of the dining brand Myeongryun Jinsa Galbi. The company has been cited in controversy over allegedly using low-interest policy funds for high-interest lending. The case is tied to regulators’ concern over whether the purpose of policy funding matched how the money was actually used. With both competition and financial authorities acting together, scrutiny of Myeongryundang’s fund management and related transaction structure is expected to intensify. Depending on the findings, the issue could affect policy-fund practices across the restaurant franchise sector. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "明倫進士カルビ運営会社、政策資金の高利貸付疑惑で当局が同時圧力",
+        "excerpt": "公正取引委員会と金融委員会は、低金利の政策資金で高利貸付を行ったとの論争が起きた明倫進士カルビ運営会社・明倫堂に同時に圧力をかけている。",
+        "body": "公正取引委員会と金融委員会は、外食ブランド「明倫進士カルビ」の運営会社である明倫堂に対し、同時に圧力を強めている。明倫堂は、低金利の政策資金を活用して高利貸付を行ったとの論争を招いた企業として取り上げられた。今回の事案は、政策資金の趣旨と実際の運用方法が一致していたのかという当局の問題意識と結びついている。公正・金融当局が共同で動くことで、明倫堂の資金運用や関連取引構造への点検は強まる見通しだ。調査結果によっては、外食フランチャイズ業界の政策資金活用慣行にも影響が及ぶ可能性がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "明伦进士排骨运营方因政策资金高息放贷争议遭监管同步施压",
+        "excerpt": "韩国公平交易委员会和金融委员会正同时向明伦进士排骨运营方明伦堂施压，该公司被卷入用低息政策资金进行高息放贷的争议。",
+        "body": "韩国公平交易委员会和金融委员会已同时对餐饮品牌明伦进士排骨的运营方明伦堂施压。明伦堂被指出卷入了利用低息政策资金进行高息放贷的争议。此事与监管部门对政策资金设立目的和实际运用方式是否相符的关注相联系。随着公平交易和金融监管部门共同行动，对明伦堂资金运作及相关交易结构的检查力度预计将提高。根据后续调查结果，该事件也可能影响餐饮加盟行业使用政策资金的惯例。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Myeongryundang, bajo presión por préstamos caros con fondos públicos baratos",
+        "excerpt": "La Comisión de Comercio Justo y la Comisión de Servicios Financieros presionan a Myeongryundang, operador de Myeongryun Jinsa Galbi, por usar fondos públicos baratos en préstamos de alto interés.",
+        "body": "La Comisión de Comercio Justo y la Comisión de Servicios Financieros han iniciado una presión simultánea sobre Myeongryundang, operador de la marca gastronómica Myeongryun Jinsa Galbi. La empresa fue señalada en una controversia por presuntamente usar fondos de política pública de bajo interés para realizar préstamos de alto interés. El caso se vincula con la preocupación de las autoridades sobre si el propósito de esos fondos coincidió con su uso real. Con la acción conjunta de los reguladores de competencia y finanzas, se espera una revisión más intensa de la gestión de fondos y la estructura de transacciones relacionadas de Myeongryundang. Según los resultados, el asunto podría afectar las prácticas de uso de fondos públicos en las franquicias de restaurantes. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Myeongryundang sofre pressão por empréstimos caros com fundos públicos baratos",
+        "excerpt": "A Comissão de Comércio Justo e a Comissão de Serviços Financeiros pressionam a Myeongryundang, operadora da Myeongryun Jinsa Galbi, por controvérsia sobre empréstimos de alto juro com fundos públicos baratos.",
+        "body": "A Comissão de Comércio Justo e a Comissão de Serviços Financeiros passaram a pressionar simultaneamente a Myeongryundang, operadora da marca de restaurantes Myeongryun Jinsa Galbi. A empresa foi apontada em uma controvérsia por supostamente usar fundos de política pública de baixo juro para realizar empréstimos de alto juro. O caso está ligado à preocupação dos órgãos reguladores sobre a compatibilidade entre o objetivo desses recursos e sua aplicação real. Com a atuação conjunta das autoridades de concorrência e finanças, a gestão dos fundos e a estrutura de transações relacionadas da Myeongryundang devem receber maior escrutínio. Dependendo dos resultados, a questão pode impactar práticas de uso de fundos públicos no setor de franquias de alimentação. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Myeongryundang unter Druck wegen teurer Kredite aus günstigen Staatsmitteln",
+        "excerpt": "Die Fair Trade Commission und die Financial Services Commission setzen Myeongryundang, Betreiber von Myeongryun Jinsa Galbi, wegen umstrittener Hochzinskredite mit günstigen Politikmitteln unter Druck.",
+        "body": "Die Fair Trade Commission und die Financial Services Commission haben zugleich Druck auf Myeongryundang ausgeübt, den Betreiber der Restaurantmarke Myeongryun Jinsa Galbi. Das Unternehmen wurde in einer Kontroverse genannt, weil es niedrig verzinste politische Fördermittel für hoch verzinste Kreditgeschäfte genutzt haben soll. Der Fall berührt die Frage der Aufsichtsbehörden, ob Zweck und tatsächliche Verwendung der Fördermittel übereinstimmten. Da Wettbewerbs- und Finanzaufsicht gemeinsam handeln, dürfte die Prüfung der Mittelverwaltung und der verbundenen Transaktionsstruktur von Myeongryundang intensiver werden. Je nach Ergebnis könnten auch die Praktiken der Fördermittelnutzung in der Restaurant-Franchisebranche betroffen sein. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Myeongryundang sous pression pour des prêts chers via fonds publics bon marché",
+        "excerpt": "La Commission du commerce équitable et la Commission des services financiers font pression sur Myeongryundang, opérateur de Myeongryun Jinsa Galbi, après une controverse sur des prêts à taux élevé financés par des fonds publics à faible taux.",
+        "body": "La Commission du commerce équitable et la Commission des services financiers ont engagé une pression simultanée contre Myeongryundang, opérateur de la marque de restauration Myeongryun Jinsa Galbi. L’entreprise est visée par une controverse l’accusant d’avoir utilisé des fonds de politique publique à faible taux pour pratiquer des prêts à taux élevé. L’affaire rejoint les préoccupations des autorités sur l’écart possible entre l’objectif de ces fonds et leur utilisation réelle. Avec l’action conjointe des autorités de concurrence et financières, l’examen de la gestion des fonds et de la structure des transactions liées de Myeongryundang devrait s’intensifier. Selon les résultats, cette affaire pourrait aussi peser sur les pratiques de financement public dans les franchises de restauration. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مشغّل ميونغريون جينسا غالبي تحت ضغط بسبب إقراض مرتفع الفائدة بأموال سياساتية",
+        "excerpt": "تضغط لجنة التجارة العادلة ولجنة الخدمات المالية على شركة ميونغريون دانغ، مشغلة ميونغريون جينسا غالبي، بعد جدل حول استخدام أموال سياساتية منخفضة الفائدة في إقراض مرتفع الفائدة.",
+        "body": "بدأت لجنة التجارة العادلة ولجنة الخدمات المالية ضغطا متزامنا على شركة ميونغريون دانغ، المشغلة لعلامة المطاعم ميونغريون جينسا غالبي. وقد ذُكرت الشركة في جدل يتعلق باستخدام أموال سياساتية منخفضة الفائدة في نشاط إقراض مرتفع الفائدة. وترتبط القضية بتساؤلات الجهات الرقابية حول ما إذا كان هدف تلك الأموال ينسجم مع طريقة استخدامها الفعلية. ومع تحرك سلطات المنافسة والمال معا، من المتوقع أن تزداد شدة التدقيق في إدارة أموال ميونغريون دانغ وبنية المعاملات المرتبطة بها. وبحسب نتائج التحقيق، قد تمتد آثار القضية إلى ممارسات استخدام أموال السياسات في قطاع امتيازات المطاعم. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "म्योंगर्युन जिन्सा गल्बी संचालक पर नीति-धन से महंगे कर्ज विवाद में दबाव",
+        "excerpt": "फेयर ट्रेड कमीशन और फाइनेंशियल सर्विसेज कमीशन ने कम ब्याज वाले नीति-धन से ऊंचे ब्याज का ऋण कारोबार करने के विवाद में म्योंगर्युन जिन्सा गल्बी संचालक म्योंगर्युनडांग पर दबाव बढ़ाया है।",
+        "body": "फेयर ट्रेड कमीशन और फाइनेंशियल सर्विसेज कमीशन ने रेस्तरां ब्रांड म्योंगर्युन जिन्सा गल्बी की संचालक कंपनी म्योंगर्युनडांग पर एक साथ दबाव बनाना शुरू किया है। कंपनी को कम ब्याज वाले नीति-धन का इस्तेमाल कर ऊंचे ब्याज वाला ऋण कारोबार करने के विवाद में चिन्हित किया गया है। यह मामला इस सवाल से जुड़ा है कि नीति-धन का उद्देश्य और उसका वास्तविक उपयोग एक-दूसरे से मेल खाते थे या नहीं। प्रतिस्पर्धा और वित्तीय प्राधिकरणों की संयुक्त कार्रवाई से म्योंगर्युनडांग के धन प्रबंधन और संबंधित लेनदेन संरचना की जांच और कड़ी होने की उम्मीद है। जांच के परिणामों के आधार पर रेस्तरां फ्रेंचाइजी उद्योग में नीति-धन के उपयोग की प्रथाओं पर भी असर पड़ सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Myeongryundang Ditekan atas Dugaan Pinjaman Mahal dari Dana Kebijakan Murah",
+        "excerpt": "Fair Trade Commission dan Financial Services Commission menekan Myeongryundang, operator Myeongryun Jinsa Galbi, terkait kontroversi penggunaan dana kebijakan berbunga rendah untuk pinjaman berbunga tinggi.",
+        "body": "Fair Trade Commission dan Financial Services Commission bergerak bersamaan menekan Myeongryundang, operator merek restoran Myeongryun Jinsa Galbi. Perusahaan itu disebut dalam kontroversi karena diduga menggunakan dana kebijakan berbunga rendah untuk menjalankan pinjaman berbunga tinggi. Kasus ini terkait perhatian otoritas pada apakah tujuan dana kebijakan sesuai dengan cara penggunaannya secara nyata. Dengan langkah bersama otoritas persaingan usaha dan keuangan, pemeriksaan atas pengelolaan dana serta struktur transaksi terkait Myeongryundang diperkirakan makin ketat. Bergantung pada hasil penyelidikan, isu ini dapat berdampak pada praktik penggunaan dana kebijakan di sektor waralaba restoran. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c20226d3dee8",
+    "slug": "연합뉴스-이-시각-헤드라인---1500-535484",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T13:53:35.966Z",
+    "updatedAt": "2026-05-10T13:53:35.966Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510029900011",
+    "titleFingerprint": "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+    "dedupKeys": [
+      "c20226d3dee8f5ccfedbbffc398d98d40ce5ac6b",
+      "2272aab9a34b64a09df5b1eb8272e9bc6b2b9b62",
+      "0dea2631e85d041a4fdaaeec85d045882b308c61"
+    ],
+    "imageUrl": "/images/articles/c20226d3dee8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이색 후보 열전 주목…배달기사·개그우먼·요양보호사에 전과 15범도",
+        "excerpt": "연합뉴스는 15:00 이 시각 헤드라인에서 배달기사, 개그우먼, 요양보호사 등 이색 후보들이 나선 사례와 전과 15범 후보까지 포함된 후보군을 전했다.",
+        "body": "연합뉴스는 15:00 ‘이 시각 헤드라인’에서 배달기사, 개그우먼, 요양보호사 등 다양한 이력을 가진 이색 후보들의 등장을 주요 소식으로 전했다. 보도 요약에 따르면 후보군에는 생활 현장과 대중문화, 돌봄 노동 분야에서 활동한 인물들이 포함됐고, 전과 15범 후보도 언급됐다. 이번 헤드라인은 직업과 이력의 폭이 넓어진 후보 구성을 보여주는 사례로 제시됐다. 다만 원문 요약은 후보별 지역, 정당, 출마 배경 등 세부 정보는 밝히지 않았다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Unusual Candidates Draw Attention: Delivery Rider, Comedian, Care Worker and a 15-Time Offender",
+        "excerpt": "Yonhap’s 15:00 headline reported a lineup of unusual candidates, including a delivery rider, a comedian, a care worker, and even a candidate with 15 prior convictions.",
+        "body": "Yonhap News reported in its 15:00 “current headlines” that candidates with varied backgrounds, including a delivery rider, a comedian, and a care worker, have drawn attention. According to the summary, the candidate lineup includes people connected to everyday labor, popular entertainment, and care work, while also mentioning a candidate with 15 prior convictions. The headline presents the case as an example of a notably broad range of occupations and personal histories among candidates. The original summary did not provide details such as each candidate’s region, party affiliation, or reason for running. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "異色候補に注目、配達員・女性芸人・介護職員に前科15犯の候補も",
+        "excerpt": "聯合ニュースは15:00の「この時刻のヘッドライン」で、配達員、女性芸人、介護職員など異色候補と前科15犯の候補まで含む顔ぶれを伝えた。",
+        "body": "聯合ニュースは15:00の「この時刻のヘッドライン」で、配達員、女性芸人、介護職員など多様な経歴を持つ異色候補の登場を主要ニュースとして伝えた。要約によると、候補者の中には生活現場、大衆文化、介護労働の分野で活動してきた人物が含まれ、前科15犯の候補も言及された。今回のヘッドラインは、職業や経歴の幅が広がった候補者構成を示す事例として提示された。ただし原文要約は、候補ごとの地域、政党、出馬の背景などの詳細は明らかにしていない。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特色候选人引关注：外卖骑手、女喜剧演员、护理员及15次前科者",
+        "excerpt": "韩联社15:00“此刻头条”报道，外卖骑手、女喜剧演员、护理员等特色候选人登场，其中还包括一名有15次前科的候选人。",
+        "body": "韩联社在15:00“此刻头条”中，将外卖骑手、女喜剧演员、护理员等拥有多样经历的特色候选人登场列为主要消息。根据报道摘要，候选人群体中包括来自日常劳动现场、大众文化和照护劳动领域的人物，同时还提到一名有15次前科的候选人。该头条将其作为候选人职业和履历范围扩大的一项案例呈现。不过，原文摘要并未说明各候选人的地区、政党、参选背景等具体信息。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Candidatos inusuales ganan foco: repartidor, comediante, cuidadora y uno con 15 antecedentes",
+        "excerpt": "Yonhap informó en su titular de las 15:00 sobre candidatos inusuales, entre ellos un repartidor, una comediante, una cuidadora y hasta un aspirante con 15 condenas previas.",
+        "body": "Yonhap News informó en su sección de titulares de las 15:00 que la aparición de candidatos con trayectorias diversas, como un repartidor, una comediante y una cuidadora, figura entre las noticias principales. Según el resumen, la lista incluye personas vinculadas al trabajo cotidiano, la cultura popular y las labores de cuidado, además de mencionar a un candidato con 15 antecedentes penales. El titular presenta el caso como una muestra de la amplitud de ocupaciones e historiales entre los candidatos. El resumen original no detalla región, partido ni motivos de postulación de cada uno. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Candidatos incomuns chamam atenção: entregador, comediante, cuidadora e um com 15 antecedentes",
+        "excerpt": "A Yonhap informou no boletim das 15:00 sobre candidatos incomuns, incluindo entregador, comediante, cuidadora e até um candidato com 15 condenações anteriores.",
+        "body": "A Yonhap News informou em seus destaques das 15:00 que candidatos com trajetórias variadas, como entregador, comediante e cuidadora, chamaram atenção entre as principais notícias. Segundo o resumo, o grupo inclui pessoas ligadas ao trabalho cotidiano, à cultura popular e ao setor de cuidados, além de citar um candidato com 15 antecedentes criminais. O destaque apresenta o caso como exemplo de uma composição de candidatos com ampla diversidade de profissões e históricos pessoais. O resumo original não informa região, partido ou contexto da candidatura de cada pessoa. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Ungewöhnliche Kandidaten im Fokus: Lieferfahrer, Komikerin, Pflegekraft und Kandidat mit 15 Vorstrafen",
+        "excerpt": "Yonhap meldete in den Schlagzeilen um 15:00 Uhr ungewöhnliche Kandidaten, darunter einen Lieferfahrer, eine Komikerin, eine Pflegekraft und einen Kandidaten mit 15 Vorstrafen.",
+        "body": "Yonhap News berichtete in den Schlagzeilen um 15:00 Uhr über Kandidaten mit unterschiedlichen Lebensläufen, darunter ein Lieferfahrer, eine Komikerin und eine Pflegekraft. Laut Zusammenfassung umfasst das Kandidatenfeld Personen aus Alltagsarbeit, Populärkultur und Pflegearbeit; zudem wurde ein Kandidat mit 15 Vorstrafen erwähnt. Die Meldung stellt dies als Beispiel für eine breitere Spanne von Berufen und persönlichen Hintergründen unter den Kandidaten dar. Die ursprüngliche Zusammenfassung nennt jedoch keine Details zu Region, Parteizugehörigkeit oder Beweggründen der einzelnen Kandidaturen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Candidats atypiques en vue : livreur, humoriste, aide-soignante et candidat aux 15 antécédents",
+        "excerpt": "Yonhap a signalé dans son titre de 15:00 des candidats atypiques, dont un livreur, une humoriste, une aide-soignante et même un candidat ayant 15 condamnations antérieures.",
+        "body": "Yonhap News a rapporté dans ses titres de 15:00 l’apparition de candidats aux parcours variés, notamment un livreur, une humoriste et une aide-soignante. Selon le résumé, le groupe de candidats comprend des personnes issues du travail quotidien, de la culture populaire et du secteur des soins, ainsi qu’un candidat ayant 15 antécédents judiciaires. Ce titre présente le cas comme un exemple de l’élargissement des professions et des parcours personnels parmi les candidats. Le résumé original ne précise pas la région, le parti ni le contexte de candidature de chacun. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مرشحون غير مألوفين يلفتون الانتباه: عامل توصيل وكوميدية ومقدمة رعاية وصاحب 15 سابقة",
+        "excerpt": "أفادت يونهاب في عناوين الساعة 15:00 بظهور مرشحين غير مألوفين، بينهم عامل توصيل وكوميدية ومقدمة رعاية، إضافة إلى مرشح لديه 15 إدانة سابقة.",
+        "body": "ذكرت وكالة يونهاب للأنباء في عناوينها عند الساعة 15:00 أن مرشحين ذوي خلفيات متنوعة، من بينهم عامل توصيل وكوميدية ومقدمة رعاية، برزوا ضمن الأخبار الرئيسية. وبحسب الملخص، تضم قائمة المرشحين أشخاصا من مجالات العمل اليومي والثقافة الشعبية ورعاية المسنين، كما أشار الخبر إلى مرشح لديه 15 سابقة جنائية. ويعرض العنوان ذلك بوصفه مثالا على اتساع نطاق المهن والسير الشخصية بين المرشحين. ولم يذكر الملخص الأصلي تفاصيل عن المنطقة أو الحزب أو خلفية الترشح لكل مرشح. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "अलग पृष्ठभूमि वाले उम्मीदवार चर्चा में: डिलीवरी कर्मी, कॉमेडियन, देखभालकर्मी और 15 दोषसिद्धि वाला प्रत्याशी",
+        "excerpt": "योनहाप ने 15:00 बजे की हेडलाइन में डिलीवरी कर्मी, महिला कॉमेडियन, देखभालकर्मी जैसे अलग उम्मीदवारों और 15 पूर्व दोषसिद्धियों वाले प्रत्याशी का उल्लेख किया।",
+        "body": "योनहाप न्यूज ने 15:00 बजे की ‘इस समय की हेडलाइन’ में डिलीवरी कर्मी, महिला कॉमेडियन और देखभालकर्मी जैसी विविध पृष्ठभूमि वाले उम्मीदवारों के उभरने को प्रमुख खबर के रूप में बताया। सारांश के अनुसार, उम्मीदवारों में रोजमर्रा के श्रम, लोकप्रिय संस्कृति और देखभाल कार्य से जुड़े लोग शामिल हैं, और 15 पूर्व दोषसिद्धियों वाले एक उम्मीदवार का भी उल्लेख किया गया। यह हेडलाइन उम्मीदवारों के पेशे और जीवन-वृत्त की बढ़ी हुई विविधता का उदाहरण प्रस्तुत करती है। मूल सारांश में प्रत्येक उम्मीदवार का क्षेत्र, दल या चुनाव लड़ने की पृष्ठभूमि नहीं बताई गई। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kandidat Tak Biasa Jadi Sorotan: Kurir, Komedian, Perawat Lansia hingga Pemilik 15 Catatan Pidana",
+        "excerpt": "Yonhap dalam headline pukul 15:00 melaporkan deretan kandidat tak biasa, termasuk kurir, komedian, perawat lansia, serta seorang kandidat dengan 15 catatan pidana.",
+        "body": "Yonhap News dalam “headline saat ini” pukul 15:00 melaporkan kemunculan kandidat dengan latar belakang beragam, termasuk kurir, komedian, dan perawat lansia, sebagai salah satu berita utama. Menurut ringkasan, kelompok kandidat itu mencakup sosok dari pekerjaan sehari-hari, budaya populer, dan bidang perawatan, serta menyebut seorang kandidat dengan 15 catatan pidana. Headline ini disajikan sebagai contoh luasnya ragam profesi dan riwayat pribadi di antara para kandidat. Ringkasan asli tidak merinci wilayah, afiliasi partai, atau latar belakang pencalonan masing-masing kandidat. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "3bf59774ef0e",
     "slug": "880만원-내고-매칭된-소개남-카톡-프로필엔-웨딩-d108-111052",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Pajak capital gain tambahan bagi pemilik banyak rumah berlaku hari ini, hingga 82%",
         "excerpt": "Penangguhan sementara pajak capital gain tambahan berakhir pada 9 Mei, sehingga mulai 10 Mei aturan untuk pemilik banyak rumah kembali berlaku setelah empat tahun.",
         "body": "Pajak capital gain tambahan bagi pemilik banyak rumah kembali berlaku mulai 10 Mei. Menurut kementerian terkait, kebijakan penangguhan sementara yang dijalankan pemerintah berakhir sehari sebelumnya, 9 Mei, sehingga mulai hari ini pemilik beberapa rumah menjadi subjek aturan tersebut. Langkah ini menandai kembalinya sistem setelah empat tahun, dan laporan asli menyebut tarif tertinggi dapat mencapai 82%. Dengan berlakunya kembali pajak tambahan yang sempat ditangguhkan, beban pajak dan keputusan menjual bagi pemilik beberapa rumah dapat terdampak langsung. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4747a4420e00",
-    "slug": "인천시-도시주거환경정비사업에-지역업체-인센티브-강화-842548",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T23:52:44.649Z",
-    "updatedAt": "2026-05-09T23:52:44.649Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "titleFingerprint": "32d29767c8566d27618d683fd5f9fd9c994e1839",
-    "dedupKeys": [
-      "4747a4420e00e19b5b76c0939457331175cf3dd0",
-      "32d29767c8566d27618d683fd5f9fd9c994e1839",
-      "4db0707b9191c8391a7c26743e4a450d69d5d605"
-    ],
-    "imageUrl": "/images/articles/4747a4420e00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 도시·주거환경정비사업, 지역업체 인센티브 강화로 건설산업 지원",
-        "excerpt": "인천시는 10일 지역 건설산업 활성화를 위해 도시·주거환경정비사업에서 지역업체에 대한 인센티브를 강화하는 지원책을 시행한다고 밝혔다.",
-        "body": "인천시는 10일 지역 건설산업 활성화를 위해 도시·주거환경정비사업에서 지역업체 인센티브를 강화하는 지원책을 시행한다고 밝혔다. 이번 조치는 지역 건설업체의 정비사업 참여 여건을 높이는 데 초점을 맞췄다. 도시·주거환경정비사업은 주거지와 도시 환경을 정비하는 사업으로, 지역 업체 참여 확대는 지역 건설산업 지원과 연결된다. 원문 요약에는 세부 인센티브 기준이나 구체적인 수치는 제시되지 않았다. 인천시는 이번 지원책을 통해 지역 건설산업 활성화를 추진한다는 방침이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Incheon Strengthens Local Firm Incentives in Urban Housing Renewal Projects",
-        "excerpt": "Incheon City said on the 10th it will implement support measures to boost the local construction industry by strengthening incentives for local firms in urban and residential renewal projects.",
-        "body": "Incheon City said on the 10th that it will implement support measures aimed at revitalizing the local construction industry by strengthening incentives for local companies in urban and residential environment improvement projects. The measure focuses on improving conditions for local builders to take part in redevelopment and renewal projects. Such projects are tied to improving residential areas and urban environments, and broader local participation is linked to support for the regional construction sector. The source summary did not provide detailed incentive criteria or specific figures. Incheon plans to promote local construction activity through the support package. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "仁川市、都市・住居環境整備事業で地域業者インセンティブを強化",
-        "excerpt": "仁川市は10日、地域建設産業の活性化に向け、都市・住居環境整備事業で地域業者へのインセンティブを強化する支援策を実施すると明らかにした。",
-        "body": "仁川市は10日、地域建設産業の活性化を目的に、都市・住居環境整備事業で地域業者へのインセンティブを強化する支援策を実施すると発表した。今回の措置は、地域の建設業者が整備事業に参加しやすい環境を高めることに焦点を当てている。都市・住居環境整備事業は、住居地と都市環境を整備する事業であり、地域業者の参加拡大は地域建設産業への支援につながる。原文要約には、具体的なインセンティブ基準や数値は示されていない。仁川市は今回の支援策を通じ、地域建設産業の活性化を進める方針だ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "仁川市强化城市与居住环境整治项目本地企业激励措施",
-        "excerpt": "仁川市10日表示，为激活本地建筑产业，将在城市与居住环境整治项目中强化对本地企业的激励支持措施。",
-        "body": "仁川市10日表示，将实施支持措施，在城市与居住环境整治项目中强化对本地企业的激励，以激活本地建筑产业。此次措施的重点是改善本地建筑企业参与整治项目的条件。城市与居住环境整治项目涉及住宅区和城市环境的改善，本地企业参与扩大与支持地区建筑产业相连接。原文摘要未提供具体激励标准或相关数字。仁川市计划通过这一支持措施推动本地建筑产业活跃发展。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Incheon refuerza incentivos a firmas locales en renovación urbana y residencial",
-        "excerpt": "La ciudad de Incheon anunció el día 10 que aplicará medidas de apoyo para activar la construcción local reforzando incentivos a empresas locales en proyectos de mejora urbana y residencial.",
-        "body": "La ciudad de Incheon anunció el día 10 que aplicará medidas de apoyo destinadas a revitalizar la industria local de la construcción mediante el refuerzo de incentivos para empresas locales en proyectos de mejora del entorno urbano y residencial. La medida se centra en mejorar las condiciones para que las constructoras locales participen en estos proyectos de renovación. Los proyectos de mejora urbana y residencial buscan ordenar zonas habitacionales y entornos urbanos, y una mayor participación local se vincula con el apoyo al sector constructor regional. El resumen original no incluyó criterios detallados de incentivos ni cifras específicas. Incheon impulsará la industria local mediante este paquete de apoyo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Incheon reforça incentivos a empresas locais em renovação urbana e residencial",
-        "excerpt": "A cidade de Incheon informou no dia 10 que adotará medidas de apoio para ativar a construção local, reforçando incentivos a empresas locais em projetos urbanos e residenciais.",
-        "body": "A cidade de Incheon informou no dia 10 que implementará medidas de apoio para revitalizar a indústria local da construção, reforçando incentivos a empresas da região em projetos de melhoria do ambiente urbano e residencial. A medida tem como foco ampliar as condições de participação das construtoras locais nesses projetos de renovação. Projetos desse tipo estão ligados à melhoria de áreas residenciais e do ambiente urbano, e a maior presença de empresas locais se conecta ao apoio ao setor regional de construção. O resumo original não apresentou critérios detalhados de incentivo nem números específicos. Incheon pretende promover a atividade local da construção com essa política de apoio. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Incheon stärkt Anreize für lokale Firmen bei Stadt- und Wohnumfeldprojekten",
-        "excerpt": "Die Stadt Incheon teilte am 10. mit, sie werde zur Belebung der lokalen Bauwirtschaft Unterstützungsmaßnahmen umsetzen und Anreize für regionale Unternehmen in Stadt- und Wohnumfeldprojekten stärken.",
-        "body": "Die Stadt Incheon teilte am 10. mit, dass sie Unterstützungsmaßnahmen zur Belebung der lokalen Bauwirtschaft umsetzen wird, indem sie Anreize für regionale Unternehmen bei Projekten zur Verbesserung des Stadt- und Wohnumfelds stärkt. Die Maßnahme zielt darauf ab, die Teilnahmebedingungen für lokale Bauunternehmen an solchen Erneuerungsprojekten zu verbessern. Diese Projekte betreffen die Aufwertung von Wohngebieten und städtischen Umfeldern; eine stärkere Beteiligung lokaler Firmen steht damit im Zusammenhang mit der Unterstützung der regionalen Bauindustrie. Die ursprüngliche Zusammenfassung nennt keine detaillierten Anreizkriterien oder konkreten Zahlen. Incheon will die lokale Bauwirtschaft durch das Unterstützungspaket fördern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Incheon renforce les incitations aux entreprises locales dans la rénovation urbaine",
-        "excerpt": "La ville d’Incheon a annoncé le 10 qu’elle mettrait en œuvre des mesures de soutien pour dynamiser le BTP local en renforçant les incitations aux entreprises locales dans les projets urbains et résidentiels.",
-        "body": "La ville d’Incheon a annoncé le 10 qu’elle mettrait en œuvre des mesures de soutien visant à dynamiser l’industrie locale de la construction en renforçant les incitations accordées aux entreprises locales dans les projets d’amélioration de l’environnement urbain et résidentiel. Cette mesure vise à améliorer les conditions de participation des constructeurs locaux à ces projets de rénovation. Ces projets concernent l’aménagement des zones d’habitation et de l’environnement urbain, et une participation locale accrue est liée au soutien du secteur régional de la construction. Le résumé original ne fournit pas de critères détaillés ni de chiffres précis sur les incitations. Incheon entend promouvoir l’activité locale de la construction grâce à ce dispositif. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إنتشون تعزز حوافز الشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية",
-        "excerpt": "أعلنت مدينة إنتشون في اليوم العاشر أنها ستنفذ إجراءات دعم لتنشيط قطاع البناء المحلي عبر تعزيز الحوافز للشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية.",
-        "body": "أعلنت مدينة إنتشون في اليوم العاشر أنها ستنفذ إجراءات دعم تهدف إلى تنشيط قطاع البناء المحلي من خلال تعزيز الحوافز المقدمة للشركات المحلية في مشاريع تحسين البيئة الحضرية والسكنية. وتركز هذه الخطوة على تحسين ظروف مشاركة شركات البناء المحلية في مشاريع التطوير والتحسين. وترتبط هذه المشاريع بتحسين المناطق السكنية والبيئة الحضرية، كما أن توسيع مشاركة الشركات المحلية يتصل بدعم قطاع البناء في المنطقة. ولم يتضمن ملخص المصدر معايير تفصيلية للحوافز أو أرقاما محددة. وتعتزم إنتشون دفع نشاط قطاع البناء المحلي عبر هذه الإجراءات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन शहर शहरी और आवासीय सुधार परियोजनाओं में स्थानीय कंपनियों के प्रोत्साहन बढ़ाएगा",
-        "excerpt": "इंचियोन शहर ने 10 तारीख को कहा कि वह स्थानीय निर्माण उद्योग को सक्रिय करने के लिए शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के लिए प्रोत्साहन मजबूत करेगा।",
-        "body": "इंचियोन शहर ने 10 तारीख को कहा कि वह स्थानीय निर्माण उद्योग को सक्रिय करने के उद्देश्य से शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के लिए प्रोत्साहन मजबूत करने वाली समर्थन नीति लागू करेगा। इस कदम का केंद्र स्थानीय निर्माण कंपनियों की इन सुधार परियोजनाओं में भागीदारी की स्थितियों को बेहतर बनाना है। ऐसी परियोजनाएं आवासीय क्षेत्रों और शहरी वातावरण के सुधार से जुड़ी होती हैं, और स्थानीय कंपनियों की भागीदारी बढ़ना क्षेत्रीय निर्माण उद्योग के समर्थन से जुड़ता है। मूल सारांश में प्रोत्साहन के विस्तृत मानदंड या विशिष्ट आंकड़े नहीं दिए गए। इंचियोन इस समर्थन उपाय के जरिए स्थानीय निर्माण उद्योग को बढ़ावा देगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Incheon Perkuat Insentif Perusahaan Lokal di Proyek Penataan Kota dan Hunian",
-        "excerpt": "Kota Incheon pada tanggal 10 menyatakan akan menjalankan dukungan untuk mengaktifkan industri konstruksi lokal dengan memperkuat insentif bagi perusahaan daerah dalam proyek penataan kota dan lingkungan hunian.",
-        "body": "Kota Incheon pada tanggal 10 menyatakan akan menerapkan langkah dukungan untuk mengaktifkan industri konstruksi lokal dengan memperkuat insentif bagi perusahaan daerah dalam proyek penataan kota dan lingkungan hunian. Kebijakan ini berfokus pada peningkatan kondisi agar pelaku konstruksi lokal dapat berpartisipasi dalam proyek penataan tersebut. Proyek penataan kota dan lingkungan hunian berkaitan dengan perbaikan kawasan tempat tinggal serta lingkungan perkotaan, sehingga perluasan partisipasi perusahaan lokal terkait dengan dukungan bagi sektor konstruksi daerah. Ringkasan sumber tidak memuat kriteria insentif yang rinci atau angka khusus. Incheon berencana mendorong aktivitas konstruksi lokal melalui dukungan ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4883aef2ffa9",
-    "slug": "인천시-취약계층-22만명에-고유가-피해지원금-5만원-추가지급-820162",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T23:51:50.311Z",
-    "updatedAt": "2026-05-09T23:51:50.311Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "titleFingerprint": "3280e606cf2d208263ff0cbd5b0160277d087524",
-    "dedupKeys": [
-      "4883aef2ffa9475998844c55d8c0be31144f2b51",
-      "3280e606cf2d208263ff0cbd5b0160277d087524",
-      "24d57bb0f63588f336859cf7aa22edffe430816f"
-    ],
-    "imageUrl": "/images/articles/4883aef2ffa9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 고유가 피해지원금 추가지급, 취약계층 22만명에 5만원 지원",
-        "excerpt": "인천시는 고유가 피해지원금 1차 지급 대상자인 취약계층 22만명에게 이달 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다고 밝혔다.",
-        "body": "인천시는 고유가 피해지원금 1차 지급 대상자인 취약계층 22만명에게 이달 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다. 이번 지원은 고유가로 인한 취약계층의 부담을 덜기 위한 추가 지급으로, 기존 1차 지급 대상자에게 같은 금액이 지급되는 방식이다. 지급 대상 규모는 22만명이며, 지원 금액은 1인당 5만원이다. 인천시는 정해진 기간 안에 해당 대상자에게 피해지원금을 지급할 예정이다. 고유가 상황이 이어지는 가운데 취약계층을 중심으로 한 생활 부담 완화 효과가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Incheon to Pay Extra Oil-Price Relief, 50,000 Won for 220,000 Vulnerable Residents",
-        "excerpt": "Incheon City said it will provide an additional 50,000 won each to 220,000 vulnerable residents who were eligible for the first oil-price relief payment from the 11th through July 3.",
-        "body": "Incheon City will provide an additional 50,000 won per person to 220,000 vulnerable residents who were recipients of the first round of oil-price relief payments, from the 11th of this month through July 3. The extra payment is intended to ease the burden on vulnerable groups caused by high oil prices, and the same amount will be paid to those already included in the first round. The number of eligible recipients is 220,000, and the support amount is 50,000 won per person. The city plans to complete the payments within the announced period. As high oil prices continue, attention is on whether the measure can help reduce living burdens for vulnerable residents. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "仁川市、高油価被害支援金を追加支給　脆弱層22万人に5万ウォン",
-        "excerpt": "仁川市は、高油価被害支援金の1次支給対象である脆弱層22万人に、今月11日から7月3日まで1人当たり5万ウォンを追加支給すると明らかにした。",
-        "body": "仁川市は、高油価被害支援金の1次支給対象である脆弱層22万人に、今月11日から7月3日まで1人当たり5万ウォンを追加支給する。今回の支援は、高油価による脆弱層の負担を軽減するための追加支給で、既存の1次支給対象者に同額が支給される形だ。支給対象の規模は22万人で、支援額は1人当たり5万ウォン。仁川市は定められた期間内に該当対象者へ被害支援金を支給する予定だ。高油価の状況が続くなか、脆弱層を中心とした生活負担の緩和効果が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "仁川市追加发放高油价受损补助，22万弱势群体每人5万韩元",
-        "excerpt": "仁川市表示，将从本月11日至7月3日，向高油价受损补助第一轮发放对象中的22万名弱势群体每人追加发放5万韩元。",
-        "body": "仁川市将从本月11日至7月3日，向高油价受损补助第一轮发放对象中的22万名弱势群体每人追加发放5万韩元。此次补助是为减轻高油价给弱势群体带来的负担而进行的追加发放，现有第一轮发放对象将获得相同金额。发放对象规模为22万人，补助金额为每人5万韩元。仁川市计划在规定期间内向相关对象发放受损补助。随着高油价局面持续，面向弱势群体的生活负担缓解效果受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Incheon dará ayuda extra por altos precios del petróleo: 50.000 wones a 220.000 vulnerables",
-        "excerpt": "La ciudad de Incheon informó que pagará 50.000 wones adicionales a 220.000 personas vulnerables incluidas en la primera ayuda por altos precios del petróleo, del día 11 al 3 de julio.",
-        "body": "La ciudad de Incheon pagará 50.000 wones adicionales por persona a 220.000 personas vulnerables que fueron beneficiarias de la primera ronda de la ayuda por daños derivados de los altos precios del petróleo, desde el día 11 de este mes hasta el 3 de julio. La medida busca aliviar la carga de los grupos vulnerables ante los altos precios del petróleo y se aplicará a los mismos beneficiarios de la primera entrega. El número de destinatarios es de 220.000 y el monto de apoyo es de 50.000 wones por persona. Incheon prevé realizar los pagos dentro del periodo fijado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Incheon pagará auxílio extra por alta do petróleo: 50 mil won a 220 mil vulneráveis",
-        "excerpt": "A cidade de Incheon informou que pagará 50 mil won adicionais a 220 mil pessoas vulneráveis incluídas na primeira rodada do auxílio por danos da alta do petróleo, do dia 11 a 3 de julho.",
-        "body": "A cidade de Incheon pagará 50 mil won por pessoa a 220 mil pessoas vulneráveis que foram contempladas na primeira rodada do auxílio por danos causados pelos altos preços do petróleo, do dia 11 deste mês até 3 de julho. O pagamento adicional busca reduzir o peso sobre grupos vulneráveis diante da alta do petróleo e será feito aos mesmos beneficiários da primeira rodada. O público-alvo soma 220 mil pessoas, e o valor do apoio é de 50 mil won por pessoa. Incheon pretende concluir os pagamentos dentro do período definido. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Incheon zahlt zusätzliche Ölpreis-Hilfe: 50.000 Won für 220.000 Bedürftige",
-        "excerpt": "Die Stadt Incheon teilte mit, dass sie vom 11. dieses Monats bis zum 3. Juli 220.000 Bedürftigen aus der ersten Runde der Ölpreis-Hilfe zusätzlich je 50.000 Won zahlt.",
-        "body": "Die Stadt Incheon zahlt 220.000 bedürftigen Menschen, die zur ersten Runde der Hilfen wegen hoher Ölpreise gehörten, vom 11. dieses Monats bis zum 3. Juli zusätzlich je 50.000 Won. Die zusätzliche Unterstützung soll die Belastung vulnerabler Gruppen durch hohe Ölpreise mindern und richtet sich an die bereits in der ersten Runde berücksichtigten Empfänger. Die Zahl der Begünstigten liegt bei 220.000, der Betrag bei 50.000 Won pro Person. Incheon will die Zahlungen innerhalb des festgelegten Zeitraums leisten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Incheon verse une aide pétrole supplémentaire: 50.000 wons à 220.000 personnes vulnérables",
-        "excerpt": "La ville d’Incheon a annoncé qu’elle versera 50.000 wons supplémentaires à 220.000 personnes vulnérables déjà concernées par la première aide liée aux prix élevés du pétrole, du 11 au 3 juillet.",
-        "body": "La ville d’Incheon versera 50.000 wons supplémentaires par personne à 220.000 personnes vulnérables qui faisaient partie des bénéficiaires de la première aide pour les dommages liés aux prix élevés du pétrole, du 11 de ce mois au 3 juillet. Cette aide additionnelle vise à alléger la charge pesant sur les groupes vulnérables face aux prix élevés du pétrole et sera accordée aux mêmes bénéficiaires de la première phase. Le nombre de personnes concernées est de 220.000, avec un montant de 50.000 wons par personne. Incheon prévoit d’effectuer les paiements dans la période fixée. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إنشيون تدفع دعما إضافيا بسبب ارتفاع أسعار النفط: 50 ألف وون لـ220 ألفا من الفئات الضعيفة",
-        "excerpt": "قالت مدينة إنشيون إنها ستدفع 50 ألف وون إضافية لكل فرد من 220 ألفا من الفئات الضعيفة المشمولة بالدفعة الأولى من دعم أضرار ارتفاع أسعار النفط، من يوم 11 حتى 3 يوليو.",
-        "body": "ستدفع مدينة إنشيون 50 ألف وون إضافية لكل شخص من 220 ألفا من الفئات الضعيفة الذين كانوا ضمن مستحقي الدفعة الأولى من دعم أضرار ارتفاع أسعار النفط، وذلك من يوم 11 من هذا الشهر حتى 3 يوليو. ويأتي هذا الدعم الإضافي لتخفيف العبء عن الفئات الضعيفة بسبب ارتفاع أسعار النفط، وسيصرف بالمبلغ نفسه للمستفيدين القائمين من الدفعة الأولى. يبلغ عدد المستفيدين 220 ألف شخص، وقيمة الدعم 50 ألف وون للفرد. وتعتزم إنشيون دفع المبالغ خلال الفترة المحددة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन उच्च तेल कीमत राहत में अतिरिक्त भुगतान करेगा, 2.2 लाख कमजोर लोगों को 50,000 वॉन",
-        "excerpt": "इंचियोन शहर ने कहा कि उच्च तेल कीमत राहत की पहली सूची में शामिल 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त दिए जाएंगे।",
-        "body": "इंचियोन शहर उच्च तेल कीमतों से नुकसान के लिए राहत भुगतान की पहली सूची में शामिल 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त देगा। यह अतिरिक्त सहायता उच्च तेल कीमतों के कारण कमजोर वर्गों पर पड़े बोझ को कम करने के लिए है और पहली बार के मौजूदा पात्र लोगों को समान राशि दी जाएगी। पात्र लोगों की संख्या 2.2 लाख है और सहायता राशि प्रति व्यक्ति 50,000 वॉन है। इंचियोन निर्धारित अवधि के भीतर संबंधित लोगों को राहत राशि देने की योजना बना रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Incheon Tambah Bantuan Dampak Harga Minyak, 50.000 Won untuk 220.000 Warga Rentan",
-        "excerpt": "Kota Incheon menyatakan akan memberi tambahan 50.000 won per orang kepada 220.000 warga rentan penerima tahap pertama bantuan dampak harga minyak tinggi, mulai tanggal 11 bulan ini hingga 3 Juli.",
-        "body": "Kota Incheon akan memberikan tambahan 50.000 won per orang kepada 220.000 warga rentan yang menjadi penerima tahap pertama bantuan dampak harga minyak tinggi, mulai tanggal 11 bulan ini hingga 3 Juli. Bantuan tambahan ini ditujukan untuk meringankan beban kelompok rentan akibat harga minyak yang tinggi, dengan jumlah yang sama diberikan kepada penerima tahap pertama yang sudah ada. Jumlah penerima mencapai 220.000 orang, dan nilai bantuan adalah 50.000 won per orang. Incheon berencana menyalurkan bantuan tersebut dalam periode yang telah ditetapkan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0cc1b9627d5b",
-    "slug": "뉴욕시-골칫거리-외교관-주차위반-한순간에-싹-사라진-이유-628430",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T23:50:54.190Z",
-    "updatedAt": "2026-05-09T23:50:54.190Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260510/133890949/1",
-    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260510/133890949/1",
-    "titleFingerprint": "45e58c4fa796c03b86c0a9a2350a46f93454ac68",
-    "dedupKeys": [
-      "0cc1b9627d5b8a45accfc8d449fdd080546f4721",
-      "45e58c4fa796c03b86c0a9a2350a46f93454ac68",
-      "b57cc0af08c8ae8d550f77cb41658d66ca28591a"
-    ],
-    "imageUrl": "/images/articles/0cc1b9627d5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "뉴욕 외교관 주차위반 논란, 면책특권이 드러낸 돈과 양심의 관계",
-        "excerpt": "2006년 레이먼드 피스먼 컬럼비아대 교수와 에드워드 미겔 UC버클리대 교수는 뉴욕시 외교관 주차위반 사례로 돈과 양심의 관계를 분석했다.",
-        "body": "뉴욕시에서 외교관들의 주차위반이 논란이 된 배경에는 외교관 면책특권이 있었다. 레이먼드 피스먼 미국 컬럼비아대 교수와 에드워드 미겔 UC버클리대 교수는 2006년 뉴욕시 외교관 주차위반 실태를 조사한 연구를 발표했다. 외교관은 해외 근무 중 해당 국가의 법을 어겨도 형사처벌을 받지 않는 면책특권을 갖고 있다. 주차위반 과태료 통지서가 나오더라도 사실상 납부하지 않아도 되는 구조였다. 이 연구는 고소득 국가와 저소득 국가 국민의 돈과 양심의 관계를 살펴볼 수 있는 사례로 소개됐다. 돈이 중요한지, 양심이 중요한지는 사람마다 다르지만 제도와 책임의 부재가 행동에 영향을 줄 수 있다는 점을 보여준다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "New York Diplomat Parking Violations Show How Immunity Tested Money and Conscience",
-        "excerpt": "In 2006, Columbia’s Raymond Fisman and UC Berkeley’s Edward Miguel studied New York diplomat parking violations to examine money, conscience and immunity.",
-        "body": "Diplomat parking violations in New York City became a revealing case because of diplomatic immunity. In 2006, Raymond Fisman of Columbia University and Edward Miguel of UC Berkeley published a study on parking violations by diplomats in New York. Diplomats serving abroad have immunity, meaning they are not criminally punished even when they violate local laws. When parking tickets were issued, diplomats effectively did not have to pay the fines. The study was introduced as evidence for examining the relationship between money and conscience among people from high- and low-income countries. Whether money or conscience matters more differs by person, but the case shows how weak responsibility under a system can affect behavior. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ニューヨーク外交官の駐車違反、免責特権が映した金と良心の関係",
-        "excerpt": "2006年、コロンビア大学のレイモンド・フィスマン教授とUCバークレーのエドワード・ミゲル教授は、ニューヨーク市の外交官駐車違反を調査した。",
-        "body": "ニューヨーク市で外交官の駐車違反が問題になった背景には、外交官の免責特権があった。米コロンビア大学のレイモンド・フィスマン教授とUCバークレーのエドワード・ミゲル教授は2006年、ニューヨーク市における外交官の駐車違反の実態を調査した研究を発表した。外交官は海外勤務中、滞在国の法律に違反しても刑事処罰を受けない免責特権を持つ。駐車違反の罰金通知が出ても、事実上支払わなくてよい構造だった。この研究は、高所得国と低所得国の国民における金と良心の関係を見る事例として紹介された。金か良心かは人によって異なるが、制度上の責任の欠如が行動に影響し得ることを示している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "纽约外交官停车违规争议：豁免权暴露金钱与良心的关系",
-        "excerpt": "2006年，哥伦比亚大学教授雷蒙德·菲斯曼和加州大学伯克利分校教授爱德华·米格尔研究了纽约外交官停车违规问题。",
-        "body": "纽约市外交官停车违规之所以引发争议，背景在于外交豁免权。美国哥伦比亚大学教授雷蒙德·菲斯曼和加州大学伯克利分校教授爱德华·米格尔于2006年发表研究，调查纽约市外交官停车违规情况。外交官在海外任职时，即使违反所在国法律，也不会受到刑事处罚。即便收到停车违规罚单，实际上也可以不缴纳罚款。这项研究被用来观察高收入国家与低收入国家民众在金钱和良心之间的关系。金钱更重要还是良心更重要，因人而异，但这一案例显示，当制度缺少责任约束时，人的行为可能受到影响。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Multas de diplomáticos en Nueva York revelan el choque entre dinero y conciencia",
-        "excerpt": "En 2006, Raymond Fisman de Columbia y Edward Miguel de UC Berkeley estudiaron las infracciones de estacionamiento de diplomáticos en Nueva York.",
-        "body": "Las infracciones de estacionamiento de diplomáticos en la ciudad de Nueva York se volvieron polémicas por la inmunidad diplomática. En 2006, Raymond Fisman, de la Universidad de Columbia, y Edward Miguel, de UC Berkeley, publicaron un estudio sobre la situación de esas infracciones en Nueva York. Los diplomáticos destinados en otros países cuentan con inmunidad, por lo que no reciben castigo penal aunque infrinjan leyes locales. Si se emitía una multa de estacionamiento, en la práctica no estaban obligados a pagarla. El estudio se presentó como un caso para analizar la relación entre dinero y conciencia entre personas de países de altos y bajos ingresos. La prioridad entre dinero y conciencia varía según la persona, pero el caso muestra que la falta de responsabilidad institucional puede influir en la conducta. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Multas de diplomatas em Nova York expõem relação entre dinheiro e consciência",
-        "excerpt": "Em 2006, Raymond Fisman, da Columbia, e Edward Miguel, da UC Berkeley, estudaram as infrações de estacionamento de diplomatas em Nova York.",
-        "body": "As infrações de estacionamento cometidas por diplomatas em Nova York ganharam destaque por causa da imunidade diplomática. Em 2006, Raymond Fisman, da Universidade Columbia, e Edward Miguel, da UC Berkeley, publicaram um estudo sobre a situação dessas infrações na cidade. Diplomatas em serviço no exterior têm imunidade e não sofrem punição criminal mesmo quando violam leis locais. Quando recebiam notificações de multa por estacionamento, na prática não precisavam pagar. O estudo foi apresentado como um caso para observar a relação entre dinheiro e consciência entre pessoas de países de alta e baixa renda. A importância dada ao dinheiro ou à consciência varia de pessoa para pessoa, mas o caso mostra que a ausência de responsabilização institucional pode afetar comportamentos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Diplomaten-Parksünden in New York zeigen Konflikt zwischen Geld und Gewissen",
-        "excerpt": "2006 untersuchten Raymond Fisman von Columbia und Edward Miguel von UC Berkeley Parkverstöße von Diplomaten in New York und deren Aussagekraft.",
-        "body": "Parkverstöße von Diplomaten in New York City wurden wegen der diplomatischen Immunität zu einem aufschlussreichen Fall. Raymond Fisman von der Columbia University und Edward Miguel von der UC Berkeley veröffentlichten 2006 eine Studie über diese Verstöße in New York. Diplomaten im Ausland genießen Immunität und werden selbst bei Verstößen gegen lokale Gesetze nicht strafrechtlich belangt. Wurde ein Strafzettel wegen Falschparkens ausgestellt, mussten sie die Geldbuße faktisch nicht zahlen. Die Studie wurde als Beispiel dafür angeführt, wie sich das Verhältnis von Geld und Gewissen bei Menschen aus Ländern mit hohem und niedrigem Einkommen betrachten lässt. Ob Geld oder Gewissen wichtiger ist, hängt von der Person ab, doch der Fall zeigt, dass fehlende Verantwortung in einem System Verhalten beeinflussen kann. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "À New York, les infractions de diplomates éclairent argent, conscience et immunité",
-        "excerpt": "En 2006, Raymond Fisman de Columbia et Edward Miguel de l’UC Berkeley ont étudié les infractions de stationnement de diplomates à New York.",
-        "body": "À New York, les infractions de stationnement commises par des diplomates ont attiré l’attention en raison de l’immunité diplomatique. En 2006, Raymond Fisman, de l’université Columbia, et Edward Miguel, de l’UC Berkeley, ont publié une étude sur ces infractions dans la ville. Les diplomates en poste à l’étranger bénéficient d’une immunité qui les soustrait aux sanctions pénales même lorsqu’ils enfreignent les lois locales. Lorsqu’une amende de stationnement était émise, ils n’étaient en pratique pas tenus de la payer. L’étude a été présentée comme un cas permettant d’observer le rapport entre argent et conscience chez des personnes issues de pays à hauts et faibles revenus. La priorité donnée à l’argent ou à la conscience varie selon les individus, mais ce cas montre que l’absence de responsabilité institutionnelle peut influencer les comportements. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "مخالفات دبلوماسيي نيويورك تكشف علاقة الحصانة بالمال والضمير",
-        "excerpt": "في 2006 درس ريموند فيسمان من جامعة كولومبيا وإدوارد ميغيل من جامعة كاليفورنيا بيركلي مخالفات وقوف الدبلوماسيين في نيويورك.",
-        "body": "أثارت مخالفات وقوف الدبلوماسيين في مدينة نيويورك جدلا بسبب الحصانة الدبلوماسية. ففي عام 2006 نشر ريموند فيسمان من جامعة كولومبيا وإدوارد ميغيل من جامعة كاليفورنيا في بيركلي دراسة عن واقع هذه المخالفات في نيويورك. يتمتع الدبلوماسيون أثناء عملهم في الخارج بحصانة تجعلهم غير معرضين لعقوبة جنائية حتى إذا خالفوا قوانين البلد المضيف. وعند صدور إشعار بغرامة وقوف، لم يكن عليهم عمليا دفعها. وقد عُرضت الدراسة كحالة تساعد على فهم العلاقة بين المال والضمير لدى مواطني الدول مرتفعة الدخل ومنخفضة الدخل. تختلف أولوية المال أو الضمير من شخص لآخر، لكن الحالة تظهر أن غياب المساءلة داخل النظام قد يؤثر في السلوك. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "न्यूयॉर्क में राजनयिकों की पार्किंग गड़बड़ी ने पैसा और विवेक का रिश्ता दिखाया",
-        "excerpt": "2006 में कोलंबिया के रेमंड फिसमैन और यूसी बर्कले के एडवर्ड मिगुएल ने न्यूयॉर्क में राजनयिकों के पार्किंग उल्लंघनों का अध्ययन किया।",
-        "body": "न्यूयॉर्क शहर में राजनयिकों के पार्किंग उल्लंघन इसलिए चर्चा में आए क्योंकि उनके पीछे राजनयिक प्रतिरक्षा थी। कोलंबिया विश्वविद्यालय के रेमंड फिसमैन और यूसी बर्कले के एडवर्ड मिगुएल ने 2006 में न्यूयॉर्क में राजनयिकों के पार्किंग उल्लंघनों पर अध्ययन प्रकाशित किया। विदेश में सेवा कर रहे राजनयिकों को ऐसी प्रतिरक्षा मिलती है कि स्थानीय कानून तोड़ने पर भी उन्हें आपराधिक सजा नहीं दी जाती। पार्किंग उल्लंघन का जुर्माना नोटिस जारी होने पर भी वे व्यवहार में उसे न चुकाने की स्थिति में थे। यह अध्ययन उच्च आय और निम्न आय वाले देशों के लोगों में पैसे और विवेक के संबंध को देखने का उदाहरण बताया गया। पैसा महत्वपूर्ण है या विवेक, यह व्यक्ति पर निर्भर करता है, लेकिन मामला दिखाता है कि व्यवस्था में जवाबदेही की कमी व्यवहार को प्रभावित कर सकती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pelanggaran Parkir Diplomat New York Ungkap Hubungan Uang dan Nurani",
-        "excerpt": "Pada 2006, Raymond Fisman dari Columbia dan Edward Miguel dari UC Berkeley meneliti pelanggaran parkir diplomat di New York untuk melihat uang dan nurani.",
-        "body": "Pelanggaran parkir oleh diplomat di New York City menjadi sorotan karena adanya kekebalan diplomatik. Pada 2006, Raymond Fisman dari Columbia University dan Edward Miguel dari UC Berkeley menerbitkan studi tentang kondisi pelanggaran parkir diplomat di New York. Diplomat yang bertugas di negara lain memiliki kekebalan, sehingga tidak dikenai hukuman pidana meski melanggar hukum setempat. Ketika surat tilang parkir diterbitkan, mereka pada praktiknya tidak harus membayar denda. Studi ini diperkenalkan sebagai contoh untuk melihat hubungan antara uang dan nurani pada warga negara berpenghasilan tinggi dan rendah. Apakah uang atau nurani lebih penting berbeda pada setiap orang, tetapi kasus ini menunjukkan bahwa lemahnya tanggung jawab dalam sistem dapat memengaruhi perilaku. Sumber: rss.donga.com"
       }
     }
   }
