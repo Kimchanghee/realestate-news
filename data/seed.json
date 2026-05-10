@@ -1,5 +1,230 @@
 [
   {
+    "id": "3a8e5569fe67",
+    "slug": "다주택자-양도세-줄이려-주말까지-줄섰다-729019",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T10:16:44.215Z",
+    "updatedAt": "2026-05-10T10:16:44.215Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042684",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042684",
+    "titleFingerprint": "3849d1c1cb2c7cb1f5ab9ee6ca5899d340b6497b",
+    "dedupKeys": [
+      "3a8e5569fe67e4d8d6ec89de509c8ac16f96b0fe",
+      "3849d1c1cb2c7cb1f5ab9ee6ca5899d340b6497b",
+      "91a8e2c4ae0e770a57a550a56eb7ac66482b327d"
+    ],
+    "imageUrl": "/images/articles/3a8e5569fe67.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 유예 종료 앞두고 막판 부동산 거래 몰렸다",
+        "excerpt": "다주택자들이 양도소득세 중과 유예 마지막 날까지 세금 부담을 줄이기 위해 급매 거래와 토지거래허가 민원에 몰리며 주말까지 부동산 거래가 이어졌다.",
+        "body": "다주택자 양도소득세 중과 유예 종료를 앞두고 마지막 날까지 세금 부담을 피하려는 부동산 거래가 집중됐다. 유예 기간 안에 처분을 마치려는 매도자들이 급하게 가격을 낮춘 막판 거래에 나섰고, 토지거래허가 관련 민원도 주말까지 이어졌다. 이번 움직임은 중과 적용 전에 양도세 부담을 줄이려는 다주택자들의 대응으로 풀이된다. 시장에서는 단기간에 거래가 몰리며 일부 매물이 급매 형태로 소화된 점이 확인됐다. 다만 원문은 이후 거래 흐름이나 가격 전망에 대한 추가 수치를 제시하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Multiple-home owners rush property sales before capital gains tax surcharge returns",
+        "excerpt": "Multiple-home owners rushed last-minute property deals and land transaction permit requests through the final day of the capital gains tax surcharge grace period to reduce tax burdens.",
+        "body": "Property transactions by multiple-home owners were concentrated through the final day before the grace period for the capital gains tax surcharge ended. Sellers seeking to complete disposals within the grace period cut prices in hurried last-minute deals, while many civil requests related to land transaction permits continued even over the weekend. The activity reflected efforts by multiple-home owners to reduce capital gains tax burdens before the surcharge took effect. The market saw some listings absorbed as urgent sales within a short period. The original report did not provide additional figures on later transaction trends or price outlooks. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "多住宅保有者、譲渡税重課猶予終了前に駆け込み不動産取引",
+        "excerpt": "多住宅保有者は譲渡所得税重課の猶予最終日まで税負担を減らすため、急ぎの売買や土地取引許可関連の申請に動き、週末まで取引が続いた。",
+        "body": "多住宅保有者への譲渡所得税重課の猶予終了を前に、最終日まで税負担を避けようとする不動産取引が集中した。猶予期間内に処分を終えたい売主は、急いで価格を下げる駆け込み取引に出たほか、土地取引許可に関する民願も週末まで続いた。今回の動きは、重課適用前に譲渡税負担を減らそうとする多住宅保有者の対応とみられる。市場では短期間に取引が集まり、一部の物件が急売の形で消化されたことが確認された。ただし原文は、その後の取引動向や価格見通しに関する追加数値を示していない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "多套房持有者赶在转让税重课宽限结束前集中交易",
+        "excerpt": "多套房持有者为在转让所得税重课宽限期最后一天前降低税负，集中进行降价急售和土地交易许可相关申请，周末仍有交易需求。",
+        "body": "在多套房持有者转让所得税重课宽限期即将结束之际，试图避开税负的房地产交易一直集中到最后一天。希望在宽限期内完成处置的卖方匆忙下调价格，促成临近截止的交易；与土地交易许可相关的民원也延续到周末。此轮动向被视为多套房持有者在重课适用前降低转让税负担的应对。市场上可见短时间内交易集中，部分房源以急售形式被消化。不过，原文未提供此后交易走势或价格 전망的 추가数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Propietarios con varias viviendas apuran ventas antes del recargo al impuesto de plusvalías",
+        "excerpt": "Propietarios con varias viviendas concentraron ventas urgentes y trámites de permisos de transacción de tierras hasta el último día de la moratoria para reducir su carga fiscal.",
+        "body": "Las operaciones inmobiliarias de propietarios con varias viviendas se concentraron hasta el último día antes del fin de la moratoria del recargo al impuesto sobre ganancias de capital. Los vendedores que buscaban completar la venta dentro del periodo de gracia bajaron precios de forma apresurada para cerrar operaciones de última hora, mientras que las solicitudes relacionadas con permisos de transacción de tierras continuaron incluso durante el fin de semana. El movimiento refleja la respuesta de estos propietarios para reducir la carga del impuesto antes de que se aplicara el recargo. En el mercado, algunas propiedades se absorbieron como ventas urgentes en un corto plazo. El texto original no presentó cifras adicionales sobre la evolución posterior de las operaciones ni sobre perspectivas de precios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Donos de vários imóveis correm para vender antes do fim da suspensão da sobretaxa",
+        "excerpt": "Donos de vários imóveis concentraram vendas urgentes e pedidos de autorização de transação de terras até o último dia da suspensão para reduzir o imposto sobre ganhos de capital.",
+        "body": "As transações imobiliárias de proprietários de vários imóveis se concentraram até o último dia antes do fim do período de suspensão da sobretaxa do imposto sobre ganhos de capital. Vendedores que queriam concluir a alienação dentro do prazo reduziram preços às pressas para fechar negócios de última hora, enquanto pedidos ligados à autorização de transação de terras continuaram até o fim de semana. O movimento é visto como uma resposta desses proprietários para reduzir a carga tributária antes da aplicação da sobretaxa. No mercado, parte dos imóveis foi absorvida como venda urgente em curto período. O texto original não apresentou números adicionais sobre o fluxo posterior de transações nem sobre a perspectiva de preços. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mehrfachimmobilienbesitzer drängen vor Ende der Steueraufschubfrist zu Verkäufen",
+        "excerpt": "Mehrfachimmobilienbesitzer bündelten bis zum letzten Tag der Aufschubfrist eilige Verkäufe und Anträge zu Grundstückstransaktionsgenehmigungen, um Kapitalertragsteuerlasten zu senken.",
+        "body": "Vor dem Ende der Aufschubfrist für den Zuschlag auf die Kapitalertragsteuer bei Mehrfachimmobilienbesitzern konzentrierten sich Immobilientransaktionen bis zum letzten Tag. Verkäufer, die ihre Veräußerung noch innerhalb der Frist abschließen wollten, senkten kurzfristig Preise und schlossen Last-Minute-Geschäfte ab. Auch Anfragen zu Genehmigungen für Grundstückstransaktionen hielten bis zum Wochenende an. Die Entwicklung gilt als Reaktion von Mehrfachimmobilienbesitzern, die ihre Steuerlast vor Anwendung des Zuschlags verringern wollten. Am Markt wurden einige Objekte innerhalb kurzer Zeit als Notverkäufe aufgenommen. Der Originalbericht nannte keine zusätzlichen Zahlen zu späteren Transaktionsverläufen oder Preisaussichten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les multipropriétaires accélèrent les ventes avant la fin du sursis fiscal",
+        "excerpt": "Des multipropriétaires ont multiplié ventes urgentes et demandes de permis de transaction foncière jusqu’au dernier jour du sursis afin de réduire l’impôt sur les plus-values.",
+        "body": "À l’approche de la fin du sursis sur la surtaxe de l’impôt sur les plus-values immobilières visant les multipropriétaires, les transactions se sont concentrées jusqu’au dernier jour. Les vendeurs souhaitant finaliser une cession pendant la période de grâce ont abaissé les prix dans l’urgence pour conclure des opérations de dernière minute, tandis que les demandes liées aux permis de transaction foncière se sont poursuivies durant le week-end. Ce mouvement traduit la volonté des multipropriétaires de réduire leur charge fiscale avant l’application de la surtaxe. Le marché a vu certains biens absorbés sous forme de ventes urgentes sur une courte période. Le texte original ne fournit pas de chiffres supplémentaires sur l’évolution ultérieure des transactions ni sur les perspectives de prix. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مالكو عدة منازل يسارعون للبيع قبل انتهاء مهلة ضريبة أرباح رأس المال",
+        "excerpt": "سارع مالكو عدة منازل إلى إتمام صفقات عاجلة وتقديم طلبات تصاريح معاملات الأراضي حتى اليوم الأخير من مهلة ضريبة أرباح رأس المال لتقليل العبء الضريبي.",
+        "body": "تركزت معاملات عقارية لمالكي عدة منازل حتى اليوم الأخير قبل انتهاء مهلة تعليق الضريبة الإضافية على أرباح رأس المال. وخفّض بائعون أرادوا إتمام التصرف في العقارات داخل فترة المهلة الأسعار على عجل لإبرام صفقات في اللحظات الأخيرة، بينما استمرت طلبات مرتبطة بتصاريح معاملات الأراضي حتى عطلة نهاية الأسبوع. ويعكس هذا التحرك محاولة مالكي عدة منازل تقليل عبء ضريبة الأرباح قبل تطبيق الضريبة الإضافية. وشهد السوق استيعاب بعض المعروضات خلال فترة قصيرة في صورة مبيعات عاجلة. ولم يقدّم النص الأصلي أرقاما إضافية عن مسار المعاملات لاحقا أو توقعات الأسعار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कई घरों के मालिकों ने कैपिटल गेन टैक्स अधिभार से पहले तेज की बिक्री",
+        "excerpt": "कई घरों के मालिकों ने कर बोझ घटाने के लिए कैपिटल गेन टैक्स अधिभार की छूट अवधि के अंतिम दिन तक तात्कालिक सौदे और भूमि लेनदेन अनुमति से जुड़े आवेदन किए।",
+        "body": "कई घरों के मालिकों पर कैपिटल गेन टैक्स अधिभार की छूट अवधि समाप्त होने से पहले अंतिम दिन तक रियल एस्टेट लेनदेन केंद्रित रहे। छूट अवधि के भीतर संपत्ति निपटान पूरा करना चाहने वाले विक्रेताओं ने जल्दबाजी में कीमतें घटाईं और आखिरी समय के सौदे किए। भूमि लेनदेन अनुमति से जुड़ी नागरिक अर्जियां भी सप्ताहांत तक जारी रहीं। यह गतिविधि अधिभार लागू होने से पहले कर बोझ कम करने की कई घरों के मालिकों की प्रतिक्रिया के रूप में देखी गई। बाजार में कुछ संपत्तियां कम समय में तात्कालिक बिक्री के रूप में बिक गईं। मूल रिपोर्ट ने बाद के लेनदेन रुझान या कीमत 전망 पर अतिरिक्त आंकड़े नहीं दिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemilik banyak rumah buru-buru jual properti jelang akhir penangguhan pajak",
+        "excerpt": "Pemilik banyak rumah memadati transaksi mendesak dan permohonan izin transaksi tanah hingga hari terakhir masa penangguhan pajak keuntungan modal untuk menekan beban pajak.",
+        "body": "Menjelang berakhirnya masa penangguhan pengenaan tambahan pajak keuntungan modal bagi pemilik banyak rumah, transaksi properti terkonsentrasi hingga hari terakhir. Penjual yang ingin menyelesaikan pelepasan aset dalam masa penangguhan menurunkan harga secara terburu-buru untuk menutup transaksi di saat terakhir, sementara permohonan terkait izin transaksi tanah berlanjut hingga akhir pekan. Pergerakan ini mencerminkan upaya pemilik banyak rumah mengurangi beban pajak sebelum tambahan pajak berlaku. Di pasar, sebagian listing terserap sebagai penjualan mendesak dalam waktu singkat. Laporan asli tidak memberikan angka tambahan mengenai arus transaksi berikutnya atau prospek harga. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b4675a937c5e",
+    "slug": "대구서-세-자릿수-청약경쟁률-지방도-바닥쳤나-951463",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T10:15:44.287Z",
+    "updatedAt": "2026-05-10T10:15:44.287Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042688",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042688",
+    "titleFingerprint": "fb37255a0e804ff9d8b0131e449c091f8da19ca4",
+    "dedupKeys": [
+      "b4675a937c5e5fa90d0bd7ebf969e05bc6a52b6c",
+      "fb37255a0e804ff9d8b0131e449c091f8da19ca4",
+      "9ee5559c6d282babd87697763c8699bbbf32606f"
+    ],
+    "imageUrl": "/images/articles/b4675a937c5e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대구 세 자릿수 청약경쟁률에 지방 분양시장 회복 신호 주목",
+        "excerpt": "올해 지방 분양시장에서 대구를 비롯한 전주·창원·천안 핵심 입지 단지들이 두 자릿수 이상 청약경쟁률을 기록하며 침체 완화 가능성이 주목된다.",
+        "body": "올해 지방 분양시장에서 대구를 중심으로 세 자릿수 청약경쟁률이 나오며 시장 분위기 변화 여부가 관심을 받고 있다. 그동안 지방은 ‘미분양 무덤’으로 불릴 만큼 분양 부진이 두드러졌지만, 최근에는 두 자릿수 경쟁률을 기록한 단지들이 잇달아 등장했다. 다만 경쟁률 미달 사례도 여전히 남아 있어 전반적인 회복으로 단정하기는 어렵다. 대구와 전주, 창원, 천안 등 핵심 입지에 공급된 단지들이 상대적으로 높은 관심을 받으면서 지방 분양시장이 바닥을 지났는지에 대한 관측이 제기된다. 향후 흐름은 입지와 단지별 수요 차이에 따라 갈릴 가능성이 크다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Daegu’s Triple-Digit Subscription Ratio Highlights Signs in Regional Housing Sales",
+        "excerpt": "This year, regional apartment sales in South Korea are drawing attention as key projects in Daegu, Jeonju, Changwon and Cheonan post double-digit or higher subscription ratios.",
+        "body": "South Korea’s regional apartment sales market is drawing renewed attention this year after Daegu recorded a triple-digit subscription ratio, raising questions about whether sentiment is shifting. Regional markets had been described as a “graveyard of unsold homes” because of prolonged weakness, but a series of complexes have recently posted double-digit competition ratios. Still, undersubscribed cases remain, making it difficult to conclude that the market has broadly recovered. Projects in core locations such as Daegu, Jeonju, Changwon and Cheonan are receiving comparatively strong interest. This is prompting discussion over whether the regional sales market has passed its bottom, though future trends are likely to differ by location and project demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "大邱で3桁の申込倍率、地方分譲市場に底打ちの兆し注目",
+        "excerpt": "今年、韓国の地方分譲市場では大邱や全州、昌原、天安の主要立地物件で2桁以上の申込倍率が相次ぎ、低迷緩和の可能性が注目されている。",
+        "body": "韓国の地方分譲市場で今年、大邱を中心に3桁の申込倍率が出ており、市場の雰囲気が変わりつつあるのか関心が集まっている。これまで地方は「未分譲の墓場」と呼ばれるほど販売不振が目立っていたが、最近は2桁の競争率を記録する団地が相次いで登場している。ただし、募集戸数に届かない事例も依然として残っており、全面的な回復と判断するのは難しい。大邱、全州、昌原、天安など主要立地に供給された団地が相対的に高い関心を集め、地方分譲市場が底を打ったのかという見方が出ている。今後の流れは立地と団地別需要の違いによって分かれる可能性が高い。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "大邱认购竞争率达三位数，韩国地方楼市是否触底受关注",
+        "excerpt": "今年韩国地方新房市场中，大邱以及全州、昌原、天安核心地段项目相继录得两位数以上认购竞争率，市场低迷是否缓解受到关注。",
+        "body": "今年韩国地方新房销售市场中，以大邱为中心出现三位数认购竞争率，市场氛围是否发生变化受到关注。此前，地方市场因未售出住房问题突出，被称为“未售房坟场”，但近期录得两位数竞争率的住宅项目接连出现。不过，认购未达标的案例仍然存在，因此尚难断定市场已全面复苏。大邱、全州、昌原、天安等核心地段供应的项目相对受到较高关注，也引发了地方新房市场是否已经触底的讨论。未来走势可能取决于地段和各项目需求差异。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Daegu alcanza una demanda de tres dígitos y reabre el debate sobre la vivienda regional",
+        "excerpt": "Este año, promociones en ubicaciones clave de Daegu, Jeonju, Changwon y Cheonan registran ratios de suscripción de dos dígitos o más, reavivando el interés por el mercado regional.",
+        "body": "El mercado regional de nuevas viviendas en Corea del Sur vuelve a captar atención este año después de que Daegu registrara una ratio de suscripción de tres dígitos, lo que plantea si el ánimo del mercado está cambiando. Las regiones habían sido descritas como un “cementerio de viviendas sin vender” por la debilidad de las ventas, pero recientemente han aparecido varios complejos con ratios de competencia de dos dígitos. Aun así, siguen existiendo casos por debajo de la demanda prevista, por lo que no puede afirmarse una recuperación general. Los proyectos en ubicaciones clave de Daegu, Jeonju, Changwon y Cheonan reciben un interés relativamente alto. Esto alimenta la discusión sobre si el mercado regional ha tocado fondo, aunque la evolución dependerá de la ubicación y la demanda de cada complejo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Daegu tem disputa de três dígitos e reacende atenção ao mercado regional",
+        "excerpt": "Neste ano, empreendimentos em áreas centrais de Daegu, Jeonju, Changwon e Cheonan registram taxas de concorrência de dois dígitos ou mais, chamando atenção para o mercado regional.",
+        "body": "O mercado regional de novos apartamentos na Coreia do Sul voltou a chamar atenção neste ano depois que Daegu registrou uma taxa de concorrência de três dígitos, levantando dúvidas sobre uma possível mudança de sentimento. As regiões vinham sendo chamadas de “cemitério de imóveis não vendidos” devido à fraqueza nas vendas, mas recentemente vários complexos passaram a registrar concorrência de dois dígitos. Ainda assim, casos de demanda insuficiente continuam existindo, o que impede concluir uma recuperação ampla. Empreendimentos em locais centrais de Daegu, Jeonju, Changwon e Cheonan recebem interesse relativamente alto. Isso gera discussão sobre se o mercado regional já tocou o fundo, embora o rumo dependa da localização e da demanda por complexo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Daegu meldet dreistellige Nachfrage: Regionaler Wohnungsmarkt im Fokus",
+        "excerpt": "In diesem Jahr erzielen Projekte in wichtigen Lagen von Daegu, Jeonju, Changwon und Cheonan zweistellige oder höhere Zeichnungsquoten und lenken den Blick auf Koreas regionale Wohnungsmärkte.",
+        "body": "Der regionale Markt für neue Wohnungen in Südkorea rückt in diesem Jahr wieder in den Fokus, nachdem Daegu eine dreistellige Zeichnungsquote verzeichnete und damit Fragen nach einer veränderten Marktstimmung aufwarf. Regionen galten wegen der vielen unverkauften Wohnungen lange als „Friedhof unverkaufter Bestände“, doch zuletzt erreichten mehrere Wohnanlagen zweistellige Wettbewerbsquoten. Dennoch gibt es weiterhin Fälle mit unzureichender Nachfrage, weshalb eine breite Erholung nicht sicher festgestellt werden kann. Projekte in Kernlagen von Daegu, Jeonju, Changwon und Cheonan erhalten vergleichsweise großes Interesse. Dadurch wächst die Debatte, ob der regionale Wohnungsmarkt seinen Tiefpunkt überschritten hat. Die weitere Entwicklung dürfte von Lage und projektspezifischer Nachfrage abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Daegu affiche une demande à trois chiffres, signal surveillé pour l’immobilier régional",
+        "excerpt": "Cette année, des programmes situés à Daegu, Jeonju, Changwon et Cheonan enregistrent des taux de souscription à deux chiffres ou plus, attirant l’attention sur le marché régional coréen.",
+        "body": "Le marché régional des logements neufs en Corée du Sud attire de nouveau l’attention cette année après un taux de souscription à trois chiffres à Daegu, ce qui interroge sur un possible changement de climat. Les régions étaient qualifiées de “cimetière des invendus” en raison de la faiblesse des ventes, mais plusieurs ensembles résidentiels ont récemment enregistré des taux de concurrence à deux chiffres. Toutefois, des cas de sous-souscription subsistent, ce qui empêche de conclure à une reprise générale. Les programmes situés dans des emplacements clés à Daegu, Jeonju, Changwon et Cheonan suscitent un intérêt relativement élevé. Cette situation nourrit le débat sur un possible point bas du marché régional, même si la suite dépendra de l’emplacement et de la demande propre à chaque projet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دايغو تسجل منافسة اكتتاب بثلاث خانات وتعيد الاهتمام بسوق الإسكان الإقليمي",
+        "excerpt": "هذا العام، تسجل مشاريع في مواقع رئيسية بدايغو وجيونجو وتشانغوون وتشونان نسب اكتتاب من خانتين أو أكثر، ما يلفت الانتباه إلى سوق البيع السكني خارج العاصمة.",
+        "body": "عاد سوق بيع الشقق الجديدة في المناطق الكورية إلى دائرة الاهتمام هذا العام بعدما سجلت دايغو نسبة منافسة في الاكتتاب من ثلاث خانات، ما أثار تساؤلات حول تغير محتمل في أجواء السوق. وكانت الأسواق الإقليمية توصف بأنها “مقبرة الوحدات غير المباعة” بسبب ضعف المبيعات، لكن عددا من المجمعات سجل مؤخرا نسب منافسة من خانتين. مع ذلك، ما زالت هناك حالات لم تصل إلى مستوى الطلب المطلوب، لذلك يصعب الجزم بحدوث تعاف شامل. وتحظى المشاريع المطروحة في مواقع رئيسية مثل دايغو وجيونجو وتشانغوون وتشونان باهتمام أعلى نسبيا. وهذا يفتح نقاشا حول ما إذا كان السوق الإقليمي قد بلغ القاع، فيما سيعتمد الاتجاه المقبل على الموقع والطلب الخاص بكل مشروع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "डेगू में तीन अंकों की आवेदन प्रतिस्पर्धा, क्षेत्रीय आवास बाजार पर नजर",
+        "excerpt": "इस वर्ष डेगू, जोंजू, चांगवोन और चोनान के प्रमुख स्थानों पर परियोजनाओं ने दो अंकों या उससे अधिक आवेदन प्रतिस्पर्धा दर्ज की, जिससे क्षेत्रीय बाजार पर ध्यान बढ़ा है।",
+        "body": "दक्षिण कोरिया के क्षेत्रीय नए आवास बिक्री बाजार में इस वर्ष डेगू में तीन अंकों की आवेदन प्रतिस्पर्धा दर्ज होने के बाद बाजार की दिशा पर ध्यान बढ़ा है। क्षेत्रीय बाजारों को लंबे समय तक बिना बिके घरों के कारण “अनबिके मकानों की कब्रगाह” कहा जाता था, लेकिन हाल में कई परिसरों ने दो अंकों की प्रतिस्पर्धा दर दर्ज की है। फिर भी, ऐसे मामले अभी भी हैं जहां आवेदन अपेक्षित स्तर से कम रहे, इसलिए व्यापक सुधार का निष्कर्ष निकालना कठिन है। डेगू, जोंजू, चांगवोन और चोनान जैसे प्रमुख स्थानों पर आपूर्ति की गई परियोजनाओं को अपेक्षाकृत अधिक रुचि मिली है। इससे यह चर्चा उठी है कि क्या क्षेत्रीय बिक्री बाजार ने निचला स्तर पार कर लिया है। आगे की दिशा स्थान और प्रत्येक परियोजना की मांग पर निर्भर हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Daegu Catat Rasio Langganan Tiga Digit, Pasar Hunian Daerah Jadi Sorotan",
+        "excerpt": "Tahun ini, proyek di lokasi utama Daegu, Jeonju, Changwon, dan Cheonan mencatat rasio persaingan dua digit atau lebih, memicu perhatian pada pasar hunian daerah Korea.",
+        "body": "Pasar penjualan apartemen baru di daerah Korea Selatan kembali menjadi perhatian tahun ini setelah Daegu mencatat rasio persaingan langganan tiga digit, memunculkan pertanyaan apakah sentimen pasar mulai berubah. Selama ini pasar daerah disebut sebagai “kuburan unit tak terjual” karena lemahnya penjualan, namun belakangan sejumlah kompleks mencatat rasio persaingan dua digit. Meski begitu, kasus yang masih berada di bawah tingkat permintaan tetap ada, sehingga pemulihan menyeluruh belum dapat disimpulkan. Proyek di lokasi utama seperti Daegu, Jeonju, Changwon, dan Cheonan mendapat minat relatif tinggi. Kondisi ini memicu pembahasan apakah pasar penjualan daerah telah melewati titik terendah, sementara arah berikutnya kemungkinan bergantung pada lokasi dan permintaan tiap kompleks. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1e8acd12e673",
+    "slug": "집-살때-코인-팔아-보탠-30대-164802",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T10:14:36.511Z",
+    "updatedAt": "2026-05-10T10:14:36.511Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042687",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042687",
+    "titleFingerprint": "9ddd492f8ac72c82951ae72f55be679948a9116b",
+    "dedupKeys": [
+      "1e8acd12e67388c7bdd95858a4559e93d423d096",
+      "9ddd492f8ac72c82951ae72f55be679948a9116b",
+      "e9648b33853459f2767942d9d291d7335e21a3d1"
+    ],
+    "imageUrl": "/images/articles/1e8acd12e673.jpg",
+    "i18n": {
+      "ko": {
+        "title": "주택 매수자 중 가상화폐 매각대금 활용 30대가 최다로 나타나",
+        "excerpt": "10일 국회 국토교통위원회 소속 김종양 국민의힘 의원실이 입수한 국토교통부 자료에 따르면 최근 50여 일간 주택 매수자 중 가상화폐 매각대금을 가장 많이 활용한 연령대는 30대였다.",
+        "body": "최근 50여 일간 주택을 매수한 사람 가운데 가상화폐를 팔아 마련한 자금을 가장 많이 활용한 연령대는 30대로 나타났다. 10일 국회 국토교통위원회 소속 김종양 국민의힘 의원실이 입수한 국토교통부 자료에 따른 내용이다. 해당 자료는 주택 매수 과정에서 가상화폐 매각대금이 활용된 사례를 연령대별로 살핀 것으로, 30대가 가장 두드러진 것으로 전해졌다. 이는 주택 구입 자금 마련 과정에서 가상자산 처분이 일부 매수자에게 실제 자금원으로 쓰이고 있음을 보여준다. 다만 원문에 공개된 정보는 최근 50여 일간의 집계와 30대 비중이 가장 컸다는 점에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Homebuyers Using Crypto Sale Proceeds Were Most Often in Their 30s",
+        "excerpt": "According to data obtained on May 10 by Rep. Kim Jong-yang’s office from the Ministry of Land, Infrastructure and Transport, buyers in their 30s most often used crypto sale proceeds to help fund home purchases over the past 50 days or so.",
+        "body": "Among people who bought homes over the past roughly 50 days, those in their 30s were the age group that most frequently used proceeds from selling cryptocurrency to support the purchase. The information comes from Ministry of Land, Infrastructure and Transport data obtained on May 10 by the office of Rep. Kim Jong-yang of the People Power Party, a member of the National Assembly’s Land, Infrastructure and Transport Committee. The data examined cases in which crypto sale proceeds were used in home purchases by age group, with buyers in their 30s standing out the most. The report indicates that disposing of virtual assets has served as an actual funding source for some homebuyers. The available source information is limited to the recent 50-day period and the finding that the 30s age group accounted for the largest use. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "住宅購入で暗号資産売却代金を最も活用したのは30代",
+        "excerpt": "5月10日、国会国土交通委員会所属の金鍾陽・国民の力議員室が国土交通部資料を入手した結果、直近約50日間の住宅購入者のうち暗号資産売却代金を最も多く活用した年齢層は30代だった。",
+        "body": "直近約50日間に住宅を購入した人のうち、暗号資産を売却して得た資金を最も多く活用した年齢層は30代だった。5月10日、国会国土交通委員会所属の金鍾陽・国民の力議員室が入手した国土交通部資料による内容だ。この資料は、住宅購入の過程で暗号資産売却代金が使われた事例を年齢層別に見たもので、30代が最も目立ったとされる。住宅購入資金を準備する過程で、仮想資産の処分が一部購入者にとって実際の資金源になっていることを示している。ただし、原文で確認できる情報は直近約50日間の集計と、30代の活用が最も多かったという点に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "购房者中动用加密货币出售款最多的是30多岁群体",
+        "excerpt": "据5月10日韩国国会国土交通委员会所属国民力量议员金钟阳办公室取得的国土交通部资料，近50多天购房者中，最常使用加密货币出售款作为购房资金的是30多岁人群。",
+        "body": "在最近50多天内购房的人群中，出售加密货币后将所得资金用于购房的年龄层以30多岁最多。该内容来自韩国国会国土交通委员会所属国民力量议员金钟阳办公室于5月10日取得的国土交通部资料。相关资料按年龄层查看了购房过程中使用加密货币出售款的案例，其中30多岁群体最为突出。这显示，在筹措购房资金的过程中，处置虚拟资产已成为部分买家的实际资金来源。不过，原文公开的信息仅限于最近50多天的统计，以及30多岁群体使用最多这一点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Compradores de vivienda que usaron ventas de criptomonedas: lideran los treintañeros",
+        "excerpt": "Según datos del Ministerio de Tierra, Infraestructura y Transporte obtenidos el 10 de mayo por la oficina del diputado Kim Jong-yang, los compradores de vivienda en la treintena fueron quienes más usaron fondos procedentes de ventas de criptomonedas en los últimos 50 días aproximadamente.",
+        "body": "Entre las personas que compraron vivienda durante los últimos 50 días aproximadamente, el grupo de edad que más utilizó fondos procedentes de la venta de criptomonedas fue el de los treintañeros. La información procede de datos del Ministerio de Tierra, Infraestructura y Transporte obtenidos el 10 de mayo por la oficina del diputado Kim Jong-yang, del Partido del Poder Popular, miembro del Comité de Tierra, Infraestructura y Transporte de la Asamblea Nacional. Los datos revisaron por edades los casos en que se usaron ingresos de ventas de criptoactivos en compras de vivienda, y el grupo de 30 a 39 años destacó como el principal. El dato muestra que la venta de activos virtuales ha servido como fuente real de financiación para algunos compradores. La información disponible se limita al periodo reciente de unos 50 días y a que los treintañeros fueron el grupo con mayor uso. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Compra de imóveis com dinheiro de criptomoedas foi maior entre pessoas na faixa dos 30",
+        "excerpt": "Segundo dados do Ministério da Terra, Infraestrutura e Transportes obtidos em 10 de maio pelo gabinete do deputado Kim Jong-yang, compradores na faixa dos 30 anos foram os que mais usaram recursos de venda de criptomoedas nos últimos cerca de 50 dias.",
+        "body": "Entre as pessoas que compraram imóveis nos últimos cerca de 50 dias, a faixa etária que mais usou dinheiro obtido com a venda de criptomoedas foi a dos 30 anos. A informação consta de dados do Ministério da Terra, Infraestrutura e Transportes obtidos em 10 de maio pelo gabinete do deputado Kim Jong-yang, do Partido do Poder Popular, integrante do Comitê de Terra, Infraestrutura e Transportes da Assembleia Nacional. O material analisou, por idade, casos em que recursos de venda de criptoativos foram usados na compra de imóveis, com destaque para os compradores na faixa dos 30. O dado mostra que a liquidação de ativos virtuais tem sido uma fonte real de financiamento para alguns compradores. As informações disponíveis se limitam ao período recente de cerca de 50 dias e ao fato de essa faixa etária ter liderado o uso. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hauskäufer nutzten Krypto-Verkaufserlöse am häufigsten in den Dreißigern",
+        "excerpt": "Nach Daten des Ministeriums für Land, Infrastruktur und Verkehr, die das Büro des Abgeordneten Kim Jong-yang am 10. Mai erhielt, nutzten Käufer in ihren Dreißigern in den vergangenen rund 50 Tagen am häufigsten Erlöse aus Kryptowährungsverkäufen für den Hauskauf.",
+        "body": "Unter den Menschen, die in den vergangenen rund 50 Tagen ein Haus kauften, waren Käufer in ihren Dreißigern die Altersgruppe, die Erlöse aus dem Verkauf von Kryptowährungen am häufigsten zur Finanzierung einsetzte. Grundlage sind Daten des Ministeriums für Land, Infrastruktur und Verkehr, die das Büro des Abgeordneten Kim Jong-yang von der People Power Party, Mitglied im zuständigen Ausschuss der Nationalversammlung, am 10. Mai erhielt. Die Daten betrachteten nach Altersgruppen Fälle, in denen Verkaufserlöse aus Kryptoanlagen beim Hauskauf genutzt wurden; dabei traten die Dreißiger am deutlichsten hervor. Dies zeigt, dass die Veräußerung virtueller Vermögenswerte für einige Käufer tatsächlich als Finanzierungsquelle diente. Die verfügbaren Angaben beschränken sich auf den jüngsten Zeitraum von etwa 50 Tagen und darauf, dass die Altersgruppe der Dreißiger den höchsten Anteil stellte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Achat immobilier avec des ventes de cryptomonnaies: les trentenaires en tête",
+        "excerpt": "Selon des données du ministère du Territoire, des Infrastructures et des Transports obtenues le 10 mai par le bureau du député Kim Jong-yang, les acheteurs trentenaires ont le plus utilisé le produit de ventes de cryptomonnaies pour acheter un logement ces quelque 50 derniers jours.",
+        "body": "Parmi les personnes ayant acheté un logement au cours des quelque 50 derniers jours, les trentenaires sont le groupe d’âge qui a le plus utilisé le produit de la vente de cryptomonnaies pour financer l’achat. L’information provient de données du ministère du Territoire, des Infrastructures et des Transports obtenues le 10 mai par le bureau du député Kim Jong-yang, du Parti du pouvoir au peuple, membre de la commission compétente de l’Assemblée nationale. Ces données ont examiné, par tranche d’âge, les cas où des revenus issus de la vente de cryptoactifs ont été utilisés lors d’un achat immobilier, avec une présence particulièrement marquée des trentenaires. Cela montre que la cession d’actifs virtuels a constitué une source réelle de financement pour certains acheteurs. Les informations disponibles se limitent à la période récente d’environ 50 jours et au constat que les trentenaires ont été les plus nombreux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مشترو المنازل الذين استخدموا عائدات بيع العملات المشفرة: الثلاثينيون في الصدارة",
+        "excerpt": "وفق بيانات وزارة الأراضي والبنية التحتية والنقل التي حصل عليها مكتب النائب كيم جونغ يانغ في 10 مايو، كان المشترون في الثلاثينيات الأكثر استخداما لعائدات بيع العملات المشفرة لتمويل شراء المنازل خلال نحو 50 يوما أخيرا.",
+        "body": "بين الأشخاص الذين اشتروا منازل خلال نحو 50 يوما أخيرا، كانت الفئة العمرية في الثلاثينيات هي الأكثر استخداما للأموال الناتجة عن بيع العملات المشفرة للمساعدة في الشراء. وتستند هذه المعلومة إلى بيانات وزارة الأراضي والبنية التحتية والنقل التي حصل عليها في 10 مايو مكتب النائب كيم جونغ يانغ من حزب قوة الشعب، وهو عضو في لجنة الأراضي والبنية التحتية والنقل في الجمعية الوطنية. وتناولت البيانات، بحسب الفئة العمرية، الحالات التي استُخدمت فيها عائدات بيع الأصول المشفرة في شراء المنازل، وبرزت فئة الثلاثينيات أكثر من غيرها. ويشير ذلك إلى أن التصرف في الأصول الافتراضية أصبح مصدرا فعليا للتمويل لدى بعض المشترين. وتقتصر المعلومات المنشورة في الأصل على فترة تقارب 50 يوما وعلى أن فئة الثلاثينيات سجلت الاستخدام الأكبر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "घर खरीद में क्रिप्टो बिक्री की रकम का सबसे अधिक इस्तेमाल 30 की उम्र वालों ने किया",
+        "excerpt": "10 मई को सांसद किम जोंग-यांग के कार्यालय द्वारा प्राप्त भूमि, अवसंरचना और परिवहन मंत्रालय के आंकड़ों के अनुसार, पिछले करीब 50 दिनों में घर खरीदने वालों में क्रिप्टोकरेंसी बेचकर मिली रकम का सबसे अधिक उपयोग 30 की उम्र वाले खरीदारों ने किया।",
+        "body": "पिछले करीब 50 दिनों में घर खरीदने वाले लोगों में, क्रिप्टोकरेंसी बेचकर मिली रकम का उपयोग सबसे अधिक 30 की उम्र वाले खरीदारों ने किया। यह जानकारी भूमि, अवसंरचना और परिवहन मंत्रालय के उन आंकड़ों पर आधारित है जिन्हें नेशनल असेंबली की भूमि, अवसंरचना और परिवहन समिति के सदस्य तथा पीपल पावर पार्टी के सांसद किम जोंग-यांग के कार्यालय ने 10 मई को प्राप्त किया। इन आंकड़ों में उम्र समूहों के आधार पर वे मामले देखे गए जिनमें घर खरीदते समय क्रिप्टो परिसंपत्तियों की बिक्री से मिली राशि का इस्तेमाल किया गया, और 30 की उम्र वाला समूह सबसे प्रमुख रहा। यह दिखाता है कि कुछ खरीदारों के लिए वर्चुअल परिसंपत्तियों की बिक्री वास्तविक धन स्रोत के रूप में इस्तेमाल हुई। उपलब्ध मूल जानकारी हाल के करीब 50 दिनों की गणना और 30 की उम्र वाले समूह के सबसे आगे रहने तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pembeli Rumah yang Pakai Dana Penjualan Kripto Terbanyak Berusia 30-an",
+        "excerpt": "Menurut data Kementerian Pertanahan, Infrastruktur, dan Transportasi yang diperoleh kantor anggota parlemen Kim Jong-yang pada 10 Mei, pembeli rumah usia 30-an paling banyak memakai dana hasil penjualan kripto dalam sekitar 50 hari terakhir.",
+        "body": "Di antara orang yang membeli rumah dalam sekitar 50 hari terakhir, kelompok usia 30-an menjadi yang paling banyak menggunakan dana hasil penjualan mata uang kripto untuk membantu pembelian. Informasi ini berasal dari data Kementerian Pertanahan, Infrastruktur, dan Transportasi yang diperoleh pada 10 Mei oleh kantor anggota parlemen Kim Jong-yang dari Partai Kekuatan Rakyat, anggota Komite Pertanahan, Infrastruktur, dan Transportasi Majelis Nasional. Data tersebut melihat kasus penggunaan dana hasil penjualan aset kripto dalam pembelian rumah berdasarkan kelompok usia, dan kelompok 30-an paling menonjol. Temuan ini menunjukkan bahwa pelepasan aset virtual telah menjadi sumber dana nyata bagi sebagian pembeli rumah. Informasi yang tersedia terbatas pada periode sekitar 50 hari terakhir dan fakta bahwa kelompok usia 30-an mencatat penggunaan terbesar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "dac62a4f111c",
     "slug": "반포후광-아니어도-좋은-동네-흑석동-646147",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Tesla Pertama Kali Pimpin Penjualan EV Penumpang di Korea, Salip Kia",
         "excerpt": "Tesla menjadi merek mobil listrik penumpang terlaris di Korea Selatan bulan lalu, untuk pertama kalinya mengungguli Kia, menurut laporan Yonhap.",
         "body": "Merek mobil listrik asal Amerika Serikat, Tesla, menempati posisi pertama dalam penjualan kendaraan listrik penumpang di Korea Selatan bulan lalu, untuk pertama kalinya melampaui Kia. Menurut kantor berita Yonhap, Tesla menjadi merek terlaris di segmen mobil listrik penumpang domestik selama periode tersebut. Hasil ini menarik perhatian karena menunjukkan perubahan dalam peringkat penjualan berdasarkan merek di pasar EV Korea. Ringkasan sumber tidak memuat angka penjualan rinci atau kinerja per model, tetapi keberhasilan Tesla melewati Kia menjadi perubahan penting dalam persaingan kendaraan listrik penumpang. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8210191de7b2",
-    "slug": "5대-은행장-금융-역할-재정립-공감건전성-챙겨야-지속-가능-524375",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T21:00:04.598Z",
-    "updatedAt": "2026-05-09T21:00:04.598Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509037800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509037800002",
-    "titleFingerprint": "d00b72bd9ebc76a5bac32003670fc786b39cbacc",
-    "dedupKeys": [
-      "8210191de7b2f4aa6e9637bea6f0baccd6d5e497",
-      "d00b72bd9ebc76a5bac32003670fc786b39cbacc",
-      "f6d63908fcbb4b6b8c5d90bb09a8118a2933f7b9"
-    ],
-    "imageUrl": "/images/articles/8210191de7b2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "5대 은행장, 금융 역할 재정립 공감…건전성 관리가 지속 가능성 핵심",
-        "excerpt": "주요 시중은행장들은 10일 이재명 정부가 추진하는 금융 구조 재정립 방침에 공감하며, 지속 가능한 금융을 위해 건전성 관리가 함께 필요하다고 밝혔다.",
-        "body": "주요 시중은행장들은 10일 이재명 정부가 금융의 구조를 다시 세우겠다고 밝힌 방침에 공감을 표시했다. 5대 은행장이 금융의 역할 재정립 필요성에 뜻을 같이한 가운데, 금융권의 지속 가능성을 위해서는 건전성 관리도 함께 챙겨야 한다는 점이 강조됐다. 이번 발언은 새 정부의 금융 정책 방향에 주요 은행권이 어떤 입장을 보이는지 가늠할 수 있는 대목이다. 은행권은 금융의 공적 역할과 안정적 경영 사이의 균형을 요구받게 될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Five Major Bank Chiefs Back Redefining Finance, Stress Soundness for Sustainability",
-        "excerpt": "On the 10th, chiefs of major commercial banks expressed support for the Lee Jae-myung administration’s plan to reshape finance, while stressing soundness management.",
-        "body": "Chiefs of major commercial banks said on the 10th that they agreed with the Lee Jae-myung administration’s policy direction to rebuild the structure of finance. As the heads of five major banks shared the need to redefine finance’s role, they also emphasized that soundness management must be maintained for the sector to remain sustainable. The remarks show how leading banks are responding to the new government’s financial policy direction. The banking sector is expected to face calls to balance finance’s public role with stable management. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "5大銀行トップ、金融の役割再定義に共感…健全性管理も持続可能性の鍵",
-        "excerpt": "主要市中銀行の頭取らは10日、李在明政権が進める金融構造の再構築方針に共感を示し、健全性管理の必要性も強調した。",
-        "body": "主要市中銀行の頭取らは10日、李在明政権が金融の構造を改めて築くとする方針に共感を示した。5大銀行のトップが金融の役割を再定義する必要性で一致する一方、金融業界の持続可能性には健全性管理も欠かせないとの点が強調された。今回の発言は、新政権の金融政策の方向に対し主要銀行がどのような立場を示しているかをうかがわせる。銀行業界は今後、金融の公的役割と安定した経営の均衡を求められる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "五大银行行长认同重塑金融角色：稳健性管理关乎可持续发展",
-        "excerpt": "主要商业银行行长10日对李在明政府重新构建金融结构的方针表示认同，同时强调可持续金融需要兼顾稳健性管理。",
-        "body": "主要商业银行行长10日对李在明政府提出重新构建金融结构的方针表示认同。五大银行行长一致认为有必要重新界定金融的作用，同时强调金融业若要实现可持续发展，也必须重视稳健性管理。上述表态显示，主要银行对新政府金融政策方向的回应正在显现。银行业今后预计将被要求在金融的公共作用与稳定经营之间取得平衡。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Cinco grandes bancos apoyan redefinir el papel financiero y cuidar la solvencia",
-        "excerpt": "El día 10, presidentes de grandes bancos comerciales respaldaron la intención del Gobierno de Lee Jae-myung de reestructurar las finanzas y subrayaron la solidez.",
-        "body": "Los presidentes de importantes bancos comerciales expresaron el día 10 su apoyo a la orientación del Gobierno de Lee Jae-myung de reconstruir la estructura de las finanzas. Mientras los cinco grandes bancos coincidieron en la necesidad de redefinir el papel financiero, también destacaron que la gestión de la solidez debe acompañar ese proceso para que el sector sea sostenible. Las declaraciones permiten observar la postura de la banca principal ante la nueva dirección de política financiera. Se prevé que el sector deba equilibrar el papel público de las finanzas con una gestión estable. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cinco grandes bancos apoiam redefinir papel financeiro e reforçam solidez",
-        "excerpt": "No dia 10, presidentes de grandes bancos comerciais apoiaram a diretriz do governo Lee Jae-myung para reorganizar as finanças e defenderam gestão prudente.",
-        "body": "Presidentes de importantes bancos comerciais disseram no dia 10 que concordam com a diretriz do governo Lee Jae-myung de reconstruir a estrutura das finanças. Ao mesmo tempo em que os cinco grandes bancos reconheceram a necessidade de redefinir o papel financeiro, eles enfatizaram que a gestão da solidez também deve ser preservada para garantir sustentabilidade. As declarações indicam como os principais bancos veem a nova orientação da política financeira. O setor bancário deverá buscar equilíbrio entre o papel público das finanças e uma gestão estável. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Chefs der fünf Großbanken unterstützen neue Finanzrolle und mahnen Solidität an",
-        "excerpt": "Am 10. unterstützten Spitzen großer Geschäftsbanken die Linie der Lee-Jae-myung-Regierung zur Neuordnung des Finanzwesens und betonten Solidität.",
-        "body": "Die Spitzen wichtiger Geschäftsbanken erklärten am 10., sie stimmten der Linie der Regierung Lee Jae-myung zu, die Struktur des Finanzwesens neu aufzubauen. Während die Chefs der fünf Großbanken die Notwendigkeit einer Neudefinition der Rolle der Finanzbranche teilten, betonten sie zugleich, dass Soliditätsmanagement für nachhaltige Finanzaktivitäten mitbedacht werden müsse. Die Äußerungen zeigen, wie führende Banken auf die finanzpolitische Richtung der neuen Regierung reagieren. Die Branche dürfte künftig einen Ausgleich zwischen öffentlicher Finanzfunktion und stabiler Geschäftsführung suchen müssen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les cinq grandes banques soutiennent une redéfinition de la finance et la solidité",
-        "excerpt": "Le 10, les dirigeants de grandes banques commerciales ont soutenu la volonté du gouvernement Lee Jae-myung de restructurer la finance et insisté sur la solidité.",
-        "body": "Les dirigeants de grandes banques commerciales ont exprimé le 10 leur accord avec l’orientation du gouvernement Lee Jae-myung visant à rebâtir la structure de la finance. Alors que les patrons des cinq grandes banques partagent la nécessité de redéfinir le rôle financier, ils ont aussi souligné que la gestion de la solidité devait être préservée pour garantir la durabilité du secteur. Ces propos donnent une indication sur la position des principales banques face à la nouvelle politique financière. Le secteur bancaire devrait être appelé à équilibrer le rôle public de la finance et une gestion stable. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "رؤساء أكبر خمسة بنوك يؤيدون إعادة تعريف دور التمويل ويشددون على المتانة",
-        "excerpt": "في العاشر، أبدى رؤساء بنوك تجارية كبرى تأييدهم لتوجه حكومة لي جاي ميونغ لإعادة بناء هيكل التمويل، مؤكدين أهمية إدارة المتانة.",
-        "body": "أعرب رؤساء بنوك تجارية كبرى في العاشر عن اتفاقهم مع توجه حكومة لي جاي ميونغ لإعادة بناء هيكل التمويل. وبينما أبدى رؤساء أكبر خمسة بنوك اتفاقا على الحاجة إلى إعادة تعريف دور التمويل، شددوا أيضا على أن إدارة المتانة المالية يجب أن ترافق ذلك من أجل استدامة القطاع. وتوضح هذه التصريحات موقف البنوك الرئيسية من اتجاه السياسة المالية للحكومة الجديدة. ومن المتوقع أن يواجه القطاع المصرفي مطالب بالموازنة بين الدور العام للتمويل والإدارة المستقرة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "पांच बड़े बैंक प्रमुख वित्त की भूमिका पुनर्परिभाषित करने पर सहमत, मजबूती पर जोर",
-        "excerpt": "प्रमुख वाणिज्यिक बैंकों के प्रमुखों ने 10 तारीख को ली जे-म्युंग सरकार की वित्तीय ढांचा पुनर्निर्माण नीति से सहमति जताई और मजबूती प्रबंधन पर जोर दिया।",
-        "body": "प्रमुख वाणिज्यिक बैंकों के प्रमुखों ने 10 तारीख को ली जे-म्युंग सरकार की उस नीति से सहमति जताई, जिसमें वित्त की संरचना को फिर से खड़ा करने की बात कही गई है। पांच बड़े बैंकों के प्रमुख वित्त की भूमिका को पुनर्परिभाषित करने की जरूरत पर एकमत दिखे, साथ ही उन्होंने कहा कि वित्तीय क्षेत्र की स्थिरता के लिए मजबूती और स्वस्थता का प्रबंधन भी जरूरी है। यह बयान नई सरकार की वित्तीय नीति दिशा पर प्रमुख बैंकों का रुख दिखाता है। बैंकिंग क्षेत्र से वित्त की सार्वजनिक भूमिका और स्थिर प्रबंधन के बीच संतुलन साधने की अपेक्षा बढ़ सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Lima Pimpinan Bank Besar Dukung Penataan Ulang Peran Keuangan dan Kesehatan",
-        "excerpt": "Pada tanggal 10, pimpinan bank komersial utama mendukung arah pemerintahan Lee Jae-myung untuk menata kembali struktur keuangan dan menekankan kesehatan bank.",
-        "body": "Pimpinan bank-bank komersial utama pada tanggal 10 menyatakan sependapat dengan arah pemerintahan Lee Jae-myung yang ingin membangun kembali struktur keuangan. Saat lima pimpinan bank besar menyetujui perlunya penataan ulang peran keuangan, mereka juga menekankan bahwa pengelolaan kesehatan keuangan harus dijaga agar sektor ini tetap berkelanjutan. Pernyataan tersebut menunjukkan posisi bank-bank utama terhadap arah kebijakan keuangan pemerintahan baru. Sektor perbankan diperkirakan akan dituntut menyeimbangkan peran publik keuangan dengan pengelolaan yang stabil. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b215f29ac794",
-    "slug": "불장-놓칠라-마통-쓰는-개미들5대銀-잔액-3년4개월-만에-최대-746917",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T20:59:14.216Z",
-    "updatedAt": "2026-05-09T20:59:14.216Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509040500002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509040500002",
-    "titleFingerprint": "4c2d14771e81bbceee14b2fab79cf031b8c008e7",
-    "dedupKeys": [
-      "b215f29ac794e31d446247af4c8368514af3ecb4",
-      "4c2d14771e81bbceee14b2fab79cf031b8c008e7",
-      "9f213bbc377bbf387c1be42217d1e037b72e7cae"
-    ],
-    "imageUrl": "/images/articles/b215f29ac794.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마이너스통장 잔액 3년4개월 만에 최대…증시 불장에 개미 대출 급증",
-        "excerpt": "국내 증시 활황 속 개인 투자자들이 투자 자금 마련을 위해 마이너스통장을 활용하면서 5대 시중은행 신용한도대출 잔액이 3년 4개월 만에 최대 규모로 늘었다.",
-        "body": "국내 증시가 활황을 이어가는 가운데 개인 투자자들이 투자 기회를 놓치지 않기 위해 마이너스통장으로 불리는 신용한도대출을 늘리고 있다. 이에 따라 5대 주요 시중은행의 마이너스통장 잔액은 3년 4개월 만에 최대 규모로 불어난 것으로 전해졌다. 원문은 증시 상승 흐름 속에서 이른바 ‘개미’ 투자자들이 대출을 활용해 주식 투자 자금을 마련하는 움직임이 커졌다고 설명했다. 신용한도대출 잔액 증가는 투자 심리 회복을 보여주는 동시에 차입 투자 확대에 따른 부담도 함께 키울 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Overdraft Credit Balances Hit 40-Month High as Retail Investors Chase Stock Rally",
-        "excerpt": "As South Korea’s stock market rallies, retail investors are increasingly using overdraft-style credit lines, pushing balances at five major banks to the highest level in three years and four months.",
-        "body": "As South Korea’s stock market continues to show strong momentum, retail investors are increasing their use of overdraft-style credit line loans, commonly known as minus bankbooks, to avoid missing investment opportunities. As a result, outstanding balances for these loans at five major commercial banks have reportedly reached their highest level in three years and four months. The original report said individual investors are using borrowed funds to prepare money for stock purchases amid the market upswing. The rise in credit line balances reflects improving investment sentiment, while also raising the potential burden tied to leveraged investing. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "マイナス通帳残高が3年4カ月ぶり最大、株高追う個人投資家の借入増",
-        "excerpt": "韓国株式市場の活況を受け、個人投資家が投資資金を確保するためマイナス通帳を利用し、5大市中銀行の信用限度貸出残高が3年4カ月ぶり最大となった。",
-        "body": "韓国の株式市場が活況を続ける中、個人投資家が投資機会を逃さないため、マイナス通帳と呼ばれる信用限度貸出の利用を増やしている。これにより、5大主要市中銀行のマイナス通帳残高は3年4カ月ぶりの最大規模に膨らんだと伝えられた。原文は、株価上昇の流れの中でいわゆる個人投資家が借入を活用し、株式投資資金を準備する動きが強まっていると説明した。信用限度貸出残高の増加は投資心理の回復を示す一方、借入投資拡大に伴う負担も高める可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "透支账户余额创3年4个月新高，韩国散户借钱追赶股市行情",
-        "excerpt": "在韩国股市活跃背景下，个人投资者为筹措投资资金加大使用透支式信用额度贷款，五大商业银行相关余额升至3年4个月来最高水平。",
-        "body": "在韩国股市持续活跃的情况下，个人投资者为避免错过投资机会，正在增加使用被称为“负数存折”的信用额度贷款。因此，五大主要商业银行的透支式信用贷款余额据称已扩大至3年4个月来的最高规模。原文称，在股市上涨趋势中，所谓散户投资者利用贷款筹备股票投资资金的动向正在增强。信用额度贷款余额增加显示投资情绪有所恢复，同时也可能加大借款投资扩张带来的负担。出处: yna.co.kr"
-      },
-      "es": {
-        "title": "Créditos tipo sobregiro tocan máximo en 40 meses por minoristas que siguen el rally bursátil",
-        "excerpt": "Con el auge del mercado bursátil surcoreano, los inversores minoristas usan más líneas de crédito tipo sobregiro y los saldos en cinco grandes bancos llegan al mayor nivel en 3 años y 4 meses.",
-        "body": "Mientras el mercado bursátil surcoreano mantiene un fuerte dinamismo, los inversores minoristas están aumentando el uso de préstamos con línea de crédito, conocidos como cuentas de saldo negativo, para no perder oportunidades de inversión. Como resultado, los saldos de estos préstamos en los cinco principales bancos comerciales habrían alcanzado su mayor volumen en tres años y cuatro meses. El informe original explicó que, en medio de la subida del mercado, los llamados pequeños inversores recurren al crédito para reunir fondos destinados a comprar acciones. El aumento de estos saldos muestra una recuperación del ánimo inversor, pero también puede elevar la carga asociada a invertir con dinero prestado. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Saldo de crédito rotativo bate máxima em 40 meses com varejo buscando alta da bolsa",
-        "excerpt": "Com a valorização do mercado acionário sul-coreano, investidores pessoa física recorrem mais a linhas de crédito, levando saldos nos cinco grandes bancos ao maior nível em 3 anos e 4 meses.",
-        "body": "Com o mercado acionário sul-coreano em forte movimento de alta, investidores pessoa física estão ampliando o uso de empréstimos com limite de crédito, conhecidos como contas negativas, para não perder oportunidades de investimento. Com isso, o saldo dessas operações nos cinco principais bancos comerciais teria chegado ao maior volume em três anos e quatro meses. A reportagem original afirmou que, em meio à tendência de alta das ações, os chamados pequenos investidores usam crédito para levantar recursos destinados à compra de papéis. O aumento dos saldos indica recuperação do apetite por investimento, mas também pode ampliar o peso ligado ao investimento com dinheiro emprestado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kreditlinien-Salden auf 40-Monats-Hoch, da Privatanleger Aktienrally nicht verpassen wollen",
-        "excerpt": "Im lebhaften südkoreanischen Aktienmarkt nutzen Privatanleger verstärkt Überziehungskreditlinien, wodurch die Bestände bei fünf Großbanken den höchsten Stand seit drei Jahren und vier Monaten erreichen.",
-        "body": "Während der südkoreanische Aktienmarkt weiter lebhaft bleibt, erhöhen Privatanleger die Nutzung von Kreditlinien, die als Minus-Konten bekannt sind, um Anlagechancen nicht zu verpassen. Dadurch sind die ausstehenden Salden dieser Kredite bei fünf großen Geschäftsbanken Berichten zufolge auf den höchsten Stand seit drei Jahren und vier Monaten gestiegen. Der Originalbericht erklärte, dass sogenannte Kleinanleger im Zuge steigender Aktienkurse zunehmend geliehenes Geld einsetzen, um Mittel für Aktieninvestitionen bereitzustellen. Der Anstieg der Kreditlinien-Salden zeigt eine Erholung der Anlegerstimmung, kann zugleich aber die Belastung durch fremdfinanzierte Investments erhöhen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Les crédits à découvert au plus haut en 40 mois avec les particuliers attirés par la Bourse",
-        "excerpt": "Portés par la vigueur du marché boursier sud-coréen, les particuliers utilisent davantage les lignes de crédit, portant les encours des cinq grandes banques au plus haut depuis 3 ans et 4 mois.",
-        "body": "Alors que le marché boursier sud-coréen reste dynamique, les investisseurs particuliers augmentent leur recours aux prêts avec ligne de crédit, appelés comptes négatifs, afin de ne pas manquer les occasions d’investissement. Les encours de ces prêts dans les cinq principales banques commerciales auraient ainsi atteint leur plus haut niveau en trois ans et quatre mois. L’article original indique que, dans un contexte de hausse des actions, les petits investisseurs utilisent davantage l’emprunt pour préparer des fonds destinés à l’achat d’actions. Cette progression reflète un regain de confiance des investisseurs, tout en pouvant accroître la charge liée aux placements financés par dette. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "أرصدة قروض السحب على المكشوف تبلغ أعلى مستوى في 40 شهرا مع اندفاع الأفراد نحو الأسهم",
-        "excerpt": "مع نشاط سوق الأسهم في كوريا الجنوبية، يزيد المستثمرون الأفراد استخدام خطوط الائتمان الشبيهة بالسحب على المكشوف، لترتفع أرصدتها في خمسة بنوك كبرى إلى أعلى مستوى منذ 3 سنوات و4 أشهر.",
-        "body": "مع استمرار الزخم في سوق الأسهم الكورية الجنوبية، يزيد المستثمرون الأفراد استخدام قروض حدود الائتمان المعروفة بحسابات الرصيد السالب حتى لا تفوتهم فرص الاستثمار. ونتيجة لذلك، ورد أن أرصدة هذه القروض لدى خمسة بنوك تجارية كبرى ارتفعت إلى أكبر مستوى لها منذ ثلاث سنوات وأربعة أشهر. وأوضح التقرير الأصلي أن ما يسمى بالمستثمرين الأفراد يستعينون بالقروض لتجهيز أموال للاستثمار في الأسهم وسط اتجاه السوق الصاعد. ويعكس ارتفاع أرصدة حدود الائتمان تحسنا في شهية الاستثمار، لكنه قد يزيد أيضا العبء المرتبط بالاستثمار الممول بالاقتراض. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "शेयर तेजी के बीच ओवरड्राफ्ट क्रेडिट बैलेंस 40 महीने के उच्च स्तर पर",
-        "excerpt": "दक्षिण कोरिया के शेयर बाजार में तेजी के बीच खुदरा निवेशक निवेश धन जुटाने के लिए क्रेडिट लाइन loans का अधिक उपयोग कर रहे हैं, जिससे पांच बड़े बैंकों में बैलेंस 3 साल 4 महीने के उच्च स्तर पर पहुंचा।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में मजबूत तेजी जारी रहने के बीच खुदरा निवेशक निवेश अवसर न चूकने के लिए माइनस बैंकबुक कहे जाने वाले क्रेडिट लिमिट loans का उपयोग बढ़ा रहे हैं। इसके चलते पांच प्रमुख वाणिज्यिक बैंकों में इन loans का बकाया 3 साल और 4 महीने में सबसे बड़े स्तर पर पहुंचने की सूचना है। मूल रिपोर्ट के अनुसार, बाजार की चढ़त के दौरान तथाकथित छोटे निवेशक शेयरों में निवेश के लिए धन जुटाने को उधार का सहारा ले रहे हैं। क्रेडिट लाइन बकाया में वृद्धि निवेश भावना की वापसी दिखाती है, लेकिन उधार लेकर निवेश बढ़ने से बोझ भी बढ़ सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Saldo Kredit Cerukan Capai Tertinggi 40 Bulan saat Investor Ritel Kejar Reli Saham",
-        "excerpt": "Di tengah ramainya bursa saham Korea Selatan, investor ritel makin memakai kredit limit seperti rekening minus, membuat saldo di lima bank besar mencapai level tertinggi dalam 3 tahun 4 bulan.",
-        "body": "Saat pasar saham Korea Selatan terus bergairah, investor ritel meningkatkan penggunaan pinjaman batas kredit, yang dikenal sebagai rekening minus, agar tidak melewatkan peluang investasi. Akibatnya, saldo pinjaman tersebut di lima bank komersial utama dilaporkan membesar ke level tertinggi dalam tiga tahun empat bulan. Laporan asli menjelaskan bahwa di tengah tren kenaikan saham, para investor individu menggunakan pinjaman untuk menyiapkan dana investasi saham. Kenaikan saldo kredit limit menunjukkan pulihnya sentimen investasi, tetapi juga dapat menambah beban yang terkait dengan investasi berbasis utang. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e41d89a9ac65",
-    "slug": "공정위-대한항공-이행강제금-94-감경시행령-넘은-의결-논란-284339",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-09T20:58:12.624Z",
-    "updatedAt": "2026-05-09T20:58:12.624Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509044100002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509044100002",
-    "titleFingerprint": "26dfe73ef53c26b5c74d534a41b5bc7f29c95f32",
-    "dedupKeys": [
-      "e41d89a9ac65952b14cf28e9ded0e12d532d6b2b",
-      "26dfe73ef53c26b5c74d534a41b5bc7f29c95f32",
-      "0468032935028634689efa22330d03326f8a39c6"
-    ],
-    "imageUrl": "/images/articles/e41d89a9ac65.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정위 대한항공 이행강제금 94% 감경, 시행령 기준 넘은 의결 논란",
-        "excerpt": "공정거래위원회가 대한항공 이행강제금을 94% 감경한 의결을 하면서, 하위 규범인 고시를 근거로 시행령상 기준 금액과 다르게 판단했다는 논란이 제기됐다.",
-        "body": "공정거래위원회가 대한항공에 대한 이행강제금을 94% 감경한 의결을 하면서 규범 적용을 둘러싼 논란이 불거졌다. 연합뉴스에 따르면 공정위는 하위 규범인 고시를 근거로 상위 규범인 시행령에 정해진 기준 금액과 다른 방식으로 이행강제금을 산정한 것으로 알려졌다. 쟁점은 고시가 시행령상 기준을 넘어 감경 판단의 근거가 될 수 있는지다. 이 사안은 공정위 의결 과정에서 규범 위계와 제재 산정 기준의 일관성을 둘러싼 논의로 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KFTC cuts Korean Air enforcement fine by 94%, sparking decree-standard dispute",
-        "excerpt": "South Korea’s Fair Trade Commission reduced Korean Air’s enforcement fine by 94%, raising controversy over whether a lower-level notice could alter standards set by an enforcement decree.",
-        "body": "South Korea’s Fair Trade Commission has drawn controversy after deciding to reduce an enforcement fine imposed on Korean Air by 94%. According to Yonhap News Agency, the commission reportedly calculated the fine differently from the benchmark amount set in an enforcement decree, relying instead on a lower-level administrative notice. The central issue is whether such a notice can serve as the basis for a reduction that departs from decree-level standards. The case is expected to fuel debate over regulatory hierarchy and consistency in sanction calculations. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "公取委、大韓航空の履行強制金を94％減額　施行令基準めぐり論争",
-        "excerpt": "韓国公正取引委員会が大韓航空の履行強制金を94％減額し、下位規範の告示を根拠に施行令上の基準額と異なる判断をしたとの論争が起きている。",
-        "body": "韓国公正取引委員会が大韓航空に対する履行強制金を94％減額する議決を行い、規範適用をめぐる論争が浮上した。聯合ニュースによると、公取委は下位規範である告示を根拠に、上位規範である施行令に定められた基準額とは異なる方式で履行強制金を算定したとされる。争点は、告示が施行令上の基準を超えて減額判断の根拠になり得るかどうかだ。今回の事案は、公取委の議決過程における規範の序列と制裁算定基準の一貫性をめぐる議論につながる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国公取委将大韩航空履行强制金减免94%，引发施行令标准争议",
-        "excerpt": "韩国公平交易委员会将大韩航空履行强制金减免94%，因依据下位规范告示作出不同于施行令基准金额的判断而引发争议。",
-        "body": "韩国公平交易委员会决定将针对大韩航空的履行强制金减免94%，围绕规范适用的争议随之出现。据韩联社报道，公取委被指以属于下位规范的告示为依据，采用了不同于上位规范施行令所规定基准金额的方式来计算履行强制金。争议焦点在于，告示是否可以超越施行令上的标准，成为作出减免判断的依据。该事件预计将引发关于公取委议决过程中规范位阶以及制裁计算标准一致性的讨论。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "La KFTC reduce un 94% la multa coercitiva a Korean Air y abre debate legal",
-        "excerpt": "La Comisión de Comercio Justo de Corea redujo un 94% la multa coercitiva a Korean Air, generando controversia por aplicar una notificación inferior frente al estándar de un decreto.",
-        "body": "La Comisión de Comercio Justo de Corea del Sur quedó envuelta en controversia tras decidir reducir en un 94% una multa coercitiva impuesta a Korean Air. Según la agencia Yonhap, la comisión habría calculado la sanción de una forma distinta al monto de referencia fijado por un decreto de aplicación, basándose en una notificación administrativa de rango inferior. El punto central es si esa notificación puede servir como fundamento para una reducción que se aparta de los estándares del decreto. El caso apunta a abrir un debate sobre jerarquía normativa y coherencia en el cálculo de sanciones. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KFTC reduz multa coerciva da Korean Air em 94% e gera disputa sobre decreto",
-        "excerpt": "A Comissão de Comércio Justo da Coreia reduziu em 94% a multa coerciva da Korean Air, levantando controvérsia por usar uma norma inferior em vez do critério previsto em decreto.",
-        "body": "A Comissão de Comércio Justo da Coreia do Sul gerou controvérsia ao decidir reduzir em 94% uma multa coerciva aplicada à Korean Air. Segundo a agência Yonhap, a comissão teria calculado a penalidade de modo diferente do valor de referência definido em decreto de execução, com base em uma notificação administrativa de hierarquia inferior. A questão central é se essa notificação pode fundamentar uma redução que se afasta dos critérios previstos no decreto. O caso deve alimentar discussões sobre hierarquia normativa e consistência no cálculo de sanções. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KFTC senkt Korean-Air-Zwangsgeld um 94 Prozent, Streit um Verordnungsmaßstab",
-        "excerpt": "Die südkoreanische Kartellbehörde reduzierte ein Zwangsgeld gegen Korean Air um 94 Prozent und löste Streit aus, weil sie sich auf eine untergeordnete Bekanntmachung stützte.",
-        "body": "Die südkoreanische Fair Trade Commission steht in der Kritik, nachdem sie beschlossen hat, ein gegen Korean Air verhängtes Zwangsgeld um 94 Prozent zu senken. Nach Angaben der Nachrichtenagentur Yonhap soll die Behörde den Betrag anders berechnet haben als nach dem in einer Durchführungsverordnung festgelegten Richtwert und sich dabei auf eine untergeordnete Verwaltungsvorschrift gestützt haben. Im Mittelpunkt steht die Frage, ob eine solche Bekanntmachung als Grundlage für eine Abweichung von Verordnungsstandards dienen kann. Der Fall dürfte eine Debatte über Normenhierarchie und einheitliche Sanktionsberechnung auslösen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La KFTC réduit de 94 % l’astreinte de Korean Air, controverse sur le décret",
-        "excerpt": "La Commission sud-coréenne du commerce équitable a réduit de 94 % l’astreinte de Korean Air, suscitant un débat sur l’usage d’un avis inférieur face aux critères d’un décret.",
-        "body": "La Commission sud-coréenne du commerce équitable fait face à une controverse après avoir décidé de réduire de 94 % une astreinte imposée à Korean Air. Selon l’agence Yonhap, la commission aurait calculé la sanction d’une manière différente du montant de référence prévu par un décret d’application, en s’appuyant sur un avis administratif de rang inférieur. L’enjeu est de savoir si un tel avis peut justifier une réduction s’écartant des critères fixés par le décret. Cette affaire devrait nourrir le débat sur la hiérarchie des normes et la cohérence du calcul des sanctions. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "هيئة التجارة الكورية تخفض غرامة إلزامية على كوريان إير 94% وتثير جدلا",
-        "excerpt": "خفضت هيئة التجارة العادلة في كوريا غرامة إلزامية على كوريان إير بنسبة 94%، ما أثار جدلا لاستخدامها إشعارا أدنى مرتبة بدلا من معيار وارد في مرسوم تنفيذي.",
-        "body": "أثارت هيئة التجارة العادلة في كوريا الجنوبية جدلا بعد قرارها خفض غرامة إلزامية مفروضة على كوريان إير بنسبة 94%. ووفقا لوكالة يونهاب، احتسبت الهيئة الغرامة بطريقة تختلف عن المبلغ المعياري المحدد في مرسوم تنفيذي، مستندة إلى إشعار إداري أدنى مرتبة. وتتمحور القضية حول ما إذا كان يمكن لهذا الإشعار أن يكون أساسا لتخفيض يتجاوز معايير المرسوم. ومن المتوقع أن يفتح القرار نقاشا بشأن تراتبية القواعد القانونية واتساق معايير احتساب العقوبات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KFTC ने Korean Air पर प्रवर्तन जुर्माना 94% घटाया, डिक्री मानक पर विवाद",
-        "excerpt": "दक्षिण कोरिया के निष्पक्ष व्यापार आयोग ने Korean Air का प्रवर्तन जुर्माना 94% घटाया, जिससे निचले स्तर की अधिसूचना बनाम प्रवर्तन डिक्री के मानक पर विवाद उठा।",
-        "body": "दक्षिण कोरिया के निष्पक्ष व्यापार आयोग ने Korean Air पर लगाए गए प्रवर्तन जुर्माने को 94% घटाने का निर्णय लिया, जिससे नियमों के लागू करने पर विवाद खड़ा हो गया। योनहाप समाचार एजेंसी के अनुसार, आयोग ने प्रवर्तन डिक्री में तय मानक राशि से अलग तरीके से जुर्माना गणना की और इसके लिए निचले स्तर की प्रशासनिक अधिसूचना को आधार बनाया। मुख्य प्रश्न यह है कि क्या ऐसी अधिसूचना डिक्री के मानकों से हटकर कटौती का आधार बन सकती है। यह मामला नियामकीय पदानुक्रम और दंड गणना की स्थिरता पर चर्चा को आगे बढ़ा सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KFTC pangkas denda paksa Korean Air 94%, standar dekret jadi sorotan",
-        "excerpt": "Komisi Perdagangan Adil Korea memangkas denda paksa Korean Air sebesar 94%, memicu kontroversi karena memakai pemberitahuan tingkat bawah alih-alih standar dalam dekret pelaksanaan.",
-        "body": "Komisi Perdagangan Adil Korea Selatan menuai kontroversi setelah memutuskan memangkas denda paksa terhadap Korean Air sebesar 94%. Menurut kantor berita Yonhap, komisi tersebut menghitung denda dengan cara yang berbeda dari jumlah acuan yang ditetapkan dalam dekret pelaksanaan, dengan mendasarkan keputusan pada pemberitahuan administratif yang berada di tingkat lebih rendah. Isu utamanya adalah apakah pemberitahuan itu dapat menjadi dasar pengurangan yang menyimpang dari standar dekret. Perkara ini diperkirakan memicu pembahasan tentang hierarki aturan dan konsistensi perhitungan sanksi. Sumber: yna.co.kr"
       }
     }
   }
