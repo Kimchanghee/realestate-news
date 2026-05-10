@@ -1,5 +1,230 @@
 [
   {
+    "id": "148e6cc6721c",
+    "slug": "현대차그룹-kai-미래-항공-모빌리티-개발-손잡아-397579",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T17:41:46.446Z",
+    "updatedAt": "2026-05-10T17:41:46.446Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894069/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894069/2",
+    "titleFingerprint": "00f1464e6bb601c4f6182284b7084861dc12e25f",
+    "dedupKeys": [
+      "148e6cc6721c5ffd3720dc9d00c206e0bd67cb0c",
+      "00f1464e6bb601c4f6182284b7084861dc12e25f",
+      "9b418cb72c3630fb9b14686c990fc8740e54f127"
+    ],
+    "imageUrl": "/images/articles/148e6cc6721c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차그룹-KAI, 미래 항공 모빌리티 AAM 공동 개발 본격화",
+        "excerpt": "현대자동차그룹과 KAI가 8일 서울 양재동 본사에서 항공용 전동화 파워트레인 기반 AAM 기체 공동 개발 업무협약을 맺고 양산 협력에 나섰다.",
+        "body": "현대자동차그룹과 한국항공우주산업(KAI)이 미래 항공 모빌리티(AAM) 개발을 위해 협력한다. 현대차그룹은 8일 서울 서초구 양재동 현대차·기아 본사에서 ‘항공용 전동화 파워트레인을 기반으로 하는 미래 항공 모빌리티 기체 공동 개발을 위한 업무협약’을 체결했다고 10일 밝혔다. 이번 협약은 현대차그룹의 항공용 전동화 파워트레인 개발 역량과 KAI의 항공기체 개발 역량을 결합해 경쟁력 있는 AAM을 개발하고 양산하기 위한 것이다. AAM은 사람이나 화물을 하늘길로 이동시키는 차세대 항공 교통 수단으로, ‘하늘을 나는 택시’로 불리는 도심항공교통(UAM)이 대표 사례다. 미국과 중국 등은 이미 AAM 상용화에 나서고 있다. 양사는 기술과 인적 자원 공유를 비롯해 향후 공급망, 인증, 고객 네트워크까지 협력 범위를 넓히기로 했다. 구체적으로 현대차그룹의 미국 미래 항공 모빌리티 전문법인 슈퍼널과 KAI가 AAM 기체를 공동 개발한다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Hyundai Motor Group and KAI Move to Co-Develop Future AAM Aircraft",
+        "excerpt": "Hyundai Motor Group and KAI signed an agreement on May 8 in Yangjae-dong, Seoul, to jointly develop AAM aircraft based on aviation electric powertrains.",
+        "body": "Hyundai Motor Group and Korea Aerospace Industries (KAI) will work together to develop advanced air mobility (AAM). Hyundai Motor Group said on May 10 that the two sides signed a memorandum of understanding on May 8 at Hyundai Motor and Kia’s headquarters in Yangjae-dong, Seocho-gu, Seoul, for the joint development of future air mobility aircraft based on aviation electric powertrains. The agreement aims to combine Hyundai Motor Group’s capabilities in aviation electric powertrain development with KAI’s aircraft development expertise to create and mass-produce competitive AAM vehicles. AAM refers to next-generation air transport mobility that moves people or cargo through the skies, with urban air mobility (UAM), often called a “flying taxi,” as a key example. The United States and China are already moving toward AAM commercialization. The companies will share technology and human resources and expand cooperation to supply chains, certification and customer networks. Supernal, Hyundai Motor Group’s U.S.-based future air mobility company, and KAI will jointly develop AAM aircraft. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "現代自グループとKAI、未来航空モビリティAAM共同開発へ",
+        "excerpt": "現代自動車グループとKAIは8日、ソウル・良才洞本社で航空用電動化パワートレイン基盤のAAM機体共同開発に向けた協定を結んだ。",
+        "body": "現代自動車グループと韓国航空宇宙産業（KAI）が、未来航空モビリティ（AAM）の開発で協力する。現代自動車グループは10日、8日にソウル市瑞草区良才洞の現代自動車・起亜本社で、「航空用電動化パワートレインを基盤とする未来航空モビリティ機体の共同開発に向けた業務協約」を締結したと明らかにした。今回の協約は、現代自動車グループの航空用電動化パワートレイン開発力と、KAIの航空機体開発力を活用し、競争力のあるAAMを開発・量産するためのものだ。AAMは人や貨物を空路で移動させる次世代航空交通モビリティを指し、「空飛ぶタクシー」と呼ばれる都市航空交通（UAM）が代表例となる。米国や中国などはすでにAAMの商用化に乗り出している。両社は技術と人材の共有に加え、今後はサプライチェーン、認証、顧客ネットワーク分野まで包括的に協力する方針だ。具体的には、現代自動車グループの米国未来航空モビリティ専門法人SupernalとKAIがAAM機体を共同開発する。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "现代汽车集团与KAI携手推进未来空中出行AAM共同开发",
+        "excerpt": "现代汽车集团与KAI于8日在首尔良才洞总部签署协议，将基于航空电动化动力总成共同开发未来空中出行AAM飞行器。",
+        "body": "现代汽车集团与韩国航空宇宙产业（KAI）将携手开发未来空中出行（AAM）。现代汽车集团10日表示，双方已于8日在首尔瑞草区良才洞现代汽车·起亚总部签署“基于航空电动化动力总成的未来空中出行飞行器共同开发业务协议”。此次协议旨在结合现代汽车集团的航空电动化动力总成开发能力与KAI的航空机体开发能力，开发并量产具有竞争力的AAM。AAM是指通过空中通道运送人员或货物的下一代航空交通出行方式，以被称为“空中出租车”的城市空中交通（UAM）为代表。美国、中国等已开始推进AAM商业化。双方将共享技术和人力资源，并把合作范围扩大到供应链、认证和客户网络等领域。具体而言，现代汽车集团旗下美国未来空中出行专业法人Supernal将与KAI共同开发AAM飞行器。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Hyundai Motor Group y KAI impulsan el desarrollo conjunto de AAM",
+        "excerpt": "Hyundai Motor Group y KAI firmaron el 8 de mayo en Seúl un acuerdo para desarrollar aeronaves AAM basadas en trenes motrices eléctricos para aviación.",
+        "body": "Hyundai Motor Group y Korea Aerospace Industries (KAI) colaborarán en el desarrollo de movilidad aérea avanzada (AAM). Hyundai Motor Group informó el 10 de mayo que ambas partes firmaron el 8 de mayo, en la sede de Hyundai Motor y Kia en Yangjae-dong, Seocho-gu, Seúl, un memorando de entendimiento para el desarrollo conjunto de aeronaves de movilidad aérea futura basadas en trenes motrices eléctricos para aviación. El acuerdo busca combinar la capacidad de Hyundai Motor Group en trenes motrices eléctricos aeronáuticos con la experiencia de KAI en desarrollo de aeronaves para crear y producir en serie AAM competitiva. La AAM es una movilidad aérea de nueva generación que transporta personas o carga por rutas aéreas, con la movilidad aérea urbana (UAM), conocida como “taxi volador”, como ejemplo representativo. Estados Unidos y China ya avanzan hacia la comercialización de AAM. Las empresas compartirán tecnología y recursos humanos, y ampliarán la cooperación a cadenas de suministro, certificación y redes de clientes. Supernal, la filial estadounidense de Hyundai Motor Group especializada en movilidad aérea futura, y KAI desarrollarán conjuntamente aeronaves AAM. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Hyundai Motor Group e KAI avançam em desenvolvimento conjunto de AAM",
+        "excerpt": "Hyundai Motor Group e KAI assinaram em 8 de maio, em Seul, um acordo para desenvolver aeronaves AAM baseadas em powertrains elétricos para aviação.",
+        "body": "Hyundai Motor Group e Korea Aerospace Industries (KAI) vão cooperar no desenvolvimento de mobilidade aérea avançada (AAM). O Hyundai Motor Group informou em 10 de maio que as duas partes assinaram em 8 de maio, na sede da Hyundai Motor e da Kia em Yangjae-dong, Seocho-gu, Seul, um memorando de entendimento para o desenvolvimento conjunto de aeronaves de mobilidade aérea futura baseadas em powertrains elétricos para aviação. O acordo tem como objetivo combinar a capacidade do Hyundai Motor Group em powertrains elétricos aeronáuticos com a competência da KAI no desenvolvimento de aeronaves para criar e produzir em massa AAM competitiva. AAM é uma mobilidade aérea de próxima geração que transporta pessoas ou cargas pelo céu, tendo a mobilidade aérea urbana (UAM), chamada de “táxi voador”, como exemplo representativo. Estados Unidos e China já avançam na comercialização de AAM. As empresas compartilharão tecnologia e recursos humanos e ampliarão a cooperação para cadeias de suprimento, certificação e redes de clientes. A Supernal, empresa norte-americana do Hyundai Motor Group especializada em mobilidade aérea futura, e a KAI desenvolverão conjuntamente aeronaves AAM. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hyundai Motor Group und KAI entwickeln gemeinsam künftige AAM-Fluggeräte",
+        "excerpt": "Hyundai Motor Group und KAI haben am 8. Mai in Seoul eine Vereinbarung zur gemeinsamen Entwicklung von AAM-Fluggeräten auf Basis elektrischer Luftfahrtantriebe unterzeichnet.",
+        "body": "Hyundai Motor Group und Korea Aerospace Industries (KAI) arbeiten bei der Entwicklung von Advanced Air Mobility (AAM) zusammen. Hyundai Motor Group teilte am 10. Mai mit, dass beide Seiten am 8. Mai am Sitz von Hyundai Motor und Kia in Yangjae-dong, Seocho-gu, Seoul, eine Absichtserklärung zur gemeinsamen Entwicklung künftiger Luftmobilitätsfluggeräte auf Basis elektrischer Luftfahrtantriebe unterzeichnet haben. Die Vereinbarung soll die Entwicklungsstärke von Hyundai Motor Group bei elektrischen Luftfahrtantrieben mit der Flugzeugentwicklungs-Kompetenz von KAI verbinden, um wettbewerbsfähige AAM zu entwickeln und in Serie zu produzieren. AAM bezeichnet eine Luftverkehrsmobilität der nächsten Generation, die Menschen oder Fracht über den Luftweg bewegt; ein repräsentatives Beispiel ist Urban Air Mobility (UAM), oft als „fliegendes Taxi“ bezeichnet. Die USA und China treiben die Kommerzialisierung von AAM bereits voran. Beide Unternehmen wollen Technologie und Personalressourcen teilen und die Zusammenarbeit auf Lieferketten, Zertifizierung und Kundennetzwerke ausweiten. Konkret werden Supernal, die US-Spezialgesellschaft von Hyundai Motor Group für künftige Luftmobilität, und KAI gemeinsam AAM-Fluggeräte entwickeln. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Hyundai Motor Group et KAI lancent le codéveloppement d’aéronefs AAM",
+        "excerpt": "Hyundai Motor Group et KAI ont signé le 8 mai à Séoul un accord pour développer ensemble des aéronefs AAM fondés sur des groupes motopropulseurs électriques aéronautiques.",
+        "body": "Hyundai Motor Group et Korea Aerospace Industries (KAI) vont coopérer au développement de la mobilité aérienne avancée (AAM). Hyundai Motor Group a annoncé le 10 mai que les deux parties avaient signé le 8 mai, au siège de Hyundai Motor et Kia à Yangjae-dong, Seocho-gu, Séoul, un protocole d’accord pour le développement conjoint d’aéronefs de mobilité aérienne future fondés sur des groupes motopropulseurs électriques aéronautiques. L’accord vise à associer les capacités de Hyundai Motor Group dans le développement de groupes motopropulseurs électriques pour l’aviation à l’expertise de KAI dans le développement de cellules aéronautiques, afin de créer et produire en série une AAM compétitive. L’AAM désigne une mobilité aérienne de nouvelle génération transportant personnes ou fret par voie aérienne, dont la mobilité aérienne urbaine (UAM), appelée “taxi volant”, est un exemple représentatif. Les États-Unis et la Chine avancent déjà vers la commercialisation de l’AAM. Les deux entreprises partageront technologies et ressources humaines, et élargiront leur coopération aux chaînes d’approvisionnement, à la certification et aux réseaux de clients. Supernal, la société américaine de Hyundai Motor Group spécialisée dans la mobilité aérienne future, et KAI développeront conjointement des aéronefs AAM. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "هيونداي موتور وKAI تتعاونان لتطوير مركبات التنقل الجوي AAM",
+        "excerpt": "وقعت هيونداي موتور غروب وKAI في 8 مايو بسيول اتفاقا لتطوير مركبات AAM تعتمد على أنظمة دفع كهربائية مخصصة للطيران تمهيدا للتعاون في الإنتاج.",
+        "body": "تتعاون هيونداي موتور غروب مع شركة كوريا لصناعات الفضاء (KAI) في تطوير التنقل الجوي المتقدم (AAM). وقالت هيونداي موتور غروب في 10 مايو إن الجانبين وقعا في 8 مايو، في مقر هيونداي موتور وكيا في يانغجيه دونغ بمنطقة سوتشو في سيول، مذكرة تفاهم للتطوير المشترك لمركبات تنقل جوي مستقبلية تعتمد على أنظمة دفع كهربائية مخصصة للطيران. وتهدف الاتفاقية إلى الجمع بين قدرات هيونداي موتور غروب في تطوير أنظمة الدفع الكهربائية للطيران وخبرات KAI في تطوير هياكل الطائرات، من أجل تطوير AAM تنافسية وإنتاجها بكميات كبيرة. ويشير AAM إلى وسيلة نقل جوي من الجيل التالي تنقل الأشخاص أو البضائع عبر المسارات الجوية، ومن أبرز أمثلتها التنقل الجوي الحضري (UAM) المعروف باسم “التاكسي الطائر”. وقد بدأت الولايات المتحدة والصين بالفعل خطوات تجارية في هذا المجال. وسيتبادل الطرفان التكنولوجيا والموارد البشرية، مع توسيع التعاون لاحقا إلى سلاسل الإمداد والاعتماد وشبكات العملاء. وبشكل محدد، ستطور شركة Supernal الأميركية التابعة لهيونداي موتور غروب والمتخصصة في التنقل الجوي المستقبلي مركبات AAM بالاشتراك مع KAI. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group और KAI मिलकर भविष्य की AAM विमान तकनीक विकसित करेंगे",
+        "excerpt": "Hyundai Motor Group और KAI ने 8 मई को सियोल के यांगजे-डोंग मुख्यालय में विमानन इलेक्ट्रिक पावरट्रेन आधारित AAM विमान के संयुक्त विकास पर समझौता किया।",
+        "body": "Hyundai Motor Group और Korea Aerospace Industries (KAI) भविष्य की एडवांस्ड एयर मोबिलिटी (AAM) विकसित करने के लिए सहयोग करेंगे। Hyundai Motor Group ने 10 मई को बताया कि दोनों पक्षों ने 8 मई को सियोल के सेओचो-गु स्थित यांगजे-डोंग में Hyundai Motor और Kia मुख्यालय में विमानन इलेक्ट्रिक पावरट्रेन पर आधारित भविष्य की एयर मोबिलिटी विमान के संयुक्त विकास के लिए समझौता ज्ञापन पर हस्ताक्षर किए। इस समझौते का उद्देश्य Hyundai Motor Group की विमानन इलेक्ट्रिक पावरट्रेन विकास क्षमता और KAI की विमान ढांचा विकास विशेषज्ञता को जोड़कर प्रतिस्पर्धी AAM विकसित करना और उसका बड़े पैमाने पर उत्पादन करना है। AAM अगली पीढ़ी की हवाई परिवहन मोबिलिटी है, जो लोगों या माल को आकाश मार्ग से ले जाती है। इसका प्रमुख उदाहरण शहरी हवाई परिवहन (UAM) है, जिसे “फ्लाइंग टैक्सी” कहा जाता है। अमेरिका और चीन पहले ही AAM के वाणिज्यिक उपयोग की दिशा में आगे बढ़ रहे हैं। दोनों कंपनियां तकनीक और मानव संसाधन साझा करेंगी और आगे आपूर्ति श्रृंखला, प्रमाणन तथा ग्राहक नेटवर्क तक सहयोग बढ़ाएंगी। Hyundai Motor Group की अमेरिका स्थित भविष्य एयर मोबिलिटी विशेषज्ञ कंपनी Supernal और KAI मिलकर AAM विमान विकसित करेंगे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Hyundai Motor Group dan KAI Percepat Pengembangan Bersama AAM",
+        "excerpt": "Hyundai Motor Group dan KAI menandatangani perjanjian pada 8 Mei di Seoul untuk mengembangkan pesawat AAM berbasis powertrain elektrifikasi penerbangan.",
+        "body": "Hyundai Motor Group dan Korea Aerospace Industries (KAI) akan bekerja sama mengembangkan advanced air mobility (AAM). Hyundai Motor Group menyatakan pada 10 Mei bahwa kedua pihak menandatangani nota kesepahaman pada 8 Mei di kantor pusat Hyundai Motor dan Kia di Yangjae-dong, Seocho-gu, Seoul, untuk pengembangan bersama wahana mobilitas udara masa depan berbasis powertrain elektrifikasi penerbangan. Kesepakatan ini bertujuan menggabungkan kemampuan Hyundai Motor Group dalam pengembangan powertrain elektrifikasi untuk penerbangan dengan keahlian KAI dalam pengembangan badan pesawat, guna mengembangkan dan memproduksi massal AAM yang kompetitif. AAM adalah mobilitas transportasi udara generasi berikutnya yang memindahkan orang atau kargo melalui jalur udara, dengan urban air mobility (UAM), yang dikenal sebagai “taksi terbang”, sebagai contoh utama. Amerika Serikat dan China sudah bergerak menuju komersialisasi AAM. Kedua perusahaan akan berbagi teknologi dan sumber daya manusia serta memperluas kerja sama ke rantai pasok, sertifikasi, dan jaringan pelanggan. Secara khusus, Supernal, perusahaan Hyundai Motor Group di Amerika Serikat yang berfokus pada mobilitas udara masa depan, dan KAI akan bersama-sama mengembangkan wahana AAM. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "8a7eba9a9686",
+    "slug": "류재철-문제-드러내-실행-1등-lg전자-만들자-713278",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T17:40:30.157Z",
+    "updatedAt": "2026-05-10T17:40:30.157Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894071/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894071/2",
+    "titleFingerprint": "9b05d3fc41387f4aef1975f09ecd8fb6ffdd2a08",
+    "dedupKeys": [
+      "8a7eba9a9686c3335159194ca52451ffc45e35ca",
+      "9b05d3fc41387f4aef1975f09ecd8fb6ffdd2a08",
+      "bc2551efa714b87c7be9cc992971b29cd61bcad2"
+    ],
+    "imageUrl": "/images/articles/8a7eba9a9686.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 류재철 CEO 첫 타운홀, “문제 드러내고 이기는 실행으로 1등 만들자”",
+        "excerpt": "류재철 LG전자 CEO가 최근 서울 강서구 LG사이언스파크에서 취임 후 첫 타운홀 미팅을 열고 문제를 드러내는 문화와 경쟁 관점의 실행을 강조했다.",
+        "body": "류재철 LG전자 최고경영자(CEO·사장)는 최근 서울 강서구 LG사이언스파크에서 전체 구성원을 대상으로 취임 이후 첫 타운홀 미팅을 열고 “문제를 드러내고 이기는 실행에 집중해 1등 LG전자를 만들자”고 밝혔다. LG전자가 10일 전한 내용에 따르면 류 사장은 이 자리에서 ‘문제 드러내기’와 ‘이기는 실행하기’를 경영철학으로 공유했다. 문제 드러내기는 해결해야 할 문제와 원인을 정확히 파악하고 주저 없이 드러내는 문화를 뜻한다. 이기는 실행하기는 단순한 실행을 넘어 속도가 경쟁 관점에서 유효한지 점검하자는 취지다. 류 사장은 경영진부터 앞장서 분위기를 만들겠다며 결과물을 먼저 생각하는 실행을 주문했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "LG Electronics CEO Ryu Jae-cheol Urges First Town Hall to Expose Problems and Execute to Win",
+        "excerpt": "LG Electronics CEO Ryu Jae-cheol held his first town hall since taking office at LG Sciencepark in Seoul, stressing a culture of revealing problems and execution judged by competition.",
+        "body": "LG Electronics CEO and President Ryu Jae-cheol recently held his first town hall meeting since taking office with all employees at LG Sciencepark in Gangseo-gu, Seoul, saying the company should “focus on exposing problems and execution that wins to make LG Electronics No. 1.” According to LG Electronics on the 10th, Ryu shared two management principles: “revealing problems” and “executing to win.” Revealing problems means accurately identifying issues that must be solved and their causes, while creating a culture where they can be raised without hesitation. Executing to win means going beyond working hard and checking whether the pace of execution is effective from a competitive perspective. Ryu said management would lead efforts to create that atmosphere and called for execution that starts with the desired outcome. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "LG電子の柳在哲CEO、初のタウンホールで「問題を明らかにし勝つ実行を」",
+        "excerpt": "LG電子の柳在哲CEOはソウルのLGサイエンスパークで就任後初のタウンホールを開き、問題を明らかにする文化と競争視点の実行を強調した。",
+        "body": "LG電子の柳在哲最高経営責任者（CEO・社長）は最近、ソウル市江西区のLGサイエンスパークで全社員を対象に就任後初のタウンホールミーティングを開き、「問題を明らかにし、勝つ実行に集中してナンバーワンのLG電子をつくろう」と述べた。LG電子が10日に明らかにしたところによると、柳社長はこの場で「問題を明らかにすること」と「勝つ実行をすること」という二つの経営哲学を共有した。問題を明らかにすることは、解決すべき課題と原因を正確に把握し、ためらわずに表に出せる文化をつくるという意味だ。勝つ実行は、単に懸命に動くだけでなく、実行の速度が競争の観点で有効かを点検する趣旨だ。柳社長は経営陣が率先して雰囲気づくりに努めるとし、成果を先に考える実行を求めた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "LG电子CEO柳在哲首次市政厅会议：揭示问题、以制胜执行打造第一",
+        "excerpt": "LG电子CEO柳在哲近日在首尔LG科学园举行就任后首次全员市政厅会议，强调揭示问题的文化和从竞争角度检验执行速度。",
+        "body": "LG电子首席执行官、社长柳在哲近日在首尔江西区LG科学园面向全体成员举行了就任后的首次市政厅会议，并表示要“集中于揭示问题和制胜执行，打造第一的LG电子”。LG电子10日介绍，柳社长在会上分享了“揭示问题”和“制胜执行”两项经营理念。揭示问题，是指准确掌握需要解决的问题及其原因，并建立能够毫不犹豫将其呈现出来的文化。制胜执行则意味着不止于努力执行，还要检查执行速度从竞争角度看是否有效。柳社长表示，为营造把揭示问题视为发展机会的氛围，管理层将率先努力，并要求先思考结果、开展能够取胜的执行。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "CEO de LG Electronics Ryu Jae-cheol pide exponer problemas y ejecutar para ganar",
+        "excerpt": "Ryu Jae-cheol, CEO de LG Electronics, celebró en LG Sciencepark de Seúl su primer town hall desde que asumió y subrayó una cultura de revelar problemas y ejecutar con enfoque competitivo.",
+        "body": "Ryu Jae-cheol, CEO y presidente de LG Electronics, celebró recientemente en LG Sciencepark, en Gangseo-gu, Seúl, su primer town hall desde que asumió el cargo ante todos los integrantes de la compañía. Allí afirmó que LG debe “centrarse en exponer los problemas y en una ejecución ganadora para convertir a LG Electronics en número uno”. Según informó LG Electronics el día 10, Ryu compartió dos filosofías de gestión: “revelar los problemas” y “ejecutar para ganar”. La primera significa identificar con precisión los problemas que deben resolverse y sus causas, y crear una cultura que permita mostrarlos sin vacilación. La segunda busca ir más allá de ejecutar con esfuerzo y comprobar si la velocidad de ejecución es válida desde la perspectiva de la competencia. Ryu dijo que la dirección tomará la iniciativa para crear ese ambiente y pidió ejecutar pensando primero en los resultados. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "CEO da LG Electronics, Ryu Jae-cheol, pede expor problemas e executar para vencer",
+        "excerpt": "Ryu Jae-cheol, CEO da LG Electronics, realizou no LG Sciencepark em Seul seu primeiro town hall desde a posse e destacou a cultura de revelar problemas e executar sob ótica competitiva.",
+        "body": "Ryu Jae-cheol, CEO e presidente da LG Electronics, realizou recentemente no LG Sciencepark, em Gangseo-gu, Seul, seu primeiro town hall desde que assumiu o cargo, reunindo todos os colaboradores. Ele afirmou que a empresa deve “concentrar-se em expor problemas e em uma execução vencedora para tornar a LG Electronics número um”. Segundo a LG Electronics informou no dia 10, Ryu compartilhou duas filosofias de gestão: “revelar problemas” e “executar para vencer”. Revelar problemas significa identificar com precisão as questões a resolver e suas causas, criando uma cultura em que elas possam ser expostas sem hesitação. Executar para vencer significa não apenas agir com empenho, mas verificar se a velocidade da execução é eficaz do ponto de vista competitivo. Ryu disse que a liderança tomará a frente para formar esse ambiente e pediu uma execução orientada primeiro aos resultados. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "LG-Electronics-CEO Ryu Jae-cheol fordert: Probleme offenlegen und siegreich umsetzen",
+        "excerpt": "LG-Electronics-CEO Ryu Jae-cheol hielt im LG Sciencepark in Seoul sein erstes Townhall-Meeting seit Amtsantritt ab und betonte Problemerkennung sowie wettbewerbsorientierte Umsetzung.",
+        "body": "Ryu Jae-cheol, CEO und Präsident von LG Electronics, hat kürzlich im LG Sciencepark im Seouler Bezirk Gangseo sein erstes Townhall-Meeting seit seinem Amtsantritt mit allen Beschäftigten abgehalten. Dabei sagte er, man solle „Probleme offenlegen und sich auf eine Umsetzung konzentrieren, die gewinnt, um LG Electronics zur Nummer eins zu machen“. Wie LG Electronics am 10. mitteilte, stellte Ryu zwei Managementgrundsätze vor: „Probleme offenlegen“ und „umsetzen, um zu gewinnen“. Probleme offenzulegen bedeutet, zu lösende Fragen und deren Ursachen genau zu erfassen und eine Kultur zu schaffen, in der sie ohne Zögern angesprochen werden können. Die gewinnende Umsetzung soll über bloßen Einsatz hinausgehen und prüfen, ob das Tempo im Wettbewerbsvergleich wirksam ist. Ryu sagte, das Management werde bei der Schaffung dieser Atmosphäre vorangehen, und forderte eine Umsetzung, die zuerst an das Ergebnis denkt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le PDG de LG Electronics Ryu Jae-cheol appelle à révéler les problèmes et exécuter pour gagner",
+        "excerpt": "Ryu Jae-cheol, PDG de LG Electronics, a tenu au LG Sciencepark de Séoul son premier town hall depuis sa prise de fonctions, axé sur la transparence des problèmes et l’exécution compétitive.",
+        "body": "Ryu Jae-cheol, PDG et président de LG Electronics, a récemment tenu au LG Sciencepark, dans l’arrondissement de Gangseo à Séoul, son premier town hall depuis sa prise de fonctions avec l’ensemble des employés. Il a déclaré qu’il fallait “se concentrer sur la révélation des problèmes et sur une exécution gagnante afin de faire de LG Electronics le numéro un”. Selon LG Electronics le 10, Ryu a partagé deux principes de gestion: “révéler les problèmes” et “exécuter pour gagner”. Révéler les problèmes signifie identifier précisément les sujets à résoudre et leurs causes, puis créer une culture où ils peuvent être signalés sans hésitation. Exécuter pour gagner consiste à dépasser la simple exécution appliquée et à vérifier si la vitesse d’exécution est pertinente du point de vue de la concurrence. Ryu a indiqué que la direction montrerait l’exemple pour créer cette atmosphère et a demandé une exécution pensée d’abord à partir du résultat. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الرئيس التنفيذي لـLG Electronics ريو جيه تشول يدعو لكشف المشكلات والتنفيذ للفوز",
+        "excerpt": "عقد ريو جيه تشول الرئيس التنفيذي لـLG Electronics أول لقاء مفتوح له منذ توليه المنصب في LG Sciencepark بسيول، مؤكدا ثقافة كشف المشكلات والتنفيذ بمنظور تنافسي.",
+        "body": "عقد ريو جيه تشول، الرئيس التنفيذي ورئيس LG Electronics، مؤخرا أول اجتماع مفتوح له منذ توليه المنصب مع جميع العاملين في LG Sciencepark بمنطقة غانغسيو في سيول. وقال إن على الشركة أن “تركز على كشف المشكلات والتنفيذ الرابح لصنع LG Electronics رقم واحد”. ووفقا لما أعلنته LG Electronics في العاشر من الشهر، شارك ريو فلسفتين إداريتين هما “كشف المشكلات” و“التنفيذ للفوز”. ويعني كشف المشكلات تحديد القضايا التي يجب حلها وأسبابها بدقة، وبناء ثقافة تسمح بإظهارها من دون تردد. أما التنفيذ للفوز فيعني عدم الاكتفاء بالعمل الجاد، بل فحص ما إذا كانت سرعة التنفيذ فعالة من منظور المنافسة. وقال ريو إن الإدارة ستقود الجهود لتهيئة هذا المناخ، ودعا إلى تنفيذ يبدأ بالتفكير في النتائج. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "LG Electronics CEO रयू जे-चोल ने कहा: समस्याएं सामने लाएं, जीतने वाला निष्पादन करें",
+        "excerpt": "LG Electronics के CEO रयू जे-चोल ने सियोल के LG Sciencepark में पद संभालने के बाद पहली टाउनहॉल बैठक की और समस्याएं उजागर करने की संस्कृति तथा प्रतिस्पर्धी निष्पादन पर जोर दिया।",
+        "body": "LG Electronics के मुख्य कार्यकारी अधिकारी और अध्यक्ष रयू जे-चोल ने हाल ही में सियोल के गांगसियो-गु स्थित LG Sciencepark में सभी कर्मचारियों के लिए पद संभालने के बाद अपनी पहली टाउनहॉल बैठक की। उन्होंने कहा कि “समस्याओं को सामने लाने और जीतने वाले निष्पादन पर ध्यान देकर नंबर एक LG Electronics बनाना” जरूरी है। LG Electronics ने 10 तारीख को बताया कि रयू ने इस अवसर पर दो प्रबंधन दर्शन साझा किए: “समस्याएं सामने लाना” और “जीतने के लिए निष्पादन करना।” समस्याएं सामने लाने का अर्थ है हल की जाने वाली समस्याओं और उनके कारणों को सही ढंग से पहचानना तथा उन्हें बिना झिझक उजागर करने की संस्कृति बनाना। जीतने वाला निष्पादन केवल मेहनत से आगे बढ़कर यह जांचने का आग्रह है कि निष्पादन की गति प्रतिस्पर्धा के लिहाज से प्रभावी है या नहीं। रयू ने कहा कि ऐसा माहौल बनाने में प्रबंधन पहले आगे आएगा और परिणाम को पहले सोचकर निष्पादन करने को कहा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "CEO LG Electronics Ryu Jae-cheol Serukan Ungkap Masalah dan Eksekusi untuk Menang",
+        "excerpt": "CEO LG Electronics Ryu Jae-cheol menggelar town hall pertama sejak menjabat di LG Sciencepark Seoul, menekankan budaya mengungkap masalah dan eksekusi dari sudut pandang persaingan.",
+        "body": "Ryu Jae-cheol, CEO dan presiden LG Electronics, baru-baru ini menggelar town hall pertama sejak menjabat bersama seluruh karyawan di LG Sciencepark, Gangseo-gu, Seoul. Ia mengatakan perusahaan harus “fokus pada mengungkap masalah dan eksekusi yang menang untuk menjadikan LG Electronics nomor satu”. Menurut keterangan LG Electronics pada tanggal 10, Ryu membagikan dua filosofi manajemen: “mengungkap masalah” dan “melakukan eksekusi untuk menang”. Mengungkap masalah berarti memahami secara tepat masalah yang harus diselesaikan dan penyebabnya, serta membangun budaya yang memungkinkan hal itu disampaikan tanpa ragu. Eksekusi untuk menang berarti tidak hanya bekerja keras, tetapi juga memeriksa apakah kecepatan eksekusi efektif dari sudut pandang persaingan. Ryu mengatakan jajaran manajemen akan lebih dulu berupaya menciptakan suasana tersebut dan meminta eksekusi yang memikirkan hasil sejak awal. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "aa90ae5b7105",
+    "slug": "고물가에-끼니-해결-힘드시죠-편의점-간편식-경쟁-459549",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T17:39:23.412Z",
+    "updatedAt": "2026-05-10T17:39:23.412Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894075/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894075/2",
+    "titleFingerprint": "1aa08fda24d4a52c7c0822b2eec1cf7c9f45f3b5",
+    "dedupKeys": [
+      "aa90ae5b7105882d4b48ab385e7a0f062083c425",
+      "1aa08fda24d4a52c7c0822b2eec1cf7c9f45f3b5",
+      "dcf9d26536b2b529aaaaf62422663873d415c3ea"
+    ],
+    "imageUrl": "/images/articles/aa90ae5b7105.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고물가 속 편의점 간편식 경쟁 가열, 세븐일레븐·CU 식사 수요 공략",
+        "excerpt": "고물가로 편의점에서 끼니를 해결하는 소비자가 늘자 세븐일레븐과 CU가 10일 건강 간편식과 즉석 조리 메뉴를 앞세워 상품 경쟁력 강화에 나섰다.",
+        "body": "고물가로 외식 부담이 커지며 편의점에서 끼니를 해결하는 소비자가 늘자 편의점 업계가 간편식 경쟁력을 강화하고 있다. 세븐일레븐은 10일 건강 간편식 브랜드 ‘밸런스푼(BalanSpoon)’을 선보인다고 밝혔다. 편의점 간편식이 젊은층과 직장인의 일상식으로 자리 잡은 데 따른 대응이다. 브랜드명에는 최근 확산된 건강 중시 소비 흐름을 반영해 ‘나를 위한 건강 한 스푼’이라는 의미를 담았다. 세븐일레븐은 베이커리, 김밥류, 샌드위치 등 간편식을 5대 중점 카테고리로 정하고 상품력을 높이고 있다. 3월에는 밥 식감을 개선한 삼각김밥을, 4월에는 ‘세븐셀렉트 숨결통식빵’을 출시했다. 해당 식빵은 출시 3주 만에 누적 판매량 10만 개를 넘었다. CU도 즉석 라면 조리기를 활용한 메뉴를 강화하고 있으며, 지난달 출시한 ‘미정당 즉석 떡볶이’는 한 달 만에 3만 개 이상 팔렸다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Convenience Meal Race Heats Up as High Prices Push Diners to Stores",
+        "excerpt": "As high prices drive more people to solve meals at convenience stores, Seven-Eleven and CU are strengthening ready-to-eat foods and instant-cooking menus on May 10.",
+        "body": "As high prices make eating out more burdensome, more consumers are turning to convenience stores for daily meals, prompting the industry to strengthen its ready-to-eat food lineup. Seven-Eleven said on May 10 that it will introduce a healthy convenience meal brand called BalanSpoon. The move comes as convenience-store meals become routine food for younger consumers and office workers. The name reflects the spreading consumer focus on health and carries the meaning of “a healthy spoonful for me.” Seven-Eleven has selected ready meals such as bakery items, gimbap products and sandwiches as five key categories and is improving product competitiveness. In March it launched triangle gimbap with improved rice texture, followed in April by “Seven Select Sumgyeol Whole Bread.” The bread surpassed 100,000 units in cumulative sales within three weeks of launch. CU is also expanding menus that use instant ramen cookers. Its “Mijeongdang Instant Tteokbokki,” launched last month, topped 30,000 units in cumulative sales within one month. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "物価高でコンビニ簡便食競争が加速、セブンイレブンとCUが食事需要を攻略",
+        "excerpt": "物価高でコンビニで食事を済ませる消費者が増える中、セブンイレブンとCUは10日、健康簡便食と即席調理メニューの強化に乗り出した。",
+        "body": "物価高で外食の負担が大きくなり、コンビニで食事を済ませる消費者が増える中、コンビニ業界が簡便食の競争力を高めている。セブンイレブンは10日、健康簡便食ブランド「BalanSpoon」を展開すると発表した。コンビニ簡便食が若年層や会社員の日常食として定着していることへの対応だ。ブランド名には、近年広がる健康重視の消費傾向を反映し、「自分のための健康な一さじ」という意味を込めた。セブンイレブンはベーカリー、キンパ類、サンドイッチなどの簡便食を5大重点カテゴリーに選び、商品競争力を強化している。3月にはご飯の食感を改善した三角キンパを発売し、4月には「セブンセレクト スムギョル食パン」を投入した。同食パンは発売から3週間で累計販売数10万個を突破した。CUも即席ラーメン調理器を活用したメニューを強化しており、先月発売した「ミジョンダン即席トッポッキ」は1カ月で累計販売数3万個を超えた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "高物价推升便利店简餐竞争，7-Eleven与CU抢抓日常用餐需求",
+        "excerpt": "高物价下越来越多消费者到便利店解决一餐，7-Eleven和CU于10日分别以健康简餐和即食烹调菜单强化商品竞争力。",
+        "body": "随着高物价加重外出就餐负担，越来越多消费者选择在便利店解决一餐，便利店行业正加强简餐竞争力。7-Eleven于10日表示，将推出健康简餐品牌“BalanSpoon”。这是因为便利店简餐正成为年轻人和上班族的日常餐食。该品牌名称反映近期扩散的重视健康消费趋势，寓意为“给自己的健康一勺”。7-Eleven已将烘焙、紫菜包饭类、三明治等简餐列为五大重点品类，并提升商品竞争力。3月，该公司推出改善米饭口感的三角紫菜包饭；4月又推出“Seven Select Sumgyeol全麦吐司”。该吐司上市三周累计销量突破10万个。CU也在强化利用即食拉面烹调机的菜单。其上月推出的“美正堂即食炒年糕”上市一个月累计销量超过3万个。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "La comida preparada en tiendas compite más por la inflación: Seven-Eleven y CU refuerzan menús",
+        "excerpt": "Ante la inflación, más consumidores resuelven comidas en tiendas de conveniencia; Seven-Eleven y CU reforzaron el 10 de mayo opciones saludables y de cocción instantánea.",
+        "body": "Con la inflación elevando la carga de comer fuera, más consumidores recurren a las tiendas de conveniencia para resolver sus comidas, y el sector está reforzando la competitividad de sus alimentos preparados. Seven-Eleven informó el 10 de mayo que lanzará la marca de comidas saludables BalanSpoon. La decisión responde a que las comidas de conveniencia se han instalado como alimento cotidiano entre jóvenes y trabajadores de oficina. El nombre incorpora la idea de “una cucharada saludable para mí”, en línea con la tendencia de consumo centrada en la salud. Seven-Eleven eligió productos de panadería, gimbap, sándwiches y otras comidas preparadas como cinco categorías prioritarias para mejorar su oferta. En marzo lanzó triángulos de gimbap con mejor textura del arroz y en abril presentó “Seven Select Sumgyeol Whole Bread”, que superó 100.000 unidades vendidas en tres semanas. CU también fortalece menús con cocedores de ramen instantáneo. Su “Mijeongdang Instant Tteokbokki”, lanzado el mes pasado, superó 30.000 unidades en un mes. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Comida pronta em lojas ganha disputa com inflação; Seven-Eleven e CU reforçam refeições",
+        "excerpt": "Com preços altos levando mais consumidores às lojas de conveniência para comer, Seven-Eleven e CU reforçaram em 10 de maio opções saudáveis e menus de preparo instantâneo.",
+        "body": "Com a alta dos preços tornando as refeições fora de casa mais pesadas no orçamento, mais consumidores procuram lojas de conveniência para se alimentar, e o setor está reforçando a competitividade das comidas prontas. A Seven-Eleven informou em 10 de maio que lançará a marca de refeições saudáveis BalanSpoon. A medida ocorre porque as comidas de conveniência vêm se tornando parte da rotina alimentar de jovens e trabalhadores de escritório. O nome da marca reflete a tendência de consumo voltada à saúde e significa “uma colher saudável para mim”. A Seven-Eleven definiu itens de padaria, gimbap, sanduíches e outras refeições prontas como cinco categorias prioritárias para fortalecer seus produtos. Em março lançou triângulos de gimbap com textura de arroz melhorada e, em abril, o “Seven Select Sumgyeol Whole Bread”, que passou de 100 mil unidades vendidas em três semanas. A CU também amplia menus com máquinas de preparo de ramen instantâneo. O “Mijeongdang Instant Tteokbokki”, lançado no mês passado, superou 30 mil unidades em um mês. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Fertiggerichte im Convenience-Store im Wettbewerb: Seven-Eleven und CU reagieren auf hohe Preise",
+        "excerpt": "Weil hohe Preise mehr Verbraucher für Mahlzeiten in Convenience-Stores treiben, stärken Seven-Eleven und CU am 10. Mai gesunde Fertiggerichte und Sofortkoch-Menüs.",
+        "body": "Da hohe Preise Restaurantbesuche stärker belasten, wenden sich mehr Verbraucher für ihre Mahlzeiten an Convenience-Stores. Die Branche baut deshalb ihre Wettbewerbsfähigkeit bei Fertiggerichten aus. Seven-Eleven teilte am 10. Mai mit, die Marke für gesunde Convenience-Mahlzeiten BalanSpoon einzuführen. Hintergrund ist, dass solche Mahlzeiten bei jüngeren Kunden und Büroangestellten zum Alltagsessen geworden sind. Der Markenname greift den wachsenden gesundheitsorientierten Konsumtrend auf und steht für „einen gesunden Löffel für mich“. Seven-Eleven hat Backwaren, Gimbap-Produkte, Sandwiches und weitere schnelle Mahlzeiten als fünf Schwerpunktkategorien ausgewählt und verbessert deren Produktstärke. Im März brachte das Unternehmen dreieckige Gimbap mit verbesserter Reistextur auf den Markt, im April folgte „Seven Select Sumgyeol Whole Bread“. Das Brot überschritt innerhalb von drei Wochen 100.000 verkaufte Einheiten. CU stärkt ebenfalls Menüs, die Instant-Ramen-Kocher nutzen. Das im vergangenen Monat eingeführte „Mijeongdang Instant Tteokbokki“ verkaufte sich binnen eines Monats mehr als 30.000 Mal. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Repas prêts en supérette: Seven-Eleven et CU intensifient la concurrence face aux prix élevés",
+        "excerpt": "Avec la hausse des prix, davantage de consommateurs se nourrissent en supérette; Seven-Eleven et CU renforcent le 10 mai les repas sains et les menus instantanés.",
+        "body": "Alors que la hausse des prix rend les repas à l’extérieur plus coûteux, davantage de consommateurs se tournent vers les supérettes pour se nourrir, poussant le secteur à renforcer ses repas prêts à consommer. Seven-Eleven a annoncé le 10 mai le lancement de la marque de repas santé BalanSpoon. Cette initiative répond à l’ancrage des repas de supérette dans l’alimentation quotidienne des jeunes et des employés de bureau. Le nom traduit la tendance de consommation axée sur la santé et signifie « une cuillerée saine pour moi ». Seven-Eleven a désigné les produits de boulangerie, les gimbaps, les sandwichs et d’autres repas rapides comme cinq catégories prioritaires afin d’améliorer leur compétitivité. En mars, l’enseigne a lancé un gimbap triangulaire avec une meilleure texture de riz, puis en avril le « Seven Select Sumgyeol Whole Bread », dont les ventes cumulées ont dépassé 100.000 unités en trois semaines. CU renforce aussi ses menus utilisant des cuiseurs de ramen instantané. Son « Mijeongdang Instant Tteokbokki », lancé le mois dernier, a dépassé 30.000 unités vendues en un mois. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "اشتداد منافسة الوجبات الجاهزة في المتاجر مع الغلاء وSeven-Eleven وCU تعززان العروض",
+        "excerpt": "مع ارتفاع الأسعار واتجاه مزيد من المستهلكين إلى متاجر الراحة لتأمين وجباتهم، عززت Seven-Eleven وCU في 10 مايو الوجبات الصحية وقوائم الطهي الفوري.",
+        "body": "مع ارتفاع الأسعار وتزايد عبء تناول الطعام خارج المنزل، يتجه مزيد من المستهلكين إلى متاجر الراحة لتأمين وجباتهم، ما يدفع القطاع إلى تعزيز قدرته التنافسية في الوجبات الجاهزة. أعلنت Seven-Eleven في 10 مايو أنها ستطرح علامة الوجبات الصحية الجاهزة BalanSpoon. وتأتي الخطوة بعدما أصبحت وجبات متاجر الراحة طعاما يوميا للشباب والموظفين. ويعكس اسم العلامة اتجاها استهلاكيا متناميا يركز على الصحة، ويحمل معنى «ملعقة صحية من أجلي». وحددت Seven-Eleven منتجات المخبوزات وأنواع الكيمباب والسندويشات وغيرها من الوجبات السريعة ضمن خمس فئات رئيسية لتعزيز قوة المنتجات. في مارس طرحت كيمبابا مثلثا بتحسين في قوام الأرز، ثم قدمت في أبريل «Seven Select Sumgyeol Whole Bread»، الذي تجاوزت مبيعاته التراكمية 100 ألف وحدة خلال ثلاثة أسابيع. كما تعزز CU القوائم التي تستخدم أجهزة طهي الرامن الفوري. وحقق «Mijeongdang Instant Tteokbokki»، المطروح الشهر الماضي، أكثر من 30 ألف وحدة مباعة خلال شهر. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "महंगाई में सुविधा स्टोर भोजन की होड़ तेज, Seven-Eleven और CU ने मेन्यू मजबूत किए",
+        "excerpt": "ऊंची कीमतों के बीच अधिक लोग सुविधा स्टोर में भोजन कर रहे हैं; 10 मई को Seven-Eleven और CU ने स्वास्थ्यकर तैयार भोजन और इंस्टेंट कुकिंग मेन्यू मजबूत किए।",
+        "body": "महंगाई से बाहर खाना महंगा पड़ने लगा है, इसलिए अधिक उपभोक्ता रोजमर्रा का भोजन सुविधा स्टोर से हल कर रहे हैं और उद्योग तैयार भोजन की प्रतिस्पर्धा बढ़ा रहा है। Seven-Eleven ने 10 मई को कहा कि वह स्वास्थ्य-केंद्रित सुविधा भोजन ब्रांड BalanSpoon पेश करेगी। यह कदम इसलिए है क्योंकि सुविधा स्टोर के भोजन युवा ग्राहकों और कार्यालय कर्मचारियों के दैनिक भोजन के रूप में स्थापित हो रहे हैं। ब्रांड नाम में स्वास्थ्य को महत्व देने वाली बढ़ती उपभोक्ता प्रवृत्ति को शामिल किया गया है और इसका अर्थ “मेरे लिए स्वास्थ्य की एक चम्मच” है। Seven-Eleven ने बेकरी, गिम्बाप, सैंडविच और अन्य तैयार भोजन को पांच प्रमुख श्रेणियों में रखकर उत्पाद प्रतिस्पर्धा मजबूत की है। मार्च में उसने बेहतर चावल बनावट वाला त्रिकोण गिम्बाप लॉन्च किया और अप्रैल में “Seven Select Sumgyeol Whole Bread” पेश किया। यह ब्रेड लॉन्च के तीन सप्ताह में 100,000 इकाइयों की संचयी बिक्री पार कर गई। CU भी इंस्टेंट रेमन कुकर वाले मेन्यू बढ़ा रही है। पिछले महीने लॉन्च “Mijeongdang Instant Tteokbokki” ने एक महीने में 30,000 से अधिक इकाइयों की बिक्री दर्ज की। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Persaingan Makanan Praktis Minimarket Memanas Saat Harga Tinggi Dorong Permintaan",
+        "excerpt": "Saat harga tinggi membuat makin banyak orang makan di minimarket, Seven-Eleven dan CU pada 10 Mei memperkuat makanan sehat praktis dan menu masak instan.",
+        "body": "Ketika harga tinggi membuat makan di luar semakin membebani, lebih banyak konsumen memilih minimarket untuk memenuhi kebutuhan makan, sehingga industri memperkuat daya saing makanan praktis. Seven-Eleven menyatakan pada 10 Mei akan meluncurkan merek makanan sehat praktis BalanSpoon. Langkah ini diambil karena makanan minimarket telah menjadi santapan sehari-hari bagi anak muda dan pekerja kantoran. Nama merek tersebut mencerminkan tren konsumsi yang makin menekankan kesehatan dan bermakna “sesendok sehat untuk saya”. Seven-Eleven menetapkan makanan praktis seperti produk roti, gimbap, sandwich, dan lainnya sebagai lima kategori utama untuk meningkatkan kekuatan produk. Pada Maret perusahaan meluncurkan gimbap segitiga dengan tekstur nasi yang diperbaiki, lalu pada April menghadirkan “Seven Select Sumgyeol Whole Bread”. Roti itu melampaui penjualan kumulatif 100.000 unit dalam tiga minggu sejak peluncuran. CU juga memperkuat menu yang memakai alat masak ramen instan. “Mijeongdang Instant Tteokbokki” yang diluncurkan bulan lalu terjual lebih dari 30.000 unit dalam satu bulan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "c5f622240c4f",
     "slug": "홈플러스-37개-점포-영업-잠정-중단-297142",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Vila Tak Terjual Terancam Pajak Besar, Pasokan Hunian Terjangkau Dikhawatirkan Turun",
         "excerpt": "Pengembang kecil vila baru menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won setelah gagal menjual unit, memicu kekhawatiran atas pasokan hunian terjangkau.",
         "body": "Pengembang kecil vila menghadapi risiko tagihan tambahan pajak akuisisi senilai ratusan juta won setelah gagal menjual vila yang baru dibangun. Menurut laporan asli, sebagian pengembang dengan unit yang tidak terjual mengalami tekanan keuangan lebih besar karena beban pajak ikut bertambah. Vila selama ini menjadi pilihan hunian dengan hambatan masuk lebih rendah dibanding apartemen dan berperan sebagai jembatan bagi rumah tangga biasa. Jika beban para penyedia pasokan ini meningkat, muncul kekhawatiran bahwa pasokan baru dapat berkurang. Pasar mencermati apakah kegagalan penjualan vila baru akan melemahkan dasar pasokan hunian terjangkau. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "d3892fbbe7d2",
-    "slug": "고물가에-편의점-간편식-경쟁-격화건강식까지-확대-905163",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T08:27:27.514Z",
-    "updatedAt": "2026-05-10T08:27:27.514Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892144/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892144/1",
-    "titleFingerprint": "24cec00061e62cf31acf71098d0d1009c4db0d1f",
-    "dedupKeys": [
-      "d3892fbbe7d2ae55de6539cb4351fbe5360c4419",
-      "24cec00061e62cf31acf71098d0d1009c4db0d1f",
-      "6c13e1dc96785df2c3ec84466c8eb6eddbfb912e"
-    ],
-    "imageUrl": "/images/articles/d3892fbbe7d2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고물가 속 편의점 간편식 경쟁 격화, 세븐일레븐 건강식 브랜드 확대",
-        "excerpt": "고물가로 편의점에서 끼니를 해결하는 소비자가 늘자 세븐일레븐이 10일 건강 간편식 브랜드 ‘밸런스푼’을 론칭하며 간편식 경쟁력 강화에 나섰다.",
-        "body": "고물가로 외식 부담이 커지면서 편의점 간편식을 찾는 젊은 층과 직장인이 늘고 있다. 이에 세븐일레븐은 10일 건강 간편식 브랜드 ‘밸런스푼(BalanSpoon)’을 새롭게 론칭한다고 밝혔다. 브랜드명에는 최근 확산되는 건강 중시 소비 흐름을 반영해 ‘나를 위한 건강 한 스푼’이라는 의미를 담았다. 세븐일레븐은 베이커리, 김밥류, 샌드위치 등 간편식을 5대 중점 카테고리로 정하고 상품 경쟁력을 높이고 있다. 3월에는 밥 식감을 개선한 삼각김밥을, 4월에는 ‘세븐셀렉트 숨결통식빵’을 선보였다. 이 식빵은 출시 3주 만에 누적 판매량 10만개를 넘었다. 자체 분석에서는 주택가 매출 비중이 60%로 가장 높았다. 고물가와 건강 트렌드가 맞물리며 편의점 간편식 경쟁은 더 치열해질 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Convenience Meal Race Heats Up as 7-Eleven Expands Into Healthy Options",
-        "excerpt": "As high prices push more consumers to solve meals at convenience stores, 7-Eleven said on May 10 it is launching BalanSpoon, a new healthy ready-meal brand.",
-        "body": "As high prices make dining out more burdensome, more young consumers and office workers are turning to convenience-store ready meals. 7-Eleven said on May 10 it will launch a new healthy convenience-meal brand, BalanSpoon. The name reflects the growing consumer focus on health and carries the meaning of “a healthy spoonful for myself.” 7-Eleven has selected ready-meal categories such as bakery items, gimbap and sandwiches as five key areas to strengthen product competitiveness. In March, it released triangular gimbap with improved rice texture, followed in April by Seven Select Sumgyeol whole bread. The bread surpassed cumulative sales of 100,000 units within three weeks of launch. According to the company’s own district analysis, residential areas accounted for the highest sales share at 60%. With inflation and health trends overlapping, competition in convenience-store ready meals is expected to intensify. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "物価高でコンビニ簡便食競争が激化、セブンイレブンは健康食へ拡大",
-        "excerpt": "物価高でコンビニで食事を済ませる消費者が増える中、セブンイレブンは10日、健康簡便食ブランド「BalanSpoon」を立ち上げると発表した。",
-        "body": "物価高により外食の負担が増す中、若年層や会社員の間でコンビニ簡便食を日常の食事として利用する動きが広がっている。セブンイレブンは10日、健康簡便食ブランド「BalanSpoon」を新たに立ち上げると明らかにした。ブランド名には、健康を重視する消費傾向を反映し、「自分のための健康な一さじ」という意味を込めた。セブンイレブンはベーカリー、キンパ類、サンドイッチなどの簡便食を5大重点カテゴリーに選び、商品競争力を強化している。3月には米の食感を改善した三角キンパを発売し、4月には「セブンセレクト息づかい丸ごと食パン」を投入した。この食パンは発売3週間で累計販売10万個を突破した。自社の商圏別分析では、住宅街の売上比率が60％で最も高かった。物価高と健康志向が重なり、コンビニ簡便食競争はさらに激しくなる見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "高物价推升便利店即食餐竞争，7-Eleven扩大健康餐布局",
-        "excerpt": "受高物价影响，越来越多消费者在便利店解决用餐。7-Eleven于10日表示，将推出健康即食餐品牌“BalanSpoon”，强化商品竞争力。",
-        "body": "随着高物价加重外食负担，越来越多年轻人和上班族把便利店即食餐作为日常用餐选择。7-Eleven于10日表示，将新推出健康即食餐品牌“BalanSpoon”。该品牌名称体现了近期重视健康的消费趋势，寓意“为自己的一勺健康”。7-Eleven已将烘焙、紫菜包饭、三明治等即食餐列为五大重点品类，以提升商品竞争力。3月，公司推出了改善米饭口感的三角紫菜包饭，4月又推出“Seven Select 숨결통식빵”吐司。该吐司上市三周累计销量突破10万个。根据7-Eleven按商圈进行的内部分析，住宅区销售占比最高，达到60%。在高物价和健康消费趋势叠加下，便利店即食餐竞争预计将进一步加剧。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "La inflación intensifica la competencia de comidas listas en tiendas 7-Eleven",
-        "excerpt": "Ante los altos precios, más consumidores resuelven sus comidas en tiendas de conveniencia y 7-Eleven anunció el 10 de mayo su marca saludable BalanSpoon.",
-        "body": "Con los altos precios elevando la carga de comer fuera, más jóvenes y trabajadores recurren a las comidas listas de tiendas de conveniencia como opción cotidiana. 7-Eleven anunció el 10 de mayo el lanzamiento de su nueva marca de comidas saludables, BalanSpoon. El nombre refleja la tendencia de consumo centrada en la salud y significa “una cucharada saludable para mí”. La cadena ha elegido categorías como panadería, gimbap y sándwiches como cinco áreas clave para reforzar su competitividad en comidas preparadas. En marzo lanzó gimbap triangular con mejor textura del arroz y en abril presentó el pan Seven Select Sumgyeol. Ese pan superó las 100.000 unidades vendidas en tres semanas. Según el análisis propio de la empresa por zonas comerciales, las áreas residenciales tuvieron la mayor proporción de ventas, con 60%. Con inflación y salud como factores centrales, la competencia en comidas listas de conveniencia seguirá intensificándose. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Inflação acirra disputa por refeições prontas e 7-Eleven aposta em saudáveis",
-        "excerpt": "Com preços elevados levando mais consumidores às lojas de conveniência para refeições, a 7-Eleven anunciou em 10 de maio a marca saudável BalanSpoon.",
-        "body": "Com a alta dos preços aumentando o peso de comer fora, mais jovens e trabalhadores passaram a usar refeições prontas de lojas de conveniência no dia a dia. A 7-Eleven informou em 10 de maio que lançará a nova marca de refeições saudáveis BalanSpoon. O nome acompanha a tendência recente de consumo voltada à saúde e significa “uma colherada saudável para mim”. A rede definiu itens como panificação, gimbap e sanduíches como cinco categorias prioritárias para fortalecer a competitividade dos produtos. Em março, lançou gimbap triangular com textura do arroz melhorada e, em abril, apresentou o pão Seven Select Sumgyeol. O produto ultrapassou 100 mil unidades vendidas em três semanas. Segundo análise própria por área comercial, bairros residenciais tiveram a maior fatia das vendas, com 60%. Com inflação e busca por saúde avançando juntas, a disputa por refeições prontas em lojas de conveniência tende a ficar mais intensa. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hohe Preise verschärfen Wettbewerb um Fertiggerichte in Convenience-Stores",
-        "excerpt": "Weil hohe Preise mehr Verbraucher zu Mahlzeiten aus Convenience-Stores treiben, kündigte 7-Eleven am 10. Mai die gesunde Fertiggerichtmarke BalanSpoon an.",
-        "body": "Da hohe Preise Restaurantbesuche stärker belasten, greifen mehr junge Menschen und Büroangestellte im Alltag zu Fertiggerichten aus Convenience-Stores. 7-Eleven teilte am 10. Mai mit, die neue Marke für gesunde Fertigmahlzeiten BalanSpoon einzuführen. Der Name spiegelt den wachsenden Gesundheitstrend unter Verbrauchern wider und bedeutet sinngemäß “ein gesunder Löffel für mich”. 7-Eleven hat Kategorien wie Backwaren, Gimbap und Sandwiches als fünf zentrale Bereiche ausgewählt, um die Produktwettbewerbsfähigkeit zu stärken. Im März brachte das Unternehmen dreieckigen Gimbap mit verbesserter Reistextur auf den Markt, im April folgte das Seven Select Sumgyeol-Brot. Dieses Brot überschritt innerhalb von drei Wochen nach Einführung 100.000 verkaufte Einheiten. Laut eigener Analyse nach Handelsgebieten entfielen mit 60% die höchsten Umsätze auf Wohngebiete. Mit hoher Inflation und Gesundheitstrend dürfte der Wettbewerb bei Convenience-Fertiggerichten weiter zunehmen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Prix élevés: la bataille des plats prêts en supérettes s’étend au sain",
-        "excerpt": "Face aux prix élevés, davantage de consommateurs se nourrissent en supérettes; 7-Eleven a annoncé le 10 mai la marque de repas sains BalanSpoon.",
-        "body": "Avec la hausse des prix qui alourdit le coût des repas à l’extérieur, davantage de jeunes et de salariés se tournent vers les plats prêts des supérettes pour leur alimentation quotidienne. 7-Eleven a annoncé le 10 mai le lancement de BalanSpoon, une nouvelle marque de repas pratiques et sains. Le nom reflète la tendance de consommation axée sur la santé et signifie “une cuillerée saine pour moi”. L’enseigne a désigné les produits de boulangerie, les gimbaps, les sandwichs et d’autres repas prêts comme cinq catégories prioritaires pour renforcer sa compétitivité. En mars, elle a lancé un gimbap triangulaire à la texture de riz améliorée, puis en avril le pain Seven Select Sumgyeol. Ce pain a dépassé 100.000 ventes cumulées en trois semaines. Selon l’analyse interne par zone commerciale, les quartiers résidentiels ont représenté la plus forte part des ventes, à 60%. La combinaison de l’inflation et de l’intérêt pour la santé devrait accentuer la concurrence. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "ارتفاع الأسعار يشعل منافسة الوجبات الجاهزة في المتاجر و7-Eleven تتوسع صحيا",
-        "excerpt": "مع ارتفاع الأسعار واتجاه مزيد من المستهلكين لتناول وجباتهم من متاجر الراحة، أعلنت 7-Eleven في 10 مايو إطلاق علامة الوجبات الصحية BalanSpoon.",
-        "body": "مع زيادة عبء تناول الطعام خارج المنزل بسبب ارتفاع الأسعار، يتجه مزيد من الشباب والموظفين إلى الوجبات الجاهزة في متاجر الراحة كخيار يومي. أعلنت 7-Eleven في 10 مايو أنها ستطلق علامة جديدة للوجبات الصحية السهلة باسم BalanSpoon. ويعكس الاسم انتشار توجه المستهلكين نحو الصحة، ويحمل معنى “ملعقة صحية من أجلي”. اختارت الشركة منتجات المخبوزات وأنواع الكيمباب والسندويشات وغيرها ضمن خمس فئات رئيسية لتعزيز تنافسية منتجات الوجبات الجاهزة. وفي مارس طرحت كيمباب مثلثا بقوام أرز محسن، ثم قدمت في أبريل خبز Seven Select Sumgyeol. وتجاوز هذا الخبز مبيعات تراكمية بلغت 100 ألف قطعة خلال ثلاثة أسابيع من إطلاقه. ووفقا لتحليل الشركة حسب المناطق التجارية، سجلت المناطق السكنية أعلى حصة مبيعات عند 60%. ومع تلاقي ارتفاع الأسعار واتجاه الصحة، من المتوقع أن تشتد المنافسة في وجبات متاجر الراحة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "महंगाई में सुविधा स्टोर रेडी मील प्रतिस्पर्धा तेज, 7-Eleven ने हेल्दी ब्रांड बढ़ाया",
-        "excerpt": "ऊंची कीमतों के कारण अधिक उपभोक्ता भोजन के लिए सुविधा स्टोर जा रहे हैं, ऐसे में 7-Eleven ने 10 मई को हेल्दी रेडी मील ब्रांड BalanSpoon लॉन्च करने की घोषणा की।",
-        "body": "ऊंची कीमतों से बाहर खाने का बोझ बढ़ने के साथ युवा उपभोक्ता और कार्यालय कर्मचारी रोजमर्रा के भोजन के लिए सुविधा स्टोर के रेडी मील चुन रहे हैं। 7-Eleven ने 10 मई को कहा कि वह हेल्दी रेडी मील ब्रांड BalanSpoon शुरू कर रही है। इस नाम में स्वास्थ्य को महत्व देने वाली उपभोक्ता प्रवृत्ति को शामिल किया गया है और इसका अर्थ “मेरे लिए स्वास्थ्य की एक चम्मच” है। कंपनी ने बेकरी, गिम्बाप और सैंडविच जैसे रेडी मील को पांच प्रमुख श्रेणियों में रखकर उत्पाद प्रतिस्पर्धा मजबूत करने की योजना बनाई है। मार्च में उसने बेहतर चावल बनावट वाला त्रिकोण गिम्बाप लॉन्च किया और अप्रैल में Seven Select Sumgyeol ब्रेड पेश की। इस ब्रेड की बिक्री लॉन्च के तीन सप्ताह में 100,000 इकाइयों से अधिक हो गई। कंपनी के अपने क्षेत्रीय विश्लेषण के अनुसार आवासीय इलाकों की बिक्री हिस्सेदारी सबसे अधिक, 60% रही। महंगाई और स्वास्थ्य रुझान के साथ सुविधा स्टोर रेडी मील की प्रतिस्पर्धा और तेज होने की संभावना है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Harga Tinggi Picu Persaingan Makanan Praktis, 7-Eleven Masuk Menu Sehat",
-        "excerpt": "Saat harga tinggi membuat lebih banyak konsumen makan dari gerai minimarket, 7-Eleven pada 10 Mei mengumumkan peluncuran merek makanan sehat BalanSpoon.",
-        "body": "Ketika harga tinggi membuat makan di luar semakin membebani, lebih banyak anak muda dan pekerja kantor menjadikan makanan praktis minimarket sebagai pilihan harian. 7-Eleven pada 10 Mei menyatakan akan meluncurkan merek makanan praktis sehat baru bernama BalanSpoon. Nama itu mencerminkan tren konsumen yang makin memperhatikan kesehatan dan bermakna “satu sendok sehat untuk diri sendiri”. 7-Eleven menetapkan makanan praktis seperti produk roti, gimbap, dan sandwich sebagai lima kategori utama untuk memperkuat daya saing produk. Pada Maret, perusahaan merilis gimbap segitiga dengan tekstur nasi yang diperbaiki, lalu pada April memperkenalkan roti Seven Select Sumgyeol. Roti itu melampaui penjualan kumulatif 100.000 unit dalam tiga minggu sejak peluncuran. Menurut analisis internal berdasarkan area dagang, kawasan perumahan mencatat porsi penjualan tertinggi, yaitu 60%. Dengan harga tinggi dan tren kesehatan berjalan bersamaan, persaingan makanan praktis minimarket diperkirakan makin ketat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "02406fbe1813",
-    "slug": "코스피-불장에-빚투-급증마이너스통장-하루-평균-2400억씩-불어나-356302",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T08:26:09.698Z",
-    "updatedAt": "2026-05-10T08:26:09.698Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892991/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892991/1",
-    "titleFingerprint": "ffe7fa584a1e1e82252053d239041812e7e9da4c",
-    "dedupKeys": [
-      "02406fbe181330e5f8fa900a16d550edddf58a49",
-      "ffe7fa584a1e1e82252053d239041812e7e9da4c",
-      "df0b102c5da2ffc5a35f8fb544c768908a00ad89"
-    ],
-    "imageUrl": "/images/articles/02406fbe1813.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 불장에 ‘빚투’ 확산…5대 은행 마이너스통장 잔액 40조 돌파",
-        "excerpt": "코스피 상승세와 반도체 호황 속 투자 소외 공포가 커지며 10일 금융권 기준 5대 은행 개인 마이너스통장 잔액이 40조5029억 원으로 늘었다.",
-        "body": "코스피 상승세가 이어지면서 빚을 내 투자하는 이른바 ‘빚투’가 다시 늘고 있다. 10일 금융권에 따르면 7일 기준 KB국민·신한·하나·우리·NH농협 등 5대 은행의 개인 마이너스통장 사용 잔액은 40조5029억 원으로 집계됐다. 이는 3년 3개월 만의 최대치이며, 이달 들어 하루 평균 2400억 원 가까이 증가했다. 서울 동대문구의 김정수 씨(42)는 최근 개설한 마이너스통장에서 1000만 원을 증권사 계좌로 옮겨 삼성전자와 SK하이닉스 주식을 샀다. 회사 동기들의 투자 수익 이야기에 상대적 박탈감을 느꼈기 때문이다. 반도체 호황이 코스피 상승을 이끌며 포모 심리가 확산된 영향으로 풀이된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Kospi Rally Fuels Margin-Like Borrowing as Overdraft Balances Top 40 Trillion Won",
-        "excerpt": "Amid the Kospi rally and semiconductor boom, FOMO-driven stock investing pushed personal overdraft balances at five major banks to 40.5029 trillion won as of the 7th.",
-        "body": "Borrowing to invest in stocks is rising again as the Kospi continues its climb. According to financial industry data cited on the 10th, personal overdraft account balances at KB Kookmin, Shinhan, Hana, Woori and NH NongHyup stood at 40.5029 trillion won as of the 7th. The figure marks the highest level in three years and three months, with balances increasing by nearly 240 billion won per day on average this month. Kim Jung-soo, 42, of Dongdaemun-gu, Seoul, recently transferred 10 million won from a newly opened overdraft account to a brokerage account and bought Samsung Electronics and SK hynix shares. He said he felt relative deprivation after hearing colleagues discuss stock gains. The rise is seen as linked to FOMO as the semiconductor boom keeps lifting the Kospi. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "KOSPI上昇で借入投資広がる、5大銀行のマイナス通帳残高40兆ウォン超",
-        "excerpt": "半導体好況を背景にKOSPI上昇が続く中、投資から取り残される不安が広がり、5大銀行の個人マイナス通帳残高は7日時点で40兆5029億ウォンに増えた。",
-        "body": "KOSPIの上昇が続くなか、借金をして株式に投資するいわゆる「借入投資」が再び増えている。金融業界が10日に明らかにしたところによると、7日時点でKB国民、新韓、ハナ、ウリ、NH農協の5大銀行における個人マイナス通帳の利用残高は40兆5029億ウォンだった。これは3年3カ月ぶりの高水準で、今月に入って1日平均で約2400億ウォン増えた。ソウル東大門区に住むキム・ジョンスさん（42）は最近開設したマイナス通帳から1000万ウォンを証券口座に移し、サムスン電子とSKハイニックス株を購入した。同僚らの投資収益の話に相対的な剥奪感を覚えたためだ。半導体好況がKOSPIを押し上げ、FOMO心理が広がった影響とみられる。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国KOSPI上涨带动“借钱投资”，五大银行透支账户余额突破40万亿韩元",
-        "excerpt": "在半导体景气推动KOSPI持续上涨之际，投资者错失恐惧升温，截至7日，韩国五大银行个人透支账户使用余额增至40.5029万亿韩元。",
-        "body": "随着韩国KOSPI指数持续上涨，借钱投资股票的“负债投资”再次增加。据金融圈10日消息，截至7日，KB国民、新韩、韩亚、友利、NH农协等五大银行的个人透支账户使用余额为40.5029万亿韩元。这是3年零3个月以来的最高水平，本月以来日均增加近2400亿韩元。住在首尔东大门区的金正洙（42岁）最近从新开设的透支账户中转出1000万韩元至证券账户，买入三星电子和SK海力士股票。他表示，听到公司同事不断谈论靠股票赚钱后，因相对剥夺感而动用透支资金投资。半导体景气支撑KOSPI涨势，也被认为推动了FOMO心理扩散。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "El rally del Kospi impulsa inversión con deuda y sobregiros superan 40 billones de wones",
-        "excerpt": "Con el Kospi al alza por el auge de semiconductores, el temor a quedarse fuera elevó al 7 el saldo de sobregiros personales en cinco grandes bancos a 40,5029 billones de wones.",
-        "body": "La inversión en acciones con dinero prestado vuelve a aumentar mientras el Kospi mantiene su avance. Según el sector financiero citado el día 10, al día 7 el saldo utilizado en cuentas de sobregiro personales de KB Kookmin, Shinhan, Hana, Woori y NH NongHyup llegó a 40,5029 billones de wones. Es el nivel más alto en tres años y tres meses, y este mes ha crecido cerca de 240.000 millones de wones diarios en promedio. Kim Jung-soo, de 42 años y residente en Dongdaemun-gu, Seúl, transfirió recientemente 10 millones de wones desde una cuenta de sobregiro recién abierta a una cuenta de corretaje y compró acciones de Samsung Electronics y SK hynix. Dijo que sintió privación relativa al escuchar a compañeros hablar de ganancias bursátiles. El auge de semiconductores y la subida del Kospi habrían extendido el FOMO inversor. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Alta do Kospi estimula investimento com dívida e cheque especial passa de 40 tri de won",
-        "excerpt": "Com o Kospi em alta e o boom dos semicondutores, o medo de ficar de fora levou o saldo de contas de cheque especial pessoais nos cinco grandes bancos a 40,5029 trilhões de won em 7 dias.",
-        "body": "O investimento em ações com dinheiro tomado emprestado voltou a crescer com a continuidade da alta do Kospi. Segundo o setor financeiro no dia 10, o saldo usado em contas pessoais de cheque especial no KB Kookmin, Shinhan, Hana, Woori e NH NongHyup era de 40,5029 trilhões de won no dia 7. É o maior nível em três anos e três meses, com aumento médio diário de quase 240 bilhões de won neste mês. Kim Jung-soo, 42, morador de Dongdaemun-gu, Seul, transferiu recentemente 10 milhões de won de uma conta recém-aberta para uma corretora e comprou ações da Samsung Electronics e da SK hynix. Ele disse ter sentido privação relativa ao ouvir colegas relatarem ganhos com ações. A alta do Kospi apoiada pelo boom dos semicondutores parece ter ampliado o FOMO. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Kospi-Rally treibt kreditfinanzierte Aktienkäufe: Überziehungssalden über 40 Bio. Won",
-        "excerpt": "Mit dem Kospi-Anstieg und dem Halbleiterboom wuchs die Angst, Chancen zu verpassen: Am 7. lagen private Überziehungssalden bei fünf Großbanken bei 40,5029 Billionen Won.",
-        "body": "Mit dem anhaltenden Anstieg des Kospi nimmt das Investieren mit geliehenem Geld wieder zu. Nach Angaben aus Finanzkreisen vom 10. beliefen sich die genutzten privaten Überziehungssalden bei KB Kookmin, Shinhan, Hana, Woori und NH NongHyup zum 7. auf 40,5029 Billionen Won. Das ist der höchste Stand seit drei Jahren und drei Monaten; allein in diesem Monat stiegen die Salden im Schnitt um fast 240 Milliarden Won pro Tag. Kim Jung-soo, 42, aus Dongdaemun-gu in Seoul, überwies kürzlich 10 Millionen Won aus einem neu eröffneten Überziehungskonto auf ein Depot und kaufte Aktien von Samsung Electronics und SK hynix. Er sagte, Gespräche von Kollegen über Aktiengewinne hätten bei ihm ein Gefühl relativer Benachteiligung ausgelöst. Der vom Halbleiterboom gestützte Kospi-Anstieg dürfte FOMO verstärkt haben. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le rally du Kospi relance l’investissement à crédit, les découverts dépassent 40 000 Mds de wons",
-        "excerpt": "Porté par les semi-conducteurs, le Kospi nourrit la peur de manquer le marché: au 7, les découverts personnels dans cinq grandes banques atteignaient 40 502,9 milliards de wons.",
-        "body": "L’investissement en actions avec de l’argent emprunté progresse de nouveau alors que le Kospi poursuit sa hausse. Selon le secteur financier cité le 10, le solde utilisé des comptes personnels à découvert chez KB Kookmin, Shinhan, Hana, Woori et NH NongHyup atteignait 40 502,9 milliards de wons au 7. Il s’agit du plus haut niveau depuis trois ans et trois mois, avec une hausse moyenne proche de 240 milliards de wons par jour ce mois-ci. Kim Jung-soo, 42 ans, habitant de Dongdaemun-gu à Séoul, a récemment transféré 10 millions de wons d’un compte à découvert nouvellement ouvert vers un compte de courtage pour acheter Samsung Electronics et SK hynix. Il dit avoir ressenti une privation relative en entendant ses collègues parler de gains boursiers. Le boom des semi-conducteurs et la hausse du Kospi semblent alimenter le FOMO. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "صعود كوسبي يزيد الاستثمار بالاقتراض وأرصدة السحب المكشوف تتجاوز 40 تريليون وون",
-        "excerpt": "مع استمرار صعود كوسبي بدعم ازدهار أشباه الموصلات، زاد خوف المستثمرين من فوات الفرصة، وبلغت أرصدة السحب المكشوف الشخصية في خمسة بنوك كبرى 40.5029 تريليون وون في 7 من الشهر.",
-        "body": "يتزايد مجددا الاستثمار في الأسهم بأموال مقترضة مع استمرار صعود مؤشر كوسبي. وبحسب أوساط مالية في 10 من الشهر، بلغت أرصدة الاستخدام في حسابات السحب المكشوف الشخصية لدى KB Kookmin وShinhan وHana وWoori وNH NongHyup نحو 40.5029 تريليون وون في 7 من الشهر. وهذا أعلى مستوى في 3 سنوات و3 أشهر، مع زيادة يومية تقارب في المتوسط 240 مليار وون منذ بداية الشهر. كيم جونغ سو، البالغ 42 عاما والمقيم في دونغديمون غو في سيئول، حوّل أخيرا 10 ملايين وون من حساب سحب مكشوف جديد إلى حساب وساطة واشترى أسهما في Samsung Electronics وSK hynix. وقال إنه شعر بحرمان نسبي بعدما سمع زملاءه يتحدثون عن أرباح الأسهم. ويرتبط ذلك بانتشار خوف فوات الفرصة مع دعم طفرة أشباه الموصلات لصعود كوسبي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "कोस्पी की तेजी से कर्ज लेकर निवेश बढ़ा, पांच बड़े बैंकों में ओवरड्राफ्ट 40 ट्रिलियन वॉन पार",
-        "excerpt": "सेमीकंडक्टर तेजी के बीच कोस्पी की चढ़ाई जारी रहने से निवेश से छूटने का डर बढ़ा और 7 तारीख तक पांच बड़े बैंकों में व्यक्तिगत ओवरड्राफ्ट शेष 40.5029 ट्रिलियन वॉन हो गया।",
-        "body": "कोस्पी में लगातार तेजी के साथ कर्ज लेकर शेयरों में निवेश फिर बढ़ रहा है। वित्तीय क्षेत्र के अनुसार, 10 तारीख को बताया गया कि 7 तारीख तक KB Kookmin, Shinhan, Hana, Woori और NH NongHyup जैसे पांच बड़े बैंकों में व्यक्तिगत ओवरड्राफ्ट खातों का उपयोग शेष 40.5029 ट्रिलियन वॉन था। यह 3 साल 3 महीने का उच्चतम स्तर है और इस महीने औसतन रोज करीब 240 अरब वॉन बढ़ा है। सियोल के डोंगदेमुन-गु में रहने वाले 42 वर्षीय किम जंग-सू ने हाल में खोले गए ओवरड्राफ्ट खाते से 10 मिलियन वॉन ब्रोकरेज खाते में भेजे और Samsung Electronics तथा SK hynix के शेयर खरीदे। उन्होंने कहा कि सहकर्मियों को शेयरों से कमाई की बात करते सुनकर उन्हें सापेक्ष वंचना महसूस हुई। सेमीकंडक्टर तेजी से कोस्पी चढ़ने के बीच FOMO फैलने का असर माना जा रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Reli Kospi Picu Investasi Berutang, Saldo Rekening Minus Lima Bank Tembus 40 Triliun Won",
-        "excerpt": "Saat Kospi terus naik berkat boom semikonduktor, rasa takut tertinggal mendorong saldo rekening minus pribadi di lima bank besar menjadi 40,5029 triliun won per tanggal 7.",
-        "body": "Investasi saham dengan uang pinjaman kembali meningkat seiring berlanjutnya kenaikan Kospi. Menurut kalangan keuangan pada tanggal 10, saldo penggunaan rekening minus pribadi di KB Kookmin, Shinhan, Hana, Woori, dan NH NongHyup mencapai 40,5029 triliun won per tanggal 7. Ini merupakan level tertinggi dalam 3 tahun 3 bulan, dengan kenaikan rata-rata hampir 240 miliar won per hari pada bulan ini. Kim Jung-soo, 42 tahun, warga Dongdaemun-gu, Seoul, baru-baru ini memindahkan 10 juta won dari rekening minus yang baru dibuat ke rekening sekuritas dan membeli saham Samsung Electronics serta SK hynix. Ia mengatakan merasa tertinggal setelah mendengar rekan kerjanya terus membicarakan keuntungan saham. Kenaikan Kospi yang didorong boom semikonduktor dinilai turut menyebarkan FOMO. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "b0b97a097e70",
-    "slug": "다주택-중과세-피하자5월-토지거래허가신청-하루-평균-820건-273466",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T08:24:57.034Z",
-    "updatedAt": "2026-05-10T08:24:57.034Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892622/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892622/1",
-    "titleFingerprint": "388d1bcd4ec13d5c9f3da6f853bb8aa6070240b4",
-    "dedupKeys": [
-      "b0b97a097e70a6fbac88e135c669fe9cc7fe9902",
-      "388d1bcd4ec13d5c9f3da6f853bb8aa6070240b4",
-      "e78983aa9e8cd99c057d023b26a0bd9ca2fdd437"
-    ],
-    "imageUrl": "/images/articles/b0b97a097e70.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 토지거래허가신청 5월 하루 평균 820건, 다주택 중과세 앞두고 급증",
-        "excerpt": "다주택자 양도소득세 중과가 10일부터 시행되면서 서울 25개 구의 5월 1~8일 토지거래허가신청이 하루 평균 820건으로 집계됐다.",
-        "body": "다주택자 양도소득세 중과가 10일부터 시행된 가운데 서울 25개 구의 5월 토지거래허가신청이 하루 평균 800건을 넘어섰다. 10일 새올전자민원창구에 따르면 5월 1~8일 서울에서 접수된 토지거래허가신청은 3280건으로, 공휴일과 주말을 제외하면 하루 평균 820건이다. 어린이날 전후인 4일 912건, 6일 946건이 접수됐고 8일에도 700건이 들어왔다. 지난달 서울 신청 건수는 1만208건으로 3월 8673건보다 1535건 늘었으며, 강남 3구는 1615건으로 전체의 15.8%를 차지했다. 양도세 중과 시행으로 조정대상지역 내 다주택자 세율은 최대 82.5%가 적용된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Seoul Land Transaction Permit Requests Average 820 a Day in May Before Higher Tax",
-        "excerpt": "As heavier capital gains taxes on multi-homeowners took effect on May 10, Seoul’s 25 districts recorded an average 820 land transaction permit requests per day on May 1-8.",
-        "body": "As heavier capital gains tax rules for multi-homeowners took effect on May 10, land transaction permit requests in Seoul’s 25 districts averaged more than 800 per day in May. According to the Saeol e-civil petition system on May 10, Seoul received 3,280 applications from May 1 to 8, equal to a daily average of 820 when holidays and weekends are excluded. Around Children’s Day, 912 requests were filed on May 4 and 946 on May 6, followed by 700 on May 8. Last month, Seoul logged 10,208 applications, up 1,535 from 8,673 in March. The three Gangnam districts, Seocho, Gangnam and Songpa, accounted for 1,615 cases, or 15.8% of the total. With the tax surcharge in effect, multi-homeowners in regulated areas face rates of up to 82.5%. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ソウル土地取引許可申請、5月は1日平均820件　多住宅者重課税前に増加",
-        "excerpt": "多住宅者への譲渡所得税重課が10日から施行され、ソウル25区の5月1～8日の土地取引許可申請は1日平均820件となった。",
-        "body": "多住宅者に対する譲渡所得税の重課が10日から施行される中、ソウル25区の5月の土地取引許可申請は1日平均800件を超えた。10日のセオル電子民願窓口によると、5月1～8日にソウルで受け付けられた申請は3280件で、祝日と週末を除くと1日平均820件となる。こどもの日前後では4日に912件、6日に946件が受け付けられ、8日にも700件が入った。先月のソウルの申請件数は1万208件で、3月の8673件より1535件増えた。江南3区の瑞草区、江南区、松坡区では1615件が申請され、全体の15.8%を占めた。譲渡税重課の施行により、調整対象地域内の多住宅者には最高82.5%の税率が適用される。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "首尔5月土地交易许可申请日均820件，多套房重税实施前需求集中",
-        "excerpt": "多套房持有者转让所得税重税自10日起实施，首尔25个区5月1日至8日土地交易许可申请日均达到820件。",
-        "body": "随着多套房持有者转让所得税重税自10日起实施，首尔25个区5月土地交易许可申请日均超过800件。10日据Saeol电子民愿窗口统计，5月1日至8日首尔共受理3280件土地交易许可申请，扣除公休日和周末后日均为820件。儿童节前后，4日受理912件，6日受理946件，8日也有700件。上月首尔申请量为10208件，比3月的8673件增加1535件。江南三区，即瑞草区、江南区、松坡区，共申请1615件，占总量15.8%。随着转让税重税实施，调整对象地区内多套房持有者适用税率最高为82.5%。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Seúl promedió 820 solicitudes diarias de permisos de tierra en mayo antes del recargo",
-        "excerpt": "Con el recargo del impuesto a las ganancias de capital para multipropietarios vigente desde el 10, Seúl registró 820 solicitudes diarias entre el 1 y el 8 de mayo.",
-        "body": "Mientras el recargo del impuesto a las ganancias de capital para propietarios de varias viviendas entró en vigor el 10 de mayo, las solicitudes de permisos de transacción de terrenos en los 25 distritos de Seúl superaron un promedio diario de 800 en mayo. Según la ventanilla electrónica Saeol, el 10 se habían recibido 3.280 solicitudes entre el 1 y el 8 de mayo, lo que equivale a 820 por día al excluir festivos y fines de semana. Alrededor del Día del Niño se presentaron 912 el día 4, 946 el día 6 y 700 el día 8. El mes pasado, Seúl registró 10.208 solicitudes, 1.535 más que las 8.673 de marzo. Los tres distritos de Gangnam, Seocho, Gangnam y Songpa, sumaron 1.615 casos, el 15,8% del total. Con el recargo, los multipropietarios en zonas reguladas enfrentan tasas de hasta 82,5%. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Seul teve média de 820 pedidos diários de permissão de terrenos em maio antes da sobretaxa",
-        "excerpt": "Com a sobretaxa sobre ganhos de capital para donos de múltiplas casas em vigor desde o dia 10, Seul registrou média diária de 820 pedidos entre 1 e 8 de maio.",
-        "body": "Com a sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplas moradias em vigor desde 10 de maio, os pedidos de permissão para transações de terrenos nos 25 distritos de Seul passaram de 800 por dia em média. Segundo o portal eletrônico Saeol, foram recebidos 3.280 pedidos entre 1 e 8 de maio, equivalentes a 820 por dia ao excluir feriados e fins de semana. Em torno do Dia das Crianças, houve 912 pedidos no dia 4, 946 no dia 6 e 700 no dia 8. No mês passado, Seul registrou 10.208 pedidos, 1.535 a mais que os 8.673 de março. Os três distritos de Gangnam, Seocho, Gangnam e Songpa, somaram 1.615 casos, 15,8% do total. Com a sobretaxa, donos de múltiplas casas em áreas reguladas podem ter alíquota de até 82,5%. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Seoul: Im Mai täglich 820 Anträge auf Grundstückstransaktionen vor höherer Steuer",
-        "excerpt": "Seit dem 10. gilt die höhere Kapitalertragsteuer für Mehrfachwohnungsbesitzer; in Seouls 25 Bezirken gingen vom 1. bis 8. Mai täglich 820 Anträge ein.",
-        "body": "Seit die höhere Kapitalertragsteuer für Besitzer mehrerer Wohnungen am 10. Mai in Kraft trat, lagen die Anträge auf Genehmigung von Grundstückstransaktionen in Seouls 25 Bezirken im Mai bei durchschnittlich mehr als 800 pro Tag. Nach Angaben des elektronischen Saeol-Bürgerportals vom 10. wurden vom 1. bis 8. Mai 3.280 Anträge gestellt, ohne Feiertage und Wochenenden im Schnitt 820 täglich. Rund um den Kindertag gingen am 4. Mai 912 und am 6. Mai 946 Anträge ein, am 8. Mai weitere 700. Im Vormonat verzeichnete Seoul 10.208 Anträge, 1.535 mehr als die 8.673 im März. Die drei Gangnam-Bezirke Seocho, Gangnam und Songpa machten mit 1.615 Fällen 15,8% aus. Mit der Steuererhöhung gilt für Mehrfachwohnungsbesitzer in regulierten Gebieten ein Satz von bis zu 82,5%. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Séoul: 820 demandes quotidiennes de permis foncier en mai avant la surtaxe immobilière",
-        "excerpt": "La surtaxe sur les plus-values des multipropriétaires étant entrée en vigueur le 10, Séoul a enregistré 820 demandes par jour du 1er au 8 mai.",
-        "body": "Alors que la surtaxe sur les plus-values immobilières des propriétaires de plusieurs logements est entrée en vigueur le 10 mai, les demandes de permis de transaction foncière dans les 25 arrondissements de Séoul ont dépassé 800 par jour en moyenne en mai. Selon le guichet électronique Saeol, 3.280 demandes ont été reçues du 1er au 8 mai, soit 820 par jour hors jours fériés et week-ends. Autour de la Journée des enfants, 912 demandes ont été déposées le 4 mai, 946 le 6 mai et 700 le 8 mai. Le mois dernier, Séoul avait enregistré 10.208 demandes, soit 1.535 de plus que les 8.673 de mars. Les trois districts de Gangnam, Seocho, Gangnam et Songpa, ont totalisé 1.615 dossiers, 15,8% du total. Avec la surtaxe, les multipropriétaires en zones réglementées sont soumis à un taux pouvant atteindre 82,5%. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سيول تسجل 820 طلب تصريح يوميا لتداول الأراضي في مايو قبل ضريبة تعدد المنازل",
-        "excerpt": "مع بدء تطبيق ضريبة أرباح رأسمالية مشددة على مالكي المنازل المتعددة في 10 مايو، سجلت أحياء سيول الـ25 متوسط 820 طلبا يوميا بين 1 و8 مايو.",
-        "body": "مع دخول ضريبة أرباح رأسمالية مشددة على مالكي المنازل المتعددة حيز التنفيذ في 10 مايو، تجاوز متوسط طلبات تصاريح تداول الأراضي في أحياء سيول الـ25 مستوى 800 طلب يوميا في مايو. ووفقا لبوابة سايول الإلكترونية للشكاوى المدنية في 10 مايو، تم تلقي 3280 طلبا في سيول بين 1 و8 مايو، أي 820 طلبا يوميا بعد استبعاد العطلات وعطلات نهاية الأسبوع. وحول يوم الطفل، سُجل 912 طلبا في 4 مايو و946 طلبا في 6 مايو، ثم 700 طلب في 8 مايو. وفي الشهر الماضي بلغ عدد الطلبات في سيول 10208، بزيادة 1535 عن 8673 طلبا في مارس. وسجلت مناطق غانغنام الثلاث، سوتشو وغانغنام وسونغبا، 1615 طلبا بما يعادل 15.8% من الإجمالي. ومع تطبيق الضريبة، تصل النسبة على مالكي المنازل المتعددة في المناطق الخاضعة للتنظيم إلى 82.5%. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सियोल में मई में भूमि लेनदेन परमिट आवेदन रोजाना 820, बहु-घर कर से पहले उछाल",
-        "excerpt": "बहु-घर मालिकों पर पूंजीगत लाभ कर की अतिरिक्त दर 10 मई से लागू होने के साथ, सियोल के 25 जिलों में 1-8 मई तक रोजाना औसतन 820 आवेदन दर्ज हुए।",
-        "body": "बहु-घर मालिकों पर पूंजीगत लाभ कर की अतिरिक्त दर 10 मई से लागू होने के बीच, सियोल के 25 जिलों में मई में भूमि लेनदेन परमिट आवेदनों का दैनिक औसत 800 से ऊपर रहा। 10 मई को Saeol इलेक्ट्रॉनिक नागरिक सेवा विंडो के अनुसार, 1 से 8 मई तक सियोल में 3280 आवेदन मिले, जो सार्वजनिक छुट्टियों और सप्ताहांत को छोड़कर रोजाना औसतन 820 हैं। बाल दिवस के आसपास 4 मई को 912, 6 मई को 946 और 8 मई को 700 आवेदन दर्ज हुए। पिछले महीने सियोल में 10208 आवेदन आए, जो मार्च के 8673 से 1535 अधिक थे। गंगनम के तीन जिलों, सेचो, गंगनम और सोंगपा, में 1615 आवेदन आए, जो कुल का 15.8% है। कर अतिरिक्त दर लागू होने के बाद विनियमित क्षेत्रों में बहु-घर मालिकों पर अधिकतम 82.5% दर लागू होती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Seoul Catat 820 Permohonan Izin Transaksi Tanah per Hari pada Mei Jelang Pajak Tinggi",
-        "excerpt": "Saat pajak capital gain tambahan bagi pemilik banyak rumah berlaku mulai 10 Mei, 25 distrik Seoul mencatat rata-rata 820 permohonan per hari pada 1-8 Mei.",
-        "body": "Saat pajak capital gain tambahan bagi pemilik banyak rumah mulai berlaku pada 10 Mei, permohonan izin transaksi tanah di 25 distrik Seoul pada Mei melampaui rata-rata 800 per hari. Menurut portal pengaduan elektronik Saeol pada 10 Mei, Seoul menerima 3.280 permohonan dari 1 hingga 8 Mei, atau rata-rata 820 per hari jika hari libur dan akhir pekan dikecualikan. Di sekitar Hari Anak, terdapat 912 permohonan pada 4 Mei, 946 pada 6 Mei, dan 700 pada 8 Mei. Bulan lalu Seoul mencatat 10.208 permohonan, naik 1.535 dari 8.673 pada Maret. Tiga distrik Gangnam, yaitu Seocho, Gangnam, dan Songpa, mencatat 1.615 kasus atau 15,8% dari total. Dengan berlakunya pajak tambahan, pemilik banyak rumah di wilayah yang diatur dikenai tarif hingga 82,5%. Sumber: rss.donga.com"
       }
     }
   }
