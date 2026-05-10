@@ -1,5 +1,230 @@
 [
   {
+    "id": "ffe365378e1e",
+    "slug": "李대통령-세입자있는-1주택자-매도기회갭투자허용-주장-억까-364173",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T22:37:08.127Z",
+    "updatedAt": "2026-05-10T22:37:08.127Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
+    "titleFingerprint": "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
+    "dedupKeys": [
+      "ffe365378e1ef953b01bc9b63d5e4954be77169e",
+      "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
+      "86739384fdaaa6687d41b6035bcd633bce789b4d"
+    ],
+    "imageUrl": "/images/articles/ffe365378e1e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가구역 1주택자 매도 논란, 李대통령 “갭투자 허용 주장은 억까”",
+        "excerpt": "이재명 대통령은 11일 토지거래허가구역 내 세입자 있는 비거주 1주택자의 주택 매수 문제와 관련해 매도 기회 취지라고 설명하며 갭투자 허용 주장을 반박했다.",
+        "body": "이재명 대통령은 11일 정부가 토지거래허가구역 내에서 세입자가 있는 비거주 1주택자의 주택을 매수하는 경우를 둘러싼 논란에 대해 입장을 밝혔다. 그는 해당 조치가 세를 낀 1주택자에게 매도 기회를 주기 위한 취지라고 설명했다. 토지거래허가구역은 주택 거래 때 실거주 요건 등이 쟁점이 되는 지역으로, 이번 발언은 세입자가 있는 주택과 비거주 1주택자 매도 문제를 둘러싼 해석 논란 속에서 나왔다. 이 대통령은 이를 갭투자 허용으로 보는 주장은 “억까”라는 취지로 반박했다. 이번 설명은 규제지역 내 1주택자의 매도 가능성과 갭투자 논쟁에 영향을 줄 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Land Permit Zone Home Sale Row: Lee Rejects ‘Gap Investment’ Claim",
+        "excerpt": "President Lee Jae-myung said on the 11th that the measure concerning purchases of tenant-occupied homes owned by non-resident single-home owners in land transaction permit zones is meant to provide a selling opportunity, rejecting claims it allows gap investment.",
+        "body": "President Lee Jae-myung stated his position on the 11th regarding controversy over the government’s handling of purchases of tenant-occupied homes owned by non-resident single-home owners inside land transaction permit zones. He explained that the measure is intended to give single-home owners with tenants an opportunity to sell. Land transaction permit zones are areas where residential-use requirements can become central to housing deals, and the remarks came amid debate over how to interpret sales of tenant-occupied homes by non-resident single-home owners. Lee rejected the view that this amounts to permitting gap investment, calling such claims unfair attacks. The explanation is expected to affect debate over sale options for single-home owners in regulated areas and gap investment. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "土地取引許可区域の1住宅所有者売却論争、李大統領が反論",
+        "excerpt": "李在明大統領は11日、土地取引許可区域内の賃借人付き非居住1住宅所有者の住宅購入問題について、売却機会を与える趣旨だと説明し、ギャップ投資容認との主張に反論した。",
+        "body": "李在明大統領は11日、政府が土地取引許可区域内で賃借人がいる非居住1住宅所有者の住宅を購入する場合をめぐる論争について立場を示した。李大統領は、この措置は賃借人付きの1住宅所有者に売却機会を与える趣旨だと説明した。土地取引許可区域は住宅取引で実居住要件などが争点となる地域であり、今回の発言は賃借人がいる住宅と非居住1住宅所有者の売却問題をめぐる解釈論争の中で出た。李大統領は、これをギャップ投資容認と見る主張は不当な攻撃だとの趣旨で反論した。今回の説明は、規制地域内の1住宅所有者の売却可能性とギャップ投資論争に影響を与える見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "土地交易许可区一套房出售争议，李总统反驳“允许差价投资”说法",
+        "excerpt": "李在明总统11日就土地交易许可区内带租约的非居住一套房业主住宅购买问题表示，相关措施旨在提供出售机会，并反驳允许差价投资的说法。",
+        "body": "李在明总统11日就政府在土地交易许可区内处理购买带租约、非居住一套房业主住宅的争议表明立场。他解释称，该措施的宗旨是为带租约的一套房业主提供出售机会。土地交易许可区是在住宅交易中实际居住要求等可能成为焦点的地区，此次发言是在围绕带租约住宅以及非居住一套房业主出售问题的解释争议中作出的。李总统反驳称，将其视为允许差价投资的主张是不公正的攻击。此次说明预计将影响监管地区内一套房业主出售可能性以及差价投资争论。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Zona de permiso de tierras: Lee rechaza que se permita la inversión gap",
+        "excerpt": "El presidente Lee Jae-myung dijo el día 11 que la medida sobre viviendas con inquilinos de propietarios no residentes con una sola casa busca dar una oportunidad de venta, y rechazó que permita inversión gap.",
+        "body": "El presidente Lee Jae-myung fijó posición el día 11 sobre la controversia relacionada con la compra de viviendas con inquilinos pertenecientes a propietarios no residentes con una sola casa dentro de zonas sujetas a permiso de transacción de tierras. Explicó que la medida busca ofrecer una oportunidad de venta a esos propietarios. Estas zonas son áreas donde los requisitos de residencia efectiva pueden convertirse en un punto clave en las operaciones de vivienda, y sus declaraciones llegaron en medio del debate sobre cómo interpretar las ventas de casas con inquilinos por parte de propietarios no residentes con una sola vivienda. Lee rechazó que esto equivalga a permitir la inversión gap y calificó esa postura como un ataque injusto. La explicación podría influir en la discusión sobre las ventas de propietarios con una sola vivienda en áreas reguladas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Zona de permissão de terras: Lee rejeita tese de liberação do gap investment",
+        "excerpt": "O presidente Lee Jae-myung afirmou no dia 11 que a medida sobre compra de imóveis com inquilinos de proprietários não residentes com uma única casa visa dar chance de venda, rejeitando a tese de liberar gap investment.",
+        "body": "O presidente Lee Jae-myung apresentou no dia 11 sua posição sobre a controvérsia envolvendo a compra de imóveis com inquilinos pertencentes a proprietários não residentes de uma única casa em zonas de permissão para transações de terras. Ele explicou que a medida tem o objetivo de oferecer uma oportunidade de venda a proprietários de uma só moradia com inquilinos. Essas zonas são áreas em que exigências de residência efetiva podem se tornar tema central nas transações habitacionais, e a declaração ocorreu em meio a divergências sobre a interpretação da venda de imóveis alugados por proprietários não residentes com uma única casa. Lee rejeitou a visão de que isso permitiria gap investment, tratando a alegação como ataque injusto. A explicação deve influenciar o debate sobre vendas em áreas reguladas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Grundstücksgenehmigungszonen: Lee weist Vorwurf erlaubter Gap-Investments zurück",
+        "excerpt": "Präsident Lee Jae-myung sagte am 11., die Regelung zu vermieteten Wohnungen nicht ansässiger Ein-Haus-Eigentümer in Grundstückstransaktions-Genehmigungszonen solle Verkaufsmöglichkeiten schaffen, nicht Gap-Investments erlauben.",
+        "body": "Präsident Lee Jae-myung äußerte sich am 11. zu der Kontroverse über den Kauf vermieteter Wohnungen von nicht ansässigen Eigentümern mit nur einer Immobilie innerhalb von Grundstückstransaktions-Genehmigungszonen. Er erklärte, die Maßnahme solle Ein-Haus-Eigentümern mit Mietern eine Möglichkeit zum Verkauf geben. In solchen Genehmigungszonen können Anforderungen an die tatsächliche Wohnnutzung bei Immobilientransaktionen zu einem zentralen Thema werden. Die Äußerung erfolgte vor dem Hintergrund unterschiedlicher Auslegungen zum Verkauf vermieteter Wohnungen durch nicht ansässige Ein-Haus-Eigentümer. Lee wies die Darstellung zurück, dies bedeute eine Zulassung von Gap-Investments, und bezeichnete solche Behauptungen sinngemäß als unfaire Angriffe. Die Erklärung dürfte die Debatte über Verkaufsmöglichkeiten in regulierten Gebieten beeinflussen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Zones à autorisation foncière: Lee rejette l’accusation d’autoriser le gap investment",
+        "excerpt": "Le président Lee Jae-myung a déclaré le 11 que la mesure concernant l’achat de logements loués appartenant à des propriétaires non résidents d’un seul bien vise à offrir une possibilité de vente, rejetant l’idée d’une autorisation du gap investment.",
+        "body": "Le président Lee Jae-myung a pris position le 11 sur la controverse liée à l’achat de logements occupés par des locataires et détenus par des propriétaires non résidents ne possédant qu’un seul bien dans les zones soumises à autorisation de transaction foncière. Il a expliqué que la mesure vise à donner à ces propriétaires une possibilité de vendre. Dans ces zones, les exigences de résidence effective peuvent devenir un enjeu central des transactions immobilières. Ses propos interviennent alors que l’interprétation de la vente de logements loués par des propriétaires non résidents d’un seul bien fait débat. Lee a rejeté l’idée selon laquelle cela reviendrait à autoriser le gap investment, qualifiant cette affirmation d’attaque injuste. Cette clarification devrait peser sur le débat concernant les ventes dans les zones réglementées. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مناطق تصاريح تداول الأراضي: لي يرفض اتهام السماح باستثمار الفجوة",
+        "excerpt": "قال الرئيس لي جاي ميونغ في 11 إن الإجراء المتعلق بشراء منازل مؤجرة يملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي يهدف إلى إتاحة فرصة للبيع، رافضا اعتباره سماحا باستثمار الفجوة.",
+        "body": "أوضح الرئيس لي جاي ميونغ في 11 موقفه من الجدل بشأن تعامل الحكومة مع شراء منازل يسكنها مستأجرون ويملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي. وقال إن الهدف من الإجراء هو منح أصحاب المنزل الواحد الذين لديهم مستأجرون فرصة للبيع. وتعد مناطق تصاريح تداول الأراضي مناطق قد تصبح فيها شروط الإقامة الفعلية قضية رئيسية في صفقات السكن، وجاءت تصريحاته وسط خلاف حول تفسير بيع المنازل المؤجرة من قبل أصحاب منزل واحد غير مقيمين. ورفض لي الرأي القائل إن ذلك يعني السماح باستثمار الفجوة، معتبرا هذه المزاعم هجوما غير منصف. ومن المتوقع أن يؤثر هذا التوضيح في النقاش حول إمكانات البيع لأصحاب المنزل الواحد في المناطق الخاضعة للتنظيم. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "भूमि लेनदेन परमिट क्षेत्रों में एक-घर मालिकों की बिक्री पर विवाद, ली ने दावे खारिज किए",
+        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 11 तारीख को कहा कि भूमि लेनदेन परमिट क्षेत्रों में किरायेदार वाले गैर-निवासी एक-घर मालिकों के मकान की खरीद से जुड़ा कदम बिक्री का अवसर देने के लिए है, गैप निवेश की अनुमति नहीं।",
+        "body": "राष्ट्रपति ली जे-म्युंग ने 11 तारीख को भूमि लेनदेन परमिट क्षेत्रों में किरायेदार वाले, गैर-निवासी एक-घर मालिकों के मकान की खरीद को लेकर उठे विवाद पर अपना रुख स्पष्ट किया। उन्होंने कहा कि इस कदम का उद्देश्य किरायेदार वाले एक-घर मालिकों को बिक्री का अवसर देना है। भूमि लेनदेन परमिट क्षेत्र ऐसे इलाके हैं जहां आवास सौदों में वास्तविक निवास की शर्तें मुद्दा बन सकती हैं, और यह बयान किरायेदार वाले मकानों तथा गैर-निवासी एक-घर मालिकों की बिक्री से जुड़ी व्याख्या पर बहस के बीच आया। ली ने इस दावे को खारिज किया कि यह गैप निवेश की अनुमति है, और इसे अनुचित हमला बताया। यह स्पष्टीकरण विनियमित क्षेत्रों में एक-घर मालिकों की बिक्री संभावना और गैप निवेश बहस को प्रभावित कर सकता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Zona Izin Transaksi Tanah: Lee Tolak Klaim Pemerintah Izinkan Gap Investment",
+        "excerpt": "Presiden Lee Jae-myung pada 11 menyatakan kebijakan terkait pembelian rumah berpenyewa milik pemilik satu rumah nonpenghuni di zona izin transaksi tanah bertujuan memberi kesempatan menjual, bukan mengizinkan gap investment.",
+        "body": "Presiden Lee Jae-myung pada 11 menyampaikan sikapnya atas kontroversi mengenai pembelian rumah yang memiliki penyewa dan dimiliki oleh pemilik satu rumah nonpenghuni di dalam zona izin transaksi tanah. Ia menjelaskan bahwa langkah tersebut dimaksudkan untuk memberi kesempatan menjual kepada pemilik satu rumah yang masih memiliki penyewa. Zona izin transaksi tanah adalah wilayah tempat syarat hunian nyata dapat menjadi isu dalam transaksi rumah, dan pernyataan ini muncul di tengah perdebatan tafsir soal rumah berpenyewa serta penjualan oleh pemilik satu rumah nonpenghuni. Lee menolak pandangan bahwa hal itu berarti mengizinkan gap investment, dengan menyebut klaim tersebut sebagai serangan yang tidak adil. Penjelasan ini diperkirakan memengaruhi perdebatan tentang peluang penjualan pemilik satu rumah di wilayah regulasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b6fd073be5ef",
+    "slug": "현장in-계속되는-중고차의-골목-무단점령중동전-수출차질-여파-741771",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T22:36:03.719Z",
+    "updatedAt": "2026-05-10T22:36:03.719Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136700065",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136700065",
+    "titleFingerprint": "01802bcc77f25e9a0d385d36cb82378591218407",
+    "dedupKeys": [
+      "b6fd073be5effb6c1aff0a70023ff9c91f927113",
+      "01802bcc77f25e9a0d385d36cb82378591218407",
+      "ac50f7f04a7a8547e44a73d7c68aac0cf91a0537"
+    ],
+    "imageUrl": "/images/articles/b6fd073be5ef.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중고차 골목 무단점령 계속…인천 옥련동 꽃게거리, 중동전 수출차질 여파",
+        "excerpt": "지난 8일 인천 연수구 옥련동 꽃게거리에서 중고차가 골목을 계속 무단 점령하는 상황이 확인됐고, 중동전 여파로 수출 차질이 배경으로 지목됐다.",
+        "body": "지난 8일 인천시 연수구 옥련동 꽃게거리에서 중고차들이 골목을 무단으로 점령하는 상황이 계속되고 있는 것으로 전해졌다. 연합뉴스는 현장 보도를 통해 이 문제가 중동전 여파로 수출 차량 이동에 차질이 생긴 것과 맞물려 나타난 상황이라고 전했다. 공개된 요약에는 차량 대수나 단속 결과 등 구체적인 수치는 제시되지 않았다. 골목 점유가 이어지면 지역 상권과 보행·차량 통행에 불편이 커질 수 있어 향후 현장 관리와 수출 차질 해소 여부가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Used Cars Keep Occupying Incheon Alley as Middle East War Disrupts Exports",
+        "excerpt": "On May 8, used cars were found continuing to occupy an alley in Okryeon-dong’s Crab Street in Yeonsu-gu, Incheon, with export disruptions linked to the Middle East war cited as the backdrop.",
+        "body": "On May 8, used cars were reported to be continuing their unauthorized occupation of an alley on Crab Street in Okryeon-dong, Yeonsu-gu, Incheon. Yonhap News said in an on-site report that the situation is connected to export vehicle disruptions caused by the fallout from the Middle East war. The provided summary did not include specific figures such as the number of vehicles or enforcement results. If the alley occupation continues, inconvenience for nearby businesses, pedestrians and traffic may grow, making future site management and the resolution of export delays key points to watch. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "中古車が路地を無断占拠、仁川・玉蓮洞カニ通りで中東戦争の輸出支障が影響",
+        "excerpt": "5月8日、仁川市延寿区玉蓮洞のカニ通りで中古車が路地を無断占拠し続ける状況が確認され、中東戦争による輸出支障が背景に挙げられた。",
+        "body": "5月8日、仁川市延寿区玉蓮洞のカニ通りで、中古車が路地を無断で占拠する状況が続いていると伝えられた。聯合ニュースは現場報道で、この問題が中東戦争の影響による輸出車両の移動支障と重なって発生した状況だと報じた。公開された要約には、車両台数や取り締まり結果などの具体的な数値は示されていない。路地の占拠が続けば、地域商圏や歩行者・車両の通行に不便が広がる可能性があり、今後の現場管理と輸出支障の解消が注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "二手车持续占据仁川小巷，玉莲洞蟹街受中东战争出口受阻影响",
+        "excerpt": "5月8日，仁川市延寿区玉莲洞蟹街被发现二手车持续无授权占据小巷，中东战争造成的出口受阻被指为背景因素。",
+        "body": "5月8日，据报道，仁川市延寿区玉莲洞蟹街一带二手车持续无授权占据小巷。韩联社在现场报道中称，这一情况与中东战争影响下出口车辆流转受阻相互关联。公开摘要中未列明车辆数量、执法结果等具体数据。如果小巷占用持续，周边商圈以及行人、车辆通行的不便可能加大，因此后续现场管理以及出口受阻能否缓解将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Autos usados ocupan un callejón en Incheon por trabas exportadoras ligadas a la guerra en Oriente Medio",
+        "excerpt": "El 8 de mayo, autos usados seguían ocupando sin autorización un callejón de Crab Street, en Okryeon-dong, Yeonsu-gu, Incheon, por dificultades de exportación vinculadas a la guerra en Oriente Medio.",
+        "body": "El 8 de mayo se informó que autos usados seguían ocupando sin autorización un callejón de Crab Street, en Okryeon-dong, distrito de Yeonsu, Incheon. Yonhap News señaló en una cobertura de campo que la situación está relacionada con las dificultades para mover vehículos de exportación tras los efectos de la guerra en Oriente Medio. El resumen disponible no presentó cifras concretas, como el número de vehículos o resultados de control. Si la ocupación del callejón continúa, podrían aumentar las molestias para comercios locales, peatones y tránsito, por lo que la gestión del lugar y la solución de los retrasos exportadores serán puntos a observar. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Carros usados seguem ocupando viela em Incheon após entraves de exportação ligados à guerra no Oriente Médio",
+        "excerpt": "Em 8 de maio, carros usados continuavam ocupando sem autorização uma viela na Crab Street, em Okryeon-dong, Yeonsu-gu, Incheon, em meio a dificuldades de exportação ligadas à guerra no Oriente Médio.",
+        "body": "Em 8 de maio, foi relatado que carros usados continuavam ocupando sem autorização uma viela na Crab Street, em Okryeon-dong, distrito de Yeonsu, Incheon. A Yonhap News informou, em reportagem de campo, que a situação está ligada a dificuldades no deslocamento de veículos para exportação após os efeitos da guerra no Oriente Médio. O resumo divulgado não trouxe números específicos, como quantidade de veículos ou resultados de fiscalização. Se a ocupação da viela continuar, o incômodo para o comércio local, pedestres e tráfego pode crescer, tornando a gestão do local e a solução dos entraves de exportação pontos de atenção. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Gebrauchtwagen blockieren weiter Gasse in Incheon, Exportprobleme durch Nahostkrieg als Auslöser",
+        "excerpt": "Am 8. Mai wurde in der Crab Street in Okryeon-dong, Yeonsu-gu, Incheon, festgestellt, dass Gebrauchtwagen weiter unerlaubt eine Gasse besetzen; Exportprobleme infolge des Nahostkriegs gelten als Hintergrund.",
+        "body": "Am 8. Mai wurde berichtet, dass Gebrauchtwagen weiterhin unerlaubt eine Gasse in der Crab Street in Okryeon-dong, Yeonsu-gu, Incheon, besetzen. Yonhap News erklärte in einem Vor-Ort-Bericht, die Lage stehe im Zusammenhang mit Störungen beim Transport von Exportfahrzeugen infolge des Nahostkriegs. In der vorliegenden Zusammenfassung wurden keine konkreten Zahlen wie Fahrzeuganzahl oder Ergebnisse von Kontrollen genannt. Dauert die Besetzung der Gasse an, könnten die Belastungen für lokale Geschäfte sowie Fußgänger- und Fahrzeugverkehr zunehmen. Daher rücken die weitere Verwaltung vor Ort und die Lösung der Exportstörungen in den Fokus. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Des voitures d’occasion occupent encore une ruelle à Incheon sur fond de perturbations d’exportation liées à la guerre au Moyen-Orient",
+        "excerpt": "Le 8 mai, des voitures d’occasion continuaient d’occuper sans autorisation une ruelle de Crab Street, à Okryeon-dong, Yeonsu-gu, Incheon, dans un contexte de perturbations d’exportation liées à la guerre au Moyen-Orient.",
+        "body": "Le 8 mai, il a été rapporté que des voitures d’occasion continuaient d’occuper sans autorisation une ruelle de Crab Street, à Okryeon-dong, dans l’arrondissement de Yeonsu à Incheon. Yonhap News a indiqué dans un reportage de terrain que cette situation était liée aux difficultés de déplacement des véhicules destinés à l’exportation, survenues dans le sillage de la guerre au Moyen-Orient. Le résumé disponible ne fournit pas de chiffres précis, comme le nombre de véhicules ou les résultats de contrôles. Si l’occupation se poursuit, les désagréments pour les commerces locaux, les piétons et la circulation pourraient augmenter. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سيارات مستعملة تواصل احتلال زقاق في إنتشون وسط تعثر الصادرات بسبب حرب الشرق الأوسط",
+        "excerpt": "في 8 مايو، تبيّن أن سيارات مستعملة تواصل احتلال زقاق في شارع السلطعون بمنطقة أوكريون دونغ في يونسو غو بإنتشون، مع الإشارة إلى تعثر الصادرات بسبب حرب الشرق الأوسط كخلفية.",
+        "body": "في 8 مايو، أفيد بأن سيارات مستعملة تواصل احتلال زقاق بصورة غير مصرح بها في شارع السلطعون بمنطقة أوكريون دونغ في يونسو غو بمدينة إنتشون. وذكرت وكالة يونهاب في تقرير ميداني أن هذه الحالة مرتبطة بتعطل حركة سيارات التصدير نتيجة تداعيات حرب الشرق الأوسط. ولم يتضمن الملخص المتاح أرقاما محددة مثل عدد السيارات أو نتائج إجراءات الرقابة. وإذا استمر احتلال الزقاق، فقد تتزايد المتاعب على المتاجر المحلية وحركة المشاة والمركبات، ما يجعل إدارة الموقع مستقبلا وحل تعثر الصادرات موضع متابعة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "इंचियोन की गली में पुरानी कारों का अवैध कब्जा जारी, मध्य पूर्व युद्ध से निर्यात बाधा का असर",
+        "excerpt": "8 मई को इंचियोन के येओंसू-गु, ओक्र्योन-डोंग की क्रैब स्ट्रीट में पुरानी कारों द्वारा गली पर अवैध कब्जा जारी पाया गया, जिसकी पृष्ठभूमि में मध्य पूर्व युद्ध से जुड़ी निर्यात बाधा बताई गई।",
+        "body": "8 मई को बताया गया कि इंचियोन शहर के येओंसू-गु, ओक्र्योन-डोंग की क्रैब स्ट्रीट में पुरानी कारें एक गली पर बिना अनुमति कब्जा किए हुए हैं और यह स्थिति जारी है। योनहाप न्यूज ने अपनी स्थल रिपोर्ट में कहा कि यह मामला मध्य पूर्व युद्ध के प्रभाव से निर्यात वाहनों की आवाजाही में आई बाधा से जुड़ा है। उपलब्ध सारांश में वाहनों की संख्या या प्रवर्तन परिणाम जैसे ठोस आंकड़े नहीं दिए गए। यदि गली पर कब्जा जारी रहता है, तो स्थानीय कारोबार, पैदल यात्रियों और वाहन आवाजाही को असुविधा बढ़ सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Mobil Bekas Terus Kuasai Gang di Incheon, Imbas Hambatan Ekspor akibat Perang Timur Tengah",
+        "excerpt": "Pada 8 Mei, mobil bekas masih terlihat menguasai tanpa izin sebuah gang di Crab Street, Okryeon-dong, Yeonsu-gu, Incheon, dengan hambatan ekspor akibat perang Timur Tengah disebut sebagai latar belakang.",
+        "body": "Pada 8 Mei, dilaporkan bahwa mobil bekas terus menguasai tanpa izin sebuah gang di Crab Street, Okryeon-dong, Yeonsu-gu, Incheon. Yonhap News dalam laporan lapangan menyebut situasi ini berkaitan dengan terganggunya perpindahan kendaraan ekspor akibat dampak perang Timur Tengah. Ringkasan yang tersedia tidak memuat angka spesifik seperti jumlah kendaraan atau hasil penertiban. Jika penguasaan gang berlanjut, ketidaknyamanan bagi kawasan usaha setempat, pejalan kaki, dan lalu lintas kendaraan dapat meningkat, sehingga pengelolaan lokasi dan penyelesaian hambatan ekspor menjadi hal yang perlu diperhatikan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ef1b2b499062",
+    "slug": "李대통령-비거주-1주택-매도기회-검토갭투자-허용-주장은-억까-985060",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-10T22:35:02.348Z",
+    "updatedAt": "2026-05-10T22:35:02.348Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260511/133895698/1",
+    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260511/133895698/1",
+    "titleFingerprint": "d1bd884d821661a34ca08176f2c45256861bfeb1",
+    "dedupKeys": [
+      "ef1b2b499062ab60ad0572fbdbb21544a7c94404",
+      "d1bd884d821661a34ca08176f2c45256861bfeb1",
+      "250a2657edd423d30781c7d563b74ccf093acf7a"
+    ],
+    "imageUrl": "/images/articles/ef1b2b499062.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비거주 1주택 매도 예외 검토에 李대통령 “갭투자 허용 주장은 억까”",
+        "excerpt": "이재명 대통령은 11일 비거주 1주택자 토지거래허가 예외 검토가 무주택자의 사실상 갭투자 허용이라는 지적에 대해 매수인 요건과 입주 제한을 들어 반박했다.",
+        "body": "이재명 대통령은 11일 비거주 1주택자에 대한 토지거래허가 예외 방안 검토를 둘러싼 ‘무주택 갭투자 허용’ 지적에 대해 “소위 억까에 가깝다”고 밝혔다. 그는 엑스(X·구 트위터)에 관련 기사를 공유하며 국토교통부가 형평성 보장을 위해 세입자가 있는 1주택자에게도 매도 기회를 주려는 취지라고 설명했다. 앞서 김윤덕 국토교통부 장관은 전날 비거주 1주택자에 대한 예외 방안을 검토하겠다고 밝혔다. 이 대통령은 매수인을 무주택자로 한정하고, 기존 임차인의 잔여 임차기간이 끝난 뒤 입주를 허용하되 그 기간은 최대 2년을 넘지 않게 하려는 방안이라고 말했다. 그는 매수인이 2년 이내 보증금을 내고 직접 입주해야 한다는 뜻이라고 강조했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Lee Rejects Claims That Nonresident One-Home Sale Exception Allows Gap Investing",
+        "excerpt": "President Lee Jae-myung said on the 11th that criticism of a proposed land transaction permit exception for nonresident one-home owners as de facto gap investing by first-time buyers was unfair.",
+        "body": "President Lee Jae-myung said on the 11th that claims a proposed exception to land transaction permits for nonresident owners of one home would effectively allow gap investing by buyers without homes were “close to forced criticism.” Sharing an article on X, formerly Twitter, he said the Ministry of Land, Infrastructure and Transport was considering the measure to ensure fairness by giving owners of one rented home the same sale opportunity as multiple-home owners. Minister Kim Yoon-duk had said the previous day that an exception for nonresident one-home owners would be reviewed. Lee explained that buyers would be limited to those without homes and could move in only after the existing tenant’s remaining lease period, capped at two years. He stressed that the buyer must pay the deposit and move in directly within two years. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "非居住1住宅の売却例外検討、李大統領「ギャップ投資容認との主張はこじつけ」",
+        "excerpt": "李在明大統領は11日、非居住の1住宅所有者への土地取引許可例外検討が無住宅購入者の事実上のギャップ投資容認だとの指摘に反論した。",
+        "body": "李在明大統領は11日、非居住の1住宅所有者に対する土地取引許可の例外案を検討することについて、無住宅購入者の「事実上のギャップ投資容認」だとの指摘は「いわゆるこじつけに近い」と述べた。大統領はX（旧ツイッター）で関連報道を共有し、国土交通部が公平性確保のため、賃借人がいる1住宅所有者にも売却機会を与える趣旨だと説明した。前日、金潤徳国土交通部長官は非居住1住宅所有者への例外案を検討すると明らかにしていた。李大統領は、購入者を無住宅者に限定し、既存賃借人の残存賃貸期間後に入居を認めるが、その期間は最長2年を超えないようにする案だと述べた。購入者は2年以内に保証金を支払い、直接入居しなければならないという意味だと強調した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "非居住一套房出售例外审查，李总统称“放开差价投资”说法牵强",
+        "excerpt": "李在明总统11日表示，关于非居住一套房业主土地交易许可例外审查等同于允许无房买家差价投资的批评，接近强行挑刺。",
+        "body": "李在明总统11日就非居住一套房业主土地交易许可例外方案审查引发的“允许无房者差价投资”批评表示，这“接近所谓强行挑刺”。他在X（原推特）分享相关文章时说明，国土交通部是从保障公平性的角度出发，拟让有租户的一套房业主也获得出售机会。此前一天，国土交通部长官金润德曾表示，将审查针对非居住一套房业主的例外方案。李总统解释称，买方将限定为无房者，并允许其在现有承租人剩余租期结束后入住，但该期限最长不超过2年。他强调，这意味着买方必须在2年内支付保证金并直接入住。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Lee rechaza que la excepción para vender una vivienda no residente permita gap investing",
+        "excerpt": "El presidente Lee Jae-myung dijo el día 11 que es forzada la crítica de que revisar una excepción de permiso de transacción para dueños no residentes permita gap investing.",
+        "body": "El presidente Lee Jae-myung afirmó el día 11 que la crítica de que una posible excepción al permiso de transacción de tierras para propietarios no residentes de una sola vivienda permitiría de hecho el gap investing por parte de compradores sin vivienda es “cercana a una acusación forzada”. Al compartir un artículo en X, antes Twitter, explicó que el Ministerio de Tierra, Infraestructura y Transporte busca garantizar equidad y dar también a propietarios de una vivienda con inquilino una oportunidad de venta. El día anterior, el ministro Kim Yoon-duk había dicho que se revisaría una excepción para esos propietarios. Lee señaló que los compradores se limitarían a personas sin vivienda y podrían mudarse solo tras vencer el plazo restante del contrato del inquilino existente, con un máximo de dos años. Subrayó que el comprador debe pagar el depósito y ocupar directamente la vivienda dentro de dos años. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Lee rebate críticas sobre exceção para venda de uma casa por não residentes",
+        "excerpt": "O presidente Lee Jae-myung afirmou no dia 11 que é forçada a crítica de que a exceção de permissão de transação para não residentes permitiria gap investing por compradores sem casa.",
+        "body": "O presidente Lee Jae-myung disse no dia 11 que a alegação de que uma possível exceção à permissão de transação de terras para proprietários não residentes de uma única moradia permitiria, na prática, gap investing por compradores sem casa é “próxima de uma crítica forçada”. Ao compartilhar uma notícia no X, antigo Twitter, ele explicou que o Ministério da Terra, Infraestrutura e Transporte busca garantir equidade ao dar também a proprietários de uma moradia com inquilino a oportunidade de vender. No dia anterior, o ministro Kim Yoon-duk havia dito que a exceção seria analisada. Lee afirmou que os compradores seriam limitados a pessoas sem moradia e só poderiam se mudar após o período restante do contrato do inquilino existente, com limite máximo de dois anos. Ele ressaltou que o comprador deve pagar o depósito e morar diretamente no imóvel dentro de dois anos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Lee weist Vorwurf zurück, Ausnahmeregel für Nichtbewohner erlaube Gap-Investing",
+        "excerpt": "Präsident Lee Jae-myung sagte am 11., die Kritik, eine Ausnahme bei Landtransaktionsgenehmigungen für nicht wohnende Ein-Haus-Eigentümer erlaube faktisch Gap-Investing, sei erzwungen.",
+        "body": "Präsident Lee Jae-myung wies am 11. den Vorwurf zurück, die Prüfung einer Ausnahme bei Landtransaktionsgenehmigungen für nicht dort wohnende Eigentümer einer einzigen Wohnung oder eines Hauses erlaube Käufern ohne Wohneigentum faktisch Gap-Investing. Dies komme einer „erzwungenen Kritik“ nahe, sagte er. Auf X, früher Twitter, teilte er einen entsprechenden Artikel und erklärte, das Ministerium für Land, Infrastruktur und Verkehr wolle aus Gründen der Fairness auch Eigentümern einer vermieteten Einzelimmobilie eine Verkaufsmöglichkeit geben. Minister Kim Yoon-duk hatte am Vortag erklärt, eine solche Ausnahme werde geprüft. Lee sagte, Käufer würden auf Personen ohne Wohneigentum beschränkt. Einzug sei erst nach Ablauf der verbleibenden Mietzeit des bestehenden Mieters möglich, höchstens jedoch nach zwei Jahren. Der Käufer müsse innerhalb von zwei Jahren die Kaution zahlen und selbst einziehen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Lee rejette l’idée qu’une exception pour une résidence non occupée autorise le gap investing",
+        "excerpt": "Le président Lee Jae-myung a déclaré le 11 que la critique visant l’examen d’une exception au permis de transaction foncière pour les propriétaires non résidents d’un seul logement était forcée.",
+        "body": "Le président Lee Jae-myung a déclaré le 11 que l’accusation selon laquelle l’examen d’une exception au permis de transaction foncière pour les propriétaires non résidents d’un seul logement reviendrait à autoriser de fait le gap investing par des acheteurs sans logement était « proche d’une critique forcée ». En partageant un article sur X, anciennement Twitter, il a expliqué que le ministère du Territoire, des Infrastructures et des Transports cherchait à garantir l’équité en donnant aussi aux propriétaires d’un logement occupé par un locataire une possibilité de vente. La veille, le ministre Kim Yoon-duk avait annoncé l’examen d’une telle exception. Lee a précisé que les acheteurs seraient limités aux personnes sans logement et ne pourraient emménager qu’après la fin du bail restant du locataire existant, dans une limite maximale de deux ans. Il a souligné que l’acheteur devait verser le dépôt et occuper directement le logement dans les deux ans. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "لي يرفض اتهام استثناء بيع منزل غير مقيم بأنه يسمح باستثمار الفجوة",
+        "excerpt": "قال الرئيس لي جاي ميونغ في الحادي عشر إن انتقاد بحث استثناء لتصاريح معاملات الأراضي لمالكي منزل واحد غير مقيمين باعتباره سماحا فعليا باستثمار الفجوة انتقاد متكلف.",
+        "body": "قال الرئيس لي جاي ميونغ في الحادي عشر إن الزعم بأن بحث استثناء من تصاريح معاملات الأراضي لمالكي منزل واحد غير مقيمين سيعني فعليا السماح باستثمار الفجوة من قبل مشترين لا يملكون مساكن هو أمر “قريب من الانتقاد المتكلف”. وشارك على منصة إكس، تويتر سابقا، مقالا ذا صلة، موضحا أن وزارة الأراضي والبنية التحتية والنقل تدرس الإجراء لضمان الإنصاف ومنح مالكي منزل واحد فيه مستأجر فرصة للبيع أيضا. وكان الوزير كيم يون دوك قد قال في اليوم السابق إن الوزارة ستراجع استثناء لمالكي منزل واحد غير مقيمين. وأوضح لي أن المشترين سيقتصرون على من لا يملكون مساكن، وأن الانتقال للسكن لا يسمح إلا بعد انتهاء المدة المتبقية لعقد المستأجر الحالي، على ألا تتجاوز عامين. وشدد على أن المشتري يجب أن يدفع الوديعة ويسكن مباشرة خلال عامين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "गैर-निवासी एक-घर बिक्री छूट पर ली का जवाब, ‘गैप निवेश अनुमति’ दावा जबरन आलोचना",
+        "excerpt": "राष्ट्रपति ली जे-म्यंग ने 11 तारीख को कहा कि गैर-निवासी एक-घर मालिकों के लिए भूमि लेनदेन अनुमति अपवाद की समीक्षा को गैप निवेश की अनुमति बताना जबरन आलोचना है।",
+        "body": "राष्ट्रपति ली जे-म्यंग ने 11 तारीख को कहा कि गैर-निवासी एक-घर मालिकों के लिए भूमि लेनदेन अनुमति में अपवाद की समीक्षा को बिना घर वाले खरीदारों के लिए वास्तविक “गैप निवेश” अनुमति बताना “जबरन आलोचना के करीब” है। उन्होंने एक्स, पूर्व ट्विटर, पर संबंधित लेख साझा करते हुए कहा कि भूमि, अवसंरचना और परिवहन मंत्रालय समानता सुनिश्चित करने के लिए किरायेदार वाले एक-घर मालिकों को भी बिक्री का अवसर देना चाहता है। इससे एक दिन पहले मंत्री किम यून-डक ने कहा था कि ऐसे मालिकों के लिए अपवाद की समीक्षा की जाएगी। ली ने समझाया कि खरीदार केवल बिना घर वाले लोग होंगे और मौजूदा किरायेदार की बची हुई किराया अवधि के बाद ही प्रवेश कर सकेंगे, लेकिन यह अवधि अधिकतम दो साल से अधिक नहीं होगी। उन्होंने जोर दिया कि खरीदार को दो साल के भीतर जमा राशि देकर स्वयं रहना होगा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lee Bantah Pengecualian Jual Rumah Nonpenghuni Disebut Izinkan Gap Investment",
+        "excerpt": "Presiden Lee Jae-myung pada 11 hari bulan mengatakan kritik bahwa kajian pengecualian izin transaksi tanah bagi pemilik satu rumah nonpenghuni membuka gap investment adalah tuduhan yang dipaksakan.",
+        "body": "Presiden Lee Jae-myung pada 11 hari bulan mengatakan bahwa kritik atas kajian pengecualian izin transaksi tanah bagi pemilik satu rumah yang tidak dihuni, yang disebut akan secara de facto mengizinkan gap investment oleh pembeli tanpa rumah, “mendekati tuduhan yang dipaksakan”. Ia membagikan artikel terkait di X, sebelumnya Twitter, dan menjelaskan bahwa Kementerian Pertanahan, Infrastruktur, dan Transportasi mempertimbangkan langkah itu untuk menjamin keadilan dengan memberi pemilik satu rumah yang memiliki penyewa kesempatan menjual. Sehari sebelumnya, Menteri Kim Yoon-duk menyatakan pengecualian bagi pemilik satu rumah nonpenghuni akan ditinjau. Lee menjelaskan pembeli akan dibatasi pada orang tanpa rumah dan hanya boleh menempati setelah sisa masa sewa penyewa lama berakhir, dengan batas maksimal dua tahun. Ia menegaskan pembeli harus membayar deposit dan menempati langsung dalam dua tahun. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "64cb5c74a420",
     "slug": "머니톡스-격동의-하이닉스①부실기업-초일류기업으로-거듭나다-235211",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "KBIZ Gelar 83 Acara Nasional untuk Pekan UKM ke-38",
         "excerpt": "Federasi UKM Korea akan menggelar 83 acara di 17 kota dan provinsi pada 11-15 Mei untuk memperingati Pekan UKM ke-38.",
         "body": "Federasi UKM Korea, KBIZ, akan menggelar acara nasional pada 11-15 Mei untuk memperingati Pekan Usaha Kecil dan Menengah ke-38. Total 83 acara dijadwalkan berlangsung di seluruh 17 kota dan provinsi di Korea Selatan. Program ini disiapkan untuk menandai Pekan UKM dan diperkirakan menjadi kesempatan partisipasi bagi lokasi serta pihak terkait UKM di tiap wilayah. Pokok utama jadwal tahun ini adalah skala nasional dan penyelenggaraan yang tersebar secara regional. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6e799e156e00",
-    "slug": "중기중앙회-식품업-스마트공장-구축-지원업체당-최대-2억원-146458",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T14:46:57.529Z",
-    "updatedAt": "2026-05-10T14:46:57.529Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509022900030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509022900030",
-    "titleFingerprint": "7fee5956cd3cb09d82e2e063b9795d4a3544b62b",
-    "dedupKeys": [
-      "6e799e156e009f4c7423af31185ea9ed7bf278c0",
-      "7fee5956cd3cb09d82e2e063b9795d4a3544b62b",
-      "ac1a6627373f4c95d23227d42d64d28bbc05a0ef"
-    ],
-    "imageUrl": "/images/articles/6e799e156e00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "식품업 스마트공장 지원 확대, 중기중앙회·삼성전자 업체당 최대 2억원",
-        "excerpt": "중소기업중앙회와 삼성전자가 중소벤처기업부, 농림축산식품부와 함께 식품제조업 스마트공장 구축지원 사업에 참여해 업체당 최대 2억원을 지원한다.",
-        "body": "중소기업중앙회와 삼성전자는 중소벤처기업부, 농림축산식품부와 함께 식품제조업 스마트공장 구축지원 사업에 참여한다고 밝혔다. 이번 사업은 식품제조업 분야 중소기업의 스마트공장 구축을 지원하는 내용으로, 선정된 업체는 업체당 최대 2억원까지 지원받을 수 있다. 중기중앙회와 삼성전자가 정부 부처와 협력해 제조 현장의 디지털 전환을 돕는 방식이다. 식품업계 중소기업은 생산 공정 개선과 스마트 제조 기반 마련에 필요한 지원을 받을 수 있을 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Food Smart Factory Support Expands, Up to 200 Million Won per Firm",
-        "excerpt": "The Korea Federation of SMEs and Samsung Electronics will join government ministries to support smart factory projects for food manufacturers, offering up to 200 million won per company.",
-        "body": "The Korea Federation of SMEs and Samsung Electronics said they will participate with the Ministry of SMEs and Startups and the Ministry of Agriculture, Food and Rural Affairs in a support project to build smart factories for food manufacturers. The project is designed to help small and medium-sized food manufacturing companies establish smart factory systems, with selected firms eligible for up to 200 million won each. The initiative brings together the federation, Samsung Electronics and government ministries to support digital transformation at manufacturing sites. Food-sector SMEs are expected to receive assistance for improving production processes and building a smart manufacturing base. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "食品業スマート工場支援拡大、中企中央会・サムスンが最大2億ウォン",
-        "excerpt": "中小企業中央会とサムスン電子が政府省庁とともに食品製造業スマート工場構築支援事業に参加し、1社当たり最大2億ウォンを支援する。",
-        "body": "中小企業中央会とサムスン電子は、中小ベンチャー企業部、農林畜産食品部とともに、食品製造業のスマート工場構築支援事業に参加すると明らかにした。今回の事業は食品製造業分野の中小企業によるスマート工場構築を支援するもので、選定された企業は1社当たり最大2億ウォンまで支援を受けられる。中小企業中央会とサムスン電子が政府省庁と協力し、製造現場のデジタル転換を後押しする形だ。食品業界の中小企業は、生産工程の改善とスマート製造基盤の整備に必要な支援を受けられる見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "食品业智能工厂支持扩大，中企中央会和三星每企最高2亿韩元",
-        "excerpt": "韩国中小企业中央会与三星电子将同中小风险企业部、农林畜产食品部参与食品制造业智能工厂建设支持项目，每家企业最高可获2亿韩元。",
-        "body": "韩国中小企业中央会和三星电子表示，将与中小风险企业部、农林畜产食品部共同参与食品制造业智能工厂建设支持项目。该项目旨在支持食品制造领域中小企业建设智能工厂，入选企业每家最高可获得2亿韩元支持。中小企业中央会和三星电子将与政府部门合作，帮助制造现场推进数字化转型。食品行业中小企业有望获得改善生产工序、建立智能制造基础所需的支持。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Apoyo a fábricas inteligentes de alimentos: hasta 200 millones de wones por empresa",
-        "excerpt": "La Federación de Pymes de Corea y Samsung Electronics participarán con ministerios del Gobierno en un programa de apoyo a fábricas inteligentes para fabricantes de alimentos.",
-        "body": "La Federación de Pequeñas y Medianas Empresas de Corea y Samsung Electronics anunciaron que participarán, junto con el Ministerio de Pymes y Startups y el Ministerio de Agricultura, Alimentación y Asuntos Rurales, en un programa de apoyo para construir fábricas inteligentes en la industria alimentaria. El proyecto busca ayudar a pymes del sector de fabricación de alimentos a establecer sistemas de fábrica inteligente, con hasta 200 millones de wones por empresa seleccionada. La iniciativa combina la cooperación de la federación, Samsung Electronics y ministerios del Gobierno para respaldar la transformación digital en los centros de producción. Las pymes alimentarias podrán recibir apoyo para mejorar procesos y crear una base de fabricación inteligente. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Apoio a fábricas inteligentes de alimentos chega a 200 milhões de won por empresa",
-        "excerpt": "A Federação Coreana de PMEs e a Samsung Electronics participarão com ministérios do governo de um projeto de apoio à construção de fábricas inteligentes no setor alimentício.",
-        "body": "A Federação Coreana de Pequenas e Médias Empresas e a Samsung Electronics informaram que participarão, junto com o Ministério das PMEs e Startups e o Ministério da Agricultura, Alimentação e Assuntos Rurais, de um projeto de apoio à construção de fábricas inteligentes para fabricantes de alimentos. A iniciativa apoia pequenas e médias empresas do setor alimentício na implantação de sistemas de fábrica inteligente, com até 200 milhões de won por empresa selecionada. A federação e a Samsung Electronics trabalharão com órgãos do governo para ajudar a transformação digital nos locais de produção. As PMEs do setor alimentício devem receber apoio para melhorar processos produtivos e criar uma base de manufatura inteligente. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Smart-Factory-Hilfe für Lebensmittelbranche: bis zu 200 Mio. Won je Betrieb",
-        "excerpt": "Der koreanische KMU-Verband und Samsung Electronics beteiligen sich mit Ministerien an einem Förderprogramm für Smart Factories in der Lebensmittelherstellung.",
-        "body": "Der koreanische Verband kleiner und mittlerer Unternehmen und Samsung Electronics teilten mit, dass sie sich gemeinsam mit dem Ministerium für KMU und Start-ups sowie dem Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten an einem Förderprogramm zum Aufbau von Smart Factories in der Lebensmittelherstellung beteiligen. Das Projekt soll kleine und mittlere Unternehmen der Lebensmittelproduktion beim Aufbau intelligenter Fabriksysteme unterstützen; ausgewählte Betriebe können bis zu 200 Millionen Won erhalten. Verband und Samsung Electronics arbeiten dabei mit Regierungsstellen zusammen, um die digitale Transformation in Produktionsstätten zu fördern. KMU der Lebensmittelbranche sollen Unterstützung für Prozessverbesserungen und den Aufbau einer intelligenten Fertigungsbasis erhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Usines intelligentes alimentaires: jusqu’à 200 millions de wons par entreprise",
-        "excerpt": "La Fédération coréenne des PME et Samsung Electronics participeront avec des ministères à un programme de soutien aux usines intelligentes dans la fabrication alimentaire.",
-        "body": "La Fédération coréenne des petites et moyennes entreprises et Samsung Electronics ont annoncé leur participation, avec le ministère des PME et des Start-up et le ministère de l’Agriculture, de l’Alimentation et des Affaires rurales, à un programme de soutien à la construction d’usines intelligentes dans la fabrication alimentaire. Le projet vise à aider les PME du secteur à mettre en place des systèmes d’usine intelligente, avec une aide pouvant atteindre 200 millions de wons par entreprise sélectionnée. La fédération et Samsung Electronics coopéreront avec les ministères pour soutenir la transformation numérique des sites de production. Les PME alimentaires devraient recevoir un appui pour améliorer leurs procédés et établir une base de fabrication intelligente. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "دعم المصانع الذكية في صناعة الأغذية يصل إلى 200 مليون وون لكل شركة",
-        "excerpt": "يشارك اتحاد الشركات الصغيرة والمتوسطة الكوري وسامسونغ إلكترونيكس مع وزارتين حكوميتين في مشروع لدعم إنشاء مصانع ذكية لشركات تصنيع الأغذية.",
-        "body": "أعلن اتحاد الشركات الصغيرة والمتوسطة الكوري وسامسونغ إلكترونيكس أنهما سيشاركان، مع وزارة الشركات الصغيرة والمتوسطة والناشئة ووزارة الزراعة والأغذية والشؤون الريفية، في مشروع لدعم إنشاء المصانع الذكية في قطاع تصنيع الأغذية. يهدف المشروع إلى مساعدة الشركات الصغيرة والمتوسطة العاملة في تصنيع الأغذية على بناء أنظمة مصانع ذكية، مع دعم يصل إلى 200 مليون وون لكل شركة يتم اختيارها. وتأتي المبادرة عبر تعاون الاتحاد وسامسونغ إلكترونيكس مع الجهات الحكومية لدعم التحول الرقمي في مواقع التصنيع. ومن المتوقع أن تحصل شركات الأغذية الصغيرة والمتوسطة على دعم لتحسين عمليات الإنتاج وبناء قاعدة تصنيع ذكية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "खाद्य उद्योग स्मार्ट फैक्टरी सहायता, प्रति कंपनी 20 करोड़ वॉन तक समर्थन",
-        "excerpt": "कोरिया फेडरेशन ऑफ एसएमई और सैमसंग इलेक्ट्रॉनिक्स सरकारी मंत्रालयों के साथ खाद्य विनिर्माण स्मार्ट फैक्टरी निर्माण सहायता परियोजना में भाग लेंगे।",
-        "body": "कोरिया फेडरेशन ऑफ एसएमई और सैमसंग इलेक्ट्रॉनिक्स ने कहा कि वे एसएमई और स्टार्टअप मंत्रालय तथा कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय के साथ खाद्य विनिर्माण उद्योग के लिए स्मार्ट फैक्टरी निर्माण सहायता परियोजना में भाग लेंगे। यह परियोजना खाद्य विनिर्माण क्षेत्र की छोटी और मध्यम कंपनियों को स्मार्ट फैक्टरी प्रणाली स्थापित करने में मदद देने के लिए है, जिसमें चयनित कंपनियों को प्रति कंपनी अधिकतम 20 करोड़ वॉन तक सहायता मिल सकती है। फेडरेशन और सैमसंग इलेक्ट्रॉनिक्स सरकारी मंत्रालयों के साथ मिलकर विनिर्माण स्थलों के डिजिटल बदलाव को समर्थन देंगे। खाद्य क्षेत्र की एसएमई को उत्पादन प्रक्रिया सुधारने और स्मार्ट विनिर्माण आधार बनाने के लिए सहायता मिलने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Dukungan Pabrik Pintar Pangan, Hingga 200 Juta Won per Perusahaan",
-        "excerpt": "Federasi UKM Korea dan Samsung Electronics akan bergabung dengan kementerian pemerintah dalam proyek dukungan pembangunan pabrik pintar untuk industri manufaktur pangan.",
-        "body": "Federasi Usaha Kecil dan Menengah Korea dan Samsung Electronics menyatakan akan berpartisipasi bersama Kementerian UKM dan Startup serta Kementerian Pertanian, Pangan, dan Urusan Pedesaan dalam proyek dukungan pembangunan pabrik pintar untuk industri manufaktur pangan. Proyek ini ditujukan untuk membantu UKM di sektor manufaktur pangan membangun sistem pabrik pintar, dengan perusahaan terpilih dapat menerima dukungan hingga 200 juta won per perusahaan. Federasi dan Samsung Electronics akan bekerja sama dengan kementerian pemerintah untuk membantu transformasi digital di lokasi produksi. UKM sektor pangan diperkirakan mendapat dukungan untuk memperbaiki proses produksi dan membangun basis manufaktur pintar. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ad0e77da9a25",
-    "slug": "k-푸드-열풍-특허건수건강기능식품-외-제빵k-소스-급성장-238099",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T14:45:58.554Z",
-    "updatedAt": "2026-05-10T14:45:58.554Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508108800063",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508108800063",
-    "titleFingerprint": "c3e9ab6b6aaa896a32d59e7e5093dc79ae57601f",
-    "dedupKeys": [
-      "ad0e77da9a25d7c91151747760134203e68426b0",
-      "c3e9ab6b6aaa896a32d59e7e5093dc79ae57601f",
-      "3d7a05f9d97ab16c2083e3959384dca7e700f727"
-    ],
-    "imageUrl": "/images/articles/ad0e77da9a25.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K-푸드 열풍에 식품 특허 매년 5천건 이상…제빵·K-소스 성장세",
-        "excerpt": "연합뉴스에 따르면 최근 3년간 식품 분야 특허가 매년 5천건 이상 출원됐고, 국내외 K-푸드 확산 속 건강기능식품 외 제빵과 K-소스 분야가 빠르게 성장했다.",
-        "body": "최근 3년간 식품 분야 특허 출원이 매년 5천건 이상 이어진 것으로 나타났다. 연합뉴스가 전한 대전발 보도에 따르면 이 같은 흐름은 국내외에서 확산하는 K-푸드 열풍과 맞물려 식품 기술 개발이 활발해진 결과로 풀이된다. 분야별로는 건강기능식품 관련 특허가 주목되는 가운데, 제빵과 K-소스 관련 출원도 빠르게 늘어난 것으로 소개됐다. K-푸드의 관심이 특정 품목에 그치지 않고 다양한 식품군으로 확산되면서 관련 산업의 기술 경쟁도 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "K-Food Boom Pushes Food Patents Above 5,000 a Year as Bakery and K-Sauces Grow",
-        "excerpt": "Yonhap reports that food-related patent applications topped 5,000 annually over the past three years, with bakery and K-sauce filings growing quickly alongside health functional foods.",
-        "body": "Food-related patent applications have exceeded 5,000 each year over the past three years, according to a Yonhap News report from Daejeon by Kim Jun-ho. The trend reflects active food technology development as the K-food boom spreads both in Korea and overseas. While patents tied to health functional foods remain notable, applications related to bakery products and K-sauces have also grown rapidly. The report suggests interest in K-food is expanding beyond a few items into wider food categories, keeping technology competition active across the sector. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "Kフード人気で食品特許が年5千件超、製パン・Kソースも急成長",
-        "excerpt": "聯合ニュースによると、最近3年間で食品分野の特許出願は毎年5千件を超え、健康機能食品に加えて製パンやKソース分野の伸びが目立っている。",
-        "body": "最近3年間、食品分野の特許出願が毎年5千件以上に上ったことが分かった。聯合ニュースが大田発で伝えた金俊鎬記者の記事によると、こうした流れは韓国内外で広がるKフードブームと連動し、食品技術の開発が活発になっていることを示している。分野別では健康機能食品関連の特許が注目される一方、製パンやKソース関連の出願も急速に増えたという。Kフードへの関心が特定品目にとどまらず多様な食品群へ広がり、関連産業の技術競争も続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "K-食品热潮带动食品专利年超5000件，烘焙与K-酱料快速增长",
-        "excerpt": "据韩联社报道，最近3年食品领域专利申请每年超过5000件，在K-食品国内外扩散背景下，除健康功能食品外，烘焙和K-酱料增长迅速。",
-        "body": "据韩联社记者金俊镐从大田发出的报道，最近3年食品领域专利申请每年均超过5000件。报道指出，这一趋势与K-食品在韩国国内外持续扩散相呼应，显示食品技术开发日趋活跃。从领域看，健康功能食品相关专利受到关注，同时烘焙和K-酱料相关申请也被介绍为快速增长。随着K-食品关注度不再局限于少数品类，而是扩展到更多食品群，相关产业的技术竞争预计将继续。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El auge del K-food lleva las patentes alimentarias a más de 5.000 al año",
-        "excerpt": "Según Yonhap, las solicitudes de patentes alimentarias superaron las 5.000 anuales en los últimos tres años, con rápido avance de panadería y salsas K junto a alimentos funcionales.",
-        "body": "Las solicitudes de patentes en el sector alimentario superaron las 5.000 cada año durante los últimos tres años, según un reporte de Yonhap desde Daejeon firmado por Kim Jun-ho. La tendencia se vincula con la expansión del K-food dentro y fuera de Corea y con una actividad más intensa en desarrollo de tecnología alimentaria. Además de las patentes relacionadas con alimentos funcionales para la salud, el informe destaca el rápido crecimiento de solicitudes en panadería y salsas K. El interés por el K-food se extiende a más categorías, por lo que la competencia tecnológica del sector podría continuar. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Boom do K-food leva patentes de alimentos a mais de 5 mil por ano",
-        "excerpt": "Segundo a Yonhap, os pedidos de patentes em alimentos passaram de 5 mil por ano nos últimos três anos, com avanço rápido de panificação e molhos K além dos funcionais.",
-        "body": "Os pedidos de patentes no setor de alimentos superaram 5 mil por ano nos últimos três anos, segundo reportagem da Yonhap em Daejeon, assinada por Kim Jun-ho. O movimento acompanha a expansão do K-food dentro e fora da Coreia e indica maior atividade no desenvolvimento de tecnologias alimentares. Embora as patentes ligadas a alimentos funcionais para a saúde sigam em destaque, pedidos relacionados à panificação e aos molhos K também cresceram rapidamente. Com o interesse pelo K-food se espalhando por diferentes categorias, a competição tecnológica no setor deve continuar. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "K-Food-Boom treibt Lebensmittelpatente auf über 5.000 pro Jahr",
-        "excerpt": "Laut Yonhap wurden in den vergangenen drei Jahren jährlich mehr als 5.000 Lebensmittelpatente angemeldet; neben funktionellen Lebensmitteln wachsen Backwaren und K-Saucen schnell.",
-        "body": "In den vergangenen drei Jahren wurden im Lebensmittelbereich jährlich mehr als 5.000 Patentanmeldungen eingereicht, berichtet Yonhap aus Daejeon unter Berufung auf Reporter Kim Jun-ho. Der Trend steht im Zusammenhang mit der Ausbreitung des K-Food-Booms in Korea und im Ausland und zeigt eine aktive Entwicklung von Lebensmitteltechnologien. Neben Patenten für gesundheitsfunktionelle Lebensmittel nahmen auch Anmeldungen zu Backwaren und K-Saucen rasch zu. Da das Interesse an K-Food über einzelne Produkte hinaus auf verschiedene Lebensmittelgruppen übergreift, dürfte der technologische Wettbewerb in der Branche anhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’essor de la K-food porte les brevets alimentaires à plus de 5 000 par an",
-        "excerpt": "Selon Yonhap, les dépôts de brevets alimentaires ont dépassé 5 000 par an ces trois dernières années, avec une forte croissance de la boulangerie et des sauces K.",
-        "body": "Les demandes de brevets dans le secteur alimentaire ont dépassé 5 000 par an au cours des trois dernières années, selon un article de Yonhap publié depuis Daejeon par Kim Jun-ho. Cette évolution accompagne la diffusion de la K-food en Corée et à l’étranger et reflète une activité accrue dans le développement de technologies alimentaires. Les brevets liés aux aliments fonctionnels pour la santé restent visibles, tandis que les dépôts concernant la boulangerie et les sauces K progressent rapidement. L’intérêt pour la K-food s’étendant à diverses catégories, la concurrence technologique du secteur devrait se poursuivre. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "طفرة K-Food ترفع براءات الأغذية إلى أكثر من 5 آلاف سنويا",
-        "excerpt": "بحسب يونهاب، تجاوزت طلبات براءات الاختراع في قطاع الأغذية 5 آلاف طلب سنويا خلال السنوات الثلاث الأخيرة، مع نمو سريع للمخبوزات وصلصات K إلى جانب الأغذية الصحية الوظيفية.",
-        "body": "أظهرت بيانات أوردتها وكالة يونهاب في تقرير من دايجون للصحفي كيم جون-هو أن طلبات براءات الاختراع في قطاع الأغذية تجاوزت 5 آلاف طلب سنويا خلال السنوات الثلاث الأخيرة. ويرتبط هذا الاتجاه باتساع انتشار K-Food داخل كوريا وخارجها، ما يعكس نشاطا أكبر في تطوير تقنيات الأغذية. وبحسب التقرير، تحظى براءات الأغذية الصحية الوظيفية بالاهتمام، فيما تسجل طلبات المخبوزات وصلصات K نموا سريعا أيضا. ومع انتقال الاهتمام بـ K-Food إلى فئات غذائية متعددة، من المتوقع استمرار المنافسة التقنية في القطاع. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "K-Food लहर से खाद्य पेटेंट सालाना 5,000 से ऊपर, बेकरी और K-सॉस तेज",
-        "excerpt": "योनहाप के अनुसार पिछले तीन वर्षों में खाद्य क्षेत्र के पेटेंट आवेदन हर साल 5,000 से अधिक रहे, जबकि स्वास्थ्य कार्यात्मक खाद्य के साथ बेकरी और K-सॉस तेजी से बढ़े।",
-        "body": "योनहाप की दैजोन से किम जून-हो की रिपोर्ट के अनुसार पिछले तीन वर्षों में खाद्य क्षेत्र में पेटेंट आवेदन हर साल 5,000 से अधिक दर्ज किए गए। यह रुझान कोरिया और विदेशों में फैल रही K-Food लोकप्रियता के साथ खाद्य तकनीक विकास की सक्रियता को दिखाता है। स्वास्थ्य कार्यात्मक खाद्य से जुड़े पेटेंट प्रमुख रहे, लेकिन बेकरी उत्पादों और K-सॉस से संबंधित आवेदन भी तेजी से बढ़े। K-Food में रुचि कुछ उत्पादों तक सीमित न रहकर विविध खाद्य श्रेणियों में फैल रही है, जिससे संबंधित उद्योगों में तकनीकी प्रतिस्पर्धा जारी रहने की संभावना है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Tren K-Food Dorong Paten Pangan Tembus 5.000 per Tahun",
-        "excerpt": "Menurut Yonhap, pengajuan paten pangan melampaui 5.000 per tahun dalam tiga tahun terakhir, dengan pertumbuhan cepat pada bakery dan saus K selain pangan fungsional kesehatan.",
-        "body": "Pengajuan paten di bidang pangan tercatat melampaui 5.000 setiap tahun selama tiga tahun terakhir, menurut laporan Yonhap dari Daejeon oleh Kim Jun-ho. Tren ini sejalan dengan meluasnya K-food di Korea dan luar negeri, sekaligus menunjukkan aktifnya pengembangan teknologi pangan. Selain paten terkait pangan fungsional kesehatan, laporan itu menyebut pengajuan untuk produk bakery dan saus K juga tumbuh cepat. Ketertarikan pada K-food kini menyebar ke beragam kelompok pangan, sehingga persaingan teknologi di industri terkait diperkirakan terus berlanjut. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "947b11ac3237",
-    "slug": "국토장관-양도세-중과-집값-변수-중-하나지속적-공급-확대-699985",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T14:45:01.212Z",
-    "updatedAt": "2026-05-10T14:45:01.212Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510021800003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510021800003",
-    "titleFingerprint": "0dba0a59c2c0a4b41387c71ace7a983b4e420b77",
-    "dedupKeys": [
-      "947b11ac323785d0457a480371555ce942500576",
-      "0dba0a59c2c0a4b41387c71ace7a983b4e420b77",
-      "67a97239c5fa36bd83374e88088b7c3debb6f98f"
-    ],
-    "imageUrl": "/images/articles/947b11ac3237.jpg",
-    "i18n": {
-      "ko": {
-        "title": "양도세 중과 재개 우려에 국토장관 “집값 변수 중 하나…공급 확대 지속”",
-        "excerpt": "김윤덕 국토교통부 장관은 10일 양도세 중과 재개에 따른 매물 잠김 우려와 관련해 집값 변수 중 하나라며 지속적인 주택 공급 확대 방침을 밝혔다.",
-        "body": "김윤덕 국토교통부 장관은 10일 양도세 중과 재개 이후 매물 잠김 우려가 커지는 상황에 대해 “양도세 중과는 집값 변수 중 하나”라는 취지로 밝혔다. 그는 국민주권정부의 대응은 다를 것이라며 주택시장 안정을 위해 지속적으로 공급을 확대하겠다는 입장을 강조했다. 이번 발언은 양도세 중과 재개가 매도 물량 감소와 가격 불안으로 이어질 수 있다는 우려가 제기되는 가운데 나왔다. 국토부는 세제 변화만으로 시장을 판단하기보다 공급 확대 기조를 이어가겠다는 메시지를 내놓은 것으로 풀이된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "South Korea Land Minister Says Capital Gains Tax Surcharge Is One Housing Price Factor",
-        "excerpt": "Land Minister Kim Yun-deok said on the 10th that concerns over a listings freeze after the capital gains tax surcharge resumes are notable, but supply expansion will continue.",
-        "body": "South Korea’s Minister of Land, Infrastructure and Transport Kim Yun-deok said on the 10th that the resumed capital gains tax surcharge is “one of the variables” affecting home prices, amid growing concern that listings could be locked up after the measure returns. Kim stressed that the People’s Sovereignty Government would respond differently and continue expanding housing supply to stabilize the market. The remarks came as concerns have been raised that the surcharge could reduce properties for sale and add pressure to prices. The ministry’s message is that it will not judge the market by tax changes alone, but will maintain its supply-expansion stance. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "譲渡税重課再開に国土相「住宅価格の一変数…供給拡大を継続」",
-        "excerpt": "金潤徳国土交通部長官は10日、譲渡税重課再開後の売り物件減少懸念について、住宅価格の一変数だと述べ、住宅供給拡大を続ける方針を示した。",
-        "body": "金潤徳・国土交通部長官は10日、譲渡税重課の再開後に売り物件が市場に出にくくなるとの懸念が高まっている状況について、「譲渡税重課は住宅価格の変数の一つ」という趣旨で述べた。金長官は、国民主権政府の対応は異なるとし、住宅市場の安定に向けて継続的に供給を拡大する姿勢を強調した。今回の発言は、税制措置の再開が売却物件の減少や価格不安につながる可能性が指摘される中で出たものだ。国土交通部は、税制変更だけで市場を判断せず、供給拡大の基調を維持するとのメッセージを示した形だ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国国土部长谈转让税重课重启：只是房价变量之一，将持续扩供",
-        "excerpt": "韩国国土交通部长官金润德10日表示，针对转让税重课重启后房源锁定担忧，转让税只是影响房价的变量之一，政府将持续扩大住房供应。",
-        "body": "韩国国土交通部长官金润德10日就转让税重课重启后市场担心房源被锁定的情况表示，转让税重课是影响房价的变量之一。金润德强调，国民主权政府的应对将有所不同，并将为稳定住房市场持续扩大供应。上述表态是在外界担忧转让税重课重启可能导致出售房源减少、加剧价格不安的背景下作出的。韩国国土交通部传递的信息是，不会仅凭税制变化判断市场，而将继续坚持扩大住房供应的方向。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ministro surcoreano: el recargo al impuesto de plusvalías es un factor del precio de la vivienda",
-        "excerpt": "El ministro Kim Yun-deok dijo el día 10 que el recargo al impuesto de plusvalías puede influir en la vivienda, pero que el Gobierno seguirá ampliando la oferta.",
-        "body": "El ministro surcoreano de Tierra, Infraestructura y Transporte, Kim Yun-deok, dijo el día 10 que el restablecimiento del recargo al impuesto sobre plusvalías es “uno de los factores” que inciden en los precios de la vivienda, en medio de crecientes temores a que se reduzcan los inmuebles puestos a la venta. Kim subrayó que el Gobierno de Soberanía Popular responderá de forma diferente y continuará ampliando la oferta de viviendas para estabilizar el mercado. Sus declaraciones se producen mientras se advierte que la medida fiscal podría disminuir la oferta disponible y aumentar la inquietud sobre los precios. El ministerio apunta a mantener la expansión de la oferta sin evaluar el mercado solo por cambios tributarios. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Ministro sul-coreano diz que sobretaxa sobre ganho de capital é uma variável dos preços",
-        "excerpt": "Kim Yun-deok afirmou no dia 10 que a retomada da sobretaxa sobre ganhos de capital pode afetar a oferta de imóveis, mas o governo seguirá ampliando a oferta habitacional.",
-        "body": "O ministro sul-coreano da Terra, Infraestrutura e Transporte, Kim Yun-deok, disse no dia 10 que a retomada da sobretaxa sobre ganhos de capital é “uma das variáveis” que afetam os preços das moradias, em meio a crescentes preocupações de que imóveis deixem de ser colocados à venda. Kim afirmou que o Governo de Soberania Popular responderá de forma diferente e continuará ampliando a oferta habitacional para estabilizar o mercado. A declaração ocorre enquanto se levantam temores de que a medida tributária reduza os imóveis disponíveis e aumente a instabilidade dos preços. A mensagem do ministério é manter a expansão da oferta, sem avaliar o mercado apenas por mudanças fiscais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Südkoreas Bauminister: Kapitalertragsteuer-Aufschlag ist nur ein Faktor für Hauspreise",
-        "excerpt": "Minister Kim Yun-deok sagte am 10., die Sorge vor weniger Verkaufsangeboten nach Wiederaufnahme des Steueraufschlags sei groß, doch die Wohnungsversorgung werde weiter ausgebaut.",
-        "body": "Südkoreas Minister für Land, Infrastruktur und Verkehr, Kim Yun-deok, sagte am 10., der wiederaufgenommene Aufschlag auf die Kapitalertragsteuer sei “eine der Variablen” für die Entwicklung der Immobilienpreise. Damit reagierte er auf wachsende Sorgen, dass nach der Wiederaufnahme weniger Wohnungen zum Verkauf angeboten werden könnten. Kim betonte, die Regierung der Volkssouveränität werde anders reagieren und die Wohnungsversorgung zur Stabilisierung des Marktes kontinuierlich ausbauen. Die Äußerung fällt in eine Phase, in der vor einem Rückgang der Verkaufsangebote und möglicher Preisunsicherheit gewarnt wird. Das Ministerium signalisiert, den Markt nicht allein anhand steuerlicher Änderungen zu bewerten, sondern am Ausbau des Angebots festzuhalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Corée du Sud: le ministre juge la surtaxe sur les plus-values comme un facteur des prix",
-        "excerpt": "Le ministre Kim Yun-deok a déclaré le 10 que la reprise de la surtaxe sur les plus-values suscite des craintes de blocage des ventes, mais que l’offre de logements continuera d’augmenter.",
-        "body": "Le ministre sud-coréen du Territoire, des Infrastructures et des Transports, Kim Yun-deok, a déclaré le 10 que la reprise de la surtaxe sur les plus-values immobilières constitue “l’une des variables” influençant les prix des logements, alors que les inquiétudes grandissent sur un possible blocage des biens mis en vente. Kim a souligné que le Gouvernement de souveraineté populaire répondrait différemment et poursuivrait l’élargissement de l’offre de logements afin de stabiliser le marché. Ces propos interviennent alors que certains craignent une baisse des biens disponibles et une instabilité des prix. Le ministère indique ainsi qu’il ne jugera pas le marché uniquement à l’aune des changements fiscaux et maintiendra son cap d’augmentation de l’offre. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "وزير الأراضي الكوري: تشديد ضريبة الأرباح الرأسمالية أحد عوامل أسعار المساكن",
-        "excerpt": "قال الوزير كيم يون-دوك في 10 الشهر إن المخاوف من تجميد المعروض بعد استئناف تشديد ضريبة الأرباح الرأسمالية كبيرة، مؤكدا استمرار توسيع عرض المساكن.",
-        "body": "قال وزير الأراضي والبنية التحتية والنقل الكوري الجنوبي كيم يون-دوك في 10 الشهر إن استئناف تشديد ضريبة الأرباح الرأسمالية يعد “أحد المتغيرات” المؤثرة في أسعار المساكن، وذلك وسط تزايد المخاوف من امتناع الملاك عن طرح العقارات للبيع بعد عودة الإجراء. وشدد كيم على أن حكومة السيادة الشعبية ستتعامل بشكل مختلف، وستواصل توسيع عرض المساكن من أجل استقرار السوق. وجاءت التصريحات في وقت تثار فيه مخاوف من أن يؤدي تشديد الضريبة إلى تقليص المعروض للبيع وزيادة القلق بشأن الأسعار. وتؤكد رسالة الوزارة أنها لن تقيم السوق من خلال التغيرات الضريبية وحدها، بل ستواصل نهج زيادة العرض. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया के भूमि मंत्री: पूंजीगत लाभ कर अधिभार घर कीमतों का एक कारक",
-        "excerpt": "मंत्री किम यून-देओक ने 10 तारीख को कहा कि पूंजीगत लाभ कर अधिभार फिर शुरू होने से बिक्री सूची घटने की चिंता है, लेकिन आवास आपूर्ति विस्तार जारी रहेगा।",
-        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्री किम यून-देओक ने 10 तारीख को कहा कि पूंजीगत लाभ कर अधिभार की बहाली घरों की कीमतों को प्रभावित करने वाले “कारकों में से एक” है। यह टिप्पणी ऐसे समय आई जब अधिभार फिर शुरू होने के बाद बिक्री के लिए उपलब्ध मकानों के बाजार में कम आने की चिंता बढ़ रही है। किम ने कहा कि जन-संप्रभुता सरकार की प्रतिक्रिया अलग होगी और आवास बाजार को स्थिर करने के लिए आपूर्ति का विस्तार लगातार जारी रहेगा। कर उपाय के कारण बिक्री वस्तुओं में कमी और मूल्य अस्थिरता की आशंका जताई जा रही है। मंत्रालय का संकेत है कि वह बाजार को केवल कर बदलाव से नहीं आंकेगा और आपूर्ति विस्तार की नीति बनाए रखेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Menteri Pertanahan Korsel: Pajak capital gain hanya salah satu faktor harga rumah",
-        "excerpt": "Menteri Kim Yun-deok pada tanggal 10 mengatakan kekhawatiran pasokan terkunci setelah pungutan pajak capital gain kembali berlaku cukup besar, namun perluasan pasokan rumah akan berlanjut.",
-        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Korea Selatan Kim Yun-deok pada tanggal 10 mengatakan bahwa pemberlakuan kembali pungutan tambahan pajak capital gain merupakan “salah satu variabel” yang memengaruhi harga rumah. Pernyataan itu disampaikan di tengah meningkatnya kekhawatiran bahwa properti yang dijual bisa tertahan setelah aturan tersebut kembali berjalan. Kim menegaskan Pemerintah Kedaulatan Rakyat akan merespons secara berbeda dan terus memperluas pasokan perumahan untuk menstabilkan pasar. Kekhawatiran muncul bahwa kebijakan pajak itu dapat mengurangi unit yang tersedia untuk dijual dan menambah tekanan harga. Kementerian memberi pesan bahwa pasar tidak akan dinilai hanya dari perubahan pajak, sementara arah perluasan pasokan tetap dilanjutkan. Sumber: yna.co.kr"
       }
     }
   }
