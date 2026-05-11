@@ -1,5 +1,230 @@
 [
   {
+    "id": "40d05f4a53f5",
+    "slug": "공사대금채권-유동화로롯데건설-3천억원-조달-359724",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T08:46:44.226Z",
+    "updatedAt": "2026-05-11T08:46:44.226Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043430",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043430",
+    "titleFingerprint": "ce921787e3d5e32745755da693c41463c5e472c5",
+    "dedupKeys": [
+      "40d05f4a53f557d44d7b45a5971d34216fb37859",
+      "ce921787e3d5e32745755da693c41463c5e472c5",
+      "d5693d64435f2d3d73a33b8b369c41fcddbd1937"
+    ],
+    "imageUrl": "/images/articles/40d05f4a53f5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데건설, 공사대금채권 유동화 ABS로 3000억원 조달 성공",
+        "excerpt": "롯데건설은 준공 임박 사업장의 공사대금 채권을 활용한 유동화 금융상품 ABS를 자체 개발하고 AAA 신용등급 채권 발행으로 3000억원을 조달했다.",
+        "body": "롯데건설이 준공을 앞둔 사업장의 공사대금 채권을 활용해 자체 개발한 유동화 금융상품, 즉 ABS를 발행하고 3000억원의 자금을 조달했다. 이번 조달은 공사대금채권을 기초자산으로 삼아 유동화한 방식으로 진행됐으며, 발행 채권은 ‘트리플 A(AAA)’ 신용등급을 받았다. 롯데건설은 준공 임박 사업장에서 발생할 공사대금 채권을 금융상품으로 구조화해 자금 조달에 활용했다. 건설업계에서 자금 운용과 유동성 확보가 중요한 상황에서 이번 사례는 공사대금채권을 활용한 조달 방식으로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lotte E&C Raises 300 Billion Won Through ABS Backed by Construction Receivables",
+        "excerpt": "Lotte E&C developed an ABS product backed by construction payment receivables from nearly completed projects and raised 300 billion won through AAA-rated bond issuance.",
+        "body": "Lotte Engineering & Construction raised 300 billion won by issuing an asset-backed securities product it developed using construction payment receivables from projects nearing completion. The financing was structured by securitizing construction receivables as underlying assets, and the issued bonds received a Triple-A (AAA) credit rating. Lotte E&C used receivables expected from sites close to completion as the basis for the financial product. At a time when liquidity management remains important in the construction industry, the deal draws attention as a funding method using construction payment claims. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロッテ建設、工事代金債権の流動化ABSで3000億ウォン調達",
+        "excerpt": "ロッテ建設は竣工間近の事業場の工事代金債権を活用したABSを自社開発し、AAA格付けの債券発行で3000億ウォンを調達した。",
+        "body": "ロッテ建設は、竣工を控えた事業場の工事代金債権を活用し、自社開発した流動化金融商品であるABSを発行して3000億ウォンを調達した。今回の資金調達は、工事代金債権を裏付け資産として流動化する方式で行われ、発行された債券は「トリプルA（AAA）」の信用格付けを取得した。ロッテ建設は、竣工間近の現場で発生する工事代金債権を金融商品として構造化し、資金調達に活用した。建設業界で資金運用と流動性確保が重要ななか、今回の事例は工事代金債権を活用した調達手法として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "乐天建设以工程款债权证券化ABS筹资3000亿韩元",
+        "excerpt": "乐天建设自主开发以临近竣工项目工程款债权为基础的ABS，并通过发行AAA信用评级债券筹集3000亿韩元资金。",
+        "body": "乐天建设利用临近竣工项目的工程款债权，发行自主开发的资产支持证券（ABS），筹集了3000亿韩元资金。本次融资以工程款债权作为基础资产进行证券化，所发行债券获得“三A（AAA）”信用评级。乐天建设将临近竣工工地预计产生的工程款债权结构化为金融产品，并用于资金筹措。在建筑行业资金运用和流动性保障备受重视的背景下，该案例作为利用工程款债权进行融资的方式受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lotte E&C capta 300.000 millones de wones con ABS respaldados por créditos de obra",
+        "excerpt": "Lotte E&C desarrolló un ABS basado en créditos por pagos de construcción de proyectos próximos a completarse y captó 300.000 millones de wones con bonos AAA.",
+        "body": "Lotte Engineering & Construction captó 300.000 millones de wones mediante la emisión de un producto de titulización ABS desarrollado internamente y respaldado por créditos por pagos de construcción de proyectos próximos a su finalización. La financiación se realizó titulizando esos créditos como activos subyacentes, y los bonos emitidos recibieron una calificación crediticia Triple A (AAA). La compañía estructuró como producto financiero los créditos por obras esperados en sitios cercanos a la entrega y los utilizó para obtener fondos. En un contexto en el que la gestión de liquidez es clave para el sector constructor, el caso destaca como una vía de financiación basada en créditos de obra. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lotte E&C levanta 300 bilhões de won com ABS lastreado em recebíveis de obras",
+        "excerpt": "A Lotte E&C desenvolveu um ABS com recebíveis de obras próximas da conclusão e captou 300 bilhões de won por meio de emissão de títulos com rating AAA.",
+        "body": "A Lotte Engineering & Construction captou 300 bilhões de won ao emitir um produto de securitização ABS desenvolvido internamente e lastreado em recebíveis de obras de projetos próximos da conclusão. A operação foi estruturada com os recebíveis de construção como ativos subjacentes, e os títulos emitidos receberam classificação de crédito Triple A (AAA). A empresa transformou em produto financeiro os valores a receber de canteiros próximos da entrega e os utilizou para levantar recursos. Em um momento em que a gestão de caixa e a liquidez são importantes no setor de construção, a operação chama atenção como forma de captação baseada em recebíveis de obras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lotte E&C beschafft 300 Mrd. Won über ABS mit Bauzahlungsforderungen",
+        "excerpt": "Lotte E&C entwickelte ein ABS auf Basis von Bauzahlungsforderungen aus fast fertiggestellten Projekten und beschaffte 300 Mrd. Won über AAA-Anleihen.",
+        "body": "Lotte Engineering & Construction hat 300 Milliarden Won durch die Emission eines selbst entwickelten ABS-Finanzprodukts beschafft, das auf Bauzahlungsforderungen aus kurz vor der Fertigstellung stehenden Projekten basiert. Die Finanzierung erfolgte durch Verbriefung dieser Forderungen als zugrunde liegende Vermögenswerte; die ausgegebenen Anleihen erhielten ein Triple-A-Rating (AAA). Lotte E&C strukturierte erwartete Forderungen aus nahezu abgeschlossenen Baustellen als Finanzprodukt und nutzte sie zur Kapitalaufnahme. In einer Bauwirtschaft, in der Liquiditätssicherung und Finanzsteuerung wichtig sind, gilt der Fall als bemerkenswerte Finanzierungsform mit Bauzahlungsforderungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lotte E&C lève 300 milliards de wons via un ABS adossé à des créances de construction",
+        "excerpt": "Lotte E&C a développé un ABS adossé à des créances de chantiers proches de l’achèvement et levé 300 milliards de wons avec des obligations notées AAA.",
+        "body": "Lotte Engineering & Construction a levé 300 milliards de wons en émettant un produit de titrisation ABS développé en interne et adossé à des créances de paiement de construction issues de projets proches de l’achèvement. L’opération a été structurée en utilisant ces créances comme actifs sous-jacents, et les obligations émises ont obtenu la note Triple A (AAA). Lotte E&C a transformé les créances attendues sur des sites presque terminés en produit financier afin de les utiliser pour son financement. Dans un secteur de la construction où la gestion des fonds et la liquidité restent importantes, cette opération retient l’attention comme méthode de financement fondée sur les créances de construction. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "لوتيه للهندسة تجمع 300 مليار وون عبر ABS مدعومة بمستحقات البناء",
+        "excerpt": "طورت لوتيه للهندسة والإنشاءات منتجا تمويليا ABS قائما على مستحقات أعمال البناء في مشاريع تقترب من الاكتمال، وجمعت 300 مليار وون بإصدار سندات مصنفة AAA.",
+        "body": "جمعت لوتيه للهندسة والإنشاءات 300 مليار وون من خلال إصدار منتج توريق مالي من نوع ABS طورته داخليا، مستندا إلى مستحقات أعمال البناء في مشاريع تقترب من الإنجاز. تمت عملية التمويل عبر تحويل مستحقات البناء إلى أصول أساسية قابلة للتوريق، وحصلت السندات المصدرة على تصنيف ائتماني «تريبل إيه» (AAA). واستخدمت الشركة المستحقات المتوقعة من مواقع قريبة من التسليم كأساس لهيكلة المنتج المالي وجمع الأموال. وفي ظل أهمية إدارة السيولة في قطاع البناء، تبرز هذه العملية كطريقة تمويل تعتمد على مستحقات أعمال البناء. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "लोट्टे ईएंडसी ने निर्माण भुगतान दावों पर आधारित ABS से 300 अरब वॉन जुटाए",
+        "excerpt": "लोट्टे ईएंडसी ने पूर्णता के करीब परियोजनाओं के निर्माण भुगतान दावों पर आधारित ABS स्वयं विकसित किया और AAA रेटेड बॉन्ड जारी कर 300 अरब वॉन जुटाए।",
+        "body": "लोट्टे इंजीनियरिंग एंड कंस्ट्रक्शन ने पूर्णता के करीब पहुंच चुकी परियोजनाओं के निर्माण भुगतान दावों का उपयोग कर स्वयं विकसित एसेट-बैक्ड सिक्योरिटीज यानी ABS जारी किया और 300 अरब वॉन की राशि जुटाई। यह वित्तपोषण निर्माण भुगतान दावों को आधारभूत परिसंपत्ति बनाकर प्रतिभूतिकरण के रूप में किया गया, और जारी बॉन्ड को ट्रिपल ए (AAA) क्रेडिट रेटिंग मिली। कंपनी ने निकट-समाप्ति वाले कार्यस्थलों से अपेक्षित निर्माण भुगतान दावों को वित्तीय उत्पाद के रूप में संरचित कर धन जुटाने में इस्तेमाल किया। निर्माण उद्योग में तरलता और资金 प्रबंधन की अहमियत के बीच यह मामला निर्माण भुगतान दावों पर आधारित वित्तपोषण पद्धति के रूप में ध्यान आकर्षित करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lotte E&C Raup 300 Miliar Won Lewat ABS Berbasis Piutang Pembayaran Konstruksi",
+        "excerpt": "Lotte E&C mengembangkan ABS berbasis piutang pembayaran konstruksi dari proyek yang hampir selesai dan meraih 300 miliar won melalui obligasi berperingkat AAA.",
+        "body": "Lotte Engineering & Construction mengumpulkan dana 300 miliar won dengan menerbitkan produk sekuritisasi ABS yang dikembangkan sendiri, berbasis piutang pembayaran konstruksi dari proyek yang mendekati penyelesaian. Pendanaan ini dilakukan dengan menjadikan piutang konstruksi sebagai aset dasar yang disekuritisasi, dan obligasi yang diterbitkan memperoleh peringkat kredit Triple A (AAA). Lotte E&C menyusun piutang yang diharapkan muncul dari lokasi proyek hampir selesai menjadi produk keuangan untuk memperoleh dana. Di tengah pentingnya pengelolaan dana dan likuiditas di industri konstruksi, transaksi ini menarik perhatian sebagai metode pendanaan yang memanfaatkan piutang pembayaran konstruksi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "254ee1c65cdf",
+    "slug": "경매-넘어간-경기-아파트한달새-30-늘어-1000건-313983",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T08:45:37.834Z",
+    "updatedAt": "2026-05-11T08:45:37.834Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043429",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043429",
+    "titleFingerprint": "c03d547e6a29e0a0b6e4b00c85f6c98b16e3105d",
+    "dedupKeys": [
+      "254ee1c65cdf4a1e28a70513fd7a348f1163a86f",
+      "c03d547e6a29e0a0b6e4b00c85f6c98b16e3105d",
+      "f6cf4283dcecd810c4d149315fb73adbe63150e7"
+    ],
+    "imageUrl": "/images/articles/254ee1c65cdf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "경기 아파트 경매 1000건 돌파…서울 접근권도 금융 부담에 매물 증가",
+        "excerpt": "11일 직방이 법원경매정보를 분석한 결과, 서울 접근성이 좋은 경기권 아파트 경매 물건이 한 달 새 30% 늘어 1000건에 이른 것으로 나타났다.",
+        "body": "서울 접근성이 좋은 경기권을 중심으로 실수요 유입이 이어지는 가운데, 금융 부담과 유동성 압박을 견디지 못한 아파트 매물이 경매시장으로 넘어가고 있다. 11일 직방이 법원경매정보를 분석한 내용에 따르면 경기 아파트 경매 물건은 한 달 사이 30% 증가해 1000건에 달했다. 수요가 유지되는 지역에서도 자금 사정이 악화된 보유자의 매물이 경매로 나오는 흐름이 확인된 것이다. 이는 경기권 주택시장에서 실수요와 금융 압박이 동시에 작용하고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gyeonggi Apartment Auctions Hit 1,000 as Financial Strain Pushes Listings Up",
+        "excerpt": "Zigbang’s May 11 analysis of court auction data found Gyeonggi apartment auction listings rose 30% in one month to about 1,000 despite steady end-user demand near Seoul.",
+        "body": "Apartment listings in Gyeonggi Province are increasingly moving into the auction market as some owners struggle with financial burdens and liquidity pressure, even as end-user demand continues in areas with good access to Seoul. According to Zigbang’s analysis of court auction information released on May 11, Gyeonggi apartment auction items increased 30% in one month, reaching about 1,000 cases. The figures show that even in locations where demand remains, properties held by financially pressured owners are entering auctions. This points to both real housing demand and funding stress operating in the Gyeonggi market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "京畿道マンション競売1000件に増加、ソウル近接地でも資金負担が影響",
+        "excerpt": "直房が11日に裁判所競売情報を分析した結果、ソウルへのアクセスが良い京畿道のマンション競売物件は1カ月で30%増え、1000件に達した。",
+        "body": "ソウルへのアクセスが良い京畿道を中心に実需の流入が続く一方、金融負担や流動性の圧迫に耐えられないマンション物件が競売市場に出ている。直房が11日に裁判所競売情報を分析した内容によると、京畿道のマンション競売物件は1カ月で30%増加し、1000件に達した。需要が維持される地域でも、資金事情が悪化した保有者の物件が競売に回る流れが確認された形だ。これは京畿道住宅市場で実需と金融圧力が同時に作用していることを示す。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "京畿公寓拍卖增至1000宗，首尔通勤圈也受资金压力影响",
+        "excerpt": "Zigbang于11日分析法院拍卖信息显示，首尔可达性较好的京畿地区公寓拍卖标的一个月内增加30%，达到1000宗。",
+        "body": "在首尔可达性较好的京畿地区，实际居住需求仍在流入，但无法承受金融负担和流动性压力的公寓房源正进入拍卖市场。Zigbang于11日对法院拍卖信息的分析显示，京畿公寓拍卖标的在一个月内增加30%，达到1000宗。即使在需求保持的地区，资金状况恶化的持有人房源也开始转向拍卖。该现象显示，京畿住宅市场同时受到实际需求和资金压力的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Subastas de apartamentos en Gyeonggi llegan a 1.000 por presión financiera",
+        "excerpt": "Según el análisis de Zigbang del 11 de mayo sobre datos judiciales, las subastas de apartamentos en Gyeonggi aumentaron 30% en un mes hasta 1.000 casos.",
+        "body": "En Gyeonggi, especialmente en zonas con buen acceso a Seúl, la demanda de usuarios finales continúa, pero algunos apartamentos están llegando al mercado de subastas por cargas financieras y presión de liquidez. Según el análisis de Zigbang de la información de subastas judiciales publicado el 11 de mayo, los apartamentos en subasta en Gyeonggi aumentaron 30% en un mes y alcanzaron 1.000 casos. El dato muestra que, incluso donde la demanda se mantiene, salen a subasta propiedades de dueños con dificultades de financiación. Esto refleja la coexistencia de demanda real y presión financiera en el mercado residencial de Gyeonggi. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Leilões de apartamentos em Gyeonggi chegam a 1.000 com pressão financeira",
+        "excerpt": "Análise da Zigbang divulgada em 11 de maio mostra que os leilões judiciais de apartamentos em Gyeonggi cresceram 30% em um mês, chegando a 1.000 casos.",
+        "body": "Em Gyeonggi, sobretudo nas áreas com bom acesso a Seul, a demanda de compradores para uso próprio continua, mas apartamentos de proprietários pressionados por encargos financeiros e falta de liquidez estão chegando ao mercado de leilões. Segundo análise da Zigbang sobre informações de leilões judiciais divulgada em 11 de maio, os apartamentos em leilão em Gyeonggi aumentaram 30% em um mês e chegaram a 1.000 casos. O movimento mostra que, mesmo em regiões com demanda, imóveis de donos com dificuldades financeiras estão sendo levados a leilão. Isso evidencia a atuação simultânea da demanda real e da pressão financeira no mercado habitacional de Gyeonggi. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsauktionen in Gyeonggi steigen auf 1.000 Fälle durch Finanzdruck",
+        "excerpt": "Eine Zigbang-Analyse von Gerichtsdaten vom 11. Mai zeigt: Wohnungsauktionen in Gyeonggi stiegen binnen eines Monats um 30% auf rund 1.000 Fälle.",
+        "body": "In Gyeonggi hält die Nachfrage von Eigennutzern vor allem in gut an Seoul angebundenen Gebieten an, doch Wohnungen von Eigentümern unter finanzieller Belastung und Liquiditätsdruck gelangen zunehmend in den Auktionsmarkt. Laut einer am 11. Mai veröffentlichten Analyse von Zigbang zu Gerichtsdaten stieg die Zahl der Wohnungsauktionen in Gyeonggi innerhalb eines Monats um 30% auf rund 1.000 Fälle. Damit zeigt sich, dass selbst in nachgefragten Lagen Objekte finanziell belasteter Besitzer versteigert werden. Der Markt in Gyeonggi wird somit zugleich von realer Nachfrage und Finanzdruck geprägt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les enchères d’appartements à Gyeonggi atteignent 1 000 sous pression financière",
+        "excerpt": "Selon l’analyse de Zigbang publiée le 11 mai, les enchères judiciaires d’appartements à Gyeonggi ont augmenté de 30% en un mois pour atteindre 1 000 cas.",
+        "body": "Dans la province de Gyeonggi, notamment dans les zones bien reliées à Séoul, la demande des utilisateurs finaux se poursuit, mais des appartements détenus par des propriétaires soumis à des charges financières et à des tensions de liquidité arrivent sur le marché des enchères. Selon l’analyse par Zigbang des données d’enchères judiciaires publiée le 11 mai, les biens d’appartements mis aux enchères à Gyeonggi ont augmenté de 30% en un mois pour atteindre 1 000 cas. Même dans les zones où la demande se maintient, des biens de propriétaires en difficulté financière passent aux enchères. Cela montre que demande réelle et pression financière agissent simultanément sur le marché résidentiel de Gyeonggi. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مزادات شقق غيونغي تصل إلى 1000 حالة مع تصاعد الضغوط المالية",
+        "excerpt": "أظهر تحليل زيغبانغ لمعلومات المزادات القضائية في 11 مايو أن شقق غيونغي المعروضة للمزاد زادت 30% خلال شهر واحد لتصل إلى نحو 1000 حالة.",
+        "body": "تتواصل حركة الطلب الفعلي في مناطق غيونغي ذات الوصول الجيد إلى سيول، لكن شققا لم يتمكن مالكوها من تحمل الأعباء المالية وضغط السيولة بدأت تنتقل إلى سوق المزادات. وبحسب تحليل زيغبانغ لمعلومات المزادات القضائية الصادر في 11 مايو، ارتفع عدد شقق غيونغي المعروضة للمزاد 30% خلال شهر واحد ليصل إلى نحو 1000 حالة. وتوضح هذه الأرقام أن العقارات قد تدخل المزاد حتى في المناطق التي ما زال الطلب فيها قائما عندما تتدهور أوضاع التمويل لدى المالكين. ويعكس ذلك تزامن الطلب الحقيقي مع الضغوط المالية في سوق الإسكان في غيونغي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ग्योंगगी अपार्टमेंट नीलामी 1,000 तक पहुंची, वित्तीय दबाव से मामले बढ़े",
+        "excerpt": "11 मई को जिगबैंग के अदालत नीलामी आंकड़ों के विश्लेषण के अनुसार, सियोल से अच्छी पहुंच वाले ग्योंगगी अपार्टमेंट की नीलामी एक महीने में 30% बढ़कर 1,000 हो गई।",
+        "body": "सियोल तक अच्छी पहुंच वाले ग्योंगगी क्षेत्रों में वास्तविक आवास मांग बनी हुई है, लेकिन वित्तीय बोझ और नकदी दबाव झेलने में असमर्थ अपार्टमेंट नीलामी बाजार में आ रहे हैं। 11 मई को जिगबैंग द्वारा अदालत नीलामी जानकारी के विश्लेषण के अनुसार, ग्योंगगी अपार्टमेंट नीलामी वस्तुएं एक महीने में 30% बढ़कर 1,000 मामलों तक पहुंच गईं। यह दिखाता है कि मांग बनी रहने वाले क्षेत्रों में भी कमजोर वित्तीय स्थिति वाले मालिकों की संपत्तियां नीलामी में जा रही हैं। इससे ग्योंगगी आवास बाजार में वास्तविक मांग और वित्तीय दबाव दोनों के साथ मौजूद होने का संकेत मिलता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lelang Apartemen Gyeonggi Tembus 1.000 saat Tekanan Keuangan Meningkat",
+        "excerpt": "Analisis Zigbang pada 11 Mei atas data lelang pengadilan menunjukkan apartemen Gyeonggi yang dilelang naik 30% dalam sebulan menjadi 1.000 kasus.",
+        "body": "Di wilayah Gyeonggi yang memiliki akses baik ke Seoul, permintaan pengguna akhir masih berlanjut, tetapi apartemen dari pemilik yang tidak mampu menahan beban keuangan dan tekanan likuiditas mulai masuk ke pasar lelang. Menurut analisis Zigbang atas informasi lelang pengadilan yang dirilis pada 11 Mei, objek lelang apartemen Gyeonggi naik 30% dalam satu bulan dan mencapai 1.000 kasus. Data ini menunjukkan bahwa bahkan di area dengan permintaan yang tetap ada, properti milik pemilik yang kondisi dananya memburuk dapat masuk lelang. Hal ini mencerminkan bekerjanya permintaan riil dan tekanan keuangan secara bersamaan di pasar hunian Gyeonggi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "071912623d5b",
+    "slug": "노량진-첫-분양-라클라체-사실상-완판-520631",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T08:44:24.237Z",
+    "updatedAt": "2026-05-11T08:44:24.237Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043432",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043432",
+    "titleFingerprint": "785bb384e8167b4c55d6ef9c8c01f9b9cf040e14",
+    "dedupKeys": [
+      "071912623d5b588ec4a9b4fb4b8ef65906b36427",
+      "785bb384e8167b4c55d6ef9c8c01f9b9cf040e14",
+      "34901cee2ac73c1719bdeed24a81cbdc2ff36a22"
+    ],
+    "imageUrl": "/images/articles/071912623d5b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "노량진 첫 분양 라클라체자이드파인 사실상 완판, 뉴타운 기대감 확산",
+        "excerpt": "지난달 서울 동작구에서 분양한 라클라체자이드파인이 고분양가 논란에도 사실상 완판되며 노량진뉴타운 첫 분양 성과와 후속 구역 기대감을 키웠다.",
+        "body": "지난달 서울 동작구에서 분양한 ‘라클라체자이드파인’이 고분양가 논란에도 사실상 완판에 성공했다. 이번 분양은 노량진뉴타운에서 처음으로 공급된 단지라는 점에서 시장의 관심을 받았다. 분양가를 둘러싼 논란이 있었지만 청약 이후 계약이 대부분 마무리되면서 첫 분양 단추가 비교적 순조롭게 끼워졌다는 평가가 나온다. 이에 따라 노량진뉴타운 내 다른 구역의 향후 분양에도 관심과 기대감이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Noryangjin’s First Sale, Laclace Xi The Pine, Nearly Sells Out",
+        "excerpt": "Laclace Xi The Pine, sold last month in Dongjak-gu, Seoul, has effectively sold out despite controversy over high prices, lifting expectations for later Noryangjin New Town projects.",
+        "body": "Laclace Xi The Pine, offered last month in Dongjak-gu, Seoul, has effectively sold out despite controversy over its high sale price. The project drew attention because it was the first apartment sale in Noryangjin New Town. Although pricing was debated, most contracts were completed after subscription, giving the redevelopment area a smooth first step. As a result, attention and expectations are likely to continue for future sales in other Noryangjin New Town zones. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "鷺梁津初分譲のラクラチェXiザ・パイン、事実上完売で期待広がる",
+        "excerpt": "先月ソウル市銅雀区で分譲されたラクラチェXiザ・パインは、高分譲価格をめぐる議論にもかかわらず事実上完売し、鷺梁津ニュータウンの後続分譲への期待を高めた。",
+        "body": "先月、ソウル市銅雀区で分譲された「ラクラチェXiザ・パイン」が、高分譲価格をめぐる議論にもかかわらず事実上完売した。今回の分譲は、鷺梁津ニュータウンで初めて供給された団地として市場の関心を集めた。分譲価格に関する論争はあったものの、申込後に契約がほぼ完了し、初分譲が比較的順調に進んだとの評価が出ている。これにより、鷺梁津ニュータウン内の他区域の今後の分譲にも関心と期待が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "鹭梁津首个分售项目Laclace Xi The Pine事实上售罄引关注",
+        "excerpt": "上月在首尔铜雀区分售的Laclace Xi The Pine虽有高分售价格争议，却事实上售罄，提升了鹭梁津新城后续区域分售的期待。",
+        "body": "上月在首尔铜雀区分售的“Laclace Xi The Pine”尽管面临高分售价格争议，仍事实上售罄。该项目作为鹭梁津新城首个供应的住宅项目，受到市场关注。虽然分售价格引发讨论，但认购之后合同大多完成，使首个分售项目被评价为相对顺利开局。由此，鹭梁津新城内其他区域今后的分售也将继续受到关注并带来期待。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Primera venta en Noryangjin, Laclace Xi The Pine, queda casi agotada",
+        "excerpt": "Laclace Xi The Pine, comercializado el mes pasado en Dongjak-gu, Seúl, quedó prácticamente vendido pese a la polémica por precios altos, elevando expectativas para Noryangjin New Town.",
+        "body": "Laclace Xi The Pine, vendido el mes pasado en Dongjak-gu, Seúl, logró quedar prácticamente agotado pese a la polémica por su elevado precio de venta. El proyecto atrajo atención porque fue la primera oferta residencial en Noryangjin New Town. Aunque hubo debate sobre los precios, la mayoría de los contratos se completó tras la suscripción, lo que dio al área un primer paso relativamente fluido. Por ello, se espera que continúen el interés y las expectativas por las futuras ventas en otras zonas de Noryangjin New Town. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Primeira venda em Noryangjin, Laclace Xi The Pine, fica quase esgotada",
+        "excerpt": "Laclace Xi The Pine, lançado no mês passado em Dongjak-gu, Seul, ficou praticamente vendido apesar da polêmica sobre preços altos, elevando expectativas para Noryangjin New Town.",
+        "body": "O Laclace Xi The Pine, lançado no mês passado em Dongjak-gu, Seul, ficou praticamente vendido apesar da controvérsia sobre seu alto preço de venda. O empreendimento chamou atenção por ser a primeira oferta residencial em Noryangjin New Town. Embora o preço tenha gerado debate, a maior parte dos contratos foi concluída após as inscrições, dando ao projeto inicial um andamento relativamente favorável. Com isso, o interesse e as expectativas devem continuar para futuras vendas em outras áreas de Noryangjin New Town. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Erster Verkauf in Noryangjin: Laclace Xi The Pine nahezu ausverkauft",
+        "excerpt": "Laclace Xi The Pine, im vergangenen Monat in Dongjak-gu, Seoul, angeboten, ist trotz Debatte über hohe Preise faktisch ausverkauft und stärkt Erwartungen für Noryangjin New Town.",
+        "body": "Laclace Xi The Pine, im vergangenen Monat in Dongjak-gu, Seoul, angeboten, ist trotz der Kontroverse um hohe Verkaufspreise faktisch ausverkauft. Das Projekt stand im Fokus, weil es das erste Wohnungsangebot in Noryangjin New Town war. Obwohl die Preise diskutiert wurden, wurden die meisten Verträge nach der Zeichnung abgeschlossen, sodass der erste Verkauf vergleichsweise reibungslos verlief. Dadurch dürften Interesse und Erwartungen an künftige Verkäufe in anderen Bereichen von Noryangjin New Town anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Première vente à Noryangjin: Laclace Xi The Pine presque épuisé",
+        "excerpt": "Laclace Xi The Pine, lancé le mois dernier à Dongjak-gu, Séoul, est pratiquement vendu malgré la controverse sur les prix élevés, renforçant les attentes pour Noryangjin New Town.",
+        "body": "Laclace Xi The Pine, commercialisé le mois dernier à Dongjak-gu, Séoul, est pratiquement vendu malgré la controverse sur son prix élevé. Le projet a attiré l’attention car il s’agit de la première offre résidentielle de Noryangjin New Town. Même si les prix ont fait débat, la plupart des contrats ont été conclus après la souscription, donnant à ce premier lancement un déroulement relativement favorable. L’intérêt et les attentes devraient donc se poursuivre pour les futures ventes dans les autres secteurs de Noryangjin New Town. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أول طرح في نوريانغجين، لاكلاش زي ذا باين، يقترب من البيع الكامل",
+        "excerpt": "مشروع لاكلاش زي ذا باين، الذي طُرح الشهر الماضي في دونغجاك غو بسيول، بيع فعلياً تقريباً رغم جدل الأسعار المرتفعة، ما عزز توقعات مناطق نوريانغجين نيوتاون التالية.",
+        "body": "نجح مشروع “لاكلاش زي ذا باين”، الذي طُرح الشهر الماضي في دونغجاك غو بسيول، في البيع فعلياً تقريباً رغم الجدل حول ارتفاع سعر البيع. وحظي المشروع باهتمام السوق لأنه أول طرح سكني في نوريانغجين نيوتاون. وعلى الرغم من النقاش بشأن الأسعار، اكتملت معظم العقود بعد الاكتتاب، ما جعل البداية الأولى للمنطقة تسير بصورة سلسة نسبياً. وبناء على ذلك، من المتوقع استمرار الاهتمام والتوقعات تجاه الطروحات المقبلة في مناطق أخرى داخل نوريانغجين نيوتاون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नोर्यांगजिन की पहली बिक्री Laclace Xi The Pine लगभग पूरी तरह बिकी",
+        "excerpt": "सियोल के डोंगजाक-गु में पिछले महीने बिक्री के लिए आए Laclace Xi The Pine ने ऊंची कीमतों की बहस के बावजूद लगभग पूरी बिक्री पूरी कर ली, जिससे Noryangjin New Town की उम्मीदें बढ़ीं।",
+        "body": "सियोल के डोंगजाक-गु में पिछले महीने बिक्री के लिए पेश किया गया “Laclace Xi The Pine” ऊंची बिक्री कीमतों को लेकर विवाद के बावजूद लगभग पूरी तरह बिक गया। यह परियोजना इसलिए चर्चा में रही क्योंकि यह Noryangjin New Town में पहली आवासीय बिक्री थी। कीमतों पर बहस हुई, लेकिन सदस्यता प्रक्रिया के बाद अधिकतर अनुबंध पूरे हो गए, जिससे पहली बिक्री अपेक्षाकृत सुचारु मानी जा रही है। इसके चलते Noryangjin New Town के अन्य क्षेत्रों की आगामी बिक्री को लेकर रुचि और अपेक्षाएं जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Penjualan Perdana Noryangjin, Laclace Xi The Pine, Nyaris Habis",
+        "excerpt": "Laclace Xi The Pine yang dipasarkan bulan lalu di Dongjak-gu, Seoul, hampir terjual habis meski ada kontroversi harga tinggi, mengangkat ekspektasi untuk Noryangjin New Town.",
+        "body": "Laclace Xi The Pine, yang dipasarkan bulan lalu di Dongjak-gu, Seoul, berhasil hampir terjual habis meski ada kontroversi mengenai harga jual yang tinggi. Proyek ini menarik perhatian karena menjadi penjualan hunian pertama di Noryangjin New Town. Walau harga sempat diperdebatkan, sebagian besar kontrak selesai setelah proses pemesanan, sehingga langkah awal kawasan ini dinilai berjalan relatif lancar. Karena itu, minat dan ekspektasi terhadap penjualan berikutnya di zona lain Noryangjin New Town diperkirakan terus berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "3d8027de1a34",
     "slug": "양도세-중과-이틀-만에-서울-아파트-매물-2800개-사라져-806011",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Negosiasi Ulang 11-12 Mei, Bonus Unit Chip Merugi Jadi Isu Utama",
         "excerpt": "Samsung Electronics dan serikat pekerjanya akan menjalani mediasi lanjutan pada 11-12 Mei di Komisi Hubungan Tenaga Kerja Nasional di Sejong, menjelang rencana mogok umum 21 Mei.",
         "body": "Samsung Electronics dan serikat pekerjanya akan memulai mediasi lanjutan pada 11-12 Mei di Komisi Hubungan Tenaga Kerja Nasional di Sejong dengan mediasi pemerintah. Negosiasi akhir ini digelar sepuluh hari sebelum mogok umum yang diumumkan serikat untuk 21 Mei, setelah kedua pihak belum mempersempit perbedaan soal upah dan bonus kinerja. Mediasi lanjutan adalah prosedur ketika pekerja dan manajemen, atas persetujuan bersama, kembali ke meja mediasi setelah proses sebelumnya berakhir dan aksi industrial sudah dekat. Komisi dapat mengajukan rekomendasi, tetapi tidak mengikat. Dari pihak serikat, perwakilan cabang Samsung Electronics dari serikat supra-perusahaan dan National Samsung Electronics Union diperkirakan hadir. Isu utama adalah besaran bonus untuk divisi non-memori yang merugi seperti foundry, termasuk persoalan “bonus 300 juta won untuk departemen semikonduktor defisit”. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "323fbb266237",
-    "slug": "중기부-모두의-창업-신속심사로-첫-합격자-130명-발표-905847",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T19:26:14.726Z",
-    "updatedAt": "2026-05-10T19:26:14.726Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509028300030",
-    "titleFingerprint": "08df77d4dca9534001e0dd28515345c43eadd5a9",
-    "dedupKeys": [
-      "323fbb2662370d7125152ec39f2b43a31606824b",
-      "08df77d4dca9534001e0dd28515345c43eadd5a9",
-      "dfa00c7ac852e7d81b6f0bec80e546ef7c781e75"
-    ],
-    "imageUrl": "/images/articles/323fbb266237.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중기부 ‘모두의 창업’ 신속심사 첫 합격자 130명 발표, 창업 지원 본격화",
-        "excerpt": "중소벤처기업부가 10일 ‘모두의 창업’ 프로젝트 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝히며 창업 지원 절차의 첫 결과를 공개했다.",
-        "body": "중소벤처기업부는 10일 ‘모두의 창업’ 프로젝트의 신속 심사를 통해 첫 합격자 130명을 선정했다고 밝혔다. 이번 발표는 해당 프로젝트에서 신속 심사 절차를 거쳐 나온 첫 선정 결과다. 중기부는 창업 지원 대상자를 가려내기 위해 심사를 진행했으며, 첫 합격 규모는 130명으로 집계됐다. 이번 선정은 ‘모두의 창업’ 프로젝트가 실제 지원 단계로 들어섰음을 보여주는 사례로, 향후 사업 진행 과정에서 후속 절차가 이어질 전망이다. 이번 내용은 연합뉴스가 보도했으며 출처는 yna.co.kr이다."
-      },
-      "en": {
-        "title": "MSS Names First 130 Fast-Track Passers for ‘Startup for Everyone’ Project",
-        "excerpt": "South Korea’s Ministry of SMEs and Startups said on May 10 it selected the first 130 successful applicants through fast-track screening for the ‘Startup for Everyone’ project.",
-        "body": "South Korea’s Ministry of SMEs and Startups said on May 10 that it selected the first 130 successful applicants through fast-track screening for the ‘Startup for Everyone’ project. The announcement marks the first selection result produced through the project’s expedited review process. The ministry conducted screening to identify people eligible for startup support, with the initial group totaling 130. The selection shows that the ‘Startup for Everyone’ project has moved into an actual support phase, with follow-up procedures expected as the program proceeds. The report was published by Yonhap News Agency, with yna.co.kr cited as the source."
-      },
-      "ja": {
-        "title": "中企部「みんなの創業」迅速審査で初の合格者130人を発表",
-        "excerpt": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと明らかにした。",
-        "body": "韓国中小ベンチャー企業部は10日、「みんなの創業」プロジェクトの迅速審査を通じ、初の合格者130人を選定したと発表した。今回の発表は、同プロジェクトで迅速審査の手続きを経て示された初めての選定結果となる。中企部は創業支援の対象者を選ぶため審査を行い、最初の合格規模は130人と集計された。今回の選定は、「みんなの創業」プロジェクトが実際の支援段階に入ったことを示す事例であり、今後の事業進行に伴い後続手続きが続く見通しだ。この記事は聯合ニュースが報じ、出典はyna.co.krである。"
-      },
-      "zh": {
-        "title": "韩国中企部公布“全民创业”快速审查首批130名合格者",
-        "excerpt": "韩国中小风险企业部10日表示，通过“全民创业”项目快速审查，已选定首批130名合格者，公开该项目首个审查结果。",
-        "body": "韩国中小风险企业部10日表示，通过“全民创业”项目的快速审查，已选定首批130名合格者。此次发布是该项目经过快速审查程序后公布的首个选定结果。中企部为筛选创业支持对象进行了审查，首批合格人数为130人。此次选定显示，“全民创业”项目已进入实际支持阶段，随着项目推进，后续程序预计将继续进行。相关内容由韩联社报道，来源为yna.co.kr。"
-      },
-      "es": {
-        "title": "Ministerio surcoreano anuncia 130 primeros aprobados de ‘Startup para Todos’",
-        "excerpt": "El Ministerio de Pymes y Startups de Corea del Sur dijo el día 10 que seleccionó a los primeros 130 aprobados mediante revisión rápida del proyecto ‘Startup para Todos’.",
-        "body": "El Ministerio de Pymes y Startups de Corea del Sur anunció el día 10 que seleccionó a los primeros 130 aprobados mediante la revisión rápida del proyecto ‘Startup para Todos’. El anuncio representa el primer resultado de selección obtenido a través del procedimiento acelerado de evaluación de este proyecto. El ministerio realizó la revisión para identificar a los beneficiarios del apoyo al emprendimiento, y el primer grupo quedó compuesto por 130 personas. La selección muestra que el proyecto ‘Startup para Todos’ ha entrado en una fase de apoyo efectivo, con procedimientos posteriores previstos durante su desarrollo. La información fue publicada por Yonhap News Agency; la fuente es yna.co.kr."
-      },
-      "pt": {
-        "title": "Ministério sul-coreano anuncia 130 primeiros aprovados em ‘Startup para Todos’",
-        "excerpt": "O Ministério das PMEs e Startups da Coreia do Sul informou no dia 10 que selecionou os primeiros 130 aprovados pela análise rápida do projeto ‘Startup para Todos’.",
-        "body": "O Ministério das PMEs e Startups da Coreia do Sul informou no dia 10 que selecionou os primeiros 130 aprovados por meio da análise rápida do projeto ‘Startup para Todos’. O anúncio representa o primeiro resultado de seleção produzido pelo procedimento acelerado de avaliação do projeto. O ministério realizou a triagem para identificar os beneficiários do apoio ao empreendedorismo, e o primeiro grupo totalizou 130 pessoas. A seleção mostra que o projeto ‘Startup para Todos’ entrou em uma etapa de apoio efetivo, com procedimentos posteriores previstos conforme o programa avançar. A notícia foi publicada pela Yonhap News Agency, com yna.co.kr como fonte."
-      },
-      "de": {
-        "title": "Südkoreas KMU-Ministerium nennt erste 130 Bestehende bei ‘Startup für alle’",
-        "excerpt": "Das südkoreanische Ministerium für KMU und Startups teilte am 10. mit, dass es durch eine Schnellprüfung die ersten 130 erfolgreichen Bewerber für ‘Startup für alle’ ausgewählt hat.",
-        "body": "Das südkoreanische Ministerium für KMU und Startups teilte am 10. mit, dass es durch eine Schnellprüfung die ersten 130 erfolgreichen Bewerber für das Projekt ‘Startup für alle’ ausgewählt hat. Die Mitteilung ist das erste Auswahlergebnis, das aus dem beschleunigten Prüfverfahren dieses Projekts hervorgegangen ist. Das Ministerium führte die Prüfung durch, um Personen für die Gründungsförderung zu bestimmen; die erste Gruppe umfasst 130 Menschen. Die Auswahl zeigt, dass ‘Startup für alle’ in eine konkrete Unterstützungsphase eingetreten ist, wobei im weiteren Verlauf Folgeverfahren erwartet werden. Berichtet wurde dies von Yonhap News Agency; Quelle ist yna.co.kr."
-      },
-      "fr": {
-        "title": "Le ministère sud-coréen annonce 130 premiers admis pour ‘Startup pour tous’",
-        "excerpt": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 avoir sélectionné les 130 premiers admis via l’examen accéléré du projet ‘Startup pour tous’.",
-        "body": "Le ministère sud-coréen des PME et des Startups a annoncé le 10 avoir sélectionné les 130 premiers admis grâce à l’examen accéléré du projet ‘Startup pour tous’. Cette annonce constitue le premier résultat de sélection issu de la procédure rapide d’évaluation du projet. Le ministère a mené cet examen afin d’identifier les personnes pouvant bénéficier du soutien à la création d’entreprise, et le premier groupe compte 130 personnes. Cette sélection montre que le projet ‘Startup pour tous’ est entré dans une phase de soutien concret, avec des procédures de suivi attendues au fil de son avancement. L’information a été rapportée par Yonhap News Agency; la source est yna.co.kr."
-      },
-      "ar": {
-        "title": "وزارة الشركات الناشئة الكورية تعلن أول 130 ناجحا في ‘ريادة للجميع’",
-        "excerpt": "قالت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 إنها اختارت أول 130 ناجحا عبر المراجعة السريعة لمشروع ‘ريادة للجميع’.",
-        "body": "أعلنت وزارة الشركات الصغيرة والمتوسطة والناشئة في كوريا الجنوبية يوم 10 أنها اختارت أول 130 ناجحا من خلال المراجعة السريعة لمشروع ‘ريادة للجميع’. ويمثل هذا الإعلان أول نتيجة اختيار تصدر عبر إجراء الفحص المعجل الخاص بالمشروع. وأجرت الوزارة المراجعة لتحديد المستفيدين من دعم ريادة الأعمال، وبلغ حجم الدفعة الأولى 130 شخصا. ويظهر هذا الاختيار أن مشروع ‘ريادة للجميع’ دخل مرحلة الدعم الفعلي، مع توقع استمرار الإجراءات اللاحقة مع تقدم البرنامج. وقد أوردت وكالة يونهاب للأنباء هذا الخبر، والمصدر هو yna.co.kr."
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया ने ‘Startup for Everyone’ में पहले 130 सफल आवेदक घोषित किए",
-        "excerpt": "दक्षिण कोरिया के एसएमई और स्टार्टअप मंत्रालय ने 10 तारीख को कहा कि ‘Startup for Everyone’ परियोजना की त्वरित समीक्षा से पहले 130 सफल आवेदक चुने गए।",
-        "body": "दक्षिण कोरिया के एसएमई और स्टार्टअप मंत्रालय ने 10 तारीख को कहा कि उसने ‘Startup for Everyone’ परियोजना की त्वरित समीक्षा के जरिए पहले 130 सफल आवेदकों का चयन किया है। यह घोषणा इस परियोजना की तेज समीक्षा प्रक्रिया से निकला पहला चयन परिणाम है। मंत्रालय ने उद्यमिता समर्थन के पात्र लोगों की पहचान के लिए समीक्षा की, और पहले समूह की संख्या 130 रही। यह चयन दिखाता है कि ‘Startup for Everyone’ परियोजना वास्तविक समर्थन चरण में प्रवेश कर चुकी है, और कार्यक्रम आगे बढ़ने पर संबंधित अगली प्रक्रियाएं जारी रहने की उम्मीद है। यह रिपोर्ट योनहाप न्यूज एजेंसी ने दी है; स्रोत yna.co.kr है।"
-      },
-      "id": {
-        "title": "Kementerian Korea Umumkan 130 Lolos Pertama Proyek ‘Startup untuk Semua’",
-        "excerpt": "Kementerian UKM dan Startup Korea Selatan pada tanggal 10 menyatakan telah memilih 130 peserta lolos pertama lewat peninjauan cepat proyek ‘Startup untuk Semua’.",
-        "body": "Kementerian UKM dan Startup Korea Selatan pada tanggal 10 menyatakan telah memilih 130 peserta lolos pertama melalui peninjauan cepat proyek ‘Startup untuk Semua’. Pengumuman ini menjadi hasil seleksi pertama yang muncul dari prosedur peninjauan cepat proyek tersebut. Kementerian melakukan seleksi untuk menentukan pihak yang berhak menerima dukungan kewirausahaan, dengan kelompok awal berjumlah 130 orang. Pemilihan ini menunjukkan bahwa proyek ‘Startup untuk Semua’ telah masuk ke tahap dukungan nyata, dengan prosedur lanjutan diperkirakan mengikuti seiring berjalannya program. Informasi ini dilaporkan oleh Yonhap News Agency, dengan yna.co.kr sebagai sumber."
-      }
-    }
-  },
-  {
-    "id": "f491089cd60c",
-    "slug": "주병기-매각명령-등-구조적-조치-사익편취-억제-효과-클-것-917878",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T19:25:24.562Z",
-    "updatedAt": "2026-05-10T19:25:24.562Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509049200002",
-    "titleFingerprint": "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
-    "dedupKeys": [
-      "f491089cd60c0c91985e13d881cdce512ca1f539",
-      "b45bd5b47776a39a331934eb0ac47c7dc6241e6c",
-      "cdc5605c0e9f12394fd36378a80e2e1bccee4206"
-    ],
-    "imageUrl": "/images/articles/f491089cd60c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정위원장 주병기, 매각명령 등 구조적 조치로 사익편취 억제 강조",
-        "excerpt": "주병기 공정거래위원장은 마닐라에서 대기업집단의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라며 매각명령 등 조치가 사익편취 억제에 효과가 클 것이라고 밝혔다.",
-        "body": "주병기 공정거래위원장은 마닐라에서 대기업집단의 과도한 경제력 집중이 시장 독과점화의 구조적 원인이라는 점을 고려해야 한다고 밝혔다. 그는 이런 구조적 문제를 완화하기 위한 방안으로 매각명령 등 구조적 조치를 언급하며, 해당 조치가 사익편취를 억제하는 데 큰 효과를 낼 수 있다고 설명했다. 이번 발언은 공정거래 정책에서 대기업집단의 지배구조와 시장 집중 문제를 함께 다뤄야 한다는 맥락에서 나왔다. 구체적인 수치나 세부 실행 일정은 원문 요약에 제시되지 않았다. 향후 관련 제도 논의는 시장 독과점 완화와 사익편취 방지 효과를 중심으로 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "FTC Chair Joo Byung-ki Stresses Divestiture Orders to Curb Private Gains",
-        "excerpt": "In Manila, FTC Chair Joo Byung-ki said excessive economic concentration among large business groups is a structural cause of market monopolization and that divestiture orders could curb private benefit-taking.",
-        "body": "Fair Trade Commission Chair Joo Byung-ki said in Manila that excessive concentration of economic power in large business groups should be viewed as a structural cause of market monopolization. As a way to ease this structural problem, he cited measures such as divestiture orders and said they could have a significant effect in restraining private benefit-taking. The remarks came in the context of fair trade policy discussions that link corporate governance at large business groups with market concentration. The original summary did not provide specific figures or an implementation timetable. Future debate is expected to focus on reducing monopolistic market structures and preventing private gains. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "朱炳基公取委員長、売却命令など構造的措置で私益取得抑制を強調",
-        "excerpt": "朱炳基公正取引委員長はマニラで、大企業集団への過度な経済力集中が市場独占化の構造的要因だとし、売却命令などが私益取得の抑制に効果を持つと述べた。",
-        "body": "朱炳基公正取引委員長はマニラで、大企業集団への過度な経済力集中が市場独占化の構造的原因である点を考慮すべきだと述べた。こうした構造的問題を緩和する方法として売却命令などの構造的措置に言及し、これらの措置が私益取得を抑制するうえで大きな効果を発揮し得ると説明した。今回の発言は、公正取引政策において大企業集団の支配構造と市場集中問題をあわせて扱うべきだという文脈で出た。具体的な数値や詳細な実施日程は原文要約には示されていない。今後の制度論議は、市場独占化の緩和と私益取得の防止効果を中心に続く見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国公正交易委员长朱炳基强调以出售命令等结构性措施遏制私利攫取",
-        "excerpt": "朱炳基在马尼拉表示，大企业集团经济力过度集中是市场垄断化的结构性原因，出售命令等措施对遏制私利攫取将有较大效果。",
-        "body": "韩国公正交易委员长朱炳基在马尼拉表示，应考虑到大企业集团经济力过度集中是市场垄断化的结构性原因。作为缓解这一结构性问题的方案，他提到出售命令等结构性措施，并说明这些措施可能在遏制私利攫取方面产生较大效果。此次发言是在公平交易政策需要同时处理大企业集团治理结构和市场集中问题的背景下作出的。原文摘要未提供具体数据或详细执行时间表。今后相关制度讨论预计将围绕缓解市场垄断化和防止私利攫取的效果展开。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Joo Byung-ki defiende órdenes de venta para frenar beneficios privados",
-        "excerpt": "En Manila, Joo Byung-ki, presidente de la Comisión de Comercio Justo, dijo que la concentración excesiva en grandes grupos causa monopolización y que órdenes de venta pueden frenar beneficios privados.",
-        "body": "Joo Byung-ki, presidente de la Comisión de Comercio Justo, afirmó en Manila que debe tenerse en cuenta que la concentración excesiva de poder económico en grandes grupos empresariales es una causa estructural de la monopolización del mercado. Como vía para aliviar ese problema estructural, mencionó medidas como las órdenes de venta y explicó que podrían tener un gran efecto en la contención de la obtención de beneficios privados. Sus declaraciones se produjeron en un contexto de política de competencia que vincula la gobernanza de los grandes grupos con la concentración del mercado. El resumen original no ofreció cifras concretas ni un calendario detallado de aplicación. El debate institucional previsiblemente seguirá centrado en reducir la monopolización y prevenir beneficios privados. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Joo Byung-ki destaca ordens de venda para conter apropriação de benefícios privados",
-        "excerpt": "Em Manila, Joo Byung-ki disse que a concentração econômica excessiva em grandes grupos é causa estrutural da monopolização e que ordens de venda podem conter benefícios privados.",
-        "body": "Joo Byung-ki, presidente da Comissão de Comércio Justo, afirmou em Manila que é preciso considerar a concentração excessiva de poder econômico em grandes grupos empresariais como uma causa estrutural da monopolização do mercado. Como forma de aliviar esse problema, ele citou medidas estruturais como ordens de venda e explicou que elas podem ter grande efeito na contenção da apropriação de benefícios privados. A declaração surgiu no contexto de políticas de concorrência que tratam conjuntamente a governança dos grandes grupos e a concentração de mercado. O resumo original não apresentou números específicos nem cronograma detalhado de execução. As próximas discussões institucionais devem se concentrar na redução da monopolização e na prevenção de benefícios privados. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Joo Byung-ki betont Verkaufsanordnungen gegen private Vorteilsnahme",
-        "excerpt": "In Manila sagte der FTC-Vorsitzende Joo Byung-ki, übermäßige Wirtschaftsmacht großer Unternehmensgruppen sei eine strukturelle Ursache für Monopolisierung; Verkaufsanordnungen könnten private Vorteilsnahme eindämmen.",
-        "body": "Der Vorsitzende der Fair Trade Commission, Joo Byung-ki, sagte in Manila, die übermäßige Konzentration wirtschaftlicher Macht in großen Unternehmensgruppen müsse als strukturelle Ursache der Monopolisierung von Märkten betrachtet werden. Als Mittel zur Entschärfung dieses Problems nannte er strukturelle Maßnahmen wie Verkaufsanordnungen und erklärte, diese könnten eine große Wirkung bei der Eindämmung privater Vorteilsnahme entfalten. Die Äußerung fiel im Kontext einer Wettbewerbspolitik, die Corporate Governance großer Unternehmensgruppen und Marktkonzentration gemeinsam behandelt. Die ursprüngliche Zusammenfassung enthielt keine konkreten Zahlen und keinen detaillierten Umsetzungsplan. Die weitere Debatte dürfte sich auf die Verringerung monopolistischer Strukturen und die Verhinderung privater Vorteilsnahme konzentrieren. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Joo Byung-ki met en avant les ordres de cession contre les gains privés",
-        "excerpt": "À Manille, Joo Byung-ki a déclaré que la concentration excessive du pouvoir économique dans les grands groupes est une cause structurelle de monopolisation et que les ordres de cession peuvent limiter les gains privés.",
-        "body": "Joo Byung-ki, président de la Commission du commerce équitable, a déclaré à Manille qu’il fallait considérer la concentration excessive du pouvoir économique dans les grands groupes comme une cause structurelle de la monopolisation des marchés. Pour atténuer ce problème, il a cité des mesures structurelles telles que les ordres de cession et expliqué qu’elles pourraient avoir un effet important pour freiner l’appropriation de gains privés. Ces propos s’inscrivent dans un contexte de politique de concurrence reliant la gouvernance des grands groupes et la concentration du marché. Le résumé original ne fournit pas de chiffres précis ni de calendrier détaillé. Les discussions institutionnelles devraient désormais porter sur la réduction de la monopolisation et la prévention des gains privés. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "جو بيونغ كي يؤكد دور أوامر البيع في كبح جني المنافع الخاصة",
-        "excerpt": "قال جو بيونغ كي في مانيلا إن التركيز المفرط للقوة الاقتصادية لدى مجموعات الشركات الكبرى سبب هيكلي لاحتكار الأسواق، وإن أوامر البيع قد تكون فعالة في كبح المنافع الخاصة.",
-        "body": "قال جو بيونغ كي، رئيس لجنة التجارة العادلة، في مانيلا إنه ينبغي النظر إلى التركيز المفرط للقوة الاقتصادية في مجموعات الشركات الكبرى بوصفه سببا هيكليا لاحتكار الأسواق. وذكر، كوسيلة لتخفيف هذه المشكلة الهيكلية، تدابير مثل أوامر البيع، موضحا أن هذه الإجراءات قد تحقق أثرا كبيرا في كبح جني المنافع الخاصة. وجاءت هذه التصريحات في سياق سياسات المنافسة التي تتعامل مع حوكمة مجموعات الشركات الكبرى ومشكلة تركز السوق معا. ولم يتضمن ملخص النص الأصلي أرقاما محددة أو جدولا زمنيا تفصيليا للتنفيذ. ومن المتوقع أن تتركز المناقشات المقبلة على تخفيف احتكار الأسواق ومنع جني المنافع الخاصة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "जू ब्युंग-की ने निजी लाभ रोकने को बिक्री आदेश जैसे संरचनात्मक उपायों पर जोर दिया",
-        "excerpt": "मनीला में जू ब्युंग-की ने कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति का अत्यधिक केंद्रीकरण बाजार एकाधिकार का संरचनात्मक कारण है और बिक्री आदेश निजी लाभ रोक सकते हैं।",
-        "body": "निष्पक्ष व्यापार आयोग के अध्यक्ष जू ब्युंग-की ने मनीला में कहा कि बड़े कारोबारी समूहों में आर्थिक शक्ति के अत्यधिक केंद्रीकरण को बाजार के एकाधिकार की संरचनात्मक वजह के रूप में देखा जाना चाहिए। इस संरचनात्मक समस्या को कम करने के उपाय के तौर पर उन्होंने बिक्री आदेश जैसे संरचनात्मक कदमों का उल्लेख किया और कहा कि ये निजी लाभ लेने की प्रवृत्ति को रोकने में बड़ा असर डाल सकते हैं। यह टिप्पणी निष्पक्ष व्यापार नीति में बड़े समूहों की शासन संरचना और बाजार केंद्रीकरण को साथ देखने के संदर्भ में आई। मूल सारांश में कोई विशिष्ट आंकड़ा या विस्तृत कार्यान्वयन समयसारिणी नहीं दी गई। आगे की संस्थागत चर्चा बाजार एकाधिकार घटाने और निजी लाभ रोकने के प्रभाव पर केंद्रित रहने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Joo Byung-ki Tekankan Perintah Divestasi untuk Tekan Pengambilan Keuntungan Pribadi",
-        "excerpt": "Di Manila, Ketua KFTC Joo Byung-ki mengatakan konsentrasi kekuatan ekonomi berlebihan pada grup besar menjadi penyebab struktural monopoli pasar dan perintah divestasi dapat menekan keuntungan pribadi.",
-        "body": "Ketua Komisi Perdagangan Adil Joo Byung-ki mengatakan di Manila bahwa konsentrasi kekuatan ekonomi yang berlebihan pada kelompok usaha besar perlu dilihat sebagai penyebab struktural monopoliasasi pasar. Sebagai cara untuk meredakan masalah struktural itu, ia menyebut langkah seperti perintah divestasi dan menjelaskan bahwa kebijakan tersebut dapat berdampak besar dalam menekan pengambilan keuntungan pribadi. Pernyataan ini muncul dalam konteks kebijakan persaingan yang mengaitkan tata kelola kelompok usaha besar dengan masalah konsentrasi pasar. Ringkasan asli tidak memuat angka khusus atau jadwal pelaksanaan terperinci. Pembahasan kebijakan ke depan diperkirakan berfokus pada pengurangan monopoli pasar dan pencegahan keuntungan pribadi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f04bbcbb0dbf",
-    "slug": "k-엔비디아-인재-노린-꼼수-인수-막는다기업결합-신고추진-789281",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T19:24:23.193Z",
-    "updatedAt": "2026-05-10T19:24:23.193Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509047800002",
-    "titleFingerprint": "afb111f5ede718d1a189426640b47a384cbf426e",
-    "dedupKeys": [
-      "f04bbcbb0dbf4e9da77afeb553fe64ea36af66e3",
-      "afb111f5ede718d1a189426640b47a384cbf426e",
-      "547a2ef81b4e7d7b5840f253e5a5c030354c227a"
-    ],
-    "imageUrl": "/images/articles/f04bbcbb0dbf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 스타트업 핵심 인재 ‘꼼수 인수’ 차단…기업결합 신고 추진",
-        "excerpt": "공정거래 당국이 기술력 있는 AI 스타트업의 핵심 인재를 채용해 사실상 편법 인수하는 사례를 막기 위해 기업결합 신고 대상에 포함하는 방안을 추진한다.",
-        "body": "연합뉴스에 따르면 공정거래 당국은 기술력이 뛰어난 인공지능(AI) 스타트업의 핵심 인재를 채용하는 방식으로 사실상 회사를 흡수하는 ‘편법 인수’ 사례를 막기 위해 기업결합 신고 제도 개선을 추진한다. 이번 논의는 이른바 ‘K-엔비디아’로 성장할 수 있는 유망 AI 기업의 기술과 인력이 정식 인수 절차 밖에서 빠져나가는 문제를 겨냥한 것이다. 핵심 인재 채용이 단순 고용을 넘어 기업의 실질적 지배력 이전으로 이어질 수 있다는 점에서 신고 필요성이 제기됐다. 제도가 마련되면 AI 스타트업 인재 확보 경쟁에도 경쟁 제한 여부를 따지는 심사가 적용될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "AI Startup Talent ‘Acqui-Hires’ Face Scrutiny as Merger Filing Plan Advances",
-        "excerpt": "Competition authorities are moving to include de facto takeovers through hiring key AI startup talent in merger filing rules to prevent workaround acquisitions.",
-        "body": "According to Yonhap News Agency, competition authorities are pursuing changes to the merger filing system to prevent cases in which companies effectively absorb highly capable artificial intelligence startups by hiring their core talent. The discussion targets so-called workaround acquisitions that could draw technology and people away from promising AI firms capable of growing into a “K-Nvidia” outside formal takeover procedures. Authorities raised the need for notification because hiring key personnel may go beyond ordinary employment and lead to a practical transfer of corporate control. If the system is introduced, competition reviews could apply to talent acquisition battles involving AI startups. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "AIスタートアップ人材の“抜け道買収”防止へ、企業結合申告を推進",
-        "excerpt": "競争当局は、有望AIスタートアップの中核人材採用を通じた事実上の抜け道買収を防ぐため、企業結合申告対象に含める案を進める。",
-        "body": "聯合ニュースによると、競争当局は、優れた技術を持つ人工知能（AI）スタートアップの中核人材を採用する形で、事実上企業を吸収する「抜け道買収」を防ぐため、企業結合申告制度の改善を進める。今回の議論は、いわゆる「Kエヌビディア」へ成長し得る有望AI企業の技術と人材が、正式な買収手続きの外で流出する問題を念頭に置いたものだ。中核人材の採用が単なる雇用を超え、企業の実質的な支配力移転につながる可能性があるとして、申告の必要性が提起された。制度が整えば、AIスタートアップを巡る人材確保競争にも競争制限の有無を判断する審査が適用される見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "AI初创核心人才“变相收购”将受限，拟纳入企业合并申报",
-        "excerpt": "竞争监管部门正推动制度调整，将通过招聘AI初创企业核心人才实现的事实收购纳入企业合并申报，以防止规避式收购。",
-        "body": "据韩联社报道，竞争监管部门正推动完善企业合并申报制度，以防止企业通过招聘技术实力突出的人工智能（AI）初创企业核心人才，事实上吸收该公司的“变相收购”案例。此次讨论针对的是有望成长为所谓“K-英伟达”的AI企业，其技术和人才可能在正式收购程序之外流出的风险。监管方面认为，核心人才招聘可能超出一般雇佣范畴，并导致企业实质控制权转移，因此有必要要求申报。若制度落地，围绕AI初创企业的人才争夺也有望接受是否限制竞争的审查。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Freno a la ‘compra encubierta’ de talento en startups de IA con reporte de fusiones",
-        "excerpt": "Las autoridades de competencia impulsan incluir en las notificaciones de concentración los fichajes de talento clave de startups de IA que equivalgan a adquisiciones encubiertas.",
-        "body": "Según la agencia Yonhap, las autoridades de competencia impulsan mejoras al sistema de notificación de concentraciones empresariales para impedir casos en los que una compañía absorbe de hecho a una startup de inteligencia artificial (IA) con alta capacidad tecnológica mediante la contratación de su talento clave. La discusión apunta a las llamadas adquisiciones por vías indirectas, que podrían sacar tecnología y personal de empresas prometedoras capaces de convertirse en una “K-Nvidia” fuera de los procedimientos formales de compra. Se planteó la necesidad de notificar estos casos porque la contratación de personal esencial puede ir más allá del empleo ordinario y derivar en una transferencia práctica de control empresarial. Si se adopta el sistema, la competencia por talento en startups de IA podría quedar sujeta a revisión sobre posibles restricciones a la competencia. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Aquisição disfarçada de talentos de startups de IA terá controle por notificação",
-        "excerpt": "Autoridades de concorrência buscam incluir contratações de talentos-chave de startups de IA nas regras de notificação de combinação empresarial para barrar aquisições indiretas.",
-        "body": "Segundo a agência Yonhap, autoridades de concorrência estão promovendo mudanças no sistema de notificação de combinações empresariais para impedir casos em que uma empresa absorve, na prática, uma startup de inteligência artificial (IA) com alta capacidade tecnológica ao contratar seus talentos essenciais. A discussão mira aquisições indiretas que poderiam retirar tecnologia e pessoas de empresas promissoras de IA capazes de crescer como uma “K-Nvidia” fora dos procedimentos formais de aquisição. A necessidade de notificação foi levantada porque a contratação de talentos-chave pode ir além do emprego comum e levar à transferência prática de controle empresarial. Se o sistema for adotado, a disputa por talentos de startups de IA também poderá passar por análise de restrição à concorrência. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Umgehungsübernahmen bei KI-Startups im Fokus: Meldepflicht für Talentdeals geplant",
-        "excerpt": "Wettbewerbsbehörden wollen faktische Übernahmen durch das Abwerben zentraler KI-Startup-Talente in die Fusionsmeldepflicht einbeziehen, um Umgehungen zu verhindern.",
-        "body": "Nach Angaben der Nachrichtenagentur Yonhap treiben Wettbewerbsbehörden Änderungen am System der Fusionsmeldungen voran, um Fälle zu verhindern, in denen Unternehmen technologisch starke Startups für künstliche Intelligenz (KI) faktisch übernehmen, indem sie deren Schlüsselpersonal einstellen. Die Debatte richtet sich gegen sogenannte Umgehungsübernahmen, bei denen Technologie und Talente vielversprechender KI-Firmen, die zu einer „K-Nvidia“ heranwachsen könnten, außerhalb formeller Übernahmeverfahren abfließen. Die Notwendigkeit einer Meldung wurde damit begründet, dass die Einstellung zentraler Mitarbeiter über gewöhnliche Beschäftigung hinausgehen und zu einer faktischen Übertragung unternehmerischer Kontrolle führen kann. Kommt die Regelung, dürfte auch der Wettbewerb um KI-Startup-Talente auf mögliche Wettbewerbsbeschränkungen geprüft werden. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Startups IA : les rachats déguisés par recrutement de talents bientôt déclarés",
-        "excerpt": "Les autorités de concurrence veulent intégrer aux déclarations de concentration les recrutements de talents clés de startups IA pouvant constituer des acquisitions déguisées.",
-        "body": "Selon l’agence Yonhap, les autorités de concurrence poussent à améliorer le régime de déclaration des concentrations afin d’empêcher les cas où une entreprise absorbe de fait une startup d’intelligence artificielle (IA) très technologique en recrutant ses talents clés. La discussion vise les acquisitions dites de contournement, susceptibles de faire sortir technologies et personnels d’entreprises IA prometteuses capables de devenir une « K-Nvidia » en dehors des procédures formelles de rachat. La nécessité d’une déclaration a été soulevée car le recrutement de talents essentiels peut dépasser le simple emploi et entraîner un transfert effectif du contrôle de l’entreprise. Si le dispositif est mis en place, la concurrence pour les talents des startups IA pourrait aussi être examinée sous l’angle des restrictions à la concurrence. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "تشديد على استقطاب مواهب شركات الذكاء الاصطناعي لمنع الاستحواذ الملتف",
-        "excerpt": "تسعى سلطات المنافسة إلى إدراج توظيف المواهب الأساسية في شركات الذكاء الاصطناعي الناشئة ضمن إخطارات الاندماج عندما يؤدي ذلك إلى استحواذ فعلي غير مباشر.",
-        "body": "بحسب وكالة يونهاب، تدفع سلطات المنافسة باتجاه تحسين نظام الإخطار بعمليات الاندماج لمنع حالات تمتص فيها شركات، فعليا، شركات ناشئة متقدمة تقنيا في الذكاء الاصطناعي عبر توظيف مواهبها الأساسية. وتستهدف المناقشة ما يسمى بالاستحواذ عبر الالتفاف، حيث قد تنتقل التكنولوجيا والكوادر من شركات واعدة يمكن أن تنمو لتصبح «كي-إنفيديا» خارج إجراءات الاستحواذ الرسمية. وطرحت الحاجة إلى الإخطار لأن توظيف الكوادر المحورية قد يتجاوز التوظيف العادي ويؤدي إلى نقل فعلي للسيطرة على الشركة. وإذا أقر النظام، فقد تخضع المنافسة على مواهب شركات الذكاء الاصطناعي الناشئة لمراجعة تقييد المنافسة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "AI स्टार्टअप प्रतिभा की ‘घुमावदार खरीद’ पर रोक, विलय सूचना नियम आगे बढ़े",
-        "excerpt": "प्रतिस्पर्धा प्राधिकरण प्रमुख AI स्टार्टअप प्रतिभाओं की भर्ती के जरिये होने वाले वास्तविक अधिग्रहणों को विलय सूचना दायरे में लाने की तैयारी कर रहा है।",
-        "body": "योनहाप समाचार एजेंसी के अनुसार, प्रतिस्पर्धा प्राधिकरण विलय सूचना प्रणाली में सुधार आगे बढ़ा रहा है ताकि उन मामलों को रोका जा सके जिनमें कोई कंपनी उच्च तकनीकी क्षमता वाले कृत्रिम बुद्धिमत्ता (AI) स्टार्टअप की प्रमुख प्रतिभाओं को भर्ती कर उसे व्यवहार में अपने भीतर समाहित कर लेती है। यह चर्चा ऐसे परोक्ष अधिग्रहणों पर केंद्रित है जिनसे ‘K-एनवीडिया’ बन सकने वाली संभावनाशील AI कंपनियों की तकनीक और मानव संसाधन औपचारिक अधिग्रहण प्रक्रिया से बाहर निकल सकते हैं। प्रमुख प्रतिभाओं की भर्ती साधारण रोजगार से आगे जाकर कंपनी के वास्तविक नियंत्रण के हस्तांतरण में बदल सकती है, इसलिए सूचना देने की जरूरत उठाई गई है। व्यवस्था लागू होने पर AI स्टार्टअप प्रतिभाओं की होड़ पर भी प्रतिस्पर्धा-सीमा की समीक्षा लागू हो सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Akuisisi Terselubung Talenta Startup AI Dicegah Lewat Notifikasi Merger",
-        "excerpt": "Otoritas persaingan mendorong perekrutan talenta inti startup AI yang berujung pengambilalihan faktual masuk kewajiban notifikasi merger untuk mencegah akuisisi tidak langsung.",
-        "body": "Menurut kantor berita Yonhap, otoritas persaingan mendorong perbaikan sistem notifikasi penggabungan usaha untuk mencegah kasus ketika perusahaan secara faktual menyerap startup kecerdasan buatan (AI) berteknologi tinggi dengan merekrut talenta intinya. Pembahasan ini menargetkan akuisisi melalui jalur tidak langsung yang dapat membuat teknologi dan tenaga dari perusahaan AI menjanjikan, yang berpotensi tumbuh menjadi “K-Nvidia”, keluar dari prosedur akuisisi resmi. Kebutuhan notifikasi muncul karena perekrutan talenta kunci dapat melampaui hubungan kerja biasa dan mengarah pada perpindahan kendali perusahaan secara nyata. Jika sistem diterapkan, persaingan merebut talenta startup AI juga dapat diperiksa dari sisi pembatasan persaingan. Sumber: yna.co.kr"
       }
     }
   }

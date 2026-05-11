@@ -1,0 +1,75 @@
+{
+  "id": "254ee1c65cdf",
+  "slug": "경매-넘어간-경기-아파트한달새-30-늘어-1000건-313983",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-11T08:45:37.834Z",
+  "updatedAt": "2026-05-11T08:45:37.834Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/realestate/12043429",
+  "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043429",
+  "titleFingerprint": "c03d547e6a29e0a0b6e4b00c85f6c98b16e3105d",
+  "dedupKeys": [
+    "254ee1c65cdf4a1e28a70513fd7a348f1163a86f",
+    "c03d547e6a29e0a0b6e4b00c85f6c98b16e3105d",
+    "f6cf4283dcecd810c4d149315fb73adbe63150e7"
+  ],
+  "imageUrl": "/images/articles/254ee1c65cdf.jpg",
+  "i18n": {
+    "ko": {
+      "title": "경기 아파트 경매 1000건 돌파…서울 접근권도 금융 부담에 매물 증가",
+      "excerpt": "11일 직방이 법원경매정보를 분석한 결과, 서울 접근성이 좋은 경기권 아파트 경매 물건이 한 달 새 30% 늘어 1000건에 이른 것으로 나타났다.",
+      "body": "서울 접근성이 좋은 경기권을 중심으로 실수요 유입이 이어지는 가운데, 금융 부담과 유동성 압박을 견디지 못한 아파트 매물이 경매시장으로 넘어가고 있다. 11일 직방이 법원경매정보를 분석한 내용에 따르면 경기 아파트 경매 물건은 한 달 사이 30% 증가해 1000건에 달했다. 수요가 유지되는 지역에서도 자금 사정이 악화된 보유자의 매물이 경매로 나오는 흐름이 확인된 것이다. 이는 경기권 주택시장에서 실수요와 금융 압박이 동시에 작용하고 있음을 보여준다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Gyeonggi Apartment Auctions Hit 1,000 as Financial Strain Pushes Listings Up",
+      "excerpt": "Zigbang’s May 11 analysis of court auction data found Gyeonggi apartment auction listings rose 30% in one month to about 1,000 despite steady end-user demand near Seoul.",
+      "body": "Apartment listings in Gyeonggi Province are increasingly moving into the auction market as some owners struggle with financial burdens and liquidity pressure, even as end-user demand continues in areas with good access to Seoul. According to Zigbang’s analysis of court auction information released on May 11, Gyeonggi apartment auction items increased 30% in one month, reaching about 1,000 cases. The figures show that even in locations where demand remains, properties held by financially pressured owners are entering auctions. This points to both real housing demand and funding stress operating in the Gyeonggi market. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "京畿道マンション競売1000件に増加、ソウル近接地でも資金負担が影響",
+      "excerpt": "直房が11日に裁判所競売情報を分析した結果、ソウルへのアクセスが良い京畿道のマンション競売物件は1カ月で30%増え、1000件に達した。",
+      "body": "ソウルへのアクセスが良い京畿道を中心に実需の流入が続く一方、金融負担や流動性の圧迫に耐えられないマンション物件が競売市場に出ている。直房が11日に裁判所競売情報を分析した内容によると、京畿道のマンション競売物件は1カ月で30%増加し、1000件に達した。需要が維持される地域でも、資金事情が悪化した保有者の物件が競売に回る流れが確認された形だ。これは京畿道住宅市場で実需と金融圧力が同時に作用していることを示す。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "京畿公寓拍卖增至1000宗，首尔通勤圈也受资金压力影响",
+      "excerpt": "Zigbang于11日分析法院拍卖信息显示，首尔可达性较好的京畿地区公寓拍卖标的一个月内增加30%，达到1000宗。",
+      "body": "在首尔可达性较好的京畿地区，实际居住需求仍在流入，但无法承受金融负担和流动性压力的公寓房源正进入拍卖市场。Zigbang于11日对法院拍卖信息的分析显示，京畿公寓拍卖标的在一个月内增加30%，达到1000宗。即使在需求保持的地区，资金状况恶化的持有人房源也开始转向拍卖。该现象显示，京畿住宅市场同时受到实际需求和资金压力的影响。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Subastas de apartamentos en Gyeonggi llegan a 1.000 por presión financiera",
+      "excerpt": "Según el análisis de Zigbang del 11 de mayo sobre datos judiciales, las subastas de apartamentos en Gyeonggi aumentaron 30% en un mes hasta 1.000 casos.",
+      "body": "En Gyeonggi, especialmente en zonas con buen acceso a Seúl, la demanda de usuarios finales continúa, pero algunos apartamentos están llegando al mercado de subastas por cargas financieras y presión de liquidez. Según el análisis de Zigbang de la información de subastas judiciales publicado el 11 de mayo, los apartamentos en subasta en Gyeonggi aumentaron 30% en un mes y alcanzaron 1.000 casos. El dato muestra que, incluso donde la demanda se mantiene, salen a subasta propiedades de dueños con dificultades de financiación. Esto refleja la coexistencia de demanda real y presión financiera en el mercado residencial de Gyeonggi. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Leilões de apartamentos em Gyeonggi chegam a 1.000 com pressão financeira",
+      "excerpt": "Análise da Zigbang divulgada em 11 de maio mostra que os leilões judiciais de apartamentos em Gyeonggi cresceram 30% em um mês, chegando a 1.000 casos.",
+      "body": "Em Gyeonggi, sobretudo nas áreas com bom acesso a Seul, a demanda de compradores para uso próprio continua, mas apartamentos de proprietários pressionados por encargos financeiros e falta de liquidez estão chegando ao mercado de leilões. Segundo análise da Zigbang sobre informações de leilões judiciais divulgada em 11 de maio, os apartamentos em leilão em Gyeonggi aumentaram 30% em um mês e chegaram a 1.000 casos. O movimento mostra que, mesmo em regiões com demanda, imóveis de donos com dificuldades financeiras estão sendo levados a leilão. Isso evidencia a atuação simultânea da demanda real e da pressão financeira no mercado habitacional de Gyeonggi. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Wohnungsauktionen in Gyeonggi steigen auf 1.000 Fälle durch Finanzdruck",
+      "excerpt": "Eine Zigbang-Analyse von Gerichtsdaten vom 11. Mai zeigt: Wohnungsauktionen in Gyeonggi stiegen binnen eines Monats um 30% auf rund 1.000 Fälle.",
+      "body": "In Gyeonggi hält die Nachfrage von Eigennutzern vor allem in gut an Seoul angebundenen Gebieten an, doch Wohnungen von Eigentümern unter finanzieller Belastung und Liquiditätsdruck gelangen zunehmend in den Auktionsmarkt. Laut einer am 11. Mai veröffentlichten Analyse von Zigbang zu Gerichtsdaten stieg die Zahl der Wohnungsauktionen in Gyeonggi innerhalb eines Monats um 30% auf rund 1.000 Fälle. Damit zeigt sich, dass selbst in nachgefragten Lagen Objekte finanziell belasteter Besitzer versteigert werden. Der Markt in Gyeonggi wird somit zugleich von realer Nachfrage und Finanzdruck geprägt. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Les enchères d’appartements à Gyeonggi atteignent 1 000 sous pression financière",
+      "excerpt": "Selon l’analyse de Zigbang publiée le 11 mai, les enchères judiciaires d’appartements à Gyeonggi ont augmenté de 30% en un mois pour atteindre 1 000 cas.",
+      "body": "Dans la province de Gyeonggi, notamment dans les zones bien reliées à Séoul, la demande des utilisateurs finaux se poursuit, mais des appartements détenus par des propriétaires soumis à des charges financières et à des tensions de liquidité arrivent sur le marché des enchères. Selon l’analyse par Zigbang des données d’enchères judiciaires publiée le 11 mai, les biens d’appartements mis aux enchères à Gyeonggi ont augmenté de 30% en un mois pour atteindre 1 000 cas. Même dans les zones où la demande se maintient, des biens de propriétaires en difficulté financière passent aux enchères. Cela montre que demande réelle et pression financière agissent simultanément sur le marché résidentiel de Gyeonggi. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "مزادات شقق غيونغي تصل إلى 1000 حالة مع تصاعد الضغوط المالية",
+      "excerpt": "أظهر تحليل زيغبانغ لمعلومات المزادات القضائية في 11 مايو أن شقق غيونغي المعروضة للمزاد زادت 30% خلال شهر واحد لتصل إلى نحو 1000 حالة.",
+      "body": "تتواصل حركة الطلب الفعلي في مناطق غيونغي ذات الوصول الجيد إلى سيول، لكن شققا لم يتمكن مالكوها من تحمل الأعباء المالية وضغط السيولة بدأت تنتقل إلى سوق المزادات. وبحسب تحليل زيغبانغ لمعلومات المزادات القضائية الصادر في 11 مايو، ارتفع عدد شقق غيونغي المعروضة للمزاد 30% خلال شهر واحد ليصل إلى نحو 1000 حالة. وتوضح هذه الأرقام أن العقارات قد تدخل المزاد حتى في المناطق التي ما زال الطلب فيها قائما عندما تتدهور أوضاع التمويل لدى المالكين. ويعكس ذلك تزامن الطلب الحقيقي مع الضغوط المالية في سوق الإسكان في غيونغي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "ग्योंगगी अपार्टमेंट नीलामी 1,000 तक पहुंची, वित्तीय दबाव से मामले बढ़े",
+      "excerpt": "11 मई को जिगबैंग के अदालत नीलामी आंकड़ों के विश्लेषण के अनुसार, सियोल से अच्छी पहुंच वाले ग्योंगगी अपार्टमेंट की नीलामी एक महीने में 30% बढ़कर 1,000 हो गई।",
+      "body": "सियोल तक अच्छी पहुंच वाले ग्योंगगी क्षेत्रों में वास्तविक आवास मांग बनी हुई है, लेकिन वित्तीय बोझ और नकदी दबाव झेलने में असमर्थ अपार्टमेंट नीलामी बाजार में आ रहे हैं। 11 मई को जिगबैंग द्वारा अदालत नीलामी जानकारी के विश्लेषण के अनुसार, ग्योंगगी अपार्टमेंट नीलामी वस्तुएं एक महीने में 30% बढ़कर 1,000 मामलों तक पहुंच गईं। यह दिखाता है कि मांग बनी रहने वाले क्षेत्रों में भी कमजोर वित्तीय स्थिति वाले मालिकों की संपत्तियां नीलामी में जा रही हैं। इससे ग्योंगगी आवास बाजार में वास्तविक मांग और वित्तीय दबाव दोनों के साथ मौजूद होने का संकेत मिलता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Lelang Apartemen Gyeonggi Tembus 1.000 saat Tekanan Keuangan Meningkat",
+      "excerpt": "Analisis Zigbang pada 11 Mei atas data lelang pengadilan menunjukkan apartemen Gyeonggi yang dilelang naik 30% dalam sebulan menjadi 1.000 kasus.",
+      "body": "Di wilayah Gyeonggi yang memiliki akses baik ke Seoul, permintaan pengguna akhir masih berlanjut, tetapi apartemen dari pemilik yang tidak mampu menahan beban keuangan dan tekanan likuiditas mulai masuk ke pasar lelang. Menurut analisis Zigbang atas informasi lelang pengadilan yang dirilis pada 11 Mei, objek lelang apartemen Gyeonggi naik 30% dalam satu bulan dan mencapai 1.000 kasus. Data ini menunjukkan bahwa bahkan di area dengan permintaan yang tetap ada, properti milik pemilik yang kondisi dananya memburuk dapat masuk lelang. Hal ini mencerminkan bekerjanya permintaan riil dan tekanan keuangan secara bersamaan di pasar hunian Gyeonggi. Sumber: mk.co.kr"
+    }
+  }
+}

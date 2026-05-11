@@ -1,0 +1,75 @@
+{
+  "id": "40d05f4a53f5",
+  "slug": "공사대금채권-유동화로롯데건설-3천억원-조달-359724",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-11T08:46:44.226Z",
+  "updatedAt": "2026-05-11T08:46:44.226Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/realestate/12043430",
+  "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043430",
+  "titleFingerprint": "ce921787e3d5e32745755da693c41463c5e472c5",
+  "dedupKeys": [
+    "40d05f4a53f557d44d7b45a5971d34216fb37859",
+    "ce921787e3d5e32745755da693c41463c5e472c5",
+    "d5693d64435f2d3d73a33b8b369c41fcddbd1937"
+  ],
+  "imageUrl": "/images/articles/40d05f4a53f5.jpg",
+  "i18n": {
+    "ko": {
+      "title": "롯데건설, 공사대금채권 유동화 ABS로 3000억원 조달 성공",
+      "excerpt": "롯데건설은 준공 임박 사업장의 공사대금 채권을 활용한 유동화 금융상품 ABS를 자체 개발하고 AAA 신용등급 채권 발행으로 3000억원을 조달했다.",
+      "body": "롯데건설이 준공을 앞둔 사업장의 공사대금 채권을 활용해 자체 개발한 유동화 금융상품, 즉 ABS를 발행하고 3000억원의 자금을 조달했다. 이번 조달은 공사대금채권을 기초자산으로 삼아 유동화한 방식으로 진행됐으며, 발행 채권은 ‘트리플 A(AAA)’ 신용등급을 받았다. 롯데건설은 준공 임박 사업장에서 발생할 공사대금 채권을 금융상품으로 구조화해 자금 조달에 활용했다. 건설업계에서 자금 운용과 유동성 확보가 중요한 상황에서 이번 사례는 공사대금채권을 활용한 조달 방식으로 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Lotte E&C Raises 300 Billion Won Through ABS Backed by Construction Receivables",
+      "excerpt": "Lotte E&C developed an ABS product backed by construction payment receivables from nearly completed projects and raised 300 billion won through AAA-rated bond issuance.",
+      "body": "Lotte Engineering & Construction raised 300 billion won by issuing an asset-backed securities product it developed using construction payment receivables from projects nearing completion. The financing was structured by securitizing construction receivables as underlying assets, and the issued bonds received a Triple-A (AAA) credit rating. Lotte E&C used receivables expected from sites close to completion as the basis for the financial product. At a time when liquidity management remains important in the construction industry, the deal draws attention as a funding method using construction payment claims. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "ロッテ建設、工事代金債権の流動化ABSで3000億ウォン調達",
+      "excerpt": "ロッテ建設は竣工間近の事業場の工事代金債権を活用したABSを自社開発し、AAA格付けの債券発行で3000億ウォンを調達した。",
+      "body": "ロッテ建設は、竣工を控えた事業場の工事代金債権を活用し、自社開発した流動化金融商品であるABSを発行して3000億ウォンを調達した。今回の資金調達は、工事代金債権を裏付け資産として流動化する方式で行われ、発行された債券は「トリプルA（AAA）」の信用格付けを取得した。ロッテ建設は、竣工間近の現場で発生する工事代金債権を金融商品として構造化し、資金調達に活用した。建設業界で資金運用と流動性確保が重要ななか、今回の事例は工事代金債権を活用した調達手法として注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "乐天建设以工程款债权证券化ABS筹资3000亿韩元",
+      "excerpt": "乐天建设自主开发以临近竣工项目工程款债权为基础的ABS，并通过发行AAA信用评级债券筹集3000亿韩元资金。",
+      "body": "乐天建设利用临近竣工项目的工程款债权，发行自主开发的资产支持证券（ABS），筹集了3000亿韩元资金。本次融资以工程款债权作为基础资产进行证券化，所发行债券获得“三A（AAA）”信用评级。乐天建设将临近竣工工地预计产生的工程款债权结构化为金融产品，并用于资金筹措。在建筑行业资金运用和流动性保障备受重视的背景下，该案例作为利用工程款债权进行融资的方式受到关注。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Lotte E&C capta 300.000 millones de wones con ABS respaldados por créditos de obra",
+      "excerpt": "Lotte E&C desarrolló un ABS basado en créditos por pagos de construcción de proyectos próximos a completarse y captó 300.000 millones de wones con bonos AAA.",
+      "body": "Lotte Engineering & Construction captó 300.000 millones de wones mediante la emisión de un producto de titulización ABS desarrollado internamente y respaldado por créditos por pagos de construcción de proyectos próximos a su finalización. La financiación se realizó titulizando esos créditos como activos subyacentes, y los bonos emitidos recibieron una calificación crediticia Triple A (AAA). La compañía estructuró como producto financiero los créditos por obras esperados en sitios cercanos a la entrega y los utilizó para obtener fondos. En un contexto en el que la gestión de liquidez es clave para el sector constructor, el caso destaca como una vía de financiación basada en créditos de obra. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Lotte E&C levanta 300 bilhões de won com ABS lastreado em recebíveis de obras",
+      "excerpt": "A Lotte E&C desenvolveu um ABS com recebíveis de obras próximas da conclusão e captou 300 bilhões de won por meio de emissão de títulos com rating AAA.",
+      "body": "A Lotte Engineering & Construction captou 300 bilhões de won ao emitir um produto de securitização ABS desenvolvido internamente e lastreado em recebíveis de obras de projetos próximos da conclusão. A operação foi estruturada com os recebíveis de construção como ativos subjacentes, e os títulos emitidos receberam classificação de crédito Triple A (AAA). A empresa transformou em produto financeiro os valores a receber de canteiros próximos da entrega e os utilizou para levantar recursos. Em um momento em que a gestão de caixa e a liquidez são importantes no setor de construção, a operação chama atenção como forma de captação baseada em recebíveis de obras. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Lotte E&C beschafft 300 Mrd. Won über ABS mit Bauzahlungsforderungen",
+      "excerpt": "Lotte E&C entwickelte ein ABS auf Basis von Bauzahlungsforderungen aus fast fertiggestellten Projekten und beschaffte 300 Mrd. Won über AAA-Anleihen.",
+      "body": "Lotte Engineering & Construction hat 300 Milliarden Won durch die Emission eines selbst entwickelten ABS-Finanzprodukts beschafft, das auf Bauzahlungsforderungen aus kurz vor der Fertigstellung stehenden Projekten basiert. Die Finanzierung erfolgte durch Verbriefung dieser Forderungen als zugrunde liegende Vermögenswerte; die ausgegebenen Anleihen erhielten ein Triple-A-Rating (AAA). Lotte E&C strukturierte erwartete Forderungen aus nahezu abgeschlossenen Baustellen als Finanzprodukt und nutzte sie zur Kapitalaufnahme. In einer Bauwirtschaft, in der Liquiditätssicherung und Finanzsteuerung wichtig sind, gilt der Fall als bemerkenswerte Finanzierungsform mit Bauzahlungsforderungen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Lotte E&C lève 300 milliards de wons via un ABS adossé à des créances de construction",
+      "excerpt": "Lotte E&C a développé un ABS adossé à des créances de chantiers proches de l’achèvement et levé 300 milliards de wons avec des obligations notées AAA.",
+      "body": "Lotte Engineering & Construction a levé 300 milliards de wons en émettant un produit de titrisation ABS développé en interne et adossé à des créances de paiement de construction issues de projets proches de l’achèvement. L’opération a été structurée en utilisant ces créances comme actifs sous-jacents, et les obligations émises ont obtenu la note Triple A (AAA). Lotte E&C a transformé les créances attendues sur des sites presque terminés en produit financier afin de les utiliser pour son financement. Dans un secteur de la construction où la gestion des fonds et la liquidité restent importantes, cette opération retient l’attention comme méthode de financement fondée sur les créances de construction. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "لوتيه للهندسة تجمع 300 مليار وون عبر ABS مدعومة بمستحقات البناء",
+      "excerpt": "طورت لوتيه للهندسة والإنشاءات منتجا تمويليا ABS قائما على مستحقات أعمال البناء في مشاريع تقترب من الاكتمال، وجمعت 300 مليار وون بإصدار سندات مصنفة AAA.",
+      "body": "جمعت لوتيه للهندسة والإنشاءات 300 مليار وون من خلال إصدار منتج توريق مالي من نوع ABS طورته داخليا، مستندا إلى مستحقات أعمال البناء في مشاريع تقترب من الإنجاز. تمت عملية التمويل عبر تحويل مستحقات البناء إلى أصول أساسية قابلة للتوريق، وحصلت السندات المصدرة على تصنيف ائتماني «تريبل إيه» (AAA). واستخدمت الشركة المستحقات المتوقعة من مواقع قريبة من التسليم كأساس لهيكلة المنتج المالي وجمع الأموال. وفي ظل أهمية إدارة السيولة في قطاع البناء، تبرز هذه العملية كطريقة تمويل تعتمد على مستحقات أعمال البناء. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "लोट्टे ईएंडसी ने निर्माण भुगतान दावों पर आधारित ABS से 300 अरब वॉन जुटाए",
+      "excerpt": "लोट्टे ईएंडसी ने पूर्णता के करीब परियोजनाओं के निर्माण भुगतान दावों पर आधारित ABS स्वयं विकसित किया और AAA रेटेड बॉन्ड जारी कर 300 अरब वॉन जुटाए।",
+      "body": "लोट्टे इंजीनियरिंग एंड कंस्ट्रक्शन ने पूर्णता के करीब पहुंच चुकी परियोजनाओं के निर्माण भुगतान दावों का उपयोग कर स्वयं विकसित एसेट-बैक्ड सिक्योरिटीज यानी ABS जारी किया और 300 अरब वॉन की राशि जुटाई। यह वित्तपोषण निर्माण भुगतान दावों को आधारभूत परिसंपत्ति बनाकर प्रतिभूतिकरण के रूप में किया गया, और जारी बॉन्ड को ट्रिपल ए (AAA) क्रेडिट रेटिंग मिली। कंपनी ने निकट-समाप्ति वाले कार्यस्थलों से अपेक्षित निर्माण भुगतान दावों को वित्तीय उत्पाद के रूप में संरचित कर धन जुटाने में इस्तेमाल किया। निर्माण उद्योग में तरलता और资金 प्रबंधन की अहमियत के बीच यह मामला निर्माण भुगतान दावों पर आधारित वित्तपोषण पद्धति के रूप में ध्यान आकर्षित करता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Lotte E&C Raup 300 Miliar Won Lewat ABS Berbasis Piutang Pembayaran Konstruksi",
+      "excerpt": "Lotte E&C mengembangkan ABS berbasis piutang pembayaran konstruksi dari proyek yang hampir selesai dan meraih 300 miliar won melalui obligasi berperingkat AAA.",
+      "body": "Lotte Engineering & Construction mengumpulkan dana 300 miliar won dengan menerbitkan produk sekuritisasi ABS yang dikembangkan sendiri, berbasis piutang pembayaran konstruksi dari proyek yang mendekati penyelesaian. Pendanaan ini dilakukan dengan menjadikan piutang konstruksi sebagai aset dasar yang disekuritisasi, dan obligasi yang diterbitkan memperoleh peringkat kredit Triple A (AAA). Lotte E&C menyusun piutang yang diharapkan muncul dari lokasi proyek hampir selesai menjadi produk keuangan untuk memperoleh dana. Di tengah pentingnya pengelolaan dana dan likuiditas di industri konstruksi, transaksi ini menarik perhatian sebagai metode pendanaan yang memanfaatkan piutang pembayaran konstruksi. Sumber: mk.co.kr"
+    }
+  }
+}
