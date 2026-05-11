@@ -1,5 +1,230 @@
 [
   {
+    "id": "886a4697817b",
+    "slug": "美-ai-밀물에-노젓는-반도체-인텔-amd-뛰고-k칩-3사-날아올라-373602",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T21:24:33.004Z",
+    "updatedAt": "2026-05-11T21:24:33.004Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902419/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902419/2",
+    "titleFingerprint": "f277949c5232959477d35d8b40a5a0e286df57ab",
+    "dedupKeys": [
+      "886a4697817b8b9cf00c6550424702d09ea8d293",
+      "f277949c5232959477d35d8b40a5a0e286df57ab",
+      "fe4516bf6a72f94e194b9a2d9a88bd9b05cb223f"
+    ],
+    "imageUrl": "/images/articles/886a4697817b.png",
+    "i18n": {
+      "ko": {
+        "title": "미 AI 투자 열풍에 반도체주 급등, 코스피 7,822 사상 최고치",
+        "excerpt": "11일 미국 AI 투자 확대 기대 속에 삼성전자·SK하이닉스 등 한국 반도체 대형주가 급등하며 코스피가 7,822.24로 사상 최고치를 경신했다.",
+        "body": "11일 한국 증시는 미국 인공지능(AI) 투자 열풍과 글로벌 반도체 기업의 실적 기대를 배경으로 반도체주가 급등하며 코스피 8,000선에 바짝 다가섰다. 코스피는 전 거래일보다 4.32% 오른 7,822.24로 마감해 사상 최고치를 새로 썼다. 삼성전자(+6.33%), SK하이닉스(+11.51%), SK스퀘어(+8.11%), 삼성전자 우선주(+6.68%) 등 시가총액 상위 반도체주가 나란히 신고가를 기록했다. 반도체 3대 대형주의 코스피 비중은 51.8%로 집계됐다. JP모건은 코스피 목표 지수를 1만으로 올렸지만, 하락 종목이 상승 종목의 약 5배에 달해 증시 양극화도 뚜렷해졌다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Semiconductor Stocks Surge on U.S. AI Investment, KOSPI Hits Record 7,822",
+        "excerpt": "On the 11th, Korean chip leaders including Samsung Electronics and SK hynix jumped on U.S. AI investment momentum, lifting the KOSPI to a record 7,822.24.",
+        "body": "On the 11th, Korean stocks moved close to the 8,000 level as semiconductor shares surged on the U.S. artificial intelligence investment boom and expectations for strong global chip earnings. The KOSPI closed at 7,822.24, up 4.32% from the previous session, setting a new record high. Major chip-related names by market value also reached fresh highs, including Samsung Electronics (+6.33%), SK hynix (+11.51%), SK Square (+8.11%) and Samsung Electronics preferred shares (+6.68%). The three largest semiconductor stocks accounted for 51.8% of the KOSPI. JPMorgan raised its KOSPI target to 10,000, but market polarization also deepened as declining stocks outnumbered advancers by about five to one. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "米AI投資ブームで半導体株急騰、KOSPIは7,822の最高値",
+        "excerpt": "11日、米国のAI投資拡大期待を背景にサムスン電子やSKハイニックスなど韓国半導体大型株が急伸し、KOSPIは7,822.24で最高値を更新した。",
+        "body": "11日の韓国株式市場では、米国の人工知能（AI）投資ブームと世界的な半導体企業の好業績期待を背景に半導体株が急騰し、KOSPIは8,000台目前に迫った。KOSPIは前取引日比4.32%高の7,822.24で引け、過去最高値を更新した。サムスン電子（+6.33%）、SKハイニックス（+11.51%）、SKスクエア（+8.11%）、サムスン電子優先株（+6.68%）など、時価総額上位の半導体関連大型株がそろって新高値を付けた。半導体3大大型株のKOSPI構成比は51.8%だった。JPモルガンはKOSPI目標を1万に引き上げた一方、下落銘柄は上昇銘柄の約5倍に達し、市場の二極化も鮮明になった。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "美国AI投资热推升半导体股，KOSPI创7,822点新高",
+        "excerpt": "11日，在美国AI投资热潮带动下，三星电子、SK海力士等韩国半导体龙头大涨，KOSPI收于7,822.24点并刷新历史高位。",
+        "body": "11日，韩国股市在美国人工智能（AI）投资热潮和全球半导体企业业绩预期推动下，半导体股大幅上涨，KOSPI逼近8,000点。KOSPI较前一交易日上涨4.32%，收于7,822.24点，刷新历史最高纪录。三星电子（+6.33%）、SK海力士（+11.51%）、SK Square（+8.11%）、三星电子优先股（+6.68%）等市值居前的半导体大型股同步创下新高。三大半导体大型股在KOSPI中的占比达51.8%。摩根大通将KOSPI目标上调至10,000点，但下跌个股约为上涨个股的5倍，市场分化也更加明显。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El auge de la IA en EE. UU. impulsa chips y lleva al KOSPI a 7.822",
+        "excerpt": "El día 11, Samsung Electronics, SK hynix y otros grandes valores coreanos de semiconductores subieron por el impulso inversor en IA de EE. UU., y el KOSPI marcó 7.822,24.",
+        "body": "El día 11, la bolsa coreana se acercó al nivel de 8.000 puntos después de que las acciones de semiconductores subieran con fuerza por el auge de inversión en inteligencia artificial (IA) en Estados Unidos y las expectativas de sólidos resultados globales del sector. El KOSPI cerró en 7.822,24, un 4,32% más que en la sesión anterior, y renovó su máximo histórico. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) y las preferentes de Samsung Electronics (+6,68%) marcaron nuevos máximos. Los tres grandes valores de semiconductores representaron el 51,8% del KOSPI. JPMorgan elevó su objetivo para el índice a 10.000, aunque las acciones a la baja fueron unas cinco veces las alcistas, mostrando una mayor polarización. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Alta da IA nos EUA impulsiona chips e leva KOSPI ao recorde de 7.822",
+        "excerpt": "No dia 11, Samsung Electronics, SK hynix e outras grandes ações coreanas de semicondutores subiram com o impulso dos investimentos em IA nos EUA, levando o KOSPI a 7.822,24.",
+        "body": "No dia 11, o mercado acionário coreano se aproximou dos 8.000 pontos com a forte alta das ações de semicondutores, apoiada pela onda de investimentos em inteligência artificial (IA) nos Estados Unidos e pela expectativa de resultados elevados das empresas globais do setor. O KOSPI fechou em 7.822,24, alta de 4,32% ante o pregão anterior, renovando sua máxima histórica. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) e as ações preferenciais da Samsung Electronics (+6,68%) atingiram novos recordes. As três maiores ações de semicondutores responderam por 51,8% do KOSPI. O JPMorgan elevou sua meta para o índice a 10.000, mas as ações em queda foram cerca de cinco vezes as em alta, evidenciando maior polarização. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "US-KI-Boom treibt Chipwerte, KOSPI erreicht Rekord von 7.822 Punkten",
+        "excerpt": "Am 11. stiegen Samsung Electronics, SK hynix und weitere koreanische Chip-Schwergewichte im Sog der US-KI-Investitionen stark, der KOSPI schloss auf Rekordniveau bei 7.822,24.",
+        "body": "Am 11. näherte sich der koreanische Aktienmarkt der Marke von 8.000 Punkten, da Halbleiterwerte im Zuge des US-Investitionsbooms in künstliche Intelligenz (KI) und der Erwartungen starker globaler Branchenergebnisse deutlich zulegten. Der KOSPI schloss mit 7.822,24 Punkten um 4,32% höher als am Vortag und markierte ein neues Allzeithoch. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) und die Vorzugsaktien von Samsung Electronics (+6,68%) erreichten jeweils neue Höchststände. Die drei größten Halbleiterwerte machten 51,8% des KOSPI aus. JPMorgan erhöhte das Ziel für den Index auf 10.000, doch zugleich gab es etwa fünfmal so viele Verlierer wie Gewinner, was die Polarisierung am Markt verdeutlichte. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "L’essor de l’IA aux États-Unis dope les puces, le KOSPI atteint 7 822",
+        "excerpt": "Le 11, Samsung Electronics, SK hynix et d’autres grands titres coréens des semi-conducteurs ont bondi avec l’élan des investissements américains dans l’IA, portant le KOSPI à 7 822,24.",
+        "body": "Le 11, la Bourse coréenne s’est rapprochée du seuil de 8 000 points grâce à la forte hausse des valeurs des semi-conducteurs, portée par l’engouement pour l’investissement dans l’intelligence artificielle (IA) aux États-Unis et par les attentes de solides résultats mondiaux dans le secteur. Le KOSPI a clôturé à 7 822,24, en hausse de 4,32% par rapport à la séance précédente, inscrivant un nouveau record historique. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) et les actions préférentielles de Samsung Electronics (+6,68%) ont atteint de nouveaux sommets. Les trois plus grandes valeurs des semi-conducteurs représentaient 51,8% du KOSPI. JPMorgan a relevé son objectif pour l’indice à 10 000, mais les titres en baisse étaient environ cinq fois plus nombreux que les hausses, signe d’une polarisation accrue. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "طفرة استثمارات الذكاء الاصطناعي الأميركية ترفع أسهم الرقائق وكوسبي إلى 7,822",
+        "excerpt": "في 11 من الشهر، قفزت أسهم سامسونغ إلكترونيكس وSK هاينكس وغيرها من كبار مصنعي الرقائق في كوريا بدعم زخم استثمارات الذكاء الاصطناعي الأميركية، ليبلغ كوسبي 7,822.24.",
+        "body": "في 11 من الشهر، اقترب سوق الأسهم الكورية من مستوى 8,000 نقطة بعدما ارتفعت أسهم أشباه الموصلات بقوة، مدفوعة بطفرة الاستثمار في الذكاء الاصطناعي في الولايات المتحدة وتوقعات الأداء القوي لشركات الرقائق عالميا. وأغلق مؤشر كوسبي عند 7,822.24 نقطة، مرتفعا 4.32% عن الجلسة السابقة، مسجلا أعلى مستوى تاريخي. وحققت أسهم سامسونغ إلكترونيكس (+6.33%) وSK هاينكس (+11.51%) وSK سكوير (+8.11%) والأسهم الممتازة لسامسونغ إلكترونيكس (+6.68%) مستويات قياسية جديدة. وبلغ وزن أكبر ثلاث شركات أشباه موصلات في كوسبي 51.8%. ورفع جيه بي مورغان هدف المؤشر إلى 10,000، لكن الأسهم الهابطة بلغت نحو خمسة أضعاف الصاعدة، ما أبرز اتساع الاستقطاب في السوق. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "अमेरिकी AI निवेश उछाल से चिप शेयर चढ़े, KOSPI रिकॉर्ड 7,822 पर",
+        "excerpt": "11 तारीख को अमेरिकी AI निवेश की तेजी के बीच Samsung Electronics, SK hynix सहित कोरियाई सेमीकंडक्टर दिग्गजों में उछाल आया और KOSPI 7,822.24 के रिकॉर्ड स्तर पर बंद हुआ।",
+        "body": "11 तारीख को कोरियाई शेयर बाजार 8,000 अंक के करीब पहुंच गया, क्योंकि अमेरिकी कृत्रिम बुद्धिमत्ता (AI) निवेश उछाल और वैश्विक सेमीकंडक्टर कंपनियों के मजबूत प्रदर्शन की उम्मीदों से चिप शेयरों में तेज बढ़त आई। KOSPI पिछले सत्र से 4.32% बढ़कर 7,822.24 पर बंद हुआ और नया सर्वकालिक उच्च स्तर बनाया। बाजार पूंजीकरण में अग्रणी सेमीकंडक्टर शेयरों Samsung Electronics (+6.33%), SK hynix (+11.51%), SK Square (+8.11%) और Samsung Electronics preferred shares (+6.68%) ने नए उच्च स्तर छुए। तीन बड़े सेमीकंडक्टर शेयरों की KOSPI में हिस्सेदारी 51.8% रही। JPMorgan ने KOSPI लक्ष्य को 10,000 तक बढ़ाया, लेकिन गिरने वाले शेयर चढ़ने वालों से करीब पांच गुना रहे, जिससे बाजार में ध्रुवीकरण भी स्पष्ट हुआ। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Boom Investasi AI AS Dorong Saham Chip, KOSPI Cetak Rekor 7.822",
+        "excerpt": "Pada tanggal 11, saham besar semikonduktor Korea seperti Samsung Electronics dan SK hynix melonjak berkat momentum investasi AI AS, membawa KOSPI ke rekor 7.822,24.",
+        "body": "Pada tanggal 11, pasar saham Korea mendekati level 8.000 setelah saham semikonduktor melonjak, didorong demam investasi kecerdasan buatan (AI) di Amerika Serikat dan ekspektasi kinerja tinggi perusahaan chip global. KOSPI ditutup di 7.822,24, naik 4,32% dari sesi sebelumnya, sekaligus mencetak rekor tertinggi. Saham semikonduktor berkapitalisasi besar seperti Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%), dan saham preferen Samsung Electronics (+6,68%) sama-sama mencapai level tertinggi baru. Tiga saham semikonduktor terbesar menyumbang 51,8% dari KOSPI. JPMorgan menaikkan target KOSPI menjadi 10.000, tetapi jumlah saham yang turun sekitar lima kali saham yang naik, menunjukkan polarisasi pasar yang makin jelas. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "7d58131c80f3",
+    "slug": "온드림-글로벌-아카데미-수료-입학식-923052",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T21:23:25.586Z",
+    "updatedAt": "2026-05-11T21:23:25.586Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/People/article/all/20260512/133902361/2",
+    "canonicalUrl": "https://www.donga.com/news/People/article/all/20260512/133902361/2",
+    "titleFingerprint": "1c1fcf8aba453565f87d3344f2940e62558e807e",
+    "dedupKeys": [
+      "7d58131c80f3da679ea9b7221aafff8550c79ea4",
+      "1c1fcf8aba453565f87d3344f2940e62558e807e",
+      "b92cad25095e03d5a4a75cb5fc1da0437c9a5591"
+    ],
+    "imageUrl": "/images/articles/7d58131c80f3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "온드림 글로벌 아카데미 수료·입학식, 고려대서 9기·10기 한자리에",
+        "excerpt": "현대차 정몽구 재단과 고려대 일민국제관계연구원이 8일 서울 성북구 고려대에서 온드림 글로벌 아카데미 9기 수료식과 10기 입학식을 진행했다.",
+        "body": "온드림 글로벌 아카데미 9기 수료식과 10기 입학식이 8일 서울 성북구 고려대에서 열렸다. 행사에는 최재호 현대차 정몽구 재단 사무총장과 이재승 고려대 일민국제관계연구원 원장이 참석해 수료생 및 입학생들과 기념사진을 촬영했다. 이번 행사는 9기 과정을 마친 수료생과 새로 합류한 10기 입학생이 한자리에 모인 자리로 진행됐다. 현대차 정몽구 재단과 고려대 일민국제관계연구원이 함께한 이번 수료·입학식은 온드림 글로벌 아카데미의 기수 전환을 알리는 공식 행사로 기록됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Ondream Global Academy Graduation and Entrance Ceremony Held at Korea University",
+        "excerpt": "The Hyundai Motor Chung Mong-Koo Foundation and Korea University’s Ilmin International Relations Institute held the Ondream Global Academy 9th graduation and 10th entrance ceremony on May 8 in Seoul.",
+        "body": "The graduation ceremony for the 9th class and entrance ceremony for the 10th class of Ondream Global Academy were held on May 8 at Korea University in Seongbuk-gu, Seoul. Choi Jae-ho, secretary general of the Hyundai Motor Chung Mong-Koo Foundation, and Lee Jae-seung, director of Korea University’s Ilmin International Relations Institute, attended and took a commemorative photo with graduates and incoming students. The event brought together those completing the 9th program and those entering the 10th class. The ceremony marked the official transition between cohorts for Ondream Global Academy. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "オンドリーム・グローバルアカデミー修了・入学式、高麗大で開催",
+        "excerpt": "現代自動車鄭夢九財団と高麗大学一民国際関係研究院は8日、ソウル市城北区の高麗大学で第9期修了式と第10期入学式を行った。",
+        "body": "オンドリーム・グローバルアカデミー第9期の修了式と第10期の入学式が8日、ソウル市城北区の高麗大学で開かれた。行事には現代自動車鄭夢九財団の崔在浩事務総長と、高麗大学一民国際関係研究院の李在承院長が出席し、修了生および入学生と記念撮影を行った。今回の式は、第9期課程を終えた修了生と新たに加わる第10期入学生が一堂に会する場として進められた。現代自動車鄭夢九財団と高麗大学一民国際関係研究院が共にした公式行事として、同アカデミーの期数交代を示した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Ondream全球学院结业与入学仪式在高丽大学举行",
+        "excerpt": "现代汽车郑梦九财团与高丽大学一民国际关系研究院8日在首尔城北区高丽大学举行Ondream全球学院第9期结业式和第10期入学式。",
+        "body": "Ondream全球学院第9期结业式和第10期入学式于8日在首尔城北区高丽大学举行。现代汽车郑梦九财团秘书长崔在浩与高丽大学一民国际关系研究院院长李在承出席活动，并与第9期结业生和第10期入学生合影留念。本次活动是完成第9期课程的结业生与新加入的第10期入学生共同参与的仪式。现代汽车郑梦九财团和高丽大学一民国际关系研究院共同举办的此次结业与入学仪式，标志着Ondream全球学院新旧期数的正式衔接。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Ondream Global Academy celebra graduación e ingreso en la Universidad de Corea",
+        "excerpt": "La Fundación Hyundai Motor Chung Mong-Koo y el Instituto Ilmin de Relaciones Internacionales de la Universidad de Corea celebraron el 8 de mayo la graduación de la 9.ª promoción y el ingreso de la 10.ª.",
+        "body": "La ceremonia de graduación de la 9.ª promoción y de ingreso de la 10.ª promoción de Ondream Global Academy se celebró el 8 de mayo en la Universidad de Corea, en Seongbuk-gu, Seúl. Choi Jae-ho, secretario general de la Fundación Hyundai Motor Chung Mong-Koo, y Lee Jae-seung, director del Instituto Ilmin de Relaciones Internacionales de la Universidad de Corea, asistieron al acto y posaron para una foto con graduados y nuevos estudiantes. El evento reunió a quienes completaron la 9.ª promoción y a quienes ingresan en la 10.ª. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Ondream Global Academy realiza cerimônia de conclusão e ingresso na Korea University",
+        "excerpt": "A Fundação Hyundai Motor Chung Mong-Koo e o Instituto Ilmin de Relações Internacionais da Korea University realizaram em 8 de maio a cerimônia da 9ª turma e entrada da 10ª.",
+        "body": "A cerimônia de conclusão da 9ª turma e de ingresso da 10ª turma da Ondream Global Academy foi realizada em 8 de maio na Korea University, em Seongbuk-gu, Seul. Choi Jae-ho, secretário-geral da Fundação Hyundai Motor Chung Mong-Koo, e Lee Jae-seung, diretor do Instituto Ilmin de Relações Internacionais da Korea University, participaram do evento e tiraram uma foto comemorativa com concluintes e novos alunos. A cerimônia reuniu os participantes que concluíram a 9ª turma e os estudantes que ingressam na 10ª, marcando a transição oficial entre as turmas. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Ondream Global Academy: Abschluss- und Aufnahmefeier an der Korea University",
+        "excerpt": "Die Hyundai Motor Chung Mong-Koo Foundation und das Ilmin Institute der Korea University veranstalteten am 8. Mai in Seoul die Abschlussfeier der 9. und Aufnahmefeier der 10. Gruppe.",
+        "body": "Die Abschlussfeier der 9. Gruppe und die Aufnahmefeier der 10. Gruppe der Ondream Global Academy fanden am 8. Mai an der Korea University im Bezirk Seongbuk-gu in Seoul statt. Choi Jae-ho, Generalsekretär der Hyundai Motor Chung Mong-Koo Foundation, und Lee Jae-seung, Direktor des Ilmin Institute of International Relations der Korea University, nahmen teil und machten ein Erinnerungsfoto mit Absolventen und neuen Teilnehmern. Die Veranstaltung brachte die Absolventen der 9. Gruppe und die neu eintretenden Teilnehmer der 10. Gruppe zusammen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Ondream Global Academy tient sa cérémonie de fin d’études et d’entrée à Korea University",
+        "excerpt": "La Hyundai Motor Chung Mong-Koo Foundation et l’Institut Ilmin des relations internationales de Korea University ont organisé le 8 mai la cérémonie de la 9e et de la 10e promotion.",
+        "body": "La cérémonie de fin d’études de la 9e promotion et d’entrée de la 10e promotion de l’Ondream Global Academy s’est tenue le 8 mai à Korea University, dans l’arrondissement de Seongbuk-gu à Séoul. Choi Jae-ho, secrétaire général de la Hyundai Motor Chung Mong-Koo Foundation, et Lee Jae-seung, directeur de l’Institut Ilmin des relations internationales de Korea University, ont participé à l’événement et pris une photo commémorative avec les diplômés et les nouveaux étudiants. La cérémonie a réuni les participants ayant terminé la 9e promotion et ceux entrant dans la 10e. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أكاديمية أوندريم العالمية تقيم حفل التخرج والقبول في جامعة كوريا",
+        "excerpt": "أقامت مؤسسة هيونداي موتور تشونغ مونغ-كو ومعهد إلمين للعلاقات الدولية بجامعة كوريا في 8 مايو حفل تخرج الدفعة التاسعة وقبول الدفعة العاشرة في سيول.",
+        "body": "أقيم حفل تخرج الدفعة التاسعة وحفل قبول الدفعة العاشرة من أكاديمية أوندريم العالمية في 8 مايو في جامعة كوريا بمنطقة سيونغبوك في سيول. حضر الحدث تشوي جاي-هو، الأمين العام لمؤسسة هيونداي موتور تشونغ مونغ-كو، ولي جاي-سونغ، مدير معهد إلمين للعلاقات الدولية في جامعة كوريا، والتقطا صورة تذكارية مع الخريجين والطلاب الجدد. جمع الحفل بين من أنهوا برنامج الدفعة التاسعة ومن انضموا إلى الدفعة العاشرة، مسجلا انتقالا رسميا بين الدفعات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ऑनड्रीम ग्लोबल अकादमी का समापन और प्रवेश समारोह कोरिया विश्वविद्यालय में आयोजित",
+        "excerpt": "हुंडई मोटर चुंग मोंग-कू फाउंडेशन और कोरिया विश्वविद्यालय के इलमिन अंतरराष्ट्रीय संबंध संस्थान ने 8 मई को सियोल में 9वें बैच का समापन और 10वें बैच का प्रवेश समारोह आयोजित किया।",
+        "body": "ऑनड्रीम ग्लोबल अकादमी के 9वें बैच का समापन समारोह और 10वें बैच का प्रवेश समारोह 8 मई को सियोल के सेओंगबुक-गु स्थित कोरिया विश्वविद्यालय में आयोजित हुआ। हुंडई मोटर चुंग मोंग-कू फाउंडेशन के महासचिव चोई जे-हो और कोरिया विश्वविद्यालय के इलमिन अंतरराष्ट्रीय संबंध संस्थान के निदेशक ली जे-सुंग ने कार्यक्रम में भाग लिया और समापन करने वाले प्रतिभागियों तथा नए प्रवेशार्थियों के साथ स्मृति फोटो खिंचवाई। इस आयोजन में 9वें बैच को पूरा करने वाले और 10वें बैच में शामिल होने वाले प्रतिभागी एक साथ उपस्थित रहे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Ondream Global Academy Gelar Wisuda dan Penerimaan di Korea University",
+        "excerpt": "Hyundai Motor Chung Mong-Koo Foundation dan Ilmin Institute of International Relations Korea University menggelar wisuda angkatan ke-9 dan penerimaan angkatan ke-10 pada 8 Mei di Seoul.",
+        "body": "Upacara kelulusan angkatan ke-9 dan penerimaan angkatan ke-10 Ondream Global Academy digelar pada 8 Mei di Korea University, Seongbuk-gu, Seoul. Choi Jae-ho, sekretaris jenderal Hyundai Motor Chung Mong-Koo Foundation, dan Lee Jae-seung, direktur Ilmin Institute of International Relations Korea University, hadir dalam acara tersebut dan berfoto bersama para lulusan serta mahasiswa baru. Acara ini mempertemukan peserta yang telah menyelesaikan angkatan ke-9 dengan peserta baru angkatan ke-10, sekaligus menandai pergantian resmi antargenerasi program. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "ca3d1e424679",
+    "slug": "태국-최대-상권-진출-어뮤즈-방콕-센트럴월드에-매장-오픈-397553",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T21:22:20.310Z",
+    "updatedAt": "2026-05-11T21:22:20.310Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901676/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901676/1",
+    "titleFingerprint": "2235fb53dc8b39823e8ff98572a5b47657e3ebc2",
+    "dedupKeys": [
+      "ca3d1e424679a9f6ac553abdb920aa2da78ccfd1",
+      "2235fb53dc8b39823e8ff98572a5b47657e3ebc2",
+      "2fd6d6c8b9479cd6725d5b13a537a90f2d8c7761"
+    ],
+    "imageUrl": "/images/articles/ca3d1e424679.jpg",
+    "i18n": {
+      "ko": {
+        "title": "어뮤즈 태국 최대 상권 진출, 방콕 센트럴월드 첫 정식 매장 12일 오픈 본격화",
+        "excerpt": "신세계인터내셔날 화장품 브랜드 어뮤즈가 태국 센트럴그룹과 독점 리테일 계약을 맺고 12일 방콕 센트럴월드에 첫 정식 매장을 열며 동남아 확장에 나선다.",
+        "body": "신세계인터내셔날이 운영하는 화장품 브랜드 어뮤즈(AMUSE)가 태국 최대 유통그룹 센트럴그룹과 손잡고 방콕 핵심 상권에 진출한다. 어뮤즈코리아는 최근 센트럴그룹과 독점 리테일 계약을 체결했으며, 오는 12일 방콕 센트럴월드 쇼핑몰에 첫 정식 매장을 연다고 밝혔다. 15일부터 17일까지는 대형 팝업스토어도 운영한다. 센트럴월드는 글로벌 럭셔리 브랜드와 인기 패션·뷰티 브랜드가 모인 태국 대표 쇼핑 랜드마크로, 현지 소비자와 관광객 유입이 많은 지역이다. 어뮤즈는 이번 진출을 계기로 하반기 센트럴그룹 산하 주요 쇼핑몰과 백화점으로 입점을 확대할 계획이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "AMUSE Enters Thailand’s Top Retail District With First CentralWorld Bangkok Store",
+        "excerpt": "Shinsegae International’s cosmetics brand AMUSE has signed an exclusive retail deal with Thailand’s Central Group and will open its first official store at Bangkok’s CentralWorld on the 12th.",
+        "body": "AMUSE, the cosmetics brand operated by Shinsegae International, is entering a key commercial district in Bangkok in partnership with Thailand’s largest retail group, Central Group. AMUSE Korea said it recently signed an exclusive retail agreement with Central Group and will open its first official store at the CentralWorld shopping mall in Bangkok on the 12th. It will also run a large pop-up store from the 15th to the 17th. CentralWorld is a major shopping landmark in Thailand, bringing together global luxury labels and popular fashion and beauty brands, with heavy traffic from both local consumers and tourists. AMUSE plans to use this entry as a base to expand into major shopping malls and department stores under Central Group in the second half of the year. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "AMUSE、タイ最大級商圏へ進出 バンコク・セントラルワールドに初店舗",
+        "excerpt": "新世界インターナショナルの化粧品ブランドAMUSEは、タイのセントラルグループと独占リテール契約を結び、12日にバンコクのセントラルワールドで初の正式店舗を開く。",
+        "body": "新世界インターナショナルが展開する化粧品ブランドAMUSEが、タイ最大の流通グループであるセントラルグループと組み、バンコクの中心商圏に進出する。AMUSE Koreaは最近、セントラルグループと独占リテール契約を締結し、12日にバンコクのショッピングモール「セントラルワールド」で初の正式店舗を開くと明らかにした。15日から17日までは大型ポップアップストアも運営する。セントラルワールドは、世界的なラグジュアリーブランドや人気のファッション・ビューティーブランドが集まるタイを代表するショッピングランドマークで、現地消費者と観光客の流入が多い地域だ。AMUSEは今回の進出を機に、下半期にはセントラルグループ傘下の主要ショッピングモールや百貨店へ出店を広げる計画だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "AMUSE进军泰国核心商圈 将在曼谷CentralWorld开设首家正式门店",
+        "excerpt": "新世界国际运营的化妆品品牌AMUSE与泰国Central Group签署独家零售合同，将于12日在曼谷CentralWorld开设首家正式门店，加快东南亚扩张。",
+        "body": "新世界国际运营的化妆品品牌AMUSE将携手泰国最大零售集团Central Group，进军曼谷核心商圈。AMUSE Korea表示，近日已与Central Group签署独家零售合同，并将于12日在曼谷CentralWorld购物中心开设首家正式门店。15日至17日还将运营大型快闪店。CentralWorld是泰国代表性购物地标，汇集全球奢侈品牌以及热门时尚、美妆品牌，当地消费者和游客流量都较高。AMUSE计划以此次进入泰国市场为契机，在下半年扩大入驻Central Group旗下主要购物中心和百货商店。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "AMUSE entra al gran distrito comercial de Tailandia con tienda en CentralWorld Bangkok",
+        "excerpt": "La marca cosmética AMUSE, operada por Shinsegae International, firmó un acuerdo minorista exclusivo con Central Group y abrirá el día 12 su primera tienda oficial en CentralWorld de Bangkok.",
+        "body": "AMUSE, la marca de cosméticos operada por Shinsegae International, entrará en una zona comercial clave de Bangkok de la mano de Central Group, el mayor grupo minorista de Tailandia. AMUSE Korea informó que recientemente firmó un contrato minorista exclusivo con Central Group y que abrirá el día 12 su primera tienda oficial en el centro comercial CentralWorld de Bangkok. También operará una gran tienda pop-up del 15 al 17. CentralWorld es un referente comercial de Tailandia, con marcas globales de lujo y populares firmas de moda y belleza, además de una alta afluencia de consumidores locales y turistas. AMUSE prevé ampliar su presencia durante el segundo semestre a los principales centros comerciales y grandes almacenes de Central Group. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "AMUSE avança no maior polo comercial da Tailândia com loja no CentralWorld Bangkok",
+        "excerpt": "A marca de cosméticos AMUSE, operada pela Shinsegae International, fechou acordo exclusivo de varejo com o Central Group e abrirá no dia 12 sua primeira loja oficial no CentralWorld, em Bangkok.",
+        "body": "A AMUSE, marca de cosméticos operada pela Shinsegae International, entrará em uma área comercial central de Bangkok em parceria com o Central Group, maior grupo de varejo da Tailândia. A AMUSE Korea informou que assinou recentemente um contrato exclusivo de varejo com o Central Group e abrirá no dia 12 sua primeira loja oficial no shopping CentralWorld, em Bangkok. A marca também operará uma grande loja pop-up de 15 a 17. O CentralWorld é um dos principais marcos de compras da Tailândia, reunindo marcas globais de luxo e nomes populares de moda e beleza, com forte circulação de consumidores locais e turistas. Com essa entrada, a AMUSE planeja ampliar no segundo semestre sua presença em grandes shoppings e lojas de departamento do Central Group. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "AMUSE betritt Thailands Top-Einkaufsviertel mit erstem Store im CentralWorld Bangkok",
+        "excerpt": "Die von Shinsegae International betriebene Kosmetikmarke AMUSE hat einen exklusiven Einzelhandelsvertrag mit der Central Group geschlossen und eröffnet am 12. ihren ersten offiziellen Store im CentralWorld Bangkok.",
+        "body": "AMUSE, die von Shinsegae International betriebene Kosmetikmarke, expandiert gemeinsam mit der Central Group, Thailands größter Handelsgruppe, in ein zentrales Einkaufsviertel Bangkoks. AMUSE Korea teilte mit, kürzlich einen exklusiven Einzelhandelsvertrag mit der Central Group unterzeichnet zu haben und am 12. den ersten offiziellen Store im Einkaufszentrum CentralWorld in Bangkok zu eröffnen. Vom 15. bis 17. wird zudem ein großer Pop-up-Store betrieben. CentralWorld gilt als wichtiges Shopping-Wahrzeichen Thailands, in dem globale Luxusmarken sowie beliebte Mode- und Beauty-Marken vertreten sind und das viele lokale Verbraucher sowie Touristen anzieht. AMUSE will den Markteintritt nutzen, um im zweiten Halbjahr in wichtige Einkaufszentren und Kaufhäuser der Central Group zu expandieren. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "AMUSE arrive dans le grand quartier commercial thaïlandais avec une boutique à CentralWorld",
+        "excerpt": "La marque cosmétique AMUSE, exploitée par Shinsegae International, a signé un accord de distribution exclusif avec Central Group et ouvrira le 12 sa première boutique officielle à CentralWorld Bangkok.",
+        "body": "AMUSE, la marque de cosmétiques exploitée par Shinsegae International, s’implante dans un quartier commercial clé de Bangkok en partenariat avec Central Group, le plus grand groupe de distribution de Thaïlande. AMUSE Korea a indiqué avoir récemment signé un contrat de distribution exclusif avec Central Group et ouvrira le 12 sa première boutique officielle dans le centre commercial CentralWorld à Bangkok. Une grande boutique éphémère sera également ouverte du 15 au 17. CentralWorld est un haut lieu du shopping en Thaïlande, rassemblant des marques mondiales de luxe ainsi que des enseignes populaires de mode et de beauté, avec une forte fréquentation de consommateurs locaux et de touristes. AMUSE prévoit d’étendre sa présence au second semestre aux principaux centres commerciaux et grands magasins de Central Group. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أميوز تدخل أبرز منطقة تجارية في تايلاند بمتجرها الأول في سنترال وورلد بانكوك",
+        "excerpt": "وقعت علامة مستحضرات التجميل أميوز، التابعة لشينسيغيه إنترناشيونال، عقد تجزئة حصريا مع سنترال غروب وتفتتح في 12 متجرها الرسمي الأول في سنترال وورلد بانكوك.",
+        "body": "تدخل علامة مستحضرات التجميل أميوز، التي تديرها شينسيغيه إنترناشيونال، منطقة تجارية رئيسية في بانكوك بالشراكة مع سنترال غروب، أكبر مجموعة توزيع في تايلاند. وقالت أميوز كوريا إنها وقعت مؤخرا عقد تجزئة حصريا مع سنترال غروب، وستفتتح في 12 أول متجر رسمي لها في مركز سنترال وورلد التجاري في بانكوك. كما ستدير متجرا مؤقتا كبيرا من 15 إلى 17. ويعد سنترال وورلد أحد أبرز معالم التسوق في تايلاند، إذ يضم علامات فاخرة عالمية وعلامات رائجة في الموضة والجمال، مع تدفق كبير من المستهلكين المحليين والسياح. وتخطط أميوز، استنادا إلى هذا الدخول، لتوسيع وجودها في النصف الثاني إلى مراكز التسوق والمتاجر الكبرى الرئيسية التابعة لسنترال غروب. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "AMUSE थाईलैंड के प्रमुख बाजार में उतरी, बैंकॉक CentralWorld में पहला स्टोर",
+        "excerpt": "Shinsegae International के कॉस्मेटिक्स ब्रांड AMUSE ने थाईलैंड के Central Group से विशेष रिटेल करार किया है और 12 तारीख को बैंकॉक के CentralWorld में अपना पहला आधिकारिक स्टोर खोलेगा।",
+        "body": "Shinsegae International द्वारा संचालित कॉस्मेटिक्स ब्रांड AMUSE, थाईलैंड के सबसे बड़े रिटेल समूह Central Group के साथ बैंकॉक के प्रमुख वाणिज्यिक क्षेत्र में प्रवेश कर रहा है। AMUSE Korea ने बताया कि उसने हाल ही में Central Group के साथ विशेष रिटेल समझौता किया है और 12 तारीख को बैंकॉक के CentralWorld शॉपिंग मॉल में अपना पहला आधिकारिक स्टोर खोलेगा। 15 से 17 तारीख तक एक बड़ा पॉप-अप स्टोर भी चलाया जाएगा। CentralWorld थाईलैंड का प्रमुख शॉपिंग लैंडमार्क है, जहां वैश्विक लग्जरी ब्रांड और लोकप्रिय फैशन व ब्यूटी ब्रांड मौजूद हैं, और स्थानीय उपभोक्ताओं के साथ पर्यटकों की आवाजाही भी अधिक है। इस प्रवेश के बाद AMUSE साल की दूसरी छमाही में Central Group के प्रमुख शॉपिंग मॉल और डिपार्टमेंट स्टोर में अपनी मौजूदगी बढ़ाने की योजना बना रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "AMUSE Masuk Kawasan Ritel Terbesar Thailand Lewat Toko Pertama di CentralWorld Bangkok",
+        "excerpt": "Merek kosmetik AMUSE yang dioperasikan Shinsegae International meneken kontrak ritel eksklusif dengan Central Group dan akan membuka toko resmi pertamanya di CentralWorld Bangkok pada tanggal 12.",
+        "body": "AMUSE, merek kosmetik yang dioperasikan Shinsegae International, memasuki kawasan komersial utama Bangkok melalui kerja sama dengan Central Group, grup ritel terbesar di Thailand. AMUSE Korea menyatakan baru-baru ini menandatangani kontrak ritel eksklusif dengan Central Group dan akan membuka toko resmi pertamanya di pusat perbelanjaan CentralWorld Bangkok pada tanggal 12. Perusahaan juga akan menjalankan pop-up store besar pada 15 hingga 17. CentralWorld merupakan landmark belanja utama Thailand, yang dipenuhi merek mewah global serta merek fesyen dan kecantikan populer, dengan arus pengunjung lokal dan wisatawan yang besar. AMUSE berencana menggunakan ekspansi ini untuk memperluas kehadirannya pada paruh kedua tahun ini ke pusat perbelanjaan dan department store utama di bawah Central Group. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "f82a8260a862",
     "slug": "ai가-아니라-ai-잘-쓰는-사람이-일자리-대체-266828",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Booyoung Group Buka Rekrutmen Konstruksi 2026, Insentif Kelahiran 100 Juta Won Jadi Sorotan",
         "excerpt": "Booyoung Group merekrut karyawan baru dan berpengalaman untuk divisi konstruksi pada 2026, dengan perhatian pada insentif kelahiran 100 juta won per anak karyawan.",
         "body": "Booyoung Group merekrut karyawan pemula dan berpengalaman untuk divisi konstruksi pada 2026, menurut Hankyung. Rekrutmen ini bertujuan 확보 talenta di sektor konstruksi, sementara perusahaan dikenal dengan insentif kelahiran sebesar 100 juta won untuk setiap anak yang lahir dari karyawan. Kebijakan tersebut telah menjadi contoh manajemen ramah keluarga dan respons perusahaan terhadap rendahnya angka kelahiran. Karena itu, kabar rekrutmen ini menarik perhatian bukan hanya sebagai peluang kerja, tetapi juga karena kebijakan kesejahteraan perusahaan. Sumber asli tidak mengonfirmasi jumlah rekrutmen, rincian posisi, atau jadwal pendaftaran. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "34a567f3e9b9",
-    "slug": "비현실적-부양가족-만점통장-전수조사자녀-거주기간도-3년으로-130596",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T01:18:01.640Z",
-    "updatedAt": "2026-05-11T01:18:01.640Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133896306/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133896306/2",
-    "titleFingerprint": "1492b2bc9cb71f871423c403e20b0037965359c6",
-    "dedupKeys": [
-      "34a567f3e9b96a1e641067d7df9d4b286f412d69",
-      "1492b2bc9cb71f871423c403e20b0037965359c6",
-      "4e091aeed333a76621259b67ef273c9e5aa041e6"
-    ],
-    "imageUrl": "/images/articles/34a567f3e9b9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "청약 가점 만점통장 전수조사 착수, 자녀 거주요건 1년서 3년으로 강화",
-        "excerpt": "정부가 11일 비현실적 대가족 청약 가점 만점 당첨자를 중심으로 부양가족 실거주 여부와 위장전입 등 부정청약 의심 사례를 집중 조사한다고 밝혔다.",
-        "body": "정부가 11일 비현실적인 대가족을 내세운 청약 가점 만점 당첨자에 대해 전수조사에 나선다. 국무조정실 부동산 감독 추진단과 국토교통부는 최근 동떨어진 청약가점 당첨자가 잇따라 관계부처 합동으로 부양가족의 실거주 여부 등 부정청약 당첨자를 집중 조사한다고 밝혔다. 대상은 지난해 7월 이후 분양한 서울 등 규제지역 모든 분양단지와 기타지역 인가 분양단지다. 조사 항목은 위장전입, 위장결혼·이혼, 통장·자격매매, 문서위조 등이다. 정부는 특히 만점통장 당첨자의 부모와 자녀 실제 거주 여부를 들여다본다. 청약 가점 만점은 무주택기간 32점, 부양가족 수 35점, 통장 가입기간 17점이며 부양가족은 6명 이상이어야 한다. 자녀 거주요건도 1년에서 3년으로 강화된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Full Probe Into Perfect Housing Subscription Scores as Child Residency Rule Tightens",
-        "excerpt": "The government said on May 11 it will intensively investigate suspected fraudulent housing subscriptions, focusing on perfect-score winners with unusually large dependent families.",
-        "body": "The government said on May 11 it will launch a full investigation into housing subscription winners who received perfect points by claiming unusually large dependent families. The real estate supervision task force under the Office for Government Policy Coordination and the Ministry of Land, Infrastructure and Transport said a joint interagency probe will focus on whether dependents actually reside with applicants, as recent winning scores have appeared far out of line. The review covers all regulated-area complexes, including Seoul, sold since last July, as well as approved complexes in other regions. Items under review include false address registration, sham marriage or divorce, trading of accounts or eligibility, and document forgery. Authorities will especially check whether parents and children of perfect-score winners actually lived together. The maximum score is 32 points for the non-homeownership period, 35 for dependents and 17 for account age, requiring at least six dependents. The child residency requirement will rise from one year to three. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "満点の住宅申込通帳を全数調査、子どもの居住要件も1年から3年に強化",
-        "excerpt": "政府は11日、非現実的な大家族を掲げた住宅申込加点満点の当選者を中心に、扶養家族の実居住や不正申込疑惑を集中的に調査すると発表した。",
-        "body": "政府は11日、非現実的な大家族を根拠に住宅申込加点で満点を得た当選者について全数調査に乗り出すと明らかにした。国務調整室の不動産監督推進団と国土交通部は、最近、実態とかけ離れた加点当選者が相次いでいるとして、関係省庁合同で扶養家族の実居住の有無など不正申込当選者を集中的に調べると説明した。対象は昨年7月以降に分譲されたソウルなど規制地域の全分譲団地と、その他地域の認可分譲団地だ。調査項目は偽装転入、偽装結婚・離婚、通帳・資格売買、文書偽造など。特に満点通帳当選者の親と子どもの実際の居住を確認する。満点は無住宅期間32点、扶養家族数35点、通帳加入期間17点で、扶養家族は6人以上必要となる。子どもの居住要件も1年から3年に強化される。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "满分住房认购账户将被全面调查，子女居住要求由1年延至3年",
-        "excerpt": "韩国政府11日表示，将重点调查以不现实大家庭取得住房认购满分的中签者，核查扶养家属实际居住及疑似违规认购情形。",
-        "body": "韩国政府11日表示，将对以不现实大家庭为依据取得住房认购加分满分的中签者展开全面调查。国务调整室房地产监督推进团和国土交通部称，近期出现多起与实际情况相距甚远的认购加分中签案例，相关部门将联合集中调查扶养家属是否实际居住等违规认购中签问题。调查对象包括去年7月以来在首尔等管制地区销售的所有分售小区，以及其他地区获批分售小区。调查项目包括虚假迁入、虚假结婚或离婚、账户或资格买卖、伪造文件等。政府尤其将核查满分账户中签者的父母和子女是否真实居住。住房认购加分满分包括无房期间32分、扶养家属人数35分、账户加入期间17分，扶养家属须达到6人以上。子女居住要求也将从1年延长至3年。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Investigarán cuentas de suscripción de vivienda con puntaje perfecto y endurecen residencia de hijos",
-        "excerpt": "El Gobierno anunció el día 11 una investigación centrada en ganadores con puntaje perfecto y familias dependientes poco realistas, por posibles fraudes en la suscripción de vivienda.",
-        "body": "El Gobierno anunció el día 11 que realizará una investigación completa sobre ganadores de suscripción de vivienda que obtuvieron puntaje perfecto alegando familias dependientes inusualmente grandes. El equipo de supervisión inmobiliaria de la Oficina de Coordinación de Políticas del Gobierno y el Ministerio de Tierra, Infraestructura y Transporte dijeron que, ante recientes adjudicatarios con puntajes alejados de la realidad, las autoridades investigarán de forma conjunta si los dependientes residen efectivamente con el solicitante. El alcance incluye todos los complejos vendidos desde julio del año pasado en zonas reguladas como Seúl y los complejos aprobados en otras regiones. Se revisarán cambios de domicilio ficticios, matrimonios o divorcios simulados, compraventa de cuentas o requisitos y falsificación documental. El foco estará en la residencia real de padres e hijos de quienes lograron puntaje máximo. La puntuación máxima suma 32 puntos por periodo sin vivienda, 35 por dependientes y 17 por antigüedad de la cuenta; se requieren al menos seis dependientes. La residencia exigida a hijos pasará de uno a tres años. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Governo investigará pontuação máxima em subscrição habitacional e amplia regra de residência dos filhos",
-        "excerpt": "O governo informou no dia 11 que investigará vencedores com pontuação máxima e famílias dependentes pouco realistas, incluindo suspeitas de fraude na subscrição de moradias.",
-        "body": "O governo informou no dia 11 que fará uma investigação completa sobre vencedores de subscrição habitacional que alcançaram pontuação máxima ao declarar famílias dependentes incomumente grandes. A força-tarefa de supervisão imobiliária do Gabinete de Coordenação de Políticas do Governo e o Ministério da Terra, Infraestrutura e Transporte disseram que, diante de recentes vencedores com pontuações distantes da realidade, órgãos relacionados investigarão conjuntamente se os dependentes realmente residem com os candidatos. A apuração abrangerá todos os empreendimentos vendidos desde julho do ano passado em áreas reguladas, incluindo Seul, e empreendimentos aprovados em outras regiões. Serão examinados registro de endereço falso, casamento ou divórcio simulado, venda de contas ou qualificações e falsificação de documentos. O foco será a residência real de pais e filhos dos vencedores com pontuação perfeita. A pontuação máxima é composta por 32 pontos de período sem moradia, 35 por dependentes e 17 por tempo de conta, exigindo ao menos seis dependentes. A regra de residência dos filhos subirá de um para três anos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Vollprüfung bei perfekten Wohnungsbewerbungs-Scores, Wohnsitzregel für Kinder wird verschärft",
-        "excerpt": "Die Regierung kündigte am 11. an, Gewinner mit perfekten Wohnungsbewerbungs-Punkten und ungewöhnlich großen Familien wegen möglicher Unregelmäßigkeiten gezielt zu prüfen.",
-        "body": "Die Regierung kündigte am 11. an, Gewinner von Wohnungsbewerbungen mit perfekter Punktzahl vollständig zu überprüfen, wenn diese auf ungewöhnlich große unterhaltsberechtigte Familien gestützt wurde. Die Immobilienaufsichtseinheit des Büros für Regierungskoordinierung und das Ministerium für Land, Infrastruktur und Verkehr erklärten, dass nach jüngsten Fällen auffällig hoher Bewerbungspunkte ressortübergreifend untersucht werde, ob unterhaltsberechtigte Angehörige tatsächlich bei den Bewerbern wohnen. Erfasst werden alle seit Juli vergangenen Jahres verkauften Projekte in regulierten Gebieten wie Seoul sowie genehmigte Projekte in anderen Regionen. Geprüft werden Scheinummeldungen, Scheinehen oder -scheidungen, Handel mit Konten oder Berechtigungen und Dokumentenfälschung. Besonders im Fokus steht, ob Eltern und Kinder von Gewinnern mit Maximalpunktzahl real dort gewohnt haben. Die Höchstpunktzahl setzt sich aus 32 Punkten für die Zeit ohne Wohneigentum, 35 für Angehörige und 17 für die Kontodauer zusammen; dafür sind mindestens sechs Angehörige nötig. Die Wohnsitzanforderung für Kinder steigt von einem auf drei Jahre. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Enquête sur les comptes de souscription logement à score parfait, résidence des enfants durcie",
-        "excerpt": "Le gouvernement a annoncé le 11 une enquête ciblant les gagnants au score parfait avec familles à charge jugées irréalistes, dont les soupçons de fraude à la souscription logement.",
-        "body": "Le gouvernement a annoncé le 11 qu’il mènera une enquête exhaustive sur les gagnants de souscriptions au logement ayant obtenu le score parfait en déclarant des familles à charge inhabituellement nombreuses. L’équipe de supervision immobilière du Bureau de coordination des politiques gouvernementales et le ministère du Territoire, des Infrastructures et des Transports ont indiqué qu’après plusieurs résultats de points jugés éloignés de la réalité, une enquête conjointe vérifiera notamment si les personnes à charge résident réellement avec les candidats. Le champ couvre tous les programmes vendus depuis juillet dernier dans les zones réglementées, dont Séoul, ainsi que les programmes approuvés dans d’autres régions. Les points examinés incluent fausse domiciliation, mariage ou divorce fictif, vente de compte ou d’éligibilité et falsification de documents. L’État vérifiera surtout la résidence effective des parents et enfants des gagnants au score maximal. Le maximum comprend 32 points pour la période sans propriété, 35 pour les personnes à charge et 17 pour l’ancienneté du compte; il faut au moins six personnes à charge. L’exigence de résidence des enfants passera d’un à trois ans. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "تحقيق شامل في حسابات الاكتتاب السكني ذات العلامة الكاملة وتشديد إقامة الأبناء",
-        "excerpt": "أعلنت الحكومة في 11 من الشهر أنها ستركز التحقيق في فائزي الاكتتاب السكني بعلامات كاملة وأسر إعالة غير واقعية، بما يشمل شبهات الاكتتاب غير القانوني.",
-        "body": "أعلنت الحكومة في 11 من الشهر أنها ستجري تحقيقا شاملا مع فائزي الاكتتاب السكني الذين حصلوا على العلامة الكاملة عبر إعلان أسر إعالة كبيرة بصورة غير واقعية. وقالت فرقة الإشراف العقاري التابعة لمكتب تنسيق السياسات الحكومية ووزارة الأراضي والبنية التحتية والنقل إن الجهات المعنية ستجري تحقيقا مشتركا، بعد تزايد حالات فوز بنقاط تبدو بعيدة عن الواقع، للتحقق من الإقامة الفعلية للمعالين وغيرها من شبهات الاكتتاب غير القانوني. وتشمل التحقيقات كل المجمعات المباعة منذ يوليو من العام الماضي في المناطق الخاضعة للتنظيم مثل سيول، إضافة إلى المجمعات المعتمدة في مناطق أخرى. وتشمل البنود التسجيل الصوري للعناوين، والزواج أو الطلاق الصوري، وبيع الحسابات أو الأهلية، وتزوير الوثائق. وستركز الحكومة خصوصا على ما إذا كان آباء وأبناء أصحاب العلامة الكاملة يقيمون فعليا معهم. تتكون العلامة القصوى من 32 نقطة لفترة عدم امتلاك مسكن، و35 لعدد المعالين، و17 لمدة الحساب، وتتطلب ستة معالين على الأقل. كما سترتفع مدة إقامة الأبناء المطلوبة من سنة إلى ثلاث سنوات. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "पूर्ण अंक वाले हाउसिंग सब्सक्रिप्शन खातों की जांच, बच्चों की निवास शर्त 3 साल होगी",
-        "excerpt": "सरकार ने 11 तारीख को कहा कि वह असामान्य बड़े आश्रित परिवारों के आधार पर पूर्ण अंक पाने वाले आवास सदस्यता विजेताओं और संदिग्ध धांधली की जांच करेगी।",
-        "body": "सरकार ने 11 तारीख को घोषणा की कि वह ऐसे आवास सदस्यता विजेताओं की पूरी जांच करेगी जिन्होंने असामान्य रूप से बड़े आश्रित परिवारों के आधार पर पूर्ण अंक हासिल किए। सरकारी नीति समन्वय कार्यालय की रियल एस्टेट निगरानी टीम और भूमि, अवसंरचना व परिवहन मंत्रालय ने कहा कि हाल में वास्तविकता से दूर दिखने वाले सदस्यता अंकों के विजेताओं के मामले बढ़े हैं, इसलिए संबंधित विभाग मिलकर आश्रितों के वास्तविक निवास सहित संदिग्ध अवैध सदस्यता की जांच करेंगे। जांच में पिछले साल जुलाई के बाद सियोल जैसे विनियमित क्षेत्रों में बेचे गए सभी परिसरों और अन्य क्षेत्रों के स्वीकृत परिसरों को शामिल किया जाएगा। जांच बिंदुओं में फर्जी पता पंजीकरण, दिखावटी विवाह या तलाक, खाते या पात्रता की खरीद-बिक्री और दस्तावेज जालसाजी शामिल हैं। सरकार खासकर पूर्ण अंक पाने वालों के माता-पिता और बच्चों के वास्तविक निवास को देखेगी। अधिकतम अंक में बेघर अवधि के 32, आश्रितों के 35 और खाते की अवधि के 17 अंक हैं; इसके लिए कम से कम छह आश्रित चाहिए। बच्चों की निवास शर्त 1 साल से बढ़ाकर 3 साल की जाएगी। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pemerintah Selidiki Skor Sempurna Langganan Rumah, Syarat Domisili Anak Jadi 3 Tahun",
-        "excerpt": "Pemerintah pada 11 hari ini menyatakan akan menyelidiki pemenang skor sempurna langganan rumah dengan keluarga tanggungan tidak realistis dan dugaan kecurangan.",
-        "body": "Pemerintah pada 11 hari ini menyatakan akan melakukan penyelidikan menyeluruh terhadap pemenang langganan perumahan yang memperoleh skor sempurna dengan mengajukan keluarga tanggungan yang sangat besar dan tidak realistis. Satuan tugas pengawasan real estat di bawah Kantor Koordinasi Kebijakan Pemerintah dan Kementerian Pertanahan, Infrastruktur, dan Transportasi mengatakan bahwa, karena belakangan muncul pemenang dengan skor langganan yang jauh dari kondisi wajar, kementerian terkait akan bersama-sama memeriksa apakah tanggungan benar-benar tinggal bersama pemohon. Cakupannya meliputi semua kompleks yang dipasarkan sejak Juli tahun lalu di wilayah regulasi seperti Seoul, serta kompleks yang disetujui di wilayah lain. Pemeriksaan mencakup pindah alamat palsu, perkawinan atau perceraian palsu, jual beli rekening atau kelayakan, dan pemalsuan dokumen. Pemerintah terutama akan mengecek tempat tinggal nyata orang tua dan anak dari pemenang skor sempurna. Skor maksimum terdiri dari 32 poin masa tanpa rumah, 35 poin jumlah tanggungan, dan 17 poin masa rekening; sedikitnya diperlukan enam tanggungan. Syarat domisili anak akan diperpanjang dari satu tahun menjadi tiga tahun. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "1a5acbb8a10b",
-    "slug": "다시-뛰는-수도권경기-하남광명-한주간-가장-많이-올라-401100",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T01:16:33.760Z",
-    "updatedAt": "2026-05-11T01:16:33.760Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605083392i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605083392i",
-    "titleFingerprint": "31a4b1d66e4c875ad96137f87746f09601b74752",
-    "dedupKeys": [
-      "1a5acbb8a10b00339dfb1436f99b80f2c5512e67",
-      "31a4b1d66e4c875ad96137f87746f09601b74752",
-      "7573abb8a2ce3197a574074fe48b2fe3ff5aec3e"
-    ],
-    "imageUrl": "/images/articles/1a5acbb8a10b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "수도권 부동산 다시 상승, 경기 하남·광명 주간 상승폭 최대 주목",
-        "excerpt": "한국경제 보도에 따르면 수도권 부동산 시장이 다시 오름세를 보이는 가운데 경기 하남과 광명이 한 주간 가장 많이 오른 지역으로 나타나 시장 흐름의 핵심 지역으로 주목된다.",
-        "body": "수도권 부동산 시장이 다시 상승 흐름을 보이고 있다. 한국경제 보도에 따르면 최근 한 주간 경기 하남과 광명이 수도권에서 가장 많이 오른 지역으로 나타났다. 이번 흐름은 수도권 주요 지역의 가격 움직임이 다시 주목받는 상황에서 확인된 변화다. 특히 하남과 광명은 같은 기간 상승폭이 두드러진 지역으로 언급되며 시장의 관심을 끌고 있다. 다만 제공된 원문 정보에는 구체적인 상승률, 조사 기준일, 세부 단지별 수치가 제시되지 않았다. 향후 수도권 전반의 흐름을 판단하려면 후속 통계와 지역별 거래 동향을 함께 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Greater Seoul Property Prices Rise Again as Hanam and Gwangmyeong Lead Weekly Gains",
-        "excerpt": "According to Hankyung, the Greater Seoul property market is rising again, with Hanam and Gwangmyeong in Gyeonggi posting the largest weekly gains and drawing attention as key market areas.",
-        "body": "The Greater Seoul property market is showing renewed upward movement. According to a report by Hankyung, Hanam and Gwangmyeong in Gyeonggi Province recorded the largest increases in the metropolitan area over the latest one-week period. The move highlights renewed attention on price trends across key areas around Seoul. Hanam and Gwangmyeong were specifically cited as the places with the most notable weekly gains. However, the provided source information does not include exact growth rates, the survey reference date, or complex-level figures. To assess the broader market direction, follow-up statistics and local transaction trends should be reviewed together. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "首都圏不動産が再び上昇、京畿道河南・光明が週間上昇幅で最大",
-        "excerpt": "韓国経済の報道によると、首都圏の不動産市場が再び上昇基調を見せるなか、京畿道河南と光明がこの1週間で最も大きく上がった地域として注目されている。",
-        "body": "首都圏の不動産市場が再び上昇の流れを見せている。韓国経済の報道によると、直近1週間で京畿道の河南と光明が首都圏で最も大きく上昇した地域として示された。今回の動きは、首都圏の主要地域における価格動向が改めて注目されるなかで確認された変化だ。特に河南と光明は、同期間の上昇幅が目立つ地域として言及され、市場の関心を集めている。ただし、提供された原文情報には具体的な上昇率、調査基準日、個別団地の数値は示されていない。今後の首都圏全体の流れを判断するには、追加統計と地域別取引動向を併せて確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "首都圈房地产再度上涨，京畿河南和光明周涨幅最受关注",
-        "excerpt": "据韩国经济报道，首都圈房地产市场重新呈现上行态势，其中京畿道河南和光明在一周内涨幅最大，成为观察市场变化的重点区域。",
-        "body": "首都圈房地产市场正在重新呈现上涨走势。据韩国经济报道，最近一周内，京畿道河南和光明成为首都圈涨幅最大的地区。这一变化出现在首都圈主要区域价格走势重新受到关注的背景下。尤其是河南和光明，被提及为同期涨幅最明显的地区，引发市场关注。不过，所提供的原文信息并未列出具体涨幅、调查基准日期或各小区的详细数据。要判断未来首都圈整体走势，仍需结合后续统计和各地区交易动向一并观察。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El mercado inmobiliario del área de Seúl repunta y Hanam y Gwangmyeong lideran",
-        "excerpt": "Según Hankyung, el mercado inmobiliario del área metropolitana de Seúl vuelve a subir, con Hanam y Gwangmyeong, en Gyeonggi, como las zonas con mayores avances semanales.",
-        "body": "El mercado inmobiliario del área metropolitana de Seúl vuelve a mostrar una tendencia al alza. Según Hankyung, Hanam y Gwangmyeong, en la provincia de Gyeonggi, fueron las zonas que más subieron en la región durante la última semana. Este movimiento se produce mientras los precios de áreas clave alrededor de Seúl vuelven a atraer atención. Hanam y Gwangmyeong fueron mencionadas como los lugares con avances semanales más destacados. Sin embargo, la información original proporcionada no incluye tasas exactas de aumento, fecha base del sondeo ni cifras por complejo residencial. Para evaluar la dirección general del mercado metropolitano, será necesario revisar estadísticas posteriores y tendencias locales de transacciones. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Imóveis na região de Seul voltam a subir, com Hanam e Gwangmyeong na frente",
-        "excerpt": "Segundo o Hankyung, o mercado imobiliário da região metropolitana de Seul voltou a avançar, e Hanam e Gwangmyeong, em Gyeonggi, registraram as maiores altas semanais.",
-        "body": "O mercado imobiliário da região metropolitana de Seul voltou a mostrar movimento de alta. Segundo o Hankyung, Hanam e Gwangmyeong, na província de Gyeonggi, foram as áreas que mais subiram na região durante a última semana. A mudança ocorre em um momento em que os preços de áreas importantes ao redor de Seul voltam a receber atenção. Hanam e Gwangmyeong foram citadas como os locais com os ganhos semanais mais expressivos. No entanto, as informações originais fornecidas não apresentam percentuais exatos de alta, data de referência da pesquisa nem dados por condomínio. Para avaliar a tendência geral da região metropolitana, será necessário acompanhar estatísticas posteriores e movimentos locais de transação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Immobilien im Großraum Seoul steigen wieder, Hanam und Gwangmyeong vorn",
-        "excerpt": "Laut Hankyung zieht der Immobilienmarkt im Großraum Seoul wieder an; Hanam und Gwangmyeong in Gyeonggi verzeichneten innerhalb einer Woche die stärksten Zuwächse.",
-        "body": "Der Immobilienmarkt im Großraum Seoul zeigt wieder eine Aufwärtsbewegung. Laut einem Bericht von Hankyung verzeichneten Hanam und Gwangmyeong in der Provinz Gyeonggi in der jüngsten Wochenbetrachtung die stärksten Anstiege innerhalb der Metropolregion. Diese Entwicklung fällt in eine Phase, in der Preisbewegungen in wichtigen Gebieten rund um Seoul erneut Aufmerksamkeit erhalten. Besonders Hanam und Gwangmyeong wurden als Regionen mit auffälligen wöchentlichen Zuwächsen genannt. Die bereitgestellten Ausgangsinformationen enthalten jedoch keine konkreten Steigerungsraten, keinen Stichtag der Erhebung und keine Zahlen zu einzelnen Wohnanlagen. Für eine Einschätzung des Gesamttrends im Großraum Seoul sollten weitere Statistiken und lokale Transaktionsdaten gemeinsam geprüft werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’immobilier du Grand Séoul repart à la hausse, Hanam et Gwangmyeong en tête",
-        "excerpt": "Selon Hankyung, le marché immobilier du Grand Séoul repart à la hausse, Hanam et Gwangmyeong dans le Gyeonggi affichant les plus fortes progressions hebdomadaires.",
-        "body": "Le marché immobilier du Grand Séoul montre de nouveau une tendance haussière. Selon Hankyung, Hanam et Gwangmyeong, dans la province du Gyeonggi, sont les zones qui ont le plus progressé dans la région métropolitaine sur la dernière semaine. Ce mouvement intervient alors que les évolutions de prix dans les principaux secteurs autour de Séoul attirent de nouveau l’attention. Hanam et Gwangmyeong sont citées comme les régions où les hausses hebdomadaires ont été les plus marquées. Toutefois, les informations sources fournies ne précisent pas les taux exacts de hausse, la date de référence de l’enquête ni les chiffres par ensemble résidentiel. Pour évaluer la tendance générale du Grand Séoul, il faudra examiner les statistiques suivantes et les transactions locales. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "عقارات منطقة سول الكبرى تعاود الصعود وهانام وغوانغميونغ تتصدران أسبوعيا",
-        "excerpt": "بحسب تقرير هانكيونغ، عاود سوق العقارات في منطقة سول الكبرى الارتفاع، وسجلت هانام وغوانغميونغ في إقليم غيونغي أكبر زيادة خلال أسبوع، ما جعلهما محط اهتمام السوق.",
-        "body": "يظهر سوق العقارات في منطقة سول الكبرى اتجاها صعوديا من جديد. ووفقا لتقرير هانكيونغ، سجلت هانام وغوانغميونغ في إقليم غيونغي أكبر ارتفاع في المنطقة خلال أحدث فترة أسبوعية. تأتي هذه الحركة بينما تعود اتجاهات الأسعار في المناطق الرئيسية حول سول إلى دائرة الاهتمام. وقد ذُكرت هانام وغوانغميونغ تحديدا بوصفهما المنطقتين اللتين شهدتا أبرز مكاسب أسبوعية. ومع ذلك، فإن المعلومات الأصلية المتاحة لا تتضمن نسب الارتفاع الدقيقة أو تاريخ معيار المسح أو أرقاما تفصيلية حسب المجمعات السكنية. ولتقييم الاتجاه العام في منطقة سول الكبرى، ينبغي متابعة الإحصاءات اللاحقة وحركة الصفقات المحلية معا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "ग्रेटर सियोल में संपत्ति कीमतें फिर चढ़ीं, हानाम और ग्वांगम्यॉन्ग आगे",
-        "excerpt": "हैंक्युंग के अनुसार ग्रेटर सियोल का रियल एस्टेट बाजार फिर चढ़त दिखा रहा है, और ग्योंगगी के हानाम व ग्वांगम्यॉन्ग ने एक सप्ताह में सबसे बड़ी बढ़त दर्ज की।",
-        "body": "ग्रेटर सियोल का रियल एस्टेट बाजार फिर से ऊपर की ओर बढ़ता दिख रहा है। हैंक्युंग की रिपोर्ट के अनुसार, हाल के एक सप्ताह में ग्योंगगी प्रांत के हानाम और ग्वांगम्यॉन्ग ने महानगरीय क्षेत्र में सबसे अधिक वृद्धि दर्ज की। यह बदलाव ऐसे समय सामने आया है जब सियोल के आसपास प्रमुख क्षेत्रों की कीमतों की चाल फिर ध्यान खींच रही है। हानाम और ग्वांगम्यॉन्ग को इसी अवधि में सबसे उल्लेखनीय साप्ताहिक बढ़त वाले क्षेत्रों के रूप में उल्लेखित किया गया। हालांकि, उपलब्ध मूल जानकारी में सटीक वृद्धि दर, सर्वेक्षण की आधार तिथि या आवासीय परिसरों के अलग-अलग आंकड़े नहीं दिए गए हैं। ग्रेटर सियोल के व्यापक रुझान को समझने के लिए आगे की सांख्यिकी और स्थानीय लेनदेन रुझानों को साथ देखना होगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Properti Seoul Raya Naik Lagi, Hanam dan Gwangmyeong Pimpin Kenaikan Pekan Ini",
-        "excerpt": "Menurut Hankyung, pasar properti Seoul Raya kembali bergerak naik, dengan Hanam dan Gwangmyeong di Gyeonggi mencatat kenaikan terbesar dalam satu pekan terakhir.",
-        "body": "Pasar properti Seoul Raya kembali menunjukkan pergerakan naik. Menurut laporan Hankyung, Hanam dan Gwangmyeong di Provinsi Gyeonggi menjadi wilayah dengan kenaikan terbesar di kawasan metropolitan dalam satu pekan terakhir. Perubahan ini muncul saat pergerakan harga di wilayah-wilayah utama sekitar Seoul kembali menjadi perhatian. Hanam dan Gwangmyeong secara khusus disebut sebagai daerah dengan kenaikan mingguan paling menonjol. Namun, informasi sumber yang diberikan tidak mencantumkan persentase kenaikan yang tepat, tanggal acuan survei, atau angka per kompleks hunian. Untuk menilai arah pasar Seoul Raya secara lebih luas, statistik lanjutan dan tren transaksi lokal perlu dilihat bersama. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "34df3a8b49d2",
-    "slug": "3000억-조달롯데건설-업계-첫-공사대금채권-구조화상품-개발-963035",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T01:15:18.401Z",
-    "updatedAt": "2026-05-11T01:15:18.402Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042964",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042964",
-    "titleFingerprint": "6a95a1e17d612c1ee843b923ddae4fcf9b9f36f1",
-    "dedupKeys": [
-      "34df3a8b49d2cf773c0487d2003c3012b85c0318",
-      "6a95a1e17d612c1ee843b923ddae4fcf9b9f36f1",
-      "2d6aa01ab44781800c9fe9c6a0d036b3cafd1764"
-    ],
-    "imageUrl": "/images/articles/34df3a8b49d2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데건설 3000억 조달, 업계 첫 공사대금채권 ABS 개발",
-        "excerpt": "롯데건설이 준공 임박 사업장의 공사대금채권을 활용한 구조화상품을 자체 개발해 3000억원을 조달하고, AAA 신용등급 채권 발행으로 조달 금리 절감과 자금원 다변화를 추진했다.",
-        "body": "롯데건설은 준공이 임박한 사업장의 공사대금채권을 활용해 새로운 유동화 금융상품인 ABS를 자체 개발하고 3000억원 규모의 자금을 조달했다. 이번 상품은 업계 첫 공사대금채권 구조화상품으로, AAA 신용등급을 활용한 채권 발행 방식이 적용됐다. 회사는 이를 통해 조달 금리를 낮추고 자금 조달원을 다양화하는 효과를 기대하고 있다. 공사대금채권을 기반으로 한 유동화 구조는 준공 단계 사업장의 채권을 금융상품화했다는 점에서 의미가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lotte E&C Raises 300 Billion Won With First Construction Receivables ABS",
-        "excerpt": "Lotte Engineering & Construction developed an ABS backed by construction receivables from projects nearing completion, raising 300 billion won while seeking lower funding costs and more diverse financing sources through AAA-rated bonds.",
-        "body": "Lotte Engineering & Construction has developed a new asset-backed securities product using construction receivables from projects close to completion and raised 300 billion won. The product is described as the industry’s first structured product based on construction payment claims, using a bond issuance structure with a AAA credit rating. The company expects the financing to help lower borrowing costs and diversify its funding sources. The securitization structure is significant because it turns receivables from projects in the final stage of completion into a financial product. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロッテ建設、工事代金債権ABSで3000億ウォン調達",
-        "excerpt": "ロッテ建設は竣工間近の事業場の工事代金債権を活用したABSを独自開発し、AAA格付け債の発行で調達金利の低減と資金源の多様化を進めた。",
-        "body": "ロッテ建設は、竣工が迫る事業場の工事代金債権を活用した新たな流動化金融商品ABSを独自に開発し、3000億ウォン規模の資金を調達した。今回の商品は、業界初の工事代金債権を基盤とする構造化商品で、AAA信用格付けを活用した債券発行方式が採用された。同社はこれにより調達金利を抑え、資金調達源を多様化する効果を期待している。工事代金債権を金融商品化した点に意味がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "乐天建设以工程款债权ABS融资3000亿韩元",
-        "excerpt": "乐天建设自主开发以临近竣工项目工程款债权为基础的ABS，通过AAA信用评级债券发行融资3000亿韩元，以降低融资利率并拓宽资金来源。",
-        "body": "乐天建设利用临近竣工项目的工程款债权，自主开发了新的资产证券化金融产品ABS，并筹集了3000亿韩元资金。该产品被称为行业首个以工程款债权为基础的结构化产品，采用了AAA信用评级债券发行方式。公司期待借此降低融资利率，并实现资金来源多元化。以工程款债权为基础的证券化结构，将竣工阶段项目的债权转化为金融产品，因此具有意义。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lotte E&C capta 300.000 millones de wones con ABS de créditos de obra",
-        "excerpt": "Lotte Engineering & Construction desarrolló un ABS respaldado por créditos de pago de obras próximas a finalizar y captó 300.000 millones de wones, buscando menor coste financiero y más fuentes de financiación con bonos AAA.",
-        "body": "Lotte Engineering & Construction desarrolló internamente un nuevo producto financiero de titulización, ABS, usando créditos de pago de obras de proyectos próximos a su finalización, y captó 300.000 millones de wones. El producto se presenta como el primer instrumento estructurado del sector basado en créditos de construcción y utiliza una emisión de bonos con calificación crediticia AAA. La empresa espera reducir los costes de financiación y diversificar sus fuentes de fondos. La estructura destaca por convertir esos créditos de proyectos en fase final en un producto financiero. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lotte E&C levanta 300 bilhões de wons com ABS de recebíveis de obras",
-        "excerpt": "A Lotte Engineering & Construction desenvolveu um ABS baseado em recebíveis de obras próximas da conclusão e levantou 300 bilhões de wons, buscando reduzir custos de captação e diversificar fontes com títulos AAA.",
-        "body": "A Lotte Engineering & Construction desenvolveu internamente um novo produto financeiro de securitização, um ABS, usando recebíveis de obras de projetos próximos da conclusão, e levantou 300 bilhões de wons. O produto é apresentado como o primeiro estruturado do setor baseado em créditos de pagamento de obras, com emissão de títulos de classificação de crédito AAA. A empresa espera reduzir a taxa de captação e diversificar suas fontes de financiamento. A estrutura é relevante por transformar recebíveis de projetos em etapa final em produto financeiro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lotte E&C beschafft 300 Mrd. Won mit ABS aus Bauforderungen",
-        "excerpt": "Lotte Engineering & Construction entwickelte ein ABS auf Basis von Bauforderungen fast fertiggestellter Projekte und beschaffte 300 Mrd. Won, um über AAA-Anleihen Finanzierungskosten zu senken und Quellen zu diversifizieren.",
-        "body": "Lotte Engineering & Construction hat ein neues Verbriefungsprodukt, ABS, auf Basis von Bauforderungen aus Projekten kurz vor Fertigstellung selbst entwickelt und 300 Milliarden Won beschafft. Das Produkt gilt als erstes strukturiertes Finanzprodukt der Branche, das auf Forderungen aus Bauzahlungen basiert, und nutzt eine Anleiheemission mit AAA-Rating. Das Unternehmen erwartet, dadurch die Finanzierungskosten zu senken und die Finanzierungsquellen zu diversifizieren. Die Struktur ist bedeutsam, weil sie Forderungen aus Projekten in der Endphase in ein Finanzprodukt umwandelt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lotte E&C lève 300 milliards de wons via un ABS de créances travaux",
-        "excerpt": "Lotte Engineering & Construction a développé un ABS adossé à des créances de travaux de projets proches de l’achèvement et levé 300 milliards de wons, avec l’objectif de réduire les coûts et diversifier ses financements grâce à des obligations AAA.",
-        "body": "Lotte Engineering & Construction a développé en interne un nouveau produit financier de titrisation, un ABS, fondé sur des créances de paiement de travaux provenant de projets proches de l’achèvement, et a levé 300 milliards de wons. Ce produit est présenté comme le premier instrument structuré du secteur basé sur des créances de travaux, avec une émission obligataire bénéficiant d’une notation AAA. L’entreprise espère ainsi réduire son coût de financement et diversifier ses sources de capitaux. Cette structure transforme des créances de projets en phase finale en produit financier. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لوتيه للهندسة تجمع 300 مليار وون عبر ABS لذمم أعمال البناء",
-        "excerpt": "طورت لوتيه للهندسة والإنشاءات منتجا للتوريق ABS مدعوما بذمم أعمال بناء لمشاريع تقترب من الاكتمال، وجمعت 300 مليار وون بهدف خفض تكلفة التمويل وتنويع مصادره عبر سندات بتصنيف AAA.",
-        "body": "طورت لوتيه للهندسة والإنشاءات داخليا منتجا ماليا جديدا للتوريق، هو ABS، باستخدام ذمم مستحقة عن أعمال بناء في مواقع تقترب من الإنجاز، وجمعت تمويلا بقيمة 300 مليار وون. ويعد المنتج أول أداة مهيكلة في القطاع قائمة على مطالبات مدفوعات البناء، مع اعتماد إصدار سندات بتصنيف ائتماني AAA. وتتوقع الشركة أن يساعد ذلك في خفض معدلات التمويل وتنويع مصادر الأموال. وتكمن أهمية الهيكل في تحويل ذمم مشاريع في مرحلة الإنجاز النهائية إلى منتج مالي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "लोट्टे E&C ने निर्माण देयों के ABS से 300 अरब वोन जुटाए",
-        "excerpt": "लोट्टे इंजीनियरिंग एंड कंस्ट्रक्शन ने पूर्णता के करीब परियोजनाओं के निर्माण भुगतान दावों पर आधारित ABS विकसित किया और AAA रेटेड बॉन्ड के जरिए 300 अरब वोन जुटाकर लागत घटाने व स्रोत विविध करने का लक्ष्य रखा।",
-        "body": "लोट्टे इंजीनियरिंग एंड कंस्ट्रक्शन ने पूर्णता के करीब पहुंची परियोजनाओं के निर्माण भुगतान दावों का उपयोग करते हुए नया सिक्योरिटाइजेशन वित्तीय उत्पाद ABS स्वयं विकसित किया और 300 अरब वोन की राशि जुटाई। यह उत्पाद निर्माण भुगतान दावों पर आधारित उद्योग का पहला संरचित उत्पाद बताया गया है, जिसमें AAA क्रेडिट रेटिंग वाले बॉन्ड जारी करने की पद्धति अपनाई गई। कंपनी को उम्मीद है कि इससे फंडिंग दर कम होगी और वित्तपोषण स्रोत विविध होंगे। यह संरचना अंतिम चरण की परियोजनाओं के दावों को वित्तीय उत्पाद में बदलने के कारण महत्वपूर्ण है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lotte E&C Raup 300 Miliar Won Lewat ABS Piutang Konstruksi",
-        "excerpt": "Lotte Engineering & Construction mengembangkan ABS berbasis piutang pembayaran konstruksi dari proyek yang hampir rampung dan menghimpun 300 miliar won untuk menekan biaya pendanaan serta memperluas sumber dana melalui obligasi AAA.",
-        "body": "Lotte Engineering & Construction mengembangkan sendiri produk keuangan sekuritisasi baru, ABS, dengan memanfaatkan piutang pembayaran konstruksi dari proyek yang mendekati penyelesaian, dan menghimpun dana 300 miliar won. Produk ini disebut sebagai produk terstruktur pertama di industri yang berbasis klaim pembayaran konstruksi, dengan skema penerbitan obligasi berperingkat kredit AAA. Perusahaan berharap langkah ini dapat menurunkan biaya pendanaan dan mendiversifikasi sumber dana. Struktur tersebut penting karena mengubah piutang proyek tahap akhir menjadi produk keuangan. Sumber: mk.co.kr"
       }
     }
   }
