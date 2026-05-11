@@ -1,5 +1,230 @@
 [
   {
+    "id": "b9fcd7a74266",
+    "slug": "현대차-n-모델-탄-듯-레이싱-시뮬레이터-출시-147127",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T19:30:27.251Z",
+    "updatedAt": "2026-05-11T19:30:27.251Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901306/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901306/2",
+    "titleFingerprint": "7a1888e4b8078f41b1f024069a7e2efb76e97ee8",
+    "dedupKeys": [
+      "b9fcd7a74266125ef978eb889f760f0fa4b7c0d1",
+      "7a1888e4b8078f41b1f024069a7e2efb76e97ee8",
+      "27bc32fbdb25cc87912146ad588eccad9a7aca15"
+    ],
+    "imageUrl": "/images/articles/b9fcd7a74266.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대 N 레이싱 시뮬레이터 출시, GT7 기반으로 N 주행감 구현",
+        "excerpt": "현대자동차는 11일 고성능 N의 드라이빙 경험을 가상 환경에서 구현한 현대 N 레이싱 시뮬레이터를 출시한다고 밝혔다.",
+        "body": "현대자동차가 11일 고성능 N 브랜드의 드라이빙 경험을 가상 환경에서 구현한 ‘현대 N 레이싱 시뮬레이터’를 출시한다고 밝혔다. 이 제품은 플레이스테이션 게임 ‘그란 투리스모 7’을 기반으로 N 모델을 실제로 타보는 느낌을 구현한 것이 특징이다. 현대차는 LG전자, 소니, 로지텍, 넥스트 레벨 레이싱 등 글로벌 파트너사와 협업해 시뮬레이터를 개발했다. 제품은 사양에 따라 ‘프로’와 ‘레이서’ 2종으로 구성된다. 프로는 LG G 시리즈 OLED TV와 플레이스테이션 5 프로를 탑재한 고성능 사양이며, 레이서는 LG OLED 65인치 TV와 플레이스테이션 5를 적용한 표준 사양이다. 조종석은 넥스트 레벨 레이싱의 GT 엘리트 라이트 제품에 현대 N 디자인을 적용했고, 시트는 아반떼 N 라이트 스포츠 버킷 시트를 사용했다. 현대차는 실제 N 차량의 감각을 가상 주행으로 확장하는 제품으로 몰입감을 높였다고 설명했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Hyundai N Racing Simulator Launches With GT7-Based N Driving Feel",
+        "excerpt": "Hyundai Motor said on the 11th it will launch the Hyundai N Racing Simulator, bringing high-performance N driving experience into a virtual environment.",
+        "body": "Hyundai Motor announced on the 11th that it will launch the Hyundai N Racing Simulator, a product designed to recreate the high-performance N brand’s driving experience in a virtual environment. Based on the PlayStation game Gran Turismo 7, the simulator is intended to deliver the feeling of driving an actual N model. Hyundai developed it in collaboration with global partners including LG Electronics, Sony, Logitech and Next Level Racing. The lineup consists of two versions depending on specification: Pro and Racer. Pro is the high-performance version equipped with an LG G Series OLED TV and PlayStation 5 Pro, while Racer is the standard version with a 65-inch LG OLED TV and PlayStation 5. The cockpit applies Hyundai N design to Next Level Racing’s GT Elite Lite product, and the seat uses the Avante N Light Sports Bucket Seat. Hyundai said the simulator enhances immersion by extending the sensation of real N vehicles into virtual driving. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "現代Nレーシングシミュレーター発売、GT7でNの走行感を再現",
+        "excerpt": "現代自動車は11日、高性能Nのドライビング体験を仮想環境で 구현한現代Nレーシングシミュレーターを発売すると発表した。",
+        "body": "現代自動車は11日、高性能Nブランドのドライビング体験を仮想環境で再現した「現代Nレーシングシミュレーター」を発売すると発表した。この製品は、プレイステーション用ゲーム「グランツーリスモ7」を基盤に、Nモデルを実際に運転しているような感覚を実現した点が特徴だ。現代自動車はLG電子、ソニー、ロジクール、ネクストレベルレーシングなどのグローバルパートナーと協業して開発した。製品は仕様により「プロ」と「レーサー」の2種類で構成される。プロはLG GシリーズOLEDテレビとPlayStation 5 Proを搭載した高性能仕様で、レーサーはLG OLED 65インチテレビとPlayStation 5を採用した標準仕様だ。コックピットにはネクストレベルレーシングのGT Elite Liteに現代Nデザインを適用し、シートにはアバンテNライトスポーツバケットシートを使用した。現代自動車は、実際のN車両の感覚を仮想走行へ広げ、没入感を高めたと説明した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "现代N赛车模拟器发布，基于GT7还原N车型驾驶感",
+        "excerpt": "现代汽车11日表示，将推出在虚拟环境中实现高性能N驾驶体验的现代N赛车模拟器，以提升沉浸式驾驶感受。",
+        "body": "现代汽车11日宣布，将推出在虚拟环境中实现高性能N品牌驾驶体验的“现代N赛车模拟器”。该产品基于PlayStation游戏《Gran Turismo 7》，特点是让用户感受到如同实际驾驶N车型的体验。现代汽车与LG电子、索尼、罗技、Next Level Racing等全球合作伙伴共同开发了这款模拟器。产品按配置分为Pro和Racer两种。Pro是高性能规格，搭载LG G系列OLED电视和PlayStation 5 Pro；Racer是标准规格，采用65英寸LG OLED电视和PlayStation 5。为提高用户沉浸感，硬件也进行了专门设计。驾驶舱采用Next Level Racing的GT Elite Lite产品，并应用现代N品牌设计；座椅使用Avante N Light Sports Bucket Seat。现代汽车表示，该模拟器把实际N车辆的感觉扩展到虚拟驾驶中，从而提升沉浸体验。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Hyundai N Racing Simulator llega con GT7 para recrear la conducción N",
+        "excerpt": "Hyundai Motor anunció el día 11 el lanzamiento del Hyundai N Racing Simulator, que lleva la experiencia de conducción N a un entorno virtual.",
+        "body": "Hyundai Motor anunció el día 11 que lanzará el Hyundai N Racing Simulator, un producto que reproduce en un entorno virtual la experiencia de conducción de la marca de alto rendimiento N. El simulador se basa en el juego de PlayStation Gran Turismo 7 y busca recrear la sensación de conducir un modelo N real. Hyundai lo desarrolló en colaboración con socios globales como LG Electronics, Sony, Logitech y Next Level Racing. La gama se compone de dos versiones según sus especificaciones: Pro y Racer. Pro es la configuración de alto rendimiento, con televisor LG OLED de la serie G y PlayStation 5 Pro; Racer es la configuración estándar, con televisor LG OLED de 65 pulgadas y PlayStation 5. Para aumentar la inmersión, el hardware también recibió atención específica. La cabina aplica el diseño de Hyundai N al GT Elite Lite de Next Level Racing, y el asiento utiliza el Avante N Light Sports Bucket Seat. Hyundai explicó que el producto amplía al manejo virtual la sensación de los vehículos N reales. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Hyundai N Racing Simulator estreia com GT7 e sensação de condução N",
+        "excerpt": "A Hyundai Motor informou no dia 11 que lançará o Hyundai N Racing Simulator, criado para levar a experiência de condução N ao ambiente virtual.",
+        "body": "A Hyundai Motor anunciou no dia 11 que lançará o Hyundai N Racing Simulator, produto que recria em ambiente virtual a experiência de condução da marca de alto desempenho N. Baseado no jogo de PlayStation Gran Turismo 7, o simulador tem como característica reproduzir a sensação de dirigir um modelo N real. A Hyundai desenvolveu o produto em parceria com empresas globais como LG Electronics, Sony, Logitech e Next Level Racing. A linha é formada por duas versões, conforme a especificação: Pro e Racer. A Pro é a configuração de alto desempenho, equipada com TV OLED LG da série G e PlayStation 5 Pro; a Racer é a configuração padrão, com TV LG OLED de 65 polegadas e PlayStation 5. Para aumentar a imersão do usuário, o hardware também recebeu atenção. O cockpit aplica o design Hyundai N ao GT Elite Lite da Next Level Racing, e o assento usa o Avante N Light Sports Bucket Seat. A Hyundai afirmou que o simulador amplia para a direção virtual a sensação dos veículos N reais. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hyundai N Racing Simulator startet mit GT7 und N-Fahrgefühl",
+        "excerpt": "Hyundai Motor kündigte am 11. den Hyundai N Racing Simulator an, der das Fahrerlebnis der Hochleistungsmarke N in eine virtuelle Umgebung überträgt.",
+        "body": "Hyundai Motor gab am 11. bekannt, den Hyundai N Racing Simulator auf den Markt zu bringen. Das Produkt soll das Fahrerlebnis der Hochleistungsmarke N in einer virtuellen Umgebung umsetzen. Grundlage ist das PlayStation-Spiel Gran Turismo 7; laut Hyundai soll damit das Gefühl entstehen, ein echtes N-Modell zu fahren. Entwickelt wurde der Simulator in Zusammenarbeit mit globalen Partnern wie LG Electronics, Sony, Logitech und Next Level Racing. Je nach Ausstattung gibt es zwei Varianten: Pro und Racer. Pro ist die leistungsstärkere Ausführung mit einem LG OLED-TV der G-Serie und PlayStation 5 Pro. Racer ist die Standardversion mit einem 65-Zoll-LG-OLED-TV und PlayStation 5. Auch bei der Hardware legte Hyundai Wert auf Immersion. Das Cockpit basiert auf dem GT Elite Lite von Next Level Racing und trägt Hyundai-N-Design; der Sitz ist der Avante N Light Sports Bucket Seat. Hyundai erklärte, der Simulator erweitere das Gefühl realer N-Fahrzeuge auf virtuelles Fahren. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Hyundai N Racing Simulator lancé avec GT7 pour recréer la conduite N",
+        "excerpt": "Hyundai Motor a annoncé le 11 le lancement du Hyundai N Racing Simulator, conçu pour transposer l’expérience de conduite N dans un environnement virtuel.",
+        "body": "Hyundai Motor a annoncé le 11 le lancement du Hyundai N Racing Simulator, un produit qui recrée dans un environnement virtuel l’expérience de conduite de la marque haute performance N. Basé sur le jeu PlayStation Gran Turismo 7, le simulateur vise à donner la sensation de conduire réellement un modèle N. Hyundai l’a développé avec des partenaires mondiaux tels que LG Electronics, Sony, Logitech et Next Level Racing. La gamme comprend deux versions selon les caractéristiques: Pro et Racer. Pro est la configuration haute performance, équipée d’un téléviseur LG OLED série G et d’une PlayStation 5 Pro; Racer est la configuration standard, avec un téléviseur LG OLED de 65 pouces et une PlayStation 5. Pour renforcer l’immersion, le matériel a également été travaillé. Le cockpit applique le design Hyundai N au GT Elite Lite de Next Level Racing, et le siège utilise l’Avante N Light Sports Bucket Seat. Hyundai explique que le simulateur étend à la conduite virtuelle les sensations des véhicules N réels. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إطلاق محاكي Hyundai N Racing Simulator بتجربة قيادة مبنية على GT7",
+        "excerpt": "أعلنت هيونداي موتور في 11 من الشهر إطلاق Hyundai N Racing Simulator لتجسيد تجربة قيادة طرازات N عالية الأداء داخل بيئة افتراضية.",
+        "body": "أعلنت هيونداي موتور في 11 من الشهر أنها ستطلق Hyundai N Racing Simulator، وهو منتج يجسد تجربة قيادة علامة N عالية الأداء في بيئة افتراضية. ويعتمد المحاكي على لعبة PlayStation Gran Turismo 7، ليمنح المستخدم إحساسا يشبه قيادة طراز N فعلي. وطورت هيونداي هذا المنتج بالتعاون مع شركاء عالميين منهم LG Electronics وسوني ولوجيتك وNext Level Racing. ويتكون المنتج من نسختين حسب المواصفات: Pro وRacer. تأتي نسخة Pro بمواصفات عالية الأداء تشمل تلفزيون LG OLED من سلسلة G وجهاز PlayStation 5 Pro، بينما تعد Racer النسخة القياسية مع تلفزيون LG OLED بقياس 65 بوصة وجهاز PlayStation 5. ولزيادة الانغماس، اهتمت الشركة أيضا بالمعدات. فقمرة القيادة تستخدم منتج GT Elite Lite من Next Level Racing مع تصميم علامة Hyundai N، أما المقعد فهو Avante N Light Sports Bucket Seat. وقالت هيونداي إن المحاكي يوسع إحساس مركبات N الحقيقية إلى القيادة الافتراضية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Hyundai N Racing Simulator लॉन्च, GT7 के आधार पर N ड्राइविंग अनुभव",
+        "excerpt": "Hyundai Motor ने 11 तारीख को कहा कि वह उच्च प्रदर्शन N की ड्राइविंग अनुभूति को वर्चुअल माहौल में लाने वाला Hyundai N Racing Simulator लॉन्च करेगी।",
+        "body": "Hyundai Motor ने 11 तारीख को घोषणा की कि वह Hyundai N Racing Simulator लॉन्च करेगी, जो उच्च प्रदर्शन N ब्रांड के ड्राइविंग अनुभव को वर्चुअल वातावरण में 구현 करता है। यह उत्पाद PlayStation गेम Gran Turismo 7 पर आधारित है और इसका उद्देश्य वास्तविक N मॉडल चलाने जैसी अनुभूति देना है। Hyundai ने इसे LG Electronics, Sony, Logitech और Next Level Racing जैसे वैश्विक साझेदारों के सहयोग से विकसित किया। उत्पाद विनिर्देशों के अनुसार दो प्रकारों, Pro और Racer, में आएगा। Pro उच्च प्रदर्शन वाला संस्करण है, जिसमें LG G Series OLED TV और PlayStation 5 Pro लगाया गया है। Racer मानक संस्करण है, जिसमें 65 इंच LG OLED TV और PlayStation 5 का उपयोग किया गया है। उपयोगकर्ता की डूबने वाली अनुभूति बढ़ाने के लिए हार्डवेयर पर भी ध्यान दिया गया। कॉकपिट में Next Level Racing के GT Elite Lite उत्पाद पर Hyundai N डिजाइन लागू किया गया है, और सीट Avante N Light Sports Bucket Seat है। Hyundai के अनुसार, यह उत्पाद वास्तविक N वाहनों की अनुभूति को वर्चुअल ड्राइविंग तक फैलाता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Hyundai N Racing Simulator Meluncur, Hadirkan Sensasi N Berbasis GT7",
+        "excerpt": "Hyundai Motor pada tanggal 11 mengumumkan peluncuran Hyundai N Racing Simulator yang membawa pengalaman berkendara N performa tinggi ke lingkungan virtual.",
+        "body": "Hyundai Motor mengumumkan pada tanggal 11 bahwa perusahaan akan meluncurkan Hyundai N Racing Simulator, produk yang mewujudkan pengalaman berkendara merek performa tinggi N dalam lingkungan virtual. Simulator ini berbasis gim PlayStation Gran Turismo 7 dan dirancang untuk menghadirkan sensasi seperti mengendarai model N sungguhan. Hyundai mengembangkannya bersama mitra global seperti LG Electronics, Sony, Logitech, dan Next Level Racing. Produk ini terdiri dari dua varian berdasarkan spesifikasi: Pro dan Racer. Pro merupakan spesifikasi performa tinggi dengan TV OLED LG seri G dan PlayStation 5 Pro, sedangkan Racer adalah spesifikasi standar dengan TV LG OLED 65 inci dan PlayStation 5. Untuk meningkatkan imersi pengguna, perangkat kerasnya juga diperhatikan. Kokpit memakai produk GT Elite Lite dari Next Level Racing dengan desain merek Hyundai N, sementara kursinya menggunakan Avante N Light Sports Bucket Seat. Hyundai menjelaskan bahwa simulator ini memperluas sensasi kendaraan N nyata ke pengalaman mengemudi virtual. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "20d3e3cb2d4f",
+    "slug": "생큐-트럼프-이란戰-유가급등에-글로벌-원유업계-깜짝-실적-890267",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T19:29:19.838Z",
+    "updatedAt": "2026-05-11T19:29:19.838Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901312/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901312/2",
+    "titleFingerprint": "12a8adc985f29cb15ce3f9ac970af2de1d5ab973",
+    "dedupKeys": [
+      "20d3e3cb2d4faf67007ed344136835117cfbdf03",
+      "12a8adc985f29cb15ce3f9ac970af2de1d5ab973",
+      "654b9249c78158a51bf921815e20697f2917ed29"
+    ],
+    "imageUrl": "/images/articles/20d3e3cb2d4f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이란전 고유가에 글로벌 원유업계 1분기 실적 급등, 아람코·국내 정유사도 호실적",
+        "excerpt": "미국·이스라엘과 이란 전쟁 이후 고유가가 장기화되며 글로벌 석유 메이저와 국내 정유사가 올 1분기 전년 대비 크게 개선된 실적을 냈다.",
+        "body": "미국·이스라엘과 이란 전쟁으로 고유가가 이어지면서 글로벌 에너지 업계가 올 1분기 전년 대비 급등한 실적을 거뒀다. 10일 현지 시간 사우디아라비아 국영 석유회사 아람코는 1분기 조정순이익이 전년 동기 대비 26% 증가한 336억 달러, 약 49조4592억 원이라고 밝혔다. 원유를 직접 생산하는 글로벌 석유 메이저뿐 아니라 원유를 수입해 가공하는 국내 정유사도 조 단위 영업이익을 냈다. 2월 말 발발한 중동 전쟁 이후 주요 수송로인 호르무즈 해협 봉쇄로 물류 차질이 발생했지만, 아람코는 아라비아반도 내륙 송유관을 가동해 우회 수출에 나섰다. 다만 정제 마진 의존도가 높은 국내 정유업계의 이익은 유가 급등에 따른 일시적 효과가 커 향후 유가 하락 시 실적 악화 우려가 제기된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Iran War Oil Price Surge Lifts Q1 Profits for Aramco and Korean Refiners",
+        "excerpt": "Prolonged high oil prices after the U.S.-Israel war with Iran helped global oil majors and Korean refiners post sharply stronger first-quarter results from a year earlier.",
+        "body": "Global energy companies posted sharply higher year-on-year results in the first quarter as high oil prices persisted after the war involving the United States, Israel and Iran. On May 10 local time, Saudi state oil company Aramco said its first-quarter adjusted net income rose 26% from a year earlier to $33.6 billion, about 49.4592 trillion won. Global oil majors that produce crude directly benefited, while Korean refiners that import and process crude also recorded operating profits in the trillions of won. After the Middle East war broke out in late February, the closure of the Strait of Hormuz, a key shipping route, disrupted logistics, but Aramco used pipelines crossing the Arabian Peninsula inland to reroute exports. However, concerns remain that Korean refiners, whose profits rely heavily on refining margins, could face weaker earnings if oil prices fall. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "イラン戦争による原油高でアラムコと韓国製油各社の1～3月期業績が急伸",
+        "excerpt": "米国・イスラエルとイランの戦争後に原油高が長期化し、世界の石油大手と韓国製油会社が今年1～3月期に前年同期比で大幅な業績改善を記録した。",
+        "body": "米国・イスラエルとイランの戦争により原油高が続き、世界のエネルギー業界は今年1～3月期に前年同期比で急伸した業績を上げた。現地時間10日、サウジアラビア国営石油会社アラムコは、1～3月期の調整純利益が前年同期比26%増の336億ドル、約49兆4592億ウォンだったと発表した。原油を直接生産する世界の石油メジャーだけでなく、原油を輸入して精製する韓国の製油会社も兆ウォン単位の営業利益を出した。2月末に中東戦争が勃発した後、主要輸送路であるホルムズ海峡の封鎖で物流に支障が出たが、アラムコはアラビア半島内陸を横断するパイプラインを稼働し迂回輸出を行った。ただし精製マージンへの依存度が高い韓国製油業界の利益は原油高による一時的効果が大きく、今後原油価格が下落すれば業績悪化の懸念がある。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "伊朗战争推高油价，阿美与韩国炼油企业一季度业绩大幅增长",
+        "excerpt": "美国、以色列与伊朗战争后高油价持续，全球石油巨头和韩国炼油企业今年一季度业绩较去年同期明显改善。",
+        "body": "受美国、以色列与伊朗战争影响，国际油价长期维持高位，全球能源行业今年一季度业绩同比大幅增长。当地时间10日，沙特国有石油公司阿美表示，一季度调整后净利润同比增长26%，达到336亿美元，约49.4592万亿韩元。直接生产原油的全球石油巨头受益，进口原油并加工的韩国炼油企业也实现了以万亿韩元计的营业利润。2月末中东战争爆发后，主要运输通道霍尔木兹海峡被封锁，全球物流出现障碍，但阿美启用了横穿阿拉伯半岛内陆的输油管道进行绕道出口。不过，韩国炼油业利润高度依赖炼油利润率，此次收益中油价急涨带来的一次性效果较大，若未来油价下跌，业绩可能承压。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El alza del petróleo por la guerra con Irán impulsa a Aramco y refinerías coreanas",
+        "excerpt": "La prolongación de los altos precios del crudo tras la guerra de EE. UU. e Israel con Irán elevó con fuerza los resultados del primer trimestre de petroleras globales y refinerías coreanas.",
+        "body": "La industria energética global registró fuertes mejoras interanuales en el primer trimestre, impulsada por la persistencia de altos precios del petróleo tras la guerra de Estados Unidos e Israel con Irán. El día 10, hora local, la petrolera estatal saudí Aramco informó que su beneficio neto ajustado del primer trimestre aumentó un 26% interanual, hasta 33.600 millones de dólares, unos 49,4592 billones de wones. No solo se beneficiaron las grandes petroleras que producen crudo directamente; las refinerías coreanas que importan y procesan crudo también obtuvieron beneficios operativos de escala billonaria en wones. Tras el estallido de la guerra en Oriente Medio a finales de febrero, el bloqueo del estrecho de Ormuz causó problemas logísticos, pero Aramco activó oleoductos interiores en la península arábiga para desviar exportaciones. Aun así, preocupa que las refinerías coreanas, dependientes de los márgenes de refinación, sufran si bajan los precios del crudo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Alta do petróleo com guerra no Irã eleva resultados da Aramco e refinarias coreanas",
+        "excerpt": "A manutenção de preços elevados do petróleo após a guerra dos EUA e de Israel com o Irã levou petroleiras globais e refinarias coreanas a fortes ganhos no primeiro trimestre.",
+        "body": "A indústria global de energia registrou resultados muito superiores aos do ano anterior no primeiro trimestre, com a continuidade dos preços elevados do petróleo após a guerra envolvendo Estados Unidos, Israel e Irã. No dia 10, horário local, a estatal saudita Aramco informou que o lucro líquido ajustado do primeiro trimestre subiu 26% em relação ao ano anterior, para US$ 33,6 bilhões, cerca de 49,4592 trilhões de wones. Além das grandes petroleiras que produzem petróleo diretamente, refinarias coreanas que importam e processam o produto também tiveram lucro operacional na casa dos trilhões de wones. Depois do início da guerra no Oriente Médio no fim de fevereiro, o bloqueio do estreito de Ormuz causou problemas logísticos, mas a Aramco usou oleodutos no interior da península Arábica para redirecionar exportações. Ainda assim, há preocupação de piora dos resultados das refinarias coreanas se o petróleo cair. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Ölpreissprung durch Iran-Krieg treibt Q1-Gewinne von Aramco und Koreas Raffinerien",
+        "excerpt": "Anhaltend hohe Ölpreise nach dem Krieg der USA und Israels mit Iran haben globalen Ölkonzernen und koreanischen Raffinerien im ersten Quartal deutlich bessere Ergebnisse beschert.",
+        "body": "Die globale Energiebranche erzielte im ersten Quartal deutlich höhere Ergebnisse als im Vorjahr, da die Ölpreise nach dem Krieg der USA und Israels mit Iran hoch blieben. Am 10. Mai Ortszeit teilte der saudische Staatsölkonzern Aramco mit, dass der bereinigte Nettogewinn im ersten Quartal um 26% auf 33,6 Milliarden US-Dollar gestiegen sei, etwa 49,4592 Billionen Won. Davon profitierten nicht nur große Ölkonzerne, die Rohöl direkt fördern, sondern auch koreanische Raffinerien, die Rohöl importieren und verarbeiten; sie erzielten operative Gewinne in Billionenhöhe in Won. Nach Ausbruch des Nahostkriegs Ende Februar führte die Sperrung der wichtigen Transportroute Straße von Hormus zu Logistikproblemen, doch Aramco nutzte Pipelines durch das Innere der Arabischen Halbinsel für Umleitungsexporte. Für koreanische Raffinerien bleibt wegen ihrer Abhängigkeit von Raffineriemargen das Risiko sinkender Ölpreise. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La flambée du pétrole liée à la guerre en Iran dope Aramco et les raffineurs coréens",
+        "excerpt": "La persistance de prix élevés du brut après la guerre des États-Unis et d’Israël contre l’Iran a fortement amélioré les résultats du premier trimestre des majors pétrolières et raffineurs coréens.",
+        "body": "Le secteur mondial de l’énergie a enregistré au premier trimestre des résultats en forte hausse sur un an, porté par le maintien de prix élevés du pétrole après la guerre impliquant les États-Unis, Israël et l’Iran. Le 10 mai, heure locale, la compagnie pétrolière publique saoudienne Aramco a annoncé un bénéfice net ajusté de 33,6 milliards de dollars au premier trimestre, en hausse de 26% sur un an, soit environ 49.4592 billions de wons. Les grandes compagnies qui produisent directement du brut en ont bénéficié, tout comme les raffineurs coréens qui importent et transforment le pétrole, avec des bénéfices d’exploitation de l’ordre de billions de wons. Après le déclenchement de la guerre au Moyen-Orient fin février, le blocage du détroit d’Ormuz a perturbé la logistique, mais Aramco a utilisé des oléoducs traversant l’intérieur de la péninsule Arabique pour exporter par détour. La dépendance des raffineurs coréens aux marges de raffinage nourrit toutefois des inquiétudes si les prix baissent. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ارتفاع النفط بسبب حرب إيران يرفع أرباح أرامكو ومصافي كوريا في الربع الأول",
+        "excerpt": "أدى استمرار أسعار النفط المرتفعة بعد حرب الولايات المتحدة وإسرائيل مع إيران إلى تحسن حاد في نتائج شركات النفط العالمية والمصافي الكورية خلال الربع الأول.",
+        "body": "حققت صناعة الطاقة العالمية نتائج أعلى بكثير على أساس سنوي في الربع الأول، مع استمرار ارتفاع أسعار النفط بعد الحرب التي شملت الولايات المتحدة وإسرائيل وإيران. وفي العاشر من الشهر بالتوقيت المحلي، أعلنت شركة أرامكو السعودية الحكومية أن صافي الربح المعدل في الربع الأول ارتفع 26% على أساس سنوي إلى 33.6 مليار دولار، أي نحو 49.4592 تريليون وون. واستفادت شركات النفط الكبرى التي تنتج الخام مباشرة، كما سجلت المصافي الكورية التي تستورد الخام وتعالجه أرباحا تشغيلية بتريليونات الوون. وبعد اندلاع الحرب في الشرق الأوسط أواخر فبراير، تسبب إغلاق مضيق هرمز، وهو مسار نقل رئيسي، في اضطرابات لوجستية، لكن أرامكو شغلت خطوط أنابيب تعبر داخل شبه الجزيرة العربية لتصدير النفط عبر مسارات بديلة. ومع ذلك، تثار مخاوف من تراجع نتائج قطاع التكرير الكوري إذا انخفضت أسعار النفط، بسبب اعتماده الكبير على هوامش التكرير. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ईरान युद्ध से महंगे तेल ने अरामको और कोरियाई रिफाइनरियों की पहली तिमाही चमकाई",
+        "excerpt": "अमेरिका और इजराइल के ईरान के साथ युद्ध के बाद ऊंचे तेल दाम जारी रहने से वैश्विक तेल कंपनियों और कोरियाई रिफाइनरियों के पहली तिमाही नतीजे सालाना आधार पर तेजी से सुधरे।",
+        "body": "अमेरिका और इजराइल के ईरान के साथ युद्ध के बाद तेल कीमतें ऊंची बनी रहीं, जिससे वैश्विक ऊर्जा उद्योग ने इस साल पहली तिमाही में पिछले वर्ष की तुलना में तेजी से बेहतर नतीजे दर्ज किए। स्थानीय समय के अनुसार 10 तारीख को सऊदी अरब की सरकारी तेल कंपनी अरामको ने बताया कि पहली तिमाही का समायोजित शुद्ध लाभ सालाना आधार पर 26% बढ़कर 33.6 अरब डॉलर, यानी लगभग 49.4592 ट्रिलियन वॉन, रहा। सीधे कच्चा तेल उत्पादन करने वाली वैश्विक तेल कंपनियों के साथ-साथ कच्चा तेल आयात कर उसे प्रोसेस करने वाली कोरियाई रिफाइनरियों ने भी ट्रिलियन वॉन स्तर का परिचालन लाभ कमाया। फरवरी के अंत में मध्य पूर्व युद्ध शुरू होने के बाद होर्मुज जलडमरूमध्य बंद होने से लॉजिस्टिक्स बाधित हुए, लेकिन अरामको ने अरब प्रायद्वीप के भीतर पाइपलाइन चलाकर वैकल्पिक निर्यात किया। हालांकि रिफाइनिंग मार्जिन पर निर्भर कोरियाई रिफाइनरियों के लिए तेल कीमतें घटने पर नतीजे बिगड़ने की चिंता बनी हुई है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lonjakan Harga Minyak akibat Perang Iran Dongkrak Kinerja Aramco dan Kilang Korea",
+        "excerpt": "Harga minyak yang tetap tinggi setelah perang Amerika Serikat dan Israel dengan Iran membuat perusahaan minyak global dan kilang Korea membukukan kinerja kuartal pertama yang jauh lebih kuat.",
+        "body": "Industri energi global mencatat kinerja kuartal pertama yang melonjak dibanding tahun sebelumnya karena harga minyak tetap tinggi setelah perang yang melibatkan Amerika Serikat, Israel, dan Iran. Pada tanggal 10 waktu setempat, perusahaan minyak negara Arab Saudi, Aramco, menyatakan laba bersih disesuaikan kuartal pertama naik 26% secara tahunan menjadi 33,6 miliar dolar AS, sekitar 49,4592 triliun won. Perusahaan minyak besar yang memproduksi minyak mentah secara langsung mendapat keuntungan, sementara perusahaan penyulingan Korea yang mengimpor dan mengolah minyak mentah juga mencetak laba operasi dalam skala triliunan won. Setelah perang Timur Tengah pecah pada akhir Februari, penutupan Selat Hormuz sebagai jalur transportasi utama mengganggu logistik, tetapi Aramco mengoperasikan pipa darat yang melintasi Semenanjung Arab untuk ekspor alternatif. Namun, industri penyulingan Korea yang bergantung pada margin penyulingan dikhawatirkan terkena tekanan bila harga minyak turun. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "c3fd24781fb5",
+    "slug": "1분기-개인투자자-80가-수익-평균-848만원-383757",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T19:27:49.840Z",
+    "updatedAt": "2026-05-11T19:27:49.840Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901382/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901382/2",
+    "titleFingerprint": "2d7d1c6d363a8d32cc9bf0ec6bb4f2bfc8a25a42",
+    "dedupKeys": [
+      "c3fd24781fb549aa06265f82441b4c18f1cbc1f0",
+      "2d7d1c6d363a8d32cc9bf0ec6bb4f2bfc8a25a42",
+      "eb9f24943a5465f2c7e27b071b0d9d5d3737777a"
+    ],
+    "imageUrl": "/images/articles/c3fd24781fb5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "1분기 개인투자자 80% 수익 실현, 평균 848만원 벌었다",
+        "excerpt": "신한투자증권이 11일 공개한 분석에 따르면 올해 1분기 국내 주식 매도 개인투자자 80%가 수익을 실현했고 평균 수익은 848만원이었다.",
+        "body": "올해 1분기(1~3월) 국내 주식시장에서 개인투자자 10명 중 8명이 수익을 낸 것으로 나타났다. 신한투자증권은 11일 개인투자자의 국내 주식 계좌 거래 분석 결과를 공개하며, 1분기 국내 주식을 매도해 수익을 실현한 투자자 비중이 80%였고 평균 수익은 848만원이라고 밝혔다. 손실을 낸 20%는 평균 496만원을 잃었다. 연령별로는 70대 이상 투자자의 수익 실현 규모가 가장 컸다. 코스피는 1월 27일 종가 기준 처음 5,000을 넘은 뒤 18거래일 만에 6,000도 돌파했으나, 2월 28일 미국과 이란 전쟁 발발 이후 3월에는 6,000선 아래로 밀리며 조정을 겪었다. 종목별로는 삼성전자 매도 수익 투자자의 평균 차익이 714만원으로 가장 컸고, SK하이닉스 594만원, 현대차 341만원 순이었다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "80% of Retail Investors Made Q1 Gains, Averaging 8.48 Million Won",
+        "excerpt": "According to Shinhan Securities’ analysis released on the 11th, 80% of retail investors who sold Korean stocks in Q1 realized gains averaging 8.48 million won.",
+        "body": "In the first quarter of this year, from January to March, eight out of ten retail investors made profits in South Korea’s stock market. Shinhan Securities released its analysis of domestic stock account trading by retail investors on the 11th, saying that 80% of investors who sold Korean shares in the quarter realized gains, with an average profit of 8.48 million won. The remaining 20% who posted losses lost an average of 4.96 million won. By age group, investors in their 70s and older realized the highest profits. The Kospi first closed above 5,000 on January 27 and surpassed 6,000 after 18 trading sessions, but it fell below 6,000 in March after the U.S.-Iran war broke out on February 28. By stock, Samsung Electronics led profit realization, with sellers gaining an average of 7.14 million won, followed by SK Hynix at 5.94 million won and Hyundai Motor at 3.41 million won. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "第1四半期の個人投資家80%が利益、平均848万ウォンを実現",
+        "excerpt": "新韓投資証券が11日に公表した分析によると、今年第1四半期に韓国株を売却した個人投資家の80%が利益を実現し、平均利益は848万ウォンだった。",
+        "body": "今年第1四半期（1~3月）、韓国株式市場で個人投資家の10人中8人が利益を上げたことが分かった。新韓投資証券は11日、個人投資家の韓国株口座取引分析を公表し、第1四半期に韓国株を売却して利益を実現した投資家の割合は80%、平均利益は848万ウォンだったと明らかにした。一方、損失を出した20%は平均496万ウォンを失った。年齢別では70代以上の個人投資家が最も大きな利益を実現した。KOSPIは1月27日に終値ベースで初めて5,000を超え、その後18取引日で6,000も突破したが、2月28日に米国とイランの戦争が勃発した後、3月には6,000を下回る調整局面もあった。銘柄別ではサムスン電子の売却益が平均714万ウォンで最大となり、SKハイニックス594万ウォン、現代自動車341万ウォンが続いた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "一季度个人投资者80%获利，平均收益848万韩元",
+        "excerpt": "据新韩投资证券11日公布的分析，今年一季度卖出韩国股票的个人投资者中80%实现盈利，平均收益为848万韩元。",
+        "body": "今年第一季度（1月至3月），韩国股市中每10名个人投资者就有8人获得收益。新韩投资证券11日公布个人投资者韩国股票账户交易分析称，一季度卖出韩国股票并实现盈利的投资者占比为80%，平均赚得848万韩元。相反，出现亏损的20%平均损失496万韩元。按年龄来看，70岁及以上个人投资者实现的收益最高。韩国综合股价指数1月27日首次以收盘价突破5,000点，并在18个交易日后升破6,000点；但2月28日美国与伊朗战争爆发后，3月跌至6,000点下方，经历调整。按个股看，三星电子是个人投资者获利的最大贡献者，卖出该股获利的投资者平均实现714万韩元收益，其后为SK海力士594万韩元、现代汽车341万韩元。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El 80% de inversores minoristas ganó en el primer trimestre: 8,48 millones de wones",
+        "excerpt": "Según el análisis publicado el día 11 por Shinhan Securities, el 80% de los inversores minoristas que vendieron acciones coreanas en el primer trimestre obtuvo ganancias medias de 8,48 millones de wones.",
+        "body": "En el primer trimestre de este año, de enero a marzo, ocho de cada diez inversores minoristas obtuvieron beneficios en el mercado bursátil surcoreano. Shinhan Securities publicó el día 11 su análisis de las cuentas de negociación de acciones nacionales de inversores individuales y señaló que el 80% de quienes vendieron acciones coreanas en el trimestre realizó ganancias, con un beneficio medio de 8,48 millones de wones. El 20% que registró pérdidas perdió en promedio 4,96 millones de wones. Por edades, los inversores de 70 años o más lograron las mayores ganancias. El Kospi superó por primera vez los 5.000 puntos al cierre el 27 de enero y rebasó los 6.000 en 18 sesiones, aunque cayó por debajo de ese nivel en marzo tras el inicio de la guerra entre Estados Unidos e Irán el 28 de febrero. Por valores, Samsung Electronics lideró con una ganancia media de 7,14 millones de wones, seguida de SK Hynix con 5,94 millones y Hyundai Motor con 3,41 millones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "80% dos investidores individuais lucraram no 1º trimestre, média de 8,48 milhões de won",
+        "excerpt": "Segundo análise divulgada no dia 11 pela Shinhan Securities, 80% dos investidores individuais que venderam ações coreanas no 1º trimestre tiveram lucro médio de 8,48 milhões de won.",
+        "body": "No primeiro trimestre deste ano, de janeiro a março, oito em cada dez investidores individuais tiveram lucro no mercado acionário da Coreia do Sul. A Shinhan Securities divulgou no dia 11 uma análise das negociações em contas de ações domésticas de investidores individuais e informou que 80% dos que venderam ações coreanas no período realizaram ganhos, com lucro médio de 8,48 milhões de won. Os 20% que tiveram perdas perderam, em média, 4,96 milhões de won. Por faixa etária, investidores com 70 anos ou mais registraram os maiores ganhos. O Kospi fechou acima de 5.000 pontos pela primeira vez em 27 de janeiro e superou 6.000 após 18 pregões, mas caiu abaixo desse patamar em março após o início da guerra entre Estados Unidos e Irã em 28 de fevereiro. Por ação, a Samsung Electronics liderou, com ganho médio de 7,14 milhões de won para investidores que venderam com lucro, seguida por SK Hynix, com 5,94 milhões, e Hyundai Motor, com 3,41 milhões. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "80% der Privatanleger erzielten im ersten Quartal Gewinn, im Schnitt 8,48 Mio. Won",
+        "excerpt": "Laut einer am 11. veröffentlichten Analyse von Shinhan Securities realisierten 80% der Privatanleger, die im ersten Quartal koreanische Aktien verkauften, Gewinne von durchschnittlich 8,48 Mio. Won.",
+        "body": "Im ersten Quartal dieses Jahres, von Januar bis März, erzielten acht von zehn Privatanlegern am südkoreanischen Aktienmarkt Gewinne. Shinhan Securities veröffentlichte am 11. eine Analyse der Handelskonten privater Anleger für heimische Aktien und erklärte, dass 80% der Anleger, die im Quartal koreanische Aktien verkauften, Gewinne realisierten. Der durchschnittliche Gewinn lag bei 8,48 Millionen Won. Die 20% mit Verlusten verloren im Schnitt 4,96 Millionen Won. Nach Altersgruppen erzielten Anleger ab 70 Jahren die höchsten Gewinne. Der Kospi überschritt am 27. Januar erstmals auf Schlusskursbasis 5.000 Punkte und stieg nach 18 Handelstagen auch über 6.000, fiel im März nach Ausbruch des Kriegs zwischen den USA und Iran am 28. Februar jedoch wieder unter 6.000. Nach Einzeltiteln war Samsung Electronics der wichtigste Gewinnbringer: Anleger, die die Aktie mit Gewinn verkauften, erzielten im Schnitt 7,14 Millionen Won. Es folgten SK Hynix mit 5,94 Millionen Won und Hyundai Motor mit 3,41 Millionen Won. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "80% des particuliers gagnants au 1er trimestre, gain moyen de 8,48 millions de wons",
+        "excerpt": "Selon l’analyse publiée le 11 par Shinhan Securities, 80% des particuliers ayant vendu des actions coréennes au 1er trimestre ont réalisé un gain moyen de 8,48 millions de wons.",
+        "body": "Au premier trimestre de cette année, de janvier à mars, huit investisseurs particuliers sur dix ont réalisé des gains sur le marché boursier sud-coréen. Shinhan Securities a publié le 11 son analyse des comptes de négociation d’actions nationales des particuliers et indiqué que 80% de ceux qui ont vendu des actions coréennes durant le trimestre ont enregistré un bénéfice, avec un gain moyen de 8,48 millions de wons. Les 20% en perte ont perdu en moyenne 4,96 millions de wons. Par âge, les investisseurs de 70 ans et plus ont réalisé les gains les plus élevés. Le Kospi a dépassé pour la première fois 5.000 points en clôture le 27 janvier, puis 6.000 points en 18 séances, avant de repasser sous 6.000 en mars après le déclenchement de la guerre entre les États-Unis et l’Iran le 28 février. Par valeur, Samsung Electronics a été le principal moteur, avec un gain moyen de 7,14 millions de wons pour les vendeurs gagnants, devant SK Hynix à 5,94 millions et Hyundai Motor à 3,41 millions. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "80% من المستثمرين الأفراد ربحوا في الربع الأول بمتوسط 8.48 مليون وون",
+        "excerpt": "بحسب تحليل نشرته شينهان للاستثمار في 11 من الشهر، حقق 80% من المستثمرين الأفراد الذين باعوا أسهما كورية في الربع الأول أرباحا بمتوسط 8.48 مليون وون.",
+        "body": "في الربع الأول من هذا العام، من يناير إلى مارس، حقق ثمانية من كل عشرة مستثمرين أفراد أرباحا في سوق الأسهم الكورية الجنوبية. ونشرت شينهان للاستثمار في 11 من الشهر تحليلا لتداول حسابات الأسهم المحلية للمستثمرين الأفراد، وقالت إن 80% ممن باعوا أسهما كورية خلال الربع حققوا أرباحا، بمتوسط 8.48 مليون وون. أما نسبة 20% التي تكبدت خسائر فقد خسرت في المتوسط 4.96 مليون وون. وبحسب العمر، سجل المستثمرون في السبعينيات وما فوق أعلى أرباح محققة. تجاوز مؤشر كوسبي مستوى 5,000 نقطة عند الإغلاق لأول مرة في 27 يناير، ثم تخطى 6,000 نقطة بعد 18 جلسة تداول، لكنه هبط في مارس دون 6,000 بعد اندلاع الحرب بين الولايات المتحدة وإيران في 28 فبراير. وعلى مستوى الأسهم، كانت سامسونغ إلكترونيكس أبرز مساهم في الأرباح، إذ حقق بائعوها الرابحون متوسط مكاسب قدره 7.14 مليون وون، تلتها إس كيه هاينكس بـ5.94 مليون وون وهيونداي موتور بـ3.41 مليون وون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "पहली तिमाही में 80% खुदरा निवेशक मुनाफे में, औसत लाभ 84.8 लाख वॉन",
+        "excerpt": "शिनहान सिक्योरिटीज द्वारा 11 तारीख को जारी विश्लेषण के अनुसार, पहली तिमाही में कोरियाई शेयर बेचने वाले 80% खुदरा निवेशकों ने औसतन 84.8 लाख वॉन का लाभ कमाया।",
+        "body": "इस साल पहली तिमाही, जनवरी से मार्च, में दक्षिण कोरिया के शेयर बाजार में दस में से आठ खुदरा निवेशकों ने मुनाफा कमाया। शिनहान सिक्योरिटीज ने 11 तारीख को खुदरा निवेशकों के घरेलू शेयर खातों के कारोबार का विश्लेषण जारी किया और बताया कि तिमाही में कोरियाई शेयर बेचकर लाभ दर्ज करने वाले निवेशकों की हिस्सेदारी 80% रही, जिनका औसत लाभ 84.8 लाख वॉन था। इसके विपरीत, नुकसान उठाने वाले 20% निवेशकों ने औसतन 49.6 लाख वॉन गंवाए। आयु वर्ग के अनुसार, 70 वर्ष और उससे अधिक उम्र के निवेशकों ने सबसे अधिक लाभ हासिल किया। कोस्पी 27 जनवरी को पहली बार बंद भाव के आधार पर 5,000 से ऊपर गया और 18 कारोबारी सत्रों में 6,000 भी पार कर गया, लेकिन 28 फरवरी को अमेरिका-ईरान युद्ध शुरू होने के बाद मार्च में 6,000 से नीचे आ गया। शेयरों में सैमसंग इलेक्ट्रॉनिक्स सबसे बड़ा लाभ स्रोत रहा; इसे बेचकर लाभ कमाने वालों का औसत फायदा 71.4 लाख वॉन था। इसके बाद एसके हाइनिक्स 59.4 लाख वॉन और हुंडई मोटर 34.1 लाख वॉन रहे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "80% Investor Ritel Raup Untung Kuartal I, Rata-rata 8,48 Juta Won",
+        "excerpt": "Menurut analisis Shinhan Securities yang dirilis pada tanggal 11, 80% investor ritel yang menjual saham Korea pada kuartal I membukukan laba rata-rata 8,48 juta won.",
+        "body": "Pada kuartal pertama tahun ini, Januari hingga Maret, delapan dari sepuluh investor ritel mencatat keuntungan di pasar saham Korea Selatan. Shinhan Securities pada tanggal 11 merilis analisis transaksi rekening saham domestik investor individu dan menyatakan bahwa 80% investor yang menjual saham Korea pada kuartal tersebut merealisasikan laba, dengan keuntungan rata-rata 8,48 juta won. Sementara itu, 20% yang merugi kehilangan rata-rata 4,96 juta won. Berdasarkan usia, investor berusia 70 tahun ke atas mencatat realisasi keuntungan tertinggi. Kospi pertama kali ditutup di atas 5.000 pada 27 Januari dan menembus 6.000 setelah 18 hari perdagangan, tetapi turun di bawah 6.000 pada Maret setelah perang Amerika Serikat-Iran pecah pada 28 Februari. Berdasarkan saham, Samsung Electronics menjadi penyumbang utama laba, dengan investor yang menjual sahamnya secara untung meraih selisih rata-rata 7,14 juta won, disusul SK Hynix 5,94 juta won dan Hyundai Motor 3,41 juta won. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "9df9e42e78c4",
     "slug": "기획예산처-정부세종청사서-개청식-217889",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "SK Innovation Rekrut Tim AI Impact Solution untuk Atasi Masalah Sosial dengan AI",
         "excerpt": "SK Innovation menyatakan pada tanggal 11 bahwa pihaknya merekrut tim untuk program kontribusi sosial baru, AI Impact Solution, yang berfokus pada penggunaan AI untuk masalah sosial.",
         "body": "SK Innovation mengumumkan pada tanggal 11 bahwa pihaknya merekrut tim peserta untuk program kontribusi sosial baru, “AI Impact Solution”. Program ini disiapkan dengan tujuan mencari cara menyelesaikan masalah sosial menggunakan kecerdasan buatan. Menurut keterangan perusahaan, perekrutan ditujukan bagi tim yang akan berpartisipasi dalam AI Impact Solution, dengan inti program menghubungkan teknologi AI dengan penyelesaian tantangan sosial. Perhatian tertuju pada apakah kegiatan kontribusi sosial baru SK Innovation ini dapat memperluas partisipasi dalam pemecahan masalah berbasis AI. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "08a14f061035",
-    "slug": "한투증권-고물가-우려-잠시-내려놓고-반도체-계속-붙잡아야-381052",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:24:53.677Z",
-    "updatedAt": "2026-05-10T23:24:53.677Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511018700008",
-    "titleFingerprint": "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
-    "dedupKeys": [
-      "08a14f06103581a07a9100bd2db5b8411dcd4019",
-      "1ab7d9d6d1c2ddf1529094b4edeb726f8607bba2",
-      "03e057675dc435ba0c3c54c2f3a482a2a8ed8302"
-    ],
-    "imageUrl": "/images/articles/08a14f061035.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 투자 전략 주목, 한투증권 “고물가보다 AI 혁신 수혜 봐야”",
-        "excerpt": "한국투자증권은 11일 고물가 우려를 잠시 내려놓고 AI 혁신의 수혜 대상인 반도체를 계속 붙잡아야 한다고 밝혔다.",
-        "body": "한국투자증권은 11일 고물가 우려보다 인공지능(AI) 혁신의 수혜를 받는 반도체 업종에 계속 주목해야 한다고 밝혔다. 회사는 최근 시장에서 물가 부담에 대한 경계감이 이어지고 있지만, 투자 판단에서는 AI 혁신과 그에 따른 반도체 수요 확대 가능성을 우선적으로 봐야 한다는 취지의 의견을 냈다. 이번 발언은 고물가 우려가 투자심리를 흔드는 가운데 반도체를 핵심 투자 대상으로 유지해야 한다는 메시지로 해석된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Semiconductor Strategy in Focus as KIS Says AI Benefits Outweigh Inflation Worries",
-        "excerpt": "Korea Investment & Securities said on the 11th that investors should set aside inflation concerns for now and keep holding semiconductors, beneficiaries of AI innovation.",
-        "body": "Korea Investment & Securities said on the 11th that investors should keep paying attention to the semiconductor sector, which is expected to benefit from artificial intelligence innovation, rather than focusing on high inflation concerns. The firm noted that while market caution over price pressures continues, investment judgment should prioritize AI innovation and the potential expansion of semiconductor demand linked to it. The comment is seen as a message that semiconductors should remain a core investment target despite inflation weighing on sentiment. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "半導体投資戦略に注目、韓国投資証券「高物価よりAI革新の恩恵を重視」",
-        "excerpt": "韓国投資証券は11日、高物価への懸念はいったん脇に置き、AI革新の恩恵を受ける半導体を持ち続けるべきだと述べた。",
-        "body": "韓国投資証券は11日、高物価への懸念よりも、人工知能（AI）革新の恩恵を受ける半導体業種に引き続き注目すべきだと明らかにした。同社は、市場で物価負担への警戒感が続いているものの、投資判断ではAI革新とそれに伴う半導体需要の拡大可能性を優先して見るべきだとの趣旨を示した。今回の発言は、高物価懸念が投資心理を揺さぶる中でも、半導体を中核的な投資対象として維持すべきだというメッセージと受け止められる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "半导体投资策略受关注，韩国投资证券称应重视AI创新受益",
-        "excerpt": "韩国投资证券11日表示，当前应暂时放下高通胀担忧，继续持有受益于AI创新的半导体板块。",
-        "body": "韩国投资证券11日表示，相比高通胀担忧，投资者应继续关注受人工智能（AI）创新带动的半导体行业。该公司认为，尽管市场对物价压力的警惕仍在持续，但在投资判断中，应优先关注AI创新以及由此带来的半导体需求扩大可能性。此番表态被解读为，在高通胀忧虑影响投资情绪的情况下，半导体仍应作为核心投资对象加以维持。出处: yna.co.kr"
-      },
-      "es": {
-        "title": "Estrategia en semiconductores: KIS pide mirar el beneficio de la IA antes que la inflación",
-        "excerpt": "Korea Investment & Securities dijo el día 11 que conviene dejar por ahora las preocupaciones por la alta inflación y mantener semiconductores, beneficiados por la IA.",
-        "body": "Korea Investment & Securities afirmó el día 11 que los inversores deberían seguir atentos al sector de semiconductores, beneficiario de la innovación en inteligencia artificial (IA), por encima de las preocupaciones sobre la alta inflación. La firma señaló que, aunque persiste la cautela del mercado por la presión de los precios, el juicio de inversión debe priorizar la innovación en IA y la posible ampliación de la demanda de semiconductores ligada a ella. El comentario se interpreta como un mensaje para mantener los semiconductores como objetivo central de inversión pese al impacto de la inflación en el ánimo inversor. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Estratégia em semicondutores ganha foco com KIS priorizando IA sobre inflação",
-        "excerpt": "A Korea Investment & Securities disse no dia 11 que é preciso deixar de lado, por ora, a preocupação com a inflação alta e manter semicondutores, beneficiados pela IA.",
-        "body": "A Korea Investment & Securities afirmou no dia 11 que investidores devem continuar atentos ao setor de semicondutores, beneficiário da inovação em inteligência artificial (IA), em vez de se concentrar nas preocupações com a inflação elevada. A empresa indicou que, embora a cautela do mercado com a pressão dos preços continue, a decisão de investimento deve priorizar a inovação em IA e a possível expansão da demanda por semicondutores ligada a ela. A declaração é vista como uma mensagem para manter semicondutores como alvo central de investimento apesar da inflação afetar o sentimento do mercado. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Halbleiter-Strategie im Fokus: KIS sieht KI-Nutzen vor Inflationssorgen",
-        "excerpt": "Korea Investment & Securities erklärte am 11., Anleger sollten Inflationssorgen vorerst zurückstellen und an Halbleitern als Profiteuren der KI-Innovation festhalten.",
-        "body": "Korea Investment & Securities erklärte am 11., Anleger sollten dem Halbleitersektor, der von Innovationen bei künstlicher Intelligenz (KI) profitieren dürfte, weiter Aufmerksamkeit schenken, statt sich auf Sorgen über hohe Inflation zu konzentrieren. Das Unternehmen verwies darauf, dass die Märkte zwar weiterhin vorsichtig auf Preisdruck reagieren, Anlageentscheidungen jedoch KI-Innovation und die damit verbundene mögliche Ausweitung der Halbleiternachfrage priorisieren sollten. Die Aussage gilt als Botschaft, Halbleiter trotz belasteter Anlegerstimmung als zentrales Anlageziel beizubehalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Stratégie semi-conducteurs: KIS privilégie les gains liés à l’IA face à l’inflation",
-        "excerpt": "Korea Investment & Securities a déclaré le 11 qu’il fallait mettre de côté pour l’instant les craintes d’inflation et conserver les semi-conducteurs, bénéficiaires de l’IA.",
-        "body": "Korea Investment & Securities a déclaré le 11 que les investisseurs devraient continuer de s’intéresser au secteur des semi-conducteurs, bénéficiaire de l’innovation en intelligence artificielle (IA), plutôt que de se concentrer sur les inquiétudes liées à la forte inflation. La société a indiqué que, même si la prudence du marché face aux pressions sur les prix persiste, le jugement d’investissement devrait privilégier l’innovation en IA et la possible expansion de la demande de semi-conducteurs qui en découle. Cette déclaration est comprise comme un message invitant à maintenir les semi-conducteurs comme cible d’investissement centrale malgré l’effet de l’inflation sur le sentiment. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "استراتيجية أشباه الموصلات في الواجهة مع دعوة كورية لتقديم مكاسب الذكاء الاصطناعي",
-        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في 11 من الشهر إنه ينبغي تنحية مخاوف التضخم المرتفع مؤقتا والتمسك بأشباه الموصلات المستفيدة من ابتكار الذكاء الاصطناعي.",
-        "body": "قالت كوريا إنفستمنت آند سيكيوريتيز في 11 من الشهر إن المستثمرين ينبغي أن يواصلوا التركيز على قطاع أشباه الموصلات، المستفيد من ابتكارات الذكاء الاصطناعي، بدلا من التركيز على مخاوف التضخم المرتفع. وأوضحت الشركة أنه رغم استمرار حذر السوق تجاه ضغوط الأسعار، فإن قرارات الاستثمار يجب أن تعطي الأولوية لابتكار الذكاء الاصطناعي وإمكان توسع الطلب على أشباه الموصلات المرتبط به. وتفهم هذه التصريحات كرسالة للإبقاء على أشباه الموصلات كهدف استثماري رئيسي رغم تأثير التضخم في معنويات المستثمرين. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर रणनीति पर जोर, KIS ने कहा महंगाई से अधिक AI लाभ देखें",
-        "excerpt": "कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज ने 11 तारीख को कहा कि ऊंची महंगाई की चिंता फिलहाल अलग रखकर AI नवाचार से लाभ पाने वाले सेमीकंडक्टर को पकड़े रहना चाहिए।",
-        "body": "कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज ने 11 तारीख को कहा कि निवेशकों को ऊंची महंगाई की चिंता के बजाय कृत्रिम बुद्धिमत्ता (AI) नवाचार से लाभान्वित होने वाले सेमीकंडक्टर क्षेत्र पर ध्यान बनाए रखना चाहिए। कंपनी ने कहा कि बाजार में कीमतों के दबाव को लेकर सतर्कता बनी हुई है, फिर भी निवेश निर्णय में AI नवाचार और उससे जुड़ी सेमीकंडक्टर मांग के विस्तार की संभावना को प्राथमिकता दी जानी चाहिए। यह टिप्पणी इस संदेश के रूप में देखी जा रही है कि महंगाई से निवेश भावना प्रभावित होने के बावजूद सेमीकंडक्टर को मुख्य निवेश लक्ष्य बनाए रखना चाहिए। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Strategi Semikonduktor Jadi Sorotan, KIS Minta Fokus pada Manfaat Inovasi AI",
-        "excerpt": "Korea Investment & Securities pada tanggal 11 mengatakan kekhawatiran inflasi tinggi sebaiknya dikesampingkan sementara dan investor tetap memegang semikonduktor, penerima manfaat inovasi AI.",
-        "body": "Korea Investment & Securities pada tanggal 11 menyatakan investor perlu terus memperhatikan sektor semikonduktor, yang menjadi penerima manfaat inovasi kecerdasan buatan (AI), dibanding berfokus pada kekhawatiran inflasi tinggi. Perusahaan menilai kewaspadaan pasar terhadap tekanan harga masih berlanjut, tetapi keputusan investasi sebaiknya memprioritaskan inovasi AI dan kemungkinan perluasan permintaan semikonduktor yang terkait dengannya. Pernyataan ini dipahami sebagai pesan untuk mempertahankan semikonduktor sebagai sasaran investasi inti meski inflasi membebani sentimen investor. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f99585dbbd91",
-    "slug": "임성재-pga-특급대회-트루이스트-챔피언십서-최종-공동-5위-263281",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:24:04.468Z",
-    "updatedAt": "2026-05-10T23:24:04.468Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Sports/article/all/20260511/133895772/1",
-    "canonicalUrl": "https://www.donga.com/news/Sports/article/all/20260511/133895772/1",
-    "titleFingerprint": "5cc688dbf6faaf3c8c87a77c12c167027ba530ac",
-    "dedupKeys": [
-      "f99585dbbd910694f42d32827e5759a275670977",
-      "5cc688dbf6faaf3c8c87a77c12c167027ba530ac",
-      "cb71e5d55fce8a632454184b341f55d8823922e7"
-    ],
-    "imageUrl": "/images/articles/f99585dbbd91.jpg",
-    "i18n": {
-      "ko": {
-        "title": "임성재, PGA 트루이스트 챔피언십 공동 5위…시즌 두 번째 톱10",
-        "excerpt": "임성재가 11일 미국 노스캐롤라이나주 샬럿 퀘일 할로 클럽에서 열린 PGA 투어 시그니처 이벤트 트루이스트 챔피언십을 최종 공동 5위로 마쳤다.",
-        "body": "임성재가 11일(한국 시간) 미국 노스캐롤라이나주 샬럿의 퀘일 할로 클럽(파71)에서 열린 PGA 투어 시그니처 이벤트 트루이스트 챔피언십에서 최종 공동 5위에 올랐다. 총상금 2000만 달러가 걸린 이 대회 최종 라운드에서 임성재는 버디 5개, 보기 2개, 더블보기 1개로 1언더파 70타를 기록했다. 최종 합계는 11언더파 273타로, 토미 플리트우드(잉글랜드) 등과 같은 순위였다. 손목 부상으로 시즌 출발이 늦어진 그는 지난 3월 발스타 챔피언십 공동 4위에 이어 시즌 두 번째 톱10을 작성했다. 1번, 3번, 7번 홀 버디로 출발했고 14번 홀 더블보기 뒤 15번 홀 버디로 만회했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Sungjae Im Finishes Tied 5th at PGA Truist Championship, Adds Second Top 10",
-        "excerpt": "Sungjae Im finished tied for fifth at the PGA Tour signature event Truist Championship on May 11 at Quail Hollow Club in Charlotte, North Carolina.",
-        "body": "Sungjae Im finished tied for fifth at the PGA Tour signature event Truist Championship, held on May 11 Korean time at Quail Hollow Club, a par-71 course in Charlotte, North Carolina. In the final round of the $20 million event, Im shot a 1-under 70 with five birdies, two bogeys and one double bogey. He ended at 11-under 273, level with players including Tommy Fleetwood of England. After starting the season late because of a wrist injury, Im recorded his second top-10 finish of the season, following a tie for fourth at the Valspar Championship in March. He opened with birdies on Nos. 1, 3 and 7, recovered with a birdie on No. 10 after a bogey on No. 9, and added another birdie on No. 15 after a double bogey on No. 14. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "イム・ソンジェ、PGAトゥルーイスト選手権で5位タイ…今季2度目トップ10",
-        "excerpt": "イム・ソンジェは11日、米ノースカロライナ州シャーロットのクエイルホロー・クラブで行われたPGA特別大会を5位タイで終えた。",
-        "body": "イム・ソンジェは11日（韓国時間）、米ノースカロライナ州シャーロットのクエイルホロー・クラブ（パー71）で開かれたPGAツアーのシグネチャーイベント、トゥルーイスト選手権で最終5位タイに入った。賞金総額2000万ドルの同大会最終ラウンドで、イムはバーディー5個、ボギー2個、ダブルボギー1個の1アンダー70を記録した。通算11アンダー273で、トミー・フリートウッド（イングランド）らと並んだ。手首のけがで今季の始動が遅れたイムは、3月のバルスパー選手権4位タイに続き、今季2度目のトップ10入りを果たした。1、3、7番でバーディーを奪い、14番のダブルボギー後も15番バーディーで取り戻した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "任成宰PGA特鲁伊斯特锦标赛并列第5，收获赛季第二个前十",
-        "excerpt": "任成宰于11日在美国北卡罗来纳州夏洛特鹌鹑谷俱乐部举行的PGA巡回赛特级赛事特鲁伊斯特锦标赛中最终并列第5。",
-        "body": "任成宰于11日（韩国时间）在美国北卡罗来纳州夏洛特鹌鹑谷俱乐部（71杆）举行的PGA巡回赛签名赛事特鲁伊斯特锦标赛中最终并列第5。本项总奖金2000万美元的赛事最后一轮，任成宰抓下5只小鸟，吞下2个柏忌和1个双柏忌，交出低于标准杆1杆的70杆。其总成绩为低于标准杆11杆、273杆，与英格兰选手汤米·弗利特伍德等人并列。因手腕伤势推迟本赛季开局的任成宰，继3月瓦尔斯帕锦标赛并列第4后，取得赛季第二个前十。他在第1、3、7洞抓鸟，第14洞双柏忌后又在第15洞抓鸟追回杆数。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Sungjae Im acaba 5.º igualado en el Truist Championship del PGA Tour",
-        "excerpt": "Sungjae Im terminó empatado en el quinto puesto del Truist Championship, evento insignia del PGA Tour disputado el 11 de mayo en Quail Hollow, Charlotte.",
-        "body": "Sungjae Im terminó empatado en el quinto puesto del Truist Championship, evento insignia del PGA Tour disputado el 11 de mayo, hora de Corea, en el Quail Hollow Club, par 71, de Charlotte, Carolina del Norte. En la ronda final del torneo, con bolsa total de 20 millones de dólares, Im firmó 70 golpes, uno bajo par, con cinco birdies, dos bogeys y un doble bogey. Cerró con 273 golpes, 11 bajo par, igualado con jugadores como Tommy Fleetwood, de Inglaterra. Tras empezar tarde la temporada por una lesión de muñeca, logró su segundo top 10 del año, después del cuarto puesto compartido en el Valspar Championship de marzo. Abrió con birdies en los hoyos 1, 3 y 7, y tras el doble bogey del 14 respondió con birdie en el 15. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Sungjae Im termina em 5.º no Truist Championship e soma 2.º top 10",
-        "excerpt": "Sungjae Im terminou empatado em quinto no Truist Championship, evento especial do PGA Tour realizado em 11 de maio no Quail Hollow Club, em Charlotte.",
-        "body": "Sungjae Im terminou empatado em quinto lugar no Truist Championship, evento de assinatura do PGA Tour realizado em 11 de maio, no horário da Coreia, no Quail Hollow Club, campo par 71 em Charlotte, Carolina do Norte. Na rodada final do torneio, que distribuiu 20 milhões de dólares em prêmios, Im marcou 70 tacadas, uma abaixo do par, com cinco birdies, dois bogeys e um duplo bogey. Ele fechou com 273 tacadas, 11 abaixo do par, ao lado de nomes como Tommy Fleetwood, da Inglaterra. Depois de iniciar a temporada mais tarde por causa de uma lesão no punho, Im registrou seu segundo top 10 do ano, após o quarto lugar empatado no Valspar Championship em março. Ele fez birdies nos buracos 1, 3 e 7, e respondeu ao duplo bogey no 14 com birdie no 15. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Sungjae Im wird geteilter Fünfter bei PGA Truist Championship",
-        "excerpt": "Sungjae Im beendete die Truist Championship, ein Signature Event der PGA Tour, am 11. Mai im Quail Hollow Club in Charlotte auf dem geteilten fünften Rang.",
-        "body": "Sungjae Im hat die Truist Championship, ein Signature Event der PGA Tour, am 11. Mai koreanischer Zeit im Quail Hollow Club, einem Par-71-Kurs in Charlotte, North Carolina, auf dem geteilten fünften Platz beendet. In der Schlussrunde des mit 20 Millionen Dollar dotierten Turniers spielte Im eine 70, eins unter Par, mit fünf Birdies, zwei Bogeys und einem Doppelbogey. Insgesamt kam er auf 273 Schläge, elf unter Par, und lag damit gleichauf mit Spielern wie Tommy Fleetwood aus England. Nach einem wegen einer Handgelenksverletzung verspäteten Saisonstart erreichte Im sein zweites Top-10-Ergebnis der Saison, nach Platz vier geteilt bei der Valspar Championship im März. Birdies an den Löchern 1, 3 und 7 brachten ihn früh nach vorn; nach dem Doppelbogey an Loch 14 konterte er mit Birdie an Loch 15. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Sungjae Im finit 5e ex aequo au Truist Championship du PGA Tour",
-        "excerpt": "Sungjae Im a terminé cinquième ex aequo du Truist Championship, tournoi signature du PGA Tour disputé le 11 mai au Quail Hollow Club de Charlotte.",
-        "body": "Sungjae Im a pris la cinquième place ex aequo du Truist Championship, tournoi signature du PGA Tour disputé le 11 mai, heure coréenne, au Quail Hollow Club, parcours par 71 de Charlotte, en Caroline du Nord. Lors du dernier tour de cette épreuve dotée de 20 millions de dollars, Im a rendu une carte de 70, soit un coup sous le par, avec cinq birdies, deux bogeys et un double bogey. Il a terminé à 273, onze sous le par, au même rang que des joueurs comme Tommy Fleetwood, d’Angleterre. Retardé en début de saison par une blessure au poignet, Im signe son deuxième top 10 de l’année après sa quatrième place ex aequo au Valspar Championship en mars. Il a réussi des birdies aux trous 1, 3 et 7, puis a répondu à son double bogey du 14 par un birdie au 15. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سونغجاي إيم ينهي بطولة تروست PGA في المركز الخامس مكررًا",
-        "excerpt": "أنهى سونغجاي إيم بطولة تروست، إحدى بطولات النخبة في جولة PGA، في المركز الخامس مكررًا يوم 11 مايو في نادي كويل هولو بمدينة شارلوت.",
-        "body": "أنهى سونغجاي إيم بطولة تروست، إحدى فعاليات النخبة في جولة PGA، في المركز الخامس مكررًا يوم 11 مايو بتوقيت كوريا، على ملعب كويل هولو كلوب ذي المعدل 71 في شارلوت بولاية كارولاينا الشمالية. وفي الجولة الأخيرة من البطولة التي تبلغ جوائزها الإجمالية 20 مليون دولار، سجل إيم 70 ضربة، أي ضربة واحدة تحت المعدل، بعد خمسة بيردي، واثنين بوغي، وواحد دبل بوغي. وبلغ مجموعه النهائي 273 ضربة، 11 تحت المعدل، متساويًا مع لاعبين منهم تومي فليتوود من إنجلترا. وبعد بداية متأخرة للموسم بسبب إصابة في المعصم، حقق إيم ثاني نتيجة ضمن العشرة الأوائل هذا الموسم، بعد المركز الرابع مكررًا في بطولة فالسبار في مارس. بدأ ببيردي في الحفر 1 و3 و7، ثم عوض دبل بوغي الحفرة 14 ببيردي في الحفرة 15. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सुंगजे इम PGA ट्रूइस्ट चैंपियनशिप में संयुक्त 5वें, सीजन का दूसरा टॉप-10",
-        "excerpt": "सुंगजे इम ने 11 मई को नॉर्थ कैरोलाइना के शार्लट स्थित क्वेल हॉलो क्लब में हुई PGA टूर सिग्नेचर इवेंट ट्रूइस्ट चैंपियनशिप संयुक्त 5वें स्थान पर समाप्त की।",
-        "body": "सुंगजे इम ने 11 मई, कोरियाई समय, अमेरिका के नॉर्थ कैरोलाइना राज्य के शार्लट स्थित क्वेल हॉलो क्लब, पार 71, में हुई PGA टूर सिग्नेचर इवेंट ट्रूइस्ट चैंपियनशिप में अंतिम रूप से संयुक्त 5वां स्थान हासिल किया। 2 करोड़ डॉलर की कुल पुरस्कार राशि वाले इस टूर्नामेंट के अंतिम राउंड में इम ने पांच बर्डी, दो बोगी और एक डबल बोगी के साथ 1-अंडर 70 का स्कोर बनाया। उनका कुल स्कोर 11-अंडर 273 रहा और वे इंग्लैंड के टॉमी फ्लीटवुड सहित अन्य खिलाड़ियों के साथ बराबरी पर रहे। कलाई की चोट के कारण इस सीजन की शुरुआत देर से करने वाले इम ने मार्च में वाल्स्पार चैंपियनशिप में संयुक्त चौथे स्थान के बाद सीजन का दूसरा टॉप-10 दर्ज किया। उन्होंने पहले, तीसरे और सातवें होल पर बर्डी की, और 14वें होल की डबल बोगी के बाद 15वें होल पर बर्डी से वापसी की। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Sungjae Im Finis T5 di PGA Truist Championship, Top 10 Kedua Musim Ini",
-        "excerpt": "Sungjae Im menutup Truist Championship, ajang signature PGA Tour pada 11 Mei di Quail Hollow Club, Charlotte, dengan posisi akhir imbang kelima.",
-        "body": "Sungjae Im finis di posisi imbang kelima pada Truist Championship, ajang signature PGA Tour yang digelar 11 Mei waktu Korea di Quail Hollow Club, lapangan par 71 di Charlotte, North Carolina. Pada putaran final turnamen berhadiah total 20 juta dolar AS itu, Im mencatat 70 pukulan atau satu di bawah par, dengan lima birdie, dua bogey, dan satu double bogey. Total akhirnya 273 pukulan, 11 di bawah par, sejajar dengan pemain seperti Tommy Fleetwood dari Inggris. Setelah memulai musim lebih lambat karena cedera pergelangan tangan, Im meraih top 10 keduanya musim ini, menyusul posisi imbang keempat di Valspar Championship pada Maret. Ia membuka dengan birdie di hole 1, 3, dan 7, lalu membalas double bogey di hole 14 dengan birdie di hole 15. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "4ced3334c0bb",
-    "slug": "미분양-무덤-대구까지-세-자릿수-경쟁률지방-부동산도-바닥쳤나-735328",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:22:50.418Z",
-    "updatedAt": "2026-05-10T23:22:50.418Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042867",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042867",
-    "titleFingerprint": "a4c406dad6bbdf92f6e6c2069c051f356fc7e4f7",
-    "dedupKeys": [
-      "4ced3334c0bbdad48198c7428202299aea7d6916",
-      "a4c406dad6bbdf92f6e6c2069c051f356fc7e4f7",
-      "b190127ac76ab57a43e3e08a2404148207ad08b6"
-    ],
-    "imageUrl": "/images/articles/4ced3334c0bb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대구 청약 경쟁률 101대1, ‘미분양 무덤’ 지방 분양시장 분위기 바뀌나",
-        "excerpt": "올해 지방 분양시장에서 전주·천안에 이어 대구 범어역 파크드림 디아르가 평균 101대1 청약경쟁률을 기록하며 매수 전환 흐름이 주목된다.",
-        "body": "올해 지방 분양시장에서 두 자릿수 경쟁률이 잇따른 가운데, ‘미분양 무덤’으로 불리던 대구에서도 세 자릿수 청약경쟁률이 나왔다. 대구 범어역 파크드림 디아르는 평균 101대1의 높은 경쟁률을 기록했다. 전주와 천안에서도 두 자릿수 경쟁이 나타나며 지방 부동산 시장 분위기 변화에 관심이 모인다. 원문은 전셋값 오름세가 이어지면서 일부 수요가 매수로 전환한 점을 배경으로 짚었다. 다만 기사에 제시된 정보는 청약 경쟁률 회복 흐름과 전셋값 상승에 따른 매수 전환에 한정된다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Daegu Subscription Ratio Hits 101:1 as Local Housing Market Shows Signs of Change",
-        "excerpt": "In this year’s regional presale market, Daegu’s Beomeo Station Park Dream Diar recorded an average 101:1 subscription ratio after double-digit competition in Jeonju and Cheonan.",
-        "body": "This year, regional apartment presales in South Korea have seen repeated double-digit subscription ratios, and Daegu, once called a “graveyard of unsold homes,” has now posted a triple-digit result. Beomeo Station Park Dream Diar in Daegu recorded an average competition ratio of 101 to 1. Jeonju and Cheonan also saw double-digit competition, drawing attention to a possible shift in local real estate sentiment. The original report pointed to rising jeonse prices as a factor pushing some demand from renting toward buying. The reported facts are limited to the recovery in subscription competition and purchase conversion linked to higher jeonse prices. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "大邱の申込倍率101倍、未分譲の重荷を抱えた地方市場に変化の兆し",
-        "excerpt": "今年の地方分譲市場では全州・天安に続き、大邱の泛魚駅パークドリーム・ディアールが平均101倍の申込倍率を記録し注目されている。",
-        "body": "今年の韓国の地方分譲市場で二桁の申込倍率が相次ぐなか、「未分譲の墓場」と呼ばれてきた大邱でも三桁の競争率が出た。大邱の泛魚駅パークドリーム・ディアールは平均101対1の高い申込競争率を記録した。全州と天安でも二桁の競争が確認され、地方不動産市場の雰囲気変化に関心が集まっている。原文は、チョンセ価格の上昇が続くなか、一部需要が購入へ転じた点を背景として挙げた。ただし記事で示された情報は、申込競争率の回復傾向とチョンセ価格上昇に伴う購入転換に限られる。出典: mk.co.kr 引用。"
-      },
-      "zh": {
-        "title": "大邱认购竞争率达101比1，韩国地方楼市情绪是否出现变化",
-        "excerpt": "今年韩国地方分售市场中，全州、天安出现两位数竞争后，大邱泛鱼站Park Dream Diar平均认购竞争率达到101比1。",
-        "body": "今年韩国地方分售市场接连出现两位数认购竞争率，而曾被称为“未售房坟场”的大邱也出现了三位数竞争率。大邱泛鱼站Park Dream Diar录得平均101比1的高认购竞争率。全州和天安也出现两位数竞争，使市场关注地方房地产情绪是否发生变化。原文指出，随着全租价格持续上涨，部分需求从租赁转向购房，是这一现象的背景之一。不过，报道提供的信息仅限于认购竞争率回升以及全租价格上涨带来的购房转换。来源：引用 mk.co.kr。"
-      },
-      "es": {
-        "title": "Daegu alcanza 101 a 1 en solicitudes y cambia el tono del mercado regional",
-        "excerpt": "En el mercado regional de preventa de Corea, Daegu Beomeo Station Park Dream Diar registró 101 a 1 tras competencias de dos dígitos en Jeonju y Cheonan.",
-        "body": "Este año, el mercado regional de preventa inmobiliaria en Corea del Sur ha registrado varias competencias de dos dígitos, y Daegu, antes llamada una “tumba de viviendas sin vender”, también mostró una cifra de tres dígitos. Beomeo Station Park Dream Diar, en Daegu, alcanzó una relación media de 101 a 1. Jeonju y Cheonan también registraron competencias de dos dígitos, lo que atrae atención sobre un cambio en el ambiente del mercado regional. El informe original señaló como contexto el alza de los precios del jeonse, que llevó a parte de la demanda a pasar del alquiler a la compra. La información citada se limita a la recuperación de la competencia por suscripciones y a esa conversión hacia la compra. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Daegu chega a 101 para 1 em subscrições e mercado regional ganha atenção",
-        "excerpt": "No mercado regional de pré-vendas da Coreia, o Beomeo Station Park Dream Diar, em Daegu, registrou média de 101 para 1 após disputas de dois dígitos em Jeonju e Cheonan.",
-        "body": "Neste ano, o mercado regional de pré-vendas imobiliárias na Coreia do Sul registrou repetidas taxas de concorrência de dois dígitos, e Daegu, antes chamada de “cemitério de unidades não vendidas”, também apresentou um resultado de três dígitos. O Beomeo Station Park Dream Diar, em Daegu, teve concorrência média de 101 para 1. Jeonju e Cheonan também registraram disputas de dois dígitos, aumentando a atenção sobre uma mudança no clima do mercado imobiliário regional. A reportagem original apontou a alta dos preços do jeonse como fator que levou parte da demanda a migrar do aluguel para a compra. As informações se limitam à recuperação da concorrência e a essa conversão para compra. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Daegu erreicht 101 zu 1 bei Wohnungsbewerbungen, Regionalmarkt im Fokus",
-        "excerpt": "Im südkoreanischen regionalen Vorverkaufsmarkt erzielte Daegus Beomeo Station Park Dream Diar nach zweistelligen Quoten in Jeonju und Cheonan durchschnittlich 101 zu 1.",
-        "body": "In diesem Jahr verzeichnete der regionale Wohnungs-Vorverkaufsmarkt in Südkorea wiederholt zweistellige Bewerbungsquoten. Nun meldete auch Daegu, das als Markt mit vielen unverkauften Wohnungen galt, eine dreistellige Quote. Beomeo Station Park Dream Diar in Daegu erreichte im Durchschnitt 101 Bewerbungen je Einheit. Auch in Jeonju und Cheonan wurden zweistellige Wettbewerbsraten beobachtet, wodurch eine mögliche Stimmungsänderung im regionalen Immobilienmarkt Aufmerksamkeit erhält. Der Originalbericht nennt steigende Jeonse-Preise als Hintergrund, da ein Teil der Nachfrage vom Mieten zum Kaufen wechselte. Die genannten Fakten beschränken sich auf die Erholung der Bewerbungsquoten und diesen Kaufwechsel. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Daegu atteint 101 contre 1 en souscriptions, le marché régional attire l’attention",
-        "excerpt": "Sur le marché régional sud-coréen des préventes, Beomeo Station Park Dream Diar à Daegu a affiché 101 contre 1 après des taux à deux chiffres à Jeonju et Cheonan.",
-        "body": "Cette année, le marché régional sud-coréen des préventes immobilières a enregistré plusieurs taux de concurrence à deux chiffres, et Daegu, longtemps associé aux logements invendus, affiche désormais un résultat à trois chiffres. Beomeo Station Park Dream Diar, à Daegu, a atteint un taux moyen de 101 contre 1. Jeonju et Cheonan ont également enregistré des concurrences à deux chiffres, attirant l’attention sur une évolution de l’ambiance du marché immobilier régional. L’article original cite la hausse des prix du jeonse comme contexte, certains ménages passant de la location à l’achat. Les informations rapportées se limitent à la reprise des taux de souscription et à cette conversion vers l’achat. Source: cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "دايغو تسجل 101 إلى 1 في طلبات الشراء وتحول الأنظار إلى سوق العقارات المحلي",
-        "excerpt": "في سوق الطرح العقاري الإقليمي بكوريا، سجل مشروع Beomeo Station Park Dream Diar في دايغو متوسط منافسة بلغ 101 إلى 1 بعد أرقام مزدوجة في جيونجو وتشيونان.",
-        "body": "شهد سوق الطرح العقاري الإقليمي في كوريا الجنوبية هذا العام نسب منافسة من رقمين في أكثر من مدينة، كما سجلت دايغو، التي كانت توصف بسوق الوحدات غير المباعة، نسبة من ثلاثة أرقام. وبلغ متوسط المنافسة في مشروع Beomeo Station Park Dream Diar في دايغو 101 إلى 1. كما ظهرت منافسة من رقمين في جيونجو وتشيونان، ما لفت الانتباه إلى تغير محتمل في أجواء سوق العقارات المحلي. وأشار التقرير الأصلي إلى ارتفاع أسعار الجونسِه كخلفية، إذ تحول جزء من الطلب من الإيجار إلى الشراء. وتقتصر المعلومات الواردة على تعافي نسب المنافسة وهذا التحول نحو الشراء. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "डेगू में आवेदन अनुपात 101:1, क्षेत्रीय रियल एस्टेट बाजार पर फिर नजर",
-        "excerpt": "कोरिया के क्षेत्रीय प्री-सेल बाजार में जियोनजू और चेओनान की दो अंकीय प्रतिस्पर्धा के बाद डेगू Beomeo Station Park Dream Diar ने औसतन 101:1 दर्ज किया।",
-        "body": "इस वर्ष दक्षिण कोरिया के क्षेत्रीय अपार्टमेंट प्री-सेल बाजार में दो अंकीय आवेदन प्रतिस्पर्धा कई जगह दिखी, और अब डेगू में भी तीन अंकीय अनुपात सामने आया, जिसे पहले अनबिकी इकाइयों वाला बाजार कहा जाता था। डेगू के Beomeo Station Park Dream Diar ने औसतन 101:1 की उच्च प्रतिस्पर्धा दर्ज की। जियोनजू और चेओनान में भी दो अंकीय प्रतिस्पर्धा देखी गई, जिससे क्षेत्रीय रियल एस्टेट बाजार के माहौल में बदलाव पर ध्यान गया। मूल रिपोर्ट ने बढ़ती जोंसे कीमतों को पृष्ठभूमि बताया, क्योंकि कुछ मांग किराये से खरीद की ओर गई। दी गई जानकारी आवेदन प्रतिस्पर्धा की वापसी और जोंसे वृद्धि से जुड़े खरीद बदलाव तक सीमित है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Rasio Langganan Daegu Tembus 101:1, Pasar Properti Regional Jadi Sorotan",
-        "excerpt": "Di pasar prapenjualan regional Korea, Beomeo Station Park Dream Diar di Daegu mencatat rata-rata 101:1 setelah Jeonju dan Cheonan membukukan persaingan dua digit.",
-        "body": "Tahun ini, pasar prapenjualan apartemen regional di Korea Selatan mencatat beberapa rasio persaingan dua digit, dan Daegu, yang sebelumnya disebut pasar dengan banyak unit tak terjual, kini mencatat angka tiga digit. Beomeo Station Park Dream Diar di Daegu membukukan rasio rata-rata 101 banding 1. Jeonju dan Cheonan juga menunjukkan persaingan dua digit, sehingga perhatian tertuju pada perubahan suasana pasar properti regional. Laporan asli menyebut kenaikan harga jeonse sebagai latar belakang, karena sebagian permintaan beralih dari sewa ke pembelian. Informasi yang disampaikan terbatas pada pemulihan rasio persaingan dan peralihan ke pembelian akibat kenaikan jeonse. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
