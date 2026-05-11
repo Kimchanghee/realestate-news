@@ -1,5 +1,230 @@
 [
   {
+    "id": "06a3a768def0",
+    "slug": "정부-세-낀-1주택-매물-끌어내기-총력-531309",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T12:28:09.807Z",
+    "updatedAt": "2026-05-11T12:28:09.807Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190201",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190201",
+    "titleFingerprint": "96f6fb03d9fdf46d57b0664077469c31934d089d",
+    "dedupKeys": [
+      "06a3a768def0314b3161ed2be548c34f480d4619",
+      "96f6fb03d9fdf46d57b0664077469c31934d089d",
+      "4584774daaca9af894e25c3025a59ab03c743ff2"
+    ],
+    "imageUrl": "/images/articles/06a3a768def0.png",
+    "i18n": {
+      "ko": {
+        "title": "세 낀 1주택 매물 확대 나선 정부, 부동산 시장 공급 유도 총력",
+        "excerpt": "정부가 세입자가 있는 1주택 매물을 시장에 끌어내기 위해 총력 대응에 나서며 부동산 거래와 주택 공급 흐름에 관심이 쏠리고 있다.",
+        "body": "정부가 세입자가 거주 중인 이른바 ‘세 낀 1주택’ 매물을 시장에 끌어내기 위해 총력 대응에 나섰다. 주택을 보유했지만 임대차 계약이 남아 있어 거래가 쉽지 않은 물건을 유통시키는 데 정책 초점이 맞춰진 것으로 보인다. 이번 움직임은 부동산 시장에서 매물 부족과 거래 위축이 동시에 거론되는 상황에서 나온 조치다. 정부는 1주택 보유자의 매도 여건을 개선해 실제 거래 가능한 물량을 늘리는 데 주력하고 있다. 시장에서는 세입자가 있는 주택의 매매 부담이 줄어들 경우 매물 출회가 늘어날 수 있을지 주목하고 있다. 다만 구체적인 효과는 제도 운용과 시장 반응에 따라 달라질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Korean Government Pushes to Bring Tenant-Occupied Single-Home Listings to Market",
+        "excerpt": "The government is stepping up efforts to draw tenant-occupied single-home listings into the market, drawing attention to housing supply and transaction trends.",
+        "body": "The government is making an all-out effort to bring so-called tenant-occupied single-home listings into the property market. The policy focus appears to be on improving circulation of homes that are owned but difficult to sell because existing lease contracts remain in place. The move comes as the real estate market faces discussion of both limited listings and weak transactions. Authorities are concentrating on improving selling conditions for single-home owners and increasing the amount of housing that can actually be traded. Market watchers are paying attention to whether reducing the burden of selling homes with tenants could lead to more listings. The actual effect will depend on how the measures are implemented and how the market responds. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "政府、入居者付き1住宅の売却物件拡大へ市場供給の誘導に総力",
+        "excerpt": "政府は入居者がいる1住宅物件を市場に引き出す取り組みを強めており、不動産取引と住宅供給の流れに関心が集まっている。",
+        "body": "政府は、入居者が住んでいるいわゆる「入居者付き1住宅」物件を市場に引き出すため、総力対応に乗り出した。住宅を保有していても賃貸借契約が残っているため売買が容易ではない物件の流通を促すことに政策の焦点が置かれているとみられる。今回の動きは、不動産市場で売り物件不足と取引低迷が同時に指摘されるなかで出てきた措置だ。政府は1住宅保有者の売却環境を改善し、実際に取引可能な物件を増やすことに力を入れている。市場では、入居者がいる住宅の売買負担が軽くなれば物件供給が増えるかどうかが注目されている。ただし具体的な効果は制度運用と市場の反応によって変わる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国政府全力推动带租约一套房入市，力促房地产供应释放",
+        "excerpt": "韩国政府正加大力度推动有租客居住的一套房房源进入市场，房地产交易和住房供应走势因此受到关注。",
+        "body": "韩国政府正全力推动所谓“带租约一套房”房源进入房地产市场。政策重点似乎放在促进那些虽由业主持有、但因租赁合同尚未结束而不易交易的住房流通上。此举出台之际，房地产市场同时面临房源不足和交易低迷的讨论。政府正着力改善一套房持有者的出售条件，以增加实际可交易的住房数量。市场关注的是，如果带租客住房的买卖负担降低，是否会带动更多房源挂牌。不过，具体效果仍将取决于制度执行方式和市场反应。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Gobierno surcoreano busca activar ventas de viviendas únicas con inquilinos",
+        "excerpt": "El gobierno intensifica sus esfuerzos para llevar al mercado viviendas únicas ocupadas por inquilinos, en medio de la atención sobre oferta y transacciones.",
+        "body": "El gobierno está redoblando esfuerzos para sacar al mercado las llamadas viviendas únicas con inquilinos. El enfoque de la política parece centrarse en facilitar la circulación de propiedades que ya tienen dueño, pero que son difíciles de vender porque mantienen contratos de arrendamiento vigentes. La medida llega en un contexto en el que el mercado inmobiliario debate al mismo tiempo la escasez de oferta y la debilidad de las transacciones. Las autoridades buscan mejorar las condiciones de venta para propietarios de una sola vivienda y aumentar el volumen realmente negociable. El mercado observa si una menor carga en la venta de casas con inquilinos puede traducirse en más anuncios. El efecto concreto dependerá de la aplicación del sistema y de la respuesta del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Governo sul-coreano tenta ampliar venda de imóvel único ocupado por inquilino",
+        "excerpt": "O governo intensifica esforços para levar ao mercado imóveis únicos com inquilinos, enquanto oferta habitacional e transações ganham atenção.",
+        "body": "O governo está concentrando esforços para trazer ao mercado os chamados imóveis únicos ocupados por inquilinos. O foco da política parece ser facilitar a circulação de moradias que têm proprietário, mas são difíceis de vender porque ainda há contratos de locação em vigor. A iniciativa surge em um momento em que o mercado imobiliário discute simultaneamente falta de ofertas e enfraquecimento das transações. As autoridades buscam melhorar as condições de venda para proprietários de apenas uma moradia e aumentar o volume de imóveis efetivamente negociáveis. O mercado observa se a redução do peso de vender uma casa com inquilino poderá ampliar as ofertas. O efeito concreto dependerá da operação das medidas e da reação do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Südkoreas Regierung will vermietete Eigenheime stärker auf den Markt bringen",
+        "excerpt": "Die Regierung verstärkt ihre Bemühungen, vermietete Ein-Haus-Objekte auf den Markt zu bringen, wodurch Angebot und Transaktionen in den Fokus rücken.",
+        "body": "Die Regierung unternimmt umfassende Anstrengungen, sogenannte vermietete Ein-Haus-Objekte auf den Immobilienmarkt zu bringen. Der politische Schwerpunkt scheint darauf zu liegen, die Veräußerung von Häusern zu erleichtern, die zwar im Besitz einzelner Eigentümer sind, aber wegen laufender Mietverträge schwer zu verkaufen sind. Der Schritt erfolgt in einer Phase, in der am Immobilienmarkt zugleich über knappe Angebote und schwache Transaktionen gesprochen wird. Die Behörden wollen die Verkaufsbedingungen für Eigentümer einer einzelnen Wohnung oder eines einzelnen Hauses verbessern und die tatsächlich handelbare Menge erhöhen. Der Markt beobachtet, ob eine geringere Belastung beim Verkauf vermieteter Häuser zu mehr Angeboten führen kann. Die konkrete Wirkung hängt von der Umsetzung und der Marktreaktion ab. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La Corée du Sud veut remettre sur le marché les logements uniques loués",
+        "excerpt": "Le gouvernement intensifie ses efforts pour faire revenir sur le marché les logements uniques occupés par des locataires, un enjeu pour l’offre et les ventes.",
+        "body": "Le gouvernement intensifie ses efforts pour faire revenir sur le marché les logements uniques occupés par des locataires. La politique semble viser la circulation de biens détenus par des propriétaires, mais difficiles à vendre parce que des contrats de location restent en vigueur. Cette initiative intervient alors que le marché immobilier évoque à la fois un manque de biens disponibles et un ralentissement des transactions. Les autorités se concentrent sur l’amélioration des conditions de vente pour les propriétaires d’un seul logement afin d’augmenter le volume réellement négociable. Le marché observe si l’allègement de la charge liée à la vente de logements occupés pourra accroître les mises en vente. L’effet concret dépendra de la mise en œuvre du dispositif et de la réaction du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "حكومة كوريا الجنوبية تدفع لطرح المنازل الوحيدة المؤجرة في السوق العقارية",
+        "excerpt": "تكثف الحكومة جهودها لجذب المنازل الوحيدة المشغولة بمستأجرين إلى السوق، وسط اهتمام باتجاهات العرض السكني والتداول العقاري.",
+        "body": "تكثف الحكومة جهودها لطرح ما يعرف بالمنازل الوحيدة المشغولة بمستأجرين في السوق العقارية. ويبدو أن محور السياسة هو تسهيل تداول مساكن يملكها أفراد، لكنها ليست سهلة البيع بسبب بقاء عقود إيجار قائمة. وتأتي هذه الخطوة في وقت يدور فيه الحديث في السوق العقارية عن نقص المعروض وضعف الصفقات في آن واحد. وتركز السلطات على تحسين ظروف البيع لمالكي منزل واحد وزيادة كمية المساكن القابلة للتداول فعليا. ويراقب السوق ما إذا كان خفض عبء بيع المنازل التي يسكنها مستأجرون سيؤدي إلى زيادة المعروض. غير أن الأثر الفعلي سيتوقف على طريقة تنفيذ النظام واستجابة السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "दक्षिण कोरियाई सरकार किरायेदार वाले एकल-घर बिक्री बाजार में लाने पर जोर",
+        "excerpt": "सरकार किरायेदारों से घिरे एकल-घर बिक्री प्रस्तावों को बाजार में लाने के प्रयास तेज कर रही है, जिससे आवास आपूर्ति और लेनदेन पर ध्यान बढ़ा है।",
+        "body": "सरकार तथाकथित किरायेदार-युक्त एकल-घर संपत्तियों को रियल एस्टेट बाजार में लाने के लिए पूरी कोशिश कर रही है। नीति का केंद्र उन घरों के लेनदेन को आसान बनाना प्रतीत होता है जिनके मालिक मौजूद हैं, लेकिन मौजूदा लीज अनुबंधों के कारण उन्हें बेचना सरल नहीं है। यह कदम ऐसे समय आया है जब बाजार में उपलब्ध संपत्तियों की कमी और कमजोर सौदों दोनों पर चर्चा हो रही है। अधिकारी एकल-घर मालिकों की बिक्री शर्तें सुधारकर वास्तव में कारोबार योग्य आवास की मात्रा बढ़ाने पर ध्यान दे रहे हैं। बाजार देख रहा है कि किरायेदार वाले घरों को बेचने का बोझ घटने पर क्या अधिक संपत्तियां बिक्री के लिए आएंगी। वास्तविक असर व्यवस्था के संचालन और बाजार की प्रतिक्रिया पर निर्भर करेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Pemerintah Korea Dorong Rumah Tunggal Berpenyewa Masuk Pasar Properti",
+        "excerpt": "Pemerintah memperkuat upaya menarik rumah tunggal yang masih dihuni penyewa ke pasar, sehingga pasokan hunian dan transaksi menjadi sorotan.",
+        "body": "Pemerintah sedang berupaya penuh membawa apa yang disebut rumah tunggal berpenyewa ke pasar properti. Fokus kebijakan tampaknya diarahkan pada memperlancar peredaran rumah yang sudah dimiliki, tetapi sulit dijual karena kontrak sewa masih berjalan. Langkah ini muncul ketika pasar properti membahas kekurangan listing dan melemahnya transaksi secara bersamaan. Otoritas berfokus memperbaiki kondisi penjualan bagi pemilik satu rumah dan menambah jumlah hunian yang benar-benar dapat diperdagangkan. Pasar memperhatikan apakah berkurangnya beban menjual rumah dengan penyewa dapat mendorong lebih banyak listing. Dampak konkretnya akan bergantung pada pelaksanaan kebijakan dan respons pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "f31f53e2c97a",
+    "slug": "도성회-휴게소-입찰-비리국토부-수사-의뢰-953913",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T12:26:53.948Z",
+    "updatedAt": "2026-05-11T12:26:53.948Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190691",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190691",
+    "titleFingerprint": "d7a71df3f4769db0e51f0c3c75613059a2a55dfb",
+    "dedupKeys": [
+      "f31f53e2c97a2a2a411a157cb871dcc6a6bc4761",
+      "d7a71df3f4769db0e51f0c3c75613059a2a55dfb",
+      "3f77f2b082e52ed294ed54e0d9837cce77bcff5e"
+    ],
+    "imageUrl": "/images/articles/f31f53e2c97a.png",
+    "i18n": {
+      "ko": {
+        "title": "도성회 휴게소 입찰 비리 의혹 확산…국토부 수사 의뢰 배경은",
+        "excerpt": "한국경제 보도에 따르면 국토교통부는 도성회 휴게소 입찰 비리 의혹과 관련해 사실관계 확인과 책임 규명을 위해 수사를 의뢰했다.",
+        "body": "국토교통부가 도성회 휴게소 입찰 비리 의혹과 관련해 수사를 의뢰했다고 한국경제가 보도했다. 이번 사안은 휴게소 운영권 또는 관련 입찰 과정에서 부정 의혹이 제기된 데 따른 조치로, 국토부는 행정 차원의 확인을 넘어 수사기관 판단을 구한 것으로 전해졌다. 원문에 구체적인 입찰 규모, 대상 노선, 관련 인물, 수사 의뢰 시점 등 추가 수치는 제시되지 않았다. 수사 결과에 따라 휴게소 입찰 절차의 공정성 점검과 관련 제도 개선 논의로 이어질 가능성이 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Doseonghoe Rest Stop Bid-Rigging Allegations: Transport Ministry Seeks Probe",
+        "excerpt": "According to Hankyung, South Korea’s Ministry of Land, Infrastructure and Transport requested an investigation into alleged irregularities in a Doseonghoe rest stop bidding process.",
+        "body": "South Korea’s Ministry of Land, Infrastructure and Transport has requested an investigation into alleged bid-rigging involving a Doseonghoe rest stop, Hankyung reported. The move follows allegations of wrongdoing in a rest stop operating-rights or related bidding process, with the ministry seeking a judgment from investigative authorities beyond its own administrative review. The original report did not provide additional figures such as the bid size, affected route, people involved, or exact timing of the request. Depending on the outcome, the case could lead to closer scrutiny of the fairness of rest stop bidding procedures and discussion of related system improvements. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "道成会サービスエリア入札不正疑惑、国土交通部が捜査を依頼",
+        "excerpt": "韓国経済新聞によると、韓国国土交通部は道成会サービスエリアの入札不正疑惑について、事実確認と責任究明のため捜査を依頼した。",
+        "body": "韓国国土交通部が、道成会サービスエリアの入札不正疑惑をめぐり捜査を依頼したと韓国経済新聞が報じた。今回の事案は、サービスエリアの運営権または関連入札の過程で不正疑惑が提起されたことを受けた措置で、同部は行政上の確認にとどまらず、捜査機関の判断を求めたとされる。原文では、入札規模、対象路線、関係者、捜査依頼の時点などの追加数値は示されていない。捜査結果によっては、サービスエリア入札手続きの公正性点検や関連制度改善の議論につながる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "道成会服务区招标舞弊疑云扩大，韩国国土部已提请调查",
+        "excerpt": "据韩国经济新闻报道，韩国国土交通部就道成会服务区招标舞弊疑云，为查明事实关系和责任归属，已提请调查。",
+        "body": "据韩国经济新闻报道，韩国国土交通部已就道成会服务区招标舞弊疑云提请调查。此事源于服务区经营权或相关招标过程中被提出不当行为疑虑，国土部因此在行政层面核查之外，寻求调查机关作出判断。原文未提供招标规模、涉及路线、相关人员、提请调查时间等进一步数字或细节。根据调查结果，此案可能引发对服务区招标程序公平性的检查，并推动相关制度改善讨论。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Sospechas de fraude en licitación de área Doseonghoe: el ministerio pide investigar",
+        "excerpt": "Según Hankyung, el Ministerio de Tierra, Infraestructura y Transporte de Corea solicitó investigar presuntas irregularidades en la licitación de un área de descanso Doseonghoe.",
+        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur solicitó una investigación por presuntas irregularidades en la licitación de un área de descanso de Doseonghoe, informó Hankyung. La medida responde a sospechas de conducta indebida en el proceso de adjudicación de derechos de operación del área o en una licitación relacionada, por lo que el ministerio acudió a las autoridades investigadoras más allá de su revisión administrativa. El texto original no ofreció cifras adicionales como el tamaño de la licitación, la ruta afectada, personas implicadas o la fecha exacta de la solicitud. El resultado podría llevar a revisar la equidad del proceso de licitación y a debatir mejoras del sistema. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Suspeita de fraude em licitação de parada Doseonghoe leva ministério a pedir investigação",
+        "excerpt": "Segundo o Hankyung, o Ministério da Terra, Infraestrutura e Transporte da Coreia pediu investigação sobre suspeitas de irregularidades na licitação de uma parada Doseonghoe.",
+        "body": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul pediu investigação sobre suspeitas de fraude na licitação de uma parada de descanso da Doseonghoe, informou o Hankyung. O caso decorre de alegações de irregularidades no processo de direitos de operação da parada ou em licitação relacionada, levando o ministério a buscar avaliação das autoridades investigativas além da verificação administrativa. O texto original não trouxe números adicionais, como valor da licitação, rota envolvida, pessoas relacionadas ou data exata do pedido. A depender do resultado, o caso pode levar à revisão da imparcialidade dos procedimentos de licitação e a debates sobre melhorias no sistema. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Manipulationsverdacht bei Doseonghoe-Raststätte: Ministerium beantragt Ermittlungen",
+        "excerpt": "Laut Hankyung hat Südkoreas Ministerium für Land, Infrastruktur und Verkehr wegen mutmaßlicher Unregelmäßigkeiten bei einer Doseonghoe-Raststättenauktion Ermittlungen beantragt.",
+        "body": "Südkoreas Ministerium für Land, Infrastruktur und Verkehr hat wegen mutmaßlicher Unregelmäßigkeiten bei der Ausschreibung einer Doseonghoe-Raststätte Ermittlungen beantragt, berichtete Hankyung. Der Schritt folgt Vorwürfen zu möglichen Verstößen bei Betriebsrechten für die Raststätte oder einem damit verbundenen Ausschreibungsverfahren. Das Ministerium sucht damit über die verwaltungsinterne Prüfung hinaus eine Bewertung durch Ermittlungsbehörden. Der Originalbericht nannte keine weiteren Zahlen wie Ausschreibungsvolumen, betroffene Strecke, beteiligte Personen oder den genauen Zeitpunkt des Antrags. Je nach Ergebnis könnte der Fall zu einer Prüfung der Fairness von Raststättenvergaben und zu Diskussionen über Systemverbesserungen führen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Soupçons de fraude dans l’appel d’offres Doseonghoe: le ministère demande une enquête",
+        "excerpt": "Selon Hankyung, le ministère sud-coréen du Territoire, des Infrastructures et des Transports a demandé une enquête sur des soupçons d’irrégularités dans un appel d’offres Doseonghoe.",
+        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a demandé une enquête sur des soupçons de fraude liés à l’appel d’offres d’une aire de repos Doseonghoe, a rapporté Hankyung. Cette mesure fait suite à des soupçons d’irrégularités dans l’attribution de droits d’exploitation de l’aire ou dans une procédure d’appel d’offres connexe. Le ministère a ainsi sollicité l’avis des autorités d’enquête au-delà de son contrôle administratif. Le texte original ne fournit pas de chiffres supplémentaires, comme le montant de l’appel d’offres, l’itinéraire concerné, les personnes liées ou la date précise de la demande. Selon les résultats, l’affaire pourrait entraîner un examen de l’équité des procédures et des discussions sur l’amélioration du système. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "شبهات فساد في عطاء استراحة دسونغهوي: وزارة النقل الكورية تطلب تحقيقا",
+        "excerpt": "بحسب هانكيونغ، طلبت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية تحقيقا في شبهات مخالفات تتعلق بعطاء استراحة دسونغهوي.",
+        "body": "طلبت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية تحقيقا في شبهات فساد تتعلق بعطاء استراحة دسونغهوي، وفق ما أفادت هانكيونغ. وجاءت الخطوة بعد إثارة شبهات حول مخالفات في حقوق تشغيل الاستراحة أو في عملية عطاء مرتبطة بها، إذ سعت الوزارة إلى تقييم سلطات التحقيق إلى جانب المراجعة الإدارية. ولم يذكر النص الأصلي أرقاما أو تفاصيل إضافية مثل حجم العطاء أو الطريق المعني أو الأشخاص المرتبطين أو التوقيت الدقيق لطلب التحقيق. وبحسب نتيجة التحقيق، قد يؤدي الملف إلى فحص عدالة إجراءات عطاءات الاستراحات ومناقشة تحسينات مؤسسية ذات صلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "दोसेओंघोए विश्रामस्थल निविदा में गड़बड़ी का आरोप, मंत्रालय ने जांच मांगी",
+        "excerpt": "हैंक्युंग के अनुसार, दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने दोसेओंघोए विश्रामस्थल निविदा में कथित अनियमितताओं की जांच का अनुरोध किया है।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने दोसेओंघोए विश्रामस्थल की निविदा से जुड़ी कथित गड़बड़ी पर जांच का अनुरोध किया है, हैंक्युंग ने रिपोर्ट किया। मामला विश्रामस्थल संचालन अधिकार या उससे संबंधित निविदा प्रक्रिया में अनियमितता की आशंका उठने के बाद सामने आया, और मंत्रालय ने प्रशासनिक जांच से आगे बढ़कर जांच एजेंसियों की राय मांगी। मूल रिपोर्ट में निविदा का आकार, संबंधित मार्ग, जुड़े व्यक्तियों या जांच अनुरोध के सटीक समय जैसे अतिरिक्त आंकड़े नहीं दिए गए। जांच के नतीजे के आधार पर विश्रामस्थल निविदा प्रक्रियाओं की निष्पक्षता की समीक्षा और प्रणाली सुधार पर चर्चा हो सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dugaan Kecurangan Tender Rest Area Doseonghoe, Kementerian Minta Investigasi",
+        "excerpt": "Menurut Hankyung, Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan meminta investigasi atas dugaan penyimpangan tender rest area Doseonghoe.",
+        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan meminta investigasi atas dugaan kecurangan dalam tender rest area Doseonghoe, lapor Hankyung. Langkah ini diambil setelah muncul dugaan penyimpangan dalam hak pengelolaan rest area atau proses tender terkait, sehingga kementerian meminta penilaian otoritas penyidik di luar pemeriksaan administratif. Laporan asli tidak menyebutkan angka tambahan seperti nilai tender, rute yang terdampak, pihak terkait, atau waktu pasti permintaan investigasi. Bergantung pada hasilnya, kasus ini dapat memicu pemeriksaan atas keadilan prosedur tender rest area dan pembahasan perbaikan sistem terkait. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c50b813f09f6",
+    "slug": "dl이앤씨-압구정5구역에-조합원-전-가구-한강조망-제안-355479",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T12:25:37.860Z",
+    "updatedAt": "2026-05-11T12:25:37.860Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605118753i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605118753i",
+    "titleFingerprint": "f40c815cc50138e49077f36b6052cc33114e2ec4",
+    "dedupKeys": [
+      "c50b813f09f69f27879a04befe45b57fcd84194a",
+      "f40c815cc50138e49077f36b6052cc33114e2ec4",
+      "e9d31ce8df1d4fd6f03043b09aac24457a2f3611"
+    ],
+    "imageUrl": "/images/articles/c50b813f09f6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "DL이앤씨 압구정5구역 수주전 본격화, 조합원 전 가구 한강조망 제안",
+        "excerpt": "DL이앤씨는 2026년 2월 10일 서울 강남구 압구정5구역 재건축 수주 활동을 시작하며 아크로 적용과 조합원 100% 한강 조망 설계를 제안했다.",
+        "body": "DL이앤씨는 2026년 2월 10일 서울 강남구 압구정5구역, 즉 압구정 한양1·2차 재건축 정비사업 수주 활동을 시작했다고 밝혔다. 회사는 하이엔드 주택 브랜드 아크로를 적용하고 모든 조합원이 한강을 조망할 수 있도록 설계할 계획이다. 압구정 한양1·2차는 1970년대 후반 지어진 1232가구 단지로, 재건축 후 지하 5층~지상 68층, 8개 동, 1397가구 규모로 바뀔 예정이다. 이 사업은 서울시 신속통합기획으로 추진되며 시공사 선정 총회는 2026년 5월로 계획됐다. 현대건설과 GS건설 등도 수주에 관심을 보이는 것으로 알려졌다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "DL E&C Enters Apgujeong District 5 Bid With Full Han River View Plan",
+        "excerpt": "DL E&C said on February 10, 2026, it began bidding activity for the Apgujeong District 5 reconstruction in Gangnam, proposing ACRO branding and Han River views for all members.",
+        "body": "DL E&C said on February 10, 2026, that it had begun bidding activity for the Apgujeong District 5 reconstruction project in Gangnam, Seoul, covering Apgujeong Hanyang Apartments 1 and 2. The company plans to apply its high-end residential brand ACRO and design the complex so every association member can view the Han River. The existing Hanyang 1 and 2 complex, built in the late 1970s, has 1,232 homes and is planned to become eight buildings with 1,397 homes, from five basement floors to 68 stories above ground. The project is being promoted under Seoul’s rapid integrated planning system, with the contractor selection meeting planned for May 2026. Hyundai E&C and GS E&C are also reportedly interested. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "DL E&C、狎鴎亭5区域受注戦へ、組合員全戸に漢江眺望を提案",
+        "excerpt": "DL E&Cは2026年2月10日、ソウル江南区の狎鴎亭5区域再建築で受注活動を始め、ACRO採用と組合員全戸の漢江眺望設計を提案した。",
+        "body": "DL E&Cは2026年2月10日、ソウル市江南区の狎鴎亭5区域、すなわち狎鴎亭漢陽1・2次アパート再建築整備事業の受注活動を開始したと明らかにした。同社は高級住宅ブランドACROを適用し、すべての組合員が漢江を望めるよう設計する計画だ。1970年代後半に建てられた漢陽1・2次は1232戸の団地で、再建築後は地下5階から地上68階、8棟、1397戸規模に変わる予定だ。事業はソウル市の迅速統合企画で進められ、施工会社選定総会は2026年5月に予定されている。現代建設やGS建設なども受注に関心を示しているとされる。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "DL E&C竞逐狎鸥亭5区重建，提议会员全户可望汉江",
+        "excerpt": "DL E&C于2026年2月10日表示，已启动首尔江南区狎鸥亭5区重建项目竞标活动，提出采用ACRO品牌并让会员全户享有汉江景观。",
+        "body": "DL E&C于2026年2月10日表示，已启动首尔江南区狎鸥亭5区，即狎鸥亭汉阳1、2次公寓重建整备项目的竞标活动。公司计划引入高端住宅品牌ACRO，并设计为所有组合成员均可眺望汉江。狎鸥亭汉阳1、2次建于20世纪70年代后期，现有1232户，重建后预计变为地下5层至地上68层、8栋、1397户规模。该项目正通过首尔市快速综合规划推进，施工方选定总会计划于2026年5月举行。据悉，现代建设、GS建设等也对该项目表现出兴趣。来源: hankyung.com。"
+      },
+      "es": {
+        "title": "DL E&C puja por Apgujeong 5 con vistas al río Han para todos los miembros",
+        "excerpt": "DL E&C informó el 10 de febrero de 2026 que inició su actividad para ganar la reconstrucción de Apgujeong 5, proponiendo la marca ACRO y vistas al río Han para todos los socios.",
+        "body": "DL E&C informó el 10 de febrero de 2026 que comenzó su actividad de licitación para el proyecto de reconstrucción de Apgujeong Distrito 5, que abarca los apartamentos Apgujeong Hanyang 1 y 2 en Gangnam, Seúl. La empresa planea aplicar su marca residencial de alta gama ACRO y diseñar el complejo para que todos los miembros de la asociación puedan ver el río Han. El complejo Hanyang 1 y 2, construido a finales de la década de 1970, tiene 1.232 viviendas y se prevé que pase a ocho edificios con 1.397 viviendas, desde cinco plantas subterráneas hasta 68 sobre rasante. El proyecto avanza bajo el sistema de planificación integrada rápida de Seúl y la reunión para elegir constructor está prevista para mayo de 2026. Hyundai E&C y GS E&C también estarían interesados. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "DL E&C disputa Apgujeong 5 com plano de vista do rio Han para todos",
+        "excerpt": "A DL E&C disse em 10 de fevereiro de 2026 que iniciou a disputa pela reconstrução de Apgujeong 5, propondo a marca ACRO e vista do rio Han para todos os associados.",
+        "body": "A DL E&C informou em 10 de fevereiro de 2026 que iniciou as atividades para disputar o projeto de reconstrução do Distrito 5 de Apgujeong, que envolve os apartamentos Apgujeong Hanyang 1 e 2, em Gangnam, Seul. A empresa pretende aplicar sua marca residencial premium ACRO e projetar o complexo para que todos os membros da associação tenham vista para o rio Han. O conjunto Hanyang 1 e 2, construído no fim dos anos 1970, tem 1.232 unidades e deve se transformar em oito edifícios com 1.397 unidades, de cinco subsolos a 68 pavimentos acima do solo. O projeto segue pelo planejamento integrado rápido de Seul, e a assembleia de escolha da construtora está prevista para maio de 2026. Hyundai E&C e GS E&C também teriam interesse. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "DL E&C bietet in Apgujeong 5 Han-Fluss-Blick für alle Mitglieder an",
+        "excerpt": "DL E&C teilte am 10. Februar 2026 mit, im Wiederaufbauprojekt Apgujeong 5 in Gangnam aktiv um den Auftrag zu werben, mit ACRO-Marke und Han-Fluss-Blick für alle Mitglieder.",
+        "body": "DL E&C teilte am 10. Februar 2026 mit, die Akquisitionsarbeit für das Wiederaufbauprojekt Apgujeong District 5 in Gangnam, Seoul, begonnen zu haben. Es betrifft die Apartmentanlagen Apgujeong Hanyang 1 und 2. Das Unternehmen will seine hochwertige Wohnmarke ACRO einsetzen und den Komplex so planen, dass alle Mitglieder der Genossenschaft den Han-Fluss sehen können. Die Ende der 1970er Jahre errichtete Anlage Hanyang 1 und 2 umfasst 1.232 Wohnungen und soll nach dem Wiederaufbau acht Gebäude mit 1.397 Wohnungen umfassen, von fünf Untergeschossen bis 68 oberirdischen Etagen. Das Projekt läuft im Rahmen der schnellen integrierten Planung der Stadt Seoul; die Versammlung zur Auswahl des Bauunternehmens ist für Mai 2026 geplant. Auch Hyundai E&C und GS E&C sollen Interesse haben. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "DL E&C vise Apgujeong 5 avec vue sur le Han pour tous les membres",
+        "excerpt": "DL E&C a indiqué le 10 février 2026 avoir lancé sa campagne pour la reconstruction d’Apgujeong 5, avec la marque ACRO et une vue sur le Han pour tous les membres.",
+        "body": "DL E&C a annoncé le 10 février 2026 avoir lancé ses démarches pour remporter le projet de reconstruction du district 5 d’Apgujeong, à Gangnam, Séoul, qui concerne les appartements Apgujeong Hanyang 1 et 2. L’entreprise prévoit d’y appliquer sa marque résidentielle haut de gamme ACRO et de concevoir le complexe afin que tous les membres de l’association puissent voir le fleuve Han. Construit à la fin des années 1970, l’ensemble Hanyang 1 et 2 compte 1 232 logements et doit devenir un complexe de huit bâtiments et 1 397 logements, de cinq niveaux en sous-sol à 68 étages. Le projet est mené dans le cadre de la planification intégrée rapide de Séoul, avec une assemblée de sélection du constructeur prévue en mai 2026. Hyundai E&C et GS E&C seraient également intéressés. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "DL E&C تدخل سباق أبغوجيونغ 5 بخطة إطلالة على نهر الهان لكل الأعضاء",
+        "excerpt": "قالت DL E&C في 10 فبراير 2026 إنها بدأت نشاطها للفوز بإعادة تطوير أبغوجيونغ 5 في غانغنام، مقترحة علامة ACRO وإطلالة على نهر الهان لكل أعضاء الجمعية.",
+        "body": "أعلنت DL E&C في 10 فبراير 2026 أنها بدأت أنشطة السعي للفوز بمشروع إعادة تطوير منطقة أبغوجيونغ 5 في غانغنام بسيول، وهي منطقة تضم شقتي أبغوجيونغ هانيانغ 1 و2. وتخطط الشركة لاستخدام علامتها السكنية الفاخرة ACRO وتصميم المجمع بحيث يتمكن جميع أعضاء الجمعية من رؤية نهر الهان. يضم مجمع هانيانغ 1 و2، المشيد في أواخر سبعينيات القرن الماضي، 1232 وحدة، ومن المقرر أن يتحول بعد إعادة التطوير إلى 8 مبان تضم 1397 وحدة، من 5 طوابق تحت الأرض إلى 68 طابقا فوقها. يجري المشروع ضمن نظام التخطيط المتكامل السريع لمدينة سيول، ومن المقرر عقد اجتماع اختيار المقاول في مايو 2026. وذكرت التقارير أن Hyundai E&C وGS E&C مهتمتان أيضا. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "DL E&C ने अपगुजोंग 5 के लिए सभी सदस्यों को हान नदी दृश्य का प्रस्ताव दिया",
+        "excerpt": "DL E&C ने 10 फरवरी 2026 को कहा कि उसने सियोल के गंगनम स्थित अपगुजोंग 5 पुनर्निर्माण परियोजना के लिए बोली गतिविधि शुरू की, जिसमें ACRO ब्रांड और सभी सदस्यों के लिए हान नदी दृश्य शामिल हैं।",
+        "body": "DL E&C ने 10 फरवरी 2026 को बताया कि उसने सियोल के गंगनम में अपगुजोंग डिस्ट्रिक्ट 5, यानी अपगुजोंग हानयांग 1 और 2 अपार्टमेंट पुनर्निर्माण परियोजना के लिए बोली गतिविधि शुरू की है। कंपनी अपनी हाई-एंड आवासीय ब्रांड ACRO लागू करने और परिसर को इस तरह डिजाइन करने की योजना बना रही है कि प्रत्येक एसोसिएशन सदस्य हान नदी देख सके। 1970 के दशक के अंत में बने हानयांग 1 और 2 परिसर में 1232 घर हैं और पुनर्निर्माण के बाद यह पांच बेसमेंट स्तरों से 68 मंजिल तक, 8 इमारतों और 1397 घरों वाले परिसर में बदलने की योजना है। यह परियोजना सियोल की रैपिड इंटीग्रेटेड प्लानिंग प्रणाली के तहत आगे बढ़ रही है, और निर्माण कंपनी चयन बैठक मई 2026 के लिए निर्धारित है। Hyundai E&C और GS E&C भी रुचि रखते बताए गए हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "DL E&C Bidik Apgujeong 5 dengan Rencana Semua Anggota Berpemandangan Sungai Han",
+        "excerpt": "DL E&C pada 10 Februari 2026 menyatakan mulai mengejar proyek rekonstruksi Apgujeong 5 di Gangnam, dengan usulan merek ACRO dan pemandangan Sungai Han untuk semua anggota.",
+        "body": "DL E&C pada 10 Februari 2026 menyatakan telah memulai kegiatan untuk memenangkan proyek rekonstruksi Apgujeong District 5 di Gangnam, Seoul, yang mencakup Apartemen Apgujeong Hanyang 1 dan 2. Perusahaan berencana memakai merek hunian kelas atas ACRO dan merancang kompleks agar semua anggota asosiasi dapat melihat Sungai Han. Kompleks Hanyang 1 dan 2, yang dibangun pada akhir 1970-an, memiliki 1.232 unit dan setelah rekonstruksi direncanakan menjadi delapan gedung dengan 1.397 unit, dari lima lantai bawah tanah hingga 68 lantai di atas tanah. Proyek ini berjalan melalui sistem perencanaan terpadu cepat Seoul, dengan rapat pemilihan kontraktor dijadwalkan pada Mei 2026. Hyundai E&C dan GS E&C juga dilaporkan berminat. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "24657741805d",
     "slug": "롯데건설-3000억원-추가-확보조달-비용-더-낮춘다-293287",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kriteria Bantuan Harga Minyak Tinggi Tahap Kedua Diumumkan 11",
         "excerpt": "Kriteria pembayaran tahap kedua bantuan dampak harga minyak tinggi akan diumumkan pada 11, dengan fokus pada pemilihan 70% kelompok berpendapatan terbawah.",
         "body": "Kriteria pembayaran tahap kedua bantuan untuk dampak harga minyak tinggi akan diumumkan pada 11. Inti pengumuman ini adalah pemilihan 70% kelompok berpendapatan terbawah sebagai penerima dukungan. Karena ini merupakan kriteria pembayaran tahap kedua untuk membantu dampak akibat harga minyak yang tinggi, perhatian tertuju pada bagaimana penerima akan ditentukan. Kriteria yang dibuka diperkirakan menjadi dasar untuk memastikan penerima serta menilai proses pengajuan atau pembayaran berikutnya. Laporan asli tidak memuat rincian tambahan seperti besaran pembayaran, cara pengajuan, atau waktu pencairan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7604c8bce20d",
-    "slug": "명륜진사갈비-가맹점주에-고리-대출하고-인테리어비용-바가지-311178",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T20:31:41.615Z",
-    "updatedAt": "2026-05-10T20:31:41.615Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510020600002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510020600002",
-    "titleFingerprint": "4e6f79951e66f3c20c5021e80c784fb88a663382",
-    "dedupKeys": [
-      "7604c8bce20d37d1d5c714a145baf54f3c0fdc93",
-      "4e6f79951e66f3c20c5021e80c784fb88a663382",
-      "a88605a2fa3bf98349da737ecad0f2df9e13593a"
-    ],
-    "imageUrl": "/images/articles/7604c8bce20d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "명륜진사갈비 운영 명륜당, 가맹점 고금리 대출·인테리어비 부풀리기 의혹 공정위 심의",
-        "excerpt": "공정거래위원회가 2026년 5월 명륜진사갈비 운영사 명륜당의 가맹점주 대상 고금리 대출 제공과 인테리어 비용 부풀리기 의혹에 대해 가맹사업법 위반 여부 심의에 착수했다.",
-        "body": "공정거래위원회가 2026년 5월 외식 프랜차이즈 명륜진사갈비 운영사 명륜당의 가맹사업법 위반 혐의를 심의 절차에 올렸다. 명륜당은 가맹점주에게 고금리 창업 대출을 제공하거나 알선하고, 인테리어 비용을 부풀린 의혹을 받고 있다. 공정위 심사관은 명륜당이 산업은행에서 낮은 금리의 정책자금을 빌린 뒤 관계 대부업체를 통해 가맹점주에게 연 13~17% 수준의 대출을 제공했다는 의혹을 들여다봤다. 또 인테리어 업체 지정과 비용 부풀리기, 정보공개서상 신용 제공·알선 관련 기재 문제도 쟁점으로 제시됐다. 심사관은 과징금 부과와 고발 의견을 낸 것으로 전해졌다. 최종 제재 여부와 수위는 공정위 위원회 심의를 거쳐 결정된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Myeongryun Jinsa Galbi operator faces FTC review over franchisee loans and interior costs",
-        "excerpt": "South Korea’s Fair Trade Commission began reviewing allegations in May 2026 that Myeongryundang offered high-interest loans to franchisees and inflated interior construction costs.",
-        "body": "South Korea’s Fair Trade Commission placed Myeongryundang, operator of the restaurant franchise Myeongryun Jinsa Galbi, under review in May 2026 over suspected violations of the Franchise Business Act. The company is accused of providing or arranging high-interest startup loans for franchisees and inflating interior construction costs. FTC examiners reviewed claims that Myeongryundang borrowed low-interest policy funds from Korea Development Bank and then, through related lending firms, offered franchisees loans at annual rates of about 13% to 17%. Other issues include designated interior contractors, inflated costs, and disclosures on credit provision or brokerage in franchise documents. Examiners reportedly recommended fines and a complaint. Final sanctions will be decided after the FTC’s deliberation. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "明倫進士カルビ運営会社、加盟店向け高金利融資と内装費上乗せ疑惑で公取委審議",
-        "excerpt": "韓国公正取引委員会は2026年5月、明倫進士カルビ運営会社の名倫堂が加盟店に高金利融資を提供し、内装費を膨らませた疑いについて審議に入った。",
-        "body": "韓国公正取引委員会は2026年5月、外食フランチャイズ「明倫進士カルビ」を運営する名倫堂のフランチャイズ事業法違反疑惑を審議手続きに付した。名倫堂は加盟店オーナーに高金利の開業資金融資を提供またはあっせんし、内装費を膨らませた疑いが持たれている。公取委の審査官は、同社が韓国産業銀行から低金利の政策資金を借り入れ、関連貸金業者を通じて加盟店に年13～17%程度の融資を提供したとの疑惑を調べた。内装業者の指定、費用の上乗せ、情報公開書での信用供与・あっせん記載も争点となった。審査官は課徴金と告発を提案したとされる。最終的な制裁の有無と水準は公取委の審議で決まる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "明伦进士排骨运营方因加盟商高息贷款和装修费虚高疑云接受公平委审议",
-        "excerpt": "韩国公平交易委员会于2026年5月开始审议明伦进士排骨运营方明伦堂涉嫌向加盟商提供高息贷款并抬高装修费用的加盟事业法问题。",
-        "body": "韩国公平交易委员会于2026年5月将餐饮加盟品牌明伦进士排骨运营方明伦堂涉嫌违反加盟事业法一案提交审议。明伦堂被指向加盟店主提供或介绍高息创业贷款，并涉嫌抬高装修费用。公平委审查人员调查的重点包括：明伦堂从韩国产业银行获得低息政策资金后，通过关联贷款公司向加盟商提供年利率约13%至17%的贷款。指定装修公司、装修费用虚高，以及信息披露文件中关于信用提供和介绍事项的记载问题也成为争点。据悉，审查人员提出了罚款和告发意见。最终是否制裁及制裁力度将由公平委会议审议后决定。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Myeongryundang, operadora de Myeongryun Jinsa Galbi, enfrenta revisión por préstamos e interiores",
-        "excerpt": "La Comisión de Comercio Justo de Corea inició en mayo de 2026 una revisión sobre presuntos préstamos de alto interés a franquiciados de Myeongryundang y costos inflados de interiores.",
-        "body": "La Comisión de Comercio Justo de Corea llevó en mayo de 2026 a revisión las sospechas de que Myeongryundang, operadora de la franquicia gastronómica Myeongryun Jinsa Galbi, violó la ley de franquicias. La empresa está acusada de ofrecer o intermediar préstamos de apertura con altos intereses para franquiciados y de inflar costos de interiores. Los examinadores revisaron la sospecha de que Myeongryundang tomó fondos de política pública a baja tasa del Korea Development Bank y, mediante prestamistas vinculados, concedió préstamos a franquiciados con tasas anuales de alrededor del 13% al 17%. También se plantearon como asuntos clave la designación de contratistas de interiores, los costos inflados y las declaraciones sobre crédito o intermediación en documentos informativos. Los examinadores habrían recomendado multas y una denuncia. La decisión final dependerá de la deliberación de la comisión. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Operadora da Myeongryun Jinsa Galbi é analisada por empréstimos caros e custos de interiores",
-        "excerpt": "A Comissão de Comércio Justo da Coreia iniciou em maio de 2026 análise sobre suspeitas de que a Myeongryundang ofereceu empréstimos de alto juro a franqueados e inflou custos de interiores.",
-        "body": "A Comissão de Comércio Justo da Coreia levou em maio de 2026 a exame as suspeitas de violação da lei de franquias pela Myeongryundang, operadora da rede de restaurantes Myeongryun Jinsa Galbi. A empresa é acusada de fornecer ou intermediar empréstimos de abertura com juros elevados a franqueados e de inflar custos de interiores. Os examinadores analisaram a suspeita de que a Myeongryundang tomou recursos públicos de baixo juro do Korea Development Bank e, por meio de financeiras relacionadas, ofereceu aos franqueados empréstimos anuais de cerca de 13% a 17%. A designação de fornecedores de interiores, o aumento de custos e as informações sobre oferta ou intermediação de crédito nos documentos de divulgação também foram apontados como questões. Os examinadores teriam recomendado multa e denúncia. A sanção final será decidida após deliberação da comissão. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Myeongryundang wegen Franchise-Darlehen und überhöhter Innenausbaukosten vor Wettbewerbsbehörde",
-        "excerpt": "Die südkoreanische Fair Trade Commission prüft seit Mai 2026 Vorwürfe gegen Myeongryundang, Betreiber von Myeongryun Jinsa Galbi, wegen hochverzinster Darlehen und aufgeblähter Ausbaukosten.",
-        "body": "Die südkoreanische Fair Trade Commission hat im Mai 2026 ein Prüfverfahren gegen Myeongryundang, Betreiber der Restaurantkette Myeongryun Jinsa Galbi, wegen mutmaßlicher Verstöße gegen das Franchisegesetz eingeleitet. Dem Unternehmen wird vorgeworfen, Franchise-Nehmern hochverzinste Gründungsdarlehen angeboten oder vermittelt und Kosten für den Innenausbau aufgebläht zu haben. Die Prüfer untersuchten den Verdacht, dass Myeongryundang günstige Fördermittel der Korea Development Bank aufnahm und über verbundene Kreditfirmen Darlehen mit Jahreszinsen von etwa 13% bis 17% an Franchise-Nehmer vergab. Auch die Vorgabe von Innenausbauunternehmen, überhöhte Kosten und Angaben zu Kreditgewährung oder Vermittlung in Offenlegungsunterlagen sind Streitpunkte. Die Prüfer sollen Geldbußen und eine Anzeige empfohlen haben. Die endgültige Entscheidung fällt nach der Beratung der Behörde. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Myeongryundang visé pour prêts chers aux franchisés et coûts d’aménagement gonflés",
-        "excerpt": "La Fair Trade Commission coréenne a engagé en mai 2026 l’examen de soupçons visant Myeongryundang, opérateur de Myeongryun Jinsa Galbi, pour prêts à taux élevés et frais d’aménagement gonflés.",
-        "body": "La Fair Trade Commission coréenne a inscrit en mai 2026 à son examen les soupçons de violation de la loi sur la franchise visant Myeongryundang, exploitant de la chaîne de restaurants Myeongryun Jinsa Galbi. L’entreprise est accusée d’avoir fourni ou arrangé des prêts de lancement à taux élevés à des franchisés et d’avoir gonflé les coûts d’aménagement intérieur. Les examinateurs ont étudié l’allégation selon laquelle Myeongryundang aurait emprunté des fonds publics à faible taux auprès de la Korea Development Bank, puis offert via des sociétés de prêt liées des crédits aux franchisés à environ 13% à 17% par an. La désignation d’entreprises d’aménagement, les coûts majorés et les mentions relatives au crédit dans les documents d’information figurent aussi parmi les points en débat. Les examinateurs auraient proposé une amende et une plainte. La sanction finale sera décidée après délibération. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مشغل ميونغريون جينسا غالبي يخضع لمراجعة بسبب قروض مرتفعة الكلفة وتضخيم تكاليف التجهيز",
-        "excerpt": "بدأت لجنة التجارة العادلة في كوريا في مايو 2026 مراجعة شبهات ضد ميونغريونغدانغ، مشغل ميونغريون جينسا غالبي، تتعلق بقروض عالية الفائدة لأصحاب الامتياز وتضخيم تكاليف التصميم الداخلي.",
-        "body": "أحالت لجنة التجارة العادلة في كوريا في مايو 2026 شبهات انتهاك قانون الامتياز من جانب ميونغريونغدانغ، مشغل سلسلة مطاعم ميونغريون جينسا غالبي، إلى المراجعة. وتواجه الشركة اتهامات بتقديم أو ترتيب قروض تأسيس عالية الفائدة لأصحاب الامتياز وبتضخيم تكاليف التصميم الداخلي. وراجع محققو اللجنة شبهة أن الشركة اقترضت أموالا ميسرة منخفضة الفائدة من بنك التنمية الكوري، ثم قدمت عبر شركات إقراض مرتبطة قروضا لأصحاب الامتياز بفائدة سنوية تقارب 13% إلى 17%. كما طرحت قضايا تعيين شركات التجهيز، وتضخيم التكلفة، وما ورد في وثائق الإفصاح عن تقديم الائتمان أو الوساطة فيه. وذكرت التقارير أن المحققين أوصوا بغرامة وبلاغ. وسيحسم مستوى العقوبة بعد مداولات اللجنة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "म्योंगर्युन जिन्सा गाल्बी संचालक पर फ्रेंचाइजी ऋण और इंटीरियर लागत मामले की समीक्षा",
-        "excerpt": "कोरिया के फेयर ट्रेड कमीशन ने मई 2026 में म्योंगर्युनदांग के खिलाफ फ्रेंचाइजी मालिकों को ऊंची ब्याज दर पर कर्ज देने और इंटीरियर लागत बढ़ाकर दिखाने के आरोपों की समीक्षा शुरू की।",
-        "body": "कोरिया के फेयर ट्रेड कमीशन ने मई 2026 में रेस्तरां फ्रेंचाइजी म्योंगर्युन जिन्सा गाल्बी की संचालक म्योंगर्युनदांग के खिलाफ फ्रेंचाइजी कानून उल्लंघन के आरोपों को समीक्षा प्रक्रिया में रखा। कंपनी पर फ्रेंचाइजी मालिकों को ऊंची ब्याज दर वाले स्टार्टअप ऋण देने या दिलाने और इंटीरियर निर्माण लागत बढ़ाकर दिखाने का आरोप है। आयोग के जांचकर्ताओं ने इस संदेह की जांच की कि म्योंगर्युनदांग ने Korea Development Bank से कम ब्याज वाली नीति निधि ली और फिर संबंधित ऋण कंपनियों के माध्यम से फ्रेंचाइजी मालिकों को लगभग 13% से 17% वार्षिक दर पर ऋण दिया। इंटीरियर ठेकेदारों की नियुक्ति, लागत बढ़ाना और सूचना दस्तावेजों में क्रेडिट उपलब्ध कराने या मध्यस्थता से जुड़े विवरण भी मुद्दे बने। जांचकर्ताओं ने कथित तौर पर जुर्माना और शिकायत की राय दी है। अंतिम कार्रवाई आयोग की सुनवाई के बाद तय होगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Operator Myeongryun Jinsa Galbi ditinjau atas pinjaman mahal dan biaya interior membengkak",
-        "excerpt": "Komisi Perdagangan Adil Korea pada Mei 2026 meninjau dugaan bahwa Myeongryundang memberi pinjaman berbunga tinggi kepada pemilik waralaba dan membesarkan biaya interior.",
-        "body": "Komisi Perdagangan Adil Korea pada Mei 2026 membawa dugaan pelanggaran Undang-Undang Waralaba oleh Myeongryundang, operator restoran Myeongryun Jinsa Galbi, ke proses peninjauan. Perusahaan dituduh menyediakan atau mengatur pinjaman pembukaan usaha berbunga tinggi bagi pemilik waralaba dan membesarkan biaya interior. Pemeriksa meninjau dugaan bahwa Myeongryundang meminjam dana kebijakan berbunga rendah dari Korea Development Bank, lalu melalui perusahaan pembiayaan terkait memberikan pinjaman kepada pemilik waralaba dengan bunga tahunan sekitar 13% hingga 17%. Penunjukan kontraktor interior, biaya yang dinaikkan, serta keterangan tentang pemberian atau perantara kredit dalam dokumen pengungkapan juga menjadi isu. Pemeriksa dilaporkan merekomendasikan denda dan pengaduan. Sanksi akhir akan diputuskan setelah deliberasi komisi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1be3795ca492",
-    "slug": "지방보조금-집행-보탬e-카드-새마을금고신협수협도-가능-702239",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T20:30:05.501Z",
-    "updatedAt": "2026-05-10T20:30:05.501Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510014600530",
-    "titleFingerprint": "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
-    "dedupKeys": [
-      "1be3795ca4922985374139a1b291e232585c4bee",
-      "3f76b2b405efa0ef1f9865e7954020d2b69998eb",
-      "66b992502ebb5cefb30ecfb70e6b383a609389fe"
-    ],
-    "imageUrl": "/images/articles/1be3795ca492.jpg",
-    "i18n": {
-      "ko": {
-        "title": "지방보조금 보탬e 전용카드 확대, 새마을금고·신협·수협도 집행 가능",
-        "excerpt": "행정안전부가 지방보조금통합관리망 ‘보탬e 전용카드’ 서비스 범위를 기존 12개 시중은행에서 새마을금고·신협·수협까지 확대한다고 밝혔다.",
-        "body": "행정안전부는 지방보조금 집행에 쓰이는 ‘보탬e(지방보조금통합관리망) 전용카드’ 서비스 범위를 확대한다고 밝혔다. 기존에는 12개 시중은행을 통해 전용카드 서비스를 이용할 수 있었으나, 앞으로는 새마을금고와 신협, 수협에서도 이용이 가능해진다. 보탬e 전용카드는 지방보조금의 집행과 관리를 통합적으로 처리하기 위한 카드 서비스다. 이번 확대는 이용 가능한 금융기관을 넓혀 지방보조금 집행 편의를 높이는 데 초점이 있다. 지방보조금 업무를 처리하는 기관과 단체는 선택 가능한 금융기관이 늘어나 집행 과정에서 접근성이 개선될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Botem-e Local Subsidy Card Expands to Saemaul Geumgo, Credit Unions and Suhyup",
-        "excerpt": "South Korea’s Interior Ministry said the Botem-e local subsidy management card service will expand beyond 12 commercial banks to Saemaul Geumgo, credit unions and Suhyup.",
-        "body": "South Korea’s Ministry of the Interior and Safety said it will expand the service coverage of the dedicated Botem-e card used for local subsidy spending. The card, linked to the integrated local subsidy management network, had previously been available through 12 commercial banks. It will now also be available through Saemaul Geumgo, credit unions and Suhyup. The Botem-e card is designed to support integrated execution and management of local subsidies. The expansion focuses on widening the range of financial institutions that can handle the service, improving convenience for organizations and groups that process local subsidy funds. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "地方補助金のボテムe専用カード、セマウル金庫・信協・水協にも拡大",
-        "excerpt": "韓国行政安全部は、地方補助金統合管理網「ボテムe専用カード」のサービス対象を既存の12市中銀行からセマウル金庫・信協・水協へ広げると明らかにした。",
-        "body": "韓国行政安全部は、地方補助金の執行に使われる「ボテムe（地方補助金統合管理網）専用カード」のサービス範囲を拡大すると発表した。これまでは12の市中銀行を通じて専用カードサービスを利用できたが、今後はセマウル金庫、信用協同組合、水産業協同組合でも利用できるようになる。ボテムe専用カードは、地方補助金の執行と管理を統合的に処理するためのカードサービスだ。今回の拡大は、利用可能な金融機関を増やし、地方補助金執行の利便性を高めることに重点を置く。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "地方补助金Botem-e专用卡扩围，韩新村金库、信协、水协也可办理",
-        "excerpt": "韩国行政安全部表示，地方补助金综合管理网“Botem-e专用卡”服务范围将从现有12家商业银行扩大至新村金库、信用合作社和水协。",
-        "body": "韩国行政安全部表示，将扩大用于地方补助金执行的“Botem-e（地方补助金综合管理网）专用卡”服务范围。此前，该专用卡服务可通过12家商业银行使用；今后，新村金库、信用合作社和水产业协同组合也可提供相关服务。Botem-e专用卡是用于统一处理地方补助金执行与管理的卡服务。此次扩围的重点在于增加可使用的金融机构，提升地方补助金执行便利性。办理地方补助金相关业务的机构和团体，可选择的金融机构将增加，执行过程的可及性有望改善。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "La tarjeta Botem-e para subsidios locales se amplía a Saemaul Geumgo, cooperativas y Suhyup",
-        "excerpt": "El Ministerio del Interior de Corea del Sur anunció que la tarjeta Botem-e para gestión de subsidios locales se ampliará de 12 bancos comerciales a Saemaul Geumgo, cooperativas de crédito y Suhyup.",
-        "body": "El Ministerio del Interior y Seguridad de Corea del Sur anunció que ampliará el alcance del servicio de la tarjeta exclusiva Botem-e, utilizada para la ejecución de subsidios locales. Hasta ahora, el servicio estaba disponible a través de 12 bancos comerciales, pero también podrá usarse en Saemaul Geumgo, cooperativas de crédito y Suhyup. La tarjeta Botem-e está vinculada a la red integrada de gestión de subsidios locales y permite gestionar de forma unificada la ejecución y administración de esos fondos. La ampliación busca aumentar las entidades financieras disponibles y mejorar la comodidad para instituciones y organizaciones que tramitan subsidios locales. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cartão Botem-e para subsídios locais se expande a Saemaul Geumgo, cooperativas e Suhyup",
-        "excerpt": "O Ministério do Interior da Coreia do Sul informou que o cartão Botem-e para gestão de subsídios locais será ampliado de 12 bancos comerciais para Saemaul Geumgo, cooperativas de crédito e Suhyup.",
-        "body": "O Ministério do Interior e Segurança da Coreia do Sul informou que ampliará o alcance do cartão exclusivo Botem-e, usado na execução de subsídios locais. Até agora, o serviço podia ser utilizado por meio de 12 bancos comerciais. A partir da ampliação, também estará disponível no Saemaul Geumgo, em cooperativas de crédito e no Suhyup. O cartão Botem-e está ligado à rede integrada de gestão de subsídios locais e serve para processar de forma unificada a execução e a administração desses recursos. A medida amplia as instituições financeiras disponíveis e deve melhorar o acesso para órgãos e entidades que lidam com subsídios locais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Botem-e-Karte für lokale Zuschüsse wird auf Saemaul Geumgo, Kreditgenossenschaften und Suhyup ausgeweitet",
-        "excerpt": "Südkoreas Innenministerium teilte mit, dass die Botem-e-Karte für lokale Zuschüsse von bisher 12 Geschäftsbanken auf Saemaul Geumgo, Kreditgenossenschaften und Suhyup ausgeweitet wird.",
-        "body": "Das südkoreanische Ministerium für Inneres und Sicherheit hat angekündigt, den Serviceumfang der speziellen Botem-e-Karte für die Auszahlung lokaler Zuschüsse zu erweitern. Bisher war der Kartendienst über 12 Geschäftsbanken verfügbar. Künftig kann er auch bei Saemaul Geumgo, Kreditgenossenschaften und Suhyup genutzt werden. Die Botem-e-Karte ist mit dem integrierten Verwaltungsnetz für lokale Zuschüsse verbunden und dient der einheitlichen Abwicklung und Verwaltung dieser Mittel. Die Ausweitung soll die Zahl der nutzbaren Finanzinstitute erhöhen und die Abwicklung für Institutionen und Gruppen erleichtern, die lokale Zuschüsse bearbeiten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La carte Botem-e pour subventions locales s’étend à Saemaul Geumgo, aux coopératives et à Suhyup",
-        "excerpt": "Le ministère sud-coréen de l’Intérieur a annoncé l’extension de la carte Botem-e de gestion des subventions locales, jusque-là disponible dans 12 banques commerciales, à Saemaul Geumgo, aux coopératives de crédit et à Suhyup.",
-        "body": "Le ministère sud-coréen de l’Intérieur et de la Sécurité a annoncé l’élargissement du service de la carte dédiée Botem-e, utilisée pour l’exécution des subventions locales. Jusqu’ici, ce service était accessible via 12 banques commerciales. Il le sera désormais aussi auprès de Saemaul Geumgo, des coopératives de crédit et de Suhyup. La carte Botem-e est liée au réseau intégré de gestion des subventions locales et permet de traiter de manière unifiée leur exécution et leur gestion. Cette extension vise à accroître le nombre d’établissements financiers disponibles et à améliorer la commodité pour les organismes et groupes chargés de ces fonds. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "توسيع بطاقة Botem-e للدعم المحلي لتشمل سايماؤل غومغو والتعاونيات الائتمانية وسوهيوب",
-        "excerpt": "أعلنت وزارة الداخلية والسلامة في كوريا الجنوبية توسيع خدمة بطاقة Botem-e لإدارة الدعم المحلي من 12 بنكا تجاريا إلى سايماؤل غومغو والتعاونيات الائتمانية وسوهيوب.",
-        "body": "أعلنت وزارة الداخلية والسلامة في كوريا الجنوبية أنها ستوسع نطاق خدمة بطاقة Botem-e المخصصة لتنفيذ الدعم المحلي. وكانت الخدمة متاحة سابقا عبر 12 بنكا تجاريا، لكنها ستصبح متاحة أيضا لدى سايماؤل غومغو والتعاونيات الائتمانية وسوهيوب. وترتبط بطاقة Botem-e بالشبكة المتكاملة لإدارة الدعم المحلي، وتهدف إلى معالجة تنفيذ هذه الأموال وإدارتها بصورة موحدة. ويركز التوسع على زيادة عدد المؤسسات المالية التي يمكن استخدامها، بما يحسن سهولة الوصول للهيئات والمنظمات التي تتولى أعمال الدعم المحلي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "स्थानीय सब्सिडी के Botem-e कार्ड का दायरा बढ़ा, Saemaul Geumgo, क्रेडिट यूनियन और Suhyup भी शामिल",
-        "excerpt": "दक्षिण कोरिया के आंतरिक मंत्रालय ने कहा कि स्थानीय सब्सिडी प्रबंधन के Botem-e कार्ड की सेवा 12 वाणिज्यिक बैंकों से बढ़कर Saemaul Geumgo, क्रेडिट यूनियन और Suhyup तक होगी।",
-        "body": "दक्षिण कोरिया के आंतरिक और सुरक्षा मंत्रालय ने कहा कि स्थानीय सब्सिडी के उपयोग में आने वाले Botem-e समर्पित कार्ड की सेवा सीमा बढ़ाई जाएगी। अब तक यह सेवा 12 वाणिज्यिक बैंकों के माध्यम से उपलब्ध थी। आगे से Saemaul Geumgo, क्रेडिट यूनियन और Suhyup में भी इसका उपयोग किया जा सकेगा। Botem-e कार्ड स्थानीय सब्सिडी एकीकृत प्रबंधन नेटवर्क से जुड़ी सेवा है, जिसका उद्देश्य स्थानीय सब्सिडी के निष्पादन और प्रबंधन को एकीकृत रूप से संभालना है। इस विस्तार से उपलब्ध वित्तीय संस्थानों की संख्या बढ़ेगी और स्थानीय सब्सिडी से जुड़े संस्थानों व संगठनों के लिए पहुंच बेहतर होने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kartu Botem-e Subsidi Daerah Diperluas ke Saemaul Geumgo, Koperasi Kredit dan Suhyup",
-        "excerpt": "Kementerian Dalam Negeri Korea Selatan menyatakan layanan kartu Botem-e untuk pengelolaan subsidi daerah diperluas dari 12 bank komersial ke Saemaul Geumgo, koperasi kredit dan Suhyup.",
-        "body": "Kementerian Dalam Negeri dan Keamanan Korea Selatan menyatakan akan memperluas cakupan layanan kartu khusus Botem-e yang digunakan untuk pelaksanaan subsidi daerah. Sebelumnya, layanan kartu ini tersedia melalui 12 bank komersial. Ke depan, kartu tersebut juga dapat digunakan melalui Saemaul Geumgo, koperasi kredit dan Suhyup. Kartu Botem-e terhubung dengan jaringan terpadu pengelolaan subsidi daerah dan digunakan untuk memproses pelaksanaan serta pengelolaan dana secara terintegrasi. Perluasan ini berfokus pada penambahan lembaga keuangan yang dapat digunakan, sehingga akses bagi lembaga dan organisasi yang menangani subsidi daerah diperkirakan membaik. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "46e4b330b8b2",
-    "slug": "청년-인턴-경험-살려-정규직으로-서울시-83만명에-일자리-디딤돌-538709",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T20:29:05.734Z",
-    "updatedAt": "2026-05-10T20:29:05.734Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260510/133894736/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260510/133894736/2",
-    "titleFingerprint": "5b259a6e23ec78583a0a1bae97b2d8a6d97b3652",
-    "dedupKeys": [
-      "46e4b330b8b275475c563e307a1a27a8387db44e",
-      "5b259a6e23ec78583a0a1bae97b2d8a6d97b3652",
-      "b95fb13072be1b7286183521c784b12ea43aa335"
-    ],
-    "imageUrl": "/images/articles/46e4b330b8b2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울시 청년 일자리 정책, 인턴 경험 살려 정규직 전환 디딤돌 됐다",
-        "excerpt": "서울시는 2021년부터 지난해까지 2차 청년정책 기본계획을 통해 일자리·주거 등 5개 분야 73개 사업으로 청년 지원을 이어왔다.",
-        "body": "서울시가 2021년부터 지난해까지 5년간 추진한 ‘2차 청년정책 기본계획’이 청년 취업과 생활 기반 지원의 디딤돌 역할을 했다. 대학에서 수학과 정보시스템공학을 전공한 안혜림 씨(26)는 지난해 졸업 후 부동산 데이터 분석 업체에서 인턴으로 근무하며 전공을 살린 데이터 분석 업무와 AI 도구를 활용한 데이터 전처리를 익혔다. 성과를 인정받은 안 씨는 같은 해 정규직으로 채용됐다. 이 채용 연계형 인턴십은 서울시의 ‘미래 청년 일자리 사업’을 통해 이뤄졌다. 서울시는 AI·바이오 등 신산업 분야 기업과 취업 청년을 연결해 왔으며, 일자리, 금융·복지, 교육·문화, 주거, 참여·권리 등 5개 분야 73개 사업으로 청년을 지원했다. 코로나19 후유증과 경기 침체로 채용이 줄고 ‘쉬었음 청년’이 늘어난 상황에서 취업난 완화에 초점을 맞췄다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Seoul Youth Jobs Policy Helps Turn Internship Experience Into Full-Time Work",
-        "excerpt": "From 2021 through last year, Seoul supported young people through 73 projects in five areas, including jobs, housing, welfare, education and rights.",
-        "body": "Seoul’s Second Basic Youth Policy Plan, carried out for five years from 2021 through last year, has served as a stepping stone for youth employment and life support. Ahn Hye-rim, 26, who studied mathematics and information systems engineering at university, worked last year as an intern at a real estate data analytics company after graduation. There, she handled data analysis using her major and learned data preprocessing with AI tools. After her performance was recognized, she was hired as a full-time employee in the same year. The internship was linked to Seoul’s Future Youth Jobs Project. The city has connected young job seekers with companies in emerging industries such as AI and biotechnology, while supporting youth through 73 projects across jobs, finance and welfare, education and culture, housing, and participation and rights. Amid reduced hiring after COVID-19 and an economic slowdown, the policy focused on easing youth employment difficulties. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ソウル市の若者雇用政策、インターン経験を正社員採用への足掛かりに",
-        "excerpt": "ソウル市は2021年から昨年まで、第2次青年政策基本計画を通じて雇用・住宅など5分野73事業で若者を支援した。",
-        "body": "ソウル市が2021年から昨年まで5年間進めた「第2次青年政策基本計画」は、若者の就職と生活基盤支援の足掛かりとなった。大学で数学と情報システム工学を専攻したアン・ヘリムさん（26）は、昨年卒業後、不動産データ分析会社でインターンとして働いた。そこで専攻を生かしたデータ分析業務を担当し、AIツールを使ったデータ前処理の方法も学んだ。成果が認められ、同じ年に正社員として採用された。この採用連携型インターンシップは、ソウル市の「未来青年雇用事業」を通じたものだった。市はAIやバイオなど新産業分野の企業と就職を目指す若者を結び、雇用、金融・福祉、教育・文化、住宅、参加・権利の5分野73事業で支援してきた。コロナ後遺症と景気低迷で採用が減り、「休んでいる若者」が増える中、就職難の緩和に重点を置いた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "首尔青年就业政策成跳板，实习经历助力转为正式员工",
-        "excerpt": "首尔市自2021年至去年通过第二次青年政策基本计划，在就业、住房等五大领域73个项目中持续支持青年。",
-        "body": "首尔市自2021年至去年5年间推进的“第二次青年政策基本计划”，成为支持青年就业和生活基础的跳板。大学期间主修数学和信息系统工程的安惠林（26岁）去年毕业后，在一家房地产数据分析企业担任实习生。她在该公司从事与专业相关的数据分析工作，并学习了利用人工智能工具进行数据预处理的方法。因工作成果获得认可，她同年被录用为正式员工。安惠林参与的招聘联动型实习，正是通过首尔市主管的“未来青年就业项目”实现的。首尔市一直将AI、生物等引领未来变化的新产业企业与求职青年连接起来，并在就业、金融与福利、教育与文化、住房、参与与权利等五大领域通过73个项目支持青年。在新冠疫情后遗影响和经济低迷导致企业招聘减少、“休息青年”增加的背景下，该政策聚焦于缓解就业困难。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Política juvenil de Seúl convierte pasantías en puente hacia empleos fijos",
-        "excerpt": "Desde 2021 hasta el año pasado, Seúl apoyó a jóvenes con 73 proyectos en cinco áreas, entre ellas empleo, vivienda, bienestar, educación y derechos.",
-        "body": "El Segundo Plan Básico de Política Juvenil de Seúl, aplicado durante cinco años desde 2021 hasta el año pasado, funcionó como un apoyo para el empleo juvenil y la base de vida de los jóvenes. Ahn Hye-rim, de 26 años, estudió matemáticas e ingeniería de sistemas de información en la universidad y, tras graduarse el año pasado, trabajó como pasante en una empresa de análisis de datos inmobiliarios. Allí realizó tareas de análisis de datos relacionadas con su especialidad y aprendió a preprocesar datos con herramientas de inteligencia artificial. Al ser reconocidos sus resultados, fue contratada ese mismo año como empleada fija. La pasantía vinculada a contratación formó parte del Proyecto de Empleo Juvenil Futuro de Seúl. La ciudad ha conectado a jóvenes con empresas de nuevas industrias como IA y biotecnología, y los ha apoyado mediante 73 proyectos en empleo, finanzas y bienestar, educación y cultura, vivienda, y participación y derechos. Ante la reducción de contrataciones por las secuelas del COVID-19 y la desaceleración económica, la política se centró en aliviar las dificultades laborales juveniles. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Política jovem de Seul transforma estágio em caminho para emprego efetivo",
-        "excerpt": "De 2021 até o ano passado, Seul apoiou jovens por meio de 73 projetos em cinco áreas, incluindo trabalho, moradia, bem-estar, educação e direitos.",
-        "body": "O Segundo Plano Básico de Política Juvenil de Seul, implementado por cinco anos de 2021 até o ano passado, atuou como base de apoio ao emprego e à vida dos jovens. Ahn Hye-rim, de 26 anos, formada em matemática e engenharia de sistemas de informação, trabalhou no ano passado, após a graduação, como estagiária em uma empresa de análise de dados imobiliários. Lá, realizou tarefas de análise de dados relacionadas à sua formação e aprendeu a fazer pré-processamento de dados com ferramentas de inteligência artificial. Com seu desempenho reconhecido, foi contratada como funcionária efetiva no mesmo ano. O estágio vinculado à contratação ocorreu por meio do Projeto de Empregos Juvenis do Futuro, de Seul. A cidade conectou jovens a empresas de novos setores como IA e biotecnologia e ofereceu apoio por 73 projetos em trabalho, finanças e bem-estar, educação e cultura, moradia, participação e direitos. Com a queda nas contratações após a COVID-19 e a desaceleração econômica, a política buscou aliviar as dificuldades de emprego juvenil. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Seouls Jugendjobpolitik macht Praktika zum Sprungbrett in Festanstellungen",
-        "excerpt": "Von 2021 bis zum vergangenen Jahr unterstützte Seoul junge Menschen mit 73 Projekten in fünf Bereichen, darunter Arbeit, Wohnen, Bildung und Rechte.",
-        "body": "Seouls Zweiter Grundplan für Jugendpolitik, der von 2021 bis zum vergangenen Jahr fünf Jahre lang umgesetzt wurde, diente als Sprungbrett für Beschäftigung und Lebensgrundlagen junger Menschen. Ahn Hye-rim, 26, studierte Mathematik und Informationssystemtechnik und arbeitete nach ihrem Abschluss im vergangenen Jahr als Praktikantin bei einem Unternehmen für Immobiliendatenanalyse. Dort übernahm sie Datenanalyseaufgaben passend zu ihrem Studienfach und lernte, Daten mit KI-Werkzeugen vorzubereiten. Nachdem ihre Leistung anerkannt wurde, wurde sie noch im selben Jahr fest angestellt. Das einstellungsbezogene Praktikum erfolgte über Seouls Projekt für Zukunftsjobs junger Menschen. Die Stadt brachte junge Arbeitssuchende mit Unternehmen in neuen Branchen wie KI und Biotechnologie zusammen und unterstützte sie mit 73 Projekten in den Bereichen Arbeit, Finanzen und Wohlfahrt, Bildung und Kultur, Wohnen sowie Teilhabe und Rechte. Angesichts rückläufiger Einstellungen nach COVID-19 und der Konjunkturschwäche zielte die Politik darauf, die Beschäftigungsnot junger Menschen zu lindern. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "À Séoul, la politique emploi des jeunes fait du stage un tremplin vers le CDI",
-        "excerpt": "De 2021 à l’an dernier, Séoul a soutenu les jeunes avec 73 projets dans cinq domaines, dont emploi, logement, protection sociale, éducation et droits.",
-        "body": "Le deuxième plan-cadre de politique jeunesse de Séoul, mené pendant cinq ans de 2021 à l’an dernier, a servi de tremplin pour l’emploi des jeunes et le soutien à leurs conditions de vie. Ahn Hye-rim, 26 ans, diplômée en mathématiques et ingénierie des systèmes d’information, a travaillé l’an dernier après ses études comme stagiaire dans une entreprise d’analyse de données immobilières. Elle y a mené des tâches d’analyse de données liées à sa spécialité et appris le prétraitement des données avec des outils d’intelligence artificielle. Ses résultats ayant été reconnus, elle a été recrutée comme salariée permanente la même année. Ce stage lié à l’embauche relevait du Projet emplois jeunesse du futur de Séoul. La ville a mis en relation des jeunes en recherche d’emploi avec des entreprises de secteurs émergents comme l’IA et la biotechnologie, et les a soutenus par 73 projets couvrant emploi, finance et protection sociale, éducation et culture, logement, participation et droits. Face à la baisse des recrutements après le COVID-19 et au ralentissement économique, la politique visait à atténuer les difficultés d’emploi des jeunes. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سياسة وظائف الشباب في سيول تحول التدريب إلى جسر نحو التوظيف الدائم",
-        "excerpt": "دعمت سيول الشباب من 2021 حتى العام الماضي عبر 73 مشروعا في خمسة مجالات تشمل العمل والسكن والرعاية والتعليم والحقوق.",
-        "body": "شكّلت «الخطة الأساسية الثانية لسياسات الشباب» التي نفذتها سيول على مدى خمس سنوات من 2021 حتى العام الماضي جسرا لدعم توظيف الشباب وأسس معيشتهم. آن هي-ريم، البالغة 26 عاما، درست الرياضيات وهندسة نظم المعلومات في الجامعة، وعملت بعد تخرجها العام الماضي متدربة في شركة لتحليل بيانات العقارات. هناك تولت أعمال تحليل البيانات المرتبطة بتخصصها، وتعلمت أيضا المعالجة المسبقة للبيانات باستخدام أدوات الذكاء الاصطناعي. وبعد الاعتراف بأدائها، وُظفت في العام نفسه كموظفة دائمة. وجاء هذا التدريب المرتبط بالتوظيف عبر «مشروع وظائف الشباب المستقبلية» التابع لسيول. وقد ربطت المدينة الشباب الباحثين عن عمل بشركات في قطاعات ناشئة مثل الذكاء الاصطناعي والتكنولوجيا الحيوية، وقدمت الدعم عبر 73 مشروعا في مجالات العمل، والتمويل والرعاية، والتعليم والثقافة، والسكن، والمشاركة والحقوق. وفي ظل تراجع التوظيف بعد تداعيات كوفيد-19 والركود الاقتصادي، ركزت السياسة على تخفيف صعوبات توظيف الشباب. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सियोल की युवा रोजगार नीति, इंटर्नशिप को स्थायी नौकरी की सीढ़ी बना रही है",
-        "excerpt": "सियोल ने 2021 से पिछले वर्ष तक दूसरी युवा नीति योजना के तहत रोजगार, आवास, कल्याण, शिक्षा और अधिकारों सहित पांच क्षेत्रों में 73 परियोजनाओं से युवाओं को समर्थन दिया।",
-        "body": "सियोल की ‘दूसरी युवा नीति बुनियादी योजना’, जिसे 2021 से पिछले वर्ष तक पांच वर्षों तक लागू किया गया, युवाओं के रोजगार और जीवन आधार समर्थन की सीढ़ी बनी। विश्वविद्यालय में गणित और सूचना प्रणाली इंजीनियरिंग पढ़ने वाली 26 वर्षीय आन हे-रिम ने पिछले वर्ष स्नातक होने के बाद एक रियल एस्टेट डेटा विश्लेषण कंपनी में इंटर्न के रूप में काम किया। वहां उन्होंने अपने विषय से जुड़ा डेटा विश्लेषण किया और एआई उपकरणों से डेटा प्रीप्रोसेसिंग करना भी सीखा। प्रदर्शन की मान्यता मिलने पर उन्हें उसी वर्ष स्थायी कर्मचारी के रूप में नियुक्त किया गया। यह भर्ती-संबद्ध इंटर्नशिप सियोल के ‘फ्यूचर यूथ जॉब्स प्रोजेक्ट’ के माध्यम से हुई। सियोल ने एआई और बायो जैसे नए उद्योग क्षेत्रों की कंपनियों को नौकरी चाहने वाले युवाओं से जोड़ा और रोजगार, वित्त व कल्याण, शिक्षा व संस्कृति, आवास, भागीदारी व अधिकारों के पांच क्षेत्रों में 73 परियोजनाओं से समर्थन दिया। कोविड-19 के बाद के प्रभावों और आर्थिक मंदी से भर्ती घटने तथा ‘आराम कर रहे युवाओं’ की संख्या बढ़ने के बीच नीति ने रोजगार कठिनाइयों को कम करने पर ध्यान दिया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Kebijakan Kerja Muda Seoul Jadikan Magang Jalan Menuju Pegawai Tetap",
-        "excerpt": "Seoul sejak 2021 hingga tahun lalu mendukung anak muda lewat 73 proyek di lima bidang, termasuk kerja, hunian, kesejahteraan, pendidikan, dan hak.",
-        "body": "Rencana Dasar Kebijakan Pemuda Kedua Seoul, yang dijalankan selama lima tahun sejak 2021 hingga tahun lalu, menjadi pijakan bagi dukungan kerja dan dasar kehidupan anak muda. Ahn Hye-rim, 26 tahun, yang mempelajari matematika dan teknik sistem informasi di universitas, bekerja tahun lalu setelah lulus sebagai intern di perusahaan analisis data real estat. Di sana, ia menangani analisis data sesuai bidang studinya dan mempelajari prapemrosesan data dengan alat kecerdasan buatan. Setelah kinerjanya diakui, ia direkrut sebagai pegawai tetap pada tahun yang sama. Magang yang terhubung dengan perekrutan itu berlangsung melalui Proyek Pekerjaan Pemuda Masa Depan Seoul. Kota ini menghubungkan pencari kerja muda dengan perusahaan di industri baru seperti AI dan bio, serta mendukung mereka melalui 73 proyek di bidang kerja, keuangan dan kesejahteraan, pendidikan dan budaya, hunian, partisipasi dan hak. Di tengah penurunan perekrutan akibat dampak COVID-19 dan perlambatan ekonomi, kebijakan ini berfokus pada pengurangan kesulitan kerja bagi anak muda. Sumber: rss.donga.com"
       }
     }
   }
