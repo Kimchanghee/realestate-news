@@ -1,5 +1,230 @@
 [
   {
+    "id": "176b087c07f5",
+    "slug": "서울지하철-1호선-이용자-22-경로-무임승차-954803",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T22:45:50.850Z",
+    "updatedAt": "2026-05-11T22:45:50.850Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260511/133901972/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260511/133901972/2",
+    "titleFingerprint": "497e6ebe438ba724024c87ea40aa1708947dbe61",
+    "dedupKeys": [
+      "176b087c07f5c82b10e9cba7a78625d77fc5a369",
+      "497e6ebe438ba724024c87ea40aa1708947dbe61",
+      "31b0ea52e549003db05f1d50c9156ab1806bd694"
+    ],
+    "imageUrl": "/images/articles/176b087c07f5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울지하철 1호선 고령 무임승차 21.6%, 이용자 5명 중 1명 넘어",
+        "excerpt": "서울교통공사가 11일 공개한 올해 1분기 분석에서 서울지하철 1호선 고령 무임승차 비율이 21.6%로 집계돼 전체 노선 중 가장 높았다.",
+        "body": "서울교통공사가 11일 공개한 올해 1분기(1~3월) 무임승차 이용 현황 분석에 따르면 서울지하철 1호선 이용자 중 65세 이상 경로 무임승차자는 21.6%로 집계됐다. 이용자 5명 중 1명 이상이 고령 무임승차자인 셈이다. 노선별로는 1호선에 이어 8호선 18.8%, 5호선 17.3%, 3호선 16.8%, 7호선 16.5% 순이었고, 2호선은 10.6%로 가장 낮았다. 역별로는 경동시장 인근 제기동역이 전체 승차자 약 144만 명 중 약 68만 명, 47.2%로 가장 높았다. 동묘앞역 42.0%, 청량리역 35.9%, 종로3가역 32.4%가 뒤를 이었다. 서울지하철 전체 고령 무임승차 비율은 2024년 14.6%, 지난해 15.0%, 올해 15.1%로 상승했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Seoul Subway Line 1 Senior Free Rides Reach 21.6%, Highest Across Network",
+        "excerpt": "Seoul Metro said on May 11 that senior free rides accounted for 21.6% of Line 1 passengers in the first quarter, the highest share among Seoul subway lines.",
+        "body": "According to Seoul Metro’s analysis of free-ride use in the first quarter of this year, released on May 11, passengers aged 65 and older using senior free rides made up 21.6% of Seoul Subway Line 1 users. That means more than one in five riders on the line fell into the senior free-ride category. By line, Line 1 was followed by Line 8 at 18.8%, Line 5 at 17.3%, Line 3 at 16.8%, and Line 7 at 16.5%, while Line 2 had the lowest share at 10.6%. By station, Jegi-dong Station near Gyeongdong Market recorded the highest ratio, with about 680,000 of roughly 1.44 million boardings, or 47.2%, made by senior free riders. Dongmyo, Cheongnyangni, and Jongno 3-ga followed. Across Seoul’s subway system, the senior free-ride share rose from 14.6% in 2024 to 15.0% last year and 15.1% this year. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ソウル地下鉄1号線、高齢者無料乗車が21.6%で全路線最高",
+        "excerpt": "ソウル交通公社が11日に公表した今年第1四半期の分析で、地下鉄1号線の高齢者無料乗車比率は21.6%と全路線で最も高かった。",
+        "body": "ソウル交通公社が11日に公表した今年第1四半期（1～3月）の無料乗車利用状況分析によると、ソウル地下鉄1号線の利用者のうち65歳以上の高齢者無料乗車は21.6%だった。利用者の5人に1人以上が高齢者無料乗車に該当する計算だ。路線別では1号線に続き、8号線18.8%、5号線17.3%、3号線16.8%、7号線16.5%の順で、2号線は10.6%と最も低かった。駅別では京東市場に近い祭基洞駅が、全乗車客約144万人のうち約68万人、47.2%で最も高かった。東廟前駅42.0%、清凉里駅35.9%、鍾路3街駅32.4%が続いた。ソウル地下鉄全体の高齢者無料乗車比率は2024年14.6%、昨年15.0%、今年15.1%へ上昇した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "首尔地铁1号线老年免费乘车占21.6%，全线路最高",
+        "excerpt": "首尔交通公社11日公布的今年一季度分析显示，首尔地铁1号线65岁以上老年免费乘车比例为21.6%，居各线路之首。",
+        "body": "首尔交通公社11日公布的今年第一季度（1月至3月）免费乘车使用情况分析显示，首尔地铁1号线乘客中65岁以上老年免费乘车者占21.6%。这意味着该线路每5名乘客中就有超过1人属于老年免费乘车。按线路看，1号线之后依次为8号线18.8%、5号线17.3%、3号线16.8%、7号线16.5%，2号线最低，为10.6%。按车站看，靠近京东市场的祭基洞站比例最高，在约144万名上车乘客中约68万人为老年免费乘车者，占47.2%。其后为东庙前站42.0%、清凉里站35.9%、钟路3街站32.4%。首尔地铁整体老年免费乘车比例从2024年的14.6%升至去年的15.0%和今年的15.1%。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Línea 1 del metro de Seúl: viajes gratuitos de mayores alcanzan 21,6%",
+        "excerpt": "Seoul Metro informó el 11 de mayo que, en el primer trimestre, los viajes gratuitos de mayores representaron el 21,6% de los usuarios de la Línea 1.",
+        "body": "Según el análisis de Seoul Metro sobre el uso de viajes gratuitos en el primer trimestre de este año, publicado el 11 de mayo, las personas de 65 años o más que viajaron gratis representaron el 21,6% de los usuarios de la Línea 1 del metro de Seúl. Es decir, más de uno de cada cinco pasajeros de esa línea perteneció a esta categoría. Por líneas, después de la Línea 1 siguieron la Línea 8 con 18,8%, la Línea 5 con 17,3%, la Línea 3 con 16,8% y la Línea 7 con 16,5%; la Línea 2 tuvo la proporción más baja, con 10,6%. Por estaciones, Jegi-dong, cerca del mercado Gyeongdong, registró el mayor nivel: unos 680.000 de alrededor de 1,44 millones de abordajes, el 47,2%. Le siguieron Dongmyo, Cheongnyangni y Jongno 3-ga. En toda la red, la proporción subió de 14,6% en 2024 a 15,0% el año pasado y 15,1% este año. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Linha 1 do metrô de Seul tem 21,6% de viagens gratuitas de idosos",
+        "excerpt": "A Seoul Metro informou em 11 de maio que, no primeiro trimestre, idosos em viagens gratuitas representaram 21,6% dos usuários da Linha 1, maior índice da rede.",
+        "body": "Segundo análise da Seoul Metro sobre o uso de gratuidades no primeiro trimestre deste ano, divulgada em 11 de maio, passageiros de 65 anos ou mais com direito a viagem gratuita representaram 21,6% dos usuários da Linha 1 do metrô de Seul. Isso equivale a mais de um em cada cinco passageiros da linha. Por linha, depois da Linha 1 vieram a Linha 8, com 18,8%, a Linha 5, com 17,3%, a Linha 3, com 16,8%, e a Linha 7, com 16,5%; a Linha 2 teve o menor índice, 10,6%. Por estação, Jegi-dong, próxima ao Mercado Gyeongdong, registrou a maior proporção: cerca de 680 mil de aproximadamente 1,44 milhão de embarques, ou 47,2%, foram de idosos com gratuidade. Dongmyo, Cheongnyangni e Jongno 3-ga vieram em seguida. Em toda a rede, a proporção subiu de 14,6% em 2024 para 15,0% no ano passado e 15,1% neste ano. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Seouls U-Bahn-Linie 1: Seniorenfreifahrten erreichen 21,6 Prozent",
+        "excerpt": "Seoul Metro teilte am 11. Mai mit, dass Seniorenfreifahrten im ersten Quartal 21,6% der Fahrgäste auf Linie 1 ausmachten, der höchste Wert im Netz.",
+        "body": "Nach einer am 11. Mai veröffentlichten Analyse von Seoul Metro zur Nutzung kostenloser Fahrten im ersten Quartal dieses Jahres machten Fahrgäste ab 65 Jahren mit Seniorenfreifahrt 21,6% der Nutzer der Seouler U-Bahn-Linie 1 aus. Damit gehört mehr als jeder fünfte Fahrgast dieser Linie zu dieser Gruppe. Nach Linien folgten Linie 8 mit 18,8%, Linie 5 mit 17,3%, Linie 3 mit 16,8% und Linie 7 mit 16,5%; den niedrigsten Anteil hatte Linie 2 mit 10,6%. Nach Stationen lag Jegi-dong nahe dem Gyeongdong-Markt vorn: Von rund 1,44 Millionen Einstiegen entfielen etwa 680.000, also 47,2%, auf Seniorenfreifahrten. Danach folgten Dongmyo, Cheongnyangni und Jongno 3-ga. Im gesamten Seouler U-Bahn-Netz stieg der Anteil von 14,6% im Jahr 2024 auf 15,0% im Vorjahr und 15,1% in diesem Jahr. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Métro de Séoul ligne 1 : les trajets gratuits seniors atteignent 21,6%",
+        "excerpt": "Seoul Metro a indiqué le 11 mai que les trajets gratuits des 65 ans et plus représentaient 21,6% des usagers de la ligne 1 au premier trimestre.",
+        "body": "Selon l’analyse de Seoul Metro sur l’utilisation des trajets gratuits au premier trimestre de cette année, publiée le 11 mai, les passagers de 65 ans et plus bénéficiant de la gratuité représentaient 21,6% des usagers de la ligne 1 du métro de Séoul. Cela signifie que plus d’un passager sur cinq de cette ligne entrait dans cette catégorie. Par ligne, la ligne 1 était suivie de la ligne 8 à 18,8%, de la ligne 5 à 17,3%, de la ligne 3 à 16,8% et de la ligne 7 à 16,5%; la ligne 2 affichait le taux le plus bas, à 10,6%. Par station, Jegi-dong, près du marché Gyeongdong, arrivait en tête: environ 680.000 des quelque 1,44 million de montées, soit 47,2%, concernaient des seniors voyageant gratuitement. Dongmyo, Cheongnyangni et Jongno 3-ga suivaient. Dans tout le réseau, la part est passée de 14,6% en 2024 à 15,0% l’an dernier et 15,1% cette année. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الخط 1 في مترو سيول يسجل 21.6% من رحلات كبار السن المجانية",
+        "excerpt": "أعلنت شركة سيول مترو في 11 مايو أن رحلات كبار السن المجانية شكلت 21.6% من مستخدمي الخط 1 في الربع الأول، وهي النسبة الأعلى بين الخطوط.",
+        "body": "بحسب تحليل شركة سيول مترو لاستخدام الرحلات المجانية في الربع الأول من هذا العام، والمنشور في 11 مايو، شكل الركاب البالغون 65 عاما فأكثر والمستفيدون من مجانية كبار السن 21.6% من مستخدمي الخط 1 في مترو سيول. وهذا يعني أن أكثر من راكب واحد من كل خمسة على هذا الخط يندرج ضمن هذه الفئة. وعلى مستوى الخطوط، جاء بعد الخط 1 كل من الخط 8 بنسبة 18.8%، والخط 5 بنسبة 17.3%، والخط 3 بنسبة 16.8%، والخط 7 بنسبة 16.5%، بينما سجل الخط 2 أدنى نسبة عند 10.6%. وعلى مستوى المحطات، سجلت محطة جيغي دونغ القريبة من سوق غيونغدونغ أعلى نسبة، إذ بلغ عدد كبار السن المستفيدين من المجانية نحو 680 ألفا من أصل حوالي 1.44 مليون راكب، أي 47.2%. تلتها دونغميو وتشونغنيانغني وجونغنو 3 غا. وارتفعت النسبة في شبكة مترو سيول كلها من 14.6% في 2024 إلى 15.0% العام الماضي و15.1% هذا العام. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सियोल मेट्रो लाइन 1 पर वरिष्ठ मुफ्त यात्रा 21.6%, नेटवर्क में सबसे अधिक",
+        "excerpt": "सियोल मेट्रो ने 11 मई को बताया कि पहली तिमाही में लाइन 1 के यात्रियों में 65 वर्ष या उससे अधिक उम्र के मुफ्त यात्रा करने वालों की हिस्सेदारी 21.6% रही।",
+        "body": "सियोल मेट्रो द्वारा 11 मई को जारी इस वर्ष की पहली तिमाही, जनवरी से मार्च, की मुफ्त यात्रा उपयोग रिपोर्ट के अनुसार सियोल मेट्रो लाइन 1 के यात्रियों में 65 वर्ष या उससे अधिक आयु के वरिष्ठ मुफ्त यात्रियों की हिस्सेदारी 21.6% रही। यानी इस लाइन पर हर पांच में से एक से अधिक यात्री इस श्रेणी में था। लाइनवार देखें तो लाइन 1 के बाद लाइन 8 पर 18.8%, लाइन 5 पर 17.3%, लाइन 3 पर 16.8% और लाइन 7 पर 16.5% दर्ज हुआ, जबकि लाइन 2 पर सबसे कम 10.6% रहा। स्टेशनवार, ग्योंगडोंग बाजार के पास जेगी-डोंग स्टेशन सबसे ऊपर रहा, जहां कुल लगभग 14.4 लाख बोर्डिंग में से करीब 6.8 लाख, यानी 47.2%, वरिष्ठ मुफ्त यात्री थे। इसके बाद डोंगम्यो, चेओंगन्यांगनी और जोंगनो 3-गा रहे। पूरी सियोल मेट्रो में यह अनुपात 2024 के 14.6% से बढ़कर पिछले वर्ष 15.0% और इस वर्ष 15.1% हो गया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Jalur 1 Subway Seoul Catat 21,6% Penumpang Lansia Gratis, Tertinggi",
+        "excerpt": "Seoul Metro pada 11 Mei menyatakan bahwa pada kuartal pertama, penumpang lansia gratis mencapai 21,6% pengguna Jalur 1, tertinggi di antara semua jalur.",
+        "body": "Menurut analisis Seoul Metro atas penggunaan perjalanan gratis pada kuartal pertama tahun ini, yang dirilis 11 Mei, penumpang berusia 65 tahun ke atas yang menggunakan fasilitas gratis mencapai 21,6% dari pengguna Jalur 1 subway Seoul. Artinya, lebih dari satu dari lima penumpang di jalur itu merupakan penumpang lansia gratis. Berdasarkan jalur, setelah Jalur 1 terdapat Jalur 8 sebesar 18,8%, Jalur 5 sebesar 17,3%, Jalur 3 sebesar 16,8%, dan Jalur 7 sebesar 16,5%, sementara Jalur 2 paling rendah dengan 10,6%. Berdasarkan stasiun, Stasiun Jegi-dong dekat Pasar Gyeongdong mencatat rasio tertinggi: sekitar 680.000 dari total sekitar 1,44 juta penumpang naik, atau 47,2%, adalah lansia gratis. Berikutnya Dongmyo, Cheongnyangni, dan Jongno 3-ga. Di seluruh jaringan subway Seoul, proporsi ini naik dari 14,6% pada 2024 menjadi 15,0% tahun lalu dan 15,1% tahun ini. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "711087ebb5df",
+    "slug": "챗gpt-파일-첨부-4시간-오류-과제-업무-못해-곳곳서-불편-857271",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T22:44:36.183Z",
+    "updatedAt": "2026-05-11T22:44:36.183Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901968/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901968/2",
+    "titleFingerprint": "6e30a2ef1092abfccc1700819e25776418aeccac",
+    "dedupKeys": [
+      "711087ebb5dff9f67569f6a606b9c64aa9438b23",
+      "6e30a2ef1092abfccc1700819e25776418aeccac",
+      "57036d767f3683057301e430ad4cfde0236545a1"
+    ],
+    "imageUrl": "/images/articles/711087ebb5df.jpg",
+    "i18n": {
+      "ko": {
+        "title": "챗GPT 파일 첨부 오류 4시간 만에 복구…과제·업무 차질 불편 확산",
+        "excerpt": "오픈AI는 11일 공식 상태 페이지에서 챗GPT 파일 업로드와 코덱스 클라우드 작업 오류 가능성을 알렸고, 한국 시간 오전 10시 23분 시작된 장애는 오후 2시 34분 복구됐다.",
+        "body": "오픈AI의 챗GPT에서 파일 첨부 기능 오류가 발생해 이용자들이 과제와 업무 처리에 불편을 겪었다. 회사는 11일 공식 상태 페이지를 통해 챗GPT 파일 업로드와 코덱스 클라우드 작업에서 오류가 발생할 수 있다고 공지했다. 장애는 한국 시간 기준 11일 오전 10시 23분 처음 발생했으며 약 4시간 뒤인 오후 2시 34분 시스템이 정상화됐다. 정확한 원인은 공개되지 않았다. 같은 시간 코덱스에서도 클라우드를 활용한 작업 장애가 있었지만 낮 12시 23분경 해결됐다. 최근 개인과 기업의 AI 활용이 급증하면서 서비스 장애 사례도 이어지고 있다. 지난달에는 앤스로픽에서 이용자 집중으로 로그인 불가와 접속 지연이 발생했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "ChatGPT File Attachment Outage Restored After 4 Hours, Disrupting Work and Assignments",
+        "excerpt": "OpenAI said on its official status page on May 11 that ChatGPT file uploads and Codex cloud tasks could fail; the issue began at 10:23 a.m. Korea time and was restored at 2:34 p.m.",
+        "body": "OpenAI’s ChatGPT experienced an error in its file attachment feature, causing inconvenience for users trying to complete assignments and work tasks. On May 11, the company said on its official status page that errors could occur in ChatGPT file uploads and Codex cloud-based tasks. According to OpenAI, the issue first appeared at 10:23 a.m. Korea time on May 11 and the system returned to normal about four hours later, at 2:34 p.m. The exact cause has not been disclosed. Codex also had trouble with cloud-based work during the same period, but that problem was resolved around 12:23 p.m. As AI use grows rapidly among individuals and companies, service disruptions have continued to occur. Last month, Anthropic also saw login failures and access delays as many users concentrated on the service. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ChatGPTのファイル添付障害、4時間で復旧…課題・業務に支障広がる",
+        "excerpt": "OpenAIは11日、公式ステータスページでChatGPTのファイルアップロードとCodexのクラウド作業でエラーが起きる可能性を告知し、韓国時間10時23分に始まった障害は14時34分に復旧した。",
+        "body": "OpenAIのChatGPTでファイル添付機能にエラーが発生し、利用者が課題や業務の処理で不便を訴えた。同社は11日、公式ステータスページを通じて、ChatGPTのファイルアップロードとCodexのクラウド作業でエラーが発生する可能性があると明らかにした。OpenAIによると、障害は韓国時間11日午前10時23分に初めて発生し、約4時間後の午後2時34分にシステムが正常化した。正確な原因はまだ公開されていない。同じ時間帯にCodexでもクラウドを利用した作業で障害が起きたが、午後0時23分ごろ解決された。個人や企業でAI活用が急増するなか、AIサービスの障害も相次いでいる。先月にはAnthropicで利用者集中によりログイン不能や接続遅延が発生した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "ChatGPT文件附件故障4小时后恢复，作业和办公受影响",
+        "excerpt": "OpenAI于11日在官方状态页表示，ChatGPT文件上传和Codex云端任务可能出现错误；该故障于韩国时间上午10时23分开始，下午2时34分恢复。",
+        "body": "OpenAI旗下ChatGPT的文件附件功能发生错误，导致用户在完成作业和处理工作时遭遇不便。OpenAI于11日通过官方状态页面表示，ChatGPT文件上传以及Codex云端任务可能发生错误。公司称，该故障最早出现在韩国时间11日上午10时23分，约4小时后的下午2时34分系统恢复正常。具体原因尚未公开。同一时间，Codex在利用云端进行任务时也出现障碍，但该问题已于中午12时23分左右解决。随着个人和企业对AI的使用迅速增加，AI服务故障也持续出现。上月，Anthropic曾因大量用户集中使用而发生无法登录和连接延迟。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "ChatGPT restablece los archivos adjuntos tras 4 horas de fallos en tareas y trabajo",
+        "excerpt": "OpenAI informó el 11 en su página oficial de estado que podían fallar las cargas de archivos en ChatGPT y las tareas en la nube de Codex; el incidente empezó a las 10:23 en Corea y se resolvió a las 14:34.",
+        "body": "La función de archivos adjuntos de ChatGPT, de OpenAI, registró un error que causó molestias a usuarios que intentaban realizar tareas académicas y laborales. La compañía informó el 11, en su página oficial de estado, que podían producirse errores en la carga de archivos de ChatGPT y en los trabajos en la nube de Codex. Según OpenAI, el fallo comenzó a las 10:23 a.m. del 11, hora de Corea, y el sistema volvió a la normalidad unas cuatro horas después, a las 2:34 p.m. La causa exacta aún no se ha divulgado. Durante el mismo periodo, Codex también sufrió problemas en tareas basadas en la nube, aunque se resolvieron alrededor de las 12:23 p.m. Con el rápido aumento del uso de la IA por personas y empresas, continúan los incidentes en servicios de IA. El mes pasado, Anthropic también tuvo fallos de inicio de sesión y retrasos de acceso por concentración de usuarios. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "ChatGPT recupera anexos após falha de 4 horas que afetou tarefas e trabalho",
+        "excerpt": "A OpenAI informou no dia 11, em sua página oficial de status, que uploads de arquivos no ChatGPT e tarefas em nuvem do Codex poderiam falhar; o problema começou às 10h23 na Coreia e foi resolvido às 14h34.",
+        "body": "O ChatGPT, da OpenAI, apresentou erro na função de anexar arquivos, causando transtornos a usuários que tentavam concluir tarefas acadêmicas e de trabalho. No dia 11, a empresa informou em sua página oficial de status que poderiam ocorrer erros em uploads de arquivos do ChatGPT e em tarefas em nuvem do Codex. Segundo a OpenAI, a falha começou às 10h23 do dia 11, no horário da Coreia, e o sistema voltou ao normal cerca de quatro horas depois, às 14h34. A causa exata ainda não foi divulgada. No mesmo período, o Codex também teve problemas em trabalhos usando a nuvem, mas a questão foi resolvida por volta das 12h23. Com o rápido crescimento do uso de IA por indivíduos e empresas, falhas em serviços de IA continuam ocorrendo. No mês passado, a Anthropic também registrou impossibilidade de login e atrasos de acesso devido à concentração de usuários. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "ChatGPT-Dateianhänge nach 4 Stunden wiederhergestellt, Arbeit und Aufgaben betroffen",
+        "excerpt": "OpenAI teilte am 11. auf der offiziellen Statusseite mit, dass ChatGPT-Dateiuploads und Codex-Cloud-Aufgaben fehlerhaft sein könnten; die Störung begann um 10:23 Uhr koreanischer Zeit und endete um 14:34 Uhr.",
+        "body": "Bei ChatGPT von OpenAI kam es zu einem Fehler bei der Funktion für Dateianhänge, wodurch Nutzer bei Aufgaben und beruflichen Arbeiten beeinträchtigt wurden. Das Unternehmen teilte am 11. auf seiner offiziellen Statusseite mit, dass bei ChatGPT-Dateiuploads und cloudbasierten Codex-Aufgaben Fehler auftreten könnten. Nach Angaben von OpenAI begann die Störung am 11. um 10:23 Uhr koreanischer Zeit und das System normalisierte sich rund vier Stunden später um 14:34 Uhr. Die genaue Ursache wurde noch nicht veröffentlicht. Zur gleichen Zeit gab es auch bei Codex Probleme mit cloudbasierten Arbeiten, die jedoch gegen 12:23 Uhr behoben wurden. Da die Nutzung von KI durch Privatpersonen und Unternehmen stark zunimmt, treten weiterhin Ausfälle von KI-Diensten auf. Im vergangenen Monat kam es auch bei Anthropic wegen vieler gleichzeitiger Nutzer zu Login-Problemen und Zugriffsverzögerungen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "ChatGPT rétablit les pièces jointes après 4 heures de panne, tâches et travail touchés",
+        "excerpt": "OpenAI a indiqué le 11 sur sa page officielle d’état que les téléversements de fichiers ChatGPT et les tâches cloud de Codex pouvaient échouer; l’incident a commencé à 10 h 23 en Corée et s’est terminé à 14 h 34.",
+        "body": "ChatGPT d’OpenAI a connu une erreur de sa fonction de pièce jointe, ce qui a gêné des utilisateurs dans leurs devoirs et leur travail. Le 11, l’entreprise a indiqué sur sa page officielle d’état que des erreurs pouvaient survenir lors des téléversements de fichiers dans ChatGPT et des tâches cloud de Codex. Selon OpenAI, l’incident a commencé le 11 à 10 h 23, heure de Corée, et le système est revenu à la normale environ quatre heures plus tard, à 14 h 34. La cause exacte n’a pas encore été rendue publique. Au même moment, Codex a également rencontré des difficultés pour les travaux utilisant le cloud, mais le problème a été résolu vers 12 h 23. Alors que l’usage de l’IA augmente rapidement chez les particuliers et les entreprises, les perturbations de services d’IA se poursuivent. Le mois dernier, Anthropic a aussi connu des impossibilités de connexion et des retards d’accès en raison d’un afflux d’utilisateurs. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تعطل مرفقات ChatGPT لأربع ساعات قبل عودتها وتأثر الدراسة والعمل",
+        "excerpt": "أعلنت OpenAI في 11 مايو عبر صفحة الحالة الرسمية أن رفع الملفات في ChatGPT ومهام Codex السحابية قد تشهد أخطاء؛ بدأ الخلل الساعة 10:23 صباحا بتوقيت كوريا وعاد النظام الساعة 2:34 مساء.",
+        "body": "شهدت خدمة ChatGPT التابعة لشركة OpenAI خللا في ميزة إرفاق الملفات، ما تسبب في إزعاج للمستخدمين أثناء إنجاز الواجبات والمهام العملية. وأعلنت الشركة في 11 مايو عبر صفحة الحالة الرسمية أن أخطاء قد تحدث في رفع الملفات على ChatGPT وفي مهام Codex المعتمدة على السحابة. ووفقا لـOpenAI، ظهر الخلل أول مرة في الساعة 10:23 صباحا يوم 11 مايو بتوقيت كوريا، وعاد النظام إلى وضعه الطبيعي بعد نحو أربع ساعات، عند الساعة 2:34 مساء. ولم يتم الكشف عن السبب الدقيق حتى الآن. وفي الوقت نفسه، واجهت Codex عطلا في الأعمال السحابية، لكن المشكلة حلت قرابة الساعة 12:23 ظهرا. ومع الزيادة السريعة في استخدام الذكاء الاصطناعي من قبل الأفراد والشركات، تتكرر أعطال خدمات الذكاء الاصطناعي. وفي الشهر الماضي، شهدت Anthropic تعذر تسجيل الدخول وتأخر الوصول بسبب تركز عدد كبير من المستخدمين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ChatGPT फाइल अटैचमेंट 4 घंटे बाद बहाल, असाइनमेंट और काम प्रभावित",
+        "excerpt": "OpenAI ने 11 मई को आधिकारिक स्टेटस पेज पर बताया कि ChatGPT फाइल अपलोड और Codex क्लाउड कार्यों में त्रुटि आ सकती है; कोरिया समयानुसार 10:23 बजे शुरू हुई समस्या 2:34 बजे ठीक हुई।",
+        "body": "OpenAI के ChatGPT में फाइल अटैचमेंट सुविधा में त्रुटि आई, जिससे उपयोगकर्ताओं को असाइनमेंट और कामकाज पूरा करने में परेशानी हुई। कंपनी ने 11 मई को अपने आधिकारिक स्टेटस पेज पर बताया कि ChatGPT में फाइल अपलोड और Codex के क्लाउड आधारित कार्यों में त्रुटि हो सकती है। OpenAI के अनुसार, समस्या 11 मई को कोरिया समयानुसार सुबह 10:23 बजे पहली बार सामने आई और लगभग चार घंटे बाद दोपहर 2:34 बजे सिस्टम सामान्य हो गया। सटीक कारण अभी सार्वजनिक नहीं किया गया है। इसी अवधि में Codex में भी क्लाउड का उपयोग करने वाले कार्यों में बाधा आई, लेकिन वह समस्या दोपहर 12:23 बजे के आसपास हल हो गई। व्यक्तिगत और कंपनियों में AI के उपयोग में तेज वृद्धि के साथ AI सेवाओं में रुकावटें भी जारी हैं। पिछले महीने Anthropic में भी उपयोगकर्ताओं की अधिकता से लॉगिन न हो पाने और पहुंच में देरी की समस्या हुई थी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lampiran File ChatGPT Pulih Setelah 4 Jam, Tugas dan Pekerjaan Sempat Terganggu",
+        "excerpt": "OpenAI pada 11 Mei menyatakan di halaman status resmi bahwa unggahan file ChatGPT dan tugas cloud Codex dapat mengalami error; gangguan mulai pukul 10.23 waktu Korea dan pulih pukul 14.34.",
+        "body": "Fitur lampiran file pada ChatGPT milik OpenAI mengalami error, membuat pengguna terganggu saat mengerjakan tugas dan pekerjaan. Pada 11 Mei, perusahaan menyampaikan melalui halaman status resminya bahwa error dapat terjadi pada unggahan file ChatGPT dan pekerjaan berbasis cloud di Codex. Menurut OpenAI, gangguan pertama kali muncul pada 11 Mei pukul 10.23 waktu Korea, lalu sistem kembali normal sekitar empat jam kemudian, pukul 14.34. Penyebab pastinya belum diungkap. Pada waktu yang sama, Codex juga mengalami gangguan pada pekerjaan yang memanfaatkan cloud, tetapi masalah itu selesai sekitar pukul 12.23. Seiring melonjaknya penggunaan AI oleh individu dan perusahaan, gangguan layanan AI terus terjadi. Bulan lalu, Anthropic juga mengalami gagal login dan keterlambatan akses karena banyak pengguna terkonsentrasi pada layanan tersebut. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "1697a6689467",
+    "slug": "국세청-메리츠증권-세금-탈루-포착-특별세무조사-619991",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T22:43:28.481Z",
+    "updatedAt": "2026-05-11T22:43:28.481Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133901842/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133901842/2",
+    "titleFingerprint": "606bc025b4229603ce555435c5e5f4d4ec76d6e6",
+    "dedupKeys": [
+      "1697a66894672987686172b15f2a3dfd47cbbc76",
+      "606bc025b4229603ce555435c5e5f4d4ec76d6e6",
+      "baae0b95965b3a61b40fbf3b4baaa5ee802fa262"
+    ],
+    "imageUrl": "/images/articles/1697a6689467.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청, 메리츠증권 세금 탈루 정황 포착…특별세무조사 착수",
+        "excerpt": "국세청이 11일 메리츠증권 본사에 조사요원을 보내 특별 세무조사에 착수했다. 세금 탈루 정황이 포착된 것으로 알려지며 금융권 조사 확대 가능성이 제기된다.",
+        "body": "국세청이 11일 메리츠증권에 대한 비정기 특별 세무조사에 착수했다. 금융업계에 따르면 서울지방국세청 조사4국은 이날 서울 영등포구 메리츠증권 본사에 조사요원을 보내 회계자료 확보에 나섰다. 조사4국은 탈세 의혹이나 비자금 조성 혐의 등이 있을 때 비정기 심층·특별 세무조사를 전담하는 조직이다. 국세청은 메리츠증권의 세금 탈루 정황을 포착한 것으로 알려졌다. 메리츠증권은 공격적인 투자은행(IB)·부동산 프로젝트파이낸싱(PF) 영업을 확대해 왔으나 내부통제 논란도 이어졌다. 금융감독원은 2024년 PF 대출 만기 연장 과정에서 과도한 수수료를 받았다는 의혹으로 현장검사를 진행했다. 하나금융지주와 하나은행에 이어 증권업계로 조사 범위가 넓어지며 금융권 전반으로 세정 당국 조사가 확대될 수 있다는 관측이 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "NTS Opens Special Tax Audit of Meritz Securities Over Suspected Evasion",
+        "excerpt": "South Korea’s National Tax Service sent investigators to Meritz Securities’ headquarters on May 11 for a special tax audit after reportedly detecting signs of tax evasion.",
+        "body": "South Korea’s National Tax Service began an irregular special tax audit of Meritz Securities on May 11. According to the financial industry, the Seoul Regional Tax Office’s Investigation Bureau 4 sent investigators to the company’s headquarters in Yeongdeungpo, Seoul, to secure accounting materials. The bureau handles in-depth and special tax audits when companies face suspicions of tax evasion or slush fund creation. The tax authority is known to have detected signs of tax evasion at Meritz Securities. The firm has expanded aggressive investment banking and real estate project financing operations, while controversy over internal controls has continued. In 2024, the Financial Supervisory Service conducted an on-site inspection over allegations that Meritz charged excessive fees while extending PF loan maturities. After irregular tax audits of Hana Financial Group and Hana Bank, the probe’s expansion into the securities industry is raising views that tax authorities may widen scrutiny across the financial sector. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓国国税庁、メリッツ証券の脱税疑惑で特別税務調査に着手",
+        "excerpt": "韓国国税庁は11日、メリッツ証券本社に調査官を派遣し特別税務調査に入った。脱税の兆候を把握したとされ、金融圏全体への調査拡大観測が出ている。",
+        "body": "韓国国税庁は11日、メリッツ証券に対する非定期の特別税務調査に着手した。金融業界によると、ソウル地方国税庁調査4局は同日、ソウル永登浦区のメリッツ証券本社に調査官を送り、会計資料の確保などを進めた。調査4局は企業に脱税疑惑や裏金造成の疑いがある場合、非定期の深層・特別税務調査を担当する組織だ。国税庁はメリッツ証券の税金逃れの兆候をつかんだとされる。同社は投資銀行（IB）や不動産プロジェクトファイナンス（PF）事業を積極的に拡大してきた一方、内部統制をめぐる論議も続いていた。金融監督院は2024年、PF融資の満期延長過程で過度な手数料を受け取った疑惑に関連し現場検査を行った。ハナ金融持株とハナ銀行に続き証券業界へ調査範囲が広がり、金融圏全般に税務当局の調査が拡大する可能性が指摘されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国国税厅对Meritz证券启动特别税务调查，关注逃税迹象",
+        "excerpt": "韩国国税厅11日向Meritz证券总部派出调查人员，启动特别税务调查。据悉税务机关已发现逃税迹象，外界关注金融业调查是否扩大。",
+        "body": "韩国国税厅11日对Meritz证券启动非定期特别税务调查。据金融业消息，首尔地方国税厅调查4局当天向位于首尔永登浦区的Meritz证券总部派出调查人员，着手 확보会计资料。调查4局是在企业存在逃税、设立秘密资金等嫌疑时，负责非定期深入及特别税务调查的机构。据悉，国税厅已发现Meritz证券存在税款逃漏迹象。Meritz证券此前持续扩大进攻型投资银行（IB）和房地产项目融资（PF）业务，但围绕内部控制的争议也不断。韩国金融监督院曾在2024年就该公司在PF贷款展期过程中涉嫌向开发商收取过高费用一事进行现场检查。继对韩亚金融控股和韩亚银行开展非定期税务调查后，调查范围扩至证券业，市场出现税务机关或将调查扩大至整个金融圈的看法。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Hacienda surcoreana audita a Meritz Securities por presunta evasión fiscal",
+        "excerpt": "El Servicio Nacional de Impuestos de Corea del Sur inició el 11 de mayo una auditoría fiscal especial en la sede de Meritz Securities tras detectar presuntos indicios de evasión.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur inició el 11 de mayo una auditoría fiscal especial no programada a Meritz Securities. Según el sector financiero, la Oficina de Investigación 4 de la Agencia Tributaria Regional de Seúl envió inspectores a la sede de la compañía en Yeongdeungpo, Seúl, para asegurar documentos contables. Esa unidad se encarga de auditorías fiscales especiales y en profundidad cuando existen sospechas de evasión fiscal o creación de fondos secretos. La autoridad tributaria habría detectado indicios de evasión en Meritz Securities. La firma ha ampliado de forma agresiva sus negocios de banca de inversión y financiación de proyectos inmobiliarios, mientras continuaban controversias sobre controles internos. En 2024, el Servicio de Supervisión Financiera realizó una inspección in situ por acusaciones de cobro de comisiones excesivas durante extensiones de vencimiento de préstamos PF. Tras las auditorías no programadas a Hana Financial Group y Hana Bank, la entrada en el sector de valores alimenta la posibilidad de una investigación más amplia en las finanzas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Fisco sul-coreano mira Meritz Securities em auditoria especial por evasão",
+        "excerpt": "O Serviço Nacional de Impostos da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial na sede da Meritz Securities após detectar indícios de evasão tributária.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial e não programada contra a Meritz Securities. Segundo o setor financeiro, o Departamento de Investigação 4 da Receita Regional de Seul enviou agentes à sede da empresa em Yeongdeungpo, Seul, para obter documentos contábeis. A unidade conduz auditorias profundas e especiais quando há suspeitas de evasão fiscal ou criação de fundos paralelos. A autoridade tributária teria identificado indícios de sonegação na Meritz Securities. A empresa vinha ampliando agressivamente negócios de banco de investimento e financiamento de projetos imobiliários, enquanto controvérsias sobre controles internos persistiam. Em 2024, o Serviço de Supervisão Financeira realizou inspeção no local por suspeitas de cobrança de taxas excessivas durante a prorrogação de vencimentos de empréstimos PF. Após auditorias não programadas sobre Hana Financial Group e Hana Bank, a chegada ao setor de valores levanta avaliações de que a investigação pode se expandir pelo mercado financeiro. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Südkoreas Steuerbehörde prüft Meritz Securities wegen möglicher Steuerflucht",
+        "excerpt": "Südkoreas National Tax Service leitete am 11. Mai eine Sondersteuerprüfung bei Meritz Securities ein, nachdem offenbar Hinweise auf Steuerhinterziehung festgestellt wurden.",
+        "body": "Südkoreas National Tax Service hat am 11. Mai eine außerplanmäßige Sondersteuerprüfung bei Meritz Securities begonnen. Nach Angaben aus der Finanzbranche entsandte die Untersuchungsabteilung 4 des regionalen Steueramts Seoul Prüfer in die Zentrale des Unternehmens in Yeongdeungpo, Seoul, um Buchhaltungsunterlagen zu sichern. Die Abteilung ist für vertiefte und spezielle Steuerprüfungen zuständig, wenn bei Unternehmen Verdacht auf Steuerhinterziehung oder die Bildung geheimer Fonds besteht. Die Steuerbehörde soll Hinweise auf Steuerverkürzung bei Meritz Securities entdeckt haben. Das Unternehmen hat sein Investmentbanking- und Immobilien-Projektfinanzierungsgeschäft aggressiv ausgebaut, während Kontroversen über interne Kontrollen anhielten. Die Finanzaufsicht führte 2024 eine Vor-Ort-Prüfung wegen des Verdachts durch, dass Meritz bei Verlängerungen von PF-Kreditlaufzeiten überhöhte Gebühren verlangt habe. Nach außerplanmäßigen Prüfungen bei Hana Financial Group und Hana Bank nährt die Ausweitung auf die Wertpapierbranche die Erwartung, dass die Steuerprüfung den gesamten Finanzsektor erfassen könnte. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le fisc sud-coréen lance un contrôle spécial visant Meritz Securities",
+        "excerpt": "Le Service national des impôts sud-coréen a lancé le 11 mai un contrôle fiscal spécial au siège de Meritz Securities après avoir relevé des signes présumés d’évasion fiscale.",
+        "body": "Le Service national des impôts de Corée du Sud a lancé le 11 mai un contrôle fiscal spécial et non programmé visant Meritz Securities. Selon le secteur financier, le Bureau d’enquête 4 de l’administration fiscale régionale de Séoul a envoyé des agents au siège de la société à Yeongdeungpo, Séoul, afin de saisir des documents comptables. Cette unité mène des contrôles approfondis et spéciaux lorsqu’une entreprise est soupçonnée d’évasion fiscale ou de constitution de fonds occultes. L’administration aurait repéré des indices de fraude fiscale chez Meritz Securities. La société a développé de manière offensive ses activités de banque d’investissement et de financement de projets immobiliers, tandis que des controverses sur le contrôle interne persistaient. En 2024, le Service de supervision financière a mené une inspection sur place concernant des soupçons de commissions excessives lors de prolongations d’échéances de prêts PF. Après les contrôles non programmés de Hana Financial Group et Hana Bank, l’extension au secteur des titres alimente l’idée d’un élargissement de l’enquête fiscale à l’ensemble de la finance. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الضرائب الكورية تفتح تدقيقا خاصا على ميريتز للأوراق المالية",
+        "excerpt": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية في 11 مايو تدقيقا ضريبيا خاصا في مقر ميريتز للأوراق المالية بعد رصد مؤشرات على تهرب ضريبي محتمل.",
+        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية في 11 مايو تدقيقا ضريبيا خاصا وغير دوري على ميريتز للأوراق المالية. وبحسب القطاع المالي، أرسل مكتب التحقيق الرابع التابع لمكتب الضرائب الإقليمي في سيول محققين إلى مقر الشركة في يونغديونغبو بسيول للحصول على مواد محاسبية. ويتولى هذا المكتب التحقيقات الضريبية الخاصة والمعمقة عندما تكون هناك شبهات تهرب ضريبي أو إنشاء صناديق سرية داخل الشركات. وتردد أن السلطات الضريبية رصدت مؤشرات على تهرب ضريبي لدى ميريتز. وقد وسعت الشركة أعمالها بقوة في الخدمات المصرفية الاستثمارية وتمويل المشاريع العقارية، مع استمرار الجدل حول الضوابط الداخلية. وفي 2024 أجرى جهاز الرقابة المالية تفتيشا ميدانيا بشأن مزاعم تقاضي رسوم مفرطة أثناء تمديد آجال قروض تمويل المشاريع. وبعد تحقيقات غير دورية في هانا فايننشال غروب وبنك هانا، يثير انتقال التحقيق إلى قطاع الأوراق المالية توقعات بإمكان توسيعه إلى القطاع المالي ككل. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "मेरिट्ज सिक्योरिटीज पर कर चोरी के संकेत, कोरियाई कर विभाग की विशेष जांच",
+        "excerpt": "दक्षिण कोरिया की राष्ट्रीय कर सेवा ने 11 मई को मेरिट्ज सिक्योरिटीज के मुख्यालय में विशेष कर जांच शुरू की। कर चोरी के संकेत मिलने की जानकारी है।",
+        "body": "दक्षिण कोरिया की राष्ट्रीय कर सेवा ने 11 मई को मेरिट्ज सिक्योरिटीज के खिलाफ अनियमित विशेष कर जांच शुरू की। वित्तीय उद्योग के अनुसार, सियोल क्षेत्रीय कर कार्यालय के जांच ब्यूरो 4 ने उसी दिन सियोल के येओंगदेउंगपो स्थित कंपनी मुख्यालय में जांच अधिकारियों को भेजकर लेखा 자료 확보 की कार्रवाई शुरू की। यह ब्यूरो कंपनियों में कर चोरी या गुप्त कोष बनाने जैसे संदेह होने पर गहन और विशेष कर जांच संभालता है। बताया गया है कि कर विभाग ने मेरिट्ज सिक्योरिटीज में कर चोरी के संकेत पकड़े हैं। कंपनी ने निवेश बैंकिंग और रियल एस्टेट प्रोजेक्ट फाइनेंसिंग कारोबार को आक्रामक रूप से बढ़ाया, लेकिन आंतरिक नियंत्रण को लेकर विवाद भी बने रहे। 2024 में वित्तीय पर्यवेक्षण सेवा ने PF ऋणों की परिपक्वता बढ़ाने की प्रक्रिया में अत्यधिक शुल्क लेने के आरोपों पर ऑन-साइट जांच की थी। हाना फाइनेंशियल ग्रुप और हाना बैंक की गैर-नियमित जांच के बाद जांच का दायरा प्रतिभूति उद्योग तक बढ़ने से पूरे वित्तीय क्षेत्र में कर अधिकारियों की जांच फैलने की संभावना जताई जा रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Otoritas Pajak Korea Audit Khusus Meritz Securities atas Dugaan Penghindaran Pajak",
+        "excerpt": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus di kantor pusat Meritz Securities setelah disebut mendeteksi indikasi penghindaran pajak.",
+        "body": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus tidak terjadwal terhadap Meritz Securities. Menurut industri keuangan, Biro Investigasi 4 Kantor Pajak Regional Seoul mengirim petugas ke kantor pusat perusahaan di Yeongdeungpo, Seoul, untuk mengamankan dokumen akuntansi. Biro ini menangani audit mendalam dan khusus ketika ada dugaan penghindaran pajak atau pembentukan dana gelap di perusahaan. Otoritas pajak disebut telah mendeteksi indikasi penggelapan pajak di Meritz Securities. Perusahaan selama ini memperluas bisnis investment banking dan pembiayaan proyek properti secara agresif, sementara kontroversi terkait pengendalian internal terus muncul. Pada 2024, Financial Supervisory Service melakukan pemeriksaan lapangan terkait dugaan pungutan biaya berlebihan dalam proses perpanjangan jatuh tempo pinjaman PF. Setelah audit tidak terjadwal terhadap Hana Financial Group dan Hana Bank, perluasan ke industri sekuritas memunculkan pandangan bahwa pemeriksaan otoritas pajak dapat melebar ke sektor keuangan secara umum. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "97a3883197d9",
     "slug": "단독50만원-대출-9일뒤-상품권-80만원-상환-변종-불법사채-기승-370823",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Jung Won-oh Kritik Oh Se-hoon: Pelonggaran Izin Tanah Picu Pasar Properti Seoul",
         "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jung Won-oh, pada 11 Mei menyebut Oh Se-hoon dari People Power Party secara impulsif melonggarkan aturan izin transaksi tanah di kawasan utama Seoul dan memanaskan pasar properti.",
         "body": "Jung Won-oh, kandidat wali kota Seoul dari Partai Demokrat, pada 11 Mei mengkritik kandidat People Power Party Oh Se-hoon atas perubahan sistem izin transaksi tanah di Jamsil, Samseong, Daechi, dan Cheongdam. Jung menilai Oh secara impulsif mencabut aturan di kawasan yang disebut “Jamsam-Daecheong”, lalu memperluasnya kembali sekitar sebulan kemudian, sehingga memicu pasar real estat. Sistem izin transaksi tanah mewajibkan persetujuan untuk transaksi di wilayah tertentu guna menekan permintaan spekulatif. Pelonggaran dan perluasan ulang dalam waktu singkat di kawasan inti Seoul diperkirakan memperbesar perdebatan soal stabilitas pasar dan kredibilitas kebijakan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f64456794664",
-    "slug": "위장결혼공문서-위조까지정부-부정청약-잡아낸다-781275",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T04:52:18.899Z",
-    "updatedAt": "2026-05-11T04:52:18.899Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043066",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043066",
-    "titleFingerprint": "45df597034de10170056ef4b45713295bc4e57f2",
-    "dedupKeys": [
-      "f6445679466492a74b75da82398389f303cfc0b7",
-      "45df597034de10170056ef4b45713295bc4e57f2",
-      "58202ac0be937895db39a8882062f86b47f213b5"
-    ],
-    "imageUrl": "/images/articles/f64456794664.png",
-    "i18n": {
-      "ko": {
-        "title": "부정청약 전수조사 착수, 위장결혼·공문서 위조까지 정부 합동 점검",
-        "excerpt": "국토교통부와 국무조정실 부동산 감독 추진단이 부정청약 근절을 위해 관계부처 합동 전수조사에 착수하고 부양가족 수 조작 등 의심 사례를 점검한다.",
-        "body": "국토교통부와 국무조정실 부동산 감독 추진단은 부정청약을 근절하기 위해 관계부처와 함께 전수조사에 착수한다. 조사 대상에는 부모를 허위로 부양가족에 올리거나 자녀를 위장전입시키는 방식으로 부양가족 수를 조작한 사례가 포함된다. 위장결혼이나 공문서 위조처럼 청약 자격을 꾸미는 행위도 점검 대상이다. 정부는 청약 과정의 형평성을 해치는 부정 행위를 확인해 주택 공급 질서를 바로잡겠다는 방침이다. 이번 합동 조사는 부정청약 의심 사례를 폭넓게 살펴 실수요자 보호와 제도 신뢰 회복에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Illegal Housing Subscription Probe Begins as Government Targets Fake Marriages and Forged Documents",
-        "excerpt": "The Ministry of Land, Infrastructure and Transport and the real estate supervision task force under the Office for Government Policy Coordination are launching a joint full-scale probe into suspected illegal housing subscriptions.",
-        "body": "The Ministry of Land, Infrastructure and Transport and the real estate supervision task force under the Office for Government Policy Coordination are beginning a joint full-scale investigation with related ministries to eliminate illegal housing subscription practices. Cases under review include manipulating the number of dependents by falsely listing parents or registering children at false addresses. Fake marriages and forged official documents used to fabricate eligibility will also be examined. The government aims to identify practices that undermine fairness in the subscription process and restore order in housing supply. The joint review is expected to broadly check suspected cases and support protection for genuine homebuyers and trust in the system. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "不正な住宅申込を全数調査、偽装結婚や公文書偽造まで政府が合同点検",
-        "excerpt": "国土交通部と国務調整室の不動産監督推進団が、不正な住宅申込の根絶に向け関係省庁合同で全数調査に着手し、扶養家族数の操作などを点検する。",
-        "body": "国土交通部と国務調整室の不動産監督推進団は、不正な住宅申込を根絶するため、関係省庁とともに全数調査に着手する。調査対象には、親を虚偽で扶養家族に入れたり、子どもを偽装転入させたりして扶養家族数を操作した事例が含まれる。偽装結婚や公文書偽造のように申込資格を作り上げる行為も点検対象となる。政府は、申込過程の公平性を損なう不正行為を確認し、住宅供給秩序を正す方針だ。今回の合同調査は、不正申込の疑いがある事例を幅広く確認し、実需者保護と制度への信頼回復に影響を与える見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "违规申购住房全面调查启动，政府联合核查假结婚与伪造公文",
-        "excerpt": "韩国国土交通部和国务调整室房地产监督推进团为根除违规申购住房，将会同相关部门启动全面调查，核查操纵抚养家属人数等可疑案例。",
-        "body": "韩国国土交通部和国务调整室房地产监督推进团将与相关部门一起启动全面调查，以根除违规申购住房行为。调查对象包括将父母虚假列为抚养家属，或让子女虚假迁入，从而操纵抚养家属人数的案例。通过假结婚或伪造公文来包装申购资格的行为也将被纳入核查范围。政府计划确认破坏申购程序公平性的违规行为，纠正住房供应秩序。此次联合调查预计将广泛审查涉嫌违规申购的案例，并对保护真实住房需求者、恢复制度信任产生影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Investigación total contra solicitudes inmobiliarias ilegales apunta a matrimonios falsos y documentos forjados",
-        "excerpt": "El Ministerio de Tierra, Infraestructura y Transporte y el equipo de supervisión inmobiliaria de la Oficina de Coordinación de Políticas iniciarán una revisión conjunta de solicitudes irregulares de vivienda.",
-        "body": "El Ministerio de Tierra, Infraestructura y Transporte y el equipo de supervisión inmobiliaria de la Oficina de Coordinación de Políticas del Gobierno iniciarán una investigación completa junto con ministerios relacionados para erradicar las solicitudes ilegales de vivienda. La revisión incluye casos en los que se manipuló el número de dependientes al registrar falsamente a padres o trasladar ficticiamente la residencia de hijos. También se examinarán matrimonios simulados y falsificación de documentos oficiales utilizados para aparentar requisitos de solicitud. El gobierno busca detectar prácticas que dañan la equidad del proceso y corregir el orden de suministro de viviendas. La investigación conjunta podría reforzar la protección de compradores reales y la confianza en el sistema. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Investigação total contra subscrições habitacionais ilegais mira casamentos falsos e documentos forjados",
-        "excerpt": "O Ministério da Terra, Infraestrutura e Transporte e a força de supervisão imobiliária do governo iniciarão uma investigação conjunta para eliminar subscrições habitacionais irregulares.",
-        "body": "O Ministério da Terra, Infraestrutura e Transporte e a força-tarefa de supervisão imobiliária do Gabinete de Coordenação de Políticas do Governo iniciarão uma investigação completa com órgãos relacionados para erradicar subscrições habitacionais ilegais. Entre os casos analisados estão a inclusão falsa de pais como dependentes e a transferência fictícia de residência de filhos para manipular o número de dependentes. Casamentos simulados e falsificação de documentos oficiais usados para criar elegibilidade também serão examinados. O governo pretende identificar práticas que prejudicam a equidade do processo e restaurar a ordem no fornecimento de moradias. A ação conjunta deve ampliar a revisão de suspeitas e ajudar a proteger compradores reais e a confiança no sistema. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Vollprüfung gegen illegale Wohnungsbewerbungen: Regierung prüft Scheinehen und gefälschte Dokumente",
-        "excerpt": "Das Verkehrs- und Infrastrukturministerium und die Immobilienaufsicht der Regierungskoordination starten mit zuständigen Behörden eine Vollprüfung gegen illegale Wohnungsbewerbungen.",
-        "body": "Das Ministerium für Land, Infrastruktur und Verkehr sowie die Immobilienaufsicht der Regierungskoordination starten gemeinsam mit zuständigen Behörden eine Vollprüfung, um illegale Wohnungsbewerbungen zu unterbinden. Geprüft werden Fälle, in denen die Zahl der Unterhaltsberechtigten manipuliert wurde, etwa durch falsche Angabe von Eltern oder durch vorgetäuschte Ummeldung von Kindern. Auch Scheinehen und gefälschte amtliche Dokumente zur Vortäuschung einer Bewerbungsberechtigung stehen im Fokus. Die Regierung will Praktiken aufdecken, die die Fairness des Bewerbungsverfahrens beeinträchtigen, und die Ordnung bei der Wohnungsversorgung wiederherstellen. Die gemeinsame Prüfung dürfte Verdachtsfälle breit erfassen und echte Nachfrager sowie das Vertrauen in das System stärken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Enquête générale sur les candidatures immobilières illégales, avec mariages fictifs et faux documents visés",
-        "excerpt": "Le ministère du Territoire, des Infrastructures et des Transports et l’équipe de supervision immobilière du gouvernement lancent une enquête conjointe contre les candidatures frauduleuses.",
-        "body": "Le ministère du Territoire, des Infrastructures et des Transports ainsi que l’équipe de supervision immobilière du Bureau de coordination des politiques gouvernementales lancent, avec les ministères concernés, une enquête complète pour éradiquer les candidatures frauduleuses au logement. Les cas examinés incluent la manipulation du nombre de personnes à charge, par exemple en déclarant faussement des parents ou en transférant fictivement la résidence d’enfants. Les mariages simulés et la falsification de documents officiels servant à fabriquer une éligibilité seront aussi contrôlés. Le gouvernement veut identifier les pratiques qui nuisent à l’équité du processus et rétablir l’ordre dans l’offre de logements. Cette enquête conjointe devrait examiner largement les soupçons et soutenir la protection des demandeurs réels ainsi que la confiance dans le système. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تحقيق شامل في الاكتتابات السكنية غير القانونية يستهدف الزواج الصوري وتزوير الوثائق",
-        "excerpt": "تبدأ وزارة الأراضي والبنية التحتية والنقل وفريق الرقابة العقارية التابع لمكتب تنسيق السياسات الحكومية تحقيقا مشتركا شاملا لمكافحة الاكتتابات السكنية غير القانونية.",
-        "body": "تبدأ وزارة الأراضي والبنية التحتية والنقل وفريق الرقابة العقارية التابع لمكتب تنسيق السياسات الحكومية تحقيقا شاملا بالتعاون مع الجهات المعنية للقضاء على الاكتتابات السكنية غير القانونية. وتشمل الحالات التي ستخضع للفحص التلاعب بعدد أفراد الإعالة عبر تسجيل الوالدين بشكل كاذب أو نقل إقامة الأبناء صوريا. كما ستتم مراجعة الزواج الصوري وتزوير الوثائق الرسمية المستخدمة لإظهار أهلية غير حقيقية للاكتتاب. وتهدف الحكومة إلى كشف الممارسات التي تضر بعدالة إجراءات الاكتتاب وإعادة ضبط نظام توفير المساكن. ومن المتوقع أن يراجع التحقيق المشترك نطاقا واسعا من الحالات المشتبه بها، بما يدعم حماية أصحاب الطلب الحقيقيين واستعادة الثقة بالنظام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "अवैध हाउसिंग सब्सक्रिप्शन पर पूर्ण जांच, फर्जी शादी और सरकारी दस्तावेज जालसाजी भी निशाने पर",
-        "excerpt": "भूमि, अवसंरचना और परिवहन मंत्रालय तथा सरकारी नीति समन्वय कार्यालय की रियल एस्टेट निगरानी टीम अवैध हाउसिंग सब्सक्रिप्शन खत्म करने के लिए संयुक्त पूर्ण जांच शुरू करेगी।",
-        "body": "भूमि, अवसंरचना और परिवहन मंत्रालय तथा सरकारी नीति समन्वय कार्यालय की रियल एस्टेट निगरानी टीम संबंधित विभागों के साथ मिलकर अवैध हाउसिंग सब्सक्रिप्शन को खत्म करने के लिए पूर्ण जांच शुरू करेगी। जांच में ऐसे मामले शामिल होंगे जिनमें माता-पिता को झूठे तरीके से आश्रित दिखाया गया या बच्चों का फर्जी पता बदलकर आश्रितों की संख्या बढ़ाई गई। फर्जी विवाह और सरकारी दस्तावेजों की जालसाजी से पात्रता दिखाने की कोशिशों की भी जांच होगी। सरकार का उद्देश्य आवेदन प्रक्रिया की निष्पक्षता को नुकसान पहुंचाने वाली गड़बड़ियों की पहचान कर आवास आपूर्ति व्यवस्था को सही करना है। यह संयुक्त जांच संदिग्ध मामलों की व्यापक समीक्षा कर वास्तविक जरूरतमंदों की सुरक्षा और व्यवस्था पर भरोसा बहाल करने में असर डाल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pemeriksaan Penuh Langganan Hunian Ilegal, Pemerintah Bidik Nikah Palsu dan Pemalsuan Dokumen",
-        "excerpt": "Kementerian Pertanahan, Infrastruktur, dan Transportasi bersama satuan pengawas real estat pemerintah memulai pemeriksaan bersama untuk memberantas langganan hunian ilegal.",
-        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi serta satuan pengawas real estat di bawah Kantor Koordinasi Kebijakan Pemerintah akan memulai pemeriksaan penuh bersama instansi terkait untuk memberantas langganan hunian ilegal. Kasus yang diperiksa mencakup manipulasi jumlah tanggungan dengan mencantumkan orang tua secara palsu atau memindahkan alamat anak secara fiktif. Pernikahan palsu dan pemalsuan dokumen resmi untuk membuat seolah-olah memenuhi syarat juga akan ditinjau. Pemerintah ingin mengidentifikasi praktik yang merusak keadilan proses langganan dan menata kembali ketertiban pasokan hunian. Pemeriksaan bersama ini diperkirakan meninjau luas kasus yang dicurigai serta membantu melindungi pembeli nyata dan memulihkan kepercayaan pada sistem. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d99ac3c0d5d",
-    "slug": "수도권-신축-아파트-품귀에-구축과-가격-차이-더-벌어진다-475186",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T04:51:05.665Z",
-    "updatedAt": "2026-05-11T04:51:05.665Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043069",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043069",
-    "titleFingerprint": "0ed9714be92e58af240deb8736b8644ced31515b",
-    "dedupKeys": [
-      "3d99ac3c0d5d56d911072af89e8c59af508787ac",
-      "0ed9714be92e58af240deb8736b8644ced31515b",
-      "48004eccfa6c2cc3fc00c2f28d769534aeca9de5"
-    ],
-    "imageUrl": "/images/articles/3d99ac3c0d5d.png",
-    "i18n": {
-      "ko": {
-        "title": "수도권 신축 아파트 품귀 심화, 구축과 가격 격차 더 벌어질 전망",
-        "excerpt": "수도권에서 신축 아파트 공급이 줄어들면서 수요자 선호가 신축으로 몰리고 있다. 공급 부족이 이어질 가능성이 커 구축 아파트와의 가격 차이는 더 확대될 전망이다.",
-        "body": "수도권 아파트 시장에서 신축 아파트 공급이 줄어들며 신축 단지에 대한 인기가 높아지고 있다. 공급이 충분하지 않은 상황에서 수요가 신축으로 집중되면서 구축 아파트와의 가격 차이도 더 벌어지는 흐름이다. 원문에 따르면 수도권 신축 아파트 품귀 현상이 이어지고 있으며, 향후 공급 부족이 지속될 가능성이 큰 만큼 신축 아파트 선호는 당분간 식지 않을 전망이다. 이는 실수요자와 투자자 모두에게 신축 여부가 가격 판단의 핵심 변수로 작용할 수 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "New Apartment Shortage in Seoul Metro Area Widens Price Gap With Older Homes",
-        "excerpt": "As new apartment supply declines in the Seoul metropolitan area, buyer preference is shifting further toward newly built homes, likely widening the price gap with older apartments.",
-        "body": "In the Seoul metropolitan apartment market, declining supply of newly built apartments is increasing the popularity of new complexes. With supply remaining limited and demand concentrating on new homes, the price gap with older apartments is widening. According to the original report, the shortage of new apartments in the metropolitan area is continuing, and because the supply shortage is likely to persist, demand for new apartments is expected to remain firm for the time being. This indicates that whether an apartment is newly built may become a key factor in pricing decisions for both end users and investors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "首都圏の新築マンション不足が深刻化、中古との価格差さらに拡大へ",
-        "excerpt": "首都圏で新築マンションの供給が減少し、需要者の選好が新築に集中している。供給不足が続く可能性が高く、中古との価格差はさらに広がる見通しだ。",
-        "body": "首都圏のマンション市場では、新築マンションの供給が減少し、新築団地への人気が高まっている。十分な供給がない中で需要が新築に集中し、築年数のあるマンションとの価格差もさらに広がる流れとなっている。原文によると、首都圏の新築マンション不足は続いており、今後も供給不足が続く可能性が大きいため、新築マンションへの選好は当面冷めない見通しだ。これは実需者と投資家の双方にとって、新築かどうかが価格判断の重要な要素になり得ることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首都圈新建公寓日益稀缺，与老旧公寓价差或进一步扩大",
-        "excerpt": "首都圈新建公寓供应减少，购房者偏好进一步转向新盘。由于供应不足可能持续，新建公寓与老旧公寓的价格差距预计将扩大。",
-        "body": "在首都圈公寓市场，新建公寓供应减少，使新建小区的人气持续上升。在供应并不充足的情况下，需求集中流向新建公寓，与老旧公寓之间的价格差距也呈现进一步扩大的趋势。原文称，首都圈新建公寓稀缺现象仍在持续，且未来供应不足延续的可能性较大，因此新建公寓的受欢迎程度预计短期内不会降温。这表明，对自住需求者和投资者而言，是否为新建公寓可能成为判断价格的重要因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Escasez de apartamentos nuevos en el área metropolitana amplía brecha de precios",
-        "excerpt": "La menor oferta de apartamentos nuevos en el área metropolitana de Seúl está elevando su atractivo. Si persiste la escasez, la brecha con viviendas antiguas podría crecer.",
-        "body": "En el mercado de apartamentos del área metropolitana de Seúl, la reducción de la oferta de viviendas nuevas está elevando la popularidad de los complejos recién construidos. En un contexto de oferta insuficiente, la demanda se concentra en los apartamentos nuevos y la diferencia de precios frente a los más antiguos se está ampliando. Según el texto original, la escasez de apartamentos nuevos en la región continúa y, dado que es probable que la falta de oferta persista, el interés por estas viviendas no se enfriaría por ahora. Esto muestra que la condición de nueva construcción puede ser un factor clave para compradores finales e inversores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Escassez de apartamentos novos na região metropolitana amplia diferença de preços",
-        "excerpt": "Com a queda na oferta de apartamentos novos na região metropolitana de Seul, a preferência dos compradores se concentra nesses imóveis, ampliando a diferença frente aos antigos.",
-        "body": "No mercado de apartamentos da região metropolitana de Seul, a redução da oferta de unidades novas vem aumentando a popularidade dos empreendimentos recém-construídos. Com a oferta ainda limitada e a demanda concentrada nos imóveis novos, a diferença de preços em relação aos apartamentos mais antigos tende a crescer. Segundo o texto original, a escassez de apartamentos novos na região continua e, como há grande possibilidade de persistência da falta de oferta, a preferência por esses imóveis deve permanecer por algum tempo. Isso mostra que ser ou não recém-construído pode pesar na avaliação de preço por compradores e investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Knappheit neuer Wohnungen im Großraum Seoul vergrößert Preisabstand zu Altbauten",
-        "excerpt": "Im Großraum Seoul sinkt das Angebot an neuen Apartments, während die Nachfrage danach steigt. Bei anhaltendem Angebotsmangel dürfte der Preisabstand zu älteren Wohnungen wachsen.",
-        "body": "Auf dem Apartmentmarkt im Großraum Seoul nimmt das Angebot an neu gebauten Wohnungen ab, wodurch neue Wohnanlagen stärker nachgefragt werden. Da das Angebot nicht ausreichend ist und sich die Nachfrage auf Neubauten konzentriert, vergrößert sich auch der Preisabstand zu älteren Apartments. Dem Originalbericht zufolge hält die Knappheit neuer Apartments im Großraum Seoul an. Weil ein weiterer Angebotsmangel wahrscheinlich ist, dürfte die Beliebtheit neuer Wohnungen vorerst nicht nachlassen. Dies zeigt, dass der Neubau-Status für Eigennutzer und Investoren zu einem wichtigen Faktor bei der Preisbewertung werden kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Pénurie d’appartements neufs dans la région de Séoul, écart accru avec l’ancien",
-        "excerpt": "Dans la région métropolitaine de Séoul, l’offre d’appartements neufs recule et la demande se concentre sur ces biens, ce qui pourrait élargir l’écart de prix avec l’ancien.",
-        "body": "Sur le marché des appartements de la région métropolitaine de Séoul, la baisse de l’offre de logements neufs renforce l’attrait des résidences récemment construites. Dans un contexte d’offre insuffisante, la demande se concentre sur le neuf et l’écart de prix avec les appartements plus anciens continue de s’élargir. Selon le texte original, la pénurie d’appartements neufs dans la région se poursuit et, comme le manque d’offre pourrait durer, leur popularité ne devrait pas faiblir à court terme. Cela montre que le caractère neuf d’un logement peut devenir un critère central de valorisation pour les acheteurs comme pour les investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ندرة الشقق الجديدة في منطقة سول الكبرى توسع فجوة الأسعار مع الشقق الأقدم",
-        "excerpt": "مع تراجع معروض الشقق الجديدة في منطقة سول الكبرى، تتزايد تفضيلات المشترين لها. وإذا استمر نقص المعروض، فقد تتسع فجوة الأسعار مع الشقق الأقدم.",
-        "body": "يشهد سوق الشقق في منطقة سول الكبرى تراجعا في معروض الشقق الجديدة، ما يزيد شعبية المجمعات السكنية الحديثة. ومع عدم كفاية المعروض وتركز الطلب على الشقق الجديدة، تتسع فجوة الأسعار بينها وبين الشقق الأقدم. ووفقا للنص الأصلي، تستمر ندرة الشقق الجديدة في المنطقة، ومع احتمال استمرار نقص المعروض مستقبلا، من المتوقع ألا يهدأ الإقبال عليها في الوقت الحالي. ويشير ذلك إلى أن كون الشقة جديدة قد يصبح عاملا رئيسيا في تقييم الأسعار لدى المشترين بغرض السكن والمستثمرين على حد سواء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल महानगरीय क्षेत्र में नए अपार्टमेंट की कमी से पुराने घरों से मूल्य अंतर बढ़ेगा",
-        "excerpt": "सियोल महानगरीय क्षेत्र में नए अपार्टमेंट की आपूर्ति घटने से खरीदारों की पसंद नए घरों की ओर बढ़ रही है। आपूर्ति की कमी जारी रही तो पुराने अपार्टमेंट से मूल्य अंतर और बढ़ सकता है।",
-        "body": "सियोल महानगरीय क्षेत्र के अपार्टमेंट बाजार में नए अपार्टमेंट की आपूर्ति घट रही है, जिससे नए आवासीय परिसरों की लोकप्रियता बढ़ रही है। पर्याप्त आपूर्ति न होने और मांग के नए अपार्टमेंट पर केंद्रित होने से पुराने अपार्टमेंट के साथ मूल्य अंतर भी बढ़ने की प्रवृत्ति दिख रही है। मूल रिपोर्ट के अनुसार, क्षेत्र में नए अपार्टमेंट की कमी जारी है और आगे भी आपूर्ति की कमी बने रहने की संभावना अधिक है, इसलिए नए अपार्टमेंट की मांग फिलहाल कम होने की उम्मीद नहीं है। यह दिखाता है कि किसी अपार्टमेंट का नया होना वास्तविक खरीदारों और निवेशकों दोनों के लिए मूल्यांकन का अहम कारक बन सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kelangkaan Apartemen Baru di Seoul Raya Perlebar Selisih Harga dengan Unit Lama",
-        "excerpt": "Pasokan apartemen baru di wilayah metropolitan Seoul menurun, membuat minat pembeli semakin terarah ke unit baru. Jika kekurangan pasokan berlanjut, selisih harga dengan unit lama bisa melebar.",
-        "body": "Di pasar apartemen wilayah metropolitan Seoul, pasokan apartemen baru yang menurun membuat popularitas kompleks hunian baru meningkat. Saat pasokan belum mencukupi dan permintaan terkonsentrasi pada unit baru, selisih harga dengan apartemen lama juga cenderung melebar. Menurut teks asli, kelangkaan apartemen baru di wilayah tersebut masih berlanjut, dan karena kekurangan pasokan kemungkinan besar terus terjadi, minat terhadap apartemen baru diperkirakan belum akan mereda dalam waktu dekat. Hal ini menunjukkan bahwa status sebagai hunian baru dapat menjadi faktor penting dalam penilaian harga bagi pengguna akhir maupun investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "34cb32e934dc",
-    "slug": "경기도-화성과천-고속화도로-민간투자-적격성-통과-957825",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T04:50:07.540Z",
-    "updatedAt": "2026-05-11T04:50:07.540Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043146",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043146",
-    "titleFingerprint": "946df42991829fed4b53b23a5d38eb0b1eff36df",
-    "dedupKeys": [
-      "34cb32e934dca01d8003ded1aaba72a957a1b3b7",
-      "946df42991829fed4b53b23a5d38eb0b1eff36df",
-      "eceaf7ea1487e7335e0f50af20fbcabbf5f972d7"
-    ],
-    "imageUrl": "/images/articles/34cb32e934dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "화성~과천 고속화도로, KDI 민간투자 적격성 통과로 사업 추진 탄력",
-        "excerpt": "경기도가 추진 중인 화성~과천 고속화도로 민간투자사업이 KDI 적격성 조사를 통과하며 경기 서남부권 교통난 완화와 약 4조원 경제파급 효과 기대를 키웠다.",
-        "body": "경기도가 민간투자 방식으로 추진 중인 ‘화성~과천 고속화도로’ 건설사업이 한국개발연구원(KDI)의 적격성 조사를 통과했다. 이 사업은 경기 서남부권의 교통난 해소를 목표로 추진되는 도로 인프라 사업이다. 적격성 통과로 사업 추진에 탄력이 붙을 것으로 보이며, 경기도는 약 4조원 규모의 경제파급 효과도 기대하고 있다. 화성~과천 고속화도로는 지역 간 이동 여건 개선과 교통 수요 분산에 기여할 사업으로 주목된다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Hwaseong–Gwacheon Expressway Passes KDI Review, Boosting PPP Project",
-        "excerpt": "Gyeonggi Province’s Hwaseong–Gwacheon expressway PPP project has passed KDI’s feasibility review, raising expectations for easing traffic in southwestern Gyeonggi and generating about 4 trillion won in economic impact.",
-        "body": "Gyeonggi Province’s privately funded Hwaseong–Gwacheon expressway construction project has passed a feasibility review by the Korea Development Institute (KDI). The road infrastructure project is being promoted to ease traffic congestion in southwestern Gyeonggi Province. With the review cleared, the project is expected to gain momentum, while the province anticipates an economic ripple effect of about 4 trillion won. The Hwaseong–Gwacheon expressway is drawing attention as a project that could improve regional travel conditions and help distribute traffic demand. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "華城～果川高速化道路、KDIの民間投資適格性調査を通過",
-        "excerpt": "京畿道が推進する華城～果川高速化道路の民間投資事業がKDIの適格性調査を通過し、京畿西南部の交通難緩和と約4兆ウォンの経済波及効果への期待が高まった。",
-        "body": "京畿道が民間投資方式で推進している「華城～果川高速化道路」建設事業が、韓国開発研究院（KDI）の適格性調査を通過した。この事業は、京畿西南部地域の交通難解消を目的に進められている道路インフラ事業だ。適格性通過により事業推進に弾みがつくとみられ、京畿道は約4兆ウォン規模の経済波及効果も期待している。華城～果川高速化道路は、地域間の移動環境改善と交通需要の分散に寄与する事業として注目される。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "华城至果川快速化道路通过KDI民间投资适格性调查",
-        "excerpt": "京畿道推进的华城至果川快速化道路民间投资项目通过KDI适格性调查，有望缓解京畿西南部交通拥堵，并带来约4万亿韩元经济波及效果。",
-        "body": "京畿道以民间投资方式推进的“华城至果川快速化道路”建设项目，已通过韩国开发研究院（KDI）的适格性调查。该道路基础设施项目旨在缓解京畿西南部地区的交通拥堵。随着适格性调查通过，项目推进预计将获得动力，京畿道也期待其带来约4万亿韩元规模的经济波及效果。华城至果川快速化道路被视为有助于改善地区间通行条件、分散交通需求的项目。来源为mk.co.kr。"
-      },
-      "es": {
-        "title": "Autovía Hwaseong–Gwacheon supera revisión KDI y gana impulso privado",
-        "excerpt": "El proyecto de autovía Hwaseong–Gwacheon de la provincia de Gyeonggi superó la revisión de KDI, elevando expectativas de aliviar el tráfico del suroeste regional y generar unos 4 billones de wones en impacto económico.",
-        "body": "El proyecto de construcción de la autovía Hwaseong–Gwacheon, impulsado por la provincia de Gyeonggi mediante inversión privada, superó la revisión de idoneidad del Korea Development Institute (KDI). La infraestructura vial se promueve para aliviar la congestión del tráfico en el suroeste de Gyeonggi. Tras superar la revisión, se espera que el proyecto gane impulso, mientras la provincia prevé un efecto económico de aproximadamente 4 billones de wones. La autovía Hwaseong–Gwacheon atrae atención por su posible contribución a mejorar los desplazamientos regionales y distribuir la demanda de tráfico. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Via Hwaseong–Gwacheon passa análise do KDI e avança como PPP",
-        "excerpt": "O projeto privado da via expressa Hwaseong–Gwacheon, em Gyeonggi, passou pela análise do KDI, aumentando expectativas de aliviar o tráfego no sudoeste da província e gerar cerca de 4 trilhões de wons em impacto econômico.",
-        "body": "O projeto de construção da via expressa Hwaseong–Gwacheon, promovido pela província de Gyeonggi por meio de investimento privado, passou pela análise de adequação do Korea Development Institute (KDI). A obra de infraestrutura viária busca aliviar os congestionamentos no sudoeste de Gyeonggi. Com a aprovação na análise, o projeto deve ganhar impulso, enquanto a província espera um efeito econômico de aproximadamente 4 trilhões de wons. A via Hwaseong–Gwacheon chama atenção por poder melhorar as condições de deslocamento regional e ajudar a distribuir a demanda de tráfego. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Hwaseong–Gwacheon-Schnellstraße besteht KDI-Prüfung für Privatinvestition",
-        "excerpt": "Das privat finanzierte Schnellstraßenprojekt Hwaseong–Gwacheon der Provinz Gyeonggi hat die KDI-Prüfung bestanden und nährt Erwartungen auf Entlastung des Verkehrs im Südwesten sowie rund 4 Billionen Won wirtschaftliche Wirkung.",
-        "body": "Das von der Provinz Gyeonggi im Rahmen privater Investitionen vorangetriebene Bauprojekt der Schnellstraße Hwaseong–Gwacheon hat die Eignungsprüfung des Korea Development Institute (KDI) bestanden. Das Straßeninfrastrukturprojekt soll die Verkehrsprobleme im Südwesten der Provinz Gyeonggi lindern. Mit dem bestandenen Prüfverfahren dürfte das Projekt an Dynamik gewinnen; die Provinz erwartet zudem wirtschaftliche Ausstrahlungseffekte von etwa 4 Billionen Won. Die Schnellstraße Hwaseong–Gwacheon gilt als Vorhaben, das regionale Mobilität verbessern und Verkehrsnachfrage verteilen kann. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "La voie rapide Hwaseong–Gwacheon passe l’examen KDI et accélère",
-        "excerpt": "Le projet privé de voie rapide Hwaseong–Gwacheon porté par la province de Gyeonggi a passé l’examen du KDI, renforçant les attentes d’un allègement du trafic dans le sud-ouest et d’un impact économique d’environ 4 000 milliards de wons.",
-        "body": "Le projet de construction de la voie rapide Hwaseong–Gwacheon, mené par la province de Gyeonggi sous forme d’investissement privé, a passé l’examen d’éligibilité du Korea Development Institute (KDI). Cette infrastructure routière vise à réduire les difficultés de circulation dans le sud-ouest de Gyeonggi. Après ce passage, le projet devrait gagner en élan, tandis que la province attend un effet économique d’environ 4 000 milliards de wons. La voie rapide Hwaseong–Gwacheon retient l’attention pour sa contribution possible à l’amélioration des déplacements régionaux et à la répartition de la demande de trafic. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "طريق هواسونغ-غواتشون السريع يجتاز مراجعة KDI ويدفع الاستثمار الخاص",
-        "excerpt": "اجتاز مشروع طريق هواسونغ-غواتشون السريع في مقاطعة غيونغي، المنفذ باستثمار خاص، مراجعة KDI، ما يعزز توقعات تخفيف الازدحام في جنوب غرب المقاطعة وتحقيق أثر اقتصادي بنحو 4 تريليونات وون.",
-        "body": "اجتاز مشروع بناء طريق هواسونغ-غواتشون السريع، الذي تدفع به مقاطعة غيونغي بصيغة الاستثمار الخاص، مراجعة الأهلية لدى معهد التنمية الكوري KDI. ويستهدف مشروع البنية التحتية للطرق تخفيف مشكلات المرور في جنوب غرب مقاطعة غيونغي. ومع اجتياز المراجعة، من المتوقع أن يكتسب المشروع زخما في التنفيذ، فيما تتوقع المقاطعة أثرا اقتصاديا يقارب 4 تريليونات وون. ويحظى طريق هواسونغ-غواتشون السريع بالاهتمام بوصفه مشروعا قد يحسن ظروف التنقل بين المناطق ويساعد في توزيع الطلب المروري. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "ह्वासोंग–ग्वाचॉन एक्सप्रेसवे ने KDI समीक्षा पार की, निजी निवेश परियोजना तेज",
-        "excerpt": "ग्योंगी प्रांत की निजी निवेश वाली ह्वासोंग–ग्वाचॉन एक्सप्रेसवे परियोजना ने KDI की पात्रता समीक्षा पार कर ली, जिससे दक्षिण-पश्चिम ग्योंगी में यातायात राहत और करीब 4 ट्रिलियन वॉन के आर्थिक प्रभाव की उम्मीद बढ़ी।",
-        "body": "ग्योंगी प्रांत द्वारा निजी निवेश पद्धति से 추진 की जा रही ‘ह्वासोंग–ग्वाचॉन एक्सप्रेसवे’ निर्माण परियोजना ने Korea Development Institute (KDI) की पात्रता समीक्षा पार कर ली है। यह सड़क अवसंरचना परियोजना दक्षिण-पश्चिम ग्योंगी क्षेत्र में यातायात जाम को कम करने के उद्देश्य से आगे बढ़ाई जा रही है। समीक्षा पार होने के बाद परियोजना के कार्यान्वयन को गति मिलने की उम्मीद है, जबकि प्रांत लगभग 4 ट्रिलियन वॉन के आर्थिक प्रसार प्रभाव की भी अपेक्षा कर रहा है। ह्वासोंग–ग्वाचॉन एक्सप्रेसवे क्षेत्रीय आवागमन स्थितियों में सुधार और यातायात मांग के वितरण में योगदान देने वाली परियोजना के रूप में ध्यान खींच रहा है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Jalan Cepat Hwaseong–Gwacheon Lolos Kajian KDI, Proyek PPP Makin Kuat",
-        "excerpt": "Proyek jalan cepat Hwaseong–Gwacheon di Provinsi Gyeonggi yang dibangun lewat investasi swasta lolos kajian KDI, meningkatkan harapan pengurangan kemacetan di barat daya Gyeonggi dan dampak ekonomi sekitar 4 triliun won.",
-        "body": "Proyek pembangunan Jalan Cepat Hwaseong–Gwacheon yang didorong Provinsi Gyeonggi melalui skema investasi swasta telah lolos kajian kelayakan Korea Development Institute (KDI). Proyek infrastruktur jalan ini bertujuan mengurangi masalah kemacetan di wilayah barat daya Gyeonggi. Dengan lolosnya kajian tersebut, pelaksanaan proyek diperkirakan mendapat momentum, sementara provinsi mengharapkan dampak ekonomi sekitar 4 triliun won. Jalan Cepat Hwaseong–Gwacheon menarik perhatian sebagai proyek yang dapat memperbaiki kondisi perjalanan antardaerah dan membantu menyebarkan permintaan lalu lintas. Sumber: mk.co.kr."
       }
     }
   }

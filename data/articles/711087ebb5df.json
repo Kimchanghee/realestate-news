@@ -1,0 +1,75 @@
+{
+  "id": "711087ebb5df",
+  "slug": "챗gpt-파일-첨부-4시간-오류-과제-업무-못해-곳곳서-불편-857271",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-11T22:44:36.183Z",
+  "updatedAt": "2026-05-11T22:44:36.183Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901968/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901968/2",
+  "titleFingerprint": "6e30a2ef1092abfccc1700819e25776418aeccac",
+  "dedupKeys": [
+    "711087ebb5dff9f67569f6a606b9c64aa9438b23",
+    "6e30a2ef1092abfccc1700819e25776418aeccac",
+    "57036d767f3683057301e430ad4cfde0236545a1"
+  ],
+  "imageUrl": "/images/articles/711087ebb5df.jpg",
+  "i18n": {
+    "ko": {
+      "title": "챗GPT 파일 첨부 오류 4시간 만에 복구…과제·업무 차질 불편 확산",
+      "excerpt": "오픈AI는 11일 공식 상태 페이지에서 챗GPT 파일 업로드와 코덱스 클라우드 작업 오류 가능성을 알렸고, 한국 시간 오전 10시 23분 시작된 장애는 오후 2시 34분 복구됐다.",
+      "body": "오픈AI의 챗GPT에서 파일 첨부 기능 오류가 발생해 이용자들이 과제와 업무 처리에 불편을 겪었다. 회사는 11일 공식 상태 페이지를 통해 챗GPT 파일 업로드와 코덱스 클라우드 작업에서 오류가 발생할 수 있다고 공지했다. 장애는 한국 시간 기준 11일 오전 10시 23분 처음 발생했으며 약 4시간 뒤인 오후 2시 34분 시스템이 정상화됐다. 정확한 원인은 공개되지 않았다. 같은 시간 코덱스에서도 클라우드를 활용한 작업 장애가 있었지만 낮 12시 23분경 해결됐다. 최근 개인과 기업의 AI 활용이 급증하면서 서비스 장애 사례도 이어지고 있다. 지난달에는 앤스로픽에서 이용자 집중으로 로그인 불가와 접속 지연이 발생했다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "ChatGPT File Attachment Outage Restored After 4 Hours, Disrupting Work and Assignments",
+      "excerpt": "OpenAI said on its official status page on May 11 that ChatGPT file uploads and Codex cloud tasks could fail; the issue began at 10:23 a.m. Korea time and was restored at 2:34 p.m.",
+      "body": "OpenAI’s ChatGPT experienced an error in its file attachment feature, causing inconvenience for users trying to complete assignments and work tasks. On May 11, the company said on its official status page that errors could occur in ChatGPT file uploads and Codex cloud-based tasks. According to OpenAI, the issue first appeared at 10:23 a.m. Korea time on May 11 and the system returned to normal about four hours later, at 2:34 p.m. The exact cause has not been disclosed. Codex also had trouble with cloud-based work during the same period, but that problem was resolved around 12:23 p.m. As AI use grows rapidly among individuals and companies, service disruptions have continued to occur. Last month, Anthropic also saw login failures and access delays as many users concentrated on the service. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "ChatGPTのファイル添付障害、4時間で復旧…課題・業務に支障広がる",
+      "excerpt": "OpenAIは11日、公式ステータスページでChatGPTのファイルアップロードとCodexのクラウド作業でエラーが起きる可能性を告知し、韓国時間10時23分に始まった障害は14時34分に復旧した。",
+      "body": "OpenAIのChatGPTでファイル添付機能にエラーが発生し、利用者が課題や業務の処理で不便を訴えた。同社は11日、公式ステータスページを通じて、ChatGPTのファイルアップロードとCodexのクラウド作業でエラーが発生する可能性があると明らかにした。OpenAIによると、障害は韓国時間11日午前10時23分に初めて発生し、約4時間後の午後2時34分にシステムが正常化した。正確な原因はまだ公開されていない。同じ時間帯にCodexでもクラウドを利用した作業で障害が起きたが、午後0時23分ごろ解決された。個人や企業でAI活用が急増するなか、AIサービスの障害も相次いでいる。先月にはAnthropicで利用者集中によりログイン不能や接続遅延が発生した。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "ChatGPT文件附件故障4小时后恢复，作业和办公受影响",
+      "excerpt": "OpenAI于11日在官方状态页表示，ChatGPT文件上传和Codex云端任务可能出现错误；该故障于韩国时间上午10时23分开始，下午2时34分恢复。",
+      "body": "OpenAI旗下ChatGPT的文件附件功能发生错误，导致用户在完成作业和处理工作时遭遇不便。OpenAI于11日通过官方状态页面表示，ChatGPT文件上传以及Codex云端任务可能发生错误。公司称，该故障最早出现在韩国时间11日上午10时23分，约4小时后的下午2时34分系统恢复正常。具体原因尚未公开。同一时间，Codex在利用云端进行任务时也出现障碍，但该问题已于中午12时23分左右解决。随着个人和企业对AI的使用迅速增加，AI服务故障也持续出现。上月，Anthropic曾因大量用户集中使用而发生无法登录和连接延迟。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "ChatGPT restablece los archivos adjuntos tras 4 horas de fallos en tareas y trabajo",
+      "excerpt": "OpenAI informó el 11 en su página oficial de estado que podían fallar las cargas de archivos en ChatGPT y las tareas en la nube de Codex; el incidente empezó a las 10:23 en Corea y se resolvió a las 14:34.",
+      "body": "La función de archivos adjuntos de ChatGPT, de OpenAI, registró un error que causó molestias a usuarios que intentaban realizar tareas académicas y laborales. La compañía informó el 11, en su página oficial de estado, que podían producirse errores en la carga de archivos de ChatGPT y en los trabajos en la nube de Codex. Según OpenAI, el fallo comenzó a las 10:23 a.m. del 11, hora de Corea, y el sistema volvió a la normalidad unas cuatro horas después, a las 2:34 p.m. La causa exacta aún no se ha divulgado. Durante el mismo periodo, Codex también sufrió problemas en tareas basadas en la nube, aunque se resolvieron alrededor de las 12:23 p.m. Con el rápido aumento del uso de la IA por personas y empresas, continúan los incidentes en servicios de IA. El mes pasado, Anthropic también tuvo fallos de inicio de sesión y retrasos de acceso por concentración de usuarios. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "ChatGPT recupera anexos após falha de 4 horas que afetou tarefas e trabalho",
+      "excerpt": "A OpenAI informou no dia 11, em sua página oficial de status, que uploads de arquivos no ChatGPT e tarefas em nuvem do Codex poderiam falhar; o problema começou às 10h23 na Coreia e foi resolvido às 14h34.",
+      "body": "O ChatGPT, da OpenAI, apresentou erro na função de anexar arquivos, causando transtornos a usuários que tentavam concluir tarefas acadêmicas e de trabalho. No dia 11, a empresa informou em sua página oficial de status que poderiam ocorrer erros em uploads de arquivos do ChatGPT e em tarefas em nuvem do Codex. Segundo a OpenAI, a falha começou às 10h23 do dia 11, no horário da Coreia, e o sistema voltou ao normal cerca de quatro horas depois, às 14h34. A causa exata ainda não foi divulgada. No mesmo período, o Codex também teve problemas em trabalhos usando a nuvem, mas a questão foi resolvida por volta das 12h23. Com o rápido crescimento do uso de IA por indivíduos e empresas, falhas em serviços de IA continuam ocorrendo. No mês passado, a Anthropic também registrou impossibilidade de login e atrasos de acesso devido à concentração de usuários. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "ChatGPT-Dateianhänge nach 4 Stunden wiederhergestellt, Arbeit und Aufgaben betroffen",
+      "excerpt": "OpenAI teilte am 11. auf der offiziellen Statusseite mit, dass ChatGPT-Dateiuploads und Codex-Cloud-Aufgaben fehlerhaft sein könnten; die Störung begann um 10:23 Uhr koreanischer Zeit und endete um 14:34 Uhr.",
+      "body": "Bei ChatGPT von OpenAI kam es zu einem Fehler bei der Funktion für Dateianhänge, wodurch Nutzer bei Aufgaben und beruflichen Arbeiten beeinträchtigt wurden. Das Unternehmen teilte am 11. auf seiner offiziellen Statusseite mit, dass bei ChatGPT-Dateiuploads und cloudbasierten Codex-Aufgaben Fehler auftreten könnten. Nach Angaben von OpenAI begann die Störung am 11. um 10:23 Uhr koreanischer Zeit und das System normalisierte sich rund vier Stunden später um 14:34 Uhr. Die genaue Ursache wurde noch nicht veröffentlicht. Zur gleichen Zeit gab es auch bei Codex Probleme mit cloudbasierten Arbeiten, die jedoch gegen 12:23 Uhr behoben wurden. Da die Nutzung von KI durch Privatpersonen und Unternehmen stark zunimmt, treten weiterhin Ausfälle von KI-Diensten auf. Im vergangenen Monat kam es auch bei Anthropic wegen vieler gleichzeitiger Nutzer zu Login-Problemen und Zugriffsverzögerungen. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "ChatGPT rétablit les pièces jointes après 4 heures de panne, tâches et travail touchés",
+      "excerpt": "OpenAI a indiqué le 11 sur sa page officielle d’état que les téléversements de fichiers ChatGPT et les tâches cloud de Codex pouvaient échouer; l’incident a commencé à 10 h 23 en Corée et s’est terminé à 14 h 34.",
+      "body": "ChatGPT d’OpenAI a connu une erreur de sa fonction de pièce jointe, ce qui a gêné des utilisateurs dans leurs devoirs et leur travail. Le 11, l’entreprise a indiqué sur sa page officielle d’état que des erreurs pouvaient survenir lors des téléversements de fichiers dans ChatGPT et des tâches cloud de Codex. Selon OpenAI, l’incident a commencé le 11 à 10 h 23, heure de Corée, et le système est revenu à la normale environ quatre heures plus tard, à 14 h 34. La cause exacte n’a pas encore été rendue publique. Au même moment, Codex a également rencontré des difficultés pour les travaux utilisant le cloud, mais le problème a été résolu vers 12 h 23. Alors que l’usage de l’IA augmente rapidement chez les particuliers et les entreprises, les perturbations de services d’IA se poursuivent. Le mois dernier, Anthropic a aussi connu des impossibilités de connexion et des retards d’accès en raison d’un afflux d’utilisateurs. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "تعطل مرفقات ChatGPT لأربع ساعات قبل عودتها وتأثر الدراسة والعمل",
+      "excerpt": "أعلنت OpenAI في 11 مايو عبر صفحة الحالة الرسمية أن رفع الملفات في ChatGPT ومهام Codex السحابية قد تشهد أخطاء؛ بدأ الخلل الساعة 10:23 صباحا بتوقيت كوريا وعاد النظام الساعة 2:34 مساء.",
+      "body": "شهدت خدمة ChatGPT التابعة لشركة OpenAI خللا في ميزة إرفاق الملفات، ما تسبب في إزعاج للمستخدمين أثناء إنجاز الواجبات والمهام العملية. وأعلنت الشركة في 11 مايو عبر صفحة الحالة الرسمية أن أخطاء قد تحدث في رفع الملفات على ChatGPT وفي مهام Codex المعتمدة على السحابة. ووفقا لـOpenAI، ظهر الخلل أول مرة في الساعة 10:23 صباحا يوم 11 مايو بتوقيت كوريا، وعاد النظام إلى وضعه الطبيعي بعد نحو أربع ساعات، عند الساعة 2:34 مساء. ولم يتم الكشف عن السبب الدقيق حتى الآن. وفي الوقت نفسه، واجهت Codex عطلا في الأعمال السحابية، لكن المشكلة حلت قرابة الساعة 12:23 ظهرا. ومع الزيادة السريعة في استخدام الذكاء الاصطناعي من قبل الأفراد والشركات، تتكرر أعطال خدمات الذكاء الاصطناعي. وفي الشهر الماضي، شهدت Anthropic تعذر تسجيل الدخول وتأخر الوصول بسبب تركز عدد كبير من المستخدمين. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "ChatGPT फाइल अटैचमेंट 4 घंटे बाद बहाल, असाइनमेंट और काम प्रभावित",
+      "excerpt": "OpenAI ने 11 मई को आधिकारिक स्टेटस पेज पर बताया कि ChatGPT फाइल अपलोड और Codex क्लाउड कार्यों में त्रुटि आ सकती है; कोरिया समयानुसार 10:23 बजे शुरू हुई समस्या 2:34 बजे ठीक हुई।",
+      "body": "OpenAI के ChatGPT में फाइल अटैचमेंट सुविधा में त्रुटि आई, जिससे उपयोगकर्ताओं को असाइनमेंट और कामकाज पूरा करने में परेशानी हुई। कंपनी ने 11 मई को अपने आधिकारिक स्टेटस पेज पर बताया कि ChatGPT में फाइल अपलोड और Codex के क्लाउड आधारित कार्यों में त्रुटि हो सकती है। OpenAI के अनुसार, समस्या 11 मई को कोरिया समयानुसार सुबह 10:23 बजे पहली बार सामने आई और लगभग चार घंटे बाद दोपहर 2:34 बजे सिस्टम सामान्य हो गया। सटीक कारण अभी सार्वजनिक नहीं किया गया है। इसी अवधि में Codex में भी क्लाउड का उपयोग करने वाले कार्यों में बाधा आई, लेकिन वह समस्या दोपहर 12:23 बजे के आसपास हल हो गई। व्यक्तिगत और कंपनियों में AI के उपयोग में तेज वृद्धि के साथ AI सेवाओं में रुकावटें भी जारी हैं। पिछले महीने Anthropic में भी उपयोगकर्ताओं की अधिकता से लॉगिन न हो पाने और पहुंच में देरी की समस्या हुई थी। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Lampiran File ChatGPT Pulih Setelah 4 Jam, Tugas dan Pekerjaan Sempat Terganggu",
+      "excerpt": "OpenAI pada 11 Mei menyatakan di halaman status resmi bahwa unggahan file ChatGPT dan tugas cloud Codex dapat mengalami error; gangguan mulai pukul 10.23 waktu Korea dan pulih pukul 14.34.",
+      "body": "Fitur lampiran file pada ChatGPT milik OpenAI mengalami error, membuat pengguna terganggu saat mengerjakan tugas dan pekerjaan. Pada 11 Mei, perusahaan menyampaikan melalui halaman status resminya bahwa error dapat terjadi pada unggahan file ChatGPT dan pekerjaan berbasis cloud di Codex. Menurut OpenAI, gangguan pertama kali muncul pada 11 Mei pukul 10.23 waktu Korea, lalu sistem kembali normal sekitar empat jam kemudian, pukul 14.34. Penyebab pastinya belum diungkap. Pada waktu yang sama, Codex juga mengalami gangguan pada pekerjaan yang memanfaatkan cloud, tetapi masalah itu selesai sekitar pukul 12.23. Seiring melonjaknya penggunaan AI oleh individu dan perusahaan, gangguan layanan AI terus terjadi. Bulan lalu, Anthropic juga mengalami gagal login dan keterlambatan akses karena banyak pengguna terkonsentrasi pada layanan tersebut. Sumber: rss.donga.com"
+    }
+  }
+}
