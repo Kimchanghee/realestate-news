@@ -1,5 +1,230 @@
 [
   {
+    "id": "24fe1754025b",
+    "slug": "7명이-한집에-산다고청약-만점자-병원기록까지-턴다-450580",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T16:35:42.938Z",
+    "updatedAt": "2026-05-11T16:35:42.938Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605117644i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605117644i",
+    "titleFingerprint": "87f6f91bf48a0555d637f8e6b88b68af060f0c58",
+    "dedupKeys": [
+      "24fe1754025b7b511a56518fed370f413ff3e9ad",
+      "87f6f91bf48a0555d637f8e6b88b68af060f0c58",
+      "bf6d967e2f28105919833d343f5c83b5d40818c9"
+    ],
+    "imageUrl": "/images/articles/24fe1754025b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부정청약 390건 적발, ‘7인 가족’ 가점 노린 위장전입 병원기록 확인",
+        "excerpt": "국토교통부는 2024년 하반기 수도권 주요 분양단지 40곳을 점검해 위장전입·위장결혼·청약자격 조작 등 부정청약 390건을 적발했다.",
+        "body": "국토교통부가 2024년 하반기 수도권 주요 분양단지 40곳, 2만6000여 가구를 대상으로 청약 실태를 점검한 결과 공급질서 교란행위 390건을 적발해 경찰청에 수사 의뢰했다. 적발 사례에는 청약 가점을 높이기 위해 남편, 세 자녀, 모친, 시모까지 7명이 함께 산다고 신고한 사례가 포함됐다. 정부 조사 결과 모친과 시모는 실제 동거가 아닌 위장전입으로 드러났다. 유형별로는 부양가족 가점이나 노부모 특별공급 자격을 노린 직계존속 위장전입이 243건으로 가장 많았고, 해당 지역 거주 자격 등을 위한 위장전입도 141건이었다. 국토부는 건강보험 요양급여내역을 활용해 의료시설 이용 지역을 확인했다고 설명했다. 주택법 위반이 확정되면 형사처벌, 계약 취소, 10년간 청약 제한 조치가 가능하다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Illegal Housing Subscriptions: 390 Cases Found as ‘Seven-Person Household’ Records Checked",
+        "excerpt": "South Korea’s land ministry inspected 40 major Seoul-area apartment sales in late 2024 and found 390 suspected illegal subscription cases involving false addresses, marriages and eligibility claims.",
+        "body": "South Korea’s Ministry of Land, Infrastructure and Transport inspected subscription records for 40 major apartment sales in the Seoul metropolitan area, covering about 26,000 homes, in the second half of 2024. It found 390 suspected disruptions of the housing supply order and referred them to police. One case involved an applicant who claimed to live with a husband, three children, her mother and mother-in-law, making a seven-person household to raise subscription points. The probe found the two mothers had been falsely registered at the address. By type, 243 cases involved false registration of direct ascendants to gain dependent-family points or senior-parent special supply eligibility. Another 141 involved false addresses for local residency or similar qualifications. The ministry said it used National Health Insurance medical benefit records to verify where people actually used medical facilities. Confirmed violations can lead to criminal penalties, contract cancellation and a 10-year subscription ban. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "不正住宅申込390件摘発、7人世帯加点狙いの偽装転入を病院記録で確認",
+        "excerpt": "韓国国土交通部は2024年下半期、首都圏の主要分譲団地40カ所を点検し、偽装転入や偽装結婚、資格操作など不正申込390件を摘発した。",
+        "body": "韓国国土交通部は2024年下半期、首都圏の主要分譲団地40カ所、約2万6000戸を対象に住宅申込の実態を点検し、供給秩序を乱した疑い390件を摘発して警察庁に捜査を依頼した。摘発例には、申込加点を高めるため、夫、3人の子ども、実母、義母まで7人が同居していると申告したケースが含まれた。調査の結果、実母と義母は実際には同居しておらず、偽装転入だった。類型別では、扶養家族加点や高齢親向け特別供給資格を得るための直系尊属の偽装転入が243件で最多だった。地域居住資格などを得るための偽装転入も141件あった。国土交通部は健康保険の療養給付内訳を使い、医療機関の利用地域から実居住地を確認したと説明した。住宅法違反が確定すれば、刑事処罰、契約取消、10年間の申込制限が可能となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国查出390起违规住房认购，7人同住加分案用就医记录核实",
+        "excerpt": "韩国国土交通部检查2024年下半年首都圈40个主要楼盘，发现390起涉嫌违规认购，涉及假迁址、假结婚和资格造假等。",
+        "body": "韩国国土交通部在2024年下半年对首都圈40个主要住宅分售项目、约2.6万户进行认购实态检查，发现390起涉嫌扰乱住房供应秩序的行为，并已委托警察厅调查。其中一例为申请人申报与丈夫、三个子女、母亲和婆婆共7人同住，以提高住房认购加分。调查结果显示，其母亲和婆婆并未实际同住，而是虚假迁入。按类型看，为取得抚养家属加分或老年父母特别供应资格而虚假迁入直系尊亲属的案例最多，为243起；为取得当地居住资格等而虚假迁址的案例为141起。国土交通部表示，调查中利用健康保险疗养给付明细，通过医疗机构使用地区核实实际居住地。若最终认定违反住宅法，可能面临刑事处罚、取消合同以及10年内限制认购。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Corea detecta 390 fraudes en preventa de vivienda y revisa registros médicos",
+        "excerpt": "El Ministerio de Tierra de Corea inspeccionó 40 promociones del área metropolitana en el segundo semestre de 2024 y halló 390 casos de fraude en solicitudes de vivienda.",
+        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur revisó en el segundo semestre de 2024 las solicitudes de 40 promociones principales del área metropolitana de Seúl, unas 26.000 viviendas. La inspección detectó 390 presuntas alteraciones del orden de suministro y las remitió a la policía. Un caso incluía a una solicitante que declaró vivir con su esposo, tres hijos, su madre y su suegra, siete personas en total, para elevar su puntuación. La investigación concluyó que la madre y la suegra estaban registradas falsamente en el domicilio. Por tipo, 243 casos fueron registros ficticios de ascendientes directos para obtener puntos por familiares dependientes o acceso a oferta especial para padres mayores. Otros 141 fueron domicilios falsos para cumplir requisitos de residencia local u otros. El ministerio explicó que usó historiales de prestaciones médicas del seguro de salud para verificar la zona real de uso de centros médicos. Si se confirma la infracción de la Ley de Vivienda, puede haber sanción penal, cancelación del contrato y veto de 10 años para solicitar vivienda. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Coreia encontra 390 fraudes em subscrição de imóveis e checa registros médicos",
+        "excerpt": "O Ministério de Terras da Coreia vistoriou 40 empreendimentos da região metropolitana no 2º semestre de 2024 e achou 390 suspeitas de fraude em inscrições imobiliárias.",
+        "body": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul inspecionou, no segundo semestre de 2024, inscrições de 40 grandes empreendimentos na região metropolitana de Seul, somando cerca de 26 mil moradias. A vistoria encontrou 390 suspeitas de violação da ordem de oferta habitacional e encaminhou os casos à polícia. Um exemplo envolveu uma candidata que declarou morar com o marido, três filhos, a mãe e a sogra, formando uma família de sete pessoas para elevar sua pontuação. A investigação mostrou que a mãe e a sogra estavam registradas falsamente no endereço. Por tipo, 243 casos envolveram registro falso de ascendentes diretos para obter pontos por dependentes ou qualificação para oferta especial a pais idosos. Outros 141 casos usaram endereço falso para atender a requisitos de residência local ou similares. O ministério disse ter usado dados de benefícios médicos do seguro de saúde para verificar onde as pessoas realmente utilizavam serviços médicos. Infrações confirmadas podem gerar punição criminal, cancelamento do contrato e proibição de inscrição por 10 anos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Südkorea deckt 390 illegale Wohnungsbewerbungen auf und prüft Klinikdaten",
+        "excerpt": "Südkoreas Bauministerium prüfte im zweiten Halbjahr 2024 40 große Wohnprojekte im Großraum Seoul und fand 390 Verdachtsfälle illegaler Bewerbungen.",
+        "body": "Das südkoreanische Ministerium für Land, Infrastruktur und Verkehr prüfte im zweiten Halbjahr 2024 Bewerbungen für 40 große Wohnungsprojekte im Großraum Seoul mit rund 26.000 Einheiten. Dabei wurden 390 mutmaßliche Verstöße gegen die Vergaberegeln festgestellt und an die Polizei weitergeleitet. In einem Fall gab eine Bewerberin an, mit Ehemann, drei Kindern, ihrer Mutter und ihrer Schwiegermutter zusammenzuleben, also als Sieben-Personen-Haushalt, um mehr Punkte zu erhalten. Die Untersuchung ergab, dass Mutter und Schwiegermutter nur zum Schein unter der Adresse gemeldet waren. Nach Art der Verstöße entfielen 243 Fälle auf falsche Meldungen direkter Vorfahren, um Punkte für unterhaltsberechtigte Familienmitglieder oder eine Sonderzuteilung für ältere Eltern zu erhalten. Weitere 141 Fälle betrafen falsche Adressen für lokale Wohnsitzanforderungen oder ähnliche Voraussetzungen. Das Ministerium erklärte, es habe Leistungsdaten der Krankenversicherung genutzt, um anhand der genutzten medizinischen Einrichtungen den tatsächlichen Wohnort zu prüfen. Bei bestätigtem Verstoß drohen Strafen, Vertragsaufhebung und eine zehnjährige Bewerbungssperre. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Corée: 390 fraudes aux demandes de logement détectées grâce aux dossiers médicaux",
+        "excerpt": "Le ministère sud-coréen des Terres a contrôlé 40 programmes du Grand Séoul au second semestre 2024 et relevé 390 soupçons de fraude aux demandes de logement.",
+        "body": "Le ministère sud-coréen des Terres, des Infrastructures et des Transports a contrôlé au second semestre 2024 les demandes liées à 40 grands programmes résidentiels du Grand Séoul, soit environ 26.000 logements. Il a détecté 390 soupçons d’atteinte à l’ordre d’attribution et les a transmis à la police. Un cas concernait une candidate déclarant vivre avec son mari, trois enfants, sa mère et sa belle-mère, soit sept personnes, afin d’augmenter son score de demande. L’enquête a conclu que la mère et la belle-mère étaient faussement domiciliées à cette adresse. Par catégorie, 243 cas relevaient de l’enregistrement fictif d’ascendants directs pour obtenir des points liés aux personnes à charge ou l’accès à une offre spéciale pour parents âgés. Les fausses adresses destinées à obtenir une condition de résidence locale ou similaire représentaient 141 cas. Le ministère a indiqué avoir utilisé les données de prestations médicales de l’assurance santé pour vérifier la zone réelle de recours aux établissements médicaux. Une violation confirmée de la loi sur le logement peut entraîner des sanctions pénales, l’annulation du contrat et une interdiction de demande pendant 10 ans. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوريا تكشف 390 مخالفة في طلبات السكن وتتحقق من سجلات العلاج للأسر الكبيرة",
+        "excerpt": "فتشت وزارة الأراضي الكورية 40 مشروعا سكنيا رئيسيا في منطقة العاصمة خلال النصف الثاني من 2024، وكشفت 390 حالة اشتباه في تحايل على طلبات السكن.",
+        "body": "أجرت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية خلال النصف الثاني من 2024 فحصا لطلبات الاكتتاب السكني في 40 مشروعا رئيسيا بمنطقة العاصمة، شملت نحو 26 ألف وحدة. ووجدت 390 حالة يشتبه في أنها أخلت بنظام توريد المساكن، وأحالتها إلى الشرطة. ومن بين الحالات متقدمة أعلنت أنها تعيش مع زوجها وثلاثة أطفال ووالدتها وحماتها، أي أسرة من سبعة أفراد، لرفع نقاط الاكتتاب. وأظهر التحقيق أن الأم والحماة سجلتا عنوانهما هناك صوريا من دون إقامة فعلية. وبحسب النوع، كانت 243 حالة تتعلق بتسجيل صوري للأصول المباشرين للحصول على نقاط أفراد معالين أو أهلية توريد خاصة للوالدين المسنين. كما شملت 141 حالة عناوين صورية للحصول على صفة الإقامة المحلية أو شروط مشابهة. وقالت الوزارة إنها استخدمت بيانات مزايا العلاج في التأمين الصحي للتحقق من مناطق استخدام المرافق الطبية ومعرفة السكن الفعلي. وإذا ثبت انتهاك قانون الإسكان فقد تفرض عقوبات جنائية، وإلغاء العقد، وحظر الاكتتاب لمدة 10 سنوات. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "दक्षिण कोरिया में 390 अवैध आवास आवेदन पकड़े गए, अस्पताल रिकॉर्ड से जांच",
+        "excerpt": "दक्षिण कोरिया के भूमि मंत्रालय ने 2024 की दूसरी छमाही में राजधानी क्षेत्र की 40 प्रमुख परियोजनाओं की जांच कर फर्जी पते, विवाह और पात्रता से जुड़े 390 मामले पाए।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने 2024 की दूसरी छमाही में सियोल महानगरीय क्षेत्र की 40 प्रमुख आवास परियोजनाओं, करीब 26,000 घरों, के लिए किए गए आवेदनों की जांच की। जांच में आपूर्ति व्यवस्था को बाधित करने के 390 संदिग्ध मामले मिले और उन्हें पुलिस को भेजा गया। एक मामले में आवेदक ने अंक बढ़ाने के लिए पति, तीन बच्चों, अपनी मां और सास सहित सात लोगों के साथ रहने का दावा किया। जांच में पाया गया कि मां और सास वास्तव में साथ नहीं रहती थीं और उनका पंजीकरण फर्जी था। प्रकार के आधार पर, आश्रित परिवार अंकों या वृद्ध माता-पिता विशेष आपूर्ति पात्रता के लिए प्रत्यक्ष पूर्वजों के फर्जी पते वाले 243 मामले सबसे अधिक थे। स्थानीय निवास पात्रता आदि के लिए फर्जी पते के 141 मामले भी मिले। मंत्रालय ने कहा कि वास्तविक निवास स्थान की पुष्टि के लिए स्वास्थ्य बीमा चिकित्सा लाभ रिकॉर्ड में दर्ज चिकित्सा संस्थानों के उपयोग क्षेत्र की जांच की गई। आवास कानून उल्लंघन सिद्ध होने पर आपराधिक दंड, अनुबंध रद्दीकरण और 10 साल तक आवेदन प्रतिबंध लग सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Korea Temukan 390 Kecurangan Undian Rumah, Data Berobat Dipakai Cek Alamat",
+        "excerpt": "Kementerian Pertanahan Korea memeriksa 40 proyek hunian utama di wilayah metropolitan pada paruh kedua 2024 dan menemukan 390 dugaan kecurangan aplikasi rumah.",
+        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan memeriksa aplikasi perumahan untuk 40 proyek utama di wilayah metropolitan Seoul, mencakup sekitar 26.000 unit, pada paruh kedua 2024. Hasilnya, 390 dugaan pelanggaran tata pasok perumahan ditemukan dan dirujuk ke kepolisian. Salah satu kasus melibatkan pemohon yang mengaku tinggal bersama suami, tiga anak, ibu kandung, dan ibu mertua, total tujuh orang, untuk menaikkan poin aplikasi. Investigasi menemukan ibu kandung dan ibu mertua hanya didaftarkan secara palsu di alamat tersebut. Berdasarkan jenisnya, 243 kasus merupakan pendaftaran palsu orang tua atau leluhur langsung untuk memperoleh poin tanggungan keluarga atau kelayakan pasokan khusus orang tua lanjut usia. Ada pula 141 kasus alamat palsu untuk memperoleh status tinggal lokal atau syarat serupa. Kementerian menyatakan memakai catatan manfaat medis asuransi kesehatan untuk memeriksa wilayah fasilitas medis yang digunakan dan memverifikasi tempat tinggal nyata. Jika pelanggaran Undang-Undang Perumahan terbukti, pelaku dapat dikenai pidana, pembatalan kontrak, dan larangan aplikasi selama 10 tahun. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "90aeb028e1a2",
+    "slug": "전세-살다가-집-사려고-했는데강북마저-시장-공식-깨졌다-돈앤톡-679536",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T16:33:42.761Z",
+    "updatedAt": "2026-05-11T16:33:42.761Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050839806",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050839806",
+    "titleFingerprint": "af907c32f1c31c26a4cc196391e5113afa3c2e0c",
+    "dedupKeys": [
+      "90aeb028e1a2013ef08572637bc69758cf1b1ffb",
+      "af907c32f1c31c26a4cc196391e5113afa3c2e0c",
+      "b6f805bbea0357baef54d09069001735263ff22e"
+    ],
+    "imageUrl": "/images/articles/90aeb028e1a2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 전세가율 52.1% 역대 최저, 강북권까지 흔들린 주거 사다리",
+        "excerpt": "한국부동산원에 따르면 2026년 3월 서울 아파트 전세가율이 52.1%로 통계 작성 이후 최저치를 기록하며 전세를 통한 내 집 마련 공식이 약해졌다.",
+        "body": "2026년 5월 11일 hankyung.com 보도에 따르면, 서울 아파트 시장에서 전세를 거쳐 매매로 이동하던 주거 사다리 공식이 흔들리고 있다. 한국부동산원은 2026년 3월 서울 아파트 매매가 대비 전세가 비율이 52.1%로, 2012년 통계 작성 이후 최저치라고 밝혔다. 2016년 6월 서울 평균 전세가율은 72%였고 서대문구 79.5%, 성동구 79.3%, 성북구 79.2% 등은 80%에 가까웠다. 그러나 2026년 3월에는 금천구 58.9%, 성북구 58.2%, 서대문·도봉구 55.8%, 강서구 55.5%로 내려갔다. 매매가 급등과 전세의 월세화가 겹치며 전세가 매매가를 밀어 올리던 힘이 약해졌다는 분석이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Seoul Jeonse Ratio Hits Record Low 52.1%, Weakening Homebuying Ladder",
+        "excerpt": "According to the Korea Real Estate Board, Seoul apartment jeonse-to-sale prices fell to 52.1% in March 2026, the lowest since records began, weakening the path from renting to buying.",
+        "body": "According to a May 11, 2026 report by hankyung.com, Seoul’s apartment market is seeing the traditional route from jeonse renting to home purchase weaken. The Korea Real Estate Board said the jeonse-to-sale price ratio for Seoul apartments stood at 52.1% in March 2026, the lowest since the data series began in 2012. In June 2016, Seoul’s average ratio was 72%, with Seodaemun at 79.5%, Seongdong at 79.3% and Seongbuk at 79.2%. By March 2026, Geumcheon was 58.9%, Seongbuk 58.2%, Seodaemun and Dobong 55.8%, and Gangseo 55.5%. The report cited soaring sale prices and the shift from lump-sum jeonse to monthly rent as factors weakening jeonse’s role in pushing purchase prices. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ソウルのチョンセ率52.1％で過去最低、住宅購入への階段が揺らぐ",
+        "excerpt": "韓国不動産院によると、2026年3月のソウルマンションのチョンセ率は52.1％と統計開始以来最低となり、チョンセから購入へ進む構図が弱まった。",
+        "body": "hankyung.comの2026年5月11日の報道によると、ソウルのマンション市場でチョンセを経て住宅購入に進む従来の住居の階段が揺らいでいる。韓国不動産院は、2026年3月のソウルマンションの売買価格に対するチョンセ価格の比率が52.1％で、2012年の統計開始以降で最低だったと明らかにした。2016年6月のソウル平均は72％で、西大門区79.5％、城東区79.3％、城北区79.2％などは80％に近かった。しかし2026年3月には衿川区58.9％、城北区58.2％、西大門区・道峰区55.8％、江西区55.5％まで低下した。売買価格の急騰とチョンセの月払い化が重なり、チョンセが売買価格を押し上げる力が弱まったとの分析だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "首尔全租比降至52.1%历史低点，购房阶梯在江北也失效",
+        "excerpt": "韩国不动产院数据显示，2026年3月首尔公寓全租价与买卖价之比降至52.1%，创统计以来最低，全租转购房的路径正在弱化。",
+        "body": "据hankyung.com于2026年5月11日报道，首尔公寓市场中由全租过渡到买房的传统居住阶梯正在动摇。韩国不动产院表示，2026年3月首尔公寓全租价相对于买卖价的比例为52.1%，是2012年开始相关统计以来的最低值。2016年6月，首尔平均全租比为72%，西大门区为79.5%，城东区为79.3%，城北区为79.2%，接近80%。但到2026年3月，衿川区为58.9%，城北区为58.2%，西大门区和道峰区为55.8%，江西区为55.5%。报道分析称，买卖价格急涨叠加全租向月租转化，使全租推动买卖价格的力量减弱。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Seúl: el ratio jeonse cae al mínimo de 52,1% y se debilita la vía a la compra",
+        "excerpt": "Según la Korea Real Estate Board, en marzo de 2026 el ratio jeonse-precio de venta de apartamentos en Seúl bajó al 52,1%, mínimo histórico, debilitando el paso del alquiler a la compra.",
+        "body": "Según informó hankyung.com el 11 de mayo de 2026, en el mercado de apartamentos de Seúl se debilita la fórmula tradicional de pasar del jeonse a la compra de vivienda. La Korea Real Estate Board indicó que en marzo de 2026 el ratio entre precio de jeonse y precio de compraventa fue del 52,1%, el nivel más bajo desde que comenzó la estadística en 2012. En junio de 2016, el promedio de Seúl era del 72%, con Seodaemun en 79,5%, Seongdong en 79,3% y Seongbuk en 79,2%. En marzo de 2026, Geumcheon cayó a 58,9%, Seongbuk a 58,2%, Seodaemun y Dobong a 55,8%, y Gangseo a 55,5%. El reporte señala que la fuerte subida de los precios de venta y la conversión del jeonse en alquiler mensual redujeron su capacidad de impulsar los precios de compra. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Rácio jeonse de Seul cai para mínima de 52,1% e enfraquece caminho à compra",
+        "excerpt": "Segundo o Korea Real Estate Board, em março de 2026 o rácio entre jeonse e preço de venda de apartamentos em Seul caiu para 52,1%, mínima histórica, enfraquecendo a transição para compra.",
+        "body": "Segundo reportagem do hankyung.com em 11 de maio de 2026, o mercado de apartamentos de Seul vê enfraquecer a rota tradicional de sair do jeonse para comprar casa. O Korea Real Estate Board informou que, em março de 2026, o rácio entre preço de jeonse e preço de venda dos apartamentos em Seul foi de 52,1%, o menor nível desde o início da série em 2012. Em junho de 2016, a média de Seul era 72%, com Seodaemun em 79,5%, Seongdong em 79,3% e Seongbuk em 79,2%. Em março de 2026, Geumcheon estava em 58,9%, Seongbuk em 58,2%, Seodaemun e Dobong em 55,8%, e Gangseo em 55,5%. A reportagem atribui o enfraquecimento à disparada dos preços de venda e à transformação do jeonse em aluguel mensal. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Seouls Jeonse-Quote fällt auf Rekordtief von 52,1%, Kaufleiter bröckelt",
+        "excerpt": "Nach Angaben des Korea Real Estate Board sank die Jeonse-zu-Kaufpreis-Quote für Wohnungen in Seoul im März 2026 auf 52,1%, den niedrigsten Wert seit Beginn der Statistik.",
+        "body": "Laut einem Bericht von hankyung.com vom 11. Mai 2026 gerät im Seouler Wohnungsmarkt der traditionelle Weg vom Jeonse-Mietvertrag zum Wohnungskauf ins Wanken. Das Korea Real Estate Board teilte mit, dass die Jeonse-zu-Kaufpreis-Quote für Wohnungen in Seoul im März 2026 bei 52,1% lag, dem niedrigsten Stand seit Beginn der Erhebung im Jahr 2012. Im Juni 2016 betrug der Durchschnitt in Seoul 72%, mit Seodaemun bei 79,5%, Seongdong bei 79,3% und Seongbuk bei 79,2%. Im März 2026 lagen Geumcheon bei 58,9%, Seongbuk bei 58,2%, Seodaemun und Dobong bei 55,8% sowie Gangseo bei 55,5%. Als Gründe nennt der Bericht stark gestiegene Kaufpreise und die Verlagerung von Jeonse zu Monatsmieten. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "À Séoul, le ratio jeonse tombe à 52,1%, un plus bas qui fragilise l’accès à l’achat",
+        "excerpt": "Selon le Korea Real Estate Board, le ratio jeonse-prix de vente des appartements de Séoul est tombé à 52,1% en mars 2026, un record bas qui affaiblit le passage de la location à l’achat.",
+        "body": "Selon un article de hankyung.com publié le 11 mai 2026, le marché des appartements de Séoul voit s’affaiblir le parcours traditionnel consistant à passer du jeonse à l’achat d’un logement. Le Korea Real Estate Board a indiqué qu’en mars 2026 le ratio entre le prix du jeonse et le prix de vente des appartements à Séoul était de 52,1%, le plus bas depuis le début des statistiques en 2012. En juin 2016, la moyenne de Séoul atteignait 72%, avec Seodaemun à 79,5%, Seongdong à 79,3% et Seongbuk à 79,2%. En mars 2026, Geumcheon était à 58,9%, Seongbuk à 58,2%, Seodaemun et Dobong à 55,8%, et Gangseo à 55,5%. Le rapport cite la flambée des prix de vente et le passage du jeonse au loyer mensuel comme facteurs d’affaiblissement. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "نسبة الجونسي في سيول تهبط إلى 52.1% وتضعف طريق المستأجرين إلى الشراء",
+        "excerpt": "بحسب مجلس العقارات الكوري، هبطت نسبة الجونسي إلى سعر بيع الشقق في سيول إلى 52.1% في مارس 2026، وهو أدنى مستوى منذ بدء الإحصاءات، ما أضعف مسار الانتقال إلى التملك.",
+        "body": "بحسب تقرير نشره hankyung.com في 11 مايو 2026، يتراجع في سوق الشقق في سيول الدور التقليدي لعقد الجونسي كمرحلة تمهيدية لشراء المسكن. وذكر مجلس العقارات الكوري أن نسبة سعر الجونسي إلى سعر البيع في شقق سيول بلغت 52.1% في مارس 2026، وهو أدنى مستوى منذ بدء الإحصاءات في 2012. في يونيو 2016 كان متوسط سيول 72%، وسجلت سيوديمون 79.5%، وسيونغدونغ 79.3%، وسيونغبوك 79.2%. أما في مارس 2026 فبلغت النسبة في غومتشون 58.9%، وسيونغبوك 58.2%، وسيوديمون ودوبونغ 55.8%، وغانغسو 55.5%. ويشير التقرير إلى أن ارتفاع أسعار البيع وتحول الجونسي إلى إيجار شهري أضعفا قدرته على دفع أسعار الشراء. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सियोल में जोंसे अनुपात 52.1% के रिकॉर्ड निचले स्तर पर, घर खरीदने की सीढ़ी कमजोर",
+        "excerpt": "कोरिया रियल एस्टेट बोर्ड के अनुसार मार्च 2026 में सियोल अपार्टमेंट का जोंसे-से-बिक्री मूल्य अनुपात 52.1% रहा, जो रिकॉर्ड शुरू होने के बाद सबसे कम है और किराये से खरीद की राह कमजोर करता है।",
+        "body": "hankyung.com की 11 मई 2026 की रिपोर्ट के अनुसार, सियोल के अपार्टमेंट बाजार में जोंसे से घर खरीद तक जाने वाला पारंपरिक आवास मार्ग कमजोर हो रहा है। कोरिया रियल एस्टेट बोर्ड ने बताया कि मार्च 2026 में सियोल अपार्टमेंट के बिक्री मूल्य के मुकाबले जोंसे मूल्य का अनुपात 52.1% था, जो 2012 में आंकड़े शुरू होने के बाद सबसे कम है। जून 2016 में सियोल का औसत 72% था; सिओदेमुन 79.5%, सोंगदोंग 79.3% और सोंगबुक 79.2% पर थे। मार्च 2026 में गुमचोन 58.9%, सोंगबुक 58.2%, सिओदेमुन और दोबोंग 55.8%, तथा गांगसो 55.5% पर आ गए। रिपोर्ट के अनुसार बिक्री कीमतों की तेज बढ़त और जोंसे का मासिक किराये में बदलना इस भूमिका को कमजोर कर रहा है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Rasio Jeonse Seoul Turun ke Rekor 52,1%, Jalur Penyewa Menuju Beli Rumah Melemah",
+        "excerpt": "Menurut Korea Real Estate Board, rasio jeonse terhadap harga jual apartemen Seoul pada Maret 2026 turun ke 52,1%, terendah sejak pencatatan dimulai, sehingga jalur sewa ke beli melemah.",
+        "body": "Menurut laporan hankyung.com pada 11 Mei 2026, pasar apartemen Seoul menunjukkan melemahnya pola lama dari tinggal dengan jeonse lalu membeli rumah. Korea Real Estate Board menyatakan rasio harga jeonse terhadap harga jual apartemen Seoul pada Maret 2026 adalah 52,1%, terendah sejak statistik dimulai pada 2012. Pada Juni 2016, rata-rata Seoul mencapai 72%, dengan Seodaemun 79,5%, Seongdong 79,3%, dan Seongbuk 79,2%. Namun pada Maret 2026, Geumcheon turun ke 58,9%, Seongbuk 58,2%, Seodaemun dan Dobong 55,8%, serta Gangseo 55,5%. Laporan itu menyebut lonjakan harga jual dan peralihan jeonse ke sewa bulanan sebagai faktor yang melemahkan peran jeonse dalam mendorong harga beli. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "13aabc8d3b2b",
+    "slug": "단독-보유공제-없애면-1주택자-세금-두배투자자는-비껴가-605699",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T16:32:30.148Z",
+    "updatedAt": "2026-05-11T16:32:30.149Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605118074i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605118074i",
+    "titleFingerprint": "bac7da5812ec9d0bfc250a4f8adba086c57ce2ba",
+    "dedupKeys": [
+      "13aabc8d3b2bc554a812ac2a4a00ec1d6f4c3c6d",
+      "bac7da5812ec9d0bfc250a4f8adba086c57ce2ba",
+      "d969ceaba27ff67cd3288f403006fbe7ca17a175"
+    ],
+    "imageUrl": "/images/articles/13aabc8d3b2b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "보유공제 폐지 땐 1주택자 세금 두배 우려, 투자자는 영향 제한",
+        "excerpt": "한국경제 단독 보도에 따르면 보유공제를 없앨 경우 1주택자의 세 부담이 두 배로 늘 수 있는 반면, 투자자에게 미치는 영향은 제한적일 수 있다는 분석이 제기됐다.",
+        "body": "한국경제는 단독 보도를 통해 보유공제를 없앨 경우 1주택자의 세금이 두 배로 늘 수 있다고 전했다. 보유공제는 주택 보유자에게 적용되는 세 부담 완화 장치로, 폐지 여부에 따라 실제 납세액이 크게 달라질 수 있다. 보도는 특히 1주택자가 직접적인 세 부담 증가를 맞을 수 있는 반면, 투자자는 상대적으로 영향을 비껴갈 수 있다는 점을 짚었다. 이에 따라 제도 개편 논의가 실수요자와 투자자 간 세 부담 형평성 논란으로 이어질 가능성이 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Scrapping Holding Deduction Could Double Tax for One-Home Owners",
+        "excerpt": "According to an exclusive Hankyung report, removing the holding deduction could double taxes for one-home owners, while the impact on investors may be comparatively limited.",
+        "body": "Hankyung reported exclusively that if the holding deduction is abolished, taxes for owners of a single home could double. The deduction functions as a tax-relief mechanism for homeowners, meaning any removal could significantly change actual tax bills. The report noted that one-home owners could face a direct increase in tax burden, while investors may be relatively less affected. The issue could therefore lead to debate over fairness between end users and investors in future tax-system discussions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "保有控除廃止なら1住宅所有者の税負担倍増懸念、投資家は限定的",
+        "excerpt": "韓国経済新聞の単独報道によると、保有控除をなくす場合、1住宅所有者の税負担は倍増し得る一方、投資家への影響は限定的との分析が出ている。",
+        "body": "韓国経済新聞は単独報道で、保有控除が廃止されれば1住宅所有者の税金が2倍に増える可能性があると伝えた。保有控除は住宅所有者に適用される税負担軽減措置であり、廃止の有無によって実際の納税額が大きく変わり得る。報道は特に、1住宅所有者が直接的な税負担増に直面する一方、投資家は相対的に影響を受けにくい可能性がある点を指摘した。制度改編の議論は、実需者と投資家の税負担の公平性をめぐる論争につながる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "取消持有扣除或使一套房业主税负翻倍，投资者影响有限",
+        "excerpt": "据韩国经济新闻独家报道，若取消持有扣除，一套房业主税负可能增加至两倍，而对投资者的影响相对有限，引发税负公平性关注。",
+        "body": "韩国经济新闻独家报道称，如果取消持有扣除，一套房业主的税金可能增至两倍。持有扣除是适用于住房持有者的税负缓解机制，是否废除将明显影响实际纳税额。报道称，尤其是一套房业主可能直接面临税负上升，而投资者受到的影响相对可能较小。因此，相关制度调整讨论或将延伸为刚需业主与投资者之间税负公平性的争议。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Eliminar la deducción por tenencia podría duplicar impuestos a propietarios",
+        "excerpt": "Según una exclusiva de Hankyung, eliminar la deducción por tenencia podría duplicar la carga fiscal de quienes poseen una sola vivienda, mientras el impacto en inversores sería limitado.",
+        "body": "Hankyung informó en exclusiva que, si se elimina la deducción por tenencia, los impuestos de los propietarios de una sola vivienda podrían duplicarse. Esta deducción actúa como un mecanismo de alivio fiscal para quienes poseen vivienda, por lo que su supresión puede cambiar de forma significativa el importe real a pagar. El reporte señaló que los propietarios de una vivienda podrían enfrentar un aumento directo de la carga fiscal, mientras que los inversores podrían quedar relativamente menos afectados. La discusión sobre el cambio del sistema podría derivar en un debate sobre equidad fiscal entre usuarios finales e inversores. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fim da dedução por posse pode dobrar imposto de quem tem um imóvel",
+        "excerpt": "Segundo reportagem exclusiva do Hankyung, acabar com a dedução por posse pode dobrar a carga tributária de proprietários de um único imóvel, enquanto investidores seriam menos afetados.",
+        "body": "O Hankyung informou em reportagem exclusiva que, se a dedução por posse for eliminada, o imposto de proprietários de uma única moradia pode dobrar. A dedução funciona como um mecanismo de alívio tributário para quem possui imóvel, de modo que sua extinção pode alterar de forma relevante o valor efetivo a pagar. A reportagem destacou que proprietários de um imóvel podem sofrer aumento direto da carga fiscal, enquanto investidores podem ser relativamente menos atingidos. Assim, a discussão sobre a mudança do sistema pode gerar debate sobre a equidade tributária entre usuários finais e investidores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Wegfall des Besitzfreibetrags könnte Steuer für Ein-Haus-Besitzer verdoppeln",
+        "excerpt": "Laut einem Exklusivbericht von Hankyung könnte die Abschaffung des Besitzfreibetrags die Steuerlast von Eigentümern einer einzigen Wohnung verdoppeln, während Investoren weniger betroffen wären.",
+        "body": "Hankyung berichtete exklusiv, dass bei einer Abschaffung des Besitzfreibetrags die Steuer für Eigentümer einer einzigen Immobilie auf das Doppelte steigen könnte. Der Freibetrag dient als Entlastungsmechanismus für Wohnungsbesitzer, sodass sein Wegfall die tatsächlich zu zahlende Steuer deutlich verändern kann. Der Bericht betonte, dass Ein-Haus-Besitzer direkt mit einer höheren Steuerlast rechnen müssten, während Investoren vergleichsweise weniger betroffen sein könnten. Damit könnte die Debatte über eine Reform des Systems zu einer Diskussion über steuerliche Fairness zwischen Selbstnutzern und Investoren führen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La fin de la déduction de détention pourrait doubler l’impôt des mono-propriétaires",
+        "excerpt": "Selon une exclusivité de Hankyung, supprimer la déduction de détention pourrait doubler la charge fiscale des propriétaires d’un seul logement, tandis que l’effet sur les investisseurs serait limité.",
+        "body": "Hankyung a rapporté en exclusivité que la suppression de la déduction de détention pourrait faire doubler l’impôt des propriétaires d’un seul logement. Cette déduction sert de mécanisme d’allègement fiscal pour les détenteurs de logements, si bien que son abolition pourrait modifier fortement le montant réellement payé. Le reportage souligne que les propriétaires d’un seul bien pourraient subir une hausse directe de leur charge fiscale, tandis que les investisseurs pourraient être relativement moins touchés. Le débat sur la réforme du dispositif pourrait ainsi ouvrir une controverse sur l’équité fiscale entre utilisateurs finaux et investisseurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إلغاء خصم الحيازة قد يضاعف ضريبة مالكي منزل واحد ويحد أثره على المستثمرين",
+        "excerpt": "وفق تقرير حصري لهانكيونغ، فإن إلغاء خصم الحيازة قد يضاعف العبء الضريبي على مالكي منزل واحد، بينما قد يكون تأثيره على المستثمرين محدودا نسبيا.",
+        "body": "ذكرت هانكيونغ في تقرير حصري أن إلغاء خصم الحيازة قد يجعل ضريبة مالكي منزل واحد ترتفع إلى الضعف. ويعد هذا الخصم آلية لتخفيف العبء الضريبي عن مالكي المساكن، لذلك فإن إلغاءه قد يغير قيمة الضريبة الفعلية بشكل كبير. وأشار التقرير إلى أن مالكي منزل واحد قد يواجهون زيادة مباشرة في العبء الضريبي، في حين قد يتجنب المستثمرون التأثير نسبيا. وبذلك قد يتحول نقاش تعديل النظام إلى جدل حول عدالة العبء الضريبي بين المستخدمين الفعليين والمستثمرين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "होल्डिंग डिडक्शन हटने पर एक घर मालिकों का टैक्स दोगुना हो सकता है",
+        "excerpt": "Hankyung की विशेष रिपोर्ट के अनुसार, होल्डिंग डिडक्शन खत्म होने पर एक घर रखने वालों का कर बोझ दोगुना हो सकता है, जबकि निवेशकों पर असर अपेक्षाकृत सीमित रह सकता है।",
+        "body": "Hankyung ने अपनी विशेष रिपोर्ट में बताया कि यदि होल्डिंग डिडक्शन समाप्त किया जाता है, तो एक घर रखने वाले मालिकों का टैक्स दोगुना हो सकता है। यह डिडक्शन आवास मालिकों के लिए कर बोझ कम करने की व्यवस्था है, इसलिए इसे हटाने से वास्तविक देय कर राशि में बड़ा बदलाव आ सकता है। रिपोर्ट ने खास तौर पर कहा कि एक घर मालिक सीधे कर वृद्धि का सामना कर सकते हैं, जबकि निवेशक अपेक्षाकृत कम प्रभावित रह सकते हैं। ऐसे में व्यवस्था में बदलाव की चर्चा वास्तविक उपयोगकर्ताओं और निवेशकों के बीच कर बोझ की समानता पर विवाद को जन्म दे सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Penghapusan Deduksi Kepemilikan Bisa Gandakan Pajak Pemilik Satu Rumah",
+        "excerpt": "Menurut laporan eksklusif Hankyung, penghapusan deduksi kepemilikan dapat menggandakan beban pajak pemilik satu rumah, sementara dampaknya terhadap investor relatif terbatas.",
+        "body": "Hankyung melaporkan secara eksklusif bahwa jika deduksi kepemilikan dihapus, pajak bagi pemilik satu rumah dapat meningkat dua kali lipat. Deduksi ini berfungsi sebagai mekanisme keringanan pajak bagi pemilik hunian, sehingga penghapusannya dapat mengubah besar pajak yang benar-benar dibayar. Laporan itu menyoroti bahwa pemilik satu rumah dapat menghadapi kenaikan beban pajak secara langsung, sementara investor mungkin relatif lebih sedikit terdampak. Karena itu, pembahasan perubahan sistem dapat berkembang menjadi perdebatan tentang keadilan beban pajak antara pengguna akhir dan investor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "a84ac4e92e2e",
     "slug": "한미글로벌-앳킨스리얼리스와-美원전-프로젝트-공동추진-962901",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Lee Bantah Rencana Jual Rumah Berpenyewa Berarti Izinkan Investasi Gap",
         "excerpt": "Presiden Lee Jae-myung mengatakan kajian penundaan kewajiban tinggal nyata bagi pembeli rumah berpenyewa di zona izin transaksi tanah bukan berarti mengizinkan investasi gap.",
         "body": "Presiden Lee Jae-myung menanggapi kajian pemerintah untuk menunda kewajiban tinggal nyata bagi pembeli saat membeli satu rumah yang tidak ditempati pemiliknya tetapi memiliki penyewa di dalam zona izin transaksi tanah. Ia menyatakan klaim bahwa langkah itu berarti mengizinkan investasi gap tidak sesuai fakta. Kajian ini berkaitan dengan upaya memberi kesempatan menjual bagi pemilik satu rumah yang sedang dihuni penyewa. Di zona izin transaksi tanah, syarat tinggal nyata pembeli menjadi ketentuan utama transaksi, sehingga penundaan dapat berdampak pada penjual dan pembeli. Lee menolak tafsir bahwa langkah tersebut membuka izin investasi gap. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bb19c2c49ec7",
-    "slug": "8천피-넘보는-韓증시중복상장-규제-꺼낸-당국-체질-개선-속도-554132",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T21:58:12.834Z",
-    "updatedAt": "2026-05-10T21:58:12.834Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510023000002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510023000002",
-    "titleFingerprint": "b14d09aef4a42c9cf65645ebcdccfc1eb32f122f",
-    "dedupKeys": [
-      "bb19c2c49ec7d9a2a909b5e1c9f21b785af90e8d",
-      "b14d09aef4a42c9cf65645ebcdccfc1eb32f122f",
-      "3ff9b147a3b422cf5bc58d8b3bc3f20010a9832c"
-    ],
-    "imageUrl": "/images/articles/bb19c2c49ec7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7,500선 돌파에 당국 중복상장 규제 검토, 증시 체질 개선 속도",
-        "excerpt": "코스피가 장중 7,500선을 넘어서며 사상 최고치를 새로 쓴 가운데 금융당국은 중복상장 규제를 꺼내 증시 구조 개선에 속도를 내고 있다.",
-        "body": "서울에서 코스피가 장중 7,500선을 돌파하며 사상 최고치를 경신한 가운데 금융당국이 증시 체질 개선을 위한 중복상장 규제 카드를 꺼냈다. 원문에 따르면 코스피는 8,000포인트를 넘보는 흐름 속에서 강세를 이어가고 있으며, 당국은 상장 구조와 시장 신뢰를 점검하는 방향으로 제도 개선에 속도를 내고 있다. 중복상장 규제 논의는 국내 증시의 질적 개선과 투자자 보호를 함께 겨냥한 조치로 해석된다. 향후 시장 상승세와 제도 개편의 병행 여부가 주요 관전점이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,500 as Regulators Review Dual Listing Rules to Improve Market Quality",
-        "excerpt": "As the KOSPI broke above 7,500 intraday to set a record high, financial regulators moved to review dual listing rules to improve the structure of South Korea’s stock market.",
-        "body": "In Seoul, the KOSPI surpassed the 7,500 mark during trading and set a new record high, while financial authorities brought out dual listing regulation as a tool to improve the market’s structure. According to the original report, the index continues to show strength as it approaches the 8,000-point level. Regulators are accelerating institutional improvements by reviewing listing structures and market trust. The discussion on dual listing rules is seen as a measure aimed at both qualitative improvement of the Korean stock market and investor protection. Whether market gains and regulatory reform proceed together will be a key point to watch. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国KOSPIが7,500突破、当局は重複上場規制で市場体質改善へ",
-        "excerpt": "KOSPIが取引時間中に7,500を突破し過去最高値を更新する中、金融当局は重複上場規制を打ち出し、韓国株式市場の構造改善を急いでいる。",
-        "body": "ソウルでKOSPIが取引時間中に7,500を突破し、過去最高値を更新する中、金融当局は株式市場の体質改善に向けて重複上場規制というカードを取り出した。原文によると、KOSPIは8,000ポイントをうかがう流れの中で強さを維持しており、当局は上場構造と市場の信頼を点検する方向で制度改善を加速している。重複上場規制の議論は、韓国株式市場の質的改善と投資家保護を同時に狙う措置と受け止められる。今後は相場上昇と制度改革が並行して進むかが焦点となる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国KOSPI突破7500点，监管层讨论重复上市规则加快股市改革",
-        "excerpt": "韩国KOSPI盘中突破7500点并创下历史新高之际，金融监管部门提出重复上市监管议题，推动韩国股市结构改善提速。",
-        "body": "在首尔，韩国KOSPI盘中突破7500点并刷新历史最高纪录，同时金融监管部门拿出重复上市监管措施，以改善股市体质。根据原文，KOSPI在逼近8000点的走势中继续保持强势，监管部门正通过检查上市结构和市场信任，加快制度完善。围绕重复上市规则的讨论，被视为同时面向韩国股市质量提升和投资者保护的举措。未来市场上涨势头能否与制度改革同步推进，将成为主要关注点。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI supera 7.500 puntos y Corea revisa reglas de doble cotización bursátil",
-        "excerpt": "Mientras el KOSPI superó los 7.500 puntos intradía y marcó un máximo histórico, los reguladores financieros revisan la doble cotización para mejorar el mercado surcoreano.",
-        "body": "En Seúl, el KOSPI superó los 7.500 puntos durante la sesión y renovó su máximo histórico, mientras las autoridades financieras plantearon regular la doble cotización como vía para mejorar la estructura del mercado bursátil. Según el texto original, el índice mantiene su fortaleza mientras se acerca al nivel de 8.000 puntos. Los reguladores aceleran cambios institucionales revisando la estructura de cotización y la confianza del mercado. El debate sobre la doble cotización se interpreta como una medida orientada a mejorar la calidad del mercado coreano y proteger a los inversores. La atención estará en si el avance del mercado y la reforma regulatoria avanzan en paralelo. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI passa de 7.500 pontos e Coreia avalia regras para dupla listagem",
-        "excerpt": "Com o KOSPI acima de 7.500 pontos no intradia e em máxima histórica, reguladores financeiros discutem regras de dupla listagem para melhorar o mercado acionário coreano.",
-        "body": "Em Seul, o KOSPI ultrapassou 7.500 pontos durante o pregão e renovou sua máxima histórica, enquanto as autoridades financeiras apresentaram a regulação da dupla listagem como instrumento para melhorar a estrutura do mercado acionário. Segundo o texto original, o índice segue forte enquanto mira a faixa de 8.000 pontos. Os reguladores aceleram ajustes institucionais ao revisar a estrutura de listagem e a confiança no mercado. A discussão sobre dupla listagem é vista como uma medida voltada tanto à melhoria qualitativa da bolsa coreana quanto à proteção dos investidores. O principal ponto de atenção será se a alta do mercado e a reforma regulatória avançarão juntas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI steigt über 7.500 Punkte, Aufsicht prüft Regeln für Doppelnotierungen",
-        "excerpt": "Der KOSPI überschritt im Tageshandel 7.500 Punkte und erreichte ein Rekordhoch, während Finanzaufseher Regeln zu Doppelnotierungen zur Stärkung des Marktes prüfen.",
-        "body": "In Seoul überschritt der KOSPI im Handelsverlauf die Marke von 7.500 Punkten und erreichte ein neues Rekordhoch. Gleichzeitig brachten die Finanzbehörden Regeln für Doppelnotierungen als Mittel zur Verbesserung der Marktstruktur ins Spiel. Dem Originalbericht zufolge bleibt der Index stark, während er sich der Marke von 8.000 Punkten nähert. Die Aufsicht beschleunigt institutionelle Verbesserungen, indem sie Börsennotierungsstrukturen und das Vertrauen in den Markt überprüft. Die Debatte über Doppelnotierungen gilt als Maßnahme, die sowohl auf eine qualitative Verbesserung des koreanischen Aktienmarktes als auch auf Anlegerschutz abzielt. Entscheidend wird sein, ob Marktanstieg und Reformen parallel vorankommen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 500 points, Séoul examine les doubles cotations",
-        "excerpt": "Alors que le KOSPI a dépassé 7 500 points en séance et inscrit un record, les autorités financières sud-coréennes examinent les doubles cotations pour améliorer le marché.",
-        "body": "À Séoul, le KOSPI a dépassé les 7 500 points en séance et établi un nouveau record historique, tandis que les autorités financières ont sorti l’option d’une réglementation des doubles cotations pour améliorer la structure du marché boursier. Selon le texte original, l’indice reste solide alors qu’il se rapproche du seuil des 8 000 points. Les régulateurs accélèrent les améliorations institutionnelles en examinant les structures de cotation et la confiance du marché. Le débat sur les doubles cotations est interprété comme une mesure visant à la fois l’amélioration qualitative du marché coréen et la protection des investisseurs. La question clé sera de savoir si la hausse du marché et la réforme réglementaire avanceront ensemble. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7500 نقطة والسلطات الكورية تراجع قواعد الإدراج المزدوج",
-        "excerpt": "مع تجاوز كوسبي مستوى 7500 نقطة أثناء التداول وتسجيله مستوى قياسيا، طرحت السلطات المالية الكورية تنظيم الإدراج المزدوج لتحسين بنية سوق الأسهم.",
-        "body": "في سيول، تجاوز مؤشر كوسبي مستوى 7500 نقطة خلال التداول وسجل أعلى مستوى تاريخي، بينما طرحت السلطات المالية تنظيم الإدراج المزدوج كأداة لتحسين بنية سوق الأسهم. وبحسب النص الأصلي، يواصل المؤشر قوته مع اقترابه من مستوى 8000 نقطة. وتسرع الجهات التنظيمية تحسينات مؤسسية عبر مراجعة هياكل الإدراج وثقة السوق. وتعد مناقشة قواعد الإدراج المزدوج إجراء يستهدف تحسين جودة سوق الأسهم الكورية وحماية المستثمرين في الوقت نفسه. وسيكون التركيز لاحقا على ما إذا كان صعود السوق والإصلاح التنظيمي سيتقدمان معا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के पार, कोरिया में डुअल लिस्टिंग नियमों की समीक्षा तेज",
-        "excerpt": "KOSPI ने कारोबार के दौरान 7,500 अंक पार कर रिकॉर्ड ऊंचाई बनाई, जबकि वित्तीय नियामक कोरियाई शेयर बाजार की संरचना सुधारने के लिए डुअल लिस्टिंग नियमों की समीक्षा कर रहे हैं।",
-        "body": "सियोल में KOSPI ने कारोबार के दौरान 7,500 अंक का स्तर पार किया और नया ऐतिहासिक उच्च स्तर बनाया। इसी बीच वित्तीय अधिकारियों ने शेयर बाजार की संरचना सुधारने के लिए डुअल लिस्टिंग नियमन का विकल्प सामने रखा। मूल रिपोर्ट के अनुसार, सूचकांक 8,000 अंक के स्तर की ओर बढ़ते हुए मजबूती बनाए हुए है। नियामक लिस्टिंग संरचना और बाजार भरोसे की समीक्षा के जरिए संस्थागत सुधारों की गति बढ़ा रहे हैं। डुअल लिस्टिंग नियमों पर चर्चा को कोरियाई शेयर बाजार की गुणवत्ता सुधारने और निवेशकों की सुरक्षा, दोनों को साधने वाला कदम माना जा रहा है। आगे बाजार की तेजी और नियामकीय सुधार साथ-साथ चलते हैं या नहीं, यह मुख्य बिंदु रहेगा। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.500, Korea Kaji Aturan Pencatatan Ganda Saham",
-        "excerpt": "Saat KOSPI menembus 7.500 intraday dan mencetak rekor tertinggi, otoritas keuangan Korea mengkaji aturan pencatatan ganda untuk memperbaiki struktur pasar saham.",
-        "body": "Di Seoul, KOSPI menembus level 7.500 dalam perdagangan intraday dan mencetak rekor tertinggi baru, sementara otoritas keuangan mengangkat regulasi pencatatan ganda sebagai alat untuk memperbaiki struktur pasar saham. Menurut teks asli, indeks tetap menguat saat mengarah ke level 8.000 poin. Regulator mempercepat perbaikan kelembagaan dengan meninjau struktur pencatatan dan kepercayaan pasar. Pembahasan aturan pencatatan ganda dipandang sebagai langkah yang menargetkan peningkatan kualitas pasar saham Korea sekaligus perlindungan investor. Ke depan, apakah kenaikan pasar dan reformasi aturan dapat berjalan bersamaan akan menjadi perhatian utama. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4ccc35d7ad7e",
-    "slug": "강남도-아닌데-월세-300만원월급-증발에-직장인-한숨-돈앤톡-627709",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T21:57:20.920Z",
-    "updatedAt": "2026-05-10T21:57:20.920Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050714736",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050714736",
-    "titleFingerprint": "0e772a6c1f8b495066e7fbba81cb9dcc1c66ff78",
-    "dedupKeys": [
-      "4ccc35d7ad7e8f787c661b13318ad7ca982fa060",
-      "0e772a6c1f8b495066e7fbba81cb9dcc1c66ff78",
-      "90289dd018ffa817a602a4d5c9d25062d0c4f197"
-    ],
-    "imageUrl": "/images/articles/4ccc35d7ad7e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "월세 300만원 부담, 강남 밖에서도 커진 직장인 주거비 한숨",
-        "excerpt": "한국경제는 강남이 아닌 지역에서도 월세 300만원 수준의 주거비 부담이 나타나며 월급 대부분이 사라지는 직장인들의 한숨이 커지고 있다고 보도했다.",
-        "body": "강남이 아닌 지역에서도 월세 300만원 수준의 주거비 부담이 나타나면서 직장인들의 한숨이 커지고 있다. 한국경제 ‘돈앤톡’ 보도에 따르면 높은 월세로 월급이 빠르게 사라지는 현실이 직장인 주거비 문제로 부각됐다. 기사 제목은 ‘강남도 아닌데 월세 300만원’이라는 표현을 통해 특정 고가 주거지로 인식되는 강남 밖에서도 임대료 부담이 적지 않다는 점을 전했다. 월세 부담이 커질수록 직장인의 생활비 여력은 줄어들 수밖에 없어 주거비 압박에 대한 관심이 이어질 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "3 Million Won Monthly Rent Outside Gangnam Deepens Workers’ Housing Burden",
-        "excerpt": "Hankyung reported that even outside Gangnam, monthly rents reaching 3 million won are weighing on salaried workers as much of their pay disappears into housing costs.",
-        "body": "Even outside Gangnam, monthly rents of around 3 million won are adding to the burden on office workers. According to Hankyung’s “Don & Talk” report, high monthly rent has emerged as a housing-cost issue for salaried employees whose paychecks quickly disappear. The article’s title, “It’s not even Gangnam, but monthly rent is 3 million won,” highlights that rent pressure is not limited to areas widely viewed as expensive residential districts. As monthly rent takes up more of workers’ income, their room for living expenses inevitably narrows, keeping attention on housing-cost pressure. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "江南でもないのに月300万ウォン、会社員に重い家賃負担",
-        "excerpt": "韓国経済新聞は、江南ではない地域でも月300万ウォン水準の家賃負担が生じ、給与の多くが消える会社員のため息が広がっていると報じた。",
-        "body": "江南ではない地域でも月300万ウォン水準の家賃負担が生じ、会社員のため息が深まっている。韓国経済新聞の「돈앤톡」報道によると、高い月払い家賃によって給与がすぐに消えてしまう現実が、会社員の住居費問題として浮上した。記事タイトルは「江南でもないのに月300万ウォン」という表現で、高級住宅地として認識される江南の外でも賃料負担が小さくないことを伝えた。家賃負担が大きくなるほど生活費の余力は狭まり、住居費圧迫への関心は続く見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "非江南地区月租也达300万韩元，上班族住房负担加重",
-        "excerpt": "韩国经济报道称，即便不是江南地区，也出现月租300万韩元水平的住房负担，工资大多被房租吞噬，上班族叹息加深。",
-        "body": "即便不是江南地区，月租约300万韩元的住房负担也在加重，上班族的叹息正在增加。据韩国经济“Don & Talk”报道，高额月租使工资迅速消失的现实，已成为上班族住房成本问题。报道标题以“不是江南，月租却要300万韩元”的表述，指出租金压力并不只存在于被认为房价高昂的江南地区。随着月租负担上升，上班族可用于生活开支的余地必然缩小，外界对住房成本压力的关注预计将持续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Alquiler de 3 millones de wones fuera de Gangnam presiona a trabajadores",
-        "excerpt": "Hankyung informó que incluso fuera de Gangnam hay alquileres mensuales de 3 millones de wones, lo que hace que gran parte del salario de los empleados desaparezca.",
-        "body": "Incluso fuera de Gangnam, los alquileres mensuales de alrededor de 3 millones de wones están aumentando la presión sobre los trabajadores asalariados. Según el reporte “Don & Talk” de Hankyung, el alto alquiler mensual se ha convertido en un problema de vivienda para empleados cuyos sueldos desaparecen rápidamente. El título del artículo, “Ni siquiera es Gangnam y el alquiler mensual es de 3 millones de wones”, subraya que la carga de los alquileres no se limita a zonas residenciales consideradas caras. A medida que crece ese gasto, se reduce el margen para cubrir otros costos de vida, por lo que la atención sobre la presión habitacional continuará. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Aluguel de 3 milhões de won fora de Gangnam pesa sobre trabalhadores",
-        "excerpt": "O Hankyung informou que, mesmo fora de Gangnam, aluguéis mensais de 3 milhões de won vêm pressionando assalariados, fazendo grande parte do salário desaparecer.",
-        "body": "Mesmo fora de Gangnam, aluguéis mensais em torno de 3 milhões de won estão aumentando o peso sobre trabalhadores de escritório. Segundo a reportagem “Don & Talk” do Hankyung, o aluguel elevado virou um problema de custo habitacional para assalariados cujos salários desaparecem rapidamente. O título do artigo, “Nem é Gangnam, mas o aluguel mensal é de 3 milhões de won”, mostra que a pressão dos aluguéis não se restringe a áreas vistas como residenciais caras. Quanto maior o aluguel, menor a margem para despesas de vida, mantendo o tema da pressão habitacional em evidência. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "3 Millionen Won Miete außerhalb Gangnams belasten Angestellte spürbar",
-        "excerpt": "Hankyung berichtete, dass selbst außerhalb Gangnams Monatsmieten von rund 3 Millionen Won auftreten und ein großer Teil des Gehalts von Angestellten verschwindet.",
-        "body": "Auch außerhalb Gangnams belasten Monatsmieten von rund 3 Millionen Won zunehmend Angestellte. Laut einem Bericht von Hankyung in “Don & Talk” wird die hohe Monatsmiete zu einem Wohnkostenproblem für Beschäftigte, deren Gehalt schnell aufgezehrt wird. Der Artikeltitel “Nicht einmal Gangnam, aber 3 Millionen Won Monatsmiete” macht deutlich, dass der Mietdruck nicht nur auf Gegenden beschränkt ist, die als teure Wohnlagen gelten. Je stärker die Mietlast wächst, desto weniger Spielraum bleibt für Lebenshaltungskosten, sodass die Aufmerksamkeit für den Wohnkostendruck anhalten dürfte. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Loyer de 3 millions de wons hors Gangnam, les salariés sous pression",
-        "excerpt": "Hankyung rapporte que même hors de Gangnam, des loyers mensuels de 3 millions de wons pèsent sur les salariés, dont une grande partie du salaire disparaît.",
-        "body": "Même en dehors de Gangnam, des loyers mensuels d’environ 3 millions de wons alourdissent la charge des salariés. Selon l’article “Don & Talk” de Hankyung, les loyers élevés font disparaître rapidement les salaires et s’imposent comme un problème de coût du logement pour les employés. Le titre, “Ce n’est même pas Gangnam, mais le loyer est de 3 millions de wons”, souligne que la pression locative ne se limite pas aux quartiers perçus comme résidentiels et chers. Plus cette charge augmente, moins les salariés disposent de marge pour leurs dépenses courantes, ce qui devrait maintenir l’attention sur la pression du logement. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إيجار 3 ملايين وون خارج غانغنام يزيد عبء السكن على الموظفين",
-        "excerpt": "ذكرت هانكيونغ أن إيجارات شهرية تصل إلى 3 ملايين وون تظهر حتى خارج غانغنام، ما يجعل معظم رواتب الموظفين يتبخر تحت ضغط تكاليف السكن.",
-        "body": "حتى خارج غانغنام، باتت إيجارات شهرية تقارب 3 ملايين وون تزيد العبء على الموظفين. ووفق تقرير “دون آند توك” في هانكيونغ، برزت الإيجارات المرتفعة كقضية تتعلق بتكاليف السكن للموظفين الذين تختفي رواتبهم بسرعة. ويشير عنوان المقال، “ليست غانغنام ومع ذلك الإيجار الشهري 3 ملايين وون”، إلى أن ضغط الإيجارات لا يقتصر على المناطق المعروفة بأنها سكنية مرتفعة التكلفة. ومع تزايد عبء الإيجار، تضيق قدرة الموظفين على تغطية نفقات المعيشة، ما يبقي الاهتمام منصبا على ضغط تكاليف السكن. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "गंगनम से बाहर भी 30 लाख वॉन किराया, कर्मचारियों पर आवास बोझ",
-        "excerpt": "हैंकयुंग ने बताया कि गंगनम से बाहर भी मासिक किराया 30 लाख वॉन तक पहुंच रहा है, जिससे कर्मचारियों का वेतन आवास लागत में तेजी से खत्म हो रहा है।",
-        "body": "गंगनम से बाहर भी लगभग 30 लाख वॉन मासिक किराए का बोझ कर्मचारियों की चिंता बढ़ा रहा है। हैंकयुंग की “Don & Talk” रिपोर्ट के अनुसार, ऊंचे मासिक किराए के कारण वेतन तेजी से खत्म हो जाने की स्थिति कर्मचारियों के आवास खर्च की समस्या के रूप में उभरी है। लेख के शीर्षक, “गंगनम भी नहीं, फिर भी मासिक किराया 30 लाख वॉन”, से बताया गया कि किराए का दबाव केवल महंगे आवासीय क्षेत्र माने जाने वाले गंगनम तक सीमित नहीं है। किराए का बोझ बढ़ने पर जीवनयापन खर्च के लिए गुंजाइश घटती है, इसलिए आवास लागत पर ध्यान जारी रहने की संभावना है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Sewa 3 Juta Won di Luar Gangnam Bebani Pekerja Bergaji",
-        "excerpt": "Hankyung melaporkan bahwa bahkan di luar Gangnam, sewa bulanan sekitar 3 juta won membebani pekerja, membuat sebagian besar gaji cepat habis.",
-        "body": "Bahkan di luar Gangnam, sewa bulanan sekitar 3 juta won mulai memperberat beban pekerja kantoran. Menurut laporan “Don & Talk” dari Hankyung, tingginya sewa bulanan membuat gaji cepat habis dan menjadi persoalan biaya hunian bagi pekerja bergaji. Judul artikel, “Bukan Gangnam, tetapi sewanya 3 juta won per bulan,” menunjukkan bahwa tekanan sewa tidak hanya terjadi di wilayah yang dikenal sebagai kawasan hunian mahal. Semakin besar beban sewa, semakin kecil ruang untuk biaya hidup lain, sehingga perhatian terhadap tekanan biaya hunian diperkirakan terus berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e3a5a9940826",
-    "slug": "511-mk-추천매물-동탄신도시-98대-본사-직영-슈퍼-30억7천만원-등-932951",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T21:56:20.566Z",
-    "updatedAt": "2026-05-10T21:56:20.566Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12042847",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12042847",
-    "titleFingerprint": "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
-    "dedupKeys": [
-      "e3a5a99408266d3d14789fe8ac443be649a76452",
-      "d9ca37d7e7fb53d72f3be97f308108c970f70dd3",
-      "5004536512bc06dac6542affd2dfb2b3a1a21012"
-    ],
-    "imageUrl": "/images/articles/e3a5a9940826.jpg",
-    "i18n": {
-      "ko": {
-        "title": "동탄신도시 9.8%대 슈퍼 30억7000만원, MK 5월11일 추천매물",
-        "excerpt": "매일경제가 5월11일 추천매물로 동탄2신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 대형 공장 등 수익형·산업용 부동산 정보를 제시했다.",
-        "body": "매일경제는 5월11일 추천매물로 동탄2신도시 본사 직영 슈퍼와 아산시 인주면 산업단지 내 대형 공장을 소개했다. 제목에 따르면 동탄신도시 매물은 9.8%대 수익률을 내세운 본사 직영 슈퍼로, 가격은 30억7000만원이다. 함께 제시된 아산시 인주면 산업단지 공장은 공장용지 2만5330㎡, 연면적 1만7865㎡ 규모이며, 지상 3층 사무동과 210m×80m 대형 단층 공장 형태로 설명됐다. 가격은 260억원이다. 이번 매물 정보는 수익형 상업시설과 산업단지 공장 수요자가 비교 검토할 수 있는 기초 자료로 볼 수 있다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Dongtan 9.8% Supermarket at 3.07 Billion Won in MK May 11 Picks",
-        "excerpt": "Maeil Business Newspaper listed a company-operated supermarket in Dongtan 2 New Town and a large factory in Asan’s Inju industrial complex among its May 11 recommended properties.",
-        "body": "Maeil Business Newspaper introduced a company-operated supermarket in Dongtan 2 New Town and a large factory inside the Inju-myeon industrial complex in Asan as recommended properties for May 11. According to the headline, the Dongtan property is a headquarters-operated supermarket marketed with a yield in the 9.8% range and priced at 3.07 billion won. The Asan factory was described as having 25,330 square meters of factory land and 17,865 square meters of total floor area, with a three-story office building and a large single-story factory measuring 210 meters by 80 meters. Its price is 26 billion won. The listing information offers basic reference points for buyers reviewing income-producing retail property and industrial factory assets. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "東灘新都市9.8％台スーパー30億7000万ウォン、MK推薦物件",
-        "excerpt": "毎日経済は5月11日の推薦物件として、東灘2新都市の本社直営スーパーと牙山市仁州面産業団地内の大型工場などを紹介した。",
-        "body": "毎日経済は5月11日の推薦物件として、東灘2新都市の本社直営スーパーと、牙山市仁州面の産業団地内にある大型工場を紹介した。見出しによると、東灘新都市の物件は9.8％台の利回りを掲げる本社直営スーパーで、価格は30億7000万ウォン。あわせて示された牙山市仁州面産業団地の工場は、工場用地2万5330㎡、延べ面積1万7865㎡規模で、地上3階の事務棟と210m×80mの大型平屋工場の形態と説明された。価格は260億ウォン。今回の物件情報は、収益型商業施設と産業団地内工場を検討する需要者の基礎資料となる。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "东滩新城9.8%区间超市30.7亿韩元，MK 5月11日推荐房源",
-        "excerpt": "每日经济5月11日推荐房源包括东滩2新城总部直营超市，以及牙山市仁州面产业园区内大型工厂等商业与工业地产信息。",
-        "body": "每日经济在5月11日推荐房源中介绍了东滩2新城总部直营超市和牙山市仁州面产业园区内大型工厂。根据标题，东滩新城房源为总部直营超市，标示收益率在9.8%区间，价格为30.7亿韩元。同期列出的牙山市仁州面产业园区工厂，工厂用地面积为25330㎡，总建筑面积为17865㎡，由地上3层办公楼和210米×80米的大型单层工厂组成。价格为260亿韩元。该房源信息可作为关注收益型商业设施和产业园区工厂的买方进行比较时的基础资料。来源：引用自 mk.co.kr。"
-      },
-      "es": {
-        "title": "Supermercado en Dongtan con 9,8% por 3.070 millones de wones, selección MK",
-        "excerpt": "Maeil Business Newspaper presentó el 11 de mayo un supermercado operado por la sede en Dongtan 2 y una gran fábrica en el complejo industrial de Inju, Asan.",
-        "body": "Maeil Business Newspaper presentó como inmuebles recomendados del 11 de mayo un supermercado operado directamente por la sede en Dongtan 2 New Town y una gran fábrica dentro del complejo industrial de Inju-myeon, en Asan. Según el titular, el activo de Dongtan es un supermercado con una rentabilidad indicada en el rango del 9,8% y un precio de 3.070 millones de wones. La fábrica de Asan se describe con 25.330 m² de terreno industrial y 17.865 m² de superficie construida, además de un edificio de oficinas de tres plantas y una gran nave de una sola planta de 210 m × 80 m. Su precio es de 26.000 millones de wones. La información sirve como referencia básica para comparar activos comerciales de renta e inmuebles industriales. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Supermercado em Dongtan com 9,8% por 3,07 bi de won, indicação MK",
-        "excerpt": "O Maeil Business Newspaper listou em 11 de maio um supermercado operado pela matriz em Dongtan 2 e uma grande fábrica no complexo industrial de Inju, em Asan.",
-        "body": "O Maeil Business Newspaper apresentou em 11 de maio, entre seus imóveis recomendados, um supermercado operado diretamente pela matriz em Dongtan 2 New Town e uma grande fábrica no complexo industrial de Inju-myeon, em Asan. Segundo o título, o imóvel de Dongtan é um supermercado com rendimento indicado na faixa de 9,8% e preço de 3,07 bilhões de won. A fábrica de Asan foi descrita com terreno industrial de 25.330 m² e área construída de 17.865 m², composta por um prédio de escritórios de três pavimentos e uma grande fábrica térrea de 210 m × 80 m. O preço é de 26 bilhões de won. As informações servem como referência básica para interessados em ativos comerciais de renda e fábricas em complexos industriais. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Dongtan-Supermarkt mit 9,8% Rendite für 3,07 Mrd. Won in MK-Auswahl",
-        "excerpt": "Maeil Business Newspaper nannte am 11. Mai einen direkt von der Zentrale betriebenen Supermarkt in Dongtan 2 und eine große Fabrik im Industriekomplex Inju in Asan.",
-        "body": "Maeil Business Newspaper stellte am 11. Mai als empfohlene Immobilien einen direkt von der Zentrale betriebenen Supermarkt in Dongtan 2 New Town sowie eine große Fabrik im Industriekomplex Inju-myeon in Asan vor. Laut Überschrift handelt es sich bei dem Dongtan-Objekt um einen Supermarkt mit einer ausgewiesenen Rendite im Bereich von 9,8% und einem Preis von 3,07 Milliarden Won. Die Fabrik in Asan wurde mit 25.330 m² Fabrikgrundstück und 17.865 m² Bruttogeschossfläche beschrieben, bestehend aus einem dreigeschossigen Bürogebäude und einer großen eingeschossigen Werkhalle von 210 m × 80 m. Der Preis beträgt 26 Milliarden Won. Die Angaben bieten eine Grundlage für den Vergleich von renditeorientierten Gewerbeflächen und Industrieobjekten. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Supermarché à Dongtan à 9,8% pour 3,07 Mds de wons, sélection MK",
-        "excerpt": "Maeil Business Newspaper a présenté le 11 mai un supermarché exploité par le siège à Dongtan 2 et une grande usine dans le complexe industriel d’Inju à Asan.",
-        "body": "Maeil Business Newspaper a présenté, parmi ses biens recommandés du 11 mai, un supermarché exploité directement par le siège à Dongtan 2 New Town et une grande usine dans le complexe industriel d’Inju-myeon, à Asan. Selon le titre, le bien de Dongtan est un supermarché affichant un rendement dans la zone de 9,8%, avec un prix de 3,07 milliards de wons. L’usine d’Asan est décrite avec un terrain industriel de 25 330 m² et une surface totale de 17 865 m², comprenant un immeuble de bureaux de trois étages et une grande usine de plain-pied de 210 m × 80 m. Son prix est de 26 milliards de wons. Ces informations constituent une base de comparaison pour les demandeurs d’actifs commerciaux à revenu et d’usines en zone industrielle. Source: cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "سوبرماركت دونغتان بعائد 9.8% وسعر 3.07 مليار وون ضمن ترشيحات MK",
-        "excerpt": "عرضت صحيفة ماييل الاقتصادية في 11 مايو سوبرماركت تديره الشركة مباشرة في دونغتان 2 ومصنعا كبيرا داخل مجمع إنجو الصناعي في آسان.",
-        "body": "قدمت صحيفة ماييل الاقتصادية في 11 مايو ضمن عقاراتها الموصى بها سوبرماركت تديره الشركة الأم مباشرة في مدينة دونغتان 2 الجديدة، إلى جانب مصنع كبير داخل مجمع إنجو-ميون الصناعي في مدينة آسان. ووفق العنوان، فإن عقار دونغتان هو سوبرماركت بعائد مطروح في نطاق 9.8% وبسعر 3.07 مليار وون. أما مصنع آسان فتم وصفه بأنه يضم أرضا صناعية بمساحة 25,330 متر مربع ومساحة أرضية إجمالية قدرها 17,865 متر مربع، مع مبنى مكاتب من ثلاثة طوابق ومصنع كبير من طابق واحد بأبعاد 210 أمتار × 80 مترا. ويبلغ سعره 26 مليار وون. توفر هذه المعلومات أساسا أوليا للمقارنة بين منشآت تجارية مدرة للدخل وأصول صناعية. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "डोंगतान 9.8% सुपरमार्केट 3.07 अरब वोन, MK की 11 मई सूची",
-        "excerpt": "मेइल बिजनेस न्यूजपेपर ने 11 मई की अनुशंसित संपत्तियों में डोंगतान 2 के मुख्यालय-संचालित सुपरमार्केट और आसन के इंजू औद्योगिक परिसर की बड़ी फैक्टरी को रखा।",
-        "body": "मेइल बिजनेस न्यूजपेपर ने 11 मई की अनुशंसित संपत्तियों में डोंगतान 2 न्यू टाउन के मुख्यालय द्वारा सीधे संचालित सुपरमार्केट और आसन शहर के इंजू-म्योन औद्योगिक परिसर में स्थित एक बड़ी फैक्टरी को पेश किया। शीर्षक के अनुसार, डोंगतान संपत्ति 9.8% के दायरे की उपज के साथ प्रस्तुत सुपरमार्केट है और इसकी कीमत 3.07 अरब वोन है। आसन की फैक्टरी के लिए 25,330 वर्ग मीटर फैक्टरी भूमि और 17,865 वर्ग मीटर कुल फ्लोर एरिया बताया गया है। इसमें तीन मंजिला कार्यालय भवन और 210 मीटर × 80 मीटर की बड़ी एक-मंजिला फैक्टरी शामिल है। कीमत 26 अरब वोन है। यह जानकारी आय देने वाली वाणिज्यिक संपत्ति और औद्योगिक परिसर की फैक्टरी की तुलना करने वालों के लिए आधार सामग्री है। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Supermarket Dongtan Imbal 9,8% Rp? 3,07 Miliar Won Masuk Pilihan MK",
-        "excerpt": "Maeil Business Newspaper pada 11 Mei menampilkan supermarket yang dioperasikan langsung kantor pusat di Dongtan 2 dan pabrik besar di kawasan industri Inju, Asan.",
-        "body": "Maeil Business Newspaper memperkenalkan supermarket yang dioperasikan langsung oleh kantor pusat di Dongtan 2 New Town dan pabrik besar di kawasan industri Inju-myeon, Asan, sebagai properti rekomendasi pada 11 Mei. Menurut judul, properti di Dongtan adalah supermarket dengan imbal hasil di kisaran 9,8% dan harga 3,07 miliar won. Pabrik di Asan dijelaskan memiliki lahan pabrik 25.330 m² dan luas lantai total 17.865 m², terdiri dari gedung kantor tiga lantai serta pabrik besar satu lantai berukuran 210 m × 80 m. Harganya 26 miliar won. Informasi ini dapat menjadi bahan dasar bagi pembeli yang membandingkan fasilitas komersial berpendapatan dan aset pabrik di kawasan industri. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
