@@ -1,5 +1,230 @@
 [
   {
+    "id": "9e85cee83257",
+    "slug": "미국산-소고기값-1년새-42-올라-171772",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T18:12:27.902Z",
+    "updatedAt": "2026-05-11T18:12:27.902Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901386/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901386/2",
+    "titleFingerprint": "979104f8576f8285b8c3fb939e915aa6adf35d97",
+    "dedupKeys": [
+      "9e85cee832574dc07f3a53d524d57f2d1eb9023c",
+      "979104f8576f8285b8c3fb939e915aa6adf35d97",
+      "bc713ae6bbea51757651882ef4a1438953190ceb"
+    ],
+    "imageUrl": "/images/articles/9e85cee83257.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국산 소고기값 1년 새 42% 급등, 해상 운임 상승에 수입 축산물 부담 커져",
+        "excerpt": "11일 서울 대형마트에서 수입 소고기를 살피는 소비자들 사이로, 중동 전쟁 여파에 따른 글로벌 해상 운임 상승이 미국산 소고기 가격 인상으로 이어지고 있다.",
+        "body": "11일 서울의 한 대형마트에서 소비자가 수입 소고기를 살펴보는 가운데, 중동 전쟁의 여파로 글로벌 해상 운임이 치솟으면서 수입 축산물 가격이 상승세를 보이고 있다. 소비자에게 인기가 많은 미국산 척아이롤 냉장 제품의 판매가격은 10일 기준 100g당 4210원으로 집계됐다. 이는 1년 전보다 41.7% 오른 수준이다. 해상 운임 상승이 수입 과정의 비용 부담으로 이어지며 수입 축산물 가격 전반에 영향을 주는 모습이다. 가격 상승은 대형마트에서 수입 소고기를 구매하는 소비자의 체감 부담을 키울 수 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "U.S. Beef Prices Jump 42% in a Year as Freight Costs Push Up Imported Meat",
+        "excerpt": "At a major Seoul supermarket on the 11th, consumers examined imported beef as higher global ocean freight costs linked to the Middle East war lifted U.S. beef prices.",
+        "body": "On the 11th, a consumer at a major supermarket in Seoul was seen examining imported beef, as prices of imported livestock products continued to rise. The increase comes as global ocean freight rates have surged in the aftermath of the Middle East war. The retail price of chilled U.S. chuck eye roll, a popular cut among consumers, stood at 4,210 won per 100 grams as of the 10th. That is 41.7% higher than a year earlier. Rising shipping costs are adding pressure to import costs and affecting imported meat prices. The increase may add to the burden felt by consumers buying imported beef at large retailers. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "米国産牛肉価格が1年で42％上昇、海上運賃高騰で輸入畜産物に負担",
+        "excerpt": "11日、ソウルの大型スーパーで消費者が輸入牛肉を確認する中、中東戦争の影響による世界的な海上運賃上昇が米国産牛肉価格を押し上げている。",
+        "body": "11日、ソウルの大型スーパーで消費者が輸入牛肉を見ている中、中東戦争の影響で世界的な海上運賃が急騰し、輸入畜産物の価格が上昇傾向を示している。消費者に人気の高い米国産チルド・チャックアイロールの販売価格は、10日時点で100グラム当たり4210ウォンとなった。これは1年前より41.7％高い水準だ。海上運賃の上昇が輸入過程のコスト負担につながり、輸入畜産物価格全般に影響している形だ。価格上昇は大型スーパーで輸入牛肉を購入する消費者の負担感を高める可能性がある。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "美国牛肉价格一年上涨42%，海运费攀升推高进口畜产品成本",
+        "excerpt": "11日，首尔一家大型超市内消费者查看进口牛肉；受中东战争影响，全球海运费上涨，带动美国牛肉等进口畜产品价格走高。",
+        "body": "11日，在首尔一家大型超市，消费者正在查看进口牛肉。受中东战争影响，全球海运费大幅上涨，进口畜产品价格呈现上升趋势。深受消费者欢迎的美国冷藏肩胛眼肉，截至10日的销售价格为每100克4210韩元。与一年前相比，上涨幅度达到41.7%。海运费上涨正在转化为进口过程中的成本压力，并影响进口畜产品整体价格。价格上升可能加重在大型超市购买进口牛肉的消费者负担。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "La carne vacuna de EE. UU. sube 42% en un año por el alza del flete marítimo",
+        "excerpt": "El día 11, consumidores revisaban carne importada en un gran supermercado de Seúl, mientras el encarecimiento del transporte marítimo por la guerra en Oriente Medio elevaba los precios.",
+        "body": "El día 11, en un gran supermercado de Seúl, un consumidor observaba carne vacuna importada mientras los precios de los productos ganaderos importados seguían al alza. La subida se atribuye al fuerte aumento de los fletes marítimos globales tras la guerra en Oriente Medio. El precio de venta del chuck eye roll refrigerado de Estados Unidos, popular entre los consumidores, fue de 4.210 wones por cada 100 gramos al día 10. Esto representa un aumento del 41,7% frente a un año antes. El encarecimiento del transporte marítimo está elevando los costes de importación y afectando a los precios de la carne importada. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Carne bovina dos EUA sobe 42% em um ano com alta do frete marítimo global",
+        "excerpt": "No dia 11, consumidores avaliavam carne importada em um grande supermercado de Seul, enquanto o aumento do frete marítimo ligado à guerra no Oriente Médio elevava os preços.",
+        "body": "No dia 11, em um grande supermercado de Seul, um consumidor observava carne bovina importada enquanto os preços de produtos pecuários importados continuavam em alta. O movimento ocorre após a disparada dos fretes marítimos globais em meio aos efeitos da guerra no Oriente Médio. O preço de venda do chuck eye roll refrigerado dos Estados Unidos, corte popular entre consumidores, chegou a 4.210 won por 100 gramas no dia 10. O valor é 41,7% maior que o registrado um ano antes. A alta do transporte marítimo aumenta os custos de importação e influencia os preços da carne importada. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "US-Rindfleisch binnen eines Jahres 42% teurer, Seefracht treibt Importpreise",
+        "excerpt": "Am 11. prüften Verbraucher in einem großen Supermarkt in Seoul importiertes Rindfleisch, während höhere globale Seefrachtraten infolge des Nahostkriegs die Preise steigen ließen.",
+        "body": "Am 11. betrachtete ein Verbraucher in einem großen Supermarkt in Seoul importiertes Rindfleisch, während die Preise für importierte Viehprodukte weiter steigen. Hintergrund ist der starke Anstieg der globalen Seefrachtraten infolge des Kriegs im Nahen Osten. Der Verkaufspreis für gekühltes Chuck Eye Roll aus den USA, das bei Verbrauchern beliebt ist, lag am 10. bei 4.210 Won je 100 Gramm. Das entspricht einem Plus von 41,7% gegenüber dem Vorjahr. Höhere Seefrachtkosten erhöhen die Belastung im Importprozess und wirken sich auf die Preise importierter Fleischwaren aus. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le bœuf américain grimpe de 42% en un an sous l’effet du fret maritime",
+        "excerpt": "Le 11, dans un grand supermarché de Séoul, des consommateurs regardaient du bœuf importé alors que la hausse du fret maritime liée à la guerre au Moyen-Orient faisait monter les prix.",
+        "body": "Le 11, dans un grand supermarché de Séoul, un consommateur examinait du bœuf importé, tandis que les prix des produits d’élevage importés continuaient de progresser. Cette hausse intervient alors que les tarifs mondiaux du fret maritime ont bondi sous l’effet de la guerre au Moyen-Orient. Le prix de vente du chuck eye roll réfrigéré américain, apprécié des consommateurs, atteignait 4 210 wons les 100 grammes au 10. Ce niveau est supérieur de 41,7% à celui d’il y a un an. L’augmentation du transport maritime renchérit les coûts d’importation et pèse sur les prix de la viande importée. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أسعار لحم البقر الأميركي ترتفع 42% خلال عام مع صعود تكاليف الشحن البحري",
+        "excerpt": "في 11 من الشهر، تفقد مستهلكون لحوما مستوردة في متجر كبير بسيول، بينما أدى ارتفاع الشحن البحري العالمي المرتبط بحرب الشرق الأوسط إلى زيادة أسعار اللحم الأميركي.",
+        "body": "في 11 من الشهر، كان مستهلك في متجر كبير بسيول يتفقد لحوم البقر المستوردة، في وقت تواصل فيه أسعار المنتجات الحيوانية المستوردة الارتفاع. ويأتي ذلك مع صعود تكاليف الشحن البحري العالمية نتيجة تداعيات الحرب في الشرق الأوسط. وبلغ سعر بيع لحم تشاك آي رول الأميركي المبرد، وهو من الأصناف المفضلة لدى المستهلكين، 4210 وونات لكل 100 غرام حتى يوم 10. وهذا أعلى بنسبة 41.7% مقارنة بما كان عليه قبل عام. ارتفاع الشحن البحري يزيد أعباء تكلفة الاستيراد ويؤثر في أسعار اللحوم المستوردة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "अमेरिकी बीफ एक साल में 42% महंगा, समुद्री मालभाड़े ने बढ़ाई आयात लागत",
+        "excerpt": "11 तारीख को सियोल के एक बड़े मार्ट में उपभोक्ता आयातित बीफ देख रहे थे, जबकि मध्य पूर्व युद्ध के असर से वैश्विक समुद्री मालभाड़ा बढ़कर अमेरिकी बीफ की कीमतें ऊपर ले गया।",
+        "body": "11 तारीख को सियोल के एक बड़े मार्ट में एक उपभोक्ता आयातित बीफ देख रहा था। इसी बीच मध्य पूर्व युद्ध के असर से वैश्विक समुद्री मालभाड़ा तेजी से बढ़ा है और आयातित पशुधन उत्पादों की कीमतें ऊपर जा रही हैं। उपभोक्ताओं में लोकप्रिय अमेरिकी चक आई रोल, ठंडे उत्पाद, की बिक्री कीमत 10 तारीख तक 100 ग्राम पर 4210 वॉन दर्ज की गई। यह एक साल पहले की तुलना में 41.7% अधिक है। समुद्री ढुलाई की बढ़ी लागत आयात प्रक्रिया पर बोझ डाल रही है और आयातित मांस कीमतों को प्रभावित कर रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Harga Daging Sapi AS Naik 42% Setahun, Ongkos Laut Dorong Beban Impor",
+        "excerpt": "Pada tanggal 11, konsumen melihat daging sapi impor di sebuah supermarket besar Seoul, saat lonjakan ongkos angkut laut global akibat perang Timur Tengah menaikkan harga.",
+        "body": "Pada tanggal 11, seorang konsumen di sebuah supermarket besar di Seoul terlihat memeriksa daging sapi impor, sementara harga produk peternakan impor terus meningkat. Kenaikan ini terjadi setelah ongkos angkut laut global melonjak akibat dampak perang di Timur Tengah. Harga jual chuck eye roll dingin asal Amerika Serikat, yang populer di kalangan konsumen, tercatat 4.210 won per 100 gram pada tanggal 10. Angka itu naik 41,7% dibandingkan setahun sebelumnya. Kenaikan biaya pengiriman laut menambah beban biaya impor dan memengaruhi harga daging impor. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "ef00dc445633",
+    "slug": "소상공인-정책금융도-고신용-쏠림-14조-중-60가-12등급-352136",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T18:11:22.713Z",
+    "updatedAt": "2026-05-11T18:11:22.713Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901387/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901387/2",
+    "titleFingerprint": "f00fcf1f89d381b8bc435ec8d564f2d91106a80a",
+    "dedupKeys": [
+      "ef00dc4456339b848c206069d5d15089c398f722",
+      "f00fcf1f89d381b8bc435ec8d564f2d91106a80a",
+      "5d7aefe11d8b7108e7aee143ff8c6d95b0597294"
+    ],
+    "imageUrl": "/images/articles/ef00dc445633.jpg",
+    "i18n": {
+      "ko": {
+        "title": "소상공인 정책금융 고신용 쏠림 심화…14조 보증 중 60%가 1·2등급",
+        "excerpt": "11일 신용보증재단중앙회 보고서에 따르면 지난해 지역신용보증재단 신규 보증 14조6708억 원 중 59.4%가 신용 1·2등급에 공급됐다.",
+        "body": "정부 재원으로 소기업·소상공인 대출을 지원하는 신용보증 사업에서 고신용자 쏠림이 다시 커진 것으로 나타났다. 11일 신용보증재단중앙회의 ‘2025년 소기업·소상공인 신용보증 지원 효과 보고서’에 따르면 지난해 전국 17개 지역신용보증재단의 신규 보증 공급액 14조6708억 원 가운데 신용등급 1·2등급 이용자에게 공급된 금액은 8조7096억 원으로 59.4%를 차지했다. 이는 고신용 공급 비중이 59.5%였던 2020년 이후 5년 만의 최대 수준이다. KCB 기준 1·2등급은 신용점수 890~1000점에 해당한다. 반면 저신용자로 분류되는 8~10등급 차주에게 공급된 금액은 54억 원, 전체의 0.037%에 그쳤다. 고금리와 고물가, 대출 규제 강화로 은행 문턱을 넘기 어려운 자영업자가 늘어나는 상황에서 정책 보증이 취약 소상공인 지원 취지를 충분히 살리지 못한다는 지적이 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Small-Business Policy Finance Skews to High Credit: 60% of Guarantees to Grades 1-2",
+        "excerpt": "According to a May 11 Korea Federation of Credit Guarantee Foundations report, 59.4% of last year’s 14.6708 trillion won in new local guarantees went to credit grades 1-2.",
+        "body": "A credit-guarantee program funded by the government to support loans for small firms and small-business owners is showing a renewed concentration among high-credit borrowers. According to the Korea Federation of Credit Guarantee Foundations’ “2025 Report on the Effects of Credit Guarantee Support for Small Enterprises and Small Businesses,” released on May 11, 8.7096 trillion won, or 59.4%, of the 14.6708 trillion won in new guarantees supplied last year by 17 regional credit guarantee foundations nationwide went to users with credit grades 1 or 2. That is the highest level in five years since 2020, when the high-credit share reached 59.5%. Under Korea Credit Bureau standards, grades 1 and 2 correspond to credit scores of 890 to 1,000. By contrast, borrowers classified as low-credit in grades 8 to 10 received only 5.4 billion won, or 0.037% of the total. As more self-employed borrowers struggle to pass bank lending thresholds amid high interest rates, high prices and tighter loan rules, critics say the guarantee program is not fully serving its purpose of supporting vulnerable small businesses. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "小商工人向け政策金融、高信用層に偏重…14兆ウォン保証の6割が1・2等級",
+        "excerpt": "信用保証財団中央会の11日報告書によると、昨年の地域信用保証財団の新規保証14兆6708億ウォンの59.4%が信用1・2等級に供給された。",
+        "body": "政府財源で小企業・小商工人の融資を支援する信用保証事業で、高信用者への偏りが再び強まっていることが分かった。信用保証財団中央会が11日に公表した「2025年小企業・小商工人信用保証支援効果報告書」によると、昨年、全国17の地域信用保証財団による新規保証供給額14兆6708億ウォンのうち、信用等級1・2等級の利用者に供給された金額は8兆7096億ウォンで、全体の59.4%を占めた。高信用層への供給比率が59.5%だった2020年以来、5年ぶりの高水準だ。KCB基準で1・2等級は信用点数890〜1000点に当たる。一方、低信用者に分類される8〜10等級の借り手への供給は54億ウォン、全体の0.037%にとどまった。高金利、高物価、融資規制の強化で銀行融資の壁を越えにくい自営業者が増えるなか、政策保証が脆弱な小商工人を支援する本来の趣旨を十分に生かせていないとの指摘が出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "小商户政策金融偏向高信用群体：14万亿韩元担保近六成给1、2级",
+        "excerpt": "信用保证财团中央会11日报告显示，去年地区信用保证财团新增担保14.6708万亿韩元中，59.4%流向信用1、2级用户。",
+        "body": "由政府资金支持、用于帮助小企业和小商户获得贷款的信用保证项目，再次呈现向高信用借款人集中的现象。信用保证财团中央会11日发布的《2025年小企业、小商户信用保证支持效果报告》显示，去年韩国17个地区信用保证财团新增担保供给额为14.6708万亿韩元，其中向信用等级1、2级用户提供的金额为8.7096万亿韩元，占59.4%。这是自2020年高信用供给占比达到59.5%以来，五年间的最高水平。按韩国信用信息机构KCB标准，1、2级对应信用分数890至1000分。相比之下，被归为低信用的8至10级借款人仅获得54亿韩元，占总额0.037%。在高利率、高物价和贷款监管收紧背景下，越来越多个体经营者难以跨过银行门槛，有观点指出，该政策担保未能充分实现支持脆弱小商户的宗旨。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Financiación pública para pequeños negocios se concentra en alto crédito: 60% va a grados 1-2",
+        "excerpt": "Un informe del 11 de mayo indicó que el 59,4% de los 14,6708 billones de wones en nuevas garantías regionales de 2025 fue para usuarios con crédito 1-2.",
+        "body": "El programa de garantías de crédito financiado por el Gobierno para apoyar préstamos a pequeñas empresas y comerciantes muestra una nueva concentración en prestatarios de alto crédito. Según el “Informe 2025 sobre los efectos del apoyo de garantías de crédito para pequeñas empresas y pequeños comerciantes” de la Federación Central de Fundaciones de Garantía de Crédito, publicado el 11 de mayo, de los 14,6708 billones de wones en nuevas garantías otorgadas el año pasado por 17 fundaciones regionales, 8,7096 billones de wones, el 59,4%, fueron para usuarios con calificación crediticia 1 o 2. Es el nivel más alto en cinco años desde 2020, cuando la proporción para alto crédito fue del 59,5%. Según KCB, los grados 1 y 2 equivalen a puntajes de 890 a 1000. En cambio, los prestatarios de bajo crédito, grados 8 a 10, recibieron solo 5.400 millones de wones, el 0,037% del total. Con tipos altos, inflación elevada y normas de préstamo más estrictas, más autónomos no logran acceder a la banca, y se señala que el sistema no cumple plenamente su objetivo de apoyar a pequeños negocios vulnerables. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Crédito público a pequenos negócios se concentra em alto score: 60% vai aos graus 1 e 2",
+        "excerpt": "Relatório de 11 de maio mostra que 59,4% dos 14,6708 trilhões de wons em novas garantias regionais no ano passado foi para tomadores de crédito 1 e 2.",
+        "body": "O programa de garantia de crédito financiado pelo governo para apoiar empréstimos a pequenas empresas e pequenos comerciantes voltou a se concentrar em tomadores de maior crédito. Segundo o “Relatório de 2025 sobre os efeitos do apoio de garantia de crédito para pequenas empresas e pequenos comerciantes”, divulgado em 11 de maio pela Federação Central das Fundações de Garantia de Crédito, dos 14,6708 trilhões de wons em novas garantias concedidas no ano passado por 17 fundações regionais, 8,7096 trilhões de wons, ou 59,4%, foram destinados a usuários com classificação de crédito 1 ou 2. É o maior nível em cinco anos desde 2020, quando a fatia de alto crédito chegou a 59,5%. Pelo padrão da KCB, os graus 1 e 2 correspondem a pontuações de 890 a 1000. Já os tomadores de baixo crédito, graus 8 a 10, receberam apenas 5,4 bilhões de wons, 0,037% do total. Com juros altos, inflação elevada e regras de empréstimo mais rígidas, cresce o número de autônomos fora dos bancos, e há críticas de que a política não cumpre plenamente seu papel de apoiar pequenos negócios vulneráveis. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Politikkredite für Kleinbetriebe fließen vor allem an Top-Bonität: 60% an Stufen 1-2",
+        "excerpt": "Laut Bericht vom 11. Mai gingen 59,4% der neuen regionalen Kreditgarantien von 14,6708 Billionen Won im Vorjahr an Nutzer mit Bonitätsstufe 1 oder 2.",
+        "body": "Ein staatlich finanziertes Kreditgarantieprogramm zur Unterstützung von Darlehen für kleine Unternehmen und Kleingewerbetreibende konzentriert sich erneut stark auf Kreditnehmer mit hoher Bonität. Laut dem am 11. Mai veröffentlichten “Bericht 2025 über die Wirkung der Kreditgarantieunterstützung für kleine Unternehmen und Kleingewerbetreibende” der Korea Federation of Credit Guarantee Foundations entfielen von 14,6708 Billionen Won an neuen Garantien, die im vergangenen Jahr von 17 regionalen Kreditgarantiestiftungen landesweit bereitgestellt wurden, 8,7096 Billionen Won oder 59,4% auf Nutzer der Bonitätsstufen 1 und 2. Das ist der höchste Stand seit fünf Jahren; 2020 hatte der Anteil 59,5% betragen. Nach KCB-Standard entsprechen die Stufen 1 und 2 Kreditwerten von 890 bis 1000. Kreditnehmer mit niedriger Bonität der Stufen 8 bis 10 erhielten dagegen nur 5,4 Milliarden Won, also 0,037% des Gesamtbetrags. Angesichts hoher Zinsen, hoher Preise und strengerer Kreditregeln scheitern mehr Selbstständige an Bankhürden. Kritiker sagen, das Programm erfülle seinen Zweck zur Unterstützung anfälliger Kleinbetriebe nicht ausreichend. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Financement public des petits commerçants: 60% des garanties vont aux meilleurs crédits",
+        "excerpt": "Selon un rapport publié le 11 mai, 59,4% des 14,6708 billions de wons de nouvelles garanties régionales l’an dernier sont allés aux notes 1 et 2.",
+        "body": "Le dispositif de garantie de crédit financé par l’État pour soutenir les prêts aux petites entreprises et aux petits commerçants se concentre de nouveau sur les emprunteurs les mieux notés. Selon le “Rapport 2025 sur les effets du soutien par garantie de crédit aux petites entreprises et petits commerçants”, publié le 11 mai par la Fédération centrale des fondations de garantie de crédit, sur 14,6708 billions de wons de nouvelles garanties accordées l’an dernier par 17 fondations régionales, 8,7096 billions de wons, soit 59,4%, ont été destinés à des utilisateurs classés en notes de crédit 1 ou 2. C’est le niveau le plus élevé en cinq ans depuis 2020, lorsque la part des profils à haut crédit atteignait 59,5%. Selon le référentiel KCB, les notes 1 et 2 correspondent à des scores de 890 à 1000. À l’inverse, les emprunteurs à faible crédit, classés de 8 à 10, n’ont reçu que 5,4 milliards de wons, soit 0,037% du total. Alors que les taux élevés, les prix élevés et le durcissement des règles de prêt rendent l’accès bancaire plus difficile pour les indépendants, des critiques estiment que le programme ne remplit pas pleinement son objectif d’aider les petits commerçants vulnérables. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تمويل السياسات لأصحاب الأعمال الصغيرة يميل لذوي الائتمان المرتفع: 60% للدرجتين 1 و2",
+        "excerpt": "أظهر تقرير صدر في 11 مايو أن 59.4% من ضمانات ائتمان إقليمية جديدة بقيمة 14.6708 تريليون وون العام الماضي ذهبت لأصحاب الدرجتين 1 و2.",
+        "body": "أظهر برنامج ضمان الائتمان الممول من الحكومة لدعم قروض الشركات الصغيرة وأصحاب الأعمال الصغيرة تركّزا متجددا لدى المقترضين ذوي الائتمان المرتفع. ووفقا لـ“تقرير 2025 عن أثر دعم ضمان الائتمان للشركات الصغيرة وأصحاب الأعمال الصغيرة” الصادر في 11 مايو عن الاتحاد المركزي لمؤسسات ضمان الائتمان، بلغ إجمالي الضمانات الجديدة التي قدمتها 17 مؤسسة إقليمية العام الماضي 14.6708 تريليون وون، ذهب منها 8.7096 تريليون وون، أو 59.4%، إلى مستخدمين في درجتي الائتمان 1 و2. وهذا أعلى مستوى خلال خمس سنوات منذ 2020، عندما بلغت حصة ذوي الائتمان المرتفع 59.5%. وبحسب معيار KCB، تعادل الدرجتان 1 و2 نقاطا ائتمانية بين 890 و1000. في المقابل، حصل المقترضون المصنفون منخفضي الائتمان في الدرجات 8 إلى 10 على 5.4 مليار وون فقط، أي 0.037% من الإجمالي. ومع ارتفاع الفائدة والأسعار وتشديد قواعد الإقراض، يزداد عدد العاملين لحسابهم الخاص الذين لا يستطيعون تجاوز عتبة البنوك، ما يثير انتقادات بأن البرنامج لا يحقق بما يكفي هدفه في دعم أصحاب الأعمال الصغيرة الأكثر هشاشة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "छोटे कारोबारों की नीति वित्तीय मदद उच्च क्रेडिट पर केंद्रित: 60% गारंटी ग्रेड 1-2 को",
+        "excerpt": "11 मई की रिपोर्ट के अनुसार, पिछले वर्ष क्षेत्रीय क्रेडिट गारंटी फाउंडेशनों की 14.6708 ट्रिलियन वॉन नई गारंटी में 59.4% क्रेडिट ग्रेड 1-2 को मिला।",
+        "body": "सरकारी धन से छोटे उद्यमों और छोटे कारोबारियों को ऋण सहायता देने वाली क्रेडिट गारंटी योजना में उच्च क्रेडिट वाले उधारकर्ताओं की हिस्सेदारी फिर बढ़ी है। क्रेडिट गारंटी फाउंडेशन सेंट्रल फेडरेशन की 11 मई को जारी “2025 छोटे उद्यम और छोटे कारोबारी क्रेडिट गारंटी समर्थन प्रभाव रिपोर्ट” के अनुसार, पिछले वर्ष देश की 17 क्षेत्रीय क्रेडिट गारंटी फाउंडेशनों ने 14.6708 ट्रिलियन वॉन की नई गारंटी दी। इसमें से 8.7096 ट्रिलियन वॉन, यानी 59.4%, क्रेडिट ग्रेड 1 और 2 वाले उपयोगकर्ताओं को गया। यह 2020 के बाद पांच वर्षों में सबसे ऊंचा स्तर है, जब उच्च क्रेडिट हिस्सेदारी 59.5% थी। KCB मानक के अनुसार ग्रेड 1 और 2, 890 से 1000 क्रेडिट स्कोर के बराबर हैं। इसके विपरीत, कम क्रेडिट माने जाने वाले ग्रेड 8 से 10 के उधारकर्ताओं को केवल 5.4 बिलियन वॉन, यानी कुल का 0.037%, मिला। ऊंची ब्याज दरों, महंगाई और कड़े ऋण नियमों के बीच अधिक स्वरोजगार करने वाले लोग बैंक ऋण तक नहीं पहुंच पा रहे हैं, और आलोचना है कि यह नीति कमजोर छोटे कारोबारियों की मदद के उद्देश्य को पर्याप्त रूप से पूरा नहीं कर रही। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pembiayaan Kebijakan UMKM Condong ke Kredit Tinggi: 60% Jaminan ke Grade 1-2",
+        "excerpt": "Laporan 11 Mei menyebut 59,4% dari 14,6708 triliun won jaminan baru yayasan kredit daerah tahun lalu disalurkan kepada pengguna kredit grade 1-2.",
+        "body": "Program jaminan kredit yang didanai pemerintah untuk mendukung pinjaman bagi usaha kecil dan pelaku usaha kecil kembali menunjukkan konsentrasi pada peminjam ber kredit tinggi. Menurut “Laporan 2025 tentang Efek Dukungan Jaminan Kredit bagi Usaha Kecil dan Pelaku Usaha Kecil” dari Federasi Pusat Yayasan Jaminan Kredit yang dirilis pada 11 Mei, dari 14,6708 triliun won jaminan baru yang disalurkan tahun lalu oleh 17 yayasan jaminan kredit daerah di seluruh negeri, 8,7096 triliun won atau 59,4% diberikan kepada pengguna dengan peringkat kredit 1 atau 2. Ini merupakan level tertinggi dalam lima tahun sejak 2020, ketika porsi kredit tinggi mencapai 59,5%. Berdasarkan standar KCB, peringkat 1 dan 2 setara dengan skor kredit 890 hingga 1000. Sebaliknya, peminjam berkredit rendah peringkat 8 hingga 10 hanya menerima 5,4 miliar won, atau 0,037% dari total. Di tengah suku bunga tinggi, harga tinggi, dan pengetatan aturan pinjaman, semakin banyak wiraswasta sulit menembus ambang bank. Muncul kritik bahwa jaminan kebijakan ini belum sepenuhnya menjalankan tujuan membantu pelaku usaha kecil yang rentan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "50c567d33521",
+    "slug": "백화점-외국인-매출-늘자-롯데쇼핑-1분기-영업익-71-껑충-152665",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T18:09:39.215Z",
+    "updatedAt": "2026-05-11T18:09:39.216Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133902229/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133902229/2",
+    "titleFingerprint": "8bc2a208eb7bd030b8474bd4d644292ab1e7476c",
+    "dedupKeys": [
+      "50c567d3352197746d0cc582785c0540683f7e1d",
+      "8bc2a208eb7bd030b8474bd4d644292ab1e7476c",
+      "1c076dcbdd1852df6aa30597599940cde210359d"
+    ],
+    "imageUrl": "/images/articles/50c567d33521.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데쇼핑 1분기 영업이익 70.6% 증가, 외국인 매출·백화점 실적이 견인",
+        "excerpt": "롯데쇼핑은 11일 올해 1분기 연결 기준 매출 3조5816억 원, 영업이익 2529억 원을 기록했다고 공시했다. 외국인 관광객 증가와 백화점·해외 점포 성장이 수익성 개선을 이끌었다.",
+        "body": "롯데쇼핑은 11일 올해 1분기(1~3월) 연결 재무제표 기준 매출 3조5816억 원, 영업이익 2529억 원으로 잠정 집계됐다고 공시했다. 매출은 전년 동기 대비 3.6%, 영업이익은 70.6% 증가했다. 비용 등을 제외한 당기순이익은 1439억 원으로 694% 급증했다. 실적 개선의 핵심은 외국인 관광객 증가 효과를 거둔 백화점 사업과 해외 점포 성장이다. 롯데백화점 국내외 1분기 매출은 8723억 원으로 8.2% 늘었고, 영업이익은 1912억 원으로 47.1% 증가했다. 서울 중구 본점, 송파구 잠실점, 부산 해운대구 부산본점, 인천 미추홀구 인천점 등 4개 대형점 매출은 19% 늘며 성장세를 이끌었다. K쇼핑 수요 확대 속에 백화점 매출과 영업이익은 분기 기준 최대 실적을 기록했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Lotte Shopping Q1 Operating Profit Jumps 70.6% on Foreign Sales and Department Stores",
+        "excerpt": "Lotte Shopping said on May 11 that first-quarter consolidated revenue reached 3.5816 trillion won and operating profit 252.9 billion won, helped by more foreign tourists and growth at department stores and overseas outlets.",
+        "body": "Lotte Shopping disclosed on May 11 that its preliminary consolidated results for the first quarter, from January to March, showed revenue of 3.5816 trillion won and operating profit of 252.9 billion won. Revenue rose 3.6% from a year earlier, while operating profit increased 70.6%. Net profit after costs surged 694% to 143.9 billion won. The main driver was the department store business, which benefited from more foreign tourists, along with growth at overseas stores. Lotte Department Store’s domestic and overseas first-quarter revenue rose 8.2% to 872.3 billion won, and operating profit climbed 47.1% to 191.2 billion won. Sales at four major stores, including the main branch in Seoul’s Jung District, Jamsil in Songpa, the Busan main branch in Haeundae and the Incheon branch in Michuhol, rose 19%. Amid stronger demand for K-shopping, the department store unit posted record quarterly revenue and operating profit. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ロッテショッピング第1四半期営業益70.6%増、外国人売上と百貨店がけん引",
+        "excerpt": "ロッテショッピングは11日、今年第1四半期の連結売上高が3兆5816億ウォン、営業利益が2529億ウォンだったと公示した。外国人観光客の増加と百貨店・海外店舗の成長が収益性を押し上げた。",
+        "body": "ロッテショッピングは11日、今年第1四半期（1～3月）の連結財務諸表基準で、売上高3兆5816億ウォン、営業利益2529億ウォンと暫定集計されたと公示した。売上高は前年同期比3.6%、営業利益は70.6%増加した。費用などを除いた当期純利益は1439億ウォンで、694%急増した。業績改善の中心は、外国人観光客増加の効果を受けた百貨店事業と海外店舗の成長だ。ロッテ百貨店の国内外第1四半期売上高は8723億ウォンで8.2%増え、営業利益は1912億ウォンで47.1%増加した。ソウル中区の本店、松坡区の蚕室店、釜山海雲台区の釜山本店、仁川弥鄒忽区の仁川店など4大店舗の売上高は19%増え、成長を主導した。Kショッピング需要の拡大を背景に、百貨店の売上高と営業利益はいずれも四半期ベースで過去最高を記録した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "乐天购物一季度营业利润增70.6%，外国人消费与百货业务拉动业绩",
+        "excerpt": "乐天购物11日公告，今年一季度合并口径销售额为3.5816万亿韩元、营业利润为2529亿韩元。外国游客增加、百货店和海外门店增长推动盈利能力明显改善。",
+        "body": "乐天购物11日公告称，按合并财务报表口径，今年第一季度（1月至3月）初步销售额为3.5816万亿韩元，营业利润为2529亿韩元。销售额同比增长3.6%，营业利润增长70.6%。扣除费用等后的当期净利润为1439亿韩元，激增694%。业绩改善的主要动力来自受益于外国游客增加的百货店业务，以及海外门店增长。乐天百货国内外一季度销售额为8723亿韩元，同比增长8.2%；营业利润为1912亿韩元，同比增长47.1%。位于首尔中区的总店、松坡区蚕室店、釜山海云台区釜山总店、仁川弥邹忽区仁川店等4家大型门店销售额同比增长19%，带动整体增长。随着K购物需求扩大，百货店销售额和营业利润均创季度最高纪录。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Lotte Shopping eleva 70,6% su beneficio operativo trimestral por ventas a extranjeros",
+        "excerpt": "Lotte Shopping informó el día 11 que en el primer trimestre registró ingresos consolidados de 3,5816 billones de wones y beneficio operativo de 252.900 millones, impulsada por turistas extranjeros, grandes almacenes y tiendas en el exterior.",
+        "body": "Lotte Shopping comunicó el 11 que sus resultados preliminares consolidados del primer trimestre, de enero a marzo, fueron de 3,5816 billones de wones en ingresos y 252.900 millones de wones en beneficio operativo. Los ingresos aumentaron un 3,6% interanual y el beneficio operativo creció un 70,6%. El beneficio neto, descontados los costes, se disparó un 694% hasta 143.900 millones de wones. La mejora de la rentabilidad se atribuye principalmente al negocio de grandes almacenes, beneficiado por el aumento de turistas extranjeros, y al crecimiento de las tiendas en el exterior. Los ingresos trimestrales de Lotte Department Store, en Corea y fuera del país, subieron un 8,2% hasta 872.300 millones de wones, mientras el beneficio operativo avanzó un 47,1% hasta 191.200 millones. Cuatro grandes tiendas, incluidas la principal en Jung-gu, Seúl, Jamsil en Songpa, la principal de Busan en Haeundae y la de Incheon en Michuhol, aumentaron sus ventas un 19%. Con la expansión de la demanda de K-shopping, la unidad de grandes almacenes logró récord trimestral en ingresos y beneficio operativo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Lotte Shopping vê lucro operacional do 1º trimestre subir 70,6% com vendas a estrangeiros",
+        "excerpt": "A Lotte Shopping informou no dia 11 que registrou receita consolidada de 3,5816 trilhões de won e lucro operacional de 252,9 bilhões no 1º trimestre, apoiada por turistas estrangeiros e crescimento de lojas de departamento e unidades externas.",
+        "body": "A Lotte Shopping anunciou no dia 11 que seus resultados preliminares consolidados do primeiro trimestre, de janeiro a março, somaram receita de 3,5816 trilhões de won e lucro operacional de 252,9 bilhões de won. A receita cresceu 3,6% em relação ao ano anterior, e o lucro operacional avançou 70,6%. O lucro líquido, após custos, saltou 694%, para 143,9 bilhões de won. A principal contribuição veio do negócio de lojas de departamento, beneficiado pelo aumento de turistas estrangeiros, além do crescimento das lojas no exterior. A receita trimestral da Lotte Department Store, na Coreia e fora dela, subiu 8,2%, para 872,3 bilhões de won, enquanto o lucro operacional aumentou 47,1%, para 191,2 bilhões de won. Quatro grandes unidades, incluindo a loja principal em Jung-gu, Seul, Jamsil em Songpa, a principal de Busan em Haeundae e a unidade de Incheon em Michuhol, elevaram as vendas em 19%. Com a expansão da demanda por K-shopping, a divisão de lojas de departamento registrou recorde trimestral de receita e lucro operacional. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Lotte Shopping steigert operativen Gewinn im ersten Quartal um 70,6% dank Auslandsumsätzen",
+        "excerpt": "Lotte Shopping meldete am 11. Mai für das erste Quartal einen konsolidierten Umsatz von 3,5816 Billionen Won und einen operativen Gewinn von 252,9 Milliarden Won. Mehr ausländische Touristen sowie Kaufhäuser und Auslandfilialen verbesserten die Profitabilität.",
+        "body": "Lotte Shopping gab am 11. Mai bekannt, dass die vorläufigen konsolidierten Ergebnisse für das erste Quartal von Januar bis März einen Umsatz von 3,5816 Billionen Won und einen operativen Gewinn von 252,9 Milliarden Won ausweisen. Der Umsatz stieg gegenüber dem Vorjahr um 3,6%, der operative Gewinn um 70,6%. Der Nettogewinn nach Kosten sprang um 694% auf 143,9 Milliarden Won. Haupttreiber der verbesserten Ertragskraft war das Kaufhausgeschäft, das vom Anstieg ausländischer Touristen profitierte, zusammen mit dem Wachstum der Auslandfilialen. Der Quartalsumsatz von Lotte Department Store im In- und Ausland stieg um 8,2% auf 872,3 Milliarden Won, der operative Gewinn um 47,1% auf 191,2 Milliarden Won. Vier große Standorte, darunter das Stammhaus in Jung-gu, Seoul, Jamsil in Songpa, das Busan-Stammhaus in Haeundae und die Filiale Incheon in Michuhol, steigerten ihre Umsätze um 19%. Mit wachsender Nachfrage nach K-Shopping erzielte die Kaufhaussparte Rekordwerte bei Quartalsumsatz und operativem Gewinn. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Lotte Shopping bondit de 70,6% en bénéfice opérationnel au T1 grâce aux ventes étrangères",
+        "excerpt": "Lotte Shopping a annoncé le 11 mai un chiffre d’affaires consolidé de 3 581,6 milliards de wons et un bénéfice opérationnel de 252,9 milliards au premier trimestre, porté par les touristes étrangers, les grands magasins et les points de vente à l’étranger.",
+        "body": "Lotte Shopping a indiqué le 11 mai que ses résultats consolidés provisoires du premier trimestre, de janvier à mars, faisaient état d’un chiffre d’affaires de 3 581,6 milliards de wons et d’un bénéfice opérationnel de 252,9 milliards de wons. Le chiffre d’affaires a progressé de 3,6% sur un an et le bénéfice opérationnel de 70,6%. Le bénéfice net après coûts a bondi de 694% à 143,9 milliards de wons. L’amélioration de la rentabilité vient surtout de l’activité grands magasins, soutenue par l’augmentation des touristes étrangers, ainsi que de la croissance des magasins à l’étranger. Le chiffre d’affaires trimestriel de Lotte Department Store, en Corée et hors du pays, a augmenté de 8,2% à 872,3 milliards de wons, tandis que le bénéfice opérationnel a progressé de 47,1% à 191,2 milliards. Quatre grands magasins, dont le principal à Jung-gu, Séoul, Jamsil à Songpa, le principal de Busan à Haeundae et celui d’Incheon à Michuhol, ont vu leurs ventes croître de 19%. Avec l’expansion de la demande de K-shopping, la division grands magasins a atteint des records trimestriels de chiffre d’affaires et de bénéfice opérationnel. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "لوتيه شوبينغ ترفع أرباح الربع الأول التشغيلية 70.6% بدعم مبيعات الأجانب والمتاجر",
+        "excerpt": "أعلنت لوتيه شوبينغ في 11 مايو أن إيراداتها المجمعة في الربع الأول بلغت 3.5816 تريليون وون، وأن أرباحها التشغيلية وصلت إلى 252.9 مليار وون، بدعم من زيادة السياح الأجانب ونمو المتاجر الكبرى والفروع الخارجية.",
+        "body": "أعلنت لوتيه شوبينغ في 11 مايو أن نتائجها الأولية المجمعة للربع الأول، من يناير إلى مارس، سجلت إيرادات قدرها 3.5816 تريليون وون وأرباحا تشغيلية قدرها 252.9 مليار وون. وارتفعت الإيرادات 3.6% مقارنة بالعام السابق، بينما زادت الأرباح التشغيلية 70.6%. وقفز صافي الربح بعد استبعاد التكاليف إلى 143.9 مليار وون، بزيادة 694%. وكان المحرك الرئيسي لتحسن الربحية هو نشاط المتاجر الكبرى الذي استفاد من زيادة السياح الأجانب، إلى جانب نمو الفروع الخارجية. وبلغت إيرادات لوتيه دبارتمنت ستور داخل كوريا وخارجها في الربع الأول 872.3 مليار وون، بزيادة 8.2%، فيما ارتفعت الأرباح التشغيلية 47.1% إلى 191.2 مليار وون. وزادت مبيعات أربعة فروع كبرى، تشمل الفرع الرئيسي في جونغ غو بسيول، وجامسيل في سونغبا، والفرع الرئيسي في بوسان بمنطقة هايونداي، وفرع إنتشون في ميتشوهول، بنسبة 19%. ومع توسع الطلب على K-shopping، سجلت وحدة المتاجر الكبرى أعلى إيرادات وأرباح تشغيلية فصلية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "लोट्टे शॉपिंग का Q1 परिचालन लाभ 70.6% बढ़ा, विदेशी बिक्री और डिपार्टमेंट स्टोर ने दिया सहारा",
+        "excerpt": "लोट्टे शॉपिंग ने 11 मई को बताया कि पहली तिमाही में उसका समेकित राजस्व 3.5816 ट्रिलियन वॉन और परिचालन लाभ 252.9 अरब वॉन रहा। विदेशी पर्यटकों की वृद्धि, डिपार्टमेंट स्टोर और विदेशी दुकानों ने लाभप्रदता सुधारी।",
+        "body": "लोट्टे शॉपिंग ने 11 मई को बताया कि जनवरी से मार्च तक की पहली तिमाही के प्रारंभिक समेकित वित्तीय परिणामों में राजस्व 3.5816 ट्रिलियन वॉन और परिचालन लाभ 252.9 अरब वॉन रहा। राजस्व एक साल पहले की तुलना में 3.6% और परिचालन लाभ 70.6% बढ़ा। लागत आदि घटाने के बाद शुद्ध लाभ 694% उछलकर 143.9 अरब वॉन हो गया। प्रदर्शन सुधार का मुख्य कारण डिपार्टमेंट स्टोर व्यवसाय रहा, जिसे विदेशी पर्यटकों की वृद्धि से लाभ मिला, साथ ही विदेशी दुकानों की वृद्धि भी सहायक रही। लोट्टे डिपार्टमेंट स्टोर का देश और विदेश में पहली तिमाही का राजस्व 872.3 अरब वॉन रहा, जो 8.2% अधिक है, जबकि परिचालन लाभ 47.1% बढ़कर 191.2 अरब वॉन हो गया। सियोल के जंग जिले में मुख्य स्टोर, सोंगपा में जमसिल स्टोर, बुसान के ह्युंडे में बुसान मुख्य स्टोर और इंचियोन के मिचुहोल में इंचियोन स्टोर सहित चार बड़े स्टोरों की बिक्री 19% बढ़ी। K-shopping मांग के विस्तार के बीच डिपार्टमेंट स्टोर ने तिमाही आधार पर राजस्व और परिचालन लाभ का रिकॉर्ड बनाया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lotte Shopping Catat Laba Operasi Kuartal I Naik 70,6% Berkat Penjualan Asing",
+        "excerpt": "Lotte Shopping mengumumkan pada 11 Mei bahwa pendapatan konsolidasi kuartal I mencapai 3,5816 triliun won dan laba operasi 252,9 miliar won, didorong kenaikan turis asing serta pertumbuhan department store dan gerai luar negeri.",
+        "body": "Lotte Shopping mengumumkan pada 11 Mei bahwa hasil sementara konsolidasi kuartal pertama, Januari hingga Maret, mencatat pendapatan 3,5816 triliun won dan laba operasi 252,9 miliar won. Pendapatan naik 3,6% dibandingkan tahun sebelumnya, sementara laba operasi meningkat 70,6%. Laba bersih setelah biaya melonjak 694% menjadi 143,9 miliar won. Pendorong utama perbaikan profitabilitas adalah bisnis department store yang memperoleh dampak dari bertambahnya turis asing, serta pertumbuhan gerai luar negeri. Pendapatan kuartal I Lotte Department Store di dalam dan luar negeri naik 8,2% menjadi 872,3 miliar won, sedangkan laba operasi meningkat 47,1% menjadi 191,2 miliar won. Empat gerai besar, termasuk toko utama di Jung-gu Seoul, Jamsil di Songpa, toko utama Busan di Haeundae, dan gerai Incheon di Michuhol, mencatat kenaikan penjualan 19%. Di tengah meluasnya permintaan K-shopping, unit department store membukukan rekor pendapatan dan laba operasi kuartalan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "fdf02e6f07a8",
     "slug": "카드에-k팝-입히니-발급-2배-외국인-공략-나선-k금융-667706",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Harga Jeonse Naik Lebih Cepat dari Harga Jual, Beban Penyewa Disorot",
         "excerpt": "Tahun ini, harga jual apartemen di wilayah ibu kota naik 1,79%, sedangkan harga jeonse meningkat 2,20%, memicu kekhawatiran beban penyewa di tengah regulasi dan turunnya pasokan baru.",
         "body": "Kenaikan harga jeonse apartemen tahun ini melampaui kenaikan harga jual, sehingga kekhawatiran terhadap beban penyewa meningkat. Di wilayah ibu kota, harga jual naik 1,79%, sementara harga jeonse mencatat kenaikan 2,20%. Naskah asli menyebutkan bahwa secara nasional, tingkat kenaikan harga jeonse apartemen sejak awal tahun juga lebih tinggi daripada harga jual. Latar belakang yang disebut ialah regulasi terhadap pemilik banyak rumah dan berkurangnya pasokan hunian baru. Ada pula catatan bahwa kenaikan pajak kepemilikan dapat dialihkan kepada penyewa. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ffe365378e1e",
-    "slug": "李대통령-세입자있는-1주택자-매도기회갭투자허용-주장-억까-364173",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T22:37:08.127Z",
-    "updatedAt": "2026-05-10T22:37:08.127Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
-    "titleFingerprint": "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
-    "dedupKeys": [
-      "ffe365378e1ef953b01bc9b63d5e4954be77169e",
-      "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
-      "86739384fdaaa6687d41b6035bcd633bce789b4d"
-    ],
-    "imageUrl": "/images/articles/ffe365378e1e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토지거래허가구역 1주택자 매도 논란, 李대통령 “갭투자 허용 주장은 억까”",
-        "excerpt": "이재명 대통령은 11일 토지거래허가구역 내 세입자 있는 비거주 1주택자의 주택 매수 문제와 관련해 매도 기회 취지라고 설명하며 갭투자 허용 주장을 반박했다.",
-        "body": "이재명 대통령은 11일 정부가 토지거래허가구역 내에서 세입자가 있는 비거주 1주택자의 주택을 매수하는 경우를 둘러싼 논란에 대해 입장을 밝혔다. 그는 해당 조치가 세를 낀 1주택자에게 매도 기회를 주기 위한 취지라고 설명했다. 토지거래허가구역은 주택 거래 때 실거주 요건 등이 쟁점이 되는 지역으로, 이번 발언은 세입자가 있는 주택과 비거주 1주택자 매도 문제를 둘러싼 해석 논란 속에서 나왔다. 이 대통령은 이를 갭투자 허용으로 보는 주장은 “억까”라는 취지로 반박했다. 이번 설명은 규제지역 내 1주택자의 매도 가능성과 갭투자 논쟁에 영향을 줄 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Land Permit Zone Home Sale Row: Lee Rejects ‘Gap Investment’ Claim",
-        "excerpt": "President Lee Jae-myung said on the 11th that the measure concerning purchases of tenant-occupied homes owned by non-resident single-home owners in land transaction permit zones is meant to provide a selling opportunity, rejecting claims it allows gap investment.",
-        "body": "President Lee Jae-myung stated his position on the 11th regarding controversy over the government’s handling of purchases of tenant-occupied homes owned by non-resident single-home owners inside land transaction permit zones. He explained that the measure is intended to give single-home owners with tenants an opportunity to sell. Land transaction permit zones are areas where residential-use requirements can become central to housing deals, and the remarks came amid debate over how to interpret sales of tenant-occupied homes by non-resident single-home owners. Lee rejected the view that this amounts to permitting gap investment, calling such claims unfair attacks. The explanation is expected to affect debate over sale options for single-home owners in regulated areas and gap investment. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "土地取引許可区域の1住宅所有者売却論争、李大統領が反論",
-        "excerpt": "李在明大統領は11日、土地取引許可区域内の賃借人付き非居住1住宅所有者の住宅購入問題について、売却機会を与える趣旨だと説明し、ギャップ投資容認との主張に反論した。",
-        "body": "李在明大統領は11日、政府が土地取引許可区域内で賃借人がいる非居住1住宅所有者の住宅を購入する場合をめぐる論争について立場を示した。李大統領は、この措置は賃借人付きの1住宅所有者に売却機会を与える趣旨だと説明した。土地取引許可区域は住宅取引で実居住要件などが争点となる地域であり、今回の発言は賃借人がいる住宅と非居住1住宅所有者の売却問題をめぐる解釈論争の中で出た。李大統領は、これをギャップ投資容認と見る主張は不当な攻撃だとの趣旨で反論した。今回の説明は、規制地域内の1住宅所有者の売却可能性とギャップ投資論争に影響を与える見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "土地交易许可区一套房出售争议，李总统反驳“允许差价投资”说法",
-        "excerpt": "李在明总统11日就土地交易许可区内带租约的非居住一套房业主住宅购买问题表示，相关措施旨在提供出售机会，并反驳允许差价投资的说法。",
-        "body": "李在明总统11日就政府在土地交易许可区内处理购买带租约、非居住一套房业主住宅的争议表明立场。他解释称，该措施的宗旨是为带租约的一套房业主提供出售机会。土地交易许可区是在住宅交易中实际居住要求等可能成为焦点的地区，此次发言是在围绕带租约住宅以及非居住一套房业主出售问题的解释争议中作出的。李总统反驳称，将其视为允许差价投资的主张是不公正的攻击。此次说明预计将影响监管地区内一套房业主出售可能性以及差价投资争论。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Zona de permiso de tierras: Lee rechaza que se permita la inversión gap",
-        "excerpt": "El presidente Lee Jae-myung dijo el día 11 que la medida sobre viviendas con inquilinos de propietarios no residentes con una sola casa busca dar una oportunidad de venta, y rechazó que permita inversión gap.",
-        "body": "El presidente Lee Jae-myung fijó posición el día 11 sobre la controversia relacionada con la compra de viviendas con inquilinos pertenecientes a propietarios no residentes con una sola casa dentro de zonas sujetas a permiso de transacción de tierras. Explicó que la medida busca ofrecer una oportunidad de venta a esos propietarios. Estas zonas son áreas donde los requisitos de residencia efectiva pueden convertirse en un punto clave en las operaciones de vivienda, y sus declaraciones llegaron en medio del debate sobre cómo interpretar las ventas de casas con inquilinos por parte de propietarios no residentes con una sola vivienda. Lee rechazó que esto equivalga a permitir la inversión gap y calificó esa postura como un ataque injusto. La explicación podría influir en la discusión sobre las ventas de propietarios con una sola vivienda en áreas reguladas. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Zona de permissão de terras: Lee rejeita tese de liberação do gap investment",
-        "excerpt": "O presidente Lee Jae-myung afirmou no dia 11 que a medida sobre compra de imóveis com inquilinos de proprietários não residentes com uma única casa visa dar chance de venda, rejeitando a tese de liberar gap investment.",
-        "body": "O presidente Lee Jae-myung apresentou no dia 11 sua posição sobre a controvérsia envolvendo a compra de imóveis com inquilinos pertencentes a proprietários não residentes de uma única casa em zonas de permissão para transações de terras. Ele explicou que a medida tem o objetivo de oferecer uma oportunidade de venda a proprietários de uma só moradia com inquilinos. Essas zonas são áreas em que exigências de residência efetiva podem se tornar tema central nas transações habitacionais, e a declaração ocorreu em meio a divergências sobre a interpretação da venda de imóveis alugados por proprietários não residentes com uma única casa. Lee rejeitou a visão de que isso permitiria gap investment, tratando a alegação como ataque injusto. A explicação deve influenciar o debate sobre vendas em áreas reguladas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Grundstücksgenehmigungszonen: Lee weist Vorwurf erlaubter Gap-Investments zurück",
-        "excerpt": "Präsident Lee Jae-myung sagte am 11., die Regelung zu vermieteten Wohnungen nicht ansässiger Ein-Haus-Eigentümer in Grundstückstransaktions-Genehmigungszonen solle Verkaufsmöglichkeiten schaffen, nicht Gap-Investments erlauben.",
-        "body": "Präsident Lee Jae-myung äußerte sich am 11. zu der Kontroverse über den Kauf vermieteter Wohnungen von nicht ansässigen Eigentümern mit nur einer Immobilie innerhalb von Grundstückstransaktions-Genehmigungszonen. Er erklärte, die Maßnahme solle Ein-Haus-Eigentümern mit Mietern eine Möglichkeit zum Verkauf geben. In solchen Genehmigungszonen können Anforderungen an die tatsächliche Wohnnutzung bei Immobilientransaktionen zu einem zentralen Thema werden. Die Äußerung erfolgte vor dem Hintergrund unterschiedlicher Auslegungen zum Verkauf vermieteter Wohnungen durch nicht ansässige Ein-Haus-Eigentümer. Lee wies die Darstellung zurück, dies bedeute eine Zulassung von Gap-Investments, und bezeichnete solche Behauptungen sinngemäß als unfaire Angriffe. Die Erklärung dürfte die Debatte über Verkaufsmöglichkeiten in regulierten Gebieten beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Zones à autorisation foncière: Lee rejette l’accusation d’autoriser le gap investment",
-        "excerpt": "Le président Lee Jae-myung a déclaré le 11 que la mesure concernant l’achat de logements loués appartenant à des propriétaires non résidents d’un seul bien vise à offrir une possibilité de vente, rejetant l’idée d’une autorisation du gap investment.",
-        "body": "Le président Lee Jae-myung a pris position le 11 sur la controverse liée à l’achat de logements occupés par des locataires et détenus par des propriétaires non résidents ne possédant qu’un seul bien dans les zones soumises à autorisation de transaction foncière. Il a expliqué que la mesure vise à donner à ces propriétaires une possibilité de vendre. Dans ces zones, les exigences de résidence effective peuvent devenir un enjeu central des transactions immobilières. Ses propos interviennent alors que l’interprétation de la vente de logements loués par des propriétaires non résidents d’un seul bien fait débat. Lee a rejeté l’idée selon laquelle cela reviendrait à autoriser le gap investment, qualifiant cette affirmation d’attaque injuste. Cette clarification devrait peser sur le débat concernant les ventes dans les zones réglementées. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مناطق تصاريح تداول الأراضي: لي يرفض اتهام السماح باستثمار الفجوة",
-        "excerpt": "قال الرئيس لي جاي ميونغ في 11 إن الإجراء المتعلق بشراء منازل مؤجرة يملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي يهدف إلى إتاحة فرصة للبيع، رافضا اعتباره سماحا باستثمار الفجوة.",
-        "body": "أوضح الرئيس لي جاي ميونغ في 11 موقفه من الجدل بشأن تعامل الحكومة مع شراء منازل يسكنها مستأجرون ويملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي. وقال إن الهدف من الإجراء هو منح أصحاب المنزل الواحد الذين لديهم مستأجرون فرصة للبيع. وتعد مناطق تصاريح تداول الأراضي مناطق قد تصبح فيها شروط الإقامة الفعلية قضية رئيسية في صفقات السكن، وجاءت تصريحاته وسط خلاف حول تفسير بيع المنازل المؤجرة من قبل أصحاب منزل واحد غير مقيمين. ورفض لي الرأي القائل إن ذلك يعني السماح باستثمار الفجوة، معتبرا هذه المزاعم هجوما غير منصف. ومن المتوقع أن يؤثر هذا التوضيح في النقاش حول إمكانات البيع لأصحاب المنزل الواحد في المناطق الخاضعة للتنظيم. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "भूमि लेनदेन परमिट क्षेत्रों में एक-घर मालिकों की बिक्री पर विवाद, ली ने दावे खारिज किए",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 11 तारीख को कहा कि भूमि लेनदेन परमिट क्षेत्रों में किरायेदार वाले गैर-निवासी एक-घर मालिकों के मकान की खरीद से जुड़ा कदम बिक्री का अवसर देने के लिए है, गैप निवेश की अनुमति नहीं।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 11 तारीख को भूमि लेनदेन परमिट क्षेत्रों में किरायेदार वाले, गैर-निवासी एक-घर मालिकों के मकान की खरीद को लेकर उठे विवाद पर अपना रुख स्पष्ट किया। उन्होंने कहा कि इस कदम का उद्देश्य किरायेदार वाले एक-घर मालिकों को बिक्री का अवसर देना है। भूमि लेनदेन परमिट क्षेत्र ऐसे इलाके हैं जहां आवास सौदों में वास्तविक निवास की शर्तें मुद्दा बन सकती हैं, और यह बयान किरायेदार वाले मकानों तथा गैर-निवासी एक-घर मालिकों की बिक्री से जुड़ी व्याख्या पर बहस के बीच आया। ली ने इस दावे को खारिज किया कि यह गैप निवेश की अनुमति है, और इसे अनुचित हमला बताया। यह स्पष्टीकरण विनियमित क्षेत्रों में एक-घर मालिकों की बिक्री संभावना और गैप निवेश बहस को प्रभावित कर सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Zona Izin Transaksi Tanah: Lee Tolak Klaim Pemerintah Izinkan Gap Investment",
-        "excerpt": "Presiden Lee Jae-myung pada 11 menyatakan kebijakan terkait pembelian rumah berpenyewa milik pemilik satu rumah nonpenghuni di zona izin transaksi tanah bertujuan memberi kesempatan menjual, bukan mengizinkan gap investment.",
-        "body": "Presiden Lee Jae-myung pada 11 menyampaikan sikapnya atas kontroversi mengenai pembelian rumah yang memiliki penyewa dan dimiliki oleh pemilik satu rumah nonpenghuni di dalam zona izin transaksi tanah. Ia menjelaskan bahwa langkah tersebut dimaksudkan untuk memberi kesempatan menjual kepada pemilik satu rumah yang masih memiliki penyewa. Zona izin transaksi tanah adalah wilayah tempat syarat hunian nyata dapat menjadi isu dalam transaksi rumah, dan pernyataan ini muncul di tengah perdebatan tafsir soal rumah berpenyewa serta penjualan oleh pemilik satu rumah nonpenghuni. Lee menolak pandangan bahwa hal itu berarti mengizinkan gap investment, dengan menyebut klaim tersebut sebagai serangan yang tidak adil. Penjelasan ini diperkirakan memengaruhi perdebatan tentang peluang penjualan pemilik satu rumah di wilayah regulasi. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b6fd073be5ef",
-    "slug": "현장in-계속되는-중고차의-골목-무단점령중동전-수출차질-여파-741771",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T22:36:03.719Z",
-    "updatedAt": "2026-05-10T22:36:03.719Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508136700065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508136700065",
-    "titleFingerprint": "01802bcc77f25e9a0d385d36cb82378591218407",
-    "dedupKeys": [
-      "b6fd073be5effb6c1aff0a70023ff9c91f927113",
-      "01802bcc77f25e9a0d385d36cb82378591218407",
-      "ac50f7f04a7a8547e44a73d7c68aac0cf91a0537"
-    ],
-    "imageUrl": "/images/articles/b6fd073be5ef.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중고차 골목 무단점령 계속…인천 옥련동 꽃게거리, 중동전 수출차질 여파",
-        "excerpt": "지난 8일 인천 연수구 옥련동 꽃게거리에서 중고차가 골목을 계속 무단 점령하는 상황이 확인됐고, 중동전 여파로 수출 차질이 배경으로 지목됐다.",
-        "body": "지난 8일 인천시 연수구 옥련동 꽃게거리에서 중고차들이 골목을 무단으로 점령하는 상황이 계속되고 있는 것으로 전해졌다. 연합뉴스는 현장 보도를 통해 이 문제가 중동전 여파로 수출 차량 이동에 차질이 생긴 것과 맞물려 나타난 상황이라고 전했다. 공개된 요약에는 차량 대수나 단속 결과 등 구체적인 수치는 제시되지 않았다. 골목 점유가 이어지면 지역 상권과 보행·차량 통행에 불편이 커질 수 있어 향후 현장 관리와 수출 차질 해소 여부가 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Used Cars Keep Occupying Incheon Alley as Middle East War Disrupts Exports",
-        "excerpt": "On May 8, used cars were found continuing to occupy an alley in Okryeon-dong’s Crab Street in Yeonsu-gu, Incheon, with export disruptions linked to the Middle East war cited as the backdrop.",
-        "body": "On May 8, used cars were reported to be continuing their unauthorized occupation of an alley on Crab Street in Okryeon-dong, Yeonsu-gu, Incheon. Yonhap News said in an on-site report that the situation is connected to export vehicle disruptions caused by the fallout from the Middle East war. The provided summary did not include specific figures such as the number of vehicles or enforcement results. If the alley occupation continues, inconvenience for nearby businesses, pedestrians and traffic may grow, making future site management and the resolution of export delays key points to watch. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "中古車が路地を無断占拠、仁川・玉蓮洞カニ通りで中東戦争の輸出支障が影響",
-        "excerpt": "5月8日、仁川市延寿区玉蓮洞のカニ通りで中古車が路地を無断占拠し続ける状況が確認され、中東戦争による輸出支障が背景に挙げられた。",
-        "body": "5月8日、仁川市延寿区玉蓮洞のカニ通りで、中古車が路地を無断で占拠する状況が続いていると伝えられた。聯合ニュースは現場報道で、この問題が中東戦争の影響による輸出車両の移動支障と重なって発生した状況だと報じた。公開された要約には、車両台数や取り締まり結果などの具体的な数値は示されていない。路地の占拠が続けば、地域商圏や歩行者・車両の通行に不便が広がる可能性があり、今後の現場管理と輸出支障の解消が注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "二手车持续占据仁川小巷，玉莲洞蟹街受中东战争出口受阻影响",
-        "excerpt": "5月8日，仁川市延寿区玉莲洞蟹街被发现二手车持续无授权占据小巷，中东战争造成的出口受阻被指为背景因素。",
-        "body": "5月8日，据报道，仁川市延寿区玉莲洞蟹街一带二手车持续无授权占据小巷。韩联社在现场报道中称，这一情况与中东战争影响下出口车辆流转受阻相互关联。公开摘要中未列明车辆数量、执法结果等具体数据。如果小巷占用持续，周边商圈以及行人、车辆通行的不便可能加大，因此后续现场管理以及出口受阻能否缓解将受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Autos usados ocupan un callejón en Incheon por trabas exportadoras ligadas a la guerra en Oriente Medio",
-        "excerpt": "El 8 de mayo, autos usados seguían ocupando sin autorización un callejón de Crab Street, en Okryeon-dong, Yeonsu-gu, Incheon, por dificultades de exportación vinculadas a la guerra en Oriente Medio.",
-        "body": "El 8 de mayo se informó que autos usados seguían ocupando sin autorización un callejón de Crab Street, en Okryeon-dong, distrito de Yeonsu, Incheon. Yonhap News señaló en una cobertura de campo que la situación está relacionada con las dificultades para mover vehículos de exportación tras los efectos de la guerra en Oriente Medio. El resumen disponible no presentó cifras concretas, como el número de vehículos o resultados de control. Si la ocupación del callejón continúa, podrían aumentar las molestias para comercios locales, peatones y tránsito, por lo que la gestión del lugar y la solución de los retrasos exportadores serán puntos a observar. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Carros usados seguem ocupando viela em Incheon após entraves de exportação ligados à guerra no Oriente Médio",
-        "excerpt": "Em 8 de maio, carros usados continuavam ocupando sem autorização uma viela na Crab Street, em Okryeon-dong, Yeonsu-gu, Incheon, em meio a dificuldades de exportação ligadas à guerra no Oriente Médio.",
-        "body": "Em 8 de maio, foi relatado que carros usados continuavam ocupando sem autorização uma viela na Crab Street, em Okryeon-dong, distrito de Yeonsu, Incheon. A Yonhap News informou, em reportagem de campo, que a situação está ligada a dificuldades no deslocamento de veículos para exportação após os efeitos da guerra no Oriente Médio. O resumo divulgado não trouxe números específicos, como quantidade de veículos ou resultados de fiscalização. Se a ocupação da viela continuar, o incômodo para o comércio local, pedestres e tráfego pode crescer, tornando a gestão do local e a solução dos entraves de exportação pontos de atenção. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Gebrauchtwagen blockieren weiter Gasse in Incheon, Exportprobleme durch Nahostkrieg als Auslöser",
-        "excerpt": "Am 8. Mai wurde in der Crab Street in Okryeon-dong, Yeonsu-gu, Incheon, festgestellt, dass Gebrauchtwagen weiter unerlaubt eine Gasse besetzen; Exportprobleme infolge des Nahostkriegs gelten als Hintergrund.",
-        "body": "Am 8. Mai wurde berichtet, dass Gebrauchtwagen weiterhin unerlaubt eine Gasse in der Crab Street in Okryeon-dong, Yeonsu-gu, Incheon, besetzen. Yonhap News erklärte in einem Vor-Ort-Bericht, die Lage stehe im Zusammenhang mit Störungen beim Transport von Exportfahrzeugen infolge des Nahostkriegs. In der vorliegenden Zusammenfassung wurden keine konkreten Zahlen wie Fahrzeuganzahl oder Ergebnisse von Kontrollen genannt. Dauert die Besetzung der Gasse an, könnten die Belastungen für lokale Geschäfte sowie Fußgänger- und Fahrzeugverkehr zunehmen. Daher rücken die weitere Verwaltung vor Ort und die Lösung der Exportstörungen in den Fokus. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Des voitures d’occasion occupent encore une ruelle à Incheon sur fond de perturbations d’exportation liées à la guerre au Moyen-Orient",
-        "excerpt": "Le 8 mai, des voitures d’occasion continuaient d’occuper sans autorisation une ruelle de Crab Street, à Okryeon-dong, Yeonsu-gu, Incheon, dans un contexte de perturbations d’exportation liées à la guerre au Moyen-Orient.",
-        "body": "Le 8 mai, il a été rapporté que des voitures d’occasion continuaient d’occuper sans autorisation une ruelle de Crab Street, à Okryeon-dong, dans l’arrondissement de Yeonsu à Incheon. Yonhap News a indiqué dans un reportage de terrain que cette situation était liée aux difficultés de déplacement des véhicules destinés à l’exportation, survenues dans le sillage de la guerre au Moyen-Orient. Le résumé disponible ne fournit pas de chiffres précis, comme le nombre de véhicules ou les résultats de contrôles. Si l’occupation se poursuit, les désagréments pour les commerces locaux, les piétons et la circulation pourraient augmenter. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "سيارات مستعملة تواصل احتلال زقاق في إنتشون وسط تعثر الصادرات بسبب حرب الشرق الأوسط",
-        "excerpt": "في 8 مايو، تبيّن أن سيارات مستعملة تواصل احتلال زقاق في شارع السلطعون بمنطقة أوكريون دونغ في يونسو غو بإنتشون، مع الإشارة إلى تعثر الصادرات بسبب حرب الشرق الأوسط كخلفية.",
-        "body": "في 8 مايو، أفيد بأن سيارات مستعملة تواصل احتلال زقاق بصورة غير مصرح بها في شارع السلطعون بمنطقة أوكريون دونغ في يونسو غو بمدينة إنتشون. وذكرت وكالة يونهاب في تقرير ميداني أن هذه الحالة مرتبطة بتعطل حركة سيارات التصدير نتيجة تداعيات حرب الشرق الأوسط. ولم يتضمن الملخص المتاح أرقاما محددة مثل عدد السيارات أو نتائج إجراءات الرقابة. وإذا استمر احتلال الزقاق، فقد تتزايد المتاعب على المتاجر المحلية وحركة المشاة والمركبات، ما يجعل إدارة الموقع مستقبلا وحل تعثر الصادرات موضع متابعة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन की गली में पुरानी कारों का अवैध कब्जा जारी, मध्य पूर्व युद्ध से निर्यात बाधा का असर",
-        "excerpt": "8 मई को इंचियोन के येओंसू-गु, ओक्र्योन-डोंग की क्रैब स्ट्रीट में पुरानी कारों द्वारा गली पर अवैध कब्जा जारी पाया गया, जिसकी पृष्ठभूमि में मध्य पूर्व युद्ध से जुड़ी निर्यात बाधा बताई गई।",
-        "body": "8 मई को बताया गया कि इंचियोन शहर के येओंसू-गु, ओक्र्योन-डोंग की क्रैब स्ट्रीट में पुरानी कारें एक गली पर बिना अनुमति कब्जा किए हुए हैं और यह स्थिति जारी है। योनहाप न्यूज ने अपनी स्थल रिपोर्ट में कहा कि यह मामला मध्य पूर्व युद्ध के प्रभाव से निर्यात वाहनों की आवाजाही में आई बाधा से जुड़ा है। उपलब्ध सारांश में वाहनों की संख्या या प्रवर्तन परिणाम जैसे ठोस आंकड़े नहीं दिए गए। यदि गली पर कब्जा जारी रहता है, तो स्थानीय कारोबार, पैदल यात्रियों और वाहन आवाजाही को असुविधा बढ़ सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Mobil Bekas Terus Kuasai Gang di Incheon, Imbas Hambatan Ekspor akibat Perang Timur Tengah",
-        "excerpt": "Pada 8 Mei, mobil bekas masih terlihat menguasai tanpa izin sebuah gang di Crab Street, Okryeon-dong, Yeonsu-gu, Incheon, dengan hambatan ekspor akibat perang Timur Tengah disebut sebagai latar belakang.",
-        "body": "Pada 8 Mei, dilaporkan bahwa mobil bekas terus menguasai tanpa izin sebuah gang di Crab Street, Okryeon-dong, Yeonsu-gu, Incheon. Yonhap News dalam laporan lapangan menyebut situasi ini berkaitan dengan terganggunya perpindahan kendaraan ekspor akibat dampak perang Timur Tengah. Ringkasan yang tersedia tidak memuat angka spesifik seperti jumlah kendaraan atau hasil penertiban. Jika penguasaan gang berlanjut, ketidaknyamanan bagi kawasan usaha setempat, pejalan kaki, dan lalu lintas kendaraan dapat meningkat, sehingga pengelolaan lokasi dan penyelesaian hambatan ekspor menjadi hal yang perlu diperhatikan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ef1b2b499062",
-    "slug": "李대통령-비거주-1주택-매도기회-검토갭투자-허용-주장은-억까-985060",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T22:35:02.348Z",
-    "updatedAt": "2026-05-10T22:35:02.348Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260511/133895698/1",
-    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260511/133895698/1",
-    "titleFingerprint": "d1bd884d821661a34ca08176f2c45256861bfeb1",
-    "dedupKeys": [
-      "ef1b2b499062ab60ad0572fbdbb21544a7c94404",
-      "d1bd884d821661a34ca08176f2c45256861bfeb1",
-      "250a2657edd423d30781c7d563b74ccf093acf7a"
-    ],
-    "imageUrl": "/images/articles/ef1b2b499062.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비거주 1주택 매도 예외 검토에 李대통령 “갭투자 허용 주장은 억까”",
-        "excerpt": "이재명 대통령은 11일 비거주 1주택자 토지거래허가 예외 검토가 무주택자의 사실상 갭투자 허용이라는 지적에 대해 매수인 요건과 입주 제한을 들어 반박했다.",
-        "body": "이재명 대통령은 11일 비거주 1주택자에 대한 토지거래허가 예외 방안 검토를 둘러싼 ‘무주택 갭투자 허용’ 지적에 대해 “소위 억까에 가깝다”고 밝혔다. 그는 엑스(X·구 트위터)에 관련 기사를 공유하며 국토교통부가 형평성 보장을 위해 세입자가 있는 1주택자에게도 매도 기회를 주려는 취지라고 설명했다. 앞서 김윤덕 국토교통부 장관은 전날 비거주 1주택자에 대한 예외 방안을 검토하겠다고 밝혔다. 이 대통령은 매수인을 무주택자로 한정하고, 기존 임차인의 잔여 임차기간이 끝난 뒤 입주를 허용하되 그 기간은 최대 2년을 넘지 않게 하려는 방안이라고 말했다. 그는 매수인이 2년 이내 보증금을 내고 직접 입주해야 한다는 뜻이라고 강조했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Lee Rejects Claims That Nonresident One-Home Sale Exception Allows Gap Investing",
-        "excerpt": "President Lee Jae-myung said on the 11th that criticism of a proposed land transaction permit exception for nonresident one-home owners as de facto gap investing by first-time buyers was unfair.",
-        "body": "President Lee Jae-myung said on the 11th that claims a proposed exception to land transaction permits for nonresident owners of one home would effectively allow gap investing by buyers without homes were “close to forced criticism.” Sharing an article on X, formerly Twitter, he said the Ministry of Land, Infrastructure and Transport was considering the measure to ensure fairness by giving owners of one rented home the same sale opportunity as multiple-home owners. Minister Kim Yoon-duk had said the previous day that an exception for nonresident one-home owners would be reviewed. Lee explained that buyers would be limited to those without homes and could move in only after the existing tenant’s remaining lease period, capped at two years. He stressed that the buyer must pay the deposit and move in directly within two years. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "非居住1住宅の売却例外検討、李大統領「ギャップ投資容認との主張はこじつけ」",
-        "excerpt": "李在明大統領は11日、非居住の1住宅所有者への土地取引許可例外検討が無住宅購入者の事実上のギャップ投資容認だとの指摘に反論した。",
-        "body": "李在明大統領は11日、非居住の1住宅所有者に対する土地取引許可の例外案を検討することについて、無住宅購入者の「事実上のギャップ投資容認」だとの指摘は「いわゆるこじつけに近い」と述べた。大統領はX（旧ツイッター）で関連報道を共有し、国土交通部が公平性確保のため、賃借人がいる1住宅所有者にも売却機会を与える趣旨だと説明した。前日、金潤徳国土交通部長官は非居住1住宅所有者への例外案を検討すると明らかにしていた。李大統領は、購入者を無住宅者に限定し、既存賃借人の残存賃貸期間後に入居を認めるが、その期間は最長2年を超えないようにする案だと述べた。購入者は2年以内に保証金を支払い、直接入居しなければならないという意味だと強調した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "非居住一套房出售例外审查，李总统称“放开差价投资”说法牵强",
-        "excerpt": "李在明总统11日表示，关于非居住一套房业主土地交易许可例外审查等同于允许无房买家差价投资的批评，接近强行挑刺。",
-        "body": "李在明总统11日就非居住一套房业主土地交易许可例外方案审查引发的“允许无房者差价投资”批评表示，这“接近所谓强行挑刺”。他在X（原推特）分享相关文章时说明，国土交通部是从保障公平性的角度出发，拟让有租户的一套房业主也获得出售机会。此前一天，国土交通部长官金润德曾表示，将审查针对非居住一套房业主的例外方案。李总统解释称，买方将限定为无房者，并允许其在现有承租人剩余租期结束后入住，但该期限最长不超过2年。他强调，这意味着买方必须在2年内支付保证金并直接入住。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Lee rechaza que la excepción para vender una vivienda no residente permita gap investing",
-        "excerpt": "El presidente Lee Jae-myung dijo el día 11 que es forzada la crítica de que revisar una excepción de permiso de transacción para dueños no residentes permita gap investing.",
-        "body": "El presidente Lee Jae-myung afirmó el día 11 que la crítica de que una posible excepción al permiso de transacción de tierras para propietarios no residentes de una sola vivienda permitiría de hecho el gap investing por parte de compradores sin vivienda es “cercana a una acusación forzada”. Al compartir un artículo en X, antes Twitter, explicó que el Ministerio de Tierra, Infraestructura y Transporte busca garantizar equidad y dar también a propietarios de una vivienda con inquilino una oportunidad de venta. El día anterior, el ministro Kim Yoon-duk había dicho que se revisaría una excepción para esos propietarios. Lee señaló que los compradores se limitarían a personas sin vivienda y podrían mudarse solo tras vencer el plazo restante del contrato del inquilino existente, con un máximo de dos años. Subrayó que el comprador debe pagar el depósito y ocupar directamente la vivienda dentro de dos años. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Lee rebate críticas sobre exceção para venda de uma casa por não residentes",
-        "excerpt": "O presidente Lee Jae-myung afirmou no dia 11 que é forçada a crítica de que a exceção de permissão de transação para não residentes permitiria gap investing por compradores sem casa.",
-        "body": "O presidente Lee Jae-myung disse no dia 11 que a alegação de que uma possível exceção à permissão de transação de terras para proprietários não residentes de uma única moradia permitiria, na prática, gap investing por compradores sem casa é “próxima de uma crítica forçada”. Ao compartilhar uma notícia no X, antigo Twitter, ele explicou que o Ministério da Terra, Infraestrutura e Transporte busca garantir equidade ao dar também a proprietários de uma moradia com inquilino a oportunidade de vender. No dia anterior, o ministro Kim Yoon-duk havia dito que a exceção seria analisada. Lee afirmou que os compradores seriam limitados a pessoas sem moradia e só poderiam se mudar após o período restante do contrato do inquilino existente, com limite máximo de dois anos. Ele ressaltou que o comprador deve pagar o depósito e morar diretamente no imóvel dentro de dois anos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Lee weist Vorwurf zurück, Ausnahmeregel für Nichtbewohner erlaube Gap-Investing",
-        "excerpt": "Präsident Lee Jae-myung sagte am 11., die Kritik, eine Ausnahme bei Landtransaktionsgenehmigungen für nicht wohnende Ein-Haus-Eigentümer erlaube faktisch Gap-Investing, sei erzwungen.",
-        "body": "Präsident Lee Jae-myung wies am 11. den Vorwurf zurück, die Prüfung einer Ausnahme bei Landtransaktionsgenehmigungen für nicht dort wohnende Eigentümer einer einzigen Wohnung oder eines Hauses erlaube Käufern ohne Wohneigentum faktisch Gap-Investing. Dies komme einer „erzwungenen Kritik“ nahe, sagte er. Auf X, früher Twitter, teilte er einen entsprechenden Artikel und erklärte, das Ministerium für Land, Infrastruktur und Verkehr wolle aus Gründen der Fairness auch Eigentümern einer vermieteten Einzelimmobilie eine Verkaufsmöglichkeit geben. Minister Kim Yoon-duk hatte am Vortag erklärt, eine solche Ausnahme werde geprüft. Lee sagte, Käufer würden auf Personen ohne Wohneigentum beschränkt. Einzug sei erst nach Ablauf der verbleibenden Mietzeit des bestehenden Mieters möglich, höchstens jedoch nach zwei Jahren. Der Käufer müsse innerhalb von zwei Jahren die Kaution zahlen und selbst einziehen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Lee rejette l’idée qu’une exception pour une résidence non occupée autorise le gap investing",
-        "excerpt": "Le président Lee Jae-myung a déclaré le 11 que la critique visant l’examen d’une exception au permis de transaction foncière pour les propriétaires non résidents d’un seul logement était forcée.",
-        "body": "Le président Lee Jae-myung a déclaré le 11 que l’accusation selon laquelle l’examen d’une exception au permis de transaction foncière pour les propriétaires non résidents d’un seul logement reviendrait à autoriser de fait le gap investing par des acheteurs sans logement était « proche d’une critique forcée ». En partageant un article sur X, anciennement Twitter, il a expliqué que le ministère du Territoire, des Infrastructures et des Transports cherchait à garantir l’équité en donnant aussi aux propriétaires d’un logement occupé par un locataire une possibilité de vente. La veille, le ministre Kim Yoon-duk avait annoncé l’examen d’une telle exception. Lee a précisé que les acheteurs seraient limités aux personnes sans logement et ne pourraient emménager qu’après la fin du bail restant du locataire existant, dans une limite maximale de deux ans. Il a souligné que l’acheteur devait verser le dépôt et occuper directement le logement dans les deux ans. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "لي يرفض اتهام استثناء بيع منزل غير مقيم بأنه يسمح باستثمار الفجوة",
-        "excerpt": "قال الرئيس لي جاي ميونغ في الحادي عشر إن انتقاد بحث استثناء لتصاريح معاملات الأراضي لمالكي منزل واحد غير مقيمين باعتباره سماحا فعليا باستثمار الفجوة انتقاد متكلف.",
-        "body": "قال الرئيس لي جاي ميونغ في الحادي عشر إن الزعم بأن بحث استثناء من تصاريح معاملات الأراضي لمالكي منزل واحد غير مقيمين سيعني فعليا السماح باستثمار الفجوة من قبل مشترين لا يملكون مساكن هو أمر “قريب من الانتقاد المتكلف”. وشارك على منصة إكس، تويتر سابقا، مقالا ذا صلة، موضحا أن وزارة الأراضي والبنية التحتية والنقل تدرس الإجراء لضمان الإنصاف ومنح مالكي منزل واحد فيه مستأجر فرصة للبيع أيضا. وكان الوزير كيم يون دوك قد قال في اليوم السابق إن الوزارة ستراجع استثناء لمالكي منزل واحد غير مقيمين. وأوضح لي أن المشترين سيقتصرون على من لا يملكون مساكن، وأن الانتقال للسكن لا يسمح إلا بعد انتهاء المدة المتبقية لعقد المستأجر الحالي، على ألا تتجاوز عامين. وشدد على أن المشتري يجب أن يدفع الوديعة ويسكن مباشرة خلال عامين. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "गैर-निवासी एक-घर बिक्री छूट पर ली का जवाब, ‘गैप निवेश अनुमति’ दावा जबरन आलोचना",
-        "excerpt": "राष्ट्रपति ली जे-म्यंग ने 11 तारीख को कहा कि गैर-निवासी एक-घर मालिकों के लिए भूमि लेनदेन अनुमति अपवाद की समीक्षा को गैप निवेश की अनुमति बताना जबरन आलोचना है।",
-        "body": "राष्ट्रपति ली जे-म्यंग ने 11 तारीख को कहा कि गैर-निवासी एक-घर मालिकों के लिए भूमि लेनदेन अनुमति में अपवाद की समीक्षा को बिना घर वाले खरीदारों के लिए वास्तविक “गैप निवेश” अनुमति बताना “जबरन आलोचना के करीब” है। उन्होंने एक्स, पूर्व ट्विटर, पर संबंधित लेख साझा करते हुए कहा कि भूमि, अवसंरचना और परिवहन मंत्रालय समानता सुनिश्चित करने के लिए किरायेदार वाले एक-घर मालिकों को भी बिक्री का अवसर देना चाहता है। इससे एक दिन पहले मंत्री किम यून-डक ने कहा था कि ऐसे मालिकों के लिए अपवाद की समीक्षा की जाएगी। ली ने समझाया कि खरीदार केवल बिना घर वाले लोग होंगे और मौजूदा किरायेदार की बची हुई किराया अवधि के बाद ही प्रवेश कर सकेंगे, लेकिन यह अवधि अधिकतम दो साल से अधिक नहीं होगी। उन्होंने जोर दिया कि खरीदार को दो साल के भीतर जमा राशि देकर स्वयं रहना होगा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Lee Bantah Pengecualian Jual Rumah Nonpenghuni Disebut Izinkan Gap Investment",
-        "excerpt": "Presiden Lee Jae-myung pada 11 hari bulan mengatakan kritik bahwa kajian pengecualian izin transaksi tanah bagi pemilik satu rumah nonpenghuni membuka gap investment adalah tuduhan yang dipaksakan.",
-        "body": "Presiden Lee Jae-myung pada 11 hari bulan mengatakan bahwa kritik atas kajian pengecualian izin transaksi tanah bagi pemilik satu rumah yang tidak dihuni, yang disebut akan secara de facto mengizinkan gap investment oleh pembeli tanpa rumah, “mendekati tuduhan yang dipaksakan”. Ia membagikan artikel terkait di X, sebelumnya Twitter, dan menjelaskan bahwa Kementerian Pertanahan, Infrastruktur, dan Transportasi mempertimbangkan langkah itu untuk menjamin keadilan dengan memberi pemilik satu rumah yang memiliki penyewa kesempatan menjual. Sehari sebelumnya, Menteri Kim Yoon-duk menyatakan pengecualian bagi pemilik satu rumah nonpenghuni akan ditinjau. Lee menjelaskan pembeli akan dibatasi pada orang tanpa rumah dan hanya boleh menempati setelah sisa masa sewa penyewa lama berakhir, dengan batas maksimal dua tahun. Ia menegaskan pembeli harus membayar deposit dan menempati langsung dalam dua tahun. Sumber: rss.donga.com"
       }
     }
   }
