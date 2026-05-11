@@ -1,5 +1,230 @@
 [
   {
+    "id": "a0a60a19a6da",
+    "slug": "삼성sds-컨소시엄-국가-ai컴퓨팅-센터-만든다-566396",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T23:11:42.297Z",
+    "updatedAt": "2026-05-11T23:11:42.297Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901304/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901304/2",
+    "titleFingerprint": "bc78342207367979eece954e2bd770855bedd72a",
+    "dedupKeys": [
+      "a0a60a19a6da7c2ff02c83f37b08bcf18a1a6f33",
+      "bc78342207367979eece954e2bd770855bedd72a",
+      "bfdd60afa47dba3a52138fcf28bf27659a426514"
+    ],
+    "imageUrl": "/images/articles/a0a60a19a6da.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성SDS 컨소시엄, 국가 AI컴퓨팅 센터 사업 최종 선정",
+        "excerpt": "과학기술정보통신부는 11일 국가 AI컴퓨팅 센터 구축 사업의 민간참여자로 삼성SDS 컨소시엄을 확정하고 2028년까지 핵심 인프라를 구축한다고 밝혔다.",
+        "body": "과학기술정보통신부는 11일 정부가 추진하는 ‘AI 고속도로’의 핵심 인프라인 국가 인공지능(AI)컴퓨팅 센터 구축 사업의 민간참여자로 삼성SDS 컨소시엄을 최종 선정했다고 밝혔다. 컨소시엄에는 주관사 삼성SDS를 비롯해 네이버클라우드, 삼성물산, 카카오, 삼성전자, 클러쉬, KT, 전라남도, 서남해안기업도시개발 등이 참여한다. 과기정통부는 이날 사업자와 사업계획 확정을 위한 실시협약, 출자 및 특수목적법인(SPC) 설립·운영을 위한 주주 간 계약을 체결했다. 양측은 올해 2분기 내 민·관 합작 SPC를 설립하고 3분기 중 센터 착공에 들어갈 계획이다. 총사업비는 2조5000억 원 규모이며, 2028년까지 첨단 AI반도체 1만5000장 규모의 센터 구축을 목표로 한다. 센터 구축 후에는 고성능 AI 컴퓨팅 자원을 경쟁력 있는 요금으로 제공할 방침이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung SDS Consortium Chosen to Build National AI Computing Center",
+        "excerpt": "The Ministry of Science and ICT said on the 11th that the Samsung SDS consortium was selected as the private partner for Korea’s National AI Computing Center project.",
+        "body": "The Ministry of Science and ICT said on the 11th that it has finalized the Samsung SDS consortium as the private participant in the National Artificial Intelligence Computing Center project, a core infrastructure element of the government’s planned “AI highway.” The consortium is led by Samsung SDS and includes Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Jeollanam-do, and Southwest Coast Enterprise City Development. On the same day, the ministry signed an implementation agreement to confirm the operator and business plan, along with a shareholders’ agreement for investment and the establishment and operation of a special purpose company. The ministry and the consortium plan to establish a public-private SPC within the second quarter of this year and begin construction in the third quarter. The total project cost is about 2.5 trillion won, with a goal of building a center equipped with 15,000 advanced AI semiconductors by 2028. After completion, the ministry plans to provide high-performance AI computing resources at competitive rates. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスンSDS連合、国家AIコンピューティングセンター事業に選定",
+        "excerpt": "科学技術情報通信部は11日、国家AIコンピューティングセンター構築事業の民間参加者にサムスンSDS連合を確定したと発表した。",
+        "body": "科学技術情報通信部は11日、政府が推進する「AI高速道路」の中核インフラである国家人工知能（AI）コンピューティングセンター構築事業の民間参加者として、サムスンSDSコンソーシアムを最終選定したと明らかにした。コンソーシアムには主管社のサムスンSDSをはじめ、ネイバークラウド、サムスン物産、カカオ、サムスン電子、クラッシュ、KT、全羅南道、西南海岸企業都市開発などが参加する。同部は同日、事業者と事業計画を確定するための実施協約、出資および特別目的法人（SPC）の設立・運営に関する株主間契約を締結した。双方は今年第2四半期内に官民共同SPCを設立し、第3四半期中にセンター着工に入る計画だ。総事業費は約2兆5000億ウォンで、2028年までに先端AI半導体1万5000枚規模のセンター構築を目指す。完成後は高性能AIコンピューティング資源を競争力ある料金で提供する方針だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星SDS财团最终入选韩国国家AI计算中心建设项目",
+        "excerpt": "韩国科学技术信息通信部11日表示，三星SDS财团被确定为国家AI计算中心建设项目的民间参与方，目标是到2028年建成核心基础设施。",
+        "body": "韩国科学技术信息通信部11日表示，政府推进的“AI高速公路”核心基础设施国家人工智能（AI）计算中心建设项目，最终确定三星SDS财团为民间参与方。该财团由三星SDS担任主管公司，参与方包括Naver Cloud、三星物产、Kakao、三星电子、Crush、KT、全罗南道、西南海岸企业城市开发等。当天，科学技术信息通信部签署了用于确定事业方和事业计划的实施协议，以及关于出资和特殊目的法人（SPC）设立、运营的股东间协议。该部与三星SDS财团计划在今年第二季度内设立民官合资SPC，并在第三季度启动中心建设。项目总费用约为2.5万亿韩元，目标是在2028年前建成配备1.5万枚先进AI半导体的中心。中心建成后，政府计划以具有竞争力的价格提供高性能AI计算资源。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Consorcio de Samsung SDS construirá el Centro Nacional de Computación IA",
+        "excerpt": "El Ministerio de Ciencia y TIC anunció el día 11 que el consorcio de Samsung SDS fue elegido como socio privado del proyecto del Centro Nacional de Computación de IA.",
+        "body": "El Ministerio de Ciencia y TIC de Corea del Sur anunció el día 11 que seleccionó de forma definitiva al consorcio de Samsung SDS como participante privado del proyecto para construir el Centro Nacional de Computación de Inteligencia Artificial, infraestructura clave de la “autopista de IA” impulsada por el gobierno. El consorcio está encabezado por Samsung SDS e incluye a Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, la provincia de Jeollanam-do y Southwest Coast Enterprise City Development. Ese mismo día, el ministerio firmó un acuerdo de implementación para confirmar el operador y el plan de negocio, además de un contrato entre accionistas para la inversión y la creación y operación de una sociedad de propósito especial. Ambas partes planean establecer la SPC público-privada dentro del segundo trimestre de este año e iniciar la construcción del centro en el tercer trimestre. El costo total del proyecto es de unos 2,5 billones de wones, con el objetivo de construir para 2028 un centro con 15.000 semiconductores avanzados de IA. Tras su construcción, se prevé ofrecer recursos de computación de IA de alto rendimiento a tarifas competitivas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Consórcio Samsung SDS fará Centro Nacional de Computação de IA",
+        "excerpt": "O Ministério da Ciência e TIC informou no dia 11 que o consórcio liderado pela Samsung SDS foi escolhido como parceiro privado do projeto nacional de computação de IA.",
+        "body": "O Ministério da Ciência e TIC da Coreia do Sul informou no dia 11 que escolheu definitivamente o consórcio da Samsung SDS como participante privado do projeto de construção do Centro Nacional de Computação de Inteligência Artificial, uma infraestrutura central da “autoestrada de IA” promovida pelo governo. O consórcio é liderado pela Samsung SDS e conta com Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, a província de Jeollanam-do e a Southwest Coast Enterprise City Development. No mesmo dia, o ministério assinou um acordo de implementação para confirmar o operador e o plano do projeto, além de um acordo entre acionistas para investimento e criação e operação de uma sociedade de propósito específico. O ministério e o consórcio planejam criar a SPC público-privada ainda no segundo trimestre deste ano e iniciar as obras no terceiro trimestre. O custo total do projeto é de cerca de 2,5 trilhões de wones, com meta de construir até 2028 um centro com 15.000 semicondutores avançados de IA. Após a conclusão, o governo pretende oferecer recursos de computação de IA de alto desempenho a preços competitivos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-SDS-Konsortium baut nationales KI-Computing-Zentrum",
+        "excerpt": "Das Ministerium für Wissenschaft und IKT teilte am 11. mit, dass das Samsung-SDS-Konsortium als privater Partner für Koreas nationales KI-Computing-Zentrum ausgewählt wurde.",
+        "body": "Das südkoreanische Ministerium für Wissenschaft und IKT gab am 11. bekannt, dass das Samsung-SDS-Konsortium endgültig als privater Teilnehmer am Projekt zum Aufbau des Nationalen Zentrums für Künstliche-Intelligenz-Computing ausgewählt wurde, einer zentralen Infrastruktur der von der Regierung geplanten „KI-Autobahn“. Das Konsortium wird von Samsung SDS geführt; beteiligt sind außerdem Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, die Provinz Jeollanam-do und Southwest Coast Enterprise City Development. Am selben Tag unterzeichnete das Ministerium eine Durchführungsvereinbarung zur Bestätigung des Betreibers und des Geschäftsplans sowie einen Aktionärsvertrag über Investitionen und die Gründung und den Betrieb einer Zweckgesellschaft. Beide Seiten wollen noch im zweiten Quartal dieses Jahres eine öffentlich-private SPC gründen und im dritten Quartal mit dem Bau des Zentrums beginnen. Die Gesamtkosten belaufen sich auf rund 2,5 Billionen Won. Bis 2028 soll ein Zentrum mit 15.000 modernen KI-Halbleitern entstehen. Nach dem Aufbau sollen leistungsstarke KI-Computing-Ressourcen zu wettbewerbsfähigen Preisen bereitgestellt werden. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le consortium Samsung SDS choisi pour le Centre national de calcul IA",
+        "excerpt": "Le ministère sud-coréen des Sciences et des TIC a annoncé le 11 que le consortium Samsung SDS serait le partenaire privé du Centre national de calcul pour l’IA.",
+        "body": "Le ministère sud-coréen des Sciences et des TIC a annoncé le 11 avoir définitivement retenu le consortium Samsung SDS comme participant privé au projet de Centre national de calcul en intelligence artificielle, infrastructure clé de l’« autoroute de l’IA » portée par le gouvernement. Le consortium est dirigé par Samsung SDS et réunit notamment Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, la province de Jeollanam-do et Southwest Coast Enterprise City Development. Le même jour, le ministère a signé un accord d’exécution pour confirmer l’opérateur et le plan d’affaires, ainsi qu’un pacte d’actionnaires concernant l’investissement et la création et l’exploitation d’une société à but spécifique. Les deux parties prévoient d’établir cette SPC public-privé au cours du deuxième trimestre de cette année et de lancer la construction du centre au troisième trimestre. Le coût total du projet atteint environ 2,5 billions de wons, avec pour objectif de bâtir d’ici 2028 un centre doté de 15.000 semi-conducteurs avancés pour l’IA. Une fois le centre construit, le gouvernement prévoit de fournir des ressources de calcul IA haute performance à des tarifs compétitifs. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تحالف سامسونغ SDS يفوز ببناء مركز وطني للحوسبة بالذكاء الاصطناعي",
+        "excerpt": "أعلنت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا يوم 11 اختيار تحالف سامسونغ SDS شريكا خاصا لمشروع مركز الحوسبة الوطني للذكاء الاصطناعي.",
+        "body": "أعلنت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا يوم 11 أنها اختارت نهائيا تحالف سامسونغ SDS كمشارك من القطاع الخاص في مشروع إنشاء المركز الوطني لحوسبة الذكاء الاصطناعي، وهو بنية تحتية رئيسية ضمن مشروع الحكومة المعروف باسم “طريق الذكاء الاصطناعي السريع”. ويضم التحالف، بقيادة سامسونغ SDS، كلا من Naver Cloud وSamsung C&T وKakao وSamsung Electronics وCrush وKT ومقاطعة جولا الجنوبية وشركة تطوير مدينة الساحل الجنوبي الغربي. وفي اليوم نفسه، وقعت الوزارة اتفاق تنفيذ لتأكيد المشغل وخطة المشروع، إلى جانب اتفاق بين المساهمين بشأن الاستثمار وتأسيس وتشغيل شركة ذات غرض خاص. وتخطط الوزارة والتحالف لتأسيس شركة مشتركة بين القطاعين العام والخاص خلال الربع الثاني من هذا العام، وبدء أعمال بناء المركز في الربع الثالث. وتبلغ التكلفة الإجمالية للمشروع نحو 2.5 تريليون وون، بهدف بناء مركز يضم 15 ألف شريحة متقدمة للذكاء الاصطناعي بحلول عام 2028. وبعد اكتمال المركز، تعتزم الوزارة توفير موارد حوسبة عالية الأداء للذكاء الاصطناعي بأسعار تنافسية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung SDS कंसोर्टियम राष्ट्रीय AI कंप्यूटिंग सेंटर बनाएगा",
+        "excerpt": "विज्ञान और ICT मंत्रालय ने 11 तारीख को बताया कि Samsung SDS कंसोर्टियम को राष्ट्रीय AI कंप्यूटिंग सेंटर परियोजना के निजी भागीदार के रूप में चुना गया है।",
+        "body": "दक्षिण कोरिया के विज्ञान और ICT मंत्रालय ने 11 तारीख को कहा कि सरकार की “AI हाईवे” पहल की मुख्य अवसंरचना, राष्ट्रीय कृत्रिम बुद्धिमत्ता कंप्यूटिंग सेंटर निर्माण परियोजना के लिए Samsung SDS कंसोर्टियम को अंतिम रूप से निजी भागीदार चुना गया है। इस कंसोर्टियम का नेतृत्व Samsung SDS कर रहा है और इसमें Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Jeollanam-do तथा Southwest Coast Enterprise City Development शामिल हैं। मंत्रालय ने उसी दिन परियोजना संचालक और व्यवसाय योजना की पुष्टि के लिए कार्यान्वयन समझौता किया, साथ ही निवेश और विशेष प्रयोजन कंपनी की स्थापना व संचालन के लिए शेयरधारक समझौता भी किया। मंत्रालय और कंसोर्टियम इस वर्ष की दूसरी तिमाही के भीतर सार्वजनिक-निजी संयुक्त SPC स्थापित करने और तीसरी तिमाही में केंद्र का निर्माण शुरू करने की योजना रखते हैं। परियोजना की कुल लागत लगभग 2.5 ट्रिलियन वोन है, और लक्ष्य 2028 तक 15,000 उन्नत AI सेमीकंडक्टरों वाले केंद्र का निर्माण करना है। केंद्र बनने के बाद उच्च प्रदर्शन वाली AI कंप्यूटिंग संसाधन प्रतिस्पर्धी दरों पर उपलब्ध कराए जाएंगे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Konsorsium Samsung SDS Bangun Pusat Komputasi AI Nasional",
+        "excerpt": "Kementerian Sains dan TIK Korea pada tanggal 11 menetapkan konsorsium Samsung SDS sebagai mitra swasta untuk proyek Pusat Komputasi AI Nasional.",
+        "body": "Kementerian Sains dan TIK Korea Selatan pada tanggal 11 menyatakan telah menetapkan konsorsium Samsung SDS sebagai peserta swasta dalam proyek pembangunan Pusat Komputasi Kecerdasan Buatan Nasional, infrastruktur inti dari “jalan raya AI” yang didorong pemerintah. Konsorsium ini dipimpin oleh Samsung SDS dan mencakup Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Provinsi Jeollanam-do, serta Southwest Coast Enterprise City Development. Pada hari yang sama, kementerian menandatangani perjanjian pelaksanaan untuk menetapkan operator dan rencana bisnis, serta perjanjian antarpemegang saham terkait investasi dan pendirian serta pengoperasian perusahaan bertujuan khusus. Kementerian dan konsorsium berencana membentuk SPC kerja sama publik-swasta dalam kuartal kedua tahun ini dan memulai pembangunan pusat pada kuartal ketiga. Total biaya proyek sekitar 2,5 triliun won, dengan target membangun pusat berskala 15.000 semikonduktor AI canggih pada 2028. Setelah pusat selesai dibangun, pemerintah berencana menyediakan sumber daya komputasi AI berkinerja tinggi dengan tarif kompetitif. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "78c9300d7f7f",
+    "slug": "부천-바우처-택시-이용자-92-만족-302112",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T23:10:22.415Z",
+    "updatedAt": "2026-05-11T23:10:22.415Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260511/133901211/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260511/133901211/2",
+    "titleFingerprint": "e489b1df17fcc2e2168249add3de382327ed42dc",
+    "dedupKeys": [
+      "78c9300d7f7f181f114b76a9ee56fcf66833dca3",
+      "e489b1df17fcc2e2168249add3de382327ed42dc",
+      "a7daf9d2dd25357bbde4f3e431239f038f1305c6"
+    ],
+    "imageUrl": "/images/articles/78c9300d7f7f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부천 바우처 택시 만족도 92%, 부천페이 결제 확대로 교통비 부담 낮춘다",
+        "excerpt": "부천시는 11일 3월부터 지역 개인택시 2484대에 부천페이 결제를 도입해 시민 교통비 부담을 줄이고 택시업계 경영 개선을 지원하고 있다고 밝혔다.",
+        "body": "경기 부천시는 시민 생활 불편과 경제적 부담을 줄이고 지역 상권에 활력을 더하기 위해 시행 중인 교통정책이 좋은 반응을 얻고 있다고 11일 밝혔다. 시는 3월부터 지역 개인택시 2484대를 대상으로 지역화폐 ‘부천페이’ 결제 서비스를 운영하고 있다. 시민은 개인택시 이용 시 부천페이 카드로 요금을 결제할 수 있으며, 충전 시 최대 10% 인센티브가 제공돼 사실상 요금 할인 효과를 볼 수 있다. 이 정책은 시민의 교통비 절감과 택시업계 경영 개선을 함께 겨냥했다. 시는 최근 유가 상승과 승객 감소로 어려움을 겪는 택시업계에도 도움이 될 것으로 기대한다. 택시와 버스, 지하철, SNS 광고를 통해 혜택을 알리고 단계적으로 서비스를 확대할 계획이다. 교통약자를 위한 바우처 택시 이용자 만족도는 92%로 나타났다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Bucheon Voucher Taxi Satisfaction Hits 92% as Bucheon Pay Taxi Payments Expand",
+        "excerpt": "Bucheon said on May 11 that it has introduced Bucheon Pay payments for 2,484 local private taxis since March to ease transport costs and support taxi operators.",
+        "body": "Bucheon City in Gyeonggi Province said on May 11 that its transport policy aimed at reducing daily inconveniences and economic burdens for residents while boosting local commerce is receiving a positive response. Since March, the city has offered payment by the local currency, Bucheon Pay, in 2,484 local private taxis. Residents can pay taxi fares with a Bucheon Pay card, and because charging the card provides incentives of up to 10%, the system can have the effect of lowering fares. The policy is designed to reduce transport costs for citizens and improve business conditions for the taxi industry. The city also expects it to help taxi operators facing difficulties from higher oil prices and fewer passengers. Bucheon is promoting the benefit through taxis, buses, subways and social media ads, and plans to expand the service in stages. Satisfaction among voucher taxi users for transport-vulnerable residents reached 92%. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "富川バウチャータクシー満足度92%、富川ペイ決済拡大で交通費負担軽減へ",
+        "excerpt": "富川市は11日、3月から地域の個人タクシー2484台に富川ペイ決済を導入し、市民の交通費負担軽減と業界支援を進めていると明らかにした。",
+        "body": "京畿道富川市は11日、市民の生活上の不便と経済的負担を減らし、地域商圏に活力を与えるために実施している交通政策が好評を得ていると発表した。市は3月から、地域の個人タクシー2484台を対象に地域通貨「富川ペイ」による決済サービスを運営している。市民は個人タクシーを利用する際、富川ペイカードで料金を支払うことができ、チャージ時に最大10%のインセンティブが提供されるため、実質的な料金割引効果も期待できる。政策は市民の交通費節減とタクシー業界の経営改善を同時に狙ったものだ。市は、最近の原油価格上昇や乗客減少で困難を抱えるタクシー業界にも役立つと見ている。タクシー、バス、地下鉄、SNS広告で特典を知らせ、今後段階的にサービスを拡大する計画だ。交通弱者向けバウチャータクシー利用者の満足度は92%だった。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "富川代金券出租车满意度达92%，扩大Bucheon Pay支付减轻交通负担",
+        "excerpt": "富川市11日表示，自3月起在当地2484辆个人出租车上推行Bucheon Pay支付，以减轻市民交通费用并支持出租车行业经营改善。",
+        "body": "京畿道富川市11日表示，为减少市民生活不便和经济负担、并为地区商圈注入活力而实施的交通政策正获得良好反响。自3月起，富川市面向当地2484辆个人出租车推出地区货币“Bucheon Pay”支付服务。市民乘坐个人出租车时可使用Bucheon Pay卡便捷支付车费；充值时最高可获得10%的奖励，因此也能产生一定的车费折扣效果。该政策旨在同时帮助市民节省交通费并改善出租车行业经营。市方还期待，该措施能为近期因油价上涨和乘客减少而面临困难的出租车行业提供帮助。富川市正通过出租车、公交、地铁和社交媒体广告宣传支付优惠，并计划今后分阶段扩大服务、提高使用率。面向交通弱势群体的代金券出租车用户满意度为92%。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Bucheon registra 92% de satisfacción en taxis voucher y amplía pagos con Bucheon Pay",
+        "excerpt": "Bucheon informó el 11 que desde marzo habilitó Bucheon Pay en 2.484 taxis privados locales para reducir el gasto de transporte ciudadano y apoyar al sector del taxi.",
+        "body": "La ciudad de Bucheon, en la provincia de Gyeonggi, informó el 11 que su política de transporte para reducir molestias cotidianas y cargas económicas de los ciudadanos, y a la vez dinamizar el comercio local, está recibiendo una buena respuesta. Desde marzo, el municipio aplica el servicio de pago con la moneda local “Bucheon Pay” en 2.484 taxis privados de la zona. Los usuarios pueden pagar la tarifa con la tarjeta Bucheon Pay, y al recargarla reciben incentivos de hasta el 10%, lo que genera un efecto de descuento en el coste del viaje. La medida busca aliviar el gasto de transporte de los ciudadanos y mejorar la gestión del sector del taxi. La ciudad espera que también ayude a los taxistas que atraviesan dificultades por el aumento del precio del combustible y la caída de pasajeros. Bucheon promociona el beneficio en taxis, autobuses, metro y anuncios en redes sociales, y prevé ampliar el servicio por etapas. La satisfacción de los usuarios de taxis voucher para personas con movilidad vulnerable alcanzó el 92%. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Táxi voucher de Bucheon tem 92% de satisfação e Bucheon Pay amplia alívio no transporte",
+        "excerpt": "Bucheon informou no dia 11 que, desde março, adotou pagamentos Bucheon Pay em 2.484 táxis privados locais para reduzir custos de transporte e apoiar o setor.",
+        "body": "A cidade de Bucheon, na província de Gyeonggi, informou no dia 11 que sua política de transporte para reduzir inconvenientes cotidianos e encargos econômicos dos cidadãos, além de estimular o comércio local, vem recebendo boa resposta. Desde março, a prefeitura opera o pagamento com a moeda local “Bucheon Pay” em 2.484 táxis privados da região. Os moradores podem pagar a corrida com o cartão Bucheon Pay e, ao recarregá-lo, recebem incentivo de até 10%, o que gera efeito semelhante a desconto na tarifa. A política busca reduzir o gasto de transporte dos cidadãos e melhorar as condições de gestão do setor de táxis. A cidade também espera ajudar taxistas afetados por alta do preço do petróleo e queda no número de passageiros. Bucheon divulga o benefício em táxis, ônibus, metrô e anúncios em redes sociais, e planeja ampliar o serviço em etapas. A satisfação dos usuários do táxi voucher para pessoas com vulnerabilidade no transporte chegou a 92%. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Bucheon-Voucher-Taxis erreichen 92% Zufriedenheit, Bucheon Pay soll Fahrkosten senken",
+        "excerpt": "Bucheon teilte am 11. mit, seit März Bucheon-Pay-Zahlungen in 2.484 lokalen Privattaxis eingeführt zu haben, um Fahrkosten zu senken und die Taxibranche zu stützen.",
+        "body": "Die Stadt Bucheon in der Provinz Gyeonggi teilte am 11. mit, dass ihre Verkehrspolitik zur Verringerung alltäglicher Unannehmlichkeiten und wirtschaftlicher Belastungen der Bürger sowie zur Belebung des lokalen Handels eine positive Resonanz erhält. Seit März bietet die Stadt in 2.484 lokalen Privattaxis Zahlungen mit der Regionalwährung „Bucheon Pay“ an. Bürger können Taxifahrten mit der Bucheon-Pay-Karte bezahlen; beim Aufladen gibt es Anreize von bis zu 10%, was praktisch eine Fahrpreisermäßigung bewirken kann. Die Maßnahme zielt zugleich auf geringere Transportkosten für Bürger und bessere Geschäftsbedingungen für die Taxibranche. Die Stadt erwartet außerdem Hilfe für Taxiunternehmen, die wegen steigender Ölpreise und sinkender Fahrgastzahlen unter Druck stehen. Bucheon bewirbt die Vorteile über Taxis, Busse, U-Bahnen und soziale Medien und will den Dienst schrittweise ausweiten. Die Zufriedenheit der Nutzer von Voucher-Taxis für verkehrsbenachteiligte Menschen lag bei 92%. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les taxis voucher de Bucheon atteignent 92% de satisfaction avec l’essor de Bucheon Pay",
+        "excerpt": "Bucheon a indiqué le 11 avoir lancé depuis mars le paiement Bucheon Pay dans 2 484 taxis privés locaux afin d’alléger les frais de transport et soutenir le secteur.",
+        "body": "La ville de Bucheon, dans la province de Gyeonggi, a annoncé le 11 que sa politique de transport destinée à réduire les désagréments quotidiens et la charge économique des habitants, tout en stimulant les commerces locaux, recevait un bon accueil. Depuis mars, la ville propose le paiement par la monnaie locale « Bucheon Pay » dans 2 484 taxis privés de la région. Les usagers peuvent régler leur course avec une carte Bucheon Pay et, lors du rechargement, bénéficier d’un incitatif pouvant atteindre 10%, ce qui produit un effet de réduction du tarif. Cette mesure vise à diminuer les coûts de transport des citoyens et à améliorer la situation économique du secteur des taxis. La ville espère aussi aider les chauffeurs touchés par la hausse des prix du pétrole et la baisse du nombre de passagers. Bucheon fait la promotion du service dans les taxis, bus, métros et sur les réseaux sociaux, et prévoit de l’étendre progressivement. Le taux de satisfaction des utilisateurs de taxis voucher destinés aux personnes vulnérables en matière de transport atteint 92%. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "رضا مستخدمي تاكسي القسائم في بوتشون يبلغ 92% مع توسيع الدفع عبر Bucheon Pay",
+        "excerpt": "أعلنت مدينة بوتشون في 11 مايو أنها تطبق منذ مارس الدفع عبر Bucheon Pay في 2484 سيارة أجرة خاصة محلية لتخفيف كلفة النقل ودعم قطاع الأجرة.",
+        "body": "قالت مدينة بوتشون في مقاطعة غيونغي يوم 11 إن سياسة النقل التي تنفذها لتقليل صعوبات الحياة اليومية والأعباء الاقتصادية على السكان، مع تنشيط الأسواق المحلية، تلقى استجابة جيدة. ومنذ مارس، تشغل المدينة خدمة الدفع بالعملة المحلية “Bucheon Pay” في 2484 سيارة أجرة خاصة محلية. ويمكن للمواطنين دفع أجرة التاكسي ببطاقة Bucheon Pay، كما يحصلون عند الشحن على حافز يصل إلى 10%، ما يحقق أثرا شبيها بتخفيض الأجرة. وتهدف السياسة إلى خفض تكاليف النقل للمواطنين وتحسين أوضاع إدارة قطاع سيارات الأجرة في الوقت نفسه. وتتوقع المدينة أن تساعد أيضا القطاع الذي يواجه صعوبات بسبب ارتفاع أسعار النفط وتراجع عدد الركاب. وتروج بوتشون للمزايا عبر سيارات الأجرة والحافلات ومترو الأنفاق وإعلانات وسائل التواصل الاجتماعي، وتخطط لتوسيع الخدمة تدريجيا. وبلغت نسبة رضا مستخدمي تاكسي القسائم المخصص للفئات الضعيفة في النقل 92%. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "बुचोन वाउचर टैक्सी संतुष्टि 92%, Bucheon Pay भुगतान से किराया बोझ घटाने की पहल",
+        "excerpt": "बुचोन शहर ने 11 मई को बताया कि मार्च से 2,484 स्थानीय निजी टैक्सियों में Bucheon Pay भुगतान शुरू कर नागरिकों का परिवहन खर्च घटाने और टैक्सी उद्योग को सहारा देने की नीति लागू है।",
+        "body": "ग्योंगगी प्रांत के बुचोन शहर ने 11 मई को कहा कि नागरिकों की दैनिक असुविधा और आर्थिक बोझ घटाने तथा स्थानीय बाजारों में सक्रियता बढ़ाने के लिए लागू परिवहन नीति को अच्छी प्रतिक्रिया मिल रही है। शहर ने मार्च से 2,484 स्थानीय निजी टैक्सियों में स्थानीय मुद्रा “Bucheon Pay” से भुगतान सेवा शुरू की है। नागरिक निजी टैक्सी लेते समय Bucheon Pay कार्ड से किराया चुका सकते हैं। कार्ड रिचार्ज करने पर अधिकतम 10% प्रोत्साहन मिलता है, जिससे किराये में छूट जैसा प्रभाव मिल सकता है। यह नीति नागरिकों के परिवहन खर्च को कम करने और टैक्सी उद्योग की प्रबंधन स्थिति सुधारने के उद्देश्य से लाई गई है। शहर को उम्मीद है कि तेल कीमतों में बढ़ोतरी और यात्रियों की कमी से कठिनाई झेल रहे टैक्सी उद्योग को भी मदद मिलेगी। बुचोन टैक्सी, बस, मेट्रो और सोशल मीडिया विज्ञापनों के जरिए लाभों का प्रचार कर रहा है और सेवा को चरणबद्ध रूप से बढ़ाने की योजना है। परिवहन-वंचित लोगों के लिए वाउचर टैक्सी उपयोगकर्ताओं की संतुष्टि 92% रही। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kepuasan Taksi Voucher Bucheon 92%, Pembayaran Bucheon Pay Diperluas untuk Kurangi Beban",
+        "excerpt": "Bucheon menyatakan pada 11 Mei bahwa sejak Maret pihaknya menerapkan pembayaran Bucheon Pay di 2.484 taksi pribadi lokal untuk menekan biaya transportasi warga dan membantu industri taksi.",
+        "body": "Kota Bucheon di Provinsi Gyeonggi menyatakan pada 11 Mei bahwa kebijakan transportasi yang dijalankan untuk mengurangi ketidaknyamanan hidup dan beban ekonomi warga, sekaligus menghidupkan kawasan usaha lokal, mendapat respons positif. Sejak Maret, kota ini mengoperasikan layanan pembayaran dengan mata uang lokal “Bucheon Pay” pada 2.484 taksi pribadi setempat. Warga dapat membayar ongkos taksi dengan kartu Bucheon Pay, dan saat mengisi saldo tersedia insentif hingga 10%, sehingga memberi efek pengurangan biaya perjalanan. Kebijakan ini ditujukan untuk menekan biaya transportasi warga dan memperbaiki kondisi usaha industri taksi. Pemerintah kota juga berharap kebijakan tersebut membantu sektor taksi yang mengalami kesulitan akibat kenaikan harga minyak dan penurunan penumpang. Bucheon mempromosikan manfaat ini melalui taksi, bus, kereta bawah tanah, dan iklan media sosial, serta berencana memperluas layanan secara bertahap. Tingkat kepuasan pengguna taksi voucher bagi kelompok rentan transportasi tercatat 92%. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "40f345797c46",
+    "slug": "부동산-중개보조원도-명찰-달아야-705962",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T23:09:04.099Z",
+    "updatedAt": "2026-05-11T23:09:04.099Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260511/133901232/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260511/133901232/2",
+    "titleFingerprint": "c3b9ea2b73905f1bd46ecb06ad7314c638fc9335",
+    "dedupKeys": [
+      "40f345797c469756a7c7c2388c6e22b5a8c07a89",
+      "c3b9ea2b73905f1bd46ecb06ad7314c638fc9335",
+      "8a0eab21001c397a3d1d9f1ea56a43004e0e1c19"
+    ],
+    "imageUrl": "/images/articles/40f345797c46.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 중구 부동산 중개보조원도 명찰 착용 권고, 불법 중개 예방 확대",
+        "excerpt": "서울 중구는 4월 22일부터 부동산 중개업 종사자 명찰제를 대표 공인중개사에서 소속 공인중개사와 중개보조원까지 확대해 불법 중개 피해 예방에 나섰다.",
+        "body": "서울 중구가 불법 부동산 중개 행위를 막고 구민 재산권을 보호하기 위해 ‘중개업 종사자 명찰제’를 확대 운영한다. 중구에 따르면 구는 지난 4월 22일부터 명찰제 적용 대상을 기존 중개사무소 대표 공인중개사에서 사무소 소속 공인중개사와 중개보조원까지 넓혔다. 이 제도는 무자격자의 불법 중개로 인한 피해를 줄이기 위해 지난해 8월 도입됐다. 명찰은 목걸이 형태로 제작되며 공인중개사는 사진과 성명, 등록번호 등 자격 정보를 표시한다. 중개보조원 명찰에는 ‘중개보조원’ 직위를 별도 표기해 공인중개사와 구분할 수 있도록 했다. 다만 착용은 의무가 아닌 권고 방식이다. 중구는 전용 발급기를 도입해 상시 발급 체계를 마련했고, 발급 명찰의 대여나 양도는 금지했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Seoul Jung-gu Expands Real Estate Badge System to Brokerage Assistants",
+        "excerpt": "Seoul’s Jung-gu has expanded its real estate brokerage worker badge system from office 대표 licensed agents to affiliated licensed agents and brokerage assistants from April 22 to help prevent illegal brokerage damage.",
+        "body": "Seoul’s Jung-gu is expanding its real estate brokerage worker badge system to curb illegal real estate brokerage and protect residents’ property rights. According to Jung-gu, the district widened the badge program on April 22 from only the representative licensed real estate agents of brokerage offices to affiliated licensed agents and brokerage assistants. The system was introduced in August last year to reduce harm caused by illegal brokerage by unqualified people. The badge is worn around the neck and displays identifying information. Licensed agents’ badges show a photo and name on the front and qualification details such as registration number on the back. Brokerage assistant badges separately state the position “brokerage assistant” so they can be distinguished from licensed agents. Wearing the badge is recommended, not mandatory. Jung-gu also introduced a dedicated issuing machine for regular issuance and banned lending or transferring issued badges. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ソウル中区、不動産仲介補助員にも名札着用を勧告し対象拡大",
+        "excerpt": "ソウル中区は4月22日から、不動産仲介業従事者の名札制度を代表公認仲介士から所属公認仲介士と仲介補助員まで広げ、違法仲介被害の予防を図る。",
+        "body": "ソウル中区は、違法な不動産仲介行為を防ぎ、区民の財産権を守るため「仲介業従事者名札制度」を拡大運用する。中区によると、区は4月22日から、これまで仲介事務所の代表公認仲介士に限っていた対象を、事務所所属の公認仲介士と仲介補助員にまで広げた。この制度は、無資格者による違法仲介の被害を減らす目的で昨年8月に導入された。名札は首掛け型で、公認仲介士は写真、氏名、登録番号などの資格情報を表示する。仲介補助員の名札には「仲介補助員」の職位を別途記し、公認仲介士と区別できるようにした。ただし着用は義務ではなく勧告方式で運用される。中区は専用発行機を導入して常時発行体制を整え、発行済み名札の貸与や譲渡を禁じた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "首尔中区扩大房产中介胸牌制度，中介助理也被建议佩戴",
+        "excerpt": "首尔中区自4月22日起将房地产中介从业人员胸牌制度从代表持证经纪人扩大至所属持证经纪人和中介助理，以预防非法中介损害。",
+        "body": "首尔中区为防止非法房地产中介行为、保护区民财产权，扩大实施“中介业从业人员胸牌制度”。据中区介绍，自4月22日起，该制度适用对象从原先中介事务所代表持证房地产经纪人，扩大到事务所所属持证经纪人和中介助理。该制度于去年8月引入，目的在于减少无资格人员非法中介造成的损害。胸牌为挂脖形式，持证经纪人的胸牌标注照片、姓名、注册编号等资格信息。中介助理胸牌则单独标明“中介助理”职务，以便与持证经纪人区分。不过，佩戴并非强制义务，而是以建议方式运行。中区还引入专用发放设备，建立常态发放体系，并禁止出借或转让已发放胸牌。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Jung-gu de Seúl amplía las placas de identificación a asistentes inmobiliarios",
+        "excerpt": "Jung-gu de Seúl amplió desde el 22 de abril el sistema de placas para trabajadores de intermediación inmobiliaria a agentes afiliados y asistentes, con el fin de prevenir daños por intermediación ilegal.",
+        "body": "Jung-gu de Seúl ampliará el sistema de placas de identificación para trabajadores de intermediación inmobiliaria con el objetivo de frenar actos ilegales y proteger los derechos patrimoniales de sus residentes. Según el distrito, desde el 22 de abril el alcance pasó de los agentes inmobiliarios autorizados representantes de las oficinas a los agentes autorizados afiliados y a los asistentes de intermediación. El sistema fue introducido en agosto del año pasado para reducir daños provocados por intermediación ilegal de personas no cualificadas. La placa, de tipo colgante, muestra datos de identificación. En la de los agentes autorizados figuran fotografía, nombre e información de cualificación como el número de registro. En la de los asistentes se indica por separado el cargo “asistente de intermediación” para distinguirlos de los agentes autorizados. Su uso es recomendado, no obligatorio. Jung-gu también simplificó la emisión con una máquina dedicada y prohibió prestar o transferir las placas emitidas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Jung-gu, em Seul, amplia crachá imobiliário para assistentes de corretagem",
+        "excerpt": "Jung-gu, em Seul, ampliou desde 22 de abril o sistema de crachás para trabalhadores de corretagem imobiliária a corretores vinculados e assistentes, para prevenir danos por intermediação ilegal.",
+        "body": "Jung-gu, em Seul, está ampliando o sistema de crachás para trabalhadores de corretagem imobiliária a fim de coibir intermediações ilegais e proteger os direitos patrimoniais dos moradores. Segundo o distrito, desde 22 de abril o programa deixou de abranger apenas os corretores imobiliários licenciados representantes dos escritórios e passou a incluir corretores licenciados vinculados e assistentes de corretagem. O sistema foi introduzido em agosto do ano passado para reduzir prejuízos causados por intermediação ilegal de pessoas sem qualificação. O crachá é usado no pescoço e exibe informações de identificação. Para corretores licenciados, mostra foto, nome e dados de qualificação, como número de registro. Para assistentes, traz separadamente o cargo “assistente de corretagem”, permitindo distingui-los dos corretores. O uso é recomendado, não obrigatório. Jung-gu também adotou uma máquina exclusiva de emissão e proibiu o empréstimo ou a transferência dos crachás emitidos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Seouls Jung-gu erweitert Ausweissystem auf Immobilien-Vermittlungsassistenten",
+        "excerpt": "Seouls Bezirk Jung-gu hat das Ausweissystem für Immobilienvermittler seit dem 22. April auf angestellte lizenzierte Makler und Vermittlungsassistenten ausgeweitet, um illegale Vermittlungsschäden zu verhindern.",
+        "body": "Der Seouler Bezirk Jung-gu erweitert sein Ausweissystem für Beschäftigte in der Immobilienvermittlung, um illegale Vermittlungstätigkeiten einzudämmen und Eigentumsrechte der Einwohner zu schützen. Nach Angaben des Bezirks gilt die Regelung seit dem 22. April nicht mehr nur für die repräsentativen lizenzierten Makler von Vermittlungsbüros, sondern auch für dort angestellte lizenzierte Makler und Vermittlungsassistenten. Das System wurde im August vergangenen Jahres eingeführt, um Schäden durch illegale Vermittlung unqualifizierter Personen zu verringern. Der Ausweis wird als Halskarte getragen und enthält Identifikationsdaten. Bei lizenzierten Maklern stehen Foto, Name und Qualifikationsangaben wie Registrierungsnummer darauf. Bei Assistenten wird die Position “Vermittlungsassistent” gesondert angegeben, damit sie von Maklern unterscheidbar sind. Das Tragen ist empfohlen, nicht verpflichtend. Jung-gu führte außerdem ein eigenes Ausgabegerät ein und verbot Verleih oder Übertragung ausgestellter Ausweise. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Jung-gu à Séoul étend les badges immobiliers aux assistants de courtage",
+        "excerpt": "Depuis le 22 avril, Jung-gu à Séoul étend le système de badges des professionnels de l’intermédiation immobilière aux agents affiliés et assistants afin de prévenir les dommages liés au courtage illégal.",
+        "body": "Jung-gu, à Séoul, étend son système de badges pour les professionnels de l’intermédiation immobilière afin de limiter les activités illégales et de protéger les droits patrimoniaux des habitants. Selon l’arrondissement, depuis le 22 avril, le dispositif ne concerne plus seulement les agents immobiliers agréés représentant les agences, mais aussi les agents agréés affiliés et les assistants de courtage. Ce système a été introduit en août dernier pour réduire les préjudices causés par des intermédiaires non qualifiés. Le badge, porté autour du cou, affiche des informations d’identification. Pour les agents agréés, il présente la photo, le nom et des données de qualification comme le numéro d’enregistrement. Pour les assistants, la fonction “assistant de courtage” est indiquée séparément afin de les distinguer des agents agréés. Le port reste recommandé et non obligatoire. Jung-gu a aussi installé une machine dédiée à l’émission régulière des badges et interdit leur prêt ou transfert. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "جونغ غو في سول توسع شارات العاملين بالعقار لتشمل مساعدي الوساطة",
+        "excerpt": "وسعت جونغ غو في سول منذ 22 أبريل نظام شارات العاملين في الوساطة العقارية من الوسطاء المرخصين الممثلين للمكاتب إلى الوسطاء التابعين ومساعدي الوساطة للحد من أضرار الوساطة غير القانونية.",
+        "body": "توسع منطقة جونغ غو في سول نظام شارات العاملين في الوساطة العقارية للحد من أعمال الوساطة غير القانونية وحماية حقوق الملكية للسكان. وبحسب جونغ غو، بدأ التوسع في 22 أبريل، بعدما كان النظام يقتصر على الوسطاء العقاريين المرخصين الممثلين لمكاتب الوساطة، ليشمل الوسطاء المرخصين العاملين داخل المكاتب ومساعدي الوساطة. وقد أُدخل النظام في أغسطس من العام الماضي لتقليل الأضرار الناتجة عن وساطة غير قانونية يقوم بها أشخاص غير مؤهلين. وتأتي الشارة على شكل بطاقة تُعلّق حول العنق، وتعرض للوسيط المرخص الصورة والاسم ومعلومات التأهيل مثل رقم التسجيل. أما شارة مساعد الوساطة فتذكر منصب “مساعد وساطة” بشكل منفصل للتمييز بينه وبين الوسيط المرخص. والارتداء ليس إلزاميا بل توصية. كما أدخلت جونغ غو جهاز إصدار مخصصا وأنشأت نظام إصدار دائم، مع حظر إعارة الشارات الصادرة أو نقلها. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सियोल के जंग-गु ने रियल एस्टेट सहायक दलालों तक नेम बैज प्रणाली बढ़ाई",
+        "excerpt": "सियोल के जंग-गु ने 22 अप्रैल से रियल एस्टेट मध्यस्थता कर्मियों की नेम बैज प्रणाली को प्रतिनिधि लाइसेंसधारी एजेंटों से संबद्ध एजेंटों और सहायक दलालों तक बढ़ाया, ताकि अवैध मध्यस्थता से नुकसान रोका जा सके।",
+        "body": "सियोल का जंग-गु अवैध रियल एस्टेट मध्यस्थता रोकने और निवासियों के संपत्ति अधिकारों की रक्षा के लिए ‘मध्यस्थता व्यवसाय कर्मी नेम बैज प्रणाली’ का विस्तार कर रहा है। जंग-गु के अनुसार, 22 अप्रैल से इसका दायरा पहले के केवल मध्यस्थता कार्यालयों के प्रतिनिधि लाइसेंसधारी रियल एस्टेट एजेंटों से बढ़ाकर कार्यालय से जुड़े लाइसेंसधारी एजेंटों और सहायक मध्यस्थता कर्मियों तक कर दिया गया। यह प्रणाली पिछले साल अगस्त में इसलिए शुरू की गई थी कि अयोग्य व्यक्तियों की अवैध मध्यस्थता से होने वाले नुकसान को कम किया जा सके। बैज गले में पहनने वाला होता है और पहचान संबंधी जानकारी दिखाता है। लाइसेंसधारी एजेंटों के बैज पर फोटो, नाम और पंजीकरण संख्या जैसी योग्यता जानकारी होती है। सहायक कर्मियों के बैज पर “मध्यस्थता सहायक” पद अलग से लिखा जाता है, ताकि उन्हें लाइसेंसधारी एजेंटों से अलग पहचाना जा सके। पहनना अनिवार्य नहीं, बल्कि अनुशंसित है। जंग-गु ने समर्पित जारी करने वाली मशीन भी लगाई और जारी बैज उधार देने या स्थानांतरित करने पर रोक लगाई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Jung-gu Seoul Perluas Lencana Properti hingga Asisten Perantara",
+        "excerpt": "Jung-gu Seoul sejak 22 April memperluas sistem lencana pekerja perantara properti dari agen berlisensi perwakilan kantor ke agen berlisensi yang tergabung dan asisten perantara untuk mencegah kerugian akibat praktik ilegal.",
+        "body": "Jung-gu Seoul memperluas sistem lencana bagi pekerja perantara properti untuk mencegah praktik perantaraan ilegal dan melindungi hak kekayaan warga. Menurut Jung-gu, sejak 22 April cakupan sistem ini diperluas dari semula hanya agen real estat berlisensi yang menjadi perwakilan kantor perantara menjadi agen berlisensi yang tergabung di kantor tersebut serta asisten perantara. Sistem ini diperkenalkan pada Agustus tahun lalu untuk mengurangi kerugian akibat perantaraan ilegal oleh orang yang tidak memenuhi kualifikasi. Lencana berbentuk kalung dan menampilkan informasi identitas. Pada lencana agen berlisensi tercantum foto, nama, serta informasi kualifikasi seperti nomor registrasi. Pada lencana asisten perantara, jabatan “asisten perantara” ditulis terpisah agar dapat dibedakan dari agen berlisensi. Pemakaiannya bersifat rekomendasi, bukan kewajiban. Jung-gu juga memperkenalkan mesin penerbit khusus untuk sistem penerbitan rutin dan melarang peminjaman atau pengalihan lencana yang sudah diterbitkan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "176b087c07f5",
     "slug": "서울지하철-1호선-이용자-22-경로-무임승차-954803",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Uang semikonduktor mengalir ke properti Seoul dan Gyeonggi selatan",
         "excerpt": "Lonjakan Kospi dan kenaikan bonus sektor semikonduktor membuat keuntungan saham serta bonus besar mengalir ke pasar properti Seoul dan Gyeonggi selatan.",
         "body": "Lonjakan Kospi dan meningkatnya bonus kinerja di sektor semikonduktor membuat keuntungan saham serta bonus bernilai besar mengarah ke pasar properti Seoul dan Gyeonggi selatan. Bank of Korea menganalisis bahwa 70% keuntungan saham mengalir ke real estat. Di pasar, banyak permintaan terlihat dari kawasan pusat semikonduktor seperti Icheon dan Cheongju menuju kawasan hunian utama di Gyeonggi selatan, termasuk Dongtan. Berkurangnya pasokan jeonse dan pengaruh pengenaan pajak capital gain yang lebih berat juga disebut sebagai faktor yang memengaruhi sentimen beli. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7eab04bcfed7",
-    "slug": "이제부턴-팔면-진짜-세금-폭탄강남-아파트-다주택자-증여의-시간-917821",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T06:14:31.605Z",
-    "updatedAt": "2026-05-11T06:14:31.605Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12043184",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12043184",
-    "titleFingerprint": "51a9a4fa1621ca4a3bc67dccdea29fcfb7c8b211",
-    "dedupKeys": [
-      "7eab04bcfed7e4e63157927e1e50bb30a073d2e2",
-      "51a9a4fa1621ca4a3bc67dccdea29fcfb7c8b211",
-      "32217bc8bb01df099286fee55b07e0f6a1c0ddae"
-    ],
-    "imageUrl": "/images/articles/7eab04bcfed7.png",
-    "i18n": {
-      "ko": {
-        "title": "강남 아파트 다주택자 증여 급증, 양도세 중과 재시행에 세금 부담 커졌다",
-        "excerpt": "다주택자 양도소득세 중과 유예가 10일부터 종료되면서 서울 강남권 아파트 보유자들의 증여 수요가 늘고, 4월 증여는 3년4개월 만에 최대치를 기록했다.",
-        "body": "다주택자 양도소득세 중과가 10일부터 다시 시행되면서 서울 강남권 아파트를 보유한 다주택자들의 증여 수요가 커지고 있다. 중과 유예 종료를 앞두고 매각 시 세 부담이 커질 수 있다는 점이 증여 선택을 부추긴 것으로 보인다. 원문에 따르면 4월 증여는 3년4개월 만에 최대치를 기록했다. 특히 채무를 함께 넘기는 ‘부담부증여’ 수요가 몰린 영향도 언급됐다. 세제 변화 이후 강남권 다주택자의 처분 방식은 매각보다 증여 쪽으로 더 주목받을 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gangnam Multi-Homeowners Turn to Gifts as Capital Gains Tax Surcharge Returns",
-        "excerpt": "As the suspension of Korea’s capital gains tax surcharge for multi-homeowners ended on the 10th, apartment gifting demand in Seoul’s Gangnam area rose, with April gifts hitting a 40-month high.",
-        "body": "The capital gains tax surcharge on multi-homeowners resumed on the 10th, increasing attention on property gifts among owners of apartments in Seoul’s Gangnam area. With the grace period ending, higher tax burdens on sales appear to have encouraged some owners to choose gifting instead. According to the original report, April gifts reached their highest level in three years and four months. Demand for “gift with assumed debt,” in which liabilities are transferred together with the property, was also cited as a contributing factor. After the tax change, Gangnam multi-homeowners’ disposal choices may draw more focus toward gifts than sales. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "江南マンション多住宅保有者の贈与増加、譲渡税重課再開で負担拡大",
-        "excerpt": "多住宅保有者への譲渡所得税重課の猶予が10日から終了し、ソウル江南圏のマンション保有者の贈与需要が増え、4月の贈与は3年4カ月ぶりの高水準となった。",
-        "body": "多住宅保有者に対する譲渡所得税の重課が10日から再び施行され、ソウル江南圏のマンションを持つ多住宅保有者の間で贈与需要が高まっている。重課猶予の終了を前に、売却時の税負担が大きくなり得る点が贈与の選択を促したとみられる。原文によると、4月の贈与は3年4カ月ぶりの最大値を記録した。特に債務も一緒に移す「負担付き贈与」への需要が集まった影響も言及された。税制変更後、江南圏の多住宅保有者の処分方法は売却より贈与に注目が集まる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "江南公寓多房业主赠与增加，转让税重课重启推高税负压力",
-        "excerpt": "多房业主转让所得税重课暂缓自10日起结束，首尔江南圈公寓持有者的赠与需求上升，4月赠与量创3年4个月以来最高水平。",
-        "body": "多房业主转让所得税重课自10日起重新实施，首尔江南圈公寓多房持有者的赠与需求正在扩大。随着重课暂缓期结束，出售时税负可能加重，这被认为促使部分业主选择赠与。原文称，4月赠与量达到3年4个月以来最高水平。报道还提到，连同债务一起转移的“负担附赠与”需求集中，也是影响因素之一。税制变化后，江南圈多房业主的处置方式可能比起出售更偏向受到赠与选项的关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Propietarios con varias viviendas en Gangnam elevan donaciones por recargo fiscal",
-        "excerpt": "Al terminar el día 10 la suspensión del recargo al impuesto sobre ganancias de capital para multi propietarios, aumentó la demanda de donaciones de apartamentos en Gangnam y abril marcó el mayor nivel en 40 meses.",
-        "body": "El recargo del impuesto sobre ganancias de capital para propietarios con varias viviendas volvió a aplicarse el día 10, elevando la atención sobre las donaciones de apartamentos en la zona de Gangnam, Seúl. Con el fin del periodo de suspensión, la posibilidad de una mayor carga fiscal al vender parece haber impulsado la opción de donar. Según el texto original, las donaciones de abril alcanzaron su nivel más alto en tres años y cuatro meses. También se citó la demanda de donaciones con deuda asumida, en las que se transfiere la obligación junto con la propiedad. Tras el cambio tributario, las decisiones de disposición en Gangnam podrían centrarse más en donaciones que en ventas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Donos de vários imóveis em Gangnam ampliam doações com volta de sobretaxa fiscal",
-        "excerpt": "Com o fim, no dia 10, da suspensão da sobretaxa sobre ganho de capital para múltiplos proprietários, cresceu a demanda por doações de apartamentos em Gangnam e abril teve o maior nível em 40 meses.",
-        "body": "A sobretaxa do imposto sobre ganho de capital para múltiplos proprietários voltou a vigorar no dia 10, aumentando a atenção sobre doações de apartamentos na região de Gangnam, em Seul. Com o fim da suspensão, a possibilidade de maior carga tributária na venda parece ter levado parte dos proprietários a optar pela doação. Segundo o texto original, as doações em abril atingiram o maior nível em três anos e quatro meses. Também foi citado o impacto da demanda por doações com dívida assumida, nas quais a obrigação é transferida junto com o imóvel. Após a mudança fiscal, as formas de alienação em Gangnam podem receber mais atenção pelo lado das doações do que das vendas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Gangnam-Mehrfachbesitzer verschenken mehr Wohnungen nach Rückkehr der Steuerzuschläge",
-        "excerpt": "Seit dem Ende der Aussetzung des Kapitalertragsteuer-Zuschlags für Mehrfachhausbesitzer am 10. steigt in Seouls Gangnam die Nachfrage nach Wohnungsschenkungen; der April erreichte den höchsten Stand seit 40 Monaten.",
-        "body": "Der Zuschlag auf die Kapitalertragsteuer für Mehrfachhausbesitzer gilt seit dem 10. wieder, wodurch Schenkungen von Apartments in Seouls Gangnam stärker in den Fokus rücken. Mit dem Ende der Aussetzung kann die Steuerlast bei einem Verkauf höher ausfallen, was offenbar die Entscheidung für Schenkungen begünstigte. Dem Originalbericht zufolge erreichten die Schenkungen im April den höchsten Stand seit drei Jahren und vier Monaten. Auch die Nachfrage nach Schenkungen mit übernommener Schuld, bei denen Verbindlichkeiten zusammen mit der Immobilie übertragen werden, wurde als Faktor genannt. Nach der Steueränderung könnten Gangnams Mehrfachbesitzer bei der Verwertung stärker auf Schenkungen als auf Verkäufe setzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "À Gangnam, les multipropriétaires donnent plus d’appartements avec le retour de la surtaxe",
-        "excerpt": "La suspension de la surtaxe sur les plus-values des multipropriétaires ayant pris fin le 10, la demande de donations d’appartements à Gangnam a augmenté et avril a atteint un plus haut en 40 mois.",
-        "body": "La surtaxe sur les plus-values immobilières des multipropriétaires est de nouveau appliquée depuis le 10, ce qui accroît l’intérêt pour les donations d’appartements dans le secteur de Gangnam, à Séoul. Avec la fin du moratoire, la charge fiscale potentiellement plus lourde en cas de vente semble avoir encouragé certains propriétaires à choisir la donation. Selon le texte original, les donations d’avril ont atteint leur plus haut niveau en trois ans et quatre mois. La demande de donations avec reprise de dette, où l’obligation est transférée avec le bien, est également citée comme facteur. Après ce changement fiscal, les modes de cession à Gangnam pourraient davantage se tourner vers la donation que vers la vente. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ملاك الشقق المتعددة في غانغنام يتجهون للهبة مع عودة ضريبة الأرباح الرأسمالية",
-        "excerpt": "مع انتهاء تعليق الضريبة الإضافية على مكاسب بيع العقارات للملاك متعددي المنازل في اليوم العاشر، زاد طلب الهبات في شقق غانغنام وسجل أبريل أعلى مستوى خلال 3 سنوات و4 أشهر.",
-        "body": "عادت الضريبة الإضافية على مكاسب بيع العقارات للملاك متعددي المنازل للتطبيق في اليوم العاشر، ما زاد الاهتمام بهبات الشقق في منطقة غانغنام في سيول. ومع انتهاء فترة التعليق، يبدو أن احتمال ارتفاع العبء الضريبي عند البيع دفع بعض الملاك إلى اختيار الهبة. وبحسب النص الأصلي، بلغت هبات أبريل أعلى مستوى لها منذ ثلاث سنوات وأربعة أشهر. كما ذُكر أن الطلب على الهبة المصحوبة بنقل الدين، حيث تنتقل الالتزامات مع العقار، كان من العوامل المؤثرة. وبعد هذا التغير الضريبي، قد تحظى طريقة تصرف ملاك العقارات المتعددة في غانغنام باهتمام أكبر نحو الهبة بدلا من البيع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गंगनम अपार्टमेंट के बहु-घर मालिकों में गिफ्टिंग बढ़ी, टैक्स सरचार्ज लौटा",
-        "excerpt": "बहु-घर मालिकों पर कैपिटल गेन टैक्स सरचार्ज की छूट 10 तारीख से समाप्त होने के बाद सियोल के गंगनम में अपार्टमेंट गिफ्टिंग की मांग बढ़ी और अप्रैल का स्तर 3 साल 4 महीने में सबसे अधिक रहा।",
-        "body": "बहु-घर मालिकों पर कैपिटल गेन टैक्स सरचार्ज 10 तारीख से फिर लागू हो गया, जिससे सियोल के गंगनम क्षेत्र में अपार्टमेंट रखने वाले बहु-घर मालिकों के बीच गिफ्टिंग की मांग बढ़ रही है। छूट अवधि समाप्त होने के साथ बिक्री पर टैक्स बोझ बढ़ने की आशंका ने कुछ मालिकों को गिफ्टिंग चुनने के लिए प्रेरित किया माना जा रहा है। मूल रिपोर्ट के अनुसार, अप्रैल में गिफ्टिंग 3 साल 4 महीने के उच्चतम स्तर पर पहुंची। कर्ज के साथ संपत्ति स्थानांतरित करने वाली ‘बर्डन्ड गिफ्ट’ मांग को भी एक कारण बताया गया। टैक्स बदलाव के बाद गंगनम के बहु-घर मालिकों के निपटान तरीके में बिक्री की तुलना में गिफ्टिंग पर अधिक ध्यान जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pemilik Banyak Apartemen di Gangnam Meningkatkan Hibah Saat Pajak Berat Berlaku Lagi",
-        "excerpt": "Setelah penangguhan pajak tambahan atas keuntungan penjualan bagi pemilik banyak rumah berakhir pada tanggal 10, permintaan hibah apartemen di Gangnam naik dan April mencatat level tertinggi dalam 3 tahun 4 bulan.",
-        "body": "Pajak tambahan atas keuntungan penjualan untuk pemilik banyak rumah kembali diberlakukan pada tanggal 10, sehingga permintaan hibah apartemen di kawasan Gangnam, Seoul, meningkat. Berakhirnya masa penangguhan membuat beban pajak saat menjual berpotensi lebih besar, dan hal ini tampaknya mendorong sebagian pemilik memilih hibah. Menurut teks asli, hibah pada April mencapai level tertinggi dalam tiga tahun empat bulan. Permintaan untuk hibah dengan pengalihan utang, yaitu kewajiban ikut dipindahkan bersama properti, juga disebut sebagai faktor. Setelah perubahan pajak ini, cara pelepasan aset pemilik banyak rumah di Gangnam dapat lebih tertuju pada hibah dibanding penjualan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3032356a42c3",
-    "slug": "오세훈-토허제-해제건은-한-두달-정도-해프닝제-유일한-부동산-실책-606038",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T06:13:12.518Z",
-    "updatedAt": "2026-05-11T06:13:12.518Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043189",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043189",
-    "titleFingerprint": "74d9e10ca5a4e59e641e73c47b79abb1e3d063b1",
-    "dedupKeys": [
-      "3032356a42c32312fa6081fbf1334ba0987875f5",
-      "74d9e10ca5a4e59e641e73c47b79abb1e3d063b1",
-      "6c16abd3132062dccc0a54d152dec7d861650a7e"
-    ],
-    "imageUrl": "/images/articles/3032356a42c3.png",
-    "i18n": {
-      "ko": {
-        "title": "오세훈 토허제 해제 논란에 “유일한 부동산 실책” 직접 언급",
-        "excerpt": "국민의힘 오세훈 서울시장 후보는 11일 지난해 강남권 토지거래허가구역 해제 뒤 한 달여 만에 재지정한 일을 “한두 달 정도의 해프닝”이자 “유일한 부동산 실책”이라고 밝혔다.",
-        "body": "국민의힘 오세훈 서울시장 후보는 11일 지난해 강남권 토지거래허가구역을 해제했다가 한 달여 만에 다시 지정한 데 대해 “한두 달 정도의 해프닝”이었다고 말했다. 그는 해당 사안을 두고 “제 유일한 부동산 실책”이라고 직접 언급했다. 이번 발언은 강남권 토지거래허가구역 해제와 재지정 과정이 다시 조명되는 계기가 됐다. 원문에 따르면 오 후보는 당시 조치가 길게 이어진 사안은 아니었다는 취지로 설명했다. 다만 해당 결정이 자신의 부동산 정책에서 실책으로 남았다는 점은 인정했다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Oh Se-hoon Calls Land Permit Zone Reversal His “Only Real Estate Mistake”",
-        "excerpt": "People Power Party Seoul mayoral candidate Oh Se-hoon said on the 11th that last year’s lifting and re-designation of Gangnam-area land transaction permit zones was a brief “episode” and his “only real estate mistake.”",
-        "body": "People Power Party Seoul mayoral candidate Oh Se-hoon said on the 11th that last year’s decision to lift land transaction permit zones in the Gangnam area, followed by re-designation about a month later, was “an episode of about one or two months.” He directly described the matter as “my only real estate mistake.” The remarks brought renewed attention to the process in which the Gangnam-area permit zones were removed and then restored. According to the original report, Oh explained the move as a matter that did not continue for long. Still, he acknowledged that the decision remains a mistake in his real estate policy record. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "呉世勲氏、土地取引許可区域解除を「唯一の不動産失策」と発言",
-        "excerpt": "国民の力の呉世勲ソウル市長候補は11日、昨年の江南圏土地取引許可区域解除と約1カ月後の再指定について「一、二カ月ほどのハプニング」で「唯一の不動産失策」だと述べた。",
-        "body": "国民の力の呉世勲ソウル市長候補は11日、昨年、江南圏の土地取引許可区域を解除した後、約1カ月で再指定したことについて「一、二カ月ほどのハプニング」だったと語った。さらに、この件を「私の唯一の不動産失策」と直接表現した。今回の発言により、江南圏の土地取引許可区域の解除と再指定の過程が改めて注目された。原文によると、呉候補は当時の措置が長期化した事案ではなかったとの趣旨で説明した。一方で、その決定が自身の不動産政策における失策として残ったことは認めた。出典：mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "吴世勋谈土地交易许可区解除：称其为唯一房地产失策",
-        "excerpt": "国民力量首尔市长候选人吴世勋11日表示，去年解除江南圈土地交易许可区后约一个月又重新指定一事，是“一两个月左右的小插曲”，也是他“唯一的房地产失策”。",
-        "body": "国民力量首尔市长候选人吴世勋11日表示，去年曾解除江南圈土地交易许可区，但约一个月后又重新指定，此事是“一两个月左右的小插曲”。他还直接称这一事项是“我唯一的房地产失策”。这一表态使江南圈土地交易许可区从解除到重新指定的过程再次受到关注。根据原文，吴候选人的说明意在强调，当时的措施并非长期持续的事项。不过，他也承认该决定在自己的房地产政策中留下了失策记录。来源：引用自mk.co.kr。"
-      },
-      "es": {
-        "title": "Oh Se-hoon admite que revertir el permiso de tierras fue su único error inmobiliario",
-        "excerpt": "El candidato del Partido del Poder Popular a la alcaldía de Seúl, Oh Se-hoon, dijo el día 11 que levantar y volver a designar en cerca de un mes la zona de permisos de transacción de tierras en Gangnam fue un breve episodio y su único error inmobiliario.",
-        "body": "Oh Se-hoon, candidato del Partido del Poder Popular a la alcaldía de Seúl, dijo el día 11 que la decisión del año pasado de levantar la zona de permisos de transacción de tierras en el área de Gangnam y volver a designarla aproximadamente un mes después fue “un episodio de uno o dos meses”. También calificó directamente el asunto como “mi único error inmobiliario”. Sus declaraciones vuelven a poner el foco en el proceso de levantamiento y re-designación de la zona en Gangnam. Según el texto original, Oh explicó que la medida no fue un asunto prolongado. Aun así, reconoció que la decisión quedó como un error dentro de su política inmobiliaria. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Oh Se-hoon diz que reversão de zona de permissão foi seu único erro imobiliário",
-        "excerpt": "O candidato do Partido do Poder Popular à prefeitura de Seul, Oh Se-hoon, disse no dia 11 que a retirada e a redesignação, cerca de um mês depois, da zona de permissão de transações de terras em Gangnam foi um breve episódio e seu único erro imobiliário.",
-        "body": "Oh Se-hoon, candidato do Partido do Poder Popular à prefeitura de Seul, afirmou no dia 11 que a decisão do ano passado de retirar a zona de permissão de transações de terras na região de Gangnam e redesigná-la cerca de um mês depois foi “um episódio de um ou dois meses”. Ele também chamou diretamente o caso de “meu único erro imobiliário”. A fala voltou a destacar o processo de retirada e redesignação da zona em Gangnam. Segundo o texto original, Oh explicou que a medida não foi uma questão prolongada. Ainda assim, reconheceu que a decisão permaneceu como um erro em sua política imobiliária. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Oh Se-hoon nennt Aufhebung der Landgenehmigungszone seinen einzigen Immobilienfehler",
-        "excerpt": "Oh Se-hoon, Bürgermeisterkandidat der People Power Party in Seoul, sagte am 11., die Aufhebung und rund einen Monat spätere Wiederausweisung der Landtransaktions-Genehmigungszone in Gangnam sei eine kurze Episode und sein einziger Immobilienfehler gewesen.",
-        "body": "Oh Se-hoon, Bürgermeisterkandidat der People Power Party in Seoul, sagte am 11., die Entscheidung aus dem vergangenen Jahr, die Landtransaktions-Genehmigungszone im Raum Gangnam aufzuheben und etwa einen Monat später wieder auszuweisen, sei „eine Episode von etwa ein oder zwei Monaten“ gewesen. Er bezeichnete den Vorgang außerdem direkt als „meinen einzigen Immobilienfehler“. Die Aussage lenkt erneut Aufmerksamkeit auf den Ablauf von Aufhebung und Wiederausweisung der Zone in Gangnam. Dem Originalbericht zufolge erklärte Oh, die Maßnahme sei kein lange anhaltender Vorgang gewesen. Zugleich räumte er ein, dass die Entscheidung in seiner Immobilienpolitik als Fehler bleibt. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Oh Se-hoon qualifie la levée d’une zone foncière de seule erreur immobilière",
-        "excerpt": "Oh Se-hoon, candidat du People Power Party à la mairie de Séoul, a déclaré le 11 que la levée puis la redésignation, environ un mois plus tard, de la zone d’autorisation des transactions foncières à Gangnam constituaient un bref épisode et sa seule erreur immobilière.",
-        "body": "Oh Se-hoon, candidat du People Power Party à la mairie de Séoul, a déclaré le 11 que la décision prise l’an dernier de lever la zone d’autorisation des transactions foncières dans le secteur de Gangnam, puis de la redésigner environ un mois plus tard, avait été “un épisode d’un ou deux mois”. Il a aussi qualifié directement cette affaire de “ma seule erreur immobilière”. Cette déclaration remet en lumière le processus de levée et de redésignation de la zone de Gangnam. Selon le texte original, Oh a expliqué que la mesure n’avait pas duré longtemps. Il a toutefois reconnu que cette décision restait une erreur dans sa politique immobilière. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "أوه سي هون يصف إلغاء منطقة تصاريح الأراضي بأنه خطؤه العقاري الوحيد",
-        "excerpt": "قال مرشح حزب قوة الشعب لمنصب عمدة سول أوه سي هون في الحادي عشر إن إلغاء منطقة تصاريح تداول الأراضي في غانغنام العام الماضي ثم إعادة تعيينها بعد نحو شهر كان “واقعة قصيرة” و“خطأه العقاري الوحيد”.",
-        "body": "قال مرشح حزب قوة الشعب لمنصب عمدة سول أوه سي هون في الحادي عشر إن قرار العام الماضي بإلغاء منطقة تصاريح تداول الأراضي في نطاق غانغنام، ثم إعادة تعيينها بعد نحو شهر، كان “واقعة استمرت شهرا أو شهرين تقريبا”. ووصف المسألة مباشرة بأنها “خطئي العقاري الوحيد”. وأعادت هذه التصريحات تسليط الضوء على مسار إلغاء منطقة تصاريح تداول الأراضي في غانغنام ثم إعادة تعيينها. ووفقا للنص الأصلي، أوضح أوه أن الإجراء لم يكن قضية استمرت طويلا. لكنه أقر بأن ذلك القرار بقي خطأ ضمن سياسته العقارية. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "ओह से-हून ने भूमि परमिट क्षेत्र वापसी को अपनी एकमात्र रियल एस्टेट भूल कहा",
-        "excerpt": "पीपुल पावर पार्टी के सियोल मेयर उम्मीदवार ओह से-हून ने 11 तारीख को कहा कि पिछले साल गंगनाम क्षेत्र के भूमि लेनदेन परमिट क्षेत्र को हटाकर करीब एक महीने बाद फिर 지정 करना “एक-दो महीने की घटना” और उनकी “एकमात्र रियल एस्टेट भूल” थी।",
-        "body": "पीपुल पावर पार्टी के सियोल मेयर उम्मीदवार ओह से-हून ने 11 तारीख को कहा कि पिछले साल गंगनाम क्षेत्र के भूमि लेनदेन परमिट क्षेत्र को हटाने और करीब एक महीने बाद फिर से 지정 करने का मामला “एक या दो महीने की घटना” था। उन्होंने इसे सीधे तौर पर “मेरी एकमात्र रियल एस्टेट भूल” बताया। इस बयान से गंगनाम क्षेत्र में परमिट क्षेत्र हटाने और फिर दोबारा 지정 करने की प्रक्रिया फिर चर्चा में आई। मूल रिपोर्ट के अनुसार, ओह ने समझाया कि उस समय का कदम लंबे समय तक चला मामला नहीं था। फिर भी उन्होंने माना कि यह फैसला उनकी रियल एस्टेट नीति में एक भूल के रूप में रह गया। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Oh Se-hoon Sebut Pencabutan Zona Izin Tanah sebagai Satu-satunya Kesalahan Properti",
-        "excerpt": "Kandidat wali kota Seoul dari People Power Party, Oh Se-hoon, mengatakan pada tanggal 11 bahwa pencabutan zona izin transaksi tanah di wilayah Gangnam tahun lalu lalu penetapannya kembali sekitar sebulan kemudian adalah episode singkat dan satu-satunya kesalahan propertinya.",
-        "body": "Kandidat wali kota Seoul dari People Power Party, Oh Se-hoon, mengatakan pada tanggal 11 bahwa keputusan tahun lalu untuk mencabut zona izin transaksi tanah di wilayah Gangnam dan menetapkannya kembali sekitar sebulan kemudian adalah “episode sekitar satu atau dua bulan”. Ia juga secara langsung menyebut perkara itu sebagai “satu-satunya kesalahan properti saya”. Pernyataan ini kembali menyoroti proses pencabutan dan penetapan ulang zona izin transaksi tanah di Gangnam. Menurut teks asli, Oh menjelaskan bahwa langkah saat itu bukan perkara yang berlangsung lama. Namun, ia mengakui keputusan tersebut tetap menjadi kesalahan dalam kebijakan propertinya. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "56944d219061",
-    "slug": "정원오-오세훈-토허제-충동적으로-풀어서-부동산-시장에-불-붙여-608682",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T06:12:03.026Z",
-    "updatedAt": "2026-05-11T06:12:03.026Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12043249",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12043249",
-    "titleFingerprint": "cc559bea256bb04096ab76445f242c020af08785",
-    "dedupKeys": [
-      "56944d21906178614b096b45504281de71dfe894",
-      "cc559bea256bb04096ab76445f242c020af08785",
-      "f18e3356d4ac3d92b27a7653a2df4f1f830baaca"
-    ],
-    "imageUrl": "/images/articles/56944d219061.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정원오, 오세훈 토지거래허가제 해제 비판…“부동산 시장에 불 붙여”",
-        "excerpt": "정원오 더불어민주당 서울시장 후보는 11일 오세훈 국민의힘 후보가 잠실·삼성·대치·청담동 토지거래허가제를 충동적으로 풀어 부동산 시장을 자극했다고 비판했다.",
-        "body": "정원오 더불어민주당 서울시장 후보는 11일 오세훈 국민의힘 후보의 잠실·삼성·대치·청담동 토지거래허가제 조정을 정면 비판했다. 정 후보는 오 후보가 이른바 ‘잠삼대청’ 지역의 토지거래허가제를 충동적으로 풀었다가 한 달여 만에 다시 확대한 것이 부동산 시장에 불을 붙인 사례라고 주장했다. 토지거래허가제는 특정 지역의 투기 수요를 억제하기 위해 거래 때 허가를 받도록 하는 제도다. 서울 핵심 지역 규제 완화와 재확대가 짧은 기간 반복되면서 시장 안정성과 정책 신뢰를 둘러싼 논쟁이 커질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jung Won-oh Criticizes Oh Se-hoon’s Land Permit Move for Heating Seoul Property Market",
-        "excerpt": "Democratic Seoul mayoral candidate Jung Won-oh said on May 11 that People Power Party candidate Oh Se-hoon impulsively eased land transaction permit rules in key Seoul districts, stoking the property market.",
-        "body": "Jung Won-oh, the Democratic Party’s candidate for Seoul mayor, criticized People Power Party candidate Oh Se-hoon on May 11 over changes to the land transaction permit system in Jamsil, Samseong, Daechi and Cheongdam. Jung argued that Oh impulsively lifted the permit requirement in the so-called “Jamsam-Daecheong” area and then expanded it again after about a month, saying the move helped ignite the real estate market. The land transaction permit system requires approval for transactions in designated areas to curb speculative demand. The brief cycle of easing and re-expansion in Seoul’s core districts is expected to fuel debate over market stability and policy credibility. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "鄭元午氏、呉世勲氏の土地取引許可制解除を批判「不動産市場に火を付けた」",
-        "excerpt": "共に民主党のソウル市長候補、鄭元午氏は11日、呉世勲国民の力候補が蚕室・三成・大峙・清潭洞の土地取引許可制を衝動的に解除し、市場を刺激したと批判した。",
-        "body": "共に民主党のソウル市長候補、鄭元午氏は11日、国民の力の呉世勲候補による蚕室・三成・大峙・清潭洞の土地取引許可制の調整を正面から批判した。鄭氏は、呉氏がいわゆる「蚕三大清」地域の土地取引許可制を衝動的に解除し、約1カ月後に再び拡大したことが不動産市場に火を付けた事例だと主張した。土地取引許可制は、特定地域の投機需要を抑えるため取引時に許可を求める制度だ。ソウルの中核地域で規制緩和と再拡大が短期間に繰り返され、市場安定と政策信頼をめぐる議論が広がる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "郑愿午批评吴世勋调整土地交易许可制：称其点燃房地产市场",
-        "excerpt": "共同民主党首尔市长候选人郑愿午11日表示，国民力量候选人吴世勋冲动解除蚕室、三成、大峙、清潭洞土地交易许可制，刺激了房地产市场。",
-        "body": "共同民主党首尔市长候选人郑愿午11日正面批评国民力量候选人吴世勋对蚕室、三成、大峙、清潭洞土地交易许可制的调整。郑愿午称，吴世勋曾冲动解除所谓“蚕三大清”地区的土地交易许可制，却在约一个月后再次扩大适用范围，这是点燃房地产市场的案例。土地交易许可制是为抑制特定地区投机需求，要求交易时取得许可的制度。首尔核心地区在短时间内经历监管放松与重新扩大，围绕市场稳定性和政策可信度的争论预计将升温。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Jung Won-oh critica a Oh Se-hoon por avivar el mercado inmobiliario con permisos de suelo",
-        "excerpt": "El candidato demócrata a la alcaldía de Seúl, Jung Won-oh, dijo el 11 de mayo que Oh Se-hoon, del Partido del Poder Popular, relajó impulsivamente los permisos de transacción de suelo en zonas clave y estimuló el mercado.",
-        "body": "Jung Won-oh, candidato del Partido Democrático a la alcaldía de Seúl, criticó el 11 de mayo a Oh Se-hoon, candidato del Partido del Poder Popular, por los cambios en el sistema de permisos de transacción de suelo en Jamsil, Samseong, Daechi y Cheongdam. Jung sostuvo que Oh levantó impulsivamente la medida en la llamada zona “Jamsam-Daecheong” y volvió a ampliarla alrededor de un mes después, lo que, según él, encendió el mercado inmobiliario. El sistema exige aprobación para operaciones en áreas designadas con el fin de frenar la demanda especulativa. La rápida relajación y posterior ampliación en distritos centrales de Seúl intensificará el debate sobre estabilidad del mercado y credibilidad política. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Jung Won-oh critica Oh Se-hoon por aquecer mercado imobiliário com licença de terrenos",
-        "excerpt": "O candidato democrata à prefeitura de Seul, Jung Won-oh, disse em 11 de maio que Oh Se-hoon, do Partido do Poder Popular, relaxou impulsivamente regras de permissão de transações de terrenos em áreas-chave, estimulando o mercado.",
-        "body": "Jung Won-oh, candidato do Partido Democrata à prefeitura de Seul, criticou em 11 de maio Oh Se-hoon, candidato do Partido do Poder Popular, pelas mudanças no sistema de permissão para transações de terrenos em Jamsil, Samseong, Daechi e Cheongdam. Jung afirmou que Oh suspendeu impulsivamente a exigência na chamada área “Jamsam-Daecheong” e voltou a ampliá-la cerca de um mês depois, o que teria acendido o mercado imobiliário. O sistema exige aprovação para transações em áreas designadas a fim de conter a demanda especulativa. A rápida flexibilização e posterior ampliação em regiões centrais de Seul deve ampliar o debate sobre estabilidade do mercado e confiança nas políticas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jung Won-oh kritisiert Oh Se-hoons Lockerung der Grundstücksgenehmigungen in Seoul",
-        "excerpt": "Der demokratische Bürgermeisterkandidat Jung Won-oh sagte am 11. Mai, Oh Se-hoon von der People Power Party habe die Genehmigungspflicht für Grundstücksgeschäfte in zentralen Seouler Vierteln impulsiv gelockert und den Immobilienmarkt angeheizt.",
-        "body": "Jung Won-oh, Bürgermeisterkandidat der Demokratischen Partei in Seoul, kritisierte am 11. Mai den Kandidaten der People Power Party, Oh Se-hoon, wegen Änderungen am Genehmigungssystem für Grundstückstransaktionen in Jamsil, Samseong, Daechi und Cheongdam. Jung erklärte, Oh habe die Regelung in der sogenannten „Jamsam-Daecheong“-Zone impulsiv aufgehoben und nach gut einem Monat wieder ausgeweitet; dies habe den Immobilienmarkt angefacht. Das System verlangt Genehmigungen für Geschäfte in bestimmten Gebieten, um spekulative Nachfrage zu dämpfen. Die kurze Abfolge von Lockerung und erneuter Ausweitung in Seouls Kernlagen dürfte die Debatte über Marktstabilität und politische Glaubwürdigkeit verschärfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Jung Won-oh critique Oh Se-hoon pour avoir ravivé l’immobilier avec les permis fonciers",
-        "excerpt": "Le candidat démocrate à la mairie de Séoul, Jung Won-oh, a déclaré le 11 mai qu’Oh Se-hoon, du People Power Party, avait assoupli impulsivement les permis de transaction foncière dans des quartiers clés, stimulant le marché.",
-        "body": "Jung Won-oh, candidat du Parti démocrate à la mairie de Séoul, a critiqué le 11 mai Oh Se-hoon, candidat du People Power Party, pour ses changements au système de permis de transaction foncière à Jamsil, Samseong, Daechi et Cheongdam. Jung a affirmé qu’Oh avait levé impulsivement l’obligation dans la zone dite « Jamsam-Daecheong », puis l’avait de nouveau élargie environ un mois plus tard, ce qui aurait attisé le marché immobilier. Ce système impose une autorisation pour les transactions dans des zones désignées afin de freiner la demande spéculative. Cette alternance rapide d’assouplissement et de réextension dans les quartiers centraux de Séoul devrait nourrir le débat sur la stabilité du marché et la crédibilité des politiques. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جونغ وون أو ينتقد أوه سي هون: تخفيف تصاريح الأراضي أشعل عقارات سول",
-        "excerpt": "قال جونغ وون أو، مرشح الحزب الديمقراطي لرئاسة بلدية سول، في 11 مايو إن أوه سي هون مرشح حزب قوة الشعب خفف بشكل اندفاعي نظام تصاريح تداول الأراضي في مناطق رئيسية، ما حفز سوق العقارات.",
-        "body": "انتقد جونغ وون أو، مرشح الحزب الديمقراطي لرئاسة بلدية سول، في 11 مايو مرشح حزب قوة الشعب أوه سي هون بسبب تعديل نظام تصاريح تداول الأراضي في جامسيل وسامسونغ ودايتشي وتشونغدام. وقال جونغ إن أوه رفع بشكل اندفاعي شرط التصريح في ما يعرف بمنطقة «جامسام-دايتشيونغ»، ثم عاد ووسعه بعد نحو شهر، معتبرا أن ذلك أشعل سوق العقارات. ويهدف نظام تصاريح تداول الأراضي إلى كبح الطلب المضاربي عبر إلزام الصفقات في مناطق محددة بالحصول على موافقة. ومن المتوقع أن يثير تكرار التخفيف ثم التوسيع خلال فترة قصيرة في مناطق سول الأساسية جدلا حول استقرار السوق ومصداقية السياسة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जंग वोन-ओ ने ओह से-हून पर साधा निशाना: भूमि अनुमति ढील से रियल एस्टेट बाजार गरमाया",
-        "excerpt": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जंग वोन-ओ ने 11 मई को कहा कि पीपल पावर पार्टी के ओह से-हून ने प्रमुख इलाकों में भूमि लेनदेन अनुमति नियम impulsively ढीले कर बाजार को भड़काया।",
-        "body": "डेमोक्रेटिक पार्टी के सियोल मेयर उम्मीदवार जंग वोन-ओ ने 11 मई को पीपल पावर पार्टी के उम्मीदवार ओह से-हून की जमसिल, सैमसंग, डेची और चोंगदाम में भूमि लेनदेन अनुमति प्रणाली में बदलाव को लेकर आलोचना की। जंग ने कहा कि ओह ने तथाकथित “जमसाम-डेचोंग” क्षेत्र में अनुमति नियम को आवेगपूर्ण ढंग से हटाया और करीब एक महीने बाद फिर उसका दायरा बढ़ाया, जिससे रियल एस्टेट बाजार में आग लगी। यह प्रणाली निर्दिष्ट क्षेत्रों में सट्टा मांग रोकने के लिए लेनदेन से पहले अनुमति मांगती है। सियोल के प्रमुख क्षेत्रों में कम समय में ढील और पुनर्विस्तार से बाजार स्थिरता और नीति विश्वसनीयता पर बहस बढ़ने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jung Won-oh Kritik Oh Se-hoon: Pelonggaran Izin Tanah Picu Pasar Properti Seoul",
-        "excerpt": "Kandidat wali kota Seoul dari Partai Demokrat, Jung Won-oh, pada 11 Mei menyebut Oh Se-hoon dari People Power Party secara impulsif melonggarkan aturan izin transaksi tanah di kawasan utama Seoul dan memanaskan pasar properti.",
-        "body": "Jung Won-oh, kandidat wali kota Seoul dari Partai Demokrat, pada 11 Mei mengkritik kandidat People Power Party Oh Se-hoon atas perubahan sistem izin transaksi tanah di Jamsil, Samseong, Daechi, dan Cheongdam. Jung menilai Oh secara impulsif mencabut aturan di kawasan yang disebut “Jamsam-Daecheong”, lalu memperluasnya kembali sekitar sebulan kemudian, sehingga memicu pasar real estat. Sistem izin transaksi tanah mewajibkan persetujuan untuk transaksi di wilayah tertentu guna menekan permintaan spekulatif. Pelonggaran dan perluasan ulang dalam waktu singkat di kawasan inti Seoul diperkirakan memperbesar perdebatan soal stabilitas pasar dan kredibilitas kebijakan. Sumber: mk.co.kr"
       }
     }
   }

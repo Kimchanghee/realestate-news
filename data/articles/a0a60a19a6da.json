@@ -1,0 +1,75 @@
+{
+  "id": "a0a60a19a6da",
+  "slug": "삼성sds-컨소시엄-국가-ai컴퓨팅-센터-만든다-566396",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-11T23:11:42.297Z",
+  "updatedAt": "2026-05-11T23:11:42.297Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901304/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901304/2",
+  "titleFingerprint": "bc78342207367979eece954e2bd770855bedd72a",
+  "dedupKeys": [
+    "a0a60a19a6da7c2ff02c83f37b08bcf18a1a6f33",
+    "bc78342207367979eece954e2bd770855bedd72a",
+    "bfdd60afa47dba3a52138fcf28bf27659a426514"
+  ],
+  "imageUrl": "/images/articles/a0a60a19a6da.jpg",
+  "i18n": {
+    "ko": {
+      "title": "삼성SDS 컨소시엄, 국가 AI컴퓨팅 센터 사업 최종 선정",
+      "excerpt": "과학기술정보통신부는 11일 국가 AI컴퓨팅 센터 구축 사업의 민간참여자로 삼성SDS 컨소시엄을 확정하고 2028년까지 핵심 인프라를 구축한다고 밝혔다.",
+      "body": "과학기술정보통신부는 11일 정부가 추진하는 ‘AI 고속도로’의 핵심 인프라인 국가 인공지능(AI)컴퓨팅 센터 구축 사업의 민간참여자로 삼성SDS 컨소시엄을 최종 선정했다고 밝혔다. 컨소시엄에는 주관사 삼성SDS를 비롯해 네이버클라우드, 삼성물산, 카카오, 삼성전자, 클러쉬, KT, 전라남도, 서남해안기업도시개발 등이 참여한다. 과기정통부는 이날 사업자와 사업계획 확정을 위한 실시협약, 출자 및 특수목적법인(SPC) 설립·운영을 위한 주주 간 계약을 체결했다. 양측은 올해 2분기 내 민·관 합작 SPC를 설립하고 3분기 중 센터 착공에 들어갈 계획이다. 총사업비는 2조5000억 원 규모이며, 2028년까지 첨단 AI반도체 1만5000장 규모의 센터 구축을 목표로 한다. 센터 구축 후에는 고성능 AI 컴퓨팅 자원을 경쟁력 있는 요금으로 제공할 방침이다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Samsung SDS Consortium Chosen to Build National AI Computing Center",
+      "excerpt": "The Ministry of Science and ICT said on the 11th that the Samsung SDS consortium was selected as the private partner for Korea’s National AI Computing Center project.",
+      "body": "The Ministry of Science and ICT said on the 11th that it has finalized the Samsung SDS consortium as the private participant in the National Artificial Intelligence Computing Center project, a core infrastructure element of the government’s planned “AI highway.” The consortium is led by Samsung SDS and includes Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Jeollanam-do, and Southwest Coast Enterprise City Development. On the same day, the ministry signed an implementation agreement to confirm the operator and business plan, along with a shareholders’ agreement for investment and the establishment and operation of a special purpose company. The ministry and the consortium plan to establish a public-private SPC within the second quarter of this year and begin construction in the third quarter. The total project cost is about 2.5 trillion won, with a goal of building a center equipped with 15,000 advanced AI semiconductors by 2028. After completion, the ministry plans to provide high-performance AI computing resources at competitive rates. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "サムスンSDS連合、国家AIコンピューティングセンター事業に選定",
+      "excerpt": "科学技術情報通信部は11日、国家AIコンピューティングセンター構築事業の民間参加者にサムスンSDS連合を確定したと発表した。",
+      "body": "科学技術情報通信部は11日、政府が推進する「AI高速道路」の中核インフラである国家人工知能（AI）コンピューティングセンター構築事業の民間参加者として、サムスンSDSコンソーシアムを最終選定したと明らかにした。コンソーシアムには主管社のサムスンSDSをはじめ、ネイバークラウド、サムスン物産、カカオ、サムスン電子、クラッシュ、KT、全羅南道、西南海岸企業都市開発などが参加する。同部は同日、事業者と事業計画を確定するための実施協約、出資および特別目的法人（SPC）の設立・運営に関する株主間契約を締結した。双方は今年第2四半期内に官民共同SPCを設立し、第3四半期中にセンター着工に入る計画だ。総事業費は約2兆5000億ウォンで、2028年までに先端AI半導体1万5000枚規模のセンター構築を目指す。完成後は高性能AIコンピューティング資源を競争力ある料金で提供する方針だ。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "三星SDS财团最终入选韩国国家AI计算中心建设项目",
+      "excerpt": "韩国科学技术信息通信部11日表示，三星SDS财团被确定为国家AI计算中心建设项目的民间参与方，目标是到2028年建成核心基础设施。",
+      "body": "韩国科学技术信息通信部11日表示，政府推进的“AI高速公路”核心基础设施国家人工智能（AI）计算中心建设项目，最终确定三星SDS财团为民间参与方。该财团由三星SDS担任主管公司，参与方包括Naver Cloud、三星物产、Kakao、三星电子、Crush、KT、全罗南道、西南海岸企业城市开发等。当天，科学技术信息通信部签署了用于确定事业方和事业计划的实施协议，以及关于出资和特殊目的法人（SPC）设立、运营的股东间协议。该部与三星SDS财团计划在今年第二季度内设立民官合资SPC，并在第三季度启动中心建设。项目总费用约为2.5万亿韩元，目标是在2028年前建成配备1.5万枚先进AI半导体的中心。中心建成后，政府计划以具有竞争力的价格提供高性能AI计算资源。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Consorcio de Samsung SDS construirá el Centro Nacional de Computación IA",
+      "excerpt": "El Ministerio de Ciencia y TIC anunció el día 11 que el consorcio de Samsung SDS fue elegido como socio privado del proyecto del Centro Nacional de Computación de IA.",
+      "body": "El Ministerio de Ciencia y TIC de Corea del Sur anunció el día 11 que seleccionó de forma definitiva al consorcio de Samsung SDS como participante privado del proyecto para construir el Centro Nacional de Computación de Inteligencia Artificial, infraestructura clave de la “autopista de IA” impulsada por el gobierno. El consorcio está encabezado por Samsung SDS e incluye a Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, la provincia de Jeollanam-do y Southwest Coast Enterprise City Development. Ese mismo día, el ministerio firmó un acuerdo de implementación para confirmar el operador y el plan de negocio, además de un contrato entre accionistas para la inversión y la creación y operación de una sociedad de propósito especial. Ambas partes planean establecer la SPC público-privada dentro del segundo trimestre de este año e iniciar la construcción del centro en el tercer trimestre. El costo total del proyecto es de unos 2,5 billones de wones, con el objetivo de construir para 2028 un centro con 15.000 semiconductores avanzados de IA. Tras su construcción, se prevé ofrecer recursos de computación de IA de alto rendimiento a tarifas competitivas. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Consórcio Samsung SDS fará Centro Nacional de Computação de IA",
+      "excerpt": "O Ministério da Ciência e TIC informou no dia 11 que o consórcio liderado pela Samsung SDS foi escolhido como parceiro privado do projeto nacional de computação de IA.",
+      "body": "O Ministério da Ciência e TIC da Coreia do Sul informou no dia 11 que escolheu definitivamente o consórcio da Samsung SDS como participante privado do projeto de construção do Centro Nacional de Computação de Inteligência Artificial, uma infraestrutura central da “autoestrada de IA” promovida pelo governo. O consórcio é liderado pela Samsung SDS e conta com Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, a província de Jeollanam-do e a Southwest Coast Enterprise City Development. No mesmo dia, o ministério assinou um acordo de implementação para confirmar o operador e o plano do projeto, além de um acordo entre acionistas para investimento e criação e operação de uma sociedade de propósito específico. O ministério e o consórcio planejam criar a SPC público-privada ainda no segundo trimestre deste ano e iniciar as obras no terceiro trimestre. O custo total do projeto é de cerca de 2,5 trilhões de wones, com meta de construir até 2028 um centro com 15.000 semicondutores avançados de IA. Após a conclusão, o governo pretende oferecer recursos de computação de IA de alto desempenho a preços competitivos. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Samsung-SDS-Konsortium baut nationales KI-Computing-Zentrum",
+      "excerpt": "Das Ministerium für Wissenschaft und IKT teilte am 11. mit, dass das Samsung-SDS-Konsortium als privater Partner für Koreas nationales KI-Computing-Zentrum ausgewählt wurde.",
+      "body": "Das südkoreanische Ministerium für Wissenschaft und IKT gab am 11. bekannt, dass das Samsung-SDS-Konsortium endgültig als privater Teilnehmer am Projekt zum Aufbau des Nationalen Zentrums für Künstliche-Intelligenz-Computing ausgewählt wurde, einer zentralen Infrastruktur der von der Regierung geplanten „KI-Autobahn“. Das Konsortium wird von Samsung SDS geführt; beteiligt sind außerdem Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, die Provinz Jeollanam-do und Southwest Coast Enterprise City Development. Am selben Tag unterzeichnete das Ministerium eine Durchführungsvereinbarung zur Bestätigung des Betreibers und des Geschäftsplans sowie einen Aktionärsvertrag über Investitionen und die Gründung und den Betrieb einer Zweckgesellschaft. Beide Seiten wollen noch im zweiten Quartal dieses Jahres eine öffentlich-private SPC gründen und im dritten Quartal mit dem Bau des Zentrums beginnen. Die Gesamtkosten belaufen sich auf rund 2,5 Billionen Won. Bis 2028 soll ein Zentrum mit 15.000 modernen KI-Halbleitern entstehen. Nach dem Aufbau sollen leistungsstarke KI-Computing-Ressourcen zu wettbewerbsfähigen Preisen bereitgestellt werden. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Le consortium Samsung SDS choisi pour le Centre national de calcul IA",
+      "excerpt": "Le ministère sud-coréen des Sciences et des TIC a annoncé le 11 que le consortium Samsung SDS serait le partenaire privé du Centre national de calcul pour l’IA.",
+      "body": "Le ministère sud-coréen des Sciences et des TIC a annoncé le 11 avoir définitivement retenu le consortium Samsung SDS comme participant privé au projet de Centre national de calcul en intelligence artificielle, infrastructure clé de l’« autoroute de l’IA » portée par le gouvernement. Le consortium est dirigé par Samsung SDS et réunit notamment Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, la province de Jeollanam-do et Southwest Coast Enterprise City Development. Le même jour, le ministère a signé un accord d’exécution pour confirmer l’opérateur et le plan d’affaires, ainsi qu’un pacte d’actionnaires concernant l’investissement et la création et l’exploitation d’une société à but spécifique. Les deux parties prévoient d’établir cette SPC public-privé au cours du deuxième trimestre de cette année et de lancer la construction du centre au troisième trimestre. Le coût total du projet atteint environ 2,5 billions de wons, avec pour objectif de bâtir d’ici 2028 un centre doté de 15.000 semi-conducteurs avancés pour l’IA. Une fois le centre construit, le gouvernement prévoit de fournir des ressources de calcul IA haute performance à des tarifs compétitifs. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "تحالف سامسونغ SDS يفوز ببناء مركز وطني للحوسبة بالذكاء الاصطناعي",
+      "excerpt": "أعلنت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا يوم 11 اختيار تحالف سامسونغ SDS شريكا خاصا لمشروع مركز الحوسبة الوطني للذكاء الاصطناعي.",
+      "body": "أعلنت وزارة العلوم وتكنولوجيا المعلومات والاتصالات في كوريا يوم 11 أنها اختارت نهائيا تحالف سامسونغ SDS كمشارك من القطاع الخاص في مشروع إنشاء المركز الوطني لحوسبة الذكاء الاصطناعي، وهو بنية تحتية رئيسية ضمن مشروع الحكومة المعروف باسم “طريق الذكاء الاصطناعي السريع”. ويضم التحالف، بقيادة سامسونغ SDS، كلا من Naver Cloud وSamsung C&T وKakao وSamsung Electronics وCrush وKT ومقاطعة جولا الجنوبية وشركة تطوير مدينة الساحل الجنوبي الغربي. وفي اليوم نفسه، وقعت الوزارة اتفاق تنفيذ لتأكيد المشغل وخطة المشروع، إلى جانب اتفاق بين المساهمين بشأن الاستثمار وتأسيس وتشغيل شركة ذات غرض خاص. وتخطط الوزارة والتحالف لتأسيس شركة مشتركة بين القطاعين العام والخاص خلال الربع الثاني من هذا العام، وبدء أعمال بناء المركز في الربع الثالث. وتبلغ التكلفة الإجمالية للمشروع نحو 2.5 تريليون وون، بهدف بناء مركز يضم 15 ألف شريحة متقدمة للذكاء الاصطناعي بحلول عام 2028. وبعد اكتمال المركز، تعتزم الوزارة توفير موارد حوسبة عالية الأداء للذكاء الاصطناعي بأسعار تنافسية. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "Samsung SDS कंसोर्टियम राष्ट्रीय AI कंप्यूटिंग सेंटर बनाएगा",
+      "excerpt": "विज्ञान और ICT मंत्रालय ने 11 तारीख को बताया कि Samsung SDS कंसोर्टियम को राष्ट्रीय AI कंप्यूटिंग सेंटर परियोजना के निजी भागीदार के रूप में चुना गया है।",
+      "body": "दक्षिण कोरिया के विज्ञान और ICT मंत्रालय ने 11 तारीख को कहा कि सरकार की “AI हाईवे” पहल की मुख्य अवसंरचना, राष्ट्रीय कृत्रिम बुद्धिमत्ता कंप्यूटिंग सेंटर निर्माण परियोजना के लिए Samsung SDS कंसोर्टियम को अंतिम रूप से निजी भागीदार चुना गया है। इस कंसोर्टियम का नेतृत्व Samsung SDS कर रहा है और इसमें Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Jeollanam-do तथा Southwest Coast Enterprise City Development शामिल हैं। मंत्रालय ने उसी दिन परियोजना संचालक और व्यवसाय योजना की पुष्टि के लिए कार्यान्वयन समझौता किया, साथ ही निवेश और विशेष प्रयोजन कंपनी की स्थापना व संचालन के लिए शेयरधारक समझौता भी किया। मंत्रालय और कंसोर्टियम इस वर्ष की दूसरी तिमाही के भीतर सार्वजनिक-निजी संयुक्त SPC स्थापित करने और तीसरी तिमाही में केंद्र का निर्माण शुरू करने की योजना रखते हैं। परियोजना की कुल लागत लगभग 2.5 ट्रिलियन वोन है, और लक्ष्य 2028 तक 15,000 उन्नत AI सेमीकंडक्टरों वाले केंद्र का निर्माण करना है। केंद्र बनने के बाद उच्च प्रदर्शन वाली AI कंप्यूटिंग संसाधन प्रतिस्पर्धी दरों पर उपलब्ध कराए जाएंगे। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Konsorsium Samsung SDS Bangun Pusat Komputasi AI Nasional",
+      "excerpt": "Kementerian Sains dan TIK Korea pada tanggal 11 menetapkan konsorsium Samsung SDS sebagai mitra swasta untuk proyek Pusat Komputasi AI Nasional.",
+      "body": "Kementerian Sains dan TIK Korea Selatan pada tanggal 11 menyatakan telah menetapkan konsorsium Samsung SDS sebagai peserta swasta dalam proyek pembangunan Pusat Komputasi Kecerdasan Buatan Nasional, infrastruktur inti dari “jalan raya AI” yang didorong pemerintah. Konsorsium ini dipimpin oleh Samsung SDS dan mencakup Naver Cloud, Samsung C&T, Kakao, Samsung Electronics, Crush, KT, Provinsi Jeollanam-do, serta Southwest Coast Enterprise City Development. Pada hari yang sama, kementerian menandatangani perjanjian pelaksanaan untuk menetapkan operator dan rencana bisnis, serta perjanjian antarpemegang saham terkait investasi dan pendirian serta pengoperasian perusahaan bertujuan khusus. Kementerian dan konsorsium berencana membentuk SPC kerja sama publik-swasta dalam kuartal kedua tahun ini dan memulai pembangunan pusat pada kuartal ketiga. Total biaya proyek sekitar 2,5 triliun won, dengan target membangun pusat berskala 15.000 semikonduktor AI canggih pada 2028. Setelah pusat selesai dibangun, pemerintah berencana menyediakan sumber daya komputasi AI berkinerja tinggi dengan tarif kompetitif. Sumber: rss.donga.com"
+    }
+  }
+}
