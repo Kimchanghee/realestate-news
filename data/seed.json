@@ -1,5 +1,230 @@
 [
   {
+    "id": "31d30f0b928c",
+    "slug": "1주택자-공시가-27억-금융소득-年2000만원-넘으면-지원금-제외-212295",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T20:12:05.504Z",
+    "updatedAt": "2026-05-11T20:12:05.504Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133902115/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133902115/2",
+    "titleFingerprint": "6d18e88e841f0640a42ddf30a1497e5c474c23da",
+    "dedupKeys": [
+      "31d30f0b928c97696e572a1b7f8b295b2e53a28d",
+      "6d18e88e841f0640a42ddf30a1497e5c474c23da",
+      "c6ede5e43d331480a0308545441e9109c30a9562"
+    ],
+    "imageUrl": "/images/articles/31d30f0b928c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "소득 하위 70% 지원금, 1주택 공시가 27억·금융소득 2000만원 넘으면 제외",
+        "excerpt": "정부는 18일부터 소득 하위 70% 국민을 대상으로 2차 고유가 피해지원금을 지급하며, 건강보험료 기준을 충족해도 고액자산가는 대상에서 제외한다.",
+        "body": "정부의 2차 고유가 피해지원금 지급이 18일부터 시작된다. 지난달 기초생활수급자, 차상위계층, 한부모가족 등 취약계층을 대상으로 한 1차 지급에 이어 이번에는 소득 하위 70% 국민이 대상이다. 기준은 올해 3월 각 가구가 납부한 합산 건강보험료다. 외벌이 가구 기준으로 1인 가구는 가입 유형에 따라 월 8만~13만 원, 2인 가구는 12만~14만 원, 3인 가구는 19만~26만 원, 4인 가구는 22만~32만 원 이하여야 한다. 주민등록상 같은 세대는 같은 가구로 보며, 세대가 분리돼도 건강보험 피부양자인 배우자나 자녀는 포함된다. 다만 1주택자라도 공시가격 27억 원을 넘거나 금융소득이 연 2000만 원을 넘는 등 고액자산가는 제외된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Relief for Bottom 70%: Home Value Over 2.7 Billion Won or Financial Income Over 20 Million Won Excluded",
+        "excerpt": "From the 18th, the government will begin a second round of high fuel price relief for the bottom 70% by income, excluding high-asset households even if they meet insurance premium criteria.",
+        "body": "The government’s second round of high fuel price relief payments begins on the 18th. After last month’s first payments to vulnerable groups, including basic livelihood security recipients, near-poverty groups and single-parent families, this round targets citizens in the bottom 70% by income. Eligibility is based on the combined health insurance premiums paid by each household as of March this year. For single-earner households, monthly premiums must be no higher than 80,000 to 130,000 won for one-person households, 120,000 to 140,000 won for two-person households, 190,000 to 260,000 won for three-person households and 220,000 to 320,000 won for four-person households, depending on insurance type. People registered in the same resident household are counted together, and spouses or children listed as health insurance dependents are included even if registered separately. However, high-asset households are excluded, including one-home owners with an officially assessed price above 2.7 billion won or annual financial income above 20 million won. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "所得下位70％支援金、1住宅の公示価格27億ウォン超・金融所得2000万ウォン超は除外",
+        "excerpt": "政府は18日から所得下位70％の国民を対象に第2次高油価被害支援金を支給し、健康保険料基準を満たしても高額資産家は対象外とする。",
+        "body": "政府の第2次高油価被害支援金の支給が18日から始まる。先月、基礎生活受給者、次上位階層、ひとり親家庭など脆弱層を対象にした第1次支給に続き、今回は所得下位70％の国民が対象となる。基準は今年3月に各世帯が納付した合算健康保険料だ。片働き世帯の場合、加入形態により1人世帯は月8万～13万ウォン、2人世帯は12万～14万ウォン、3人世帯は19万～26万ウォン、4人世帯は22万～32万ウォン以下でなければならない。住民登録上同じ世帯は同一世帯とみなし、世帯が分離されていても健康保険の被扶養者である配偶者や子どもは含まれる。ただし、1住宅保有者でも公示価格が27億ウォンを超える場合や、金融所得が年2000万ウォンを超える場合など高額資産家は除外される。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "收入后70%补助启动：一套房公示价超27亿韩元或金融收入超2000万韩元将排除",
+        "excerpt": "政府将从18日起向收入后70%的国民发放第二轮高油价损害补助，即使符合医保费标准，高资产者也不纳入发放对象。",
+        "body": "政府第二轮高油价损害补助将从18日开始发放。继上月面向基础生活保障领取者、次上位阶层、单亲家庭等弱势群体发放第一轮补助后，本轮对象为收入后70%的国民。判断标准是今年3月各家庭缴纳的合计健康保险费。以单收入家庭为准，根据职场、地区、混合参保类型不同，1人家庭月保费须在8万至13万韩元以下，2人家庭为12万至14万韩元以下，3人家庭为19万至26万韩元以下，4人家庭为22万至32万韩元以下。居民登记上同一户籍的人视为同一家庭；即使户籍分离，作为健康保险被扶养人的配偶或子女也计入同一家庭。不过，一套房公示价格超过27亿韩元，或金融收入年超2000万韩元等高资产者将被排除。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Ayuda al 70% de menores ingresos: excluyen vivienda tasada sobre 2.700 millones de wones o renta financiera sobre 20 millones",
+        "excerpt": "El Gobierno iniciará el día 18 la segunda ayuda por altos precios del combustible para el 70% de menores ingresos, con exclusión de hogares de alto patrimonio aunque cumplan el criterio sanitario.",
+        "body": "La segunda ronda de ayudas por daños derivados de los altos precios del combustible comenzará el día 18. Tras el primer pago del mes pasado a grupos vulnerables, como beneficiarios de subsistencia básica, hogares de bajos recursos y familias monoparentales, esta vez el objetivo son los ciudadanos del 70% inferior por ingresos. El criterio será la suma de las primas del seguro de salud pagadas por cada hogar en marzo de este año. En hogares con un solo ingreso, según el tipo de afiliación, el límite mensual es de 80.000 a 130.000 wones para una persona, 120.000 a 140.000 para dos, 190.000 a 260.000 para tres y 220.000 a 320.000 para cuatro. Las personas registradas en el mismo domicilio cuentan como un hogar; cónyuges o hijos dependientes del seguro de salud también se incluyen aunque estén registrados aparte. Sin embargo, quedan fuera los hogares de alto patrimonio, incluidos propietarios de una sola vivienda con precio oficial superior a 2.700 millones de wones o ingresos financieros anuales superiores a 20 millones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Auxílio aos 70% de menor renda: imóvel acima de 2,7 bi de wons ou renda financeira acima de 20 mi fica fora",
+        "excerpt": "O governo começa no dia 18 a segunda rodada de auxílio por alta dos combustíveis para os 70% de menor renda, excluindo famílias de alto patrimônio mesmo com seguro elegível.",
+        "body": "A segunda rodada do auxílio por danos causados pela alta dos preços dos combustíveis começa no dia 18. Depois do primeiro pagamento, no mês passado, a grupos vulneráveis como beneficiários de renda básica, camadas de baixa renda e famílias monoparentais, esta etapa mira os cidadãos nos 70% inferiores de renda. O critério é a soma das contribuições ao seguro de saúde pagas por cada família em março deste ano. Para famílias com uma só fonte de renda, conforme o tipo de inscrição, o limite mensal é de 80 mil a 130 mil wons para uma pessoa, 120 mil a 140 mil para duas, 190 mil a 260 mil para três e 220 mil a 320 mil para quatro. Pessoas no mesmo registro residencial contam como uma família; cônjuges ou filhos dependentes do seguro também entram mesmo com registro separado. Porém, famílias de alto patrimônio ficam excluídas, incluindo proprietários de uma única casa com preço oficial acima de 2,7 bilhões de wons ou renda financeira anual acima de 20 milhões. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hilfen für untere 70 Prozent: Hauswert über 2,7 Mrd. Won oder Finanzerträge über 20 Mio. Won ausgeschlossen",
+        "excerpt": "Ab dem 18. zahlt die Regierung eine zweite Entlastung wegen hoher Kraftstoffpreise an die unteren 70 Prozent nach Einkommen; vermögende Haushalte bleiben trotz erfüllter Beitragsgrenzen ausgeschlossen.",
+        "body": "Die zweite Runde der Entlastungszahlungen wegen hoher Kraftstoffpreise beginnt am 18. Nach der ersten Auszahlung im vergangenen Monat an vulnerable Gruppen wie Empfänger der Grundsicherung, einkommensschwache Haushalte und Alleinerziehende richtet sich diese Runde an Bürger in den unteren 70 Prozent der Einkommensverteilung. Maßstab sind die von jedem Haushalt im März dieses Jahres gezahlten Krankenversicherungsbeiträge. Für Haushalte mit einem Einkommen gelten je nach Versicherungsart monatliche Obergrenzen von 80.000 bis 130.000 Won für Einpersonenhaushalte, 120.000 bis 140.000 Won für zwei Personen, 190.000 bis 260.000 Won für drei Personen und 220.000 bis 320.000 Won für vier Personen. Personen im selben Melderegister gelten als ein Haushalt; Ehepartner oder Kinder, die als Mitversicherte geführt werden, zählen auch bei getrennter Meldung dazu. Ausgeschlossen sind jedoch vermögende Haushalte, darunter Eigentümer einer einzigen Wohnung mit amtlichem Wert über 2,7 Milliarden Won oder jährlichen Finanzerträgen über 20 Millionen Won. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Aide aux 70 % les moins aisés : logement au-delà de 2,7 milliards de wons ou revenus financiers de plus de 20 millions exclus",
+        "excerpt": "Le gouvernement lance le 18 la deuxième aide liée aux prix élevés du carburant pour les 70 % les moins aisés, en excluant les ménages fortunés même s’ils respectent les critères d’assurance santé.",
+        "body": "La deuxième vague d’aide liée aux dommages causés par les prix élevés du carburant commence le 18. Après un premier versement le mois dernier aux publics vulnérables, dont les bénéficiaires de l’aide de subsistance, les ménages proches du seuil de pauvreté et les familles monoparentales, cette étape vise les citoyens appartenant aux 70 % inférieurs en revenu. Le critère est le total des cotisations d’assurance maladie payées par chaque ménage en mars de cette année. Pour un ménage à un seul revenu, selon le type d’affiliation, le plafond mensuel est de 80 000 à 130 000 wons pour une personne, 120 000 à 140 000 pour deux, 190 000 à 260 000 pour trois et 220 000 à 320 000 pour quatre. Les personnes inscrites dans le même foyer résidentiel sont comptées ensemble; le conjoint ou les enfants à charge de l’assurance maladie sont inclus même si leur enregistrement est séparé. Toutefois, les ménages à haut patrimoine sont exclus, notamment les propriétaires d’un seul logement dont le prix officiel dépasse 2,7 milliards de wons ou dont les revenus financiers annuels dépassent 20 millions. Source : rss.donga.com"
+      },
+      "ar": {
+        "title": "دعم أصحاب أدنى 70% دخلا: استبعاد مالك منزل تفوق قيمته 2.7 مليار وون أو دخل مالي فوق 20 مليونا",
+        "excerpt": "تبدأ الحكومة في 18 من الشهر صرف الدفعة الثانية من دعم أضرار ارتفاع أسعار الوقود لأصحاب أدنى 70% دخلا، مع استبعاد ذوي الأصول المرتفعة حتى لو استوفوا معيار التأمين الصحي.",
+        "body": "تبدأ الدفعة الثانية من دعم أضرار ارتفاع أسعار الوقود في 18 من الشهر. وبعد الدفعة الأولى الشهر الماضي للفئات الضعيفة، مثل مستحقي إعانة المعيشة الأساسية، والفئات القريبة من الفقر، والأسر ذات العائل الواحد، تستهدف هذه الدفعة المواطنين ضمن أدنى 70% من حيث الدخل. ويعتمد المعيار على مجموع أقساط التأمين الصحي التي دفعها كل household في مارس من هذا العام. وبالنسبة للأسر ذات مصدر دخل واحد، يجب ألا تتجاوز الأقساط الشهرية، حسب نوع الاشتراك، 80 ألفا إلى 130 ألف وون للفرد الواحد، و120 ألفا إلى 140 ألف وون لشخصين، و190 ألفا إلى 260 ألف وون لثلاثة أشخاص، و220 ألفا إلى 320 ألف وون لأربعة أشخاص. ويعد المسجلون في السجل السكني نفسه أسرة واحدة، كما يضم الزوج أو الأبناء المعالين في التأمين الصحي حتى إذا كان تسجيلهم منفصلا. لكن الأسر ذات الأصول المرتفعة مستبعدة، ومنها مالك منزل واحد تتجاوز قيمته الرسمية 2.7 مليار وون أو من يتجاوز دخله المالي السنوي 20 مليون وون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "निचले 70% आय वर्ग को सहायता: 2.7 अरब वॉन से अधिक घर मूल्य या 2 करोड़ वॉन से अधिक वित्तीय आय पर बाहर",
+        "excerpt": "सरकार 18 तारीख से ऊंचे ईंधन मूल्य से नुकसान की दूसरी सहायता निचले 70% आय वर्ग को देगी, लेकिन स्वास्थ्य बीमा मानदंड पूरा करने पर भी उच्च संपत्ति वाले परिवार बाहर रहेंगे।",
+        "body": "ऊंचे ईंधन मूल्यों से हुए नुकसान के लिए सरकार की दूसरी सहायता 18 तारीख से शुरू होगी। पिछले महीने बुनियादी आजीविका लाभार्थियों, निम्न आय वर्ग और एकल अभिभावक परिवारों जैसे कमजोर समूहों को पहली किस्त दी गई थी; इस बार लक्ष्य आय के निचले 70% नागरिक हैं। पात्रता इस वर्ष मार्च में प्रत्येक परिवार द्वारा चुकाए गए संयुक्त स्वास्थ्य बीमा प्रीमियम पर आधारित है। एक कमाने वाले परिवारों में, बीमा प्रकार के अनुसार, मासिक सीमा एक व्यक्ति के लिए 80,000 से 130,000 वॉन, दो व्यक्तियों के लिए 120,000 से 140,000 वॉन, तीन के लिए 190,000 से 260,000 वॉन और चार के लिए 220,000 से 320,000 वॉन है। निवासी पंजीकरण में एक ही परिवार के लोग एक household माने जाएंगे; अलग पंजीकरण होने पर भी स्वास्थ्य बीमा पर आश्रित जीवनसाथी या बच्चे शामिल होंगे। हालांकि उच्च संपत्ति वाले परिवार बाहर होंगे, जिनमें एक घर के मालिक भी शामिल हैं यदि उसका आधिकारिक मूल्य 2.7 अरब वॉन से अधिक है या वार्षिक वित्तीय आय 2 करोड़ वॉन से अधिक है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Bantuan untuk 70% Berpendapatan Terendah: Rumah di Atas 2,7 Miliar Won atau Pendapatan Finansial di Atas 20 Juta Won Dikecualikan",
+        "excerpt": "Pemerintah mulai 18 nanti menyalurkan bantuan tahap kedua akibat harga BBM tinggi untuk 70% warga berpendapatan terendah, dengan pengecualian bagi rumah tangga beraset besar.",
+        "body": "Pembayaran tahap kedua bantuan akibat tingginya harga BBM dimulai pada 18. Setelah pembayaran pertama bulan lalu kepada kelompok rentan, termasuk penerima bantuan hidup dasar, kelompok berpendapatan rendah, dan keluarga orang tua tunggal, tahap ini menyasar warga dalam 70% terbawah berdasarkan pendapatan. Kriterianya adalah total iuran asuransi kesehatan yang dibayar setiap rumah tangga pada Maret tahun ini. Untuk rumah tangga dengan satu pencari nafkah, tergantung jenis kepesertaan, batas iuran bulanan adalah 80.000 hingga 130.000 won untuk satu orang, 120.000 hingga 140.000 won untuk dua orang, 190.000 hingga 260.000 won untuk tiga orang, dan 220.000 hingga 320.000 won untuk empat orang. Orang yang terdaftar dalam satu kartu keluarga dianggap satu rumah tangga; pasangan atau anak yang menjadi tanggungan asuransi kesehatan tetap dihitung meski terdaftar terpisah. Namun rumah tangga beraset besar dikecualikan, termasuk pemilik satu rumah dengan harga resmi di atas 2,7 miliar won atau pendapatan finansial tahunan di atas 20 juta won. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "8f57bcc214c9",
+    "slug": "4인가구-건보료-32만원-이하에-2차-고유가-지원금-196151",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T20:10:41.088Z",
+    "updatedAt": "2026-05-11T20:10:41.088Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133902394/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133902394/2",
+    "titleFingerprint": "2646bb3098e689719b98a1325d44d048e1dea7fa",
+    "dedupKeys": [
+      "8f57bcc214c95dba36bf77ffd057a8fb283f879b",
+      "2646bb3098e689719b98a1325d44d048e1dea7fa",
+      "5d5cc594b73640792e28bfb4a460ecd429a8c85b"
+    ],
+    "imageUrl": "/images/articles/8f57bcc214c9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "고유가 피해지원금 2차 지급 18일 시작, 4인가구 건보료 32만원 이하 대상",
+        "excerpt": "정부가 18일부터 소득 하위 70% 국민에게 1인당 10만~25만원의 2차 고유가 피해지원금을 지급하며, 4인가구 기준은 건보료 32만원 이하다.",
+        "body": "정부는 18일부터 소득 하위 70% 국민을 대상으로 1인당 10만~25만원의 ‘고유가 피해지원금’ 2차 지급을 시작한다. 11일 정부에 따르면 직장가입자 외벌이 가구 기준 올해 3월 납부 건강보험료가 1인가구 13만원, 2인가구 14만원, 3인가구 26만원, 4인가구 32만원 이하면 지원 대상에 포함된다. 김문식 보건복지부 복지행정지원관은 연소득 기준으로 1인가구 약 4340만원, 2인가구 4674만원, 3인가구 8679만원, 4인가구 1억682만원 수준이라고 설명했다. 다만 지난해 재산세 과세표준 합계액이 12억원을 넘거나 2024년 금융소득이 2000만원을 초과하는 고액 자산가는 제외된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Second Fuel Cost Relief Starts on 18th: Four-Person Households Qualify Below 320,000 Won in Health Premiums",
+        "excerpt": "From the 18th, the government will begin a second fuel cost relief payment of 100,000 to 250,000 won per person for the lower 70% income group.",
+        "body": "The government will begin the second round of “fuel cost damage relief” payments on the 18th for citizens in the lower 70% income bracket, providing 100,000 to 250,000 won per person. According to the government on the 11th, for single-income employee-insured households, eligibility is based on health insurance premiums paid in March this year: up to 130,000 won for one person, 140,000 won for two, 260,000 won for three, and 320,000 won for four. Kim Moon-sik of the Ministry of Health and Welfare said this corresponds roughly to annual incomes of 43.4 million, 46.74 million, 86.79 million, and 106.82 million won. High-asset households are excluded if last year’s property tax base exceeded 1.2 billion won or 2024 financial income exceeded 20 million won. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "高油価被害支援金の2次支給が18日開始、4人世帯は健保料32万ウォン以下",
+        "excerpt": "政府は18日から所得下位70%を対象に、1人当たり10万~25万ウォンの高油価被害支援金を2次支給する。",
+        "body": "政府は18日から、所得下位70%の国民を対象に1人当たり10万~25万ウォンの「高油価被害支援金」2次支給を始める。11日の政府発表によると、会社員加入者の片働き世帯の場合、今年3月に納付した健康保険料が1人世帯13万ウォン、2人世帯14万ウォン、3人世帯26万ウォン、4人世帯32万ウォン以下なら対象となる。保健福祉部のキム・ムンシク福祉行政支援官は、年収基準でそれぞれ約4340万、4674万、8679万、1億682万ウォン程度と説明した。ただし、昨年の財産税課税標準合計が12億ウォンを超える場合や、2024年の金融所得が2000万ウォンを超える高額資産家は除外される。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "第二轮高油价补助18日启动，四口之家医保费32万韩元以下可申领",
+        "excerpt": "韩国政府将从18日起向收入后70%民众发放第二轮高油价受损补助，每人10万至25万韩元。",
+        "body": "韩国政府将从18日起，面向收入后70%的国民启动第二轮“高油价受损补助”发放，每人可获10万至25万韩元。政府11日表示，以职工医保单收入家庭为准，今年3月缴纳的健康保险费若为一人家庭13万韩元以下、两人家庭14万韩元以下、三人家庭26万韩元以下、四人家庭32万韩元以下，即可纳入对象。保健福祉部福利行政支援官金文植说明，按年收入计算，分别约为4340万、4674万、8679万和1亿682万韩元。但即便符合医保费标准，去年财产税课税标准合计超过12亿韩元，或2024年金融所得超过2000万韩元的高资产者将被排除。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Segunda ayuda por altos precios del combustible empieza el día 18: hogares de cuatro hasta 320.000 wones",
+        "excerpt": "El Gobierno iniciará el día 18 el segundo pago de ayuda por altos precios del combustible para el 70% de menores ingresos, con 100.000 a 250.000 wones por persona.",
+        "body": "El Gobierno comenzará el día 18 el segundo pago de la “ayuda por daños de altos precios del combustible” para ciudadanos dentro del 70% de menores ingresos, con 100.000 a 250.000 wones por persona. Según informó el Gobierno el día 11, para hogares con un solo ingreso y afiliación laboral al seguro de salud, el criterio será la prima pagada en marzo: hasta 130.000 wones para una persona, 140.000 para dos, 260.000 para tres y 320.000 para cuatro. Kim Moon-sik, del Ministerio de Salud y Bienestar, explicó que equivale aproximadamente a ingresos anuales de 43,4 millones, 46,74 millones, 86,79 millones y 106,82 millones de wones. Quedan excluidos los hogares de alto patrimonio si la base imponible del impuesto a la propiedad del año pasado superó 1.200 millones de wones o si los ingresos financieros de 2024 excedieron 20 millones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Segunda ajuda por alta dos combustíveis começa dia 18; família de quatro até 320 mil won em seguro saúde",
+        "excerpt": "O governo iniciará no dia 18 a segunda rodada da ajuda por alta dos combustíveis para os 70% de menor renda, com 100 mil a 250 mil won por pessoa.",
+        "body": "O governo começará no dia 18 a segunda rodada do “auxílio por danos da alta dos combustíveis” para cidadãos no grupo dos 70% de menor renda, pagando de 100 mil a 250 mil won por pessoa. Segundo o governo informou no dia 11, para famílias de renda única com seguro saúde de empregado, a elegibilidade considera o prêmio pago em março deste ano: até 130 mil won para uma pessoa, 140 mil para duas, 260 mil para três e 320 mil para quatro. Kim Moon-sik, do Ministério da Saúde e Bem-Estar, explicou que isso corresponde a rendas anuais aproximadas de 43,4 milhões, 46,74 milhões, 86,79 milhões e 106,82 milhões de won. Porém, ficam excluídos os grandes detentores de patrimônio cuja base tributável do imposto predial do ano passado excedeu 1,2 bilhão de won ou cuja renda financeira em 2024 passou de 20 milhões. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Zweite Entlastung wegen hoher Kraftstoffpreise startet am 18.: Vierpersonenhaushalte bis 320.000 Won Krankenkassenbeitrag",
+        "excerpt": "Die Regierung startet am 18. die zweite Zahlung der Entlastung wegen hoher Kraftstoffpreise für die unteren 70% der Einkommen: 100.000 bis 250.000 Won pro Person.",
+        "body": "Die Regierung beginnt am 18. mit der zweiten Auszahlung der „Entlastung für Schäden durch hohe Kraftstoffpreise“ an Bürger in den unteren 70% der Einkommensverteilung; pro Person werden 100.000 bis 250.000 Won gezahlt. Nach Regierungsangaben vom 11. gilt für Einverdienerhaushalte mit arbeitnehmerbasierter Krankenversicherung der im März dieses Jahres gezahlte Beitrag: bis 130.000 Won bei einer Person, 140.000 Won bei zwei, 260.000 Won bei drei und 320.000 Won bei vier Personen. Kim Moon-sik vom Ministerium für Gesundheit und Wohlfahrt erklärte, dies entspreche etwa Jahreseinkommen von 43,4 Millionen, 46,74 Millionen, 86,79 Millionen und 106,82 Millionen Won. Ausgeschlossen sind Vermögende, wenn die Bemessungsgrundlage der Grundsteuer im Vorjahr über 1,2 Milliarden Won lag oder die Finanzerträge 2024 mehr als 20 Millionen Won betrugen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Deuxième aide liée aux prix élevés du carburant dès le 18: foyer de quatre sous 320.000 wons de cotisation santé",
+        "excerpt": "Le gouvernement lancera le 18 le deuxième versement de l’aide liée aux prix élevés du carburant pour les 70% de revenus les plus faibles, soit 100.000 à 250.000 wons par personne.",
+        "body": "Le gouvernement commencera le 18 le deuxième versement de l’« aide aux dommages liés aux prix élevés du carburant » pour les citoyens appartenant aux 70% de revenus les plus faibles, avec 100.000 à 250.000 wons par personne. Selon le gouvernement le 11, pour les foyers salariés à un seul revenu, l’éligibilité dépend de la cotisation d’assurance maladie payée en mars: jusqu’à 130.000 wons pour une personne, 140.000 pour deux, 260.000 pour trois et 320.000 pour quatre. Kim Moon-sik, du ministère de la Santé et du Bien-être, a indiqué que cela correspond à des revenus annuels d’environ 43,4 millions, 46,74 millions, 86,79 millions et 106,82 millions de wons. Les ménages à fort patrimoine sont exclus si l’assiette de taxe foncière de l’an dernier a dépassé 1,2 milliard de wons ou si les revenus financiers de 2024 ont excédé 20 millions. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الدفعة الثانية من دعم أضرار ارتفاع الوقود تبدأ في 18: أسرة من أربعة مؤهلة حتى 320 ألف وون تأمين صحي",
+        "excerpt": "تبدأ الحكومة في 18 صرف الدفعة الثانية من دعم أضرار ارتفاع أسعار الوقود لأدنى 70% دخلا، بقيمة 100 ألف إلى 250 ألف وون للفرد.",
+        "body": "تبدأ الحكومة في 18 صرف الدفعة الثانية من «دعم أضرار ارتفاع أسعار الوقود» للمواطنين ضمن أدنى 70% من حيث الدخل، بقيمة 100 ألف إلى 250 ألف وون للفرد. ووفقا للحكومة في 11، فإن معيار الأسر ذات الدخل الواحد والمشتركة في تأمين الموظفين الصحي يعتمد على قسط التأمين الصحي المدفوع في مارس هذا العام: حتى 130 ألف وون لأسرة من فرد واحد، و140 ألفا لفردين، و260 ألفا لثلاثة أفراد، و320 ألفا لأربعة أفراد. وأوضح كيم مون-سيك من وزارة الصحة والرعاية أن ذلك يعادل تقريبا دخلا سنويا قدره 43.4 مليون وون، و46.74 مليون، و86.79 مليون، و106.82 مليون وون على التوالي. ومع ذلك، يستبعد أصحاب الأصول الكبيرة إذا تجاوز مجموع أساس ضريبة الممتلكات للعام الماضي 1.2 مليار وون أو تجاوز الدخل المالي لعام 2024 مبلغ 20 مليون وون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ईंधन महंगाई राहत की दूसरी किस्त 18 से, चार सदस्यीय परिवार के लिए स्वास्थ्य बीमा प्रीमियम सीमा 3.2 लाख वॉन",
+        "excerpt": "सरकार 18 तारीख से निचले 70% आय वर्ग को ईंधन महंगाई राहत की दूसरी किस्त देगी, जिसमें प्रति व्यक्ति 1 लाख से 2.5 लाख वॉन मिलेंगे।",
+        "body": "सरकार 18 तारीख से निचले 70% आय वर्ग के नागरिकों के लिए “ईंधन महंगाई क्षति राहत” की दूसरी किस्त शुरू करेगी, जिसमें प्रति व्यक्ति 1 लाख से 2.5 लाख वॉन दिए जाएंगे। सरकार ने 11 तारीख को बताया कि कर्मचारी स्वास्थ्य बीमा वाले एकल-आय परिवारों के लिए पात्रता इस वर्ष मार्च में चुकाए गए स्वास्थ्य बीमा प्रीमियम पर आधारित होगी: एक सदस्य के लिए 1.3 लाख वॉन, दो सदस्यों के लिए 1.4 लाख वॉन, तीन के लिए 2.6 लाख वॉन और चार के लिए 3.2 लाख वॉन या उससे कम। स्वास्थ्य एवं कल्याण मंत्रालय के किम मून-सिक ने कहा कि यह वार्षिक आय के आधार पर क्रमशः लगभग 4.34 करोड़, 4.674 करोड़, 8.679 करोड़ और 10.682 करोड़ वॉन के बराबर है। हालांकि, जिनकी पिछले वर्ष संपत्ति कर आकलन राशि 1.2 अरब वॉन से अधिक थी या 2024 में वित्तीय आय 2 करोड़ वॉन से अधिक थी, वे बाहर रहेंगे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Bantuan BBM Mahal Tahap Kedua Mulai 18, Keluarga Empat Orang Lolos Jika Premi Kesehatan di Bawah 320 Ribu Won",
+        "excerpt": "Pemerintah mulai 18 menyalurkan bantuan tahap kedua akibat harga BBM tinggi untuk 70% penduduk berpendapatan bawah, senilai 100 ribu hingga 250 ribu won per orang.",
+        "body": "Pemerintah akan memulai penyaluran tahap kedua “bantuan kerugian akibat harga BBM tinggi” pada tanggal 18 bagi warga dalam kelompok 70% pendapatan terbawah, dengan nilai 100 ribu hingga 250 ribu won per orang. Menurut pemerintah pada tanggal 11, untuk rumah tangga satu pencari nafkah yang terdaftar sebagai pekerja dalam asuransi kesehatan, kelayakan ditentukan dari premi yang dibayar pada Maret tahun ini: hingga 130 ribu won untuk satu orang, 140 ribu untuk dua orang, 260 ribu untuk tiga orang, dan 320 ribu untuk empat orang. Kim Moon-sik dari Kementerian Kesehatan dan Kesejahteraan menjelaskan angka itu setara kira-kira dengan pendapatan tahunan 43,4 juta, 46,74 juta, 86,79 juta, dan 106,82 juta won. Namun, pemilik aset besar dikecualikan jika dasar pajak properti tahun lalu melebihi 1,2 miliar won atau pendapatan finansial 2024 melebihi 20 juta won. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "588ced5342f8",
+    "slug": "8000피-보인다-200p도-안남아-378310",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-11T20:09:22.167Z",
+    "updatedAt": "2026-05-11T20:09:22.167Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902392/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902392/2",
+    "titleFingerprint": "f7ec0c71a7b540cca9ea3b710211c52d514bb807",
+    "dedupKeys": [
+      "588ced5342f88eb707fc2ae239351e05b99aba53",
+      "f7ec0c71a7b540cca9ea3b710211c52d514bb807",
+      "cea9ec22c672ced3624d6f329f1bb1578e55194b"
+    ],
+    "imageUrl": "/images/articles/588ced5342f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,822.24 마감, 반도체 랠리에 8,000선까지 200P도 안 남았다",
+        "excerpt": "반도체 랠리가 이어진 11일 코스피가 전 거래일보다 324.24포인트 오른 7,822.24에 마감하며 8,000선까지 2%가량만 남겨뒀다.",
+        "body": "반도체주 강세가 이어지며 11일 코스피가 전 거래일 대비 324.24포인트(4.32%) 오른 7,822.24로 거래를 마쳤다. 코스피가 7,000선에 오른 지 3거래일 만에 7,800선을 돌파한 것으로, 2%가량만 더 오르면 8,000선도 넘어선다. 이날 종가는 5거래일 연속 사상 최고치 경신이다. 이달 들어 5거래일간 상승 폭은 1,223.37포인트에 달했다. 장중 지수가 5% 이상 오르자 한국거래소는 오전 9시 29분경 매수 사이드카를 발동했다. 올해 들어 8번째로, 2008년 이후 가장 많다. 수급은 개인투자자가 주도했다. 외국인이 3조4,790억 원을 순매도한 반면 개인은 2조8,650억 원을 순매수했다. 개인은 7일부터 3거래일간 12조8,280억 원을 사들였다. 삼성전자는 6.33% 올라 장중 ‘29만 전자’에 올랐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "KOSPI Closes at 7,822.24 as Chip Rally Leaves Less Than 200 Points to 8,000",
+        "excerpt": "On May 11, a continuing semiconductor rally lifted the KOSPI by 324.24 points to 7,822.24, leaving the index about 2% away from the 8,000 mark.",
+        "body": "South Korea’s KOSPI closed on May 11 at 7,822.24, up 324.24 points, or 4.32%, from the previous session, as semiconductor stocks continued to rally. The index broke above 7,800 just three trading days after reaching 7,000, and would pass 8,000 with an additional gain of about 2%. The close marked a record high for the fifth consecutive session. Over the first five trading days of the month, the KOSPI has risen 1,223.37 points. As the index climbed more than 5% intraday, the Korea Exchange triggered a buy-side sidecar around 9:29 a.m., the eighth such activation this year and the most since 2008. Individual investors led the advance. Foreign investors net sold 3.479 trillion won, while individuals net bought 2.865 trillion won. From May 7, individuals purchased a net 12.828 trillion won over three sessions. Samsung Electronics rose 6.33% and touched the “290,000 won” level intraday. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "KOSPIが7,822.24で終了、半導体ラリーで8,000まで200P未満に迫る",
+        "excerpt": "半導体株の上昇が続いた11日、KOSPIは前営業日比324.24ポイント高の7,822.24で終了し、8,000台まで約2％を残した。",
+        "body": "半導体株の強さが続き、11日のKOSPIは前営業日比324.24ポイント（4.32％）高の7,822.24で取引を終えた。7,000台に乗せてから3営業日で7,800台を突破し、さらに約2％上昇すれば8,000台も超える水準だ。この日の終値は5営業日連続で過去最高を更新した。今月に入ってから5営業日の上昇幅は1,223.37ポイントに達した。取引時間中に指数が5％以上上昇したため、韓国取引所は午前9時29分ごろ買いサイドカーを発動した。今年だけで8回目で、2008年以降最多となる。上昇を主導したのは個人投資家だった。外国人が3兆4,790億ウォンを売り越す一方、個人は2兆8,650億ウォンを買い越した。個人は7日から3営業日で12兆8,280億ウォンを買い越した。サムスン電子は6.33％上昇し、取引時間中に「29万電子」に達した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "KOSPI收于7,822.24点，半导体行情推动距8,000点不足200点",
+        "excerpt": "在半导体板块持续上涨的11日，KOSPI较前一交易日上涨324.24点，收于7,822.24点，距离8,000点仅约2%。",
+        "body": "受半导体股强势延续推动，11日KOSPI较前一交易日上涨324.24点，涨幅4.32%，收于7,822.24点。该指数在升至7,000点后仅3个交易日便突破7,800点，若再上涨约2%，将越过8,000点。当天收盘价连续第5个交易日刷新历史高位。本月以来的5个交易日内，KOSPI累计上涨1,223.37点。盘中指数涨幅超过5%后，韩国交易所于上午9时29分左右启动买入侧车机制，暂停程序化交易报价效力。这是今年第8次启动，为2008年以来最多。个人投资者主导了指数上涨。外资净卖出3.479万亿韩元，而个人净买入2.865万亿韩元。自7日起的3个交易日内，个人累计净买入12.828万亿韩元。三星电子上涨6.33%，盘中触及“29万电子”。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El KOSPI cierra en 7.822,24 y queda a menos de 200 puntos de 8.000 por los chips",
+        "excerpt": "El 11 de mayo, el repunte de semiconductores elevó el KOSPI 324,24 puntos hasta 7.822,24, dejándolo a cerca de un 2% de superar los 8.000.",
+        "body": "El KOSPI cerró el 11 de mayo en 7.822,24 puntos, con un avance de 324,24 puntos, o 4,32%, frente a la sesión anterior, impulsado por la continuidad del rally de semiconductores. El índice superó los 7.800 apenas tres jornadas después de alcanzar los 7.000, por lo que con otra subida de alrededor del 2% rebasaría los 8.000. El cierre marcó un máximo histórico por quinta sesión consecutiva. En los primeros cinco días bursátiles del mes, el KOSPI acumuló un alza de 1.223,37 puntos. Al subir más de 5% durante la sesión, la Bolsa de Corea activó hacia las 9:29 a. m. un sidecar de compras, la octava vez en el año y la mayor cantidad desde 2008. Los inversores particulares lideraron el avance. Los extranjeros vendieron neto 3,479 billones de wones, mientras los particulares compraron neto 2,865 billones. Desde el día 7, los particulares adquirieron neto 12,828 billones de wones en tres sesiones. Samsung Electronics subió 6,33% y tocó intradía el nivel de “290.000 wones”. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "KOSPI fecha em 7.822,24 com alta dos chips e fica a menos de 200 pontos dos 8.000",
+        "excerpt": "Em 11 de maio, a continuidade do rali de semicondutores levou o KOSPI a subir 324,24 pontos, para 7.822,24, ficando cerca de 2% abaixo dos 8.000.",
+        "body": "O KOSPI fechou em 11 de maio a 7.822,24 pontos, alta de 324,24 pontos, ou 4,32%, ante o pregão anterior, com a continuidade do rali de semicondutores. O índice superou os 7.800 apenas três pregões depois de alcançar os 7.000, e passaria dos 8.000 com uma nova alta de cerca de 2%. O fechamento renovou a máxima histórica pelo quinto pregão consecutivo. Nos cinco primeiros pregões do mês, o KOSPI acumulou ganho de 1.223,37 pontos. Como o índice subiu mais de 5% durante o dia, a Bolsa da Coreia acionou por volta das 9h29 um sidecar de compras, suspendendo temporariamente cotações de negociação programada. Foi a oitava ativação no ano, o maior número desde 2008. Investidores individuais lideraram a alta. Estrangeiros venderam 3,479 trilhões de wones líquidos, enquanto pessoas físicas compraram 2,865 trilhões. Desde o dia 7, os individuais compraram 12,828 trilhões de wones líquidos em três pregões. A Samsung Electronics avançou 6,33% e tocou intradiariamente o nível de “290 mil wones”. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "KOSPI schließt bei 7.822,24, Chip-Rally bringt 8.000er-Marke in Reichweite",
+        "excerpt": "Am 11. Mai stieg der KOSPI dank der anhaltenden Halbleiter-Rally um 324,24 Punkte auf 7.822,24 und liegt nur noch rund 2% unter 8.000.",
+        "body": "Der KOSPI schloss am 11. Mai bei 7.822,24 Punkten, ein Plus von 324,24 Punkten oder 4,32% gegenüber dem vorherigen Handelstag. Treiber war die anhaltende Rally bei Halbleiterwerten. Der Index überschritt nur drei Handelstage nach dem Sprung über 7.000 die Marke von 7.800; mit einem weiteren Anstieg von rund 2% würde er auch 8.000 übertreffen. Der Schlussstand markierte den fünften Rekordschluss in Folge. In den ersten fünf Handelstagen dieses Monats legte der KOSPI um 1.223,37 Punkte zu. Da der Index im Tagesverlauf um mehr als 5% stieg, löste die Korea Exchange gegen 9:29 Uhr einen Kauf-Sidecar aus, der Programmhandelsquotierungen vorübergehend stoppte. Es war die achte Aktivierung in diesem Jahr und die höchste Zahl seit 2008. Privatanleger führten die Aufwärtsbewegung an. Ausländer verkauften netto 3,479 Billionen Won, während Privatanleger netto 2,865 Billionen Won kauften. Seit dem 7. Mai kauften sie über drei Sitzungen netto 12,828 Billionen Won. Samsung Electronics stieg um 6,33% und erreichte intraday die Marke von „290.000 Won“. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le KOSPI clôture à 7 822,24, porté par les semi-conducteurs, tout près des 8 000",
+        "excerpt": "Le 11 mai, la poursuite du rally des semi-conducteurs a fait grimper le KOSPI de 324,24 points à 7 822,24, à environ 2% du seuil des 8 000.",
+        "body": "Le KOSPI a clôturé le 11 mai à 7 822,24 points, en hausse de 324,24 points, soit 4,32%, par rapport à la séance précédente, soutenu par la poursuite du rally des valeurs de semi-conducteurs. L’indice a franchi 7 800 seulement trois séances après avoir atteint 7 000; une progression supplémentaire d’environ 2% le ferait dépasser 8 000. La clôture a inscrit un record historique pour la cinquième séance consécutive. Sur les cinq premières séances du mois, le KOSPI a gagné 1 223,37 points. Comme l’indice a avancé de plus de 5% en séance, Korea Exchange a déclenché vers 9 h 29 un sidecar à l’achat, suspendant temporairement l’effet des cotations de trading programmé. C’est la huitième activation cette année, le plus haut niveau depuis 2008. Les particuliers ont mené la hausse. Les investisseurs étrangers ont vendu net 3 479 milliards de wons, tandis que les particuliers ont acheté net 2 865 milliards. Depuis le 7 mai, ces derniers ont acheté net 12 828 milliards de wons en trois séances. Samsung Electronics a gagné 6,33% et touché en séance le niveau de « 290 000 wons ». Source : rss.donga.com"
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند 7,822.24 مع صعود الرقائق ويقترب بأقل من 200 نقطة من 8,000",
+        "excerpt": "في 11 مايو، دفع استمرار صعود أسهم أشباه الموصلات مؤشر كوسبي للارتفاع 324.24 نقطة إلى 7,822.24، ليصبح على بعد نحو 2% من مستوى 8,000.",
+        "body": "أغلق مؤشر كوسبي في 11 مايو عند 7,822.24 نقطة، مرتفعا 324.24 نقطة، أو 4.32%، عن الجلسة السابقة، مع استمرار موجة الصعود في أسهم أشباه الموصلات. وتجاوز المؤشر مستوى 7,800 بعد ثلاثة أيام تداول فقط من بلوغه 7,000، وسيعبر مستوى 8,000 إذا ارتفع بنحو 2% إضافية. وسجل الإغلاق أعلى مستوى تاريخي للجلسة الخامسة على التوالي. وخلال أول خمسة أيام تداول من الشهر، بلغ صعود كوسبي 1,223.37 نقطة. وبعدما ارتفع المؤشر بأكثر من 5% خلال الجلسة، فعّلت بورصة كوريا نحو الساعة 9:29 صباحا آلية سايدكار الشراء، التي توقف مؤقتا أثر عروض التداول البرنامجي. وهذه هي المرة الثامنة هذا العام، وهو أكبر عدد منذ 2008. وقاد المستثمرون الأفراد الصعود؛ إذ باع الأجانب صافيا بقيمة 3.479 تريليون وون، بينما اشترى الأفراد صافيا بقيمة 2.865 تريليون وون. ومنذ 7 مايو، اشترى الأفراد صافيا 12.828 تريليون وون خلال ثلاث جلسات. وارتفع سهم سامسونغ إلكترونيكس 6.33% ولامس خلال التداول مستوى “290 ألف وون”. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "KOSPI 7,822.24 पर बंद, सेमीकंडक्टर रैली से 8,000 तक 200 अंक से कम दूरी",
+        "excerpt": "11 मई को सेमीकंडक्टर शेयरों की तेजी जारी रहने से KOSPI 324.24 अंक बढ़कर 7,822.24 पर बंद हुआ और 8,000 स्तर से करीब 2% दूर रह गया।",
+        "body": "सेमीकंडक्टर शेयरों की मजबूती जारी रहने के बीच 11 मई को KOSPI पिछले सत्र से 324.24 अंक, यानी 4.32%, बढ़कर 7,822.24 पर बंद हुआ। 7,000 स्तर छूने के सिर्फ तीन कारोबारी दिनों बाद सूचकांक 7,800 के ऊपर गया और करीब 2% और चढ़ने पर 8,000 को पार कर जाएगा। यह लगातार पांचवें कारोबारी दिन रिकॉर्ड बंद था। इस महीने के पहले पांच कारोबारी दिनों में KOSPI 1,223.37 अंक चढ़ा। सत्र के दौरान सूचकांक 5% से अधिक उछलने पर कोरिया एक्सचेंज ने सुबह करीब 9:29 बजे खरीद पक्ष का साइडकार सक्रिय किया, जिससे प्रोग्राम ट्रेडिंग कोटेशन का प्रभाव अस्थायी रूप से रुका। इस साल यह आठवीं बार है, जो 2008 के बाद सबसे अधिक है। तेजी की अगुवाई व्यक्तिगत निवेशकों ने की। विदेशी निवेशकों ने 3.479 ट्रिलियन वोन की शुद्ध बिकवाली की, जबकि व्यक्तियों ने 2.865 ट्रिलियन वोन की शुद्ध खरीद की। 7 मई से तीन सत्रों में व्यक्तियों ने 12.828 ट्रिलियन वोन की शुद्ध खरीदारी की। Samsung Electronics 6.33% चढ़ा और इंट्राडे में “290,000 वोन” स्तर पर पहुंचा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "KOSPI Ditutup 7.822,24, Reli Semikonduktor Sisakan Kurang dari 200 Poin ke 8.000",
+        "excerpt": "Pada 11 Mei, reli saham semikonduktor mengangkat KOSPI 324,24 poin ke 7.822,24, membuat indeks hanya sekitar 2% dari level 8.000.",
+        "body": "KOSPI ditutup pada 11 Mei di 7.822,24, naik 324,24 poin atau 4,32% dari sesi sebelumnya, seiring berlanjutnya reli saham semikonduktor. Indeks menembus 7.800 hanya tiga hari bursa setelah mencapai 7.000, dan akan melewati 8.000 jika naik sekitar 2% lagi. Penutupan tersebut menjadi rekor tertinggi untuk sesi kelima berturut-turut. Dalam lima hari bursa pertama bulan ini, KOSPI sudah naik 1.223,37 poin. Ketika indeks naik lebih dari 5% secara intraday, Korea Exchange mengaktifkan buy sidecar sekitar pukul 09.29, yang menghentikan sementara efektivitas kuotasi perdagangan program. Ini adalah aktivasi kedelapan tahun ini, terbanyak sejak 2008. Investor individu memimpin kenaikan. Investor asing mencatat jual bersih 3,479 triliun won, sedangkan individu beli bersih 2,865 triliun won. Sejak 7 Mei, individu membeli bersih 12,828 triliun won dalam tiga sesi. Samsung Electronics naik 6,33% dan menyentuh level “290.000 won” intraday. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "b9fcd7a74266",
     "slug": "현대차-n-모델-탄-듯-레이싱-시뮬레이터-출시-147127",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kios Supermarket di Kompleks Besar Dongtan Masuk 6 Listing Hankyung",
         "excerpt": "Rubrik properti Hankyung memperkenalkan enam listing, termasuk kios supermarket di kompleks hunian besar Dongtan New Town. Detail perlu dicek di sumber asli.",
         "body": "Rubrik listing properti Hankyung, “Hankyung Maemul Madang”, memperkenalkan enam properti, termasuk kios komersial supermarket di kompleks hunian besar Dongtan New Town. Berdasarkan informasi asli yang diberikan, listing utama adalah ruang komersial supermarket di Dongtan New Town yang terkait dengan potensi permintaan dari kompleks hunian besar, bersama lima listing lainnya. Namun, ringkasan maupun angka rinci seperti harga, luas, syarat sewa, atau imbal hasil tidak disediakan. Investor dan pengguna akhir perlu memeriksa artikel asli untuk memastikan lokasi dan ketentuan kontrak tiap properti. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2b633ed01968",
-    "slug": "nh투자-yg엔터-1분기-실적-컨센서스-부합하반기-모멘텀-주목-891509",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:44:59.753Z",
-    "updatedAt": "2026-05-10T23:44:59.753Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019300008",
-    "titleFingerprint": "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
-    "dedupKeys": [
-      "2b633ed01968da72f41c24a7926219aec11272e2",
-      "6e5a3ab80ccd5aca7b696d975a8dc483db1530dd",
-      "e8bd7540c941b8117aa084e9766dca0d16b4bb94"
-    ],
-    "imageUrl": "/images/articles/2b633ed01968.jpg",
-    "i18n": {
-      "ko": {
-        "title": "YG엔터 1분기 실적 컨센서스 부합, NH투자 하반기 모멘텀 주목",
-        "excerpt": "NH투자증권은 11일 와이지엔터테인먼트의 1분기 실적이 시장 평균 전망치인 컨센서스에 부합했다며, 향후 하반기 모멘텀에 주목해야 한다고 평가했다.",
-        "body": "NH투자증권은 11일 와이지엔터테인먼트에 대해 1분기 실적이 컨센서스, 즉 시장 평균 전망치에 부합했다고 밝혔다. 이번 평가는 와이지엔터테인먼트의 분기 실적이 시장의 예상 범위에서 벗어나지 않았다는 점에 초점을 맞춘 것이다. NH투자증권은 실적 자체가 컨센서스에 맞았다는 점과 함께 향후 투자 판단에서 하반기 모멘텀을 살펴볼 필요가 있다고 언급했다. 이에 따라 시장의 관심은 1분기 실적 확인 이후 와이지엔터테인먼트가 하반기에 어떤 동력을 보여줄지로 이동할 것으로 보인다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "YG Entertainment Q1 Results Meet Consensus as NH Investment Eyes H2 Momentum",
-        "excerpt": "NH Investment & Securities said on the 11th that YG Entertainment’s first-quarter results matched market consensus, while pointing to second-half momentum as a key focus.",
-        "body": "NH Investment & Securities said on the 11th that YG Entertainment’s first-quarter results were in line with consensus, meaning the market’s average forecast. The assessment focused on the fact that YG Entertainment’s quarterly performance did not move outside the range expected by the market. NH Investment & Securities also noted that, beyond the consensus-matching results, investors should watch the company’s momentum in the second half. As a result, market attention is expected to shift from confirming first-quarter earnings to what kind of driving force YG Entertainment may show later in the year. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "YGエンタメ1四半期決算は市場予想並み、NH投資が下半期の勢いに注目",
-        "excerpt": "NH投資証券は11日、YGエンターテインメントの第1四半期業績が市場平均予想であるコンセンサスに沿ったとし、下半期のモメンタムに注目すべきだと評価した。",
-        "body": "NH投資証券は11日、YGエンターテインメントについて、第1四半期業績がコンセンサス、すなわち市場平均予想に沿ったと明らかにした。今回の評価は、同社の四半期業績が市場の想定範囲から外れなかった点に焦点を当てたものだ。NH投資証券は、業績そのものがコンセンサスに合致した点に加え、今後の投資判断では下半期のモメンタムを確認する必要があると述べた。これにより市場の関心は、第1四半期業績の確認後、YGエンターテインメントが下半期にどのような推進力を示すかに移るとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "YG娱乐一季度业绩符合共识，NH投资关注下半年动能",
-        "excerpt": "NH投资证券11日表示，YG娱乐第一季度业绩符合市场平均预期，即一致预期，并评价称未来需要关注其下半年动能。",
-        "body": "NH投资证券11日就YG娱乐表示，其第一季度业绩符合共识，也就是市场平均预期。此次评价的重点在于，YG娱乐的季度业绩没有偏离市场此前预期的范围。NH投资证券还提到，除业绩本身符合共识外，今后的投资判断需要关注下半年的动能。因此，市场关注点预计将在确认第一季度业绩后，转向YG娱乐在下半年将展现何种推动力。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "YG Entertainment cumple consenso en el 1T y NH Investment mira al impulso del 2S",
-        "excerpt": "NH Investment & Securities dijo el día 11 que los resultados del primer trimestre de YG Entertainment estuvieron en línea con el consenso del mercado y destacó el impulso del segundo semestre.",
-        "body": "NH Investment & Securities señaló el día 11 que los resultados del primer trimestre de YG Entertainment estuvieron en línea con el consenso, es decir, con la previsión media del mercado. La evaluación se centró en que el desempeño trimestral de YG Entertainment no se apartó del rango esperado por el mercado. NH Investment & Securities añadió que, además de haber cumplido el consenso, será necesario observar el impulso de la compañía en el segundo semestre para futuras decisiones de inversión. Así, la atención del mercado podría pasar de la confirmación de los resultados del primer trimestre a qué motor mostrará YG Entertainment en la segunda mitad del año. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "YG Entertainment cumpre consenso no 1º tri, e NH Investment observa impulso no 2º semestre",
-        "excerpt": "A NH Investment & Securities afirmou no dia 11 que o resultado do primeiro trimestre da YG Entertainment ficou em linha com o consenso do mercado e destacou o impulso do segundo semestre.",
-        "body": "A NH Investment & Securities informou no dia 11 que o resultado do primeiro trimestre da YG Entertainment ficou em linha com o consenso, ou seja, com a média das expectativas do mercado. A avaliação se concentrou no fato de que o desempenho trimestral da YG Entertainment não se afastou do intervalo esperado pelo mercado. A NH Investment & Securities também observou que, além do resultado compatível com o consenso, será necessário acompanhar o impulso da empresa no segundo semestre em futuras decisões de investimento. Com isso, a atenção do mercado deve passar da confirmação do primeiro trimestre para a força que a YG Entertainment poderá mostrar na segunda metade do ano. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "YG Entertainment erfüllt im ersten Quartal Konsens, NH Investment blickt auf H2-Dynamik",
-        "excerpt": "NH Investment & Securities erklärte am 11., dass die Ergebnisse von YG Entertainment im ersten Quartal dem Marktkonsens entsprachen, und verwies auf die Dynamik im zweiten Halbjahr.",
-        "body": "NH Investment & Securities teilte am 11. mit, dass die Ergebnisse von YG Entertainment im ersten Quartal dem Konsens entsprachen, also der durchschnittlichen Markterwartung. Die Einschätzung konzentrierte sich darauf, dass die Quartalsleistung von YG Entertainment nicht außerhalb der vom Markt erwarteten Spanne lag. NH Investment & Securities merkte außerdem an, dass neben der Erfüllung des Konsenses künftig die Dynamik im zweiten Halbjahr beachtet werden müsse. Damit dürfte sich der Blick des Marktes nach der Bestätigung der Ergebnisse des ersten Quartals darauf richten, welche Impulse YG Entertainment in der zweiten Jahreshälfte zeigen kann. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "YG Entertainment conforme au consensus au T1, NH Investment surveille l’élan du S2",
-        "excerpt": "NH Investment & Securities a indiqué le 11 que les résultats du premier trimestre de YG Entertainment étaient conformes au consensus du marché et a souligné l’importance de l’élan au second semestre.",
-        "body": "NH Investment & Securities a déclaré le 11 que les résultats du premier trimestre de YG Entertainment étaient conformes au consensus, c’est-à-dire à la prévision moyenne du marché. Cette évaluation met l’accent sur le fait que la performance trimestrielle de YG Entertainment n’a pas dévié de la fourchette attendue par le marché. NH Investment & Securities a aussi indiqué qu’au-delà de résultats en ligne avec le consensus, il faudrait observer l’élan de la société au second semestre pour les décisions d’investissement à venir. L’attention du marché devrait donc passer de la confirmation des résultats du premier trimestre aux moteurs que YG Entertainment pourrait montrer dans la seconde moitié de l’année. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "نتائج YG Entertainment للربع الأول تطابق التوقعات وNH تركز على زخم النصف الثاني",
-        "excerpt": "قالت NH Investment & Securities في الحادي عشر إن نتائج YG Entertainment للربع الأول جاءت متوافقة مع متوسط توقعات السوق، مشيرة إلى ضرورة متابعة زخم النصف الثاني.",
-        "body": "قالت NH Investment & Securities في الحادي عشر إن نتائج YG Entertainment للربع الأول جاءت متوافقة مع الإجماع، أي متوسط توقعات السوق. وركز هذا التقييم على أن الأداء الفصلي للشركة لم يخرج عن النطاق الذي توقعه السوق. وأضافت NH Investment & Securities أنه، إلى جانب توافق النتائج مع الإجماع، ينبغي النظر في زخم النصف الثاني عند تقييم الشركة مستقبلا. وبذلك قد ينتقل اهتمام السوق بعد تأكيد نتائج الربع الأول إلى نوع القوة الدافعة التي ستظهرها YG Entertainment في النصف الثاني من العام. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "YG Entertainment के Q1 नतीजे सहमति के अनुरूप, NH Investment की नजर H2 मोमेंटम पर",
-        "excerpt": "NH Investment & Securities ने 11 तारीख को कहा कि YG Entertainment के पहली तिमाही के नतीजे बाजार की औसत अपेक्षा यानी सहमति के अनुरूप रहे और दूसरी छमाही के मोमेंटम पर ध्यान देने की बात कही।",
-        "body": "NH Investment & Securities ने 11 तारीख को YG Entertainment के बारे में कहा कि उसके पहली तिमाही के नतीजे सहमति, यानी बाजार की औसत अपेक्षा, के अनुरूप रहे। यह मूल्यांकन इस बात पर केंद्रित था कि YG Entertainment का तिमाही प्रदर्शन बाजार की अपेक्षित सीमा से बाहर नहीं गया। NH Investment & Securities ने यह भी उल्लेख किया कि नतीजे सहमति के अनुरूप रहने के साथ-साथ आगे निवेश निर्णयों में दूसरी छमाही के मोमेंटम को देखना जरूरी होगा। इसलिए बाजार का ध्यान पहली तिमाही के नतीजों की पुष्टि के बाद इस ओर जा सकता है कि YG Entertainment साल की दूसरी छमाही में कैसी गति दिखाती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kinerja Q1 YG Entertainment Sesuai Konsensus, NH Investment Soroti Momentum Semester II",
-        "excerpt": "NH Investment & Securities pada tanggal 11 menyatakan kinerja kuartal pertama YG Entertainment sesuai konsensus pasar dan menilai momentum semester kedua perlu menjadi perhatian.",
-        "body": "NH Investment & Securities pada tanggal 11 menyatakan bahwa kinerja kuartal pertama YG Entertainment sesuai dengan konsensus, yaitu rata-rata perkiraan pasar. Penilaian ini berfokus pada fakta bahwa kinerja kuartalan YG Entertainment tidak keluar dari kisaran yang diperkirakan pasar. NH Investment & Securities juga menyebutkan bahwa, selain hasil yang sesuai konsensus, momentum pada semester kedua perlu diperhatikan dalam penilaian investasi ke depan. Dengan demikian, perhatian pasar diperkirakan bergeser dari konfirmasi hasil kuartal pertama menuju dorongan seperti apa yang dapat ditunjukkan YG Entertainment pada paruh kedua tahun ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bdca8bbc5c0e",
-    "slug": "kb證-호실적-한국콜마-성장성-대비-주가-저평가목표가-593413",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:44:04.447Z",
-    "updatedAt": "2026-05-10T23:44:04.447Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511019800008",
-    "titleFingerprint": "8050aaff699d00c5e4e5e69336c786a2b93a68de",
-    "dedupKeys": [
-      "bdca8bbc5c0eb7d8dc615dd278178c8866af9bc4",
-      "8050aaff699d00c5e4e5e69336c786a2b93a68de",
-      "1b2a2be6d440c1a76825e90691413b46645bdfd2"
-    ],
-    "imageUrl": "/images/articles/bdca8bbc5c0e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국콜마 호실적에 KB증권 목표가 상향, 성장성 대비 저평가 주목",
-        "excerpt": "KB증권은 11일 1분기 기대치를 웃돈 한국콜마에 대해 성장성 대비 주가가 저렴하다고 평가하며 목표주가를 상향 조정했다.",
-        "body": "KB증권은 11일 한국콜마가 1분기 시장 기대치를 웃도는 실적을 기록했다며 목표주가를 상향 조정했다. KB증권은 한국콜마의 호실적을 근거로 현재 주가가 성장성에 비해 저렴하다고 평가했다. 이번 판단은 1분기 실적이 예상치를 넘어섰다는 점과 향후 성장성을 함께 반영한 것이다. 증권가의 목표가 상향은 한국콜마 주가에 대한 재평가 가능성을 키우는 요인으로 해석된다. 다만 보도에서 제시된 핵심 근거는 1분기 기대 이상 실적과 성장성 대비 저평가 판단에 한정된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kolmar Korea Earnings Beat Lifts KB Securities Target, Valuation Seen Low",
-        "excerpt": "KB Securities raised its target price for Kolmar Korea on the 11th, citing first-quarter results above expectations and a share price it views as cheap versus growth.",
-        "body": "KB Securities said on the 11th that Kolmar Korea delivered first-quarter results that exceeded market expectations and raised its target price for the company. The brokerage evaluated the stock as inexpensive relative to the company’s growth potential, using the strong quarterly performance as its main basis. The view reflects both the earnings beat and Kolmar Korea’s growth profile. A higher target price from the brokerage may support renewed attention to the stock’s valuation. The report’s cited grounds are limited to the better-than-expected first-quarter results and the assessment that the shares are undervalued versus growth. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国コルマー好決算でKB証券が目標株価引き上げ、成長性比で割安",
-        "excerpt": "KB証券は11日、1四半期決算が市場予想を上回った韓国コルマーについて、成長性に比べ株価が割安だとして目標株価を引き上げた。",
-        "body": "KB証券は11日、韓国コルマーが第1四半期に市場の期待を上回る業績を記録したとして、目標株価を引き上げた。KB証券は好決算を根拠に、同社株価は成長性に比べて安いと評価した。今回の判断は、第1四半期の実績が予想を上回った点と今後の成長性を併せて反映したものだ。証券会社による目標株価の引き上げは、韓国コルマー株の再評価可能性を高める材料と受け止められる。ただし報道で示された主な根拠は、期待以上の第1四半期業績と成長性比での割安判断に限られる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国Kolmar一季度业绩超预期，KB证券上调目标价称估值偏低",
-        "excerpt": "KB证券11日表示，韩国Kolmar一季度业绩高于预期，股价相较成长性显得便宜，因此上调其目标股价。",
-        "body": "KB证券11日表示，韩国Kolmar第一季度业绩超过市场预期，并上调了该公司的目标股价。KB证券以亮眼业绩为依据，认为其当前股价相对于成长性而言较为便宜。此次判断同时反映了一季度业绩超预期以及公司成长性。券商上调目标价，可能成为市场重新评估韩国Kolmar股价的因素。不过，报道中提出的核心依据仅限于第一季度业绩好于预期，以及相较成长性的低估判断。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kolmar Korea supera expectativas y KB Securities eleva precio objetivo por valoración baja",
-        "excerpt": "KB Securities elevó el día 11 su precio objetivo para Kolmar Korea tras resultados del primer trimestre mejores de lo esperado y una acción barata frente a su crecimiento.",
-        "body": "KB Securities informó el día 11 que Kolmar Korea registró resultados del primer trimestre por encima de las expectativas del mercado y elevó su precio objetivo para la compañía. La firma consideró que la acción está barata en relación con su potencial de crecimiento, tomando como base el sólido desempeño trimestral. La evaluación refleja tanto la superación de expectativas como la perspectiva de crecimiento de Kolmar Korea. El aumento del precio objetivo puede impulsar una nueva revisión de la valoración de la acción. No obstante, los fundamentos citados en la información se limitan a los resultados del primer trimestre mejores de lo esperado y a la valoración baja frente al crecimiento. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kolmar Korea supera previsões e KB Securities eleva preço-alvo por valuation baixo",
-        "excerpt": "A KB Securities elevou no dia 11 o preço-alvo da Kolmar Korea após resultados do 1º trimestre acima do esperado e avaliação de ação barata frente ao crescimento.",
-        "body": "A KB Securities afirmou no dia 11 que a Kolmar Korea registrou resultados do primeiro trimestre acima das expectativas do mercado e elevou o preço-alvo da companhia. A corretora avaliou que a ação está barata em relação ao potencial de crescimento, usando o desempenho sólido como principal base. A decisão reflete tanto o resultado acima do esperado quanto a perspectiva de crescimento da Kolmar Korea. A elevação do preço-alvo pode favorecer uma reavaliação da ação pelo mercado. Ainda assim, os fundamentos apresentados na notícia se limitam ao desempenho do primeiro trimestre acima das expectativas e à avaliação de baixa valorização frente ao crescimento. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kolmar Korea übertrifft Erwartungen, KB Securities hebt Kursziel wegen niedriger Bewertung an",
-        "excerpt": "KB Securities hob am 11. das Kursziel für Kolmar Korea an, nachdem die Ergebnisse des ersten Quartals die Erwartungen übertrafen und die Aktie als günstig zum Wachstum gilt.",
-        "body": "KB Securities teilte am 11. mit, dass Kolmar Korea im ersten Quartal Ergebnisse über den Markterwartungen erzielt habe, und hob das Kursziel für das Unternehmen an. Das Wertpapierhaus bewertete die Aktie gemessen am Wachstumspotenzial als günstig und stützte sich dabei auf die starke Quartalsentwicklung. Die Einschätzung berücksichtigt sowohl die übertroffenen Erwartungen als auch die Wachstumsperspektive von Kolmar Korea. Die Anhebung des Kursziels kann eine Neubewertung der Aktie begünstigen. Die im Bericht genannten zentralen Gründe beschränken sich jedoch auf das besser als erwartete Erstquartalsergebnis und die Einschätzung einer niedrigen Bewertung im Verhältnis zum Wachstum. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kolmar Korea dépasse les attentes, KB Securities relève son objectif sur une valorisation jugée basse",
-        "excerpt": "KB Securities a relevé le 11 son objectif de cours sur Kolmar Korea, après des résultats du 1er trimestre supérieurs aux attentes et une action jugée bon marché face à la croissance.",
-        "body": "KB Securities a indiqué le 11 que Kolmar Korea avait publié des résultats du premier trimestre supérieurs aux attentes du marché et a relevé son objectif de cours sur la société. La maison de courtage estime que l’action est bon marché au regard du potentiel de croissance, en s’appuyant sur cette solide performance trimestrielle. Cette évaluation reflète à la fois le dépassement des attentes et les perspectives de croissance de Kolmar Korea. Le relèvement de l’objectif peut soutenir une réévaluation du titre. Toutefois, les motifs cités dans l’article se limitent aux résultats du premier trimestre meilleurs que prévu et au jugement d’une valorisation faible par rapport à la croissance. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كولمار كوريا تتجاوز التوقعات وKB Securities يرفع السعر المستهدف لانخفاض التقييم",
-        "excerpt": "رفعت KB Securities في 11 الشهر السعر المستهدف لكولمار كوريا بعد نتائج فصلية أولى فاقت التوقعات، معتبرة أن السهم رخيص مقارنة بإمكانات النمو.",
-        "body": "قالت KB Securities في 11 الشهر إن كولمار كوريا سجلت نتائج في الربع الأول تجاوزت توقعات السوق، ورفعت السعر المستهدف للشركة. واعتبرت شركة الوساطة أن السهم رخيص مقارنة بإمكانات النمو، مستندة إلى الأداء القوي في الربع الأول. ويعكس هذا التقييم تفوق النتائج على التوقعات إلى جانب آفاق نمو كولمار كوريا. وقد يسهم رفع السعر المستهدف في زيادة الاهتمام بإعادة تقييم السهم. ومع ذلك، تقتصر الأسس الواردة في التقرير على نتائج الربع الأول الأفضل من المتوقع وعلى الحكم بأن التقييم منخفض مقارنة بالنمو. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Kolmar Korea के मजबूत नतीजों पर KB Securities ने लक्ष्य मूल्य बढ़ाया, मूल्यांकन कम बताया",
-        "excerpt": "KB Securities ने 11 तारीख को Kolmar Korea का लक्ष्य मूल्य बढ़ाया, क्योंकि पहली तिमाही के नतीजे उम्मीद से बेहतर रहे और शेयर को वृद्धि की तुलना में सस्ता बताया गया।",
-        "body": "KB Securities ने 11 तारीख को कहा कि Kolmar Korea ने पहली तिमाही में बाजार की उम्मीदों से बेहतर नतीजे दर्ज किए और कंपनी का लक्ष्य मूल्य बढ़ाया। ब्रोकरेज ने मजबूत तिमाही प्रदर्शन को आधार बनाते हुए कहा कि कंपनी का शेयर उसकी वृद्धि क्षमता की तुलना में सस्ता है। यह आकलन पहली तिमाही के उम्मीद से बेहतर प्रदर्शन और Kolmar Korea की वृद्धि संभावनाओं दोनों को दर्शाता है। लक्ष्य मूल्य में बढ़ोतरी से शेयर के मूल्यांकन पर नए सिरे से ध्यान जा सकता है। हालांकि रिपोर्ट में दिए गए मुख्य आधार पहली तिमाही के बेहतर नतीजे और वृद्धि की तुलना में कम मूल्यांकन तक सीमित हैं। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kolmar Korea Cetak Kinerja Kuat, KB Securities Naikkan Target karena Valuasi Murah",
-        "excerpt": "KB Securities pada 11 menaikkan target harga Kolmar Korea setelah kinerja kuartal I melampaui ekspektasi dan menilai sahamnya murah dibanding prospek pertumbuhan.",
-        "body": "KB Securities pada 11 menyatakan Kolmar Korea mencatat kinerja kuartal pertama yang melampaui ekspektasi pasar dan menaikkan target harga perusahaan tersebut. Sekuritas itu menilai saham Kolmar Korea masih murah dibandingkan potensi pertumbuhannya, dengan kinerja kuat kuartalan sebagai dasar utama. Penilaian ini mencerminkan hasil kuartal pertama yang lebih baik dari perkiraan serta prospek pertumbuhan perusahaan. Kenaikan target harga dapat mendorong perhatian baru terhadap valuasi saham Kolmar Korea. Namun dasar utama dalam laporan terbatas pada kinerja kuartal pertama di atas ekspektasi dan penilaian undervalued terhadap pertumbuhan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c516f2f01007",
-    "slug": "ai로-사회문제-해결sk이노-ai임팩트솔루션-참여팀-모집-658134",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-10T23:43:10.299Z",
-    "updatedAt": "2026-05-10T23:43:10.300Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511020400003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511020400003",
-    "titleFingerprint": "f984080c810c452276cc0c615c46626f8ee99047",
-    "dedupKeys": [
-      "c516f2f01007df95c22d42c1ddf52101d3e76c40",
-      "f984080c810c452276cc0c615c46626f8ee99047",
-      "021d61a82a3f379c21e33bfc6a198032f4b243f8"
-    ],
-    "imageUrl": "/images/articles/c516f2f01007.jpg",
-    "i18n": {
-      "ko": {
-        "title": "SK이노베이션, AI로 사회문제 푸는 ‘AI 임팩트 솔루션’ 참가팀 모집 시작",
-        "excerpt": "SK이노베이션은 11일 신규 사회공헌 프로그램 ‘AI 임팩트 솔루션’ 참가팀을 모집한다고 밝혔다. AI를 활용해 사회문제 해결에 나서는 팀을 대상으로 한 참여 모집이다.",
-        "body": "SK이노베이션은 11일 신규 사회공헌 프로그램인 ‘AI 임팩트 솔루션’의 참가팀을 모집한다고 밝혔다. 이번 프로그램은 AI를 활용해 사회문제 해결을 모색하는 취지로 마련됐다. 회사가 밝힌 내용에 따르면 모집 대상은 ‘AI 임팩트 솔루션’에 참여할 팀이며, 프로그램의 핵심은 인공지능 기술을 사회적 과제 해결과 연결하는 데 있다. SK이노베이션의 새 사회공헌 활동이 AI 기반 문제 해결 참여를 확대하는 계기가 될지 주목된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "SK Innovation Opens Recruitment for AI Impact Solution Teams Tackling Social Issues",
-        "excerpt": "SK Innovation said on the 11th that it is recruiting teams for its new social contribution program, AI Impact Solution, aimed at using AI to address social problems.",
-        "body": "SK Innovation announced on the 11th that it is recruiting participating teams for its new social contribution program, “AI Impact Solution.” The program is designed to explore ways to solve social problems by using artificial intelligence. According to the company’s announcement, the recruitment is for teams that will take part in AI Impact Solution, with the program focused on linking AI technology to social challenges. Attention is on whether SK Innovation’s new social contribution effort will broaden participation in AI-based problem solving. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "SKイノベーション、AIで社会課題解決へ「AIインパクトソリューション」参加チーム募集",
-        "excerpt": "SKイノベーションは11日、新たな社会貢献プログラム「AIインパクトソリューション」の参加チームを募集すると発表した。AIで社会問題の解決を目指す取り組みだ。",
-        "body": "SKイノベーションは11日、新たな社会貢献プログラム「AIインパクトソリューション」の参加チームを募集すると明らかにした。このプログラムは、AIを活用して社会問題の解決を模索する趣旨で用意された。会社の発表によると、募集対象は「AIインパクトソリューション」に参加するチームで、プログラムの核心は人工知能技術を社会的課題の解決につなげることにある。SKイノベーションの新たな社会貢献活動が、AI基盤の問題解決への参加を広げる契機となるか注目される。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "SK Innovation启动“AI影响力解决方案”团队招募，聚焦AI解决社会问题",
-        "excerpt": "SK Innovation 11日表示，将为新的社会贡献项目“AI影响力解决方案”招募参与团队，旨在通过AI探索社会问题的解决路径。",
-        "body": "SK Innovation 11日宣布，将为新的社会贡献项目“AI影响力解决方案”招募参与团队。该项目旨在利用人工智能探索解决社会问题的方法。根据公司发布的内容，此次招募对象为参与“AI影响力解决方案”的团队，项目核心在于把AI技术与社会课题解决相连接。SK Innovation这一新的社会贡献活动能否扩大基于AI的问题解决参与度，受到关注。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "SK Innovation recluta equipos para AI Impact Solution y enfoca la IA en problemas sociales",
-        "excerpt": "SK Innovation informó el día 11 que recluta equipos para su nuevo programa de contribución social, AI Impact Solution, orientado a usar IA para abordar problemas sociales.",
-        "body": "SK Innovation anunció el día 11 que está reclutando equipos participantes para su nuevo programa de contribución social, “AI Impact Solution”. El programa fue preparado con el propósito de explorar soluciones a problemas sociales mediante el uso de inteligencia artificial. Según lo comunicado por la compañía, la convocatoria está dirigida a equipos que participarán en AI Impact Solution, cuyo eje es conectar la tecnología de IA con la resolución de desafíos sociales. Se observa si esta nueva actividad de contribución social de SK Innovation ampliará la participación en soluciones basadas en IA. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "SK Innovation recruta equipes para o AI Impact Solution com foco em problemas sociais",
-        "excerpt": "A SK Innovation informou no dia 11 que está recrutando equipes para seu novo programa de contribuição social, AI Impact Solution, voltado ao uso de IA em problemas sociais.",
-        "body": "A SK Innovation anunciou no dia 11 que está recrutando equipes participantes para seu novo programa de contribuição social, “AI Impact Solution”. O programa foi criado com o objetivo de buscar formas de resolver problemas sociais usando inteligência artificial. Segundo a empresa, a seleção é voltada a equipes que participarão do AI Impact Solution, cujo ponto central é conectar a tecnologia de IA à resolução de desafios sociais. A atenção se volta para saber se a nova iniciativa de contribuição social da SK Innovation ampliará a participação em soluções baseadas em IA. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "SK Innovation sucht Teams für AI Impact Solution gegen soziale Probleme",
-        "excerpt": "SK Innovation teilte am 11. mit, dass Teams für das neue Sozialbeitragsprogramm AI Impact Solution gesucht werden, das KI zur Lösung sozialer Probleme nutzen soll.",
-        "body": "SK Innovation gab am 11. bekannt, dass das Unternehmen teilnehmende Teams für sein neues Sozialbeitragsprogramm „AI Impact Solution“ rekrutiert. Das Programm wurde mit dem Ziel eingerichtet, Wege zur Lösung sozialer Probleme durch den Einsatz künstlicher Intelligenz zu erkunden. Nach Angaben des Unternehmens richtet sich die Rekrutierung an Teams, die an AI Impact Solution teilnehmen sollen; im Mittelpunkt steht die Verbindung von KI-Technologie mit gesellschaftlichen Aufgaben. Beobachtet wird, ob die neue Sozialinitiative von SK Innovation die Beteiligung an KI-gestützter Problemlösung ausweiten kann. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "SK Innovation recrute des équipes pour AI Impact Solution axé sur les problèmes sociaux",
-        "excerpt": "SK Innovation a annoncé le 11 recruter des équipes pour son nouveau programme de contribution sociale, AI Impact Solution, visant à utiliser l’IA face aux problèmes sociaux.",
-        "body": "SK Innovation a annoncé le 11 qu’elle recrutait des équipes participantes pour son nouveau programme de contribution sociale, « AI Impact Solution ». Ce programme a été conçu pour explorer des moyens de résoudre des problèmes sociaux en utilisant l’intelligence artificielle. Selon l’entreprise, le recrutement vise des équipes appelées à participer à AI Impact Solution, dont l’objectif central est de relier la technologie de l’IA à la résolution d’enjeux sociaux. L’attention porte sur la capacité de cette nouvelle initiative de SK Innovation à élargir la participation à la résolution de problèmes fondée sur l’IA. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إس كيه إنوفيشن تفتح باب المشاركة في AI Impact Solution لمعالجة القضايا الاجتماعية بالذكاء الاصطناعي",
-        "excerpt": "أعلنت إس كيه إنوفيشن في 11 أنها تجند فرقا لبرنامجها الجديد للمساهمة الاجتماعية AI Impact Solution، الهادف إلى استخدام الذكاء الاصطناعي لمعالجة مشكلات اجتماعية.",
-        "body": "أعلنت إس كيه إنوفيشن في 11 أنها تجند فرقا مشاركة في برنامجها الجديد للمساهمة الاجتماعية «AI Impact Solution». ويهدف البرنامج إلى بحث سبل حل المشكلات الاجتماعية باستخدام الذكاء الاصطناعي. ووفقا لما أعلنته الشركة، فإن الدعوة موجهة إلى فرق ستشارك في AI Impact Solution، ويتمحور البرنامج حول ربط تقنيات الذكاء الاصطناعي بمعالجة التحديات الاجتماعية. وتتركز الأنظار على ما إذا كانت مبادرة إس كيه إنوفيشن الجديدة للمساهمة الاجتماعية ستوسع المشاركة في حل المشكلات القائم على الذكاء الاصطناعي. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "SK Innovation ने सामाजिक समस्याओं के लिए AI Impact Solution टीमों की भर्ती शुरू की",
-        "excerpt": "SK Innovation ने 11 तारीख को कहा कि वह अपने नए सामाजिक योगदान कार्यक्रम AI Impact Solution के लिए टीमें 모집 कर रही है, जिसका उद्देश्य AI से सामाजिक समस्याओं के समाधान खोजना है।",
-        "body": "SK Innovation ने 11 तारीख को घोषणा की कि वह अपने नए सामाजिक योगदान कार्यक्रम “AI Impact Solution” के लिए भाग लेने वाली टीमों की भर्ती कर रही है। यह कार्यक्रम कृत्रिम बुद्धिमत्ता का उपयोग कर सामाजिक समस्याओं के समाधान तलाशने के उद्देश्य से तैयार किया गया है। कंपनी के अनुसार, भर्ती उन टीमों के लिए है जो AI Impact Solution में भाग लेंगी, और कार्यक्रम का मुख्य बिंदु AI तकनीक को सामाजिक चुनौतियों के समाधान से जोड़ना है। ध्यान इस बात पर है कि SK Innovation की यह नई सामाजिक योगदान पहल AI आधारित समस्या समाधान में भागीदारी को कितना बढ़ाती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "SK Innovation Rekrut Tim AI Impact Solution untuk Atasi Masalah Sosial dengan AI",
-        "excerpt": "SK Innovation menyatakan pada tanggal 11 bahwa pihaknya merekrut tim untuk program kontribusi sosial baru, AI Impact Solution, yang berfokus pada penggunaan AI untuk masalah sosial.",
-        "body": "SK Innovation mengumumkan pada tanggal 11 bahwa pihaknya merekrut tim peserta untuk program kontribusi sosial baru, “AI Impact Solution”. Program ini disiapkan dengan tujuan mencari cara menyelesaikan masalah sosial menggunakan kecerdasan buatan. Menurut keterangan perusahaan, perekrutan ditujukan bagi tim yang akan berpartisipasi dalam AI Impact Solution, dengan inti program menghubungkan teknologi AI dengan penyelesaian tantangan sosial. Perhatian tertuju pada apakah kegiatan kontribusi sosial baru SK Innovation ini dapat memperluas partisipasi dalam pemecahan masalah berbasis AI. Sumber: yna.co.kr"
       }
     }
   }
