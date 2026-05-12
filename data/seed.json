@@ -1,5 +1,230 @@
 [
   {
+    "id": "24d0f2f10ad6",
+    "slug": "서울서-거주-의무-없는-9억원대-줍줍-706411",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T13:24:19.605Z",
+    "updatedAt": "2026-05-12T13:24:19.605Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051215951",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051215951",
+    "titleFingerprint": "193ca8ef11daad6e9abbbd8d0aa47ccd7b2f9f5e",
+    "dedupKeys": [
+      "24d0f2f10ad6f0ff25c4f93acb405c97bd3bff4e",
+      "193ca8ef11daad6e9abbbd8d0aa47ccd7b2f9f5e",
+      "2c8b8924314f90e8b9284f470caca12c4b04b980"
+    ],
+    "imageUrl": "/images/articles/24d0f2f10ad6.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 무순위 청약, 실거주 의무 없는 8억~9억원대 아파트 잇따라 나온다",
+        "excerpt": "2026년 5월 12일 한국경제에 따르면 서울 서대문구·동대문구 등에서 실거주 의무가 없거나 조건부로 없는 무순위 청약 물량이 공급되며 시세보다 낮은 분양가가 주목받고 있다.",
+        "body": "한국경제는 2026년 5월 12일 한국부동산원 청약홈을 인용해 서울 서대문구·동대문구·용산구에서 무순위 청약 물량이 나온다고 보도했다. 서대문구 남가좌동 DMC 가재울 아이파크 전용 59㎡는 18일 생애최초 특별공급으로 접수하며 분양가는 8억5690만원이다. 같은 면적 분양권은 지난해 9월 10억7540만원에 거래됐고 주변 시세는 12억원대다. 동대문구 이문동 래미안 라그란데 전용 74㎡ 1가구는 노부모 부양 특별공급으로 9억5800만원에 나온다. 지난해 실거래가는 13억원대였으며, 소유권 이전 등기 전이라 주택담보대출이 안 되는 점이 변수다. 용산 호반써밋 에이디션 전용 105㎡ 1가구는 13일 공급되고 분양가는 19억8160만원이다. 한국경제(hankyung.com)는 일부 물량이 실거주 의무가 없고, 시세보다 4억~10억원가량 낮다고 전했다."
+      },
+      "en": {
+        "title": "Seoul Unranked Housing Lottery Offers 800-900 Million Won Units Without Residence Duty",
+        "excerpt": "According to Korea Economic Daily on May 12, 2026, unranked apartment lottery units in Seodaemun and Dongdaemun, Seoul, are drawing attention for prices below market levels and no or conditional residence duty.",
+        "body": "Korea Economic Daily reported on May 12, 2026, citing Korea Real Estate Board’s Cheongyak Home, that unranked housing lottery units will be offered in Seoul’s Seodaemun, Dongdaemun and Yongsan districts. A 59㎡ unit at DMC Gajaeul IPARK in Namgajwa-dong, Seodaemun, will take applications on May 18 as a first-home special supply, priced at 856.9 million won. A presale right for the same size traded at 1.0754 billion won last September, while nearby prices are in the 1.2 billion won range. One 74㎡ unit at Raemian La Grande in Imun-dong, Dongdaemun, is offered as a special supply for households supporting elderly parents at 958 million won. Its latest transaction last year was in the 1.3 billion won range, but mortgage loans are unavailable before ownership transfer registration. One 105㎡ unit at Yongsan Hoban Summit Edition will be supplied on May 13 at 1.9816 billion won. Korea Economic Daily, hankyung.com, said some units have no residence duty and are about 400 million to 1 billion won below market prices."
+      },
+      "ja": {
+        "title": "ソウル無順位申込、居住義務なしの8億～9億ウォン台住戸が相次ぎ登場",
+        "excerpt": "韓国経済新聞は2026年5月12日、ソウル西大門区や東大門区などで、実居住義務がない、または条件付きでない無順位申込住戸が供給され、市場価格を下回る分譲価格が注目されていると伝えた。",
+        "body": "韓国経済新聞は2026年5月12日、韓国不動産院の請約ホームを引用し、ソウル西大門区、東大門区、龍山区で無順位申込物件が出ると報じた。西大門区南加佐洞のDMCガジェウルIPARK専用59㎡は、18日に生涯初の特別供給として受け付け、分譲価格は8億5690万ウォン。昨年9月、同じ面積の分譲権は10億7540万ウォンで取引され、周辺相場は12億ウォン台だ。東大門区里門洞のラミアン・ラグランデ専用74㎡1戸は、老父母扶養特別供給として9億5800万ウォンで出る。昨年の実取引価格は13億ウォン台で、所有権移転登記前のため住宅担保ローンが出ない点が変数だ。龍山ホバンサミットエディション専用105㎡1戸は13日に供給され、分譲価格は19億8160万ウォン。韓国経済新聞（hankyung.com）は、一部物件に実居住義務がなく、市場価格より約4億～10億ウォン低いと伝えた。"
+      },
+      "zh": {
+        "title": "首尔无顺位认购推出无实际居住义务的8亿至9亿韩元公寓",
+        "excerpt": "据韩国经济新闻2026年5月12日报道，首尔西大门区、东大门区等地将供应无实际居住义务或有条件免除义务的无顺位认购房源，低于市价的分售价受到关注。",
+        "body": "韩国经济新闻2026年5月12日援引韩国房地产院认购平台Cheongyak Home报道称，首尔西大门区、东大门区和龙山区将推出无顺位认购房源。西大门区南加佐洞DMC Gajaeul IPARK专用面积59㎡房源将于18日以首次购房特别供应方式受理，分售价为8.569亿韩元。去年9月，同面积预售权成交价为10.754亿韩元，周边市价在12亿韩元区间。东大门区里门洞Raemian La Grande专用面积74㎡一套房源将以赡养老父母特别供应方式推出，价格为9.58亿韩元。其去年实际成交价在13亿韩元区间，但因尚未完成所有权转移登记，无法办理住房抵押贷款。龙山区Hoban Summit Edition专用面积105㎡一套房源将于13日供应，分售价为19.816亿韩元。韩国经济新闻（hankyung.com）称，部分房源没有实际居住义务，价格约低于市价4亿至10亿韩元。"
+      },
+      "es": {
+        "title": "Lotería de vivienda en Seúl ofrece pisos de 800-900 millones sin obligación de residencia",
+        "excerpt": "Según Korea Economic Daily el 12 de mayo de 2026, nuevas viviendas de suscripción sin orden en Seodaemun y Dongdaemun, Seúl, atraen atención por precios inferiores al mercado y ausencia total o condicional de obligación de residencia.",
+        "body": "Korea Economic Daily informó el 12 de mayo de 2026, citando a Cheongyak Home de la Junta Inmobiliaria de Corea, que habrá viviendas de suscripción sin orden en los distritos de Seodaemun, Dongdaemun y Yongsan, en Seúl. Una unidad de 59㎡ en DMC Gajaeul IPARK, en Namgajwa-dong, Seodaemun, recibirá solicitudes el 18 como suministro especial para primera vivienda, con precio de 856,9 millones de wones. El derecho de preventa de la misma superficie se negoció en septiembre pasado por 1.075,4 millones de wones, mientras la zona ronda los 1.200 millones. Una unidad de 74㎡ en Raemian La Grande, en Imun-dong, Dongdaemun, saldrá como suministro especial para hogares que mantienen a padres mayores por 958 millones de wones. Su última operación del año pasado estuvo en el rango de 1.300 millones, pero no admite hipoteca antes del registro de transferencia de propiedad. Una unidad de 105㎡ de Yongsan Hoban Summit Edition se ofrecerá el 13 por 1.981,6 millones de wones. Korea Economic Daily, hankyung.com, indicó que algunas unidades no tienen obligación de residencia y cuestan entre 400 millones y 1.000 millones de wones menos que el mercado."
+      },
+      "pt": {
+        "title": "Sorteio imobiliário em Seul traz unidades de 800-900 milhões sem obrigação de moradia",
+        "excerpt": "Segundo o Korea Economic Daily em 12 de maio de 2026, apartamentos de subscrição sem ordem em Seodaemun e Dongdaemun, Seul, chamam atenção por preços abaixo do mercado e ausência total ou condicional de obrigação de residência.",
+        "body": "O Korea Economic Daily informou em 12 de maio de 2026, citando o Cheongyak Home da Korea Real Estate Board, que unidades de subscrição sem ordem serão ofertadas nos distritos de Seodaemun, Dongdaemun e Yongsan, em Seul. Uma unidade de 59㎡ no DMC Gajaeul IPARK, em Namgajwa-dong, Seodaemun, receberá inscrições no dia 18 como oferta especial para primeira moradia, ao preço de 856,9 milhões de won. O direito de pré-venda da mesma área foi negociado em setembro passado por 1,0754 bilhão de won, enquanto os preços da região estão na faixa de 1,2 bilhão. Uma unidade de 74㎡ no Raemian La Grande, em Imun-dong, Dongdaemun, será ofertada como fornecimento especial para famílias que sustentam pais idosos por 958 milhões de won. A transação mais recente do ano passado ficou na faixa de 1,3 bilhão, mas financiamento hipotecário não está disponível antes do registro de transferência de propriedade. Uma unidade de 105㎡ do Yongsan Hoban Summit Edition será ofertada no dia 13 por 1,9816 bilhão de won. O Korea Economic Daily, hankyung.com, disse que algumas unidades não têm obrigação de residência e custam cerca de 400 milhões a 1 bilhão de won abaixo do mercado."
+      },
+      "de": {
+        "title": "Seoul bietet Nachrücker-Wohnungen für 800-900 Mio. Won ohne Wohnpflicht an",
+        "excerpt": "Laut Korea Economic Daily vom 12. Mai 2026 kommen in Seouls Bezirken Seodaemun und Dongdaemun Nachrücker-Wohnungen auf den Markt, die keine oder nur bedingte Wohnpflicht haben und unter Marktpreis liegen.",
+        "body": "Korea Economic Daily berichtete am 12. Mai 2026 unter Berufung auf Cheongyak Home der Korea Real Estate Board, dass in den Seouler Bezirken Seodaemun, Dongdaemun und Yongsan Nachrücker-Wohnungen angeboten werden. Eine 59㎡-Einheit im DMC Gajaeul IPARK in Namgajwa-dong, Seodaemun, nimmt am 18. Mai Anträge als Sonderzuteilung für Ersterwerber entgegen; der Preis liegt bei 856,9 Mio. Won. Ein Vorverkaufsrecht gleicher Größe wurde im vergangenen September für 1,0754 Mrd. Won gehandelt, während die umliegenden Preise im Bereich von 1,2 Mrd. Won liegen. Eine 74㎡-Einheit im Raemian La Grande in Imun-dong, Dongdaemun, wird als Sonderzuteilung für Haushalte mit Unterstützung älterer Eltern für 958 Mio. Won angeboten. Der letzte Vorjahresverkauf lag im Bereich von 1,3 Mrd. Won, doch vor der Eigentumsübertragung ist kein Hypothekendarlehen möglich. Eine 105㎡-Einheit im Yongsan Hoban Summit Edition wird am 13. Mai für 1,9816 Mrd. Won angeboten. Korea Economic Daily, hankyung.com, meldete, dass einige Einheiten keine Wohnpflicht haben und etwa 400 Mio. bis 1 Mrd. Won unter dem Marktpreis liegen."
+      },
+      "fr": {
+        "title": "À Séoul, des logements sans obligation d’habiter proposés à 800-900 millions de wons",
+        "excerpt": "Selon Korea Economic Daily le 12 mai 2026, des appartements en souscription non classée à Seodaemun et Dongdaemun, Séoul, attirent l’attention avec des prix inférieurs au marché et aucune obligation de résidence ou une exemption conditionnelle.",
+        "body": "Korea Economic Daily a rapporté le 12 mai 2026, en citant Cheongyak Home de la Korea Real Estate Board, que des logements en souscription non classée seront proposés dans les arrondissements de Seodaemun, Dongdaemun et Yongsan à Séoul. Un lot de 59㎡ au DMC Gajaeul IPARK, à Namgajwa-dong, Seodaemun, recevra les demandes le 18 mai comme offre spéciale pour primo-accédants, au prix de 856,9 millions de wons. Un droit de prévente de même surface s’est échangé en septembre dernier à 1,0754 milliard de wons, tandis que les prix voisins sont autour de 1,2 milliard. Un lot de 74㎡ au Raemian La Grande, à Imun-dong, Dongdaemun, sera proposé comme offre spéciale pour les ménages soutenant des parents âgés, à 958 millions de wons. Sa dernière transaction l’an dernier se situait dans la fourchette de 1,3 milliard, mais aucun prêt hypothécaire n’est disponible avant l’enregistrement du transfert de propriété. Un lot de 105㎡ au Yongsan Hoban Summit Edition sera fourni le 13 mai à 1,9816 milliard de wons. Korea Economic Daily, hankyung.com, a indiqué que certains lots n’ont pas d’obligation de résidence et sont environ 400 millions à 1 milliard de wons sous le marché."
+      },
+      "ar": {
+        "title": "قرعة شقق في سيول بأسعار 800-900 مليون وون من دون إلزام بالسكن الفعلي",
+        "excerpt": "بحسب صحيفة كوريا إيكونوميك ديلي في 12 مايو 2026، تطرح سيول وحدات اكتتاب غير مرتبة في سوديمون ودونغديمون وغيرها، بعضها بلا التزام سكني أو بلا التزام مشروط، وبأسعار أدنى من السوق.",
+        "body": "ذكرت صحيفة كوريا إيكونوميك ديلي في 12 مايو 2026، نقلا عن منصة Cheongyak Home التابعة لمجلس العقارات الكوري، أن وحدات اكتتاب غير مرتبة ستطرح في مناطق سوديمون ودونغديمون ويونغسان في سيول. وحدة بمساحة 59㎡ في DMC Gajaeul IPARK في نامغاجوا دونغ بسوديمون ستستقبل الطلبات في 18 مايو ضمن توريد خاص لمشتري المسكن الأول، بسعر 856.9 مليون وون. وقد بيع حق حجز للمساحة نفسها في سبتمبر الماضي مقابل 1.0754 مليار وون، بينما تدور أسعار المنطقة حول 1.2 مليار وون. وحدة بمساحة 74㎡ في Raemian La Grande في إيمون دونغ بدونغديمون ستطرح كتوريد خاص للأسر التي تعيل والدين مسنين بسعر 958 مليون وون. آخر صفقة لها العام الماضي كانت في نطاق 1.3 مليار وون، لكن القرض العقاري غير متاح قبل تسجيل نقل الملكية. وحدة بمساحة 105㎡ في Yongsan Hoban Summit Edition ستطرح في 13 مايو بسعر 1.9816 مليار وون. وقالت Korea Economic Daily، hankyung.com، إن بعض الوحدات لا تخضع لالتزام السكن الفعلي وتقل عن السوق بنحو 400 مليون إلى مليار وون."
+      },
+      "hi": {
+        "title": "सियोल में बिना निवास अनिवार्यता 800-900 मिलियन वॉन के अपार्टमेंट की लॉटरी",
+        "excerpt": "कोरिया इकोनॉमिक डेली ने 12 मई 2026 को बताया कि सियोल के सियोडेमुन और डोंगडेमुन सहित इलाकों में बिना या सशर्त बिना वास्तविक निवास अनिवार्यता वाली अनरैंक्ड सदस्यता इकाइयां बाजार से कम कीमत पर आ रही हैं।",
+        "body": "कोरिया इकोनॉमिक डेली ने 12 मई 2026 को कोरिया रियल एस्टेट बोर्ड के Cheongyak Home के हवाले से बताया कि सियोल के सियोडेमुन, डोंगडेमुन और योंगसान जिलों में अनरैंक्ड हाउसिंग लॉटरी इकाइयां पेश होंगी। सियोडेमुन के नामगाजवा-डोंग स्थित DMC Gajaeul IPARK की 59㎡ इकाई के लिए 18 मई को पहली बार घर खरीदने वालों की विशेष आपूर्ति के तहत आवेदन लिए जाएंगे, कीमत 856.9 मिलियन वॉन है। इसी आकार का प्रीसेल अधिकार पिछले सितंबर 1.0754 बिलियन वॉन में बिका था, जबकि आसपास की कीमतें 1.2 बिलियन वॉन के दायरे में हैं। डोंगडेमुन के इमुन-डोंग स्थित Raemian La Grande की 74㎡ की एक इकाई बुजुर्ग माता-पिता की देखभाल करने वाले परिवारों के लिए विशेष आपूर्ति में 958 मिलियन वॉन पर आएगी। पिछले वर्ष इसका ताजा वास्तविक सौदा 1.3 बिलियन वॉन के दायरे में था, लेकिन स्वामित्व हस्तांतरण पंजीकरण से पहले होम मॉर्गेज उपलब्ध नहीं है। Yongsan Hoban Summit Edition की 105㎡ की एक इकाई 13 मई को 1.9816 बिलियन वॉन में पेश होगी। Korea Economic Daily, hankyung.com, ने कहा कि कुछ इकाइयों पर वास्तविक निवास अनिवार्यता नहीं है और वे बाजार से लगभग 400 मिलियन से 1 बिलियन वॉन कम हैं।"
+      },
+      "id": {
+        "title": "Lelang Hunian Sisa di Seoul Tawarkan Unit 800-900 Juta Won Tanpa Wajib Tinggal",
+        "excerpt": "Menurut Korea Economic Daily pada 12 Mei 2026, unit langganan tanpa urutan di Seodaemun dan Dongdaemun, Seoul, menarik perhatian karena harganya di bawah pasar dan tidak memiliki kewajiban tinggal atau hanya bersyarat.",
+        "body": "Korea Economic Daily melaporkan pada 12 Mei 2026, mengutip Cheongyak Home milik Korea Real Estate Board, bahwa unit langganan tanpa urutan akan ditawarkan di distrik Seodaemun, Dongdaemun, dan Yongsan, Seoul. Unit 59㎡ di DMC Gajaeul IPARK, Namgajwa-dong, Seodaemun, menerima aplikasi pada 18 Mei sebagai pasokan khusus pembeli rumah pertama, dengan harga 856,9 juta won. Hak prapenjualan untuk ukuran yang sama diperdagangkan pada September lalu seharga 1,0754 miliar won, sementara harga sekitar berada di kisaran 1,2 miliar won. Satu unit 74㎡ di Raemian La Grande, Imun-dong, Dongdaemun, ditawarkan sebagai pasokan khusus bagi rumah tangga yang menanggung orang tua lanjut usia seharga 958 juta won. Transaksi terakhir tahun lalu berada di kisaran 1,3 miliar won, tetapi pinjaman hipotek tidak tersedia sebelum pendaftaran pengalihan kepemilikan. Satu unit 105㎡ di Yongsan Hoban Summit Edition akan ditawarkan pada 13 Mei seharga 1,9816 miliar won. Korea Economic Daily, hankyung.com, menyebut beberapa unit tidak memiliki kewajiban tinggal dan sekitar 400 juta hingga 1 miliar won lebih rendah dari harga pasar."
+      }
+    }
+  },
+  {
+    "id": "94f3d565315c",
+    "slug": "서울-도봉경기-수원-등-든든전세-1200가구-공급-288256",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T13:20:41.346Z",
+    "updatedAt": "2026-05-12T13:20:41.346Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051215981",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051215981",
+    "titleFingerprint": "993533318f1f63e60a3c592759d700749222cbd8",
+    "dedupKeys": [
+      "94f3d565315c8bf17e3e0b4cb179092ba6323939",
+      "993533318f1f63e60a3c592759d700749222cbd8",
+      "2db8252988436888830b3db8edca4ecad2588d27"
+    ],
+    "imageUrl": "/images/articles/94f3d565315c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "든든전세주택 1253가구 공급, 서울 도봉·경기 수원 무주택자 주목",
+        "excerpt": "LH는 5월 서울 도봉·중랑·노원, 경기 수원·시흥 등 수도권에 든든전세주택 1253가구를 공급하며 무주택자의 장기 거주 선택지를 넓힌다.",
+        "body": "한국토지주택공사(LH)는 5월 서울·경기·인천 등 수도권에 든든전세주택 1253가구를 공급한다고 밝혔다. 서울은 도봉구·중랑구·노원구 등 103가구, 인천은 72가구, 경기는 수원·시흥·고양·김포 등을 포함해 1078가구다. 경기 남부와 북부 공고는 5월 21일, 서울은 5월 22일, 인천은 5월 28일 예정됐다. 든든전세주택은 주변 전세 시세의 90% 이하 수준으로 최장 8년 거주할 수 있는 공공전세 유형이다. 소득·자산 기준 없이 무주택자가 신청할 수 있어 지난해 서울 평균 경쟁률 315대 1, 경기 16.6대 1을 기록했다. 신생아 가구는 2점, 유자녀 가구는 자녀 수에 따라 1~3점, 예비신혼부부도 배점을 받는다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Dundeun Jeonse Homes: 1,253 Units in Seoul Dobong and Suwon",
+        "excerpt": "LH will supply 1,253 Dundeun Jeonse public rental homes in May across Seoul, Incheon and Gyeonggi, including Dobong and Suwon, for eligible non-homeowners.",
+        "body": "Korea Land and Housing Corporation (LH) said it will supply 1,253 Dundeun Jeonse homes in the Seoul metropolitan area in May. The supply includes 103 units in Seoul, such as Dobong, Jungnang and Nowon; 72 in Incheon; and 1,078 in Gyeonggi, including Suwon, Siheung, Goyang and Gimpo. Notices are scheduled for southern and northern Gyeonggi on May 21, Seoul on May 22 and Incheon on May 28. Dundeun Jeonse is a public lease type that allows residents to live for up to eight years at deposits no higher than 90% of nearby jeonse market levels. Non-homeowners may apply regardless of income or asset criteria. Last year, the average competition ratio reached 315 to 1 in Seoul and 16.6 to 1 in Gyeonggi. Newborn households receive 2 points, households with children receive 1 to 3 points, and prospective newlyweds also receive points. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "安心チョンセ住宅1253戸、ソウル道峰・京畿水原などで供給",
+        "excerpt": "LHは5月、ソウル道峰・中浪・蘆原、京畿道水原・始興など首都圏で安心チョンセ住宅1253戸を供給し、無住宅者の選択肢を広げる。",
+        "body": "韓国土地住宅公社（LH）は5月、ソウル・京畿・仁川など首都圏で安心チョンセ住宅1253戸を供給すると明らかにした。ソウルは道峰区・中浪区・蘆原区など103戸、仁川は72戸、京畿は水原・始興・高陽・金浦などを含む1078戸。京畿南部と北部の公告は5月21日、ソウルは5月22日、仁川は5月28日に予定されている。安心チョンセ住宅は周辺チョンセ相場の90％以下の水準で最長8年居住できる公共チョンセ類型だ。所得・資産基準なしに無住宅者が申請でき、昨年の平均競争率はソウル315倍、京畿16.6倍だった。新生児世帯は2点、子どものいる世帯は子どもの数により1～3点、予備新婚夫婦にも加点が認められる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "安心全租房1253户供应，首尔道峰和京畿水原等地受关注",
+        "excerpt": "LH将于5月在首尔道峰、中浪、芦原及京畿水原、始兴等首都圈供应1253户安心全租房，为无房家庭提供长期居住选择。",
+        "body": "韩国土地住宅公社（LH）表示，5月将在首尔、京畿、仁川等首都圈供应1253户安心全租房。其中首尔道峰区、中浪区、芦原区等为103户，仁川72户，京畿包括水原、始兴、高阳、金浦等共1078户。京畿南部和北部公告预定为5月21日，首尔为5月22日，仁川为5月28日。安心全租房是一种公共全租类型，保证金不高于周边全租行情的90%，最长可居住8年。无房者可申请，不设收入和资产标准。去年首尔平均竞争率为315比1，京畿为16.6比1。新生儿家庭加2分，有子女家庭按子女数加1至3分，准新婚夫妇也可获得加分。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Dundeun Jeonse suma 1.253 viviendas en Dobong, Seúl, y Suwon",
+        "excerpt": "LH suministrará en mayo 1.253 viviendas públicas Dundeun Jeonse en Seúl, Incheon y Gyeonggi, incluidas Dobong y Suwon, para solicitantes sin vivienda.",
+        "body": "Korea Land and Housing Corporation (LH) informó que en mayo suministrará 1.253 viviendas Dundeun Jeonse en el área metropolitana de Seúl, Gyeonggi e Incheon. La oferta incluye 103 unidades en Seúl, como Dobong, Jungnang y Nowon; 72 en Incheon; y 1.078 en Gyeonggi, incluidas Suwon, Siheung, Goyang y Gimpo. Los avisos están previstos para el sur y norte de Gyeonggi el 21 de mayo, Seúl el 22 de mayo e Incheon el 28 de mayo. Dundeun Jeonse es un tipo de alquiler público que permite residir hasta ocho años con un depósito de hasta el 90% del precio jeonse de la zona. Pueden solicitarlo personas sin vivienda, sin criterios de ingresos ni activos. El año pasado la competencia media fue de 315 a 1 en Seúl y 16,6 a 1 en Gyeonggi. Los hogares con recién nacidos reciben 2 puntos, los hogares con hijos 1 a 3 puntos y las parejas prenupciales también reciben puntuación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Dundeun Jeonse terá 1.253 unidades em Dobong, Seul, e Suwon",
+        "excerpt": "A LH fornecerá em maio 1.253 moradias públicas Dundeun Jeonse em Seul, Incheon e Gyeonggi, incluindo Dobong e Suwon, para famílias sem casa própria.",
+        "body": "A Korea Land and Housing Corporation (LH) informou que fornecerá em maio 1.253 unidades Dundeun Jeonse na região metropolitana, incluindo Seul, Gyeonggi e Incheon. A oferta inclui 103 unidades em Seul, como Dobong, Jungnang e Nowon; 72 em Incheon; e 1.078 em Gyeonggi, incluindo Suwon, Siheung, Goyang e Gimpo. Os avisos estão previstos para o sul e o norte de Gyeonggi em 21 de maio, Seul em 22 de maio e Incheon em 28 de maio. O Dundeun Jeonse é uma modalidade pública de aluguel que permite morar por até oito anos com depósito de até 90% do valor de mercado jeonse local. Pessoas sem imóvel podem se candidatar sem critérios de renda ou patrimônio. No ano passado, a concorrência média foi de 315 para 1 em Seul e 16,6 para 1 em Gyeonggi. Famílias com recém-nascidos recebem 2 pontos, famílias com filhos recebem de 1 a 3 pontos, e noivos também recebem pontuação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Dundeun-Jeonse: 1.253 Wohnungen in Seoul-Dobong und Suwon",
+        "excerpt": "LH stellt im Mai 1.253 Dundeun-Jeonse-Wohnungen in Seoul, Incheon und Gyeonggi bereit, darunter Dobong und Suwon, für Haushalte ohne Wohneigentum.",
+        "body": "Die Korea Land and Housing Corporation (LH) teilte mit, dass sie im Mai 1.253 Dundeun-Jeonse-Wohnungen im Großraum Seoul, Gyeonggi und Incheon bereitstellt. Dazu gehören 103 Einheiten in Seoul, etwa in Dobong, Jungnang und Nowon, 72 in Incheon und 1.078 in Gyeonggi, darunter Suwon, Siheung, Goyang und Gimpo. Die Bekanntmachungen sind für Süd- und Nord-Gyeonggi am 21. Mai, Seoul am 22. Mai und Incheon am 28. Mai geplant. Dundeun Jeonse ist eine öffentliche Mietform, bei der Bewohner bis zu acht Jahre zu einer Kaution von höchstens 90% des lokalen Jeonse-Marktniveaus wohnen können. Bewerben können sich Nicht-Eigentümer ohne Einkommens- oder Vermögenskriterien. Im vergangenen Jahr lag die durchschnittliche Konkurrenzquote bei 315 zu 1 in Seoul und 16,6 zu 1 in Gyeonggi. Haushalte mit Neugeborenen erhalten 2 Punkte, Haushalte mit Kindern je nach Kinderzahl 1 bis 3 Punkte, auch angehende Ehepaare erhalten Punkte. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Dundeun Jeonse: 1 253 logements à Dobong, Séoul, et Suwon",
+        "excerpt": "LH fournira en mai 1 253 logements publics Dundeun Jeonse à Séoul, Incheon et Gyeonggi, dont Dobong et Suwon, pour les ménages sans logement détenu.",
+        "body": "Korea Land and Housing Corporation (LH) a annoncé qu’elle fournirait en mai 1 253 logements Dundeun Jeonse dans la région métropolitaine de Séoul, Gyeonggi et Incheon. L’offre comprend 103 unités à Séoul, notamment à Dobong, Jungnang et Nowon, 72 à Incheon et 1 078 à Gyeonggi, dont Suwon, Siheung, Goyang et Gimpo. Les avis sont prévus le 21 mai pour le sud et le nord de Gyeonggi, le 22 mai pour Séoul et le 28 mai pour Incheon. Dundeun Jeonse est un type de location publique permettant de vivre jusqu’à huit ans avec un dépôt n’excédant pas 90% du niveau jeonse local. Les personnes sans logement peuvent candidater sans critères de revenu ni d’actifs. L’an dernier, le ratio moyen de concurrence était de 315 pour 1 à Séoul et de 16,6 pour 1 à Gyeonggi. Les ménages avec nouveau-né reçoivent 2 points, ceux avec enfants 1 à 3 points, et les futurs mariés obtiennent aussi des points. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مساكن دوندون جونسي: 1253 وحدة في دوبونغ بسول وسوون",
+        "excerpt": "تطرح LH في مايو 1253 وحدة من مساكن دوندون جونسي العامة في سول وإنتشون وكيونغي، بما في ذلك دوبونغ وسوون، للمتقدمين من غير مالكي المساكن.",
+        "body": "قالت مؤسسة الأراضي والإسكان الكورية LH إنها ستوفر في مايو 1253 وحدة من مساكن دوندون جونسي في منطقة العاصمة، بما يشمل سول وكيونغي وإنتشون. وتشمل الحصة 103 وحدات في سول، مثل دوبونغ وجونغنانغ ونوون، و72 وحدة في إنتشون، و1078 وحدة في كيونغي، بما في ذلك سوون وسيهونغ وغويانغ وغيمبو. ومن المقرر نشر الإعلانات لجنوب وشمال كيونغي في 21 مايو، ولسول في 22 مايو، ولإنتشون في 28 مايو. دوندون جونسي هو نوع من الإيجار العام يتيح السكن حتى ثماني سنوات بضمان لا يتجاوز 90% من مستوى جونسي المحلي. ويمكن لغير مالكي المساكن التقدم من دون معايير دخل أو أصول. في العام الماضي بلغ متوسط المنافسة 315 إلى 1 في سول و16.6 إلى 1 في كيونغي. تحصل أسر المواليد الجدد على نقطتين، والأسر ذات الأطفال على 1 إلى 3 نقاط حسب العدد، كما تُمنح نقاط للمقبلين على الزواج. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "डुन्डुन जोंसे की 1,253 इकाइयां, सियोल डोबोंग और सुवोन शामिल",
+        "excerpt": "LH मई में सियोल, इंचियोन और ग्योंगगी में 1,253 डुन्डुन जोंसे सार्वजनिक आवास उपलब्ध कराएगा, जिनमें डोबोंग और सुवोन भी शामिल हैं।",
+        "body": "कोरिया लैंड एंड हाउसिंग कॉरपोरेशन (LH) ने कहा कि वह मई में सियोल, ग्योंगगी और इंचियोन सहित राजधानी क्षेत्र में 1,253 डुन्डुन जोंसे आवास उपलब्ध कराएगा। इसमें सियोल के डोबोंग, जुंगनांग और नोवोन आदि में 103 इकाइयां, इंचियोन में 72 इकाइयां और ग्योंगगी में सुवोन, सिहुंग, गोयांग और गिम्पो सहित 1,078 इकाइयां शामिल हैं। दक्षिण और उत्तर ग्योंगगी की अधिसूचना 21 मई, सियोल की 22 मई और इंचियोन की 28 मई को निर्धारित है। डुन्डुन जोंसे सार्वजनिक जोंसे आवास का प्रकार है, जिसमें आसपास के जोंसे बाजार स्तर के 90% या उससे कम जमा पर अधिकतम 8 साल रहा जा सकता है। आय या संपत्ति मानदंड के बिना बेघर आवेदक आवेदन कर सकते हैं। पिछले वर्ष औसत प्रतिस्पर्धा सियोल में 315:1 और ग्योंगगी में 16.6:1 रही। नवजात शिशु वाले परिवारों को 2 अंक, बच्चों वाले परिवारों को बच्चों की संख्या के अनुसार 1 से 3 अंक, और भावी नवविवाहितों को भी अंक मिलते हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Dundeun Jeonse 1.253 Unit, Seoul Dobong dan Suwon Jadi Fokus",
+        "excerpt": "LH akan memasok 1.253 rumah publik Dundeun Jeonse pada Mei di Seoul, Incheon, dan Gyeonggi, termasuk Dobong dan Suwon, bagi warga tanpa rumah.",
+        "body": "Korea Land and Housing Corporation (LH) menyatakan akan memasok 1.253 unit Dundeun Jeonse pada Mei di kawasan metropolitan, termasuk Seoul, Gyeonggi, dan Incheon. Rinciannya adalah 103 unit di Seoul, seperti Dobong, Jungnang, dan Nowon; 72 unit di Incheon; serta 1.078 unit di Gyeonggi, termasuk Suwon, Siheung, Goyang, dan Gimpo. Pengumuman untuk Gyeonggi selatan dan utara dijadwalkan pada 21 Mei, Seoul pada 22 Mei, dan Incheon pada 28 Mei. Dundeun Jeonse adalah jenis sewa publik yang memungkinkan penghuni tinggal hingga delapan tahun dengan deposit tidak lebih dari 90% tingkat jeonse sekitar. Warga tanpa rumah dapat mendaftar tanpa kriteria pendapatan atau aset. Tahun lalu, rasio persaingan rata-rata mencapai 315 banding 1 di Seoul dan 16,6 banding 1 di Gyeonggi. Rumah tangga dengan bayi baru lahir mendapat 2 poin, keluarga dengan anak mendapat 1 hingga 3 poin, dan calon pengantin juga mendapat poin. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "58bfc7541629",
+    "slug": "세입자-낀-모든-주택-연말까지-팔-수-있다-709811",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T13:17:47.659Z",
+    "updatedAt": "2026-05-12T13:17:47.659Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051218021",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051218021",
+    "titleFingerprint": "dbf6d142aa0489eefa3b424a8e89f6a70d70f169",
+    "dedupKeys": [
+      "58bfc7541629dd2179e713f0dd2c31ff67a02953",
+      "dbf6d142aa0489eefa3b424a8e89f6a70d70f169",
+      "978838ce81dd0278be52ed3b0c2c30d9950dc66f"
+    ],
+    "imageUrl": "/images/articles/58bfc7541629.png",
+    "i18n": {
+      "ko": {
+        "title": "세입자 낀 모든 주택, 연말까지 토허구역 실거주 유예로 매도 가능",
+        "excerpt": "정부가 5월 12일 토지거래허가구역 내 세입자 있는 모든 주택에 대해 무주택 매수자 실거주 의무를 연말 허가 신청분까지 한시 유예하기로 했다.",
+        "body": "정부는 5월 12일 토지거래허가구역에서 세입자가 있는 모든 주택을 연말까지 팔 수 있도록 매수자의 실거주 의무를 한시 유예한다고 밝혔다. 대상은 발표일 현재 임대차계약이 있는 다주택자 보유 주택과 비거주 1주택 모두이며, 매수자는 발표일부터 계속 무주택을 유지한 사람으로 제한된다. 토지거래허가를 12월 31일까지 신청해 허가를 받고, 허가 뒤 4개월 안에 취득 절차를 마쳐야 한다. 실거주는 임대차계약 종료일까지 미뤄지지만 이후 2년 거주 의무는 유지된다. 정부는 갭투자 허용이 아니라고 설명했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Tenant-Occupied Homes in Permit Zones Can Be Sold by Year-End Under Residency Deferral",
+        "excerpt": "On May 12, the government said all tenant-occupied homes in land transaction permit zones may qualify for a temporary residency deferral for homeless buyers through year-end permit applications.",
+        "body": "The government announced on May 12 that it will temporarily defer the owner-occupancy requirement so all tenant-occupied homes in land transaction permit zones can be sold by year-end. The measure covers both homes owned by multiple-home owners and non-resident single-home owners if a lease existed on the announcement date. Buyers are limited to people who have remained homeless since the announcement date. They must apply for a land transaction permit by December 31, receive approval, and complete acquisition procedures within four months of approval. Occupancy may be delayed until the lease ends, but the two-year residency duty remains afterward. The government said this is not permission for gap investment. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "借家人付き住宅すべて、年末まで土地取引許可区域で売却可能に",
+        "excerpt": "政府は5月12日、土地取引許可区域内の借家人付き全住宅について、無住宅の買主の実居住義務を年末申請分まで一時猶予すると発表した。",
+        "body": "政府は5月12日、土地取引許可区域で借家人がいるすべての住宅を年末まで売却できるよう、買主の実居住義務を一時的に猶予すると発表した。対象は発表日時点で賃貸借契約がある多住宅保有者の住宅と、非居住の1住宅保有者の住宅の双方だ。買主は発表日から継続して無住宅を維持している人に限られる。12月31日までに土地取引許可を申請して許可を受け、許可後4カ月以内に取得手続きを終える必要がある。実居住は賃貸借契約終了日まで先送りできるが、その後2年間の居住義務は維持される。政府はギャップ投資の容認ではないと説明した。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "带租约住宅年底前可出售，土地交易许可区实住义务暂缓",
+        "excerpt": "韩国政府5月12日宣布，对土地交易许可区内所有带租约住宅，暂缓无房买家的实住义务，适用于年底前提交许可申请的交易。",
+        "body": "韩国政府5月12日表示，将临时暂缓买方实住义务，使土地交易许可区内所有有租客住宅可在年底前出售。适用对象包括公告日已有租赁合同的多套房持有者住宅，以及非自住的一套房持有者住宅。买方限定为自公告日起持续保持无房状态的人。交易须在12月31日前申请土地交易许可并获批，且在获批后4个月内完成取得手续。买方可将入住推迟至租赁合同结束日，但之后仍需履行2年实住义务。政府说明称，此举并非允许“租金差额投资”。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Viviendas con inquilinos podrán venderse hasta fin de año en zonas con permiso",
+        "excerpt": "El Gobierno anunció el 12 de mayo que aplazará temporalmente la obligación de residencia para compradores sin vivienda en todas las casas con inquilinos de zonas con permiso de transacción.",
+        "body": "El Gobierno anunció el 12 de mayo que aplazará temporalmente la obligación de residencia del comprador para que todas las viviendas con inquilinos en zonas sujetas a permiso de transacción de suelo puedan venderse hasta fin de año. La medida cubre viviendas de multipropietarios y de propietarios de una sola vivienda no residentes si tenían contrato de arrendamiento en la fecha del anuncio. El comprador debe haber mantenido la condición de no propietario desde ese día. Debe solicitar el permiso antes del 31 de diciembre, obtenerlo y completar la adquisición dentro de los cuatro meses posteriores. La residencia puede diferirse hasta el fin del contrato de alquiler, pero luego sigue vigente la obligación de vivir allí dos años. El Gobierno dijo que no autoriza inversión tipo gap. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Imóveis com inquilinos poderão ser vendidos até o fim do ano em zonas licenciadas",
+        "excerpt": "O governo anunciou em 12 de maio que adiará temporariamente a exigência de residência para compradores sem imóvel em todas as casas com inquilinos nas zonas de permissão.",
+        "body": "O governo anunciou em 12 de maio que vai adiar temporariamente a obrigação de residência do comprador para permitir a venda, até o fim do ano, de todos os imóveis com inquilinos em zonas sujeitas a permissão de transação de terras. A medida vale para imóveis de proprietários com várias casas e de proprietários de uma única casa não residente, desde que houvesse contrato de aluguel na data do anúncio. O comprador deve ter permanecido sem imóvel desde essa data. É preciso solicitar a permissão até 31 de dezembro, obter aprovação e concluir a aquisição em até quatro meses. A moradia pode ser adiada até o fim do contrato de aluguel, mas depois continua a obrigação de residir por dois anos. O governo disse que isso não libera investimento por gap. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Vermietete Wohnungen in Genehmigungszonen bis Jahresende verkaufbar",
+        "excerpt": "Die Regierung kündigte am 12. Mai an, die Eigennutzungspflicht für wohnungslose Käufer bei allen vermieteten Häusern in Landtransaktions-Genehmigungszonen bis Jahresende auszusetzen.",
+        "body": "Die Regierung teilte am 12. Mai mit, dass sie die Eigennutzungspflicht für Käufer vorübergehend aufschiebt, damit alle vermieteten Wohnungen in Landtransaktions-Genehmigungszonen bis Jahresende verkauft werden können. Erfasst sind Wohnungen von Mehrfacheigentümern sowie nicht selbst bewohnte Einfamilien-Eigentümerwohnungen, sofern am Ankündigungstag ein Mietvertrag bestand. Käufer müssen seit diesem Tag durchgehend wohnungslos geblieben sein. Der Antrag auf Landtransaktionsgenehmigung muss bis zum 31. Dezember gestellt und genehmigt werden; danach ist der Erwerb binnen vier Monaten abzuschließen. Der Einzug kann bis zum Ende des Mietvertrags verschoben werden, die anschließende zweijährige Wohnpflicht bleibt bestehen. Die Regierung erklärte, dies sei keine Freigabe von Gap-Investitionen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Logements occupés par des locataires vendables jusqu’à fin d’année en zone autorisée",
+        "excerpt": "Le 12 mai, le gouvernement a annoncé le report temporaire de l’obligation de résidence pour les acheteurs sans logement de tous les biens loués en zones soumises à permis.",
+        "body": "Le gouvernement a annoncé le 12 mai qu’il reporterait temporairement l’obligation de résidence de l’acheteur afin de permettre la vente, jusqu’à la fin de l’année, de tous les logements occupés par des locataires dans les zones soumises à autorisation de transaction foncière. La mesure vise les biens de multipropriétaires et ceux de propriétaires d’un seul logement non résident, s’il existait un bail à la date de l’annonce. L’acheteur doit être resté sans logement depuis cette date. Il faut déposer la demande d’autorisation avant le 31 décembre, l’obtenir, puis finaliser l’acquisition dans les quatre mois. L’entrée dans les lieux peut être différée jusqu’à la fin du bail, mais l’obligation d’y résider deux ans demeure ensuite. Le gouvernement précise qu’il ne s’agit pas d’autoriser l’investissement par écart locatif. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "بيع كل المساكن المؤجرة حتى نهاية العام في مناطق تصاريح تداول الأراضي",
+        "excerpt": "أعلنت الحكومة في 12 مايو تأجيل واجب السكن الفعلي مؤقتا للمشترين بلا مسكن عند شراء كل المساكن التي تضم مستأجرين في مناطق تصاريح تداول الأراضي.",
+        "body": "أعلنت الحكومة في 12 مايو أنها ستؤجل مؤقتا واجب السكن الفعلي على المشتري، بما يسمح ببيع جميع المساكن التي تضم مستأجرين داخل مناطق تصاريح تداول الأراضي حتى نهاية العام. يشمل القرار مساكن مالكي عدة منازل ومساكن مالكي منزل واحد غير مقيمين، إذا كان عقد الإيجار قائما في يوم الإعلان. ويقتصر المشتري على من ظل بلا مسكن منذ تاريخ الإعلان. يجب تقديم طلب تصريح تداول الأرض بحلول 31 ديسمبر والحصول على الموافقة، ثم إتمام إجراءات التملك خلال أربعة أشهر من الموافقة. يمكن تأجيل السكن حتى انتهاء عقد الإيجار، لكن واجب الإقامة لمدة عامين بعد ذلك يبقى قائما. وأوضحت الحكومة أن الإجراء لا يعني السماح باستثمار الفجوة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "किरायेदार वाले सभी घर साल के अंत तक बिक सकेंगे, वास्तविक निवास नियम टला",
+        "excerpt": "सरकार ने 12 मई को कहा कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले सभी घरों के लिए बेघर खरीदारों की वास्तविक निवास बाध्यता साल के अंत तक अस्थायी रूप से टाली जाएगी।",
+        "body": "सरकार ने 12 मई को घोषणा की कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले सभी घर साल के अंत तक बेचे जा सकें, इसके लिए खरीदार की वास्तविक निवास बाध्यता अस्थायी रूप से टाली जाएगी। यह उपाय घोषणा की तारीख पर किराया अनुबंध वाले बहु-घर मालिकों और गैर-निवासी एक-घर मालिकों, दोनों की संपत्तियों पर लागू होगा। खरीदार वही हो सकता है जिसने घोषणा के दिन से लगातार बेघर स्थिति बनाए रखी हो। भूमि लेनदेन अनुमति के लिए 31 दिसंबर तक आवेदन कर मंजूरी लेनी होगी और मंजूरी के चार महीने के भीतर अधिग्रहण प्रक्रिया पूरी करनी होगी। वास्तविक निवास किराया अनुबंध समाप्त होने तक टल सकता है, लेकिन उसके बाद दो साल रहने की बाध्यता बनी रहेगी। सरकार ने कहा कि यह गैप निवेश की अनुमति नहीं है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Rumah Berpenyewa Bisa Dijual hingga Akhir Tahun di Zona Izin Transaksi Tanah",
+        "excerpt": "Pemerintah pada 12 Mei mengumumkan penundaan sementara kewajiban tinggal bagi pembeli tanpa rumah untuk semua hunian berpenyewa di zona izin transaksi tanah hingga permohonan akhir tahun.",
+        "body": "Pemerintah mengumumkan pada 12 Mei bahwa kewajiban tinggal pembeli akan ditunda sementara agar semua rumah berpenyewa di zona izin transaksi tanah dapat dijual hingga akhir tahun. Kebijakan ini mencakup rumah milik pemilik banyak hunian dan pemilik satu hunian yang tidak tinggal di sana, jika kontrak sewa sudah ada pada tanggal pengumuman. Pembeli dibatasi pada orang yang terus berstatus tidak memiliki rumah sejak tanggal tersebut. Permohonan izin transaksi tanah harus diajukan paling lambat 31 Desember, disetujui, lalu proses akuisisi diselesaikan dalam empat bulan setelah izin. Kewajiban tinggal dapat ditunda sampai kontrak sewa berakhir, tetapi kewajiban tinggal dua tahun setelahnya tetap berlaku. Pemerintah menyatakan ini bukan izin untuk investasi gap. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "aba2e4fb5e57",
     "slug": "여의도까지-30분이면-간다gtx-호재에-들썩이는-동네-459653",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Pembelian Hunian Non-Apartemen di Seoul Naik Saat Harga Apartemen Membebani Pembeli",
         "excerpt": "Pada kuartal I 2024, pembeli usia 30-an mencakup 18,9% pembelian hunian non-apartemen di Seoul. Harga apartemen tinggi dan pinjaman berbunga rendah mendorong minat ke rumah dan vila.",
         "body": "Pada kuartal pertama 2024, porsi pembeli usia 30-an yang membeli hunian non-apartemen di Seoul, termasuk rumah tunggal, rumah multikeluarga, rumah deret, dan vila, meningkat tajam. Menurut Woori Bank Wealth Management Consulting Center, kelompok ini mencakup 18,9% pembeli, kedua setelah usia 50-an sebesar 22,5%. Angka itu melampaui usia 40-an sebesar 18,4% dan usia 60-an sebesar 16,3%, naik dari 14,8% pada kuartal pertama tahun sebelumnya. Faktor yang disebutkan meliputi beban harga apartemen, persepsi bahwa harga hunian non-apartemen berada di titik rendah, pencabutan status kawasan regulasi, pelonggaran aturan redevelopment, serta pinjaman khusus bayi baru lahir berbunga rendah yang dimulai pada Januari 2024. Pembelian oleh usia 30-an dan 40-an terkonsentrasi di Seocho, Seodaemun, Yongsan, dan Dongjak, kawasan yang nyaman untuk perjalanan kerja. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "886a4697817b",
-    "slug": "美-ai-밀물에-노젓는-반도체-인텔-amd-뛰고-k칩-3사-날아올라-373602",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T21:24:33.004Z",
-    "updatedAt": "2026-05-11T21:24:33.004Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902419/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133902419/2",
-    "titleFingerprint": "f277949c5232959477d35d8b40a5a0e286df57ab",
-    "dedupKeys": [
-      "886a4697817b8b9cf00c6550424702d09ea8d293",
-      "f277949c5232959477d35d8b40a5a0e286df57ab",
-      "fe4516bf6a72f94e194b9a2d9a88bd9b05cb223f"
-    ],
-    "imageUrl": "/images/articles/886a4697817b.png",
-    "i18n": {
-      "ko": {
-        "title": "미 AI 투자 열풍에 반도체주 급등, 코스피 7,822 사상 최고치",
-        "excerpt": "11일 미국 AI 투자 확대 기대 속에 삼성전자·SK하이닉스 등 한국 반도체 대형주가 급등하며 코스피가 7,822.24로 사상 최고치를 경신했다.",
-        "body": "11일 한국 증시는 미국 인공지능(AI) 투자 열풍과 글로벌 반도체 기업의 실적 기대를 배경으로 반도체주가 급등하며 코스피 8,000선에 바짝 다가섰다. 코스피는 전 거래일보다 4.32% 오른 7,822.24로 마감해 사상 최고치를 새로 썼다. 삼성전자(+6.33%), SK하이닉스(+11.51%), SK스퀘어(+8.11%), 삼성전자 우선주(+6.68%) 등 시가총액 상위 반도체주가 나란히 신고가를 기록했다. 반도체 3대 대형주의 코스피 비중은 51.8%로 집계됐다. JP모건은 코스피 목표 지수를 1만으로 올렸지만, 하락 종목이 상승 종목의 약 5배에 달해 증시 양극화도 뚜렷해졌다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Semiconductor Stocks Surge on U.S. AI Investment, KOSPI Hits Record 7,822",
-        "excerpt": "On the 11th, Korean chip leaders including Samsung Electronics and SK hynix jumped on U.S. AI investment momentum, lifting the KOSPI to a record 7,822.24.",
-        "body": "On the 11th, Korean stocks moved close to the 8,000 level as semiconductor shares surged on the U.S. artificial intelligence investment boom and expectations for strong global chip earnings. The KOSPI closed at 7,822.24, up 4.32% from the previous session, setting a new record high. Major chip-related names by market value also reached fresh highs, including Samsung Electronics (+6.33%), SK hynix (+11.51%), SK Square (+8.11%) and Samsung Electronics preferred shares (+6.68%). The three largest semiconductor stocks accounted for 51.8% of the KOSPI. JPMorgan raised its KOSPI target to 10,000, but market polarization also deepened as declining stocks outnumbered advancers by about five to one. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "米AI投資ブームで半導体株急騰、KOSPIは7,822の最高値",
-        "excerpt": "11日、米国のAI投資拡大期待を背景にサムスン電子やSKハイニックスなど韓国半導体大型株が急伸し、KOSPIは7,822.24で最高値を更新した。",
-        "body": "11日の韓国株式市場では、米国の人工知能（AI）投資ブームと世界的な半導体企業の好業績期待を背景に半導体株が急騰し、KOSPIは8,000台目前に迫った。KOSPIは前取引日比4.32%高の7,822.24で引け、過去最高値を更新した。サムスン電子（+6.33%）、SKハイニックス（+11.51%）、SKスクエア（+8.11%）、サムスン電子優先株（+6.68%）など、時価総額上位の半導体関連大型株がそろって新高値を付けた。半導体3大大型株のKOSPI構成比は51.8%だった。JPモルガンはKOSPI目標を1万に引き上げた一方、下落銘柄は上昇銘柄の約5倍に達し、市場の二極化も鮮明になった。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "美国AI投资热推升半导体股，KOSPI创7,822点新高",
-        "excerpt": "11日，在美国AI投资热潮带动下，三星电子、SK海力士等韩国半导体龙头大涨，KOSPI收于7,822.24点并刷新历史高位。",
-        "body": "11日，韩国股市在美国人工智能（AI）投资热潮和全球半导体企业业绩预期推动下，半导体股大幅上涨，KOSPI逼近8,000点。KOSPI较前一交易日上涨4.32%，收于7,822.24点，刷新历史最高纪录。三星电子（+6.33%）、SK海力士（+11.51%）、SK Square（+8.11%）、三星电子优先股（+6.68%）等市值居前的半导体大型股同步创下新高。三大半导体大型股在KOSPI中的占比达51.8%。摩根大通将KOSPI目标上调至10,000点，但下跌个股约为上涨个股的5倍，市场分化也更加明显。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "El auge de la IA en EE. UU. impulsa chips y lleva al KOSPI a 7.822",
-        "excerpt": "El día 11, Samsung Electronics, SK hynix y otros grandes valores coreanos de semiconductores subieron por el impulso inversor en IA de EE. UU., y el KOSPI marcó 7.822,24.",
-        "body": "El día 11, la bolsa coreana se acercó al nivel de 8.000 puntos después de que las acciones de semiconductores subieran con fuerza por el auge de inversión en inteligencia artificial (IA) en Estados Unidos y las expectativas de sólidos resultados globales del sector. El KOSPI cerró en 7.822,24, un 4,32% más que en la sesión anterior, y renovó su máximo histórico. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) y las preferentes de Samsung Electronics (+6,68%) marcaron nuevos máximos. Los tres grandes valores de semiconductores representaron el 51,8% del KOSPI. JPMorgan elevó su objetivo para el índice a 10.000, aunque las acciones a la baja fueron unas cinco veces las alcistas, mostrando una mayor polarización. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Alta da IA nos EUA impulsiona chips e leva KOSPI ao recorde de 7.822",
-        "excerpt": "No dia 11, Samsung Electronics, SK hynix e outras grandes ações coreanas de semicondutores subiram com o impulso dos investimentos em IA nos EUA, levando o KOSPI a 7.822,24.",
-        "body": "No dia 11, o mercado acionário coreano se aproximou dos 8.000 pontos com a forte alta das ações de semicondutores, apoiada pela onda de investimentos em inteligência artificial (IA) nos Estados Unidos e pela expectativa de resultados elevados das empresas globais do setor. O KOSPI fechou em 7.822,24, alta de 4,32% ante o pregão anterior, renovando sua máxima histórica. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) e as ações preferenciais da Samsung Electronics (+6,68%) atingiram novos recordes. As três maiores ações de semicondutores responderam por 51,8% do KOSPI. O JPMorgan elevou sua meta para o índice a 10.000, mas as ações em queda foram cerca de cinco vezes as em alta, evidenciando maior polarização. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "US-KI-Boom treibt Chipwerte, KOSPI erreicht Rekord von 7.822 Punkten",
-        "excerpt": "Am 11. stiegen Samsung Electronics, SK hynix und weitere koreanische Chip-Schwergewichte im Sog der US-KI-Investitionen stark, der KOSPI schloss auf Rekordniveau bei 7.822,24.",
-        "body": "Am 11. näherte sich der koreanische Aktienmarkt der Marke von 8.000 Punkten, da Halbleiterwerte im Zuge des US-Investitionsbooms in künstliche Intelligenz (KI) und der Erwartungen starker globaler Branchenergebnisse deutlich zulegten. Der KOSPI schloss mit 7.822,24 Punkten um 4,32% höher als am Vortag und markierte ein neues Allzeithoch. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) und die Vorzugsaktien von Samsung Electronics (+6,68%) erreichten jeweils neue Höchststände. Die drei größten Halbleiterwerte machten 51,8% des KOSPI aus. JPMorgan erhöhte das Ziel für den Index auf 10.000, doch zugleich gab es etwa fünfmal so viele Verlierer wie Gewinner, was die Polarisierung am Markt verdeutlichte. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "L’essor de l’IA aux États-Unis dope les puces, le KOSPI atteint 7 822",
-        "excerpt": "Le 11, Samsung Electronics, SK hynix et d’autres grands titres coréens des semi-conducteurs ont bondi avec l’élan des investissements américains dans l’IA, portant le KOSPI à 7 822,24.",
-        "body": "Le 11, la Bourse coréenne s’est rapprochée du seuil de 8 000 points grâce à la forte hausse des valeurs des semi-conducteurs, portée par l’engouement pour l’investissement dans l’intelligence artificielle (IA) aux États-Unis et par les attentes de solides résultats mondiaux dans le secteur. Le KOSPI a clôturé à 7 822,24, en hausse de 4,32% par rapport à la séance précédente, inscrivant un nouveau record historique. Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%) et les actions préférentielles de Samsung Electronics (+6,68%) ont atteint de nouveaux sommets. Les trois plus grandes valeurs des semi-conducteurs représentaient 51,8% du KOSPI. JPMorgan a relevé son objectif pour l’indice à 10 000, mais les titres en baisse étaient environ cinq fois plus nombreux que les hausses, signe d’une polarisation accrue. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "طفرة استثمارات الذكاء الاصطناعي الأميركية ترفع أسهم الرقائق وكوسبي إلى 7,822",
-        "excerpt": "في 11 من الشهر، قفزت أسهم سامسونغ إلكترونيكس وSK هاينكس وغيرها من كبار مصنعي الرقائق في كوريا بدعم زخم استثمارات الذكاء الاصطناعي الأميركية، ليبلغ كوسبي 7,822.24.",
-        "body": "في 11 من الشهر، اقترب سوق الأسهم الكورية من مستوى 8,000 نقطة بعدما ارتفعت أسهم أشباه الموصلات بقوة، مدفوعة بطفرة الاستثمار في الذكاء الاصطناعي في الولايات المتحدة وتوقعات الأداء القوي لشركات الرقائق عالميا. وأغلق مؤشر كوسبي عند 7,822.24 نقطة، مرتفعا 4.32% عن الجلسة السابقة، مسجلا أعلى مستوى تاريخي. وحققت أسهم سامسونغ إلكترونيكس (+6.33%) وSK هاينكس (+11.51%) وSK سكوير (+8.11%) والأسهم الممتازة لسامسونغ إلكترونيكس (+6.68%) مستويات قياسية جديدة. وبلغ وزن أكبر ثلاث شركات أشباه موصلات في كوسبي 51.8%. ورفع جيه بي مورغان هدف المؤشر إلى 10,000، لكن الأسهم الهابطة بلغت نحو خمسة أضعاف الصاعدة، ما أبرز اتساع الاستقطاب في السوق. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "अमेरिकी AI निवेश उछाल से चिप शेयर चढ़े, KOSPI रिकॉर्ड 7,822 पर",
-        "excerpt": "11 तारीख को अमेरिकी AI निवेश की तेजी के बीच Samsung Electronics, SK hynix सहित कोरियाई सेमीकंडक्टर दिग्गजों में उछाल आया और KOSPI 7,822.24 के रिकॉर्ड स्तर पर बंद हुआ।",
-        "body": "11 तारीख को कोरियाई शेयर बाजार 8,000 अंक के करीब पहुंच गया, क्योंकि अमेरिकी कृत्रिम बुद्धिमत्ता (AI) निवेश उछाल और वैश्विक सेमीकंडक्टर कंपनियों के मजबूत प्रदर्शन की उम्मीदों से चिप शेयरों में तेज बढ़त आई। KOSPI पिछले सत्र से 4.32% बढ़कर 7,822.24 पर बंद हुआ और नया सर्वकालिक उच्च स्तर बनाया। बाजार पूंजीकरण में अग्रणी सेमीकंडक्टर शेयरों Samsung Electronics (+6.33%), SK hynix (+11.51%), SK Square (+8.11%) और Samsung Electronics preferred shares (+6.68%) ने नए उच्च स्तर छुए। तीन बड़े सेमीकंडक्टर शेयरों की KOSPI में हिस्सेदारी 51.8% रही। JPMorgan ने KOSPI लक्ष्य को 10,000 तक बढ़ाया, लेकिन गिरने वाले शेयर चढ़ने वालों से करीब पांच गुना रहे, जिससे बाजार में ध्रुवीकरण भी स्पष्ट हुआ। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Boom Investasi AI AS Dorong Saham Chip, KOSPI Cetak Rekor 7.822",
-        "excerpt": "Pada tanggal 11, saham besar semikonduktor Korea seperti Samsung Electronics dan SK hynix melonjak berkat momentum investasi AI AS, membawa KOSPI ke rekor 7.822,24.",
-        "body": "Pada tanggal 11, pasar saham Korea mendekati level 8.000 setelah saham semikonduktor melonjak, didorong demam investasi kecerdasan buatan (AI) di Amerika Serikat dan ekspektasi kinerja tinggi perusahaan chip global. KOSPI ditutup di 7.822,24, naik 4,32% dari sesi sebelumnya, sekaligus mencetak rekor tertinggi. Saham semikonduktor berkapitalisasi besar seperti Samsung Electronics (+6,33%), SK hynix (+11,51%), SK Square (+8,11%), dan saham preferen Samsung Electronics (+6,68%) sama-sama mencapai level tertinggi baru. Tiga saham semikonduktor terbesar menyumbang 51,8% dari KOSPI. JPMorgan menaikkan target KOSPI menjadi 10.000, tetapi jumlah saham yang turun sekitar lima kali saham yang naik, menunjukkan polarisasi pasar yang makin jelas. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "7d58131c80f3",
-    "slug": "온드림-글로벌-아카데미-수료-입학식-923052",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T21:23:25.586Z",
-    "updatedAt": "2026-05-11T21:23:25.586Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/People/article/all/20260512/133902361/2",
-    "canonicalUrl": "https://www.donga.com/news/People/article/all/20260512/133902361/2",
-    "titleFingerprint": "1c1fcf8aba453565f87d3344f2940e62558e807e",
-    "dedupKeys": [
-      "7d58131c80f3da679ea9b7221aafff8550c79ea4",
-      "1c1fcf8aba453565f87d3344f2940e62558e807e",
-      "b92cad25095e03d5a4a75cb5fc1da0437c9a5591"
-    ],
-    "imageUrl": "/images/articles/7d58131c80f3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "온드림 글로벌 아카데미 수료·입학식, 고려대서 9기·10기 한자리에",
-        "excerpt": "현대차 정몽구 재단과 고려대 일민국제관계연구원이 8일 서울 성북구 고려대에서 온드림 글로벌 아카데미 9기 수료식과 10기 입학식을 진행했다.",
-        "body": "온드림 글로벌 아카데미 9기 수료식과 10기 입학식이 8일 서울 성북구 고려대에서 열렸다. 행사에는 최재호 현대차 정몽구 재단 사무총장과 이재승 고려대 일민국제관계연구원 원장이 참석해 수료생 및 입학생들과 기념사진을 촬영했다. 이번 행사는 9기 과정을 마친 수료생과 새로 합류한 10기 입학생이 한자리에 모인 자리로 진행됐다. 현대차 정몽구 재단과 고려대 일민국제관계연구원이 함께한 이번 수료·입학식은 온드림 글로벌 아카데미의 기수 전환을 알리는 공식 행사로 기록됐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Ondream Global Academy Graduation and Entrance Ceremony Held at Korea University",
-        "excerpt": "The Hyundai Motor Chung Mong-Koo Foundation and Korea University’s Ilmin International Relations Institute held the Ondream Global Academy 9th graduation and 10th entrance ceremony on May 8 in Seoul.",
-        "body": "The graduation ceremony for the 9th class and entrance ceremony for the 10th class of Ondream Global Academy were held on May 8 at Korea University in Seongbuk-gu, Seoul. Choi Jae-ho, secretary general of the Hyundai Motor Chung Mong-Koo Foundation, and Lee Jae-seung, director of Korea University’s Ilmin International Relations Institute, attended and took a commemorative photo with graduates and incoming students. The event brought together those completing the 9th program and those entering the 10th class. The ceremony marked the official transition between cohorts for Ondream Global Academy. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "オンドリーム・グローバルアカデミー修了・入学式、高麗大で開催",
-        "excerpt": "現代自動車鄭夢九財団と高麗大学一民国際関係研究院は8日、ソウル市城北区の高麗大学で第9期修了式と第10期入学式を行った。",
-        "body": "オンドリーム・グローバルアカデミー第9期の修了式と第10期の入学式が8日、ソウル市城北区の高麗大学で開かれた。行事には現代自動車鄭夢九財団の崔在浩事務総長と、高麗大学一民国際関係研究院の李在承院長が出席し、修了生および入学生と記念撮影を行った。今回の式は、第9期課程を終えた修了生と新たに加わる第10期入学生が一堂に会する場として進められた。現代自動車鄭夢九財団と高麗大学一民国際関係研究院が共にした公式行事として、同アカデミーの期数交代を示した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "Ondream全球学院结业与入学仪式在高丽大学举行",
-        "excerpt": "现代汽车郑梦九财团与高丽大学一民国际关系研究院8日在首尔城北区高丽大学举行Ondream全球学院第9期结业式和第10期入学式。",
-        "body": "Ondream全球学院第9期结业式和第10期入学式于8日在首尔城北区高丽大学举行。现代汽车郑梦九财团秘书长崔在浩与高丽大学一民国际关系研究院院长李在承出席活动，并与第9期结业生和第10期入学生合影留念。本次活动是完成第9期课程的结业生与新加入的第10期入学生共同参与的仪式。现代汽车郑梦九财团和高丽大学一民国际关系研究院共同举办的此次结业与入学仪式，标志着Ondream全球学院新旧期数的正式衔接。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Ondream Global Academy celebra graduación e ingreso en la Universidad de Corea",
-        "excerpt": "La Fundación Hyundai Motor Chung Mong-Koo y el Instituto Ilmin de Relaciones Internacionales de la Universidad de Corea celebraron el 8 de mayo la graduación de la 9.ª promoción y el ingreso de la 10.ª.",
-        "body": "La ceremonia de graduación de la 9.ª promoción y de ingreso de la 10.ª promoción de Ondream Global Academy se celebró el 8 de mayo en la Universidad de Corea, en Seongbuk-gu, Seúl. Choi Jae-ho, secretario general de la Fundación Hyundai Motor Chung Mong-Koo, y Lee Jae-seung, director del Instituto Ilmin de Relaciones Internacionales de la Universidad de Corea, asistieron al acto y posaron para una foto con graduados y nuevos estudiantes. El evento reunió a quienes completaron la 9.ª promoción y a quienes ingresan en la 10.ª. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Ondream Global Academy realiza cerimônia de conclusão e ingresso na Korea University",
-        "excerpt": "A Fundação Hyundai Motor Chung Mong-Koo e o Instituto Ilmin de Relações Internacionais da Korea University realizaram em 8 de maio a cerimônia da 9ª turma e entrada da 10ª.",
-        "body": "A cerimônia de conclusão da 9ª turma e de ingresso da 10ª turma da Ondream Global Academy foi realizada em 8 de maio na Korea University, em Seongbuk-gu, Seul. Choi Jae-ho, secretário-geral da Fundação Hyundai Motor Chung Mong-Koo, e Lee Jae-seung, diretor do Instituto Ilmin de Relações Internacionais da Korea University, participaram do evento e tiraram uma foto comemorativa com concluintes e novos alunos. A cerimônia reuniu os participantes que concluíram a 9ª turma e os estudantes que ingressam na 10ª, marcando a transição oficial entre as turmas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Ondream Global Academy: Abschluss- und Aufnahmefeier an der Korea University",
-        "excerpt": "Die Hyundai Motor Chung Mong-Koo Foundation und das Ilmin Institute der Korea University veranstalteten am 8. Mai in Seoul die Abschlussfeier der 9. und Aufnahmefeier der 10. Gruppe.",
-        "body": "Die Abschlussfeier der 9. Gruppe und die Aufnahmefeier der 10. Gruppe der Ondream Global Academy fanden am 8. Mai an der Korea University im Bezirk Seongbuk-gu in Seoul statt. Choi Jae-ho, Generalsekretär der Hyundai Motor Chung Mong-Koo Foundation, und Lee Jae-seung, Direktor des Ilmin Institute of International Relations der Korea University, nahmen teil und machten ein Erinnerungsfoto mit Absolventen und neuen Teilnehmern. Die Veranstaltung brachte die Absolventen der 9. Gruppe und die neu eintretenden Teilnehmer der 10. Gruppe zusammen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Ondream Global Academy tient sa cérémonie de fin d’études et d’entrée à Korea University",
-        "excerpt": "La Hyundai Motor Chung Mong-Koo Foundation et l’Institut Ilmin des relations internationales de Korea University ont organisé le 8 mai la cérémonie de la 9e et de la 10e promotion.",
-        "body": "La cérémonie de fin d’études de la 9e promotion et d’entrée de la 10e promotion de l’Ondream Global Academy s’est tenue le 8 mai à Korea University, dans l’arrondissement de Seongbuk-gu à Séoul. Choi Jae-ho, secrétaire général de la Hyundai Motor Chung Mong-Koo Foundation, et Lee Jae-seung, directeur de l’Institut Ilmin des relations internationales de Korea University, ont participé à l’événement et pris une photo commémorative avec les diplômés et les nouveaux étudiants. La cérémonie a réuni les participants ayant terminé la 9e promotion et ceux entrant dans la 10e. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أكاديمية أوندريم العالمية تقيم حفل التخرج والقبول في جامعة كوريا",
-        "excerpt": "أقامت مؤسسة هيونداي موتور تشونغ مونغ-كو ومعهد إلمين للعلاقات الدولية بجامعة كوريا في 8 مايو حفل تخرج الدفعة التاسعة وقبول الدفعة العاشرة في سيول.",
-        "body": "أقيم حفل تخرج الدفعة التاسعة وحفل قبول الدفعة العاشرة من أكاديمية أوندريم العالمية في 8 مايو في جامعة كوريا بمنطقة سيونغبوك في سيول. حضر الحدث تشوي جاي-هو، الأمين العام لمؤسسة هيونداي موتور تشونغ مونغ-كو، ولي جاي-سونغ، مدير معهد إلمين للعلاقات الدولية في جامعة كوريا، والتقطا صورة تذكارية مع الخريجين والطلاب الجدد. جمع الحفل بين من أنهوا برنامج الدفعة التاسعة ومن انضموا إلى الدفعة العاشرة، مسجلا انتقالا رسميا بين الدفعات. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ऑनड्रीम ग्लोबल अकादमी का समापन और प्रवेश समारोह कोरिया विश्वविद्यालय में आयोजित",
-        "excerpt": "हुंडई मोटर चुंग मोंग-कू फाउंडेशन और कोरिया विश्वविद्यालय के इलमिन अंतरराष्ट्रीय संबंध संस्थान ने 8 मई को सियोल में 9वें बैच का समापन और 10वें बैच का प्रवेश समारोह आयोजित किया।",
-        "body": "ऑनड्रीम ग्लोबल अकादमी के 9वें बैच का समापन समारोह और 10वें बैच का प्रवेश समारोह 8 मई को सियोल के सेओंगबुक-गु स्थित कोरिया विश्वविद्यालय में आयोजित हुआ। हुंडई मोटर चुंग मोंग-कू फाउंडेशन के महासचिव चोई जे-हो और कोरिया विश्वविद्यालय के इलमिन अंतरराष्ट्रीय संबंध संस्थान के निदेशक ली जे-सुंग ने कार्यक्रम में भाग लिया और समापन करने वाले प्रतिभागियों तथा नए प्रवेशार्थियों के साथ स्मृति फोटो खिंचवाई। इस आयोजन में 9वें बैच को पूरा करने वाले और 10वें बैच में शामिल होने वाले प्रतिभागी एक साथ उपस्थित रहे। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Ondream Global Academy Gelar Wisuda dan Penerimaan di Korea University",
-        "excerpt": "Hyundai Motor Chung Mong-Koo Foundation dan Ilmin Institute of International Relations Korea University menggelar wisuda angkatan ke-9 dan penerimaan angkatan ke-10 pada 8 Mei di Seoul.",
-        "body": "Upacara kelulusan angkatan ke-9 dan penerimaan angkatan ke-10 Ondream Global Academy digelar pada 8 Mei di Korea University, Seongbuk-gu, Seoul. Choi Jae-ho, sekretaris jenderal Hyundai Motor Chung Mong-Koo Foundation, dan Lee Jae-seung, direktur Ilmin Institute of International Relations Korea University, hadir dalam acara tersebut dan berfoto bersama para lulusan serta mahasiswa baru. Acara ini mempertemukan peserta yang telah menyelesaikan angkatan ke-9 dengan peserta baru angkatan ke-10, sekaligus menandai pergantian resmi antargenerasi program. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "ca3d1e424679",
-    "slug": "태국-최대-상권-진출-어뮤즈-방콕-센트럴월드에-매장-오픈-397553",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T21:22:20.310Z",
-    "updatedAt": "2026-05-11T21:22:20.310Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901676/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133901676/1",
-    "titleFingerprint": "2235fb53dc8b39823e8ff98572a5b47657e3ebc2",
-    "dedupKeys": [
-      "ca3d1e424679a9f6ac553abdb920aa2da78ccfd1",
-      "2235fb53dc8b39823e8ff98572a5b47657e3ebc2",
-      "2fd6d6c8b9479cd6725d5b13a537a90f2d8c7761"
-    ],
-    "imageUrl": "/images/articles/ca3d1e424679.jpg",
-    "i18n": {
-      "ko": {
-        "title": "어뮤즈 태국 최대 상권 진출, 방콕 센트럴월드 첫 정식 매장 12일 오픈 본격화",
-        "excerpt": "신세계인터내셔날 화장품 브랜드 어뮤즈가 태국 센트럴그룹과 독점 리테일 계약을 맺고 12일 방콕 센트럴월드에 첫 정식 매장을 열며 동남아 확장에 나선다.",
-        "body": "신세계인터내셔날이 운영하는 화장품 브랜드 어뮤즈(AMUSE)가 태국 최대 유통그룹 센트럴그룹과 손잡고 방콕 핵심 상권에 진출한다. 어뮤즈코리아는 최근 센트럴그룹과 독점 리테일 계약을 체결했으며, 오는 12일 방콕 센트럴월드 쇼핑몰에 첫 정식 매장을 연다고 밝혔다. 15일부터 17일까지는 대형 팝업스토어도 운영한다. 센트럴월드는 글로벌 럭셔리 브랜드와 인기 패션·뷰티 브랜드가 모인 태국 대표 쇼핑 랜드마크로, 현지 소비자와 관광객 유입이 많은 지역이다. 어뮤즈는 이번 진출을 계기로 하반기 센트럴그룹 산하 주요 쇼핑몰과 백화점으로 입점을 확대할 계획이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "AMUSE Enters Thailand’s Top Retail District With First CentralWorld Bangkok Store",
-        "excerpt": "Shinsegae International’s cosmetics brand AMUSE has signed an exclusive retail deal with Thailand’s Central Group and will open its first official store at Bangkok’s CentralWorld on the 12th.",
-        "body": "AMUSE, the cosmetics brand operated by Shinsegae International, is entering a key commercial district in Bangkok in partnership with Thailand’s largest retail group, Central Group. AMUSE Korea said it recently signed an exclusive retail agreement with Central Group and will open its first official store at the CentralWorld shopping mall in Bangkok on the 12th. It will also run a large pop-up store from the 15th to the 17th. CentralWorld is a major shopping landmark in Thailand, bringing together global luxury labels and popular fashion and beauty brands, with heavy traffic from both local consumers and tourists. AMUSE plans to use this entry as a base to expand into major shopping malls and department stores under Central Group in the second half of the year. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "AMUSE、タイ最大級商圏へ進出 バンコク・セントラルワールドに初店舗",
-        "excerpt": "新世界インターナショナルの化粧品ブランドAMUSEは、タイのセントラルグループと独占リテール契約を結び、12日にバンコクのセントラルワールドで初の正式店舗を開く。",
-        "body": "新世界インターナショナルが展開する化粧品ブランドAMUSEが、タイ最大の流通グループであるセントラルグループと組み、バンコクの中心商圏に進出する。AMUSE Koreaは最近、セントラルグループと独占リテール契約を締結し、12日にバンコクのショッピングモール「セントラルワールド」で初の正式店舗を開くと明らかにした。15日から17日までは大型ポップアップストアも運営する。セントラルワールドは、世界的なラグジュアリーブランドや人気のファッション・ビューティーブランドが集まるタイを代表するショッピングランドマークで、現地消費者と観光客の流入が多い地域だ。AMUSEは今回の進出を機に、下半期にはセントラルグループ傘下の主要ショッピングモールや百貨店へ出店を広げる計画だ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "AMUSE进军泰国核心商圈 将在曼谷CentralWorld开设首家正式门店",
-        "excerpt": "新世界国际运营的化妆品品牌AMUSE与泰国Central Group签署独家零售合同，将于12日在曼谷CentralWorld开设首家正式门店，加快东南亚扩张。",
-        "body": "新世界国际运营的化妆品品牌AMUSE将携手泰国最大零售集团Central Group，进军曼谷核心商圈。AMUSE Korea表示，近日已与Central Group签署独家零售合同，并将于12日在曼谷CentralWorld购物中心开设首家正式门店。15日至17日还将运营大型快闪店。CentralWorld是泰国代表性购物地标，汇集全球奢侈品牌以及热门时尚、美妆品牌，当地消费者和游客流量都较高。AMUSE计划以此次进入泰国市场为契机，在下半年扩大入驻Central Group旗下主要购物中心和百货商店。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "AMUSE entra al gran distrito comercial de Tailandia con tienda en CentralWorld Bangkok",
-        "excerpt": "La marca cosmética AMUSE, operada por Shinsegae International, firmó un acuerdo minorista exclusivo con Central Group y abrirá el día 12 su primera tienda oficial en CentralWorld de Bangkok.",
-        "body": "AMUSE, la marca de cosméticos operada por Shinsegae International, entrará en una zona comercial clave de Bangkok de la mano de Central Group, el mayor grupo minorista de Tailandia. AMUSE Korea informó que recientemente firmó un contrato minorista exclusivo con Central Group y que abrirá el día 12 su primera tienda oficial en el centro comercial CentralWorld de Bangkok. También operará una gran tienda pop-up del 15 al 17. CentralWorld es un referente comercial de Tailandia, con marcas globales de lujo y populares firmas de moda y belleza, además de una alta afluencia de consumidores locales y turistas. AMUSE prevé ampliar su presencia durante el segundo semestre a los principales centros comerciales y grandes almacenes de Central Group. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "AMUSE avança no maior polo comercial da Tailândia com loja no CentralWorld Bangkok",
-        "excerpt": "A marca de cosméticos AMUSE, operada pela Shinsegae International, fechou acordo exclusivo de varejo com o Central Group e abrirá no dia 12 sua primeira loja oficial no CentralWorld, em Bangkok.",
-        "body": "A AMUSE, marca de cosméticos operada pela Shinsegae International, entrará em uma área comercial central de Bangkok em parceria com o Central Group, maior grupo de varejo da Tailândia. A AMUSE Korea informou que assinou recentemente um contrato exclusivo de varejo com o Central Group e abrirá no dia 12 sua primeira loja oficial no shopping CentralWorld, em Bangkok. A marca também operará uma grande loja pop-up de 15 a 17. O CentralWorld é um dos principais marcos de compras da Tailândia, reunindo marcas globais de luxo e nomes populares de moda e beleza, com forte circulação de consumidores locais e turistas. Com essa entrada, a AMUSE planeja ampliar no segundo semestre sua presença em grandes shoppings e lojas de departamento do Central Group. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "AMUSE betritt Thailands Top-Einkaufsviertel mit erstem Store im CentralWorld Bangkok",
-        "excerpt": "Die von Shinsegae International betriebene Kosmetikmarke AMUSE hat einen exklusiven Einzelhandelsvertrag mit der Central Group geschlossen und eröffnet am 12. ihren ersten offiziellen Store im CentralWorld Bangkok.",
-        "body": "AMUSE, die von Shinsegae International betriebene Kosmetikmarke, expandiert gemeinsam mit der Central Group, Thailands größter Handelsgruppe, in ein zentrales Einkaufsviertel Bangkoks. AMUSE Korea teilte mit, kürzlich einen exklusiven Einzelhandelsvertrag mit der Central Group unterzeichnet zu haben und am 12. den ersten offiziellen Store im Einkaufszentrum CentralWorld in Bangkok zu eröffnen. Vom 15. bis 17. wird zudem ein großer Pop-up-Store betrieben. CentralWorld gilt als wichtiges Shopping-Wahrzeichen Thailands, in dem globale Luxusmarken sowie beliebte Mode- und Beauty-Marken vertreten sind und das viele lokale Verbraucher sowie Touristen anzieht. AMUSE will den Markteintritt nutzen, um im zweiten Halbjahr in wichtige Einkaufszentren und Kaufhäuser der Central Group zu expandieren. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "AMUSE arrive dans le grand quartier commercial thaïlandais avec une boutique à CentralWorld",
-        "excerpt": "La marque cosmétique AMUSE, exploitée par Shinsegae International, a signé un accord de distribution exclusif avec Central Group et ouvrira le 12 sa première boutique officielle à CentralWorld Bangkok.",
-        "body": "AMUSE, la marque de cosmétiques exploitée par Shinsegae International, s’implante dans un quartier commercial clé de Bangkok en partenariat avec Central Group, le plus grand groupe de distribution de Thaïlande. AMUSE Korea a indiqué avoir récemment signé un contrat de distribution exclusif avec Central Group et ouvrira le 12 sa première boutique officielle dans le centre commercial CentralWorld à Bangkok. Une grande boutique éphémère sera également ouverte du 15 au 17. CentralWorld est un haut lieu du shopping en Thaïlande, rassemblant des marques mondiales de luxe ainsi que des enseignes populaires de mode et de beauté, avec une forte fréquentation de consommateurs locaux et de touristes. AMUSE prévoit d’étendre sa présence au second semestre aux principaux centres commerciaux et grands magasins de Central Group. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أميوز تدخل أبرز منطقة تجارية في تايلاند بمتجرها الأول في سنترال وورلد بانكوك",
-        "excerpt": "وقعت علامة مستحضرات التجميل أميوز، التابعة لشينسيغيه إنترناشيونال، عقد تجزئة حصريا مع سنترال غروب وتفتتح في 12 متجرها الرسمي الأول في سنترال وورلد بانكوك.",
-        "body": "تدخل علامة مستحضرات التجميل أميوز، التي تديرها شينسيغيه إنترناشيونال، منطقة تجارية رئيسية في بانكوك بالشراكة مع سنترال غروب، أكبر مجموعة توزيع في تايلاند. وقالت أميوز كوريا إنها وقعت مؤخرا عقد تجزئة حصريا مع سنترال غروب، وستفتتح في 12 أول متجر رسمي لها في مركز سنترال وورلد التجاري في بانكوك. كما ستدير متجرا مؤقتا كبيرا من 15 إلى 17. ويعد سنترال وورلد أحد أبرز معالم التسوق في تايلاند، إذ يضم علامات فاخرة عالمية وعلامات رائجة في الموضة والجمال، مع تدفق كبير من المستهلكين المحليين والسياح. وتخطط أميوز، استنادا إلى هذا الدخول، لتوسيع وجودها في النصف الثاني إلى مراكز التسوق والمتاجر الكبرى الرئيسية التابعة لسنترال غروب. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "AMUSE थाईलैंड के प्रमुख बाजार में उतरी, बैंकॉक CentralWorld में पहला स्टोर",
-        "excerpt": "Shinsegae International के कॉस्मेटिक्स ब्रांड AMUSE ने थाईलैंड के Central Group से विशेष रिटेल करार किया है और 12 तारीख को बैंकॉक के CentralWorld में अपना पहला आधिकारिक स्टोर खोलेगा।",
-        "body": "Shinsegae International द्वारा संचालित कॉस्मेटिक्स ब्रांड AMUSE, थाईलैंड के सबसे बड़े रिटेल समूह Central Group के साथ बैंकॉक के प्रमुख वाणिज्यिक क्षेत्र में प्रवेश कर रहा है। AMUSE Korea ने बताया कि उसने हाल ही में Central Group के साथ विशेष रिटेल समझौता किया है और 12 तारीख को बैंकॉक के CentralWorld शॉपिंग मॉल में अपना पहला आधिकारिक स्टोर खोलेगा। 15 से 17 तारीख तक एक बड़ा पॉप-अप स्टोर भी चलाया जाएगा। CentralWorld थाईलैंड का प्रमुख शॉपिंग लैंडमार्क है, जहां वैश्विक लग्जरी ब्रांड और लोकप्रिय फैशन व ब्यूटी ब्रांड मौजूद हैं, और स्थानीय उपभोक्ताओं के साथ पर्यटकों की आवाजाही भी अधिक है। इस प्रवेश के बाद AMUSE साल की दूसरी छमाही में Central Group के प्रमुख शॉपिंग मॉल और डिपार्टमेंट स्टोर में अपनी मौजूदगी बढ़ाने की योजना बना रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "AMUSE Masuk Kawasan Ritel Terbesar Thailand Lewat Toko Pertama di CentralWorld Bangkok",
-        "excerpt": "Merek kosmetik AMUSE yang dioperasikan Shinsegae International meneken kontrak ritel eksklusif dengan Central Group dan akan membuka toko resmi pertamanya di CentralWorld Bangkok pada tanggal 12.",
-        "body": "AMUSE, merek kosmetik yang dioperasikan Shinsegae International, memasuki kawasan komersial utama Bangkok melalui kerja sama dengan Central Group, grup ritel terbesar di Thailand. AMUSE Korea menyatakan baru-baru ini menandatangani kontrak ritel eksklusif dengan Central Group dan akan membuka toko resmi pertamanya di pusat perbelanjaan CentralWorld Bangkok pada tanggal 12. Perusahaan juga akan menjalankan pop-up store besar pada 15 hingga 17. CentralWorld merupakan landmark belanja utama Thailand, yang dipenuhi merek mewah global serta merek fesyen dan kecantikan populer, dengan arus pengunjung lokal dan wisatawan yang besar. AMUSE berencana menggunakan ekspansi ini untuk memperluas kehadirannya pada paruh kedua tahun ini ke pusat perbelanjaan dan department store utama di bawah Central Group. Sumber: rss.donga.com"
       }
     }
   }
