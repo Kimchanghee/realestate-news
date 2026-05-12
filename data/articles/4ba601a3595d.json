@@ -1,0 +1,75 @@
+{
+  "id": "4ba601a3595d",
+  "slug": "中-ai암시장-활개-클로드-35-등-美최신모델-공공연히-거래-693534",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-12T18:28:46.196Z",
+  "updatedAt": "2026-05-12T18:28:46.196Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908702/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908702/2",
+  "titleFingerprint": "cf44c4fe1b0a0ba65da32f1d55947030fe9711c9",
+  "dedupKeys": [
+    "4ba601a3595db617a159db8b0d0dccab5dbe9f9d",
+    "cf44c4fe1b0a0ba65da32f1d55947030fe9711c9",
+    "eb804a81d276d198a0e9fadc64f19b3600efac6a"
+  ],
+  "imageUrl": "/images/articles/4ba601a3595d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "중국 AI 암시장 확산, 클로드 3.5 등 미국 최신 모델 계정 거래 논란",
+      "excerpt": "미국 빅테크가 중국 기업의 AI 접근을 제한하자 최근 중국에서 클로드 3.5 등 주요 AI 계정을 사고파는 암시장이 커지고 우회·인증 회피 논란이 불거졌다.",
+      "body": "미국 빅테크들이 자사 인공지능(AI)에 대한 중국 기업의 접근을 막자, 최근 중국에서 최신 AI 계정을 사고파는 암시장이 커지고 있다. 12일 정보기술(IT) 업계에 따르면 중국 현지 개발자들은 이 시장을 통해 앤스로픽의 ‘클로드 3.5’ 같은 미국 최신 모델을 활용하고 있다. 홍콩 사우스차이나모닝포스트(SCMP)는 타오바오와 중고거래 플랫폼 셴위에 ‘무제한 클로드 코드 구독’, ‘성능 저하 없는 AI 접근 제공’ 등의 광고가 하루에도 여러 건 올라온다고 전했다. 업체들은 중국 본토 밖 서버로 접속지를 우회하고, 딥페이크로 실시간 얼굴 인증을 통과하는 방식까지 동원하는 것으로 알려졌다. 이런 행위가 2차 범죄로 이어질 수 있다는 우려도 나온다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "China’s AI Black Market Grows as Claude 3.5 and Other US Models Are Traded",
+      "excerpt": "As US Big Tech restricts Chinese firms’ AI access, a black market for accounts such as Claude 3.5 is expanding in China, raising concerns over bypass servers and identity checks.",
+      "body": "As US Big Tech companies block Chinese firms from accessing their artificial intelligence services, a black market for the latest AI accounts has recently been expanding in China. According to the IT industry on the 12th, local Chinese developers are using this market to access advanced US models such as Anthropic’s Claude 3.5. Hong Kong’s South China Morning Post reported that ads such as “unlimited Claude Code subscription” and “AI access without performance degradation” appear several times a day on Taobao and the secondhand platform Xianyu. Sellers reportedly route access through servers outside mainland China and even use deepfakes to pass real-time facial verification. Concerns are growing that such practices could lead to secondary crimes. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "中国でAI闇市場拡大、Claude 3.5など米最新モデルのアカウント取引が問題に",
+      "excerpt": "米ビッグテックが中国企業のAIアクセスを制限する中、中国ではClaude 3.5など主要AIアカウントの闇取引が広がり、迂回接続や認証回避が問題になっている。",
+      "body": "米国のビッグテック各社が自社の人工知能（AI）への中国企業のアクセスを制限する中、中国では最新AIアカウントを売買する闇市場が最近拡大している。IT業界によると12日、中国の現地開発者はこの市場を通じ、Anthropicの「Claude 3.5」など米国の最新AIモデルを利用している。香港のサウスチャイナ・モーニング・ポストは、淘宝網や中古取引平台の閑魚に「無制限Claude Code購読」「性能低下なしのAIアクセス提供」といった広告が1日に何件も掲載されていると伝えた。業者は中国本土外のサーバーで接続地を迂回し、ディープフェイクでリアルタイム顔認証を通過する手法まで使うとされる。二次犯罪につながる恐れも指摘されている。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "中国AI黑市扩张，Claude 3.5等美国最新模型账号公开交易引争议",
+      "excerpt": "美国大型科技公司限制中国企业访问AI后，中国近期买卖Claude 3.5等主要AI账号的黑市扩大，绕道服务器和规避认证问题引发担忧。",
+      "body": "美国大型科技公司阻止中国企业访问其人工智能（AI）服务后，中国近期买卖最新AI账号的黑市正在扩大。信息技术（IT）业界12日消息称，中国本地开发者正通过这一市场使用Anthropic的“Claude 3.5”等美国最新AI模型。香港《南华早报》报道称，在淘宝和二手交易平台闲鱼上，“无限Claude Code订阅”“提供无性能下降的AI访问”等广告每天都会出现多条。据悉，这些商家通过中国大陆以外的服务器绕道访问，还使用深度伪造技术通过实时人脸认证。外界担心此类行为可能引发二次犯罪。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Crece el mercado negro de IA en China con cuentas de Claude 3.5 y modelos de EE. UU.",
+      "excerpt": "Tras las restricciones de las grandes tecnológicas de EE. UU. al acceso chino a la IA, crece en China un mercado negro de cuentas como Claude 3.5, con desvíos por servidores y evasión de verificación.",
+      "body": "Después de que las grandes tecnológicas de Estados Unidos bloquearan el acceso de empresas chinas a sus servicios de inteligencia artificial (IA), en China se ha expandido recientemente un mercado negro de cuentas de IA avanzadas. Según el sector de tecnologías de la información el día 12, desarrolladores locales chinos usan este mercado para acceder a modelos estadounidenses recientes como Claude 3.5 de Anthropic. El South China Morning Post de Hong Kong informó que en Taobao y en la plataforma de segunda mano Xianyu aparecen varias veces al día anuncios como “suscripción ilimitada a Claude Code” y “acceso a IA sin pérdida de rendimiento”. Los vendedores operarían mediante servidores fuera de China continental e incluso usarían deepfakes para superar verificaciones faciales en tiempo real. Crece la preocupación por posibles delitos secundarios. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Mercado negro de IA cresce na China com contas do Claude 3.5 e modelos dos EUA",
+      "excerpt": "Com as big techs dos EUA restringindo o acesso chinês à IA, cresce na China um mercado negro de contas como Claude 3.5, com uso de servidores externos e evasão de verificação facial.",
+      "body": "Depois que as big techs dos Estados Unidos passaram a bloquear o acesso de empresas chinesas a seus serviços de inteligência artificial (IA), um mercado negro de contas de IA avançadas vem crescendo recentemente na China. Segundo o setor de tecnologia da informação no dia 12, desenvolvedores locais chineses usam esse mercado para acessar modelos recentes dos EUA, como o Claude 3.5 da Anthropic. O South China Morning Post, de Hong Kong, informou que anúncios como “assinatura ilimitada do Claude Code” e “acesso à IA sem queda de desempenho” aparecem várias vezes ao dia no Taobao e na plataforma de usados Xianyu. Os vendedores usam servidores fora da China continental para contornar a localização e até deepfakes para passar por verificação facial em tempo real. Há preocupação de que essas práticas levem a crimes secundários. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Chinas KI-Schwarzmarkt wächst: Claude 3.5 und neue US-Modelle werden gehandelt",
+      "excerpt": "Nachdem US-Big-Tech den KI-Zugang für chinesische Firmen beschränkt hat, wächst in China ein Schwarzmarkt für Konten wie Claude 3.5; Umgehungsserver und Identitätsprüfungen sorgen für Sorge.",
+      "body": "Seit US-Big-Tech-Unternehmen chinesischen Firmen den Zugang zu ihren Diensten für künstliche Intelligenz (KI) verwehren, wächst in China zuletzt ein Schwarzmarkt für aktuelle KI-Konten. Nach Angaben der IT-Branche vom 12. nutzen lokale chinesische Entwickler diesen Markt, um auf neue US-Modelle wie Anthropics Claude 3.5 zuzugreifen. Die Hongkonger South China Morning Post berichtete, dass auf Taobao und der Gebrauchtplattform Xianyu täglich mehrere Anzeigen wie „unbegrenztes Claude-Code-Abonnement“ und „KI-Zugang ohne Leistungsabfall“ erscheinen. Anbieter leiten den Zugriff offenbar über Server außerhalb des chinesischen Festlands um und nutzen sogar Deepfakes, um Echtzeit-Gesichtsverifizierungen zu bestehen. Es gibt Bedenken, dass dies zu Folgedelikten führen könnte. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Le marché noir de l’IA s’étend en Chine avec Claude 3.5 et des modèles américains",
+      "excerpt": "Alors que les géants technologiques américains limitent l’accès chinois à l’IA, un marché noir de comptes comme Claude 3.5 se développe en Chine, avec contournement par serveurs et vérifications faciales évitées.",
+      "body": "Alors que les grandes entreprises technologiques américaines bloquent l’accès des sociétés chinoises à leurs services d’intelligence artificielle (IA), un marché noir de comptes IA récents s’est récemment développé en Chine. Selon le secteur des technologies de l’information le 12, des développeurs chinois locaux utilisent ce marché pour accéder à des modèles américains récents comme Claude 3.5 d’Anthropic. Le South China Morning Post de Hong Kong a rapporté que des annonces telles que « abonnement Claude Code illimité » et « accès à l’IA sans baisse de performance » apparaissent plusieurs fois par jour sur Taobao et la plateforme d’occasion Xianyu. Les vendeurs passeraient par des serveurs situés hors de Chine continentale et utiliseraient même des deepfakes pour franchir des vérifications faciales en temps réel. Des inquiétudes émergent quant à de possibles délits secondaires. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "اتساع سوق الذكاء الاصطناعي السوداء في الصين مع تداول Claude 3.5 ونماذج أمريكية",
+      "excerpt": "بعدما قيّدت شركات التكنولوجيا الأمريكية الكبرى وصول الشركات الصينية إلى الذكاء الاصطناعي، توسعت في الصين سوق سوداء لحسابات مثل Claude 3.5 مع التفاف عبر الخوادم وتجاوز التحقق.",
+      "body": "بعد أن منعت شركات التكنولوجيا الأمريكية الكبرى الشركات الصينية من الوصول إلى خدماتها في الذكاء الاصطناعي، بدأت سوق سوداء لحسابات الذكاء الاصطناعي الحديثة تتسع مؤخرا في الصين. وبحسب قطاع تكنولوجيا المعلومات في اليوم الثاني عشر، يستخدم مطورون محليون صينيون هذه السوق للوصول إلى نماذج أمريكية حديثة مثل Claude 3.5 من Anthropic. وذكرت صحيفة South China Morning Post في هونغ كونغ أن إعلانات مثل “اشتراك Claude Code غير محدود” و“توفير وصول إلى الذكاء الاصطناعي دون تراجع في الأداء” تظهر عدة مرات يوميا على تاوباو ومنصة السلع المستعملة شيانيو. ويقال إن البائعين يمررون الاتصال عبر خوادم خارج بر الصين الرئيسي، بل يستخدمون التزييف العميق لاجتياز التحقق الفوري من الوجه. وتتصاعد مخاوف من أن تؤدي هذه الممارسات إلى جرائم ثانوية. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "चीन में AI ब्लैक मार्केट बढ़ा, Claude 3.5 समेत अमेरिकी मॉडल खातों की बिक्री पर विवाद",
+      "excerpt": "अमेरिकी बिग टेक द्वारा चीनी कंपनियों की AI पहुंच सीमित करने के बाद चीन में Claude 3.5 जैसे AI खातों का ब्लैक मार्केट बढ़ रहा है, जहां सर्वर बाइपास और पहचान जांच से बचने के तरीके सामने आए हैं।",
+      "body": "अमेरिकी बिग टेक कंपनियों ने अपनी कृत्रिम बुद्धिमत्ता (AI) सेवाओं तक चीनी कंपनियों की पहुंच रोकनी शुरू की, तो चीन में हाल में नवीनतम AI खातों की खरीद-बिक्री का ब्लैक मार्केट बढ़ने लगा। सूचना प्रौद्योगिकी उद्योग के अनुसार, 12 तारीख को चीनी स्थानीय डेवलपर इस बाजार के जरिए Anthropic के “Claude 3.5” जैसे नए अमेरिकी AI मॉडल का उपयोग कर रहे हैं। हांगकांग के South China Morning Post ने बताया कि Taobao और सेकंडहैंड प्लेटफॉर्म Xianyu पर “अनलिमिटेड Claude Code सब्सक्रिप्शन” और “प्रदर्शन घटे बिना AI एक्सेस” जैसे विज्ञापन दिन में कई बार दिखते हैं। विक्रेता चीन की मुख्य भूमि के बाहर स्थित सर्वरों के जरिए पहुंच को घुमाते हैं और रियल-टाइम फेस वेरिफिकेशन पास करने के लिए डीपफेक तक इस्तेमाल करते बताए जाते हैं। इससे द्वितीयक अपराधों की आशंका भी जताई जा रही है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Pasar Gelap AI di China Meluas, Akun Claude 3.5 dan Model AS Diperjualbelikan",
+      "excerpt": "Saat big tech AS membatasi akses perusahaan China ke AI, pasar gelap akun seperti Claude 3.5 berkembang di China, dengan akses lewat server luar negeri dan penghindaran verifikasi wajah.",
+      "body": "Ketika perusahaan big tech Amerika Serikat memblokir akses perusahaan China ke layanan kecerdasan buatan (AI) mereka, pasar gelap untuk akun AI terbaru belakangan berkembang di China. Menurut industri teknologi informasi pada tanggal 12, pengembang lokal China menggunakan pasar ini untuk mengakses model AI terbaru AS seperti Claude 3.5 dari Anthropic. South China Morning Post di Hong Kong melaporkan bahwa iklan seperti “langganan Claude Code tanpa batas” dan “akses AI tanpa penurunan performa” muncul beberapa kali sehari di Taobao dan platform barang bekas Xianyu. Para penjual disebut mengalihkan akses melalui server di luar China daratan dan bahkan memakai deepfake untuk lolos verifikasi wajah real-time. Kekhawatiran muncul bahwa praktik ini dapat berujung pada kejahatan lanjutan. Sumber: rss.donga.com"
+    }
+  }
+}

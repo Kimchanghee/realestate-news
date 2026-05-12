@@ -1,0 +1,75 @@
+{
+  "id": "d2a32eb91d45",
+  "slug": "속보삼성전자-노사-사후조정-최종-결렬조정안-거부-863615",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-12T18:25:00.576Z",
+  "updatedAt": "2026-05-12T18:25:00.576Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910396/1",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910396/1",
+  "titleFingerprint": "e829c31bb26d3003ae60b21eec1286c3c583f8ad",
+  "dedupKeys": [
+    "d2a32eb91d45d54cd819a5b93fbe88324ede3bdc",
+    "e829c31bb26d3003ae60b21eec1286c3c583f8ad",
+    "7b4dc8161cd6de34bd37e9260868f18c28c09c50"
+  ],
+  "imageUrl": "/images/articles/d2a32eb91d45.jpg",
+  "i18n": {
+    "ko": {
+      "title": "삼성전자 노사 사후조정 최종 결렬, 조정안 거부로 협의 중단",
+      "excerpt": "삼성전자 노사가 사후조정 절차에서 최종 결렬됐고 조정안이 거부됐다는 속보가 전해졌다. 향후 노사 협의 흐름에 관심이 모인다.",
+      "body": "삼성전자 노사 간 사후조정이 최종 결렬됐다는 속보가 전해졌다. 보도에 따르면 노사 양측은 사후조정 절차에서 제시된 조정안을 받아들이지 않았고, 이에 따라 해당 조정은 최종적으로 결렬됐다. 이번 소식은 삼성전자 노사 관계와 향후 협의 진행 여부를 둘러싼 관심을 키울 수 있다. 다만 원문 속보에는 결렬 시점, 조정안의 구체적 내용, 양측의 세부 입장이나 후속 일정은 추가로 제시되지 않았다. 출처는 rss.donga.com이다."
+    },
+    "en": {
+      "title": "Samsung Electronics labor talks fail after post-mediation plan rejected",
+      "excerpt": "Samsung Electronics labor and management have reportedly reached a final breakdown in post-mediation after the mediation proposal was rejected, according to a breaking news report.",
+      "body": "Samsung Electronics labor and management have reached a final breakdown in post-mediation, according to a breaking news report. The report says the mediation proposal presented during the post-mediation process was not accepted, leading the procedure to fail conclusively. The development may draw attention to Samsung Electronics’ labor-management relationship and whether further talks will follow. However, the original breaking report did not provide additional details on the timing of the breakdown, the specific contents of the proposal, each side’s position, or any next steps. Source: rss.donga.com."
+    },
+    "ja": {
+      "title": "サムスン電子労使の事後調整が最終決裂、調整案を拒否",
+      "excerpt": "サムスン電子の労使が事後調整手続きで最終的に決裂し、提示された調整案が拒否されたとの速報が伝えられた。",
+      "body": "サムスン電子の労使による事後調整が最終的に決裂したとの速報が伝えられた。報道によると、事後調整の過程で提示された調整案は受け入れられず、これにより同調整は最終的に決裂した。今回の知らせは、サムスン電子の労使関係や今後の協議の行方に関心を集める可能性がある。ただし、原文の速報では、決裂の時点、調整案の具体的内容、双方の詳しい立場、今後の日程などは追加で示されていない。出典はrss.donga.com。"
+    },
+    "zh": {
+      "title": "三星电子劳资事后调解最终破裂，调解方案遭拒",
+      "excerpt": "据快讯报道，三星电子劳资双方在事后调解程序中最终破裂，相关调解方案遭到拒绝，后续协商走向受到关注。",
+      "body": "据快讯报道，三星电子劳资双方的事后调解最终破裂。报道称，双方未接受在事后调解程序中提出的调解方案，因此该调解最终未能达成。此消息可能使外界更加关注三星电子劳资关系以及今后是否继续协商。不过，原文快讯未进一步说明破裂发生的具体时间、调解方案的详细内容、双方的具体立场或后续日程。来源：rss.donga.com。"
+    },
+    "es": {
+      "title": "Samsung Electronics: fracasa la posmediación laboral tras rechazar el acuerdo",
+      "excerpt": "La posmediación entre la dirección y los trabajadores de Samsung Electronics terminó sin acuerdo después de que se rechazara la propuesta de mediación, según una alerta.",
+      "body": "La posmediación entre la dirección y los trabajadores de Samsung Electronics terminó en una ruptura definitiva, según una alerta informativa. El reporte indica que la propuesta presentada durante el proceso de posmediación no fue aceptada, por lo que el procedimiento quedó finalmente sin acuerdo. La noticia puede aumentar la atención sobre la relación laboral en Samsung Electronics y sobre la posible continuidad de las conversaciones. Sin embargo, la alerta original no ofreció más detalles sobre el momento de la ruptura, el contenido concreto de la propuesta, las posturas de las partes ni próximos pasos. Fuente: rss.donga.com."
+    },
+    "pt": {
+      "title": "Samsung Electronics: pós-mediação trabalhista fracassa após rejeição de proposta",
+      "excerpt": "A pós-mediação entre trabalhadores e direção da Samsung Electronics terminou sem acordo após a rejeição da proposta de mediação, segundo notícia urgente.",
+      "body": "A pós-mediação entre trabalhadores e direção da Samsung Electronics terminou em impasse definitivo, segundo uma notícia urgente. De acordo com o informe, a proposta apresentada durante o processo de pós-mediação não foi aceita, levando ao fracasso final do procedimento. A notícia pode ampliar a atenção sobre as relações trabalhistas na Samsung Electronics e sobre a possível continuidade das negociações. No entanto, o alerta original não trouxe detalhes adicionais sobre o momento do impasse, o conteúdo da proposta, as posições das partes ou próximos passos. Fonte: rss.donga.com."
+    },
+    "de": {
+      "title": "Samsung Electronics: Nachschlichtung mit Arbeitnehmerseite endgültig gescheitert",
+      "excerpt": "Bei Samsung Electronics ist die Nachschlichtung zwischen Arbeitnehmerseite und Management endgültig gescheitert, nachdem der Schlichtungsvorschlag abgelehnt wurde.",
+      "body": "Die Nachschlichtung zwischen Arbeitnehmerseite und Management von Samsung Electronics ist endgültig gescheitert, wie eine Eilmeldung berichtet. Demnach wurde der im Nachschlichtungsverfahren vorgelegte Schlichtungsvorschlag nicht angenommen, wodurch das Verfahren endgültig ohne Einigung endete. Die Nachricht dürfte die Aufmerksamkeit auf die Arbeitsbeziehungen bei Samsung Electronics und auf mögliche weitere Gespräche lenken. Die ursprüngliche Eilmeldung nannte jedoch keine weiteren Einzelheiten zum Zeitpunkt des Scheiterns, zum Inhalt des Vorschlags, zu den Positionen der Seiten oder zu nächsten Schritten. Quelle: rss.donga.com."
+    },
+    "fr": {
+      "title": "Samsung Electronics : la post-médiation sociale échoue après rejet du compromis",
+      "excerpt": "La post-médiation entre la direction et les salariés de Samsung Electronics a définitivement échoué après le rejet de la proposition de médiation, selon une alerte.",
+      "body": "La post-médiation entre la direction et les salariés de Samsung Electronics a définitivement échoué, selon une alerte d’information. D’après le reportage, la proposition présentée dans le cadre de cette procédure n’a pas été acceptée, ce qui a conduit à l’échec final de la médiation. Cette nouvelle pourrait attirer l’attention sur les relations sociales chez Samsung Electronics et sur la possibilité de futures discussions. Toutefois, l’alerte originale ne précise pas le moment de la rupture, le contenu détaillé de la proposition, les positions des parties ni les prochaines étapes. Source : rss.donga.com."
+    },
+    "ar": {
+      "title": "سامسونغ إلكترونيكس: فشل الوساطة اللاحقة بعد رفض مقترح التسوية",
+      "excerpt": "أفاد خبر عاجل بأن الوساطة اللاحقة بين إدارة سامسونغ إلكترونيكس والعمال انتهت بالفشل النهائي بعد رفض مقترح الوساطة المطروح.",
+      "body": "أفاد خبر عاجل بأن الوساطة اللاحقة بين إدارة سامسونغ إلكترونيكس والعمال انتهت إلى فشل نهائي. ووفق التقرير، لم يتم قبول مقترح الوساطة الذي طُرح خلال إجراءات الوساطة اللاحقة، ما أدى إلى انهيار الإجراء بشكل نهائي. وقد يلفت هذا التطور الانتباه إلى علاقة العمل داخل سامسونغ إلكترونيكس وإلى ما إذا كانت المفاوضات ستستمر لاحقاً. لكن الخبر الأصلي لم يورد تفاصيل إضافية عن توقيت الفشل، أو مضمون المقترح، أو مواقف الطرفين، أو أي جدول لاحق. المصدر: rss.donga.com."
+    },
+    "hi": {
+      "title": "Samsung Electronics में श्रम वार्ता की बाद-समझौता प्रक्रिया विफल",
+      "excerpt": "Samsung Electronics के श्रमिकों और प्रबंधन के बीच बाद-समझौता प्रक्रिया अंतिम रूप से विफल हो गई, क्योंकि मध्यस्थता प्रस्ताव अस्वीकार कर दिया गया।",
+      "body": "Samsung Electronics के श्रमिकों और प्रबंधन के बीच बाद-समझौता प्रक्रिया अंतिम रूप से विफल हो गई, ऐसी ब्रेकिंग रिपोर्ट आई है। रिपोर्ट के अनुसार, इस प्रक्रिया में प्रस्तुत मध्यस्थता प्रस्ताव स्वीकार नहीं किया गया, जिसके बाद प्रक्रिया अंतिम रूप से टूट गई। यह खबर Samsung Electronics के श्रम-प्रबंधन संबंधों और आगे बातचीत जारी रहने की संभावना पर ध्यान बढ़ा सकती है। हालांकि मूल ब्रेकिंग रिपोर्ट में विफलता के समय, प्रस्ताव की ठोस सामग्री, दोनों पक्षों के विस्तृत रुख या अगले कदमों के बारे में अतिरिक्त जानकारी नहीं दी गई। स्रोत: rss.donga.com।"
+    },
+    "id": {
+      "title": "Samsung Electronics: mediasi lanjutan buruh-manajemen akhirnya gagal",
+      "excerpt": "Mediasi lanjutan antara buruh dan manajemen Samsung Electronics dilaporkan berakhir gagal setelah usulan mediasi ditolak, menurut berita kilat.",
+      "body": "Mediasi lanjutan antara buruh dan manajemen Samsung Electronics berakhir dengan kegagalan final, menurut sebuah berita kilat. Laporan itu menyebut usulan mediasi yang diajukan dalam proses mediasi lanjutan tidak diterima, sehingga prosedur tersebut akhirnya gagal. Kabar ini dapat menarik perhatian pada hubungan buruh-manajemen di Samsung Electronics dan kemungkinan kelanjutan pembicaraan. Namun, berita kilat asli tidak memberikan rincian tambahan mengenai waktu kegagalan, isi konkret usulan, posisi masing-masing pihak, atau agenda lanjutan. Sumber: rss.donga.com."
+    }
+  }
+}
