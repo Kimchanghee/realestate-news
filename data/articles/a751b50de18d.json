@@ -1,0 +1,75 @@
+{
+  "id": "a751b50de18d",
+  "slug": "단독-국내-호텔도-부킹닷컴-해킹-후-2차-피해-심각-173560",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-12T06:00:46.348Z",
+  "updatedAt": "2026-05-12T06:00:46.348Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133905508/2",
+  "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133905508/2",
+  "titleFingerprint": "9bb51562e79786d9316daa336146efca6a58538a",
+  "dedupKeys": [
+    "a751b50de18d89c24bfb8a11fa1db1fcaf64f1b9",
+    "9bb51562e79786d9316daa336146efca6a58538a",
+    "4727f37d6371015ff4e730cacc34e1783b6144d3"
+  ],
+  "imageUrl": "/images/articles/a751b50de18d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "부킹닷컴 해킹 여파, 국내 호텔 고객 예약정보 2차 피해 주장 확산",
+      "excerpt": "지난 4월 부킹닷컴이 해킹 가능성을 인정한 뒤 국내 호텔에서도 탈취된 고객 예약 정보를 악용한 2차 피해가 발생하고 있다는 주장이 제기됐다.",
+      "body": "지난 4월 글로벌 여행 예약 플랫폼 부킹닷컴이 해킹 가능성을 인정한 이후, 국내 호텔에서도 고객 예약 정보 탈취에 따른 2차 피해가 발생하고 있다는 주장이 나왔다. 서울 명동에 위치한 한 호텔 관계자는 11일 동아닷컴에 개인정보 유출로 인한 2차 피해가 심각하다고 밝혔다. 원문에 따르면 문제는 부킹닷컴 관련 해킹 가능성이 알려진 뒤 국내 숙박업계에서도 고객 예약 정보가 악용될 수 있다는 우려로 이어지고 있다는 점이다. 예약 정보는 투숙객과 호텔 간 확인 절차에 활용되는 만큼, 유출 시 소비자 피해와 호텔 현장의 대응 부담이 커질 수 있다. 출처는 rss.donga.com이다."
+    },
+    "en": {
+      "title": "Booking.com Hack Fallout: Korean Hotel Claims Secondary Damage From Booking Data",
+      "excerpt": "After Booking.com acknowledged a possible hack in April, a Korean hotel has claimed secondary damage involving stolen customer reservation information.",
+      "body": "After global travel booking platform Booking.com acknowledged a possible hack in April, claims have emerged that Korean hotels are also facing secondary damage linked to stolen customer reservation information. An official at a hotel in Seoul’s Myeongdong told Donga.com on the 11th that secondary damage from a personal information leak is serious. According to the original report, the concern is that after the possible Booking.com breach became known, customer reservation details in Korea’s lodging sector may also be misused. Because reservation information is used in confirmation procedures between guests and hotels, any leak could increase consumer damage and the response burden on hotel staff. Source: rss.donga.com."
+    },
+    "ja": {
+      "title": "ブッキング・ドットコム不正アクセス余波、韓国ホテルで予約情報の二次被害主張",
+      "excerpt": "4月にブッキング・ドットコムが不正アクセスの可能性を認めた後、韓国のホテルでも盗まれた顧客予約情報による二次被害の主張が出た。",
+      "body": "4月に世界的な旅行予約プラットフォーム、ブッキング・ドットコムが不正アクセスの可能性を認めた後、韓国のホテルでも顧客予約情報の流出に伴う二次被害が発生しているとの主張が出た。ソウル・明洞にあるホテルの関係者は11日、東亜ドットコムに対し、個人情報流出による二次被害が深刻だと述べた。原文によると、問題はブッキング・ドットコム関連の不正アクセス可能性が伝えられた後、韓国の宿泊業界でも顧客予約情報が悪用される恐れにつながっている点だ。予約情報は宿泊客とホテルの確認手続きに使われるため、流出時には消費者被害と現場対応の負担が大きくなり得る。出典はrss.donga.com。"
+    },
+    "zh": {
+      "title": "Booking.com黑客事件波及韩国酒店，客户预订信息二次受害说法浮现",
+      "excerpt": "Booking.com今年4月承认存在被黑客攻击的可能后，韩国酒店也出现了被盗客户预订信息引发二次损害的说法。",
+      "body": "今年4月，全球旅行预订平台Booking.com承认存在被黑客攻击的可能后，韩国酒店也出现了因客户预订信息被盗而产生二次损害的说法。位于首尔明洞的一家酒店相关人士11日向东亚网表示，因个人信息泄露造成的二次损害十分严重。根据原文，问题在于Booking.com相关黑客攻击可能性被公开后，韩国住宿行业也开始担忧客户预订信息可能遭到滥用。预订信息用于住客与酒店之间的确认流程，一旦泄露，可能加重消费者损害和酒店现场应对负担。来源为rss.donga.com。"
+    },
+    "es": {
+      "title": "Hackeo de Booking.com: hotel en Corea alerta de daños secundarios por reservas robadas",
+      "excerpt": "Tras admitir Booking.com en abril un posible hackeo, un hotel de Corea afirmó que hay daños secundarios por información de reservas de clientes sustraída.",
+      "body": "Después de que la plataforma global de reservas de viajes Booking.com reconociera en abril la posibilidad de un hackeo, surgió una denuncia de que hoteles en Corea también estarían sufriendo daños secundarios por información de reservas de clientes sustraída. Un responsable de un hotel situado en Myeongdong, Seúl, dijo el día 11 a Donga.com que los daños secundarios por la filtración de datos personales son graves. Según el texto original, la preocupación es que, tras conocerse el posible hackeo relacionado con Booking.com, los datos de reservas de clientes del sector hotelero coreano puedan ser utilizados de forma indebida. Como esa información se usa para confirmar reservas entre huéspedes y hoteles, una filtración puede aumentar el daño a consumidores y la carga de respuesta en los hoteles. Fuente: rss.donga.com."
+    },
+    "pt": {
+      "title": "Hack da Booking.com: hotel coreano relata danos secundários por dados de reservas",
+      "excerpt": "Após a Booking.com admitir em abril a possibilidade de hackeamento, um hotel na Coreia afirmou haver danos secundários com dados de reservas roubados.",
+      "body": "Depois que a plataforma global de reservas de viagem Booking.com reconheceu em abril a possibilidade de ter sido hackeada, surgiu a alegação de que hotéis na Coreia também enfrentam danos secundários ligados a informações de reservas de clientes roubadas. Um representante de um hotel localizado em Myeongdong, Seul, disse ao Donga.com no dia 11 que os danos secundários causados pelo vazamento de informações pessoais são graves. Segundo o texto original, a questão é que, após a divulgação da possível invasão relacionada à Booking.com, cresceu a preocupação de que dados de reservas de clientes no setor de hospedagem coreano possam ser usados indevidamente. Como essas informações são usadas na confirmação entre hóspedes e hotéis, um vazamento pode ampliar danos a consumidores e a carga de resposta das equipes hoteleiras. Fonte: rss.donga.com."
+    },
+    "de": {
+      "title": "Booking.com-Hack: Koreanisches Hotel meldet Folgeschäden durch Reservierungsdaten",
+      "excerpt": "Nachdem Booking.com im April einen möglichen Hack eingeräumt hatte, berichtet ein Hotel in Korea von Folgeschäden durch gestohlene Kundendaten zu Reservierungen.",
+      "body": "Nachdem die globale Reisebuchungsplattform Booking.com im April die Möglichkeit eines Hacks eingeräumt hatte, gibt es nun die Behauptung, dass auch Hotels in Korea Folgeschäden durch entwendete Kundendaten zu Reservierungen erleiden. Ein Mitarbeiter eines Hotels im Seouler Stadtteil Myeongdong sagte Donga.com am 11., die Folgeschäden durch den Abfluss personenbezogener Daten seien schwerwiegend. Dem Originalbericht zufolge besteht das Problem darin, dass nach Bekanntwerden der möglichen Booking.com-Sicherheitsverletzung auch in der koreanischen Beherbergungsbranche Sorge vor Missbrauch von Reservierungsdaten entstanden ist. Da solche Informationen zur Bestätigung zwischen Gästen und Hotels genutzt werden, kann ein Leak Verbraucherschäden und den Aufwand für Hotelteams erhöhen. Quelle: rss.donga.com."
+    },
+    "fr": {
+      "title": "Piratage de Booking.com : un hôtel coréen signale des dommages liés aux réservations",
+      "excerpt": "Après que Booking.com a reconnu en avril un possible piratage, un hôtel en Corée affirme subir des dommages secondaires liés à des données de réservation volées.",
+      "body": "Après que la plateforme mondiale de réservation de voyages Booking.com a reconnu en avril la possibilité d’un piratage, des affirmations ont émergé selon lesquelles des hôtels en Corée subiraient aussi des dommages secondaires liés à des informations de réservation de clients dérobées. Un responsable d’un hôtel situé à Myeongdong, à Séoul, a déclaré le 11 à Donga.com que les dommages secondaires dus à la fuite d’informations personnelles étaient graves. Selon le texte original, l’enjeu est qu’après la révélation de la possible attaque liée à Booking.com, le secteur hôtelier coréen craint aussi une utilisation abusive des données de réservation. Ces informations servant aux confirmations entre clients et hôtels, une fuite peut accroître les préjudices pour les consommateurs et la charge de réponse des établissements. Source : rss.donga.com."
+    },
+    "ar": {
+      "title": "اختراق Booking.com يمتد أثره لفنادق كوريا ومزاعم أضرار ببيانات الحجز",
+      "excerpt": "بعد أن أقرت Booking.com في أبريل باحتمال تعرضها للاختراق، ظهرت مزاعم في كوريا عن أضرار ثانوية مرتبطة بسرقة معلومات حجوزات العملاء.",
+      "body": "بعد أن أقرت منصة حجز السفر العالمية Booking.com في أبريل باحتمال تعرضها للاختراق، ظهرت مزاعم بأن فنادق في كوريا تواجه أيضا أضرارا ثانوية مرتبطة بسرقة معلومات حجوزات العملاء. وقال مسؤول في فندق يقع في ميونغ دونغ بسيول لموقع Donga.com في 11 من الشهر إن الأضرار الثانوية الناتجة عن تسرب المعلومات الشخصية خطيرة. وبحسب النص الأصلي، تكمن المشكلة في أن الإعلان عن احتمال الاختراق المرتبط بـ Booking.com أثار مخاوف داخل قطاع الإقامة الكوري من إساءة استخدام بيانات حجوزات العملاء. ونظرا إلى أن معلومات الحجز تستخدم في إجراءات التأكيد بين النزلاء والفنادق، فإن تسربها قد يزيد أضرار المستهلكين وعبء الاستجابة على العاملين في الفنادق. المصدر: rss.donga.com."
+    },
+    "hi": {
+      "title": "Booking.com हैक का असर, कोरियाई होटल ने बुकिंग डेटा से दूसरे नुकसान बताए",
+      "excerpt": "अप्रैल में Booking.com द्वारा संभावित हैकिंग स्वीकारने के बाद, कोरिया के एक होटल ने चोरी हुई ग्राहक आरक्षण जानकारी से द्वितीयक नुकसान का दावा किया।",
+      "body": "अप्रैल में वैश्विक यात्रा आरक्षण मंच Booking.com ने संभावित हैकिंग की बात स्वीकार की थी। इसके बाद अब दावा सामने आया है कि कोरिया के होटलों में भी चोरी हुई ग्राहक आरक्षण जानकारी से द्वितीयक नुकसान हो रहा है। सियोल के म्योंगडोंग स्थित एक होटल के अधिकारी ने 11 तारीख को Donga.com से कहा कि निजी जानकारी लीक होने से होने वाला द्वितीयक नुकसान गंभीर है। मूल रिपोर्ट के अनुसार, मुद्दा यह है कि Booking.com से जुड़ी संभावित हैकिंग सामने आने के बाद कोरियाई आवास क्षेत्र में भी ग्राहक आरक्षण जानकारी के दुरुपयोग की चिंता बढ़ी है। आरक्षण जानकारी मेहमानों और होटल के बीच पुष्टि प्रक्रिया में इस्तेमाल होती है, इसलिए इसके लीक होने पर उपभोक्ताओं को नुकसान और होटल कर्मचारियों पर जवाबी कार्रवाई का बोझ बढ़ सकता है। स्रोत: rss.donga.com."
+    },
+    "id": {
+      "title": "Dampak Peretasan Booking.com, Hotel Korea Klaim Kerugian dari Data Reservasi",
+      "excerpt": "Setelah Booking.com mengakui kemungkinan peretasan pada April, sebuah hotel di Korea mengklaim ada kerugian lanjutan dari data reservasi pelanggan yang dicuri.",
+      "body": "Setelah platform reservasi perjalanan global Booking.com mengakui kemungkinan peretasan pada April, muncul klaim bahwa hotel di Korea juga mengalami kerugian lanjutan akibat informasi reservasi pelanggan yang dicuri. Seorang perwakilan hotel di Myeongdong, Seoul, mengatakan kepada Donga.com pada tanggal 11 bahwa kerugian lanjutan akibat kebocoran informasi pribadi sangat serius. Menurut teks asli, persoalannya adalah setelah kemungkinan peretasan terkait Booking.com diketahui, industri penginapan Korea juga khawatir data reservasi pelanggan dapat disalahgunakan. Karena informasi reservasi dipakai dalam proses konfirmasi antara tamu dan hotel, kebocoran dapat meningkatkan kerugian konsumen dan beban respons staf hotel. Sumber: rss.donga.com."
+    }
+  }
+}
