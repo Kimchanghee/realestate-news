@@ -1,5 +1,230 @@
 [
   {
+    "id": "238ad8cdc89c",
+    "slug": "삼성전자-사후조정-결국-결렬정부-21년만에-긴급조정권-꺼내나-147936",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T19:15:10.695Z",
+    "updatedAt": "2026-05-12T19:15:10.695Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910454/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910454/1",
+    "titleFingerprint": "52529dbff486f782fa88f159b8b87458565337b2",
+    "dedupKeys": [
+      "238ad8cdc89c5b8b0bd5a11368cd7ba54a2d8b7e",
+      "52529dbff486f782fa88f159b8b87458565337b2",
+      "83b401d6a890614b3a35f8da99b6e11584ea0088"
+    ],
+    "imageUrl": "/images/articles/238ad8cdc89c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사 사후조정 결렬, 21일 총파업 예고에 긴급조정권 주목",
+        "excerpt": "삼성전자 초기업노조와 사측의 중노위 2차 사후조정이 13일 결렬되며, 노조가 21일부터 18일간 전면 총파업을 예고한 가운데 정부 긴급조정권 여부가 쟁점으로 떠올랐다.",
+        "body": "삼성전자 노사 갈등을 풀기 위한 마지막 자율 조정 절차였던 중앙노동위원회 사후조정이 13일 결렬됐다. 삼성전자 초기업노조는 정부세종청사 중노위에서 전날 오전 10시부터 약 17시간 이어진 2차 사후조정 끝에 최종 결렬을 선언했다. 핵심 쟁점은 노조가 요구한 ‘영업이익 15% 성과급’ 제도화였다. 노조는 성과급 제도화 없이는 타협할 수 없다는 입장을 보였고, 사측은 경영권 침해와 비용 부담을 이유로 난색을 보인 것으로 알려졌다. 노조가 오는 21일부터 18일간 전면 총파업을 예고하면서 산업계 관심은 정부가 2005년 이후 21년 만에 긴급조정권을 발동할지에 쏠리고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics labor talks fail as 18-day strike plan puts emergency mediation in focus",
+        "excerpt": "Samsung Electronics’ union and management failed to reach a post-mediation deal at the National Labor Relations Commission on the 13th, drawing attention to possible government emergency mediation.",
+        "body": "Post-mediation by the National Labor Relations Commission, the final voluntary channel to resolve Samsung Electronics’ labor dispute, broke down on the 13th. The Samsung Electronics enterprise-wide union declared the second post-mediation session at the government complex in Sejong a final failure after talks that began at 10 a.m. the previous day and lasted about 17 hours. The core issue was the union’s demand to institutionalize a performance bonus equal to 15% of operating profit. The union said there would be no compromise without such a system, while management reportedly objected over concerns about management rights and cost burdens. With the union announcing an 18-day full strike from the 21st, industry attention is turning to whether the government will invoke emergency mediation for the first time in 21 years since 2005. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子の労使事後調整が決裂、21日からの全面ストで緊急調整権に注目",
+        "excerpt": "サムスン電子労使の中央労働委員会による2回目の事後調整が13日に決裂し、労組が21日から18日間の全面ストを予告する中、政府の緊急調整権発動が焦点となっている。",
+        "body": "サムスン電子の労使対立を解く最後の自主的調整手段だった中央労働委員会の事後調整が13日、決裂した。サムスン電子超企業労組は政府世宗庁舎の中労委で、前日午前10時から約17時間続いた2回目の事後調整の末、最終決裂を宣言した。最大の争点は、労組が求めた「営業利益15%の成果給」の制度化だった。労組は成果給制度化なしに妥協はないとの立場を示し、会社側は経営権侵害と費用負担を理由に難色を示したとされる。労組が21日から18日間の全面ゼネストを予告したことで、産業界の関心は政府が2005年以来21年ぶりに緊急調整権を発動するかに集まっている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子劳资事后调解破裂，21日全面罢工预告引发紧急调整权关注",
+        "excerpt": "三星电子工会与公司在中央劳动委员会的第二轮事后调解于13日破裂，工会预告21日起全面罢工18天，政府是否动用紧急调整权成为焦点。",
+        "body": "用于解决三星电子劳资矛盾的最后自主调解手段，即中央劳动委员会事后调解，于13日宣告破裂。三星电子超企业工会在政府世宗厅舍中央劳动委员会表示，第二轮事后调解最终破裂；会议从前一日上午10时开始，持续约17小时。核心争议是工会要求将“营业利润15%作为绩效奖金”制度化。工会坚持若不制度化绩效奖金就不妥协，而公司方面据称以侵犯经营权和成本负担为由表示为难。随着工会预告从21日起进行为期18天的全面总罢工，产业界关注政府是否会在2005年后时隔21年启动紧急调整权。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Fracasa la mediación laboral en Samsung Electronics y crece la atención sobre una medida urgente",
+        "excerpt": "La segunda mediación posterior entre el sindicato de Samsung Electronics y la empresa fracasó el día 13, mientras el sindicato prevé una huelga total de 18 días desde el 21.",
+        "body": "La mediación posterior de la Comisión Nacional de Relaciones Laborales, último mecanismo voluntario para resolver el conflicto laboral en Samsung Electronics, fracasó el día 13. El sindicato supraempresarial de Samsung Electronics declaró roto el segundo proceso de mediación en el complejo gubernamental de Sejong tras una reunión que comenzó a las 10 de la mañana del día anterior y duró unas 17 horas. El punto central fue la demanda sindical de institucionalizar un bono de desempeño equivalente al 15% del beneficio operativo. El sindicato sostuvo que no habría acuerdo sin ese sistema, mientras que la empresa habría mostrado reservas por posible afectación de la gestión y carga de costos. Con la huelga total de 18 días anunciada desde el 21, la industria observa si el gobierno recurrirá a la mediación de emergencia por primera vez en 21 años desde 2005. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Mediação trabalhista da Samsung Electronics fracassa e greve de 18 dias põe governo em foco",
+        "excerpt": "A segunda mediação posterior entre o sindicato da Samsung Electronics e a empresa fracassou no dia 13, enquanto o sindicato prevê greve total de 18 dias a partir do dia 21.",
+        "body": "A mediação posterior da Comissão Nacional de Relações Trabalhistas, último meio voluntário para resolver o conflito entre trabalhadores e direção da Samsung Electronics, fracassou no dia 13. O sindicato supraempresarial da Samsung Electronics declarou o impasse final após a segunda rodada no complexo governamental de Sejong, iniciada às 10h do dia anterior e prolongada por cerca de 17 horas. O principal ponto de divergência foi a exigência sindical de institucionalizar um bônus de desempenho equivalente a 15% do lucro operacional. O sindicato afirmou que não haveria acordo sem esse sistema, enquanto a empresa teria resistido por alegar interferência nos direitos de gestão e pressão de custos. Com a greve total de 18 dias anunciada a partir do dia 21, o setor observa se o governo usará a mediação de emergência pela primeira vez em 21 anos desde 2005. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Schlichtung scheitert, 18-tägiger Streik rückt Notvermittlung in den Fokus",
+        "excerpt": "Die zweite Nachschlichtung zwischen der Samsung-Electronics-Gewerkschaft und dem Unternehmen scheiterte am 13.; wegen eines ab dem 21. geplanten 18-tägigen Vollstreiks steht die Regierung im Blick.",
+        "body": "Die Nachschlichtung der Nationalen Arbeitskommission, der letzte freiwillige Weg zur Lösung des Arbeitskonflikts bei Samsung Electronics, ist am 13. gescheitert. Die unternehmensübergreifende Gewerkschaft von Samsung Electronics erklärte die zweite Runde im Regierungskomplex Sejong nach Gesprächen, die am Vortag um 10 Uhr begonnen und rund 17 Stunden gedauert hatten, endgültig für gescheitert. Zentraler Streitpunkt war die Forderung der Gewerkschaft, eine Leistungsprämie in Höhe von 15% des operativen Gewinns festzuschreiben. Die Gewerkschaft sah ohne diese Regelung keinen Kompromiss, während das Unternehmen Berichten zufolge Eingriffe in Managementrechte und Kostenbelastungen geltend machte. Da die Gewerkschaft ab dem 21. einen 18-tägigen Vollstreik angekündigt hat, richtet sich der Blick der Industrie darauf, ob die Regierung erstmals seit 2005, also nach 21 Jahren, eine Notvermittlung einsetzt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Échec de la médiation chez Samsung Electronics, la grève de 18 jours relance l’option d’urgence",
+        "excerpt": "La deuxième médiation postérieure entre le syndicat de Samsung Electronics et la direction a échoué le 13, alors qu’une grève totale de 18 jours est annoncée à partir du 21.",
+        "body": "La médiation postérieure de la Commission nationale du travail, dernier moyen volontaire pour résoudre le conflit social chez Samsung Electronics, a échoué le 13. Le syndicat supra-entreprise de Samsung Electronics a déclaré l’échec final de la deuxième session tenue au complexe gouvernemental de Sejong, après une réunion commencée la veille à 10 heures et poursuivie environ 17 heures. Le principal point de blocage était la demande syndicale d’institutionnaliser une prime de performance équivalant à 15% du bénéfice d’exploitation. Le syndicat a affirmé qu’aucun compromis n’était possible sans ce dispositif, tandis que la direction aurait invoqué une atteinte aux droits de gestion et une charge financière. Avec une grève totale de 18 jours annoncée à partir du 21, l’industrie observe si le gouvernement utilisera la médiation d’urgence pour la première fois depuis 2005, après 21 ans. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "فشل وساطة سامسونغ إلكترونيكس العمالية وإضراب 18 يوما يضع التدخل الحكومي تحت الضوء",
+        "excerpt": "فشلت في 13 من الشهر جولة الوساطة اللاحقة الثانية بين نقابة سامسونغ إلكترونيكس والإدارة، ومع إعلان إضراب شامل لمدة 18 يوما بدءا من 21، تتركز الأنظار على خيار الوساطة الطارئة.",
+        "body": "فشلت في 13 من الشهر الوساطة اللاحقة للجنة علاقات العمل المركزية، وهي آخر وسيلة طوعية لحل النزاع العمالي في سامسونغ إلكترونيكس. وأعلنت نقابة سامسونغ إلكترونيكس فوق المؤسسية فشل الجولة الثانية في المجمع الحكومي بمدينة سيجونغ، بعد اجتماع بدأ في العاشرة صباح اليوم السابق واستمر نحو 17 ساعة. تمحور الخلاف حول مطلب النقابة بإقرار مكافأة أداء تعادل 15% من الأرباح التشغيلية كنظام ثابت. وتمسكت النقابة بعدم التوصل إلى تسوية من دون هذا النظام، بينما أبدت الإدارة، بحسب ما ورد، تحفظا بسبب المساس بحقوق الإدارة وعبء التكاليف. ومع إعلان النقابة إضرابا شاملا لمدة 18 يوما اعتبارا من 21، تتابع الأوساط الصناعية ما إذا كانت الحكومة ستفعل سلطة الوساطة الطارئة للمرة الأولى منذ عام 2005، أي بعد 21 عاما. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics में मध्यस्थता विफल, 21 से 18 दिन की हड़ताल पर आपात समायोजन पर नजर",
+        "excerpt": "Samsung Electronics की यूनियन और प्रबंधन के बीच केंद्रीय श्रम आयोग की दूसरी पश्च-मध्यस्थता 13 तारीख को विफल हो गई; 21 से 18 दिन की पूर्ण हड़ताल की चेतावनी के बीच सरकार के कदम पर ध्यान है।",
+        "body": "Samsung Electronics के श्रम विवाद को सुलझाने का अंतिम स्वैच्छिक माध्यम मानी जा रही केंद्रीय श्रम आयोग की पश्च-मध्यस्थता 13 तारीख को विफल हो गई। Samsung Electronics की सुपर-एंटरप्राइज यूनियन ने सेजोंग सरकारी परिसर में हुई दूसरी पश्च-मध्यस्थता के बाद अंतिम विफलता की घोषणा की; बैठक पिछले दिन सुबह 10 बजे शुरू होकर लगभग 17 घंटे चली। मुख्य मुद्दा यूनियन की मांग थी कि परिचालन लाभ के 15% के बराबर प्रदर्शन बोनस को संस्थागत किया जाए। यूनियन ने कहा कि इस व्यवस्था के बिना समझौता नहीं होगा, जबकि प्रबंधन ने कथित तौर पर प्रबंधन अधिकारों में दखल और लागत बोझ का हवाला देते हुए आपत्ति जताई। यूनियन ने 21 तारीख से 18 दिन की पूर्ण आम हड़ताल की चेतावनी दी है, इसलिए उद्योग जगत देख रहा है कि सरकार 2005 के बाद 21 वर्षों में पहली बार आपात समायोजन अधिकार का उपयोग करेगी या नहीं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Mediasi Samsung Electronics gagal, rencana mogok 18 hari soroti opsi penyesuaian darurat",
+        "excerpt": "Mediasi lanjutan kedua antara serikat Samsung Electronics dan manajemen gagal pada tanggal 13, sementara serikat mengumumkan mogok total 18 hari mulai tanggal 21.",
+        "body": "Mediasi lanjutan oleh Komisi Hubungan Perburuhan Pusat, jalur sukarela terakhir untuk menyelesaikan konflik ketenagakerjaan di Samsung Electronics, gagal pada tanggal 13. Serikat lintas perusahaan Samsung Electronics menyatakan mediasi lanjutan kedua di kompleks pemerintah Sejong berakhir buntu setelah rapat yang dimulai pukul 10 pagi hari sebelumnya dan berlangsung sekitar 17 jam. Isu utama adalah tuntutan serikat agar bonus kinerja sebesar 15% dari laba operasional dilembagakan. Serikat menyatakan tidak ada kompromi tanpa sistem tersebut, sementara pihak perusahaan dilaporkan keberatan karena alasan gangguan terhadap hak manajemen dan beban biaya. Dengan rencana mogok total selama 18 hari mulai tanggal 21, perhatian industri tertuju pada apakah pemerintah akan memakai kewenangan penyesuaian darurat untuk pertama kalinya dalam 21 tahun sejak 2005. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "2ff0b65e4425",
+    "slug": "6억-양도세-피하려다-10억-증여세절세-함정-빠진-다주택자들-857907",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T19:13:05.811Z",
+    "updatedAt": "2026-05-12T19:13:05.811Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12044820",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044820",
+    "titleFingerprint": "a879b657dd82c8ed07ace832e8996761d6c0800a",
+    "dedupKeys": [
+      "2ff0b65e4425f9f740b2b40932ceb223ce4cac8f",
+      "a879b657dd82c8ed07ace832e8996761d6c0800a",
+      "97efc670d0f894825c14b81828a4094560ea8fb7"
+    ],
+    "imageUrl": "/images/articles/2ff0b65e4425.jpg",
+    "i18n": {
+      "ko": {
+        "title": "다주택자 양도세 중과 재개, 6억 피하려다 10억 증여세 맞는 절세 함정",
+        "excerpt": "5월 9일 이후 다주택자 양도소득세 중과가 다시 시작되면서, 양도세를 줄이려 증여를 선택한 보유자들이 더 큰 증여세 부담에 직면할 수 있다는 점이 부각됐다.",
+        "body": "5월 9일 이후 다주택자의 양도소득세 중과가 다시 시작되면서 절세 전략을 둘러싼 주의가 커지고 있다. 원문은 “6억 양도세 피하려다 10억 증여세”라는 사례를 통해, 다주택자가 양도세 부담을 낮추기 위해 증여를 선택할 경우 오히려 더 큰 세금 부담에 놓일 수 있다고 전했다. 배경은 다주택자 양도세 중과 재개다. 매도 대신 증여를 택하는 방식이 절세 수단처럼 보일 수 있지만, 증여세가 발생하면 전체 부담이 예상보다 커질 수 있다. 이에 따라 다주택자는 양도와 증여 각각의 세 부담을 비교해야 한다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Multiple-home capital gains surtax returns, exposing gift-tax trap",
+        "excerpt": "After the capital gains tax surcharge for multiple-home owners resumed on May 9, owners seeking to cut transfer tax through gifts may face a larger gift-tax burden.",
+        "body": "After May 9, the capital gains tax surcharge on multiple-home owners resumed, drawing attention to tax-saving strategies. The source article used the case headline “avoiding 600 million won in transfer tax only to face 1 billion won in gift tax” to show that owners may face a heavier tax bill if they choose gifting to reduce capital gains tax. The background is the restart of the surcharge on capital gains for multiple-home owners. Gifting instead of selling may look like a tax-saving route, but once gift tax applies, the total burden can become larger than expected. Owners therefore need to compare the tax impact of sale and gift. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "多住宅保有者の譲渡税重課再開、贈与税が上回る節税の落とし穴",
+        "excerpt": "5月9日以降、多住宅保有者への譲渡所得税の重課が再開され、譲渡税を減らそうと贈与を選ぶ人がより大きな贈与税負担に直面し得る点が浮上した。",
+        "body": "5月9日以降、多住宅保有者に対する譲渡所得税の重課が再び始まり、節税戦略への注意が高まっている。原文は「6億ウォンの譲渡税を避けようとして10億ウォンの贈与税」という事例を通じ、譲渡税負担を下げるために贈与を選ぶと、かえってより大きな税負担を負う可能性があると伝えた。背景には多住宅保有者への譲渡税重課の再開がある。売却ではなく贈与を選ぶ方法は節税策に見えるが、贈与税が発生すれば総負担は予想より大きくなり得る。多住宅保有者は譲渡と贈与それぞれの税負担を比較する必要がある。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "多套房持有者资本利得税加征重启，赠与避税反成高税负陷阱",
+        "excerpt": "5月9日以后，多套房持有者的转让所得税加征重新开始，试图通过赠与减少转让税的人，可能面临更高赠与税负担。",
+        "body": "5月9日以后，多套房持有者的转让所得税加征重新开始，围绕节税策略的关注升温。原文以“为避开6亿韩元转让税，却面临10亿韩元赠与税”的案例说明，多套房持有者若为降低转让税负而选择赠与，反而可能承担更大的税务负担。其背景是多套房持有者转让税加征的恢复。用赠与代替出售看似是一种节税方式，但一旦产生赠与税，总负担可能高于预期。因此，多套房持有者需要比较转让与赠与各自的税负。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Vuelve el recargo a plusvalías de multipropietarios y crece la trampa fiscal",
+        "excerpt": "Desde el 9 de mayo volvió el recargo al impuesto sobre ganancias de capital para multipropietarios, y donar para reducir ese impuesto puede elevar la carga por donaciones.",
+        "body": "Desde el 9 de mayo volvió a aplicarse el recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas, aumentando la atención sobre las estrategias de ahorro fiscal. El texto original citó el caso de “evitar 600 millones de wones en impuesto de transferencia y terminar con 1.000 millones en impuesto sobre donaciones” para señalar que donar con el fin de reducir la carga por venta puede generar un impuesto mayor. El contexto es la reanudación del recargo a las plusvalías de multipropietarios. Donar en lugar de vender puede parecer una vía de ahorro, pero si se aplica el impuesto sobre donaciones, la carga total puede superar lo previsto. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Volta da sobretaxa para múltiplos imóveis expõe armadilha do imposto de doação",
+        "excerpt": "Após 9 de maio, a sobretaxa sobre ganhos de capital para donos de vários imóveis voltou, e quem doa para reduzir o imposto de venda pode enfrentar imposto maior.",
+        "body": "Após 9 de maio, a sobretaxa sobre ganhos de capital de proprietários de vários imóveis voltou a ser aplicada, aumentando a atenção sobre estratégias de economia fiscal. O texto original usou o caso de “evitar 600 milhões de wons em imposto de transferência e acabar com 1 bilhão de wons em imposto de doação” para mostrar que a doação, escolhida para reduzir o imposto sobre a venda, pode gerar uma carga maior. O pano de fundo é a retomada da sobretaxa para múltiplos proprietários. Doar em vez de vender pode parecer uma forma de economizar, mas, com o imposto de doação, o custo total pode superar o esperado. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Zuschlag auf Veräußerungsgewinne für Mehrfachbesitzer ist zurück",
+        "excerpt": "Seit dem 9. Mai gilt der Zuschlag auf Veräußerungsgewinne für Mehrfachhausbesitzer wieder; wer zur Steuerersparnis schenkt, kann höhere Schenkungsteuer auslösen.",
+        "body": "Seit dem 9. Mai gilt der Zuschlag auf die Veräußerungsgewinnsteuer für Besitzer mehrerer Wohnungen wieder, wodurch Steuersparstrategien stärker in den Fokus rücken. Der Originalbericht nannte den Fall, „600 Millionen Won Veräußerungssteuer vermeiden zu wollen und 1 Milliarde Won Schenkungsteuer zu zahlen“, um zu zeigen, dass eine Schenkung zur Senkung der Verkaufssteuer zu einer höheren Steuerlast führen kann. Hintergrund ist die Wiederaufnahme des Zuschlags für Mehrfachbesitzer. Eine Schenkung statt eines Verkaufs kann wie eine Sparmaßnahme wirken, doch bei anfallender Schenkungsteuer kann die Gesamtlast höher ausfallen als erwartet. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Retour de la surtaxe sur les plus-values des multipropriétaires et piège fiscal",
+        "excerpt": "Depuis le 9 mai, la surtaxe sur les plus-values des multipropriétaires a repris, et ceux qui donnent pour réduire l’impôt de cession peuvent subir une donation plus taxée.",
+        "body": "Depuis le 9 mai, la surtaxe sur l’impôt des plus-values applicable aux propriétaires de plusieurs logements a repris, ce qui attire l’attention sur les stratégies d’optimisation fiscale. L’article source cite le cas consistant à « éviter 600 millions de wons d’impôt de cession et faire face à 1 milliard de wons d’impôt sur les donations » pour montrer qu’une donation choisie afin de réduire l’impôt de cession peut entraîner une charge plus lourde. Le contexte est la reprise de la surtaxe visant les multipropriétaires. Donner au lieu de vendre peut sembler fiscalement avantageux, mais l’impôt sur les donations peut accroître la charge totale. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "عودة ضريبة الأرباح على ملاك المنازل المتعددة تكشف فخ ضريبة الهبة",
+        "excerpt": "بعد 9 مايو، استؤنف تشديد ضريبة الأرباح الرأسمالية على ملاك المنازل المتعددة، وقد يواجه من يختار الهبة لتقليل ضريبة البيع عبئا أكبر.",
+        "body": "بعد 9 مايو، عاد تطبيق التشديد على ضريبة الأرباح الرأسمالية لملاك المنازل المتعددة، ما زاد الانتباه إلى استراتيجيات خفض الضرائب. عرض النص الأصلي حالة بعنوان يفيد بأن مالكا حاول تفادي 600 مليون وون من ضريبة نقل الملكية، لكنه واجه 1 مليار وون من ضريبة الهبة، موضحا أن اختيار الهبة لتقليل ضريبة البيع قد يؤدي إلى عبء ضريبي أكبر. الخلفية هي استئناف التشديد على ضريبة نقل الملكية للملاك متعددي المنازل. قد تبدو الهبة بديلا موفرا للضريبة مقارنة بالبيع، لكن عند فرض ضريبة الهبة يمكن أن يصبح العبء الإجمالي أعلى من المتوقع. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "कई घरों के मालिकों पर कैपिटल गेन सरचार्ज लौटा, गिफ्ट टैक्स का जोखिम बढ़ा",
+        "excerpt": "9 मई के बाद कई घरों के मालिकों पर कैपिटल गेन टैक्स सरचार्ज फिर शुरू हुआ; बिक्री कर घटाने के लिए गिफ्ट चुनने वालों पर बड़ा गिफ्ट टैक्स लग सकता है।",
+        "body": "9 मई के बाद कई घरों के मालिकों पर कैपिटल गेन टैक्स सरचार्ज फिर शुरू हो गया, जिससे कर बचत रणनीतियों पर ध्यान बढ़ा है। मूल रिपोर्ट ने “60 करोड़ वॉन के ट्रांसफर टैक्स से बचने की कोशिश में 100 करोड़ वॉन गिफ्ट टैक्स” के उदाहरण से बताया कि बिक्री पर लगने वाला कर घटाने के लिए गिफ्ट का रास्ता चुनने पर कर बोझ उलटा बढ़ सकता है। पृष्ठभूमि कई घरों के मालिकों पर ट्रांसफर टैक्स सरचार्ज की वापसी है। बिक्री के बजाय गिफ्ट देना कर बचत जैसा दिख सकता है, लेकिन गिफ्ट टैक्स लगने पर कुल बोझ अनुमान से अधिक हो सकता है। इसलिए मालिकों को बिक्री और गिफ्ट दोनों के कर बोझ की तुलना करनी होगी। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Surtax capital gain pemilik banyak rumah kembali, jebakan pajak hibah menguat",
+        "excerpt": "Setelah 9 Mei, surtax pajak capital gain bagi pemilik banyak rumah kembali berlaku; memilih hibah untuk menekan pajak jual dapat memicu beban pajak hibah lebih besar.",
+        "body": "Setelah 9 Mei, surtax pajak capital gain bagi pemilik beberapa rumah kembali berlaku, sehingga strategi penghematan pajak menjadi sorotan. Artikel sumber memakai contoh “menghindari pajak pengalihan 600 juta won tetapi terkena pajak hibah 1 miliar won” untuk menunjukkan bahwa pemilik yang memilih hibah demi menurunkan pajak penjualan justru dapat menghadapi beban pajak lebih besar. Latar belakangnya adalah kembalinya surtax pajak pengalihan untuk pemilik banyak rumah. Hibah sebagai pengganti penjualan bisa terlihat seperti cara menghemat pajak, tetapi jika pajak hibah berlaku, total beban dapat melebihi perkiraan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "5347b6fa867b",
+    "slug": "37억-담그면-45억-잠실르엘-된다-잠실-지형-흔드는-장미-재건축-905490",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T19:10:26.235Z",
+    "updatedAt": "2026-05-12T19:10:26.235Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12045136",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12045136",
+    "titleFingerprint": "23afb6579043c80b42ba27c72d2f4fb2a8f176da",
+    "dedupKeys": [
+      "5347b6fa867b83512b83a53e97ce692013cc0ef4",
+      "23afb6579043c80b42ba27c72d2f4fb2a8f176da",
+      "8e584a084ac2e079d9550d2ec25a64607268ec1f"
+    ],
+    "imageUrl": "/images/articles/5347b6fa867b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "잠실 장미 재건축, 신천동 3522가구가 흔드는 한강변 주거 지형",
+        "excerpt": "서울 송파구 신천동 장미 1~3차 아파트 재건축이 잠실주공5단지와 함께 잠실 한강변 핵심 사업으로 부각되며 지역 주거 지형 변화에 관심이 쏠린다.",
+        "body": "서울 송파구 신천동 장미 1~3차 아파트 재건축이 잠실 한강변 주거 지형을 흔드는 핵심 사업으로 주목받고 있다. 장미 1·2차는 1979년, 장미3차는 1984년에 지어진 단지로, 최고 12~14층 규모의 3522가구 아파트다. 이 단지는 잠실주공5단지와 함께 잠실 한강변 재건축 ‘투톱’으로 꼽힌다. 원문 제목은 “37억 담그면 45억 잠실르엘 된다”고 표현하며 장미 재건축이 잠실 시장에서 갖는 관심을 드러냈다. 향후 사업 진행은 신천동과 잠실 일대 노후 아파트 재건축 흐름을 가늠하는 기준으로 받아들여질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Jamsil Jangmi Reconstruction Puts 3,522 Sincheon-dong Homes in Focus",
+        "excerpt": "The Jangmi 1-3 apartment reconstruction in Sincheon-dong, Songpa-gu, Seoul is drawing attention as a key Jamsil Han River project alongside Jamsil Jugong 5.",
+        "body": "The reconstruction of Jangmi Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul is emerging as a major project reshaping the residential map along the Jamsil Han River area. Jangmi 1 and 2 were built in 1979, while Jangmi 3 was built in 1984. The complex has 3,522 homes in buildings of up to 12 to 14 floors. It is regarded, together with Jamsil Jugong 5, as one of the two leading reconstruction projects on the Jamsil riverside. The original headline described it as a move in which “3.7 billion won becomes 4.5 billion-won Jamsil Le El,” showing market interest in the project. Its progress is expected to serve as a marker for reconstruction trends in Sincheon-dong and Jamsil. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "蚕室チャンミ再建築、申川洞3522戸が漢江沿い住宅地図を動かす",
+        "excerpt": "ソウル松坡区申川洞のチャンミ1～3次マンション再建築が、蚕室住公5団地と並ぶ蚕室漢江沿いの主要事業として注目されている。",
+        "body": "ソウル松坡区申川洞のチャンミ1～3次マンション再建築が、蚕室の漢江沿い住宅地図を動かす主要事業として注目されている。チャンミ1・2次は1979年、チャンミ3次は1984年に建てられた団地で、最高12～14階、3522戸規模のマンションだ。同団地は蚕室住公5団地とともに、蚕室漢江沿い再建築の「二大軸」とされる。原文の見出しは「37億を投じれば45億の蚕室ルエルになる」と表現し、同再建築への市場の関心を示した。今後の進捗は、申川洞と蚕室一帯の老朽マンション再建築の流れを測る材料になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "蚕室蔷薇重建受关注，申川洞3522户牵动汉江沿岸格局",
+        "excerpt": "首尔松坡区申川洞蔷薇1至3期公寓重建，与蚕室住公5小区并列为蚕室汉江沿岸核心项目，受到市场关注。",
+        "body": "首尔松坡区申川洞蔷薇1至3期公寓重建，正作为牵动蚕室汉江沿岸居住格局的核心项目受到关注。蔷薇1、2期建于1979年，蔷薇3期建于1984年，最高12至14层，共3522户。该小区与蚕室住公5小区一起，被视为蚕室汉江沿岸重建的“两大项目”。原文标题称“投入37亿韩元将变成45亿韩元的蚕室Le El”，显示出市场对蔷薇重建的关注。今后项目推进情况，预计将成为观察申川洞和蚕室一带老旧公寓重建趋势的重要参考。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Reconstrucción de Jangmi en Jamsil enfoca 3.522 viviendas en Sincheon-dong",
+        "excerpt": "La reconstrucción de Jangmi 1-3 en Sincheon-dong, Songpa-gu, Seúl, gana atención como proyecto clave junto a Jamsil Jugong 5 en la ribera del Han.",
+        "body": "La reconstrucción de los apartamentos Jangmi 1-3 en Sincheon-dong, Songpa-gu, Seúl, está atrayendo atención como un proyecto central que puede mover el mapa residencial de la ribera del Han en Jamsil. Jangmi 1 y 2 fueron construidos en 1979, y Jangmi 3 en 1984. El complejo cuenta con 3.522 viviendas en edificios de hasta 12 a 14 plantas. Junto con Jamsil Jugong 5, se considera uno de los dos grandes proyectos de reconstrucción de la zona ribereña de Jamsil. El titular original lo presentó como “invertir 3.700 millones de wones para convertirse en Jamsil Le El de 4.500 millones”, reflejando el interés del mercado. Su avance servirá como referencia para la reconstrucción de apartamentos antiguos en Sincheon-dong y Jamsil. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Reconstrução do Jangmi em Jamsil destaca 3.522 moradias em Sincheon-dong",
+        "excerpt": "A reconstrução dos apartamentos Jangmi 1-3 em Sincheon-dong, Songpa-gu, Seul, ganha atenção como projeto-chave ao lado do Jamsil Jugong 5.",
+        "body": "A reconstrução dos apartamentos Jangmi 1-3 em Sincheon-dong, Songpa-gu, Seul, está ganhando destaque como um projeto central capaz de alterar o mapa residencial da área de Jamsil junto ao rio Han. O Jangmi 1 e 2 foi construído em 1979, e o Jangmi 3 em 1984. O complexo reúne 3.522 unidades em prédios de até 12 a 14 andares. Ao lado do Jamsil Jugong 5, é visto como um dos dois principais projetos de reconstrução da margem do Han em Jamsil. O título original afirmou que “37 bilhões de won viram Jamsil Le El de 45 bilhões”, refletindo o interesse do mercado. O andamento do projeto deve servir de referência para a reconstrução de apartamentos antigos em Sincheon-dong e Jamsil. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Jamsil-Jangmi-Neubau rückt 3.522 Wohnungen in Sincheon-dong in den Fokus",
+        "excerpt": "Der Wiederaufbau der Jangmi-Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul gilt neben Jamsil Jugong 5 als Schlüsselprojekt am Han-Fluss.",
+        "body": "Der Wiederaufbau der Jangmi-Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul, zieht Aufmerksamkeit als zentrales Projekt auf sich, das die Wohnstruktur am Han-Fluss in Jamsil verändern könnte. Jangmi 1 und 2 wurden 1979 gebaut, Jangmi 3 im Jahr 1984. Die Anlage umfasst 3.522 Wohnungen in Gebäuden mit bis zu 12 bis 14 Etagen. Zusammen mit Jamsil Jugong 5 gilt sie als eines der zwei führenden Wiederaufbauprojekte am Jamsil-Ufer. Die Originalüberschrift formulierte, dass aus “3,7 Milliarden Won 4,5 Milliarden Won Jamsil Le El werden”, was das Marktinteresse zeigt. Der weitere Verlauf dürfte als Maßstab für die Sanierung alter Apartmentanlagen in Sincheon-dong und Jamsil dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La reconstruction de Jangmi à Jamsil met 3 522 logements de Sincheon-dong en avant",
+        "excerpt": "La reconstruction des appartements Jangmi 1-3 à Sincheon-dong, Songpa-gu, Séoul, attire l’attention avec Jamsil Jugong 5 comme projet clé du bord du Han.",
+        "body": "La reconstruction des appartements Jangmi 1-3 à Sincheon-dong, Songpa-gu, Séoul, s’impose comme un projet majeur susceptible de modifier la carte résidentielle du secteur de Jamsil le long du Han. Jangmi 1 et 2 ont été construits en 1979, tandis que Jangmi 3 date de 1984. L’ensemble compte 3 522 logements dans des immeubles allant jusqu’à 12 à 14 étages. Avec Jamsil Jugong 5, il est considéré comme l’un des deux grands projets de reconstruction du front du Han à Jamsil. Le titre original indiquait que “3,7 milliards de wons deviennent Jamsil Le El à 4,5 milliards”, signe de l’intérêt du marché. Son avancement devrait servir de repère pour la reconstruction des vieux appartements à Sincheon-dong et Jamsil. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إعادة بناء جانغمي في جامسيل تبرز 3522 وحدة في سينتشون دونغ",
+        "excerpt": "تجذب إعادة بناء شقق جانغمي 1-3 في سينتشون دونغ، سونغبا غو، سيول، الاهتمام كمشروع رئيسي على ضفة نهر الهان إلى جانب جامسيل جوغونغ 5.",
+        "body": "تجذب إعادة بناء شقق جانغمي 1-3 في سينتشون دونغ، سونغبا غو في سيول، الانتباه كمشروع أساسي قد يغير خريطة السكن على ضفة نهر الهان في جامسيل. بُنيت جانغمي 1 و2 في عام 1979، بينما بُنيت جانغمي 3 في عام 1984. ويضم المجمع 3522 وحدة في مبان يصل ارتفاعها إلى 12 و14 طابقا. ويُعد، إلى جانب جامسيل جوغونغ 5، أحد أبرز مشروعي إعادة البناء في منطقة جامسيل المطلة على الهان. وعبّر العنوان الأصلي عن ذلك بعبارة أن “37 مليار وون تصبح جامسيل لو إل بقيمة 45 مليار وون”، ما يظهر اهتمام السوق بالمشروع. ومن المتوقع أن يكون تقدمه مؤشرا لاتجاه إعادة بناء الشقق القديمة في سينتشون دونغ وجامسيل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जमसिल जांगमी पुनर्निर्माण से सिनचोन-डोंग के 3,522 घर चर्चा में",
+        "excerpt": "सियोल के सोंगपा-गु, सिनचोन-डोंग में जांगमी 1-3 अपार्टमेंट पुनर्निर्माण, जमसिल जुगोंग 5 के साथ हान नदी किनारे की प्रमुख परियोजना बनकर उभरा है।",
+        "body": "सियोल के सोंगपा-गु स्थित सिनचोन-डोंग में जांगमी 1-3 अपार्टमेंट का पुनर्निर्माण जमसिल के हान नदी किनारे आवासीय नक्शे को प्रभावित करने वाली प्रमुख परियोजना के रूप में ध्यान खींच रहा है। जांगमी 1 और 2 का निर्माण 1979 में हुआ था, जबकि जांगमी 3 1984 में बना। यह परिसर अधिकतम 12 से 14 मंजिलों वाला 3,522 घरों का अपार्टमेंट है। इसे जमसिल जुगोंग 5 के साथ जमसिल हान नदी किनारे पुनर्निर्माण की दो प्रमुख परियोजनाओं में गिना जाता है। मूल शीर्षक ने इसे “37 अरब वॉन लगाने पर 45 अरब वॉन का जमसिल ले एल” कहा, जिससे बाजार की रुचि दिखती है। इसकी प्रगति सिनचोन-डोंग और जमसिल में पुराने अपार्टमेंट पुनर्निर्माण की दिशा का संकेत मानी जाएगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Rekonstruksi Jangmi Jamsil Soroti 3.522 Hunian di Sincheon-dong",
+        "excerpt": "Rekonstruksi Apartemen Jangmi 1-3 di Sincheon-dong, Songpa-gu, Seoul menarik perhatian sebagai proyek kunci tepi Sungai Han bersama Jamsil Jugong 5.",
+        "body": "Rekonstruksi Apartemen Jangmi 1-3 di Sincheon-dong, Songpa-gu, Seoul, menjadi perhatian sebagai proyek utama yang dapat mengubah peta hunian kawasan Jamsil di tepi Sungai Han. Jangmi 1 dan 2 dibangun pada 1979, sedangkan Jangmi 3 dibangun pada 1984. Kompleks ini memiliki 3.522 unit dalam bangunan setinggi hingga 12 sampai 14 lantai. Bersama Jamsil Jugong 5, kompleks ini disebut sebagai dua proyek teratas rekonstruksi tepi Sungai Han di Jamsil. Judul asli menyebut “menanam 37 miliar won menjadi Jamsil Le El 45 miliar won”, menunjukkan perhatian pasar pada proyek tersebut. Perkembangannya diperkirakan menjadi acuan tren rekonstruksi apartemen tua di Sincheon-dong dan Jamsil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4ba601a3595d",
     "slug": "中-ai암시장-활개-클로드-35-등-美최신모델-공공연히-거래-693534",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "DK Asia Gandeng Hana Bank, Pengembangan Royal Park City Tahap 2 Dipercepat",
         "excerpt": "DK Asia pada tanggal 11 menandatangani perjanjian pembiayaan dengan Hana Bank di pusat budaya hunian masa depan Royal Park City, Incheon, untuk tahap 2.",
         "body": "DK Asia menandatangani perjanjian pembiayaan dengan Hana Bank untuk mendorong pengembangan Royal Park City tahap kedua. Perjanjian itu berlangsung pada tanggal 11 di pusat budaya hunian masa depan Royal Park City di Incheon, dengan fokus pada pendanaan proyek berskala 16.800 unit. DK Asia menyatakan bahwa melalui perjanjian ini, pihaknya berencana mengamankan 90% biaya konstruksi untuk 8.800 unit tahap pertama. Royal Park City tahap 2 merupakan proyek hunian berskala besar, sehingga stabilitas pendanaan dapat memengaruhi kecepatan pelaksanaan proyek ke depan. Dengan perjanjian ini, DK Asia mempercepat penyediaan dana pengembangan dan memperkuat dasar proyek tahap kedua. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "1937cd758735",
-    "slug": "트러스테이-혁신특허기술대상-수상ai-화재감지-기술-인정-625791",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T00:48:36.960Z",
-    "updatedAt": "2026-05-12T00:48:36.960Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051298876",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051298876",
-    "titleFingerprint": "84c18f8994e6eee4a951d89ba0644236bf9e027d",
-    "dedupKeys": [
-      "1937cd7587357f66fd44c0a75f6076e28fcc9337",
-      "84c18f8994e6eee4a951d89ba0644236bf9e027d",
-      "4d8ea00ad563853384f60d4a278659f574261ec4"
-    ],
-    "imageUrl": "/images/articles/1937cd758735.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트러스테이 AI 화재감지 기술, 혁신특허기술대상 수상으로 주목",
-        "excerpt": "트러스테이가 AI 화재감지 기술의 우수성을 인정받아 혁신특허기술대상을 수상했다고 hankyung.com이 보도했다. 주거·건물 관리 기술 경쟁력이 부각됐다.",
-        "body": "트러스테이가 AI 화재감지 기술로 혁신특허기술대상을 수상했다고 hankyung.com이 보도했다. 이번 수상은 인공지능을 활용한 화재 감지 기술의 혁신성과 특허 기술력을 인정받은 결과다. 원문에 따르면 트러스테이는 해당 기술을 통해 화재 위험을 감지하는 분야에서 기술 경쟁력을 보여줬다. 부동산 및 주거 관리 시장에서는 안전 관리 기술의 중요성이 커지고 있어, AI 기반 화재감지 기술에 대한 관심도 이어질 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Trustay Wins Innovation Patent Technology Award for AI Fire Detection",
-        "excerpt": "Trustay won the Innovation Patent Technology Award after its AI fire detection technology was recognized, hankyung.com reported, highlighting its building safety tech capability.",
-        "body": "Trustay has won the Innovation Patent Technology Award for its AI fire detection technology, according to hankyung.com. The award recognizes the innovation and patented technology behind its artificial intelligence-based fire detection system. The original report said Trustay demonstrated technological competitiveness in detecting fire risks through this technology. As safety management becomes increasingly important in real estate and residential property management, attention to AI-based fire detection technology is expected to continue. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "トラステイ、AI火災検知技術で革新特許技術大賞を受賞",
-        "excerpt": "トラステイがAI火災検知技術の優秀性を認められ、革新特許技術大賞を受賞したとhankyung.comが報じた。住宅・建物管理の安全技術が注目される。",
-        "body": "トラステイがAI火災検知技術で革新特許技術大賞を受賞したと、hankyung.comが報じた。今回の受賞は、人工知能を活用した火災検知技術の革新性と特許技術力が認められた結果だ。原文によると、トラステイは同技術を通じて火災リスクを検知する分野で技術競争力を示した。不動産および住宅管理市場では安全管理技術の重要性が高まっており、AI基盤の火災検知技術への関心も続く見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Trustay凭AI火灾探测技术获创新专利技术大奖",
-        "excerpt": "据hankyung.com报道，Trustay因AI火灾探测技术获得创新专利技术大奖，其住宅与建筑安全管理技术竞争力受到关注。",
-        "body": "据hankyung.com报道，Trustay凭借AI火灾探测技术获得创新专利技术大奖。此次获奖意味着其利用人工智能进行火灾探测的技术创新性和专利技术实力获得认可。原文称，Trustay通过该技术在火灾风险探测领域展现了技术竞争力。随着房地产和住宅管理市场对安全管理技术的重视不断提高，基于AI的火灾探测技术预计将继续受到关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Trustay gana premio de patente innovadora por detección de incendios con IA",
-        "excerpt": "Trustay recibió el Premio a la Tecnología de Patente Innovadora por su tecnología de detección de incendios con IA, informó hankyung.com, destacando su capacidad en seguridad.",
-        "body": "Trustay ganó el Premio a la Tecnología de Patente Innovadora por su tecnología de detección de incendios con IA, según informó hankyung.com. El reconocimiento destaca la innovación y la solidez de patente de su sistema de detección de incendios basado en inteligencia artificial. De acuerdo con el texto original, Trustay mostró competitividad tecnológica en el campo de la detección de riesgos de incendio mediante esta tecnología. En el mercado inmobiliario y de gestión residencial, la importancia de la seguridad sigue creciendo, por lo que continuará el interés en la detección de incendios basada en IA. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Trustay vence prêmio de patente inovadora por detecção de incêndio com IA",
-        "excerpt": "A Trustay recebeu o Prêmio de Tecnologia de Patente Inovadora pelo reconhecimento de sua tecnologia de detecção de incêndio com IA, informou hankyung.com.",
-        "body": "A Trustay venceu o Prêmio de Tecnologia de Patente Inovadora por sua tecnologia de detecção de incêndio com IA, segundo o hankyung.com. A premiação reconhece a inovação e a força de patente da tecnologia que usa inteligência artificial para detectar incêndios. De acordo com o texto original, a Trustay demonstrou competitividade tecnológica no campo da detecção de riscos de incêndio por meio dessa solução. Como a segurança ganha importância no mercado imobiliário e na gestão residencial, o interesse por tecnologias de detecção de incêndio baseadas em IA deve continuar. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Trustay erhält Innovationspreis für patentierte KI-Branderkennung",
-        "excerpt": "Trustay wurde für seine KI-Branderkennung mit dem Innovation Patent Technology Award ausgezeichnet, berichtete hankyung.com. Die Sicherheitstechnik für Gebäude rückt in den Fokus.",
-        "body": "Trustay hat für seine KI-Branderkennung den Innovation Patent Technology Award erhalten, wie hankyung.com berichtete. Die Auszeichnung würdigt die Innovationskraft und patentierte Technologie eines Systems, das künstliche Intelligenz zur Erkennung von Bränden nutzt. Dem Originalbericht zufolge zeigte Trustay mit dieser Technologie seine Wettbewerbsfähigkeit bei der Erkennung von Brandrisiken. Da Sicherheitstechnik im Immobilien- und Wohnungsmanagement an Bedeutung gewinnt, dürfte das Interesse an KI-basierter Branderkennung weiter anhalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Trustay primé pour sa technologie brevetée de détection d’incendie par IA",
-        "excerpt": "Trustay a reçu le Prix de la technologie brevetée innovante pour sa détection d’incendie par IA, selon hankyung.com, mettant en avant ses capacités en sécurité des bâtiments.",
-        "body": "Trustay a remporté le Prix de la technologie brevetée innovante pour sa technologie de détection d’incendie par IA, selon hankyung.com. Cette distinction reconnaît l’innovation et la solidité brevetée d’une technologie qui utilise l’intelligence artificielle pour détecter les incendies. D’après le texte original, Trustay a montré sa compétitivité technologique dans la détection des risques d’incendie grâce à cette solution. Alors que la sécurité devient plus importante dans l’immobilier et la gestion résidentielle, l’intérêt pour la détection d’incendie fondée sur l’IA devrait se poursuivre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تراستاي تفوز بجائزة تقنية براءات الابتكار عن كشف الحرائق بالذكاء الاصطناعي",
-        "excerpt": "أفاد hankyung.com بأن تراستاي فازت بجائزة تقنية براءات الابتكار بعد الاعتراف بتقنيتها لكشف الحرائق بالذكاء الاصطناعي، ما يبرز قدراتها في سلامة المباني.",
-        "body": "فازت تراستاي بجائزة تقنية براءات الابتكار عن تقنيتها لكشف الحرائق بالذكاء الاصطناعي، وفق ما أفاد hankyung.com. ويعكس هذا الفوز الاعتراف بابتكار التقنية وقوتها كحل قائم على براءة اختراع يستخدم الذكاء الاصطناعي في رصد الحرائق. وبحسب النص الأصلي، أظهرت تراستاي من خلال هذه التقنية قدرة تنافسية في مجال كشف مخاطر الحرائق. ومع تزايد أهمية تقنيات إدارة السلامة في سوق العقارات وإدارة المساكن، من المتوقع أن يستمر الاهتمام بتقنيات كشف الحرائق القائمة على الذكاء الاصطناعي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Trustay को AI आग पहचान तकनीक के लिए इनोवेशन पेटेंट टेक्नोलॉजी अवॉर्ड",
-        "excerpt": "hankyung.com के अनुसार, Trustay को AI आग पहचान तकनीक की उत्कृष्टता के लिए इनोवेशन पेटेंट टेक्नोलॉजी अवॉर्ड मिला, जिससे भवन सुरक्षा तकनीक पर ध्यान बढ़ा।",
-        "body": "hankyung.com के अनुसार, Trustay ने अपनी AI आग पहचान तकनीक के लिए इनोवेशन पेटेंट टेक्नोलॉजी अवॉर्ड जीता। यह पुरस्कार कृत्रिम बुद्धिमत्ता का उपयोग करने वाली आग पहचान तकनीक की नवाचार क्षमता और पेटेंट तकनीकी ताकत को मान्यता देता है। मूल रिपोर्ट के मुताबिक, Trustay ने इस तकनीक के जरिए आग के जोखिम का पता लगाने के क्षेत्र में अपनी तकनीकी प्रतिस्पर्धा दिखाई। रियल एस्टेट और आवासीय प्रबंधन बाजार में सुरक्षा प्रबंधन तकनीक का महत्व बढ़ रहा है, इसलिए AI आधारित आग पहचान तकनीक में रुचि जारी रहने की संभावना है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Trustay Raih Penghargaan Paten Inovatif untuk Teknologi Deteksi Kebakaran AI",
-        "excerpt": "Trustay meraih Penghargaan Teknologi Paten Inovatif setelah teknologi deteksi kebakaran berbasis AI diakui, menurut hankyung.com, menyoroti kemampuan keamanan gedungnya.",
-        "body": "Trustay meraih Penghargaan Teknologi Paten Inovatif untuk teknologi deteksi kebakaran berbasis AI, menurut laporan hankyung.com. Penghargaan ini mengakui inovasi dan kekuatan paten dari teknologi yang memanfaatkan kecerdasan buatan untuk mendeteksi kebakaran. Menurut teks asli, Trustay menunjukkan daya saing teknologi di bidang deteksi risiko kebakaran melalui solusi tersebut. Di pasar real estat dan pengelolaan hunian, teknologi manajemen keselamatan semakin penting, sehingga perhatian terhadap deteksi kebakaran berbasis AI diperkirakan akan terus berlanjut. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "cd7ddd8d926e",
-    "slug": "단독-신혜성-논현동-꼬마빌딩-555억-매각손해-보고-팔았다-234257",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T00:47:46.903Z",
-    "updatedAt": "2026-05-12T00:47:46.903Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051297647",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051297647",
-    "titleFingerprint": "6b0f7b44a4d1f92ad9bcc9db3ff40b9ec1121e8c",
-    "dedupKeys": [
-      "cd7ddd8d926eea0a476c4af37929b6cdb8f8b606",
-      "6b0f7b44a4d1f92ad9bcc9db3ff40b9ec1121e8c",
-      "d7a83635aaecbd62a2b9e6c7021005c9c7c8addf"
-    ],
-    "imageUrl": "/images/articles/cd7ddd8d926e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신혜성 논현동 꼬마빌딩 55.5억 매각, ‘손해 보고 팔았다’는 단독 보도",
-        "excerpt": "그룹 신화 멤버 신혜성이 서울 강남구 논현동 꼬마빌딩을 55억5000만원에 매각했으며, 거래 결과 손해를 보고 판 것으로 전해졌다.",
-        "body": "그룹 신화 멤버 신혜성이 서울 강남구 논현동의 이른바 꼬마빌딩을 55억5000만원에 매각한 것으로 전해졌다. 한국경제 단독 보도에 따르면 이번 거래는 단순한 보유 자산 처분이 아니라 ‘손해 보고 팔았다’는 평가가 붙은 매각 사례다. 공개된 원문 정보상 매각 대상은 논현동 소재 소형 빌딩이며, 핵심 수치는 매각가 55억5000만원이다. 연예인 보유 부동산 거래는 강남권 중소형 빌딩 시장 흐름을 보여주는 사례로 자주 주목받는다. 다만 이번 보도에서 확인 가능한 내용은 신혜성의 논현동 꼬마빌딩 매각, 매각가, 손실 매각이라는 점에 한정된다. 향후 시장 영향이나 개인적 배경은 추가 확인이 필요한 부분이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Shin Hye-sung Sells Nonhyeon-dong Small Building for 5.55 Billion Won at a Loss",
-        "excerpt": "Shinhwa member Shin Hye-sung reportedly sold a small building in Nonhyeon-dong, Gangnam-gu, Seoul, for 5.55 billion won, with the deal described as a loss-making sale.",
-        "body": "Shinhwa member Shin Hye-sung has reportedly sold a small building in Nonhyeon-dong, Gangnam-gu, Seoul, for 5.55 billion won. According to an exclusive report by Korea Economic Daily, the transaction was not simply a disposal of a real estate asset but was described as a sale made at a loss. The confirmed details from the original information are limited to the property being a small building in Nonhyeon-dong, the seller being Shin Hye-sung, and the sale price of 5.55 billion won. Real estate deals involving celebrities often draw attention because they reflect activity in Seoul’s small-building market, especially in Gangnam. However, any broader market impact or personal background requires further confirmation. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "シン・ヘソン、論峴洞の小型ビルを55.5億ウォンで売却、損失取引と報道",
-        "excerpt": "神話のメンバー、シン・ヘソンがソウル江南区論峴洞の小型ビルを55億5000万ウォンで売却し、損失を出して手放したと報じられた。",
-        "body": "神話のメンバー、シン・ヘソンがソウル江南区論峴洞にあるいわゆる小型ビルを55億5000万ウォンで売却したと伝えられた。韓国経済新聞の単独報道によると、今回の取引は単なる保有不動産の処分ではなく、「損をして売った」と評価される売却事例だ。原文情報で確認できる内容は、売却対象が論峴洞所在の小型ビルであること、売却者がシン・ヘソンであること、売却価格が55億5000万ウォンであることに限られる。芸能人の不動産取引は、江南圏の中小型ビル市場の動きを示す事例として注目されやすい。ただし、今後の市場影響や個人的背景については追加確認が必要だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "申彗星以55.5亿韩元出售论岘洞小型楼，被指亏损出手",
-        "excerpt": "神话成员申彗星据报以55.5亿韩元出售首尔江南区论岘洞一栋小型楼，该交易被描述为亏损出售。",
-        "body": "据报道，神话成员申彗星已以55.5亿韩元出售位于首尔江南区论岘洞的一栋小型楼。韩国经济日报的独家报道称，此次交易并非单纯处置持有资产，而是被评价为“亏损出售”的案例。根据原文可确认的信息，出售标的是论岘洞小型楼，出售人为申彗星，核心金额为55.5亿韩元。艺人持有房地产的交易常因可反映首尔江南圈中小型楼宇市场动向而受到关注。不过，关于此次交易对市场的影响或个人背景，仍需进一步确认。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Shin Hye-sung vende edificio pequeño en Nonhyeon-dong por 5.550 millones de wones con pérdidas",
-        "excerpt": "Shin Hye-sung, integrante de Shinhwa, habría vendido un pequeño edificio en Nonhyeon-dong, Gangnam-gu, Seúl, por 5.550 millones de wones, en una operación descrita como realizada con pérdidas.",
-        "body": "Shin Hye-sung, integrante del grupo Shinhwa, habría vendido un pequeño edificio en Nonhyeon-dong, Gangnam-gu, Seúl, por 5.550 millones de wones. Según una exclusiva de Korea Economic Daily, la operación no fue solo una venta de un activo inmobiliario, sino que fue descrita como una transacción realizada con pérdidas. La información confirmada en el texto original se limita a que el inmueble vendido era un pequeño edificio en Nonhyeon-dong, que el vendedor fue Shin Hye-sung y que el precio de venta fue de 5.550 millones de wones. Las operaciones inmobiliarias de celebridades suelen atraer atención por su relación con el mercado de edificios medianos y pequeños en Gangnam. Cualquier impacto o contexto personal requiere confirmación adicional. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Shin Hye-sung vende pequeno prédio em Nonhyeon-dong por 5,55 bilhões de won com prejuízo",
-        "excerpt": "Shin Hye-sung, integrante do Shinhwa, teria vendido um pequeno prédio em Nonhyeon-dong, Gangnam-gu, Seul, por 5,55 bilhões de won, em uma transação descrita como feita com prejuízo.",
-        "body": "Shin Hye-sung, integrante do grupo Shinhwa, teria vendido um pequeno prédio em Nonhyeon-dong, Gangnam-gu, Seul, por 5,55 bilhões de won. Segundo uma reportagem exclusiva do Korea Economic Daily, a operação não foi apenas a venda de um ativo imobiliário, mas foi descrita como uma transação realizada com prejuízo. As informações confirmadas no texto original se limitam ao fato de o imóvel estar em Nonhyeon-dong, de o vendedor ser Shin Hye-sung e de o preço de venda ser 5,55 bilhões de won. Negócios imobiliários envolvendo celebridades costumam chamar atenção por refletirem movimentos do mercado de prédios pequenos e médios em Gangnam. Impactos futuros ou motivações pessoais exigem confirmação adicional. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Shin Hye-sung verkauft kleines Gebäude in Nonhyeon-dong für 5,55 Milliarden Won mit Verlust",
-        "excerpt": "Shinhwa-Mitglied Shin Hye-sung soll ein kleines Gebäude in Nonhyeon-dong, Gangnam-gu, Seoul, für 5,55 Milliarden Won verkauft haben; der Deal wurde als Verlustverkauf beschrieben.",
-        "body": "Shinhwa-Mitglied Shin Hye-sung hat Berichten zufolge ein kleines Gebäude in Nonhyeon-dong, Gangnam-gu, Seoul, für 5,55 Milliarden Won verkauft. Laut einem Exklusivbericht der Korea Economic Daily handelte es sich nicht nur um die Veräußerung eines Immobilienvermögens, sondern um einen Verkauf, der als verlustbringend beschrieben wurde. Die im Ausgangstext bestätigten Informationen beschränken sich darauf, dass es sich um ein kleines Gebäude in Nonhyeon-dong handelt, dass Shin Hye-sung der Verkäufer war und dass der Verkaufspreis 5,55 Milliarden Won betrug. Immobilientransaktionen von Prominenten ziehen oft Aufmerksamkeit auf sich, weil sie Bewegungen im Markt für kleinere Gebäude in Gangnam zeigen können. Weitere Auswirkungen oder persönliche Hintergründe müssten zusätzlich bestätigt werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Shin Hye-sung vend un petit immeuble à Nonhyeon-dong pour 5,55 milliards de wons à perte",
-        "excerpt": "Shin Hye-sung, membre de Shinhwa, aurait vendu un petit immeuble à Nonhyeon-dong, Gangnam-gu, Séoul, pour 5,55 milliards de wons, dans une opération décrite comme réalisée à perte.",
-        "body": "Shin Hye-sung, membre du groupe Shinhwa, aurait vendu un petit immeuble situé à Nonhyeon-dong, dans l’arrondissement de Gangnam à Séoul, pour 5,55 milliards de wons. Selon une information exclusive du Korea Economic Daily, cette transaction n’est pas seulement une cession d’actif immobilier, mais a été décrite comme une vente réalisée à perte. Les éléments confirmés dans le texte d’origine se limitent au fait que le bien est un petit immeuble de Nonhyeon-dong, que le vendeur est Shin Hye-sung et que le prix de vente est de 5,55 milliards de wons. Les transactions immobilières de célébrités attirent souvent l’attention car elles peuvent refléter le marché des petits immeubles à Gangnam. Tout impact ou contexte personnel nécessite une confirmation supplémentaire. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "شين هي سونغ يبيع مبنى صغيرا في نونهـيون دونغ مقابل 5.55 مليار وون بخسارة",
-        "excerpt": "أفادت تقارير بأن شين هي سونغ، عضو فرقة شينهوا، باع مبنى صغيرا في نونهـيون دونغ بمنطقة غانغنام في سيول مقابل 5.55 مليار وون، في صفقة وُصفت بأنها تمت بخسارة.",
-        "body": "أفادت تقارير بأن شين هي سونغ، عضو فرقة شينهوا، باع مبنى صغيرا في نونهـيون دونغ بمنطقة غانغنام في سيول مقابل 5.55 مليار وون. ووفق تقرير حصري لصحيفة Korea Economic Daily، لم تكن الصفقة مجرد تصرف في أصل عقاري، بل وُصفت بأنها عملية بيع تمت بخسارة. وتقتصر المعلومات المؤكدة في النص الأصلي على أن العقار مبنى صغير في نونهـيون دونغ، وأن البائع هو شين هي سونغ، وأن سعر البيع بلغ 5.55 مليار وون. وغالبا ما تجذب صفقات عقارات المشاهير الانتباه لأنها قد تعكس حركة سوق المباني الصغيرة والمتوسطة في غانغنام. أما أي تأثيرات سوقية أو خلفيات شخصية فتحتاج إلى تأكيد إضافي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "शिन ह्ये-सुंग ने नोनह्योन-डोंग की छोटी इमारत 5.55 अरब वॉन में घाटे पर बेची",
-        "excerpt": "शिन्ह्वा सदस्य शिन ह्ये-सुंग ने सियोल के गंगनम-गु स्थित नोनह्योन-डोंग की एक छोटी इमारत 5.55 अरब वॉन में बेची, जिसे घाटे की बिक्री बताया गया है।",
-        "body": "शिन्ह्वा समूह के सदस्य शिन ह्ये-सुंग ने सियोल के गंगनम-गु स्थित नोनह्योन-डोंग की एक छोटी इमारत 5.55 अरब वॉन में बेची है। Korea Economic Daily की विशेष रिपोर्ट के अनुसार, यह लेनदेन केवल रियल एस्टेट संपत्ति की बिक्री नहीं था, बल्कि इसे ‘घाटा उठाकर बेचना’ बताया गया। मूल जानकारी से पुष्टि होने वाले तथ्य सीमित हैं: संपत्ति नोनह्योन-डोंग की एक छोटी इमारत है, विक्रेता शिन ह्ये-सुंग हैं और बिक्री मूल्य 5.55 अरब वॉन है। मशहूर हस्तियों के रियल एस्टेट सौदे अक्सर गंगनम क्षेत्र के छोटे और मध्यम भवन बाजार की दिशा दिखाने वाले उदाहरण के रूप में ध्यान खींचते हैं। बाजार पर असर या निजी पृष्ठभूमि के लिए अतिरिक्त पुष्टि आवश्यक है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Shin Hye-sung Jual Gedung Kecil di Nonhyeon-dong Rp Setara 5,55 Miliar Won dengan Rugi",
-        "excerpt": "Anggota Shinhwa, Shin Hye-sung, dilaporkan menjual gedung kecil di Nonhyeon-dong, Gangnam-gu, Seoul, seharga 5,55 miliar won, dalam transaksi yang disebut merugi.",
-        "body": "Anggota grup Shinhwa, Shin Hye-sung, dilaporkan menjual sebuah gedung kecil di Nonhyeon-dong, Gangnam-gu, Seoul, seharga 5,55 miliar won. Menurut laporan eksklusif Korea Economic Daily, transaksi ini bukan sekadar pelepasan aset properti, tetapi disebut sebagai penjualan yang dilakukan dengan kerugian. Informasi yang dapat dikonfirmasi dari teks asli terbatas pada objek berupa gedung kecil di Nonhyeon-dong, penjualnya Shin Hye-sung, dan harga jual 5,55 miliar won. Transaksi properti selebritas sering menarik perhatian karena dapat mencerminkan pergerakan pasar gedung kecil dan menengah di kawasan Gangnam. Namun, dampak pasar atau latar pribadi masih memerlukan konfirmasi tambahan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c3dc4fd9cdd5",
-    "slug": "주변-시세-90-이하lh-이달-수도권에-든든전세주택-1200가구-공급-948419",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T00:46:22.603Z",
-    "updatedAt": "2026-05-12T00:46:22.603Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12044322",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12044322",
-    "titleFingerprint": "190be209c70c91c3cb1eab6c9bce25120a9abd48",
-    "dedupKeys": [
-      "c3dc4fd9cdd54ad3335b244423bf96060bd916c9",
-      "190be209c70c91c3cb1eab6c9bce25120a9abd48",
-      "197068ed62d6e8568f3aac74e830e8c05b0911aa"
-    ],
-    "imageUrl": "/images/articles/c3dc4fd9cdd5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LH 든든전세주택 1253가구 수도권 공급, 주변 시세 90% 이하 전세",
-        "excerpt": "한국토지주택공사(LH)가 이달 서울·인천·경기 등 수도권 역세권 입지에 중산층 대상 든든전세주택 1253가구를 주변 시세 90% 이하로 공급한다.",
-        "body": "한국토지주택공사(LH)는 이달 수도권에서 중산층을 대상으로 한 든든전세주택 1253가구를 공급한다. 공급 물량은 서울 103가구, 인천 72가구, 경기 1078가구로 구성되며, 수도권 역세권 입지를 중심으로 마련된다. 든든전세주택은 주변 전세 시세의 90% 이하 수준으로 공급되는 점이 핵심이다. 이번 공급은 서울보다 경기 물량 비중이 큰 구조로, 수도권 전세 수요자에게 선택지를 넓히는 효과가 예상된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LH to Supply 1,253 Deundeun Jeonse Homes in Seoul Metro Area Below 90% of Market Rent",
-        "excerpt": "Korea Land and Housing Corporation will supply 1,253 Deundeun Jeonse homes this month in Seoul, Incheon and Gyeonggi near station areas for middle-income households at below 90% of nearby market rents.",
-        "body": "Korea Land and Housing Corporation (LH) will supply 1,253 Deundeun Jeonse rental homes in the Seoul metropolitan area this month for middle-income households. The supply consists of 103 units in Seoul, 72 in Incheon and 1,078 in Gyeonggi, with locations focused near transit station areas. The key feature is that the homes are offered at no more than 90% of nearby jeonse market prices. With Gyeonggi accounting for the largest share of the supply, the plan is expected to expand options for jeonse seekers in the capital region. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LH、首都圏に安心チョンセ住宅1253戸を供給 周辺相場90％以下",
-        "excerpt": "韓国土地住宅公社（LH）は今月、ソウル・仁川・京畿の首都圏駅勢圏立地で、中間層向け安心チョンセ住宅1253戸を周辺相場の90％以下で供給する。",
-        "body": "韓国土地住宅公社（LH）は今月、首都圏で中間層を対象にした安心チョンセ住宅1253戸を供給する。供給戸数はソウル103戸、仁川72戸、京畿1078戸で、首都圏の駅勢圏立地を中心に用意される。安心チョンセ住宅は、周辺のチョンセ相場の90％以下水準で供給される点が特徴だ。今回の供給はソウルより京畿の比重が大きく、首都圏のチョンセ需要者に選択肢を広げる効果が見込まれる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LH将在首都圈供应1253套安心全租住宅 价格低于周边行情90%",
-        "excerpt": "韩国土地住宅公社（LH）本月将在首尔、仁川、京畿等首都圈车站圈区位，面向中产阶层供应1253套安心全租住宅，价格低于周边全租行情的90%。",
-        "body": "韩国土地住宅公社（LH）本月将在首都圈供应面向中产阶层的安心全租住宅1253套。供应规模包括首尔103套、仁川72套、京畿1078套，主要布局在首都圈车站圈区位。安心全租住宅的核心特点是供应价格不高于周边全租行情的90%。此次供应中，京畿地区占比明显高于首尔，预计将为首都圈全租需求者扩大选择范围。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "LH ofrecerá 1.253 viviendas Jeonse Deundeun en el área metropolitana por debajo del 90% del mercado",
-        "excerpt": "Korea Land and Housing Corporation suministrará este mes 1.253 viviendas Jeonse Deundeun en Seúl, Incheon y Gyeonggi, cerca de estaciones y para hogares de clase media, por debajo del 90% del precio local.",
-        "body": "Korea Land and Housing Corporation (LH) suministrará este mes 1.253 viviendas Jeonse Deundeun en el área metropolitana de Seúl para hogares de clase media. La oferta incluye 103 unidades en Seúl, 72 en Incheon y 1.078 en Gyeonggi, con ubicaciones centradas en zonas cercanas a estaciones. La característica principal es que se ofrecerán a un nivel no superior al 90% del precio jeonse de las áreas cercanas. Dado que Gyeonggi concentra la mayor parte de la oferta, se espera que amplíe las opciones para quienes buscan jeonse en la región capitalina. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "LH fornecerá 1.253 moradias Jeonse Deundeun na região metropolitana abaixo de 90% do mercado",
-        "excerpt": "A Korea Land and Housing Corporation fornecerá este mês 1.253 moradias Jeonse Deundeun em Seul, Incheon e Gyeonggi, em áreas próximas a estações e voltadas à classe média, abaixo de 90% do mercado local.",
-        "body": "A Korea Land and Housing Corporation (LH) fornecerá este mês 1.253 moradias Jeonse Deundeun na região metropolitana de Seul para famílias de classe média. A oferta inclui 103 unidades em Seul, 72 em Incheon e 1.078 em Gyeonggi, com foco em localizações próximas a estações. O ponto central é que as moradias serão oferecidas a um nível não superior a 90% dos preços jeonse das áreas próximas. Como Gyeonggi responde pela maior parte da oferta, a medida deve ampliar as opções para quem busca jeonse na região da capital. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LH bietet 1.253 Deundeun-Jeonse-Wohnungen im Großraum Seoul unter 90% des Marktpreises an",
-        "excerpt": "Die Korea Land and Housing Corporation liefert diesen Monat 1.253 Deundeun-Jeonse-Wohnungen in Seoul, Incheon und Gyeonggi nahe Bahnhöfen für Haushalte der Mittelschicht zu unter 90% der lokalen Marktmiete.",
-        "body": "Die Korea Land and Housing Corporation (LH) stellt diesen Monat im Großraum Seoul 1.253 Deundeun-Jeonse-Wohnungen für Haushalte der Mittelschicht bereit. Das Angebot umfasst 103 Einheiten in Seoul, 72 in Incheon und 1.078 in Gyeonggi, vor allem in Lagen nahe Bahnhöfen. Kernpunkt ist, dass die Wohnungen zu höchstens 90% der umliegenden Jeonse-Marktpreise angeboten werden. Da Gyeonggi den größten Anteil der Einheiten stellt, dürfte das Angebot die Auswahl für Jeonse-Suchende in der Hauptstadtregion erweitern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "LH fournira 1 253 logements Jeonse Deundeun dans la région de Séoul sous 90% du marché",
-        "excerpt": "Korea Land and Housing Corporation fournira ce mois-ci 1 253 logements Jeonse Deundeun à Séoul, Incheon et Gyeonggi, près des stations et destinés aux classes moyennes, sous 90% des prix locaux.",
-        "body": "Korea Land and Housing Corporation (LH) fournira ce mois-ci 1 253 logements Jeonse Deundeun dans la région métropolitaine de Séoul pour les ménages de classe moyenne. L’offre comprend 103 unités à Séoul, 72 à Incheon et 1 078 à Gyeonggi, principalement dans des emplacements proches des stations. Le point essentiel est que ces logements sont proposés à un niveau ne dépassant pas 90% des prix jeonse des environs. Gyeonggi représentant la plus grande part de l’offre, cette mesure devrait élargir les choix des demandeurs de jeonse dans la région capitale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "LH تطرح 1253 مسكنا بنظام جيونسي دوندون في العاصمة بأقل من 90% من أسعار السوق",
-        "excerpt": "تطرح مؤسسة الأراضي والإسكان الكورية هذا الشهر 1253 مسكنا بنظام جيونسي دوندون في سيول وإنتشون وكيونغي قرب محطات النقل وللفئة المتوسطة، بأقل من 90% من الأسعار المحيطة.",
-        "body": "تعتزم مؤسسة الأراضي والإسكان الكورية (LH) طرح 1253 مسكنا بنظام جيونسي دوندون هذا الشهر في منطقة العاصمة، موجهة إلى الأسر من الطبقة المتوسطة. وتشمل الكمية 103 وحدات في سيول، و72 في إنتشون، و1078 في كيونغي، مع تركيز على مواقع قريبة من محطات النقل في منطقة العاصمة. وتتمثل الميزة الرئيسية في طرح هذه المساكن عند مستوى لا يتجاوز 90% من أسعار الجيونسي في المناطق المحيطة. وبما أن كيونغي تستحوذ على الحصة الأكبر، فمن المتوقع أن يوسع الطرح خيارات الباحثين عن الجيونسي في منطقة العاصمة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LH राजधानी क्षेत्र में 1,253 Deundeun Jeonse घर देगा, बाजार दर के 90% से कम पर",
-        "excerpt": "Korea Land and Housing Corporation इस महीने सियोल, इंचियोन और ग्योंगगी में स्टेशन क्षेत्रों के पास मध्यमवर्गीय परिवारों के लिए 1,253 Deundeun Jeonse घर आसपास की दरों के 90% से कम पर देगा।",
-        "body": "Korea Land and Housing Corporation (LH) इस महीने राजधानी क्षेत्र में मध्यमवर्गीय परिवारों के लिए 1,253 Deundeun Jeonse किराये के घर उपलब्ध कराएगा। आपूर्ति में सियोल में 103, इंचियोन में 72 और ग्योंगगी में 1,078 इकाइयां शामिल हैं, जिनका स्थान मुख्य रूप से स्टेशन क्षेत्रों के पास होगा। इसकी प्रमुख विशेषता यह है कि ये घर आसपास के jeonse बाजार मूल्य के 90% से अधिक नहीं होंगे। आपूर्ति में ग्योंगगी की हिस्सेदारी सबसे बड़ी है, जिससे राजधानी क्षेत्र में jeonse खोजने वालों के लिए विकल्प बढ़ने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "LH Pasok 1.253 Rumah Jeonse Deundeun di Area Seoul Raya di Bawah 90% Harga Pasar",
-        "excerpt": "Korea Land and Housing Corporation akan memasok 1.253 rumah Jeonse Deundeun bulan ini di Seoul, Incheon, dan Gyeonggi dekat area stasiun untuk kelas menengah, di bawah 90% harga pasar sekitar.",
-        "body": "Korea Land and Housing Corporation (LH) akan memasok 1.253 rumah sewa Jeonse Deundeun bulan ini di wilayah metropolitan Seoul untuk rumah tangga kelas menengah. Pasokan tersebut terdiri dari 103 unit di Seoul, 72 di Incheon, dan 1.078 di Gyeonggi, dengan lokasi yang berfokus di area dekat stasiun. Ciri utamanya adalah rumah-rumah ini ditawarkan pada tingkat tidak lebih dari 90% harga jeonse di kawasan sekitar. Karena Gyeonggi mencakup porsi terbesar, pasokan ini diperkirakan memperluas pilihan bagi pencari jeonse di wilayah ibu kota. Sumber: mk.co.kr"
       }
     }
   }
