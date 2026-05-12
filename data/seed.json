@@ -1,5 +1,230 @@
 [
   {
+    "id": "3671a674ced2",
+    "slug": "트럼프-방중에-머스크-팀-쿡-동행-반도체-갈등-젠슨-황은-빠져-589688",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T21:41:37.679Z",
+    "updatedAt": "2026-05-12T21:41:37.679Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260513/133910036/2",
+    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260513/133910036/2",
+    "titleFingerprint": "07a05c3f28e7f9e2d51ab1d1ebc9d5b288648ac1",
+    "dedupKeys": [
+      "3671a674ced25baf55908e515fa5fae8686a529e",
+      "07a05c3f28e7f9e2d51ab1d1ebc9d5b288648ac1",
+      "c0aa362223430217f6a230d206f10efeddd71cee"
+    ],
+    "imageUrl": "/images/articles/3671a674ced2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 방중에 머스크·팀 쿡 동행, 엔비디아 젠슨 황은 명단 제외",
+        "excerpt": "도널드 트럼프 미국 대통령이 13~15일 중국을 방문하며 머스크·팀 쿡 등 미 대표 CEO 16명이 동행하지만 엔비디아 젠슨 황은 제외됐다.",
+        "body": "도널드 트럼프 미국 대통령이 13~15일 중국을 방문하는 일정에 일론 머스크 테슬라 CEO, 팀 쿡 애플 CEO, 켈리 오트버그 보잉 CEO 등 미국 대표 경영자 16명이 동행한다. 11일 블룸버그통신 등은 백악관 당국자를 인용해 기술, 금융, 항공, 농업 분야 CEO들이 방중단에 포함됐다고 전했다. 머스크는 트럼프 대통령의 ‘퍼스트 버디’로 불리다 감세 정책 등을 둘러싸고 관계가 틀어진 뒤 다시 명단에 올라 주목된다. 금융권에서는 블랙록, 블랙스톤, 씨티그룹, 골드만삭스, 마스터카드, 비자 CEO가 포함됐다. 항공 분야는 보잉과 GE 에어로스페이스, 농업은 카길, IT 분야는 메타·마이크론·퀄컴 경영진이 동행한다. 반면 미중 무역전쟁의 민감 품목인 AI 반도체 기업 엔비디아의 대만계 젠슨 황 CEO는 제외됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Musk and Tim Cook to Join Trump’s China Visit, Nvidia’s Jensen Huang Left Off",
+        "excerpt": "U.S. President Donald Trump will visit China from May 13 to 15 with 16 major American CEOs, including Elon Musk and Tim Cook, while Nvidia’s Jensen Huang is absent.",
+        "body": "U.S. President Donald Trump will visit China from May 13 to 15 accompanied by 16 leading American executives, including Tesla CEO Elon Musk, Apple CEO Tim Cook and Boeing CEO Kelly Ortberg. Bloomberg and other outlets reported on May 11, citing a White House official, that CEOs from technology, finance, aviation and agriculture are joining the delegation. Musk’s inclusion drew attention after his relationship with Trump, once described as that of a “first buddy,” soured over issues including tax policy. Major finance chiefs from BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard and Visa are also included. Boeing and GE Aerospace represent aviation, Cargill agriculture, and Meta, Micron and Qualcomm the IT sector. However, Nvidia CEO Jensen Huang, whose AI chips are among the most sensitive items in the U.S.-China trade conflict, was left off the list. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "トランプ氏訪中にマスク氏とティム・クック氏同行、エヌビディアCEOは外れる",
+        "excerpt": "ドナルド・トランプ米大統領は13～15日に中国を訪問し、マスク氏やティム・クック氏ら米主要CEO16人が同行するが、エヌビディアのジェンスン・フアン氏は外れた。",
+        "body": "ドナルド・トランプ米大統領が13～15日に中国を訪問する日程に、テスラのイーロン・マスクCEO、アップルのティム・クックCEO、ボーイングのケリー・オルトバーグCEOら米国を代表する経営者16人が同行する。ブルームバーグ通信などは11日、ホワイトハウス当局者の話として、技術、金融、航空、農業など主要分野のCEOが訪中団に含まれると報じた。マスク氏はかつてトランプ氏の「ファースト・バディ」と呼ばれたが、減税政策などをめぐり関係が悪化していたため、名簿入りが注目される。金融ではブラックロック、ブラックストーン、シティグループ、ゴールドマン・サックス、マスターカード、ビザのCEOが加わる。航空はボーイングとGEエアロスペース、農業はカーギル、ITはメタ、マイクロン、クアルコムの経営陣が同行する。一方、米中貿易戦争で敏感なAI半導体を扱うエヌビディアの台湾系ジェンスン・フアンCEOは外れた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "特朗普访华马斯克、库克随行，英伟达黄仁勋未列名单",
+        "excerpt": "美国总统唐纳德·特朗普将于13日至15日访问中国，马斯克、库克等16名美国代表性CEO随行，但英伟达黄仁勋未在名单中。",
+        "body": "美国总统唐纳德·特朗普将于13日至15日访问中国，特斯拉CEO埃隆·马斯克、苹果CEO蒂姆·库克、波音CEO凯利·奥特伯格等16名美国代表性企业高管将随行。彭博社等媒体11日援引白宫官员报道称，科技、金融、航空、农业等主要领域CEO被纳入访华代表团。马斯克曾被称为特朗普总统的“第一好友”，但因减税政策等问题关系转冷，此次进入名单受到关注。金融业方面，贝莱德、黑石、花旗集团、高盛、万事达卡、维萨等公司CEO大批随行。航空业包括波音和GE航空航天，农业领域有嘉吉，信息技术领域则包括Meta、美光和高通管理层。另一方面，在美中贸易战中被视为敏感品类的AI半导体企业英伟达，其台湾裔CEO黄仁勋未列入名单。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Musk y Tim Cook acompañarán a Trump en China; Jensen Huang de Nvidia queda fuera",
+        "excerpt": "Donald Trump visitará China del 13 al 15 con 16 grandes CEO de EE. UU., incluidos Elon Musk y Tim Cook, mientras Jensen Huang de Nvidia no figura en la delegación.",
+        "body": "El presidente de Estados Unidos, Donald Trump, visitará China del 13 al 15 acompañado por 16 altos ejecutivos estadounidenses, entre ellos Elon Musk, CEO de Tesla; Tim Cook, CEO de Apple; y Kelly Ortberg, CEO de Boeing. Bloomberg y otros medios informaron el día 11, citando a un funcionario de la Casa Blanca, que la delegación incluye directivos de tecnología, finanzas, aviación y agricultura. La presencia de Musk llama la atención porque, tras ser descrito como el “primer amigo” de Trump, su relación se deterioró por asuntos como la política de recortes fiscales. En finanzas figuran los CEO de BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard y Visa. En aviación participarán Boeing y GE Aerospace; en agricultura, Cargill; y en TI, ejecutivos de Meta, Micron y Qualcomm. En cambio, Jensen Huang, CEO taiwanés-estadounidense de Nvidia, empresa clave de chips de IA considerados sensibles en la guerra comercial entre EE. UU. y China, quedó fuera. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Musk e Tim Cook acompanham Trump à China; Jensen Huang, da Nvidia, fica fora",
+        "excerpt": "Donald Trump visitará a China de 13 a 15 com 16 CEOs americanos, incluindo Elon Musk e Tim Cook, mas Jensen Huang, da Nvidia, não foi incluído na delegação.",
+        "body": "O presidente dos Estados Unidos, Donald Trump, visitará a China de 13 a 15 acompanhado por 16 importantes executivos americanos, entre eles Elon Musk, CEO da Tesla; Tim Cook, CEO da Apple; e Kelly Ortberg, CEO da Boeing. A Bloomberg e outros veículos informaram no dia 11, citando uma autoridade da Casa Branca, que CEOs de tecnologia, finanças, aviação e agricultura integrarão a comitiva. A inclusão de Musk chama atenção porque ele já foi chamado de “primeiro amigo” de Trump, mas a relação se desgastou por temas como política de cortes de impostos. No setor financeiro, entram CEOs de BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard e Visa. Na aviação, participam Boeing e GE Aerospace; na agricultura, Cargill; e em TI, executivos de Meta, Micron e Qualcomm. Já Jensen Huang, CEO taiwanês da Nvidia, empresa de chips de IA considerada sensível na guerra comercial EUA-China, ficou fora. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Musk und Tim Cook begleiten Trump nach China, Nvidia-Chef Jensen Huang fehlt",
+        "excerpt": "US-Präsident Donald Trump reist vom 13. bis 15. Mai nach China, begleitet von 16 führenden US-CEOs wie Elon Musk und Tim Cook; Nvidia-Chef Jensen Huang ist nicht dabei.",
+        "body": "US-Präsident Donald Trump reist vom 13. bis 15. Mai nach China und wird dabei von 16 führenden amerikanischen Managern begleitet, darunter Tesla-Chef Elon Musk, Apple-Chef Tim Cook und Boeing-Chef Kelly Ortberg. Bloomberg und andere Medien berichteten am 11. unter Berufung auf einen Vertreter des Weißen Hauses, dass CEOs aus Technologie, Finanzwesen, Luftfahrt und Landwirtschaft Teil der Delegation seien. Musks Teilnahme fällt auf, weil er einst als Trumps „first buddy“ galt, sich das Verhältnis aber wegen Themen wie Steuererleichterungen verschlechtert hatte. Aus der Finanzbranche sind die Chefs von BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard und Visa dabei. In der Luftfahrt vertreten Boeing und GE Aerospace die Branche, in der Landwirtschaft Cargill, im IT-Sektor Führungskräfte von Meta, Micron und Qualcomm. Nvidia-Chef Jensen Huang, dessen KI-Chips im US-chinesischen Handelskonflikt als besonders sensibel gelten, steht hingegen nicht auf der Liste. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Musk et Tim Cook accompagneront Trump en Chine, Jensen Huang de Nvidia absent",
+        "excerpt": "Donald Trump se rendra en Chine du 13 au 15 mai avec 16 grands patrons américains, dont Elon Musk et Tim Cook, tandis que Jensen Huang de Nvidia ne figure pas dans la délégation.",
+        "body": "Le président américain Donald Trump se rendra en Chine du 13 au 15 mai, accompagné de 16 grands dirigeants américains, dont Elon Musk, PDG de Tesla, Tim Cook, PDG d’Apple, et Kelly Ortberg, PDG de Boeing. Bloomberg et d’autres médias ont rapporté le 11, citant un responsable de la Maison-Blanche, que des patrons des secteurs de la technologie, de la finance, de l’aéronautique et de l’agriculture feront partie de la délégation. La présence de Musk retient l’attention: autrefois présenté comme le “first buddy” de Trump, il s’était éloigné de lui sur des sujets comme la politique de baisse d’impôts. Côté finance, les PDG de BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard et Visa sont inclus. L’aéronautique sera représentée par Boeing et GE Aerospace, l’agriculture par Cargill, et l’IT par des dirigeants de Meta, Micron et Qualcomm. En revanche, Jensen Huang, PDG taïwanais de Nvidia, entreprise de puces d’IA au cœur des tensions commerciales sino-américaines, est absent. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ماسك وتيم كوك يرافقان ترامب إلى الصين وغياب جنسن هوانغ رئيس إنفيديا",
+        "excerpt": "يزور الرئيس الأميركي دونالد ترامب الصين من 13 إلى 15 مايو برفقة 16 رئيسا تنفيذيا أميركيا بينهم إيلون ماسك وتيم كوك، فيما يغيب جنسن هوانغ من إنفيديا.",
+        "body": "يزور الرئيس الأميركي دونالد ترامب الصين من 13 إلى 15 مايو، ويرافقه 16 من كبار المديرين التنفيذيين الأميركيين، بينهم إيلون ماسك الرئيس التنفيذي لتسلا، وتيم كوك الرئيس التنفيذي لأبل، وكيلي أورتبرغ الرئيس التنفيذي لبوينغ. ونقلت بلومبرغ ووسائل إعلام أخرى في 11 مايو عن مسؤول في البيت الأبيض أن رؤساء تنفيذيين من قطاعات التكنولوجيا والمال والطيران والزراعة سينضمون إلى الوفد. وتلفت مشاركة ماسك الانتباه بعدما كان يوصف بأنه “الصديق الأول” لترامب قبل أن تتوتر علاقتهما بسبب قضايا منها سياسة خفض الضرائب. وفي القطاع المالي تضم القائمة رؤساء بلاك روك وبلاكستون وسيتي غروب وغولدمان ساكس وماستركارد وفيزا. ويمثل الطيران كل من بوينغ وGE Aerospace، والزراعة شركة كارغيل، وقطاع تقنية المعلومات قيادات من ميتا ومايكرون وكوالكوم. لكن جنسن هوانغ، الرئيس التنفيذي التايواني الأصل لإنفيديا، وهي شركة رقائق ذكاء اصطناعي حساسة في الحرب التجارية بين واشنطن وبكين، لم يدرج في القائمة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ट्रंप की चीन यात्रा में मस्क और टिम कुक साथ, Nvidia के जेन्सेन हुआंग बाहर",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 13 से 15 मई तक चीन जाएंगे। उनके साथ एलन मस्क और टिम कुक समेत 16 अमेरिकी CEO होंगे, लेकिन Nvidia के जेन्सेन हुआंग सूची में नहीं हैं।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 13 से 15 मई तक चीन की यात्रा करेंगे और उनके साथ अमेरिका के 16 प्रमुख कारोबारी नेता जाएंगे। इनमें Tesla के CEO एलन मस्क, Apple के CEO टिम कुक और Boeing के CEO केली ऑर्टबर्ग शामिल हैं। ब्लूमबर्ग और अन्य मीडिया ने 11 मई को व्हाइट हाउस अधिकारी के हवाले से बताया कि तकनीक, वित्त, विमानन और कृषि क्षेत्रों के CEO इस प्रतिनिधिमंडल में शामिल हैं। मस्क का नाम ध्यान खींचता है क्योंकि उन्हें कभी ट्रंप का “फर्स्ट बडी” कहा जाता था, लेकिन कर कटौती नीति जैसे मुद्दों पर संबंध बिगड़ गए थे। वित्त क्षेत्र से BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard और Visa के CEO शामिल हैं। विमानन में Boeing और GE Aerospace, कृषि में Cargill, और IT में Meta, Micron और Qualcomm के अधिकारी साथ होंगे। हालांकि अमेरिका-चीन व्यापार युद्ध में संवेदनशील माने जाने वाले AI चिप्स बनाने वाली Nvidia के ताइवान मूल के CEO जेन्सेन हुआंग को सूची से बाहर रखा गया है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Musk dan Tim Cook Ikut Kunjungan Trump ke China, Jensen Huang Nvidia Absen",
+        "excerpt": "Presiden AS Donald Trump akan mengunjungi China pada 13-15 Mei bersama 16 CEO besar Amerika, termasuk Elon Musk dan Tim Cook, tetapi CEO Nvidia Jensen Huang tidak masuk daftar.",
+        "body": "Presiden Amerika Serikat Donald Trump akan mengunjungi China pada 13-15 Mei dengan didampingi 16 eksekutif utama AS, termasuk CEO Tesla Elon Musk, CEO Apple Tim Cook, dan CEO Boeing Kelly Ortberg. Bloomberg dan media lain pada 11 Mei mengutip pejabat Gedung Putih yang menyebut para CEO dari sektor teknologi, keuangan, penerbangan, dan pertanian masuk dalam rombongan. Masuknya Musk menarik perhatian karena ia pernah disebut “first buddy” Trump, sebelum hubungan mereka memburuk akibat isu seperti kebijakan pemotongan pajak. Dari sektor keuangan, CEO BlackRock, Blackstone, Citigroup, Goldman Sachs, Mastercard, dan Visa turut serta. Sektor penerbangan diwakili Boeing dan GE Aerospace, pertanian oleh Cargill, sementara bidang TI mencakup eksekutif Meta, Micron, dan Qualcomm. Namun CEO Nvidia Jensen Huang, berdarah Taiwan, tidak masuk daftar meski chip AI Nvidia termasuk isu sensitif dalam perang dagang AS-China. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "06327741d070",
+    "slug": "삼성전자-노사-사후조정-불발노조-적법한-쟁의-진행-예정-940991",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T21:40:20.550Z",
+    "updatedAt": "2026-05-12T21:40:20.550Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260513/133910557/1",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260513/133910557/1",
+    "titleFingerprint": "03155164a46ab11ced3e946931202c377e825733",
+    "dedupKeys": [
+      "06327741d0704fa03c506f6d4c17544f00585bf0",
+      "03155164a46ab11ced3e946931202c377e825733",
+      "45d7ae9422eba4c49e801d05918914f196309832"
+    ],
+    "imageUrl": "/images/articles/06327741d070.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노사 사후조정 최종 결렬…노조, 적법한 쟁의 예고",
+        "excerpt": "삼성전자 노사가 12일 정부세종청사 중앙노동위원회에서 2026년 임금협약 2차 사후조정을 진행했지만 성과급 구조 이견으로 합의에 실패했다.",
+        "body": "삼성전자 노사가 12일 오전 10시부터 13일 새벽 3시까지 정부세종청사 중앙노동위원회에서 2026년 임금협약 체결을 위한 2차 사후조정 회의를 열었지만 최종 합의에 이르지 못했다. 핵심 쟁점은 성과급 구조였다. 최대 노조인 초기업노조 삼성전자지부 최승호 위원장은 회의 뒤 “노사 이견이 좁혀지지 않아 조정안을 요청했고 12시간 가까이 기다렸으나, 조정안은 오히려 퇴보했다”고 밝혔다. 노조는 OPI 제도 유지와 성과급 상한 50% 유지가 담긴 조정안을 받아들일 수 없다는 입장이다. 최 위원장은 성과급 상한 폐지와 투명화, 제도화를 요구했지만 반영되지 않았다고 설명했다. 노조는 ‘적법한 쟁의’를 진행할 예정이라고 예고했다. 일각에서는 정부가 파업을 일정 기간 중지하는 긴급조정권을 발동할 수 있다는 전망도 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Labor Talks Collapse as Union Signals Legal Action",
+        "excerpt": "Samsung Electronics and its union failed to reach a post-mediation wage deal for 2026 after talks at the National Labor Relations Commission broke down over bonus rules.",
+        "body": "Samsung Electronics and its union failed to reach a final agreement after holding a second post-mediation meeting for the 2026 wage agreement at the National Labor Relations Commission in the Government Complex Sejong from 10 a.m. on May 12 to 3 a.m. on May 13. The main dispute was the structure of performance bonuses. After the meeting, Choi Seung-ho, head of the Samsung Electronics branch of the industrial union and the company’s largest union, said the union requested a mediation proposal because differences had not narrowed, but the proposal “regressed” after nearly 12 hours of waiting. The union said it could not accept a plan that maintains the OPI system and keeps the bonus cap at 50%. Choi said demands to abolish the cap and make bonuses transparent and institutionalized were not reflected. The union plans to proceed with “legal industrial action.” Some observers say the government could invoke emergency mediation powers to suspend a strike for a set period. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子の労使事後調整が決裂、労組は合法的争議を予告",
+        "excerpt": "サムスン電子の労使は12日、政府世宗庁舎の中央労働委員会で2026年賃金協約の2回目の事後調整を行ったが、成果給制度を巡る隔たりで合意できなかった。",
+        "body": "サムスン電子の労使は12日午前10時から13日午前3時まで、政府世宗庁舎の中央労働委員会で2026年賃金協約締結に向けた2回目の事後調整会議を開いたが、最終合意には至らなかった。最大の争点は成果給の構造だった。最大労組である超企業労組サムスン電子支部のチェ・スンホ委員長は会議後、「労使の隔たりが縮まらず調整案を要請し、12時間近く待ったが、調整案はむしろ後退した」と述べた。労組は、OPI制度を維持し成果給上限50%も維持する内容は受け入れられないとの立場だ。チェ委員長は、成果給上限の廃止、透明化、制度化を求めたが反映されなかったと説明した。労組は「合法的な争議」を進める予定だと予告した。一部では、政府がストを一定期間中止させる緊急調整権を発動する可能性も指摘されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子劳资事后调解破裂，工会预告将依法展开争议行动",
+        "excerpt": "三星电子劳资双方12日在政府世宗厅舍中央劳动委员会进行2026年工资协议第二次事后调解，但因绩效奖金结构分歧未能达成一致。",
+        "body": "三星电子劳资双方于12日上午10时至13日凌晨3时，在政府世宗厅舍中央劳动委员会举行了旨在签订2026年工资协议的第二次事后调解会议，但最终未能达成协议。核心争议在于绩效奖金结构。会后，三星电子最大工会、超企业工会三星电子支部委员长崔承浩表示，由于劳资分歧未能缩小，工会请求提出调解方案，并等待了近12个小时，但调解案反而倒退。工会认为，继续维持OPI制度以及50%的绩效奖金上限，无法接受。崔承浩说明，工会要求废除绩效奖金上限，并推动透明化和制度化，但未被反映。工会预告将展开“合法争议行动”。也有观点认为，政府可能启动紧急调解权，使罢工在一定期间内中止。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Fracasa la mediación entre Samsung Electronics y el sindicato por los bonos",
+        "excerpt": "Samsung Electronics y su sindicato no alcanzaron un acuerdo salarial para 2026 tras la segunda mediación posterior del 12 de mayo, bloqueada por diferencias sobre la estructura de incentivos.",
+        "body": "Samsung Electronics y su sindicato no lograron un acuerdo final tras celebrar la segunda reunión de mediación posterior para el convenio salarial de 2026 en la Comisión Nacional de Relaciones Laborales, en el Complejo Gubernamental de Sejong, desde las 10:00 del 12 de mayo hasta las 3:00 del 13 de mayo. El principal punto de conflicto fue la estructura de los bonos por desempeño. Tras la reunión, Choi Seung-ho, presidente de la rama de Samsung Electronics del sindicato supraempresarial y mayor organización sindical de la empresa, dijo que pidieron una propuesta de mediación porque las diferencias no se redujeron, pero que tras casi 12 horas de espera la propuesta “retrocedió”. El sindicato rechaza mantener el sistema OPI y el límite del 50% para los bonos. Choi explicó que sus demandas de eliminar el tope, transparentar e institucionalizar el sistema no fueron reflejadas. El sindicato anunció que realizará una “acción laboral legal”. Algunos prevén que el gobierno podría activar una mediación de emergencia para suspender una huelga por un periodo determinado. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Mediação entre Samsung Electronics e sindicato fracassa por bônus de desempenho",
+        "excerpt": "Samsung Electronics e sindicato não chegaram a acordo salarial de 2026 após segunda mediação em 12 de maio, em meio a divergências sobre a estrutura dos bônus.",
+        "body": "A Samsung Electronics e seu sindicato não chegaram a um acordo final após realizarem a segunda reunião de mediação posterior para o acordo salarial de 2026 na Comissão Nacional de Relações Trabalhistas, no Complexo Governamental de Sejong, das 10h de 12 de maio às 3h de 13 de maio. O principal ponto de disputa foi a estrutura dos bônus por desempenho. Após a reunião, Choi Seung-ho, presidente da filial da Samsung Electronics do sindicato supraempresarial e maior sindicato da companhia, disse que a entidade pediu uma proposta de mediação porque as diferenças não diminuíram, mas que, depois de quase 12 horas de espera, a proposta “retrocedeu”. O sindicato afirma não aceitar a manutenção do sistema OPI e do teto de 50% para bônus. Choi explicou que as demandas para abolir o limite, dar transparência e institucionalizar o sistema não foram refletidas. O sindicato anunciou que seguirá com uma “ação trabalhista legal”. Há avaliações de que o governo pode acionar uma mediação emergencial para suspender uma greve por determinado período. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Tarifvermittlung scheitert, Gewerkschaft kündigt Arbeitskampf an",
+        "excerpt": "Samsung Electronics und die Gewerkschaft erzielten am 12. Mai bei der zweiten Nachvermittlung zum Tarifvertrag 2026 keine Einigung, da Streit über die Bonusstruktur blieb.",
+        "body": "Samsung Electronics und die Gewerkschaft haben nach einer zweiten Nachvermittlung zum Tarifvertrag 2026 keine abschließende Einigung erzielt. Das Treffen fand von 10 Uhr am 12. Mai bis 3 Uhr am 13. Mai in der National Labor Relations Commission im Regierungskomplex Sejong statt. Hauptstreitpunkt war die Struktur der Leistungsprämien. Choi Seung-ho, Vorsitzender der Samsung-Electronics-Sparte der unternehmensübergreifenden Gewerkschaft und damit der größten Gewerkschaft des Unternehmens, sagte nach der Sitzung, die Gewerkschaft habe wegen fortbestehender Differenzen einen Vermittlungsvorschlag verlangt, doch dieser sei nach fast zwölf Stunden Wartezeit „rückschrittlich“ gewesen. Die Gewerkschaft lehnt es ab, das OPI-System und die Obergrenze von 50% für Prämien beizubehalten. Choi erklärte, Forderungen nach Abschaffung der Obergrenze sowie nach Transparenz und Institutionalisierung seien nicht berücksichtigt worden. Die Gewerkschaft kündigte einen „rechtmäßigen Arbeitskampf“ an. Beobachter verweisen zudem auf die Möglichkeit, dass die Regierung eine Notvermittlung einsetzt, um einen Streik für eine bestimmte Zeit auszusetzen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Échec de la médiation chez Samsung Electronics, le syndicat annonce une action légale",
+        "excerpt": "Samsung Electronics et son syndicat n’ont pas trouvé d’accord salarial 2026 lors de la deuxième médiation du 12 mai, en raison de divergences sur les primes de performance.",
+        "body": "Samsung Electronics et son syndicat n’ont pas conclu d’accord final après une deuxième réunion de médiation postérieure pour la convention salariale 2026, tenue à la Commission nationale des relations du travail au complexe gouvernemental de Sejong, de 10 h le 12 mai à 3 h le 13 mai. Le principal point de blocage portait sur la structure des primes de performance. Après la réunion, Choi Seung-ho, président de la branche Samsung Electronics du syndicat supra-entreprises et plus grand syndicat de la société, a déclaré que le syndicat avait demandé une proposition de médiation faute de rapprochement, mais qu’après près de 12 heures d’attente, la proposition avait « reculé ». Le syndicat refuse le maintien du système OPI et du plafond de 50% sur les primes. Choi a expliqué que les demandes de suppression du plafond, de transparence et d’institutionnalisation n’avaient pas été retenues. Le syndicat prévoit de mener une « action collective légale ». Certains estiment que le gouvernement pourrait activer une médiation d’urgence afin de suspendre une grève pendant une période donnée. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "فشل وساطة سامسونغ إلكترونيكس مع النقابة بسبب هيكل مكافآت الأداء",
+        "excerpt": "لم تتوصل سامسونغ إلكترونيكس ونقابتها إلى اتفاق أجور لعام 2026 بعد جلسة وساطة ثانية في 12 مايو، بسبب الخلاف على بنية مكافآت الأداء.",
+        "body": "لم تتمكن سامسونغ إلكترونيكس ونقابتها من التوصل إلى اتفاق نهائي بعد عقد جلسة الوساطة اللاحقة الثانية لاتفاق الأجور لعام 2026 في لجنة علاقات العمل الوطنية بمجمع الحكومة في سيجونغ، من الساعة 10 صباحا في 12 مايو حتى الساعة 3 فجرا في 13 مايو. وكان الخلاف الأساسي حول هيكل مكافآت الأداء. وبعد الاجتماع، قال تشوي سونغ هو، رئيس فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية وأكبر نقابة في الشركة، إن النقابة طلبت مقترح وساطة لأن الخلافات لم تضق، لكنها انتظرت قرابة 12 ساعة ليأتي المقترح «متراجعا». وترفض النقابة الإبقاء على نظام OPI وسقف مكافآت الأداء عند 50%. وأوضح تشوي أن مطالب إلغاء السقف وزيادة الشفافية وإضفاء الطابع المؤسسي لم تنعكس في المقترح. وأعلنت النقابة أنها ستمضي في «إجراء نزاعي قانوني». وتشير بعض التوقعات إلى أن الحكومة قد تفعل سلطة الوساطة الطارئة لوقف الإضراب لفترة محددة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics में मध्यस्थता विफल, यूनियन ने वैध औद्योगिक कार्रवाई का संकेत दिया",
+        "excerpt": "Samsung Electronics और उसकी यूनियन 12 मई को 2026 वेतन समझौते की दूसरी बाद-समायोजन बैठक में प्रदर्शन बोनस ढांचे पर मतभेदों के कारण सहमति तक नहीं पहुंच सके।",
+        "body": "Samsung Electronics और उसकी यूनियन 2026 वेतन समझौते के लिए दूसरी बाद-समायोजन बैठक के बाद अंतिम सहमति तक नहीं पहुंच सके। यह बैठक 12 मई सुबह 10 बजे से 13 मई तड़के 3 बजे तक गवर्नमेंट कॉम्प्लेक्स सेजोंग में नेशनल लेबर रिलेशंस कमीशन में हुई। मुख्य विवाद प्रदर्शन बोनस की संरचना पर था। बैठक के बाद कंपनी की सबसे बड़ी यूनियन, सुपर-एंटरप्राइज यूनियन की Samsung Electronics शाखा के अध्यक्ष चोई सेउंग-हो ने कहा कि मतभेद कम न होने पर यूनियन ने मध्यस्थता प्रस्ताव मांगा और लगभग 12 घंटे इंतजार किया, लेकिन प्रस्ताव पीछे चला गया। यूनियन का कहना है कि OPI प्रणाली और प्रदर्शन बोनस की 50% सीमा बनाए रखना स्वीकार्य नहीं है। चोई ने कहा कि बोनस सीमा समाप्त करने, पारदर्शिता लाने और व्यवस्था को संस्थागत बनाने की मांगें शामिल नहीं की गईं। यूनियन ने “वैध औद्योगिक कार्रवाई” आगे बढ़ाने की बात कही। कुछ पक्षों का मानना है कि सरकार हड़ताल को एक निश्चित अवधि तक रोकने के लिए आपात मध्यस्थता अधिकार लागू कर सकती है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Mediasi Samsung Electronics dan Serikat Gagal, Aksi Legal Disiapkan",
+        "excerpt": "Samsung Electronics dan serikat pekerjanya gagal mencapai kesepakatan upah 2026 dalam mediasi lanjutan pada 12 Mei karena perbedaan soal struktur bonus kinerja.",
+        "body": "Samsung Electronics dan serikat pekerjanya gagal mencapai kesepakatan akhir setelah menggelar pertemuan mediasi lanjutan kedua untuk perjanjian upah 2026 di Komisi Hubungan Perburuhan Nasional, Kompleks Pemerintah Sejong, dari pukul 10.00 pada 12 Mei hingga pukul 03.00 pada 13 Mei. Pokok sengketa adalah struktur bonus kinerja. Setelah pertemuan, Choi Seung-ho, ketua cabang Samsung Electronics dari serikat lintas perusahaan sekaligus serikat terbesar di perusahaan itu, mengatakan serikat meminta usulan mediasi karena perbedaan tidak menyempit, tetapi setelah menunggu hampir 12 jam, usulan tersebut justru mundur. Serikat menilai rencana yang mempertahankan sistem OPI dan batas bonus kinerja 50% tidak dapat diterima. Choi menjelaskan bahwa tuntutan penghapusan batas bonus, transparansi, dan pelembagaan tidak tercermin. Serikat menyatakan akan melanjutkan “aksi perselisihan yang sah”. Sebagian pihak memperkirakan pemerintah dapat menggunakan kewenangan mediasi darurat untuk menghentikan pemogokan selama periode tertentu. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "59e602565638",
+    "slug": "현금부자-아니어도-된대7억-로또에-들썩-주간이집-239676",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T21:39:04.719Z",
+    "updatedAt": "2026-05-12T21:39:04.719Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051210276",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051210276",
+    "titleFingerprint": "18b693b14fa14b8e296dc923b7b484a5517b39a2",
+    "dedupKeys": [
+      "59e6025656389935646ba3660f1a4597716ab7df",
+      "18b693b14fa14b8e296dc923b7b484a5517b39a2",
+      "b79c73c603df1fd11555cd9ccef8e6a8bcfb7523"
+    ],
+    "imageUrl": "/images/articles/59e602565638.png",
+    "i18n": {
+      "ko": {
+        "title": "강동 헤리티지 자이 ‘7억 로또’ 청약 열기, 현금부자 쏠림 커졌다",
+        "excerpt": "한국경제는 4월 15일 서울 분양가 급등과 대출 규제로 무순위·분상제 청약에 수요가 몰리고, 청약통장 가입자는 4년 새 200만명 넘게 줄었다고 보도했다.",
+        "body": "서울 민간 아파트 분양가가 1년 만에 20% 가까이 오르면서 무주택자 관심이 무순위 청약과 분양가 상한제 단지로 이동했다. hankyung.com에 따르면 4월 첫째 주(6~12일) 호갱노노 방문자 1위는 서울 강동구 길동 ‘강동 헤리티지 자이’로 3만9432명이 찾았다. 이 단지는 부정 청약으로 당첨이 취소된 전용 59㎡B 2가구가 무순위로 나왔고 분양가는 7억3344만원, 7억8686만원이었다. 같은 면적은 4월 2일 16억5500만원에 거래됐고 호가는 18억원을 넘었다. 시세차익 기대가 10억원 이상으로 커지자 2가구에 10만6095명이 신청했다. 다만 고분양가와 대출 규제로 청약통장 가입자는 2월 말 2608만7504명으로 2022년 2850만명에서 200만명 넘게 줄었다."
+      },
+      "en": {
+        "title": "Gangdong Heritage Xi’s ‘700 Million Won Lotto’ Draw Highlights Cash-Rich Demand",
+        "excerpt": "Hankyung reported on April 15 that soaring Seoul apartment prices and tighter loans pushed buyers toward no-priority and price-cap subscriptions, while housing savings account holders fell by over 2 million in four years.",
+        "body": "As private apartment prices in Seoul rose nearly 20% in a year, attention among non-homeowners shifted to no-priority subscriptions and price-cap projects. According to hankyung.com, Gangdong Heritage Xi in Gil-dong, Gangdong-gu, Seoul, was the most visited complex on Hogangnono during April 6-12, with 39,432 visits. Two canceled 59㎡B units, voided after irregular subscription activity, were offered through a no-priority draw at 733.44 million won and 786.86 million won. The same size traded for 1.655 billion won on April 2, while asking prices topped 1.8 billion won. With expected gains above 1 billion won, 106,095 people applied for the two homes. However, high prices and loan restrictions have cooled the broader market, with housing subscription account holders falling to 26,087,504 at end-February from 28.5 million in 2022."
+      },
+      "ja": {
+        "title": "江東ヘリテージXiの「7億ウォン台ロト」申込熱、現金余力層に集中",
+        "excerpt": "韓国経済は4月15日、ソウルの分譲価格上昇と融資規制で無順位・分譲価格上限制の申込に需要が集まり、住宅請約口座加入者は4年で200万人超減ったと報じた。",
+        "body": "ソウル民間マンションの分譲価格が1年で約20%上昇し、無住宅者の関心は無順位請約や分譲価格上限制の物件へ移った。hankyung.comによると、4月第1週（6-12日）に不動産アプリ「ホガンノノ」で最も閲覧された団地は、ソウル江東区吉洞の「江東ヘリテージXi」で、3万9432人が訪問した。同団地では不正請約により当選が取り消された専有59㎡Bの2戸が無順位で供給され、分譲価格は7億3344万ウォン、7億8686万ウォンだった。同面積は4月2日に16億5500万ウォンで取引され、売り出し価格は18億ウォンを超える。10億ウォン超の差益期待から2戸に10万6095人が申し込んだ。一方、高分譲価格と融資規制で請約口座加入者は2月末2608万7504人となり、2022年の2850万人から200万人超減少した。"
+      },
+      "zh": {
+        "title": "江东Heritage Xi“7亿韩元乐透”认购升温，现金买家优势扩大",
+        "excerpt": "韩国经济4月15日报道，首尔新房价格上涨和贷款受限使需求转向无顺位及限价认购，住房认购账户持有人四年减少逾200万人。",
+        "body": "首尔民间公寓分售价格一年内上涨近20%，无房者的关注转向无顺位认购和适用分售价上限制的项目。据hankyung.com报道，4月第一周（6日至12日）在房产信息应用Hogangnono访问量最高的是首尔江东区吉洞的“江东Heritage Xi”，访问人数为39,432人。该项目因违规认购被取消资格的两套59㎡B户型通过无顺位方式供应，分售价分别为7.3344亿韩元和7.8686亿韩元。同面积房源4月2日成交价为16.55亿韩元，挂牌价超过18亿韩元。因预期价差超过10亿韩元，两套房吸引106,095人申请。不过，高分售价和贷款限制削弱了整体认购意愿，截至2月底，住房认购账户持有人为26,087,504人，较2022年的2,850万人减少逾200万人。"
+      },
+      "es": {
+        "title": "Gangdong Heritage Xi y su ‘lotería’ de 700 millones: crece la ventaja del efectivo",
+        "excerpt": "Hankyung informó el 15 de abril que el alza de precios en Seúl y las restricciones de crédito llevaron la demanda a sorteos sin prioridad y viviendas con precio limitado, mientras las cuentas de suscripción cayeron en más de 2 millones en cuatro años.",
+        "body": "Con los precios de los apartamentos privados en Seúl subiendo casi un 20% en un año, los compradores sin vivienda miran más las suscripciones sin prioridad y los proyectos con precio máximo. Según hankyung.com, Gangdong Heritage Xi, en Gil-dong, distrito de Gangdong, fue el complejo más visitado en Hogangnono entre el 6 y el 12 de abril, con 39.432 visitas. Dos unidades de 59㎡B, canceladas por irregularidades en la suscripción, salieron a sorteo sin prioridad por 733,44 millones y 786,86 millones de wones. La misma superficie se vendió el 2 de abril por 1.655 millones de wones y las ofertas superan los 1.800 millones. Ante una ganancia esperada de más de 1.000 millones, 106.095 personas solicitaron las dos viviendas. Pero los precios altos y las restricciones de crédito reducen el mercado general: las cuentas de suscripción bajaron a 26.087.504 a fines de febrero, desde 28,5 millones en 2022."
+      },
+      "pt": {
+        "title": "Gangdong Heritage Xi vira ‘loteria’ de 700 milhões e expõe força de compradores com caixa",
+        "excerpt": "O Hankyung informou em 15 de abril que a alta dos preços em Seul e o crédito restrito levaram a demanda a sorteios sem prioridade e imóveis com preço limitado, enquanto as contas de subscrição caíram mais de 2 milhões em quatro anos.",
+        "body": "Com os preços dos apartamentos privados em Seul subindo quase 20% em um ano, compradores sem imóvel passaram a observar sorteios sem prioridade e projetos com teto de preço. Segundo o hankyung.com, o Gangdong Heritage Xi, em Gil-dong, distrito de Gangdong, foi o condomínio mais visitado no Hogangnono entre 6 e 12 de abril, com 39.432 visitas. Duas unidades de 59㎡B, canceladas após irregularidades na subscrição, foram ofertadas sem prioridade por 733,44 milhões e 786,86 milhões de wones. A mesma metragem foi negociada em 2 de abril por 1,655 bilhão de wones, e os preços pedidos passam de 1,8 bilhão. Com expectativa de ganho acima de 1 bilhão, 106.095 pessoas se candidataram às duas unidades. Ainda assim, preços altos e restrições de crédito reduziram o mercado: as contas de subscrição caíram para 26.087.504 no fim de fevereiro, ante 28,5 milhões em 2022."
+      },
+      "de": {
+        "title": "Gangdong Heritage Xi als ‘700-Millionen-Won-Lotto’: Bargeldstarke Käufer dominieren",
+        "excerpt": "Hankyung berichtete am 15. April, dass steigende Seouler Wohnungspreise und Kreditgrenzen Nachfrage zu Nachrück- und Preisdeckel-Zuteilungen lenken, während Zeichnungskonten in vier Jahren um über 2 Millionen sanken.",
+        "body": "Da die Preise privater Wohnungen in Seoul binnen eines Jahres um fast 20% stiegen, richtet sich das Interesse wohnungsloser Käufer auf No-Priority-Zuteilungen und Projekte mit Preisobergrenze. Laut hankyung.com war Gangdong Heritage Xi in Gil-dong, Gangdong-gu, vom 6. bis 12. April mit 39.432 Besuchen der meistaufgerufene Komplex auf Hogangnono. Zwei 59㎡B-Einheiten, deren Zuschläge wegen unzulässiger Zeichnungen annulliert wurden, kamen ohne Priorität zu 733,44 Mio. und 786,86 Mio. Won auf den Markt. Die gleiche Größe wurde am 2. April für 1,655 Mrd. Won gehandelt, Angebotspreise liegen über 1,8 Mrd. Won. Wegen erwarteter Gewinne von mehr als 1 Mrd. Won bewarben sich 106.095 Menschen auf zwei Wohnungen. Gleichzeitig drücken hohe Preise und Kreditregeln den Gesamtmarkt: Ende Februar gab es 26.087.504 Zeichnungskonten, nach 28,5 Mio. im Jahr 2022."
+      },
+      "fr": {
+        "title": "Gangdong Heritage Xi, ‘loterie’ à 700 millions de wons: les acheteurs cash en tête",
+        "excerpt": "Hankyung a rapporté le 15 avril que la hausse des prix à Séoul et les restrictions de prêt orientent la demande vers les tirages sans priorité et les logements plafonnés, tandis que les comptes d’épargne logement ont reculé de plus de 2 millions en quatre ans.",
+        "body": "Les prix des appartements privés à Séoul ayant augmenté de près de 20% en un an, les ménages sans logement se tournent vers les souscriptions sans priorité et les programmes à prix plafonnés. Selon hankyung.com, Gangdong Heritage Xi, à Gil-dong dans l’arrondissement de Gangdong, a été le complexe le plus consulté sur Hogangnono du 6 au 12 avril, avec 39.432 visites. Deux logements 59㎡B, annulés après des irrégularités de souscription, ont été proposés sans priorité à 733,44 millions et 786,86 millions de wons. La même surface s’est vendue 1,655 milliard de wons le 2 avril, et les prix demandés dépassent 1,8 milliard. Avec un gain attendu supérieur à 1 milliard, 106.095 personnes ont candidaté pour deux lots. Mais les prix élevés et les restrictions de crédit pèsent sur le marché: les comptes de souscription sont tombés à 26.087.504 fin février, contre 28,5 millions en 2022."
+      },
+      "ar": {
+        "title": "غانغدونغ هيريتج زي يتحول إلى ‘يانصيب’ بـ700 مليون وون وسط تفوق أصحاب السيولة",
+        "excerpt": "ذكرت هانكيونغ في 15 أبريل أن ارتفاع أسعار الشقق في سيول وتشديد القروض دفعا الطلب نحو الاكتتابات بلا أولوية والمشروعات محددة السعر، بينما تراجع عدد حسابات الاكتتاب بأكثر من مليوني حساب في أربع سنوات.",
+        "body": "مع ارتفاع أسعار الشقق الخاصة في سيول بنحو 20% خلال عام، تحول اهتمام غير مالكي المنازل إلى الاكتتابات بلا أولوية والمجمعات الخاضعة لسقف السعر. ووفق hankyung.com، كان مجمع “غانغدونغ هيريتج زي” في غيل-دونغ بمنطقة غانغدونغ الأكثر زيارة على تطبيق Hogangnono خلال الأسبوع الأول من أبريل، من 6 إلى 12 أبريل، بعدد 39,432 زيارة. طُرحت وحدتان بمساحة 59㎡B بلا أولوية بعد إلغاء فوز سابق بسبب مخالفات اكتتاب، بسعرَي 733.44 مليون و786.86 مليون وون. المساحة نفسها بيعت في 2 أبريل مقابل 1.655 مليار وون، وتجاوزت أسعار الطلب 1.8 مليار وون. ومع توقع مكاسب تفوق مليار وون، تقدم 106,095 شخصا للوحدتين. لكن الأسعار المرتفعة وقيود القروض قلصت السوق الأوسع، إذ بلغ عدد حسابات الاكتتاب 26,087,504 في نهاية فبراير، نزولا من 28.5 مليون في 2022."
+      },
+      "hi": {
+        "title": "गांगडोंग हेरिटेज शी की ‘70 करोड़ वॉन लॉटरी’ ने नकद खरीदारों की बढ़त दिखाई",
+        "excerpt": "Hankyung ने 15 अप्रैल को बताया कि सियोल में बढ़ती अपार्टमेंट कीमतों और कड़े ऋण नियमों ने मांग को नो-प्रायोरिटी और प्राइस-कैप सब्सक्रिप्शन की ओर मोड़ा, जबकि चार साल में सदस्यता खाते 20 लाख से अधिक घटे।",
+        "body": "सियोल में निजी अपार्टमेंट की बिक्री कीमतें एक साल में लगभग 20% बढ़ने के बाद बिना घर वाले खरीदारों का ध्यान नो-प्रायोरिटी सब्सक्रिप्शन और प्राइस-कैप परियोजनाओं पर गया। hankyung.com के अनुसार, 6 से 12 अप्रैल के सप्ताह में Hogangnono पर सबसे ज्यादा देखी गई परियोजना गांगडोंग-गु के गिल-डोंग स्थित “गांगडोंग हेरिटेज शी” रही, जिसे 39,432 विजिट मिले। अनियमित सब्सक्रिप्शन के कारण रद्द हुई 59㎡B की दो इकाइयां नो-प्रायोरिटी में 733.44 मिलियन वॉन और 786.86 मिलियन वॉन पर आईं। इसी आकार की इकाई 2 अप्रैल को 1.655 बिलियन वॉन में बिकी थी और मांग कीमतें 1.8 बिलियन वॉन से ऊपर हैं। 1 बिलियन वॉन से अधिक संभावित लाभ के कारण दो घरों के लिए 106,095 लोगों ने आवेदन किया। लेकिन ऊंची कीमतों और ऋण प्रतिबंधों से व्यापक बाजार कमजोर हुआ: फरवरी अंत में सदस्यता खाते 26,087,504 रहे, जो 2022 के 28.5 मिलियन से 20 लाख से अधिक कम हैं."
+      },
+      "id": {
+        "title": "Gangdong Heritage Xi Jadi ‘Lotre’ 700 Juta Won, Pembeli Beruang Makin Dominan",
+        "excerpt": "Hankyung melaporkan pada 15 April bahwa lonjakan harga apartemen Seoul dan pembatasan kredit mengalihkan minat ke undian tanpa prioritas dan proyek berplafon harga, sementara akun langganan rumah turun lebih dari 2 juta dalam empat tahun.",
+        "body": "Harga apartemen swasta di Seoul naik hampir 20% dalam setahun, membuat warga belum punya rumah beralih ke langganan tanpa prioritas dan proyek dengan batas harga. Menurut hankyung.com, Gangdong Heritage Xi di Gil-dong, Gangdong-gu, menjadi kompleks paling banyak dikunjungi di Hogangnono pada 6-12 April, dengan 39.432 kunjungan. Dua unit 59㎡B yang dibatalkan karena pelanggaran langganan ditawarkan lewat skema tanpa prioritas dengan harga 733,44 juta won dan 786,86 juta won. Unit berukuran sama terjual 1,655 miliar won pada 2 April, sementara harga penawaran melampaui 1,8 miliar won. Dengan potensi selisih harga lebih dari 1 miliar won, 106.095 orang mendaftar untuk dua unit itu. Namun harga tinggi dan pembatasan pinjaman menekan pasar secara umum: akun langganan rumah mencapai 26.087.504 pada akhir Februari, turun dari 28,5 juta pada 2022."
+      }
+    }
+  },
+  {
     "id": "c26082e4d321",
     "slug": "내년부터-교복-대체-생활복-5종에-상한가-적용-263846",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Listing Apartemen Seoul Turun Usai Tenggat Insentif Pajak Berakhir",
         "excerpt": "Setelah masa penangguhan pajak capital gain lebih berat bagi pemilik banyak rumah berakhir, listing jual apartemen Seoul turun 5,1% dalam tiga hari hingga 11 Mei dan memicu kekhawatiran pasokan.",
         "body": "Setelah masa penangguhan pajak capital gain yang lebih berat bagi pemilik banyak rumah berakhir, pemilik apartemen di Seoul mulai menarik listing penjualan. Menurut platform data properti Asil, listing jual apartemen Seoul berjumlah 65.682 pada 11 Mei, turun 5,1% dari 69.175 pada 8 Mei hanya dalam tiga hari. Listing sempat naik ke kisaran 80.000 pada Maret setelah pemerintah memastikan kembalinya pajak lebih berat, tetapi kini turun ke pertengahan kisaran 60.000. Penurunan terjadi di seluruh 25 distrik Seoul, terutama Gangdong, Seongbuk, dan Nowon. Masuknya 700 permohonan izin transaksi tanah di Seoul pada 8 Mei, sehari sebelum masa penangguhan berakhir, juga menunjukkan cepatnya penyerapan penjualan mendesak. Pemerintah menepis risiko terkuncinya pasokan, tetapi pasar menilai aturan finansial dan sistem izin transaksi tanah dapat terus menekan aktivitas jual beli. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "71fb59489909",
-    "slug": "싼-값에-파느니-물려주자지난달-증여-전년비-3배-껑충-737883",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T04:53:56.841Z",
-    "updatedAt": "2026-05-12T04:53:56.841Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051297006",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051297006",
-    "titleFingerprint": "76b33981fd9f0e7740e561545a214791d61cf9e5",
-    "dedupKeys": [
-      "71fb59489909cc3b6034d0f7ea9eb2a846a9736a",
-      "76b33981fd9f0e7740e561545a214791d61cf9e5",
-      "b677eee00e15b65c4a17e2731410a0948e8aa87b"
-    ],
-    "imageUrl": "/images/articles/71fb59489909.jpg",
-    "i18n": {
-      "ko": {
-        "title": "부동산 증여 전년비 3배 급증, 헐값 매도 대신 물려주는 선택 확산",
-        "excerpt": "지난달 부동산 증여가 전년 같은 기간보다 3배로 늘며, 낮은 가격에 팔기보다 가족에게 물려주려는 움직임이 두드러졌다고 한국경제가 전했다.",
-        "body": "지난달 부동산 시장에서 증여가 전년 같은 기간보다 3배 수준으로 급증했다. 원문은 매도자들이 낮은 가격에 자산을 처분하기보다 가족에게 물려주는 방식을 택하는 흐름이 나타났다고 전했다. 핵심 배경은 “싼 값에 파느니 물려주자”는 인식이다. 구체적인 지역별 수치나 거래 규모는 제시되지 않았지만, 전년 대비 3배라는 증가 폭은 매매 시장의 가격 부담과 보유 자산 이전 수요가 맞물린 결과로 읽힌다. 향후 부동산 거래가 회복되지 않으면 증여를 통한 자산 이전 흐름이 계속 주목받을 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Real Estate Gifts Triple Year on Year as Owners Choose Family Transfers",
-        "excerpt": "Real estate gifts tripled last month from a year earlier, as more owners chose to pass assets to family instead of selling at low prices, Hankyung reported.",
-        "body": "Real estate gifting rose sharply last month, reaching about three times the level seen in the same period a year earlier. The original report said some owners are choosing to transfer property to family rather than sell assets at reduced prices. The key sentiment was that giving property away is preferable to accepting a cheap sale. No detailed regional figures or transaction values were provided, but the threefold year-on-year increase points to a notable shift in asset transfer behavior. If weak selling conditions continue, gifting may remain an important trend in the property market. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "不動産贈与が前年比3倍に急増、安売りより家族承継を選ぶ動き",
-        "excerpt": "先月の不動産贈与は前年同月比で3倍に増え、安い価格で売るより家族に引き継ぐ動きが目立ったと韓国経済が報じた。",
-        "body": "先月の不動産市場では、贈与が前年同月比で約3倍に急増した。原文は、所有者が低い価格で資産を売却するより、家族に引き継ぐ方法を選ぶ流れが出ていると伝えた。背景にあるのは「安く売るくらいなら譲る」という認識だ。地域別の詳しい数値や取引規模は示されていないが、前年比3倍という伸びは、売買市場での価格負担と保有資産を移転したい需要が重なった結果と読める。今後も売買が回復しなければ、贈与を通じた資産移転が注目される可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "房地产赠与同比增至3倍，业主宁愿传给家人也不低价出售",
-        "excerpt": "上月房地产赠与同比增至3倍，更多业主选择把资产转给家人，而不是低价出售，韩国经济报道称。",
-        "body": "上月房地产市场中，赠与数量较去年同期增至约3倍。原文称，一些业主正在选择将房产转给家人，而不是以较低价格出售资产。其核心背景是“与其便宜卖掉，不如传给家人”的想法。报道未提供具体地区数据或交易规模，但同比3倍的增幅显示，买卖市场中的价格压力与资产转移需求正在同时发挥作用。如果房地产交易恢复乏力，通过赠与实现资产转移的趋势可能继续受到关注。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Las donaciones inmobiliarias se triplican por preferir heredar a malvender",
-        "excerpt": "Las donaciones inmobiliarias del mes pasado se triplicaron frente al año anterior, al optar más propietarios por transferir bienes a la familia antes que vender barato.",
-        "body": "El mes pasado, las donaciones de bienes raíces aumentaron con fuerza y alcanzaron cerca de tres veces el nivel del mismo periodo del año anterior. El informe original señaló que algunos propietarios están optando por transferir inmuebles a sus familias en lugar de venderlos a precios bajos. La idea central es que resulta preferible entregarlos a la familia antes que aceptar una venta barata. No se ofrecieron cifras regionales detalladas ni valores de transacción, pero el aumento interanual de tres veces muestra un cambio relevante en la transferencia de activos. Si el mercado de compraventa no se recupera, esta tendencia puede seguir bajo atención. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Doações de imóveis triplicam com preferência por herdar em vez de vender barato",
-        "excerpt": "As doações imobiliárias do mês passado triplicaram ante um ano antes, com mais proprietários transferindo bens à família em vez de vender por preço baixo.",
-        "body": "No mês passado, as doações de imóveis cresceram fortemente e chegaram a cerca de três vezes o nível registrado no mesmo período do ano anterior. A reportagem original afirmou que alguns proprietários estão escolhendo transferir imóveis à família em vez de vender ativos por preços baixos. A percepção central é que é melhor repassar o bem do que aceitar uma venda barata. Não foram apresentados dados regionais detalhados nem valores de transação, mas o aumento anual de três vezes indica uma mudança relevante no comportamento de transferência patrimonial. Se a venda de imóveis não se recuperar, as doações podem continuar em destaque. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Immobilienschenkungen verdreifachen sich, Eigentümer meiden Billigverkäufe",
-        "excerpt": "Immobilienschenkungen lagen im vergangenen Monat dreimal so hoch wie ein Jahr zuvor, weil Eigentümer Vermögen eher an Familie übertragen als billig verkaufen.",
-        "body": "Im vergangenen Monat sind Immobilienschenkungen deutlich gestiegen und erreichten etwa das Dreifache des Niveaus aus dem Vorjahreszeitraum. Der Originalbericht erklärte, dass einige Eigentümer ihre Immobilien lieber an Familienmitglieder übertragen, statt sie zu niedrigen Preisen zu verkaufen. Im Kern steht die Haltung, dass eine Weitergabe besser sei als ein Verkauf zu einem zu billigen Preis. Detaillierte regionale Zahlen oder Transaktionswerte wurden nicht genannt. Der Anstieg um das Dreifache gegenüber dem Vorjahr zeigt jedoch eine auffällige Veränderung bei Vermögensübertragungen. Bleibt der Immobilienverkauf schwach, dürfte dieser Trend weiter beachtet werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les donations immobilières triplent, les propriétaires évitent de brader",
-        "excerpt": "Les donations immobilières du mois dernier ont triplé sur un an, davantage de propriétaires préférant transmettre à leur famille plutôt que vendre à bas prix.",
-        "body": "Le mois dernier, les donations immobilières ont fortement augmenté, atteignant environ trois fois le niveau observé à la même période un an plus tôt. L’article original indique que certains propriétaires choisissent de transmettre leurs biens à leur famille plutôt que de les vendre à bas prix. L’idée centrale est qu’il vaut mieux les céder à ses proches que les brader. Aucun chiffre régional détaillé ni montant de transaction n’a été fourni, mais cette hausse annuelle de trois fois montre un changement notable dans les comportements de transfert d’actifs. Si le marché des ventes ne se redresse pas, les donations pourraient rester un sujet suivi. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هبات العقارات تقفز إلى ثلاثة أضعاف مع تفضيل نقلها للأسرة بدل بيعها بثمن منخفض",
-        "excerpt": "ارتفعت هبات العقارات الشهر الماضي إلى ثلاثة أضعاف مستواها قبل عام، مع تفضيل مزيد من الملاك نقل الأصول للأسرة بدلا من البيع بسعر منخفض.",
-        "body": "شهد سوق العقارات في الشهر الماضي زيادة حادة في الهبات، إذ بلغت نحو ثلاثة أضعاف مستواها في الفترة نفسها من العام السابق. وذكر التقرير الأصلي أن بعض الملاك يختارون نقل العقارات إلى أفراد الأسرة بدلا من بيع الأصول بأسعار منخفضة. وتتمحور الخلفية حول فكرة أن نقل العقار للأسرة أفضل من بيعه بثمن رخيص. ولم ترد أرقام تفصيلية بحسب المناطق أو قيم محددة للصفقات، لكن الزيادة البالغة ثلاثة أضعاف على أساس سنوي تشير إلى تغير لافت في سلوك نقل الأصول. وإذا لم يتعاف سوق البيع، فقد تبقى الهبات العقارية محل متابعة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "रियल एस्टेट उपहार तीन गुना बढ़े, सस्ते बेचने के बजाय परिवार को देना पसंद",
-        "excerpt": "पिछले महीने रियल एस्टेट उपहार एक साल पहले की तुलना में तीन गुना हो गए, क्योंकि अधिक मालिक कम कीमत पर बेचने के बजाय परिवार को संपत्ति दे रहे हैं।",
-        "body": "पिछले महीने रियल एस्टेट बाजार में उपहार के रूप में संपत्ति हस्तांतरण तेज़ी से बढ़ा और यह पिछले वर्ष की समान अवधि के लगभग तीन गुना स्तर पर पहुंच गया। मूल रिपोर्ट के अनुसार, कुछ मालिक कम कीमत पर संपत्ति बेचने के बजाय उसे परिवार को सौंपने का विकल्प चुन रहे हैं। मुख्य भावना यह है कि सस्ते में बेचने से बेहतर है संपत्ति परिवार को दे दी जाए। रिपोर्ट में क्षेत्रवार विस्तृत आंकड़े या लेनदेन मूल्य नहीं दिए गए, लेकिन सालाना आधार पर तीन गुना वृद्धि संपत्ति हस्तांतरण के व्यवहार में बदलाव दिखाती है। यदि बिक्री बाजार कमजोर रहता है, तो उपहार के जरिए हस्तांतरण पर ध्यान बना रह सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Hibah Properti Melonjak Tiga Kali, Pemilik Pilih Wariskan daripada Jual Murah",
-        "excerpt": "Hibah properti bulan lalu naik tiga kali lipat dibanding setahun sebelumnya, karena lebih banyak pemilik memilih menyerahkan aset ke keluarga daripada menjual murah.",
-        "body": "Bulan lalu, hibah properti meningkat tajam hingga sekitar tiga kali lipat dibanding periode yang sama tahun sebelumnya. Laporan asli menyebut sebagian pemilik memilih mengalihkan properti kepada keluarga daripada menjual aset dengan harga rendah. Latar utamanya adalah pandangan bahwa lebih baik menyerahkan properti kepada keluarga daripada menerima penjualan murah. Tidak ada rincian angka berdasarkan wilayah atau nilai transaksi, tetapi kenaikan tiga kali lipat secara tahunan menunjukkan perubahan penting dalam perilaku pengalihan aset. Jika pasar jual beli belum pulih, tren hibah properti dapat terus menjadi perhatian. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5d41b8904e21",
-    "slug": "비거주-1주택도-실거주-의무-유예받는다-815828",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T04:52:25.809Z",
-    "updatedAt": "2026-05-12T04:52:25.809Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605120593i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605120593i",
-    "titleFingerprint": "8b720e5e48ecd6aeae62faaf4a045aae22ecd8c6",
-    "dedupKeys": [
-      "5d41b8904e21e9ca7a50b31e329c9cfba686976e",
-      "8b720e5e48ecd6aeae62faaf4a045aae22ecd8c6",
-      "0b54132f9892978342fd1ec07610fc095b00c421"
-    ],
-    "imageUrl": "/images/articles/5d41b8904e21.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비거주 1주택 실거주 의무 유예 검토, 토지거래허가구역 전세 낀 매물 퇴로 열리나",
-        "excerpt": "정부가 토지거래허가구역 내 비거주 1주택자의 전세 낀 주택 매도를 허용하기 위해 매수자의 실거주 의무를 일정 기간 유예하는 방안을 부처 간 협의로 마련하고 있다.",
-        "body": "정부가 토지거래허가구역 내 비거주 1주택자에게도 세입자가 있는 주택을 팔 수 있도록 실거주 의무를 일정 기간 유예하는 방안을 마련하고 있다. 김용범 청와대 정책실장은 5월 4일 현안 브리핑에서 다주택자에게 양도소득세 중과 유예로 매도 기회를 주면서 1주택자는 왜 제외하느냐는 원망이 있다며 관련 논의를 설명했다. 배경에는 5월 9일까지 다주택자 양도세 중과 유예가 적용되는 가운데 매물 출회를 유도하려는 목적이 있다. 앞서 검토안은 무주택 매수자, 2년 내 전입 등 조건이 거론됐다. 다만 토지거래허가제 취지와 상급지 갈아타기, 갭투자 논란은 부담으로 남아 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Non-Resident Single-Home Owners May Get Occupancy Duty Relief in Land-Permit Zones",
-        "excerpt": "The government is preparing an interagency plan to defer the buyer’s move-in duty so non-resident single-home owners in land transaction permit zones can sell tenant-occupied homes.",
-        "body": "The government is preparing a plan to defer the mandatory move-in requirement for purchases of tenant-occupied homes owned by non-resident single-home owners in land transaction permit zones. Presidential policy chief Kim Yong-beom said at a May 4 briefing that some owners question why multi-home owners receive a selling opportunity through the temporary capital gains tax surcharge suspension while single-home owners do not. The measure is aimed at encouraging listings before the multi-home owner tax surcharge deferral ends on May 9. Earlier options discussed included limiting buyers to non-homeowners and requiring move-in within two years. Concerns remain over the purpose of the permit system, upgrading demand and gap-investment controversy. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "非居住1住宅にも実居住義務猶予を検討、土地取引許可区域の賃貸中物件に出口か",
-        "excerpt": "政府は土地取引許可区域内の非居住1住宅所有者が賃借人付き住宅を売却できるよう、買主の実居住義務を一定期間猶予する案を関係省庁で準備している。",
-        "body": "政府は、土地取引許可区域内で非居住の1住宅所有者にも、賃借人がいる住宅を売却できるよう実居住義務を一定期間猶予する案を準備している。金容範大統領室政策室長は5月4日の懸案ブリーフィングで、多住宅所有者には譲渡所得税重課の猶予で売却機会を与えながら、1住宅所有者はなぜ対象外なのかという不満があると説明した。背景には、5月9日まで多住宅所有者への譲渡税重課猶予が適用される中、売り物件の供給を促す狙いがある。これまでの検討案では、買主を無住宅者に限定し、2年以内の転入を条件にする案などが挙がった。ただし土地取引許可制の趣旨、上位地域への買い替え、ギャップ投資論争は負担として残る。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "非居住一套房也拟获实际居住义务缓期，土地交易许可区租赁房源或迎出售通道",
-        "excerpt": "韩国政府正通过部门协商制定方案，拟在土地交易许可区内允许非居住一套房业主出售带租约住房，并暂缓买方实际居住义务。",
-        "body": "韩国政府正在制定方案，拟在土地交易许可区内，对非居住一套房业主出售带租约住房时的买方实际居住义务给予一定期限缓期。总统府政策室长金容范在5月4日现案说明会上表示，既然多套房业主可通过资本利得税重税缓期获得出售机会，一套房业主也提出为何不能适用的质疑。背景是多套房业主重税缓期将适用至5月9日，政府希望借此引导更多房源上市。此前讨论的方案包括买方限定为无房者、两年内入住等条件。不过，该措施仍面临是否削弱土地交易许可制度宗旨、刺激改善型换房需求以及“缺口投资”争议等负担。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Vivienda única no ocupada podría recibir aplazamiento de residencia en zonas con permiso de compraventa",
-        "excerpt": "El Gobierno prepara entre ministerios una medida para aplazar la obligación de residencia del comprador y permitir vender viviendas alquiladas de propietarios con una sola casa no ocupada.",
-        "body": "El Gobierno prepara una medida para aplazar por un periodo determinado la obligación de residencia real cuando propietarios de una sola vivienda no ocupada vendan casas con inquilinos en zonas sujetas a permiso de transacción de suelo. Kim Yong-beom, jefe de política de la Presidencia, explicó en una rueda informativa del 4 de mayo que existe malestar porque a los multipropietarios se les da una oportunidad de vender mediante la suspensión temporal del recargo del impuesto a las ganancias de capital, mientras que los propietarios de una sola vivienda quedan fuera. El objetivo es inducir más oferta antes de que termine el 9 de mayo la exención temporal para multipropietarios. Entre las condiciones discutidas figuran limitar el comprador a quienes no poseen vivienda y exigir mudanza en un plazo de dos años. Persisten dudas sobre el sentido del sistema de permisos, el cambio a zonas superiores y la polémica por inversión con depósito. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Moradia única não ocupada pode ter adiamento da obrigação de residência em zonas de autorização",
-        "excerpt": "O governo prepara, entre ministérios, uma medida para adiar a obrigação de moradia do comprador e permitir a venda de casas alugadas por proprietários de uma única residência não ocupada.",
-        "body": "O governo prepara uma medida para adiar por certo período a obrigação de residência real quando proprietários de uma única moradia não ocupada venderem imóveis com inquilinos em zonas sujeitas a autorização de transação de terrenos. Kim Yong-beom, chefe de política da Presidência, disse em briefing de 4 de maio que há queixas porque donos de múltiplas casas recebem oportunidade de venda por meio da suspensão temporária da sobretaxa sobre ganho de capital, enquanto proprietários de uma única casa ficam de fora. O objetivo é estimular a colocação de imóveis no mercado antes do fim da suspensão, em 9 de maio. Opções já discutidas incluem restringir compradores a pessoas sem imóvel e exigir mudança em até dois anos. Permanecem preocupações sobre o propósito do sistema de autorização, trocas para áreas melhores e controvérsia sobre compra alavancada por depósito. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Nicht selbst genutzte Einwohnung könnte Aufschub der Wohnpflicht in Genehmigungszonen erhalten",
-        "excerpt": "Die Regierung bereitet ressortübergreifend einen Plan vor, um die Einzugspflicht von Käufern aufzuschieben und Verkäufe vermieteter Wohnungen durch nicht dort wohnende Einzeleigentümer zu ermöglichen.",
-        "body": "Die Regierung bereitet einen Plan vor, der die Pflicht zum tatsächlichen Einzug für eine bestimmte Zeit aufschiebt, wenn nicht selbst nutzende Eigentümer einer einzigen Wohnung vermietete Objekte in Landtransaktions-Genehmigungszonen verkaufen. Kim Yong-beom, politischer Chefberater des Präsidialamts, sagte bei einem Briefing am 4. Mai, es gebe Beschwerden, weil Mehrfachbesitzer durch die befristete Aussetzung des Zuschlags auf die Kapitalertragsteuer eine Verkaufsmöglichkeit erhielten, Einwohnungseigentümer aber nicht. Ziel ist es, vor dem Ende der Steueraufschubregelung am 9. Mai mehr Angebote auf den Markt zu bringen. Diskutierte Bedingungen waren unter anderem Käufer ohne Wohneigentum und Einzug innerhalb von zwei Jahren. Offen bleiben Bedenken zum Zweck des Genehmigungssystems, zu Aufwertungsumzügen und zur Debatte über Gap-Investitionen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Un logement unique non occupé pourrait obtenir un report d’obligation de résidence en zone autorisée",
-        "excerpt": "Le gouvernement prépare entre ministères une mesure reportant l’obligation de résidence de l’acheteur afin de permettre aux propriétaires d’un seul logement non occupé de vendre un bien loué.",
-        "body": "Le gouvernement prépare une mesure visant à reporter pendant une certaine période l’obligation de résidence effective lorsqu’un propriétaire d’un seul logement non occupé vend un bien avec locataire dans une zone soumise à autorisation de transaction foncière. Kim Yong-beom, chef de la politique de la présidence, a expliqué lors d’un briefing le 4 mai que certains propriétaires demandent pourquoi les multipropriétaires obtiennent une occasion de vendre grâce au report de la surtaxe sur les plus-values, tandis que les propriétaires d’un seul logement en sont exclus. L’objectif est d’encourager la mise en vente avant la fin du report fiscal, le 9 mai. Les options évoquées incluent un acheteur sans logement et une installation dans les deux ans. Restent des inquiétudes sur l’objectif du régime d’autorisation, les changements vers des quartiers plus chers et la controverse sur l’investissement avec dépôt locatif. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تأجيل واجب السكن الفعلي قد يشمل مالكي مسكن واحد غير مقيم في مناطق تراخيص صفقات الأراضي",
-        "excerpt": "تعد الحكومة خطة بين الوزارات لتأجيل واجب السكن الفعلي على المشتري، بما يسمح لمالك مسكن واحد غير مقيم ببيع منزل مؤجر داخل مناطق ترخيص معاملات الأراضي.",
-        "body": "تعد الحكومة خطة تمنح تأجيلا لفترة محددة لواجب السكن الفعلي عند بيع مالك مسكن واحد غير مقيم منزلا يشغله مستأجر داخل مناطق خاضعة لترخيص معاملات الأراضي. وقال كيم يونغ بوم، كبير مسؤولي السياسات في الرئاسة، في إحاطة يوم 4 مايو إن هناك شكاوى من منح مالكي عدة مساكن فرصة للبيع عبر تأجيل ضريبة الأرباح الرأسمالية المشددة، بينما لا يحصل مالكو مسكن واحد على المعاملة نفسها. ويأتي ذلك بهدف تشجيع طرح مزيد من المعروض قبل انتهاء التأجيل الضريبي لمالكي المساكن المتعددة في 9 مايو. وتشمل الأفكار المطروحة قصر الشراء على من لا يملكون منزلا والانتقال خلال عامين. لكن تبقى مخاوف بشأن هدف نظام الترخيص، والانتقال إلى مناطق أعلى سعرا، والجدل حول الاستثمار المعتمد على الوديعة الإيجارية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "गैर-निवासी एकल-घर मालिकों को भी वास्तविक निवास दायित्व में छूट पर विचार",
-        "excerpt": "सरकार भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले घर बेचने के लिए गैर-निवासी एकल-घर मालिकों के खरीदारों पर वास्तविक निवास दायित्व को कुछ समय टालने की योजना बना रही है।",
-        "body": "सरकार भूमि लेनदेन अनुमति क्षेत्रों में गैर-निवासी एकल-घर मालिकों को किरायेदार वाले घर बेचने की अनुमति देने के लिए खरीदार के वास्तविक निवास दायित्व को निश्चित अवधि तक टालने की योजना बना रही है। राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 4 मई की ब्रीफिंग में कहा कि जब बहु-घर मालिकों को पूंजीगत लाभ कर अधिभार स्थगन के जरिए बेचने का अवसर दिया गया है, तो एकल-घर मालिकों को बाहर रखने पर शिकायतें हैं। इसका उद्देश्य 9 मई तक लागू बहु-घर मालिक कर स्थगन समाप्त होने से पहले बाजार में अधिक मकान लाना है। पहले जिन शर्तों पर विचार हुआ उनमें खरीदार को बेघर व्यक्ति तक सीमित रखना और दो साल के भीतर प्रवेश शामिल है। फिर भी अनुमति प्रणाली के उद्देश्य, बेहतर क्षेत्रों में घर बदलने की मांग और जमा-आधारित निवेश विवाद को लेकर बोझ बना हुआ है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pemilik Satu Rumah Nonhunian Bisa Dapat Penundaan Wajib Tinggal di Zona Izin Transaksi",
-        "excerpt": "Pemerintah menyiapkan rencana lintas kementerian untuk menunda kewajiban tinggal pembeli agar pemilik satu rumah nonhunian di zona izin transaksi tanah dapat menjual rumah yang masih disewa.",
-        "body": "Pemerintah sedang menyiapkan rencana untuk menunda kewajiban tinggal nyata selama periode tertentu ketika pemilik satu rumah nonhunian menjual rumah yang masih ditempati penyewa di zona izin transaksi tanah. Kepala kebijakan Kepresidenan Kim Yong-beom mengatakan dalam briefing 4 Mei bahwa ada keluhan karena pemilik banyak rumah diberi kesempatan menjual melalui penangguhan sementara tambahan pajak keuntungan modal, sementara pemilik satu rumah tidak. Tujuannya adalah mendorong lebih banyak pasokan sebelum penangguhan pajak bagi pemilik banyak rumah berakhir pada 9 Mei. Opsi yang dibahas sebelumnya mencakup pembeli harus belum memiliki rumah dan wajib pindah dalam dua tahun. Namun, tujuan sistem izin transaksi, potensi pindah ke kawasan lebih premium, dan kontroversi investasi berbasis deposit masih menjadi beban. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "7162c67911c3",
-    "slug": "매물-저변-넓어진다토허구역-실거주-유예-확대-효과는-분석-337881",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T04:50:37.154Z",
-    "updatedAt": "2026-05-12T04:50:37.154Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051204586",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051204586",
-    "titleFingerprint": "d0ccc5e27436405501e4aaa30d81d0d73e5eecd1",
-    "dedupKeys": [
-      "7162c67911c37725fa498097276ad381980ac150",
-      "d0ccc5e27436405501e4aaa30d81d0d73e5eecd1",
-      "e8530db0ba59a9363fcfe20e93e1c3c4a557c01b"
-    ],
-    "imageUrl": "/images/articles/7162c67911c3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토허구역 실거주 유예 확대 효과, 매물 저변은 넓어져도 단기 급증은 어렵다는 분석",
-        "excerpt": "국토교통부가 5월 12일 토지거래허가구역 내 세입자 있는 주택 전체로 실거주 의무 유예 대상을 넓히기로 했지만, 전문가들은 세금·대출 제약 탓에 매물 급증은 제한적이라고 봤다.",
-        "body": "국토교통부는 5월 12일 토지거래허가구역 내 임대 중인 주택을 거래할 때 매수자의 실거주 의무 유예 대상을 세입자가 있는 주택 전체로 확대하는 시행령 개정안을 13일부터 입법 예고한다고 밝혔다. 현행 제도는 허가를 받은 매수자가 4개월 안에 입주해 2년간 거주해야 한다. 이번 조치는 발표일 현재 임대 중인 주택에 적용되며, 올해 12월 31일까지 허가를 신청해 받아야 한다. 유예 대상 매수자는 발표일부터 계속 무주택 상태를 유지한 사람으로 제한되고, 늦어도 2028년 5월 11일까지 입주해야 한다. 전문가들은 서울 보유 비거주 1주택자가 약 83만가구로 추정돼 잠재 매물 저변은 넓어졌다고 평가했다. 다만 양도세 부담, 규제지역 대출 한도, 갈아타기 제약이 남아 단기간 매물이 크게 늘기는 어렵다는 분석이다. hankyung.com은 이번 조치가 신규 공급이 아니라 기존 물건의 유동성을 넓히는 대책이라는 전문가 진단을 전했다."
-      },
-      "en": {
-        "title": "Land Transaction Zone Residency Grace May Broaden Listings, but a Short-Term Surge Looks Limited",
-        "excerpt": "South Korea’s land ministry said on May 12 it will expand the residency-duty grace period to all tenanted homes in land transaction permit zones, while experts cited tax and lending limits as constraints on new listings.",
-        "body": "South Korea’s Ministry of Land, Infrastructure and Transport said on May 12 that it will pre-announce from May 13 a decree revision expanding the grace period for buyers’ residency obligations in land transaction permit zones to all homes with tenants. Under the current system, permitted buyers must move in within four months and live there for two years. The measure applies only to homes under lease as of the announcement date, and permit applications must be filed and approved by Dec. 31 this year. Eligible buyers are limited to people who remain non-homeowners from the announcement date, and they must move in no later than May 11, 2028. Experts said the potential listing base has widened, noting an estimate of about 830,000 non-resident single-home owners in Seoul. Still, capital gains tax burdens, tighter lending caps in regulated areas and constraints on trading up are expected to limit any sharp short-term rise in listings. hankyung.com reported experts’ view that the measure expands liquidity for existing homes rather than creating new supply."
-      },
-      "ja": {
-        "title": "土地取引許可区域の実住猶予拡大、売り物件の裾野は広がるが短期急増は限定的",
-        "excerpt": "韓国国土交通部は5月12日、土地取引許可区域で賃借人がいる住宅全体に実住義務の猶予対象を広げる方針を示したが、専門家は税金と融資規制で売り物件の急増は限られるとみている。",
-        "body": "韓国国土交通部は5月12日、土地取引許可区域内で賃貸中の住宅を取引する際、買い手の実住義務の猶予対象を賃借人がいる住宅全体に広げる施行令改正案を13日から立法予告すると発表した。現行制度では、許可を受けた買い手は4カ月以内に入居し、2年間居住しなければならない。今回の措置は発表日時点で賃貸中の住宅に適用され、今年12月31日までに許可を申請し承認を受ける必要がある。対象となる買い手は発表日から無住宅状態を維持する人に限られ、遅くとも2028年5月11日までに入居しなければならない。専門家は、ソウルで住宅を保有しながら居住していない1住宅者が約83万世帯と推定され、潜在的な売り物件の裾野は広がったと評価した。ただし譲渡税負担、規制地域の融資限度、住み替えの制約が残り、短期的に売り物件が大きく増えるのは難しいとの分析だ。hankyung.comは、今回の措置が新規供給ではなく既存物件の流動性を広げる対策だという専門家の見方を伝えた。"
-      },
-      "zh": {
-        "title": "土地交易许可区实住义务缓期扩大，房源面扩大但短期激增有限",
-        "excerpt": "韩国国土交通部5月12日表示，将把土地交易许可区内有租户住房纳入实住义务缓期范围；专家认为，税负和贷款限制仍会抑制房源快速增加。",
-        "body": "韩国国土交通部5月12日表示，将从13日起预告修订施行令，在土地交易许可区内交易出租住房时，把买方实住义务缓期对象扩大至所有有租户的住房。现行制度要求取得许可的买方在4个月内入住并居住2年。此次措施适用于公告日当天仍在出租的住房，须在今年12月31日前申请并获得土地交易许可。适用缓期的买方限于自公告日起持续保持无房状态的人，最迟须在2028年5月11日前入住。专家认为，首尔持有住房但不居住的一套房业主估计约83万户，潜在挂牌房源基础有所扩大。但转让所得税负担、管制地区贷款额度以及换房限制仍在，短期内挂牌房源大幅增加并不容易。hankyung.com报道称，专家判断此次措施并非新增供应，而是扩大既有房源流动性的政策。"
-      },
-      "es": {
-        "title": "La prórroga de residencia en zonas con permiso amplía la base de viviendas, pero sin auge rápido",
-        "excerpt": "El Ministerio de Tierra de Corea del Sur anunció el 12 de mayo que ampliará la prórroga de residencia a todas las viviendas con inquilinos en zonas con permiso de transacción; expertos ven límites por impuestos y crédito.",
-        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur informó el 12 de mayo que desde el día 13 someterá a aviso legislativo una reforma para ampliar la prórroga de la obligación de residencia del comprador en zonas con permiso de transacción de terrenos a todas las viviendas con inquilinos. El sistema actual exige que el comprador autorizado se mude en un plazo de cuatro meses y resida allí durante dos años. La medida se aplica a viviendas arrendadas en la fecha del anuncio, y la solicitud de permiso debe presentarse y aprobarse antes del 31 de diciembre de este año. Los compradores elegibles deben mantener la condición de no propietarios desde el anuncio y mudarse como tarde el 11 de mayo de 2028. Expertos señalaron que la base potencial de oferta se amplió, ya que se estima que en Seúl hay unas 830.000 viviendas de propietarios de una sola casa que no residen en ella. Aun así, la carga del impuesto a las ganancias de capital, los topes de préstamo en zonas reguladas y las trabas para cambiar de vivienda limitarían un fuerte aumento de anuncios a corto plazo. hankyung.com recogió el diagnóstico de que la medida aumenta la liquidez de viviendas existentes, no la oferta nueva."
-      },
-      "pt": {
-        "title": "Prorrogação de moradia em zonas licenciadas amplia base de imóveis, mas alta rápida é limitada",
-        "excerpt": "O Ministério de Terras da Coreia do Sul anunciou em 12 de maio que ampliará a suspensão temporária da exigência de moradia para todas as casas com inquilinos em zonas de permissão; especialistas veem freios em impostos e crédito.",
-        "body": "O Ministério de Terras, Infraestrutura e Transporte da Coreia do Sul informou em 12 de maio que colocará em consulta legislativa, a partir do dia 13, uma revisão para ampliar a suspensão temporária da obrigação de moradia do comprador em zonas de permissão de transações de terrenos a todas as casas com inquilinos. Pela regra atual, o comprador autorizado deve se mudar em até quatro meses e morar no imóvel por dois anos. A medida vale para imóveis alugados na data do anúncio, e o pedido de permissão precisa ser apresentado e aprovado até 31 de dezembro deste ano. Os compradores elegíveis são limitados a pessoas que permaneçam sem imóvel próprio desde o anúncio, com mudança obrigatória até 11 de maio de 2028. Especialistas avaliaram que a base potencial de imóveis à venda cresceu, pois se estima que Seul tenha cerca de 830 mil proprietários de uma única casa que não residem nela. Mesmo assim, imposto sobre ganho de capital, limites de empréstimo em áreas reguladas e restrições para troca de moradia devem conter um avanço expressivo de ofertas no curto prazo. Segundo hankyung.com, especialistas veem a medida como ampliação da liquidez de imóveis existentes, não como nova oferta."
-      },
-      "de": {
-        "title": "Aufschub der Wohnpflicht in Genehmigungszonen erweitert Angebot, doch kurzfristiger Sprung bleibt begrenzt",
-        "excerpt": "Südkoreas Verkehrs- und Bauministerium kündigte am 12. Mai an, den Aufschub der Wohnpflicht in Landtransaktions-Genehmigungszonen auf alle vermieteten Wohnungen auszuweiten; Experten verweisen auf Steuer- und Kreditbremsen.",
-        "body": "Das südkoreanische Ministerium für Land, Infrastruktur und Verkehr teilte am 12. Mai mit, dass es ab dem 13. Mai eine Verordnungsänderung vorankündigt, die den Aufschub der Wohnpflicht für Käufer in Landtransaktions-Genehmigungszonen auf alle Wohnungen mit Mietern ausweitet. Nach der geltenden Regel müssen genehmigte Käufer binnen vier Monaten einziehen und dort zwei Jahre wohnen. Die Maßnahme gilt für Wohnungen, die am Tag der Ankündigung vermietet waren; der Antrag auf Genehmigung muss bis zum 31. Dezember dieses Jahres gestellt und bewilligt werden. Berechtigt sind nur Käufer, die seit dem Ankündigungstag durchgehend keine eigene Wohnung besitzen, und sie müssen spätestens am 11. Mai 2028 einziehen. Experten bewerteten, dass sich die potenzielle Angebotsbasis erweitert hat, da in Seoul rund 830.000 Ein-Haus-Eigentümer ohne Eigennutzung geschätzt werden. Dennoch dürften Kapitalertragsteuer, strengere Kreditobergrenzen in regulierten Gebieten und Hürden beim Wohnungswechsel einen starken kurzfristigen Anstieg der Angebote begrenzen. hankyung.com berichtete, Fachleute sähen die Maßnahme als Ausweitung der Liquidität bestehender Objekte, nicht als neue Versorgung."
-      },
-      "fr": {
-        "title": "Le report d’occupation en zones soumises à permis élargit l’offre, mais sans flambée rapide",
-        "excerpt": "Le ministère sud-coréen du Territoire a annoncé le 12 mai l’extension du report d’obligation d’occupation à tous les logements loués en zones de permis de transaction, tandis que les experts pointent impôts et crédit.",
-        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a annoncé le 12 mai qu’il prépublierait à partir du 13 une révision réglementaire élargissant le report de l’obligation d’occupation des acheteurs, dans les zones soumises à permis de transaction foncière, à tous les logements avec locataires. Le régime actuel impose aux acheteurs autorisés d’emménager dans les quatre mois et d’y résider deux ans. La mesure s’applique aux logements loués à la date de l’annonce, avec une demande de permis à déposer et obtenir d’ici au 31 décembre de cette année. Les acheteurs concernés doivent rester sans logement détenu depuis l’annonce et emménager au plus tard le 11 mai 2028. Les experts estiment que la base potentielle de biens à vendre s’est élargie, environ 830.000 propriétaires d’un seul logement non occupé étant recensés à Séoul. Mais la fiscalité sur les plus-values, les plafonds de prêt dans les zones régulées et les contraintes de changement de logement devraient limiter une forte hausse rapide des annonces. hankyung.com rapporte que les spécialistes y voient une mesure de liquidité pour les biens existants, et non une nouvelle offre."
-      },
-      "ar": {
-        "title": "توسيع مهلة السكن في مناطق تصاريح التداول يزيد قاعدة المعروض لكن القفزة السريعة محدودة",
-        "excerpt": "أعلنت وزارة الأراضي الكورية الجنوبية في 12 مايو توسيع مهلة الالتزام بالسكن لتشمل كل المساكن المؤجرة داخل مناطق تصاريح تداول الأراضي، فيما يرى خبراء أن الضرائب والقيود الائتمانية ستحد من زيادة المعروض.",
-        "body": "قالت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية في 12 مايو إنها ستطرح اعتبارا من 13 مايو تعديلا تنظيميا يوسع مهلة التزام المشتري بالسكن في مناطق تصاريح تداول الأراضي لتشمل جميع المساكن التي يوجد بها مستأجرون. وبموجب النظام الحالي يجب على المشتري الحاصل على التصريح الانتقال خلال أربعة أشهر والإقامة لمدة عامين. ينطبق الإجراء على المساكن المؤجرة في تاريخ الإعلان، ويجب تقديم طلب التصريح والحصول عليه بحلول 31 ديسمبر من هذا العام. ويقتصر المشترون المؤهلون على من يحافظون على وضع عدم امتلاك مسكن منذ تاريخ الإعلان، على أن ينتقلوا في موعد أقصاه 11 مايو 2028. وقيّم خبراء أن قاعدة المعروض المحتمل اتسعت، إذ يقدر عدد مالكي مسكن واحد لا يقيمون فيه في سول بنحو 830 ألف أسرة. ومع ذلك، فإن عبء ضريبة أرباح رأس المال، وحدود القروض في المناطق الخاضعة للتنظيم، وقيود الانتقال إلى مسكن آخر تجعل زيادة كبيرة في المعروض خلال المدى القصير أمرا صعبا. ونقل hankyung.com عن خبراء أن الإجراء يوسع سيولة المساكن القائمة ولا يمثل عرضا جديدا."
-      },
-      "hi": {
-        "title": "भूमि लेनदेन अनुमति क्षेत्रों में निवास छूट बढ़ी, लिस्टिंग आधार विस्तृत पर तेज उछाल सीमित",
-        "excerpt": "दक्षिण कोरिया के भूमि मंत्रालय ने 12 मई को कहा कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले सभी घरों पर निवास दायित्व की छूट बढ़ेगी, लेकिन विशेषज्ञ कर और ऋण सीमाओं के कारण तेज आपूर्ति वृद्धि सीमित मानते हैं।",
-        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने 12 मई को बताया कि वह 13 मई से एक 시행령 संशोधन का विधायी पूर्व-घोषणा करेगा, जिसके तहत भूमि लेनदेन अनुमति क्षेत्रों में किराए पर दिए गए घरों की खरीद पर खरीदार के निवास दायित्व की छूट किरायेदार वाले सभी घरों तक बढ़ाई जाएगी। मौजूदा व्यवस्था में अनुमति प्राप्त खरीदार को चार महीने के भीतर घर में प्रवेश कर दो वर्ष तक रहना होता है। यह कदम घोषणा की तारीख पर किराए पर चल रहे घरों पर लागू होगा और इस वर्ष 31 दिसंबर तक अनुमति के लिए आवेदन कर मंजूरी लेनी होगी। पात्र खरीदार वे होंगे जो घोषणा की तारीख से लगातार बेघर स्थिति बनाए रखें, और उन्हें अधिकतम 11 मई 2028 तक प्रवेश करना होगा। विशेषज्ञों ने कहा कि सियोल में अपने घर में न रहने वाले एक-घर मालिकों की संख्या लगभग 8,30,000 परिवार आंकी जाती है, इसलिए संभावित लिस्टिंग का आधार बढ़ा है। फिर भी पूंजीगत लाभ कर का बोझ, विनियमित क्षेत्रों में ऋण सीमा और घर बदलने की बाधाएं अल्पकाल में लिस्टिंग की बड़ी वृद्धि को सीमित करेंगी। hankyung.com ने विशेषज्ञों के हवाले से बताया कि यह नया आवास आपूर्ति कदम नहीं, बल्कि मौजूदा घरों की तरलता बढ़ाने की नीति है।"
-      },
-      "id": {
-        "title": "Relaksasi hunian di zona izin transaksi tanah perluas basis listing, tetapi lonjakan cepat terbatas",
-        "excerpt": "Kementerian Pertanahan Korea Selatan pada 12 Mei menyatakan akan memperluas penangguhan kewajiban tinggal bagi semua rumah berpenyewa di zona izin transaksi tanah, sementara pakar menilai pajak dan kredit tetap membatasi pasokan.",
-        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan pada 12 Mei menyatakan akan mengumumkan rancangan revisi aturan mulai 13 Mei untuk memperluas penangguhan kewajiban tinggal pembeli di zona izin transaksi tanah ke semua rumah yang memiliki penyewa. Dalam aturan saat ini, pembeli yang mendapat izin harus masuk dalam empat bulan dan tinggal selama dua tahun. Kebijakan ini berlaku untuk rumah yang sedang disewakan pada tanggal pengumuman, dan permohonan izin harus diajukan serta disetujui paling lambat 31 Desember tahun ini. Pembeli yang memenuhi syarat dibatasi pada orang yang terus berstatus tidak memiliki rumah sejak tanggal pengumuman, dan harus masuk paling lambat 11 Mei 2028. Para pakar menilai basis listing potensial melebar karena pemilik satu rumah yang tidak menempati propertinya di Seoul diperkirakan sekitar 830.000 rumah tangga. Namun beban pajak keuntungan modal, batas pinjaman di wilayah regulasi, dan kendala pindah rumah diperkirakan membatasi lonjakan listing dalam jangka pendek. hankyung.com melaporkan pandangan pakar bahwa kebijakan ini memperluas likuiditas rumah yang sudah ada, bukan menambah pasokan baru."
       }
     }
   }
