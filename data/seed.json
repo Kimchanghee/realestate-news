@@ -1,5 +1,230 @@
 [
   {
+    "id": "2ecef66899db",
+    "slug": "국토부-실거주-의무-어길-땐-허가-취소도-고려토허제-취지-그대로-978231",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T03:35:44.541Z",
+    "updatedAt": "2026-05-12T03:35:44.541Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605120628i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605120628i",
+    "titleFingerprint": "43f535dcd82cf30180c5b45f93fb84cc0c9eafa9",
+    "dedupKeys": [
+      "2ecef66899db45708b6b794f3a4c92d221ed311a",
+      "43f535dcd82cf30180c5b45f93fb84cc0c9eafa9",
+      "f4c2dd59e7c0a7e5de2fb3507c8c0000c8be77e7"
+    ],
+    "imageUrl": "/images/articles/2ecef66899db.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토허제 실거주 의무 위반 땐 허가 취소 가능성…국토부 원칙 재확인",
+        "excerpt": "국토교통부는 토지거래허가구역에서 실거주 의무를 어길 경우 허가 취소까지 고려할 수 있다며 토허제의 실수요·실거주 취지는 그대로 유지된다고 밝혔다.",
+        "body": "국토교통부가 토지거래허가구역 내 실거주 의무 위반에 대해 허가 취소까지 고려할 수 있다는 입장을 밝혔다. 토허제는 허가구역 안에서 주택 등 부동산 거래를 할 때 투기 목적이 아닌 실제 이용과 거주를 전제로 허가하는 제도다. 국토부의 이번 설명은 실거주 요건을 완화하거나 무력화하는 것이 아니라, 허가 이후에도 약속한 거주 의무를 지켜야 한다는 원칙을 재확인한 것이다. 이에 따라 토허구역 매수자는 허가 신청 단계의 계획뿐 아니라 이후 이행 여부까지 관리 대상이 될 수 있다. 국토부는 토허제 취지가 그대로 유지된다는 점을 강조했다. 출처: hankyung.com 인용"
+      },
+      "en": {
+        "title": "Land Permit Zone Residency Breach May Trigger Permit Cancellation, Ministry Says",
+        "excerpt": "South Korea’s land ministry said buyers who violate residency duties in land transaction permit zones may face permit cancellation, stressing the system’s original purpose remains unchanged.",
+        "body": "South Korea’s Ministry of Land, Infrastructure and Transport said it may consider canceling permits when buyers violate the actual-residence obligation in land transaction permit zones. The permit system requires approval for property deals in designated areas on the premise that the purchase is for real use and residence, not speculative demand. The ministry’s position does not mean the residency requirement is being weakened or neutralized. Instead, it reaffirms that buyers must comply with the residence commitment made when receiving approval. Buyers in permit zones may therefore be monitored not only at the application stage but also after approval. The ministry stressed that the purpose of the land transaction permit system remains unchanged. Source: cited from hankyung.com"
+      },
+      "ja": {
+        "title": "土地取引許可区域の実居住義務違反、許可取り消しも検討と国土部",
+        "excerpt": "韓国国土交通部は、土地取引許可区域で実居住義務に違反した場合、許可取り消しも検討し得るとし、制度の趣旨は維持されると説明した。",
+        "body": "韓国国土交通部は、土地取引許可区域内で実居住義務に違反した場合、許可取り消しまで検討し得るとの立場を示した。土地取引許可制度は、指定区域内で住宅などの不動産を取引する際、投機目的ではなく実際の利用と居住を前提に許可する制度だ。今回の説明は、実居住要件を緩和したり無力化したりするものではなく、許可後も約束した居住義務を守るべきだという原則を再確認したものだ。これにより、許可区域の買主は申請時の計画だけでなく、その後の履行状況も管理対象となり得る。国土部は制度の趣旨がそのまま維持される点を強調した。出典: hankyung.com 引用"
+      },
+      "zh": {
+        "title": "土地交易许可区违反实际居住义务，韩国国土部称可考虑撤销许可",
+        "excerpt": "韩国国土交通部表示，在土地交易许可区若违反实际居住义务，可能考虑撤销许可，并强调土地交易许可制的原有宗旨不会改变。",
+        "body": "韩国国土交通部表示，在土地交易许可区内违反实际居住义务时，可考虑撤销交易许可。土地交易许可制是在指定区域内买卖住宅等不动产时，以实际使用和居住、而非投机目的为前提进行许可的制度。此次说明并不意味着放宽或削弱实际居住要求，而是重申获批后也必须履行承诺的居住义务。因此，许可区买方不仅在申请阶段的计划会受到审查，获批后的履行情况也可能成为管理对象。国土部强调，土地交易许可制的宗旨将继续保持不变。来源：引用 hankyung.com"
+      },
+      "es": {
+        "title": "Corea del Sur podría cancelar permisos por incumplir residencia real en zonas reguladas",
+        "excerpt": "El Ministerio de Tierra de Corea del Sur dijo que incumplir la obligación de residencia real en zonas con permiso de transacción puede llevar a cancelar la autorización.",
+        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur señaló que puede considerar la cancelación del permiso cuando se incumpla la obligación de residencia real en zonas sujetas al permiso de transacción de tierras. Este sistema exige autorización para operaciones inmobiliarias en áreas designadas bajo la premisa de uso y residencia efectivos, no de demanda especulativa. La explicación no implica relajar ni neutralizar el requisito de residencia. Más bien reafirma que el comprador debe cumplir el compromiso asumido al recibir la aprobación. Por ello, quienes compren en estas zonas pueden quedar sujetos a control tanto en la solicitud como después de la autorización. El ministerio subrayó que el propósito del sistema se mantiene intacto. Fuente: citado de hankyung.com"
+      },
+      "pt": {
+        "title": "Coreia pode cancelar autorização por violação de moradia real em zonas reguladas",
+        "excerpt": "O Ministério da Terra da Coreia do Sul afirmou que violar a obrigação de moradia real em zonas de permissão de transação pode levar ao cancelamento da autorização.",
+        "body": "O Ministério da Terra, Infraestrutura e Transporte da Coreia do Sul afirmou que pode considerar o cancelamento da autorização quando houver violação da obrigação de moradia real em zonas sujeitas à permissão de transação de terrenos. O sistema exige aprovação para negócios imobiliários em áreas designadas com base no uso e na residência efetivos, não em fins especulativos. A explicação não significa flexibilizar ou neutralizar a exigência de moradia. Ela reafirma que o comprador deve cumprir o compromisso de residência assumido ao obter a aprovação. Assim, compradores nessas zonas podem ser acompanhados não apenas na etapa de solicitação, mas também após a autorização. O ministério ressaltou que o objetivo do sistema permanece inalterado. Fonte: citado de hankyung.com"
+      },
+      "de": {
+        "title": "Südkorea erwägt Genehmigungsentzug bei Verstoß gegen Wohnpflicht in Sperrzonen",
+        "excerpt": "Südkoreas Bauministerium erklärte, dass Verstöße gegen die tatsächliche Wohnpflicht in Genehmigungszonen bis zum Entzug der Transaktionsgenehmigung führen können.",
+        "body": "Das südkoreanische Ministerium für Land, Infrastruktur und Verkehr erklärte, bei Verstößen gegen die Pflicht zum tatsächlichen Wohnen in Landtransaktions-Genehmigungszonen könne auch ein Entzug der Genehmigung geprüft werden. Das System verlangt für Immobiliengeschäfte in ausgewiesenen Gebieten eine Genehmigung auf Grundlage realer Nutzung und Wohnabsicht, nicht spekulativer Nachfrage. Die Aussage bedeutet keine Lockerung oder Entwertung der Wohnpflicht. Sie bestätigt vielmehr, dass Käufer die bei der Genehmigung zugesagte Wohnnutzung auch danach einhalten müssen. Käufer in solchen Zonen können daher nicht nur bei der Antragstellung, sondern auch nach der Genehmigung überprüft werden. Das Ministerium betonte, dass der Zweck des Systems unverändert bleibt. Quelle: zitiert nach hankyung.com"
+      },
+      "fr": {
+        "title": "Corée du Sud: la violation de résidence réelle peut entraîner l’annulation du permis",
+        "excerpt": "Le ministère sud-coréen du Territoire a indiqué qu’un manquement à l’obligation de résidence réelle en zone soumise à permis foncier peut mener à l’annulation.",
+        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a indiqué qu’il pouvait envisager l’annulation d’un permis en cas de violation de l’obligation de résidence réelle dans une zone soumise au permis de transaction foncière. Ce dispositif impose une autorisation pour les transactions immobilières dans les zones désignées, sur la base d’un usage et d’une résidence effectifs plutôt que d’un objectif spéculatif. Cette précision ne signifie pas un assouplissement ni une neutralisation de l’exigence de résidence. Elle réaffirme que l’acheteur doit respecter l’engagement pris lors de l’autorisation. Les acheteurs peuvent donc être contrôlés à la demande comme après l’approbation. Le ministère a souligné que l’objectif du dispositif reste inchangé. Source: cité de hankyung.com"
+      },
+      "ar": {
+        "title": "كوريا الجنوبية قد تلغي التصريح عند مخالفة واجب السكن الفعلي في مناطق الترخيص",
+        "excerpt": "قالت وزارة الأراضي الكورية الجنوبية إن مخالفة واجب السكن الفعلي في مناطق ترخيص معاملات الأراضي قد تؤدي إلى النظر في إلغاء التصريح، مع بقاء هدف النظام كما هو.",
+        "body": "أعلنت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية أنها قد تنظر في إلغاء التصريح عند مخالفة واجب السكن الفعلي داخل مناطق ترخيص معاملات الأراضي. ويقوم هذا النظام على اشتراط الحصول على موافقة عند شراء عقارات في مناطق محددة، بشرط أن يكون الهدف الاستخدام والسكن الفعليين لا المضاربة. ولا تعني هذه التوضيحات تخفيف شرط السكن أو إفراغه من مضمونه، بل تؤكد أن المشتري يجب أن يلتزم بتعهد السكن الذي قدمه عند نيل الموافقة. لذلك قد يخضع مشترو العقارات في هذه المناطق للمتابعة ليس فقط عند تقديم الطلب، بل بعد صدور التصريح أيضا. وشددت الوزارة على أن غاية نظام ترخيص معاملات الأراضي باقية كما هي. المصدر: نقلا عن hankyung.com"
+      },
+      "hi": {
+        "title": "कोरिया में वास्तविक निवास नियम तोड़ने पर भूमि लेनदेन परमिट रद्द हो सकता है",
+        "excerpt": "दक्षिण कोरिया के भूमि मंत्रालय ने कहा कि भूमि लेनदेन परमिट क्षेत्रों में वास्तविक निवास दायित्व तोड़ने पर परमिट रद्द करने तक पर विचार किया जा सकता है।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने कहा कि भूमि लेनदेन परमिट क्षेत्रों में वास्तविक निवास दायित्व के उल्लंघन पर परमिट रद्द करने तक पर विचार किया जा सकता है। यह प्रणाली निर्धारित क्षेत्रों में आवास सहित अचल संपत्ति के सौदों को वास्तविक उपयोग और निवास के आधार पर अनुमति देती है, न कि सट्टा मांग के लिए। मंत्रालय की यह व्याख्या निवास शर्त को ढीला या निष्प्रभावी करने का संकेत नहीं है। यह इस सिद्धांत की पुनः पुष्टि है कि मंजूरी मिलने के बाद भी खरीदार को किए गए निवास वादे का पालन करना होगा। इसलिए ऐसे क्षेत्रों के खरीदारों की जांच केवल आवेदन चरण में ही नहीं, बल्कि मंजूरी के बाद भी हो सकती है। मंत्रालय ने जोर दिया कि भूमि लेनदेन परमिट प्रणाली का उद्देश्य यथावत है। स्रोत: hankyung.com से उद्धृत"
+      },
+      "id": {
+        "title": "Korea Selatan Bisa Cabut Izin Jika Kewajiban Tinggal Nyata di Zona Terkendali Dilanggar",
+        "excerpt": "Kementerian Pertanahan Korea Selatan menyatakan pelanggaran kewajiban tinggal nyata di zona izin transaksi tanah dapat berujung pada pertimbangan pencabutan izin.",
+        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan menyatakan dapat mempertimbangkan pencabutan izin bila kewajiban tinggal nyata dilanggar di zona izin transaksi tanah. Sistem ini mewajibkan persetujuan untuk transaksi properti di wilayah yang ditetapkan dengan dasar penggunaan dan tempat tinggal nyata, bukan tujuan spekulatif. Penjelasan tersebut bukan berarti syarat tinggal dilonggarkan atau dilemahkan. Sebaliknya, kementerian menegaskan kembali bahwa pembeli harus memenuhi komitmen tinggal yang diajukan saat memperoleh izin. Karena itu, pembeli di zona tersebut dapat menjadi objek pengawasan bukan hanya pada tahap permohonan, tetapi juga setelah izin diberikan. Kementerian menekankan bahwa tujuan sistem izin transaksi tanah tetap dipertahankan. Sumber: dikutip dari hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5d2d752bf4e7",
+    "slug": "서울시-비강남권에-혁신-건축물-지으면-추가-가점-준다-838672",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T03:33:57.723Z",
+    "updatedAt": "2026-05-12T03:33:57.723Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12044484",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12044484",
+    "titleFingerprint": "b4639c3c76494016b18b9f54a203c06438007b38",
+    "dedupKeys": [
+      "5d2d752bf4e72a9387728001b9adc17e28f98bb3",
+      "b4639c3c76494016b18b9f54a203c06438007b38",
+      "0c7dfed5b27ed40939eb547a9f55f2d128bbc791"
+    ],
+    "imageUrl": "/images/articles/5d2d752bf4e7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울시 비강남권 혁신 건축물 가점 확대, 인허가 기간 17개월로 단축",
+        "excerpt": "서울시가 ‘도시·건축 디자인 혁신사업’ 개선안을 발표하고 비강남권 혁신 건축물에 추가 가점을 주며 인허가 절차를 4단계로 줄여 도시 경쟁력 강화를 추진한다.",
+        "body": "서울시가 비강남권에 혁신 건축물을 짓는 사업에 추가 가점을 부여하는 ‘도시·건축 디자인 혁신사업’ 개선안을 발표했다. 이번 개선안은 혁신 건축을 유도하고 서울의 미래 도시 경쟁력을 높이기 위한 조치다. 시는 인허가 절차를 기존보다 간소화해 4단계로 정비하고, 전체 소요 기간을 24개월에서 17개월로 줄인다는 방침이다. 특히 강남권에 비해 상대적으로 주목도가 낮았던 비강남권 사업에 추가 가점을 적용해 지역별 혁신 건축 확산을 유도한다. 서울시는 이 같은 제도 개선이 도시 경쟁력 향상에 도움이 될 것으로 보고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul to Give Extra Points for Innovative Buildings Outside Gangnam",
+        "excerpt": "Seoul announced revisions to its Urban and Architectural Design Innovation Project, offering extra points for innovative buildings outside Gangnam and cutting permitting steps to strengthen city competitiveness.",
+        "body": "The Seoul Metropolitan Government announced revisions to its Urban and Architectural Design Innovation Project, including extra points for projects that build innovative architecture in non-Gangnam areas. The measure is intended to encourage innovative building design and support Seoul’s future urban competitiveness. The city will streamline the permitting process into four stages and shorten the total timeline from 24 months to 17 months. By applying additional points to projects outside Gangnam, where attention has been relatively lower, Seoul aims to spread innovative architecture more evenly across the city. The city expects the revised system to help improve Seoul’s urban competitiveness. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウル市、江南以外の革新建築に追加加点　許認可17カ月へ短縮",
+        "excerpt": "ソウル市は「都市・建築デザイン革新事業」の改善案を発表し、江南以外の革新建築に追加加点を行い、許認可手続きを4段階に減らす方針を示した。",
+        "body": "ソウル市は、江南圏以外で革新的な建築物を建てる事業に追加加点を与える「都市・建築デザイン革新事業」の改善案を発表した。今回の改善案は、革新建築を促し、ソウルの将来的な都市競争力を高めるための措置だ。市は許認可手続きを簡素化して4段階に整理し、全体の所要期間を24カ月から17カ月に短縮する方針だ。特に江南圏に比べて相対的に注目度が低かった非江南圏の事業に追加加点を適用し、地域ごとの革新建築の広がりを誘導する。ソウル市は、こうした制度改善が都市競争力の向上に役立つとみている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔市将为非江南圈创新建筑加分，审批期缩短至17个月",
+        "excerpt": "首尔市发布“城市与建筑设计创新项目”改进方案，将为非江南圈创新建筑给予额外加分，并把审批流程缩减为4个阶段以提升城市竞争力。",
+        "body": "首尔市发布“城市与建筑设计创新项目”改进方案，决定对在非江南圈建设创新建筑的项目给予额外加分。此次方案旨在引导创新建筑发展，并提升首尔未来城市竞争力。首尔市将把审批流程简化为4个阶段，并将整体所需时间从24个月缩短至17个月。尤其是针对相较江南圈关注度较低的非江南圈项目，市政府将适用额外加分，推动创新建筑在不同区域扩散。首尔市认为，这一制度改进将有助于提升城市竞争力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seúl dará puntos extra a edificios innovadores fuera de Gangnam",
+        "excerpt": "El Gobierno Metropolitano de Seúl anunció mejoras al proyecto de innovación en diseño urbano y arquitectónico, con puntos extra fuera de Gangnam y permisos reducidos a cuatro etapas.",
+        "body": "El Gobierno Metropolitano de Seúl anunció una mejora del proyecto de innovación en diseño urbano y arquitectónico, que incluye puntos adicionales para proyectos que construyan edificios innovadores en zonas fuera de Gangnam. La medida busca fomentar la arquitectura innovadora y elevar la competitividad urbana futura de Seúl. La ciudad simplificará el proceso de permisos en cuatro etapas y reducirá el plazo total de 24 a 17 meses. En particular, aplicará puntos extra a proyectos en áreas no pertenecientes a Gangnam, que han recibido relativamente menos atención, para impulsar una expansión regional de la arquitectura innovadora. Seúl considera que este cambio institucional ayudará a mejorar la competitividad de la ciudad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seul dará pontos extras a edifícios inovadores fora de Gangnam",
+        "excerpt": "A Prefeitura de Seul anunciou mudanças no projeto de inovação em design urbano e arquitetônico, com pontos extras fora de Gangnam e licenciamento reduzido a quatro etapas.",
+        "body": "A Prefeitura de Seul anunciou uma revisão do Projeto de Inovação em Design Urbano e Arquitetônico, incluindo pontos adicionais para empreendimentos que construam edifícios inovadores em áreas fora de Gangnam. A medida busca incentivar a arquitetura inovadora e fortalecer a futura competitividade urbana de Seul. A cidade simplificará o processo de licenciamento em quatro etapas e reduzirá o prazo total de 24 para 17 meses. Em especial, ao aplicar pontos extras a projetos fora da região de Gangnam, que recebeu relativamente menos atenção, Seul pretende estimular a disseminação regional da arquitetura inovadora. A prefeitura avalia que a melhoria do sistema ajudará a elevar a competitividade urbana. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seoul vergibt Zusatzpunkte für innovative Bauten außerhalb Gangnams",
+        "excerpt": "Seoul hat Änderungen am Programm für urbanes und architektonisches Design vorgestellt: Zusatzpunkte für innovative Bauten außerhalb Gangnams und ein Genehmigungsverfahren in vier Stufen.",
+        "body": "Die Stadt Seoul hat Verbesserungen am Programm für Innovation im urbanen und architektonischen Design vorgestellt. Projekte, die in Gebieten außerhalb Gangnams innovative Gebäude errichten, sollen zusätzliche Punkte erhalten. Die Maßnahme soll innovative Architektur fördern und Seouls künftige städtische Wettbewerbsfähigkeit stärken. Das Genehmigungsverfahren wird auf vier Stufen vereinfacht, wodurch sich die gesamte Bearbeitungszeit von 24 auf 17 Monate verkürzen soll. Besonders Projekte außerhalb des Gangnam-Gebiets, die bislang vergleichsweise weniger Aufmerksamkeit erhielten, werden durch Zusatzpunkte unterstützt, um innovative Architektur breiter über die Stadt zu verbreiten. Seoul erwartet, dass die Reform zur Stärkung der urbanen Wettbewerbsfähigkeit beiträgt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Séoul accordera des points aux bâtiments innovants hors Gangnam",
+        "excerpt": "La ville de Séoul a présenté une réforme de son projet d’innovation en design urbain et architectural, avec des points supplémentaires hors Gangnam et des autorisations ramenées à quatre étapes.",
+        "body": "La ville de Séoul a annoncé une réforme de son Projet d’innovation en design urbain et architectural, prévoyant des points supplémentaires pour les projets construisant des bâtiments innovants dans les zones hors Gangnam. Cette mesure vise à encourager l’architecture innovante et à renforcer la compétitivité urbaine future de Séoul. La municipalité simplifiera la procédure d’autorisation en quatre étapes et réduira la durée totale de 24 à 17 mois. En appliquant des points additionnels aux projets situés hors de Gangnam, qui ont reçu relativement moins d’attention, Séoul entend favoriser une diffusion plus équilibrée de l’architecture innovante. La ville estime que cette amélioration du dispositif contribuera à renforcer sa compétitivité urbaine. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سيول تمنح نقاطا إضافية للمباني المبتكرة خارج غانغنام",
+        "excerpt": "أعلنت سيول تعديلات على مشروع الابتكار في التصميم الحضري والمعماري، تشمل نقاطا إضافية للمباني المبتكرة خارج غانغنام وتقليص إجراءات الترخيص إلى أربع مراحل.",
+        "body": "أعلنت حكومة مدينة سيول تعديلات على مشروع الابتكار في التصميم الحضري والمعماري، تتضمن منح نقاط إضافية للمشاريع التي تبني مباني مبتكرة في المناطق خارج غانغنام. وتهدف هذه الخطوة إلى تشجيع العمارة المبتكرة وتعزيز القدرة التنافسية الحضرية المستقبلية لسيول. وستبسط المدينة إجراءات الترخيص إلى أربع مراحل، مع تقليص المدة الإجمالية من 24 شهرا إلى 17 شهرا. وبشكل خاص، ستطبق سيول نقاطا إضافية على المشاريع في غير منطقة غانغنام، التي حظيت باهتمام أقل نسبيا، بهدف نشر العمارة المبتكرة على نطاق أوسع بين المناطق. وترى المدينة أن هذا التحسين المؤسسي سيساعد في رفع تنافسية سيول الحضرية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल गैर-गंगनम क्षेत्रों में नवोन्मेषी इमारतों को अतिरिक्त अंक देगा",
+        "excerpt": "सियोल ने शहरी और वास्तु डिजाइन नवाचार परियोजना में सुधार की घोषणा की, जिसमें गैर-गंगनम नवोन्मेषी इमारतों को अतिरिक्त अंक और अनुमति प्रक्रिया को चार चरणों तक सीमित करना शामिल है।",
+        "body": "सियोल मेट्रोपॉलिटन सरकार ने शहरी और वास्तु डिजाइन नवाचार परियोजना में सुधार की घोषणा की है, जिसके तहत गैर-गंगनम क्षेत्रों में नवोन्मेषी इमारतें बनाने वाली परियोजनाओं को अतिरिक्त अंक दिए जाएंगे। यह कदम नवोन्मेषी वास्तुकला को प्रोत्साहित करने और सियोल की भविष्य की शहरी प्रतिस्पर्धा क्षमता बढ़ाने के लिए है। शहर अनुमति प्रक्रिया को सरल बनाकर चार चरणों में व्यवस्थित करेगा और कुल अवधि को 24 महीनों से घटाकर 17 महीने करेगा। विशेष रूप से, गंगनम की तुलना में अपेक्षाकृत कम ध्यान पाने वाले गैर-गंगनम क्षेत्रों की परियोजनाओं पर अतिरिक्त अंक लागू किए जाएंगे, ताकि नवोन्मेषी वास्तुकला का क्षेत्रीय प्रसार हो सके। सियोल का मानना है कि यह सुधार शहर की प्रतिस्पर्धा क्षमता बढ़ाने में सहायक होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seoul Beri Poin Ekstra untuk Bangunan Inovatif di Luar Gangnam",
+        "excerpt": "Pemerintah Kota Seoul mengumumkan perbaikan Proyek Inovasi Desain Kota dan Arsitektur, memberi poin ekstra di luar Gangnam serta memangkas proses perizinan menjadi empat tahap.",
+        "body": "Pemerintah Metropolitan Seoul mengumumkan perbaikan Proyek Inovasi Desain Kota dan Arsitektur, termasuk pemberian poin tambahan bagi proyek yang membangun gedung inovatif di kawasan non-Gangnam. Langkah ini ditujukan untuk mendorong arsitektur inovatif dan meningkatkan daya saing kota Seoul di masa depan. Pemerintah kota akan menyederhanakan proses perizinan menjadi empat tahap dan memangkas total waktu dari 24 bulan menjadi 17 bulan. Secara khusus, poin tambahan akan diterapkan pada proyek di luar Gangnam, yang relatif kurang mendapat perhatian, agar inovasi arsitektur menyebar lebih merata antarwilayah. Seoul menilai perbaikan sistem ini akan membantu meningkatkan daya saing perkotaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ab0b31391e1d",
+    "slug": "세-낀-집도-살-수-있다-토지거래허가구역-실거주-의무-유예-420320",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T03:32:49.639Z",
+    "updatedAt": "2026-05-12T03:32:49.639Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12044480",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12044480",
+    "titleFingerprint": "415b86ff3b5995599441b94fbb427fba37139105",
+    "dedupKeys": [
+      "ab0b31391e1d843647dc878a548b546b7e2219f8",
+      "415b86ff3b5995599441b94fbb427fba37139105",
+      "c6a688fd6713294ed9ff5cf20b09246d7ac97cab"
+    ],
+    "imageUrl": "/images/articles/ab0b31391e1d.png",
+    "i18n": {
+      "ko": {
+        "title": "토지거래허가구역 실거주 의무 유예 확대, 세입자 있는 ‘세 낀 집’도 매입 가능",
+        "excerpt": "정부가 토지거래허가구역 내 실거주 의무 유예 대상을 세입자가 있는 주택 전체로 넓히며, 기존 임대차가 있는 주택 거래에 변화가 예상된다.",
+        "body": "정부가 토지거래허가구역에서 적용되는 실거주 의무 유예 대상을 세입자가 있는 주택 전체로 확대한다. 이에 따라 집을 한 채 가진 사람이 해당 주택을 임대 중인 경우에도, 무주택자가 그 집을 매입할 수 있는 길이 열린다. 토지거래허가구역은 일정한 거래 허가와 실거주 요건이 적용되는 지역으로, 세입자가 거주 중인 주택은 매수자의 즉시 입주가 어려워 거래 제약이 있었다. 이번 조정은 기존 임대차 관계가 남아 있는 이른바 ‘세 낀 집’의 매입 가능성을 넓히는 내용이다. 다만 원문에서 제시된 범위는 실거주 의무 유예 대상 확대에 한정된다. 출처 mk.co.kr에 따르면 정부는 유예 대상을 세입자가 있는 주택 전체로 확대한다."
+      },
+      "en": {
+        "title": "Land Transaction Permit Zones Ease Residence Rule, Allowing Purchases of Tenant-Occupied Homes",
+        "excerpt": "The government is expanding deferred residence-duty eligibility in land transaction permit zones to all homes with tenants, changing how leased homes can be bought.",
+        "body": "The government will expand the scope of deferred actual-residence obligations in land transaction permit zones to all homes that currently have tenants. Under the change, if a person owns one home and is renting it out, a homebuyer without another residence may be able to purchase that tenant-occupied property. Land transaction permit zones are areas where certain transactions require approval and residence requirements apply. Homes with existing tenants have faced transaction limits because buyers cannot move in immediately. The adjustment broadens the purchase path for so-called tenant-occupied homes with an existing lease. The original report limits the change to an expansion of eligibility for deferring the residence duty. According to mk.co.kr, the government is expanding the deferral target to all homes with tenants."
+      },
+      "ja": {
+        "title": "土地取引許可区域の実居住義務猶予拡大、入居者付き住宅も購入可能に",
+        "excerpt": "政府は土地取引許可区域内の実居住義務猶予対象を入居者のいる住宅全体に広げ、既存賃貸住宅の取引に変化が見込まれる。",
+        "body": "政府は、土地取引許可区域で適用される実居住義務の猶予対象を、入居者がいる住宅全体へ拡大する。これにより、住宅を1戸所有する人がその住宅を賃貸している場合でも、無住宅者がその入居者付き住宅を購入できる道が開かれる。土地取引許可区域は、一定の取引許可と実居住要件が適用される地域であり、入居者が居住中の住宅は買主がすぐに入居しにくく、取引上の制約があった。今回の調整は、既存の賃貸借関係が残るいわゆる入居者付き住宅の購入可能性を広げる内容だ。ただし原文で示された範囲は、実居住義務猶予対象の拡大に限られる。mk.co.krによると、政府は猶予対象を入居者のいる住宅全体に拡大する。"
+      },
+      "zh": {
+        "title": "土地交易许可区放宽实际居住义务，带租约住宅也可购买",
+        "excerpt": "政府将土地交易许可区内实际居住义务暂缓对象扩大至所有有租户住房，已出租住宅交易或出现变化。",
+        "body": "政府将扩大土地交易许可区内实际居住义务的暂缓适用对象，范围涵盖所有有租户居住的住房。由此，如果一名房主仅拥有一套住房并正在出租，无房者也将有机会购买这类带租约住房。土地交易许可区是适用一定交易许可和实际居住要求的地区，已有租户居住的住房因买方难以立即入住，交易受到限制。此次调整的重点，是扩大仍存在租赁关系的所谓“带租约住宅”的购买可能性。不过，原文所述范围仅限于扩大实际居住义务暂缓对象。据 mk.co.kr 报道，政府将暂缓对象扩大至所有有租户的住房。"
+      },
+      "es": {
+        "title": "Zonas con permiso de transacción de suelo aplazan residencia obligatoria para viviendas alquiladas",
+        "excerpt": "El Gobierno amplía el aplazamiento de la obligación de residencia real en zonas con permiso de transacción de suelo a todas las viviendas con inquilinos.",
+        "body": "El Gobierno ampliará el alcance del aplazamiento de la obligación de residencia real en las zonas sujetas a permiso de transacción de suelo a todas las viviendas que tengan inquilinos. Con el cambio, si una persona posee una sola vivienda y la tiene alquilada, un comprador sin vivienda podrá adquirir esa propiedad ocupada por un inquilino. Estas zonas aplican permisos para ciertas operaciones y requisitos de residencia real. Las viviendas con arrendatarios han tenido restricciones porque el comprador no puede mudarse de inmediato. La medida amplía la posibilidad de comprar casas con un contrato de alquiler vigente. El alcance indicado en el texto original se limita a la ampliación del aplazamiento de la obligación de residencia. Según mk.co.kr, el Gobierno extenderá el aplazamiento a todas las viviendas con inquilinos."
+      },
+      "pt": {
+        "title": "Zonas de permissão para transação de terras ampliam adiamento de moradia obrigatória",
+        "excerpt": "O governo amplia para todos os imóveis com inquilinos o adiamento da obrigação de residência real em zonas de permissão para transação de terras.",
+        "body": "O governo vai ampliar o alcance do adiamento da obrigação de residência real em zonas de permissão para transação de terras para todos os imóveis que tenham inquilinos. Com a mudança, se uma pessoa possui uma única casa e a está alugando, um comprador sem imóvel poderá adquirir essa residência ocupada por locatário. Essas zonas aplicam autorização para determinadas transações e exigências de moradia real. Imóveis com inquilinos enfrentavam restrições porque o comprador não podia se mudar imediatamente. O ajuste amplia a possibilidade de compra de casas com contrato de aluguel vigente. O escopo apresentado no texto original limita-se à ampliação do adiamento da obrigação de residência. Segundo mk.co.kr, o governo estenderá o benefício a todos os imóveis com inquilinos."
+      },
+      "de": {
+        "title": "Grundstücksgenehmigungszonen lockern Wohnpflicht für vermietete Häuser",
+        "excerpt": "Die Regierung erweitert die Stundung der tatsächlichen Wohnpflicht in Grundstücksgenehmigungszonen auf alle Häuser mit Mietern und verändert so den Handel mit vermieteten Objekten.",
+        "body": "Die Regierung erweitert den Kreis der Fälle, in denen die tatsächliche Wohnpflicht in Grundstückstransaktions-Genehmigungszonen aufgeschoben werden kann, auf alle Wohnungen und Häuser mit Mietern. Damit kann ein Käufer ohne eigene Wohnung auch ein vermietetes Objekt erwerben, wenn der Eigentümer nur diese eine Wohnung besitzt und sie vermietet. In solchen Genehmigungszonen gelten für bestimmte Transaktionen eine behördliche Erlaubnis und Wohnanforderungen. Vermietete Objekte waren bislang eingeschränkt handelbar, weil Käufer nicht sofort einziehen können. Die Anpassung erweitert die Kaufmöglichkeit für Häuser mit bestehendem Mietvertrag. Der im Original genannte Umfang beschränkt sich auf die Ausweitung der Stundung der Wohnpflicht. Laut mk.co.kr erweitert die Regierung den Aufschub auf alle Wohnungen mit Mietern."
+      },
+      "fr": {
+        "title": "Zones à permis foncier : report élargi de l’obligation de résidence pour logements loués",
+        "excerpt": "Le gouvernement élargit à tous les logements occupés par des locataires le report de l’obligation de résidence réelle dans les zones à permis foncier.",
+        "body": "Le gouvernement va élargir le champ du report de l’obligation de résidence réelle dans les zones soumises à permis de transaction foncière à tous les logements ayant des locataires. Avec ce changement, lorsqu’une personne possède un seul logement et le loue, un acheteur sans logement pourra acquérir ce bien occupé par un locataire. Ces zones imposent une autorisation pour certaines transactions ainsi que des exigences de résidence réelle. Les logements déjà loués faisaient l’objet de restrictions, car l’acheteur ne peut pas y emménager immédiatement. L’ajustement élargit donc la possibilité d’acheter des biens avec un bail en cours. La portée indiquée dans le texte original se limite à l’extension du report de l’obligation de résidence. Selon mk.co.kr, le gouvernement étend ce report à tous les logements avec locataires."
+      },
+      "ar": {
+        "title": "مناطق تصاريح تداول الأراضي تؤجل شرط السكن الفعلي للمنازل المؤجرة",
+        "excerpt": "توسع الحكومة نطاق تأجيل واجب السكن الفعلي داخل مناطق تصاريح تداول الأراضي ليشمل جميع المنازل التي تضم مستأجرين، ما يغير قيود شراء المنازل المؤجرة.",
+        "body": "ستوسع الحكومة نطاق تأجيل واجب السكن الفعلي في مناطق تصاريح تداول الأراضي ليشمل جميع المساكن التي يوجد فيها مستأجرون. وبموجب هذا التغيير، إذا كان شخص يملك منزلا واحدا ويؤجره، فسيصبح بإمكان مشتر لا يملك مسكنا شراء ذلك المنزل المشغول بمستأجر. وتخضع هذه المناطق لتصاريح على بعض المعاملات ومتطلبات للسكن الفعلي. وكانت المساكن التي يشغلها مستأجرون تواجه قيودا لأن المشتري لا يستطيع الانتقال إليها فورا. يوسع هذا التعديل إمكانية شراء المنازل التي لا يزال فيها عقد إيجار قائم. ويقتصر نطاق النص الأصلي على توسيع 대상 تأجيل واجب السكن الفعلي. وبحسب mk.co.kr، ستوسع الحكومة التأجيل ليشمل جميع المنازل التي تضم مستأجرين."
+      },
+      "hi": {
+        "title": "भूमि लेनदेन परमिट क्षेत्रों में वास्तविक निवास नियम टला, किरायेदार वाले घर भी खरीदे जा सकेंगे",
+        "excerpt": "सरकार भूमि लेनदेन परमिट क्षेत्रों में वास्तविक निवास दायित्व की छूट को किरायेदार वाले सभी घरों तक बढ़ा रही है, जिससे पट्टे वाले घरों की खरीद का रास्ता खुलेगा।",
+        "body": "सरकार भूमि लेनदेन परमिट क्षेत्रों में लागू वास्तविक निवास दायित्व की छूट का दायरा किरायेदारों वाले सभी घरों तक बढ़ाएगी। इसके तहत, यदि किसी व्यक्ति के पास एक ही घर है और वह उसे किराये पर दे रहा है, तो बिना घर वाला खरीदार उस किरायेदार-युक्त घर को खरीद सकेगा। भूमि लेनदेन परमिट क्षेत्रों में कुछ सौदों के लिए अनुमति और वास्तविक निवास की शर्तें लागू होती हैं। जिन घरों में किरायेदार रहते हैं, उनमें खरीदार तुरंत प्रवेश नहीं कर सकता, इसलिए ऐसे सौदों पर सीमाएं थीं। यह बदलाव मौजूदा किरायेदारी वाले घरों की खरीद की संभावना बढ़ाता है। मूल जानकारी में दायरा केवल वास्तविक निवास दायित्व की छूट बढ़ाने तक सीमित है। mk.co.kr के अनुसार, सरकार छूट 대상 को किरायेदारों वाले सभी घरों तक बढ़ा रही है।"
+      },
+      "id": {
+        "title": "Zona Izin Transaksi Tanah Longgarkan Kewajiban Hunian, Rumah Berpenyewa Bisa Dibeli",
+        "excerpt": "Pemerintah memperluas penundaan kewajiban tinggal nyata di zona izin transaksi tanah ke semua rumah berpenyewa, membuka ruang bagi transaksi rumah yang masih disewa.",
+        "body": "Pemerintah akan memperluas cakupan penundaan kewajiban tinggal nyata di zona izin transaksi tanah ke semua rumah yang memiliki penyewa. Dengan perubahan ini, jika seseorang memiliki satu rumah dan sedang menyewakannya, pembeli yang belum memiliki rumah dapat membeli properti berpenyewa tersebut. Zona izin transaksi tanah adalah wilayah yang menerapkan izin untuk transaksi tertentu serta persyaratan tinggal nyata. Rumah yang masih ditempati penyewa menghadapi kendala karena pembeli tidak dapat langsung pindah. Penyesuaian ini memperluas kemungkinan pembelian rumah dengan hubungan sewa yang masih berjalan. Ruang lingkup dalam sumber asli terbatas pada perluasan 대상 penundaan kewajiban tinggal nyata. Menurut mk.co.kr, pemerintah memperluas 대상 penundaan ke semua rumah dengan penyewa."
+      }
+    }
+  },
+  {
     "id": "ed4bd26733fb",
     "slug": "와이어드스코어-어패스리질리언스와-손잡고-한국-빌딩인증-시장-진출-298979",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Korea Periksa Skor Sempurna Undian Rumah hingga Catatan Rumah Sakit",
         "excerpt": "Pada 11 Mei 2026, Kementerian Pertanahan Korea dan satuan pengawas real estat memulai pemeriksaan penuh atas pemenang lotere rumah yang dicurigai curang.",
         "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan bersama satuan pengawas real estat di bawah Kantor Koordinasi Kebijakan Pemerintah menyatakan pada 11 Mei 2026 bahwa mereka memulai penyelidikan gabungan atas pemenang lotere perumahan yang diduga melakukan kecurangan. Pemeriksaan mencakup semua proyek yang dijual sejak Juli 2025 di wilayah regulasi seperti Seoul, serta proyek populer lain, dengan total 43 kompleks dan sekitar 25.000 unit. Pemerintah berfokus pada pemenang dengan skor sempurna dalam sistem poin untuk memastikan apakah anggota keluarga yang didaftarkan sebagai tanggungan benar-benar tinggal bersama. Untuk anak dewasa, catatan kualifikasi asuransi kesehatan akan dipakai untuk melihat lokasi kerja. Untuk orang tua, catatan manfaat kesehatan selama tiga tahun, termasuk penggunaan rumah sakit dan apotek, akan dicocokkan dengan tempat tinggal. Kontrak sewa dan kepemilikan rumah juga diperiksa. Sasaran utama mencakup alamat palsu, pernikahan atau perceraian pura-pura, jual beli akun atau kelayakan, dan pemalsuan dokumen. Hasil dijadwalkan diumumkan akhir Juni. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "56d2b3a15e84",
-    "slug": "정비구역-지정-권한-국토부-부여-움직임에서울시-혼란-키울-것-128005",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T13:31:50.179Z",
-    "updatedAt": "2026-05-11T13:31:50.179Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051188571",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051188571",
-    "titleFingerprint": "bde95ae270b7df7d5392faf5ae0d90ea5373b3b6",
-    "dedupKeys": [
-      "56d2b3a15e84a717ac2ef79254743dfd78e045c4",
-      "bde95ae270b7df7d5392faf5ae0d90ea5373b3b6",
-      "05d47bc012289983e2a02594beabb353708e1c46"
-    ],
-    "imageUrl": "/images/articles/56d2b3a15e84.png",
-    "i18n": {
-      "ko": {
-        "title": "정비구역 지정 권한 국토부 부여 움직임에 서울시 혼란 우려 공식 제기",
-        "excerpt": "정비구역 지정 권한을 국토교통부에 부여하려는 움직임이 제기되자 서울시는 관련 절차와 현장 운영에서 혼란을 키울 수 있다며 우려를 나타냈다.",
-        "body": "정비구역 지정 권한을 국토교통부에 부여하려는 움직임을 두고 서울시가 혼란 우려를 제기했다. 관련 논의는 정비구역 지정 주체와 절차를 둘러싼 권한 조정 문제로 이어지고 있다. 서울시는 이 같은 변화가 기존 정비사업 추진 체계와 현장 운영에 혼선을 줄 수 있다고 봤다. 정비구역 지정은 재개발·재건축 등 정비사업의 출발점으로, 권한 배분 방식에 따라 사업 일정과 행정 절차에 영향을 줄 수 있다. 향후 논의에서는 중앙정부와 지방자치단체의 역할 조정이 핵심 쟁점이 될 전망이다. 출처인 hankyung.com은 서울시가 국토부 권한 부여 움직임에 대해 혼란을 키울 것이라고 밝혔다고 전했다."
-      },
-      "en": {
-        "title": "Seoul Warns of Confusion Over Move to Give Redevelopment Zone Power to MOLIT",
-        "excerpt": "Seoul raised concerns after moves emerged to give the transport ministry authority to designate redevelopment zones, warning the change could increase confusion in procedures and field operations.",
-        "body": "Seoul has raised concerns over moves to give the Ministry of Land, Infrastructure and Transport authority to designate redevelopment zones. The discussion centers on who should hold designation power and how procedures for redevelopment areas would be handled. Seoul said such a change could create confusion in the existing redevelopment project system and on-site administration. Designating a redevelopment zone is the starting point for projects such as redevelopment and reconstruction, so the allocation of authority can affect schedules and administrative steps. Future debate is expected to focus on how the roles of the central government and local governments should be adjusted. According to hankyung.com, Seoul said the move to grant the ministry this authority would increase confusion."
-      },
-      "ja": {
-        "title": "整備区域指定権限を国土交通部に付与する動きにソウル市が混乱懸念",
-        "excerpt": "整備区域の指定権限を国土交通部に与える動きが浮上し、ソウル市は関連手続きや現場運営で混乱が拡大しかねないと懸念を示した。",
-        "body": "整備区域の指定権限を国土交通部に付与しようとする動きをめぐり、ソウル市が混乱への懸念を示した。今回の議論は、整備区域を誰が指定し、どのような手続きで進めるのかという権限調整の問題につながっている。ソウル市は、こうした変更が既存の整備事業推進体系や現場運営に混線をもたらす可能性があると見ている。整備区域の指定は再開発・再建築など整備事業の出発点であり、権限配分の方式によって事業日程や行政手続きに影響を与え得る。今後の議論では、中央政府と地方自治体の役割調整が主要な争点になる見通しだ。hankyung.comは、ソウル市が国土交通部への権限付与の動きについて、混乱を拡大させるものだと述べたと伝えた。"
-      },
-      "zh": {
-        "title": "整备区域指定权限拟交国土交通部 首尔市警告或加剧混乱",
-        "excerpt": "围绕将整备区域指定权限赋予国土交通部的动向，首尔市表示担忧，认为相关程序和一线执行可能因此出现更大混乱。",
-        "body": "围绕将整备区域指定权限赋予国土交通部的动向，首尔市提出了混乱风险。相关讨论涉及整备区域由谁指定、程序如何推进等权限调整问题。首尔市认为，这一变化可能给现有整备项目推进体系和现场运营带来混乱。整备区域指定是再开发、重建等整备项目的起点，权限分配方式可能影响项目日程和行政程序。今后的讨论预计将把中央政府与地方自治团体之间的角色调整作为核心议题。hankyung.com报道称，首尔市就赋予国土交通部相关权限的动向表示，这将加剧混乱。"
-      },
-      "es": {
-        "title": "Seúl advierte confusión por dar al ministerio poder sobre zonas de renovación",
-        "excerpt": "Seúl expresó preocupación ante el movimiento para otorgar al Ministerio de Tierra y Transporte la autoridad de designar zonas de renovación, al advertir posibles confusiones en trámites y operación.",
-        "body": "Seúl planteó preocupaciones por el movimiento para otorgar al Ministerio de Tierra, Infraestructura y Transporte la autoridad de designar zonas de renovación urbana. La discusión se centra en quién debe tener esa facultad y cómo se organizarían los procedimientos. La ciudad considera que un cambio de este tipo podría generar confusión en el sistema actual de proyectos de renovación y en la gestión sobre el terreno. La designación de una zona de renovación es el punto de partida de proyectos como la reurbanización y la reconstrucción, por lo que la distribución de competencias puede afectar calendarios y trámites administrativos. El debate futuro se concentrará previsiblemente en el ajuste de funciones entre el gobierno central y los gobiernos locales. Según hankyung.com, Seúl afirmó que el movimiento para otorgar esa autoridad al ministerio aumentaría la confusión."
-      },
-      "pt": {
-        "title": "Seul alerta para confusão se ministério ganhar poder sobre zonas de renovação",
-        "excerpt": "Seul manifestou preocupação com a proposta de dar ao Ministério da Terra e Transporte autoridade para designar zonas de renovação, alertando para confusão em procedimentos e operações.",
-        "body": "Seul levantou preocupação sobre o movimento para conceder ao Ministério da Terra, Infraestrutura e Transporte autoridade para designar zonas de renovação urbana. A discussão envolve quem deve ter o poder de designação e como os procedimentos dessas áreas seriam conduzidos. A cidade avalia que essa mudança pode causar confusão no sistema atual de projetos de renovação e na operação em campo. A designação de uma zona de renovação é o ponto inicial de projetos como reurbanização e reconstrução, de modo que a forma de distribuição de competências pode afetar cronogramas e trâmites administrativos. O debate deve se concentrar no ajuste de papéis entre o governo central e os governos locais. Segundo o hankyung.com, Seul afirmou que o movimento para dar essa autoridade ao ministério aumentaria a confusão."
-      },
-      "de": {
-        "title": "Seoul warnt vor Verwirrung bei Zuständigkeit für Sanierungsgebiete",
-        "excerpt": "Seoul äußerte Bedenken gegen Bestrebungen, dem Verkehrs- und Infrastrukturministerium die Befugnis zur Ausweisung von Sanierungsgebieten zu geben, da Verfahren und Umsetzung unklarer werden könnten.",
-        "body": "Seoul hat Bedenken gegen Bestrebungen geäußert, dem Ministerium für Land, Infrastruktur und Verkehr die Befugnis zur Ausweisung von Sanierungsgebieten zu übertragen. Die Debatte dreht sich darum, wer diese Zuständigkeit haben soll und wie die Verfahren organisiert werden. Die Stadt sieht die Gefahr, dass eine solche Änderung das bestehende System für Sanierungsprojekte und die praktische Verwaltung vor Ort durcheinanderbringt. Die Ausweisung eines Sanierungsgebiets ist der Ausgangspunkt für Projekte wie Stadterneuerung und Wiederaufbau; die Verteilung der Befugnisse kann daher Zeitpläne und Verwaltungsabläufe beeinflussen. In der weiteren Diskussion dürfte die Rollenverteilung zwischen Zentralregierung und Kommunen zum zentralen Streitpunkt werden. Laut hankyung.com erklärte Seoul, die geplante Übertragung der Zuständigkeit auf das Ministerium werde die Verwirrung vergrößern."
-      },
-      "fr": {
-        "title": "Séoul alerte sur la confusion autour du pouvoir de désigner les zones à rénover",
-        "excerpt": "Séoul s’inquiète du mouvement visant à donner au ministère des Transports le pouvoir de désigner les zones de rénovation, estimant que procédures et opérations locales pourraient se compliquer.",
-        "body": "Séoul a exprimé des inquiétudes face au mouvement visant à accorder au ministère du Territoire, des Infrastructures et des Transports le pouvoir de désigner les zones de rénovation urbaine. Le débat porte sur l’autorité chargée de cette désignation et sur les procédures à suivre. La ville estime qu’un tel changement pourrait créer de la confusion dans le système actuel de mise en œuvre des projets de rénovation et dans la gestion sur le terrain. La désignation d’une zone de rénovation constitue le point de départ de projets tels que la réurbanisation et la reconstruction; la répartition des compétences peut donc influencer les calendriers et les démarches administratives. Les prochaines discussions devraient porter principalement sur l’ajustement des rôles entre gouvernement central et collectivités locales. Selon hankyung.com, Séoul a déclaré que l’attribution de ce pouvoir au ministère accroîtrait la confusion."
-      },
-      "ar": {
-        "title": "سيول تحذر من ارتباك إذا مُنحت الوزارة صلاحية تحديد مناطق التطوير",
-        "excerpt": "أبدت سيول قلقها من تحرك لمنح وزارة الأراضي والنقل صلاحية تحديد مناطق التطوير، معتبرة أن ذلك قد يزيد الارتباك في الإجراءات والإدارة الميدانية.",
-        "body": "أثارت سيول مخاوف بشأن تحرك لمنح وزارة الأراضي والبنية التحتية والنقل صلاحية تحديد مناطق التطوير العمراني. ويدور النقاش حول الجهة التي ينبغي أن تملك سلطة التحديد وكيفية إدارة الإجراءات المرتبطة بهذه المناطق. وترى سيول أن هذا التغيير قد يسبب ارتباكا في نظام دفع مشاريع التطوير القائم وفي الإدارة الميدانية. ويعد تحديد منطقة التطوير نقطة البداية لمشروعات مثل إعادة التطوير وإعادة البناء، ولذلك فإن طريقة توزيع الصلاحيات يمكن أن تؤثر في الجداول الزمنية والإجراءات الإدارية. ومن المتوقع أن تتركز المناقشات المقبلة على ضبط أدوار الحكومة المركزية والحكومات المحلية. ووفقا لموقع hankyung.com، قالت سيول إن التحرك لمنح هذه الصلاحية للوزارة سيزيد الارتباك."
-      },
-      "hi": {
-        "title": "पुनर्विकास क्षेत्र नामित करने की शक्ति मंत्रालय को देने पर सियोल ने जताई चिंता",
-        "excerpt": "पुनर्विकास क्षेत्रों को नामित करने का अधिकार भूमि व परिवहन मंत्रालय को देने की पहल पर सियोल ने कहा कि इससे प्रक्रियाओं और जमीनी संचालन में भ्रम बढ़ सकता है।",
-        "body": "सियोल ने पुनर्विकास क्षेत्रों को नामित करने का अधिकार भूमि, अवसंरचना और परिवहन मंत्रालय को देने की पहल पर भ्रम की आशंका जताई है। यह चर्चा इस बात से जुड़ी है कि नामित करने की शक्ति किसके पास होनी चाहिए और संबंधित प्रक्रियाएं कैसे चलेंगी। सियोल का मानना है कि ऐसा बदलाव मौजूदा पुनर्विकास परियोजना प्रणाली और जमीनी प्रशासन में उलझन पैदा कर सकता है। पुनर्विकास क्षेत्र का नामांकन पुनर्विकास और पुनर्निर्माण जैसी परियोजनाओं की शुरुआत है, इसलिए अधिकारों का बंटवारा परियोजना समय-सारिणी और प्रशासनिक प्रक्रियाओं को प्रभावित कर सकता है। आगे की चर्चा में केंद्र सरकार और स्थानीय सरकारों की भूमिकाओं का समायोजन मुख्य मुद्दा रहने की संभावना है। hankyung.com के अनुसार, सियोल ने कहा कि मंत्रालय को यह अधिकार देने की पहल भ्रम को बढ़ाएगी।"
-      },
-      "id": {
-        "title": "Seoul Peringatkan Kekacauan Jika Kewenangan Zona Pembenahan Diberi ke Kementerian",
-        "excerpt": "Seoul menyuarakan kekhawatiran atas langkah memberi Kementerian Pertanahan dan Transportasi kewenangan menetapkan zona pembenahan, karena prosedur dan operasi lapangan bisa makin membingungkan.",
-        "body": "Seoul menyampaikan kekhawatiran atas langkah untuk memberikan kewenangan penetapan zona pembenahan kepada Kementerian Pertanahan, Infrastruktur, dan Transportasi. Pembahasan ini berkaitan dengan siapa yang harus memegang kewenangan penetapan dan bagaimana prosedur zona tersebut dijalankan. Seoul menilai perubahan seperti itu dapat menimbulkan kebingungan dalam sistem proyek pembenahan yang sudah ada dan dalam operasi di lapangan. Penetapan zona pembenahan merupakan titik awal bagi proyek seperti pembangunan kembali dan rekonstruksi, sehingga pembagian kewenangan dapat memengaruhi jadwal proyek serta prosedur administrasi. Ke depan, penyesuaian peran antara pemerintah pusat dan pemerintah daerah diperkirakan menjadi isu utama. Menurut hankyung.com, Seoul menyatakan bahwa langkah memberi kewenangan tersebut kepada kementerian akan memperbesar kebingungan."
-      }
-    }
-  },
-  {
-    "id": "03bcf15b881d",
-    "slug": "이주비-규제공사비-인상서울-재건축-착공-12뿐-912711",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T13:30:19.005Z",
-    "updatedAt": "2026-05-11T13:30:19.005Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051188601",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051188601",
-    "titleFingerprint": "c23bedb4e9a755526d9fd533504adb064424f54e",
-    "dedupKeys": [
-      "03bcf15b881db2cd22131a9bebfb3c1fea6f2d28",
-      "c23bedb4e9a755526d9fd533504adb064424f54e",
-      "fbf65cba6c53d2a2af3a4f308661056074386ed9"
-    ],
-    "imageUrl": "/images/articles/03bcf15b881d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 재건축 착공 12%뿐…이주비 규제·공사비 인상에 공급 지연 우려",
-        "excerpt": "서울 재건축 현장의 착공 비율이 12%에 그친 가운데, 이주비 규제와 공사비 인상이 사업 일정 지연 요인으로 지목됐다고 hankyung.com이 전했다.",
-        "body": "서울 재건축 현장에서 실제 착공에 들어간 비율이 12%에 그친 것으로 전해졌다. hankyung.com은 이주비 규제와 공사비 인상을 주요 배경으로 제시했다. 이주비 조달이 어려워지면 조합원 이주, 철거, 착공 일정이 순차적으로 늦어질 수 있고, 공사비 상승은 사업비와 분담금 부담을 키워 조합과 시공사 협의에 부담을 준다. 서울 주택 공급에서 재건축이 차지하는 비중을 고려하면 착공 지연은 공급 일정 전반의 불확실성을 높이는 요인으로 해석된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Seoul Reconstruction Starts at Just 12% as Relocation Loan Rules and Costs Bite",
-        "excerpt": "Only 12% of Seoul reconstruction projects have begun construction, with relocation-fund rules and rising building costs cited as key causes, hankyung.com reported.",
-        "body": "Only 12% of Seoul reconstruction sites have reportedly moved into actual construction. According to hankyung.com, the main factors are restrictions on relocation funding and higher construction costs. When relocation money becomes harder to secure, the sequence of resident moves, demolition and construction can be delayed. Rising building costs also increase total project expenses and member contributions, adding pressure to negotiations between associations and builders. Given the role of reconstruction in Seoul’s housing supply, delayed starts add uncertainty to the broader supply timetable. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ソウル再建築の着工率12%どまり、移転費規制と工事費上昇が重荷",
-        "excerpt": "ソウルの再建築現場で着工に至った割合は12%にとどまり、移転費規制と工事費上昇が日程遅延の要因とされたとhankyung.comが報じた。",
-        "body": "ソウルの再建築現場で実際に着工した割合は12%にとどまったとされる。hankyung.comは、その主な背景として移転費規制と工事費上昇を挙げた。移転資金の確保が難しくなれば、組合員の移転、解体、着工の順に日程が遅れる可能性がある。工事費の上昇は総事業費と組合員負担を押し上げ、組合と施工会社の協議にも負担をかける。ソウルの住宅供給で再建築が担う役割を考えると、着工遅延は供給日程全体の不確実性を高める要因となる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "首尔重建项目开工率仅12%，搬迁费监管与施工费上涨拖慢进度",
-        "excerpt": "首尔重建项目实际开工比例仅为12%，hankyung.com称，搬迁费监管和施工费上涨被指为项目进度延迟的主要因素。",
-        "body": "首尔重建项目中实际进入开工阶段的比例据称仅为12%。hankyung.com指出，搬迁费监管和施工费上涨是主要背景。若搬迁资金筹措变得困难，业主搬迁、拆除以及开工等程序可能依次推迟。施工费上涨还会推高项目总成本和业主分摊负担，增加组合与施工方协商的压力。考虑到重建在首尔住房供应中的比重，开工延迟将提高整体供应时间表的不确定性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La reconstrucción en Seúl solo arranca en un 12% por reglas de mudanza y costes",
-        "excerpt": "Solo el 12% de los proyectos de reconstrucción en Seúl ha iniciado obras, mientras las reglas sobre fondos de mudanza y el alza de costes frenan el calendario, informó hankyung.com.",
-        "body": "Solo el 12% de los proyectos de reconstrucción en Seúl habría entrado en fase real de obras. Según hankyung.com, los principales factores son las restricciones sobre los fondos de mudanza y el aumento de los costes de construcción. Si se complica la financiación para reubicar a los propietarios, pueden retrasarse en cadena la mudanza, la demolición y el inicio de obra. El alza de costes también eleva el gasto total del proyecto y las aportaciones de los miembros, presionando las negociaciones entre asociaciones y constructoras. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Reconstruções em Seul têm só 12% de início de obras com regras e custos em alta",
-        "excerpt": "Apenas 12% dos projetos de reconstrução em Seul começaram as obras, com restrições ao dinheiro de mudança e alta dos custos apontadas como entraves, informou hankyung.com.",
-        "body": "Apenas 12% dos canteiros de reconstrução em Seul teriam avançado para o início efetivo das obras. Segundo hankyung.com, os principais fatores são as restrições ao financiamento de mudança e o aumento dos custos de construção. Quando o dinheiro para realocar moradores fica mais difícil de obter, a mudança, a demolição e o início das obras podem atrasar em sequência. A alta dos custos também eleva o orçamento total e as contribuições dos membros, pressionando negociações entre associações e construtoras. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Seouls Wiederaufbau startet nur zu 12%: Umzugsregeln und Baukosten bremsen",
-        "excerpt": "Nur 12% der Wiederaufbauprojekte in Seoul haben mit dem Bau begonnen; Regeln für Umzugsgelder und steigende Baukosten gelten als zentrale Bremsen, berichtet hankyung.com.",
-        "body": "Bei Wiederaufbauprojekten in Seoul sollen nur 12% tatsächlich in die Bauphase eingetreten sein. hankyung.com nennt als zentrale Gründe Beschränkungen bei Umzugsgeldern und steigende Baukosten. Wird die Finanzierung der Umsiedlung schwieriger, können sich Umzug, Abriss und Baubeginn nacheinander verzögern. Höhere Baukosten erhöhen zudem die gesamten Projektkosten und die Belastung der Mitglieder, was Verhandlungen zwischen Vereinigungen und Bauunternehmen erschwert. Für Seouls Wohnungsangebot erhöht ein verzögerter Baubeginn die Unsicherheit im Zeitplan. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "À Séoul, seuls 12% des reconstructions démarrent, freinées par règles et coûts",
-        "excerpt": "À Séoul, seuls 12% des projets de reconstruction ont commencé les travaux, les règles sur les frais de relogement et la hausse des coûts étant citées par hankyung.com.",
-        "body": "À Séoul, seuls 12% des sites de reconstruction seraient réellement passés au stade des travaux. Selon hankyung.com, les principaux facteurs sont les restrictions sur le financement du relogement et la hausse des coûts de construction. Quand les fonds de relogement deviennent plus difficiles à obtenir, le départ des résidents, la démolition puis le démarrage du chantier peuvent être retardés. La hausse des coûts accroît aussi le budget total et les contributions des membres, pesant sur les discussions entre associations et constructeurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "بدء 12% فقط من إعادة البناء في سيول مع قيود بدل الانتقال وارتفاع التكاليف",
-        "excerpt": "بدأت 12% فقط من مشاريع إعادة البناء في سيول أعمالها فعليا، فيما عزا hankyung.com التأخير إلى قيود تمويل الانتقال وارتفاع تكاليف البناء.",
-        "body": "لم تدخل سوى 12% من مواقع إعادة البناء في سيول مرحلة التنفيذ الفعلي، بحسب ما ورد. وذكر hankyung.com أن القيود على تمويل انتقال السكان وارتفاع تكاليف البناء هما العاملان الرئيسيان. فعندما يصعب تأمين أموال الانتقال، قد تتأخر خطوات انتقال أعضاء الجمعيات، ثم الهدم، ثم بدء الأعمال. كما أن ارتفاع تكاليف البناء يزيد إجمالي نفقات المشروع وأعباء المساهمات، ما يضغط على المفاوضات بين الجمعيات وشركات البناء. وبالنظر إلى دور إعادة البناء في إمدادات السكن في سيول، فإن تأخر البدء يزيد عدم اليقين في جدول الإمداد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सियोल पुनर्निर्माण में सिर्फ 12% काम शुरू, स्थानांतरण नियम और लागत बने बाधा",
-        "excerpt": "सियोल के पुनर्निर्माण स्थलों में केवल 12% पर काम शुरू हुआ है; hankyung.com के अनुसार स्थानांतरण धन पर नियम और निर्माण लागत बढ़ना प्रमुख कारण हैं।",
-        "body": "सियोल के पुनर्निर्माण स्थलों में वास्तविक निर्माण शुरू होने का अनुपात केवल 12% बताया गया है। hankyung.com ने इसके मुख्य कारणों के रूप में स्थानांतरण धन पर नियमों और निर्माण लागत में वृद्धि को बताया। यदि स्थानांतरण के लिए धन जुटाना कठिन हो जाता है, तो सदस्यों का स्थानांतरण, ध्वस्तीकरण और निर्माण शुरू होने की प्रक्रिया क्रमशः टल सकती है। बढ़ती निर्माण लागत परियोजना खर्च और सदस्यों के अंशदान का बोझ भी बढ़ाती है, जिससे संघों और निर्माण कंपनियों की बातचीत पर दबाव पड़ता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pembangunan ulang Seoul baru mulai 12% karena aturan biaya pindah dan ongkos naik",
-        "excerpt": "Hanya 12% proyek pembangunan ulang di Seoul yang mulai konstruksi, dengan aturan dana relokasi dan kenaikan biaya bangun disebut sebagai penyebab oleh hankyung.com.",
-        "body": "Hanya 12% lokasi pembangunan ulang di Seoul yang dilaporkan benar-benar memasuki tahap konstruksi. Menurut hankyung.com, faktor utamanya adalah pembatasan dana relokasi dan kenaikan biaya konstruksi. Jika dana untuk memindahkan anggota sulit diperoleh, jadwal relokasi, pembongkaran, lalu mulai konstruksi dapat tertunda secara berurutan. Kenaikan biaya juga memperbesar total biaya proyek dan beban kontribusi anggota, sehingga menekan negosiasi antara asosiasi dan kontraktor. Mengingat peran pembangunan ulang dalam pasokan hunian Seoul, keterlambatan mulai proyek menambah ketidakpastian jadwal pasokan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e7ba497d1a52",
-    "slug": "장특공제-축소땐-실거주-못채운-1주택자-稅부담-289022",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T13:28:52.010Z",
-    "updatedAt": "2026-05-11T13:28:52.010Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190221",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190221",
-    "titleFingerprint": "ee4b9c22ba1f9c975bbb9b957d55712ecf778ccd",
-    "dedupKeys": [
-      "e7ba497d1a5258be3630ac1f4ea350e4e89647cc",
-      "ee4b9c22ba1f9c975bbb9b957d55712ecf778ccd",
-      "5af15779c30899c333a02ad409c3aa595447aa29"
-    ],
-    "imageUrl": "/images/articles/e7ba497d1a52.jpg",
-    "i18n": {
-      "ko": {
-        "title": "장기보유특별공제 축소 논의, 실거주 못 채운 1주택자 세 부담 커지나",
-        "excerpt": "정부가 2026년 6월 지방선거 이후 비거주 1주택자의 ‘투기적 목적’을 구체화하기로 하면서 장기보유특별공제 축소 시 양도세 부담과 전월세 시장 영향이 주목된다.",
-        "body": "정부가 2026년 6월 지방선거 이후 비거주 1주택자 규제 기준을 구체화하기로 하면서, 실거주 요건을 채우지 못한 1주택자의 양도세 부담이 커질 수 있다는 분석이 나왔다. 장기보유특별공제는 일정 기간 보유한 주택의 양도차익 일부를 공제하는 제도다. 현재 1가구 1주택자는 보유·거주 기간을 각각 최대 10년 이상 충족하면 최대 80%까지 공제받을 수 있다. 한국경제에 따르면 10년 전 10억원에 산 주택을 40억원에 파는 1주택자가 2년 거주한 경우, 공제율이 48%에서 16%로 낮아지면 양도세가 4억6676만원에서 7억9940만원으로 늘어나는 시뮬레이션이 제시됐다. 서울 내 비실거주 개인 소유 주택은 약 83만가구로 추정됐다. hankyung.com 인용."
-      },
-      "en": {
-        "title": "Long-term holding deduction cuts may raise tax bills for non-resident single-home owners",
-        "excerpt": "After South Korea’s government said it would define speculative intent among non-resident single-home owners after the June 2026 local elections, attention is turning to capital gains tax and rental-market effects.",
-        "body": "South Korea’s government plans to clarify rules for non-resident single-home owners after the June 2026 local elections, raising concern that owners who have not met residence requirements could face higher capital gains tax. The long-term holding special deduction allows part of a home’s capital gain to be deducted when it has been held for a set period. Under current rules, a one-household, one-home owner can receive up to an 80% deduction if both holding and residence periods meet the maximum 10-year standard. According to Hankyung, a simulation showed that for a home bought for 1 billion won 10 years ago and sold for 4 billion won after two years of residence, the tax could rise from 466.76 million won to 799.4 million won if the deduction rate falls from 48% to 16%. About 830,000 privately owned homes in Seoul are estimated to be non-owner-occupied. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "長期保有特別控除の縮小論議、実居住不足の1住宅所有者に税負担増の可能性",
-        "excerpt": "韓国政府が2026年6月の地方選後、非居住の1住宅所有者の『投機目的』を具体化する方針を示し、譲渡税負担と賃貸市場への影響が注目されている。",
-        "body": "韓国政府が2026年6月の地方選挙後、非居住の1住宅所有者に関する規制基準を具体化する方針を示したことで、実居住要件を満たしていない1住宅所有者の譲渡税負担が増える可能性が指摘されている。長期保有特別控除は、一定期間保有した住宅の譲渡益の一部を控除する制度だ。現行制度では、1世帯1住宅の所有者が保有期間と居住期間をそれぞれ最大10年以上満たせば、最大80%の控除を受けられる。韓国経済によると、10年前に10億ウォンで購入した住宅を40億ウォンで売却し、2年居住した場合、控除率が48%から16%に下がると譲渡税は4億6676万ウォンから7億9940万ウォンに増えるとの試算が示された。ソウルの個人所有住宅のうち非実居住は約83万戸と推定された。hankyung.com引用。"
-      },
-      "zh": {
-        "title": "长期持有特别扣除若缩减，未满足实住条件的一套房业主税负或上升",
-        "excerpt": "韩国政府拟在2026年6月地方选举后明确非自住一套房业主的“投机目的”，长期持有特别扣除调整对资本利得税和租赁市场的影响受到关注。",
-        "body": "韩国政府计划在2026年6月地方选举后细化非自住一套房业主的监管标准，因此未满足实际居住要求的业主可能面临更高转让所得税。长期持有特别扣除是对持有一定期限住房的转让收益给予部分扣除的制度。现行制度下，一户一房业主若持有期和居住期分别满足最高10年以上条件，最多可获得80%扣除。据《韩国经济》报道，一项测算显示，10年前以10亿韩元购入、以40亿韩元出售且居住2年的住房，如扣除率从48%降至16%，转让税将由4.6676亿韩元增至7.994亿韩元。首尔个人持有住房中非自住住房估计约83万套。引自 hankyung.com。"
-      },
-      "es": {
-        "title": "Recorte a la deducción por tenencia prolongada elevaría impuestos a propietarios sin residencia efectiva",
-        "excerpt": "El Gobierno surcoreano prevé definir tras las elecciones locales de junio de 2026 el ‘propósito especulativo’ de propietarios de una sola vivienda no residentes, con efectos en impuestos y alquileres.",
-        "body": "El Gobierno de Corea del Sur planea concretar, después de las elecciones locales de junio de 2026, los criterios para propietarios de una sola vivienda que no residen en ella, lo que podría elevar el impuesto a las ganancias de capital para quienes no cumplieron el requisito de residencia efectiva. La deducción especial por tenencia prolongada permite descontar parte de la ganancia por la venta de una vivienda mantenida durante cierto periodo. Bajo el sistema actual, un propietario de una sola vivienda puede deducir hasta el 80% si cumple hasta 10 años de tenencia y residencia. Según Hankyung, una simulación indicó que una vivienda comprada hace 10 años por 1.000 millones de wones y vendida por 4.000 millones, con dos años de residencia, pasaría de pagar 466,76 millones a 799,4 millones de wones si la tasa de deducción baja del 48% al 16%. En Seúl se estiman unas 830.000 viviendas privadas no ocupadas por sus dueños. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Redução da dedução por posse longa pode elevar imposto de dono de imóvel sem residência efetiva",
-        "excerpt": "O governo sul-coreano pretende definir após as eleições locais de junho de 2026 o ‘fim especulativo’ de proprietários de uma única moradia não residentes, com impacto em imposto e aluguel.",
-        "body": "O governo da Coreia do Sul pretende detalhar, após as eleições locais de junho de 2026, critérios para proprietários de uma única moradia que não residem no imóvel, o que pode aumentar o imposto sobre ganho de capital de quem não cumpriu a exigência de residência efetiva. A dedução especial por posse de longo prazo permite abater parte do ganho na venda de uma casa mantida por determinado período. Pelas regras atuais, um proprietário de uma única residência pode receber até 80% de dedução se cumprir até 10 anos de posse e residência. Segundo o Hankyung, uma simulação mostrou que uma casa comprada há 10 anos por 1 bilhão de wones e vendida por 4 bilhões, com dois anos de residência, teria imposto de 466,76 milhões para 799,4 milhões de wones se a dedução cair de 48% para 16%. Em Seul, cerca de 830 mil casas privadas seriam não ocupadas pelos donos. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kürzung des Langzeit-Halteabzugs könnte Steuerlast für nicht selbst nutzende Einzeleigentümer erhöhen",
-        "excerpt": "Südkoreas Regierung will nach den Kommunalwahlen im Juni 2026 den spekulativen Zweck bei nicht selbst nutzenden Eigentümern einer einzigen Wohnung konkretisieren; Steuern und Mietmarkt rücken in den Fokus.",
-        "body": "Südkoreas Regierung will nach den Kommunalwahlen im Juni 2026 die Kriterien für Eigentümer einer einzigen Wohnung, die dort nicht selbst wohnen, konkretisieren. Dadurch könnte die Kapitalertragsteuer für Eigentümer steigen, die die Wohnsitzanforderung nicht erfüllt haben. Der besondere Langzeit-Halteabzug erlaubt es, einen Teil des Veräußerungsgewinns bei lange gehaltenen Wohnungen abzuziehen. Nach geltendem Recht können Ein-Haushalt-Ein-Wohnung-Eigentümer bis zu 80% abziehen, wenn Halte- und Wohnzeit jeweils den Höchstmaßstab von 10 Jahren erfüllen. Laut Hankyung zeigte eine Simulation: Bei einer vor 10 Jahren für 1 Milliarde Won gekauften und für 4 Milliarden Won verkauften Wohnung mit zwei Jahren Wohnzeit würde die Steuer von 466,76 Millionen auf 799,4 Millionen Won steigen, wenn der Abzugssatz von 48% auf 16% fällt. In Seoul werden rund 830.000 private Wohnungen als nicht selbst genutzt geschätzt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "La baisse de l’abattement pour détention longue pourrait alourdir l’impôt des propriétaires non résidents",
-        "excerpt": "Le gouvernement sud-coréen veut préciser après les élections locales de juin 2026 la notion de ‘but spéculatif’ pour les propriétaires d’un seul logement non résidents, avec des effets fiscaux et locatifs.",
-        "body": "Le gouvernement sud-coréen prévoit de préciser, après les élections locales de juin 2026, les critères applicables aux propriétaires d’un seul logement qui n’y résident pas. Les propriétaires n’ayant pas rempli l’exigence de résidence effective pourraient donc voir leur impôt sur la plus-value augmenter. L’abattement spécial pour détention longue permet de déduire une partie du gain lors de la vente d’un logement conservé pendant une période donnée. Selon les règles actuelles, un propriétaire d’un seul logement peut obtenir jusqu’à 80% d’abattement si les durées de détention et de résidence atteignent chacune le plafond de 10 ans. D’après Hankyung, une simulation montre qu’un logement acheté 1 milliard de wons il y a 10 ans et vendu 4 milliards, avec deux ans de résidence, verrait l’impôt passer de 466,76 millions à 799,4 millions de wons si le taux d’abattement tombe de 48% à 16%. À Séoul, environ 830.000 logements privés seraient non occupés par leur propriétaire. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تقليص خصم الحيازة الطويلة قد يرفع ضرائب مالكي مسكن واحد لم يستوفوا شرط الإقامة",
-        "excerpt": "تعتزم حكومة كوريا الجنوبية بعد الانتخابات المحلية في يونيو 2026 توضيح معيار “الغرض المضاربي” لمالكي مسكن واحد غير مقيمين، وسط ترقب لأثر ذلك على ضريبة البيع وسوق الإيجار.",
-        "body": "تخطط حكومة كوريا الجنوبية بعد الانتخابات المحلية في يونيو 2026 لتحديد معايير تنظيم مالكي مسكن واحد لا يقيمون فيه، ما قد يزيد عبء ضريبة أرباح البيع على من لم يستوفوا شرط الإقامة الفعلية. ويتيح الخصم الخاص للحيازة الطويلة خصم جزء من مكاسب بيع المسكن إذا تم الاحتفاظ به لمدة محددة. وبموجب النظام الحالي، يمكن لمالك مسكن واحد ضمن أسرة واحدة الحصول على خصم يصل إلى 80% إذا استوفى كل من شرط مدة الحيازة ومدة الإقامة حتى 10 سنوات. ووفقاً لهانكيونغ، أظهرت محاكاة أن مسكناً اشتري قبل 10 سنوات بمليار وون وبيع بـ4 مليارات وون مع إقامة لسنتين قد ترتفع ضريبته من 466.76 مليون وون إلى 799.4 مليون وون إذا انخفض معدل الخصم من 48% إلى 16%. وتقدر المنازل الخاصة غير المشغولة من مالكيها في سيول بنحو 830 ألف وحدة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "लंबी अवधि स्वामित्व कटौती घटने पर बिना वास्तविक निवास वाले एक-घर मालिकों पर कर बोझ बढ़ सकता है",
-        "excerpt": "दक्षिण कोरिया सरकार जून 2026 के स्थानीय चुनावों के बाद गैर-निवासी एक-घर मालिकों के ‘सट्टा उद्देश्य’ को स्पष्ट करने की योजना बना रही है, जिससे पूंजीगत लाभ कर और किराया बाजार पर असर देखा जा रहा है।",
-        "body": "दक्षिण कोरिया सरकार जून 2026 के स्थानीय चुनावों के बाद उन एक-घर मालिकों के लिए नियम स्पष्ट करने की योजना बना रही है जो अपने घर में नहीं रहते। इससे वास्तविक निवास शर्त पूरी न करने वाले मालिकों पर पूंजीगत लाभ कर बढ़ सकता है। लंबी अवधि स्वामित्व विशेष कटौती वह व्यवस्था है जिसमें निश्चित अवधि तक रखे गए घर की बिक्री से हुए लाभ का कुछ हिस्सा घटाया जाता है। मौजूदा नियमों में एक परिवार-एक घर मालिक, यदि स्वामित्व और निवास अवधि दोनों अधिकतम 10 वर्ष तक पूरी करे, तो 80% तक कटौती पा सकता है। Hankyung के अनुसार, एक गणना में दिखाया गया कि 10 वर्ष पहले 1 अरब वोन में खरीदा गया और 4 अरब वोन में बेचा गया घर, जिसमें 2 वर्ष निवास किया गया हो, उसकी कटौती दर 48% से 16% होने पर कर 466.76 मिलियन वोन से बढ़कर 799.4 मिलियन वोन हो सकता है। सियोल में निजी स्वामित्व वाले लगभग 830,000 घर गैर-स्वामी-निवासित अनुमानित हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Pemangkasan potongan kepemilikan jangka panjang bisa menaikkan pajak pemilik satu rumah yang tak ditinggali",
-        "excerpt": "Pemerintah Korea Selatan akan memperjelas ‘tujuan spekulatif’ pemilik satu rumah non-penghuni setelah pemilu lokal Juni 2026, sehingga dampak pada pajak capital gain dan pasar sewa menjadi sorotan.",
-        "body": "Pemerintah Korea Selatan berencana memperjelas kriteria bagi pemilik satu rumah yang tidak tinggal di rumahnya setelah pemilu lokal Juni 2026. Langkah ini dapat menaikkan pajak capital gain bagi pemilik yang belum memenuhi syarat hunian nyata. Potongan khusus kepemilikan jangka panjang adalah skema yang mengurangi sebagian keuntungan penjualan rumah yang dimiliki selama periode tertentu. Dalam aturan saat ini, pemilik satu rumah dalam satu rumah tangga dapat menerima potongan hingga 80% bila masa kepemilikan dan masa tinggal masing-masing memenuhi standar maksimum 10 tahun. Menurut Hankyung, simulasi menunjukkan rumah yang dibeli 10 tahun lalu seharga 1 miliar won dan dijual 4 miliar won, dengan dua tahun hunian, akan dikenai pajak naik dari 466,76 juta won menjadi 799,4 juta won jika tingkat potongan turun dari 48% ke 16%. Di Seoul, rumah milik pribadi yang tidak dihuni pemiliknya diperkirakan sekitar 830.000 unit. Sumber: hankyung.com."
       }
     }
   }
