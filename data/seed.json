@@ -1,5 +1,230 @@
 [
   {
+    "id": "1588db255430",
+    "slug": "한국-1분기-성장률-17로-中-제쳐대만은-119-고성장-258144",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T15:15:14.983Z",
+    "updatedAt": "2026-05-12T15:15:14.983Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133906251/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133906251/1",
+    "titleFingerprint": "4230a73e5e1039d58c13fe2b0dd9ac0c70b07c28",
+    "dedupKeys": [
+      "1588db255430855525cdb0aa5a46b67a29195c86",
+      "4230a73e5e1039d58c13fe2b0dd9ac0c70b07c28",
+      "393f68c90825f0bc936b74e688d66d0d7d6ae5e6"
+    ],
+    "imageUrl": "/images/articles/1588db255430.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 1분기 성장률 1.7%로 주요국 선두권, AI 호황 속 대만 11.9% 급성장",
+        "excerpt": "OECD와 한국은행에 따르면 한국은 올해 1분기 전 분기 대비 1.7% 성장해 중국·미국·인도네시아를 앞섰고, AI 호황 수혜 기대와 반도체 의존 우려가 함께 제기됐다.",
+        "body": "한국 경제가 올해 1분기(1~3월) 전 분기 대비 1.7% 성장하며 주요국 가운데 최상위권에 오른 것으로 나타났다. 12일 경제협력개발기구(OECD)와 한국은행에 따르면 한국의 성장률은 인도네시아 1.4%, 중국 1.3%, 미국 0.5%를 웃돌았다. 이날까지 1분기 성장률을 발표해 OECD에 공개한 주요 22개국 중 한국이 가장 높았고, 1%를 넘긴 국가는 한국을 포함해 3개국뿐이었다. 반면 아일랜드는 -2.0%를 기록하는 등 5개국은 전 분기 대비 역성장했다. 대만은 11.9%의 높은 성장률을 보였다. 골드만삭스는 인공지능(AI) 호황으로 한국과 대만이 큰 경제 수혜를 받을 것으로 전망했다. 다만 반도체 산업 의존 확대에 따른 업종 간 양극화, 고유가에 따른 물가 상승과 경기 악화 우려도 제기된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Korea’s Q1 Growth Hits 1.7%, Beating China as Taiwan Surges 11.9%",
+        "excerpt": "According to the OECD and the Bank of Korea, Korea grew 1.7% quarter on quarter in Q1, outpacing China, the U.S. and Indonesia amid AI-led optimism and chip-sector concerns.",
+        "body": "Korea’s economy grew 1.7% quarter on quarter in the first quarter of this year, placing it among the top performers among major economies. According to the OECD and the Bank of Korea on the 12th, Korea’s growth rate exceeded Indonesia’s 1.4%, China’s 1.3% and the United States’ 0.5%. Among 22 major countries that had reported first-quarter growth to the OECD by that day, Korea posted the highest rate, and only three countries, including Korea, exceeded 1%. Five countries recorded negative quarter-on-quarter growth, including Ireland at -2.0%. Taiwan posted rapid growth of 11.9%. Goldman Sachs forecast that Korea and Taiwan would be among the biggest economic beneficiaries of the artificial intelligence boom. However, concerns remain over widening industry polarization from heavier reliance on semiconductors, as well as inflation and weaker activity linked to high oil prices. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓国の1～3月成長率1.7%、中国を上回る　台湾は11.9%の高成長",
+        "excerpt": "OECDと韓国銀行によると、韓国の1～3月期成長率は前期比1.7%となり、中国・米国・インドネシアを上回った。AI需要の恩恵期待と半導体依存への懸念が並ぶ。",
+        "body": "韓国経済は今年1～3月期に前期比1.7%成長し、主要国の中で最上位圏に入った。12日、経済協力開発機構（OECD）と韓国銀行によると、韓国の成長率はインドネシアの1.4%、中国の1.3%、米国の0.5%を上回った。同日までに1～3月期成長率を発表しOECDに公開した主要22カ国の中で韓国が最も高く、1%を超えた国は韓国を含め3カ国にとどまった。一方、アイルランドは-2.0%となるなど5カ国が前期比でマイナス成長を記録した。台湾は11.9%の高成長を示した。ゴールドマン・サックスは、人工知能（AI）ブームにより韓国と台湾が大きな経済的恩恵を受けると見通した。ただし、半導体産業への依存拡大による業種間の二極化、高油価に伴う物価上昇と景気悪化への懸念も出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国一季度增长1.7%领先主要经济体，台湾增速达11.9%",
+        "excerpt": "据OECD和韩国银行，韩国今年一季度环比增长1.7%，高于中国、美国和印尼；AI热潮带来受益预期，但半导体依赖和油价压力也引发担忧。",
+        "body": "韩国经济今年第一季度（1月至3月）环比增长1.7%，在主要经济体中位居前列。12日，据经济合作与发展组织（OECD）和韩国银行数据，韩国增速高于印尼的1.4%、中国的1.3%和美国的0.5%。截至当天，在已公布并向OECD披露一季度经济增长率的22个主要国家中，韩国增速最高；增长率超过1%的国家仅有3个，包括韩国在内。与此同时，爱尔兰录得-2.0%，共有5个国家环比负增长。台湾则实现11.9%的高增长。高盛预计，受人工智能（AI）热潮推动，韩国和台湾将获得较大的经济收益。不过，半导体产业依赖度上升可能加剧行业分化，高油价带来的物价上涨和经济恶化风险也受到关注。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Corea crece 1,7% en el primer trimestre y supera a China; Taiwán avanza 11,9%",
+        "excerpt": "Según la OCDE y el Banco de Corea, Corea creció 1,7% intertrimestral en el primer trimestre, por encima de China, EE. UU. e Indonesia, entre expectativas por la IA y riesgos por chips y petróleo.",
+        "body": "La economía de Corea creció un 1,7% intertrimestral en el primer trimestre de este año, de enero a marzo, y se situó entre las más dinámicas de las principales economías. Según la OCDE y el Banco de Corea el día 12, la tasa coreana superó el 1,4% de Indonesia, el 1,3% de China y el 0,5% de Estados Unidos. Entre los 22 países principales que habían publicado y comunicado a la OCDE sus datos del primer trimestre hasta esa fecha, Corea registró el mayor crecimiento; solo tres países, incluida Corea, superaron el 1%. En contraste, cinco países tuvieron contracción intertrimestral, entre ellos Irlanda con -2,0%. Taiwán mostró un fuerte crecimiento del 11,9%. Goldman Sachs prevé que Corea y Taiwán estén entre los mayores beneficiarios económicos del auge de la inteligencia artificial. Aun así, existen preocupaciones por una mayor dependencia de los semiconductores, la polarización entre sectores y el posible deterioro económico por inflación asociada al alto precio del petróleo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Coreia cresce 1,7% no 1º trimestre e supera China; Taiwan avança 11,9%",
+        "excerpt": "Segundo a OCDE e o Banco da Coreia, a Coreia cresceu 1,7% ante o trimestre anterior, acima de China, EUA e Indonésia, com expectativas ligadas à IA e riscos por chips e petróleo.",
+        "body": "A economia da Coreia cresceu 1,7% no primeiro trimestre deste ano, de janeiro a março, em relação ao trimestre anterior, ficando entre as líderes das principais economias. Segundo a OCDE e o Banco da Coreia no dia 12, o resultado superou os 1,4% da Indonésia, os 1,3% da China e os 0,5% dos Estados Unidos. Entre os 22 principais países que haviam divulgado e informado à OCDE seus dados do primeiro trimestre até essa data, a Coreia registrou a maior taxa; apenas três países, incluindo a Coreia, passaram de 1%. Por outro lado, cinco países tiveram contração, incluindo a Irlanda, com -2,0%. Taiwan apresentou forte crescimento de 11,9%. O Goldman Sachs prevê que Coreia e Taiwan estarão entre os maiores beneficiados econômicos pelo avanço da inteligência artificial. Ainda assim, há preocupações com a maior dependência de semicondutores, a polarização entre setores e a possível piora da atividade diante da inflação causada pelo petróleo caro. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Korea wächst im ersten Quartal um 1,7% und liegt vor China; Taiwan bei 11,9%",
+        "excerpt": "Laut OECD und Bank of Korea wuchs Korea im ersten Quartal um 1,7% gegenüber dem Vorquartal und übertraf China, die USA und Indonesien; KI-Hoffnungen treffen auf Chip- und Ölpreisrisiken.",
+        "body": "Die koreanische Wirtschaft ist im ersten Quartal dieses Jahres von Januar bis März gegenüber dem Vorquartal um 1,7% gewachsen und zählt damit zu den stärksten großen Volkswirtschaften. Nach Angaben der OECD und der Bank of Korea vom 12. lag Korea vor Indonesien mit 1,4%, China mit 1,3% und den Vereinigten Staaten mit 0,5%. Unter den 22 wichtigen Ländern, die bis zu diesem Tag ihre Wachstumszahlen für das erste Quartal veröffentlicht und der OECD gemeldet hatten, verzeichnete Korea den höchsten Wert. Nur drei Länder, darunter Korea, kamen über 1%. Fünf Länder schrumpften dagegen im Quartalsvergleich, darunter Irland mit -2,0%. Taiwan erzielte ein starkes Wachstum von 11,9%. Goldman Sachs erwartet, dass Korea und Taiwan durch den Boom der künstlichen Intelligenz besonders stark wirtschaftlich profitieren. Zugleich gibt es Sorgen über eine wachsende Abhängigkeit von der Halbleiterindustrie, eine stärkere Spaltung zwischen Branchen sowie Inflation und Konjunkturrisiken durch hohe Ölpreise. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La Corée croît de 1,7% au 1er trimestre, devant la Chine; Taïwan bondit de 11,9%",
+        "excerpt": "Selon l’OCDE et la Banque de Corée, la Corée a progressé de 1,7% au premier trimestre, devant la Chine, les États-Unis et l’Indonésie, entre espoirs liés à l’IA et risques sectoriels.",
+        "body": "L’économie coréenne a progressé de 1,7% au premier trimestre de cette année, de janvier à mars, par rapport au trimestre précédent, se plaçant parmi les meilleures performances des grandes économies. Selon l’OCDE et la Banque de Corée le 12, ce taux dépasse ceux de l’Indonésie à 1,4%, de la Chine à 1,3% et des États-Unis à 0,5%. Parmi les 22 grands pays ayant publié et transmis à l’OCDE leurs chiffres du premier trimestre à cette date, la Corée affichait le taux le plus élevé; seuls trois pays, dont la Corée, ont dépassé 1%. À l’inverse, cinq pays ont reculé en rythme trimestriel, dont l’Irlande à -2,0%. Taïwan a enregistré une forte croissance de 11,9%. Goldman Sachs estime que la Corée et Taïwan devraient compter parmi les principaux bénéficiaires économiques de l’essor de l’intelligence artificielle. Toutefois, des inquiétudes persistent sur la dépendance accrue aux semi-conducteurs, la polarisation entre secteurs et les risques d’inflation et de ralentissement liés aux prix élevés du pétrole. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "نمو كوريا 1.7% في الربع الأول يتجاوز الصين وتايوان تسجل 11.9%",
+        "excerpt": "وفق منظمة التعاون الاقتصادي وبنك كوريا، نما اقتصاد كوريا 1.7% في الربع الأول مقارنة بالربع السابق، متقدما على الصين والولايات المتحدة وإندونيسيا وسط آمال الذكاء الاصطناعي ومخاوف الرقائق.",
+        "body": "سجل اقتصاد كوريا نموا بنسبة 1.7% في الربع الأول من هذا العام، من يناير إلى مارس، مقارنة بالربع السابق، ليحل في مقدمة الاقتصادات الرئيسية. ووفقا لمنظمة التعاون الاقتصادي والتنمية وبنك كوريا في 12 من الشهر، تجاوز معدل كوريا نمو إندونيسيا البالغ 1.4% والصين 1.3% والولايات المتحدة 0.5%. ومن بين 22 دولة رئيسية أعلنت حتى ذلك اليوم بيانات نمو الربع الأول وقدمتها إلى المنظمة، سجلت كوريا أعلى معدل، ولم تتجاوز نسبة 1% سوى ثلاث دول من بينها كوريا. في المقابل، انكمشت خمس دول مقارنة بالربع السابق، منها أيرلندا عند -2.0%. وسجلت تايوان نموا مرتفعا بلغ 11.9%. وتوقعت غولدمان ساكس أن تكون كوريا وتايوان من أكبر المستفيدين اقتصاديا من ازدهار الذكاء الاصطناعي. لكن المخاوف قائمة من اتساع الاعتماد على صناعة أشباه الموصلات، وزيادة التباين بين القطاعات، وارتفاع التضخم وتدهور النشاط بسبب أسعار النفط المرتفعة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "पहली तिमाही में कोरिया की वृद्धि 1.7%, चीन से आगे; ताइवान 11.9%",
+        "excerpt": "OECD और बैंक ऑफ कोरिया के अनुसार, कोरिया की अर्थव्यवस्था पहली तिमाही में तिमाही आधार पर 1.7% बढ़ी और चीन, अमेरिका व इंडोनेशिया से आगे रही; AI उछाल के लाभ और चिप निर्भरता की चिंताएं साथ रहीं।",
+        "body": "कोरिया की अर्थव्यवस्था इस वर्ष पहली तिमाही, जनवरी से मार्च, में पिछली तिमाही की तुलना में 1.7% बढ़ी और प्रमुख अर्थव्यवस्थाओं में शीर्ष स्तर पर रही। 12 तारीख को OECD और बैंक ऑफ कोरिया के अनुसार, कोरिया की वृद्धि दर इंडोनेशिया के 1.4%, चीन के 1.3% और अमेरिका के 0.5% से अधिक रही। उस दिन तक जिन 22 प्रमुख देशों ने पहली तिमाही की वृद्धि दर घोषित कर OECD को उपलब्ध कराई थी, उनमें कोरिया सबसे आगे था। 1% से अधिक वृद्धि दर्ज करने वाले देश केवल तीन थे, जिनमें कोरिया शामिल है। इसके विपरीत, आयरलैंड में -2.0% सहित पांच देशों में तिमाही आधार पर नकारात्मक वृद्धि रही। ताइवान ने 11.9% की तेज वृद्धि दर्ज की। गोल्डमैन सैक्स ने अनुमान लगाया कि कृत्रिम बुद्धिमत्ता के उछाल से कोरिया और ताइवान को बड़ा आर्थिक लाभ मिलेगा। फिर भी, सेमीकंडक्टर उद्योग पर बढ़ती निर्भरता से क्षेत्रों के बीच असमानता, ऊंचे तेल दामों से महंगाई और आर्थिक कमजोरी की चिंताएं बनी हुई हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pertumbuhan Korea Kuartal I 1,7% Lampaui China, Taiwan Melonjak 11,9%",
+        "excerpt": "Menurut OECD dan Bank of Korea, ekonomi Korea tumbuh 1,7% secara kuartalan pada kuartal I, melampaui China, AS, dan Indonesia, di tengah harapan dari boom AI serta kekhawatiran sektor chip dan minyak.",
+        "body": "Ekonomi Korea tumbuh 1,7% pada kuartal pertama tahun ini, Januari hingga Maret, dibandingkan kuartal sebelumnya, menempatkannya di jajaran teratas negara-negara utama. Menurut OECD dan Bank of Korea pada tanggal 12, pertumbuhan Korea melampaui Indonesia 1,4%, China 1,3%, dan Amerika Serikat 0,5%. Dari 22 negara utama yang hingga hari itu telah mengumumkan dan menyampaikan data pertumbuhan kuartal I kepada OECD, Korea mencatat angka tertinggi. Hanya tiga negara, termasuk Korea, yang tumbuh lebih dari 1%. Sebaliknya, lima negara mengalami kontraksi kuartalan, termasuk Irlandia sebesar -2,0%. Taiwan mencatat pertumbuhan tinggi 11,9%. Goldman Sachs memperkirakan Korea dan Taiwan akan menjadi penerima manfaat ekonomi terbesar dari boom kecerdasan buatan. Namun, ada kekhawatiran bahwa ketergantungan yang meningkat pada industri semikonduktor dapat memperlebar polarisasi antarindustri, sementara harga minyak tinggi dapat mendorong inflasi dan memperburuk kondisi ekonomi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "069d94b35907",
+    "slug": "연말까지-서울경기-세-낀-매매-풀린다세입자-있는-모든-주택-대상-853975",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T15:12:47.345Z",
+    "updatedAt": "2026-05-12T15:12:47.345Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605121189i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605121189i",
+    "titleFingerprint": "8a3c3ff4752e2ced089ee76c8b8a8090e8491f9e",
+    "dedupKeys": [
+      "069d94b35907158feabde60b8236ec4e500c090e",
+      "8a3c3ff4752e2ced089ee76c8b8a8090e8491f9e",
+      "79ee6b24399ecec4c675e032d88fe1ab835fbeba"
+    ],
+    "imageUrl": "/images/articles/069d94b35907.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울·경기 세입자 낀 주택 매매, 연말까지 실거주 의무 유예 확대",
+        "excerpt": "정부가 12일 토지거래허가구역 내 세입자 있는 모든 주택에 대해 무주택 매수자의 실거주 의무를 연말 허가 신청분까지 한시 유예하기로 했다.",
+        "body": "정부가 12일 토지거래허가구역에서 세입자가 있는 주택을 매수할 때 적용되는 실거주 의무를 연말까지 한시 유예하는 방안을 발표했다. 대상은 발표일 기준 임대차계약이 있는 모든 주택이며, 매수자는 무주택자로 한정된다. 기존에는 다주택자가 매도하는 임차인 보유 주택 중심으로 보완책이 적용됐지만, 이번 조치로 비거주 1주택 등 세입자 있는 주택 전체로 범위가 넓어졌다. 실거주 유예는 임대차계약 종료일까지 적용되며, 이후 2년 실거주 의무는 유지된다. 정부는 갭투자를 새로 허용하는 조치가 아니라 기존 임차인이 있는 매물의 거래를 원활하게 하기 위한 방안이라고 설명했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Seoul-Gyeonggi Tenant-Occupied Home Sales Get Wider Residency Deferral Until Year-End",
+        "excerpt": "On May 12, the government said owner-occupancy duties in land transaction permit zones will be temporarily deferred for all tenant-occupied homes bought by non-homeowners through year-end permit applications.",
+        "body": "The government announced on May 12 that it will temporarily defer the owner-occupancy requirement for purchases of tenant-occupied homes in land transaction permit zones until year-end. The measure applies to all homes with lease contracts in place as of the announcement date, while buyers are limited to non-homeowners. The previous supplementary measure mainly covered tenant-occupied homes sold by multiple-home owners, but the scope now expands to all homes with tenants, including non-resident single-home owners’ properties. The deferral lasts until the lease contract ends, and the two-year occupancy duty afterward remains in force. The government said this is not a new permission for gap investment, but a step to ease transactions of homes already occupied by tenants. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソウル・京畿の賃借人付き住宅売買、年末まで実居住義務の猶予拡大",
+        "excerpt": "政府は5月12日、土地取引許可区域内の賃借人がいる全住宅について、無住宅購入者の実居住義務を年末の許可申請分まで一時猶予すると発表した。",
+        "body": "政府は5月12日、土地取引許可区域で賃借人がいる住宅を購入する際に適用される実居住義務を、年末まで一時的に猶予する方針を発表した。対象は発表日時点で賃貸借契約があるすべての住宅で、購入者は無住宅者に限られる。従来は多住宅所有者が売却する賃借人付き住宅を中心に補完策が適用されていたが、今回の措置で非居住の1住宅など、賃借人がいる住宅全体へ範囲が広がった。猶予は賃貸借契約の終了日まで適用され、その後の2年間の実居住義務は維持される。政府は、これはギャップ投資を新たに認める措置ではなく、既存の賃借人がいる物件の取引を円滑にするための方策だと説明した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "首尔·京畿带租约住房交易放宽，居住义务可暂缓至年底",
+        "excerpt": "政府5月12日宣布，土地交易许可区内所有已有租客的住房，若由无房买家购买，实居住义务可对年底前许可申请暂时延后。",
+        "body": "政府5月12日发布方案称，在土地交易许可区域内购买已有租客住房时适用的实居住义务，将临时延缓至年底。适用对象为发布日当天已有租赁合同的所有住房，买家仅限无房者。此前补充措施主要适用于多套房持有人出售的带租约住房，此次范围扩大到包括非自住一套房在内的所有有租客住房。实居住义务可延后至租赁合同结束日，但此后两年的实居住义务仍然保留。政府说明称，此举并非新允许“租约差价投资”，而是为了让已有租客的房源交易更加顺畅。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Seúl y Gyeonggi amplían hasta fin de año la compraventa de viviendas con inquilinos",
+        "excerpt": "El Gobierno anunció el 12 de mayo que diferirá temporalmente la obligación de residencia real para compradores sin vivienda en zonas con permiso de transacción de suelo y casas con inquilinos.",
+        "body": "El Gobierno anunció el 12 de mayo que diferirá temporalmente, hasta fin de año, la obligación de residencia real aplicada a la compra de viviendas con inquilinos en zonas sujetas a permiso de transacción de suelo. La medida cubre todas las viviendas con contratos de arrendamiento vigentes a la fecha del anuncio, y los compradores deben ser personas sin vivienda. Antes, la medida complementaria se centraba en viviendas con inquilinos vendidas por propietarios de varias casas, pero ahora se amplía a todas las viviendas ocupadas por arrendatarios, incluidas las de propietarios de una sola vivienda no residente. El aplazamiento rige hasta el final del contrato de alquiler, mientras se mantiene la obligación posterior de residir dos años. El Gobierno dijo que no se trata de permitir nueva inversión con jeonse, sino de facilitar ventas de viviendas ya arrendadas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Seul e Gyeonggi ampliam até o fim do ano venda de casas com inquilinos",
+        "excerpt": "O governo anunciou em 12 de maio que adiará temporariamente a exigência de moradia própria para compradores sem imóvel em zonas de permissão de transação de terrenos com casas alugadas.",
+        "body": "O governo anunciou em 12 de maio que vai adiar temporariamente, até o fim do ano, a exigência de residência efetiva aplicada à compra de imóveis com inquilinos em zonas de permissão de transação de terrenos. A medida vale para todas as casas com contrato de locação existente na data do anúncio, e os compradores ficam limitados a pessoas sem imóvel próprio. Antes, a medida complementar se concentrava em imóveis alugados vendidos por proprietários de várias casas, mas agora o alcance passa a incluir todos os imóveis com inquilinos, inclusive os de proprietários de uma única casa não residente. O adiamento vale até o fim do contrato de locação, e a obrigação posterior de morar por dois anos permanece. O governo afirmou que não se trata de permitir novo investimento com aluguel existente, mas de facilitar transações de imóveis já ocupados por inquilinos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Seoul und Gyeonggi: Verkauf vermieteter Wohnungen bis Jahresende erleichtert",
+        "excerpt": "Die Regierung kündigte am 12. Mai an, die Pflicht zum Eigennutz in Bodentransaktions-Genehmigungszonen für alle vermieteten Wohnungen bei Käufen durch Wohnungslose befristet aufzuschieben.",
+        "body": "Die Regierung gab am 12. Mai bekannt, dass die Pflicht zum tatsächlichen Eigenbezug beim Kauf vermieteter Wohnungen in Bodentransaktions-Genehmigungszonen bis zum Jahresende vorübergehend aufgeschoben wird. Erfasst sind alle Wohnungen, für die am Tag der Ankündigung ein Mietvertrag besteht; Käufer müssen wohnungslos sein. Bisher galt die ergänzende Regelung vor allem für vermietete Wohnungen, die von Eigentümern mehrerer Häuser verkauft wurden. Nun wird der Kreis auf alle Wohnungen mit Mietern erweitert, einschließlich nicht selbst bewohnter Ein-Wohnungs-Bestände. Der Aufschub gilt bis zum Ende des Mietvertrags, die anschließende zweijährige Eigennutzungspflicht bleibt bestehen. Die Regierung erklärte, dies sei keine neue Freigabe von Gap-Investitionen, sondern solle Transaktionen bereits vermieteter Objekte erleichtern. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Séoul-Gyeonggi : ventes de logements occupés par des locataires assouplies jusqu’à fin 2026",
+        "excerpt": "Le gouvernement a annoncé le 12 mai le report temporaire de l’obligation de résidence réelle, jusqu’aux demandes de permis déposées d’ici fin d’année, pour les acheteurs sans logement.",
+        "body": "Le gouvernement a annoncé le 12 mai qu’il reportera temporairement jusqu’à la fin de l’année l’obligation de résidence réelle lors de l’achat de logements occupés par des locataires dans les zones soumises à autorisation de transaction foncière. La mesure vise tous les logements ayant un contrat de location en vigueur à la date de l’annonce, et les acheteurs doivent être sans logement. Auparavant, le dispositif complémentaire concernait surtout les biens loués vendus par des propriétaires de plusieurs logements; il est désormais étendu à tous les logements avec locataires, y compris ceux de propriétaires d’un seul logement non occupé. Le report s’applique jusqu’à la fin du bail, mais l’obligation de résidence de deux ans ensuite demeure. Le gouvernement précise qu’il ne s’agit pas d’autoriser de nouveaux investissements avec locataires, mais de fluidifier les transactions de biens déjà loués. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سيئول وغييونغي توسعان بيع المنازل المؤجرة مع تأجيل شرط السكن حتى نهاية العام",
+        "excerpt": "أعلنت الحكومة في 12 مايو تأجيلا مؤقتا لشرط السكن الفعلي في مناطق تصريح تداول الأراضي لكل المساكن التي تضم مستأجرين، على أن يقتصر الشراء على غير مالكي المنازل.",
+        "body": "أعلنت الحكومة في 12 مايو أنها ستؤجل مؤقتا حتى نهاية العام شرط السكن الفعلي عند شراء مساكن تضم مستأجرين داخل مناطق تصريح تداول الأراضي. ويشمل الإجراء كل المساكن التي لديها عقود إيجار قائمة في تاريخ الإعلان، على أن يكون المشتري من غير مالكي المنازل. وكانت الإجراءات التكميلية السابقة تتركز أساسا على المساكن المؤجرة التي يبيعها مالكو عدة منازل، لكن النطاق توسع الآن ليشمل كل منزل فيه مستأجر، بما في ذلك مساكن مالكي المنزل الواحد غير المقيمين فيه. يستمر التأجيل حتى نهاية عقد الإيجار، بينما يبقى شرط السكن لمدة عامين بعد ذلك قائما. وأوضحت الحكومة أن الخطوة لا تعني السماح باستثمار فجوة الإيجار من جديد، بل تهدف إلى تسهيل تداول المساكن التي يشغلها مستأجرون بالفعل. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सियोल-ग्योंगगी में किरायेदार वाले घरों की बिक्री पर निवास नियम साल अंत तक टला",
+        "excerpt": "सरकार ने 12 मई को कहा कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले सभी घरों पर, बिना घर वाले खरीदारों के लिए वास्तविक निवास दायित्व साल के अंत तक अस्थायी रूप से टलेगा।",
+        "body": "सरकार ने 12 मई को घोषणा की कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले घर खरीदने पर लागू वास्तविक निवास दायित्व को साल के अंत तक अस्थायी रूप से टाला जाएगा। यह उपाय घोषणा की तारीख पर मौजूद किराया अनुबंध वाले सभी घरों पर लागू होगा, और खरीदार केवल वे होंगे जिनके पास कोई घर नहीं है। पहले पूरक उपाय मुख्य रूप से कई घरों के मालिकों द्वारा बेचे जा रहे किरायेदार-युक्त घरों तक सीमित था, लेकिन अब दायरा गैर-निवासी एक-घर मालिकों की संपत्तियों सहित सभी किरायेदार वाले घरों तक बढ़ गया है। यह छूट किराया अनुबंध समाप्त होने तक लागू रहेगी, जबकि उसके बाद दो साल वास्तविक निवास की अनिवार्यता बनी रहेगी। सरकार ने कहा कि यह नया गैप निवेश खोलने का कदम नहीं है, बल्कि पहले से किरायेदारों वाले घरों की बिक्री को सुगम बनाने का उपाय है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Seoul-Gyeonggi Longgarkan Jual Beli Rumah Berpenyewa hingga Akhir Tahun",
+        "excerpt": "Pemerintah pada 12 Mei mengumumkan penundaan sementara kewajiban tinggal nyata di zona izin transaksi tanah untuk semua rumah berpenyewa yang dibeli oleh pembeli tanpa rumah.",
+        "body": "Pemerintah mengumumkan pada 12 Mei bahwa kewajiban tinggal nyata saat membeli rumah berpenyewa di zona izin transaksi tanah akan ditunda sementara hingga akhir tahun. Kebijakan ini berlaku untuk semua rumah yang memiliki kontrak sewa pada tanggal pengumuman, sementara pembeli dibatasi hanya bagi mereka yang belum memiliki rumah. Sebelumnya, langkah pelengkap terutama berlaku untuk rumah berpenyewa yang dijual pemilik banyak rumah, tetapi kini cakupannya diperluas ke semua rumah dengan penyewa, termasuk properti pemilik satu rumah yang tidak ditinggali. Penundaan berlaku sampai kontrak sewa berakhir, sedangkan kewajiban tinggal selama dua tahun setelahnya tetap berlaku. Pemerintah menjelaskan bahwa ini bukan izin baru untuk investasi gap, melainkan cara memperlancar transaksi rumah yang sudah dihuni penyewa. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "de220a70aac3",
+    "slug": "추억-남기고-상금도-받으세요-259164",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-12T15:10:30.848Z",
+    "updatedAt": "2026-05-12T15:10:30.848Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051215941",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051215941",
+    "titleFingerprint": "1c8411695177125a55fc32d852d786259dc7ef9b",
+    "dedupKeys": [
+      "de220a70aac315861a0d41d62f999cfa60cd194a",
+      "1c8411695177125a55fc32d852d786259dc7ef9b",
+      "c44b93d79302358235a82fb62e0e32c61df0e07e"
+    ],
+    "imageUrl": "/images/articles/de220a70aac3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "추억 남기고 상금도 받으세요, 한경 보도 참여형 소식 핵심 정리",
+        "excerpt": "한경닷컴은 ‘추억 남기고 상금도 받으세요’라는 제목의 소식을 전했다. 제공된 원문에는 행사 주체와 기간 등 세부 정보는 포함되지 않았다.",
+        "body": "한경닷컴은 ‘추억 남기고 상금도 받으세요’라는 제목의 소식을 보도했다. 제공된 원문 정보는 제목과 출처에 한정돼 있으며, 행사 주체, 참여 기간, 상금 규모, 응모 방식, 대상 지역 등 구체적인 내용은 확인되지 않았다. 제목상으로는 추억을 남기는 참여 활동과 상금 제공이 핵심 요소로 제시됐지만, 세부 조건은 원문 전문 확인이 필요하다. 독자는 참여 여부를 판단하기 전 공식 안내와 유의사항을 확인해야 한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Leave Memories and Win Prize Money: Key Details From Hankyung Report",
+        "excerpt": "Hankyung.com reported an item titled “Leave memories and win prize money.” The provided source details do not include organizer, dates, or entry rules.",
+        "body": "Hankyung.com reported a story under the title “Leave memories and win prize money.” The information provided is limited to the headline and source, with no confirmed details on the organizer, participation period, prize amount, application method, or target region. Based on the title, the main elements are a memory-sharing participation activity and prize money, but the specific terms require checking the full original report. Readers should review official guidance and notices before deciding whether to participate. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "思い出を残して賞金も、韓経報道の参加型ニュース要点整理",
+        "excerpt": "韓経ドットコムは「思い出を残して賞金も受け取ってください」という見出しのニュースを報じた。主催者や期間などの詳細は提供情報に含まれていない。",
+        "body": "韓経ドットコムは「思い出を残して賞金も受け取ってください」という見出しのニュースを報じた。提供された原文情報は見出しと出典に限られており、主催者、参加期間、賞金規模、応募方法、対象地域などの具体的な内容は確認されていない。見出しからは、思い出を残す参加型活動と賞金提供が主な要素として示されているが、詳しい条件は原文全文の確認が必要だ。参加を判断する前に公式案内と注意事項を確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "留下回忆还能拿奖金，韩经报道参与型消息要点整理",
+        "excerpt": "hankyung.com发布题为“留下回忆还能拿奖金”的消息。所提供原文未包含主办方、时间、奖金规模或参与方式等细节。",
+        "body": "hankyung.com发布了题为“留下回忆还能拿奖金”的消息。所提供的原文信息仅限于标题和出处，主办方、参与时间、奖金规模、报名方式、适用地区等具体内容尚未确认。从标题来看，留下回忆的参与活动和奖金提供是主要元素，但具体条件需要查阅原文全文。读者在判断是否参与前，应确认官方说明和注意事项。出处: hankyung.com"
+      },
+      "es": {
+        "title": "Deja recuerdos y gana premios: claves del reporte publicado por Hankyung",
+        "excerpt": "Hankyung.com informó sobre una nota titulada “Deja recuerdos y recibe premios”. La información disponible no incluye organizador, fechas ni reglas de participación.",
+        "body": "Hankyung.com publicó una noticia con el título “Deja recuerdos y recibe premios”. La información proporcionada se limita al título y la fuente, sin detalles confirmados sobre el organizador, el periodo de participación, el monto del premio, el método de inscripción o la región objetivo. Según el título, los elementos centrales son una actividad participativa para dejar recuerdos y la entrega de premios, pero las condiciones específicas deben verificarse en el texto original completo. Los lectores deben revisar la guía oficial y las advertencias antes de decidir participar. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Deixe lembranças e ganhe prêmios: resumo da notícia publicada pelo Hankyung",
+        "excerpt": "O Hankyung.com publicou uma notícia intitulada “Deixe lembranças e receba prêmios”. O material fornecido não informa organizador, datas ou regras de participação.",
+        "body": "O Hankyung.com publicou uma notícia com o título “Deixe lembranças e receba prêmios”. As informações fornecidas se limitam ao título e à fonte, sem confirmação sobre organizador, período de participação, valor do prêmio, forma de inscrição ou região contemplada. Pelo título, os elementos principais são uma atividade participativa para registrar lembranças e a oferta de prêmio em dinheiro, mas as condições específicas exigem consulta ao texto original completo. Os leitores devem verificar as orientações oficiais e os avisos antes de decidir participar. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Erinnerungen teilen und Preisgeld gewinnen: Hankyung-Meldung im Überblick",
+        "excerpt": "Hankyung.com berichtete unter dem Titel „Hinterlassen Sie Erinnerungen und erhalten Sie Preisgeld“. Angaben zu Veranstalter, Zeitraum und Regeln liegen nicht vor.",
+        "body": "Hankyung.com berichtete unter dem Titel „Hinterlassen Sie Erinnerungen und erhalten Sie Preisgeld“. Die bereitgestellten Informationen beschränken sich auf Überschrift und Quelle; konkrete Angaben zu Veranstalter, Teilnahmezeitraum, Höhe des Preisgeldes, Bewerbungsweg oder Zielregion sind nicht bestätigt. Dem Titel zufolge stehen eine teilnahmebasierte Aktion zum Festhalten von Erinnerungen und Preisgeld im Mittelpunkt, doch die genauen Bedingungen müssen im vollständigen Originalbericht geprüft werden. Leser sollten offizielle Hinweise und Bedingungen prüfen, bevor sie über eine Teilnahme entscheiden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Laisser des souvenirs et gagner un prix: l’information Hankyung résumée",
+        "excerpt": "Hankyung.com a publié une information intitulée « Laissez des souvenirs et recevez aussi un prix ». Les détails sur l’organisateur, les dates et les règles ne sont pas fournis.",
+        "body": "Hankyung.com a publié une information sous le titre « Laissez des souvenirs et recevez aussi un prix ». Les éléments disponibles se limitent au titre et à la source; l’organisateur, la période de participation, le montant du prix, la méthode d’inscription et la zone concernée ne sont pas confirmés. D’après le titre, l’information porte sur une activité participative liée aux souvenirs et sur l’attribution d’un prix, mais les conditions précises doivent être vérifiées dans le texte original complet. Les lecteurs doivent consulter les consignes officielles avant de décider de participer. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "اترك ذكرياتك واحصل على جائزة: ملخص خبر منشور عبر هانكيونغ",
+        "excerpt": "نشر موقع hankyung.com خبرا بعنوان «اترك ذكرياتك واحصل أيضا على جائزة». المعلومات المتاحة لا تتضمن الجهة المنظمة أو المدة أو قواعد المشاركة.",
+        "body": "نشر موقع hankyung.com خبرا بعنوان «اترك ذكرياتك واحصل أيضا على جائزة». تقتصر المعلومات المقدمة على العنوان والمصدر، ولا تتضمن تفاصيل مؤكدة عن الجهة المنظمة أو فترة المشاركة أو قيمة الجائزة أو طريقة التقديم أو المنطقة المستهدفة. وبحسب العنوان، فإن العناصر الرئيسية هي نشاط قائم على المشاركة لترك الذكريات وتقديم جائزة، لكن الشروط المحددة تحتاج إلى مراجعة النص الأصلي الكامل. ينبغي للقراء التحقق من الإرشادات الرسمية والتنبيهات قبل اتخاذ قرار المشاركة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "यादें संजोएं और पुरस्कार पाएं: Hankyung की खबर का मुख्य सार",
+        "excerpt": "Hankyung.com ने “यादें छोड़ें और पुरस्कार भी पाएं” शीर्षक से खबर दी। उपलब्ध जानकारी में आयोजक, समय, पुरस्कार राशि या भागीदारी नियम शामिल नहीं हैं।",
+        "body": "Hankyung.com ने “यादें छोड़ें और पुरस्कार भी पाएं” शीर्षक से एक खबर प्रकाशित की। उपलब्ध मूल जानकारी केवल शीर्षक और स्रोत तक सीमित है; आयोजक, भागीदारी अवधि, पुरस्कार राशि, आवेदन तरीका या लक्षित क्षेत्र जैसे ठोस विवरण पुष्ट नहीं हैं। शीर्षक से संकेत मिलता है कि यादें दर्ज करने वाली भागीदारी गतिविधि और पुरस्कार इसकी मुख्य बातें हैं, लेकिन विशिष्ट शर्तों के लिए मूल रिपोर्ट का पूरा पाठ देखना आवश्यक है। भाग लेने का निर्णय लेने से पहले पाठकों को आधिकारिक निर्देश और सावधानियां जांचनी चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Tinggalkan Kenangan dan Raih Hadiah: Ringkasan Laporan Hankyung",
+        "excerpt": "Hankyung.com memuat berita berjudul “Tinggalkan kenangan dan dapatkan hadiah”. Informasi yang tersedia belum mencantumkan penyelenggara, jadwal, atau aturan partisipasi.",
+        "body": "Hankyung.com melaporkan berita dengan judul “Tinggalkan kenangan dan dapatkan hadiah”. Informasi yang diberikan terbatas pada judul dan sumber, tanpa rincian terkonfirmasi mengenai penyelenggara, periode partisipasi, besaran hadiah, cara pendaftaran, atau wilayah sasaran. Berdasarkan judul, unsur utamanya adalah aktivitas partisipatif untuk meninggalkan kenangan dan pemberian hadiah, tetapi syarat khusus perlu diperiksa melalui teks asli lengkap. Pembaca perlu meninjau panduan resmi dan ketentuan sebelum memutuskan untuk ikut serta. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "08ee0e578003",
     "slug": "칸막이-높여야-vs-합의-무력화건설업계-갈등-838842",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Otoritas Pajak Korea Audit Khusus Meritz Securities atas Dugaan Penghindaran Pajak",
         "excerpt": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus di kantor pusat Meritz Securities setelah disebut mendeteksi indikasi penghindaran pajak.",
         "body": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus tidak terjadwal terhadap Meritz Securities. Menurut industri keuangan, Biro Investigasi 4 Kantor Pajak Regional Seoul mengirim petugas ke kantor pusat perusahaan di Yeongdeungpo, Seoul, untuk mengamankan dokumen akuntansi. Biro ini menangani audit mendalam dan khusus ketika ada dugaan penghindaran pajak atau pembentukan dana gelap di perusahaan. Otoritas pajak disebut telah mendeteksi indikasi penggelapan pajak di Meritz Securities. Perusahaan selama ini memperluas bisnis investment banking dan pembiayaan proyek properti secara agresif, sementara kontroversi terkait pengendalian internal terus muncul. Pada 2024, Financial Supervisory Service melakukan pemeriksaan lapangan terkait dugaan pungutan biaya berlebihan dalam proses perpanjangan jatuh tempo pinjaman PF. Setelah audit tidak terjadwal terhadap Hana Financial Group dan Hana Bank, perluasan ke industri sekuritas memunculkan pandangan bahwa pemeriksaan otoritas pajak dapat melebar ke sektor keuangan secara umum. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "97a3883197d9",
-    "slug": "단독50만원-대출-9일뒤-상품권-80만원-상환-변종-불법사채-기승-370823",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T22:23:33.798Z",
-    "updatedAt": "2026-05-11T22:23:33.798Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133901847/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133901847/2",
-    "titleFingerprint": "926bb989b0862a6e5423d2d76d5a2f313b6b6e13",
-    "dedupKeys": [
-      "97a3883197d9eab1dc9b1722f685922a84f6c2c3",
-      "926bb989b0862a6e5423d2d76d5a2f313b6b6e13",
-      "4de96f5e9612a59c3cd7c64b9319285bebe3b60f"
-    ],
-    "imageUrl": "/images/articles/97a3883197d9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "상품권 거래로 위장한 불법사채 확산, 50만원 빌리고 9일 뒤 80만원 상환",
-        "excerpt": "경기 고양시 자영업자 이문수 씨는 3월 은행 대출이 막힌 뒤 온라인 상품권 거래 카페에서 50만원을 빌리고 9일 뒤 80만원 상품권 상환을 요구받았다.",
-        "body": "경기 고양시에서 자영업을 하던 이문수 씨는 3월 사업 실패로 은행 대출이 막히자 온라인 상품권 거래 카페에서 급전을 마련했다. 업자는 이 씨 계좌로 50만원을 보내고, 9일 뒤 백화점 모바일상품권 80만원어치로 갚는 조건을 제시했다. 겉으로는 개인 간 상품권 거래처럼 보였지만 실제 연이율은 2433%에 달하는 변종 불법 사채였다. 계약에는 상품권 발송이 1분만 늦어도 상환액의 100%를 위약금으로 내야 한다는 조항도 포함됐다. 이 씨가 정해진 날짜에 상품권을 보내지 못하자 업체는 사기 혐의로 경찰에 고소했고, 취하 조건으로 추가 합의금을 요구했다. 정부 단속이 대부 중개 플랫폼으로 향하자 상품권 예약 판매를 빙자한 고리 대출이 온라인 카페로 옮겨가는 양상이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Illegal Loans Disguised as Gift Certificate Deals Spread After 500,000 Won Becomes 800,000 Won",
-        "excerpt": "In March, a self-employed man in Goyang, blocked from bank loans after business failure, borrowed 500,000 won through an online gift certificate cafe and was told to repay 800,000 won in certificates nine days later.",
-        "body": "In Goyang, Gyeonggi Province, self-employed Lee Moon-soo, a pseudonym, sought emergency cash in March after a business failure left him unable to obtain bank loans. Through an online gift certificate trading cafe, an operator sent 500,000 won to Lee’s account on the condition that he repay 800,000 won in department store mobile gift certificates nine days later. Though it appeared to be a private gift certificate transaction, it was in fact a variant of illegal private lending with an annual interest rate of 2,433%. The contract also stated that if the gift certificates were sent even one minute late, Lee would owe an additional penalty equal to 100% of the repayment amount. When he failed to send them on the due date, the company filed a fraud complaint with police and demanded an additional settlement payment to withdraw it. As government crackdowns focus on loan brokerage platforms, high-interest lending disguised as advance gift certificate sales is moving into online cafes. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "商品券取引を装う違法高利貸し拡大、50万ウォン借り9日後に80万ウォン返済",
-        "excerpt": "京畿道高陽市の自営業者イ・ムンスさんは3月、事業失敗で銀行融資が止まり、オンライン商品券取引カフェで50万ウォンを借り、9日後に80万ウォン分の商品券返済を求められた。",
-        "body": "京畿道高陽市で自営業をしていたイ・ムンスさん（仮名）は3月、事業失敗で銀行融資を受けられなくなり、オンラインの商品券取引カフェで急ぎの資金を調達した。業者はイさんの口座に50万ウォンを送り、9日後に百貨店のモバイル商品券80万ウォン分で返済する条件を示した。一見すると個人間の商品券取引に見えたが、実際には年利2433%に達する変種の違法高利貸しだった。契約には、商品券の発送が1分でも遅れれば返済額の100%を違約金として追加で支払う条項もあった。期日に商品券を送れなかったイさんに対し、業者は詐欺容疑で警察に告訴し、取り下げの条件として追加の示談金を要求した。政府の取り締まりが貸付仲介プラットフォームに強まる中、商品券の予約販売を装った高利融資がオンラインカフェへ広がっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "伪装成礼券交易的非法高利贷蔓延，借50万韩元9天后还80万韩元",
-        "excerpt": "京畿道高阳市个体经营者李文洙3月因生意失败无法获得银行贷款，在网上礼券交易社区借到50万韩元，却被要求9天后用80万韩元礼券偿还。",
-        "body": "在京畿道高阳市从事个体经营的李文洙（化名）3月因生意失败无法获得银行贷款，于是在网上礼券交易社区筹措急用资金。对方将50万韩元汇入李某账户，条件是9天后以80万韩元百货商店手机礼券偿还。表面上看像是个人之间的礼券交易，实际上却是年利率高达2433%的变种非法高利贷。合同还写明，礼券发送哪怕晚1分钟，也要额外支付相当于偿还额100%的违约金。李某未能在约定日期发送礼券后，对方以诈骗嫌疑向警方控告，并以撤诉为条件要求追加和解金。随着政府加强对贷款中介平台的打击，伪装成礼券预约销售的高息贷款正转向网上社区。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Préstamos ilegales disfrazados de vales se expanden: 500.000 wones se vuelven 800.000",
-        "excerpt": "En marzo, un autónomo de Goyang sin acceso a crédito bancario tras el fracaso de su negocio pidió 500.000 wones en un foro de vales y debía devolver 800.000 wones en certificados nueve días después.",
-        "body": "Lee Moon-soo, seudónimo de un trabajador autónomo de Goyang, provincia de Gyeonggi, buscó dinero urgente en marzo después de que el fracaso de su negocio le cerrara el acceso a préstamos bancarios. En un café en línea de compraventa de vales, un operador le envió 500.000 wones a su cuenta con la condición de que nueve días después devolviera 800.000 wones en vales móviles de grandes almacenes. Aunque parecía una operación privada de vales, en realidad era una modalidad de préstamo ilegal con una tasa anual del 2.433%. El contrato añadía que, si el envío de los vales se retrasaba incluso un minuto, debía pagar una penalización equivalente al 100% del importe de devolución. Al no enviar los vales en la fecha fijada, la empresa lo denunció ante la policía por fraude y exigió otro pago de conciliación para retirar la denuncia. Con el refuerzo de los controles sobre plataformas de intermediación de préstamos, estos créditos de alto interés disfrazados de preventa de vales se trasladan a cafés en línea. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Empréstimos ilegais disfarçados de vale-presente crescem: 500 mil won viram 800 mil",
-        "excerpt": "Em março, um autônomo de Goyang sem acesso a crédito bancário após o fracasso do negócio tomou 500 mil won em um café online de vales e recebeu cobrança de 800 mil won em certificados nove dias depois.",
-        "body": "Lee Moon-soo, nome fictício de um autônomo de Goyang, na província de Gyeonggi, buscou dinheiro urgente em março depois que o fracasso de seu negócio bloqueou empréstimos bancários. Em um café online de negociação de vales-presente, um operador enviou 500 mil won para sua conta, com a condição de que ele devolvesse 800 mil won em vales móveis de uma loja de departamentos nove dias depois. Embora parecesse uma transação comum entre pessoas físicas, tratava-se de uma forma de agiotagem ilegal com taxa anual de 2.433%. O contrato também previa que, se o envio dos vales atrasasse apenas um minuto, Lee teria de pagar multa adicional equivalente a 100% do valor devido. Quando ele não conseguiu enviar os vales na data marcada, a empresa o denunciou à polícia por fraude e exigiu outro acordo em dinheiro para retirar a queixa. Com a fiscalização do governo voltada às plataformas de intermediação de crédito, empréstimos de juros altos disfarçados de pré-venda de vales avançam para cafés online. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Illegale Kredite als Gutscheingeschäfte getarnt: Aus 500.000 Won werden 800.000 Won",
-        "excerpt": "Ein Selbstständiger aus Goyang erhielt im März nach gescheitertem Geschäft keinen Bankkredit mehr, lieh über ein Online-Gutscheinforum 500.000 Won und sollte neun Tage später Gutscheine über 800.000 Won zurückzahlen.",
-        "body": "Lee Moon-soo, ein Pseudonym für einen Selbstständigen aus Goyang in der Provinz Gyeonggi, suchte im März dringend Geld, nachdem sein Geschäft gescheitert war und Bankkredite nicht mehr verfügbar waren. In einem Online-Forum für Gutscheinhandel überwies ihm ein Anbieter 500.000 Won auf sein Konto, verbunden mit der Bedingung, neun Tage später mobile Kaufhausgutscheine im Wert von 800.000 Won zurückzuzahlen. Was äußerlich wie ein privates Gutscheingeschäft wirkte, war tatsächlich eine Variante illegaler Geldleihe mit einem Jahreszins von 2.433%. Im Vertrag stand außerdem, dass bei einer Verspätung des Gutscheinversands um nur eine Minute eine zusätzliche Vertragsstrafe in Höhe von 100% des Rückzahlungsbetrags fällig werde. Als Lee die Gutscheine nicht fristgerecht senden konnte, zeigte ihn das Unternehmen wegen Betrugs bei der Polizei an und verlangte für die Rücknahme der Anzeige eine weitere Vergleichszahlung. Während die Regierung Kreditvermittlungsplattformen stärker kontrolliert, verlagern sich hochverzinste Darlehen, getarnt als Gutschein-Vorverkauf, in Online-Foren. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Des prêts illégaux déguisés en bons cadeaux se répandent: 500.000 wons deviennent 800.000",
-        "excerpt": "En mars, un travailleur indépendant de Goyang privé de crédit bancaire après l’échec de son activité a emprunté 500.000 wons via un café en ligne de bons cadeaux et devait rembourser 800.000 wons neuf jours plus tard.",
-        "body": "Lee Moon-soo, nom d’emprunt d’un travailleur indépendant de Goyang, dans la province de Gyeonggi, a cherché des liquidités en mars après l’échec de son activité, qui l’a empêché d’obtenir un prêt bancaire. Sur un café en ligne d’échange de bons cadeaux, un opérateur lui a versé 500.000 wons sur son compte, à condition qu’il rembourse neuf jours plus tard 800.000 wons en bons mobiles de grand magasin. L’opération ressemblait à une transaction privée de bons cadeaux, mais il s’agissait en réalité d’une forme de prêt usuraire illégal à un taux annuel de 2.433%. Le contrat prévoyait aussi qu’un retard d’une seule minute dans l’envoi des bons entraînerait une pénalité supplémentaire équivalente à 100% du montant dû. Lee n’ayant pas envoyé les bons à la date prévue, l’entreprise l’a dénoncé à la police pour fraude et a exigé un paiement de règlement supplémentaire pour retirer sa plainte. Alors que les contrôles gouvernementaux se renforcent sur les plateformes d’intermédiation de prêts, ces crédits à taux élevé déguisés en préventes de bons se déplacent vers les cafés en ligne. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "قروض غير قانونية متنكرة في صفقات قسائم: 500 ألف وون تصبح 800 ألف بعد 9 أيام",
-        "excerpt": "في مارس، لجأ عامل مستقل في غويانغ بعد فشل مشروعه وتعذر حصوله على قرض مصرفي إلى مقهى إلكتروني لتداول القسائم، فاقترض 500 ألف وون وطُلب منه رد 800 ألف وون بقسائم بعد تسعة أيام.",
-        "body": "في مدينة غويانغ بمقاطعة غيونغي، بحث لي مون سو، وهو اسم مستعار لعامل مستقل، عن سيولة عاجلة في مارس بعدما أدى فشل مشروعه إلى تعذر حصوله على قروض مصرفية. عبر مقهى إلكتروني لتداول قسائم الهدايا، أرسل له أحد المتعاملين 500 ألف وون إلى حسابه، على أن يرد بعد تسعة أيام قسائم هاتفية لمتجر كبير بقيمة 800 ألف وون. بدا الأمر كأنه تعامل عادي بين أفراد على القسائم، لكنه كان في الواقع شكلا متحورا من الإقراض الخاص غير القانوني بفائدة سنوية تبلغ 2433%. كما نص العقد على أنه إذا تأخر إرسال القسائم ولو دقيقة واحدة، فعليه دفع غرامة إضافية تعادل 100% من مبلغ السداد. وعندما لم يتمكن من إرسال القسائم في الموعد المحدد، قدمت الشركة بلاغا ضده إلى الشرطة بتهمة الاحتيال، وطلبت مبلغا إضافيا للتسوية مقابل سحب البلاغ. ومع تشديد الحكومة الرقابة على منصات وساطة القروض، تنتقل القروض عالية الفائدة المتخفية في شكل بيع مسبق للقسائم إلى المقاهي الإلكترونية. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "गिफ्ट सर्टिफिकेट सौदे की आड़ में अवैध कर्ज: 5 लाख वोन 9 दिन में 8 लाख बने",
-        "excerpt": "गोयांग के एक स्वरोजगार करने वाले व्यक्ति ने मार्च में कारोबार विफल होने और बैंक कर्ज रुकने के बाद ऑनलाइन गिफ्ट सर्टिफिकेट कैफे से 5 लाख वोन लिए, लेकिन 9 दिन बाद 8 लाख वोन के सर्टिफिकेट लौटाने को कहा गया।",
-        "body": "ग्योंगी प्रांत के गोयांग में स्वरोजगार करने वाले ली मून-सू, जो एक बदला हुआ नाम है, ने मार्च में कारोबार विफल होने के बाद बैंक ऋण न मिल पाने पर तत्काल धन के लिए ऑनलाइन गिफ्ट सर्टिफिकेट ट्रेडिंग कैफे का सहारा लिया। एक कारोबारी ने उनके खाते में 5 लाख वोन भेजे और शर्त रखी कि 9 दिन बाद वे डिपार्टमेंट स्टोर के मोबाइल गिफ्ट सर्टिफिकेट के रूप में 8 लाख वोन लौटाएंगे। ऊपर से यह व्यक्तियों के बीच सामान्य सर्टिफिकेट लेनदेन जैसा दिखा, लेकिन असल में यह 2433% वार्षिक ब्याज दर वाला अवैध निजी कर्ज था। अनुबंध में यह भी लिखा था कि सर्टिफिकेट भेजने में एक मिनट की देरी पर भी पुनर्भुगतान राशि के 100% के बराबर अतिरिक्त जुर्माना देना होगा। तय तारीख पर सर्टिफिकेट न भेज पाने पर कंपनी ने ली के खिलाफ धोखाधड़ी की शिकायत पुलिस में की और शिकायत वापस लेने के लिए अतिरिक्त समझौता राशि मांगी। सरकार द्वारा ऋण मध्यस्थ प्लेटफॉर्मों पर कार्रवाई बढ़ाने के बीच, गिफ्ट सर्टिफिकेट की अग्रिम बिक्री का रूप लेकर ऊंचे ब्याज वाले कर्ज ऑनलाइन कैफे में फैल रहे हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pinjaman Ilegal Berkedok Transaksi Voucher Meluas, 500 Ribu Won Jadi 800 Ribu Won",
-        "excerpt": "Pada Maret, seorang wiraswasta di Goyang yang gagal mendapat pinjaman bank setelah usahanya jatuh meminjam 500 ribu won lewat kafe daring voucher dan diminta mengembalikan 800 ribu won dalam sembilan hari.",
-        "body": "Lee Moon-soo, nama samaran seorang wiraswasta di Goyang, Provinsi Gyeonggi, mencari dana darurat pada Maret setelah kegagalan usaha membuatnya tidak bisa memperoleh pinjaman bank. Melalui kafe daring perdagangan voucher, seorang pelaku mengirim 500 ribu won ke rekening Lee dengan syarat ia mengembalikan 800 ribu won dalam bentuk voucher seluler department store sembilan hari kemudian. Sekilas transaksi itu tampak seperti jual beli voucher antarindividu, tetapi sebenarnya merupakan bentuk pinjaman ilegal dengan bunga tahunan 2.433%. Kontraknya juga mencantumkan bahwa jika pengiriman voucher terlambat satu menit saja, Lee harus membayar denda tambahan sebesar 100% dari nilai pelunasan. Saat Lee tidak bisa mengirim voucher pada tanggal yang ditentukan, perusahaan melaporkannya ke polisi atas tuduhan penipuan dan meminta uang penyelesaian tambahan sebagai syarat mencabut laporan. Ketika pemerintah memperketat pengawasan terhadap platform perantara pinjaman, pinjaman berbunga tinggi yang menyamar sebagai prapenjualan voucher mulai berpindah ke kafe daring. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "d52bdac3dedd",
-    "slug": "전기차-100만-시대-여전한-충전-낭인-길막-시비-에티켓도-부족-142415",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T22:22:02.386Z",
-    "updatedAt": "2026-05-11T22:22:02.386Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133902390/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133902390/2",
-    "titleFingerprint": "476ca8b3903b4b04b070ee642e7b8c8709764d19",
-    "dedupKeys": [
-      "d52bdac3dedd7573c7a68d1df5308ed1605d5946",
-      "476ca8b3903b4b04b070ee642e7b8c8709764d19",
-      "886027138ebbe69fdbe4177715f8cfc377e1dc7d"
-    ],
-    "imageUrl": "/images/articles/d52bdac3dedd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전기차 100만 대 시대에도 충전 갈등 확산…아파트 ‘길막 신고’ 혼선",
-        "excerpt": "국내 전기차 누적 운행 대수가 100만 대를 넘은 가운데, 서울 아파트 단지 등에서 충전 구역 진입 방해와 주차 갈등, 지자체별 민원 대응 차이가 이용자 불만을 키우고 있다.",
-        "body": "국내 전기자동차 누적 운행 대수가 100만 대를 돌파한 가운데 서울 등 아파트 단지에서 충전과 주차를 둘러싼 갈등이 커지고 있다. 서울에서 6년째 전기차를 운전하는 직장인 장정호 씨는 최근 아파트 주차장에서 충전 공간 진입로를 막은 차량을 구청에 신고했지만, 해당 차량의 기어가 중립 상태가 아니라는 점을 영상으로 찍어 보내라는 답변을 받았다. 장 씨는 장애인 주차 공간 진입 방해와 달리 전기차 충전 방해 신고 절차가 까다롭다며 불편을 호소했다. 지자체별 대응 방침도 달라 이용자 불만이 이어지고 있다. 전문가들은 보급 확대와 함께 이용자 이탈을 막을 대책이 중요하다고 지적했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "EVs Top 1 Million in Korea, but Charging Conflicts Grow Over Blocked Access",
-        "excerpt": "As the number of electric vehicles on Korean roads exceeds 1 million, disputes over blocked charging access, parking etiquette and inconsistent local responses are raising user frustration.",
-        "body": "As the cumulative number of electric vehicles operating in Korea has surpassed 1 million, conflicts over charging and parking are spreading in apartment complexes in Seoul and elsewhere. Jang Jung-ho, a 36-year-old office worker who has driven an EV in Seoul for six years, recently reported a vehicle blocking the entrance to a charging space at his apartment parking lot. The district office told him to submit a video proving the vehicle’s gear was not in neutral. Jang said the process differs sharply from reporting obstruction of disabled parking access, where photos can lead directly to a fine, and said delayed charging remains the biggest inconvenience for EV drivers. Local governments also differ in how they handle EV-related complaints. Experts say measures to prevent users from leaving EVs are as important as expanding adoption. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国EV100万台時代でも充電トラブル拡大、マンションの進入妨害申告に混乱",
-        "excerpt": "韓国で走行中の電気自動車が累計100万台を超える中、マンションなどで充電区画への進入妨害や駐車をめぐる対立、自治体対応の差が利用者の不満を高めている。",
-        "body": "韓国で運行中の電気自動車が累計100万台を突破する中、ソウルなどのマンション団地で充電と駐車をめぐる対立が広がっている。ソウルで6年間EVを運転している会社員のチャン・ジョンホさん（36）は最近、マンション駐車場で充電スペースの進入路をふさいだ車を区役所に申告したところ、その車のギアがニュートラルではないことを動画で撮影して送るよう求められた。チャンさんは、障害者用駐車スペースの進入妨害は写真だけでも過料につながる点と大きく異なるとして、充電できない不便を訴えた。自治体ごとの対応方針にも差があり、不満が続いている。専門家は普及拡大と同時に利用者離れを防ぐ対策が重要だと指摘している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国电动车突破100万辆，充电位被堵与小区停车矛盾仍在扩大",
-        "excerpt": "韩国在用电动汽车累计超过100万辆之际，首尔公寓小区等地围绕充电通道被堵、停车礼仪不足及地方政府处理标准不一的投诉正在增加。",
-        "body": "韩国在用电动汽车累计数量突破100万辆之际，首尔等地公寓小区围绕充电和停车的问题正迅速引发矛盾。在首尔驾驶电动车已有6年的36岁上班族张正浩最近在公寓停车场遇到充电区域入口被车辆堵住的情况。他向区政府举报后，却被要求拍摄并提交证明该车辆挡位并非空挡的视频。张正浩表示，这与妨碍残疾人停车位入口只需拍照举报即可处罚的做法不同，电动车用户最不便的是无法及时充电，而制度支持仍不足。各地方政府对电动车相关投诉的处理方针也不一致，用户不满不少。专家指出，扩大普及的同时，防止用户流失的措施同样重要。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Corea supera 1 millón de autos eléctricos, pero crecen conflictos por carga bloqueada",
-        "excerpt": "Con más de 1 millón de vehículos eléctricos en circulación en Corea, aumentan las quejas por accesos a cargadores bloqueados, disputas de estacionamiento y respuestas dispares de gobiernos locales.",
-        "body": "Mientras el número acumulado de vehículos eléctricos en circulación en Corea supera 1 millón, se expanden los conflictos por carga y estacionamiento en complejos de apartamentos de Seúl y otras zonas. Jang Jung-ho, oficinista de 36 años que conduce un eléctrico en Seúl desde hace seis años, denunció recientemente ante la oficina distrital un vehículo que bloqueaba la entrada a un espacio de carga en el estacionamiento de su edificio. La respuesta fue que debía enviar un video que demostrara que el auto no estaba en punto muerto. Jang dijo que el procedimiento contrasta con las denuncias por obstruir accesos a plazas para personas con discapacidad, donde una foto puede derivar directamente en una multa, y señaló que no poder cargar a tiempo es la mayor incomodidad. Las reglas de atención varían por municipio, lo que alimenta el malestar. Expertos advierten que evitar el abandono de usuarios es tan importante como ampliar la adopción. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Coreia passa de 1 milhão de elétricos, mas conflitos por recarga bloqueada crescem",
-        "excerpt": "Com mais de 1 milhão de veículos elétricos em circulação na Coreia, aumentam reclamações sobre acesso bloqueado a carregadores, disputas de estacionamento e respostas diferentes de governos locais.",
-        "body": "Com o total de veículos elétricos em circulação na Coreia ultrapassando 1 milhão, crescem os conflitos sobre recarga e estacionamento em condomínios de apartamentos em Seul e em outras regiões. Jang Jung-ho, funcionário de 36 anos que dirige um elétrico em Seul há seis anos, relatou recentemente à prefeitura distrital um veículo que bloqueava a entrada de uma vaga de recarga no estacionamento de seu prédio. A resposta foi que ele deveria enviar um vídeo provando que o câmbio do veículo não estava em ponto morto. Jang afirmou que o processo contrasta com denúncias de bloqueio ao acesso de vagas para pessoas com deficiência, em que uma foto pode levar diretamente a multa, e disse que não conseguir carregar a tempo é o maior incômodo. As orientações de resposta variam entre governos locais, ampliando a insatisfação. Especialistas dizem que medidas para evitar a saída de usuários são tão importantes quanto expandir a adoção. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Korea zählt über 1 Million E-Autos, doch Streit um blockierte Ladeplätze nimmt zu",
-        "excerpt": "Während in Korea mehr als 1 Million Elektroautos unterwegs sind, wachsen in Wohnanlagen Beschwerden über blockierte Ladezufahrten, Parkkonflikte und uneinheitliche Reaktionen der Kommunen.",
-        "body": "In Korea hat die Zahl der im Betrieb befindlichen Elektroautos kumuliert die Marke von 1 Million überschritten, doch in Apartmentanlagen in Seoul und anderswo nehmen Konflikte um Laden und Parken zu. Jang Jung-ho, ein 36-jähriger Angestellter, der seit sechs Jahren in Seoul ein E-Auto fährt, meldete kürzlich beim Bezirksamt ein Fahrzeug, das die Zufahrt zu einem Ladeplatz in seiner Wohnanlage blockierte. Die Behörde bat ihn, ein Video einzureichen, das zeigt, dass der Gang des Fahrzeugs nicht auf Neutral stand. Jang sagte, dies unterscheide sich deutlich von Meldungen über blockierte Zufahrten zu Behindertenparkplätzen, bei denen Fotos direkt zu einem Bußgeld führen können. Für E-Auto-Fahrer sei das nicht rechtzeitige Laden das größte Problem. Da Kommunen Beschwerden unterschiedlich behandeln, hält der Unmut an. Experten betonen, Maßnahmen gegen Nutzerabwanderung seien ebenso wichtig wie der Ausbau der Verbreitung. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "La Corée dépasse 1 million de voitures électriques, mais les conflits de recharge s’étendent",
-        "excerpt": "Alors que la Corée compte plus de 1 million de véhicules électriques en circulation, les tensions montent dans les immeubles sur les accès aux bornes bloqués et les réponses locales inégales.",
-        "body": "Le nombre cumulé de véhicules électriques en circulation en Corée a dépassé 1 million, mais les conflits liés à la recharge et au stationnement s’intensifient dans les résidences d’appartements de Séoul et d’ailleurs. Jang Jung-ho, employé de bureau de 36 ans qui conduit une voiture électrique à Séoul depuis six ans, a récemment signalé à son arrondissement un véhicule bloquant l’accès à une place de recharge dans le parking de son immeuble. La réponse lui a demandé d’envoyer une vidéo prouvant que la voiture n’était pas au point mort. Jang a estimé que cette procédure diffère fortement du signalement d’un accès à une place pour personnes handicapées bloqué, où une photo peut mener directement à une amende, et a souligné que ne pas pouvoir recharger à temps est le principal désagrément. Les réponses varient aussi selon les collectivités locales, ce qui nourrit les plaintes. Des experts jugent que prévenir le départ des utilisateurs est aussi important que développer l’adoption. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كوريا تتجاوز مليون سيارة كهربائية لكن نزاعات الشحن والمواقف تتسع في المجمعات",
-        "excerpt": "مع تجاوز عدد السيارات الكهربائية العاملة في كوريا مليون سيارة، تتزايد الشكاوى في المجمعات السكنية من إغلاق مداخل الشحن ونزاعات الوقوف وتباين تعامل الحكومات المحلية.",
-        "body": "مع تجاوز العدد التراكمي للسيارات الكهربائية العاملة في كوريا حاجز مليون سيارة، تتزايد النزاعات حول الشحن والوقوف في المجمعات السكنية في سيول وغيرها. جانغ جونغ هو، وهو موظف يبلغ 36 عاما ويقود سيارة كهربائية في سيول منذ ست سنوات، أبلغ مؤخرا مكتب الحي عن مركبة كانت تسد مدخل مساحة شحن في موقف شقته. وجاءه الرد بأن عليه إرسال مقطع فيديو يثبت أن ناقل حركة تلك المركبة ليس في وضع الحياد. وقال جانغ إن ذلك يختلف عن حالات إعاقة مدخل مواقف ذوي الإعاقة، حيث يمكن أن تؤدي الصورة وحدها إلى غرامة، مضيفا أن عدم القدرة على الشحن في الوقت المناسب هو أكبر إزعاج لسائقي السيارات الكهربائية. كما تختلف سياسات التعامل مع الشكاوى حسب الحكومات المحلية، ما يزيد استياء المستخدمين. ويرى خبراء أن منع خروج المستخدمين لا يقل أهمية عن توسيع الانتشار. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "कोरिया में ईवी 10 लाख पार, फिर भी चार्जिंग रास्ता रोकने पर विवाद बढ़े",
-        "excerpt": "कोरिया में चल रही इलेक्ट्रिक कारों की संख्या 10 लाख से अधिक होने के बीच, अपार्टमेंट परिसरों में चार्जिंग प्रवेश रोकने, पार्किंग विवाद और स्थानीय निकायों की अलग-अलग कार्रवाई से असंतोष बढ़ रहा है।",
-        "body": "कोरिया में चल रही इलेक्ट्रिक कारों की कुल संख्या 10 लाख से अधिक हो गई है, लेकिन सियोल और अन्य क्षेत्रों के अपार्टमेंट परिसरों में चार्जिंग और पार्किंग को लेकर विवाद तेजी से फैल रहे हैं। सियोल में छह साल से इलेक्ट्रिक कार चला रहे 36 वर्षीय कार्यालय कर्मचारी जांग जंग-हो ने हाल ही में अपने अपार्टमेंट पार्किंग स्थल में चार्जिंग स्थान के प्रवेश मार्ग को रोकने वाली गाड़ी की शिकायत जिला कार्यालय से की। जवाब में उनसे कहा गया कि वह यह साबित करने वाला वीडियो भेजें कि उस वाहन का गियर न्यूट्रल में नहीं था। जांग ने कहा कि यह दिव्यांग पार्किंग स्थान के प्रवेश में बाधा की शिकायत से अलग है, जहां फोटो के आधार पर तुरंत जुर्माना लगाया जा सकता है। उन्होंने कहा कि समय पर चार्ज न कर पाना ईवी चालकों की सबसे बड़ी असुविधा है। स्थानीय सरकारों की शिकायतों पर प्रतिक्रिया भी अलग-अलग है, जिससे असंतोष बना हुआ है। विशेषज्ञों ने कहा कि प्रसार बढ़ाने के साथ उपयोगकर्ताओं को छोड़ने से रोकने की नीति भी महत्वपूर्ण है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Korea Tembus 1 Juta Mobil Listrik, Konflik Akses Pengisian di Apartemen Meluas",
-        "excerpt": "Saat jumlah mobil listrik yang beroperasi di Korea melampaui 1 juta unit, keluhan soal akses pengisian yang terhalang, konflik parkir, dan respons pemerintah daerah yang berbeda terus meningkat.",
-        "body": "Jumlah kumulatif mobil listrik yang beroperasi di Korea telah melampaui 1 juta unit, tetapi konflik terkait pengisian daya dan parkir di kompleks apartemen di Seoul dan wilayah lain terus meluas. Jang Jung-ho, pekerja kantoran berusia 36 tahun yang telah mengendarai mobil listrik di Seoul selama enam tahun, baru-baru ini melaporkan kendaraan yang menghalangi pintu masuk ruang pengisian di parkir apartemennya kepada kantor distrik. Ia diminta mengirim video yang membuktikan bahwa gigi kendaraan tersebut tidak dalam posisi netral. Jang mengatakan prosedur itu berbeda dengan laporan penghalangan akses parkir penyandang disabilitas, yang dapat langsung dikenai denda hanya dengan foto, dan menyebut tidak bisa mengisi daya tepat waktu sebagai ketidaknyamanan terbesar. Kebijakan penanganan keluhan juga berbeda antar pemerintah daerah, sehingga keluhan pengguna berlanjut. Para ahli menilai langkah mencegah pengguna meninggalkan kendaraan listrik sama pentingnya dengan perluasan adopsi. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "96479cc8ef49",
-    "slug": "경찰-노조-블랙리스트-의혹-관련-삼성공장-압수수색-607298",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-11T22:20:41.005Z",
-    "updatedAt": "2026-05-11T22:20:41.006Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260512/133902414/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260512/133902414/2",
-    "titleFingerprint": "58cc70797168f3161de8ebe8ec9722b947800578",
-    "dedupKeys": [
-      "96479cc8ef49bd7a88f6f96fd957e2ac26a80c89",
-      "58cc70797168f3161de8ebe8ec9722b947800578",
-      "d58962e37a3b7d8de18efe30f434b88611239b41"
-    ],
-    "imageUrl": "/images/articles/96479cc8ef49.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 블랙리스트 의혹, 경찰 기흥사업장 서버 압수수색",
-        "excerpt": "경기남부경찰청은 11일 삼성전자 내부 ‘노조 블랙리스트’ 의혹 고소 사건과 관련해 지난 8일 기흥사업장 서버 압수영장을 집행했다고 밝혔다.",
-        "body": "경찰이 삼성전자 내부에서 임직원의 노동조합 가입 여부가 담긴 이른바 ‘노조 블랙리스트’가 작성됐다는 의혹과 관련해 강제수사에 나섰다. 경기남부경찰청은 11일 정례 기자간담회에서 지난 8일 삼성전자 기흥사업장에 수사관을 보내 사내 업무 사이트 등을 관리하는 서버에 대한 압수영장을 집행했다고 밝혔다. 경찰은 압수수색 과정에서 이상 접속 기록이 남은 IP주소 4건을 확인하고 해당 사용자를 특정했다. 다만 이들이 노조 소속인지는 아직 파악되지 않았다고 설명했다. 이번 수사는 삼성전자가 제출한 두 건의 고소 사건과 관련된다. 삼성전자는 지난달 9일 특정 직원이 다른 임직원의 개인정보를 활용해 노조 가입 여부가 포함된 명단을 작성한 정황이 있다며 성명불상자를 개인정보보호법 위반 혐의로 고소했다. 이어 일주일 뒤 사내 업무 사이트에서 약 1시간 동안 2만여 차례 개인정보를 무단 조회한 직원을 추가 고소했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung union blacklist allegation prompts police server raid at Giheung plant",
-        "excerpt": "Gyeonggi Nambu police said on the 11th they executed a search warrant on May 8 for servers at Samsung Electronics’ Giheung site over alleged union blacklist claims.",
-        "body": "Police have launched a compulsory investigation into allegations that a so-called “union blacklist” containing information on Samsung Electronics employees’ union membership status was created inside the company. At a regular press briefing on the 11th, the Gyeonggi Nambu Provincial Police Agency said investigators were sent to Samsung Electronics’ Giheung site on May 8 to execute a search warrant for servers managing internal work sites and related systems. During the search, police confirmed four IP addresses with abnormal access records and identified the users. Police said it has not yet been determined whether those users belong to the union. The investigation concerns two complaints filed by Samsung Electronics. On the 9th of last month, Samsung accused an unidentified person of violating the Personal Information Protection Act, citing circumstances that a specific employee used other employees’ personal data to create a list including union membership status. A week later, Samsung filed an additional complaint against an employee accused of making about 20,000 unauthorized personal information inquiries over roughly one hour on an internal work site. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子の労組ブラックリスト疑惑、警察が器興事業場サーバーを押収捜索",
-        "excerpt": "京畿南部警察庁は11日、サムスン電子内部の「労組ブラックリスト」疑惑の告訴事件に関連し、8日に器興事業場のサーバー押収令状を執行したと明らかにした。",
-        "body": "警察が、サムスン電子内部で役職員の労働組合加入の有無が記載された、いわゆる「労組ブラックリスト」が作成されたとの疑惑をめぐり、強制捜査に着手した。京畿南部警察庁は11日の定例記者懇談会で、8日にサムスン電子器興事業場へ捜査員を送り、社内業務サイトなどを管理するサーバーに対する押収令状を執行したと発表した。警察は押収捜索の過程で、異常な接続記録が残ったIPアドレス4件を確認し、該当する利用者を特定した。ただし、これらの利用者が労組所属かどうかはまだ把握されていないと説明した。今回の捜査は、サムスン電子が提出した2件の告訴事件に関連する。サムスン電子は先月9日、特定の社員が他の役職員の個人情報を利用し、労組加入の有無を含む名簿を作成した状況があるとして、氏名不詳者を個人情報保護法違反容疑で告訴した。さらに1週間後、社内業務サイトで約1時間にわたり約2万回、個人情報を無断照会した社員を追加で告訴した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会黑名单疑云，警方搜查扣押器兴工厂服务器",
-        "excerpt": "京畿南部警察厅11日表示，因三星电子内部所谓“工会黑名单”相关控告案件，警方已于8日对器兴事业场服务器执行搜查扣押令。",
-        "body": "警方已就三星电子内部涉嫌制作包含员工是否加入工会信息的所谓“工会黑名单”一事展开强制调查。京畿南部警察厅在11日例行记者会上表示，警方于8日派遣调查人员前往三星电子器兴事业场，对管理公司内部业务网站等系统的服务器执行搜查扣押令。警方在此次搜查扣押过程中确认了4个留下异常访问记录的IP地址，并锁定了相关使用者。警方说明，目前尚未确认这些人是否属于工会成员。此次调查涉及三星电子提交的两起控告案件。三星电子上月9日表示，有迹象显示某名员工利用其他员工个人信息，制作包含工会加入情况的名单，因此以涉嫌违反个人信息保护法为由控告身份不明者。一周后，三星电子又追加控告一名员工，称其在公司内部业务网站上约1小时内未经授权查询个人信息约2万次。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Policía allana servidores de Samsung por presunta lista negra sindical",
-        "excerpt": "La Policía de Gyeonggi Nambu informó el día 11 que ejecutó el 8 de mayo una orden sobre servidores de la planta Giheung de Samsung por la denuncia de una presunta lista sindical.",
-        "body": "La policía inició una investigación forzosa por las sospechas de que dentro de Samsung Electronics se elaboró una supuesta “lista negra sindical” con información sobre si empleados y ejecutivos estaban afiliados a un sindicato. En una rueda de prensa periódica el día 11, la Agencia de Policía Provincial de Gyeonggi Nambu dijo que el 8 de mayo envió investigadores al complejo Giheung de Samsung Electronics para ejecutar una orden de incautación sobre servidores que gestionan sitios internos de trabajo y sistemas relacionados. Durante el registro, la policía confirmó cuatro direcciones IP con registros de acceso anómalos e identificó a los usuarios correspondientes. La policía explicó que aún no se ha determinado si esas personas pertenecen al sindicato. La investigación está relacionada con dos denuncias presentadas por Samsung Electronics. El 9 del mes pasado, Samsung denunció a una persona no identificada por presunta violación de la Ley de Protección de Información Personal, al señalar indicios de que un empleado usó datos personales de otros trabajadores para crear una lista que incluía su afiliación sindical. Una semana después, presentó otra denuncia contra un empleado acusado de consultar sin autorización información personal unas 20.000 veces durante cerca de una hora en un sitio interno. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Polícia vasculha servidores da Samsung por suspeita de lista negra sindical",
-        "excerpt": "A polícia de Gyeonggi Nambu informou no dia 11 que cumpriu em 8 de maio mandado em servidores da unidade Giheung da Samsung por denúncia sobre suposta lista sindical.",
-        "body": "A polícia iniciou uma investigação coercitiva sobre suspeitas de que uma chamada “lista negra sindical”, contendo informações sobre a filiação sindical de funcionários e executivos, teria sido criada dentro da Samsung Electronics. Em entrevista coletiva regular no dia 11, a Agência de Polícia Provincial de Gyeonggi Nambu disse que enviou investigadores à unidade Giheung da Samsung Electronics em 8 de maio para cumprir mandado de busca e apreensão em servidores que administram sites internos de trabalho e sistemas relacionados. Durante a operação, a polícia confirmou quatro endereços IP com registros de acesso anormais e identificou os respectivos usuários. Segundo a polícia, ainda não foi apurado se essas pessoas pertencem ao sindicato. A investigação está ligada a duas denúncias apresentadas pela Samsung Electronics. No dia 9 do mês passado, a Samsung denunciou pessoa não identificada por suposta violação da Lei de Proteção de Informações Pessoais, citando indícios de que um funcionário usou dados pessoais de outros empregados para criar uma lista que incluía o status de filiação sindical. Uma semana depois, apresentou denúncia adicional contra um funcionário acusado de consultar informações pessoais sem autorização cerca de 20.000 vezes em aproximadamente uma hora em um site interno. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Gewerkschaftsblacklist: Polizei durchsucht Server im Werk Giheung",
-        "excerpt": "Die Polizei Gyeonggi Nambu teilte am 11. mit, sie habe am 8. Mai wegen Beschwerden zur mutmaßlichen Gewerkschaftsblacklist bei Samsung Server im Werk Giheung beschlagnahmt.",
-        "body": "Die Polizei hat Zwangsermittlungen zu dem Verdacht aufgenommen, dass innerhalb von Samsung Electronics eine sogenannte „Gewerkschaftsblacklist“ erstellt wurde, die Angaben darüber enthielt, ob Beschäftigte einer Gewerkschaft angehören. Bei einer regulären Presseunterrichtung am 11. erklärte die Polizeibehörde der Provinz Gyeonggi Nambu, Ermittler seien am 8. Mai zum Samsung-Electronics-Standort Giheung geschickt worden, um einen Beschlagnahmebeschluss für Server zu vollstrecken, die interne Arbeitsseiten und damit verbundene Systeme verwalten. Während der Durchsuchung bestätigte die Polizei vier IP-Adressen mit auffälligen Zugriffsprotokollen und identifizierte die jeweiligen Nutzer. Ob diese Personen der Gewerkschaft angehören, sei noch nicht festgestellt worden. Die Ermittlungen beziehen sich auf zwei von Samsung Electronics eingereichte Anzeigen. Am 9. des vergangenen Monats zeigte Samsung eine unbekannte Person wegen mutmaßlicher Verletzung des Gesetzes zum Schutz personenbezogener Daten an. Hintergrund seien Hinweise, dass ein bestimmter Mitarbeiter personenbezogene Daten anderer Beschäftigter genutzt habe, um eine Liste mit Angaben zur Gewerkschaftsmitgliedschaft zu erstellen. Eine Woche später reichte Samsung eine weitere Anzeige gegen einen Mitarbeiter ein, der auf einer internen Arbeitsseite innerhalb von etwa einer Stunde rund 20.000-mal unbefugt personenbezogene Daten abgefragt haben soll. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Liste noire syndicale chez Samsung : perquisition policière sur les serveurs de Giheung",
-        "excerpt": "La police de Gyeonggi Nambu a indiqué le 11 avoir exécuté le 8 mai un mandat sur des serveurs du site Giheung de Samsung Electronics dans une affaire de liste syndicale présumée.",
-        "body": "La police a ouvert une enquête coercitive sur des soupçons selon lesquels une prétendue « liste noire syndicale » contenant des informations sur l’adhésion syndicale d’employés et de cadres aurait été créée au sein de Samsung Electronics. Lors d’un point de presse régulier le 11, l’Agence de police provinciale de Gyeonggi Nambu a déclaré avoir envoyé des enquêteurs le 8 mai sur le site Giheung de Samsung Electronics afin d’exécuter un mandat de saisie visant les serveurs qui gèrent les sites de travail internes et systèmes connexes. Au cours de la perquisition, la police a confirmé quatre adresses IP présentant des traces d’accès anormales et identifié les utilisateurs concernés. Elle a précisé qu’il n’était pas encore établi si ces personnes appartenaient au syndicat. L’enquête concerne deux plaintes déposées par Samsung Electronics. Le 9 du mois dernier, Samsung a porté plainte contre une personne non identifiée pour violation présumée de la loi sur la protection des informations personnelles, évoquant des circonstances selon lesquelles un employé aurait utilisé les données personnelles d’autres salariés pour créer une liste indiquant leur statut syndical. Une semaine plus tard, Samsung a déposé une plainte supplémentaire contre un employé accusé d’avoir consulté sans autorisation des informations personnelles environ 20.000 fois en près d’une heure sur un site interne. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اشتباه بقائمة سوداء نقابية في سامسونغ يدفع الشرطة لتفتيش خوادم مصنع غيهيونغ",
-        "excerpt": "قالت شرطة غيونغي نامبو في 11 إنها نفذت في 8 مايو أمر ضبط لخوادم في موقع غيهيونغ التابع لسامسونغ إلكترونيكس ضمن قضية شكوى عن قائمة نقابية مزعومة.",
-        "body": "بدأت الشرطة تحقيقا إلزاميا في مزاعم تفيد بأن ما يسمى «قائمة سوداء نقابية» تتضمن معلومات عن انضمام موظفي سامسونغ إلكترونيكس إلى النقابة قد أعدت داخل الشركة. وقالت وكالة شرطة مقاطعة غيونغي نامبو في إفادة صحفية دورية يوم 11 إن محققين أرسلوا في 8 مايو إلى موقع غيهيونغ التابع لسامسونغ إلكترونيكس لتنفيذ أمر ضبط بحق خوادم تدير مواقع العمل الداخلية وأنظمة مرتبطة بها. وخلال التفتيش، أكدت الشرطة وجود أربعة عناوين IP لها سجلات دخول غير طبيعية، وحددت المستخدمين المعنيين. وأوضحت الشرطة أنه لم يتأكد بعد ما إذا كان هؤلاء ينتمون إلى النقابة. ويرتبط التحقيق بشكويين قدمتهما سامسونغ إلكترونيكس. ففي 9 من الشهر الماضي، تقدمت سامسونغ بشكوى ضد شخص مجهول بتهمة انتهاك قانون حماية المعلومات الشخصية، مشيرة إلى ظروف تفيد بأن موظفا محددا استخدم بيانات شخصية لموظفين آخرين لإنشاء قائمة تتضمن حالة الانضمام إلى النقابة. وبعد أسبوع، قدمت شكوى إضافية ضد موظف متهم بالاطلاع غير المصرح به على معلومات شخصية نحو 20 ألف مرة خلال قرابة ساعة واحدة على موقع عمل داخلي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सैमसंग यूनियन ब्लैकलिस्ट संदेह पर पुलिस ने गिहुंग संयंत्र के सर्वर खंगाले",
-        "excerpt": "ग्योंगी नाम्बू पुलिस ने 11 तारीख को कहा कि सैमसंग इलेक्ट्रॉनिक्स की कथित यूनियन ब्लैकलिस्ट शिकायत से जुड़े मामले में 8 मई को गिहुंग साइट के सर्वरों पर वारंट लागू किया गया।",
-        "body": "पुलिस ने सैमसंग इलेक्ट्रॉनिक्स के भीतर कर्मचारियों की यूनियन सदस्यता से जुड़ी जानकारी वाली कथित “यूनियन ब्लैकलिस्ट” बनाए जाने के संदेह पर अनिवार्य जांच शुरू की है। ग्योंगी नाम्बू प्रांतीय पुलिस एजेंसी ने 11 तारीख की नियमित प्रेस ब्रीफिंग में बताया कि 8 मई को जांचकर्ताओं को सैमसंग इलेक्ट्रॉनिक्स की गिहुंग साइट भेजा गया और आंतरिक कार्य साइटों तथा संबंधित प्रणालियों को संचालित करने वाले सर्वरों पर जब्ती वारंट लागू किया गया। तलाशी के दौरान पुलिस ने असामान्य पहुंच रिकॉर्ड वाले चार IP पते 확인 किए और संबंधित उपयोगकर्ताओं की पहचान की। पुलिस के अनुसार, यह अभी पता नहीं चला है कि ये लोग यूनियन से जुड़े हैं या नहीं। यह जांच सैमसंग इलेक्ट्रॉनिक्स द्वारा दायर दो शिकायतों से संबंधित है। पिछले महीने की 9 तारीख को सैमसंग ने अज्ञात व्यक्ति के खिलाफ व्यक्तिगत सूचना संरक्षण कानून के उल्लंघन का आरोप लगाते हुए शिकायत दर्ज कराई थी। कंपनी ने कहा था कि एक विशेष कर्मचारी ने अन्य कर्मचारियों की निजी जानकारी का उपयोग कर ऐसी सूची बनाई जिसमें यूनियन सदस्यता की स्थिति शामिल थी। एक सप्ताह बाद, सैमसंग ने एक कर्मचारी के खिलाफ अतिरिक्त शिकायत दर्ज कराई, जिस पर आंतरिक कार्य साइट पर लगभग एक घंटे में करीब 20,000 बार निजी जानकारी अनधिकृत रूप से देखने का आरोप है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Dugaan daftar hitam serikat Samsung, polisi sita server pabrik Giheung",
-        "excerpt": "Kepolisian Gyeonggi Nambu pada tanggal 11 menyatakan telah menjalankan surat penyitaan pada 8 Mei terhadap server lokasi Giheung Samsung terkait aduan dugaan daftar serikat.",
-        "body": "Polisi memulai penyelidikan paksa atas dugaan bahwa di internal Samsung Electronics dibuat apa yang disebut “daftar hitam serikat” berisi informasi mengenai apakah karyawan dan eksekutif bergabung dengan serikat pekerja. Dalam pengarahan pers rutin pada tanggal 11, Badan Kepolisian Provinsi Gyeonggi Nambu mengatakan penyidik dikirim ke lokasi Giheung Samsung Electronics pada 8 Mei untuk menjalankan surat penyitaan terhadap server yang mengelola situs kerja internal dan sistem terkait. Dalam proses penggeledahan dan penyitaan, polisi mengonfirmasi empat alamat IP dengan catatan akses tidak normal dan mengidentifikasi para penggunanya. Polisi menjelaskan belum diketahui apakah mereka merupakan anggota serikat. Penyelidikan ini terkait dengan dua aduan yang diajukan Samsung Electronics. Pada tanggal 9 bulan lalu, Samsung mengadukan orang tidak dikenal atas dugaan pelanggaran Undang-Undang Perlindungan Informasi Pribadi, dengan menyebut adanya keadaan bahwa seorang karyawan tertentu menggunakan data pribadi karyawan lain untuk membuat daftar yang mencakup status keanggotaan serikat. Seminggu kemudian, Samsung mengajukan aduan tambahan terhadap seorang karyawan yang dituduh mengakses informasi pribadi tanpa izin sekitar 20.000 kali selama kurang lebih satu jam di situs kerja internal. Sumber: rss.donga.com"
       }
     }
   }

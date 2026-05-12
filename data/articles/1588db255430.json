@@ -1,0 +1,75 @@
+{
+  "id": "1588db255430",
+  "slug": "한국-1분기-성장률-17로-中-제쳐대만은-119-고성장-258144",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-12T15:15:14.983Z",
+  "updatedAt": "2026-05-12T15:15:14.983Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133906251/1",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133906251/1",
+  "titleFingerprint": "4230a73e5e1039d58c13fe2b0dd9ac0c70b07c28",
+  "dedupKeys": [
+    "1588db255430855525cdb0aa5a46b67a29195c86",
+    "4230a73e5e1039d58c13fe2b0dd9ac0c70b07c28",
+    "393f68c90825f0bc936b74e688d66d0d7d6ae5e6"
+  ],
+  "imageUrl": "/images/articles/1588db255430.jpg",
+  "i18n": {
+    "ko": {
+      "title": "한국 1분기 성장률 1.7%로 주요국 선두권, AI 호황 속 대만 11.9% 급성장",
+      "excerpt": "OECD와 한국은행에 따르면 한국은 올해 1분기 전 분기 대비 1.7% 성장해 중국·미국·인도네시아를 앞섰고, AI 호황 수혜 기대와 반도체 의존 우려가 함께 제기됐다.",
+      "body": "한국 경제가 올해 1분기(1~3월) 전 분기 대비 1.7% 성장하며 주요국 가운데 최상위권에 오른 것으로 나타났다. 12일 경제협력개발기구(OECD)와 한국은행에 따르면 한국의 성장률은 인도네시아 1.4%, 중국 1.3%, 미국 0.5%를 웃돌았다. 이날까지 1분기 성장률을 발표해 OECD에 공개한 주요 22개국 중 한국이 가장 높았고, 1%를 넘긴 국가는 한국을 포함해 3개국뿐이었다. 반면 아일랜드는 -2.0%를 기록하는 등 5개국은 전 분기 대비 역성장했다. 대만은 11.9%의 높은 성장률을 보였다. 골드만삭스는 인공지능(AI) 호황으로 한국과 대만이 큰 경제 수혜를 받을 것으로 전망했다. 다만 반도체 산업 의존 확대에 따른 업종 간 양극화, 고유가에 따른 물가 상승과 경기 악화 우려도 제기된다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Korea’s Q1 Growth Hits 1.7%, Beating China as Taiwan Surges 11.9%",
+      "excerpt": "According to the OECD and the Bank of Korea, Korea grew 1.7% quarter on quarter in Q1, outpacing China, the U.S. and Indonesia amid AI-led optimism and chip-sector concerns.",
+      "body": "Korea’s economy grew 1.7% quarter on quarter in the first quarter of this year, placing it among the top performers among major economies. According to the OECD and the Bank of Korea on the 12th, Korea’s growth rate exceeded Indonesia’s 1.4%, China’s 1.3% and the United States’ 0.5%. Among 22 major countries that had reported first-quarter growth to the OECD by that day, Korea posted the highest rate, and only three countries, including Korea, exceeded 1%. Five countries recorded negative quarter-on-quarter growth, including Ireland at -2.0%. Taiwan posted rapid growth of 11.9%. Goldman Sachs forecast that Korea and Taiwan would be among the biggest economic beneficiaries of the artificial intelligence boom. However, concerns remain over widening industry polarization from heavier reliance on semiconductors, as well as inflation and weaker activity linked to high oil prices. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "韓国の1～3月成長率1.7%、中国を上回る　台湾は11.9%の高成長",
+      "excerpt": "OECDと韓国銀行によると、韓国の1～3月期成長率は前期比1.7%となり、中国・米国・インドネシアを上回った。AI需要の恩恵期待と半導体依存への懸念が並ぶ。",
+      "body": "韓国経済は今年1～3月期に前期比1.7%成長し、主要国の中で最上位圏に入った。12日、経済協力開発機構（OECD）と韓国銀行によると、韓国の成長率はインドネシアの1.4%、中国の1.3%、米国の0.5%を上回った。同日までに1～3月期成長率を発表しOECDに公開した主要22カ国の中で韓国が最も高く、1%を超えた国は韓国を含め3カ国にとどまった。一方、アイルランドは-2.0%となるなど5カ国が前期比でマイナス成長を記録した。台湾は11.9%の高成長を示した。ゴールドマン・サックスは、人工知能（AI）ブームにより韓国と台湾が大きな経済的恩恵を受けると見通した。ただし、半導体産業への依存拡大による業種間の二極化、高油価に伴う物価上昇と景気悪化への懸念も出ている。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "韩国一季度增长1.7%领先主要经济体，台湾增速达11.9%",
+      "excerpt": "据OECD和韩国银行，韩国今年一季度环比增长1.7%，高于中国、美国和印尼；AI热潮带来受益预期，但半导体依赖和油价压力也引发担忧。",
+      "body": "韩国经济今年第一季度（1月至3月）环比增长1.7%，在主要经济体中位居前列。12日，据经济合作与发展组织（OECD）和韩国银行数据，韩国增速高于印尼的1.4%、中国的1.3%和美国的0.5%。截至当天，在已公布并向OECD披露一季度经济增长率的22个主要国家中，韩国增速最高；增长率超过1%的国家仅有3个，包括韩国在内。与此同时，爱尔兰录得-2.0%，共有5个国家环比负增长。台湾则实现11.9%的高增长。高盛预计，受人工智能（AI）热潮推动，韩国和台湾将获得较大的经济收益。不过，半导体产业依赖度上升可能加剧行业分化，高油价带来的物价上涨和经济恶化风险也受到关注。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Corea crece 1,7% en el primer trimestre y supera a China; Taiwán avanza 11,9%",
+      "excerpt": "Según la OCDE y el Banco de Corea, Corea creció 1,7% intertrimestral en el primer trimestre, por encima de China, EE. UU. e Indonesia, entre expectativas por la IA y riesgos por chips y petróleo.",
+      "body": "La economía de Corea creció un 1,7% intertrimestral en el primer trimestre de este año, de enero a marzo, y se situó entre las más dinámicas de las principales economías. Según la OCDE y el Banco de Corea el día 12, la tasa coreana superó el 1,4% de Indonesia, el 1,3% de China y el 0,5% de Estados Unidos. Entre los 22 países principales que habían publicado y comunicado a la OCDE sus datos del primer trimestre hasta esa fecha, Corea registró el mayor crecimiento; solo tres países, incluida Corea, superaron el 1%. En contraste, cinco países tuvieron contracción intertrimestral, entre ellos Irlanda con -2,0%. Taiwán mostró un fuerte crecimiento del 11,9%. Goldman Sachs prevé que Corea y Taiwán estén entre los mayores beneficiarios económicos del auge de la inteligencia artificial. Aun así, existen preocupaciones por una mayor dependencia de los semiconductores, la polarización entre sectores y el posible deterioro económico por inflación asociada al alto precio del petróleo. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Coreia cresce 1,7% no 1º trimestre e supera China; Taiwan avança 11,9%",
+      "excerpt": "Segundo a OCDE e o Banco da Coreia, a Coreia cresceu 1,7% ante o trimestre anterior, acima de China, EUA e Indonésia, com expectativas ligadas à IA e riscos por chips e petróleo.",
+      "body": "A economia da Coreia cresceu 1,7% no primeiro trimestre deste ano, de janeiro a março, em relação ao trimestre anterior, ficando entre as líderes das principais economias. Segundo a OCDE e o Banco da Coreia no dia 12, o resultado superou os 1,4% da Indonésia, os 1,3% da China e os 0,5% dos Estados Unidos. Entre os 22 principais países que haviam divulgado e informado à OCDE seus dados do primeiro trimestre até essa data, a Coreia registrou a maior taxa; apenas três países, incluindo a Coreia, passaram de 1%. Por outro lado, cinco países tiveram contração, incluindo a Irlanda, com -2,0%. Taiwan apresentou forte crescimento de 11,9%. O Goldman Sachs prevê que Coreia e Taiwan estarão entre os maiores beneficiados econômicos pelo avanço da inteligência artificial. Ainda assim, há preocupações com a maior dependência de semicondutores, a polarização entre setores e a possível piora da atividade diante da inflação causada pelo petróleo caro. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Korea wächst im ersten Quartal um 1,7% und liegt vor China; Taiwan bei 11,9%",
+      "excerpt": "Laut OECD und Bank of Korea wuchs Korea im ersten Quartal um 1,7% gegenüber dem Vorquartal und übertraf China, die USA und Indonesien; KI-Hoffnungen treffen auf Chip- und Ölpreisrisiken.",
+      "body": "Die koreanische Wirtschaft ist im ersten Quartal dieses Jahres von Januar bis März gegenüber dem Vorquartal um 1,7% gewachsen und zählt damit zu den stärksten großen Volkswirtschaften. Nach Angaben der OECD und der Bank of Korea vom 12. lag Korea vor Indonesien mit 1,4%, China mit 1,3% und den Vereinigten Staaten mit 0,5%. Unter den 22 wichtigen Ländern, die bis zu diesem Tag ihre Wachstumszahlen für das erste Quartal veröffentlicht und der OECD gemeldet hatten, verzeichnete Korea den höchsten Wert. Nur drei Länder, darunter Korea, kamen über 1%. Fünf Länder schrumpften dagegen im Quartalsvergleich, darunter Irland mit -2,0%. Taiwan erzielte ein starkes Wachstum von 11,9%. Goldman Sachs erwartet, dass Korea und Taiwan durch den Boom der künstlichen Intelligenz besonders stark wirtschaftlich profitieren. Zugleich gibt es Sorgen über eine wachsende Abhängigkeit von der Halbleiterindustrie, eine stärkere Spaltung zwischen Branchen sowie Inflation und Konjunkturrisiken durch hohe Ölpreise. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "La Corée croît de 1,7% au 1er trimestre, devant la Chine; Taïwan bondit de 11,9%",
+      "excerpt": "Selon l’OCDE et la Banque de Corée, la Corée a progressé de 1,7% au premier trimestre, devant la Chine, les États-Unis et l’Indonésie, entre espoirs liés à l’IA et risques sectoriels.",
+      "body": "L’économie coréenne a progressé de 1,7% au premier trimestre de cette année, de janvier à mars, par rapport au trimestre précédent, se plaçant parmi les meilleures performances des grandes économies. Selon l’OCDE et la Banque de Corée le 12, ce taux dépasse ceux de l’Indonésie à 1,4%, de la Chine à 1,3% et des États-Unis à 0,5%. Parmi les 22 grands pays ayant publié et transmis à l’OCDE leurs chiffres du premier trimestre à cette date, la Corée affichait le taux le plus élevé; seuls trois pays, dont la Corée, ont dépassé 1%. À l’inverse, cinq pays ont reculé en rythme trimestriel, dont l’Irlande à -2,0%. Taïwan a enregistré une forte croissance de 11,9%. Goldman Sachs estime que la Corée et Taïwan devraient compter parmi les principaux bénéficiaires économiques de l’essor de l’intelligence artificielle. Toutefois, des inquiétudes persistent sur la dépendance accrue aux semi-conducteurs, la polarisation entre secteurs et les risques d’inflation et de ralentissement liés aux prix élevés du pétrole. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "نمو كوريا 1.7% في الربع الأول يتجاوز الصين وتايوان تسجل 11.9%",
+      "excerpt": "وفق منظمة التعاون الاقتصادي وبنك كوريا، نما اقتصاد كوريا 1.7% في الربع الأول مقارنة بالربع السابق، متقدما على الصين والولايات المتحدة وإندونيسيا وسط آمال الذكاء الاصطناعي ومخاوف الرقائق.",
+      "body": "سجل اقتصاد كوريا نموا بنسبة 1.7% في الربع الأول من هذا العام، من يناير إلى مارس، مقارنة بالربع السابق، ليحل في مقدمة الاقتصادات الرئيسية. ووفقا لمنظمة التعاون الاقتصادي والتنمية وبنك كوريا في 12 من الشهر، تجاوز معدل كوريا نمو إندونيسيا البالغ 1.4% والصين 1.3% والولايات المتحدة 0.5%. ومن بين 22 دولة رئيسية أعلنت حتى ذلك اليوم بيانات نمو الربع الأول وقدمتها إلى المنظمة، سجلت كوريا أعلى معدل، ولم تتجاوز نسبة 1% سوى ثلاث دول من بينها كوريا. في المقابل، انكمشت خمس دول مقارنة بالربع السابق، منها أيرلندا عند -2.0%. وسجلت تايوان نموا مرتفعا بلغ 11.9%. وتوقعت غولدمان ساكس أن تكون كوريا وتايوان من أكبر المستفيدين اقتصاديا من ازدهار الذكاء الاصطناعي. لكن المخاوف قائمة من اتساع الاعتماد على صناعة أشباه الموصلات، وزيادة التباين بين القطاعات، وارتفاع التضخم وتدهور النشاط بسبب أسعار النفط المرتفعة. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "पहली तिमाही में कोरिया की वृद्धि 1.7%, चीन से आगे; ताइवान 11.9%",
+      "excerpt": "OECD और बैंक ऑफ कोरिया के अनुसार, कोरिया की अर्थव्यवस्था पहली तिमाही में तिमाही आधार पर 1.7% बढ़ी और चीन, अमेरिका व इंडोनेशिया से आगे रही; AI उछाल के लाभ और चिप निर्भरता की चिंताएं साथ रहीं।",
+      "body": "कोरिया की अर्थव्यवस्था इस वर्ष पहली तिमाही, जनवरी से मार्च, में पिछली तिमाही की तुलना में 1.7% बढ़ी और प्रमुख अर्थव्यवस्थाओं में शीर्ष स्तर पर रही। 12 तारीख को OECD और बैंक ऑफ कोरिया के अनुसार, कोरिया की वृद्धि दर इंडोनेशिया के 1.4%, चीन के 1.3% और अमेरिका के 0.5% से अधिक रही। उस दिन तक जिन 22 प्रमुख देशों ने पहली तिमाही की वृद्धि दर घोषित कर OECD को उपलब्ध कराई थी, उनमें कोरिया सबसे आगे था। 1% से अधिक वृद्धि दर्ज करने वाले देश केवल तीन थे, जिनमें कोरिया शामिल है। इसके विपरीत, आयरलैंड में -2.0% सहित पांच देशों में तिमाही आधार पर नकारात्मक वृद्धि रही। ताइवान ने 11.9% की तेज वृद्धि दर्ज की। गोल्डमैन सैक्स ने अनुमान लगाया कि कृत्रिम बुद्धिमत्ता के उछाल से कोरिया और ताइवान को बड़ा आर्थिक लाभ मिलेगा। फिर भी, सेमीकंडक्टर उद्योग पर बढ़ती निर्भरता से क्षेत्रों के बीच असमानता, ऊंचे तेल दामों से महंगाई और आर्थिक कमजोरी की चिंताएं बनी हुई हैं। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Pertumbuhan Korea Kuartal I 1,7% Lampaui China, Taiwan Melonjak 11,9%",
+      "excerpt": "Menurut OECD dan Bank of Korea, ekonomi Korea tumbuh 1,7% secara kuartalan pada kuartal I, melampaui China, AS, dan Indonesia, di tengah harapan dari boom AI serta kekhawatiran sektor chip dan minyak.",
+      "body": "Ekonomi Korea tumbuh 1,7% pada kuartal pertama tahun ini, Januari hingga Maret, dibandingkan kuartal sebelumnya, menempatkannya di jajaran teratas negara-negara utama. Menurut OECD dan Bank of Korea pada tanggal 12, pertumbuhan Korea melampaui Indonesia 1,4%, China 1,3%, dan Amerika Serikat 0,5%. Dari 22 negara utama yang hingga hari itu telah mengumumkan dan menyampaikan data pertumbuhan kuartal I kepada OECD, Korea mencatat angka tertinggi. Hanya tiga negara, termasuk Korea, yang tumbuh lebih dari 1%. Sebaliknya, lima negara mengalami kontraksi kuartalan, termasuk Irlandia sebesar -2,0%. Taiwan mencatat pertumbuhan tinggi 11,9%. Goldman Sachs memperkirakan Korea dan Taiwan akan menjadi penerima manfaat ekonomi terbesar dari boom kecerdasan buatan. Namun, ada kekhawatiran bahwa ketergantungan yang meningkat pada industri semikonduktor dapat memperlebar polarisasi antarindustri, sementara harga minyak tinggi dapat mendorong inflasi dan memperburuk kondisi ekonomi. Sumber: rss.donga.com"
+    }
+  }
+}
