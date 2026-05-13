@@ -1,5 +1,230 @@
 [
   {
+    "id": "cf8cdb4022d4",
+    "slug": "최고급-시니어-레지던스-소요한남2526일-청약-639815",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T05:35:37.781Z",
+    "updatedAt": "2026-05-13T05:35:37.781Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605133670i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605133670i",
+    "titleFingerprint": "8937ef2275835835fa8c22945032f5f39d00cb6f",
+    "dedupKeys": [
+      "cf8cdb4022d4cb96365ea98c1541e6890c1784a4",
+      "8937ef2275835835fa8c22945032f5f39d00cb6f",
+      "844a0fc9801e772bea211851e24591df504d2e9d"
+    ],
+    "imageUrl": "/images/articles/cf8cdb4022d4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "소요한남 by 파르나스 25~26일 청약, 한남동 하이엔드 시니어 레지던스 공급",
+        "excerpt": "서울 용산구 한남동 하이엔드 시니어 레지던스 ‘소요한남 by 파르나스’가 15일 갤러리 개관 뒤 25~26일 청약을 받아 111가구 공급 일정에 들어간다.",
+        "body": "서울 용산구 한남동에 조성되는 하이엔드 시니어 레지던스 ‘소요한남 by 파르나스’가 5월 15일 갤러리를 열고 본격 공급 일정에 들어간다. 청약 접수는 5월 25~26일 이틀간 진행되며, 당첨자 발표는 27일, 정당계약은 28~30일 예정돼 있다. 단지는 한남대로 730 일원에 지하 5층~지상 7층, 연면적 약 1만6000㎡, 총 111가구 규모로 조성된다. 시공은 포스코이앤씨가 맡았다. 호텔식 서비스와 헬스케어, 주거 기능을 결합한 점이 특징이며 웰컴 로비, 컨시어지, 라이브러리, 티하우스, 다이닝, 피트니스, 사우나, 수영장, 실내 골프연습장 등 부대시설이 계획됐다. 설계는 해안종합건축사사무소, 인테리어는 종킴 디자인 스튜디오, 조경은 서안조경과 디자인 스튜디오 loci가 참여한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Soyo Hannam by Parnas Opens Applications on May 25-26 for Luxury Senior Residence",
+        "excerpt": "Soyo Hannam by Parnas, a high-end senior residence in Hannam-dong, Yongsan-gu, Seoul, will open its gallery on May 15 and take applications on May 25-26 for 111 units.",
+        "body": "Soyo Hannam by Parnas, a high-end senior residence planned in Hannam-dong, Yongsan-gu, Seoul, will open its gallery on May 15 and begin its main supply schedule. Applications will be accepted for two days on May 25-26, winners will be announced on May 27, and formal contracts are scheduled for May 28-30. The complex will be built around 730 Hannam-daero with five basement floors and seven above-ground floors, about 16,000 square meters of gross floor area, and 111 units. POSCO E&C is the contractor. The project combines hotel-style service, healthcare and residential functions, with planned amenities including a welcome lobby, concierge, library, tea house, dining space, fitness area, sauna, swimming pool and indoor golf practice range. Haeahn Architecture is in charge of design, Jongkim Design Studio of interiors, and Seo-Ahn Landscape and design studio loci of landscaping. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソヨ漢南 by パルナス、25〜26日に申込受付　漢南洞の高級シニア住宅",
+        "excerpt": "ソウル龍山区漢南洞の高級シニアレジデンス「ソヨ漢南 by パルナス」は15日にギャラリーを開き、25〜26日に111戸の申込受付を行う。",
+        "body": "ソウル龍山区漢南洞に造成される高級シニアレジデンス「ソヨ漢南 by パルナス」は、5月15日にギャラリーを開設し、本格的な供給日程に入る。申込受付は5月25〜26日の2日間行われ、当選者発表は27日、正式契約は28〜30日に予定されている。施設は漢南大路730一帯に地下5階〜地上7階、延べ面積約1万6000㎡、計111戸規模で造成される。施工はポスコE&Cが担当する。ホテル式サービス、ヘルスケア、住居機能を組み合わせた点が特徴で、ウェルカムロビー、コンシェルジュ、ライブラリー、ティーハウス、ダイニング、フィットネス、サウナ、プール、屋内ゴルフ練習場などの付帯施設が計画されている。設計はヘアン総合建築士事務所、インテリアはジョンキム・デザインスタジオ、造園は西安造景とdesign studio lociが参加する。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Soyo Hannam by Parnas将于25至26日认购，汉南洞高端养老住宅入市",
+        "excerpt": "位于首尔龙山区汉南洞的高端养老住宅“Soyo Hannam by Parnas”将于15日开放展示馆，并在25至26日接受111户认购。",
+        "body": "位于首尔龙山区汉南洞的高端养老住宅“Soyo Hannam by Parnas”将于5月15日开放展示馆，并进入正式供应日程。项目将在5月25日至26日两天接受认购，27日公布中签者，28日至30日进行正式签约。该项目位于汉南大路730一带，规划为地下5层、地上7层，总建筑面积约1.6万平方米，共111户。施工由POSCO E&C负责。项目特点是结合酒店式服务、健康护理和居住功能，计划配置迎宾大堂、礼宾服务、图书空间、茶室、餐饮空间、健身区、桑拿、泳池和室内高尔夫练习场等配套设施。设计由Haeahn Architecture负责，室内由Jongkim Design Studio负责，景观由Seo-Ahn Landscape和design studio loci参与。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Soyo Hannam by Parnas recibirá solicitudes el 25 y 26 de mayo en Seúl",
+        "excerpt": "Soyo Hannam by Parnas, residencia sénior de alta gama en Hannam-dong, Yongsan-gu, abrirá su galería el 15 de mayo y aceptará solicitudes el 25 y 26 para 111 unidades.",
+        "body": "Soyo Hannam by Parnas, residencia sénior de alta gama proyectada en Hannam-dong, Yongsan-gu, Seúl, abrirá su galería el 15 de mayo e iniciará su calendario formal de oferta. Las solicitudes se recibirán durante dos días, el 25 y 26 de mayo; los seleccionados se anunciarán el 27, y los contratos formales están previstos del 28 al 30. El complejo se levantará en el área de 730 Hannam-daero, con cinco plantas subterráneas y siete sobre rasante, una superficie construida de unos 16.000 m² y 111 unidades. La construcción está a cargo de POSCO E&C. El proyecto combina servicios tipo hotel, atención sanitaria y función residencial, con instalaciones previstas como lobby de bienvenida, conserjería, biblioteca, casa de té, comedor, gimnasio, sauna, piscina y campo cubierto de práctica de golf. El diseño corresponde a Haeahn Architecture, los interiores a Jongkim Design Studio y el paisajismo a Seo-Ahn Landscape y design studio loci. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Soyo Hannam by Parnas abre inscrições em 25 e 26 de maio para residência sênior",
+        "excerpt": "A Soyo Hannam by Parnas, residência sênior de alto padrão em Hannam-dong, Yongsan-gu, abrirá galeria em 15 de maio e receberá inscrições em 25 e 26 para 111 unidades.",
+        "body": "A Soyo Hannam by Parnas, residência sênior de alto padrão planejada para Hannam-dong, Yongsan-gu, Seul, abrirá sua galeria em 15 de maio e iniciará o cronograma formal de oferta. As inscrições serão recebidas por dois dias, em 25 e 26 de maio; os contemplados serão anunciados no dia 27, e os contratos formais estão previstos para 28 a 30 de maio. O empreendimento será construído na região de 730 Hannam-daero, com cinco subsolos e sete pavimentos acima do solo, área bruta de cerca de 16.000 m² e 111 unidades. A construção ficará a cargo da POSCO E&C. O projeto combina serviço de hotel, saúde e moradia, com instalações planejadas como lobby de boas-vindas, concierge, biblioteca, casa de chá, área de refeições, fitness, sauna, piscina e campo interno de prática de golfe. O projeto é da Haeahn Architecture, os interiores da Jongkim Design Studio e o paisagismo da Seo-Ahn Landscape e da design studio loci. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Soyo Hannam by Parnas nimmt am 25. und 26. Mai Bewerbungen für Senior Residence an",
+        "excerpt": "Soyo Hannam by Parnas, eine hochwertige Seniorenresidenz in Hannam-dong, Yongsan-gu, Seoul, eröffnet am 15. Mai die Galerie und nimmt am 25. und 26. Mai Bewerbungen für 111 Einheiten an.",
+        "body": "Soyo Hannam by Parnas, eine hochwertige Seniorenresidenz in Hannam-dong im Seouler Bezirk Yongsan-gu, eröffnet am 15. Mai ihre Galerie und startet damit den offiziellen Angebotsplan. Bewerbungen werden am 25. und 26. Mai entgegengenommen, die Gewinner werden am 27. Mai bekannt gegeben, und die regulären Vertragsabschlüsse sind für den 28. bis 30. Mai vorgesehen. Der Komplex entsteht im Bereich 730 Hannam-daero mit fünf Untergeschossen, sieben oberirdischen Etagen, rund 16.000 Quadratmetern Bruttogeschossfläche und insgesamt 111 Einheiten. Bauausführer ist POSCO E&C. Das Projekt verbindet hotelähnliche Services, Gesundheitsbetreuung und Wohnen. Geplant sind unter anderem Welcome Lobby, Concierge, Bibliothek, Teehaus, Dining-Bereich, Fitness, Sauna, Schwimmbad und Indoor-Golfübungsanlage. Die Planung übernimmt Haeahn Architecture, das Interior Design Jongkim Design Studio, die Landschaftsgestaltung Seo-Ahn Landscape und design studio loci. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Soyo Hannam by Parnas ouvrira les candidatures les 25 et 26 mai à Séoul",
+        "excerpt": "Soyo Hannam by Parnas, résidence senior haut de gamme à Hannam-dong, Yongsan-gu, ouvrira sa galerie le 15 mai et recevra les candidatures les 25 et 26 mai pour 111 logements.",
+        "body": "Soyo Hannam by Parnas, résidence senior haut de gamme prévue à Hannam-dong, dans l’arrondissement de Yongsan-gu à Séoul, ouvrira sa galerie le 15 mai et lancera son calendrier officiel de commercialisation. Les candidatures seront reçues pendant deux jours, les 25 et 26 mai; les bénéficiaires seront annoncés le 27, et les contrats officiels sont prévus du 28 au 30 mai. Le complexe sera construit autour du 730 Hannam-daero, avec cinq niveaux en sous-sol, sept étages au-dessus du sol, environ 16.000 m² de surface de plancher et 111 logements. La construction est confiée à POSCO E&C. Le projet associe services hôteliers, soins de santé et fonction résidentielle, avec des équipements prévus tels qu’un hall d’accueil, une conciergerie, une bibliothèque, une maison de thé, un espace de restauration, une salle de fitness, un sauna, une piscine et un practice de golf intérieur. La conception est assurée par Haeahn Architecture, les intérieurs par Jongkim Design Studio, et le paysage par Seo-Ahn Landscape et design studio loci. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سويو هانام by Parnas يفتح طلبات الاشتراك يومي 25 و26 مايو في سيول",
+        "excerpt": "سيفتتح مشروع سويو هانام by Parnas، وهو سكن فاخر لكبار السن في هانام-دونغ بمنطقة يونغسان في سيول، معرضه في 15 مايو ويتلقى طلبات 111 وحدة يومي 25 و26 مايو.",
+        "body": "يفتتح مشروع سويو هانام by Parnas، وهو سكن فاخر لكبار السن يجري تطويره في هانام-دونغ بمنطقة يونغسان في سيول، معرضه في 15 مايو ويدخل جدول الطرح الرسمي. وسيتم تلقي طلبات الاشتراك على مدى يومين في 25 و26 مايو، على أن يعلن الفائزون في 27 مايو، وتتم العقود الرسمية بين 28 و30 مايو. يقع المشروع في محيط 730 هانام-دايرو، ويتكون من خمسة طوابق تحت الأرض وسبعة طوابق فوقها، بمساحة إجمالية تقارب 16 ألف متر مربع و111 وحدة. تتولى POSCO E&C أعمال البناء. ويتميز المشروع بجمعه بين خدمات فندقية ورعاية صحية ووظيفة سكنية، مع مرافق مخطط لها تشمل بهوا للاستقبال، وخدمة كونسيرج، ومكتبة، وبيت شاي، ومساحة طعام، وناديا للياقة، وساونا، ومسبحا، ومرفقا داخليا لممارسة الغولف. تتولى Haeahn Architecture التصميم، وJongkim Design Studio التصميم الداخلي، وتشارك Seo-Ahn Landscape وdesign studio loci في تنسيق المساحات الخارجية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Soyo Hannam by Parnas में 25-26 मई को आवेदन, हन्नाम-डोंग में लक्जरी सीनियर निवास",
+        "excerpt": "सियोल के योंगसान-गु, हन्नाम-डोंग में हाई-एंड सीनियर रेजिडेंस Soyo Hannam by Parnas 15 मई को गैलरी खोलेगा और 111 यूनिटों के लिए 25-26 मई को आवेदन लेगा।",
+        "body": "सियोल के योंगसान-गु स्थित हन्नाम-डोंग में बनने वाला हाई-एंड सीनियर रेजिडेंस Soyo Hannam by Parnas 15 मई को अपनी गैलरी खोलेगा और औपचारिक आपूर्ति कार्यक्रम शुरू करेगा। आवेदन 25 और 26 मई को दो दिनों तक लिए जाएंगे, चयनित आवेदकों की घोषणा 27 मई को होगी और नियमित अनुबंध 28 से 30 मई के बीच होने हैं। यह परिसर 730 Hannam-daero के आसपास बनेगा, जिसमें पांच भूमिगत तल, सात भूतल से ऊपर के तल, लगभग 16,000 वर्ग मीटर कुल फ्लोर एरिया और 111 यूनिटें होंगी। निर्माण POSCO E&C कर रही है। परियोजना की विशेषता होटल-शैली सेवा, हेल्थकेयर और आवासीय सुविधा का संयोजन है। इसमें वेलकम लॉबी, कंसीयर्ज, लाइब्रेरी, टी हाउस, डाइनिंग, फिटनेस, सॉना, स्विमिंग पूल और इनडोर गोल्फ प्रैक्टिस रेंज जैसी सुविधाएं प्रस्तावित हैं। डिजाइन Haeahn Architecture, इंटीरियर Jongkim Design Studio और लैंडस्केप Seo-Ahn Landscape तथा design studio loci संभाल रहे हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Soyo Hannam by Parnas Buka Pendaftaran 25-26 Mei untuk Hunian Senior Mewah",
+        "excerpt": "Soyo Hannam by Parnas, hunian senior kelas atas di Hannam-dong, Yongsan-gu, Seoul, akan membuka galeri pada 15 Mei dan menerima pendaftaran 111 unit pada 25-26 Mei.",
+        "body": "Soyo Hannam by Parnas, hunian senior kelas atas yang dikembangkan di Hannam-dong, Yongsan-gu, Seoul, akan membuka galeri pada 15 Mei dan memulai jadwal pasokan resminya. Pendaftaran akan diterima selama dua hari pada 25-26 Mei, pemenang diumumkan pada 27 Mei, dan kontrak resmi dijadwalkan pada 28-30 Mei. Kompleks ini dibangun di kawasan 730 Hannam-daero dengan lima lantai bawah tanah, tujuh lantai di atas tanah, luas lantai sekitar 16.000 m², dan total 111 unit. Konstruksi dikerjakan oleh POSCO E&C. Proyek ini menggabungkan layanan bergaya hotel, layanan kesehatan, dan fungsi hunian, dengan fasilitas yang direncanakan seperti lobi penyambutan, concierge, perpustakaan, tea house, ruang makan, fitness, sauna, kolam renang, dan area latihan golf dalam ruangan. Desain ditangani Haeahn Architecture, interior oleh Jongkim Design Studio, serta lanskap oleh Seo-Ahn Landscape dan design studio loci. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "aabaf48e2b0f",
+    "slug": "단독-양도세-절반-줄여정용진-다주택자-중과-시행-사흘-전-한남동-고급주택-매각-390314",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T05:34:09.409Z",
+    "updatedAt": "2026-05-13T05:34:09.409Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12046060",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12046060",
+    "titleFingerprint": "be65f18a2f9997f980ca48647a929b3efb2c45ab",
+    "dedupKeys": [
+      "aabaf48e2b0fdd32b21187366290b944df0723b3",
+      "be65f18a2f9997f980ca48647a929b3efb2c45ab",
+      "ffb4ab5edbcd2776246a3f6575efe2497f5c29a9"
+    ],
+    "imageUrl": "/images/articles/aabaf48e2b0f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "정용진 한남동 고급주택 매각, 다주택자 양도세 중과 시행 사흘 전 절세 효과",
+        "excerpt": "정용진이 2018년 모친 이명희 회장에게 161억 원에 매입한 한남동 단독주택을 지난 6일 부영주택에 255억 원에 매각하며 양도세 중과 유예 종료 전 정리했다.",
+        "body": "정용진은 다주택자 양도세 중과 유예 종료를 사흘 앞둔 지난 6일 서울 한남동 고급 단독주택을 부영주택에 255억 원에 매각했다. 해당 주택은 2018년 모친 이명희 회장에게 161억 원에 매입한 부동산으로, 매각 시점은 9일 중과 유예 마감 직전이었다. 원문에 따르면 이번 거래로 중과 세액과 비교해 절반가량의 세액을 줄인 것으로 파악됐다. 매입가와 매각가 차이는 94억 원이며, 다주택자 양도세 중과 적용 여부가 고가 주택 처분 시점에 영향을 준 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Chung Yong-jin Sells Hannam-dong Luxury Home Days Before Multi-Home Capital Gains Tax Deadline",
+        "excerpt": "Chung Yong-jin sold a Hannam-dong detached luxury home to Booyoung Housing for 25.5 billion won on the 6th, after buying it from his mother Lee Myung-hee in 2018 for 16.1 billion won.",
+        "body": "Chung Yong-jin sold a luxury detached house in Seoul’s Hannam-dong to Booyoung Housing for 25.5 billion won on the 6th, three days before the grace period for heavier capital gains tax on multiple-home owners ended. He had purchased the property in 2018 from his mother, Chairwoman Lee Myung-hee, for 16.1 billion won. The sale was completed just before the 9th deadline for the tax surcharge deferral. According to the original report, the transaction reduced the tax burden by about half compared with the surcharge amount. The gap between purchase and sale prices was 9.4 billion won. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "鄭溶鎮氏、漢南洞高級住宅を売却　多住宅者譲渡税重課の施行3日前に整理",
+        "excerpt": "鄭溶鎮氏は2018年に母の李明熙会長から161億ウォンで購入した漢南洞の一戸建て住宅を、6日に富栄住宅へ255億ウォンで売却した。",
+        "body": "鄭溶鎮氏は、多住宅者に対する譲渡所得税の重課猶予終了を3日後に控えた6日、ソウル・漢南洞の高級一戸建て住宅を富栄住宅に255億ウォンで売却した。この住宅は2018年に母の李明熙会長から161億ウォンで購入した不動産で、売却時点は9日の重課猶予期限直前だった。原文によると、今回の取引により重課税額と比べて税額を約半分減らしたとされる。購入額と売却額の差は94億ウォンで、高額住宅の処分時期に税制が影響した事例として受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "郑溶镇出售汉南洞高端住宅，赶在多房者转让税重课实施前三天",
+        "excerpt": "郑溶镇于6日将2018年从母亲李明熙会长处以161亿韩元购入的汉南洞独栋住宅，以255亿韩元出售给富荣住宅。",
+        "body": "郑溶镇在多房者转让所得税重课缓期结束前三天的6日，将首尔汉南洞一处高端独栋住宅以255亿韩元出售给富荣住宅。该住宅是他于2018年从母亲李明熙会长处以161亿韩元购入的房产，出售时间正好在9日重课缓期截止前。原文称，与适用重课税额相比，此次交易约减少了一半税负。买入价与卖出价相差94亿韩元。该案例显示，多房者转让税重课是否适用，可能影响高价住宅的处置时点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Chung Yong-jin vende vivienda de lujo en Hannam-dong antes del recargo fiscal a multipropietarios",
+        "excerpt": "Chung Yong-jin vendió el día 6 a Booyoung Housing una casa unifamiliar en Hannam-dong por 25.500 millones de wones, comprada en 2018 a su madre Lee Myung-hee por 16.100 millones.",
+        "body": "Chung Yong-jin vendió el día 6 una vivienda unifamiliar de lujo en Hannam-dong, Seúl, a Booyoung Housing por 25.500 millones de wones, tres días antes de que terminara la moratoria del recargo del impuesto a las ganancias de capital para multipropietarios. Había comprado la propiedad en 2018 a su madre, la presidenta Lee Myung-hee, por 16.100 millones de wones. La operación se cerró justo antes del plazo del día 9. Según el texto original, la venta redujo el impuesto aproximadamente a la mitad frente al monto con recargo. La diferencia entre compra y venta fue de 9.400 millones de wones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chung Yong-jin vende casa de luxo em Hannam-dong antes de sobretaxa sobre ganhos imobiliários",
+        "excerpt": "Chung Yong-jin vendeu no dia 6 à Booyoung Housing uma casa em Hannam-dong por 25,5 bilhões de won, após comprá-la em 2018 de sua mãe Lee Myung-hee por 16,1 bilhões.",
+        "body": "Chung Yong-jin vendeu no dia 6 uma casa de luxo em Hannam-dong, Seul, à Booyoung Housing por 25,5 bilhões de won, três dias antes do fim da suspensão da sobretaxa sobre ganhos de capital para proprietários de vários imóveis. Ele havia comprado o imóvel em 2018 de sua mãe, a presidente Lee Myung-hee, por 16,1 bilhões de won. A venda ocorreu pouco antes do prazo final do dia 9. Segundo o texto original, a operação reduziu o imposto em cerca de metade em comparação com o valor sujeito à sobretaxa. A diferença entre compra e venda foi de 9,4 bilhões de won. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Chung Yong-jin verkauft Luxushaus in Hannam-dong kurz vor höherer Steuer für Mehrfachbesitzer",
+        "excerpt": "Chung Yong-jin verkaufte am 6. ein Einfamilienhaus in Hannam-dong für 25,5 Mrd. Won an Booyoung Housing, nachdem er es 2018 von seiner Mutter Lee Myung-hee für 16,1 Mrd. Won gekauft hatte.",
+        "body": "Chung Yong-jin hat am 6. ein luxuriöses Einfamilienhaus in Hannam-dong, Seoul, für 25,5 Milliarden Won an Booyoung Housing verkauft, drei Tage vor Ablauf der Aussetzung der erhöhten Kapitalertragsteuer für Eigentümer mehrerer Wohnungen. Er hatte die Immobilie 2018 von seiner Mutter, der Vorsitzenden Lee Myung-hee, für 16,1 Milliarden Won erworben. Der Verkauf erfolgte unmittelbar vor der Frist am 9. Dem Originalbericht zufolge sank die Steuerlast gegenüber dem Betrag mit Zuschlag um etwa die Hälfte. Zwischen Kauf- und Verkaufspreis liegen 9,4 Milliarden Won. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Chung Yong-jin cède une maison de luxe à Hannam-dong avant la surtaxe sur les multipropriétaires",
+        "excerpt": "Chung Yong-jin a vendu le 6 à Booyoung Housing une maison individuelle de Hannam-dong pour 25,5 milliards de wons, achetée en 2018 à sa mère Lee Myung-hee pour 16,1 milliards.",
+        "body": "Chung Yong-jin a vendu le 6 une maison individuelle de luxe située à Hannam-dong, Séoul, à Booyoung Housing pour 25,5 milliards de wons, trois jours avant la fin du report de la surtaxe sur les plus-values immobilières visant les multipropriétaires. Il avait acheté ce bien en 2018 à sa mère, la présidente Lee Myung-hee, pour 16,1 milliards de wons. La vente est intervenue juste avant l’échéance du 9. Selon le texte original, l’opération aurait réduit l’impôt d’environ moitié par rapport au montant majoré. L’écart entre achat et revente atteint 9,4 milliards de wons. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تشونغ يونغ-جين يبيع منزلا فاخرا في هانام-دونغ قبل تشديد ضريبة أرباح الملاك المتعددين",
+        "excerpt": "باع تشونغ يونغ-جين في اليوم السادس منزلا منفصلا في هانام-دونغ إلى بويوoung هاوسينغ مقابل 25.5 مليار وون، بعدما اشتراه في 2018 من والدته لي ميونغ-هي مقابل 16.1 مليار وون.",
+        "body": "باع تشونغ يونغ-جين في اليوم السادس منزلا فاخرا منفصلا في هانام-دونغ بسول إلى بويوoung هاوسينغ مقابل 25.5 مليار وون، قبل ثلاثة أيام من انتهاء مهلة تعليق الضريبة الإضافية على أرباح بيع العقارات لأصحاب المنازل المتعددة. وكان قد اشترى العقار في عام 2018 من والدته، الرئيسة لي ميونغ-هي، مقابل 16.1 مليار وون. وجاء البيع قبل موعد التاسع من الشهر مباشرة. ووفق النص الأصلي، خفّضت الصفقة العبء الضريبي بنحو النصف مقارنة بمبلغ الضريبة المشددة. وبلغ الفرق بين سعر الشراء والبيع 9.4 مليار وون. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चुंग योंग-जिन ने बहु-आवास पूंजीगत लाभ कर बढ़ोतरी से तीन दिन पहले हाननाम-डोंग घर बेचा",
+        "excerpt": "चुंग योंग-जिन ने 6 तारीख को हाननाम-डोंग का स्वतंत्र घर 25.5 अरब वॉन में बूयंग हाउसिंग को बेचा, जिसे उन्होंने 2018 में अपनी मां ली म्युंग-ही से 16.1 अरब वॉन में खरीदा था।",
+        "body": "चुंग योंग-जिन ने बहु-आवास मालिकों पर पूंजीगत लाभ कर की अतिरिक्त दर की छूट समाप्त होने से तीन दिन पहले, 6 तारीख को सियोल के हाननाम-डोंग स्थित लक्जरी स्वतंत्र घर को बूयंग हाउसिंग को 25.5 अरब वॉन में बेच दिया। उन्होंने यह संपत्ति 2018 में अपनी मां, चेयरवुमन ली म्युंग-ही, से 16.1 अरब वॉन में खरीदी थी। बिक्री 9 तारीख की समयसीमा से ठीक पहले हुई। मूल रिपोर्ट के अनुसार, इस सौदे से अतिरिक्त कर लागू होने की तुलना में कर बोझ लगभग आधा घटा। खरीद और बिक्री मूल्य का अंतर 9.4 अरब वॉन रहा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Chung Yong-jin Jual Rumah Mewah Hannam-dong Sebelum Pajak Capital Gain Multi-Rumah Berlaku",
+        "excerpt": "Chung Yong-jin menjual rumah tunggal di Hannam-dong kepada Booyoung Housing pada tanggal 6 senilai 25,5 miliar won, setelah membelinya dari ibunya Lee Myung-hee pada 2018 seharga 16,1 miliar won.",
+        "body": "Chung Yong-jin menjual rumah tunggal mewah di Hannam-dong, Seoul, kepada Booyoung Housing pada tanggal 6 senilai 25,5 miliar won, tiga hari sebelum masa penangguhan pajak capital gain tambahan bagi pemilik banyak rumah berakhir. Properti itu dibeli pada 2018 dari ibunya, Ketua Lee Myung-hee, seharga 16,1 miliar won. Penjualan dilakukan tepat sebelum tenggat tanggal 9. Menurut teks asli, transaksi ini mengurangi beban pajak sekitar setengah dibandingkan jumlah pajak dengan tambahan. Selisih harga beli dan jual mencapai 9,4 miliar won. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b9911cc80e37",
+    "slug": "창원-메트로시티-자산-데시앙-최고-6125대-1-경쟁률-기록-525843",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T05:33:05.313Z",
+    "updatedAt": "2026-05-13T05:33:05.313Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12046092",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12046092",
+    "titleFingerprint": "e31968f0751d1f800309847c17df145600ff8cc7",
+    "dedupKeys": [
+      "b9911cc80e3790a3080295e5a329bdda10d20970",
+      "e31968f0751d1f800309847c17df145600ff8cc7",
+      "b0d99f25ece74204e40584711184ad44fab6cb95"
+    ],
+    "imageUrl": "/images/articles/b9911cc80e37.jpg",
+    "i18n": {
+      "ko": {
+        "title": "창원 메트로시티 자산 데시앙, 1순위 청약 최고 61.25대 1 기록",
+        "excerpt": "태영건설은 13일 경남 창원시 마산합포구 자산동 ‘메트로시티 자산 데시앙’이 1순위 청약에서 전 타입 마감됐으며 최고 경쟁률 61.25대 1을 기록했다고 밝혔다.",
+        "body": "태영건설은 13일 경남 창원시 마산합포구 자산동 일원에 공급하는 ‘메트로시티 자산 데시앙’이 1순위 청약에서 전 타입 마감에 성공했다고 밝혔다. 한국부동산원 청약홈에 따르면 이 단지는 1순위 청약에서 최고 61.25대 1의 경쟁률을 기록했다. 이번 결과는 창원 마산합포구 자산동에서 공급되는 해당 단지가 청약 접수 단계에서 모든 타입을 마감했다는 점에서 주목된다. 분양 시장에서는 1순위 청약 마감 여부와 최고 경쟁률이 수요 확인의 주요 지표로 활용된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Changwon Metrocity Jasan Desian Closes First-Priority Applications at 61.25:1",
+        "excerpt": "Taeyoung E&C said on May 13 that Metrocity Jasan Desian in Jasan-dong, Masanhappo-gu, Changwon, closed all unit types in first-priority applications, with a peak ratio of 61.25 to 1.",
+        "body": "Taeyoung E&C said on May 13 that ‘Metrocity Jasan Desian,’ supplied in Jasan-dong, Masanhappo-gu, Changwon, South Gyeongsang Province, successfully closed all unit types in first-priority housing applications. According to the Korea Real Estate Board’s CheongyakHome system, the complex recorded a highest competition ratio of 61.25 to 1 in the first-priority round. The result draws attention because every unit type at the project was closed during the subscription stage. In the presale market, whether first-priority applications close and the highest competition ratio are used as key indicators of confirmed demand. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "昌原メトロシティ資産デシアン、1順位申込で最高61.25倍を記録",
+        "excerpt": "泰榮建設は5月13日、慶尚南道昌原市馬山合浦区資産洞の『メトロシティ資産デシアン』が1順位申込で全タイプを締め切り、最高61.25倍を記録したと発表した。",
+        "body": "泰榮建設は5月13日、慶尚南道昌原市馬山合浦区資産洞一帯で供給する『メトロシティ資産デシアン』が、1順位の住宅申込で全タイプの締め切りに成功したと明らかにした。韓国不動産院の申込ホームによると、同団地は1順位申込で最高61.25倍の競争率を記録した。今回の結果は、昌原市馬山合浦区資産洞で供給される同団地が、申込受付段階ですべてのタイプを締め切った点で注目される。分譲市場では、1順位申込の締め切り可否と最高競争率が需要確認の主要指標として活用される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "昌原Metrocity Jasan Desian一顺位认购最高达61.25比1",
+        "excerpt": "泰荣建设5月13日表示，位于庆南昌原市马山合浦区自山洞的“Metrocity Jasan Desian”一顺位认购全部户型售罄，最高竞争率为61.25比1。",
+        "body": "泰荣建设5月13日表示，其在庆尚南道昌原市马山合浦区自山洞一带供应的“Metrocity Jasan Desian”在一顺位认购中成功实现全部户型结束受理。根据韩国房地产院认购平台CheongyakHome，该项目在一顺位认购中录得最高61.25比1的竞争率。此次结果受到关注，因为该项目在认购受理阶段所有户型均完成募集。在韩国预售市场，一顺位认购是否结束以及最高竞争率通常被用作确认需求的重要指标。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Metrocity Jasan Desian en Changwon cierra la primera prioridad con 61,25 a 1",
+        "excerpt": "Taeyoung E&C informó el 13 de mayo que Metrocity Jasan Desian, en Jasan-dong, Masanhappo-gu, Changwon, cerró todos los tipos de vivienda en la suscripción de primera prioridad y alcanzó 61,25 a 1.",
+        "body": "Taeyoung E&C informó el 13 de mayo que ‘Metrocity Jasan Desian’, suministrado en Jasan-dong, Masanhappo-gu, Changwon, provincia de Gyeongsang del Sur, logró cerrar todos los tipos de vivienda en la suscripción de primera prioridad. Según CheongyakHome, el sistema de la Korea Real Estate Board, el complejo registró una competencia máxima de 61,25 a 1 en esa ronda. El resultado llama la atención porque todos los tipos del proyecto quedaron cerrados en la fase de recepción de solicitudes. En el mercado de preventa, el cierre de la primera prioridad y la competencia máxima se usan como indicadores clave de demanda confirmada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Metrocity Jasan Desian em Changwon fecha 1ª prioridade com 61,25 por 1",
+        "excerpt": "A Taeyoung E&C informou em 13 de maio que o Metrocity Jasan Desian, em Jasan-dong, Masanhappo-gu, Changwon, encerrou todos os tipos na inscrição de primeira prioridade, com pico de 61,25 por 1.",
+        "body": "A Taeyoung E&C informou em 13 de maio que o ‘Metrocity Jasan Desian’, oferecido em Jasan-dong, Masanhappo-gu, Changwon, na província de Gyeongsang do Sul, conseguiu encerrar todos os tipos de unidades na inscrição habitacional de primeira prioridade. Segundo o CheongyakHome, da Korea Real Estate Board, o empreendimento registrou concorrência máxima de 61,25 por 1 nessa etapa. O resultado chama atenção porque todos os tipos do projeto foram encerrados ainda na fase de recebimento das inscrições. No mercado de pré-venda, o encerramento da primeira prioridade e a concorrência máxima são usados como indicadores centrais de demanda confirmada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Changwon Metrocity Jasan Desian schließt Erstrang-Bewerbung mit 61,25:1",
+        "excerpt": "Taeyoung E&C teilte am 13. Mai mit, dass Metrocity Jasan Desian in Jasan-dong, Masanhappo-gu, Changwon, alle Wohnungstypen in der Erstrang-Bewerbung schloss und bis zu 61,25:1 erreichte.",
+        "body": "Taeyoung E&C teilte am 13. Mai mit, dass ‘Metrocity Jasan Desian’ in Jasan-dong, Masanhappo-gu, Changwon, Provinz Süd-Gyeongsang, bei den Erstrang-Bewerbungen für Wohnraum alle Einheitstypen erfolgreich geschlossen hat. Nach Angaben von CheongyakHome der Korea Real Estate Board verzeichnete die Anlage in dieser Runde eine höchste Wettbewerbsquote von 61,25 zu 1. Das Ergebnis ist bemerkenswert, weil sämtliche Typen des Projekts bereits in der Bewerbungsphase geschlossen wurden. Im Vorverkaufsmarkt gelten der Abschluss der Erstrang-Bewerbung und die höchste Quote als wichtige Indikatoren für bestätigte Nachfrage. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Metrocity Jasan Desian à Changwon clôt la priorité avec un pic de 61,25 pour 1",
+        "excerpt": "Taeyoung E&C a annoncé le 13 mai que Metrocity Jasan Desian, à Jasan-dong, Masanhappo-gu, Changwon, avait clôturé tous les types en souscription de première priorité, avec un pic de 61,25 pour 1.",
+        "body": "Taeyoung E&C a annoncé le 13 mai que ‘Metrocity Jasan Desian’, proposé à Jasan-dong, Masanhappo-gu, Changwon, dans la province du Gyeongsang du Sud, avait clôturé avec succès tous les types de logements lors de la souscription de première priorité. Selon CheongyakHome, le système de la Korea Real Estate Board, le complexe a enregistré un taux de concurrence maximal de 61,25 pour 1 à cette étape. Ce résultat retient l’attention parce que tous les types du projet ont été clôturés dès la phase de réception des demandes. Sur le marché de la prévente, la clôture en première priorité et le taux maximal servent d’indicateurs clés de la demande confirmée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "متروسيتي جاسان ديشيان في تشانغوون يغلق أولوية الاكتتاب عند 61.25 إلى 1",
+        "excerpt": "أعلنت تايونغ للإنشاءات في 13 مايو أن مشروع متروسيتي جاسان ديشيان في جاسان دونغ، ماسانهابو غو، تشانغوون، أغلق جميع الأنواع في اكتتاب الأولوية الأولى وسجل ذروة 61.25 إلى 1.",
+        "body": "أعلنت تايونغ للإنشاءات في 13 مايو أن مشروع ‘متروسيتي جاسان ديشيان’، المطروح في منطقة جاسان دونغ في ماسانهابو غو بمدينة تشانغوون في مقاطعة غيونغسانغ الجنوبية، نجح في إغلاق جميع أنواع الوحدات ضمن اكتتاب الأولوية الأولى. وبحسب منصة CheongyakHome التابعة لمجلس العقارات الكوري، سجل المشروع أعلى معدل منافسة بلغ 61.25 إلى 1 في تلك المرحلة. وتبرز النتيجة لأن جميع أنواع الوحدات في المشروع أغلقت خلال مرحلة استقبال طلبات الاكتتاب. وفي سوق البيع المسبق، يستخدم إغلاق اكتتاب الأولوية الأولى وأعلى معدل منافسة كمؤشرين رئيسيين على الطلب المؤكد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "चांगवोन Metrocity Jasan Desian में प्रथम प्राथमिकता आवेदन 61.25:1 पर बंद",
+        "excerpt": "Taeyoung E&C ने 13 मई को बताया कि चांगवोन के Masanhappo-gu, Jasan-dong स्थित Metrocity Jasan Desian ने प्रथम प्राथमिकता आवेदन में सभी प्रकार बंद किए और अधिकतम 61.25:1 अनुपात दर्ज किया।",
+        "body": "Taeyoung E&C ने 13 मई को बताया कि दक्षिण ग्योंगसांग प्रांत के चांगवोन शहर में Masanhappo-gu, Jasan-dong क्षेत्र में आपूर्ति किए जा रहे ‘Metrocity Jasan Desian’ ने प्रथम प्राथमिकता आवास आवेदन में सभी यूनिट प्रकार सफलतापूर्वक बंद कर दिए। Korea Real Estate Board के CheongyakHome के अनुसार, इस परिसर ने प्रथम प्राथमिकता चरण में अधिकतम 61.25:1 प्रतिस्पर्धा अनुपात दर्ज किया। यह परिणाम इसलिए ध्यान खींचता है क्योंकि आवेदन स्वीकार करने के चरण में परियोजना के सभी प्रकार बंद हो गए। प्रीसेल बाजार में प्रथम प्राथमिकता आवेदन का बंद होना और उच्चतम प्रतिस्पर्धा अनुपात मांग की पुष्टि के प्रमुख संकेतक माने जाते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Metrocity Jasan Desian Changwon Tutup Prioritas Pertama dengan 61,25 banding 1",
+        "excerpt": "Taeyoung E&C pada 13 Mei menyatakan Metrocity Jasan Desian di Jasan-dong, Masanhappo-gu, Changwon, menutup semua tipe pada pendaftaran prioritas pertama dan mencatat rasio tertinggi 61,25 banding 1.",
+        "body": "Taeyoung E&C pada 13 Mei menyatakan bahwa ‘Metrocity Jasan Desian’, yang dipasok di kawasan Jasan-dong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, berhasil menutup semua tipe unit dalam pendaftaran hunian prioritas pertama. Menurut CheongyakHome milik Korea Real Estate Board, kompleks ini mencatat rasio persaingan tertinggi 61,25 banding 1 pada tahap tersebut. Hasil ini menjadi perhatian karena semua tipe dalam proyek itu tertutup pada tahap penerimaan pendaftaran. Di pasar prapenjualan, penutupan pendaftaran prioritas pertama dan rasio persaingan tertinggi digunakan sebagai indikator utama untuk mengonfirmasi permintaan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "282dd93bdf95",
     "slug": "토마스-헤더윅의-압구정갤러리아百-재건축서울시-건축심의-통과-349631",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Tinggalkan Kenangan dan Raih Hadiah: Ringkasan Laporan Hankyung",
         "excerpt": "Hankyung.com memuat berita berjudul “Tinggalkan kenangan dan dapatkan hadiah”. Informasi yang tersedia belum mencantumkan penyelenggara, jadwal, atau aturan partisipasi.",
         "body": "Hankyung.com melaporkan berita dengan judul “Tinggalkan kenangan dan dapatkan hadiah”. Informasi yang diberikan terbatas pada judul dan sumber, tanpa rincian terkonfirmasi mengenai penyelenggara, periode partisipasi, besaran hadiah, cara pendaftaran, atau wilayah sasaran. Berdasarkan judul, unsur utamanya adalah aktivitas partisipatif untuk meninggalkan kenangan dan pemberian hadiah, tetapi syarat khusus perlu diperiksa melalui teks asli lengkap. Pembaca perlu meninjau panduan resmi dan ketentuan sebelum memutuskan untuk ikut serta. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "08ee0e578003",
-    "slug": "칸막이-높여야-vs-합의-무력화건설업계-갈등-838842",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T14:09:47.734Z",
-    "updatedAt": "2026-05-12T14:09:47.734Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051215921",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051215921",
-    "titleFingerprint": "38bc949faba2baca6429ab36833c668554076528",
-    "dedupKeys": [
-      "08ee0e578003d92e8f312f8e34322dd532f5f597",
-      "38bc949faba2baca6429ab36833c668554076528",
-      "6c278df5437699ab27739f327588707f2016fbe9"
-    ],
-    "imageUrl": "/images/articles/08ee0e578003.jpg",
-    "i18n": {
-      "ko": {
-        "title": "건설업계 업역 칸막이 논쟁 격화…상호시장 개방 합의 둘러싼 종합·전문업계 정면충돌",
-        "excerpt": "건설업계에서 건설산업 생산체계 개편을 둘러싸고 전문건설업계의 업역 칸막이 복원 요구와 종합건설업계의 합의 무력화 비판이 맞서며 갈등이 커지고 있다.",
-        "body": "건설업계에서 건설산업 생산체계 개편, 즉 종합·전문건설업 간 상호시장 개방을 둘러싼 갈등이 커지고 있다. 전문건설업계는 영세업체 보호를 이유로 업역 칸막이를 다시 높여야 한다는 입장을 내고 있고, 종합건설업계는 이를 2018년 정부와 업계가 합의한 생산체계 개편을 무력화하는 시도라고 반발하고 있다. 이 제도는 40년 넘게 유지된 종합·전문 업역 구분을 완화하기 위해 도입됐다. 갈등이 이어지면 공사 수주 구조와 업체 간 경쟁 방식에 영향을 줄 수 있어 정부의 제도 운용 방향이 주목된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Construction Industry Clash Deepens Over Trade Barriers and Mutual Market Access Deal",
-        "excerpt": "A dispute is widening in Korea’s construction industry as specialty contractors call for restoring trade barriers while general contractors say it would undermine the agreed production-system reform.",
-        "body": "A conflict is growing in Korea’s construction industry over production-system reform, namely mutual market access between general and specialty contractors. Specialty contractors argue that trade barriers should be raised again to protect small firms, while general contractors oppose the move, saying it would neutralize the reform agreed in 2018 by the government and industry. The system was introduced to ease the separation between general and specialty construction sectors that had lasted for more than 40 years. If the dispute continues, it could affect project bidding structures and competition among firms, drawing attention to how the government will operate the system. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "建設業界で業域の壁を巡る対立深刻化、相互市場開放合意に総合・専門業界が衝突",
-        "excerpt": "韓国の建設業界で、生産体系改編を巡り専門建設業界の業域の壁復元要求と総合建設業界の合意無力化批判が対立し、葛藤が広がっている。",
-        "body": "韓国の建設業界で、建設産業の生産体系改編、すなわち総合建設業と専門建設業の相互市場開放を巡る対立が強まっている。専門建設業界は零細業者の保護を理由に業域の壁を再び高くすべきだと主張している。一方、総合建設業界は、これは2018年に政府と業界が合意した生産体系改編を無力化する試みだとして反発している。この制度は40年以上続いた総合・専門の業域区分を緩和するために導入された。対立が続けば、工事受注構造や業者間の競争方式に影響する可能性があり、政府の制度運用方針が注目される。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "韩国建筑业围绕行业壁垒争议升级，综合与专业承包商因市场开放协议正面交锋",
-        "excerpt": "韩国建筑业围绕生产体系改革分歧扩大，专业承包商要求恢复行业壁垒，综合承包商则批评此举将削弱既有市场开放协议。",
-        "body": "韩国建筑业围绕建筑产业生产体系改革，也就是综合建筑企业与专业建筑企业之间的相互市场开放，矛盾正在扩大。专业建筑业界以保护小型企业为由，主张重新提高行业壁垒；综合建筑业界则反对称，这将使政府和业界在2018年达成的生产体系改革协议失效。该制度原本是为缓和持续40多年的综合与专业建筑业领域划分而引入的。如果争议持续，可能影响工程承揽结构和企业间竞争方式，因此政府今后的制度运作方向受到关注。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Choque en la construcción coreana por barreras sectoriales y acuerdo de apertura de mercado",
-        "excerpt": "El conflicto crece en la construcción de Corea: contratistas especializados piden restaurar barreras sectoriales y los generales denuncian que eso vaciaría el acuerdo de reforma.",
-        "body": "El conflicto aumenta en la industria de la construcción de Corea por la reforma del sistema de producción, es decir, la apertura recíproca de mercado entre contratistas generales y especializados. El sector especializado sostiene que deben elevarse de nuevo las barreras de actividad para proteger a las empresas pequeñas, mientras que el sector general rechaza la propuesta al considerar que neutraliza la reforma acordada en 2018 por el Gobierno y la industria. El sistema se introdujo para relajar una división entre construcción general y especializada que se mantuvo durante más de 40 años. Si la disputa continúa, podría influir en la estructura de adjudicación de obras y en la competencia entre empresas. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Construção coreana se divide sobre barreiras setoriais e acordo de abertura mútua de mercado",
-        "excerpt": "O conflito cresce na construção da Coreia: empreiteiras especializadas querem restaurar barreiras setoriais, enquanto as gerais dizem que isso anula a reforma acordada.",
-        "body": "O conflito aumenta na indústria da construção da Coreia em torno da reforma do sistema de produção, isto é, da abertura mútua de mercado entre empreiteiras gerais e especializadas. O setor especializado afirma que as barreiras de atuação devem voltar a ser elevadas para proteger pequenas empresas. Já o setor geral se opõe, dizendo que a medida neutralizaria a reforma acordada em 2018 pelo governo e pela indústria. O sistema foi introduzido para aliviar a separação entre construção geral e especializada, mantida por mais de 40 anos. Se a disputa continuar, poderá afetar a estrutura de contratação de obras e a concorrência entre empresas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Koreanische Bauwirtschaft streitet über Branchenschranken und gegenseitige Marktöffnung",
-        "excerpt": "In Koreas Bauwirtschaft verschärft sich der Streit: Spezialanbieter wollen Branchenschranken wieder stärken, Generalunternehmen sehen darin eine Entwertung der Reformvereinbarung.",
-        "body": "In Koreas Bauwirtschaft wächst der Konflikt über die Reform des Produktionssystems, also die gegenseitige Marktöffnung zwischen General- und Spezialbauunternehmen. Die Spezialbauwirtschaft fordert mit Verweis auf den Schutz kleiner Betriebe, Branchenschranken wieder zu erhöhen. Die Generalbauwirtschaft lehnt dies ab und sieht darin einen Versuch, die 2018 zwischen Regierung und Branche vereinbarte Reform wirkungslos zu machen. Das System wurde eingeführt, um die mehr als 40 Jahre bestehende Trennung zwischen General- und Spezialbau zu lockern. Hält der Streit an, könnte er die Vergabestruktur von Bauaufträgen und den Wettbewerb zwischen Unternehmen beeinflussen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le BTP coréen se fracture sur les barrières de métier et l’accord d’ouverture du marché",
-        "excerpt": "Le conflit s’amplifie dans le BTP coréen: les entreprises spécialisées veulent rétablir des barrières de métier, tandis que les générales dénoncent une remise en cause de l’accord.",
-        "body": "Le conflit s’intensifie dans le secteur coréen du bâtiment autour de la réforme du système de production, c’est-à-dire l’ouverture réciproque du marché entre entreprises générales et spécialisées. Les entreprises spécialisées estiment que les barrières de métier doivent être relevées afin de protéger les petites sociétés. Les entreprises générales s’y opposent, affirmant que cette démarche neutraliserait la réforme convenue en 2018 par le gouvernement et la profession. Ce dispositif avait été introduit pour assouplir une séparation entre construction générale et spécialisée qui durait depuis plus de 40 ans. Si le différend se poursuit, il pourrait peser sur les appels d’offres et la concurrence. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "تصاعد خلاف قطاع البناء الكوري حول حواجز الاختصاص واتفاق فتح السوق المتبادل",
-        "excerpt": "يتسع الخلاف في قطاع البناء الكوري مع مطالبة الشركات المتخصصة بإعادة حواجز الاختصاص، بينما ترى الشركات العامة أن ذلك يفرغ اتفاق إصلاح نظام الإنتاج من مضمونه.",
-        "body": "يتصاعد الخلاف في قطاع البناء الكوري حول إصلاح نظام الإنتاج، أي فتح السوق المتبادل بين شركات البناء العامة والمتخصصة. وتقول الشركات المتخصصة إن حواجز الاختصاص يجب أن ترتفع مجددا لحماية الشركات الصغيرة، بينما تعارض الشركات العامة ذلك وتعتبره محاولة لإبطال إصلاح تم الاتفاق عليه في عام 2018 بين الحكومة والقطاع. وقد أُدخل هذا النظام لتخفيف الفصل بين مجالي البناء العام والمتخصص الذي استمر لأكثر من 40 عاما. وإذا استمر الخلاف، فقد يؤثر في هيكل الفوز بعقود المشاريع وطريقة المنافسة بين الشركات، لذلك تتجه الأنظار إلى كيفية إدارة الحكومة للنظام. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "कोरियाई निर्माण उद्योग में क्षेत्रीय दीवारों और पारस्परिक बाजार खोलने के समझौते पर टकराव",
-        "excerpt": "कोरिया के निर्माण उद्योग में विवाद बढ़ रहा है, जहां विशेषज्ञ ठेकेदार क्षेत्रीय सीमाएं फिर मजबूत करना चाहते हैं और सामान्य ठेकेदार इसे सहमति को कमजोर करने वाला कदम बता रहे हैं।",
-        "body": "कोरिया के निर्माण उद्योग में उत्पादन प्रणाली सुधार, यानी सामान्य और विशेषज्ञ निर्माण कंपनियों के बीच पारस्परिक बाजार खोलने को लेकर विवाद बढ़ रहा है। विशेषज्ञ निर्माण क्षेत्र छोटे उद्यमों की रक्षा के नाम पर क्षेत्रीय दीवारें फिर ऊंची करने की मांग कर रहा है। दूसरी ओर सामान्य निर्माण क्षेत्र इसका विरोध करते हुए कहता है कि यह 2018 में सरकार और उद्योग के बीच हुए उत्पादन प्रणाली सुधार समझौते को निष्प्रभावी करने की कोशिश है। यह व्यवस्था 40 साल से अधिक समय तक चली सामान्य और विशेषज्ञ निर्माण क्षेत्रों की अलग-अलग सीमा को ढीला करने के लिए लाई गई थी। विवाद जारी रहा तो परियोजना ठेका संरचना और कंपनियों की प्रतिस्पर्धा पर असर पड़ सकता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Industri Konstruksi Korea Berselisih soal Sekat Usaha dan Kesepakatan Pembukaan Pasar",
-        "excerpt": "Konflik di industri konstruksi Korea melebar saat kontraktor spesialis meminta sekat usaha dipulihkan, sementara kontraktor umum menilai langkah itu melemahkan kesepakatan reformasi.",
-        "body": "Konflik di industri konstruksi Korea meningkat terkait reformasi sistem produksi, yakni pembukaan pasar timbal balik antara kontraktor umum dan kontraktor spesialis. Kalangan kontraktor spesialis berpendapat sekat bidang usaha perlu dinaikkan kembali untuk melindungi perusahaan kecil. Sebaliknya, kontraktor umum menolak karena menilai langkah itu akan meniadakan reformasi yang disepakati pemerintah dan industri pada 2018. Sistem tersebut diperkenalkan untuk melonggarkan pemisahan antara konstruksi umum dan spesialis yang berlangsung lebih dari 40 tahun. Jika perselisihan berlanjut, struktur perolehan proyek dan pola persaingan antarperusahaan dapat terdampak. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "8baee7bac8cd",
-    "slug": "더샵송도그란테르-1544가구포스코-송도-ibd-마지막-공급-882923",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T14:07:36.640Z",
-    "updatedAt": "2026-05-12T14:07:36.640Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051215991",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051215991",
-    "titleFingerprint": "68c90ab7a33db766cfb47b74287687f42558ad31",
-    "dedupKeys": [
-      "8baee7bac8cdc6a487c3b9e1ac4236de2d4c0abb",
-      "68c90ab7a33db766cfb47b74287687f42558ad31",
-      "48df8013c39200a7545e917a2631bd5ab4c082f9"
-    ],
-    "imageUrl": "/images/articles/8baee7bac8cd.png",
-    "i18n": {
-      "ko": {
-        "title": "더샵송도그란테르 1544가구 공급, 포스코 송도 IBD 마지막 분양",
-        "excerpt": "포스코가 인천 송도 IBD에서 ‘더샵송도그란테르’ 1544가구를 공급한다. 송도 IBD의 마지막 공급 물량으로 알려져 수요자 관심이 집중된다.",
-        "body": "포스코가 인천 송도국제업무단지(IBD)에서 ‘더샵송도그란테르’ 1544가구를 공급한다. 이번 단지는 송도 IBD에서 진행되는 마지막 공급 물량으로 소개됐다. 송도 IBD는 인천 송도 내 핵심 업무·주거 권역으로 꼽히는 지역이며, 이번 공급 규모는 총 1544가구다. 공급 주체는 포스코이며 단지명은 ‘더샵송도그란테르’다. 마지막 공급이라는 점에서 송도 IBD 내 신규 주거 선택지를 찾는 수요자에게 의미 있는 물량으로 평가된다. 다만 분양 일정, 면적 구성, 가격 등 세부 정보는 원문 제목과 제공 정보에 포함되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "The Sharp Songdo Gran Ter: 1,544 Homes, POSCO’s Final Songdo IBD Supply",
-        "excerpt": "POSCO will supply 1,544 homes at The Sharp Songdo Gran Ter in Incheon’s Songdo IBD, described as the final residential offering in the district.",
-        "body": "POSCO is set to supply 1,544 homes at The Sharp Songdo Gran Ter in the Songdo International Business District, or IBD, in Incheon. The project has been described as the final supply within Songdo IBD. Songdo IBD is regarded as a key business and residential area within Songdo, and the announced supply scale is 1,544 units. The developer named in the report is POSCO, and the complex is The Sharp Songdo Gran Ter. As the last supply in the district, the project is expected to draw attention from buyers seeking new housing options in Songdo IBD. Details such as sales schedule, unit sizes and pricing were not included in the provided source information. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ザ・シャープ松島グランテール1544戸、ポスコが松島IBD最後の供給",
-        "excerpt": "ポスコは仁川・松島IBDで「ザ・シャープ松島グランテール」1544戸を供給する。松島IBD最後の供給として関心を集めている。",
-        "body": "ポスコは仁川の松島国際業務団地（IBD）で「ザ・シャープ松島グランテール」1544戸を供給する。今回の団地は、松島IBDで進められる最後の供給分として紹介された。松島IBDは仁川・松島内の主要な業務・住宅エリアとされ、今回の供給規模は計1544戸である。供給主体はポスコで、団地名は「ザ・シャープ松島グランテール」。最後の供給という点から、松島IBDで新たな住居選択肢を探す需要者にとって意味のある物件とみられる。ただし、分譲日程、面積構成、価格などの詳細は提供情報に含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "The Sharp松岛Gran Ter供应1544户，浦项推进松岛IBD最后供应",
-        "excerpt": "浦项将在仁川松岛IBD供应“The Sharp松岛Gran Ter”1544户。该项目被介绍为松岛IBD最后供应房源，受到关注。",
-        "body": "浦项将在仁川松岛国际商务区（IBD）供应“The Sharp松岛Gran Ter”1544户。该项目被介绍为松岛IBD内推进的最后供应房源。松岛IBD被视为仁川松岛内核心商务和居住区域，本次供应规模为1544户。供应主体为浦项，项目名称为“The Sharp松岛Gran Ter”。由于这是松岛IBD最后供应，对于寻找该区域新住宅选择的需求者而言具有一定意义。不过，销售日程、户型面积、价格等详细信息未包含在所提供的原文信息中。来源: hankyung.com"
-      },
-      "es": {
-        "title": "The Sharp Songdo Gran Ter suma 1.544 viviendas, última oferta de POSCO en Songdo IBD",
-        "excerpt": "POSCO suministrará 1.544 viviendas en The Sharp Songdo Gran Ter, en Songdo IBD de Incheon, señalado como la última oferta del distrito.",
-        "body": "POSCO suministrará 1.544 viviendas en The Sharp Songdo Gran Ter, dentro del Distrito Internacional de Negocios de Songdo, IBD, en Incheon. El complejo fue presentado como la última oferta prevista en Songdo IBD. Esta zona se considera un área clave de negocios y vivienda dentro de Songdo, y el volumen anunciado asciende a 1.544 unidades. La entidad responsable es POSCO y el nombre del complejo es The Sharp Songdo Gran Ter. Al tratarse de la última oferta del distrito, el proyecto puede atraer la atención de quienes buscan nuevas opciones residenciales en Songdo IBD. No se incluyeron detalles sobre calendario de venta, tamaños o precios en la información proporcionada. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "The Sharp Songdo Gran Ter terá 1.544 unidades, última oferta da POSCO em Songdo IBD",
-        "excerpt": "A POSCO fornecerá 1.544 unidades no The Sharp Songdo Gran Ter, em Songdo IBD, Incheon, apresentado como a última oferta do distrito.",
-        "body": "A POSCO fornecerá 1.544 unidades no The Sharp Songdo Gran Ter, no Distrito Internacional de Negócios de Songdo, IBD, em Incheon. O empreendimento foi apresentado como a última oferta dentro de Songdo IBD. A área é considerada um importante eixo de negócios e moradia em Songdo, e o volume anunciado é de 1.544 unidades. A responsável pela oferta é a POSCO, e o nome do complexo é The Sharp Songdo Gran Ter. Por ser a última oferta no distrito, o projeto tende a chamar a atenção de interessados em novas opções residenciais em Songdo IBD. Informações como cronograma de venda, metragem e preços não constam nos dados fornecidos. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "The Sharp Songdo Gran Ter mit 1.544 Wohnungen, POSCOs letztes Angebot in Songdo IBD",
-        "excerpt": "POSCO bietet im Songdo IBD in Incheon 1.544 Wohnungen im Projekt The Sharp Songdo Gran Ter an, das als letzte Lieferung des Bezirks gilt.",
-        "body": "POSCO wird im Songdo International Business District, kurz IBD, in Incheon 1.544 Wohnungen im Projekt The Sharp Songdo Gran Ter anbieten. Das Wohnprojekt wurde als letzte Lieferung innerhalb des Songdo IBD vorgestellt. Songdo IBD gilt als wichtiger Geschäfts- und Wohnstandort innerhalb von Songdo, und der angekündigte Umfang beträgt insgesamt 1.544 Einheiten. Anbieter ist POSCO, der Name der Anlage lautet The Sharp Songdo Gran Ter. Da es sich um das letzte Angebot in diesem Gebiet handelt, dürfte das Projekt für Interessenten an neuen Wohnoptionen im Songdo IBD relevant sein. Angaben zu Verkaufszeitplan, Wohnungsgrößen und Preisen waren in den bereitgestellten Informationen nicht enthalten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "The Sharp Songdo Gran Ter: 1 544 logements, dernière offre de POSCO à Songdo IBD",
-        "excerpt": "POSCO va fournir 1 544 logements dans The Sharp Songdo Gran Ter, à Songdo IBD, Incheon, présenté comme la dernière offre du quartier.",
-        "body": "POSCO va fournir 1 544 logements dans The Sharp Songdo Gran Ter, au sein du Songdo International Business District, ou IBD, à Incheon. Le programme a été présenté comme la dernière offre immobilière dans Songdo IBD. Ce secteur est considéré comme une zone majeure d’affaires et d’habitat à Songdo, et le volume annoncé atteint 1 544 unités. Le fournisseur mentionné est POSCO, et le complexe porte le nom de The Sharp Songdo Gran Ter. Comme il s’agit de la dernière offre dans le district, le projet devrait retenir l’attention des demandeurs cherchant de nouvelles options résidentielles à Songdo IBD. Le calendrier de vente, les surfaces et les prix ne figurent pas dans les informations fournies. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ذا شارب سونغدو غران تير يطرح 1544 وحدة كآخر إمداد من بوسكو في سونغدو IBD",
-        "excerpt": "تعتزم بوسكو طرح 1544 وحدة في مشروع ذا شارب سونغدو غران تير داخل سونغدو IBD في إنتشون، بوصفه آخر إمداد في المنطقة.",
-        "body": "تعتزم بوسكو طرح 1544 وحدة في مشروع ذا شارب سونغدو غران تير داخل منطقة سونغدو الدولية للأعمال، المعروفة باسم IBD، في إنتشون. وقد وُصف هذا المشروع بأنه آخر إمداد ضمن سونغدو IBD. وتعد هذه المنطقة نطاقا مهما للأعمال والسكن داخل سونغدو، فيما يبلغ حجم الطرح المعلن 1544 وحدة. الجهة المطورة المذكورة هي بوسكو، واسم المجمع هو ذا شارب سونغدو غران تير. وبسبب كونه آخر طرح في المنطقة، قد يحظى المشروع باهتمام الباحثين عن خيارات سكنية جديدة في سونغدو IBD. ولم تتضمن المعلومات المتاحة تفاصيل عن جدول البيع أو المساحات أو الأسعار. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "द शार्प सोंगदो ग्रान टेर में 1,544 घर, सोंगदो IBD में POSCO की अंतिम आपूर्ति",
-        "excerpt": "POSCO इंचियोन के सोंगदो IBD में द शार्प सोंगदो ग्रान टेर की 1,544 इकाइयां आपूर्ति करेगा, जिसे जिले की अंतिम आपूर्ति बताया गया है।",
-        "body": "POSCO इंचियोन के सोंगदो इंटरनेशनल बिजनेस डिस्ट्रिक्ट, यानी IBD, में द शार्प सोंगदो ग्रान टेर की 1,544 आवासीय इकाइयां आपूर्ति करेगा। इस परियोजना को सोंगदो IBD में होने वाली अंतिम आपूर्ति के रूप में पेश किया गया है। सोंगदो IBD को सोंगदो के प्रमुख व्यावसायिक और आवासीय क्षेत्रों में गिना जाता है, और घोषित आपूर्ति का आकार कुल 1,544 इकाइयां है। आपूर्ति करने वाली कंपनी POSCO है और परिसर का नाम द शार्प सोंगदो ग्रान टेर है। अंतिम आपूर्ति होने के कारण यह परियोजना सोंगदो IBD में नए आवास विकल्प खोजने वालों के लिए महत्वपूर्ण मानी जा सकती है। बिक्री कार्यक्रम, इकाई आकार और कीमतों की जानकारी उपलब्ध स्रोत में शामिल नहीं थी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "The Sharp Songdo Gran Ter 1.544 Unit, Pasokan Terakhir POSCO di Songdo IBD",
-        "excerpt": "POSCO akan memasok 1.544 unit The Sharp Songdo Gran Ter di Songdo IBD, Incheon, yang disebut sebagai pasokan terakhir di kawasan tersebut.",
-        "body": "POSCO akan memasok 1.544 unit hunian The Sharp Songdo Gran Ter di Songdo International Business District, atau IBD, di Incheon. Proyek ini diperkenalkan sebagai pasokan terakhir di kawasan Songdo IBD. Songdo IBD dikenal sebagai area utama untuk bisnis dan hunian di Songdo, dengan skala pasokan yang diumumkan sebanyak 1.544 unit. Pihak pemasoknya adalah POSCO, dan nama kompleksnya The Sharp Songdo Gran Ter. Karena disebut sebagai pasokan terakhir di kawasan tersebut, proyek ini dapat menarik perhatian pencari hunian baru di Songdo IBD. Namun, jadwal penjualan, komposisi luas unit, dan harga tidak tercantum dalam informasi sumber yang diberikan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "bf4c716a4e91",
-    "slug": "떨어지던-전셋값-급반등송파에-무슨-일이-763244",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T14:05:45.767Z",
-    "updatedAt": "2026-05-12T14:05:45.767Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051215961",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051215961",
-    "titleFingerprint": "d2dd847df8f69b612dd274b57044e26c615972de",
-    "dedupKeys": [
-      "bf4c716a4e91a10973990f9d3e04a3601f0de6e0",
-      "d2dd847df8f69b612dd274b57044e26c615972de",
-      "b04e72b7763d335a04fd1842d0b088ce44deea61"
-    ],
-    "imageUrl": "/images/articles/bf4c716a4e91.jpg",
-    "i18n": {
-      "ko": {
-        "title": "송파 전셋값 급반등, 헬리오시티 입주 앞두고 시장이 뒤집힌 이유",
-        "excerpt": "한국경제에 따르면 2018년 11월 서울 송파구 가락동 헬리오시티 입주를 앞두고 하락이 예상됐던 전셋값이 9·13 대책, 집주인 실입주, 재건축 이주 수요 영향으로 오름세를 보였다.",
-        "body": "2018년 11월 한국경제 보도에 따르면 서울 송파구 가락동 헬리오시티 전세시장이 입주를 앞두고 예상과 달리 상승세를 보였다. 9510가구 규모의 대단지라 입주 직전 전셋값 하락 전망이 컸지만, 전용 84㎡ 전세는 8월 6억원대 계약 이후 9월 7억원을 넘었고 지난달에는 7억원 중반대로 올랐다. 배경으로는 9·13 대책 이후 장기보유특별공제에 2년 거주 요건이 생기며 집주인 직접 입주가 늘어난 점이 꼽혔다. 현지 중개업소는 당초 4000개가량 예상된 전세 물건이 약 1000개 줄 것으로 봤고, 계약은 약 400건으로 추정했다. 미성·크로바 1350가구, 진주 1500가구의 재건축 이주 수요도 하락을 막는 요인으로 제시됐다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Songpa Jeonse Rebound: Why Helio City Rents Rose Before Move-In",
-        "excerpt": "According to Hankyung, ahead of Helio City’s 2018 move-in in Garak-dong, Songpa-gu, Seoul, jeonse prices expected to fall rose instead amid the Sept. 13 measures, owner occupancy and relocation demand.",
-        "body": "According to a November 2018 Hankyung report, the jeonse market around Helio City in Garak-dong, Songpa-gu, Seoul rose before move-in, contrary to expectations. Because the complex had 9,510 homes, many expected rents to drop just before occupancy. Yet 84-square-meter jeonse contracts, which were in the 600 million won range in August, exceeded 700 million won in September and reached the mid-700 million won range the previous month. The report cited the Sept. 13 housing measures, which added a two-year residency condition for long-term holding tax deductions, prompting more owners to move in themselves. Local agents estimated listings originally expected near 4,000 could fall by about 1,000, with around 400 contracts signed. Relocation demand from Miseong-Clover’s 1,350 homes and Jinju’s 1,500 homes also supported prices. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "松坡のチョンセ急反発、ヘリオシティ入居前に市場が反転した理由",
-        "excerpt": "韓国経済によると、2018年11月、ソウル松坡区可楽洞のヘリオシティ入居を前に下落が予想されたチョンセ価格は、9・13対策や所有者の実入居、再建築移住需要で上昇した。",
-        "body": "韓国経済の2018年11月報道によると、ソウル松坡区可楽洞のヘリオシティのチョンセ市場は、入居を前に予想に反して上昇した。9510世帯の大規模団地であるため、入居直前にはチョンセ価格が下がるとの見方が強かった。しかし専用84㎡のチョンセは8月に6億ウォン台で契約された後、9月には7億ウォンを超え、前月には7億ウォン台半ばまで上がった。背景には、9・13対策で長期保有特別控除に2年居住要件が加わり、所有者が賃貸せず自ら入居する動きが増えたことがある。現地仲介業者は、当初約4000件と見込まれたチョンセ物件が約1000件減るとみており、契約は約400件と推定した。ミソン・クローバー1350世帯、チンジュ1500世帯の再建築移住需要も下落を抑える要因とされた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "松坡全租价格急反弹，Helio City入住前市场为何逆转",
-        "excerpt": "据韩国经济报道，2018年11月首尔松坡区可乐洞Helio City入住前，原本被预期下跌的全租价格因9·13对策、业主自住和重建搬迁需求转为上涨。",
-        "body": "据韩国经济2018年11月报道，首尔松坡区可乐洞Helio City全租市场在入住前出现了与预期相反的上涨。该小区共有9510户，因此市场普遍认为入住前全租价格会下跌。但专用面积84平方米户型的全租合同在8月仍为6亿韩元区间，9月起超过7亿韩元，上月升至7亿韩元中段。报道指出，9·13房地产对策使长期持有特别扣除增加两年居住条件，促使更多业主选择自住，是主要背景之一。当地中介估计，原先预计约4000套全租房源将减少约1000套，已签合同约400份。美星·Clover的1350户和真珠公寓1500户重建搬迁需求，也被视为支撑全租价格的因素。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Rebote del jeonse en Songpa: por qué Helio City cambió el mercado",
-        "excerpt": "Según Hankyung, antes de la mudanza a Helio City en Garak-dong, Songpa-gu, Seúl, en 2018, los precios del jeonse que se esperaban a la baja subieron por las medidas del 13 de septiembre, la ocupación de propietarios y la demanda de reubicación.",
-        "body": "Según un informe de Hankyung de noviembre de 2018, el mercado de jeonse de Helio City, en Garak-dong, Songpa-gu, Seúl, subió antes de la ocupación pese a que se esperaba una caída. Al tratarse de un gran complejo de 9.510 viviendas, predominaba la previsión de menores precios justo antes de la mudanza. Sin embargo, los contratos de 84 m² pasaron de la franja de 600 millones de wones en agosto a más de 700 millones en septiembre, y el mes anterior alcanzaron la zona media de los 700 millones. El contexto fue la medida inmobiliaria del 13 de septiembre, que añadió un requisito de residencia de dos años para la deducción especial por tenencia prolongada, lo que llevó a más propietarios a ocupar sus viviendas. Agentes locales estimaron que las ofertas previstas, unas 4.000, podrían reducirse en unas 1.000, con unos 400 contratos firmados. La demanda de reubicación de Miseong-Clover, con 1.350 hogares, y Jinju, con 1.500, también sostuvo los precios. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Jeonse em Songpa sobe forte: por que Helio City virou o mercado",
-        "excerpt": "Segundo o Hankyung, antes da mudança para o Helio City, em Garak-dong, Songpa-gu, Seul, em 2018, os preços de jeonse que deveriam cair subiram com as medidas de 13 de setembro, ocupação por proprietários e demanda de realocação.",
-        "body": "Segundo reportagem do Hankyung de novembro de 2018, o mercado de jeonse do Helio City, em Garak-dong, Songpa-gu, Seul, subiu antes da ocupação, contrariando as expectativas. Como o complexo tem 9.510 unidades, muitos esperavam queda dos valores imediatamente antes da entrada dos moradores. Mas contratos de 84 m², que estavam na faixa de 600 milhões de won em agosto, passaram de 700 milhões em setembro e chegaram à faixa média dos 700 milhões no mês anterior. A explicação citada foi a medida imobiliária de 13 de setembro, que criou exigência de dois anos de residência para a dedução especial por posse de longo prazo, levando mais proprietários a morar no imóvel. Corretores locais estimaram que as cerca de 4.000 ofertas previstas poderiam cair em aproximadamente 1.000, com cerca de 400 contratos fechados. A demanda de realocação de Miseong-Clover, com 1.350 unidades, e Jinju, com 1.500, também ajudou a sustentar os preços. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Jeonse-Rebound in Songpa: Warum Helio City vor Einzug zulegte",
-        "excerpt": "Laut Hankyung stiegen die vor dem Einzug in Helio City in Garak-dong, Songpa-gu, Seoul, 2018 eigentlich fallend erwarteten Jeonse-Preise wegen der Maßnahmen vom 13. September, Eigennutzung durch Eigentümer und Umzugsnachfrage.",
-        "body": "Laut einem Hankyung-Bericht vom November 2018 stieg der Jeonse-Markt von Helio City in Garak-dong, Songpa-gu, Seoul, vor dem Einzug entgegen den Erwartungen. Wegen der Größe von 9.510 Wohnungen wurde kurz vor der Belegung ein Preisrückgang erwartet. Doch Jeonse-Verträge für 84 Quadratmeter lagen im August noch im Bereich von 600 Millionen Won, überschritten im September 700 Millionen Won und erreichten im Vormonat den mittleren 700-Millionen-Bereich. Als Hintergrund nannte der Bericht die Immobilienmaßnahmen vom 13. September, durch die für den langfristigen Sonderabzug eine zweijährige Wohnpflicht eingeführt wurde. Dadurch zogen mehr Eigentümer selbst ein. Lokale Makler schätzten, dass von ursprünglich rund 4.000 erwarteten Jeonse-Angeboten etwa 1.000 wegfallen könnten; rund 400 Verträge seien geschlossen worden. Auch Umzugsnachfrage aus den Wiederaufbauprojekten Miseong-Clover mit 1.350 Wohnungen und Jinju mit 1.500 Wohnungen stützte die Preise. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Rebond du jeonse à Songpa : pourquoi Helio City a inversé la tendance",
-        "excerpt": "Selon Hankyung, avant l’emménagement à Helio City à Garak-dong, Songpa-gu, Séoul, en 2018, les prix du jeonse attendus en baisse ont augmenté sous l’effet des mesures du 13 septembre, de l’occupation par les propriétaires et des relogements.",
-        "body": "Selon un article de Hankyung publié en novembre 2018, le marché du jeonse autour de Helio City, à Garak-dong, Songpa-gu, Séoul, a progressé avant l’emménagement, contrairement aux attentes. Avec 9 510 logements, ce grand ensemble devait provoquer une baisse des prix juste avant l’occupation. Pourtant, les contrats de jeonse pour 84 m², conclus dans la zone des 600 millions de wons en août, ont dépassé 700 millions en septembre et atteint la zone médiane des 700 millions le mois précédent. Le rapport cite les mesures immobilières du 13 septembre, qui ont ajouté une condition de résidence de deux ans pour la déduction spéciale de détention longue, poussant davantage de propriétaires à occuper eux-mêmes leur logement. Des agences locales estimaient que les quelque 4 000 offres prévues pourraient diminuer d’environ 1 000, avec près de 400 contrats signés. La demande de relogement liée à Miseong-Clover, 1 350 logements, et Jinju, 1 500 logements, a aussi limité la baisse. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ارتداد إيجارات جونسي في سونغبا: لماذا تبدل سوق هيليو سيتي قبل السكن",
-        "excerpt": "بحسب هانكيونغ، قبيل السكن في هيليو سيتي في غاراك دونغ بسونغبا غو في سيول عام 2018، ارتفعت أسعار جونسي التي كان متوقعا هبوطها بفعل إجراءات 13 سبتمبر وسكن الملاك وطلب الانتقال من مشاريع إعادة البناء.",
-        "body": "بحسب تقرير هانكيونغ في نوفمبر 2018، ارتفع سوق جونسي في هيليو سيتي في غاراك دونغ، سونغبا غو، سيول، قبل بدء السكن خلافا للتوقعات. ونظرا إلى أن المجمع يضم 9510 وحدات، كانت التوقعات تميل إلى هبوط الأسعار قبل الإشغال. لكن عقود جونسي لمساحة 84 مترا مربعا، التي كانت في نطاق 600 مليون وون في أغسطس، تجاوزت 700 مليون وون في سبتمبر ووصلت في الشهر السابق إلى منتصف نطاق 700 مليون وون. وأشار التقرير إلى أن إجراءات 13 سبتمبر العقارية أضافت شرط إقامة لمدة عامين للحصول على خصم الحيازة الطويلة، ما دفع مزيدا من الملاك إلى السكن بدلا من التأجير. وقدر وسطاء محليون أن المعروض المتوقع، وكان نحو 4000 وحدة، قد ينخفض بنحو 1000 وحدة، مع توقيع نحو 400 عقد. كما ساعد طلب الانتقال من إعادة بناء ميسونغ كلوفر البالغ 1350 وحدة وجينجو البالغ 1500 وحدة في دعم الأسعار. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सोंगपा में जोंसे किराया पलटा, Helio City में प्रवेश से पहले कीमतें क्यों चढ़ीं",
-        "excerpt": "Hankyung के अनुसार 2018 में सियोल के सोंगपा-गु, गराक-दोंग स्थित Helio City में प्रवेश से पहले गिरावट की उम्मीद वाले जोंसे दाम 13 सितंबर उपायों, मालिकों के खुद रहने और पुनर्निर्माण विस्थापन मांग से बढ़े।",
-        "body": "Hankyung की नवंबर 2018 की रिपोर्ट के अनुसार, सियोल के सोंगपा-गु, गराक-दोंग स्थित Helio City का जोंसे बाजार प्रवेश से पहले उम्मीदों के विपरीत बढ़ा। 9,510 घरों वाले बड़े परिसर के कारण माना जा रहा था कि प्रवेश से ठीक पहले जोंसे कीमतें गिरेंगी। लेकिन 84 वर्ग मीटर के जोंसे अनुबंध अगस्त में 600 मिलियन वोन के दायरे में थे, सितंबर में 700 मिलियन वोन से ऊपर गए और पिछले महीने 700 मिलियन वोन के मध्य स्तर तक पहुंच गए। रिपोर्ट ने 13 सितंबर की रियल एस्टेट नीति को पृष्ठभूमि बताया, जिसमें दीर्घकालिक होल्डिंग विशेष कटौती के लिए दो साल निवास शर्त जोड़ी गई, जिससे अधिक मालिक खुद रहने लगे। स्थानीय एजेंटों ने अनुमान लगाया कि पहले करीब 4,000 जोंसे लिस्टिंग की उम्मीद थी, लेकिन लगभग 1,000 कम हो सकती हैं, और लगभग 400 अनुबंध हुए। Miseong-Clover के 1,350 घरों और Jinju के 1,500 घरों से पुनर्निर्माण स्थानांतरण मांग ने भी कीमतों को सहारा दिया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Jeonse Songpa Berbalik Naik: Alasan Pasar Helio City Menguat",
-        "excerpt": "Menurut Hankyung, menjelang hunian Helio City di Garak-dong, Songpa-gu, Seoul pada 2018, harga jeonse yang diperkirakan turun justru naik karena kebijakan 13 September, pemilik menempati unit sendiri, dan permintaan relokasi rekonstruksi.",
-        "body": "Menurut laporan Hankyung pada November 2018, pasar jeonse Helio City di Garak-dong, Songpa-gu, Seoul naik menjelang masa hunian, berlawanan dengan perkiraan. Karena kompleks ini berisi 9.510 rumah, banyak pihak memperkirakan harga jeonse turun tepat sebelum penghuni masuk. Namun kontrak jeonse untuk 84 meter persegi yang pada Agustus berada di kisaran 600 juta won, melewati 700 juta won pada September dan mencapai kisaran tengah 700 juta won pada bulan sebelumnya. Laporan itu menyebut kebijakan properti 13 September sebagai latar, karena syarat tinggal dua tahun ditambahkan untuk potongan khusus kepemilikan jangka panjang, sehingga lebih banyak pemilik memilih tinggal sendiri. Agen lokal memperkirakan pasokan jeonse yang semula diperkirakan sekitar 4.000 unit dapat berkurang sekitar 1.000 unit, dengan sekitar 400 kontrak ditandatangani. Permintaan relokasi dari proyek rekonstruksi Miseong-Clover 1.350 rumah dan Jinju 1.500 rumah juga menahan penurunan harga. Sumber: hankyung.com"
       }
     }
   }
