@@ -1,5 +1,230 @@
 [
   {
+    "id": "60a727ce583c",
+    "slug": "양도세-중과-사흘만에서울-매물-4-줄었다-812271",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T11:40:08.110Z",
+    "updatedAt": "2026-05-13T11:40:08.110Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051343581",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051343581",
+    "titleFingerprint": "0db438f2da811d9da35a104b441b2514d46f12f1",
+    "dedupKeys": [
+      "60a727ce583cebbde0504f3806231e1b9d42925b",
+      "0db438f2da811d9da35a104b441b2514d46f12f1",
+      "b9e322f6c6ed9bbbe1e5b820c0b889205fbeada0"
+    ],
+    "imageUrl": "/images/articles/60a727ce583c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양도세 중과 부활 후 서울 아파트 매물 4% 감소, 강동·성북·노원도 줄었다",
+        "excerpt": "다주택자 양도소득세 중과 부활 이후 2026년 5월 11일 기준 서울 아파트 매물이 이틀 만에 2813개, 4.1% 줄며 매물 회수와 관망세가 확산됐다.",
+        "body": "다주택자 양도소득세 중과가 부활한 뒤 서울 아파트 매물이 빠르게 줄었다. 한국경제(hankyung.com)에 따르면 2026년 5월 11일 기준 서울 아파트 매물은 아실 집계로 6만5682개였다. 이는 10일 6만6914개보다 하루 만에 1232개 감소한 수치이며, 9일 6만8495개와 비교하면 이틀 만에 2813개, 4.1% 줄었다. 지역별로는 강동구가 3928개에서 3582개로 8.9% 감소했고 성북 6.2%, 강서 5.4%, 노원 5.1%, 동대문 4.9% 순으로 감소 폭이 컸다. 서초 4.7%, 송파 4.1%, 강남 3.0%도 줄었다. 2주택자는 기본세율에 20%포인트, 3주택 이상은 30%포인트가 더해지는 중과세율을 적용받는다. 기사에 따르면 집주인들의 매물 회수와 호가 인상, 관망세가 나타났고 전문가들은 보유세 부담에 따른 월세 상승 가능성을 언급했다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Seoul Apartment Listings Fall 4% After Heavier Capital Gains Tax Returns",
+        "excerpt": "After the heavier capital gains tax on multi-homeowners returned, Seoul apartment listings fell by 2,813, or 4.1%, in two days as of May 11, 2026.",
+        "body": "Seoul apartment listings fell quickly after the heavier capital gains tax on multi-homeowners was reinstated. According to Hankyung.com, Asil data showed 65,682 apartment listings in Seoul as of May 11, 2026. That was down 1,232 from 66,914 on May 10 and down 2,813, or 4.1%, from 68,495 on May 9. By district, Gangdong fell 8.9%, from 3,928 to 3,582 listings, followed by Seongbuk at 6.2%, Gangseo at 5.4%, Nowon at 5.1%, and Dongdaemun at 4.9%. Seocho fell 4.7%, Songpa 4.1%, and Gangnam 3.0%. Owners of two homes face an additional 20 percentage points on top of the basic rate, while owners of three or more face 30 percentage points. The report said owners were withdrawing listings, raising asking prices, and waiting on the sidelines, while experts cited the possibility of higher monthly rents due to holding-tax burdens. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "譲渡税重課復活後、ソウルのマンション売り物件4%減少",
+        "excerpt": "多住宅保有者への譲渡所得税重課が復活した後、2026年5月11日時点でソウルのマンション売り物件は2日で2813件、4.1%減少した。",
+        "body": "多住宅保有者への譲渡所得税重課が復活した後、ソウルのマンション売り物件が急速に減った。韓国経済（hankyung.com）によると、2026年5月11日時点のソウルのマンション売り物件は、不動産情報サービスのアシル集計で6万5682件だった。10日の6万6914件から1日で1232件減り、9日の6万8495件と比べると2日で2813件、4.1%減少した。区別では江東区が3928件から3582件へ8.9%減り、城北6.2%、江西5.4%、蘆原5.1%、東大門4.9%の順で減少幅が大きかった。瑞草4.7%、松坡4.1%、江南3.0%も減った。2住宅保有者は基本税率に20ポイント、3住宅以上は30ポイントが上乗せされる。記事は、家主による売り物件の取り下げ、希望価格の引き上げ、様子見姿勢が出ており、専門家は保有税負担による月払い家賃上昇の可能性に言及したと伝えた。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "转让税加重恢复后首尔公寓挂牌减少4%，江东等区降幅明显",
+        "excerpt": "多套房业主转让所得税加重恢复后，截至2026年5月11日，首尔公寓挂牌两天减少2813套，降幅为4.1%。",
+        "body": "多套房业主转让所得税加重恢复后，首尔公寓挂牌迅速减少。据韩国经济（hankyung.com）报道，按Asil统计，截至2026年5月11日，首尔公寓挂牌为65682套。较5月10日的66914套一天减少1232套，与5月9日的68495套相比，两天减少2813套，降幅为4.1%。分地区看，江东区从3928套降至3582套，减少8.9%；城北减少6.2%，江西减少5.4%，芦原减少5.1%，东大门减少4.9%。瑞草减少4.7%，松坡减少4.1%，江南也减少3.0%。两套房业主将在基本税率上加征20个百分点，三套及以上加征30个百分点。报道称，房主撤回挂牌、上调报价并转为观望的情况出现，专家提到持有税负担可能推高月租。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Las viviendas en venta en Seúl caen 4% tras volver el recargo fiscal",
+        "excerpt": "Tras reactivarse el recargo sobre la plusvalía para multipropietarios, los anuncios de apartamentos en Seúl bajaron 2.813, un 4,1%, en dos días al 11 de mayo de 2026.",
+        "body": "Los anuncios de apartamentos en Seúl cayeron con rapidez tras la reactivación del recargo sobre el impuesto a las ganancias de capital para multipropietarios. Según Hankyung.com, los datos de Asil mostraron 65.682 anuncios en Seúl al 11 de mayo de 2026. La cifra bajó en 1.232 desde los 66.914 del 10 de mayo y en 2.813, o 4,1%, frente a los 68.495 del 9 de mayo. Por distrito, Gangdong cayó 8,9%, de 3.928 a 3.582 anuncios, seguido por Seongbuk con 6,2%, Gangseo con 5,4%, Nowon con 5,1% y Dongdaemun con 4,9%. Seocho bajó 4,7%, Songpa 4,1% y Gangnam 3,0%. Los propietarios de dos viviendas enfrentan 20 puntos porcentuales adicionales sobre la tasa básica, y los de tres o más, 30 puntos. El informe señaló retiros de anuncios, alzas en precios solicitados y espera por parte de propietarios; expertos mencionaron la posibilidad de subidas en los alquileres mensuales por la carga del impuesto a la tenencia. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Oferta de apartamentos em Seul cai 4% após volta do imposto agravado",
+        "excerpt": "Após a volta do imposto agravado sobre ganhos de capital para multiproprietários, os anúncios de apartamentos em Seul caíram 2.813, ou 4,1%, em dois dias até 11 de maio de 2026.",
+        "body": "Os anúncios de apartamentos em Seul caíram rapidamente após a retomada do imposto agravado sobre ganhos de capital para proprietários de múltiplos imóveis. Segundo o Hankyung.com, dados da Asil mostraram 65.682 anúncios em Seul em 11 de maio de 2026. O total ficou 1.232 abaixo dos 66.914 de 10 de maio e 2.813, ou 4,1%, abaixo dos 68.495 de 9 de maio. Por distrito, Gangdong caiu 8,9%, de 3.928 para 3.582 anúncios, seguido por Seongbuk, com 6,2%, Gangseo, com 5,4%, Nowon, com 5,1%, e Dongdaemun, com 4,9%. Seocho recuou 4,7%, Songpa 4,1% e Gangnam 3,0%. Donos de dois imóveis pagam 20 pontos percentuais a mais sobre a alíquota básica, e donos de três ou mais, 30 pontos. A reportagem citou retirada de anúncios, aumento de preços pedidos e postura de espera; especialistas mencionaram a possibilidade de alta dos aluguéis mensais devido ao peso do imposto de posse. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Wohnungsangebote in Seoul sinken nach Steueraufschlag um 4 Prozent",
+        "excerpt": "Nach der Wiedereinführung des höheren Veräußerungsgewinnsteuersatzes für Mehrfachbesitzer sanken die Wohnungsangebote in Seoul bis 11. Mai 2026 in zwei Tagen um 2.813 oder 4,1%.",
+        "body": "Die Zahl der Wohnungsangebote in Seoul ist nach der Wiedereinführung des höheren Veräußerungsgewinnsteuersatzes für Mehrfachbesitzer rasch gesunken. Laut Hankyung.com wies Asil zum 11. Mai 2026 insgesamt 65.682 Angebote für Apartments in Seoul aus. Das waren 1.232 weniger als die 66.914 am 10. Mai und 2.813 weniger als die 68.495 am 9. Mai, ein Rückgang von 4,1%. Nach Bezirken fiel Gangdong um 8,9% von 3.928 auf 3.582 Angebote, gefolgt von Seongbuk mit 6,2%, Gangseo mit 5,4%, Nowon mit 5,1% und Dongdaemun mit 4,9%. Seocho sank um 4,7%, Songpa um 4,1% und Gangnam um 3,0%. Besitzer von zwei Wohnungen zahlen 20 Prozentpunkte zusätzlich zum Grundsatz, Besitzer von drei oder mehr 30 Prozentpunkte. Der Bericht nennt zurückgezogene Angebote, höhere Preisforderungen und Abwarten der Eigentümer; Experten verwiesen auf mögliche steigende Monatsmieten durch die Belastung aus Besitzsteuern. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les annonces d’appartements à Séoul reculent de 4% après la surtaxe",
+        "excerpt": "Après le retour de la surtaxe sur les plus-values pour les multipropriétaires, les annonces d’appartements à Séoul ont diminué de 2 813, soit 4,1%, en deux jours au 11 mai 2026.",
+        "body": "Les annonces d’appartements à Séoul ont rapidement diminué après le rétablissement de la surtaxe sur les plus-values immobilières pour les multipropriétaires. Selon Hankyung.com, les données d’Asil recensaient 65 682 annonces à Séoul au 11 mai 2026. C’est 1 232 de moins que les 66 914 du 10 mai et 2 813 de moins que les 68 495 du 9 mai, soit une baisse de 4,1%. Par arrondissement, Gangdong a reculé de 8,9%, de 3 928 à 3 582 annonces, devant Seongbuk à 6,2%, Gangseo à 5,4%, Nowon à 5,1% et Dongdaemun à 4,9%. Seocho a baissé de 4,7%, Songpa de 4,1% et Gangnam de 3,0%. Les propriétaires de deux logements se voient appliquer 20 points de pourcentage en plus du taux de base, et ceux de trois logements ou plus 30 points. L’article évoque des retraits d’annonces, des prix demandés plus élevés et une attitude d’attente; des experts ont mentionné un risque de hausse des loyers mensuels lié à la charge fiscale de détention. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "مع عودة ضريبة الأرباح المشددة، عروض شقق سيول تنخفض 4%",
+        "excerpt": "بعد عودة الضريبة المشددة على أرباح بيع العقارات لمالكي عدة مساكن، تراجعت عروض شقق سيول بمقدار 2813 عرضا، أي 4.1%، خلال يومين حتى 11 مايو 2026.",
+        "body": "تراجعت عروض الشقق في سيول بسرعة بعد عودة الضريبة المشددة على أرباح بيع العقارات لمالكي عدة مساكن. وبحسب Hankyung.com، أظهرت بيانات أسيل أن عدد عروض شقق سيول بلغ 65682 عرضا في 11 مايو 2026. وهذا يقل بمقدار 1232 عرضا عن 66914 عرضا في 10 مايو، وبمقدار 2813 عرضا، أو 4.1%، عن 68495 عرضا في 9 مايو. وعلى مستوى المناطق، انخفضت غانغدونغ 8.9% من 3928 إلى 3582 عرضا، تلتها سونغبوك 6.2%، وغانغسو 5.4%، ونوون 5.1%، ودونغديمون 4.9%. كما تراجعت سوتشو 4.7%، وسونغبا 4.1%، وغانغنام 3.0%. ويضاف إلى المعدل الأساسي 20 نقطة مئوية لمالكي منزلين و30 نقطة مئوية لمالكي ثلاثة منازل أو أكثر. وذكر التقرير أن ملاكا سحبوا العروض ورفعوا الأسعار المطلوبة واتجهوا إلى الترقب، بينما أشار خبراء إلى احتمال ارتفاع الإيجارات الشهرية بسبب عبء ضريبة الحيازة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "भारी कैपिटल गेन टैक्स लौटने के बाद सियोल अपार्टमेंट लिस्टिंग 4% घटी",
+        "excerpt": "बहु-घर मालिकों पर भारी कैपिटल गेन टैक्स की वापसी के बाद 11 मई 2026 तक सियोल अपार्टमेंट लिस्टिंग दो दिन में 2,813 यानी 4.1% घट गई।",
+        "body": "बहु-घर मालिकों पर कैपिटल गेन टैक्स का भारी प्रावधान लौटने के बाद सियोल में अपार्टमेंट लिस्टिंग तेजी से घटी। Hankyung.com के अनुसार, Asil के आंकड़ों में 11 मई 2026 को सियोल अपार्टमेंट लिस्टिंग 65,682 रही। यह 10 मई की 66,914 लिस्टिंग से एक दिन में 1,232 कम थी और 9 मई की 68,495 लिस्टिंग की तुलना में दो दिन में 2,813, यानी 4.1%, कम थी। जिलों में गांगडोंग 3,928 से 3,582 पर आकर 8.9% घटा, इसके बाद सोंगबुक 6.2%, गांगसो 5.4%, नोवोन 5.1% और डोंगडेमुन 4.9% घटे। सोचो 4.7%, सोंगपा 4.1% और गांगनाम 3.0% भी घटे। दो घरों के मालिकों पर मूल दर के ऊपर 20 प्रतिशत अंक और तीन या अधिक घरों के मालिकों पर 30 प्रतिशत अंक जोड़े जाते हैं। रिपोर्ट के अनुसार मकान मालिक लिस्टिंग वापस ले रहे हैं, मांगे गए दाम बढ़ा रहे हैं और इंतजार कर रहे हैं; विशेषज्ञों ने होल्डिंग टैक्स के बोझ से मासिक किराया बढ़ने की संभावना बताई। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Listing Apartemen Seoul Turun 4% Setelah Pajak Capital Gain Diperketat",
+        "excerpt": "Setelah pajak capital gain yang lebih berat bagi pemilik banyak rumah berlaku kembali, listing apartemen Seoul turun 2.813, atau 4,1%, dalam dua hari hingga 11 Mei 2026.",
+        "body": "Listing apartemen di Seoul turun cepat setelah pajak capital gain yang lebih berat bagi pemilik banyak rumah diberlakukan kembali. Menurut Hankyung.com, data Asil menunjukkan ada 65.682 listing apartemen di Seoul pada 11 Mei 2026. Jumlah itu turun 1.232 dari 66.914 pada 10 Mei dan turun 2.813, atau 4,1%, dari 68.495 pada 9 Mei. Berdasarkan distrik, Gangdong turun 8,9%, dari 3.928 menjadi 3.582 listing, diikuti Seongbuk 6,2%, Gangseo 5,4%, Nowon 5,1%, dan Dongdaemun 4,9%. Seocho turun 4,7%, Songpa 4,1%, dan Gangnam 3,0%. Pemilik dua rumah dikenai tambahan 20 poin persentase di atas tarif dasar, sedangkan pemilik tiga rumah atau lebih dikenai tambahan 30 poin. Laporan itu menyebut pemilik menarik listing, menaikkan harga penawaran, dan menunggu; para ahli menyebut kemungkinan kenaikan sewa bulanan akibat beban pajak kepemilikan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "2273d7f32129",
+    "slug": "돌아온-꼬마빌딩-3월-거래-25-쑥-536411",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T11:38:38.601Z",
+    "updatedAt": "2026-05-13T11:38:38.601Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051343621",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051343621",
+    "titleFingerprint": "192acd4807881f825df16238adbf2341013708ad",
+    "dedupKeys": [
+      "2273d7f32129e401baaf3634e7673ffdcae96168",
+      "192acd4807881f825df16238adbf2341013708ad",
+      "abb25654f8bec628e5c2c8fc9ab942d69b323349"
+    ],
+    "imageUrl": "/images/articles/2273d7f32129.png",
+    "i18n": {
+      "ko": {
+        "title": "꼬마빌딩 거래 3월 25% 증가, 서울 상업용 부동산 회복 신호 주목",
+        "excerpt": "한국경제에 따르면 3월 서울 상업·업무용 부동산 시장에서 꼬마빌딩 거래가 25% 늘며 중소형 상업용 자산 비중 확대가 확인됐다.",
+        "body": "서울 상업용 빌딩 시장에서 ‘꼬마빌딩’으로 불리는 중소형 상업용 부동산 거래가 다시 늘고 있다. 한국경제가 2026년 5월 13일 보도한 내용에 따르면, 상업용 부동산 종합 서비스 기업 알스퀘어가 국토교통부 실거래가 자료를 분석한 결과 3월 서울 상업·업무용 부동산 시장의 거래 규모는 1조6841억원으로 집계됐다. 같은 기간 꼬마빌딩 거래는 25% 증가한 것으로 전해졌다. 대형 자산 시장은 관망세를 보이는 반면 중소형 자산은 상대적으로 거래가 활발하다는 분석이 나온다. 이는 서울 상업용 부동산 시장에서 투자 수요가 대형 빌딩보다 중소형 자산으로 이동하고 있음을 보여주는 흐름이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Small-Building Deals Jump 25% in March as Seoul Commercial Property Stirs",
+        "excerpt": "According to Hankyung, Seoul’s commercial and business property market saw small-building transactions rise 25% in March, highlighting stronger activity in mid- and small-sized assets.",
+        "body": "Transactions of “small buildings,” or mid- and small-sized commercial real estate assets, are rising again in Seoul’s commercial building market. According to a May 13, 2026 report by Hankyung, commercial real estate service company RSQUARE analyzed Ministry of Land, Infrastructure and Transport transaction data and found that Seoul’s commercial and business property market recorded a transaction value of 1.6841 trillion won in March. Small-building deals rose 25% during the period. The report said large assets remain in a wait-and-see phase, while mid- and small-sized assets are trading more actively. The trend shows investment demand in Seoul’s commercial real estate market shifting more toward smaller assets than large buildings. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソウル小型ビル取引が3月に25%増、中小型商業不動産へ関心",
+        "excerpt": "韓国経済新聞によると、3月のソウル商業・業務用不動産市場で小型ビル取引が25%増え、中小型商業資産の比重拡大が確認された。",
+        "body": "ソウルの商業用ビル市場で、「小型ビル」と呼ばれる中小型商業不動産の取引が再び増えている。韓国経済新聞が2026年5月13日に報じた内容によると、商業用不動産総合サービス企業RSQUAREが国土交通部の実取引価格資料を分析した結果、3月のソウル商業・業務用不動産市場の取引規模は1兆6841億ウォンと集計された。同じ期間、小型ビル取引は25%増加した。大型資産市場は様子見姿勢が続く一方、中小型資産は相対的に取引が活発だとの分析が出ている。これはソウル商業用不動産市場で投資需要が大型ビルより中小型資産へ移っている流れを示している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "首尔“小型楼”3月交易增长25%，商业地产中小资产受关注",
+        "excerpt": "据韩国经济新闻报道，3月首尔商业及办公房地产市场中“小型楼”交易增长25%，显示中小型商业资产占比正在扩大。",
+        "body": "在首尔商业楼宇市场，被称为“小型楼”的中小型商业房地产交易正在回升。据韩国经济新闻2026年5月13日报道，商业房地产综合服务企业RSQUARE分析韩国国土交通部实际成交价资料后发现，3月首尔商业及办公房地产市场交易规模为1.6841万亿韩元。同期小型楼交易增长25%。报道称，大型资产市场仍处于观望状态，而中小型资产交易相对活跃。该趋势表明，在首尔商业房地产市场，投资需求正从大型楼宇更多转向中小型资产。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Edificios pequeños en Seúl suben 25% en marzo y reactivan el mercado comercial",
+        "excerpt": "Según Hankyung, las operaciones de edificios pequeños en el mercado comercial y de oficinas de Seúl crecieron 25% en marzo, elevando el peso de los activos medianos y pequeños.",
+        "body": "Las transacciones de “edificios pequeños”, es decir, inmuebles comerciales medianos y pequeños, vuelven a aumentar en el mercado de edificios comerciales de Seúl. Según informó Hankyung el 13 de mayo de 2026, la firma integral de servicios inmobiliarios comerciales RSQUARE analizó datos reales de transacciones del Ministerio de Tierra, Infraestructura y Transporte y estimó que el mercado comercial y de oficinas de Seúl alcanzó en marzo un volumen de 1,6841 billones de wones. En el mismo periodo, las operaciones de edificios pequeños aumentaron 25%. El informe señala que el mercado de grandes activos se mantiene a la espera, mientras los activos medianos y pequeños muestran una actividad relativamente mayor. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Prédios pequenos em Seul crescem 25% em março no mercado comercial",
+        "excerpt": "Segundo o Hankyung, as transações de prédios pequenos no mercado comercial e de escritórios de Seul aumentaram 25% em março, reforçando o peso dos ativos médios e pequenos.",
+        "body": "As transações de “prédios pequenos”, como são chamados os imóveis comerciais de médio e pequeno porte, voltaram a crescer no mercado de edifícios comerciais de Seul. Segundo reportagem do Hankyung de 13 de maio de 2026, a empresa de serviços imobiliários comerciais RSQUARE analisou dados reais de transações do Ministério da Terra, Infraestrutura e Transporte e apurou que o mercado comercial e de escritórios de Seul registrou em março um volume de 1,6841 trilhão de wones. No mesmo período, as negociações de prédios pequenos aumentaram 25%. Enquanto o mercado de grandes ativos segue em compasso de espera, os ativos médios e pequenos mostram atividade relativamente mais forte. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Kleine Gebäude in Seoul: Transaktionen steigen im März um 25 Prozent",
+        "excerpt": "Laut Hankyung legten die Transaktionen kleiner Gebäude im Markt für Gewerbe- und Büroimmobilien in Seoul im März um 25% zu, wodurch kleinere und mittlere Assets an Gewicht gewinnen.",
+        "body": "Im Markt für Gewerbegebäude in Seoul nehmen Transaktionen mit sogenannten kleinen Gebäuden, also kleineren und mittleren Gewerbeimmobilien, wieder zu. Wie Hankyung am 13. Mai 2026 berichtete, analysierte der Gewerbeimmobiliendienstleister RSQUARE reale Transaktionsdaten des Ministeriums für Land, Infrastruktur und Verkehr. Demnach erreichte der Markt für Gewerbe- und Büroimmobilien in Seoul im März ein Transaktionsvolumen von 1,6841 Billionen Won. Im selben Zeitraum stiegen die Geschäfte mit kleinen Gebäuden um 25%. Während der Markt für große Assets abwartend bleibt, werden kleinere und mittlere Assets vergleichsweise aktiv gehandelt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Petits immeubles à Séoul : les transactions bondissent de 25% en mars",
+        "excerpt": "Selon Hankyung, les transactions de petits immeubles dans l’immobilier commercial et de bureaux à Séoul ont progressé de 25% en mars, renforçant le poids des actifs moyens et petits.",
+        "body": "Sur le marché des immeubles commerciaux de Séoul, les transactions de « petits immeubles », c’est-à-dire d’actifs commerciaux de taille petite ou moyenne, repartent à la hausse. D’après un article de Hankyung publié le 13 mai 2026, la société de services immobiliers commerciaux RSQUARE a analysé les données de transactions réelles du ministère du Territoire, des Infrastructures et des Transports. Le marché commercial et de bureaux de Séoul a ainsi enregistré en mars un volume de 1 684,1 milliards de wons. Sur la même période, les transactions de petits immeubles ont augmenté de 25%. Le rapport indique que les grands actifs restent dans l’attente, tandis que les actifs moyens et petits sont plus actifs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صفقات المباني الصغيرة في سيول ترتفع 25% خلال مارس مع نشاط تجاري أوضح",
+        "excerpt": "بحسب هانكيونغ، ارتفعت صفقات المباني الصغيرة في سوق العقارات التجارية والمكتبية في سيول 25% خلال مارس، ما يبرز زيادة وزن الأصول الصغيرة والمتوسطة.",
+        "body": "تشهد سوق المباني التجارية في سيول عودة لنشاط صفقات ما يعرف بـ«المباني الصغيرة»، أي العقارات التجارية الصغيرة والمتوسطة. ووفق ما أوردته هانكيونغ في 13 مايو 2026، حللت شركة RSQUARE المتخصصة في خدمات العقارات التجارية بيانات الصفقات الفعلية الصادرة عن وزارة الأراضي والبنية التحتية والنقل. وأظهرت النتائج أن سوق العقارات التجارية والمكتبية في سيول سجلت في مارس حجم تداول بلغ 1.6841 تريليون وون. وخلال الفترة نفسها، ارتفعت صفقات المباني الصغيرة 25%. ويشير التقرير إلى أن سوق الأصول الكبيرة ما زالت في حالة ترقب، بينما تشهد الأصول الصغيرة والمتوسطة نشاطا نسبيا أكبر. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सियोल में छोटे भवनों के सौदे मार्च में 25% बढ़े, वाणिज्यिक बाजार में हलचल",
+        "excerpt": "Hankyung के अनुसार, मार्च में सियोल के वाणिज्यिक और कार्यालय संपत्ति बाजार में छोटे भवनों के सौदे 25% बढ़े, जिससे मध्यम और छोटे वाणिज्यिक परिसंपत्तियों की हिस्सेदारी बढ़ी।",
+        "body": "सियोल के वाणिज्यिक भवन बाजार में ‘छोटे भवन’ कहे जाने वाले मध्यम और छोटे आकार की वाणिज्यिक रियल एस्टेट संपत्तियों के सौदे फिर बढ़ रहे हैं। Hankyung की 13 मई 2026 की रिपोर्ट के अनुसार, वाणिज्यिक रियल एस्टेट सेवा कंपनी RSQUARE ने भूमि, अवसंरचना और परिवहन मंत्रालय के वास्तविक लेनदेन आंकड़ों का विश्लेषण किया। इसके मुताबिक मार्च में सियोल के वाणिज्यिक और कार्यालय संपत्ति बाजार का लेनदेन आकार 1.6841 ट्रिलियन वॉन रहा। इसी अवधि में छोटे भवनों के सौदे 25% बढ़े। रिपोर्ट के अनुसार बड़े परिसंपत्ति बाजार में प्रतीक्षा का रुख है, जबकि मध्यम और छोटे परिसंपत्तियों में अपेक्षाकृत अधिक सक्रियता दिख रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Transaksi Gedung Kecil Seoul Naik 25% pada Maret, Pasar Komersial Menguat",
+        "excerpt": "Menurut Hankyung, transaksi gedung kecil di pasar properti komersial dan perkantoran Seoul naik 25% pada Maret, menandai meningkatnya porsi aset kecil dan menengah.",
+        "body": "Transaksi “gedung kecil”, yaitu properti komersial berukuran kecil dan menengah, kembali meningkat di pasar gedung komersial Seoul. Menurut laporan Hankyung pada 13 Mei 2026, perusahaan layanan properti komersial RSQUARE menganalisis data transaksi riil dari Kementerian Pertanahan, Infrastruktur, dan Transportasi. Hasilnya, pasar properti komersial dan perkantoran Seoul mencatat nilai transaksi 1,6841 triliun won pada Maret. Pada periode yang sama, transaksi gedung kecil meningkat 25%. Laporan tersebut menyebut pasar aset besar masih cenderung menunggu, sedangkan aset kecil dan menengah relatif lebih aktif diperdagangkan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "1a0ca2ca95db",
+    "slug": "금융주거-융합17만가구-검단-로열파크씨티-나온다-304420",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T11:37:17.539Z",
+    "updatedAt": "2026-05-13T11:37:17.539Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051343571",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051343571",
+    "titleFingerprint": "4fa513a9a13e088790c137d96c3b23160353ed9f",
+    "dedupKeys": [
+      "1a0ca2ca95dbe01212012927377f3a1191128e14",
+      "4fa513a9a13e088790c137d96c3b23160353ed9f",
+      "81870f813a2ffcaaf0155d4997f2685dd26ca43f"
+    ],
+    "imageUrl": "/images/articles/1a0ca2ca95db.jpg",
+    "i18n": {
+      "ko": {
+        "title": "검단 로열파크씨티 1.7만가구 추진, 금융·주거 융합도시 주목",
+        "excerpt": "DK아시아가 하나은행과 전략적 금융협약을 맺고 인천 검단에 1.7만가구 규모 로열파크씨티를 추진하며 금융·주거 복합도시 모델을 제시했다.",
+        "body": "DK아시아가 하나은행과 손잡고 인천 검단 일대에 1.7만가구 규모의 로열파크씨티 조성을 추진한다. 한국경제에 따르면 양사는 인천 로열파크씨티 미래주택전시관에서 전략적 금융협약을 체결했다. 이 사업은 스페인 산탄데르시티를 참고한 금융·주거 복합도시 구상이다. 산탄데르시티는 150만㎡ 규모에 산탄데르은행 본사와 데이터센터, 교육·생활 인프라가 모인 자족형 도시로 소개됐다. 검단 로열파크씨티는 금융 기능과 주거 기능을 결합한 대형 복합개발 사례로 주목받고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Geomdan Royal Park City’s 17,000 Homes Put Finance-Housing Hub in Focus",
+        "excerpt": "DK Asia signed a strategic financial agreement with Hana Bank to advance the 17,000-home Royal Park City project in Incheon’s Geomdan as a finance-housing mixed city model.",
+        "body": "DK Asia is moving forward with Royal Park City, a 17,000-home development in the Geomdan area of Incheon, in partnership with Hana Bank. According to The Korea Economic Daily, the two companies signed a strategic financial agreement at the Royal Park City Future Housing Exhibition Hall in Incheon. The project is framed as a finance-and-housing mixed city modeled on Spain’s Santander City. Santander City was described as a 1.5 million-square-meter self-sufficient city combining Santander Bank’s headquarters, data center, education facilities and living infrastructure. Geomdan Royal Park City is drawing attention as a large mixed-use development linking financial and residential functions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "検丹ロイヤルパークシティ1.7万戸、金融・住宅融合都市に注目",
+        "excerpt": "DKアジアはハナ銀行と戦略的金融協約を結び、仁川・検丹で1.7万戸規模のロイヤルパークシティを推進し、金融・住宅複合都市モデルを示した。",
+        "body": "DKアジアはハナ銀行と連携し、仁川・検丹一帯で1.7万戸規模のロイヤルパークシティ造成を進める。韓国経済新聞によると、両社は仁川ロイヤルパークシティ未来住宅展示館で戦略的金融協約を締結した。この事業はスペインのサンタンデールシティを参考にした金融・住宅複合都市構想だ。サンタンデールシティは150万平方メートル規模で、サンタンデール銀行本社、データセンター、教育・生活インフラが集まる自足型都市として紹介された。検丹ロイヤルパークシティは金融機能と住宅機能を結ぶ大型複合開発として注目されている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "黔丹Royal Park City拟建1.7万户，金融住宅融合受关注",
+        "excerpt": "DK Asia与韩亚银行签署战略金融协议，推进仁川黔丹1.7万户规模Royal Park City项目，提出金融与住宅融合的复合城市模式。",
+        "body": "DK Asia正与韩亚银行合作，在仁川黔丹一带推进1.7万户规模的Royal Park City建设。据《韩国经济新闻》报道，双方在仁川Royal Park City未来住宅展示馆签署了战略金融协议。该项目以西班牙桑坦德城为参考，构想打造金融与住宅融合的复合城市。桑坦德城被介绍为面积150万平方米的自足型城市，集中了桑坦德银行总部、数据中心以及教育和生活基础设施。黔丹Royal Park City因把金融功能与居住功能结合起来，成为大型复合开发案例而受到关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Royal Park City de Geomdan suma 17.000 viviendas y foco financiero",
+        "excerpt": "DK Asia firmó un acuerdo financiero estratégico con Hana Bank para impulsar Royal Park City, de 17.000 viviendas en Geomdan, Incheon, como modelo urbano de finanzas y vivienda.",
+        "body": "DK Asia avanza junto con Hana Bank en Royal Park City, un desarrollo de 17.000 viviendas en la zona de Geomdan, Incheon. Según The Korea Economic Daily, ambas partes firmaron un acuerdo financiero estratégico en el centro de exhibición de vivienda futura de Royal Park City en Incheon. El proyecto se plantea como una ciudad mixta de finanzas y vivienda inspirada en Santander City, en España. Santander City fue presentada como una ciudad autosuficiente de 1,5 millones de metros cuadrados que reúne la sede de Banco Santander, un centro de datos e infraestructura educativa y residencial. Royal Park City de Geomdan atrae atención como gran desarrollo que integra funciones financieras y habitacionales. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Royal Park City em Geomdan terá 17 mil casas e foco financeiro-residencial",
+        "excerpt": "A DK Asia firmou acordo financeiro estratégico com o Hana Bank para avançar com a Royal Park City, de 17 mil moradias em Geomdan, Incheon, como modelo urbano misto.",
+        "body": "A DK Asia avança, em parceria com o Hana Bank, com a Royal Park City, empreendimento de 17 mil moradias na região de Geomdan, em Incheon. Segundo o The Korea Economic Daily, as duas partes assinaram um acordo financeiro estratégico no centro de exposição de moradias futuras da Royal Park City, em Incheon. O projeto é apresentado como uma cidade mista de finanças e habitação inspirada na Santander City, na Espanha. A Santander City foi descrita como uma cidade autossuficiente de 1,5 milhão de metros quadrados, reunindo a sede do Banco Santander, data center e infraestrutura educacional e de vida. A Royal Park City de Geomdan chama atenção como grande desenvolvimento que conecta funções financeiras e residenciais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Geomdan Royal Park City mit 17.000 Wohnungen rückt Finanz-Wohnstadt in Fokus",
+        "excerpt": "DK Asia hat mit der Hana Bank eine strategische Finanzvereinbarung geschlossen und treibt in Incheons Geomdan Royal Park City mit 17.000 Wohnungen als Mischstadt voran.",
+        "body": "DK Asia treibt gemeinsam mit der Hana Bank Royal Park City voran, ein Projekt mit 17.000 Wohnungen im Gebiet Geomdan in Incheon. Laut Korea Economic Daily unterzeichneten beide Seiten im Royal Park City Future Housing Exhibition Hall in Incheon eine strategische Finanzvereinbarung. Das Vorhaben wird als gemischte Finanz- und Wohnstadt nach dem Vorbild der spanischen Santander City konzipiert. Santander City wurde als 1,5 Millionen Quadratmeter große, eigenständige Stadt beschrieben, in der die Zentrale der Santander Bank, ein Rechenzentrum sowie Bildungs- und Lebensinfrastruktur gebündelt sind. Geomdan Royal Park City erhält Aufmerksamkeit als großes Entwicklungsprojekt, das Finanz- und Wohnfunktionen verbindet. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Royal Park City à Geomdan: 17.000 logements et modèle finance-logement",
+        "excerpt": "DK Asia a signé un accord financier stratégique avec Hana Bank pour lancer Royal Park City à Geomdan, Incheon, un projet de 17.000 logements mêlant finance et habitat.",
+        "body": "DK Asia avance avec Hana Bank sur Royal Park City, un développement de 17.000 logements dans le secteur de Geomdan, à Incheon. Selon The Korea Economic Daily, les deux parties ont signé un accord financier stratégique au Royal Park City Future Housing Exhibition Hall d’Incheon. Le projet est présenté comme une ville mixte associant finance et logement, inspirée de Santander City en Espagne. Santander City a été décrite comme une ville autosuffisante de 1,5 million de mètres carrés réunissant le siège de Santander Bank, un centre de données ainsi que des infrastructures d’éducation et de vie quotidienne. Royal Park City à Geomdan attire l’attention comme grand projet combinant fonctions financières et résidentielles. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "رويال بارك سيتي في غيومدان تضم 17 ألف منزل وتمزج المال بالسكن",
+        "excerpt": "وقعت DK Asia اتفاقا ماليا استراتيجيا مع بنك Hana لدفع مشروع رويال بارك سيتي في غيومدان بإنتشون، ويضم 17 ألف منزل كنموذج مدينة تجمع التمويل والسكن.",
+        "body": "تمضي DK Asia، بالشراكة مع بنك Hana، في تطوير رويال بارك سيتي في منطقة غيومدان بمدينة إنتشون، وهو مشروع يضم 17 ألف منزل. ووفقا لصحيفة Korea Economic Daily، وقعت الجهتان اتفاقا ماليا استراتيجيا في مركز عرض مساكن المستقبل الخاص برويال بارك سيتي في إنتشون. ويطرح المشروع كمدينة تجمع بين التمويل والسكن، مستلهما نموذج سانتاندير سيتي في إسبانيا. وقد عُرضت سانتاندير سيتي كمدينة مكتفية ذاتيا على مساحة 1.5 مليون متر مربع، تضم مقر بنك سانتاندير ومركز بيانات وبنية تعليمية ومعيشية. ويحظى مشروع غيومدان بالاهتمام بوصفه تطويرا كبيرا يربط الوظائف المالية بالسكنية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "ग्योमदान Royal Park City में 17,000 घर, वित्त-आवास मॉडल पर नजर",
+        "excerpt": "DK Asia ने Hana Bank के साथ रणनीतिक वित्तीय समझौता कर इंचियोन के ग्योमदान में 17,000 घरों वाली Royal Park City को वित्त और आवास मिश्रित शहर मॉडल के रूप में आगे बढ़ाया।",
+        "body": "DK Asia, Hana Bank के साथ मिलकर इंचियोन के ग्योमदान क्षेत्र में 17,000 घरों वाली Royal Park City परियोजना को आगे बढ़ा रही है। Korea Economic Daily के अनुसार, दोनों पक्षों ने इंचियोन स्थित Royal Park City Future Housing Exhibition Hall में रणनीतिक वित्तीय समझौते पर हस्ताक्षर किए। यह परियोजना स्पेन की Santander City से प्रेरित वित्त और आवास मिश्रित शहर की अवधारणा पर आधारित है। Santander City को 15 लाख वर्ग मीटर के आत्मनिर्भर शहर के रूप में बताया गया, जहां Santander Bank का मुख्यालय, डेटा सेंटर, शिक्षा और जीवन से जुड़ी बुनियादी सुविधाएं हैं। ग्योमदान Royal Park City वित्तीय और आवासीय कार्यों को जोड़ने वाले बड़े मिश्रित विकास के रूप में ध्यान खींच रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Royal Park City Geomdan 17.000 Unit, Kota Finansial-Hunian Disorot",
+        "excerpt": "DK Asia menandatangani kesepakatan finansial strategis dengan Hana Bank untuk mendorong Royal Park City 17.000 unit di Geomdan, Incheon, sebagai model kota finansial-hunian.",
+        "body": "DK Asia bersama Hana Bank mendorong pengembangan Royal Park City, proyek 17.000 unit hunian di kawasan Geomdan, Incheon. Menurut The Korea Economic Daily, kedua pihak menandatangani kesepakatan finansial strategis di Royal Park City Future Housing Exhibition Hall di Incheon. Proyek ini diposisikan sebagai kota campuran finansial dan hunian yang merujuk pada Santander City di Spanyol. Santander City digambarkan sebagai kota mandiri seluas 1,5 juta meter persegi yang menggabungkan kantor pusat Santander Bank, pusat data, serta infrastruktur pendidikan dan kehidupan. Royal Park City Geomdan menarik perhatian sebagai pengembangan besar yang menghubungkan fungsi finansial dan residensial. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "0bd51e4e0899",
     "slug": "압구정-갤러리아백화점-모래시계-형상으로-변신-561084",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Negosiasi Bonus Samsung Electronics Buntu Dua Hari, Skema 15% Laba Operasi Jadi Sorotan",
         "excerpt": "Manajemen dan serikat Samsung Electronics pada 12 Mei membahas dana serta pembagian bonus di National Labor Relations Commission, tetapi belum sepakat karena tuntutan serikat untuk melembagakan 15% laba operasi.",
         "body": "Manajemen dan serikat Samsung Electronics membuka rapat pascamediasi kedua pada 12 Mei pukul 10.00 di National Labor Relations Commission, Kompleks Pemerintah Sejong, untuk membahas sumber dana dan cara pembagian bonus kinerja, tetapi hingga tengah malam belum menemukan titik temu yang jelas. Sehari sebelumnya, rapat pertama berlangsung 11 jam 30 menit dan juga berakhir tanpa kesimpulan, sehingga kebuntuan berlanjut untuk hari kedua. Cabang Samsung Electronics dari Samsung Super Enterprise Union meminta penghapusan batas atas excess profit incentive (OPI) dan pencantuman tertulis bahwa 15% laba operasi dialokasikan sebagai dana bonus. Perusahaan menawarkan penggunaan 10% laba operasi divisi semikonduktor DS sebagai dana bonus, disertai penghargaan khusus tambahan hanya untuk unit bisnis memori. Posisi manajemen adalah mempertahankan sistem OPI yang ada dan menggabungkannya dengan kompensasi khusus sebagai skema imbalan yang fleksibel. Karena jarak posisi belum menyempit, negosiasi bonus diperkirakan tetap sulit. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "238ad8cdc89c",
-    "slug": "삼성전자-사후조정-결국-결렬정부-21년만에-긴급조정권-꺼내나-147936",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T19:15:10.695Z",
-    "updatedAt": "2026-05-12T19:15:10.695Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910454/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133910454/1",
-    "titleFingerprint": "52529dbff486f782fa88f159b8b87458565337b2",
-    "dedupKeys": [
-      "238ad8cdc89c5b8b0bd5a11368cd7ba54a2d8b7e",
-      "52529dbff486f782fa88f159b8b87458565337b2",
-      "83b401d6a890614b3a35f8da99b6e11584ea0088"
-    ],
-    "imageUrl": "/images/articles/238ad8cdc89c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노사 사후조정 결렬, 21일 총파업 예고에 긴급조정권 주목",
-        "excerpt": "삼성전자 초기업노조와 사측의 중노위 2차 사후조정이 13일 결렬되며, 노조가 21일부터 18일간 전면 총파업을 예고한 가운데 정부 긴급조정권 여부가 쟁점으로 떠올랐다.",
-        "body": "삼성전자 노사 갈등을 풀기 위한 마지막 자율 조정 절차였던 중앙노동위원회 사후조정이 13일 결렬됐다. 삼성전자 초기업노조는 정부세종청사 중노위에서 전날 오전 10시부터 약 17시간 이어진 2차 사후조정 끝에 최종 결렬을 선언했다. 핵심 쟁점은 노조가 요구한 ‘영업이익 15% 성과급’ 제도화였다. 노조는 성과급 제도화 없이는 타협할 수 없다는 입장을 보였고, 사측은 경영권 침해와 비용 부담을 이유로 난색을 보인 것으로 알려졌다. 노조가 오는 21일부터 18일간 전면 총파업을 예고하면서 산업계 관심은 정부가 2005년 이후 21년 만에 긴급조정권을 발동할지에 쏠리고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics labor talks fail as 18-day strike plan puts emergency mediation in focus",
-        "excerpt": "Samsung Electronics’ union and management failed to reach a post-mediation deal at the National Labor Relations Commission on the 13th, drawing attention to possible government emergency mediation.",
-        "body": "Post-mediation by the National Labor Relations Commission, the final voluntary channel to resolve Samsung Electronics’ labor dispute, broke down on the 13th. The Samsung Electronics enterprise-wide union declared the second post-mediation session at the government complex in Sejong a final failure after talks that began at 10 a.m. the previous day and lasted about 17 hours. The core issue was the union’s demand to institutionalize a performance bonus equal to 15% of operating profit. The union said there would be no compromise without such a system, while management reportedly objected over concerns about management rights and cost burdens. With the union announcing an 18-day full strike from the 21st, industry attention is turning to whether the government will invoke emergency mediation for the first time in 21 years since 2005. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子の労使事後調整が決裂、21日からの全面ストで緊急調整権に注目",
-        "excerpt": "サムスン電子労使の中央労働委員会による2回目の事後調整が13日に決裂し、労組が21日から18日間の全面ストを予告する中、政府の緊急調整権発動が焦点となっている。",
-        "body": "サムスン電子の労使対立を解く最後の自主的調整手段だった中央労働委員会の事後調整が13日、決裂した。サムスン電子超企業労組は政府世宗庁舎の中労委で、前日午前10時から約17時間続いた2回目の事後調整の末、最終決裂を宣言した。最大の争点は、労組が求めた「営業利益15%の成果給」の制度化だった。労組は成果給制度化なしに妥協はないとの立場を示し、会社側は経営権侵害と費用負担を理由に難色を示したとされる。労組が21日から18日間の全面ゼネストを予告したことで、産業界の関心は政府が2005年以来21年ぶりに緊急調整権を発動するかに集まっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子劳资事后调解破裂，21日全面罢工预告引发紧急调整权关注",
-        "excerpt": "三星电子工会与公司在中央劳动委员会的第二轮事后调解于13日破裂，工会预告21日起全面罢工18天，政府是否动用紧急调整权成为焦点。",
-        "body": "用于解决三星电子劳资矛盾的最后自主调解手段，即中央劳动委员会事后调解，于13日宣告破裂。三星电子超企业工会在政府世宗厅舍中央劳动委员会表示，第二轮事后调解最终破裂；会议从前一日上午10时开始，持续约17小时。核心争议是工会要求将“营业利润15%作为绩效奖金”制度化。工会坚持若不制度化绩效奖金就不妥协，而公司方面据称以侵犯经营权和成本负担为由表示为难。随着工会预告从21日起进行为期18天的全面总罢工，产业界关注政府是否会在2005年后时隔21年启动紧急调整权。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Fracasa la mediación laboral en Samsung Electronics y crece la atención sobre una medida urgente",
-        "excerpt": "La segunda mediación posterior entre el sindicato de Samsung Electronics y la empresa fracasó el día 13, mientras el sindicato prevé una huelga total de 18 días desde el 21.",
-        "body": "La mediación posterior de la Comisión Nacional de Relaciones Laborales, último mecanismo voluntario para resolver el conflicto laboral en Samsung Electronics, fracasó el día 13. El sindicato supraempresarial de Samsung Electronics declaró roto el segundo proceso de mediación en el complejo gubernamental de Sejong tras una reunión que comenzó a las 10 de la mañana del día anterior y duró unas 17 horas. El punto central fue la demanda sindical de institucionalizar un bono de desempeño equivalente al 15% del beneficio operativo. El sindicato sostuvo que no habría acuerdo sin ese sistema, mientras que la empresa habría mostrado reservas por posible afectación de la gestión y carga de costos. Con la huelga total de 18 días anunciada desde el 21, la industria observa si el gobierno recurrirá a la mediación de emergencia por primera vez en 21 años desde 2005. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Mediação trabalhista da Samsung Electronics fracassa e greve de 18 dias põe governo em foco",
-        "excerpt": "A segunda mediação posterior entre o sindicato da Samsung Electronics e a empresa fracassou no dia 13, enquanto o sindicato prevê greve total de 18 dias a partir do dia 21.",
-        "body": "A mediação posterior da Comissão Nacional de Relações Trabalhistas, último meio voluntário para resolver o conflito entre trabalhadores e direção da Samsung Electronics, fracassou no dia 13. O sindicato supraempresarial da Samsung Electronics declarou o impasse final após a segunda rodada no complexo governamental de Sejong, iniciada às 10h do dia anterior e prolongada por cerca de 17 horas. O principal ponto de divergência foi a exigência sindical de institucionalizar um bônus de desempenho equivalente a 15% do lucro operacional. O sindicato afirmou que não haveria acordo sem esse sistema, enquanto a empresa teria resistido por alegar interferência nos direitos de gestão e pressão de custos. Com a greve total de 18 dias anunciada a partir do dia 21, o setor observa se o governo usará a mediação de emergência pela primeira vez em 21 anos desde 2005. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Schlichtung scheitert, 18-tägiger Streik rückt Notvermittlung in den Fokus",
-        "excerpt": "Die zweite Nachschlichtung zwischen der Samsung-Electronics-Gewerkschaft und dem Unternehmen scheiterte am 13.; wegen eines ab dem 21. geplanten 18-tägigen Vollstreiks steht die Regierung im Blick.",
-        "body": "Die Nachschlichtung der Nationalen Arbeitskommission, der letzte freiwillige Weg zur Lösung des Arbeitskonflikts bei Samsung Electronics, ist am 13. gescheitert. Die unternehmensübergreifende Gewerkschaft von Samsung Electronics erklärte die zweite Runde im Regierungskomplex Sejong nach Gesprächen, die am Vortag um 10 Uhr begonnen und rund 17 Stunden gedauert hatten, endgültig für gescheitert. Zentraler Streitpunkt war die Forderung der Gewerkschaft, eine Leistungsprämie in Höhe von 15% des operativen Gewinns festzuschreiben. Die Gewerkschaft sah ohne diese Regelung keinen Kompromiss, während das Unternehmen Berichten zufolge Eingriffe in Managementrechte und Kostenbelastungen geltend machte. Da die Gewerkschaft ab dem 21. einen 18-tägigen Vollstreik angekündigt hat, richtet sich der Blick der Industrie darauf, ob die Regierung erstmals seit 2005, also nach 21 Jahren, eine Notvermittlung einsetzt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Échec de la médiation chez Samsung Electronics, la grève de 18 jours relance l’option d’urgence",
-        "excerpt": "La deuxième médiation postérieure entre le syndicat de Samsung Electronics et la direction a échoué le 13, alors qu’une grève totale de 18 jours est annoncée à partir du 21.",
-        "body": "La médiation postérieure de la Commission nationale du travail, dernier moyen volontaire pour résoudre le conflit social chez Samsung Electronics, a échoué le 13. Le syndicat supra-entreprise de Samsung Electronics a déclaré l’échec final de la deuxième session tenue au complexe gouvernemental de Sejong, après une réunion commencée la veille à 10 heures et poursuivie environ 17 heures. Le principal point de blocage était la demande syndicale d’institutionnaliser une prime de performance équivalant à 15% du bénéfice d’exploitation. Le syndicat a affirmé qu’aucun compromis n’était possible sans ce dispositif, tandis que la direction aurait invoqué une atteinte aux droits de gestion et une charge financière. Avec une grève totale de 18 jours annoncée à partir du 21, l’industrie observe si le gouvernement utilisera la médiation d’urgence pour la première fois depuis 2005, après 21 ans. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "فشل وساطة سامسونغ إلكترونيكس العمالية وإضراب 18 يوما يضع التدخل الحكومي تحت الضوء",
-        "excerpt": "فشلت في 13 من الشهر جولة الوساطة اللاحقة الثانية بين نقابة سامسونغ إلكترونيكس والإدارة، ومع إعلان إضراب شامل لمدة 18 يوما بدءا من 21، تتركز الأنظار على خيار الوساطة الطارئة.",
-        "body": "فشلت في 13 من الشهر الوساطة اللاحقة للجنة علاقات العمل المركزية، وهي آخر وسيلة طوعية لحل النزاع العمالي في سامسونغ إلكترونيكس. وأعلنت نقابة سامسونغ إلكترونيكس فوق المؤسسية فشل الجولة الثانية في المجمع الحكومي بمدينة سيجونغ، بعد اجتماع بدأ في العاشرة صباح اليوم السابق واستمر نحو 17 ساعة. تمحور الخلاف حول مطلب النقابة بإقرار مكافأة أداء تعادل 15% من الأرباح التشغيلية كنظام ثابت. وتمسكت النقابة بعدم التوصل إلى تسوية من دون هذا النظام، بينما أبدت الإدارة، بحسب ما ورد، تحفظا بسبب المساس بحقوق الإدارة وعبء التكاليف. ومع إعلان النقابة إضرابا شاملا لمدة 18 يوما اعتبارا من 21، تتابع الأوساط الصناعية ما إذا كانت الحكومة ستفعل سلطة الوساطة الطارئة للمرة الأولى منذ عام 2005، أي بعد 21 عاما. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics में मध्यस्थता विफल, 21 से 18 दिन की हड़ताल पर आपात समायोजन पर नजर",
-        "excerpt": "Samsung Electronics की यूनियन और प्रबंधन के बीच केंद्रीय श्रम आयोग की दूसरी पश्च-मध्यस्थता 13 तारीख को विफल हो गई; 21 से 18 दिन की पूर्ण हड़ताल की चेतावनी के बीच सरकार के कदम पर ध्यान है।",
-        "body": "Samsung Electronics के श्रम विवाद को सुलझाने का अंतिम स्वैच्छिक माध्यम मानी जा रही केंद्रीय श्रम आयोग की पश्च-मध्यस्थता 13 तारीख को विफल हो गई। Samsung Electronics की सुपर-एंटरप्राइज यूनियन ने सेजोंग सरकारी परिसर में हुई दूसरी पश्च-मध्यस्थता के बाद अंतिम विफलता की घोषणा की; बैठक पिछले दिन सुबह 10 बजे शुरू होकर लगभग 17 घंटे चली। मुख्य मुद्दा यूनियन की मांग थी कि परिचालन लाभ के 15% के बराबर प्रदर्शन बोनस को संस्थागत किया जाए। यूनियन ने कहा कि इस व्यवस्था के बिना समझौता नहीं होगा, जबकि प्रबंधन ने कथित तौर पर प्रबंधन अधिकारों में दखल और लागत बोझ का हवाला देते हुए आपत्ति जताई। यूनियन ने 21 तारीख से 18 दिन की पूर्ण आम हड़ताल की चेतावनी दी है, इसलिए उद्योग जगत देख रहा है कि सरकार 2005 के बाद 21 वर्षों में पहली बार आपात समायोजन अधिकार का उपयोग करेगी या नहीं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Mediasi Samsung Electronics gagal, rencana mogok 18 hari soroti opsi penyesuaian darurat",
-        "excerpt": "Mediasi lanjutan kedua antara serikat Samsung Electronics dan manajemen gagal pada tanggal 13, sementara serikat mengumumkan mogok total 18 hari mulai tanggal 21.",
-        "body": "Mediasi lanjutan oleh Komisi Hubungan Perburuhan Pusat, jalur sukarela terakhir untuk menyelesaikan konflik ketenagakerjaan di Samsung Electronics, gagal pada tanggal 13. Serikat lintas perusahaan Samsung Electronics menyatakan mediasi lanjutan kedua di kompleks pemerintah Sejong berakhir buntu setelah rapat yang dimulai pukul 10 pagi hari sebelumnya dan berlangsung sekitar 17 jam. Isu utama adalah tuntutan serikat agar bonus kinerja sebesar 15% dari laba operasional dilembagakan. Serikat menyatakan tidak ada kompromi tanpa sistem tersebut, sementara pihak perusahaan dilaporkan keberatan karena alasan gangguan terhadap hak manajemen dan beban biaya. Dengan rencana mogok total selama 18 hari mulai tanggal 21, perhatian industri tertuju pada apakah pemerintah akan memakai kewenangan penyesuaian darurat untuk pertama kalinya dalam 21 tahun sejak 2005. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "2ff0b65e4425",
-    "slug": "6억-양도세-피하려다-10억-증여세절세-함정-빠진-다주택자들-857907",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T19:13:05.811Z",
-    "updatedAt": "2026-05-12T19:13:05.811Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12044820",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12044820",
-    "titleFingerprint": "a879b657dd82c8ed07ace832e8996761d6c0800a",
-    "dedupKeys": [
-      "2ff0b65e4425f9f740b2b40932ceb223ce4cac8f",
-      "a879b657dd82c8ed07ace832e8996761d6c0800a",
-      "97efc670d0f894825c14b81828a4094560ea8fb7"
-    ],
-    "imageUrl": "/images/articles/2ff0b65e4425.jpg",
-    "i18n": {
-      "ko": {
-        "title": "다주택자 양도세 중과 재개, 6억 피하려다 10억 증여세 맞는 절세 함정",
-        "excerpt": "5월 9일 이후 다주택자 양도소득세 중과가 다시 시작되면서, 양도세를 줄이려 증여를 선택한 보유자들이 더 큰 증여세 부담에 직면할 수 있다는 점이 부각됐다.",
-        "body": "5월 9일 이후 다주택자의 양도소득세 중과가 다시 시작되면서 절세 전략을 둘러싼 주의가 커지고 있다. 원문은 “6억 양도세 피하려다 10억 증여세”라는 사례를 통해, 다주택자가 양도세 부담을 낮추기 위해 증여를 선택할 경우 오히려 더 큰 세금 부담에 놓일 수 있다고 전했다. 배경은 다주택자 양도세 중과 재개다. 매도 대신 증여를 택하는 방식이 절세 수단처럼 보일 수 있지만, 증여세가 발생하면 전체 부담이 예상보다 커질 수 있다. 이에 따라 다주택자는 양도와 증여 각각의 세 부담을 비교해야 한다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Multiple-home capital gains surtax returns, exposing gift-tax trap",
-        "excerpt": "After the capital gains tax surcharge for multiple-home owners resumed on May 9, owners seeking to cut transfer tax through gifts may face a larger gift-tax burden.",
-        "body": "After May 9, the capital gains tax surcharge on multiple-home owners resumed, drawing attention to tax-saving strategies. The source article used the case headline “avoiding 600 million won in transfer tax only to face 1 billion won in gift tax” to show that owners may face a heavier tax bill if they choose gifting to reduce capital gains tax. The background is the restart of the surcharge on capital gains for multiple-home owners. Gifting instead of selling may look like a tax-saving route, but once gift tax applies, the total burden can become larger than expected. Owners therefore need to compare the tax impact of sale and gift. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "多住宅保有者の譲渡税重課再開、贈与税が上回る節税の落とし穴",
-        "excerpt": "5月9日以降、多住宅保有者への譲渡所得税の重課が再開され、譲渡税を減らそうと贈与を選ぶ人がより大きな贈与税負担に直面し得る点が浮上した。",
-        "body": "5月9日以降、多住宅保有者に対する譲渡所得税の重課が再び始まり、節税戦略への注意が高まっている。原文は「6億ウォンの譲渡税を避けようとして10億ウォンの贈与税」という事例を通じ、譲渡税負担を下げるために贈与を選ぶと、かえってより大きな税負担を負う可能性があると伝えた。背景には多住宅保有者への譲渡税重課の再開がある。売却ではなく贈与を選ぶ方法は節税策に見えるが、贈与税が発生すれば総負担は予想より大きくなり得る。多住宅保有者は譲渡と贈与それぞれの税負担を比較する必要がある。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "多套房持有者资本利得税加征重启，赠与避税反成高税负陷阱",
-        "excerpt": "5月9日以后，多套房持有者的转让所得税加征重新开始，试图通过赠与减少转让税的人，可能面临更高赠与税负担。",
-        "body": "5月9日以后，多套房持有者的转让所得税加征重新开始，围绕节税策略的关注升温。原文以“为避开6亿韩元转让税，却面临10亿韩元赠与税”的案例说明，多套房持有者若为降低转让税负而选择赠与，反而可能承担更大的税务负担。其背景是多套房持有者转让税加征的恢复。用赠与代替出售看似是一种节税方式，但一旦产生赠与税，总负担可能高于预期。因此，多套房持有者需要比较转让与赠与各自的税负。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Vuelve el recargo a plusvalías de multipropietarios y crece la trampa fiscal",
-        "excerpt": "Desde el 9 de mayo volvió el recargo al impuesto sobre ganancias de capital para multipropietarios, y donar para reducir ese impuesto puede elevar la carga por donaciones.",
-        "body": "Desde el 9 de mayo volvió a aplicarse el recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas, aumentando la atención sobre las estrategias de ahorro fiscal. El texto original citó el caso de “evitar 600 millones de wones en impuesto de transferencia y terminar con 1.000 millones en impuesto sobre donaciones” para señalar que donar con el fin de reducir la carga por venta puede generar un impuesto mayor. El contexto es la reanudación del recargo a las plusvalías de multipropietarios. Donar en lugar de vender puede parecer una vía de ahorro, pero si se aplica el impuesto sobre donaciones, la carga total puede superar lo previsto. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Volta da sobretaxa para múltiplos imóveis expõe armadilha do imposto de doação",
-        "excerpt": "Após 9 de maio, a sobretaxa sobre ganhos de capital para donos de vários imóveis voltou, e quem doa para reduzir o imposto de venda pode enfrentar imposto maior.",
-        "body": "Após 9 de maio, a sobretaxa sobre ganhos de capital de proprietários de vários imóveis voltou a ser aplicada, aumentando a atenção sobre estratégias de economia fiscal. O texto original usou o caso de “evitar 600 milhões de wons em imposto de transferência e acabar com 1 bilhão de wons em imposto de doação” para mostrar que a doação, escolhida para reduzir o imposto sobre a venda, pode gerar uma carga maior. O pano de fundo é a retomada da sobretaxa para múltiplos proprietários. Doar em vez de vender pode parecer uma forma de economizar, mas, com o imposto de doação, o custo total pode superar o esperado. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Zuschlag auf Veräußerungsgewinne für Mehrfachbesitzer ist zurück",
-        "excerpt": "Seit dem 9. Mai gilt der Zuschlag auf Veräußerungsgewinne für Mehrfachhausbesitzer wieder; wer zur Steuerersparnis schenkt, kann höhere Schenkungsteuer auslösen.",
-        "body": "Seit dem 9. Mai gilt der Zuschlag auf die Veräußerungsgewinnsteuer für Besitzer mehrerer Wohnungen wieder, wodurch Steuersparstrategien stärker in den Fokus rücken. Der Originalbericht nannte den Fall, „600 Millionen Won Veräußerungssteuer vermeiden zu wollen und 1 Milliarde Won Schenkungsteuer zu zahlen“, um zu zeigen, dass eine Schenkung zur Senkung der Verkaufssteuer zu einer höheren Steuerlast führen kann. Hintergrund ist die Wiederaufnahme des Zuschlags für Mehrfachbesitzer. Eine Schenkung statt eines Verkaufs kann wie eine Sparmaßnahme wirken, doch bei anfallender Schenkungsteuer kann die Gesamtlast höher ausfallen als erwartet. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Retour de la surtaxe sur les plus-values des multipropriétaires et piège fiscal",
-        "excerpt": "Depuis le 9 mai, la surtaxe sur les plus-values des multipropriétaires a repris, et ceux qui donnent pour réduire l’impôt de cession peuvent subir une donation plus taxée.",
-        "body": "Depuis le 9 mai, la surtaxe sur l’impôt des plus-values applicable aux propriétaires de plusieurs logements a repris, ce qui attire l’attention sur les stratégies d’optimisation fiscale. L’article source cite le cas consistant à « éviter 600 millions de wons d’impôt de cession et faire face à 1 milliard de wons d’impôt sur les donations » pour montrer qu’une donation choisie afin de réduire l’impôt de cession peut entraîner une charge plus lourde. Le contexte est la reprise de la surtaxe visant les multipropriétaires. Donner au lieu de vendre peut sembler fiscalement avantageux, mais l’impôt sur les donations peut accroître la charge totale. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "عودة ضريبة الأرباح على ملاك المنازل المتعددة تكشف فخ ضريبة الهبة",
-        "excerpt": "بعد 9 مايو، استؤنف تشديد ضريبة الأرباح الرأسمالية على ملاك المنازل المتعددة، وقد يواجه من يختار الهبة لتقليل ضريبة البيع عبئا أكبر.",
-        "body": "بعد 9 مايو، عاد تطبيق التشديد على ضريبة الأرباح الرأسمالية لملاك المنازل المتعددة، ما زاد الانتباه إلى استراتيجيات خفض الضرائب. عرض النص الأصلي حالة بعنوان يفيد بأن مالكا حاول تفادي 600 مليون وون من ضريبة نقل الملكية، لكنه واجه 1 مليار وون من ضريبة الهبة، موضحا أن اختيار الهبة لتقليل ضريبة البيع قد يؤدي إلى عبء ضريبي أكبر. الخلفية هي استئناف التشديد على ضريبة نقل الملكية للملاك متعددي المنازل. قد تبدو الهبة بديلا موفرا للضريبة مقارنة بالبيع، لكن عند فرض ضريبة الهبة يمكن أن يصبح العبء الإجمالي أعلى من المتوقع. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "कई घरों के मालिकों पर कैपिटल गेन सरचार्ज लौटा, गिफ्ट टैक्स का जोखिम बढ़ा",
-        "excerpt": "9 मई के बाद कई घरों के मालिकों पर कैपिटल गेन टैक्स सरचार्ज फिर शुरू हुआ; बिक्री कर घटाने के लिए गिफ्ट चुनने वालों पर बड़ा गिफ्ट टैक्स लग सकता है।",
-        "body": "9 मई के बाद कई घरों के मालिकों पर कैपिटल गेन टैक्स सरचार्ज फिर शुरू हो गया, जिससे कर बचत रणनीतियों पर ध्यान बढ़ा है। मूल रिपोर्ट ने “60 करोड़ वॉन के ट्रांसफर टैक्स से बचने की कोशिश में 100 करोड़ वॉन गिफ्ट टैक्स” के उदाहरण से बताया कि बिक्री पर लगने वाला कर घटाने के लिए गिफ्ट का रास्ता चुनने पर कर बोझ उलटा बढ़ सकता है। पृष्ठभूमि कई घरों के मालिकों पर ट्रांसफर टैक्स सरचार्ज की वापसी है। बिक्री के बजाय गिफ्ट देना कर बचत जैसा दिख सकता है, लेकिन गिफ्ट टैक्स लगने पर कुल बोझ अनुमान से अधिक हो सकता है। इसलिए मालिकों को बिक्री और गिफ्ट दोनों के कर बोझ की तुलना करनी होगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Surtax capital gain pemilik banyak rumah kembali, jebakan pajak hibah menguat",
-        "excerpt": "Setelah 9 Mei, surtax pajak capital gain bagi pemilik banyak rumah kembali berlaku; memilih hibah untuk menekan pajak jual dapat memicu beban pajak hibah lebih besar.",
-        "body": "Setelah 9 Mei, surtax pajak capital gain bagi pemilik beberapa rumah kembali berlaku, sehingga strategi penghematan pajak menjadi sorotan. Artikel sumber memakai contoh “menghindari pajak pengalihan 600 juta won tetapi terkena pajak hibah 1 miliar won” untuk menunjukkan bahwa pemilik yang memilih hibah demi menurunkan pajak penjualan justru dapat menghadapi beban pajak lebih besar. Latar belakangnya adalah kembalinya surtax pajak pengalihan untuk pemilik banyak rumah. Hibah sebagai pengganti penjualan bisa terlihat seperti cara menghemat pajak, tetapi jika pajak hibah berlaku, total beban dapat melebihi perkiraan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "5347b6fa867b",
-    "slug": "37억-담그면-45억-잠실르엘-된다-잠실-지형-흔드는-장미-재건축-905490",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T19:10:26.235Z",
-    "updatedAt": "2026-05-12T19:10:26.235Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12045136",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12045136",
-    "titleFingerprint": "23afb6579043c80b42ba27c72d2f4fb2a8f176da",
-    "dedupKeys": [
-      "5347b6fa867b83512b83a53e97ce692013cc0ef4",
-      "23afb6579043c80b42ba27c72d2f4fb2a8f176da",
-      "8e584a084ac2e079d9550d2ec25a64607268ec1f"
-    ],
-    "imageUrl": "/images/articles/5347b6fa867b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "잠실 장미 재건축, 신천동 3522가구가 흔드는 한강변 주거 지형",
-        "excerpt": "서울 송파구 신천동 장미 1~3차 아파트 재건축이 잠실주공5단지와 함께 잠실 한강변 핵심 사업으로 부각되며 지역 주거 지형 변화에 관심이 쏠린다.",
-        "body": "서울 송파구 신천동 장미 1~3차 아파트 재건축이 잠실 한강변 주거 지형을 흔드는 핵심 사업으로 주목받고 있다. 장미 1·2차는 1979년, 장미3차는 1984년에 지어진 단지로, 최고 12~14층 규모의 3522가구 아파트다. 이 단지는 잠실주공5단지와 함께 잠실 한강변 재건축 ‘투톱’으로 꼽힌다. 원문 제목은 “37억 담그면 45억 잠실르엘 된다”고 표현하며 장미 재건축이 잠실 시장에서 갖는 관심을 드러냈다. 향후 사업 진행은 신천동과 잠실 일대 노후 아파트 재건축 흐름을 가늠하는 기준으로 받아들여질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jamsil Jangmi Reconstruction Puts 3,522 Sincheon-dong Homes in Focus",
-        "excerpt": "The Jangmi 1-3 apartment reconstruction in Sincheon-dong, Songpa-gu, Seoul is drawing attention as a key Jamsil Han River project alongside Jamsil Jugong 5.",
-        "body": "The reconstruction of Jangmi Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul is emerging as a major project reshaping the residential map along the Jamsil Han River area. Jangmi 1 and 2 were built in 1979, while Jangmi 3 was built in 1984. The complex has 3,522 homes in buildings of up to 12 to 14 floors. It is regarded, together with Jamsil Jugong 5, as one of the two leading reconstruction projects on the Jamsil riverside. The original headline described it as a move in which “3.7 billion won becomes 4.5 billion-won Jamsil Le El,” showing market interest in the project. Its progress is expected to serve as a marker for reconstruction trends in Sincheon-dong and Jamsil. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "蚕室チャンミ再建築、申川洞3522戸が漢江沿い住宅地図を動かす",
-        "excerpt": "ソウル松坡区申川洞のチャンミ1～3次マンション再建築が、蚕室住公5団地と並ぶ蚕室漢江沿いの主要事業として注目されている。",
-        "body": "ソウル松坡区申川洞のチャンミ1～3次マンション再建築が、蚕室の漢江沿い住宅地図を動かす主要事業として注目されている。チャンミ1・2次は1979年、チャンミ3次は1984年に建てられた団地で、最高12～14階、3522戸規模のマンションだ。同団地は蚕室住公5団地とともに、蚕室漢江沿い再建築の「二大軸」とされる。原文の見出しは「37億を投じれば45億の蚕室ルエルになる」と表現し、同再建築への市場の関心を示した。今後の進捗は、申川洞と蚕室一帯の老朽マンション再建築の流れを測る材料になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "蚕室蔷薇重建受关注，申川洞3522户牵动汉江沿岸格局",
-        "excerpt": "首尔松坡区申川洞蔷薇1至3期公寓重建，与蚕室住公5小区并列为蚕室汉江沿岸核心项目，受到市场关注。",
-        "body": "首尔松坡区申川洞蔷薇1至3期公寓重建，正作为牵动蚕室汉江沿岸居住格局的核心项目受到关注。蔷薇1、2期建于1979年，蔷薇3期建于1984年，最高12至14层，共3522户。该小区与蚕室住公5小区一起，被视为蚕室汉江沿岸重建的“两大项目”。原文标题称“投入37亿韩元将变成45亿韩元的蚕室Le El”，显示出市场对蔷薇重建的关注。今后项目推进情况，预计将成为观察申川洞和蚕室一带老旧公寓重建趋势的重要参考。出处: mk.co.kr"
-      },
-      "es": {
-        "title": "Reconstrucción de Jangmi en Jamsil enfoca 3.522 viviendas en Sincheon-dong",
-        "excerpt": "La reconstrucción de Jangmi 1-3 en Sincheon-dong, Songpa-gu, Seúl, gana atención como proyecto clave junto a Jamsil Jugong 5 en la ribera del Han.",
-        "body": "La reconstrucción de los apartamentos Jangmi 1-3 en Sincheon-dong, Songpa-gu, Seúl, está atrayendo atención como un proyecto central que puede mover el mapa residencial de la ribera del Han en Jamsil. Jangmi 1 y 2 fueron construidos en 1979, y Jangmi 3 en 1984. El complejo cuenta con 3.522 viviendas en edificios de hasta 12 a 14 plantas. Junto con Jamsil Jugong 5, se considera uno de los dos grandes proyectos de reconstrucción de la zona ribereña de Jamsil. El titular original lo presentó como “invertir 3.700 millones de wones para convertirse en Jamsil Le El de 4.500 millones”, reflejando el interés del mercado. Su avance servirá como referencia para la reconstrucción de apartamentos antiguos en Sincheon-dong y Jamsil. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reconstrução do Jangmi em Jamsil destaca 3.522 moradias em Sincheon-dong",
-        "excerpt": "A reconstrução dos apartamentos Jangmi 1-3 em Sincheon-dong, Songpa-gu, Seul, ganha atenção como projeto-chave ao lado do Jamsil Jugong 5.",
-        "body": "A reconstrução dos apartamentos Jangmi 1-3 em Sincheon-dong, Songpa-gu, Seul, está ganhando destaque como um projeto central capaz de alterar o mapa residencial da área de Jamsil junto ao rio Han. O Jangmi 1 e 2 foi construído em 1979, e o Jangmi 3 em 1984. O complexo reúne 3.522 unidades em prédios de até 12 a 14 andares. Ao lado do Jamsil Jugong 5, é visto como um dos dois principais projetos de reconstrução da margem do Han em Jamsil. O título original afirmou que “37 bilhões de won viram Jamsil Le El de 45 bilhões”, refletindo o interesse do mercado. O andamento do projeto deve servir de referência para a reconstrução de apartamentos antigos em Sincheon-dong e Jamsil. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Jamsil-Jangmi-Neubau rückt 3.522 Wohnungen in Sincheon-dong in den Fokus",
-        "excerpt": "Der Wiederaufbau der Jangmi-Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul gilt neben Jamsil Jugong 5 als Schlüsselprojekt am Han-Fluss.",
-        "body": "Der Wiederaufbau der Jangmi-Apartments 1-3 in Sincheon-dong, Songpa-gu, Seoul, zieht Aufmerksamkeit als zentrales Projekt auf sich, das die Wohnstruktur am Han-Fluss in Jamsil verändern könnte. Jangmi 1 und 2 wurden 1979 gebaut, Jangmi 3 im Jahr 1984. Die Anlage umfasst 3.522 Wohnungen in Gebäuden mit bis zu 12 bis 14 Etagen. Zusammen mit Jamsil Jugong 5 gilt sie als eines der zwei führenden Wiederaufbauprojekte am Jamsil-Ufer. Die Originalüberschrift formulierte, dass aus “3,7 Milliarden Won 4,5 Milliarden Won Jamsil Le El werden”, was das Marktinteresse zeigt. Der weitere Verlauf dürfte als Maßstab für die Sanierung alter Apartmentanlagen in Sincheon-dong und Jamsil dienen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La reconstruction de Jangmi à Jamsil met 3 522 logements de Sincheon-dong en avant",
-        "excerpt": "La reconstruction des appartements Jangmi 1-3 à Sincheon-dong, Songpa-gu, Séoul, attire l’attention avec Jamsil Jugong 5 comme projet clé du bord du Han.",
-        "body": "La reconstruction des appartements Jangmi 1-3 à Sincheon-dong, Songpa-gu, Séoul, s’impose comme un projet majeur susceptible de modifier la carte résidentielle du secteur de Jamsil le long du Han. Jangmi 1 et 2 ont été construits en 1979, tandis que Jangmi 3 date de 1984. L’ensemble compte 3 522 logements dans des immeubles allant jusqu’à 12 à 14 étages. Avec Jamsil Jugong 5, il est considéré comme l’un des deux grands projets de reconstruction du front du Han à Jamsil. Le titre original indiquait que “3,7 milliards de wons deviennent Jamsil Le El à 4,5 milliards”, signe de l’intérêt du marché. Son avancement devrait servir de repère pour la reconstruction des vieux appartements à Sincheon-dong et Jamsil. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة بناء جانغمي في جامسيل تبرز 3522 وحدة في سينتشون دونغ",
-        "excerpt": "تجذب إعادة بناء شقق جانغمي 1-3 في سينتشون دونغ، سونغبا غو، سيول، الاهتمام كمشروع رئيسي على ضفة نهر الهان إلى جانب جامسيل جوغونغ 5.",
-        "body": "تجذب إعادة بناء شقق جانغمي 1-3 في سينتشون دونغ، سونغبا غو في سيول، الانتباه كمشروع أساسي قد يغير خريطة السكن على ضفة نهر الهان في جامسيل. بُنيت جانغمي 1 و2 في عام 1979، بينما بُنيت جانغمي 3 في عام 1984. ويضم المجمع 3522 وحدة في مبان يصل ارتفاعها إلى 12 و14 طابقا. ويُعد، إلى جانب جامسيل جوغونغ 5، أحد أبرز مشروعي إعادة البناء في منطقة جامسيل المطلة على الهان. وعبّر العنوان الأصلي عن ذلك بعبارة أن “37 مليار وون تصبح جامسيل لو إل بقيمة 45 مليار وون”، ما يظهر اهتمام السوق بالمشروع. ومن المتوقع أن يكون تقدمه مؤشرا لاتجاه إعادة بناء الشقق القديمة في سينتشون دونغ وجامسيل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जमसिल जांगमी पुनर्निर्माण से सिनचोन-डोंग के 3,522 घर चर्चा में",
-        "excerpt": "सियोल के सोंगपा-गु, सिनचोन-डोंग में जांगमी 1-3 अपार्टमेंट पुनर्निर्माण, जमसिल जुगोंग 5 के साथ हान नदी किनारे की प्रमुख परियोजना बनकर उभरा है।",
-        "body": "सियोल के सोंगपा-गु स्थित सिनचोन-डोंग में जांगमी 1-3 अपार्टमेंट का पुनर्निर्माण जमसिल के हान नदी किनारे आवासीय नक्शे को प्रभावित करने वाली प्रमुख परियोजना के रूप में ध्यान खींच रहा है। जांगमी 1 और 2 का निर्माण 1979 में हुआ था, जबकि जांगमी 3 1984 में बना। यह परिसर अधिकतम 12 से 14 मंजिलों वाला 3,522 घरों का अपार्टमेंट है। इसे जमसिल जुगोंग 5 के साथ जमसिल हान नदी किनारे पुनर्निर्माण की दो प्रमुख परियोजनाओं में गिना जाता है। मूल शीर्षक ने इसे “37 अरब वॉन लगाने पर 45 अरब वॉन का जमसिल ले एल” कहा, जिससे बाजार की रुचि दिखती है। इसकी प्रगति सिनचोन-डोंग और जमसिल में पुराने अपार्टमेंट पुनर्निर्माण की दिशा का संकेत मानी जाएगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi Jangmi Jamsil Soroti 3.522 Hunian di Sincheon-dong",
-        "excerpt": "Rekonstruksi Apartemen Jangmi 1-3 di Sincheon-dong, Songpa-gu, Seoul menarik perhatian sebagai proyek kunci tepi Sungai Han bersama Jamsil Jugong 5.",
-        "body": "Rekonstruksi Apartemen Jangmi 1-3 di Sincheon-dong, Songpa-gu, Seoul, menjadi perhatian sebagai proyek utama yang dapat mengubah peta hunian kawasan Jamsil di tepi Sungai Han. Jangmi 1 dan 2 dibangun pada 1979, sedangkan Jangmi 3 dibangun pada 1984. Kompleks ini memiliki 3.522 unit dalam bangunan setinggi hingga 12 sampai 14 lantai. Bersama Jamsil Jugong 5, kompleks ini disebut sebagai dua proyek teratas rekonstruksi tepi Sungai Han di Jamsil. Judul asli menyebut “menanam 37 miliar won menjadi Jamsil Le El 45 miliar won”, menunjukkan perhatian pasar pada proyek tersebut. Perkembangannya diperkirakan menjadi acuan tren rekonstruksi apartemen tua di Sincheon-dong dan Jamsil. Sumber: mk.co.kr"
       }
     }
   }
