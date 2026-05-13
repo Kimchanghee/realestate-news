@@ -1,5 +1,230 @@
 [
   {
+    "id": "3a7e2caf03db",
+    "slug": "압구정-갤러리아百-쌍둥이-모래시계로-재건축-874397",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T08:48:31.179Z",
+    "updatedAt": "2026-05-13T08:48:31.179Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12046337",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12046337",
+    "titleFingerprint": "2dad6f5997310a28a849dc21cac99af51e2b9379",
+    "dedupKeys": [
+      "3a7e2caf03db7fd3aeb8ec61e32cffacd214cbc7",
+      "2dad6f5997310a28a849dc21cac99af51e2b9379",
+      "f59bce9991f4dbf114cdc617cc21dbe698f4ac68"
+    ],
+    "imageUrl": "/images/articles/3a7e2caf03db.jpg",
+    "i18n": {
+      "ko": {
+        "title": "압구정 갤러리아백화점 재건축, 유리 ‘쌍둥이 모래시계’ 랜드마크로 변신",
+        "excerpt": "서울 압구정 갤러리아백화점 서관·동관 건립사업이 지난 12일 서울시 제7차 건축위원회를 통과하며 유리 모래시계 형태의 랜드마크 재건축이 추진된다.",
+        "body": "서울 압구정 갤러리아백화점이 유리 모래시계 형태의 랜드마크 건축물로 탈바꿈한다. 서울시는 지난 12일 열린 제7차 건축위원회에서 압구정 갤러리아 서관·동관 건립사업을 통과시켰다. 이번 사업은 기존 백화점 공간을 서관과 동관으로 나눠 새롭게 조성하는 재건축안으로, 외관은 ‘쌍둥이 모래시계’를 연상시키는 유리 건축물이 핵심이다. 압구정 일대의 대표 상업시설인 갤러리아백화점이 새로운 형태의 건축물로 계획되면서 지역 상권과 도시 경관에도 변화가 예상된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Apgujeong Galleria Department Store Redevelopment to Create Glass Twin Hourglass Landmark",
+        "excerpt": "Seoul’s Apgujeong Galleria west and east building project passed the city’s 7th Architecture Committee review on the 12th, advancing a glass hourglass-style landmark redevelopment.",
+        "body": "Seoul’s Apgujeong Galleria Department Store is set to be transformed into a glass hourglass-shaped landmark. The Seoul Metropolitan Government approved the Apgujeong Galleria west and east building project at the 7th Architecture Committee meeting held on the 12th. The plan redevelops the department store into separate west and east buildings, with a glass exterior evoking “twin hourglasses” as its defining feature. As Galleria, a major commercial facility in Apgujeong, moves toward a new architectural form, changes are expected in the local commercial area and urban landscape. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "狎鴎亭ギャラリア百貨店再建築、ガラスの「双子の砂時計」ランドマークへ",
+        "excerpt": "ソウル狎鴎亭ギャラリア百貨店の西館・東館建設事業が12日、ソウル市第7回建築委員会を通過し、ガラスの砂時計型ランドマーク再建築が進む。",
+        "body": "ソウル狎鴎亭のギャラリア百貨店が、ガラスの砂時計の形をしたランドマーク建築物へと生まれ変わる。ソウル市は12日に開かれた第7回建築委員会で、狎鴎亭ギャラリア西館・東館建設事業を通過させた。今回の事業は既存の百貨店空間を西館と東館に分けて新たに整備する再建築案で、外観は「双子の砂時計」を思わせるガラス建築が中心となる。狎鴎亭一帯を代表する商業施設であるギャラリア百貨店が新しい建築形態で計画され、地域商圏と都市景観にも変化が見込まれる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔狎鸥亭Galleria百货重建，将变身玻璃“双子沙漏”地标",
+        "excerpt": "首尔狎鸥亭Galleria百货西馆、东馆建设项目于12日通过首尔市第7次建筑委员会审议，玻璃沙漏形地标重建计划将推进。",
+        "body": "首尔狎鸥亭Galleria百货将改造成玻璃沙漏形地标建筑。首尔市在12日举行的第7次建筑委员会会议上，通过了狎鸥亭Galleria西馆、东馆建设项目。该项目是把现有百货空间分为西馆和东馆重新建设的方案，外观核心是让人联想到“双子沙漏”的玻璃建筑。作为狎鸥亭一带代表性商业设施，Galleria百货以新的建筑形态推进规划，预计也将为当地商圈和城市景观带来变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Galleria de Apgujeong será reconstruida como hito de vidrio con “relojes de arena gemelos”",
+        "excerpt": "El proyecto de los edificios oeste y este de Galleria en Apgujeong pasó el día 12 por el 7.º Comité de Arquitectura de Seúl, impulsando una reconstrucción tipo reloj de arena de vidrio.",
+        "body": "La tienda departamental Galleria de Apgujeong, en Seúl, se transformará en un edificio emblemático con forma de reloj de arena de vidrio. El Gobierno Metropolitano de Seúl aprobó el proyecto de construcción de los edificios oeste y este de Galleria Apgujeong en la 7.ª reunión del Comité de Arquitectura celebrada el día 12. La propuesta reconstruye el espacio existente en dos edificios, oeste y este, con una fachada de vidrio que evoca “relojes de arena gemelos” como rasgo central. Al tratarse de una instalación comercial representativa de Apgujeong, se prevén cambios en el comercio local y en el paisaje urbano. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Galleria de Apgujeong será reconstruída como marco de vidro em “ampulhetas gêmeas”",
+        "excerpt": "O projeto dos edifícios oeste e leste da Galleria em Apgujeong passou no dia 12 pelo 7º Comitê de Arquitetura de Seul, avançando uma reconstrução em forma de ampulheta de vidro.",
+        "body": "A loja de departamentos Galleria de Apgujeong, em Seul, será transformada em um edifício-marco com forma de ampulheta de vidro. A Prefeitura de Seul aprovou o projeto de construção dos edifícios oeste e leste da Galleria Apgujeong na 7ª reunião do Comitê de Arquitetura, realizada no dia 12. A proposta reconstrói o espaço existente em dois blocos, oeste e leste, tendo como elemento central uma fachada de vidro que lembra “ampulhetas gêmeas”. Como a Galleria é uma instalação comercial representativa de Apgujeong, são esperadas mudanças no comércio local e na paisagem urbana. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Galleria Apgujeong wird als gläsernes Wahrzeichen mit „Zwillings-Sanduhr“ neu gebaut",
+        "excerpt": "Das West- und Ostgebäude-Projekt der Galleria Apgujeong passierte am 12. den 7. Architekturausschuss der Stadt Seoul und bringt den Wiederaufbau als gläsernes Sanduhr-Wahrzeichen voran.",
+        "body": "Das Galleria-Kaufhaus in Apgujeong, Seoul, soll zu einem gläsernen Wahrzeichen in Form einer Sanduhr umgestaltet werden. Die Stadt Seoul genehmigte das Bauprojekt für das West- und Ostgebäude der Galleria Apgujeong auf der 7. Sitzung des Architekturausschusses am 12. Der Plan sieht vor, die bestehende Kaufhausfläche in ein West- und ein Ostgebäude neu zu entwickeln; prägend ist eine Glasfassade, die an „Zwillings-Sanduhren“ erinnert. Da die Galleria zu den wichtigsten Gewerbeeinrichtungen in Apgujeong zählt, werden Veränderungen im lokalen Geschäftsviertel und im Stadtbild erwartet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Galleria d’Apgujeong reconstruite en repère de verre aux « sabliers jumeaux »",
+        "excerpt": "Le projet des bâtiments ouest et est de la Galleria d’Apgujeong a été validé le 12 par le 7e comité d’architecture de Séoul, lançant une reconstruction en forme de sablier de verre.",
+        "body": "Le grand magasin Galleria d’Apgujeong, à Séoul, va être transformé en bâtiment emblématique en forme de sablier de verre. La municipalité de Séoul a validé le projet de construction des bâtiments ouest et est de la Galleria d’Apgujeong lors de la 7e réunion du comité d’architecture, tenue le 12. Le projet prévoit de réaménager l’espace existant en deux bâtiments, ouest et est, avec une façade de verre rappelant des « sabliers jumeaux » comme élément central. En tant qu’équipement commercial représentatif d’Apgujeong, la Galleria devrait modifier le quartier commerçant local et le paysage urbain. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إعادة بناء غاليريا أبغوجيونغ كمعلم زجاجي على شكل «ساعتين رمليتين توأم»",
+        "excerpt": "مر مشروع إنشاء المبنيين الغربي والشرقي لغاليريا أبغوجيونغ في سيول يوم 12 عبر لجنة العمارة السابعة في المدينة، ليدفع إعادة تطويره كمعلم زجاجي بشكل ساعة رملية.",
+        "body": "من المقرر أن يتحول متجر غاليريا في أبغوجيونغ بسيول إلى مبنى بارز على شكل ساعة رملية زجاجية. وقد أقرت حكومة سيول الحضرية مشروع إنشاء المبنيين الغربي والشرقي لغاليريا أبغوجيونغ في اجتماع لجنة العمارة السابع الذي عُقد يوم 12. يقوم المشروع على إعادة تطوير مساحة المتجر القائمة إلى مبنيين غربي وشرقي، مع واجهة زجاجية تستحضر صورة «ساعتين رمليتين توأم» بوصفها العنصر الأبرز. وبما أن غاليريا يعد من المرافق التجارية الممثلة لمنطقة أبغوجيونغ، فمن المتوقع أن ينعكس الشكل المعماري الجديد على المنطقة التجارية المحلية والمشهد الحضري. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अपगुजोंग गैलेरिया डिपार्टमेंट स्टोर का पुनर्निर्माण, कांच के ‘जुड़वां ऑवरग्लास’ लैंडमार्क में बदलेगा",
+        "excerpt": "सियोल के अपगुजोंग गैलेरिया के पश्चिमी और पूर्वी भवन परियोजना को 12 तारीख को सियोल की 7वीं आर्किटेक्चर कमेटी से मंजूरी मिली, जिससे कांच के ऑवरग्लास आकार वाले लैंडमार्क पुनर्निर्माण को गति मिली।",
+        "body": "सियोल का अपगुजोंग गैलेरिया डिपार्टमेंट स्टोर कांच के ऑवरग्लास आकार वाले लैंडमार्क भवन में बदलेगा। सियोल मेट्रोपॉलिटन सरकार ने 12 तारीख को हुई 7वीं आर्किटेक्चर कमेटी की बैठक में अपगुजोंग गैलेरिया के पश्चिमी और पूर्वी भवन निर्माण परियोजना को पारित किया। इस पुनर्निर्माण योजना में मौजूदा डिपार्टमेंट स्टोर स्थान को पश्चिमी और पूर्वी भवनों में नया रूप दिया जाएगा, जिसकी मुख्य विशेषता “जुड़वां ऑवरग्लास” की याद दिलाने वाली कांच की बाहरी संरचना है। अपगुजोंग क्षेत्र की प्रमुख वाणिज्यिक सुविधा के रूप में गैलेरिया के नए वास्तु रूप से स्थानीय बाजार क्षेत्र और शहरी परिदृश्य में बदलाव की उम्मीद है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Galleria Apgujeong Dibangun Ulang Jadi Landmark Kaca ‘Jam Pasir Kembar’",
+        "excerpt": "Proyek gedung barat dan timur Galleria Apgujeong di Seoul lolos Komite Arsitektur ke-7 pada tanggal 12, mendorong pembangunan ulang landmark berbentuk jam pasir kaca.",
+        "body": "Galleria Department Store di Apgujeong, Seoul, akan diubah menjadi bangunan landmark berbentuk jam pasir kaca. Pemerintah Metropolitan Seoul meloloskan proyek pembangunan gedung barat dan timur Galleria Apgujeong dalam rapat Komite Arsitektur ke-7 yang digelar pada tanggal 12. Proyek ini merupakan rencana pembangunan ulang yang membagi ruang department store yang ada menjadi gedung barat dan timur, dengan fasad kaca yang mengingatkan pada “jam pasir kembar” sebagai elemen utama. Sebagai fasilitas komersial representatif di kawasan Apgujeong, bentuk arsitektur baru Galleria diperkirakan membawa perubahan pada area perdagangan lokal dan lanskap kota. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "09404a8ecb33",
+    "slug": "정부-전세-낀-집-퇴로-열자-서울아파트-매물-다시-늘었다-287068",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T08:46:32.250Z",
+    "updatedAt": "2026-05-13T08:46:32.250Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12046339",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12046339",
+    "titleFingerprint": "cf872533202a282ae986a4d668063ddecaeec0b5",
+    "dedupKeys": [
+      "09404a8ecb33cac4f51e2086df692a2a2d7054b7",
+      "cf872533202a282ae986a4d668063ddecaeec0b5",
+      "afc9b9d034e091304155a63b83609911e3a0c40b"
+    ],
+    "imageUrl": "/images/articles/09404a8ecb33.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울아파트 매물 다시 증가, 정부 ‘전세 낀 집’ 매도 허용 영향",
+        "excerpt": "정부가 주택 보유 수와 관계없이 ‘전세 낀 집’ 매도를 허용한 지 하루 만에 서울 아파트 매물이 약 400건 늘며 시장 반응이 나타났다.",
+        "body": "정부가 매도자의 주택 보유 수와 무관하게 세입자가 있는 이른바 ‘전세 낀 매물’을 팔 수 있도록 퇴로를 열어주자 서울 아파트 매물이 다시 늘었다. 관련 조치가 나온 지 하루 만에 서울 아파트 매물은 약 400건 증가한 것으로 전해졌다. 그동안 보유 주택 수에 따른 규제와 거래 제약으로 매도 선택지가 제한됐던 일부 물건이 시장에 다시 나온 영향으로 풀이된다. 다만 부동산업계에서는 향후 보유세 인상 등 추가 정책의 강도와 방향이 정해져야 매물 증가세가 지속될지 판단할 수 있다는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Listings Rise Again After Lease-Held Home Sale Rule Eases",
+        "excerpt": "A day after the government allowed sellers to sell homes with tenants regardless of how many homes they own, Seoul apartment listings rose by about 400.",
+        "body": "Seoul apartment listings increased again after the government opened a path for owners to sell so-called homes with existing jeonse tenants regardless of the seller’s number of owned homes. Within one day of the measure, apartment listings in Seoul reportedly rose by about 400. The increase appears to reflect some properties returning to the market after sellers had faced limited options due to rules and transaction constraints tied to home ownership counts. However, the real estate industry says it remains difficult to judge whether the listing increase will continue until the strength and direction of additional policies, such as possible property tax hikes, become clearer. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルのマンション売り物件が再増加、政府の「賃貸中住宅」売却容認で",
+        "excerpt": "政府が保有住宅数に関係なく「賃貸中住宅」の売却を認めた翌日、ソウルのマンション売り物件は約400件増加した。",
+        "body": "政府が売主の住宅保有数にかかわらず、入居者がいるいわゆる「賃貸中の売り物件」を売却できる道を開いたことで、ソウルのマンション売り物件が再び増えた。この措置が出てから1日で、ソウルのマンション売り物件は約400件増加したと伝えられている。これまで保有住宅数に応じた規制や取引上の制約で売却の選択肢が限られていた一部物件が、市場に戻った影響とみられる。ただし不動産業界では、今後の保有税引き上げなど追加政策の強度と方向が定まってこそ、売り物件の増加が続くか判断できるとの見方が出ている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓挂牌量再增，政府放开“带租约住宅”出售通道",
+        "excerpt": "政府允许卖方不受持有住房数量限制出售“带租约住宅”后仅一天，首尔公寓挂牌量增加约400套，市场迅速反应。",
+        "body": "政府为卖方出售已有租户的所谓“带租约房源”打开通道，且不再受卖方持有住房数量影响后，首尔公寓挂牌量再次增加。相关措施出台仅一天，首尔公寓挂牌量据称增加了约400套。此前，受持有住房数量相关规定和交易限制影响，部分房源的出售选择受限，此次措施使这些房源重新回到市场。不过，房地产行业认为，未来是否会持续增加挂牌量，还要看持有税上调等后续政策的力度和方向何时明确。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Suben otra vez los anuncios de apartamentos en Seúl tras aliviar ventas con jeonse",
+        "excerpt": "Un día después de que el Gobierno permitiera vender viviendas con inquilino sin importar cuántas casas posea el vendedor, los anuncios en Seúl aumentaron unos 400.",
+        "body": "Los anuncios de apartamentos en Seúl volvieron a aumentar después de que el Gobierno abriera una vía para vender las llamadas viviendas con jeonse, es decir, inmuebles con inquilino, independientemente del número de viviendas que posea el vendedor. Un día después de la medida, los anuncios de apartamentos en Seúl habrían aumentado en unos 400. El movimiento se interpreta como el regreso al mercado de algunas propiedades cuyas opciones de venta estaban limitadas por normas y restricciones vinculadas al número de viviendas en propiedad. Sin embargo, el sector inmobiliario señala que será necesario conocer la intensidad y dirección de políticas adicionales, como posibles aumentos del impuesto a la tenencia, para evaluar si el aumento de la oferta continuará. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ofertas de apartamentos em Seul voltam a subir após regra para imóveis com jeonse",
+        "excerpt": "Um dia depois de o governo permitir a venda de imóveis com inquilinos independentemente do número de casas do vendedor, as ofertas em Seul subiram cerca de 400.",
+        "body": "As ofertas de apartamentos em Seul voltaram a crescer depois que o governo abriu caminho para a venda dos chamados imóveis com jeonse, ou seja, unidades com inquilinos, independentemente do número de casas detidas pelo vendedor. Apenas um dia após a medida, as ofertas de apartamentos em Seul teriam aumentado em cerca de 400. O avanço é visto como reflexo do retorno ao mercado de alguns imóveis cujas opções de venda estavam limitadas por regras e restrições ligadas à quantidade de moradias possuídas. Ainda assim, o setor imobiliário afirma que só será possível avaliar se o aumento continuará quando forem definidos a intensidade e o rumo de políticas adicionais, como eventuais altas no imposto sobre a posse de imóveis. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsangebote in Seoul steigen wieder nach Lockerung für vermietete Objekte",
+        "excerpt": "Einen Tag nachdem die Regierung Verkäufe von vermieteten Wohnungen unabhängig von der Zahl der Immobilien des Verkäufers ermöglichte, stiegen die Angebote in Seoul um etwa 400.",
+        "body": "Die Zahl der Wohnungsangebote in Seoul ist wieder gestiegen, nachdem die Regierung Verkäufern einen Weg eröffnet hat, sogenannte vermietete Objekte mit bestehenden Jeonse-Mietern unabhängig von der Anzahl ihrer gehaltenen Wohnungen zu verkaufen. Innerhalb eines Tages nach der Maßnahme nahm die Zahl der angebotenen Apartments in Seoul Berichten zufolge um etwa 400 zu. Dies dürfte darauf zurückgehen, dass einige Objekte wieder auf den Markt kamen, deren Verkaufsmöglichkeiten zuvor durch Regeln und Transaktionsbeschränkungen im Zusammenhang mit der Zahl der gehaltenen Wohnungen begrenzt waren. In der Immobilienbranche heißt es jedoch, erst die Stärke und Richtung weiterer Maßnahmen, etwa möglicher Erhöhungen der Besitzsteuer, werde zeigen, ob der Anstieg anhält. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les annonces d’appartements à Séoul repartent à la hausse après l’assouplissement",
+        "excerpt": "Un jour après que le gouvernement a autorisé la vente de logements occupés par des locataires quel que soit le nombre de biens du vendeur, les annonces à Séoul ont augmenté d’environ 400.",
+        "body": "Les annonces d’appartements à Séoul ont de nouveau augmenté après que le gouvernement a ouvert la possibilité de vendre des logements déjà occupés par des locataires, les biens dits avec jeonse, indépendamment du nombre de logements détenus par le vendeur. Un jour après cette mesure, le nombre d’annonces d’appartements à Séoul aurait progressé d’environ 400. Cette hausse semble refléter le retour sur le marché de certains biens dont les options de vente étaient limitées par des règles et contraintes liées au nombre de logements possédés. Le secteur immobilier estime toutefois qu’il faudra connaître l’ampleur et l’orientation de mesures supplémentaires, comme une éventuelle hausse de la taxe de détention, pour juger si cette progression se poursuivra. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع جديد في معروض شقق سول بعد السماح ببيع المنازل المؤجرة",
+        "excerpt": "بعد يوم واحد من سماح الحكومة ببيع المنازل التي تضم مستأجرين بغض النظر عن عدد المنازل التي يملكها البائع، زاد معروض شقق سول بنحو 400 وحدة.",
+        "body": "عاد معروض الشقق في سول إلى الارتفاع بعدما فتحت الحكومة طريقا أمام البائعين لبيع ما يعرف بالمنازل التي تضم مستأجرين بعقود جونسي، بغض النظر عن عدد المنازل التي يملكها البائع. وبعد يوم واحد فقط من صدور الإجراء، زاد معروض الشقق في سول بنحو 400 وحدة بحسب ما ورد. ويبدو أن الزيادة تعكس عودة بعض العقارات إلى السوق بعد أن كانت خيارات بيعها محدودة بسبب القواعد والقيود المرتبطة بعدد المنازل المملوكة. لكن قطاع العقارات يرى أن الحكم على استمرار زيادة المعروض يتطلب اتضاح قوة واتجاه السياسات الإضافية، مثل رفع ضريبة حيازة العقارات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट लिस्टिंग फिर बढ़ी, किरायेदार वाली घर बिक्री में ढील का असर",
+        "excerpt": "सरकार द्वारा मालिकों की आवास संख्या से इतर किरायेदार वाले घर बेचने की अनुमति देने के एक दिन बाद सियोल अपार्टमेंट लिस्टिंग करीब 400 बढ़ गई।",
+        "body": "सरकार ने विक्रेता के पास कितने घर हैं, इसकी परवाह किए बिना मौजूदा किरायेदार वाले तथाकथित जोंसे घरों को बेचने का रास्ता खोला, जिसके बाद सियोल में अपार्टमेंट लिस्टिंग फिर बढ़ी। इस कदम के एक दिन के भीतर सियोल अपार्टमेंट लिस्टिंग में लगभग 400 की वृद्धि बताई गई। माना जा रहा है कि स्वामित्व वाले घरों की संख्या से जुड़ी पाबंदियों और लेनदेन सीमाओं के कारण जिन संपत्तियों के बिक्री विकल्प सीमित थे, उनमें से कुछ फिर बाजार में आईं। हालांकि रियल एस्टेट उद्योग का कहना है कि लिस्टिंग में वृद्धि जारी रहेगी या नहीं, यह संपत्ति होल्डिंग टैक्स बढ़ाने जैसी अतिरिक्त नीतियों की तीव्रता और दिशा स्पष्ट होने के बाद ही आंका जा सकेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Listing Apartemen Seoul Naik Lagi Setelah Penjualan Rumah Berpenyewa Dibuka",
+        "excerpt": "Sehari setelah pemerintah mengizinkan penjualan rumah berpenyewa tanpa melihat jumlah rumah yang dimiliki penjual, listing apartemen Seoul bertambah sekitar 400.",
+        "body": "Listing apartemen di Seoul kembali meningkat setelah pemerintah membuka jalan bagi penjual untuk melepas rumah yang sudah ditempati penyewa, yang dikenal sebagai rumah dengan jeonse, tanpa mempertimbangkan jumlah rumah yang dimiliki penjual. Dalam satu hari setelah kebijakan itu, listing apartemen di Seoul dilaporkan bertambah sekitar 400. Kenaikan ini dipandang sebagai dampak dari sebagian properti yang kembali masuk pasar setelah pilihan penjualannya sebelumnya dibatasi oleh aturan dan hambatan transaksi terkait jumlah rumah yang dimiliki. Namun, kalangan industri properti menilai keberlanjutan kenaikan listing baru dapat dinilai setelah kekuatan dan arah kebijakan tambahan, seperti kenaikan pajak kepemilikan, menjadi jelas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4e7e55510db7",
+    "slug": "메트로시티-자산-데시앙-평균-141대1-1순위-마감-357080",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T08:44:49.115Z",
+    "updatedAt": "2026-05-13T08:44:49.116Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12046340",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12046340",
+    "titleFingerprint": "487c5fc6e8daa734f300c0ff18925076797a1d8d",
+    "dedupKeys": [
+      "4e7e55510db709597880c9fdd7eed0efcefc71d6",
+      "487c5fc6e8daa734f300c0ff18925076797a1d8d",
+      "0c30d1842de8479db232884026d3ec25c04365f9"
+    ],
+    "imageUrl": "/images/articles/4e7e55510db7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메트로시티 자산 데시앙, 평균 14.1대 1로 1순위 청약 전 타입 마감",
+        "excerpt": "태영건설이 경남 창원시 마산합포구 자산동에 공급하는 ‘메트로시티자산데시앙’이 13일 1순위 청약에서 평균 14.1대 1 경쟁률로 전 타입 마감됐다.",
+        "body": "태영건설은 13일 경남 창원시 마산합포구 자산동 일원에 공급하는 ‘메트로시티자산데시앙’이 1순위 청약에서 전 타입 마감에 성공했다고 밝혔다. 한국부동산원 청약홈에 따르면 이 단지는 1순위 접수 결과 평균 14.1대 1의 경쟁률을 기록했다. 이번 결과는 창원 마산합포구 자산동 일대에 공급되는 신규 단지에 대한 청약 수요를 보여주는 지표로 해석된다. 전 타입이 1순위에서 마감되면서 향후 계약 일정과 실제 계약률에 관심이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Metrocity Jasan Desian Closes All First-Priority Units at 14.1:1 Average",
+        "excerpt": "Taeyoung Engineering & Construction said on May 13 that Metrocity Jasan Desian in Jasan-dong, Masanhappo-gu, Changwon, closed all unit types in first-priority subscriptions.",
+        "body": "Taeyoung Engineering & Construction said on May 13 that ‘Metrocity Jasan Desian,’ supplied in the Jasan-dong area of Masanhappo-gu, Changwon, South Gyeongsang Province, successfully closed all unit types in first-priority subscriptions. According to the Korea Real Estate Board’s Cheongyak Home, the complex recorded an average competition ratio of 14.1 to 1 in the first-priority round. The result indicates subscription demand for a new residential complex in Jasan-dong, Masanhappo-gu, Changwon. With every unit type closed in the first-priority round, attention is expected to turn to the upcoming contract schedule and actual contract rate. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "メトロシティ資山デシアン、平均14.1倍で1順位申込全タイプ締切",
+        "excerpt": "泰栄建設は13日、慶尚南道昌原市馬山合浦区資山洞で供給する「メトロシティ資山デシアン」が1順位申込で全タイプ締切となったと明らかにした。",
+        "body": "泰栄建設は13日、慶尚南道昌原市馬山合浦区資山洞一帯で供給する「メトロシティ資山デシアン」が、1順位の住宅申込で全タイプの締切に成功したと発表した。韓国不動産院の申込サイト「チョンヤクホーム」によると、同団地は1順位受付の結果、平均14.1対1の競争率を記録した。今回の結果は、昌原市馬山合浦区資山洞一帯で供給される新規団地への申込需要を示す指標と受け止められる。全タイプが1順位で締め切られたことで、今後の契約日程と実際の契約率に関心が集まる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Metrocity Jasan Desian首轮认购全户型售罄，平均14.1比1",
+        "excerpt": "泰荣建设13日表示，其在庆南昌原市马山合浦区自山洞供应的“Metrocity Jasan Desian”首轮认购所有户型均完成收盘。",
+        "body": "泰荣建设13日表示，其在庆尚南道昌原市马山合浦区自山洞一带供应的“Metrocity Jasan Desian”在首轮认购中所有户型均成功收盘。根据韩国房地产院认购平台Cheongyak Home，该项目首轮认购结果显示，平均竞争率为14.1比1。此次结果显示出市场对昌原市马山合浦区自山洞一带新供应住宅项目的认购需求。随着所有户型在首轮认购中收盘，后续签约日程以及实际签约率预计将继续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Metrocity Jasan Desian cierra toda la primera ronda con media de 14,1 a 1",
+        "excerpt": "Taeyoung E&C informó el 13 de mayo que Metrocity Jasan Desian, en Jasan-dong, Masanhappo-gu, Changwon, cerró todos los tipos en suscripciones de primera prioridad.",
+        "body": "Taeyoung Engineering & Construction informó el 13 de mayo que ‘Metrocity Jasan Desian’, promovido en la zona de Jasan-dong, Masanhappo-gu, Changwon, provincia de Gyeongsang del Sur, logró cerrar todos los tipos de vivienda en la primera ronda de suscripción prioritaria. Según Cheongyak Home, de la Junta Inmobiliaria de Corea, el complejo registró una competencia media de 14,1 a 1. El resultado muestra la demanda de suscripción por un nuevo complejo residencial en Jasan-dong, Masanhappo-gu, Changwon. Tras el cierre de todos los tipos en primera prioridad, la atención se dirigirá al calendario de contratos y a la tasa real de firma. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Metrocity Jasan Desian fecha 1ª prioridade com média de 14,1 para 1",
+        "excerpt": "A Taeyoung E&C informou em 13 de maio que o Metrocity Jasan Desian, em Jasan-dong, Masanhappo-gu, Changwon, encerrou todos os tipos na subscrição de primeira prioridade.",
+        "body": "A Taeyoung Engineering & Construction informou em 13 de maio que o ‘Metrocity Jasan Desian’, ofertado na região de Jasan-dong, Masanhappo-gu, Changwon, província de Gyeongsang do Sul, conseguiu encerrar todos os tipos de unidades na subscrição de primeira prioridade. Segundo o Cheongyak Home, da Korea Real Estate Board, o empreendimento registrou uma taxa média de concorrência de 14,1 para 1. O resultado mostra a demanda por subscrições para um novo complexo residencial em Jasan-dong, Masanhappo-gu, Changwon. Com todos os tipos encerrados na primeira prioridade, a atenção deve se voltar ao cronograma de contratos e à taxa efetiva de assinatura. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Metrocity Jasan Desian schließt Erstrunde mit 14,1-facher Nachfrage ab",
+        "excerpt": "Taeyoung E&C teilte am 13. Mai mit, dass Metrocity Jasan Desian in Jasan-dong, Masanhappo-gu, Changwon, in der ersten Zeichnungsrunde alle Wohnungstypen abschloss.",
+        "body": "Taeyoung Engineering & Construction teilte am 13. Mai mit, dass ‘Metrocity Jasan Desian’ im Gebiet Jasan-dong, Masanhappo-gu, Changwon, Provinz Süd-Gyeongsang, in der ersten priorisierten Zeichnungsrunde alle Wohnungstypen erfolgreich abschloss. Laut Cheongyak Home der Korea Real Estate Board verzeichnete die Anlage in der ersten Runde eine durchschnittliche Wettbewerbsquote von 14,1 zu 1. Das Ergebnis zeigt die Zeichnungsnachfrage nach einer neuen Wohnanlage in Jasan-dong, Masanhappo-gu, Changwon. Da alle Typen bereits in der ersten Runde geschlossen wurden, dürfte sich die Aufmerksamkeit nun auf den Vertragszeitplan und die tatsächliche Vertragsquote richten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Metrocity Jasan Desian clôt tous les lots au 1er rang, moyenne de 14,1 pour 1",
+        "excerpt": "Taeyoung E&C a annoncé le 13 mai que Metrocity Jasan Desian, à Jasan-dong, Masanhappo-gu, Changwon, avait clôturé tous les types lors des souscriptions de premier rang.",
+        "body": "Taeyoung Engineering & Construction a annoncé le 13 mai que ‘Metrocity Jasan Desian’, proposé dans le secteur de Jasan-dong, Masanhappo-gu, Changwon, province du Gyeongsang du Sud, avait réussi à clôturer tous les types de logements lors des souscriptions de premier rang. Selon Cheongyak Home, plateforme de la Korea Real Estate Board, le complexe a enregistré un taux moyen de concurrence de 14,1 pour 1. Ce résultat montre la demande de souscription pour un nouveau complexe résidentiel à Jasan-dong, Masanhappo-gu, Changwon. Après la clôture de tous les types au premier rang, l’attention devrait se porter sur le calendrier des contrats et le taux réel de signature. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "متروسيتي جاسان ديسيان يغلق جميع الأنواع في أولوية أولى بمتوسط 14.1 إلى 1",
+        "excerpt": "قالت تاي يونغ للإنشاءات في 13 مايو إن مشروع متروسيتي جاسان ديسيان في جاسان دونغ، ماسانهاببو غو، تشانغوون، أغلق جميع الأنواع في طلبات الأولوية الأولى.",
+        "body": "أعلنت تاي يونغ للهندسة والإنشاءات في 13 مايو أن مشروع ‘متروسيتي جاسان ديسيان’، المطروح في منطقة جاسان دونغ بماسانهاببو غو في مدينة تشانغوون بمقاطعة غيونغسانغ الجنوبية، نجح في إغلاق جميع أنواع الوحدات ضمن طلبات الاكتتاب ذات الأولوية الأولى. ووفقا لمنصة Cheongyak Home التابعة لمجلس العقارات الكوري، سجل المجمع متوسط منافسة بلغ 14.1 إلى 1 في جولة الأولوية الأولى. وتظهر هذه النتيجة طلب الاكتتاب على مجمع سكني جديد في جاسان دونغ، ماسانهاببو غو، تشانغوون. ومع إغلاق جميع الأنواع في الأولوية الأولى، من المتوقع أن يتجه الاهتمام إلى جدول العقود ونسبة التعاقد الفعلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मेट्रोसिटी जासन देसियां की प्रथम प्राथमिकता बुकिंग 14.1:1 औसत पर बंद",
+        "excerpt": "तैयंग ईएंडसी ने 13 मई को बताया कि चांगवोन के मासानहाप्पो-गु, जासन-डोंग में मेट्रोसिटी जासन देसियां की प्रथम प्राथमिकता बुकिंग में सभी प्रकार बंद हो गए।",
+        "body": "तैयंग इंजीनियरिंग एंड कंस्ट्रक्शन ने 13 मई को कहा कि दक्षिण ग्योंगसांग प्रांत के चांगवोन शहर में मासानहाप्पो-गु, जासन-डोंग क्षेत्र में आपूर्ति किए जा रहे ‘मेट्रोसिटी जासन देसियां’ ने प्रथम प्राथमिकता सदस्यता में सभी यूनिट प्रकार सफलतापूर्वक बंद कर दिए। कोरिया रियल एस्टेट बोर्ड के Cheongyak Home के अनुसार, इस परिसर ने प्रथम प्राथमिकता आवेदन में औसतन 14.1 बनाम 1 की प्रतिस्पर्धा दर दर्ज की। यह परिणाम चांगवोन के मासानहाप्पो-गु, जासन-डोंग में नए आवासीय परिसर के लिए सदस्यता मांग को दिखाता है। सभी प्रकार प्रथम प्राथमिकता में बंद होने के बाद अनुबंध कार्यक्रम और वास्तविक अनुबंध दर पर ध्यान रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Metrocity Jasan Desian Tutup Semua Tipe Prioritas Pertama, Rata-rata 14,1:1",
+        "excerpt": "Taeyoung E&C menyatakan pada 13 Mei bahwa Metrocity Jasan Desian di Jasan-dong, Masanhappo-gu, Changwon, menutup semua tipe dalam pendaftaran prioritas pertama.",
+        "body": "Taeyoung Engineering & Construction pada 13 Mei menyatakan bahwa ‘Metrocity Jasan Desian’, yang dipasok di kawasan Jasan-dong, Masanhappo-gu, Changwon, Provinsi Gyeongsang Selatan, berhasil menutup semua tipe unit dalam pendaftaran prioritas pertama. Menurut Cheongyak Home milik Korea Real Estate Board, kompleks ini mencatat rasio persaingan rata-rata 14,1 banding 1 pada putaran prioritas pertama. Hasil ini menunjukkan adanya permintaan pendaftaran untuk kompleks hunian baru di Jasan-dong, Masanhappo-gu, Changwon. Setelah semua tipe ditutup pada prioritas pertama, perhatian diperkirakan berlanjut pada jadwal kontrak dan tingkat kontrak aktual. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "85110f68322b",
     "slug": "북촌-등-서울-한옥-생태면적률-의무-제외된다-166085",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "IBK Beralih ke Pembiayaan Produktif, Dukung Relokasi UKM dan Pemerataan Daerah",
         "excerpt": "Presiden IBK Industrial Bank of Korea Jang Min-young pada 12 Mei menyatakan bank akan mendorong pembiayaan produktif, relokasi UKM, keuangan inklusif, dan perlindungan konsumen.",
         "body": "Presiden IBK Industrial Bank of Korea Jang Min-young pada 12 Mei, dalam konferensi pers 100 hari masa jabatannya di Hotel Conrad, Yeouido, Seoul, menetapkan tujuan manajemen tahun ini: transformasi besar menuju pembiayaan produktif dan pembangunan daerah yang seimbang. Jang mengatakan bank berada di titik perubahan, karena cara lama saja tidak cukup untuk bertahan di tengah perubahan cepat teknologi dan persaingan. Ia menyatakan IBK akan merumuskan kembali tujuan, cara penyediaan, dan prinsip kerja keuangan yang dikejarnya. Jang berjanji membangun sistem dukungan menyeluruh bagi industri maju dan inovatif serta memperluas investasi. Ia juga mengumumkan rencana membantu usaha kecil dan menengah pindah ke daerah serta meningkatkan pasokan dana di luar wilayah metropolitan Seoul. Selain itu, ia menjanjikan keuangan inklusif yang bertanggung jawab bagi kelompok rentan dan pedagang kecil, serta sistem perlindungan konsumen yang aman. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "3ee3afd5a030",
-    "slug": "상록수-채권-8500억중-5000억-새도약기금으로-매각-424845",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T17:02:37.669Z",
-    "updatedAt": "2026-05-12T17:02:37.669Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908704/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908704/2",
-    "titleFingerprint": "628f2aea2bb6edec6fa25e196dbca90ac00c2c79",
-    "dedupKeys": [
-      "3ee3afd5a0304ab1bccb7692ab58692624df48fa",
-      "628f2aea2bb6edec6fa25e196dbca90ac00c2c79",
-      "5368f0421ecd7168cc9650f320299a0e851bfc5e"
-    ],
-    "imageUrl": "/images/articles/3ee3afd5a030.jpg",
-    "i18n": {
-      "ko": {
-        "title": "상록수 장기연체채권 4930억 원, 캠코 새도약기금 매각 추진",
-        "excerpt": "금융회사들이 12일 민간 배드뱅크 상록수 보유 장기 연체 채권 약 4930억 원을 캠코 새도약기금으로 매각하기로 한 것으로 알려졌다.",
-        "body": "금융회사들이 12일 민간 배드뱅크인 ‘상록수’가 보유한 장기 연체 채권 약 4930억 원을 한국자산관리공사(캠코)의 새도약기금으로 매각하기로 한 것으로 알려졌다. 이재명 대통령이 이날 X에서 상록수의 장기 추심 문제를 비판하자 금융사들이 즉각 조치에 나선 것이다. 금융권에 따르면 상록수제일차유동화전문유한회사의 전체 채권 8500억 원 가운데 회생 채권 등 이관이 불가한 채권을 제외한 매각 대상은 4930억 원 규모다. 상록수는 2000년대 초 카드대란 당시 주요 은행과 카드사가 출자해 만든 특수목적법인이다. 그동안 이재명 정부의 장기 연체자 빚 탕감 정책인 새도약기금에는 참여하지 않았다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Sangnoksu to Sell 493 Billion Won in Long-Overdue Debt to Kamco Fund",
-        "excerpt": "Financial firms were said on May 12 to plan the sale of about 493 billion won in Sangnoksu’s long-overdue claims to Kamco’s New Leap Fund.",
-        "body": "Financial companies were reported on May 12 to have decided to sell about 493 billion won in long-overdue claims held by the private bad bank “Sangnoksu” to the New Leap Fund run by the Korea Asset Management Corporation, or Kamco. The move came after President Lee Jae-myung criticized Sangnoksu’s long-term collection practices on X that day. According to financial industry sources, the sale target is about 493 billion won out of Sangnoksu First Securitization Specialty Co.’s total 850 billion won in claims, excluding rehabilitation claims and other assets that cannot be transferred. Sangnoksu is a special-purpose company created by major banks and card firms during the early-2000s credit card crisis. It had not participated in the Lee administration’s New Leap Fund debt relief policy for long-term delinquent borrowers. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サンロックスの長期延滞債権4930億ウォン、KAMCO基金へ売却へ",
-        "excerpt": "金融会社は12日、民間バッドバンク「サンロックス」が保有する長期延滞債権約4930億ウォンをKAMCOの新跳躍基金へ売却する方針と伝えられた。",
-        "body": "金融会社は12日、民間バッドバンク「サンロックス」が保有してきた長期延滞債権約4930億ウォンを、韓国資産管理公社（KAMCO）の新跳躍基金に売却する方針を固めたと伝えられた。李在明大統領が同日、Xでサンロックスの長期取り立て問題を批判したことを受け、金融会社が直ちに対応に動いた形だ。金融業界によると、サンロックス第一流動化専門有限会社の債権総額8500億ウォンのうち、再生債権など移管できないものを除いた売却対象は4930億ウォン規模とされる。サンロックスは2000年代初めのカード危機時に主要銀行とカード会社が出資して設立した特別目的会社。李在明政権の長期延滞者向け債務減免政策である新跳躍基金には参加していなかった。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "常绿树长期逾期债权4930亿韩元拟售予KAMCO新跃进基金",
-        "excerpt": "据悉，金融公司12日决定将民间坏账银行“常绿树”持有的约4930亿韩元长期逾期债权出售给KAMCO新跃进基金。",
-        "body": "据12日消息，金融公司决定将民间坏账银行“常绿树”持有的长期逾期债权约4930亿韩元，出售给韩国资产管理公社（KAMCO）的新跃进基金。当天，李在明总统在X上批评常绿树的长期催收问题后，金融公司随即采取措施。金融圈消息称，常绿树第一资产证券化专门有限公司持有的债权总额为8500亿韩元，其中扣除无法移交的重整债权等后，出售对象约为4930亿韩元。常绿树是在2000年代初信用卡危机期间，由主要银行和信用卡公司出资成立的特殊目的法人。此前，该公司未参与李在明政府推动的长期逾期债务减免政策新跃进基金。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Sangnoksu venderá 493.000 millones de wones en deuda vencida a Kamco",
-        "excerpt": "Las financieras habrían decidido el 12 de mayo vender unos 493.000 millones de wones en créditos morosos de Sangnoksu al Nuevo Fondo de Salto de Kamco.",
-        "body": "Las compañías financieras habrían decidido el 12 de mayo vender alrededor de 493.000 millones de wones en créditos de largo plazo en mora mantenidos por el banco malo privado “Sangnoksu” al Nuevo Fondo de Salto de la Korea Asset Management Corporation, Kamco. La medida llegó después de que el presidente Lee Jae-myung criticara ese día en X el problema de los cobros prolongados de Sangnoksu. Según fuentes del sector financiero, el monto objeto de venta asciende a 493.000 millones de wones de un total de 850.000 millones en créditos de Sangnoksu First Securitization Specialty Co., excluidos créditos de rehabilitación y otros no transferibles. Sangnoksu es una sociedad de propósito especial creada por grandes bancos y emisoras de tarjetas durante la crisis de tarjetas de comienzos de los años 2000. No participaba en la política de alivio de deudas para morosos de largo plazo impulsada por el gobierno de Lee. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Sangnoksu venderá 493 bilhões de won em dívidas vencidas ao fundo da Kamco",
-        "excerpt": "Instituições financeiras teriam decidido em 12 de maio vender cerca de 493 bilhões de won em créditos vencidos da Sangnoksu ao Novo Fundo de Salto da Kamco.",
-        "body": "Instituições financeiras teriam decidido em 12 de maio vender cerca de 493 bilhões de won em créditos de longo prazo em atraso mantidos pelo banco ruim privado “Sangnoksu” ao Novo Fundo de Salto da Korea Asset Management Corporation, a Kamco. A medida veio após o presidente Lee Jae-myung criticar no X, naquele dia, o problema de cobranças prolongadas da Sangnoksu. Segundo fontes do setor financeiro, o alvo da venda soma 493 bilhões de won de um total de 850 bilhões em créditos da Sangnoksu First Securitization Specialty Co., excluindo créditos de recuperação e outros ativos que não podem ser transferidos. A Sangnoksu é uma sociedade de propósito específico criada por grandes bancos e administradoras de cartão durante a crise dos cartões no início dos anos 2000. Ela não participava da política do governo Lee de alívio de dívidas para devedores de longo prazo, o Novo Fundo de Salto. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Sangnoksu verkauft überfällige Forderungen von 493 Mrd. Won an Kamco-Fonds",
-        "excerpt": "Finanzfirmen wollen laut Bericht vom 12. Mai rund 493 Mrd. Won an langfristig überfälligen Sangnoksu-Forderungen an Kamcos New Leap Fund verkaufen.",
-        "body": "Finanzunternehmen haben Berichten zufolge am 12. Mai beschlossen, rund 493 Milliarden Won an langfristig überfälligen Forderungen der privaten Bad Bank “Sangnoksu” an den New Leap Fund der Korea Asset Management Corporation, Kamco, zu verkaufen. Der Schritt folgte auf Kritik von Präsident Lee Jae-myung, der am selben Tag auf X die langfristigen Inkassopraktiken von Sangnoksu beanstandete. Nach Angaben aus der Finanzbranche umfasst der Verkaufsbestand 493 Milliarden Won von insgesamt 850 Milliarden Won an Forderungen der Sangnoksu First Securitization Specialty Co.; ausgenommen sind Sanierungsforderungen und andere nicht übertragbare Vermögenswerte. Sangnoksu ist eine Zweckgesellschaft, die während der Kreditkartenkrise Anfang der 2000er Jahre von großen Banken und Kartenunternehmen gegründet wurde. Am New Leap Fund, der Schuldenerleichterung für langfristig säumige Schuldner unter der Regierung Lee vorsieht, hatte sie bisher nicht teilgenommen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Sangnoksu cédera 493 milliards de wons de créances en retard au fonds Kamco",
-        "excerpt": "Des sociétés financières auraient décidé le 12 mai de vendre environ 493 milliards de wons de créances longues en souffrance de Sangnoksu au New Leap Fund de Kamco.",
-        "body": "Des sociétés financières auraient décidé le 12 mai de vendre environ 493 milliards de wons de créances de long terme en souffrance détenues par la structure privée de défaisance “Sangnoksu” au New Leap Fund de la Korea Asset Management Corporation, Kamco. Cette décision intervient après que le président Lee Jae-myung a critiqué ce jour-là sur X les pratiques de recouvrement prolongé de Sangnoksu. Selon des sources du secteur financier, le périmètre de vente représente 493 milliards de wons sur un total de 850 milliards de wons de créances détenues par Sangnoksu First Securitization Specialty Co., hors créances en redressement et autres actifs non transférables. Sangnoksu est une société ad hoc créée par de grandes banques et sociétés de cartes lors de la crise des cartes de crédit du début des années 2000. Elle ne participait pas au New Leap Fund, la politique d’allègement de dette des emprunteurs durablement en retard portée par le gouvernement Lee. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سانغنوكسو تبيع ديونا متعثرة طويلة الأجل بـ493 مليار وون إلى صندوق كامكو",
-        "excerpt": "أفادت تقارير في 12 مايو بأن شركات مالية قررت بيع نحو 493 مليار وون من ديون سانغنوكسو المتأخرة طويلة الأجل إلى صندوق الانطلاقة الجديدة التابع لكامكو.",
-        "body": "أفادت تقارير في 12 مايو بأن شركات مالية قررت بيع نحو 493 مليار وون من المطالبات المتأخرة طويلة الأجل التي تحتفظ بها مؤسسة إدارة الأصول المتعثرة الخاصة “سانغنوكسو” إلى صندوق الانطلاقة الجديدة التابع لشركة كوريا لإدارة الأصول، كامكو. وجاءت الخطوة بعدما انتقد الرئيس لي جاي ميونغ في اليوم نفسه عبر منصة X مشكلة التحصيل طويل الأمد لدى سانغنوكسو. ووفق مصادر في القطاع المالي، تبلغ المطالبات المستهدفة للبيع 493 مليار وون من إجمالي 850 مليار وون لدى شركة Sangnoksu First Securitization Specialty، بعد استبعاد مطالبات إعادة التأهيل وغيرها من الأصول غير القابلة للتحويل. تأسست سانغنوكسو كشركة ذات غرض خاص بمساهمة بنوك وشركات بطاقات رئيسية خلال أزمة البطاقات الائتمانية في أوائل العقد الأول من القرن الحادي والعشرين. ولم تكن تشارك في سياسة صندوق الانطلاقة الجديدة لتخفيف ديون المتأخرين طويل الأجل في حكومة لي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सांगनोक्सू के 493 अरब वॉन के पुराने बकाया ऋण Kamco फंड को बेचने की तैयारी",
-        "excerpt": "वित्तीय कंपनियों ने 12 मई को सांगनोक्सू के करीब 493 अरब वॉन के दीर्घकालिक बकाया दावों को Kamco के न्यू लीप फंड को बेचने का फैसला किया बताया गया।",
-        "body": "वित्तीय कंपनियों ने 12 मई को निजी बैड बैंक “सांगनोक्सू” के पास मौजूद करीब 493 अरब वॉन के दीर्घकालिक बकाया दावों को Korea Asset Management Corporation, यानी Kamco, के न्यू लीप फंड को बेचने का फैसला किया बताया गया। यह कदम उसी दिन राष्ट्रपति ली जे-म्युंग द्वारा X पर सांगनोक्सू की लंबी अवधि की वसूली समस्या की आलोचना के बाद आया। वित्तीय क्षेत्र के अनुसार, Sangnoksu First Securitization Specialty Co. के कुल 850 अरब वॉन के दावों में से पुनर्वास दावों और अन्य गैर-हस्तांतरणीय परिसंपत्तियों को छोड़कर बिक्री योग्य हिस्सा 493 अरब वॉन है। सांगनोक्सू 2000 के दशक की शुरुआत में कार्ड संकट के दौरान प्रमुख बैंकों और कार्ड कंपनियों द्वारा स्थापित विशेष प्रयोजन कंपनी है। यह ली सरकार की दीर्घकालिक बकायेदारों के लिए कर्ज राहत नीति, न्यू लीप फंड, में शामिल नहीं थी। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Sangnoksu Akan Jual Piutang Macet 493 Miliar Won ke Dana Baru Kamco",
-        "excerpt": "Perusahaan keuangan pada 12 Mei disebut akan menjual sekitar 493 miliar won piutang tertunggak jangka panjang milik Sangnoksu ke New Leap Fund Kamco.",
-        "body": "Perusahaan keuangan pada 12 Mei dilaporkan memutuskan menjual sekitar 493 miliar won piutang tertunggak jangka panjang yang dimiliki bank buruk swasta “Sangnoksu” kepada New Leap Fund milik Korea Asset Management Corporation, atau Kamco. Langkah itu muncul setelah Presiden Lee Jae-myung pada hari yang sama mengkritik masalah penagihan jangka panjang Sangnoksu di X. Menurut sumber industri keuangan, aset yang akan dijual bernilai 493 miliar won dari total 850 miliar won piutang Sangnoksu First Securitization Specialty Co., setelah mengecualikan piutang rehabilitasi dan aset lain yang tidak dapat dialihkan. Sangnoksu adalah perusahaan tujuan khusus yang dibentuk oleh bank besar dan perusahaan kartu saat krisis kartu kredit awal 2000-an. Perusahaan itu belum ikut dalam kebijakan penghapusan utang debitur tertunggak jangka panjang pemerintahan Lee, New Leap Fund. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "e0db2c788bed",
-    "slug": "핀테크-금융서-택배로-사업-확장-은행들은-배달앱-진출-729886",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T17:00:32.263Z",
-    "updatedAt": "2026-05-12T17:00:32.263Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908713/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908713/2",
-    "titleFingerprint": "aa35c3685a6ad9ca36edb4afe0876ae71edbce8a",
-    "dedupKeys": [
-      "e0db2c788bed57813c6d22b5019854c89ca4dbb9",
-      "aa35c3685a6ad9ca36edb4afe0876ae71edbce8a",
-      "eeaf8b2a84858a38fad813ad3c51c3c74cc70dd2"
-    ],
-    "imageUrl": "/images/articles/e0db2c788bed.jpg",
-    "i18n": {
-      "ko": {
-        "title": "핀테크 택배 서비스 확대, 카카오·네이버·토스 앱 이용자 증가",
-        "excerpt": "카카오·네이버·토스 등 핀테크 기업 앱에서 12일 택배·배송 서비스 이용이 늘며 간편결제 기반 생활 서비스 확장이 주목받고 있다.",
-        "body": "카카오·네이버·토스 등 핀테크 기업의 모바일 앱에서 택배와 배송 서비스를 이용하는 사례가 늘고 있다. 서울에서 자취를 시작한 직장인 김지혜 씨는 지방에 사는 어머니가 보내는 반찬을 기존 택배사가 아닌 자주 쓰는 핀테크 앱으로 배송 신청한다. 앱에 결제 정보가 이미 입력돼 있어 주소와 연락처만 추가하면 1분 안에 신청할 수 있다는 점이 장점으로 꼽힌다. 배달 기사가 부모님 댁 앞 물품을 수거해 김 씨 집 앞으로 가져오는 ‘집 앞 택배 배송’ 방식도 활용된다. 핀테크 앱은 그동안 입점 업체의 간편 결제 수단으로 주로 쓰였지만 서비스 영역이 배송으로 넓어지는 모습이다. 이용자들은 결제 정보 반복 입력이 없고 주말에도 택배를 보낼 수 있다는 점을 편의로 평가한다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Fintech Delivery Services Expand as Kakao, Naver and Toss Apps Gain Users",
-        "excerpt": "Fintech apps such as Kakao, Naver and Toss are seeing more parcel and delivery use as payment-linked lifestyle services expand on May 12.",
-        "body": "Mobile apps run by fintech companies such as Kakao, Naver and Toss are seeing growing use of parcel and delivery services. Office worker Kim Ji-hye, who began living alone in Seoul, now requests delivery through a fintech app she often uses instead of a traditional courier when her mother in another region sends side dishes. Because payment information is already saved in the app, users can add only an address and contact details and complete a request within a minute. A “front-door parcel delivery” option lets a delivery rider pick up items placed outside a parent’s home and bring them to the recipient’s door. Fintech apps were mainly used as simple payment tools for merchants inside the apps, but their service scope is widening into delivery. Users cite less repeated payment entry and the ability to send parcels on weekends as advantages. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "フィンテック宅配サービス拡大、カカオ・ネイバー・トスで利用増",
-        "excerpt": "カカオ、ネイバー、トスなどのフィンテックアプリで12日、宅配・配送サービス利用が増え、決済基盤の生活サービス拡大が注目されている。",
-        "body": "カカオ、ネイバー、トスなどフィンテック企業のモバイルアプリで、宅配や配送サービスを利用するケースが増えている。ソウルで一人暮らしを始めた会社員のキム・ジヘさんは、地方に住む母親が送るおかずを、従来の宅配会社ではなく普段よく使うフィンテックアプリで配送申請する。アプリには決済情報がすでに登録されているため、住所と連絡先を追加するだけで1分以内に申請できる点が利点とされる。配達員が実家の前に置かれた品物を回収し、キムさんの家の前まで届ける「玄関前宅配配送」も使われている。フィンテックアプリは主に入店業者の簡単決済手段として使われてきたが、サービス領域が配送へ広がっている。利用者は決済情報を毎回入力しなくてよいことや週末にも荷物を送れることを便利だと評価している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "金融科技快递服务扩展，Kakao、Naver、Toss应用用户增加",
-        "excerpt": "Kakao、Naver、Toss等金融科技应用在12日的快递和配送使用增加，基于便捷支付的生活服务扩展受到关注。",
-        "body": "Kakao、Naver、Toss等金融科技企业的移动应用中，使用快递和配送服务的用户正在增加。开始在首尔独居的上班族金智惠，现在不再通过传统快递公司，而是用自己常用的金融科技应用，为住在地方的母亲寄来的小菜申请配送。由于应用中已经保存了支付信息，只需补充地址和联系方式，就能在1分钟内完成申请，这被认为是主要便利。配送员还可上门取走放在父母家门前的物品，再送到金女士家门口。过去，金融科技应用通常作为入驻商家的便捷支付工具使用，如今服务范围正在扩展到配送。用户认为，无需反复输入支付信息、周末也能寄送包裹，是这类服务的优点。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Fintech amplía servicios de paquetería con más uso en Kakao, Naver y Toss",
-        "excerpt": "Aplicaciones fintech como Kakao, Naver y Toss registran más uso de paquetería y entregas este día 12, impulsando servicios cotidianos ligados al pago fácil.",
-        "body": "Las aplicaciones móviles de empresas fintech como Kakao, Naver y Toss registran un aumento en el uso de servicios de paquetería y entrega. Kim Ji-hye, una trabajadora que empezó a vivir sola en Seúl, solicita ahora el envío de guarniciones que le manda su madre desde otra región mediante una app fintech que usa con frecuencia, en lugar de recurrir a una empresa de mensajería tradicional. Como la información de pago ya está registrada en la aplicación, basta con añadir dirección y contacto para pedir el servicio en menos de un minuto. La opción de “entrega de paquetes frente a casa” permite que un repartidor recoja los alimentos dejados frente al domicilio de los padres y los lleve hasta la puerta de Kim. Estas apps, antes usadas sobre todo como medio de pago simple para comercios integrados, están ampliando su alcance hacia la entrega. Los usuarios destacan no repetir datos de pago y poder enviar paquetes los fines de semana. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Fintech amplia entregas e apps Kakao, Naver e Toss ganham usuários",
-        "excerpt": "Apps fintech como Kakao, Naver e Toss registram no dia 12 maior uso de encomendas e entregas, ampliando serviços cotidianos ligados ao pagamento simples.",
-        "body": "Aplicativos móveis de fintechs como Kakao, Naver e Toss vêm registrando aumento no uso de serviços de encomendas e entregas. Kim Ji-hye, trabalhadora que começou a morar sozinha em Seul, agora solicita pelo app fintech que usa com frequência a entrega dos acompanhamentos enviados por sua mãe, que vive em outra região, em vez de recorrer a uma transportadora tradicional. Como as informações de pagamento já estão cadastradas no aplicativo, basta adicionar endereço e contato para concluir o pedido em menos de um minuto. A modalidade de “entrega de encomenda à porta” permite que um entregador recolha os itens deixados na frente da casa dos pais e leve até a porta da residência de Kim. Antes usados principalmente como meios de pagamento simples para lojas dentro dos apps, esses serviços fintech ampliam seu alcance para logística. Usuários citam como vantagens não redigitar dados de pagamento e poder enviar pacotes no fim de semana. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Fintech weitet Paketdienste aus: Mehr Nutzung bei Kakao, Naver und Toss",
-        "excerpt": "Fintech-Apps wie Kakao, Naver und Toss verzeichnen am 12. mehr Nutzung von Paket- und Lieferdiensten, während Zahlungs-Apps Alltagservices ausbauen.",
-        "body": "Mobile Apps von Fintech-Unternehmen wie Kakao, Naver und Toss werden zunehmend für Paket- und Lieferdienste genutzt. Die Angestellte Kim Ji-hye, die in Seoul allein zu wohnen begann, bestellt die Lieferung von Beilagen, die ihre Mutter aus einer anderen Region schickt, nun über eine häufig genutzte Fintech-App statt über einen klassischen Paketdienst. Da Zahlungsdaten bereits in der App hinterlegt sind, müssen Nutzer nur Adresse und Kontaktdaten ergänzen und können den Auftrag innerhalb einer Minute abschließen. Beim Dienst „Paketlieferung vor die Haustür“ holt ein Lieferfahrer Waren ab, die vor dem Haus der Eltern liegen, und bringt sie bis vor Kims Wohnung. Fintech-Apps dienten bisher vor allem als einfache Zahlungsmittel für Anbieter in den Apps, doch ihr Leistungsbereich erweitert sich nun auf Lieferungen. Nutzer nennen den Wegfall wiederholter Zahlungseingaben und die Möglichkeit, auch am Wochenende Pakete zu versenden, als Vorteile. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les fintechs étendent la livraison, Kakao, Naver et Toss attirent plus d’usagers",
-        "excerpt": "Les applications fintech comme Kakao, Naver et Toss voient le 12 une hausse de l’usage des colis et livraisons, portée par les services liés au paiement simple.",
-        "body": "Les applications mobiles de fintechs comme Kakao, Naver et Toss sont de plus en plus utilisées pour des services de colis et de livraison. Kim Ji-hye, salariée qui a commencé à vivre seule à Séoul, demande désormais via une application fintech qu’elle utilise souvent la livraison de plats d’accompagnement envoyés par sa mère vivant en province, au lieu de passer par une société de livraison classique. Comme les informations de paiement sont déjà enregistrées dans l’application, il suffit d’ajouter une adresse et un contact pour effectuer la demande en moins d’une minute. Le service de “livraison de colis devant la porte” permet à un livreur de récupérer les produits déposés devant le domicile des parents et de les apporter devant chez Kim. Ces applications, jusque-là surtout utilisées comme moyens de paiement simplifié pour les commerçants intégrés, élargissent leur champ vers la livraison. Les utilisateurs apprécient de ne pas ressaisir leurs données de paiement et de pouvoir envoyer des colis le week-end. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "خدمات التوصيل في تطبيقات التكنولوجيا المالية تتوسع مع كاكاو ونافر وتوس",
-        "excerpt": "تشهد تطبيقات التكنولوجيا المالية مثل كاكاو ونافر وتوس في 12 من الشهر زيادة في استخدام خدمات الطرود والتوصيل مع توسع خدمات الدفع السهل اليومية.",
-        "body": "تشهد تطبيقات الهاتف المحمول التابعة لشركات التكنولوجيا المالية مثل كاكاو ونافر وتوس زيادة في استخدام خدمات الطرود والتوصيل. الموظفة كيم جي-هيه، التي بدأت العيش بمفردها في سيول، باتت تطلب توصيل الأطباق الجانبية التي ترسلها والدتها من منطقة أخرى عبر تطبيق مالي تستخدمه كثيرا، بدلا من شركة توصيل تقليدية. وبما أن معلومات الدفع محفوظة مسبقا في التطبيق، يكفي إضافة العنوان ورقم الاتصال لإتمام الطلب خلال أقل من دقيقة. وتتيح خدمة “توصيل الطرود إلى باب المنزل” لسائق التوصيل جمع الأغراض الموضوعة أمام منزل الوالدين وإيصالها إلى باب منزل كيم. كانت هذه التطبيقات تستخدم غالبا كوسيلة دفع سهلة لدى المتاجر داخل التطبيق، لكن نطاق خدماتها يتوسع الآن إلى التوصيل. ويرى المستخدمون أن عدم تكرار إدخال معلومات الدفع وإمكان إرسال الطرود في عطلة نهاية الأسبوع من أبرز المزايا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "फिनटेक डिलीवरी सेवाएं बढ़ीं, Kakao, Naver और Toss ऐप पर उपयोगकर्ता बढ़े",
-        "excerpt": "Kakao, Naver और Toss जैसे फिनटेक ऐप में 12 तारीख को पार्सल व डिलीवरी सेवाओं का उपयोग बढ़ा, जिससे आसान भुगतान आधारित जीवन सेवाओं का विस्तार दिखा।",
-        "body": "Kakao, Naver और Toss जैसी फिनटेक कंपनियों के मोबाइल ऐप में पार्सल और डिलीवरी सेवाओं का उपयोग बढ़ रहा है। सियोल में अकेले रहना शुरू करने वाली कर्मचारी किम जी-ह्ये अब दूसरे क्षेत्र में रहने वाली अपनी मां द्वारा भेजे गए साइड डिश के लिए पारंपरिक कुरियर कंपनी के बजाय अक्सर इस्तेमाल किए जाने वाले फिनटेक ऐप से डिलीवरी अनुरोध करती हैं। ऐप में भुगतान जानकारी पहले से दर्ज होने के कारण केवल पता और संपर्क जोड़कर एक मिनट के भीतर अनुरोध किया जा सकता है। “घर के सामने पार्सल डिलीवरी” सेवा में डिलीवरी कर्मी माता-पिता के घर के सामने रखे सामान को उठाकर किम के घर के सामने पहुंचाता है। फिनटेक ऐप अब तक मुख्य रूप से ऐप में मौजूद दुकानों के सरल भुगतान माध्यम के रूप में इस्तेमाल होते थे, लेकिन अब उनका दायरा डिलीवरी तक बढ़ रहा है। उपयोगकर्ता बार-बार भुगतान जानकारी न भरने और सप्ताहांत में भी पार्सल भेज पाने को सुविधा मानते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Layanan Paket Fintech Meluas, Pengguna Aplikasi Kakao, Naver dan Toss Naik",
-        "excerpt": "Aplikasi fintech seperti Kakao, Naver dan Toss pada tanggal 12 mencatat kenaikan penggunaan paket dan pengiriman seiring perluasan layanan berbasis pembayaran mudah.",
-        "body": "Aplikasi mobile perusahaan fintech seperti Kakao, Naver dan Toss makin banyak digunakan untuk layanan paket dan pengiriman. Kim Ji-hye, pekerja yang mulai tinggal sendiri di Seoul, kini meminta pengiriman lauk yang dikirim ibunya dari daerah lain melalui aplikasi fintech yang sering ia gunakan, bukan lagi lewat perusahaan kurir biasa. Karena informasi pembayaran sudah tersimpan di aplikasi, pengguna cukup menambahkan alamat dan kontak untuk mengajukan pengiriman dalam waktu kurang dari satu menit. Layanan “pengiriman paket depan rumah” memungkinkan kurir mengambil barang yang diletakkan di depan rumah orang tua dan membawanya ke depan rumah Kim. Aplikasi fintech sebelumnya terutama dipakai sebagai sarana pembayaran mudah untuk penyedia layanan di dalam aplikasi, tetapi cakupannya kini meluas ke pengiriman. Pengguna menilai tidak perlu berulang kali memasukkan data pembayaran dan bisa mengirim paket pada akhir pekan sebagai keunggulan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "4d39d77fbe92",
-    "slug": "코스피-8000피-코앞서-후퇴-장중-7999-찍은뒤-229-하락-431385",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T16:58:25.336Z",
-    "updatedAt": "2026-05-12T16:58:25.336Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908740/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908740/2",
-    "titleFingerprint": "b28dd52e9c17a111cf730fd88db459dea200cbad",
-    "dedupKeys": [
-      "4d39d77fbe92c93339f64c912f0500b653903f56",
-      "b28dd52e9c17a111cf730fd88db459dea200cbad",
-      "65e0474b4c8dd8d26974bfaaccc1ca11491aaecd"
-    ],
-    "imageUrl": "/images/articles/4d39d77fbe92.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000선 눈앞서 급락, 장중 7999 찍고 2.29% 하락 마감",
-        "excerpt": "코스피가 12일 장중 7,999.67까지 올라 8,000 돌파를 눈앞에 뒀지만 AI 국민 배당금 논란과 미국 소비자물가 경계감, 외국인 순매도 확대로 2.29% 하락 마감했다.",
-        "body": "코스피가 12일 8,000선 돌파를 코앞에 두고 급락하며 전 거래일보다 2.29% 내린 7,643.15로 마감했다. 6거래일 만의 하락이다. 미국 뉴욕증시에서 반도체주가 상승한 영향으로 오름세로 출발한 코스피는 장 초반 7,999.67까지 올라 8,000 돌파 직전까지 갔다. 그러나 김용범 대통령정책실장의 인공지능(AI) 인프라 시대 관련 발언으로 불거진 AI 국민 배당금 논란, 미국 소비자물가 경계감 등이 겹치며 하락 전환했다. 외국인 순매도 규모가 커지자 오전 한때 낙폭은 5%대로 확대됐고 지수는 7,421.71까지 밀렸다. 이날 변동성은 미국과 이란 전쟁 여파로 코스피가 12% 하락했던 3월 4일 이후 역대 두 번째로 컸다. 앞서 한국 증시는 영국, 캐나다, 대만을 제치고 글로벌 6위에 올랐다는 조사도 발표됐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "KOSPI Retreats Near 8,000, Falls 2.29% After Intraday 7,999",
-        "excerpt": "The KOSPI neared 8,000 on May 12 after touching 7,999.67 intraday, but closed down 2.29% as an AI dividend controversy, U.S. CPI caution and foreign selling weighed on the market.",
-        "body": "The KOSPI fell sharply on May 12 after coming within reach of the 8,000 mark, closing at 7,643.15, down 2.29% from the previous session. It was the index’s first decline in six trading days. Buoyed by gains in semiconductor stocks on the New York market, the KOSPI opened higher and climbed to 7,999.67 early in the session, just short of breaking 8,000. It then turned lower as several factors weighed on sentiment, including controversy over an AI public dividend sparked by remarks from Presidential Policy Chief Kim Yong-beom about the fruits of the AI infrastructure era, along with caution ahead of U.S. consumer price data. As foreign net selling grew, the index at one point widened its morning loss to the 5% range and dropped to 7,421.71. The day marked the second-largest volatility on record since March 4, when the KOSPI fell 12% amid the U.S.-Iran war. A previously released survey also showed Korea’s stock market ranked sixth globally, ahead of the U.K., Canada and Taiwan. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "KOSPI、8000目前で反落　取引中7999到達後に2.29％安",
-        "excerpt": "KOSPIは12日、取引中に7,999.67まで上昇し8,000突破目前となったが、AI国民配当論争や米消費者物価への警戒、外国人売りで2.29％安で終えた。",
-        "body": "KOSPIは12日、8,000台突破を目前に急落し、前取引日比2.29％安の7,643.15で取引を終えた。下落は6営業日ぶり。米ニューヨーク株式市場で半導体株が上昇した流れを受けて上昇して始まり、取引序盤には7,999.67まで上げ、8,000突破直前まで迫った。しかし、金容範大統領政策室長が「人工知能（AI）インフラ時代の果実は特定企業だけが引き出した結果ではない」と述べたことで浮上したAI国民配当金論争、米消費者物価への警戒感などが重なり、下落に転じた。外国人の売り越しが拡大すると、午前中に下げ幅は一時5％台に広がり、指数は7,421.71まで押し下げられた。この日の変動性は、米国とイランの戦争の影響でKOSPIが12％下落した3月4日以降、過去2番目の大きさだった。これに先立つ調査では、韓国株式市場が英国、カナダ、台湾を上回り世界6位に上がったことも発表された。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国KOSPI逼近8000点后回落，盘中7999点转跌2.29%",
-        "excerpt": "韩国KOSPI指数12日盘中升至7,999.67点，距离突破8,000点仅一步之遥，但受AI国民分红争议、美国CPI警戒及外资净卖出扩大影响，收跌2.29%。",
-        "body": "韩国KOSPI指数12日在逼近8,000点关口后急转下跌，收于7,643.15点，较前一交易日下跌2.29%，为6个交易日以来首次收跌。受此前美国纽约股市半导体企业股价上涨影响，KOSPI当天高开，并在盘初升至7,999.67点，距离突破8,000点仅一步之遥。但随后，金容范总统政策室长有关“人工智能（AI）基础设施时代的成果并非只由特定企业创造”的发言引发AI国民分红争议，加上市场对美国消费者价格指数保持警惕，指数转为下跌。随着外国投资者净卖出规模扩大，上午跌幅一度扩大至5%左右，指数最低下探至7,421.71点。当天波动性为3月4日美国与伊朗战争导致KOSPI下跌12%以来的历史第二高。此前公布的一项调查还显示，韩国股市超过英国、加拿大和台湾，升至全球第六位。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "KOSPI retrocede cerca de 8.000 tras tocar 7.999 y cae 2,29%",
-        "excerpt": "El KOSPI rozó los 8.000 puntos el 12 de mayo al llegar a 7.999,67 intradía, pero cerró con una baja del 2,29% por la polémica del dividendo público de IA, la cautela ante el IPC de EE. UU. y ventas extranjeras.",
-        "body": "El KOSPI cayó con fuerza el 12 de mayo tras quedar a las puertas de superar los 8.000 puntos y cerró en 7.643,15, un 2,29% menos que en la sesión anterior. Fue su primera caída en seis jornadas. Impulsado al inicio por el avance de las acciones de semiconductores en la Bolsa de Nueva York, el índice subió en los primeros compases hasta 7.999,67, muy cerca de romper la barrera de 8.000. Sin embargo, giró a la baja por una combinación de factores: la polémica sobre un dividendo público de inteligencia artificial surgida tras declaraciones del jefe de Política Presidencial, Kim Yong-beom, sobre los frutos de la era de la infraestructura de IA, y la cautela ante los precios al consumidor en Estados Unidos. A medida que aumentaron las ventas netas de inversores extranjeros, la caída llegó por la mañana al rango del 5% y el índice bajó hasta 7.421,71. La volatilidad fue la segunda mayor registrada desde el 4 de marzo, cuando el KOSPI cayó 12% por la guerra entre Estados Unidos e Irán. Una encuesta previa también indicó que el mercado bursátil coreano subió al sexto lugar global, por delante del Reino Unido, Canadá y Taiwán. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "KOSPI recua perto dos 8.000 após tocar 7.999 e fecha em queda de 2,29%",
-        "excerpt": "O KOSPI chegou a 7.999,67 pontos em 12 de maio e ficou perto de romper 8.000, mas fechou em baixa de 2,29% com polêmica sobre dividendo público de IA, cautela com inflação dos EUA e venda estrangeira.",
-        "body": "O KOSPI caiu fortemente em 12 de maio depois de ficar perto de superar os 8.000 pontos, encerrando a 7.643,15, baixa de 2,29% ante o pregão anterior. Foi a primeira queda em seis sessões. Com o impulso da alta das ações de semicondutores na Bolsa de Nova York, o índice abriu em avanço e subiu no início do dia a 7.999,67, praticamente no limite dos 8.000. Depois, porém, virou para queda diante de fatores combinados: a polêmica sobre um dividendo público de inteligência artificial, gerada por comentários do chefe de Política Presidencial, Kim Yong-beom, sobre os frutos da era da infraestrutura de IA, e a cautela com os preços ao consumidor dos Estados Unidos. Com o aumento da venda líquida por estrangeiros, a baixa chegou pela manhã à faixa de 5% e o índice recuou até 7.421,71. A volatilidade do dia foi a segunda maior da história desde 4 de março, quando o KOSPI caiu 12% em meio à guerra entre Estados Unidos e Irã. Uma pesquisa divulgada anteriormente também mostrou que o mercado acionário coreano passou Reino Unido, Canadá e Taiwan e subiu ao sexto lugar global. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "KOSPI fällt kurz vor 8.000 Punkten, nach 7.999 intraday minus 2,29%",
-        "excerpt": "Der KOSPI stieg am 12. Mai intraday bis auf 7.999,67 Punkte und stand kurz vor 8.000, schloss aber wegen der Debatte um eine KI-Volksdividende, Vorsicht vor US-Verbraucherpreisen und ausländischen Verkäufen 2,29% tiefer.",
-        "body": "Der KOSPI ist am 12. Mai kurz vor dem Durchbruch der Marke von 8.000 Punkten deutlich gefallen und schloss bei 7.643,15 Punkten, 2,29% unter dem Vortag. Es war der erste Rückgang nach sechs Handelstagen. Gestützt durch Kursgewinne von Halbleiterwerten an der New Yorker Börse startete der Index höher und kletterte früh auf 7.999,67 Punkte, unmittelbar vor die 8.000er-Marke. Anschließend drehte er jedoch ins Minus. Belastend wirkten mehrere Faktoren, darunter die Kontroverse um eine KI-Volksdividende nach Äußerungen von Kim Yong-beom, dem Leiter des präsidialen Politikbüros, zu den Früchten des Zeitalters der KI-Infrastruktur, sowie Vorsicht vor den US-Verbraucherpreisen. Als die Nettoverkäufe ausländischer Investoren zunahmen, weitete sich das Minus am Vormittag zeitweise auf den Bereich von 5% aus, der Index fiel bis auf 7.421,71 Punkte. Die Volatilität war die zweitgrößte seit dem 4. März, als der KOSPI infolge des Krieges zwischen den USA und Iran um 12% gefallen war. Zuvor hatte eine Umfrage gezeigt, dass der koreanische Aktienmarkt Großbritannien, Kanada und Taiwan überholt und weltweit Rang sechs erreicht hat. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le KOSPI recule près des 8 000 points après 7 999 en séance, -2,29%",
-        "excerpt": "Le KOSPI a atteint 7 999,67 points en séance le 12 mai, tout près du seuil de 8 000, mais a clôturé en baisse de 2,29% sous l’effet de la controverse sur un dividende public lié à l’IA, de la prudence avant l’IPC américain et des ventes étrangères.",
-        "body": "Le KOSPI a fortement reculé le 12 mai après avoir frôlé le seuil des 8 000 points, clôturant à 7 643,15 points, en baisse de 2,29% par rapport à la séance précédente. Il s’agit de sa première baisse en six séances. Soutenu au départ par la hausse des valeurs de semi-conducteurs à New York, l’indice a ouvert en progression et atteint 7 999,67 points en début de séance, tout près de franchir 8 000. Il a ensuite basculé dans le rouge. Plusieurs facteurs ont pesé, dont la controverse sur un dividende public lié à l’intelligence artificielle, née de propos de Kim Yong-beom, chef de la politique présidentielle, sur les fruits de l’ère des infrastructures d’IA, ainsi que la prudence face aux prix à la consommation aux États-Unis. Avec l’amplification des ventes nettes des investisseurs étrangers, la baisse a atteint un temps la zone des 5% dans la matinée et l’indice est descendu à 7 421,71 points. La volatilité du jour a été la deuxième plus forte jamais observée depuis le 4 mars, lorsque le KOSPI avait chuté de 12% dans le contexte de la guerre entre les États-Unis et l’Iran. Une enquête publiée auparavant indiquait aussi que le marché coréen avait dépassé le Royaume-Uni, le Canada et Taïwan pour se hisser au sixième rang mondial. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كوسبي يتراجع قرب 8000 نقطة بعد بلوغ 7999 خلال الجلسة ويهبط 2.29%",
-        "excerpt": "اقترب مؤشر كوسبي في 12 مايو من اختراق 8000 نقطة بعدما بلغ 7,999.67 خلال الجلسة، لكنه أغلق منخفضا 2.29% بفعل جدل عائد الذكاء الاصطناعي العام، والحذر من أسعار المستهلكين في الولايات المتحدة، واتساع بيع الأجانب.",
-        "body": "تراجع مؤشر كوسبي بقوة في 12 مايو بعدما كان على وشك اختراق مستوى 8000 نقطة، وأغلق عند 7,643.15 نقطة بانخفاض 2.29% عن الجلسة السابقة. وكان ذلك أول هبوط له بعد ست جلسات تداول. وبدأ المؤشر مرتفعا بدعم من صعود أسهم شركات أشباه الموصلات في بورصة نيويورك، وصعد في بداية الجلسة إلى 7,999.67 نقطة، مقتربا جدا من مستوى 8000. لكنه تحول لاحقا إلى الهبوط مع تداخل عدة عوامل، منها الجدل حول عائد عام للذكاء الاصطناعي بعد تصريحات كيم يونغ بوم، رئيس مكتب السياسات الرئاسية، بشأن ثمار عصر البنية التحتية للذكاء الاصطناعي، إضافة إلى الحذر من بيانات أسعار المستهلكين الأميركية. ومع اتساع صافي بيع المستثمرين الأجانب، زادت الخسائر صباحا إلى نطاق 5% وهبط المؤشر إلى 7,421.71 نقطة. وكانت تقلبات اليوم ثاني أكبر تقلبات مسجلة منذ 4 مارس، عندما هبط كوسبي 12% بسبب الحرب بين الولايات المتحدة وإيران. كما أظهر مسح صدر سابقا أن سوق الأسهم الكورية صعدت إلى المركز السادس عالميا متجاوزة بريطانيا وكندا وتايوان. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "KOSPI 8,000 के करीब से फिसला, 7,999 छूने के बाद 2.29% गिरकर बंद",
-        "excerpt": "KOSPI 12 मई को कारोबार के दौरान 7,999.67 तक पहुंचकर 8,000 के करीब आ गया, लेकिन AI सार्वजनिक लाभांश विवाद, अमेरिकी उपभोक्ता मूल्य को लेकर सतर्कता और विदेशी बिकवाली बढ़ने से 2.29% गिरकर बंद हुआ।",
-        "body": "KOSPI 12 मई को 8,000 अंक के स्तर को छूने से ठीक पहले तेज गिरावट में चला गया और पिछले सत्र से 2.29% नीचे 7,643.15 पर बंद हुआ। यह छह कारोबारी सत्रों में पहली गिरावट थी। न्यूयॉर्क शेयर बाजार में सेमीकंडक्टर कंपनियों के शेयरों में तेजी के असर से सूचकांक बढ़त के साथ खुला और शुरुआती कारोबार में 7,999.67 तक पहुंच गया, यानी 8,000 के बिल्कुल करीब। लेकिन बाद में यह गिरावट में बदल गया। राष्ट्रपति नीति कार्यालय के प्रमुख किम योंग-बोम की इस टिप्पणी कि कृत्रिम बुद्धिमत्ता (AI) अवसंरचना युग के फल केवल किसी खास कंपनी के परिणाम नहीं हैं, से उठे AI सार्वजनिक लाभांश विवाद और अमेरिकी उपभोक्ता मूल्य को लेकर सतर्कता ने दबाव बनाया। विदेशी निवेशकों की शुद्ध बिकवाली बढ़ने पर सुबह गिरावट एक समय 5% के दायरे तक फैल गई और सूचकांक 7,421.71 तक नीचे गया। इस दिन की अस्थिरता 4 मार्च के बाद रिकॉर्ड में दूसरी सबसे बड़ी रही, जब अमेरिका और ईरान युद्ध के प्रभाव से KOSPI 12% गिरा था। इससे पहले जारी एक सर्वेक्षण में यह भी बताया गया कि कोरियाई शेयर बाजार ब्रिटेन, कनाडा और ताइवान को पीछे छोड़कर वैश्विक स्तर पर छठे स्थान पर पहुंच गया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "KOSPI Mundur Dekat 8.000, Sempat 7.999 Lalu Ditutup Turun 2,29%",
-        "excerpt": "KOSPI pada 12 Mei sempat naik ke 7.999,67 dan mendekati 8.000, tetapi ditutup turun 2,29% karena kontroversi dividen publik AI, kewaspadaan terhadap harga konsumen AS, dan membesarnya jual bersih asing.",
-        "body": "KOSPI turun tajam pada 12 Mei setelah nyaris menembus level 8.000, ditutup di 7.643,15 atau melemah 2,29% dari sesi sebelumnya. Ini menjadi penurunan pertama dalam enam hari perdagangan. Dipicu kenaikan saham perusahaan semikonduktor di Bursa New York, KOSPI dibuka menguat dan pada awal sesi naik hingga 7.999,67, tepat di depan ambang 8.000. Namun indeks kemudian berbalik melemah. Sejumlah faktor menekan pasar, termasuk kontroversi dividen publik AI yang muncul setelah Kepala Kebijakan Presiden Kim Yong-beom menyatakan bahwa buah dari era infrastruktur kecerdasan buatan (AI) bukanlah hasil yang ditarik hanya oleh perusahaan tertentu, serta kewaspadaan terhadap harga konsumen Amerika Serikat. Ketika jual bersih investor asing membesar, penurunan pada pagi hari sempat melebar ke kisaran 5% dan indeks turun sampai 7.421,71. Volatilitas hari itu menjadi yang terbesar kedua dalam sejarah sejak 4 Maret, ketika KOSPI jatuh 12% akibat perang Amerika Serikat dan Iran. Sebelumnya, sebuah survei juga menunjukkan pasar saham Korea naik ke peringkat keenam dunia, melampaui Inggris, Kanada, dan Taiwan. Sumber: rss.donga.com"
       }
     }
   }
