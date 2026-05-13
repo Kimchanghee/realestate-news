@@ -1,5 +1,230 @@
 [
   {
+    "id": "6882e5fa205e",
+    "slug": "세계인-울린-신라면-40년간-매출-20조-2030년-글로벌-1위-996870",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T18:33:30.939Z",
+    "updatedAt": "2026-05-13T18:33:30.939Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917412/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917412/2",
+    "titleFingerprint": "2e82716ad9d0b4aa18e3b09eee9f26a9375a0073",
+    "dedupKeys": [
+      "6882e5fa205ec0f03051500abfa0a7186658dcc2",
+      "2e82716ad9d0b4aa18e3b09eee9f26a9375a0073",
+      "4ce42994adbc50b6de4fb7ff285c1b59deb9ec29"
+    ],
+    "imageUrl": "/images/articles/6882e5fa205e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신라면 누적 매출 20조 돌파, 농심 ‘2030년 글로벌 1위’ 목표 제시",
+        "excerpt": "농심은 13일 서울 롯데호텔 기자간담회에서 신라면이 출시 40년 만에 누적 매출 20조 원과 판매량 425억 개를 넘겼다고 밝히고 글로벌 공략 확대 계획을 제시했다.",
+        "body": "농심은 13일 서울 중구 롯데호텔 서울에서 기자간담회를 열고 1986년 탄생한 신라면이 국내 라면업계 최초로 단일 제품 기준 누적 매출 20조 원, 누적 판매량 425억 개를 돌파했다고 밝혔다. 조용철 농심 대표이사는 신라면의 매운맛이 한국을 넘어 세계로 확산하며 지난해 말 누적 매출 20조 원을 달성했다고 설명했다. 누적 판매량 425억 개는 봉지당 면발 길이 40m 기준으로 지구와 태양을 약 6번 왕복할 수 있는 거리이며, 시간당 약 12만 개, 초당 약 34개가 팔린 셈이다. 누적 매출의 약 40%는 해외에서 나왔다. 농심은 신제품 ‘신라면 로제’를 라인업에 추가하고 해외 생산·판매 네트워크를 확대해 2030년 글로벌 라면 시장 1위를 목표로 한다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Shin Ramyun Sales Top 20 Trillion Won as Nongshim Targets Global No. 1 by 2030",
+        "excerpt": "Nongshim said at a Seoul press conference on May 13 that Shin Ramyun has surpassed 20 trillion won in cumulative sales and 42.5 billion packs sold since its 1986 launch.",
+        "body": "Nongshim held a press conference on May 13 at Lotte Hotel Seoul in Jung-gu, Seoul, and said Shin Ramyun, launched in 1986, has become the first product in Korea’s ramyun industry to exceed 20 trillion won in cumulative sales and 42.5 billion units sold. CEO Cho Yong-chul said Shin Ramyun’s spicy flavor has expanded beyond Korea to the world, reaching the 20 trillion won milestone by the end of last year. The 42.5 billion units sold equal a noodle length that could travel between Earth and the sun about six round trips, based on 40 meters per pack. That averages about 120,000 packs per hour and 34 per second. About 40% of cumulative sales came from overseas. Nongshim is adding the new Shin Ramyun Rose to the lineup and expanding its global network as it aims to become No. 1 in the global ramyun market by 2030. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "辛ラーメン累計売上20兆ウォン突破、農心が2030年世界1位目標",
+        "excerpt": "農心は13日、ソウルの記者懇談会で、1986年発売の辛ラーメンが累計売上20兆ウォン、販売425億個を超えたと発表し、海外攻略を強化すると明らかにした。",
+        "body": "農心は13日、ソウル中区のロッテホテルソウルで記者懇談会を開き、1986年に誕生した辛ラーメンが韓国ラーメン業界で初めて単一商品基準の累計売上20兆ウォン、累計販売425億個を突破したと発表した。趙容喆代表取締役は、辛ラーメンの辛さが韓国を越えて世界へ広がり、昨年末に累計売上20兆ウォンを達成したと説明した。累計販売425億個は、1袋当たり麺の長さ40メートルで計算すると、地球と太陽を約6往復できる距離に相当する。時間当たり約12万個、秒当たり約34個が売れた計算だ。累計売上の約40%は海外で生じた。農心は新商品「辛ラーメン ロゼ」をラインアップに加え、海外生産・販売ネットワークを拡大し、2030年に世界ラーメン市場1位を目指す。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "辛拉面累计销售额突破20万亿韩元，农心提出2030年全球第一目标",
+        "excerpt": "农心13日在首尔举行记者会称，1986年问世的辛拉面累计销售额突破20万亿韩元、销量达425亿包，并将加快拓展海外市场。",
+        "body": "农心13日在首尔中区乐天酒店首尔举行记者会表示，1986年诞生的辛拉面成为韩国方便面行业首个单一产品累计销售额突破20万亿韩元、累计销量超过425亿包的品牌。农心代表理事赵容哲表示，辛拉面的辣味从韩国走向世界，并在去年年底实现单一产品累计销售额20万亿韩元。累计销量425亿包若按每包面条长度40米计算，相当于可在地球与太阳之间往返约6次；按时间计算，约为每小时售出12万包、每秒售出34包。累计销售额约40%来自海外。农心计划把新品“辛拉面Rose”加入产品线，并扩大海外生产和销售网络，目标是在2030年成为全球方便面市场第一。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Shin Ramyun supera 20 billones de wones y Nongshim apunta al número 1 global en 2030",
+        "excerpt": "Nongshim informó el 13 de mayo en Seúl que Shin Ramyun, lanzado en 1986, superó 20 billones de wones en ventas acumuladas y 42.500 millones de unidades vendidas.",
+        "body": "Nongshim celebró el 13 de mayo una rueda de prensa en el Lotte Hotel Seoul, en Jung-gu, Seúl, y anunció que Shin Ramyun, nacido en 1986, se convirtió en el primer producto del sector coreano de ramyun en superar 20 billones de wones en ventas acumuladas y 42.500 millones de unidades vendidas. El consejero delegado Cho Yong-chul explicó que el sabor picante de Shin Ramyun se ha expandido de Corea al mundo y alcanzó esa cifra de ventas a finales del año pasado. Las 42.500 millones de unidades equivalen, con 40 metros de fideos por paquete, a una distancia suficiente para ir y volver entre la Tierra y el Sol unas seis veces. Se vendieron cerca de 120.000 paquetes por hora y 34 por segundo. Alrededor del 40% de las ventas acumuladas procedió del extranjero. Nongshim añadirá el nuevo Shin Ramyun Rose y ampliará su red global para aspirar al número 1 mundial en ramyun en 2030. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Shin Ramyun passa de 20 trilhões de won e Nongshim mira liderança global em 2030",
+        "excerpt": "A Nongshim disse em 13 de maio, em Seul, que o Shin Ramyun, lançado em 1986, superou 20 trilhões de won em vendas acumuladas e 42,5 bilhões de unidades vendidas.",
+        "body": "A Nongshim realizou em 13 de maio uma entrevista coletiva no Lotte Hotel Seoul, em Jung-gu, Seul, e informou que o Shin Ramyun, criado em 1986, tornou-se o primeiro produto do setor coreano de ramyun a ultrapassar 20 trilhões de won em vendas acumuladas e 42,5 bilhões de unidades vendidas. O CEO Cho Yong-chul afirmou que o sabor picante do Shin Ramyun se expandiu da Coreia para o mundo e atingiu 20 trilhões de won em vendas acumuladas no fim do ano passado. As 42,5 bilhões de unidades equivalem, considerando 40 metros de macarrão por pacote, a uma distância capaz de ir e voltar entre a Terra e o Sol cerca de seis vezes. Isso representa cerca de 120 mil pacotes por hora e 34 por segundo. Aproximadamente 40% das vendas acumuladas vieram do exterior. A Nongshim adicionará o novo Shin Ramyun Rose e ampliará sua rede global para mirar o primeiro lugar mundial em ramyun em 2030. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Shin Ramyun knackt 20 Billionen Won Umsatz, Nongshim peilt Weltspitze 2030 an",
+        "excerpt": "Nongshim erklärte am 13. Mai in Seoul, Shin Ramyun habe seit dem Start 1986 kumulierte Verkäufe von 20 Billionen Won und 42,5 Milliarden Packungen erreicht.",
+        "body": "Nongshim hielt am 13. Mai im Lotte Hotel Seoul in Jung-gu, Seoul, eine Pressekonferenz ab und teilte mit, dass Shin Ramyun, 1986 eingeführt, als erstes Produkt der koreanischen Ramyun-Branche kumulierte Verkäufe von 20 Billionen Won und 42,5 Milliarden verkaufte Einheiten überschritten hat. CEO Cho Yong-chul sagte, der scharfe Geschmack von Shin Ramyun habe sich über Korea hinaus weltweit verbreitet und Ende vergangenen Jahres die Marke von 20 Billionen Won erreicht. Die 42,5 Milliarden Einheiten entsprechen bei 40 Metern Nudellänge pro Packung einer Strecke, mit der man etwa sechsmal zwischen Erde und Sonne hin- und zurückreisen könnte. Das entspricht rund 120.000 Packungen pro Stunde und 34 pro Sekunde. Rund 40% des kumulierten Umsatzes stammen aus dem Ausland. Nongshim nimmt das neue Shin Ramyun Rose ins Sortiment auf und baut sein globales Netzwerk aus, um bis 2030 die Nummer 1 im weltweiten Ramyun-Markt zu werden. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Shin Ramyun dépasse 20 billions de wons, Nongshim vise le rang mondial numéro 1 en 2030",
+        "excerpt": "Nongshim a annoncé le 13 mai à Séoul que Shin Ramyun, lancé en 1986, a dépassé 20 billions de wons de ventes cumulées et 42,5 milliards d’unités vendues.",
+        "body": "Nongshim a tenu le 13 mai une conférence de presse au Lotte Hotel Seoul, à Jung-gu, Séoul, et a annoncé que Shin Ramyun, né en 1986, est devenu le premier produit de l’industrie coréenne du ramyun à dépasser 20 billions de wons de ventes cumulées et 42,5 milliards d’unités vendues. Le directeur général Cho Yong-chul a expliqué que le goût épicé de Shin Ramyun s’est étendu de la Corée au monde et a atteint 20 billions de wons de ventes cumulées à la fin de l’an dernier. Les 42,5 milliards d’unités représentent, avec 40 mètres de nouilles par sachet, une distance permettant d’effectuer environ six allers-retours entre la Terre et le Soleil. Cela équivaut à environ 120.000 sachets vendus par heure et 34 par seconde. Environ 40% des ventes cumulées proviennent de l’étranger. Nongshim ajoute le nouveau Shin Ramyun Rose à sa gamme et élargit son réseau mondial pour viser la première place du marché mondial du ramyun en 2030. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "شين راميون تتجاوز مبيعاتها 20 تريليون وون ونونغشيم تستهدف الصدارة العالمية في 2030",
+        "excerpt": "أعلنت نونغشيم في 13 مايو في سيول أن شين راميون، التي أطلقت عام 1986، تجاوزت مبيعاتها التراكمية 20 تريليون وون وبلغت مبيعاتها 42.5 مليار عبوة.",
+        "body": "عقدت نونغشيم مؤتمرا صحفيا في 13 مايو في فندق لوتيه سيول بمنطقة جونغ غو في سيول، وأعلنت أن شين راميون، التي ظهرت عام 1986، أصبحت أول منتج في قطاع الراميون الكوري يتجاوز 20 تريليون وون في المبيعات التراكمية و42.5 مليار وحدة مباعة. وقال الرئيس التنفيذي تشو يونغ تشول إن الطعم الحار لشين راميون امتد من كوريا إلى العالم، وحقق في نهاية العام الماضي مبيعات تراكمية بلغت 20 تريليون وون. وتعادل الكمية المباعة، عند احتساب 40 مترا من النودلز لكل عبوة، مسافة تكفي للذهاب والعودة بين الأرض والشمس نحو ست مرات. ويعني ذلك بيع نحو 120 ألف عبوة في الساعة و34 عبوة في الثانية. وجاء نحو 40% من المبيعات التراكمية من الخارج. وتضيف نونغشيم المنتج الجديد شين راميون روزيه إلى تشكيلتها، وتوسع شبكة الإنتاج والبيع الخارجية بهدف تصدر سوق الراميون العالمي في 2030. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "शिन राम्युन की बिक्री 20 ट्रिलियन वॉन पार, नोंगशिम का 2030 तक वैश्विक नंबर 1 लक्ष्य",
+        "excerpt": "नोंगशिम ने 13 मई को सियोल में बताया कि 1986 में लॉन्च शिन राम्युन की संचयी बिक्री 20 ट्रिलियन वॉन और कुल बिक्री 42.5 अरब पैक से अधिक हो गई है।",
+        "body": "नोंगशिम ने 13 मई को सियोल के जंग-गु स्थित लोट्टे होटल सियोल में प्रेस कॉन्फ्रेंस कर कहा कि 1986 में जन्मी शिन राम्युन कोरियाई राम्युन उद्योग का पहला ऐसा एकल उत्पाद बन गई है जिसकी संचयी बिक्री 20 ट्रिलियन वॉन और कुल बिक्री 42.5 अरब यूनिट से अधिक हुई है। सीईओ चो योंग-चोल ने कहा कि शिन राम्युन का तीखा स्वाद कोरिया से आगे दुनिया तक फैला और पिछले वर्ष के अंत में 20 ट्रिलियन वॉन की संचयी बिक्री तक पहुंचा। 42.5 अरब पैक की बिक्री को प्रति पैक 40 मीटर नूडल लंबाई से देखें तो यह पृथ्वी और सूर्य के बीच लगभग छह बार आने-जाने जितनी दूरी है। औसतन प्रति घंटे करीब 1,20,000 पैक और प्रति सेकंड 34 पैक बिके। संचयी बिक्री का करीब 40% विदेशों से आया। नोंगशिम नए शिन राम्युन रोजे को लाइनअप में जोड़कर विदेशी उत्पादन और बिक्री नेटवर्क बढ़ाएगी और 2030 तक वैश्विक राम्युन बाजार में नंबर 1 बनने का लक्ष्य रखती है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Shin Ramyun Tembus Penjualan 20 Triliun Won, Nongshim Bidik Nomor 1 Global 2030",
+        "excerpt": "Nongshim menyatakan pada 13 Mei di Seoul bahwa Shin Ramyun, yang lahir pada 1986, telah melampaui penjualan kumulatif 20 triliun won dan 42,5 miliar bungkus.",
+        "body": "Nongshim menggelar konferensi pers pada 13 Mei di Lotte Hotel Seoul, Jung-gu, Seoul, dan menyatakan bahwa Shin Ramyun, yang diluncurkan pada 1986, menjadi produk pertama di industri ramyun Korea yang melampaui penjualan kumulatif 20 triliun won dan total penjualan 42,5 miliar unit. CEO Cho Yong-chul mengatakan rasa pedas Shin Ramyun telah menyebar dari Korea ke dunia dan mencapai penjualan kumulatif 20 triliun won pada akhir tahun lalu. Total 42,5 miliar unit itu, jika dihitung dengan panjang mi 40 meter per bungkus, setara jarak untuk pulang-pergi antara Bumi dan Matahari sekitar enam kali. Rata-ratanya sekitar 120.000 bungkus per jam dan 34 bungkus per detik. Sekitar 40% penjualan kumulatif berasal dari luar negeri. Nongshim akan menambahkan produk baru Shin Ramyun Rose ke lini produk dan memperluas jaringan produksi serta penjualan luar negeri untuk menargetkan posisi nomor 1 di pasar ramyun global pada 2030. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "e7804737d81c",
+    "slug": "명품업계-프리미엄-이미지-강화-전시회-열고-예술인-후원-경쟁-848532",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T18:32:14.845Z",
+    "updatedAt": "2026-05-13T18:32:14.845Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917415/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917415/2",
+    "titleFingerprint": "b97ea30f0a9e41a652b8b6f7a254bd97fe466837",
+    "dedupKeys": [
+      "e7804737d81ce36dd44155fbcca9a1571b61168a",
+      "b97ea30f0a9e41a652b8b6f7a254bd97fe466837",
+      "903d18225bec2506c9dbfe9b70c46aaef14ac928"
+    ],
+    "imageUrl": "/images/articles/e7804737d81c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "럭셔리 브랜드 예술 후원 확대, 보테가 베네타 한국 전시로 프리미엄 이미지 강화",
+        "excerpt": "럭셔리 브랜드들이 한국 시장에서 전시와 공예 등 예술 후원을 확대하며 순수 예술을 통한 아티피케이션 전략으로 프리미엄 이미지를 강화하고 소비자 충성도를 높이고 있다.",
+        "body": "럭셔리 브랜드들이 한국 시장에서 전시, 공예 등 예술 후원을 확대하며 프리미엄 이미지 강화에 나서고 있다. 이탈리아 럭셔리 브랜드 보테가 베네타는 5일 서울 용산구 한남동 리움미술관에서 개막한 대규모 그룹전 ‘다른 공간 안으로’를 후원 중이라고 13일 밝혔다. 관람객들은 여성 작가들의 환경 설치 작업이 구현한 빛, 공간, 소리, 움직임을 체험하며 작품에 몰입할 수 있다. 보테가 베네타는 브랜드를 직접 노출하기보다 건축, 디자인, 무용, 음악, 시각예술 등 다양한 예술 분야를 후원하는 방식을 택하고 있다. 이는 제품의 핵심인 수공예와 창의성을 예술 프로젝트로 확장하는 전략으로, 전문가들은 순수 예술 후원을 통한 ‘아티피케이션’의 일환으로 본다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Luxury Brands Expand Arts Patronage as Bottega Veneta Backs Seoul Exhibition",
+        "excerpt": "Luxury brands are expanding support for exhibitions, crafts and fine arts in Korea, using artification to strengthen premium images and deepen consumer loyalty.",
+        "body": "Luxury brands are expanding support for exhibitions, crafts and other arts in the Korean market to strengthen their premium image. Italian luxury brand Bottega Veneta said on the 13th that it is sponsoring the large-scale group exhibition “Into Other Spaces,” which opened on the 5th at Leeum Museum of Art in Hannam-dong, Yongsan-gu, Seoul. Visitors can immerse themselves in light, space, sound and movement created through environmental installations by women artists. Rather than directly exposing its brand, Bottega Veneta supports architecture, design, dance, music and visual arts. The strategy extends the handcraft and creativity central to its products into art projects, which experts view as part of artification through fine-arts patronage. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "高級ブランドが芸術支援拡大、ボッテガ・ヴェネタがソウル展覧会を後援",
+        "excerpt": "高級ブランドは韓国市場で展覧会や工芸など芸術支援を広げ、純粋芸術を通じたアーティフィケーションで高級イメージと消費者忠誠度を高めている。",
+        "body": "高級ブランドが韓国市場で展覧会、工芸など芸術支援を拡大し、プレミアムイメージの強化に乗り出している。イタリアの高級ブランド、ボッテガ・ヴェネタは13日、ソウル市龍山区漢南洞のリウム美術館で5日に開幕した大規模グループ展「Into Other Spaces」を後援していると明らかにした。来場者は女性作家による環境インスタレーションが表現する光、空間、音、動きを体験し、作品に没入できる。ボッテガ・ヴェネタはブランドを直接前面に出すのではなく、建築、デザイン、舞踊、音楽、視覚芸術など幅広い芸術分野を支援している。製品の核である手工芸と創造性を芸術プロジェクトへ広げる戦略で、専門家は純粋芸術支援によるアーティフィケーションの一環と見ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "奢侈品牌扩大艺术赞助，Bottega Veneta支持首尔展提升高端形象",
+        "excerpt": "奢侈品牌正在韩国市场扩大展览、工艺等艺术赞助，通过纯艺术支持推动品牌艺术化，强化高端形象并提升消费者忠诚度。",
+        "body": "奢侈品牌正在韩国市场扩大对展览、工艺等艺术领域的赞助，以强化高端形象。意大利奢侈品牌Bottega Veneta于13日表示，正在赞助5日在首尔龙山区汉南洞Leeum美术馆开幕的大型群展《Into Other Spaces》。观众可以通过女性艺术家的环境装置作品，体验光、空间、声音和运动，并沉浸于作品之中。Bottega Veneta并不直接突出品牌，而是支持建筑、设计、舞蹈、音乐、视觉艺术等多个艺术领域。该策略把产品核心中的手工艺和创造力扩展到艺术项目中，专家认为这是通过纯艺术赞助推进品牌“艺术化”的一环。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Marcas de lujo amplían apoyo al arte y Bottega Veneta impulsa exposición en Seúl",
+        "excerpt": "Las marcas de lujo amplían en Corea su apoyo a exposiciones, artesanía y bellas artes para reforzar su imagen premium mediante artificación y elevar la lealtad del consumidor.",
+        "body": "Las marcas de lujo están ampliando en el mercado coreano su apoyo a exposiciones, artesanía y otras áreas artísticas para reforzar su imagen premium. La firma italiana Bottega Veneta informó el día 13 que patrocina la gran exposición colectiva “Into Other Spaces”, inaugurada el día 5 en el Leeum Museum of Art, en Hannam-dong, Yongsan-gu, Seúl. Los visitantes pueden sumergirse en obras de instalación ambiental de artistas mujeres que expresan luz, espacio, sonido y movimiento. Bottega Veneta opta por apoyar arquitectura, diseño, danza, música y artes visuales sin exponer directamente la marca. La estrategia extiende la artesanía manual y la creatividad, claves de sus productos, hacia proyectos artísticos; expertos la consideran parte de la artificación mediante apoyo a las bellas artes. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Marcas de luxo ampliam apoio às artes, e Bottega Veneta patrocina exposição em Seul",
+        "excerpt": "Marcas de luxo ampliam na Coreia o apoio a exposições, artesanato e artes plásticas para reforçar a imagem premium por meio da artificação e elevar a fidelidade do consumidor.",
+        "body": "Marcas de luxo estão ampliando no mercado coreano o apoio a exposições, artesanato e outras áreas artísticas para fortalecer sua imagem premium. A italiana Bottega Veneta informou no dia 13 que patrocina a grande mostra coletiva “Into Other Spaces”, aberta no dia 5 no Leeum Museum of Art, em Hannam-dong, Yongsan-gu, Seul. Os visitantes podem imergir em instalações ambientais de artistas mulheres que materializam luz, espaço, som e movimento. A Bottega Veneta adota uma forma de apoio que não expõe diretamente a marca, patrocinando arquitetura, design, dança, música e artes visuais. A estratégia amplia para projetos artísticos o artesanato manual e a criatividade centrais em seus produtos; especialistas a veem como parte da artificação por meio do apoio às belas-artes. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Luxusmarken bauen Kunstförderung aus, Bottega Veneta unterstützt Ausstellung in Seoul",
+        "excerpt": "Luxusmarken erweitern in Korea ihre Förderung von Ausstellungen, Handwerk und bildender Kunst, um über Artification ihr Premiumimage und die Kundentreue zu stärken.",
+        "body": "Luxusmarken bauen im koreanischen Markt die Förderung von Ausstellungen, Kunsthandwerk und weiteren Kunstbereichen aus, um ihr Premiumimage zu stärken. Die italienische Luxusmarke Bottega Veneta teilte am 13. mit, dass sie die große Gruppenausstellung “Into Other Spaces” unterstützt, die am 5. im Leeum Museum of Art in Hannam-dong, Yongsan-gu, Seoul, eröffnet wurde. Besucher können in Licht, Raum, Klang und Bewegung eintauchen, die durch Umweltinstallationen von Künstlerinnen umgesetzt werden. Bottega Veneta setzt darauf, die Marke nicht direkt zu zeigen, sondern Architektur, Design, Tanz, Musik und visuelle Kunst zu fördern. Damit werden Handwerk und Kreativität, Kernelemente der Produkte, auf Kunstprojekte ausgeweitet; Experten sehen darin einen Teil der Artification durch Förderung reiner Kunst. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les marques de luxe renforcent le mécénat artistique, Bottega Veneta soutient une exposition à Séoul",
+        "excerpt": "Les marques de luxe élargissent en Corée leur soutien aux expositions, à l’artisanat et aux beaux-arts afin de renforcer leur image premium par l’artification et la fidélité client.",
+        "body": "Les marques de luxe élargissent sur le marché coréen leur soutien aux expositions, à l’artisanat et à d’autres domaines artistiques afin de renforcer leur image premium. La marque italienne Bottega Veneta a indiqué le 13 qu’elle parraine la grande exposition collective “Into Other Spaces”, ouverte le 5 au Leeum Museum of Art, à Hannam-dong, Yongsan-gu, Séoul. Les visiteurs peuvent s’immerger dans la lumière, l’espace, le son et le mouvement créés par des installations environnementales d’artistes femmes. Bottega Veneta choisit de ne pas exposer directement sa marque, mais de soutenir l’architecture, le design, la danse, la musique et les arts visuels. Cette stratégie étend l’artisanat manuel et la créativité, au cœur de ses produits, à des projets artistiques; les experts y voient une forme d’artification par le soutien aux beaux-arts. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "علامات الرفاهية توسع رعاية الفنون وبوتيغا فينيتا تدعم معرضا في سيول",
+        "excerpt": "توسع علامات الرفاهية في كوريا دعمها للمعارض والحرف والفنون الجميلة، بهدف تعزيز صورتها الفاخرة عبر تحويل العلامة إلى فن وزيادة ولاء المستهلكين.",
+        "body": "توسع علامات الرفاهية في السوق الكورية دعمها للمعارض والحرف وغيرها من مجالات الفن لتعزيز صورتها الفاخرة. وقالت علامة بوتيغا فينيتا الإيطالية الفاخرة في 13 من الشهر إنها ترعى المعرض الجماعي الكبير “Into Other Spaces”، الذي افتتح في 5 من الشهر في متحف ليوم للفنون في هانام دونغ، يونغسان غو، سيول. ويمكن للزوار الانغماس في الضوء والفضاء والصوت والحركة التي تجسدها أعمال تركيب بيئية لفنانات. وتعتمد بوتيغا فينيتا أسلوب دعم لا يبرز العلامة مباشرة، بل يرعى العمارة والتصميم والرقص والموسيقى والفنون البصرية. وتمدد هذه الاستراتيجية الحرفية اليدوية والإبداع، وهما جوهر منتجاتها، إلى مشاريع فنية؛ ويرى خبراء أنها جزء من “أرتيفيكيشن” عبر دعم الفنون الجميلة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "लक्जरी ब्रांड कला संरक्षण बढ़ा रहे, बोटेगा वेनेटा ने सियोल प्रदर्शनी को समर्थन दिया",
+        "excerpt": "लक्जरी ब्रांड कोरिया में प्रदर्शनियों, शिल्प और ललित कला का समर्थन बढ़ा रहे हैं, ताकि आर्टिफिकेशन के जरिए प्रीमियम छवि और उपभोक्ता निष्ठा मजबूत हो।",
+        "body": "लक्जरी ब्रांड कोरियाई बाजार में प्रदर्शनियों, शिल्प और अन्य कला क्षेत्रों का समर्थन बढ़ाकर अपनी प्रीमियम छवि मजबूत कर रहे हैं। इतालवी लक्जरी ब्रांड बोटेगा वेनेटा ने 13 तारीख को बताया कि वह सियोल के योंगसान-गु, हन्नाम-डोंग स्थित लीउम म्यूजियम ऑफ आर्ट में 5 तारीख को शुरू हुई बड़ी समूह प्रदर्शनी “Into Other Spaces” को प्रायोजित कर रहा है। दर्शक महिला कलाकारों की पर्यावरणीय इंस्टॉलेशन कृतियों में व्यक्त प्रकाश, स्थान, ध्वनि और गति का अनुभव करते हुए उनमें डूब सकते हैं। बोटेगा वेनेटा ब्रांड को सीधे सामने रखने के बजाय वास्तुकला, डिजाइन, नृत्य, संगीत और दृश्य कला जैसे क्षेत्रों को समर्थन देता है। यह रणनीति उत्पादों के मूल तत्व हस्तशिल्प और रचनात्मकता को कला परियोजनाओं तक फैलाती है; विशेषज्ञ इसे ललित कला संरक्षण के जरिए आर्टिफिकेशन का हिस्सा मानते हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Merek Mewah Perluas Dukungan Seni, Bottega Veneta Sponsori Pameran di Seoul",
+        "excerpt": "Merek mewah memperluas dukungan untuk pameran, kerajinan, dan seni murni di Korea guna memperkuat citra premium lewat artification dan loyalitas konsumen.",
+        "body": "Merek-merek mewah memperluas dukungan terhadap pameran, kerajinan, dan bidang seni lain di pasar Korea untuk memperkuat citra premium. Merek mewah Italia Bottega Veneta menyatakan pada tanggal 13 bahwa pihaknya mensponsori pameran kelompok berskala besar “Into Other Spaces”, yang dibuka pada tanggal 5 di Leeum Museum of Art, Hannam-dong, Yongsan-gu, Seoul. Pengunjung dapat tenggelam dalam cahaya, ruang, suara, dan gerak yang diwujudkan lewat instalasi lingkungan karya seniman perempuan. Bottega Veneta memilih mendukung arsitektur, desain, tari, musik, dan seni visual tanpa menonjolkan merek secara langsung. Strategi ini memperluas kerajinan tangan dan kreativitas, inti produknya, ke proyek seni; para ahli melihatnya sebagai bagian dari artification melalui dukungan pada seni murni. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "019a55ec8b2b",
+    "slug": "단신삼성화재-최대-100억-자율주행-전용보험-첫-출시-594960",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T18:31:10.681Z",
+    "updatedAt": "2026-05-13T18:31:10.681Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917397/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917397/2",
+    "titleFingerprint": "8965e651489b244225d799bf24cbd67dfc09fb52",
+    "dedupKeys": [
+      "019a55ec8b2b1a960eb2e5198e3a0dd9d7126135",
+      "8965e651489b244225d799bf24cbd67dfc09fb52",
+      "a6632a48d6ceacd4d371af83b1e4c9872781289d"
+    ],
+    "imageUrl": "/images/articles/019a55ec8b2b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성화재, 자율주행 전용보험 업계 첫 출시…사고당 최대 100억 보장",
+        "excerpt": "삼성화재가 13일 국토교통부 주관 자율주행 국가대표팀 출범식에서 업무협약을 맺고, 사고당 최대 100억 원을 보장하는 자율주행 전용보험을 업계 최초로 출시한다.",
+        "body": "삼성화재는 13일 국토교통부가 주관한 ‘대한민국 자율주행 국가대표팀 출범식’에 참석해 자율주행 실증도시 구축을 위한 다자간 업무협약을 체결했다고 밝혔다. 이번 협약을 계기로 삼성화재는 사고당 최대 100억 원, 연간 총 300억 원을 보장하는 ‘자율주행 전용보험’을 업계 최초로 출시한다. 이 상품은 보험 가입부터 사고 처리까지 한 번에 해결하는 원스톱 서비스를 기반으로 운영된다. 삼성화재는 사고 분석과 정보기술(IT) 보안 컨설팅 등 기업 맞춤형 서비스도 함께 제공할 계획이다. 자율주행 실증도시 구축 과정에서 관련 기업의 위험 관리 수요에 대응하는 보험 상품으로 활용될 전망이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Fire Launches First Autonomous Driving Insurance With Up to ₩10 Billion Cover",
+        "excerpt": "Samsung Fire & Marine Insurance said on the 13th it signed a multilateral agreement at a government-led autonomous driving event and will launch the industry’s first dedicated policy covering up to ₩10 billion per accident.",
+        "body": "Samsung Fire & Marine Insurance said on the 13th that it attended the launch ceremony for Korea’s national autonomous driving team, hosted by the Ministry of Land, Infrastructure and Transport, and signed a multilateral business agreement to build autonomous driving test cities. Under the agreement, the company will launch the industry’s first dedicated autonomous driving insurance product, covering up to ₩10 billion per accident and ₩30 billion in total annually. The product is based on a one-stop service that handles everything from insurance enrollment to accident processing. Samsung Fire also plans to provide company-tailored services, including accident analysis and information technology security consulting. The policy is expected to support risk management needs among companies involved in autonomous driving demonstration city projects. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン火災、自動運転専用保険を業界初発売…事故1件最大100億ウォン補償",
+        "excerpt": "サムスン火災は13日、国土交通部主催の自動運転国家代表チーム発足式で協定を結び、事故1件最大100億ウォンを補償する専用保険を業界で初めて発売する。",
+        "body": "サムスン火災は13日、国土交通部が主催した「大韓民国自動運転国家代表チーム発足式」に出席し、自動運転実証都市の構築に向けた多者間業務協定を締結したと明らかにした。今回の協定を機に、同社は事故1件当たり最大100億ウォン、年間総額300億ウォンを補償する「自動運転専用保険」を業界で初めて発売する。この商品は、保険加入から事故処理までを一括で解決するワンストップサービスを基盤に運営される。サムスン火災は事故分析や情報技術（IT）セキュリティーコンサルティングなど、企業向けのカスタマイズサービスも提供する計画だ。自動運転実証都市の構築過程で、関連企業のリスク管理需要に対応する保険商品として活用される見通しだ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星火灾推出业内首款自动驾驶专用保险，单次事故最高赔100亿韩元",
+        "excerpt": "三星火灾13日表示，在国土交通部主办的自动驾驶国家队启动仪式上签署多方协议，并将推出单次事故最高赔付100亿韩元的专用保险。",
+        "body": "三星火灾13日表示，公司参加了由国土交通部主办的“韩国自动驾驶国家队启动仪式”，并签署了旨在建设自动驾驶示范城市的多方业务协议。以此次协议为契机，三星火灾将推出业内首款“自动驾驶专用保险”，单次事故最高保障100亿韩元，年度总保障额为300亿韩元。该产品以一站式服务为基础，覆盖从投保到事故处理的全过程。三星火灾还计划提供事故分析、信息技术（IT）安全咨询等面向企业的定制服务。该保险有望在自动驾驶示范城市建设过程中，用于回应相关企业的风险管理需求。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Samsung Fire lanza el primer seguro para conducción autónoma con hasta ₩10.000 millones",
+        "excerpt": "Samsung Fire informó el día 13 que firmó un acuerdo multilateral en un acto del Ministerio de Tierra y lanzará el primer seguro del sector para conducción autónoma, con hasta ₩10.000 millones por accidente.",
+        "body": "Samsung Fire & Marine Insurance informó el día 13 que asistió a la ceremonia de lanzamiento del equipo nacional de conducción autónoma de Corea, organizada por el Ministerio de Tierra, Infraestructura y Transporte, y firmó un acuerdo multilateral para construir ciudades de prueba de conducción autónoma. Con este acuerdo, la compañía lanzará el primer seguro dedicado a la conducción autónoma del sector, con cobertura de hasta ₩10.000 millones por accidente y un total anual de ₩30.000 millones. El producto operará sobre un servicio integral que cubre desde la contratación del seguro hasta la gestión de accidentes. Samsung Fire también prevé ofrecer servicios personalizados para empresas, como análisis de accidentes y consultoría de seguridad de tecnologías de la información. Se espera que el seguro atienda la demanda de gestión de riesgos de las empresas vinculadas a ciudades de demostración de conducción autónoma. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Samsung Fire lança primeiro seguro para condução autônoma com até ₩10 bilhões",
+        "excerpt": "A Samsung Fire informou no dia 13 que assinou um acordo multilateral em evento do Ministério da Terra e lançará o primeiro seguro do setor para condução autônoma, com cobertura de até ₩10 bilhões por acidente.",
+        "body": "A Samsung Fire & Marine Insurance informou no dia 13 que participou da cerimônia de lançamento da equipe nacional de condução autônoma da Coreia, organizada pelo Ministério da Terra, Infraestrutura e Transporte, e assinou um acordo multilateral para construir cidades de demonstração de condução autônoma. Com o acordo, a empresa lançará o primeiro seguro dedicado à condução autônoma do setor, com cobertura de até ₩10 bilhões por acidente e total anual de ₩30 bilhões. O produto será baseado em um serviço de atendimento único, da contratação do seguro ao processamento de acidentes. A Samsung Fire também planeja oferecer serviços personalizados para empresas, incluindo análise de acidentes e consultoria de segurança em tecnologia da informação. O seguro deve responder à demanda de gestão de riscos das empresas envolvidas em cidades de teste de condução autônoma. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung Fire startet erste autonome Fahrzeugversicherung mit bis zu ₩10 Mrd. Deckung",
+        "excerpt": "Samsung Fire teilte am 13. mit, bei einer vom Verkehrsministerium organisierten Veranstaltung eine multilaterale Vereinbarung unterzeichnet zu haben und die erste Spezialversicherung für autonomes Fahren mit bis zu ₩10 Mrd. je Unfall einzuführen.",
+        "body": "Samsung Fire & Marine Insurance teilte am 13. mit, an der vom Ministerium für Land, Infrastruktur und Verkehr organisierten Auftaktveranstaltung des nationalen Teams für autonomes Fahren in Korea teilgenommen und eine multilaterale Geschäftsvereinbarung zum Aufbau von Teststädten für autonomes Fahren unterzeichnet zu haben. Auf Grundlage dieser Vereinbarung führt das Unternehmen die erste Spezialversicherung der Branche für autonomes Fahren ein. Sie deckt bis zu ₩10 Milliarden je Unfall und insgesamt ₩30 Milliarden pro Jahr ab. Das Produkt basiert auf einem One-Stop-Service, der vom Versicherungsabschluss bis zur Unfallbearbeitung reicht. Samsung Fire plant zudem maßgeschneiderte Unternehmensservices wie Unfallanalyse und Beratung zur Sicherheit der Informationstechnologie. Die Police dürfte den Bedarf an Risikomanagement bei Unternehmen in Projekten für autonome Teststädte abdecken. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Samsung Fire lance la première assurance dédiée à la conduite autonome, jusqu’à ₩10 milliards",
+        "excerpt": "Samsung Fire a annoncé le 13 avoir signé un accord multilatéral lors d’un événement du ministère des Transports et lancer la première assurance du secteur pour la conduite autonome, couvrant jusqu’à ₩10 milliards par accident.",
+        "body": "Samsung Fire & Marine Insurance a annoncé le 13 avoir participé à la cérémonie de lancement de l’équipe nationale coréenne de conduite autonome, organisée par le ministère du Territoire, des Infrastructures et des Transports, et signé un accord multilatéral pour construire des villes de démonstration de conduite autonome. Dans le cadre de cet accord, l’entreprise lancera la première assurance dédiée à la conduite autonome du secteur, avec une couverture maximale de ₩10 milliards par accident et de ₩30 milliards par an au total. Le produit reposera sur un service unique couvrant l’adhésion à l’assurance et le traitement des accidents. Samsung Fire prévoit aussi d’offrir des services adaptés aux entreprises, notamment l’analyse des accidents et le conseil en sécurité des technologies de l’information. Cette assurance devrait répondre aux besoins de gestion des risques des entreprises participant aux villes de démonstration de conduite autonome. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سامسونغ فاير تطلق أول تأمين للقيادة الذاتية بتغطية تصل إلى 10 مليارات وون للحادث",
+        "excerpt": "أعلنت سامسونغ فاير في 13 من الشهر أنها وقعت اتفاقية متعددة الأطراف في فعالية تقودها وزارة النقل، وستطلق أول تأمين مخصص للقيادة الذاتية بتغطية تصل إلى 10 مليارات وون لكل حادث.",
+        "body": "أعلنت شركة سامسونغ فاير آند مارين إنشورنس في 13 من الشهر أنها حضرت حفل إطلاق الفريق الوطني الكوري للقيادة الذاتية، الذي نظمته وزارة الأراضي والبنية التحتية والنقل، ووقعت اتفاقية عمل متعددة الأطراف لبناء مدن تجريبية للقيادة الذاتية. وبموجب هذه الاتفاقية، ستطلق الشركة أول منتج تأمين مخصص للقيادة الذاتية في القطاع، بتغطية تصل إلى 10 مليارات وون لكل حادث وبإجمالي سنوي يبلغ 30 مليار وون. ويعتمد المنتج على خدمة شاملة تغطي إجراءات الاشتراك في التأمين ومعالجة الحوادث. كما تخطط سامسونغ فاير لتقديم خدمات مصممة للشركات، تشمل تحليل الحوادث واستشارات أمن تكنولوجيا المعلومات. ومن المتوقع أن يساعد التأمين في تلبية احتياجات إدارة المخاطر لدى الشركات المشاركة في مشاريع مدن اختبار القيادة الذاتية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Fire ने स्वायत्त ड्राइविंग बीमा शुरू किया, प्रति हादसा ₩10 अरब तक कवर",
+        "excerpt": "Samsung Fire ने 13 तारीख को कहा कि उसने परिवहन मंत्रालय के स्वायत्त ड्राइविंग कार्यक्रम में बहुपक्षीय समझौता किया है और प्रति हादसा ₩10 अरब तक कवर वाला उद्योग का पहला विशेष बीमा पेश करेगी।",
+        "body": "Samsung Fire & Marine Insurance ने 13 तारीख को बताया कि उसने भूमि, अवसंरचना और परिवहन मंत्रालय द्वारा आयोजित कोरिया की राष्ट्रीय स्वायत्त ड्राइविंग टीम के लॉन्च समारोह में भाग लिया और स्वायत्त ड्राइविंग परीक्षण शहरों के निर्माण के लिए बहुपक्षीय व्यावसायिक समझौते पर हस्ताक्षर किए। इस समझौते के आधार पर कंपनी उद्योग का पहला स्वायत्त ड्राइविंग विशेष बीमा उत्पाद पेश करेगी, जिसमें प्रति दुर्घटना अधिकतम ₩10 अरब और सालाना कुल ₩30 अरब का कवर होगा। यह उत्पाद बीमा 가입 से लेकर दुर्घटना 처리 तक एक ही स्थान पर समाधान देने वाली वन-स्टॉप सेवा पर आधारित होगा। Samsung Fire दुर्घटना विश्लेषण और सूचना प्रौद्योगिकी सुरक्षा परामर्श जैसी कंपनियों के लिए अनुकूलित सेवाएं भी देगी। यह बीमा स्वायत्त ड्राइविंग परीक्षण शहरों से जुड़ी कंपनियों की जोखिम प्रबंधन जरूरतों को पूरा करने में उपयोगी हो सकता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Samsung Fire Luncurkan Asuransi Khusus Mobil Otonom, Tanggung Hingga ₩10 Miliar",
+        "excerpt": "Samsung Fire pada tanggal 13 menyatakan telah menandatangani perjanjian multilateral dalam acara yang dipimpin Kementerian Pertanahan dan akan meluncurkan asuransi khusus kendaraan otonom pertama di industri.",
+        "body": "Samsung Fire & Marine Insurance menyatakan pada tanggal 13 bahwa perusahaan menghadiri upacara peluncuran tim nasional kendaraan otonom Korea yang diselenggarakan Kementerian Pertanahan, Infrastruktur, dan Transportasi, serta menandatangani perjanjian kerja multilateral untuk membangun kota uji kendaraan otonom. Melalui perjanjian ini, Samsung Fire akan meluncurkan asuransi khusus kendaraan otonom pertama di industri, dengan perlindungan hingga ₩10 miliar per kecelakaan dan total ₩30 miliar per tahun. Produk ini berbasis layanan satu pintu yang menangani proses dari pendaftaran asuransi hingga penyelesaian kecelakaan. Samsung Fire juga berencana menyediakan layanan khusus perusahaan, termasuk analisis kecelakaan dan konsultasi keamanan teknologi informasi. Asuransi ini diperkirakan akan digunakan untuk menjawab kebutuhan manajemen risiko perusahaan dalam pembangunan kota demonstrasi kendaraan otonom. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "885a4547d094",
     "slug": "공정위-재계-저승사자-조사국-21년만에-부활-검토-490069",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kelangkaan Apartemen Baru di Seoul Dorong Lonjakan Hak Prajual dan Hunian",
         "excerpt": "Saat pasokan apartemen baru di Seoul makin terbatas, transaksi hak prajual dan hak hunian mencapai 453 pada Januari-April, naik 98,7% secara tahunan.",
         "body": "Di pasar apartemen Seoul, minat kuat pada hunian baru merembet ke transaksi hak prajual dan hak hunian. Menurut sistem publik transaksi Kementerian Pertanahan, Infrastruktur, dan Transportasi, Seoul mencatat 453 transaksi hak prajual dan hak hunian pada Januari-April tahun ini, naik 98,7% dari 228 transaksi pada periode yang sama tahun lalu. Dongdaemun-gu memimpin dengan 102 transaksi, disusul Gangdong-gu dengan 77 transaksi. Di Gangdong-gu, Olympic Park Foreon saja mencatat 64 transaksi. Sebaliknya, Gangnam, Seocho, Songpa, dan Yongsan tidak mencatat transaksi setelah perluasan zona izin transaksi tanah pada 24 Maret. Tahun lalu, Seoul memiliki 970.552 apartemen berusia 20 tahun atau lebih, 59,5% dari total; pasokan penjualan umum tahun ini diperkirakan turun 33,8% menjadi 6.523 unit. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "54ec8a0b9d00",
-    "slug": "풀무원-지속가능-식생활-기업-도약-이우봉-대표-창립-42주년-기념사-847955",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T23:36:23.574Z",
-    "updatedAt": "2026-05-12T23:36:23.574Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908533/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908533/2",
-    "titleFingerprint": "71c2b06b75470d3b2670b15f042f45de523486b4",
-    "dedupKeys": [
-      "54ec8a0b9d00d69172ef4a656a1875c84dfbdca8",
-      "71c2b06b75470d3b2670b15f042f45de523486b4",
-      "1b23a40f1019c379ac5cd636759c5ccf27bcba10"
-    ],
-    "imageUrl": "/images/articles/54ec8a0b9d00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "풀무원 창립 42주년, 이우봉 대표 “지속가능 식생활 기업으로 도약”",
-        "excerpt": "풀무원이 12일 창립 42주년을 맞아 지속가능 식생활 기업으로 거듭나겠다는 목표를 밝히고 조직 혁신, 브랜드 경쟁력 강화, 신성장 SBU 신설 계획을 공개했다.",
-        "body": "풀무원이 창립 42주년을 맞은 12일 지속가능 식생활 기업으로 도약하겠다는 방향을 밝혔다. 이우봉 풀무원 총괄대표는 서울 강남구 본사에서 열린 창사 42주년 기념식에서 올해 핵심 과제로 ‘신경영선언 실행 고도화’를 제시했다. 풀무원은 이를 바탕으로 조직 혁신과 브랜드 경쟁력 강화를 추진하고, 바른 먹거리 개념을 확장한 지속가능 식생활 사업을 본격화할 계획이다. 실행 중심 조직인 ‘신성장 SBU(Strategic Business Unit)’도 신설한다. 회사는 인공지능 전환(AX)과 비즈니스를 유기적으로 결합한 신규 사업 모델을 발굴해 성장 기반을 넓힌다는 방침이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Pulmuone Marks 42 Years as CEO Lee Woo-bong Targets Sustainable Food Growth",
-        "excerpt": "Pulmuone said on the 12th, its 42nd anniversary, that it aims to become a sustainable food lifestyle company through organizational innovation, stronger brand competitiveness and a new growth SBU.",
-        "body": "Pulmuone announced on the 12th, as it marked its 42nd anniversary, that it will pursue a leap forward as a sustainable food lifestyle company. Lee Woo-bong, Pulmuone’s chief executive, made the remarks at the company’s 42nd anniversary ceremony held at its headquarters in Gangnam-gu, Seoul. He said this year’s key task is to advance the execution of the company’s new management declaration. Based on that direction, Pulmuone plans to promote organizational innovation, strengthen brand competitiveness and fully launch sustainable food lifestyle businesses that expand the concept of wholesome food. The company will also establish a new growth SBU, or Strategic Business Unit, as an execution-focused organization. Pulmuone said it will seek new business models that organically connect artificial intelligence transformation, or AX, with business. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "プルムウォン創立42周年、李宇鳳代表「持続可能な食生活企業へ飛躍」",
-        "excerpt": "プルムウォンは12日、創立42周年を迎え、持続可能な食生活企業への転換を掲げ、組織革新、ブランド競争力強化、新成長SBU新設計画を明らかにした。",
-        "body": "プルムウォンは創立42周年を迎えた12日、持続可能な食生活企業として飛躍する方針を明らかにした。李宇鳳プルムウォン総括代表は、ソウル市江南区の本社で開かれた創立42周年記念式で、今年の核心課題として「新経営宣言の実行高度化」を提示した。プルムウォンはこれを基に、組織革新とブランド競争力の強化を進め、正しい食べ物という概念を拡張した持続可能な食生活事業を本格的に推進する計画だ。実行中心の組織である「新成長SBU（Strategic Business Unit）」も新設する。同社は人工知能転換（AX）とビジネスを有機的に結び付けた新規事業モデルを発掘し、成長基盤を広げる方針だ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "圃美多创立42周年，李宇凤称将跃升为可持续饮食生活企业",
-        "excerpt": "圃美多12日在创立42周年之际表示，将以可持续饮食生活企业为目标，推进组织创新、强化品牌竞争力，并新设新增长SBU。",
-        "body": "圃美多在迎来创立42周年的12日表示，将朝着可持续饮食生活企业的方向实现跃升。圃美多总括代表李宇凤当天在首尔江南区总部举行的创立42周年纪念仪式上表示，今年的核心课题是“深化新经营宣言的执行”。圃美多将以此为基础，推进组织创新和品牌竞争力强化，并正式推动将“正确食品”概念扩展后的可持续饮食生活业务。公司还将新设以执行为中心的组织“新增长SBU（Strategic Business Unit）”。圃美多计划发掘将人工智能转型（AX）与业务有机结合的新业务模式，以扩大增长基础。来源：rss.donga.com"
-      },
-      "es": {
-        "title": "Pulmuone cumple 42 años y apunta a ser una empresa de alimentación sostenible",
-        "excerpt": "Pulmuone anunció el día 12, en su 42 aniversario, que buscará transformarse en una empresa de alimentación sostenible mediante innovación organizativa, marca más fuerte y una nueva SBU de crecimiento.",
-        "body": "Pulmuone anunció el día 12, al cumplir 42 años de fundación, su intención de avanzar como empresa de alimentación sostenible. Lee Woo-bong, director general de Pulmuone, hizo el anuncio durante la ceremonia del 42 aniversario celebrada en la sede de la compañía en Gangnam-gu, Seúl. Señaló que la tarea central de este año será elevar la ejecución de la nueva declaración de gestión. Sobre esa base, Pulmuone impulsará la innovación organizativa, reforzará la competitividad de la marca y desarrollará de forma plena negocios de alimentación sostenible que amplían el concepto de comida correcta. La empresa también creará una nueva SBU de crecimiento, o Strategic Business Unit, como organización centrada en la ejecución. Además, buscará nuevos modelos de negocio que integren orgánicamente la transformación con inteligencia artificial, AX, y sus actividades empresariales. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Pulmuone celebra 42 anos e mira empresa de alimentação sustentável",
-        "excerpt": "A Pulmuone informou no dia 12, ao completar 42 anos, que pretende se tornar uma empresa de alimentação sustentável com inovação organizacional, reforço da marca e uma nova SBU de crescimento.",
-        "body": "A Pulmuone anunciou no dia 12, ao marcar seu 42º aniversário de fundação, que pretende avançar como uma empresa de alimentação sustentável. Lee Woo-bong, principal executivo da Pulmuone, fez a declaração durante a cerimônia de 42 anos realizada na sede da companhia em Gangnam-gu, Seul. Ele afirmou que a principal tarefa deste ano será aprofundar a execução da nova declaração de gestão. Com essa orientação, a Pulmuone planeja promover inovação organizacional, fortalecer a competitividade da marca e iniciar de forma plena negócios de alimentação sustentável que ampliam o conceito de comida correta. A empresa também criará uma nova SBU de crescimento, ou Strategic Business Unit, como organização focada em execução. Segundo a companhia, serão buscados novos modelos de negócio que combinem de forma orgânica a transformação por inteligência artificial, AX, e os negócios. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Pulmuone wird 42: CEO Lee Woo-bong setzt auf nachhaltige Ernährung",
-        "excerpt": "Pulmuone teilte am 12. zum 42. Gründungstag mit, das Unternehmen wolle sich durch Organisationsinnovation, stärkere Markenwettbewerbsfähigkeit und eine neue Wachstums-SBU auf nachhaltige Ernährung ausrichten.",
-        "body": "Pulmuone gab am 12. anlässlich seines 42. Gründungstags bekannt, sich zu einem Unternehmen für nachhaltige Ernährung entwickeln zu wollen. Lee Woo-bong, Gesamtgeschäftsführer von Pulmuone, erklärte dies bei der Jubiläumsfeier in der Unternehmenszentrale im Seouler Stadtteil Gangnam-gu. Als zentrale Aufgabe dieses Jahres nannte er die vertiefte Umsetzung der neuen Managementerklärung. Auf dieser Grundlage will Pulmuone Organisationsinnovation vorantreiben, die Wettbewerbsfähigkeit der Marke stärken und Geschäfte für nachhaltige Ernährung aufbauen, die das Konzept richtiger Lebensmittel erweitern. Zudem richtet das Unternehmen eine neue Wachstums-SBU, Strategic Business Unit, als umsetzungsorientierte Organisation ein. Pulmuone will neue Geschäftsmodelle entwickeln, die die Transformation durch künstliche Intelligenz, AX, organisch mit dem Geschäft verbinden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Pulmuone fête ses 42 ans et vise une entreprise d’alimentation durable",
-        "excerpt": "Pulmuone a annoncé le 12, pour son 42e anniversaire, vouloir devenir une entreprise d’alimentation durable grâce à l’innovation organisationnelle, à une marque renforcée et à une nouvelle SBU de croissance.",
-        "body": "Pulmuone a annoncé le 12, à l’occasion de son 42e anniversaire, son ambition de devenir une entreprise tournée vers une alimentation durable. Lee Woo-bong, directeur général de Pulmuone, s’est exprimé lors de la cérémonie organisée au siège de l’entreprise à Gangnam-gu, Séoul. Il a présenté comme priorité de l’année l’approfondissement de l’exécution de la nouvelle déclaration de gestion. Sur cette base, Pulmuone prévoit de promouvoir l’innovation organisationnelle, de renforcer la compétitivité de sa marque et de lancer pleinement des activités d’alimentation durable élargissant le concept de nourriture juste. L’entreprise créera aussi une nouvelle SBU de croissance, ou Strategic Business Unit, organisée autour de l’exécution. Elle entend identifier de nouveaux modèles économiques reliant de manière organique la transformation par l’intelligence artificielle, AX, et ses activités. Source : rss.donga.com"
-      },
-      "ar": {
-        "title": "بولموون تحتفل بمرور 42 عاما وتستهدف التحول إلى شركة غذاء مستدام",
-        "excerpt": "أعلنت بولموون في 12 من الشهر، بمناسبة الذكرى 42 لتأسيسها، أنها تسعى للتحول إلى شركة لنمط غذائي مستدام عبر الابتكار التنظيمي وتعزيز العلامة وإنشاء وحدة نمو SBU جديدة.",
-        "body": "أعلنت بولموون في 12 من الشهر، تزامنا مع الذكرى 42 لتأسيسها، أنها ستتجه إلى تحقيق قفزة كشركة متخصصة في نمط غذائي مستدام. وقال لي وو بونغ، الرئيس التنفيذي العام لبولموون، خلال مراسم الذكرى التي أقيمت في مقر الشركة بمنطقة غانغنام في سيول، إن المهمة الرئيسية لهذا العام هي الارتقاء بتنفيذ إعلان الإدارة الجديد. وبناء على ذلك، تخطط بولموون لدفع الابتكار التنظيمي وتعزيز القدرة التنافسية للعلامة التجارية، وإطلاق أعمال نمط غذائي مستدام توسع مفهوم الغذاء الصحيح. كما ستنشئ الشركة وحدة نمو جديدة SBU، أي Strategic Business Unit، كتنظيم يركز على التنفيذ. وتعتزم الشركة استكشاف نماذج أعمال جديدة تربط بشكل عضوي بين التحول بالذكاء الاصطناعي AX والأعمال. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "पुलमुओन के 42 साल, ली वू-बोंग ने टिकाऊ खाद्य जीवन कंपनी बनने का लक्ष्य रखा",
-        "excerpt": "पुलमुओन ने 12 तारीख को अपनी स्थापना की 42वीं वर्षगांठ पर कहा कि वह संगठनात्मक नवाचार, ब्रांड प्रतिस्पर्धा मजबूत करने और नई ग्रोथ SBU के जरिए टिकाऊ खाद्य जीवन कंपनी बनेगी।",
-        "body": "पुलमुओन ने 12 तारीख को अपनी स्थापना की 42वीं वर्षगांठ के अवसर पर टिकाऊ खाद्य जीवन कंपनी के रूप में आगे बढ़ने की दिशा घोषित की। पुलमुओन के मुख्य प्रतिनिधि ली वू-बोंग ने सियोल के गंगनम-गु स्थित मुख्यालय में आयोजित 42वीं वर्षगांठ समारोह में कहा कि इस वर्ष का मुख्य कार्य “नई प्रबंधन घोषणा के क्रियान्वयन को उन्नत करना” है। इसी आधार पर पुलमुओन संगठनात्मक नवाचार और ब्रांड प्रतिस्पर्धा को मजबूत करेगा तथा सही भोजन की अवधारणा का विस्तार करने वाले टिकाऊ खाद्य जीवन व्यवसाय को पूर्ण रूप से आगे बढ़ाएगा। कंपनी क्रियान्वयन केंद्रित संगठन “न्यू ग्रोथ SBU, Strategic Business Unit” भी स्थापित करेगी। कंपनी कृत्रिम बुद्धिमत्ता रूपांतरण, AX, और व्यवसाय को जैविक रूप से जोड़ने वाले नए व्यवसाय मॉडल खोजने की योजना रखती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pulmuone 42 Tahun, Lee Woo-bong Bidik Lompatan ke Pangan Berkelanjutan",
-        "excerpt": "Pulmuone pada tanggal 12, saat ulang tahun ke-42, menyatakan target menjadi perusahaan gaya hidup pangan berkelanjutan melalui inovasi organisasi, penguatan merek, dan SBU pertumbuhan baru.",
-        "body": "Pulmuone pada tanggal 12, bertepatan dengan ulang tahun pendiriannya yang ke-42, menyampaikan arah untuk melompat menjadi perusahaan gaya hidup pangan berkelanjutan. Lee Woo-bong, chief executive Pulmuone, menyampaikan hal itu dalam upacara peringatan 42 tahun perusahaan di kantor pusat Gangnam-gu, Seoul. Ia mengatakan tugas utama tahun ini adalah meningkatkan pelaksanaan deklarasi manajemen baru. Berdasarkan arah tersebut, Pulmuone akan mendorong inovasi organisasi, memperkuat daya saing merek, dan mulai menjalankan bisnis gaya hidup pangan berkelanjutan yang memperluas konsep makanan yang benar. Perusahaan juga akan membentuk organisasi berorientasi eksekusi bernama SBU pertumbuhan baru, atau Strategic Business Unit. Pulmuone berencana menggali model bisnis baru yang menghubungkan transformasi kecerdasan buatan, AX, dengan bisnis secara organik. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "7e3eacfd5405",
-    "slug": "장재훈-현대자동차-부회장-자동차의-날에-금탑산업훈장-608053",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T23:35:21.709Z",
-    "updatedAt": "2026-05-12T23:35:21.709Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908529/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908529/2",
-    "titleFingerprint": "7c8660038571e321397b4103214c444ff0ae6e6b",
-    "dedupKeys": [
-      "7e3eacfd540527dd957cac7127dc7aa4414730c9",
-      "7c8660038571e321397b4103214c444ff0ae6e6b",
-      "73fe6f2f051a6031011261d22f596b24036f1169"
-    ],
-    "imageUrl": "/images/articles/7e3eacfd5405.jpg",
-    "i18n": {
-      "ko": {
-        "title": "장재훈 현대차 부회장, 자동차의 날 금탑산업훈장 수훈",
-        "excerpt": "장재훈 현대자동차그룹 부회장이 12일 서울 JW메리어트호텔에서 열린 제23회 자동차의 날 행사에서 자동차산업 경쟁력 제고 공로로 금탑산업훈장을 받았다.",
-        "body": "장재훈 현대자동차그룹 부회장이 12일 서울 서초구 신반포로 JW메리어트호텔 서울에서 열린 ‘제23회 자동차의 날’ 기념행사에서 금탑산업훈장을 수훈했다. 산업통상부와 현대차그룹에 따르면 이번 행사는 한국자동차모빌리티산업협회(KAMA)와 한국자동차산업협동조합(KAICA)이 진행했다. 금탑산업훈장은 국가 산업 발전에 기여한 공적이 뚜렷한 기업인에게 정부가 수여하는 산업훈장 5단계 중 최고 훈격이다. 자동차의 날에 금탑산업훈장이 수여된 것은 2007년 이영국 당시 지엠대우 사장 이후 19년 만이다. 장 부회장은 모빌리티 산업 생태계 강화를 위한 대규모 투자 주도, 글로벌 통상 리스크 해소 노력, 자동차 산업 생태계의 동반 성장 지원 등으로 경쟁력 제고와 국가 발전에 기여한 점을 평가받았다. 장 부회장은 “우리 모두의 훈장이라고 생각한다”고 밝혔다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hyundai Motor Vice Chair Jang Jae-hoon Receives Gold Tower Order",
-        "excerpt": "Hyundai Motor Group Vice Chair Jang Jae-hoon received the Gold Tower Order of Industrial Service Merit on May 12 at the 23rd Automobile Day ceremony in Seoul.",
-        "body": "Hyundai Motor Group Vice Chair Jang Jae-hoon received the Gold Tower Order of Industrial Service Merit on May 12 at the 23rd Automobile Day ceremony held at JW Marriott Hotel Seoul on Sinbanpo-ro, Seocho-gu. According to the Ministry of Trade, Industry and Energy and Hyundai Motor Group, the event was organized by the Korea Automobile & Mobility Association and the Korea Auto Industries Coop. Association. The Gold Tower Order is the highest of five industrial merit orders given by the government to business leaders with clear contributions to national industrial development. Its presentation on Automobile Day was the first in 19 years, since Lee Young-kuk, then president of GM Daewoo, received it in 2007. Jang was recognized for leading large-scale investment to strengthen the mobility ecosystem, working to ease global trade risks, and supporting shared growth across the automotive industry. He said he regarded it as “an honor for all of us.” Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "現代自動車の張在勲副会長、自動車の日に金塔産業勲章",
-        "excerpt": "現代自動車グループの張在勲副会長は12日、ソウルのJWマリオットホテルで開かれた第23回自動車の日記念行事で金塔産業勲章を受章した。",
-        "body": "現代自動車グループの張在勲副会長は12日、ソウル市瑞草区新盤浦路のJWマリオットホテル・ソウルで開かれた「第23回自動車の日」記念行事で金塔産業勲章を受章した。産業通商部と現代自動車グループによると、同式典は韓国自動車モビリティ産業協会（KAMA）と韓国自動車産業協同組合（KAICA）が実施した。金塔産業勲章は、国家産業の発展に明確な功績を残した企業人に政府が授与する産業勲章5段階のうち最高位にあたる。自動車の日に同勲章が授与されるのは、2007年に当時GM大宇社長だった李泳国氏が受章して以来19年ぶり。張副会長は、モビリティ産業エコシステム強化に向けた大規模投資の主導、世界的な通商リスク解消への努力、自動車産業エコシステムの同伴成長支援などが評価された。張副会長は「私たち全員の勲章だと思う」と述べた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "现代汽车副会长张在勋获汽车日金塔产业勋章",
-        "excerpt": "现代汽车集团副会长张在勋12日在首尔JW万豪酒店举行的第23届汽车日纪念活动上，因提升汽车产业竞争力获金塔产业勋章。",
-        "body": "现代汽车集团副会长张在勋12日在首尔瑞草区新盘浦路JW万豪酒店首尔举行的“第23届汽车日”纪念活动上获授金塔产业勋章。韩国产业通商部和现代汽车集团表示，该活动由韩国汽车移动产业协会（KAMA）和韩国汽车产业合作组合（KAICA）举办。金塔产业勋章是韩国政府授予对国家产业发展作出突出贡献企业人士的产业勋章，在五个等级中级别最高。汽车日颁发金塔产业勋章，是自2007年时任通用大宇社长李泳国获授以来时隔19年的首次。张在勋因主导大规模投资以强化移动出行产业生态、努力化解全球通商风险、支持汽车产业生态共同成长等，被评价为提升汽车产业竞争力并为国家发展作出贡献。张在勋表示：“我认为这是属于我们所有人的勋章。”来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Jang Jae-hoon de Hyundai recibe la Orden Torre de Oro en el Día del Automóvil",
-        "excerpt": "Jang Jae-hoon, vicepresidente de Hyundai Motor Group, recibió el 12 de mayo en Seúl la Orden Torre de Oro por su aporte a la competitividad automotriz.",
-        "body": "Jang Jae-hoon, vicepresidente de Hyundai Motor Group, recibió el 12 de mayo la Orden Torre de Oro al Mérito Industrial durante la 23ª ceremonia del Día del Automóvil, celebrada en el JW Marriott Hotel Seoul, en Sinbanpo-ro, Seocho-gu. Según el Ministerio de Comercio, Industria y Energía y Hyundai Motor Group, el acto fue organizado por la Korea Automobile & Mobility Association (KAMA) y la Korea Auto Industries Coop. Association (KAICA). La Orden Torre de Oro es la máxima de las cinco categorías de condecoraciones industriales que el gobierno concede a empresarios con contribuciones claras al desarrollo industrial nacional. Su entrega en el Día del Automóvil ocurre por primera vez en 19 años, desde que Lee Young-kuk, entonces presidente de GM Daewoo, la recibió en 2007. Jang fue reconocido por liderar grandes inversiones para fortalecer el ecosistema de movilidad, por sus esfuerzos ante riesgos comerciales globales y por apoyar el crecimiento conjunto de la industria automotriz. Dijo que la considera “una condecoración de todos nosotros”. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Jang Jae-hoon, da Hyundai, recebe Ordem Torre de Ouro no Dia do Automóvel",
-        "excerpt": "Jang Jae-hoon, vice-presidente do Hyundai Motor Group, recebeu em 12 de maio, em Seul, a Ordem Torre de Ouro por sua contribuição à competitividade automotiva.",
-        "body": "Jang Jae-hoon, vice-presidente do Hyundai Motor Group, recebeu em 12 de maio a Ordem Torre de Ouro do Mérito Industrial na 23ª cerimônia do Dia do Automóvel, realizada no JW Marriott Hotel Seoul, em Sinbanpo-ro, Seocho-gu. Segundo o Ministério do Comércio, Indústria e Energia e o Hyundai Motor Group, o evento foi conduzido pela Korea Automobile & Mobility Association (KAMA) e pela Korea Auto Industries Coop. Association (KAICA). A Ordem Torre de Ouro é a mais alta entre as cinco classes de condecorações industriais concedidas pelo governo a empresários com contribuições claras ao desenvolvimento industrial nacional. A entrega no Dia do Automóvel ocorreu pela primeira vez em 19 anos, desde Lee Young-kuk, então presidente da GM Daewoo, em 2007. Jang foi reconhecido por liderar grandes investimentos para fortalecer o ecossistema de mobilidade, por esforços para reduzir riscos comerciais globais e por apoiar o crescimento conjunto do setor automotivo. Ele afirmou considerar a honraria “uma medalha de todos nós”. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hyundai-Vizechef Jang Jae-hoon erhält Gold Tower Order am Automobile Day",
-        "excerpt": "Hyundai-Motor-Group-Vizechef Jang Jae-hoon erhielt am 12. Mai in Seoul beim 23. Automobile Day den Gold Tower Order für Beiträge zur Wettbewerbsfähigkeit der Autoindustrie.",
-        "body": "Jang Jae-hoon, Vice Chairman der Hyundai Motor Group, erhielt am 12. Mai beim 23. Automobile Day im JW Marriott Hotel Seoul an der Sinbanpo-ro im Bezirk Seocho den Gold Tower Order of Industrial Service Merit. Nach Angaben des Handels-, Industrie- und Energieministeriums sowie der Hyundai Motor Group wurde die Veranstaltung von der Korea Automobile & Mobility Association (KAMA) und der Korea Auto Industries Coop. Association (KAICA) durchgeführt. Der Gold Tower Order ist die höchste von fünf industriellen Verdienstorden, die die Regierung Unternehmern mit klaren Beiträgen zur nationalen Industrieentwicklung verleiht. Am Automobile Day wurde er erstmals seit 19 Jahren vergeben, nachdem ihn 2007 Lee Young-kuk, damals Präsident von GM Daewoo, erhalten hatte. Jang wurde für die Führung groß angelegter Investitionen zur Stärkung des Mobilitätsökosystems, Bemühungen zur Minderung globaler Handelsrisiken und Unterstützung gemeinsamen Wachstums in der Autoindustrie gewürdigt. Er sagte, er betrachte ihn als „Orden für uns alle“. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Jang Jae-hoon de Hyundai reçoit l’Ordre Tour d’or lors de la Journée de l’automobile",
-        "excerpt": "Jang Jae-hoon, vice-président de Hyundai Motor Group, a reçu le 12 mai à Séoul l’Ordre Tour d’or pour sa contribution à la compétitivité automobile.",
-        "body": "Jang Jae-hoon, vice-président de Hyundai Motor Group, a reçu le 12 mai l’Ordre Tour d’or du mérite industriel lors de la 23e cérémonie de la Journée de l’automobile, organisée au JW Marriott Hotel Seoul, sur Sinbanpo-ro, dans l’arrondissement de Seocho. Selon le ministère du Commerce, de l’Industrie et de l’Énergie et Hyundai Motor Group, l’événement a été conduit par la Korea Automobile & Mobility Association (KAMA) et la Korea Auto Industries Coop. Association (KAICA). L’Ordre Tour d’or est le plus élevé des cinq grades de décorations industrielles que le gouvernement remet aux entrepreneurs ayant contribué clairement au développement industriel national. Sa remise lors de la Journée de l’automobile est une première en 19 ans, depuis Lee Young-kuk, alors président de GM Daewoo, en 2007. Jang a été distingué pour avoir mené de grands investissements afin de renforcer l’écosystème de la mobilité, pour ses efforts face aux risques commerciaux mondiaux et pour son soutien à la croissance partagée de l’industrie automobile. Il a déclaré y voir « une décoration pour nous tous ». Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "جانغ جاي هون من هيونداي ينال وسام البرج الذهبي في يوم السيارات",
-        "excerpt": "نال جانغ جاي هون، نائب رئيس مجموعة هيونداي موتور، في 12 مايو بسيول وسام البرج الذهبي للاستحقاق الصناعي تقديرا لإسهامه في تنافسية صناعة السيارات.",
-        "body": "نال جانغ جاي هون، نائب رئيس مجموعة هيونداي موتور، في 12 مايو وسام البرج الذهبي للاستحقاق الصناعي خلال مراسم يوم السيارات الثالث والعشرين التي أقيمت في فندق جيه دبليو ماريوت سيول على طريق شينبانبو في حي سوتشو. وبحسب وزارة التجارة والصناعة والطاقة ومجموعة هيونداي موتور، نظمت الحدث رابطة كوريا لصناعة السيارات والتنقل (KAMA) والجمعية التعاونية الكورية لصناعات السيارات (KAICA). ويعد وسام البرج الذهبي أعلى درجات الأوسمة الصناعية الخمس التي تمنحها الحكومة لرجال الأعمال ذوي الإسهامات الواضحة في تطوير الصناعة الوطنية. وهذه أول مرة يمنح فيها الوسام في يوم السيارات منذ 19 عاما، بعد حصول لي يونغ كوك، رئيس جي إم دايو آنذاك، عليه في عام 2007. وجرى تقدير جانغ لقيادته استثمارات واسعة لتعزيز منظومة صناعة التنقل، وجهوده لمعالجة مخاطر التجارة العالمية، ودعمه للنمو المشترك في منظومة صناعة السيارات. وقال إنه يعتبره “وساما لنا جميعا”. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "हुंडई के जांग जे-हून को ऑटोमोबाइल डे पर गोल्ड टावर ऑर्डर",
-        "excerpt": "हुंडई मोटर ग्रुप के वाइस चेयरमैन जांग जे-हून को 12 मई को सियोल में 23वें ऑटोमोबाइल डे समारोह में ऑटो उद्योग प्रतिस्पर्धा में योगदान के लिए गोल्ड टावर ऑर्डर मिला।",
-        "body": "हुंडई मोटर ग्रुप के वाइस चेयरमैन जांग जे-हून को 12 मई को सियोल के सेओचो-गु स्थित सिनबानपो-रो के JW Marriott Hotel Seoul में आयोजित 23वें ऑटोमोबाइल डे समारोह में गोल्ड टावर ऑर्डर ऑफ इंडस्ट्रियल सर्विस मेरिट मिला। उद्योग, व्यापार और ऊर्जा मंत्रालय तथा हुंडई मोटर ग्रुप के अनुसार, यह कार्यक्रम Korea Automobile & Mobility Association (KAMA) और Korea Auto Industries Coop. Association (KAICA) ने आयोजित किया। गोल्ड टावर ऑर्डर उन उद्योगपतियों को सरकार द्वारा दिया जाने वाला सर्वोच्च औद्योगिक सम्मान है, जिनका राष्ट्रीय औद्योगिक विकास में स्पष्ट योगदान हो; यह पांच स्तरों में सबसे ऊंचा है। ऑटोमोबाइल डे पर यह सम्मान 19 साल बाद दिया गया, इससे पहले 2007 में तत्कालीन GM Daewoo अध्यक्ष ली यंग-कुक को मिला था। जांग को मोबिलिटी उद्योग पारितंत्र मजबूत करने के लिए बड़े निवेश का नेतृत्व करने, वैश्विक व्यापार जोखिम कम करने के प्रयासों और ऑटो उद्योग के साझा विकास को समर्थन देने के लिए सराहा गया। उन्होंने कहा कि वह इसे “हम सबका सम्मान” मानते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Jang Jae-hoon Hyundai Terima Orde Menara Emas di Hari Otomotif",
-        "excerpt": "Wakil Chairman Hyundai Motor Group Jang Jae-hoon menerima Orde Menara Emas pada 12 Mei di Seoul atas kontribusinya meningkatkan daya saing industri otomotif.",
-        "body": "Wakil Chairman Hyundai Motor Group Jang Jae-hoon menerima Orde Menara Emas untuk Jasa Industri pada 12 Mei dalam upacara Hari Otomotif ke-23 di JW Marriott Hotel Seoul, Sinbanpo-ro, Seocho-gu. Menurut Kementerian Perdagangan, Industri dan Energi serta Hyundai Motor Group, acara tersebut digelar oleh Korea Automobile & Mobility Association (KAMA) dan Korea Auto Industries Coop. Association (KAICA). Orde Menara Emas adalah penghargaan tertinggi dari lima tingkat tanda jasa industri yang diberikan pemerintah kepada pengusaha dengan kontribusi jelas bagi pengembangan industri nasional. Penganugerahan pada Hari Otomotif ini menjadi yang pertama dalam 19 tahun, sejak Lee Young-kuk, saat itu Presiden GM Daewoo, menerimanya pada 2007. Jang dinilai berjasa memimpin investasi besar untuk memperkuat ekosistem industri mobilitas, berupaya mengatasi risiko perdagangan global, dan mendukung pertumbuhan bersama ekosistem otomotif. Ia mengatakan menganggapnya sebagai “penghargaan untuk kita semua.” Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "bec32e11ec60",
-    "slug": "lg유플러스-ai-통화-비서-익시오-말레이시아-첫-수출길-114374",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T23:33:54.282Z",
-    "updatedAt": "2026-05-12T23:33:54.282Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908510/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908510/2",
-    "titleFingerprint": "dfedb4b193c824bb0b87e214ece777ad846fce93",
-    "dedupKeys": [
-      "bec32e11ec60a1f3405616ad3d43b2f1286c21c5",
-      "dfedb4b193c824bb0b87e214ece777ad846fce93",
-      "db09ce8751acfdd5c58ce870bfcf66aa66137cbe"
-    ],
-    "imageUrl": "/images/articles/bec32e11ec60.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG유플러스 AI 통화 비서 익시오, 말레이시아 맥시스 통해 첫 해외 상용화",
-        "excerpt": "LG유플러스가 12일 AI 통화 서비스 익시오의 말레이시아 수출을 공식 발표했다. 현지 최대 통신사 맥시스와 상용 출시에 합의하며 첫 소프트웨어 수출 사례를 만들었다.",
-        "body": "LG유플러스가 AI 통화 비서 ‘익시오(ixi-O)’를 말레이시아에 수출한다. 회사는 12일 가입자 1000만 명을 둔 말레이시아 최대 통신사 맥시스(Maxis)와 익시오의 현지 상용 출시에 합의했다고 공식 발표했다. 홍범식 LG유플러스 대표는 전날 사내 소셜미디어를 통해 이 소식을 직원들에게 먼저 전했다. 익시오는 음성-문자 변환을 넘어 사용자의 의도와 감정, 대화 맥락을 읽고 맞춤형 답변을 제공하는 AI 통화 서비스다. 홍 대표는 이번 수출을 회사 역사상 첫 소프트웨어 수출이자 자체 기획·개발 AI 서비스를 해외에 판매한 첫 사례로 설명했다. 앞서 그는 MWC26에서 익시오를 앞세워 연내 1, 2개국 수출을 이루겠다고 밝힌 바 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "LG Uplus AI Call Assistant ixi-O Heads to Malaysia in First Overseas Launch",
-        "excerpt": "LG Uplus said on May 12 it will export its AI calling service ixi-O to Malaysia, agreeing with Maxis, the country’s largest telecom carrier, on a local commercial launch.",
-        "body": "LG Uplus is exporting its AI call assistant ‘ixi-O’ to Malaysia. On May 12, the company officially announced that it had agreed with Maxis, Malaysia’s largest telecom operator with 10 million subscribers, to launch ixi-O commercially in the local market. CEO Hong Beom-sik had shared the news with employees a day earlier through the company’s internal social media. ixi-O is an AI calling service that goes beyond voice-to-text conversion by reading user intent, emotion and conversational context to provide tailored responses. Hong described the deal as the company’s first software export and its first overseas sale of an AI service planned and developed in-house. At MWC26, he had said LG Uplus aimed to export ixi-O to one or two countries within the year. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "LGユープラスAI通話秘書ixi-O、マレーシアMaxisで初の海外商用化へ",
-        "excerpt": "LGユープラスは12日、AI通話サービスixi-Oをマレーシアに輸出すると発表した。最大手通信会社Maxisとの現地商用化合意で、初のソフトウェア輸出となる。",
-        "body": "LGユープラスはAI通話秘書「ixi-O」をマレーシアに輸出する。会社は12日、加入者1000万人を抱えるマレーシア最大の通信会社Maxisと、ixi-Oの現地商用サービス開始で合意したと正式に発表した。洪範植代表は前日、社内ソーシャルメディアでこのニュースを社員に先に伝えていた。ixi-Oは単なる音声の文字化にとどまらず、利用者の意図や感情、会話の文脈まで読み取り、個別化された回答を提示するAI通話サービスだ。洪代表は今回の輸出について、会社史上初のソフトウェア輸出であり、自社が企画・開発したAIサービスを海外で販売する初の事例だと説明した。洪代表はMWC26で、ixi-Oを前面に出して年内に1、2カ国への輸出を実現すると表明していた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "LG Uplus AI通话助手ixi-O首出口马来西亚，将由Maxis商用推出",
-        "excerpt": "LG Uplus于12日宣布，AI通话服务ixi-O将出口马来西亚，并与当地最大通信运营商Maxis达成商用上线协议，成为公司首个软件出口案例。",
-        "body": "LG Uplus将把AI通话助手“ixi-O”出口至马来西亚。公司12日正式宣布，已与拥有1000万用户的马来西亚最大通信运营商Maxis达成协议，将在当地商用推出ixi-O。LG Uplus代表洪范植前一天已通过公司内部社交媒体先向员工传达了这一消息。ixi-O并不止于语音转文字，而是能够读取用户意图、情绪和对话语境，并提供定制化回答的AI通话服务。洪范植表示，此次出口是公司历史上首次软件出口，也是首次将自主策划和开发的AI服务销售到海外。他此前在MWC26上曾表示，将以ixi-O为核心，力争年内实现向一两个国家出口。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "LG Uplus exporta su asistente de llamadas con IA ixi-O a Malasia con Maxis",
-        "excerpt": "LG Uplus anunció el 12 de mayo la exportación de ixi-O a Malasia tras acordar con Maxis, la mayor teleco local, su lanzamiento comercial, el primer caso de exportación de software de la firma.",
-        "body": "LG Uplus exportará a Malasia su asistente de llamadas con IA ‘ixi-O’. La compañía anunció oficialmente el 12 de mayo que acordó con Maxis, el mayor operador de telecomunicaciones de Malasia con 10 millones de abonados, el lanzamiento comercial local del servicio. Un día antes, el CEO Hong Beom-sik había comunicado la noticia a los empleados en la red social interna de la empresa. ixi-O es un servicio de llamadas con IA que va más allá de convertir voz en texto: interpreta la intención, la emoción y el contexto de la conversación para ofrecer respuestas personalizadas. Hong afirmó que se trata de la primera exportación de software en la historia de la compañía y del primer caso de venta exterior de un servicio de IA planificado y desarrollado internamente. En MWC26, ya había dicho que buscaba exportar ixi-O a uno o dos países este año. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "LG Uplus leva assistente de chamadas com IA ixi-O à Malásia via Maxis",
-        "excerpt": "A LG Uplus anunciou em 12 de maio a exportação do ixi-O para a Malásia, após acordo com a Maxis, maior operadora local, para o lançamento comercial do serviço de chamadas com IA.",
-        "body": "A LG Uplus vai exportar para a Malásia seu assistente de chamadas com IA ‘ixi-O’. Em 12 de maio, a empresa anunciou oficialmente que fechou um acordo com a Maxis, maior operadora de telecomunicações da Malásia, com 10 milhões de assinantes, para lançar comercialmente o serviço no país. Um dia antes, o CEO Hong Beom-sik havia informado os funcionários pela rede social interna da companhia. O ixi-O é um serviço de chamadas com IA que vai além da conversão de voz em texto, lendo intenção, emoção e contexto da conversa para oferecer respostas personalizadas. Hong afirmou que esta é a primeira exportação de software da história da empresa e o primeiro caso de venda internacional de um serviço de IA planejado e desenvolvido internamente. No MWC26, ele havia dito que pretendia exportar o ixi-O para um ou dois países ainda neste ano. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "LG Uplus bringt KI-Anrufassistent ixi-O mit Maxis erstmals nach Malaysia",
-        "excerpt": "LG Uplus kündigte am 12. Mai den Export seines KI-Anrufdienstes ixi-O nach Malaysia an. Mit Maxis, dem größten Telekommunikationsanbieter des Landes, wurde ein lokaler Marktstart vereinbart.",
-        "body": "LG Uplus exportiert seinen KI-Anrufassistenten ‘ixi-O’ nach Malaysia. Das Unternehmen gab am 12. Mai offiziell bekannt, mit Maxis, Malaysias größtem Telekommunikationsanbieter mit 10 Millionen Kunden, eine lokale kommerzielle Einführung vereinbart zu haben. CEO Hong Beom-sik hatte die Nachricht bereits am Vortag über das interne soziale Netzwerk des Unternehmens an die Beschäftigten weitergegeben. ixi-O ist ein KI-Anrufdienst, der über reine Sprach-zu-Text-Umwandlung hinausgeht und Absicht, Emotionen sowie Gesprächskontext der Nutzer erfasst, um passende Antworten zu liefern. Hong bezeichnete den Schritt als ersten Softwareexport in der Unternehmensgeschichte und als ersten Auslandsverkauf eines selbst geplanten und entwickelten KI-Dienstes. Auf dem MWC26 hatte er angekündigt, ixi-O noch in diesem Jahr in ein oder zwei Länder exportieren zu wollen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "LG Uplus lance son assistant d’appels IA ixi-O en Malaisie avec Maxis",
-        "excerpt": "LG Uplus a annoncé le 12 mai l’exportation de son service d’appels IA ixi-O vers la Malaisie, après un accord avec Maxis, premier opérateur local, pour un lancement commercial.",
-        "body": "LG Uplus va exporter en Malaisie son assistant d’appels IA « ixi-O ». Le 12 mai, l’entreprise a annoncé officiellement avoir conclu un accord avec Maxis, le premier opérateur télécoms malaisien qui compte 10 millions d’abonnés, pour un lancement commercial local du service. La veille, le PDG Hong Beom-sik avait d’abord partagé la nouvelle avec les employés sur le réseau social interne de l’entreprise. ixi-O est un service d’appels IA qui ne se limite pas à la conversion voix-texte: il analyse l’intention, l’émotion et le contexte de la conversation afin de fournir des réponses personnalisées. Hong a présenté cette opération comme la première exportation de logiciel de l’histoire de l’entreprise et la première vente à l’étranger d’un service IA conçu et développé en interne. Au MWC26, il avait déclaré viser l’exportation d’ixi-O vers un ou deux pays cette année. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "LG Uplus تصدر مساعد المكالمات بالذكاء الاصطناعي ixi-O إلى ماليزيا عبر Maxis",
-        "excerpt": "أعلنت LG Uplus في 12 مايو تصدير خدمة المكالمات بالذكاء الاصطناعي ixi-O إلى ماليزيا بعد اتفاق مع Maxis، أكبر شركة اتصالات محلية، لإطلاقها تجاريا هناك.",
-        "body": "تستعد LG Uplus لتصدير مساعد المكالمات بالذكاء الاصطناعي «ixi-O» إلى ماليزيا. وأعلنت الشركة رسميا في 12 مايو أنها اتفقت مع Maxis، أكبر شركة اتصالات في ماليزيا ولديها 10 ملايين مشترك، على الإطلاق التجاري المحلي للخدمة. وكان الرئيس التنفيذي هونغ بوم-سيك قد أبلغ الموظفين بالخبر قبل يوم عبر منصة التواصل الاجتماعي الداخلية للشركة. ولا تقتصر ixi-O على تحويل الصوت إلى نص، بل تقرأ نية المستخدم ومشاعره وسياق المحادثة لتقديم ردود مخصصة. ووصف هونغ الصفقة بأنها أول تصدير برمجي في تاريخ الشركة وأول حالة تبيع فيها خدمة ذكاء اصطناعي خططت لها وطورتها داخليا إلى الخارج. وكان قد قال في MWC26 إن الشركة تستهدف تصدير ixi-O إلى دولة أو دولتين خلال العام. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "LG Uplus का AI कॉल असिस्टेंट ixi-O Maxis के जरिए मलेशिया में पहली बार जाएगा",
-        "excerpt": "LG Uplus ने 12 मई को बताया कि उसकी AI कॉल सेवा ixi-O मलेशिया निर्यात होगी। कंपनी ने स्थानीय सबसे बड़ी दूरसंचार कंपनी Maxis के साथ वाणिज्यिक लॉन्च पर सहमति बनाई है।",
-        "body": "LG Uplus अपना AI कॉल असिस्टेंट ‘ixi-O’ मलेशिया निर्यात करेगी। कंपनी ने 12 मई को आधिकारिक रूप से घोषणा की कि उसने 1 करोड़ ग्राहकों वाली मलेशिया की सबसे बड़ी दूरसंचार कंपनी Maxis के साथ ixi-O के स्थानीय वाणिज्यिक लॉन्च पर सहमति बनाई है। CEO Hong Beom-sik ने एक दिन पहले कंपनी के आंतरिक सोशल मीडिया पर कर्मचारियों को यह जानकारी दी थी। ixi-O केवल वॉयस-टू-टेक्स्ट सेवा नहीं है; यह उपयोगकर्ता की मंशा, भावना और बातचीत के संदर्भ को पढ़कर अनुकूलित उत्तर देती है। Hong ने इस निर्यात को कंपनी के इतिहास का पहला सॉफ्टवेयर निर्यात और खुद योजना बनाकर विकसित की गई AI सेवा की पहली विदेशी बिक्री बताया। उन्होंने MWC26 में कहा था कि ixi-O के जरिए इस साल एक या दो देशों को निर्यात हासिल करने का लक्ष्य है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "LG Uplus Ekspor Asisten Panggilan AI ixi-O ke Malaysia Lewat Maxis",
-        "excerpt": "LG Uplus pada 12 Mei mengumumkan ekspor layanan panggilan AI ixi-O ke Malaysia setelah sepakat dengan Maxis, operator telekomunikasi terbesar setempat, untuk peluncuran komersial.",
-        "body": "LG Uplus akan mengekspor asisten panggilan AI ‘ixi-O’ ke Malaysia. Pada 12 Mei, perusahaan secara resmi mengumumkan telah sepakat dengan Maxis, operator telekomunikasi terbesar di Malaysia dengan 10 juta pelanggan, untuk meluncurkan ixi-O secara komersial di pasar lokal. CEO Hong Beom-sik sudah menyampaikan kabar itu kepada karyawan sehari sebelumnya melalui media sosial internal perusahaan. ixi-O adalah layanan panggilan AI yang tidak hanya mengubah suara menjadi teks, tetapi juga membaca maksud, emosi, dan konteks percakapan pengguna untuk memberi jawaban yang disesuaikan. Hong menyebut ekspor ini sebagai ekspor perangkat lunak pertama dalam sejarah perusahaan sekaligus kasus pertama penjualan layanan AI yang dirancang dan dikembangkan sendiri ke luar negeri. Di MWC26, ia pernah menyatakan target mengekspor ixi-O ke satu atau dua negara tahun ini. Sumber: rss.donga.com"
       }
     }
   }
