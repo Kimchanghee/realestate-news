@@ -1,0 +1,75 @@
+{
+  "id": "86a57d6e4dea",
+  "slug": "메타-직원들-마우스-추적-강행-사내-반발-확산-334967",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-13T19:15:52.992Z",
+  "updatedAt": "2026-05-13T19:15:52.992Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917021/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917021/2",
+  "titleFingerprint": "0101a54e27f90a2086980539082dad0be67922bf",
+  "dedupKeys": [
+    "86a57d6e4deaeb5764f60724590b0d6edb9ebcb0",
+    "0101a54e27f90a2086980539082dad0be67922bf",
+    "5a0f733df55e294a14fc0472b746952e1a93afc9"
+  ],
+  "imageUrl": "/images/articles/86a57d6e4dea.jpg",
+  "i18n": {
+    "ko": {
+      "title": "메타 ‘마우스 추적’ 소프트웨어 도입 추진에 직원 반발 확산",
+      "excerpt": "메타가 AI 에이전트 개발을 위해 직원들의 마우스 이동, 클릭, 키 입력 등 작업 데이터를 수집하려 하자 직원들이 전단지와 온라인 청원으로 반발하고 있다.",
+      "body": "메타가 인공지능(AI) 에이전트 개발을 위해 직원들의 실제 컴퓨터 사용 데이터를 수집하려는 프로젝트를 추진하면서 사내 반발이 커지고 있다. 12일(현지 시간) 로이터통신에 따르면 메타 직원들은 회사의 ‘마우스 추적 소프트웨어’ 도입에 반대하는 전단지를 돌리고 온라인 청원도 시작했다. 메타는 지난달부터 직원들의 마우스 이동 경로, 클릭, 키 입력 등 작업 데이터를 AI 에이전트 학습에 활용하는 방안을 추진해 왔다. 전단지에는 “직원 데이터를 쥐어짜는 공장에서 일하고 싶으신가요?”라는 문구가 담겼고, 청원에는 동의 없는 직원 데이터 추출이 기업 관행이 돼서는 안 된다는 주장이 실렸다. 앤디 스톤 메타 대변인은 실제 사용 사례가 필요하다는 기존 입장을 인용했다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Meta’s Mouse-Tracking Software Plan Sparks Growing Employee Backlash",
+      "excerpt": "Meta is facing employee resistance after seeking to collect mouse movements, clicks and keystrokes to train AI agents, with staff circulating flyers and launching an online petition.",
+      "body": "Meta is facing growing internal backlash over a project to collect employees’ real computer-use data for artificial intelligence agent development. Reuters reported on the 12th local time that Meta employees circulated flyers opposing the company’s planned “mouse-tracking software” and also launched an online petition. Since last month, Meta has been pursuing a plan to use employees’ mouse movement paths, clicks and keystrokes as training data for AI agents. The flyer included the line, “Do you want to work in a factory that squeezes employee data?” The petition argued that extracting employee data without consent for AI training should not become normal corporate practice. Meta spokesperson Andy Stone cited the company’s earlier position that real use cases are needed to develop AI agents that help with everyday computer tasks. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "メタの『マウス追跡』導入計画に社員反発、AI学習データ巡り波紋",
+      "excerpt": "メタがAIエージェント開発のため、社員のマウス移動やクリック、キー入力などの作業データを収集しようとし、社員がチラシとオンライン請願で反発している。",
+      "body": "メタが人工知能（AI）エージェント開発のため、社員の実際のコンピューター利用データを収集するプロジェクトを進め、社内の反発が広がっている。ロイター通信は現地時間12日、メタ社員が会社の「マウス追跡ソフトウェア」導入に反対するチラシを配布し、オンライン請願も始めたと伝えた。メタは先月から、社員のマウス移動経路、クリック、キー入力などの作業データをAIエージェントの学習に活用する案を進めている。チラシには「社員データを搾り取る工場で働きたいですか」という文言があり、請願では同意なしに社員データを抽出してAI学習に使うことが企業の当然の慣行になってはならないと主張した。メタのアンディ・ストーン報道担当者は、日常的なコンピューター作業を助けるAIエージェントには実際の利用事例が必要だとする従来の立場を引用した。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "Meta推进“鼠标追踪”软件引发员工反弹，AI训练数据成焦点",
+      "excerpt": "Meta为开发AI智能体，拟收集员工鼠标移动、点击和键盘输入等工作数据，引发员工散发传单并发起线上请愿反对。",
+      "body": "Meta因推进一项收集员工真实电脑使用数据、用于人工智能（AI）智能体开发的项目，正面临内部反弹。路透社当地时间12日报道称，Meta员工正在散发反对公司引入“鼠标追踪软件”的传单，并已发起线上请愿。Meta自上月起推动将员工鼠标移动轨迹、点击、键盘输入等工作数据用于AI智能体训练。传单中写有“你想在榨取员工数据的工厂工作吗？”请愿则主张，未经同意提取员工数据并用于AI训练，不应成为企业理所当然的惯例。Meta发言人安迪·斯通援引公司此前立场称，要开发帮助人们完成日常电脑工作的AI智能体，需要真实使用案例。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Meta impulsa rastreo de mouse para IA y crece el rechazo de empleados",
+      "excerpt": "Meta intenta recopilar movimientos del mouse, clics y pulsaciones de teclado de empleados para entrenar agentes de IA, lo que provocó volantes de protesta y una petición en línea.",
+      "body": "Meta enfrenta una creciente reacción interna por un proyecto para recopilar datos reales de uso de computadoras de sus empleados con el fin de desarrollar agentes de inteligencia artificial. Reuters informó el día 12, hora local, que empleados de Meta distribuyeron volantes contra la introducción del “software de rastreo de mouse” de la empresa y también iniciaron una petición en línea. Desde el mes pasado, Meta impulsa el uso de trayectorias del mouse, clics y pulsaciones de teclado de empleados como datos de entrenamiento para agentes de IA. El volante decía: “¿Quiere trabajar en una fábrica que exprime datos de empleados?” La petición sostuvo que extraer datos de empleados sin consentimiento para entrenar IA no debe convertirse en una práctica corporativa normal. El portavoz de Meta, Andy Stone, citó la postura previa de la compañía: se necesitan casos reales de uso para desarrollar agentes de IA que ayuden en tareas informáticas cotidianas. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Meta quer rastrear mouse de funcionários para IA e enfrenta reação interna",
+      "excerpt": "A Meta tenta coletar movimentos do mouse, cliques e teclas digitadas por funcionários para treinar agentes de IA, provocando panfletos de protesto e uma petição online.",
+      "body": "A Meta enfrenta crescente resistência interna por um projeto de coleta de dados reais de uso de computadores por funcionários para desenvolver agentes de inteligência artificial. A Reuters informou no dia 12, horário local, que funcionários da Meta distribuíram panfletos contra a adoção do “software de rastreamento de mouse” da empresa e também iniciaram uma petição online. Desde o mês passado, a Meta vem buscando usar trajetórias do mouse, cliques e teclas digitadas por funcionários como dados de treinamento para agentes de IA. O panfleto dizia: “Você quer trabalhar em uma fábrica que espreme dados de funcionários?” A petição afirmou que extrair dados de funcionários sem consentimento para treinar IA não deve se tornar uma prática corporativa normal. O porta-voz da Meta, Andy Stone, citou a posição anterior da empresa de que casos reais de uso são necessários para desenvolver agentes de IA que ajudem nas tarefas diárias no computador. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Meta plant Maus-Tracking für KI-Agenten, Mitarbeiterprotest nimmt zu",
+      "excerpt": "Meta will für die Entwicklung von KI-Agenten Mausbewegungen, Klicks und Tastatureingaben von Beschäftigten sammeln; Mitarbeiter reagieren mit Flugblättern und einer Online-Petition.",
+      "body": "Meta sieht sich wachsendem internem Widerstand gegen ein Projekt ausgesetzt, bei dem reale Computernutzungsdaten von Beschäftigten für die Entwicklung von KI-Agenten gesammelt werden sollen. Reuters berichtete am 12. Ortszeit, dass Meta-Mitarbeiter Flugblätter gegen die Einführung einer „Maus-Tracking-Software“ verteilten und zudem eine Online-Petition starteten. Seit dem vergangenen Monat verfolgt Meta den Plan, Mausbewegungen, Klicks und Tastatureingaben von Beschäftigten als Trainingsdaten für KI-Agenten zu nutzen. Auf dem Flugblatt stand: „Wollen Sie in einer Fabrik arbeiten, die Mitarbeiterdaten auspresst?“ In der Petition hieß es, die Nutzung von Mitarbeiterdaten ohne Zustimmung für KI-Training dürfe nicht zur selbstverständlichen Unternehmenspraxis werden. Meta-Sprecher Andy Stone verwies auf die frühere Position des Unternehmens, wonach reale Anwendungsfälle nötig seien, um KI-Agenten für alltägliche Computeraufgaben zu entwickeln. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Meta veut suivre la souris des employés pour l’IA, la contestation grandit",
+      "excerpt": "Meta cherche à collecter mouvements de souris, clics et frappes de ses employés pour entraîner des agents d’IA, déclenchant des tracts de protestation et une pétition en ligne.",
+      "body": "Meta fait face à une contestation interne croissante autour d’un projet visant à collecter les données réelles d’utilisation des ordinateurs par ses employés pour développer des agents d’intelligence artificielle. Reuters a rapporté le 12, heure locale, que des employés de Meta distribuaient des tracts contre l’introduction du « logiciel de suivi de souris » de l’entreprise et avaient aussi lancé une pétition en ligne. Depuis le mois dernier, Meta cherche à utiliser les déplacements de souris, les clics et les frappes clavier des employés comme données d’entraînement pour des agents d’IA. Le tract demandait : « Voulez-vous travailler dans une usine qui essore les données des employés ? » La pétition affirme que l’extraction de données d’employés sans consentement pour entraîner l’IA ne doit pas devenir une pratique normale des entreprises. Le porte-parole de Meta, Andy Stone, a cité la position antérieure de l’entreprise selon laquelle des cas d’usage réels sont nécessaires pour développer des agents d’IA aidant aux tâches informatiques quotidiennes. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "ميتا تمضي في تتبع حركة الفأرة لتدريب الذكاء الاصطناعي والموظفون يعترضون",
+      "excerpt": "تواجه ميتا اعتراضا داخليا بعدما سعت لجمع حركة الفأرة والنقرات وضغطات المفاتيح لدى الموظفين لتدريب وكلاء ذكاء اصطناعي، مع منشورات احتجاجية وعريضة إلكترونية.",
+      "body": "تواجه ميتا اتساعا في الاعتراض الداخلي على مشروع لجمع بيانات الاستخدام الفعلي لأجهزة الكمبيوتر لدى الموظفين من أجل تطوير وكلاء للذكاء الاصطناعي. وذكرت رويترز في 12 بالتوقيت المحلي أن موظفي ميتا وزعوا منشورات تعارض إدخال الشركة «برنامج تتبع الفأرة»، كما بدأوا عريضة إلكترونية. ومنذ الشهر الماضي، تدفع ميتا باتجاه استخدام مسارات حركة الفأرة والنقرات وضغطات المفاتيح لدى الموظفين كبيانات تدريب لوكلاء الذكاء الاصطناعي. وتضمن المنشور عبارة: «هل تريدون العمل في مصنع يعصر بيانات الموظفين؟» وجاء في العريضة أن استخراج بيانات الموظفين من دون موافقة واستخدامها في تدريب الذكاء الاصطناعي يجب ألا يصبح ممارسة مؤسسية طبيعية. واستشهد المتحدث باسم ميتا آندي ستون بموقف الشركة السابق بأن تطوير وكلاء ذكاء اصطناعي يساعدون في مهام الكمبيوتر اليومية يحتاج إلى حالات استخدام فعلية. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "Meta के माउस-ट्रैकिंग सॉफ्टवेयर पर कर्मचारियों का विरोध तेज",
+      "excerpt": "Meta एआई एजेंट विकसित करने के लिए कर्मचारियों की माउस मूवमेंट, क्लिक और कीस्ट्रोक जैसे कार्य डेटा जुटाना चाहती है, जिसके खिलाफ पर्चे और ऑनलाइन याचिका शुरू हुई।",
+      "body": "Meta कृत्रिम बुद्धिमत्ता (AI) एजेंट विकसित करने के लिए कर्मचारियों के वास्तविक कंप्यूटर उपयोग डेटा को जुटाने वाली परियोजना आगे बढ़ा रही है, जिससे कंपनी के भीतर विरोध बढ़ रहा है। Reuters ने स्थानीय समयानुसार 12 तारीख को बताया कि Meta कर्मचारियों ने कंपनी के “माउस-ट्रैकिंग सॉफ्टवेयर” के विरोध में पर्चे बांटे और ऑनलाइन याचिका भी शुरू की। Meta पिछले महीने से कर्मचारियों की माउस मूवमेंट, क्लिक और कीबोर्ड इनपुट जैसे कार्य डेटा को AI एजेंटों के प्रशिक्षण में इस्तेमाल करने की योजना पर काम कर रही है। पर्चे में लिखा था, “क्या आप ऐसी फैक्टरी में काम करना चाहते हैं जो कर्मचारियों का डेटा निचोड़ती है?” याचिका में कहा गया कि सहमति के बिना कर्मचारी डेटा निकालकर AI प्रशिक्षण में इस्तेमाल करना कंपनियों की सामान्य प्रथा नहीं बनना चाहिए। Meta के प्रवक्ता Andy Stone ने कंपनी के पहले के रुख का हवाला दिया कि रोजमर्रा के कंप्यूटर कार्यों में मदद करने वाले AI एजेंट बनाने के लिए वास्तविक उपयोग मामलों की जरूरत है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Meta Dorong Pelacakan Mouse untuk AI, Penolakan Karyawan Meluas",
+      "excerpt": "Meta berupaya mengumpulkan gerakan mouse, klik, dan ketikan karyawan untuk melatih agen AI, memicu perlawanan lewat selebaran dan petisi online.",
+      "body": "Meta menghadapi penolakan internal yang meningkat atas proyek pengumpulan data penggunaan komputer nyata karyawan untuk pengembangan agen kecerdasan buatan. Reuters melaporkan pada tanggal 12 waktu setempat bahwa karyawan Meta menyebarkan selebaran menentang penerapan “perangkat lunak pelacakan mouse” perusahaan dan juga memulai petisi online. Sejak bulan lalu, Meta mendorong penggunaan jalur gerakan mouse, klik, dan input keyboard karyawan sebagai data pelatihan bagi agen AI. Selebaran itu memuat kalimat, “Apakah Anda ingin bekerja di pabrik yang memeras data karyawan?” Petisi tersebut menyatakan bahwa pengambilan data karyawan tanpa persetujuan untuk pelatihan AI tidak boleh menjadi praktik perusahaan yang dianggap wajar. Juru bicara Meta, Andy Stone, mengutip posisi perusahaan sebelumnya bahwa kasus penggunaan nyata diperlukan untuk mengembangkan agen AI yang membantu pekerjaan komputer sehari-hari. Sumber: rss.donga.com"
+    }
+  }
+}

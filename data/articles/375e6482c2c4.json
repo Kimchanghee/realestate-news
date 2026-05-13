@@ -1,0 +1,75 @@
+{
+  "id": "375e6482c2c4",
+  "slug": "구글-스페이스x-우주-데이터센터-구축-손잡았다-957138",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-13T19:14:46.691Z",
+  "updatedAt": "2026-05-13T19:14:46.691Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917029/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917029/2",
+  "titleFingerprint": "57ca327c9afd06633af6f6e4d31b7a284b529a4d",
+  "dedupKeys": [
+    "375e6482c2c4b996bbdf7a906b6e5a8b17936432",
+    "57ca327c9afd06633af6f6e4d31b7a284b529a4d",
+    "1daa34378819db8df54c47fe53042efae5d23db7"
+  ],
+  "imageUrl": "/images/articles/375e6482c2c4.jpg",
+  "i18n": {
+    "ko": {
+      "title": "구글·스페이스X, 우주 데이터센터 구축 협력 논의 본격화",
+      "excerpt": "구글이 12일(현지 시간) 스페이스X와 로켓 발사 계약을 협상 중인 것으로 알려지며, AI 확산으로 부족해진 데이터센터 인프라의 대안으로 우주 데이터센터가 주목받고 있다.",
+      "body": "구글과 스페이스X가 우주 데이터센터 설립을 위한 협력 가능성을 논의하고 있다. 12일(현지 시간) 월스트리트저널(WSJ)에 따르면, 그동안 우주 데이터센터 확보에 관심을 보여 온 구글은 스페이스X와 로켓 발사 계약을 협상 중이다. 계약이 체결되면 두 회사는 지구 저궤도에 ‘군집 데이터센터’를 구축하는 데 협력하게 된다. AI 열풍이 수년째 이어지며 데이터센터 인프라 부족이 커지자 빅테크와 우주 기업들이 새로운 시장 개척에 나서는 흐름이다. 우주 데이터센터는 자연 냉각이 가능하고 태양광으로 전력을 생산할 수 있다는 점에서 비용 효율성이 높다는 평가를 받는다. WSJ는 구글이 다른 로켓 발사 기업들과도 거래를 논의 중이라고 전했다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Google and SpaceX Discuss Space Data Center Launch Partnership",
+      "excerpt": "Google is reportedly negotiating a rocket launch deal with SpaceX as AI-driven demand strains data center infrastructure and interest grows in orbital data centers.",
+      "body": "Google and SpaceX are discussing a possible partnership to build space-based data centers. According to The Wall Street Journal on the 12th local time, Google, which has shown interest in securing space data center capacity, is negotiating a rocket launch contract with SpaceX. If the deal is finalized, the two companies would cooperate on building a “cluster data center” in low Earth orbit. The move comes as years of AI momentum have intensified shortages in data center infrastructure, prompting big tech firms and space companies to explore a new market. Space data centers are drawing attention because they can use natural cooling and generate power with solar energy, making them viewed as cost-efficient. WSJ also reported that Google is discussing launch deals with other rocket companies. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "グーグルとスペースX、宇宙データセンター構築で協議加速",
+      "excerpt": "グーグルが12日（現地時間）、スペースXとロケット打ち上げ契約を交渉中と報じられ、AI需要で不足するデータセンター基盤の代替案として宇宙データセンターが注目されている。",
+      "body": "グーグルとスペースXが、宇宙データセンター設立に向けた協力の可能性を協議している。12日（現地時間）のウォール・ストリート・ジャーナル（WSJ）によると、これまで宇宙データセンターの確保に関心を示してきたグーグルは、スペースXとロケット打ち上げ契約を交渉中だ。契約が成立すれば、両社は地球低軌道に「群集データセンター」を構築するため協力することになる。AIブームが数年続き、データセンターインフラ不足が深刻化する中、ビッグテックと宇宙企業が新市場の開拓に動いている。宇宙データセンターは自然冷却が可能で、太陽光を活用して電力を生産できる点から、費用効率が高いと評価されている。WSJは、グーグルが他のロケット打ち上げ企業とも取引を協議していると伝えた。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "谷歌与SpaceX洽谈太空数据中心建设合作",
+      "excerpt": "据报道，谷歌于当地时间12日正与SpaceX洽谈火箭发射合同，随着AI热潮推高数据中心需求，太空数据中心作为替代基础设施受到关注。",
+      "body": "谷歌与SpaceX正在讨论建设太空数据中心的合作可能。当地时间12日，据《华尔街日报》（WSJ）报道，长期关注获取太空数据中心能力的谷歌，正与SpaceX就火箭发射合同进行谈判。若合同达成，两家公司将合作在近地轨道建设“集群数据中心”。随着人工智能热潮持续数年，数据中心基础设施短缺加剧，大型科技公司和太空企业正试图开拓新市场。太空数据中心因可实现自然冷却，并可利用太阳能发电，被认为具有较高成本效率。WSJ还称，谷歌目前也在与其他火箭发射企业讨论发射交易。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Google y SpaceX negocian impulsar centros de datos en el espacio",
+      "excerpt": "Google estaría negociando el 12, hora local, un contrato de lanzamiento con SpaceX mientras la demanda de IA agrava la falta de infraestructura de centros de datos.",
+      "body": "Google y SpaceX están analizando una posible cooperación para crear centros de datos en el espacio. Según The Wall Street Journal el día 12, hora local, Google, que ha mostrado interés en asegurar capacidad de centros de datos espaciales, negocia con SpaceX un contrato de lanzamiento de cohetes. Si el acuerdo se concreta, ambas compañías colaborarían en la construcción de un “centro de datos en clúster” en órbita terrestre baja. La iniciativa llega después de varios años de auge de la inteligencia artificial, que han intensificado la escasez de infraestructura de centros de datos y llevado a grandes tecnológicas y empresas espaciales a explorar un nuevo mercado. Los centros de datos espaciales atraen atención porque pueden usar enfriamiento natural y generar electricidad con energía solar, lo que se considera eficiente en costos. WSJ indicó además que Google conversa con otras empresas de lanzamiento. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Google e SpaceX discutem parceria para data centers no espaço",
+      "excerpt": "O Google estaria negociando em 12, horário local, um contrato de lançamento com a SpaceX, enquanto a expansão da IA aumenta a falta de infraestrutura de data centers.",
+      "body": "Google e SpaceX discutem uma possível cooperação para criar data centers no espaço. Segundo o The Wall Street Journal no dia 12, horário local, o Google, que já demonstrava interesse em garantir data centers espaciais, negocia com a SpaceX um contrato de lançamento de foguetes. Se o acordo for fechado, as duas empresas colaborarão para construir um “data center em cluster” na órbita baixa da Terra. A iniciativa ocorre em meio a vários anos de forte expansão da inteligência artificial, que ampliaram a escassez de infraestrutura de data centers e levaram big techs e empresas espaciais a buscar um novo mercado. Data centers espaciais chamam atenção por permitirem resfriamento natural e geração de energia solar, fatores vistos como eficientes em custo. O WSJ também informou que o Google conversa com outras empresas de lançamento. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Google und SpaceX verhandeln über Rechenzentren im All",
+      "excerpt": "Google soll am 12. Ortszeit mit SpaceX über einen Raketenstartvertrag verhandeln, während KI-Boom und knappe Rechenzentrumsinfrastruktur den Blick ins All lenken.",
+      "body": "Google und SpaceX sprechen über eine mögliche Zusammenarbeit beim Aufbau von Rechenzentren im Weltraum. Laut Wall Street Journal vom 12. Ortszeit verhandelt Google, das seit Längerem Interesse an Weltraum-Rechenzentren zeigt, mit SpaceX über einen Vertrag für Raketenstarts. Kommt die Vereinbarung zustande, würden beide Unternehmen gemeinsam ein „Cluster-Rechenzentrum“ in niedriger Erdumlaufbahn errichten. Hintergrund ist der seit Jahren anhaltende KI-Boom, der die Knappheit bei Rechenzentrumsinfrastruktur verschärft und große Technologiekonzerne sowie Raumfahrtunternehmen dazu bringt, einen neuen Markt zu erschließen. Weltraum-Rechenzentren gelten als kosteneffizient, weil natürliche Kühlung möglich ist und Strom mit Solarenergie erzeugt werden kann. Das WSJ berichtete zudem, Google spreche auch mit anderen Raketenstartunternehmen über entsprechende Deals. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Google et SpaceX discutent de centres de données dans l’espace",
+      "excerpt": "Google négocierait le 12, heure locale, un contrat de lancement avec SpaceX, alors que l’essor de l’IA accentue le manque d’infrastructures de centres de données.",
+      "body": "Google et SpaceX discutent d’une possible coopération pour créer des centres de données dans l’espace. Selon le Wall Street Journal le 12, heure locale, Google, qui s’intéresse depuis un certain temps aux capacités de centres de données spatiaux, négocie avec SpaceX un contrat de lancement de fusées. Si l’accord est conclu, les deux entreprises coopéreront à la construction d’un « centre de données en grappe » en orbite terrestre basse. Cette initiative intervient alors que l’essor de l’intelligence artificielle se poursuit depuis plusieurs années et aggrave la pénurie d’infrastructures de centres de données, poussant les grandes entreprises technologiques et spatiales à explorer un nouveau marché. Les centres de données spatiaux attirent l’attention car ils peuvent bénéficier du refroidissement naturel et produire de l’électricité grâce au solaire, ce qui est jugé rentable. Le WSJ a aussi indiqué que Google discute avec d’autres sociétés de lancement. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "غوغل وسبيس إكس تبحثان شراكة لبناء مراكز بيانات فضائية",
+      "excerpt": "أفادت تقارير في 12 بالتوقيت المحلي بأن غوغل تفاوض سبيس إكس على عقد إطلاق صاروخي، مع تزايد الاهتمام بمراكز البيانات الفضائية بسبب ضغط الطلب المرتبط بالذكاء الاصطناعي.",
+      "body": "تبحث غوغل وسبيس إكس إمكانية التعاون لإنشاء مراكز بيانات في الفضاء. ووفق ما نقلته وول ستريت جورنال في 12 بالتوقيت المحلي، فإن غوغل، التي أبدت اهتماما بالحصول على قدرات لمراكز بيانات فضائية، تجري مفاوضات مع سبيس إكس بشأن عقد إطلاق صاروخي. وإذا تم توقيع العقد، فستتعاون الشركتان في بناء «مركز بيانات عنقودي» في مدار أرضي منخفض. وتأتي هذه الخطوة مع استمرار موجة الذكاء الاصطناعي لسنوات، ما أدى إلى نقص في بنية مراكز البيانات ودفع شركات التقنية الكبرى وشركات الفضاء إلى استكشاف سوق جديدة. وتحظى مراكز البيانات الفضائية بالاهتمام لأنها تتيح التبريد الطبيعي وتوليد الكهرباء عبر الطاقة الشمسية، وهو ما يجعلها ذات كفاءة من حيث التكلفة. وذكرت الصحيفة أن غوغل تناقش أيضا صفقات إطلاق مع شركات صواريخ أخرى. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "गूगल और स्पेसएक्स अंतरिक्ष डेटा सेंटर साझेदारी पर बातचीत में",
+      "excerpt": "स्थानीय समयानुसार 12 तारीख को गूगल के स्पेसएक्स से रॉकेट लॉन्च अनुबंध पर बातचीत की खबर आई, जबकि AI मांग से डेटा सेंटर ढांचा कम पड़ रहा है।",
+      "body": "गूगल और स्पेसएक्स अंतरिक्ष में डेटा सेंटर स्थापित करने के लिए संभावित सहयोग पर चर्चा कर रहे हैं। स्थानीय समयानुसार 12 तारीख को वॉल स्ट्रीट जर्नल के अनुसार, अंतरिक्ष डेटा सेंटर क्षमता हासिल करने में रुचि दिखा चुका गूगल स्पेसएक्स के साथ रॉकेट लॉन्च अनुबंध पर बातचीत कर रहा है। यदि समझौता होता है, तो दोनों कंपनियां पृथ्वी की निचली कक्षा में “क्लस्टर डेटा सेंटर” बनाने में सहयोग करेंगी। यह कदम ऐसे समय में सामने आया है जब कई वर्षों से जारी AI उछाल ने डेटा सेंटर अवसंरचना की कमी को बढ़ा दिया है और बड़ी टेक कंपनियों तथा अंतरिक्ष कंपनियों को नए बाजार की ओर प्रेरित किया है। अंतरिक्ष डेटा सेंटर इसलिए ध्यान खींच रहे हैं क्योंकि उनमें प्राकृतिक शीतलन संभव है और सौर ऊर्जा से बिजली पैदा की जा सकती है, जिससे उन्हें लागत के लिहाज से प्रभावी माना जाता है। WSJ ने बताया कि गूगल अन्य रॉकेट लॉन्च कंपनियों से भी बातचीत कर रहा है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Google dan SpaceX Bahas Kerja Sama Pusat Data Antariksa",
+      "excerpt": "Google dilaporkan pada 12 waktu setempat sedang bernegosiasi dengan SpaceX soal kontrak peluncuran roket, saat lonjakan AI memperbesar kekurangan infrastruktur pusat data.",
+      "body": "Google dan SpaceX sedang membahas kemungkinan kerja sama untuk membangun pusat data di antariksa. Menurut The Wall Street Journal pada 12 waktu setempat, Google, yang selama ini menunjukkan minat untuk mengamankan pusat data antariksa, sedang bernegosiasi dengan SpaceX mengenai kontrak peluncuran roket. Jika kontrak tersebut tercapai, kedua perusahaan akan bekerja sama membangun “pusat data klaster” di orbit rendah Bumi. Langkah ini muncul ketika tren kecerdasan buatan yang berlangsung selama beberapa tahun memperparah kekurangan infrastruktur pusat data, sehingga perusahaan teknologi besar dan perusahaan antariksa mulai menjajaki pasar baru. Pusat data antariksa menarik perhatian karena memungkinkan pendinginan alami dan produksi listrik dengan tenaga surya, sehingga dinilai efisien dari sisi biaya. WSJ juga melaporkan bahwa Google sedang membahas kesepakatan peluncuran dengan perusahaan roket lain. Sumber: rss.donga.com"
+    }
+  }
+}

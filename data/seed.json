@@ -1,5 +1,230 @@
 [
   {
+    "id": "86a57d6e4dea",
+    "slug": "메타-직원들-마우스-추적-강행-사내-반발-확산-334967",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T19:15:52.992Z",
+    "updatedAt": "2026-05-13T19:15:52.992Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917021/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917021/2",
+    "titleFingerprint": "0101a54e27f90a2086980539082dad0be67922bf",
+    "dedupKeys": [
+      "86a57d6e4deaeb5764f60724590b0d6edb9ebcb0",
+      "0101a54e27f90a2086980539082dad0be67922bf",
+      "5a0f733df55e294a14fc0472b746952e1a93afc9"
+    ],
+    "imageUrl": "/images/articles/86a57d6e4dea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메타 ‘마우스 추적’ 소프트웨어 도입 추진에 직원 반발 확산",
+        "excerpt": "메타가 AI 에이전트 개발을 위해 직원들의 마우스 이동, 클릭, 키 입력 등 작업 데이터를 수집하려 하자 직원들이 전단지와 온라인 청원으로 반발하고 있다.",
+        "body": "메타가 인공지능(AI) 에이전트 개발을 위해 직원들의 실제 컴퓨터 사용 데이터를 수집하려는 프로젝트를 추진하면서 사내 반발이 커지고 있다. 12일(현지 시간) 로이터통신에 따르면 메타 직원들은 회사의 ‘마우스 추적 소프트웨어’ 도입에 반대하는 전단지를 돌리고 온라인 청원도 시작했다. 메타는 지난달부터 직원들의 마우스 이동 경로, 클릭, 키 입력 등 작업 데이터를 AI 에이전트 학습에 활용하는 방안을 추진해 왔다. 전단지에는 “직원 데이터를 쥐어짜는 공장에서 일하고 싶으신가요?”라는 문구가 담겼고, 청원에는 동의 없는 직원 데이터 추출이 기업 관행이 돼서는 안 된다는 주장이 실렸다. 앤디 스톤 메타 대변인은 실제 사용 사례가 필요하다는 기존 입장을 인용했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Meta’s Mouse-Tracking Software Plan Sparks Growing Employee Backlash",
+        "excerpt": "Meta is facing employee resistance after seeking to collect mouse movements, clicks and keystrokes to train AI agents, with staff circulating flyers and launching an online petition.",
+        "body": "Meta is facing growing internal backlash over a project to collect employees’ real computer-use data for artificial intelligence agent development. Reuters reported on the 12th local time that Meta employees circulated flyers opposing the company’s planned “mouse-tracking software” and also launched an online petition. Since last month, Meta has been pursuing a plan to use employees’ mouse movement paths, clicks and keystrokes as training data for AI agents. The flyer included the line, “Do you want to work in a factory that squeezes employee data?” The petition argued that extracting employee data without consent for AI training should not become normal corporate practice. Meta spokesperson Andy Stone cited the company’s earlier position that real use cases are needed to develop AI agents that help with everyday computer tasks. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "メタの『マウス追跡』導入計画に社員反発、AI学習データ巡り波紋",
+        "excerpt": "メタがAIエージェント開発のため、社員のマウス移動やクリック、キー入力などの作業データを収集しようとし、社員がチラシとオンライン請願で反発している。",
+        "body": "メタが人工知能（AI）エージェント開発のため、社員の実際のコンピューター利用データを収集するプロジェクトを進め、社内の反発が広がっている。ロイター通信は現地時間12日、メタ社員が会社の「マウス追跡ソフトウェア」導入に反対するチラシを配布し、オンライン請願も始めたと伝えた。メタは先月から、社員のマウス移動経路、クリック、キー入力などの作業データをAIエージェントの学習に活用する案を進めている。チラシには「社員データを搾り取る工場で働きたいですか」という文言があり、請願では同意なしに社員データを抽出してAI学習に使うことが企業の当然の慣行になってはならないと主張した。メタのアンディ・ストーン報道担当者は、日常的なコンピューター作業を助けるAIエージェントには実際の利用事例が必要だとする従来の立場を引用した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Meta推进“鼠标追踪”软件引发员工反弹，AI训练数据成焦点",
+        "excerpt": "Meta为开发AI智能体，拟收集员工鼠标移动、点击和键盘输入等工作数据，引发员工散发传单并发起线上请愿反对。",
+        "body": "Meta因推进一项收集员工真实电脑使用数据、用于人工智能（AI）智能体开发的项目，正面临内部反弹。路透社当地时间12日报道称，Meta员工正在散发反对公司引入“鼠标追踪软件”的传单，并已发起线上请愿。Meta自上月起推动将员工鼠标移动轨迹、点击、键盘输入等工作数据用于AI智能体训练。传单中写有“你想在榨取员工数据的工厂工作吗？”请愿则主张，未经同意提取员工数据并用于AI训练，不应成为企业理所当然的惯例。Meta发言人安迪·斯通援引公司此前立场称，要开发帮助人们完成日常电脑工作的AI智能体，需要真实使用案例。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Meta impulsa rastreo de mouse para IA y crece el rechazo de empleados",
+        "excerpt": "Meta intenta recopilar movimientos del mouse, clics y pulsaciones de teclado de empleados para entrenar agentes de IA, lo que provocó volantes de protesta y una petición en línea.",
+        "body": "Meta enfrenta una creciente reacción interna por un proyecto para recopilar datos reales de uso de computadoras de sus empleados con el fin de desarrollar agentes de inteligencia artificial. Reuters informó el día 12, hora local, que empleados de Meta distribuyeron volantes contra la introducción del “software de rastreo de mouse” de la empresa y también iniciaron una petición en línea. Desde el mes pasado, Meta impulsa el uso de trayectorias del mouse, clics y pulsaciones de teclado de empleados como datos de entrenamiento para agentes de IA. El volante decía: “¿Quiere trabajar en una fábrica que exprime datos de empleados?” La petición sostuvo que extraer datos de empleados sin consentimiento para entrenar IA no debe convertirse en una práctica corporativa normal. El portavoz de Meta, Andy Stone, citó la postura previa de la compañía: se necesitan casos reales de uso para desarrollar agentes de IA que ayuden en tareas informáticas cotidianas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Meta quer rastrear mouse de funcionários para IA e enfrenta reação interna",
+        "excerpt": "A Meta tenta coletar movimentos do mouse, cliques e teclas digitadas por funcionários para treinar agentes de IA, provocando panfletos de protesto e uma petição online.",
+        "body": "A Meta enfrenta crescente resistência interna por um projeto de coleta de dados reais de uso de computadores por funcionários para desenvolver agentes de inteligência artificial. A Reuters informou no dia 12, horário local, que funcionários da Meta distribuíram panfletos contra a adoção do “software de rastreamento de mouse” da empresa e também iniciaram uma petição online. Desde o mês passado, a Meta vem buscando usar trajetórias do mouse, cliques e teclas digitadas por funcionários como dados de treinamento para agentes de IA. O panfleto dizia: “Você quer trabalhar em uma fábrica que espreme dados de funcionários?” A petição afirmou que extrair dados de funcionários sem consentimento para treinar IA não deve se tornar uma prática corporativa normal. O porta-voz da Meta, Andy Stone, citou a posição anterior da empresa de que casos reais de uso são necessários para desenvolver agentes de IA que ajudem nas tarefas diárias no computador. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Meta plant Maus-Tracking für KI-Agenten, Mitarbeiterprotest nimmt zu",
+        "excerpt": "Meta will für die Entwicklung von KI-Agenten Mausbewegungen, Klicks und Tastatureingaben von Beschäftigten sammeln; Mitarbeiter reagieren mit Flugblättern und einer Online-Petition.",
+        "body": "Meta sieht sich wachsendem internem Widerstand gegen ein Projekt ausgesetzt, bei dem reale Computernutzungsdaten von Beschäftigten für die Entwicklung von KI-Agenten gesammelt werden sollen. Reuters berichtete am 12. Ortszeit, dass Meta-Mitarbeiter Flugblätter gegen die Einführung einer „Maus-Tracking-Software“ verteilten und zudem eine Online-Petition starteten. Seit dem vergangenen Monat verfolgt Meta den Plan, Mausbewegungen, Klicks und Tastatureingaben von Beschäftigten als Trainingsdaten für KI-Agenten zu nutzen. Auf dem Flugblatt stand: „Wollen Sie in einer Fabrik arbeiten, die Mitarbeiterdaten auspresst?“ In der Petition hieß es, die Nutzung von Mitarbeiterdaten ohne Zustimmung für KI-Training dürfe nicht zur selbstverständlichen Unternehmenspraxis werden. Meta-Sprecher Andy Stone verwies auf die frühere Position des Unternehmens, wonach reale Anwendungsfälle nötig seien, um KI-Agenten für alltägliche Computeraufgaben zu entwickeln. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Meta veut suivre la souris des employés pour l’IA, la contestation grandit",
+        "excerpt": "Meta cherche à collecter mouvements de souris, clics et frappes de ses employés pour entraîner des agents d’IA, déclenchant des tracts de protestation et une pétition en ligne.",
+        "body": "Meta fait face à une contestation interne croissante autour d’un projet visant à collecter les données réelles d’utilisation des ordinateurs par ses employés pour développer des agents d’intelligence artificielle. Reuters a rapporté le 12, heure locale, que des employés de Meta distribuaient des tracts contre l’introduction du « logiciel de suivi de souris » de l’entreprise et avaient aussi lancé une pétition en ligne. Depuis le mois dernier, Meta cherche à utiliser les déplacements de souris, les clics et les frappes clavier des employés comme données d’entraînement pour des agents d’IA. Le tract demandait : « Voulez-vous travailler dans une usine qui essore les données des employés ? » La pétition affirme que l’extraction de données d’employés sans consentement pour entraîner l’IA ne doit pas devenir une pratique normale des entreprises. Le porte-parole de Meta, Andy Stone, a cité la position antérieure de l’entreprise selon laquelle des cas d’usage réels sont nécessaires pour développer des agents d’IA aidant aux tâches informatiques quotidiennes. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ميتا تمضي في تتبع حركة الفأرة لتدريب الذكاء الاصطناعي والموظفون يعترضون",
+        "excerpt": "تواجه ميتا اعتراضا داخليا بعدما سعت لجمع حركة الفأرة والنقرات وضغطات المفاتيح لدى الموظفين لتدريب وكلاء ذكاء اصطناعي، مع منشورات احتجاجية وعريضة إلكترونية.",
+        "body": "تواجه ميتا اتساعا في الاعتراض الداخلي على مشروع لجمع بيانات الاستخدام الفعلي لأجهزة الكمبيوتر لدى الموظفين من أجل تطوير وكلاء للذكاء الاصطناعي. وذكرت رويترز في 12 بالتوقيت المحلي أن موظفي ميتا وزعوا منشورات تعارض إدخال الشركة «برنامج تتبع الفأرة»، كما بدأوا عريضة إلكترونية. ومنذ الشهر الماضي، تدفع ميتا باتجاه استخدام مسارات حركة الفأرة والنقرات وضغطات المفاتيح لدى الموظفين كبيانات تدريب لوكلاء الذكاء الاصطناعي. وتضمن المنشور عبارة: «هل تريدون العمل في مصنع يعصر بيانات الموظفين؟» وجاء في العريضة أن استخراج بيانات الموظفين من دون موافقة واستخدامها في تدريب الذكاء الاصطناعي يجب ألا يصبح ممارسة مؤسسية طبيعية. واستشهد المتحدث باسم ميتا آندي ستون بموقف الشركة السابق بأن تطوير وكلاء ذكاء اصطناعي يساعدون في مهام الكمبيوتر اليومية يحتاج إلى حالات استخدام فعلية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Meta के माउस-ट्रैकिंग सॉफ्टवेयर पर कर्मचारियों का विरोध तेज",
+        "excerpt": "Meta एआई एजेंट विकसित करने के लिए कर्मचारियों की माउस मूवमेंट, क्लिक और कीस्ट्रोक जैसे कार्य डेटा जुटाना चाहती है, जिसके खिलाफ पर्चे और ऑनलाइन याचिका शुरू हुई।",
+        "body": "Meta कृत्रिम बुद्धिमत्ता (AI) एजेंट विकसित करने के लिए कर्मचारियों के वास्तविक कंप्यूटर उपयोग डेटा को जुटाने वाली परियोजना आगे बढ़ा रही है, जिससे कंपनी के भीतर विरोध बढ़ रहा है। Reuters ने स्थानीय समयानुसार 12 तारीख को बताया कि Meta कर्मचारियों ने कंपनी के “माउस-ट्रैकिंग सॉफ्टवेयर” के विरोध में पर्चे बांटे और ऑनलाइन याचिका भी शुरू की। Meta पिछले महीने से कर्मचारियों की माउस मूवमेंट, क्लिक और कीबोर्ड इनपुट जैसे कार्य डेटा को AI एजेंटों के प्रशिक्षण में इस्तेमाल करने की योजना पर काम कर रही है। पर्चे में लिखा था, “क्या आप ऐसी फैक्टरी में काम करना चाहते हैं जो कर्मचारियों का डेटा निचोड़ती है?” याचिका में कहा गया कि सहमति के बिना कर्मचारी डेटा निकालकर AI प्रशिक्षण में इस्तेमाल करना कंपनियों की सामान्य प्रथा नहीं बनना चाहिए। Meta के प्रवक्ता Andy Stone ने कंपनी के पहले के रुख का हवाला दिया कि रोजमर्रा के कंप्यूटर कार्यों में मदद करने वाले AI एजेंट बनाने के लिए वास्तविक उपयोग मामलों की जरूरत है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Meta Dorong Pelacakan Mouse untuk AI, Penolakan Karyawan Meluas",
+        "excerpt": "Meta berupaya mengumpulkan gerakan mouse, klik, dan ketikan karyawan untuk melatih agen AI, memicu perlawanan lewat selebaran dan petisi online.",
+        "body": "Meta menghadapi penolakan internal yang meningkat atas proyek pengumpulan data penggunaan komputer nyata karyawan untuk pengembangan agen kecerdasan buatan. Reuters melaporkan pada tanggal 12 waktu setempat bahwa karyawan Meta menyebarkan selebaran menentang penerapan “perangkat lunak pelacakan mouse” perusahaan dan juga memulai petisi online. Sejak bulan lalu, Meta mendorong penggunaan jalur gerakan mouse, klik, dan input keyboard karyawan sebagai data pelatihan bagi agen AI. Selebaran itu memuat kalimat, “Apakah Anda ingin bekerja di pabrik yang memeras data karyawan?” Petisi tersebut menyatakan bahwa pengambilan data karyawan tanpa persetujuan untuk pelatihan AI tidak boleh menjadi praktik perusahaan yang dianggap wajar. Juru bicara Meta, Andy Stone, mengutip posisi perusahaan sebelumnya bahwa kasus penggunaan nyata diperlukan untuk mengembangkan agen AI yang membantu pekerjaan komputer sehari-hari. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "375e6482c2c4",
+    "slug": "구글-스페이스x-우주-데이터센터-구축-손잡았다-957138",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T19:14:46.691Z",
+    "updatedAt": "2026-05-13T19:14:46.691Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917029/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917029/2",
+    "titleFingerprint": "57ca327c9afd06633af6f6e4d31b7a284b529a4d",
+    "dedupKeys": [
+      "375e6482c2c4b996bbdf7a906b6e5a8b17936432",
+      "57ca327c9afd06633af6f6e4d31b7a284b529a4d",
+      "1daa34378819db8df54c47fe53042efae5d23db7"
+    ],
+    "imageUrl": "/images/articles/375e6482c2c4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "구글·스페이스X, 우주 데이터센터 구축 협력 논의 본격화",
+        "excerpt": "구글이 12일(현지 시간) 스페이스X와 로켓 발사 계약을 협상 중인 것으로 알려지며, AI 확산으로 부족해진 데이터센터 인프라의 대안으로 우주 데이터센터가 주목받고 있다.",
+        "body": "구글과 스페이스X가 우주 데이터센터 설립을 위한 협력 가능성을 논의하고 있다. 12일(현지 시간) 월스트리트저널(WSJ)에 따르면, 그동안 우주 데이터센터 확보에 관심을 보여 온 구글은 스페이스X와 로켓 발사 계약을 협상 중이다. 계약이 체결되면 두 회사는 지구 저궤도에 ‘군집 데이터센터’를 구축하는 데 협력하게 된다. AI 열풍이 수년째 이어지며 데이터센터 인프라 부족이 커지자 빅테크와 우주 기업들이 새로운 시장 개척에 나서는 흐름이다. 우주 데이터센터는 자연 냉각이 가능하고 태양광으로 전력을 생산할 수 있다는 점에서 비용 효율성이 높다는 평가를 받는다. WSJ는 구글이 다른 로켓 발사 기업들과도 거래를 논의 중이라고 전했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Google and SpaceX Discuss Space Data Center Launch Partnership",
+        "excerpt": "Google is reportedly negotiating a rocket launch deal with SpaceX as AI-driven demand strains data center infrastructure and interest grows in orbital data centers.",
+        "body": "Google and SpaceX are discussing a possible partnership to build space-based data centers. According to The Wall Street Journal on the 12th local time, Google, which has shown interest in securing space data center capacity, is negotiating a rocket launch contract with SpaceX. If the deal is finalized, the two companies would cooperate on building a “cluster data center” in low Earth orbit. The move comes as years of AI momentum have intensified shortages in data center infrastructure, prompting big tech firms and space companies to explore a new market. Space data centers are drawing attention because they can use natural cooling and generate power with solar energy, making them viewed as cost-efficient. WSJ also reported that Google is discussing launch deals with other rocket companies. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "グーグルとスペースX、宇宙データセンター構築で協議加速",
+        "excerpt": "グーグルが12日（現地時間）、スペースXとロケット打ち上げ契約を交渉中と報じられ、AI需要で不足するデータセンター基盤の代替案として宇宙データセンターが注目されている。",
+        "body": "グーグルとスペースXが、宇宙データセンター設立に向けた協力の可能性を協議している。12日（現地時間）のウォール・ストリート・ジャーナル（WSJ）によると、これまで宇宙データセンターの確保に関心を示してきたグーグルは、スペースXとロケット打ち上げ契約を交渉中だ。契約が成立すれば、両社は地球低軌道に「群集データセンター」を構築するため協力することになる。AIブームが数年続き、データセンターインフラ不足が深刻化する中、ビッグテックと宇宙企業が新市場の開拓に動いている。宇宙データセンターは自然冷却が可能で、太陽光を活用して電力を生産できる点から、費用効率が高いと評価されている。WSJは、グーグルが他のロケット打ち上げ企業とも取引を協議していると伝えた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "谷歌与SpaceX洽谈太空数据中心建设合作",
+        "excerpt": "据报道，谷歌于当地时间12日正与SpaceX洽谈火箭发射合同，随着AI热潮推高数据中心需求，太空数据中心作为替代基础设施受到关注。",
+        "body": "谷歌与SpaceX正在讨论建设太空数据中心的合作可能。当地时间12日，据《华尔街日报》（WSJ）报道，长期关注获取太空数据中心能力的谷歌，正与SpaceX就火箭发射合同进行谈判。若合同达成，两家公司将合作在近地轨道建设“集群数据中心”。随着人工智能热潮持续数年，数据中心基础设施短缺加剧，大型科技公司和太空企业正试图开拓新市场。太空数据中心因可实现自然冷却，并可利用太阳能发电，被认为具有较高成本效率。WSJ还称，谷歌目前也在与其他火箭发射企业讨论发射交易。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Google y SpaceX negocian impulsar centros de datos en el espacio",
+        "excerpt": "Google estaría negociando el 12, hora local, un contrato de lanzamiento con SpaceX mientras la demanda de IA agrava la falta de infraestructura de centros de datos.",
+        "body": "Google y SpaceX están analizando una posible cooperación para crear centros de datos en el espacio. Según The Wall Street Journal el día 12, hora local, Google, que ha mostrado interés en asegurar capacidad de centros de datos espaciales, negocia con SpaceX un contrato de lanzamiento de cohetes. Si el acuerdo se concreta, ambas compañías colaborarían en la construcción de un “centro de datos en clúster” en órbita terrestre baja. La iniciativa llega después de varios años de auge de la inteligencia artificial, que han intensificado la escasez de infraestructura de centros de datos y llevado a grandes tecnológicas y empresas espaciales a explorar un nuevo mercado. Los centros de datos espaciales atraen atención porque pueden usar enfriamiento natural y generar electricidad con energía solar, lo que se considera eficiente en costos. WSJ indicó además que Google conversa con otras empresas de lanzamiento. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Google e SpaceX discutem parceria para data centers no espaço",
+        "excerpt": "O Google estaria negociando em 12, horário local, um contrato de lançamento com a SpaceX, enquanto a expansão da IA aumenta a falta de infraestrutura de data centers.",
+        "body": "Google e SpaceX discutem uma possível cooperação para criar data centers no espaço. Segundo o The Wall Street Journal no dia 12, horário local, o Google, que já demonstrava interesse em garantir data centers espaciais, negocia com a SpaceX um contrato de lançamento de foguetes. Se o acordo for fechado, as duas empresas colaborarão para construir um “data center em cluster” na órbita baixa da Terra. A iniciativa ocorre em meio a vários anos de forte expansão da inteligência artificial, que ampliaram a escassez de infraestrutura de data centers e levaram big techs e empresas espaciais a buscar um novo mercado. Data centers espaciais chamam atenção por permitirem resfriamento natural e geração de energia solar, fatores vistos como eficientes em custo. O WSJ também informou que o Google conversa com outras empresas de lançamento. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Google und SpaceX verhandeln über Rechenzentren im All",
+        "excerpt": "Google soll am 12. Ortszeit mit SpaceX über einen Raketenstartvertrag verhandeln, während KI-Boom und knappe Rechenzentrumsinfrastruktur den Blick ins All lenken.",
+        "body": "Google und SpaceX sprechen über eine mögliche Zusammenarbeit beim Aufbau von Rechenzentren im Weltraum. Laut Wall Street Journal vom 12. Ortszeit verhandelt Google, das seit Längerem Interesse an Weltraum-Rechenzentren zeigt, mit SpaceX über einen Vertrag für Raketenstarts. Kommt die Vereinbarung zustande, würden beide Unternehmen gemeinsam ein „Cluster-Rechenzentrum“ in niedriger Erdumlaufbahn errichten. Hintergrund ist der seit Jahren anhaltende KI-Boom, der die Knappheit bei Rechenzentrumsinfrastruktur verschärft und große Technologiekonzerne sowie Raumfahrtunternehmen dazu bringt, einen neuen Markt zu erschließen. Weltraum-Rechenzentren gelten als kosteneffizient, weil natürliche Kühlung möglich ist und Strom mit Solarenergie erzeugt werden kann. Das WSJ berichtete zudem, Google spreche auch mit anderen Raketenstartunternehmen über entsprechende Deals. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Google et SpaceX discutent de centres de données dans l’espace",
+        "excerpt": "Google négocierait le 12, heure locale, un contrat de lancement avec SpaceX, alors que l’essor de l’IA accentue le manque d’infrastructures de centres de données.",
+        "body": "Google et SpaceX discutent d’une possible coopération pour créer des centres de données dans l’espace. Selon le Wall Street Journal le 12, heure locale, Google, qui s’intéresse depuis un certain temps aux capacités de centres de données spatiaux, négocie avec SpaceX un contrat de lancement de fusées. Si l’accord est conclu, les deux entreprises coopéreront à la construction d’un « centre de données en grappe » en orbite terrestre basse. Cette initiative intervient alors que l’essor de l’intelligence artificielle se poursuit depuis plusieurs années et aggrave la pénurie d’infrastructures de centres de données, poussant les grandes entreprises technologiques et spatiales à explorer un nouveau marché. Les centres de données spatiaux attirent l’attention car ils peuvent bénéficier du refroidissement naturel et produire de l’électricité grâce au solaire, ce qui est jugé rentable. Le WSJ a aussi indiqué que Google discute avec d’autres sociétés de lancement. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "غوغل وسبيس إكس تبحثان شراكة لبناء مراكز بيانات فضائية",
+        "excerpt": "أفادت تقارير في 12 بالتوقيت المحلي بأن غوغل تفاوض سبيس إكس على عقد إطلاق صاروخي، مع تزايد الاهتمام بمراكز البيانات الفضائية بسبب ضغط الطلب المرتبط بالذكاء الاصطناعي.",
+        "body": "تبحث غوغل وسبيس إكس إمكانية التعاون لإنشاء مراكز بيانات في الفضاء. ووفق ما نقلته وول ستريت جورنال في 12 بالتوقيت المحلي، فإن غوغل، التي أبدت اهتماما بالحصول على قدرات لمراكز بيانات فضائية، تجري مفاوضات مع سبيس إكس بشأن عقد إطلاق صاروخي. وإذا تم توقيع العقد، فستتعاون الشركتان في بناء «مركز بيانات عنقودي» في مدار أرضي منخفض. وتأتي هذه الخطوة مع استمرار موجة الذكاء الاصطناعي لسنوات، ما أدى إلى نقص في بنية مراكز البيانات ودفع شركات التقنية الكبرى وشركات الفضاء إلى استكشاف سوق جديدة. وتحظى مراكز البيانات الفضائية بالاهتمام لأنها تتيح التبريد الطبيعي وتوليد الكهرباء عبر الطاقة الشمسية، وهو ما يجعلها ذات كفاءة من حيث التكلفة. وذكرت الصحيفة أن غوغل تناقش أيضا صفقات إطلاق مع شركات صواريخ أخرى. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "गूगल और स्पेसएक्स अंतरिक्ष डेटा सेंटर साझेदारी पर बातचीत में",
+        "excerpt": "स्थानीय समयानुसार 12 तारीख को गूगल के स्पेसएक्स से रॉकेट लॉन्च अनुबंध पर बातचीत की खबर आई, जबकि AI मांग से डेटा सेंटर ढांचा कम पड़ रहा है।",
+        "body": "गूगल और स्पेसएक्स अंतरिक्ष में डेटा सेंटर स्थापित करने के लिए संभावित सहयोग पर चर्चा कर रहे हैं। स्थानीय समयानुसार 12 तारीख को वॉल स्ट्रीट जर्नल के अनुसार, अंतरिक्ष डेटा सेंटर क्षमता हासिल करने में रुचि दिखा चुका गूगल स्पेसएक्स के साथ रॉकेट लॉन्च अनुबंध पर बातचीत कर रहा है। यदि समझौता होता है, तो दोनों कंपनियां पृथ्वी की निचली कक्षा में “क्लस्टर डेटा सेंटर” बनाने में सहयोग करेंगी। यह कदम ऐसे समय में सामने आया है जब कई वर्षों से जारी AI उछाल ने डेटा सेंटर अवसंरचना की कमी को बढ़ा दिया है और बड़ी टेक कंपनियों तथा अंतरिक्ष कंपनियों को नए बाजार की ओर प्रेरित किया है। अंतरिक्ष डेटा सेंटर इसलिए ध्यान खींच रहे हैं क्योंकि उनमें प्राकृतिक शीतलन संभव है और सौर ऊर्जा से बिजली पैदा की जा सकती है, जिससे उन्हें लागत के लिहाज से प्रभावी माना जाता है। WSJ ने बताया कि गूगल अन्य रॉकेट लॉन्च कंपनियों से भी बातचीत कर रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Google dan SpaceX Bahas Kerja Sama Pusat Data Antariksa",
+        "excerpt": "Google dilaporkan pada 12 waktu setempat sedang bernegosiasi dengan SpaceX soal kontrak peluncuran roket, saat lonjakan AI memperbesar kekurangan infrastruktur pusat data.",
+        "body": "Google dan SpaceX sedang membahas kemungkinan kerja sama untuk membangun pusat data di antariksa. Menurut The Wall Street Journal pada 12 waktu setempat, Google, yang selama ini menunjukkan minat untuk mengamankan pusat data antariksa, sedang bernegosiasi dengan SpaceX mengenai kontrak peluncuran roket. Jika kontrak tersebut tercapai, kedua perusahaan akan bekerja sama membangun “pusat data klaster” di orbit rendah Bumi. Langkah ini muncul ketika tren kecerdasan buatan yang berlangsung selama beberapa tahun memperparah kekurangan infrastruktur pusat data, sehingga perusahaan teknologi besar dan perusahaan antariksa mulai menjajaki pasar baru. Pusat data antariksa menarik perhatian karena memungkinkan pendinginan alami dan produksi listrik dengan tenaga surya, sehingga dinilai efisien dari sisi biaya. WSJ juga melaporkan bahwa Google sedang membahas kesepakatan peluncuran dengan perusahaan roket lain. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "c2d260289ef4",
+    "slug": "기아-bsda-첫-참가-타스만-군용지휘차-첫-공개-452025",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T19:13:42.271Z",
+    "updatedAt": "2026-05-13T19:13:42.271Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917410/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917410/2",
+    "titleFingerprint": "c3f7be9edeb6fb61b9dfeb04957460ac22f41272",
+    "dedupKeys": [
+      "c2d260289ef4bea33b3abbfeb75d51b4ffd11716",
+      "c3f7be9edeb6fb61b9dfeb04957460ac22f41272",
+      "c452433979cfa8301b763719c6e39865b2dcdcb9"
+    ],
+    "imageUrl": "/images/articles/c2d260289ef4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "기아, BSDA 2026 첫 참가… 타스만 군용 지휘차 유럽 최초 공개",
+        "excerpt": "기아가 13~15일 루마니아 부쿠레슈티에서 열리는 BSDA 2026에 처음 참가해 타스만 기반 군용 지휘차와 KLTV 2인승 카고 차량을 선보였다.",
+        "body": "기아는 13일(현지 시간)부터 15일까지 루마니아 부쿠레슈티에서 열리는 방위산업 전시회 ‘BSDA 2026’에 처음 참가해 군용차를 전시했다고 밝혔다. 동유럽 대표 방산 전시회로 꼽히는 BSDA는 올해 10회째를 맞았다. 기아는 중형 픽업트럭 타스만 기반 군용 지휘차를 유럽 최초로 공개했다. 이 차량은 픽업트럭의 오프로드 성능에 무전기, 노출 방지를 위한 조명 통제 등 군 운용 사양을 더했으며 지난해부터 국군 표준 지휘차로 실전 배치됐다. 기아는 수심 760mm 하천, 약 31도 수직 경사, 약 22도 좌우 경사 주행이 가능한 소형 전술차 KLTV 2인승 카고 차량도 함께 전시했다. 현대로템은 같은 자리에서 다목적 무인차량 기능을 시연했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Kia Joins BSDA 2026 for First Time, Unveils Tasman Military Command Vehicle in Europe",
+        "excerpt": "Kia made its first appearance at BSDA 2026 in Bucharest, Romania, from May 13 to 15, showing a Tasman-based military command vehicle and the KLTV two-seat cargo model.",
+        "body": "Kia said it is taking part for the first time in the defense industry exhibition BSDA 2026, held in Bucharest, Romania, from May 13 to 15 local time, where it is displaying military vehicles. BSDA, regarded as a leading defense exhibition in Eastern Europe, marks its 10th edition this year. Kia unveiled in Europe for the first time a military command vehicle based on the mid-size pickup truck Tasman. The model adds military operating specifications such as radio equipment and lighting control to reduce exposure, along with the off-road capability typical of a pickup. It has been deployed since last year as a standard command vehicle for South Korea’s armed forces. Kia also displayed the KLTV two-seat cargo light tactical vehicle, capable of driving through 760 mm-deep streams, around 31-degree vertical slopes and around 22-degree side slopes. Hyundai Rotem demonstrated functions of a multipurpose unmanned vehicle at the same venue. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "起亜、BSDA 2026に初参加…タスマン軍用指揮車を欧州初公開",
+        "excerpt": "起亜は5月13〜15日にルーマニア・ブカレストで開かれるBSDA 2026に初参加し、タスマンベースの軍用指揮車とKLTV 2人乗り貨物車を展示した。",
+        "body": "起亜は現地時間13日から15日までルーマニア・ブカレストで開催される防衛産業展示会「BSDA 2026」に初参加し、軍用車両を展示したと明らかにした。東欧を代表する防衛展示会とされるBSDAは今年で10回目を迎えた。起亜は中型ピックアップトラック「タスマン」をベースにした軍用指揮車を欧州で初公開した。同車はピックアップ特有のオフロード性能に加え、無線機、露出を抑えるための照明制御など軍運用仕様を備えたモデルで、昨年から韓国軍の標準指揮車として実戦配備されている。起亜は水深760mmの河川、約31度の縦勾配、約22度の左右傾斜でも走行できる小型戦術車KLTVの2人乗り貨物車も展示した。同じ会場では現代ロテムが多目的無人車両の機能を実演した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "起亚首次参加BSDA 2026，塔斯曼军用指挥车欧洲首秀",
+        "excerpt": "起亚于5月13日至15日首次参加在罗马尼亚布加勒斯特举行的BSDA 2026，展示塔斯曼军用指挥车和KLTV双座货运车型。",
+        "body": "起亚表示，公司于当地时间13日至15日首次参加在罗马尼亚布加勒斯特举行的防务工业展“BSDA 2026”，并展示军用车辆。BSDA被视为东欧代表性防务展会，今年迎来第10届。起亚在展会上首次在欧洲公开基于中型皮卡塔斯曼打造的军用指挥车。该车型在皮卡特有的越野性能基础上，增加了无线电、用于降低暴露风险的照明控制等军事运用配置，并已自去年起作为韩国军队标准指挥车投入实战部署。起亚还同时展示了KLTV双座货运轻型战术车，该车可通过水深760毫米的河流，并能在约31度纵向坡度、约22度左右侧倾条件下行驶。现代Rotem也在同一场合演示了多用途无人车辆功能。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Kia debuta en BSDA 2026 y muestra en Europa el vehículo de mando militar Tasman",
+        "excerpt": "Kia participó por primera vez en BSDA 2026, celebrada del 13 al 15 de mayo en Bucarest, Rumanía, con un vehículo de mando basado en Tasman y el KLTV de carga biplaza.",
+        "body": "Kia informó que participa por primera vez en la feria de defensa BSDA 2026, celebrada del 13 al 15 de mayo, hora local, en Bucarest, Rumanía, donde exhibe vehículos militares. BSDA, considerada una feria representativa de defensa en Europa del Este, cumple este año su décima edición. Kia presentó por primera vez en Europa un vehículo de mando militar basado en la pickup mediana Tasman. El modelo combina la capacidad todoterreno propia de una pickup con especificaciones de operación militar, como radio y control de iluminación para evitar exposición. Desde el año pasado está desplegado como vehículo de mando estándar de las Fuerzas Armadas surcoreanas. Kia también mostró el KLTV de carga biplaza, un vehículo táctico ligero capaz de circular por ríos de 760 mm de profundidad, pendientes verticales de unos 31 grados e inclinaciones laterales de unos 22 grados. Hyundai Rotem demostró funciones de un vehículo no tripulado multipropósito en el mismo recinto. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Kia estreia na BSDA 2026 e revela na Europa comando militar baseado no Tasman",
+        "excerpt": "A Kia participou pela primeira vez da BSDA 2026, de 13 a 15 de maio em Bucareste, Romênia, exibindo um veículo de comando baseado no Tasman e o KLTV cargo de dois lugares.",
+        "body": "A Kia informou que participa pela primeira vez da exposição de defesa BSDA 2026, realizada de 13 a 15 de maio, no horário local, em Bucareste, Romênia, onde apresenta veículos militares. Considerada uma das principais feiras de defesa do Leste Europeu, a BSDA chega neste ano à sua 10ª edição. A Kia revelou pela primeira vez na Europa um veículo de comando militar baseado na picape média Tasman. O modelo soma a capacidade off-road típica de uma picape a especificações de operação militar, como rádio e controle de iluminação para reduzir exposição. Desde o ano passado, o veículo está em implantação real como comando padrão das Forças Armadas sul-coreanas. A Kia também exibiu o KLTV cargo de dois lugares, veículo tático leve capaz de atravessar rios de 760 mm de profundidade e trafegar em inclinação vertical de cerca de 31 graus e lateral de cerca de 22 graus. A Hyundai Rotem demonstrou no mesmo local funções de um veículo não tripulado multipropósito. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Kia erstmals auf der BSDA 2026: Tasman-Militärkommandowagen feiert Europa-Premiere",
+        "excerpt": "Kia nimmt vom 13. bis 15. Mai erstmals an der BSDA 2026 in Bukarest teil und zeigt einen militärischen Kommandowagen auf Tasman-Basis sowie den KLTV-Zweisitzer als Cargo-Version.",
+        "body": "Kia teilte mit, erstmals an der Verteidigungsmesse BSDA 2026 teilzunehmen, die vom 13. bis 15. Mai Ortszeit in Bukarest, Rumänien, stattfindet, und dort Militärfahrzeuge zu präsentieren. Die BSDA gilt als eine führende Verteidigungsmesse Osteuropas und findet in diesem Jahr zum 10. Mal statt. Kia stellte in Europa erstmals einen militärischen Kommandowagen auf Basis des mittelgroßen Pick-ups Tasman vor. Das Modell verbindet die für Pick-ups typische Geländefähigkeit mit militärischen Betriebsspezifikationen wie Funkgerät und Lichtsteuerung zur Verringerung der Sichtbarkeit. Seit dem vergangenen Jahr ist das Fahrzeug als Standard-Kommandowagen der südkoreanischen Streitkräfte im Einsatz. Kia zeigte außerdem den leichten taktischen KLTV als zweisitzige Cargo-Version, der Gewässer mit 760 mm Tiefe, Steigungen von rund 31 Grad und Seitenneigungen von rund 22 Grad bewältigen kann. Hyundai Rotem demonstrierte am selben Ort Funktionen eines Mehrzweck-Unmanned-Vehicle. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Kia débute au BSDA 2026 et dévoile en Europe le véhicule de commandement militaire Tasman",
+        "excerpt": "Kia participe pour la première fois au BSDA 2026, du 13 au 15 mai à Bucarest, avec un véhicule de commandement basé sur le Tasman et le KLTV cargo deux places.",
+        "body": "Kia a annoncé participer pour la première fois au salon de défense BSDA 2026, organisé du 13 au 15 mai, heure locale, à Bucarest, en Roumanie, où la marque expose des véhicules militaires. Considéré comme un salon majeur de la défense en Europe de l’Est, le BSDA tient cette année sa 10e édition. Kia y a présenté pour la première fois en Europe un véhicule de commandement militaire basé sur le pick-up intermédiaire Tasman. Le modèle associe les capacités tout-terrain propres à un pick-up à des spécifications d’usage militaire, comme une radio et un contrôle de l’éclairage destiné à limiter l’exposition. Depuis l’an dernier, il est déployé comme véhicule de commandement standard des forces armées sud-coréennes. Kia expose aussi le KLTV cargo deux places, un véhicule tactique léger capable de franchir des cours d’eau de 760 mm de profondeur et de rouler sur une pente verticale d’environ 31 degrés et une inclinaison latérale d’environ 22 degrés. Hyundai Rotem a présenté au même endroit les fonctions d’un véhicule sans pilote polyvalent. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كيا تشارك لأول مرة في BSDA 2026 وتكشف مركبة القيادة العسكرية تاسمان في أوروبا",
+        "excerpt": "شاركت كيا لأول مرة في BSDA 2026 في بوخارست برومانيا من 13 إلى 15 مايو، وعرضت مركبة قيادة عسكرية مبنية على تاسمان ومركبة KLTV للشحن بمقعدين.",
+        "body": "قالت كيا إنها تشارك للمرة الأولى في معرض الصناعات الدفاعية BSDA 2026، المقام في بوخارست برومانيا من 13 إلى 15 مايو بالتوقيت المحلي، حيث تعرض مركبات عسكرية. ويعد BSDA من أبرز معارض الدفاع في أوروبا الشرقية، ويقام هذا العام في دورته العاشرة. وقد كشفت كيا لأول مرة في أوروبا عن مركبة قيادة عسكرية مبنية على شاحنة البيك أب المتوسطة تاسمان. ويضيف هذا الطراز إلى قدرات الطرق الوعرة الخاصة بالبيك أب مواصفات تشغيل عسكرية، منها جهاز لاسلكي والتحكم في الإضاءة للحد من الانكشاف، كما بدأ نشره منذ العام الماضي كمركبة قيادة قياسية في القوات المسلحة الكورية الجنوبية. وعرضت كيا أيضا مركبة KLTV التكتيكية الخفيفة للشحن بمقعدين، القادرة على عبور مياه بعمق 760 ملم والسير على ميل رأسي بنحو 31 درجة وميل جانبي بنحو 22 درجة. وقدمت هيونداي روتم في الموقع نفسه عرضا لوظائف مركبة غير مأهولة متعددة الأغراض. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Kia की BSDA 2026 में पहली भागीदारी, यूरोप में Tasman सैन्य कमांड वाहन पेश",
+        "excerpt": "Kia ने 13 से 15 मई तक रोमानिया के बुखारेस्ट में आयोजित BSDA 2026 में पहली बार भाग लेकर Tasman आधारित सैन्य कमांड वाहन और KLTV दो-सीट कार्गो मॉडल प्रदर्शित किया।",
+        "body": "Kia ने बताया कि वह स्थानीय समयानुसार 13 से 15 मई तक रोमानिया के बुखारेस्ट में आयोजित रक्षा उद्योग प्रदर्शनी BSDA 2026 में पहली बार भाग ले रही है और सैन्य वाहनों का प्रदर्शन कर रही है। पूर्वी यूरोप की प्रमुख रक्षा प्रदर्शनियों में गिनी जाने वाली BSDA इस वर्ष अपने 10वें संस्करण में है। Kia ने मध्यम आकार के पिकअप ट्रक Tasman पर आधारित सैन्य कमांड वाहन को यूरोप में पहली बार पेश किया। इस मॉडल में पिकअप की ऑफ-रोड क्षमता के साथ रेडियो और पहचान कम करने के लिए प्रकाश नियंत्रण जैसी सैन्य संचालन सुविधाएं जोड़ी गई हैं। यह वाहन पिछले वर्ष से दक्षिण कोरियाई सेना के मानक कमांड वाहन के रूप में वास्तविक तैनाती में है। Kia ने KLTV दो-सीट कार्गो हल्का सामरिक वाहन भी प्रदर्शित किया, जो 760 मिमी गहरे जलमार्ग, लगभग 31 डिग्री की सीधी ढलान और लगभग 22 डिग्री की पार्श्व ढलान पर चल सकता है। Hyundai Rotem ने उसी स्थल पर बहुउद्देश्यीय मानवरहित वाहन की क्षमताओं का प्रदर्शन किया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kia Perdana Ikut BSDA 2026, Kendaraan Komando Militer Tasman Tampil di Eropa",
+        "excerpt": "Kia pertama kali mengikuti BSDA 2026 di Bukares, Rumania, pada 13-15 Mei dengan menampilkan kendaraan komando militer berbasis Tasman dan KLTV kargo dua kursi.",
+        "body": "Kia menyatakan pertama kali mengikuti pameran industri pertahanan BSDA 2026 yang digelar pada 13 hingga 15 Mei waktu setempat di Bukares, Rumania, dengan memamerkan kendaraan militer. BSDA, yang dikenal sebagai pameran pertahanan utama di Eropa Timur, memasuki penyelenggaraan ke-10 tahun ini. Kia memperkenalkan untuk pertama kali di Eropa kendaraan komando militer berbasis pikap menengah Tasman. Model ini memadukan kemampuan off-road khas pikap dengan spesifikasi operasi militer, termasuk radio dan pengendalian lampu untuk mengurangi paparan. Sejak tahun lalu, kendaraan tersebut telah dikerahkan sebagai kendaraan komando standar Angkatan Bersenjata Korea Selatan. Kia juga menampilkan KLTV kargo dua kursi, kendaraan taktis ringan yang mampu melintasi sungai sedalam 760 mm serta berjalan di kemiringan vertikal sekitar 31 derajat dan kemiringan samping sekitar 22 derajat. Hyundai Rotem turut mendemonstrasikan fungsi kendaraan nirawak multiguna di lokasi yang sama. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "6882e5fa205e",
     "slug": "세계인-울린-신라면-40년간-매출-20조-2030년-글로벌-1위-996870",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "DL E&C Raih Sertifikasi Teknologi Baru untuk Sistem Kedap Air Dinding Kering Kamar Mandi",
         "excerpt": "DL E&C dan Hansol HomeDeco memperoleh sertifikasi teknologi konstruksi baru dari Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea untuk sistem kedap air dinding kering kamar mandi.",
         "body": "DL E&C dan Hansol HomeDeco memperoleh sertifikasi teknologi konstruksi baru dari Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea untuk “sistem kedap air dinding kering kamar mandi” yang mereka kembangkan bersama. Teknologi ini dibuat untuk mengatasi tantangan施工 yang terus muncul dalam pemasangan dinding kamar mandi. Intinya adalah memperbesar material finishing khusus sehingga kinerja kedap air dan efisiensi pengerjaan dinding kering meningkat. Menurut perusahaan, produktivitas konstruksi naik tiga kali dibanding metode yang ada, sementara tingkat cacat turun 60%. DL E&C menyatakan akan melanjutkan pengembangan teknologi dan memimpin daya saing teknis di industri konstruksi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "147162624ab0",
-    "slug": "몽골-사막에-방풍림-조성-대한항공-1000그루-심어-667694",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T00:01:25.329Z",
-    "updatedAt": "2026-05-13T00:01:25.329Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908512/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908512/2",
-    "titleFingerprint": "e51114ef91d225ed960e31e8272a7671746de198",
-    "dedupKeys": [
-      "147162624ab0f6906015272d2ee1ff2a13afff45",
-      "e51114ef91d225ed960e31e8272a7671746de198",
-      "545c40af0eb704e014a7ef58a0b4d1c686f2dc7b"
-    ],
-    "imageUrl": "/images/articles/147162624ab0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대한항공, 몽골 사막 방풍림 조성…‘대한항공 숲’에 1000그루 식재",
-        "excerpt": "대한항공은 12일 몽골 울란바타르 바가노르 ‘대한항공 숲’에서 임직원과 현지 학생들이 함께 묘목 1000그루를 심으며 방풍림 조성 봉사활동을 진행했다.",
-        "body": "대한항공은 12일 몽골 울란바타르 바가노르에 있는 ‘대한항공 숲’에서 회사 임직원들과 몽골 현지 학생들이 함께 나무를 심는 봉사활동을 진행했다. 회사 측은 탄소 배출 저감 효과가 좋은 보잉777 기종 이름으로 묘목 1000그루를 현지에 심었다고 설명했다. 대한항공은 2004년부터 몽골에서 사막화와 모래바람에 대응하기 위한 방풍림 조성 봉사활동을 이어오고 있다. 이번 식재 활동은 장기적으로 현지 환경 개선과 숲 조성 활동의 지속성을 보여주는 사례로 평가된다. 출처는 rss.donga.com이다."
-      },
-      "en": {
-        "title": "Korean Air Plants 1,000 Trees for Windbreak Forest in Mongolia Desert",
-        "excerpt": "Korean Air held a volunteer tree-planting event on the 12th at the “Korean Air Forest” in Baganuur, Ulaanbaatar, Mongolia, with employees and local students planting 1,000 saplings.",
-        "body": "Korean Air held a volunteer tree-planting activity on the 12th at the “Korean Air Forest” in Baganuur, Ulaanbaatar, Mongolia, where company employees and local Mongolian students planted trees together. The company said it planted 1,000 saplings under the name of the Boeing 777 aircraft type, which it described as having strong carbon-emission reduction effects. Korean Air has continued volunteer work to create windbreak forests in Mongolia since 2004, responding to desertification and sand winds. The latest planting highlights the continuity of its long-term forest-building activity and its contribution to improving the local environment. Source: rss.donga.com."
-      },
-      "ja": {
-        "title": "大韓航空、モンゴル砂漠に防風林…「大韓航空の森」へ1000本植樹",
-        "excerpt": "大韓航空は12日、モンゴル・ウランバートルのバガノールにある「大韓航空の森」で、社員と現地学生が苗木1000本を植えるボランティアを行った。",
-        "body": "大韓航空は12日、モンゴル・ウランバートルのバガノールにある「大韓航空の森」で、同社の社員とモンゴル現地の学生が一緒に木を植えるボランティア活動を実施した。会社側は、炭素排出削減効果が高いボーイング777機種の名前で、苗木1000本を現地に植えたと説明した。大韓航空は2004年から、モンゴルで砂漠化や砂ぼこりに対応するための防風林づくりのボランティア活動を続けている。今回の植樹は、現地環境の改善と森づくり活動の継続性を示す事例といえる。出典はrss.donga.com。"
-      },
-      "zh": {
-        "title": "大韩航空在蒙古沙漠营造防风林，于“大韩航空林”种下1000株树苗",
-        "excerpt": "大韩航空12日在蒙古乌兰巴托巴嘎诺尔“大韩航空林”举行植树志愿活动，公司员工与当地学生共同种下1000株树苗。",
-        "body": "大韩航空12日在蒙古乌兰巴托巴嘎诺尔的“大韩航空林”开展植树志愿活动，公司员工与蒙古当地学生共同参与。公司方面说明，此次以碳排放减排效果较好的波音777机型名义，在当地种下了1000株树苗。大韩航空自2004年起持续在蒙古开展营造防风林的志愿活动，以应对沙漠化和风沙问题。此次植树活动体现了其长期造林行动的延续，也有助于展示改善当地环境的持续努力。来源：rss.donga.com。"
-      },
-      "es": {
-        "title": "Korean Air planta 1.000 árboles para un cortavientos en el desierto de Mongolia",
-        "excerpt": "Korean Air realizó el día 12 una jornada voluntaria en el “Bosque Korean Air” de Baganuur, Ulán Bator, donde empleados y estudiantes locales plantaron 1.000 árboles jóvenes.",
-        "body": "Korean Air llevó a cabo el día 12 una actividad voluntaria de plantación de árboles en el “Bosque Korean Air”, ubicado en Baganuur, Ulán Bator, Mongolia. En la jornada participaron empleados de la compañía y estudiantes mongoles locales. La empresa explicó que plantó 1.000 árboles jóvenes bajo el nombre del modelo Boeing 777, al que atribuye un buen efecto de reducción de emisiones de carbono. Korean Air mantiene desde 2004 actividades voluntarias para crear bosques cortavientos en Mongolia, como respuesta a la desertificación y a los vientos de arena. Esta plantación muestra la continuidad de su labor forestal y su contribución a la mejora ambiental local. Fuente: rss.donga.com."
-      },
-      "pt": {
-        "title": "Korean Air planta 1.000 árvores para formar cortina de vento no deserto da Mongólia",
-        "excerpt": "A Korean Air realizou no dia 12 uma ação voluntária no “Bosque Korean Air”, em Baganuur, Ulaanbaatar, com funcionários e estudantes locais plantando 1.000 mudas.",
-        "body": "A Korean Air realizou no dia 12 uma atividade voluntária de plantio de árvores no “Bosque Korean Air”, em Baganuur, Ulaanbaatar, na Mongólia, reunindo funcionários da empresa e estudantes locais. Segundo a companhia, foram plantadas 1.000 mudas no local sob o nome da aeronave Boeing 777, modelo descrito como eficaz na redução de emissões de carbono. Desde 2004, a Korean Air mantém na Mongólia ações voluntárias para formar florestas de proteção contra o vento, em resposta à desertificação e aos ventos de areia. O plantio reforça a continuidade da iniciativa e seu papel na melhoria do ambiente local. Fonte: rss.donga.com."
-      },
-      "de": {
-        "title": "Korean Air pflanzt 1.000 Bäume für Windschutzwald in der Mongolei",
-        "excerpt": "Korean Air organisierte am 12. im „Korean Air Forest“ in Baganuur bei Ulaanbaatar eine Freiwilligenaktion, bei der Beschäftigte und lokale Schüler 1.000 Setzlinge pflanzten.",
-        "body": "Korean Air hat am 12. im „Korean Air Forest“ in Baganuur, Ulaanbaatar, in der Mongolei eine freiwillige Baumpflanzaktion durchgeführt. Beschäftigte des Unternehmens pflanzten dort gemeinsam mit mongolischen Schülerinnen und Schülern Bäume. Das Unternehmen erklärte, es habe vor Ort 1.000 Setzlinge unter dem Namen des Flugzeugtyps Boeing 777 gepflanzt, der als wirksam bei der Verringerung von Kohlenstoffemissionen beschrieben wird. Korean Air engagiert sich seit 2004 in der Mongolei für die Anlage von Windschutzwäldern gegen Wüstenbildung und Sandwinde. Die aktuelle Pflanzung steht für die Fortsetzung dieser langfristigen Waldinitiative und für Beiträge zur Verbesserung der lokalen Umwelt. Quelle: rss.donga.com."
-      },
-      "fr": {
-        "title": "Korean Air plante 1 000 arbres pour une forêt brise-vent dans le désert mongol",
-        "excerpt": "Korean Air a organisé le 12 une action bénévole au “Korean Air Forest” de Baganuur, à Oulan-Bator, où employés et élèves locaux ont planté 1 000 jeunes arbres.",
-        "body": "Korean Air a mené le 12 une activité bénévole de plantation d’arbres au “Korean Air Forest”, situé à Baganuur, à Oulan-Bator, en Mongolie. Des employés de la compagnie et des élèves mongols locaux y ont participé ensemble. L’entreprise a expliqué avoir planté 1 000 jeunes arbres sur place au nom du modèle Boeing 777, présenté comme efficace pour réduire les émissions de carbone. Depuis 2004, Korean Air poursuit en Mongolie des actions bénévoles visant à créer des forêts brise-vent face à la désertification et aux vents de sable. Cette plantation illustre la continuité de son effort de boisement et sa contribution à l’amélioration de l’environnement local. Source : rss.donga.com."
-      },
-      "ar": {
-        "title": "الخطوط الكورية تزرع 1000 شجرة لإنشاء مصدات رياح في صحراء منغوليا",
-        "excerpt": "نفذت الخطوط الجوية الكورية في 12 من الشهر نشاطا تطوعيا في “غابة الخطوط الكورية” في باغانور بأولان باتور، حيث زرع موظفوها وطلاب محليون 1000 شتلة.",
-        "body": "نفذت الخطوط الجوية الكورية في 12 من الشهر نشاطا تطوعيا لزراعة الأشجار في “غابة الخطوط الكورية” بمنطقة باغانور في أولان باتور، منغوليا، بمشاركة موظفي الشركة وطلاب محليين من منغوليا. وقالت الشركة إنها زرعت في الموقع 1000 شتلة باسم طراز بوينغ 777، الذي وصفته بأنه يتمتع بأثر جيد في خفض انبعاثات الكربون. وتواصل الخطوط الجوية الكورية منذ عام 2004 أنشطة تطوعية في منغوليا لإنشاء غابات تعمل كمصدات للرياح في مواجهة التصحر والرياح الرملية. وتبرز هذه الزراعة استمرار الجهود طويلة الأمد لتحسين البيئة المحلية وبناء الغابات. المصدر: rss.donga.com."
-      },
-      "hi": {
-        "title": "कोरियन एयर ने मंगोलिया के रेगिस्तान में विंडब्रेक वन के लिए 1,000 पौधे लगाए",
-        "excerpt": "कोरियन एयर ने 12 तारीख को उलानबटार के बागानूर स्थित “कोरियन एयर फॉरेस्ट” में कर्मचारियों और स्थानीय छात्रों के साथ 1,000 पौधे लगाने की स्वयंसेवी गतिविधि की।",
-        "body": "कोरियन एयर ने 12 तारीख को मंगोलिया के उलानबटार स्थित बागानूर के “कोरियन एयर फॉरेस्ट” में वृक्षारोपण स्वयंसेवी गतिविधि आयोजित की, जिसमें कंपनी के कर्मचारियों और मंगोलिया के स्थानीय छात्रों ने साथ मिलकर पेड़ लगाए। कंपनी ने बताया कि उसने कार्बन उत्सर्जन में कमी के प्रभाव के लिए पहचाने जाने वाले बोइंग 777 विमान मॉडल के नाम पर वहां 1,000 पौधे लगाए। कोरियन एयर 2004 से मंगोलिया में मरुस्थलीकरण और रेतीली हवाओं से निपटने के लिए विंडब्रेक वन बनाने की स्वयंसेवी गतिविधियां जारी रखे हुए है। यह वृक्षारोपण स्थानीय पर्यावरण सुधार और दीर्घकालिक वन निर्माण प्रयासों की निरंतरता को दिखाता है। स्रोत: rss.donga.com."
-      },
-      "id": {
-        "title": "Korean Air Tanam 1.000 Pohon untuk Hutan Penahan Angin di Gurun Mongolia",
-        "excerpt": "Korean Air pada tanggal 12 menggelar aksi sukarela di “Korean Air Forest” di Baganuur, Ulaanbaatar, bersama karyawan dan siswa lokal yang menanam 1.000 bibit.",
-        "body": "Korean Air pada tanggal 12 mengadakan kegiatan sukarela penanaman pohon di “Korean Air Forest” yang berada di Baganuur, Ulaanbaatar, Mongolia. Kegiatan itu melibatkan karyawan perusahaan dan siswa lokal Mongolia yang menanam pohon bersama. Perusahaan menjelaskan bahwa 1.000 bibit ditanam di lokasi tersebut atas nama jenis pesawat Boeing 777, yang disebut memiliki efek baik dalam mengurangi emisi karbon. Sejak 2004, Korean Air terus menjalankan kegiatan sukarela di Mongolia untuk membentuk hutan penahan angin sebagai respons terhadap desertifikasi dan angin pasir. Penanaman ini menunjukkan kesinambungan upaya jangka panjang dalam pembentukan hutan dan perbaikan lingkungan setempat. Sumber: rss.donga.com."
-      }
-    }
-  },
-  {
-    "id": "31aaabbb367a",
-    "slug": "반클리프-아펠-첫-서울캠퍼스-주얼리-제작-기법-등-3주-개설-637473",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T00:00:26.074Z",
-    "updatedAt": "2026-05-13T00:00:26.074Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908508/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908508/2",
-    "titleFingerprint": "ae0b6a4028730528d63c7f81b4d7d98efeb72e3f",
-    "dedupKeys": [
-      "31aaabbb367a5279c61e2d156b6e829da1311172",
-      "ae0b6a4028730528d63c7f81b4d7d98efeb72e3f",
-      "b4da7c165f3c0e571b63a888393b8689065a676e"
-    ],
-    "imageUrl": "/images/articles/31aaabbb367a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반클리프 아펠 레꼴 주얼리 스쿨, 서울 첫 캠퍼스 북촌서 3주간 열린다",
-        "excerpt": "반클리프 아펠이 후원하는 레꼴 주얼리 스쿨이 6월 25일부터 7월 15일까지 서울 북촌 푸투라서울에서 국내 첫 캠퍼스를 열고 주얼리 역사·제작 기법 교육과 전시를 선보인다.",
-        "body": "프랑스 명품 주얼리·시계 브랜드 반클리프 아펠은 레꼴 주얼리 스쿨(L’ECOLE, School of Jewelry Arts)이 6월 25일부터 7월 15일까지 서울 북촌 푸투라서울에서 3주간 국내 첫 캠퍼스를 개설한다고 12일 밝혔다. 레꼴 주얼리 스쿨은 2012년 반클리프 아펠의 후원으로 설립된 교육 기관으로, 강의와 워크숍, 전시, 팟캐스트 등을 통해 주얼리 문화를 소개해 왔다. 미술사학자, 보석학자, 장인 등이 참여하는 실습 중심 교육도 특징이다. 이번 서울 캠퍼스에서는 주얼리 역사와 제작 기법 등을 주제로 총 102개 세션이 운영되며 특별 전시도 함께 진행된다. 국내에서 처음 열리는 캠퍼스인 만큼 주얼리 예술과 제작 과정을 접할 수 있는 교육 프로그램으로 관심을 모을 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Van Cleef & Arpels’ L’ECOLE Jewelry School to Open First Seoul Campus in Bukchon",
-        "excerpt": "L’ECOLE, School of Jewelry Arts, supported by Van Cleef & Arpels, will open its first Korea campus from June 25 to July 15 at Futura Seoul in Bukchon, offering jewelry history, craft sessions and an exhibition.",
-        "body": "French luxury jewelry and watch brand Van Cleef & Arpels said on the 12th that L’ECOLE, School of Jewelry Arts, will open its first campus in Korea for three weeks from June 25 to July 15 at Futura Seoul in Bukchon, Seoul. Founded in 2012 with support from Van Cleef & Arpels, L’ECOLE is an educational institution that introduces jewelry culture through lectures, workshops, exhibitions and podcasts. It is also known for hands-on education led by art historians, gemologists and artisans. The Seoul campus will run a total of 102 sessions on topics including jewelry history and production techniques, along with a special exhibition. As the school’s first campus in Korea, the program is expected to draw attention as an opportunity to experience jewelry arts and the making process. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ヴァン クリーフ＆アーペルのレコール、ソウル初キャンパスを北村で3週間開設",
-        "excerpt": "ヴァン クリーフ＆アーペルが支援するレコール ジュエリー スクールが6月25日から7月15日まで、ソウル北村のフューチュラソウルで韓国初のキャンパスを開き、ジュエリー史や制作技法の講座と展示を行う。",
-        "body": "フランスの高級ジュエリー・時計ブランド、ヴァン クリーフ＆アーペルは12日、レコール ジュエリー スクール（L’ECOLE, School of Jewelry Arts）が6月25日から7月15日まで、ソウル北村のフューチュラソウルで3週間にわたり韓国初のキャンパスを開設すると発表した。レコール ジュエリー スクールは2012年、ヴァン クリーフ＆アーペルの支援で設立された教育機関で、講義、ワークショップ、展示、ポッドキャストなどを通じてジュエリー文化を紹介してきた。美術史家、宝石学者、職人らが参加する実習中心の教育も特徴だ。今回のソウルキャンパスでは、ジュエリーの歴史や制作技法などをテーマに計102のセッションを運営し、特別展示も同時に行われる。韓国で初めて開かれるキャンパスとして、ジュエリー芸術と制作過程に触れられる教育プログラムとして注目されそうだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "梵克雅宝L’ECOLE珠宝艺术学院首个首尔校区将在北村开放三周",
-        "excerpt": "由梵克雅宝支持的L’ECOLE珠宝艺术学院将于6月25日至7月15日在首尔北村Futura Seoul开设韩国首个校区，推出珠宝历史、制作技法课程及特别展览。",
-        "body": "法国奢华珠宝与腕表品牌梵克雅宝12日表示，L’ECOLE珠宝艺术学院（L’ECOLE, School of Jewelry Arts）将于6月25日至7月15日在首尔北村Futura Seoul开设为期三周的韩国首个校区。L’ECOLE珠宝艺术学院于2012年在梵克雅宝支持下成立，是通过讲座、工作坊、展览、播客等方式介绍珠宝文化的教育机构。其课程也以美术史学者、宝石学家和工匠参与的实践型教育为特色。此次首尔校区将围绕珠宝历史、制作技法等主题开设共102场课程，并同步举办特别展览。作为该学院在韩国首次开设的校区，这一项目有望因提供接触珠宝艺术与制作过程的教育机会而受到关注。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "L’ECOLE de Van Cleef & Arpels abrirá en Bukchon su primer campus de Seúl durante tres semanas",
-        "excerpt": "L’ECOLE, School of Jewelry Arts, apoyada por Van Cleef & Arpels, abrirá del 25 de junio al 15 de julio su primer campus en Corea en Futura Seoul, Bukchon, con cursos de historia y técnicas de joyería y una exposición especial.",
-        "body": "La marca francesa de joyería y relojería de lujo Van Cleef & Arpels informó el día 12 que L’ECOLE, School of Jewelry Arts, abrirá su primer campus en Corea durante tres semanas, del 25 de junio al 15 de julio, en Futura Seoul, en Bukchon, Seúl. Fundada en 2012 con el apoyo de Van Cleef & Arpels, L’ECOLE es una institución educativa que presenta la cultura de la joyería mediante conferencias, talleres, exposiciones y pódcasts. También se caracteriza por una enseñanza práctica en la que participan historiadores del arte, gemólogos y artesanos. En este campus de Seúl se ofrecerán 102 sesiones en total sobre temas como la historia de la joyería y las técnicas de fabricación, además de una exposición especial. Al tratarse del primer campus en Corea, el programa atraerá atención como una oportunidad para conocer el arte joyero y sus procesos de creación. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "L’ECOLE da Van Cleef & Arpels abre primeiro campus em Seul por três semanas em Bukchon",
-        "excerpt": "A L’ECOLE, School of Jewelry Arts, apoiada pela Van Cleef & Arpels, abrirá de 25 de junho a 15 de julho seu primeiro campus na Coreia, no Futura Seoul, em Bukchon, com sessões sobre história e técnicas de joalheria e exposição especial.",
-        "body": "A marca francesa de joias e relógios de luxo Van Cleef & Arpels informou no dia 12 que a L’ECOLE, School of Jewelry Arts, abrirá seu primeiro campus na Coreia por três semanas, de 25 de junho a 15 de julho, no Futura Seoul, em Bukchon, Seul. Fundada em 2012 com o apoio da Van Cleef & Arpels, a L’ECOLE é uma instituição educacional que apresenta a cultura da joalheria por meio de palestras, workshops, exposições e podcasts. A escola também se destaca pelo ensino prático com a participação de historiadores da arte, gemólogos e artesãos. No campus de Seul serão realizadas 102 sessões ao todo sobre temas como história da joalheria e técnicas de fabricação, além de uma exposição especial. Por ser o primeiro campus no país, o programa deve chamar atenção como oportunidade de conhecer a arte joalheira e seus processos de criação. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Van Cleef & Arpels’ L’ECOLE eröffnet ersten Seoul-Campus für drei Wochen in Bukchon",
-        "excerpt": "Die von Van Cleef & Arpels unterstützte L’ECOLE, School of Jewelry Arts, eröffnet vom 25. Juni bis 15. Juli im Futura Seoul in Bukchon ihren ersten Campus in Korea mit Kursen zu Schmuckgeschichte, Herstellungstechniken und einer Sonderausstellung.",
-        "body": "Die französische Luxusmarke für Schmuck und Uhren Van Cleef & Arpels teilte am 12. mit, dass L’ECOLE, School of Jewelry Arts, vom 25. Juni bis 15. Juli für drei Wochen ihren ersten Campus in Korea im Futura Seoul in Bukchon, Seoul, eröffnen wird. Die L’ECOLE wurde 2012 mit Unterstützung von Van Cleef & Arpels gegründet und ist eine Bildungseinrichtung, die Schmuckkultur durch Vorträge, Workshops, Ausstellungen und Podcasts vermittelt. Kennzeichnend ist zudem praxisorientierter Unterricht, an dem Kunsthistoriker, Gemmologen und Handwerker mitwirken. Auf dem Seoul-Campus werden insgesamt 102 Sitzungen zu Themen wie Schmuckgeschichte und Herstellungstechniken angeboten; außerdem findet eine Sonderausstellung statt. Als erster Campus in Korea dürfte das Programm Aufmerksamkeit wecken, weil es Einblicke in Schmuckkunst und Herstellungsprozesse bietet. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "L’ECOLE de Van Cleef & Arpels ouvre son premier campus à Séoul pour trois semaines à Bukchon",
-        "excerpt": "L’ECOLE, School of Jewelry Arts, soutenue par Van Cleef & Arpels, ouvrira du 25 juin au 15 juillet son premier campus en Corée à Futura Seoul, à Bukchon, avec des sessions sur l’histoire et les techniques joaillières et une exposition spéciale.",
-        "body": "La maison française de joaillerie et d’horlogerie de luxe Van Cleef & Arpels a annoncé le 12 que L’ECOLE, School of Jewelry Arts, ouvrira son premier campus en Corée pendant trois semaines, du 25 juin au 15 juillet, à Futura Seoul, dans le quartier de Bukchon à Séoul. Créée en 2012 avec le soutien de Van Cleef & Arpels, L’ECOLE est une institution éducative qui présente la culture joaillière à travers des cours, des ateliers, des expositions et des podcasts. Elle se distingue aussi par une formation pratique réunissant historiens de l’art, gemmologues et artisans. Ce campus de Séoul proposera au total 102 sessions autour de thèmes comme l’histoire de la joaillerie et les techniques de fabrication, ainsi qu’une exposition spéciale. Premier campus organisé en Corée, ce programme devrait retenir l’attention comme occasion de découvrir l’art joaillier et ses procédés de création. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "مدرسة L’ECOLE من فان كليف أند آربلز تفتح أول حرم لها في سيول لمدة ثلاثة أسابيع",
-        "excerpt": "تفتح مدرسة L’ECOLE لفنون المجوهرات، المدعومة من فان كليف أند آربلز، أول حرم لها في كوريا من 25 يونيو إلى 15 يوليو في فوتورا سيول بمنطقة بوكتشون، مع جلسات عن تاريخ المجوهرات وتقنيات صناعتها ومعرض خاص.",
-        "body": "أعلنت علامة المجوهرات والساعات الفرنسية الفاخرة فان كليف أند آربلز في 12 من الشهر أن مدرسة L’ECOLE لفنون المجوهرات ستفتح أول حرم لها في كوريا لمدة ثلاثة أسابيع، من 25 يونيو إلى 15 يوليو، في فوتورا سيول بمنطقة بوكتشون في سيول. تأسست المدرسة عام 2012 بدعم من فان كليف أند آربلز، وهي مؤسسة تعليمية تعرّف بثقافة المجوهرات عبر المحاضرات وورش العمل والمعارض والبودكاست. وتتميز أيضا بتعليم عملي يشارك فيه مؤرخو فنون وعلماء أحجار كريمة وحرفيون. وسيقدم حرم سيول ما مجموعه 102 جلسة حول موضوعات تشمل تاريخ المجوهرات وتقنيات تصنيعها، إلى جانب معرض خاص. وباعتباره أول حرم للمدرسة في كوريا، من المتوقع أن يلفت البرنامج الاهتمام بوصفه فرصة للتعرف إلى فنون المجوهرات وعمليات صناعتها. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Van Cleef & Arpels समर्थित L’ECOLE का पहला सियोल कैंपस बुकचोन में तीन सप्ताह खुलेगा",
-        "excerpt": "Van Cleef & Arpels समर्थित L’ECOLE, School of Jewelry Arts 25 जून से 15 जुलाई तक सियोल के बुकचोन स्थित Futura Seoul में कोरिया का पहला कैंपस खोलेगा, जहां आभूषण इतिहास, निर्माण तकनीक और विशेष प्रदर्शनी होगी।",
-        "body": "फ्रांस के लक्जरी ज्वेलरी और वॉच ब्रांड Van Cleef & Arpels ने 12 तारीख को बताया कि L’ECOLE, School of Jewelry Arts 25 जून से 15 जुलाई तक तीन सप्ताह के लिए सियोल के बुकचोन स्थित Futura Seoul में कोरिया का पहला कैंपस खोलेगा। L’ECOLE की स्थापना 2012 में Van Cleef & Arpels के सहयोग से हुई थी। यह एक शैक्षणिक संस्था है जो व्याख्यान, वर्कशॉप, प्रदर्शनी और पॉडकास्ट के माध्यम से ज्वेलरी संस्कृति का परिचय कराती है। इसकी विशेषता कला इतिहासकारों, रत्न विशेषज्ञों और कारीगरों की भागीदारी वाला व्यावहारिक शिक्षण भी है। इस सियोल कैंपस में ज्वेलरी इतिहास और निर्माण तकनीकों जैसे विषयों पर कुल 102 सत्र चलाए जाएंगे और एक विशेष प्रदर्शनी भी आयोजित होगी। कोरिया में पहली बार खुल रहे इस कैंपस के कारण यह कार्यक्रम ज्वेलरी कला और निर्माण प्रक्रिया को समझने के अवसर के रूप में ध्यान आकर्षित कर सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "L’ECOLE Van Cleef & Arpels Buka Kampus Seoul Pertama Selama Tiga Pekan di Bukchon",
-        "excerpt": "L’ECOLE, School of Jewelry Arts yang didukung Van Cleef & Arpels akan membuka kampus pertama di Korea pada 25 Juni-15 Juli di Futura Seoul, Bukchon, dengan sesi sejarah dan teknik pembuatan perhiasan serta pameran khusus.",
-        "body": "Merek perhiasan dan jam tangan mewah Prancis Van Cleef & Arpels menyatakan pada tanggal 12 bahwa L’ECOLE, School of Jewelry Arts, akan membuka kampus pertamanya di Korea selama tiga pekan, dari 25 Juni hingga 15 Juli, di Futura Seoul, Bukchon, Seoul. L’ECOLE didirikan pada 2012 dengan dukungan Van Cleef & Arpels sebagai lembaga pendidikan yang memperkenalkan budaya perhiasan melalui kuliah, lokakarya, pameran, dan podcast. Sekolah ini juga dikenal dengan pendidikan berbasis praktik yang melibatkan sejarawan seni, gemolog, dan perajin. Kampus Seoul kali ini akan menjalankan total 102 sesi dengan tema seperti sejarah perhiasan dan teknik pembuatannya, serta menghadirkan pameran khusus. Sebagai kampus pertama di Korea, program ini diperkirakan menarik perhatian sebagai kesempatan untuk mengenal seni perhiasan dan proses pembuatannya. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "69ae4c3f3669",
-    "slug": "얼어-죽어도-신축이지입주-없는-서울서-벌어진-일-888055",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T23:59:14.347Z",
-    "updatedAt": "2026-05-12T23:59:14.348Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051325206",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051325206",
-    "titleFingerprint": "8c88f8241977e1a00e1a26dcfce6a6ecc1a877a9",
-    "dedupKeys": [
-      "69ae4c3f36690c46411bb948d5e6d7ffb79886e6",
-      "8c88f8241977e1a00e1a26dcfce6a6ecc1a877a9",
-      "90badafbdd68b6fd2d04d38e49937dffd4bef725"
-    ],
-    "imageUrl": "/images/articles/69ae4c3f3669.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 신축 품귀에 분양·입주권 거래 급증, ‘얼죽신’ 수요가 바꾼 시장",
-        "excerpt": "서울에서 새 아파트 공급 부족이 이어지자 올해 1~4월 분양권·입주권 거래가 453건으로 전년 대비 98.7% 늘며 신축 선호가 거래 시장으로 확산됐다.",
-        "body": "서울 아파트 시장에서 ‘얼어 죽어도 신축’으로 불리는 신축 선호가 분양권·입주권 거래로 번졌다. 국토교통부 실거래가 공개시스템에 따르면 올해 1~4월 서울 분양권·입주권 매매는 453건으로, 지난해 같은 기간 228건보다 98.7% 늘었다. 동대문구가 102건으로 가장 많았고 강동구가 77건으로 뒤를 이었다. 강동구에서는 올림픽파크포레온 거래가 64건이었다. 반면 강남·서초·송파와 용산은 3월 24일 토지거래허가구역 확대 지정 이후 거래가 없었다. 지난해 기준 서울의 준공 20년 이상 아파트는 97만552가구로 전체의 59.5%였고, 올해 일반분양은 6523가구로 전년보다 33.8% 줄 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Seoul New-Build Shortage Drives Surge in Presale and Occupancy-Right Deals",
-        "excerpt": "As Seoul’s supply of new apartments tightens, presale and occupancy-right transactions reached 453 from January to April, up 98.7% year on year, reflecting strong demand for newer homes.",
-        "body": "In Seoul’s apartment market, demand for new homes has spread into the presale and occupancy-right market. According to the Ministry of Land, Infrastructure and Transport’s transaction disclosure system, Seoul recorded 453 presale and occupancy-right sales from January to April this year, up 98.7% from 228 in the same period last year. Dongdaemun-gu led with 102 deals, followed by Gangdong-gu with 77. In Gangdong-gu, Olympic Park Foreon alone accounted for 64 transactions. By contrast, Gangnam, Seocho, Songpa and Yongsan saw no such deals after the land transaction permit zone was expanded on March 24. As of last year, Seoul had 970,552 apartments aged 20 years or more, 59.5% of the total, while general presale supply this year is expected to fall 33.8% to 6,523 units. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ソウル新築不足で分譲権・入居権取引が急増、需要が市場を動かす",
-        "excerpt": "ソウルで新築マンション供給不足が続く中、今年1～4月の分譲権・入居権取引は453件となり、前年同期比98.7%増えた。",
-        "body": "ソウルのマンション市場で、新築を強く好む需要が分譲権・入居権取引に広がっている。国土交通部の実取引価格公開システムによると、今年1～4月のソウルの分譲権・入居権売買は453件で、前年同期の228件から98.7%増加した。区別では東大門区が102件で最多、江東区が77件で続いた。江東区ではオリンピックパークフォレオンだけで64件の取引があった。一方、江南・瑞草・松坡の江南3区と龍山区では、3月24日の土地取引許可区域拡大後、取引がなかった。昨年時点でソウルの築20年以上のマンションは97万552戸、全体の59.5%を占め、今年の一般分譲は6523戸と前年比33.8%減る見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "首尔新房稀缺推高预售权和入住权交易，刚需流向新盘市场",
-        "excerpt": "首尔新建公寓供应不足持续，今年1至4月预售权和入住权交易达453宗，同比增加98.7%，显示新房偏好正扩散至交易市场。",
-        "body": "在首尔公寓市场，对新房的偏好已扩散到预售权和入住权交易。韩国国土交通部实际成交价公开系统显示，今年1至4月，首尔预售权和入住权买卖共453宗，较去年同期的228宗增加98.7%。按行政区看，东大门区以102宗居首，江东区以77宗随后。江东区的Olympic Park Foreon单一项目就有64宗交易。相反，江南、瑞草、松坡和龙山在3月24日土地交易许可区扩大指定后没有相关交易。截至去年，首尔建成20年以上公寓为970,552户，占总量59.5%；今年普通分售预计为6,523户，较上年减少33.8%。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La escasez de obra nueva en Seúl dispara las ventas de derechos de vivienda",
-        "excerpt": "Ante la falta de apartamentos nuevos en Seúl, las ventas de derechos de preventa y ocupación sumaron 453 entre enero y abril, un 98,7% más interanual.",
-        "body": "En el mercado de apartamentos de Seúl, la preferencia por vivienda nueva se trasladó a los derechos de preventa y de ocupación. Según el sistema público de transacciones del Ministerio de Tierra, Infraestructura y Transporte, entre enero y abril se registraron 453 operaciones de este tipo en Seúl, un 98,7% más que las 228 del mismo periodo del año anterior. Dongdaemun-gu lideró con 102 operaciones y Gangdong-gu siguió con 77. En Gangdong-gu, Olympic Park Foreon concentró 64 ventas. En cambio, Gangnam, Seocho, Songpa y Yongsan no registraron operaciones tras la ampliación de la zona con permiso de transacción de suelo el 24 de marzo. El año pasado, Seúl tenía 970.552 apartamentos de más de 20 años, el 59,5% del total, y la oferta general de este año bajaría un 33,8% hasta 6.523 viviendas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Escassez de imóveis novos em Seul impulsiona direitos de pré-venda e ocupação",
-        "excerpt": "Com a falta de apartamentos novos em Seul, as transações de direitos de pré-venda e ocupação chegaram a 453 entre janeiro e abril, alta anual de 98,7%.",
-        "body": "No mercado de apartamentos de Seul, a preferência por unidades novas passou para os direitos de pré-venda e de ocupação. Segundo o sistema público de transações do Ministério da Terra, Infraestrutura e Transporte, Seul registrou 453 vendas desses direitos entre janeiro e abril deste ano, 98,7% acima das 228 do mesmo período do ano passado. Dongdaemun-gu liderou com 102 negócios, seguido por Gangdong-gu com 77. Em Gangdong-gu, o Olympic Park Foreon respondeu por 64 transações. Em contraste, Gangnam, Seocho, Songpa e Yongsan não tiveram negócios após a ampliação da zona de permissão para transações de terrenos em 24 de março. No ano passado, Seul tinha 970.552 apartamentos com 20 anos ou mais, 59,5% do total; a oferta geral deste ano deve cair 33,8%, para 6.523 unidades. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Neubauknappheit in Seoul treibt Handel mit Bezugs- und Vorverkaufsrechten",
-        "excerpt": "Weil neue Wohnungen in Seoul knapp sind, stiegen die Verkäufe von Vorverkaufs- und Bezugsrechten von Januar bis April auf 453 Fälle, 98,7% mehr als vor einem Jahr.",
-        "body": "Auf dem Seouler Wohnungsmarkt verlagert sich die starke Nachfrage nach Neubauten auf Vorverkaufs- und Bezugsrechte. Nach dem Offenlegungssystem des Ministeriums für Land, Infrastruktur und Verkehr wurden von Januar bis April dieses Jahres 453 solche Verkäufe in Seoul registriert, 98,7% mehr als die 228 im Vorjahreszeitraum. Dongdaemun-gu lag mit 102 Transaktionen vorn, gefolgt von Gangdong-gu mit 77. In Gangdong-gu entfielen allein 64 Geschäfte auf Olympic Park Foreon. Dagegen gab es in Gangnam, Seocho, Songpa und Yongsan nach der Ausweitung der Genehmigungszone für Grundstückstransaktionen am 24. März keine entsprechenden Verkäufe. Im Vorjahr waren 970.552 Wohnungen in Seoul mindestens 20 Jahre alt, 59,5% des Bestands; die allgemeine Neubauvermarktung dürfte dieses Jahr um 33,8% auf 6.523 Einheiten sinken. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "À Séoul, la pénurie de logements neufs dope les droits de prévente et d’entrée",
-        "excerpt": "Faute d’appartements neufs à Séoul, les ventes de droits de prévente et d’occupation ont atteint 453 entre janvier et avril, en hausse de 98,7% sur un an.",
-        "body": "Sur le marché des appartements de Séoul, l’attrait pour le neuf s’est déplacé vers les droits de prévente et d’occupation. Selon le système de publication des transactions du ministère du Territoire, des Infrastructures et des Transports, 453 ventes de ce type ont été enregistrées à Séoul de janvier à avril, soit 98,7% de plus que les 228 de la même période l’an dernier. Dongdaemun-gu arrive en tête avec 102 transactions, devant Gangdong-gu avec 77. À Gangdong-gu, Olympic Park Foreon a compté à lui seul 64 ventes. À l’inverse, Gangnam, Seocho, Songpa et Yongsan n’ont enregistré aucune transaction après l’extension, le 24 mars, de la zone soumise à autorisation foncière. L’an dernier, Séoul comptait 970 552 appartements de plus de 20 ans, soit 59,5% du parc; l’offre générale cette année devrait reculer de 33,8% à 6 523 logements. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ندرة الشقق الجديدة في سول ترفع تداول حقوق البيع المسبق والسكن",
-        "excerpt": "مع استمرار نقص الشقق الجديدة في سول، بلغت معاملات حقوق البيع المسبق وحقوق السكن 453 صفقة بين يناير وأبريل، بزيادة 98.7% على أساس سنوي.",
-        "body": "في سوق الشقق في سول، انتقل الطلب القوي على المساكن الجديدة إلى سوق حقوق البيع المسبق وحقوق السكن. ووفقا لنظام الإفصاح عن الصفقات التابع لوزارة الأراضي والبنية التحتية والنقل، سجلت سول 453 صفقة من هذا النوع بين يناير وأبريل هذا العام، مقابل 228 صفقة في الفترة نفسها من العام الماضي، بزيادة 98.7%. وتصدر حي دونغدايمون بـ102 صفقة، تلاه حي غانغدونغ بـ77 صفقة، منها 64 صفقة في مشروع Olympic Park Foreon وحده. وفي المقابل، لم تسجل غانغنام وسوتشو وسونغبا ويونغسان أي صفقات بعد توسيع منطقة تصريح معاملات الأراضي في 24 مارس. وفي العام الماضي، بلغ عدد الشقق التي يزيد عمرها على 20 عاما في سول 970,552 وحدة، أي 59.5% من الإجمالي، بينما من المتوقع أن ينخفض الطرح العام هذا العام 33.8% إلى 6,523 وحدة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सोल में नए फ्लैटों की कमी से प्रीसेल और ऑक्युपेंसी राइट्स के सौदे तेज",
-        "excerpt": "सोल में नए अपार्टमेंट की कमी के बीच जनवरी से अप्रैल तक प्रीसेल और ऑक्युपेंसी राइट्स के 453 सौदे हुए, जो एक साल पहले से 98.7% अधिक हैं।",
-        "body": "सोल के अपार्टमेंट बाजार में नए घरों की मजबूत पसंद अब प्रीसेल और ऑक्युपेंसी राइट्स के सौदों में दिख रही है। भूमि, अवसंरचना और परिवहन मंत्रालय के वास्तविक लेनदेन प्रकटीकरण सिस्टम के अनुसार, इस साल जनवरी से अप्रैल तक सोल में ऐसे 453 सौदे हुए, जबकि पिछले साल इसी अवधि में 228 सौदे हुए थे; यानी 98.7% वृद्धि। डोंगडेमुन-गु 102 सौदों के साथ पहले स्थान पर रहा और गांगडोंग-गु 77 सौदों के साथ दूसरे स्थान पर रहा। गांगडोंग-गु में Olympic Park Foreon में ही 64 सौदे हुए। इसके विपरीत, गांगनाम, सेओचो, सोंगपा और योंगसान में 24 मार्च को भूमि लेनदेन अनुमति क्षेत्र बढ़ाए जाने के बाद कोई सौदा नहीं हुआ। पिछले साल सोल में 20 वर्ष या उससे पुराने अपार्टमेंट 970,552 थे, जो कुल का 59.5% है; इस साल सामान्य बिक्री आपूर्ति 33.8% घटकर 6,523 इकाई रहने का अनुमान है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kelangkaan Apartemen Baru di Seoul Dorong Lonjakan Hak Prajual dan Hunian",
-        "excerpt": "Saat pasokan apartemen baru di Seoul makin terbatas, transaksi hak prajual dan hak hunian mencapai 453 pada Januari-April, naik 98,7% secara tahunan.",
-        "body": "Di pasar apartemen Seoul, minat kuat pada hunian baru merembet ke transaksi hak prajual dan hak hunian. Menurut sistem publik transaksi Kementerian Pertanahan, Infrastruktur, dan Transportasi, Seoul mencatat 453 transaksi hak prajual dan hak hunian pada Januari-April tahun ini, naik 98,7% dari 228 transaksi pada periode yang sama tahun lalu. Dongdaemun-gu memimpin dengan 102 transaksi, disusul Gangdong-gu dengan 77 transaksi. Di Gangdong-gu, Olympic Park Foreon saja mencatat 64 transaksi. Sebaliknya, Gangnam, Seocho, Songpa, dan Yongsan tidak mencatat transaksi setelah perluasan zona izin transaksi tanah pada 24 Maret. Tahun lalu, Seoul memiliki 970.552 apartemen berusia 20 tahun atau lebih, 59,5% dari total; pasokan penjualan umum tahun ini diperkirakan turun 33,8% menjadi 6.523 unit. Sumber: hankyung.com"
       }
     }
   }
