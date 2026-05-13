@@ -1,5 +1,230 @@
 [
   {
+    "id": "62e1d8dbdc5a",
+    "slug": "대부업체-해킹-철저-대비를-금감원-ceo-불러-보안-당부-630432",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T17:05:46.365Z",
+    "updatedAt": "2026-05-13T17:05:46.365Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917403/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917403/2",
+    "titleFingerprint": "24e171089ea43f1e2906b5a063be14cf6b4d4a5a",
+    "dedupKeys": [
+      "62e1d8dbdc5a79960f9b6a80f4166912bb697d17",
+      "24e171089ea43f1e2906b5a063be14cf6b4d4a5a",
+      "e2249f279530dd7937392d908df6dc19c48df2fd"
+    ],
+    "imageUrl": "/images/articles/62e1d8dbdc5a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대부업체 해킹 잇따르자 금감원, CEO 20명 소집해 보안 강화 당부",
+        "excerpt": "금융감독원은 13일 최근 대부회사 고객정보 유출과 피싱 시도에 대응해 20개 대부업체 CEO 간담회를 열고 보안 체계 강화를 요청했다.",
+        "body": "금융감독원은 13일 김형원 민생금융 담당 부원장보 주재로 20개 대부업체 최고경영자(CEO)와 간담회를 열고 해킹 사고 대비와 보안 강화를 당부했다. 최근 대부회사에서 고객정보 유출 사고가 잇따른 데 따른 조치다. 앞서 3월 국내 대부업체 1위 리드코프의 자회사인 앤알캐피탈대부와 엠에스아이대부에서 고객 정보가 유출됐다. 금감원에 따르면 직원이 업무용 PC로 외부 인터넷 사이트에 접속하다 악성코드에 감염되며 사고가 발생했다. 해커들은 빼낸 고객 정보를 다크웹에서 판매하겠다는 글로 대부업체를 협박했고, 고객에게는 대부업체 명의로 코인을 보내면 채무를 면제해주겠다는 피싱 메일을 보내 추가 범죄를 시도했다. 소비자 피해 우려가 커지면서 대부업계 보안 관리의 중요성이 부각되고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "After loan firm hacks, FSS summons 20 CEOs to urge tighter security",
+        "excerpt": "On May 13, South Korea’s Financial Supervisory Service met CEOs of 20 loan firms after customer data leaks and phishing attempts raised consumer harm concerns.",
+        "body": "South Korea’s Financial Supervisory Service said on May 13 that it held a meeting with the CEOs of 20 loan companies, chaired by Assistant Governor Kim Hyung-won for livelihood finance, and urged stronger preparation for hacking incidents and tighter security. The move followed a series of customer data leaks at loan firms. In March, data was leaked from NR Capital Loan and MSI Loan, subsidiaries of Leadcorp, the country’s largest loan company. According to the FSS, the incidents occurred when employees accessed external internet sites on work PCs and were infected with malware. Hackers used the stolen customer data to threaten the companies by posting that they would sell personal information on the dark web. They also attempted further crimes by sending phishing emails to customers in the names of loan firms, saying debts would be forgiven if coins were sent. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "貸金業者の相次ぐハッキング受け、金融監督院がCEO20人に保安強化要請",
+        "excerpt": "金融監督院は13日、貸金業者の顧客情報流出とフィッシング試行を受け、20社のCEOを集めて保安体制の強化を求めた。",
+        "body": "韓国金融監督院は13日、民生金融担当の金亨源副院長補が主宰し、貸金業者20社の最高経営責任者（CEO）との懇談会を開き、ハッキング事故への備えと保安強化を要請した。最近、貸金会社で顧客情報の流出事故が相次いだことを受けた措置だ。3月には、国内最大手のリードコープの子会社であるNRキャピタル貸付とMSI貸付で顧客情報が流出した。金融監督院によると、事故は従業員が業務用PCで外部インターネットサイトに接続し、マルウェアに感染したことで発生した。ハッカーは盗み出した顧客情報をダークウェブで販売すると投稿して業者を脅迫し、顧客には業者名義でコインを送れば債務を免除するとするフィッシングメールを送るなど、追加犯罪も試みた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "贷款公司接连遭黑客攻击，韩国金监院召集20名CEO敦促强化安全",
+        "excerpt": "韩国金融监督院13日因贷款公司客户信息泄露和钓鱼邮件风险，召集20家贷款公司CEO开会，要求加强网络安全。",
+        "body": "韩国金融监督院13日表示，由负责民生金融的副院长助理金亨元主持，与20家贷款公司首席执行官举行座谈会，要求彻底防范黑客攻击并加强安全管理。此举是针对近期贷款公司接连发生客户信息泄露事故的后续措施。今年3月，韩国最大贷款公司Leadcorp旗下的NR Capital Loan和MSI Loan发生客户信息外泄。金监院称，事故原因是员工使用办公电脑访问外部网站时感染恶意代码。黑客窃取客户信息后，在暗网上发布出售个人信息的帖子，以此威胁贷款公司；同时还冒用贷款公司名义向客户发送钓鱼邮件，声称发送加密货币即可免除债务，试图实施进一步犯罪。消费者受害风险因此受到关注。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Tras hackeos a prestamistas, el supervisor financiero reúne a 20 CEOs",
+        "excerpt": "El 13 de mayo, el Servicio de Supervisión Financiera de Corea reunió a 20 CEOs de prestamistas tras filtraciones de datos y correos de phishing.",
+        "body": "El Servicio de Supervisión Financiera de Corea del Sur informó que el 13 de mayo celebró una reunión con los directores ejecutivos de 20 empresas de préstamos, presidida por Kim Hyung-won, subgobernador adjunto encargado de finanzas para la población, para pedir una preparación rigurosa frente a hackeos y un refuerzo de la seguridad. La medida responde a recientes filtraciones de datos de clientes en compañías del sector. En marzo, se filtró información en NR Capital Loan y MSI Loan, filiales de Leadcorp, la mayor prestamista del país. Según el supervisor, los incidentes ocurrieron cuando empleados accedieron a sitios externos desde computadoras de trabajo y resultaron infectados con malware. Los hackers amenazaron a las empresas publicando en la dark web que venderían los datos y enviaron correos de phishing a clientes diciendo que se condonarían deudas si enviaban monedas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Após ataques a financeiras, regulador reúne 20 CEOs e pede mais segurança",
+        "excerpt": "Em 13 de maio, o regulador financeiro da Coreia do Sul reuniu CEOs de 20 financeiras após vazamentos de dados e tentativas de phishing contra clientes.",
+        "body": "O Serviço de Supervisão Financeira da Coreia do Sul informou que, em 13 de maio, realizou uma reunião com os CEOs de 20 empresas de empréstimos, presidida por Kim Hyung-won, vice-governador assistente responsável por finanças populares, para pedir preparação contra ataques hackers e reforço da segurança. A medida veio após uma sequência de vazamentos de dados de clientes no setor. Em março, informações foram vazadas na NR Capital Loan e na MSI Loan, subsidiárias da Leadcorp, maior financeira do país. Segundo o regulador, os incidentes ocorreram quando funcionários acessaram sites externos em computadores de trabalho e foram infectados por malware. Os hackers ameaçaram as empresas publicando na dark web que venderiam dados pessoais e também enviaram e-mails de phishing a clientes, dizendo que dívidas seriam perdoadas se moedas fossem enviadas. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Nach Hackerangriffen auf Kreditfirmen ruft Aufsicht 20 CEOs zu mehr Sicherheit auf",
+        "excerpt": "Die südkoreanische Finanzaufsicht traf am 13. Mai CEOs von 20 Kreditfirmen, nachdem Datenlecks und Phishing-Versuche Sorgen um Verbraucher auslösten.",
+        "body": "Die südkoreanische Finanzaufsicht FSS teilte mit, dass sie am 13. Mai unter Leitung von Kim Hyung-won, stellvertretender Gouverneur für Finanzfragen des Alltags, ein Treffen mit den CEOs von 20 Kreditunternehmen abgehalten und stärkere Vorkehrungen gegen Hackerangriffe sowie bessere Sicherheit verlangt habe. Anlass waren jüngste Lecks von Kundendaten bei Kreditfirmen. Im März waren Kundendaten bei NR Capital Loan und MSI Loan abgeflossen, Tochtergesellschaften von Leadcorp, dem größten Kreditunternehmen des Landes. Nach Angaben der FSS entstanden die Vorfälle, als Mitarbeiter mit Arbeits-PCs externe Internetseiten aufriefen und sich mit Schadsoftware infizierten. Hacker drohten den Unternehmen mit Beiträgen im Dark Web, persönliche Daten zu verkaufen, und versuchten weitere Straftaten, indem sie Kunden Phishing-Mails im Namen der Kreditfirmen schickten. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Après des piratages de prêteurs, le régulateur convoque 20 PDG pour renforcer la sécurité",
+        "excerpt": "Le 13 mai, le régulateur financier sud-coréen a réuni les PDG de 20 prêteurs après des fuites de données clients et des tentatives d’hameçonnage.",
+        "body": "Le Service de supervision financière de Corée du Sud a indiqué avoir tenu, le 13 mai, une réunion avec les PDG de 20 sociétés de prêt, sous la présidence de Kim Hyung-won, gouverneur adjoint chargé de la finance du quotidien, afin de demander une meilleure préparation face aux piratages et un renforcement de la sécurité. Cette mesure fait suite à plusieurs fuites de données clients dans le secteur. En mars, des informations ont été divulguées chez NR Capital Loan et MSI Loan, filiales de Leadcorp, premier prêteur du pays. Selon le régulateur, les incidents se sont produits lorsque des employés ont consulté des sites externes depuis des PC professionnels et ont été infectés par un logiciel malveillant. Les pirates ont menacé les entreprises en annonçant sur le dark web la vente de données personnelles et ont envoyé aux clients des courriels d’hameçonnage promettant une remise de dette contre l’envoi de coins. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "بعد اختراقات شركات الإقراض، الرقابة المالية تستدعي 20 رئيسا تنفيذيا لتعزيز الأمن",
+        "excerpt": "عقدت هيئة الرقابة المالية في كوريا الجنوبية في 13 مايو اجتماعا مع رؤساء 20 شركة إقراض بعد تسريبات بيانات ومحاولات تصيد أثارت مخاوف على العملاء.",
+        "body": "قالت هيئة الرقابة المالية في كوريا الجنوبية إنها عقدت في 13 مايو اجتماعا مع الرؤساء التنفيذيين لـ20 شركة إقراض، برئاسة كيم هيونغ وون، مساعد نائب المحافظ المسؤول عن التمويل المعيشي، وطلبت تعزيز الاستعداد لهجمات القرصنة وتقوية الأمن. وجاءت الخطوة بعد حوادث متتالية لتسرب بيانات عملاء في شركات إقراض. ففي مارس، تسربت بيانات من شركتي NR Capital Loan وMSI Loan، وهما تابعتان لشركة Leadcorp، أكبر شركة إقراض في البلاد. وبحسب الهيئة، وقعت الحوادث عندما دخل موظفون إلى مواقع إنترنت خارجية عبر حواسيب العمل فأصيبت ببرمجيات خبيثة. واستخدم القراصنة بيانات العملاء المسروقة لتهديد الشركات عبر منشورات على الويب المظلم تعرض بيع المعلومات الشخصية، كما أرسلوا رسائل تصيد للعملاء باسم شركات الإقراض تزعم إسقاط الديون مقابل إرسال عملات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "लोन कंपनियों पर हैकिंग के बाद वित्तीय निगरानी एजेंसी ने 20 CEO को बुलाया",
+        "excerpt": "दक्षिण कोरिया की वित्तीय निगरानी सेवा ने 13 मई को ग्राहक डेटा लीक और फिशिंग कोशिशों के बाद 20 लोन कंपनियों के CEO से सुरक्षा मजबूत करने को कहा।",
+        "body": "दक्षिण कोरिया की वित्तीय निगरानी सेवा ने कहा कि उसने 13 मई को जनजीवन वित्त मामलों के सहायक गवर्नर किम ह्युंग-वोन की अध्यक्षता में 20 लोन कंपनियों के मुख्य कार्यकारी अधिकारियों के साथ बैठक की और हैकिंग घटनाओं की पूरी तैयारी तथा सुरक्षा मजबूत करने का आग्रह किया। यह कदम हाल में लोन कंपनियों में ग्राहक जानकारी लीक होने की लगातार घटनाओं के बाद उठाया गया। मार्च में देश की सबसे बड़ी लोन कंपनी Leadcorp की सहायक कंपनियों NR Capital Loan और MSI Loan से ग्राहक डेटा लीक हुआ था। एजेंसी के अनुसार, कर्मचारी जब काम के पीसी से बाहरी इंटरनेट साइटों पर गए तो मैलवेयर संक्रमण हुआ और घटनाएं हुईं। हैकरों ने चुराए गए ग्राहक डेटा के आधार पर डार्क वेब पर निजी जानकारी बेचने की पोस्ट डालकर कंपनियों को धमकाया। उन्होंने ग्राहकों को कंपनियों के नाम से फिशिंग ईमेल भी भेजे, जिनमें कहा गया कि कॉइन भेजने पर कर्ज माफ कर दिया जाएगा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Usai peretasan perusahaan pinjaman, regulator panggil 20 CEO perkuat keamanan",
+        "excerpt": "Pada 13 Mei, regulator keuangan Korea Selatan mengumpulkan CEO dari 20 perusahaan pinjaman setelah kebocoran data nasabah dan upaya phishing terjadi.",
+        "body": "Layanan Pengawas Keuangan Korea Selatan menyatakan pada 13 Mei telah mengadakan pertemuan dengan CEO dari 20 perusahaan pinjaman, dipimpin Kim Hyung-won, asisten gubernur yang menangani keuangan masyarakat, untuk meminta kesiapan menghadapi peretasan dan penguatan keamanan. Langkah ini diambil setelah serangkaian kebocoran informasi pelanggan di perusahaan pinjaman. Pada Maret, data pelanggan bocor dari NR Capital Loan dan MSI Loan, anak usaha Leadcorp, perusahaan pinjaman terbesar di negara itu. Menurut regulator, insiden terjadi ketika karyawan mengakses situs internet eksternal melalui PC kerja dan terinfeksi malware. Peretas kemudian mengancam perusahaan dengan memposting di dark web bahwa mereka akan menjual informasi pribadi. Mereka juga mencoba kejahatan lanjutan dengan mengirim email phishing kepada pelanggan atas nama perusahaan pinjaman, berisi klaim bahwa utang akan dihapus jika mengirim coin. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "41412186a21d",
+    "slug": "살림-팍팍한데-보험-깨고-주식-투자-계약해지-잇달아-636362",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T17:04:35.744Z",
+    "updatedAt": "2026-05-13T17:04:35.744Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917408/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917408/2",
+    "titleFingerprint": "7fb588302afebd36d646b929075cedb24e4886c8",
+    "dedupKeys": [
+      "41412186a21dd581cc23673a81b2f3b1d5925ebc",
+      "7fb588302afebd36d646b929075cedb24e4886c8",
+      "dff44e63aa3e85aa281ed05d0bf09ae2f64ee380"
+    ],
+    "imageUrl": "/images/articles/41412186a21d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "보험 해지 늘고 주식 투자 관심 확대, 암보험 청약철회율 12%대",
+        "excerpt": "생명보험업계에 따르면 지난해 하반기 암보험 청약철회율과 생명보험 해약환급금이 늘며 경기 부진 속 보험료 부담과 주식시장 호황이 배경으로 거론됐다.",
+        "body": "지난해 하반기 보험 계약을 가입 직후 철회하거나 중도 해지하는 사례가 늘어난 것으로 나타났다. 13일 생명보험업계에 따르면 지난해 7∼12월 암보험 청약철회율은 12.02%로 전년 동기 8.47%보다 3.55%포인트 상승했다. 종신보험 청약철회율도 같은 기간 7.73%에서 8.78%로 올랐다. 손해보험에서도 상해보험은 5.30%에서 5.92%, 질병보험은 4.26%에서 4.84%로 높아졌다. 청약철회율은 신계약 중 청약일로부터 1개월 이내 철회된 계약 비율이다. 내수 경기 부진으로 소비자가 느끼는 보험료 부담이 커졌고, 일부에서는 주식시장 호황 속 보험료 대신 투자에 나서는 흐름도 지적된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Insurance Cancellations Rise as Stock Investing Draws More Attention",
+        "excerpt": "Life insurance industry data show cancer policy withdrawal rates and surrender refunds rose in last year’s second half, amid premium burdens and a strong stock market.",
+        "body": "Insurance contracts canceled shortly after purchase or surrendered midway increased in the second half of last year. According to the life insurance industry on the 13th, the withdrawal rate for cancer insurance applications from July to December reached 12.02%, up 3.55 percentage points from 8.47% a year earlier. Whole life insurance withdrawals also rose from 7.73% to 8.78%. In non-life insurance, accident insurance increased from 5.30% to 5.92%, while disease insurance rose from 4.26% to 4.84%. The withdrawal rate refers to the share of new contracts canceled within one month of application. Analysts cite weaker domestic demand, heavier perceived premium burdens, and, in some views, investors redirecting premium money into a booming stock market. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "保険解約が増加、株式投資への関心拡大でがん保険撤回率12%台",
+        "excerpt": "生命保険業界によると、昨年下半期にがん保険の申込撤回率と解約返戻金が増加し、保険料負担や株式市場の好況が背景に挙げられた。",
+        "body": "昨年下半期、保険契約を加入直後に撤回したり途中解約したりする事例が増えたことが分かった。生命保険業界が13日に明らかにしたところによると、昨年7～12月のがん保険申込撤回率は12.02%で、前年同期の8.47%から3.55ポイント上昇した。終身保険も7.73%から8.78%に上がった。損害保険でも傷害保険は5.30%から5.92%、疾病保険は4.26%から4.84%に上昇した。申込撤回率は新契約のうち申込日から1カ月以内に撤回された契約の割合を指す。内需低迷で保険料負担感が強まり、株式市場の好況を受け保険料を投資に回す動きも指摘されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "保险退保增加、股票投资受关注，癌症险撤单率升至12%以上",
+        "excerpt": "寿险业数据显示，去年下半年癌症保险申请撤回率和寿险退保返还金上升，消费低迷下保费负担与股市繁荣被认为是背景因素。",
+        "body": "去年下半年，保险合同在投保后短期内撤回或中途退保的情况有所增加。寿险业界13日数据显示，去年7月至12月癌症保险申请撤回率为12.02%，较上年同期的8.47%上升3.55个百分点。终身寿险撤回率也从7.73%升至8.78%。在财产及意外险领域，意外保险从5.30%升至5.92%，疾病保险从4.26%升至4.84%。申请撤回率是指新合同中自申请日起1个月内撤回的合同比例。分析认为，内需不振使消费者感受到的保费负担加重，也有观点指出，在股市空前繁荣下，部分人将原本用于缴纳保费的资金转向股票投资。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Aumentan cancelaciones de seguros mientras crece interés por invertir en bolsa",
+        "excerpt": "La industria de seguros de vida informó que en el segundo semestre pasado subieron las revocaciones de seguros contra cáncer y los reembolsos por rescate.",
+        "body": "En el segundo semestre del año pasado aumentaron los casos de pólizas canceladas poco después de contratarse o rescindidas antes de tiempo. Según la industria de seguros de vida, al día 13 la tasa de revocación de seguros contra cáncer entre julio y diciembre fue del 12,02%, 3,55 puntos porcentuales más que el 8,47% del año anterior. En seguros de vida entera subió del 7,73% al 8,78%. En seguros generales, los de accidentes pasaron del 5,30% al 5,92% y los de enfermedad del 4,26% al 4,84%. La tasa mide los nuevos contratos retirados dentro del mes posterior a la solicitud. Se cita la carga de primas en una economía interna débil y, en parte, el traslado de dinero hacia acciones por el auge bursátil. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Cancelamentos de seguros aumentam enquanto cresce interesse por ações",
+        "excerpt": "Segundo o setor de seguros de vida, no segundo semestre passado subiram as desistências de seguros contra câncer e os valores resgatados por cancelamento.",
+        "body": "No segundo semestre do ano passado, aumentaram os casos de contratos de seguro cancelados logo após a adesão ou rescindidos antes do prazo. Segundo o setor de seguros de vida, no dia 13, a taxa de desistência de seguros contra câncer entre julho e dezembro foi de 12,02%, alta de 3,55 pontos percentuais ante 8,47% no mesmo período do ano anterior. Nos seguros de vida inteira, passou de 7,73% para 8,78%. Em seguros gerais, acidentes subiram de 5,30% para 5,92% e doenças de 4,26% para 4,84%. A taxa mede contratos novos retirados até um mês após a solicitação. A fraqueza da demanda interna elevou a percepção de peso dos prêmios, e há apontamentos de migração para ações com a bolsa aquecida. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Mehr Versicherungen gekündigt, Aktienboom rückt als Faktor in den Fokus",
+        "excerpt": "Nach Angaben der Lebensversicherungsbranche stiegen im zweiten Halbjahr die Rücktrittsquote bei Krebsversicherungen und die Rückkaufswerte gekündigter Policen.",
+        "body": "Im zweiten Halbjahr des vergangenen Jahres nahmen Fälle zu, in denen Versicherungsverträge kurz nach Abschluss widerrufen oder vorzeitig gekündigt wurden. Laut Lebensversicherungsbranche lag die Rücktrittsquote bei Krebsversicherungen von Juli bis Dezember bei 12,02%, ein Plus von 3,55 Prozentpunkten gegenüber 8,47% im Vorjahr. Bei kapitalbildenden Lebensversicherungen stieg sie von 7,73% auf 8,78%. Auch in der Schadenversicherung legten Unfallpolicen von 5,30% auf 5,92% und Krankenpolicen von 4,26% auf 4,84% zu. Die Quote misst neue Verträge, die binnen eines Monats widerrufen werden. Als Gründe gelten höhere gefühlte Prämienlast durch schwache Binnennachfrage und teils Umschichtung in Aktien wegen des starken Marktes. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les résiliations d’assurance progressent avec l’attrait croissant des actions",
+        "excerpt": "Selon le secteur de l’assurance vie, les retraits de contrats cancer et les remboursements de rachat ont augmenté au second semestre dernier.",
+        "body": "Au second semestre de l’an dernier, les contrats d’assurance retirés peu après la souscription ou résiliés en cours de route ont augmenté. Selon le secteur de l’assurance vie, le 13, le taux de retrait des assurances cancer de juillet à décembre a atteint 12,02%, soit 3,55 points de plus que les 8,47% de l’année précédente. Pour l’assurance vie entière, il est passé de 7,73% à 8,78%. Dans l’assurance dommages, les contrats accidents ont progressé de 5,30% à 5,92% et les contrats maladie de 4,26% à 4,84%. Ce taux désigne la part des nouveaux contrats retirés dans le mois suivant la demande. La faiblesse de la demande intérieure alourdit le poids ressenti des primes, tandis que certains évoquent un transfert vers les actions dans un marché boursier porteur. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "ارتفاع إلغاء وثائق التأمين مع تزايد الاهتمام بالاستثمار في الأسهم",
+        "excerpt": "أظهرت بيانات قطاع التأمين على الحياة أن معدل سحب طلبات تأمين السرطان ومبالغ الاسترداد بعد الإلغاء ارتفعا في النصف الثاني من العام الماضي.",
+        "body": "زاد في النصف الثاني من العام الماضي عدد عقود التأمين التي أُلغيت بعد فترة قصيرة من الاشتراك أو فُسخت في منتصف المدة. وبحسب قطاع التأمين على الحياة في 13 من الشهر، بلغ معدل سحب طلبات تأمين السرطان بين يوليو وديسمبر 12.02%، بزيادة 3.55 نقطة مئوية عن 8.47% في الفترة نفسها من العام السابق. وارتفع معدل سحب طلبات التأمين مدى الحياة من 7.73% إلى 8.78%. وفي التأمينات العامة، صعد تأمين الحوادث من 5.30% إلى 5.92%، وتأمين المرض من 4.26% إلى 4.84%. ويقيس هذا المعدل نسبة العقود الجديدة المسحوبة خلال شهر من تاريخ الطلب. ويُعزى ذلك إلى ضعف الطلب المحلي وزيادة عبء الأقساط، مع الإشارة أيضاً إلى توجه بعض الأموال نحو الأسهم وسط ازدهار السوق. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "बीमा पॉलिसी रद्दीकरण बढ़ा, शेयर निवेश की ओर बढ़ता ध्यान",
+        "excerpt": "जीवन बीमा उद्योग के अनुसार पिछले वर्ष की दूसरी छमाही में कैंसर बीमा आवेदन वापसी दर और पॉलिसी सरेंडर रिफंड बढ़े, जबकि प्रीमियम बोझ और शेयर बाजार तेजी चर्चा में रहे।",
+        "body": "पिछले वर्ष की दूसरी छमाही में बीमा अनुबंधों को खरीद के तुरंत बाद वापस लेने या बीच में समाप्त करने के मामले बढ़े। जीवन बीमा उद्योग के अनुसार, 13 तारीख को जारी आंकड़ों में जुलाई से दिसंबर तक कैंसर बीमा आवेदन वापसी दर 12.02% रही, जो एक वर्ष पहले के 8.47% से 3.55 प्रतिशत अंक अधिक है। आजीवन बीमा में यह दर 7.73% से 8.78% हुई। सामान्य बीमा में दुर्घटना बीमा 5.30% से 5.92% और रोग बीमा 4.26% से 4.84% पर पहुंचा। यह दर नए अनुबंधों में आवेदन तिथि से एक महीने के भीतर वापस लिए गए अनुबंधों का हिस्सा है। कमजोर घरेलू मांग से उपभोक्ताओं पर प्रीमियम बोझ बढ़ा माना जा रहा है, और कुछ लोग शेयर बाजार की तेजी के बीच प्रीमियम राशि को निवेश में लगाने की ओर इशारा कर रहे हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pembatalan Asuransi Meningkat, Minat Investasi Saham Ikut Disorot",
+        "excerpt": "Industri asuransi jiwa menyebut tingkat pembatalan asuransi kanker dan nilai tebus polis meningkat pada paruh kedua tahun lalu di tengah beban premi dan pasar saham kuat.",
+        "body": "Pada paruh kedua tahun lalu, kasus kontrak asuransi yang dibatalkan segera setelah pembelian atau ditebus sebelum waktunya meningkat. Menurut industri asuransi jiwa pada tanggal 13, tingkat pembatalan pengajuan asuransi kanker periode Juli-Desember mencapai 12,02%, naik 3,55 poin persentase dari 8,47% pada periode sama tahun sebelumnya. Asuransi jiwa seumur hidup juga naik dari 7,73% menjadi 8,78%. Pada asuransi umum, asuransi kecelakaan meningkat dari 5,30% menjadi 5,92%, dan asuransi penyakit dari 4,26% menjadi 4,84%. Tingkat ini mengukur porsi kontrak baru yang dibatalkan dalam satu bulan sejak pengajuan. Lemahnya permintaan domestik membuat beban premi terasa lebih berat, sementara sebagian pihak menyoroti aliran dana premi ke investasi saham saat pasar menguat. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "05a6106192aa",
+    "slug": "환율-다시-1490원대-한달만에-가장-높아-659650",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-13T17:03:30.852Z",
+    "updatedAt": "2026-05-13T17:03:30.852Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917474/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917474/2",
+    "titleFingerprint": "0c9120fc1173da8fca8a607597a3a075de272ad9",
+    "dedupKeys": [
+      "05a6106192aae63a5b103ebc79646daf36e18456",
+      "0c9120fc1173da8fca8a607597a3a075de272ad9",
+      "46215a3c4541cb23b4c639eb258e81a0a411043f"
+    ],
+    "imageUrl": "/images/articles/05a6106192aa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원·달러 환율 1490원대 재진입, 미국 CPI 충격에 한 달 만에 최고",
+        "excerpt": "13일 서울 외환시장에서 원·달러 환율은 1490.6원에 마감했다. 미국 4월 CPI가 예상치를 웃돌며 금리 인하 기대가 약해지고 달러 강세가 나타난 영향이다.",
+        "body": "13일 서울 외환시장에서 원·달러 환율은 전 거래일보다 0.7원 오른 1490.6원에 거래를 마쳤다. 주간 거래 종가 기준으로는 미국과 이란의 휴전 선언 직전인 지난달 7일 1504.2원 이후 가장 높은 수준이다. 환율은 7일 미국과 이란 전쟁 발발 이후 1454.0원까지 내려갔지만, 8일부터 4거래일 연속 상승했다. 배경에는 12일 현지 시간 발표된 미국 4월 소비자물가지수(CPI)가 있다. CPI는 전년 대비 3.8% 올라 시장 예상치 3.7%를 웃돌았고, 3년 만에 가장 높은 상승률로 전해졌다. 이에 미국 연방준비제도의 연내 기준금리 인하 기대가 낮아지며 달러가 강세를 보였고 원화 가치는 상대적으로 하락했다. 민경원 우리은행 연구원은 물가 상승으로 Fed의 연내 금리 인하 가능성이 사라진 점이 달러 강세로 이어졌다고 분석했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Won-Dollar Rate Returns to 1,490 Range as U.S. CPI Lifts Dollar",
+        "excerpt": "On May 13, the won-dollar exchange rate closed at 1,490.6 won in Seoul as stronger-than-expected U.S. April CPI weakened rate-cut expectations and supported the dollar.",
+        "body": "The won-dollar exchange rate closed at 1,490.6 won on May 13 in the Seoul foreign exchange market, up 0.7 won from the previous session. Based on the daytime trading close, it was the highest level since 1,504.2 won on the 7th of last month, just before the U.S. and Iran declared a ceasefire. The rate had fallen to 1,454.0 won after the outbreak of the U.S.-Iran war on the 7th, then rose for four straight trading days from the 8th. The move followed U.S. April consumer price index data released on the 12th local time. CPI rose 3.8% from a year earlier, above the market forecast of 3.7%, and was reported as the fastest increase in three years. As expectations for a Federal Reserve rate cut this year weakened, the dollar strengthened and the won lost relative value. Min Kyung-won, a researcher at Woori Bank, said inflation had removed the likelihood of a Fed rate cut this year, leading to dollar strength. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場1490ウォン台に再上昇、米CPIで1カ月ぶり高値",
+        "excerpt": "13日のソウル外国為替市場でウォン・ドル相場は1490.6ウォンで終了。米4月CPIが予想を上回り、利下げ期待が後退してドル高が進んだ。",
+        "body": "13日のソウル外国為替市場で、ウォン・ドル相場は前営業日より0.7ウォン高い1490.6ウォンで取引を終えた。日中取引の終値としては、米国とイランの停戦宣言直前だった先月7日の1504.2ウォン以来、最も高い水準となった。相場は7日の米国とイランの戦争発生後、1454.0ウォンまで下落したが、8日から4営業日連続で上昇した。背景には12日現地時間に発表された米国の4月消費者物価指数（CPI）がある。CPIは前年同月比3.8%上昇し、市場予想の3.7%を上回り、3年ぶりの高い伸び率と伝えられた。これにより米連邦準備制度理事会（FRB）の年内利下げ期待が弱まり、ドル高が進む一方、ウォンの価値は相対的に下落した。ウリ銀行のミン・ギョンウォン研究員は、物価上昇でFRBの年内利下げの可能性が消えたことがドル高につながったと分析した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率重回1490区间，受美国CPI影响创一个月高位",
+        "excerpt": "13日首尔外汇市场韩元兑美元汇率收于1490.6韩元。美国4月CPI高于预期，削弱降息期待并推动美元走强。",
+        "body": "13日，首尔外汇市场韩元兑美元汇率较前一交易日上涨0.7韩元，收于1490.6韩元。按日间交易收盘价计算，这是自上月7日美国和伊朗宣布停火前的1504.2韩元以来的最高水平。该汇率在7日美国和伊朗战争爆发后曾跌至1454.0韩元，随后自8日起连续4个交易日上涨。背景是美国当地时间12日公布的4月消费者价格指数（CPI）。该指数同比上涨3.8%，高于市场预期的3.7%，并被称为3年来最高涨幅。随着市场对美国联邦储备委员会年内降息的期待下降，美元走强，韩元价值相对下跌。友利银行研究员闵庚元分析称，物价上涨使美联储年内降息可能性消失，进而导致当天美元走强。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El won-dólar vuelve a 1.490 por el IPC de EE. UU. y toca máximo mensual",
+        "excerpt": "El 13 de mayo, el tipo won-dólar cerró en 1.490,6 wones en Seúl. El IPC de abril de EE. UU. superó lo previsto, redujo expectativas de recorte de tasas y fortaleció al dólar.",
+        "body": "El 13 de mayo, en el mercado cambiario de Seúl, el tipo de cambio won-dólar cerró en 1.490,6 wones, 0,7 wones más que en la sesión anterior. En términos del cierre de la negociación diurna, fue el nivel más alto desde los 1.504,2 wones del día 7 del mes pasado, justo antes de la declaración de alto el fuego entre Estados Unidos e Irán. El tipo había caído hasta 1.454,0 wones tras el inicio de la guerra entre Estados Unidos e Irán el día 7, pero luego subió durante cuatro sesiones consecutivas desde el día 8. El contexto fue el índice de precios al consumidor de abril de Estados Unidos, publicado el día 12, hora local. El IPC aumentó 3,8% interanual, por encima del 3,7% esperado por el mercado, y fue reportado como la mayor subida en tres años. Al debilitarse las expectativas de un recorte de tasas de la Reserva Federal este año, el dólar se fortaleció y el won perdió valor relativo. Min Kyung-won, investigador de Woori Bank, señaló que la inflación eliminó la posibilidad de una rebaja de tasas de la Fed este año y llevó a la fortaleza del dólar. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Won-dólar volta à faixa de 1.490 após CPI dos EUA e atinge máxima mensal",
+        "excerpt": "Em 13 de maio, o câmbio won-dólar fechou a 1.490,6 won em Seul. O CPI de abril dos EUA superou expectativas, reduziu apostas em corte de juros e fortaleceu o dólar.",
+        "body": "Em 13 de maio, no mercado de câmbio de Seul, a taxa won-dólar encerrou a 1.490,6 won, alta de 0,7 won ante a sessão anterior. Pelo fechamento das negociações diurnas, foi o nível mais alto desde 1.504,2 won em 7 do mês passado, pouco antes da declaração de cessar-fogo entre Estados Unidos e Irã. A taxa havia caído para 1.454,0 won após o início da guerra entre Estados Unidos e Irã no dia 7, mas subiu por quatro pregões consecutivos desde o dia 8. O movimento ocorreu após a divulgação, no dia 12 no horário local, do índice de preços ao consumidor de abril dos Estados Unidos. O CPI avançou 3,8% em relação ao ano anterior, acima da previsão de mercado de 3,7%, e foi relatado como a maior alta em três anos. Com a redução das expectativas de corte de juros pelo Federal Reserve ainda este ano, o dólar se fortaleceu e o won perdeu valor relativo. Min Kyung-won, pesquisador do Woori Bank, avaliou que a alta da inflação eliminou a possibilidade de corte de juros pelo Fed neste ano, levando à valorização do dólar. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Won-Dollar-Kurs zurück bei 1.490: US-CPI treibt Dollar auf Monatsstärke",
+        "excerpt": "Am 13. Mai schloss der Won-Dollar-Kurs in Seoul bei 1.490,6 Won. Der US-CPI für April lag über den Erwartungen, dämpfte Zinssenkungshoffnungen und stärkte den Dollar.",
+        "body": "Am 13. Mai schloss der Won-Dollar-Wechselkurs am Devisenmarkt in Seoul bei 1.490,6 Won und damit 0,7 Won höher als am vorherigen Handelstag. Gemessen am Schlusskurs des Tageshandels war dies der höchste Stand seit 1.504,2 Won am 7. des vergangenen Monats, unmittelbar vor der Waffenruheerklärung der USA und Irans. Nach Ausbruch des Krieges zwischen den USA und Iran am 7. war der Kurs zunächst auf 1.454,0 Won gefallen, stieg aber ab dem 8. vier Handelstage in Folge. Hintergrund waren die am 12. Ortszeit veröffentlichten US-Verbraucherpreise für April. Der CPI stieg im Jahresvergleich um 3,8% und lag damit über der Markterwartung von 3,7%; es wurde als stärkster Anstieg seit drei Jahren berichtet. Dadurch schwanden die Erwartungen an eine Zinssenkung der Federal Reserve in diesem Jahr, der Dollar legte zu und der Won verlor relativ an Wert. Min Kyung-won, Analyst der Woori Bank, erklärte, die höhere Inflation habe die Möglichkeit einer Fed-Zinssenkung in diesem Jahr beseitigt und so zur Dollarstärke geführt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le won-dollar revient à 1 490 après l’IPC américain, plus haut d’un mois",
+        "excerpt": "Le 13 mai, le taux won-dollar a clôturé à 1 490,6 wons à Séoul. L’IPC américain d’avril a dépassé les attentes, réduit l’espoir de baisse des taux et soutenu le dollar.",
+        "body": "Le 13 mai, sur le marché des changes de Séoul, le taux won-dollar a clôturé à 1 490,6 wons, en hausse de 0,7 won par rapport à la séance précédente. Sur la base de la clôture des échanges de jour, il s’agit du niveau le plus élevé depuis les 1 504,2 wons du 7 du mois dernier, juste avant la déclaration de cessez-le-feu entre les États-Unis et l’Iran. Le taux était tombé à 1 454,0 wons après le déclenchement de la guerre entre les États-Unis et l’Iran le 7, puis a progressé pendant quatre séances consécutives à partir du 8. Le contexte vient de l’indice américain des prix à la consommation d’avril, publié le 12 heure locale. L’IPC a augmenté de 3,8% sur un an, au-dessus de la prévision du marché de 3,7%, et a été présenté comme la plus forte hausse en trois ans. Les attentes d’une baisse des taux de la Réserve fédérale cette année se sont affaiblies, ce qui a renforcé le dollar et fait reculer la valeur relative du won. Min Kyung-won, chercheur chez Woori Bank, a estimé que l’inflation avait fait disparaître la possibilité d’une baisse des taux de la Fed cette année, entraînant la vigueur du dollar. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سعر الوون مقابل الدولار يعود إلى نطاق 1490 بعد صدمة مؤشر التضخم الأمريكي",
+        "excerpt": "في 13 مايو أغلق سعر الوون مقابل الدولار في سوق سيول عند 1490.6 وون. وجاء ذلك بعد تجاوز مؤشر أسعار المستهلكين الأمريكي في أبريل التوقعات، ما أضعف آمال خفض الفائدة ودعم الدولار.",
+        "body": "في 13 مايو، أغلق سعر صرف الوون مقابل الدولار في سوق الصرف الأجنبي في سيول عند 1490.6 وون، مرتفعا 0.7 وون عن الجلسة السابقة. وبحسب إغلاق التداول النهاري، يعد هذا أعلى مستوى منذ 1504.2 وون في السابع من الشهر الماضي، قبيل إعلان وقف إطلاق النار بين الولايات المتحدة وإيران. وكان السعر قد تراجع إلى 1454.0 وون بعد اندلاع الحرب بين الولايات المتحدة وإيران في السابع، ثم ارتفع لأربع جلسات تداول متتالية منذ الثامن. وجاءت الخلفية من بيانات مؤشر أسعار المستهلكين الأمريكي لشهر أبريل، الصادرة في 12 بالتوقيت المحلي. فقد ارتفع المؤشر 3.8% على أساس سنوي، متجاوزا توقعات السوق البالغة 3.7%، وورد أنه أعلى معدل زيادة في ثلاث سنوات. ومع تراجع توقعات خفض مجلس الاحتياطي الفيدرالي للفائدة خلال هذا العام، قوي الدولار وانخفضت قيمة الوون نسبيا. وقال مين كيونغ وون، الباحث في بنك ووري، إن ارتفاع الأسعار أزال احتمال خفض الفائدة من قبل الفيدرالي هذا العام، ما أدى إلى قوة الدولار. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "वॉन-डॉलर दर फिर 1,490 के स्तर पर, अमेरिकी CPI से एक महीने का उच्च स्तर",
+        "excerpt": "13 मई को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर दर 1,490.6 वॉन पर बंद हुई। अमेरिका के अप्रैल CPI के अनुमान से ऊपर रहने से दर कटौती की उम्मीद घटी और डॉलर मजबूत हुआ।",
+        "body": "13 मई को सियोल विदेशी मुद्रा बाजार में वॉन-डॉलर विनिमय दर पिछले सत्र से 0.7 वॉन बढ़कर 1,490.6 वॉन पर बंद हुई। दिन के कारोबार के बंद भाव के आधार पर यह पिछले महीने की 7 तारीख के 1,504.2 वॉन के बाद सबसे ऊंचा स्तर है, जब अमेरिका और ईरान के युद्धविराम की घोषणा से ठीक पहले बाजार था। 7 तारीख को अमेरिका और ईरान युद्ध शुरू होने के बाद दर 1,454.0 वॉन तक गिर गई थी, लेकिन 8 तारीख से लगातार चार कारोबारी सत्रों तक बढ़ी। इसकी पृष्ठभूमि 12 तारीख स्थानीय समय पर जारी अमेरिका के अप्रैल उपभोक्ता मूल्य सूचकांक यानी CPI में रही। CPI सालाना आधार पर 3.8% बढ़ा, जो बाजार अनुमान 3.7% से अधिक था, और इसे तीन वर्षों में सबसे तेज वृद्धि बताया गया। इससे अमेरिकी फेडरल रिजर्व द्वारा इस वर्ष ब्याज दर घटाने की उम्मीद कमजोर हुई, डॉलर मजबूत हुआ और वॉन का सापेक्ष मूल्य घटा। वूरी बैंक के शोधकर्ता मिन क्यूंग-वोन ने कहा कि महंगाई बढ़ने से इस वर्ष फेड की दर कटौती की संभावना खत्म हुई, जिससे डॉलर मजबूत हुआ। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kurs Won-Dolar Kembali ke 1.490 setelah CPI AS, Tertinggi dalam Sebulan",
+        "excerpt": "Pada 13 Mei, kurs won-dolar ditutup di 1.490,6 won di Seoul. CPI AS April yang melampaui perkiraan melemahkan ekspektasi pemangkasan suku bunga dan menguatkan dolar.",
+        "body": "Pada 13 Mei, di pasar valuta asing Seoul, kurs won-dolar ditutup pada 1.490,6 won, naik 0,7 won dari sesi sebelumnya. Berdasarkan penutupan perdagangan siang, level ini merupakan yang tertinggi sejak 1.504,2 won pada tanggal 7 bulan lalu, tepat sebelum deklarasi gencatan senjata Amerika Serikat dan Iran. Kurs sempat turun ke 1.454,0 won setelah pecahnya perang Amerika Serikat dan Iran pada tanggal 7, lalu naik selama empat hari perdagangan berturut-turut sejak tanggal 8. Latar belakangnya adalah data indeks harga konsumen Amerika Serikat untuk April yang dirilis pada tanggal 12 waktu setempat. CPI naik 3,8% dibandingkan tahun sebelumnya, melampaui perkiraan pasar 3,7%, dan disebut sebagai kenaikan tertinggi dalam tiga tahun. Ekspektasi pemangkasan suku bunga Federal Reserve tahun ini melemah, dolar menguat, dan nilai won turun secara relatif. Min Kyung-won, peneliti Woori Bank, menganalisis bahwa kenaikan inflasi menghapus kemungkinan pemangkasan suku bunga Fed tahun ini sehingga memicu penguatan dolar. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "c29557e604f3",
     "slug": "이마트-영업익-14년만에-최대-정용진-패러다임-전환-통했다-307840",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Gubernur Bank of Korea Hyun Song Shin Terpilih Jadi Direktur BIS untuk Masa Jabatan Tiga Tahun",
         "excerpt": "Bank of Korea menyatakan pada 12 Mei bahwa Gubernur Hyun Song Shin terpilih menjadi direktur BIS dalam rapat rutin di Basel, Swiss, pada 11 Mei.",
         "body": "Gubernur Bank of Korea Hyun Song Shin terpilih pada 11 Mei waktu setempat menjadi anggota dewan Bank for International Settlements (BIS) dalam rapat rutin yang digelar di Basel, Swiss, kata Bank of Korea pada 12 Mei. Dewan BIS merupakan badan pengambil keputusan tertinggi secara de facto di lembaga tersebut dan terdiri dari 18 anggota. BIS beranggotakan bank sentral dan otoritas moneter dari 63 negara. Shin bekerja sebagai kepala Departemen Moneter dan Ekonomi BIS hingga ia dinominasikan sebagai Gubernur Bank of Korea pada Maret tahun ini. Masa jabatannya sebagai direktur BIS adalah tiga tahun. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8a9b1791516d",
-    "slug": "신세계-1분기-영업익-1978억-역대-최대-995656",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T22:41:09.821Z",
-    "updatedAt": "2026-05-12T22:41:09.821Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908697/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908697/2",
-    "titleFingerprint": "4a1f8ff8bbac4b21b46fe0994ba821b9a4031b37",
-    "dedupKeys": [
-      "8a9b1791516d545a228aacf79e59a1de78274852",
-      "4a1f8ff8bbac4b21b46fe0994ba821b9a4031b37",
-      "7cd5c5cbe7b4bb5abc72ba6e9892943b1e294e6c"
-    ],
-    "imageUrl": "/images/articles/8a9b1791516d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신세계 1분기 영업이익 1978억 원, 백화점 호조로 역대 최대 실적",
-        "excerpt": "신세계가 12일 공시한 올해 1분기 연결 기준 매출과 영업이익이 백화점 성장과 자회사 수익성 개선에 힘입어 1분기 역대 최대치를 기록했다.",
-        "body": "신세계가 올해 1분기(1~3월) 연결 재무제표 기준 매출 3조2144억 원, 영업이익 1978억 원을 기록했다고 12일 공시했다. 지난해 같은 기간보다 매출은 11.7%, 영업이익은 49.5% 증가해 모두 1분기 기준 역대 최대 실적이다. 성장세는 백화점 사업이 이끌었다. 백화점 1분기 총매출은 2조257억 원으로 13.0% 늘었고, 영업이익은 1410억 원으로 30.7% 증가했다. 핵심 점포를 중심으로 명품과 미식 콘텐츠를 강화한 점이 실적 개선으로 이어졌다는 분석이다. 신세계백화점은 2023~2025년 1조8000억 원을 투입해 서울 서초구 강남점과 서울 중구 본점을 대대적으로 리뉴얼했다. 1분기 품목별로는 명품 매출이 30%, 패션 부문이 12% 늘었다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Shinsegae Q1 Operating Profit Hits Record 197.8 Billion Won on Department Store Growth",
-        "excerpt": "Shinsegae said on the 12th that first-quarter sales and operating profit reached record highs, supported by department store growth and improved profitability at key affiliates.",
-        "body": "Shinsegae disclosed on the 12th that its consolidated first-quarter revenue for January to March reached 3.2144 trillion won, while operating profit came to 197.8 billion won. Compared with the same period last year, revenue rose 11.7% and operating profit increased 49.5%, marking record first-quarter results for both figures. The department store business led the growth. First-quarter gross sales at department stores rose 13.0% to 2.0257 trillion won, and operating profit climbed 30.7% to 141 billion won. The improvement is attributed to stronger luxury and dining content centered on key stores. Shinsegae Department Store invested 1.8 trillion won from 2023 to 2025 in major renovations of its Gangnam branch in Seocho-gu and main store in Jung-gu, Seoul. By category, luxury sales grew 30% and fashion sales rose 12% in the quarter. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "新世界の1～3月営業益1978億ウォン、百貨店好調で過去最高",
-        "excerpt": "新世界は12日、百貨店売上の拡大と主要子会社の収益性改善に支えられ、今年1～3月期の売上高と営業利益が過去最高を記録したと公示した。",
-        "body": "新世界は12日、今年1～3月期の連結財務諸表基準で売上高3兆2144億ウォン、営業利益1978億ウォンを記録したと公示した。前年同期比で売上高は11.7%、営業利益は49.5%増え、いずれも1～3月期として過去最高となった。成長をけん引したのは百貨店事業だった。百貨店の1～3月期総売上高は2兆257億ウォンで前年より13.0%増加し、営業利益は30.7%増の1410億ウォンとなった。主要店舗を中心に高級品とグルメ関連コンテンツを強化したことが業績改善につながったとの分析が出ている。新世界百貨店は2023～2025年に1兆8000億ウォンを投じ、ソウル市瑞草区の江南店と中区の本店を大規模改装した。品目別では高級品売上が30%、ファッション部門が12%増えた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "新世界一季度营业利润达1978亿韩元，百货增长推动创历史新高",
-        "excerpt": "新世界12日公告称，受百货店销售扩大和主要子公司盈利能力改善带动，今年一季度合并销售额和营业利润均创同期历史新高。",
-        "body": "新世界12日公告称，今年一季度（1月至3月）按合并财务报表口径实现销售额3.2144万亿韩元，营业利润1978亿韩元。与去年同期相比，销售额增长11.7%，营业利润增长49.5%，两项指标均创一季度历史最高。集团增长主要由百货业务带动。百货店一季度总销售额为2.0257万亿韩元，同比增加13.0%；营业利润为1410亿韩元，增长30.7%。分析认为，围绕核心门店强化奢侈品和美食内容，带来了业绩改善效果。新世界百货店在2023年至2025年投入1.8万亿韩元，对首尔瑞草区江南店和中区总店进行大规模翻新。从一季度品类表现看，奢侈品销售额同比增长30%，时尚部门增长12%。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Shinsegae logra beneficio operativo récord de 197.800 millones de wones en el primer trimestre",
-        "excerpt": "Shinsegae informó el día 12 que sus ventas y beneficio operativo del primer trimestre alcanzaron máximos históricos por el avance de los grandes almacenes y la mejora de filiales clave.",
-        "body": "Shinsegae anunció el día 12 que, según sus estados financieros consolidados, registró en el primer trimestre, de enero a marzo, ventas por 3,2144 billones de wones y un beneficio operativo de 197.800 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron 11,7% y el beneficio operativo 49,5%, máximos históricos para un primer trimestre. El crecimiento fue impulsado por el negocio de grandes almacenes. Sus ventas brutas trimestrales subieron 13,0% hasta 2,0257 billones de wones, y el beneficio operativo creció 30,7% hasta 141.000 millones. El refuerzo de lujo y contenidos gastronómicos en tiendas clave se considera un factor de mejora. Shinsegae Department Store invirtió 1,8 billones de wones entre 2023 y 2025 en renovar la tienda Gangnam, en Seocho-gu, y la tienda principal, en Jung-gu, Seúl. Por categorías, lujo creció 30% y moda 12%. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Shinsegae tem lucro operacional recorde de 197,8 bilhões de won no 1º trimestre",
-        "excerpt": "A Shinsegae informou no dia 12 que vendas e lucro operacional do primeiro trimestre bateram recorde, apoiados pelo avanço das lojas de departamento e pela melhora de subsidiárias.",
-        "body": "A Shinsegae informou no dia 12 que, em base consolidada, registrou no primeiro trimestre, de janeiro a março, receita de 3,2144 trilhões de won e lucro operacional de 197,8 bilhões de won. Em relação ao mesmo período do ano anterior, a receita cresceu 11,7% e o lucro operacional avançou 49,5%, ambos recordes para um primeiro trimestre. O desempenho foi liderado pelo negócio de lojas de departamento. As vendas brutas do segmento somaram 2,0257 trilhões de won, alta de 13,0%, enquanto o lucro operacional subiu 30,7%, para 141 bilhões de won. A análise aponta que o reforço de artigos de luxo e conteúdo gastronômico nas lojas principais contribuiu para a melhora. A Shinsegae Department Store investiu 1,8 trilhão de won entre 2023 e 2025 na renovação da unidade Gangnam, em Seocho-gu, e da matriz, em Jung-gu, Seul. No trimestre, luxo cresceu 30% e moda 12%. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Shinsegae erzielt im ersten Quartal Rekordbetriebsgewinn von 197,8 Mrd. Won",
-        "excerpt": "Shinsegae teilte am 12. mit, dass Umsatz und Betriebsgewinn im ersten Quartal dank stärkerer Kaufhäuser und verbesserter Rentabilität wichtiger Töchter Rekordwerte erreichten.",
-        "body": "Shinsegae gab am 12. bekannt, dass der Konzern im ersten Quartal von Januar bis März auf konsolidierter Basis einen Umsatz von 3,2144 Billionen Won und einen Betriebsgewinn von 197,8 Milliarden Won erzielte. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 11,7%, der Betriebsgewinn um 49,5%; beide Werte markieren Rekorde für ein erstes Quartal. Getragen wurde das Wachstum vom Kaufhausgeschäft. Der Bruttoumsatz der Kaufhäuser erhöhte sich um 13,0% auf 2,0257 Billionen Won, der Betriebsgewinn legte um 30,7% auf 141 Milliarden Won zu. Als Grund für die Verbesserung gilt die Stärkung von Luxus- und Gastronomieangeboten in wichtigen Filialen. Shinsegae Department Store investierte von 2023 bis 2025 insgesamt 1,8 Billionen Won in umfassende Renovierungen der Gangnam-Filiale in Seocho-gu und des Haupthauses in Jung-gu, Seoul. Im ersten Quartal wuchsen Luxusumsätze um 30% und Mode um 12%. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Shinsegae atteint un bénéfice opérationnel record de 197,8 milliards de wons au T1",
-        "excerpt": "Shinsegae a annoncé le 12 que son chiffre d’affaires et son bénéfice opérationnel du premier trimestre avaient atteint des records grâce aux grands magasins et aux filiales clés.",
-        "body": "Shinsegae a indiqué le 12 qu’au premier trimestre, de janvier à mars, son chiffre d’affaires consolidé avait atteint 3,2144 billions de wons et son bénéfice opérationnel 197,8 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 11,7% et le bénéfice opérationnel de 49,5%, deux records pour un premier trimestre. La croissance a été portée par l’activité de grands magasins. Leur chiffre d’affaires brut trimestriel a augmenté de 13,0% à 2,0257 billions de wons, tandis que le bénéfice opérationnel a gagné 30,7% à 141 milliards de wons. L’amélioration est attribuée au renforcement des produits de luxe et de l’offre gastronomique dans les magasins clés. Shinsegae Department Store a investi 1,8 billion de wons de 2023 à 2025 dans la rénovation majeure du magasin Gangnam à Seocho-gu et du magasin principal à Jung-gu, Séoul. Au T1, le luxe a progressé de 30% et la mode de 12%. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "شينسيغيه تسجل ربحا تشغيليا قياسيا بـ197.8 مليار وون في الربع الأول",
-        "excerpt": "أعلنت شينسيغيه في 12 من الشهر أن مبيعاتها وأرباحها التشغيلية في الربع الأول بلغت مستوى قياسيا بدعم من نمو المتاجر الكبرى وتحسن ربحية الشركات التابعة الرئيسية.",
-        "body": "أعلنت شينسيغيه في 12 من الشهر أنها سجلت، وفق القوائم المالية الموحدة، إيرادات قدرها 3.2144 تريليون وون وربحا تشغيليا قدره 197.8 مليار وون في الربع الأول من يناير إلى مارس. ومقارنة بالفترة نفسها من العام الماضي، زادت الإيرادات 11.7% وارتفع الربح التشغيلي 49.5%، ليحققا معا أعلى مستوى لفترة ربع أول. وقاد نشاط المتاجر الكبرى هذا النمو. فقد بلغت مبيعات المتاجر الكبرى الإجمالية في الربع الأول 2.0257 تريليون وون، بزيادة 13.0%، وارتفع الربح التشغيلي 30.7% إلى 141 مليار وون. ويرتبط التحسن بتعزيز محتوى السلع الفاخرة والمأكولات في المتاجر الرئيسية. واستثمرت شينسيغيه دبارتمنت ستور 1.8 تريليون وون بين 2023 و2025 في تجديد واسع لفرع غانغنام في سوتشو-غو والمتجر الرئيسي في جونغ-غو بسيول. ونمت مبيعات السلع الفاخرة 30% والأزياء 12% في الربع. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "शिनसेगे का पहली तिमाही परिचालन लाभ 197.8 अरब वॉन, डिपार्टमेंट स्टोर से रिकॉर्ड",
-        "excerpt": "शिनसेगे ने 12 तारीख को बताया कि डिपार्टमेंट स्टोर बिक्री बढ़ने और प्रमुख सहायक कंपनियों की लाभप्रदता सुधरने से पहली तिमाही की बिक्री और परिचालन लाभ रिकॉर्ड स्तर पर पहुंचे।",
-        "body": "शिनसेगे ने 12 तारीख को घोषणा की कि जनवरी से मार्च की पहली तिमाही में समेकित वित्तीय विवरणों के आधार पर उसकी बिक्री 3.2144 ट्रिलियन वॉन और परिचालन लाभ 197.8 अरब वॉन रहा। पिछले वर्ष की समान अवधि की तुलना में बिक्री 11.7% और परिचालन लाभ 49.5% बढ़ा, और दोनों ही पहली तिमाही के लिए अब तक के उच्चतम स्तर रहे। वृद्धि का नेतृत्व डिपार्टमेंट स्टोर कारोबार ने किया। इस खंड की पहली तिमाही की कुल बिक्री 13.0% बढ़कर 2.0257 ट्रिलियन वॉन हुई, जबकि परिचालन लाभ 30.7% बढ़कर 141 अरब वॉन रहा। प्रमुख स्टोरों में लक्जरी और भोजन से जुड़े कंटेंट को मजबूत करने को प्रदर्शन सुधार से जोड़ा गया। शिनसेगे डिपार्टमेंट स्टोर ने 2023 से 2025 के बीच 1.8 ट्रिलियन वॉन लगाकर सियोल के सेओचो-गु स्थित गंगनाम स्टोर और जंग-गु स्थित मुख्य स्टोर का बड़ा नवीनीकरण किया। तिमाही में लक्जरी बिक्री 30% और फैशन खंड 12% बढ़ा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Shinsegae Catat Laba Operasi Kuartal I Rekor 197,8 Miliar Won Berkat Department Store",
-        "excerpt": "Shinsegae mengumumkan pada tanggal 12 bahwa penjualan dan laba operasi kuartal pertama mencetak rekor, didorong pertumbuhan department store dan perbaikan profitabilitas anak usaha utama.",
-        "body": "Shinsegae mengumumkan pada tanggal 12 bahwa berdasarkan laporan keuangan konsolidasi, pendapatan kuartal pertama Januari hingga Maret mencapai 3,2144 triliun won dan laba operasi 197,8 miliar won. Dibanding periode yang sama tahun lalu, pendapatan naik 11,7% dan laba operasi meningkat 49,5%, keduanya menjadi rekor untuk kuartal pertama. Pertumbuhan dipimpin bisnis department store. Total penjualan department store pada kuartal pertama naik 13,0% menjadi 2,0257 triliun won, sementara laba operasi meningkat 30,7% menjadi 141 miliar won. Penguatan produk mewah dan konten kuliner di toko-toko utama dinilai mendorong perbaikan kinerja. Shinsegae Department Store menginvestasikan 1,8 triliun won pada 2023 hingga 2025 untuk renovasi besar gerai Gangnam di Seocho-gu dan gerai utama di Jung-gu, Seoul. Pada kuartal pertama, penjualan barang mewah tumbuh 30% dan kategori fesyen naik 12%. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "6779ce029403",
-    "slug": "vd사업은-삼성전자의-뿌리-ai혁신-두려워-말아야-981509",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T22:39:52.666Z",
-    "updatedAt": "2026-05-12T22:39:52.666Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908699/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260512/133908699/2",
-    "titleFingerprint": "a0af7a247aca4022f1e98644329ea566af52dca2",
-    "dedupKeys": [
-      "6779ce0294035b54e084fb44f984144e971b528f",
-      "a0af7a247aca4022f1e98644329ea566af52dca2",
-      "50ca4b77177a0c12cd4b5c5c158e234afa73c8df"
-    ],
-    "imageUrl": "/images/articles/6779ce029403.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 VD사업부 혁신 주문…이원진 사장 “AI 변화 두려워 말아야”",
-        "excerpt": "이원진 삼성전자 VD사업부장이 12일 취임 메시지에서 중국 브랜드 추격과 수요 둔화 속 TV 사업 혁신과 AI 시대 대응을 임직원에게 주문했다.",
-        "body": "이원진 삼성전자 영상디스플레이(VD) 사업부장 사장은 12일 임직원 대상 취임 메시지를 통해 TV 사업을 담당하는 VD사업부에 전면적인 혁신을 주문했다. 그는 “나부터 변하겠다”며 위기 국면에서 구성원들을 독려했다. 이 사장은 VD 사업이 삼성전자의 뿌리이자 20년 연속 1위 성과를 일궈온 핵심 분야라고 강조했다. 배경으로는 가격 경쟁력을 앞세운 중국 브랜드의 추격, 수요 둔화, 거실 주도권을 둘러싼 빅테크·플랫폼 업체와의 경쟁을 짚었다. 그는 1위 위상은 성찰과 준비된 혁신으로만 지킬 수 있다며, 기존 틀을 벗어난 혁신과 AI 시대에 맞춘 TV 사업 방향 재설정을 당부했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung VD Division Urged to Innovate as Lee Won-jin Warns Against Fearing AI Change",
-        "excerpt": "Samsung Electronics VD chief Lee Won-jin told employees on May 12 to pursue TV business innovation and respond to the AI era amid Chinese competition and slowing demand.",
-        "body": "Lee Won-jin, president and head of Samsung Electronics’ Visual Display (VD) business, called for sweeping innovation in the TV-focused division in an inaugural message to employees on May 12. Saying, “I will change first,” he sought to encourage staff facing a difficult business environment. Lee described the VD business as Samsung Electronics’ root and a core field that has achieved 20 consecutive years at No. 1. He cited the pursuit by price-competitive Chinese brands, slowing demand, and competition with big tech and platform companies for control of the living room. Lee said the No. 1 position can be preserved only through reflection suited to the times and prepared innovation, urging the division not to fear innovation beyond existing frameworks and to reset the direction of the TV business for the AI era. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子VD事業に革新要請、李元鎮社長「AI変化を恐れるな」",
-        "excerpt": "サムスン電子VD事業部長の李元鎮社長は12日、就任メッセージで中国勢の追撃と需要鈍化の中、TV事業革新とAI時代への対応を求めた。",
-        "body": "サムスン電子の映像ディスプレイ（VD）事業部長である李元鎮社長は12日、社員向けの就任メッセージで、テレビ事業を担うVD事業部に全面的な革新を求めた。李氏は「私から変わる」と述べ、厳しい局面にある構成員を鼓舞した。VD事業について、サムスン電子の根であり、20年連続1位の成果を築いてきた中核分野だと強調した。背景として、価格競争力を前面に出す中国ブランドの追撃、需要鈍化、リビングの主導権をめぐるビッグテックやプラットフォーム企業との競争を挙げた。李氏は、1位の地位は時代に合った省察と準備された革新によってのみ守れるとし、既存の枠を超える革新とAI時代に合わせたTV事業の方向再設定を促した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子VD事业部被要求革新，李元镇称不应畏惧AI变化",
-        "excerpt": "三星电子VD事业部长李元镇12日在就任致辞中表示，面对中国品牌追赶和需求放缓，电视业务必须推进创新并应对AI时代。",
-        "body": "三星电子视频显示（VD）事业部长、社长李元镇12日在面向员工的就任致辞中，要求负责电视业务的VD事业部进行全面革新。他表示“我会先改变”，意在鼓励处于危机环境中的成员。李元镇强调，VD事业是三星电子的根基，也是创造连续20年第一成绩的核心领域。他指出，背景包括以价格竞争力为武器的中国品牌追赶、需求放缓，以及大型科技和平台企业围绕客厅主导权展开的竞争。他表示，第一的地位只有通过符合时代潮流的反思和有准备的创新才能守住，并要求不要畏惧跳出现有框架的革新，重新设定适应AI时代的电视业务方向。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Samsung pide innovar en VD: Lee Won-jin dice que no hay que temer al cambio por IA",
-        "excerpt": "Lee Won-jin, jefe de VD de Samsung Electronics, pidió el 12 de mayo innovar el negocio de televisores y responder a la era de la IA ante el avance chino y la menor demanda.",
-        "body": "Lee Won-jin, presidente y jefe del negocio Visual Display (VD) de Samsung Electronics, pidió el 12 de mayo una innovación integral en la división encargada del negocio de televisores durante su mensaje de toma de posesión a los empleados. Al decir “yo cambiaré primero”, buscó animar al personal ante un entorno difícil. Lee subrayó que el negocio VD es la raíz de Samsung Electronics y un área clave que ha logrado 20 años consecutivos en el primer lugar. Como contexto, citó el avance de marcas chinas con competitividad de precios, la desaceleración de la demanda y la competencia con grandes tecnológicas y plataformas por el control de la sala de estar. Señaló que la posición de líder solo puede mantenerse con reflexión acorde a los tiempos e innovación preparada, y pidió no temer a innovar fuera de los marcos existentes ni a redefinir el rumbo del negocio de TV para la era de la IA. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Samsung cobra inovação na VD: Lee Won-jin diz para não temer mudanças da IA",
-        "excerpt": "Lee Won-jin, chefe da divisão VD da Samsung Electronics, pediu em 12 de maio inovação no negócio de TVs e resposta à era da IA diante do avanço chinês e da demanda menor.",
-        "body": "Lee Won-jin, presidente e chefe da área de Visual Display (VD) da Samsung Electronics, pediu em 12 de maio uma inovação ampla na divisão responsável pelo negócio de televisores, em mensagem de posse aos funcionários. Ao afirmar “eu mudarei primeiro”, buscou incentivar a equipe em um ambiente difícil. Lee destacou que o negócio VD é a raiz da Samsung Electronics e uma área central que construiu 20 anos consecutivos de liderança. Como pano de fundo, apontou a perseguição de marcas chinesas com competitividade em preço, a desaceleração da demanda e a disputa com big techs e plataformas pelo controle da sala de estar. Ele afirmou que a posição de número um só pode ser mantida com reflexão adequada aos tempos e inovação preparada, pedindo que a divisão não tema inovar além dos moldes existentes e redefina o rumo do negócio de TV para a era da IA. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung fordert VD-Innovation: Lee Won-jin mahnt, KI-Wandel nicht zu fürchten",
-        "excerpt": "Samsung-VD-Chef Lee Won-jin forderte am 12. Mai in seiner Antrittsbotschaft Innovation im TV-Geschäft und Antworten auf die KI-Ära angesichts chinesischer Konkurrenz und schwächerer Nachfrage.",
-        "body": "Lee Won-jin, Präsident und Leiter des Visual-Display-Geschäfts (VD) von Samsung Electronics, hat am 12. Mai in einer Antrittsbotschaft an die Beschäftigten umfassende Innovationen in der für das TV-Geschäft zuständigen VD-Sparte gefordert. Mit den Worten „Ich werde mich zuerst verändern“ wollte er die Mitarbeitenden in einem schwierigen Umfeld ermutigen. Lee bezeichnete das VD-Geschäft als Wurzel von Samsung Electronics und als Kernbereich, der 20 Jahre in Folge Platz eins erreicht habe. Als Hintergrund nannte er den Vorstoß preislich wettbewerbsfähiger chinesischer Marken, eine nachlassende Nachfrage sowie den Wettbewerb mit Big-Tech- und Plattformunternehmen um die Vorherrschaft im Wohnzimmer. Die Spitzenposition lasse sich nur durch zeitgemäße Selbstprüfung und vorbereitete Innovation halten; deshalb dürfe man Innovation außerhalb bestehender Rahmen und eine Neuausrichtung des TV-Geschäfts für die KI-Ära nicht fürchten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung pousse l’innovation VD: Lee Won-jin appelle à ne pas craindre l’IA",
-        "excerpt": "Lee Won-jin, patron de la division VD de Samsung Electronics, a demandé le 12 mai d’innover dans les téléviseurs et de répondre à l’ère de l’IA face à la concurrence chinoise et au ralentissement de la demande.",
-        "body": "Lee Won-jin, président et responsable de l’activité Visual Display (VD) de Samsung Electronics, a appelé le 12 mai à une innovation globale au sein de la division chargée des téléviseurs, dans son message de prise de fonctions aux employés. En déclarant qu’il changerait d’abord lui-même, il a voulu mobiliser les équipes dans un contexte difficile. Il a souligné que l’activité VD est la racine de Samsung Electronics et un domaine clé qui a permis 20 années consécutives de première place. Il a cité la poursuite des marques chinoises misant sur les prix, le ralentissement de la demande et la concurrence des grandes entreprises technologiques et des plateformes pour la maîtrise du salon. Selon lui, la position de numéro un ne peut être maintenue que par une réflexion adaptée à l’époque et une innovation préparée; il a donc demandé de ne pas craindre l’innovation hors des cadres existants ni la redéfinition de l’orientation du TV pour l’ère de l’IA. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سامسونغ تطلب ابتكارا في قسم VD ولي وون جين يحذر من الخوف من تغيرات الذكاء الاصطناعي",
-        "excerpt": "دعا لي وون جين رئيس قسم VD في سامسونغ إلكترونيكس يوم 12 مايو إلى ابتكار أعمال التلفزيون والاستجابة لعصر الذكاء الاصطناعي وسط ملاحقة الشركات الصينية وتباطؤ الطلب.",
-        "body": "دعا لي وون جين، رئيس قسم العرض المرئي VD في سامسونغ إلكترونيكس، يوم 12 مايو في رسالة توليه المنصب إلى الموظفين، إلى ابتكار شامل في القسم المسؤول عن أعمال التلفزيون. وقال إنه سيبدأ التغيير بنفسه، بهدف تشجيع العاملين في ظل بيئة صعبة. وأكد أن أعمال VD هي جذر سامسونغ إلكترونيكس ومجال أساسي حقق المركز الأول لمدة 20 عاما متتاليا. وأشار إلى ملاحقة العلامات الصينية المعتمدة على القدرة السعرية، وتباطؤ الطلب، والمنافسة مع شركات التكنولوجيا الكبرى والمنصات على قيادة غرفة المعيشة. وقال إن مكانة المركز الأول لا يمكن الحفاظ عليها إلا عبر مراجعة تناسب العصر وابتكار جاهز، داعيا إلى عدم الخوف من الابتكار خارج الأطر القائمة وإعادة ضبط اتجاه أعمال التلفزيون بما يواكب عصر الذكاء الاصطناعي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung VD कारोबार में नवाचार पर जोर, Lee Won-jin बोले AI बदलाव से न डरें",
-        "excerpt": "Samsung Electronics के VD प्रमुख Lee Won-jin ने 12 मई को कर्मचारियों से कहा कि चीनी ब्रांडों की चुनौती और मांग में सुस्ती के बीच TV कारोबार में नवाचार और AI युग की तैयारी जरूरी है।",
-        "body": "Samsung Electronics के Visual Display (VD) कारोबार प्रमुख और अध्यक्ष Lee Won-jin ने 12 मई को कर्मचारियों के लिए अपने पदभार संदेश में TV कारोबार संभालने वाले VD विभाग से व्यापक नवाचार की मांग की। उन्होंने कहा कि वे खुद पहले बदलेंगे, ताकि कठिन स्थिति का सामना कर रहे कर्मचारियों को प्रोत्साहित किया जा सके। Lee ने VD कारोबार को Samsung Electronics की जड़ और वह मुख्य क्षेत्र बताया जिसने लगातार 20 वर्षों तक नंबर एक स्थान बनाया। उन्होंने पृष्ठभूमि में कीमत प्रतिस्पर्धा के साथ आगे बढ़ रहे चीनी ब्रांडों की चुनौती, मांग में सुस्ती और लिविंग रूम पर नियंत्रण के लिए बड़ी टेक तथा प्लेटफॉर्म कंपनियों से मुकाबले का उल्लेख किया। उनके अनुसार नंबर एक स्थिति केवल समय के अनुरूप आत्ममंथन और तैयार नवाचार से बचाई जा सकती है। उन्होंने मौजूदा ढांचे से बाहर नवाचार करने और AI युग के अनुरूप TV कारोबार की दिशा फिर तय करने से न डरने को कहा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Samsung Dorong Inovasi VD, Lee Won-jin Minta Tak Takut Perubahan AI",
-        "excerpt": "Kepala VD Samsung Electronics Lee Won-jin pada 12 Mei meminta inovasi bisnis TV dan respons terhadap era AI di tengah kejaran merek China serta perlambatan permintaan.",
-        "body": "Lee Won-jin, presiden sekaligus kepala bisnis Visual Display (VD) Samsung Electronics, pada 12 Mei menyampaikan pesan pelantikan kepada karyawan dan meminta inovasi menyeluruh di divisi yang menangani bisnis TV. Dengan mengatakan bahwa ia akan berubah terlebih dahulu, Lee berupaya menyemangati karyawan yang menghadapi kondisi sulit. Ia menegaskan bahwa bisnis VD adalah akar Samsung Electronics dan bidang inti yang membangun capaian peringkat pertama selama 20 tahun berturut-turut. Sebagai latar, ia menyebut kejaran merek China yang mengandalkan daya saing harga, perlambatan permintaan, serta persaingan dengan perusahaan big tech dan platform untuk menguasai ruang keluarga. Lee mengatakan posisi nomor satu hanya dapat dipertahankan melalui refleksi sesuai zaman dan inovasi yang siap, seraya meminta agar divisi tidak takut berinovasi di luar kerangka lama dan menata ulang arah bisnis TV untuk era AI. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "0773635c8442",
-    "slug": "513-mk-추천매물-강남대로-역-출구-앞-신축-용지-950억원-등-670511",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-12T22:38:42.504Z",
-    "updatedAt": "2026-05-12T22:38:42.504Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12045724",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12045724",
-    "titleFingerprint": "0c0a3b07fff420d91e05a99cda9252fb7f02f1d4",
-    "dedupKeys": [
-      "0773635c844247d93d98afa1b93a370d281b2e8d",
-      "0c0a3b07fff420d91e05a99cda9252fb7f02f1d4",
-      "5412406bc0138ef52283bd5522065113113c1e39"
-    ],
-    "imageUrl": "/images/articles/0773635c8442.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강남대로 역 출구 앞 신축 용지 950억원, 5월 13일 MK 추천매물 공개",
-        "excerpt": "매일경제는 5월 13일 MK 추천매물로 강남대로 역 출구 앞 신축 용지 950억원 매물과 동탄2신도시 투자용 상가빌딩 210억원 매물 등을 소개했다.",
-        "body": "매일경제는 5월 13일 MK 추천매물에서 강남대로 역 출구 앞 신축 용지를 950억원 매물로 소개했다. 함께 제시된 동탄2신도시 투자용 상가빌딩은 6.6%대 수익 매물로, 대로변 코너 횡단보도 앞에 접한 대지 987㎡, 연면적 5615㎡ 규모의 지하 2층~지상 7층 건물이다. 해당 상가빌딩의 매매가는 210억원으로 제시됐다. 이번 추천매물은 역 출구 앞 신축 용지와 신도시 대로변 상가빌딩 등 입지와 수익률을 중심으로 투자자가 검토할 수 있는 부동산 정보를 담았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gangnam-daero Station Exit Development Site Listed at 95 Billion Won in MK Picks",
-        "excerpt": "Maeil Business Newspaper introduced May 13 MK recommended listings, including a new development site by a Gangnam-daero station exit at 95 billion won and a Dongtan 2 commercial building at 21 billion won.",
-        "body": "Maeil Business Newspaper introduced a new development site in front of a Gangnam-daero station exit as a 95 billion won listing in its May 13 MK recommended properties. Another listing was an investment commercial building in Dongtan 2 New Town with a yield in the 6.6% range. The building sits on a 987㎡ lot by a roadside corner crosswalk and has a total floor area of 5,615㎡, with two basement floors and seven above-ground floors. Its sale price was presented as 21 billion won. The recommended listings provide property information for investors to review, centered on location and yield. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "江南大路の駅出口前新築用地950億ウォン、5月13日MK推薦物件",
-        "excerpt": "毎日経済は5月13日のMK推薦物件として、江南大路の駅出口前にある新築用地950億ウォンの物件と、東灘2新都市の投資用商業ビル210億ウォン物件などを紹介した。",
-        "body": "毎日経済は5月13日のMK推薦物件で、江南大路の駅出口前にある新築用地を950億ウォンの物件として紹介した。あわせて提示された東灘2新都市の投資用商業ビルは6.6%台の利回り物件で、大通り沿いの角地、横断歩道前に接する敷地987㎡、延べ床面積5615㎡、地下2階から地上7階の建物だ。同商業ビルの売買価格は210億ウォンとされた。今回の推薦物件は、駅出口前の新築用地と新都市の大通り沿い商業ビルなど、立地と利回りを中心に投資家が検討できる不動産情報を盛り込んだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "江南大路车站出口前新建用地950亿韩元，5月13日MK推荐房源",
-        "excerpt": "每日经济在5月13日MK推荐房源中介绍了江南大路车站出口前950亿韩元新建用地，以及东滩2新城210亿韩元投资型商业楼等信息。",
-        "body": "每日经济在5月13日MK推荐房源中，将江南大路车站出口前的新建用地介绍为950亿韩元房源。同时列出的东滩2新城投资型商业楼为6.6%左右收益率房源，位于大路边角地、临近人行横道前，土地面积987㎡，总建筑面积5615㎡，为地下2层至地上7层建筑。该商业楼买卖价格为210亿韩元。本次推荐房源涵盖车站出口前新建用地和新城大路边商业楼等信息，重点呈现区位和收益率，供投资者参考。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Solar junto a salida de estación en Gangnam-daero se ofrece por 95.000 millones de wones",
-        "excerpt": "Maeil Business Newspaper presentó el 13 de mayo sus inmuebles recomendados por MK, incluido un solar nuevo junto a una salida de estación en Gangnam-daero por 95.000 millones de wones y un edificio comercial en Dongtan 2 por 21.000 millones.",
-        "body": "Maeil Business Newspaper presentó el 13 de mayo, dentro de los inmuebles recomendados por MK, un solar para nueva construcción frente a una salida de estación en Gangnam-daero por 95.000 millones de wones. También incluyó un edificio comercial de inversión en Dongtan 2 New Town con una rentabilidad en torno al 6,6%. El inmueble está en una esquina de una vía principal, frente a un paso peatonal, sobre un terreno de 987㎡ y con 5.615㎡ de superficie construida, desde dos plantas subterráneas hasta siete sobre rasante. Su precio de venta fue de 21.000 millones de wones. La selección reúne información inmobiliaria centrada en ubicación y rentabilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Terreno junto à saída de estação na Gangnam-daero é listado por 95 bi de won",
-        "excerpt": "O Maeil Business Newspaper apresentou em 13 de maio imóveis recomendados pela MK, incluindo terreno para nova construção junto a uma saída de estação na Gangnam-daero por 95 bilhões de won e prédio comercial em Dongtan 2 por 21 bilhões.",
-        "body": "O Maeil Business Newspaper apresentou, em 13 de maio, nos imóveis recomendados pela MK, um terreno para nova construção em frente a uma saída de estação na Gangnam-daero por 95 bilhões de won. Também foi listado um prédio comercial de investimento em Dongtan 2 New Town com rentabilidade na faixa de 6,6%. O edifício fica em uma esquina de avenida, diante de uma faixa de pedestres, em terreno de 987㎡ e área total construída de 5.615㎡, com dois subsolos e sete pavimentos acima do solo. O preço de venda indicado foi de 21 bilhões de won. A seleção traz informações para investidores, com foco em localização e rendimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Baugrundstück am Gangnam-daero-Stationsausgang für 95 Mrd. Won in MK-Auswahl",
-        "excerpt": "Maeil Business Newspaper stellte am 13. Mai MK-Empfehlungsobjekte vor, darunter ein Neubaugrundstück am Ausgang einer Gangnam-daero-Station für 95 Mrd. Won und ein Geschäftsgebäude in Dongtan 2 für 21 Mrd. Won.",
-        "body": "Maeil Business Newspaper stellte am 13. Mai in den MK-Empfehlungsobjekten ein Neubaugrundstück vor einem Stationsausgang an der Gangnam-daero als Objekt für 95 Mrd. Won vor. Ebenfalls genannt wurde ein Anlage-Geschäftsgebäude in Dongtan 2 New Town mit einer Rendite im Bereich von 6,6%. Das Gebäude liegt an einer Straßenecke an einer Hauptstraße vor einem Fußgängerüberweg, auf einem 987㎡ großen Grundstück und mit 5.615㎡ Bruttogeschossfläche, von zwei Untergeschossen bis zu sieben oberirdischen Etagen. Der Verkaufspreis wurde mit 21 Mrd. Won angegeben. Die Auswahl liefert Immobilieninformationen mit Fokus auf Lage und Rendite. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Terrain près d’une sortie de station sur Gangnam-daero proposé à 95 milliards de wons",
-        "excerpt": "Maeil Business Newspaper a présenté le 13 mai les biens recommandés par MK, dont un terrain de nouvelle construction près d’une sortie de station sur Gangnam-daero à 95 milliards de wons et un immeuble commercial à Dongtan 2 à 21 milliards.",
-        "body": "Maeil Business Newspaper a présenté le 13 mai, dans les biens recommandés par MK, un terrain destiné à une nouvelle construction devant une sortie de station sur Gangnam-daero, au prix de 95 milliards de wons. Un autre bien présenté est un immeuble commercial d’investissement à Dongtan 2 New Town, avec un rendement d’environ 6,6%. Situé à l’angle d’une grande avenue, devant un passage piéton, il occupe un terrain de 987㎡ et totalise 5.615㎡ de surface de plancher, avec deux niveaux en sous-sol et sept étages hors sol. Son prix de vente est indiqué à 21 milliards de wons. La sélection met l’accent sur l’emplacement et le rendement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أرض بناء أمام مخرج محطة في غانغنام دايرو بسعر 95 مليار وون ضمن ترشيحات MK",
-        "excerpt": "عرضت صحيفة ماييل الاقتصادية في 13 مايو عقارات MK الموصى بها، ومنها أرض بناء أمام مخرج محطة في غانغنام دايرو بسعر 95 مليار وون ومبنى تجاري استثماري في دونغتان 2 بسعر 21 مليار وون.",
-        "body": "عرضت صحيفة ماييل الاقتصادية في 13 مايو، ضمن عقارات MK الموصى بها، أرضا للبناء الجديد أمام مخرج محطة في غانغنام دايرو بسعر 95 مليار وون. كما ورد مبنى تجاري استثماري في مدينة دونغتان 2 الجديدة بعائد في حدود 6.6%. يقع المبنى على زاوية طريق رئيسي أمام ممر مشاة، على أرض مساحتها 987㎡ وبمساحة إجمالية قدرها 5615㎡، ويتكون من طابقين تحت الأرض وسبعة طوابق فوقها. وقد طرح سعر البيع عند 21 مليار وون. تقدم هذه الترشيحات معلومات عقارية يمكن للمستثمرين مراجعتها، مع التركيز على الموقع والعائد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गंगनम-दैरो स्टेशन निकास के सामने नया भूखंड 95 अरब वॉन में, MK की 13 मई सूची",
-        "excerpt": "माइल बिजनेस न्यूजपेपर ने 13 मई की MK अनुशंसित संपत्तियों में गंगनम-दैरो स्टेशन निकास के सामने 95 अरब वॉन का नया निर्माण भूखंड और डोंगतान 2 का 21 अरब वॉन वाला निवेश वाणिज्यिक भवन पेश किया।",
-        "body": "माइल बिजनेस न्यूजपेपर ने 13 मई की MK अनुशंसित संपत्तियों में गंगनम-दैरो स्टेशन निकास के सामने नए निर्माण के भूखंड को 95 अरब वॉन की संपत्ति के रूप में 소개 किया। साथ में डोंगतान 2 न्यू टाउन का निवेश용 वाणिज्यिक भवन भी प्रस्तुत किया गया, जिसकी आय दर 6.6% के दायरे में है। यह भवन मुख्य सड़क के कोने पर पैदल पारपथ के सामने स्थित 987㎡ भूमि पर है और इसका कुल फर्श क्षेत्र 5615㎡ है, जिसमें 2 बेसमेंट और जमीन से ऊपर 7 मंजिलें हैं। इसका बिक्री मूल्य 21 अरब वॉन बताया गया। सूची में स्थान और आय दर पर केंद्रित रियल एस्टेट जानकारी दी गई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lahan Baru Depan Pintu Keluar Stasiun Gangnam-daero Ditawarkan 95 Miliar Won",
-        "excerpt": "Maeil Business Newspaper pada 13 Mei memperkenalkan properti rekomendasi MK, termasuk lahan pembangunan baru di depan pintu keluar stasiun Gangnam-daero senilai 95 miliar won dan gedung komersial investasi di Dongtan 2 senilai 21 miliar won.",
-        "body": "Maeil Business Newspaper pada 13 Mei memperkenalkan lahan untuk pembangunan baru di depan pintu keluar stasiun Gangnam-daero sebagai properti senilai 95 miliar won dalam daftar rekomendasi MK. Properti lain yang disajikan adalah gedung komersial investasi di Dongtan 2 New Town dengan imbal hasil di kisaran 6,6%. Gedung tersebut berada di sudut jalan besar, menghadap penyeberangan, di atas lahan 987㎡ dengan luas lantai 5.615㎡, terdiri dari 2 lantai basement hingga 7 lantai di atas tanah. Harga jualnya disebut 21 miliar won. Daftar ini memuat informasi properti untuk ditinjau investor, berfokus pada lokasi dan imbal hasil. Sumber: mk.co.kr"
       }
     }
   }

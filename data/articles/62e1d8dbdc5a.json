@@ -1,0 +1,75 @@
+{
+  "id": "62e1d8dbdc5a",
+  "slug": "대부업체-해킹-철저-대비를-금감원-ceo-불러-보안-당부-630432",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-13T17:05:46.365Z",
+  "updatedAt": "2026-05-13T17:05:46.365Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917403/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917403/2",
+  "titleFingerprint": "24e171089ea43f1e2906b5a063be14cf6b4d4a5a",
+  "dedupKeys": [
+    "62e1d8dbdc5a79960f9b6a80f4166912bb697d17",
+    "24e171089ea43f1e2906b5a063be14cf6b4d4a5a",
+    "e2249f279530dd7937392d908df6dc19c48df2fd"
+  ],
+  "imageUrl": "/images/articles/62e1d8dbdc5a.jpg",
+  "i18n": {
+    "ko": {
+      "title": "대부업체 해킹 잇따르자 금감원, CEO 20명 소집해 보안 강화 당부",
+      "excerpt": "금융감독원은 13일 최근 대부회사 고객정보 유출과 피싱 시도에 대응해 20개 대부업체 CEO 간담회를 열고 보안 체계 강화를 요청했다.",
+      "body": "금융감독원은 13일 김형원 민생금융 담당 부원장보 주재로 20개 대부업체 최고경영자(CEO)와 간담회를 열고 해킹 사고 대비와 보안 강화를 당부했다. 최근 대부회사에서 고객정보 유출 사고가 잇따른 데 따른 조치다. 앞서 3월 국내 대부업체 1위 리드코프의 자회사인 앤알캐피탈대부와 엠에스아이대부에서 고객 정보가 유출됐다. 금감원에 따르면 직원이 업무용 PC로 외부 인터넷 사이트에 접속하다 악성코드에 감염되며 사고가 발생했다. 해커들은 빼낸 고객 정보를 다크웹에서 판매하겠다는 글로 대부업체를 협박했고, 고객에게는 대부업체 명의로 코인을 보내면 채무를 면제해주겠다는 피싱 메일을 보내 추가 범죄를 시도했다. 소비자 피해 우려가 커지면서 대부업계 보안 관리의 중요성이 부각되고 있다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "After loan firm hacks, FSS summons 20 CEOs to urge tighter security",
+      "excerpt": "On May 13, South Korea’s Financial Supervisory Service met CEOs of 20 loan firms after customer data leaks and phishing attempts raised consumer harm concerns.",
+      "body": "South Korea’s Financial Supervisory Service said on May 13 that it held a meeting with the CEOs of 20 loan companies, chaired by Assistant Governor Kim Hyung-won for livelihood finance, and urged stronger preparation for hacking incidents and tighter security. The move followed a series of customer data leaks at loan firms. In March, data was leaked from NR Capital Loan and MSI Loan, subsidiaries of Leadcorp, the country’s largest loan company. According to the FSS, the incidents occurred when employees accessed external internet sites on work PCs and were infected with malware. Hackers used the stolen customer data to threaten the companies by posting that they would sell personal information on the dark web. They also attempted further crimes by sending phishing emails to customers in the names of loan firms, saying debts would be forgiven if coins were sent. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "貸金業者の相次ぐハッキング受け、金融監督院がCEO20人に保安強化要請",
+      "excerpt": "金融監督院は13日、貸金業者の顧客情報流出とフィッシング試行を受け、20社のCEOを集めて保安体制の強化を求めた。",
+      "body": "韓国金融監督院は13日、民生金融担当の金亨源副院長補が主宰し、貸金業者20社の最高経営責任者（CEO）との懇談会を開き、ハッキング事故への備えと保安強化を要請した。最近、貸金会社で顧客情報の流出事故が相次いだことを受けた措置だ。3月には、国内最大手のリードコープの子会社であるNRキャピタル貸付とMSI貸付で顧客情報が流出した。金融監督院によると、事故は従業員が業務用PCで外部インターネットサイトに接続し、マルウェアに感染したことで発生した。ハッカーは盗み出した顧客情報をダークウェブで販売すると投稿して業者を脅迫し、顧客には業者名義でコインを送れば債務を免除するとするフィッシングメールを送るなど、追加犯罪も試みた。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "贷款公司接连遭黑客攻击，韩国金监院召集20名CEO敦促强化安全",
+      "excerpt": "韩国金融监督院13日因贷款公司客户信息泄露和钓鱼邮件风险，召集20家贷款公司CEO开会，要求加强网络安全。",
+      "body": "韩国金融监督院13日表示，由负责民生金融的副院长助理金亨元主持，与20家贷款公司首席执行官举行座谈会，要求彻底防范黑客攻击并加强安全管理。此举是针对近期贷款公司接连发生客户信息泄露事故的后续措施。今年3月，韩国最大贷款公司Leadcorp旗下的NR Capital Loan和MSI Loan发生客户信息外泄。金监院称，事故原因是员工使用办公电脑访问外部网站时感染恶意代码。黑客窃取客户信息后，在暗网上发布出售个人信息的帖子，以此威胁贷款公司；同时还冒用贷款公司名义向客户发送钓鱼邮件，声称发送加密货币即可免除债务，试图实施进一步犯罪。消费者受害风险因此受到关注。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Tras hackeos a prestamistas, el supervisor financiero reúne a 20 CEOs",
+      "excerpt": "El 13 de mayo, el Servicio de Supervisión Financiera de Corea reunió a 20 CEOs de prestamistas tras filtraciones de datos y correos de phishing.",
+      "body": "El Servicio de Supervisión Financiera de Corea del Sur informó que el 13 de mayo celebró una reunión con los directores ejecutivos de 20 empresas de préstamos, presidida por Kim Hyung-won, subgobernador adjunto encargado de finanzas para la población, para pedir una preparación rigurosa frente a hackeos y un refuerzo de la seguridad. La medida responde a recientes filtraciones de datos de clientes en compañías del sector. En marzo, se filtró información en NR Capital Loan y MSI Loan, filiales de Leadcorp, la mayor prestamista del país. Según el supervisor, los incidentes ocurrieron cuando empleados accedieron a sitios externos desde computadoras de trabajo y resultaron infectados con malware. Los hackers amenazaron a las empresas publicando en la dark web que venderían los datos y enviaron correos de phishing a clientes diciendo que se condonarían deudas si enviaban monedas. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Após ataques a financeiras, regulador reúne 20 CEOs e pede mais segurança",
+      "excerpt": "Em 13 de maio, o regulador financeiro da Coreia do Sul reuniu CEOs de 20 financeiras após vazamentos de dados e tentativas de phishing contra clientes.",
+      "body": "O Serviço de Supervisão Financeira da Coreia do Sul informou que, em 13 de maio, realizou uma reunião com os CEOs de 20 empresas de empréstimos, presidida por Kim Hyung-won, vice-governador assistente responsável por finanças populares, para pedir preparação contra ataques hackers e reforço da segurança. A medida veio após uma sequência de vazamentos de dados de clientes no setor. Em março, informações foram vazadas na NR Capital Loan e na MSI Loan, subsidiárias da Leadcorp, maior financeira do país. Segundo o regulador, os incidentes ocorreram quando funcionários acessaram sites externos em computadores de trabalho e foram infectados por malware. Os hackers ameaçaram as empresas publicando na dark web que venderiam dados pessoais e também enviaram e-mails de phishing a clientes, dizendo que dívidas seriam perdoadas se moedas fossem enviadas. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Nach Hackerangriffen auf Kreditfirmen ruft Aufsicht 20 CEOs zu mehr Sicherheit auf",
+      "excerpt": "Die südkoreanische Finanzaufsicht traf am 13. Mai CEOs von 20 Kreditfirmen, nachdem Datenlecks und Phishing-Versuche Sorgen um Verbraucher auslösten.",
+      "body": "Die südkoreanische Finanzaufsicht FSS teilte mit, dass sie am 13. Mai unter Leitung von Kim Hyung-won, stellvertretender Gouverneur für Finanzfragen des Alltags, ein Treffen mit den CEOs von 20 Kreditunternehmen abgehalten und stärkere Vorkehrungen gegen Hackerangriffe sowie bessere Sicherheit verlangt habe. Anlass waren jüngste Lecks von Kundendaten bei Kreditfirmen. Im März waren Kundendaten bei NR Capital Loan und MSI Loan abgeflossen, Tochtergesellschaften von Leadcorp, dem größten Kreditunternehmen des Landes. Nach Angaben der FSS entstanden die Vorfälle, als Mitarbeiter mit Arbeits-PCs externe Internetseiten aufriefen und sich mit Schadsoftware infizierten. Hacker drohten den Unternehmen mit Beiträgen im Dark Web, persönliche Daten zu verkaufen, und versuchten weitere Straftaten, indem sie Kunden Phishing-Mails im Namen der Kreditfirmen schickten. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Après des piratages de prêteurs, le régulateur convoque 20 PDG pour renforcer la sécurité",
+      "excerpt": "Le 13 mai, le régulateur financier sud-coréen a réuni les PDG de 20 prêteurs après des fuites de données clients et des tentatives d’hameçonnage.",
+      "body": "Le Service de supervision financière de Corée du Sud a indiqué avoir tenu, le 13 mai, une réunion avec les PDG de 20 sociétés de prêt, sous la présidence de Kim Hyung-won, gouverneur adjoint chargé de la finance du quotidien, afin de demander une meilleure préparation face aux piratages et un renforcement de la sécurité. Cette mesure fait suite à plusieurs fuites de données clients dans le secteur. En mars, des informations ont été divulguées chez NR Capital Loan et MSI Loan, filiales de Leadcorp, premier prêteur du pays. Selon le régulateur, les incidents se sont produits lorsque des employés ont consulté des sites externes depuis des PC professionnels et ont été infectés par un logiciel malveillant. Les pirates ont menacé les entreprises en annonçant sur le dark web la vente de données personnelles et ont envoyé aux clients des courriels d’hameçonnage promettant une remise de dette contre l’envoi de coins. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "بعد اختراقات شركات الإقراض، الرقابة المالية تستدعي 20 رئيسا تنفيذيا لتعزيز الأمن",
+      "excerpt": "عقدت هيئة الرقابة المالية في كوريا الجنوبية في 13 مايو اجتماعا مع رؤساء 20 شركة إقراض بعد تسريبات بيانات ومحاولات تصيد أثارت مخاوف على العملاء.",
+      "body": "قالت هيئة الرقابة المالية في كوريا الجنوبية إنها عقدت في 13 مايو اجتماعا مع الرؤساء التنفيذيين لـ20 شركة إقراض، برئاسة كيم هيونغ وون، مساعد نائب المحافظ المسؤول عن التمويل المعيشي، وطلبت تعزيز الاستعداد لهجمات القرصنة وتقوية الأمن. وجاءت الخطوة بعد حوادث متتالية لتسرب بيانات عملاء في شركات إقراض. ففي مارس، تسربت بيانات من شركتي NR Capital Loan وMSI Loan، وهما تابعتان لشركة Leadcorp، أكبر شركة إقراض في البلاد. وبحسب الهيئة، وقعت الحوادث عندما دخل موظفون إلى مواقع إنترنت خارجية عبر حواسيب العمل فأصيبت ببرمجيات خبيثة. واستخدم القراصنة بيانات العملاء المسروقة لتهديد الشركات عبر منشورات على الويب المظلم تعرض بيع المعلومات الشخصية، كما أرسلوا رسائل تصيد للعملاء باسم شركات الإقراض تزعم إسقاط الديون مقابل إرسال عملات. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "लोन कंपनियों पर हैकिंग के बाद वित्तीय निगरानी एजेंसी ने 20 CEO को बुलाया",
+      "excerpt": "दक्षिण कोरिया की वित्तीय निगरानी सेवा ने 13 मई को ग्राहक डेटा लीक और फिशिंग कोशिशों के बाद 20 लोन कंपनियों के CEO से सुरक्षा मजबूत करने को कहा।",
+      "body": "दक्षिण कोरिया की वित्तीय निगरानी सेवा ने कहा कि उसने 13 मई को जनजीवन वित्त मामलों के सहायक गवर्नर किम ह्युंग-वोन की अध्यक्षता में 20 लोन कंपनियों के मुख्य कार्यकारी अधिकारियों के साथ बैठक की और हैकिंग घटनाओं की पूरी तैयारी तथा सुरक्षा मजबूत करने का आग्रह किया। यह कदम हाल में लोन कंपनियों में ग्राहक जानकारी लीक होने की लगातार घटनाओं के बाद उठाया गया। मार्च में देश की सबसे बड़ी लोन कंपनी Leadcorp की सहायक कंपनियों NR Capital Loan और MSI Loan से ग्राहक डेटा लीक हुआ था। एजेंसी के अनुसार, कर्मचारी जब काम के पीसी से बाहरी इंटरनेट साइटों पर गए तो मैलवेयर संक्रमण हुआ और घटनाएं हुईं। हैकरों ने चुराए गए ग्राहक डेटा के आधार पर डार्क वेब पर निजी जानकारी बेचने की पोस्ट डालकर कंपनियों को धमकाया। उन्होंने ग्राहकों को कंपनियों के नाम से फिशिंग ईमेल भी भेजे, जिनमें कहा गया कि कॉइन भेजने पर कर्ज माफ कर दिया जाएगा। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Usai peretasan perusahaan pinjaman, regulator panggil 20 CEO perkuat keamanan",
+      "excerpt": "Pada 13 Mei, regulator keuangan Korea Selatan mengumpulkan CEO dari 20 perusahaan pinjaman setelah kebocoran data nasabah dan upaya phishing terjadi.",
+      "body": "Layanan Pengawas Keuangan Korea Selatan menyatakan pada 13 Mei telah mengadakan pertemuan dengan CEO dari 20 perusahaan pinjaman, dipimpin Kim Hyung-won, asisten gubernur yang menangani keuangan masyarakat, untuk meminta kesiapan menghadapi peretasan dan penguatan keamanan. Langkah ini diambil setelah serangkaian kebocoran informasi pelanggan di perusahaan pinjaman. Pada Maret, data pelanggan bocor dari NR Capital Loan dan MSI Loan, anak usaha Leadcorp, perusahaan pinjaman terbesar di negara itu. Menurut regulator, insiden terjadi ketika karyawan mengakses situs internet eksternal melalui PC kerja dan terinfeksi malware. Peretas kemudian mengancam perusahaan dengan memposting di dark web bahwa mereka akan menjual informasi pribadi. Mereka juga mencoba kejahatan lanjutan dengan mengirim email phishing kepada pelanggan atas nama perusahaan pinjaman, berisi klaim bahwa utang akan dihapus jika mengirim coin. Sumber: rss.donga.com"
+    }
+  }
+}
