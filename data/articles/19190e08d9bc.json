@@ -1,0 +1,75 @@
+{
+  "id": "19190e08d9bc",
+  "slug": "美-도매물가-4월중-14-뛰어-연-인플레-60로-커져4년-래-최고치-990909",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-13T14:05:30.867Z",
+  "updatedAt": "2026-05-13T14:05:30.867Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260513/133918803/1",
+  "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260513/133918803/1",
+  "titleFingerprint": "8798097f272072d8d0ce3a752c04c19f247ccc00",
+  "dedupKeys": [
+    "19190e08d9bce19688af5ce2b986f3541f3595e7",
+    "8798097f272072d8d0ce3a752c04c19f247ccc00",
+    "61f6366248518904bf939d679b049c46a2bb7fbf"
+  ],
+  "imageUrl": "/images/articles/19190e08d9bc.jpg",
+  "i18n": {
+    "ko": {
+      "title": "미국 4월 생산자물가 1.4% 급등, 연간 PPI 인플레 6.0%로 확대",
+      "excerpt": "미 노동부는 13일 미국의 4월 생산자물가가 전월보다 1.4% 올라 연간 PPI 인플레가 6.0%로 커졌다고 밝혔다. 이란 전쟁 이후 상승세가 확대됐다.",
+      "body": "미 노동부는 13일 미국의 4월 생산자물가지수(PPI), 즉 소비자에게 전달되기 직전 단계의 도매물가가 전월 대비 1.4% 상승했다고 밝혔다. 이는 코로나19 이후 경기 반등기였던 2022년 3월의 1.7% 상승 이후 가장 큰 월간 오름폭이다. 이란 전쟁이 시작된 3월에는 PPI가 0.7% 올랐고, 전쟁 전인 2월에는 0.6% 상승했다. 전년 동월 대비 PPI 인플레는 6.0%로 확대돼 2022년 12월 6.4% 이후 최고 수준을 기록했다. 3월 연간 상승률은 4.3%, 2월은 3.4%였다. 전날 발표된 4월 소비자물가도 전월 대비 0.6% 올랐다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "US April Producer Prices Jump 1.4%, Annual PPI Inflation Rises to 6.0%",
+      "excerpt": "The US Labor Department said on the 13th that producer prices rose 1.4% in April from March, lifting annual PPI inflation to 6.0% after the Iran war began.",
+      "body": "The US Labor Department said on the 13th that the producer price index (PPI), wholesale prices at the final stage before reaching consumers, rose 1.4% in April from the previous month. It was the largest monthly increase since the 1.7% rise in March 2022, when the economy rebounded after the COVID-19 downturn. PPI rose 0.7% in March, when the Iran war began, and 0.6% in February, before the war. Annual PPI inflation, measured against April 2025, widened to 6.0%, the highest since 6.4% in December 2022. The annual rate was 4.3% in March and 3.4% in February. Consumer prices released a day earlier rose 0.6% in April from the previous month. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "米4月生産者物価が1.4%急上昇、年間PPIインフレは6.0%に拡大",
+      "excerpt": "米労働省は13日、4月の生産者物価が前月比1.4%上昇し、年間PPIインフレが6.0%に拡大したと発表した。イラン戦争後に上昇幅が広がった。",
+      "body": "米労働省は13日、消費者に届く直前段階の卸売物価にあたる4月の生産者物価指数（PPI）が前月比1.4%上昇したと発表した。これは、新型コロナ後の景気反発局面だった2022年3月の1.7%上昇以来、最大の月間上昇幅となる。イラン戦争が始まった3月のPPI上昇率は0.7%、戦争前の2月は0.6%だった。前年同月比のPPIインフレは6.0%に拡大し、2022年12月の6.4%以来の高水準となった。3月の年間上昇率は4.3%、2月は3.4%だった。前日に発表された4月の消費者物価も前月比0.6%上昇した。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "美国4月生产者价格上涨1.4%，年度PPI通胀扩大至6.0%",
+      "excerpt": "美国劳工部13日表示，4月生产者价格环比上涨1.4%，年度PPI通胀升至6.0%。伊朗战争开始后，价格涨幅继续扩大。",
+      "body": "美国劳工部13日表示，4月生产者价格指数（PPI），即商品进入消费者环节前最后阶段的批发价格，较上月上涨1.4%。这是自2022年3月美国经济在新冠低迷后反弹、PPI上涨1.7%以来的最大月度涨幅。伊朗战争开始的3月，PPI上涨0.7%；战前的2月上涨0.6%。与2025年4月相比，PPI年度通胀扩大至6.0%，为2022年12月6.4%以来最高。3月年度涨幅为4.3%，2月为3.4%。前一天公布的4月消费者价格也环比上涨0.6%。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Precios al productor de EE. UU. suben 1,4% en abril y la inflación PPI llega al 6,0%",
+      "excerpt": "El Departamento de Trabajo de EE. UU. informó el día 13 que los precios al productor subieron 1,4% en abril frente a marzo y la inflación anual PPI llegó al 6,0%.",
+      "body": "El Departamento de Trabajo de EE. UU. informó el día 13 que el índice de precios al productor (PPI), los precios mayoristas en la etapa final antes de llegar al consumidor, subió 1,4% en abril respecto al mes anterior. Fue el mayor aumento mensual desde el 1,7% registrado en marzo de 2022, cuando la economía repuntaba tras la recesión por el COVID-19. En marzo, cuando comenzó la guerra con Irán, el PPI subió 0,7%, y en febrero, antes de la guerra, aumentó 0,6%. La inflación anual del PPI, comparada con abril de 2025, se amplió a 6,0%, el nivel más alto desde el 6,4% de diciembre de 2022. En marzo fue 4,3% y en febrero 3,4%. Los precios al consumidor de abril, publicados el día anterior, subieron 0,6% mensual. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Preços ao produtor dos EUA sobem 1,4% em abril e inflação anual do PPI chega a 6,0%",
+      "excerpt": "O Departamento do Trabalho dos EUA disse no dia 13 que os preços ao produtor subiram 1,4% em abril ante março, elevando a inflação anual do PPI para 6,0%.",
+      "body": "O Departamento do Trabalho dos EUA informou no dia 13 que o índice de preços ao produtor (PPI), os preços no atacado na etapa final antes de chegar ao consumidor, subiu 1,4% em abril em relação ao mês anterior. Foi a maior alta mensal desde os 1,7% de março de 2022, quando a economia se recuperava após a retração causada pela COVID-19. Em março, quando começou a guerra com o Irã, o PPI subiu 0,7%; em fevereiro, antes da guerra, avançou 0,6%. A inflação anual do PPI, comparada com abril de 2025, aumentou para 6,0%, o maior nível desde os 6,4% de dezembro de 2022. Em março, a taxa anual foi 4,3%, e em fevereiro, 3,4%. Os preços ao consumidor de abril, divulgados no dia anterior, subiram 0,6% no mês. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "US-Erzeugerpreise steigen im April um 1,4%, jährliche PPI-Inflation erreicht 6,0%",
+      "excerpt": "Das US-Arbeitsministerium teilte am 13. mit, dass die Erzeugerpreise im April gegenüber März um 1,4% stiegen und die jährliche PPI-Inflation auf 6,0% kletterte.",
+      "body": "Das US-Arbeitsministerium erklärte am 13., dass der Erzeugerpreisindex (PPI), also die Großhandelspreise in der letzten Stufe vor dem Verbraucher, im April gegenüber dem Vormonat um 1,4% gestiegen ist. Das war der stärkste monatliche Anstieg seit März 2022, als die Preise während der wirtschaftlichen Erholung nach dem COVID-19-Einbruch um 1,7% zulegten. Im März, als der Iran-Krieg begann, stieg der PPI um 0,7%, im Februar vor dem Krieg um 0,6%. Die jährliche PPI-Inflation gegenüber April 2025 weitete sich auf 6,0% aus, den höchsten Wert seit 6,4% im Dezember 2022. Im März lag sie bei 4,3%, im Februar bei 3,4%. Die am Vortag veröffentlichten Verbraucherpreise für April stiegen monatlich um 0,6%. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Les prix à la production américains bondissent de 1,4% en avril, l’inflation PPI atteint 6,0%",
+      "excerpt": "Le département américain du Travail a indiqué le 13 que les prix à la production avaient augmenté de 1,4% en avril sur un mois, portant l’inflation annuelle PPI à 6,0%.",
+      "body": "Le département américain du Travail a annoncé le 13 que l’indice des prix à la production (PPI), soit les prix de gros au dernier stade avant le consommateur, avait augmenté de 1,4% en avril par rapport au mois précédent. Il s’agit de la plus forte hausse mensuelle depuis les 1,7% de mars 2022, période de rebond économique après le ralentissement lié au COVID-19. En mars, lorsque la guerre avec l’Iran a commencé, le PPI avait progressé de 0,7%; en février, avant la guerre, de 0,6%. L’inflation annuelle du PPI, comparée à avril 2025, s’est élargie à 6,0%, son plus haut niveau depuis les 6,4% de décembre 2022. Elle était de 4,3% en mars et de 3,4% en février. Les prix à la consommation d’avril, publiés la veille, ont augmenté de 0,6% sur un mois. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "أسعار المنتجين في أميركا تقفز 1.4% في أبريل وتضخم PPI السنوي يبلغ 6.0%",
+      "excerpt": "قالت وزارة العمل الأميركية في 13 إن أسعار المنتجين ارتفعت 1.4% في أبريل مقارنة بمارس، ليرتفع تضخم مؤشر أسعار المنتجين السنوي إلى 6.0% بعد بدء حرب إيران.",
+      "body": "قالت وزارة العمل الأميركية في 13 إن مؤشر أسعار المنتجين (PPI)، وهو أسعار الجملة في المرحلة الأخيرة قبل وصول السلع إلى المستهلك، ارتفع في أبريل 1.4% عن الشهر السابق. وهذا أكبر ارتفاع شهري منذ زيادة 1.7% في مارس 2022، عندما انتعش الاقتصاد بعد ركود كوفيد-19. وفي مارس، حين بدأت حرب إيران، ارتفع المؤشر 0.7%، بينما زاد في فبراير قبل الحرب 0.6%. واتسع تضخم PPI السنوي، مقارنة بأبريل 2025، إلى 6.0%، وهو أعلى مستوى منذ 6.4% في ديسمبر 2022. وبلغ المعدل السنوي 4.3% في مارس و3.4% في فبراير. كما ارتفعت أسعار المستهلكين في أبريل، التي صدرت في اليوم السابق، 0.6% على أساس شهري. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "अमेरिका में अप्रैल उत्पादक कीमतें 1.4% उछलीं, वार्षिक PPI महंगाई 6.0% पर",
+      "excerpt": "अमेरिकी श्रम विभाग ने 13 तारीख को कहा कि अप्रैल में उत्पादक कीमतें मार्च से 1.4% बढ़ीं और वार्षिक PPI महंगाई 6.0% हो गई। ईरान युद्ध के बाद वृद्धि तेज हुई।",
+      "body": "अमेरिकी श्रम विभाग ने 13 तारीख को बताया कि अप्रैल में उत्पादक मूल्य सूचकांक (PPI), यानी उपभोक्ता तक पहुंचने से ठीक पहले की अंतिम थोक कीमतें, पिछले महीने से 1.4% बढ़ीं। यह मार्च 2022 की 1.7% वृद्धि के बाद सबसे बड़ी मासिक बढ़ोतरी है, जब कोविड-19 मंदी के बाद अर्थव्यवस्था तेज लौटी थी। ईरान युद्ध शुरू हुए मार्च में PPI 0.7% बढ़ा था, जबकि युद्ध से पहले फरवरी में यह 0.6% बढ़ा। अप्रैल 2025 की तुलना में वार्षिक PPI महंगाई 6.0% तक फैल गई, जो दिसंबर 2022 के 6.4% के बाद सबसे ऊंचा स्तर है। मार्च में वार्षिक दर 4.3% और फरवरी में 3.4% थी। एक दिन पहले जारी अप्रैल उपभोक्ता कीमतें भी मासिक आधार पर 0.6% बढ़ीं। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Harga Produsen AS April Melonjak 1,4%, Inflasi PPI Tahunan Naik ke 6,0%",
+      "excerpt": "Departemen Tenaga Kerja AS pada tanggal 13 menyatakan harga produsen April naik 1,4% dari Maret, sehingga inflasi PPI tahunan melebar menjadi 6,0% setelah perang Iran dimulai.",
+      "body": "Departemen Tenaga Kerja AS pada tanggal 13 menyatakan indeks harga produsen (PPI), yaitu harga grosir pada tahap akhir sebelum sampai ke konsumen, naik 1,4% pada April dibanding bulan sebelumnya. Ini merupakan kenaikan bulanan terbesar sejak lonjakan 1,7% pada Maret 2022, saat ekonomi pulih setelah pelemahan akibat COVID-19. Pada Maret, ketika perang Iran dimulai, PPI naik 0,7%, sedangkan pada Februari sebelum perang naik 0,6%. Inflasi PPI tahunan, dibanding April 2025, melebar menjadi 6,0%, tertinggi sejak 6,4% pada Desember 2022. Angka tahunan Maret sebesar 4,3% dan Februari 3,4%. Harga konsumen April yang dirilis sehari sebelumnya juga naik 0,6% secara bulanan. Sumber: rss.donga.com"
+    }
+  }
+}
