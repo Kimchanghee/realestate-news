@@ -1,5 +1,230 @@
 [
   {
+    "id": "c016e4f7a157",
+    "slug": "양도세-중과-부활에저가-매물-줄고-호가-뛰었다-361440",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:03:52.244Z",
+    "updatedAt": "2026-05-14T13:03:52.244Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051470961",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051470961",
+    "titleFingerprint": "a5c404ca164229103c2007dbe537ea1185726ef2",
+    "dedupKeys": [
+      "c016e4f7a157d70aeaaf0d2b9a180ca5f3cc0128",
+      "a5c404ca164229103c2007dbe537ea1185726ef2",
+      "1037f93bd16a9058d8a74b0b9e9aa6e50b0f5dc2"
+    ],
+    "imageUrl": "/images/articles/c016e4f7a157.jpg",
+    "i18n": {
+      "ko": {
+        "title": "양도세 중과 부활 우려에 저가 매물 감소, 아파트 호가 상승세",
+        "excerpt": "양도세 중과 부활 가능성이 거론되면서 부동산 시장에서 저가 매물이 줄고 집주인 호가가 오르는 흐름이 나타났다고 hankyung.com이 보도했다.",
+        "body": "양도세 중과 부활 가능성이 부동산 시장의 매물 흐름을 바꾸고 있다. hankyung.com에 따르면 관련 우려가 커지면서 시장에서는 저가 매물이 줄고, 일부 집주인들이 매도 호가를 높이는 움직임이 나타났다. 양도세 중과는 다주택자 등 보유자의 매도 판단에 영향을 줄 수 있는 세제 변수로, 매물 출회 시점과 가격 책정에 민감하게 작용한다. 이번 변화는 세금 부담을 의식한 매도자들이 낮은 가격의 매물을 거두거나 가격 조정에 나선 결과로 해석된다. 향후 실제 제도 변화 여부와 시장 참여자들의 대응에 따라 매물 부족과 호가 상승 흐름이 이어질지가 관건이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Capital Gains Tax Surcharge Concerns Cut Low-Priced Listings, Lift Asking Prices",
+        "excerpt": "As the possible return of a capital gains tax surcharge is discussed, low-priced property listings have declined and sellers’ asking prices have risen, hankyung.com reported.",
+        "body": "The possible return of a capital gains tax surcharge is changing property listing behavior. According to hankyung.com, growing concern over the measure has led to fewer low-priced listings in the market, while some homeowners have raised their asking prices. The surcharge is a tax factor that can affect selling decisions by owners such as multi-home holders, making both listing timing and price-setting sensitive. The latest shift is being read as sellers, conscious of potential tax burdens, withdrawing cheaper listings or adjusting prices upward. Whether the shortage of lower-priced supply and firmer asking prices continue will depend on actual policy changes and how market participants respond. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "譲渡税重課復活への警戒で低価格物件減少、売り希望価格は上昇",
+        "excerpt": "譲渡税重課の復活可能性が取り沙汰される中、不動産市場では低価格の売り物件が減り、売主の希望価格が上がる動きが出ているとhankyung.comが報じた。",
+        "body": "譲渡税重課の復活可能性が、不動産市場の売り物件の流れを変えている。hankyung.comによると、関連する警戒感が強まる中、市場では低価格の物件が減り、一部の所有者が売り希望価格を引き上げる動きが見られた。譲渡税重課は、多住宅保有者など所有者の売却判断に影響し得る税制上の要因であり、売り出し時期や価格設定に敏感に作用する。今回の変化は、税負担を意識した売主が安い物件を取り下げたり、価格を調整した結果と受け止められる。今後、実際の制度変更の有無と市場参加者の対応によって、物件不足と希望価格上昇の流れが続くかが焦点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "转让税重课或将恢复，低价房源减少、业主挂牌价上调",
+        "excerpt": "hankyung.com报道称，随着转让税重课恢复的可能性被讨论，房地产市场低价房源减少，部分业主上调挂牌价。",
+        "body": "转让税重课可能恢复，正在改变房地产市场的房源流动。hankyung.com报道称，相关担忧升温后，市场上低价房源减少，部分业主开始提高出售挂牌价。转让税重课是可能影响多套房持有者等业主出售判断的税制变量，对房源推出时点和定价都较为敏感。此次变化被解读为卖方意识到潜在税负后，撤回低价房源或进行价格调整的结果。未来实际制度是否变化，以及市场参与者如何应对，将决定房源偏紧和挂牌价上升的趋势是否延续。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El recargo al impuesto de ganancias reduce ofertas baratas y sube precios pedidos",
+        "excerpt": "Ante la posible vuelta del recargo al impuesto sobre ganancias de capital, bajan las propiedades de menor precio y suben los precios pedidos, informó hankyung.com.",
+        "body": "La posible reactivación del recargo al impuesto sobre ganancias de capital está cambiando el flujo de anuncios inmobiliarios. Según hankyung.com, a medida que crece la preocupación por esta medida, disminuyen las ofertas de bajo precio y algunos propietarios elevan sus precios pedidos. Este recargo fiscal puede influir en la decisión de venta de propietarios, incluidos quienes poseen varias viviendas, y afecta de forma sensible el momento de salida al mercado y la fijación de precios. El cambio se interpreta como resultado de vendedores que, atentos a una posible mayor carga tributaria, retiran anuncios baratos o ajustan precios al alza. La continuidad de la escasez de ofertas económicas y de precios pedidos más altos dependerá de los cambios reales en la norma y de la reacción del mercado. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Temor de sobretaxa sobre ganho de capital reduz imóveis baratos e eleva ofertas",
+        "excerpt": "Com a possível volta da sobretaxa sobre ganhos de capital, anúncios de menor preço diminuem e proprietários elevam valores pedidos, informou hankyung.com.",
+        "body": "A possível retomada da sobretaxa sobre ganhos de capital está alterando o fluxo de ofertas no mercado imobiliário. Segundo o hankyung.com, com o aumento das preocupações sobre a medida, os imóveis de menor preço diminuíram e alguns proprietários passaram a elevar os valores pedidos. A sobretaxa é um fator tributário capaz de influenciar a decisão de venda de proprietários, como os que possuem múltiplos imóveis, afetando tanto o momento de colocar o bem à venda quanto a definição de preço. A mudança é interpretada como resultado de vendedores atentos à carga fiscal, que retiram ofertas baratas ou ajustam preços para cima. A continuidade da falta de anúncios de baixo preço e da alta nos valores pedidos dependerá de mudanças efetivas na regra e da resposta do mercado. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Sorge um höhere Veräußerungssteuer senkt günstige Angebote, Preise ziehen an",
+        "excerpt": "Wegen der möglichen Rückkehr einer höheren Veräußerungssteuer sinkt die Zahl günstiger Immobilienangebote, während Verkäufer ihre Preisforderungen erhöhen, berichtet hankyung.com.",
+        "body": "Die mögliche Rückkehr einer höheren Veräußerungssteuer verändert das Angebotsverhalten am Immobilienmarkt. Nach Angaben von hankyung.com nehmen angesichts wachsender Sorgen über die Maßnahme günstige Angebote ab, während einige Eigentümer ihre Preisforderungen erhöhen. Die Steuerbelastung kann Verkaufsentscheidungen von Eigentümern, etwa Mehrfachimmobilienbesitzern, beeinflussen und wirkt sich sensibel auf den Zeitpunkt des Verkaufs sowie die Preisfestlegung aus. Die aktuelle Veränderung wird als Folge davon gesehen, dass Verkäufer mit Blick auf mögliche Steuerlasten niedrigpreisige Angebote zurückziehen oder Preise nach oben anpassen. Ob Angebotsknappheit und steigende Forderungspreise anhalten, hängt von tatsächlichen Regeländerungen und der Reaktion der Marktteilnehmer ab. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le retour possible de la surtaxe sur les plus-values réduit les biens bon marché",
+        "excerpt": "Avec la possible réactivation de la surtaxe sur les plus-values, les annonces à bas prix diminuent et les prix demandés par les vendeurs montent, selon hankyung.com.",
+        "body": "La possible réactivation de la surtaxe sur les plus-values modifie le flux des annonces immobilières. Selon hankyung.com, les inquiétudes liées à cette mesure ont entraîné une baisse des biens proposés à bas prix, tandis que certains propriétaires relèvent leurs prix demandés. Cette surtaxe est un facteur fiscal susceptible d’influencer la décision de vente des propriétaires, notamment ceux qui détiennent plusieurs logements, et pèse sur le calendrier de mise en vente comme sur la fixation des prix. Le mouvement actuel est interprété comme le résultat de vendeurs qui, attentifs à une charge fiscale potentielle, retirent les offres les moins chères ou ajustent les prix à la hausse. La suite dépendra d’un éventuel changement réel des règles et de la réaction des acteurs du marché. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "مخاوف عودة ضريبة أرباح البيع الإضافية تقلص العروض الرخيصة وترفع الأسعار",
+        "excerpt": "مع طرح احتمال عودة الضريبة الإضافية على أرباح بيع العقارات، تراجعت العروض منخفضة السعر ورفع بعض الملاك أسعارهم المطلوبة، وفق hankyung.com.",
+        "body": "احتمال عودة الضريبة الإضافية على أرباح بيع العقارات يغير حركة المعروض في السوق. ووفق hankyung.com، أدت المخاوف المتزايدة من هذا الإجراء إلى انخفاض العروض منخفضة السعر، بينما بدأ بعض الملاك رفع الأسعار المطلوبة للبيع. وتعد هذه الضريبة عاملا ماليا قد يؤثر في قرار البيع لدى الملاك، بمن فيهم مالكو عدة مساكن، ولذلك تنعكس بحساسية على توقيت طرح العقار وتسعيره. ويُفهم التغير الحالي على أنه نتيجة لإدراك البائعين لعبء ضريبي محتمل، ما دفعهم إلى سحب العروض الأرخص أو تعديل الأسعار صعودا. وسيعتمد استمرار نقص العروض الرخيصة وارتفاع الأسعار المطلوبة على ما إذا كانت القواعد ستتغير فعليا وعلى استجابة المشاركين في السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कैपिटल गेन टैक्स सरचार्ज की आशंका से सस्ती लिस्टिंग घटी, मांग भाव बढ़े",
+        "excerpt": "कैपिटल गेन टैक्स सरचार्ज की वापसी की संभावना के बीच रियल एस्टेट बाजार में सस्ती लिस्टिंग कम हुई और विक्रेताओं के मांग भाव बढ़े, hankyung.com ने बताया।",
+        "body": "कैपिटल गेन टैक्स सरचार्ज की संभावित वापसी रियल एस्टेट बाजार में लिस्टिंग के रुख को बदल रही है। hankyung.com के अनुसार, इस कदम को लेकर चिंता बढ़ने के बाद बाजार में कम कीमत वाली लिस्टिंग घट गई हैं और कुछ मकान मालिकों ने अपने मांग भाव बढ़ाए हैं। यह सरचार्ज ऐसा कर कारक है जो कई मकान रखने वालों सहित मालिकों के बिक्री निर्णय को प्रभावित कर सकता है, इसलिए बिक्री का समय और कीमत तय करना संवेदनशील हो जाता है। ताजा बदलाव को संभावित कर बोझ को ध्यान में रखते हुए विक्रेताओं द्वारा सस्ती लिस्टिंग हटाने या कीमत ऊपर समायोजित करने के रूप में देखा जा रहा है। आगे कम कीमत वाले विकल्पों की कमी और मांग भाव में मजबूती जारी रहेगी या नहीं, यह वास्तविक नीतिगत बदलाव और बाजार की प्रतिक्रिया पर निर्भर करेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kekhawatiran Pajak Capital Gain Berlapis Kurangi Listing Murah, Harga Naik",
+        "excerpt": "Saat kemungkinan kembalinya pajak capital gain berlapis dibahas, listing properti murah berkurang dan harga penawaran pemilik naik, lapor hankyung.com.",
+        "body": "Kemungkinan kembalinya pajak capital gain berlapis mulai mengubah arus listing di pasar properti. Menurut hankyung.com, meningkatnya kekhawatiran atas kebijakan tersebut membuat listing berharga rendah berkurang, sementara sebagian pemilik menaikkan harga penawaran. Pajak ini merupakan faktor fiskal yang dapat memengaruhi keputusan menjual, termasuk bagi pemilik beberapa rumah, sehingga waktu melepas properti dan penetapan harga menjadi sensitif. Perubahan terbaru dipahami sebagai akibat dari penjual yang memperhitungkan potensi beban pajak, lalu menarik listing murah atau menyesuaikan harga ke atas. Ke depan, berlanjutnya kekurangan listing murah dan kenaikan harga penawaran akan bergantung pada perubahan aturan yang benar-benar terjadi serta respons pelaku pasar. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "4b90c187fdbc",
+    "slug": "서울-아파트값-큰-폭-올랐다성북구-역대-최고-상승률-퇴근길-30초-경제-179438",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:02:29.720Z",
+    "updatedAt": "2026-05-14T13:02:29.720Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051466967",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051466967",
+    "titleFingerprint": "f7295359c09d43372d968921bb8eae57f46db316",
+    "dedupKeys": [
+      "4b90c187fdbc7e38c5037a6d2a6a5ad6c6128524",
+      "f7295359c09d43372d968921bb8eae57f46db316",
+      "909f542c6fff30d385b0d6952d81ad10b9387774"
+    ],
+    "imageUrl": "/images/articles/4b90c187fdbc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트값 큰 폭 상승, 성북구 역대 최고 상승률 기록",
+        "excerpt": "한국경제가 전한 ‘퇴근길 30초 경제’에 따르면 서울 아파트값이 큰 폭으로 올랐고, 성북구는 역대 최고 상승률을 기록했다.",
+        "body": "서울 아파트값이 큰 폭으로 올랐다는 소식이 전해졌다. 한국경제의 ‘퇴근길 30초 경제’ 보도에 따르면 서울 아파트 매매가격 상승 흐름 속에서 성북구가 역대 최고 상승률을 기록했다. 이번 내용은 서울 아파트값 상승세와 자치구별 온도 차를 보여주는 사례로, 특히 성북구의 상승 폭이 두드러졌다는 점에 초점이 맞춰졌다. 다만 제공된 원문 정보에는 구체적인 상승률, 조사 기준일, 비교 기간은 제시되지 않았다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Seoul Apartment Prices Jump Sharply as Seongbuk-gu Hits Record Growth",
+        "excerpt": "According to Hankyung’s “30-second economy after work,” Seoul apartment prices rose sharply, with Seongbuk-gu recording its highest growth rate ever.",
+        "body": "Seoul apartment prices have risen sharply, according to a report from Hankyung’s “30-second economy after work.” The report said that amid the upward movement in Seoul apartment sale prices, Seongbuk-gu recorded its highest growth rate ever. The news highlights the strength of Seoul’s apartment market and the different pace of price changes by district, with particular attention on the notable rise in Seongbuk-gu. The provided source information did not include a specific growth rate, survey date, or comparison period. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソウルのマンション価格が大幅上昇、城北区は過去最高の上昇率",
+        "excerpt": "韓国経済の「退勤길30秒経済」によると、ソウルのマンション価格が大きく上昇し、城北区は過去最高の上昇率を記録した。",
+        "body": "ソウルのマンション価格が大幅に上昇したとのニュースが伝えられた。韓国経済の「退勤길30秒経済」の報道によると、ソウルのマンション売買価格が上昇する中で、城北区は過去最高の上昇率を記録した。今回の内容は、ソウルのマンション価格上昇の流れと区ごとの温度差を示す事例であり、特に城北区の上昇幅が目立った点に焦点が当てられている。ただし、提供された原文情報には具体的な上昇率、調査基準日、比較期間は示されていない。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "首尔公寓价格大幅上涨，城北区创下历来最高涨幅",
+        "excerpt": "据韩国经济“下班路30秒经济”报道，首尔公寓价格大幅上涨，城北区录得历来最高上涨率。",
+        "body": "首尔公寓价格大幅上涨的消息受到关注。据韩国经济“下班路30秒经济”报道，在首尔公寓买卖价格上行的背景下，城北区创下历来最高上涨率。该消息显示了首尔公寓价格上涨趋势以及各自治区之间的差异，其中城北区的涨幅尤为突出。不过，所提供的原文信息未列出具体上涨率、调查基准日或比较期间。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Precios de apartamentos en Seúl suben con fuerza y Seongbuk-gu marca récord",
+        "excerpt": "Según “30 segundos de economía al salir del trabajo” de Hankyung, los apartamentos de Seúl subieron con fuerza y Seongbuk-gu registró su mayor alza histórica.",
+        "body": "Los precios de los apartamentos en Seúl subieron con fuerza, según informó Hankyung en “30 segundos de economía al salir del trabajo”. El reporte señaló que, dentro de la tendencia alcista de los precios de compraventa de apartamentos en Seúl, Seongbuk-gu registró su mayor tasa de aumento histórica. La noticia muestra el avance del mercado de apartamentos de Seúl y las diferencias entre distritos, con especial atención al incremento destacado de Seongbuk-gu. La información original proporcionada no incluyó una tasa concreta, fecha de referencia ni periodo de comparación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Apartamentos em Seul sobem forte e Seongbuk-gu registra alta recorde",
+        "excerpt": "Segundo o “30 segundos de economia no fim do expediente” da Hankyung, os apartamentos em Seul subiram fortemente e Seongbuk-gu teve alta recorde.",
+        "body": "Os preços dos apartamentos em Seul subiram fortemente, segundo reportagem da Hankyung em “30 segundos de economia no fim do expediente”. O texto informou que, em meio ao avanço dos preços de venda de apartamentos em Seul, Seongbuk-gu registrou sua maior taxa de alta histórica. A notícia destaca a tendência de valorização do mercado de apartamentos de Seul e as diferenças entre distritos, com foco no avanço expressivo de Seongbuk-gu. As informações originais fornecidas não trouxeram taxa específica, data-base da pesquisa nem período de comparação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Wohnungspreise in Seoul steigen stark, Seongbuk-gu erreicht Rekordplus",
+        "excerpt": "Laut Hankyungs „30-Sekunden-Wirtschaft zum Feierabend“ sind die Wohnungspreise in Seoul stark gestiegen, Seongbuk-gu erreichte ein Rekordwachstum.",
+        "body": "Die Preise für Apartments in Seoul sind deutlich gestiegen, wie Hankyung in „30-Sekunden-Wirtschaft zum Feierabend“ berichtete. Dem Bericht zufolge verzeichnete Seongbuk-gu im Zuge steigender Verkaufspreise für Apartments in Seoul die höchste Wachstumsrate seiner Geschichte. Die Meldung zeigt den Aufwärtstrend am Seouler Apartmentmarkt und Unterschiede zwischen den Bezirken, wobei der starke Anstieg in Seongbuk-gu besonders hervorgehoben wird. Die bereitgestellten Originalinformationen enthielten keine konkrete Wachstumsrate, kein Erhebungsdatum und keinen Vergleichszeitraum. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les prix des appartements à Séoul bondissent, record à Seongbuk-gu",
+        "excerpt": "Selon “30 secondes d’économie après le travail” de Hankyung, les prix des appartements à Séoul ont fortement augmenté et Seongbuk-gu a atteint un record.",
+        "body": "Les prix des appartements à Séoul ont fortement augmenté, selon un reportage de Hankyung dans “30 secondes d’économie après le travail”. Le média indique que, dans un contexte de hausse des prix de vente des appartements à Séoul, Seongbuk-gu a enregistré son taux de progression le plus élevé jamais observé. Cette information illustre la tendance haussière du marché des appartements à Séoul et les écarts entre arrondissements, avec un accent particulier sur la progression marquée de Seongbuk-gu. Les informations originales fournies ne précisent pas le taux exact, la date de référence ni la période de comparaison. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسعار شقق سول ترتفع بقوة وسيونغبوك تسجل أعلى معدل زيادة",
+        "excerpt": "بحسب فقرة «اقتصاد 30 ثانية بعد العمل» من هانكيونغ، ارتفعت أسعار شقق سول بقوة، وسجلت منطقة سيونغبوك أعلى معدل ارتفاع في تاريخها.",
+        "body": "ارتفعت أسعار الشقق في سول بشكل كبير، وفق ما أوردته هانكيونغ في فقرة «اقتصاد 30 ثانية بعد العمل». وذكر التقرير أنه وسط صعود أسعار بيع الشقق في سول، سجلت منطقة سيونغبوك أعلى معدل ارتفاع في تاريخها. وتسلط هذه الأخبار الضوء على اتجاه ارتفاع سوق الشقق في سول وعلى اختلاف وتيرة الأسعار بين المناطق، مع تركيز خاص على الزيادة اللافتة في سيونغبوك. ولم تتضمن المعلومات الأصلية المقدمة نسبة الارتفاع المحددة أو تاريخ المسح أو فترة المقارنة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट कीमतों में तेज उछाल, सोंगबुक-गु ने रिकॉर्ड वृद्धि दर्ज की",
+        "excerpt": "Hankyung के “काम के बाद 30 सेकंड अर्थव्यवस्था” के अनुसार, सियोल अपार्टमेंट कीमतें तेजी से बढ़ीं और सोंगबुक-गु ने अब तक की सबसे ऊंची वृद्धि दर दर्ज की।",
+        "body": "सियोल में अपार्टमेंट कीमतों में तेज वृद्धि की खबर सामने आई है। Hankyung के “काम के बाद 30 सेकंड अर्थव्यवस्था” रिपोर्ट के अनुसार, सियोल अपार्टमेंट बिक्री कीमतों में बढ़त के बीच सोंगबुक-गु ने अपने इतिहास की सबसे ऊंची वृद्धि दर दर्ज की। यह खबर सियोल अपार्टमेंट बाजार की बढ़ती प्रवृत्ति और जिलों के बीच अंतर को दिखाती है, खासकर सोंगबुक-गु की उल्लेखनीय बढ़त पर ध्यान देती है। उपलब्ध मूल जानकारी में विशिष्ट वृद्धि दर, सर्वेक्षण की आधार तिथि या तुलना अवधि नहीं दी गई। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Harga Apartemen Seoul Naik Tajam, Seongbuk-gu Catat Rekor Kenaikan",
+        "excerpt": "Menurut “Ekonomi 30 detik sepulang kerja” dari Hankyung, harga apartemen Seoul naik tajam dan Seongbuk-gu mencatat tingkat kenaikan tertinggi sepanjang sejarah.",
+        "body": "Harga apartemen di Seoul dilaporkan naik tajam. Menurut laporan Hankyung dalam “Ekonomi 30 detik sepulang kerja”, di tengah kenaikan harga jual apartemen Seoul, Seongbuk-gu mencatat tingkat kenaikan tertinggi sepanjang sejarah. Berita ini menunjukkan tren penguatan harga apartemen Seoul sekaligus perbedaan pergerakan antarwilayah, dengan sorotan pada kenaikan mencolok di Seongbuk-gu. Informasi sumber yang diberikan tidak mencantumkan angka kenaikan spesifik, tanggal acuan survei, atau periode pembanding. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "828728d3fede",
+    "slug": "김윤덕-국토장관-기업-투자엔-국민주권정부도-전폭-지원-810010",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:01:21.534Z",
+    "updatedAt": "2026-05-14T13:01:21.534Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605147290i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605147290i",
+    "titleFingerprint": "18a52f963f0ab6f714056da5fdf8f5011118e369",
+    "dedupKeys": [
+      "828728d3fede7273c8c4b291686109c469af2d83",
+      "18a52f963f0ab6f714056da5fdf8f5011118e369",
+      "f831eab6f82d93f5a8882758e62a5a8be0edeb17"
+    ],
+    "imageUrl": "/images/articles/828728d3fede.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김윤덕 국토장관, 기업 투자 전폭 지원 방침 강조",
+        "excerpt": "김윤덕 국토교통부 장관은 한국경제 보도에서 국민주권정부도 기업 투자에 전폭적인 지원을 하겠다는 입장을 밝혔다.",
+        "body": "김윤덕 국토교통부 장관이 기업 투자에 대해 국민주권정부도 전폭적으로 지원하겠다는 입장을 밝혔다. 한국경제 보도에 따르면 김 장관은 기업의 투자 활동을 정부가 적극 뒷받침하겠다는 메시지를 내놨다. 제공된 원문에는 구체적인 투자 분야, 지원 방식, 투자 규모 등 세부 수치는 제시되지 않았다. 이번 발언은 기업 투자와 정부 지원 기조를 확인한 것으로, 향후 국토교통 분야와 관련한 투자 환경 논의에서 주목될 수 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Land Minister Kim Yoon-duk Pledges Full Support for Corporate Investment",
+        "excerpt": "Land Minister Kim Yoon-duk said in a Korea Economic Daily report that the people-sovereignty government will fully support corporate investment.",
+        "body": "Minister of Land, Infrastructure and Transport Kim Yoon-duk said the people-sovereignty government will give full support to corporate investment. According to a Korea Economic Daily report, Kim delivered a message that the government will actively back companies’ investment activities. The provided source text did not include specific investment sectors, support measures, or investment amounts. The remark confirms the government’s stance on supporting corporate investment and may draw attention in future discussions on investment conditions related to land and transport policy. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "金潤徳国土交通相、企業投資への全面支援方針を強調",
+        "excerpt": "金潤徳国土交通部長官は韓国経済新聞の報道で、国民主権政府も企業投資を全面的に支援するとの立場を示した。",
+        "body": "金潤徳国土交通部長官は、企業投資について国民主権政府も全面的に支援するとの立場を明らかにした。韓国経済新聞の報道によると、金長官は企業の投資活動を政府が積極的に後押しするというメッセージを示した。提供された原文には、具体的な投資分野、支援方式、投資規模などの詳細な数値は示されていない。今回の発言は、企業投資と政府支援の基調を確認したもので、今後の国土交通分野に関連する投資環境の議論で注目される可能性がある。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "韩国国土部长金润德强调将全力支持企业投资",
+        "excerpt": "据《韩国经济》报道，韩国国土交通部长金润德表示，国民主权政府也将全力支持企业投资。",
+        "body": "韩国国土交通部长金润德表示，国民主权政府也将对企业投资给予全力支持。据《韩国经济》报道，金润德释放出政府将积极支持企业投资活动的信息。所提供的原文未列明具体投资领域、支持方式或投资规模等详细数据。此次表态确认了政府支持企业投资的政策基调，今后在与国土交通领域相关的投资环境讨论中可能受到关注。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Kim Yoon-duk promete pleno apoyo estatal a la inversión empresarial",
+        "excerpt": "El ministro surcoreano de Tierras, Kim Yoon-duk, dijo en un reporte de Korea Economic Daily que el gobierno apoyará plenamente la inversión empresarial.",
+        "body": "Kim Yoon-duk, ministro de Tierra, Infraestructura y Transporte de Corea del Sur, afirmó que el gobierno de soberanía popular dará pleno apoyo a la inversión empresarial. Según un reporte de Korea Economic Daily, Kim transmitió el mensaje de que el gobierno respaldará activamente las actividades de inversión de las empresas. El texto fuente proporcionado no incluye sectores de inversión concretos, métodos de apoyo ni montos de inversión. La declaración confirma la línea gubernamental de apoyo a la inversión empresarial y podría atraer atención en futuros debates sobre el entorno de inversión vinculado al sector de tierra y transporte. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Kim Yoon-duk promete apoio total do governo ao investimento empresarial",
+        "excerpt": "O ministro sul-coreano Kim Yoon-duk afirmou, segundo o Korea Economic Daily, que o governo também apoiará plenamente o investimento empresarial.",
+        "body": "Kim Yoon-duk, ministro da Terra, Infraestrutura e Transporte da Coreia do Sul, afirmou que o governo de soberania popular dará apoio total ao investimento empresarial. Segundo reportagem do Korea Economic Daily, Kim transmitiu a mensagem de que o governo apoiará ativamente as atividades de investimento das empresas. O texto original fornecido não apresenta setores específicos, formas de apoio ou valores de investimento. A fala confirma a diretriz de apoio governamental ao investimento empresarial e pode ganhar atenção em futuras discussões sobre o ambiente de investimento ligado à área de terra e transporte. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Landminister Kim Yoon-duk betont volle Unterstützung für Firmeninvestitionen",
+        "excerpt": "Südkoreas Landminister Kim Yoon-duk sagte laut Korea Economic Daily, dass die Regierung Unternehmensinvestitionen umfassend unterstützen werde.",
+        "body": "Kim Yoon-duk, Südkoreas Minister für Land, Infrastruktur und Verkehr, erklärte, die Regierung der Volkssouveränität werde Unternehmensinvestitionen umfassend unterstützen. Nach einem Bericht der Korea Economic Daily vermittelte Kim die Botschaft, dass die Regierung Investitionsaktivitäten von Unternehmen aktiv flankieren werde. Der bereitgestellte Ausgangstext nennt keine konkreten Investitionsbereiche, Unterstützungsformen oder Investitionssummen. Die Aussage bestätigt den Kurs staatlicher Unterstützung für Unternehmensinvestitionen und könnte bei künftigen Diskussionen über das Investitionsumfeld im Bereich Land und Verkehr Beachtung finden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Kim Yoon-duk promet un soutien total aux investissements des entreprises",
+        "excerpt": "Le ministre sud-coréen Kim Yoon-duk a déclaré, selon Korea Economic Daily, que le gouvernement soutiendrait pleinement l’investissement des entreprises.",
+        "body": "Kim Yoon-duk, ministre sud-coréen du Territoire, des Infrastructures et des Transports, a déclaré que le gouvernement de souveraineté populaire soutiendrait pleinement l’investissement des entreprises. Selon Korea Economic Daily, Kim a indiqué que l’État appuierait activement les activités d’investissement des entreprises. Le texte source fourni ne précise pas les secteurs d’investissement, les modalités de soutien ni les montants concernés. Cette déclaration confirme l’orientation gouvernementale en faveur de l’investissement des entreprises et pourrait retenir l’attention lors de futurs débats sur l’environnement d’investissement lié au territoire et aux transports. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "وزير الأراضي الكوري كيم يون دوك يؤكد الدعم الكامل لاستثمارات الشركات",
+        "excerpt": "قال وزير الأراضي الكوري الجنوبي كيم يون دوك، وفق تقرير كوريا الاقتصادية، إن الحكومة ستقدم دعما كاملا لاستثمارات الشركات.",
+        "body": "أعلن كيم يون دوك، وزير الأراضي والبنية التحتية والنقل في كوريا الجنوبية، أن حكومة السيادة الشعبية ستقدم دعما كاملا لاستثمارات الشركات. ووفقا لتقرير كوريا الاقتصادية، أوصل كيم رسالة مفادها أن الحكومة ستدعم بنشاط أنشطة الاستثمار التي تقوم بها الشركات. ولا يتضمن النص الأصلي المقدم قطاعات استثمار محددة أو طرق الدعم أو حجم الاستثمارات. ويؤكد هذا التصريح توجه الحكومة نحو دعم استثمارات الشركات، وقد يلفت الانتباه في النقاشات المقبلة بشأن بيئة الاستثمار المرتبطة بقطاع الأراضي والنقل. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "किम यून-दक ने कॉरपोरेट निवेश को पूर्ण सरकारी समर्थन देने पर जोर दिया",
+        "excerpt": "दक्षिण कोरिया के भूमि मंत्री किम यून-दक ने Korea Economic Daily की रिपोर्ट में कहा कि सरकार कॉरपोरेट निवेश को पूरा समर्थन देगी।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्री किम यून-दक ने कहा कि जन-संप्रभुता सरकार कॉरपोरेट निवेश को पूर्ण समर्थन देगी। Korea Economic Daily की रिपोर्ट के अनुसार, किम ने संदेश दिया कि सरकार कंपनियों की निवेश गतिविधियों को सक्रिय रूप से समर्थन देगी। उपलब्ध मूल पाठ में विशिष्ट निवेश क्षेत्र, समर्थन के तरीके या निवेश राशि जैसे विस्तृत आंकड़े नहीं दिए गए हैं। यह बयान कॉरपोरेट निवेश के लिए सरकारी समर्थन की दिशा की पुष्टि करता है और भूमि तथा परिवहन क्षेत्र से जुड़े निवेश माहौल पर आगे की चर्चा में ध्यान खींच सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Kim Yoon-duk Tegaskan Dukungan Penuh untuk Investasi Korporasi",
+        "excerpt": "Menteri Pertanahan Korea Selatan Kim Yoon-duk mengatakan dalam laporan Korea Economic Daily bahwa pemerintah akan mendukung penuh investasi korporasi.",
+        "body": "Kim Yoon-duk, Menteri Pertanahan, Infrastruktur, dan Transportasi Korea Selatan, menyatakan bahwa pemerintah kedaulatan rakyat akan memberikan dukungan penuh bagi investasi korporasi. Menurut laporan Korea Economic Daily, Kim menyampaikan pesan bahwa pemerintah akan secara aktif mendukung kegiatan investasi perusahaan. Teks sumber yang diberikan tidak memuat bidang investasi tertentu, bentuk dukungan, atau nilai investasi. Pernyataan ini menegaskan arah dukungan pemerintah terhadap investasi korporasi dan dapat menjadi perhatian dalam pembahasan mendatang mengenai iklim investasi yang terkait dengan sektor pertanahan dan transportasi. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "1390287e1976",
     "slug": "원안보다-6개월-빨리dl이앤씨-압구정-5구역-공기-달성-자신-914468",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Konflik Penjualan Bisnis Lampu Hyundai Mobis Meluas Saat Serikat Anak Usaha Mogok",
         "excerpt": "Sekitar 700 anggota serikat Hyundai IHL berunjuk rasa pada 13 di depan kantor Hyundai Mobis di Seoul untuk menolak penjualan divisi lampu.",
         "body": "Konflik atas rencana penjualan bisnis lampu Hyundai Mobis meluas seiring mogok kerja serikat pekerja anak perusahaan. Sekitar 700 anggota serikat Hyundai IHL, anak usaha Hyundai Mobis, menggelar rapat aksi pada 13 pukul 14.00 di depan kantor Hyundai Mobis di Teheran-ro, Gangnam, Seoul, untuk menolak penjualan divisi lampu. Setelah Hyundai Mobis pada Januari memutuskan menjual divisi itu kepada perusahaan suku cadang otomotif global OPmobility, serikat Hyundai IHL menyatakan tidak dapat menerima keputusan tersebut dan memulai mogok penuh sejak 27 bulan lalu. Bersama Serikat Pekerja Logam di bawah Konfederasi Serikat Buruh Korea, mereka menuntut Hyundai Mobis sebagai perusahaan utama bertanggung jawab dan berunding. Anak usaha lain, Motras, juga akan ikut mogok mulai bulan depan. Pasar menilai kasus ini mencerminkan kekhawatiran yang muncul saat Undang-Undang Amplop Kuning diajukan pada Agustus lalu. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "0fbf5eba43bb",
-    "slug": "단독이익-좀-났다고-나눠-갖자고-하면-미래-없어-한때-반도체-강국-獨-순식간에-주도권-뺏겨-749946",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T20:40:22.586Z",
-    "updatedAt": "2026-05-13T20:40:22.586Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918528/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918528/2",
-    "titleFingerprint": "4b5bcfea07c6ecf933507bb38a20b59a2cd28ba6",
-    "dedupKeys": [
-      "0fbf5eba43bb35b246a09ce4ff0f0f4750d6b2bb",
-      "4b5bcfea07c6ecf933507bb38a20b59a2cd28ba6",
-      "a57fa7f1668143cc3c3c2b19e72b79f2d6cfbedf"
-    ],
-    "imageUrl": "/images/articles/0fbf5eba43bb.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 성과급 요구에 경총 회장 “이익 공유 확산 우려”",
-        "excerpt": "손경식 한국경영자총협회 회장은 12일 동아일보 인터뷰에서 삼성전자 노조의 영업이익 15% 성과급 요구가 이익 공유 선례로 확산될 수 있다고 우려했다.",
-        "body": "손경식 한국경영자총협회 회장은 12일 서울 마포구 대흥동 경총회관에서 동아일보와 인터뷰를 갖고 삼성전자 노조가 요구한 ‘영업이익의 15% 매년 성과급 지급’에 대해 우려를 밝혔다. 손 회장은 성과급은 개인의 기여도로 평가해야 하는데 회사 이익을 전체가 일률적으로 나누는 방식은 세계적으로도 전례가 없다고 말했다. 특히 이런 이익 공유가 선례가 돼 다른 기업으로 확산할 수 있다는 점을 문제로 봤다. 그는 반도체가 한국 수출의 37.1%를 차지하고 경제 안보와 직결된다며 파업 타격이 다른 산업보다 클 수 있다고 했다. 또 과거 독일이 반도체 강국이었지만 노사 문제와 느린 의사 결정 속에 경쟁에서 밀렸고, D램 강자였던 키몬다가 2009년 파산한 사례를 언급했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Union Bonus Demand Raises Concern Over Profit-Sharing Precedent",
-        "excerpt": "KEF Chairman Sohn Kyung-shik said in a Dong-A Ilbo interview on May 12 that Samsung Electronics union’s demand for 15% of operating profit as annual bonuses could spread as a profit-sharing precedent.",
-        "body": "Korea Enterprises Federation Chairman Sohn Kyung-shik said in an interview with Dong-A Ilbo on May 12 at the KEF hall in Daeheung-dong, Mapo-gu, Seoul, that he is concerned about Samsung Electronics union’s demand for an annual bonus equal to 15% of operating profit. Sohn said bonuses should be assessed by individual contribution, while uniformly distributing company profit to everyone is without global precedent. He warned that such profit sharing could become a precedent and spread to other companies. Sohn also said a semiconductor strike could have a greater impact than disputes in other industries because semiconductors account for 37.1% of Korea’s exports and are tied directly to economic security. He cited Germany, once a semiconductor power, as having lost competitiveness amid labor-management issues and slow decision-making, mentioning Qimonda, a former DRAM leader that went bankrupt in 2009. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労組の成果給要求、経総会長が利益共有拡散を懸念",
-        "excerpt": "韓国経営者総協会の孫京植会長は12日、東亜日報のインタビューで、サムスン電子労組の営業利益15%成果給要求が利益共有の前例として広がる恐れがあると述べた。",
-        "body": "韓国経営者総協会の孫京植会長は12日、ソウル市麻浦区大興洞の経総会館で東亜日報のインタビューに応じ、サムスン電子労組が求める「営業利益の15%を毎年成果給として支給」という要求に懸念を示した。孫会長は、成果給は個人の貢献度で評価すべきであり、会社の利益を全員で一律に分け合う方式は世界的にも前例がないと述べた。特に、こうした利益共有が前例となり他企業へ広がる可能性を問題視した。半導体は韓国輸出の37.1%を占め、経済安全保障にも直結するため、ストライキの打撃は他産業より大きくなり得るとも指摘した。さらに、かつて半導体強国だったドイツが労使問題と遅い意思決定の中で競争力を失い、DRAM大手だったキマンダが2009年に破産した例を挙げた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会奖金诉求引担忧：经营总协称利润共享或扩散",
-        "excerpt": "韩国经营者总协会会长孙京植12日在接受《东亚日报》采访时表示，三星电子工会要求每年拿出营业利润15%作为奖金，可能成为利润共享扩散的先例。",
-        "body": "韩国经营者总协会会长孙京植12日在首尔麻浦区大兴洞经总会馆接受《东亚日报》采访时，对三星电子工会提出的“每年将营业利润15%作为绩效奖金发放”表示担忧。孙京植说，绩效奖金应按个人贡献度评估，而把公司利润平均分给全体员工的方式在全球也没有先例。他尤其担心这种利润共享会成为先例，并扩散到其他企业。他还强调，半导体占韩国出口的37.1%，并直接关系经济安全，因此半导体罢工造成的冲击可能不同于其他产业。孙京植提到，德国曾是半导体强国，但因劳资问题和决策迟缓在竞争中落后，并举出曾为DRAM强者的奇梦达于2009年破产的案例。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Demanda de bono del sindicato de Samsung inquieta por posible reparto de beneficios",
-        "excerpt": "Sohn Kyung-shik, presidente de la Federación de Empleadores de Corea, dijo el 12 de mayo a Dong-A Ilbo que la exigencia sindical de Samsung de un bono anual del 15% del beneficio operativo podría crear un precedente de reparto de beneficios.",
-        "body": "Sohn Kyung-shik, presidente de la Federación de Empleadores de Corea, concedió una entrevista a Dong-A Ilbo el 12 de mayo en la sede de la entidad en Daeheung-dong, Mapo-gu, Seúl, y expresó preocupación por la demanda del sindicato de Samsung Electronics de recibir cada año un bono equivalente al 15% del beneficio operativo. Sohn afirmó que los bonos deben evaluarse según la contribución individual y que repartir de forma uniforme los beneficios de la empresa no tiene precedentes a nivel mundial. Advirtió en particular que ese reparto de beneficios podría convertirse en precedente y extenderse a otras compañías. También señaló que una huelga en semiconductores podría causar un impacto mayor que en otras industrias, ya que el sector representa el 37,1% de las exportaciones de Corea y está ligado a la seguridad económica. Citó el caso de Alemania, que fue potencia en semiconductores pero perdió terreno por problemas laborales y decisiones lentas, y mencionó la quiebra en 2009 de Qimonda, antigua líder en DRAM. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Pedido de bônus do sindicato da Samsung gera alerta sobre divisão de lucros",
-        "excerpt": "Sohn Kyung-shik, presidente da Federação dos Empregadores da Coreia, disse em 12 de maio ao Dong-A Ilbo que a exigência do sindicato da Samsung por 15% do lucro operacional em bônus anuais pode virar precedente de divisão de lucros.",
-        "body": "Sohn Kyung-shik, presidente da Federação dos Empregadores da Coreia, deu entrevista ao Dong-A Ilbo em 12 de maio, na sede da entidade em Daeheung-dong, Mapo-gu, Seul, e manifestou preocupação com a exigência do sindicato da Samsung Electronics de receber anualmente bônus equivalentes a 15% do lucro operacional. Sohn afirmou que bônus devem ser avaliados pela contribuição individual e que distribuir de forma uniforme o lucro da empresa a todos não tem precedente mundial. Ele destacou o risco de essa divisão de lucros virar precedente e se espalhar para outras empresas. Também disse que uma greve em semicondutores pode causar dano maior que em outros setores, pois semicondutores representam 37,1% das exportações da Coreia e estão diretamente ligados à segurança econômica. Sohn citou a Alemanha, que já foi forte em semicondutores, mas perdeu espaço por problemas trabalhistas e decisões lentas, mencionando a falência da Qimonda, antiga líder em DRAM, em 2009. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Gewerkschaft fordert Bonus: Arbeitgeberverband warnt vor Gewinnteilung",
-        "excerpt": "KEF-Präsident Sohn Kyung-shik sagte am 12. Mai im Dong-A-Ilbo-Interview, die Forderung der Samsung-Electronics-Gewerkschaft nach 15% des Betriebsgewinns als Jahresbonus könne einen Präzedenzfall für Gewinnteilung schaffen.",
-        "body": "Sohn Kyung-shik, Präsident der Korea Enterprises Federation, äußerte am 12. Mai in einem Interview mit Dong-A Ilbo im KEF-Gebäude in Daeheung-dong, Mapo-gu, Seoul, Sorge über die Forderung der Gewerkschaft von Samsung Electronics, jährlich 15% des Betriebsgewinns als Bonus auszuzahlen. Sohn sagte, Boni müssten nach dem individuellen Beitrag bewertet werden; eine gleichmäßige Verteilung von Unternehmensgewinnen an alle habe weltweit keinen Präzedenzfall. Besonders problematisch sei, dass eine solche Gewinnteilung zum Vorbild werden und sich auf andere Unternehmen ausbreiten könne. Er betonte zudem, ein Streik in der Halbleiterbranche könne stärkere Folgen haben als in anderen Industrien, weil Halbleiter 37,1% der koreanischen Exporte ausmachen und direkt mit wirtschaftlicher Sicherheit verbunden sind. Als Beispiel nannte er Deutschland, das einst eine Halbleitermacht war, aber durch Arbeitskonflikte und langsame Entscheidungen zurückfiel, sowie die Insolvenz des früheren DRAM-Anbieters Qimonda im Jahr 2009. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Bonus chez Samsung : le patronat coréen craint un précédent de partage des profits",
-        "excerpt": "Sohn Kyung-shik, président de la Fédération des employeurs coréens, a déclaré le 12 mai à Dong-A Ilbo que la demande du syndicat de Samsung portant sur 15% du bénéfice opérationnel en bonus annuels pourrait créer un précédent de partage des profits.",
-        "body": "Sohn Kyung-shik, président de la Fédération des employeurs coréens, a accordé le 12 mai une interview à Dong-A Ilbo au siège de l’organisation à Daeheung-dong, Mapo-gu, Séoul, et a exprimé son inquiétude face à la demande du syndicat de Samsung Electronics de recevoir chaque année un bonus équivalant à 15% du bénéfice opérationnel. Selon lui, les bonus doivent être évalués selon la contribution individuelle, tandis qu’une répartition uniforme des bénéfices de l’entreprise entre tous n’a pas de précédent mondial. Il juge particulièrement préoccupant que ce partage des profits devienne un précédent et s’étende à d’autres entreprises. Il a aussi souligné qu’une grève dans les semi-conducteurs pourrait avoir un impact plus fort que dans d’autres secteurs, car ils représentent 37,1% des exportations coréennes et sont directement liés à la sécurité économique. Il a cité l’Allemagne, autrefois puissance des semi-conducteurs, qui a perdu du terrain à cause de problèmes sociaux et de décisions lentes, ainsi que la faillite en 2009 de Qimonda, ancien acteur majeur de la DRAM. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "طلب مكافآت نقابة سامسونغ يثير قلقا من انتشار تقاسم الأرباح",
-        "excerpt": "قال سون كيونغ-شيك، رئيس اتحاد أصحاب العمل الكوري، في مقابلة مع دونغ آ إلبو يوم 12 مايو إن مطالبة نقابة سامسونغ إلكترونيكس بـ15% من الربح التشغيلي كمكافآت سنوية قد تصبح سابقة لتقاسم الأرباح.",
-        "body": "أعرب سون كيونغ-شيك، رئيس اتحاد أصحاب العمل الكوري، في مقابلة مع دونغ آ إلبو يوم 12 مايو في مقر الاتحاد بمنطقة دايهونغ دونغ في مابو غو بسيول، عن قلقه من مطالبة نقابة سامسونغ إلكترونيكس بصرف 15% من الربح التشغيلي سنويا كمكافآت أداء. وقال إن مكافآت الأداء يجب أن تقيم بحسب مساهمة كل فرد، وإن توزيع أرباح الشركة بالتساوي على الجميع لا سابقة له عالميا. واعتبر أن المشكلة الأبرز هي احتمال تحول هذا النوع من تقاسم الأرباح إلى سابقة تمتد إلى شركات أخرى. وشدد أيضا على أن إضرابا في قطاع أشباه الموصلات قد يسبب ضررا أكبر من قطاعات أخرى، لأن أشباه الموصلات تمثل 37.1% من صادرات كوريا وترتبط مباشرة بالأمن الاقتصادي. وأشار إلى أن ألمانيا كانت في الماضي قوة في أشباه الموصلات، لكنها تراجعت بسبب مشكلات العمل والإدارة وبطء اتخاذ القرار، وذكر إفلاس شركة كيموندا، التي كانت قوية في ذاكرة DRAM، عام 2009. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सैमसंग यूनियन की बोनस मांग पर मुनाफा बांटने की मिसाल फैलने की चिंता",
-        "excerpt": "कोरिया एंटरप्राइजेज फेडरेशन के अध्यक्ष सोन क्युंग-शिक ने 12 मई को डोंग-ए इल्बो से कहा कि सैमसंग इलेक्ट्रॉनिक्स यूनियन की परिचालन लाभ के 15% वार्षिक बोनस की मांग मुनाफा बांटने की मिसाल बन सकती है।",
-        "body": "कोरिया एंटरप्राइजेज फेडरेशन के अध्यक्ष सोन क्युंग-शिक ने 12 मई को सियोल के मापो-गु, दैह्यूंग-डोंग स्थित फेडरेशन भवन में डोंग-ए इल्बो को दिए इंटरव्यू में सैमसंग इलेक्ट्रॉनिक्स यूनियन की उस मांग पर चिंता जताई जिसमें हर साल परिचालन लाभ का 15% प्रदर्शन बोनस के रूप में देने को कहा गया है। सोन ने कहा कि प्रदर्शन बोनस का आकलन व्यक्तिगत योगदान के आधार पर होना चाहिए, जबकि कंपनी के लाभ को सभी में समान रूप से बांटने का तरीका दुनिया में भी अभूतपूर्व है। उन्होंने खास तौर पर चिंता जताई कि ऐसा मुनाफा साझा करना एक मिसाल बनकर दूसरी कंपनियों तक फैल सकता है। सोन ने यह भी कहा कि सेमीकंडक्टर हड़ताल का असर अन्य उद्योगों से बड़ा हो सकता है, क्योंकि सेमीकंडक्टर कोरिया के निर्यात का 37.1% हैं और आर्थिक सुरक्षा से सीधे जुड़े हैं। उन्होंने जर्मनी का उदाहरण दिया, जो कभी सेमीकंडक्टर शक्ति था लेकिन श्रम-प्रबंधन समस्याओं और धीले फैसलों से प्रतिस्पर्धा में पिछड़ गया, और 2009 में दिवालिया हुई पूर्व DRAM कंपनी किमोंडा का उल्लेख किया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Tuntutan Bonus Serikat Samsung Picu Kekhawatiran Preseden Bagi Laba",
-        "excerpt": "Ketua Federasi Pengusaha Korea Sohn Kyung-shik mengatakan kepada Dong-A Ilbo pada 12 Mei bahwa tuntutan serikat Samsung Electronics atas bonus tahunan 15% dari laba operasi dapat menjadi preseden pembagian laba.",
-        "body": "Ketua Federasi Pengusaha Korea Sohn Kyung-shik dalam wawancara dengan Dong-A Ilbo pada 12 Mei di gedung federasi di Daeheung-dong, Mapo-gu, Seoul, menyampaikan kekhawatiran atas tuntutan serikat Samsung Electronics agar 15% dari laba operasi dibayarkan setiap tahun sebagai bonus kinerja. Sohn mengatakan bonus kinerja seharusnya dinilai berdasarkan kontribusi individu, sementara pembagian laba perusahaan secara merata kepada semua pihak tidak memiliki preseden global. Ia terutama menilai pembagian laba seperti ini dapat menjadi preseden dan menyebar ke perusahaan lain. Sohn juga menekankan bahwa pemogokan di sektor semikonduktor dapat menimbulkan dampak lebih besar dibanding industri lain, karena semikonduktor menyumbang 37,1% ekspor Korea dan terkait langsung dengan keamanan ekonomi. Ia menyebut Jerman pernah menjadi kekuatan semikonduktor, tetapi tersisih akibat masalah hubungan industrial dan pengambilan keputusan yang lambat, serta menyinggung kebangkrutan Qimonda, mantan pemain kuat DRAM, pada 2009. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "6fc7670f3c59",
-    "slug": "李-지방선거-격전지-울산-조선소-찾아-노사가-함께-과실-누리는-시스템-중요-932063",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T20:39:05.627Z",
-    "updatedAt": "2026-05-13T20:39:05.627Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260514/133919019/2",
-    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260514/133919019/2",
-    "titleFingerprint": "55a4b6ffbc8425d1a72f0094b201725d6113ce57",
-    "dedupKeys": [
-      "6fc7670f3c59db943fde9f3252cb8942b72cb47b",
-      "55a4b6ffbc8425d1a72f0094b201725d6113ce57",
-      "e07340bf4aa318fc81a1b764eb17022fb96166b4"
-    ],
-    "imageUrl": "/images/articles/6fc7670f3c59.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, 울산 조선업 간담회서 노사 이익 공유 시스템 강조",
-        "excerpt": "이재명 대통령은 13일 울산 K조선 미래비전 간담회에서 조선업 호황의 성과를 사용자와 노동자가 함께 나누는 시스템 구축이 중요하다고 밝혔다.",
-        "body": "이재명 대통령은 13일 울산에서 열린 K조선 미래비전 간담회에 참석해 조선업 호황의 성과가 산업 생태계 전반에 고르게 나뉘어야 한다고 밝혔다. 그는 “회사 내에서 사용자와 노동자가 함께 그 과실을 누릴 수 있는 시스템”의 중요성을 강조했다. 이 대통령은 조선산업이 경기 변동에 크게 노출돼 불황기에는 버티기 어렵고 호황기에는 인력이 부족해 고용 문제가 반복된다고 진단했다. 이날 정부 고위 관료들이 6·3 지방선거 격전지로 꼽히는 울산을 대거 방문하자 야권은 관권 선거라고 반발했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "President Lee Stresses Labor-Management Profit Sharing at Ulsan Shipyard Meeting",
-        "excerpt": "President Lee Jae-myung said on May 13 in Ulsan that South Korea’s booming shipbuilding sector needs a system for employers and workers to share gains.",
-        "body": "President Lee Jae-myung attended the K-Shipbuilding Future Vision meeting in Ulsan on May 13 and said the gains from the shipbuilding industry’s upswing should be distributed broadly across a strong industrial ecosystem. He stressed the importance of creating a system within companies in which employers and workers can share the benefits together. Lee said shipbuilding is highly exposed to economic cycles, making it difficult to endure downturns while labor shortages emerge during booms, keeping employment a recurring issue. Opposition parties criticized the large visit by senior government officials to Ulsan, a key June 3 local election battleground, as government-backed electioneering. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "李在明大統領、蔚山造船業懇談会で労使の利益共有制度を強調",
-        "excerpt": "李在明大統領は13日、蔚山で開かれたK造船未来ビジョン懇談会で、造船業好況の成果を労使が分かち合う制度の重要性を訴えた。",
-        "body": "李在明大統領は13日、蔚山で開かれたK造船未来ビジョン懇談会に出席し、造船業の好況による成果が強固な産業生態系の中で広く分配されるべきだと述べた。大統領は、企業内で使用者と労働者がともに果実を享受できるシステムを作ることが重要だと強調した。造船産業は景気変動の影響を大きく受け、不況期には耐えるのが難しく、好況期には人手不足が起きるため、雇用問題が常に課題になると指摘した。一方、政府高官らが6月3日地方選の激戦地とされる蔚山を大挙訪問したことに、野党は官権選挙だと反発した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "李在明在蔚山造船业座谈会强调劳资共享发展成果机制",
-        "excerpt": "李在明总统13日在蔚山K造船未来愿景座谈会上表示，造船业进入景气阶段后，有必要建立劳资共享收益的制度。",
-        "body": "李在明总统13日出席在蔚山举行的K造船未来愿景座谈会时表示，韩国造船业不仅要实现稳步发展，还应建立稳固生态体系，使增长成果得到均衡分享。他强调，在企业内部建立使用者和劳动者共同享有成果的系统十分重要。李在明指出，造船产业高度受景气波动影响，不景气时难以支撑，景气时又面临人力不足，因此就业问题始终是现场课题。当天，总统和多名政府高层大举访问被视为6月3日地方选举激战地的蔚山，引发在野党反弹，称这是明显的官权选举。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Lee Jae-myung subraya en Ulsan un sistema para compartir ganancias navales",
-        "excerpt": "El presidente Lee Jae-myung dijo el 13 de mayo en Ulsan que el auge de la construcción naval requiere un sistema para que empresas y trabajadores compartan beneficios.",
-        "body": "El presidente Lee Jae-myung asistió el 13 de mayo en Ulsan a la reunión sobre la visión futura del K-shipbuilding y afirmó que los frutos del crecimiento de la industria naval deben distribuirse de forma amplia dentro de un ecosistema sólido. Subrayó la importancia de crear dentro de las empresas un sistema en el que empleadores y trabajadores compartan esos beneficios. Lee señaló que la construcción naval está muy expuesta a los ciclos económicos: en las recesiones es difícil resistir y en los auges falta mano de obra, por lo que el empleo sigue siendo un tema constante. La oposición criticó la visita masiva de altos funcionarios a Ulsan, campo clave de las elecciones locales del 3 de junio, como uso del poder estatal con fines electorales. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Lee Jae-myung defende em Ulsan sistema de partilha de ganhos na construção naval",
-        "excerpt": "O presidente Lee Jae-myung afirmou em 13 de maio, em Ulsan, que o setor naval em expansão precisa de um sistema para empresas e trabalhadores dividirem os frutos.",
-        "body": "O presidente Lee Jae-myung participou em 13 de maio, em Ulsan, da reunião sobre a visão futura do K-shipbuilding e disse que os ganhos do crescimento da indústria naval devem ser distribuídos de forma ampla em um ecossistema sólido. Ele destacou a importância de criar dentro das empresas um sistema no qual empregadores e trabalhadores possam compartilhar esses frutos. Lee afirmou que a construção naval é muito exposta aos ciclos econômicos: nas crises é difícil resistir e nos períodos de prosperidade falta mão de obra, mantendo o emprego como questão recorrente. A oposição reagiu à visita de altos funcionários a Ulsan, considerada campo decisivo das eleições locais de 3 de junho, chamando-a de uso do poder estatal para fins eleitorais. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Lee Jae-myung fordert in Ulsan Gewinnbeteiligung für Werften und Beschäftigte",
-        "excerpt": "Präsident Lee Jae-myung sagte am 13. Mai in Ulsan, die boomende Schiffbauindustrie brauche ein System, mit dem Unternehmen und Arbeitnehmer Gewinne teilen.",
-        "body": "Präsident Lee Jae-myung nahm am 13. Mai in Ulsan an einem Treffen zur Zukunftsvision des K-Schiffbaus teil und sagte, die Erträge des Wachstums müssten in einem stabilen industriellen Ökosystem breit verteilt werden. Er betonte, es sei wichtig, in Unternehmen ein System zu schaffen, in dem Arbeitgeber und Arbeitnehmer die Früchte gemeinsam genießen können. Lee erklärte, der Schiffbau sei stark Konjunkturschwankungen ausgesetzt: In Abschwüngen sei das Durchhalten schwierig, in Boomphasen fehlten Arbeitskräfte, weshalb Beschäftigung ständig ein Thema bleibe. Die Opposition kritisierte den massiven Besuch hochrangiger Regierungsvertreter in Ulsan, einem umkämpften Ort der Kommunalwahl am 3. Juni, als staatliche Wahlhilfe. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Lee Jae-myung plaide à Ulsan pour un partage des gains dans la construction navale",
-        "excerpt": "Le président Lee Jae-myung a déclaré le 13 mai à Ulsan que l’essor de la construction navale exige un système de partage des bénéfices entre employeurs et salariés.",
-        "body": "Le président Lee Jae-myung a participé le 13 mai à Ulsan à une réunion sur la vision d’avenir du K-shipbuilding et a déclaré que les fruits de la croissance du secteur naval devaient être répartis largement dans un écosystème solide. Il a souligné l’importance de créer au sein des entreprises un système permettant aux employeurs et aux travailleurs de partager ces gains. Lee a expliqué que la construction navale est fortement exposée aux cycles économiques: les périodes de ralentissement sont difficiles à supporter et les périodes d’essor entraînent des pénuries de main-d’œuvre, ce qui maintient l’emploi au centre des enjeux. L’opposition a dénoncé la visite de nombreux hauts responsables gouvernementaux à Ulsan, champ disputé des élections locales du 3 juin, comme une intervention électorale de l’État. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "لي جاي ميونغ يؤكد في أولسان أهمية تقاسم أرباح صناعة السفن بين العمال والإدارة",
-        "excerpt": "قال الرئيس لي جاي ميونغ في 13 مايو خلال اجتماع بقطاع بناء السفن في أولسان إن ازدهار الصناعة يتطلب نظاما يتيح لأصحاب العمل والعمال تقاسم ثماره.",
-        "body": "حضر الرئيس لي جاي ميونغ في 13 مايو اجتماعا في أولسان حول الرؤية المستقبلية لصناعة السفن الكورية، وقال إن ثمار نمو القطاع يجب أن توزع على نطاق واسع داخل منظومة صناعية متينة. وشدد على أهمية إنشاء نظام داخل الشركات يتيح لأصحاب العمل والعمال الاستفادة معا من هذه الثمار. وأوضح أن صناعة بناء السفن شديدة التأثر بدورات الاقتصاد، ففي فترات الركود يصعب الصمود، وفي فترات الازدهار يظهر نقص في العمالة، لذلك تظل قضية التوظيف مطروحة دائما. وانتقدت المعارضة زيارة عدد كبير من كبار المسؤولين الحكوميين إلى أولسان، التي تعد ساحة تنافس في الانتخابات المحلية المقررة في 3 يونيو، ووصفتها بأنها تدخل انتخابي عبر سلطة الدولة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "उल्सान में ली जे-म्युंग ने जहाज निर्माण लाभ के श्रमिक-प्रबंधन साझाकरण पर जोर दिया",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 13 मई को उल्सान में कहा कि तेजी पर पहुंचे जहाज निर्माण उद्योग में नियोक्ताओं और श्रमिकों के बीच लाभ साझा करने की व्यवस्था जरूरी है।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 13 मई को उल्सान में K-शिपबिल्डिंग फ्यूचर विजन बैठक में कहा कि जहाज निर्माण उद्योग की वृद्धि के फल मजबूत औद्योगिक पारिस्थितिकी तंत्र में व्यापक रूप से बांटे जाने चाहिए। उन्होंने कंपनियों के भीतर ऐसी व्यवस्था बनाने के महत्व पर जोर दिया जिसमें नियोक्ता और श्रमिक मिलकर लाभ साझा कर सकें। ली ने कहा कि जहाज निर्माण उद्योग आर्थिक चक्रों से बहुत प्रभावित होता है: मंदी में टिके रहना कठिन होता है और तेजी में श्रम की कमी होती है, इसलिए रोजगार हमेशा प्रमुख मुद्दा बना रहता है। उसी दिन राष्ट्रपति और वरिष्ठ सरकारी अधिकारियों के उल्सान दौरे पर विपक्ष ने विरोध किया, क्योंकि इसे 3 जून के स्थानीय चुनावों का अहम मुकाबला क्षेत्र माना जाता है, और इसे सरकारी शक्ति से चुनाव प्रभावित करने का प्रयास बताया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Lee Jae-myung Tekankan Sistem Bagi Hasil Buruh-Manajemen di Industri Kapal Ulsan",
-        "excerpt": "Presiden Lee Jae-myung pada 13 Mei di Ulsan menegaskan pentingnya sistem agar perusahaan dan pekerja berbagi hasil dari booming industri galangan kapal.",
-        "body": "Presiden Lee Jae-myung menghadiri pertemuan Visi Masa Depan K-Shipbuilding di Ulsan pada 13 Mei dan mengatakan hasil pertumbuhan industri galangan kapal harus dibagikan secara merata dalam ekosistem industri yang kuat. Ia menekankan pentingnya membangun sistem di dalam perusahaan agar pemberi kerja dan pekerja dapat menikmati hasilnya bersama. Lee menilai industri galangan kapal sangat terpapar siklus ekonomi: saat lesu sulit bertahan, sementara saat booming terjadi kekurangan tenaga kerja, sehingga isu ketenagakerjaan selalu menjadi persoalan. Oposisi mengecam kunjungan besar-besaran pejabat tinggi pemerintah ke Ulsan, yang dianggap medan sengit pemilihan lokal 3 Juni, sebagai pemilu yang dipengaruhi kekuasaan negara. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "d6f7cfd23c79",
-    "slug": "靑-반도체-초과세수-활용안-검토-착수-내년-예산안-쟁점-될듯-367661",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T20:37:59.403Z",
-    "updatedAt": "2026-05-13T20:37:59.403Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133919021/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133919021/2",
-    "titleFingerprint": "8ca318db65eff95d19795feb1521f6cb231a7afd",
-    "dedupKeys": [
-      "d6f7cfd23c798cbc24e5ffda4261f424ee2e9525",
-      "8ca318db65eff95d19795feb1521f6cb231a7afd",
-      "7b6d6ee3c10d436ab4e19519433d283a239ab439"
-    ],
-    "imageUrl": "/images/articles/d6f7cfd23c79.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 초과세수 활용 검토 착수…내년 예산안 핵심 쟁점 부상",
-        "excerpt": "청와대가 13일 반도체 호황에 따른 초과 세수 활용 방안 검토에 들어가면서 내년 예산안 편성 과정의 주요 쟁점으로 떠오르고 있다.",
-        "body": "청와대가 13일 반도체 호황에 따른 초과 세수 활용 방안 검토에 착수했다. 김용범 대통령정책실장이 제안한 ‘국민배당금’을 둘러싼 정치권 논란이 커지는 가운데, 삼성전자와 SK하이닉스의 영업이익 급증으로 정부 세수가 크게 늘어날 수 있다는 전망이 배경이다. 청와대에 따르면 김 실장은 최근 류덕현 재정기획보좌관 등에게 관련 검토를 지시했으며 하준경 대통령경제성장수석도 논의에 참여하고 있다. 경제계와 시민단체, 전문가들은 재투자, 재분배, 재정건전성 확보를 놓고 엇갈린 입장을 보이고 있다. 다음 달부터 본격화할 내년 예산안 편성에서 활용처가 쟁점이 될 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Chip tax windfall review begins, raising budget debate for next year",
-        "excerpt": "The Blue House began reviewing how to use possible excess tax revenue from the semiconductor boom on the 13th, making it a likely issue in next year’s budget talks.",
-        "body": "The Blue House began reviewing on the 13th how to use excess tax revenue expected from the semiconductor boom. The move comes as political debate grows over the “citizen dividend” proposed by Presidential Policy Chief Kim Yong-beom, and as forecasts point to a sharp rise in government tax revenue from surging operating profits at Samsung Electronics and SK hynix. According to the Blue House, Kim recently instructed fiscal planning adviser Ryu Deok-hyun and others to examine possible uses, while Ha Jun-kyung, senior secretary for economic growth, is also taking part. Business groups, civic organizations and economists are divided over whether the revenue should support reinvestment, redistribution or fiscal soundness. The issue is expected to emerge during next year’s budget drafting, which begins in earnest next month. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "半導体の超過税収活用を検討、来年予算案の焦点に浮上",
-        "excerpt": "青瓦台は13日、半導体好況による超過税収の活用策の検討に入り、来年予算案編成の主要争点になる見通しだ。",
-        "body": "青瓦台は13日、半導体好況に伴う超過税収の活用策について検討を始めた。金容範大統領政策室長が提案した「国民配当金」をめぐり政治圏の論争が強まる中、サムスン電子とSKハイニックスの営業利益急増で政府の税収が大きく増えるとの見方が背景にある。青瓦台によると、金室長は最近、柳徳鉉財政企画補佐官らに活用策の検討を指示し、河準慶大統領経済成長首席も議論に参加している。経済界、市民団体、専門家の間では、成長への再投資、社会的再分配、財政健全性確保をめぐり意見が分かれている。来月から本格化する来年予算案編成で争点になる見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "半导体超额税收用途启动评估，或成明年预算案焦点",
-        "excerpt": "青瓦台13日开始评估半导体景气带来的超额税收用途，预计这一问题将在明年预算案编制过程中成为重要争点。",
-        "body": "青瓦台13日开始评估半导体景气带来的超额税收使用方案。随着金容范总统政策室长提出的“国民分红”在政界引发争议，三星电子和SK海力士营业利润大幅增长、政府税收可能明显增加的预期成为背景。据青瓦台消息，金室长近日指示财政企划辅佐官柳德铉等人研究相关方案，总统经济增长首席河俊庆也参与讨论。经济界、市民团体和经济专家围绕应将超额税收用于增长再投资、强化社会再分配还是确保财政稳健，意见不一。随着下月起明年预算案编制正式展开，税收用途预计将成为争点。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Revisión del superávit fiscal por chips abre debate del presupuesto",
-        "excerpt": "La Casa Azul inició el día 13 una revisión sobre el uso del posible exceso de ingresos fiscales por el auge de semiconductores, tema clave del próximo presupuesto.",
-        "body": "La Casa Azul inició el día 13 una revisión sobre cómo utilizar los ingresos fiscales excedentes previstos por el auge de los semiconductores. El contexto es la creciente controversia política en torno al “dividendo ciudadano” propuesto por Kim Yong-beom, jefe de política presidencial, y las previsiones de un fuerte aumento de la recaudación por el salto en las ganancias operativas de Samsung Electronics y SK hynix. Según la Casa Azul, Kim pidió recientemente al asesor de planificación fiscal Ryu Deok-hyun y a otros que examinaran opciones, mientras Ha Jun-kyung, secretario presidencial de crecimiento económico, también participa. Empresarios, organizaciones civiles y expertos discrepan entre reinversión, redistribución o solidez fiscal. El asunto podría ser central en el presupuesto del próximo año. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Excedente fiscal dos chips entra em revisão e mira orçamento",
-        "excerpt": "A Casa Azul iniciou no dia 13 a análise sobre o uso da receita fiscal extra gerada pelo boom dos semicondutores, possível tema central do orçamento do próximo ano.",
-        "body": "A Casa Azul iniciou no dia 13 uma análise sobre como usar a receita fiscal excedente prevista com o boom dos semicondutores. A medida ocorre enquanto cresce a controvérsia política em torno do “dividendo ao povo” proposto por Kim Yong-beom, chefe de política presidencial, e diante da expectativa de maior arrecadação com o salto no lucro operacional da Samsung Electronics e da SK hynix. Segundo a Casa Azul, Kim instruiu recentemente o assessor de planejamento fiscal Ryu Deok-hyun e outros a examinar alternativas, com participação também de Ha Jun-kyung, secretário presidencial para crescimento econômico. Setores empresariais, grupos civis e especialistas divergem entre reinvestimento, redistribuição social e solidez fiscal. O tema deve ganhar peso na elaboração do orçamento do próximo ano. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Chip-Steuermehreinnahmen im Fokus: Haushaltsstreit zeichnet sich ab",
-        "excerpt": "Das Blaue Haus prüft seit dem 13. die Nutzung möglicher Steuermehreinnahmen aus dem Halbleiterboom, was zum Streitpunkt im Haushalt des nächsten Jahres werden dürfte.",
-        "body": "Das Blaue Haus hat am 13. mit der Prüfung begonnen, wie mögliche Steuermehreinnahmen aus dem Halbleiterboom genutzt werden könnten. Hintergrund ist die wachsende politische Kontroverse um die von Kim Yong-beom, dem Leiter des Präsidialamts für Politik, vorgeschlagene „Bürgerdividende“ sowie die Erwartung stark steigender Staatseinnahmen durch höhere operative Gewinne von Samsung Electronics und SK hynix. Nach Angaben des Blauen Hauses wies Kim jüngst den Finanzplanungsberater Ryu Deok-hyun und weitere Beteiligte an, Nutzungsoptionen zu prüfen; auch Ha Jun-kyung, Präsidialsekretär für Wirtschaftswachstum, nimmt teil. Wirtschaft, Bürgergruppen und Experten sind uneins zwischen Reinvestition, Umverteilung und Haushaltsstabilität. Das Thema dürfte bei der Haushaltsplanung für nächstes Jahr zentral werden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Recettes fiscales des puces: l’examen ouvre un débat budgétaire",
-        "excerpt": "La Maison Bleue a lancé le 13 l’examen de l’usage des recettes fiscales supplémentaires liées au boom des semi-conducteurs, futur enjeu du budget prochain.",
-        "body": "La Maison Bleue a lancé le 13 un examen sur l’utilisation des recettes fiscales excédentaires attendues du boom des semi-conducteurs. Cette démarche intervient alors que la controverse politique s’intensifie autour du « dividende citoyen » proposé par Kim Yong-beom, chef de la politique présidentielle, et que les bénéfices opérationnels en forte hausse de Samsung Electronics et SK hynix laissent prévoir une augmentation des recettes publiques. Selon la Maison Bleue, Kim a récemment demandé au conseiller en planification budgétaire Ryu Deok-hyun et à d’autres d’étudier les options, tandis que Ha Jun-kyung, secrétaire présidentiel à la croissance économique, participe aussi aux discussions. Milieux économiques, organisations civiques et experts divergent entre réinvestissement, redistribution et discipline budgétaire. Le sujet devrait peser dans le budget de l’an prochain. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "مراجعة فائض ضرائب الرقائق تفتح ملف موازنة العام المقبل",
-        "excerpt": "بدأ البيت الأزرق في 13 مراجعة سبل استخدام فائض ضريبي محتمل من ازدهار أشباه الموصلات، ما يجعله قضية بارزة في إعداد موازنة العام المقبل.",
-        "body": "بدأ البيت الأزرق في 13 مراجعة كيفية استخدام فائض الإيرادات الضريبية المتوقع من ازدهار قطاع أشباه الموصلات. وتأتي الخطوة وسط جدل سياسي متزايد حول «توزيعات المواطنين» التي اقترحها كيم يونغ بوم، رئيس السياسات الرئاسية، ومع توقعات بزيادة كبيرة في إيرادات الحكومة الضريبية نتيجة ارتفاع الأرباح التشغيلية لدى سامسونغ إلكترونيكس وSK hynix. وبحسب البيت الأزرق، وجّه كيم مؤخرا مستشار التخطيط المالي ريو ديوك هيون وآخرين إلى دراسة خيارات الاستخدام، كما يشارك ها جون كيونغ، كبير مستشاري الرئيس للنمو الاقتصادي، في النقاش. وتنقسم آراء الأوساط الاقتصادية والمنظمات المدنية والخبراء بين إعادة الاستثمار، وتعزيز إعادة التوزيع الاجتماعي، وضمان السلامة المالية. ومن المتوقع أن تصبح القضية محورا في إعداد موازنة العام المقبل. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "चिप कर अधिशेष पर समीक्षा शुरू, अगले बजट में बड़ा मुद्दा",
-        "excerpt": "ब्लू हाउस ने 13 तारीख को सेमीकंडक्टर तेजी से संभावित अतिरिक्त कर राजस्व के उपयोग की समीक्षा शुरू की, जो अगले वर्ष के बजट में मुद्दा बन सकता है।",
-        "body": "ब्लू हाउस ने 13 तारीख को सेमीकंडक्टर तेजी से अपेक्षित अतिरिक्त कर राजस्व के उपयोग पर समीक्षा शुरू की। यह कदम राष्ट्रपति नीति प्रमुख किम योंग-बोम द्वारा प्रस्तावित “नागरिक लाभांश” पर बढ़ते राजनीतिक विवाद और Samsung Electronics तथा SK hynix के परिचालन लाभ में तेज वृद्धि से सरकारी कर आय बढ़ने की संभावना के बीच आया है। ब्लू हाउस के अनुसार, किम ने हाल में राजकोषीय योजना सलाहकार रयू देओक-ह्युन और अन्य को उपयोग के विकल्पों की जांच का निर्देश दिया, जबकि आर्थिक विकास के वरिष्ठ राष्ट्रपति सचिव हा जून-क्यूंग भी चर्चा में शामिल हैं। उद्योग जगत, नागरिक समूहों और विशेषज्ञों में इसे विकास के लिए पुनर्निवेश, सामाजिक पुनर्वितरण या वित्तीय मजबूती में लगाने पर मतभेद हैं। अगले महीने से शुरू होने वाली अगले वर्ष की बजट प्रक्रिया में यह मुद्दा प्रमुख हो सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pajak ekstra semikonduktor dikaji, jadi isu anggaran tahun depan",
-        "excerpt": "Blue House pada tanggal 13 mulai mengkaji penggunaan potensi kelebihan penerimaan pajak dari boom semikonduktor, yang diperkirakan menjadi isu utama anggaran tahun depan.",
-        "body": "Blue House pada tanggal 13 mulai mengkaji cara menggunakan kelebihan penerimaan pajak yang diperkirakan muncul dari boom semikonduktor. Langkah ini berlangsung saat kontroversi politik meningkat atas “dividen rakyat” yang diusulkan Kepala Kebijakan Presiden Kim Yong-beom, sementara lonjakan laba operasional Samsung Electronics dan SK hynix diperkirakan dapat menaikkan penerimaan pajak pemerintah secara besar. Menurut Blue House, Kim baru-baru ini menginstruksikan penasihat perencanaan fiskal Ryu Deok-hyun dan pihak lain untuk menelaah opsi penggunaan, dan Sekretaris Senior Presiden untuk Pertumbuhan Ekonomi Ha Jun-kyung juga ikut berdiskusi. Dunia usaha, organisasi sipil, dan ekonom berbeda pandangan antara reinvestasi untuk pertumbuhan, redistribusi sosial, atau menjaga kesehatan fiskal. Isu ini diperkirakan muncul dalam penyusunan anggaran tahun depan. Sumber: rss.donga.com"
       }
     }
   }
