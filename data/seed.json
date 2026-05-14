@@ -1,5 +1,230 @@
 [
   {
+    "id": "2bc26b1fa539",
+    "slug": "김정관-삼성전자-파업땐-긴급조정-불가피-758256",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T19:54:10.401Z",
+    "updatedAt": "2026-05-14T19:54:10.401Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927834/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927834/2",
+    "titleFingerprint": "c5977257b24e54bc7cf569fb2e302c5f09853452",
+    "dedupKeys": [
+      "2bc26b1fa539ff4c9959943801904f1fde6052b4",
+      "c5977257b24e54bc7cf569fb2e302c5f09853452",
+      "e186f8d7ce7e6ca036357a040135147f4266a80a"
+    ],
+    "imageUrl": "/images/articles/2bc26b1fa539.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 총파업 앞두고 김정관 장관 “긴급조정 불가피” 첫 언급",
+        "excerpt": "김정관 산업통상부 장관은 14일 삼성전자 노조의 총파업 예고를 앞두고 노사 대화 재개를 촉구하며 파업 시 긴급조정이 불가피하다고 밝혔다.",
+        "body": "김정관 산업통상부 장관이 14일 삼성전자 노조의 총파업 예고와 관련해 노사 대화 재개를 촉구하며 “파업이 발생한다면 긴급조정도 불가피하다고 생각한다”고 밝혔다. 삼성전자 노조가 예고한 총파업이 일주일 앞으로 다가온 가운데 정부 장관급 인사가 파업을 중단시킬 수 있는 긴급조정권 발동 가능성을 처음 언급한 것이다. 김 장관은 X(옛 트위터)에 이번 파업으로 최대 100조 원의 피해가 예상된다며 “어떠한 경우에도 파업만은 막아야 한다”고 적었다. 긴급조정권은 노동조합 및 노동관계조정법에 따라 고용노동부 장관이 쟁의행위가 국민 경제를 현저히 해하거나 국민 일상생활을 위태롭게 할 위험이 있을 때 발동할 수 있다. 삼성전자는 파업 현실화 우려에 반도체 생산량 조절에 돌입했다. 중앙노동위원회는 16일 2차 사후 조정을 권고했지만 노조는 사측 입장 변화가 없다면 대화할 이유가 없다고 밝혔다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Strike Looms as Minister Kim Cites Emergency Mediation",
+        "excerpt": "Industry Minister Kim Jung-kwan urged Samsung Electronics labor and management to resume talks on May 14, saying emergency mediation would be unavoidable if a strike occurs.",
+        "body": "Industry Minister Kim Jung-kwan said on May 14 that Samsung Electronics labor and management should resume dialogue, adding that “if a strike occurs, emergency mediation would be unavoidable.” His remarks came one week before the Samsung Electronics union’s planned general strike and marked the first time a minister-level government official mentioned the possible use of emergency mediation powers that could halt a strike. Kim wrote on X, formerly Twitter, that the strike could cause up to 100 trillion won in damage and that a strike must be prevented under any circumstances. Under Korea’s Trade Union and Labor Relations Adjustment Act, emergency mediation can be invoked by the labor minister when industrial action risks seriously harming the national economy or endangering daily life. Samsung Electronics has begun adjusting semiconductor output amid concerns the strike could materialize. The National Labor Relations Commission recommended a second post-mediation session on May 16, but the union said there was no reason to talk unless management changed its position. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子の総スト控え金正官長官「緊急調整は不可避」と初言及",
+        "excerpt": "金正官・産業通商部長官は14日、サムスン電子労組の総スト予告を前に労使対話の再開を求め、スト時は緊急調整が不可避だと述べた。",
+        "body": "金正官・産業通商部長官は14日、サムスン電子労組が予告した総ストライキをめぐり、労使対話の再開を促し、「ストが発生するなら緊急調整も不可避だと考える」と明らかにした。総スト予告が1週間後に迫る中、政府の長官級人物がストを中断させ得る緊急調整権の発動可能性に初めて言及した形だ。金長官はX（旧ツイッター）で、今回のストにより最大100兆ウォンの被害が予想されるとして、「いかなる場合でもストだけは防がなければならない」と述べた。緊急調整権は労働組合および労働関係調整法に基づき、争議行為が国民経済を著しく害したり国民の日常生活を危険にさらす恐れがある場合、雇用労働部長官が発動できる権限だ。サムスン電子はスト現実化への懸念から半導体生産量の調整に入った。中央労働委員会は16日の2回目の事後調整を勧告したが、労組は会社側の立場に変化がなければ対話する理由はないとしている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子总罢工临近，金正官称“紧急调整不可避免”",
+        "excerpt": "韩国产业通商部部长金正官14日敦促三星电子劳资双方重启对话，并表示若发生罢工，紧急调整将不可避免。",
+        "body": "韩国产业通商部部长金正官14日就三星电子工会预告总罢工一事敦促劳资双方重启对话，并表示：“如果发生罢工，我认为紧急调整也将不可避免。”在三星电子工会预告的总罢工仅剩一周之际，这是韩国政府部长级人士首次提及可能启动可中止罢工的紧急调整权。金正官在X（原推特）上表示，此次罢工预计可能造成最高100万亿韩元损失，并称“无论如何都必须阻止罢工”。根据《劳动组合及劳动关系调整法》，当工会争议行为有显著损害国民经济或危及国民日常生活的风险时，雇佣劳动部部长可以启动紧急调整权。由于担心罢工成为现实，三星电子已开始调整半导体产量。中央劳动委员会建议16日进行第二次事后调解，但工会表示，如果公司方面立场没有变化，就没有对话理由。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Huelga en Samsung Electronics: ministro Kim ve inevitable la mediación urgente",
+        "excerpt": "El ministro Kim Jung-kwan pidió el 14 de mayo reanudar el diálogo laboral en Samsung Electronics y dijo que una mediación urgente sería inevitable si hay huelga.",
+        "body": "El ministro de Industria, Comercio y Energía, Kim Jung-kwan, pidió el 14 de mayo que la dirección y el sindicato de Samsung Electronics reanuden el diálogo y afirmó que, “si se produce una huelga, la mediación urgente también sería inevitable”. Sus palabras llegan cuando falta una semana para la huelga general anunciada por el sindicato de Samsung Electronics y constituyen la primera mención de un alto cargo ministerial a la posible activación de una facultad capaz de detener una huelga. Kim escribió en X, antes Twitter, que la huelga podría causar daños de hasta 100 billones de wones y que debe evitarse en cualquier circunstancia. Según la Ley de Sindicatos y Ajuste de Relaciones Laborales, el ministro de Empleo y Trabajo puede activar la mediación urgente cuando una acción sindical pueda dañar gravemente la economía nacional o poner en riesgo la vida cotidiana. Samsung Electronics comenzó a ajustar la producción de semiconductores ante la preocupación por una huelga real. La Comisión Nacional de Relaciones Laborales recomendó una segunda mediación posterior el 16 de mayo, pero el sindicato dijo que no hay razón para dialogar si la empresa no cambia su postura. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Greve na Samsung Electronics leva ministro Kim a citar mediação urgente",
+        "excerpt": "O ministro Kim Jung-kwan pediu em 14 de maio a retomada do diálogo na Samsung Electronics e disse que a mediação urgente será inevitável se houver greve.",
+        "body": "O ministro da Indústria, Comércio e Energia, Kim Jung-kwan, pediu em 14 de maio que trabalhadores e direção da Samsung Electronics retomem o diálogo e afirmou que, “se ocorrer uma greve, a mediação urgente também será inevitável”. A declaração ocorre a uma semana da greve geral anunciada pelo sindicato da Samsung Electronics e marca a primeira vez que uma autoridade ministerial do governo menciona a possibilidade de acionar um poder capaz de interromper a paralisação. Kim escreveu no X, antigo Twitter, que a greve pode causar prejuízos de até 100 trilhões de wones e que deve ser evitada em qualquer circunstância. Pela Lei de Sindicatos e Ajuste das Relações Trabalhistas, o ministro do Emprego e Trabalho pode acionar a mediação urgente quando uma ação sindical ameaça prejudicar gravemente a economia nacional ou colocar em risco a vida cotidiana. A Samsung Electronics começou a ajustar a produção de semicondutores diante da preocupação com a greve. A Comissão Nacional de Relações Trabalhistas recomendou uma segunda mediação pós-negociação para 16 de maio, mas o sindicato disse que não há motivo para conversar se a empresa não mudar sua posição. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Streik rückt näher: Minister Kim nennt Notvermittlung",
+        "excerpt": "Industrieminister Kim Jung-kwan rief Samsung Electronics am 14. Mai zur Wiederaufnahme der Gespräche auf und sagte, bei einem Streik sei Notvermittlung unvermeidlich.",
+        "body": "Südkoreas Minister für Industrie, Handel und Energie, Kim Jung-kwan, hat am 14. Mai die Arbeitnehmer- und Arbeitgeberseite von Samsung Electronics zur Wiederaufnahme der Gespräche aufgefordert. Er sagte, “wenn es zu einem Streik kommt, halte ich auch eine Notvermittlung für unvermeidlich”. Die Erklärung fällt eine Woche vor dem von der Gewerkschaft angekündigten Generalstreik und ist die erste Äußerung eines Regierungsmitglieds auf Ministerebene zur möglichen Anwendung eines Rechts, das einen Streik stoppen kann. Kim schrieb auf X, ehemals Twitter, der Streik könne Schäden von bis zu 100 Billionen Won verursachen, und ein Streik müsse unter allen Umständen verhindert werden. Nach dem Gesetz über Gewerkschaften und die Anpassung von Arbeitsbeziehungen kann der Arbeitsminister Notvermittlung anordnen, wenn Arbeitskampfmaßnahmen die Volkswirtschaft erheblich schädigen oder das Alltagsleben gefährden könnten. Samsung Electronics hat wegen der Sorge vor einem tatsächlichen Streik begonnen, die Halbleiterproduktion anzupassen. Die Nationale Arbeitsbeziehungskommission empfahl für den 16. Mai eine zweite nachträgliche Vermittlung, doch die Gewerkschaft erklärte, ohne Positionsänderung des Unternehmens gebe es keinen Grund für Gespräche. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Grève chez Samsung Electronics : Kim Jung-kwan évoque une médiation urgente",
+        "excerpt": "Le ministre Kim Jung-kwan a demandé le 14 mai la reprise du dialogue chez Samsung Electronics et jugé une médiation urgente inévitable en cas de grève.",
+        "body": "Le ministre sud-coréen de l’Industrie, du Commerce et de l’Énergie, Kim Jung-kwan, a appelé le 14 mai la direction et le syndicat de Samsung Electronics à reprendre le dialogue, affirmant que “si une grève se produit, une médiation urgente sera inévitable”. Cette déclaration intervient une semaine avant la grève générale annoncée par le syndicat de Samsung Electronics et constitue la première mention, par un responsable gouvernemental de rang ministériel, d’un possible recours à un pouvoir pouvant suspendre une grève. Kim a écrit sur X, anciennement Twitter, que cette grève pourrait entraîner jusqu’à 100 billions de wons de dommages et qu’elle devait être évitée en toutes circonstances. Selon la loi sur les syndicats et l’ajustement des relations de travail, le ministre de l’Emploi et du Travail peut déclencher une médiation urgente lorsqu’une action collective risque de nuire gravement à l’économie nationale ou de mettre en danger la vie quotidienne. Samsung Electronics a commencé à ajuster sa production de semi-conducteurs face à cette inquiétude. La Commission nationale des relations de travail a recommandé une deuxième médiation postérieure le 16 mai, mais le syndicat a déclaré qu’il n’y aurait aucune raison de discuter si l’entreprise ne changeait pas de position. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إضراب سامسونغ إلكترونيكس يقترب ووزير كوري يلوح بالتسوية الطارئة",
+        "excerpt": "دعا وزير الصناعة كيم جونغ كوان في 14 مايو إلى استئناف الحوار بين إدارة سامسونغ إلكترونيكس ونقابتها، قائلا إن التسوية الطارئة ستكون حتمية إذا وقع الإضراب.",
+        "body": "دعا وزير الصناعة والتجارة والطاقة الكوري الجنوبي كيم جونغ كوان في 14 مايو إدارة سامسونغ إلكترونيكس ونقابتها إلى استئناف الحوار، وقال: “إذا وقع إضراب، أعتقد أن التسوية الطارئة ستكون حتمية”. وتأتي تصريحاته قبل أسبوع من الإضراب العام الذي أعلنت عنه نقابة سامسونغ إلكترونيكس، وهي المرة الأولى التي يذكر فيها مسؤول حكومي بدرجة وزير احتمال استخدام صلاحية يمكن أن توقف الإضراب. وكتب كيم على منصة X، تويتر سابقا، أن الإضراب قد يسبب أضرارا تصل إلى 100 تريليون وون، وأنه يجب منع الإضراب في كل الأحوال. وبموجب قانون النقابات وتسوية علاقات العمل، يمكن لوزير العمل تفعيل التسوية الطارئة عندما تنطوي تحركات النقابة على خطر إلحاق ضرر جسيم بالاقتصاد الوطني أو تعريض الحياة اليومية للمواطنين للخطر. وبدأت سامسونغ إلكترونيكس تعديل إنتاج أشباه الموصلات وسط مخاوف من تحقق الإضراب. وأوصت لجنة علاقات العمل المركزية بعقد جلسة تسوية لاحقة ثانية في 16 مايو، لكن النقابة قالت إنه لا سبب للحوار ما لم يتغير موقف الشركة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Samsung Electronics हड़ताल से पहले मंत्री Kim ने आपात समायोजन की बात कही",
+        "excerpt": "उद्योग मंत्री Kim Jung-kwan ने 14 मई को Samsung Electronics में श्रम-प्रबंधन वार्ता फिर शुरू करने को कहा और हड़ताल होने पर आपात समायोजन को अपरिहार्य बताया।",
+        "body": "दक्षिण कोरिया के उद्योग, व्यापार और ऊर्जा मंत्री Kim Jung-kwan ने 14 मई को Samsung Electronics के प्रबंधन और श्रमिक संघ से वार्ता फिर शुरू करने का आग्रह किया। उन्होंने कहा, “यदि हड़ताल होती है, तो आपात समायोजन भी अपरिहार्य होगा।” Samsung Electronics यूनियन की घोषित आम हड़ताल में एक सप्ताह बाकी है, और यह पहली बार है जब मंत्री स्तर के सरकारी अधिकारी ने हड़ताल रोक सकने वाले आपात समायोजन अधिकार के उपयोग की संभावना का उल्लेख किया। Kim ने X, पूर्व में Twitter, पर लिखा कि इस हड़ताल से अधिकतम 100 ट्रिलियन वॉन तक का नुकसान होने की आशंका है और किसी भी स्थिति में हड़ताल रोकी जानी चाहिए। ट्रेड यूनियन और श्रम संबंध समायोजन अधिनियम के तहत, जब श्रमिक कार्रवाई से राष्ट्रीय अर्थव्यवस्था को गंभीर नुकसान या नागरिकों के दैनिक जीवन को खतरा हो सकता है, तो रोजगार और श्रम मंत्री आपात समायोजन लागू कर सकते हैं। हड़ताल वास्तविक होने की चिंता में Samsung Electronics ने सेमीकंडक्टर उत्पादन मात्रा समायोजित करना शुरू किया है। केंद्रीय श्रम संबंध आयोग ने 16 मई को दूसरी पश्चात मध्यस्थता की सिफारिश की, लेकिन यूनियन ने कहा कि यदि कंपनी अपना रुख नहीं बदलती, तो बातचीत का कारण नहीं है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pemogokan Samsung Electronics Mengancam, Menteri Kim Singgung Mediasi Darurat",
+        "excerpt": "Menteri Kim Jung-kwan pada 14 Mei mendesak dialog buruh-manajemen Samsung Electronics dilanjutkan dan menyebut mediasi darurat tak terhindarkan jika mogok terjadi.",
+        "body": "Menteri Perindustrian, Perdagangan, dan Energi Korea Selatan Kim Jung-kwan pada 14 Mei mendesak manajemen dan serikat pekerja Samsung Electronics melanjutkan dialog. Ia mengatakan, “jika pemogokan terjadi, mediasi darurat juga tidak terhindarkan.” Pernyataan itu muncul satu minggu sebelum mogok umum yang diumumkan serikat Samsung Electronics dan menjadi kali pertama pejabat pemerintah setingkat menteri menyebut kemungkinan penggunaan kewenangan mediasi darurat yang dapat menghentikan mogok. Kim menulis di X, sebelumnya Twitter, bahwa pemogokan ini diperkirakan dapat menimbulkan kerugian hingga 100 triliun won dan harus dicegah dalam kondisi apa pun. Berdasarkan Undang-Undang Serikat Pekerja dan Penyesuaian Hubungan Ketenagakerjaan, menteri ketenagakerjaan dapat mengaktifkan mediasi darurat jika aksi industrial berisiko sangat merugikan ekonomi nasional atau membahayakan kehidupan sehari-hari masyarakat. Samsung Electronics mulai menyesuaikan produksi semikonduktor di tengah kekhawatiran mogok menjadi kenyataan. Komisi Hubungan Ketenagakerjaan Pusat merekomendasikan mediasi lanjutan kedua pada 16 Mei, tetapi serikat menyatakan tidak ada alasan berdialog jika pihak perusahaan tidak mengubah sikap. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "f45ec206ec15",
+    "slug": "테슬라-자율주행-거리-한국-전체-기업의-1200배-773529",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T19:52:53.236Z",
+    "updatedAt": "2026-05-14T19:52:53.237Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927837/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927837/2",
+    "titleFingerprint": "b6879cf544d56e3a04f1075035a39cd8a57be40b",
+    "dedupKeys": [
+      "f45ec206ec15600be5d76a7311044c5cd251b063",
+      "b6879cf544d56e3a04f1075035a39cd8a57be40b",
+      "2af9833cfeb39278de4648ea5c6080ad781eb44a"
+    ],
+    "imageUrl": "/images/articles/f45ec206ec15.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라 FSD 누적 주행 160억km 돌파, 한국 자율주행 데이터 격차 1200배",
+        "excerpt": "14일 테슬라에 따르면 FSD 글로벌 누적 주행거리가 100억 마일을 넘어서며, 지난해 11월 기준 한국 기업 전체 자율주행 누적거리와 약 1200배 격차를 보였다.",
+        "body": "14일 테슬라에 따르면 자율주행 시스템 FSD(Full Self-Driving)의 글로벌 누적 주행거리가 최근 100억 마일, 약 160억 km를 돌파했다. 이는 지구와 태양 사이를 50번 넘게 오가고 지구를 40만 번 도는 거리다. 국내에는 지난해 11월 한미 자유무역협정(FTA) 안전기준 면제 조항에 따라 FSD가 상륙해 도심 주행 데이터를 쌓고 있다. 반면 지난해 11월 국토교통부 추산 기준 한국 기업 전체의 누적 주행거리는 약 1306만 km로, 지구 326바퀴 수준에 그쳤다. 구글 웨이모와 중국 바이두도 각각 3억 km 이상의 누적 운행거리를 확보했다. 자율주행 성능을 좌우하는 데이터 양에서 격차가 커지며 한국의 미래차 경쟁력에 대한 우려가 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Tesla FSD Tops 16 Billion km as Korea’s Autonomous Driving Data Gap Hits 1,200 Times",
+        "excerpt": "According to Tesla on the 14th, FSD’s global cumulative mileage exceeded 10 billion miles, about 1,200 times the total autonomous driving distance of Korean firms as of last November.",
+        "body": "According to Tesla on the 14th, the global cumulative mileage of its Full Self-Driving system recently surpassed 10 billion miles, or about 16 billion km. That is enough to travel between Earth and the Sun more than 50 times and circle Earth 400,000 times. In Korea, FSD arrived last November under a Korea-U.S. FTA safety-standard exemption and is collecting urban driving data. By contrast, the Ministry of Land, Infrastructure and Transport estimated that all Korean companies had accumulated about 13.06 million km as of last November, equal to 326 trips around Earth. Google’s Waymo and China’s Baidu have each secured more than 300 million km. The widening data gap is raising concerns over Korea’s future vehicle competitiveness. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "テスラFSDが累計160億km突破、韓国の自動運転データ格差は1200倍に",
+        "excerpt": "14日のテスラ発表によると、FSDの世界累計走行距離は100億マイルを超え、昨年11月時点の韓国企業全体の自動運転累計距離と約1200倍の差が出た。",
+        "body": "14日のテスラによると、自動運転システムFSD（Full Self-Driving）の世界累計走行距離が最近100億マイル、約160億kmを突破した。これは地球と太陽の間を50回以上往復し、地球を40万周する距離に当たる。韓国には昨年11月、韓米自由貿易協定（FTA）の安全基準免除条項に基づきFSDが上陸し、都市部で走行データを蓄積している。一方、昨年11月の国土交通部推算では、韓国企業全体の累計走行距離は約1306万kmで、地球326周分にとどまった。グーグルのウェイモと中国の百度もそれぞれ3億km以上を確保している。性能を左右するデータ量の差が広がり、韓国の未来車競争力に懸念が出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "特斯拉FSD累计行驶160亿公里，韩国自动驾驶数据差距达1200倍",
+        "excerpt": "据特斯拉14日消息，FSD全球累计行驶里程突破100亿英里，与去年11月韩国企业整体自动驾驶累计里程相比，差距约达1200倍。",
+        "body": "据特斯拉14日消息，其自动驾驶系统FSD（Full Self-Driving）的全球累计行驶里程近日突破100亿英里，约160亿公里。这相当于在地球与太阳之间往返50多次，或绕地球40万圈。去年11月，FSD依据韩美自由贸易协定（FTA）安全标准豁免条款进入韩国，并在城市道路积累行驶数据。相比之下，韩国国土交通部去年11月估算，韩国企业整体累计行驶里程约为1306万公里，仅相当于绕地球326圈。谷歌Waymo和中国百度也已分别 확보超过3亿公里。随着决定自动驾驶性能的数据量差距扩大，韩国未来汽车竞争力引发担忧。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Tesla FSD supera 16.000 millones de km y amplía 1.200 veces la brecha con Corea",
+        "excerpt": "Según Tesla el día 14, el kilometraje global acumulado de FSD superó 10.000 millones de millas, unas 1.200 veces la distancia total de conducción autónoma de las empresas coreanas a noviembre pasado.",
+        "body": "Según Tesla el día 14, el kilometraje global acumulado de su sistema Full Self-Driving, FSD, superó recientemente los 10.000 millones de millas, unos 16.000 millones de km. La cifra equivale a ir y volver entre la Tierra y el Sol más de 50 veces y a rodear la Tierra 400.000 veces. En Corea, FSD llegó en noviembre pasado gracias a una exención de normas de seguridad del TLC entre Corea y Estados Unidos, y está acumulando datos en vías urbanas. En contraste, el Ministerio de Tierra, Infraestructura y Transporte estimó que todas las empresas coreanas sumaban unos 13,06 millones de km a noviembre pasado, unas 326 vueltas a la Tierra. Waymo de Google y Baidu de China ya superan cada una los 300 millones de km. La brecha de datos genera preocupación por la competitividad futura de Corea. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Tesla FSD passa de 16 bilhões de km e expõe diferença de 1.200 vezes ante a Coreia",
+        "excerpt": "Segundo a Tesla no dia 14, a quilometragem global acumulada do FSD passou de 10 bilhões de milhas, cerca de 1.200 vezes o total das empresas coreanas em condução autônoma em novembro passado.",
+        "body": "Segundo a Tesla no dia 14, a quilometragem global acumulada de seu sistema Full Self-Driving, FSD, superou recentemente 10 bilhões de milhas, cerca de 16 bilhões de km. A distância equivale a ir e voltar entre a Terra e o Sol mais de 50 vezes e a dar 400 mil voltas na Terra. Na Coreia, o FSD chegou em novembro passado com base em uma cláusula de isenção de padrões de segurança do acordo de livre comércio entre Coreia e Estados Unidos, acumulando dados em áreas urbanas. Em contraste, o Ministério da Terra, Infraestrutura e Transporte estimou que todas as empresas coreanas somavam cerca de 13,06 milhões de km em novembro passado, o equivalente a 326 voltas na Terra. Waymo, do Google, e Baidu, da China, já têm mais de 300 milhões de km cada. A diferença nos dados amplia preocupações sobre a competitividade futura da Coreia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Tesla FSD erreicht 16 Milliarden km, Koreas Datenlücke beim autonomen Fahren ist 1.200-fach",
+        "excerpt": "Laut Tesla vom 14. überschritt die weltweite FSD-Fahrleistung 10 Milliarden Meilen und lag damit etwa 1.200-mal über der gesamten autonomen Fahrstrecke koreanischer Unternehmen im vergangenen November.",
+        "body": "Laut Tesla vom 14. hat die weltweite kumulierte Fahrleistung des Systems Full Self-Driving, FSD, zuletzt 10 Milliarden Meilen oder rund 16 Milliarden km überschritten. Das entspricht mehr als 50 Reisen zwischen Erde und Sonne und 400.000 Erdumrundungen. In Korea ist FSD im vergangenen November auf Grundlage einer Sicherheitsstandard-Ausnahme im Freihandelsabkommen zwischen Korea und den USA gestartet und sammelt Daten im Stadtverkehr. Dagegen schätzte das Ministerium für Land, Infrastruktur und Verkehr die gesamte Fahrleistung koreanischer Unternehmen im vergangenen November auf etwa 13,06 Millionen km, also 326 Erdumrundungen. Googles Waymo und Chinas Baidu verfügen jeweils bereits über mehr als 300 Millionen km. Die wachsende Datenlücke nährt Sorgen über Koreas Wettbewerbsfähigkeit bei Zukunftsautos. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Tesla FSD dépasse 16 milliards de km, un écart de données 1 200 fois supérieur à la Corée",
+        "excerpt": "Selon Tesla le 14, le kilométrage mondial cumulé de FSD a dépassé 10 milliards de miles, soit environ 1 200 fois le total des entreprises coréennes de conduite autonome en novembre dernier.",
+        "body": "Selon Tesla le 14, le kilométrage mondial cumulé de son système Full Self-Driving, FSD, a récemment dépassé 10 milliards de miles, soit environ 16 milliards de km. Cette distance permettrait de faire plus de 50 allers-retours entre la Terre et le Soleil et 400 000 tours de la Terre. En Corée, FSD est arrivé en novembre dernier grâce à une exemption de normes de sécurité prévue par l’accord de libre-échange Corée-États-Unis, et collecte des données en ville. À l’inverse, le ministère du Territoire, des Infrastructures et des Transports estimait en novembre dernier que toutes les entreprises coréennes totalisaient environ 13,06 millions de km, soit 326 tours de la Terre. Waymo de Google et Baidu en Chine ont chacun déjà plus de 300 millions de km. L’écart de données alimente les inquiétudes sur la compétitivité future de la Corée. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تسلا FSD تتجاوز 16 مليار كم وفجوة بيانات القيادة الذاتية مع كوريا تبلغ 1200 ضعف",
+        "excerpt": "قالت تسلا في 14 من الشهر إن المسافة العالمية التراكمية لنظام FSD تجاوزت 10 مليارات ميل، أي نحو 1200 ضعف إجمالي مسافة القيادة الذاتية لشركات كوريا حتى نوفمبر الماضي.",
+        "body": "قالت تسلا في 14 من الشهر إن المسافة العالمية التراكمية لنظامها للقيادة الذاتية FSD، اختصارا لـ Full Self-Driving، تجاوزت مؤخرا 10 مليارات ميل، أي نحو 16 مليار كيلومتر. وتعادل هذه المسافة الذهاب بين الأرض والشمس أكثر من 50 مرة والدوران حول الأرض 400 ألف مرة. وفي كوريا، وصل النظام في نوفمبر الماضي استنادا إلى بند إعفاء من معايير السلامة في اتفاقية التجارة الحرة بين كوريا والولايات المتحدة، وبدأ يجمع بيانات من القيادة داخل المدن. في المقابل، قدرت وزارة الأراضي والبنية التحتية والنقل في نوفمبر الماضي أن إجمالي مسافة الشركات الكورية بلغ نحو 13.06 مليون كيلومتر فقط، أي 326 دورة حول الأرض. كما تمتلك وايمو التابعة لغوغل وبايدو الصينية أكثر من 300 مليون كيلومتر لكل منهما. اتساع فجوة البيانات يثير مخاوف بشأن تنافسية كوريا في سيارات المستقبل. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Tesla FSD ने 16 अरब किमी पार किए, कोरिया से स्वचालित ड्राइविंग डेटा अंतर 1,200 गुना",
+        "excerpt": "टेस्ला ने 14 तारीख को बताया कि FSD की वैश्विक संचयी दूरी 10 अरब मील से अधिक हो गई, जो पिछले नवंबर तक कोरियाई कंपनियों की कुल स्वचालित ड्राइविंग दूरी से करीब 1,200 गुना है।",
+        "body": "टेस्ला के अनुसार 14 तारीख को, उसके Full Self-Driving यानी FSD सिस्टम की वैश्विक संचयी ड्राइविंग दूरी हाल में 10 अरब मील, करीब 16 अरब किमी, पार कर गई। यह दूरी पृथ्वी और सूर्य के बीच 50 से अधिक बार आने-जाने और पृथ्वी के 4 लाख चक्कर लगाने के बराबर है। कोरिया में FSD पिछले नवंबर में कोरिया-अमेरिका मुक्त व्यापार समझौते के सुरक्षा मानक छूट प्रावधान के तहत आया और शहरी सड़कों पर डेटा जुटा रहा है। इसके विपरीत, भूमि, अवसंरचना और परिवहन मंत्रालय के पिछले नवंबर के अनुमान के अनुसार, सभी कोरियाई कंपनियों की कुल दूरी करीब 1.306 करोड़ किमी थी, यानी पृथ्वी के 326 चक्कर। गूगल की Waymo और चीन की Baidu भी प्रत्येक 30 करोड़ किमी से अधिक डेटा 확보 कर चुकी हैं। डेटा मात्रा में बढ़ता अंतर कोरिया की भविष्य की वाहन प्रतिस्पर्धा को लेकर चिंता बढ़ा रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tesla FSD Tembus 16 Miliar km, Kesenjangan Data Otonom Korea Mencapai 1.200 Kali",
+        "excerpt": "Menurut Tesla pada tanggal 14, jarak tempuh global kumulatif FSD melampaui 10 miliar mil, sekitar 1.200 kali total jarak mengemudi otonom seluruh perusahaan Korea per November lalu.",
+        "body": "Menurut Tesla pada tanggal 14, jarak tempuh global kumulatif sistem Full Self-Driving atau FSD baru-baru ini melampaui 10 miliar mil, sekitar 16 miliar km. Angka itu setara perjalanan antara Bumi dan Matahari lebih dari 50 kali serta mengelilingi Bumi 400.000 kali. Di Korea, FSD hadir pada November lalu berkat klausul pengecualian standar keselamatan dalam FTA Korea-Amerika Serikat dan mulai mengumpulkan data di jalan perkotaan. Sebaliknya, Kementerian Pertanahan, Infrastruktur, dan Transportasi memperkirakan pada November lalu bahwa total jarak tempuh seluruh perusahaan Korea sekitar 13,06 juta km, setara 326 putaran Bumi. Waymo milik Google dan Baidu dari China masing-masing juga telah mengamankan lebih dari 300 juta km. Kesenjangan jumlah data yang menentukan kinerja otonom memunculkan kekhawatiran atas daya saing kendaraan masa depan Korea. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "ebde956e76ab",
+    "slug": "노벨상-하윗-ai혁신-가속-큰-기술-전환의-초기-단계-429224",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T19:51:37.962Z",
+    "updatedAt": "2026-05-14T19:51:37.962Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927840/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927840/2",
+    "titleFingerprint": "69e1e5b16dfc5def681fba591d612f469edafd80",
+    "dedupKeys": [
+      "ebde956e76abe9de6287886b961c174ba7333c83",
+      "69e1e5b16dfc5def681fba591d612f469edafd80",
+      "4a5dceb8ab9bab9cf2657668ddb5392c893a1d4b"
+    ],
+    "imageUrl": "/images/articles/ebde956e76ab.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 혁신 가속 경고한 노벨상 하윗 “큰 기술 전환 초기 단계”",
+        "excerpt": "피터 하윗 브라운대 명예교수는 14일 서울 롯데호텔에서 열린 2026 동아국제금융포럼에서 AI 혁신이 과거 기술보다 빠르게 직업 구조를 바꾸고 있다고 밝혔다.",
+        "body": "피터 하윗 미국 브라운대 명예교수는 14일 서울 중구 롯데호텔에서 열린 ‘2026 동아국제금융포럼’에서 AI 기술 발달이 기존 직업을 사라지게 하고 새 직업을 만들고 있다고 말했다. 그는 증기 기관, 전기, 컴퓨터 등 과거 혁신 기술이 등장했을 때보다 변화 속도가 훨씬 빠르다며 “우리는 큰 기술 전환의 초기에 와 있다”고 밝혔다. 하윗 교수는 조지프 슘페터의 ‘창조적 파괴’ 개념을 발전시키고 혁신과 성장의 관계를 규명한 공로로 지난해 노벨 경제학상을 수상했다. 그는 기업과 학계가 교류하며 AI 진화를 따라가야 하고, 정부는 일자리를 잃는 노동자를 도와야 한다고 강조했다. 진성준 더불어민주당 의원은 신기술과 신산업에 생산적 자원을 공급해 함께 성장하는 것이 진짜 성장이라고 축사했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Nobel Laureate Howitt Warns AI Innovation Is Speeding a Major Tech Shift",
+        "excerpt": "Peter Howitt, professor emeritus at Brown University, said at the 2026 Dong-A International Finance Forum in Seoul on May 14 that AI is changing jobs faster than past technologies.",
+        "body": "Peter Howitt, professor emeritus at Brown University in the United States, said on May 14 at the 2026 Dong-A International Finance Forum at Lotte Hotel in Jung-gu, Seoul, that advances in AI are eliminating existing jobs and creating new ones. He said the pace of change is much faster than when past innovations such as the steam engine, electricity and computers emerged, adding that “we are at the beginning of a major technological transition.” Howitt won last year’s Nobel Prize in Economics for developing Joseph Schumpeter’s concept of “creative destruction” and identifying the relationship between innovation and growth. He stressed that companies and academia should interact to keep up with AI’s evolution, while governments should help workers who lose jobs in the process. Jin Sung-joon of the Democratic Party of Korea said in congratulatory remarks that real growth means supplying productive resources to new technologies and industries so everyone can grow together. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "AI革新加速にノーベル賞ハウィット氏が警鐘「大転換の初期段階」",
+        "excerpt": "ブラウン大学名誉教授のピーター・ハウィット氏は5月14日、ソウルで開かれた2026東亜国際金融フォーラムで、AIが職業構造を過去の技術より速く変えていると述べた。",
+        "body": "米ブラウン大学名誉教授のピーター・ハウィット氏は5月14日、ソウル中区のロッテホテルで開かれた「2026東亜国際金融フォーラム」で、AI技術の発展により既存の職業が消え、新しい職業が生まれていると述べた。蒸気機関、電気、コンピューターなど過去の革新技術が登場した時より変化の速度ははるかに速いとし、「私たちは大きな技術転換の初期にいる」と語った。ハウィット氏はジョセフ・シュンペーターの「創造的破壊」の概念を発展させ、革新と成長の関係を明らかにした功績で昨年ノーベル経済学賞を受賞した。同氏は企業と学界が交流してAIの進化を追い、政府はその過程で職を失う労働者を支援すべきだと強調した。祝辞を述べた共に民主党の陳成準議員は、新技術と新産業に生産的資源を供給し、皆が共に成長することが真の成長だと述べた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "诺奖得主豪伊特警示AI创新加速：重大技术转型仍处早期",
+        "excerpt": "美国布朗大学名誉教授彼得·豪伊特5月14日在首尔举行的2026东亚国际金融论坛上表示，AI正以前所未有的速度改变就业结构。",
+        "body": "美国布朗大学名誉教授彼得·豪伊特5月14日在首尔中区乐天酒店举行的“2026东亚国际金融论坛”上表示，人工智能技术发展正在使原有职业消失，同时催生新的职业。他说，与蒸汽机、电力、计算机等过去创新技术问世时相比，变化速度快得多，并指出“我们正处在重大技术转型的初期”。豪伊特因发展美国经济学家约瑟夫·熊彼特的“创造性破坏”概念，并阐明创新与增长之间的关系，于去年获得诺贝尔经济学奖。他强调，企业和学界应加强交流，跟上AI演进，政府则应帮助在这一过程中失去工作的劳动者。韩国共同民主党议员陈成俊在致辞中表示，向新技术和新产业大规模供应生产性资源，使所有人共同成长，才是真正的增长。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El Nobel Howitt advierte que la innovación en IA acelera un gran cambio tecnológico",
+        "excerpt": "Peter Howitt, profesor emérito de la Universidad Brown, dijo el 14 de mayo en el Foro Financiero Internacional Dong-A 2026 en Seúl que la IA cambia el empleo más rápido que tecnologías anteriores.",
+        "body": "Peter Howitt, profesor emérito de la Universidad Brown en Estados Unidos, afirmó el 14 de mayo en el Foro Financiero Internacional Dong-A 2026, celebrado en el Hotel Lotte de Jung-gu, Seúl, que el avance de la inteligencia artificial está haciendo desaparecer empleos existentes y creando otros nuevos. Señaló que el ritmo del cambio es mucho más rápido que cuando surgieron innovaciones como la máquina de vapor, la electricidad o los ordenadores, y dijo que “estamos en la etapa inicial de una gran transición tecnológica”. Howitt recibió el año pasado el Nobel de Economía por desarrollar el concepto de “destrucción creativa” de Joseph Schumpeter y aclarar la relación entre innovación y crecimiento. Subrayó que empresas y academia deben interactuar para seguir la evolución de la IA, mientras que los gobiernos deben ayudar a los trabajadores que pierdan su empleo. El diputado Jin Sung-joon, del Partido Democrático de Corea, dijo que el verdadero crecimiento consiste en suministrar recursos productivos a nuevas tecnologías e industrias para que todos crezcan juntos. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Nobel Howitt alerta que inovação em IA acelera grande transição tecnológica",
+        "excerpt": "Peter Howitt, professor emérito da Universidade Brown, disse em 14 de maio no Fórum Internacional de Finanças Dong-A 2026, em Seul, que a IA muda empregos mais rápido que tecnologias anteriores.",
+        "body": "Peter Howitt, professor emérito da Universidade Brown, nos Estados Unidos, afirmou em 14 de maio no Fórum Internacional de Finanças Dong-A 2026, realizado no Hotel Lotte em Jung-gu, Seul, que o avanço da inteligência artificial está eliminando empregos existentes e criando novos. Segundo ele, a velocidade da mudança é muito maior do que quando surgiram tecnologias inovadoras como a máquina a vapor, a eletricidade e os computadores, e “estamos no início de uma grande transição tecnológica”. Howitt recebeu no ano passado o Prêmio Nobel de Economia por desenvolver o conceito de “destruição criativa” de Joseph Schumpeter e esclarecer a relação entre inovação e crescimento. Ele destacou que empresas e universidades devem interagir para acompanhar a evolução da IA, enquanto governos devem ajudar trabalhadores que perdem empregos nesse processo. O deputado Jin Sung-joon, do Partido Democrático da Coreia, disse que o crescimento real é fornecer recursos produtivos a novas tecnologias e indústrias para que todos cresçam juntos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Nobelpreisträger Howitt warnt: KI-Innovation beschleunigt großen Technologiewandel",
+        "excerpt": "Peter Howitt, emeritierter Professor der Brown University, sagte am 14. Mai beim Dong-A International Finance Forum 2026 in Seoul, KI verändere Jobs schneller als frühere Technologien.",
+        "body": "Peter Howitt, emeritierter Professor der Brown University in den USA, sagte am 14. Mai beim „Dong-A International Finance Forum 2026“ im Lotte Hotel in Jung-gu, Seoul, dass Fortschritte bei künstlicher Intelligenz bestehende Berufe verschwinden lassen und neue entstehen lassen. Das Tempo des Wandels sei deutlich höher als beim Aufkommen früherer Innovationen wie Dampfmaschine, Elektrizität und Computer, sagte er und fügte hinzu: „Wir stehen am Anfang eines großen technologischen Übergangs.“ Howitt erhielt im vergangenen Jahr den Nobelpreis für Wirtschaftswissenschaften, weil er Joseph Schumpeters Konzept der „schöpferischen Zerstörung“ weiterentwickelte und den Zusammenhang zwischen Innovation und Wachstum herausarbeitete. Er betonte, Unternehmen und Wissenschaft müssten sich austauschen, um mit der Entwicklung der KI Schritt zu halten, während Regierungen Arbeitnehmer unterstützen sollten, die in diesem Prozess ihre Arbeit verlieren. Jin Sung-joon von der Demokratischen Partei Koreas sagte in seiner Grußrede, echtes Wachstum bedeute, produktive Ressourcen für neue Technologien und Branchen bereitzustellen, damit alle gemeinsam wachsen können. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le Nobel Howitt alerte sur l’IA, moteur rapide d’une grande transition technologique",
+        "excerpt": "Peter Howitt, professeur émérite à l’Université Brown, a déclaré le 14 mai au Forum financier international Dong-A 2026 à Séoul que l’IA transforme l’emploi plus vite que les technologies passées.",
+        "body": "Peter Howitt, professeur émérite à l’Université Brown aux États-Unis, a déclaré le 14 mai lors du Forum financier international Dong-A 2026, organisé à l’hôtel Lotte de Jung-gu à Séoul, que les progrès de l’intelligence artificielle font disparaître des emplois existants et en créent de nouveaux. Il a estimé que le rythme du changement est bien plus rapide que lors de l’apparition d’innovations comme la machine à vapeur, l’électricité ou l’ordinateur, ajoutant que “nous sommes au début d’une grande transition technologique”. Howitt a reçu l’an dernier le prix Nobel d’économie pour avoir développé le concept de “destruction créatrice” de Joseph Schumpeter et précisé la relation entre innovation et croissance. Il a souligné que les entreprises et le monde universitaire doivent échanger pour suivre l’évolution de l’IA, tandis que les gouvernements doivent aider les travailleurs qui perdent leur emploi dans ce processus. Le député Jin Sung-joon, du Parti démocrate de Corée, a déclaré dans son allocution que la vraie croissance consiste à fournir des ressources productives aux nouvelles technologies et industries afin que tous puissent croître ensemble. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الحائز نوبل هاويت يحذر: ابتكار الذكاء الاصطناعي يسرع تحولا تقنيا كبيرا",
+        "excerpt": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون، في 14 مايو خلال منتدى دونغ-آ المالي الدولي 2026 في سيول إن الذكاء الاصطناعي يغير الوظائف أسرع من التقنيات السابقة.",
+        "body": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون الأميركية، في 14 مايو خلال “منتدى دونغ-آ المالي الدولي 2026” الذي عقد في فندق لوتيه في جونغ-غو بسيول، إن تطور تقنيات الذكاء الاصطناعي يؤدي إلى اختفاء وظائف قائمة وظهور وظائف جديدة. وأوضح أن سرعة التغيير أكبر بكثير مما كانت عليه عند ظهور ابتكارات سابقة مثل المحرك البخاري والكهرباء والكمبيوتر، مضيفا: “نحن في بداية تحول تقني كبير”. وقد نال هاويت جائزة نوبل في الاقتصاد العام الماضي لتطويره مفهوم “التدمير الخلاق” لجوزيف شومبيتر وتوضيحه العلاقة بين الابتكار والنمو. وشدد على أن الشركات والأوساط الأكاديمية يجب أن تتبادل الخبرات لمواكبة تطور الذكاء الاصطناعي، بينما ينبغي للحكومات مساعدة العمال الذين يفقدون وظائفهم خلال هذه العملية. وقال النائب جين سونغ-جون من الحزب الديمقراطي الكوري في كلمته إن النمو الحقيقي هو تزويد التقنيات والصناعات الجديدة بالموارد الإنتاجية حتى ينمو الجميع معا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "नोबेल विजेता हाविट की चेतावनी: AI नवाचार बड़े तकनीकी बदलाव को तेज कर रहा",
+        "excerpt": "ब्राउन यूनिवर्सिटी के एमेरिटस प्रोफेसर पीटर हाविट ने 14 मई को सियोल में 2026 डोंग-ए अंतरराष्ट्रीय वित्त फोरम में कहा कि AI रोजगार ढांचे को पिछली तकनीकों से तेज बदल रहा है।",
+        "body": "अमेरिका की ब्राउन यूनिवर्सिटी के एमेरिटस प्रोफेसर पीटर हाविट ने 14 मई को सियोल के जंग-गु स्थित लोटे होटल में आयोजित “2026 डोंग-ए इंटरनेशनल फाइनेंस फोरम” में कहा कि कृत्रिम बुद्धिमत्ता तकनीक के विकास से मौजूदा नौकरियां समाप्त हो रही हैं और नई नौकरियां बन रही हैं। उन्होंने कहा कि बदलाव की गति भाप इंजन, बिजली और कंप्यूटर जैसी पिछली नवाचारी तकनीकों के आने के समय से कहीं अधिक तेज है, और “हम एक बड़े तकनीकी संक्रमण के शुरुआती चरण में हैं।” हाविट को अमेरिकी अर्थशास्त्री जोसेफ शुम्पीटर की “रचनात्मक विनाश” अवधारणा को आगे बढ़ाने और नवाचार तथा वृद्धि के संबंध को स्पष्ट करने के लिए पिछले वर्ष अर्थशास्त्र का नोबेल पुरस्कार मिला था। उन्होंने जोर दिया कि कंपनियों और अकादमिक जगत को AI के विकास के साथ चलने के लिए संवाद करना चाहिए, और सरकारों को इस प्रक्रिया में नौकरी खोने वाले श्रमिकों की मदद करनी चाहिए। कोरिया की डेमोक्रेटिक पार्टी के सांसद जिन सुंग-जून ने कहा कि वास्तविक वृद्धि नई तकनीकों और उद्योगों को उत्पादक संसाधन देकर सभी को साथ बढ़ाने में है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Peraih Nobel Howitt Ingatkan Inovasi AI Mempercepat Transisi Teknologi Besar",
+        "excerpt": "Peter Howitt, profesor emeritus Brown University, mengatakan pada 14 Mei di Dong-A International Finance Forum 2026 di Seoul bahwa AI mengubah struktur pekerjaan lebih cepat daripada teknologi sebelumnya.",
+        "body": "Peter Howitt, profesor emeritus Brown University di Amerika Serikat, mengatakan pada 14 Mei dalam “Dong-A International Finance Forum 2026” di Lotte Hotel, Jung-gu, Seoul, bahwa perkembangan teknologi kecerdasan buatan membuat pekerjaan yang ada menghilang dan pekerjaan baru muncul. Ia menyebut laju perubahan jauh lebih cepat dibanding saat teknologi inovatif masa lalu seperti mesin uap, listrik, dan komputer ditemukan, seraya mengatakan bahwa “kita berada pada tahap awal transisi teknologi besar.” Howitt menerima Hadiah Nobel Ekonomi tahun lalu atas jasanya mengembangkan konsep “destruksi kreatif” Joseph Schumpeter dan menjelaskan hubungan antara inovasi dan pertumbuhan. Ia menekankan bahwa perusahaan dan akademisi harus berinteraksi untuk mengikuti evolusi AI, sementara pemerintah perlu membantu pekerja yang kehilangan pekerjaan dalam proses itu. Anggota parlemen Jin Sung-joon dari Partai Demokrat Korea mengatakan dalam sambutannya bahwa pertumbuhan sejati berarti memasok sumber daya produktif bagi teknologi dan industri baru agar semua orang tumbuh bersama. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "b8dc77b7114c",
     "slug": "정의선-이란-전쟁-우려-커-신기술-체질-개선으로-전쟁후-대비-293055",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Warga Sewoon 4 Desak Penghentian Kajian Dampak Warisan Dunia",
         "excerpt": "Warga Sewoon 4 di Jongno-gu, Seoul, menilai otoritas warisan memaksakan kajian tanpa kewajiban hukum dan mengganggu kewenangan perizinan pemerintah lokal.",
         "body": "Warga Sewoon 4 di Jongno-gu, Seoul, mendesak otoritas warisan untuk segera menghentikan permintaan kajian dampak Warisan Dunia, dengan alasan tidak ada kewajiban hukum untuk melaksanakannya. Mereka menyatakan permintaan itu mengganggu kewenangan perizinan Pemerintah Metropolitan Seoul dan Kantor Distrik Jongno, sekaligus menjadikan proyek tersebut alat sengketa politik. Sewoon 4 merupakan kawasan yang terkait dengan proyek penataan pusat kota Seoul. Warga memperingatkan bahwa jika kajian dampak warisan tidak ditarik, mereka akan menempuh langkah seperti pengaduan pidana dan permintaan audit. Perselisihan ini dapat memengaruhi kelanjutan proyek karena prosedur warisan budaya bersinggungan dengan kewenangan perizinan pemerintah daerah. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f30e8622119a",
-    "slug": "지방-청약-100대1-자주-나오네요1분기-매매-거래량-5년만에-최다-762422",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T02:05:08.638Z",
-    "updatedAt": "2026-05-14T02:05:08.638Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047303",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047303",
-    "titleFingerprint": "764eb552dd3857710e545c49e89d7286fb5ebaa0",
-    "dedupKeys": [
-      "f30e8622119aeeea1b468e01e56e09ff9925aa7a",
-      "764eb552dd3857710e545c49e89d7286fb5ebaa0",
-      "6e64ef15781cd1fab02d5ab41b2950234dc749e3"
-    ],
-    "imageUrl": "/images/articles/f30e8622119a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "지방 아파트 매매거래 5년 만에 최다, 청약시장도 회복 신호",
-        "excerpt": "올해 1분기 지방 아파트 매매거래량이 8만103건으로 전년보다 23.8% 늘며 5년 만에 최다를 기록했고, 대구·창원 등 청약시장에도 온기가 돌고 있다.",
-        "body": "올해 1분기 지방 아파트 매매거래량이 8만103건을 기록하며 전년 대비 23.8% 증가했다. 장기간 미분양 사태로 침체를 겪었던 지방 부동산 시장에서 매매 거래가 늘고, 청약시장에서도 회복 조짐이 나타난 것이다. 특히 대구와 창원 등 일부 지역에서는 청약 경쟁률이 높게 형성되며 ‘100대1’ 수준의 사례도 자주 거론되고 있다. 1분기 거래량은 5년 만에 가장 많은 수준으로 집계됐다. 지방 아파트 시장은 미분양 부담으로 한동안 냉각됐지만, 거래 증가와 청약 수요 회복이 동시에 나타나며 시장 분위기가 달라지고 있다. 다만 지역별 차이는 남아 있어 향후 흐름은 거래 지속성과 청약 수요에 달려 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Regional Apartment Sales Hit Five-Year High as Subscription Demand Revives",
-        "excerpt": "In Q1, regional apartment sales reached 80,103 transactions, up 23.8% year on year, the highest in five years, while subscription demand also improved in Daegu and Changwon.",
-        "body": "Regional apartment sales in South Korea reached 80,103 transactions in the first quarter, rising 23.8% from a year earlier. The increase signals a warmer mood in local property markets that had been frozen by a prolonged backlog of unsold homes. Subscription markets are also showing signs of recovery, with Daegu, Changwon and other areas drawing stronger demand and cases around the 100-to-1 competition level being mentioned more often. The first-quarter transaction volume was the highest in five years. While regional apartment markets had remained sluggish due to unsold inventory, both stronger sales and recovering subscription interest are now changing sentiment. Future momentum will depend on whether transactions and demand continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "地方マンション売買が5年ぶり最多、申込市場にも回復の兆し",
-        "excerpt": "今年1四半期の地方マンション売買件数は8万103件で前年同期比23.8％増え、5年ぶり最多となり、大邱・昌原などの申込市場にも温気が広がっている。",
-        "body": "今年1四半期、地方マンションの売買件数は8万103件となり、前年同期比で23.8％増加した。長期にわたる未分譲問題で冷え込んでいた地方不動産市場で取引が増え、申込市場にも回復の兆しが出ている。特に大邱や昌原など一部地域では申込競争率が高く形成され、「100対1」水準の事例もたびたび取り上げられている。1四半期の取引量は5年ぶりの最多水準と集計された。地方マンション市場は未分譲負担でしばらく低迷していたが、取引増加と申込需要の回復が同時に表れ、市場心理が変わりつつある。ただし地域差は残っており、今後の流れは取引の継続性と申込需要に左右される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "地方公寓交易量创五年新高，认购市场也现回暖信号",
-        "excerpt": "今年一季度地方公寓买卖交易量达80103宗，同比增加23.8%，创五年来最高水平，大邱、昌原等地认购市场也出现回暖迹象。",
-        "body": "今年一季度，韩国地方公寓买卖交易量达到80103宗，同比增加23.8%。这表明，长期受未售出住房问题影响而低迷的地方房地产市场正在出现回暖，认购市场也开始显现恢复迹象。尤其是大邱、昌原等部分地区认购竞争率走高，“100比1”水平的案例也频繁被提及。一季度交易量被统计为五年来最高水平。地方公寓市场此前因未售库存压力持续冷却，但交易增加与认购需求恢复同时出现，正在改变市场氛围。不过，各地区之间仍存在差异，后续走势将取决于交易能否持续以及认购需求是否保持。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Ventas de apartamentos regionales alcanzan máximo de cinco años",
-        "excerpt": "En el primer trimestre, las ventas de apartamentos regionales sumaron 80.103 operaciones, un 23,8% más interanual y el mayor nivel en cinco años, con recuperación en Daegu y Changwon.",
-        "body": "Las ventas de apartamentos en regiones fuera del área principal alcanzaron 80.103 operaciones en el primer trimestre, un aumento del 23,8% frente al año anterior. El dato muestra un cambio de tono en mercados inmobiliarios locales que habían atravesado una etapa fría por el prolongado problema de viviendas sin vender. El mercado de suscripciones también da señales de recuperación, especialmente en Daegu y Changwon, donde se mencionan con más frecuencia casos de competencia cercana a 100 a 1. El volumen del primer trimestre fue el más alto en cinco años. Aunque el mercado regional seguía presionado por inventarios sin vender, el aumento de operaciones y la recuperación de la demanda de suscripción están mejorando el ánimo. La evolución dependerá de la continuidad de las transacciones y la demanda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Vendas de apartamentos regionais atingem maior nível em cinco anos",
-        "excerpt": "No 1º trimestre, as vendas de apartamentos regionais somaram 80.103 transações, alta anual de 23,8% e maior nível em cinco anos, com sinais de recuperação em Daegu e Changwon.",
-        "body": "As vendas de apartamentos em mercados regionais chegaram a 80.103 transações no primeiro trimestre, alta de 23,8% em relação ao ano anterior. O avanço indica uma mudança no setor imobiliário local, que vinha enfrentando um período de forte esfriamento devido ao prolongado problema de imóveis não vendidos. O mercado de subscrições também mostra recuperação, com Daegu, Changwon e outras áreas registrando maior interesse e casos próximos de 100 para 1 sendo citados com frequência. O volume do primeiro trimestre foi o maior em cinco anos. Embora os estoques não vendidos ainda tenham pesado sobre o mercado regional, o aumento das vendas e a retomada da demanda estão alterando o sentimento. A continuidade dependerá da manutenção das transações e da procura. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Regionale Wohnungsverkäufe auf Fünfjahreshoch, Nachfrage zieht an",
-        "excerpt": "Im ersten Quartal stiegen regionale Apartmentverkäufe auf 80.103 Transaktionen, 23,8% mehr als im Vorjahr und der höchste Stand seit fünf Jahren, auch Daegu und Changwon beleben sich.",
-        "body": "Die Zahl der Apartmentverkäufe in regionalen Märkten Südkoreas erreichte im ersten Quartal 80.103 Transaktionen und lag damit 23,8% über dem Vorjahreswert. Damit zeigt sich in lokalen Immobilienmärkten, die wegen langanhaltender unverkaufter Bestände stark abgekühlt waren, eine spürbare Belebung. Auch der Zeichnungsmarkt sendet Erholungssignale: In Daegu, Changwon und anderen Regionen wird häufiger von starkem Wettbewerb bis in den Bereich von 100 zu 1 gesprochen. Das Transaktionsvolumen im ersten Quartal war das höchste seit fünf Jahren. Zwar bleibt die Belastung durch unverkaufte Wohnungen ein Thema, doch steigende Verkäufe und zurückkehrende Nachfrage verändern die Marktstimmung. Der weitere Verlauf hängt davon ab, ob Transaktionen und Nachfrage anhalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les ventes d’appartements régionaux au plus haut depuis cinq ans",
-        "excerpt": "Au 1er trimestre, les ventes d’appartements régionaux ont atteint 80 103 transactions, en hausse de 23,8% sur un an, un sommet en cinq ans, avec un regain à Daegu et Changwon.",
-        "body": "Les ventes d’appartements dans les marchés régionaux sud-coréens ont atteint 80 103 transactions au premier trimestre, soit une hausse de 23,8% par rapport à l’an dernier. Cette progression marque un réchauffement d’un marché immobilier local longtemps refroidi par le problème persistant des logements invendus. Le marché des souscriptions montre aussi des signes de reprise, notamment à Daegu et Changwon, où des niveaux de concurrence proches de 100 contre 1 sont plus souvent évoqués. Le volume du premier trimestre est le plus élevé depuis cinq ans. Malgré le poids des invendus, la hausse des transactions et le retour de la demande de souscription changent l’ambiance du marché. La suite dépendra de la persistance des ventes et de la demande. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مبيعات الشقق الإقليمية تبلغ أعلى مستوى في خمس سنوات مع تعافي الطلب",
-        "excerpt": "في الربع الأول، بلغت مبيعات الشقق في المناطق 80,103 صفقات، بزيادة 23.8% سنويا، وهو أعلى مستوى خلال خمس سنوات، مع تحسن سوق الاكتتاب في دايغو وتشانغوون.",
-        "body": "بلغت مبيعات الشقق في الأسواق الإقليمية بكوريا الجنوبية 80,103 صفقات في الربع الأول، بزيادة 23.8% عن العام السابق. ويشير ذلك إلى تحسن في أسواق عقارية محلية كانت قد عانت فترة ركود طويلة بسبب أزمة الوحدات غير المباعة. كما تظهر سوق الاكتتاب بوادر تعاف، خصوصا في دايغو وتشانغوون ومناطق أخرى، حيث يجري الحديث بشكل متكرر عن نسب منافسة تقترب من 100 إلى 1. وسجل حجم التعاملات في الربع الأول أعلى مستوى خلال خمس سنوات. ورغم استمرار الفروق بين المناطق وضغط المخزون غير المباع، فإن زيادة الصفقات وعودة طلب الاكتتاب تغيران أجواء السوق. وسيعتمد المسار المقبل على استمرار التداول والطلب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्षेत्रीय अपार्टमेंट बिक्री पांच साल के उच्च स्तर पर, मांग में सुधार",
-        "excerpt": "पहली तिमाही में क्षेत्रीय अपार्टमेंट बिक्री 80,103 सौदों तक पहुंची, सालाना 23.8% अधिक और पांच साल में सबसे ज्यादा, जबकि डेगू और चांगवोन में आवेदन मांग सुधरी।",
-        "body": "दक्षिण कोरिया के क्षेत्रीय अपार्टमेंट बाजार में पहली तिमाही में 80,103 बिक्री सौदे दर्ज हुए, जो एक साल पहले से 23.8% अधिक है। लंबे समय तक बिना बिके घरों की समस्या से ठंडे पड़े स्थानीय रियल एस्टेट बाजार में यह सुधार का संकेत है। आवेदन या सब्सक्रिप्शन बाजार में भी रिकवरी दिख रही है, खासकर डेगू और चांगवोन जैसे क्षेत्रों में, जहां 100-से-1 के आसपास प्रतिस्पर्धा वाले मामलों का उल्लेख अधिक हो रहा है। पहली तिमाही का लेनदेन स्तर पांच साल में सबसे अधिक रहा। क्षेत्रीय अपार्टमेंट बाजार पर बिना बिके स्टॉक का दबाव बना रहा था, लेकिन बिक्री बढ़ने और आवेदन मांग लौटने से माहौल बदल रहा है। आगे की दिशा लेनदेन और मांग की निरंतरता पर निर्भर करेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Transaksi Apartemen Daerah Tertinggi Lima Tahun, Pasar Pulih",
-        "excerpt": "Pada kuartal I, transaksi apartemen daerah mencapai 80.103 unit, naik 23,8% tahunan dan tertinggi dalam lima tahun, sementara pasar langganan di Daegu dan Changwon ikut menghangat.",
-        "body": "Transaksi jual beli apartemen di wilayah daerah Korea Selatan mencapai 80.103 unit pada kuartal pertama, naik 23,8% dibandingkan tahun sebelumnya. Kenaikan ini menunjukkan suasana yang mulai menghangat di pasar properti daerah yang lama membeku akibat masalah unit tak terjual. Pasar langganan juga menunjukkan tanda pemulihan, terutama di Daegu, Changwon, dan sejumlah area lain, dengan kasus rasio persaingan sekitar 100 banding 1 makin sering disebut. Volume transaksi kuartal pertama tercatat sebagai yang tertinggi dalam lima tahun. Meski beban stok tak terjual masih membayangi dan perbedaan antardaerah tetap ada, peningkatan transaksi serta pulihnya permintaan langganan mulai mengubah sentimen pasar. Arah berikutnya bergantung pada keberlanjutan transaksi dan permintaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "30c5fee3795d",
-    "slug": "강북-아파트에서-매달-300만원-따박따박非강남-월세-강남-뺨치네-122388",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T02:04:02.622Z",
-    "updatedAt": "2026-05-14T02:04:02.623Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12047327",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12047327",
-    "titleFingerprint": "31d729b53b8de6a6240b1996995af2049d54f1b7",
-    "dedupKeys": [
-      "30c5fee3795d3ba72785e507d6835a80970979c7",
-      "31d729b53b8de6a6240b1996995af2049d54f1b7",
-      "2905121ae8884848116fbff67a6a76979038adfd"
-    ],
-    "imageUrl": "/images/articles/30c5fee3795d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강북 고가 월세 급증, 100만원 이상 계약 비중 1년 새 41%로 상승",
-        "excerpt": "서울 외곽과 강북구를 중심으로 100만원 이상 월세 계약이 1년 새 빠르게 늘며, 매물 부족이 월셋값 상승을 이끈 것으로 나타났다.",
-        "body": "서울 외곽 지역과 강북구를 중심으로 100만원 이상 고가 월세 계약이 빠르게 늘고 있다. mk.co.kr에 따르면 강북구의 100만원 이상 월세 계약 비중은 1년 새 29%에서 41%로 급증했다. 과거 강남권에 집중됐던 고가 월세 흐름이 비강남 지역으로 확산되는 모습이다. 배경으로는 월세 매물 부족이 지목된다. 공급이 제한된 가운데 임차 수요가 이어지면서 월셋값 상승을 견인했다는 분석이다. 이 같은 흐름은 세입자의 주거비 부담을 키우고, 서울 외곽 월세 시장의 가격 기준을 끌어올릴 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "High-Priced Monthly Rents Rise in Gangbuk as Deals Over 1 Million Won Hit 41%",
-        "excerpt": "Monthly rental contracts above 1 million won are rising quickly in Seoul’s outer districts and Gangbuk-gu, with limited listings cited as a key driver of higher rents.",
-        "body": "High-priced monthly rent contracts of more than 1 million won are increasing rapidly in Seoul’s outer districts, especially Gangbuk-gu. According to mk.co.kr, the share of Gangbuk-gu monthly rent contracts above 1 million won jumped from 29% to 41% in one year. A trend once concentrated in Gangnam is now spreading to non-Gangnam areas. The main background is a shortage of available rental listings. With supply limited and tenant demand continuing, the lack of listings is being cited as a driver of higher monthly rents. The trend may increase housing cost burdens for tenants and lift rent benchmarks in Seoul’s outer rental markets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "江北の高額月決め家賃が急増、100万ウォン超契約が1年で41％に",
-        "excerpt": "ソウル外縁部と江北区を中心に100万ウォン以上の月決め家賃契約が急増し、物件不足が家賃上昇を押し上げたとみられる。",
-        "body": "ソウル外縁部、特に江北区を中心に、100万ウォン以上の高額月決め家賃契約が急速に増えている。mk.co.krによると、江北区で100万ウォン以上の月決め家賃契約が占める割合は、1年で29％から41％へ急増した。これまで江南圏に集中していた高額家賃の流れが、非江南地域にも広がっている形だ。背景としては月決め賃貸物件の不足が挙げられる。供給が限られる一方で賃借需要が続き、物件不足が家賃上昇をけん引したとの分析だ。この流れは入居者の住居費負担を高め、ソウル外縁部の月決め家賃市場の価格水準を押し上げる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "江北高价月租快速增加，100万韩元以上合同比重一年升至41%",
-        "excerpt": "以首尔外围和江北区为中心，100万韩元以上月租合同迅速增加，房源不足被认为推动了月租价格上涨。",
-        "body": "以首尔外围地区和江北区为中心，100万韩元以上的高价月租合同正在快速增加。据mk.co.kr报道，江北区100万韩元以上月租合同占比在一年内从29%升至41%。过去主要集中在江南圈的高价月租趋势，正在向非江南地区扩散。其背景被指出是月租房源不足。在供应受限而租赁需求持续的情况下，房源短缺被分析为推动月租上涨的因素。这一趋势可能加重租户的居住成本负担，并抬高首尔外围月租市场的价格基准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Suben los alquileres caros en Gangbuk: contratos de más de 1 millón llegan al 41%",
-        "excerpt": "Los contratos de alquiler mensual superiores a 1 millón de wones crecen rápido en las afueras de Seúl y Gangbuk-gu, impulsados por la escasez de oferta.",
-        "body": "Los contratos de alquiler mensual de alto precio, superiores a 1 millón de wones, están aumentando con rapidez en las zonas periféricas de Seúl, especialmente en Gangbuk-gu. Según mk.co.kr, la proporción de contratos mensuales de más de 1 millón de wones en Gangbuk-gu pasó del 29% al 41% en un año. Una tendencia antes concentrada en Gangnam se está extendiendo a zonas fuera de Gangnam. El contexto señalado es la falta de viviendas disponibles en alquiler mensual. Con una oferta limitada y una demanda de inquilinos sostenida, la escasez de listados habría impulsado la subida de los alquileres. Este movimiento puede aumentar la carga de vivienda para los inquilinos y elevar las referencias de precios en el mercado de alquiler mensual de la periferia de Seúl. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Aluguéis altos avançam em Gangbuk, com contratos acima de 1 milhão chegando a 41%",
-        "excerpt": "Contratos mensais acima de 1 milhão de wons crescem rapidamente nas áreas periféricas de Seul e em Gangbuk-gu, com falta de imóveis puxando os preços.",
-        "body": "Contratos de aluguel mensal de alto valor, acima de 1 milhão de wons, estão crescendo rapidamente nas áreas periféricas de Seul, especialmente em Gangbuk-gu. Segundo o mk.co.kr, a participação desses contratos em Gangbuk-gu saltou de 29% para 41% em um ano. O movimento de aluguéis altos, antes concentrado em Gangnam, se espalha para regiões fora de Gangnam. O principal fator apontado é a escassez de imóveis disponíveis para aluguel mensal. Com oferta limitada e demanda de locatários ainda presente, a falta de opções teria impulsionado a alta dos aluguéis. A tendência pode elevar o peso dos custos de moradia para inquilinos e puxar para cima as referências de preço no mercado de aluguel mensal da periferia de Seul. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hohe Monatsmieten in Gangbuk legen zu: Verträge über 1 Mio. Won erreichen 41%",
-        "excerpt": "In Seouls Randlagen und Gangbuk-gu nehmen Monatsmietverträge über 1 Million Won rasch zu; ein knappes Angebot gilt als Treiber steigender Mieten.",
-        "body": "In Seouls Randgebieten, besonders in Gangbuk-gu, nehmen hochpreisige Monatsmietverträge von mehr als 1 Million Won schnell zu. Laut mk.co.kr stieg der Anteil solcher Verträge in Gangbuk-gu binnen eines Jahres von 29% auf 41%. Ein Trend, der früher vor allem auf Gangnam konzentriert war, breitet sich damit auf Nicht-Gangnam-Gebiete aus. Als Hintergrund wird ein Mangel an verfügbaren Monatsmietobjekten genannt. Bei begrenztem Angebot und anhaltender Mieternachfrage gilt die Knappheit als Faktor, der die Monatsmieten nach oben treibt. Diese Entwicklung kann die Wohnkostenbelastung der Mieter erhöhen und die Preismaßstäbe im Monatsmietmarkt der Seouler Außenbezirke anheben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les loyers élevés progressent à Gangbuk, les baux de plus de 1 million de wons à 41%",
-        "excerpt": "Les contrats de loyer mensuel dépassant 1 million de wons augmentent vite dans les périphéries de Séoul et à Gangbuk-gu, sous l’effet d’une offre limitée.",
-        "body": "Les contrats de loyer mensuel élevés, supérieurs à 1 million de wons, progressent rapidement dans les zones périphériques de Séoul, notamment à Gangbuk-gu. Selon mk.co.kr, la part de ces contrats à Gangbuk-gu est passée de 29% à 41% en un an. La dynamique des loyers élevés, autrefois concentrée à Gangnam, s’étend désormais aux secteurs hors Gangnam. Le contexte avancé est le manque de biens disponibles en location mensuelle. Avec une offre restreinte et une demande locative qui se poursuit, cette pénurie est considérée comme un moteur de la hausse des loyers. Cette tendance pourrait accroître la charge de logement des locataires et relever les références de prix du marché locatif mensuel en périphérie de Séoul. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع الإيجارات الشهرية المرتفعة في غانغبوك وعقود فوق مليون وون تبلغ 41%",
-        "excerpt": "تزداد عقود الإيجار الشهري التي تتجاوز مليون وون بسرعة في أطراف سيول وغانغبوك-غو، مع الإشارة إلى نقص المعروض كعامل يدفع الأسعار للصعود.",
-        "body": "تشهد مناطق أطراف سيول، وخصوصا غانغبوك-غو، زيادة سريعة في عقود الإيجار الشهري المرتفعة التي تتجاوز مليون وون. ووفقا لـ mk.co.kr، ارتفعت حصة عقود الإيجار الشهري فوق مليون وون في غانغبوك-غو من 29% إلى 41% خلال عام واحد. ويظهر بذلك أن موجة الإيجارات المرتفعة، التي كانت تتركز سابقا في غانغنام، تمتد إلى مناطق غير غانغنام. ويشار إلى نقص المعروض من الوحدات الشهرية كخلفية رئيسية. فمع محدودية العرض واستمرار طلب المستأجرين، ساعد نقص العقارات المتاحة في دفع الإيجارات الشهرية إلى الأعلى. وقد تزيد هذه الحركة عبء تكاليف السكن على المستأجرين وترفع مستويات الأسعار في سوق الإيجار الشهري بأطراف سيول. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गांगबुक में महंगा मासिक किराया बढ़ा, 10 लाख वॉन से ऊपर अनुबंध 41% तक पहुंचे",
-        "excerpt": "सियोल के बाहरी इलाकों और गांगबुक-गु में 10 लाख वॉन से अधिक मासिक किराये के अनुबंध तेजी से बढ़े हैं, और उपलब्ध मकानों की कमी को कीमतों में वृद्धि का कारण बताया गया है।",
-        "body": "सियोल के बाहरी इलाकों, खासकर गांगबुक-गु में 10 लाख वॉन से अधिक के महंगे मासिक किराये के अनुबंध तेजी से बढ़ रहे हैं। mk.co.kr के अनुसार, गांगबुक-गु में 10 लाख वॉन से अधिक मासिक किराये वाले अनुबंधों की हिस्सेदारी एक साल में 29% से बढ़कर 41% हो गई। पहले गांगनाम क्षेत्र तक केंद्रित महंगे किराये का रुझान अब गैर-गांगनाम इलाकों में भी फैलता दिख रहा है। इसकी पृष्ठभूमि में मासिक किराये की उपलब्ध संपत्तियों की कमी बताई गई है। सीमित आपूर्ति और जारी किरायेदार मांग के बीच, लिस्टिंग की कमी ने मासिक किराये को ऊपर धकेला। यह प्रवृत्ति किरायेदारों पर आवास लागत का बोझ बढ़ा सकती है और सियोल के बाहरी किराया बाजार में कीमतों का स्तर ऊंचा कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sewa Mahal Gangbuk Melonjak, Kontrak di Atas 1 Juta Won Naik ke 41%",
-        "excerpt": "Kontrak sewa bulanan di atas 1 juta won meningkat cepat di pinggiran Seoul dan Gangbuk-gu, dengan kekurangan unit disebut mendorong kenaikan harga sewa.",
-        "body": "Kontrak sewa bulanan bernilai tinggi, di atas 1 juta won, meningkat cepat di wilayah pinggiran Seoul, terutama Gangbuk-gu. Menurut mk.co.kr, porsi kontrak sewa bulanan di atas 1 juta won di Gangbuk-gu melonjak dari 29% menjadi 41% dalam satu tahun. Tren sewa mahal yang sebelumnya terkonsentrasi di Gangnam kini menyebar ke wilayah non-Gangnam. Latar belakangnya adalah kekurangan unit sewa bulanan yang tersedia. Dengan pasokan terbatas dan permintaan penyewa yang berlanjut, kelangkaan listing disebut mendorong kenaikan harga sewa bulanan. Tren ini dapat menambah beban biaya hunian bagi penyewa dan menaikkan acuan harga di pasar sewa bulanan pinggiran Seoul. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "016e9bb687ef",
-    "slug": "건영-시행시공사업-차질-없어소비자-피해-방지-총력-143457",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T02:03:03.167Z",
-    "updatedAt": "2026-05-14T02:03:03.167Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047341",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047341",
-    "titleFingerprint": "745796b0af88e66557dc75565ea73995a46eed44",
-    "dedupKeys": [
-      "016e9bb687efc6b0a9b35ef20b9b90cd120bfb57",
-      "745796b0af88e66557dc75565ea73995a46eed44",
-      "955db42d6a1d620f13a4d3e8d6e1799730bd32b2"
-    ],
-    "imageUrl": "/images/articles/016e9bb687ef.jpg",
-    "i18n": {
-      "ko": {
-        "title": "건영, 분양권 사기사건에 “시행·시공 차질 없다” 소비자 피해 방지 총력",
-        "excerpt": "종합건설사 건영은 분양권 사기사건과 관련해 인감 위조 사기 일당을 형사고소하고 민사 손해배상 청구를 병행하며, 현장 안내와 본사 검증 절차로 소비자 피해 방지에 나섰다.",
-        "body": "종합건설사 건영은 분양권 사기사건과 관련해 시행·시공사업에는 차질이 없으며 소비자 피해 방지에 총력을 기울이겠다고 밝혔다. 회사는 인감 위조 사기 일당을 형사고소하고, 민사상 손해배상 청구도 병행 추진할 계획이다. 이번 사안에 대응해 현장 안내를 강화하고 본사 차원의 검증 절차를 실시하고 있다. 건영은 분양과 입주 절차를 정상적으로 이행하겠다는 입장을 내놨으며, 시공 협업도 지속한다는 방침이다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "Kunyoung Says Development and Construction Unaffected, Moves to Prevent Consumer Damage",
-        "excerpt": "Kunyoung said its development and construction work remains on track after a presale-rights fraud case, filing criminal complaints over forged seals and pursuing civil damages.",
-        "body": "Kunyoung, a general construction company, said its development and construction projects will not be disrupted by a presale-rights fraud case and that it is focusing on preventing consumer harm. The company has filed criminal complaints against a fraud group accused of forging corporate seals and plans to pursue civil claims for damages at the same time. In response, Kunyoung is providing on-site guidance and carrying out verification procedures through its headquarters. The company said presale and move-in procedures will proceed normally, while construction cooperation will continue. This article cites reporting from mk.co.kr."
-      },
-      "ja": {
-        "title": "建栄、分譲権詐欺事件で「施行・施工に支障なし」消費者被害防止へ対応",
-        "excerpt": "総合建設会社の建栄は、分譲権詐欺事件を受け、印鑑偽造の詐欺グループを刑事告訴し、民事損害賠償請求も並行して進める方針を示した。",
-        "body": "総合建設会社の建栄は、分譲権詐欺事件に関連し、施行・施工事業に支障はなく、消費者被害の防止に全力を挙げると明らかにした。同社は、印鑑を偽造した詐欺グループを刑事告訴し、民事上の損害賠償請求も並行して進める計画だ。今回の事案に対応するため、現場での案内を強化し、本社による検証手続きも実施している。建栄は分譲と入居の手続きを正常に履行し、施工協業も継続する方針だ。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "建荣称分售权诈骗案不影响开发施工，将全力防止消费者受损",
-        "excerpt": "综合建设公司建荣表示，针对分售权诈骗案，已刑事起诉涉嫌伪造印章的诈骗团伙，并将同步推进民事损害赔偿请求。",
-        "body": "综合建设公司建荣表示，围绕分售权诈骗案，其开发和施工业务不会受到影响，并将全力防止消费者受损。公司已对涉嫌伪造印章的诈骗团伙提起刑事控告，同时计划并行推进民事损害赔偿请求。为应对此事，建荣正在加强现场说明，并实施总部层面的验证程序。公司称，分售和入住流程将正常履行，施工合作也将继续推进。本文内容引用自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "Kunyoung afirma que sus obras no se verán afectadas y busca evitar daños a consumidores",
-        "excerpt": "Kunyoung dijo que sus proyectos de promoción y construcción siguen sin cambios tras un caso de fraude con derechos de preventa, y que presentó denuncias penales por sellos falsificados.",
-        "body": "La constructora general Kunyoung afirmó que sus negocios de promoción y construcción no sufrirán interrupciones por un caso de fraude relacionado con derechos de preventa y que concentrará sus esfuerzos en evitar perjuicios a los consumidores. La empresa presentó denuncias penales contra un grupo acusado de falsificar sellos y también planea impulsar reclamaciones civiles por daños. Como respuesta, está reforzando la orientación en las obras y aplicando procedimientos de verificación desde la sede central. Kunyoung sostuvo que los procesos de venta e ingreso se cumplirán con normalidad y que la cooperación en construcción continuará. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "Kunyoung diz que obras não terão atrasos e reforça prevenção a danos ao consumidor",
-        "excerpt": "A Kunyoung afirmou que seus projetos de incorporação e construção seguem normalmente após um caso de fraude em direitos de venda, com ações penais e civis em andamento.",
-        "body": "A construtora geral Kunyoung informou que seus negócios de incorporação e construção não serão afetados por um caso de fraude envolvendo direitos de venda e que está concentrada em evitar prejuízos aos consumidores. A empresa apresentou queixa criminal contra um grupo acusado de falsificar carimbos e também planeja buscar indenização civil por danos. Em resposta ao caso, reforça orientações nos canteiros e realiza procedimentos de verificação pela sede. A Kunyoung afirmou que os processos de venda e ocupação serão cumpridos normalmente e que a cooperação na construção continuará. O conteúdo cita reportagem de mk.co.kr."
-      },
-      "de": {
-        "title": "Kunyoung sieht keine Störung bei Projekten und will Verbraucherschäden verhindern",
-        "excerpt": "Kunyoung erklärte nach einem Betrugsfall um Vorverkaufsrechte, Entwicklung und Bau liefen planmäßig; Strafanzeigen wegen gefälschter Siegel und Zivilklagen sind vorgesehen.",
-        "body": "Das Generalbauunternehmen Kunyoung erklärte, dass seine Entwicklungs- und Bauprojekte durch einen Betrugsfall im Zusammenhang mit Vorverkaufsrechten nicht beeinträchtigt würden und dass der Schutz der Verbraucher im Mittelpunkt stehe. Das Unternehmen hat Strafanzeige gegen eine Gruppe erstattet, der die Fälschung von Siegeln vorgeworfen wird, und plant parallel zivilrechtliche Schadensersatzforderungen. Als Reaktion verstärkt Kunyoung die Hinweise vor Ort und führt Prüfverfahren über die Zentrale durch. Verkauf und Einzug sollen normal abgewickelt werden, auch die Zusammenarbeit im Bau werde fortgesetzt. Die Angaben beruhen auf einem Bericht von mk.co.kr."
-      },
-      "fr": {
-        "title": "Kunyoung assure que ses projets restent sur les rails et veut prévenir les préjudices",
-        "excerpt": "Kunyoung a déclaré que ses activités de promotion et de construction ne seraient pas perturbées par une fraude aux droits de prévente, avec plaintes pénales et recours civils.",
-        "body": "L’entreprise générale de construction Kunyoung a déclaré que ses activités de promotion et de construction ne seraient pas perturbées par une affaire de fraude liée à des droits de prévente et qu’elle mettrait tout en œuvre pour éviter des préjudices aux consommateurs. La société a déposé des plaintes pénales contre un groupe accusé de falsification de sceaux et prévoit de mener en parallèle des demandes civiles d’indemnisation. Elle renforce aussi les informations sur site et applique des procédures de vérification au siège. Kunyoung affirme que les procédures de vente et d’emménagement se poursuivront normalement et que la coopération de construction continuera. Source citée : mk.co.kr."
-      },
-      "ar": {
-        "title": "كونيونغ تؤكد عدم تعطل التطوير والبناء وتكثف حماية المستهلكين من الأضرار",
-        "excerpt": "قالت شركة كونيونغ إن أعمال التطوير والبناء ستستمر دون تعطل بعد قضية احتيال مرتبطة بحقوق البيع، مع شكاوى جنائية ومطالبات تعويض مدنية.",
-        "body": "أعلنت شركة كونيونغ العامة للإنشاءات أن قضية الاحتيال المرتبطة بحقوق البيع لن تعطل أعمال التطوير والبناء، وأنها ستبذل جهودها لمنع إلحاق الضرر بالمستهلكين. وقدمت الشركة شكاوى جنائية ضد مجموعة احتيال متهمة بتزوير الأختام، كما تعتزم المضي في مطالبات مدنية للتعويض عن الأضرار بالتوازي. وردا على القضية، تعزز الشركة الإرشادات في مواقع العمل وتنفذ إجراءات تحقق على مستوى المقر الرئيسي. وأكدت كونيونغ أن إجراءات البيع والانتقال ستنفذ بصورة طبيعية، وأن التعاون في أعمال البناء سيستمر. تستند هذه المادة إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "कुनयोंग ने कहा, विकास और निर्माण में बाधा नहीं; उपभोक्ता नुकसान रोकने पर जोर",
-        "excerpt": "कुनयोंग ने बिक्री-अधिकार धोखाधड़ी मामले के बाद कहा कि विकास और निर्माण सामान्य रहेंगे; मुहर जालसाजी पर आपराधिक शिकायत और नागरिक क्षतिपूर्ति दावे होंगे।",
-        "body": "सामान्य निर्माण कंपनी कुनयोंग ने कहा कि बिक्री-अधिकार से जुड़े धोखाधड़ी मामले के बावजूद उसके विकास और निर्माण कार्यों में कोई बाधा नहीं आएगी और कंपनी उपभोक्ताओं को नुकसान से बचाने पर पूरा ध्यान देगी। कंपनी ने मुहर जालसाजी के आरोप वाले धोखाधड़ी समूह के खिलाफ आपराधिक शिकायत दर्ज की है और साथ ही नागरिक क्षतिपूर्ति दावे भी आगे बढ़ाने की योजना है। इस मामले के जवाब में साइट पर मार्गदर्शन मजबूत किया जा रहा है और मुख्यालय स्तर पर सत्यापन प्रक्रिया लागू की जा रही है। कुनयोंग ने कहा कि बिक्री और प्रवेश प्रक्रियाएं सामान्य रूप से पूरी होंगी तथा निर्माण सहयोग जारी रहेगा। यह सामग्री mk.co.kr की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Kunyoung Pastikan Proyek Tetap Berjalan dan Fokus Cegah Kerugian Konsumen",
-        "excerpt": "Kunyoung menyatakan bisnis pengembangan dan konstruksi tidak terganggu oleh kasus penipuan hak penjualan, dengan laporan pidana dan gugatan ganti rugi perdata.",
-        "body": "Perusahaan konstruksi umum Kunyoung menyatakan bahwa bisnis pengembangan dan konstruksinya tidak akan terganggu oleh kasus penipuan terkait hak penjualan, serta akan berfokus mencegah kerugian konsumen. Perusahaan telah mengajukan laporan pidana terhadap kelompok penipuan yang diduga memalsukan stempel, dan berencana menempuh klaim ganti rugi perdata secara bersamaan. Sebagai respons, Kunyoung memperkuat panduan di lokasi dan menjalankan prosedur verifikasi melalui kantor pusat. Perusahaan menyatakan proses penjualan dan hunian akan dilaksanakan secara normal, sementara kerja sama konstruksi tetap berlanjut. Isi ini mengutip laporan mk.co.kr."
       }
     }
   }
