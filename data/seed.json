@@ -1,5 +1,230 @@
 [
   {
+    "id": "0863c28e293d",
+    "slug": "축적된-데이터로-테슬라-자율주행-인파-가득-연무장길도-척척-737886",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T20:59:47.967Z",
+    "updatedAt": "2026-05-14T20:59:47.967Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927867/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927867/2",
+    "titleFingerprint": "1e5c46e66c946cd6692a5c95f5c3b59854c0968c",
+    "dedupKeys": [
+      "0863c28e293d1383caafaa81ab8704625bb04836",
+      "1e5c46e66c946cd6692a5c95f5c3b59854c0968c",
+      "2d5c966510faaf215a092cc93a2bbfba994d0a9b"
+    ],
+    "imageUrl": "/images/articles/0863c28e293d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라 자율주행 FSD, 서울 성수 연무장길 인파 속 주행 시연",
+        "excerpt": "테슬라가 13일 오후 서울 성동구 성수동 연무장길에서 감독형 자율주행 시스템 FSD로 보행자와 차량이 뒤섞인 좁은 도로를 주행하며 인지·판단 능력을 보였다.",
+        "body": "13일 오후 3시 30분 서울 성동구 성수동 연무장길에서 테슬라는 감독형 자율주행 시스템 FSD(Full Self-Driving)만으로 복잡한 도심 주행을 시연했다. 플래그십 스토어가 늘어선 이 거리는 수백 명의 인파가 몰리고 차량 두 대가 겨우 지날 만큼 좁아 보행자와 차량이 뒤섞이는 구간이다. 주행 중 사거리 보행자, 정차 화물차, 택시, 배달 오토바이 등 변수가 이어졌지만 차량은 8대 카메라의 시각 정보로 속도를 줄이거나 차선을 바꿨다. 정차한 트럭이 방향지시등을 켜자 양보했고, 급정거한 택시는 회피했다. 동승 기자는 사람이 운전하는 것보다 매끄럽다고 평가했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Tesla FSD Demonstrates Smooth Driving on Seoul’s Crowded Yeonmujang-gil",
+        "excerpt": "Tesla demonstrated its supervised Full Self-Driving system on May 13 in Seongsu-dong, Seoul, navigating a narrow street crowded with pedestrians, taxis, trucks and delivery motorcycles.",
+        "body": "At 3:30 p.m. on May 13, Tesla demonstrated its supervised Full Self-Driving system on Yeonmujang-gil in Seongsu-dong, Seongdong-gu, Seoul. The street, lined with flagship stores and packed with hundreds of pedestrians, is narrow enough that only two vehicles can barely pass. During the drive, pedestrians entering an intersection, a stopped truck, taxis and delivery motorcycles created constant variables. Using visual information from eight cameras, the vehicle slowed to yield when a parked truck signaled and changed lanes to avoid a taxi that stopped suddenly. A reporter riding along said the drive felt smoother than a human driver. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "テスラFSD、ソウル聖水の混雑した延武場ギルで走行を披露",
+        "excerpt": "テスラは13日午後、ソウル城東区聖水洞の延武場ギルで監督型自動運転システムFSDを使い、歩行者や車両が入り交じる狭い道路を走行した。",
+        "body": "13日午後3時30分、ソウル城東区聖水洞の延武場ギルで、テスラは監督型自動運転システムFSD（Full Self-Driving）だけによる都心走行を披露した。旗艦店が並ぶこの通りは数百人の人出があり、車2台がやっと通れるほど狭く、歩行者と車両が交錯する区間だ。走行中は交差点に入る歩行者、停車中の貨物車、タクシー、配達バイクなどの変数が続いたが、車両は8台のカメラによる視覚情報で減速や車線変更を行った。停車したトラックが方向指示器を出すと譲り、急停止したタクシーは回避した。同乗した記者は、人が運転するより滑らかだと評価した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "特斯拉FSD在首尔圣水延武场街人流中完成自动驾驶演示",
+        "excerpt": "特斯拉13日下午在首尔城东区圣水洞延武场街，用监督式自动驾驶系统FSD行驶于行人与车辆混杂的狭窄道路，展示识别和判断能力。",
+        "body": "13日下午3时30分，特斯拉在首尔城东区圣水洞延武场街，仅凭监督式自动驾驶系统FSD（Full Self-Driving）进行了复杂市区道路行驶演示。这条街聚集多家旗舰店，数百名行人往来，狭窄到两辆车勉强通过，是行人与车辆交织的路段。行驶过程中，路口突然出现的行人、路边停靠的货车、等待乘客的出租车以及穿行的外卖摩托车等变量不断出现。车辆依靠8个摄像头的视觉信息，在停靠卡车打转向灯时减速让行，并在发现出租车急停后自行变道避让。同车记者评价称，行驶比人类驾驶更顺畅。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Tesla FSD circula entre multitudes en Yeonmujang-gil, Seúl, durante una prueba",
+        "excerpt": "Tesla probó el 13 de mayo en Seongsu-dong, Seúl, su sistema supervisado FSD en una calle estrecha con peatones, taxis, camiones detenidos y motos de reparto.",
+        "body": "A las 15:30 del 13 de mayo, Tesla mostró en Yeonmujang-gil, Seongsu-dong, distrito de Seongdong, Seúl, una conducción urbana realizada solo con su sistema supervisado FSD (Full Self-Driving). La vía, llena de tiendas insignia y de cientos de peatones, es tan estrecha que apenas pueden pasar dos vehículos. Durante el trayecto aparecieron peatones en un cruce, un camión detenido, taxis y motos de reparto. Con la información visual de ocho cámaras, el vehículo redujo la velocidad para ceder el paso cuando un camión activó el intermitente y cambió de carril para evitar un taxi que frenó de golpe. Un periodista a bordo dijo que la conducción fue más suave que la de una persona. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Tesla FSD dirige entre multidões na Yeonmujang-gil, em Seul, em demonstração",
+        "excerpt": "A Tesla demonstrou em 13 de maio, em Seongsu-dong, Seul, o sistema supervisionado FSD em uma rua estreita com pedestres, táxis, caminhões parados e motos de entrega.",
+        "body": "Às 15h30 de 13 de maio, a Tesla demonstrou na Yeonmujang-gil, em Seongsu-dong, distrito de Seongdong, Seul, uma condução urbana feita apenas com o sistema supervisionado FSD (Full Self-Driving). A rua, repleta de lojas flagship e centenas de pedestres, é estreita a ponto de dois veículos passarem com dificuldade. Durante o trajeto, surgiram pedestres em cruzamentos, um caminhão parado, táxis e motos de entrega. Com informações visuais de oito câmeras, o veículo reduziu a velocidade para ceder quando um caminhão sinalizou e mudou de faixa para evitar um táxi que freou bruscamente. Um jornalista a bordo disse que a condução foi mais suave que a humana. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Tesla FSD fährt durch Menschenmengen auf Seouls Yeonmujang-gil",
+        "excerpt": "Tesla demonstrierte am 13. Mai in Seongsu-dong, Seoul, sein überwachtes FSD-System auf einer engen Straße mit Fußgängern, Taxis, haltenden Lastwagen und Liefermotorrädern.",
+        "body": "Am 13. Mai um 15:30 Uhr demonstrierte Tesla auf der Yeonmujang-gil in Seongsu-dong, Seongdong-gu, Seoul, eine Stadtfahrt allein mit dem überwachten System FSD (Full Self-Driving). Die Straße mit vielen Flagship-Stores ist von Hunderten Menschen belebt und so eng, dass zwei Fahrzeuge nur knapp passieren können. Während der Fahrt traten ständig Variablen auf: Fußgänger an Kreuzungen, ein haltender Lastwagen, Taxis und Liefermotorräder. Auf Basis der visuellen Daten von acht Kameras verringerte das Fahrzeug die Geschwindigkeit, als ein stehender Lastwagen blinkte, und wechselte die Spur, um einem plötzlich bremsenden Taxi auszuweichen. Ein mitfahrender Reporter bewertete die Fahrt als deutlich sanfter als menschliches Fahren. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Tesla FSD roule dans la foule sur Yeonmujang-gil à Séoul lors d’une démonstration",
+        "excerpt": "Tesla a montré le 13 mai à Seongsu-dong, Séoul, son système supervisé FSD sur une rue étroite mêlant piétons, taxis, camions arrêtés et motos de livraison.",
+        "body": "Le 13 mai à 15 h 30, Tesla a réalisé sur Yeonmujang-gil, à Seongsu-dong dans l’arrondissement de Seongdong à Séoul, une démonstration de conduite urbaine avec le seul système supervisé FSD (Full Self-Driving). Bordée de magasins phares et fréquentée par des centaines de piétons, la rue est si étroite que deux véhicules y passent difficilement. Pendant le trajet, des piétons à une intersection, un camion arrêté, des taxis et des motos de livraison ont multiplié les variables. Grâce aux informations visuelles de huit caméras, le véhicule a ralenti pour céder le passage lorsqu’un camion a mis son clignotant, puis changé de voie pour éviter un taxi qui freinait brusquement. Un journaliste à bord a jugé la conduite plus fluide qu’une conduite humaine. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تسلا FSD تقود وسط الزحام في شارع يونموجانغ بسول خلال عرض عملي",
+        "excerpt": "عرضت تسلا في 13 مايو بمنطقة سيونغسو دونغ في سول نظامها الخاضع للإشراف FSD على طريق ضيق يختلط فيه المشاة بالمركبات وسيارات الأجرة والشاحنات ودراجات التوصيل.",
+        "body": "في الساعة 3:30 بعد ظهر 13 مايو، عرضت تسلا في شارع يونموجانغ بمنطقة سيونغسو دونغ في حي سيونغدونغ بسول قيادة حضرية اعتمادا على نظام القيادة الذاتية الخاضع للإشراف FSD فقط. الشارع تصطف فيه متاجر رئيسية ويزدحم بمئات المشاة، وهو ضيق إلى حد لا تمر فيه سيارتان إلا بصعوبة. أثناء الرحلة ظهرت متغيرات متواصلة، منها مشاة عند التقاطعات، وشاحنة متوقفة، وسيارات أجرة، ودراجات توصيل. وباستخدام معلومات بصرية من ثماني كاميرات، خففت السيارة سرعتها عندما شغلت شاحنة متوقفة إشارة الانعطاف، ثم غيرت المسار لتجنب سيارة أجرة توقفت فجأة. وقال صحفي كان داخل السيارة إن القيادة بدت أكثر سلاسة من قيادة الإنسان. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "टेस्ला FSD ने सियोल की भीड़भरी योनमुजांग-गिल सड़क पर ड्राइविंग दिखाई",
+        "excerpt": "टेस्ला ने 13 मई को सियोल के सोंगसू-दोंग में सुपरवाइज्ड FSD प्रणाली से पैदल यात्रियों, टैक्सियों, रुके ट्रकों और डिलीवरी मोटरसाइकिलों वाली संकरी सड़क पर ड्राइव किया।",
+        "body": "13 मई को दोपहर 3:30 बजे, टेस्ला ने सियोल के सोंगडोंग-गु स्थित सोंगसू-दोंग की योनमुजांग-गिल सड़क पर केवल सुपरवाइज्ड FSD (Full Self-Driving) प्रणाली से शहरी ड्राइविंग का प्रदर्शन किया। फ्लैगशिप स्टोरों से घिरी यह सड़क सैकड़ों पैदल यात्रियों से भरी थी और इतनी संकरी थी कि दो वाहन मुश्किल से गुजर सकते थे। यात्रा के दौरान चौराहे पर पैदल यात्री, रुका हुआ ट्रक, टैक्सियां और डिलीवरी मोटरसाइकिलें लगातार सामने आईं। आठ कैमरों की दृश्य जानकारी से वाहन ने संकेत देने वाले रुके ट्रक को रास्ता देने के लिए गति घटाई और अचानक रुकी टैक्सी से बचने के लिए लेन बदली। साथ बैठे पत्रकार ने कहा कि ड्राइविंग मानव चालक से अधिक सहज लगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tesla FSD Melaju di Tengah Keramaian Yeonmujang-gil Seoul dalam Uji Coba",
+        "excerpt": "Tesla pada 13 Mei mendemonstrasikan sistem FSD terawasi di Seongsu-dong, Seoul, melewati jalan sempit yang dipenuhi pejalan kaki, taksi, truk berhenti, dan motor pengantar.",
+        "body": "Pada 13 Mei pukul 15.30, Tesla mendemonstrasikan perjalanan perkotaan di Yeonmujang-gil, Seongsu-dong, Seongdong-gu, Seoul, hanya dengan sistem terawasi FSD (Full Self-Driving). Jalan yang dipenuhi toko flagship dan ratusan pejalan kaki itu sangat sempit, sehingga dua kendaraan nyaris tidak dapat berpapasan. Selama perjalanan, muncul banyak variabel seperti pejalan kaki di persimpangan, truk yang berhenti, taksi, dan motor pengantar. Berdasarkan informasi visual dari delapan kamera, kendaraan memperlambat laju untuk memberi jalan saat truk berhenti menyalakan lampu sein, lalu berpindah jalur untuk menghindari taksi yang berhenti mendadak. Reporter yang ikut menumpang menilai laju kendaraan lebih mulus daripada pengemudi manusia. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "a5b2f9fc5de3",
+    "slug": "귀여운-잉어킹이-30만원-포켓몬-카드-재테크-열풍-유통가-달군다-574652",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T20:58:39.741Z",
+    "updatedAt": "2026-05-14T20:58:39.741Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928171/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928171/1",
+    "titleFingerprint": "9014bff09309ecb00728e1f723ee03415904fad5",
+    "dedupKeys": [
+      "a5b2f9fc5de339dd72a06967eef83dec585eaddf",
+      "9014bff09309ecb00728e1f723ee03415904fad5",
+      "01cce521b90d82561cbe9a308dca891330201741"
+    ],
+    "imageUrl": "/images/articles/a5b2f9fc5de3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "포켓몬 카드 재테크 열풍, 잉어킹 프로모 카드 30만원 거래에 유통가 주목",
+        "excerpt": "포켓몬스터 30주년 열기가 서울 성수동 행사와 리셀 시장으로 확산되며 편의점·이커머스·한정판 플랫폼이 MZ세대 어른이 소비층 공략에 속도를 내고 있다.",
+        "body": "포켓몬스터 30주년 열기가 유통업계 전반으로 번지고 있다. 관련 업계에 따르면 지난 1일 서울 성동구 성수동과 서울숲 일대에서 열린 ‘포켓몬 메가 페스타 2026’에는 14만명 이상이 몰렸다. 포켓몬 코리아가 ‘잉어킹 프로모 카드’를 제공하는 행사를 진행했지만 새벽부터 인파가 집중되며 경찰이 현장 통제에 나섰고, 결국 행사는 취소됐다. 현장 배포가 중단된 직후 30주년 기념 ‘잉어킹 프로모 카드’는 중고 거래 시장에서 30만원 안팎에 거래되기 시작했으며 일부 판매 호가는 50만원을 넘었다. 희소성이 팬덤 소비를 리셀 수요로 이어지게 한 셈이다. 편의점, 리셀 플랫폼, 이커머스 업체들은 포켓몬을 비롯한 캐릭터 지식재산(IP)을 앞세워 MZ세대 ‘어른이’ 소비층 공략에 속도를 내고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Pokemon Card Investment Craze Grows as Magikarp Promo Trades Near 300,000 Won",
+        "excerpt": "Pokemon’s 30th anniversary fever spread from a Seongsu event to resale markets, pushing convenience stores, e-commerce firms and limited-edition platforms toward MZ adult fans.",
+        "body": "Pokemon’s 30th anniversary momentum is spreading across the retail industry. According to industry sources on the 15th, more than 140,000 people gathered on the 1st around Seongsu-dong and Seoul Forest in Seongdong-gu, Seoul, for ‘Pokemon Mega Festa 2026.’ Pokemon Korea planned to hand out a ‘Magikarp promo card,’ but crowds formed from early morning, police moved in to control the site, and the event was ultimately canceled. Soon after on-site distribution stopped, the 30th-anniversary Magikarp promo card began trading for around 300,000 won in secondhand markets, with some asking prices topping 500,000 won. Scarcity quickly turned fandom spending into resale demand. Convenience stores, resale platforms and e-commerce companies are accelerating efforts to attract MZ-generation adult consumers through character IP such as Pokemon. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ポケモンカード投資熱、コイキングプロモが30万ウォン前後で取引",
+        "excerpt": "ポケットモンスター30周年の熱気が聖水洞イベントからリセル市場へ広がり、コンビニやEC、限定品プラットフォームがMZ世代の大人ファン攻略を急いでいる。",
+        "body": "ポケットモンスター30周年の熱気が流通業界全体に広がっている。関連業界によると、1日にソウル市城東区の聖水洞とソウルの森一帯で開かれた「ポケモンメガフェスタ2026」には14万人以上が集まった。ポケモンコリアは「コイキングプロモカード」を提供するイベントを行ったが、早朝から人出が集中し、警察が現場統制に乗り出したため、最終的にイベントは中止された。現場配布が中断された直後、30周年記念のコイキングプロモカードは中古取引市場で30万ウォン前後で取引され始め、一部の販売希望価格は50万ウォンを超えた。希少性がファンダム消費をすぐにリセル需要へつなげた形だ。コンビニ、リセルプラットフォーム、EC企業は、ポケモンをはじめとするキャラクターIPを前面に出し、MZ世代の“大人ファン”消費層の攻略を加速している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "宝可梦卡牌理财热升温，鲤鱼王宣传卡约30万韩元成交",
+        "excerpt": "宝可梦30周年热潮从首尔圣水洞活动延伸至二手交易市场，便利店、电商和限量交易平台正加速争夺MZ世代成年粉丝消费群。",
+        "body": "宝可梦30周年热潮正在扩散至整个零售行业。据相关业界15日消息，1日在首尔城东区圣水洞和首尔林一带举行的“Pokemon Mega Festa 2026”吸引了超过14万人到场。Pokemon Korea原计划发放“鲤鱼王宣传卡”，但从清晨起人群大量聚集，警方介入现场管控，活动最终被取消。现场发放中断后，这张30周年纪念“鲤鱼王宣传卡”很快在二手交易市场以约30万韩元成交，部分卖家报价甚至超过50万韩元。稀缺性使粉丝消费迅速转化为转售需求。便利店、转售平台和电商企业正借助宝可梦等角色知识产权（IP），加快吸引MZ世代“成年儿童”消费群。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Fiebre por invertir en cartas Pokemon: Magikarp promo ronda los 300.000 wones",
+        "excerpt": "El 30 aniversario de Pokemon llevó multitudes a Seongsu y activó el mercado de reventa, mientras tiendas, e-commerce y plataformas limitadas buscan a fans adultos MZ.",
+        "body": "La fiebre por el 30 aniversario de Pokemon se está extendiendo por el sector minorista. Según fuentes del sector citadas el día 15, más de 140.000 personas acudieron el día 1 a la zona de Seongsu-dong y Seoul Forest, en Seongdong-gu, Seúl, para el ‘Pokemon Mega Festa 2026’. Pokemon Korea organizó una entrega de la ‘carta promocional de Magikarp’, pero la multitud se concentró desde la madrugada, la policía intervino para controlar el lugar y el evento terminó cancelado. Justo después de suspenderse la distribución presencial, la carta conmemorativa del 30 aniversario empezó a negociarse en mercados de segunda mano por alrededor de 300.000 wones, y algunas ofertas superaron los 500.000 wones. La escasez convirtió rápidamente el consumo de fandom en demanda de reventa. Tiendas de conveniencia, plataformas de reventa y empresas de comercio electrónico aceleran su estrategia hacia consumidores adultos de la generación MZ mediante IP de personajes como Pokemon. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Febre de investimento em cartas Pokemon cresce com Magikarp a 300 mil won",
+        "excerpt": "O 30º aniversário de Pokemon levou multidões a Seongsu e movimentou a revenda, enquanto lojas, e-commerce e plataformas limitadas miram fãs adultos da geração MZ.",
+        "body": "A empolgação pelo 30º aniversário de Pokemon está se espalhando pelo varejo. Segundo fontes do setor no dia 15, mais de 140 mil pessoas se reuniram no dia 1º na região de Seongsu-dong e Seoul Forest, em Seongdong-gu, Seul, para o ‘Pokemon Mega Festa 2026’. A Pokemon Korea organizou uma ação para distribuir o ‘cartão promocional Magikarp’, mas a multidão começou a se concentrar desde a madrugada, a polícia passou a controlar o local e o evento acabou cancelado. Logo após a suspensão da distribuição presencial, o cartão comemorativo de 30 anos começou a ser negociado em mercados de segunda mão por cerca de 300 mil won, com algumas ofertas acima de 500 mil won. A escassez transformou rapidamente o consumo de fãs em demanda de revenda. Lojas de conveniência, plataformas de revenda e empresas de e-commerce aceleram a abordagem ao público adulto da geração MZ com IPs de personagens como Pokemon. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Pokemon-Karten als Anlage: Magikarp-Promokarte kostet rund 300.000 Won",
+        "excerpt": "Die Pokemon-Feier zum 30. Jubiläum erreichte Seongsu und den Wiederverkaufsmarkt; Convenience-Stores, E-Commerce und Limited-Plattformen zielen auf erwachsene MZ-Fans.",
+        "body": "Die Begeisterung zum 30. Jubiläum von Pokemon breitet sich in der gesamten Handelsbranche aus. Branchenangaben vom 15. zufolge kamen am 1. mehr als 140.000 Menschen zum ‘Pokemon Mega Festa 2026’ rund um Seongsu-dong und Seoul Forest im Seouler Bezirk Seongdong-gu. Pokemon Korea wollte eine ‘Magikarp-Promokarte’ ausgeben, doch schon ab dem frühen Morgen sammelten sich große Menschenmengen, die Polizei kontrollierte das Gelände, und die Veranstaltung wurde schließlich abgesagt. Direkt nach dem Stopp der Vor-Ort-Verteilung wurde die Magikarp-Karte zum 30. Jubiläum auf Gebrauchtmärkten für rund 300.000 Won gehandelt; einige Angebotspreise lagen über 500.000 Won. Die Knappheit verwandelte Fan-Konsum unmittelbar in Wiederverkaufsnachfrage. Convenience-Stores, Resale-Plattformen und E-Commerce-Unternehmen verstärken nun ihre Ansprache erwachsener MZ-Konsumenten über Charakter-IP wie Pokemon. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Fièvre des cartes Pokemon: la promo Magikarp s’échange près de 300.000 wons",
+        "excerpt": "Le 30e anniversaire de Pokemon a attiré une foule à Seongsu et stimulé la revente, tandis que commerces, e-commerce et plateformes limitées ciblent les adultes MZ.",
+        "body": "L’engouement pour le 30e anniversaire de Pokemon gagne l’ensemble de la distribution. Selon des sources du secteur citées le 15, plus de 140.000 personnes se sont rendues le 1er autour de Seongsu-dong et de Seoul Forest, dans l’arrondissement de Seongdong-gu à Séoul, pour le ‘Pokemon Mega Festa 2026’. Pokemon Korea avait prévu de distribuer une ‘carte promotionnelle Magikarp’, mais la foule s’est massée dès l’aube, la police a dû contrôler le site et l’événement a finalement été annulé. Aussitôt après l’arrêt de la distribution sur place, la carte Magikarp du 30e anniversaire a commencé à se vendre autour de 300.000 wons sur le marché de l’occasion, certaines offres dépassant 500.000 wons. La rareté a transformé la consommation de fans en demande de revente. Supérettes, plateformes de revente et acteurs du e-commerce accélèrent leur offensive auprès des adultes de la génération MZ grâce aux IP de personnages comme Pokemon. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "حمى الاستثمار في بطاقات بوكيمون تتصاعد مع تداول ماجيكارب قرب 300 ألف وون",
+        "excerpt": "امتدت أجواء الذكرى الثلاثين لبوكيمون من فعالية سيونغسو إلى سوق إعادة البيع، فيما تسرع المتاجر والمنصات الإلكترونية لاستهداف البالغين من جيل MZ.",
+        "body": "تنتشر حمى الذكرى الثلاثين لبوكيمون في قطاع التجزئة الكوري. وبحسب مصادر في الصناعة في يوم 15، تجمع أكثر من 140 ألف شخص في يوم 1 في منطقة سيونغسو دونغ ومحيط غابة سيول في حي سيونغدونغ بسيول لحضور ‘Pokemon Mega Festa 2026’. وكانت Pokemon Korea تعتزم تقديم ‘بطاقة ماجيكارب الترويجية’، لكن الحشود بدأت تتجمع منذ الفجر، فتدخلت الشرطة لتنظيم الموقع، وانتهى الأمر بإلغاء الفعالية. وبعد توقف التوزيع الميداني مباشرة، بدأ تداول بطاقة ماجيكارب التذكارية للذكرى الثلاثين في أسواق السلع المستعملة بنحو 300 ألف وون، وتجاوزت بعض أسعار العرض 500 ألف وون. وأدت الندرة إلى تحويل إنفاق المعجبين بسرعة إلى طلب على إعادة البيع. وتسرع متاجر البقالة ومنصات إعادة البيع وشركات التجارة الإلكترونية جهودها لاستهداف المستهلكين البالغين من جيل MZ عبر حقوق الملكية الفكرية لشخصيات مثل بوكيمون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Pokemon कार्ड निवेश की लहर, Magikarp प्रोमो कार्ड 3 लाख वॉन के आसपास बिका",
+        "excerpt": "Pokemon की 30वीं वर्षगांठ का उत्साह Seongsu कार्यक्रम से रीसेल बाजार तक फैल गया, जबकि स्टोर, ई-कॉमर्स और लिमिटेड प्लेटफॉर्म MZ वयस्क प्रशंसकों पर फोकस कर रहे हैं।",
+        "body": "Pokemon की 30वीं वर्षगांठ का उत्साह पूरे रिटेल उद्योग में फैल रहा है। संबंधित उद्योग के अनुसार, 1 तारीख को सियोल के Seongdong-gu स्थित Seongsu-dong और Seoul Forest क्षेत्र में हुए ‘Pokemon Mega Festa 2026’ में 1,40,000 से अधिक लोग पहुंचे। Pokemon Korea ने ‘Magikarp promo card’ देने का कार्यक्रम रखा था, लेकिन सुबह तड़के से भीड़ जुटने लगी, पुलिस को स्थल नियंत्रण में लगना पड़ा और अंततः कार्यक्रम रद्द कर दिया गया। स्थल पर वितरण रुकते ही 30वीं वर्षगांठ वाला Magikarp promo card सेकेंडहैंड बाजार में लगभग 3,00,000 वॉन पर बिकने लगा, जबकि कुछ विक्रेताओं की मांग 5,00,000 वॉन से ऊपर पहुंची। दुर्लभता ने फैनडम खपत को तुरंत रीसेल मांग में बदल दिया। कन्वीनियंस स्टोर, रीसेल प्लेटफॉर्म और ई-कॉमर्स कंपनियां Pokemon सहित कैरेक्टर IP के जरिए MZ पीढ़ी के ‘वयस्क बच्चे’ उपभोक्ताओं तक पहुंच तेज कर रही हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tren Investasi Kartu Pokemon Memanas, Promo Magikarp Tembus 300 Ribu Won",
+        "excerpt": "Demam ulang tahun ke-30 Pokemon menyebar dari acara Seongsu ke pasar resale, sementara minimarket, e-commerce, dan platform edisi terbatas membidik konsumen dewasa MZ.",
+        "body": "Antusiasme ulang tahun ke-30 Pokemon menyebar ke seluruh industri ritel. Menurut kalangan industri pada tanggal 15, lebih dari 140.000 orang memadati area Seongsu-dong dan Seoul Forest di Seongdong-gu, Seoul, pada tanggal 1 untuk menghadiri ‘Pokemon Mega Festa 2026’. Pokemon Korea menggelar acara pemberian ‘kartu promo Magikarp’, tetapi kerumunan sudah terkonsentrasi sejak dini hari, polisi turun mengendalikan lokasi, dan acara akhirnya dibatalkan. Segera setelah distribusi di tempat dihentikan, kartu promo Magikarp peringatan 30 tahun mulai diperdagangkan di pasar barang bekas sekitar 300.000 won, dengan sebagian harga penawaran melampaui 500.000 won. Kelangkaan langsung mengubah konsumsi fandom menjadi permintaan resale. Minimarket, platform resale, dan perusahaan e-commerce mempercepat strategi menjangkau konsumen ‘kidult’ generasi MZ melalui IP karakter seperti Pokemon. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "60bcfee9ab2f",
+    "slug": "집-안-사고-월세-산다서울-초고가-월세-30-급증-457229",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T20:57:25.720Z",
+    "updatedAt": "2026-05-14T20:57:25.720Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928176/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928176/1",
+    "titleFingerprint": "1ab2778b68bd1a3dcb9a04e63748ac9e1102bbd7",
+    "dedupKeys": [
+      "60bcfee9ab2f312866f7b0b7386d8c3a2418fbdf",
+      "1ab2778b68bd1a3dcb9a04e63748ac9e1102bbd7",
+      "8af6c73e7fa8a6dbed61e83efb65bc48fa880c27"
+    ],
+    "imageUrl": "/images/articles/60bcfee9ab2f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 초고가 월세 27.8% 증가…강남·용산 중심 1000만원 이상 계약 급증",
+        "excerpt": "올해 1~4월 서울에서 월세 1000만원 이상 아파트 임대차 계약이 92건으로 전년 동기보다 27.8% 늘며 강남·용산·서초 핵심지에 집중됐다.",
+        "body": "올해 1~4월 서울에서 월세 1000만원 이상 초고가 아파트 임대차 계약이 강남·용산구를 중심으로 늘어난 것으로 나타났다. 14일 국토교통부 실거래 통계에 따르면 해당 기간 서울의 월세 1000만원 이상 아파트 임대차 계약은 92건으로, 지난해 같은 기간 72건보다 27.8% 증가했다. 계약갱신은 18건으로 전년 동기 10건보다 8건 늘었고, 갱신요구권 사용 사례도 8건으로 지난해 1건보다 7건 증가했다. 신고기한이 한 달인 만큼 이달 말까지 집계되면 규모는 더 커질 수 있다. 전체 92건 중 63건, 68.5%는 용산·강남·서초 핵심지 대형 평형에 몰렸다. 보유세와 관리 부담이 커지며 고액 자산가 사이에서도 매입보다 월세 거주와 현금 운용을 택하는 흐름이 확산한다는 분석이 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Seoul luxury monthly rents up 27.8% as contracts over 10 million won surge",
+        "excerpt": "From January to April, Seoul recorded 92 apartment leases with monthly rent above 10 million won, up 27.8% year on year and concentrated in Gangnam, Yongsan and Seocho.",
+        "body": "From January to April this year, ultra-high monthly apartment leases above 10 million won increased in Seoul, mainly in Gangnam and Yongsan. According to Ministry of Land, Infrastructure and Transport transaction data cited on the 14th, Seoul logged 92 such apartment lease contracts, up 27.8% from 72 in the same period last year. Renewed contracts rose to 18 from 10, while cases using the lease renewal request right increased to 8 from 1. Because real estate contract reporting has a one-month deadline, the total may grow when figures are tallied through the end of this month. Of the 92 contracts, 63, or 68.5%, were large units in prime areas of Yongsan, Gangnam and Seocho. Analysts say rising ownership taxes and management burdens are leading some wealthy residents to rent instead of buy while managing cash. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ソウル超高額月租が27.8%増、月1000万ウォン超契約が急増",
+        "excerpt": "今年1〜4月、ソウルの月1000万ウォン以上のマンション賃貸契約は92件となり、前年同期比27.8%増加し江南・龍山・瑞草に集中した。",
+        "body": "今年1〜4月、ソウルで月額1000万ウォン以上の超高額マンション賃貸契約が、江南区と龍山区を中心に増えたことが分かった。14日の国土交通部実取引統計によると、同期間のソウルにおける該当契約は92件で、前年同期の72件から27.8%増加した。契約更新は18件で前年同期の10件より8件増え、更新要求権を使った事例も8件と前年の1件から7件増えた。不動産取引契約の申告期限が1カ月であるため、今月末まで集計されれば規模はさらに増える可能性がある。92件のうち63件、68.5%は龍山・江南・瑞草の中心地にある大型住戸だった。保有税や管理負担の増加を背景に、高額資産家の間でも購入より月租で住み、現金を運用する流れが広がっているとの分析が出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "首尔超高价月租增长27.8%，千万韩元以上租约集中核心区",
+        "excerpt": "今年1至4月，首尔月租1000万韩元以上公寓租赁合同达92件，同比增加27.8%，主要集中在江南、龙山和瑞草核心区域。",
+        "body": "今年1至4月，首尔月租1000万韩元以上的超高价公寓租赁合同以江南区和龙山区为中心明显增加。据14日国土交通部实际交易统计，同期首尔此类公寓租赁合同为92件，较去年同期72件增加27.8%。其中续约合同为18件，比去年同期10件增加8件；使用续约要求权的案例为8件，也比去年同期1件增加7件。由于房地产交易合同申报期限为一个月，若统计至本月底，整体规模可能进一步扩大。92件合同中有63件，占68.5%，位于龙山、江南、瑞草核心地段的大户型。分析认为，随着持有税和管理负担加重，高资产人群中也出现了不直接购房、选择月租居住并运用现金的趋势。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Alquileres de lujo en Seúl suben 27,8% con contratos sobre 10 millones de wones",
+        "excerpt": "Entre enero y abril, Seúl registró 92 contratos de apartamentos con alquiler mensual superior a 10 millones de wones, un 27,8% más, concentrados en Gangnam, Yongsan y Seocho.",
+        "body": "Entre enero y abril de este año, aumentaron en Seúl los contratos de apartamentos con alquiler mensual superior a 10 millones de wones, sobre todo en Gangnam y Yongsan. Según las estadísticas de transacciones reales del Ministerio de Tierra, Infraestructura y Transporte citadas el día 14, se registraron 92 contratos de este tipo, un 27,8% más que los 72 del mismo periodo del año pasado. Las renovaciones fueron 18, frente a 10 un año antes, y los casos que usaron el derecho de solicitud de renovación subieron a 8 desde 1. Como el plazo de declaración de contratos inmobiliarios es de un mes, el total podría aumentar cuando se complete el recuento a fin de mes. De los 92 contratos, 63, el 68,5%, correspondieron a unidades grandes en zonas clave de Yongsan, Gangnam y Seocho. El análisis señala que mayores impuestos de tenencia y cargas de gestión llevan a algunos grandes patrimonios a alquilar en vez de comprar y a gestionar efectivo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Aluguéis de luxo em Seul sobem 27,8% com contratos acima de 10 milhões de won",
+        "excerpt": "De janeiro a abril, Seul registrou 92 contratos de apartamentos com aluguel mensal acima de 10 milhões de won, alta anual de 27,8%, concentrados em Gangnam, Yongsan e Seocho.",
+        "body": "De janeiro a abril deste ano, cresceram em Seul os contratos de aluguel mensal de apartamentos acima de 10 milhões de won, principalmente em Gangnam e Yongsan. Segundo estatísticas de transações reais do Ministério da Terra, Infraestrutura e Transportes citadas no dia 14, foram registrados 92 contratos desse tipo, alta de 27,8% ante 72 no mesmo período do ano passado. As renovações chegaram a 18, contra 10 um ano antes, e os casos com uso do direito de solicitar renovação subiram de 1 para 8. Como o prazo de declaração de contratos imobiliários é de um mês, o total pode aumentar quando a apuração chegar ao fim do mês. Dos 92 contratos, 63, ou 68,5%, foram unidades grandes em áreas centrais de Yongsan, Gangnam e Seocho. A análise aponta que impostos de posse e custos de gestão maiores levam alguns ricos a morar de aluguel em vez de comprar e a administrar caixa. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Luxusmieten in Seoul steigen 27,8%: Verträge über 10 Mio. Won nehmen zu",
+        "excerpt": "Von Januar bis April wurden in Seoul 92 Apartmentmietverträge über mehr als 10 Millionen Won pro Monat gemeldet, 27,8% mehr als im Vorjahr und gebündelt in Gangnam, Yongsan und Seocho.",
+        "body": "Von Januar bis April dieses Jahres haben in Seoul die extrem teuren Apartmentmietverträge mit Monatsmieten über 10 Millionen Won zugenommen, vor allem in Gangnam und Yongsan. Nach den am 14. genannten Echttransaktionsdaten des Ministeriums für Land, Infrastruktur und Verkehr wurden 92 solcher Verträge gezählt, 27,8% mehr als die 72 im Vorjahreszeitraum. Vertragsverlängerungen stiegen von 10 auf 18, Fälle mit Nutzung des Verlängerungsrechts von 1 auf 8. Da Immobilienverträge innerhalb eines Monats gemeldet werden müssen, könnte die Gesamtzahl bei der Erfassung bis Monatsende weiter steigen. Von den 92 Verträgen entfielen 63, also 68,5%, auf große Einheiten in Kernlagen von Yongsan, Gangnam und Seocho. Als Hintergrund wird analysiert, dass höhere Besitzsteuern und Verwaltungslasten auch vermögende Haushalte eher zum Mieten statt Kaufen und zur Liquiditätssteuerung bewegen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Loyers de luxe à Séoul en hausse de 27,8% au-delà de 10 millions de wons",
+        "excerpt": "De janvier à avril, Séoul a compté 92 baux d’appartements à plus de 10 millions de wons par mois, en hausse de 27,8%, surtout à Gangnam, Yongsan et Seocho.",
+        "body": "De janvier à avril cette année, les baux d’appartements à très haut loyer, supérieurs à 10 millions de wons par mois, ont augmenté à Séoul, principalement à Gangnam et Yongsan. Selon les statistiques de transactions réelles du ministère du Territoire, des Infrastructures et des Transports citées le 14, 92 contrats ont été recensés, soit 27,8% de plus que les 72 de la même période l’an dernier. Les renouvellements sont passés de 10 à 18, tandis que les cas utilisant le droit de demande de renouvellement sont montés de 1 à 8. Le délai de déclaration des contrats immobiliers étant d’un mois, le total pourrait encore augmenter avec le décompte de fin de mois. Sur 92 contrats, 63, soit 68,5%, concernaient de grands logements dans les secteurs clés de Yongsan, Gangnam et Seocho. L’analyse évoque des taxes de détention et charges de gestion accrues, poussant certains hauts patrimoines à louer plutôt qu’acheter et à gérer leur trésorerie. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إيجارات سيول الفاخرة ترتفع 27.8% وعقود فوق 10 ملايين وون تتزايد",
+        "excerpt": "من يناير إلى أبريل، سجلت سيول 92 عقد إيجار شقق يتجاوز 10 ملايين وون شهريا، بزيادة 27.8% عن العام السابق، وتركزت في جانغنام ويونغسان وسوتشو.",
+        "body": "من يناير إلى أبريل هذا العام، زادت في سيول عقود إيجار الشقق فائقة الارتفاع التي تتجاوز 10 ملايين وون شهريا، خصوصا في جانغنام ويونغسان. ووفقا لإحصاءات الصفقات الفعلية الصادرة عن وزارة الأراضي والبنية التحتية والنقل والمذكورة في 14 من الشهر، بلغ عدد هذه العقود 92 عقدا، بزيادة 27.8% عن 72 عقدا في الفترة نفسها من العام الماضي. وارتفعت عقود التجديد إلى 18 من 10، كما زادت حالات استخدام حق طلب التجديد إلى 8 من حالة واحدة. وبما أن مهلة الإبلاغ عن عقود العقارات شهر واحد، فقد يكبر الحجم الإجمالي عند اكتمال الإحصاء بنهاية هذا الشهر. ومن بين 92 عقدا، وقع 63 عقدا، أي 68.5%، في وحدات كبيرة بالمناطق الرئيسية في يونغسان وجانغنام وسوتشو. وتشير التحليلات إلى أن ارتفاع ضريبة التملك وأعباء الإدارة يدفع بعض أصحاب الثروات إلى السكن بالإيجار بدلا من الشراء مع إدارة السيولة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सियोल में लग्जरी मासिक किराया 27.8% बढ़ा, 1 करोड़ वॉन से ऊपर सौदे तेज",
+        "excerpt": "जनवरी से अप्रैल तक सियोल में 1 करोड़ वॉन से अधिक मासिक किराए वाले अपार्टमेंट लीज 92 रहे, जो सालाना 27.8% अधिक हैं और गंगनम, योंगसान, सेचो में केंद्रित हैं।",
+        "body": "इस वर्ष जनवरी से अप्रैल तक सियोल में 1 करोड़ वॉन से अधिक मासिक किराए वाले अति महंगे अपार्टमेंट लीज अनुबंध गंगनम और योंगसान को केंद्र में रखकर बढ़े। 14 तारीख को उद्धृत भूमि, अवसंरचना और परिवहन मंत्रालय के वास्तविक लेनदेन आंकड़ों के अनुसार, ऐसे अनुबंध 92 रहे, जो पिछले वर्ष की समान अवधि के 72 से 27.8% अधिक हैं। अनुबंध नवीनीकरण 10 से बढ़कर 18 हुए, जबकि नवीनीकरण अनुरोध अधिकार का उपयोग करने के मामले 1 से बढ़कर 8 हो गए। रियल एस्टेट अनुबंध रिपोर्टिंग की समयसीमा एक महीना होने से, इस महीने के अंत तक गिनती पूरी होने पर कुल आकार और बढ़ सकता है। 92 में से 63 अनुबंध, यानी 68.5%, योंगसान, गंगनम और सेचो के प्रमुख इलाकों की बड़ी इकाइयों में थे। विश्लेषण है कि स्वामित्व कर और प्रबंधन बोझ बढ़ने से धनी लोगों में भी खरीदने के बजाय किराए पर रहने और नकदी चलाने की प्रवृत्ति फैल रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Sewa mewah Seoul naik 27,8%, kontrak di atas 10 juta won melonjak",
+        "excerpt": "Pada Januari-April, Seoul mencatat 92 kontrak apartemen dengan sewa bulanan di atas 10 juta won, naik 27,8% tahunan dan terkonsentrasi di Gangnam, Yongsan, serta Seocho.",
+        "body": "Pada Januari hingga April tahun ini, kontrak sewa apartemen supermahal di Seoul dengan biaya bulanan di atas 10 juta won meningkat, terutama di Gangnam dan Yongsan. Menurut statistik transaksi riil Kementerian Pertanahan, Infrastruktur, dan Transportasi yang dikutip pada tanggal 14, terdapat 92 kontrak semacam itu, naik 27,8% dari 72 pada periode yang sama tahun lalu. Kontrak perpanjangan naik menjadi 18 dari 10, sementara kasus penggunaan hak permintaan perpanjangan meningkat menjadi 8 dari 1. Karena tenggat pelaporan kontrak properti adalah satu bulan, jumlah keseluruhan dapat bertambah saat penghitungan dilakukan hingga akhir bulan ini. Dari 92 kontrak, 63 atau 68,5% berada pada unit besar di area utama Yongsan, Gangnam, dan Seocho. Analisis menyebut beban pajak kepemilikan dan pengelolaan yang meningkat membuat sebagian orang kaya memilih menyewa daripada membeli sambil mengelola kas. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "4752bc5b4d7d",
     "slug": "트럼프-무역-협력-확대되길-시진핑-中부흥-마가-양립-가능-581087",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Transaksi Apartemen Busan Naik 21,9%, Doosan We’ve Buka Show Unit 15 Mei",
         "excerpt": "Doosan E&C akan membuka rumah contoh Doosan We’ve Triniview Gumyeong Station pada 15 Mei di Busan, saat transaksi apartemen kota itu naik 21,9% tahun lalu.",
         "body": "Doosan E&C akan membuka rumah contoh “Doosan We’ve Triniview Gumyeong Station” di Busan pada 15 Mei. Peluncuran ini hadir setelah volume transaksi apartemen di Busan tahun lalu naik 21,9%, melampaui rata-rata nasional, sementara kenaikan biaya konstruksi memunculkan kekhawatiran akan kelangkaan apartemen baru. Proyek ini diperkenalkan di tengah arus pemulihan transaksi hunian di Busan. Disebutkan bahwa penerapan “I Mom Busan Plan” memberi diskon langsung 5% atas harga penjualan. Perhatian kini tertuju pada apakah minat pengguna akhir akan berlanjut di tengah sorotan pada hunian baru dan beban biaya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ae2237b0de54",
-    "slug": "서울에서-내-땅-갖기-젊음은-몸테크의-마지막-기회다-610177",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T04:43:08.444Z",
-    "updatedAt": "2026-05-14T04:43:08.444Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133628i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133628i",
-    "titleFingerprint": "4a15d2fe207fa08a3c56b01e0149226532013d80",
-    "dedupKeys": [
-      "ae2237b0de547325de4e55c6496a473bd1f6963d",
-      "4a15d2fe207fa08a3c56b01e0149226532013d80",
-      "2ce7585fd2e7dcfd710436b62ea8cda028196f4b"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "서울 내 땅 갖기와 몸테크, 젊은 세대가 주목해야 할 마지막 기회론 분석",
-        "excerpt": "한국경제가 ‘서울에서 내 땅 갖기, 젊음은 몸테크의 마지막 기회다’라는 제목으로 서울 토지 보유와 젊은 세대의 몸테크 기회론을 다뤘다.",
-        "body": "한국경제는 hankyung.com을 통해 ‘서울에서 내 땅 갖기, 젊음은 몸테크의 마지막 기회다’라는 제목의 글을 전했다. 제공된 원문 정보에 따르면 핵심 주제는 서울에서 개인이 땅을 갖는 문제와 젊은 세대가 몸테크를 통해 기회를 모색할 수 있다는 관점이다. 기사 제목은 서울 부동산 시장에서 토지 보유가 갖는 상징성과 진입 장벽, 그리고 젊은 연령대의 시간과 체력을 활용한 전략을 함께 제시한다. 다만 요약이나 구체적인 수치, 지역, 정책, 거래 사례는 제공되지 않았다. 따라서 이번 다국어 기사는 제목과 출처에 확인된 사실만 반영했다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Owning Land in Seoul and Mom-Tech: Why Youth Is Framed as the Last Chance",
-        "excerpt": "The Korea Economic Daily, via hankyung.com, covered the idea of owning land in Seoul and described youth as the final opportunity for pursuing mom-tech.",
-        "body": "The Korea Economic Daily published an item on hankyung.com titled “Owning my land in Seoul, youth is the last chance for mom-tech.” Based on the information provided, the central topic is the challenge of owning land in Seoul and the view that younger people may seek opportunities through mom-tech. The title connects the symbolism and entry barriers of land ownership in Seoul’s real estate market with a strategy that uses time and physical capacity while young. No summary, specific figures, locations, policies, or transaction cases were provided. This multilingual article therefore reflects only the verified title and source information. Source: quoted from hankyung.com."
-      },
-      "ja": {
-        "title": "ソウルで土地を持つこととモムテック、若さを最後の機会と見る論点",
-        "excerpt": "韓国経済新聞はhankyung.comで、ソウルで土地を持つことと、若い世代にとってモムテックが最後の機会になり得るという見方を扱った。",
-        "body": "韓国経済新聞はhankyung.comで「ソウルで自分の土地を持つこと、若さはモムテックの最後の機会だ」という題名の記事を伝えた。提供された原文情報によると、中心テーマはソウルで個人が土地を持つ問題と、若い世代がモムテックを通じて機会を探れるという視点である。題名は、ソウル不動産市場における土地保有の象徴性と参入障壁、そして若い時期の時間と体力を活用する戦略を結び付けている。ただし、要約、具体的な数値、地域、政策、取引事例は提供されていない。そのため本記事は、確認された題名と出典情報のみを反映した。出典：hankyung.com引用。"
-      },
-      "zh": {
-        "title": "在首尔拥有土地与身体投资，年轻被视为最后机会的讨论",
-        "excerpt": "《韩国经济新闻》通过hankyung.com报道了在首尔拥有土地的问题，并以年轻是身体投资最后机会的角度展开讨论。",
-        "body": "《韩国经济新闻》在hankyung.com刊发题为《在首尔拥有自己的土地，年轻是身体投资的最后机会》的内容。根据已提供的原文信息，核心主题是在首尔个人拥有土地的问题，以及年轻一代可通过身体投资寻找机会的观点。标题把首尔房地产市场中土地持有的象征意义和进入门槛，与年轻时期可利用的时间和体力策略联系起来。不过，原文未提供摘要、具体数字、地区、政策或交易案例。因此，本文仅反映已确认的标题和出处信息。出处：引用hankyung.com。"
-      },
-      "es": {
-        "title": "Tener tierra en Seúl y el mom-tech: la juventud como última oportunidad",
-        "excerpt": "The Korea Economic Daily abordó en hankyung.com la idea de poseer tierra en Seúl y presentó la juventud como una última oportunidad para el mom-tech.",
-        "body": "The Korea Economic Daily publicó en hankyung.com un contenido titulado “Tener mi propia tierra en Seúl, la juventud es la última oportunidad para el mom-tech”. Según la información original proporcionada, el tema central es la dificultad de poseer tierra en Seúl y la perspectiva de que las generaciones jóvenes puedan buscar oportunidades mediante el mom-tech. El título vincula el significado simbólico y las barreras de entrada de la propiedad de suelo en el mercado inmobiliario de Seúl con una estrategia basada en el tiempo y la capacidad física de la juventud. No se aportaron resumen, cifras concretas, zonas, políticas ni casos de transacción. Por ello, este artículo multilingüe refleja solo el título y la fuente verificados. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Ter terra em Seul e o mom-tech: juventude vista como última oportunidade",
-        "excerpt": "O The Korea Economic Daily, via hankyung.com, tratou da posse de terra em Seul e apresentou a juventude como última oportunidade para o mom-tech.",
-        "body": "O The Korea Economic Daily publicou em hankyung.com um conteúdo intitulado “Ter minha própria terra em Seul, a juventude é a última oportunidade para o mom-tech”. Com base nas informações originais fornecidas, o tema central é a questão de uma pessoa possuir terra em Seul e a visão de que os jovens podem buscar oportunidades por meio do mom-tech. O título conecta o simbolismo e as barreiras de entrada da posse de terrenos no mercado imobiliário de Seul a uma estratégia que utiliza tempo e capacidade física na juventude. Não foram fornecidos resumo, números específicos, regiões, políticas ou casos de transação. Assim, este artigo multilíngue reflete apenas o título e a fonte verificados. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Landbesitz in Seoul und Mom-Tech: Jugend als letzte Chance im Fokus",
-        "excerpt": "The Korea Economic Daily behandelte auf hankyung.com den Landbesitz in Seoul und stellte Jugend als mögliche letzte Gelegenheit für Mom-Tech dar.",
-        "body": "The Korea Economic Daily veröffentlichte auf hankyung.com einen Beitrag mit dem Titel „Eigenes Land in Seoul besitzen, Jugend ist die letzte Chance für Mom-Tech“. Den bereitgestellten Originalinformationen zufolge geht es im Kern um die Frage, wie Einzelne in Seoul Land besitzen können, und um die Sichtweise, dass junge Menschen über Mom-Tech Chancen suchen können. Der Titel verbindet die symbolische Bedeutung und die Eintrittsbarrieren des Landbesitzes auf dem Immobilienmarkt von Seoul mit einer Strategie, die Zeit und körperliche Leistungsfähigkeit in jungen Jahren nutzt. Eine Zusammenfassung, konkrete Zahlen, Orte, politische Maßnahmen oder Transaktionsbeispiele wurden nicht bereitgestellt. Dieser mehrsprachige Artikel stützt sich daher nur auf den bestätigten Titel und die Quelle. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Posséder un terrain à Séoul et le mom-tech, la jeunesse comme dernière chance",
-        "excerpt": "The Korea Economic Daily a traité sur hankyung.com de la possession de terrain à Séoul et de l’idée que la jeunesse serait la dernière chance du mom-tech.",
-        "body": "The Korea Economic Daily a publié sur hankyung.com un contenu intitulé « Posséder mon terrain à Séoul, la jeunesse est la dernière chance du mom-tech ». Selon les informations originales fournies, le sujet central est la possibilité pour un particulier de posséder un terrain à Séoul et l’idée que les jeunes générations puissent chercher des opportunités grâce au mom-tech. Le titre relie la portée symbolique et les barrières d’entrée de la propriété foncière sur le marché immobilier de Séoul à une stratégie utilisant le temps et la capacité physique de la jeunesse. Aucun résumé, chiffre précis, lieu, politique ou exemple de transaction n’a été fourni. Cet article multilingue ne reflète donc que le titre et la source vérifiés. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "امتلاك أرض في سيول ومفهوم موم-تك: الشباب بوصفه الفرصة الأخيرة",
-        "excerpt": "تناولت صحيفة كوريا الاقتصادية عبر hankyung.com فكرة امتلاك أرض في سيول، وقدمت الشباب باعتباره الفرصة الأخيرة لمفهوم موم-تك.",
-        "body": "نشرت صحيفة كوريا الاقتصادية على موقع hankyung.com مادة بعنوان «امتلاك أرضي في سيول، الشباب هو الفرصة الأخيرة لموم-تك». وبحسب معلومات النص الأصلي المتاحة، يتمحور الموضوع حول مسألة امتلاك الأفراد للأرض في سيول، والرؤية التي تقول إن الجيل الشاب قد يبحث عن فرص عبر موم-تك. يربط العنوان بين الرمزية والحواجز المرتبطة بامتلاك الأرض في سوق العقارات في سيول، وبين استراتيجية تستفيد من الوقت والقدرة البدنية في سن الشباب. لم تُقدَّم خلاصة أو أرقام محددة أو مناطق أو سياسات أو أمثلة على صفقات. لذلك يعكس هذا المقال متعدد اللغات فقط العنوان والمصدر المؤكدين. المصدر: اقتباس من hankyung.com."
-      },
-      "hi": {
-        "title": "सियोल में जमीन और मॉम-टेक: युवावस्था को आखिरी अवसर बताने वाली बहस",
-        "excerpt": "The Korea Economic Daily ने hankyung.com पर सियोल में जमीन रखने और युवाओं के लिए मॉम-टेक को अंतिम अवसर मानने के दृष्टिकोण को उठाया।",
-        "body": "The Korea Economic Daily ने hankyung.com पर “सियोल में अपनी जमीन पाना, युवावस्था मॉम-टेक का आखिरी अवसर है” शीर्षक से सामग्री प्रकाशित की। उपलब्ध मूल जानकारी के अनुसार, मुख्य विषय सियोल में किसी व्यक्ति द्वारा जमीन रखने का सवाल और यह दृष्टिकोण है कि युवा पीढ़ी मॉम-टेक के माध्यम से अवसर खोज सकती है। शीर्षक सियोल के रियल एस्टेट बाजार में जमीन के स्वामित्व के प्रतीकात्मक महत्व और प्रवेश बाधाओं को युवावस्था में उपलब्ध समय और शारीरिक क्षमता के उपयोग की रणनीति से जोड़ता है। कोई सारांश, ठोस आंकड़े, क्षेत्र, नीति या लेनदेन का उदाहरण उपलब्ध नहीं कराया गया। इसलिए यह बहुभाषी लेख केवल पुष्टि किए गए शीर्षक और स्रोत की जानकारी पर आधारित है। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Punya Tanah di Seoul dan Mom-Tech: Masa Muda Disebut Peluang Terakhir",
-        "excerpt": "The Korea Economic Daily melalui hankyung.com membahas kepemilikan tanah di Seoul dan sudut pandang bahwa masa muda adalah peluang terakhir untuk mom-tech.",
-        "body": "The Korea Economic Daily menerbitkan konten di hankyung.com berjudul “Memiliki tanah sendiri di Seoul, masa muda adalah peluang terakhir untuk mom-tech”. Berdasarkan informasi asli yang diberikan, tema utamanya adalah persoalan individu memiliki tanah di Seoul dan pandangan bahwa generasi muda dapat mencari peluang melalui mom-tech. Judul tersebut mengaitkan simbolisme dan hambatan masuk kepemilikan tanah di pasar properti Seoul dengan strategi yang memanfaatkan waktu serta kemampuan fisik saat masih muda. Tidak ada ringkasan, angka spesifik, wilayah, kebijakan, atau contoh transaksi yang diberikan. Karena itu, artikel multibahasa ini hanya mencerminkan judul dan sumber yang telah terverifikasi. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "fcda24eca888",
-    "slug": "강남역-코오롱스포렉스-개발계획-통과38층-복합건물로-881165",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T04:41:45.507Z",
-    "updatedAt": "2026-05-14T04:41:45.507Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145766i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145766i",
-    "titleFingerprint": "7b85f7f3ec88eee480325e1c5f762e667ceafae9",
-    "dedupKeys": [
-      "fcda24eca8881f1242e8b6a46a0c20dddb8fc86e",
-      "7b85f7f3ec88eee480325e1c5f762e667ceafae9",
-      "857367444370436f4513d957b94d966f270cb608"
-    ],
-    "imageUrl": "/images/articles/fcda24eca888.jpg",
-    "i18n": {
-      "ko": {
-        "title": "강남역 코오롱스포렉스 개발계획 통과, 38층 복합건물 전환에 도심 관심 집중",
-        "excerpt": "hankyung.com에 따르면 강남역 코오롱스포렉스 개발계획이 통과돼 해당 부지가 38층 복합건물로 개발될 예정이라는 소식이 전해졌다.",
-        "body": "강남역 코오롱스포렉스 개발계획이 통과되면서 해당 부지는 38층 복합건물로 개발될 예정이다. 이번 소식은 강남역 일대 주요 부동산 개발 사안으로, 기존 코오롱스포렉스 부지의 향후 활용 방향이 복합건물 조성으로 정리됐다는 점에서 주목된다. 원문에서 확인되는 핵심 수치는 건물 높이가 38층이라는 점이며, 개발계획 통과가 보도된 사실이 중심이다. 향후 이 부지는 강남역 주변 도심 공간의 기능 변화와 맞물려 시장의 관심을 받을 전망이다. 출처인 hankyung.com은 강남역 코오롱스포렉스 개발계획이 통과돼 38층 복합건물로 추진된다고 전했다."
-      },
-      "en": {
-        "title": "Gangnam Station Kolon Sporex Plan Approved, 38-Story Mixed-Use Building Ahead",
-        "excerpt": "According to hankyung.com, the development plan for Kolon Sporex near Gangnam Station has been approved, with the site set to become a 38-story mixed-use building.",
-        "body": "The development plan for Kolon Sporex near Gangnam Station has been approved, and the site is set to be developed into a 38-story mixed-use building. The news draws attention as a major real estate development issue in the Gangnam Station area, confirming that the future use of the existing Kolon Sporex site will shift toward a mixed-use building. The key figure confirmed in the original report is the planned height of 38 floors, and the central fact is the approval of the development plan. The site is expected to attract market attention as it relates to changes in urban functions around Gangnam Station. Source hankyung.com reported that the Gangnam Station Kolon Sporex development plan passed and will proceed as a 38-story mixed-use building."
-      },
-      "ja": {
-        "title": "江南駅コーロンスポレックス開発計画が通過、38階複合ビルへ関心集まる",
-        "excerpt": "hankyung.comによると、江南駅のコーロンスポレックス開発計画が通過し、同敷地は38階建て複合ビルとして開発される予定だ。",
-        "body": "江南駅コーロンスポレックスの開発計画が通過し、同敷地は38階建ての複合ビルとして開発される予定だ。今回のニュースは江南駅一帯の主要な不動産開発案件として注目され、既存のコーロンスポレックス敷地の今後の活用方向が複合ビル造成に整理された点が焦点となる。原文で確認できる主要な数値は建物の高さが38階である点で、開発計画の通過が報じられたことが中心事実だ。今後、この敷地は江南駅周辺の都心空間の機能変化と関連し、市場の関心を集める見通しだ。出典のhankyung.comは、江南駅コーロンスポレックス開発計画が通過し、38階複合ビルとして進められると伝えた。"
-      },
-      "zh": {
-        "title": "江南站Kolon Sporex开发计划获批，将建设38层综合建筑",
-        "excerpt": "据hankyung.com报道，江南站Kolon Sporex开发计划已经通过，该地块将被开发为一栋38层综合建筑。",
-        "body": "江南站Kolon Sporex开发计划已经通过，该地块预计将开发为38层综合建筑。这一消息作为江南站一带的重要房地产开发事项受到关注，意味着现有Kolon Sporex地块未来利用方向已确定为综合建筑建设。原文中确认的核心数字是建筑高度为38层，报道重点是开发计划已经通过。未来，该地块预计将与江南站周边城市空间功能变化相联系，并持续受到市场关注。消息来源hankyung.com报道称，江南站Kolon Sporex开发计划已获通过，并将推进为38层综合建筑。"
-      },
-      "es": {
-        "title": "Aprueban plan de Kolon Sporex en Gangnam: edificio mixto de 38 pisos",
-        "excerpt": "Según hankyung.com, se aprobó el plan de desarrollo de Kolon Sporex junto a la estación de Gangnam y el terreno se convertirá en un edificio mixto de 38 pisos.",
-        "body": "El plan de desarrollo de Kolon Sporex junto a la estación de Gangnam fue aprobado y el terreno se desarrollará como un edificio mixto de 38 pisos. La noticia destaca como un asunto relevante del mercado inmobiliario en el área de Gangnam, al confirmar que el uso futuro del actual sitio de Kolon Sporex se orientará a un complejo de uso mixto. El dato clave confirmado en el texto original es la altura de 38 pisos, mientras que el hecho central es la aprobación del plan de desarrollo. En adelante, el sitio podría recibir atención del mercado por su relación con los cambios funcionales del entorno urbano de Gangnam. La fuente hankyung.com informó que el plan de Kolon Sporex en Gangnam fue aprobado y avanzará como edificio mixto de 38 pisos."
-      },
-      "pt": {
-        "title": "Plano do Kolon Sporex em Gangnam é aprovado para prédio misto de 38 andares",
-        "excerpt": "Segundo o hankyung.com, o plano de desenvolvimento do Kolon Sporex perto da estação Gangnam foi aprovado, e o terreno deverá virar um prédio misto de 38 andares.",
-        "body": "O plano de desenvolvimento do Kolon Sporex perto da estação Gangnam foi aprovado, e o terreno deverá ser transformado em um prédio misto de 38 andares. A notícia chama atenção como um importante tema imobiliário na região de Gangnam, pois confirma que o uso futuro do atual terreno do Kolon Sporex será direcionado à construção de um edifício de uso misto. O principal número confirmado no texto original é a altura de 38 andares, e o fato central é a aprovação do plano de desenvolvimento. Daqui em diante, o local deve atrair atenção do mercado por estar ligado às mudanças de função urbana no entorno da estação Gangnam. A fonte hankyung.com informou que o plano do Kolon Sporex em Gangnam foi aprovado e seguirá como prédio misto de 38 andares."
-      },
-      "de": {
-        "title": "Kolon-Sporex-Plan am Bahnhof Gangnam genehmigt: 38-stöckiger Mischnutzungsbau",
-        "excerpt": "Laut hankyung.com wurde der Entwicklungsplan für Kolon Sporex am Bahnhof Gangnam genehmigt; das Grundstück soll zu einem 38-stöckigen Mischnutzungsgebäude werden.",
-        "body": "Der Entwicklungsplan für Kolon Sporex am Bahnhof Gangnam wurde genehmigt, und das Grundstück soll zu einem 38-stöckigen Mischnutzungsgebäude entwickelt werden. Die Nachricht gilt als wichtiges Immobilienthema im Umfeld des Bahnhofs Gangnam, da damit die künftige Nutzung des bestehenden Kolon-Sporex-Areals als gemischt genutztes Gebäude festgelegt wird. Die zentrale Zahl aus der ursprünglichen Meldung ist die geplante Höhe von 38 Stockwerken; der Kern der Nachricht ist die Genehmigung des Entwicklungsplans. Künftig dürfte das Areal im Zusammenhang mit funktionalen Veränderungen des urbanen Raums rund um Gangnam Aufmerksamkeit am Markt erhalten. Die Quelle hankyung.com berichtete, dass der Entwicklungsplan für Kolon Sporex am Bahnhof Gangnam genehmigt wurde und als 38-stöckiges Mischnutzungsgebäude voranschreitet."
-      },
-      "fr": {
-        "title": "Gangnam : le plan Kolon Sporex approuvé pour un immeuble mixte de 38 étages",
-        "excerpt": "Selon hankyung.com, le plan de développement de Kolon Sporex près de la station Gangnam a été approuvé, avec un futur immeuble mixte de 38 étages.",
-        "body": "Le plan de développement de Kolon Sporex près de la station Gangnam a été approuvé, et le site doit être transformé en immeuble mixte de 38 étages. Cette information retient l’attention comme un dossier immobilier important dans le secteur de Gangnam, car elle confirme que l’utilisation future du site actuel de Kolon Sporex s’orientera vers un bâtiment à usage mixte. Le chiffre clé confirmé dans le texte original est la hauteur de 38 étages, et le fait central reste l’approbation du plan de développement. À l’avenir, le site devrait susciter l’intérêt du marché en lien avec l’évolution des fonctions urbaines autour de la station Gangnam. La source hankyung.com a rapporté que le plan de Kolon Sporex à Gangnam avait été approuvé et avancerait sous forme d’immeuble mixte de 38 étages."
-      },
-      "ar": {
-        "title": "إقرار خطة تطوير كولون سبوريكس قرب محطة غانغنام إلى مبنى متعدد الاستخدامات من 38 طابقا",
-        "excerpt": "بحسب hankyung.com، تمت الموافقة على خطة تطوير كولون سبوريكس قرب محطة غانغنام، ومن المقرر تحويل الموقع إلى مبنى متعدد الاستخدامات من 38 طابقا.",
-        "body": "تمت الموافقة على خطة تطوير كولون سبوريكس قرب محطة غانغنام، ومن المقرر تطوير الموقع إلى مبنى متعدد الاستخدامات من 38 طابقا. وتلفت هذه الأنباء الانتباه باعتبارها قضية تطوير عقاري بارزة في منطقة محطة غانغنام، إذ تؤكد أن اتجاه استخدام موقع كولون سبوريكس الحالي سيكون نحو إنشاء مبنى متعدد الاستخدامات. الرقم الأساسي الوارد في النص الأصلي هو أن ارتفاع المبنى المخطط له يبلغ 38 طابقا، أما الحقيقة المحورية فهي تمرير خطة التطوير. ومن المتوقع أن يحظى الموقع باهتمام السوق لاحقا مع ارتباطه بتغير وظائف المساحات الحضرية حول محطة غانغنام. وذكرت hankyung.com أن خطة تطوير كولون سبوريكس قرب محطة غانغنام تمت الموافقة عليها وستتقدم كمبنى متعدد الاستخدامات من 38 طابقا."
-      },
-      "hi": {
-        "title": "गंगनम स्टेशन Kolon Sporex योजना पास, 38 मंजिला मिश्रित उपयोग भवन बनेगा",
-        "excerpt": "hankyung.com के अनुसार, गंगनम स्टेशन के पास Kolon Sporex विकास योजना पास हो गई है और इस स्थल को 38 मंजिला मिश्रित उपयोग भवन के रूप में विकसित किया जाएगा।",
-        "body": "गंगनम स्टेशन के पास Kolon Sporex विकास योजना पास हो गई है और इस स्थल को 38 मंजिला मिश्रित उपयोग भवन के रूप में विकसित किया जाना है। यह खबर गंगनम स्टेशन क्षेत्र के प्रमुख रियल एस्टेट विकास मुद्दे के रूप में ध्यान खींचती है, क्योंकि इससे मौजूदा Kolon Sporex स्थल के भविष्य के उपयोग की दिशा मिश्रित उपयोग भवन निर्माण के रूप में तय होती है। मूल जानकारी में पुष्टि किया गया मुख्य आंकड़ा भवन की 38 मंजिलों की ऊंचाई है, और मुख्य तथ्य विकास योजना का पास होना है। आगे यह स्थल गंगनम स्टेशन के आसपास शहरी स्थानों की कार्यात्मक बदलाव प्रक्रिया से जुड़कर बाजार का ध्यान आकर्षित कर सकता है। स्रोत hankyung.com ने बताया कि गंगनम स्टेशन Kolon Sporex विकास योजना पास हो गई है और इसे 38 मंजिला मिश्रित उपयोग भवन के रूप में आगे बढ़ाया जाएगा।"
-      },
-      "id": {
-        "title": "Rencana Kolon Sporex Gangnam Disetujui, Akan Jadi Gedung Campuran 38 Lantai",
-        "excerpt": "Menurut hankyung.com, rencana pengembangan Kolon Sporex dekat Stasiun Gangnam telah disetujui, dan lahannya akan dikembangkan menjadi gedung campuran 38 lantai.",
-        "body": "Rencana pengembangan Kolon Sporex dekat Stasiun Gangnam telah disetujui, dan lahan tersebut akan dikembangkan menjadi gedung campuran 38 lantai. Kabar ini menarik perhatian sebagai isu pengembangan properti penting di kawasan Stasiun Gangnam, karena arah pemanfaatan lahan Kolon Sporex yang ada kini ditetapkan sebagai pembangunan gedung penggunaan campuran. Angka utama yang dikonfirmasi dalam teks asal adalah tinggi bangunan 38 lantai, sementara fakta utamanya adalah persetujuan rencana pengembangan. Ke depan, lokasi ini diperkirakan mendapat perhatian pasar seiring perubahan fungsi ruang perkotaan di sekitar Stasiun Gangnam. Sumber hankyung.com melaporkan bahwa rencana pengembangan Kolon Sporex di Gangnam telah disetujui dan akan dilanjutkan sebagai gedung campuran 38 lantai."
-      }
-    }
-  },
-  {
-    "id": "51ab8569709b",
-    "slug": "출퇴근이-편해야죠산단-인접-지방-청약사업장-강세-630139",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T04:40:37.429Z",
-    "updatedAt": "2026-05-14T04:40:37.429Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047442",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047442",
-    "titleFingerprint": "18913fd781e8267d2fa3960a1e551f78817f96f9",
-    "dedupKeys": [
-      "51ab8569709b5e6df5ac50a0581ada9d075a7f9e",
-      "18913fd781e8267d2fa3960a1e551f78817f96f9",
-      "94083323e55faec8015244297c585b10c6a27240"
-    ],
-    "imageUrl": "/images/articles/51ab8569709b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "산단 인접 지방 청약단지 강세, 직주근접 수요가 경쟁률 끌어올렸다",
-        "excerpt": "창원·진주·안동 등 지방 청약시장에서 산업단지와 가까운 직주근접 단지가 출퇴근 편의와 일자리 배후 수요를 바탕으로 높은 청약경쟁률을 기록하고 있다.",
-        "body": "지방 청약시장에서 산업단지 인근 사업장이 주목받고 있다. 창원·진주·안동 등 일자리 중심 지역에서 출퇴근이 편한 직주근접 단지의 청약경쟁률이 높게 나타나면서, 산업단지 배후 주거 수요가 청약 성과를 좌우하는 변수로 부각되고 있다. 원문에 따르면 이들 지역은 안정적인 일자리 기반과 생활권 접근성을 갖춘 단지가 수요자의 관심을 끌었다. 특히 AI 인프라와 6개 대형 산업단지를 배후에 둔 호반써밋 첨단3지구도 공급을 앞두고 있어 지방 청약시장에서 산단 인접 입지에 대한 관심이 이어질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Industrial-Park Nearby Local Housing Projects Gain as Commute Demand Lifts Bids",
-        "excerpt": "In local subscription markets such as Changwon, Jinju and Andong, housing complexes near industrial parks are drawing strong demand as commute convenience and job access raise competition rates.",
-        "body": "Housing projects near industrial parks are gaining attention in South Korea’s local subscription market. In job-centered cities such as Changwon, Jinju and Andong, complexes offering convenient commutes and proximity to workplaces have posted high competition rates, highlighting how residential demand behind industrial zones is shaping subscription outcomes. According to the original report, buyers have shown interest in complexes backed by stable employment bases and accessible living areas. Hoban Summit Cheomdan District 3, supported by AI infrastructure and six large industrial parks, is also set for supply, suggesting continued attention on locations close to industrial parks. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "産業団地近接の地方分譲が強含み、職住近接需要で競争率上昇",
-        "excerpt": "昌原・晋州・安東などの地方分譲市場で、産業団地に近い職住近接型団地が通勤利便性と雇用需要を背景に高い申込競争率を示している。",
-        "body": "地方の分譲市場で産業団地周辺の事業地が注目されている。昌原・晋州・安東など雇用拠点となる地域では、通勤しやすい職住近接型団地の申込競争率が高く、産業団地を背後に持つ住宅需要が分譲成績を左右する要因として浮上している。原文によると、これらの地域では安定した雇用基盤と生活圏へのアクセスを備えた団地が需要者の関心を集めた。特にAIインフラと6つの大型産業団地を背後に持つホバンサミット尖端3地区も供給を控えており、地方分譲市場で産業団地近接立地への関心は続く見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "临近产业园区的地方认购项目走强，职住接近需求推高竞争率",
-        "excerpt": "在昌原、晋州、安东等地方认购市场，靠近产业园区的职住接近型住宅因通勤便利和就业腹地需求而录得较高认购竞争率。",
-        "body": "在地方住宅认购市场，产业园区附近项目正受到关注。昌原、晋州、安东等以就业为中心的地区，通勤便利的职住接近型小区认购竞争率较高，显示产业园区背后的居住需求正成为影响认购成绩的因素。原文称，这些地区拥有稳定就业基础和生活圈可达性，相关小区吸引了购房者关注。尤其是背靠AI基础设施和6个大型产业园区的Hoban Summit尖端3地区也即将供应，预计地方认购市场对临近产业园区区位的关注将持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Proyectos locales junto a parques industriales ganan fuerza por cercanía al trabajo",
-        "excerpt": "En mercados locales como Changwon, Jinju y Andong, los complejos cercanos a parques industriales registran alta competencia por la comodidad del traslado y la demanda ligada al empleo.",
-        "body": "Los proyectos residenciales cercanos a parques industriales están captando atención en el mercado local de suscripción inmobiliaria. En ciudades centradas en el empleo como Changwon, Jinju y Andong, los complejos que facilitan el desplazamiento al trabajo han mostrado altas tasas de competencia, lo que destaca el papel de la demanda residencial vinculada a las zonas industriales. Según el informe original, estos complejos atrajeron a los compradores por su base laboral estable y su acceso a áreas de vida cotidiana. Hoban Summit Cheomdan Distrito 3, respaldado por infraestructura de IA y seis grandes parques industriales, también se prepara para salir al mercado, por lo que seguirá el interés por ubicaciones cercanas a parques industriales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Empreendimentos locais perto de polos industriais avançam com demanda por commute fácil",
-        "excerpt": "Em mercados locais como Changwon, Jinju e Andong, conjuntos próximos a polos industriais registram forte concorrência por oferecer deslocamento conveniente e acesso a empregos.",
-        "body": "Empreendimentos residenciais próximos a polos industriais estão atraindo atenção no mercado local de subscrição imobiliária. Em cidades voltadas ao emprego, como Changwon, Jinju e Andong, conjuntos com deslocamento conveniente e proximidade ao trabalho registraram altas taxas de concorrência, mostrando que a demanda habitacional no entorno de áreas industriais influencia o desempenho das ofertas. Segundo a reportagem original, os compradores demonstraram interesse por conjuntos com base estável de empregos e boa acessibilidade ao cotidiano. O Hoban Summit Cheomdan Distrito 3, apoiado por infraestrutura de IA e seis grandes polos industriais, também está prestes a ser ofertado, indicando continuidade do interesse por localizações próximas a polos industriais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Wohnprojekte nahe Industrieparks legen in Regionen durch kurze Pendelwege zu",
-        "excerpt": "In regionalen Märkten wie Changwon, Jinju und Andong erzielen arbeitsplatznahe Wohnanlagen nahe Industrieparks hohe Zeichnungsraten, gestützt durch kurze Wege und Beschäftigungsnachfrage.",
-        "body": "Wohnprojekte in der Nähe von Industrieparks rücken im regionalen südkoreanischen Zeichnungsmarkt in den Fokus. In arbeitsplatzorientierten Städten wie Changwon, Jinju und Andong verzeichnen Anlagen mit bequemen Pendelwegen und Nähe zum Arbeitsplatz hohe Wettbewerbsraten. Damit wird die Wohnnachfrage im Umfeld von Industriegebieten zu einem wichtigen Faktor für den Zeichnungserfolg. Dem Originalbericht zufolge ziehen Anlagen mit stabiler Beschäftigungsbasis und guter Erreichbarkeit des Alltagsumfelds die Aufmerksamkeit der Nachfrager auf sich. Auch Hoban Summit Cheomdan District 3, gestützt durch KI-Infrastruktur und sechs große Industrieparks, steht vor der Vermarktung, sodass das Interesse an industrieparknahen Lagen anhalten dürfte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les programmes locaux près des parcs industriels portés par la proximité emploi-logement",
-        "excerpt": "À Changwon, Jinju et Andong, les résidences proches des parcs industriels affichent de forts taux de souscription grâce aux trajets pratiques et à la demande liée à l’emploi.",
-        "body": "Les projets résidentiels situés près des parcs industriels attirent l’attention sur le marché local de la souscription immobilière. Dans des villes centrées sur l’emploi comme Changwon, Jinju et Andong, les ensembles offrant des trajets domicile-travail pratiques et une proximité avec les lieux d’activité enregistrent de forts taux de concurrence. La demande résidentielle adossée aux zones industrielles apparaît ainsi comme un facteur de performance des souscriptions. Selon l’article original, ces ensembles séduisent grâce à une base d’emplois stable et à l’accessibilité des espaces de vie. Hoban Summit Cheomdan District 3, soutenu par une infrastructure d’IA et six grands parcs industriels, doit également être proposé, ce qui laisse prévoir un intérêt continu pour ces emplacements. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مشروعات محلية قرب المجمعات الصناعية تقوى مع طلب السكن القريب من العمل",
-        "excerpt": "في أسواق الاكتتاب المحلية مثل تشانغوون وجينجو وأندونغ، تحقق المجمعات القريبة من المناطق الصناعية معدلات منافسة مرتفعة بفضل سهولة التنقل وطلب الوظائف.",
-        "body": "تحظى المشروعات السكنية القريبة من المجمعات الصناعية باهتمام في سوق الاكتتاب العقاري المحلي. ففي مدن تتمحور حول فرص العمل مثل تشانغوون وجينجو وأندونغ، سجلت المجمعات التي توفر تنقلا مريحا وقربا من أماكن العمل معدلات منافسة مرتفعة، ما يبرز دور الطلب السكني في محيط المناطق الصناعية في نتائج الاكتتاب. ووفقا للتقرير الأصلي، جذبت هذه المجمعات اهتمام المشترين بفضل قاعدة الوظائف المستقرة وسهولة الوصول إلى مناطق المعيشة. كما يستعد مشروع Hoban Summit Cheomdan District 3، المدعوم ببنية تحتية للذكاء الاصطناعي وستة مجمعات صناعية كبرى، للطرح، ما يشير إلى استمرار الاهتمام بالمواقع القريبة من المجمعات الصناعية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "औद्योगिक क्षेत्रों के पास स्थानीय आवास परियोजनाएं, काम के करीब रहने की मांग से मजबूत",
-        "excerpt": "चांगवोन, जिन्जू और आंदोंग जैसे स्थानीय बाजारों में औद्योगिक क्षेत्रों के पास स्थित आवासीय परिसरों में आसान आवागमन और रोजगार मांग के कारण ऊंची प्रतिस्पर्धा दिख रही है।",
-        "body": "स्थानीय आवास सदस्यता बाजार में औद्योगिक क्षेत्रों के पास की परियोजनाएं ध्यान आकर्षित कर रही हैं। चांगवोन, जिन्जू और आंदोंग जैसे रोजगार-केंद्रित शहरों में ऐसे आवासीय परिसर, जहां काम पर आना-जाना सुविधाजनक है, ऊंची प्रतिस्पर्धा दर दर्ज कर रहे हैं। इससे औद्योगिक क्षेत्रों के पीछे मौजूद आवासीय मांग सदस्यता प्रदर्शन को प्रभावित करने वाला कारक बन रही है। मूल रिपोर्ट के अनुसार, स्थिर रोजगार आधार और जीवन क्षेत्र तक पहुंच वाले परिसरों ने खरीदारों की रुचि खींची। AI अवसंरचना और छह बड़े औद्योगिक क्षेत्रों से समर्थित Hoban Summit Cheomdan District 3 भी आपूर्ति की तैयारी में है, जिससे स्थानीय बाजार में औद्योगिक क्षेत्रों के निकट स्थानों में रुचि जारी रहने की संभावना है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Proyek Hunian Lokal Dekat Kawasan Industri Menguat Berkat Akses Kerja",
-        "excerpt": "Di pasar lokal seperti Changwon, Jinju, dan Andong, kompleks dekat kawasan industri mencatat persaingan tinggi karena kemudahan komuter dan permintaan dari basis pekerjaan.",
-        "body": "Proyek hunian di sekitar kawasan industri sedang mendapat perhatian di pasar langganan properti lokal. Di kota berbasis pekerjaan seperti Changwon, Jinju, dan Andong, kompleks yang menawarkan kemudahan perjalanan ke tempat kerja mencatat tingkat persaingan tinggi, sehingga permintaan hunian di belakang kawasan industri menjadi faktor penting bagi hasil pemasaran. Menurut laporan asli, kompleks di wilayah tersebut menarik minat pembeli karena memiliki basis pekerjaan yang stabil dan akses ke area kehidupan sehari-hari. Hoban Summit Cheomdan District 3, yang didukung infrastruktur AI dan enam kawasan industri besar, juga bersiap dipasok, sehingga minat terhadap lokasi dekat kawasan industri diperkirakan berlanjut. Sumber: mk.co.kr"
       }
     }
   }

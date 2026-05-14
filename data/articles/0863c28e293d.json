@@ -1,0 +1,75 @@
+{
+  "id": "0863c28e293d",
+  "slug": "축적된-데이터로-테슬라-자율주행-인파-가득-연무장길도-척척-737886",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-14T20:59:47.967Z",
+  "updatedAt": "2026-05-14T20:59:47.967Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927867/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927867/2",
+  "titleFingerprint": "1e5c46e66c946cd6692a5c95f5c3b59854c0968c",
+  "dedupKeys": [
+    "0863c28e293d1383caafaa81ab8704625bb04836",
+    "1e5c46e66c946cd6692a5c95f5c3b59854c0968c",
+    "2d5c966510faaf215a092cc93a2bbfba994d0a9b"
+  ],
+  "imageUrl": "/images/articles/0863c28e293d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "테슬라 자율주행 FSD, 서울 성수 연무장길 인파 속 주행 시연",
+      "excerpt": "테슬라가 13일 오후 서울 성동구 성수동 연무장길에서 감독형 자율주행 시스템 FSD로 보행자와 차량이 뒤섞인 좁은 도로를 주행하며 인지·판단 능력을 보였다.",
+      "body": "13일 오후 3시 30분 서울 성동구 성수동 연무장길에서 테슬라는 감독형 자율주행 시스템 FSD(Full Self-Driving)만으로 복잡한 도심 주행을 시연했다. 플래그십 스토어가 늘어선 이 거리는 수백 명의 인파가 몰리고 차량 두 대가 겨우 지날 만큼 좁아 보행자와 차량이 뒤섞이는 구간이다. 주행 중 사거리 보행자, 정차 화물차, 택시, 배달 오토바이 등 변수가 이어졌지만 차량은 8대 카메라의 시각 정보로 속도를 줄이거나 차선을 바꿨다. 정차한 트럭이 방향지시등을 켜자 양보했고, 급정거한 택시는 회피했다. 동승 기자는 사람이 운전하는 것보다 매끄럽다고 평가했다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Tesla FSD Demonstrates Smooth Driving on Seoul’s Crowded Yeonmujang-gil",
+      "excerpt": "Tesla demonstrated its supervised Full Self-Driving system on May 13 in Seongsu-dong, Seoul, navigating a narrow street crowded with pedestrians, taxis, trucks and delivery motorcycles.",
+      "body": "At 3:30 p.m. on May 13, Tesla demonstrated its supervised Full Self-Driving system on Yeonmujang-gil in Seongsu-dong, Seongdong-gu, Seoul. The street, lined with flagship stores and packed with hundreds of pedestrians, is narrow enough that only two vehicles can barely pass. During the drive, pedestrians entering an intersection, a stopped truck, taxis and delivery motorcycles created constant variables. Using visual information from eight cameras, the vehicle slowed to yield when a parked truck signaled and changed lanes to avoid a taxi that stopped suddenly. A reporter riding along said the drive felt smoother than a human driver. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "テスラFSD、ソウル聖水の混雑した延武場ギルで走行を披露",
+      "excerpt": "テスラは13日午後、ソウル城東区聖水洞の延武場ギルで監督型自動運転システムFSDを使い、歩行者や車両が入り交じる狭い道路を走行した。",
+      "body": "13日午後3時30分、ソウル城東区聖水洞の延武場ギルで、テスラは監督型自動運転システムFSD（Full Self-Driving）だけによる都心走行を披露した。旗艦店が並ぶこの通りは数百人の人出があり、車2台がやっと通れるほど狭く、歩行者と車両が交錯する区間だ。走行中は交差点に入る歩行者、停車中の貨物車、タクシー、配達バイクなどの変数が続いたが、車両は8台のカメラによる視覚情報で減速や車線変更を行った。停車したトラックが方向指示器を出すと譲り、急停止したタクシーは回避した。同乗した記者は、人が運転するより滑らかだと評価した。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "特斯拉FSD在首尔圣水延武场街人流中完成自动驾驶演示",
+      "excerpt": "特斯拉13日下午在首尔城东区圣水洞延武场街，用监督式自动驾驶系统FSD行驶于行人与车辆混杂的狭窄道路，展示识别和判断能力。",
+      "body": "13日下午3时30分，特斯拉在首尔城东区圣水洞延武场街，仅凭监督式自动驾驶系统FSD（Full Self-Driving）进行了复杂市区道路行驶演示。这条街聚集多家旗舰店，数百名行人往来，狭窄到两辆车勉强通过，是行人与车辆交织的路段。行驶过程中，路口突然出现的行人、路边停靠的货车、等待乘客的出租车以及穿行的外卖摩托车等变量不断出现。车辆依靠8个摄像头的视觉信息，在停靠卡车打转向灯时减速让行，并在发现出租车急停后自行变道避让。同车记者评价称，行驶比人类驾驶更顺畅。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Tesla FSD circula entre multitudes en Yeonmujang-gil, Seúl, durante una prueba",
+      "excerpt": "Tesla probó el 13 de mayo en Seongsu-dong, Seúl, su sistema supervisado FSD en una calle estrecha con peatones, taxis, camiones detenidos y motos de reparto.",
+      "body": "A las 15:30 del 13 de mayo, Tesla mostró en Yeonmujang-gil, Seongsu-dong, distrito de Seongdong, Seúl, una conducción urbana realizada solo con su sistema supervisado FSD (Full Self-Driving). La vía, llena de tiendas insignia y de cientos de peatones, es tan estrecha que apenas pueden pasar dos vehículos. Durante el trayecto aparecieron peatones en un cruce, un camión detenido, taxis y motos de reparto. Con la información visual de ocho cámaras, el vehículo redujo la velocidad para ceder el paso cuando un camión activó el intermitente y cambió de carril para evitar un taxi que frenó de golpe. Un periodista a bordo dijo que la conducción fue más suave que la de una persona. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Tesla FSD dirige entre multidões na Yeonmujang-gil, em Seul, em demonstração",
+      "excerpt": "A Tesla demonstrou em 13 de maio, em Seongsu-dong, Seul, o sistema supervisionado FSD em uma rua estreita com pedestres, táxis, caminhões parados e motos de entrega.",
+      "body": "Às 15h30 de 13 de maio, a Tesla demonstrou na Yeonmujang-gil, em Seongsu-dong, distrito de Seongdong, Seul, uma condução urbana feita apenas com o sistema supervisionado FSD (Full Self-Driving). A rua, repleta de lojas flagship e centenas de pedestres, é estreita a ponto de dois veículos passarem com dificuldade. Durante o trajeto, surgiram pedestres em cruzamentos, um caminhão parado, táxis e motos de entrega. Com informações visuais de oito câmeras, o veículo reduziu a velocidade para ceder quando um caminhão sinalizou e mudou de faixa para evitar um táxi que freou bruscamente. Um jornalista a bordo disse que a condução foi mais suave que a humana. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Tesla FSD fährt durch Menschenmengen auf Seouls Yeonmujang-gil",
+      "excerpt": "Tesla demonstrierte am 13. Mai in Seongsu-dong, Seoul, sein überwachtes FSD-System auf einer engen Straße mit Fußgängern, Taxis, haltenden Lastwagen und Liefermotorrädern.",
+      "body": "Am 13. Mai um 15:30 Uhr demonstrierte Tesla auf der Yeonmujang-gil in Seongsu-dong, Seongdong-gu, Seoul, eine Stadtfahrt allein mit dem überwachten System FSD (Full Self-Driving). Die Straße mit vielen Flagship-Stores ist von Hunderten Menschen belebt und so eng, dass zwei Fahrzeuge nur knapp passieren können. Während der Fahrt traten ständig Variablen auf: Fußgänger an Kreuzungen, ein haltender Lastwagen, Taxis und Liefermotorräder. Auf Basis der visuellen Daten von acht Kameras verringerte das Fahrzeug die Geschwindigkeit, als ein stehender Lastwagen blinkte, und wechselte die Spur, um einem plötzlich bremsenden Taxi auszuweichen. Ein mitfahrender Reporter bewertete die Fahrt als deutlich sanfter als menschliches Fahren. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Tesla FSD roule dans la foule sur Yeonmujang-gil à Séoul lors d’une démonstration",
+      "excerpt": "Tesla a montré le 13 mai à Seongsu-dong, Séoul, son système supervisé FSD sur une rue étroite mêlant piétons, taxis, camions arrêtés et motos de livraison.",
+      "body": "Le 13 mai à 15 h 30, Tesla a réalisé sur Yeonmujang-gil, à Seongsu-dong dans l’arrondissement de Seongdong à Séoul, une démonstration de conduite urbaine avec le seul système supervisé FSD (Full Self-Driving). Bordée de magasins phares et fréquentée par des centaines de piétons, la rue est si étroite que deux véhicules y passent difficilement. Pendant le trajet, des piétons à une intersection, un camion arrêté, des taxis et des motos de livraison ont multiplié les variables. Grâce aux informations visuelles de huit caméras, le véhicule a ralenti pour céder le passage lorsqu’un camion a mis son clignotant, puis changé de voie pour éviter un taxi qui freinait brusquement. Un journaliste à bord a jugé la conduite plus fluide qu’une conduite humaine. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "تسلا FSD تقود وسط الزحام في شارع يونموجانغ بسول خلال عرض عملي",
+      "excerpt": "عرضت تسلا في 13 مايو بمنطقة سيونغسو دونغ في سول نظامها الخاضع للإشراف FSD على طريق ضيق يختلط فيه المشاة بالمركبات وسيارات الأجرة والشاحنات ودراجات التوصيل.",
+      "body": "في الساعة 3:30 بعد ظهر 13 مايو، عرضت تسلا في شارع يونموجانغ بمنطقة سيونغسو دونغ في حي سيونغدونغ بسول قيادة حضرية اعتمادا على نظام القيادة الذاتية الخاضع للإشراف FSD فقط. الشارع تصطف فيه متاجر رئيسية ويزدحم بمئات المشاة، وهو ضيق إلى حد لا تمر فيه سيارتان إلا بصعوبة. أثناء الرحلة ظهرت متغيرات متواصلة، منها مشاة عند التقاطعات، وشاحنة متوقفة، وسيارات أجرة، ودراجات توصيل. وباستخدام معلومات بصرية من ثماني كاميرات، خففت السيارة سرعتها عندما شغلت شاحنة متوقفة إشارة الانعطاف، ثم غيرت المسار لتجنب سيارة أجرة توقفت فجأة. وقال صحفي كان داخل السيارة إن القيادة بدت أكثر سلاسة من قيادة الإنسان. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "टेस्ला FSD ने सियोल की भीड़भरी योनमुजांग-गिल सड़क पर ड्राइविंग दिखाई",
+      "excerpt": "टेस्ला ने 13 मई को सियोल के सोंगसू-दोंग में सुपरवाइज्ड FSD प्रणाली से पैदल यात्रियों, टैक्सियों, रुके ट्रकों और डिलीवरी मोटरसाइकिलों वाली संकरी सड़क पर ड्राइव किया।",
+      "body": "13 मई को दोपहर 3:30 बजे, टेस्ला ने सियोल के सोंगडोंग-गु स्थित सोंगसू-दोंग की योनमुजांग-गिल सड़क पर केवल सुपरवाइज्ड FSD (Full Self-Driving) प्रणाली से शहरी ड्राइविंग का प्रदर्शन किया। फ्लैगशिप स्टोरों से घिरी यह सड़क सैकड़ों पैदल यात्रियों से भरी थी और इतनी संकरी थी कि दो वाहन मुश्किल से गुजर सकते थे। यात्रा के दौरान चौराहे पर पैदल यात्री, रुका हुआ ट्रक, टैक्सियां और डिलीवरी मोटरसाइकिलें लगातार सामने आईं। आठ कैमरों की दृश्य जानकारी से वाहन ने संकेत देने वाले रुके ट्रक को रास्ता देने के लिए गति घटाई और अचानक रुकी टैक्सी से बचने के लिए लेन बदली। साथ बैठे पत्रकार ने कहा कि ड्राइविंग मानव चालक से अधिक सहज लगी। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Tesla FSD Melaju di Tengah Keramaian Yeonmujang-gil Seoul dalam Uji Coba",
+      "excerpt": "Tesla pada 13 Mei mendemonstrasikan sistem FSD terawasi di Seongsu-dong, Seoul, melewati jalan sempit yang dipenuhi pejalan kaki, taksi, truk berhenti, dan motor pengantar.",
+      "body": "Pada 13 Mei pukul 15.30, Tesla mendemonstrasikan perjalanan perkotaan di Yeonmujang-gil, Seongsu-dong, Seongdong-gu, Seoul, hanya dengan sistem terawasi FSD (Full Self-Driving). Jalan yang dipenuhi toko flagship dan ratusan pejalan kaki itu sangat sempit, sehingga dua kendaraan nyaris tidak dapat berpapasan. Selama perjalanan, muncul banyak variabel seperti pejalan kaki di persimpangan, truk yang berhenti, taksi, dan motor pengantar. Berdasarkan informasi visual dari delapan kamera, kendaraan memperlambat laju untuk memberi jalan saat truk berhenti menyalakan lampu sein, lalu berpindah jalur untuk menghindari taksi yang berhenti mendadak. Reporter yang ikut menumpang menilai laju kendaraan lebih mulus daripada pengemudi manusia. Sumber: rss.donga.com"
+    }
+  }
+}
