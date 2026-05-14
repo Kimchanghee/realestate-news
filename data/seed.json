@@ -1,5 +1,230 @@
 [
   {
+    "id": "758b5fce693e",
+    "slug": "전세-씨-말랐다-정부-빌라-등-非아파트-공급-긴급점검-625248",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T11:00:26.491Z",
+    "updatedAt": "2026-05-14T11:00:26.492Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047799",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047799",
+    "titleFingerprint": "c73e464533b90b109ab54958bd1d64284758fd8c",
+    "dedupKeys": [
+      "758b5fce693ed0e0beb4c6796afbcea3650f9b27",
+      "c73e464533b90b109ab54958bd1d64284758fd8c",
+      "771a1ff25efbfdc1ed31db233632a31c220a603b"
+    ],
+    "imageUrl": "/images/articles/758b5fce693e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트 전세 급등에 비아파트 공급 긴급점검, 주거 사다리 흔들리나",
+        "excerpt": "서울 아파트 전세가격 상승세가 10년 6개월여 만에 최고 수준을 기록한 가운데, 정부가 빌라 등 비아파트 공급 위축을 긴급 점검하며 서민 주거 불안 대응에 나섰다.",
+        "body": "서울 아파트 전세가격 상승세가 10년 6개월여 만에 가장 높은 수치를 기록한 가운데 정부가 빌라 등 비아파트 공급 상황을 긴급 점검하고 있다. 전세 물량이 줄어드는 상황에서 비아파트 시장의 공급마저 위축되면서 서민층이 이용해 온 주거 사다리가 약해질 수 있다는 우려가 커지고 있다. 특히 아파트 전세 부담이 커질수록 빌라 등 대체 주거 수요가 늘 수 있지만, 공급 부진이 이어지면 선택지는 더 좁아질 수 있다. 정부의 이번 점검은 전세시장 불안과 비아파트 공급 감소가 동시에 나타나는 흐름을 확인하기 위한 조치로 풀이된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seoul Apartment Jeonse Surge Prompts Emergency Review of Non-Apartment Supply",
+        "excerpt": "As Seoul apartment jeonse prices rise at their fastest pace in about 10 years and 6 months, the government is urgently reviewing shrinking villa and other non-apartment supply.",
+        "body": "With Seoul apartment jeonse prices posting their strongest rise in about 10 years and 6 months, the government is conducting an emergency review of supply conditions for villas and other non-apartment homes. Concerns are growing that, as jeonse listings dry up and even non-apartment supply contracts, the housing ladder used by ordinary households could weaken. As apartment jeonse burdens increase, demand may turn to villas and other alternatives, but continued supply weakness could narrow available choices. The review is seen as a step to assess the simultaneous pressure from jeonse market instability and reduced non-apartment supply. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ソウルのマンション賃貸保証金急騰、政府が非マンション供給を緊急点検",
+        "excerpt": "ソウルのマンション賃貸保証金の上昇率が約10年6カ月ぶりの高水準となる中、政府はヴィラなど非マンション供給の萎縮を緊急点検している。",
+        "body": "ソウルのマンション賃貸保証金の上昇率が約10年6カ月ぶりに最も高い水準を記録する中、政府はヴィラなど非マンション住宅の供給状況を緊急点検している。賃貸物件が減るなか、非マンション市場の供給まで萎縮し、庶民層が利用してきた住まいのステップが弱まるとの懸念が広がっている。マンションの賃貸負担が増すほどヴィラなど代替住宅への需要は高まり得るが、供給不振が続けば選択肢はさらに狭まる。今回の点検は、賃貸市場の不安と非マンション供給減少が同時に進む流れを確認する措置とみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "首尔公寓全租上涨加快，政府紧急检查别墅等非公寓供应",
+        "excerpt": "首尔公寓全租价格涨幅创约10年6个月来最高水平之际，政府正紧急检查别墅等非公寓供应收缩情况，以应对普通居民住房压力。",
+        "body": "在首尔公寓全租价格涨幅创下约10年6个月来最高水平的背景下，政府正在紧急检查别墅等非公寓住宅的供应情况。随着全租房源减少，非公寓市场供应也出现萎缩，外界担忧普通居民依赖的住房阶梯可能被削弱。尤其是公寓全租负担上升时，别墅等替代居住需求可能增加，但若供应低迷持续，居民可选择的空间将进一步缩小。此次检查被视为确认全租市场不安与非公寓供应减少同时出现的措施。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Sube el jeonse en apartamentos de Seúl y el Gobierno revisa viviendas no apartamento",
+        "excerpt": "Con el alza del jeonse de apartamentos en Seúl en su mayor nivel en unos 10 años y 6 meses, el Gobierno revisa de urgencia la menor oferta de villas y otras viviendas.",
+        "body": "Mientras los precios del jeonse de apartamentos en Seúl registran el mayor ritmo de aumento en unos 10 años y 6 meses, el Gobierno está revisando de urgencia la oferta de villas y otras viviendas no apartamento. Crece la preocupación de que, con menos disponibilidad de jeonse y una contracción también en el mercado no apartamento, se debilite la escalera residencial usada por los hogares de menores ingresos. A medida que aumenta la carga del jeonse en apartamentos, la demanda puede desplazarse a villas y alternativas similares, pero una oferta débil reduciría aún más las opciones. La revisión busca comprobar esta presión simultánea. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Alta do jeonse em Seul leva governo a revisar oferta de moradias não apartamentos",
+        "excerpt": "Com o jeonse de apartamentos em Seul no maior ritmo de alta em cerca de 10 anos e 6 meses, o governo faz revisão emergencial da oferta menor de villas e não apartamentos.",
+        "body": "Com os preços de jeonse dos apartamentos em Seul registrando o maior ritmo de alta em cerca de 10 anos e 6 meses, o governo está revisando em caráter emergencial a oferta de villas e outras moradias não classificadas como apartamentos. A preocupação cresce porque, enquanto a oferta de jeonse diminui, a retração também no mercado não apartamento pode enfraquecer a escada habitacional usada por famílias de menor renda. Quanto maior o peso do jeonse em apartamentos, maior pode ser a busca por alternativas como villas, mas a oferta fraca limita as opções. A revisão busca verificar essa pressão simultânea. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seouls Apartment-Jeonse steigt stark, Regierung prüft Nicht-Apartment-Angebot",
+        "excerpt": "Da die Jeonse-Preise für Apartments in Seoul so stark steigen wie seit rund 10 Jahren und 6 Monaten nicht, prüft die Regierung dringend das schrumpfende Angebot an Villen und Nicht-Apartments.",
+        "body": "Während die Jeonse-Preise für Apartments in Seoul den stärksten Anstieg seit rund 10 Jahren und 6 Monaten verzeichnen, prüft die Regierung dringend die Versorgungslage bei Villen und anderen Nicht-Apartment-Wohnungen. Die Sorge wächst, dass bei knapper werdenden Jeonse-Angeboten und zugleich schrumpfendem Nicht-Apartment-Markt die Wohnleiter für normale Haushalte geschwächt werden könnte. Steigende Apartment-Jeonse-Belastungen können die Nachfrage nach Alternativen wie Villen erhöhen, doch anhaltend schwaches Angebot würde die Auswahl weiter verringern. Die Prüfung soll diese gleichzeitige Marktanspannung erfassen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hausse du jeonse à Séoul: le gouvernement vérifie l’offre hors appartements",
+        "excerpt": "Alors que le jeonse des appartements à Séoul connaît sa plus forte hausse en environ 10 ans et 6 mois, le gouvernement examine d’urgence l’offre réduite de villas et autres logements.",
+        "body": "Alors que les prix du jeonse des appartements à Séoul enregistrent leur plus forte progression depuis environ 10 ans et 6 mois, le gouvernement procède à une vérification urgente de l’offre de villas et d’autres logements hors appartements. Les inquiétudes grandissent: avec moins de biens disponibles en jeonse et une contraction du marché non appartement, l’échelle résidentielle utilisée par les ménages modestes pourrait s’affaiblir. Plus la charge du jeonse en appartement augmente, plus la demande peut se tourner vers des alternatives comme les villas, mais une offre faible réduirait encore les choix. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع جونسي الشقق في سول يدفع الحكومة لفحص عاجل لمعروض المساكن غير الشقق",
+        "excerpt": "مع تسجيل أسعار جونسي الشقق في سول أسرع ارتفاع منذ نحو 10 سنوات و6 أشهر، تفحص الحكومة بشكل عاجل تراجع معروض الفيلات والمساكن غير الشقق.",
+        "body": "في ظل تسجيل أسعار جونسي الشقق في سول أعلى وتيرة ارتفاع منذ نحو 10 سنوات و6 أشهر، تجري الحكومة فحصا عاجلا لوضع معروض الفيلات وغيرها من المساكن غير المصنفة كشقق. وتتزايد المخاوف من أن يؤدي تراجع معروض الجونسي، إلى جانب انكماش سوق المساكن غير الشقق، إلى إضعاف سلم السكن الذي تعتمد عليه الأسر محدودة الدخل. ومع ارتفاع عبء جونسي الشقق قد يزداد الطلب على بدائل مثل الفيلات، لكن استمرار ضعف المعروض قد يضيق الخيارات المتاحة. ويعد هذا الفحص خطوة لرصد تزامن اضطراب سوق الجونسي مع انخفاض معروض غير الشقق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट जोंसे में तेज बढ़त, गैर-अपार्टमेंट आपूर्ति की आपात समीक्षा",
+        "excerpt": "सियोल अपार्टमेंट जोंसे कीमतों की वृद्धि करीब 10 साल 6 महीने में सबसे ऊंचे स्तर पर पहुंचने के बीच सरकार विला सहित गैर-अपार्टमेंट आपूर्ति में कमी की आपात समीक्षा कर रही है।",
+        "body": "सियोल में अपार्टमेंट जोंसे कीमतों की वृद्धि करीब 10 साल 6 महीने में सबसे ऊंचे स्तर पर पहुंचने के बीच सरकार विला और अन्य गैर-अपार्टमेंट आवासों की आपूर्ति स्थिति की आपात समीक्षा कर रही है। जोंसे उपलब्धता घटने और गैर-अपार्टमेंट बाजार की आपूर्ति भी कमजोर होने से यह चिंता बढ़ रही है कि सामान्य परिवारों के लिए आवासीय सीढ़ी कमजोर पड़ सकती है। अपार्टमेंट जोंसे का बोझ बढ़ने पर विला जैसे विकल्पों की मांग बढ़ सकती है, लेकिन आपूर्ति की कमजोरी जारी रही तो विकल्प और सीमित होंगे। यह समीक्षा जोंसे बाजार की अस्थिरता और गैर-अपार्टमेंट आपूर्ति में कमी को साथ-साथ परखने का कदम मानी जा रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jeonse Apartemen Seoul Melonjak, Pemerintah Cek Darurat Pasokan Non-Apartemen",
+        "excerpt": "Saat kenaikan harga jeonse apartemen Seoul mencapai level tertinggi dalam sekitar 10 tahun 6 bulan, pemerintah meninjau darurat menyusutnya pasokan vila dan hunian non-apartemen.",
+        "body": "Saat harga jeonse apartemen di Seoul mencatat laju kenaikan tertinggi dalam sekitar 10 tahun 6 bulan, pemerintah melakukan pemeriksaan darurat atas kondisi pasokan vila dan hunian non-apartemen lainnya. Kekhawatiran meningkat karena pasokan jeonse menipis, sementara pasokan di pasar non-apartemen juga menyusut, sehingga tangga hunian bagi masyarakat berpenghasilan rendah dapat melemah. Ketika beban jeonse apartemen naik, permintaan terhadap alternatif seperti vila bisa bertambah, tetapi pasokan yang lemah akan mempersempit pilihan. Pemeriksaan ini dipandang sebagai langkah untuk melihat tekanan bersamaan dari ketidakstabilan pasar jeonse dan penurunan pasokan non-apartemen. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "6e0cfe9d9bfd",
+    "slug": "1만가구-송파-올림픽기자촌-상가-빼고-재건축-추진-447758",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T10:59:26.051Z",
+    "updatedAt": "2026-05-14T10:59:26.051Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047822",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047822",
+    "titleFingerprint": "31681f10e43487fb92096c2911d192c69672d084",
+    "dedupKeys": [
+      "6e0cfe9d9bfda33008512db9f83580b1a2123f92",
+      "31681f10e43487fb92096c2911d192c69672d084",
+      "45519fbeeb491b739a3aad426c5db09066b70c32"
+    ],
+    "imageUrl": "/images/articles/6e0cfe9d9bfd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "송파 올림픽기자촌 1만가구 재건축, 상가 제외 추진 논란 재점화",
+        "excerpt": "서울 송파구 1만가구 규모의 올림픽기자촌 재건축이 상가를 제외한 방식으로 추진되며, 사업 초기 갈등을 줄이려던 결정에도 뒤늦은 논란이 불거지고 있다.",
+        "body": "서울 송파구의 1만가구 규모 단지인 올림픽기자촌 재건축 사업이 상가를 제외한 형태로 추진되며 논란이 이어지고 있다. 재건축 현장에서 상가가 사업 진행의 ‘애물단지’로 여겨지는 상황이 확산되는 가운데, 올림픽기자촌은 불필요한 갈등을 피하기 위해 사업 초기부터 상가를 배제한 것으로 전해졌다. 그러나 뒤늦게 이 방식을 둘러싼 문제가 불거지면서 재건축 추진 과정의 쟁점으로 떠올랐다. 대규모 주거 단지 재건축에서 상가 포함 여부가 사업 속도와 이해관계 조정에 영향을 미칠 수 있다는 점에서 향후 논의가 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Songpa Olympic Village Apartments Push 10,000-Home Rebuild Without Shops",
+        "excerpt": "The 10,000-home Olympic Village Apartments redevelopment in Songpa, Seoul, is moving forward without commercial units, reigniting debate despite an early effort to avoid conflict.",
+        "body": "The Olympic Village Apartments in Songpa, Seoul, a complex of about 10,000 homes, is pursuing redevelopment while excluding its commercial units, drawing continued controversy. As shops in redevelopment projects are increasingly seen as a difficult issue, the complex reportedly left them out from the early stage to avoid unnecessary conflict. However, problems over that approach have surfaced later, making it a key point of debate in the redevelopment process. In a large residential redevelopment project, whether shops are included can affect the pace of the project and coordination among stakeholders. Further discussions are therefore expected to draw attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "松坡オリンピック記者村1万戸再建築、商店除外で推進し論争再燃",
+        "excerpt": "ソウル松坡区の約1万戸規模オリンピック記者村再建築が商店を除外して進められ、初期の対立回避策にもかかわらず遅れて論争が浮上している。",
+        "body": "ソウル松坡区にある約1万戸規模の団地、オリンピック記者村の再建築事業が商店を除外する形で進められ、論争が続いている。再建築の現場で商店が事業推進上の厄介な要素と見なされる状況が広がるなか、同団地は不要な対立を避けるため、事業初期から商店を対象から外したとされる。しかし、その方式をめぐる問題が後になって表面化し、再建築推進過程の争点となった。大規模住宅団地の再建築では、商店を含めるかどうかが事業速度や利害調整に影響し得るため、今後の議論が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "松坡奥林匹克记者村1万户重建，排除商铺推进引发争议",
+        "excerpt": "首尔松坡区约1万户规模的奥林匹克记者村重建计划拟排除商铺推进，虽早期为减少冲突作出安排，但相关争议近日再次浮现。",
+        "body": "首尔松坡区约1万户规模的奥林匹克记者村重建项目正以排除商铺的方式推进，相关争议仍在持续。在重建项目中，商铺日益被视为影响推进的棘手因素。为避免不必要的矛盾，奥林匹克记者村据称从项目初期就将商铺排除在外。然而，围绕这一方式的问题后来浮出水面，成为重建推进过程中的争议焦点。对于大型住宅小区重建而言，是否纳入商铺可能影响项目进度和利益协调，因此后续讨论备受关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Songpa Olympic Village avanza con 10.000 viviendas sin locales comerciales",
+        "excerpt": "La reconstrucción de Olympic Village en Songpa, Seúl, con unas 10.000 viviendas, avanza excluyendo los locales comerciales, pese a que esa decisión inicial buscaba evitar conflictos.",
+        "body": "El proyecto de reconstrucción de Olympic Village en Songpa, Seúl, un complejo de unas 10.000 viviendas, avanza con la exclusión de los locales comerciales, lo que mantiene abierta la controversia. En los proyectos de reconstrucción, los comercios se consideran cada vez más un factor problemático para el avance del negocio. En este caso, se informó que fueron excluidos desde la etapa inicial para evitar conflictos innecesarios. Sin embargo, más tarde surgieron cuestionamientos sobre ese método, convirtiéndolo en un punto clave del proceso. En una reconstrucción residencial de gran escala, incluir o no los comercios puede influir en el ritmo del proyecto y en la coordinación de intereses. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Songpa Olympic Village planeja reconstrução de 10 mil casas sem lojas",
+        "excerpt": "A reconstrução do Olympic Village em Songpa, Seul, com cerca de 10 mil residências, avança excluindo lojas, embora a decisão inicial buscasse evitar conflitos desnecessários.",
+        "body": "O projeto de reconstrução do Olympic Village em Songpa, Seul, um complexo com cerca de 10 mil residências, está sendo promovido com a exclusão das unidades comerciais, mantendo a controvérsia. Em obras de reconstrução, lojas vêm sendo vistas cada vez mais como um fator problemático para o andamento dos projetos. No caso do Olympic Village, elas teriam sido excluídas desde o início para evitar conflitos desnecessários. Ainda assim, questões sobre essa forma de condução surgiram posteriormente e se tornaram um ponto de debate. Em grandes conjuntos residenciais, incluir ou não as lojas pode afetar o ritmo do projeto e a coordenação entre interessados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Songpa Olympic Village: 10.000 Wohnungen sollen ohne Läden neu gebaut werden",
+        "excerpt": "Die Sanierung des Olympic Village in Songpa, Seoul, mit rund 10.000 Wohnungen soll ohne Gewerbeflächen vorangetrieben werden, obwohl dies ursprünglich Konflikte vermeiden sollte.",
+        "body": "Das Olympic Village in Songpa, Seoul, ein Komplex mit rund 10.000 Wohnungen, treibt sein Wiederaufbauprojekt ohne Einbeziehung der Gewerbeflächen voran und sorgt damit weiter für Kontroversen. In Wiederaufbauprojekten gelten Läden zunehmend als schwieriger Faktor für den Projektverlauf. Beim Olympic Village wurden sie Berichten zufolge bereits in einer frühen Phase ausgeschlossen, um unnötige Konflikte zu vermeiden. Dennoch sind später Probleme mit diesem Vorgehen aufgetreten, die nun zu einem Streitpunkt im Prozess geworden sind. Bei großen Wohnanlagen kann die Frage, ob Gewerbeflächen einbezogen werden, Tempo und Interessenausgleich beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Songpa Olympic Village: 10 000 logements reconstruits sans commerces",
+        "excerpt": "La reconstruction d’Olympic Village à Songpa, Séoul, environ 10 000 logements, avance sans intégrer les commerces, malgré une décision initiale destinée à éviter les conflits.",
+        "body": "Le projet de reconstruction d’Olympic Village à Songpa, Séoul, un ensemble d’environ 10 000 logements, est mené en excluant les commerces, ce qui continue de susciter la controverse. Dans les projets de reconstruction, les commerces sont de plus en plus perçus comme un facteur problématique pour l’avancement des opérations. Dans ce cas, ils auraient été écartés dès le début afin d’éviter des conflits inutiles. Toutefois, des problèmes liés à cette méthode sont apparus plus tard, en faisant un point sensible du processus. Pour une grande résidence, l’inclusion ou non des commerces peut influencer le rythme du projet et la coordination des intérêts. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إعادة تطوير أولمبيك فيليدج في سونغبا تضم 10 آلاف وحدة من دون المتاجر",
+        "excerpt": "يمضي مشروع إعادة تطوير مجمع أولمبيك فيليدج في سونغبا بسيول، البالغ نحو 10 آلاف وحدة، قدما مع استبعاد المتاجر رغم أن القرار المبكر هدف إلى تجنب الخلافات.",
+        "body": "يمضي مشروع إعادة تطوير مجمع أولمبيك فيليدج في سونغبا بسيول، وهو مجمع يضم نحو 10 آلاف وحدة سكنية، بصيغة تستبعد الوحدات التجارية، ما يبقي الجدل قائما. وفي مشاريع إعادة التطوير، أصبحت المتاجر تعد بشكل متزايد عاملا صعبا في مسار تنفيذ المشروع. وبحسب ما ورد، استبعدت المتاجر من المرحلة الأولى في أولمبيك فيليدج لتجنب خلافات غير ضرورية. لكن مشكلات مرتبطة بهذا النهج ظهرت لاحقا، لتصبح نقطة خلاف في عملية إعادة التطوير. وفي المجمعات السكنية الكبيرة، قد يؤثر إدراج المتاجر أو استبعادها في سرعة المشروع وتنسيق المصالح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सोंगपा ओलंपिक विलेज की 10 हजार घरों वाली पुनर्निर्माण योजना में दुकानें बाहर",
+        "excerpt": "सियोल के सोंगपा स्थित करीब 10 हजार घरों वाले ओलंपिक विलेज पुनर्निर्माण में दुकानों को बाहर रखकर योजना आगे बढ़ रही है, जबकि शुरुआती फैसला विवाद टालने के लिए था।",
+        "body": "सियोल के सोंगपा स्थित करीब 10 हजार घरों वाले ओलंपिक विलेज अपार्टमेंट का पुनर्निर्माण प्रोजेक्ट दुकानों को शामिल किए बिना आगे बढ़ रहा है, जिससे विवाद जारी है। पुनर्निर्माण परियोजनाओं में व्यावसायिक दुकानों को तेजी से एक कठिन मुद्दे के रूप में देखा जा रहा है। बताया गया है कि अनावश्यक टकराव से बचने के लिए इस परिसर ने शुरुआती चरण से ही दुकानों को अलग रखा था। हालांकि, बाद में इसी तरीके को लेकर समस्याएं सामने आईं और यह पुनर्निर्माण प्रक्रिया का प्रमुख मुद्दा बन गया। बड़े आवासीय परिसरों में दुकानों को शामिल करने या न करने से परियोजना की गति और हितों के समन्वय पर असर पड़ सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Olympic Village Songpa 10 Ribu Hunian Direkonstruksi Tanpa Area Toko",
+        "excerpt": "Rekonstruksi Olympic Village di Songpa, Seoul, berkapasitas sekitar 10 ribu hunian, berjalan dengan mengecualikan area toko meski keputusan awal itu dibuat untuk menghindari konflik.",
+        "body": "Proyek rekonstruksi Olympic Village di Songpa, Seoul, kompleks dengan sekitar 10 ribu hunian, sedang didorong dengan mengecualikan unit komersial, sehingga kontroversi terus berlanjut. Dalam proyek rekonstruksi, toko semakin dipandang sebagai faktor yang menyulitkan proses bisnis. Olympic Village dilaporkan mengecualikan toko sejak tahap awal untuk menghindari konflik yang tidak perlu. Namun, masalah terkait cara tersebut muncul belakangan dan menjadi titik perdebatan dalam proses rekonstruksi. Pada pembangunan ulang kompleks hunian berskala besar, apakah toko dimasukkan atau tidak dapat memengaruhi kecepatan proyek dan koordinasi kepentingan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "b8804e0a19dd",
+    "slug": "지방아파트-거래량-5년-만에-최대-486838",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T10:58:17.696Z",
+    "updatedAt": "2026-05-14T10:58:17.696Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047824",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047824",
+    "titleFingerprint": "744982e729d857e5bd200823139f9195fc083fe5",
+    "dedupKeys": [
+      "b8804e0a19ddad66d6b30ba53817a52f169166ab",
+      "744982e729d857e5bd200823139f9195fc083fe5",
+      "adbdd54515e0eb6a8e0662b4a7dc75d6b1628da4"
+    ],
+    "imageUrl": "/images/articles/b8804e0a19dd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "지방아파트 거래량 5년 만에 최대, 대구·전주·창원 회복 신호",
+        "excerpt": "올해 1분기 지방 아파트 거래량이 2021년 이후 최대 수준으로 늘며 장기 미분양 침체를 겪던 지방 주택시장에 회복 조짐이 나타나고 있다.",
+        "body": "올해 1분기 지방 아파트 시장에서 거래량이 2021년 이후 최대 수준으로 늘었다. 장기간 이어진 미분양 침체에서 벗어나는 흐름이 관찰되면서 지방 주택시장 회복 여부가 주목된다. 원문에 따르면 대구, 전주, 창원 등 주요 지방 거점에서도 거래 움직임이 나타나고 있다. 이번 거래 증가세는 지방 아파트 시장의 수요가 일부 되살아나는 신호로 해석될 수 있으나, 원문은 구체적인 가격 변화나 향후 전망 수치를 제시하지 않았다. 시장의 지속 회복 여부는 추가 거래 흐름을 통해 확인될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Regional Apartment Deals Hit Five-Year High as Daegu, Jeonju, Changwon Show Signs",
+        "excerpt": "In the first quarter of this year, regional apartment transactions rose to their highest level since 2021, signaling a possible recovery from a prolonged unsold-housing slump.",
+        "body": "Regional apartment transactions in the first quarter of this year rose to their highest level since 2021. The increase suggests that local apartment markets are showing signs of moving away from a long period of weakness caused by unsold inventory. According to the source, transaction activity has also appeared in major regional cities such as Daegu, Jeonju and Changwon. The rise may indicate some return of demand in regional apartment markets, but the original report did not provide specific price changes or numerical forecasts. Whether the recovery continues will depend on future transaction trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "地方マンション取引量が5年ぶり最大、大邱・全州・昌原に回復の兆し",
+        "excerpt": "今年1四半期の地方マンション取引量が2021年以降で最大水準に増え、長引く未分譲低迷からの回復兆候が見られている。",
+        "body": "今年1四半期、韓国の地方マンション市場で取引量が2021年以降で最大水準に増えた。長く続いた未分譲による低迷から抜け出す流れが観察され、地方住宅市場の回復が注目されている。原文によると、大邱、全州、昌原など主要な地方拠点都市でも取引の動きが出ている。今回の増加は地方マンション市場で需要が一部戻りつつある信号と受け止められるが、原文は具体的な価格変動や今後の見通し数値を示していない。回復が続くかは今後の取引動向で確認される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "地方公寓交易量创5年来新高，大邱全州昌原显现复苏信号",
+        "excerpt": "今年一季度，韩国地方公寓交易量增至2021年以来最高水平，长期受未售库存拖累的地方住房市场出现复苏迹象。",
+        "body": "今年一季度，韩国地方公寓市场交易量增至2021年以来最高水平。随着市场呈现摆脱长期未售库存低迷的趋势，地方住房市场是否复苏受到关注。原文称，大邱、全州、昌原等主要地方城市也出现交易动向。此次交易增加可被解读为地方公寓市场需求部分回升的信号，但原文并未提供具体价格变化或未来预测数据。复苏能否持续，仍需通过后续交易走势确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ventas de apartamentos regionales alcanzan máximo en 5 años con señales en Daegu",
+        "excerpt": "En el primer trimestre de este año, las transacciones de apartamentos fuera de la capital subieron a su mayor nivel desde 2021, tras una prolongada debilidad por unidades sin vender.",
+        "body": "En el primer trimestre de este año, el mercado de apartamentos regionales registró el mayor volumen de transacciones desde 2021. El aumento muestra señales de que el mercado empieza a salir de una larga etapa de debilidad marcada por viviendas sin vender. Según la fuente, también se observan movimientos de compraventa en ciudades regionales importantes como Daegu, Jeonju y Changwon. Este repunte puede indicar una recuperación parcial de la demanda, aunque el informe original no presentó cambios concretos de precios ni cifras de previsión. La continuidad de la mejora dependerá de las próximas tendencias de transacción. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Transações de apartamentos regionais atingem maior nível em 5 anos na Coreia",
+        "excerpt": "No primeiro trimestre deste ano, as transações de apartamentos fora dos grandes centros chegaram ao maior nível desde 2021, sinalizando recuperação após longa fraqueza por imóveis não vendidos.",
+        "body": "No primeiro trimestre deste ano, o mercado regional de apartamentos registrou o maior volume de transações desde 2021. O avanço mostra sinais de saída de um longo período de fraqueza ligado ao estoque de unidades não vendidas. Segundo a fonte, também houve movimentação em importantes cidades regionais como Daegu, Jeonju e Changwon. O aumento pode indicar alguma recuperação da demanda por apartamentos regionais, mas a reportagem original não apresentou mudanças específicas de preços nem números de projeção. A continuidade da recuperação deverá ser confirmada pelas próximas tendências de negociação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Regionale Wohnungsverkäufe auf Fünfjahreshoch, Signale aus Daegu und Jeonju",
+        "excerpt": "Im ersten Quartal dieses Jahres stieg die Zahl regionaler Apartmenttransaktionen auf den höchsten Stand seit 2021 und deutet auf Erholung nach langer Schwäche durch unverkaufte Bestände hin.",
+        "body": "Im ersten Quartal dieses Jahres erreichte die Zahl der Transaktionen am regionalen Apartmentmarkt den höchsten Stand seit 2021. Damit zeigen sich Anzeichen, dass sich der Markt von einer langen Schwächephase durch unverkaufte Wohnungen löst. Der Quelle zufolge gibt es auch in wichtigen regionalen Städten wie Daegu, Jeonju und Changwon Handelsaktivität. Der Anstieg kann als Hinweis auf eine teilweise Rückkehr der Nachfrage gewertet werden, doch der Originalbericht nennt keine konkreten Preisänderungen oder Prognosezahlen. Ob sich die Erholung fortsetzt, wird sich an den weiteren Transaktionstrends zeigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Transactions d’appartements régionaux au plus haut en 5 ans, signes à Daegu",
+        "excerpt": "Au premier trimestre de cette année, les transactions d’appartements en régions ont atteint leur plus haut niveau depuis 2021, signalant une possible reprise après une longue faiblesse liée aux invendus.",
+        "body": "Au premier trimestre de cette année, le marché régional des appartements a enregistré son plus fort volume de transactions depuis 2021. Cette hausse montre des signes de sortie d’une longue période de faiblesse liée aux logements invendus. Selon la source, des mouvements de transaction apparaissent aussi dans de grandes villes régionales comme Daegu, Jeonju et Changwon. Cette progression peut indiquer un retour partiel de la demande, mais l’article original ne fournit pas de variations précises de prix ni de chiffres de prévision. La poursuite de la reprise devra être confirmée par les prochaines tendances de transactions. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تداول شقق الأقاليم يبلغ أعلى مستوى في 5 سنوات وإشارات من دايغو وجيونجو",
+        "excerpt": "في الربع الأول من هذا العام ارتفع حجم تداول الشقق في المناطق خارج العاصمة إلى أعلى مستوى منذ 2021، ما يشير إلى تعاف محتمل بعد ركود طويل بسبب الوحدات غير المباعة.",
+        "body": "في الربع الأول من هذا العام، سجل سوق الشقق في الأقاليم الكورية أعلى حجم تداول منذ عام 2021. ويشير ذلك إلى بوادر خروج من ركود طويل ارتبط بتراكم الوحدات غير المباعة، ما يلفت الانتباه إلى احتمال تعافي سوق الإسكان المحلي. ووفق المصدر، ظهرت حركة تداول أيضا في مدن إقليمية رئيسية مثل دايغو وجيونجو وتشانغوون. قد تعكس الزيادة عودة جزئية للطلب على شقق الأقاليم، لكن التقرير الأصلي لم يقدم تغيرات سعرية محددة أو أرقاما لتوقعات مستقبلية. وسيعتمد استمرار التعافي على اتجاهات التداول المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्षेत्रीय अपार्टमेंट सौदे 5 साल के उच्च स्तर पर, डेगू-जोंजू-चांगवॉन में संकेत",
+        "excerpt": "इस वर्ष की पहली तिमाही में क्षेत्रीय अपार्टमेंट लेनदेन 2021 के बाद सबसे ऊंचे स्तर पर पहुंचा, जिससे लंबे अनबिके आवास संकट के बाद सुधार के संकेत दिखे।",
+        "body": "इस वर्ष की पहली तिमाही में कोरिया के क्षेत्रीय अपार्टमेंट बाजार में लेनदेन 2021 के बाद सबसे ऊंचे स्तर पर पहुंच गया। लंबे समय से अनबिके मकानों के कारण जारी कमजोरी से बाहर निकलने के संकेत दिख रहे हैं, इसलिए स्थानीय आवास बाजार की रिकवरी पर ध्यान है। स्रोत के अनुसार, डेगू, जोंजू और चांगवॉन जैसे प्रमुख क्षेत्रीय शहरों में भी लेनदेन की गतिविधि दिखी। यह वृद्धि मांग की आंशिक वापसी का संकेत हो सकती है, लेकिन मूल रिपोर्ट ने कीमतों में बदलाव या भविष्य के अनुमान के ठोस आंकड़े नहीं दिए। रिकवरी जारी रहेगी या नहीं, यह आगे के लेनदेन रुझानों से स्पष्ट होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Transaksi Apartemen Daerah Tertinggi dalam 5 Tahun, Daegu hingga Changwon Bergerak",
+        "excerpt": "Pada kuartal pertama tahun ini, transaksi apartemen di daerah naik ke level tertinggi sejak 2021, memberi sinyal pemulihan setelah lama tertekan stok belum terjual.",
+        "body": "Pada kuartal pertama tahun ini, pasar apartemen di daerah mencatat volume transaksi tertinggi sejak 2021. Kenaikan ini menunjukkan tanda-tanda bahwa pasar mulai keluar dari masa lesu panjang akibat unit yang belum terjual. Menurut sumber, aktivitas transaksi juga terlihat di kota-kota daerah utama seperti Daegu, Jeonju, dan Changwon. Peningkatan tersebut dapat dipahami sebagai sinyal sebagian permintaan mulai kembali, tetapi laporan asli tidak menyajikan perubahan harga khusus maupun angka proyeksi ke depan. Berlanjut tidaknya pemulihan akan terlihat dari tren transaksi berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "fd795fe838a7",
     "slug": "서초-코오롱스포렉스-용지-189m-역삼각형-랜드마크로-499562",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Kia Perdana Ikut BSDA 2026, Kendaraan Komando Militer Tasman Tampil di Eropa",
         "excerpt": "Kia pertama kali mengikuti BSDA 2026 di Bukares, Rumania, pada 13-15 Mei dengan menampilkan kendaraan komando militer berbasis Tasman dan KLTV kargo dua kursi.",
         "body": "Kia menyatakan pertama kali mengikuti pameran industri pertahanan BSDA 2026 yang digelar pada 13 hingga 15 Mei waktu setempat di Bukares, Rumania, dengan memamerkan kendaraan militer. BSDA, yang dikenal sebagai pameran pertahanan utama di Eropa Timur, memasuki penyelenggaraan ke-10 tahun ini. Kia memperkenalkan untuk pertama kali di Eropa kendaraan komando militer berbasis pikap menengah Tasman. Model ini memadukan kemampuan off-road khas pikap dengan spesifikasi operasi militer, termasuk radio dan pengendalian lampu untuk mengurangi paparan. Sejak tahun lalu, kendaraan tersebut telah dikerahkan sebagai kendaraan komando standar Angkatan Bersenjata Korea Selatan. Kia juga menampilkan KLTV kargo dua kursi, kendaraan taktis ringan yang mampu melintasi sungai sedalam 760 mm serta berjalan di kemiringan vertikal sekitar 31 derajat dan kemiringan samping sekitar 22 derajat. Hyundai Rotem turut mendemonstrasikan fungsi kendaraan nirawak multiguna di lokasi yang sama. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "6882e5fa205e",
-    "slug": "세계인-울린-신라면-40년간-매출-20조-2030년-글로벌-1위-996870",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T18:33:30.939Z",
-    "updatedAt": "2026-05-13T18:33:30.939Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917412/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917412/2",
-    "titleFingerprint": "2e82716ad9d0b4aa18e3b09eee9f26a9375a0073",
-    "dedupKeys": [
-      "6882e5fa205ec0f03051500abfa0a7186658dcc2",
-      "2e82716ad9d0b4aa18e3b09eee9f26a9375a0073",
-      "4ce42994adbc50b6de4fb7ff285c1b59deb9ec29"
-    ],
-    "imageUrl": "/images/articles/6882e5fa205e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신라면 누적 매출 20조 돌파, 농심 ‘2030년 글로벌 1위’ 목표 제시",
-        "excerpt": "농심은 13일 서울 롯데호텔 기자간담회에서 신라면이 출시 40년 만에 누적 매출 20조 원과 판매량 425억 개를 넘겼다고 밝히고 글로벌 공략 확대 계획을 제시했다.",
-        "body": "농심은 13일 서울 중구 롯데호텔 서울에서 기자간담회를 열고 1986년 탄생한 신라면이 국내 라면업계 최초로 단일 제품 기준 누적 매출 20조 원, 누적 판매량 425억 개를 돌파했다고 밝혔다. 조용철 농심 대표이사는 신라면의 매운맛이 한국을 넘어 세계로 확산하며 지난해 말 누적 매출 20조 원을 달성했다고 설명했다. 누적 판매량 425억 개는 봉지당 면발 길이 40m 기준으로 지구와 태양을 약 6번 왕복할 수 있는 거리이며, 시간당 약 12만 개, 초당 약 34개가 팔린 셈이다. 누적 매출의 약 40%는 해외에서 나왔다. 농심은 신제품 ‘신라면 로제’를 라인업에 추가하고 해외 생산·판매 네트워크를 확대해 2030년 글로벌 라면 시장 1위를 목표로 한다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Shin Ramyun Sales Top 20 Trillion Won as Nongshim Targets Global No. 1 by 2030",
-        "excerpt": "Nongshim said at a Seoul press conference on May 13 that Shin Ramyun has surpassed 20 trillion won in cumulative sales and 42.5 billion packs sold since its 1986 launch.",
-        "body": "Nongshim held a press conference on May 13 at Lotte Hotel Seoul in Jung-gu, Seoul, and said Shin Ramyun, launched in 1986, has become the first product in Korea’s ramyun industry to exceed 20 trillion won in cumulative sales and 42.5 billion units sold. CEO Cho Yong-chul said Shin Ramyun’s spicy flavor has expanded beyond Korea to the world, reaching the 20 trillion won milestone by the end of last year. The 42.5 billion units sold equal a noodle length that could travel between Earth and the sun about six round trips, based on 40 meters per pack. That averages about 120,000 packs per hour and 34 per second. About 40% of cumulative sales came from overseas. Nongshim is adding the new Shin Ramyun Rose to the lineup and expanding its global network as it aims to become No. 1 in the global ramyun market by 2030. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "辛ラーメン累計売上20兆ウォン突破、農心が2030年世界1位目標",
-        "excerpt": "農心は13日、ソウルの記者懇談会で、1986年発売の辛ラーメンが累計売上20兆ウォン、販売425億個を超えたと発表し、海外攻略を強化すると明らかにした。",
-        "body": "農心は13日、ソウル中区のロッテホテルソウルで記者懇談会を開き、1986年に誕生した辛ラーメンが韓国ラーメン業界で初めて単一商品基準の累計売上20兆ウォン、累計販売425億個を突破したと発表した。趙容喆代表取締役は、辛ラーメンの辛さが韓国を越えて世界へ広がり、昨年末に累計売上20兆ウォンを達成したと説明した。累計販売425億個は、1袋当たり麺の長さ40メートルで計算すると、地球と太陽を約6往復できる距離に相当する。時間当たり約12万個、秒当たり約34個が売れた計算だ。累計売上の約40%は海外で生じた。農心は新商品「辛ラーメン ロゼ」をラインアップに加え、海外生産・販売ネットワークを拡大し、2030年に世界ラーメン市場1位を目指す。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "辛拉面累计销售额突破20万亿韩元，农心提出2030年全球第一目标",
-        "excerpt": "农心13日在首尔举行记者会称，1986年问世的辛拉面累计销售额突破20万亿韩元、销量达425亿包，并将加快拓展海外市场。",
-        "body": "农心13日在首尔中区乐天酒店首尔举行记者会表示，1986年诞生的辛拉面成为韩国方便面行业首个单一产品累计销售额突破20万亿韩元、累计销量超过425亿包的品牌。农心代表理事赵容哲表示，辛拉面的辣味从韩国走向世界，并在去年年底实现单一产品累计销售额20万亿韩元。累计销量425亿包若按每包面条长度40米计算，相当于可在地球与太阳之间往返约6次；按时间计算，约为每小时售出12万包、每秒售出34包。累计销售额约40%来自海外。农心计划把新品“辛拉面Rose”加入产品线，并扩大海外生产和销售网络，目标是在2030年成为全球方便面市场第一。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Shin Ramyun supera 20 billones de wones y Nongshim apunta al número 1 global en 2030",
-        "excerpt": "Nongshim informó el 13 de mayo en Seúl que Shin Ramyun, lanzado en 1986, superó 20 billones de wones en ventas acumuladas y 42.500 millones de unidades vendidas.",
-        "body": "Nongshim celebró el 13 de mayo una rueda de prensa en el Lotte Hotel Seoul, en Jung-gu, Seúl, y anunció que Shin Ramyun, nacido en 1986, se convirtió en el primer producto del sector coreano de ramyun en superar 20 billones de wones en ventas acumuladas y 42.500 millones de unidades vendidas. El consejero delegado Cho Yong-chul explicó que el sabor picante de Shin Ramyun se ha expandido de Corea al mundo y alcanzó esa cifra de ventas a finales del año pasado. Las 42.500 millones de unidades equivalen, con 40 metros de fideos por paquete, a una distancia suficiente para ir y volver entre la Tierra y el Sol unas seis veces. Se vendieron cerca de 120.000 paquetes por hora y 34 por segundo. Alrededor del 40% de las ventas acumuladas procedió del extranjero. Nongshim añadirá el nuevo Shin Ramyun Rose y ampliará su red global para aspirar al número 1 mundial en ramyun en 2030. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Shin Ramyun passa de 20 trilhões de won e Nongshim mira liderança global em 2030",
-        "excerpt": "A Nongshim disse em 13 de maio, em Seul, que o Shin Ramyun, lançado em 1986, superou 20 trilhões de won em vendas acumuladas e 42,5 bilhões de unidades vendidas.",
-        "body": "A Nongshim realizou em 13 de maio uma entrevista coletiva no Lotte Hotel Seoul, em Jung-gu, Seul, e informou que o Shin Ramyun, criado em 1986, tornou-se o primeiro produto do setor coreano de ramyun a ultrapassar 20 trilhões de won em vendas acumuladas e 42,5 bilhões de unidades vendidas. O CEO Cho Yong-chul afirmou que o sabor picante do Shin Ramyun se expandiu da Coreia para o mundo e atingiu 20 trilhões de won em vendas acumuladas no fim do ano passado. As 42,5 bilhões de unidades equivalem, considerando 40 metros de macarrão por pacote, a uma distância capaz de ir e voltar entre a Terra e o Sol cerca de seis vezes. Isso representa cerca de 120 mil pacotes por hora e 34 por segundo. Aproximadamente 40% das vendas acumuladas vieram do exterior. A Nongshim adicionará o novo Shin Ramyun Rose e ampliará sua rede global para mirar o primeiro lugar mundial em ramyun em 2030. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Shin Ramyun knackt 20 Billionen Won Umsatz, Nongshim peilt Weltspitze 2030 an",
-        "excerpt": "Nongshim erklärte am 13. Mai in Seoul, Shin Ramyun habe seit dem Start 1986 kumulierte Verkäufe von 20 Billionen Won und 42,5 Milliarden Packungen erreicht.",
-        "body": "Nongshim hielt am 13. Mai im Lotte Hotel Seoul in Jung-gu, Seoul, eine Pressekonferenz ab und teilte mit, dass Shin Ramyun, 1986 eingeführt, als erstes Produkt der koreanischen Ramyun-Branche kumulierte Verkäufe von 20 Billionen Won und 42,5 Milliarden verkaufte Einheiten überschritten hat. CEO Cho Yong-chul sagte, der scharfe Geschmack von Shin Ramyun habe sich über Korea hinaus weltweit verbreitet und Ende vergangenen Jahres die Marke von 20 Billionen Won erreicht. Die 42,5 Milliarden Einheiten entsprechen bei 40 Metern Nudellänge pro Packung einer Strecke, mit der man etwa sechsmal zwischen Erde und Sonne hin- und zurückreisen könnte. Das entspricht rund 120.000 Packungen pro Stunde und 34 pro Sekunde. Rund 40% des kumulierten Umsatzes stammen aus dem Ausland. Nongshim nimmt das neue Shin Ramyun Rose ins Sortiment auf und baut sein globales Netzwerk aus, um bis 2030 die Nummer 1 im weltweiten Ramyun-Markt zu werden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Shin Ramyun dépasse 20 billions de wons, Nongshim vise le rang mondial numéro 1 en 2030",
-        "excerpt": "Nongshim a annoncé le 13 mai à Séoul que Shin Ramyun, lancé en 1986, a dépassé 20 billions de wons de ventes cumulées et 42,5 milliards d’unités vendues.",
-        "body": "Nongshim a tenu le 13 mai une conférence de presse au Lotte Hotel Seoul, à Jung-gu, Séoul, et a annoncé que Shin Ramyun, né en 1986, est devenu le premier produit de l’industrie coréenne du ramyun à dépasser 20 billions de wons de ventes cumulées et 42,5 milliards d’unités vendues. Le directeur général Cho Yong-chul a expliqué que le goût épicé de Shin Ramyun s’est étendu de la Corée au monde et a atteint 20 billions de wons de ventes cumulées à la fin de l’an dernier. Les 42,5 milliards d’unités représentent, avec 40 mètres de nouilles par sachet, une distance permettant d’effectuer environ six allers-retours entre la Terre et le Soleil. Cela équivaut à environ 120.000 sachets vendus par heure et 34 par seconde. Environ 40% des ventes cumulées proviennent de l’étranger. Nongshim ajoute le nouveau Shin Ramyun Rose à sa gamme et élargit son réseau mondial pour viser la première place du marché mondial du ramyun en 2030. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "شين راميون تتجاوز مبيعاتها 20 تريليون وون ونونغشيم تستهدف الصدارة العالمية في 2030",
-        "excerpt": "أعلنت نونغشيم في 13 مايو في سيول أن شين راميون، التي أطلقت عام 1986، تجاوزت مبيعاتها التراكمية 20 تريليون وون وبلغت مبيعاتها 42.5 مليار عبوة.",
-        "body": "عقدت نونغشيم مؤتمرا صحفيا في 13 مايو في فندق لوتيه سيول بمنطقة جونغ غو في سيول، وأعلنت أن شين راميون، التي ظهرت عام 1986، أصبحت أول منتج في قطاع الراميون الكوري يتجاوز 20 تريليون وون في المبيعات التراكمية و42.5 مليار وحدة مباعة. وقال الرئيس التنفيذي تشو يونغ تشول إن الطعم الحار لشين راميون امتد من كوريا إلى العالم، وحقق في نهاية العام الماضي مبيعات تراكمية بلغت 20 تريليون وون. وتعادل الكمية المباعة، عند احتساب 40 مترا من النودلز لكل عبوة، مسافة تكفي للذهاب والعودة بين الأرض والشمس نحو ست مرات. ويعني ذلك بيع نحو 120 ألف عبوة في الساعة و34 عبوة في الثانية. وجاء نحو 40% من المبيعات التراكمية من الخارج. وتضيف نونغشيم المنتج الجديد شين راميون روزيه إلى تشكيلتها، وتوسع شبكة الإنتاج والبيع الخارجية بهدف تصدر سوق الراميون العالمي في 2030. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "शिन राम्युन की बिक्री 20 ट्रिलियन वॉन पार, नोंगशिम का 2030 तक वैश्विक नंबर 1 लक्ष्य",
-        "excerpt": "नोंगशिम ने 13 मई को सियोल में बताया कि 1986 में लॉन्च शिन राम्युन की संचयी बिक्री 20 ट्रिलियन वॉन और कुल बिक्री 42.5 अरब पैक से अधिक हो गई है।",
-        "body": "नोंगशिम ने 13 मई को सियोल के जंग-गु स्थित लोट्टे होटल सियोल में प्रेस कॉन्फ्रेंस कर कहा कि 1986 में जन्मी शिन राम्युन कोरियाई राम्युन उद्योग का पहला ऐसा एकल उत्पाद बन गई है जिसकी संचयी बिक्री 20 ट्रिलियन वॉन और कुल बिक्री 42.5 अरब यूनिट से अधिक हुई है। सीईओ चो योंग-चोल ने कहा कि शिन राम्युन का तीखा स्वाद कोरिया से आगे दुनिया तक फैला और पिछले वर्ष के अंत में 20 ट्रिलियन वॉन की संचयी बिक्री तक पहुंचा। 42.5 अरब पैक की बिक्री को प्रति पैक 40 मीटर नूडल लंबाई से देखें तो यह पृथ्वी और सूर्य के बीच लगभग छह बार आने-जाने जितनी दूरी है। औसतन प्रति घंटे करीब 1,20,000 पैक और प्रति सेकंड 34 पैक बिके। संचयी बिक्री का करीब 40% विदेशों से आया। नोंगशिम नए शिन राम्युन रोजे को लाइनअप में जोड़कर विदेशी उत्पादन और बिक्री नेटवर्क बढ़ाएगी और 2030 तक वैश्विक राम्युन बाजार में नंबर 1 बनने का लक्ष्य रखती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Shin Ramyun Tembus Penjualan 20 Triliun Won, Nongshim Bidik Nomor 1 Global 2030",
-        "excerpt": "Nongshim menyatakan pada 13 Mei di Seoul bahwa Shin Ramyun, yang lahir pada 1986, telah melampaui penjualan kumulatif 20 triliun won dan 42,5 miliar bungkus.",
-        "body": "Nongshim menggelar konferensi pers pada 13 Mei di Lotte Hotel Seoul, Jung-gu, Seoul, dan menyatakan bahwa Shin Ramyun, yang diluncurkan pada 1986, menjadi produk pertama di industri ramyun Korea yang melampaui penjualan kumulatif 20 triliun won dan total penjualan 42,5 miliar unit. CEO Cho Yong-chul mengatakan rasa pedas Shin Ramyun telah menyebar dari Korea ke dunia dan mencapai penjualan kumulatif 20 triliun won pada akhir tahun lalu. Total 42,5 miliar unit itu, jika dihitung dengan panjang mi 40 meter per bungkus, setara jarak untuk pulang-pergi antara Bumi dan Matahari sekitar enam kali. Rata-ratanya sekitar 120.000 bungkus per jam dan 34 bungkus per detik. Sekitar 40% penjualan kumulatif berasal dari luar negeri. Nongshim akan menambahkan produk baru Shin Ramyun Rose ke lini produk dan memperluas jaringan produksi serta penjualan luar negeri untuk menargetkan posisi nomor 1 di pasar ramyun global pada 2030. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "e7804737d81c",
-    "slug": "명품업계-프리미엄-이미지-강화-전시회-열고-예술인-후원-경쟁-848532",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T18:32:14.845Z",
-    "updatedAt": "2026-05-13T18:32:14.845Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917415/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917415/2",
-    "titleFingerprint": "b97ea30f0a9e41a652b8b6f7a254bd97fe466837",
-    "dedupKeys": [
-      "e7804737d81ce36dd44155fbcca9a1571b61168a",
-      "b97ea30f0a9e41a652b8b6f7a254bd97fe466837",
-      "903d18225bec2506c9dbfe9b70c46aaef14ac928"
-    ],
-    "imageUrl": "/images/articles/e7804737d81c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "럭셔리 브랜드 예술 후원 확대, 보테가 베네타 한국 전시로 프리미엄 이미지 강화",
-        "excerpt": "럭셔리 브랜드들이 한국 시장에서 전시와 공예 등 예술 후원을 확대하며 순수 예술을 통한 아티피케이션 전략으로 프리미엄 이미지를 강화하고 소비자 충성도를 높이고 있다.",
-        "body": "럭셔리 브랜드들이 한국 시장에서 전시, 공예 등 예술 후원을 확대하며 프리미엄 이미지 강화에 나서고 있다. 이탈리아 럭셔리 브랜드 보테가 베네타는 5일 서울 용산구 한남동 리움미술관에서 개막한 대규모 그룹전 ‘다른 공간 안으로’를 후원 중이라고 13일 밝혔다. 관람객들은 여성 작가들의 환경 설치 작업이 구현한 빛, 공간, 소리, 움직임을 체험하며 작품에 몰입할 수 있다. 보테가 베네타는 브랜드를 직접 노출하기보다 건축, 디자인, 무용, 음악, 시각예술 등 다양한 예술 분야를 후원하는 방식을 택하고 있다. 이는 제품의 핵심인 수공예와 창의성을 예술 프로젝트로 확장하는 전략으로, 전문가들은 순수 예술 후원을 통한 ‘아티피케이션’의 일환으로 본다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Luxury Brands Expand Arts Patronage as Bottega Veneta Backs Seoul Exhibition",
-        "excerpt": "Luxury brands are expanding support for exhibitions, crafts and fine arts in Korea, using artification to strengthen premium images and deepen consumer loyalty.",
-        "body": "Luxury brands are expanding support for exhibitions, crafts and other arts in the Korean market to strengthen their premium image. Italian luxury brand Bottega Veneta said on the 13th that it is sponsoring the large-scale group exhibition “Into Other Spaces,” which opened on the 5th at Leeum Museum of Art in Hannam-dong, Yongsan-gu, Seoul. Visitors can immerse themselves in light, space, sound and movement created through environmental installations by women artists. Rather than directly exposing its brand, Bottega Veneta supports architecture, design, dance, music and visual arts. The strategy extends the handcraft and creativity central to its products into art projects, which experts view as part of artification through fine-arts patronage. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "高級ブランドが芸術支援拡大、ボッテガ・ヴェネタがソウル展覧会を後援",
-        "excerpt": "高級ブランドは韓国市場で展覧会や工芸など芸術支援を広げ、純粋芸術を通じたアーティフィケーションで高級イメージと消費者忠誠度を高めている。",
-        "body": "高級ブランドが韓国市場で展覧会、工芸など芸術支援を拡大し、プレミアムイメージの強化に乗り出している。イタリアの高級ブランド、ボッテガ・ヴェネタは13日、ソウル市龍山区漢南洞のリウム美術館で5日に開幕した大規模グループ展「Into Other Spaces」を後援していると明らかにした。来場者は女性作家による環境インスタレーションが表現する光、空間、音、動きを体験し、作品に没入できる。ボッテガ・ヴェネタはブランドを直接前面に出すのではなく、建築、デザイン、舞踊、音楽、視覚芸術など幅広い芸術分野を支援している。製品の核である手工芸と創造性を芸術プロジェクトへ広げる戦略で、専門家は純粋芸術支援によるアーティフィケーションの一環と見ている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "奢侈品牌扩大艺术赞助，Bottega Veneta支持首尔展提升高端形象",
-        "excerpt": "奢侈品牌正在韩国市场扩大展览、工艺等艺术赞助，通过纯艺术支持推动品牌艺术化，强化高端形象并提升消费者忠诚度。",
-        "body": "奢侈品牌正在韩国市场扩大对展览、工艺等艺术领域的赞助，以强化高端形象。意大利奢侈品牌Bottega Veneta于13日表示，正在赞助5日在首尔龙山区汉南洞Leeum美术馆开幕的大型群展《Into Other Spaces》。观众可以通过女性艺术家的环境装置作品，体验光、空间、声音和运动，并沉浸于作品之中。Bottega Veneta并不直接突出品牌，而是支持建筑、设计、舞蹈、音乐、视觉艺术等多个艺术领域。该策略把产品核心中的手工艺和创造力扩展到艺术项目中，专家认为这是通过纯艺术赞助推进品牌“艺术化”的一环。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Marcas de lujo amplían apoyo al arte y Bottega Veneta impulsa exposición en Seúl",
-        "excerpt": "Las marcas de lujo amplían en Corea su apoyo a exposiciones, artesanía y bellas artes para reforzar su imagen premium mediante artificación y elevar la lealtad del consumidor.",
-        "body": "Las marcas de lujo están ampliando en el mercado coreano su apoyo a exposiciones, artesanía y otras áreas artísticas para reforzar su imagen premium. La firma italiana Bottega Veneta informó el día 13 que patrocina la gran exposición colectiva “Into Other Spaces”, inaugurada el día 5 en el Leeum Museum of Art, en Hannam-dong, Yongsan-gu, Seúl. Los visitantes pueden sumergirse en obras de instalación ambiental de artistas mujeres que expresan luz, espacio, sonido y movimiento. Bottega Veneta opta por apoyar arquitectura, diseño, danza, música y artes visuales sin exponer directamente la marca. La estrategia extiende la artesanía manual y la creatividad, claves de sus productos, hacia proyectos artísticos; expertos la consideran parte de la artificación mediante apoyo a las bellas artes. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Marcas de luxo ampliam apoio às artes, e Bottega Veneta patrocina exposição em Seul",
-        "excerpt": "Marcas de luxo ampliam na Coreia o apoio a exposições, artesanato e artes plásticas para reforçar a imagem premium por meio da artificação e elevar a fidelidade do consumidor.",
-        "body": "Marcas de luxo estão ampliando no mercado coreano o apoio a exposições, artesanato e outras áreas artísticas para fortalecer sua imagem premium. A italiana Bottega Veneta informou no dia 13 que patrocina a grande mostra coletiva “Into Other Spaces”, aberta no dia 5 no Leeum Museum of Art, em Hannam-dong, Yongsan-gu, Seul. Os visitantes podem imergir em instalações ambientais de artistas mulheres que materializam luz, espaço, som e movimento. A Bottega Veneta adota uma forma de apoio que não expõe diretamente a marca, patrocinando arquitetura, design, dança, música e artes visuais. A estratégia amplia para projetos artísticos o artesanato manual e a criatividade centrais em seus produtos; especialistas a veem como parte da artificação por meio do apoio às belas-artes. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Luxusmarken bauen Kunstförderung aus, Bottega Veneta unterstützt Ausstellung in Seoul",
-        "excerpt": "Luxusmarken erweitern in Korea ihre Förderung von Ausstellungen, Handwerk und bildender Kunst, um über Artification ihr Premiumimage und die Kundentreue zu stärken.",
-        "body": "Luxusmarken bauen im koreanischen Markt die Förderung von Ausstellungen, Kunsthandwerk und weiteren Kunstbereichen aus, um ihr Premiumimage zu stärken. Die italienische Luxusmarke Bottega Veneta teilte am 13. mit, dass sie die große Gruppenausstellung “Into Other Spaces” unterstützt, die am 5. im Leeum Museum of Art in Hannam-dong, Yongsan-gu, Seoul, eröffnet wurde. Besucher können in Licht, Raum, Klang und Bewegung eintauchen, die durch Umweltinstallationen von Künstlerinnen umgesetzt werden. Bottega Veneta setzt darauf, die Marke nicht direkt zu zeigen, sondern Architektur, Design, Tanz, Musik und visuelle Kunst zu fördern. Damit werden Handwerk und Kreativität, Kernelemente der Produkte, auf Kunstprojekte ausgeweitet; Experten sehen darin einen Teil der Artification durch Förderung reiner Kunst. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les marques de luxe renforcent le mécénat artistique, Bottega Veneta soutient une exposition à Séoul",
-        "excerpt": "Les marques de luxe élargissent en Corée leur soutien aux expositions, à l’artisanat et aux beaux-arts afin de renforcer leur image premium par l’artification et la fidélité client.",
-        "body": "Les marques de luxe élargissent sur le marché coréen leur soutien aux expositions, à l’artisanat et à d’autres domaines artistiques afin de renforcer leur image premium. La marque italienne Bottega Veneta a indiqué le 13 qu’elle parraine la grande exposition collective “Into Other Spaces”, ouverte le 5 au Leeum Museum of Art, à Hannam-dong, Yongsan-gu, Séoul. Les visiteurs peuvent s’immerger dans la lumière, l’espace, le son et le mouvement créés par des installations environnementales d’artistes femmes. Bottega Veneta choisit de ne pas exposer directement sa marque, mais de soutenir l’architecture, le design, la danse, la musique et les arts visuels. Cette stratégie étend l’artisanat manuel et la créativité, au cœur de ses produits, à des projets artistiques; les experts y voient une forme d’artification par le soutien aux beaux-arts. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "علامات الرفاهية توسع رعاية الفنون وبوتيغا فينيتا تدعم معرضا في سيول",
-        "excerpt": "توسع علامات الرفاهية في كوريا دعمها للمعارض والحرف والفنون الجميلة، بهدف تعزيز صورتها الفاخرة عبر تحويل العلامة إلى فن وزيادة ولاء المستهلكين.",
-        "body": "توسع علامات الرفاهية في السوق الكورية دعمها للمعارض والحرف وغيرها من مجالات الفن لتعزيز صورتها الفاخرة. وقالت علامة بوتيغا فينيتا الإيطالية الفاخرة في 13 من الشهر إنها ترعى المعرض الجماعي الكبير “Into Other Spaces”، الذي افتتح في 5 من الشهر في متحف ليوم للفنون في هانام دونغ، يونغسان غو، سيول. ويمكن للزوار الانغماس في الضوء والفضاء والصوت والحركة التي تجسدها أعمال تركيب بيئية لفنانات. وتعتمد بوتيغا فينيتا أسلوب دعم لا يبرز العلامة مباشرة، بل يرعى العمارة والتصميم والرقص والموسيقى والفنون البصرية. وتمدد هذه الاستراتيجية الحرفية اليدوية والإبداع، وهما جوهر منتجاتها، إلى مشاريع فنية؛ ويرى خبراء أنها جزء من “أرتيفيكيشن” عبر دعم الفنون الجميلة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "लक्जरी ब्रांड कला संरक्षण बढ़ा रहे, बोटेगा वेनेटा ने सियोल प्रदर्शनी को समर्थन दिया",
-        "excerpt": "लक्जरी ब्रांड कोरिया में प्रदर्शनियों, शिल्प और ललित कला का समर्थन बढ़ा रहे हैं, ताकि आर्टिफिकेशन के जरिए प्रीमियम छवि और उपभोक्ता निष्ठा मजबूत हो।",
-        "body": "लक्जरी ब्रांड कोरियाई बाजार में प्रदर्शनियों, शिल्प और अन्य कला क्षेत्रों का समर्थन बढ़ाकर अपनी प्रीमियम छवि मजबूत कर रहे हैं। इतालवी लक्जरी ब्रांड बोटेगा वेनेटा ने 13 तारीख को बताया कि वह सियोल के योंगसान-गु, हन्नाम-डोंग स्थित लीउम म्यूजियम ऑफ आर्ट में 5 तारीख को शुरू हुई बड़ी समूह प्रदर्शनी “Into Other Spaces” को प्रायोजित कर रहा है। दर्शक महिला कलाकारों की पर्यावरणीय इंस्टॉलेशन कृतियों में व्यक्त प्रकाश, स्थान, ध्वनि और गति का अनुभव करते हुए उनमें डूब सकते हैं। बोटेगा वेनेटा ब्रांड को सीधे सामने रखने के बजाय वास्तुकला, डिजाइन, नृत्य, संगीत और दृश्य कला जैसे क्षेत्रों को समर्थन देता है। यह रणनीति उत्पादों के मूल तत्व हस्तशिल्प और रचनात्मकता को कला परियोजनाओं तक फैलाती है; विशेषज्ञ इसे ललित कला संरक्षण के जरिए आर्टिफिकेशन का हिस्सा मानते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Merek Mewah Perluas Dukungan Seni, Bottega Veneta Sponsori Pameran di Seoul",
-        "excerpt": "Merek mewah memperluas dukungan untuk pameran, kerajinan, dan seni murni di Korea guna memperkuat citra premium lewat artification dan loyalitas konsumen.",
-        "body": "Merek-merek mewah memperluas dukungan terhadap pameran, kerajinan, dan bidang seni lain di pasar Korea untuk memperkuat citra premium. Merek mewah Italia Bottega Veneta menyatakan pada tanggal 13 bahwa pihaknya mensponsori pameran kelompok berskala besar “Into Other Spaces”, yang dibuka pada tanggal 5 di Leeum Museum of Art, Hannam-dong, Yongsan-gu, Seoul. Pengunjung dapat tenggelam dalam cahaya, ruang, suara, dan gerak yang diwujudkan lewat instalasi lingkungan karya seniman perempuan. Bottega Veneta memilih mendukung arsitektur, desain, tari, musik, dan seni visual tanpa menonjolkan merek secara langsung. Strategi ini memperluas kerajinan tangan dan kreativitas, inti produknya, ke proyek seni; para ahli melihatnya sebagai bagian dari artification melalui dukungan pada seni murni. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "019a55ec8b2b",
-    "slug": "단신삼성화재-최대-100억-자율주행-전용보험-첫-출시-594960",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T18:31:10.681Z",
-    "updatedAt": "2026-05-13T18:31:10.681Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917397/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917397/2",
-    "titleFingerprint": "8965e651489b244225d799bf24cbd67dfc09fb52",
-    "dedupKeys": [
-      "019a55ec8b2b1a960eb2e5198e3a0dd9d7126135",
-      "8965e651489b244225d799bf24cbd67dfc09fb52",
-      "a6632a48d6ceacd4d371af83b1e4c9872781289d"
-    ],
-    "imageUrl": "/images/articles/019a55ec8b2b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성화재, 자율주행 전용보험 업계 첫 출시…사고당 최대 100억 보장",
-        "excerpt": "삼성화재가 13일 국토교통부 주관 자율주행 국가대표팀 출범식에서 업무협약을 맺고, 사고당 최대 100억 원을 보장하는 자율주행 전용보험을 업계 최초로 출시한다.",
-        "body": "삼성화재는 13일 국토교통부가 주관한 ‘대한민국 자율주행 국가대표팀 출범식’에 참석해 자율주행 실증도시 구축을 위한 다자간 업무협약을 체결했다고 밝혔다. 이번 협약을 계기로 삼성화재는 사고당 최대 100억 원, 연간 총 300억 원을 보장하는 ‘자율주행 전용보험’을 업계 최초로 출시한다. 이 상품은 보험 가입부터 사고 처리까지 한 번에 해결하는 원스톱 서비스를 기반으로 운영된다. 삼성화재는 사고 분석과 정보기술(IT) 보안 컨설팅 등 기업 맞춤형 서비스도 함께 제공할 계획이다. 자율주행 실증도시 구축 과정에서 관련 기업의 위험 관리 수요에 대응하는 보험 상품으로 활용될 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Fire Launches First Autonomous Driving Insurance With Up to ₩10 Billion Cover",
-        "excerpt": "Samsung Fire & Marine Insurance said on the 13th it signed a multilateral agreement at a government-led autonomous driving event and will launch the industry’s first dedicated policy covering up to ₩10 billion per accident.",
-        "body": "Samsung Fire & Marine Insurance said on the 13th that it attended the launch ceremony for Korea’s national autonomous driving team, hosted by the Ministry of Land, Infrastructure and Transport, and signed a multilateral business agreement to build autonomous driving test cities. Under the agreement, the company will launch the industry’s first dedicated autonomous driving insurance product, covering up to ₩10 billion per accident and ₩30 billion in total annually. The product is based on a one-stop service that handles everything from insurance enrollment to accident processing. Samsung Fire also plans to provide company-tailored services, including accident analysis and information technology security consulting. The policy is expected to support risk management needs among companies involved in autonomous driving demonstration city projects. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン火災、自動運転専用保険を業界初発売…事故1件最大100億ウォン補償",
-        "excerpt": "サムスン火災は13日、国土交通部主催の自動運転国家代表チーム発足式で協定を結び、事故1件最大100億ウォンを補償する専用保険を業界で初めて発売する。",
-        "body": "サムスン火災は13日、国土交通部が主催した「大韓民国自動運転国家代表チーム発足式」に出席し、自動運転実証都市の構築に向けた多者間業務協定を締結したと明らかにした。今回の協定を機に、同社は事故1件当たり最大100億ウォン、年間総額300億ウォンを補償する「自動運転専用保険」を業界で初めて発売する。この商品は、保険加入から事故処理までを一括で解決するワンストップサービスを基盤に運営される。サムスン火災は事故分析や情報技術（IT）セキュリティーコンサルティングなど、企業向けのカスタマイズサービスも提供する計画だ。自動運転実証都市の構築過程で、関連企業のリスク管理需要に対応する保険商品として活用される見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星火灾推出业内首款自动驾驶专用保险，单次事故最高赔100亿韩元",
-        "excerpt": "三星火灾13日表示，在国土交通部主办的自动驾驶国家队启动仪式上签署多方协议，并将推出单次事故最高赔付100亿韩元的专用保险。",
-        "body": "三星火灾13日表示，公司参加了由国土交通部主办的“韩国自动驾驶国家队启动仪式”，并签署了旨在建设自动驾驶示范城市的多方业务协议。以此次协议为契机，三星火灾将推出业内首款“自动驾驶专用保险”，单次事故最高保障100亿韩元，年度总保障额为300亿韩元。该产品以一站式服务为基础，覆盖从投保到事故处理的全过程。三星火灾还计划提供事故分析、信息技术（IT）安全咨询等面向企业的定制服务。该保险有望在自动驾驶示范城市建设过程中，用于回应相关企业的风险管理需求。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Samsung Fire lanza el primer seguro para conducción autónoma con hasta ₩10.000 millones",
-        "excerpt": "Samsung Fire informó el día 13 que firmó un acuerdo multilateral en un acto del Ministerio de Tierra y lanzará el primer seguro del sector para conducción autónoma, con hasta ₩10.000 millones por accidente.",
-        "body": "Samsung Fire & Marine Insurance informó el día 13 que asistió a la ceremonia de lanzamiento del equipo nacional de conducción autónoma de Corea, organizada por el Ministerio de Tierra, Infraestructura y Transporte, y firmó un acuerdo multilateral para construir ciudades de prueba de conducción autónoma. Con este acuerdo, la compañía lanzará el primer seguro dedicado a la conducción autónoma del sector, con cobertura de hasta ₩10.000 millones por accidente y un total anual de ₩30.000 millones. El producto operará sobre un servicio integral que cubre desde la contratación del seguro hasta la gestión de accidentes. Samsung Fire también prevé ofrecer servicios personalizados para empresas, como análisis de accidentes y consultoría de seguridad de tecnologías de la información. Se espera que el seguro atienda la demanda de gestión de riesgos de las empresas vinculadas a ciudades de demostración de conducción autónoma. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Samsung Fire lança primeiro seguro para condução autônoma com até ₩10 bilhões",
-        "excerpt": "A Samsung Fire informou no dia 13 que assinou um acordo multilateral em evento do Ministério da Terra e lançará o primeiro seguro do setor para condução autônoma, com cobertura de até ₩10 bilhões por acidente.",
-        "body": "A Samsung Fire & Marine Insurance informou no dia 13 que participou da cerimônia de lançamento da equipe nacional de condução autônoma da Coreia, organizada pelo Ministério da Terra, Infraestrutura e Transporte, e assinou um acordo multilateral para construir cidades de demonstração de condução autônoma. Com o acordo, a empresa lançará o primeiro seguro dedicado à condução autônoma do setor, com cobertura de até ₩10 bilhões por acidente e total anual de ₩30 bilhões. O produto será baseado em um serviço de atendimento único, da contratação do seguro ao processamento de acidentes. A Samsung Fire também planeja oferecer serviços personalizados para empresas, incluindo análise de acidentes e consultoria de segurança em tecnologia da informação. O seguro deve responder à demanda de gestão de riscos das empresas envolvidas em cidades de teste de condução autônoma. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung Fire startet erste autonome Fahrzeugversicherung mit bis zu ₩10 Mrd. Deckung",
-        "excerpt": "Samsung Fire teilte am 13. mit, bei einer vom Verkehrsministerium organisierten Veranstaltung eine multilaterale Vereinbarung unterzeichnet zu haben und die erste Spezialversicherung für autonomes Fahren mit bis zu ₩10 Mrd. je Unfall einzuführen.",
-        "body": "Samsung Fire & Marine Insurance teilte am 13. mit, an der vom Ministerium für Land, Infrastruktur und Verkehr organisierten Auftaktveranstaltung des nationalen Teams für autonomes Fahren in Korea teilgenommen und eine multilaterale Geschäftsvereinbarung zum Aufbau von Teststädten für autonomes Fahren unterzeichnet zu haben. Auf Grundlage dieser Vereinbarung führt das Unternehmen die erste Spezialversicherung der Branche für autonomes Fahren ein. Sie deckt bis zu ₩10 Milliarden je Unfall und insgesamt ₩30 Milliarden pro Jahr ab. Das Produkt basiert auf einem One-Stop-Service, der vom Versicherungsabschluss bis zur Unfallbearbeitung reicht. Samsung Fire plant zudem maßgeschneiderte Unternehmensservices wie Unfallanalyse und Beratung zur Sicherheit der Informationstechnologie. Die Police dürfte den Bedarf an Risikomanagement bei Unternehmen in Projekten für autonome Teststädte abdecken. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Fire lance la première assurance dédiée à la conduite autonome, jusqu’à ₩10 milliards",
-        "excerpt": "Samsung Fire a annoncé le 13 avoir signé un accord multilatéral lors d’un événement du ministère des Transports et lancer la première assurance du secteur pour la conduite autonome, couvrant jusqu’à ₩10 milliards par accident.",
-        "body": "Samsung Fire & Marine Insurance a annoncé le 13 avoir participé à la cérémonie de lancement de l’équipe nationale coréenne de conduite autonome, organisée par le ministère du Territoire, des Infrastructures et des Transports, et signé un accord multilatéral pour construire des villes de démonstration de conduite autonome. Dans le cadre de cet accord, l’entreprise lancera la première assurance dédiée à la conduite autonome du secteur, avec une couverture maximale de ₩10 milliards par accident et de ₩30 milliards par an au total. Le produit reposera sur un service unique couvrant l’adhésion à l’assurance et le traitement des accidents. Samsung Fire prévoit aussi d’offrir des services adaptés aux entreprises, notamment l’analyse des accidents et le conseil en sécurité des technologies de l’information. Cette assurance devrait répondre aux besoins de gestion des risques des entreprises participant aux villes de démonstration de conduite autonome. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سامسونغ فاير تطلق أول تأمين للقيادة الذاتية بتغطية تصل إلى 10 مليارات وون للحادث",
-        "excerpt": "أعلنت سامسونغ فاير في 13 من الشهر أنها وقعت اتفاقية متعددة الأطراف في فعالية تقودها وزارة النقل، وستطلق أول تأمين مخصص للقيادة الذاتية بتغطية تصل إلى 10 مليارات وون لكل حادث.",
-        "body": "أعلنت شركة سامسونغ فاير آند مارين إنشورنس في 13 من الشهر أنها حضرت حفل إطلاق الفريق الوطني الكوري للقيادة الذاتية، الذي نظمته وزارة الأراضي والبنية التحتية والنقل، ووقعت اتفاقية عمل متعددة الأطراف لبناء مدن تجريبية للقيادة الذاتية. وبموجب هذه الاتفاقية، ستطلق الشركة أول منتج تأمين مخصص للقيادة الذاتية في القطاع، بتغطية تصل إلى 10 مليارات وون لكل حادث وبإجمالي سنوي يبلغ 30 مليار وون. ويعتمد المنتج على خدمة شاملة تغطي إجراءات الاشتراك في التأمين ومعالجة الحوادث. كما تخطط سامسونغ فاير لتقديم خدمات مصممة للشركات، تشمل تحليل الحوادث واستشارات أمن تكنولوجيا المعلومات. ومن المتوقع أن يساعد التأمين في تلبية احتياجات إدارة المخاطر لدى الشركات المشاركة في مشاريع مدن اختبار القيادة الذاتية. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Fire ने स्वायत्त ड्राइविंग बीमा शुरू किया, प्रति हादसा ₩10 अरब तक कवर",
-        "excerpt": "Samsung Fire ने 13 तारीख को कहा कि उसने परिवहन मंत्रालय के स्वायत्त ड्राइविंग कार्यक्रम में बहुपक्षीय समझौता किया है और प्रति हादसा ₩10 अरब तक कवर वाला उद्योग का पहला विशेष बीमा पेश करेगी।",
-        "body": "Samsung Fire & Marine Insurance ने 13 तारीख को बताया कि उसने भूमि, अवसंरचना और परिवहन मंत्रालय द्वारा आयोजित कोरिया की राष्ट्रीय स्वायत्त ड्राइविंग टीम के लॉन्च समारोह में भाग लिया और स्वायत्त ड्राइविंग परीक्षण शहरों के निर्माण के लिए बहुपक्षीय व्यावसायिक समझौते पर हस्ताक्षर किए। इस समझौते के आधार पर कंपनी उद्योग का पहला स्वायत्त ड्राइविंग विशेष बीमा उत्पाद पेश करेगी, जिसमें प्रति दुर्घटना अधिकतम ₩10 अरब और सालाना कुल ₩30 अरब का कवर होगा। यह उत्पाद बीमा 가입 से लेकर दुर्घटना 처리 तक एक ही स्थान पर समाधान देने वाली वन-स्टॉप सेवा पर आधारित होगा। Samsung Fire दुर्घटना विश्लेषण और सूचना प्रौद्योगिकी सुरक्षा परामर्श जैसी कंपनियों के लिए अनुकूलित सेवाएं भी देगी। यह बीमा स्वायत्त ड्राइविंग परीक्षण शहरों से जुड़ी कंपनियों की जोखिम प्रबंधन जरूरतों को पूरा करने में उपयोगी हो सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Samsung Fire Luncurkan Asuransi Khusus Mobil Otonom, Tanggung Hingga ₩10 Miliar",
-        "excerpt": "Samsung Fire pada tanggal 13 menyatakan telah menandatangani perjanjian multilateral dalam acara yang dipimpin Kementerian Pertanahan dan akan meluncurkan asuransi khusus kendaraan otonom pertama di industri.",
-        "body": "Samsung Fire & Marine Insurance menyatakan pada tanggal 13 bahwa perusahaan menghadiri upacara peluncuran tim nasional kendaraan otonom Korea yang diselenggarakan Kementerian Pertanahan, Infrastruktur, dan Transportasi, serta menandatangani perjanjian kerja multilateral untuk membangun kota uji kendaraan otonom. Melalui perjanjian ini, Samsung Fire akan meluncurkan asuransi khusus kendaraan otonom pertama di industri, dengan perlindungan hingga ₩10 miliar per kecelakaan dan total ₩30 miliar per tahun. Produk ini berbasis layanan satu pintu yang menangani proses dari pendaftaran asuransi hingga penyelesaian kecelakaan. Samsung Fire juga berencana menyediakan layanan khusus perusahaan, termasuk analisis kecelakaan dan konsultasi keamanan teknologi informasi. Asuransi ini diperkirakan akan digunakan untuk menjawab kebutuhan manajemen risiko perusahaan dalam pembangunan kota demonstrasi kendaraan otonom. Sumber: rss.donga.com"
       }
     }
   }
