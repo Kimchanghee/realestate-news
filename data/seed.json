@@ -1,5 +1,230 @@
 [
   {
+    "id": "eb86f038ef93",
+    "slug": "속보-강남-집값도-돌아섰다양도세-유예-종료-첫-주-서울-전역-상승폭-확대-891586",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T06:01:09.433Z",
+    "updatedAt": "2026-05-14T06:01:09.433Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047465",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047465",
+    "titleFingerprint": "a6f8f9fc9a359502af2bb6c0bcb6bf67663a0b58",
+    "dedupKeys": [
+      "eb86f038ef939748c4d13646eab2625d4c990e69",
+      "a6f8f9fc9a359502af2bb6c0bcb6bf67663a0b58",
+      "293e49a82ac989924a22844d78ac6fa0d30f7288"
+    ],
+    "imageUrl": "/images/articles/eb86f038ef93.png",
+    "i18n": {
+      "ko": {
+        "title": "강남 집값 상승 전환…양도세 유예 종료 첫 주 서울 25개구 모두 올랐다",
+        "excerpt": "다주택자 양도소득세 중과 유예 종료 첫 주 서울 아파트값 상승폭이 커지며 강남을 포함한 25개구 전역과 광명·분당·과천 등 수도권 주요 지역도 상승세를 보였다.",
+        "body": "다주택자 양도소득세 중과 유예 조치가 종료된 첫 주, 서울 아파트 시장의 상승폭이 확대됐다. 원문에 따르면 서울 25개구가 모두 상승세를 보였고, 강남 집값도 돌아서며 시장 회복 분위기가 뚜렷해졌다. 경기 광명과 분당, 과천 등 수도권 주요 지역도 함께 오르며 상승 흐름이 서울에만 그치지 않는 모습이다. 유예 종료 직후에도 서울 전역의 가격 흐름이 강해졌다는 점은 매수 심리와 시장 분위기 변화가 수도권 전반으로 확산되고 있음을 보여준다. 다만 기사에 제시된 내용은 상승폭 확대와 지역별 상승 흐름에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Gangnam Home Prices Turn Up as All 25 Seoul Districts Rise After Tax Grace Ends",
+        "excerpt": "In the first week after the capital gains tax surcharge grace period for multiple-home owners ended, Seoul apartment price gains widened across all 25 districts, with Gwangmyeong, Bundang and Gwacheon also rising.",
+        "body": "In the first week after the grace period for heavier capital gains taxation on multiple-home owners ended, Seoul’s apartment market posted a wider rise. According to the original report, all 25 districts in Seoul showed upward movement, while Gangnam home prices also turned higher, reinforcing signs of recovery. Key metropolitan areas in Gyeonggi Province, including Gwangmyeong, Bundang and Gwacheon, also rose, suggesting the trend was not limited to Seoul. The stronger price movement across Seoul immediately after the grace period ended points to a broader shift in buyer sentiment and market mood across the capital region. The article’s details are limited to the widening gains and regional upward trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "江南の住宅価格も上昇転換、譲渡税猶予終了初週にソウル25区すべて上昇",
+        "excerpt": "多住宅所有者への譲渡所得税重課猶予が終了した最初の週、ソウルのマンション価格上昇幅が拡大し、25区全域と光明・盆唐・果川も上昇した。",
+        "body": "多住宅所有者に対する譲渡所得税重課の猶予措置が終了した最初の週、ソウルのマンション市場では上昇幅が拡大した。原文によると、ソウル25区すべてが上昇基調を示し、江南の住宅価格も上昇に転じ、市場回復の雰囲気が鮮明になった。京畿道の光明、盆唐、果川など首都圏の主要地域も上昇し、この流れがソウルだけにとどまっていないことを示した。猶予終了直後にもソウル全域で価格の動きが強まった点は、買い心理と市場ムードの変化が首都圏全体に広がっていることを示している。ただし記事で示された内容は、上昇幅拡大と地域別の上昇動向に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "江南房价也转涨，转让税宽限结束首周首尔25区全线上升",
+        "excerpt": "多套房持有者转让所得税重税宽限措施结束首周，首尔公寓价格涨幅扩大，25个区全部上涨，光明、盆唐、果川等首都圈主要地区也走高。",
+        "body": "多套房持有者转让所得税重税宽限措施结束后的第一周，首尔公寓市场涨幅扩大。原文称，首尔25个区全部呈现上涨趋势，江南房价也转为上升，市场复苏氛围更加明显。京畿道光明、盆唐、果川等首都圈主要地区也同步上涨，显示涨势并不局限于首尔。宽限措施结束后，首尔全域价格走势仍然增强，这表明买方心理和市场气氛的变化正在向整个首都圈扩散。不过，报道所提供的信息仅限于涨幅扩大和各地区上涨走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Gangnam también sube: los 25 distritos de Seúl avanzan tras el fin del alivio fiscal",
+        "excerpt": "En la primera semana tras terminar la suspensión del recargo al impuesto sobre plusvalías para multipropietarios, los precios de apartamentos en Seúl ampliaron sus subidas y también avanzaron Gwangmyeong, Bundang y Gwacheon.",
+        "body": "En la primera semana después de finalizar la suspensión del recargo al impuesto sobre las ganancias de capital para propietarios de varias viviendas, el mercado de apartamentos de Seúl amplió sus subidas. Según el informe original, los 25 distritos de Seúl registraron alzas, y los precios de Gangnam también giraron al alza, reforzando el ambiente de recuperación. Zonas clave del área metropolitana en Gyeonggi, como Gwangmyeong, Bundang y Gwacheon, también subieron, lo que muestra que la tendencia no se limita a Seúl. El fortalecimiento de los precios en toda la capital justo tras el fin de la medida indica un cambio en la confianza compradora y en el ánimo del mercado metropolitano. La información del artículo se limita a la ampliación de las subidas y a las tendencias regionales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Gangnam volta a subir e todos os 25 distritos de Seul avançam após fim de alívio fiscal",
+        "excerpt": "Na primeira semana após o fim da suspensão do adicional de imposto sobre ganhos de capital para proprietários de múltiplos imóveis, os apartamentos de Seul ampliaram a alta, com Gwangmyeong, Bundang e Gwacheon também em avanço.",
+        "body": "Na primeira semana após o fim da suspensão do adicional de imposto sobre ganhos de capital para proprietários de vários imóveis, o mercado de apartamentos de Seul ampliou sua alta. Segundo a reportagem original, todos os 25 distritos de Seul registraram avanço, e os preços em Gangnam também voltaram a subir, reforçando o clima de recuperação. Áreas importantes da região metropolitana em Gyeonggi, como Gwangmyeong, Bundang e Gwacheon, também subiram, mostrando que o movimento não ficou restrito a Seul. A força dos preços em toda a capital logo após o fim da medida indica mudança no sentimento comprador e no ambiente do mercado metropolitano. O conteúdo citado limita-se à ampliação das altas e às tendências regionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Gangnam-Preise drehen nach oben: Alle 25 Bezirke Seouls steigen nach Steuerfrist-Ende",
+        "excerpt": "In der ersten Woche nach dem Ende der Aussetzung des Kapitalertragsteuer-Aufschlags für Mehrfachhausbesitzer weiteten sich die Preiszuwächse bei Wohnungen in Seoul aus; auch Gwangmyeong, Bundang und Gwacheon legten zu.",
+        "body": "In der ersten Woche nach dem Ende der Aussetzung des erhöhten Kapitalertragsteuerzuschlags für Eigentümer mehrerer Wohnungen verzeichnete der Wohnungsmarkt in Seoul stärkere Preiszuwächse. Dem ursprünglichen Bericht zufolge stiegen alle 25 Bezirke Seouls, und auch die Immobilienpreise in Gangnam drehten nach oben, was die Erholungsstimmung verstärkte. Wichtige Gebiete in der Metropolregion Gyeonggi, darunter Gwangmyeong, Bundang und Gwacheon, legten ebenfalls zu. Damit blieb der Aufwärtstrend nicht auf Seoul beschränkt. Die kräftigere Preisentwicklung direkt nach dem Ende der Maßnahme deutet auf eine Veränderung der Kaufstimmung und des Marktumfelds in der gesamten Hauptstadtregion hin. Die Angaben des Artikels beschränken sich auf ausgeweitete Zuwächse und regionale Anstiege. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Gangnam repart à la hausse: les 25 arrondissements de Séoul montent après la fin du sursis fiscal",
+        "excerpt": "La première semaine après la fin du sursis à la surtaxe sur les plus-values des multipropriétaires, les prix des appartements à Séoul ont accéléré, avec des hausses aussi à Gwangmyeong, Bundang et Gwacheon.",
+        "body": "La première semaine suivant la fin du sursis à la surtaxe sur les plus-values immobilières pour les propriétaires de plusieurs logements, le marché des appartements à Séoul a vu ses hausses s’élargir. Selon l’article original, les 25 arrondissements de Séoul ont tous progressé, tandis que les prix à Gangnam sont eux aussi repartis à la hausse, renforçant l’ambiance de reprise. Des zones majeures de la région métropolitaine dans le Gyeonggi, comme Gwangmyeong, Bundang et Gwacheon, ont également augmenté, signe que le mouvement ne se limite pas à Séoul. Le renforcement des prix dans toute la capitale juste après la fin de la mesure montre un changement du sentiment des acheteurs et du climat de marché dans l’ensemble de la région capitale. Les données citées se limitent à l’élargissement des hausses et aux tendances régionales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسعار غانغنام تعود للصعود وجميع مناطق سول الـ25 ترتفع بعد انتهاء مهلة ضريبة البيع",
+        "excerpt": "في الأسبوع الأول بعد انتهاء تأجيل تشديد ضريبة أرباح بيع العقارات على ملاك عدة منازل، اتسع ارتفاع أسعار الشقق في سول، وصعدت أيضا غوانغميونغ وبوندانغ وغواتشون.",
+        "body": "في الأسبوع الأول بعد انتهاء إجراء تأجيل التشديد على ضريبة أرباح رأس المال العقارية لملاك عدة منازل، اتسع ارتفاع سوق الشقق في سول. ووفق التقرير الأصلي، سجلت جميع مناطق سول الـ25 اتجاها صاعدا، كما تحولت أسعار المساكن في غانغنام إلى الارتفاع، ما أبرز أجواء التعافي في السوق. وارتفعت أيضا مناطق رئيسية في إقليم غيونغي ضمن نطاق العاصمة، مثل غوانغميونغ وبوندانغ وغواتشون، بما يشير إلى أن الاتجاه لا يقتصر على سول وحدها. قوة حركة الأسعار في مختلف أنحاء سول مباشرة بعد انتهاء التأجيل تظهر تغيرا في نفسية الشراء ومزاج السوق على مستوى منطقة العاصمة. وتقتصر معلومات المقال على اتساع الارتفاعات واتجاهات الصعود حسب المناطق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "गांगनाम घर कीमतें भी बढ़ीं, कर छूट खत्म होने के पहले सप्ताह सियोल के सभी 25 जिले ऊपर",
+        "excerpt": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की छूट खत्म होने के पहले सप्ताह में सियोल अपार्टमेंट कीमतों की बढ़त चौड़ी हुई, जबकि ग्वांगम्योंग, बुंदांग और ग्वाचेओन भी बढ़े।",
+        "body": "कई घरों के मालिकों पर पूंजीगत लाभ कर अधिभार की स्थगन व्यवस्था समाप्त होने के पहले सप्ताह में सियोल के अपार्टमेंट बाजार में बढ़त का दायरा बढ़ा। मूल रिपोर्ट के अनुसार, सियोल के सभी 25 जिलों में तेजी दिखी और गांगनाम में घरों की कीमतें भी ऊपर मुड़ीं, जिससे बाजार में सुधार का माहौल स्पष्ट हुआ। ग्योंगगी प्रांत के प्रमुख महानगरीय क्षेत्रों, जिनमें ग्वांगम्योंग, बुंदांग और ग्वाचेओन शामिल हैं, में भी कीमतें बढ़ीं, जिससे संकेत मिलता है कि यह रुझान केवल सियोल तक सीमित नहीं है। स्थगन खत्म होने के तुरंत बाद सियोल भर में कीमतों की मजबूती खरीदार भावना और बाजार माहौल में बदलाव के राजधानी क्षेत्र में फैलने को दिखाती है। लेख में दी गई जानकारी बढ़त के विस्तार और क्षेत्रीय तेजी तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Harga Rumah Gangnam Ikut Berbalik Naik, 25 Distrik Seoul Menguat Usai Keringanan Pajak Berakhir",
+        "excerpt": "Pada pekan pertama setelah penangguhan tambahan pajak keuntungan modal bagi pemilik banyak rumah berakhir, kenaikan harga apartemen Seoul melebar, sementara Gwangmyeong, Bundang, dan Gwacheon juga naik.",
+        "body": "Pada pekan pertama setelah kebijakan penangguhan tambahan pajak keuntungan modal bagi pemilik beberapa rumah berakhir, pasar apartemen Seoul mencatat kenaikan yang lebih besar. Menurut laporan asli, seluruh 25 distrik di Seoul menunjukkan tren naik, dan harga rumah di Gangnam juga berbalik menguat, memperjelas suasana pemulihan pasar. Wilayah utama metropolitan di Gyeonggi, termasuk Gwangmyeong, Bundang, dan Gwacheon, juga naik, menunjukkan bahwa tren ini tidak hanya terjadi di Seoul. Menguatnya pergerakan harga di seluruh Seoul segera setelah masa penangguhan berakhir menunjukkan perubahan sentimen pembeli dan suasana pasar yang menyebar ke kawasan ibu kota. Informasi dalam artikel terbatas pada pelebaran kenaikan dan tren naik per wilayah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "65763786d1b5",
+    "slug": "세운4구역-주민-유산영향평가-강제말라-497354",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T06:00:00.895Z",
+    "updatedAt": "2026-05-14T06:00:00.895Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047506",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047506",
+    "titleFingerprint": "2610357161124d05665f0b2aaa01f997d316cf6a",
+    "dedupKeys": [
+      "65763786d1b531dc02f21b9ab06e01a7909924b2",
+      "2610357161124d05665f0b2aaa01f997d316cf6a",
+      "a51bd6d29ccf27fefad6639c9d0e6ff52597f84d"
+    ],
+    "imageUrl": "/images/articles/65763786d1b5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "세운4구역 주민들, 국가유산청 HIA 명령 철회 촉구",
+        "excerpt": "서울 세운4구역 주민대표회의가 14일 오전 종묘 맞은편 세운4구역에서 재개발 전 세계유산영향평가를 받으라는 국가유산청 명령의 즉각 철회를 요구했다.",
+        "body": "서울 세운4구역 주민들이 14일 오전 종묘 맞은편 세운4구역에서 재개발에 앞서 세계유산영향평가(HIA)를 받으라는 국가유산청 명령의 즉각 철회를 촉구했다. 세운4구역 주민대표회의는 해당 명령이 재개발 추진 과정에 영향을 미친다고 보고 반대 입장을 밝혔다. 세계유산영향평가는 세계유산 주변 개발이 유산 가치에 미치는 영향을 따지는 절차다. 주민들은 세운4구역 재개발을 앞둔 상황에서 평가 강제에 반발하며 명령 철회를 요구하고 있다. 향후 재개발 절차와 국가유산청 명령을 둘러싼 갈등이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Sewoon District 4 Residents Urge Withdrawal of Heritage Impact Order",
+        "excerpt": "The residents’ representative council of Seoul’s Sewoon District 4 demanded on the morning of the 14th that the national heritage agency immediately withdraw its HIA order before redevelopment.",
+        "body": "Residents of Seoul’s Sewoon District 4 demanded on the morning of the 14th, at the district opposite Jongmyo, that the national heritage agency immediately withdraw its order requiring a Heritage Impact Assessment (HIA) before redevelopment. The Sewoon District 4 residents’ representative council said the order affects the redevelopment process and expressed opposition. An HIA reviews how development near a World Heritage site may affect heritage value. Residents are resisting the mandatory assessment as redevelopment of Sewoon District 4 approaches and are calling for the order to be withdrawn. Conflict over the redevelopment process and the agency’s order is expected to continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "世運4区域住民、国家遺産庁のHIA命令撤回を要求",
+        "excerpt": "ソウル世運4区域の住民代表会議は14日午前、宗廟向かいの現地で、再開発前に世界遺産影響評価を受けるよう求めた国家遺産庁命令の即時撤回を求めた。",
+        "body": "ソウル世運4区域の住民は14日午前、宗廟向かいの世運4区域で、再開発に先立ち世界遺産影響評価（HIA）を受けるよう求めた国家遺産庁の命令について、即時撤回を促した。世運4区域住民代表会議は、この命令が再開発の推進過程に影響を及ぼすとして反対の立場を示した。世界遺産影響評価は、世界遺産周辺の開発が遺産価値に与える影響を検討する手続きだ。住民は世運4区域の再開発を控え、評価の強制に反発し命令撤回を求めている。今後、再開発手続きと国家遺産庁命令をめぐる対立が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "世运4区居民要求撤回国家遗产厅HIA命令",
+        "excerpt": "首尔世运4区居民代表会议14日上午在宗庙对面的世运4区，要求国家遗产厅立即撤回在再开发前实施世界遗产影响评估的命令。",
+        "body": "首尔世运4区居民14日上午在宗庙对面的世运4区，要求国家遗产厅立即撤回要求该地区在再开发前接受世界遗产影响评估（HIA）的命令。世运4区居民代表会议表示，该命令会影响再开发推进过程，因此表明反对立场。世界遗产影响评估是审查世界遗产周边开发对遗产价值影响的程序。居民在世运4区再开发即将推进之际，反对强制评估，并要求撤回命令。预计围绕再开发程序和国家遗产厅命令的矛盾仍将持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vecinos de Sewoon 4 piden retirar la orden de evaluación HIA",
+        "excerpt": "El consejo de residentes del distrito Sewoon 4 de Seúl exigió la mañana del día 14, frente a Jongmyo, retirar de inmediato la orden de la agencia patrimonial sobre una HIA antes de la reurbanización.",
+        "body": "Los residentes del distrito Sewoon 4 de Seúl exigieron la mañana del día 14, en la zona situada frente a Jongmyo, que la agencia nacional de patrimonio retire de inmediato la orden que exige una Evaluación de Impacto Patrimonial Mundial (HIA) antes de la reurbanización. El consejo de representantes de residentes de Sewoon 4 expresó su oposición al considerar que la orden afecta el proceso de reurbanización. La HIA es un procedimiento que examina cómo el desarrollo cerca de un sitio de Patrimonio Mundial puede afectar su valor. Los residentes rechazan que la evaluación sea obligatoria antes de la reurbanización y piden retirar la orden. Se prevé que continúe el conflicto sobre el proceso y la orden. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Moradores de Sewoon 4 pedem retirada de ordem de HIA",
+        "excerpt": "O conselho de moradores do distrito Sewoon 4, em Seul, exigiu na manhã do dia 14, em frente ao Jongmyo, a retirada imediata da ordem de HIA antes da reurbanização.",
+        "body": "Moradores do distrito Sewoon 4, em Seul, exigiram na manhã do dia 14, na área situada em frente ao Jongmyo, que a agência nacional de patrimônio retire imediatamente a ordem que exige uma Avaliação de Impacto sobre Patrimônio Mundial (HIA) antes da reurbanização. O conselho de representantes dos moradores de Sewoon 4 afirmou oposição, dizendo que a ordem afeta o processo de reurbanização. A HIA avalia como obras próximas a um Patrimônio Mundial podem influenciar seu valor. Com a reurbanização de Sewoon 4 pela frente, os moradores rejeitam a obrigatoriedade da avaliação e pedem a retirada da ordem. O impasse sobre o processo e a ordem deve continuar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bewohner von Sewoon 4 fordern Rücknahme der HIA-Anordnung",
+        "excerpt": "Die Bewohnervertretung des Seouler Sewoon-Bezirks 4 verlangte am Morgen des 14. gegenüber Jongmyo die sofortige Rücknahme der Anordnung einer Welterbe-Folgenprüfung vor der Sanierung.",
+        "body": "Bewohner des Seouler Sewoon-Bezirks 4 forderten am Morgen des 14. in dem Gebiet gegenüber Jongmyo die sofortige Rücknahme einer Anordnung der nationalen Kulturerbebehörde, vor der Sanierung eine Welterbe-Folgenprüfung (HIA) durchführen zu lassen. Die Bewohnervertretung von Sewoon 4 erklärte, die Anordnung wirke sich auf den Sanierungsprozess aus, und sprach sich dagegen aus. Eine HIA prüft, welche Auswirkungen Entwicklungen in der Nähe eines Welterbes auf dessen Wert haben können. Die Bewohner wenden sich gegen die verpflichtende Prüfung vor der geplanten Sanierung und verlangen die Rücknahme der Anordnung. Der Konflikt um das Verfahren und die behördliche Anordnung dürfte anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les résidents de Sewoon 4 demandent le retrait de l’ordre HIA",
+        "excerpt": "Le conseil des résidents du secteur Sewoon 4 à Séoul a exigé le matin du 14, face à Jongmyo, le retrait immédiat de l’ordre imposant une HIA avant le réaménagement.",
+        "body": "Les résidents du secteur Sewoon 4 à Séoul ont exigé le matin du 14, dans la zone située en face de Jongmyo, que l’agence nationale du patrimoine retire immédiatement son ordre imposant une évaluation d’impact sur le patrimoine mondial (HIA) avant le réaménagement. Le conseil représentatif des résidents de Sewoon 4 a déclaré que cet ordre affecte le processus de réaménagement et a exprimé son opposition. Une HIA examine les effets possibles d’un développement près d’un site du patrimoine mondial sur sa valeur. Alors que le réaménagement de Sewoon 4 est attendu, les résidents contestent le caractère obligatoire de l’évaluation et demandent le retrait de l’ordre. Le conflit autour de la procédure et de l’ordre devrait se poursuivre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سكان سيؤون 4 يطالبون بسحب أمر تقييم تأثير التراث",
+        "excerpt": "طالب مجلس ممثلي سكان منطقة سيؤون 4 في سيول صباح يوم 14، قبالة جونغميو، بالسحب الفوري لأمر وكالة التراث بإجراء تقييم تأثير على التراث العالمي قبل إعادة التطوير.",
+        "body": "طالب سكان منطقة سيؤون 4 في سيول صباح يوم 14، في المنطقة المقابلة لجونغميو، وكالة التراث الوطنية بسحب فوري للأمر الذي يلزم بإجراء تقييم تأثير على التراث العالمي (HIA) قبل إعادة التطوير. وقال مجلس ممثلي سكان سيؤون 4 إن الأمر يؤثر في مسار إعادة التطوير، معلنا موقفه الرافض. ويعد تقييم تأثير التراث العالمي إجراء يراجع أثر التطوير قرب مواقع التراث العالمي في قيمة التراث. ومع اقتراب إعادة تطوير سيؤون 4، يعارض السكان فرض التقييم ويطالبون بسحب الأمر. ومن المتوقع استمرار الخلاف حول إجراءات إعادة التطوير وأمر وكالة التراث. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेऊन 4 निवासियों ने HIA आदेश वापस लेने की मांग की",
+        "excerpt": "सियोल के सेऊन 4 क्षेत्र के निवासी प्रतिनिधि परिषद ने 14 तारीख की सुबह जोंगम्यो के सामने, पुनर्विकास से पहले HIA कराने के राष्ट्रीय विरासत एजेंसी आदेश को तुरंत वापस लेने की मांग की।",
+        "body": "सियोल के सेऊन 4 क्षेत्र के निवासियों ने 14 तारीख की सुबह जोंगम्यो के सामने स्थित सेऊन 4 क्षेत्र में मांग की कि राष्ट्रीय विरासत एजेंसी पुनर्विकास से पहले विश्व विरासत प्रभाव आकलन (HIA) कराने का आदेश तुरंत वापस ले। सेऊन 4 निवासी प्रतिनिधि परिषद ने कहा कि यह आदेश पुनर्विकास प्रक्रिया को प्रभावित करता है और उसने विरोध जताया। विश्व विरासत प्रभाव आकलन वह प्रक्रिया है जो देखती है कि विश्व विरासत स्थल के आसपास विकास से विरासत मूल्य पर क्या असर पड़ सकता है। सेऊन 4 के पुनर्विकास से पहले अनिवार्य आकलन का निवासी विरोध कर रहे हैं और आदेश वापसी की मांग कर रहे हैं। पुनर्विकास प्रक्रिया और एजेंसी के आदेश को लेकर विवाद आगे भी जारी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Warga Sewoon 4 Desak Pencabutan Perintah HIA Warisan",
+        "excerpt": "Dewan perwakilan warga Sewoon 4 di Seoul pada pagi tanggal 14, di seberang Jongmyo, mendesak pencabutan segera perintah badan warisan untuk menjalani HIA sebelum redevelopment.",
+        "body": "Warga Sewoon 4 di Seoul pada pagi tanggal 14, di kawasan yang berhadapan dengan Jongmyo, mendesak badan warisan nasional segera mencabut perintah yang mewajibkan Heritage Impact Assessment (HIA) sebelum redevelopment. Dewan perwakilan warga Sewoon 4 menyatakan penolakan karena menilai perintah itu memengaruhi proses redevelopment. HIA adalah prosedur untuk meninjau dampak pembangunan di sekitar situs Warisan Dunia terhadap nilai warisan. Menjelang redevelopment Sewoon 4, warga menolak pemaksaan penilaian tersebut dan meminta perintah dicabut. Konflik terkait prosedur redevelopment dan perintah badan warisan diperkirakan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "09d9738abde9",
+    "slug": "아파트-거래량-219-쑥두산건설-부산서-두산위브-트리니뷰-구명역-15일-견본주택-개관-190620",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T05:58:58.745Z",
+    "updatedAt": "2026-05-14T05:58:58.745Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047534",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047534",
+    "titleFingerprint": "3e3c39746c43a325e1b67918e600cbd7f0e1741b",
+    "dedupKeys": [
+      "09d9738abde98688dcfd8a63d8ea62319fb5114e",
+      "3e3c39746c43a325e1b67918e600cbd7f0e1741b",
+      "9cbd7fa27200ddb15f19e7dec8baa247de54d8cb"
+    ],
+    "imageUrl": "/images/articles/09d9738abde9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산 아파트 거래량 21.9% 증가…두산위브 트리니뷰 구명역 15일 공개",
+        "excerpt": "두산건설은 부산 아파트 거래량이 지난해 21.9% 늘고 신축 품귀 우려가 커지는 가운데 15일 ‘두산위브 트리니뷰 구명역’ 견본주택을 개관한다.",
+        "body": "두산건설은 15일 부산에서 ‘두산위브 트리니뷰 구명역’ 견본주택을 개관한다. 지난해 부산 아파트 거래량이 21.9% 증가하며 전국 평균을 웃돈 가운데, 건축비 상승으로 신축 아파트 공급 부족 우려가 커진 점이 배경으로 제시됐다. 이 단지는 부산 시장의 거래 회복 흐름 속에서 공개되며, ‘아이맘부산플랜’ 적용으로 분양가 5% 즉시 할인 혜택이 제공된다고 소개됐다. 신축 선호와 비용 부담이 동시에 부각되는 상황에서 실수요자의 관심이 이어질지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Busan Apartment Deals Rise 21.9% as Doosan We’ve Triniview Opens May 15",
+        "excerpt": "Doosan E&C will open the model home for Doosan We’ve Triniview Gumyeong Station on May 15 as Busan apartment transactions rose 21.9% amid concerns over scarce new homes.",
+        "body": "Doosan E&C will open the model home for “Doosan We’ve Triniview Gumyeong Station” in Busan on May 15. The launch comes as Busan’s apartment transaction volume rose 21.9% last year, exceeding the national average, while rising construction costs have raised concerns over a shortage of newly built apartments. The project is being introduced amid signs of recovery in Busan’s housing transactions, and the company said a 5% immediate discount on the sale price will be offered through the “I Mom Busan Plan.” Attention is on whether end users will respond as demand for new homes and cost burdens stand out together. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "釜山マンション取引21.9％増、斗山ウィーブが15日にモデルハウス公開",
+        "excerpt": "斗山建設は、釜山のマンション取引量が昨年21.9％増え新築不足懸念が高まる中、15日に「斗山ウィーブ トリニビュー亀明駅」のモデルハウスを開く。",
+        "body": "斗山建設は15日、釜山で「斗山ウィーブ トリニビュー亀明駅」のモデルハウスを開設する。昨年、釜山のマンション取引量は21.9％増加し全国平均を上回った一方、建築費の上昇により新築マンションの供給不足への懸念が背景として示された。同物件は釜山住宅市場の取引回復の流れの中で公開され、「アイマム釜山プラン」の適用により分譲価格の5％即時割引が提供されると紹介された。新築需要と費用負担が同時に注目される中、実需層の関心が続くかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "釜山公寓成交量增21.9%，斗山We’ve项目15日开放样板房",
+        "excerpt": "斗山建设将在釜山公寓成交量去年增长21.9%、新房短缺担忧加剧之际，于15日开放“斗山We’ve Triniview龟明站”样板房。",
+        "body": "斗山建设将于15日在釜山开放“斗山We’ve Triniview龟明站”样板房。去年釜山公寓成交量增长21.9%，高于全国平均水平，同时建筑成本上升也引发了新建公寓供应不足的担忧，这是该项目推出的背景。该项目在釜山住宅交易恢复的氛围中亮相，并介绍称适用“i Mom Busan Plan”后，可立即享受分售价5%的折扣。在新房偏好与成本负担同时受到关注的情况下，实际购房者的兴趣是否延续备受关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ventas de apartamentos en Busan suben 21,9% y Doosan abre muestra el día 15",
+        "excerpt": "Doosan E&C abrirá el 15 la vivienda modelo de Doosan We’ve Triniview Gumyeong Station en Busan, donde las transacciones de apartamentos crecieron 21,9% el año pasado.",
+        "body": "Doosan E&C abrirá el 15 de mayo en Busan la vivienda modelo de “Doosan We’ve Triniview Gumyeong Station”. El anuncio llega después de que el volumen de transacciones de apartamentos en Busan aumentara 21,9% el año pasado, por encima del promedio nacional, mientras el alza de los costos de construcción elevó la preocupación por la escasez de viviendas nuevas. El complejo se presenta en medio de la recuperación de operaciones en el mercado local, y se informó que el “I Mom Busan Plan” ofrece un descuento inmediato del 5% sobre el precio de venta. La atención se centra en la respuesta de compradores finales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Negócios de apartamentos em Busan sobem 21,9% e Doosan abre decorado dia 15",
+        "excerpt": "A Doosan E&C abrirá em 15 de maio o modelo do Doosan We’ve Triniview Gumyeong Station, em Busan, onde as transações de apartamentos subiram 21,9% no ano passado.",
+        "body": "A Doosan E&C abrirá em 15 de maio, em Busan, o modelo do “Doosan We’ve Triniview Gumyeong Station”. O lançamento ocorre após o volume de transações de apartamentos em Busan crescer 21,9% no ano passado, acima da média nacional, enquanto o aumento dos custos de construção elevou a preocupação com a escassez de novos apartamentos. O empreendimento é apresentado em meio à recuperação das negociações no mercado local, e foi informado que o “I Mom Busan Plan” oferece desconto imediato de 5% no preço de venda. A atenção recai sobre a reação dos compradores finais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Wohnungsverkäufe in Busan plus 21,9%: Doosan-We’ve-Projekt öffnet am 15.",
+        "excerpt": "Doosan E&C eröffnet am 15. Mai das Musterhaus für Doosan We’ve Triniview Gumyeong Station in Busan, wo die Wohnungstransaktionen im Vorjahr um 21,9% zulegten.",
+        "body": "Doosan E&C eröffnet am 15. Mai in Busan das Musterhaus für „Doosan We’ve Triniview Gumyeong Station“. Hintergrund ist, dass das Transaktionsvolumen für Wohnungen in Busan im vergangenen Jahr um 21,9% stieg und damit über dem Landesdurchschnitt lag, während höhere Baukosten Sorgen über ein knapperes Angebot an Neubauwohnungen verstärken. Das Projekt wird in einer Phase der Erholung der Wohnungsverkäufe in Busan vorgestellt. Nach Angaben gilt der „I Mom Busan Plan“, der einen sofortigen Rabatt von 5% auf den Verkaufspreis bietet. Im Fokus steht, ob Eigennutzer weiter Interesse zeigen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Appartements à Busan: transactions en hausse de 21,9%, Doosan ouvre le 15",
+        "excerpt": "Doosan E&C ouvrira le 15 mai le logement témoin de Doosan We’ve Triniview Gumyeong Station à Busan, où les transactions d’appartements ont augmenté de 21,9% l’an dernier.",
+        "body": "Doosan E&C ouvrira le 15 mai à Busan le logement témoin de « Doosan We’ve Triniview Gumyeong Station ». Cette présentation intervient alors que le volume des transactions d’appartements à Busan a progressé de 21,9% l’an dernier, au-dessus de la moyenne nationale, et que la hausse des coûts de construction alimente les craintes de pénurie de logements neufs. Le programme est dévoilé dans un contexte de reprise des échanges sur le marché local. Il est indiqué que le « I Mom Busan Plan » permet une remise immédiate de 5% sur le prix de vente. L’attention porte sur la réaction des acheteurs finaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع صفقات الشقق في بوسان 21.9% وافتتاح نموذج دووسان ويف في 15 مايو",
+        "excerpt": "تفتتح دووسان للهندسة والإنشاءات في 15 مايو نموذج مشروع Doosan We’ve Triniview Gumyeong Station في بوسان، حيث زادت صفقات الشقق 21.9% العام الماضي.",
+        "body": "تفتتح دووسان للهندسة والإنشاءات في 15 مايو في بوسان نموذج مشروع “Doosan We’ve Triniview Gumyeong Station”. يأتي ذلك بعدما ارتفع حجم صفقات الشقق في بوسان العام الماضي بنسبة 21.9% متجاوزا المتوسط الوطني، في وقت أثار ارتفاع تكاليف البناء مخاوف من نقص الشقق الجديدة. ويطرح المشروع وسط مؤشرات تعاف في معاملات سوق الإسكان في بوسان، مع الإشارة إلى أن تطبيق “I Mom Busan Plan” يوفر خصما فوريا قدره 5% على سعر البيع. ويتركز الاهتمام على مدى استمرار اهتمام المشترين الفعليين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बुसान अपार्टमेंट सौदे 21.9% बढ़े, Doosan We’ve मॉडल होम 15 मई को खुलेगा",
+        "excerpt": "Doosan E&C 15 मई को बुसान में Doosan We’ve Triniview Gumyeong Station का मॉडल होम खोलेगी, जहां पिछले वर्ष अपार्टमेंट लेनदेन 21.9% बढ़े थे।",
+        "body": "Doosan E&C 15 मई को बुसान में “Doosan We’ve Triniview Gumyeong Station” का मॉडल होम खोलेगी। यह पेशकश ऐसे समय हो रही है जब पिछले वर्ष बुसान में अपार्टमेंट लेनदेन 21.9% बढ़े और राष्ट्रीय औसत से ऊपर रहे, जबकि निर्माण लागत बढ़ने से नए अपार्टमेंट की कमी को लेकर चिंता सामने आई। परियोजना बुसान के आवास लेनदेन में सुधार के रुझान के बीच पेश की जा रही है। बताया गया कि “I Mom Busan Plan” लागू होने पर बिक्री मूल्य पर तुरंत 5% छूट मिलेगी। नए घरों की मांग और लागत 부담 साथ दिखने के बीच वास्तविक खरीदारों की रुचि पर ध्यान है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Transaksi Apartemen Busan Naik 21,9%, Doosan We’ve Buka Show Unit 15 Mei",
+        "excerpt": "Doosan E&C akan membuka rumah contoh Doosan We’ve Triniview Gumyeong Station pada 15 Mei di Busan, saat transaksi apartemen kota itu naik 21,9% tahun lalu.",
+        "body": "Doosan E&C akan membuka rumah contoh “Doosan We’ve Triniview Gumyeong Station” di Busan pada 15 Mei. Peluncuran ini hadir setelah volume transaksi apartemen di Busan tahun lalu naik 21,9%, melampaui rata-rata nasional, sementara kenaikan biaya konstruksi memunculkan kekhawatiran akan kelangkaan apartemen baru. Proyek ini diperkenalkan di tengah arus pemulihan transaksi hunian di Busan. Disebutkan bahwa penerapan “I Mom Busan Plan” memberi diskon langsung 5% atas harga penjualan. Perhatian kini tertuju pada apakah minat pengguna akhir akan berlanjut di tengah sorotan pada hunian baru dan beban biaya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ae2237b0de54",
     "slug": "서울에서-내-땅-갖기-젊음은-몸테크의-마지막-기회다-610177",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Delivery Hero Mulai Jual Baemin, Incar Valuasi Woowa Brothers Sekitar 8 Triliun Won",
         "excerpt": "Delivery Hero menunjuk JPMorgan untuk memimpin penjualan Woowa Brothers dan mengirim teaser letter kepada calon investor seperti Naver, Uber, Alibaba, dan DoorDash.",
         "body": "Perusahaan layanan pengantaran global Delivery Hero (DH) mulai menjalankan proses penjualan Woowa Brothers, operator Baedal Minjok atau Baemin. Menurut kalangan investment banking pada tanggal 13, DH menunjuk JPMorgan sebagai penasihat penjualan dan membagikan dokumen informasi investasi, atau teaser letter, kepada perusahaan besar di dalam dan luar Korea serta dana ekuitas privat global. Perusahaan yang disebut menerima dokumen itu mencakup Naver, platform ride-sharing Uber, raksasa teknologi China Alibaba, dan DoorDash, operator aplikasi pesan-antar makanan terbesar di Amerika Serikat. DH sebelumnya membeli 88% saham Baemin pada 2019 senilai 3,6 miliar euro, sekitar 4,8 triliun won. Kali ini DH mengharapkan valuasi Woowa Brothers sekitar 8 triliun won, setara kira-kira 12 kali rata-rata laba operasional dua tahun terakhir. Kalangan industri menilai penyelesaian penjualan tidak akan mudah karena harga yang besar. Langkah ini tampaknya terkait upaya DH mengatasi tekanan pendanaan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8861aecbc7d9",
-    "slug": "기아-우핸들-pv5-일본-출시-日-취향-박스카로-찰떡-398484",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T14:06:41.266Z",
-    "updatedAt": "2026-05-13T14:06:41.266Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133918134/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133918134/1",
-    "titleFingerprint": "442470a0e92079974f239d3a866951e202151fb2",
-    "dedupKeys": [
-      "8861aecbc7d984e42a24655617e1a5b1e022c092",
-      "442470a0e92079974f239d3a866951e202151fb2",
-      "4d879b481564332836717f1e6021fade5c79261e"
-    ],
-    "imageUrl": "/images/articles/8861aecbc7d9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "기아 PV5 일본 출시, 우핸들 박스카로 현지 전기차 시장 공략",
-        "excerpt": "기아가 13일 도쿄 기아PBV재팬 도쿄니시 직영점에서 첫 PBV 모델 PV5를 일본에 공식 출시하고 사전 계약과 현지 PBV 전략을 공개했다.",
-        "body": "기아는 13일 일본 도쿄 기아PBV재팬 도쿄니시 직영점에서 브랜드 첫 PBV 모델인 PV5 공식 출시 행사를 열고 현지 사전 계약 개시를 알렸다. PV5는 목적 기반 모빌리티 모델로, 일본 소비자가 선호하는 박스카 디자인과 다목적 활용성을 앞세운다. 행사에는 김상대 기아 PBV비즈니스사업부장 부사장과 타지마 야스나리 기아PBV재팬 대표이사 등이 참석했다. 기아는 글로벌 PBV 비즈니스 전략에 기반한 일본 시장 계획을 소개하며 맞춤형 차량 구조와 첨단 신기술을 적용했다고 설명했다. PV5는 현대자동차그룹 내에서 기아가 처음 선보인 PBV 비즈니스 모델로, 전용 플랫폼 E-GMP.S를 기반으로 개발됐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Kia Launches Right-Hand-Drive PV5 in Japan to Target Boxy EV Demand",
-        "excerpt": "Kia officially launched its first PBV model, the PV5, at Kia PBV Japan Tokyo Nishi on the 13th, opening local pre-orders and outlining its Japan strategy.",
-        "body": "Kia held an official launch event for the PV5, its first purpose-built vehicle model, on the 13th at the Kia PBV Japan Tokyo Nishi directly operated store in Tokyo, Japan, and announced the start of local pre-orders. The PV5 emphasizes the box-car design favored by Japanese consumers and multipurpose usability. Attendees included Kim Sang-dae, vice president and head of Kia’s PBV Business Division, and Yasunari Tajima, CEO of Kia PBV Japan. Kia introduced its Japan market plan based on its global PBV business strategy and said the vehicle uses a customized structure and advanced technologies to meet local lifestyles and business needs. The PV5 is Kia’s first PBV business model within Hyundai Motor Group and was developed on the dedicated E-GMP.S platform. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "起亜PV5が日本発売、右ハンドルの箱型EVで市場攻略へ",
-        "excerpt": "起亜は13日、東京の起亜PBVジャパン東京西直営店で初のPBVモデルPV5を正式発売し、先行契約と日本市場戦略を発表した。",
-        "body": "起亜は13日、日本・東京の起亜PBVジャパン東京西直営店で、ブランド初のPBVモデルであるPV5の公式発売イベントを開き、現地での先行契約開始を知らせた。PV5は目的基盤モビリティモデルで、日本の消費者が好むボックスカーのデザインと多目的な活用性を前面に出す。イベントには、起亜PBVビジネス事業部長の金相大副社長、起亜PBVジャパンの田嶋康成代表取締役らが出席した。起亜はグローバルPBV事業戦略に基づく日本市場計画を紹介し、現地のライフスタイルとビジネス環境に対応するため、カスタマイズされた車両構造と先端技術を多数適用したと説明した。PV5は現代自動車グループ内で起亜が初めて披露したPBV事業モデルで、専用プラットフォームE-GMP.Sを基盤に開発された。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "起亚PV5在日本上市，右舵方盒子电动车瞄准本地需求",
-        "excerpt": "起亚13日在东京Kia PBV Japan Tokyo Nishi直营店正式发布首款PBV车型PV5，启动日本预订并介绍当地市场计划。",
-        "body": "起亚13日在日本东京Kia PBV Japan Tokyo Nishi直营店举行品牌首款PBV车型PV5正式上市活动，并宣布启动当地预订。PV5是目的型出行车型，主打日本消费者偏好的方盒子车身设计和多用途实用性。起亚PBV业务事业部副社长金相大、Kia PBV Japan代表取缔役田岛康成等相关人士出席活动。起亚介绍了基于全球PBV业务战略的日本市场计划，并表示为满足日本消费者生活方式和商业环境，PV5采用了定制化车辆结构和多项先进新技术。PV5是现代汽车集团内起亚首次推出的PBV商业车型，基于专用平台E-GMP.S开发。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Kia lanza el PV5 con volante a la derecha en Japón y apuesta por el diseño boxcar",
-        "excerpt": "Kia presentó oficialmente el 13 su primer modelo PBV, el PV5, en Kia PBV Japan Tokyo Nishi, abrió la preventa local y detalló su plan para Japón.",
-        "body": "Kia celebró el día 13 en la tienda directa Kia PBV Japan Tokyo Nishi, en Tokio, el lanzamiento oficial del PV5, su primer modelo PBV, y anunció el inicio de los contratos de preventa en Japón. El PV5 es un vehículo de movilidad basada en propósito que destaca por el diseño tipo boxcar preferido por los consumidores japoneses y por su uso multifuncional. Al acto asistieron Kim Sang-dae, vicepresidente y jefe de la división de negocio PBV de Kia, y Yasunari Tajima, director ejecutivo de Kia PBV Japan. La compañía presentó su plan para el mercado japonés basado en la estrategia global de PBV y explicó que aplicó una estructura de vehículo personalizada y tecnologías avanzadas para responder al estilo de vida y al entorno empresarial local. El PV5 es el primer modelo de negocio PBV que Kia presenta dentro de Hyundai Motor Group y fue desarrollado sobre la plataforma dedicada E-GMP.S. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Kia lança PV5 com volante à direita no Japão mirando demanda por boxcars elétricos",
-        "excerpt": "A Kia lançou oficialmente no dia 13 o PV5, seu primeiro PBV, na Kia PBV Japan Tokyo Nishi, abriu a pré-venda local e apresentou sua estratégia no Japão.",
-        "body": "A Kia realizou no dia 13, na loja própria Kia PBV Japan Tokyo Nishi, em Tóquio, o evento oficial de lançamento do PV5, primeiro modelo PBV da marca, e anunciou o início dos contratos de pré-venda locais. O PV5 é um modelo de mobilidade baseada em propósito e destaca o desenho de boxcar preferido pelos consumidores japoneses, além da versatilidade de uso. Participaram do evento Kim Sang-dae, vice-presidente e chefe da divisão de negócios PBV da Kia, e Yasunari Tajima, CEO da Kia PBV Japan. A empresa apresentou seu plano para o mercado japonês com base na estratégia global de PBV e explicou que aplicou uma estrutura veicular personalizada e tecnologias avançadas para atender ao estilo de vida e ao ambiente de negócios do Japão. O PV5 é o primeiro modelo de negócios PBV apresentado pela Kia dentro do Hyundai Motor Group e foi desenvolvido sobre a plataforma dedicada E-GMP.S. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Kia bringt rechtsgelenkten PV5 nach Japan und setzt auf Boxcar-Design",
-        "excerpt": "Kia hat am 13. in der Direktfiliale Kia PBV Japan Tokyo Nishi sein erstes PBV-Modell PV5 offiziell vorgestellt, Vorbestellungen gestartet und den Japan-Plan erläutert.",
-        "body": "Kia hat am 13. in der direkt betriebenen Filiale Kia PBV Japan Tokyo Nishi in Tokio die offizielle Markteinführung des PV5, des ersten PBV-Modells der Marke, veranstaltet und den Start lokaler Vorbestellungen bekanntgegeben. Der PV5 ist ein zweckorientiertes Mobilitätsmodell und stellt das von japanischen Verbrauchern bevorzugte Boxcar-Design sowie vielseitige Nutzungsmöglichkeiten in den Vordergrund. An der Veranstaltung nahmen unter anderem Kim Sang-dae, Vizepräsident und Leiter der PBV-Geschäftssparte von Kia, sowie Yasunari Tajima, CEO von Kia PBV Japan, teil. Kia stellte seinen Japan-Plan auf Basis der globalen PBV-Geschäftsstrategie vor und erklärte, eine angepasste Fahrzeugstruktur sowie fortschrittliche Technologien eingesetzt zu haben, um lokale Lebensstile und Geschäftsumfelder zu erfüllen. Der PV5 ist das erste PBV-Geschäftsmodell, das Kia innerhalb der Hyundai Motor Group vorstellt, und wurde auf der speziellen Plattform E-GMP.S entwickelt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Kia lance le PV5 à conduite à droite au Japon avec un format boxcar",
-        "excerpt": "Kia a officiellement lancé le 13 son premier modèle PBV, le PV5, chez Kia PBV Japan Tokyo Nishi, ouvrant les précommandes et présentant son plan japonais.",
-        "body": "Kia a organisé le 13, dans le point de vente direct Kia PBV Japan Tokyo Nishi à Tokyo, l’événement de lancement officiel du PV5, premier modèle PBV de la marque, et a annoncé l’ouverture des précommandes locales. Le PV5 est un modèle de mobilité à usage défini qui met en avant le design de type boxcar apprécié des consommateurs japonais et une utilisation polyvalente. Kim Sang-dae, vice-président et responsable de la division PBV de Kia, ainsi que Yasunari Tajima, directeur général de Kia PBV Japan, figuraient parmi les participants. Kia a présenté son plan pour le marché japonais fondé sur sa stratégie mondiale PBV et a expliqué avoir appliqué une structure de véhicule personnalisée et des technologies avancées afin de répondre aux modes de vie et à l’environnement professionnel locaux. Le PV5 est le premier modèle d’affaires PBV présenté par Kia au sein de Hyundai Motor Group et a été développé sur la plateforme dédiée E-GMP.S. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كيا تطلق PV5 بمقود يمين في اليابان مستهدفة طلب السيارات الصندوقية الكهربائية",
-        "excerpt": "أطلقت كيا في 13 الشهر طرازها الأول من مركبات PBV، وهو PV5، في متجر Kia PBV Japan Tokyo Nishi بطوكيو، وفتحت الحجوزات المسبقة وكشفت خطتها لليابان.",
-        "body": "أقامت كيا في 13 الشهر حدث الإطلاق الرسمي لطراز PV5، أول نموذج PBV للعلامة، في متجر Kia PBV Japan Tokyo Nishi المدار مباشرة في طوكيو باليابان، وأعلنت بدء الحجوزات المحلية المسبقة. ويعد PV5 نموذج تنقل قائما على الغرض، ويركز على تصميم السيارة الصندوقية الذي يفضله المستهلكون في اليابان وعلى الاستخدامات المتعددة. حضر الحدث كيم سانغ داي، نائب الرئيس ورئيس قسم أعمال PBV في كيا، وياسوناري تاجيما، الرئيس التنفيذي لـ Kia PBV Japan، إلى جانب مسؤولين آخرين. وقدمت كيا خطتها للسوق اليابانية استنادا إلى استراتيجية أعمال PBV العالمية، موضحة أنها طبقت بنية مركبة مخصصة وتقنيات متقدمة لتلبية أسلوب حياة المستهلكين وبيئة الأعمال في اليابان. ويعد PV5 أول نموذج أعمال PBV تقدمه كيا داخل Hyundai Motor Group، وقد طور على منصة E-GMP.S المخصصة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "किआ ने जापान में राइट-हैंड-ड्राइव PV5 लॉन्च किया, बॉक्सकार डिजाइन पर दांव",
-        "excerpt": "किआ ने 13 तारीख को टोक्यो के Kia PBV Japan Tokyo Nishi स्टोर में अपने पहले PBV मॉडल PV5 को आधिकारिक रूप से लॉन्च कर स्थानीय प्री-ऑर्डर और जापान योजना पेश की।",
-        "body": "किआ ने 13 तारीख को जापान के टोक्यो स्थित Kia PBV Japan Tokyo Nishi प्रत्यक्ष संचालित स्टोर में अपने पहले PBV मॉडल PV5 का आधिकारिक लॉन्च कार्यक्रम आयोजित किया और स्थानीय प्री-ऑर्डर शुरू करने की घोषणा की। PV5 एक उद्देश्य-आधारित मोबिलिटी मॉडल है, जो जापानी उपभोक्ताओं की पसंद वाले बॉक्सकार डिजाइन और बहुउद्देशीय उपयोगिता को आगे रखता है। कार्यक्रम में किआ के PBV बिजनेस डिवीजन के प्रमुख और उपाध्यक्ष किम सांग-डे तथा Kia PBV Japan के सीईओ यासुनारी ताजिमा सहित प्रमुख अधिकारी शामिल हुए। किआ ने अपनी वैश्विक PBV बिजनेस रणनीति पर आधारित जापान बाजार योजना पेश की और कहा कि स्थानीय जीवनशैली और कारोबारी माहौल को पूरा करने के लिए अनुकूलित वाहन संरचना और उन्नत तकनीकें लगाई गई हैं। PV5 Hyundai Motor Group के भीतर किआ द्वारा पेश किया गया पहला PBV बिजनेस मॉडल है और इसे समर्पित E-GMP.S प्लेटफॉर्म पर विकसित किया गया है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Kia Luncurkan PV5 Setir Kanan di Jepang, Bidik Pasar EV dengan Desain Boxcar",
-        "excerpt": "Kia pada 13 di toko langsung Kia PBV Japan Tokyo Nishi resmi meluncurkan PV5, model PBV pertamanya, membuka prapemesanan lokal, dan memaparkan strategi Jepang.",
-        "body": "Kia pada 13 menggelar acara peluncuran resmi PV5, model PBV pertama merek tersebut, di toko langsung Kia PBV Japan Tokyo Nishi di Tokyo, Jepang, sekaligus mengumumkan dimulainya prapemesanan lokal. PV5 merupakan model mobilitas berbasis tujuan yang menonjolkan desain boxcar yang disukai konsumen Jepang dan kegunaan multiguna. Acara ini dihadiri Kim Sang-dae, wakil presiden sekaligus kepala Divisi Bisnis PBV Kia, serta Yasunari Tajima, CEO Kia PBV Japan. Kia memperkenalkan rencana pasar Jepang berdasarkan strategi bisnis PBV global dan menjelaskan bahwa kendaraan ini menerapkan struktur yang disesuaikan serta teknologi canggih untuk memenuhi gaya hidup konsumen dan lingkungan bisnis Jepang. PV5 adalah model bisnis PBV pertama yang diperkenalkan Kia di dalam Hyundai Motor Group dan dikembangkan di atas platform khusus E-GMP.S. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "19190e08d9bc",
-    "slug": "美-도매물가-4월중-14-뛰어-연-인플레-60로-커져4년-래-최고치-990909",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T14:05:30.867Z",
-    "updatedAt": "2026-05-13T14:05:30.867Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260513/133918803/1",
-    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260513/133918803/1",
-    "titleFingerprint": "8798097f272072d8d0ce3a752c04c19f247ccc00",
-    "dedupKeys": [
-      "19190e08d9bce19688af5ce2b986f3541f3595e7",
-      "8798097f272072d8d0ce3a752c04c19f247ccc00",
-      "61f6366248518904bf939d679b049c46a2bb7fbf"
-    ],
-    "imageUrl": "/images/articles/19190e08d9bc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미국 4월 생산자물가 1.4% 급등, 연간 PPI 인플레 6.0%로 확대",
-        "excerpt": "미 노동부는 13일 미국의 4월 생산자물가가 전월보다 1.4% 올라 연간 PPI 인플레가 6.0%로 커졌다고 밝혔다. 이란 전쟁 이후 상승세가 확대됐다.",
-        "body": "미 노동부는 13일 미국의 4월 생산자물가지수(PPI), 즉 소비자에게 전달되기 직전 단계의 도매물가가 전월 대비 1.4% 상승했다고 밝혔다. 이는 코로나19 이후 경기 반등기였던 2022년 3월의 1.7% 상승 이후 가장 큰 월간 오름폭이다. 이란 전쟁이 시작된 3월에는 PPI가 0.7% 올랐고, 전쟁 전인 2월에는 0.6% 상승했다. 전년 동월 대비 PPI 인플레는 6.0%로 확대돼 2022년 12월 6.4% 이후 최고 수준을 기록했다. 3월 연간 상승률은 4.3%, 2월은 3.4%였다. 전날 발표된 4월 소비자물가도 전월 대비 0.6% 올랐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "US April Producer Prices Jump 1.4%, Annual PPI Inflation Rises to 6.0%",
-        "excerpt": "The US Labor Department said on the 13th that producer prices rose 1.4% in April from March, lifting annual PPI inflation to 6.0% after the Iran war began.",
-        "body": "The US Labor Department said on the 13th that the producer price index (PPI), wholesale prices at the final stage before reaching consumers, rose 1.4% in April from the previous month. It was the largest monthly increase since the 1.7% rise in March 2022, when the economy rebounded after the COVID-19 downturn. PPI rose 0.7% in March, when the Iran war began, and 0.6% in February, before the war. Annual PPI inflation, measured against April 2025, widened to 6.0%, the highest since 6.4% in December 2022. The annual rate was 4.3% in March and 3.4% in February. Consumer prices released a day earlier rose 0.6% in April from the previous month. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "米4月生産者物価が1.4%急上昇、年間PPIインフレは6.0%に拡大",
-        "excerpt": "米労働省は13日、4月の生産者物価が前月比1.4%上昇し、年間PPIインフレが6.0%に拡大したと発表した。イラン戦争後に上昇幅が広がった。",
-        "body": "米労働省は13日、消費者に届く直前段階の卸売物価にあたる4月の生産者物価指数（PPI）が前月比1.4%上昇したと発表した。これは、新型コロナ後の景気反発局面だった2022年3月の1.7%上昇以来、最大の月間上昇幅となる。イラン戦争が始まった3月のPPI上昇率は0.7%、戦争前の2月は0.6%だった。前年同月比のPPIインフレは6.0%に拡大し、2022年12月の6.4%以来の高水準となった。3月の年間上昇率は4.3%、2月は3.4%だった。前日に発表された4月の消費者物価も前月比0.6%上昇した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "美国4月生产者价格上涨1.4%，年度PPI通胀扩大至6.0%",
-        "excerpt": "美国劳工部13日表示，4月生产者价格环比上涨1.4%，年度PPI通胀升至6.0%。伊朗战争开始后，价格涨幅继续扩大。",
-        "body": "美国劳工部13日表示，4月生产者价格指数（PPI），即商品进入消费者环节前最后阶段的批发价格，较上月上涨1.4%。这是自2022年3月美国经济在新冠低迷后反弹、PPI上涨1.7%以来的最大月度涨幅。伊朗战争开始的3月，PPI上涨0.7%；战前的2月上涨0.6%。与2025年4月相比，PPI年度通胀扩大至6.0%，为2022年12月6.4%以来最高。3月年度涨幅为4.3%，2月为3.4%。前一天公布的4月消费者价格也环比上涨0.6%。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Precios al productor de EE. UU. suben 1,4% en abril y la inflación PPI llega al 6,0%",
-        "excerpt": "El Departamento de Trabajo de EE. UU. informó el día 13 que los precios al productor subieron 1,4% en abril frente a marzo y la inflación anual PPI llegó al 6,0%.",
-        "body": "El Departamento de Trabajo de EE. UU. informó el día 13 que el índice de precios al productor (PPI), los precios mayoristas en la etapa final antes de llegar al consumidor, subió 1,4% en abril respecto al mes anterior. Fue el mayor aumento mensual desde el 1,7% registrado en marzo de 2022, cuando la economía repuntaba tras la recesión por el COVID-19. En marzo, cuando comenzó la guerra con Irán, el PPI subió 0,7%, y en febrero, antes de la guerra, aumentó 0,6%. La inflación anual del PPI, comparada con abril de 2025, se amplió a 6,0%, el nivel más alto desde el 6,4% de diciembre de 2022. En marzo fue 4,3% y en febrero 3,4%. Los precios al consumidor de abril, publicados el día anterior, subieron 0,6% mensual. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Preços ao produtor dos EUA sobem 1,4% em abril e inflação anual do PPI chega a 6,0%",
-        "excerpt": "O Departamento do Trabalho dos EUA disse no dia 13 que os preços ao produtor subiram 1,4% em abril ante março, elevando a inflação anual do PPI para 6,0%.",
-        "body": "O Departamento do Trabalho dos EUA informou no dia 13 que o índice de preços ao produtor (PPI), os preços no atacado na etapa final antes de chegar ao consumidor, subiu 1,4% em abril em relação ao mês anterior. Foi a maior alta mensal desde os 1,7% de março de 2022, quando a economia se recuperava após a retração causada pela COVID-19. Em março, quando começou a guerra com o Irã, o PPI subiu 0,7%; em fevereiro, antes da guerra, avançou 0,6%. A inflação anual do PPI, comparada com abril de 2025, aumentou para 6,0%, o maior nível desde os 6,4% de dezembro de 2022. Em março, a taxa anual foi 4,3%, e em fevereiro, 3,4%. Os preços ao consumidor de abril, divulgados no dia anterior, subiram 0,6% no mês. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "US-Erzeugerpreise steigen im April um 1,4%, jährliche PPI-Inflation erreicht 6,0%",
-        "excerpt": "Das US-Arbeitsministerium teilte am 13. mit, dass die Erzeugerpreise im April gegenüber März um 1,4% stiegen und die jährliche PPI-Inflation auf 6,0% kletterte.",
-        "body": "Das US-Arbeitsministerium erklärte am 13., dass der Erzeugerpreisindex (PPI), also die Großhandelspreise in der letzten Stufe vor dem Verbraucher, im April gegenüber dem Vormonat um 1,4% gestiegen ist. Das war der stärkste monatliche Anstieg seit März 2022, als die Preise während der wirtschaftlichen Erholung nach dem COVID-19-Einbruch um 1,7% zulegten. Im März, als der Iran-Krieg begann, stieg der PPI um 0,7%, im Februar vor dem Krieg um 0,6%. Die jährliche PPI-Inflation gegenüber April 2025 weitete sich auf 6,0% aus, den höchsten Wert seit 6,4% im Dezember 2022. Im März lag sie bei 4,3%, im Februar bei 3,4%. Die am Vortag veröffentlichten Verbraucherpreise für April stiegen monatlich um 0,6%. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les prix à la production américains bondissent de 1,4% en avril, l’inflation PPI atteint 6,0%",
-        "excerpt": "Le département américain du Travail a indiqué le 13 que les prix à la production avaient augmenté de 1,4% en avril sur un mois, portant l’inflation annuelle PPI à 6,0%.",
-        "body": "Le département américain du Travail a annoncé le 13 que l’indice des prix à la production (PPI), soit les prix de gros au dernier stade avant le consommateur, avait augmenté de 1,4% en avril par rapport au mois précédent. Il s’agit de la plus forte hausse mensuelle depuis les 1,7% de mars 2022, période de rebond économique après le ralentissement lié au COVID-19. En mars, lorsque la guerre avec l’Iran a commencé, le PPI avait progressé de 0,7%; en février, avant la guerre, de 0,6%. L’inflation annuelle du PPI, comparée à avril 2025, s’est élargie à 6,0%, son plus haut niveau depuis les 6,4% de décembre 2022. Elle était de 4,3% en mars et de 3,4% en février. Les prix à la consommation d’avril, publiés la veille, ont augmenté de 0,6% sur un mois. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أسعار المنتجين في أميركا تقفز 1.4% في أبريل وتضخم PPI السنوي يبلغ 6.0%",
-        "excerpt": "قالت وزارة العمل الأميركية في 13 إن أسعار المنتجين ارتفعت 1.4% في أبريل مقارنة بمارس، ليرتفع تضخم مؤشر أسعار المنتجين السنوي إلى 6.0% بعد بدء حرب إيران.",
-        "body": "قالت وزارة العمل الأميركية في 13 إن مؤشر أسعار المنتجين (PPI)، وهو أسعار الجملة في المرحلة الأخيرة قبل وصول السلع إلى المستهلك، ارتفع في أبريل 1.4% عن الشهر السابق. وهذا أكبر ارتفاع شهري منذ زيادة 1.7% في مارس 2022، عندما انتعش الاقتصاد بعد ركود كوفيد-19. وفي مارس، حين بدأت حرب إيران، ارتفع المؤشر 0.7%، بينما زاد في فبراير قبل الحرب 0.6%. واتسع تضخم PPI السنوي، مقارنة بأبريل 2025، إلى 6.0%، وهو أعلى مستوى منذ 6.4% في ديسمبر 2022. وبلغ المعدل السنوي 4.3% في مارس و3.4% في فبراير. كما ارتفعت أسعار المستهلكين في أبريل، التي صدرت في اليوم السابق، 0.6% على أساس شهري. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "अमेरिका में अप्रैल उत्पादक कीमतें 1.4% उछलीं, वार्षिक PPI महंगाई 6.0% पर",
-        "excerpt": "अमेरिकी श्रम विभाग ने 13 तारीख को कहा कि अप्रैल में उत्पादक कीमतें मार्च से 1.4% बढ़ीं और वार्षिक PPI महंगाई 6.0% हो गई। ईरान युद्ध के बाद वृद्धि तेज हुई।",
-        "body": "अमेरिकी श्रम विभाग ने 13 तारीख को बताया कि अप्रैल में उत्पादक मूल्य सूचकांक (PPI), यानी उपभोक्ता तक पहुंचने से ठीक पहले की अंतिम थोक कीमतें, पिछले महीने से 1.4% बढ़ीं। यह मार्च 2022 की 1.7% वृद्धि के बाद सबसे बड़ी मासिक बढ़ोतरी है, जब कोविड-19 मंदी के बाद अर्थव्यवस्था तेज लौटी थी। ईरान युद्ध शुरू हुए मार्च में PPI 0.7% बढ़ा था, जबकि युद्ध से पहले फरवरी में यह 0.6% बढ़ा। अप्रैल 2025 की तुलना में वार्षिक PPI महंगाई 6.0% तक फैल गई, जो दिसंबर 2022 के 6.4% के बाद सबसे ऊंचा स्तर है। मार्च में वार्षिक दर 4.3% और फरवरी में 3.4% थी। एक दिन पहले जारी अप्रैल उपभोक्ता कीमतें भी मासिक आधार पर 0.6% बढ़ीं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Harga Produsen AS April Melonjak 1,4%, Inflasi PPI Tahunan Naik ke 6,0%",
-        "excerpt": "Departemen Tenaga Kerja AS pada tanggal 13 menyatakan harga produsen April naik 1,4% dari Maret, sehingga inflasi PPI tahunan melebar menjadi 6,0% setelah perang Iran dimulai.",
-        "body": "Departemen Tenaga Kerja AS pada tanggal 13 menyatakan indeks harga produsen (PPI), yaitu harga grosir pada tahap akhir sebelum sampai ke konsumen, naik 1,4% pada April dibanding bulan sebelumnya. Ini merupakan kenaikan bulanan terbesar sejak lonjakan 1,7% pada Maret 2022, saat ekonomi pulih setelah pelemahan akibat COVID-19. Pada Maret, ketika perang Iran dimulai, PPI naik 0,7%, sedangkan pada Februari sebelum perang naik 0,6%. Inflasi PPI tahunan, dibanding April 2025, melebar menjadi 6,0%, tertinggi sejak 6,4% pada Desember 2022. Angka tahunan Maret sebesar 4,3% dan Februari 3,4%. Harga konsumen April yang dirilis sehari sebelumnya juga naik 0,6% secara bulanan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "95d6cf0ba744",
-    "slug": "본사-사업매각-저지-자회사서-파업현대모비스-노봉법-몸살-351402",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T14:04:04.667Z",
-    "updatedAt": "2026-05-13T14:04:04.667Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133914688/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133914688/1",
-    "titleFingerprint": "671fdae3593aca7cdc7a163c55430136d55ce552",
-    "dedupKeys": [
-      "95d6cf0ba7443460e31afbfee23d6082408e8802",
-      "671fdae3593aca7cdc7a163c55430136d55ce552",
-      "91a9562ccad1290339d5da991ce48f6033555222"
-    ],
-    "imageUrl": "/images/articles/95d6cf0ba744.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대모비스 램프사업 매각 갈등 확산…현대IHL 노조 전면파업",
-        "excerpt": "현대모비스 자회사 현대IHL 노조 조합원 700여 명은 13일 서울 본사 앞에서 램프사업부 매각 저지를 요구하며 결의대회를 열고 원청 교섭을 촉구했다.",
-        "body": "현대모비스의 램프사업부 매각 결정에 자회사 노조가 반발하며 갈등이 커지고 있다. 현대IHL 노동조합 조합원 700여 명은 13일 오후 2시 서울 강남구 테헤란로 현대모비스 사옥 앞에서 램프사업부 매각 저지를 위한 결의대회를 열었다. 현대모비스는 올해 1월 램프사업부를 글로벌 자동차 부품기업 OP모빌리티에 매각하기로 결정했다. 이에 현대IHL 노조는 받아들일 수 없다며 지난달 27일부터 전면 파업을 이어가고 있다. 노조는 전국민주노동조합총연맹 금속노조와 함께 원청인 현대모비스가 책임지고 교섭에 나서야 한다고 요구했다. 다음 달부터는 또 다른 자회사 모트라스도 파업에 동참하기로 했다. 시장에서는 노란봉투법 논의 당시 제기된 우려가 드러난 사례로 보고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hyundai Mobis Lamp Unit Sale Dispute Widens as Hyundai IHL Strikes",
-        "excerpt": "About 700 Hyundai IHL union members rallied outside Hyundai Mobis headquarters in Seoul on the 13th, opposing the lamp business sale and demanding talks with the parent company.",
-        "body": "A labor dispute is intensifying after Hyundai Mobis decided to sell its lamp business. About 700 members of the Hyundai IHL labor union, a Hyundai Mobis subsidiary, held a rally at 2 p.m. on the 13th in front of the Hyundai Mobis office on Teheran-ro in Gangnam, Seoul, to block the sale. Hyundai Mobis decided in January this year to sell the lamp division to global auto parts company OPmobility. Hyundai IHL’s union rejected the plan and has been on a full strike since the 27th of last month. Together with the Korean Metal Workers’ Union under the Korean Confederation of Trade Unions, it is demanding that Hyundai Mobis, as the original contractor, take responsibility and join negotiations. Another subsidiary, Motras, plans to join the strike next month. Market observers see the case as reflecting concerns raised during debate over the so-called Yellow Envelope Act. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "現代モービスのランプ事業売却に反発拡大、現代IHL労組が全面スト",
-        "excerpt": "現代モービス子会社の現代IHL労組約700人は13日、ソウル本社前でランプ事業売却阻止を求める決起大会を開き、元請けとの交渉を要求した。",
-        "body": "現代モービスのランプ事業売却決定に子会社労組が反発し、対立が深まっている。現代モービス子会社である現代IHL労働組合の組合員約700人は13日午後2時、ソウル市江南区テヘラン路の現代モービス社屋前で、ランプ事業部売却阻止に向けた決起大会を開いた。現代モービスは今年1月、ランプ事業部を世界的自動車部品企業OPモビリティに売却することを決めた。これに対し現代IHL労組は受け入れられないとして、先月27日から全面ストを続けている。労組は全国民主労働組合総連盟金属労組とともに、元請け企業である現代モービスが責任を持って交渉に応じるよう求めている。来月からは別の子会社モトラスもストに参加する予定だ。市場では、黄色い封筒法の議論時に示された懸念が表れた事例と見られている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "现代摩比斯车灯业务出售争议扩大，现代IHL工会全面罢工",
-        "excerpt": "现代摩比斯子公司现代IHL工会约700名成员13日在首尔总部前举行大会，要求阻止车灯业务出售，并敦促母公司参与谈判。",
-        "body": "现代摩比斯决定出售车灯业务后，子公司工会反对声浪升高，矛盾正在扩大。现代摩比斯子公司现代IHL工会约700名成员于13日下午2点，在首尔江南区德黑兰路现代摩比斯办公楼前举行决议大会，要求阻止车灯事业部出售。现代摩比斯今年1月决定将车灯事业部出售给全球汽车零部件企业OPmobility。现代IHL工会表示无法接受，并自上月27日起进行全面罢工。工会与上级组织全国民主劳动组合总联盟金属工会共同要求，作为原承包企业的现代摩比斯应对局势负责并参与谈判。另一家子公司Motras也决定从下月起加入罢工。市场认为，这是此前围绕“黄色信封法”讨论时所担忧副作用的一个案例。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Crece conflicto por venta de lámparas de Hyundai Mobis: Hyundai IHL en huelga",
-        "excerpt": "Unos 700 sindicalistas de Hyundai IHL se manifestaron el día 13 frente a la sede de Hyundai Mobis en Seúl para frenar la venta del negocio de lámparas y exigir negociación directa.",
-        "body": "El conflicto laboral se intensifica tras la decisión de Hyundai Mobis de vender su negocio de lámparas. Unos 700 miembros del sindicato de Hyundai IHL, filial de Hyundai Mobis, realizaron el día 13 a las 2 p.m. una concentración frente al edificio de Hyundai Mobis en Teheran-ro, Gangnam, Seúl, para oponerse a la venta de la división. Hyundai Mobis decidió en enero de este año vender el negocio de lámparas a la empresa global de autopartes OPmobility. El sindicato de Hyundai IHL rechazó la decisión y mantiene una huelga total desde el 27 del mes pasado. Junto con el sindicato metalúrgico de la Confederación Coreana de Sindicatos, exige que Hyundai Mobis, como empresa principal, asuma responsabilidad y participe en las negociaciones. Otra filial, Motras, también se sumará a la huelga el próximo mes. En el mercado se interpreta como un caso que refleja preocupaciones planteadas durante el debate sobre la llamada Ley del Sobre Amarillo. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Venda da unidade de lâmpadas da Hyundai Mobis amplia conflito; Hyundai IHL faz greve",
-        "excerpt": "Cerca de 700 sindicalistas da Hyundai IHL fizeram ato no dia 13 diante da sede da Hyundai Mobis em Seul contra a venda do negócio de lâmpadas e pediram negociação com a controladora.",
-        "body": "O conflito trabalhista cresce após a decisão da Hyundai Mobis de vender sua divisão de lâmpadas. Cerca de 700 membros do sindicato da Hyundai IHL, subsidiária da Hyundai Mobis, realizaram no dia 13, às 14h, um ato em frente ao prédio da Hyundai Mobis na Teheran-ro, em Gangnam, Seul, para barrar a venda da unidade. A Hyundai Mobis decidiu em janeiro deste ano vender a divisão de lâmpadas para a empresa global de autopeças OPmobility. O sindicato da Hyundai IHL disse que não poderia aceitar a decisão e está em greve total desde o dia 27 do mês passado. Com o sindicato metalúrgico da Confederação Coreana de Sindicatos, exige que a Hyundai Mobis, como contratante principal, assuma responsabilidade e negocie. Outra subsidiária, a Motras, também deve aderir à greve no próximo mês. O mercado vê o caso como exemplo das preocupações levantadas no debate sobre a chamada Lei do Envelope Amarelo. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hyundai-Mobis-Verkauf der Lampensparte eskaliert: Hyundai IHL streikt",
-        "excerpt": "Rund 700 Gewerkschafter von Hyundai IHL demonstrierten am 13. vor der Hyundai-Mobis-Zentrale in Seoul gegen den Verkauf der Lampensparte und forderten Verhandlungen mit dem Mutterkonzern.",
-        "body": "Der Arbeitskonflikt um den Verkauf der Lampensparte von Hyundai Mobis verschärft sich. Rund 700 Mitglieder der Gewerkschaft von Hyundai IHL, einer Tochter von Hyundai Mobis, hielten am 13. um 14 Uhr vor dem Hyundai-Mobis-Gebäude an der Teheran-ro in Gangnam, Seoul, eine Kundgebung gegen den Verkauf ab. Hyundai Mobis hatte im Januar dieses Jahres beschlossen, die Lampensparte an den globalen Autozulieferer OPmobility zu verkaufen. Die Gewerkschaft von Hyundai IHL lehnt dies ab und befindet sich seit dem 27. des vergangenen Monats im Vollstreik. Gemeinsam mit der Metallgewerkschaft des Koreanischen Gewerkschaftsbunds KCTU fordert sie, dass Hyundai Mobis als Auftraggeber Verantwortung übernimmt und verhandelt. Ab dem kommenden Monat will auch die weitere Tochter Motras am Streik teilnehmen. Marktbeobachter sehen darin ein Beispiel für Bedenken, die während der Debatte über das sogenannte Yellow Envelope Act geäußert wurden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Hyundai Mobis: la vente des lampes contestée, Hyundai IHL en grève totale",
-        "excerpt": "Environ 700 syndiqués de Hyundai IHL ont manifesté le 13 devant le siège de Hyundai Mobis à Séoul contre la vente de l’activité lampes et ont réclamé des négociations avec la maison mère.",
-        "body": "Le conflit social s’intensifie après la décision de Hyundai Mobis de vendre son activité de lampes. Environ 700 membres du syndicat de Hyundai IHL, filiale de Hyundai Mobis, ont tenu le 13 à 14h un rassemblement devant l’immeuble de Hyundai Mobis sur Teheran-ro, à Gangnam, Séoul, pour s’opposer à la vente de la division. Hyundai Mobis a décidé en janvier de céder cette activité au groupe mondial de pièces automobiles OPmobility. Le syndicat de Hyundai IHL dit ne pas pouvoir l’accepter et mène une grève totale depuis le 27 du mois dernier. Avec le syndicat de la métallurgie affilié à la Confédération coréenne des syndicats, il demande à Hyundai Mobis, en tant que donneur d’ordre, d’assumer ses responsabilités et de négocier. Une autre filiale, Motras, doit rejoindre la grève le mois prochain. Le marché y voit un cas illustrant les inquiétudes soulevées lors du débat sur la loi dite de l’enveloppe jaune. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اتساع نزاع بيع وحدة المصابيح في هيونداي موبيس مع إضراب هيونداي IHL",
-        "excerpt": "نظم نحو 700 عضو من نقابة هيونداي IHL في 13 الشهر تجمعا أمام مقر هيونداي موبيس في سول لرفض بيع نشاط المصابيح والمطالبة بتفاوض الشركة الأم.",
-        "body": "يتصاعد الخلاف العمالي بعد قرار هيونداي موبيس بيع نشاط المصابيح. فقد نظم نحو 700 عضو من نقابة هيونداي IHL، وهي شركة تابعة لهيونداي موبيس، تجمعا في الساعة الثانية بعد ظهر يوم 13 أمام مبنى هيونداي موبيس في شارع تِهران بمنطقة غانغنام في سول، للمطالبة بوقف بيع قسم المصابيح. وكانت هيونداي موبيس قد قررت في يناير من هذا العام بيع القسم إلى شركة قطع السيارات العالمية OPmobility. ورفضت نقابة هيونداي IHL القرار، وبدأت إضرابا شاملا منذ يوم 27 من الشهر الماضي. وتطالب النقابة، مع نقابة عمال المعادن التابعة للاتحاد الكوري الديمقراطي للنقابات، بأن تتحمل هيونداي موبيس بصفتها الشركة الأصلية المسؤولية وتدخل في المفاوضات. ومن المقرر أن تنضم شركة تابعة أخرى، موتراس، إلى الإضراب الشهر المقبل. ويرى السوق أن الحالة تعكس المخاوف التي أثيرت خلال مناقشة ما يسمى قانون الظرف الأصفر. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Hyundai Mobis के लैंप कारोबार बिक्री विवाद में Hyundai IHL की पूर्ण हड़ताल",
-        "excerpt": "Hyundai IHL यूनियन के करीब 700 सदस्यों ने 13 तारीख को सियोल में Hyundai Mobis मुख्यालय के सामने लैंप कारोबार की बिक्री रोकने और मूल कंपनी से बातचीत की मांग की।",
-        "body": "Hyundai Mobis के लैंप कारोबार को बेचने के फैसले के बाद उसकी सहायक कंपनी की यूनियन के विरोध से विवाद बढ़ रहा है। Hyundai Mobis की सहायक Hyundai IHL की श्रमिक यूनियन के करीब 700 सदस्यों ने 13 तारीख को दोपहर 2 बजे सियोल के गंगनम-gu, तेहरान-ro स्थित Hyundai Mobis कार्यालय के सामने लैंप डिवीजन की बिक्री रोकने के लिए रैली की। Hyundai Mobis ने इस साल जनवरी में लैंप डिवीजन को वैश्विक ऑटो पार्ट्स कंपनी OPmobility को बेचने का निर्णय लिया था। Hyundai IHL यूनियन ने इसे अस्वीकार्य बताया और पिछले महीने की 27 तारीख से पूर्ण हड़ताल कर रही है। यूनियन, Korean Confederation of Trade Unions की Metal Workers’ Union के साथ, मांग कर रही है कि मूल ठेकेदार Hyundai Mobis जिम्मेदारी ले और बातचीत करे। एक और सहायक कंपनी Motras अगले महीने से हड़ताल में शामिल होने वाली है। बाजार इसे Yellow Envelope Act पर चर्चा के समय उठी चिंताओं को दिखाने वाला मामला मान रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Konflik Penjualan Bisnis Lampu Hyundai Mobis Meluas, Hyundai IHL Mogok Total",
-        "excerpt": "Sekitar 700 anggota serikat Hyundai IHL berunjuk rasa pada tanggal 13 di depan kantor Hyundai Mobis di Seoul untuk menolak penjualan bisnis lampu dan menuntut perundingan dengan perusahaan induk.",
-        "body": "Konflik meningkat setelah Hyundai Mobis memutuskan menjual bisnis lampunya. Sekitar 700 anggota serikat pekerja Hyundai IHL, anak usaha Hyundai Mobis, menggelar aksi pada tanggal 13 pukul 14.00 di depan gedung Hyundai Mobis di Teheran-ro, Gangnam, Seoul, untuk menolak penjualan divisi lampu. Hyundai Mobis pada Januari tahun ini memutuskan menjual divisi tersebut kepada perusahaan suku cadang otomotif global OPmobility. Serikat Hyundai IHL menyatakan tidak dapat menerima keputusan itu dan telah melakukan mogok total sejak tanggal 27 bulan lalu. Bersama Serikat Pekerja Logam di bawah Konfederasi Serikat Buruh Demokratik Korea, mereka menuntut Hyundai Mobis sebagai perusahaan utama bertanggung jawab dan ikut berunding. Anak usaha lain, Motras, juga akan bergabung dalam mogok mulai bulan depan. Pasar menilai kasus ini menunjukkan kekhawatiran yang muncul saat pembahasan Yellow Envelope Act. Sumber: rss.donga.com"
       }
     }
   }
