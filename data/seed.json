@@ -1,5 +1,230 @@
 [
   {
+    "id": "c87ce8a4d6c5",
+    "slug": "서울-전세가격-상승폭-10년6개월-만에-최대-384400",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:48:05.234Z",
+    "updatedAt": "2026-05-14T13:48:05.234Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051470971",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051470971",
+    "titleFingerprint": "9ea28861d043a0afadbda2438706010696d74de5",
+    "dedupKeys": [
+      "c87ce8a4d6c5a49cf113401ac8b50a95af156b10",
+      "9ea28861d043a0afadbda2438706010696d74de5",
+      "81c91a7f1b2f5b8cbd76249acc11cbf690ce19db"
+    ],
+    "imageUrl": "/images/articles/c87ce8a4d6c5.png",
+    "i18n": {
+      "ko": {
+        "title": "서울 전세가격 상승폭, 10년6개월 만에 최대 기록",
+        "excerpt": "서울 전세가격 상승폭이 10년6개월 만에 최대 수준을 기록했다고 hankyung.com이 보도했다. 전세시장 가격 흐름에 관심이 커지고 있다.",
+        "body": "서울 전세가격 상승폭이 10년6개월 만에 최대 수준을 기록했다. hankyung.com 보도에 따르면 서울 전세시장에서 가격 상승세가 확대되며 장기간 보기 어려웠던 상승폭이 나타났다. 이번 보도는 서울 임대차 시장에서 전세가격 움직임이 다시 주요 변수로 부각되고 있음을 보여준다. 관련 수치로는 상승폭이 10년6개월 만에 가장 컸다는 점이 핵심이다. 전세 수요자와 임대인 모두 향후 가격 흐름을 주시할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Seoul Jeonse Price Gains Hit Largest Rise in 10 Years and 6 Months",
+        "excerpt": "Seoul’s jeonse price increase reached its largest level in 10 years and 6 months, hankyung.com reported, drawing attention to rental market trends.",
+        "body": "Seoul’s jeonse price increase has reached its largest level in 10 years and 6 months. According to hankyung.com, price gains in Seoul’s jeonse market widened, marking a rise rarely seen over the past decade. The report highlights that movements in Seoul’s rental housing market are again becoming a key issue. The central figure is that the scale of the increase was the biggest in 10 years and 6 months. Both tenants and landlords are likely to watch future price trends closely. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ソウルのチョンセ価格上昇幅、10年6カ月ぶり最大に",
+        "excerpt": "ソウルのチョンセ価格の上昇幅が10年6カ月ぶりの最大水準となったとhankyung.comが報じ、賃貸市場の動向に関心が集まっている。",
+        "body": "ソウルのチョンセ価格の上昇幅が10年6カ月ぶりの最大水準を記録した。hankyung.comの報道によると、ソウルのチョンセ市場で価格上昇の勢いが拡大し、長期間見られなかった上昇幅が確認された。今回の報道は、ソウルの賃貸住宅市場におけるチョンセ価格の動きが再び重要な変数として浮上していることを示している。関連する数値では、上昇幅が10年6カ月ぶりに最も大きかった点が核心だ。借り手と貸し手の双方が今後の価格動向を注視する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "首尔全租价格涨幅创10年6个月以来最大纪录",
+        "excerpt": "据hankyung.com报道，首尔全租价格涨幅达到10年6个月以来最大水平，市场对租赁价格走势的关注正在升温。",
+        "body": "首尔全租价格涨幅达到10年6个月以来的最大水平。据hankyung.com报道，首尔全租市场价格上涨势头扩大，出现了多年少见的涨幅。该报道显示，首尔租赁住房市场中的全租价格变化正再次成为重要变量。相关数据的核心在于，此次涨幅为10年6个月以来最大。对全租需求者和房东而言，今后的价格走势都值得密切关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El alza del jeonse en Seúl marca su mayor subida en 10 años y 6 meses",
+        "excerpt": "El aumento del precio del jeonse en Seúl alcanzó su mayor nivel en 10 años y 6 meses, informó hankyung.com, elevando la atención sobre el mercado de alquiler.",
+        "body": "El aumento del precio del jeonse en Seúl alcanzó su mayor nivel en 10 años y 6 meses. Según hankyung.com, la tendencia alcista en el mercado de jeonse de Seúl se amplió y mostró una magnitud poco vista durante un largo periodo. El informe indica que los movimientos de precios en el mercado de alquiler residencial de Seúl vuelven a surgir como una variable importante. El dato central es que el alza fue la mayor en 10 años y 6 meses. Tanto inquilinos como arrendadores deberán seguir de cerca la evolución de los precios. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alta do jeonse em Seul é a maior em 10 anos e 6 meses",
+        "excerpt": "A alta dos preços de jeonse em Seul atingiu o maior nível em 10 anos e 6 meses, informou o hankyung.com, aumentando a atenção sobre o mercado de aluguel.",
+        "body": "A alta dos preços de jeonse em Seul atingiu o maior nível em 10 anos e 6 meses. Segundo o hankyung.com, os ganhos no mercado de jeonse da capital sul-coreana se ampliaram, mostrando uma variação rara em um período prolongado. A notícia indica que o movimento dos preços de aluguel em Seul voltou a se destacar como uma variável importante. O principal dado é que a magnitude da alta foi a maior em 10 anos e 6 meses. Inquilinos e proprietários devem acompanhar de perto a trajetória futura dos preços. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Seouls Jeonse-Preisanstieg erreicht höchsten Wert seit 10 Jahren und 6 Monaten",
+        "excerpt": "Der Anstieg der Jeonse-Preise in Seoul erreichte laut hankyung.com den höchsten Stand seit 10 Jahren und 6 Monaten und lenkt den Blick auf den Mietmarkt.",
+        "body": "Der Anstieg der Jeonse-Preise in Seoul hat den höchsten Stand seit 10 Jahren und 6 Monaten erreicht. Laut hankyung.com weitete sich der Preisauftrieb auf dem Jeonse-Markt in Seoul aus und erreichte ein Ausmaß, das über einen langen Zeitraum kaum zu beobachten war. Der Bericht zeigt, dass die Preisentwicklung im Mietwohnungsmarkt von Seoul wieder zu einem wichtigen Faktor wird. Die zentrale Kennzahl ist, dass der Anstieg der größte seit 10 Jahren und 6 Monaten war. Mieter und Vermieter dürften die weitere Preisentwicklung aufmerksam verfolgen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "La hausse du jeonse à Séoul atteint un sommet inédit depuis 10 ans et 6 mois",
+        "excerpt": "La hausse des prix du jeonse à Séoul a atteint son plus haut niveau en 10 ans et 6 mois, selon hankyung.com, attirant l’attention sur le marché locatif.",
+        "body": "La hausse des prix du jeonse à Séoul a atteint son plus haut niveau en 10 ans et 6 mois. Selon hankyung.com, la progression des prix sur le marché du jeonse à Séoul s’est élargie, affichant une ampleur rarement observée sur une longue période. Ce reportage montre que l’évolution des prix dans le marché locatif résidentiel de Séoul redevient une variable importante. Le chiffre clé est que l’ampleur de la hausse est la plus forte depuis 10 ans et 6 mois. Locataires et propriétaires devront suivre de près la tendance future des prix. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ارتفاع أسعار الجونسي في سيول يسجل أكبر زيادة منذ 10 سنوات و6 أشهر",
+        "excerpt": "سجلت أسعار الجونسي في سيول أكبر وتيرة ارتفاع منذ 10 سنوات و6 أشهر، بحسب hankyung.com، ما زاد الاهتمام باتجاهات سوق الإيجار.",
+        "body": "سجلت أسعار الجونسي في سيول أكبر وتيرة ارتفاع منذ 10 سنوات و6 أشهر. ووفقاً لما أورده hankyung.com، اتسع صعود الأسعار في سوق الجونسي في سيول، ليظهر مستوى زيادة نادراً خلال فترة طويلة. ويشير التقرير إلى أن حركة أسعار الإيجار السكني في سيول عادت لتبرز كعامل مهم في السوق. الرقم الأساسي هو أن حجم الزيادة كان الأكبر منذ 10 سنوات و6 أشهر. ومن المتوقع أن يراقب المستأجرون وأصحاب العقارات اتجاه الأسعار المقبلة عن كثب. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सियोल में जोंसे कीमतों की बढ़त 10 साल 6 महीने में सबसे अधिक",
+        "excerpt": "hankyung.com के अनुसार सियोल में जोंसे कीमतों की बढ़त 10 साल 6 महीने में सबसे ऊंचे स्तर पर पहुंची, जिससे किराया बाजार पर ध्यान बढ़ा है।",
+        "body": "सियोल में जोंसे कीमतों की बढ़त 10 साल 6 महीने में सबसे अधिक स्तर पर पहुंच गई। hankyung.com की रिपोर्ट के अनुसार, सियोल के जोंसे बाजार में कीमतों की तेजी बढ़ी और लंबे समय में कम देखी गई बढ़त दर्ज हुई। यह रिपोर्ट दिखाती है कि सियोल के आवासीय किराया बाजार में जोंसे कीमतों की चाल फिर से एक अहम कारक बन रही है। मुख्य आंकड़ा यह है कि बढ़त का दायरा 10 साल 6 महीने में सबसे बड़ा रहा। किरायेदारों और मकान मालिकों दोनों को आगे की कीमतों के रुझान पर नजर रखनी होगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kenaikan Harga Jeonse Seoul Terbesar dalam 10 Tahun 6 Bulan",
+        "excerpt": "Kenaikan harga jeonse di Seoul mencapai level terbesar dalam 10 tahun 6 bulan, menurut hankyung.com, sehingga sorotan pada pasar sewa kembali meningkat.",
+        "body": "Kenaikan harga jeonse di Seoul mencapai level terbesar dalam 10 tahun 6 bulan. Menurut laporan hankyung.com, tren kenaikan harga di pasar jeonse Seoul melebar dan menunjukkan kenaikan yang jarang terlihat dalam periode panjang. Laporan ini menunjukkan bahwa pergerakan harga sewa hunian di Seoul kembali menjadi variabel penting. Angka utama yang disorot adalah besarnya kenaikan yang menjadi yang terbesar dalam 10 tahun 6 bulan. Penyewa dan pemilik rumah perlu mencermati arah harga berikutnya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "511e38f03408",
+    "slug": "노량진-아크로스카이-분양가-27억-258950",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:47:11.420Z",
+    "updatedAt": "2026-05-14T13:47:11.420Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051470881",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051470881",
+    "titleFingerprint": "3961c831fcc223cc10fa8f9fcd0ac9acc6868bca",
+    "dedupKeys": [
+      "511e38f034081a3c4460c2e382336526cd4facb5",
+      "3961c831fcc223cc10fa8f9fcd0ac9acc6868bca",
+      "06262cd80f0cb50ed4fb6de2322ccd3aabb54576"
+    ],
+    "imageUrl": "/images/articles/511e38f03408.png",
+    "i18n": {
+      "ko": {
+        "title": "노량진 아크로 리버스카이 84㎡ 최고 27억9580만원, 27일 1순위 청약",
+        "excerpt": "서울 동작구 노량진뉴타운 8구역 재개발 단지 아크로 리버스카이가 14일 모집공고에서 전용 84㎡ 최고 27억9580만원 분양가와 청약 일정을 공개했다.",
+        "body": "서울 동작구 노량진뉴타운 8구역을 재개발해 공급하는 ‘아크로 리버스카이’가 이달 분양에 나선다. 14일 한국부동산원 청약홈 모집공고에 따르면 전용면적 84㎡ 분양가는 24억9920만~27억9580만원으로 책정됐고, 3.3㎡당 분양가는 7733만원이다. 단지는 대방동 23의 61 일대에 지하 4층~지상 29층, 10개 동, 총 987가구 규모로 조성되며 이 중 285가구가 일반분양된다. 특별공급은 26일, 1순위 청약은 27일, 2순위 청약은 29일이며 당첨자 발표는 6월 5일이다. 지난달 노량진뉴타운 첫 분양 단지 ‘라클라체자이드파인’보다 전용 84㎡ 기준 약 2억원 높다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Noryangjin Acro River Sky 84㎡ Tops 2.7958 Billion Won, First-Rank Bids May 27",
+        "excerpt": "Acro River Sky in Seoul’s Noryangjin New Town District 8 disclosed on May 14 its 84㎡ top sale price of 2.7958 billion won and subscription schedule.",
+        "body": "Acro River Sky, supplied through the redevelopment of Noryangjin New Town District 8 in Dongjak-gu, Seoul, will go on sale this month. According to the Korea Real Estate Board’s Cheongyak Home notice on May 14, prices for 84㎡ units were set at 2.4992 billion to 2.7958 billion won, or 77.33 million won per 3.3㎡. The complex will be built around 23-61 Daebang-dong with four basement levels, 29 floors above ground, 10 buildings and 987 homes, of which 285 will be offered to the public. Special supply begins May 26, first-rank subscriptions on May 27, second-rank on May 29, and winners will be announced June 5. The 84㎡ price is about 200 million won higher than Laclarche Xi The Fine, Noryangjin New Town’s first sale last month. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "鷺梁津アクロ・リバースカイ84㎡最高27億9580万ウォン、27日に1順位申込",
+        "excerpt": "ソウル銅雀区・鷺梁津ニュータウン8区域再開発のアクロ・リバースカイが14日、84㎡最高27億9580万ウォンの分譲価格と申込日程を公表した。",
+        "body": "ソウル銅雀区の鷺梁津ニュータウン8区域を再開発して供給される「アクロ・リバースカイ」が今月分譲に入る。14日の韓国不動産院「チョンヤクホーム」募集公告によると、専用84㎡の分譲価格は24億9920万～27億9580万ウォンに設定され、3.3㎡当たりの価格は7733万ウォン。団地は大方洞23の61一帯に地下4階～地上29階、10棟、計987戸規模で造成され、このうち285戸が一般分譲される。特別供給は26日、1順位申込は27日、2順位申込は29日で、当選者発表は6月5日。先月の鷺梁津ニュータウン初分譲団地「ラ・クラルチェ・ザイ・ザ・ファイン」より専用84㎡基準で約2億ウォン高い。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "鹭梁津Acro River Sky 84㎡最高27.958亿韩元，27日一顺位认购",
+        "excerpt": "首尔铜雀区鹭梁津新城8区重建项目Acro River Sky于14日公告，84㎡最高分售价为27.958亿韩元，并公布认购日程。",
+        "body": "位于首尔铜雀区鹭梁津新城8区重建项目的“Acro River Sky”将于本月启动分售。根据韩国房地产院“认购Home”14日发布的募集公告，专用面积84㎡的分售价定为24.992亿至27.958亿韩元，折合每3.3㎡为7733万韩元。该小区位于大方洞23-61一带，将建设为地下4层至地上29层、10栋、共987户，其中285户面向普通分售。特别供应为26日，一顺位认购为27日，二顺位认购为29日，中签者将于6月5日公布。与上月鹭梁津新城首个分售项目“Laclarche Xi The Fine”相比，84㎡价格约高2亿韩元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acro River Sky en Noryangjin: 84㎡ hasta 2.795,8 millones de wones y preventa el día 27",
+        "excerpt": "Acro River Sky, en la zona 8 de Noryangjin New Town en Seúl, publicó el 14 de mayo su precio máximo de 2.795,8 millones de wones para 84㎡ y el calendario de solicitudes.",
+        "body": "Acro River Sky, promovido mediante la reurbanización de la zona 8 de Noryangjin New Town en Dongjak-gu, Seúl, saldrá a la venta este mes. Según el aviso de Cheongyak Home de la Korea Real Estate Board del 14 de mayo, las viviendas de 84㎡ se fijaron entre 2.499,2 millones y 2.795,8 millones de wones, con 77,33 millones de wones por cada 3,3㎡. El complejo se levantará en el área de 23-61 Daebang-dong, con 4 plantas bajo rasante, hasta 29 sobre rasante, 10 edificios y 987 viviendas; 285 serán de venta general. La oferta especial será el 26, la primera prioridad el 27, la segunda el 29 y los adjudicatarios se anunciarán el 5 de junio. Es unos 200 millones de wones más alto que Laclarche Xi The Fine para 84㎡. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Acro River Sky em Noryangjin: 84㎡ chega a 2,7958 bi de won e 1ª prioridade no dia 27",
+        "excerpt": "O Acro River Sky, na zona 8 de Noryangjin New Town em Seul, divulgou em 14 de maio preço máximo de 2,7958 bilhões de won para 84㎡ e calendário de inscrições.",
+        "body": "O Acro River Sky, fornecido pela reurbanização da zona 8 de Noryangjin New Town, em Dongjak-gu, Seul, será lançado este mês. Segundo o edital do Cheongyak Home da Korea Real Estate Board em 14 de maio, as unidades de 84㎡ foram precificadas entre 2,4992 bilhões e 2,7958 bilhões de won, ou 77,33 milhões de won por 3,3㎡. O complexo será construído na área de 23-61 Daebang-dong, com 4 subsolos, até 29 andares, 10 blocos e 987 unidades, das quais 285 serão vendidas ao público. A oferta especial começa no dia 26, a primeira prioridade no dia 27, a segunda no dia 29, e o resultado sai em 5 de junho. O preço de 84㎡ é cerca de 200 milhões de won acima do Laclarche Xi The Fine. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Noryangjin Acro River Sky: 84㎡ bis 2,7958 Mrd. Won, erste Zeichnung am 27. Mai",
+        "excerpt": "Acro River Sky im Sanierungsgebiet 8 von Noryangjin New Town in Seoul gab am 14. Mai den Höchstpreis von 2,7958 Mrd. Won für 84㎡ und den Zeichnungsplan bekannt.",
+        "body": "Acro River Sky, das durch die Sanierung des Gebiets 8 von Noryangjin New Town in Dongjak-gu, Seoul, entsteht, kommt diesen Monat in den Verkauf. Laut Bekanntmachung von Cheongyak Home der Korea Real Estate Board vom 14. Mai liegen die Preise für 84㎡-Einheiten bei 2,4992 bis 2,7958 Mrd. Won; je 3,3㎡ sind es 77,33 Mio. Won. Die Anlage entsteht rund um 23-61 Daebang-dong mit 4 Untergeschossen, bis zu 29 oberirdischen Etagen, 10 Gebäuden und 987 Wohnungen, davon 285 im allgemeinen Verkauf. Sonderkontingente starten am 26. Mai, die erste Priorität am 27., die zweite am 29.; die Gewinner werden am 5. Juni bekannt gegeben. Gegenüber Laclarche Xi The Fine liegt 84㎡ rund 200 Mio. Won höher. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Acro River Sky à Noryangjin: 84㎡ jusqu’à 2,7958 Mds de wons, priorité le 27 mai",
+        "excerpt": "Acro River Sky, dans le secteur 8 de Noryangjin New Town à Séoul, a annoncé le 14 mai un prix maximal de 2,7958 milliards de wons pour 84㎡ et son calendrier de souscription.",
+        "body": "Acro River Sky, issu du réaménagement du secteur 8 de Noryangjin New Town à Dongjak-gu, Séoul, sera commercialisé ce mois-ci. Selon l’avis de Cheongyak Home de la Korea Real Estate Board publié le 14 mai, les logements de 84㎡ sont fixés entre 2,4992 et 2,7958 milliards de wons, soit 77,33 millions de wons par 3,3㎡. Le complexe sera construit autour du 23-61 Daebang-dong, avec 4 sous-sols, jusqu’à 29 étages, 10 bâtiments et 987 logements, dont 285 en vente générale. L’offre spéciale aura lieu le 26 mai, la souscription de première priorité le 27, celle de deuxième priorité le 29, et les lauréats seront annoncés le 5 juin. Le 84㎡ est environ 200 millions de wons au-dessus de Laclarche Xi The Fine. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أكرو ريفر سكاي في نوريانغجين: 84㎡ حتى 2.7958 مليار وون والاشتراك الأول في 27 مايو",
+        "excerpt": "أعلن مشروع أكرو ريفر سكاي في منطقة إعادة تطوير نوريانغجين نيو تاون 8 في سيول يوم 14 مايو سعر 84㎡ الأقصى البالغ 2.7958 مليار وون وجدول الاكتتاب.",
+        "body": "يبدأ مشروع «أكرو ريفر سكاي»، المورّد عبر إعادة تطوير منطقة نوريانغجين نيو تاون 8 في دونغجاك-غو بسيول، البيع هذا الشهر. ووفق إعلان Cheongyak Home التابع لمجلس العقارات الكوري في 14 مايو، حُدد سعر وحدات 84㎡ بين 2.4992 مليار و2.7958 مليار وون، أي 77.33 مليون وون لكل 3.3㎡. سيقام المجمع في محيط 23-61 دايبانغ-دونغ، من 4 طوابق تحت الأرض إلى 29 طابقاً فوقها، مع 10 مبان و987 وحدة، منها 285 للبيع العام. يبدأ التخصيص الخاص في 26 مايو، واكتتاب الأولوية الأولى في 27، والثانية في 29، ويُعلن الفائزون في 5 يونيو. السعر أعلى بنحو 200 مليون وون من Laclarche Xi The Fine لوحدات 84㎡. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "नोर्यांगजिन Acro River Sky: 84㎡ की कीमत 2.7958 अरब वॉन तक, 27 मई को पहली प्राथमिकता",
+        "excerpt": "सियोल के नोर्यांगजिन न्यू टाउन क्षेत्र 8 के Acro River Sky ने 14 मई को 84㎡ के लिए अधिकतम 2.7958 अरब वॉन कीमत और आवेदन कार्यक्रम घोषित किया।",
+        "body": "सियोल के डोंगजाक-गु में नोर्यांगजिन न्यू टाउन क्षेत्र 8 के पुनर्विकास से बनने वाला ‘Acro River Sky’ इस महीने बिक्री में आएगा। Korea Real Estate Board के Cheongyak Home पर 14 मई को जारी सूचना के अनुसार, 84㎡ इकाइयों की कीमत 2.4992 अरब से 2.7958 अरब वॉन रखी गई है, यानी प्रति 3.3㎡ 77.33 मिलियन वॉन। यह परिसर Daebang-dong 23-61 क्षेत्र में 4 भूमिगत मंजिलों से 29 ऊपरी मंजिलों तक, 10 इमारतों और कुल 987 घरों के रूप में बनेगा; इनमें 285 सामान्य बिक्री के लिए हैं। विशेष आपूर्ति 26 मई, पहली प्राथमिकता 27 मई, दूसरी प्राथमिकता 29 मई और विजेताओं की घोषणा 5 जून को होगी। 84㎡ के आधार पर यह पिछले महीने के Laclarche Xi The Fine से करीब 200 मिलियन वॉन अधिक है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Acro River Sky Noryangjin: 84㎡ Tertinggi 2,7958 Miliar Won, Prioritas Pertama 27 Mei",
+        "excerpt": "Acro River Sky di zona 8 Noryangjin New Town, Seoul, pada 14 Mei mengumumkan harga tertinggi 2,7958 miliar won untuk 84㎡ serta jadwal pendaftaran.",
+        "body": "Acro River Sky, yang dipasok melalui pembangunan kembali zona 8 Noryangjin New Town di Dongjak-gu, Seoul, akan dipasarkan bulan ini. Menurut pengumuman Cheongyak Home dari Korea Real Estate Board pada 14 Mei, harga unit 84㎡ ditetapkan 2,4992 miliar hingga 2,7958 miliar won, atau 77,33 juta won per 3,3㎡. Kompleks ini dibangun di area 23-61 Daebang-dong dengan 4 lantai bawah tanah hingga 29 lantai, 10 gedung, dan total 987 unit; 285 unit akan dijual umum. Penawaran khusus dimulai 26 Mei, pendaftaran prioritas pertama 27 Mei, prioritas kedua 29 Mei, dan pemenang diumumkan 5 Juni. Harga 84㎡ sekitar 200 juta won lebih tinggi daripada Laclarche Xi The Fine bulan lalu. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "bd156d96f461",
+    "slug": "신반포1925차-한강-조망이주비-대여-경쟁-574362",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T13:45:49.378Z",
+    "updatedAt": "2026-05-14T13:45:49.379Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051470951",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051470951",
+    "titleFingerprint": "b8c5e7a981b40afc6b9b8d9ec3b5f651b292d42a",
+    "dedupKeys": [
+      "bd156d96f4615804b4c73637e91d2ebbaaae5f53",
+      "b8c5e7a981b40afc6b9b8d9ec3b5f651b292d42a",
+      "1b47c7252cff18340f74ac8b11e46dd37d2c58fc"
+    ],
+    "imageUrl": "/images/articles/bd156d96f461.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신반포19·25차 재건축 수주전, 한강 조망·이주비 대여가 핵심 변수",
+        "excerpt": "신반포19차와 신반포25차 재건축 경쟁에서 한강 조망과 이주비 대여 조건이 주요 쟁점으로 부각되며 조합원 선택의 핵심 판단 기준으로 떠올랐다.",
+        "body": "신반포19차와 신반포25차 재건축을 둘러싼 경쟁에서 한강 조망과 이주비 대여 조건이 핵심 쟁점으로 떠올랐다. 해당 단지는 서울 한강변 입지라는 특성을 지닌 만큼 조망 가치가 수주전의 주요 비교 요소로 제시되고 있다. 이와 함께 조합원 이주 과정에서 필요한 자금 지원, 즉 이주비 대여 조건도 경쟁의 또 다른 축으로 거론된다. 한강 조망은 향후 주거 선호와 단지 가치에 직접 연결될 수 있는 요소이고, 이주비 대여는 사업 진행 과정에서 조합원 부담과 체감 조건에 영향을 미칠 수 있다. 이에 따라 신반포19·25차 재건축 경쟁은 입지 장점과 금융 지원 조건을 함께 비교하는 흐름으로 전개되고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Shinbanpo 19 and 25 Reconstruction Race Centers on Han River Views, Relocation Loans",
+        "excerpt": "In the reconstruction competition for Shinbanpo 19 and Shinbanpo 25, Han River views and relocation loan terms have emerged as key issues shaping members’ decisions.",
+        "body": "In the reconstruction competition involving Shinbanpo 19 and Shinbanpo 25, Han River views and relocation loan terms have become central points of focus. Because the complexes are located near the Han River in Seoul, view value is being presented as a major factor in comparing bids. At the same time, financial support needed during residents’ relocation, namely relocation loan conditions, is also being cited as another axis of competition. Han River views can be directly tied to future residential preference and complex value, while relocation loans may affect members’ burden and perceived project terms during the relocation process. As a result, the Shinbanpo 19 and 25 reconstruction race is unfolding around both location advantages and financing support conditions. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "新盤浦19・25次の再建築競争、漢江眺望と移住費貸与が焦点に",
+        "excerpt": "新盤浦19次と新盤浦25次の再建築競争で、漢江眺望と移住費貸与条件が主要な争点となり、組合員の判断基準として注目されている。",
+        "body": "新盤浦19次と新盤浦25次の再建築をめぐる競争で、漢江眺望と移住費貸与条件が核心的な争点として浮上している。両団地はソウルの漢江沿いという立地特性を持つため、眺望価値が受注競争における主要な比較要素として示されている。あわせて、組合員の移住過程で必要となる資金支援、すなわち移住費貸与条件も競争のもう一つの軸として挙げられる。漢江眺望は今後の居住選好や団地価値に直接つながり得る要素であり、移住費貸与は事業進行中の組合員負担や体感条件に影響し得る。これにより、新盤浦19・25次の再建築競争は、立地の強みと金融支援条件をともに比較する流れで展開している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "新盘浦19、25次重建竞争升温，汉江景观与搬迁费贷款成焦点",
+        "excerpt": "新盘浦19次和新盘浦25次重建竞争中，汉江景观和搬迁费贷款条件成为主要议题，并被视为业主选择的重要判断标准。",
+        "body": "围绕新盘浦19次和新盘浦25次重建项目的竞争中，汉江景观和搬迁费贷款条件已成为核心议题。由于相关小区具备首尔汉江沿岸区位特征，景观价值被作为承揽竞争中的主要比较因素提出。同时，在业主搬迁过程中所需的资金支持，即搬迁费贷款条件，也被视为竞争的另一条主线。汉江景观可能直接关系到未来居住偏好和小区价值，而搬迁费贷款则可能影响项目推进过程中业主的负担和实际感受。因此，新盘浦19、25次重建竞争正围绕区位优势与金融支持条件同步展开。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Shinbanpo 19 y 25 compiten por reconstrucción con vistas al Han y préstamos de mudanza",
+        "excerpt": "En la competencia de reconstrucción de Shinbanpo 19 y Shinbanpo 25, las vistas al río Han y los préstamos de reubicación se han convertido en criterios clave.",
+        "body": "En la competencia por la reconstrucción de Shinbanpo 19 y Shinbanpo 25, las vistas al río Han y las condiciones de préstamo para reubicación han surgido como temas centrales. Dado que los complejos se ubican junto al río Han en Seúl, el valor de las vistas se presenta como un factor importante para comparar propuestas. Al mismo tiempo, el apoyo financiero necesario durante el traslado de los miembros, es decir, las condiciones de préstamo para reubicación, también se menciona como otro eje de la competencia. Las vistas al Han pueden vincularse directamente con la preferencia residencial futura y el valor del complejo, mientras que los préstamos de reubicación pueden influir en la carga de los miembros y en las condiciones percibidas durante el avance del proyecto. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Shinbanpo 19 e 25 disputam reconstrução com vista para o Han e empréstimo de mudança",
+        "excerpt": "Na disputa pela reconstrução de Shinbanpo 19 e Shinbanpo 25, vista para o rio Han e condições de empréstimo para mudança viraram pontos centrais de decisão.",
+        "body": "Na disputa pela reconstrução de Shinbanpo 19 e Shinbanpo 25, a vista para o rio Han e as condições de empréstimo para mudança surgiram como temas centrais. Como os complexos estão localizados às margens do rio Han, em Seul, o valor da vista aparece como um fator importante na comparação das propostas. Ao mesmo tempo, o apoio financeiro necessário durante a mudança dos membros, isto é, as condições de empréstimo para realocação, também é citado como outro eixo da competição. A vista para o Han pode estar diretamente ligada à preferência residencial futura e ao valor do complexo, enquanto o empréstimo de mudança pode afetar o ônus dos membros e as condições percebidas durante o andamento do projeto. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Shinbanpo 19 und 25: Han-Flussblick und Umzugsdarlehen prägen Wiederaufbau-Wettbewerb",
+        "excerpt": "Beim Wiederaufbau von Shinbanpo 19 und Shinbanpo 25 rücken Han-Flussblick und Umzugsdarlehen als zentrale Kriterien für die Mitgliederentscheidung in den Fokus.",
+        "body": "Im Wettbewerb um den Wiederaufbau von Shinbanpo 19 und Shinbanpo 25 sind der Blick auf den Han-Fluss und die Bedingungen für Umzugsdarlehen zu zentralen Themen geworden. Da die Anlagen am Han-Fluss in Seoul liegen, wird der Wert der Aussicht als wichtiger Vergleichsfaktor im Bieterwettbewerb genannt. Zugleich gilt die finanzielle Unterstützung für den Umzug der Mitglieder, also die Konditionen der Umzugsdarlehen, als weiterer Wettbewerbsfaktor. Der Han-Flussblick kann direkt mit künftigen Wohnpräferenzen und dem Wert der Anlage verbunden sein, während Umzugsdarlehen die Belastung der Mitglieder und die wahrgenommenen Projektbedingungen während der Umsetzung beeinflussen können. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Shinbanpo 19 et 25: vue sur le Han et prêts de relogement au cœur de la reconstruction",
+        "excerpt": "Dans la compétition de reconstruction de Shinbanpo 19 et Shinbanpo 25, la vue sur le Han et les prêts de relogement deviennent des critères majeurs.",
+        "body": "Dans la compétition autour de la reconstruction de Shinbanpo 19 et Shinbanpo 25, la vue sur le fleuve Han et les conditions de prêt pour le relogement sont devenues des enjeux centraux. Les complexes étant situés près du Han à Séoul, la valeur de la vue est présentée comme un élément important de comparaison des offres. En parallèle, le soutien financier nécessaire lors du déplacement des membres, c’est-à-dire les conditions de prêt de relogement, est également cité comme un autre axe de concurrence. La vue sur le Han peut être directement liée aux préférences résidentielles futures et à la valeur du complexe, tandis que les prêts de relogement peuvent influer sur la charge des membres et les conditions ressenties pendant l’avancement du projet. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إعادة بناء شينبانبو 19 و25: إطلالة نهر الهان وقروض الانتقال في صدارة المنافسة",
+        "excerpt": "في منافسة إعادة بناء شينبانبو 19 وشينبانبو 25، برزت إطلالة نهر الهان وشروط قروض الانتقال كمعايير رئيسية تؤثر في قرارات الأعضاء.",
+        "body": "في المنافسة المحيطة بإعادة بناء شينبانبو 19 وشينبانبو 25، أصبحت إطلالة نهر الهان وشروط قروض الانتقال محورين رئيسيين. وبما أن المجمعين يقعان في منطقة قريبة من نهر الهان في سيول، فإن قيمة الإطلالة تُطرح كعامل مهم في مقارنة العروض. وفي الوقت نفسه، يُشار إلى الدعم المالي اللازم خلال انتقال الأعضاء، أي شروط قروض الانتقال، بوصفه محوراً آخر للمنافسة. يمكن أن ترتبط إطلالة نهر الهان مباشرة بتفضيلات السكن المستقبلية وقيمة المجمع، بينما قد تؤثر قروض الانتقال في عبء الأعضاء والشروط التي يلمسونها أثناء سير المشروع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "शिनबानपो 19 और 25 पुनर्निर्माण में हान नदी दृश्य और स्थानांतरण ऋण प्रमुख मुद्दे",
+        "excerpt": "शिनबानपो 19 और शिनबानपो 25 के पुनर्निर्माण मुकाबले में हान नदी का दृश्य और स्थानांतरण ऋण शर्तें सदस्यों के फैसले के अहम आधार बन रहे हैं।",
+        "body": "शिनबानपो 19 और शिनबानपो 25 के पुनर्निर्माण को लेकर प्रतिस्पर्धा में हान नदी का दृश्य और स्थानांतरण ऋण की शर्तें मुख्य मुद्दों के रूप में उभरी हैं। ये परिसर सियोल में हान नदी के किनारे स्थित हैं, इसलिए दृश्य का मूल्य बोली प्रतिस्पर्धा में प्रमुख तुलना बिंदु के रूप में सामने रखा जा रहा है। साथ ही, सदस्यों के स्थानांतरण के दौरान आवश्यक वित्तीय सहायता, यानी स्थानांतरण ऋण की शर्तें, प्रतिस्पर्धा की दूसरी धुरी के रूप में देखी जा रही हैं। हान नदी का दृश्य भविष्य की आवासीय पसंद और परिसर के मूल्य से सीधे जुड़ सकता है, जबकि स्थानांतरण ऋण परियोजना की प्रगति के दौरान सदस्यों के बोझ और अनुभव की जाने वाली शर्तों को प्रभावित कर सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Rekonstruksi Shinbanpo 19 dan 25: Pemandangan Sungai Han, Pinjaman Pindah Jadi Fokus",
+        "excerpt": "Dalam persaingan rekonstruksi Shinbanpo 19 dan Shinbanpo 25, pemandangan Sungai Han dan syarat pinjaman pindah menjadi isu utama bagi keputusan anggota.",
+        "body": "Dalam persaingan rekonstruksi Shinbanpo 19 dan Shinbanpo 25, pemandangan Sungai Han dan syarat pinjaman untuk pindah menjadi isu utama. Karena kompleks tersebut berada di kawasan tepi Sungai Han di Seoul, nilai pemandangan diajukan sebagai faktor penting dalam membandingkan penawaran. Pada saat yang sama, dukungan dana yang dibutuhkan selama proses perpindahan anggota, yaitu syarat pinjaman relokasi, juga disebut sebagai poros lain dalam persaingan. Pemandangan Sungai Han dapat terkait langsung dengan preferensi hunian di masa depan dan nilai kompleks, sementara pinjaman pindah dapat memengaruhi beban anggota serta kondisi yang dirasakan selama proyek berjalan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "c016e4f7a157",
     "slug": "양도세-중과-부활에저가-매물-줄고-호가-뛰었다-361440",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Risiko Mogok Samsung Soroti Hak Mediasi Darurat Pemerintah",
         "excerpt": "Setelah perundingan buruh Samsung Electronics buntu dan peluang mogok total meningkat, perhatian tertuju pada kemungkinan pemerintah memakai mediasi darurat.",
         "body": "Perundingan antara manajemen dan serikat pekerja Samsung Electronics yang buntu membuat peluang mogok total meningkat, sehingga perhatian tertuju pada apakah pemerintah akan menggunakan hak mediasi darurat. Kalangan bisnis menilai intervensi pemerintah yang lebih aktif mungkin diperlukan karena gangguan produksi semikonduktor dapat berdampak besar pada ekonomi nasional. Mediasi darurat adalah mekanisme dalam Undang-Undang Serikat Pekerja dan Penyesuaian Hubungan Kerja yang dapat diaktifkan oleh menteri ketenagakerjaan ketika aksi industrial dikhawatirkan sangat merugikan ekonomi nasional. Jika diaktifkan, aksi serikat dihentikan segera, mogok dilarang selama 30 hari, dan kedua pihak masuk ke prosedur mediasi wajib. Namun untuk saat ini pemerintah tampaknya lebih menekankan perundingan mandiri dan mediasi setelahnya daripada meninjau aktivasi secara langsung. Kekhawatiran atas pembatasan tiga hak dasar buruh serta sikap pemerintahan saat ini yang menekankan prinsip perundingan otonom antara buruh dan manajemen disebut sebagai latar kehati-hatian tersebut. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "efa326565270",
-    "slug": "단독결혼하니-정책-대출-탈락-신혼-20가-혼인신고-미뤄-634490",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T21:15:37.521Z",
-    "updatedAt": "2026-05-13T21:15:37.521Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260514/133918299/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260514/133918299/2",
-    "titleFingerprint": "02e36f5e6ec5f06068c5b35d5e5896ead2964b78",
-    "dedupKeys": [
-      "efa326565270c24c11959a70c2a9645c1d8d7bfe",
-      "02e36f5e6ec5f06068c5b35d5e5896ead2964b78",
-      "b5ad1e0d5b3ef12e90fea9bff16b3ce90becea26"
-    ],
-    "imageUrl": "/images/articles/efa326565270.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정책대출 결혼 페널티에 신혼부부 19.6% 혼인신고 1년 넘게 미뤘다",
-        "excerpt": "국가데이터처 통계 분석 결과 지난해 혼인신고 24만326쌍 중 4만7096쌍이 결혼 후 1년 이상 지나 신고해 정책대출 불이익 회피 흐름이 드러났다.",
-        "body": "지난해 결혼한 신혼부부 가운데 상당수가 정부 지원 대출 기준에서 불리해지는 ‘결혼 페널티’를 피하려 혼인신고를 늦춘 것으로 나타났다. 국가데이터처 통계를 분석한 결과, 지난해 혼인신고를 한 24만326쌍 중 4만7096쌍, 19.6%가 결혼 후 1년 이상 지나 신고했다. 맞벌이 부부인 김모 씨(32)도 지난해 8월 결혼식을 올리고 함께 살기 시작했지만, 부부 합산 소득이 정책대출 기준을 넘어서자 서류상 미혼 상태를 유지했다. 김 씨는 미혼이면 더 낮은 이자로 더 많은 대출을 받을 수 있어 연간 수백만 원의 이자 부담을 피할 수 있었다고 설명했다. 신혼 5쌍 중 1쌍이 신고 지연을 합리적 선택으로 여기는 상황은 혼인 제도와 주거 금융 지원 기준 사이의 불일치를 보여준다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Marriage Loan Penalty Delays Registration for 19.6% of Newlyweds in Korea",
-        "excerpt": "An analysis of national data found that 47,096 of 240,326 couples who registered marriages last year did so more than a year after marrying, amid policy-loan disadvantages.",
-        "body": "A significant share of newlywed couples in Korea delayed legal marriage registration last year to avoid what is being called a “marriage penalty” in government-backed housing loans. According to an analysis of National Data Office statistics, 47,096 of the 240,326 couples who registered marriages last year, or 19.6%, filed more than one year after getting married. One dual-income woman, surnamed Kim and aged 32, held a wedding in August last year and began living with her husband, but they remained legally unmarried after learning that their combined income exceeded policy-loan thresholds. Kim said staying single on paper allowed them to borrow more at lower interest rates and avoid paying millions of won more in annual interest. The fact that one in five newlywed couples delayed registration shows a mismatch between the marriage system and housing finance support rules. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "政策融資の結婚ペナルティで新婚夫婦19.6%が婚姻届を1年以上延期",
-        "excerpt": "国家データ処の統計分析で、昨年婚姻届を出した24万326組のうち4万7096組が結婚後1年以上たって届け出ていたことが分かった。",
-        "body": "韓国で昨年、政府支援の住宅ローン基準で不利になるいわゆる「結婚ペナルティ」を避けるため、婚姻届を遅らせる新婚夫婦が少なくなかったことが分かった。国家データ処の統計を分析した結果、昨年婚姻届を出した24万326組のうち4万7096組、19.6%が結婚後1年以上過ぎてから届け出ていた。共働きのキムさん（32）も昨年8月に挙式して夫と暮らし始めたが、夫婦合算所得が政策融資の基準を超えると分かり、書類上は未婚を維持した。キムさんは、未婚のままなら低い金利でより多く借りられ、年間数百万ウォンの利息負担を避けられたと説明した。新婚5組に1組が届け出の延期を合理的な選択と見る状況は、婚姻制度と住宅金融支援基準のずれを示している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "政策贷款“结婚惩罚”下，韩国19.6%新婚夫妇登记推迟超一年",
-        "excerpt": "韩国国家数据处统计分析显示，去年登记结婚的240326对夫妻中，47096对在婚后超过一年才申报，反映政策贷款不利影响。",
-        "body": "韩国去年有相当一部分新婚夫妇为避开政府支持贷款中的所谓“结婚惩罚”，推迟办理婚姻登记。根据对国家数据处统计的分析，去年登记结婚的240326对夫妻中，有47096对，即19.6%，是在结婚后超过一年才申报。32岁的双职工金某去年8月举行婚礼并与丈夫共同生活，但在了解到夫妻合并收入会超过政策贷款标准后，仍在文件上保持未婚状态。金某表示，若维持未婚身份，可用更低利率借到更多资金，从而避免每年多支付数百万韩元利息。每五对新婚夫妇中就有一对认为推迟登记是合理选择，这显示婚姻制度与住房金融支持标准之间存在不一致。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Penalización matrimonial en préstamos retrasa el registro del 19,6% de recién casados",
-        "excerpt": "Un análisis de datos nacionales mostró que 47.096 de 240.326 parejas que registraron su matrimonio el año pasado lo hicieron más de un año después de casarse.",
-        "body": "Una proporción relevante de parejas recién casadas en Corea retrasó el registro legal del matrimonio el año pasado para evitar la llamada “penalización matrimonial” en los préstamos de vivienda respaldados por el Gobierno. Según un análisis de estadísticas de la Oficina Nacional de Datos, 47.096 de las 240.326 parejas que registraron su matrimonio el año pasado, el 19,6%, lo hicieron más de un año después de casarse. Kim, una trabajadora de doble ingreso de 32 años, celebró su boda en agosto del año pasado y empezó a vivir con su esposo, pero mantuvo el estado de soltera en los documentos al saber que sus ingresos combinados superaban el límite de los préstamos de política pública. Dijo que así podía pedir más dinero a menor interés y evitar millones de wones adicionales al año. Que una de cada cinco parejas retrase el registro muestra una brecha entre el sistema matrimonial y las normas de apoyo financiero para vivienda. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Penalidade do casamento em empréstimos leva 19,6% dos recém-casados a adiar registro",
-        "excerpt": "Análise de dados nacionais mostrou que 47.096 de 240.326 casais que registraram casamento no ano passado o fizeram mais de um ano após a cerimônia.",
-        "body": "Uma parcela significativa de recém-casados na Coreia adiou o registro legal do casamento no ano passado para evitar a chamada “penalidade do casamento” em empréstimos habitacionais apoiados pelo governo. Segundo análise das estatísticas do Escritório Nacional de Dados, 47.096 dos 240.326 casais que registraram casamento no ano passado, ou 19,6%, fizeram o registro mais de um ano depois de se casar. Kim, uma mulher de 32 anos em casal de dupla renda, realizou a cerimônia em agosto do ano passado e passou a morar com o marido, mas manteve o estado de solteira nos documentos ao descobrir que a renda combinada do casal ultrapassava o limite dos empréstimos públicos. Ela disse que, como solteira no papel, podia tomar mais dinheiro a juros menores e evitar milhões de wones em juros anuais. O fato de um em cada cinco casais adiar o registro mostra um desalinhamento entre o casamento legal e as regras de apoio financeiro à moradia. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Ehe-Nachteil bei Förderkrediten: 19,6% der Frischvermählten melden Ehe spät an",
-        "excerpt": "Eine Analyse nationaler Daten zeigt: 47.096 von 240.326 Paaren registrierten ihre Ehe im vergangenen Jahr erst mehr als ein Jahr nach der Hochzeit.",
-        "body": "In Korea hat im vergangenen Jahr ein beträchtlicher Teil der frisch verheirateten Paare die rechtliche Registrierung der Ehe verzögert, um Nachteile bei staatlich geförderten Wohnkrediten zu vermeiden. Nach einer Analyse von Statistiken der Nationalen Datenbehörde meldeten 47.096 der 240.326 Paare, die ihre Ehe im vergangenen Jahr registrierten, dies erst mehr als ein Jahr nach der Hochzeit; das entspricht 19,6%. Eine 32-jährige Doppelverdienerin namens Kim hatte im August vergangenen Jahres geheiratet und lebte mit ihrem Mann zusammen, blieb aber auf dem Papier unverheiratet, nachdem sie erfuhr, dass ihr gemeinsames Einkommen die Förderkreditgrenzen überschritt. Kim sagte, der unverheiratete Status ermögliche mehr Kredit zu niedrigeren Zinsen und erspare jährlich mehrere Millionen Won an Zinsen. Dass jedes fünfte frisch verheiratete Paar die Meldung verzögert, zeigt eine Lücke zwischen Eherecht und Wohnfinanzierungsförderung. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Prêts aidés et pénalité du mariage: 19,6% des jeunes couples retardent l’enregistrement",
-        "excerpt": "L’analyse des données nationales montre que 47 096 des 240 326 couples ayant enregistré leur mariage l’an dernier l’ont fait plus d’un an après l’union.",
-        "body": "En Corée, une part importante des jeunes mariés a retardé l’enregistrement légal de son mariage l’an dernier afin d’éviter la dite « pénalité du mariage » liée aux prêts immobiliers soutenus par l’État. Selon une analyse des statistiques de l’Office national des données, 47 096 des 240 326 couples ayant enregistré leur mariage l’an dernier, soit 19,6%, l’ont fait plus d’un an après leur union. Kim, 32 ans, membre d’un couple à deux revenus, a célébré son mariage en août dernier et commencé à vivre avec son mari, mais elle est restée célibataire sur les documents après avoir appris que leurs revenus cumulés dépassaient les seuils des prêts publics. Elle a expliqué que ce statut permettait d’emprunter davantage à un taux plus bas et d’éviter plusieurs millions de wons d’intérêts par an. Le fait qu’un couple sur cinq reporte l’enregistrement souligne un décalage entre le régime matrimonial et les règles d’aide au financement du logement. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "عقوبة الزواج في القروض المدعومة تدفع 19.6% من حديثي الزواج لتأجيل التسجيل",
-        "excerpt": "أظهر تحليل لبيانات وطنية أن 47,096 من أصل 240,326 زوجا سجلوا زواجهم العام الماضي فعلوا ذلك بعد أكثر من عام من الزواج بسبب عوائق القروض.",
-        "body": "أرجأ عدد ملحوظ من المتزوجين حديثا في كوريا التسجيل القانوني للزواج العام الماضي لتجنب ما يسمى «عقوبة الزواج» في قروض السكن المدعومة حكوميا. ووفقا لتحليل إحصاءات هيئة البيانات الوطنية، فإن 47,096 من أصل 240,326 زوجا سجلوا زواجهم العام الماضي، أي 19.6%، قدموا التسجيل بعد مرور أكثر من عام على الزواج. السيدة كيم، وهي موظفة تبلغ 32 عاما ضمن أسرة ذات دخلين، أقامت حفل زفافها في أغسطس من العام الماضي وبدأت العيش مع زوجها، لكنها بقيت غير متزوجة على الورق بعدما علمت أن جمع دخليهما يتجاوز معايير القروض المدعومة. وقالت إن البقاء عزباء في الوثائق أتاح اقتراض مبلغ أكبر بفائدة أقل وتجنب دفع ملايين الوونات سنويا كفوائد إضافية. ويظهر تأجيل التسجيل لدى زوج واحد من كل خمسة وجود فجوة بين نظام الزواج ومعايير دعم تمويل السكن. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "नीतिगत ऋणों की विवाह पेनल्टी से 19.6% नवविवाहितों ने पंजीकरण एक साल से अधिक टाला",
-        "excerpt": "राष्ट्रीय डेटा के विश्लेषण में पता चला कि पिछले वर्ष विवाह पंजीकरण कराने वाले 240,326 जोड़ों में 47,096 ने शादी के एक साल से अधिक बाद पंजीकरण कराया।",
-        "body": "कोरिया में पिछले वर्ष कई नवविवाहित जोड़ों ने सरकारी समर्थित आवास ऋणों में होने वाली कथित “विवाह पेनल्टी” से बचने के लिए कानूनी विवाह पंजीकरण टाल दिया। राष्ट्रीय डेटा कार्यालय के आंकड़ों के विश्लेषण के अनुसार, पिछले वर्ष विवाह पंजीकरण कराने वाले 240,326 जोड़ों में 47,096, यानी 19.6%, ने शादी के एक साल से अधिक समय बाद पंजीकरण कराया। दोहरी आय वाले दंपति में 32 वर्षीय किम ने पिछले वर्ष अगस्त में विवाह समारोह किया और पति के साथ रहना शुरू किया, लेकिन जब पता चला कि संयुक्त आय नीतिगत ऋण सीमा से ऊपर है, तो उन्होंने कागजों पर अविवाहित स्थिति बनाए रखी। किम ने कहा कि अविवाहित रहने पर कम ब्याज पर अधिक ऋण मिल सकता था और हर वर्ष लाखों वोन के अतिरिक्त ब्याज से बचा जा सकता था। पांच में से एक नवविवाहित जोड़े द्वारा पंजीकरण टालना विवाह व्यवस्था और आवास वित्त सहायता मानकों के बीच असंगति दिखाता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Penalti Nikah pada Kredit Subsidi Bikin 19,6% Pengantin Baru Tunda Pencatatan",
-        "excerpt": "Analisis data nasional menunjukkan 47.096 dari 240.326 pasangan yang mencatatkan pernikahan tahun lalu melakukannya lebih dari setahun setelah menikah.",
-        "body": "Sebagian cukup besar pasangan pengantin baru di Korea menunda pencatatan hukum pernikahan tahun lalu untuk menghindari apa yang disebut “penalti pernikahan” dalam kredit perumahan bersubsidi pemerintah. Berdasarkan analisis statistik Badan Data Nasional, 47.096 dari 240.326 pasangan yang mencatatkan pernikahan tahun lalu, atau 19,6%, mendaftarkannya lebih dari satu tahun setelah menikah. Seorang perempuan bermarga Kim, 32 tahun, dari pasangan berpenghasilan ganda, menggelar pernikahan pada Agustus tahun lalu dan mulai tinggal bersama suaminya, tetapi tetap berstatus belum menikah di dokumen setelah mengetahui pendapatan gabungan mereka melewati batas kredit kebijakan. Kim mengatakan status lajang di atas kertas memungkinkan pinjaman lebih besar dengan bunga lebih rendah dan menghindari tambahan bunga tahunan jutaan won. Fakta bahwa satu dari lima pasangan menunda pencatatan menunjukkan ketidaksesuaian antara sistem pernikahan dan aturan dukungan pembiayaan rumah. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "b2e912252033",
-    "slug": "국내-휘발유값-오름세-꺾여-종전-불확실성이-변수-515849",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T21:14:23.061Z",
-    "updatedAt": "2026-05-13T21:14:23.061Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918423/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918423/2",
-    "titleFingerprint": "d3abdd86469f435db5449dfbd86e5b4e853a9c17",
-    "dedupKeys": [
-      "b2e912252033079c4b3660823827c80d540e3949",
-      "d3abdd86469f435db5449dfbd86e5b4e853a9c17",
-      "9a3103d9c50e6823235c15a522d8020c7c1a3768"
-    ],
-    "imageUrl": "/images/articles/b2e912252033.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내 휘발유값 상승세 주춤…중동 종전협상 불확실성이 변수로",
-        "excerpt": "13일 오피넷 기준 전국 휘발유 평균 가격이 L당 2011.61원으로 소폭 하락하며 상승세가 꺾였지만, 미국·이란 종전협상 불확실성은 변수로 남았다.",
-        "body": "13일 한국석유공사 유가정보시스템 오피넷에 따르면 이날 오후 4시 기준 전국 주유소 휘발유 평균 판매가격은 L당 2011.61원으로 전날보다 0.24원 하락했다. 서울 평균 가격도 2051.56원으로 하루 새 0.50원 내렸다. 중동 전쟁 이후 급등세를 보이던 국내 기름값은 정부의 석유 최고가격 동결 조치가 이어지며 다소 진정되는 흐름이다. 현재 정유사가 주유소나 대리점에 공급하는 상한가는 휘발유 1934원, 경유 1923원, 등유 1530원이다. 다만 미국과 이란 간 종전협상 불확실성이 커지며 국제유가가 3% 넘게 상승해 향후 국내 가격은 중동 정세와 정부 정책에 좌우될 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "South Korea Gasoline Price Rise Eases as Middle East Ceasefire Uncertainty Looms",
-        "excerpt": "As of May 13, Opinet data showed South Korea’s average gasoline price edged down to 2,011.61 won per liter, but uncertainty over U.S.-Iran ceasefire talks remains a key variable.",
-        "body": "According to Opinet, the Korea National Oil Corporation’s oil price information system, the national average retail gasoline price at gas stations stood at 2,011.61 won per liter as of 4 p.m. on May 13, down 0.24 won from the previous day. Seoul’s average gasoline price also fell 0.50 won to 2,051.56 won. Domestic fuel prices, which had surged after the Middle East war, are showing signs of stabilization as the government continues to freeze maximum petroleum prices. Current supply caps are 1,934 won for gasoline, 1,923 won for diesel, and 1,530 won for kerosene. However, international oil prices rose more than 3% as uncertainty over U.S.-Iran ceasefire negotiations increased. Future domestic fuel prices are expected to depend on Middle East developments and government policy. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国ガソリン価格の上昇一服…中東停戦協議の不確実性が焦点",
-        "excerpt": "13日のオピネットによると、韓国の全国平均ガソリン価格は1L当たり2011.61ウォンに小幅下落したが、米国・イラン停戦協議の不確実性が変数となっている。",
-        "body": "韓国石油公社の油価情報システム「オピネット」によると、13日午後4時時点の全国ガソリンスタンド平均販売価格は1L当たり2011.61ウォンで、前日より0.24ウォン下落した。ソウルの平均ガソリン価格も2051.56ウォンとなり、前日比0.50ウォン下がった。中東戦争後に急騰していた韓国国内の燃料価格は、政府が石油最高価格を相次いで据え置いたことで、やや落ち着く流れを見せている。現在の供給上限はガソリン1934ウォン、軽油1923ウォン、灯油1530ウォン。ただし米国とイランの停戦協議を巡る不確実性が再び高まり、国際原油価格は3%超上昇した。今後の国内価格は中東情勢と政府政策に左右される見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国汽油价格涨势放缓，中东停战谈判不确定性成变量",
-        "excerpt": "据Opinet 13日数据，韩国全国加油站汽油均价降至每升2011.61韩元，涨势有所缓和，但美伊停战谈判不确定性仍影响后续走势。",
-        "body": "韩国石油公社油价信息系统Opinet显示，截至13日下午4时，韩国全国加油站汽油平均销售价格为每升2011.61韩元，较前一天下降0.24韩元。首尔平均汽油价格也降至2051.56韩元，较前一天下跌0.50韩元。中东战争后持续上涨的韩国国内油价，在政府连续冻结石油最高价格后，呈现一定稳定迹象。目前炼油企业向加油站或代理商供应的价格上限为汽油1934韩元、柴油1923韩元、煤油1530韩元。不过，随着美国和伊朗停战谈判不确定性再次扩大，国际油价上涨超过3%。未来韩国国内油价预计将取决于中东局势和政府政策。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "La gasolina en Corea del Sur frena su alza ante la incertidumbre por Oriente Medio",
-        "excerpt": "Según Opinet, el 13 de mayo el precio medio nacional de la gasolina bajó levemente a 2.011,61 wones por litro, aunque la incertidumbre en las negociaciones EE.UU.-Irán sigue pesando.",
-        "body": "Según Opinet, el sistema de información de precios del petróleo de la Korea National Oil Corporation, el precio medio de venta de la gasolina en las estaciones de servicio de Corea del Sur fue de 2.011,61 wones por litro a las 16:00 del 13 de mayo, 0,24 wones menos que el día anterior. En Seúl, el promedio también bajó 0,50 wones, hasta 2.051,56 wones. Los precios internos del combustible, que habían subido con fuerza tras la guerra en Oriente Medio, muestran cierta estabilización por la congelación sucesiva de los precios máximos del petróleo aplicada por el Gobierno. Los topes actuales de suministro son 1.934 wones para gasolina, 1.923 para diésel y 1.530 para queroseno. Sin embargo, el crudo internacional subió más de 3% por la incertidumbre en las conversaciones de alto el fuego entre EE.UU. e Irán. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Gasolina na Coreia do Sul perde força, mas incerteza no Oriente Médio pesa",
-        "excerpt": "Dados da Opinet em 13 de maio mostram que a gasolina média na Coreia do Sul caiu para 2.011,61 wons por litro, enquanto a incerteza nas negociações EUA-Irã segue como variável.",
-        "body": "Segundo a Opinet, sistema de informações de preços do petróleo da Korea National Oil Corporation, o preço médio nacional da gasolina nos postos da Coreia do Sul era de 2.011,61 wons por litro às 16h de 13 de maio, queda de 0,24 won em relação ao dia anterior. Em Seul, a média também caiu 0,50 won, para 2.051,56 wons. Os preços domésticos dos combustíveis, que haviam disparado após a guerra no Oriente Médio, mostram algum alívio com a manutenção dos preços máximos do petróleo pelo governo. Os atuais tetos de fornecimento são 1.934 wons para gasolina, 1.923 para diesel e 1.530 para querosene. Ainda assim, o petróleo internacional subiu mais de 3% com a maior incerteza nas negociações de cessar-fogo entre EUA e Irã. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Benzinpreise in Südkorea steigen langsamer, Nahost-Verhandlungen bleiben Risiko",
-        "excerpt": "Opinet-Daten vom 13. Mai zeigen: Der landesweite Benzinpreis in Südkorea sank leicht auf 2.011,61 Won je Liter, doch Unsicherheit bei den US-Iran-Verhandlungen bleibt ein Faktor.",
-        "body": "Nach Angaben von Opinet, dem Ölpreisinformationssystem der Korea National Oil Corporation, lag der durchschnittliche Benzinpreis an südkoreanischen Tankstellen am 13. Mai um 16 Uhr bei 2.011,61 Won je Liter und damit 0,24 Won unter dem Vortag. In Seoul fiel der Durchschnittspreis ebenfalls um 0,50 Won auf 2.051,56 Won. Die nach dem Krieg im Nahen Osten stark gestiegenen inländischen Kraftstoffpreise zeigen damit eine gewisse Beruhigung. Als Grund gilt die fortgesetzte Festsetzung der Höchstpreise durch die Regierung. Aktuell liegen die Lieferobergrenzen bei 1.934 Won für Benzin, 1.923 Won für Diesel und 1.530 Won für Kerosin. Zugleich stiegen die internationalen Ölpreise wegen wachsender Unsicherheit über Waffenstillstandsverhandlungen zwischen den USA und Iran um mehr als 3%. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le prix de l’essence en Corée du Sud ralentit, l’incertitude au Moyen-Orient pèse",
-        "excerpt": "Selon Opinet, le 13 mai, le prix moyen national de l’essence en Corée du Sud a légèrement reculé à 2 011,61 wons le litre, mais les négociations États-Unis-Iran restent incertaines.",
-        "body": "Selon Opinet, le système d’information sur les prix du pétrole de la Korea National Oil Corporation, le prix moyen de vente de l’essence dans les stations-service sud-coréennes s’élevait à 2 011,61 wons le litre le 13 mai à 16 heures, en baisse de 0,24 won sur un jour. À Séoul, le prix moyen a également reculé de 0,50 won à 2 051,56 wons. Les prix domestiques des carburants, qui avaient fortement augmenté après la guerre au Moyen-Orient, montrent un certain apaisement grâce au gel répété des prix maximums du pétrole par le gouvernement. Les plafonds actuels sont de 1 934 wons pour l’essence, 1 923 pour le diesel et 1 530 pour le kérosène. Toutefois, le pétrole international a gagné plus de 3% avec l’incertitude accrue autour des négociations de cessez-le-feu entre les États-Unis et l’Iran. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أسعار البنزين في كوريا الجنوبية تتراجع قليلًا وسط ضبابية مفاوضات الشرق الأوسط",
-        "excerpt": "أظهرت بيانات أوبي نت في 13 مايو أن متوسط سعر البنزين في كوريا الجنوبية انخفض إلى 2011.61 وون للتر، لكن عدم اليقين بشأن مفاوضات الولايات المتحدة وإيران يبقى عاملًا مؤثرًا.",
-        "body": "وفقًا لنظام معلومات أسعار النفط أوبي نت التابع لمؤسسة النفط الوطنية الكورية، بلغ متوسط سعر بيع البنزين في محطات الوقود في كوريا الجنوبية 2011.61 وون للتر عند الساعة الرابعة عصرًا في 13 مايو، بانخفاض 0.24 وون عن اليوم السابق. كما تراجع متوسط السعر في سيول إلى 2051.56 وون، بانخفاض 0.50 وون. وتبدو أسعار الوقود المحلية، التي ارتفعت بقوة بعد حرب الشرق الأوسط، أكثر هدوءًا مع استمرار الحكومة في تثبيت الحد الأقصى لأسعار النفط. وتبلغ حدود التوريد الحالية 1934 وون للبنزين و1923 وون للديزل و1530 وون للكيروسين. لكن أسعار النفط العالمية ارتفعت بأكثر من 3% مع زيادة عدم اليقين بشأن مفاوضات وقف الحرب بين الولايات المتحدة وإيران. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया में पेट्रोल की तेजी थमी, मध्य पूर्व वार्ता की अनिश्चितता अहम",
-        "excerpt": "13 मई को Opinet के अनुसार दक्षिण कोरिया में पेट्रोल का राष्ट्रीय औसत दाम घटकर 2,011.61 वॉन प्रति लीटर रहा, लेकिन अमेरिका-ईरान युद्धविराम वार्ता की अनिश्चितता बनी हुई है।",
-        "body": "कोरिया नेशनल ऑयल कॉरपोरेशन की तेल मूल्य सूचना प्रणाली Opinet के अनुसार, 13 मई को शाम 4 बजे तक दक्षिण कोरिया के पेट्रोल पंपों पर पेट्रोल का राष्ट्रीय औसत बिक्री मूल्य 2,011.61 वॉन प्रति लीटर रहा, जो पिछले दिन से 0.24 वॉन कम है। सियोल में औसत पेट्रोल मूल्य भी 0.50 वॉन घटकर 2,051.56 वॉन रहा। मध्य पूर्व युद्ध के बाद तेजी से बढ़े घरेलू ईंधन दामों में सरकार द्वारा पेट्रोलियम के अधिकतम मूल्य को लगातार स्थिर रखने से कुछ नरमी दिख रही है। वर्तमान आपूर्ति सीमा पेट्रोल के लिए 1,934 वॉन, डीजल के लिए 1,923 वॉन और केरोसिन के लिए 1,530 वॉन है। हालांकि, अमेरिका और ईरान के बीच युद्धविराम वार्ता को लेकर अनिश्चितता बढ़ने से अंतरराष्ट्रीय तेल कीमतें 3% से अधिक चढ़ीं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Harga Bensin Korea Selatan Mulai Mereda, Ketidakpastian Timur Tengah Jadi Faktor",
-        "excerpt": "Data Opinet pada 13 Mei menunjukkan harga rata-rata bensin Korea Selatan turun tipis ke 2.011,61 won per liter, sementara ketidakpastian perundingan AS-Iran masih menjadi penentu.",
-        "body": "Menurut Opinet, sistem informasi harga minyak Korea National Oil Corporation, harga jual rata-rata bensin di SPBU Korea Selatan pada 13 Mei pukul 16.00 mencapai 2.011,61 won per liter, turun 0,24 won dari hari sebelumnya. Rata-rata harga di Seoul juga turun 0,50 won menjadi 2.051,56 won. Harga BBM domestik yang sempat melonjak setelah perang Timur Tengah mulai menunjukkan tanda stabil karena pemerintah terus membekukan harga maksimum minyak. Batas pasokan saat ini adalah 1.934 won untuk bensin, 1.923 won untuk diesel, dan 1.530 won untuk minyak tanah. Namun, harga minyak internasional naik lebih dari 3% karena meningkatnya ketidakpastian perundingan penghentian perang antara AS dan Iran. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "06c44b76cd31",
-    "slug": "본사-사업부-매각-저지-자회사-노조가-파업-현대모비스서-노란봉투법-부작용-현실로-688658",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T21:13:15.888Z",
-    "updatedAt": "2026-05-13T21:13:15.888Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918522/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133918522/2",
-    "titleFingerprint": "9771c6a735251772440b0154b58360eab3bed570",
-    "dedupKeys": [
-      "06c44b76cd3169bbe8a3821e9f93fb1d77790f3d",
-      "9771c6a735251772440b0154b58360eab3bed570",
-      "a5d00f3bf34e2621661d87f94056b6fa8e51dcbc"
-    ],
-    "imageUrl": "/images/articles/06c44b76cd31.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대모비스 램프사업 매각 갈등 확산, 자회사 노조 파업으로 교섭 압박",
-        "excerpt": "현대IHL 노조 700여 명은 13일 서울 현대모비스 사옥 앞에서 램프사업부 매각 저지 결의대회를 열고 원청인 현대모비스의 책임 있는 교섭을 요구했다.",
-        "body": "현대모비스의 램프사업부 매각을 둘러싼 갈등이 자회사 노조 파업으로 확대되고 있다. 현대모비스 자회사 현대IHL 노동조합 조합원 700여 명은 13일 오후 2시 서울 강남구 테헤란로 현대모비스 사옥 앞에서 램프사업부 매각 저지를 위한 결의대회를 열었다. 현대모비스가 올해 1월 램프사업부를 글로벌 자동차 부품기업 OP모빌리티에 매각하기로 결정하자 현대IHL 노조는 이를 받아들일 수 없다며 지난달 27일부터 전면 파업을 벌이고 있다. 노조는 전국민주노동조합총연맹 금속노조와 함께 원청 기업인 현대모비스가 책임지고 교섭에 나서야 한다고 요구하고 있다. 다음 달부터 또 다른 자회사 모트라스도 파업에 동참하기로 했다. 시장에서는 지난해 8월 노란봉투법 발의 당시 제기된 우려가 드러난 사례로 본다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hyundai Mobis Lamp Unit Sale Dispute Widens as Subsidiary Union Strikes",
-        "excerpt": "About 700 Hyundai IHL union members rallied outside Hyundai Mobis headquarters in Seoul on the 13th, demanding talks over the planned lamp business sale.",
-        "body": "The dispute over Hyundai Mobis’s planned sale of its lamp business is expanding as a subsidiary union continues a strike. About 700 members of the Hyundai IHL labor union, a Hyundai Mobis subsidiary, held a rally at 2 p.m. on the 13th in front of Hyundai Mobis’s headquarters on Teheran-ro in Gangnam, Seoul, to oppose the sale. After Hyundai Mobis decided in January to sell the lamp division to global auto parts company OPmobility, the Hyundai IHL union said it could not accept the decision and began a full strike on the 27th of last month. The union, together with the Korean Metal Workers’ Union under the Korean Confederation of Trade Unions, is demanding that Hyundai Mobis, as the prime contractor, take responsibility and enter negotiations. Another subsidiary, Motras, is also set to join the strike next month. Market observers see the case as reflecting concerns raised when the so-called Yellow Envelope Act was proposed last August. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "現代モービスのランプ事業売却対立拡大、子会社労組がストで交渉要求",
-        "excerpt": "現代IHL労組の組合員約700人は13日、ソウルの現代モービス本社前でランプ事業売却阻止の決起大会を開き、交渉を求めた。",
-        "body": "現代モービスのランプ事業売却をめぐる対立が、子会社労組のストライキで広がっている。現代モービスの子会社である現代IHL労働組合の組合員約700人は13日午後2時、ソウル市江南区テヘラン路の現代モービス本社前で、ランプ事業部売却阻止に向けた決起大会を開いた。現代モービスが今年1月、ランプ事業部を世界的な自動車部品企業OPモビリティに売却することを決めると、現代IHL労組は受け入れられないとして先月27日から全面ストに入っている。労組は上部団体の全国民主労働組合総連盟金属労組とともに、元請け企業である現代モービスが責任を持って交渉に応じるよう求めている。来月からは別の子会社モトラスもストに加わる予定だ。市場では、昨年8月に黄色封筒法が発議された際の懸念が表れた事例とみている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "现代摩比斯车灯业务出售争议扩大，子公司工会罢工施压谈判",
-        "excerpt": "现代IHL工会约700名成员13日在首尔现代摩比斯总部前举行集会，反对出售车灯事业部并要求母公司参与谈判。",
-        "body": "围绕现代摩比斯出售车灯事业部的争议，正因子公司工会罢工而扩大。现代摩比斯子公司现代IHL工会约700名成员于13日下午2时，在首尔江南区德黑兰路现代摩比斯总部前举行决议大会，要求阻止出售车灯事业部。现代摩比斯今年1月决定将车灯事业部出售给全球汽车零部件企业OPmobility后，现代IHL工会表示无法接受，并自上月27日起展开全面罢工。该工会与上级组织全国民主劳动组合总联盟金属工会共同要求，作为原承包企业的现代摩比斯应承担责任并参与谈判。另一家子公司Motras也决定从下月起加入罢工。市场认为，这一案例显示了去年8月“黄色信封法”提出时外界担忧的影响。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Crece disputa por venta de lámparas de Hyundai Mobis con huelga sindical",
-        "excerpt": "Unos 700 afiliados del sindicato de Hyundai IHL se concentraron el día 13 frente a la sede de Hyundai Mobis en Seúl para exigir negociación sobre la venta.",
-        "body": "La disputa por la venta del negocio de lámparas de Hyundai Mobis se amplía con la huelga de un sindicato de su filial. Unos 700 miembros del sindicato de Hyundai IHL, subsidiaria de Hyundai Mobis, celebraron el día 13 a las 14:00 una concentración frente a la sede de Hyundai Mobis en Teheran-ro, Gangnam, Seúl, para bloquear la venta de la división de lámparas. Después de que Hyundai Mobis decidiera en enero vender esa unidad a la empresa global de autopartes OPmobility, el sindicato de Hyundai IHL dijo que no podía aceptarlo y mantiene una huelga total desde el 27 del mes pasado. Junto con el Sindicato Metalúrgico de la Confederación Coreana de Sindicatos, exige que Hyundai Mobis, como empresa principal, asuma responsabilidad y participe en negociaciones. Otra filial, Motras, se sumará a la huelga el próximo mes. En el mercado se interpreta como un caso que muestra las preocupaciones surgidas cuando se propuso la llamada Ley del Sobre Amarillo en agosto pasado. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Disputa sobre venda de lâmpadas da Hyundai Mobis cresce com greve sindical",
-        "excerpt": "Cerca de 700 sindicalistas da Hyundai IHL protestaram no dia 13 diante da sede da Hyundai Mobis em Seul contra a venda da divisão de lâmpadas.",
-        "body": "O conflito em torno da venda da divisão de lâmpadas da Hyundai Mobis está se ampliando com a greve de um sindicato de subsidiária. Cerca de 700 membros do sindicato da Hyundai IHL, subsidiária da Hyundai Mobis, realizaram no dia 13, às 14h, um ato em frente à sede da Hyundai Mobis em Teheran-ro, Gangnam, Seul, para barrar a venda da unidade. Depois que a Hyundai Mobis decidiu em janeiro vender a divisão de lâmpadas à empresa global de autopeças OPmobility, o sindicato da Hyundai IHL afirmou que não poderia aceitar a decisão e iniciou greve total em 27 do mês passado. Em conjunto com o sindicato metalúrgico da Confederação Coreana de Sindicatos, cobra que a Hyundai Mobis, como contratante principal, assuma responsabilidade e negocie. Outra subsidiária, Motras, também deve aderir à greve no próximo mês. O mercado vê o caso como reflexo das preocupações levantadas quando a chamada Lei do Envelope Amarelo foi proposta em agosto passado. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Streit um Verkauf der Lampensparte von Hyundai Mobis weitet sich durch Streik aus",
-        "excerpt": "Rund 700 Mitglieder der Hyundai-IHL-Gewerkschaft demonstrierten am 13. vor der Hyundai-Mobis-Zentrale in Seoul gegen den Verkauf der Lampensparte.",
-        "body": "Der Streit um den geplanten Verkauf der Lampensparte von Hyundai Mobis weitet sich durch den Streik einer Tochtergewerkschaft aus. Rund 700 Mitglieder der Gewerkschaft von Hyundai IHL, einer Tochter von Hyundai Mobis, hielten am 13. um 14 Uhr vor der Hyundai-Mobis-Zentrale an der Teheran-ro in Gangnam, Seoul, eine Kundgebung gegen den Verkauf ab. Nachdem Hyundai Mobis im Januar beschlossen hatte, die Lampensparte an den globalen Autozulieferer OPmobility zu verkaufen, erklärte die Hyundai-IHL-Gewerkschaft, sie könne dies nicht akzeptieren, und begann am 27. des vergangenen Monats einen Vollstreik. Gemeinsam mit der Metallgewerkschaft des Koreanischen Gewerkschaftsbunds fordert sie, dass Hyundai Mobis als Auftraggeber Verantwortung übernimmt und verhandelt. Eine weitere Tochter, Motras, soll sich ab nächsten Monat beteiligen. Am Markt gilt der Fall als Beispiel für Bedenken, die bei der Einbringung des sogenannten Yellow Envelope Act im vergangenen August geäußert wurden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Hyundai Mobis: le conflit sur la vente des lampes s’étend avec la grève",
-        "excerpt": "Environ 700 syndiqués de Hyundai IHL ont manifesté le 13 devant le siège de Hyundai Mobis à Séoul contre la vente de la division lampes.",
-        "body": "Le conflit autour de la vente prévue de la division lampes de Hyundai Mobis s’étend avec la grève d’un syndicat de filiale. Environ 700 membres du syndicat de Hyundai IHL, filiale de Hyundai Mobis, ont tenu le 13 à 14 heures un rassemblement devant le siège de Hyundai Mobis, sur Teheran-ro à Gangnam, Séoul, pour s’opposer à la vente. Après la décision prise en janvier par Hyundai Mobis de céder cette division au groupe mondial de pièces automobiles OPmobility, le syndicat de Hyundai IHL a déclaré ne pas pouvoir l’accepter et mène une grève totale depuis le 27 du mois dernier. Avec le syndicat métallurgique de la Confédération coréenne des syndicats, il demande à Hyundai Mobis, entreprise donneuse d’ordre, d’assumer ses responsabilités et de négocier. Une autre filiale, Motras, doit rejoindre la grève le mois prochain. Le marché y voit un cas illustrant les inquiétudes exprimées lors du dépôt de la loi dite de l’enveloppe jaune en août dernier. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اتساع نزاع بيع وحدة المصابيح في هيونداي موبيس مع إضراب نقابة تابعة",
-        "excerpt": "نظم نحو 700 عضو من نقابة هيونداي IHL في 13 الشهر تجمعا أمام مقر هيونداي موبيس في سيول للمطالبة بوقف بيع وحدة المصابيح والتفاوض.",
-        "body": "يتسع الخلاف بشأن بيع وحدة المصابيح في هيونداي موبيس مع استمرار إضراب نقابة إحدى الشركات التابعة. فقد نظم نحو 700 عضو من نقابة هيونداي IHL، التابعة لهيونداي موبيس، تجمعا في الساعة الثانية بعد ظهر يوم 13 أمام مقر هيونداي موبيس في شارع طهران بمنطقة غانغنام في سيول، للمطالبة بوقف بيع وحدة المصابيح. وبعد أن قررت هيونداي موبيس في يناير بيع الوحدة إلى شركة قطع السيارات العالمية OPmobility، قالت نقابة هيونداي IHL إنها لا تستطيع قبول القرار وبدأت إضرابا شاملا منذ 27 من الشهر الماضي. وتطالب النقابة، مع نقابة عمال المعادن التابعة للاتحاد الكوري للنقابات العمالية، بأن تتحمل هيونداي موبيس بصفتها الشركة الأصلية المسؤولية وتدخل في مفاوضات. ومن المقرر أن تنضم شركة تابعة أخرى، موتراس، إلى الإضراب الشهر المقبل. ويرى السوق أن القضية تعكس المخاوف التي أثيرت عند طرح ما يسمى قانون الظرف الأصفر في أغسطس الماضي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ह्युंडई मोबिस लैंप कारोबार बिक्री विवाद बढ़ा, सहायक कंपनी की यूनियन हड़ताल पर",
-        "excerpt": "ह्युंडई IHL यूनियन के करीब 700 सदस्यों ने 13 तारीख को सियोल में ह्युंडई मोबिस मुख्यालय के बाहर लैंप डिवीजन की बिक्री रोकने की मांग की।",
-        "body": "ह्युंडई मोबिस के लैंप कारोबार की बिक्री को लेकर विवाद सहायक कंपनी की यूनियन की हड़ताल से बढ़ रहा है। ह्युंडई मोबिस की सहायक कंपनी ह्युंडई IHL की यूनियन के करीब 700 सदस्यों ने 13 तारीख को दोपहर 2 बजे सियोल के गंगनम स्थित तेहरान-रो पर ह्युंडई मोबिस मुख्यालय के सामने लैंप डिवीजन की बिक्री रोकने के लिए सभा की। ह्युंडई मोबिस ने इस साल जनवरी में लैंप डिवीजन को वैश्विक ऑटो पार्ट्स कंपनी OPmobility को बेचने का निर्णय लिया था, जिसके बाद ह्युंडई IHL यूनियन ने कहा कि वह इसे स्वीकार नहीं कर सकती और पिछले महीने की 27 तारीख से पूर्ण हड़ताल कर रही है। यूनियन, कोरियन कन्फेडरेशन ऑफ ट्रेड यूनियन्स की मेटल यूनियन के साथ, मांग कर रही है कि मूल कंपनी ह्युंडई मोबिस जिम्मेदारी लेकर बातचीत करे। एक अन्य सहायक कंपनी मोट्रास भी अगले महीने से हड़ताल में शामिल होगी। बाजार इसे पिछले अगस्त में येलो एनवेलप एक्ट प्रस्तावित होने के समय उठी चिंताओं को दिखाने वाला मामला मानता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Konflik Penjualan Bisnis Lampu Hyundai Mobis Meluas Saat Serikat Anak Usaha Mogok",
-        "excerpt": "Sekitar 700 anggota serikat Hyundai IHL berunjuk rasa pada 13 di depan kantor Hyundai Mobis di Seoul untuk menolak penjualan divisi lampu.",
-        "body": "Konflik atas rencana penjualan bisnis lampu Hyundai Mobis meluas seiring mogok kerja serikat pekerja anak perusahaan. Sekitar 700 anggota serikat Hyundai IHL, anak usaha Hyundai Mobis, menggelar rapat aksi pada 13 pukul 14.00 di depan kantor Hyundai Mobis di Teheran-ro, Gangnam, Seoul, untuk menolak penjualan divisi lampu. Setelah Hyundai Mobis pada Januari memutuskan menjual divisi itu kepada perusahaan suku cadang otomotif global OPmobility, serikat Hyundai IHL menyatakan tidak dapat menerima keputusan tersebut dan memulai mogok penuh sejak 27 bulan lalu. Bersama Serikat Pekerja Logam di bawah Konfederasi Serikat Buruh Korea, mereka menuntut Hyundai Mobis sebagai perusahaan utama bertanggung jawab dan berunding. Anak usaha lain, Motras, juga akan ikut mogok mulai bulan depan. Pasar menilai kasus ini mencerminkan kekhawatiran yang muncul saat Undang-Undang Amplop Kuning diajukan pada Agustus lalu. Sumber: rss.donga.com"
       }
     }
   }
