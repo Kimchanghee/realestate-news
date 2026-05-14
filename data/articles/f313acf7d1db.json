@@ -1,0 +1,75 @@
+{
+  "id": "f313acf7d1db",
+  "slug": "ai가-외벽-균열도-잡는다-호반건설-로봇-현장-실증-504709",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-14T09:15:06.587Z",
+  "updatedAt": "2026-05-14T09:15:06.587Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/realestate/12047827",
+  "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047827",
+  "titleFingerprint": "d9eb5cc7a0eee27fc7b95ba5199523dc541e2862",
+  "dedupKeys": [
+    "f313acf7d1db79d7cdd96c05f0d458463f23abc2",
+    "d9eb5cc7a0eee27fc7b95ba5199523dc541e2862",
+    "f4647fb71d38c9e43555e0ebb2c883d1e50c4507"
+  ],
+  "imageUrl": "/images/articles/f313acf7d1db.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 외벽 균열 점검 로봇 실증…호반건설, 공동주택 현장 적용 검토",
+      "excerpt": "호반건설은 13일 경기도 공동주택 현장에서 AI 기반 외벽 균열 점검 로봇을 실증하고, 공동주택 외벽 점검 업무에 로봇 기술을 적용하는 방안을 검토했다.",
+      "body": "호반건설이 인공지능(AI) 기반 로봇 기술을 공동주택 외벽 균열 점검에 적용하는 방안을 검토하고 있다. 회사는 13일 경기도 소재 공동주택 현장에서 AI 기반 외벽 균열 점검 로봇의 현장 실증을 진행했다. 이번 실증은 외벽 균열을 확인하는 점검 업무에 AI와 로봇 기술을 활용할 수 있는지 살펴보기 위한 절차다. 건설 현장에서 외벽 상태 점검은 안전과 품질 관리에 직결되는 작업인 만큼, 관련 기술의 적용 가능성이 주목된다. 호반건설은 이번 현장 실증 결과를 바탕으로 향후 적용 여부를 검토할 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI exterior wall crack inspection robot tested as Hoban Construction reviews site use",
+      "excerpt": "Hoban Construction tested an AI-based robot for exterior wall crack inspection at an apartment housing site in Gyeonggi Province on the 13th, reviewing possible use in wall checks.",
+      "body": "Hoban Construction is reviewing whether artificial intelligence-based robot technology can be applied to exterior wall crack inspections at apartment housing sites. On the 13th, the company conducted an on-site demonstration of an AI-based exterior wall crack inspection robot at a multi-family housing site in Gyeonggi Province. The test was aimed at examining whether AI and robot technology can be used for inspection work that identifies cracks on exterior walls. Because exterior wall condition checks are directly linked to safety and quality management at construction sites, the possible application of this technology is drawing attention. Hoban Construction is expected to review future adoption based on the results of the field demonstration. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AI外壁ひび割れ点検ロボットを実証、ホバン建設が現場適用を検討",
+      "excerpt": "ホバン建設は13日、京畿道の共同住宅現場でAI基盤の外壁ひび割れ点検ロボットを実証し、外壁点検業務へのロボット技術適用を検討した。",
+      "body": "ホバン建設は、人工知能（AI）基盤のロボット技術を共同住宅の外壁ひび割れ点検に適用する案を検討している。同社は13日、京畿道にある共同住宅の現場で、AI基盤の外壁ひび割れ点検ロボットの現場実証を行った。今回の実証は、外壁のひび割れを確認する点検業務にAIとロボット技術を活用できるかを確認するための手続きだ。建設現場での外壁状態の点検は、安全と品質管理に直結する作業であるため、関連技術の適用可能性が注目される。ホバン建設は今回の現場実証結果を基に、今後の適用可否を検討する見通しだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI外墙裂缝检查机器人现场实证，Hoban建设评估住宅工地应用",
+      "excerpt": "Hoban建设13日在京畿道一处共同住宅现场对AI外墙裂缝检查机器人进行实证，并评估将机器人技术用于外墙检查工作的方案。",
+      "body": "Hoban建设正在评估将人工智能（AI）机器人技术应用于共同住宅外墙裂缝检查的方案。公司13日在京畿道一处共同住宅现场，对AI外墙裂缝检查机器人进行了现场实证。此次实证旨在确认AI与机器人技术能否用于识别外墙裂缝的检查工作。在建设现场，外墙状态检查直接关系到安全和质量管理，因此相关技术的应用可能性受到关注。Hoban建设预计将以此次现场实证结果为基础，继续评估今后是否采用该技术。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Robot con IA para grietas en muros exteriores: Hoban Construction prueba su uso en obra",
+      "excerpt": "Hoban Construction probó el día 13 un robot con IA para inspeccionar grietas en muros exteriores en una vivienda colectiva de Gyeonggi y revisa su aplicación en obra.",
+      "body": "Hoban Construction está revisando la posibilidad de aplicar tecnología robótica basada en inteligencia artificial a la inspección de grietas en muros exteriores de viviendas colectivas. El día 13, la empresa realizó una prueba de campo de un robot con IA para revisar grietas en muros exteriores en un complejo de vivienda colectiva situado en la provincia de Gyeonggi. La demostración buscó comprobar si la IA y la robótica pueden utilizarse en tareas de inspección que identifican grietas en fachadas. Dado que la revisión del estado de los muros exteriores está directamente vinculada con la seguridad y la gestión de calidad en las obras, la posible aplicación de esta tecnología atrae atención. Hoban Construction evaluará su adopción futura con base en los resultados de la prueba. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Robô com IA para fissuras em fachadas é testado pela Hoban Construction em obra",
+      "excerpt": "A Hoban Construction testou no dia 13 um robô com IA para inspecionar fissuras em fachadas em um conjunto habitacional em Gyeonggi e avalia seu uso em campo.",
+      "body": "A Hoban Construction está avaliando a aplicação de tecnologia robótica baseada em inteligência artificial na inspeção de fissuras em fachadas de conjuntos habitacionais. No dia 13, a empresa realizou uma demonstração em campo de um robô com IA para verificar fissuras em paredes externas em uma obra de habitação coletiva localizada na província de Gyeonggi. O teste teve como objetivo examinar se IA e robótica podem ser usadas no trabalho de inspeção que identifica fissuras em fachadas. Como a verificação das condições das paredes externas está diretamente ligada à segurança e à gestão da qualidade nos canteiros de obras, a possibilidade de aplicação da tecnologia chama atenção. A Hoban Construction deve analisar a adoção futura com base no resultado da demonstração. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Roboter prüft Fassadenrisse: Hoban Construction testet Einsatz auf Wohnbaustelle",
+      "excerpt": "Hoban Construction testete am 13. auf einer Wohnanlage in der Provinz Gyeonggi einen KI-basierten Roboter zur Prüfung von Fassadenrissen und prüft dessen Einsatz.",
+      "body": "Hoban Construction prüft, ob robotergestützte Technologie auf Basis künstlicher Intelligenz für die Kontrolle von Rissen an Außenwänden von Wohnanlagen eingesetzt werden kann. Am 13. führte das Unternehmen auf einer Baustelle für gemeinschaftliches Wohnen in der Provinz Gyeonggi einen Praxistest mit einem KI-basierten Roboter zur Prüfung von Fassadenrissen durch. Ziel der Demonstration war es zu untersuchen, ob KI und Robotik für Inspektionsarbeiten genutzt werden können, bei denen Risse an Außenwänden festgestellt werden. Da die Prüfung des Zustands von Außenwänden auf Baustellen unmittelbar mit Sicherheit und Qualitätsmanagement verbunden ist, findet die mögliche Anwendung der Technologie Beachtung. Hoban Construction dürfte auf Grundlage der Testergebnisse über eine künftige Nutzung entscheiden. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Un robot IA inspecte les fissures de façades, Hoban Construction teste le dispositif",
+      "excerpt": "Hoban Construction a testé le 13, sur un site de logements collectifs dans le Gyeonggi, un robot IA d’inspection des fissures de façades et étudie son usage.",
+      "body": "Hoban Construction étudie l’application d’une technologie robotique fondée sur l’intelligence artificielle à l’inspection des fissures sur les murs extérieurs de logements collectifs. Le 13, l’entreprise a mené une démonstration sur site d’un robot IA chargé de vérifier les fissures de façades dans un ensemble résidentiel situé dans la province du Gyeonggi. Cet essai visait à déterminer si l’IA et la robotique peuvent être utilisées pour les travaux d’inspection qui identifient les fissures sur les murs extérieurs. Comme le contrôle de l’état des façades est directement lié à la sécurité et à la gestion de la qualité sur les chantiers, la possibilité d’appliquer cette technologie retient l’attention. Hoban Construction devrait examiner son adoption future à partir des résultats de cette démonstration. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "روبوت ذكاء اصطناعي يفحص تشققات الواجهات وهوبان للإنشاءات تختبره ميدانياً",
+      "excerpt": "أجرت هوبان للإنشاءات في 13 من الشهر اختباراً ميدانياً لروبوت قائم على الذكاء الاصطناعي لفحص تشققات الجدران الخارجية في مجمع سكني بمقاطعة غيونغي.",
+      "body": "تدرس هوبان للإنشاءات إمكانية تطبيق تقنية روبوتية قائمة على الذكاء الاصطناعي في فحص تشققات الجدران الخارجية للمساكن الجماعية. وفي 13 من الشهر، أجرت الشركة اختباراً ميدانياً لروبوت يعتمد على الذكاء الاصطناعي لفحص تشققات الجدران الخارجية في موقع سكني جماعي يقع في مقاطعة غيونغي. وهدفت التجربة إلى التحقق مما إذا كان بالإمكان استخدام الذكاء الاصطناعي والروبوتات في أعمال التفتيش التي ترصد التشققات على الواجهات. وبما أن فحص حالة الجدران الخارجية في مواقع البناء يرتبط مباشرة بالسلامة وإدارة الجودة، فإن إمكانية تطبيق هذه التقنية تحظى بالاهتمام. ومن المتوقع أن تراجع هوبان للإنشاءات قرار التطبيق المستقبلي بناءً على نتائج الاختبار الميداني. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI से बाहरी दीवारों की दरार जांच, Hoban Construction ने साइट पर रोबोट परखा",
+      "excerpt": "Hoban Construction ने 13 तारीख को ग्योंगगी प्रांत के एक सामूहिक आवास स्थल पर AI आधारित बाहरी दीवार दरार जांच रोबोट का परीक्षण किया और उपयोग पर विचार किया।",
+      "body": "Hoban Construction सामूहिक आवास की बाहरी दीवारों में दरारों की जांच के लिए कृत्रिम बुद्धिमत्ता आधारित रोबोट तकनीक लागू करने की संभावना पर विचार कर रही है। कंपनी ने 13 तारीख को ग्योंगगी प्रांत स्थित एक सामूहिक आवास स्थल पर AI आधारित बाहरी दीवार दरार जांच रोबोट का फील्ड परीक्षण किया। इस परीक्षण का उद्देश्य यह देखना था कि बाहरी दीवारों की दरारें पहचानने वाले निरीक्षण कार्य में AI और रोबोट तकनीक का उपयोग किया जा सकता है या नहीं। निर्माण स्थलों पर बाहरी दीवारों की स्थिति की जांच सुरक्षा और गुणवत्ता प्रबंधन से सीधे जुड़ी होती है, इसलिए इस तकनीक के उपयोग की संभावना पर ध्यान दिया जा रहा है। Hoban Construction इस फील्ड परीक्षण के परिणामों के आधार पर आगे अपनाने पर विचार करेगी। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Robot AI pemeriksa retak dinding luar diuji, Hoban Construction kaji pemakaian",
+      "excerpt": "Hoban Construction pada tanggal 13 menguji robot berbasis AI untuk memeriksa retak dinding luar di lokasi hunian bersama di Provinsi Gyeonggi dan mengkaji penerapannya.",
+      "body": "Hoban Construction sedang mengkaji kemungkinan menerapkan teknologi robot berbasis kecerdasan buatan untuk pemeriksaan retak pada dinding luar hunian bersama. Pada tanggal 13, perusahaan melakukan uji lapangan robot pemeriksa retak dinding luar berbasis AI di lokasi hunian bersama yang berada di Provinsi Gyeonggi. Uji ini dilakukan untuk melihat apakah AI dan teknologi robot dapat digunakan dalam pekerjaan inspeksi yang mengidentifikasi retak pada dinding luar. Karena pemeriksaan kondisi dinding luar di lokasi konstruksi berkaitan langsung dengan keselamatan dan manajemen mutu, potensi penerapan teknologi tersebut menarik perhatian. Hoban Construction diperkirakan akan mengkaji penggunaan ke depan berdasarkan hasil uji lapangan ini. Sumber: mk.co.kr"
+    }
+  }
+}
