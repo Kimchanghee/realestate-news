@@ -1,5 +1,230 @@
 [
   {
+    "id": "fd795fe838a7",
+    "slug": "서초-코오롱스포렉스-용지-189m-역삼각형-랜드마크로-499562",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T10:05:59.919Z",
+    "updatedAt": "2026-05-14T10:05:59.919Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047823",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047823",
+    "titleFingerprint": "050229494d928f7ff3c04d1d3489e5faa78e4869",
+    "dedupKeys": [
+      "fd795fe838a758a8826369a66efc188476889ba5",
+      "050229494d928f7ff3c04d1d3489e5faa78e4869",
+      "c97ddaba83901d74f7ab5d2438771a8ff9fa3cc1"
+    ],
+    "imageUrl": "/images/articles/fd795fe838a7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서초 코오롱스포렉스 용지, 189m 역삼각형 랜드마크 건립 추진",
+        "excerpt": "서울시는 지난 13일 제8차 도시·건축공동위원회에서 서초구 서초동 132번지 코오롱스포렉스 용지 개발 관련 안건을 다루며 189m 랜드마크 건립 계획을 공개했다.",
+        "body": "서울 서초구 서초동 132번지 코오롱스포렉스 용지에 189m 높이의 역삼각형 디자인 랜드마크 건물이 들어설 전망이다. 서울시는 지난 13일 열린 제8차 도시·건축공동위원회에서 해당 부지와 관련한 도시·건축 계획을 논의했다. 이번 계획의 핵심은 서초구 코오롱스포렉스 용지에 독특한 역삼각형 외관을 갖춘 초고층 건물을 조성하는 것이다. 높이는 189m로 제시됐으며, 지역 내 상징성을 갖춘 건축물로 주목된다. 향후 세부 계획과 인허가 절차에 따라 서초동 일대 도시 경관 변화가 이어질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Seocho Kolon Sporex Site Set for 189m Inverted-Triangle Landmark",
+        "excerpt": "Seoul said its 8th Joint Urban and Architecture Committee on May 13 reviewed plans for the Kolon Sporex site in Seocho-dong, outlining a 189m landmark building.",
+        "body": "A 189-meter landmark building with an inverted-triangle design is planned for the Kolon Sporex site at 132 Seocho-dong, Seocho District, Seoul. The Seoul Metropolitan Government discussed the urban and architectural plan for the site at the 8th Joint Urban and Architecture Committee meeting held on May 13. The core of the plan is to create a high-rise building with a distinctive inverted-triangle exterior on the former Kolon Sporex land. Its proposed height is 189 meters, drawing attention as a potential symbolic structure in the area. Depending on later detailed plans and approval procedures, the project could change the urban landscape around Seocho-dong. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "瑞草コーロンスポレックス用地に189m逆三角形ランドマーク計画",
+        "excerpt": "ソウル市は13日に開かれた第8回都市・建築共同委員会で、瑞草区瑞草洞132番地のコーロンスポレックス用地に189mのランドマーク建設計画を示した。",
+        "body": "ソウル市瑞草区瑞草洞132番地のコーロンスポレックス用地に、高さ189mの逆三角形デザインを特徴とするランドマーク建築が建設される見通しだ。ソウル市は13日に開かれた第8回都市・建築共同委員会で、同用地に関する都市・建築計画を議論した。計画の中心は、コーロンスポレックス用地に独特な逆三角形の外観を持つ高層建築を整備することだ。高さは189mと示され、地域の象徴性を備えた建物として注目される。今後の詳細計画と認可手続きにより、瑞草洞一帯の都市景観に変化が生じる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "瑞草Kolon Sporex地块拟建189米倒三角地标建筑",
+        "excerpt": "首尔市表示，5月13日举行的第8次城市·建筑共同委员会审议了瑞草区瑞草洞132号Kolon Sporex地块相关开发计划。",
+        "body": "首尔瑞草区瑞草洞132号Kolon Sporex地块预计将建设一栋高189米、采用倒三角形设计的地标建筑。首尔市在5月13日举行的第8次城市·建筑共同委员会会议上，讨论了该地块相关的城市与建筑规划。该计划的核心是在瑞草区Kolon Sporex用地上打造具有独特倒三角外观的高层建筑。规划高度为189米，因此被关注为可能具备区域象征性的建筑。随着后续详细规划和审批程序推进，瑞草洞一带的城市景观或将出现变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Seocho proyecta un hito de 189 m en el terreno de Kolon Sporex",
+        "excerpt": "Seúl informó que el 13 de mayo su 8.º Comité Conjunto Urbano y Arquitectónico revisó el plan para el terreno Kolon Sporex en Seocho-dong, con un edificio de 189 m.",
+        "body": "En el terreno de Kolon Sporex, ubicado en el número 132 de Seocho-dong, distrito de Seocho en Seúl, se prevé levantar un edificio emblemático de 189 metros con diseño de triángulo invertido. El Gobierno Metropolitano de Seúl debatió el plan urbano y arquitectónico del sitio en la 8.ª reunión del Comité Conjunto Urbano y Arquitectónico celebrada el 13 de mayo. El punto central del plan es construir en ese terreno un rascacielos con una fachada distintiva de triángulo invertido. La altura propuesta es de 189 metros y el proyecto atrae atención como posible estructura simbólica de la zona. Según los planes detallados y los trámites de aprobación posteriores, el paisaje urbano de Seocho-dong podría cambiar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Seocho terá marco de 189 m no terreno Kolon Sporex, em forma invertida",
+        "excerpt": "Seul informou que, em 13 de maio, o 8º Comitê Conjunto Urbano e Arquitetônico analisou o plano para o terreno Kolon Sporex em Seocho-dong, com edifício de 189 m.",
+        "body": "No terreno Kolon Sporex, localizado no número 132 de Seocho-dong, distrito de Seocho, em Seul, está previsto um edifício marco de 189 metros com desenho de triângulo invertido. O Governo Metropolitano de Seul discutiu o plano urbano e arquitetônico para o local na 8ª reunião do Comitê Conjunto Urbano e Arquitetônico, realizada em 13 de maio. O ponto central do plano é criar no terreno um edifício alto com fachada invertida e distinta. A altura proposta é de 189 metros, chamando atenção como uma possível construção simbólica da região. Conforme os planos detalhados e os processos de aprovação avançarem, a paisagem urbana ao redor de Seocho-dong poderá mudar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Seocho: 189-Meter-Wahrzeichen auf Kolon-Sporex-Areal geplant",
+        "excerpt": "Seoul teilte mit, dass der 8. Gemeinsame Stadt- und Architekturausschuss am 13. Mai Pläne für das Kolon-Sporex-Areal in Seocho-dong mit einem 189 m hohen Gebäude prüfte.",
+        "body": "Auf dem Kolon-Sporex-Areal an der Adresse 132 Seocho-dong im Seouler Bezirk Seocho soll ein 189 Meter hohes Wahrzeichen mit umgekehrtem Dreiecksdesign entstehen. Die Stadt Seoul besprach den städtebaulichen und architektonischen Plan für das Grundstück bei der 8. Sitzung des Gemeinsamen Stadt- und Architekturausschusses am 13. Mai. Kern des Vorhabens ist ein Hochhaus mit markanter, umgekehrt dreieckiger Außenform auf dem Kolon-Sporex-Gelände. Die vorgesehene Höhe beträgt 189 Meter, weshalb das Projekt als mögliches Symbolgebäude der Gegend Aufmerksamkeit erhält. Je nach Detailplanung und Genehmigungsverfahren könnte sich das Stadtbild rund um Seocho-dong verändern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Seocho: un repère de 189 m prévu sur le site Kolon Sporex",
+        "excerpt": "Séoul a indiqué que son 8e Comité conjoint urbain et architectural, réuni le 13 mai, a examiné le plan du site Kolon Sporex à Seocho-dong, avec un bâtiment de 189 m.",
+        "body": "Sur le site Kolon Sporex, situé au 132 Seocho-dong dans l’arrondissement de Seocho à Séoul, un bâtiment repère de 189 mètres au design en triangle inversé est prévu. La municipalité de Séoul a discuté du plan urbain et architectural du terrain lors de la 8e réunion du Comité conjoint urbain et architectural tenue le 13 mai. Le cœur du projet consiste à créer sur ce site un immeuble de grande hauteur doté d’une façade distinctive en triangle inversé. La hauteur proposée est de 189 mètres, ce qui attire l’attention sur son potentiel rôle symbolique dans le quartier. Selon les plans détaillés et les procédures d’autorisation à venir, le paysage urbain autour de Seocho-dong pourrait évoluer. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوتشو تخطط لمعلم بارتفاع 189 مترا في موقع كولون سبوريكس",
+        "excerpt": "قالت حكومة سيول إن اللجنة الحضرية والمعمارية المشتركة الثامنة ناقشت في 13 مايو خطة موقع كولون سبوريكس في سوتشو دونغ، بما يشمل مبنى بارتفاع 189 مترا.",
+        "body": "من المتوقع إنشاء مبنى معلم بارتفاع 189 مترا وبتصميم مثلث مقلوب في موقع كولون سبوريكس عند العنوان 132 سوتشو دونغ في حي سوتشو بسيول. وناقشت حكومة سيول الخطة الحضرية والمعمارية الخاصة بالموقع خلال الاجتماع الثامن للجنة الحضرية والمعمارية المشتركة الذي عقد في 13 مايو. ويتمحور جوهر الخطة حول إقامة مبنى شاهق بواجهة مميزة على شكل مثلث مقلوب في أرض كولون سبوريكس. وقد طُرح الارتفاع عند 189 مترا، ما يجعله محل اهتمام كمنشأة قد تحمل رمزية محلية. ووفقا للخطط التفصيلية وإجراءات الترخيص اللاحقة، قد يشهد المشهد الحضري في محيط سوتشو دونغ تغييرا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सियोचो के Kolon Sporex स्थल पर 189 मीटर उल्टे त्रिकोण वाला लैंडमार्क",
+        "excerpt": "सियोल ने बताया कि 13 मई को हुई 8वीं संयुक्त शहरी और वास्तुकला समिति ने सियोचो-दोंग 132 स्थित Kolon Sporex स्थल की 189 मीटर इमारत योजना पर चर्चा की।",
+        "body": "सियोल के सियोचो जिले में सियोचो-दोंग 132 स्थित Kolon Sporex स्थल पर 189 मीटर ऊंची उल्टे त्रिकोण डिजाइन वाली लैंडमार्क इमारत बनने की संभावना है। सियोल महानगर सरकार ने 13 मई को हुई 8वीं संयुक्त शहरी और वास्तुकला समिति की बैठक में इस स्थल से जुड़ी शहरी और वास्तु योजना पर चर्चा की। योजना का मुख्य बिंदु Kolon Sporex भूमि पर विशिष्ट उल्टे त्रिकोण बाहरी रूप वाली ऊंची इमारत बनाना है। प्रस्तावित ऊंचाई 189 मीटर है, जिससे यह क्षेत्र में प्रतीकात्मक इमारत के रूप में ध्यान आकर्षित कर रही है। आगे की विस्तृत योजना और स्वीकृति प्रक्रियाओं के आधार पर सियोचो-दोंग क्षेत्र का शहरी दृश्य बदल सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Seocho Siapkan Landmark 189 m di Lahan Kolon Sporex",
+        "excerpt": "Pemerintah Seoul menyatakan Komite Gabungan Perkotaan dan Arsitektur ke-8 pada 13 Mei membahas rencana lahan Kolon Sporex di Seocho-dong, termasuk gedung 189 m.",
+        "body": "Di lahan Kolon Sporex yang berada di Seocho-dong 132, Distrik Seocho, Seoul, direncanakan berdiri gedung landmark setinggi 189 meter dengan desain segitiga terbalik. Pemerintah Metropolitan Seoul membahas rencana perkotaan dan arsitektur untuk lokasi tersebut dalam rapat Komite Gabungan Perkotaan dan Arsitektur ke-8 yang digelar pada 13 Mei. Inti rencana ini adalah membangun gedung tinggi dengan tampilan luar segitiga terbalik yang khas di lahan Kolon Sporex. Tingginya ditetapkan 189 meter, sehingga menarik perhatian sebagai bangunan yang berpotensi menjadi simbol kawasan. Bergantung pada rencana detail dan proses perizinan berikutnya, lanskap perkotaan di sekitar Seocho-dong dapat berubah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1e65c49c89a9",
+    "slug": "한남뉴타운-마지막-퍼즐-1구역-잰걸음-904715",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T10:04:50.946Z",
+    "updatedAt": "2026-05-14T10:04:50.946Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047826",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047826",
+    "titleFingerprint": "fcbcad47691817d92cbdd18919f80d4b0c0e2914",
+    "dedupKeys": [
+      "1e65c49c89a9058c4f2aec4e88f9d0aaeb71d805",
+      "fcbcad47691817d92cbdd18919f80d4b0c0e2914",
+      "dcc4d22da2858e5c74878c787d039e698b6cf996"
+    ],
+    "imageUrl": "/images/articles/1e65c49c89a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한남뉴타운 1구역 주목, 2~5구역 속도 속 ‘마지막 퍼즐’ 관심 확대",
+        "excerpt": "한남뉴타운 재개발 사업이 2~5구역을 중심으로 속도를 내는 가운데, 아직 정비구역으로 지정되지 않은 한남1구역이 ‘마지막 조각’으로 주목받고 있다.",
+        "body": "한남뉴타운 재개발 사업이 2~5구역을 중심으로 속도를 내면서, 아직 정비구역으로 지정되지 않은 한남1구역에 시장의 관심이 커지고 있다. 한남1구역은 한남뉴타운 내에서 남은 ‘마지막 조각’으로 꼽히는 지역이다. 현재 사업 흐름은 이미 추진 속도를 내는 2~5구역을 중심으로 형성되고 있으며, 이 같은 분위기가 1구역에 대한 주목도를 높이는 배경으로 작용하고 있다. 다만 원문 기준 한남1구역은 아직 정비구역 지정 단계에 이르지 않았다. 향후 한남뉴타운 전체 재개발 구도에서 1구역의 지정 여부와 사업 추진 속도가 주요 관심사가 될 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Hannam New Town Zone 1 Draws Attention as Final Piece Amid Faster Redevelopment",
+        "excerpt": "As redevelopment in Hannam New Town gains pace around Zones 2 to 5, attention is growing on Zone 1, which has not yet been designated as a redevelopment district.",
+        "body": "Interest is growing in Hannam New Town Zone 1 as the broader redevelopment project gains speed around Zones 2 to 5. Zone 1 has not yet been designated as a formal redevelopment district, but it is being described as the remaining “final piece” of Hannam New Town. The current momentum is centered on Zones 2 through 5, where the project is moving faster, and that progress is drawing more attention to the area still outside the designation process. Based on the original report, Zone 1 has not reached the district designation stage. Its future designation and pace of progress are expected to remain key points of interest in the overall Hannam New Town redevelopment plan. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "漢南ニュータウン1区域に注目、2〜5区域加速で「最後のピース」関心高まる",
+        "excerpt": "漢南ニュータウン再開発が2〜5区域を中心に速度を上げる中、まだ整備区域に指定されていない1区域が「最後のピース」として注目されている。",
+        "body": "漢南ニュータウンの再開発事業が2〜5区域を中心に進展する中、まだ整備区域に指定されていない漢南1区域への関心が高まっている。漢南1区域は、漢南ニュータウンに残された「最後のピース」とされる地域だ。現在の事業の流れは、すでに速度を上げている2〜5区域を中心に形成されており、その動きが1区域への注目を高める背景となっている。ただし原文によれば、漢南1区域はまだ整備区域指定の段階には至っていない。今後、漢南ニュータウン全体の再開発構図の中で、1区域の指定可否と事業推進の速度が主要な関心事になる見通しだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "汉南新城1区受关注，2至5区提速下“最后拼图”热度上升",
+        "excerpt": "随着汉南新城再开发项目以2至5区为中心加快推进，尚未被指定为整备区的汉南1区正作为“最后一块拼图”受到关注。",
+        "body": "随着汉南新城再开发项目以2至5区为中心加快推进，市场对尚未被指定为整备区的汉南1区的关注正在升温。汉南1区被视为汉南新城中剩下的“最后一块拼图”。目前，项目推进的主要动能集中在已经提速的2至5区，这一局面也成为1区受到更多关注的背景。不过，根据原文信息，汉南1区目前尚未进入整备区指定阶段。未来，在汉南新城整体再开发格局中，1区能否获得指定以及项目推进速度，预计将继续成为主要关注点。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Hannam New Town Zona 1 gana foco como última pieza mientras avanzan Zonas 2 a 5",
+        "excerpt": "Mientras la reurbanización de Hannam New Town toma impulso en las Zonas 2 a 5, crece la atención sobre la Zona 1, aún no designada como distrito de renovación.",
+        "body": "El interés por la Zona 1 de Hannam New Town está aumentando a medida que el proyecto de reurbanización avanza con mayor ritmo en las Zonas 2 a 5. La Zona 1 todavía no ha sido designada como distrito de renovación, pero se la menciona como la “última pieza” restante dentro de Hannam New Town. El impulso actual se concentra en las Zonas 2 a 5, donde el desarrollo del proyecto está ganando velocidad, y ese contexto está elevando la atención sobre el área que aún queda fuera de la designación. Según el informe original, la Zona 1 no ha llegado todavía a esa etapa. Su eventual designación y el ritmo de avance seguirán siendo puntos clave dentro del plan general de Hannam New Town. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Zona 1 de Hannam New Town ganha foco como peça final com avanço das Zonas 2 a 5",
+        "excerpt": "Com a reurbanização de Hannam New Town avançando nas Zonas 2 a 5, cresce a atenção sobre a Zona 1, ainda não designada como área oficial de renovação.",
+        "body": "O interesse pela Zona 1 de Hannam New Town está crescendo à medida que o projeto de reurbanização ganha ritmo nas Zonas 2 a 5. A Zona 1 ainda não foi designada como área oficial de renovação, mas é vista como a “peça final” restante dentro de Hannam New Town. O movimento atual do projeto está concentrado nas Zonas 2 a 5, que avançam com mais velocidade, e esse cenário aumenta a atenção sobre a área que ainda não entrou na etapa de designação. Segundo a reportagem original, a Zona 1 não chegou a esse estágio. A possível designação e o ritmo futuro do projeto devem continuar como pontos centrais no quadro geral de reurbanização de Hannam New Town. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Hannam New Town Zone 1 rückt als letztes Puzzleteil bei Tempo in Zonen 2 bis 5 in den Fokus",
+        "excerpt": "Während die Sanierung von Hannam New Town vor allem in den Zonen 2 bis 5 schneller vorankommt, wächst das Interesse an Zone 1, die noch nicht ausgewiesen ist.",
+        "body": "Das Interesse an Zone 1 von Hannam New Town nimmt zu, während das Sanierungsprojekt vor allem in den Zonen 2 bis 5 an Tempo gewinnt. Zone 1 ist noch nicht als offizielles Sanierungsgebiet ausgewiesen, gilt aber als das verbleibende „letzte Puzzleteil“ innerhalb von Hannam New Town. Die aktuelle Dynamik konzentriert sich auf die Zonen 2 bis 5, in denen das Projekt schneller voranschreitet. Dieses Umfeld lenkt zusätzliche Aufmerksamkeit auf das Gebiet, das noch außerhalb der Ausweisung steht. Laut Originalbericht hat Zone 1 diese Stufe bisher nicht erreicht. Ob und wann die Ausweisung erfolgt und wie schnell das Projekt danach vorankommt, dürfte im Gesamtbild der Hannam-New-Town-Sanierung ein wichtiger Beobachtungspunkt bleiben. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Hannam New Town Zone 1 attire l’attention comme dernière pièce avec l’avancée des Zones 2 à 5",
+        "excerpt": "Alors que le réaménagement de Hannam New Town accélère autour des Zones 2 à 5, l’attention se porte sur la Zone 1, pas encore désignée comme secteur de rénovation.",
+        "body": "L’intérêt pour la Zone 1 de Hannam New Town augmente alors que le projet de réaménagement prend de la vitesse autour des Zones 2 à 5. La Zone 1 n’a pas encore été désignée comme secteur officiel de rénovation, mais elle est présentée comme la « dernière pièce » restante de Hannam New Town. La dynamique actuelle se concentre sur les Zones 2 à 5, où le projet progresse plus rapidement, et ce contexte attire davantage l’attention sur la zone encore en dehors du processus de désignation. Selon le rapport original, la Zone 1 n’a pas atteint cette étape. Sa future désignation et le rythme de son avancement devraient rester des points clés dans l’ensemble du plan de réaménagement de Hannam New Town. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "المنطقة 1 في هانام نيوتاون تحت الأضواء كآخر قطعة مع تسارع المناطق 2 إلى 5",
+        "excerpt": "مع تسارع مشروع إعادة تطوير هانام نيوتاون حول المناطق 2 إلى 5، يتزايد الاهتمام بالمنطقة 1 التي لم تُصنّف بعد كمنطقة تطوير رسمية.",
+        "body": "يتزايد الاهتمام بالمنطقة 1 في هانام نيوتاون مع تسارع مشروع إعادة التطوير في المناطق 2 إلى 5. ولم تُصنّف المنطقة 1 بعد كمنطقة تطوير رسمية، لكنها تُعد في التقرير الأصلي «القطعة الأخيرة» المتبقية من هانام نيوتاون. ويتركز الزخم الحالي في المناطق 2 إلى 5، حيث يمضي المشروع بوتيرة أسرع، ما يجعل الأنظار تتجه إلى المنطقة التي لا تزال خارج مرحلة التصنيف. وبحسب المعلومات الواردة في الأصل، لم تصل المنطقة 1 حتى الآن إلى مرحلة تعيينها كمنطقة تطوير. ومن المتوقع أن يظل ما إذا كانت ستُصنّف لاحقا، ومدى سرعة تقدمها، من أبرز نقاط المتابعة في المشهد العام لإعادة تطوير هانام نيوتاون. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "हन्नाम न्यू टाउन जोन 1 पर नजर, जोन 2 से 5 की तेजी के बीच अंतिम कड़ी बना मुद्दा",
+        "excerpt": "हन्नाम न्यू टाउन पुनर्विकास जोन 2 से 5 के आसपास तेजी पकड़ रहा है, जबकि अभी तक पुनर्विकास क्षेत्र घोषित न हुआ जोन 1 ‘अंतिम कड़ी’ के रूप में ध्यान खींच रहा है।",
+        "body": "हन्नाम न्यू टाउन पुनर्विकास परियोजना के जोन 2 से 5 के आसपास गति पकड़ने के साथ जोन 1 पर ध्यान बढ़ रहा है। जोन 1 को अब तक औपचारिक पुनर्विकास क्षेत्र के रूप में नामित नहीं किया गया है, लेकिन इसे हन्नाम न्यू टाउन की बची हुई “अंतिम कड़ी” माना जा रहा है। मौजूदा परियोजना की रफ्तार मुख्य रूप से जोन 2 से 5 में दिख रही है, और यही पृष्ठभूमि जोन 1 के प्रति रुचि बढ़ा रही है। मूल रिपोर्ट के अनुसार, जोन 1 अभी नामांकन चरण तक नहीं पहुंचा है। आगे हन्नाम न्यू टाउन की समग्र पुनर्विकास संरचना में जोन 1 को नामित किया जाता है या नहीं, और उसकी प्रगति कितनी तेज रहती है, यह प्रमुख ध्यान का विषय रहेगा। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Zona 1 Hannam New Town Disorot sebagai Bagian Terakhir Saat Zona 2 sampai 5 Melaju",
+        "excerpt": "Saat proyek pembangunan kembali Hannam New Town bergerak lebih cepat di Zona 2 sampai 5, perhatian meningkat pada Zona 1 yang belum ditetapkan sebagai kawasan penataan.",
+        "body": "Perhatian terhadap Zona 1 Hannam New Town meningkat seiring proyek pembangunan kembali bergerak lebih cepat di Zona 2 sampai 5. Zona 1 belum ditetapkan sebagai kawasan penataan resmi, tetapi disebut sebagai “bagian terakhir” yang tersisa dalam Hannam New Town. Saat ini, arus utama proyek terbentuk di sekitar Zona 2 sampai 5 yang sudah menunjukkan percepatan, dan situasi tersebut menjadi latar meningkatnya sorotan terhadap Zona 1. Berdasarkan laporan asli, Zona 1 belum mencapai tahap penetapan kawasan penataan. Ke depan, apakah Zona 1 akan ditetapkan dan seberapa cepat proyeknya bergerak diperkirakan tetap menjadi perhatian utama dalam kerangka pembangunan kembali Hannam New Town secara keseluruhan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "52fc7fd473cb",
+    "slug": "현대건설日이토추-수소-신사업-맞손-296177",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-14T10:03:47.936Z",
+    "updatedAt": "2026-05-14T10:03:47.936Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047825",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047825",
+    "titleFingerprint": "72fcfde8d6a8da1b9bc713278632b28e14130796",
+    "dedupKeys": [
+      "52fc7fd473cbfa9927bbd30251cc97a8184cd4ee",
+      "72fcfde8d6a8da1b9bc713278632b28e14130796",
+      "b0a379528e29a5de29168927c5e3961c36274751"
+    ],
+    "imageUrl": "/images/articles/52fc7fd473cb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대건설·이토추, 수소 생산·공급 신사업 협력 본격화",
+        "excerpt": "현대건설은 13일 일본 도쿄 이토추상사 본사에서 이토추상사와 수소 생산·공급 관련 신규 사업 협력에 나서며 수소 에너지 신사업 확대를 추진했다.",
+        "body": "현대건설이 일본 대표 종합상사인 이토추상사와 손잡고 수소 에너지 신사업에 나선다. 양사는 13일 일본 도쿄 이토추상사 본사에서 수소 생산·공급 관련 신규 사업 협력을 논의했다. 이번 협력은 수소 에너지 분야에서 생산과 공급을 중심으로 한 사업 기회를 함께 모색하는 데 초점이 맞춰졌다. 현대건설은 건설·인프라 역량을 바탕으로 수소 관련 신규 사업 확대를 추진하고, 이토추상사는 일본 종합상사로서의 네트워크와 사업 기반을 활용할 것으로 보인다. 양사의 협력이 구체화되면 수소 생산·공급 분야에서 한일 기업 간 협력 사례로 주목받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Hyundai E&C and Itochu move to cooperate on hydrogen production and supply",
+        "excerpt": "Hyundai E&C met Itochu on May 13 at Itochu’s Tokyo headquarters to pursue cooperation on new hydrogen production and supply businesses.",
+        "body": "Hyundai E&C is entering new hydrogen energy businesses in partnership with Itochu, one of Japan’s leading general trading companies. The two companies discussed cooperation on new businesses related to hydrogen production and supply on May 13 at Itochu’s headquarters in Tokyo, Japan. The cooperation focuses on jointly exploring business opportunities centered on producing and supplying hydrogen energy. Hyundai E&C is seeking to expand new hydrogen-related businesses based on its construction and infrastructure capabilities, while Itochu is expected to use its network and business base as a Japanese trading company. If the partnership takes shape, it is expected to draw attention as a Korea-Japan corporate cooperation case in hydrogen production and supply. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "現代建設と伊藤忠、水素の生産・供給新事業で協力へ",
+        "excerpt": "現代建設は13日、東京の伊藤忠商事本社で伊藤忠商事と水素の生産・供給に関する新規事業協力を進め、水素エネルギー分野の拡大を図った。",
+        "body": "現代建設が日本を代表する総合商社である伊藤忠商事と手を組み、水素エネルギーの新規事業に乗り出す。両社は13日、日本・東京の伊藤忠商事本社で、水素の生産・供給に関する新規事業協力について協議した。今回の協力は、水素エネルギー分野で生産と供給を中心とした事業機会を共に模索することに焦点を当てている。現代建設は建設・インフラ分野の力量を基盤に水素関連の新規事業拡大を推進し、伊藤忠商事は日本の総合商社としてのネットワークと事業基盤を活用するとみられる。協力が具体化すれば、水素の生産・供給分野における日韓企業の協力事例として注目される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "现代建设携手伊藤忠，推进氢能生产与供应新业务合作",
+        "excerpt": "现代建设13日在日本东京伊藤忠商事总部与伊藤忠商事就氢气生产和供应相关新业务展开合作，推动氢能业务扩展。",
+        "body": "现代建设将与日本代表性综合商社伊藤忠商事合作，进军氢能新业务。双方于13日在日本东京伊藤忠商事总部，就氢气生产和供应相关新业务合作进行了讨论。此次合作的重点，是在氢能领域共同寻找以生产和供应为核心的业务机会。现代建设将基于其建设和基础设施能力推进氢相关新业务扩展，伊藤忠商事则有望运用其作为日本综合商社的网络和业务基础。若双方合作进一步具体化，预计将成为韩日企业在氢气生产和供应领域合作的一个受关注案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Hyundai E&C e Itochu impulsan cooperación en hidrógeno y suministro",
+        "excerpt": "Hyundai E&C se reunió el 13 de mayo con Itochu en su sede de Tokio para cooperar en nuevos negocios vinculados a la producción y suministro de hidrógeno.",
+        "body": "Hyundai E&C entrará en nuevos negocios de energía de hidrógeno junto con Itochu, una de las principales compañías comerciales generales de Japón. Ambas empresas analizaron el 13 de mayo, en la sede de Itochu en Tokio, Japón, la cooperación en nuevos negocios relacionados con la producción y el suministro de hidrógeno. La colaboración se centra en explorar conjuntamente oportunidades de negocio en torno a la producción y el suministro de energía de hidrógeno. Hyundai E&C busca ampliar nuevos negocios vinculados al hidrógeno sobre la base de sus capacidades en construcción e infraestructura, mientras que Itochu utilizaría su red y base comercial como empresa japonesa de comercio general. Si la cooperación se concreta, podría atraer atención como un caso de colaboración empresarial entre Corea y Japón en producción y suministro de hidrógeno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Hyundai E&C e Itochu avançam em parceria para produção e oferta de hidrogênio",
+        "excerpt": "A Hyundai E&C reuniu-se em 13 de maio com a Itochu, na sede da empresa em Tóquio, para cooperar em novos negócios de produção e fornecimento de hidrogênio.",
+        "body": "A Hyundai E&C está entrando em novos negócios de energia de hidrogênio em parceria com a Itochu, uma das principais companhias gerais de comércio do Japão. As duas empresas discutiram, em 13 de maio, na sede da Itochu em Tóquio, Japão, a cooperação em novos negócios relacionados à produção e ao fornecimento de hidrogênio. A parceria se concentra em buscar conjuntamente oportunidades de negócios centradas na produção e no fornecimento de energia de hidrogênio. A Hyundai E&C pretende ampliar novos negócios ligados ao hidrogênio com base em suas capacidades de construção e infraestrutura, enquanto a Itochu deve utilizar sua rede e base de negócios como trading japonesa. Se a cooperação avançar, deverá chamar atenção como um caso de colaboração empresarial entre Coreia e Japão em produção e fornecimento de hidrogênio. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hyundai E&C und Itochu kooperieren bei Wasserstoffproduktion und Versorgung",
+        "excerpt": "Hyundai E&C traf Itochu am 13. Mai am Hauptsitz in Tokio, um eine Zusammenarbeit bei neuen Geschäften zur Wasserstoffproduktion und -versorgung voranzutreiben.",
+        "body": "Hyundai E&C steigt gemeinsam mit Itochu, einem führenden japanischen Handelshaus, in neue Geschäfte im Bereich Wasserstoffenergie ein. Die beiden Unternehmen besprachen am 13. Mai am Hauptsitz von Itochu in Tokio, Japan, eine Zusammenarbeit bei neuen Projekten zur Wasserstoffproduktion und -versorgung. Im Mittelpunkt steht die gemeinsame Suche nach Geschäftsmöglichkeiten rund um Produktion und Versorgung im Wasserstoffenergiesektor. Hyundai E&C will seine Bau- und Infrastrukturkompetenz nutzen, um neue wasserstoffbezogene Geschäfte auszubauen, während Itochu voraussichtlich sein Netzwerk und seine Geschäftsbasis als japanisches Handelshaus einbringt. Wenn die Kooperation konkreter wird, dürfte sie als Beispiel für eine koreanisch-japanische Unternehmenszusammenarbeit bei Wasserstoffproduktion und -versorgung Aufmerksamkeit erhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hyundai E&C et Itochu s’allient dans la production et l’approvisionnement en hydrogène",
+        "excerpt": "Hyundai E&C a rencontré Itochu le 13 mai au siège de l’entreprise à Tokyo afin de coopérer sur de nouvelles activités liées à la production et à l’approvisionnement en hydrogène.",
+        "body": "Hyundai E&C se lance dans de nouvelles activités liées à l’énergie hydrogène en partenariat avec Itochu, l’une des grandes maisons de commerce japonaises. Les deux entreprises ont discuté le 13 mai, au siège d’Itochu à Tokyo, au Japon, d’une coopération sur de nouveaux projets liés à la production et à l’approvisionnement en hydrogène. Cette coopération vise à explorer ensemble des opportunités commerciales centrées sur la production et la fourniture d’énergie hydrogène. Hyundai E&C cherche à développer de nouvelles activités liées à l’hydrogène en s’appuyant sur ses capacités dans la construction et les infrastructures, tandis qu’Itochu devrait mobiliser son réseau et sa base commerciale de société japonaise de négoce général. Si le partenariat se concrétise, il devrait attirer l’attention comme exemple de coopération entre entreprises coréennes et japonaises dans la production et l’approvisionnement en hydrogène. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيونداي للهندسة وإيتوتشو تتعاونان في إنتاج الهيدروجين وتوريده",
+        "excerpt": "اجتمعت هيونداي للهندسة والإنشاءات مع إيتوتشو في 13 مايو بمقرها في طوكيو لبحث التعاون في أعمال جديدة مرتبطة بإنتاج الهيدروجين وتوريده.",
+        "body": "تتجه هيونداي للهندسة والإنشاءات إلى أعمال جديدة في طاقة الهيدروجين بالشراكة مع إيتوتشو، إحدى أبرز شركات التجارة العامة في اليابان. وناقشت الشركتان في 13 مايو، في مقر إيتوتشو بطوكيو في اليابان، التعاون في أعمال جديدة مرتبطة بإنتاج الهيدروجين وتوريده. ويركز هذا التعاون على البحث المشترك عن فرص أعمال تتمحور حول إنتاج طاقة الهيدروجين وتوفيرها. وتسعى هيونداي للهندسة والإنشاءات إلى توسيع الأعمال الجديدة المرتبطة بالهيدروجين اعتمادا على قدراتها في البناء والبنية التحتية، بينما من المتوقع أن تستفيد إيتوتشو من شبكتها وقاعدتها التجارية كشركة تجارة عامة يابانية. وإذا تبلور التعاون، فمن المتوقع أن يحظى بالاهتمام كنموذج لتعاون الشركات الكورية واليابانية في إنتاج الهيدروجين وتوريده. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Hyundai E&C और Itochu हाइड्रोजन उत्पादन व आपूर्ति कारोबार में साथ",
+        "excerpt": "Hyundai E&C ने 13 मई को टोक्यो स्थित Itochu मुख्यालय में हाइड्रोजन उत्पादन और आपूर्ति से जुड़े नए कारोबार में सहयोग आगे बढ़ाने पर चर्चा की।",
+        "body": "Hyundai E&C जापान की प्रमुख जनरल ट्रेडिंग कंपनी Itochu के साथ मिलकर हाइड्रोजन ऊर्जा के नए कारोबार में उतर रही है। दोनों कंपनियों ने 13 मई को जापान के टोक्यो में Itochu के मुख्यालय में हाइड्रोजन उत्पादन और आपूर्ति से जुड़े नए कारोबार में सहयोग पर चर्चा की। इस सहयोग का केंद्र हाइड्रोजन ऊर्जा क्षेत्र में उत्पादन और आपूर्ति आधारित व्यावसायिक अवसरों को मिलकर तलाशना है। Hyundai E&C निर्माण और अवसंरचना क्षमताओं के आधार पर हाइड्रोजन से जुड़े नए कारोबार का विस्तार करना चाहती है, जबकि Itochu जापानी जनरल ट्रेडिंग कंपनी के रूप में अपने नेटवर्क और कारोबारी आधार का उपयोग कर सकती है। यदि सहयोग ठोस रूप लेता है, तो यह हाइड्रोजन उत्पादन और आपूर्ति क्षेत्र में कोरियाई और जापानी कंपनियों के सहयोग के उदाहरण के रूप में ध्यान आकर्षित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hyundai E&C dan Itochu jajaki kerja sama produksi serta pasokan hidrogen",
+        "excerpt": "Hyundai E&C bertemu Itochu pada 13 Mei di kantor pusat Itochu, Tokyo, untuk mendorong kerja sama bisnis baru terkait produksi dan pasokan hidrogen.",
+        "body": "Hyundai E&C memasuki bisnis baru energi hidrogen melalui kemitraan dengan Itochu, salah satu perusahaan perdagangan umum terkemuka di Jepang. Kedua perusahaan pada 13 Mei membahas kerja sama bisnis baru terkait produksi dan pasokan hidrogen di kantor pusat Itochu di Tokyo, Jepang. Kerja sama ini berfokus pada upaya bersama mencari peluang bisnis yang berpusat pada produksi dan pasokan energi hidrogen. Hyundai E&C mendorong perluasan bisnis baru terkait hidrogen berdasarkan kemampuan konstruksi dan infrastrukturnya, sementara Itochu diperkirakan memanfaatkan jaringan dan basis bisnisnya sebagai perusahaan perdagangan umum Jepang. Jika kerja sama ini menjadi lebih konkret, kemitraan tersebut diperkirakan menarik perhatian sebagai contoh kolaborasi perusahaan Korea dan Jepang di bidang produksi serta pasokan hidrogen. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "55bfca9dab13",
     "slug": "건설레저-실적서-쌍끌이-코오롱글로벌-부활-신호탄-726775",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Fire Luncurkan Asuransi Khusus Mobil Otonom, Tanggung Hingga ₩10 Miliar",
         "excerpt": "Samsung Fire pada tanggal 13 menyatakan telah menandatangani perjanjian multilateral dalam acara yang dipimpin Kementerian Pertanahan dan akan meluncurkan asuransi khusus kendaraan otonom pertama di industri.",
         "body": "Samsung Fire & Marine Insurance menyatakan pada tanggal 13 bahwa perusahaan menghadiri upacara peluncuran tim nasional kendaraan otonom Korea yang diselenggarakan Kementerian Pertanahan, Infrastruktur, dan Transportasi, serta menandatangani perjanjian kerja multilateral untuk membangun kota uji kendaraan otonom. Melalui perjanjian ini, Samsung Fire akan meluncurkan asuransi khusus kendaraan otonom pertama di industri, dengan perlindungan hingga ₩10 miliar per kecelakaan dan total ₩30 miliar per tahun. Produk ini berbasis layanan satu pintu yang menangani proses dari pendaftaran asuransi hingga penyelesaian kecelakaan. Samsung Fire juga berencana menyediakan layanan khusus perusahaan, termasuk analisis kecelakaan dan konsultasi keamanan teknologi informasi. Asuransi ini diperkirakan akan digunakan untuk menjawab kebutuhan manajemen risiko perusahaan dalam pembangunan kota demonstrasi kendaraan otonom. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "885a4547d094",
-    "slug": "공정위-재계-저승사자-조사국-21년만에-부활-검토-490069",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T17:53:47.651Z",
-    "updatedAt": "2026-05-13T17:53:47.651Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917401/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917401/2",
-    "titleFingerprint": "d0a03e321ecfe9241127d2aa9dc6369ab4d5abc7",
-    "dedupKeys": [
-      "885a4547d094cc8d1153f86ac3e41614bc667129",
-      "d0a03e321ecfe9241127d2aa9dc6369ab4d5abc7",
-      "82fdc943cac1a53ba3dff79fb3fc13c4f7728edb"
-    ],
-    "imageUrl": "/images/articles/885a4547d094.jpg",
-    "i18n": {
-      "ko": {
-        "title": "공정위 조사국 부활 검토, 대기업 조사 기능 21년 만에 강화되나",
-        "excerpt": "공정거래위원회가 올 하반기 조직개편에서 정원 약 230명 증원과 중점조사팀의 국 단위 격상을 협의하며 조사 기능 강화를 추진하고 있다.",
-        "body": "공정거래위원회가 대기업 조사를 담당하며 ‘재계 저승사자’로 불렸던 조사국을 21년 만에 사실상 부활시키는 방안을 검토하고 있다. 공정위는 올해 하반기인 7∼12월 조직개편 과정에서 정원을 약 230명 늘리는 방안을 기획예산처, 행정안전부 등과 협의 중이다. 이는 이재명 대통령이 지난해 말 업무보고에서 인력 부족으로 업무가 지연되지 않도록 인원을 대폭 늘리라고 지시한 데 따른 후속 조치다. 공정위는 조사와 분석 기능을 크게 강화할 계획이며, 2024년 신설된 7명 규모 중점조사팀을 대폭 확대해 국 단위 조직으로 격상하는 방안을 추진하고 있다. 중점조사팀은 여러 법률 위반이 얽힌 주요 사건 조사를 위해 만들어졌지만 인력 부족 한계가 지적돼 왔다. 국 단위 격상이 이뤄지면 2005년 폐지된 조사국의 사실상 부활이라는 분석이 나온다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "FTC Korea Weighs Reviving Investigation Bureau After 21 Years",
-        "excerpt": "Korea’s Fair Trade Commission is discussing a second-half reorganization that would add about 230 staff and elevate its key investigation team to bureau level.",
-        "body": "Korea’s Fair Trade Commission is considering a plan that would effectively revive its Investigation Bureau, once known for handling probes into major conglomerates, 21 years after it was abolished. During a reorganization planned for the second half of this year, from July to December, the FTC is consulting with the Ministry of Planning and Budget, the Ministry of the Interior and Safety, and others on increasing its headcount by about 230. The move follows President Lee Jae-myung’s instruction at a late-year FTC briefing to sharply expand staffing so work would not be delayed by personnel shortages. The FTC plans to strengthen its investigation and analysis functions. As part of that effort, it is seeking to greatly expand the seven-member key investigation team created in 2024 and raise it to bureau status. The team was set up to investigate major cases involving multiple legal violations, but concerns have persisted over staffing limits. If upgraded, analysts say it would amount to the revival of the bureau abolished in 2005. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国公取委、調査局の復活を検討 大企業調査機能を21年ぶり強化へ",
-        "excerpt": "韓国公正取引委員会は下半期の組織改編で定員約230人増と重点調査チームの局格上げを協議し、調査機能の強化を進めている。",
-        "body": "韓国公正取引委員会が、大企業調査を担い「財界の死神」と呼ばれた調査局を21年ぶりに事実上復活させる案を検討している。公取委は今年下半期の7～12月に予定する組織改編で、定員を約230人増やす案について企画予算処、行政安全部などと協議している。これは李在明大統領が昨年末の業務報告で、人員不足により業務が遅れないよう大幅増員を指示したことを受けた後続措置だ。公取委は調査と分析機能を大きく強化する方針で、その一環として2024年に新設された7人規模の重点調査チームを大幅に拡充し、局単位の組織へ格上げする案を進めている。同チームは複数の法律違反が絡む主要事件の調査のため設けられたが、人員不足による限界が指摘されてきた。局単位への格上げが実現すれば、2005年に廃止された調査局の事実上の復活との見方が出ている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国公正委考虑重启调查局，21年后强化大企业调查职能",
-        "excerpt": "韩国公正交易委员会正就下半年组织改编进行协商，拟增员约230人，并将重点调查组升格为局级组织以强化调查职能。",
-        "body": "韩国公正交易委员会正在考虑一项方案，拟在调查局废止21年后，将这一曾负责大企业调查、被称为“财界死神”的组织实质性恢复。公正委计划在今年下半年7月至12月的组织改编过程中，就增加约230名定员一事与企划预算处、行政安全部等部门协商。此举是对李在明总统去年年末在公正委业务报告中要求大幅增员、避免因人手不足导致工作延误的后续措施。公正委计划大幅强化调查和分析职能，其中包括把2024年新设、目前仅7人的重点调查组大幅扩大，并推动其升格为局级组织。重点调查组原本是为调查涉及多项法律违规的重大案件而设立，但外界一直指出其受人手不足限制。若升格为局级组织，有分析认为这等同于2005年被废止的调查局事实上复活。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Corea del Sur evalúa revivir la oficina investigadora antimonopolio tras 21 años",
-        "excerpt": "La Comisión de Comercio Justo de Corea negocia una reorganización para el segundo semestre con unos 230 nuevos puestos y la elevación del equipo clave de investigación.",
-        "body": "La Comisión de Comercio Justo de Corea del Sur estudia un plan que equivaldría a revivir, 21 años después de su eliminación, la oficina de investigación que se encargaba de las pesquisas sobre grandes conglomerados y era conocida como el “ángel de la muerte” del mundo empresarial. En la reorganización prevista para el segundo semestre de este año, de julio a diciembre, la comisión conversa con el Ministerio de Planificación y Presupuesto, el Ministerio del Interior y Seguridad y otros organismos para aumentar su plantilla en unas 230 personas. La medida sigue la instrucción del presidente Lee Jae-myung, dada en un informe de trabajo a fines del año pasado, de ampliar notablemente el personal para evitar retrasos por falta de recursos humanos. La comisión busca reforzar sus funciones de investigación y análisis. Para ello, impulsa ampliar de forma sustancial el equipo de investigación clave, creado en 2024 con siete integrantes, y elevarlo a nivel de oficina. El equipo fue creado para investigar casos importantes con múltiples infracciones legales, pero se habían señalado límites por falta de personal. Si se eleva de rango, se considera una recuperación de facto de la oficina abolida en 2005. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Coreia do Sul avalia recriar agência investigativa antitruste após 21 anos",
-        "excerpt": "A Comissão de Comércio Justo da Coreia discute uma reorganização no segundo semestre para ampliar o quadro em cerca de 230 pessoas e elevar sua equipe-chave de investigação.",
-        "body": "A Comissão de Comércio Justo da Coreia do Sul avalia um plano que, na prática, recriaria após 21 anos o departamento de investigação responsável por apurações sobre grandes conglomerados, antes conhecido como o “anjo da morte” do setor empresarial. Na reorganização prevista para o segundo semestre deste ano, de julho a dezembro, a comissão negocia com o Ministério do Planejamento e Orçamento, o Ministério do Interior e Segurança e outros órgãos a ampliação do quadro em cerca de 230 pessoas. A medida segue uma orientação do presidente Lee Jae-myung, feita em relatório de trabalho no fim do ano passado, para aumentar fortemente o pessoal e evitar atrasos causados por falta de servidores. A comissão pretende reforçar suas funções de investigação e análise. Como parte disso, busca expandir substancialmente a equipe-chave de investigação, criada em 2024 com sete integrantes, e elevá-la ao nível de departamento. A equipe foi criada para investigar casos importantes envolvendo várias violações legais, mas vinha sendo apontada como limitada pela falta de pessoal. Se a elevação ocorrer, analistas afirmam que isso equivalerá à volta de fato do departamento abolido em 2005. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Südkorea prüft Wiederbelebung der Kartell-Ermittlungsbehörde nach 21 Jahren",
-        "excerpt": "Die Fair Trade Commission Südkoreas verhandelt über eine Neuordnung im zweiten Halbjahr, rund 230 zusätzliche Stellen und die Aufwertung ihres Schwerpunkt-Ermittlungsteams.",
-        "body": "Die südkoreanische Fair Trade Commission prüft einen Plan, der faktisch die Wiederbelebung ihres Ermittlungsbüros bedeuten würde, das einst Untersuchungen gegen große Unternehmensgruppen führte und vor 21 Jahren abgeschafft wurde. Im Zuge einer für das zweite Halbjahr dieses Jahres, Juli bis Dezember, geplanten Organisationsreform spricht die Behörde mit dem Ministerium für Planung und Haushalt, dem Ministerium für Inneres und Sicherheit sowie weiteren Stellen über eine Aufstockung um rund 230 Beschäftigte. Der Schritt folgt einer Anweisung von Präsident Lee Jae-myung bei einem Arbeitsbericht Ende vergangenen Jahres, das Personal deutlich zu erhöhen, damit Aufgaben nicht durch Personalmangel verzögert werden. Die FTC will ihre Ermittlungs- und Analysefunktionen stark ausbauen. Dazu soll das 2024 eingerichtete Schwerpunkt-Ermittlungsteam mit derzeit sieben Mitgliedern deutlich erweitert und auf Büroebene angehoben werden. Das Team wurde geschaffen, um wichtige Fälle mit mehreren Rechtsverstößen zu untersuchen, doch es gab wiederholt Hinweise auf Grenzen wegen Personalmangels. Wird es aufgewertet, gilt dies als faktische Rückkehr des 2005 abgeschafften Ermittlungsbüros. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "La Corée du Sud envisage de relancer son bureau d’enquête antitrust après 21 ans",
-        "excerpt": "La Fair Trade Commission sud-coréenne discute d’une réorganisation au second semestre, avec environ 230 postes en plus et la promotion de son équipe clé d’enquête.",
-        "body": "La Fair Trade Commission sud-coréenne examine un plan qui reviendrait à rétablir, 21 ans après sa suppression, le bureau d’enquête chargé autrefois des investigations sur les grands conglomérats. Lors de la réorganisation prévue au second semestre de cette année, de juillet à décembre, l’autorité discute avec le ministère de la Planification et du Budget, le ministère de l’Intérieur et de la Sécurité et d’autres organismes d’une hausse d’environ 230 postes. Cette mesure fait suite à l’instruction du président Lee Jae-myung, donnée lors d’un rapport d’activité à la fin de l’an dernier, d’augmenter fortement les effectifs afin d’éviter les retards dus au manque de personnel. La commission prévoit de renforcer nettement ses fonctions d’enquête et d’analyse. Elle pousse notamment à élargir fortement l’équipe d’enquête prioritaire, créée en 2024 et composée de sept personnes, puis à l’élever au rang de bureau. Cette équipe avait été mise en place pour examiner des affaires majeures mêlant plusieurs violations de la loi, mais ses limites liées au sous-effectif avaient été signalées. Si elle est promue, cela serait vu comme une résurrection de fait du bureau supprimé en 2005. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كوريا الجنوبية تدرس إحياء مكتب تحقيقات مكافحة الاحتكار بعد 21 عاما",
-        "excerpt": "تبحث لجنة التجارة العادلة الكورية إعادة تنظيم في النصف الثاني تشمل زيادة نحو 230 موظفا ورفع فريق التحقيقات الرئيسية إلى مستوى مكتب.",
-        "body": "تدرس لجنة التجارة العادلة في كوريا الجنوبية خطة تعني عمليا إحياء مكتب التحقيقات الذي كان يتولى التحقيق مع التكتلات الكبرى، وذلك بعد 21 عاما من إلغائه. وخلال إعادة تنظيم مقررة في النصف الثاني من هذا العام، من يوليو إلى ديسمبر، تتشاور اللجنة مع وزارة التخطيط والميزانية ووزارة الداخلية والسلامة وجهات أخرى بشأن زيادة عدد العاملين بنحو 230 شخصا. وتأتي الخطوة كإجراء لاحق لتوجيه الرئيس لي جاي ميونغ في تقرير عمل أواخر العام الماضي بزيادة الموظفين بدرجة كبيرة حتى لا تتأخر الأعمال بسبب نقص القوى العاملة. وتخطط اللجنة لتعزيز وظائف التحقيق والتحليل بشكل كبير. وفي هذا الإطار، تسعى إلى توسيع فريق التحقيقات الرئيسية، الذي أُنشئ في 2024 ويضم حاليا سبعة أعضاء، ورفعه إلى مستوى مكتب. وقد أُنشئ الفريق للتحقيق في القضايا الكبرى التي تتشابك فيها عدة مخالفات قانونية، لكن الانتقادات استمرت بشأن محدوديته بسبب نقص الأفراد. وإذا تمت ترقيته إلى مستوى مكتب، فسيُنظر إلى ذلك على أنه إحياء فعلي لمكتب التحقيقات الملغى في 2005. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया 21 साल बाद एंटीट्रस्ट जांच ब्यूरो बहाल करने पर विचार कर रहा है",
-        "excerpt": "दक्षिण कोरिया का फेयर ट्रेड कमीशन दूसरी छमाही के पुनर्गठन में करीब 230 पद बढ़ाने और प्रमुख जांच टीम को ब्यूरो स्तर पर उठाने पर चर्चा कर रहा है।",
-        "body": "दक्षिण कोरिया का फेयर ट्रेड कमीशन उस जांच ब्यूरो को वस्तुतः फिर से शुरू करने की योजना पर विचार कर रहा है, जो बड़े कारोबारी समूहों की जांच संभालता था और 21 साल पहले समाप्त कर दिया गया था। इस साल जुलाई से दिसंबर तक होने वाले दूसरी छमाही के संगठनात्मक पुनर्गठन में आयोग करीब 230 कर्मचारियों की वृद्धि पर योजना और बजट मंत्रालय, आंतरिक और सुरक्षा मंत्रालय तथा अन्य संस्थाओं से चर्चा कर रहा है। यह कदम राष्ट्रपति ली जे-म्युंग के पिछले साल के अंत में दिए निर्देश के बाद उठाया जा रहा है, जिसमें उन्होंने कहा था कि कर्मचारियों की कमी के कारण काम में देरी न हो, इसलिए संख्या में बड़ा इजाफा किया जाए। आयोग अपनी जांच और विश्लेषण क्षमता को मजबूत करना चाहता है। इसी के तहत 2024 में बनी सात सदस्यीय प्रमुख जांच टीम को काफी विस्तार देकर ब्यूरो स्तर पर ले जाने की तैयारी है। यह टीम कई कानून उल्लंघनों से जुड़े बड़े मामलों की जांच के लिए बनाई गई थी, लेकिन कर्मचारियों की कमी को लेकर इसकी सीमाएं बताई जाती रही हैं। अगर इसे ब्यूरो स्तर मिला, तो इसे 2005 में समाप्त जांच ब्यूरो की वास्तविक वापसी माना जाएगा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Korea Selatan Kaji Hidupkan Lagi Biro Investigasi Antimonopoli Setelah 21 Tahun",
-        "excerpt": "Komisi Perdagangan Adil Korea membahas reorganisasi paruh kedua dengan tambahan sekitar 230 pegawai dan peningkatan tim investigasi utama menjadi setingkat biro.",
-        "body": "Komisi Perdagangan Adil Korea Selatan sedang mempertimbangkan rencana yang secara praktis akan menghidupkan kembali biro investigasi yang dulu menangani penyelidikan terhadap konglomerat besar, 21 tahun setelah dibubarkan. Dalam reorganisasi yang direncanakan pada paruh kedua tahun ini, Juli hingga Desember, komisi itu berdiskusi dengan Kementerian Perencanaan dan Anggaran, Kementerian Dalam Negeri dan Keselamatan, serta pihak lain untuk menambah sekitar 230 pegawai. Langkah ini merupakan tindak lanjut atas instruksi Presiden Lee Jae-myung dalam laporan kerja akhir tahun lalu agar jumlah personel ditambah besar-besaran sehingga pekerjaan tidak tertunda karena kekurangan staf. Komisi berencana memperkuat fungsi investigasi dan analisis. Sebagai bagian dari itu, tim investigasi utama yang dibentuk pada 2024 dengan tujuh anggota akan diperluas secara signifikan dan diupayakan naik menjadi organisasi setingkat biro. Tim itu dibuat untuk menyelidiki kasus besar yang melibatkan berbagai pelanggaran hukum, tetapi keterbatasan akibat kurangnya personel terus disorot. Jika naik ke tingkat biro, hal itu dipandang sebagai kebangkitan de facto biro investigasi yang dihapus pada 2005. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "0a3e36b8c801",
-    "slug": "한전-1분기-영업익-37조-중동戰-영향-2분기부터-반영-968662",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T17:52:21.810Z",
-    "updatedAt": "2026-05-13T17:52:21.810Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917405/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917405/2",
-    "titleFingerprint": "5120dbcc9346f8d572d0cf960d2b8cd436367e6a",
-    "dedupKeys": [
-      "0a3e36b8c8011c24ec88cb3f672588f59cdcd725",
-      "5120dbcc9346f8d572d0cf960d2b8cd436367e6a",
-      "3da48b83840676daf6bb84db1ae7e58eb3d9f4d4"
-    ],
-    "imageUrl": "/images/articles/0a3e36b8c801.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한전 1분기 영업이익 3.78조원, 중동 전쟁 여파는 2분기부터 반영",
-        "excerpt": "한국전력은 13일 올해 1분기 연결 기준 영업이익 3조7842억 원을 기록했다고 공시했으며, 중동 전쟁에 따른 에너지 가격 상승 영향은 2분기부터 반영될 전망이다.",
-        "body": "한국전력은 13일 올해 1분기(1∼3월) 연결 기준 매출 24조3985억 원, 영업이익 3조7842억 원을 달성했다고 공시했다. 영업이익은 동기 기준 역대 최대였지만 증권업계 전망에는 다소 못 미쳤다. 매출은 전년 동기 대비 0.7%, 영업이익은 0.8% 늘었고, 당기순이익은 2조5190억 원으로 6.7% 증가했다. 한전은 2023년 3분기 흑자 전환 이후 11개 분기 연속 흑자를 이어갔다. 다만 2월 말 중동 전쟁 이후 국제 유가와 액화천연가스(LNG) 가격이 급등했지만, 1분기 실적에는 제대로 반영되지 않았다. 한전은 해당 영향이 2분기부터 시차를 두고 실적과 자금 조달에 영향을 줄 것이라고 설명했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "KEPCO posts Q1 operating profit of 3.78 trillion won as Middle East war impact awaits Q2",
-        "excerpt": "Korea Electric Power said on the 13th that Q1 consolidated operating profit reached 3.7842 trillion won, while higher energy prices from the Middle East war are expected to affect results from Q2.",
-        "body": "Korea Electric Power Corp. said on the 13th that its consolidated revenue for the first quarter of this year, from January to March, reached 24.3985 trillion won, with operating profit of 3.7842 trillion won. The operating profit was the largest ever for the same period, but it fell somewhat short of securities industry forecasts. Revenue rose 0.7% from a year earlier, operating profit increased 0.8%, and net profit grew 6.7% to 2.519 trillion won. KEPCO has now remained profitable for 11 consecutive quarters since turning to profit in the third quarter of 2023. However, international oil and liquefied natural gas prices surged after the Middle East war in late February, and that rise was not fully reflected in Q1 results. KEPCO said the impact will affect earnings and funding with a lag from Q2. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓電、第1四半期営業益3.78兆ウォン 中東戦争の影響は第2四半期から反映へ",
-        "excerpt": "韓国電力は13日、今年第1四半期の連結営業利益が3兆7842億ウォンだったと公示し、中東戦争によるエネルギー価格上昇の影響は第2四半期から反映される見通しだ。",
-        "body": "韓国電力は13日、今年第1四半期（1～3月）の連結売上高が24兆3985億ウォン、営業利益が3兆7842億ウォンだったと公示した。営業利益は同期基準で過去最大だったが、証券業界の予想にはやや届かなかった。売上高は前年同期比0.7%、営業利益は0.8%増え、純利益は2兆5190億ウォンで6.7%増加した。韓電は2023年第3四半期に黒字転換して以降、11四半期連続の黒字を維持した。ただし、2月末の中東戦争後に国際原油価格と液化天然ガス（LNG）価格が急騰したものの、第1四半期の業績には十分反映されなかった。韓電は、この影響が第2四半期から時差を置いて業績と資金調達に影響すると説明した。出所: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国电力一季度营业利润3.78万亿韩元，中东战争影响将自二季度体现",
-        "excerpt": "韩国电力13日公告称，今年一季度合并营业利润为3.7842万亿韩元，中东战争引发的能源价格上涨影响预计将从二季度起反映。",
-        "body": "韩国电力13日公告称，今年第一季度（1月至3月）合并口径销售额为24.3985万亿韩元，营业利润为3.7842万亿韩元。营业利润创下同期历史最高纪录，但略低于证券业预期。销售额同比增长0.7%，营业利润增长0.8%，净利润为2.519万亿韩元，增长6.7%。自2023年第三季度转为盈利以来，韩国电力已连续11个季度保持盈利。不过，2月末中东战争后，国际油价和液化天然气（LNG）价格大幅上涨，但这一因素并未充分反映在第一季度业绩中。韩国电力表示，相关影响将从第二季度起滞后反映到业绩和资金筹措中。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "KEPCO logra 3,78 billones de wones de beneficio operativo en Q1; impacto de Medio Oriente llegará en Q2",
-        "excerpt": "Korea Electric Power informó el día 13 que su beneficio operativo consolidado del primer trimestre fue de 3,7842 billones de wones, mientras el alza energética por la guerra en Medio Oriente se reflejará desde Q2.",
-        "body": "Korea Electric Power Corp. informó el día 13 que en el primer trimestre de este año, de enero a marzo, registró ingresos consolidados de 24,3985 billones de wones y un beneficio operativo de 3,7842 billones de wones. El beneficio operativo fue el mayor de la historia para ese periodo, aunque quedó algo por debajo de las previsiones del sector bursátil. Los ingresos aumentaron un 0,7% interanual, el beneficio operativo un 0,8% y el beneficio neto un 6,7%, hasta 2,5190 billones de wones. KEPCO acumula así 11 trimestres consecutivos en beneficios desde que volvió a números positivos en el tercer trimestre de 2023. Sin embargo, tras la guerra en Medio Oriente a finales de febrero, los precios internacionales del petróleo y del gas natural licuado (GNL) se dispararon, sin reflejarse plenamente en los resultados del primer trimestre. La empresa dijo que el impacto afectará resultados y financiación con retraso desde Q2. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "KEPCO registra lucro operacional de 3,78 tri de wons no 1º tri; impacto do Oriente Médio virá no 2º tri",
-        "excerpt": "A Korea Electric Power informou no dia 13 que seu lucro operacional consolidado no 1º trimestre foi de 3,7842 trilhões de wons, e que a alta da energia após a guerra no Oriente Médio deve pesar a partir do 2º trimestre.",
-        "body": "A Korea Electric Power Corp. informou no dia 13 que, no primeiro trimestre deste ano, de janeiro a março, registrou receita consolidada de 24,3985 trilhões de wons e lucro operacional de 3,7842 trilhões de wons. O lucro operacional foi o maior já registrado para o período, mas ficou um pouco abaixo das previsões do mercado financeiro. A receita subiu 0,7% em relação ao ano anterior, o lucro operacional avançou 0,8% e o lucro líquido cresceu 6,7%, para 2,5190 trilhões de wons. A KEPCO manteve assim 11 trimestres consecutivos de lucro desde a virada para o positivo no terceiro trimestre de 2023. No entanto, após a guerra no Oriente Médio no fim de fevereiro, os preços internacionais do petróleo e do gás natural liquefeito (GNL) dispararam, sem refletir plenamente nos resultados do 1º trimestre. A empresa disse que o impacto afetará resultados e captação de recursos a partir do 2º trimestre. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "KEPCO erzielt im ersten Quartal 3,78 Billionen Won operativen Gewinn; Nahost-Krieg wirkt ab Q2",
-        "excerpt": "Korea Electric Power meldete am 13. für das erste Quartal einen konsolidierten operativen Gewinn von 3,7842 Billionen Won; der Preisschub bei Energie infolge des Nahost-Kriegs dürfte ab Q2 sichtbar werden.",
-        "body": "Korea Electric Power Corp. gab am 13. bekannt, dass der konsolidierte Umsatz im ersten Quartal dieses Jahres von Januar bis März 24,3985 Billionen Won und der operative Gewinn 3,7842 Billionen Won erreichte. Der operative Gewinn war für diesen Zeitraum ein Rekordwert, blieb jedoch etwas unter den Erwartungen der Wertpapierbranche. Der Umsatz stieg gegenüber dem Vorjahr um 0,7%, der operative Gewinn um 0,8%, und der Nettogewinn legte um 6,7% auf 2,5190 Billionen Won zu. KEPCO blieb damit seit der Rückkehr in die Gewinnzone im dritten Quartal 2023 elf Quartale in Folge profitabel. Allerdings stiegen nach dem Nahost-Krieg Ende Februar die internationalen Preise für Öl und Flüssigerdgas (LNG) stark an, was sich im ersten Quartal noch nicht vollständig niederschlug. KEPCO erklärte, die Auswirkungen würden ab dem zweiten Quartal zeitverzögert Ergebnisse und Finanzierung beeinflussen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "KEPCO affiche 3,78 billions de wons de bénéfice opérationnel au T1; l’effet Moyen-Orient attendu au T2",
-        "excerpt": "Korea Electric Power a annoncé le 13 un bénéfice opérationnel consolidé de 3,7842 billions de wons au premier trimestre, tandis que la hausse de l’énergie liée à la guerre au Moyen-Orient devrait peser dès le T2.",
-        "body": "Korea Electric Power Corp. a annoncé le 13 que son chiffre d’affaires consolidé du premier trimestre de cette année, de janvier à mars, avait atteint 24,3985 billions de wons, avec un bénéfice opérationnel de 3,7842 billions de wons. Ce bénéfice opérationnel est un record pour la période, mais il est resté légèrement inférieur aux prévisions du secteur financier. Le chiffre d’affaires a progressé de 0,7% sur un an, le bénéfice opérationnel de 0,8%, et le bénéfice net de 6,7%, à 2,5190 billions de wons. KEPCO enchaîne ainsi 11 trimestres bénéficiaires depuis son retour dans le vert au troisième trimestre 2023. Toutefois, après la guerre au Moyen-Orient fin février, les prix internationaux du pétrole et du gaz naturel liquéfié (GNL) ont fortement augmenté, sans être pleinement reflétés dans les résultats du premier trimestre. KEPCO a indiqué que l’impact touchera les résultats et le financement avec un décalage à partir du deuxième trimestre. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كيبكو تسجل 3.78 تريليون وون أرباحا تشغيلية في الربع الأول وتأثير حرب الشرق الأوسط يبدأ في الربع الثاني",
-        "excerpt": "أعلنت شركة كوريا للطاقة الكهربائية في 13 أن أرباحها التشغيلية الموحدة في الربع الأول بلغت 3.7842 تريليون وون، فيما سيظهر أثر ارتفاع أسعار الطاقة بعد حرب الشرق الأوسط من الربع الثاني.",
-        "body": "أعلنت شركة كوريا للطاقة الكهربائية في 13 أن إيراداتها الموحدة في الربع الأول من هذا العام، من يناير إلى مارس، بلغت 24.3985 تريليون وون، فيما سجلت أرباحا تشغيلية قدرها 3.7842 تريليون وون. ويمثل ذلك أكبر ربح تشغيلي للفترة نفسها، لكنه جاء أقل قليلا من توقعات قطاع الأوراق المالية. وارتفعت الإيرادات 0.7% على أساس سنوي، وزادت الأرباح التشغيلية 0.8%، بينما صعد صافي الربح 6.7% إلى 2.5190 تريليون وون. وبذلك واصلت الشركة تحقيق الأرباح لربعها الحادي عشر على التوالي منذ تحولها إلى الربحية في الربع الثالث من 2023. لكن أسعار النفط العالمية والغاز الطبيعي المسال ارتفعت بقوة بعد حرب الشرق الأوسط في أواخر فبراير، ولم ينعكس ذلك بالكامل في نتائج الربع الأول. وقالت الشركة إن الأثر سيظهر بتأخر على النتائج والتمويل بدءا من الربع الثاني. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "KEPCO का Q1 परिचालन लाभ 3.78 ट्रिलियन वॉन, मध्य पूर्व युद्ध का असर Q2 से दिखेगा",
-        "excerpt": "कोरिया इलेक्ट्रिक पावर ने 13 तारीख को बताया कि पहली तिमाही में समेकित परिचालन लाभ 3.7842 ट्रिलियन वॉन रहा, जबकि मध्य पूर्व युद्ध से ऊर्जा कीमतों में बढ़ोतरी का असर दूसरी तिमाही से दिखेगा।",
-        "body": "कोरिया इलेक्ट्रिक पावर कॉर्प. ने 13 तारीख को बताया कि इस वर्ष पहली तिमाही, जनवरी से मार्च, में उसका समेकित राजस्व 24.3985 ट्रिलियन वॉन और परिचालन लाभ 3.7842 ट्रिलियन वॉन रहा। यह समान अवधि के आधार पर अब तक का सबसे बड़ा परिचालन लाभ है, लेकिन प्रतिभूति उद्योग के अनुमान से कुछ कम रहा। राजस्व पिछले वर्ष की समान अवधि से 0.7% और परिचालन लाभ 0.8% बढ़ा, जबकि शुद्ध लाभ 6.7% बढ़कर 2.5190 ट्रिलियन वॉन हो गया। 2023 की तीसरी तिमाही में लाभ में लौटने के बाद KEPCO ने लगातार 11 तिमाहियों तक मुनाफा बनाए रखा है। हालांकि फरवरी के अंत में मध्य पूर्व युद्ध के बाद अंतरराष्ट्रीय तेल और तरलीकृत प्राकृतिक गैस (LNG) की कीमतें तेज बढ़ीं, पर यह बढ़ोतरी पहली तिमाही के नतीजों में पूरी तरह नहीं दिखी। कंपनी ने कहा कि इसका असर दूसरी तिमाही से देरी के साथ नतीजों और धन जुटाने पर पड़ेगा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "KEPCO catat laba operasi Q1 3,78 triliun won, dampak perang Timur Tengah mulai terasa di Q2",
-        "excerpt": "Korea Electric Power pada tanggal 13 mengumumkan laba operasi konsolidasi kuartal I sebesar 3,7842 triliun won, sementara kenaikan harga energi akibat perang Timur Tengah diperkirakan berdampak mulai kuartal II.",
-        "body": "Korea Electric Power Corp. pada tanggal 13 mengumumkan bahwa pendapatan konsolidasi kuartal pertama tahun ini, Januari hingga Maret, mencapai 24,3985 triliun won, dengan laba operasi 3,7842 triliun won. Laba operasi tersebut merupakan yang terbesar sepanjang sejarah untuk periode yang sama, tetapi sedikit di bawah perkiraan industri sekuritas. Pendapatan naik 0,7% dibanding tahun sebelumnya, laba operasi meningkat 0,8%, dan laba bersih tumbuh 6,7% menjadi 2,5190 triliun won. KEPCO mempertahankan laba selama 11 kuartal berturut-turut sejak kembali mencetak laba pada kuartal ketiga 2023. Namun, setelah perang Timur Tengah pada akhir Februari, harga minyak internasional dan gas alam cair (LNG) melonjak, dan kenaikan itu belum sepenuhnya tercermin dalam kinerja kuartal pertama. KEPCO menyatakan dampaknya akan memengaruhi kinerja dan pendanaan dengan jeda mulai kuartal kedua. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "44c49f3f06d3",
-    "slug": "페라리-849-테스타로사-스파이더-국내-첫-공개-795347",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-13T17:51:06.394Z",
-    "updatedAt": "2026-05-13T17:51:06.394Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917407/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260513/133917407/2",
-    "titleFingerprint": "ed37789e25d19378eee0f6b1e18bd9ecfe59e7fa",
-    "dedupKeys": [
-      "44c49f3f06d3ab33eba11c5cfe78b8990a32e5e8",
-      "ed37789e25d19378eee0f6b1e18bd9ecfe59e7fa",
-      "adb22b6a5ce1d28902b958c687ffec49b5787777"
-    ],
-    "imageUrl": "/images/articles/44c49f3f06d3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "페라리 849 테스타로사 스파이더 국내 첫 공개, PHEV 슈퍼카 주목",
-        "excerpt": "페라리 코리아가 13일 서울 서초구 반포전시장에서 849 테스타로사 스파이더를 국내 최초 공개했다. V8 트윈터보와 전기모터 3개를 결합한 PHEV 모델이다.",
-        "body": "페라리 코리아가 13일 서울 서초구 반포전시장에서 플러그인 하이브리드카(PHEV) ‘849 테스타로사 스파이더’를 국내 최초로 공개했다. 이번 공개는 페라리의 최신 고성능 오픈톱 모델을 한국 시장에 처음 선보인 자리다. 849 테스타로사 스파이더는 V8 트윈터보 엔진에 전기모터 3개를 더한 구성을 갖췄다. 합산 최고출력은 양산형 페라리 가운데 최고 수준으로 소개됐다. 고성능 내연기관과 전동화 기술을 함께 적용한 모델이라는 점에서 국내 슈퍼카 시장의 관심을 받을 것으로 보인다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Ferrari 849 Testarossa Spider makes Korea debut as PHEV supercar",
-        "excerpt": "Ferrari Korea unveiled the 849 Testarossa Spider for the first time in Korea on the 13th at its Banpo showroom in Seocho-gu, Seoul, highlighting its V8 twin-turbo PHEV setup.",
-        "body": "Ferrari Korea unveiled the plug-in hybrid 849 Testarossa Spider for the first time in Korea on the 13th at its Banpo showroom in Seocho-gu, Seoul. The event introduced Ferrari’s latest high-performance open-top model to the Korean market. The 849 Testarossa Spider combines a V8 twin-turbo engine with three electric motors. Its combined maximum output was described as among the highest levels for a production Ferrari. As a model that brings together a high-performance combustion engine and electrification technology, it is expected to draw attention in Korea’s supercar market. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "フェラーリ849テスタロッサ・スパイダー韓国初公開、PHEVに注目",
-        "excerpt": "フェラーリ・コリアは13日、ソウル瑞草区の盤浦ショールームで849テスタロッサ・スパイダーを韓国で初公開した。V8ツインターボと電気モーター3基を組み合わせたPHEVだ。",
-        "body": "フェラーリ・コリアは13日、ソウル瑞草区の盤浦ショールームでプラグインハイブリッド車（PHEV）「849テスタロッサ・スパイダー」を韓国で初公開した。今回の公開は、フェラーリの最新高性能オープントップモデルを韓国市場に初めて披露する場となった。849テスタロッサ・スパイダーは、V8ツインターボエンジンに3基の電気モーターを加えた構成を備える。システム最高出力は量産型フェラーリの中でも最高水準と紹介された。高性能内燃機関と電動化技術を併せ持つモデルとして、韓国のスーパーカー市場で関心を集めるとみられる。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "法拉利849 Testarossa Spider韩国首秀，PHEV超跑受关注",
-        "excerpt": "法拉利韩国13日在首尔瑞草区盘浦展厅首次在韩国公开849 Testarossa Spider。这款PHEV搭载V8双涡轮发动机和3台电动机。",
-        "body": "法拉利韩国13日在首尔瑞草区盘浦展厅首次在韩国公开插电式混合动力车（PHEV）849 Testarossa Spider。此次发布是法拉利最新高性能敞篷车型首次面向韩国市场亮相。849 Testarossa Spider采用V8双涡轮发动机，并加入3台电动机。其综合最大输出功率被介绍为量产法拉利车型中的最高水平之一。作为同时应用高性能内燃机和电动化技术的车型，它预计将受到韩国超跑市场关注。出处: rss.donga.com"
-      },
-      "es": {
-        "title": "Ferrari 849 Testarossa Spider debuta en Corea como superdeportivo PHEV",
-        "excerpt": "Ferrari Korea presentó el 13 en su sala de exhibición de Banpo, en Seocho-gu, Seúl, el 849 Testarossa Spider por primera vez en Corea, un PHEV con V8 biturbo y tres motores eléctricos.",
-        "body": "Ferrari Korea presentó el 13 en su sala de exhibición de Banpo, en Seocho-gu, Seúl, el 849 Testarossa Spider, un vehículo híbrido enchufable (PHEV), por primera vez en Corea. La presentación llevó al mercado coreano el más reciente modelo descapotable de altas prestaciones de Ferrari. El 849 Testarossa Spider combina un motor V8 biturbo con tres motores eléctricos. Su potencia máxima combinada fue descrita como una de las más altas entre los Ferrari de producción. Al integrar un motor de combustión de alto rendimiento y tecnología electrificada, el modelo puede atraer la atención del mercado coreano de superdeportivos. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Ferrari 849 Testarossa Spider estreia na Coreia como supercarro PHEV",
-        "excerpt": "A Ferrari Korea revelou no dia 13, no showroom de Banpo, em Seocho-gu, Seul, o 849 Testarossa Spider pela primeira vez no país, um PHEV com V8 biturbo e três motores elétricos.",
-        "body": "A Ferrari Korea revelou no dia 13, no showroom de Banpo, em Seocho-gu, Seul, o 849 Testarossa Spider, um veículo híbrido plug-in (PHEV), pela primeira vez na Coreia. A apresentação levou ao mercado coreano o mais recente modelo conversível de alto desempenho da Ferrari. O 849 Testarossa Spider combina um motor V8 biturbo com três motores elétricos. A potência máxima combinada foi apresentada como uma das mais altas entre os modelos Ferrari de produção. Por reunir motor a combustão de alto desempenho e tecnologia eletrificada, o modelo deve chamar atenção no mercado coreano de supercarros. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Ferrari 849 Testarossa Spider feiert Korea-Premiere als PHEV-Supersportwagen",
-        "excerpt": "Ferrari Korea hat den 849 Testarossa Spider am 13. im Banpo-Showroom in Seocho-gu, Seoul, erstmals in Korea vorgestellt. Das PHEV-Modell kombiniert V8-Biturbo und drei Elektromotoren.",
-        "body": "Ferrari Korea hat am 13. im Banpo-Showroom in Seocho-gu, Seoul, den Plug-in-Hybrid 849 Testarossa Spider erstmals in Korea vorgestellt. Die Präsentation brachte Ferraris jüngstes leistungsstarkes Open-Top-Modell erstmals auf den koreanischen Markt. Der 849 Testarossa Spider verbindet einen V8-Biturbo-Motor mit drei Elektromotoren. Die kombinierte Höchstleistung wurde als eines der höchsten Niveaus unter Serienmodellen von Ferrari beschrieben. Als Modell mit leistungsstarkem Verbrennungsmotor und Elektrifizierungstechnik dürfte es im koreanischen Supersportwagenmarkt Aufmerksamkeit erhalten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Ferrari 849 Testarossa Spider dévoilée en Corée, un supercar PHEV remarqué",
-        "excerpt": "Ferrari Korea a présenté le 13, dans son showroom de Banpo à Seocho-gu, Séoul, la 849 Testarossa Spider pour la première fois en Corée, un PHEV associant V8 biturbo et trois moteurs électriques.",
-        "body": "Ferrari Korea a présenté le 13, dans son showroom de Banpo à Seocho-gu, Séoul, la 849 Testarossa Spider, un véhicule hybride rechargeable (PHEV), pour la première fois en Corée. Cette présentation a introduit sur le marché coréen le dernier modèle découvrable haute performance de Ferrari. La 849 Testarossa Spider associe un moteur V8 biturbo à trois moteurs électriques. Sa puissance maximale combinée a été décrite comme l’un des plus hauts niveaux parmi les Ferrari de série. En combinant moteur thermique haute performance et technologie électrifiée, le modèle devrait attirer l’attention du marché coréen des supercars. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "فيراري 849 تستاروسا سبايدر تظهر لأول مرة في كوريا كسيارة PHEV فائقة",
-        "excerpt": "كشفت فيراري كوريا في 13 من الشهر، داخل معرض بانبو في سيوتشو-غو بسيول، عن 849 تستاروسا سبايدر لأول مرة محليا، وهي PHEV بمحرك V8 مزدوج التيربو وثلاثة محركات كهربائية.",
-        "body": "كشفت فيراري كوريا في 13 من الشهر، في معرض بانبو بمنطقة سيوتشو-غو في سيول، عن سيارة 849 تستاروسا سبايدر الهجينة القابلة للشحن الخارجي (PHEV) لأول مرة في كوريا. وقدمت الفعالية أحدث طراز مكشوف عالي الأداء من فيراري إلى السوق الكورية. تجمع 849 تستاروسا سبايدر بين محرك V8 مزدوج التيربو وثلاثة محركات كهربائية. ووصف إجمالي القوة القصوى بأنه من بين أعلى المستويات في سيارات فيراري الإنتاجية. وبوصفها طرازا يجمع محرك احتراق عالي الأداء وتقنيات كهربائية، من المتوقع أن تجذب الاهتمام في سوق السيارات الفائقة بكوريا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Ferrari 849 Testarossa Spider कोरिया में पहली बार पेश, PHEV सुपरकार पर नजर",
-        "excerpt": "Ferrari Korea ने 13 तारीख को सियोल के Seocho-gu स्थित Banpo शोरूम में 849 Testarossa Spider को कोरिया में पहली बार पेश किया। यह V8 ट्विन-टर्बो और तीन इलेक्ट्रिक मोटर वाला PHEV है।",
-        "body": "Ferrari Korea ने 13 तारीख को सियोल के Seocho-gu स्थित Banpo शोरूम में प्लग-इन हाइब्रिड कार (PHEV) 849 Testarossa Spider को कोरिया में पहली बार पेश किया। इस आयोजन में Ferrari के नवीनतम उच्च-प्रदर्शन ओपन-टॉप मॉडल को कोरियाई बाजार के सामने लाया गया। 849 Testarossa Spider में V8 ट्विन-टर्बो इंजन के साथ तीन इलेक्ट्रिक मोटर जोड़ी गई हैं। इसकी संयुक्त अधिकतम शक्ति को उत्पादन Ferrari मॉडलों में सर्वोच्च स्तरों में से एक बताया गया। उच्च-प्रदर्शन दहन इंजन और विद्युतीकरण तकनीक को साथ लाने वाले मॉडल के रूप में यह कोरिया के सुपरकार बाजार में ध्यान आकर्षित कर सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Ferrari 849 Testarossa Spider debut di Korea sebagai supercar PHEV",
-        "excerpt": "Ferrari Korea pada 13 hari ini memperkenalkan 849 Testarossa Spider untuk pertama kalinya di Korea di showroom Banpo, Seocho-gu, Seoul. Model PHEV ini memadukan V8 twin-turbo dan tiga motor listrik.",
-        "body": "Ferrari Korea pada 13 hari ini memperkenalkan plug-in hybrid car (PHEV) 849 Testarossa Spider untuk pertama kalinya di Korea di showroom Banpo, Seocho-gu, Seoul. Peluncuran ini menjadi kesempatan pertama Ferrari menampilkan model open-top berperforma tinggi terbarunya ke pasar Korea. 849 Testarossa Spider menggabungkan mesin V8 twin-turbo dengan tiga motor listrik. Daya maksimum gabungannya disebut berada pada level tertinggi di antara Ferrari produksi massal. Sebagai model yang memadukan mesin pembakaran berperforma tinggi dan teknologi elektrifikasi, mobil ini diperkirakan menarik perhatian pasar supercar Korea. Sumber: rss.donga.com"
       }
     }
   }
