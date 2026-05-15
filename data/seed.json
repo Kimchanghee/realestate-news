@@ -1,5 +1,80 @@
 [
   {
+    "id": "719d4ad54725",
+    "slug": "테슬라-운전자-개입-없이-뉴욕la-50시간-만에-주파-로보택시-성큼-다가와-958279",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T23:31:12.246Z",
+    "updatedAt": "2026-05-15T23:31:12.246Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260516/133934368/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260516/133934368/1",
+    "titleFingerprint": "327ff6e5761d91dcc3726af2fdc8d9302ff33034",
+    "dedupKeys": [
+      "719d4ad547252932166b94a2176173cbb8817f21",
+      "327ff6e5761d91dcc3726af2fdc8d9302ff33034",
+      "6abb3b8a0bd061f4fd2c0d8e49a6e0a97789a4b1"
+    ],
+    "imageUrl": "/images/articles/719d4ad54725.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라 FSD, 뉴욕~LA 4559㎞ 무개입 주행… 로보택시 기대감 커졌다",
+        "excerpt": "테슬라는 5월 10일 FSD 차량이 뉴욕에서 LA까지 4559㎞를 운전자 개입 없이 약 50시간에 주파했다고 밝혔고, 모델Y ADAS 평가 통과 소식도 전했다.",
+        "body": "테슬라는 5월 10일(현지 시간) X 계정을 통해 완전자율주행(FSD) 차량이 뉴욕에서 로스앤젤레스(LA)까지 운전자 개입 없이 스스로 주행했다고 밝혔다. 운전자 3명으로 구성된 팀은 테슬라 FSD 기술을 활용해 미국 횡단 ‘캐넌볼 런’에서 4559㎞를 약 50시간 만에 주파하며 신기록을 세웠다. 자율주행 기술 성과는 안전성 평가에서도 이어졌다. 로이터통신 등에 따르면 미국 도로교통안전국(NHTSA)은 5월 7일 2026년형 테슬라 모델Y가 개편된 신차평가제도에 새로 포함된 첨단 운전자보조시스템(ADAS) 평가를 통과했다고 밝혔다. 이번 평가는 2024년 미국 의회 승인 뒤 기존 NCAP에 추가된 시험이다. 장거리 무개입 주행 기록과 ADAS 평가 통과는 로보택시 상용화 기대를 키우는 요인으로 주목된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Tesla FSD Drives 4,559 km From New York to LA Without Intervention",
+        "excerpt": "Tesla said on May 10 that an FSD vehicle drove 4,559 km from New York to Los Angeles without driver intervention in about 50 hours, while Model Y passed a new ADAS test.",
+        "body": "Tesla said on its X account on May 10, local time, that a Full Self-Driving (FSD) vehicle drove itself from New York to Los Angeles without driver intervention. A team of three drivers used Tesla’s FSD technology in a U.S. cross-country “Cannonball Run,” covering 4,559 km in about 50 hours and setting a new record. The company’s autonomous-driving performance was also reflected in safety testing. According to Reuters and other reports, the U.S. National Highway Traffic Safety Administration (NHTSA) said on May 7 that the 2026 Tesla Model Y passed an advanced driver assistance systems (ADAS) evaluation newly added to the revised New Car Assessment Program. The test was added to the existing NCAP after U.S. congressional approval in 2024. The long-distance no-intervention drive and ADAS test result are drawing attention as factors raising expectations for robotaxi commercialization. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "テスラFSD、NY〜LA 4559kmを無介入走行…ロボタクシー期待高まる",
+        "excerpt": "テスラは5月10日、FSD車両がニューヨークからLAまで4559kmを運転者の介入なしに約50時間で走破したと発表し、モデルYのADAS評価通過も伝えられた。",
+        "body": "テスラは5月10日（現地時間）、Xアカウントを通じて、完全自動運転（FSD）車両がニューヨークからロサンゼルス（LA）まで運転者の介入なしに自ら走行したと明らかにした。3人のドライバーで構成されたチームは、テスラのFSD技術を使い、米国横断の「キャノンボール・ラン」で4559kmを約50時間で走破し、新記録を樹立した。自動運転技術の成果は安全性評価にもつながっている。ロイター通信などによると、米道路交通安全局（NHTSA）は5月7日、2026年型テスラ・モデルYが改編された新車評価制度に新たに含まれた先進運転支援システム（ADAS）評価を通過したと発表した。この試験は2024年の米議会承認後、既存のNCAPに追加されたものだ。長距離の無介入走行記録とADAS評価通過は、ロボタクシー商用化への期待を高める要因として注目されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "特斯拉FSD无干预行驶纽约至洛杉矶4559公里，Robotaxi预期升温",
+        "excerpt": "特斯拉5月10日称，FSD车辆从纽约到洛杉矶4559公里全程无需驾驶员干预，约50小时完成，同时Model Y通过新ADAS安全评估。",
+        "body": "特斯拉5月10日（当地时间）通过X账号表示，一辆完全自动驾驶（FSD）车辆从纽约到洛杉矶（LA）在没有驾驶员干预的情况下自行行驶。由3名驾驶员组成的团队使用特斯拉FSD技术，在横穿美国的“Cannonball Run”中以约50小时完成4559公里路程，并创下新纪录。特斯拉自动驾驶技术的成果也体现在安全性评估中。据路透社等媒体报道，美国国家公路交通安全管理局（NHTSA）5月7日表示，2026款特斯拉Model Y通过了修订后新车评价制度中新加入的高级驾驶辅助系统（ADAS）评估。该测试是在2024年获美国国会批准后，被加入既有NCAP的项目。长距离无干预行驶记录和ADAS评估通过，正被视为提升Robotaxi商业化期待的因素。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Tesla FSD recorre 4.559 km de Nueva York a LA sin intervención del conductor",
+        "excerpt": "Tesla dijo el 10 de mayo que un vehículo FSD recorrió 4.559 km de Nueva York a Los Ángeles sin intervención del conductor en unas 50 horas, y el Model Y pasó una prueba ADAS.",
+        "body": "Tesla informó el 10 de mayo, hora local, en su cuenta de X que un vehículo con conducción totalmente autónoma (FSD) condujo por sí solo desde Nueva York hasta Los Ángeles (LA) sin intervención del conductor. Un equipo formado por tres conductores utilizó la tecnología FSD de Tesla en el “Cannonball Run” transcontinental de Estados Unidos, cubriendo 4.559 km en unas 50 horas y estableciendo un nuevo récord. Los avances de la conducción autónoma también se reflejaron en las pruebas de seguridad. Según Reuters y otros medios, la Administración Nacional de Seguridad del Tráfico en Carreteras de Estados Unidos (NHTSA) dijo el 7 de mayo que el Tesla Model Y 2026 superó una evaluación de sistemas avanzados de asistencia al conductor (ADAS) añadida al renovado programa de evaluación de vehículos nuevos. La prueba fue incorporada al NCAP existente tras la aprobación del Congreso estadounidense en 2024. El recorrido de larga distancia sin intervención y la aprobación ADAS elevan la atención sobre la comercialización de robotaxis. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Tesla FSD percorre 4.559 km de Nova York a LA sem intervenção do motorista",
+        "excerpt": "A Tesla disse em 10 de maio que um veículo FSD foi de Nova York a Los Angeles, 4.559 km, sem intervenção do motorista em cerca de 50 horas; o Model Y também passou em teste ADAS.",
+        "body": "A Tesla informou em 10 de maio, horário local, por sua conta no X, que um veículo com Full Self-Driving (FSD) dirigiu sozinho de Nova York a Los Angeles (LA) sem intervenção do motorista. Uma equipe formada por três motoristas usou a tecnologia FSD da Tesla na “Cannonball Run” de travessia dos Estados Unidos, percorrendo 4.559 km em cerca de 50 horas e estabelecendo um novo recorde. O desempenho da tecnologia de direção autônoma também apareceu em avaliações de segurança. Segundo a Reuters e outros veículos, a Administração Nacional de Segurança no Tráfego Rodoviário dos EUA (NHTSA) afirmou em 7 de maio que o Tesla Model Y 2026 passou na avaliação de sistemas avançados de assistência ao motorista (ADAS), recém-incluída no programa revisado de avaliação de carros novos. O teste foi adicionado ao NCAP existente após aprovação do Congresso dos EUA em 2024. O registro de longa distância sem intervenção e a aprovação no ADAS chamam atenção por elevar as expectativas sobre robotáxis. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Tesla FSD fährt 4.559 km von New York nach LA ohne Fahrereingriff",
+        "excerpt": "Tesla teilte am 10. Mai mit, dass ein FSD-Fahrzeug 4.559 km von New York nach Los Angeles ohne Fahrereingriff in rund 50 Stunden zurücklegte; auch das Model Y bestand einen ADAS-Test.",
+        "body": "Tesla erklärte am 10. Mai Ortszeit über seinen X-Account, dass ein Fahrzeug mit Full Self-Driving (FSD) ohne Eingriff des Fahrers von New York nach Los Angeles (LA) gefahren sei. Ein Team aus drei Fahrern nutzte Teslas FSD-Technologie beim US-weiten „Cannonball Run“ und legte 4.559 km in etwa 50 Stunden zurück, womit ein neuer Rekord aufgestellt wurde. Die Fortschritte der autonomen Fahrtechnik zeigen sich auch in Sicherheitstests. Laut Reuters und anderen Berichten teilte die US-Verkehrssicherheitsbehörde NHTSA am 7. Mai mit, dass das Tesla Model Y des Modelljahrs 2026 eine Bewertung für fortschrittliche Fahrerassistenzsysteme (ADAS) bestanden habe, die neu in das überarbeitete New Car Assessment Program aufgenommen wurde. Dieser Test wurde nach der Zustimmung des US-Kongresses im Jahr 2024 dem bestehenden NCAP hinzugefügt. Die Langstreckenfahrt ohne Eingriff und das bestandene ADAS-Verfahren werden als Faktoren gesehen, die Erwartungen an Robotaxi-Angebote erhöhen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Tesla FSD parcourt 4 559 km de New York à LA sans intervention du conducteur",
+        "excerpt": "Tesla a déclaré le 10 mai qu’un véhicule FSD avait parcouru 4 559 km de New York à Los Angeles sans intervention du conducteur en environ 50 heures, tandis que le Model Y passait un test ADAS.",
+        "body": "Tesla a indiqué le 10 mai, heure locale, sur son compte X qu’un véhicule doté de la conduite entièrement autonome (FSD) avait roulé seul de New York à Los Angeles (LA) sans intervention du conducteur. Une équipe composée de trois conducteurs a utilisé la technologie FSD de Tesla lors du « Cannonball Run » à travers les États-Unis, couvrant 4 559 km en environ 50 heures et établissant un nouveau record. Les progrès de la technologie de conduite autonome se reflètent aussi dans les évaluations de sécurité. Selon Reuters et d’autres médias, la National Highway Traffic Safety Administration (NHTSA) américaine a déclaré le 7 mai que le Tesla Model Y 2026 avait réussi une évaluation des systèmes avancés d’aide à la conduite (ADAS), nouvellement intégrée au programme révisé d’évaluation des véhicules neufs. Ce test a été ajouté au NCAP existant après l’approbation du Congrès américain en 2024. Le trajet longue distance sans intervention et la réussite du test ADAS attirent l’attention en renforçant les attentes autour des robotaxis. Source : rss.donga.com"
+      },
+      "ar": {
+        "title": "تسلا FSD تقطع 4559 كم من نيويورك إلى لوس أنجلوس دون تدخل السائق",
+        "excerpt": "قالت تسلا في 10 مايو إن مركبة FSD قطعت 4559 كم من نيويورك إلى لوس أنجلوس دون تدخل السائق خلال نحو 50 ساعة، كما اجتاز موديل Y اختبار ADAS جديدا.",
+        "body": "أعلنت تسلا في 10 مايو، بالتوقيت المحلي، عبر حسابها على منصة X أن مركبة تعمل بتقنية القيادة الذاتية الكاملة FSD قادت نفسها من نيويورك إلى لوس أنجلوس دون تدخل من السائق. واستخدم فريق مكوّن من ثلاثة سائقين تقنية FSD من تسلا في سباق العبور الأميركي المعروف باسم «كانونبول رن»، وقطع مسافة 4559 كم في نحو 50 ساعة، مسجلا رقما قياسيا جديدا. وظهرت نتائج تقنية القيادة الذاتية أيضا في تقييمات السلامة. ووفقا لرويترز ووسائل إعلام أخرى، قالت الإدارة الوطنية لسلامة المرور على الطرق السريعة في الولايات المتحدة NHTSA في 7 مايو إن طراز تسلا موديل Y لعام 2026 اجتاز تقييما لأنظمة مساعدة السائق المتقدمة ADAS أضيف حديثا إلى برنامج تقييم السيارات الجديدة المعدل. وأضيف هذا الاختبار إلى برنامج NCAP القائم بعد موافقة الكونغرس الأميركي في عام 2024. ويجذب سجل القيادة الطويلة دون تدخل واجتياز تقييم ADAS الانتباه كعاملين يرفعان التوقعات بشأن تسويق الروبوتاكسي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Tesla FSD ने न्यूयॉर्क से LA तक 4,559 किमी बिना ड्राइवर हस्तक्षेप तय किए",
+        "excerpt": "Tesla ने 10 मई को कहा कि FSD वाहन ने न्यूयॉर्क से लॉस एंजिलिस तक 4,559 किमी बिना ड्राइवर हस्तक्षेप करीब 50 घंटे में तय किए, और Model Y ने नया ADAS मूल्यांकन पास किया।",
+        "body": "Tesla ने 10 मई, स्थानीय समय, अपने X खाते पर कहा कि Full Self-Driving (FSD) वाहन ने न्यूयॉर्क से लॉस एंजिलिस (LA) तक ड्राइवर के हस्तक्षेप के बिना स्वयं ड्राइव किया। तीन ड्राइवरों की टीम ने Tesla की FSD तकनीक का उपयोग करते हुए अमेरिका पार करने वाले “Cannonball Run” में 4,559 किमी की दूरी करीब 50 घंटे में पूरी की और नया रिकॉर्ड बनाया। स्वायत्त ड्राइविंग तकनीक की प्रगति सुरक्षा मूल्यांकन में भी दिखी। Reuters सहित रिपोर्टों के अनुसार, अमेरिकी National Highway Traffic Safety Administration (NHTSA) ने 7 मई को कहा कि 2026 Tesla Model Y ने संशोधित New Car Assessment Program में जोड़े गए advanced driver assistance systems (ADAS) मूल्यांकन को पास किया। यह परीक्षण 2024 में अमेरिकी कांग्रेस की मंजूरी के बाद मौजूदा NCAP में जोड़ा गया था। लंबी दूरी की बिना हस्तक्षेप ड्राइव और ADAS मूल्यांकन में सफलता robotaxi व्यावसायीकरण की उम्मीद बढ़ाने वाले कारक के रूप में देखी जा रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tesla FSD Tempuh 4.559 km New York-LA Tanpa Intervensi Pengemudi",
+        "excerpt": "Tesla pada 10 Mei mengatakan kendaraan FSD menempuh 4.559 km dari New York ke Los Angeles tanpa intervensi pengemudi dalam sekitar 50 jam, sementara Model Y lolos uji ADAS baru.",
+        "body": "Tesla pada 10 Mei waktu setempat melalui akun X menyatakan bahwa kendaraan Full Self-Driving (FSD) melaju sendiri dari New York ke Los Angeles (LA) tanpa intervensi pengemudi. Tim yang terdiri dari tiga pengemudi menggunakan teknologi FSD Tesla dalam “Cannonball Run” lintas Amerika Serikat, menempuh 4.559 km dalam sekitar 50 jam dan mencetak rekor baru. Capaian teknologi mengemudi otonom itu juga terlihat dalam evaluasi keselamatan. Menurut Reuters dan laporan lain, Badan Keselamatan Lalu Lintas Jalan Raya Nasional AS (NHTSA) pada 7 Mei menyatakan bahwa Tesla Model Y 2026 lolos evaluasi advanced driver assistance systems (ADAS) yang baru ditambahkan ke program penilaian mobil baru yang direvisi. Uji ini dimasukkan ke NCAP yang sudah ada setelah mendapat persetujuan Kongres AS pada 2024. Rekor perjalanan jarak jauh tanpa intervensi dan kelulusan evaluasi ADAS menarik perhatian karena meningkatkan ekspektasi terhadap komersialisasi robotaxi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "fd20ea6c2747",
     "slug": "인플레우려에-글로벌-채권투매미국채30년물-금리-19년만에-최고종합-102872",
     "channelId": "REALESTATE",
@@ -4421,81 +4496,6 @@
         "title": "Kunjungan Model House The Sharp Songdo Granter, Laporan hankyung.com",
         "excerpt": "hankyung.com memuat artikel kunjungan model house ‘The Sharp Songdo Granter’. Informasi sumber yang diberikan hanya mengonfirmasi judul dan media.",
         "body": "hankyung.com menerbitkan artikel berjudul ‘Kunjungan Model House The Sharp Songdo Granter’ yang membahas model house terkait. Berdasarkan informasi asli yang diberikan, fakta utama yang dapat dikonfirmasi adalah judul artikel, nama proyek ‘The Sharp Songdo Granter’, dan sumbernya, hankyung.com. Karena kolom ringkasan kosong, detail seperti lokasi model house, jadwal pembukaan, harga jual, skala pasokan, atau respons pengunjung tidak dapat diverifikasi hanya dari informasi tersebut. Karena itu, artikel ini hanya menyampaikan fakta terkonfirmasi bahwa laporan kunjungan model house telah dipublikasikan. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "2b2d1eb02a72",
-    "slug": "롯데건설-준공분양-호조로-실적-반등-598970",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T10:13:05.001Z",
-    "updatedAt": "2026-05-15T10:13:05.001Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051596791",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051596791",
-    "titleFingerprint": "5a64a3d3568d85bcd7b6aab0a7a7d872084e9c10",
-    "dedupKeys": [
-      "2b2d1eb02a72636aa551932d3a07ed9a20da9c3b",
-      "5a64a3d3568d85bcd7b6aab0a7a7d872084e9c10",
-      "06622b0c79b0223bddeea4cb101d8fe23d7c7da8"
-    ],
-    "imageUrl": "/images/articles/2b2d1eb02a72.png",
-    "i18n": {
-      "ko": {
-        "title": "롯데건설 1분기 실적 반등 본격화, 구리 준공·분양 호조와 원가관리 효과 주목",
-        "excerpt": "롯데건설은 2026년 1분기 연결 기준 영업이익 504억원을 기록하며 실적 개선세를 보였다. 구리역 롯데캐슬 더 센트럴 준공, 분양 호조, 원가관리 강화가 배경으로 꼽힌다.",
-        "body": "롯데건설이 2026년 1분기 준공과 분양 호조를 바탕으로 실적 반등 흐름을 보였다. 회사는 지난 3월 경기 구리 인창동 ‘구리역 롯데캐슬 더 센트럴’ 1180가구를 준공했고, 이를 포함해 20여 개 현장에서 공사를 진행 중이다. 올해 들어 분양이 호조를 보이고 원가 관리도 강화되면서 1분기 연결 기준 매출 1조6012억원, 영업이익 504억원, 당기순이익 171억원을 기록했다. 준공 현장 확대와 수익성 관리가 맞물리며 재무지표 개선으로 이어진 것으로 풀이된다. 향후 실적 흐름은 진행 현장의 공정과 분양 성과가 좌우할 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Lotte E&C Q1 Rebound Gains Pace on Guri Completion, Sales Momentum and Cost Control",
-        "excerpt": "Lotte E&C posted 50.4 billion won in consolidated operating profit for Q1 2026, helped by the completion of Guri Station Lotte Castle The Central, stronger sales and tighter cost management.",
-        "body": "Lotte Engineering & Construction showed a rebound in first-quarter 2026 results, supported by project completions and stronger apartment sales. In March, the company completed the 1,180-unit Guri Station Lotte Castle The Central in Inchang-dong, Guri, Gyeonggi Province, while construction is under way at more than 20 sites. With sales improving this year and cost controls strengthened, Lotte E&C reported consolidated revenue of 1.6012 trillion won, operating profit of 50.4 billion won and net profit of 17.1 billion won for the quarter. The figures indicate that expanded completions and profitability management are feeding into better financial indicators. Future performance is expected to depend on construction progress and sales results at active sites. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ロッテ建設の1四半期業績が反転、九里竣工と分譲好調・原価管理が支え",
-        "excerpt": "ロッテ建設は2026年1四半期、連結営業利益504億ウォンを計上した。九里駅ロッテキャッスル・ザ・セントラルの竣工、分譲好調、原価管理強化が背景だ。",
-        "body": "ロッテ建設は2026年第1四半期、竣工と分譲の好調を背景に業績反転の流れを示した。同社は3月、京畿道九里市仁倉洞の「九里駅ロッテキャッスル・ザ・セントラル」1180戸を竣工し、これを含め20カ所余りの現場で工事を進めている。今年に入り分譲が好調で、原価管理も強化されたことで、第1四半期の連結売上高は1兆6012億ウォン、営業利益は504億ウォン、純利益は171億ウォンとなった。竣工現場の拡大と収益性管理がかみ合い、財務指標の改善につながったとみられる。今後の業績は進行中の現場の工程と分譲成果に左右される見通しだ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "乐天建设一季度业绩回升，九里项目竣工、销售向好与成本管控成关键",
-        "excerpt": "乐天建设2026年一季度合并营业利润达504亿韩元。九里站乐天城堡The Central竣工、分售表现改善以及成本管理加强，被视为业绩改善的主要背景。",
-        "body": "乐天建设在2026年第一季度呈现业绩回升势头，主要受竣工项目和分售表现改善支撑。公司今年3月完成位于京畿道九里市仁仓洞的“九里站乐天城堡The Central”1180户项目，目前包括该项目在内，仍有20多个工地在施工。今年以来分售情况向好，同时成本管理得到加强，乐天建设第一季度合并口径实现销售额1.6012万亿韩元、营业利润504亿韩元、净利润171亿韩元。竣工项目增加与盈利能力管理同步推进，被认为带动了财务指标改善。未来业绩走势预计将取决于在建项目进度和分售成果。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Lotte E&C repunta en el primer trimestre por entrega en Guri, ventas firmes y control de costes",
-        "excerpt": "Lotte E&C registró 50.400 millones de wones de beneficio operativo consolidado en el primer trimestre de 2026, apoyada por la finalización de Guri Station Lotte Castle The Central, mejores ventas y control de costes.",
-        "body": "Lotte Engineering & Construction mostró una recuperación de resultados en el primer trimestre de 2026, apoyada en la finalización de obras y en el mejor comportamiento de las ventas. En marzo, la compañía completó las 1.180 viviendas de Guri Station Lotte Castle The Central, en Inchang-dong, Guri, provincia de Gyeonggi, y mantiene obras en más de 20 emplazamientos. Con ventas más sólidas este año y una gestión de costes reforzada, Lotte E&C registró ingresos consolidados de 1,6012 billones de wones, beneficio operativo de 50.400 millones de wones y beneficio neto de 17.100 millones de wones en el trimestre. La ampliación de proyectos terminados y la gestión de rentabilidad se reflejaron en mejores indicadores financieros. La evolución futura dependerá del avance de las obras y de los resultados de venta. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Lotte E&C avança no 1º trimestre com entrega em Guri, vendas melhores e controle de custos",
-        "excerpt": "A Lotte E&C registrou lucro operacional consolidado de 50,4 bilhões de wons no 1º trimestre de 2026, impulsionada pela conclusão do Guri Station Lotte Castle The Central, vendas melhores e maior controle de custos.",
-        "body": "A Lotte Engineering & Construction apresentou recuperação de desempenho no primeiro trimestre de 2026, apoiada por entregas de obras e melhora nas vendas. Em março, a empresa concluiu as 1.180 unidades do Guri Station Lotte Castle The Central, em Inchang-dong, Guri, na província de Gyeonggi, e mantém obras em mais de 20 canteiros. Com vendas mais favoráveis neste ano e gestão de custos reforçada, a Lotte E&C registrou receita consolidada de 1,6012 trilhão de wons, lucro operacional de 50,4 bilhões de wons e lucro líquido de 17,1 bilhões de wons no trimestre. A expansão de projetos concluídos e o controle de rentabilidade contribuíram para a melhora dos indicadores financeiros. O desempenho futuro dependerá do andamento das obras e dos resultados de venda. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Lotte E&C erholt sich im ersten Quartal dank Guri-Fertigstellung, Verkäufen und Kostenkontrolle",
-        "excerpt": "Lotte E&C erzielte im ersten Quartal 2026 einen konsolidierten Betriebsgewinn von 50,4 Milliarden Won. Gründe waren die Fertigstellung von Guri Station Lotte Castle The Central, bessere Verkäufe und strikteres Kostenmanagement.",
-        "body": "Lotte Engineering & Construction zeigte im ersten Quartal 2026 eine Ergebniswende, gestützt auf Projektfertigstellungen und bessere Wohnungsverkäufe. Im März stellte das Unternehmen die 1.180 Einheiten von Guri Station Lotte Castle The Central in Inchang-dong, Guri, Provinz Gyeonggi, fertig; insgesamt laufen Bauarbeiten an mehr als 20 Standorten. Da sich die Verkäufe in diesem Jahr positiv entwickelten und das Kostenmanagement verschärft wurde, meldete Lotte E&C für das Quartal einen konsolidierten Umsatz von 1,6012 Billionen Won, einen Betriebsgewinn von 50,4 Milliarden Won und einen Nettogewinn von 17,1 Milliarden Won. Mehr Fertigstellungen und Rentabilitätskontrolle schlugen sich damit in verbesserten Finanzkennzahlen nieder. Der weitere Verlauf dürfte von Baufortschritten und Verkaufsergebnissen der laufenden Projekte abhängen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Lotte E&C rebondit au 1er trimestre grâce à Guri, aux ventes et à la maîtrise des coûts",
-        "excerpt": "Lotte E&C a dégagé 50,4 milliards de wons de bénéfice d’exploitation consolidé au premier trimestre 2026, portée par l’achèvement de Guri Station Lotte Castle The Central, de meilleures ventes et un contrôle accru des coûts.",
-        "body": "Lotte Engineering & Construction a affiché un redressement de ses résultats au premier trimestre 2026, soutenu par les livraisons de projets et l’amélioration des ventes. En mars, l’entreprise a achevé les 1.180 logements de Guri Station Lotte Castle The Central à Inchang-dong, Guri, dans la province de Gyeonggi, et poursuit des travaux sur plus de 20 chantiers. Avec des ventes mieux orientées cette année et une gestion des coûts renforcée, Lotte E&C a enregistré un chiffre d’affaires consolidé de 1.601,2 milliards de wons, un bénéfice d’exploitation de 50,4 milliards de wons et un bénéfice net de 17,1 milliards de wons au trimestre. L’augmentation des chantiers achevés et la maîtrise de la rentabilité ont contribué à l’amélioration des indicateurs financiers. La suite dépendra de l’avancement des travaux et des ventes. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "لوتيه للهندسة والبناء تنتعش في الربع الأول بدعم إنجاز مشروع غوري وتحسن المبيعات وضبط التكاليف",
-        "excerpt": "سجلت لوتيه للهندسة والبناء ربحا تشغيليا موحدا قدره 50.4 مليار وون في الربع الأول من 2026، بدعم من إنجاز مشروع Guri Station Lotte Castle The Central وتحسن المبيعات وتشديد إدارة التكاليف.",
-        "body": "أظهرت لوتيه للهندسة والبناء تحسنا في نتائج الربع الأول من 2026، مدعوما بإنجاز المشروعات وتحسن مبيعات الوحدات السكنية. ففي مارس، أكملت الشركة مشروع Guri Station Lotte Castle The Central في إنشانغ دونغ بمدينة غوري في مقاطعة غيونغي، ويضم 1180 وحدة، فيما تستمر الأعمال في أكثر من 20 موقعا. ومع تحسن المبيعات منذ بداية العام وتعزيز إدارة التكاليف، سجلت الشركة إيرادات موحدة قدرها 1.6012 تريليون وون، وربحا تشغيليا 50.4 مليار وون، وصافي ربح 17.1 مليار وون في الربع الأول. ويشير ذلك إلى أن زيادة مواقع الإنجاز وإدارة الربحية انعكستا على تحسن المؤشرات المالية. ومن المتوقع أن يتوقف الأداء المقبل على تقدم الأعمال ونتائج البيع في المواقع الجارية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "लोट्टे ईएंडसी की पहली तिमाही में वापसी, गुरी परियोजना, बिक्री और लागत नियंत्रण से सहारा",
-        "excerpt": "लोट्टे ईएंडसी ने 2026 की पहली तिमाही में 50.4 अरब वॉन का समेकित परिचालन लाभ दर्ज किया। गुरी स्टेशन लोट्टे कैसल द सेंट्रल का पूरा होना, बिक्री में सुधार और लागत नियंत्रण इसके प्रमुख कारण रहे।",
-        "body": "लोट्टे इंजीनियरिंग एंड कंस्ट्रक्शन ने 2026 की पहली तिमाही में परियोजनाओं के पूरा होने और अपार्टमेंट बिक्री में सुधार के आधार पर प्रदर्शन में वापसी दिखाई। कंपनी ने मार्च में ग्योंगगी प्रांत के गुरी शहर के इंचांग-दोंग में 1,180 इकाइयों वाले Guri Station Lotte Castle The Central को पूरा किया, और इसके साथ 20 से अधिक स्थलों पर निर्माण जारी है। इस साल बिक्री में सुधार और लागत प्रबंधन मजबूत होने से कंपनी ने तिमाही में 1.6012 ट्रिलियन वॉन का समेकित राजस्व, 50.4 अरब वॉन का परिचालन लाभ और 17.1 अरब वॉन का शुद्ध लाभ दर्ज किया। पूर्ण परियोजनाओं में वृद्धि और लाभप्रदता प्रबंधन ने वित्तीय संकेतकों को बेहतर किया। आगे का प्रदर्शन चालू स्थलों की प्रगति और बिक्री परिणामों पर निर्भर करेगा। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Lotte E&C Pulih di Kuartal I Berkat Penyelesaian Proyek Guri, Penjualan dan Kontrol Biaya",
-        "excerpt": "Lotte E&C membukukan laba operasi konsolidasi 50,4 miliar won pada kuartal I 2026, didorong penyelesaian Guri Station Lotte Castle The Central, membaiknya penjualan, dan penguatan pengendalian biaya.",
-        "body": "Lotte Engineering & Construction menunjukkan pemulihan kinerja pada kuartal pertama 2026, ditopang penyelesaian proyek dan membaiknya penjualan apartemen. Pada Maret, perusahaan menyelesaikan 1.180 unit Guri Station Lotte Castle The Central di Inchang-dong, Guri, Provinsi Gyeonggi, sementara pekerjaan masih berlangsung di lebih dari 20 lokasi. Dengan penjualan yang membaik tahun ini dan manajemen biaya yang diperkuat, Lotte E&C mencatat pendapatan konsolidasi 1,6012 triliun won, laba operasi 50,4 miliar won, dan laba bersih 17,1 miliar won pada kuartal tersebut. Bertambahnya proyek selesai dan pengelolaan profitabilitas dinilai mendorong perbaikan indikator keuangan. Kinerja ke depan akan bergantung pada progres konstruksi dan hasil penjualan proyek berjalan. Sumber: hankyung.com."
       }
     }
   }
