@@ -1,0 +1,75 @@
+{
+  "id": "038f544f407d",
+  "slug": "규제-묶인-k자율주행-고속도로만-질주-가능-553942",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T17:02:07.822Z",
+  "updatedAt": "2026-05-15T17:02:07.823Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260516/133934030/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260516/133934030/2",
+  "titleFingerprint": "727d31897e1527ed7b833e92e57a4aa512776850",
+  "dedupKeys": [
+    "038f544f407d7f9f4cc8b6b42a3570b78a3167ec",
+    "727d31897e1527ed7b833e92e57a4aa512776850",
+    "9b708607046ca6ae82361d7d3bed0944dfbbe11e"
+  ],
+  "imageUrl": "/images/articles/038f544f407d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "자율주행 규제에 묶인 한국차, 테슬라 FSD와 달리 고속도로 중심 운행",
+      "excerpt": "한국 자율주행차가 국내 규제로 사실상 고속도로 중심 운행에 묶인 가운데, 테슬라 FSD 차량은 한미 FTA로 다른 인증 경로를 적용받아 도심 기능 활용이 가능하다.",
+      "body": "한국 자율주행차가 국내 규제에 막혀 사실상 고속도로 등 제한된 구간에서만 운행할 수 있다는 지적이 나왔다. 테슬라의 감독형 자율주행 시스템 FSD(Full Self-Driving) 탑재 차량은 서울 시내 골목 주행이 가능한 반면, 한국 자율주행차는 주행 가능 범위가 좁다. 특히 앞차가 느리게 갈 때 스스로 방향지시등을 켜고 차선을 바꿔 추월을 시도하는 기능은 국내에서 선보이기 어렵다. 호세 무뇨스 현대차 사장은 올해 안에 제네시스 G90에 핸즈오프 수준의 자율주행 기능을 넣겠다고 밝혔지만, 제한 구간 운행이나 인증 가능성은 불확실하다. 테슬라 수입 모델은 한미 FTA 덕분에 한국법을 우회할 수 있었다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Korean Self-Driving Cars Face Rules as Tesla FSD Operates More Freely",
+      "excerpt": "Korean autonomous vehicles remain largely limited to highways under domestic rules, while Tesla FSD-equipped imports can use broader functions through a different path linked to the Korea-US FTA.",
+      "body": "Korean autonomous vehicles are being constrained by domestic regulations and can effectively operate only on highways or other limited sections, according to the report. Tesla vehicles equipped with supervised Full Self-Driving, or FSD, can navigate alleys in Seoul, while Korean autonomous cars face a much narrower operating scope. A feature like Tesla FSD, which can turn on the signal, change lanes and attempt to overtake when the vehicle ahead is slow, cannot be introduced in Korea. Hyundai Motor President Jose Munoz said the company plans to add hands-off autonomous driving capability to the Genesis G90 within this year, but it remains unclear whether the vehicle will be limited to certain roads or receive certification at all. Imported Tesla models were able to bypass Korean rules thanks to the Korea-US FTA. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "規制に縛られる韓国自動運転車、テスラFSDと異なり高速道路中心",
+      "excerpt": "韓国の自動運転車は国内規制により事実上高速道路中心の走行に限られる一方、テスラFSD搭載輸入車は韓米FTAにより別の認証経路を適用されている。",
+      "body": "韓国の自動運転車は国内規制に阻まれ、事実上高速道路など限られた区間でしか走行できないとの指摘が出ている。テスラの監督型自動運転システムFSD（Full Self-Driving）搭載車はソウル市内の路地も走行できる一方、韓国の自動運転車は走行可能範囲が狭い。特に前方車両が遅い場合に自ら方向指示器を出し、車線変更して追い越しを試みる機能は韓国では披露しにくい。現代自動車のホセ・ムニョス社長は今年中にジェネシスG90へハンズオフ水準の自動運転機能を搭載すると述べたが、走行区間の制限や認証取得の可否は不透明だ。テスラ輸入モデルは韓米FTAにより韓国法を迂回できた。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "韩国自动驾驶受监管限制，与特斯拉FSD不同几乎只能跑高速",
+      "excerpt": "韩国自动驾驶汽车因本国监管事实上以高速公路等限定路段为主，而搭载特斯拉FSD的进口车则因韩美FTA适用不同认证路径。",
+      "body": "有报道称，韩国自动驾驶汽车受国内监管限制，事实上只能在高速公路等有限路段行驶。搭载特斯拉监督型自动驾驶系统FSD（Full Self-Driving）的车辆可以穿行首尔市内小巷，但韩国自动驾驶汽车的可行驶范围较窄。尤其是当前车行驶缓慢时，车辆自行打开转向灯、变道并尝试超车的功能，在韩国难以推出。现代汽车社长Jose Munoz表示，今年内将在Genesis G90上加入可“hands-off”的自动驾驶功能，但该车是否只能在限定区间行驶，或能否获得认证，仍不确定。特斯拉进口车型则因韩美FTA得以绕开韩国法律。出处: rss.donga.com"
+    },
+    "es": {
+      "title": "Reglas frenan al coche autónomo coreano mientras Tesla FSD opera con más margen",
+      "excerpt": "Los vehículos autónomos coreanos quedan casi limitados a autopistas por la regulación local, mientras los Tesla con FSD importados aplican otra vía gracias al TLC entre Corea y EE. UU.",
+      "body": "Los vehículos autónomos coreanos están restringidos por la regulación nacional y, en la práctica, solo pueden circular por autopistas u otros tramos limitados, según el reporte. En cambio, los autos Tesla equipados con el sistema supervisado FSD (Full Self-Driving) pueden recorrer callejones de Seúl, mientras los modelos coreanos tienen un alcance mucho más estrecho. Una función como la de Tesla FSD, que enciende el intermitente, cambia de carril e intenta adelantar cuando el vehículo delantero va lento, no puede presentarse en Corea. Jose Munoz, presidente de Hyundai Motor, dijo que este año incorporará una función de conducción autónoma de nivel hands-off al Genesis G90, pero no está claro si el auto quedará limitado a ciertos tramos o si recibirá certificación. Los Tesla importados pudieron eludir la ley coreana gracias al TLC Corea-EE. UU. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Regras travam carro autônomo coreano enquanto Tesla FSD tem mais liberdade",
+      "excerpt": "Veículos autônomos coreanos ficam quase restritos a rodovias por regras locais, enquanto Teslas com FSD importados seguem outra via ligada ao acordo de livre comércio Coreia-EUA.",
+      "body": "Veículos autônomos coreanos estão limitados pela regulamentação doméstica e, na prática, só podem circular em rodovias ou trechos restritos, segundo a reportagem. Já carros Tesla equipados com o sistema supervisionado FSD (Full Self-Driving) podem trafegar por vielas de Seul, enquanto os modelos coreanos têm alcance bem menor. Uma função como a do Tesla FSD, que aciona a seta, muda de faixa e tenta ultrapassar quando o veículo à frente está lento, não pode ser lançada na Coreia. Jose Munoz, presidente da Hyundai Motor, afirmou que a empresa pretende incluir ainda este ano no Genesis G90 uma função autônoma de nível hands-off, mas não está claro se o carro ficará restrito a áreas limitadas ou se conseguirá certificação. Modelos Tesla importados puderam contornar a lei coreana graças ao FTA Coreia-EUA. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Koreas autonome Autos durch Regeln gebremst, Tesla FSD fährt mit mehr Spielraum",
+      "excerpt": "Koreanische autonome Fahrzeuge bleiben durch nationale Regeln faktisch auf Autobahnen beschränkt, während importierte Tesla-Modelle mit FSD über das Korea-USA-FTA anders behandelt werden.",
+      "body": "Koreanische autonome Fahrzeuge werden durch heimische Vorschriften begrenzt und können faktisch nur auf Autobahnen oder anderen eingeschränkten Abschnitten fahren, heißt es in dem Bericht. Tesla-Fahrzeuge mit dem überwachten System FSD (Full Self-Driving) können dagegen auch Gassen in Seoul befahren, während koreanische autonome Autos einen deutlich engeren Einsatzbereich haben. Eine Funktion wie bei Tesla FSD, die bei langsamem Vordermann den Blinker setzt, die Spur wechselt und ein Überholen versucht, lässt sich in Korea nicht anbieten. Hyundai-Motor-Präsident Jose Munoz sagte, noch in diesem Jahr solle der Genesis G90 eine Hands-off-Funktion für autonomes Fahren erhalten. Unklar bleibt jedoch, ob das Auto nur auf begrenzten Strecken fahren darf oder überhaupt zertifiziert wird. Importierte Tesla-Modelle konnten koreanisches Recht dank des Korea-USA-FTA umgehen. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "La réglementation freine l’autonomie coréenne quand Tesla FSD garde plus de marge",
+      "excerpt": "Les voitures autonomes coréennes restent presque limitées aux autoroutes par les règles locales, tandis que les Tesla FSD importées bénéficient d’une autre voie via l’accord Corée-États-Unis.",
+      "body": "Les véhicules autonomes coréens sont freinés par la réglementation nationale et peuvent, dans les faits, circuler surtout sur les autoroutes ou des sections limitées, selon le rapport. Les voitures Tesla équipées du système supervisé FSD (Full Self-Driving) peuvent parcourir des ruelles de Séoul, alors que les véhicules autonomes coréens disposent d’un champ d’usage beaucoup plus restreint. Une fonction comme celle de Tesla FSD, qui active le clignotant, change de voie et tente de dépasser lorsqu’un véhicule devant roule lentement, ne peut pas être présentée en Corée. Jose Munoz, président de Hyundai Motor, a déclaré vouloir intégrer cette année une fonction autonome de niveau hands-off à la Genesis G90, mais il reste incertain que la voiture puisse circuler hors de zones limitées ou même obtenir sa certification. Les modèles Tesla importés ont pu contourner la loi coréenne grâce à l’ALE Corée-États-Unis. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "قواعد القيادة الذاتية تقيد سيارات كوريا بينما يعمل Tesla FSD بهامش أوسع",
+      "excerpt": "تظل السيارات ذاتية القيادة الكورية محدودة فعليا بالطرق السريعة بسبب اللوائح المحلية، بينما تستفيد سيارات تسلا المزودة بـFSD من مسار مختلف مرتبط باتفاقية التجارة الحرة الكورية الأميركية.",
+      "body": "أفاد التقرير بأن السيارات ذاتية القيادة الكورية مقيدة باللوائح المحلية، ولا يمكنها عمليا السير إلا على الطرق السريعة أو في مقاطع محدودة. في المقابل، تستطيع سيارات تسلا المزودة بنظام القيادة الذاتية الخاضع للإشراف FSD (Full Self-Driving) السير في أزقة سيول، بينما يبقى نطاق تشغيل السيارات الكورية أضيق بكثير. كما أن وظيفة مثل Tesla FSD، التي تشغل إشارة الانعطاف وتغير المسار وتحاول التجاوز عندما تكون السيارة الأمامية بطيئة، لا يمكن طرحها في كوريا. وقال خوسيه مونيوز، رئيس Hyundai Motor، إن الشركة ستضيف هذا العام وظيفة قيادة ذاتية بمستوى hands-off إلى Genesis G90، لكن من غير الواضح إن كانت السيارة ستقتصر على مقاطع محددة أو ستحصل على الاعتماد أصلا. وتمكنت طرازات تسلا المستوردة من تجاوز القانون الكوري بفضل اتفاقية التجارة الحرة بين كوريا والولايات المتحدة. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "नियमों में फंसी कोरियाई स्वायत्त कारें, Tesla FSD को मिला ज्यादा दायरा",
+      "excerpt": "कोरियाई स्वायत्त वाहन घरेलू नियमों के कारण लगभग राजमार्गों तक सीमित हैं, जबकि FSD से लैस आयातित Tesla मॉडल को कोरिया-अमेरिका FTA से अलग प्रमाणन मार्ग मिला।",
+      "body": "रिपोर्ट के अनुसार, कोरियाई स्वायत्त वाहन घरेलू नियमों से बंधे हैं और व्यवहार में राजमार्गों या सीमित हिस्सों पर ही चल सकते हैं। Tesla के निगरानी आधारित स्वायत्त ड्राइविंग सिस्टम FSD (Full Self-Driving) से लैस वाहन सियोल की गलियों में भी चल सकते हैं, जबकि कोरियाई स्वायत्त कारों का संचालन क्षेत्र काफी संकरा है। जब आगे की कार धीमी चले तो खुद संकेतक जलाकर लेन बदलना और ओवरटेक की कोशिश करना जैसी Tesla FSD की सुविधा कोरिया में पेश नहीं की जा सकती। Hyundai Motor के अध्यक्ष Jose Munoz ने कहा कि कंपनी इस साल Genesis G90 में hands-off स्तर की स्वायत्त ड्राइविंग सुविधा जोड़ेगी, लेकिन यह स्पष्ट नहीं है कि वह कार सीमित मार्गों तक रहेगी या उसे प्रमाणन मिल पाएगा। आयातित Tesla मॉडल कोरिया-अमेरिका FTA के कारण कोरियाई कानून से बच सके। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Aturan Batasi Mobil Otonom Korea, Tesla FSD Bergerak dengan Ruang Lebih Luas",
+      "excerpt": "Mobil otonom Korea praktis terbatas di jalan tol karena regulasi domestik, sementara Tesla ber-FSD impor mendapat jalur berbeda berkat FTA Korea-AS.",
+      "body": "Mobil otonom Korea terhambat regulasi domestik dan secara praktis hanya dapat beroperasi di jalan tol atau ruas terbatas, menurut laporan tersebut. Kendaraan Tesla yang dilengkapi sistem otonom terawasi FSD (Full Self-Driving) dapat melaju di gang-gang Seoul, sedangkan mobil otonom Korea memiliki ruang operasi yang jauh lebih sempit. Fitur seperti Tesla FSD, yang menyalakan lampu sein, berpindah lajur, dan mencoba menyalip saat kendaraan di depan berjalan lambat, sulit diperkenalkan di Korea. Presiden Hyundai Motor Jose Munoz mengatakan tahun ini perusahaan akan memasukkan fungsi otonom tingkat hands-off ke Genesis G90, tetapi belum jelas apakah mobil itu hanya boleh melaju di ruas terbatas atau bisa mendapatkan sertifikasi. Model Tesla impor dapat melewati hukum Korea berkat FTA Korea-AS. Sumber: rss.donga.com"
+    }
+  }
+}

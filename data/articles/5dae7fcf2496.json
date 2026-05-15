@@ -1,0 +1,75 @@
+{
+  "id": "5dae7fcf2496",
+  "slug": "반도체-제때-받을수-있나-파업-진짜로-벌어지나-해외-고객사-문의-빗발-683580",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T17:04:28.992Z",
+  "updatedAt": "2026-05-15T17:04:28.992Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260516/133933788/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260516/133933788/2",
+  "titleFingerprint": "83bb1fc0ce72b9cb745d62d96a23917052822a06",
+  "dedupKeys": [
+    "5dae7fcf2496d84ccb11384890d51200cbeda38f",
+    "83bb1fc0ce72b9cb745d62d96a23917052822a06",
+    "4e77e7ea6155accc3a453b226cb639b5b365699d"
+  ],
+  "imageUrl": "/images/articles/5dae7fcf2496.jpg",
+  "i18n": {
+    "ko": {
+      "title": "삼성전자 노조 파업 예고에 애플·HP 등 해외 고객사 반도체 공급 우려 확대",
+      "excerpt": "삼성전자 노조가 예고한 21일 파업을 앞두고 애플, HP 등 해외 고객사들이 반도체 공급 차질 가능성과 대응 방안을 삼성전자에 문의한 것으로 전해졌다.",
+      "body": "삼성전자 노조가 예고한 파업일인 21일이 다가오면서 해외 고객사들의 반도체 공급 우려가 커지고 있다. 15일 반도체업계에 따르면 애플과 HP 등 삼성전자의 주요 고객사들은 최근 파업 현실화 가능성, 예상되는 공급 차질 규모, 대응 방향 등을 삼성전자에 문의한 것으로 전해졌다. 애플과 HP는 스마트폰과 PC 제조에 필요한 메모리 반도체를 삼성전자에서 공급받고 있다. 이 밖에 빅테크 기업들도 인공지능(AI) 데이터센터 설립과 운영에 필요한 메모리 반도체 공급에 문제가 없는지 우려를 전달한 것으로 알려졌다. 파업 예고일이 일주일도 남지 않자 삼성전자는 공장 셧다운에 대비해 생산량 조절에 들어갔다. 신규 웨이퍼 투입 규모를 제한하고 적은 인원으로 생산을 유지할 수 있도록 시스템을 정비하는 방식이다. 출처: rss.donga.com."
+    },
+    "en": {
+      "title": "Samsung Union Strike Notice Raises Chip Supply Concerns Among Apple, HP and Overseas Clients",
+      "excerpt": "Ahead of the Samsung Electronics union’s planned May 21 strike, overseas clients including Apple and HP have reportedly asked about possible chip supply disruptions and response plans.",
+      "body": "Concerns are growing among Samsung Electronics’ overseas clients as the date of a planned union strike, May 21, approaches. According to semiconductor industry sources on May 15, major customers including Apple and HP recently asked Samsung Electronics about the likelihood of the strike taking place, the expected scale of any supply disruption, and the company’s response direction. Apple and HP receive memory semiconductors from Samsung for smartphone and PC production. Other big tech companies have also reportedly conveyed concerns over whether memory chip supplies for building and operating artificial intelligence (AI) data centers could be affected. With less than a week left before the planned strike, Samsung has begun adjusting production volumes in preparation for a possible factory shutdown. The company is limiting new wafer input and reorganizing systems so production can continue with fewer workers. Source: rss.donga.com."
+    },
+    "ja": {
+      "title": "サムスン電子労組のスト予告でアップル・HPなど海外顧客に半導体供給懸念",
+      "excerpt": "サムスン電子労組が予告した21日のストを前に、アップルやHPなど海外顧客が半導体供給への影響や対応策を問い合わせたと伝えられた。",
+      "body": "サムスン電子労組が予告したスト予定日の21日が近づき、海外顧客の半導体供給に対する懸念が高まっている。半導体業界によると15日、アップルやHPなどサムスン電子の主要顧客は最近、ストが実際に行われる可能性、予想される供給支障の規模、対応方針などをサムスン電子に問い合わせたとされる。アップルとHPはスマートフォンやPCの製造に必要なメモリー半導体をサムスン電子から供給されている。ほかのビッグテック企業も、人工知能（AI）データセンターの設立・運営に必要なメモリー半導体の供給に問題がないか懸念を伝えたという。スト予告日まで1週間を切り、サムスン電子は工場停止に備えて生産量の調整に入った。新規ウエハー投入規模を制限し、少人数でも生産を維持できるようシステムを整備している。出典: rss.donga.com."
+    },
+    "zh": {
+      "title": "三星电子工会罢工临近 苹果、HP等海外客户担忧半导体供应受影响",
+      "excerpt": "在三星电子工会预告的21日罢工临近之际，苹果、HP等海外客户据称已询问罢工可能性、供应中断规模及应对方向。",
+      "body": "随着三星电子工会预告的21日罢工日期临近，海外客户对半导体供应的担忧正在扩大。据半导体行业15日消息，苹果、HP等三星电子主要客户近期向三星电子询问了罢工实际发生的可能性、预计供应受阻规模以及应对方向等。苹果和HP从三星电子采购智能手机和PC制造所需的存储半导体。此外，其他大型科技企业也据称向三星电子表达了对人工智能（AI）数据中心建设和运营所需存储半导体供应是否会出现问题的担忧。距离预告罢工日已不足一周，三星电子已开始为可能的工厂停摆调整产量。其方式包括限制新投入工序前段的晶圆规模，并整备系统，以便在人员较少的情况下维持生产。来源: rss.donga.com."
+    },
+    "es": {
+      "title": "Aviso de huelga en Samsung aumenta temor de Apple, HP y clientes extranjeros por chips",
+      "excerpt": "Ante la huelga prevista por el sindicato de Samsung Electronics para el 21, Apple, HP y otros clientes extranjeros habrían consultado por posibles retrasos en semiconductores.",
+      "body": "La preocupación de los clientes extranjeros de Samsung Electronics por el suministro de semiconductores crece a medida que se acerca el 21, fecha de huelga anunciada por el sindicato. Según fuentes del sector de semiconductores citadas el día 15, clientes clave como Apple y HP preguntaron recientemente a Samsung Electronics por la posibilidad de que la huelga se materialice, la magnitud esperada de los problemas de suministro y la dirección de la respuesta. Apple y HP reciben de Samsung los semiconductores de memoria necesarios para fabricar teléfonos inteligentes y PC. Otras grandes tecnológicas también habrían trasladado inquietudes sobre si habrá problemas en el suministro de memoria para construir y operar centros de datos de inteligencia artificial (IA). Con menos de una semana para la fecha prevista, Samsung comenzó a ajustar la producción ante un posible cierre de fábricas, limitando la entrada de nuevas obleas y revisando sistemas para mantener la producción con menos personal. Fuente: rss.donga.com."
+    },
+    "pt": {
+      "title": "Greve prevista na Samsung eleva preocupação de Apple, HP e clientes externos com chips",
+      "excerpt": "Com a greve do sindicato da Samsung Electronics marcada para o dia 21 se aproximando, Apple, HP e outros clientes externos teriam perguntado sobre riscos à oferta de chips.",
+      "body": "A preocupação de clientes externos da Samsung Electronics com o fornecimento de semicondutores aumenta à medida que se aproxima o dia 21, data de greve anunciada pelo sindicato. Segundo fontes do setor de semicondutores em 15 de maio, grandes clientes como Apple e HP consultaram recentemente a Samsung Electronics sobre a possibilidade de a greve ocorrer, o tamanho esperado de eventuais interrupções no fornecimento e a direção das medidas de resposta. Apple e HP recebem da Samsung semicondutores de memória necessários para fabricar smartphones e PCs. Outras big techs também teriam manifestado preocupação sobre possíveis problemas no fornecimento de memória para instalação e operação de data centers de inteligência artificial (IA). Com menos de uma semana até a data prevista, a Samsung iniciou ajustes de produção para se preparar para uma possível paralisação das fábricas, limitando a entrada de novas wafers e reorganizando sistemas para manter a produção com menos funcionários. Fonte: rss.donga.com."
+    },
+    "de": {
+      "title": "Samsung-Streikankündigung sorgt bei Apple, HP und Auslandskunden für Chip-Sorgen",
+      "excerpt": "Vor dem für den 21. angekündigten Streik der Samsung-Electronics-Gewerkschaft fragten Apple, HP und weitere Auslandskunden offenbar nach möglichen Chip-Lieferstörungen.",
+      "body": "Bei Auslandskunden von Samsung Electronics wachsen die Sorgen um die Halbleiterversorgung, da der von der Gewerkschaft angekündigte Streiktermin am 21. näher rückt. Nach Angaben aus der Halbleiterbranche vom 15. Mai haben wichtige Kunden wie Apple und HP Samsung Electronics zuletzt zur Wahrscheinlichkeit eines tatsächlichen Streiks, zum erwarteten Umfang möglicher Lieferstörungen und zur geplanten Reaktion befragt. Apple und HP beziehen von Samsung Speicherhalbleiter, die sie für die Produktion von Smartphones und PCs benötigen. Auch weitere große Technologieunternehmen sollen Bedenken geäußert haben, ob die Versorgung mit Speicherchips für Aufbau und Betrieb von Rechenzentren für künstliche Intelligenz (KI) gesichert bleibt. Weniger als eine Woche vor dem angekündigten Streik hat Samsung begonnen, die Produktion auf einen möglichen Werksstillstand vorzubereiten. Dazu begrenzt das Unternehmen den Einsatz neuer Wafer und richtet Systeme so aus, dass die Produktion mit weniger Personal aufrechterhalten werden kann. Quelle: rss.donga.com."
+    },
+    "fr": {
+      "title": "Préavis de grève chez Samsung : Apple, HP et des clients étrangers inquiets des puces",
+      "excerpt": "À l’approche de la grève prévue le 21 par le syndicat de Samsung Electronics, Apple, HP et d’autres clients étrangers auraient demandé des précisions sur les risques d’approvisionnement.",
+      "body": "Les inquiétudes des clients étrangers de Samsung Electronics concernant l’approvisionnement en semi-conducteurs augmentent à l’approche du 21, date de grève annoncée par le syndicat. Selon des sources du secteur des semi-conducteurs le 15 mai, de grands clients comme Apple et HP ont récemment interrogé Samsung Electronics sur la possibilité que la grève ait réellement lieu, l’ampleur attendue des perturbations d’approvisionnement et les mesures envisagées. Apple et HP reçoivent de Samsung les semi-conducteurs mémoire nécessaires à la fabrication de smartphones et de PC. D’autres grandes entreprises technologiques auraient aussi exprimé leurs préoccupations sur l’approvisionnement en mémoire destiné à la construction et à l’exploitation de centres de données d’intelligence artificielle (IA). À moins d’une semaine de la date prévue, Samsung a commencé à ajuster sa production en prévision d’un éventuel arrêt d’usine, en limitant l’introduction de nouvelles wafers et en réorganisant les systèmes pour maintenir la production avec moins de personnel. Source : rss.donga.com."
+    },
+    "ar": {
+      "title": "إضراب مرتقب في سامسونغ يثير قلق آبل وHP وعملاء خارجيين بشأن توريد الرقائق",
+      "excerpt": "مع اقتراب الإضراب الذي أعلنته نقابة سامسونغ إلكترونيكس في 21، استفسرت آبل وHP وعملاء خارجيون عن احتمال حدوثه وحجم تأثيره على إمدادات أشباه الموصلات.",
+      "body": "تتزايد مخاوف العملاء الخارجيين لشركة سامسونغ إلكترونيكس بشأن إمدادات أشباه الموصلات مع اقتراب موعد الإضراب الذي أعلنته النقابة في 21. ووفق مصادر في قطاع أشباه الموصلات في 15 مايو، فإن عملاء رئيسيين مثل آبل وHP استفسروا مؤخرا من سامسونغ إلكترونيكس عن احتمال تنفيذ الإضراب فعليا، وحجم اضطرابات الإمداد المتوقعة، واتجاه خطط الاستجابة. وتتلقى آبل وHP من سامسونغ أشباه موصلات ذاكرة لازمة لتصنيع الهواتف الذكية وأجهزة الكمبيوتر. كما نقلت شركات تقنية كبرى أخرى مخاوفها بشأن ما إذا كانت إمدادات شرائح الذاكرة اللازمة لإنشاء وتشغيل مراكز بيانات الذكاء الاصطناعي ستتأثر. ومع بقاء أقل من أسبوع على الموعد المعلن، بدأت سامسونغ تعديل الإنتاج استعدادا لاحتمال توقف المصانع، عبر الحد من إدخال رقائق ويفر جديدة وتهيئة الأنظمة للحفاظ على الإنتاج بعدد أقل من العاملين. المصدر: rss.donga.com."
+    },
+    "hi": {
+      "title": "सैमसंग यूनियन की हड़ताल चेतावनी से Apple, HP और विदेशी ग्राहकों में चिप आपूर्ति चिंता",
+      "excerpt": "सैमसंग इलेक्ट्रॉनिक्स यूनियन की 21 तारीख की प्रस्तावित हड़ताल से पहले Apple, HP और अन्य विदेशी ग्राहकों ने संभावित सेमीकंडक्टर आपूर्ति बाधा पर जानकारी मांगी है।",
+      "body": "सैमसंग इलेक्ट्रॉनिक्स यूनियन की प्रस्तावित हड़ताल की तारीख 21 नजदीक आने के साथ विदेशी ग्राहकों में सेमीकंडक्टर आपूर्ति को लेकर चिंता बढ़ रही है। सेमीकंडक्टर उद्योग के अनुसार 15 मई को, Apple और HP जैसे सैमसंग इलेक्ट्रॉनिक्स के प्रमुख ग्राहकों ने हाल में कंपनी से पूछा कि हड़ताल के वास्तव में होने की संभावना क्या है, संभावित आपूर्ति बाधा का आकार कितना हो सकता है और प्रतिक्रिया की दिशा क्या होगी। Apple और HP स्मार्टफोन और PC निर्माण के लिए जरूरी मेमोरी सेमीकंडक्टर सैमसंग इलेक्ट्रॉनिक्स से प्राप्त करते हैं। अन्य बड़ी टेक कंपनियों ने भी कृत्रिम बुद्धिमत्ता (AI) डेटा सेंटर स्थापित और संचालित करने के लिए जरूरी मेमोरी सेमीकंडक्टर आपूर्ति पर चिंता जताई है। हड़ताल की घोषित तारीख में एक सप्ताह से भी कम समय बचने पर सैमसंग ने संभावित फैक्टरी शटडाउन की तैयारी में उत्पादन मात्रा समायोजित करना शुरू किया है। कंपनी नए वेफर इनपुट को सीमित कर रही है और कम कर्मियों के साथ उत्पादन बनाए रखने के लिए सिस्टम व्यवस्थित कर रही है। स्रोत: rss.donga.com."
+    },
+    "id": {
+      "title": "Rencana Mogok Serikat Samsung Picu Kekhawatiran Pasokan Chip dari Apple, HP dan Klien Asing",
+      "excerpt": "Menjelang rencana mogok serikat Samsung Electronics pada 21 Mei, Apple, HP dan klien asing lain dilaporkan menanyakan risiko gangguan pasokan semikonduktor.",
+      "body": "Kekhawatiran pelanggan luar negeri Samsung Electronics terhadap pasokan semikonduktor meningkat saat tanggal mogok yang diumumkan serikat, 21 Mei, semakin dekat. Menurut sumber industri semikonduktor pada 15 Mei, pelanggan utama seperti Apple dan HP baru-baru ini menanyakan kepada Samsung Electronics kemungkinan mogok benar-benar terjadi, perkiraan skala gangguan pasokan, dan arah respons perusahaan. Apple dan HP menerima semikonduktor memori dari Samsung untuk produksi smartphone dan PC. Perusahaan teknologi besar lainnya juga dilaporkan menyampaikan kekhawatiran apakah pasokan semikonduktor memori untuk pembangunan dan pengoperasian pusat data kecerdasan buatan (AI) akan bermasalah. Dengan waktu kurang dari satu minggu sebelum tanggal mogok, Samsung mulai menyesuaikan volume produksi untuk menghadapi kemungkinan penghentian pabrik. Perusahaan membatasi masuknya wafer baru dan menata sistem agar produksi dapat dipertahankan dengan jumlah pekerja yang lebih sedikit. Sumber: rss.donga.com."
+    }
+  }
+}
