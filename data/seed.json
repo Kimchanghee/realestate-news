@@ -1,5 +1,230 @@
 [
   {
+    "id": "0dccc16b1cd1",
+    "slug": "두나무-키운-카카오-20억으로-1조-벌었다ai-신사업-재투자-536600",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T21:04:56.174Z",
+    "updatedAt": "2026-05-15T21:04:56.174Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930893/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930893/1",
+    "titleFingerprint": "7b0bc795841f1c8546c83a636b4576fa5a0dc49c",
+    "dedupKeys": [
+      "0dccc16b1cd1ad9679d1bb7de85c83109547975a",
+      "7b0bc795841f1c8546c83a636b4576fa5a0dc49c",
+      "da4036e1354c9925e2e71b429642920799d76fd1"
+    ],
+    "imageUrl": "/images/articles/0dccc16b1cd1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오, 두나무 지분 1조원 매각…20억 초기 투자 500배 성과",
+        "excerpt": "카카오는 14일 카카오인베스트먼트가 보유한 두나무 주식 228만4000주를 1조32억원에 처분한다고 공시하며 AI 등 신사업 재투자 방침을 밝혔다.",
+        "body": "카카오가 14일 자회사 카카오인베스트먼트를 통해 보유한 두나무 주식 228만4000주를 처분한다고 공시했다. 처분 금액은 1조32억5156만8000원이며, 처분 예정일은 6월15일이다. 해당 주식은 두나무 지분 6.55%에 해당한다. 이번 매각으로 카카오의 두나무 지분율은 10.58%에서 4.03%로 낮아지고, 주주 순위도 6대 주주로 밀린다. 카카오는 두나무 창업 초기 약 20억원을 투자한 초기 투자자로, 이번 매각 지분 가치는 약 500배 불어난 규모다. 두나무가 네이버파이낸셜과 합병을 앞둔 가운데 카카오는 지분 정리를 통해 관계를 정리하고, 매각 대금을 인공지능(AI) 등 신사업에 재투자할 계획이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Kakao Sells Dunamu Stake for 1 Trillion Won, Turning Early Bet Into 500x Gain",
+        "excerpt": "Kakao disclosed on the 14th that Kakao Investment will sell 2.284 million Dunamu shares for 1.003 trillion won, with proceeds to be reinvested in AI and new businesses.",
+        "body": "Kakao disclosed on the 14th that its subsidiary Kakao Investment will dispose of 2.284 million shares in Dunamu. The transaction is valued at 1,003,251,568,000 won and is scheduled for June 15. The shares represent a 6.55% stake in Dunamu. After the sale, Kakao’s ownership in Dunamu will fall from 10.58% to 4.03%, moving it down to the position of sixth-largest shareholder. Kakao was an early investor in Dunamu, having invested about 2 billion won near the company’s founding. The stake being sold has grown to roughly 500 times that initial investment. As Dunamu prepares for a merger with Naver Financial, Kakao is moving to reorganize its long-standing relationship and plans to reinvest the proceeds in artificial intelligence and other new businesses. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "カカオ、ドゥナム株1兆ウォン売却へ…20億ウォン投資が500倍に",
+        "excerpt": "カカオは14日、子会社カカオインベストメントが保有するドゥナム株228万4000株を1兆32億ウォンで処分し、AIなど新事業へ再投資すると公示した。",
+        "body": "カカオは14日、子会社カカオインベストメントが保有するドゥナム株228万4000株を処分すると公示した。処分額は1兆32億5156万8000ウォンで、予定日は6月15日。対象株式はドゥナム株式の6.55%に当たる。今回の売却により、カカオのドゥナム持ち分は10.58%から4.03%に低下し、株主順位も第6位となる。カカオはドゥナム創業初期に約20億ウォンを投資した初期投資家で、今回売却する持ち分価値は当初投資の約500倍に拡大した。ドゥナムがネイバーファイナンシャルとの合併を控える中、カカオは持ち分整理を通じて長年の関係を整理し、売却代金を人工知能（AI）など新事業に再投資する方針だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Kakao出售Dunamu股份套现1万亿韩元，20亿早期投资增值500倍",
+        "excerpt": "Kakao于14日公告称，子公司Kakao Investment将出售228.4万股Dunamu股份，金额为1.0032万亿韩元，并计划再投资AI等新业务。",
+        "body": "Kakao于14日公告称，子公司Kakao Investment将处置所持Dunamu股票228.4万股。处置金额为1万亿32亿5156万8000韩元，预计处置日期为6月15日。该部分股票相当于Dunamu 6.55%的股份。交易完成后，Kakao持有的Dunamu股份将从10.58%降至4.03%，股东排名也将降至第六大股东。Kakao是Dunamu创立初期的投资者，当时投入约20亿韩元；此次出售的股份价值已增长至约500倍。在Dunamu即将与Naver Financial合并之际，Kakao正通过整理股份来调整长期关系，并计划将出售所得再投资于人工智能（AI）等新业务。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Kakao vende participación en Dunamu por 1 billón de wones y multiplica por 500 su inversión",
+        "excerpt": "Kakao informó el día 14 que Kakao Investment venderá 2,284 millones de acciones de Dunamu por 1,003 billones de wones y reinvertirá los fondos en IA y nuevos negocios.",
+        "body": "Kakao informó el día 14 que su filial Kakao Investment venderá 2,284 millones de acciones de Dunamu. El importe de la operación asciende a 1.003.251.568.000 wones y la fecha prevista de ejecución es el 15 de junio. Las acciones equivalen al 6,55% de Dunamu. Tras la venta, la participación de Kakao en Dunamu bajará del 10,58% al 4,03%, por lo que pasará a ser el sexto mayor accionista. Kakao fue uno de los primeros inversores de Dunamu, con una inversión inicial de unos 2.000 millones de wones. La participación vendida vale ahora unas 500 veces esa suma. Mientras Dunamu se prepara para fusionarse con Naver Financial, Kakao reorganiza su relación de largo plazo y planea reinvertir los ingresos en inteligencia artificial y otros nuevos negocios. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Kakao vende fatia da Dunamu por 1 trilhão de won e transforma aposta inicial em ganho de 500 vezes",
+        "excerpt": "A Kakao informou no dia 14 que a Kakao Investment venderá 2,284 milhões de ações da Dunamu por 1,003 trilhão de won, com reinvestimento previsto em IA e novos negócios.",
+        "body": "A Kakao informou no dia 14 que sua subsidiária Kakao Investment venderá 2,284 milhões de ações da Dunamu. O valor da transação é de 1.003.251.568.000 won, com conclusão prevista para 15 de junho. As ações correspondem a 6,55% da Dunamu. Com a venda, a participação da Kakao na empresa cairá de 10,58% para 4,03%, levando-a à posição de sexta maior acionista. A Kakao foi investidora inicial da Dunamu, tendo aplicado cerca de 2 bilhões de won no início da companhia. A fatia vendida agora vale aproximadamente 500 vezes esse aporte. Enquanto a Dunamu se prepara para a fusão com a Naver Financial, a Kakao reorganiza sua relação de longa data e pretende reinvestir os recursos em inteligência artificial e outros novos negócios. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Kakao verkauft Dunamu-Anteil für 1 Billion Won und macht aus 2 Milliarden Won das 500-Fache",
+        "excerpt": "Kakao teilte am 14. mit, dass Kakao Investment 2,284 Millionen Dunamu-Aktien für 1,003 Billionen Won verkauft und den Erlös in KI sowie neue Geschäfte reinvestieren will.",
+        "body": "Kakao gab am 14. bekannt, dass die Tochtergesellschaft Kakao Investment 2,284 Millionen Aktien von Dunamu veräußern wird. Der Transaktionswert liegt bei 1.003.251.568.000 Won, als geplanter Termin wurde der 15. Juni genannt. Die Aktien entsprechen einem Anteil von 6,55% an Dunamu. Nach dem Verkauf sinkt Kakaos Beteiligung von 10,58% auf 4,03%, womit das Unternehmen auf den Rang des sechstgrößten Aktionärs zurückfällt. Kakao war ein Frühinvestor von Dunamu und hatte zu Beginn rund 2 Milliarden Won investiert. Der nun verkaufte Anteil ist etwa auf das 500-Fache dieser Summe angewachsen. Da Dunamu vor der Fusion mit Naver Financial steht, ordnet Kakao seine langjährige Beziehung neu und will den Erlös in künstliche Intelligenz und andere neue Geschäftsfelder reinvestieren. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Kakao vend des parts de Dunamu pour 1 000 milliards de wons, un investissement multiplié par 500",
+        "excerpt": "Kakao a annoncé le 14 que Kakao Investment vendrait 2,284 millions d’actions Dunamu pour 1 003 milliards de wons, avec un réinvestissement prévu dans l’IA et de nouvelles activités.",
+        "body": "Kakao a annoncé le 14 que sa filiale Kakao Investment céderait 2,284 millions d’actions de Dunamu. Le montant de l’opération atteint 1 003 251 568 000 wons, avec une date prévue au 15 juin. Les actions représentent 6,55% du capital de Dunamu. Après cette vente, la participation de Kakao passera de 10,58% à 4,03%, reléguant le groupe au rang de sixième actionnaire. Kakao était un investisseur des tout débuts de Dunamu, avec un apport initial d’environ 2 milliards de wons. La participation cédée vaut désormais près de 500 fois ce montant. Alors que Dunamu se prépare à fusionner avec Naver Financial, Kakao réorganise sa relation de longue date et prévoit de réinvestir le produit de la vente dans l’intelligence artificielle et d’autres nouvelles activités. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كاكاو تبيع حصة في دونامو بتريليون وون وتحول استثمارا مبكرا إلى 500 ضعف",
+        "excerpt": "أعلنت كاكاو في 14 من الشهر أن كاكاو إنفستمنت ستبيع 2.284 مليون سهم في دونامو مقابل 1.003 تريليون وون، مع إعادة استثمار العائدات في الذكاء الاصطناعي وأعمال جديدة.",
+        "body": "أعلنت كاكاو في 14 من الشهر أن شركتها التابعة كاكاو إنفستمنت ستتخارج من 2.284 مليون سهم في دونامو. تبلغ قيمة الصفقة 1,003,251,568,000 وون، ومن المقرر تنفيذها في 15 يونيو. وتمثل الأسهم 6.55% من دونامو. وبعد البيع ستنخفض حصة كاكاو في دونامو من 10.58% إلى 4.03%، لتتراجع إلى موقع سادس أكبر مساهم. كانت كاكاو من أوائل المستثمرين في دونامو، إذ استثمرت نحو ملياري وون في مرحلة التأسيس. وتبلغ قيمة الحصة المباعة الآن نحو 500 ضعف ذلك الاستثمار. ومع استعداد دونامو للاندماج مع نافير فايننشال، تمضي كاكاو في ترتيب علاقتها الطويلة معها وتخطط لإعادة استثمار العائدات في الذكاء الاصطناعي وأعمال جديدة أخرى. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Kakao ने Dunamu हिस्सेदारी 1 ट्रिलियन वॉन में बेची, शुरुआती निवेश 500 गुना हुआ",
+        "excerpt": "Kakao ने 14 तारीख को बताया कि Kakao Investment Dunamu के 22.84 लाख शेयर 1.003 ट्रिलियन वॉन में बेचेगी और राशि AI सहित नए कारोबारों में फिर लगाएगी।",
+        "body": "Kakao ने 14 तारीख को घोषणा की कि उसकी सहायक कंपनी Kakao Investment Dunamu के 22.84 लाख शेयर बेचेगी। सौदे की राशि 1,003,251,568,000 वॉन है और निर्धारित तारीख 15 जून है। ये शेयर Dunamu की 6.55% हिस्सेदारी के बराबर हैं। बिक्री के बाद Kakao की Dunamu में हिस्सेदारी 10.58% से घटकर 4.03% रह जाएगी और वह छठा सबसे बड़ा शेयरधारक बन जाएगा। Kakao ने Dunamu की स्थापना के शुरुआती दौर में लगभग 2 अरब वॉन निवेश किए थे। अब बेची जा रही हिस्सेदारी का मूल्य उस शुरुआती निवेश से करीब 500 गुना हो गया है। Dunamu के Naver Financial के साथ विलय से पहले Kakao अपनी लंबे समय की हिस्सेदारी को व्यवस्थित कर रहा है और बिक्री से मिली राशि को कृत्रिम बुद्धिमत्ता तथा अन्य नए कारोबारों में फिर निवेश करने की योजना बना रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kakao Jual Saham Dunamu Rp Setara 1 Triliun Won, Investasi Awal Naik 500 Kali",
+        "excerpt": "Kakao mengumumkan pada 14 bahwa Kakao Investment akan menjual 2,284 juta saham Dunamu senilai 1,003 triliun won dan memakai dananya untuk AI serta bisnis baru.",
+        "body": "Kakao mengumumkan pada 14 bahwa anak usahanya, Kakao Investment, akan melepas 2,284 juta saham Dunamu. Nilai transaksi mencapai 1.003.251.568.000 won dan dijadwalkan pada 15 Juni. Saham tersebut setara dengan 6,55% kepemilikan di Dunamu. Setelah penjualan, kepemilikan Kakao di Dunamu turun dari 10,58% menjadi 4,03%, sehingga posisinya bergeser menjadi pemegang saham terbesar keenam. Kakao merupakan investor awal Dunamu dengan investasi sekitar 2 miliar won pada masa pendirian perusahaan. Nilai saham yang dijual kini tumbuh sekitar 500 kali lipat dari investasi awal itu. Menjelang merger Dunamu dengan Naver Financial, Kakao menata kembali hubungan jangka panjangnya dan berencana menginvestasikan hasil penjualan ke kecerdasan buatan serta bisnis baru lainnya. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "6ffbe568e516",
+    "slug": "북중미-월드컵-d-1개월-멕시코-학교급식에-오른-k-푸드-192515",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T21:03:44.232Z",
+    "updatedAt": "2026-05-15T21:03:44.232Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930924/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930924/1",
+    "titleFingerprint": "448e23b3a8add454a9e615270fbda8ce16dd53f9",
+    "dedupKeys": [
+      "6ffbe568e516d99eae2d69b02d361667ed141ed3",
+      "448e23b3a8add454a9e615270fbda8ce16dd53f9",
+      "55da6a3b67d372103fec75f3f26e584444529a36"
+    ],
+    "imageUrl": "/images/articles/6ffbe568e516.jpg",
+    "i18n": {
+      "ko": {
+        "title": "K-푸드, 북중미 월드컵 한 달 앞두고 멕시코 학교급식 현장에 올랐다",
+        "excerpt": "농림축산식품부와 aT는 5월 13~14일 멕시코시티 ASF 국제학교에서 청소년 약 1000명을 대상으로 월드컵 연계 K-푸드 체험행사를 열었다.",
+        "body": "2026년 북중미 월드컵 개막을 한 달가량 앞두고 농림축산식품부와 한국농수산식품유통공사(aT)가 공동 개최국 멕시코에서 청소년 대상 K-푸드 홍보에 나섰다. aT는 5월 13일부터 14일까지 멕시코시티 ASF 국제학교 재학생 등 약 1000명을 대상으로 ‘K-Food en tu Escuela(학교에서 즐기는 K-푸드)’ 행사를 열었다고 15일 밝혔다. 이번 행사는 전 세계 스포츠 행사인 월드컵과 연계해 미래 소비층인 청소년에게 한국 식문화를 알리기 위해 기획됐다. 첫날 점심시간에는 비빔밥, 김치, 잡채, 떡볶이 시식이 진행됐고, 축구 슛 챌린지와 한복 체험, 전통놀이도 함께 마련됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "K-Food Reaches Mexican School Meals One Month Before North America World Cup",
+        "excerpt": "South Korea’s Agriculture Ministry and aT held a World Cup-linked K-food experience for about 1,000 students at ASF International School in Mexico City on May 13-14.",
+        "body": "About one month before the 2026 North America World Cup, South Korea’s Ministry of Agriculture, Food and Rural Affairs and the Korea Agro-Fisheries & Food Trade Corporation (aT) promoted K-food to teenagers in Mexico, one of the co-host countries. aT said on May 15 that it held “K-Food en tu Escuela,” meaning K-food enjoyed at school, from May 13 to 14 for about 1,000 students, including those at ASF International School in Mexico City. The event was planned to connect with the global sports event and introduce Korean food culture to teenagers, a key future consumer group. On the first day, students tasted bibimbap, kimchi, japchae and tteokbokki during lunch, while a soccer shoot challenge, hanbok experience and traditional games were also offered. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "Kフード、北中米W杯まで1カ月でメキシコの学校給食現場へ",
+        "excerpt": "韓国農林畜産食品部とaTは5月13～14日、メキシコ市のASF国際学校で生徒約1000人を対象にW杯連携のKフード体験行事を開いた。",
+        "body": "2026年北中米ワールドカップ開幕を約1カ月後に控え、韓国農林畜産食品部と韓国農水産食品流通公社（aT）が共同開催国メキシコで青少年向けにKフードを紹介した。aTは5月15日、13日から14日までメキシコ市のASF国際学校の在学生など約1000人を対象に「K-Food en tu Escuela（学校で楽しむKフード）」を開催したと明らかにした。今回の行事は、世界的スポーツイベントであるW杯と連動し、将来の主要消費層である青少年に韓国の食文化を伝える目的で企画された。初日の昼食時間にはビビンバ、キムチ、チャプチェ、トッポッキの試食が行われ、サッカーのシュートチャレンジ、韓服体験、伝統遊びも用意された。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "K-Food亮相墨西哥校园餐 北中美世界杯倒计时一个月引关注",
+        "excerpt": "韩国农林畜产食品部和aT于5月13日至14日在墨西哥城ASF国际学校，面向约1000名青少年举办世界杯联动K-Food体验活动。",
+        "body": "在2026年北中美世界杯开幕约一个月前，韩国农林畜产食品部和韩国农水产食品流通公社（aT）在共同主办国墨西哥面向青少年宣传K-Food。aT于5月15日表示，5月13日至14日在墨西哥城ASF国际学校，面向该校学生等约1000人举办了“K-Food en tu Escuela（在学校享用K-Food）”活动。此次活动结合世界杯这一全球体育盛会，旨在向未来主要消费群体青少年介绍韩国饮食文化。首日利用午餐时间安排了拌饭、泡菜、杂菜、炒年糕等代表性K-Food试吃，并在足球主题空间中开展射门挑战、韩服体验和传统游戏，提高学生对韩国饮食文化的兴趣。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "K-Food llega a comedores escolares de México a un mes del Mundial 2026",
+        "excerpt": "El Ministerio de Agricultura de Corea y aT realizaron del 13 al 14 de mayo en la escuela ASF de Ciudad de México una experiencia K-Food para unos 1.000 estudiantes.",
+        "body": "A cerca de un mes del inicio del Mundial de Norteamérica 2026, el Ministerio de Agricultura, Alimentación y Asuntos Rurales de Corea del Sur y Korea Agro-Fisheries & Food Trade Corporation (aT) promovieron la K-Food entre adolescentes en México, país coanfitrión. aT informó el 15 de mayo que celebró del 13 al 14 de mayo el evento “K-Food en tu Escuela” para unos 1.000 alumnos, incluidos estudiantes de la escuela internacional ASF en Ciudad de México. La iniciativa fue diseñada para vincular la cultura alimentaria coreana con el Mundial, un evento deportivo global, y acercarla a los jóvenes como futuros consumidores. El primer día, durante el almuerzo, se ofrecieron degustaciones de bibimbap, kimchi, japchae y tteokbokki, junto con un reto de tiros de fútbol, experiencia con hanbok y juegos tradicionales. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "K-Food chega às refeições escolares no México a um mês da Copa 2026",
+        "excerpt": "O Ministério da Agricultura da Coreia e a aT realizaram, em 13 e 14 de maio, na escola ASF da Cidade do México, uma experiência K-Food para cerca de 1.000 alunos.",
+        "body": "A cerca de um mês da abertura da Copa do Mundo de 2026 na América do Norte, o Ministério da Agricultura, Alimentação e Assuntos Rurais da Coreia do Sul e a Korea Agro-Fisheries & Food Trade Corporation (aT) promoveram a K-Food entre adolescentes no México, um dos países-sede. A aT informou em 15 de maio que realizou, de 13 a 14 de maio, o evento “K-Food en tu Escuela” para cerca de 1.000 estudantes, incluindo alunos da escola internacional ASF, na Cidade do México. A ação foi planejada para associar a cultura alimentar coreana ao Mundial, um evento esportivo global, e apresentá-la aos jovens, futuros consumidores. No primeiro dia, durante o almoço, houve degustação de bibimbap, kimchi, japchae e tteokbokki, além de desafio de chutes ao gol, experiência com hanbok e jogos tradicionais. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "K-Food erreicht Mexikos Schulverpflegung einen Monat vor der WM 2026",
+        "excerpt": "Südkoreas Agrarministerium und aT veranstalteten am 13. und 14. Mai an der ASF International School in Mexiko-Stadt ein WM-bezogenes K-Food-Erlebnis für rund 1.000 Schüler.",
+        "body": "Rund einen Monat vor Beginn der Fußball-Weltmeisterschaft 2026 in Nordamerika haben Südkoreas Ministerium für Landwirtschaft, Ernährung und ländliche Angelegenheiten sowie die Korea Agro-Fisheries & Food Trade Corporation (aT) K-Food bei Jugendlichen in Mexiko, einem der Gastgeberländer, vorgestellt. aT teilte am 15. Mai mit, dass vom 13. bis 14. Mai an der ASF International School in Mexiko-Stadt die Veranstaltung „K-Food en tu Escuela“ für rund 1.000 Schüler stattfand. Geplant wurde sie, um die weltweite Sportveranstaltung WM mit koreanischer Esskultur zu verbinden und Jugendliche als künftige Verbrauchergruppe zu erreichen. Am ersten Tag probierten die Schüler in der Mittagspause Bibimbap, Kimchi, Japchae und Tteokbokki. Dazu gab es eine Fußball-Schuss-Challenge, Hanbok-Erlebnisse und traditionelle Spiele. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La K-Food arrive dans les écoles mexicaines à un mois de la Coupe du monde 2026",
+        "excerpt": "Le ministère sud-coréen de l’Agriculture et aT ont organisé les 13 et 14 mai à l’école ASF de Mexico une expérience K-Food liée au Mondial pour environ 1.000 élèves.",
+        "body": "À environ un mois de l’ouverture de la Coupe du monde 2026 en Amérique du Nord, le ministère sud-coréen de l’Agriculture, de l’Alimentation et des Affaires rurales et la Korea Agro-Fisheries & Food Trade Corporation (aT) ont promu la K-Food auprès des adolescents au Mexique, pays coorganisateur. aT a annoncé le 15 mai avoir tenu, du 13 au 14 mai, l’événement « K-Food en tu Escuela » pour environ 1.000 élèves, dont ceux de l’école internationale ASF à Mexico. L’opération a été conçue pour relier la culture culinaire coréenne à la Coupe du monde, événement sportif mondial, et la présenter aux jeunes, futurs consommateurs. Le premier jour, pendant le déjeuner, les élèves ont dégusté bibimbap, kimchi, japchae et tteokbokki, avec aussi un défi de tirs au but, une expérience du hanbok et des jeux traditionnels. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الأغذية الكورية تصل إلى مدارس المكسيك قبل شهر من كأس العالم 2026",
+        "excerpt": "نظمت وزارة الزراعة الكورية وaT يومي 13 و14 مايو في مدرسة ASF الدولية بمكسيكو سيتي فعالية لتجربة الأغذية الكورية مرتبطة بكأس العالم لنحو 1000 طالب.",
+        "body": "قبل نحو شهر من انطلاق كأس العالم 2026 في أمريكا الشمالية، عرّفت وزارة الزراعة والأغذية والشؤون الريفية في كوريا الجنوبية، مع المؤسسة الكورية لتجارة الأغذية الزراعية والبحرية (aT)، المراهقين في المكسيك، إحدى الدول المستضيفة، بالأغذية الكورية. وقالت aT في 15 مايو إنها أقامت من 13 إلى 14 مايو فعالية “K-Food en tu Escuela” في مدرسة ASF الدولية في مكسيكو سيتي لنحو 1000 طالب. وجاءت الفعالية لربط الثقافة الغذائية الكورية بكأس العالم، وهو حدث رياضي عالمي، وتعريف فئة الشباب بها بوصفهم مستهلكين مستقبليين. وفي اليوم الأول، تذوق الطلاب خلال وقت الغداء أطباق بيبيمباب وكيمتشي وجابتشي وتيوكبوكي، كما شاركوا في تحدي تسديدات كرة القدم وتجربة الهانبوك والألعاب التقليدية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "विश्व कप 2026 से एक महीना पहले मेक्सिको के स्कूल भोजन में पहुंचा K-Food",
+        "excerpt": "कोरिया के कृषि मंत्रालय और aT ने 13-14 मई को मेक्सिको सिटी के ASF अंतरराष्ट्रीय स्कूल में करीब 1,000 छात्रों के लिए विश्व कप से जुड़ा K-Food अनुभव कार्यक्रम आयोजित किया।",
+        "body": "2026 उत्तर अमेरिका विश्व कप शुरू होने में करीब एक महीना बाकी है, इसी बीच दक्षिण कोरिया के कृषि, खाद्य और ग्रामीण मामलों के मंत्रालय तथा Korea Agro-Fisheries & Food Trade Corporation (aT) ने सह-मेजबान देश मेक्सिको में किशोरों के बीच K-Food को पेश किया। aT ने 15 मई को बताया कि 13 से 14 मई तक मेक्सिको सिटी के ASF अंतरराष्ट्रीय स्कूल के छात्रों सहित लगभग 1,000 विद्यार्थियों के लिए “K-Food en tu Escuela” कार्यक्रम आयोजित किया गया। यह आयोजन विश्व कप जैसे वैश्विक खेल आयोजन से जोड़कर भविष्य के उपभोक्ता समूह माने जाने वाले युवाओं को कोरियाई खाद्य संस्कृति से परिचित कराने के लिए बनाया गया था। पहले दिन दोपहर भोजन के समय बिबिम्बाप, किमची, जपचे और त्तोकबोक्की का स्वाद कराया गया। फुटबॉल शूट चुनौती, हनबोक अनुभव और पारंपरिक खेल भी आयोजित हुए। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "K-Food Masuk Sekolah Meksiko Sebulan Jelang Piala Dunia 2026",
+        "excerpt": "Kementerian Pertanian Korea dan aT menggelar pengalaman K-Food terkait Piala Dunia pada 13-14 Mei di sekolah internasional ASF, Mexico City, untuk sekitar 1.000 siswa.",
+        "body": "Sekitar satu bulan menjelang pembukaan Piala Dunia Amerika Utara 2026, Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan bersama Korea Agro-Fisheries & Food Trade Corporation (aT) memperkenalkan K-Food kepada remaja di Meksiko, salah satu negara tuan rumah bersama. aT menyatakan pada 15 Mei bahwa pihaknya mengadakan acara “K-Food en tu Escuela” pada 13-14 Mei untuk sekitar 1.000 siswa, termasuk pelajar sekolah internasional ASF di Mexico City. Acara ini dirancang untuk menghubungkan budaya kuliner Korea dengan Piala Dunia sebagai ajang olahraga global dan menjangkau remaja sebagai calon konsumen utama. Pada hari pertama, saat makan siang, siswa mencicipi bibimbap, kimchi, japchae, dan tteokbokki. Tantangan tendangan sepak bola, pengalaman hanbok, dan permainan tradisional juga disiapkan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "95947ccf2c30",
+    "slug": "크레버스-자사주-50만주-즉시-소각-임시주총-안건-상정-올해-총-90만주-소각-추진-563060",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T21:02:36.796Z",
+    "updatedAt": "2026-05-15T21:02:36.796Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930716/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133930716/1",
+    "titleFingerprint": "b2b2f13d8ed2c5b83e1f747aa62439853635d12e",
+    "dedupKeys": [
+      "95947ccf2c304c1a8cd0efc32a3d0452d5043942",
+      "b2b2f13d8ed2c5b83e1f747aa62439853635d12e",
+      "4a91699e8023bf6f800e0e59b11ea6ba85a67381"
+    ],
+    "imageUrl": "/images/articles/95947ccf2c30.jpg",
+    "i18n": {
+      "ko": {
+        "title": "크레버스, 자사주 50만주 즉시 소각 추진…올해 총 90만주 목표",
+        "excerpt": "크레버스가 6월 22일 임시주총에서 자사주 50만주 소각 안건을 상정하고, 승인 시 즉시 소각해 주주가치 제고와 EPS 개선을 추진한다.",
+        "body": "에듀테크 전문기업 크레버스가 자사주 50만주 소각을 위한 ‘자기주식 보유·처분계획 변경’ 안건을 오는 6월 22일 임시 주주총회에 상정했다고 공시했다. 안건이 승인되면 당일 이사회 결의를 거쳐 자사주 50만주를 즉시 소각할 계획이다. 크레버스는 올해 초 두 차례에 걸쳐 이미 자사주 40만주를 소각했다. 이번 추가 소각안이 반영되면 올해 누적 소각 규모는 90만주가 되며, 발행주식수는 2025년 말 대비 약 8% 줄어든다. 회사 측은 현 주가 기준 추가 50만주 소각의 실질 가치 상승분이 주당 약 600원, 기존 40만주까지 포함하면 약 1,100원 수준이라고 설명했다. EPS는 12% 증가할 것으로 예상했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Creverse Pushes Immediate Cancellation of 500,000 Treasury Shares",
+        "excerpt": "Creverse will propose cancelling 500,000 treasury shares at its June 22 extraordinary shareholders’ meeting to improve shareholder value and EPS.",
+        "body": "Edtech company Creverse disclosed that it has placed an agenda item to change its treasury share holding and disposal plan at an extraordinary shareholders’ meeting scheduled for June 22, aiming to cancel 500,000 treasury shares. If approved, the company plans to pass a board resolution the same day and cancel the shares immediately. Creverse had already cancelled 400,000 treasury shares in two rounds earlier this year. If the additional cancellation is reflected, total treasury share cancellations this year will reach 900,000 shares, reducing issued shares by about 8% compared with the end of 2025. The company said the additional 500,000-share cancellation would raise real value by about 600 won per share at the current share price, or about 1,100 won including the previous 400,000 shares. EPS is expected to rise 12%. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "クレバース、自社株50万株を即時消却へ…年内90万株を推進",
+        "excerpt": "クレバースは6月22日の臨時株主総会で自社株50万株の消却議案を上程し、承認後に即時消却して株主価値とEPS改善を図る。",
+        "body": "エデュテック専門企業のクレバースは、6月22日に予定された臨時株主総会で、自社株50万株の消却に向けた「自己株式の保有・処分計画変更」議案を上程したと公示した。議案が承認されれば、同日の取締役会決議を経て自社株50万株を直ちに消却する計画だ。クレバースは今年初め、2回にわたり自社株40万株をすでに消却している。今回の追加消却案が反映されれば、年内の累計消却規模は90万株となり、発行株式数は2025年末比で約8%減少する。会社側は、現株価基準で追加50万株消却による実質価値の上昇分は1株当たり約600ウォン、既存40万株を含めると約1,100ウォン水準だと説明した。EPSは12%増加すると見込んでいる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Creverse拟立即注销50万股库存股，今年累计目标90万股",
+        "excerpt": "Creverse将在6月22日临时股东大会提交注销50万股库存股议案，若获批准将立即注销，以提升股东价值和EPS。",
+        "body": "教育科技专业企业Creverse公告称，将在6月22日召开的临时股东大会上提交“库存股持有及处置计划变更”议案，以注销50万股库存股。若该议案获得批准，公司计划当天通过董事会决议，并立即注销50万股库存股。此前，Creverse今年初已分两次注销40万股库存股。若此次追加注销方案落实，今年累计库存股注销规模将达到90万股，发行股数将较2025年末减少约8%。公司方面表示，按当前股价计算，追加注销50万股带来的实际价值提升约为每股600韩元；若包括此前40万股注销，总价值提升约为每股1,100韩元。公司预计每股收益EPS将增加12%。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Creverse propone cancelar 500.000 acciones propias de forma inmediata",
+        "excerpt": "Creverse llevará a la junta extraordinaria del 22 de junio la cancelación de 500.000 acciones propias para mejorar el valor accionarial y el EPS.",
+        "body": "La empresa de tecnología educativa Creverse informó que presentará en la junta extraordinaria de accionistas prevista para el 22 de junio una propuesta para modificar su plan de tenencia y disposición de acciones propias, con el fin de cancelar 500.000 acciones. Si se aprueba, la compañía planea adoptar una resolución del consejo ese mismo día y cancelar las acciones de inmediato. Creverse ya canceló 400.000 acciones propias en dos rondas a comienzos de este año. Con la cancelación adicional, el total acumulado de acciones propias canceladas este año llegaría a 900.000, y el número de acciones emitidas disminuiría alrededor de 8% frente a finales de 2025. La empresa explicó que, al precio actual de la acción, la cancelación adicional elevaría el valor real en unos 600 wones por acción, o unos 1.100 wones incluyendo las 400.000 previas. El EPS aumentaría 12%. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Creverse propõe cancelamento imediato de 500 mil ações em tesouraria",
+        "excerpt": "A Creverse levará à assembleia extraordinária de 22 de junho a proposta de cancelar 500 mil ações em tesouraria para elevar valor ao acionista e EPS.",
+        "body": "A empresa de edtech Creverse informou que apresentará, na assembleia extraordinária de acionistas marcada para 22 de junho, uma proposta de alteração do plano de manutenção e alienação de ações em tesouraria para cancelar 500 mil ações. Se aprovada, a companhia pretende aprovar uma resolução do conselho no mesmo dia e cancelar as ações imediatamente. A Creverse já havia cancelado 400 mil ações em tesouraria em duas etapas no início deste ano. Com a nova operação, o total acumulado de ações canceladas em 2026 chegaria a 900 mil, reduzindo o número de ações emitidas em cerca de 8% ante o fim de 2025. A empresa afirmou que, pelo preço atual da ação, o cancelamento adicional representa ganho de valor real de cerca de 600 won por ação, ou cerca de 1.100 won incluindo as 400 mil anteriores. O EPS deve aumentar 12%. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Creverse plant sofortige Einziehung von 500.000 eigenen Aktien",
+        "excerpt": "Creverse legt der außerordentlichen Hauptversammlung am 22. Juni die Einziehung von 500.000 eigenen Aktien vor, um Aktionärswert und EPS zu verbessern.",
+        "body": "Das Edtech-Unternehmen Creverse teilte mit, dass es der für den 22. Juni geplanten außerordentlichen Hauptversammlung einen Antrag zur Änderung des Plans für Bestand und Veräußerung eigener Aktien vorlegt, um 500.000 eigene Aktien einzuziehen. Bei Zustimmung soll noch am selben Tag ein Vorstandsbeschluss erfolgen und die Einziehung sofort umgesetzt werden. Creverse hatte Anfang dieses Jahres bereits in zwei Schritten 400.000 eigene Aktien eingezogen. Wird die zusätzliche Maßnahme berücksichtigt, erreicht das Volumen der in diesem Jahr eingezogenen eigenen Aktien 900.000 Stück; die Zahl der ausgegebenen Aktien sinkt gegenüber Ende 2025 um rund 8%. Das Unternehmen erklärte, der reale Wertzuwachs aus der zusätzlichen Einziehung liege beim aktuellen Aktienkurs bei etwa 600 Won je Aktie, einschließlich der früheren 400.000 Aktien bei rund 1.100 Won. Das EPS soll um 12% steigen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Creverse veut annuler immédiatement 500 000 actions autodétenues",
+        "excerpt": "Creverse proposera le 22 juin en assemblée extraordinaire l’annulation de 500 000 actions autodétenues afin d’améliorer la valeur actionnariale et le BPA.",
+        "body": "L’entreprise edtech Creverse a annoncé avoir inscrit à l’ordre du jour de son assemblée générale extraordinaire du 22 juin une modification du plan de détention et de cession de ses actions autodétenues, en vue d’annuler 500 000 actions. Si la résolution est approuvée, la société prévoit une décision du conseil le même jour et une annulation immédiate. Creverse avait déjà annulé 400 000 actions autodétenues en deux opérations au début de l’année. Avec cette annulation supplémentaire, le total annuel atteindrait 900 000 actions, tandis que le nombre d’actions émises reculerait d’environ 8% par rapport à fin 2025. Selon la société, au cours actuel, l’annulation additionnelle apporterait une hausse de valeur réelle d’environ 600 wons par action, ou environ 1 100 wons en incluant les 400 000 actions déjà annulées. Le BPA devrait progresser de 12%. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كريفيرس تعتزم إلغاء 500 ألف سهم خزينة فورياً ضمن خطة 900 ألف سهم",
+        "excerpt": "تطرح كريفيرس في اجتماعها غير العادي يوم 22 يونيو بند إلغاء 500 ألف سهم خزينة، وفي حال الموافقة ستنفذه فوراً لتحسين قيمة المساهمين وربحية السهم.",
+        "body": "أعلنت شركة كريفيرس المتخصصة في تكنولوجيا التعليم أنها أدرجت على جدول أعمال الجمعية العامة غير العادية المقررة في 22 يونيو بند تعديل خطة الاحتفاظ بأسهم الخزينة والتصرف بها، بهدف إلغاء 500 ألف سهم خزينة. وإذا تمت الموافقة، تعتزم الشركة تمرير قرار من مجلس الإدارة في اليوم نفسه وإلغاء الأسهم فوراً. وكانت كريفيرس قد ألغت في بداية هذا العام 400 ألف سهم خزينة على مرحلتين. ومع إضافة الإلغاء الجديد، سيصل إجمالي أسهم الخزينة الملغاة هذا العام إلى 900 ألف سهم، بينما سينخفض عدد الأسهم المصدرة بنحو 8% مقارنة بنهاية 2025. وقالت الشركة إن الإلغاء الإضافي البالغ 500 ألف سهم يرفع القيمة الفعلية بنحو 600 وون للسهم وفق السعر الحالي، وبنحو 1,100 وون عند احتساب 400 ألف سهم السابقة. وتتوقع زيادة ربحية السهم 12%. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Creverse 5 लाख ट्रेजरी शेयर तुरंत रद्द करने का प्रस्ताव लाएगी",
+        "excerpt": "Creverse 22 जून की असाधारण आम बैठक में 5 लाख ट्रेजरी शेयर रद्द करने का प्रस्ताव रखेगी, मंजूरी पर इन्हें तुरंत रद्द कर EPS सुधारने की योजना है।",
+        "body": "एडटेक कंपनी Creverse ने खुलासा किया कि वह 22 जून को होने वाली असाधारण शेयरधारक बैठक में 5 लाख ट्रेजरी शेयर रद्द करने के लिए ‘स्वयं के शेयरों की होल्डिंग और निपटान योजना में बदलाव’ का प्रस्ताव रखेगी। प्रस्ताव मंजूर होने पर कंपनी उसी दिन बोर्ड का निर्णय लेकर 5 लाख शेयर तुरंत रद्द करने की योजना बना रही है। Creverse इस साल की शुरुआत में दो चरणों में पहले ही 4 लाख ट्रेजरी शेयर रद्द कर चुकी है। यदि यह अतिरिक्त रद्दीकरण लागू होता है, तो इस साल कुल रद्द किए गए स्वयं के शेयर 9 लाख हो जाएंगे और जारी शेयरों की संख्या 2025 के अंत की तुलना में लगभग 8% घटेगी। कंपनी के अनुसार, मौजूदा शेयर मूल्य के आधार पर अतिरिक्त 5 लाख शेयर रद्द करने से वास्तविक मूल्य वृद्धि लगभग 600 वोन प्रति शेयर होगी; पहले के 4 लाख शेयर शामिल करने पर यह लगभग 1,100 वोन होगी। EPS में 12% वृद्धि का अनुमान है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Creverse Ajukan Pembatalan Segera 500.000 Saham Treasuri",
+        "excerpt": "Creverse akan mengajukan pembatalan 500.000 saham treasuri pada RUPSLB 22 Juni, dan jika disetujui akan segera dilakukan untuk meningkatkan nilai pemegang saham dan EPS.",
+        "body": "Perusahaan edtech Creverse mengumumkan bahwa pihaknya mengajukan agenda perubahan rencana kepemilikan dan pelepasan saham treasuri dalam rapat umum pemegang saham luar biasa pada 22 Juni, dengan tujuan membatalkan 500.000 saham treasuri. Jika disetujui, perusahaan berencana mengambil keputusan dewan pada hari yang sama dan segera membatalkan saham tersebut. Creverse sebelumnya telah membatalkan 400.000 saham treasuri dalam dua tahap pada awal tahun ini. Jika pembatalan tambahan ini terealisasi, total pembatalan saham treasuri tahun ini akan mencapai 900.000 saham, sementara jumlah saham beredar turun sekitar 8% dibanding akhir 2025. Perusahaan menjelaskan bahwa berdasarkan harga saham saat ini, pembatalan tambahan 500.000 saham memberi kenaikan nilai riil sekitar 600 won per saham, atau sekitar 1.100 won jika termasuk 400.000 saham sebelumnya. EPS diperkirakan naik 12%. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "93c1ce8b2247",
     "slug": "금빛-랠리-펼치던-금값-금리-인상-압력-현금-선호-심리에-주춤-글로벌-포커스-912066",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Hyundai E&C raih penghargaan The One Show lewat ‘Neo Living’, pertama bagi kontraktor Korea",
         "excerpt": "Film merek ‘Neo Living’ dari Hyundai E&C meraih penghargaan utama The One Show berkat cetak biru hunian masa depan, solusi residensial inovatif, dan penyutradaraan orisinal.",
         "body": "Film merek ‘Neo Living’ dari Hyundai E&C, yang memuat cetak biru hunian masa depan, meraih penghargaan utama di The One Show, salah satu festival periklanan internasional paling bergengsi di dunia. Disebutkan bahwa ini merupakan pertama kalinya perusahaan konstruksi Korea memperoleh penghargaan utama di ajang tersebut. ‘Neo Living’ berfokus pada solusi residensial inovatif dan, melalui penyutradaraan yang orisinal, mengekspresikan arah hunian masa depan yang ditawarkan Hyundai E&C. Penghargaan ini dinilai sebagai pengakuan di panggung global atas nilai artistik dan kualitas komunikasi merek hunian dari perusahaan konstruksi. Melalui film tersebut, Hyundai E&C menonjolkan visi hunian masa depan dan diferensiasi solusi residensialnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c59ca7a67c17",
-    "slug": "gh-다산지금a3-통합공공임대-518가구-입주자-모집-480457",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T04:30:51.733Z",
-    "updatedAt": "2026-05-15T04:30:51.733Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605158497i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605158497i",
-    "titleFingerprint": "30a28798194a4a958c232457d34a1ea12a9ddc5e",
-    "dedupKeys": [
-      "c59ca7a67c17dd418b21375fbca803261f526dd5",
-      "30a28798194a4a958c232457d34a1ea12a9ddc5e",
-      "a9a545c41b533dee69769974833c08c3dc51b036"
-    ],
-    "imageUrl": "/images/articles/c59ca7a67c17.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GH 다산지금A3 통합공공임대 518가구 입주자 모집 핵심 안내",
-        "excerpt": "GH가 다산지금A3 통합공공임대주택 518가구의 입주자를 모집한다고 hankyung.com이 전했다. 공공임대 주거 선택지를 찾는 수요자에게 관련 모집 정보가 공개됐다.",
-        "body": "GH가 다산지금A3 통합공공임대주택 518가구에 대한 입주자 모집에 나섰다. 모집 대상은 다산지금A3 단지의 통합공공임대 물량으로, 공개된 핵심 규모는 총 518가구다. 통합공공임대는 공공임대주택 공급 체계 안에서 주거 수요자에게 임대 선택지를 제공하는 방식으로 다뤄진다. 이번 모집은 해당 지역에서 공공임대주택 입주를 검토하는 수요자에게 확인해야 할 공급 정보로 평가된다. 세부 신청 조건과 절차는 모집 공고를 통해 확인해야 한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "GH Opens Tenant Recruitment for 518 Dasan Jigeum A3 Public Rental Homes",
-        "excerpt": "GH is recruiting tenants for 518 integrated public rental homes at Dasan Jigeum A3, hankyung.com reported, giving housing seekers new public rental supply information.",
-        "body": "GH has begun recruiting tenants for 518 integrated public rental homes at the Dasan Jigeum A3 complex. The announced supply concerns the integrated public rental units in Dasan Jigeum A3, with the key disclosed figure standing at 518 households. Integrated public rental housing is handled within the public rental housing supply system as a rental option for housing seekers. This recruitment is relevant information for people considering public rental housing in the area. Detailed eligibility requirements and application procedures should be checked through the official recruitment notice. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "GH、茶山今A3統合公共賃貸518戸の入居者募集を開始",
-        "excerpt": "GHが茶山今A3の統合公共賃貸住宅518戸について入居者を募集するとhankyung.comが報じた。公共賃貸を検討する需要者向けの供給情報だ。",
-        "body": "GHは茶山今A3団地の統合公共賃貸住宅518戸について、入居者募集に乗り出した。募集対象は茶山今A3団地の統合公共賃貸分で、公開された中心的な規模は計518戸である。統合公共賃貸は、公共賃貸住宅の供給体系の中で住宅需要者に賃貸の選択肢を提供する方式として扱われる。今回の募集は、同地域で公共賃貸住宅への入居を検討する需要者が確認すべき供給情報といえる。詳しい申請条件と手続きは募集公告で確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "GH启动茶山今A3综合公共租赁住房518户入住者招募",
-        "excerpt": "据hankyung.com报道，GH将为茶山今A3综合公共租赁住房518户招募入住者，为关注公共租赁住房的需求者提供供应信息。",
-        "body": "GH已启动茶山今A3小区综合公共租赁住房518户的入住者招募。此次招募对象为茶山今A3小区的综合公共租赁房源，公开的核心规模为共518户。综合公共租赁住房是在公共租赁住房供应体系内，为住房需求者提供租赁选择的一种方式。此次招募对于正在该地区考虑公共租赁住房入住的需求者来说，是需要确认的供应信息。具体申请条件和流程应通过招募公告确认。来源: hankyung.com"
-      },
-      "es": {
-        "title": "GH abre la selección de inquilinos para 518 viviendas públicas en Dasan Jigeum A3",
-        "excerpt": "GH reclutará inquilinos para 518 viviendas públicas integradas de alquiler en Dasan Jigeum A3, informó hankyung.com, una referencia para quienes buscan alquiler público.",
-        "body": "GH inició la selección de inquilinos para 518 viviendas públicas integradas de alquiler en el complejo Dasan Jigeum A3. La oferta corresponde a unidades de alquiler público integrado de Dasan Jigeum A3, con una escala principal anunciada de 518 hogares. Este tipo de vivienda se gestiona dentro del sistema de suministro de vivienda pública en alquiler y ofrece una opción de arrendamiento a los demandantes de vivienda. La convocatoria es información relevante para quienes evalúan vivir en una vivienda pública de alquiler en la zona. Los requisitos y procedimientos detallados deben verificarse en el anuncio oficial. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "GH abre inscrições para 518 moradias públicas de aluguel em Dasan Jigeum A3",
-        "excerpt": "A GH está recrutando moradores para 518 unidades de aluguel público integrado em Dasan Jigeum A3, informou hankyung.com, dado relevante para quem busca moradia pública.",
-        "body": "A GH iniciou o recrutamento de moradores para 518 unidades de habitação pública de aluguel integrado no complexo Dasan Jigeum A3. A oferta se refere às unidades de aluguel público integrado do Dasan Jigeum A3, com escala principal divulgada de 518 domicílios. Esse modelo integra o sistema de oferta de habitação pública de aluguel e fornece uma alternativa de locação a quem busca moradia. A seleção é uma informação importante para interessados em moradia pública de aluguel na região. As condições de candidatura e os procedimentos detalhados devem ser confirmados no edital de recrutamento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "GH startet Mietersuche für 518 öffentliche Mietwohnungen in Dasan Jigeum A3",
-        "excerpt": "GH sucht Mieter für 518 integrierte öffentliche Mietwohnungen in Dasan Jigeum A3, berichtete hankyung.com. Die Meldung ist relevant für Interessenten an öffentlichem Mietwohnraum.",
-        "body": "GH hat mit der Mietersuche für 518 integrierte öffentliche Mietwohnungen im Komplex Dasan Jigeum A3 begonnen. Die Ausschreibung betrifft die integrierten öffentlichen Mietwohnungen dieses Standorts; die zentrale veröffentlichte Größenordnung liegt bei 518 Haushalten. Integrierte öffentliche Mietwohnungen werden innerhalb des Systems zur Bereitstellung öffentlicher Mietwohnungen als Mietoption für Wohnungssuchende behandelt. Die Ausschreibung ist daher eine wichtige Information für Menschen, die in der Region öffentlichen Mietwohnraum prüfen. Detaillierte Antragsbedingungen und Verfahren sind der offiziellen Ausschreibung zu entnehmen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "GH lance le recrutement pour 518 logements locatifs publics à Dasan Jigeum A3",
-        "excerpt": "GH recrute des occupants pour 518 logements locatifs publics intégrés à Dasan Jigeum A3, selon hankyung.com, une information utile aux demandeurs de logement public.",
-        "body": "GH a lancé le recrutement des occupants pour 518 logements locatifs publics intégrés dans le complexe Dasan Jigeum A3. L’offre concerne les unités de location publique intégrée de Dasan Jigeum A3, avec un volume principal annoncé de 518 ménages. Ce type de logement s’inscrit dans le système d’offre de logements publics locatifs et fournit une option de location aux personnes en recherche de logement. Cette campagne constitue une information à vérifier pour les demandeurs envisageant un logement public locatif dans la zone. Les conditions de candidature et les procédures détaillées doivent être consultées dans l’avis officiel. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "GH تبدأ استقبال طلبات السكن لـ518 وحدة إيجار عام في داسان جيغوم A3",
-        "excerpt": "أفاد موقع hankyung.com بأن GH ستستقبل طلبات السكن لـ518 وحدة من الإسكان العام المتكامل للإيجار في داسان جيغوم A3، وهي معلومة مهمة للباحثين عن سكن عام.",
-        "body": "بدأت GH عملية استقبال طلبات السكان لـ518 وحدة من الإسكان العام المتكامل للإيجار في مجمع داسان جيغوم A3. ويتعلق الطرح بوحدات الإيجار العام المتكامل في هذا المجمع، بينما يبلغ الحجم الرئيسي المعلن 518 أسرة. ويُعد الإسكان العام المتكامل للإيجار جزءا من منظومة توفير الإسكان العام للإيجار، ويقدم خيارا سكنيا للباحثين عن مسكن. تمثل هذه العملية معلومة ينبغي على من يدرس السكن العام للإيجار في المنطقة متابعتها. ويجب التأكد من شروط التقديم والإجراءات التفصيلية عبر إعلان募集 الرسمي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "GH ने दासन जिगेम A3 में 518 सार्वजनिक किराया घरों के लिए आवेदन खोले",
-        "excerpt": "hankyung.com के अनुसार, GH दासन जिगेम A3 में 518 एकीकृत सार्वजनिक किराया आवासों के लिए निवासियों की भर्ती कर रहा है, जो सार्वजनिक किराया आवास चाहने वालों के लिए सूचना है।",
-        "body": "GH ने दासन जिगेम A3 परिसर में 518 एकीकृत सार्वजनिक किराया आवासों के लिए निवासियों की भर्ती शुरू की है। भर्ती का 대상 इसी परिसर की एकीकृत सार्वजनिक किराया इकाइयां हैं, और घोषित मुख्य पैमाना कुल 518 घरों का है। एकीकृत सार्वजनिक किराया आवास सार्वजनिक किराया आवास आपूर्ति प्रणाली के भीतर आवास चाहने वालों को किराये का विकल्प प्रदान करने के रूप में देखा जाता है। यह भर्ती उस क्षेत्र में सार्वजनिक किराया आवास पर विचार करने वाले लोगों के लिए जांचने योग्य आपूर्ति सूचना है। विस्तृत आवेदन शर्तें और प्रक्रिया आधिकारिक भर्ती सूचना में देखनी चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "GH Buka Rekrutmen Penghuni 518 Hunian Sewa Publik Dasan Jigeum A3",
-        "excerpt": "GH merekrut penghuni untuk 518 unit hunian sewa publik terpadu di Dasan Jigeum A3, menurut hankyung.com, menjadi informasi pasokan bagi pencari hunian sewa publik.",
-        "body": "GH mulai merekrut penghuni untuk 518 unit hunian sewa publik terpadu di kompleks Dasan Jigeum A3. Objek rekrutmen adalah pasokan sewa publik terpadu di Dasan Jigeum A3, dengan skala utama yang diumumkan sebanyak 518 rumah tangga. Hunian sewa publik terpadu merupakan bagian dari sistem penyediaan hunian sewa publik yang memberi pilihan sewa bagi pencari tempat tinggal. Rekrutmen ini menjadi informasi pasokan yang perlu diperiksa oleh calon penghuni yang mempertimbangkan hunian sewa publik di wilayah tersebut. Syarat pengajuan dan prosedur rinci harus dicek melalui pengumuman resmi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "291c83dbf01d",
-    "slug": "서울-자양-면목-모아타운-개발로-4042가구-주택공급-571988",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T04:29:58.345Z",
-    "updatedAt": "2026-05-15T04:29:58.345Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605158628i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605158628i",
-    "titleFingerprint": "650cc34c6954017ea90fb49596907b0610f199ae",
-    "dedupKeys": [
-      "291c83dbf01d249b6e43c298263c385627871719",
-      "650cc34c6954017ea90fb49596907b0610f199ae",
-      "b77ef3ae2aee10ea8f056b2012fc2a1189ac4eed"
-    ],
-    "imageUrl": "/images/articles/291c83dbf01d.png",
-    "i18n": {
-      "ko": {
-        "title": "서울 자양·면목 모아타운 개발, 4042가구 주택공급 추진",
-        "excerpt": "서울 자양·면목 지역에서 모아타운 개발을 통해 총 4042가구 규모의 주택공급이 추진된다고 hankyung.com이 보도했다.",
-        "body": "서울 자양·면목 지역에서 모아타운 개발을 통해 총 4042가구 규모의 주택공급이 추진된다. 이번 보도는 서울 내 노후 주거지 정비와 소규모 주택공급 확대 흐름 속에서 자양과 면목 일대가 모아타운 개발 대상지로 주목받고 있다는 내용을 담고 있다. 핵심 수치는 공급 예정 주택 4042가구다. 모아타운 개발은 지역 단위 정비를 통해 주거 환경 개선과 신규 주택 확보를 함께 겨냥하는 방식으로 소개됐다. 향후 해당 지역의 주택공급 확대와 주거지 정비 진행 상황이 시장의 관심을 받을 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Seoul Jayang and Myeonmok Moa Town Development to Supply 4,042 Homes",
-        "excerpt": "A total of 4,042 homes will be supplied through Moa Town development in Seoul’s Jayang and Myeonmok areas, hankyung.com reported.",
-        "body": "A total of 4,042 homes are set to be supplied through Moa Town development in Seoul’s Jayang and Myeonmok areas. The report places the projects within the broader context of improving aging residential districts and expanding small-scale housing supply in Seoul. The key figure is the planned supply of 4,042 housing units. Moa Town development was described as a district-level redevelopment approach aimed at both improving residential conditions and securing new homes. The progress of housing supply and neighborhood renewal in these areas is expected to draw market attention. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ソウル紫陽・面牧のモアタウン開発、4042戸の住宅供給へ",
-        "excerpt": "ソウルの紫陽・面牧地域でモアタウン開発を通じ、計4042戸規模の住宅供給が進められるとhankyung.comが報じた。",
-        "body": "ソウルの紫陽・面牧地域で、モアタウン開発を通じて計4042戸規模の住宅供給が進められる。報道では、ソウル市内の老朽住宅地整備と小規模住宅供給の拡大という流れの中で、紫陽と面牧一帯がモアタウン開発対象地として注目されていると伝えられた。中心となる数字は供給予定住宅4042戸だ。モアタウン開発は、地域単位の整備により住環境の改善と新規住宅の確保を同時に目指す方式として紹介された。今後、該当地域の住宅供給拡大と住宅地整備の進行状況に市場の関心が集まる見通しだ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "首尔紫阳·面牧Moa Town开发将供应4042套住房",
-        "excerpt": "hankyung.com报道称，首尔紫阳和面牧地区将通过Moa Town开发推进总计4042套规模的住房供应。",
-        "body": "首尔紫阳和面牧地区将通过Moa Town开发推进总计4042套规模的住房供应。报道指出，在首尔老旧居住区整治和小规模住房供应扩大的背景下，紫阳与面牧一带作为Moa Town开发对象受到关注。核心数字是计划供应住房4042套。Moa Town开发被介绍为一种以区域为单位推进整治、同时改善居住环境并 확보新增住房的方式。未来，这些地区的住房供应扩大及居住区整治进展预计将受到市场关注。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Desarrollo Moa Town en Jayang y Myeonmok, Seúl, aportará 4.042 viviendas",
-        "excerpt": "En Jayang y Myeonmok, Seúl, se impulsará el suministro de 4.042 viviendas mediante desarrollo Moa Town, informó hankyung.com.",
-        "body": "En las zonas de Jayang y Myeonmok, en Seúl, se impulsará el suministro de un total de 4.042 viviendas mediante desarrollo Moa Town. El reporte sitúa la noticia en el contexto de la renovación de áreas residenciales envejecidas y la ampliación de la oferta de vivienda a pequeña escala en Seúl. La cifra clave es la oferta prevista de 4.042 unidades. El desarrollo Moa Town fue presentado como un método de renovación por zonas que busca mejorar el entorno residencial y asegurar nuevas viviendas al mismo tiempo. Se espera que el avance de la oferta y la renovación residencial en estas áreas atraiga la atención del mercado. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Moa Town em Jayang e Myeonmok, Seul, deve fornecer 4.042 moradias",
-        "excerpt": "As áreas de Jayang e Myeonmok, em Seul, terão oferta de 4.042 moradias por meio do desenvolvimento Moa Town, informou hankyung.com.",
-        "body": "As áreas de Jayang e Myeonmok, em Seul, deverão receber um total de 4.042 moradias por meio do desenvolvimento Moa Town. A reportagem enquadra o tema no movimento de renovação de bairros residenciais antigos e de ampliação da oferta habitacional de pequena escala em Seul. O número central é a oferta prevista de 4.042 unidades. O desenvolvimento Moa Town foi apresentado como uma forma de requalificação por área que busca melhorar o ambiente residencial e garantir novas moradias ao mesmo tempo. A evolução da oferta habitacional e da renovação nessas regiões deve atrair atenção do mercado. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Seoul: Moa-Town-Entwicklung in Jayang und Myeonmok bringt 4.042 Wohnungen",
-        "excerpt": "In Seouls Stadtteilen Jayang und Myeonmok sollen durch Moa-Town-Entwicklung insgesamt 4.042 Wohnungen entstehen, berichtete hankyung.com.",
-        "body": "In den Seouler Gebieten Jayang und Myeonmok sollen durch Moa-Town-Entwicklung insgesamt 4.042 Wohnungen bereitgestellt werden. Der Bericht stellt dies in den Zusammenhang der Erneuerung alter Wohngebiete und der Ausweitung kleinteiliger Wohnungsversorgung in Seoul. Die zentrale Kennzahl ist die geplante Bereitstellung von 4.042 Wohneinheiten. Moa Town wurde als gebietsbezogener Entwicklungsansatz beschrieben, der zugleich die Wohnumgebung verbessern und neuen Wohnraum sichern soll. Die weitere Entwicklung der Wohnungsversorgung und der Sanierung in diesen Gebieten dürfte am Markt Beachtung finden. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Séoul: Jayang et Myeonmok fourniront 4 042 logements via Moa Town",
-        "excerpt": "À Jayang et Myeonmok, à Séoul, 4 042 logements doivent être fournis grâce au développement Moa Town, selon hankyung.com.",
-        "body": "À Jayang et Myeonmok, à Séoul, un total de 4 042 logements doit être fourni grâce au développement Moa Town. Le reportage inscrit cette annonce dans le contexte de la rénovation des quartiers résidentiels vieillissants et de l’élargissement de l’offre de logements à petite échelle à Séoul. Le chiffre clé est l’offre prévue de 4 042 logements. Le développement Moa Town est présenté comme une méthode de renouvellement par secteur visant à améliorer l’environnement résidentiel tout en 확보 de nouveaux logements. L’avancement de l’offre et de la rénovation résidentielle dans ces zones devrait retenir l’attention du marché. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "تطوير موآ تاون في جايانغ وميونموك بسيول يوفر 4042 وحدة سكنية",
-        "excerpt": "أفاد hankyung.com بأن منطقتي جايانغ وميونموك في سيول ستشهدان توفير 4042 وحدة سكنية عبر تطوير موآ تاون.",
-        "body": "ستشهد منطقتا جايانغ وميونموك في سيول توفير ما مجموعه 4042 وحدة سكنية عبر تطوير موآ تاون. ويضع التقرير الخبر ضمن سياق تحسين الأحياء السكنية القديمة في سيول وتوسيع المعروض من المساكن على نطاق صغير. الرقم الرئيسي هو 4042 وحدة سكنية مقررة. وقد عُرض تطوير موآ تاون بوصفه نهجا للتجديد على مستوى المنطقة يهدف إلى تحسين البيئة السكنية وتأمين مساكن جديدة في الوقت نفسه. ومن المتوقع أن يحظى تقدم المعروض السكني وتجديد المناطق السكنية هناك باهتمام السوق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "सियोल के Jayang और Myeonmok Moa Town विकास से 4,042 घरों की आपूर्ति",
-        "excerpt": "hankyung.com के अनुसार, सियोल के Jayang और Myeonmok क्षेत्रों में Moa Town विकास के जरिए कुल 4,042 घरों की आपूर्ति 추진 होगी।",
-        "body": "सियोल के Jayang और Myeonmok क्षेत्रों में Moa Town विकास के जरिए कुल 4,042 घरों की आपूर्ति 추진 की जाएगी। रिपोर्ट में इसे सियोल के पुराने आवासीय इलाकों के सुधार और छोटे पैमाने की आवास आपूर्ति बढ़ाने की पृष्ठभूमि में रखा गया है। मुख्य आंकड़ा 4,042 प्रस्तावित आवास इकाइयों का है। Moa Town विकास को क्षेत्र-स्तरीय पुनर्विकास पद्धति के रूप में पेश किया गया, जिसका उद्देश्य आवासीय वातावरण में सुधार और नए घरों की 확보 करना है। आगे इन क्षेत्रों में आवास आपूर्ति और आवासीय सुधार की प्रगति पर बाजार की नजर रहने की संभावना है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Pengembangan Moa Town Jayang dan Myeonmok Seoul Pasok 4.042 Rumah",
-        "excerpt": "Wilayah Jayang dan Myeonmok di Seoul akan memasok total 4.042 rumah melalui pengembangan Moa Town, lapor hankyung.com.",
-        "body": "Wilayah Jayang dan Myeonmok di Seoul akan memasok total 4.042 rumah melalui pengembangan Moa Town. Laporan ini ditempatkan dalam konteks penataan kawasan hunian lama dan perluasan pasokan rumah skala kecil di Seoul. Angka utamanya adalah rencana pasokan 4.042 unit hunian. Pengembangan Moa Town diperkenalkan sebagai metode penataan berbasis kawasan yang bertujuan memperbaiki lingkungan hunian sekaligus 확보 rumah baru. Ke depan, perluasan pasokan rumah dan kemajuan penataan kawasan hunian di wilayah tersebut diperkirakan akan menarik perhatian pasar. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "966d59b90b3a",
-    "slug": "전세사기-두려우시죠정부-예비임차인-대상-안전계약-컨설팅-제공-245650",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T04:29:02.434Z",
-    "updatedAt": "2026-05-15T04:29:02.434Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12048754",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12048754",
-    "titleFingerprint": "5bb4a87593326b4a82a927541c1b325ece8bed6d",
-    "dedupKeys": [
-      "966d59b90b3a80e2aeb860c4874dc43025dd805e",
-      "5bb4a87593326b4a82a927541c1b325ece8bed6d",
-      "d0c6e0c6ac1be0b0b16744a71dc0f77b6fbc28b1"
-    ],
-    "imageUrl": "/images/articles/966d59b90b3a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "전세사기 예방 안전계약 컨설팅, 18일부터 전국 8곳서 무료 제공",
-        "excerpt": "정부가 18일부터 전국 8곳에서 예비임차인을 대상으로 임대차계약 전 계약서 등을 무료로 검토하는 안전계약 컨설팅을 제공한다.",
-        "body": "정부가 전세사기 예방을 위해 18일부터 전국 8곳에서 예비임차인을 대상으로 안전계약 컨설팅 상담을 지원한다. 국토교통부와 주택 관련 기관은 임대차계약을 앞둔 예비임차인이 계약서 등 주요 서류를 사전에 점검받을 수 있도록 무료 검토 서비스를 제공한다. 이번 상담은 전세사기 위험을 계약 전 단계에서 확인하고, 임차인이 보다 안전하게 계약 여부를 판단하도록 돕는 데 초점이 맞춰졌다. 전세사기 우려가 커진 가운데 정부는 현장 상담을 통해 피해 가능성을 낮추겠다는 방침이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jeonse Fraud Prevention Consulting Starts Free at 8 Sites Nationwide on the 18th",
-        "excerpt": "From the 18th, the government will offer free pre-contract lease document reviews for prospective tenants at eight locations nationwide to help prevent jeonse fraud.",
-        "body": "The government will begin offering safe-contract consulting for prospective tenants at eight locations nationwide from the 18th to help prevent jeonse fraud. The Ministry of Land, Infrastructure and Transport and housing-related agencies will provide a free review service so people preparing to sign lease contracts can have key documents, including contracts, checked in advance. The counseling focuses on identifying jeonse fraud risks before a contract is signed and helping tenants make safer decisions. Amid growing concerns over jeonse fraud, the government plans to reduce potential damage through on-site consultations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "チョンセ詐欺予防の安全契約コンサル、18日から全国8カ所で無料提供",
-        "excerpt": "政府は18日から全国8カ所で、入居予定者を対象に賃貸借契約前の契約書などを無料で確認する安全契約コンサルを提供する。",
-        "body": "政府はチョンセ詐欺の予防に向け、18日から全国8カ所で入居予定者を対象に安全契約コンサルティング相談を支援する。国土交通部と住宅関連機関は、賃貸借契約を控えた入居予定者が契約書など主要書類を事前に点検してもらえるよう、無料の確認サービスを提供する。今回の相談は、契約前の段階でチョンセ詐欺のリスクを確認し、借主がより安全に契約可否を判断できるよう支援することに重点を置く。チョンセ詐欺への懸念が高まるなか、政府は現場相談を通じて被害の可能性を下げる方針だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "全租房诈骗预防安全签约咨询18日起在全国8处免费提供",
-        "excerpt": "韩国政府将从18日起在全国8处面向准租户提供租赁合同等免费审查服务，以在签约前预防全租房诈骗风险。",
-        "body": "韩国政府将从18日起在全国8处为准租户提供安全签约咨询，以预防全租房诈骗。国土交通部和住房相关机构将提供免费审查服务，帮助即将签订租赁合同的准租户提前检查合同等主要文件。此次咨询的重点是在签约前阶段确认全租房诈骗风险，并帮助租户更安全地判断是否签约。在全租房诈骗担忧加大的背景下，政府计划通过现场咨询降低潜在受害可能性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Consultoría gratuita contra fraude jeonse desde el 18 en 8 puntos del país",
-        "excerpt": "Desde el 18, el Gobierno ofrecerá en ocho lugares del país revisión gratuita de contratos y documentos para futuros inquilinos antes de firmar arrendamientos.",
-        "body": "El Gobierno comenzará el 18 a ofrecer consultoría de contrato seguro para futuros inquilinos en ocho lugares del país con el fin de prevenir el fraude jeonse. El Ministerio de Tierra, Infraestructura y Transporte y organismos vinculados a vivienda proporcionarán un servicio gratuito de revisión para que quienes estén por firmar un contrato de arrendamiento puedan verificar con antelación documentos clave, incluidos los contratos. La consulta se centra en detectar riesgos de fraude antes de la firma y en ayudar al inquilino a decidir con mayor seguridad. Ante la creciente preocupación por el fraude jeonse, el Gobierno busca reducir posibles daños mediante asesoría presencial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Consultoria gratuita contra fraude jeonse começa dia 18 em 8 locais do país",
-        "excerpt": "A partir do dia 18, o governo oferecerá em oito locais do país revisão gratuita de contratos e documentos para futuros inquilinos antes da locação.",
-        "body": "O governo começará no dia 18 a oferecer consultoria de contrato seguro para futuros inquilinos em oito locais do país, com o objetivo de prevenir fraudes no jeonse. O Ministério da Terra, Infraestrutura e Transporte e órgãos ligados à habitação fornecerão um serviço gratuito de revisão para que pessoas prestes a assinar contratos de locação possam verificar antecipadamente documentos importantes, incluindo o contrato. O atendimento busca identificar riscos de fraude antes da assinatura e ajudar o inquilino a decidir com mais segurança. Diante da preocupação crescente com fraudes no jeonse, o governo pretende reduzir possíveis danos por meio de consultas presenciais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kostenlose Beratung gegen Jeonse-Betrug ab 18. an 8 Standorten landesweit",
-        "excerpt": "Ab dem 18. bietet die Regierung an acht Standorten landesweit kostenlose Prüfungen von Mietverträgen und Unterlagen für künftige Mieter an.",
-        "body": "Die Regierung startet am 18. an acht Standorten landesweit eine Beratung zu sicheren Verträgen für künftige Mieter, um Jeonse-Betrug vorzubeugen. Das Ministerium für Land, Infrastruktur und Verkehr sowie wohnungsbezogene Stellen bieten einen kostenlosen Prüfdienst an, damit Personen vor Abschluss eines Mietvertrags wichtige Unterlagen, darunter den Vertrag, vorab kontrollieren lassen können. Die Beratung soll Risiken von Jeonse-Betrug vor der Vertragsunterzeichnung erkennen und Mietern eine sicherere Entscheidung ermöglichen. Angesichts wachsender Sorge über Jeonse-Betrug will die Regierung mögliche Schäden durch Vor-Ort-Beratungen verringern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Conseil gratuit contre la fraude jeonse dès le 18 dans 8 sites du pays",
-        "excerpt": "À partir du 18, le gouvernement proposera dans huit sites du pays un examen gratuit des contrats et documents pour les futurs locataires avant signature.",
-        "body": "Le gouvernement lancera le 18, dans huit sites du pays, un service de conseil pour des contrats sûrs destiné aux futurs locataires afin de prévenir la fraude jeonse. Le ministère du Territoire, des Infrastructures et des Transports ainsi que des organismes liés au logement proposeront un examen gratuit des principaux documents, dont les contrats, avant la signature d’un bail. Cette consultation vise à repérer les risques de fraude avant la conclusion du contrat et à aider les locataires à décider plus sûrement. Face aux inquiétudes croissantes liées à la fraude jeonse, le gouvernement entend réduire les risques de préjudice grâce à des consultations sur place. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "استشارات مجانية لمنع احتيال الجونسي تبدأ في 18 عبر 8 مواقع بكوريا",
-        "excerpt": "تبدأ الحكومة من 18 تقديم مراجعة مجانية للعقود والوثائق للمستأجرين المحتملين في ثمانية مواقع nationwide قبل توقيع عقود الإيجار.",
-        "body": "تبدأ الحكومة في 18 تقديم استشارات العقود الآمنة للمستأجرين المحتملين في ثمانية مواقع في أنحاء كوريا، بهدف منع احتيال الجونسي. وستوفر وزارة الأراضي والبنية التحتية والنقل والجهات المعنية بالإسكان خدمة مراجعة مجانية، حتى يتمكن من يستعدون لتوقيع عقود الإيجار من فحص الوثائق الرئيسية، بما في ذلك العقد، مسبقا. وتركز الاستشارة على التحقق من مخاطر احتيال الجونسي قبل مرحلة التوقيع، ومساعدة المستأجرين على اتخاذ قرار أكثر أمانا. ومع تزايد المخاوف من هذا النوع من الاحتيال، تعتزم الحكومة خفض احتمالات الضرر عبر الاستشارات الميدانية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जोंसे धोखाधड़ी रोकने को 18 से देश के 8 केंद्रों पर मुफ्त अनुबंध परामर्श",
-        "excerpt": "सरकार 18 तारीख से देश के आठ केंद्रों पर भावी किरायेदारों के लिए पट्टा अनुबंध से पहले दस्तावेजों की मुफ्त समीक्षा सेवा देगी।",
-        "body": "सरकार जोंसे धोखाधड़ी की रोकथाम के लिए 18 तारीख से देश के आठ केंद्रों पर भावी किरायेदारों को सुरक्षित अनुबंध परामर्श देगी। भूमि, अवसंरचना और परिवहन मंत्रालय तथा आवास से जुड़ी संस्थाएं मुफ्त समीक्षा सेवा उपलब्ध कराएंगी, ताकि पट्टा अनुबंध करने वाले लोग अनुबंध सहित प्रमुख दस्तावेजों की पहले से जांच करा सकें। इस परामर्श का उद्देश्य अनुबंध से पहले जोंसे धोखाधड़ी के जोखिमों की पहचान करना और किरायेदारों को अधिक सुरक्षित निर्णय लेने में मदद देना है। जोंसे धोखाधड़ी को लेकर बढ़ती चिंता के बीच सरकार स्थल पर परामर्श के जरिए संभावित नुकसान घटाने की योजना रखती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Konsultasi Aman Cegah Penipuan Jeonse Gratis Mulai 18 di 8 Lokasi Nasional",
-        "excerpt": "Mulai tanggal 18, pemerintah menyediakan pemeriksaan gratis kontrak dan dokumen sewa bagi calon penyewa di delapan lokasi nasional untuk cegah penipuan jeonse.",
-        "body": "Pemerintah akan mulai menyediakan konsultasi kontrak aman bagi calon penyewa di delapan lokasi nasional pada tanggal 18 untuk mencegah penipuan jeonse. Kementerian Pertanahan, Infrastruktur, dan Transportasi bersama lembaga terkait perumahan akan memberikan layanan pemeriksaan gratis agar calon penyewa yang akan menandatangani kontrak sewa dapat mengecek dokumen utama, termasuk kontrak, terlebih dahulu. Konsultasi ini berfokus pada pemeriksaan risiko penipuan jeonse sebelum kontrak ditandatangani dan membantu penyewa mengambil keputusan yang lebih aman. Di tengah meningkatnya kekhawatiran atas penipuan jeonse, pemerintah berencana menekan potensi kerugian melalui konsultasi langsung. Sumber: mk.co.kr"
       }
     }
   }
