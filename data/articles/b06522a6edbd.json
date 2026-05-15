@@ -1,0 +1,75 @@
+{
+  "id": "b06522a6edbd",
+  "slug": "서로-다른-로봇-하나로-엮는-두뇌-제작하는-비스캣-허진석의-톡톡-스타트업-556570",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T21:32:45.303Z",
+  "updatedAt": "2026-05-15T21:32:45.303Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133929756/1",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133929756/1",
+  "titleFingerprint": "db0886311c74b57fa73d32d8a2acbdd478aa4ccc",
+  "dedupKeys": [
+    "b06522a6edbd457ab241dbf720eac9c67ecee6c4",
+    "db0886311c74b57fa73d32d8a2acbdd478aa4ccc",
+    "6a40f73fe2bdc29307a6ec3f8d092b0798cac7fa"
+  ],
+  "imageUrl": "/images/articles/b06522a6edbd.jpg",
+  "i18n": {
+    "ko": {
+      "title": "로봇 운영 시스템 만드는 비스캣, 이기종 로봇 협업 ‘두뇌’에 주목",
+      "excerpt": "스타트업 비스캣은 여러 기종 로봇을 연결해 작업 순서와 이동 동선을 조율하는 운영 시스템을 개발하며 산업 현장의 SI 방식 한계를 짚었다.",
+      "body": "스타트업 비스캣은 서로 다른 기종의 로봇을 하나의 작업 흐름으로 묶어 효율적으로 운영하는 시스템을 만들고 있다. 고동욱 비스캣 대표는 이달 6일 서울 서초구 사무실에서 여러 로봇이 함께 움직일 때 필요한 ‘두뇌’ 역할을 설명했다. 예컨대 주방 로봇, 운반 로봇, 청소 로봇이 같은 공간에서 콜라 전달 작업을 하려면 냉장고에서 꺼내는 시점, 물건을 넘기는 위치, 통로가 막혔을 때의 우회 판단이 필요하다. 기존 산업 현장에서는 시스템통합(SI) 방식으로 로봇을 묶는 사례가 있었지만, 비스캣은 여러 기종을 쉽고 빠르게 연결해 운영하는 데 초점을 맞춘다. 로봇 보급이 늘수록 이기종 로봇 간 협업 조율 기술의 중요성도 커질 전망이다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "VISCAT Builds Robot Operating System to Link Different Machines Into One Brain",
+      "excerpt": "Startup VISCAT is developing an operating system that connects different types of robots and coordinates task order and movement paths in industrial settings.",
+      "body": "Startup VISCAT is building a system that links robots of different types into a single workflow for more efficient operation. At its office in Seocho-gu, Seoul, on the 6th of this month, CEO Ko Dong-wook explained the need for a shared “brain” when multiple robots move together. If a kitchen robot, delivery robot and cleaning robot must deliver a cola in one space, the system has to decide when the drink is taken from the refrigerator, where it is handed over and how robots should detour if a passage is blocked. Industrial sites have used system integration methods to connect robots, but VISCAT focuses on making different models easier and faster to connect and operate. As robot use expands, coordination among heterogeneous robots is expected to become more important. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "異なるロボットをつなぐVISCAT、協業を支える運用システムに注目",
+      "excerpt": "スタートアップVISCATは、複数機種のロボットを接続し、作業順序や移動経路を調整する運用システムを開発している。",
+      "body": "スタートアップのVISCATは、異なる機種のロボットを一つの作業フローにまとめ、効率的に運用するシステムを開発している。高東旭代表は今月6日、ソウル瑞草区のオフィスで、複数のロボットが同時に動く際に必要な「頭脳」の役割を説明した。例えばキッチンロボット、運搬ロボット、清掃ロボットが同じ空間でコーラを届けるには、冷蔵庫から取り出す時点、受け渡し場所、通路がふさがった場合の迂回判断が必要になる。産業現場ではシステム統合方式でロボットを結ぶ事例があったが、VISCATは複数機種をより簡単かつ素早く接続して運用することに焦点を当てる。ロボットの普及が進むほど、異機種間の協業調整技術の重要性は高まりそうだ。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "VISCAT打造机器人运营系统，让不同机器人共享协作“大脑”",
+      "excerpt": "初创企业VISCAT正在开发连接不同类型机器人、协调作业顺序和移动路线的运营系统，以应对产业现场协作需求。",
+      "body": "初创企业VISCAT正在打造一种系统，把不同类型的机器人连接到同一作业流程中，从而提升运营效率。VISCAT代表高东旭本月6日在首尔瑞草区办公室说明，多台机器人共同移动时需要一个类似“大脑”的系统。比如厨房机器人、搬运机器人和清扫机器人在同一空间完成递送可乐任务时，系统需要判断何时从冰箱取出可乐、在哪里交接物品，以及通道被占用时如何绕行。产业现场此前已有通过系统集成方式连接机器人的案例，但VISCAT的重点是让多种机型更容易、更快速地连接和运营。随着机器人应用增加，异构机器人之间的协作协调技术预计将更加重要。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "VISCAT desarrolla un sistema que conecta robots distintos como un solo cerebro",
+      "excerpt": "La startup VISCAT crea un sistema operativo para enlazar distintos tipos de robots y coordinar el orden de tareas y las rutas de movimiento.",
+      "body": "La startup VISCAT está desarrollando un sistema que conecta robots de distintos tipos en un mismo flujo de trabajo para operarlos con mayor eficiencia. El día 6 de este mes, en su oficina de Seocho-gu, Seúl, el director ejecutivo Ko Dong-wook explicó la necesidad de un “cerebro” común cuando varios robots se mueven juntos. Si un robot de cocina, uno de transporte y uno de limpieza deben entregar una cola en el mismo espacio, el sistema debe decidir cuándo se saca del refrigerador, dónde se entrega el objeto y cómo desviarse si un pasillo está bloqueado. En plantas industriales ya se han conectado robots mediante integración de sistemas, pero VISCAT se centra en enlazar y operar varios modelos de forma más fácil y rápida. A medida que crezca el uso de robots, la coordinación entre equipos heterogéneos será más relevante. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "VISCAT cria sistema para ligar robôs diferentes em um único cérebro operacional",
+      "excerpt": "A startup VISCAT desenvolve um sistema que conecta diferentes tipos de robôs e coordena ordem de tarefas e rotas em ambientes industriais.",
+      "body": "A startup VISCAT está criando um sistema que conecta robôs de diferentes tipos em um único fluxo de trabalho para operar com mais eficiência. No dia 6 deste mês, em seu escritório em Seocho-gu, Seul, o CEO Ko Dong-wook explicou a necessidade de um “cérebro” comum quando vários robôs se movimentam juntos. Se um robô de cozinha, um robô de transporte e um robô de limpeza precisam entregar uma cola no mesmo espaço, o sistema deve decidir quando a bebida será retirada da geladeira, onde ocorrerá a transferência e como contornar um corredor bloqueado. Em ambientes industriais, já houve casos de conexão por integração de sistemas, mas a VISCAT foca em tornar a ligação e a operação de vários modelos mais simples e rápidas. Com a expansão do uso de robôs, a coordenação entre equipamentos heterogêneos tende a ganhar importância. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "VISCAT entwickelt Roboter-Betriebssystem für Zusammenarbeit unterschiedlicher Modelle",
+      "excerpt": "Das Startup VISCAT entwickelt ein System, das verschiedene Robotertypen verbindet und Reihenfolge, Übergaben sowie Bewegungswege koordiniert.",
+      "body": "Das Startup VISCAT entwickelt ein System, das Roboter unterschiedlicher Bauart in einen gemeinsamen Arbeitsablauf einbindet und effizienter betreibt. Am 6. dieses Monats erklärte CEO Ko Dong-wook im Büro in Seocho-gu, Seoul, warum mehrere gemeinsam arbeitende Roboter ein übergeordnetes „Gehirn“ benötigen. Wenn etwa ein Küchenroboter, ein Transportroboter und ein Reinigungsroboter in einem Raum eine Cola liefern sollen, muss das System festlegen, wann die Flasche aus dem Kühlschrank genommen wird, wo die Übergabe erfolgt und wie bei blockiertem Durchgang ausgewichen wird. In der Industrie wurden Roboter bereits per Systemintegration verbunden, doch VISCAT konzentriert sich darauf, verschiedene Modelle einfacher und schneller zu verknüpfen und zu betreiben. Mit wachsender Roboternutzung dürfte die Koordination heterogener Roboter wichtiger werden. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "VISCAT conçoit un système pour relier des robots différents en un seul cerveau",
+      "excerpt": "La startup VISCAT développe un système d’exploitation reliant plusieurs types de robots afin de coordonner tâches, transferts et déplacements.",
+      "body": "La startup VISCAT développe un système qui relie des robots de différents types dans un même flux de travail afin de les exploiter plus efficacement. Le 6 de ce mois, dans son bureau de Seocho-gu à Séoul, le PDG Ko Dong-wook a expliqué le rôle d’un « cerveau » commun lorsque plusieurs robots se déplacent ensemble. Si un robot de cuisine, un robot de transport et un robot de nettoyage doivent livrer un cola dans le même espace, le système doit décider quand la boisson est sortie du réfrigérateur, où l’objet est transmis et comment contourner un passage bloqué. Dans l’industrie, certains sites ont déjà relié des robots par intégration de systèmes, mais VISCAT se concentre sur une connexion et une exploitation plus simples et plus rapides de plusieurs modèles. À mesure que l’usage des robots progresse, la coordination entre robots hétérogènes devrait gagner en importance. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "فيسكات تطور نظاما يشبه الدماغ لتنسيق عمل روبوتات من أنواع مختلفة",
+      "excerpt": "تعمل شركة فيسكات الناشئة على نظام يربط روبوتات متعددة الأنواع وينسق ترتيب المهام ومسارات الحركة في مواقع العمل الصناعية.",
+      "body": "تطور شركة فيسكات الناشئة نظاما يربط روبوتات من أنواع مختلفة ضمن مسار عمل واحد لتشغيلها بكفاءة أكبر. وفي مكتبها في سوتشو غو بسيول في السادس من هذا الشهر، شرح الرئيس التنفيذي كو دونغ ووك الحاجة إلى «دماغ» مشترك عندما تتحرك عدة روبوتات معا. فإذا كان روبوت المطبخ وروبوت النقل وروبوت التنظيف سيقدمون عبوة كولا في المكان نفسه، فعلى النظام تحديد وقت إخراجها من الثلاجة، ومكان تسليمها بين الروبوتات، وكيفية الالتفاف عند انسداد الممر. وقد استخدمت مواقع صناعية أسلوب تكامل الأنظمة لربط الروبوتات، لكن فيسكات تركز على جعل ربط النماذج المختلفة وتشغيلها أسهل وأسرع. ومع زيادة انتشار الروبوتات، ستزداد أهمية تنسيق التعاون بين الروبوتات غير المتجانسة. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "VISCAT अलग-अलग रोबोटों को जोड़ने वाला साझा ‘ब्रेन’ सिस्टम बना रही है",
+      "excerpt": "स्टार्टअप VISCAT अलग-अलग प्रकार के रोबोटों को जोड़कर कार्य क्रम, सामान हस्तांतरण और आवाजाही के रास्ते समन्वित करने वाला सिस्टम विकसित कर रही है।",
+      "body": "स्टार्टअप VISCAT ऐसा सिस्टम बना रही है जो अलग-अलग प्रकार के रोबोटों को एक ही कार्य प्रवाह में जोड़कर उन्हें अधिक कुशलता से चला सके। कंपनी के सीईओ को डोंग-वूक ने इस महीने की 6 तारीख को सियोल के स्योचो-गु स्थित कार्यालय में बताया कि कई रोबोट साथ काम करें तो एक साझा “ब्रेन” जैसी व्यवस्था जरूरी होती है। उदाहरण के लिए, यदि किचन रोबोट, परिवहन रोबोट और सफाई रोबोट को एक ही स्थान में कोला पहुंचाना हो, तो सिस्टम को तय करना होगा कि फ्रिज से कोला कब निकलेगा, वस्तु कहां सौंपी जाएगी और रास्ता बंद होने पर कौन सा वैकल्पिक मार्ग लिया जाएगा। औद्योगिक स्थलों पर रोबोटों को सिस्टम इंटीग्रेशन पद्धति से जोड़ने के उदाहरण रहे हैं, लेकिन VISCAT कई मॉडलों को आसान और तेज तरीके से जोड़कर चलाने पर केंद्रित है। रोबोटों का उपयोग बढ़ने के साथ अलग-अलग प्रकार के रोबोटों के समन्वय की अहमियत और बढ़ने की उम्मीद है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "VISCAT Kembangkan Sistem Operasi Robot untuk Menyatukan Berbagai Mesin",
+      "excerpt": "Startup VISCAT mengembangkan sistem yang menghubungkan berbagai jenis robot serta mengatur urutan kerja, titik serah, dan jalur pergerakan.",
+      "body": "Startup VISCAT sedang mengembangkan sistem yang menghubungkan robot dari berbagai jenis ke dalam satu alur kerja agar dapat dioperasikan lebih efisien. Pada tanggal 6 bulan ini di kantornya di Seocho-gu, Seoul, CEO Ko Dong-wook menjelaskan perlunya “otak” bersama ketika beberapa robot bergerak bersama. Jika robot dapur, robot pengangkut, dan robot pembersih harus mengantarkan cola di ruang yang sama, sistem perlu menentukan kapan cola diambil dari kulkas, di mana barang diserahkan, dan bagaimana mengambil rute lain saat lorong terhalang. Di lokasi industri, robot sebelumnya telah dihubungkan melalui metode integrasi sistem, tetapi VISCAT berfokus pada cara yang lebih mudah dan cepat untuk menghubungkan serta mengoperasikan berbagai model. Seiring meningkatnya penggunaan robot, teknologi koordinasi antarrobot heterogen diperkirakan makin penting. Sumber: rss.donga.com"
+    }
+  }
+}
