@@ -1,0 +1,75 @@
+{
+  "id": "3fdbb98a8178",
+  "slug": "누르지도-않았는데-다른-화면으로-휙납치광고-금지법-추진된다-368169",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T20:37:02.825Z",
+  "updatedAt": "2026-05-15T20:37:02.826Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133931157/1",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133931157/1",
+  "titleFingerprint": "b52d8eb52ce0770242602e0f1e55dc4b56ae10ac",
+  "dedupKeys": [
+    "3fdbb98a81785cc0dca56da45a99cf9b8f782ebc",
+    "b52d8eb52ce0770242602e0f1e55dc4b56ae10ac",
+    "9eab9313e1f678772f984a123e30f50078f0b2dd"
+  ],
+  "imageUrl": "/images/articles/3fdbb98a8178.jpg",
+  "i18n": {
+    "ko": {
+      "title": "납치광고 금지법 추진, 원치 않는 앱·쇼핑몰 강제 이동 규제한다",
+      "excerpt": "15일 국회에 따르면 조인철 더불어민주당 의원은 이용자 의사와 무관한 화면 전환과 광고 노출을 금지행위로 명확히 하는 전기통신사업법 개정안을 발의했다.",
+      "body": "웹서핑 중 이용자가 누르지 않았는데도 특정 앱이나 쇼핑몰 화면으로 강제 이동하는 이른바 ‘납치광고’를 규제하는 법안이 추진된다. 15일 국회에 따르면 국회 과학기술정보방송통신위원회 소속 조인철 더불어민주당 의원은 이런 내용을 담은 전기통신사업법 일부개정법률안을 대표 발의했다. 현행법은 전기통신서비스 제공 사업자가 이용약관과 다르게 서비스를 제공하거나 이용자 이익을 현저히 해치는 행위를 금지한다. 그러나 웹페이지나 앱 이용 중 의사와 무관한 화면 이동, 광고 삭제 방해, 가입·해지 과정의 선택 왜곡 등 다크패턴을 명확히 규율해야 한다는 지적이 이어졌다. 개정안은 원치 않는 화면 전환이나 광고 노출을 금지행위로 규정해 이용자 보호를 강화하려는 취지다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Bill to Ban ‘Hijack Ads’ Targets Forced Moves to Apps and Shopping Pages",
+      "excerpt": "According to the National Assembly on May 15, Rep. Cho In-chul proposed a telecom law revision to define unwanted screen shifts and ad exposure as prohibited acts.",
+      "body": "A bill is being pushed to regulate so-called “hijack ads,” which force users to move to a specific app or shopping mall page while browsing the web even when they have not clicked anything. According to the National Assembly on May 15, Rep. Cho In-chul of the Democratic Party of Korea, a member of the Science, ICT, Broadcasting and Communications Committee, introduced a partial revision to the Telecommunications Business Act. The current law bars telecommunications service providers, including carriers and platforms, from offering services differently from their terms of use or in ways that seriously harm users’ interests. However, calls have continued for clearer rules on dark patterns, including forced screen changes during web or app use, making ads hard to delete, and distorting choices during sign-up or cancellation. The revision aims to strengthen user protection by defining unwanted screen transitions or ad exposure as prohibited conduct. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "「拉致広告」禁止法を推進、アプリ・通販画面への強制移動を規制へ",
+      "excerpt": "国会によると15日、趙寅徹・共に民主党議員は、利用者の意思に反する画面遷移や広告表示を禁止行為として明確化する電気通信事業法改正案を発議した。",
+      "body": "ウェブ閲覧中に利用者が押していないにもかかわらず、特定のアプリやショッピングモール画面へ強制的に移動させる、いわゆる「拉致広告」を規制する法案が推進される。国会によると15日、国会科学技術情報放送通信委員会所属の趙寅徹・共に民主党議員は、この内容を盛り込んだ電気通信事業法一部改正法律案を代表発議した。現行法は、通信会社やプラットフォームなど電気通信サービス提供事業者が利用約款と異なる形でサービスを提供したり、利用者の利益を著しく害したりする行為を禁じている。しかし実際の利用過程では、ウェブページやアプリ利用中に本人の意思と関係なく別画面へ移動させる行為、広告削除を難しくする行為、加入・解約過程で選択を歪めるダークパターンが相次ぎ、明確な規律が必要だとの指摘が出ていた。改正案は望まない画面遷移や広告表示を禁止行為に定め、利用者保護を強化する狙いだ。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "韩国推进禁止“劫持广告”法案，拟规制强跳应用和购物页面",
+      "excerpt": "据韩国国会15日消息，共同民主党议员赵仁哲提出《电信事业法》修正案，拟将违背用户意愿的画面跳转和广告曝光明确列为禁止行为。",
+      "body": "韩国正推进一项法案，规制用户在网页浏览过程中未点击却被强制跳转到特定应用或购物平台页面的所谓“劫持广告”。据韩国国会15日消息，国会科学技术信息广播通信委员会所属共同民主党议员赵仁哲代表提出了包含上述内容的《电信事业法》部分修正案。现行法律禁止通信公司、平台等电信服务提供者以不同于使用条款的方式提供服务，或以明显损害用户利益的方式提供服务。但在实际使用中，网页或应用会在违背用户意愿的情况下跳转至其他画面，也出现难以删除广告、在注册和解约过程中扭曲用户选择等黑暗模式，因此有意见认为有必要作出明确规范。该修正案旨在把用户不希望的画面跳转或广告曝光规定为禁止行为，以加强用户保护。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Corea impulsa una ley contra los ‘anuncios secuestro’ y saltos forzados",
+      "excerpt": "Según la Asamblea Nacional el día 15, el diputado Cho In-chul presentó una reforma de la Ley de Telecomunicaciones para prohibir cambios de pantalla y anuncios no deseados.",
+      "body": "Corea del Sur impulsa un proyecto de ley para regular los llamados “anuncios secuestro”, que durante la navegación web trasladan por la fuerza al usuario a una aplicación concreta o a una página de compras sin que haya hecho clic. Según la Asamblea Nacional el día 15, Cho In-chul, diputado del Partido Democrático de Corea e integrante del comité parlamentario de Ciencia, TIC, Radiodifusión y Comunicaciones, presentó una reforma parcial de la Ley de Negocios de Telecomunicaciones. La ley vigente prohíbe que operadores de telecomunicaciones y plataformas presten servicios de forma distinta a sus condiciones de uso o de una manera que perjudique gravemente los intereses de los usuarios. Sin embargo, se ha señalado la necesidad de regular con claridad los patrones oscuros, como cambios de pantalla ajenos a la voluntad del usuario, dificultades para eliminar publicidad y distorsión de opciones en procesos de alta o baja. La reforma busca reforzar la protección del usuario al definir esos cambios y anuncios no deseados como actos prohibidos. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Coreia avança com lei contra ‘anúncios sequestro’ e redirecionamentos forçados",
+      "excerpt": "Segundo a Assembleia Nacional no dia 15, o deputado Cho In-chul apresentou revisão da Lei de Telecomunicações para proibir mudanças de tela e anúncios sem consentimento do usuário.",
+      "body": "A Coreia do Sul avança com um projeto de lei para regular os chamados “anúncios sequestro”, que durante a navegação na web levam o usuário à força para um aplicativo específico ou uma página de compras sem que ele tenha clicado. Segundo a Assembleia Nacional no dia 15, Cho In-chul, deputado do Partido Democrático da Coreia e integrante do Comitê de Ciência, TIC, Radiodifusão e Comunicações, apresentou uma revisão parcial da Lei de Negócios de Telecomunicações. A lei atual proíbe que operadoras e plataformas de telecomunicações ofereçam serviços de forma diferente dos termos de uso ou de modo que prejudique significativamente os interesses dos usuários. Ainda assim, há críticas de que é necessário regular claramente padrões obscuros, como mudanças de tela contra a vontade do usuário, dificuldade para remover anúncios e distorção de escolhas em processos de adesão ou cancelamento. A revisão busca reforçar a proteção do usuário ao classificar mudanças de tela e exposição a anúncios indesejadas como condutas proibidas. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Südkorea plant Verbot von ‘Hijack Ads’ gegen erzwungene App-Weiterleitungen",
+      "excerpt": "Nach Angaben der Nationalversammlung vom 15. Mai legte Abgeordneter Cho In-chul eine Änderung des Telekommunikationsgesetzes vor, um unerwünschte Bildschirmwechsel und Werbung klar zu verbieten.",
+      "body": "Südkorea treibt einen Gesetzentwurf zur Regulierung sogenannter „Hijack Ads“ voran. Dabei werden Nutzer beim Surfen im Web ohne eigenen Klick zwangsweise zu einer bestimmten App oder Shoppingseite weitergeleitet. Nach Angaben der Nationalversammlung vom 15. Mai brachte Cho In-chul von der Demokratischen Partei Koreas, Mitglied des Ausschusses für Wissenschaft, IKT, Rundfunk und Kommunikation, eine Teiländerung des Telekommunikationsgeschäftsgesetzes ein. Das geltende Recht verbietet Telekommunikationsanbietern, darunter Netzbetreibern und Plattformen, Dienste abweichend von den Nutzungsbedingungen oder in einer Weise bereitzustellen, die Nutzerinteressen erheblich schädigt. In der Praxis gibt es jedoch wiederholt Dark Patterns: Bildschirmwechsel ohne Nutzerwillen, erschwertes Entfernen von Werbung sowie verzerrte Auswahlmöglichkeiten bei Anmeldung oder Kündigung. Daher wird eine klare Regelung gefordert. Die Änderung soll den Nutzerschutz stärken, indem unerwünschte Bildschirmwechsel und Werbeeinblendungen als verbotene Handlungen definiert werden. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "La Corée veut interdire les ‘publicités enlèvement’ et les redirections forcées",
+      "excerpt": "Selon l’Assemblée nationale le 15 mai, le député Cho In-chul a déposé une révision de la loi sur les télécommunications pour interdire les changements d’écran et publicités non voulus.",
+      "body": "La Corée du Sud pousse un projet de loi visant à encadrer les « publicités enlèvement », qui redirigent de force un utilisateur vers une application précise ou une page de commerce en ligne pendant sa navigation, sans qu’il ait cliqué. Selon l’Assemblée nationale le 15 mai, Cho In-chul, député du Parti démocrate de Corée et membre de la commission des sciences, des TIC, de la radiodiffusion et des communications, a déposé une révision partielle de la loi sur les activités de télécommunications. Le droit actuel interdit aux fournisseurs de services de télécommunications, dont les opérateurs et plateformes, de fournir un service différent des conditions d’utilisation ou d’une manière portant gravement atteinte aux intérêts des utilisateurs. Mais des voix demandent une réglementation plus claire des dark patterns observés en pratique: changements d’écran contre la volonté de l’utilisateur, suppression difficile des publicités, ou choix biaisés lors de l’inscription et de la résiliation. La révision vise à renforcer la protection des utilisateurs en qualifiant ces changements d’écran et expositions publicitaires non désirés d’actes interdits. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "كوريا تدفع بقانون يحظر «إعلانات الاختطاف» والتحويل القسري للتطبيقات",
+      "excerpt": "وفق الجمعية الوطنية في 15 مايو، قدم النائب تشو إن-تشول تعديلا على قانون الاتصالات لتصنيف تبديل الشاشات وعرض الإعلانات دون رغبة المستخدم كأفعال محظورة.",
+      "body": "تدفع كوريا الجنوبية بمشروع قانون لتنظيم ما يسمى «إعلانات الاختطاف»، وهي إعلانات تنقل المستخدم قسرا أثناء تصفح الويب إلى تطبيق محدد أو صفحة تسوق رغم أنه لم يضغط عليها. ووفق الجمعية الوطنية في 15 مايو، قدم النائب تشو إن-تشول من الحزب الديمقراطي الكوري، وهو عضو في لجنة العلوم وتكنولوجيا المعلومات والاتصالات والبث، مشروع تعديل جزئي لقانون أعمال الاتصالات. يحظر القانون الحالي على مزودي خدمات الاتصالات، مثل شركات الاتصالات والمنصات، تقديم الخدمة على نحو يخالف شروط الاستخدام أو يضر بمصالح المستخدمين بشكل كبير. لكن أثناء الاستخدام الفعلي ظهرت أنماط مظلمة متكررة، مثل نقل المستخدم إلى شاشة أخرى دون إرادته، وجعل حذف الإعلانات صعبا، وتشويه اختياراته في عمليات الاشتراك أو الإلغاء، ما أثار مطالبات بتنظيم واضح. ويهدف التعديل إلى تعزيز حماية المستخدمين عبر تعريف تبديل الشاشات أو عرض الإعلانات غير المرغوب فيهما كأفعال محظورة. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "कोरिया में ‘हाइजैक विज्ञापन’ रोकने का विधेयक, ऐप और शॉपिंग पेज पर जबरन ले जाने पर लगाम",
+      "excerpt": "15 मई को नेशनल असेंबली के अनुसार, सांसद Cho In-chul ने दूरसंचार कानून में संशोधन पेश किया, जिससे उपयोगकर्ता की इच्छा के विरुद्ध स्क्रीन बदलाव और विज्ञापन दिखाना निषिद्ध कृत्य माना जाएगा।",
+      "body": "दक्षिण कोरिया में तथाकथित ‘हाइजैक विज्ञापन’ को नियंत्रित करने वाला विधेयक आगे बढ़ाया जा रहा है। इसमें वे मामले शामिल हैं जिनमें वेब ब्राउजिंग के दौरान उपयोगकर्ता ने क्लिक नहीं किया होता, फिर भी उसे जबरन किसी विशेष ऐप या शॉपिंग मॉल स्क्रीन पर भेज दिया जाता है। 15 मई को नेशनल असेंबली के अनुसार, विज्ञान, आईसीटी, प्रसारण और संचार समिति से जुड़े डेमोक्रेटिक पार्टी ऑफ कोरिया के सांसद Cho In-chul ने दूरसंचार व्यवसाय अधिनियम में आंशिक संशोधन विधेयक प्रतिनिधि रूप से पेश किया। मौजूदा कानून दूरसंचार सेवा प्रदाताओं, जैसे दूरसंचार कंपनियों और प्लेटफॉर्मों, को उपयोग की शर्तों से अलग सेवा देने या उपयोगकर्ता के हितों को गंभीर रूप से नुकसान पहुंचाने वाले तरीके से सेवा देने से रोकता है। लेकिन वास्तविक उपयोग में वेबपेज या ऐप के दौरान उपयोगकर्ता की इच्छा के बिना दूसरी स्क्रीन पर ले जाना, विज्ञापन हटाना कठिन बनाना और सदस्यता या रद्दीकरण प्रक्रिया में विकल्पों को विकृत करने जैसे डार्क पैटर्न जारी रहे हैं। संशोधन का उद्देश्य अवांछित स्क्रीन बदलाव या विज्ञापन प्रदर्शन को निषिद्ध कृत्य के रूप में स्पष्ट कर उपयोगकर्ता सुरक्षा मजबूत करना है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Korea Dorong Larangan ‘Iklan Bajak’, Atur Paksa Pindah ke Aplikasi dan Toko Online",
+      "excerpt": "Menurut Majelis Nasional pada 15 Mei, anggota parlemen Cho In-chul mengajukan revisi UU Telekomunikasi untuk melarang perpindahan layar dan paparan iklan tanpa kehendak pengguna.",
+      "body": "Korea Selatan mendorong rancangan undang-undang untuk mengatur apa yang disebut “iklan bajak”, yaitu praktik yang memaksa pengguna berpindah ke aplikasi tertentu atau halaman pusat belanja saat menjelajah web meski tidak menekan apa pun. Menurut Majelis Nasional pada 15 Mei, Cho In-chul dari Partai Demokrat Korea, anggota Komite Sains, TIK, Penyiaran dan Komunikasi, mengajukan rancangan revisi sebagian atas Undang-Undang Bisnis Telekomunikasi. Hukum saat ini melarang penyedia layanan telekomunikasi, termasuk operator dan platform, memberikan layanan berbeda dari ketentuan penggunaan atau dengan cara yang sangat merugikan kepentingan pengguna. Namun dalam praktik, muncul dorongan untuk mengatur dark pattern secara jelas, seperti perpindahan layar tanpa kehendak pengguna saat memakai laman web atau aplikasi, iklan yang sulit dihapus, serta distorsi pilihan dalam proses pendaftaran atau penghentian layanan. Revisi ini bertujuan memperkuat perlindungan pengguna dengan menetapkan perpindahan layar atau paparan iklan yang tidak diinginkan sebagai tindakan terlarang. Sumber: rss.donga.com"
+    }
+  }
+}
