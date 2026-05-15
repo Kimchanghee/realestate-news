@@ -1,0 +1,75 @@
+{
+  "id": "241c5aac3190",
+  "slug": "다크팩토리-우리가-앞당길-것-새-로봇과-기존-로봇-바로-협업-가능허진석의-톡톡-스타트업-392992",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T17:43:12.319Z",
+  "updatedAt": "2026-05-15T17:43:12.319Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932892/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932892/2",
+  "titleFingerprint": "3a599c58fa5a8d49db51bb3f652d454515d546c6",
+  "dedupKeys": [
+    "241c5aac3190a33f98d5eceabb1dc17cdead001c",
+    "3a599c58fa5a8d49db51bb3f652d454515d546c6",
+    "8df780b89fab580b865608c3d436c73c88a57127"
+  ],
+  "imageUrl": "/images/articles/241c5aac3190.jpg",
+  "i18n": {
+    "ko": {
+      "title": "비스캣 로봇 협업 시스템, 다크팩토리 앞당길 스타트업 기술 주목",
+      "excerpt": "비스캣 고동욱 대표는 6일 서울 서초구 사무실에서 여러 기종 로봇을 쉽고 빠르게 연결해 산업 현장을 효율화하는 협업 운영 시스템을 소개했다.",
+      "body": "스타트업 비스캣은 이달 6일 서울 서초구 사무실에서 여러 기종 로봇을 쉽고 빠르게 연결해 효율적으로 운영하는 시스템을 소개했다. 고동욱 비스캣 대표는 주방, 운반, 청소 로봇처럼 서로 역할이 다른 로봇들이 같은 공간에서 일하려면 위치, 작업 순서, 물건 인계 지점, 통로 차단 상황을 공유하는 체계가 필요하다고 설명했다. 기존 산업 현장에서는 시스템통합(SI) 방식으로 로봇을 묶어 운영해 왔지만, 새 로봇과 기존 로봇이 바로 협업하려면 더 유연한 연결 방식이 요구된다. 비스캣의 기술은 다양한 로봇을 통합 운영해 공장 자동화와 다크팩토리 전환을 앞당기는 기반으로 주목된다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "BisCat Robot Collaboration System Draws Attention for Dark Factory Automation",
+      "excerpt": "BisCat CEO Ko Dong-wook said on May 6 in Seoul that the startup is building a system to quickly connect different robots and improve industrial operations.",
+      "body": "Startup BisCat introduced on May 6 at its office in Seocho-gu, Seoul, a system designed to connect and operate different types of robots quickly and efficiently. CEO Ko Dong-wook explained that robots with separate roles, such as kitchen, transport and cleaning robots, need a shared system for location, work order, handoff points and blocked passages to operate in the same space. Industrial sites have used system integration methods to link robots, but immediate collaboration between new and existing robots requires a more flexible connection model. BisCat’s technology is drawing attention as a foundation for integrated robot operations and the shift toward dark factories. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "ビスキャットのロボット協業システム、ダークファクトリー前倒し技術に注目",
+      "excerpt": "ビスキャットのコ・ドンウク代表は6日、ソウル瑞草区の事務所で、異機種ロボットを素早くつなぎ産業現場を効率化する運用システムを紹介した。",
+      "body": "スタートアップのビスキャットは今月6日、ソウル瑞草区の事務所で、複数機種のロボットを簡単かつ迅速につなぎ、効率的に運用するシステムを紹介した。コ・ドンウク代表は、キッチン、運搬、清掃ロボットのように役割が異なるロボットが同じ空間で働くには、位置、作業順序、物の受け渡し地点、通路が塞がれた状況を共有する仕組みが必要だと説明した。従来の産業現場ではシステムインテグレーション方式でロボットを結び付けてきたが、新旧ロボットがすぐ協業するには、より柔軟な接続方式が求められる。ビスキャットの技術は、ロボット統合運用とダークファクトリー転換を早める基盤として注目される。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "BisCat机器人协作系统受关注，或推动黑灯工厂进程",
+      "excerpt": "BisCat代表高东旭6日在首尔瑞草区办公室介绍了可快速连接多种机器人、提升工业现场效率的协同运营系统。",
+      "body": "初创企业BisCat本月6日在首尔瑞草区办公室介绍了一套系统，可将多种型号机器人便捷、快速连接并高效运营。BisCat代表高东旭说明，像厨房、搬运、清扫机器人这样职责不同的机器人若要在同一空间工作，就需要共享位置、作业顺序、物品交接地点以及通道受阻情况的体系。此前工业现场多以系统集成方式连接机器人，但新机器人与既有机器人若要立即协作，需要更灵活的连接方式。BisCat的技术作为整合运营多样机器人、推动工厂自动化和黑灯工厂转型的基础，正受到关注。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "BisCat impulsa la colaboración robótica para acercar las fábricas oscuras",
+      "excerpt": "Ko Dong-wook, CEO de BisCat, presentó el 6 de mayo en Seúl un sistema para conectar robots de distintos tipos y hacer más eficientes los entornos industriales.",
+      "body": "La startup BisCat presentó el 6 de mayo en su oficina de Seocho-gu, Seúl, un sistema para conectar de forma rápida y sencilla distintos tipos de robots y operarlos con eficiencia. Su CEO, Ko Dong-wook, explicó que robots con funciones distintas, como cocina, transporte y limpieza, necesitan compartir ubicación, orden de tareas, puntos de entrega y bloqueos de pasillos para trabajar en el mismo espacio. En los entornos industriales se han usado métodos de integración de sistemas para enlazar robots, pero la colaboración inmediata entre robots nuevos y existentes requiere una conexión más flexible. La tecnología de BisCat atrae atención como base para la operación integrada de robots y la transición hacia fábricas oscuras. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Sistema da BisCat para colaboração robótica mira avanço das fábricas escuras",
+      "excerpt": "Ko Dong-wook, CEO da BisCat, apresentou em 6 de maio, em Seul, um sistema para conectar robôs de diferentes tipos e tornar operações industriais mais eficientes.",
+      "body": "A startup BisCat apresentou em 6 de maio, em seu escritório em Seocho-gu, Seul, um sistema criado para conectar de forma rápida e simples diferentes tipos de robôs e operá-los com eficiência. O CEO Ko Dong-wook explicou que robôs com funções distintas, como cozinha, transporte e limpeza, precisam compartilhar localização, ordem de tarefas, pontos de entrega e bloqueios de passagem para trabalhar no mesmo espaço. Nos ambientes industriais, robôs vêm sendo conectados por integração de sistemas, mas a colaboração imediata entre robôs novos e existentes exige um modelo mais flexível. A tecnologia da BisCat chama atenção como base para operação integrada de robôs e transição para fábricas escuras. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "BisCat-System für Roboter-Kollaboration rückt Dark Factories näher",
+      "excerpt": "BisCat-Chef Ko Dong-wook stellte am 6. Mai in Seoul ein System vor, das verschiedene Robotertypen schnell verbindet und Industrieabläufe effizienter macht.",
+      "body": "Das Startup BisCat stellte am 6. Mai in seinem Büro im Seouler Bezirk Seocho-gu ein System vor, das unterschiedliche Robotertypen einfach und schnell verbindet und effizient betreibt. CEO Ko Dong-wook erklärte, dass Roboter mit verschiedenen Aufgaben, etwa Küchen-, Transport- und Reinigungsroboter, ein gemeinsames System für Standort, Arbeitsreihenfolge, Übergabepunkte und blockierte Wege brauchen, um im selben Raum zu arbeiten. In Industrieanlagen wurden Roboter bisher über Systemintegration verbunden, doch die sofortige Zusammenarbeit neuer und vorhandener Roboter erfordert flexiblere Verbindungen. BisCats Technologie gilt als Grundlage für integrierte Robotersteuerung und den Übergang zu Dark Factories. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "BisCat mise sur la collaboration robotique pour accélérer les usines sans éclairage",
+      "excerpt": "Ko Dong-wook, PDG de BisCat, a présenté le 6 mai à Séoul un système reliant rapidement différents robots afin d’améliorer l’efficacité des sites industriels.",
+      "body": "La startup BisCat a présenté le 6 mai, dans son bureau de Seocho-gu à Séoul, un système destiné à connecter rapidement et simplement différents types de robots pour les exploiter efficacement. Son PDG, Ko Dong-wook, a expliqué que des robots aux rôles distincts, comme cuisine, transport et nettoyage, doivent partager position, ordre des tâches, points de remise et informations sur les passages bloqués pour travailler dans un même espace. Les sites industriels ont jusqu’ici relié les robots par intégration de systèmes, mais une collaboration immédiate entre robots nouveaux et existants exige un mode de connexion plus flexible. La technologie de BisCat attire l’attention comme base d’une exploitation robotique intégrée et d’une transition vers les dark factories. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "نظام BisCat لتعاون الروبوتات يلفت الأنظار مع اقتراب المصانع المظلمة",
+      "excerpt": "عرض كو دونغ ووك، الرئيس التنفيذي لـBisCat، في 6 مايو بسيول نظاما يربط أنواعا مختلفة من الروبوتات بسرعة لتحسين كفاءة المواقع الصناعية.",
+      "body": "قدمت شركة BisCat الناشئة في 6 مايو، في مكتبها بمنطقة سيوتشو في سيول، نظاما يهدف إلى ربط أنواع متعددة من الروبوتات بسرعة وسهولة وتشغيلها بكفاءة. وأوضح الرئيس التنفيذي كو دونغ ووك أن الروبوتات ذات الأدوار المختلفة، مثل روبوتات المطبخ والنقل والتنظيف، تحتاج إلى نظام مشترك لمعرفة الموقع وترتيب العمل ونقاط تسليم الأشياء وحالات انسداد الممرات كي تعمل في المساحة نفسها. وفي المواقع الصناعية جرى ربط الروبوتات غالبا عبر أسلوب تكامل الأنظمة، لكن تعاون الروبوتات الجديدة مع القائمة فورا يتطلب طريقة ربط أكثر مرونة. وتبرز تقنية BisCat كأساس لتشغيل روبوتي متكامل وتسريع التحول نحو المصانع المظلمة. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "BisCat का रोबोट सहयोग सिस्टम डार्क फैक्टरी बदलाव के लिए चर्चा में",
+      "excerpt": "BisCat के सीईओ को डोंग-वूक ने 6 मई को सियोल में अलग-अलग रोबोटों को तेजी से जोड़कर औद्योगिक संचालन दक्ष बनाने वाली प्रणाली पेश की।",
+      "body": "स्टार्टअप BisCat ने 6 मई को सियोल के सेओचो-गु स्थित अपने कार्यालय में ऐसी प्रणाली पेश की, जो कई प्रकार के रोबोटों को आसानी और तेजी से जोड़कर कुशलता से संचालित करती है। सीईओ को डोंग-वूक ने समझाया कि रसोई, परिवहन और सफाई रोबोट जैसे अलग-अलग भूमिकाओं वाले रोबोटों को एक ही स्थान पर काम करने के लिए स्थान, काम का क्रम, वस्तु सौंपने की जगह और रास्ता बंद होने की स्थिति साझा करने वाली व्यवस्था चाहिए। औद्योगिक स्थलों पर अब तक रोबोटों को सिस्टम इंटीग्रेशन तरीके से जोड़ा गया है, लेकिन नए और मौजूदा रोबोटों के तुरंत सहयोग के लिए अधिक लचीली कनेक्शन पद्धति जरूरी है। BisCat की तकनीक विविध रोबोटों के एकीकृत संचालन और डार्क फैक्टरी परिवर्तन को आगे बढ़ाने के आधार के रूप में ध्यान खींच रही है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Sistem Kolaborasi Robot BisCat Disorot untuk Percepat Dark Factory",
+      "excerpt": "CEO BisCat Ko Dong-wook pada 6 Mei di Seoul memperkenalkan sistem yang cepat menghubungkan berbagai jenis robot untuk mengefisienkan operasi industri.",
+      "body": "Startup BisCat pada 6 Mei memperkenalkan di kantornya di Seocho-gu, Seoul, sebuah sistem untuk menghubungkan berbagai jenis robot dengan mudah dan cepat serta mengoperasikannya secara efisien. CEO Ko Dong-wook menjelaskan bahwa robot dengan peran berbeda, seperti robot dapur, pengangkut, dan pembersih, memerlukan sistem bersama untuk lokasi, urutan kerja, titik serah barang, dan kondisi lorong yang terhalang agar dapat bekerja di ruang yang sama. Di lokasi industri, robot selama ini dihubungkan melalui metode integrasi sistem, tetapi kolaborasi langsung antara robot baru dan robot yang sudah ada membutuhkan cara koneksi yang lebih fleksibel. Teknologi BisCat menarik perhatian sebagai dasar operasi robot terpadu dan peralihan menuju dark factory. Sumber: rss.donga.com"
+    }
+  }
+}

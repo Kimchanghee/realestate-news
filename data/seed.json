@@ -1,5 +1,230 @@
 [
   {
+    "id": "241c5aac3190",
+    "slug": "다크팩토리-우리가-앞당길-것-새-로봇과-기존-로봇-바로-협업-가능허진석의-톡톡-스타트업-392992",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T17:43:12.319Z",
+    "updatedAt": "2026-05-15T17:43:12.319Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932892/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932892/2",
+    "titleFingerprint": "3a599c58fa5a8d49db51bb3f652d454515d546c6",
+    "dedupKeys": [
+      "241c5aac3190a33f98d5eceabb1dc17cdead001c",
+      "3a599c58fa5a8d49db51bb3f652d454515d546c6",
+      "8df780b89fab580b865608c3d436c73c88a57127"
+    ],
+    "imageUrl": "/images/articles/241c5aac3190.jpg",
+    "i18n": {
+      "ko": {
+        "title": "비스캣 로봇 협업 시스템, 다크팩토리 앞당길 스타트업 기술 주목",
+        "excerpt": "비스캣 고동욱 대표는 6일 서울 서초구 사무실에서 여러 기종 로봇을 쉽고 빠르게 연결해 산업 현장을 효율화하는 협업 운영 시스템을 소개했다.",
+        "body": "스타트업 비스캣은 이달 6일 서울 서초구 사무실에서 여러 기종 로봇을 쉽고 빠르게 연결해 효율적으로 운영하는 시스템을 소개했다. 고동욱 비스캣 대표는 주방, 운반, 청소 로봇처럼 서로 역할이 다른 로봇들이 같은 공간에서 일하려면 위치, 작업 순서, 물건 인계 지점, 통로 차단 상황을 공유하는 체계가 필요하다고 설명했다. 기존 산업 현장에서는 시스템통합(SI) 방식으로 로봇을 묶어 운영해 왔지만, 새 로봇과 기존 로봇이 바로 협업하려면 더 유연한 연결 방식이 요구된다. 비스캣의 기술은 다양한 로봇을 통합 운영해 공장 자동화와 다크팩토리 전환을 앞당기는 기반으로 주목된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "BisCat Robot Collaboration System Draws Attention for Dark Factory Automation",
+        "excerpt": "BisCat CEO Ko Dong-wook said on May 6 in Seoul that the startup is building a system to quickly connect different robots and improve industrial operations.",
+        "body": "Startup BisCat introduced on May 6 at its office in Seocho-gu, Seoul, a system designed to connect and operate different types of robots quickly and efficiently. CEO Ko Dong-wook explained that robots with separate roles, such as kitchen, transport and cleaning robots, need a shared system for location, work order, handoff points and blocked passages to operate in the same space. Industrial sites have used system integration methods to link robots, but immediate collaboration between new and existing robots requires a more flexible connection model. BisCat’s technology is drawing attention as a foundation for integrated robot operations and the shift toward dark factories. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ビスキャットのロボット協業システム、ダークファクトリー前倒し技術に注目",
+        "excerpt": "ビスキャットのコ・ドンウク代表は6日、ソウル瑞草区の事務所で、異機種ロボットを素早くつなぎ産業現場を効率化する運用システムを紹介した。",
+        "body": "スタートアップのビスキャットは今月6日、ソウル瑞草区の事務所で、複数機種のロボットを簡単かつ迅速につなぎ、効率的に運用するシステムを紹介した。コ・ドンウク代表は、キッチン、運搬、清掃ロボットのように役割が異なるロボットが同じ空間で働くには、位置、作業順序、物の受け渡し地点、通路が塞がれた状況を共有する仕組みが必要だと説明した。従来の産業現場ではシステムインテグレーション方式でロボットを結び付けてきたが、新旧ロボットがすぐ協業するには、より柔軟な接続方式が求められる。ビスキャットの技術は、ロボット統合運用とダークファクトリー転換を早める基盤として注目される。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "BisCat机器人协作系统受关注，或推动黑灯工厂进程",
+        "excerpt": "BisCat代表高东旭6日在首尔瑞草区办公室介绍了可快速连接多种机器人、提升工业现场效率的协同运营系统。",
+        "body": "初创企业BisCat本月6日在首尔瑞草区办公室介绍了一套系统，可将多种型号机器人便捷、快速连接并高效运营。BisCat代表高东旭说明，像厨房、搬运、清扫机器人这样职责不同的机器人若要在同一空间工作，就需要共享位置、作业顺序、物品交接地点以及通道受阻情况的体系。此前工业现场多以系统集成方式连接机器人，但新机器人与既有机器人若要立即协作，需要更灵活的连接方式。BisCat的技术作为整合运营多样机器人、推动工厂自动化和黑灯工厂转型的基础，正受到关注。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "BisCat impulsa la colaboración robótica para acercar las fábricas oscuras",
+        "excerpt": "Ko Dong-wook, CEO de BisCat, presentó el 6 de mayo en Seúl un sistema para conectar robots de distintos tipos y hacer más eficientes los entornos industriales.",
+        "body": "La startup BisCat presentó el 6 de mayo en su oficina de Seocho-gu, Seúl, un sistema para conectar de forma rápida y sencilla distintos tipos de robots y operarlos con eficiencia. Su CEO, Ko Dong-wook, explicó que robots con funciones distintas, como cocina, transporte y limpieza, necesitan compartir ubicación, orden de tareas, puntos de entrega y bloqueos de pasillos para trabajar en el mismo espacio. En los entornos industriales se han usado métodos de integración de sistemas para enlazar robots, pero la colaboración inmediata entre robots nuevos y existentes requiere una conexión más flexible. La tecnología de BisCat atrae atención como base para la operación integrada de robots y la transición hacia fábricas oscuras. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Sistema da BisCat para colaboração robótica mira avanço das fábricas escuras",
+        "excerpt": "Ko Dong-wook, CEO da BisCat, apresentou em 6 de maio, em Seul, um sistema para conectar robôs de diferentes tipos e tornar operações industriais mais eficientes.",
+        "body": "A startup BisCat apresentou em 6 de maio, em seu escritório em Seocho-gu, Seul, um sistema criado para conectar de forma rápida e simples diferentes tipos de robôs e operá-los com eficiência. O CEO Ko Dong-wook explicou que robôs com funções distintas, como cozinha, transporte e limpeza, precisam compartilhar localização, ordem de tarefas, pontos de entrega e bloqueios de passagem para trabalhar no mesmo espaço. Nos ambientes industriais, robôs vêm sendo conectados por integração de sistemas, mas a colaboração imediata entre robôs novos e existentes exige um modelo mais flexível. A tecnologia da BisCat chama atenção como base para operação integrada de robôs e transição para fábricas escuras. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "BisCat-System für Roboter-Kollaboration rückt Dark Factories näher",
+        "excerpt": "BisCat-Chef Ko Dong-wook stellte am 6. Mai in Seoul ein System vor, das verschiedene Robotertypen schnell verbindet und Industrieabläufe effizienter macht.",
+        "body": "Das Startup BisCat stellte am 6. Mai in seinem Büro im Seouler Bezirk Seocho-gu ein System vor, das unterschiedliche Robotertypen einfach und schnell verbindet und effizient betreibt. CEO Ko Dong-wook erklärte, dass Roboter mit verschiedenen Aufgaben, etwa Küchen-, Transport- und Reinigungsroboter, ein gemeinsames System für Standort, Arbeitsreihenfolge, Übergabepunkte und blockierte Wege brauchen, um im selben Raum zu arbeiten. In Industrieanlagen wurden Roboter bisher über Systemintegration verbunden, doch die sofortige Zusammenarbeit neuer und vorhandener Roboter erfordert flexiblere Verbindungen. BisCats Technologie gilt als Grundlage für integrierte Robotersteuerung und den Übergang zu Dark Factories. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "BisCat mise sur la collaboration robotique pour accélérer les usines sans éclairage",
+        "excerpt": "Ko Dong-wook, PDG de BisCat, a présenté le 6 mai à Séoul un système reliant rapidement différents robots afin d’améliorer l’efficacité des sites industriels.",
+        "body": "La startup BisCat a présenté le 6 mai, dans son bureau de Seocho-gu à Séoul, un système destiné à connecter rapidement et simplement différents types de robots pour les exploiter efficacement. Son PDG, Ko Dong-wook, a expliqué que des robots aux rôles distincts, comme cuisine, transport et nettoyage, doivent partager position, ordre des tâches, points de remise et informations sur les passages bloqués pour travailler dans un même espace. Les sites industriels ont jusqu’ici relié les robots par intégration de systèmes, mais une collaboration immédiate entre robots nouveaux et existants exige un mode de connexion plus flexible. La technologie de BisCat attire l’attention comme base d’une exploitation robotique intégrée et d’une transition vers les dark factories. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "نظام BisCat لتعاون الروبوتات يلفت الأنظار مع اقتراب المصانع المظلمة",
+        "excerpt": "عرض كو دونغ ووك، الرئيس التنفيذي لـBisCat، في 6 مايو بسيول نظاما يربط أنواعا مختلفة من الروبوتات بسرعة لتحسين كفاءة المواقع الصناعية.",
+        "body": "قدمت شركة BisCat الناشئة في 6 مايو، في مكتبها بمنطقة سيوتشو في سيول، نظاما يهدف إلى ربط أنواع متعددة من الروبوتات بسرعة وسهولة وتشغيلها بكفاءة. وأوضح الرئيس التنفيذي كو دونغ ووك أن الروبوتات ذات الأدوار المختلفة، مثل روبوتات المطبخ والنقل والتنظيف، تحتاج إلى نظام مشترك لمعرفة الموقع وترتيب العمل ونقاط تسليم الأشياء وحالات انسداد الممرات كي تعمل في المساحة نفسها. وفي المواقع الصناعية جرى ربط الروبوتات غالبا عبر أسلوب تكامل الأنظمة، لكن تعاون الروبوتات الجديدة مع القائمة فورا يتطلب طريقة ربط أكثر مرونة. وتبرز تقنية BisCat كأساس لتشغيل روبوتي متكامل وتسريع التحول نحو المصانع المظلمة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "BisCat का रोबोट सहयोग सिस्टम डार्क फैक्टरी बदलाव के लिए चर्चा में",
+        "excerpt": "BisCat के सीईओ को डोंग-वूक ने 6 मई को सियोल में अलग-अलग रोबोटों को तेजी से जोड़कर औद्योगिक संचालन दक्ष बनाने वाली प्रणाली पेश की।",
+        "body": "स्टार्टअप BisCat ने 6 मई को सियोल के सेओचो-गु स्थित अपने कार्यालय में ऐसी प्रणाली पेश की, जो कई प्रकार के रोबोटों को आसानी और तेजी से जोड़कर कुशलता से संचालित करती है। सीईओ को डोंग-वूक ने समझाया कि रसोई, परिवहन और सफाई रोबोट जैसे अलग-अलग भूमिकाओं वाले रोबोटों को एक ही स्थान पर काम करने के लिए स्थान, काम का क्रम, वस्तु सौंपने की जगह और रास्ता बंद होने की स्थिति साझा करने वाली व्यवस्था चाहिए। औद्योगिक स्थलों पर अब तक रोबोटों को सिस्टम इंटीग्रेशन तरीके से जोड़ा गया है, लेकिन नए और मौजूदा रोबोटों के तुरंत सहयोग के लिए अधिक लचीली कनेक्शन पद्धति जरूरी है। BisCat की तकनीक विविध रोबोटों के एकीकृत संचालन और डार्क फैक्टरी परिवर्तन को आगे बढ़ाने के आधार के रूप में ध्यान खींच रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Sistem Kolaborasi Robot BisCat Disorot untuk Percepat Dark Factory",
+        "excerpt": "CEO BisCat Ko Dong-wook pada 6 Mei di Seoul memperkenalkan sistem yang cepat menghubungkan berbagai jenis robot untuk mengefisienkan operasi industri.",
+        "body": "Startup BisCat pada 6 Mei memperkenalkan di kantornya di Seocho-gu, Seoul, sebuah sistem untuk menghubungkan berbagai jenis robot dengan mudah dan cepat serta mengoperasikannya secara efisien. CEO Ko Dong-wook menjelaskan bahwa robot dengan peran berbeda, seperti robot dapur, pengangkut, dan pembersih, memerlukan sistem bersama untuk lokasi, urutan kerja, titik serah barang, dan kondisi lorong yang terhalang agar dapat bekerja di ruang yang sama. Di lokasi industri, robot selama ini dihubungkan melalui metode integrasi sistem, tetapi kolaborasi langsung antara robot baru dan robot yang sudah ada membutuhkan cara koneksi yang lebih fleksibel. Teknologi BisCat menarik perhatian sebagai dasar operasi robot terpadu dan peralihan menuju dark factory. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "87bf423e83bf",
+    "slug": "불닭-신화-쓴-삼양식품-며느리-김정수-회장-된다-526260",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T17:42:15.626Z",
+    "updatedAt": "2026-05-15T17:42:15.626Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/People/article/all/20260515/133933816/2",
+    "canonicalUrl": "https://www.donga.com/news/People/article/all/20260515/133933816/2",
+    "titleFingerprint": "c59a934244fba7bd18af1a733140f266ea0d9796",
+    "dedupKeys": [
+      "87bf423e83bf52b74c467ccc7c44ed36709c7765",
+      "c59a934244fba7bd18af1a733140f266ea0d9796",
+      "f396d0ad423fb70748d362e3e923be490580f3a8"
+    ],
+    "imageUrl": "/images/articles/87bf423e83bf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼양식품 김정수 부회장, ‘불닭볶음면’ 글로벌 성장 이끈 뒤 회장 승진",
+        "excerpt": "삼양식품은 5월 12일 이사회에서 김정수 부회장의 회장 승진을 결의했으며, 6월 1일 취임한다고 15일 밝혔다.",
+        "body": "삼양식품 김정수 부회장(62)이 회장으로 승진한다. 삼양식품은 5월 12일 이사회를 열고 김 부회장의 회장 승진을 결의했으며, 취임일은 6월 1일이라고 15일 밝혔다. 이번 인사는 2021년 12월 총괄사장에서 부회장으로 오른 뒤 약 5년 만의 승진이다. 김 부회장은 삼양식품 창업주 고 전중윤 명예회장의 며느리로, 결혼 후 가정주부로 지내다 우지 파동 이후 회사가 어려움을 겪던 1998년 입사했다. 2012년 출시된 대표 브랜드 ‘불닭볶음면’을 글로벌 브랜드로 키운 인물로 평가된다. 부회장 취임 당시 2021년 6420억 원이던 매출은 2025년 2조3517억 원으로 늘었고, 영업이익률은 10%에서 22%로 상승했다. 삼양식품은 글로벌 사업 성장세에 대응하고 리더십과 책임경영을 강화하기 위한 결정이라고 설명했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samyang Foods Vice Chair Kim Jung-soo to Become Chair After Buldak’s Global Growth",
+        "excerpt": "Samyang Foods said on May 15 that its board approved Vice Chair Kim Jung-soo’s promotion on May 12, with her appointment effective June 1.",
+        "body": "Samyang Foods Vice Chair Kim Jung-soo, 62, will be promoted to chair. The company said on May 15 that its board met on May 12 and approved the promotion, with Kim set to take office on June 1. The move comes about five years after she was promoted from chief executive president to vice chair in December 2021. Kim is the daughter-in-law of late honorary chair and founder Jeon Jung-yoon. After marriage, she was a homemaker before joining Samyang Foods in 1998, when the company was struggling after the beef tallow controversy. She is credited with turning Buldak Bokkeummyeon, launched in 2012, into a global brand. Revenue rose from 642 billion won in 2021, when she became vice chair, to 2.3517 trillion won in 2025, while the operating margin increased from 10% to 22%. Samyang Foods said the decision aims to respond to global business growth and strengthen leadership and responsible management. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "三養食品の金廷秀副会長、ブルダック世界成長を導き会長に昇進へ",
+        "excerpt": "三養食品は5月15日、12日の取締役会で金廷秀副会長の会長昇進を決議し、6月1日に就任すると発表した。",
+        "body": "三養食品の金廷秀副会長（62）が会長に昇進する。三養食品は5月15日、12日に取締役会を開き、金副会長の会長昇進を決議したと明らかにした。就任日は6月1日。今回の昇進は、2021年12月に総括社長から副会長へ昇進して以来、約5年ぶりとなる。金副会長は三養食品創業者である故・全仲潤名誉会長の嫁で、結婚後は主婦として過ごした後、牛脂問題の余波で会社が困難を抱えていた1998年に入社した。2012年発売の代表ブランド「ブルダック炒め麺」をグローバルブランドに育てた立役者と評価されている。副会長就任時の2021年に6420億ウォンだった売上高は2025年に2兆3517億ウォンへ増え、営業利益率も10%から22%へ上昇した。三養食品は、グローバル事業の成長に対応し、リーダーシップと責任経営を強化するための決定だと説明した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三养食品副会长金正洙将升任会长，曾推动火鸡面走向全球",
+        "excerpt": "三养食品5月15日表示，董事会已于5月12日决定将副会长金正洙升任会长，任期自6月1日开始。",
+        "body": "三养食品副会长金正洙（62岁）将升任会长。三养食品5月15日表示，公司于5月12日召开董事会，决定将金副会长升任为会长，正式就任日期为6月1日。这是她自2021年12月由总括社长升任副会长后，约五年来的再次晋升。金副会长是三养食品创始人、已故名誉会长全仲润的儿媳。她婚后曾为家庭主妇，后在公司因牛脂风波余波陷入困难的1998年加入三养食品。她被认为是将2012年推出的代表品牌“火鸡炒面”培育为全球品牌的核心人物。她就任副会长时的2021年，公司销售额为6420亿韩元，2025年增至2.3517万亿韩元；同期营业利润率从10%升至22%。三养食品解释称，此次决定是为应对全球业务增长，并强化领导力和责任经营。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Kim Jung-soo, vicepresidenta de Samyang Foods, será presidenta tras el auge global de Buldak",
+        "excerpt": "Samyang Foods informó el 15 de mayo que su consejo aprobó el ascenso de Kim Jung-soo el 12 de mayo; asumirá la presidencia el 1 de junio.",
+        "body": "Kim Jung-soo, vicepresidenta de Samyang Foods, de 62 años, será ascendida a presidenta. La empresa informó el 15 de mayo que su consejo se reunió el 12 de mayo y aprobó su ascenso, con toma de posesión prevista para el 1 de junio. La decisión llega unos cinco años después de que Kim pasara de presidenta ejecutiva general a vicepresidenta en diciembre de 2021. Kim es nuera del fallecido Jeon Jung-yoon, fundador y presidente honorario de Samyang Foods. Tras casarse fue ama de casa, hasta que ingresó en la compañía en 1998, cuando esta atravesaba dificultades por las secuelas de la crisis del sebo bovino. Se le atribuye haber convertido Buldak Bokkeummyeon, lanzado en 2012, en una marca global. Desde que asumió como vicepresidenta, los ingresos pasaron de 642.000 millones de wones en 2021 a 2,3517 billones de wones en 2025, y el margen operativo subió del 10% al 22%. Samyang Foods explicó que el ascenso busca responder al crecimiento global y reforzar el liderazgo y la gestión responsable. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Kim Jung-soo, vice-presidente da Samyang Foods, será presidente após expansão global do Buldak",
+        "excerpt": "A Samyang Foods informou em 15 de maio que o conselho aprovou em 12 de maio a promoção de Kim Jung-soo, que assume em 1º de junho.",
+        "body": "Kim Jung-soo, vice-presidente da Samyang Foods, de 62 anos, será promovida a presidente. A empresa informou em 15 de maio que seu conselho se reuniu em 12 de maio e aprovou a promoção, com posse marcada para 1º de junho. A mudança ocorre cerca de cinco anos após Kim ter sido promovida de presidente executiva geral a vice-presidente, em dezembro de 2021. Kim é nora do falecido Jeon Jung-yoon, fundador e presidente honorário da Samyang Foods. Depois do casamento, foi dona de casa antes de entrar na companhia em 1998, quando a empresa enfrentava dificuldades após a crise do sebo bovino. Ela é reconhecida por transformar o Buldak Bokkeummyeon, lançado em 2012, em uma marca global. Desde sua posse como vice-presidente, a receita subiu de 642 bilhões de won em 2021 para 2,3517 trilhões de won em 2025, enquanto a margem operacional avançou de 10% para 22%. A Samyang Foods disse que a decisão busca responder ao crescimento dos negócios globais e fortalecer a liderança e a gestão responsável. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samyang-Foods-Vizechefin Kim Jung-soo wird nach globalem Buldak-Wachstum Vorsitzende",
+        "excerpt": "Samyang Foods teilte am 15. Mai mit, dass der Vorstand Kim Jung-soos Beförderung am 12. Mai beschlossen hat; Amtsantritt ist der 1. Juni.",
+        "body": "Kim Jung-soo, 62, Vizevorsitzende von Samyang Foods, wird zur Vorsitzenden befördert. Das Unternehmen teilte am 15. Mai mit, der Vorstand habe am 12. Mai über die Beförderung entschieden; Kim tritt ihr Amt am 1. Juni an. Der Schritt erfolgt rund fünf Jahre nach ihrer Beförderung von der Gesamtpräsidentin zur Vizevorsitzenden im Dezember 2021. Kim ist die Schwiegertochter des verstorbenen Ehrenvorsitzenden und Firmengründers Jeon Jung-yoon. Nach ihrer Heirat war sie Hausfrau, bevor sie 1998 zu Samyang Foods kam, als das Unternehmen nach der Rindertalg-Affäre in Schwierigkeiten steckte. Sie gilt als treibende Kraft hinter dem Ausbau der 2012 eingeführten Marke Buldak Bokkeummyeon zu einer globalen Marke. Seit ihrem Amtsantritt als Vizevorsitzende stieg der Umsatz von 642 Milliarden Won im Jahr 2021 auf 2,3517 Billionen Won im Jahr 2025; die operative Marge erhöhte sich von 10% auf 22%. Samyang Foods erklärte, die Entscheidung solle auf das Wachstum des globalen Geschäfts reagieren und Führung sowie verantwortungsvolle Unternehmensführung stärken. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Kim Jung-soo, vice-présidente de Samyang Foods, deviendra présidente après l’essor mondial de Buldak",
+        "excerpt": "Samyang Foods a annoncé le 15 mai que son conseil avait approuvé le 12 mai la promotion de Kim Jung-soo, qui prendra ses fonctions le 1er juin.",
+        "body": "Kim Jung-soo, vice-présidente de Samyang Foods, âgée de 62 ans, sera promue présidente. L’entreprise a annoncé le 15 mai que son conseil d’administration s’était réuni le 12 mai et avait approuvé cette promotion, avec une prise de fonctions fixée au 1er juin. Cette décision intervient environ cinq ans après sa promotion de présidente exécutive générale à vice-présidente en décembre 2021. Kim est la belle-fille de feu Jeon Jung-yoon, fondateur et président honoraire de Samyang Foods. Après son mariage, elle a été femme au foyer avant de rejoindre l’entreprise en 1998, alors que celle-ci traversait des difficultés après la crise du suif bovin. Elle est considérée comme la figure qui a fait de Buldak Bokkeummyeon, lancé en 2012, une marque mondiale. Depuis son arrivée comme vice-présidente, le chiffre d’affaires est passé de 642 milliards de wons en 2021 à 2,3517 billions de wons en 2025, tandis que la marge opérationnelle est montée de 10% à 22%. Samyang Foods a expliqué que cette promotion vise à répondre à la croissance mondiale et à renforcer le leadership et la gestion responsable. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كيم جونغ-سو نائبة رئيس ساميانغ فودز تتولى الرئاسة بعد نمو بولداك عالمياً",
+        "excerpt": "أعلنت ساميانغ فودز في 15 مايو أن مجلس إدارتها أقر في 12 مايو ترقية كيم جونغ-سو إلى منصب الرئيسة، على أن تتولى المنصب في 1 يونيو.",
+        "body": "ستُرقى كيم جونغ-سو، نائبة رئيس ساميانغ فودز البالغة 62 عاماً، إلى منصب الرئيسة. وأعلنت الشركة في 15 مايو أن مجلس إدارتها اجتمع في 12 مايو ووافق على الترقية، على أن تبدأ مهامها في 1 يونيو. وتأتي الخطوة بعد نحو خمس سنوات من ترقيتها من رئيسة تنفيذية عامة إلى نائبة رئيس في ديسمبر 2021. كيم هي زوجة ابن الراحل جون جونغ-يون، مؤسس ساميانغ فودز ورئيسها الفخري. وبعد زواجها كانت ربة منزل، ثم انضمت إلى الشركة عام 1998 عندما كانت تواجه صعوبات في أعقاب أزمة شحم البقر. وتُنسب إليها قيادة تحويل علامة بولداك بوككيوميون، التي أطلقت عام 2012، إلى علامة عالمية. ومنذ توليها منصب نائبة الرئيس، ارتفعت الإيرادات من 642 مليار وون في 2021 إلى 2.3517 تريليون وون في 2025، كما زاد هامش الربح التشغيلي من 10% إلى 22%. وقالت ساميانغ فودز إن القرار يستهدف مواكبة نمو الأعمال العالمية وتعزيز القيادة والإدارة المسؤولة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "बुलदक की वैश्विक बढ़त के बाद सैमयांग फूड्स की उपाध्यक्ष किम जंग-सू अध्यक्ष बनेंगी",
+        "excerpt": "सैमयांग फूड्स ने 15 मई को कहा कि बोर्ड ने 12 मई को किम जंग-सू की अध्यक्ष पद पर पदोन्नति मंजूर की; वह 1 जून को पद संभालेंगी।",
+        "body": "सैमयांग फूड्स की 62 वर्षीय उपाध्यक्ष किम जंग-सू को अध्यक्ष बनाया जाएगा। कंपनी ने 15 मई को बताया कि 12 मई को हुई बोर्ड बैठक में उनकी पदोन्नति को मंजूरी दी गई और वह 1 जून को पद संभालेंगी। यह दिसंबर 2021 में मुख्य कार्यकारी अध्यक्ष से उपाध्यक्ष बनने के करीब पांच साल बाद की पदोन्नति है। किम, सैमयांग फूड्स के संस्थापक और दिवंगत मानद अध्यक्ष जॉन जंग-यून की पुत्रवधू हैं। विवाह के बाद वह गृहिणी रहीं और फिर 1998 में कंपनी से जुड़ीं, जब कंपनी बीफ टैलो विवाद के बाद कठिन दौर से गुजर रही थी। 2012 में पेश किए गए प्रमुख ब्रांड बुलदक बोक्केउमम्योन को वैश्विक ब्रांड बनाने का श्रेय उन्हें दिया जाता है। उपाध्यक्ष बनने के समय 2021 में कंपनी की बिक्री 642 अरब वॉन थी, जो 2025 में बढ़कर 2.3517 ट्रिलियन वॉन हो गई; इसी अवधि में परिचालन लाभ मार्जिन 10% से बढ़कर 22% हुआ। सैमयांग फूड्स ने कहा कि यह फैसला वैश्विक कारोबार की वृद्धि का जवाब देने और नेतृत्व तथा जिम्मेदार प्रबंधन को मजबूत करने के लिए है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Wakil Ketua Samyang Foods Kim Jung-soo Jadi Ketua Usai Dorong Pertumbuhan Global Buldak",
+        "excerpt": "Samyang Foods menyatakan pada 15 Mei bahwa dewan menyetujui promosi Kim Jung-soo pada 12 Mei, dan ia akan mulai menjabat pada 1 Juni.",
+        "body": "Wakil Ketua Samyang Foods Kim Jung-soo, 62 tahun, akan dipromosikan menjadi ketua. Perusahaan menyatakan pada 15 Mei bahwa dewan direksi menggelar rapat pada 12 Mei dan menyetujui promosi tersebut, dengan tanggal pelantikan pada 1 Juni. Keputusan ini datang sekitar lima tahun setelah Kim naik dari presiden eksekutif umum menjadi wakil ketua pada Desember 2021. Kim adalah menantu mendiang Jeon Jung-yoon, pendiri sekaligus ketua kehormatan Samyang Foods. Setelah menikah, ia menjadi ibu rumah tangga sebelum bergabung dengan perusahaan pada 1998, saat Samyang Foods menghadapi kesulitan setelah dampak kontroversi lemak sapi. Ia dinilai sebagai tokoh yang membesarkan Buldak Bokkeummyeon, merek utama yang diluncurkan pada 2012, menjadi merek global. Sejak ia menjabat wakil ketua, pendapatan meningkat dari 642 miliar won pada 2021 menjadi 2,3517 triliun won pada 2025, sementara margin laba operasi naik dari 10% menjadi 22%. Samyang Foods menjelaskan bahwa keputusan ini bertujuan merespons pertumbuhan bisnis global serta memperkuat kepemimpinan dan manajemen bertanggung jawab. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "ab5c7366a80d",
+    "slug": "영업이익-처분은-주주-권한-노조의-배분-요구-상법에-반해-625471",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T17:40:52.536Z",
+    "updatedAt": "2026-05-15T17:40:52.536Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933790/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933790/2",
+    "titleFingerprint": "3b05a0d532818a3926c9178ebd968b82ece4f133",
+    "dedupKeys": [
+      "ab5c7366a80d81ba47ec126915cc6b5353d5a7cc",
+      "3b05a0d532818a3926c9178ebd968b82ece4f133",
+      "9ef7169b825e6b769bef274cb7be1c8c1b194a64"
+    ],
+    "imageUrl": "/images/articles/ab5c7366a80d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "영업이익 성과급 요구 논란… “이익 처분은 주주 권한, 상법 원칙과 충돌”",
+        "excerpt": "권재열 경희대 법학전문대학원 교수는 15일 서울 한국프레스센터 긴급 좌담회에서 노조의 영업이익 배분 요구가 상법상 주주 권한과 충돌한다고 지적했다.",
+        "body": "권재열 경희대 법학전문대학원 교수는 15일 오전 서울 중구 한국프레스센터에서 주주행동연구원 주최로 열린 긴급 전문가 좌담회에서 회사 이익 처분은 주주의 고유 권한이라고 밝혔다. 삼성전자 노조와 삼성바이오로직스 노조가 각각 회사 영업이익의 15%, 20%를 성과급으로 배분하라고 요구하는 가운데 나온 발언이다. 권 교수는 상법상 영업이익 처분 권한은 주주에게 귀속되며 구체적 집행은 주주총회 결의로 결정된다고 설명했다. 그는 영업이익이 인건비와 복리후생비 등 판매·관리비를 뺀 순수 이익이라며, 이미 급여를 받은 근로자가 법인세와 주주배당 등에 쓰일 이익을 선점하는 의미라고 지적했다. 향후 노사 협상에서 성과급 산정 기준과 주주 권한을 둘러싼 논쟁이 이어질 전망이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Operating Profit Bonus Demands Spark Debate as Professor Cites Shareholder Rights",
+        "excerpt": "Kyung Hee University law professor Kwon Jae-yeol said at a May 15 expert forum in Seoul that union demands for a share of operating profit conflict with shareholder authority under commercial law.",
+        "body": "Kwon Jae-yeol, a professor at Kyung Hee University Law School, said on the morning of May 15 at an emergency expert forum hosted by the Shareholder Action Institute at the Korea Press Center in Jung-gu, Seoul, that disposal of company profits is an inherent right of shareholders. His remarks came as unions at Samsung Electronics and Samsung Biologics demanded that 15% and 20% of each company’s operating profit, respectively, be distributed as performance bonuses. Kwon explained that, under commercial law, authority over the disposal of operating profit belongs to shareholders, with specific execution decided by a shareholders’ meeting resolution. He said operating profit is net profit after deducting selling and administrative expenses such as wages and welfare costs, and argued that employees who have already received salaries would be preempting profit intended for corporate taxes and shareholder dividends. The dispute is expected to continue in labor-management talks over bonus standards and shareholder authority. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "営業利益の成果給要求が波紋、「利益処分は株主権限」と商法原則を指摘",
+        "excerpt": "慶熙大学法学専門大学院の権載烈教授は15日、ソウルの緊急専門家座談会で、労組の営業利益配分要求は商法上の株主権限と衝突すると述べた。",
+        "body": "慶熙大学法学専門大学院の権載烈教授は15日午前、ソウル中区の韓国プレスセンターで株主行動研究院が主催した緊急専門家座談会で、会社利益の処分は株主固有の権限だと述べた。サムスン電子労組とサムスンバイオロジクス労組が、それぞれ会社営業利益の15%、20%を成果給として配分するよう求める中での発言だ。権教授は、商法上、営業利益の処分権限は株主に帰属し、具体的な執行は株主総会決議で決まると説明した。また営業利益は人件費や福利厚生費など販売・管理費を差し引いた純粋な利益であり、すでに給与を受け取った労働者が法人税や株主配当に使われる利益を先取りする意味だと指摘した。今後の労使交渉では、成果給算定基準と株主権限をめぐる論争が続く見通しだ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "营业利润奖金诉求引争议：专家称利润处分属股东权利",
+        "excerpt": "庆熙大学法学专门大学院教授权载烈15日在首尔紧急专家座谈会上表示，工会要求分配营业利润与商法上的股东权限相冲突。",
+        "body": "庆熙大学法学专门大学院教授权载烈15日上午在首尔中区韩国新闻中心举行的紧急专家座谈会上表示，公司利润处分是股东固有的权利。该座谈会由股东行动研究院主办，背景是三星电子工会和三星生物制剂工会分别要求将公司营业利润的15%和20%作为绩效奖金分配。权教授说明，按照商法，营业利润的处分权限归属于股东，具体执行由股东大会决议决定。他指出，会计上的营业利润是从销售毛利中扣除人工费、福利费等销售和管理费用后的纯利润；已领取工资的劳动者再要求分配，意味着优先占用本应用于法人税和股东分红等的利润。预计今后劳资谈判中，围绕绩效奖金计算标准和股东权限的争议将持续。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Exigencias de bonos sobre utilidad operativa chocan con derechos de accionistas",
+        "excerpt": "El profesor Kwon Jae-yeol, de la Facultad de Derecho de Kyung Hee, dijo el 15 de mayo en Seúl que las demandas sindicales de repartir utilidad operativa chocan con la autoridad de los accionistas.",
+        "body": "Kwon Jae-yeol, profesor de la Facultad de Derecho de la Universidad Kyung Hee, afirmó la mañana del 15 de mayo en un foro urgente de expertos organizado por el Shareholder Action Institute en el Korea Press Center, en Jung-gu, Seúl, que la disposición de las ganancias de una empresa es una facultad propia de los accionistas. Sus declaraciones se produjeron mientras los sindicatos de Samsung Electronics y Samsung Biologics exigían que el 15% y el 20% de la utilidad operativa de cada empresa se repartieran como bonos por desempeño. Kwon explicó que, según el derecho comercial, la autoridad para disponer de la utilidad operativa corresponde a los accionistas y su ejecución concreta se decide mediante resolución de la junta general. Añadió que la utilidad operativa es el beneficio neto tras deducir salarios, bienestar y otros gastos de venta y administración, por lo que empleados que ya cobraron sueldo estarían adelantándose a beneficios destinados a impuestos corporativos y dividendos. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Pedido de bônus sobre lucro operacional reacende debate sobre direito dos acionistas",
+        "excerpt": "O professor Kwon Jae-yeol, da Universidade Kyung Hee, disse em 15 de maio, em Seul, que exigências sindicais de repartir lucro operacional entram em choque com a autoridade dos acionistas.",
+        "body": "Kwon Jae-yeol, professor da Faculdade de Direito da Universidade Kyung Hee, afirmou na manhã de 15 de maio, em um fórum emergencial de especialistas organizado pelo Shareholder Action Institute no Korea Press Center, em Jung-gu, Seul, que a destinação dos lucros de uma empresa é uma prerrogativa própria dos acionistas. A declaração ocorreu enquanto os sindicatos da Samsung Electronics e da Samsung Biologics exigiam que 15% e 20% do lucro operacional de cada empresa fossem distribuídos como bônus de desempenho. Kwon explicou que, segundo o direito comercial, a autoridade sobre a destinação do lucro operacional pertence aos acionistas, e a execução concreta é decidida por resolução da assembleia geral. Ele disse que o lucro operacional é o lucro líquido após a dedução de salários, benefícios e despesas de venda e administração, e que empregados já remunerados estariam antecipando ganhos destinados a impostos corporativos e dividendos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Streit um Bonus aus Betriebsgewinn: Professor verweist auf Aktionärsrechte",
+        "excerpt": "Kwon Jae-yeol von der Kyung-Hee-Universität sagte am 15. Mai in Seoul, Gewerkschaftsforderungen nach Gewinnverteilung kollidierten mit den Rechten der Aktionäre nach Handelsrecht.",
+        "body": "Kwon Jae-yeol, Professor an der juristischen Fakultät der Kyung-Hee-Universität, sagte am Morgen des 15. Mai bei einer dringenden Expertenrunde des Shareholder Action Institute im Korea Press Center in Jung-gu, Seoul, die Verwendung von Unternehmensgewinnen sei ein eigenes Recht der Aktionäre. Die Äußerung fiel vor dem Hintergrund, dass Gewerkschaften von Samsung Electronics und Samsung Biologics verlangen, 15% beziehungsweise 20% des Betriebsgewinns als Leistungsbonus auszuschütten. Kwon erklärte, nach dem Handelsrecht liege die Befugnis zur Verwendung des Betriebsgewinns bei den Aktionären; die konkrete Umsetzung werde durch Beschluss der Hauptversammlung entschieden. Betriebsgewinn sei der Nettogewinn nach Abzug von Personal-, Sozial- sowie Vertriebs- und Verwaltungskosten. Bereits bezahlte Beschäftigte würden damit Gewinne vorwegnehmen, die für Körperschaftsteuer und Dividenden bestimmt seien. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Primes sur bénéfice d’exploitation: un professeur invoque les droits des actionnaires",
+        "excerpt": "Le professeur Kwon Jae-yeol, de l’Université Kyung Hee, a déclaré le 15 mai à Séoul que les demandes syndicales de partage du bénéfice d’exploitation entraient en conflit avec l’autorité des actionnaires.",
+        "body": "Kwon Jae-yeol, professeur à la faculté de droit de l’Université Kyung Hee, a déclaré le matin du 15 mai, lors d’une table ronde d’experts organisée en urgence par le Shareholder Action Institute au Korea Press Center, à Jung-gu, Séoul, que la disposition des bénéfices d’une entreprise relevait du droit propre des actionnaires. Ses propos interviennent alors que les syndicats de Samsung Electronics et de Samsung Biologics demandent que 15% et 20% du bénéfice d’exploitation de chaque société soient versés en primes de performance. Kwon a expliqué qu’en droit commercial, le pouvoir de disposer du bénéfice d’exploitation appartient aux actionnaires, l’exécution concrète étant décidée par résolution de l’assemblée générale. Il a ajouté que ce bénéfice est le profit net après déduction des salaires, avantages sociaux et frais commerciaux et administratifs, et que des salariés déjà rémunérés chercheraient ainsi à prélever des profits destinés à l’impôt sur les sociétés et aux dividendes. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "جدل حول مكافآت من الأرباح التشغيلية وخبير يؤكد أن التصرف بالأرباح حق للمساهمين",
+        "excerpt": "قال أستاذ القانون كوون جاي يول من جامعة كيونغ هي في ندوة خبراء عاجلة بسيول يوم 15 مايو إن مطالب النقابات بتوزيع جزء من الأرباح التشغيلية تتعارض مع سلطة المساهمين بموجب القانون التجاري.",
+        "body": "قال كوون جاي يول، أستاذ كلية القانون في جامعة كيونغ هي، صباح 15 مايو في ندوة خبراء عاجلة نظمها معهد عمل المساهمين في مركز الصحافة الكوري بمنطقة جونغ غو في سيول، إن التصرف في أرباح الشركة حق أصيل للمساهمين. وجاءت تصريحاته بينما تطالب نقابتا سامسونغ إلكترونيكس وسامسونغ بايولوجيكس بتوزيع 15% و20% على التوالي من الأرباح التشغيلية لكل شركة كمكافآت أداء. وأوضح كوون أن سلطة التصرف في الأرباح التشغيلية تعود، بموجب القانون التجاري، إلى المساهمين، وأن التنفيذ التفصيلي يقرر عبر قرار الجمعية العامة للمساهمين. وأضاف أن الربح التشغيلي هو الربح الصافي بعد خصم الأجور ومزايا الرفاه وتكاليف البيع والإدارة، معتبرا أن العمال الذين تلقوا أجورهم بالفعل يطالبون عمليا بأولوية على أرباح مخصصة لضريبة الشركات وتوزيعات المساهمين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "संचालन लाभ से बोनस की मांग पर विवाद, प्रोफेसर ने शेयरधारक अधिकारों का हवाला दिया",
+        "excerpt": "क्यूंग ही विश्वविद्यालय के कानून प्रोफेसर क्वोन जे-योल ने 15 मई को सियोल में कहा कि संचालन लाभ के बंटवारे की यूनियन मांग वाणिज्य कानून के तहत शेयरधारक अधिकारों से टकराती है।",
+        "body": "क्यूंग ही विश्वविद्यालय लॉ स्कूल के प्रोफेसर क्वोन जे-योल ने 15 मई की सुबह सियोल के जुंग-गु स्थित कोरिया प्रेस सेंटर में शेयरहोल्डर एक्शन इंस्टीट्यूट द्वारा आयोजित आपात विशेषज्ञ बैठक में कहा कि कंपनी के लाभ का निपटान शेयरधारकों का मूल अधिकार है। यह टिप्पणी उस समय आई जब सैमसंग इलेक्ट्रॉनिक्स और सैमसंग बायोलॉजिक्स की यूनियनें क्रमशः कंपनी के संचालन लाभ का 15% और 20% प्रदर्शन बोनस के रूप में बांटने की मांग कर रही हैं। क्वोन ने कहा कि वाणिज्य कानून के तहत संचालन लाभ के निपटान का अधिकार शेयरधारकों के पास है और उसका ठोस क्रियान्वयन शेयरधारक बैठक के प्रस्ताव से तय होता है। उन्होंने बताया कि संचालन लाभ वेतन, कल्याण और बिक्री तथा प्रशासनिक खर्च घटाने के बाद का शुद्ध लाभ है; वेतन पा चुके कर्मचारी ऐसे लाभ पर पहले दावा कर रहे हैं जो कॉरपोरेट कर और शेयरधारक लाभांश में जाना है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tuntutan Bonus dari Laba Operasi Dipersoalkan, Hak Pemegang Saham Jadi Sorotan",
+        "excerpt": "Profesor hukum Kwon Jae-yeol dari Kyung Hee University mengatakan pada 15 Mei di Seoul bahwa tuntutan serikat untuk membagi laba operasi berbenturan dengan kewenangan pemegang saham menurut hukum dagang.",
+        "body": "Kwon Jae-yeol, profesor Fakultas Hukum Kyung Hee University, mengatakan pada pagi 15 Mei dalam diskusi ahli darurat yang digelar Shareholder Action Institute di Korea Press Center, Jung-gu, Seoul, bahwa penggunaan laba perusahaan merupakan hak melekat pemegang saham. Pernyataan itu muncul saat serikat Samsung Electronics dan Samsung Biologics masing-masing menuntut 15% dan 20% laba operasi perusahaan dibagikan sebagai bonus kinerja. Kwon menjelaskan bahwa menurut hukum dagang, kewenangan atas penggunaan laba operasi berada pada pemegang saham, sedangkan pelaksanaan konkretnya ditentukan melalui keputusan rapat umum pemegang saham. Ia menyebut laba operasi sebagai laba bersih setelah biaya tenaga kerja, kesejahteraan, penjualan, dan administrasi dikurangi, sehingga pekerja yang sudah menerima gaji berarti mendahului laba yang seharusnya dipakai untuk pajak perusahaan dan dividen pemegang saham. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "5dae7fcf2496",
     "slug": "반도체-제때-받을수-있나-파업-진짜로-벌어지나-해외-고객사-문의-빗발-683580",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Pasokan Hunian Gwacheon dan Taereung Dimajukan, Konstruksi Mulai 2029",
         "excerpt": "Wakil PM sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol pada tanggal 15 menyatakan proyek hunian di Pacuan Kuda Gwacheon, situs kontraintelijen, dan Golf Taereung akan mulai 2029.",
         "body": "Wakil Perdana Menteri sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol memimpin rapat menteri terkait real estat pada pagi tanggal 15 di Kompleks Pemerintah Seoul dan menyatakan pembangunan pasokan hunian skala besar di Pacuan Kuda Gwacheon, situs kontraintelijen, dan Lapangan Golf Taereung akan dimajukan satu tahun menjadi 2029. Koo mengatakan “pasokan cepat adalah yang terpenting” dan pemerintah sedang memadatkan semua tahap pelaksanaan agar rencana yang diumumkan langsung menjadi hunian nyata. Sekitar 2.900 unit, termasuk lahan militer Gangseo dan pengembangan campuran gedung pemerintah tua, sedang menjalani prosedur seperti pembebasan studi kelayakan awal dan ditargetkan mulai konstruksi pada 2027. Rapat juga membahas tren pasar perumahan, pengelolaan utang rumah tangga, serta respons terhadap tindakan ilegal real estat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "e05a68022310",
-    "slug": "李대통령-imf-언급-공유하며-무조건-긴축-주장하는-분들-봐야-235849",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:14:04.565Z",
-    "updatedAt": "2026-05-14T23:14:04.565Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260515/133928319/1",
-    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260515/133928319/1",
-    "titleFingerprint": "7e387e5870d8809ed90dc9157156860553cf4127",
-    "dedupKeys": [
-      "e05a680223102de13e3dcb0429e670700dd9660e",
-      "7e387e5870d8809ed90dc9157156860553cf4127",
-      "ffc00baa10d5ad3cc9815e5c5548ecd14c348cba"
-    ],
-    "imageUrl": "/images/articles/e05a68022310.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이재명 대통령, IMF 한국 부채 평가 공유하며 긴축론 재차 반박",
-        "excerpt": "이재명 대통령은 15일 IMF가 한국 부채를 지속 가능한 수준으로 평가했다는 보도를 공유하며 무조건적 긴축재정론을 다시 비판했다.",
-        "body": "이재명 대통령은 15일 X에 국제통화기금(IMF)의 한국 재정 관련 브리핑을 인용한 언론 보도를 공유하며 일각의 긴축론을 재차 일축했다. 그는 “무조건 긴축 주장하는 분들이 나라를 생각한다면 꼭 봐야 할 기사”라고 밝혔다. 보도에 따르면 줄리 코잭 IMF 대변인은 정례 브리핑에서 “한국의 부채는 지속 가능한 수준이며, 부채 위기가 발생할 위험도 낮다”고 말했다. 또 현재 다소의 재정 확장 기조가 보이지만 “매우 적절한 조치”라는 취지의 발언도 전했다. 이 대통령은 앞서 12일 국무회의에서도 포퓰리즘적 긴축재정론의 함정에 빠져서는 안 된다며 확장 재정 필요성을 강조했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "President Lee Cites IMF View on Korea’s Debt to Challenge Austerity Calls",
-        "excerpt": "On the 15th, President Lee Jae-myung shared a report citing the IMF’s positive assessment of Korea’s debt and again criticized calls for unconditional fiscal tightening.",
-        "body": "President Lee Jae-myung on the 15th again dismissed arguments for fiscal austerity by sharing on X a media report citing an International Monetary Fund briefing on Korea’s public finances. He wrote that it was an article people calling for unconditional tightening should read if they care about the country. According to the report, IMF spokesperson Julie Kozack said at a regular briefing that Korea’s debt is sustainable and that the risk of a debt crisis is low. The report also quoted her as saying that although some fiscal expansion is currently visible, such expansion is a very appropriate measure. Lee had also stressed at a Cabinet meeting on the 12th that the country should not fall into the trap of populist austerity arguments. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "李在明大統領、IMFの韓国債務評価を共有し緊縮論を再批判",
-        "excerpt": "李在明大統領は15日、IMFが韓国の債務を持続可能な水準と評価した報道を共有し、無条件の緊縮財政論を改めて批判した。",
-        "body": "李在明大統領は15日、国際通貨基金（IMF）の韓国財政に関するブリーフィングを引用した報道をXで共有し、一部で提起されている緊縮論を改めて退けた。李大統領は「無条件に緊縮を主張する人たちが国を思うなら必ず見るべき記事」と述べた。報道によると、IMFのジュリー・コザック報道官は定例ブリーフィングで「韓国の債務は持続可能な水準であり、債務危機が発生するリスクも低い」と語った。また、現在やや財政拡張基調が見られるものの、その財政拡張は「非常に適切な措置」とする趣旨の発言も伝えられた。李大統領は12日の閣議でも、ポピュリズム的な緊縮財政論の罠に陥ってはならないとして、拡張財政の必要性を強調していた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "李在明总统转发IMF韩国债务评价，再次反驳紧缩财政论",
-        "excerpt": "李在明总统15日转发报道称IMF认为韩国债务处于可持续水平，并再次批评无条件主张财政紧缩的观点。",
-        "body": "李在明总统15日在X上分享了一篇引用国际货币基金组织（IMF）有关韩国财政简报的媒体报道，再次驳斥部分人士提出的紧缩论。他写道，如果那些无条件主张紧缩的人是真为国家着想，就应当看看这篇报道。报道称，IMF发言人朱莉·科扎克在例行简报会上表示，韩国债务处于可持续水平，发生债务危机的风险也较低。报道还再次引用她的话称，虽然目前可以看到一定程度的财政扩张基调，但这种财政扩张是非常适当的措施。李总统此前在12日国务会议上也强调，不应陷入以民粹方式包装的紧缩财政论陷阱，并重申扩张财政基调的必要性。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Lee Jae-myung cita al FMI sobre deuda de Corea y rechaza la austeridad",
-        "excerpt": "El presidente Lee Jae-myung compartió el día 15 un informe con la evaluación positiva del FMI sobre la deuda de Corea y volvió a criticar la austeridad incondicional.",
-        "body": "El presidente Lee Jae-myung volvió a descartar el día 15 los argumentos a favor de la austeridad fiscal al compartir en X un informe de prensa que citaba una sesión informativa del Fondo Monetario Internacional sobre las finanzas de Corea. Escribió que quienes defienden un ajuste incondicional deberían leer ese artículo si piensan en el país. Según el informe, la portavoz del FMI, Julie Kozack, dijo en una rueda de prensa regular que la deuda de Corea se mantiene en un nivel sostenible y que el riesgo de una crisis de deuda es bajo. También se citó su afirmación de que, aunque actualmente se observa cierta expansión fiscal, esa expansión es una medida muy apropiada. Lee ya había subrayado en la reunión del Gabinete del día 12 que no se debía caer en la trampa de una austeridad fiscal populista. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Lee Jae-myung cita FMI sobre dívida da Coreia e rebate austeridade",
-        "excerpt": "O presidente Lee Jae-myung compartilhou no dia 15 uma reportagem com avaliação positiva do FMI sobre a dívida da Coreia e voltou a criticar o aperto fiscal incondicional.",
-        "body": "O presidente Lee Jae-myung voltou a rejeitar no dia 15 os argumentos por austeridade fiscal ao compartilhar no X uma reportagem que citava um briefing do Fundo Monetário Internacional sobre as finanças da Coreia. Ele escreveu que aqueles que defendem aperto incondicional deveriam ler a matéria se pensam no país. Segundo a reportagem, a porta-voz do FMI, Julie Kozack, afirmou em briefing regular que a dívida da Coreia está em nível sustentável e que o risco de uma crise da dívida é baixo. O texto também destacou sua declaração de que, embora exista atualmente alguma orientação de expansão fiscal, essa expansão é uma medida muito apropriada. Lee já havia enfatizado em reunião de gabinete no dia 12 que o país não deve cair na armadilha de uma tese populista de austeridade fiscal. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Lee Jae-myung verweist auf IWF-Bewertung und weist Sparkurs zurück",
-        "excerpt": "Präsident Lee Jae-myung teilte am 15. einen Bericht zur positiven IWF-Einschätzung der koreanischen Schulden und kritisierte erneut Forderungen nach pauschaler Haushaltsstraffung.",
-        "body": "Präsident Lee Jae-myung hat am 15. Forderungen nach fiskalischer Austerität erneut zurückgewiesen, indem er auf X einen Medienbericht über ein Briefing des Internationalen Währungsfonds zu Koreas Staatsfinanzen teilte. Er schrieb, wer bedingungslose Straffung fordere und an das Land denke, solle diesen Artikel unbedingt lesen. Dem Bericht zufolge sagte IWF-Sprecherin Julie Kozack bei einem regulären Briefing, Koreas Schulden lägen auf einem tragfähigen Niveau und das Risiko einer Schuldenkrise sei gering. Zudem wurde sie mit der Aussage zitiert, dass zwar derzeit eine gewisse fiskalische Ausweitung zu erkennen sei, diese aber eine sehr angemessene Maßnahme darstelle. Lee hatte bereits bei der Kabinettssitzung am 12. betont, man dürfe nicht in die Falle populistischer Sparargumente geraten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Lee Jae-myung cite le FMI sur la dette coréenne et rejette l’austérité",
-        "excerpt": "Le président Lee Jae-myung a partagé le 15 un article citant l’évaluation positive du FMI sur la dette coréenne et a de nouveau critiqué l’austérité inconditionnelle.",
-        "body": "Le président Lee Jae-myung a de nouveau écarté le 15 les appels à l’austérité budgétaire en partageant sur X un article de presse citant un briefing du Fonds monétaire international sur les finances de la Corée. Il a écrit que les personnes qui défendent un resserrement inconditionnel devraient lire cet article si elles pensent au pays. Selon le reportage, la porte-parole du FMI, Julie Kozack, a déclaré lors d’un briefing régulier que la dette coréenne restait à un niveau soutenable et que le risque d’une crise de la dette était faible. Le texte cite aussi ses propos selon lesquels, même si une certaine orientation d’expansion budgétaire est actuellement visible, cette expansion constitue une mesure très appropriée. Lee avait déjà souligné lors du Conseil des ministres du 12 qu’il ne fallait pas tomber dans le piège d’un discours populiste sur l’austérité budgétaire. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "لي جاي ميونغ يستند إلى تقييم صندوق النقد لديون كوريا ويرفض التقشف",
-        "excerpt": "شارك الرئيس لي جاي ميونغ في 15 تقريرا ينقل تقييما إيجابيا من صندوق النقد الدولي لديون كوريا، وجدد انتقاده لدعوات التقشف غير المشروط.",
-        "body": "جدد الرئيس لي جاي ميونغ في 15 رفضه لدعوات التقشف المالي، بعدما شارك على منصة X تقريرا إعلاميا يستند إلى إحاطة لصندوق النقد الدولي بشأن المالية العامة في كوريا. وكتب أن من يدعون إلى التقشف غير المشروط، إذا كانوا يفكرون في مصلحة البلاد، فعليهم قراءة هذا المقال. وبحسب التقرير، قالت المتحدثة باسم صندوق النقد الدولي جولي كوزاك في إحاطة دورية إن ديون كوريا عند مستوى مستدام، وإن خطر حدوث أزمة ديون منخفض. كما نقل التقرير عنها أن وجود بعض التوجه نحو التوسع المالي حاليا لا يمنع أن هذا التوسع يعد إجراء مناسبا جدا. وكان لي قد شدد في اجتماع مجلس الوزراء يوم 12 على ضرورة عدم الوقوع في فخ خطاب التقشف المالي الشعبوي، مؤكدا الحاجة إلى نهج مالي توسعي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ली जे-म्युंग ने IMF की कोरिया ऋण टिप्पणी साझा कर कटौती नीति को नकारा",
-        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 15 तारीख को IMF द्वारा कोरिया के ऋण को टिकाऊ बताए जाने वाली रिपोर्ट साझा की और बिना शर्त राजकोषीय कटौती की दलीलों की फिर आलोचना की।",
-        "body": "राष्ट्रपति ली जे-म्युंग ने 15 तारीख को X पर अंतरराष्ट्रीय मुद्रा कोष की कोरिया की सार्वजनिक वित्त स्थिति से जुड़ी ब्रीफिंग पर आधारित एक मीडिया रिपोर्ट साझा करते हुए राजकोषीय कटौती की दलीलों को फिर खारिज किया। उन्होंने लिखा कि जो लोग बिना शर्त कटौती की वकालत करते हैं, यदि वे देश के बारे में सोचते हैं, तो उन्हें यह लेख अवश्य देखना चाहिए। रिपोर्ट के अनुसार, IMF प्रवक्ता जूली कोजैक ने नियमित ब्रीफिंग में कहा कि कोरिया का ऋण टिकाऊ स्तर पर है और ऋण संकट पैदा होने का जोखिम भी कम है। रिपोर्ट में उनके इस कथन को भी दोहराया गया कि भले ही फिलहाल कुछ राजकोषीय विस्तार दिखाई दे रहा है, यह विस्तार बहुत उपयुक्त कदम है। ली ने इससे पहले 12 तारीख की कैबिनेट बैठक में भी कहा था कि देश को लोकलुभावन राजकोषीय कटौती की दलील के जाल में नहीं फंसना चाहिए। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Lee Jae-myung Kutip Penilaian IMF soal Utang Korea, Tolak Austeritas",
-        "excerpt": "Presiden Lee Jae-myung pada tanggal 15 membagikan laporan tentang penilaian positif IMF atas utang Korea dan kembali mengkritik seruan pengetatan fiskal tanpa syarat.",
-        "body": "Presiden Lee Jae-myung pada tanggal 15 kembali menepis argumen pengetatan fiskal dengan membagikan di X sebuah laporan media yang mengutip pengarahan Dana Moneter Internasional mengenai keuangan Korea. Ia menulis bahwa orang-orang yang menyerukan pengetatan tanpa syarat perlu membaca artikel itu jika benar memikirkan negara. Menurut laporan tersebut, juru bicara IMF Julie Kozack mengatakan dalam pengarahan rutin bahwa utang Korea berada pada tingkat yang berkelanjutan dan risiko terjadinya krisis utang rendah. Laporan itu juga mengutip pernyataannya bahwa meskipun saat ini terlihat adanya sedikit arah ekspansi fiskal, ekspansi tersebut merupakan langkah yang sangat tepat. Lee sebelumnya juga menekankan dalam rapat kabinet tanggal 12 bahwa negara tidak boleh terjebak dalam argumen pengetatan fiskal yang populistis, sembari menegaskan perlunya kebijakan fiskal ekspansif. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "f41681c1d134",
-    "slug": "챗gpt-밀어준다더니openai-애플에-법적-조치-검토-936881",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:13:01.101Z",
-    "updatedAt": "2026-05-14T23:13:01.101Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260515/133928357/1",
-    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260515/133928357/1",
-    "titleFingerprint": "cc3e449943bc83b39b712598e12d06eac2422f82",
-    "dedupKeys": [
-      "f41681c1d1348bf0ea84c04dbc67e33f8a2bb783",
-      "cc3e449943bc83b39b712598e12d06eac2422f82",
-      "230c303a33ed4c30e098232053caa231ed43d6b8"
-    ],
-    "imageUrl": "/images/articles/f41681c1d134.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OpenAI, 애플 법적 조치 검토…아이폰 챗GPT 통합 제휴 갈등 부상",
-        "excerpt": "OpenAI가 2024년 애플과 맺은 아이폰 챗GPT 통합 제휴의 진척 부족을 이유로 애플에 대한 법적 조치를 검토 중이라는 보도가 나왔다.",
-        "body": "OpenAI가 아이폰에 챗GPT를 탑재하기로 한 애플과의 제휴 계약을 둘러싸고 법적 조치를 검토하고 있다는 보도가 나왔다. 14일 현지 시간 파이낸셜타임스는 소식통을 인용해 OpenAI가 2024년 애플과 맺은 협력의 진척이 부족하다고 판단하고 대응 방안을 살피고 있다고 전했다. 양사는 2024년 6월께 애플 시리(Siri)에 챗GPT 결과를 추가하고, 챗GPT가 애플 운영체제에 심층 통합되도록 합의했다. 애플은 자체 AI 모델과 인프라에 막대한 자금을 투입하기보다 외부 제휴로 아이폰 사용자에게 제3자 AI 모델을 제공하는 전략을 택해 왔다. 한 관계자는 애플이 약속 이행에 필요한 자원 투입에 관심을 보이지 않는다고 말했다. 이번 갈등은 애플의 AI 전략과 OpenAI의 플랫폼 확장 계획에 영향을 줄 수 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "OpenAI Weighs Legal Action Against Apple Over iPhone ChatGPT Integration",
-        "excerpt": "OpenAI is reportedly considering legal action against Apple, citing limited progress on a 2024 partnership to integrate ChatGPT into the iPhone and Siri.",
-        "body": "OpenAI is reportedly reviewing legal options against Apple over a partnership agreement to bring ChatGPT to the iPhone. The Financial Times reported on the 14th, local time, citing sources, that OpenAI believes progress has been insufficient on the alliance it signed with Apple in 2024. Around June 2024, the two companies agreed to add ChatGPT results to Apple’s Siri and deeply integrate ChatGPT into Apple operating systems. Apple has chosen a strategy of offering third-party AI models to iPhone users through outside partnerships rather than investing heavily in its own AI models and infrastructure. One person said OpenAI is concerned that Apple has shown little interest in committing the resources needed to fulfill the partnership. The dispute could affect Apple’s AI strategy and OpenAI’s platform expansion plans. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "OpenAI、Appleへの法的措置を検討か iPhoneのChatGPT統合で対立",
-        "excerpt": "OpenAIが2024年にAppleと結んだiPhoneへのChatGPT統合提携について、進展不足を理由に法的措置を検討していると報じられた。",
-        "body": "OpenAIが、iPhoneにChatGPTを搭載するAppleとの提携契約をめぐり、法的措置を検討していると報じられた。現地時間14日、フィナンシャル・タイムズは関係者の話として、OpenAIが2024年にAppleと結んだ協力について進展が不十分だと判断し、対応策を検討していると伝えた。両社は2024年6月ごろ、AppleのSiriにChatGPTの結果を追加し、ChatGPTをAppleのOSに深く統合することで合意していた。Appleは自社AIモデルやインフラに巨額投資するより、外部企業との提携でiPhone利用者に第三者AIモデルを提供する戦略を取ってきた。関係者は、Appleが約束履行に必要な資源投入に関心を示していないと述べた。この対立はAppleのAI戦略とOpenAIのプラットフォーム拡大計画に影響する可能性がある。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "OpenAI考虑对苹果采取法律行动，iPhone版ChatGPT整合陷入分歧",
-        "excerpt": "据报道，OpenAI因2024年与苹果达成的iPhone整合ChatGPT合作进展不足，正在考虑对苹果采取法律行动。",
-        "body": "据报道，OpenAI正围绕将ChatGPT搭载到iPhone的合作协议，考虑对苹果采取法律行动。当地时间14日，英国《金融时报》援引消息人士称，OpenAI认为其与苹果在2024年达成的合作进展不足，正在研究应对方案。两家公司约在2024年6月同意，将ChatGPT结果加入苹果Siri，并让ChatGPT深度整合进苹果操作系统。苹果此前选择通过外部合作向iPhone用户提供第三方AI模型，而不是在自有AI模型和基础设施上投入巨额资金。一名相关人士表示，OpenAI担忧苹果对投入履行合作承诺所需资源几乎没有兴趣。此次分歧可能影响苹果的AI战略和OpenAI的平台扩张计划。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "OpenAI evalúa acciones legales contra Apple por la integración de ChatGPT en iPhone",
-        "excerpt": "OpenAI estaría considerando acciones legales contra Apple por la falta de avances en el acuerdo de 2024 para integrar ChatGPT en el iPhone y Siri.",
-        "body": "OpenAI estaría revisando opciones legales contra Apple por el acuerdo de colaboración para llevar ChatGPT al iPhone. El Financial Times informó el día 14, hora local, citando fuentes, que OpenAI considera insuficiente el avance de la alianza firmada con Apple en 2024. Alrededor de junio de 2024, ambas compañías acordaron añadir resultados de ChatGPT a Siri e integrar ChatGPT de forma profunda en los sistemas operativos de Apple. Apple ha optado por ofrecer modelos de IA de terceros a usuarios de iPhone mediante alianzas externas, en lugar de invertir grandes sumas en sus propios modelos e infraestructura de IA. Una fuente dijo que OpenAI está preocupada porque Apple no muestra interés en aportar los recursos necesarios para cumplir el acuerdo. La disputa podría afectar la estrategia de IA de Apple y los planes de expansión de plataforma de OpenAI. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "OpenAI avalia ação legal contra Apple por integração do ChatGPT no iPhone",
-        "excerpt": "A OpenAI estaria considerando medidas legais contra a Apple por falta de avanço na parceria de 2024 para integrar o ChatGPT ao iPhone e à Siri.",
-        "body": "A OpenAI estaria avaliando opções legais contra a Apple em torno do acordo de parceria para levar o ChatGPT ao iPhone. O Financial Times informou no dia 14, horário local, citando fontes, que a OpenAI considera insuficiente o avanço da cooperação firmada com a Apple em 2024. Por volta de junho de 2024, as duas empresas concordaram em adicionar resultados do ChatGPT à Siri e integrar profundamente o ChatGPT aos sistemas operacionais da Apple. A Apple tem adotado a estratégia de oferecer modelos de IA de terceiros a usuários do iPhone por meio de parcerias externas, em vez de investir pesadamente em seus próprios modelos e infraestrutura de IA. Uma fonte disse que a OpenAI está preocupada porque a Apple não demonstra interesse em aplicar os recursos necessários para cumprir a parceria. O conflito pode afetar a estratégia de IA da Apple e os planos de expansão de plataforma da OpenAI. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "OpenAI prüft rechtliche Schritte gegen Apple wegen ChatGPT-Integration im iPhone",
-        "excerpt": "OpenAI erwägt laut Bericht rechtliche Schritte gegen Apple, weil die 2024 vereinbarte ChatGPT-Integration in iPhone und Siri kaum vorankomme.",
-        "body": "OpenAI prüft Berichten zufolge rechtliche Optionen gegen Apple wegen einer Partnerschaft zur Integration von ChatGPT in das iPhone. Die Financial Times berichtete am 14. Ortszeit unter Berufung auf Quellen, OpenAI halte die Fortschritte bei der 2024 geschlossenen Kooperation mit Apple für unzureichend. Um Juni 2024 hatten beide Unternehmen vereinbart, ChatGPT-Ergebnisse in Apples Siri aufzunehmen und ChatGPT tief in Apples Betriebssysteme zu integrieren. Apple setzte bislang darauf, iPhone-Nutzern über externe Partnerschaften KI-Modelle Dritter anzubieten, statt massiv in eigene KI-Modelle und Infrastruktur zu investieren. Eine Person sagte, OpenAI sei besorgt, weil Apple kaum Interesse zeige, die für die Umsetzung der Zusagen nötigen Ressourcen bereitzustellen. Der Konflikt könnte Apples KI-Strategie und OpenAIs Pläne zur Plattformausweitung beeinflussen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "OpenAI envisage une action en justice contre Apple sur l’intégration de ChatGPT à l’iPhone",
-        "excerpt": "OpenAI envisagerait des mesures juridiques contre Apple, faute d’avancées suffisantes dans l’accord de 2024 visant à intégrer ChatGPT à l’iPhone et Siri.",
-        "body": "OpenAI envisagerait des options juridiques contre Apple au sujet de l’accord de partenariat visant à intégrer ChatGPT à l’iPhone. Le Financial Times a rapporté le 14, heure locale, en citant des sources, qu’OpenAI juge insuffisants les progrès de la coopération conclue avec Apple en 2024. Vers juin 2024, les deux entreprises avaient convenu d’ajouter des résultats de ChatGPT à Siri et d’intégrer profondément ChatGPT aux systèmes d’exploitation d’Apple. Apple a privilégié une stratégie consistant à proposer aux utilisateurs d’iPhone des modèles d’IA tiers via des partenariats externes, plutôt qu’à investir massivement dans ses propres modèles et infrastructures d’IA. Une personne a indiqué qu’OpenAI s’inquiète du faible intérêt d’Apple pour les ressources nécessaires au respect de ses engagements. Ce différend pourrait peser sur la stratégie IA d’Apple et les plans d’expansion de plateforme d’OpenAI. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "OpenAI تدرس إجراء قانونيا ضد آبل بسبب دمج ChatGPT في آيفون",
-        "excerpt": "أفاد تقرير بأن OpenAI تدرس اتخاذ إجراء قانوني ضد آبل بسبب ضعف التقدم في شراكة 2024 لدمج ChatGPT في آيفون وسيري.",
-        "body": "أفادت تقارير بأن OpenAI تراجع خيارات قانونية ضد آبل بشأن اتفاق شراكة يهدف إلى إدخال ChatGPT إلى آيفون. وذكرت فايننشال تايمز في 14 من الشهر، بالتوقيت المحلي، نقلا عن مصادر، أن OpenAI ترى أن التقدم في التعاون الذي وقعته مع آبل في 2024 غير كاف. وفي نحو يونيو 2024، اتفقت الشركتان على إضافة نتائج ChatGPT إلى Siri ودمج ChatGPT بعمق في أنظمة تشغيل آبل. واعتمدت آبل استراتيجية تقديم نماذج ذكاء اصطناعي تابعة لجهات خارجية لمستخدمي آيفون عبر شراكات خارجية، بدلا من ضخ أموال كبيرة في نماذجها وبنيتها التحتية للذكاء الاصطناعي. وقال شخص مطلع إن OpenAI قلقة لأن آبل لا تبدي اهتماما بتخصيص الموارد اللازمة لتنفيذ تعهدات الشراكة. وقد يؤثر الخلاف في استراتيجية آبل للذكاء الاصطناعي وخطط OpenAI لتوسيع منصتها. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "OpenAI ने Apple पर कानूनी कार्रवाई पर विचार किया, iPhone में ChatGPT एकीकरण पर विवाद",
-        "excerpt": "रिपोर्ट के अनुसार OpenAI 2024 की iPhone और Siri में ChatGPT एकीकरण साझेदारी में कम प्रगति के कारण Apple के खिलाफ कानूनी विकल्पों पर विचार कर रही है।",
-        "body": "OpenAI कथित तौर पर iPhone में ChatGPT शामिल करने के लिए Apple के साथ हुए साझेदारी समझौते को लेकर कानूनी विकल्पों की समीक्षा कर रही है। स्थानीय समयानुसार 14 तारीख को Financial Times ने सूत्रों के हवाले से बताया कि OpenAI 2024 में Apple के साथ हुई साझेदारी की प्रगति को अपर्याप्त मानती है और जवाबी उपाय देख रही है। जून 2024 के आसपास दोनों कंपनियों ने Apple की Siri में ChatGPT परिणाम जोड़ने और ChatGPT को Apple ऑपरेटिंग सिस्टम में गहराई से एकीकृत करने पर सहमति जताई थी। Apple ने अपने AI मॉडल और इन्फ्रास्ट्रक्चर पर भारी निवेश करने के बजाय बाहरी साझेदारियों के जरिए iPhone उपयोगकर्ताओं को तृतीय-पक्ष AI मॉडल देने की रणनीति अपनाई है। एक व्यक्ति ने कहा कि OpenAI चिंतित है क्योंकि Apple साझेदारी के वादे पूरे करने के लिए जरूरी संसाधन लगाने में रुचि नहीं दिखा रही। यह विवाद Apple की AI रणनीति और OpenAI की प्लेटफॉर्म विस्तार योजनाओं को प्रभावित कर सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "OpenAI Pertimbangkan Langkah Hukum terhadap Apple soal Integrasi ChatGPT di iPhone",
-        "excerpt": "OpenAI dilaporkan mempertimbangkan langkah hukum terhadap Apple karena minimnya kemajuan dalam kemitraan 2024 untuk mengintegrasikan ChatGPT ke iPhone dan Siri.",
-        "body": "OpenAI dilaporkan sedang meninjau opsi hukum terhadap Apple terkait perjanjian kemitraan untuk menghadirkan ChatGPT di iPhone. Financial Times melaporkan pada tanggal 14 waktu setempat, mengutip sumber, bahwa OpenAI menilai kemajuan kerja sama yang diteken dengan Apple pada 2024 masih kurang. Sekitar Juni 2024, kedua perusahaan sepakat menambahkan hasil ChatGPT ke Siri Apple dan mengintegrasikan ChatGPT secara mendalam ke sistem operasi Apple. Apple selama ini memilih strategi menawarkan model AI pihak ketiga kepada pengguna iPhone melalui kemitraan eksternal, alih-alih menginvestasikan dana besar pada model dan infrastruktur AI sendiri. Seorang sumber mengatakan OpenAI khawatir karena Apple tidak menunjukkan minat untuk mengerahkan sumber daya yang diperlukan demi memenuhi janji kemitraan. Perselisihan ini dapat memengaruhi strategi AI Apple dan rencana ekspansi platform OpenAI. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "2849952b1ead",
-    "slug": "한국타이어-라우펜-vs-금호타이어-엑스타-956750",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:11:10.911Z",
-    "updatedAt": "2026-05-14T23:11:10.911Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/list/article/all/20260515/133928404/2",
-    "canonicalUrl": "https://www.donga.com/news/list/article/all/20260515/133928404/2",
-    "titleFingerprint": "3a4ecc79880ba2236e684266edc0175a4dd81728",
-    "dedupKeys": [
-      "2849952b1eadab696834987db0037d2e7b7991da",
-      "3a4ecc79880ba2236e684266edc0175a4dd81728",
-      "f46c87eca93f32403692f1929678f9f80aa4db13"
-    ],
-    "imageUrl": "/images/articles/2849952b1ead.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국타이어 라우펜 vs 금호타이어 엑스타, 스코다 OE 시장서 정면 경쟁",
-        "excerpt": "한국타이어와 금호타이어가 유럽 스코다 신차용 타이어 공급에서 각각 라우펜 S FIT 2와 엑스타 PS71을 앞세워 브랜드 전략 경쟁을 펼치고 있다.",
-        "body": "한국타이어와 금호타이어가 최근 유럽 완성차 신차용 타이어(OE) 시장에서 스코다 공급 성과를 통해 맞대결 구도를 만들고 있다. 한국타이어는 고급 브랜드 ‘한국’이 아닌 글로벌 전략 브랜드 ‘라우펜’의 여름용 타이어 ‘에스 핏 2(S FIT 2)’를 스코다 인기 모델 ‘뉴 옥타비아’에 공급한다. 금호타이어는 주력 고성능 브랜드 엑스타의 ‘PS71’을 스코다 전기 SUV ‘엔야크’와 ‘엘록’에 공급했다. 업계는 이를 한국타이어의 브랜드 이원화 전략과 금호타이어의 단일 브랜드 집중 전략이 유럽 OE 시장에서 교차한 사례로 본다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hankook Laufenn vs Kumho Ecsta: Skoda OE Tire Deals Highlight Rival Strategies",
-        "excerpt": "Hankook Tire and Kumho Tire are competing in Europe’s Skoda OE tire market with Laufenn S FIT 2 and Ecsta PS71, showing contrasting brand strategies.",
-        "body": "Hankook Tire and Kumho Tire have recently formed a notable rivalry in Europe’s original equipment tire market through supply wins for Skoda vehicles. Hankook Tire will supply the summer tire S FIT 2 under its global strategic brand Laufenn, rather than its premium Hankook brand, for Skoda’s popular New Octavia model. Kumho Tire, meanwhile, has supplied its Ecsta PS71 from its main high-performance brand to Skoda’s electric SUVs, the Enyaq and Elroq. Industry observers view this as a point where Hankook Tire’s dual-brand strategy and Kumho Tire’s single-brand focus intersect in the European OE market. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ハンコックのラウフェン対クムホのエクスタ、シュコダOE市場で競争",
-        "excerpt": "ハンコックタイヤとクムホタイヤは、欧州シュコダの新車用タイヤ供給でラウフェンS FIT 2とエクスタPS71を投入し、ブランド戦略の競争を見せている。",
-        "body": "ハンコックタイヤとクムホタイヤは最近、欧州の新車用タイヤ（OE）市場でシュコダ向け供給実績を通じて競争構図を作っている。ハンコックタイヤは高級ブランドの「ハンコック」ではなく、グローバル戦略ブランド「ラウフェン」の夏用タイヤ「S FIT 2」をシュコダの人気モデル「ニュー・オクタビア」に供給する。一方、クムホタイヤは主力高性能ブランド「エクスタ」の「PS71」をシュコダの電気SUV「エニヤック」と「エルロック」に供給した。業界では、ハンコックタイヤのブランド二元化戦略とクムホタイヤの単一ブランド集中戦略が欧州OE市場で交差した事例と見ている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩泰Laufenn对阵锦湖Ecsta，斯柯达OE轮胎市场竞争升温",
-        "excerpt": "韩泰轮胎与锦湖轮胎在欧洲斯柯达新车配套轮胎供应中，分别以Laufenn S FIT 2和Ecsta PS71展开品牌战略竞争。",
-        "body": "韩泰轮胎和锦湖轮胎近期在欧洲整车新车配套轮胎（OE）市场，通过向斯柯达供货形成了引人关注的竞争格局。韩泰轮胎没有使用高端品牌“韩泰”，而是以全球战略品牌“Laufenn”的夏季轮胎“S FIT 2”供应斯柯达热门车型“新明锐”。另一方面，锦湖轮胎将其主力高性能品牌Ecsta的“PS71”供应给斯柯达电动SUV“Enyaq”和“Elroq”。业内将此解读为韩泰轮胎的品牌二元化战略与锦湖轮胎的单一品牌集中战略在欧洲OE市场交汇的案例。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Hankook Laufenn vs Kumho Ecsta: duelo por neumáticos OE de Skoda en Europa",
-        "excerpt": "Hankook Tire y Kumho Tire compiten en el mercado europeo de neumáticos OE de Skoda con Laufenn S FIT 2 y Ecsta PS71, reflejando estrategias de marca distintas.",
-        "body": "Hankook Tire y Kumho Tire han creado recientemente un foco de competencia en el mercado europeo de neumáticos de equipo original (OE) mediante suministros para vehículos Skoda. Hankook Tire suministrará el neumático de verano S FIT 2 de su marca estratégica global Laufenn, en lugar de su marca premium Hankook, para el popular modelo Skoda New Octavia. Kumho Tire, por su parte, suministró el Ecsta PS71 de su principal marca de alto rendimiento a los SUV eléctricos Skoda Enyaq y Elroq. La industria interpreta este caso como el cruce entre la estrategia de doble marca de Hankook Tire y la estrategia de concentración en una sola marca de Kumho Tire en el mercado OE europeo. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Hankook Laufenn vs Kumho Ecsta: disputa ganha força no OE da Skoda na Europa",
-        "excerpt": "Hankook Tire e Kumho Tire disputam o mercado europeu de pneus OE da Skoda com Laufenn S FIT 2 e Ecsta PS71, mostrando estratégias de marca diferentes.",
-        "body": "Hankook Tire e Kumho Tire formaram recentemente um cenário de competição no mercado europeu de pneus para equipamento original (OE) por meio de fornecimentos à Skoda. A Hankook Tire fornecerá o pneu de verão S FIT 2 de sua marca estratégica global Laufenn, em vez da marca premium Hankook, para o popular modelo Skoda New Octavia. Já a Kumho Tire forneceu o Ecsta PS71, de sua principal marca de alto desempenho, aos SUVs elétricos Skoda Enyaq e Elroq. O setor vê esse caso como um ponto de encontro entre a estratégia de duas marcas da Hankook Tire e a estratégia de foco em marca única da Kumho Tire no mercado europeu de OE. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hankook Laufenn gegen Kumho Ecsta: Skoda-OE-Reifenmarkt wird zum Strategietest",
-        "excerpt": "Hankook Tire und Kumho Tire konkurrieren im europäischen Skoda-OE-Reifenmarkt mit Laufenn S FIT 2 und Ecsta PS71 und zeigen unterschiedliche Markenstrategien.",
-        "body": "Hankook Tire und Kumho Tire haben zuletzt im europäischen Markt für Erstausrüstungsreifen (OE) durch Lieferungen an Skoda eine auffällige Wettbewerbssituation geschaffen. Hankook Tire liefert den Sommerreifen S FIT 2 seiner globalen Strategiemarke Laufenn, nicht der Premium-Marke Hankook, für das beliebte Skoda-Modell New Octavia. Kumho Tire lieferte dagegen den Ecsta PS71 seiner zentralen Hochleistungsmarke an die elektrischen SUVs Skoda Enyaq und Elroq. In der Branche gilt dies als Beispiel dafür, wie Hankook Tires Zwei-Marken-Strategie und Kumho Tires Konzentration auf eine Einzelmarke im europäischen OE-Markt aufeinandertreffen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Hankook Laufenn face à Kumho Ecsta: Skoda révèle deux stratégies OE en Europe",
-        "excerpt": "Hankook Tire et Kumho Tire s’affrontent sur le marché européen des pneus OE de Skoda avec Laufenn S FIT 2 et Ecsta PS71, illustrant deux stratégies de marque.",
-        "body": "Hankook Tire et Kumho Tire ont récemment créé une configuration concurrentielle notable sur le marché européen des pneus de première monte (OE) grâce à des fournitures pour Skoda. Hankook Tire fournira le pneu été S FIT 2 de sa marque stratégique mondiale Laufenn, plutôt que sa marque premium Hankook, pour le modèle populaire Skoda New Octavia. De son côté, Kumho Tire a fourni l’Ecsta PS71, issu de sa principale marque haute performance, aux SUV électriques Skoda Enyaq et Elroq. Le secteur y voit un cas où la stratégie à deux marques de Hankook Tire et la stratégie de concentration sur une seule marque de Kumho Tire se croisent sur le marché européen OE. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "لاوفن من هانكوك في مواجهة إكستا من كومهو بسوق إطارات سكودا الأصلية",
-        "excerpt": "تتنافس هانكوك تاير وكومهو تاير في سوق إطارات سكودا الأصلية بأوروبا عبر Laufenn S FIT 2 وEcsta PS71، بما يعكس اختلاف استراتيجيات العلامة.",
-        "body": "شكّلت هانكوك تاير وكومهو تاير مؤخرا مشهدا تنافسيا لافتا في سوق إطارات التجهيز الأصلي (OE) في أوروبا من خلال توريد إطارات لسيارات سكودا. ستورد هانكوك تاير إطار الصيف S FIT 2 من علامتها الاستراتيجية العالمية Laufenn، وليس من علامتها الفاخرة Hankook، لطراز سكودا الشهير New Octavia. في المقابل، زودت كومهو تاير طرازي سكودا الكهربائيين Enyaq وElroq بإطار Ecsta PS71 من علامتها الرئيسية عالية الأداء. وترى الصناعة أن هذه الحالة تعكس تقاطع استراتيجية العلامتين لدى هانكوك تاير مع استراتيجية التركيز على علامة واحدة لدى كومهو تاير في سوق OE الأوروبي. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Hankook Laufenn बनाम Kumho Ecsta: Skoda OE टायर बाजार में रणनीति की टक्कर",
-        "excerpt": "Hankook Tire और Kumho Tire यूरोप में Skoda के OE टायर बाजार में Laufenn S FIT 2 और Ecsta PS71 के साथ अलग-अलग ब्रांड रणनीतियों की प्रतिस्पर्धा दिखा रही हैं।",
-        "body": "Hankook Tire और Kumho Tire ने हाल में यूरोप के ओरिजिनल इक्विपमेंट टायर (OE) बाजार में Skoda को आपूर्ति के जरिए प्रतिस्पर्धा की नई स्थिति बनाई है। Hankook Tire अपनी प्रीमियम ‘Hankook’ ब्रांड के बजाय वैश्विक रणनीतिक ब्रांड ‘Laufenn’ का समर टायर ‘S FIT 2’ Skoda के लोकप्रिय मॉडल ‘New Octavia’ को आपूर्ति करेगी। दूसरी ओर, Kumho Tire ने अपनी प्रमुख हाई-परफॉर्मेंस ब्रांड Ecsta का ‘PS71’ Skoda की इलेक्ट्रिक SUVs ‘Enyaq’ और ‘Elroq’ को आपूर्ति किया। उद्योग इसे यूरोपीय OE बाजार में Hankook Tire की दो-ब्रांड रणनीति और Kumho Tire की एकल-ब्रांड केंद्रित रणनीति के टकराव के रूप में देखता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Hankook Laufenn vs Kumho Ecsta: Persaingan Ban OE Skoda di Eropa Menguat",
-        "excerpt": "Hankook Tire dan Kumho Tire bersaing di pasar ban OE Skoda Eropa lewat Laufenn S FIT 2 dan Ecsta PS71, menampilkan strategi merek yang berbeda.",
-        "body": "Hankook Tire dan Kumho Tire baru-baru ini membentuk persaingan menarik di pasar ban original equipment (OE) Eropa melalui capaian pasokan untuk kendaraan Skoda. Hankook Tire akan memasok ban musim panas S FIT 2 dari merek strategi global Laufenn, bukan merek premium Hankook, untuk model populer Skoda New Octavia. Sementara itu, Kumho Tire memasok Ecsta PS71 dari merek performa tinggi utamanya untuk SUV listrik Skoda Enyaq dan Elroq. Kalangan industri menilai ini sebagai titik pertemuan antara strategi dua merek Hankook Tire dan strategi fokus satu merek Kumho Tire di pasar OE Eropa. Sumber: rss.donga.com"
       }
     }
   }
