@@ -1,5 +1,230 @@
 [
   {
+    "id": "6b6dffde9356",
+    "slug": "빅테크-동지에서-적으로-오픈ai-애플에-소송-검토-462544",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:55:53.894Z",
+    "updatedAt": "2026-05-15T18:55:53.894Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933726/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933726/2",
+    "titleFingerprint": "134e178fa258e2a26e4444f84704b75d341fcaa6",
+    "dedupKeys": [
+      "6b6dffde935667fac6f53f3e3a932b9f21b216e7",
+      "134e178fa258e2a26e4444f84704b75d341fcaa6",
+      "fcd617943ccba8ca05ce06ef794e67a80e4efe83"
+    ],
+    "imageUrl": "/images/articles/6b6dffde9356.jpg",
+    "i18n": {
+      "ko": {
+        "title": "오픈AI, 애플 상대 소송 검토…시리·챗GPT 협력 기대 이익 논란",
+        "excerpt": "오픈AI가 14일 블룸버그 보도에 따르면 애플과의 시리·챗GPT 협력에서 기대했던 이점을 얻지 못했다며 법적 조치를 검토 중인 것으로 알려졌다.",
+        "body": "오픈AI가 애플을 상대로 법적 조치를 준비하는 것으로 알려졌다. 14일(현지 시간) 블룸버그통신은 오픈AI가 애플과의 협력을 통해 기대했던 이점을 얻지 못했다는 이유로 소송 등 대응 방안을 검토하고 있다고 보도했다. 오픈AI 측 변호인단은 외부 로펌과 함께 애플을 상대로 한 소송 제기부터 계약 위반을 주장하는 통지서 발송까지 여러 선택지를 논의 중인 것으로 전해졌다. 앞서 애플과 오픈AI는 2024년 아이폰 음성 비서 시리에 오픈AI의 AI 모델 챗GPT를 도입하기 위한 파트너십을 맺었다. 이번 사안은 AI 시장 경쟁이 격화되며 과거 협력 관계였던 빅테크 기업 사이에서도 법적 갈등이 확산되는 흐름을 보여준다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "OpenAI Weighs Lawsuit Against Apple Over Siri-ChatGPT Partnership Benefits",
+        "excerpt": "OpenAI is reportedly reviewing legal action after a May 14 Bloomberg report said it did not gain expected benefits from its Siri and ChatGPT partnership with Apple.",
+        "body": "OpenAI is reportedly preparing possible legal action against Apple. Bloomberg reported on May 14, local time, that OpenAI is considering responses, including a lawsuit, because it did not receive the benefits it expected from its cooperation with Apple. OpenAI’s legal team, working with outside law firms, is said to be weighing options ranging from filing a lawsuit against Apple to sending a notice alleging breach of contract. Apple and OpenAI previously formed a partnership in 2024 to bring OpenAI’s AI model ChatGPT to Siri, the iPhone voice assistant. The case highlights how intensifying competition in the AI market is leading even former big-tech partners into legal disputes. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "OpenAI、Apple提訴を検討…Siri・ChatGPT提携の期待利益が争点",
+        "excerpt": "OpenAIは14日のブルームバーグ報道によると、AppleとのSiri・ChatGPT提携で期待した利益を得られなかったとして法的措置を検討している。",
+        "body": "OpenAIがAppleを相手に法的措置を準備していると報じられた。現地時間14日、ブルームバーグ通信は、OpenAIがAppleとの協力を通じて期待していた利点を得られなかったことを理由に、訴訟を含む対応策を検討していると伝えた。OpenAI側の弁護団は外部法律事務所とともに、Appleに対する訴訟提起から契約違反を主張する通知書の送付まで、複数の選択肢を協議しているという。AppleとOpenAIは2024年、iPhoneの音声アシスタントSiriにOpenAIのAIモデルChatGPTを導入するための提携を結んでいた。今回の事案は、AI市場の競争激化により、かつて協力関係にあったビッグテック同士にも法的対立が広がっている流れを示している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "OpenAI考虑起诉苹果，Siri与ChatGPT合作预期利益成焦点",
+        "excerpt": "据彭博社14日报道，OpenAI认为未能从与苹果的Siri和ChatGPT合作中获得预期利益，正在考虑采取法律行动。",
+        "body": "据报道，OpenAI正在准备针对苹果采取可能的法律行动。彭博社当地时间14日报道称，OpenAI认为通过与苹果合作未能获得原本期待的好处，因此正在研究包括诉讼在内的应对方案。据悉，OpenAI方面的律师团队正与外部律所讨论多种选择，从对苹果提起诉讼，到发送主张其违反合同的通知书。此前，苹果与OpenAI于2024年达成合作，将OpenAI的人工智能模型ChatGPT引入iPhone语音助手Siri。此事显示，随着人工智能市场竞争日益激烈，曾经保持合作关系的大型科技企业之间也在出现法律纷争。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "OpenAI evalúa demandar a Apple por beneficios esperados en alianza Siri-ChatGPT",
+        "excerpt": "Según Bloomberg el día 14, OpenAI estudia acciones legales al considerar que no obtuvo los beneficios esperados de su cooperación con Apple en Siri y ChatGPT.",
+        "body": "OpenAI estaría preparando posibles acciones legales contra Apple. Bloomberg informó el día 14, hora local, que OpenAI evalúa respuestas, incluida una demanda, porque no obtuvo los beneficios que esperaba de su cooperación con Apple. El equipo legal de OpenAI, junto con firmas externas, estaría analizando varias opciones, desde presentar una demanda contra Apple hasta enviar una notificación alegando incumplimiento contractual. Apple y OpenAI firmaron en 2024 una alianza para incorporar ChatGPT, el modelo de IA de OpenAI, al asistente de voz Siri del iPhone. El caso muestra cómo la competencia cada vez más intensa en el mercado de la inteligencia artificial también está llevando a disputas legales entre grandes tecnológicas que antes colaboraban. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "OpenAI avalia processar Apple por benefícios esperados na parceria Siri-ChatGPT",
+        "excerpt": "Segundo a Bloomberg no dia 14, a OpenAI estuda medidas legais por não ter obtido os benefícios esperados da cooperação com a Apple em Siri e ChatGPT.",
+        "body": "A OpenAI estaria preparando possíveis medidas legais contra a Apple. A Bloomberg informou no dia 14, no horário local, que a OpenAI avalia respostas, incluindo uma ação judicial, porque não recebeu os benefícios esperados de sua cooperação com a Apple. A equipe jurídica da OpenAI, em conjunto com escritórios externos, estaria discutindo várias alternativas, desde processar a Apple até enviar uma notificação alegando violação de contrato. Apple e OpenAI firmaram em 2024 uma parceria para levar o ChatGPT, modelo de IA da OpenAI, à assistente de voz Siri do iPhone. O caso mostra como a competição mais intensa no mercado de inteligência artificial também amplia disputas legais entre big techs que antes mantinham relação de cooperação. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "OpenAI prüft Klage gegen Apple wegen Siri-ChatGPT-Partnerschaft",
+        "excerpt": "Laut Bloomberg vom 14. Mai prüft OpenAI rechtliche Schritte, weil es aus der Siri- und ChatGPT-Kooperation mit Apple nicht die erwarteten Vorteile erhalten habe.",
+        "body": "OpenAI bereitet Berichten zufolge mögliche rechtliche Schritte gegen Apple vor. Bloomberg meldete am 14. Mai Ortszeit, OpenAI prüfe Reaktionen bis hin zu einer Klage, weil das Unternehmen aus der Zusammenarbeit mit Apple nicht die erwarteten Vorteile erhalten habe. Das Anwaltsteam von OpenAI soll gemeinsam mit externen Kanzleien mehrere Optionen abwägen, von einer Klage gegen Apple bis zum Versand einer Mitteilung, in der ein Vertragsbruch geltend gemacht wird. Apple und OpenAI hatten 2024 eine Partnerschaft geschlossen, um OpenAIs KI-Modell ChatGPT in den iPhone-Sprachassistenten Siri zu integrieren. Der Fall zeigt, dass der verschärfte Wettbewerb im KI-Markt auch zwischen früher kooperierenden Big-Tech-Unternehmen rechtliche Konflikte entstehen lässt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "OpenAI envisage une action contre Apple sur l’accord Siri-ChatGPT",
+        "excerpt": "Selon Bloomberg le 14 mai, OpenAI étudie des mesures juridiques après ne pas avoir obtenu les avantages attendus de sa coopération avec Apple sur Siri et ChatGPT.",
+        "body": "OpenAI préparerait de possibles mesures juridiques contre Apple. Bloomberg a rapporté le 14 mai, heure locale, qu’OpenAI examine plusieurs réponses, dont une action en justice, au motif que la coopération avec Apple ne lui aurait pas apporté les avantages attendus. L’équipe juridique d’OpenAI, avec des cabinets externes, étudierait différentes options, allant du dépôt d’une plainte contre Apple à l’envoi d’une notification alléguant une violation de contrat. Apple et OpenAI avaient conclu en 2024 un partenariat visant à intégrer ChatGPT, le modèle d’IA d’OpenAI, à Siri, l’assistant vocal de l’iPhone. Cette affaire montre que l’intensification de la concurrence sur le marché de l’IA entraîne aussi des conflits juridiques entre grandes entreprises technologiques autrefois partenaires. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "OpenAI تدرس مقاضاة آبل بسبب شراكة Siri وChatGPT المتوقعة",
+        "excerpt": "بحسب تقرير بلومبرغ في 14 مايو، تدرس OpenAI إجراءات قانونية لأنها لم تحصل على الفوائد المتوقعة من تعاونها مع آبل في Siri وChatGPT.",
+        "body": "تستعد OpenAI، بحسب تقارير، لاتخاذ إجراءات قانونية محتملة ضد آبل. وذكرت بلومبرغ في 14 مايو بالتوقيت المحلي أن OpenAI تدرس خيارات للرد، من بينها رفع دعوى قضائية، لأنها لم تحصل على المزايا التي كانت تتوقعها من تعاونها مع آبل. ويقال إن فريق محامي OpenAI، بالتعاون مع مكاتب محاماة خارجية، يراجع عدة خيارات، من رفع دعوى ضد آبل إلى إرسال إخطار يدعي وجود خرق للعقد. وكانت آبل وOpenAI قد أبرمتا في عام 2024 شراكة لإدخال نموذج الذكاء الاصطناعي ChatGPT التابع لـOpenAI في المساعد الصوتي Siri على هواتف iPhone. وتظهر هذه القضية أن اشتداد المنافسة في سوق الذكاء الاصطناعي يقود حتى شركات التكنولوجيا الكبرى التي كانت متعاونة سابقا إلى نزاعات قانونية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "OpenAI Apple पर मुकदमे पर विचार में, Siri-ChatGPT साझेदारी पर विवाद",
+        "excerpt": "14 मई की Bloomberg रिपोर्ट के अनुसार, OpenAI Apple के साथ Siri और ChatGPT सहयोग से अपेक्षित लाभ न मिलने के कारण कानूनी कार्रवाई पर विचार कर रही है।",
+        "body": "OpenAI कथित तौर पर Apple के खिलाफ संभावित कानूनी कार्रवाई की तैयारी कर रही है। स्थानीय समयानुसार 14 मई को Bloomberg ने बताया कि OpenAI Apple के साथ सहयोग से अपेक्षित लाभ न मिलने के कारण मुकदमे सहित कई जवाबी विकल्पों पर विचार कर रही है। बताया गया है कि OpenAI की कानूनी टीम बाहरी लॉ फर्मों के साथ मिलकर Apple के खिलाफ मुकदमा दायर करने से लेकर अनुबंध उल्लंघन का दावा करने वाला नोटिस भेजने तक कई विकल्पों पर चर्चा कर रही है। Apple और OpenAI ने 2024 में iPhone के वॉयस असिस्टेंट Siri में OpenAI के AI मॉडल ChatGPT को शामिल करने के लिए साझेदारी की थी। यह मामला दिखाता है कि AI बाजार में बढ़ती प्रतिस्पर्धा के बीच पहले सहयोगी रही बड़ी टेक कंपनियों के बीच भी कानूनी टकराव बढ़ रहे हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "OpenAI Pertimbangkan Gugatan ke Apple atas Kemitraan Siri-ChatGPT",
+        "excerpt": "Menurut laporan Bloomberg pada 14 Mei, OpenAI menimbang langkah hukum karena tidak memperoleh manfaat yang diharapkan dari kerja sama Siri dan ChatGPT dengan Apple.",
+        "body": "OpenAI dilaporkan sedang menyiapkan kemungkinan langkah hukum terhadap Apple. Bloomberg melaporkan pada 14 Mei waktu setempat bahwa OpenAI mempertimbangkan berbagai respons, termasuk gugatan, karena tidak mendapatkan manfaat yang diharapkan dari kerja samanya dengan Apple. Tim pengacara OpenAI bersama firma hukum eksternal disebut sedang membahas beberapa opsi, mulai dari mengajukan gugatan terhadap Apple hingga mengirim pemberitahuan yang menyatakan adanya pelanggaran kontrak. Apple dan OpenAI sebelumnya menjalin kemitraan pada 2024 untuk menghadirkan model AI OpenAI, ChatGPT, ke asisten suara iPhone, Siri. Kasus ini menunjukkan bahwa persaingan yang semakin ketat di pasar AI juga memicu sengketa hukum di antara perusahaan teknologi besar yang sebelumnya bekerja sama. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "d513d6891b96",
+    "slug": "8000피-환호뒤-7500선-붕괴-외국인-매도-폭탄에-6-급락-294318",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:54:53.785Z",
+    "updatedAt": "2026-05-15T18:54:53.785Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933730/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933730/2",
+    "titleFingerprint": "586e32db1374722194c4ac6009ebef46a3771ba0",
+    "dedupKeys": [
+      "d513d6891b968e2c9f2b547951847318ac9964e1",
+      "586e32db1374722194c4ac6009ebef46a3771ba0",
+      "870bab9f7e5d933f23c1a7068996e0ac153f4cf9"
+    ],
+    "imageUrl": "/images/articles/d513d6891b96.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,500선 붕괴, 외국인 매도에 6% 급락…환율 1,500원 돌파",
+        "excerpt": "15일 코스피가 장중 8,000선을 처음 넘은 뒤 외국인·기관 차익실현 매물에 6.12% 급락하며 7,493.18로 마감했고 원-달러 환율도 1,500원을 넘었다.",
+        "body": "15일 코스피는 개장 직후 사상 처음으로 8,000선을 넘어 8,046.78까지 올랐지만, 외국인과 기관의 차익실현 매물이 쏟아지며 전 거래일보다 6.12% 내린 7,493.18로 마감했다. 이날 하루 고점과 저점의 변동 폭은 3월 초 미국과 이란 전쟁 직후 급락장을 넘어 사상 최대치로 전해졌다. 개인은 7조2,000억 원을 순매수했지만 외국인은 5조6,000억 원, 기관은 1조7,000억 원을 순매도했다. 주요국 금리 인상 가능성이 커지자 외국인이 최근 급등한 반도체주를 중심으로 위험자산을 줄인 영향이다. 외국인의 조 단위 순매도가 이어지며 원-달러 환율도 39일 만에 1,500원을 넘었다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Kospi Falls Below 7,500 as Foreign Selling Triggers 6% Plunge",
+        "excerpt": "On May 15, the Kospi briefly topped 8,000 for the first time, then dropped 6.12% to 7,493.18 as foreign and institutional investors took profits.",
+        "body": "On May 15, the Kospi rose above 8,000 for the first time shortly after the open, reaching an intraday record of 8,046.78, but reversed lower as foreign and institutional investors sold to take profits. The index closed at 7,493.18, down 6.12% from the previous session. The gap between the day’s high and low was reported as the largest on record, exceeding the volatility seen in early March after the U.S.-Iran war shock. Retail investors bought a net 7.2 trillion won, while foreigners sold 5.6 trillion won and institutions sold 1.7 trillion won. As expectations for rate hikes in major economies grew, foreigners reduced risk assets, especially recently surging semiconductor shares. Continued foreign net selling also pushed the won-dollar exchange rate above 1,500 won for the first time in 39 days. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "KOSPIが7,500割れ、外国人売りで6％急落…為替は1,500ウォン超",
+        "excerpt": "15日、KOSPIは取引時間中に初めて8,000を上回った後、外国人と機関の利益確定売りで6.12％下落し7,493.18で引けた。",
+        "body": "15日のKOSPIは寄り付き直後に初めて8,000を突破し、8,046.78まで上昇して取引時間中の史上最高値を更新した。しかし外国人と機関投資家の利益確定売りが広がり、前営業日比6.12％安の7,493.18で取引を終えた。この日の高値と安値の変動幅は、米国とイランの戦争直後にKOSPIが急落した3月初めを上回り、過去最大と伝えられた。個人は7兆2,000億ウォンを買い越したが、外国人は5兆6,000億ウォン、機関は1兆7,000億ウォンを売り越した。主要国の利上げ観測が強まり、外国人が急騰していた半導体株を中心にリスク資産を減らした影響だ。外国人の兆単位の売り越しが続き、ウォン・ドル相場も39日ぶりに1,500ウォンを超えた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国KOSPI跌破7500点，外资抛售引发6%急跌",
+        "excerpt": "15日，KOSPI盘中首次突破8000点后转跌，因外资和机构获利了结，最终下跌6.12%，收于7,493.18点。",
+        "body": "15日，韩国KOSPI开盘后首次突破8,000点，最高升至8,046.78点，刷新盘中历史高点，但随后在外资和机构获利了结卖盘冲击下转跌，较前一交易日下跌6.12%，收于7,493.18点。据报道，当日高低点波动幅度超过3月初美国和伊朗战争后KOSPI急跌时的水平，创下历史最大纪录。个人投资者净买入7.2万亿韩元，但外资净卖出5.6万亿韩元，机构净卖出1.7万亿韩元。随着主要国家加息可能性上升，外资以近期大涨的半导体股为中心减少风险资产。外资连续万亿韩元级净卖出，也推动韩元兑美元汇率时隔39日再次突破1,500韩元。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Kospi cae bajo 7.500 puntos por ventas extranjeras y se hunde 6%",
+        "excerpt": "El 15 de mayo, el Kospi superó por primera vez los 8.000 puntos intradía, pero cayó 6,12% hasta 7.493,18 por tomas de ganancias de extranjeros e instituciones.",
+        "body": "El 15 de mayo, el Kospi superó por primera vez los 8.000 puntos poco después de la apertura y alcanzó un máximo intradía de 8.046,78, pero cambió de rumbo ante las ventas de toma de ganancias de inversores extranjeros e institucionales. Cerró en 7.493,18, un 6,12% menos que en la sesión anterior. La diferencia entre el máximo y el mínimo del día fue descrita como la mayor de la historia, por encima de la volatilidad registrada a comienzos de marzo tras la caída vinculada a la guerra entre Estados Unidos e Irán. Los minoristas compraron 7,2 billones de wones netos, mientras los extranjeros vendieron 5,6 billones y las instituciones 1,7 billones. La mayor posibilidad de subidas de tasas en economías clave llevó a los extranjeros a reducir activos de riesgo, especialmente acciones de semiconductores que habían subido con fuerza. El won-dólar superó los 1.500 wones por primera vez en 39 días. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Kospi cai abaixo de 7.500 com venda estrangeira e recua 6%",
+        "excerpt": "Em 15 de maio, o Kospi superou 8.000 pontos pela primeira vez no intradia, mas fechou em queda de 6,12%, a 7.493,18, com realização de lucros.",
+        "body": "Em 15 de maio, o Kospi ultrapassou 8.000 pontos pela primeira vez logo após a abertura, chegando a 8.046,78 e renovando a máxima intradiária histórica. Depois, virou para queda com vendas de realização de lucros de investidores estrangeiros e institucionais, encerrando a 7.493,18, baixa de 6,12% ante o pregão anterior. A diferença entre a máxima e a mínima do dia foi relatada como a maior já registrada, superando a volatilidade do início de março após a queda ligada à guerra entre Estados Unidos e Irã. Investidores individuais compraram 7,2 trilhões de wones líquidos, mas estrangeiros venderam 5,6 trilhões e instituições 1,7 trilhão. A maior possibilidade de altas de juros em grandes economias levou estrangeiros a reduzir ativos de risco, sobretudo ações de semicondutores que haviam disparado recentemente. O câmbio won-dólar também passou de 1.500 wones pela primeira vez em 39 dias. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Kospi fällt unter 7.500 Punkte: Ausländer-Verkäufe drücken Index 6%",
+        "excerpt": "Am 15. Mai stieg der Kospi erstmals intraday über 8.000 Punkte, drehte dann aber wegen Gewinnmitnahmen ausländischer und institutioneller Anleger 6,12% ins Minus.",
+        "body": "Am 15. Mai überschritt der Kospi kurz nach Handelsbeginn erstmals die Marke von 8.000 Punkten und erreichte mit 8.046,78 ein Intraday-Rekordhoch. Danach drehte der Index wegen Gewinnmitnahmen ausländischer und institutioneller Investoren ins Minus und schloss bei 7.493,18 Punkten, 6,12% unter dem Vortag. Die Spanne zwischen Tageshoch und Tagestief wurde als die größte jemals gemessene bezeichnet und übertraf die Schwankungen von Anfang März nach dem Kurssturz im Anschluss an den Krieg zwischen den USA und Iran. Privatanleger kauften netto für 7,2 Billionen Won, während ausländische Investoren 5,6 Billionen Won und Institutionen 1,7 Billionen Won verkauften. Wegen steigender Erwartungen an Zinserhöhungen in wichtigen Volkswirtschaften reduzierten Ausländer Risikoanlagen, vor allem zuletzt stark gestiegene Halbleiterwerte. Der Won-Dollar-Kurs überschritt erstmals seit 39 Tagen wieder 1.500 Won. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le Kospi passe sous 7 500 points après des ventes étrangères et chute de 6%",
+        "excerpt": "Le 15 mai, le Kospi a franchi 8 000 points pour la première fois en séance, puis a perdu 6,12% à 7 493,18 sous l’effet de prises de bénéfices.",
+        "body": "Le 15 mai, le Kospi a dépassé pour la première fois les 8 000 points peu après l’ouverture, atteignant un record intrajournalier de 8 046,78. Mais l’indice s’est retourné sous l’effet des ventes de prise de bénéfices des investisseurs étrangers et institutionnels, clôturant à 7 493,18, en baisse de 6,12% par rapport à la séance précédente. L’écart entre le plus haut et le plus bas du jour a été présenté comme le plus important jamais enregistré, dépassant la volatilité observée début mars après la chute liée à la guerre entre les États-Unis et l’Iran. Les particuliers ont acheté pour 7 200 milliards de wons nets, tandis que les étrangers ont vendu 5 600 milliards et les institutions 1 700 milliards. La hausse des anticipations de relèvement des taux dans les grandes économies a conduit les étrangers à réduire les actifs risqués, surtout les valeurs de semi-conducteurs récemment envolées. Le taux won-dollar a dépassé 1 500 wons pour la première fois en 39 jours. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط دون 7500 نقطة مع مبيعات أجنبية حادة وتراجع 6%",
+        "excerpt": "في 15 مايو، تجاوز كوسبي مستوى 8000 نقطة لأول مرة خلال الجلسة، ثم تراجع 6.12% إلى 7,493.18 بفعل جني أرباح الأجانب والمؤسسات.",
+        "body": "في 15 مايو، تجاوز مؤشر كوسبي مستوى 8,000 نقطة لأول مرة بعد الافتتاح مباشرة، وبلغ 8,046.78 نقطة مسجلا أعلى مستوى تاريخي خلال الجلسة. لكنه تحول إلى الهبوط مع تدفق أوامر جني الأرباح من المستثمرين الأجانب والمؤسسات، ليغلق عند 7,493.18 نقطة، منخفضا 6.12% عن الجلسة السابقة. ووصفت فجوة أعلى وأدنى مستوى في اليوم بأنها الأكبر على الإطلاق، متجاوزة تقلبات أوائل مارس بعد هبوط كوسبي عقب الحرب بين الولايات المتحدة وإيران. اشترى الأفراد صافيا بقيمة 7.2 تريليون وون، بينما باع الأجانب 5.6 تريليون وون والمؤسسات 1.7 تريليون وون. ومع تزايد احتمال رفع الفائدة في الدول الكبرى، خفض الأجانب الأصول عالية المخاطر، خصوصا أسهم أشباه الموصلات التي ارتفعت بقوة مؤخرا. كما تجاوز سعر صرف الوون مقابل الدولار 1,500 وون لأول مرة منذ 39 يوما. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कोस्पी 7,500 से नीचे, विदेशी बिकवाली से 6% गिरावट और वॉन कमजोर",
+        "excerpt": "15 मई को कोस्पी पहली बार कारोबार के दौरान 8,000 के ऊपर गया, लेकिन विदेशी और संस्थागत मुनाफावसूली से 6.12% गिरकर 7,493.18 पर बंद हुआ।",
+        "body": "15 मई को कोस्पी खुलने के तुरंत बाद पहली बार 8,000 के स्तर से ऊपर गया और 8,046.78 तक पहुंचकर कारोबार के दौरान नया ऐतिहासिक उच्च स्तर बनाया। लेकिन विदेशी और संस्थागत निवेशकों की मुनाफावसूली से सूचकांक नीचे मुड़ गया और पिछले सत्र से 6.12% गिरकर 7,493.18 पर बंद हुआ। दिन के उच्च और निम्न स्तर के बीच उतार-चढ़ाव को रिकॉर्ड का सबसे बड़ा बताया गया, जो मार्च की शुरुआत में अमेरिका-ईरान युद्ध के बाद आई गिरावट से भी अधिक था। खुदरा निवेशकों ने शुद्ध 7.2 ट्रिलियन वॉन खरीदे, जबकि विदेशियों ने 5.6 ट्रिलियन वॉन और संस्थानों ने 1.7 ट्रिलियन वॉन बेचे। प्रमुख देशों में ब्याज दर बढ़ने की संभावना बढ़ने पर विदेशियों ने जोखिम वाली संपत्तियां घटाईं, खासकर हाल में तेजी से चढ़े सेमीकंडक्टर शेयरों में। लगातार विदेशी शुद्ध बिकवाली से वॉन-डॉलर विनिमय दर भी 39 दिनों में पहली बार 1,500 वॉन से ऊपर गई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kospi Jatuh di Bawah 7.500, Aksi Jual Asing Picu Anjlok 6%",
+        "excerpt": "Pada 15 Mei, Kospi sempat menembus 8.000 untuk pertama kalinya secara intraday, lalu turun 6,12% ke 7.493,18 akibat aksi ambil untung asing dan institusi.",
+        "body": "Pada 15 Mei, Kospi menembus level 8.000 untuk pertama kalinya sesaat setelah pembukaan dan mencapai rekor intraday 8.046,78. Namun indeks berbalik turun setelah investor asing dan institusi melepas saham untuk mengambil untung, lalu ditutup di 7.493,18, turun 6,12% dari sesi sebelumnya. Rentang antara titik tertinggi dan terendah hari itu disebut sebagai yang terbesar sepanjang sejarah, melampaui volatilitas awal Maret setelah Kospi jatuh pascaperang Amerika Serikat dan Iran. Investor ritel membeli bersih 7,2 triliun won, sementara asing menjual 5,6 triliun won dan institusi 1,7 triliun won. Meningkatnya kemungkinan kenaikan suku bunga di negara-negara utama membuat asing mengurangi aset berisiko, terutama saham semikonduktor yang baru-baru ini melonjak. Arus jual bersih asing juga mendorong kurs won-dolar melewati 1.500 won untuk pertama kalinya dalam 39 hari. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "d1febbdfc30d",
+    "slug": "韓-자율주행-택시-겹겹-규제에-강남-밤길만-달려-633273",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:53:44.225Z",
+    "updatedAt": "2026-05-15T18:53:44.225Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933990/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933990/2",
+    "titleFingerprint": "c6496da89b51fe125a5a2cb30f73dced1076f825",
+    "dedupKeys": [
+      "d1febbdfc30dbcb1489f30120db83a1a663cbc30",
+      "c6496da89b51fe125a5a2cb30f73dced1076f825",
+      "c7ae8f8445c75b45296c0f324ba5f144d78828fe"
+    ],
+    "imageUrl": "/images/articles/d1febbdfc30d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국 자율주행 택시, 규제 장벽에 강남·서초 야간 운행만 제한",
+        "excerpt": "한국 자율주행 택시는 기술력 부족보다 규제 장벽 탓에 서울 강남·서초 일부 지역에서 밤 10시부터 오전 5시까지 7대만 제한적으로 운행되고 있다.",
+        "body": "한국의 자율주행 택시는 현재 서울 강남구와 서초구 일부 지역에서 오후 10시부터 오전 5시 사이에 한해 7대가 제한적으로 운행되고 있다. 미국에서는 알파벳 자회사 웨이모가 샌프란시스코, 로스앤젤레스, 애틀랜타 등 주요 대도시에서 로보택시 사업을 하고 있으며, 파이낸셜타임스는 지난해 매출을 약 3억5000만 달러, 약 4600억 원으로 추정했다. 중국에서도 바이두와 위라이드 등 기업들이 베이징, 상하이 등 대도시에서 유료 승객 운송을 하고 있다. 한국의 지연은 기술력 부족보다는 규제 허들 때문으로 제시된다. 현대자동차그룹은 미국 합작법인 모셔널을 통해 캘리포니아에서 자율주행 택시를 운행하고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Korea’s Self-Driving Taxis Limited to Night Routes in Gangnam and Seocho",
+        "excerpt": "In Korea, regulatory hurdles rather than a lack of technology have left only seven self-driving taxis operating at night in parts of Gangnam and Seocho, Seoul.",
+        "body": "Self-driving taxis in Korea are currently limited to seven vehicles operating only from 10 p.m. to 5 a.m. in parts of Seoul’s Gangnam and Seocho districts. In the United States, Waymo, the robotaxi company owned by Alphabet, Google’s parent, is operating in major cities including San Francisco, Los Angeles and Atlanta. The Financial Times estimated Waymo’s revenue last year at about $350 million, or roughly 460 billion won. In China, companies such as Baidu and WeRide are also carrying paying passengers in large cities including Beijing and Shanghai. Korea’s slow rollout is presented not as a technology problem but as a regulatory hurdle. Hyundai Motor Group operates autonomous taxis in California through its U.S. joint venture Motional. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓国の自動運転タクシー、規制の壁で江南・瑞草の夜間運行に限定",
+        "excerpt": "韓国の自動運転タクシーは技術不足ではなく規制の壁により、ソウル江南・瑞草の一部地域で午後10時から午前5時まで7台だけが運行されている。",
+        "body": "韓国の自動運転タクシーは現在、ソウル市江南区と瑞草区の一部地域で午後10時から午前5時まで、7台に限って運行されている。米国では、グーグルの親会社アルファベット傘下のロボタクシー企業ウェイモが、サンフランシスコ、ロサンゼルス、アトランタなど主要大都市で事業を展開している。フィナンシャル・タイムズは同社の昨年売上高を約3億5000万ドル、約4600億ウォンと推定した。中国でも百度や文遠知行などが北京、上海などで有料運行を行っている。韓国で普及が遅れる理由は技術力不足ではなく、規制のハードルとされる。現代自動車グループは米国合弁会社モーショナルを通じ、カリフォルニアで自動運転タクシーを運行している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国自动驾驶出租车受监管限制，仅在江南瑞草夜间运行",
+        "excerpt": "韩国自动驾驶出租车并非因技术不足受限，而是受监管门槛影响，目前仅7辆车在首尔江南、瑞草部分地区夜间运行。",
+        "body": "韩国自动驾驶出租车目前只在首尔江南区和瑞草区部分地区运行，时间限定在晚上10点至次日凌晨5点，车辆仅有7辆。美国方面，谷歌母公司Alphabet旗下自动驾驶出租车企业Waymo已在旧金山、洛杉矶、亚特兰大等主要大城市开展业务。据英国《金融时报》估算，该公司去年营收约为3.5亿美元，约合4600亿韩元。中国也有百度、文远知行等企业在北京、上海等大城市提供收费载客服务。韩国进展缓慢的原因并非技术不足，而是存在监管门槛。现代汽车集团通过其在美国成立的自动驾驶合资公司Motional，在加利福尼亚运营自动驾驶出租车。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Taxis autónomos en Corea, limitados por regulación a noches en Gangnam y Seocho",
+        "excerpt": "En Corea, las trabas regulatorias, más que la falta de tecnología, limitan los taxis autónomos a siete unidades nocturnas en partes de Gangnam y Seocho, Seúl.",
+        "body": "Los taxis autónomos en Corea operan actualmente de forma muy limitada: solo siete vehículos circulan entre las 10 p.m. y las 5 a.m. en algunas zonas de los distritos de Gangnam y Seocho, en Seúl. En Estados Unidos, Waymo, empresa de robotaxis de Alphabet, matriz de Google, presta servicio en grandes ciudades como San Francisco, Los Ángeles y Atlanta. Según el Financial Times, sus ingresos del año pasado se estimaron en unos 350 millones de dólares, aproximadamente 460.000 millones de wones. En China, compañías como Baidu y WeRide también transportan pasajeros de pago en ciudades como Pekín y Shanghái. El retraso de Corea se atribuye a barreras regulatorias, no a falta de capacidad tecnológica. Hyundai Motor Group opera taxis autónomos en California mediante su empresa conjunta estadounidense Motional. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Táxis autônomos na Coreia ficam restritos por regras a noites em Gangnam e Seocho",
+        "excerpt": "Na Coreia, barreiras regulatórias, e não falta de tecnologia, limitam os táxis autônomos a sete veículos noturnos em partes de Gangnam e Seocho, em Seul.",
+        "body": "Os táxis autônomos na Coreia operam hoje de forma bastante restrita: apenas sete veículos circulam entre 22h e 5h em algumas áreas dos distritos de Gangnam e Seocho, em Seul. Nos Estados Unidos, a Waymo, empresa de robotáxis da Alphabet, controladora do Google, atua em grandes cidades como São Francisco, Los Angeles e Atlanta. Segundo o Financial Times, a receita da companhia no ano passado foi estimada em cerca de US$ 350 milhões, aproximadamente 460 bilhões de wones. Na China, empresas como Baidu e WeRide também transportam passageiros pagantes em cidades como Pequim e Xangai. O atraso coreano é apresentado como resultado de obstáculos regulatórios, não de falta de tecnologia. O Hyundai Motor Group opera táxis autônomos na Califórnia por meio da joint venture americana Motional. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Autonome Taxis in Korea fahren wegen Regulierung nur nachts in Gangnam und Seocho",
+        "excerpt": "In Korea bremsen vor allem regulatorische Hürden den Einsatz autonomer Taxis: Nur sieben Fahrzeuge fahren nachts in Teilen von Gangnam und Seocho in Seoul.",
+        "body": "Autonome Taxis in Korea fahren derzeit nur sehr eingeschränkt: Sieben Fahrzeuge sind zwischen 22 Uhr und 5 Uhr in Teilen der Seouler Bezirke Gangnam und Seocho unterwegs. In den USA betreibt Waymo, das Robotaxi-Unternehmen der Google-Mutter Alphabet, Dienste in Metropolen wie San Francisco, Los Angeles und Atlanta. Die Financial Times schätzte den Umsatz des Unternehmens im vergangenen Jahr auf rund 350 Millionen US-Dollar, etwa 460 Milliarden Won. In China befördern Unternehmen wie Baidu und WeRide in Großstädten wie Peking und Shanghai zahlende Fahrgäste. Die Verzögerung in Korea wird nicht auf mangelnde Technologie, sondern auf regulatorische Hürden zurückgeführt. Die Hyundai Motor Group betreibt über ihr US-Gemeinschaftsunternehmen Motional autonome Taxis in Kalifornien. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Taxis autonomes en Corée, limités par la réglementation aux nuits de Gangnam et Seocho",
+        "excerpt": "En Corée, les taxis autonomes sont freinés par la réglementation plutôt que par la technologie: sept véhicules seulement circulent la nuit à Gangnam et Seocho.",
+        "body": "Les taxis autonomes en Corée restent aujourd’hui très limités: sept véhicules circulent uniquement de 22 h à 5 h dans certaines zones des arrondissements de Gangnam et Seocho, à Séoul. Aux États-Unis, Waymo, l’entreprise de robotaxis détenue par Alphabet, maison mère de Google, opère dans de grandes villes comme San Francisco, Los Angeles et Atlanta. Selon le Financial Times, son chiffre d’affaires de l’an dernier est estimé à environ 350 millions de dollars, soit près de 460 milliards de wons. En Chine, des entreprises comme Baidu et WeRide transportent aussi des passagers payants à Pékin, Shanghai et dans d’autres grandes villes. Le retard coréen est présenté comme lié aux obstacles réglementaires, non à un manque de technologie. Hyundai Motor Group exploite des taxis autonomes en Californie via sa coentreprise américaine Motional. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سيارات الأجرة ذاتية القيادة في كوريا محصورة ليلا في غانغنام وسوتشو بسبب القيود",
+        "excerpt": "في كوريا، تحد القيود التنظيمية لا نقص التقنية من سيارات الأجرة ذاتية القيادة، إذ تعمل 7 سيارات فقط ليلا في أجزاء من غانغنام وسوتشو في سيول.",
+        "body": "تعمل سيارات الأجرة ذاتية القيادة في كوريا حاليا على نطاق محدود للغاية، إذ تسير 7 سيارات فقط بين الساعة 10 مساء و5 صباحا في أجزاء من منطقتي غانغنام وسوتشو في سيول. في الولايات المتحدة، تدير وايمو، شركة الروبوتاكسي التابعة لألفابت المالكة لغوغل، خدماتها في مدن كبرى مثل سان فرانسيسكو ولوس أنجلوس وأتلانتا. وقدرت فايننشال تايمز إيرادات الشركة في العام الماضي بنحو 350 مليون دولار، أي ما يقارب 460 مليار وون. وفي الصين، تنقل شركات مثل بايدو ووي رايد ركابا يدفعون أجرا في بكين وشنغهاي ومدن كبرى أخرى. ويعرض تأخر كوريا على أنه نتيجة عوائق تنظيمية لا نقص في القدرة التقنية. وتشغل مجموعة هيونداي موتور سيارات أجرة ذاتية القيادة في كاليفورنيا عبر مشروعها المشترك الأميركي موشنال. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "कोरिया की स्वचालित टैक्सियां नियमों में फंसीं, गंगनम और सेओचो में रात तक सीमित",
+        "excerpt": "कोरिया में तकनीक की कमी नहीं, बल्कि नियामकीय बाधाओं के कारण स्वचालित टैक्सियां सियोल के गंगनम और सेओचो के कुछ हिस्सों में रात में केवल 7 गाड़ियों तक सीमित हैं।",
+        "body": "कोरिया में स्वचालित टैक्सियां अभी बेहद सीमित रूप से चल रही हैं। सियोल के गंगनम और सेओचो जिलों के कुछ हिस्सों में रात 10 बजे से सुबह 5 बजे तक केवल 7 वाहन संचालित होते हैं। अमेरिका में गूगल की मूल कंपनी अल्फाबेट की रोबोटैक्सी कंपनी वेमो सैन फ्रांसिस्को, लॉस एंजिलिस और अटलांटा जैसे बड़े शहरों में कारोबार कर रही है। फाइनेंशियल टाइम्स के अनुसार, पिछले साल वेमो का राजस्व लगभग 35 करोड़ डॉलर, यानी करीब 460 अरब वोन, आंका गया। चीन में भी बैदू और वी राइड जैसी कंपनियां बीजिंग और शंघाई सहित बड़े शहरों में भुगतान करने वाले यात्रियों को सेवा दे रही हैं। कोरिया की देरी को तकनीकी कमजोरी नहीं, बल्कि नियामकीय अवरोध बताया गया है। हुंडई मोटर ग्रुप अपनी अमेरिकी संयुक्त कंपनी मोशनल के जरिए कैलिफोर्निया में स्वचालित टैक्सियां चला रहा है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Taksi Otonom Korea Terbatas Regulasi, Hanya Beroperasi Malam di Gangnam dan Seocho",
+        "excerpt": "Di Korea, hambatan regulasi, bukan kekurangan teknologi, membuat taksi otonom hanya beroperasi tujuh unit pada malam hari di sebagian Gangnam dan Seocho, Seoul.",
+        "body": "Taksi otonom di Korea saat ini beroperasi sangat terbatas: hanya tujuh kendaraan berjalan pukul 22.00 hingga 05.00 di sebagian wilayah distrik Gangnam dan Seocho, Seoul. Di Amerika Serikat, Waymo, perusahaan robotaksi milik Alphabet, induk Google, telah beroperasi di kota besar seperti San Francisco, Los Angeles, dan Atlanta. Financial Times memperkirakan pendapatan perusahaan itu tahun lalu sekitar 350 juta dolar AS, atau kira-kira 460 miliar won. Di China, perusahaan seperti Baidu dan WeRide juga mengangkut penumpang berbayar di kota besar termasuk Beijing dan Shanghai. Keterlambatan Korea disebut bukan karena kurangnya kemampuan teknologi, melainkan adanya hambatan regulasi. Hyundai Motor Group mengoperasikan taksi otonom di California melalui perusahaan patungan AS, Motional. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "99fd71988b69",
     "slug": "스스로-차선-바꾸면-불법-규제-탓-직진밖에-못하는-k자율주행-643784",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Daechi Seonkyung Jadi 49 Lantai dan 1.571 Unit, Proyek Seoul Maju",
         "excerpt": "Komite Perencanaan Kota Seoul meloloskan rencana Daechi Seonkyung, Shinbanpo 7, Distrik Ichon 1, dan Sanggye Hanshin 3, mempercepat proyek rekonstruksi utama.",
         "body": "Daechi Seonkyung di Daechi-dong, Gangnam-gu, Seoul, yang disebut sebagai salah satu kompleks rekonstruksi utama di kawasan tersebut, lolos peninjauan Komite Perencanaan Kota Seoul dan akan berubah menjadi kompleks setinggi maksimal 49 lantai dengan 1.571 unit. Menurut teks asli, Daechi Seonkyung disebut sebagai salah satu kompleks “Wooseonmi” di Daechi-dong. Dalam rangkaian peninjauan yang sama, Shinbanpo 7 dan Distrik Ichon 1 juga meloloskan rencana rekonstruksi hingga 49 lantai, sementara Sanggye Hanshin 3 di Nowon-gu dipastikan dikembangkan hingga 35 lantai. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b7ebc6593d15",
-    "slug": "방중단-동행-트럼프-차남-관련-기업-中-반도체사와-합작-이해-상충-논란-684473",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T00:02:31.069Z",
-    "updatedAt": "2026-05-15T00:02:31.069Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260514/133927333/2",
-    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260514/133927333/2",
-    "titleFingerprint": "1901e6bb348b99af841a4ded32d627b074f389bf",
-    "dedupKeys": [
-      "b7ebc6593d15b413553890703251409fc19603d1",
-      "1901e6bb348b99af841a4ded32d627b074f389bf",
-      "7dd2ead0c2b5d55646c996180567553bef4f21b6"
-    ],
-    "imageUrl": "/images/articles/b7ebc6593d15.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 차남 관련 핀테크, 중국 반도체사와 AI 데이터센터 합작 논란",
-        "excerpt": "트럼프 대통령의 차남 에릭과 관련된 알트파이브 시그마가 중국 나노랩스와 미국 AI 데이터센터 구축 MOU를 맺으며 이해 상충 논란이 제기됐다.",
-        "body": "도널드 트럼프 미국 대통령의 차남 에릭과 관련된 미국 핀테크 기업 알트파이브 시그마가 중국 반도체 제조사 나노랩스와 미국 내 인공지능(AI) 데이터센터 구축을 위한 양해각서(MOU)를 체결한 것으로 전해졌다. 에릭은 아내 라라와 함께 13~15일 트럼프 대통령의 중국 국빈 방문에 동행했다. 13일 파이낸셜타임스(FT)에 따르면 양측은 향후 추가 합작 가능성을 검토하기 위해 90일간 실사를 진행하기로 했다. AI 데이터센터는 대규모 전력 인프라가 필요한 핵심 AI 전략 산업으로, 미중 기술 패권 경쟁의 주요 분야다. 알트파이브 시그마가 트럼프 가족 소유 가상화폐 기업 월드리버티파이낸셜(WLF)과 밀접한 관련이 있다는 점에서 외교정책과 가족 사업이 맞물린 이해 상충 논란이 커지고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Trump Son-Linked Fintech Faces Scrutiny Over China Chip Firm AI Data Center Deal",
-        "excerpt": "Alt5 Sigma, linked to President Trump’s son Eric, signed an MOU with China’s Nano Labs for a US AI data center, raising conflict-of-interest concerns.",
-        "body": "Alt5 Sigma, a US fintech company linked to Eric Trump, the second son of US President Donald Trump, has reportedly signed a memorandum of understanding with Chinese semiconductor maker Nano Labs to build an artificial intelligence data center in the United States. Eric accompanied President Trump on a state visit to China from the 13th to the 15th with his wife, Lara. According to the Financial Times on the 13th, the two companies agreed to conduct 90 days of due diligence to examine possible further cooperation. AI data centers require large-scale power infrastructure and are a core strategic AI industry at the center of US-China technology rivalry. The controversy is growing because Alt5 Sigma is closely connected to World Liberty Financial, a cryptocurrency company owned by the Trump family, raising concerns that family business interests are intersecting with national foreign policy. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "トランプ氏次男関連フィンテック、中国半導体企業とAIデータセンター合弁で論争",
-        "excerpt": "トランプ大統領の次男エリック氏に関連するアルトファイブ・シグマが中国ナノラブスと米国AIデータセンター構築のMOUを結び、利益相反論争が浮上した。",
-        "body": "ドナルド・トランプ米大統領の次男エリック氏に関連する米フィンテック企業アルトファイブ・シグマが、中国の半導体メーカー、ナノラブスと米国内で人工知能（AI）データセンターを構築するための覚書（MOU）を締結したと伝えられた。エリック氏は妻ララ氏とともに13~15日、トランプ大統領の中国国賓訪問に同行した。13日の英フィナンシャル・タイムズ（FT）によると、両社は今後の追加的な合弁可能性を検討するため、90日間のデューデリジェンスを行う。AIデータセンターは巨大な電力インフラを伴う中核的なAI戦略産業で、米中の技術覇権競争の主要分野でもある。アルトファイブ・シグマがトランプ一家所有の暗号資産企業ワールド・リバティ・フィナンシャル（WLF）と密接に関係している点から、外交政策と一家の事業が交差する利益相反論争が強まっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "特朗普次子相关金融科技公司与中国芯片企业合作建AI数据中心引争议",
-        "excerpt": "与特朗普总统次子埃里克有关的Alt5 Sigma与中国Nano Labs签署在美国建设AI数据中心的MOU，引发利益冲突争议。",
-        "body": "据报道，与美国总统唐纳德·特朗普次子埃里克有关的美国金融科技公司Alt5 Sigma，已与中国半导体制造商Nano Labs签署谅解备忘录，计划在美国建设人工智能（AI）数据中心。埃里克与妻子劳拉一同于13日至15日陪同特朗普总统对中国进行国事访问。据英国《金融时报》13日报道，双方将进行为期90天的尽职调查，以评估未来进一步合资的可能性。AI数据中心需要庞大的电力基础设施，是核心AI战略产业，也是中美技术霸权竞争的重要领域。争议焦点在于，Alt5 Sigma与特朗普家族拥有的加密货币企业World Liberty Financial（WLF）关系密切，外界质疑家族商业利益与国家外交政策相互交织，利益冲突争议正在扩大。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Fintech vinculada al hijo de Trump pacta con firma china de chips y abre polémica",
-        "excerpt": "Alt5 Sigma, vinculada a Eric Trump, firmó un MOU con la china Nano Labs para construir un centro de datos de IA en EE. UU., generando dudas por conflicto de intereses.",
-        "body": "Alt5 Sigma, una fintech estadounidense vinculada a Eric Trump, segundo hijo del presidente Donald Trump, habría firmado un memorando de entendimiento con el fabricante chino de semiconductores Nano Labs para construir un centro de datos de inteligencia artificial en Estados Unidos. Eric acompañó al presidente Trump en su visita de Estado a China del 13 al 15 junto con su esposa, Lara. Según informó el Financial Times el día 13, ambas partes realizarán 90 días de diligencia debida para estudiar posibles colaboraciones adicionales. Los centros de datos de IA requieren una gran infraestructura eléctrica y forman parte de una industria estratégica clave en la competencia tecnológica entre Estados Unidos y China. La controversia crece porque Alt5 Sigma mantiene una estrecha relación con World Liberty Financial, una empresa de criptomonedas propiedad de la familia Trump, lo que alimenta críticas sobre la mezcla entre negocios familiares y política exterior nacional. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Fintech ligada ao filho de Trump faz acordo com chinesa de chips e gera controvérsia",
-        "excerpt": "A Alt5 Sigma, ligada a Eric Trump, assinou MOU com a chinesa Nano Labs para criar um data center de IA nos EUA, levantando debate sobre conflito de interesses.",
-        "body": "A Alt5 Sigma, fintech dos Estados Unidos ligada a Eric Trump, segundo filho do presidente Donald Trump, teria assinado um memorando de entendimento com a fabricante chinesa de semicondutores Nano Labs para construir um data center de inteligência artificial nos Estados Unidos. Eric acompanhou o presidente Trump em sua visita de Estado à China entre os dias 13 e 15, ao lado de sua esposa, Lara. Segundo o Financial Times no dia 13, as duas partes farão 90 dias de due diligence para avaliar a possibilidade de novas parcerias. Data centers de IA exigem grande infraestrutura elétrica e integram uma indústria estratégica central na disputa tecnológica entre Estados Unidos e China. A polêmica cresce porque a Alt5 Sigma tem ligação estreita com a World Liberty Financial, empresa de criptomoedas pertencente à família Trump, levantando questionamentos sobre a interseção entre negócios familiares e política externa nacional. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Mit Trumps Sohn verbundene Fintech plant KI-Datenzentrum mit Chinas Chipfirma",
-        "excerpt": "Alt5 Sigma, mit Eric Trump verbunden, schloss mit Chinas Nano Labs ein MOU für ein KI-Datenzentrum in den USA und löste Interessenkonflikt-Debatten aus.",
-        "body": "Das US-Fintech-Unternehmen Alt5 Sigma, das mit Eric Trump, dem zweiten Sohn von US-Präsident Donald Trump, verbunden ist, soll mit dem chinesischen Halbleiterhersteller Nano Labs eine Absichtserklärung zum Bau eines KI-Datenzentrums in den Vereinigten Staaten unterzeichnet haben. Eric begleitete Präsident Trump vom 13. bis 15. gemeinsam mit seiner Frau Lara auf dessen Staatsbesuch in China. Laut Financial Times vom 13. wollen beide Seiten 90 Tage lang eine Due-Diligence-Prüfung durchführen, um weitere mögliche Gemeinschaftsprojekte zu bewerten. KI-Datenzentren erfordern umfangreiche Strominfrastruktur und gehören zu den strategischen Kernbereichen der KI-Industrie, in denen die USA und China um technologische Vorherrschaft ringen. Die Kritik wächst, weil Alt5 Sigma eng mit World Liberty Financial verbunden ist, einem Kryptowährungsunternehmen im Besitz der Trump-Familie. Dadurch rückt ein möglicher Interessenkonflikt zwischen Familiengeschäft und Außenpolitik in den Fokus. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Une fintech liée au fils de Trump s’allie à un fabricant chinois de puces, polémique",
-        "excerpt": "Alt5 Sigma, liée à Eric Trump, a signé un protocole avec Nano Labs pour un centre de données IA aux États-Unis, ravivant les soupçons de conflit d’intérêts.",
-        "body": "Alt5 Sigma, une entreprise américaine de fintech liée à Eric Trump, deuxième fils du président Donald Trump, aurait signé un protocole d’accord avec le fabricant chinois de semi-conducteurs Nano Labs afin de construire un centre de données d’intelligence artificielle aux États-Unis. Eric a accompagné le président Trump lors de sa visite d’État en Chine du 13 au 15 avec son épouse, Lara. Selon le Financial Times du 13, les deux parties mèneront 90 jours de due diligence pour examiner d’éventuelles coopérations supplémentaires. Les centres de données IA nécessitent une vaste infrastructure électrique et relèvent d’un secteur stratégique clé dans la rivalité technologique entre les États-Unis et la Chine. La controverse s’amplifie car Alt5 Sigma est étroitement liée à World Liberty Financial, une société de cryptomonnaies détenue par la famille Trump, ce qui alimente les critiques sur l’entrecroisement entre affaires familiales et politique étrangère nationale. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "شركة مرتبطة بابن ترامب تتعاون مع صانع رقائق صيني لمركز بيانات ذكاء اصطناعي",
-        "excerpt": "وقعت Alt5 Sigma المرتبطة بإريك ترامب مذكرة تفاهم مع Nano Labs الصينية لإنشاء مركز بيانات ذكاء اصطناعي في الولايات المتحدة، ما أثار جدلا حول تضارب المصالح.",
-        "body": "أفادت تقارير بأن شركة التكنولوجيا المالية الأميركية Alt5 Sigma، المرتبطة بإريك ترامب، الابن الثاني للرئيس الأميركي دونالد ترامب، وقعت مذكرة تفاهم مع شركة أشباه الموصلات الصينية Nano Labs لبناء مركز بيانات للذكاء الاصطناعي في الولايات المتحدة. ورافق إريك وزوجته لارا الرئيس ترامب في زيارة دولة إلى الصين من 13 إلى 15. وبحسب صحيفة فايننشال تايمز في 13 من الشهر، اتفق الطرفان على إجراء عناية واجبة لمدة 90 يوما لدراسة إمكانات التعاون الإضافي. وتتطلب مراكز بيانات الذكاء الاصطناعي بنية تحتية ضخمة للطاقة، وهي من القطاعات الاستراتيجية الرئيسية في سباق التفوق التكنولوجي بين الولايات المتحدة والصين. وتتصاعد الانتقادات لأن Alt5 Sigma ترتبط بشكل وثيق بشركة العملات المشفرة World Liberty Financial المملوكة لعائلة ترامب، ما يثير جدلا بشأن تداخل مصالح الأعمال العائلية مع السياسة الخارجية للدولة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ट्रंप के बेटे से जुड़ी फिनटेक का चीनी चिप कंपनी से AI डेटा सेंटर समझौता विवादों में",
-        "excerpt": "एरिक ट्रंप से जुड़ी Alt5 Sigma ने चीन की Nano Labs के साथ अमेरिका में AI डेटा सेंटर बनाने का MOU किया, जिससे हितों के टकराव पर सवाल उठे।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूसरे बेटे एरिक ट्रंप से जुड़ी अमेरिकी फिनटेक कंपनी Alt5 Sigma ने चीन की सेमीकंडक्टर निर्माता Nano Labs के साथ अमेरिका में कृत्रिम बुद्धिमत्ता (AI) डेटा सेंटर बनाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए हैं। एरिक अपनी पत्नी लारा के साथ 13 से 15 तारीख तक राष्ट्रपति ट्रंप की चीन राजकीय यात्रा में शामिल हुए। 13 तारीख को फाइनेंशियल टाइम्स के अनुसार, दोनों पक्ष आगे की संभावित साझेदारी की समीक्षा के लिए 90 दिनों की ड्यू डिलिजेंस प्रक्रिया करेंगे। AI डेटा सेंटर के लिए बड़े पैमाने की बिजली अवसंरचना चाहिए और यह अमेरिका-चीन तकनीकी वर्चस्व प्रतिस्पर्धा का प्रमुख रणनीतिक क्षेत्र है। विवाद इसलिए बढ़ रहा है क्योंकि Alt5 Sigma का ट्रंप परिवार के स्वामित्व वाली क्रिप्टोकरेंसी कंपनी World Liberty Financial (WLF) से करीबी संबंध है, जिससे पारिवारिक कारोबार और राष्ट्रीय विदेश नीति के बीच हितों के टकराव पर सवाल उठ रहे हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Fintech Terkait Putra Trump Gandeng Perusahaan Chip China untuk Data Center AI",
-        "excerpt": "Alt5 Sigma yang terkait Eric Trump menandatangani MOU dengan Nano Labs China untuk membangun data center AI di AS, memicu isu konflik kepentingan.",
-        "body": "Alt5 Sigma, perusahaan fintech Amerika Serikat yang terkait dengan Eric Trump, putra kedua Presiden Donald Trump, dilaporkan menandatangani nota kesepahaman dengan produsen semikonduktor China Nano Labs untuk membangun data center kecerdasan buatan (AI) di Amerika Serikat. Eric mendampingi Presiden Trump dalam kunjungan kenegaraan ke China pada 13 hingga 15 bersama istrinya, Lara. Menurut Financial Times pada tanggal 13, kedua pihak akan melakukan uji tuntas selama 90 hari untuk menilai kemungkinan kerja sama lanjutan. Data center AI membutuhkan infrastruktur listrik berskala besar dan menjadi sektor strategis utama dalam persaingan teknologi AS-China. Kontroversi meningkat karena Alt5 Sigma memiliki hubungan erat dengan World Liberty Financial, perusahaan kripto milik keluarga Trump, sehingga muncul kritik bahwa bisnis keluarga bersinggungan dengan kebijakan luar negeri negara. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8a518b45fca4",
-    "slug": "주차-힘든-인천공항-직원-정기권-3만장-남발-643641",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T00:01:25.566Z",
-    "updatedAt": "2026-05-15T00:01:25.566Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133927323/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133927323/2",
-    "titleFingerprint": "6eb0cbce361f703b725bead41f500be980626a13",
-    "dedupKeys": [
-      "8a518b45fca40eaf00070e457caca045e06cb72d",
-      "6eb0cbce361f703b725bead41f500be980626a13",
-      "0d45529ca8f9bf2854ad7dddcf81d3aacbe200b9"
-    ],
-    "imageUrl": "/images/articles/8a518b45fca4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천공항 주차난 속 직원 정기권 3만1265건 발급, 전체 면수 84.5% 달해",
-        "excerpt": "국토교통부는 14일 인천국제공항공사가 직원 정기주차권 3만1265건을 한도 없이 발급해 공항 주차난 우려를 키운 감사 결과를 발표했다.",
-        "body": "국토교통부는 14일 인천국제공항공사의 직원 주차제도 감사 결과를 발표하며, 공사와 자회사 직원에게 유·무료 정기주차권 3만1265건이 발급된 사실을 확인했다고 밝혔다. 이는 인천공항 전체 장·단기 주차장 3만6971면의 84.5%에 해당한다. 감사 결과 공사는 별도 한도 없이 직원 정기주차권을 발급해 왔고, 비상주 근무자에게 공항 이용객 선호도가 높은 여객터미널 단기 주차장 무료권이 제공된 사례도 있었다. 무료 주차권이 출퇴근 목적이 아닌 개인 연가나 점심식사 등 사적으로 사용된 점도 드러났다. 지난해 연가 중 주차장 이용은 1220건, 면제 요금은 7900만 원이었고, 점심시간 터미널 음식점 이용 의심 사례는 4302건, 면제 요금은 520만 원이었다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Incheon Airport Parking Strain: 31,265 Employee Passes Equal 84.5% of Spaces",
-        "excerpt": "South Korea’s transport ministry said on May 14 that Incheon International Airport Corp. issued 31,265 employee parking passes without a cap, raising concerns over airport parking access.",
-        "body": "South Korea’s Ministry of Land, Infrastructure and Transport announced on May 14 audit findings on Incheon International Airport Corp.’s employee parking system, confirming that 31,265 paid and free regular parking passes had been issued to employees of the corporation and its subsidiaries. The figure equals 84.5% of the airport’s 36,971 long- and short-term parking spaces. The audit found that the corporation had issued employee passes without a set limit. It also found cases in which non-resident workers received free passes for short-term passenger terminal parking, an area highly preferred by airport users. Free passes were also used for private purposes such as annual leave and lunch, rather than commuting. Last year, employees used airport parking during leave in 1,220 cases, with waived fees totaling 79 million won. Suspected lunchtime restaurant-use parking reached 4,302 cases, with 5.2 million won waived. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "仁川空港の駐車難の中、職員定期券3万1265件発給で全体の84.5％",
-        "excerpt": "韓国国土交通部は14日、仁川国際空港公社が職員向け定期駐車券3万1265件を上限なく発給していたとの監査結果を発表した。",
-        "body": "韓国国土交通部は14日、仁川国際空港公社の職員駐車制度に関する監査結果を発表し、公社と子会社の職員に有料・無料の定期駐車券3万1265件が発給されていたことを確認したと明らかにした。これは仁川空港全体の長期・短期駐車場3万6971面の84.5％に当たる。監査では、公社が職員向け定期駐車券を上限なく発給していたことが分かった。非常駐勤務者に、空港利用客の需要が高い旅客ターミナル短期駐車場の無料券が支給された事例もあった。無料駐車券が通勤目的ではなく、個人の年次休暇や昼食など私的に使われた点も確認された。昨年、休暇中の駐車場利用は1220件、免除料金は7900万ウォンで、昼食時間にターミナル内飲食店利用目的と疑われる駐車は4302件、免除料金は520万ウォンだった。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "仁川机场停车紧张下员工月票发放31265张，占车位总数84.5%",
-        "excerpt": "韩国国土交通部14日公布审计结果称，仁川国际机场公社无限额发放员工定期停车券31265张，引发停车资源使用争议。",
-        "body": "韩国国土交通部14日公布仁川国际机场公社员工停车制度审计结果，确认公社及其子公司员工共获发收费和免费定期停车券31265张。该数量相当于仁川机场全部长期、短期停车场36971个车位的84.5%。审计发现，公社一直在没有额度限制的情况下向员工发放定期停车券。还有非驻场工作人员获得旅客偏好度最高的航站楼短期停车场免费停车券的情况。免费停车券未按原本通勤用途使用，而是被用于个人年假、午餐等私人目的。去年公社及子公司员工在年假期间使用机场停车场1220次，免除费用7900万韩元；疑似午餐时间为使用航站楼餐厅而停车的案例为4302次，免除费用520万韩元。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Aeropuerto de Incheon: 31.265 pases de empleados equivalen al 84,5% de plazas",
-        "excerpt": "El Ministerio de Transporte surcoreano informó el 14 de mayo que Incheon International Airport Corp. emitió 31.265 pases de estacionamiento para empleados sin límite definido.",
-        "body": "El Ministerio de Tierra, Infraestructura y Transporte de Corea del Sur publicó el 14 de mayo los resultados de una auditoría sobre el sistema de estacionamiento para empleados de Incheon International Airport Corp. y confirmó que se emitieron 31.265 pases regulares, gratuitos y de pago, para empleados de la corporación y sus filiales. La cifra equivale al 84,5% de las 36.971 plazas de estacionamiento de corto y largo plazo del aeropuerto. La auditoría determinó que la empresa emitía pases sin un límite establecido. También hubo casos en los que trabajadores no residentes recibieron pases gratuitos para el estacionamiento de corto plazo de las terminales, muy preferido por los usuarios. Además, se comprobó que algunos pases gratuitos se usaron para fines privados, como vacaciones anuales y almuerzos. El año pasado hubo 1.220 usos durante vacaciones, con 79 millones de wones exentos, y 4.302 casos sospechosos vinculados a almuerzos, con 5,2 millones de wones exentos. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Aeroporto de Incheon: 31.265 passes de funcionários chegam a 84,5% das vagas",
-        "excerpt": "O Ministério dos Transportes da Coreia do Sul informou em 14 de maio que a Incheon International Airport Corp. emitiu 31.265 passes de estacionamento para funcionários sem limite.",
-        "body": "O Ministério da Terra, Infraestrutura e Transportes da Coreia do Sul divulgou em 14 de maio os resultados de uma auditoria sobre o sistema de estacionamento de funcionários da Incheon International Airport Corp. e confirmou a emissão de 31.265 passes regulares, pagos e gratuitos, para empregados da empresa e de suas subsidiárias. O total corresponde a 84,5% das 36.971 vagas de estacionamento de curta e longa permanência do aeroporto. A auditoria apontou que a companhia emitia passes sem um limite definido. Também foram encontrados casos em que trabalhadores não residentes receberam passes gratuitos para o estacionamento de curta permanência dos terminais de passageiros, área mais procurada pelos usuários. Os passes gratuitos ainda foram usados para fins privados, como férias anuais e almoço. No ano passado, houve 1.220 usos durante férias, com 79 milhões de won isentos, e 4.302 casos suspeitos ligados a almoço, com 5,2 milhões de won isentos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Incheon Airport: 31.265 Mitarbeiter-Parktickets entsprechen 84,5% der Stellplätze",
-        "excerpt": "Südkoreas Verkehrsministerium teilte am 14. Mai mit, dass Incheon International Airport Corp. 31.265 Mitarbeiter-Parkausweise ohne festes Limit ausgegeben hatte.",
-        "body": "Das südkoreanische Ministerium für Land, Infrastruktur und Verkehr veröffentlichte am 14. Mai die Ergebnisse einer Prüfung des Mitarbeiterparksystems der Incheon International Airport Corp. Demnach wurden an Beschäftigte des Unternehmens und seiner Tochtergesellschaften 31.265 kostenpflichtige und kostenlose Dauerparkausweise ausgegeben. Das entspricht 84,5% der 36.971 Kurz- und Langzeitstellplätze des Flughafens. Die Prüfung ergab, dass das Unternehmen die Ausweise ohne festgelegte Obergrenze ausgab. Zudem erhielten auch nicht dauerhaft am Flughafen tätige Beschäftigte kostenlose Ausweise für Kurzzeitparkplätze an den Passagierterminals, die bei Reisenden besonders gefragt sind. Kostenlose Ausweise wurden außerdem nicht nur zum Pendeln, sondern privat genutzt, etwa während Jahresurlaub oder zum Mittagessen. Im Vorjahr gab es 1.220 Parkvorgänge während Urlaubstagen mit erlassenen Gebühren von 79 Mio. Won sowie 4.302 Verdachtsfälle zur Mittagszeit mit 5,2 Mio. Won Erlass. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Aéroport d’Incheon : 31 265 badges employés, soit 84,5 % des places disponibles",
-        "excerpt": "Le ministère sud-coréen des Transports a annoncé le 14 mai que l’exploitant de l’aéroport d’Incheon avait délivré 31 265 abonnements de stationnement employés sans plafond.",
-        "body": "Le ministère sud-coréen du Territoire, des Infrastructures et des Transports a publié le 14 mai les résultats d’un audit sur le système de stationnement des employés d’Incheon International Airport Corp. Il a confirmé que 31 265 abonnements réguliers, gratuits ou payants, avaient été délivrés aux employés de la société et de ses filiales. Ce total représente 84,5 % des 36 971 places de stationnement courte et longue durée de l’aéroport. L’audit a établi que l’entreprise délivrait ces abonnements sans limite définie. Des travailleurs non permanents ont aussi reçu des badges gratuits pour les parkings courte durée des terminaux passagers, très prisés des usagers. Des badges gratuits ont également été utilisés à des fins privées, notamment pendant des congés annuels ou pour déjeuner. L’an dernier, 1 220 utilisations pendant des congés ont entraîné 79 millions de wons de frais exonérés, et 4 302 cas suspects à l’heure du déjeuner ont représenté 5,2 millions de wons exonérés. Source : rss.donga.com"
-      },
-      "ar": {
-        "title": "مطار إنتشون تحت ضغط المواقف: 31,265 تصريحا للموظفين تعادل 84.5% من السعة",
-        "excerpt": "أعلنت وزارة النقل الكورية الجنوبية في 14 مايو أن شركة مطار إنتشون الدولي أصدرت 31,265 تصريحا دوريا لمواقف الموظفين من دون سقف محدد.",
-        "body": "أعلنت وزارة الأراضي والبنية التحتية والنقل في كوريا الجنوبية في 14 مايو نتائج تدقيق في نظام مواقف الموظفين لدى شركة مطار إنتشون الدولي، مؤكدة إصدار 31,265 تصريحا دوريا مدفوعا ومجانيا لموظفي الشركة وشركاتها التابعة. ويعادل هذا الرقم 84.5% من إجمالي 36,971 موقفا قصير وطويل الأجل في المطار. وخلص التدقيق إلى أن الشركة أصدرت تصاريح الموظفين من دون حد أقصى. كما وُجدت حالات حصل فيها عاملون غير مقيمين في المطار على تصاريح مجانية لمواقف قصيرة الأجل عند مباني الركاب، وهي الأكثر تفضيلا لدى مستخدمي المطار. وتبين أيضا أن التصاريح المجانية استُخدمت لأغراض خاصة مثل الإجازات السنوية وتناول الغداء، لا للتنقل إلى العمل فقط. وفي العام الماضي سُجلت 1,220 حالة استخدام أثناء الإجازات مع إعفاءات بلغت 79 مليون وون، و4,302 حالة مشتبه بها وقت الغداء مع إعفاءات بلغت 5.2 مليون وون. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "इंचियोन एयरपोर्ट पार्किंग संकट: कर्मचारियों के 31,265 पास कुल जगहों के 84.5%",
-        "excerpt": "दक्षिण कोरिया के परिवहन मंत्रालय ने 14 मई को कहा कि इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. ने कर्मचारियों को 31,265 नियमित पार्किंग पास बिना सीमा के जारी किए।",
-        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्रालय ने 14 मई को इंचियोन इंटरनेशनल एयरपोर्ट कॉर्प. की कर्मचारी पार्किंग व्यवस्था पर ऑडिट के नतीजे जारी किए। मंत्रालय ने पुष्टि की कि कंपनी और उसकी सहायक कंपनियों के कर्मचारियों को 31,265 सशुल्क और मुफ्त नियमित पार्किंग पास जारी किए गए थे। यह संख्या एयरपोर्ट की कुल 36,971 लंबी और छोटी अवधि की पार्किंग जगहों के 84.5% के बराबर है। ऑडिट में पाया गया कि कंपनी कर्मचारियों को बिना किसी तय सीमा के पास जारी कर रही थी। गैर-स्थायी कर्मचारियों को भी यात्री टर्मिनल की छोटी अवधि वाली मुफ्त पार्किंग मिली, जिसे यात्रियों में अधिक पसंद किया जाता है। मुफ्त पासों का उपयोग केवल आवागमन के बजाय निजी वार्षिक अवकाश और दोपहर के भोजन जैसे निजी कामों में भी हुआ। पिछले साल अवकाश के दौरान पार्किंग उपयोग के 1,220 मामले थे, जिनमें 7.9 करोड़ वोन शुल्क माफ हुआ। दोपहर के भोजन से जुड़े संदिग्ध 4,302 मामलों में 52 लाख वोन माफ हुए। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Parkir Incheon Airport Tertekan: 31.265 Pas Pegawai Capai 84,5% Kapasitas",
-        "excerpt": "Kementerian Transportasi Korea Selatan pada 14 Mei menyatakan Incheon International Airport Corp. menerbitkan 31.265 pas parkir rutin pegawai tanpa batas kuota.",
-        "body": "Kementerian Pertanahan, Infrastruktur, dan Transportasi Korea Selatan pada 14 Mei mengumumkan hasil audit atas sistem parkir pegawai Incheon International Airport Corp. Audit memastikan bahwa 31.265 pas parkir rutin, baik berbayar maupun gratis, telah diterbitkan untuk pegawai perusahaan dan anak perusahaannya. Jumlah itu setara dengan 84,5% dari total 36.971 ruang parkir jangka pendek dan panjang di bandara. Audit menemukan bahwa perusahaan menerbitkan pas pegawai tanpa batas kuota. Ada pula kasus pekerja nonresiden menerima pas gratis untuk parkir jangka pendek terminal penumpang, area yang paling diminati pengguna bandara. Pas gratis juga digunakan untuk kepentingan pribadi, seperti cuti tahunan dan makan siang, bukan hanya untuk perjalanan kerja. Tahun lalu, penggunaan parkir saat cuti tercatat 1.220 kasus dengan pembebasan biaya 79 juta won. Kasus yang diduga terkait makan siang di restoran terminal mencapai 4.302, dengan pembebasan biaya 5,2 juta won. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "5034f0365427",
-    "slug": "세입자-안전-지킨다직방-지킴-ai-진단-호평-776910",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T00:00:05.877Z",
-    "updatedAt": "2026-05-15T00:00:05.877Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051579996",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051579996",
-    "titleFingerprint": "f8b8c8b6d114493c5ab9f737c2e51817f53fb324",
-    "dedupKeys": [
-      "5034f03654274e6f2582e84682d3ee4067f0dd82",
-      "f8b8c8b6d114493c5ab9f737c2e51817f53fb324",
-      "8799b9b97d3070749ccedc28ba4c015b3d3566d4"
-    ],
-    "imageUrl": "/images/articles/5034f0365427.jpg",
-    "i18n": {
-      "ko": {
-        "title": "직방 지킴 AI 진단, 세입자 계약 전 위험 점검 서비스로 주거 안전 돕는다",
-        "excerpt": "직방은 2026년 4월 17일 부동산 계약 전 주소 입력만으로 권리관계와 주변 환경 위험을 AI가 분석하는 ‘지킴진단’ 리포트 서비스를 출시해 세입자 안전 강화에 나섰다.",
-        "body": "직방은 2026년 4월 17일 부동산 계약 전 주소를 입력하면 인공지능(AI)이 매물의 권리관계와 주변 환경 리스크를 점검해주는 ‘지킴진단’ 리포트 서비스를 출시했다고 밝혔다. 이 서비스는 단순 매물 검색을 넘어 계약 단계에서 발생할 수 있는 정보 격차를 줄이는 데 초점을 맞췄다. 직방은 실제 성사된 계약 사례와 검토 단계에서 중단된 사례 등 수만 건의 실전 노하우, 판례를 반영해 분석 정확도를 높였다고 설명했다. 주변 범죄 이력과 성범죄자 거주 여부 등 치안 데이터도 연동해 1인 가구와 자녀가 있는 가구의 주거 안전 판단에 도움을 줄 전망이다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Zigbang’s Jikim AI Diagnosis gains attention for checking tenant risks before contracts",
-        "excerpt": "On April 17, 2026, Zigbang launched Jikim Diagnosis, an AI report service that reviews property rights and neighborhood risks from an address before a real estate contract.",
-        "body": "Zigbang said on April 17, 2026, that it had launched Jikim Diagnosis, a report service that uses artificial intelligence to check a property’s rights status and surrounding environmental risks when users enter an address before signing a real estate contract. The service focuses on reducing information gaps that can arise at the contract stage, moving beyond simple property search. Zigbang explained that the analysis reflects tens of thousands of practical cases, including completed contracts and deals halted during review, as well as relevant precedents. It also links security data such as nearby crime records and sex offender residence information, which may help single-person households and families with children assess residential safety. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "直房のジキムAI診断、契約前リスク点検で入居者の安全判断を支援",
-        "excerpt": "直房は2026年4月17日、不動産契約前に住所を入力するだけで権利関係と周辺環境リスクをAIが分析する「ジキム診断」リポートサービスを開始した。",
-        "body": "直房は2026年4月17日、不動産契約前に住所を入力すると、人工知能（AI）が物件の権利関係と周辺環境リスクを点検する「ジキム診断」リポートサービスを開始したと明らかにした。このサービスは単なる物件検索を超え、契約段階で生じ得る情報格差を縮小することに重点を置く。直房は、実際に成立した契約事例や検討段階で中断された事例など数万件の実務ノウハウ、判例を反映し、分析精度を高めたと説明した。周辺の犯罪履歴や性犯罪者の居住有無など治安データも連動し、単身世帯や子どものいる世帯の住居安全判断に役立つ見通しだ。出典：hankyung.com引用。"
-      },
-      "zh": {
-        "title": "直房Jikim AI诊断上线，合同前风险核查助力租客居住安全",
-        "excerpt": "直房于2026年4月17日推出“Jikim诊断”报告服务，用户在签订房地产合同前输入地址，即可由AI分析权利关系和周边环境风险。",
-        "body": "直房表示，已于2026年4月17日推出“Jikim诊断”报告服务。用户在签订房地产合同前输入地址后，人工智能（AI）会检查房源的权利关系和周边环境风险。该服务不只停留在房源搜索，而是聚焦于减少合同阶段可能出现的信息差。直房说明，分析结果反映了数万件实务经验，包括实际成交案例和在审查阶段中止的案例，并结合相关判例以提高分析准确度。服务还联动周边犯罪记录、性犯罪者居住情况等治安数据，预计可帮助独居家庭和有子女家庭判断居住安全。来源：引用hankyung.com。"
-      },
-      "es": {
-        "title": "Jikim AI Diagnosis de Zigbang revisa riesgos antes del contrato para proteger a inquilinos",
-        "excerpt": "Zigbang lanzó el 17 de abril de 2026 Jikim Diagnosis, un informe que usa IA para analizar derechos del inmueble y riesgos del entorno con solo ingresar una dirección.",
-        "body": "Zigbang informó que el 17 de abril de 2026 lanzó Jikim Diagnosis, un servicio de informes que permite introducir una dirección antes de firmar un contrato inmobiliario para que la inteligencia artificial revise la situación de derechos del inmueble y los riesgos del entorno. El servicio busca reducir la brecha de información que puede aparecer en la etapa contractual, más allá de la simple búsqueda de propiedades. La compañía explicó que el análisis incorpora decenas de miles de experiencias prácticas, incluidos contratos cerrados y casos detenidos durante la revisión, además de precedentes legales. También conecta datos de seguridad como antecedentes de delitos cercanos y residencia de delincuentes sexuales, lo que puede ayudar a hogares unipersonales y familias con hijos a evaluar la seguridad residencial. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Jikim AI Diagnosis da Zigbang verifica riscos antes do contrato e apoia inquilinos",
-        "excerpt": "A Zigbang lançou em 17 de abril de 2026 o Jikim Diagnosis, relatório que usa IA para analisar direitos do imóvel e riscos do entorno a partir de um endereço.",
-        "body": "A Zigbang informou que lançou em 17 de abril de 2026 o Jikim Diagnosis, serviço de relatório que permite inserir um endereço antes de assinar um contrato imobiliário para que a inteligência artificial verifique a situação de direitos do imóvel e os riscos do ambiente ao redor. O serviço busca reduzir lacunas de informação na etapa contratual, indo além da simples busca de imóveis. A empresa explicou que a análise reflete dezenas de milhares de experiências práticas, incluindo contratos concluídos e casos interrompidos durante a revisão, além de precedentes legais. O sistema também integra dados de segurança, como histórico de crimes próximos e residência de criminosos sexuais, ajudando lares de uma pessoa e famílias com filhos a avaliar a segurança residencial. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Zigbangs Jikim AI Diagnosis prüft Mietrisiken vor Vertragsabschluss und stärkt Sicherheit",
-        "excerpt": "Zigbang startete am 17. April 2026 Jikim Diagnosis, einen KI-Bericht, der vor Immobilienverträgen Rechte am Objekt und Umgebungsrisiken per Adresse analysiert.",
-        "body": "Zigbang teilte mit, am 17. April 2026 Jikim Diagnosis gestartet zu haben, einen Berichtsdienst, bei dem Nutzer vor Abschluss eines Immobilienvertrags eine Adresse eingeben und künstliche Intelligenz die Rechtsverhältnisse des Objekts sowie Risiken in der Umgebung prüft. Der Dienst zielt darauf, Informationslücken in der Vertragsphase zu verringern, und geht über die reine Immobiliensuche hinaus. Zigbang erklärte, die Analyse stütze sich auf zehntausende praktische Erfahrungen, darunter abgeschlossene Verträge und Fälle, die in der Prüfung gestoppt wurden, sowie auf einschlägige Präzedenzfälle. Auch Sicherheitsdaten wie Kriminalitätsverläufe in der Umgebung und Informationen zum Wohnsitz von Sexualstraftätern werden eingebunden, was Einpersonenhaushalten und Familien mit Kindern bei der Einschätzung der Wohnsicherheit helfen kann. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Jikim AI Diagnosis de Zigbang vérifie les risques avant contrat pour mieux protéger les locataires",
-        "excerpt": "Zigbang a lancé le 17 avril 2026 Jikim Diagnosis, un rapport utilisant l’IA pour analyser les droits liés au bien et les risques du quartier à partir d’une adresse.",
-        "body": "Zigbang a annoncé avoir lancé le 17 avril 2026 Jikim Diagnosis, un service de rapport qui permet, avant la signature d’un contrat immobilier, d’entrer une adresse afin que l’intelligence artificielle vérifie les droits liés au bien et les risques de l’environnement alentour. Le service vise à réduire les écarts d’information pouvant apparaître au stade contractuel, au-delà de la simple recherche de biens. Zigbang explique que l’analyse reflète des dizaines de milliers d’expériences pratiques, dont des contrats conclus et des dossiers interrompus pendant l’examen, ainsi que des précédents juridiques. Des données de sécurité, comme les antécédents criminels à proximité et la présence de délinquants sexuels résidents, sont aussi reliées, ce qui peut aider les personnes seules et les familles avec enfants à évaluer la sécurité résidentielle. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "تشخيص Jikim AI من Zigbang يفحص مخاطر العقار قبل العقد لدعم سلامة المستأجرين",
-        "excerpt": "أطلقت Zigbang في 17 أبريل 2026 خدمة تقارير Jikim Diagnosis التي تستخدم الذكاء الاصطناعي لتحليل حقوق العقار ومخاطر البيئة المحيطة من خلال إدخال العنوان.",
-        "body": "قالت Zigbang إنها أطلقت في 17 أبريل 2026 خدمة تقارير Jikim Diagnosis، التي تتيح للمستخدم إدخال العنوان قبل توقيع عقد عقاري ليقوم الذكاء الاصطناعي بفحص وضع الحقوق المرتبطة بالعقار ومخاطر البيئة المحيطة. وتركز الخدمة على تقليص فجوة المعلومات التي قد تظهر في مرحلة التعاقد، بما يتجاوز البحث البسيط عن العقارات. وأوضحت Zigbang أن التحليل يعكس عشرات الآلاف من الخبرات العملية، بما في ذلك عقود تمت فعليا وحالات توقفت في مرحلة المراجعة، إلى جانب سوابق قضائية. كما تربط الخدمة بيانات أمنية مثل سجل الجرائم القريبة ومعلومات إقامة مرتكبي الجرائم الجنسية، ما قد يساعد الأسر المكونة من شخص واحد والأسر التي لديها أطفال على تقييم سلامة السكن. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "Zigbang का Jikim AI Diagnosis किरायेदारों के लिए अनुबंध से पहले जोखिम जांचता है",
-        "excerpt": "Zigbang ने 17 अप्रैल 2026 को Jikim Diagnosis सेवा शुरू की, जिसमें पता दर्ज करने पर AI रियल एस्टेट अनुबंध से पहले संपत्ति अधिकार और आसपास के जोखिमों का विश्लेषण करता है।",
-        "body": "Zigbang ने बताया कि उसने 17 अप्रैल 2026 को Jikim Diagnosis नामक रिपोर्ट सेवा शुरू की है। इसमें उपयोगकर्ता रियल एस्टेट अनुबंध पर हस्ताक्षर करने से पहले पता दर्ज करते हैं और कृत्रिम बुद्धिमत्ता संपत्ति के अधिकार संबंधी स्थिति तथा आसपास के पर्यावरणीय जोखिमों की जांच करती है। यह सेवा केवल संपत्ति खोज तक सीमित नहीं है, बल्कि अनुबंध चरण में पैदा हो सकने वाली सूचना असमानता को कम करने पर केंद्रित है। Zigbang के अनुसार, विश्लेषण में पूरे हुए अनुबंधों और समीक्षा चरण में रुके मामलों सहित हजारों व्यावहारिक अनुभवों तथा संबंधित न्यायिक उदाहरणों को शामिल किया गया है। सेवा आसपास के अपराध रिकॉर्ड और यौन अपराधियों के निवास जैसी सुरक्षा जानकारी भी जोड़ती है, जिससे अकेले रहने वाले लोगों और बच्चों वाले परिवारों को आवासीय सुरक्षा का आकलन करने में मदद मिल सकती है। स्रोत: hankyung.com से उद्धृत."
-      },
-      "id": {
-        "title": "Jikim AI Diagnosis Zigbang cek risiko sebelum kontrak untuk bantu keamanan penyewa",
-        "excerpt": "Zigbang meluncurkan Jikim Diagnosis pada 17 April 2026, layanan laporan berbasis AI yang menganalisis hak properti dan risiko lingkungan dari alamat sebelum kontrak real estat.",
-        "body": "Zigbang menyatakan pada 17 April 2026 bahwa mereka meluncurkan Jikim Diagnosis, layanan laporan yang memungkinkan pengguna memasukkan alamat sebelum menandatangani kontrak real estat agar kecerdasan buatan memeriksa hubungan hak atas properti dan risiko lingkungan sekitar. Layanan ini berfokus mengurangi kesenjangan informasi yang dapat muncul pada tahap kontrak, melampaui pencarian properti biasa. Zigbang menjelaskan bahwa analisisnya mencerminkan puluhan ribu pengalaman praktis, termasuk kontrak yang benar-benar selesai dan kasus yang dihentikan pada tahap peninjauan, serta preseden hukum terkait. Data keamanan seperti riwayat kejahatan di sekitar dan keberadaan tempat tinggal pelaku kejahatan seksual juga dihubungkan, sehingga dapat membantu rumah tangga satu orang dan keluarga dengan anak menilai keamanan hunian. Sumber: dikutip dari hankyung.com."
       }
     }
   }
