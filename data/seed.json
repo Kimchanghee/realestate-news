@@ -1,5 +1,230 @@
 [
   {
+    "id": "99fd71988b69",
+    "slug": "스스로-차선-바꾸면-불법-규제-탓-직진밖에-못하는-k자율주행-643784",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:17:34.969Z",
+    "updatedAt": "2026-05-15T18:17:34.969Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933992/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933992/2",
+    "titleFingerprint": "ebfeb8ade8cd53c1ad8251668bde1a74091e2fee",
+    "dedupKeys": [
+      "99fd71988b69c6fe3ec35712b9327579b372c01f",
+      "ebfeb8ade8cd53c1ad8251668bde1a74091e2fee",
+      "697b7b3ec4de740756542485581c6029c778bc35"
+    ],
+    "imageUrl": "/images/articles/99fd71988b69.jpg",
+    "i18n": {
+      "ko": {
+        "title": "자율주행 규제 장벽에 막힌 K자율주행, 레벨4 셔틀도 청계천 4.8km에 갇혔다",
+        "excerpt": "한국 자율주행 스타트업 오토노머스에이투지의 레벨4 셔틀 ‘로이’가 공공도로 허가 제한으로 청계천 4.8km 구간에 머물며 규제 장벽이 기술 격차의 원인으로 지목됐다.",
+        "body": "자율주행 스타트업 오토노머스에이투지의 8인승 자율주행 셔틀 ‘로이’는 운전자가 탑승하지 않는 레벨4 차량이지만, 서울 청계천 청계광장부터 청계5가 광장시장 인근까지 4.8km 구간 밖에서는 보기 어렵다. 공공 도로 운행 허가가 제한돼 있기 때문이다. 원문은 한국 자율주행 기업 전체의 누적 자율주행 거리가 1306만 km에 그쳐, 자율주행 데이터 160억 km가 쌓인 미국 테슬라와 큰 차이를 보인다고 전했다. 자율주행차가 달릴 수 있는 구간이 적고, 여러 법령에 흩어진 조건을 모두 충족해야 운행할 수 있다는 점도 부담이다. 기술 발전 속도를 따라가지 못하는 제도가 K자율주행의 실증과 데이터 축적을 늦추는 요인으로 거론된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Regulatory barriers trap Korea’s autonomous driving, with Level 4 shuttle limited to 4.8 km",
+        "excerpt": "Autonomous a2z’s Level 4 shuttle Roi remains largely confined to a 4.8 km Cheonggyecheon route in Seoul, as public-road approval limits are cited as a key barrier widening Korea’s autonomous-driving gap.",
+        "body": "Autonomous-driving startup Autonomous a2z operates Roi, an eight-seat Level 4 shuttle supervised remotely without a driver on board, but the vehicle is rarely seen beyond a 4.8 km route from Cheonggye Plaza to the area near Gwangjang Market at Cheonggye 5-ga in Seoul. The reason is that it has not been broadly approved to run on public roads. The original report said all Korean autonomous-driving companies combined have logged only 13.06 million km of autonomous driving, far behind Tesla in the United States, which has accumulated 16 billion km of data. Limited test routes and requirements scattered across multiple laws make operation difficult unless every condition is met. Regulations that lag technology are being cited as a factor slowing Korea’s testing and data accumulation. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "規制の壁に阻まれる韓国自動運転、レベル4シャトルも清渓川4.8kmに限定",
+        "excerpt": "韓国の自動運転スタートアップAutonomous a2zのレベル4シャトル「Roi」は、公道走行許可の制限によりソウル清渓川4.8km区間に事実上とどまっている。",
+        "body": "自動運転スタートアップAutonomous a2zの8人乗り自動運転シャトル「Roi」は、運転者が乗車せず遠隔監督で走るレベル4車両だが、ソウルの清渓広場から清渓5街・広蔵市場付近までの4.8km区間以外ではほとんど見られない。公道での走行許可が限られているためだ。原文は、韓国の自動運転企業全体の累積自動運転距離が1306万kmにとどまり、160億kmのデータを蓄積した米テスラとの差が大きいと伝えた。走行可能区間が少なく、複数の法令に分散した条件をすべて満たさなければ運行できない点も負担となる。技術の進展に制度が追いつかず、韓国自動運転の実証とデータ蓄積を遅らせている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "自动驾驶监管壁垒困住韩国技术，L4接驳车也被限制在清溪川4.8公里",
+        "excerpt": "韩国自动驾驶初创企业Autonomous a2z的L4接驳车Roi因公共道路许可受限，主要停留在首尔清溪川4.8公里区间，监管壁垒被指拉大技术差距。",
+        "body": "自动驾驶初创企业Autonomous a2z的8座自动驾驶接驳车Roi，是车内无驾驶员、由远程监督的L4级自动驾驶车辆。但在首尔清溪川清溪广场至清溪5街广藏市场附近的4.8公里区间之外，很难看到它的身影，原因是公共道路行驶许可受到限制。原文称，韩国所有自动驾驶企业累计自动驾驶里程合计仅1306万公里，而美国特斯拉已积累160亿公里自动驾驶数据，差距明显。可行驶区间少，且分散在多项法规中的条件必须全部满足，才能上路运行。未能跟上技术发展速度的制度，被认为正在拖慢韩国自动驾驶的实证和数据积累。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Las barreras regulatorias frenan la conducción autónoma coreana y limitan un shuttle L4 a 4,8 km",
+        "excerpt": "El shuttle Roi de nivel 4 de Autonomous a2z, startup surcoreana de conducción autónoma, permanece casi limitado a 4,8 km en Cheonggyecheon por restricciones de autorización en vías públicas.",
+        "body": "El shuttle autónomo Roi, de ocho plazas y desarrollado por la startup Autonomous a2z, es un vehículo de nivel 4 que circula sin conductor a bordo bajo supervisión remota. Sin embargo, apenas se ve fuera del tramo de 4,8 km entre Cheonggye Plaza y la zona cercana al mercado Gwangjang, en Cheonggye 5-ga, Seúl. La razón es que no cuenta con autorización amplia para circular por vías públicas. El texto original señala que todas las empresas coreanas de conducción autónoma suman solo 13,06 millones de km acumulados, frente a los 16.000 millones de km de datos de Tesla en Estados Unidos. Los tramos permitidos son escasos y las condiciones están dispersas en varias leyes, lo que impide operar si no se cumplen todas. La regulación rezagada frente a la tecnología se cita como un factor que ralentiza las pruebas y la acumulación de datos en Corea. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Barreiras regulatórias travam direção autônoma coreana e limitam shuttle L4 a 4,8 km",
+        "excerpt": "O shuttle Roi, de nível 4, da startup sul-coreana Autonomous a2z, fica quase restrito a um trecho de 4,8 km em Cheonggyecheon devido a limites de autorização em vias públicas.",
+        "body": "O Roi, shuttle autônomo de oito lugares da startup Autonomous a2z, é um veículo de nível 4 que opera sem motorista a bordo, com supervisão remota. Mesmo assim, é difícil vê-lo fora do trecho de 4,8 km entre a Cheonggye Plaza e a área próxima ao mercado Gwangjang, em Cheonggye 5-ga, Seul. O motivo é a limitação da autorização para circular em vias públicas. O texto original informa que todas as empresas coreanas de direção autônoma somam apenas 13,06 milhões de km acumulados, contra 16 bilhões de km de dados da Tesla nos Estados Unidos. Há poucos trechos liberados e as condições estão espalhadas por várias leis, exigindo cumprimento integral para operar. Regras que não acompanham a tecnologia são apontadas como fator que atrasa testes e acúmulo de dados na Coreia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Regulierung bremst Koreas autonomes Fahren, Level-4-Shuttle bleibt auf 4,8 km begrenzt",
+        "excerpt": "Der Level-4-Shuttle Roi des koreanischen Start-ups Autonomous a2z fährt wegen begrenzter Genehmigungen für öffentliche Straßen fast nur auf 4,8 km entlang des Cheonggyecheon in Seoul.",
+        "body": "Der achtplätzige autonome Shuttle Roi des Start-ups Autonomous a2z ist ein Level-4-Fahrzeug, das ohne Fahrer an Bord und unter Fernaufsicht fährt. Außerhalb der 4,8 km langen Strecke vom Cheonggye Plaza bis in die Nähe des Gwangjang-Markts bei Cheonggye 5-ga in Seoul ist er jedoch kaum zu sehen. Grund ist die eingeschränkte Genehmigung für den Betrieb auf öffentlichen Straßen. Der Originalbericht nennt für alle koreanischen Unternehmen zusammen nur 13,06 Millionen km kumulierte autonome Fahrleistung, während Tesla in den USA 16 Milliarden km Daten gesammelt hat. Wenige zugelassene Strecken und über mehrere Gesetze verteilte Bedingungen erschweren den Betrieb, wenn nicht alle Vorgaben erfüllt sind. Regeln, die der Technologie hinterherlaufen, gelten als Faktor, der Tests und Datensammlung in Korea verlangsamt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les règles freinent la conduite autonome coréenne, un shuttle L4 limité à 4,8 km",
+        "excerpt": "Le shuttle Roi de niveau 4 d’Autonomous a2z, startup sud-coréenne de conduite autonome, reste presque cantonné à 4,8 km le long de Cheonggyecheon faute d’autorisations larges sur voie publique.",
+        "body": "Le shuttle autonome Roi, huit places, développé par la startup Autonomous a2z, est un véhicule de niveau 4 circulant sans conducteur à bord sous supervision à distance. Pourtant, on le voit rarement hors du trajet de 4,8 km entre Cheonggye Plaza et les environs du marché de Gwangjang, à Cheonggye 5-ga, Séoul. La raison tient aux limites d’autorisation de circulation sur les routes publiques. Le texte original indique que toutes les entreprises coréennes de conduite autonome totalisent seulement 13,06 millions de km parcourus, contre 16 milliards de km de données accumulées par Tesla aux États-Unis. Les zones autorisées sont peu nombreuses et les conditions dispersées dans plusieurs textes doivent toutes être remplies pour opérer. Ce cadre en retard sur la technologie est cité comme un frein aux essais et à l’accumulation de données en Corée. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "القيود التنظيمية تكبح القيادة الذاتية الكورية وتحصر حافلة مستوى 4 في 4.8 كم",
+        "excerpt": "حافلة Roi ذاتية القيادة من المستوى الرابع التابعة لشركة Autonomous a2z الكورية تبقى غالبا ضمن مسار 4.8 كم في تشونغيتشيون بسيول بسبب قيود ترخيص الطرق العامة.",
+        "body": "حافلة Roi ذاتية القيادة ذات الثمانية مقاعد، التي طورتها شركة Autonomous a2z الناشئة، هي مركبة من المستوى الرابع تعمل من دون سائق داخلها وتخضع لإشراف عن بعد. لكنها نادرا ما تظهر خارج مسار يبلغ 4.8 كم من ساحة تشونغيه إلى المنطقة القريبة من سوق غوانغجانغ عند تشونغيه 5-غا في سيول. والسبب هو محدودية السماح لها بالسير على الطرق العامة. وذكر النص الأصلي أن إجمالي المسافة التراكمية للقيادة الذاتية لدى جميع الشركات الكورية يبلغ 13.06 مليون كم فقط، مقارنة ببيانات قدرها 16 مليار كم لدى تسلا في الولايات المتحدة. كما أن قلة المقاطع المسموح بها وتوزع الشروط بين عدة قوانين يجعلان التشغيل ممكنا فقط عند استيفاء كل المتطلبات. وتعد اللوائح التي لا تواكب تطور التقنية عاملا يبطئ الاختبارات وجمع البيانات في كوريا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "नियमों की दीवार से रुकी कोरिया की स्वचालित ड्राइविंग, L4 शटल 4.8 किमी में सीमित",
+        "excerpt": "दक्षिण कोरियाई स्टार्टअप Autonomous a2z की लेवल 4 शटल Roi सार्वजनिक सड़कों की अनुमति सीमित होने से सियोल के Cheonggyecheon में 4.8 किमी मार्ग तक लगभग सीमित है।",
+        "body": "स्वचालित ड्राइविंग स्टार्टअप Autonomous a2z की आठ सीटों वाली शटल Roi लेवल 4 वाहन है, जिसमें चालक सवार नहीं होता और निगरानी दूर से की जाती है। फिर भी यह सियोल में Cheonggye Plaza से Cheonggye 5-ga के Gwangjang Market क्षेत्र तक 4.8 किमी मार्ग के बाहर मुश्किल से दिखती है। वजह सार्वजनिक सड़कों पर चलने की सीमित अनुमति है। मूल रिपोर्ट के अनुसार, सभी कोरियाई स्वचालित वाहन कंपनियों की कुल संचित स्वचालित ड्राइविंग दूरी केवल 1.306 करोड़ किमी है, जबकि अमेरिका की Tesla के पास 1600 करोड़ किमी डेटा है। चलने योग्य खंड कम हैं और कई कानूनों में बिखरी शर्तें पूरी किए बिना संचालन संभव नहीं। तकनीक की गति से पीछे नियम कोरिया में परीक्षण और डेटा संग्रह को धीमा करने वाला कारण बताए गए हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Regulasi hambat kendaraan otonom Korea, shuttle Level 4 pun terkurung di 4,8 km",
+        "excerpt": "Shuttle Level 4 Roi milik startup Korea Autonomous a2z hampir hanya beroperasi di rute 4,8 km Cheonggyecheon, Seoul, karena izin jalan umum terbatas dan regulasi dinilai menghambat pengumpulan data.",
+        "body": "Roi, shuttle otonom delapan kursi milik startup Autonomous a2z, adalah kendaraan Level 4 yang berjalan tanpa pengemudi di dalam mobil dan diawasi dari jarak jauh. Namun kendaraan ini sulit ditemukan di luar rute 4,8 km dari Cheonggye Plaza hingga area dekat Pasar Gwangjang di Cheonggye 5-ga, Seoul. Penyebabnya adalah izin operasi di jalan umum yang terbatas. Teks asli menyebut total jarak otonom seluruh perusahaan Korea baru 13,06 juta km, jauh dari Tesla di Amerika Serikat yang telah mengumpulkan data 16 miliar km. Ruas yang boleh dilalui sedikit, sementara syarat tersebar di berbagai aturan dan harus dipenuhi seluruhnya sebelum beroperasi. Regulasi yang tertinggal dari laju teknologi disebut memperlambat uji coba dan akumulasi data kendaraan otonom Korea. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "abe4b46aecc5",
+    "slug": "70세-법무사-합격-인생-가시밭-헤친-소년-번데기-장수은퇴-레시피-942766",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:16:24.435Z",
+    "updatedAt": "2026-05-15T18:16:24.435Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260515/133932973/2",
+    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260515/133932973/2",
+    "titleFingerprint": "f89c970923f15b506bdaf4192e529685becea3ee",
+    "dedupKeys": [
+      "abe4b46aecc5738f84587da77a85605a782fc2a3",
+      "f89c970923f15b506bdaf4192e529685becea3ee",
+      "baf18f80e0bf6019f1840ff293c2c2728d8902f6"
+    ],
+    "imageUrl": "/images/articles/abe4b46aecc5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "70세 법무사 합격 한상범 씨, 번데기 장수 소년의 늦은 도전",
+        "excerpt": "대전 노동자 가정에서 자라 중학교 진학을 포기했던 한상범 씨가 지난해 2월 70세 나이로 법무사 시험에 최종 합격하며 평생의 숙제를 마쳤다고 밝혔다.",
+        "body": "한상범 씨는 지난해 2월 70세의 나이로 법무사 시험에 최종 합격했다. 올해 71세인 그는 당시를 떠올리며 “오랫동안 지고 온 짐을 내려놓은 느낌”이었다고 말했다. 대전 도시 노동자 가정의 4남 2녀 중 셋째로 태어난 그는 초등학교 졸업 뒤 모 대학 시설에서 잔일을 하는 급사로 일했고, 신문배달과 번데기 장사도 했다. 초등학교 담임교사의 권유로 중학교 입학시험에 합격했지만 입학금을 마련하지 못해 진학을 포기했다. 대신 정규 중학교 진학이 어려운 학생에게 교과 과정을 가르치던 재건학교와 취업을 돕던 전수학교에 다녔다. 가난 속에서도 이어진 학업 의지가 늦은 나이의 자격시험 합격으로 이어진 사례다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Han Sang-beom Passes Judicial Scrivener Exam at 70 After Childhood Hardship",
+        "excerpt": "Han Sang-beom, who grew up in a working-class family in Daejeon and had to give up middle school, passed the judicial scrivener exam last February at age 70.",
+        "body": "Han Sang-beom passed the judicial scrivener exam in February last year at the age of 70. Now 71, he recalled the moment calmly, saying it felt as if he had put down a burden he had carried for a long time and completed a lifelong assignment. Born the third of four sons and two daughters in an urban working-class family in Daejeon, he worked after elementary school as an errand boy at a university facility, delivered newspapers, and sold beondegi. Encouraged by his elementary school teacher, he passed the middle school entrance exam but could not pay the admission fee and gave up enrollment. He instead attended reconstruction school and vocational training school, institutions that taught middle school coursework or helped students find work. His story shows a long-held will to study carried into a late-life qualification. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "70歳で司法書士試験合格、ポンテギ売りの少年だった韓相範さん",
+        "excerpt": "大田の労働者家庭で育ち、中学進学を断念した韓相範さんは昨年2月、70歳で司法書士試験に最終合格し、長年の課題を終えたと語った。",
+        "body": "韓相範さんは昨年2月、70歳で司法書士試験に最終合格した。現在71歳の韓さんは当時を振り返り、「長く背負ってきた荷物を下ろしたような気持ちだった」と淡々と語った。大田の都市労働者家庭の4男2女の三男として生まれた韓さんは、小学校卒業後、ある大学施設で雑用をする給仕として働き、新聞配達やポンテギ売りもした。小学校の担任教師の勧めで中学校入学試験に合格したが、入学金を用意できず進学を断念した。その代わり、正規中学に進めない生徒に課程を教えた再建学校と、就職を助けた伝授学校に通った。貧しさの中でも続いた学びへの思いが、晩年の資格試験合格につながった事例だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "70岁通过法务士考试，曾卖蚕蛹的少年韩相范完成迟来挑战",
+        "excerpt": "韩相范出身大田城市劳动者家庭，曾因无力缴纳入学金放弃初中升学，去年2月以70岁高龄最终通过法务士考试。",
+        "body": "韩相范去年2月以70岁高龄最终通过法务士考试。现年71岁的他回忆当时说，那感觉像是放下了长期背负的重担，也像完成了一生的功课。韩相范出生在大田城市劳动者家庭，是四男二女中的老三。小学毕业后，他在某大学设施做杂务，也送过报纸、卖过蚕蛹。小学班主任建议他参加初中入学考试，他虽考取，却因无法筹到入学金而放弃升学。之后，他进入为因家境困难无法上正规初中的学生教授课程的再建学校，以及帮助就业的传授学校。这个经历显示，贫困中延续的求学意志最终在晚年资格考试合格中得到回应。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Han Sang-beom aprueba a los 70 el examen de escribano tras una infancia difícil",
+        "excerpt": "Han Sang-beom, criado en una familia obrera de Daejeon y obligado a renunciar a la secundaria, aprobó en febrero pasado el examen de escribano judicial a los 70 años.",
+        "body": "Han Sang-beom aprobó en febrero del año pasado el examen de escribano judicial a los 70 años. Hoy, con 71, recuerda aquel momento con calma y dice que sintió como si hubiera dejado una carga llevada durante mucho tiempo y terminado una tarea de toda la vida. Nacido como el tercero de cuatro hijos y dos hijas en una familia obrera urbana de Daejeon, trabajó tras la primaria como mandadero en instalaciones de una universidad, repartió periódicos y vendió beondegi. Animado por su maestro de primaria, aprobó el ingreso a la secundaria, pero no pudo reunir la matrícula y renunció a estudiar allí. En su lugar asistió a escuelas de reconstrucción y de formación laboral, creadas para enseñar cursos de secundaria o ayudar al empleo. Su caso muestra una voluntad de estudiar mantenida en la pobreza hasta una certificación tardía. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Han Sang-beom passa aos 70 no exame de escrivão após infância de privações",
+        "excerpt": "Han Sang-beom, criado em uma família trabalhadora de Daejeon e forçado a desistir do ensino médio básico, passou em fevereiro passado no exame de escrivão judicial aos 70 anos.",
+        "body": "Han Sang-beom passou em fevereiro do ano passado no exame de escrivão judicial aos 70 anos. Hoje com 71, ele recorda o momento com serenidade e diz que sentiu como se tivesse deixado no chão um fardo carregado por muito tempo e concluído uma tarefa de vida inteira. Nascido como o terceiro de quatro filhos e duas filhas em uma família urbana de trabalhadores de Daejeon, após a escola primária trabalhou como ajudante em instalações de uma universidade, entregou jornais e vendeu beondegi. Incentivado por seu professor primário, passou no exame de entrada para o ginásio, mas não conseguiu pagar a matrícula e desistiu. Em vez disso, frequentou escolas de reconstrução e de formação profissional, que ensinavam currículo de nível ginasial ou ajudavam no emprego. Sua trajetória mostra uma vontade de estudar mantida na pobreza até uma qualificação tardia. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Han Sang-beom besteht mit 70 die Justizschreiber-Prüfung nach harter Kindheit",
+        "excerpt": "Han Sang-beom wuchs in einer Arbeiterfamilie in Daejeon auf und musste die Mittelschule aufgeben; im vergangenen Februar bestand er mit 70 die Prüfung zum Justizschreiber.",
+        "body": "Han Sang-beom bestand im Februar vergangenen Jahres im Alter von 70 Jahren die Prüfung zum Justizschreiber. Heute ist er 71 und erinnert sich ruhig an diesen Moment: Es habe sich angefühlt, als lege er eine lange getragene Last ab und schließe eine Lebensaufgabe ab. Er wurde in Daejeon als drittes von vier Söhnen und zwei Töchtern einer städtischen Arbeiterfamilie geboren. Nach der Grundschule arbeitete er als Laufbursche in Einrichtungen einer Universität, trug Zeitungen aus und verkaufte Beondegi. Auf Empfehlung seines Grundschullehrers bestand er die Aufnahmeprüfung zur Mittelschule, konnte aber die Aufnahmegebühr nicht zahlen und gab den Schulbesuch auf. Stattdessen besuchte er eine Wiederaufbauschule und eine Berufsschule, die Unterricht für benachteiligte Schüler oder Hilfe bei der Arbeitssuche boten. Seine Geschichte zeigt Lernwillen trotz Armut bis zu einer späten Qualifikation. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Han Sang-beom réussit l’examen de juriste à 70 ans après une enfance difficile",
+        "excerpt": "Élevé dans une famille ouvrière de Daejeon et contraint d’abandonner le collège, Han Sang-beom a réussi en février dernier l’examen de juriste judiciaire à 70 ans.",
+        "body": "Han Sang-beom a réussi en février de l’an dernier l’examen de juriste judiciaire à l’âge de 70 ans. Aujourd’hui âgé de 71 ans, il se souvient calmement de ce moment, disant avoir eu l’impression de déposer un fardeau porté depuis longtemps et d’achever un devoir de toute une vie. Né à Daejeon comme troisième enfant parmi quatre fils et deux filles d’une famille ouvrière urbaine, il a travaillé après l’école primaire comme garçon de courses dans des installations universitaires, livré des journaux et vendu du beondegi. Encouragé par son instituteur, il a réussi l’examen d’entrée au collège, mais n’a pas pu payer les frais d’admission et a renoncé. Il a ensuite fréquenté une école de reconstruction et une école de formation, destinées à enseigner le programme du collège ou à aider à l’emploi. Son parcours illustre une volonté d’apprendre maintenue dans la pauvreté jusqu’à une qualification tardive. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "هان سانغ بوم يجتاز امتحان الكاتب القانوني في السبعين بعد طفولة شاقة",
+        "excerpt": "هان سانغ بوم، الذي نشأ في أسرة عاملة في دايجون واضطر إلى ترك الالتحاق بالمدرسة المتوسطة، اجتاز في فبراير الماضي امتحان الكاتب القانوني وهو في السبعين.",
+        "body": "اجتاز هان سانغ بوم في فبراير من العام الماضي امتحان الكاتب القانوني النهائي وهو في سن السبعين. وهو في الحادية والسبعين الآن، يستعيد تلك اللحظة بهدوء قائلا إنها بدت كأنه وضع حملا حمله طويلا وأنهى واجبا لازمه مدى الحياة. وُلد هان في دايجون، ثالثا بين أربعة أبناء وبنتين في أسرة حضرية عاملة. بعد إنهاء المدرسة الابتدائية عمل صبيا للمهمات في منشآت تابعة لجامعة، كما وزع الصحف وباع البونديغي. وبناء على نصيحة معلمه في الابتدائية تقدم لامتحان دخول المدرسة المتوسطة ونجح، لكنه لم يستطع توفير رسوم الالتحاق فتخلى عن الدراسة النظامية. وبدلا من ذلك التحق بمدرسة إعادة بناء ومدرسة تدريب مهني، كانتا تقدمان مناهج متوسطة أو تساعدان على التوظيف. قصته تبين إرادة تعلم استمرت وسط الفقر حتى نيل مؤهل في عمر متأخر. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "70 साल में कानूनी लेखक परीक्षा पास, कठिन बचपन से निकले हान सांग-बोम",
+        "excerpt": "डेजॉन के मजदूर परिवार में पले और फीस न जुट पाने से मिडिल स्कूल छोड़ने वाले हान सांग-बोम ने पिछले फरवरी 70 वर्ष की उम्र में कानूनी लेखक परीक्षा पास की।",
+        "body": "हान सांग-बोम ने पिछले वर्ष फरवरी में 70 वर्ष की उम्र में कानूनी लेखक परीक्षा अंतिम रूप से पास की। अब 71 वर्ष के हान उस क्षण को शांत स्वर में याद करते हैं और कहते हैं कि ऐसा लगा जैसे लंबे समय से उठाया बोझ उतार दिया हो और जीवन भर का काम पूरा हो गया हो। डेजॉन के शहरी मजदूर परिवार में चार बेटों और दो बेटियों में तीसरे के रूप में जन्मे हान ने प्राथमिक विद्यालय के बाद एक विश्वविद्यालय परिसर में छोटे-मोटे काम किए, अखबार बांटे और बोंडेगी बेची। प्राथमिक शिक्षक के कहने पर उन्होंने मिडिल स्कूल प्रवेश परीक्षा पास की, लेकिन प्रवेश शुल्क न जुटा पाने से पढ़ाई छोड़नी पड़ी। इसके बजाय वे पुनर्निर्माण स्कूल और प्रशिक्षण स्कूल गए, जहां नियमित मिडिल स्कूल न जा पाने वाले छात्रों को पाठ्यक्रम पढ़ाया जाता था या रोजगार में मदद दी जाती थी। उनकी कहानी गरीबी में भी जारी पढ़ने की इच्छा के देर से मिले परिणाम को दिखाती है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Han Sang-beom Lulus Ujian Juru Tulis Hukum pada Usia 70 Setelah Masa Sulit",
+        "excerpt": "Han Sang-beom, yang tumbuh dalam keluarga pekerja di Daejeon dan gagal masuk SMP karena biaya, lulus ujian juru tulis hukum pada Februari lalu di usia 70 tahun.",
+        "body": "Han Sang-beom lulus ujian juru tulis hukum pada Februari tahun lalu saat berusia 70 tahun. Kini berusia 71 tahun, ia mengenang saat itu dengan tenang dan mengatakan rasanya seperti menurunkan beban yang lama dipikul serta menyelesaikan tugas seumur hidup. Lahir sebagai anak ketiga dari empat putra dan dua putri dalam keluarga pekerja kota di Daejeon, ia bekerja setelah SD sebagai pesuruh di fasilitas sebuah universitas, mengantar koran, dan menjual beondegi. Atas saran guru SD, ia mengikuti dan lulus ujian masuk SMP, tetapi tidak mampu membayar uang masuk sehingga batal melanjutkan sekolah. Sebagai gantinya, ia bersekolah di sekolah rekonstruksi dan sekolah pelatihan, yang mengajarkan kurikulum setingkat SMP atau membantu siswa mendapat pekerjaan. Kisahnya menunjukkan kemauan belajar yang bertahan di tengah kemiskinan hingga meraih kualifikasi pada usia lanjut. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "9187003406c1",
+    "slug": "tk-신공항-현장-찾은-李-사업지연-매우-안타깝다-246810",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T18:15:15.433Z",
+    "updatedAt": "2026-05-15T18:15:15.433Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260515/133933996/2",
+    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260515/133933996/2",
+    "titleFingerprint": "2ac400f81d93c2435d9be18307f4725bd8ad1905",
+    "dedupKeys": [
+      "9187003406c1da1b16dc7ae5b8b8f3b0883c5239",
+      "2ac400f81d93c2435d9be18307f4725bd8ad1905",
+      "04e8debafa4fa78a5fcb59bb6acd6ae7bce96443"
+    ],
+    "imageUrl": "/images/articles/9187003406c1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "TK 신공항 현장 찾은 이재명 대통령, 사업 지연에 재정 지원 논의 주목",
+        "excerpt": "이재명 대통령은 15일 대구·경북 통합신공항 예정 부지를 찾아 재원 문제로 사업이 지연되는 상황에 안타까움을 표하고 추진 현황을 점검했다.",
+        "body": "이재명 대통령은 15일 대구 군위군과 경북 의성군 일대의 대구·경북 통합신공항(TK신공항) 건설 예정 부지를 방문해 사업 추진 현황을 점검했다. 이 대통령은 재원 문제 등으로 사업이 지연되는 상황에 대해 “매우 안타깝게 생각한다”고 말했다. 전날 더불어민주당 김부겸 대구시장 후보가 TK신공항 건설에 국비 지원 방침을 밝힌 뒤 나온 현장 행보다. 청와대 안귀령 부대변인에 따르면 이 대통령은 사업 장기화로 추가되는 비용 규모와 재정 부담을 현장 관계자에게 꼼꼼히 물었다. 대구시 관계자는 국가적 지원이 필요하다고 건의했다. 이날 이 대통령은 경북 안동에서 은사와 초등학교 동문을 만난 뒤 군위군 소보면에서 농업인들과 모내기 체험 및 간담회도 진행했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Lee Visits TK New Airport Site as Funding Delays Draw Fresh Attention",
+        "excerpt": "President Lee Jae-myung visited the planned TK New Airport site on May 15, expressing regret over delays tied to financing and reviewing the project’s status.",
+        "body": "President Lee Jae-myung visited the planned site of the Daegu-Gyeongbuk Integrated New Airport, known as TK New Airport, on May 15 in areas of Gunwi County, Daegu, and Uiseong County, North Gyeongsang Province. He reviewed the project’s progress and said he found it “very regrettable” that the project had been delayed due to funding and other issues. The visit came after Democratic Party Daegu mayoral candidate Kim Boo-kyum said a day earlier that he would support national funding for the airport’s construction. According to presidential office deputy spokesperson Ahn Gwi-ryeong, Lee carefully asked officials at the site about the additional costs and fiscal burden caused by the prolonged project. A Daegu city official requested national-level support. Lee also met his former teacher and elementary school alumni in Andong before joining farmers in Sobo-myeon, Gunwi, for rice planting and a discussion. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "李大統領がTK新空港予定地を視察、事業遅延と財政支援に関心",
+        "excerpt": "李在明大統領は15日、大邱・慶北統合新空港の予定地を訪れ、財源問題による事業遅延に遺憾を示し、推進状況を点検した。",
+        "body": "李在明大統領は15日、大邱軍威郡と慶尚北道義城郡一帯にある大邱・慶北統合新空港（TK新空港）の建設予定地を訪問し、事業の推進状況を点検した。李大統領は、財源問題などで事業が遅れている状況について「非常に残念に思う」と述べた。前日、共に民主党の金富謙・大邱市長候補がTK新空港建設への国費支援方針を示した後の現地訪問であり、注目を集めている。大統領室の安貴玲副報道官によると、李大統領は事業長期化で追加される費用規模と財政負担について、現場関係者に詳しく質問した。大邱市関係者は国家的支援が必要だと要請した。李大統領は同日、故郷の慶北安東で恩師と小学校同窓生に会った後、軍威郡素保面で農業者と田植え体験や懇談も行った。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "李在明视察TK新机场选址，项目延期与财政支持受关注",
+        "excerpt": "李在明总统15日走访大邱·庆北统合新机场拟建地，对因财源问题导致项目推进延迟表示遗憾，并检查建设进展。",
+        "body": "李在明总统15日访问大邱军威郡和庆尚北道义城郡一带的大邱·庆北统合新机场（TK新机场）拟建地，检查项目推进情况。李在明表示，因财源问题等导致项目推进延迟的情况“令人非常遗憾”。此次行程发生在共同民主党大邱市长候选人金富谦前一天表示将以国费支持TK新机场建设之后，因此被认为备受关注。据总统室副发言人安贵玲介绍，李在明在现场仔细询问了项目长期化所增加的费用规模以及财政负担。大邱市相关人士则在现场建议需要国家层面的支持。当天，李在明还在故乡庆北安东的一家餐厅会见恩师和三溪小学同窗，随后在军威郡素保面与当地农民一起体验插秧，并举行配有田间点心的座谈会。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Lee visita el futuro aeropuerto TK y pone foco en retrasos y financiación",
+        "excerpt": "El presidente Lee Jae-myung visitó el 15 de mayo el futuro aeropuerto integrado de Daegu-Gyeongbuk, lamentó los retrasos por financiación y revisó el avance del proyecto.",
+        "body": "El presidente Lee Jae-myung visitó el 15 de mayo la zona prevista para construir el Aeropuerto Integrado de Daegu-Gyeongbuk, conocido como aeropuerto TK, en Gunwi, Daegu, y Uiseong, provincia de Gyeongsang del Norte. Allí revisó el estado del proyecto y afirmó que le resultaba “muy lamentable” que la iniciativa se retrasara por problemas de financiación y otros factores. La visita llegó después de que Kim Boo-kyum, candidato del Partido Democrático a la alcaldía de Daegu, dijera el día anterior que apoyaría la construcción del aeropuerto con fondos nacionales. Según la portavoz adjunta presidencial Ahn Gwi-ryeong, Lee preguntó con detalle a los responsables en el terreno por los costes adicionales y la carga fiscal derivados de la prolongación del proyecto. Un funcionario de Daegu solicitó apoyo estatal. Ese mismo día, Lee también se reunió en Andong con su antiguo maestro y excompañeros de primaria, y participó en Gunwi en una siembra de arroz y una reunión con agricultores. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Lee visita futuro aeroporto TK e destaca atrasos ligados ao financiamento",
+        "excerpt": "O presidente Lee Jae-myung visitou em 15 de maio o local previsto para o Aeroporto Integrado Daegu-Gyeongbuk, lamentando atrasos por questões financeiras e revisando o projeto.",
+        "body": "O presidente Lee Jae-myung visitou em 15 de maio a área prevista para a construção do Aeroporto Integrado Daegu-Gyeongbuk, conhecido como Aeroporto TK, em Gunwi, Daegu, e Uiseong, na província de Gyeongsang do Norte. No local, ele verificou o andamento do projeto e afirmou considerar “muito lamentável” que a iniciativa esteja atrasada por problemas de financiamento e outros fatores. A visita ocorreu depois que Kim Boo-kyum, candidato do Partido Democrático à prefeitura de Daegu, declarou no dia anterior que apoiaria a construção do aeroporto com recursos nacionais. Segundo a vice-porta-voz presidencial Ahn Gwi-ryeong, Lee perguntou detalhadamente aos responsáveis sobre os custos adicionais e o peso fiscal causados pela longa duração do projeto. Um representante da cidade de Daegu pediu apoio em nível nacional. No mesmo dia, Lee encontrou seu antigo professor e colegas de escola em Andong, depois participou de plantio de arroz e de uma reunião com agricultores em Sobo-myeon, Gunwi. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Lee besucht TK-Flughafenstandort, Verzögerungen und Finanzierung im Fokus",
+        "excerpt": "Präsident Lee Jae-myung besuchte am 15. Mai den geplanten Standort des integrierten Flughafens Daegu-Gyeongbuk, bedauerte Finanzierungsverzögerungen und prüfte den Stand.",
+        "body": "Präsident Lee Jae-myung besuchte am 15. Mai den geplanten Standort des integrierten Flughafens Daegu-Gyeongbuk, bekannt als TK New Airport, in Gunwi, Daegu, und Uiseong in der Provinz Nord-Gyeongsang. Vor Ort prüfte er den Projektstand und sagte, er halte es für “sehr bedauerlich”, dass sich das Vorhaben wegen Finanzierungsfragen und anderer Probleme verzögere. Der Besuch folgte auf die Erklärung von Kim Boo-kyum, Kandidat der Demokratischen Partei für das Bürgermeisteramt in Daegu, der am Vortag Unterstützung aus nationalen Mitteln für den Flughafenbau angekündigt hatte. Laut der stellvertretenden Sprecherin des Präsidialamts, Ahn Gwi-ryeong, fragte Lee die Verantwortlichen vor Ort genau nach den zusätzlichen Kosten und der finanziellen Belastung durch die längere Projektdauer. Ein Vertreter der Stadt Daegu bat um staatliche Unterstützung. Lee traf am selben Tag in Andong auch seinen früheren Lehrer und Grundschulalumni und nahm in Sobo-myeon, Gunwi, an einer Reispflanzung und einem Gespräch mit Landwirten teil. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Lee visite le site du futur aéroport TK, les retards financiers au centre",
+        "excerpt": "Le président Lee Jae-myung s’est rendu le 15 mai sur le site prévu du futur aéroport intégré Daegu-Gyeongbuk, regrettant les retards liés au financement et examinant le dossier.",
+        "body": "Le président Lee Jae-myung s’est rendu le 15 mai sur le site prévu pour l’aéroport intégré Daegu-Gyeongbuk, appelé aéroport TK, dans les secteurs de Gunwi à Daegu et d’Uiseong dans la province du Gyeongsang du Nord. Il y a examiné l’état d’avancement du projet et déclaré qu’il jugeait “très regrettable” le retard causé par les questions de financement et d’autres difficultés. Cette visite est intervenue après que Kim Boo-kyum, candidat du Parti démocrate à la mairie de Daegu, a annoncé la veille son intention de soutenir la construction de l’aéroport avec des fonds nationaux. Selon Ahn Gwi-ryeong, porte-parole adjointe de la présidence, Lee a interrogé précisément les responsables sur place sur les coûts supplémentaires et la charge budgétaire liés à la prolongation du projet. Un représentant de la ville de Daegu a demandé un soutien national. Le même jour, Lee a aussi rencontré son ancien enseignant et des camarades d’école primaire à Andong, puis participé à une plantation de riz et à une réunion avec des agriculteurs à Sobo-myeon, Gunwi. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "لي يزور موقع مطار TK الجديد وسط اهتمام بتأخر المشروع والتمويل",
+        "excerpt": "زار الرئيس لي جاي ميونغ في 15 مايو الموقع المخطط لمطار دايغو-غيونغبوك المتكامل، معبرا عن أسفه لتأخر المشروع بسبب التمويل ومراجعا تقدم التنفيذ.",
+        "body": "زار الرئيس لي جاي ميونغ في 15 مايو الموقع المخطط لبناء مطار دايغو-غيونغبوك المتكامل، المعروف باسم مطار TK الجديد، في مناطق غونوي بمدينة دايغو وأويسونغ في إقليم غيونغسانغ الشمالي. وراجع لي وضع تنفيذ المشروع، وقال إنه يشعر بـ“أسف بالغ” إزاء تأخره بسبب مشكلات التمويل وغيرها. جاءت الزيارة بعد يوم من إعلان كيم بو كيوم، مرشح الحزب الديمقراطي لمنصب عمدة دايغو، أنه سيدعم بناء المطار بتمويل من الميزانية الوطنية. ووفقا لنائبة المتحدث باسم المكتب الرئاسي آن غوي ريونغ، سأل لي مسؤولي الموقع بدقة عن حجم التكاليف الإضافية والعبء المالي الناجمين عن إطالة أمد المشروع. وطلب مسؤول من مدينة دايغو دعما على المستوى الوطني. وفي اليوم نفسه، التقى لي في أندونغ، مسقط رأسه، بمعلمه السابق وزملاء من المدرسة الابتدائية، ثم شارك مزارعين في سوبو-ميون بغونوي تجربة زراعة الأرز واجتماعا ميدانيا. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "TK नए हवाईअड्डे स्थल पर ली का दौरा, देरी और वित्तीय समर्थन पर ध्यान",
+        "excerpt": "राष्ट्रपति ली जे-म्युंग ने 15 मई को दाएगू-ग्योंगबुक एकीकृत नए हवाईअड्डे के प्रस्तावित स्थल का दौरा किया, वित्तीय कारणों से देरी पर खेद जताया और प्रगति देखी।",
+        "body": "राष्ट्रपति ली जे-म्युंग ने 15 मई को दाएगू के गुनवी काउंटी और उत्तर ग्योंगसांग प्रांत के उइसोंग काउंटी में प्रस्तावित दाएगू-ग्योंगबुक एकीकृत नए हवाईअड्डे, यानी TK नए हवाईअड्डे, के निर्माण स्थल का दौरा किया। उन्होंने परियोजना की प्रगति की समीक्षा की और कहा कि वित्तीय संसाधनों सहित अन्य मुद्दों के कारण काम में देरी होना “बहुत खेदजनक” है। यह दौरा उस बयान के अगले दिन हुआ जिसमें डेमोक्रेटिक पार्टी के दाएगू मेयर उम्मीदवार किम बू-क्युम ने TK नए हवाईअड्डे के निर्माण को राष्ट्रीय बजट से समर्थन देने की बात कही थी। राष्ट्रपति कार्यालय की उप प्रवक्ता आन ग्वी-र्योंग के अनुसार, ली ने स्थल पर अधिकारियों से परियोजना लंबी खिंचने से बढ़ी अतिरिक्त लागत और वित्तीय बोझ के बारे में विस्तार से पूछा। दाएगू शहर के एक अधिकारी ने राष्ट्रीय स्तर के समर्थन की जरूरत बताई। उसी दिन ली ने अपने गृहनगर आंदोंग में अपने पूर्व शिक्षक और प्राथमिक विद्यालय के सहपाठियों से मुलाकात की, फिर गुनवी के सोबो-म्योन में किसानों के साथ धान रोपाई और बैठक में भाग लिया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Lee Tinjau Lokasi Bandara Baru TK, Soroti Keterlambatan dan Pendanaan",
+        "excerpt": "Presiden Lee Jae-myung pada 15 Mei mengunjungi lokasi rencana Bandara Terpadu Daegu-Gyeongbuk, menyayangkan keterlambatan akibat pendanaan dan meninjau progres proyek.",
+        "body": "Presiden Lee Jae-myung pada 15 Mei mengunjungi lokasi rencana pembangunan Bandara Terpadu Daegu-Gyeongbuk, atau Bandara Baru TK, di wilayah Gunwi, Daegu, dan Uiseong, Provinsi Gyeongsang Utara. Ia meninjau perkembangan proyek dan mengatakan “sangat menyayangkan” situasi keterlambatan yang terjadi karena masalah pendanaan dan faktor lain. Kunjungan ini dilakukan setelah sehari sebelumnya Kim Boo-kyum, calon wali kota Daegu dari Partai Demokrat, menyatakan akan mendukung pembangunan Bandara TK dengan dana nasional. Menurut wakil juru bicara kantor kepresidenan Ahn Gwi-ryeong, Lee dengan cermat menanyakan kepada pejabat di lapangan mengenai besaran biaya tambahan dan beban fiskal akibat proyek yang berlarut. Seorang pejabat Kota Daegu mengusulkan perlunya dukungan nasional. Pada hari yang sama, Lee juga bertemu guru lamanya dan alumni sekolah dasar di Andong, kampung halamannya, lalu mengikuti pengalaman menanam padi dan diskusi dengan petani di Sobo-myeon, Gunwi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "241c5aac3190",
     "slug": "다크팩토리-우리가-앞당길-것-새-로봇과-기존-로봇-바로-협업-가능허진석의-톡톡-스타트업-392992",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Jikim AI Diagnosis Zigbang cek risiko sebelum kontrak untuk bantu keamanan penyewa",
         "excerpt": "Zigbang meluncurkan Jikim Diagnosis pada 17 April 2026, layanan laporan berbasis AI yang menganalisis hak properti dan risiko lingkungan dari alamat sebelum kontrak real estat.",
         "body": "Zigbang menyatakan pada 17 April 2026 bahwa mereka meluncurkan Jikim Diagnosis, layanan laporan yang memungkinkan pengguna memasukkan alamat sebelum menandatangani kontrak real estat agar kecerdasan buatan memeriksa hubungan hak atas properti dan risiko lingkungan sekitar. Layanan ini berfokus mengurangi kesenjangan informasi yang dapat muncul pada tahap kontrak, melampaui pencarian properti biasa. Zigbang menjelaskan bahwa analisisnya mencerminkan puluhan ribu pengalaman praktis, termasuk kontrak yang benar-benar selesai dan kasus yang dihentikan pada tahap peninjauan, serta preseden hukum terkait. Data keamanan seperti riwayat kejahatan di sekitar dan keberadaan tempat tinggal pelaku kejahatan seksual juga dihubungkan, sehingga dapat membantu rumah tangga satu orang dan keluarga dengan anak menilai keamanan hunian. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "7e59e3d13227",
-    "slug": "한판-8000원-달걀-산지값-짬짜미-과징금-6억-908521",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:38:02.757Z",
-    "updatedAt": "2026-05-14T23:38:02.757Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260515/133927321/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260515/133927321/2",
-    "titleFingerprint": "c7c83daea1d7445c9a670a47db0b28c3a1fa6292",
-    "dedupKeys": [
-      "7e59e3d132271cb332dedc21fa23ee76c7684542",
-      "c7c83daea1d7445c9a670a47db0b28c3a1fa6292",
-      "1c51b96c9e35df1c3f2c6643b3b12619945e9863"
-    ],
-    "imageUrl": "/images/articles/7e59e3d13227.jpg",
-    "i18n": {
-      "ko": {
-        "title": "달걀 산지값 짬짜미 제재, 한 판 8000원대 속 산란계협회 과징금 5억9400만 원",
-        "excerpt": "공정거래위원회는 14일 달걀 산지 기준가격을 정해 농가에 통지한 대한산란계협회에 시정명령과 과징금 5억9400만 원을 부과했다고 밝혔다.",
-        "body": "공정거래위원회는 14일 달걀 산지 거래 기준가격을 정한 대한산란계협회에 시정명령과 과징금 5억9400만 원을 부과했다고 밝혔다. 최근 서울 지역 달걀 한 판, 특란 30개 평균 가격이 8000원을 넘어선 가운데 공정위는 협회의 행위가 비싼 달걀 가격에 영향을 미쳤다고 봤다. 산란계협회는 2023년 1월 설립된 사단법인으로 달걀을 생산·판매하는 580개 농가가 소속돼 있으며, 이들 농가의 산란계는 국내 전체 사육 수의 56.4%를 차지한다. 협회는 설립 후 올해 1월까지 지역별 기준가격을 정해 수시로 농가에 알렸고, 실제 거래가격도 이 기준가격과 매우 비슷하게 형성됐다. 지난해 수도권 기준가격 5296원은 생산비 3856원보다 높았다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Egg Farmgate Price Collusion Sanctioned as 30-Pack Tops 8,000 Won in Seoul",
-        "excerpt": "South Korea’s Fair Trade Commission said on the 14th it ordered corrective measures and fined the Korea Laying Hen Association 594 million won for setting egg farmgate benchmark prices.",
-        "body": "South Korea’s Fair Trade Commission said on the 14th that it imposed a corrective order and a 594 million won fine on the Korea Laying Hen Association for determining benchmark prices used in farmgate egg transactions. The action comes as the average price of a 30-count pack of special-grade eggs in Seoul recently exceeded 8,000 won, with the commission judging that the association’s conduct affected high egg prices. The association, established in January 2023, includes 580 farms that produce and sell eggs. Their laying hens account for 56.4% of the nation’s total flock. From its founding until this January, the association set regional benchmark prices and frequently notified farms. Actual transaction prices were formed very close to those benchmarks. Last year, the Seoul metropolitan benchmark price of 5,296 won for 30 eggs was above the production cost of 3,856 won. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "卵の産地価格談合に制裁、ソウルで1パック8000ウォン超の中で課徴金",
-        "excerpt": "韓国公正取引委員会は14日、卵の産地基準価格を定め農家に通知した大韓産卵鶏協会に是正命令と課徴金5億9400万ウォンを科したと発表した。",
-        "body": "韓国公正取引委員会は14日、卵の産地取引で用いられる基準価格を決めた大韓産卵鶏協会に対し、是正命令と課徴金5億9400万ウォンを科したと明らかにした。最近、ソウル地域で卵1パック、特卵30個の平均価格が8000ウォンを超える中、公取委は協会の行為が高い卵価格に影響したと判断した。産卵鶏協会は2023年1月に設立された社団法人で、卵を生産・販売する580戸の農家が所属している。これらの農家が飼育する産卵鶏は韓国内の総飼育数の56.4%を占める。協会は設立後から今年1月まで、地域別に基準価格を定めて随時農家に通知し、実際の取引価格もその基準価格と非常に近い水準で形成された。昨年の首都圏基準価格5296ウォンは、生産費3856ウォンを上回った。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "鸡蛋产地价格串通受罚，首尔30枚装突破8000韩元之际罚款5.94亿",
-        "excerpt": "韩国公平交易委员会14日表示，因大韩蛋鸡协会制定鸡蛋产地基准价格并通知农户，已下达整改命令并处以5.94亿韩元罚款。",
-        "body": "韩国公平交易委员会14日表示，因大韩蛋鸡协会在鸡蛋产地交易中决定基准价格，已对其下达整改命令并处以5.94亿韩元罚款。近期首尔地区一板鸡蛋，即30枚特级蛋的平均价格超过8000韩元，公平交易委员会认为该协会的不公平行为影响了高企的鸡蛋价格。大韩蛋鸡协会是2023年1月成立的社团法人，拥有580家生产和销售鸡蛋的农户会员。这些农户饲养的蛋鸡占韩国全国总饲养量的56.4%。协会自成立后至今年1月，按地区制定鸡蛋基准价格，并不定期通知农户。实际鸡蛋交易价格也与协会决定的基准价格非常接近。去年协会制定的首都圈30枚鸡蛋基准价格为5296韩元，高于3856韩元的生产成本。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Sanción por pactar precios de huevos en origen mientras la bandeja supera 8.000 wones",
-        "excerpt": "La Comisión de Comercio Justo de Corea dijo el día 14 que ordenó correcciones y multó con 594 millones de wones a la Asociación Coreana de Gallinas Ponedoras por fijar precios de referencia.",
-        "body": "La Comisión de Comercio Justo de Corea informó el día 14 que impuso una orden correctiva y una multa de 594 millones de wones a la Asociación Coreana de Gallinas Ponedoras por determinar precios de referencia en las transacciones de huevos en origen. La medida llega cuando el precio promedio en Seúl de una bandeja de 30 huevos especiales superó recientemente los 8.000 wones, y la autoridad consideró que la conducta de la asociación influyó en los altos precios. La asociación fue creada en enero de 2023 como entidad incorporada y agrupa a 580 granjas que producen y venden huevos. Sus gallinas ponedoras representan el 56,4% del total nacional. Desde su fundación hasta enero de este año, la asociación fijó precios de referencia por región y los notificó con frecuencia a las granjas. Los precios reales de transacción se formaron en niveles muy similares. El año pasado, el precio de referencia del área metropolitana fue de 5.296 wones por 30 huevos, por encima del coste de producción de 3.856 wones. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Punição por combinar preço de ovos na origem ocorre com bandeja acima de 8.000 won",
-        "excerpt": "A Comissão de Comércio Justo da Coreia informou no dia 14 que ordenou correções e multou em 594 milhões de won a Associação Coreana de Galinhas Poedeiras por fixar preços de referência.",
-        "body": "A Comissão de Comércio Justo da Coreia informou no dia 14 que aplicou uma ordem corretiva e multa de 594 milhões de won à Associação Coreana de Galinhas Poedeiras por definir preços de referência usados nas transações de ovos na origem. A decisão ocorre após o preço médio em Seul de uma bandeja de 30 ovos especiais superar recentemente 8.000 won, e a autoridade avaliou que a conduta da associação influenciou os preços elevados. A associação foi criada em janeiro de 2023 como pessoa jurídica e reúne 580 granjas que produzem e vendem ovos. As galinhas poedeiras dessas granjas representam 56,4% do total criado no país. Desde a fundação até janeiro deste ano, a associação definiu preços de referência por região e notificou as granjas com frequência. Os preços reais de venda ficaram muito próximos desses valores. No ano passado, o preço de referência da região metropolitana foi de 5.296 won por 30 ovos, acima do custo de produção de 3.856 won. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Strafe wegen Absprachen bei Eier-Erzeugerpreisen, während 30er-Pack 8.000 Won übersteigt",
-        "excerpt": "Die südkoreanische Fair-Trade-Kommission erklärte am 14., sie habe gegen den Verband der Legehennenhalter wegen festgelegter Eier-Richtpreise eine Anordnung und 594 Millionen Won Geldbuße verhängt.",
-        "body": "Die südkoreanische Fair-Trade-Kommission teilte am 14. mit, dass sie gegen den Verband der Legehennenhalter eine Korrekturanordnung und eine Geldbuße von 594 Millionen Won verhängt hat. Grund war die Festlegung von Richtpreisen für Eiergeschäfte ab Hof. Zuletzt lag der Durchschnittspreis für eine Packung mit 30 Eiern der Sonderklasse in Seoul über 8.000 Won. Die Behörde sah das Verhalten des Verbands als Einflussfaktor für die hohen Eierpreise. Der Verband wurde im Januar 2023 als eingetragene Körperschaft gegründet und umfasst 580 Betriebe, die Eier produzieren und verkaufen. Ihre Legehennen machen 56,4% des gesamten Bestands in Südkorea aus. Seit seiner Gründung bis Januar dieses Jahres legte der Verband regionale Richtpreise fest und informierte die Betriebe regelmäßig. Die tatsächlichen Transaktionspreise lagen sehr nahe an diesen Richtwerten. Im vergangenen Jahr betrug der Richtpreis im Hauptstadtgebiet 5.296 Won für 30 Eier und lag damit über den Produktionskosten von 3.856 Won. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Sanction pour entente sur les prix des œufs alors que le plateau dépasse 8 000 wons",
-        "excerpt": "La Commission coréenne du commerce équitable a annoncé le 14 avoir ordonné des mesures correctives et infligé 594 millions de wons d’amende à l’Association coréenne des poules pondeuses.",
-        "body": "La Commission coréenne du commerce équitable a annoncé le 14 avoir imposé une ordonnance corrective et une amende de 594 millions de wons à l’Association coréenne des poules pondeuses pour avoir fixé des prix de référence dans les transactions d’œufs à la production. Cette décision intervient alors que le prix moyen à Séoul d’un plateau de 30 œufs de catégorie spéciale a récemment dépassé 8 000 wons. L’autorité a estimé que le comportement de l’association avait influencé les prix élevés des œufs. Fondée en janvier 2023 sous forme d’association incorporée, elle regroupe 580 exploitations produisant et vendant des œufs. Leurs poules pondeuses représentent 56,4% du cheptel national. Depuis sa création jusqu’en janvier de cette année, l’association a fixé des prix de référence régionaux et les a régulièrement communiqués aux fermes. Les prix réels de transaction se sont établis à des niveaux très proches. L’an dernier, le prix de référence de la région métropolitaine était de 5 296 wons pour 30 œufs, au-dessus du coût de production de 3 856 wons. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "عقوبة على تنسيق أسعار البيض من المزارع مع تجاوز عبوة 30 بيضة 8000 وون",
-        "excerpt": "قالت لجنة التجارة العادلة في كوريا يوم 14 إنها أصدرت أمرا تصحيحيا وفرضت غرامة قدرها 594 مليون وون على جمعية الدجاج البياض الكورية لتحديد أسعار مرجعية للبيض.",
-        "body": "أعلنت لجنة التجارة العادلة في كوريا يوم 14 أنها فرضت أمرا تصحيحيا وغرامة قدرها 594 مليون وون على جمعية الدجاج البياض الكورية بسبب تحديد أسعار مرجعية في معاملات البيض عند مستوى المزارع. ويأتي القرار بعدما تجاوز متوسط سعر عبوة من 30 بيضة من الدرجة الخاصة في سيول مؤخرا 8000 وون، إذ رأت اللجنة أن سلوك الجمعية أثر في ارتفاع أسعار البيض. تأسست الجمعية في يناير 2023 كهيئة مسجلة، وتضم 580 مزرعة تنتج البيض وتبيعه. وتمثل الدجاجات البياضة في هذه المزارع 56.4% من إجمالي عدد الدجاج المربى في كوريا. ومنذ تأسيسها وحتى يناير من هذا العام، حددت الجمعية أسعارا مرجعية بحسب المناطق وأبلغت بها المزارع بصورة متكررة. وكانت أسعار التداول الفعلية قريبة جدا من تلك الأسعار المرجعية. وفي العام الماضي بلغ السعر المرجعي في منطقة العاصمة 5296 وونا لكل 30 بيضة، وهو أعلى من تكلفة الإنتاج البالغة 3856 وونا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "अंडों के फार्मगेट दामों में मिलीभगत पर कार्रवाई, सियोल में 30 अंडों का पैक 8,000 वॉन पार",
-        "excerpt": "कोरिया फेयर ट्रेड कमीशन ने 14 तारीख को कहा कि अंडों के फार्मगेट संदर्भ मूल्य तय करने पर कोरिया लेइंग हेन एसोसिएशन को सुधार आदेश और 594 मिलियन वॉन का जुर्माना लगाया गया।",
-        "body": "कोरिया फेयर ट्रेड कमीशन ने 14 तारीख को बताया कि अंडों के फार्मगेट लेनदेन में इस्तेमाल होने वाले संदर्भ मूल्य तय करने के लिए कोरिया लेइंग हेन एसोसिएशन पर सुधार आदेश और 594 मिलियन वॉन का जुर्माना लगाया गया। यह कार्रवाई ऐसे समय हुई है जब सियोल में विशेष श्रेणी के 30 अंडों के एक पैक का औसत मूल्य हाल में 8,000 वॉन से ऊपर चला गया। आयोग ने माना कि एसोसिएशन की गतिविधि ने महंगे अंडों के दामों पर असर डाला। एसोसिएशन जनवरी 2023 में स्थापित एक निगमित संस्था है और इसमें अंडे पैदा और बेचने वाले 580 फार्म शामिल हैं। इन फार्मों की अंडा देने वाली मुर्गियां देश की कुल पालन संख्या का 56.4% हैं। स्थापना के बाद से इस साल जनवरी तक एसोसिएशन ने क्षेत्रों के अनुसार संदर्भ मूल्य तय किए और फार्मों को बार-बार सूचित किया। वास्तविक लेनदेन मूल्य भी इन संदर्भ मूल्यों के बहुत करीब बने। पिछले साल राजधानी क्षेत्र में 30 अंडों का संदर्भ मूल्य 5,296 वॉन था, जो 3,856 वॉन की उत्पादन लागत से अधिक था। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Sanksi Kolusi Harga Telur di Peternak Saat Satu Papan di Seoul Tembus 8.000 Won",
-        "excerpt": "Komisi Perdagangan Adil Korea pada tanggal 14 menyatakan telah memberi perintah korektif dan denda 594 juta won kepada Asosiasi Ayam Petelur Korea karena menetapkan harga acuan telur.",
-        "body": "Komisi Perdagangan Adil Korea pada tanggal 14 menyatakan telah menjatuhkan perintah korektif dan denda 594 juta won kepada Asosiasi Ayam Petelur Korea karena menentukan harga acuan dalam transaksi telur di tingkat peternak. Langkah ini diumumkan ketika harga rata-rata satu papan telur di Seoul, yaitu 30 telur kategori khusus, baru-baru ini melampaui 8.000 won. Komisi menilai tindakan asosiasi tersebut memengaruhi mahalnya harga telur. Asosiasi ini didirikan pada Januari 2023 sebagai badan hukum dan beranggotakan 580 peternakan yang memproduksi serta menjual telur. Ayam petelur milik para anggota itu mencakup 56,4% dari total populasi nasional. Sejak berdiri hingga Januari tahun ini, asosiasi menetapkan harga acuan menurut wilayah dan sering memberi tahu peternak. Harga transaksi sebenarnya terbentuk sangat mirip dengan harga acuan tersebut. Tahun lalu, harga acuan wilayah metropolitan untuk 30 telur adalah 5.296 won, lebih tinggi dari biaya produksi 3.856 won. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8c61cc2490ae",
-    "slug": "상품권으로-상환-신종-불법사채-일당-등-1553명-검거-751274",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:36:46.465Z",
-    "updatedAt": "2026-05-14T23:36:46.465Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260515/133927179/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260515/133927179/2",
-    "titleFingerprint": "c276d718b098809ae95ee5b79b51b4feb9b73851",
-    "dedupKeys": [
-      "8c61cc2490aec4727192de195c81d275a7a8983f",
-      "c276d718b098809ae95ee5b79b51b4feb9b73851",
-      "349564db07180b891eef1b925d88d16b9100ef46"
-    ],
-    "imageUrl": "/images/articles/8c61cc2490ae.jpg",
-    "i18n": {
-      "ko": {
-        "title": "불법사채 특별단속 1553명 검거, ‘상품권 상환’ 신종 수법까지 적발",
-        "excerpt": "경찰청 국가수사본부가 지난해 11월부터 올해 4월까지 불법 사채를 특별 단속해 1553명을 검거하고 51명을 구속했다.",
-        "body": "경찰청 국가수사본부는 14일 지난해 11월부터 올해 4월까지 6개월간 불법 사채 특별 단속을 벌여 1553명을 검거하고 이 중 51명을 구속했다고 밝혔다. 검거 인원은 전년 같은 기간보다 19.0% 늘었다. 피해자 1923명 가운데 20, 30대는 999명으로 52.0%를 차지했다. 특히 돈을 빌려준 뒤 상품권으로 갚게 하는 신종 수법을 쓴 조직이 다수 적발됐다. 부산경찰청 광역수사대는 2024년 8월부터 최근까지 고리를 요구하고, 갚지 않으면 ‘상품권 사기를 당했다’며 고소해 합의금까지 요구한 일당 3명을 구속했다. 저신용자에게 휴대전화 개통이나 가전제품 임대를 시킨 뒤 되파는 ‘내구제 대출’ 브로커 등 82명도 검거됐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Police Arrest 1,553 Illegal Lenders as Gift Certificate Repayment Scheme Emerges",
-        "excerpt": "South Korea’s National Office of Investigation said on May 14 it arrested 1,553 people and detained 51 in a six-month crackdown on illegal private lending.",
-        "body": "South Korea’s National Office of Investigation said on May 14 that police arrested 1,553 people and detained 51 during a special crackdown on illegal private lending from last November through this April. The number of arrests rose 19.0% from the same period a year earlier. Of 1,923 victims, 999 were in their 20s and 30s, accounting for 52.0%. Police also uncovered groups using new tactics, including lending money and forcing borrowers to repay it with gift certificates. Busan police detained three people accused of demanding high interest since August 2024 and filing complaints claiming gift certificate fraud when borrowers failed to pay, then seeking settlements. Police also arrested 82 brokers linked to so-called self-rescue loans involving mobile phone openings or appliance rentals for resale. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "違法貸金の特別取締りで1553人摘発、商品券返済の新手口も確認",
-        "excerpt": "韓国警察庁国家捜査本部は5月14日、昨年11月から今年4月まで違法貸金を特別取締りし、1553人を摘発、51人を拘束したと明らかにした。",
-        "body": "韓国警察庁国家捜査本部は14日、昨年11月から今年4月までの6カ月間、違法貸金の特別取締りを行い、1553人を摘発し、このうち51人を拘束したと発表した。摘発人数は前年同期より19.0%増えた。被害者1923人のうち20代、30代は999人で52.0%を占めた。特に、金を貸した後に商品券で返済させる新たな手口を使った組織が多数摘発された。釜山警察庁広域捜査隊は、2024年8月から最近まで高利を要求し、返済しなければ「商品券詐欺に遭った」と告訴して示談金まで求めた3人を拘束した。低信用者に携帯電話を開通させたり家電をレンタルさせたりした後に転売する、いわゆる「内救済ローン」の仲介者ら82人も摘発された。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国警方严打非法高利贷逮捕1553人，查获礼品券还款新手法",
-        "excerpt": "韩国警察厅国家侦查本部5月14日表示，自去年11月至今年4月开展非法高利贷专项整治，逮捕1553人，其中51人被拘留。",
-        "body": "韩国警察厅国家侦查本部14日表示，警方从去年11月至今年4月的6个月里开展非法高利贷专项整治，共逮捕1553人，其中51人被拘留。逮捕人数较去年同期增加19.0%。在1923名受害者中，20多岁和30多岁人群为999人，占52.0%。警方还查获多个使用新型手法的组织，包括借钱后要求以礼品券偿还。釜山警察厅广域搜查队拘留了3名嫌疑人，他们自2024年8月至近期要求高额利息，若借款人未偿还，就以“遭遇礼品券诈骗”为由报案并要求和解金。警方还逮捕了82名所谓“自救贷款”中介，他们让低信用者开通手机或租赁家电后转卖。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Corea detiene a 1.553 prestamistas ilegales y detecta pagos con vales regalo",
-        "excerpt": "La Oficina Nacional de Investigación de Corea informó el 14 de mayo que arrestó a 1.553 personas y detuvo a 51 en una operación contra préstamos ilegales.",
-        "body": "La Oficina Nacional de Investigación de la Policía de Corea del Sur informó el 14 de mayo que, durante una operación especial contra los préstamos privados ilegales entre noviembre pasado y abril de este año, arrestó a 1.553 personas y detuvo a 51. La cifra de arrestos aumentó un 19,0% frente al mismo periodo del año anterior. De 1.923 víctimas, 999 tenían entre 20 y 39 años, el 52,0%. La policía detectó además grupos que usaban nuevos métodos, como prestar dinero y obligar a devolverlo con vales regalo. La policía de Busan detuvo a tres personas acusadas de exigir altos intereses desde agosto de 2024 y, si no se pagaba, denunciar supuestas estafas con vales para reclamar acuerdos. También fueron arrestados 82 intermediarios de los llamados préstamos de autosalvamento, ligados a aperturas de teléfonos o alquileres de electrodomésticos para reventa. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Coreia prende 1.553 por agiotagem ilegal e identifica pagamento com vales-presente",
-        "excerpt": "A Agência Nacional de Investigação da Coreia informou em 14 de maio que prendeu 1.553 pessoas e deteve 51 em seis meses de repressão a empréstimos ilegais.",
-        "body": "A Agência Nacional de Investigação da Polícia da Coreia do Sul informou em 14 de maio que, em uma operação especial contra empréstimos privados ilegais realizada de novembro passado a abril deste ano, prendeu 1.553 pessoas e deteve 51. O número de presos cresceu 19,0% em relação ao mesmo período do ano anterior. Entre 1.923 vítimas, 999 tinham entre 20 e 39 anos, ou 52,0%. A polícia também identificou grupos que usavam novos métodos, incluindo emprestar dinheiro e exigir pagamento em vales-presente. A polícia de Busan deteve três pessoas acusadas de cobrar juros altos desde agosto de 2024 e, em caso de inadimplência, registrar queixas alegando fraude com vales para exigir acordos. Também foram presos 82 intermediários dos chamados empréstimos de autossalvamento, ligados à abertura de celulares ou aluguel de eletrodomésticos para revenda. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Südkorea fasst 1.553 illegale Kreditgeber, neue Rückzahlung per Gutschein entdeckt",
-        "excerpt": "Das Nationale Ermittlungsbüro der Polizei Südkoreas teilte am 14. Mai mit, dass bei einer sechsmonatigen Aktion gegen illegale Privatkredite 1.553 Personen gefasst und 51 festgenommen wurden.",
-        "body": "Das Nationale Ermittlungsbüro der südkoreanischen Polizei erklärte am 14. Mai, dass bei einer Sonderaktion gegen illegale Privatkredite von vergangenem November bis April dieses Jahres 1.553 Personen gefasst und 51 festgenommen wurden. Die Zahl der Festnahmen stieg gegenüber dem Vorjahreszeitraum um 19,0%. Von 1.923 Opfern waren 999 in ihren 20ern und 30ern, also 52,0%. Die Polizei deckte zudem mehrere Gruppen mit neuen Methoden auf, darunter Kredite, die anschließend mit Gutscheinen zurückgezahlt werden mussten. Die Polizei in Busan nahm drei Personen fest, die seit August 2024 hohe Zinsen verlangt und bei ausbleibender Zahlung Anzeigen wegen angeblichen Gutscheinbetrugs erstattet haben sollen, um Vergleichszahlungen zu fordern. Ebenfalls gefasst wurden 82 Vermittler sogenannter Selbsthilfe-Kredite, bei denen Geringkreditwürdige Mobiltelefone eröffneten oder Haushaltsgeräte mieteten, die weiterverkauft wurden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Corée du Sud: 1 553 prêteurs illégaux arrêtés, un remboursement en bons-cadeaux repéré",
-        "excerpt": "Le Bureau national d’enquête de la police sud-coréenne a annoncé le 14 mai l’arrestation de 1 553 personnes, dont 51 détenues, lors d’une opération contre les prêts illégaux.",
-        "body": "Le Bureau national d’enquête de la police sud-coréenne a annoncé le 14 mai qu’une opération spéciale contre les prêts privés illégaux, menée de novembre dernier à avril de cette année, avait conduit à l’arrestation de 1 553 personnes, dont 51 placées en détention. Le nombre d’arrestations a augmenté de 19,0% par rapport à la même période de l’année précédente. Sur 1 923 victimes, 999 avaient entre 20 et 39 ans, soit 52,0%. La police a aussi découvert plusieurs groupes utilisant de nouvelles méthodes, comme prêter de l’argent puis exiger un remboursement en bons-cadeaux. La police de Busan a détenu trois personnes accusées d’avoir réclamé de forts intérêts depuis août 2024 et, en cas de non-paiement, déposé plainte pour prétendue fraude aux bons-cadeaux afin d’exiger des accords financiers. Elle a aussi arrêté 82 courtiers liés à des prêts dits d’auto-sauvetage, impliquant l’ouverture de téléphones ou la location d’électroménager revendus ensuite. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كوريا الجنوبية توقف 1553 في إقراض غير قانوني وتكشف سدادا بقسائم هدايا",
-        "excerpt": "أعلن مكتب التحقيقات الوطني في الشرطة الكورية الجنوبية في 14 مايو توقيف 1553 شخصا واحتجاز 51 خلال حملة استمرت ستة أشهر على الإقراض غير القانوني.",
-        "body": "أعلن مكتب التحقيقات الوطني في الشرطة الكورية الجنوبية في 14 مايو أن حملة خاصة على الإقراض الخاص غير القانوني، نُفذت من نوفمبر الماضي حتى أبريل هذا العام، أسفرت عن توقيف 1553 شخصا واحتجاز 51 منهم. وارتفع عدد الموقوفين 19.0% مقارنة بالفترة نفسها من العام السابق. ومن بين 1923 ضحية، كان 999 في العشرينات والثلاثينات من العمر، أي 52.0%. وكشفت الشرطة أيضا عن جماعات استخدمت أساليب جديدة، منها إقراض المال ثم إجبار المقترضين على السداد بقسائم هدايا. واحتجزت شرطة بوسان ثلاثة أشخاص اتهموا بالمطالبة بفوائد مرتفعة منذ أغسطس 2024، ثم تقديم شكاوى تزعم الاحتيال بقسائم الهدايا عند عدم السداد للمطالبة بتسويات مالية. كما أوقفت الشرطة 82 وسيطا فيما يسمى قروض الإنقاذ الذاتي، المرتبطة بفتح هواتف أو استئجار أجهزة منزلية ثم إعادة بيعها. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "दक्षिण कोरिया में अवैध सूदखोरी पर कार्रवाई, 1,553 गिरफ्तार और गिफ्ट सर्टिफिकेट भुगतान उजागर",
-        "excerpt": "दक्षिण कोरिया की नेशनल ऑफिस ऑफ इन्वेस्टिगेशन ने 14 मई को बताया कि छह महीने की कार्रवाई में अवैध निजी कर्ज से जुड़े 1,553 लोग गिरफ्तार और 51 हिरासत में लिए गए।",
-        "body": "दक्षिण कोरिया की नेशनल ऑफिस ऑफ इन्वेस्टिगेशन ने 14 मई को कहा कि पिछले नवंबर से इस साल अप्रैल तक अवैध निजी कर्ज पर छह महीने की विशेष कार्रवाई में 1,553 लोगों को गिरफ्तार किया गया और इनमें से 51 को हिरासत में लिया गया। गिरफ्तारियों की संख्या पिछले साल की समान अवधि से 19.0% बढ़ी। 1,923 पीड़ितों में 999 लोग 20 और 30 की उम्र के थे, यानी 52.0%। पुलिस ने ऐसे कई समूह भी पकड़े जिन्होंने नए तरीके अपनाए, जैसे पैसा उधार देकर गिफ्ट सर्टिफिकेट से भुगतान कराना। बुसान पुलिस ने तीन लोगों को हिरासत में लिया, जिन पर अगस्त 2024 से ऊंचा ब्याज मांगने और भुगतान न होने पर ‘गिफ्ट सर्टिफिकेट धोखाधड़ी’ की शिकायत कर समझौता राशि मांगने का आरोप है। कम क्रेडिट वाले लोगों से मोबाइल फोन खुलवाने या घरेलू उपकरण किराये पर दिलवाकर उन्हें बेचने वाले तथाकथित आत्म-राहत ऋण ब्रोकरों सहित 82 लोग भी गिरफ्तार हुए। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Korea Tangkap 1.553 Pelaku Rentenir Ilegal, Modus Bayar dengan Voucher Terungkap",
-        "excerpt": "Badan Investigasi Nasional Kepolisian Korea Selatan pada 14 Mei menyatakan telah menangkap 1.553 orang dan menahan 51 dalam razia enam bulan terhadap pinjaman ilegal.",
-        "body": "Badan Investigasi Nasional Kepolisian Korea Selatan menyatakan pada 14 Mei bahwa operasi khusus terhadap pinjaman pribadi ilegal dari November lalu hingga April tahun ini menangkap 1.553 orang dan menahan 51 di antaranya. Jumlah penangkapan naik 19,0% dibanding periode yang sama tahun sebelumnya. Dari 1.923 korban, 999 orang berusia 20-an dan 30-an, atau 52,0%. Polisi juga mengungkap beberapa kelompok yang memakai modus baru, termasuk meminjamkan uang lalu memaksa peminjam membayar dengan voucher hadiah. Kepolisian Busan menahan tiga orang yang diduga menuntut bunga tinggi sejak Agustus 2024 dan, jika tidak dibayar, melaporkan seolah menjadi korban penipuan voucher untuk meminta uang damai. Polisi juga menangkap 82 broker pinjaman yang disebut pinjaman penyelamatan diri, terkait pembukaan ponsel atau penyewaan peralatan rumah tangga untuk dijual kembali. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "33ae3b95ea97",
-    "slug": "구윤철-과천태릉-주택-공급-1년-당겨-2029년-착공-575769",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T23:35:31.886Z",
-    "updatedAt": "2026-05-14T23:35:31.886Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928486/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928486/1",
-    "titleFingerprint": "8ff1691fa4562d98180e22d966c41abf377c5c10",
-    "dedupKeys": [
-      "33ae3b95ea97ca77724b032921d79c78efada992",
-      "8ff1691fa4562d98180e22d966c41abf377c5c10",
-      "e7ce0d257e0ccb89ff25e21992f06b333570f95c"
-    ],
-    "imageUrl": "/images/articles/33ae3b95ea97.jpg",
-    "i18n": {
-      "ko": {
-        "title": "과천·태릉 주택 공급 2029년 조기 착공, 구윤철 “공급 시계 앞당긴다”",
-        "excerpt": "구윤철 경제부총리 겸 재정경제부 장관은 15일 부동산관계장관회의에서 과천 경마장·방첩사·태릉 골프장 주택 공급 착공을 2029년으로 1년 앞당기겠다고 밝혔다.",
-        "body": "구윤철 경제부총리 겸 재정경제부 장관은 15일 오전 정부서울청사에서 부동산관계장관회의를 주재하고 과천 경마장, 방첩사, 태릉 골프장 대규모 주택 공급 착공 시기를 1년 앞당겨 2029년으로 추진하겠다고 밝혔다. 구 부총리는 “신속한 공급이 무엇보다 중요하다”며 발표된 계획이 실제 주거로 이어지도록 실행단계를 압축하겠다고 말했다. 강서 군부지와 노후청사 복합개발 등 약 2900호는 예비타당성조사 면제 절차 등을 진행 중이며 2027년 착공 계획이다. 정부는 주택시장 동향, 가계부채 관리, 부동산 불법행위 대응도 논의했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Gwacheon and Taereung Housing Supply to Start in 2029, One Year Earlier",
-        "excerpt": "Deputy Prime Minister Koo Yun-cheol said on the 15th that housing projects at Gwacheon Racecourse, the counterintelligence site and Taereung Golf Course will start in 2029.",
-        "body": "Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol chaired a real estate ministers’ meeting at the Government Complex Seoul on the morning of the 15th and said large-scale housing supply at Gwacheon Racecourse, the counterintelligence command site and Taereung Golf Course will begin construction in 2029, one year earlier than planned. Koo said “rapid supply is most important” and that the government is compressing all execution stages so announced plans lead to actual homes. About 2,900 units, including the Gangseo military site and redevelopment of aging government buildings, are proceeding through preliminary feasibility study exemption procedures and are planned to start in 2027. The meeting also covered housing market trends, household debt management and responses to illegal real estate activity. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "果川・泰陵の住宅供給、2029年に前倒し着工へ　具潤哲氏が表明",
-        "excerpt": "具潤哲経済副首相兼財政経済部長官は15日、果川競馬場、防諜司、泰陵ゴルフ場の住宅供給着工を1年前倒しし、2029年に進める方針を示した。",
-        "body": "具潤哲経済副首相兼財政経済部長官は15日午前、政府ソウル庁舎で不動産関係閣僚会議を主宰し、果川競馬場、防諜司、泰陵ゴルフ場での大規模住宅供給について、着工時期を1年前倒しして2029年に進める計画だと明らかにした。具氏は「迅速な供給が何より重要だ」と述べ、発表済みの計画が実際の住まいにつながるよう実行段階を圧縮すると強調した。江西の軍用地や老朽庁舎の複合開発など約2900戸は、予備妥当性調査免除の手続きなどを進めており、2027年着工を予定している。会議では住宅市場動向、家計債務管理、不動産違法行為への対応も議論された。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "果川、泰陵住房供应拟2029年提前开工，具润哲称加快供给",
-        "excerpt": "韩国经济副总理兼财政经济部部长具润哲15日表示，果川赛马场、防谍司、泰陵高尔夫球场住房供应项目将提前一年于2029年开工。",
-        "body": "韩国经济副总理兼财政经济部部长具润哲15日上午在政府首尔办公楼主持房地产相关部长会议时表示，果川赛马场、防谍司、泰陵高尔夫球场的大规模住房供应项目计划提前一年，于2029年开工。具润哲强调，“快速供应最为重要”，政府将压缩所有执行环节，使已公布计划能够直接转化为实际住房。对于江西军用地、老旧办公楼复合开发等约2900套住房，目前正在正常推进免除预备可行性调查等程序，并计划经过后续流程后于2027年开工。当天会议还讨论了住房市场动向及应对方向、家庭债务动向及管理方案、不动产违法行为应对成果和后续计划。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Viviendas en Gwacheon y Taereung iniciarían obras en 2029, un año antes",
-        "excerpt": "Koo Yun-cheol, vice primer ministro y ministro de Economía y Finanzas, dijo el día 15 que los proyectos de vivienda en Gwacheon, la sede de contrainteligencia y Taereung se adelantarán a 2029.",
-        "body": "Koo Yun-cheol, vice primer ministro y ministro de Economía y Finanzas, presidió en la mañana del día 15 una reunión ministerial sobre bienes raíces en el Complejo Gubernamental de Seúl y anunció que la construcción de viviendas a gran escala en el hipódromo de Gwacheon, el sitio de la agencia de contrainteligencia y el campo de golf de Taereung se adelantará un año, con inicio previsto en 2029. Koo afirmó que “el suministro rápido es lo más importante” y que el Gobierno comprimirá todas las etapas de ejecución para que los planes anunciados se conviertan en viviendas reales. Unas 2.900 unidades, incluidas el terreno militar de Gangseo y la remodelación compleja de oficinas públicas antiguas, avanzan en trámites como la exención del estudio preliminar de viabilidad y comenzarían en 2027. También se trataron el mercado de vivienda, la deuda de los hogares y las acciones contra ilegalidades inmobiliarias. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Moradias em Gwacheon e Taereung devem começar em 2029, um ano antes",
-        "excerpt": "Koo Yun-cheol, vice-primeiro-ministro e ministro da Economia e Finanças, disse no dia 15 que projetos em Gwacheon, Contrainteligência e Taereung terão obras antecipadas para 2029.",
-        "body": "Koo Yun-cheol, vice-primeiro-ministro e ministro da Economia e Finanças, presidiu na manhã do dia 15 uma reunião de ministros sobre o setor imobiliário no Complexo Governamental de Seul e afirmou que a oferta habitacional em grande escala no Hipódromo de Gwacheon, no local da Contrainteligência e no Campo de Golfe de Taereung terá início de obras em 2029, um ano antes do previsto. Koo disse que “a oferta rápida é o mais importante” e que o governo está comprimindo todas as etapas de execução para que os planos anunciados resultem em moradias reais. Cerca de 2.900 unidades, incluindo o terreno militar de Gangseo e o desenvolvimento misto de prédios públicos antigos, seguem procedimentos como isenção de estudo preliminar de viabilidade e têm início previsto para 2027. A reunião também discutiu mercado habitacional, dívida das famílias e ações contra ilegalidades imobiliárias. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Wohnungsbau in Gwacheon und Taereung soll 2029 ein Jahr früher starten",
-        "excerpt": "Vizepremier Koo Yun-cheol sagte am 15., der Wohnungsbau am Gwacheon-Rennplatz, am Standort der Spionageabwehr und am Taereung-Golfplatz solle auf 2029 vorgezogen werden.",
-        "body": "Koo Yun-cheol, Vizepremier und Minister für Wirtschaft und Finanzen, leitete am Morgen des 15. im Regierungskomplex Seoul eine Ministerrunde zu Immobilien und erklärte, dass der groß angelegte Wohnungsbau am Gwacheon-Rennplatz, am Standort der Spionageabwehr und am Taereung-Golfplatz ein Jahr früher, im Jahr 2029, beginnen soll. Koo sagte, „schnelle Versorgung ist wichtiger als alles andere“, und betonte, die Regierung komprimiere alle Umsetzungsschritte, damit angekündigte Pläne zu tatsächlichem Wohnraum führen. Rund 2.900 Einheiten, darunter das Militärgelände in Gangseo und die komplexe Entwicklung veralteter Amtsgebäude, durchlaufen derzeit Verfahren wie die Befreiung von der vorläufigen Machbarkeitsprüfung und sollen 2027 starten. Besprochen wurden auch Wohnungsmarkttrends, Haushaltsverschuldung und Maßnahmen gegen illegale Immobilienpraktiken. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Logements à Gwacheon et Taereung: début des travaux avancé à 2029",
-        "excerpt": "Koo Yun-cheol, vice-Premier ministre et ministre de l’Économie et des Finances, a annoncé le 15 que les projets de logements à Gwacheon, au site du contre-espionnage et à Taereung commenceraient en 2029.",
-        "body": "Koo Yun-cheol, vice-Premier ministre et ministre de l’Économie et des Finances, a présidé le matin du 15 une réunion ministérielle sur l’immobilier au complexe gouvernemental de Séoul et a déclaré que les grands projets de logements au champ de courses de Gwacheon, sur le site du contre-espionnage et au golf de Taereung commenceraient en 2029, soit un an plus tôt que prévu. Koo a affirmé que « l’offre rapide est primordiale » et que le gouvernement compresse toutes les étapes d’exécution afin que les plans annoncés se traduisent par des logements réels. Environ 2.900 logements, dont le terrain militaire de Gangseo et le développement mixte d’anciens bâtiments publics, suivent des procédures telles que l’exemption d’étude préliminaire de faisabilité et devraient démarrer en 2027. La réunion a aussi abordé le marché du logement, la dette des ménages et la lutte contre les actes immobiliers illégaux. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "تقديم بدء إسكان غواتشيون وتايرونغ إلى 2029 وكو يؤكد تسريع المعروض",
-        "excerpt": "قال نائب رئيس الوزراء ووزير الاقتصاد والمالية كو يون تشول في 15 إن مشاريع الإسكان في مضمار غواتشيون وموقع مكافحة التجسس وملعب تايرونغ ستبدأ في 2029.",
-        "body": "ترأس كو يون تشول، نائب رئيس الوزراء ووزير الاقتصاد والمالية، صباح يوم 15 اجتماعا وزاريا معنيا بالعقارات في مجمع الحكومة في سول، وأعلن أن بناء مساكن واسعة النطاق في مضمار غواتشيون، وموقع قيادة مكافحة التجسس، وملعب تايرونغ للغولف سيبدأ في 2029، أي قبل الموعد بعام. وقال كو إن “الإمداد السريع هو الأهم”، مؤكدا أن الحكومة تضغط جميع مراحل التنفيذ حتى تتحول الخطط المعلنة إلى مساكن فعلية. أما نحو 2900 وحدة، تشمل أرضا عسكرية في غانغسو وتطويرا مركبا لمبان حكومية قديمة، فتسير إجراءاتها مثل الإعفاء من دراسة الجدوى الأولية، مع خطة لبدء العمل في 2027. وناقش الاجتماع أيضا اتجاهات سوق الإسكان، وإدارة ديون الأسر، والرد على المخالفات العقارية. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ग्वाचेन और तेरुंग आवास आपूर्ति 2029 में शुरू, एक साल पहले निर्माण",
-        "excerpt": "उप प्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने 15 तारीख को कहा कि ग्वाचेन रेसकोर्स, प्रतिरोधी खुफिया स्थल और तेरुंग गोल्फ कोर्स की आवास परियोजनाएं 2029 में शुरू होंगी।",
-        "body": "उप प्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने 15 तारीख की सुबह सियोल सरकारी परिसर में रियल एस्टेट संबंधी मंत्रिस्तरीय बैठक की अध्यक्षता करते हुए कहा कि ग्वाचेन रेसकोर्स, प्रतिरोधी खुफिया कमान स्थल और तेरुंग गोल्फ कोर्स में बड़े पैमाने की आवास आपूर्ति का निर्माण एक साल पहले, 2029 में शुरू करने की योजना है। कू ने कहा कि “तेज आपूर्ति सबसे महत्वपूर्ण है” और सरकार सभी कार्यान्वयन चरणों को संक्षिप्त कर रही है ताकि घोषित योजनाएं वास्तविक आवास में बदलें। गांगसो सैन्य भूमि और पुराने सरकारी भवनों के मिश्रित विकास सहित लगभग 2,900 इकाइयों के लिए प्रारंभिक व्यवहार्यता जांच से छूट जैसी प्रक्रियाएं चल रही हैं और 2027 में निर्माण शुरू करने की योजना है। बैठक में आवास बाजार, घरेलू कर्ज प्रबंधन और अवैध रियल एस्टेट गतिविधियों पर प्रतिक्रिया भी चर्चा में रही। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pasokan Hunian Gwacheon dan Taereung Dimajukan, Konstruksi Mulai 2029",
-        "excerpt": "Wakil PM sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol pada tanggal 15 menyatakan proyek hunian di Pacuan Kuda Gwacheon, situs kontraintelijen, dan Golf Taereung akan mulai 2029.",
-        "body": "Wakil Perdana Menteri sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol memimpin rapat menteri terkait real estat pada pagi tanggal 15 di Kompleks Pemerintah Seoul dan menyatakan pembangunan pasokan hunian skala besar di Pacuan Kuda Gwacheon, situs kontraintelijen, dan Lapangan Golf Taereung akan dimajukan satu tahun menjadi 2029. Koo mengatakan “pasokan cepat adalah yang terpenting” dan pemerintah sedang memadatkan semua tahap pelaksanaan agar rencana yang diumumkan langsung menjadi hunian nyata. Sekitar 2.900 unit, termasuk lahan militer Gangseo dan pengembangan campuran gedung pemerintah tua, sedang menjalani prosedur seperti pembebasan studi kelayakan awal dan ditargetkan mulai konstruksi pada 2027. Rapat juga membahas tren pasar perumahan, pengelolaan utang rumah tangga, serta respons terhadap tindakan ilegal real estat. Sumber: rss.donga.com"
       }
     }
   }

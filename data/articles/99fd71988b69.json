@@ -1,0 +1,75 @@
+{
+  "id": "99fd71988b69",
+  "slug": "스스로-차선-바꾸면-불법-규제-탓-직진밖에-못하는-k자율주행-643784",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T18:17:34.969Z",
+  "updatedAt": "2026-05-15T18:17:34.969Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933992/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933992/2",
+  "titleFingerprint": "ebfeb8ade8cd53c1ad8251668bde1a74091e2fee",
+  "dedupKeys": [
+    "99fd71988b69c6fe3ec35712b9327579b372c01f",
+    "ebfeb8ade8cd53c1ad8251668bde1a74091e2fee",
+    "697b7b3ec4de740756542485581c6029c778bc35"
+  ],
+  "imageUrl": "/images/articles/99fd71988b69.jpg",
+  "i18n": {
+    "ko": {
+      "title": "자율주행 규제 장벽에 막힌 K자율주행, 레벨4 셔틀도 청계천 4.8km에 갇혔다",
+      "excerpt": "한국 자율주행 스타트업 오토노머스에이투지의 레벨4 셔틀 ‘로이’가 공공도로 허가 제한으로 청계천 4.8km 구간에 머물며 규제 장벽이 기술 격차의 원인으로 지목됐다.",
+      "body": "자율주행 스타트업 오토노머스에이투지의 8인승 자율주행 셔틀 ‘로이’는 운전자가 탑승하지 않는 레벨4 차량이지만, 서울 청계천 청계광장부터 청계5가 광장시장 인근까지 4.8km 구간 밖에서는 보기 어렵다. 공공 도로 운행 허가가 제한돼 있기 때문이다. 원문은 한국 자율주행 기업 전체의 누적 자율주행 거리가 1306만 km에 그쳐, 자율주행 데이터 160억 km가 쌓인 미국 테슬라와 큰 차이를 보인다고 전했다. 자율주행차가 달릴 수 있는 구간이 적고, 여러 법령에 흩어진 조건을 모두 충족해야 운행할 수 있다는 점도 부담이다. 기술 발전 속도를 따라가지 못하는 제도가 K자율주행의 실증과 데이터 축적을 늦추는 요인으로 거론된다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "Regulatory barriers trap Korea’s autonomous driving, with Level 4 shuttle limited to 4.8 km",
+      "excerpt": "Autonomous a2z’s Level 4 shuttle Roi remains largely confined to a 4.8 km Cheonggyecheon route in Seoul, as public-road approval limits are cited as a key barrier widening Korea’s autonomous-driving gap.",
+      "body": "Autonomous-driving startup Autonomous a2z operates Roi, an eight-seat Level 4 shuttle supervised remotely without a driver on board, but the vehicle is rarely seen beyond a 4.8 km route from Cheonggye Plaza to the area near Gwangjang Market at Cheonggye 5-ga in Seoul. The reason is that it has not been broadly approved to run on public roads. The original report said all Korean autonomous-driving companies combined have logged only 13.06 million km of autonomous driving, far behind Tesla in the United States, which has accumulated 16 billion km of data. Limited test routes and requirements scattered across multiple laws make operation difficult unless every condition is met. Regulations that lag technology are being cited as a factor slowing Korea’s testing and data accumulation. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "規制の壁に阻まれる韓国自動運転、レベル4シャトルも清渓川4.8kmに限定",
+      "excerpt": "韓国の自動運転スタートアップAutonomous a2zのレベル4シャトル「Roi」は、公道走行許可の制限によりソウル清渓川4.8km区間に事実上とどまっている。",
+      "body": "自動運転スタートアップAutonomous a2zの8人乗り自動運転シャトル「Roi」は、運転者が乗車せず遠隔監督で走るレベル4車両だが、ソウルの清渓広場から清渓5街・広蔵市場付近までの4.8km区間以外ではほとんど見られない。公道での走行許可が限られているためだ。原文は、韓国の自動運転企業全体の累積自動運転距離が1306万kmにとどまり、160億kmのデータを蓄積した米テスラとの差が大きいと伝えた。走行可能区間が少なく、複数の法令に分散した条件をすべて満たさなければ運行できない点も負担となる。技術の進展に制度が追いつかず、韓国自動運転の実証とデータ蓄積を遅らせている。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "自动驾驶监管壁垒困住韩国技术，L4接驳车也被限制在清溪川4.8公里",
+      "excerpt": "韩国自动驾驶初创企业Autonomous a2z的L4接驳车Roi因公共道路许可受限，主要停留在首尔清溪川4.8公里区间，监管壁垒被指拉大技术差距。",
+      "body": "自动驾驶初创企业Autonomous a2z的8座自动驾驶接驳车Roi，是车内无驾驶员、由远程监督的L4级自动驾驶车辆。但在首尔清溪川清溪广场至清溪5街广藏市场附近的4.8公里区间之外，很难看到它的身影，原因是公共道路行驶许可受到限制。原文称，韩国所有自动驾驶企业累计自动驾驶里程合计仅1306万公里，而美国特斯拉已积累160亿公里自动驾驶数据，差距明显。可行驶区间少，且分散在多项法规中的条件必须全部满足，才能上路运行。未能跟上技术发展速度的制度，被认为正在拖慢韩国自动驾驶的实证和数据积累。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "Las barreras regulatorias frenan la conducción autónoma coreana y limitan un shuttle L4 a 4,8 km",
+      "excerpt": "El shuttle Roi de nivel 4 de Autonomous a2z, startup surcoreana de conducción autónoma, permanece casi limitado a 4,8 km en Cheonggyecheon por restricciones de autorización en vías públicas.",
+      "body": "El shuttle autónomo Roi, de ocho plazas y desarrollado por la startup Autonomous a2z, es un vehículo de nivel 4 que circula sin conductor a bordo bajo supervisión remota. Sin embargo, apenas se ve fuera del tramo de 4,8 km entre Cheonggye Plaza y la zona cercana al mercado Gwangjang, en Cheonggye 5-ga, Seúl. La razón es que no cuenta con autorización amplia para circular por vías públicas. El texto original señala que todas las empresas coreanas de conducción autónoma suman solo 13,06 millones de km acumulados, frente a los 16.000 millones de km de datos de Tesla en Estados Unidos. Los tramos permitidos son escasos y las condiciones están dispersas en varias leyes, lo que impide operar si no se cumplen todas. La regulación rezagada frente a la tecnología se cita como un factor que ralentiza las pruebas y la acumulación de datos en Corea. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Barreiras regulatórias travam direção autônoma coreana e limitam shuttle L4 a 4,8 km",
+      "excerpt": "O shuttle Roi, de nível 4, da startup sul-coreana Autonomous a2z, fica quase restrito a um trecho de 4,8 km em Cheonggyecheon devido a limites de autorização em vias públicas.",
+      "body": "O Roi, shuttle autônomo de oito lugares da startup Autonomous a2z, é um veículo de nível 4 que opera sem motorista a bordo, com supervisão remota. Mesmo assim, é difícil vê-lo fora do trecho de 4,8 km entre a Cheonggye Plaza e a área próxima ao mercado Gwangjang, em Cheonggye 5-ga, Seul. O motivo é a limitação da autorização para circular em vias públicas. O texto original informa que todas as empresas coreanas de direção autônoma somam apenas 13,06 milhões de km acumulados, contra 16 bilhões de km de dados da Tesla nos Estados Unidos. Há poucos trechos liberados e as condições estão espalhadas por várias leis, exigindo cumprimento integral para operar. Regras que não acompanham a tecnologia são apontadas como fator que atrasa testes e acúmulo de dados na Coreia. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "Regulierung bremst Koreas autonomes Fahren, Level-4-Shuttle bleibt auf 4,8 km begrenzt",
+      "excerpt": "Der Level-4-Shuttle Roi des koreanischen Start-ups Autonomous a2z fährt wegen begrenzter Genehmigungen für öffentliche Straßen fast nur auf 4,8 km entlang des Cheonggyecheon in Seoul.",
+      "body": "Der achtplätzige autonome Shuttle Roi des Start-ups Autonomous a2z ist ein Level-4-Fahrzeug, das ohne Fahrer an Bord und unter Fernaufsicht fährt. Außerhalb der 4,8 km langen Strecke vom Cheonggye Plaza bis in die Nähe des Gwangjang-Markts bei Cheonggye 5-ga in Seoul ist er jedoch kaum zu sehen. Grund ist die eingeschränkte Genehmigung für den Betrieb auf öffentlichen Straßen. Der Originalbericht nennt für alle koreanischen Unternehmen zusammen nur 13,06 Millionen km kumulierte autonome Fahrleistung, während Tesla in den USA 16 Milliarden km Daten gesammelt hat. Wenige zugelassene Strecken und über mehrere Gesetze verteilte Bedingungen erschweren den Betrieb, wenn nicht alle Vorgaben erfüllt sind. Regeln, die der Technologie hinterherlaufen, gelten als Faktor, der Tests und Datensammlung in Korea verlangsamt. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "Les règles freinent la conduite autonome coréenne, un shuttle L4 limité à 4,8 km",
+      "excerpt": "Le shuttle Roi de niveau 4 d’Autonomous a2z, startup sud-coréenne de conduite autonome, reste presque cantonné à 4,8 km le long de Cheonggyecheon faute d’autorisations larges sur voie publique.",
+      "body": "Le shuttle autonome Roi, huit places, développé par la startup Autonomous a2z, est un véhicule de niveau 4 circulant sans conducteur à bord sous supervision à distance. Pourtant, on le voit rarement hors du trajet de 4,8 km entre Cheonggye Plaza et les environs du marché de Gwangjang, à Cheonggye 5-ga, Séoul. La raison tient aux limites d’autorisation de circulation sur les routes publiques. Le texte original indique que toutes les entreprises coréennes de conduite autonome totalisent seulement 13,06 millions de km parcourus, contre 16 milliards de km de données accumulées par Tesla aux États-Unis. Les zones autorisées sont peu nombreuses et les conditions dispersées dans plusieurs textes doivent toutes être remplies pour opérer. Ce cadre en retard sur la technologie est cité comme un frein aux essais et à l’accumulation de données en Corée. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "القيود التنظيمية تكبح القيادة الذاتية الكورية وتحصر حافلة مستوى 4 في 4.8 كم",
+      "excerpt": "حافلة Roi ذاتية القيادة من المستوى الرابع التابعة لشركة Autonomous a2z الكورية تبقى غالبا ضمن مسار 4.8 كم في تشونغيتشيون بسيول بسبب قيود ترخيص الطرق العامة.",
+      "body": "حافلة Roi ذاتية القيادة ذات الثمانية مقاعد، التي طورتها شركة Autonomous a2z الناشئة، هي مركبة من المستوى الرابع تعمل من دون سائق داخلها وتخضع لإشراف عن بعد. لكنها نادرا ما تظهر خارج مسار يبلغ 4.8 كم من ساحة تشونغيه إلى المنطقة القريبة من سوق غوانغجانغ عند تشونغيه 5-غا في سيول. والسبب هو محدودية السماح لها بالسير على الطرق العامة. وذكر النص الأصلي أن إجمالي المسافة التراكمية للقيادة الذاتية لدى جميع الشركات الكورية يبلغ 13.06 مليون كم فقط، مقارنة ببيانات قدرها 16 مليار كم لدى تسلا في الولايات المتحدة. كما أن قلة المقاطع المسموح بها وتوزع الشروط بين عدة قوانين يجعلان التشغيل ممكنا فقط عند استيفاء كل المتطلبات. وتعد اللوائح التي لا تواكب تطور التقنية عاملا يبطئ الاختبارات وجمع البيانات في كوريا. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "नियमों की दीवार से रुकी कोरिया की स्वचालित ड्राइविंग, L4 शटल 4.8 किमी में सीमित",
+      "excerpt": "दक्षिण कोरियाई स्टार्टअप Autonomous a2z की लेवल 4 शटल Roi सार्वजनिक सड़कों की अनुमति सीमित होने से सियोल के Cheonggyecheon में 4.8 किमी मार्ग तक लगभग सीमित है।",
+      "body": "स्वचालित ड्राइविंग स्टार्टअप Autonomous a2z की आठ सीटों वाली शटल Roi लेवल 4 वाहन है, जिसमें चालक सवार नहीं होता और निगरानी दूर से की जाती है। फिर भी यह सियोल में Cheonggye Plaza से Cheonggye 5-ga के Gwangjang Market क्षेत्र तक 4.8 किमी मार्ग के बाहर मुश्किल से दिखती है। वजह सार्वजनिक सड़कों पर चलने की सीमित अनुमति है। मूल रिपोर्ट के अनुसार, सभी कोरियाई स्वचालित वाहन कंपनियों की कुल संचित स्वचालित ड्राइविंग दूरी केवल 1.306 करोड़ किमी है, जबकि अमेरिका की Tesla के पास 1600 करोड़ किमी डेटा है। चलने योग्य खंड कम हैं और कई कानूनों में बिखरी शर्तें पूरी किए बिना संचालन संभव नहीं। तकनीक की गति से पीछे नियम कोरिया में परीक्षण और डेटा संग्रह को धीमा करने वाला कारण बताए गए हैं। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Regulasi hambat kendaraan otonom Korea, shuttle Level 4 pun terkurung di 4,8 km",
+      "excerpt": "Shuttle Level 4 Roi milik startup Korea Autonomous a2z hampir hanya beroperasi di rute 4,8 km Cheonggyecheon, Seoul, karena izin jalan umum terbatas dan regulasi dinilai menghambat pengumpulan data.",
+      "body": "Roi, shuttle otonom delapan kursi milik startup Autonomous a2z, adalah kendaraan Level 4 yang berjalan tanpa pengemudi di dalam mobil dan diawasi dari jarak jauh. Namun kendaraan ini sulit ditemukan di luar rute 4,8 km dari Cheonggye Plaza hingga area dekat Pasar Gwangjang di Cheonggye 5-ga, Seoul. Penyebabnya adalah izin operasi di jalan umum yang terbatas. Teks asli menyebut total jarak otonom seluruh perusahaan Korea baru 13,06 juta km, jauh dari Tesla di Amerika Serikat yang telah mengumpulkan data 16 miliar km. Ruas yang boleh dilalui sedikit, sementara syarat tersebar di berbagai aturan dan harus dipenuhi seluruhnya sebelum beroperasi. Regulasi yang tertinggal dari laju teknologi disebut memperlambat uji coba dan akumulasi data kendaraan otonom Korea. Sumber: rss.donga.com"
+    }
+  }
+}
