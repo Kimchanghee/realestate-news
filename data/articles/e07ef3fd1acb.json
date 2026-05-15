@@ -1,0 +1,75 @@
+{
+  "id": "e07ef3fd1acb",
+  "slug": "ai-데이터센터-수요-급등에-구리값-최고치글로벌-포커스-610055",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T19:30:28.497Z",
+  "updatedAt": "2026-05-15T19:30:28.497Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932741/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932741/2",
+  "titleFingerprint": "877463b69d887031a47bd4e46983b4921122aa08",
+  "dedupKeys": [
+    "e07ef3fd1acb1493a78e110e67a4d36fed66ea05",
+    "877463b69d887031a47bd4e46983b4921122aa08",
+    "90357fdb2ef5440771c54935432597e6ee7058e0"
+  ],
+  "imageUrl": "/images/articles/e07ef3fd1acb.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 데이터센터 수요에 구리값 최고치, 황산 부족까지 겹친 광물시장",
+      "excerpt": "AI 인프라 확대와 지정학적 불확실성 속에 구리 공급이 수요를 따라가지 못하고, 중국의 황산 수출 금지까지 겹치며 COMEX 구리 선물이 최고권에 머물렀다.",
+      "body": "인공지능(AI) 데이터센터와 관련 인프라 수요가 급증하면서 글로벌 산업용 광물 시장이 흔들리고 있다. 13일(현지 시간) 미국 뉴욕상품거래소(COMEX)에서 7월물 구리 선물은 파운드당 6.6달러에 마감했다. 사상 최고치를 경신했던 전날 6.64달러보다는 소폭 내렸지만 강세는 이어졌다. 구리는 경기 흐름을 미리 반영한다고 해 ‘닥터 코퍼’로 불리며, 최근 상승세는 AI 인프라용 수요 확대가 주도했다. 공급이 이를 따라가지 못하는 가운데 중국의 황산 수출 금지도 가격 압력을 키웠다. 황산은 구리 제련에 필요한 핵심 원자재다. 친환경 전력 인프라와 에너지저장장치(ESS)에 쓰이는 리튬 가격도 저점의 3배 수준으로 올랐다. 출처: rss.donga.com"
+    },
+    "en": {
+      "title": "AI Data Center Demand Sends Copper Near Record as Sulfuric Acid Shortage Bites",
+      "excerpt": "Copper futures stayed near record levels on COMEX as AI infrastructure demand outpaced supply and China’s sulfuric acid export ban added pressure to the global minerals market.",
+      "body": "Global industrial minerals markets are being shaken by rising artificial intelligence infrastructure demand and geopolitical uncertainty. On May 13 local time, July copper futures on the New York Mercantile Exchange’s COMEX closed at $6.60 per pound. That was slightly below the previous day’s record high of $6.64, but prices remained strong. Copper, often called “Dr. Copper” because it is viewed as a leading indicator of the global economy, has recently risen mainly on demand tied to AI infrastructure. Supply has not kept pace, while China’s sulfuric acid export ban has added further price pressure. Sulfuric acid is a key raw material for copper smelting. Lithium, essential for green power infrastructure and energy storage systems, has also climbed to about three times its low. Source: rss.donga.com"
+    },
+    "ja": {
+      "title": "AIデータセンター需要で銅価格が最高圏、硫酸不足も鉱物市場を圧迫",
+      "excerpt": "AIインフラ需要の急増に供給が追いつかず、中国の硫酸輸出禁止も重なり、COMEXの銅先物価格は過去最高圏で強含みを続けている。",
+      "body": "人工知能（AI）データセンターと関連インフラの需要急増により、世界の産業用鉱物市場が揺れている。13日（現地時間）、米ニューヨーク商品取引所（COMEX）の7月物銅先物は1ポンド当たり6.6ドルで取引を終えた。過去最高値を更新した前日の6.64ドルからは小幅に下げたが、強い水準を維持している。銅は景気動向を先取りして映すとされ「ドクター・カッパー」と呼ばれる。最近の上昇はAIインフラ向け需要の拡大が主導した。供給が追いつかない中、中国の硫酸輸出禁止も価格上昇圧力を高めている。硫酸は銅製錬に必要な重要原料だ。環境対応型電力インフラやエネルギー貯蔵装置（ESS）に不可欠なリチウム価格も安値の約3倍に上昇した。出典: rss.donga.com"
+    },
+    "zh": {
+      "title": "AI数据中心需求推高铜价至高位，硫酸短缺加剧矿物市场波动",
+      "excerpt": "在AI基础设施需求激增、供应难以跟上以及中国禁止硫酸出口的影响下，COMEX铜期货维持在历史高位附近。",
+      "body": "人工智能（AI）数据中心及相关基础设施需求快速增长，正在搅动全球工业矿物市场。当地时间13日，美国纽约商品交易所（COMEX）7月铜期货收于每磅6.6美元。虽然较前一日创下历史新高的6.64美元小幅回落，但仍保持强势。铜因被视为预判全球经济走势的先行指标，被称为“铜博士”。近期铜价上涨主要由AI基础设施需求扩大推动。供应未能跟上需求，同时中国禁止硫酸出口进一步增加了价格压力。硫酸是铜冶炼所需的关键原材料。用于绿色电力基础设施和储能系统（ESS）的锂价也升至低点的约3倍。来源: rss.donga.com"
+    },
+    "es": {
+      "title": "La demanda de centros de datos de IA lleva el cobre a máximos y tensa los minerales",
+      "excerpt": "El cobre se mantuvo cerca de máximos históricos en COMEX por la demanda de infraestructura de IA, la falta de oferta y la prohibición china de exportar ácido sulfúrico.",
+      "body": "La demanda de centros de datos e infraestructura de inteligencia artificial está sacudiendo el mercado mundial de minerales industriales. El 13 de mayo, hora local, los futuros de cobre de julio en COMEX, de la Bolsa Mercantil de Nueva York, cerraron a 6,6 dólares por libra. Fue una leve baja frente al récord de 6,64 dólares del día anterior, pero el precio siguió firme. El cobre, conocido como “Doctor Cobre” por anticipar la situación de la economía mundial, ha subido recientemente impulsado por la demanda ligada a la infraestructura de IA. La oferta no ha logrado seguir el ritmo, y la prohibición de China a las exportaciones de ácido sulfúrico añadió presión. El ácido sulfúrico es una materia prima clave para fundir cobre. El litio, esencial para la infraestructura eléctrica verde y los sistemas de almacenamiento de energía, también subió a cerca del triple de su mínimo. Fuente: rss.donga.com"
+    },
+    "pt": {
+      "title": "Demanda de data centers de IA leva cobre a máximas e pressiona minerais globais",
+      "excerpt": "Futuros de cobre seguiram perto de recordes na COMEX com demanda de infraestrutura de IA acima da oferta e proibição chinesa de exportar ácido sulfúrico.",
+      "body": "A alta demanda por data centers e infraestrutura de inteligência artificial está abalando o mercado global de minerais industriais. Em 13 de maio, horário local, os contratos futuros de cobre para julho na COMEX, da Bolsa Mercantil de Nova York, fecharam a US$ 6,6 por libra. O valor ficou um pouco abaixo do recorde de US$ 6,64 registrado no dia anterior, mas manteve a força. O cobre é chamado de “Doutor Cobre” por refletir antecipadamente as condições da economia mundial. A recente alta foi liderada pela expansão da demanda ligada à infraestrutura de IA. A oferta não acompanhou esse ritmo, enquanto a proibição da China às exportações de ácido sulfúrico aumentou a pressão sobre os preços. O ácido sulfúrico é uma matéria-prima essencial para a fundição de cobre. O lítio, necessário para infraestrutura elétrica verde e sistemas de armazenamento de energia, também subiu para cerca de três vezes seu piso. Fonte: rss.donga.com"
+    },
+    "de": {
+      "title": "KI-Rechenzentren treiben Kupferpreis auf Rekordniveau, Säuremangel belastet Markt",
+      "excerpt": "Kupfer-Futures blieben an der COMEX nahe Rekordständen, weil KI-Infrastrukturnachfrage das Angebot übersteigt und Chinas Exportstopp für Schwefelsäure zusätzlichen Druck erzeugt.",
+      "body": "Die stark wachsende Nachfrage nach Rechenzentren und Infrastruktur für künstliche Intelligenz bringt die globalen Märkte für Industrieminerale in Bewegung. Am 13. Mai Ortszeit schlossen Juli-Kupferfutures an der COMEX der New York Mercantile Exchange bei 6,6 Dollar je Pfund. Damit lagen sie leicht unter dem Rekordwert von 6,64 Dollar am Vortag, blieben aber auf hohem Niveau. Kupfer wird wegen seiner Rolle als Frühindikator der Weltkonjunktur „Dr. Copper“ genannt. Der jüngste Preisanstieg wurde vor allem von der Nachfrage nach KI-Infrastruktur getragen. Das Angebot hält damit nicht Schritt, zudem erhöht Chinas Exportverbot für Schwefelsäure den Preisdruck. Schwefelsäure ist ein wichtiger Rohstoff für die Kupferverhüttung. Auch Lithium, das für grüne Strominfrastruktur und Energiespeichersysteme nötig ist, stieg auf etwa das Dreifache seines Tiefs. Quelle: rss.donga.com"
+    },
+    "fr": {
+      "title": "La demande des centres de données IA pousse le cuivre près des records mondiaux",
+      "excerpt": "Les contrats à terme sur le cuivre restent proches de records au COMEX, portés par l’IA, une offre insuffisante et l’interdiction chinoise d’exporter de l’acide sulfurique.",
+      "body": "La demande croissante de centres de données et d’infrastructures d’intelligence artificielle secoue le marché mondial des minéraux industriels. Le 13 mai, heure locale, les contrats à terme sur le cuivre pour juillet au COMEX, à la Bourse de commerce de New York, ont clôturé à 6,6 dollars la livre. Le prix a légèrement reculé par rapport au record de 6,64 dollars atteint la veille, mais il reste élevé. Le cuivre, surnommé « Dr Copper » car il est considéré comme un indicateur avancé de l’économie mondiale, a récemment progressé sous l’effet de la demande liée aux infrastructures d’IA. L’offre ne suit pas, tandis que l’interdiction chinoise d’exporter de l’acide sulfurique accentue la pression. Cet acide est une matière première essentielle à la fusion du cuivre. Le lithium, indispensable aux infrastructures électriques vertes et aux systèmes de stockage d’énergie, vaut aussi environ trois fois son point bas. Source: rss.donga.com"
+    },
+    "ar": {
+      "title": "طلب مراكز بيانات الذكاء الاصطناعي يدفع النحاس إلى مستوى قياسي وسط نقص الحمض",
+      "excerpt": "بقيت عقود النحاس في كومكس قرب مستويات قياسية مع ارتفاع طلب بنية الذكاء الاصطناعي، وعجز الإمدادات، وحظر الصين تصدير حمض الكبريتيك.",
+      "body": "تهز الزيادة السريعة في الطلب على مراكز بيانات الذكاء الاصطناعي والبنية التحتية المرتبطة بها سوق المعادن الصناعية العالمية. في 13 مايو بالتوقيت المحلي، أغلقت عقود النحاس الآجلة لشهر يوليو في كومكس التابعة لبورصة نيويورك التجارية عند 6.6 دولارات للرطل. وتراجع السعر قليلا عن الرقم القياسي البالغ 6.64 دولارات في اليوم السابق، لكنه ظل قويا. ويعرف النحاس باسم «دكتور كوبر» لأنه يعد مؤشرا مبكرا على وضع الاقتصاد العالمي. وجاء الارتفاع الأخير مدفوعا أساسا بالطلب على بنية الذكاء الاصطناعي. ولم تتمكن الإمدادات من مجاراة الطلب، كما زاد حظر الصين تصدير حمض الكبريتيك الضغط على الأسعار. ويعد هذا الحمض مادة أساسية في صهر النحاس. كما ارتفع سعر الليثيوم، الضروري للبنية الكهربائية الخضراء وأنظمة تخزين الطاقة، إلى نحو ثلاثة أمثال مستواه المنخفض. المصدر: rss.donga.com"
+    },
+    "hi": {
+      "title": "AI डेटा सेंटर मांग से तांबा रिकॉर्ड स्तर पर, सल्फ्यूरिक एसिड कमी ने दबाव बढ़ाया",
+      "excerpt": "AI अवसंरचना की तेज मांग, आपूर्ति की कमी और चीन के सल्फ्यूरिक एसिड निर्यात प्रतिबंध के बीच COMEX पर तांबा वायदा रिकॉर्ड स्तरों के पास बना रहा।",
+      "body": "कृत्रिम बुद्धिमत्ता (AI) डेटा सेंटर और संबंधित अवसंरचना की मांग तेजी से बढ़ने से वैश्विक औद्योगिक खनिज बाजार प्रभावित हो रहा है। स्थानीय समयानुसार 13 मई को न्यूयॉर्क मर्केंटाइल एक्सचेंज के COMEX पर जुलाई तांबा वायदा 6.6 डॉलर प्रति पाउंड पर बंद हुआ। यह पिछले दिन बने 6.64 डॉलर के रिकॉर्ड उच्च स्तर से थोड़ा कम था, लेकिन मजबूती बनी रही। तांबे को वैश्विक अर्थव्यवस्था का अग्रिम संकेतक माना जाता है, इसलिए इसे “डॉ. कॉपर” कहा जाता है। हालिया बढ़त मुख्य रूप से AI अवसंरचना से जुड़ी मांग ने चलाई। आपूर्ति इस मांग के साथ नहीं चल पा रही है, जबकि चीन के सल्फ्यूरिक एसिड निर्यात प्रतिबंध ने कीमतों पर और दबाव डाला। सल्फ्यूरिक एसिड तांबे के गलाने के लिए अहम कच्चा माल है। हरित बिजली अवसंरचना और ऊर्जा भंडारण प्रणाली (ESS) के लिए जरूरी लिथियम भी अपने निचले स्तर से करीब तीन गुना हो गया है। स्रोत: rss.donga.com"
+    },
+    "id": {
+      "title": "Permintaan Data Center AI Dorong Harga Tembaga ke Rekor, Pasar Mineral Tertekan",
+      "excerpt": "Harga berjangka tembaga di COMEX bertahan dekat rekor karena permintaan infrastruktur AI melampaui pasokan dan larangan ekspor asam sulfat China menambah tekanan.",
+      "body": "Lonjakan permintaan pusat data dan infrastruktur kecerdasan buatan mengguncang pasar mineral industri global. Pada 13 Mei waktu setempat, kontrak berjangka tembaga Juli di COMEX, New York Mercantile Exchange, ditutup pada 6,6 dolar AS per pon. Angka itu sedikit turun dari rekor 6,64 dolar AS pada hari sebelumnya, tetapi harga tetap kuat. Tembaga dikenal sebagai “Dr. Copper” karena dianggap sebagai indikator awal kondisi ekonomi dunia. Kenaikan terbaru terutama didorong permintaan untuk infrastruktur AI. Pasokan belum mampu mengimbangi, sementara larangan China mengekspor asam sulfat menambah tekanan harga. Asam sulfat adalah bahan baku penting dalam peleburan tembaga. Harga litium, yang penting bagi infrastruktur listrik ramah lingkungan dan sistem penyimpanan energi, juga naik menjadi sekitar tiga kali lipat dari titik terendahnya. Sumber: rss.donga.com"
+    }
+  }
+}

@@ -1,5 +1,230 @@
 [
   {
+    "id": "e07ef3fd1acb",
+    "slug": "ai-데이터센터-수요-급등에-구리값-최고치글로벌-포커스-610055",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T19:30:28.497Z",
+    "updatedAt": "2026-05-15T19:30:28.497Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932741/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932741/2",
+    "titleFingerprint": "877463b69d887031a47bd4e46983b4921122aa08",
+    "dedupKeys": [
+      "e07ef3fd1acb1493a78e110e67a4d36fed66ea05",
+      "877463b69d887031a47bd4e46983b4921122aa08",
+      "90357fdb2ef5440771c54935432597e6ee7058e0"
+    ],
+    "imageUrl": "/images/articles/e07ef3fd1acb.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 데이터센터 수요에 구리값 최고치, 황산 부족까지 겹친 광물시장",
+        "excerpt": "AI 인프라 확대와 지정학적 불확실성 속에 구리 공급이 수요를 따라가지 못하고, 중국의 황산 수출 금지까지 겹치며 COMEX 구리 선물이 최고권에 머물렀다.",
+        "body": "인공지능(AI) 데이터센터와 관련 인프라 수요가 급증하면서 글로벌 산업용 광물 시장이 흔들리고 있다. 13일(현지 시간) 미국 뉴욕상품거래소(COMEX)에서 7월물 구리 선물은 파운드당 6.6달러에 마감했다. 사상 최고치를 경신했던 전날 6.64달러보다는 소폭 내렸지만 강세는 이어졌다. 구리는 경기 흐름을 미리 반영한다고 해 ‘닥터 코퍼’로 불리며, 최근 상승세는 AI 인프라용 수요 확대가 주도했다. 공급이 이를 따라가지 못하는 가운데 중국의 황산 수출 금지도 가격 압력을 키웠다. 황산은 구리 제련에 필요한 핵심 원자재다. 친환경 전력 인프라와 에너지저장장치(ESS)에 쓰이는 리튬 가격도 저점의 3배 수준으로 올랐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "AI Data Center Demand Sends Copper Near Record as Sulfuric Acid Shortage Bites",
+        "excerpt": "Copper futures stayed near record levels on COMEX as AI infrastructure demand outpaced supply and China’s sulfuric acid export ban added pressure to the global minerals market.",
+        "body": "Global industrial minerals markets are being shaken by rising artificial intelligence infrastructure demand and geopolitical uncertainty. On May 13 local time, July copper futures on the New York Mercantile Exchange’s COMEX closed at $6.60 per pound. That was slightly below the previous day’s record high of $6.64, but prices remained strong. Copper, often called “Dr. Copper” because it is viewed as a leading indicator of the global economy, has recently risen mainly on demand tied to AI infrastructure. Supply has not kept pace, while China’s sulfuric acid export ban has added further price pressure. Sulfuric acid is a key raw material for copper smelting. Lithium, essential for green power infrastructure and energy storage systems, has also climbed to about three times its low. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "AIデータセンター需要で銅価格が最高圏、硫酸不足も鉱物市場を圧迫",
+        "excerpt": "AIインフラ需要の急増に供給が追いつかず、中国の硫酸輸出禁止も重なり、COMEXの銅先物価格は過去最高圏で強含みを続けている。",
+        "body": "人工知能（AI）データセンターと関連インフラの需要急増により、世界の産業用鉱物市場が揺れている。13日（現地時間）、米ニューヨーク商品取引所（COMEX）の7月物銅先物は1ポンド当たり6.6ドルで取引を終えた。過去最高値を更新した前日の6.64ドルからは小幅に下げたが、強い水準を維持している。銅は景気動向を先取りして映すとされ「ドクター・カッパー」と呼ばれる。最近の上昇はAIインフラ向け需要の拡大が主導した。供給が追いつかない中、中国の硫酸輸出禁止も価格上昇圧力を高めている。硫酸は銅製錬に必要な重要原料だ。環境対応型電力インフラやエネルギー貯蔵装置（ESS）に不可欠なリチウム価格も安値の約3倍に上昇した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "AI数据中心需求推高铜价至高位，硫酸短缺加剧矿物市场波动",
+        "excerpt": "在AI基础设施需求激增、供应难以跟上以及中国禁止硫酸出口的影响下，COMEX铜期货维持在历史高位附近。",
+        "body": "人工智能（AI）数据中心及相关基础设施需求快速增长，正在搅动全球工业矿物市场。当地时间13日，美国纽约商品交易所（COMEX）7月铜期货收于每磅6.6美元。虽然较前一日创下历史新高的6.64美元小幅回落，但仍保持强势。铜因被视为预判全球经济走势的先行指标，被称为“铜博士”。近期铜价上涨主要由AI基础设施需求扩大推动。供应未能跟上需求，同时中国禁止硫酸出口进一步增加了价格压力。硫酸是铜冶炼所需的关键原材料。用于绿色电力基础设施和储能系统（ESS）的锂价也升至低点的约3倍。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "La demanda de centros de datos de IA lleva el cobre a máximos y tensa los minerales",
+        "excerpt": "El cobre se mantuvo cerca de máximos históricos en COMEX por la demanda de infraestructura de IA, la falta de oferta y la prohibición china de exportar ácido sulfúrico.",
+        "body": "La demanda de centros de datos e infraestructura de inteligencia artificial está sacudiendo el mercado mundial de minerales industriales. El 13 de mayo, hora local, los futuros de cobre de julio en COMEX, de la Bolsa Mercantil de Nueva York, cerraron a 6,6 dólares por libra. Fue una leve baja frente al récord de 6,64 dólares del día anterior, pero el precio siguió firme. El cobre, conocido como “Doctor Cobre” por anticipar la situación de la economía mundial, ha subido recientemente impulsado por la demanda ligada a la infraestructura de IA. La oferta no ha logrado seguir el ritmo, y la prohibición de China a las exportaciones de ácido sulfúrico añadió presión. El ácido sulfúrico es una materia prima clave para fundir cobre. El litio, esencial para la infraestructura eléctrica verde y los sistemas de almacenamiento de energía, también subió a cerca del triple de su mínimo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Demanda de data centers de IA leva cobre a máximas e pressiona minerais globais",
+        "excerpt": "Futuros de cobre seguiram perto de recordes na COMEX com demanda de infraestrutura de IA acima da oferta e proibição chinesa de exportar ácido sulfúrico.",
+        "body": "A alta demanda por data centers e infraestrutura de inteligência artificial está abalando o mercado global de minerais industriais. Em 13 de maio, horário local, os contratos futuros de cobre para julho na COMEX, da Bolsa Mercantil de Nova York, fecharam a US$ 6,6 por libra. O valor ficou um pouco abaixo do recorde de US$ 6,64 registrado no dia anterior, mas manteve a força. O cobre é chamado de “Doutor Cobre” por refletir antecipadamente as condições da economia mundial. A recente alta foi liderada pela expansão da demanda ligada à infraestrutura de IA. A oferta não acompanhou esse ritmo, enquanto a proibição da China às exportações de ácido sulfúrico aumentou a pressão sobre os preços. O ácido sulfúrico é uma matéria-prima essencial para a fundição de cobre. O lítio, necessário para infraestrutura elétrica verde e sistemas de armazenamento de energia, também subiu para cerca de três vezes seu piso. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "KI-Rechenzentren treiben Kupferpreis auf Rekordniveau, Säuremangel belastet Markt",
+        "excerpt": "Kupfer-Futures blieben an der COMEX nahe Rekordständen, weil KI-Infrastrukturnachfrage das Angebot übersteigt und Chinas Exportstopp für Schwefelsäure zusätzlichen Druck erzeugt.",
+        "body": "Die stark wachsende Nachfrage nach Rechenzentren und Infrastruktur für künstliche Intelligenz bringt die globalen Märkte für Industrieminerale in Bewegung. Am 13. Mai Ortszeit schlossen Juli-Kupferfutures an der COMEX der New York Mercantile Exchange bei 6,6 Dollar je Pfund. Damit lagen sie leicht unter dem Rekordwert von 6,64 Dollar am Vortag, blieben aber auf hohem Niveau. Kupfer wird wegen seiner Rolle als Frühindikator der Weltkonjunktur „Dr. Copper“ genannt. Der jüngste Preisanstieg wurde vor allem von der Nachfrage nach KI-Infrastruktur getragen. Das Angebot hält damit nicht Schritt, zudem erhöht Chinas Exportverbot für Schwefelsäure den Preisdruck. Schwefelsäure ist ein wichtiger Rohstoff für die Kupferverhüttung. Auch Lithium, das für grüne Strominfrastruktur und Energiespeichersysteme nötig ist, stieg auf etwa das Dreifache seines Tiefs. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La demande des centres de données IA pousse le cuivre près des records mondiaux",
+        "excerpt": "Les contrats à terme sur le cuivre restent proches de records au COMEX, portés par l’IA, une offre insuffisante et l’interdiction chinoise d’exporter de l’acide sulfurique.",
+        "body": "La demande croissante de centres de données et d’infrastructures d’intelligence artificielle secoue le marché mondial des minéraux industriels. Le 13 mai, heure locale, les contrats à terme sur le cuivre pour juillet au COMEX, à la Bourse de commerce de New York, ont clôturé à 6,6 dollars la livre. Le prix a légèrement reculé par rapport au record de 6,64 dollars atteint la veille, mais il reste élevé. Le cuivre, surnommé « Dr Copper » car il est considéré comme un indicateur avancé de l’économie mondiale, a récemment progressé sous l’effet de la demande liée aux infrastructures d’IA. L’offre ne suit pas, tandis que l’interdiction chinoise d’exporter de l’acide sulfurique accentue la pression. Cet acide est une matière première essentielle à la fusion du cuivre. Le lithium, indispensable aux infrastructures électriques vertes et aux systèmes de stockage d’énergie, vaut aussi environ trois fois son point bas. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "طلب مراكز بيانات الذكاء الاصطناعي يدفع النحاس إلى مستوى قياسي وسط نقص الحمض",
+        "excerpt": "بقيت عقود النحاس في كومكس قرب مستويات قياسية مع ارتفاع طلب بنية الذكاء الاصطناعي، وعجز الإمدادات، وحظر الصين تصدير حمض الكبريتيك.",
+        "body": "تهز الزيادة السريعة في الطلب على مراكز بيانات الذكاء الاصطناعي والبنية التحتية المرتبطة بها سوق المعادن الصناعية العالمية. في 13 مايو بالتوقيت المحلي، أغلقت عقود النحاس الآجلة لشهر يوليو في كومكس التابعة لبورصة نيويورك التجارية عند 6.6 دولارات للرطل. وتراجع السعر قليلا عن الرقم القياسي البالغ 6.64 دولارات في اليوم السابق، لكنه ظل قويا. ويعرف النحاس باسم «دكتور كوبر» لأنه يعد مؤشرا مبكرا على وضع الاقتصاد العالمي. وجاء الارتفاع الأخير مدفوعا أساسا بالطلب على بنية الذكاء الاصطناعي. ولم تتمكن الإمدادات من مجاراة الطلب، كما زاد حظر الصين تصدير حمض الكبريتيك الضغط على الأسعار. ويعد هذا الحمض مادة أساسية في صهر النحاس. كما ارتفع سعر الليثيوم، الضروري للبنية الكهربائية الخضراء وأنظمة تخزين الطاقة، إلى نحو ثلاثة أمثال مستواه المنخفض. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "AI डेटा सेंटर मांग से तांबा रिकॉर्ड स्तर पर, सल्फ्यूरिक एसिड कमी ने दबाव बढ़ाया",
+        "excerpt": "AI अवसंरचना की तेज मांग, आपूर्ति की कमी और चीन के सल्फ्यूरिक एसिड निर्यात प्रतिबंध के बीच COMEX पर तांबा वायदा रिकॉर्ड स्तरों के पास बना रहा।",
+        "body": "कृत्रिम बुद्धिमत्ता (AI) डेटा सेंटर और संबंधित अवसंरचना की मांग तेजी से बढ़ने से वैश्विक औद्योगिक खनिज बाजार प्रभावित हो रहा है। स्थानीय समयानुसार 13 मई को न्यूयॉर्क मर्केंटाइल एक्सचेंज के COMEX पर जुलाई तांबा वायदा 6.6 डॉलर प्रति पाउंड पर बंद हुआ। यह पिछले दिन बने 6.64 डॉलर के रिकॉर्ड उच्च स्तर से थोड़ा कम था, लेकिन मजबूती बनी रही। तांबे को वैश्विक अर्थव्यवस्था का अग्रिम संकेतक माना जाता है, इसलिए इसे “डॉ. कॉपर” कहा जाता है। हालिया बढ़त मुख्य रूप से AI अवसंरचना से जुड़ी मांग ने चलाई। आपूर्ति इस मांग के साथ नहीं चल पा रही है, जबकि चीन के सल्फ्यूरिक एसिड निर्यात प्रतिबंध ने कीमतों पर और दबाव डाला। सल्फ्यूरिक एसिड तांबे के गलाने के लिए अहम कच्चा माल है। हरित बिजली अवसंरचना और ऊर्जा भंडारण प्रणाली (ESS) के लिए जरूरी लिथियम भी अपने निचले स्तर से करीब तीन गुना हो गया है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Permintaan Data Center AI Dorong Harga Tembaga ke Rekor, Pasar Mineral Tertekan",
+        "excerpt": "Harga berjangka tembaga di COMEX bertahan dekat rekor karena permintaan infrastruktur AI melampaui pasokan dan larangan ekspor asam sulfat China menambah tekanan.",
+        "body": "Lonjakan permintaan pusat data dan infrastruktur kecerdasan buatan mengguncang pasar mineral industri global. Pada 13 Mei waktu setempat, kontrak berjangka tembaga Juli di COMEX, New York Mercantile Exchange, ditutup pada 6,6 dolar AS per pon. Angka itu sedikit turun dari rekor 6,64 dolar AS pada hari sebelumnya, tetapi harga tetap kuat. Tembaga dikenal sebagai “Dr. Copper” karena dianggap sebagai indikator awal kondisi ekonomi dunia. Kenaikan terbaru terutama didorong permintaan untuk infrastruktur AI. Pasokan belum mampu mengimbangi, sementara larangan China mengekspor asam sulfat menambah tekanan harga. Asam sulfat adalah bahan baku penting dalam peleburan tembaga. Harga litium, yang penting bagi infrastruktur listrik ramah lingkungan dan sistem penyimpanan energi, juga naik menjadi sekitar tiga kali lipat dari titik terendahnya. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "f3cc0e9b47c5",
+    "slug": "과천-태릉-주택-공급-1년-앞당겨-2029년-착공-135765",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T19:29:13.724Z",
+    "updatedAt": "2026-05-15T19:29:13.724Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933728/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133933728/2",
+    "titleFingerprint": "c1a04a1a98de4119fe066af5757810d555b1ae3a",
+    "dedupKeys": [
+      "f3cc0e9b47c5eb5571940f62583115abb7edf6fb",
+      "c1a04a1a98de4119fe066af5757810d555b1ae3a",
+      "a575aae6246845dbc17a538d748eadbc2a3438bd"
+    ],
+    "imageUrl": "/images/articles/f3cc0e9b47c5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "과천·태릉 주택 공급 2029년 착공 추진, 정부 일정 1년 앞당긴다",
+        "excerpt": "정부는 15일 부동산 관계 장관회의에서 과천 경마장과 태릉 골프장 등 주요 공공택지 주택 공급 일정을 최대 1년 앞당겨 2029년 착공하겠다고 밝혔다.",
+        "body": "정부가 15일 정부서울청사에서 열린 부동산 관계 장관회의에서 경기 과천 경마장과 서울 태릉 골프장 등 주요 공공택지의 주택 공급 일정을 최대 1년가량 앞당겨 2029년 착공하겠다고 밝혔다. 구윤철 부총리 겸 재정경제부 장관은 서울을 중심으로 커지는 주택 공급 부족 우려를 완화하기 위해 공급 속도를 높이겠다는 방침을 제시했다. 정부는 재건축·재개발과 공공택지 공급이 실제 입주까지 상당한 시간이 걸리는 점을 고려해, 오피스텔 등 비아파트 공급 확대도 병행 검토 중인 것으로 알려졌다. 다만 정부와 지방자치단체, 사업 주체의 이해관계가 엇갈려 신속한 협의가 쉽지 않을 수 있다는 전망도 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Gwacheon and Taereung Housing Supply to Start in 2029 as Korea Speeds Plan",
+        "excerpt": "At a real estate ministers’ meeting on the 15th, the government said it will move up housing supply schedules for major public sites, including Gwacheon Racecourse and Taereung Golf Course, by up to one year.",
+        "body": "The government said on the 15th at a real estate ministers’ meeting held at the Government Complex Seoul that it will move up housing supply schedules for major public housing sites, including Gwacheon Racecourse in Gyeonggi Province and Taereung Golf Course in Seoul, by up to about one year and begin construction in 2029. Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said the plan is intended to speed up supply and ease growing concerns over housing shortages, especially in Seoul. The government is also reportedly reviewing expanded supply of non-apartment housing, including officetels, because reconstruction, redevelopment and public land projects take considerable time before actual move-in. However, some expect quick coordination may be difficult because interests differ among the central government, local governments and project operators. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "果川・泰陵の住宅供給、2029年着工へ 政府が日程を1年前倒し",
+        "excerpt": "政府は15日の不動産関係閣僚会議で、果川競馬場や泰陵ゴルフ場など主要公共宅地の住宅供給日程を最大約1年前倒しし、2029年に着工すると明らかにした。",
+        "body": "政府は15日、政府ソウル庁舎で開いた不動産関係閣僚会議で、京畿道の果川競馬場やソウルの泰陵ゴルフ場など主要公共宅地の住宅供給日程を最大約1年前倒しし、2029年に着工すると明らかにした。具潤哲副首相兼財政経済部長官は、ソウルを中心に高まる住宅供給不足への懸念を和らげるため、供給速度を上げる方針を示した。政府は、再建築・再開発や公共宅地供給は実際の入居までかなりの時間がかかる点を踏まえ、オフィステルなど非アパート住宅の供給拡大も並行して検討しているとされる。ただし、政府、地方自治体、事業主体の利害が異なり、迅速な協議は容易でないとの見方も出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "果川和泰陵住房供应拟2029年开工，韩国政府将日程提前一年",
+        "excerpt": "韩国政府15日在房地产相关部长会议上表示，将把果川赛马场、首尔泰陵高尔夫球场等主要公共宅地住房供应日程最多提前约一年，计划2029年开工。",
+        "body": "韩国政府15日在政府首尔办公楼举行的房地产相关部长会议上表示，将把京畿道果川赛马场、首尔泰陵高尔夫球场等主要公共宅地的住房供应日程最多提前约一年，并于2029年开工。副总理兼财政经济部长官具润哲表示，此举旨在加快供应速度，缓解以首尔为中心不断扩大的住房供应不足担忧。由于重建、再开发和公共宅地供应距离实际入住仍需相当长时间，政府据悉也在研究同步扩大办公型住宅等非公寓住房供应。不过，也有观点认为，中央政府、地方政府和项目主体之间利益并不一致，迅速协商可能并不容易。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Gwacheon y Taereung iniciarían viviendas en 2029 tras adelanto del plan",
+        "excerpt": "El Gobierno dijo el día 15 que adelantará hasta cerca de un año el calendario de suministro de viviendas en terrenos públicos clave, como el hipódromo de Gwacheon y el campo de golf de Taereung.",
+        "body": "El Gobierno anunció el día 15, durante una reunión de ministros relacionados con el sector inmobiliario celebrada en el Complejo Gubernamental de Seúl, que adelantará hasta cerca de un año el calendario de suministro de viviendas en importantes terrenos públicos, incluidos el hipódromo de Gwacheon, en Gyeonggi, y el campo de golf de Taereung, en Seúl, con inicio de obras en 2029. El vice primer ministro y ministro de Economía y Finanzas, Koo Yun-cheol, explicó que la medida busca acelerar la oferta y aliviar la preocupación por la escasez de viviendas, especialmente en Seúl. El Gobierno también estaría revisando una ampliación de la oferta de viviendas no convencionales, como officetels, ya que la reconstrucción, la reurbanización y los proyectos en terrenos públicos tardan bastante hasta la ocupación real. Sin embargo, se prevé que la coordinación rápida sea difícil por diferencias de intereses entre el Gobierno, los gobiernos locales y los promotores. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Gwacheon e Taereung terão obras habitacionais em 2029 com plano antecipado",
+        "excerpt": "O governo afirmou no dia 15 que antecipará em até cerca de um ano o cronograma de oferta habitacional em áreas públicas importantes, como o hipódromo de Gwacheon e o campo de golfe de Taereung.",
+        "body": "O governo informou no dia 15, em reunião de ministros ligados ao setor imobiliário no Complexo Governamental de Seul, que antecipará em até cerca de um ano o cronograma de oferta de moradias em grandes áreas públicas, incluindo o hipódromo de Gwacheon, em Gyeonggi, e o campo de golfe de Taereung, em Seul, para iniciar as obras em 2029. O vice-primeiro-ministro e ministro da Economia e Finanças, Koo Yun-cheol, disse que a medida busca acelerar a oferta e aliviar preocupações crescentes com a escassez de moradias, sobretudo em Seul. Como reconstrução, redesenvolvimento e projetos em terrenos públicos levam bastante tempo até a ocupação efetiva, o governo também estaria avaliando ampliar a oferta de moradias não apartamento, como officetels. Ainda assim, há avaliações de que uma coordenação rápida pode ser difícil devido a interesses divergentes entre governo central, governos locais e operadores dos projetos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Gwacheon und Taereung: Wohnungsbau soll 2029 nach vorgezogenem Plan starten",
+        "excerpt": "Die Regierung erklärte am 15. bei einem Immobilien-Ministertreffen, sie werde den Zeitplan für Wohnungen auf wichtigen öffentlichen Flächen wie der Rennbahn Gwacheon und dem Golfplatz Taereung um bis zu ein Jahr vorziehen.",
+        "body": "Die Regierung teilte am 15. bei einem Treffen der für Immobilien zuständigen Minister im Regierungskomplex Seoul mit, dass sie den Zeitplan für die Wohnraumversorgung auf wichtigen öffentlichen Flächen, darunter die Rennbahn Gwacheon in der Provinz Gyeonggi und der Golfplatz Taereung in Seoul, um bis zu etwa ein Jahr vorziehen und 2029 mit dem Bau beginnen will. Vizepremier und Finanz- und Wirtschaftsminister Koo Yun-cheol sagte, damit solle das Angebot beschleunigt und die wachsende Sorge über Wohnungsknappheit, besonders in Seoul, gemildert werden. Da Wiederaufbau, Sanierung und öffentliche Grundstücksprojekte bis zum tatsächlichen Einzug viel Zeit benötigen, prüft die Regierung Berichten zufolge auch eine Ausweitung von Nicht-Apartment-Wohnungen wie Officetels. Zugleich wird erwartet, dass schnelle Abstimmungen schwierig sein könnten, weil die Interessen von Zentralregierung, Kommunen und Projektträgern auseinandergehen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Gwacheon et Taereung: démarrage des logements en 2029 après calendrier avancé",
+        "excerpt": "Le gouvernement a annoncé le 15 qu’il avancerait d’environ un an au maximum le calendrier de logements sur des terrains publics majeurs, dont l’hippodrome de Gwacheon et le golf de Taereung.",
+        "body": "Le gouvernement a annoncé le 15, lors d’une réunion des ministres chargés de l’immobilier au complexe gouvernemental de Séoul, qu’il avancerait d’environ un an au maximum le calendrier de fourniture de logements sur de grands terrains publics, notamment l’hippodrome de Gwacheon dans la province de Gyeonggi et le terrain de golf de Taereung à Séoul, avec un début des travaux prévu en 2029. Le vice-Premier ministre et ministre de l’Économie et des Finances, Koo Yun-cheol, a indiqué que cette mesure vise à accélérer l’offre et à apaiser les inquiétudes croissantes concernant le manque de logements, surtout à Séoul. Comme les projets de reconstruction, de réaménagement et de terrains publics prennent beaucoup de temps avant l’emménagement effectif, le gouvernement examinerait aussi l’élargissement de l’offre de logements non appartements, dont les officetels. Toutefois, certains estiment qu’une coordination rapide pourrait être difficile en raison d’intérêts divergents entre l’État, les collectivités locales et les porteurs de projets. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تسريع إسكان غواتشون وتايريونغ لبدء البناء في 2029 ضمن خطة حكومية",
+        "excerpt": "أعلنت الحكومة في 15 من الشهر خلال اجتماع وزاري عقاري أنها ستقدم جدول توريد المساكن في مواقع عامة رئيسية، منها مضمار غواتشون وملعب غولف تايريونغ، بما يصل إلى نحو عام.",
+        "body": "أعلنت الحكومة في 15 من الشهر، خلال اجتماع للوزراء المعنيين بالعقارات في المجمع الحكومي في سيول، أنها ستقدم جدول توريد المساكن في مواقع عامة رئيسية، منها مضمار غواتشون في إقليم غيونغي وملعب غولف تايريونغ في سيول، بما يصل إلى نحو عام، على أن يبدأ البناء في 2029. وقال نائب رئيس الوزراء ووزير الاقتصاد والمالية كو يون تشول إن الهدف هو تسريع العرض وتخفيف المخاوف المتزايدة من نقص المساكن، خصوصا في سيول. وبما أن إعادة البناء وإعادة التطوير ومشروعات الأراضي العامة تستغرق وقتا طويلا حتى السكن الفعلي، تدرس الحكومة أيضا توسيع المعروض من المساكن غير الشقق، مثل الأوفيس텔. لكن هناك توقعات بأن التنسيق السريع قد يكون صعبا بسبب اختلاف مصالح الحكومة المركزية والحكومات المحلية والجهات المنفذة للمشروعات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ग्वाचोन और तेरुंग आवास आपूर्ति 2029 में शुरू, सरकार ने समयसीमा आगे बढ़ाई",
+        "excerpt": "सरकार ने 15 तारीख को रियल एस्टेट मंत्रिस्तरीय बैठक में कहा कि ग्वाचोन रेसकोर्स और सियोल के तेरुंग गोल्फ कोर्स जैसे प्रमुख सार्वजनिक स्थलों पर आवास आपूर्ति का कार्यक्रम करीब एक साल तक आगे किया जाएगा।",
+        "body": "सरकार ने 15 तारीख को सियोल सरकारी परिसर में हुई रियल एस्टेट संबंधी मंत्रिस्तरीय बैठक में कहा कि ग्योंगी के ग्वाचोन रेसकोर्स और सियोल के तेरुंग गोल्फ कोर्स जैसे प्रमुख सार्वजनिक आवास स्थलों की आपूर्ति समयसीमा को अधिकतम करीब एक साल आगे कर 2029 में निर्माण शुरू किया जाएगा। उप प्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने कहा कि यह कदम खासकर सियोल में बढ़ती आवास आपूर्ति की कमी की चिंताओं को कम करने के लिए आपूर्ति की गति तेज करने पर केंद्रित है। सरकार कथित तौर पर officetel सहित गैर-अपार्टमेंट आवास की आपूर्ति बढ़ाने पर भी विचार कर रही है, क्योंकि पुनर्निर्माण, पुनर्विकास और सार्वजनिक भूमि परियोजनाओं में वास्तविक प्रवेश तक काफी समय लगता है। हालांकि, केंद्र सरकार, स्थानीय निकायों और परियोजना संचालकों के हित अलग होने से तेज समन्वय आसान नहीं हो सकता। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Pasokan Rumah Gwacheon dan Taereung Dipercepat, Konstruksi Ditarget 2029",
+        "excerpt": "Pemerintah pada tanggal 15 menyatakan akan mempercepat hingga sekitar satu tahun jadwal pasokan rumah di lahan publik utama, termasuk arena pacuan kuda Gwacheon dan lapangan golf Taereung.",
+        "body": "Pemerintah pada tanggal 15, dalam rapat para menteri terkait properti di Kompleks Pemerintah Seoul, menyatakan akan mempercepat hingga sekitar satu tahun jadwal pasokan rumah di lahan publik utama, termasuk arena pacuan kuda Gwacheon di Gyeonggi dan lapangan golf Taereung di Seoul, dengan konstruksi dimulai pada 2029. Wakil Perdana Menteri merangkap Menteri Ekonomi dan Keuangan Koo Yun-cheol mengatakan kebijakan ini bertujuan mempercepat pasokan dan meredakan kekhawatiran atas kekurangan rumah, terutama di Seoul. Pemerintah juga dilaporkan meninjau perluasan pasokan hunian non-apartemen, termasuk officetel, karena rekonstruksi, redevelopment, dan proyek lahan publik membutuhkan waktu cukup lama hingga penghuni benar-benar masuk. Namun, ada pandangan bahwa koordinasi cepat bisa sulit karena kepentingan pemerintah pusat, pemerintah daerah, dan pelaksana proyek tidak selalu sejalan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "5d72a6eb504f",
+    "slug": "잠실은-너무-비싸고-그렇다면-여기-반도체-머니가-노릴-1차-수혜지-503549",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T19:28:07.598Z",
+    "updatedAt": "2026-05-15T19:28:07.598Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/realestate/12049098",
+    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12049098",
+    "titleFingerprint": "573575e39b479a5ab2b0a4ab72c8680d715f160b",
+    "dedupKeys": [
+      "5d72a6eb504f751a1f0c19051dc152ba00feba77",
+      "573575e39b479a5ab2b0a4ab72c8680d715f160b",
+      "4e2ddaab3afab2036184b3b3fe1f34c9469e4299"
+    ],
+    "imageUrl": "/images/articles/5d72a6eb504f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "거여마천·구성남, 잠실 대안으로 주목…반도체 머니 1차 수혜지 분석",
+        "excerpt": "매일경제는 잠실 집값 부담이 커진 가운데 거여마천과 구성남이 고소득 반도체 종사자들의 주거 수요와 자본 흐름 측면에서 1차 수혜지로 거론된다고 전했다.",
+        "body": "잠실 집값이 높아진 상황에서 거여마천과 구성남이 반도체 관련 자금 흐름의 1차 수혜지로 주목받고 있다. 매일경제는 ‘잠실은 너무 비싸고, 그렇다면 여기’라는 관점에서 두 지역의 입지를 분석했다. 핵심은 이미 자본이 유입된 곳보다 앞으로 돈이 흐를 가능성이 있는 지역을 봐야 한다는 점이다. 전문가들은 고소득 반도체 종사자들의 주거 선택과 이동이 향후 부동산 수요에 영향을 줄 수 있다고 설명했다. 이에 따라 거여마천·구성남은 잠실 대안지이자 향후 자본 흐름을 살필 후보지로 거론된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Geoyeo-Macheon and Old Seongnam Emerge as Jamsil Alternatives for Chip Money",
+        "excerpt": "Maeil Business reported that as Jamsil housing prices remain burdensome, Geoyeo-Macheon and old Seongnam are being discussed as early beneficiaries of high-income semiconductor workers’ demand.",
+        "body": "As Jamsil housing prices remain high, Geoyeo-Macheon and old Seongnam are drawing attention as potential first beneficiaries of semiconductor-related capital flows. Maeil Business analyzed the locations under the theme, “Jamsil is too expensive, so where next?” The key point is that investors should look not only at places where money has already arrived, but at areas where capital may flow in the future. Experts said the housing choices and movement of high-income semiconductor workers could influence future real estate demand. In that context, Geoyeo-Macheon and old Seongnam are being mentioned as Jamsil alternatives and candidate areas to watch for capital flow. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "巨余・馬川と旧城南、蚕室の代替地に浮上…半導体マネーの初期受益地分析",
+        "excerpt": "毎日経済は、蚕室の住宅価格負担が高まる中、巨余・馬川と旧城南が高所得の半導体従事者の需要と資金流入の面で初期受益地として語られていると報じた。",
+        "body": "蚕室の住宅価格が高い状況で、巨余・馬川と旧城南が半導体関連資金の流れにおける初期受益地として注目されている。毎日経済は「蚕室は高すぎる、ならばどこか」という視点から両地域の立地を分析した。要点は、すでに資本が流入した場所だけでなく、今後資金が向かう可能性のある地域を見るべきだという点だ。専門家は、高所得の半導体従事者の住居選択や移動が今後の不動産需要に影響し得ると説明している。このため巨余・馬川と旧城南は、蚕室の代替地であり、今後の資本流れを確認すべき候補地として挙げられている。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "巨余马川与旧城南受关注：蚕室替代地与半导体资金首轮受益分析",
+        "excerpt": "每日经济报道称，在蚕室房价负担较高的背景下，巨余马川和旧城南因高收入半导体从业者的居住需求与资金流向，被视为首轮受益区域。",
+        "body": "在蚕室房价处于高位的情况下，巨余马川和旧城南正受到关注，被视为半导体相关资金流动的首轮受益地。每日经济以“蚕室太贵，那么哪里合适”为视角，对这两个地区的区位进行了分析。核心在于，投资者不应只看资金已经流入的地方，还应关注未来资金可能流向的区域。专家表示，高收入半导体从业者的居住选择和迁移，可能影响今后的房地产需求。因此，巨余马川和旧城南被提及为蚕室替代地，也是观察未来资本流向的候选区域。来源：mk.co.kr."
+      },
+      "es": {
+        "title": "Geoyeo-Macheon y viejo Seongnam ganan foco como alternativa a Jamsil para dinero chip",
+        "excerpt": "Maeil Business informó que, ante el alto costo de Jamsil, Geoyeo-Macheon y el viejo Seongnam se citan como primeros beneficiarios de la demanda residencial de trabajadores de semiconductores.",
+        "body": "Con los precios de vivienda en Jamsil en niveles elevados, Geoyeo-Macheon y el viejo Seongnam están recibiendo atención como posibles primeros beneficiarios del flujo de capital ligado a los semiconductores. Maeil Business analizó la ubicación de ambas zonas bajo la idea de que “Jamsil es demasiado caro, entonces ¿dónde?”. El punto central es que los inversores deben mirar no solo los lugares donde el dinero ya entró, sino también las áreas hacia las que podría fluir en el futuro. Expertos señalaron que las decisiones residenciales y los movimientos de trabajadores de semiconductores con altos ingresos podrían influir en la demanda inmobiliaria futura. Por ello, estas zonas se mencionan como alternativas a Jamsil y como candidatas a seguir. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Geoyeo-Macheon e velha Seongnam surgem como alternativa a Jamsil para dinheiro dos chips",
+        "excerpt": "O Maeil Business informou que, com Jamsil caro, Geoyeo-Macheon e a velha Seongnam são citadas como primeiras beneficiárias da demanda residencial de trabalhadores de semicondutores.",
+        "body": "Com os preços de moradia em Jamsil elevados, Geoyeo-Macheon e a velha Seongnam chamam atenção como possíveis primeiras beneficiárias do fluxo de capital ligado aos semicondutores. O Maeil Business analisou a localização das duas áreas a partir da ideia de que “Jamsil está caro demais, então para onde ir?”. O ponto central é que investidores devem observar não apenas locais onde o dinheiro já entrou, mas também regiões para onde o capital pode fluir no futuro. Especialistas afirmam que as escolhas de moradia e os deslocamentos de trabalhadores de semicondutores de alta renda podem influenciar a demanda imobiliária. Assim, as duas áreas são citadas como alternativas a Jamsil e candidatas a acompanhar. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Geoyeo-Macheon und Alt-Seongnam rücken als Jamsil-Alternative für Chip-Geld in den Fokus",
+        "excerpt": "Maeil Business berichtete, dass Geoyeo-Macheon und Alt-Seongnam angesichts hoher Preise in Jamsil als frühe Nutznießer der Wohnnachfrage gut verdienender Halbleiterbeschäftigter gelten.",
+        "body": "Bei weiterhin hohen Wohnpreisen in Jamsil rücken Geoyeo-Macheon und Alt-Seongnam als mögliche erste Nutznießer von Kapitalströmen aus dem Halbleitersektor in den Blick. Maeil Business analysierte die Lagen unter der Fragestellung: Wenn Jamsil zu teuer ist, wohin dann? Im Mittelpunkt steht die Einschätzung, dass Anleger nicht nur auf Orte schauen sollten, in die bereits Geld geflossen ist, sondern auf Gebiete, in die Kapital künftig fließen könnte. Experten erklärten, dass Wohnentscheidungen und Umzüge gut verdienender Halbleiterbeschäftigter die künftige Immobiliennachfrage beeinflussen könnten. Daher werden beide Gebiete als Alternativen zu Jamsil und als Kandidaten zur Beobachtung weiterer Kapitalflüsse genannt. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Geoyeo-Macheon et l’ancien Seongnam, alternatives à Jamsil pour l’argent des puces",
+        "excerpt": "Maeil Business rapporte que, face au coût élevé de Jamsil, Geoyeo-Macheon et l’ancien Seongnam sont cités comme premiers bénéficiaires potentiels de la demande des salariés des semi-conducteurs.",
+        "body": "Alors que les prix du logement à Jamsil restent élevés, Geoyeo-Macheon et l’ancien Seongnam attirent l’attention comme possibles premiers bénéficiaires des flux de capitaux liés aux semi-conducteurs. Maeil Business a analysé leur emplacement sous l’angle suivant: Jamsil est trop cher, alors où regarder? L’idée centrale est que les investisseurs ne doivent pas seulement observer les zones où l’argent est déjà arrivé, mais aussi celles vers lesquelles il pourrait se diriger. Des experts estiment que les choix résidentiels et les déplacements de salariés à hauts revenus du secteur des semi-conducteurs pourraient influencer la demande immobilière future. Ces secteurs sont donc cités comme alternatives à Jamsil et comme zones à surveiller. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "غويو-ماتشيون وسيونغنام القديمة بديلان لجamsil مع ترقب أموال أشباه الموصلات",
+        "excerpt": "ذكرت ماييل بيزنس أنه مع ارتفاع كلفة السكن في جامسيل، يجري طرح غويو-ماتشيون وسيونغنام القديمة كمستفيدين أوليين من طلب موظفي أشباه الموصلات مرتفعي الدخل.",
+        "body": "مع بقاء أسعار السكن في جامسيل مرتفعة، تحظى غويو-ماتشيون وسيونغنام القديمة بالاهتمام كمستفيدين محتملين في المرحلة الأولى من تدفقات الأموال المرتبطة بأشباه الموصلات. وحللت ماييل بيزنس موقع المنطقتين من زاوية أن جامسيل أصبحت باهظة، فما البديل؟ الفكرة الأساسية هي أن المستثمرين لا ينبغي أن ينظروا فقط إلى الأماكن التي دخلتها الأموال بالفعل، بل إلى المناطق التي قد تتجه إليها الأموال مستقبلا. وقال خبراء إن اختيارات السكن وحركة العاملين ذوي الدخل المرتفع في قطاع أشباه الموصلات قد تؤثر في الطلب العقاري القادم. لذلك تطرح المنطقتان كبديلين لجامسيل وكمناطق مرشحة لمتابعة حركة رأس المال. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "जमसिल के विकल्प बने गेयो-माचेओन और पुराना सियोंगनाम, चिप मनी पर नजर",
+        "excerpt": "माएइल बिजनेस ने बताया कि जमसिल की महंगी आवासीय कीमतों के बीच गेयो-माचेओन और पुराना सियोंगनाम उच्च आय वाले सेमीकंडक्टर कर्मचारियों की मांग से शुरुआती लाभार्थी माने जा रहे हैं।",
+        "body": "जमसिल में आवासीय कीमतें ऊंची रहने के बीच गेयो-माचेओन और पुराना सियोंगनाम सेमीकंडक्टर से जुड़े पूंजी प्रवाह के संभावित शुरुआती लाभार्थी के रूप में ध्यान खींच रहे हैं। माएइल बिजनेस ने इन दोनों क्षेत्रों की स्थिति का विश्लेषण इस सवाल से किया कि जमसिल बहुत महंगा है, तो अगला विकल्प कौन सा हो सकता है। मुख्य बात यह है कि निवेशकों को केवल उन जगहों को नहीं देखना चाहिए जहां पैसा पहले ही आ चुका है, बल्कि उन क्षेत्रों को भी देखना चाहिए जहां भविष्य में पूंजी जा सकती है। विशेषज्ञों के अनुसार उच्च आय वाले सेमीकंडक्टर कर्मचारियों के आवासीय विकल्प और आवाजाही भविष्य की रियल एस्टेट मांग को प्रभावित कर सकते हैं। इसलिए ये क्षेत्र जमसिल के विकल्प और पूंजी प्रवाह पर नजर रखने वाले उम्मीदवार क्षेत्र माने जा रहे हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Geoyeo-Macheon dan Seongnam Lama Jadi Alternatif Jamsil bagi Dana Semikonduktor",
+        "excerpt": "Maeil Business melaporkan bahwa saat harga hunian Jamsil terasa berat, Geoyeo-Macheon dan Seongnam lama disebut sebagai penerima awal permintaan pekerja semikonduktor berpenghasilan tinggi.",
+        "body": "Saat harga hunian di Jamsil tetap tinggi, Geoyeo-Macheon dan Seongnam lama menarik perhatian sebagai calon penerima manfaat pertama dari arus modal terkait semikonduktor. Maeil Business menganalisis lokasi dua kawasan itu dengan sudut pandang bahwa Jamsil terlalu mahal, lalu ke mana berikutnya. Poin utamanya adalah investor perlu melihat bukan hanya tempat yang sudah dialiri uang, tetapi juga wilayah yang berpotensi menerima arus modal ke depan. Para ahli menjelaskan bahwa pilihan hunian dan perpindahan pekerja semikonduktor berpenghasilan tinggi dapat memengaruhi permintaan properti di masa mendatang. Karena itu, Geoyeo-Macheon dan Seongnam lama disebut sebagai alternatif Jamsil sekaligus kandidat wilayah untuk mencermati arus modal. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "6b6dffde9356",
     "slug": "빅테크-동지에서-적으로-오픈ai-애플에-소송-검토-462544",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "POSCO E&C Buka The Sharp Songdo Granter Pavilion X, Galeri Hunian dengan Pop Art",
         "excerpt": "POSCO E&C menyatakan pada 15 bahwa pihaknya memperkenalkan The Sharp Songdo Granter Pavilion X pada 14, ruang pamer hunian yang menggabungkan informasi penjualan dengan pameran pop art.",
         "body": "POSCO E&C menyatakan pada 15 bahwa pihaknya memperkenalkan ‘The Sharp Songdo Granter Pavilion X’ pada 14, sebuah ruang pamer hunian yang dipadukan dengan pameran pop art. Ruang ini memiliki ciri melampaui peran rumah contoh konvensional yang hanya menyampaikan informasi penjualan, karena dirancang agar pengunjung juga dapat menikmati pengalaman seni. Penambahan pameran pop art pada ruang pamer hunian menjadi contoh penggabungan antara pengenalan produk tempat tinggal dan konten budaya. Fokusnya adalah memberikan pengalaman kunjungan yang lebih berbeda bagi pengunjung. Melalui ‘The Sharp Songdo Granter Pavilion X’, POSCO E&C menunjukkan upaya memperluas pemanfaatan ruang pamer hunian dan memperkuat pengalaman merek di lokasi penjualan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7a3006c671f8",
-    "slug": "사실상-계약금-제로문장건설-사우역-지엔하임-선착순-계약-197555",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T01:11:46.322Z",
-    "updatedAt": "2026-05-15T01:11:46.322Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12048886",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12048886",
-    "titleFingerprint": "697259e58b42e014aecbc2d86b562347bc1d0268",
-    "dedupKeys": [
-      "7a3006c671f80f64991868d525772e2749fab61b",
-      "697259e58b42e014aecbc2d86b562347bc1d0268",
-      "130514d4ef0b8f26ec73954461c5eec11b7cb5d1"
-    ],
-    "imageUrl": "/images/articles/7a3006c671f8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김포 ‘사우역 지엔하임’ 사실상 계약금 제로 혜택으로 선착순 계약",
-        "excerpt": "문장건설은 김포 ‘사우역 지엔하임’에서 사실상 계약금 제로 혜택을 내세워 수요자의 초기 자금 부담을 낮추고 동·호수 선택이 가능한 선착순 계약을 진행한다.",
-        "body": "문장건설은 김포 ‘사우역 지엔하임’에서 사실상 계약금 제로 혜택을 적용한 선착순 계약을 진행하고 있다. 이번 혜택은 수요자의 초기 자금 부담을 낮추는 데 초점을 맞췄으며, 계약자는 동·호수를 선택해 계약할 수 있다. 배경에는 중동전쟁으로 인한 국제유가 상승과 건설 원자잿값, 인건비 급등이 맞물리며 건설공사비 고공행진이 이어지는 시장 상황이 있다. 공사비 부담이 커지는 가운데 초기 계약 조건 완화는 실수요자의 접근성을 높이는 요인으로 제시된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Gimpo’s Sau Station Gienheim Offers Virtually Zero Deposit Contracts",
-        "excerpt": "Moonjang Construction is taking first-come contracts for Gimpo’s Sau Station Gienheim, offering a virtually zero-deposit benefit to ease buyers’ upfront funding burden.",
-        "body": "Moonjang Construction is proceeding with first-come, first-served contracts for Gimpo’s Sau Station Gienheim with a benefit described as virtually zero deposit. The offer is intended to reduce the initial funding burden for prospective buyers, while allowing contract holders to choose their preferred building and unit. The move comes as construction costs remain elevated, with rising international oil prices linked to the Middle East war adding to higher raw material and labor costs. Amid growing cost pressure, eased initial contract terms are being presented as a way to improve access for end users. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "金浦『サウ駅ジエンハイム』実質契約金ゼロで先着順契約",
-        "excerpt": "文張建設は金浦『サウ駅ジエンハイム』で実質契約金ゼロの特典を掲げ、需要者の初期資金負担を抑え、棟・号室を選べる先着順契約を進めている。",
-        "body": "文張建設は金浦『サウ駅ジエンハイム』で、実質契約金ゼロの特典を適用した先着順契約を進めている。今回の特典は、需要者の初期資金負担を軽減することに焦点を当てたもので、契約者は棟と号室を選んで契約できる。背景には、中東戦争による国際原油価格の上昇と、建設原材料価格・人件費の急騰が重なり、建設工事費の高止まりが続く市場環境がある。工事費負担が大きくなる中、初期契約条件の緩和は実需者の接近性を高める要因として示されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "金浦“Sau站Gienheim”推实际零首付式定金优惠 先到先签",
-        "excerpt": "文张建设在金浦“Sau站Gienheim”推出实际接近零定金优惠，降低购房者初期资金压力，并以先到先签方式提供楼栋和户号选择。",
-        "body": "文张建设正在金浦“Säu站Gienheim”推进先到先签合同，并提供实际接近“定金为零”的优惠。该优惠重点在于降低需求者的初期资金负担，签约者可选择楼栋和户号后签订合同。其背景是，中东战争导致国际油价上涨，同时建材原材料价格和人工费急升，建设工程费用持续处于高位。在工程费用压力扩大的市场环境下，放宽初期签约条件被视为提高实际需求者可接近性的因素。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sau Station Gienheim en Gimpo abre contratos con depósito prácticamente cero",
-        "excerpt": "Moonjang Construction ofrece en Sau Station Gienheim de Gimpo un beneficio de depósito prácticamente cero para reducir la carga inicial y permitir elegir edificio y unidad.",
-        "body": "Moonjang Construction está realizando contratos por orden de llegada para Sau Station Gienheim, en Gimpo, con un beneficio descrito como depósito prácticamente cero. La medida busca reducir la carga financiera inicial de los compradores, y los contratantes pueden elegir el edificio y la unidad al firmar. El contexto es un mercado en el que los costos de construcción siguen elevados, mientras el aumento del precio internacional del petróleo por la guerra en Oriente Medio se suma al encarecimiento de materias primas y mano de obra. En medio de esa presión, la flexibilización de las condiciones iniciales se presenta como un factor de acceso para usuarios finales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sau Station Gienheim em Gimpo aceita contratos com entrada praticamente zero",
-        "excerpt": "A Moonjang Construction abriu contratos por ordem de chegada para o Sau Station Gienheim, em Gimpo, com benefício de entrada praticamente zero e escolha de bloco e unidade.",
-        "body": "A Moonjang Construction está realizando contratos por ordem de chegada para o Sau Station Gienheim, em Gimpo, com um benefício descrito como entrada praticamente zero. A oferta busca reduzir o peso financeiro inicial para os interessados, permitindo que o contratante escolha o bloco e a unidade. O cenário de fundo é a manutenção dos custos de construção em patamar elevado, com a alta do petróleo internacional ligada à guerra no Oriente Médio somando-se ao avanço dos preços de matérias-primas e da mão de obra. Nesse ambiente de pressão sobre os custos, condições iniciais mais leves são apresentadas como fator de acesso para compradores finais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sau Station Gienheim in Gimpo startet Verträge mit faktisch null Anzahlung",
-        "excerpt": "Moonjang Construction bietet für Sau Station Gienheim in Gimpo Verträge nach Reihenfolge mit faktisch null Anzahlung an, um die anfängliche Finanzierungslast zu senken.",
-        "body": "Moonjang Construction führt für Sau Station Gienheim in Gimpo Verträge nach dem Prinzip „first come, first served“ mit einem Vorteil durch, der als faktisch null Anzahlung beschrieben wird. Damit soll die anfängliche Finanzierungslast potenzieller Käufer gesenkt werden; Vertragspartner können zudem Gebäude und Einheit auswählen. Hintergrund ist ein Markt, in dem die Baukosten hoch bleiben, weil steigende internationale Ölpreise infolge des Kriegs im Nahen Osten mit stark gestiegenen Preisen für Baumaterialien und Arbeitskosten zusammentreffen. Unter diesem Kostendruck werden gelockerte Anfangsbedingungen als Faktor für besseren Zugang durch Endnutzer genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Sau Station Gienheim à Gimpo lance des contrats avec acompte quasi nul",
-        "excerpt": "Moonjang Construction propose à Gimpo des contrats au fil de l’eau pour Sau Station Gienheim, avec un avantage d’acompte quasi nul et choix du bâtiment et du lot.",
-        "body": "Moonjang Construction mène des contrats par ordre d’arrivée pour Sau Station Gienheim, à Gimpo, avec un avantage présenté comme un acompte pratiquement nul. Cette mesure vise à réduire la charge financière initiale des demandeurs, tandis que les signataires peuvent choisir le bâtiment et le lot. Elle intervient dans un contexte où les coûts de construction restent élevés, la hausse des prix internationaux du pétrole liée à la guerre au Moyen-Orient s’ajoutant à l’augmentation des matières premières et de la main-d’œuvre. Face à cette pression, l’assouplissement des conditions initiales est présenté comme un facteur améliorant l’accès des utilisateurs finaux. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ساو ستيشن جيينهايم في غيمبو يطرح عقودا بدفعة تعاقد شبه صفرية",
-        "excerpt": "تجري مونجانغ للإنشاءات عقودا بأسبقية الحجز لمشروع ساو ستيشن جيينهايم في غيمبو، مع ميزة دفعة تعاقد شبه صفرية لتخفيف عبء التمويل الأولي.",
-        "body": "تواصل مونجانغ للإنشاءات إبرام عقود بأسبقية الحجز لمشروع ساو ستيشن جيينهايم في غيمبو، مع ميزة توصف بأنها دفعة تعاقد شبه صفرية. وتركز هذه الميزة على خفض عبء التمويل الأولي على الراغبين في الشراء، مع إمكانية اختيار المبنى ورقم الوحدة عند التعاقد. ويأتي ذلك في ظل استمرار ارتفاع تكاليف البناء، حيث يتزامن صعود أسعار النفط العالمية بسبب حرب الشرق الأوسط مع قفزات في أسعار مواد البناء وتكاليف العمالة. ومع تزايد ضغط تكاليف التنفيذ، تُطرح مرونة شروط التعاقد الأولية كعامل يسهل وصول المشترين الفعليين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "गिम्पो के Sau Station Gienheim में लगभग शून्य कॉन्ट्रैक्ट जमा पर पहले आओ अनुबंध",
-        "excerpt": "Moonjang Construction गिम्पो के Sau Station Gienheim में लगभग शून्य कॉन्ट्रैक्ट जमा लाभ के साथ पहले आओ अनुबंध कर रही है, जिससे शुरुआती धन बोझ घटेगा।",
-        "body": "Moonjang Construction गिम्पो के Sau Station Gienheim में लगभग शून्य कॉन्ट्रैक्ट जमा के लाभ के साथ पहले आओ, पहले पाओ आधार पर अनुबंध कर रही है। यह लाभ खरीदारों के शुरुआती फंडिंग बोझ को कम करने पर केंद्रित है, और अनुबंध करने वाले भवन व यूनिट नंबर चुन सकते हैं। इसकी पृष्ठभूमि में मध्य पूर्व युद्ध से अंतरराष्ट्रीय तेल कीमतों में वृद्धि और निर्माण कच्चे माल तथा मजदूरी लागत में तेज बढ़ोतरी है, जिससे निर्माण लागत ऊंचे स्तर पर बनी हुई है। बढ़ते लागत दबाव के बीच शुरुआती अनुबंध शर्तों में ढील वास्तविक उपयोगकर्ताओं की पहुंच बढ़ाने वाले कारक के रूप में पेश की जा रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sau Station Gienheim Gimpo buka kontrak dengan uang muka nyaris nol",
-        "excerpt": "Moonjang Construction membuka kontrak first-come untuk Sau Station Gienheim di Gimpo dengan manfaat uang kontrak nyaris nol, menekan beban dana awal pembeli.",
-        "body": "Moonjang Construction sedang menjalankan kontrak berdasarkan urutan kedatangan untuk Sau Station Gienheim di Gimpo dengan manfaat yang disebut sebagai uang kontrak nyaris nol. Manfaat ini difokuskan untuk menurunkan beban dana awal calon pembeli, sementara pihak yang berkontrak dapat memilih gedung dan nomor unit. Latar belakangnya adalah biaya konstruksi yang terus tinggi, seiring kenaikan harga minyak internasional akibat perang Timur Tengah yang berpadu dengan lonjakan harga bahan baku konstruksi dan upah tenaga kerja. Di tengah tekanan biaya tersebut, pelonggaran syarat awal kontrak disajikan sebagai faktor yang meningkatkan akses bagi pengguna akhir. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1e6fcb9c35bc",
-    "slug": "태릉-cc-1년-앞당겨-2029년-착공정부-수도권-주택-공급-총력전-305216",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T01:10:52.279Z",
-    "updatedAt": "2026-05-15T01:10:52.279Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12048892",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12048892",
-    "titleFingerprint": "9519231cf90972b93311e912e30d86ef7c35a030",
-    "dedupKeys": [
-      "1e6fcb9c35bc0a5a7402a92f23599a94e12c7020",
-      "9519231cf90972b93311e912e30d86ef7c35a030",
-      "6a6ed351e3268997a79acb0310302af0ab3d9f33"
-    ],
-    "imageUrl": "/images/articles/1e6fcb9c35bc.png",
-    "i18n": {
-      "ko": {
-        "title": "태릉 CC 2029년 조기 착공 추진…정부, 수도권 주택 공급 총력 대응",
-        "excerpt": "구윤철 부총리 겸 재정경제부 장관은 15일 부동산관계장관회의에서 태릉 CC 착공을 2029년으로 앞당기고 비아파트 단기 공급 방안을 검토한다고 밝혔다.",
-        "body": "정부가 수도권 주택 공급 확대를 위해 태릉 CC 착공 시점을 1년 앞당겨 2029년 추진하기로 했다. 구윤철 부총리 겸 재정경제부 장관은 15일 정부서울청사에서 부동산관계장관회의를 주재하며 이 같은 공급 대책을 논의했다. 회의에서는 오피스텔을 포함한 비아파트 주택을 단기에 공급해 국민 주거 안정을 높이는 방안도 검토됐다. 태릉 CC 조기 착공과 비아파트 공급 확대는 수도권 주택 수급 불안을 완화하기 위한 정부의 대응으로 제시됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Taereung CC Construction Moved Up to 2029 as Government Pushes Seoul-Area Housing Supply",
-        "excerpt": "On May 15, Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol said the government is reviewing faster non-apartment supply, including officetels, and moving Taereung CC work to 2029.",
-        "body": "The government plans to move up the start of construction at Taereung CC by one year to 2029 as part of efforts to expand housing supply in the Seoul metropolitan area. Deputy Prime Minister and Minister of Economy and Finance Koo Yun-cheol chaired a real estate ministers’ meeting at the Government Complex Seoul on May 15 and discussed the supply measures. The meeting also reviewed ways to provide non-apartment housing, including officetels, in the short term to improve housing stability. The earlier Taereung CC start and expanded non-apartment supply were presented as government responses to ease housing supply-demand pressure in the metropolitan area. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "泰陵CC、2029年に前倒し着工へ…政府が首都圏住宅供給を総力対応",
-        "excerpt": "具潤哲副首相兼財政経済部長官は15日、不動産関係閣僚会議で泰陵CCの着工を2029年に前倒しし、オフィステルを含む非マンション住宅の短期供給策を検討すると述べた。",
-        "body": "政府は首都圏の住宅供給拡大に向け、泰陵CCの着工時期を1年前倒しして2029年に進める方針だ。具潤哲副首相兼財政経済部長官は15日、政府ソウル庁舎で不動産関係閣僚会議を主宰し、こうした供給対策を協議した。会議では、オフィステルを含む非マンション住宅を短期間で供給し、国民の住居安定を高める案も検討された。泰陵CCの早期着工と非マンション供給拡大は、首都圏の住宅需給不安を和らげるための政府対応として示された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "泰陵CC拟提前至2029年开工…政府全力扩大首都圈住房供应",
-        "excerpt": "副总理兼财政经济部长官具润哲15日在房地产相关部长会议上表示，将把泰陵CC开工提前至2029年，并研究短期供应含办公居住设施在内的非公寓住房。",
-        "body": "韩国政府计划将泰陵CC开工时间提前一年至2029年，以扩大首都圈住房供应。副总理兼财政经济部长官具润哲15日在政府首尔办公楼主持房地产相关部长会议，讨论了相关供应措施。会议还研究了在短期内供应包括办公居住设施在内的非公寓住房，以提高国民居住稳定性的方案。泰陵CC提前开工和扩大非公寓住房供应，被作为缓解首都圈住房供需不安的政府应对措施提出。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Taereung CC adelanta obras a 2029 mientras el Gobierno refuerza la oferta de vivienda metropolitana",
-        "excerpt": "El 15 de mayo, el vice primer ministro y ministro de Economía y Finanzas, Koo Yun-cheol, dijo que se revisan medidas para iniciar Taereung CC en 2029 y suministrar rápido viviendas no residenciales colectivas, incluidos officetels.",
-        "body": "El Gobierno prevé adelantar un año, hasta 2029, el inicio de las obras en Taereung CC como parte de su esfuerzo por ampliar la oferta de vivienda en el área metropolitana de Seúl. El vice primer ministro y ministro de Economía y Finanzas, Koo Yun-cheol, presidió el 15 de mayo una reunión de ministros relacionados con el sector inmobiliario en el Complejo Gubernamental de Seúl y discutió estas medidas de suministro. También se examinó cómo aportar en el corto plazo viviendas no apartamentales, incluidos officetels, para mejorar la estabilidad residencial. La medida se presenta como respuesta a las tensiones de oferta y demanda en la región metropolitana. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Taereung CC terá obras antecipadas para 2029 em ofensiva do governo por moradias na região de Seul",
-        "excerpt": "Em 15 de maio, o vice-primeiro-ministro e ministro da Economia e Finanças, Koo Yun-cheol, disse que o governo avalia antecipar Taereung CC para 2029 e ampliar rapidamente moradias não apartamentos, incluindo officetels.",
-        "body": "O governo pretende antecipar em um ano, para 2029, o início das obras em Taereung CC como parte dos esforços para ampliar a oferta de moradias na região metropolitana de Seul. O vice-primeiro-ministro e ministro da Economia e Finanças, Koo Yun-cheol, presidiu em 15 de maio uma reunião de ministros ligados ao setor imobiliário no Complexo Governamental de Seul e discutiu essas medidas de oferta. A reunião também avaliou formas de fornecer no curto prazo moradias que não sejam apartamentos, incluindo officetels, para melhorar a estabilidade habitacional. A iniciativa foi apresentada como resposta às pressões de oferta e demanda na região metropolitana. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Taereung CC soll 2029 früher starten: Regierung forciert Wohnungsangebot im Großraum Seoul",
-        "excerpt": "Am 15. Mai sagte Vizepremier und Wirtschafts- und Finanzminister Koo Yun-cheol, die Regierung prüfe eine frühere Taereung-CC-Baustartplanung für 2029 sowie kurzfristige Angebote von Nicht-Apartment-Wohnungen einschließlich Officetels.",
-        "body": "Die Regierung will den Baustart bei Taereung CC um ein Jahr auf 2029 vorziehen, um das Wohnungsangebot im Großraum Seoul auszuweiten. Vizepremier und Wirtschafts- und Finanzminister Koo Yun-cheol leitete am 15. Mai im Regierungskomplex Seoul eine Sitzung der zuständigen Immobilienminister und erörterte entsprechende Angebotsmaßnahmen. Dabei wurde auch geprüft, Nicht-Apartment-Wohnungen einschließlich Officetels kurzfristig bereitzustellen, um die Wohnstabilität der Bevölkerung zu verbessern. Der frühere Start bei Taereung CC und das zusätzliche Angebot gelten als Reaktion auf Unsicherheiten bei Angebot und Nachfrage im Großraum. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Taereung CC avancé à 2029 : le gouvernement accélère l’offre de logements autour de Séoul",
-        "excerpt": "Le 15 mai, le vice-Premier ministre et ministre de l’Économie et des Finances Koo Yun-cheol a indiqué que le gouvernement étudiait un démarrage de Taereung CC en 2029 et une offre rapide de logements non collectifs, dont des officetels.",
-        "body": "Le gouvernement prévoit d’avancer d’un an, à 2029, le lancement des travaux de Taereung CC afin d’élargir l’offre de logements dans la région métropolitaine de Séoul. Le vice-Premier ministre et ministre de l’Économie et des Finances, Koo Yun-cheol, a présidé le 15 mai une réunion des ministres concernés par l’immobilier au complexe gouvernemental de Séoul, où ces mesures d’offre ont été discutées. La réunion a aussi examiné des moyens de fournir rapidement des logements non assimilés aux appartements, dont des officetels, afin de renforcer la stabilité résidentielle. Cette orientation est présentée comme une réponse aux tensions d’offre et de demande dans la région métropolitaine. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بدء مشروع تايرونغ CC في 2029 قبل الموعد… الحكومة تكثف إمدادات السكن في منطقة سول",
-        "excerpt": "قال نائب رئيس الوزراء ووزير الاقتصاد والمالية كو يون تشول في 15 مايو إن الحكومة تدرس تقديم بدء تايرونغ CC إلى 2029 وتوفير مساكن غير شقق، منها الأوفيستيل، على المدى القصير.",
-        "body": "تخطط الحكومة لتقديم موعد بدء أعمال تايرونغ CC عاما واحدا إلى 2029 ضمن جهود توسيع المعروض السكني في منطقة سول الحضرية. وترأس نائب رئيس الوزراء ووزير الاقتصاد والمالية كو يون تشول في 15 مايو اجتماعا لوزراء العقارات في المجمع الحكومي في سول، حيث نوقشت هذه التدابير. كما بحث الاجتماع توفير مساكن غير شقق، بما في ذلك الأوفيستيل، خلال فترة قصيرة لتعزيز الاستقرار السكني للمواطنين. وطرحت الحكومة تقديم بدء تايرونغ CC وتوسيع هذا النوع من المعروض كاستجابة لتخفيف اضطراب العرض والطلب السكني في المنطقة الحضرية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ताइरुंग CC का निर्माण 2029 में पहले शुरू होगा, सियोल क्षेत्र में आवास आपूर्ति पर सरकार का जोर",
-        "excerpt": "15 मई को उपप्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने कहा कि सरकार ताइरुंग CC का काम 2029 में शुरू करने और ऑफिसटेल सहित गैर-अपार्टमेंट आवास की अल्पकालिक आपूर्ति पर विचार कर रही है।",
-        "body": "सरकार सियोल महानगरीय क्षेत्र में आवास आपूर्ति बढ़ाने के लिए ताइरुंग CC का निर्माण एक वर्ष पहले, 2029 में शुरू करने की योजना बना रही है। उपप्रधानमंत्री और अर्थव्यवस्था व वित्त मंत्री कू यून-चोल ने 15 मई को सरकारी सियोल परिसर में रियल एस्टेट संबंधी मंत्रियों की बैठक की अध्यक्षता की और इन आपूर्ति उपायों पर चर्चा की। बैठक में ऑफिसटेल सहित गैर-अपार्टमेंट आवास को अल्प अवधि में उपलब्ध कराकर नागरिकों की आवासीय स्थिरता बढ़ाने के उपायों की भी समीक्षा की गई। ताइरुंग CC की शुरुआती शुरुआत और गैर-अपार्टमेंट आपूर्ति विस्तार को महानगरीय क्षेत्र में आवास आपूर्ति-मांग अस्थिरता कम करने की सरकारी प्रतिक्रिया के रूप में पेश किया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Taereung CC Dimajukan Mulai 2029, Pemerintah Perkuat Pasokan Hunian Area Seoul",
-        "excerpt": "Pada 15 Mei, Wakil PM sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol mengatakan pemerintah meninjau percepatan Taereung CC ke 2029 dan pasokan cepat hunian non-apartemen, termasuk officetel.",
-        "body": "Pemerintah berencana memajukan awal pembangunan Taereung CC satu tahun menjadi 2029 sebagai bagian dari upaya memperluas pasokan hunian di kawasan metropolitan Seoul. Wakil Perdana Menteri sekaligus Menteri Ekonomi dan Keuangan Koo Yun-cheol memimpin rapat menteri terkait real estat di Kompleks Pemerintah Seoul pada 15 Mei dan membahas langkah pasokan tersebut. Rapat juga meninjau cara menyediakan hunian non-apartemen, termasuk officetel, dalam jangka pendek untuk meningkatkan stabilitas tempat tinggal masyarakat. Percepatan Taereung CC dan perluasan pasokan non-apartemen diajukan sebagai respons pemerintah untuk meredakan ketidakpastian pasokan dan permintaan hunian di kawasan metropolitan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "06bb4400d599",
-    "slug": "대치동-자존심-대치선경-최고-49층-1571가구로-변신-806412",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-15T01:09:48.279Z",
-    "updatedAt": "2026-05-15T01:09:48.280Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12048902",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12048902",
-    "titleFingerprint": "e2ccd2175b28edca9c0c71a3b5883959dcac7d8a",
-    "dedupKeys": [
-      "06bb4400d59993a90af92af3fd65bbf200fed788",
-      "e2ccd2175b28edca9c0c71a3b5883959dcac7d8a",
-      "abd160dc1ac8df8b225ca4e14a1b99e3dd277390"
-    ],
-    "imageUrl": "/images/articles/06bb4400d599.png",
-    "i18n": {
-      "ko": {
-        "title": "대치선경 최고 49층 1571가구 재건축, 강남 대치동 정비사업 속도",
-        "excerpt": "서울시 도시계획위원회 심의에서 강남구 대치동 대치선경과 신반포7차·이촌1구역·상계한신3차 재건축안이 잇따라 통과하며 주요 정비사업이 속도를 내고 있다.",
-        "body": "서울 강남구 대치동의 재건축 대장주로 꼽히는 대치선경이 서울시 도시계획위원회 심의를 통과해 최고 49층, 1571가구 규모 단지로 바뀐다. 원문에 따르면 대치선경은 대치동 ‘우선미’ 중 하나로 언급되는 단지다. 같은 심의 흐름에서 신반포7차와 이촌1구역도 최고 49층 재건축 계획이 통과됐고, 노원구 상계한신3차는 최고 35층 개발이 확정됐다. 서울 주요 지역의 재건축 안건이 잇따라 문턱을 넘으면서 강남·서초·용산·노원 정비사업 추진에 관심이 모인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daechi Seonkyung Set for 49 Floors and 1,571 Homes as Seoul Reviews Clear",
-        "excerpt": "Seoul’s Urban Planning Committee has cleared plans for Daechi Seonkyung, Shinbanpo 7th, Ichon District 1 and Sanggye Hanshin 3rd, accelerating major redevelopment projects.",
-        "body": "Daechi Seonkyung in Daechi-dong, Gangnam-gu, Seoul, a leading reconstruction complex in the area, has passed review by the Seoul Urban Planning Committee and will be transformed into a complex of up to 49 floors and 1,571 households. According to the original report, Daechi Seonkyung is mentioned as one of Daechi-dong’s key “Wooseonmi” complexes. In the same review flow, Shinbanpo 7th and Ichon District 1 also passed plans for reconstruction up to 49 floors, while Sanggye Hanshin 3rd in Nowon-gu was confirmed for development up to 35 floors. With major Seoul reconstruction proposals clearing review one after another, attention is turning to redevelopment momentum in Gangnam, Seocho, Yongsan and Nowon. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大峙ソンギョン、最高49階1571戸へ再建築　ソウル主要事業が前進",
-        "excerpt": "ソウル市都市計画委員会の審議で、大峙ソンギョン、新盤浦7次、二村1区域、上渓ハンシン3次の再建築案が相次ぎ通過し、主要整備事業が進んでいる。",
-        "body": "ソウル市江南区大峙洞の再建築を代表する団地とされる大峙ソンギョンが、ソウル市都市計画委員会の審議を通過し、最高49階、1571戸規模の団地へ生まれ変わる。原文によると、大峙ソンギョンは大峙洞の「優先美」の一つとして言及される団地だ。同じ審議の流れで、新盤浦7次と二村1区域も最高49階の再建築計画が通過し、蘆原区の上渓ハンシン3次は最高35階の開発が確定した。ソウル主要地域の再建築案件が相次いで関門を越え、江南、瑞草、龍山、蘆原の整備事業推進に関心が集まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大峙宣景将重建为最高49层1571户，首尔核心整备项目提速",
-        "excerpt": "首尔市城市规划委员会审议中，大峙洞大峙宣景、新盘浦7次、二村1区和上溪韩信3次重建方案相继通过，主要整备项目正在加快推进。",
-        "body": "首尔江南区大峙洞被视为重建标杆的“大峙宣景”通过首尔市城市规划委员会审议，将改造为最高49层、1571户规模的住宅小区。根据原文，大峙宣景被提及为大峙洞“优先美”之一。在同一轮审议进程中，新盘浦7次和二村1区的最高49层重建计划也获得通过，芦原区上溪韩信3次则确定按最高35层开发。随着首尔主要地区的重建议案接连跨过审议门槛，江南、瑞草、龙山和芦原的整备项目推进受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Daechi Seonkyung será reconstruido con hasta 49 pisos y 1.571 viviendas",
-        "excerpt": "El Comité de Planificación Urbana de Seúl aprobó planes para Daechi Seonkyung, Shinbanpo 7, Ichon Distrito 1 y Sanggye Hanshin 3, impulsando grandes proyectos de reconstrucción.",
-        "body": "Daechi Seonkyung, en Daechi-dong, Gangnam-gu, Seúl, considerado uno de los principales complejos de reconstrucción de la zona, superó la revisión del Comité de Planificación Urbana de Seúl y se transformará en un conjunto de hasta 49 pisos y 1.571 viviendas. Según el texto original, Daechi Seonkyung se menciona como uno de los complejos “Wooseonmi” de Daechi-dong. En la misma secuencia de revisiones, Shinbanpo 7 e Ichon Distrito 1 también aprobaron planes de reconstrucción de hasta 49 pisos, mientras que Sanggye Hanshin 3, en Nowon-gu, confirmó un desarrollo de hasta 35 pisos. La aprobación sucesiva de proyectos en Seúl centra la atención en Gangnam, Seocho, Yongsan y Nowon. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Daechi Seonkyung terá até 49 andares e 1.571 unidades em reconstrução",
-        "excerpt": "O Comitê de Planejamento Urbano de Seul aprovou projetos para Daechi Seonkyung, Shinbanpo 7, Distrito 1 de Ichon e Sanggye Hanshin 3, acelerando grandes reconstruções.",
-        "body": "O Daechi Seonkyung, em Daechi-dong, Gangnam-gu, Seul, apontado como um dos principais complexos de reconstrução da área, passou pela análise do Comitê de Planejamento Urbano de Seul e será transformado em um conjunto de até 49 andares e 1.571 unidades. Segundo o texto original, o Daechi Seonkyung é citado como um dos complexos “Wooseonmi” de Daechi-dong. Na mesma sequência de análises, Shinbanpo 7 e o Distrito 1 de Ichon também tiveram planos de reconstrução de até 49 andares aprovados, enquanto Sanggye Hanshin 3, em Nowon-gu, confirmou desenvolvimento de até 35 andares. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daechi Seonkyung wird zu 49 Etagen und 1.571 Wohnungen umgebaut",
-        "excerpt": "Der Stadtplanungsausschuss von Seoul genehmigte Pläne für Daechi Seonkyung, Shinbanpo 7, Ichon District 1 und Sanggye Hanshin 3 und beschleunigt damit wichtige Sanierungen.",
-        "body": "Daechi Seonkyung in Daechi-dong, Gangnam-gu, Seoul, das als eines der führenden Wiederaufbauprojekte des Viertels gilt, hat die Prüfung des Stadtplanungsausschusses von Seoul passiert und soll zu einer Anlage mit bis zu 49 Etagen und 1.571 Wohnungen werden. Dem Originalbericht zufolge wird Daechi Seonkyung als eines der “Wooseonmi”-Objekte in Daechi-dong genannt. Im selben Prüfungszusammenhang wurden auch Wiederaufbaupläne für Shinbanpo 7 und Ichon District 1 mit bis zu 49 Etagen genehmigt; Sanggye Hanshin 3 in Nowon-gu wurde für eine Entwicklung mit bis zu 35 Etagen bestätigt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Daechi Seonkyung passera à 49 étages et 1 571 logements à Séoul",
-        "excerpt": "Le Comité d’urbanisme de Séoul a validé les dossiers de Daechi Seonkyung, Shinbanpo 7, Ichon District 1 et Sanggye Hanshin 3, accélérant plusieurs grands projets.",
-        "body": "Daechi Seonkyung, à Daechi-dong dans l’arrondissement de Gangnam à Séoul, considéré comme l’un des principaux complexes à reconstruire du secteur, a franchi l’examen du Comité d’urbanisme de Séoul et deviendra un ensemble de jusqu’à 49 étages et 1 571 logements. Selon le texte original, Daechi Seonkyung est cité comme l’un des complexes “Wooseonmi” de Daechi-dong. Dans le même mouvement, Shinbanpo 7 et Ichon District 1 ont aussi vu leurs plans de reconstruction jusqu’à 49 étages approuvés, tandis que Sanggye Hanshin 3, à Nowon-gu, a été confirmé pour un développement jusqu’à 35 étages. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دايتشي سونغيونغ يتحول إلى 49 طابقا و1571 وحدة ضمن إعادة إعمار سيول",
-        "excerpt": "مررت لجنة التخطيط الحضري في سيول خطط دايتشي سونغيونغ وشينبانبو 7 ومنطقة إيتشون 1 وسانغغي هانشين 3، ما يدفع مشاريع إعادة الإعمار الكبرى قدما.",
-        "body": "اجتاز مجمع دايتشي سونغيونغ في دايتشي-دونغ، غانغنام-غو، سيول، وهو من أبرز مجمعات إعادة الإعمار في المنطقة، مراجعة لجنة التخطيط الحضري في سيول، ليتحول إلى مجمع يصل ارتفاعه إلى 49 طابقا ويضم 1571 وحدة. ووفقا للنص الأصلي، يشار إلى دايتشي سونغيونغ كأحد مجمعات “ووسونمي” في دايتشي-دونغ. وفي مسار المراجعات نفسه، مرت أيضا خطط إعادة إعمار شينبانبو 7 ومنطقة إيتشون 1 بارتفاع يصل إلى 49 طابقا، بينما تأكد تطوير سانغغي هانشين 3 في نوون-غو حتى 35 طابقا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Daechi Seonkyung 49 मंजिल और 1,571 घरों में बदलेगा, सियोल परियोजनाएं तेज",
-        "excerpt": "सियोल शहरी योजना समिति ने Daechi Seonkyung, Shinbanpo 7th, Ichon District 1 और Sanggye Hanshin 3rd की पुनर्निर्माण योजनाओं को पास किया, जिससे प्रमुख परियोजनाएं आगे बढ़ीं।",
-        "body": "सियोल के गंगनम-गु, Daechi-dong में स्थित Daechi Seonkyung, जिसे क्षेत्र की प्रमुख पुनर्निर्माण परिसंपत्तियों में माना जाता है, सियोल शहरी योजना समिति की समीक्षा पार कर चुका है और अब अधिकतम 49 मंजिलों तथा 1,571 घरों वाले परिसर में बदलेगा। मूल रिपोर्ट के अनुसार, Daechi Seonkyung को Daechi-dong के “Wooseonmi” परिसरों में से एक बताया गया है। इसी समीक्षा क्रम में Shinbanpo 7th और Ichon District 1 की अधिकतम 49 मंजिला पुनर्निर्माण योजनाएं भी पारित हुईं, जबकि Nowon-gu के Sanggye Hanshin 3rd के लिए अधिकतम 35 मंजिला विकास तय हुआ। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daechi Seonkyung Jadi 49 Lantai dan 1.571 Unit, Proyek Seoul Maju",
-        "excerpt": "Komite Perencanaan Kota Seoul meloloskan rencana Daechi Seonkyung, Shinbanpo 7, Distrik Ichon 1, dan Sanggye Hanshin 3, mempercepat proyek rekonstruksi utama.",
-        "body": "Daechi Seonkyung di Daechi-dong, Gangnam-gu, Seoul, yang disebut sebagai salah satu kompleks rekonstruksi utama di kawasan tersebut, lolos peninjauan Komite Perencanaan Kota Seoul dan akan berubah menjadi kompleks setinggi maksimal 49 lantai dengan 1.571 unit. Menurut teks asli, Daechi Seonkyung disebut sebagai salah satu kompleks “Wooseonmi” di Daechi-dong. Dalam rangkaian peninjauan yang sama, Shinbanpo 7 dan Distrik Ichon 1 juga meloloskan rencana rekonstruksi hingga 49 lantai, sementara Sanggye Hanshin 3 di Nowon-gu dipastikan dikembangkan hingga 35 lantai. Sumber: mk.co.kr"
       }
     }
   }
