@@ -1,0 +1,75 @@
+{
+  "id": "7df50aa9c2a8",
+  "slug": "지표로-보는-경제5월-16일-314126",
+  "channelId": "REALESTATE",
+  "category": "realestate",
+  "publishedAt": "2026-05-15T20:05:45.180Z",
+  "updatedAt": "2026-05-15T20:05:45.180Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932984/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932984/2",
+  "titleFingerprint": "f2f647d1a97a33f7e765bb84c81156d9468b3694",
+  "dedupKeys": [
+    "7df50aa9c2a87ed2c4b6a9040d3a4e3571bcaa22",
+    "f2f647d1a97a33f7e765bb84c81156d9468b3694",
+    "33881037d7cf4e216b4d21361c9b3060349eac62"
+  ],
+  "imageUrl": "/images/articles/7df50aa9c2a8.jpg",
+  "i18n": {
+    "ko": {
+      "title": "5월 16일 경제 지표 한눈에, 동아일보 ‘지표로 보는 경제’ 공개와 확인 포인트",
+      "excerpt": "동아일보 RSS 출처의 ‘지표로 보는 경제’가 5월 16일자 경제 지표 제목으로 공개됐다. 제공된 원문에는 별도 요약이나 세부 수치가 없어 확인 가능한 범위만 전한다.",
+      "body": "동아일보 RSS 출처는 5월 16일 ‘[지표로 보는 경제]5월 16일’이라는 제목의 경제 지표 콘텐츠를 공개했다. 제공된 원문 정보에서 확인되는 핵심은 날짜, 연재명, 출처이며 별도의 요약 문장이나 구체적인 지표 항목, 수치, 해설은 포함되지 않았다. 따라서 이번 기사에서는 5월 16일자 경제 지표 콘텐츠가 게시됐다는 사실만 확인할 수 있다. 경제 지표는 시장과 가계, 기업 활동을 해석하는 기초 자료로 활용되지만, 세부 수치가 제시되지 않은 만큼 지표별 영향이나 전망은 단정할 수 없다. 출처: rss.donga.com."
+    },
+    "en": {
+      "title": "May 16 Economic Indicators: Dong-A’s ‘Economy in Indicators’ Update",
+      "excerpt": "Dong-A’s RSS feed listed an economy item titled ‘Economy in Indicators’ for May 16. The supplied source includes no summary or detailed figures, so only confirmed information is reported.",
+      "body": "Dong-A’s RSS source published an economic indicators item dated May 16 under the title ‘[Economy in Indicators] May 16.’ The information provided confirms the date, series title, and source, but does not include a separate summary, specific indicator categories, figures, or analysis. For that reason, this article can only state that the May 16 economic indicators item was posted. Economic indicators are commonly used to interpret market, household, and business conditions, but without detailed figures, no impact or outlook can be concluded. Source: rss.donga.com."
+    },
+    "ja": {
+      "title": "5月16日の経済指標、東亜日報「指標で見る経済」の確認ポイント",
+      "excerpt": "東亜日報RSSの情報として、5月16日付「指標で見る経済」が掲載された。提供原文には要約や具体的な数値がなく、確認可能な事実のみを伝える。",
+      "body": "東亜日報RSSの出典では、5月16日付で「[指標で見る経済]5月16日」という経済指標コンテンツが公開された。提供された原文情報で確認できるのは日付、連載名、出典であり、別途の要約文や具体的な指標項目、数値、解説は含まれていない。そのため本記事では、5月16日付の経済指標コンテンツが掲載された事実のみを扱う。経済指標は市場、家計、企業活動を読み解く基礎資料となるが、詳細な数値が示されていないため、影響や見通しは断定できない。出典: rss.donga.com."
+    },
+    "zh": {
+      "title": "5月16日经济指标速览，东亚日报“用指标看经济”发布要点",
+      "excerpt": "东亚日报RSS来源显示，5月16日题为“用指标看经济”的经济指标内容已发布。所给原文未包含摘要或具体数据，因此仅报道可确认事实。",
+      "body": "东亚日报RSS来源发布了题为“[用指标看经济]5月16日”的经济指标内容。根据所提供的原文信息，目前能够确认的是日期、栏目名称和来源，未包含单独摘要、具体指标项目、数值或解读。因此，本文只能确认5月16日经济指标内容已经发布这一事实。经济指标通常用于理解市场、家庭和企业活动状况，但在没有详细数据的情况下，无法对其影响或前景作出判断。来源: rss.donga.com."
+    },
+    "es": {
+      "title": "Indicadores económicos del 16 de mayo: claves de ‘Economía en indicadores’",
+      "excerpt": "La fuente RSS de Dong-A publicó un contenido titulado ‘Economía en indicadores’ del 16 de mayo. El texto proporcionado no incluye resumen ni cifras detalladas, por lo que solo se informa lo verificable.",
+      "body": "La fuente RSS de Dong-A publicó un contenido de indicadores económicos fechado el 16 de mayo bajo el título ‘[Economía en indicadores] 16 de mayo’. La información proporcionada confirma la fecha, el nombre de la serie y la fuente, pero no incluye un resumen separado, categorías concretas de indicadores, cifras ni análisis. Por ello, este artículo solo puede señalar que el contenido económico del 16 de mayo fue publicado. Los indicadores económicos suelen servir para interpretar la situación de los mercados, los hogares y las empresas, pero sin datos detallados no es posible concluir impactos ni perspectivas. Fuente: rss.donga.com."
+    },
+    "pt": {
+      "title": "Indicadores econômicos de 16 de maio: atualização de ‘Economia em indicadores’",
+      "excerpt": "A fonte RSS do Dong-A listou um item econômico de 16 de maio intitulado ‘Economia em indicadores’. Como o material fornecido não traz resumo nem números detalhados, são relatados apenas fatos confirmados.",
+      "body": "A fonte RSS do Dong-A publicou um conteúdo de indicadores econômicos datado de 16 de maio com o título ‘[Economia em indicadores] 16 de maio’. As informações fornecidas confirmam a data, o nome da série e a fonte, mas não incluem resumo separado, categorias específicas de indicadores, números ou análise. Portanto, este artigo apenas confirma que o conteúdo econômico de 16 de maio foi publicado. Indicadores econômicos são usados para interpretar mercados, famílias e atividades empresariais, mas sem dados detalhados não é possível afirmar impactos ou perspectivas. Fonte: rss.donga.com."
+    },
+    "de": {
+      "title": "Wirtschaftsindikatoren vom 16. Mai: Dong-A-Reihe im Überblick",
+      "excerpt": "Die RSS-Quelle von Dong-A meldete einen Beitrag der Reihe ‘Wirtschaft in Indikatoren’ vom 16. Mai. Da die Vorlage keine Zusammenfassung oder konkreten Zahlen enthält, werden nur bestätigte Angaben berichtet.",
+      "body": "Die RSS-Quelle von Dong-A veröffentlichte am 16. Mai einen Beitrag zu Wirtschaftsindikatoren mit dem Titel ‘[Wirtschaft in Indikatoren] 16. Mai’. Aus den bereitgestellten Informationen lassen sich Datum, Reihenname und Quelle bestätigen; eine separate Zusammenfassung, konkrete Indikatorarten, Zahlen oder Erläuterungen sind nicht enthalten. Daher kann dieser Artikel nur festhalten, dass der Wirtschaftsindikatoren-Beitrag vom 16. Mai veröffentlicht wurde. Wirtschaftsindikatoren dienen der Einordnung von Märkten, Haushalten und Unternehmen, doch ohne Detailzahlen lassen sich Auswirkungen oder Ausblicke nicht ableiten. Quelle: rss.donga.com."
+    },
+    "fr": {
+      "title": "Indicateurs économiques du 16 mai : le point de ‘L’économie par les indicateurs’",
+      "excerpt": "La source RSS de Dong-A a publié un contenu du 16 mai intitulé ‘L’économie par les indicateurs’. Le texte fourni ne contient ni résumé ni chiffres détaillés, seuls les faits confirmés sont donc rapportés.",
+      "body": "La source RSS de Dong-A a publié un contenu d’indicateurs économiques daté du 16 mai sous le titre ‘[L’économie par les indicateurs] 16 mai’. Les informations fournies permettent de confirmer la date, le nom de la série et la source, mais elles ne contiennent pas de résumé distinct, de catégories précises d’indicateurs, de chiffres ou d’analyse. Cet article peut donc seulement indiquer que le contenu économique du 16 mai a été mis en ligne. Les indicateurs économiques aident à lire les marchés, les ménages et l’activité des entreprises, mais sans données détaillées, aucun impact ni perspective ne peut être établi. Source: rss.donga.com."
+    },
+    "ar": {
+      "title": "مؤشرات الاقتصاد في 16 مايو: تحديث دونغ-آ ضمن ‘الاقتصاد عبر المؤشرات’",
+      "excerpt": "أورد مصدر RSS التابع لدونغ-آ مادة اقتصادية بعنوان ‘الاقتصاد عبر المؤشرات’ بتاريخ 16 مايو. ولا تتضمن المادة المقدمة ملخصا أو أرقاما تفصيلية، لذلك يقتصر الخبر على المعلومات المؤكدة.",
+      "body": "نشر مصدر RSS التابع لدونغ-آ مادة عن المؤشرات الاقتصادية بتاريخ 16 مايو تحت عنوان ‘[الاقتصاد عبر المؤشرات] 16 مايو’. وتؤكد المعلومات المتاحة التاريخ واسم السلسلة والمصدر، لكنها لا تتضمن ملخصا منفصلا أو بنود مؤشرات محددة أو أرقاما أو شرحا تفصيليا. لذلك لا يمكن لهذا الخبر إلا تأكيد نشر مادة المؤشرات الاقتصادية الخاصة بيوم 16 مايو. وتستخدم المؤشرات الاقتصادية عادة لفهم أوضاع الأسواق والأسر ونشاط الشركات، لكن في غياب الأرقام التفصيلية لا يمكن الجزم بالتأثيرات أو التوقعات. المصدر: rss.donga.com."
+    },
+    "hi": {
+      "title": "16 मई के आर्थिक संकेतक: डोंग-आ की ‘संकेतकों से अर्थव्यवस्था’ रिपोर्ट",
+      "excerpt": "डोंग-आ के RSS स्रोत ने 16 मई की ‘संकेतकों से अर्थव्यवस्था’ शीर्षक वाली आर्थिक सामग्री सूचीबद्ध की। दिए गए मूल पाठ में सारांश या विस्तृत आंकड़े नहीं हैं, इसलिए केवल पुष्ट जानकारी दी गई है।",
+      "body": "डोंग-आ के RSS स्रोत ने 16 मई के लिए ‘[संकेतकों से अर्थव्यवस्था] 16 मई’ शीर्षक से आर्थिक संकेतकों की सामग्री प्रकाशित की। उपलब्ध मूल जानकारी से तारीख, श्रृंखला का नाम और स्रोत ही पुष्टि होते हैं; अलग सारांश, विशिष्ट संकेतक श्रेणियां, आंकड़े या विश्लेषण शामिल नहीं हैं। इसलिए यह लेख केवल यह तथ्य बताता है कि 16 मई की आर्थिक संकेतक सामग्री प्रकाशित हुई। आर्थिक संकेतक बाजार, परिवारों और कारोबारी गतिविधियों को समझने के आधार होते हैं, लेकिन विस्तृत आंकड़ों के बिना प्रभाव या आगे की दिशा पर निष्कर्ष नहीं निकाला जा सकता। स्रोत: rss.donga.com."
+    },
+    "id": {
+      "title": "Indikator ekonomi 16 Mei: pembaruan Dong-A ‘Ekonomi dalam Indikator’",
+      "excerpt": "Sumber RSS Dong-A memuat konten ekonomi bertajuk ‘Ekonomi dalam Indikator’ untuk 16 Mei. Karena naskah yang tersedia tidak mencantumkan ringkasan atau angka rinci, hanya fakta terkonfirmasi yang dilaporkan.",
+      "body": "Sumber RSS Dong-A menerbitkan konten indikator ekonomi bertanggal 16 Mei dengan judul ‘[Ekonomi dalam Indikator] 16 Mei’. Informasi yang tersedia mengonfirmasi tanggal, nama seri, dan sumber, tetapi tidak memuat ringkasan terpisah, kategori indikator tertentu, angka, atau analisis. Karena itu, artikel ini hanya dapat menyatakan bahwa konten indikator ekonomi 16 Mei telah dipublikasikan. Indikator ekonomi lazim digunakan untuk membaca kondisi pasar, rumah tangga, dan aktivitas bisnis, tetapi tanpa data rinci, dampak maupun prospeknya tidak dapat disimpulkan. Sumber: rss.donga.com."
+    }
+  }
+}
