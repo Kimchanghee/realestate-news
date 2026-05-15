@@ -1,5 +1,230 @@
 [
   {
+    "id": "3e9c8e8b98fc",
+    "slug": "팔천피-환호도-잠시외국인-차익실현-쏟아져-6-넘게-급락-876013",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T15:36:30.327Z",
+    "updatedAt": "2026-05-15T15:36:30.327Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133931130/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133931130/1",
+    "titleFingerprint": "dd7d8da5b2989b2661650f79948204a4de9301c3",
+    "dedupKeys": [
+      "3e9c8e8b98fca4e5501ff97301f9b5dd3483f1ae",
+      "dd7d8da5b2989b2661650f79948204a4de9301c3",
+      "34f96a45a412af4e380a25b08680a44d01c916d0"
+    ],
+    "imageUrl": "/images/articles/3e9c8e8b98fc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8,000 돌파 직후 6%대 급락, 외국인 차익실현 매도 충격",
+        "excerpt": "15일 코스피가 장중 처음 8,000을 넘긴 뒤 외국인과 기관의 차익실현 매물이 쏟아지며 6.12% 급락했고, 원-달러 환율도 39일 만에 1,500원을 넘었다.",
+        "body": "15일 코스피는 개장 직후 사상 처음 장중 8,000선을 넘어 8,046.78까지 올랐지만, 외국인과 기관의 차익실현 매물이 집중되며 전 거래일보다 6.12% 하락한 7,493.18로 마감했다. 장중 저점은 7,371.68로, 고점과 저점의 차이는 675.1포인트에 달했다. 개인은 7조2000억 원을 순매수했지만 외국인이 5조6000억 원, 기관이 1조7000억 원을 순매도하며 지수를 끌어내렸다. 반도체주 중심 급등장에 참여했던 외국인의 연이은 매도가 부담으로 작용했고, 그 여파로 원-달러 환율은 39일 만에 1,500원을 넘었다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "KOSPI plunges over 6% after touching 8,000 as foreign profit-taking hits",
+        "excerpt": "On the 15th, the KOSPI briefly topped 8,000 for the first time before falling 6.12% as foreign and institutional investors sold to take profits, while the won-dollar rate rose above 1,500 for the first time in 39 days.",
+        "body": "On the 15th, the KOSPI rose above 8,000 for the first time shortly after the open, reaching an intraday record of 8,046.78, but reversed course as foreign and institutional profit-taking orders poured in. It closed at 7,493.18, down 6.12% from the previous session. The index fell as low as 7,371.68, leaving a 675.1-point gap between the day’s high and low. Retail investors bought a net 7.2 trillion won, but foreigners sold 5.6 trillion won and institutions sold 1.7 trillion won, dragging the market lower. Continued foreign selling after a semiconductor-led rally also pushed the won-dollar exchange rate above 1,500 for the first time in 39 days. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "KOSPI、8,000突破直後に6％超急落　外国人の利益確定売りが重荷",
+        "excerpt": "15日、KOSPIは取引時間中に初めて8,000を上回った後、外国人と機関投資家の利益確定売りが集中して6.12％急落し、ウォン・ドル相場も39日ぶりに1,500ウォンを超えた。",
+        "body": "15日のKOSPIは寄り付き直後、史上初めて取引時間中に8,000台へ乗せ、8,046.78まで上昇して最高値を更新した。しかし外国人と機関投資家の利益確定売りが相次ぎ、前営業日比6.12％安の7,493.18で取引を終えた。日中安値は7,371.68で、高値と安値の差は675.1ポイントに達した。個人投資家は7兆2,000億ウォンを買い越した一方、外国人は5兆6,000億ウォン、機関は1兆7,000億ウォンを売り越し、指数を押し下げた。半導体株中心の急騰相場に参加していた外国人の連日の売りが負担となり、ウォン・ドル相場は39日ぶりに1,500ウォンを超えた。出所: rss.donga.com"
+      },
+      "zh": {
+        "title": "KOSPI触及8,000点后暴跌逾6%，外资获利了结卖压涌现",
+        "excerpt": "15日，KOSPI盘中首次突破8,000点后转跌，因外资和机构获利了结卖盘集中，指数下跌6.12%，韩元兑美元汇率也时隔39天升破1,500韩元。",
+        "body": "15日，KOSPI开盘后首次在盘中突破8,000点，最高升至8,046.78点并刷新盘中纪录高位，但随后因外资和机构获利了结卖盘涌现而转跌，收于7,493.18点，较上一交易日下跌6.12%。当天指数最低跌至7,371.68点，高低点差达675.1点。个人投资者净买入7.2万亿韩元，但外资净卖出5.6万亿韩元、机构净卖出1.7万亿韩元，拖累指数下行。此前参与以半导体股为中心的急涨行情的外资连续卖出，也使韩元兑美元汇率时隔39天突破1,500韩元。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El KOSPI cae más de 6% tras tocar 8.000 por ventas de toma de ganancias extranjeras",
+        "excerpt": "El día 15, el KOSPI superó por primera vez los 8.000 puntos intradía, pero cayó 6,12% por ventas de toma de ganancias de extranjeros e instituciones; el won-dólar volvió a superar 1.500 en 39 días.",
+        "body": "El día 15, el KOSPI superó por primera vez los 8.000 puntos poco después de la apertura y marcó un máximo intradía de 8.046,78, pero cambió de dirección por una ola de ventas de toma de ganancias de inversionistas extranjeros e instituciones. Cerró en 7.493,18, un 6,12% menos que en la sesión anterior. El mínimo intradía fue de 7.371,68, con una brecha de 675,1 puntos frente al máximo. Los particulares compraron neto 7,2 billones de wones, pero los extranjeros vendieron 5,6 billones y las instituciones 1,7 billones, presionando el índice. Las ventas extranjeras tras el repunte liderado por semiconductores también llevaron el tipo won-dólar por encima de 1.500 por primera vez en 39 días. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "KOSPI despenca mais de 6% após tocar 8.000 com realização de lucros estrangeira",
+        "excerpt": "No dia 15, o KOSPI superou 8.000 pontos pela primeira vez no intradia, mas caiu 6,12% com vendas de realização de lucros de estrangeiros e instituições; o won-dólar passou de 1.500 em 39 dias.",
+        "body": "No dia 15, o KOSPI ultrapassou 8.000 pontos pela primeira vez logo após a abertura, chegando a 8.046,78 e renovando a máxima intradiária. Em seguida, virou para queda com forte venda de realização de lucros por estrangeiros e instituições, encerrando a 7.493,18, baixa de 6,12% frente ao pregão anterior. A mínima do dia foi 7.371,68, deixando diferença de 675,1 pontos entre máxima e mínima. Investidores individuais compraram 7,2 trilhões de wones líquidos, mas estrangeiros venderam 5,6 trilhões e instituições venderam 1,7 trilhão, pressionando o índice. As vendas estrangeiras após a alta liderada por semicondutores também levaram o câmbio won-dólar acima de 1.500 pela primeira vez em 39 dias. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "KOSPI stürzt nach Sprung über 8.000 um mehr als 6% ab: Ausländer nehmen Gewinne mit",
+        "excerpt": "Am 15. überschritt der KOSPI intraday erstmals 8.000 Punkte, fiel dann aber wegen Gewinnmitnahmen ausländischer und institutioneller Anleger um 6,12%; der Won-Dollar-Kurs stieg nach 39 Tagen wieder über 1.500.",
+        "body": "Am 15. überschritt der KOSPI kurz nach Handelsbeginn erstmals im Tagesverlauf die Marke von 8.000 Punkten und erreichte mit 8.046,78 ein neues Intraday-Hoch. Danach drehte der Index wegen starker Gewinnmitnahmen ausländischer und institutioneller Anleger ins Minus und schloss bei 7.493,18, 6,12% unter dem Vortag. Das Tagestief lag bei 7.371,68, sodass zwischen Hoch und Tief 675,1 Punkte lagen. Privatanleger kauften netto für 7,2 Billionen Won, während Ausländer 5,6 Billionen Won und Institutionen 1,7 Billionen Won netto verkauften. Die anhaltenden Verkäufe ausländischer Anleger nach der von Halbleiterwerten getragenen Rally belasteten auch den Wechselkurs: Der Won-Dollar-Kurs überschritt erstmals seit 39 Tagen wieder 1.500. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 6% après 8.000, frappé par les prises de bénéfices étrangères",
+        "excerpt": "Le 15, le KOSPI a dépassé 8.000 points en séance pour la première fois, puis a perdu 6,12% sous l’effet des prises de bénéfices étrangères et institutionnelles; le won-dollar a repassé 1.500 en 39 jours.",
+        "body": "Le 15, le KOSPI a franchi pour la première fois le seuil de 8.000 points peu après l’ouverture, atteignant 8.046,78 et un record intrajournalier. Mais l’indice s’est retourné avec l’afflux d’ordres de prise de bénéfices d’investisseurs étrangers et institutionnels, clôturant à 7.493,18, en baisse de 6,12% par rapport à la séance précédente. Le point bas du jour a été de 7.371,68, soit un écart de 675,1 points avec le sommet. Les particuliers ont acheté net 7.200 milliards de wons, tandis que les étrangers ont vendu 5.600 milliards et les institutions 1.700 milliards. Les ventes étrangères après la hausse tirée par les semi-conducteurs ont aussi poussé le taux won-dollar au-dessus de 1.500 pour la première fois en 39 jours. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط بأكثر من 6% بعد ملامسة 8,000 بفعل جني أرباح الأجانب",
+        "excerpt": "في 15 من الشهر، تجاوز مؤشر كوسبي مستوى 8,000 نقطة خلال الجلسة لأول مرة، ثم هبط 6.12% مع تدفق مبيعات جني الأرباح من الأجانب والمؤسسات، كما تجاوز سعر الوون مقابل الدولار 1,500 بعد 39 يوما.",
+        "body": "في 15 من الشهر، تجاوز مؤشر كوسبي مستوى 8,000 نقطة لأول مرة بعد الافتتاح مباشرة، مسجلا ذروة خلال الجلسة عند 8,046.78 نقطة. لكنه تحول إلى الهبوط مع تدفق مبيعات جني الأرباح من المستثمرين الأجانب والمؤسسات، وأغلق عند 7,493.18 نقطة، منخفضا 6.12% عن الجلسة السابقة. وبلغ أدنى مستوى خلال اليوم 7,371.68 نقطة، بفارق 675.1 نقطة بين القمة والقاع. اشترى المستثمرون الأفراد صافيا بقيمة 7.2 تريليون وون، بينما باع الأجانب 5.6 تريليون وون والمؤسسات 1.7 تريليون وون، ما ضغط على المؤشر. كما ساهمت مبيعات الأجانب المتواصلة بعد صعود قادته أسهم أشباه الموصلات في دفع سعر الوون مقابل الدولار فوق 1,500 لأول مرة منذ 39 يوما. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "8,000 छूने के बाद KOSPI 6% से अधिक टूटा, विदेशी मुनाफावसूली से दबाव",
+        "excerpt": "15 तारीख को KOSPI पहली बार कारोबार के दौरान 8,000 से ऊपर गया, लेकिन विदेशी और संस्थागत निवेशकों की मुनाफावसूली से 6.12% गिरा; वॉन-डॉलर दर भी 39 दिन बाद 1,500 से ऊपर पहुंची।",
+        "body": "15 तारीख को KOSPI खुलने के तुरंत बाद पहली बार कारोबार के दौरान 8,000 के ऊपर गया और 8,046.78 तक चढ़कर नया इंट्राडे उच्च स्तर बनाया। लेकिन विदेशी और संस्थागत निवेशकों की मुनाफावसूली वाली बिकवाली बढ़ने से सूचकांक पलटकर गिरा और पिछले सत्र से 6.12% नीचे 7,493.18 पर बंद हुआ। दिन का निचला स्तर 7,371.68 रहा, जिससे उच्च और निम्न स्तर के बीच 675.1 अंक का अंतर बना। व्यक्तिगत निवेशकों ने 7.2 ट्रिलियन वॉन की शुद्ध खरीदारी की, लेकिन विदेशी निवेशकों ने 5.6 ट्रिलियन वॉन और संस्थानों ने 1.7 ट्रिलियन वॉन की शुद्ध बिक्री की। सेमीकंडक्टर शेयरों की अगुवाई वाली तेजी के बाद विदेशियों की लगातार बिक्री से वॉन-डॉलर विनिमय दर भी 39 दिन बाद 1,500 से ऊपर चली गई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "KOSPI anjlok lebih dari 6% usai sentuh 8.000 karena aksi ambil untung asing",
+        "excerpt": "Pada tanggal 15, KOSPI pertama kali menembus 8.000 secara intraday, lalu jatuh 6,12% akibat aksi ambil untung investor asing dan institusi; kurs won-dolar juga melewati 1.500 untuk pertama kali dalam 39 hari.",
+        "body": "Pada tanggal 15, KOSPI menembus level 8.000 untuk pertama kalinya tak lama setelah pembukaan dan mencapai rekor intraday 8.046,78. Namun indeks berbalik turun saat aksi jual ambil untung dari investor asing dan institusi membanjir, lalu ditutup di 7.493,18, turun 6,12% dari sesi sebelumnya. Titik terendah hari itu berada di 7.371,68, sehingga selisih antara level tertinggi dan terendah mencapai 675,1 poin. Investor ritel membeli bersih 7,2 triliun won, tetapi asing menjual bersih 5,6 triliun won dan institusi 1,7 triliun won, menekan indeks. Penjualan asing yang berlanjut setelah reli yang dipimpin saham semikonduktor juga membuat kurs won-dolar melewati 1.500 untuk pertama kalinya dalam 39 hari. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "dc6581c927a9",
+    "slug": "페이커와-카리나가-한-화면에-무슨-일이야게이머-사로잡은-구글-695748",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T15:35:22.928Z",
+    "updatedAt": "2026-05-15T15:35:22.928Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932000/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932000/1",
+    "titleFingerprint": "282b461c519742b2b967d0bf8243bac5c79afea2",
+    "dedupKeys": [
+      "dc6581c927a96dc5879e23df9e1731d2c263c6bb",
+      "282b461c519742b2b967d0bf8243bac5c79afea2",
+      "2efaf4df01884d84623f25da5c0d7a1ecde347e5"
+    ],
+    "imageUrl": "/images/articles/dc6581c927a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "구글 플레이, 페이커·카리나 앞세운 모바일 게임 캠페인 공개",
+        "excerpt": "구글 플레이가 15일 프로게이머 페이커 이상혁과 에스파 카리나가 함께 출연한 ‘플레이 온 플레이’ 캠페인 영상을 공개하고 게임 이용자 접점 확대에 나섰다.",
+        "body": "구글 플레이가 15일 프로게이머 ‘페이커’ 이상혁과 에스파 멤버 카리나가 함께 출연한 모바일 게임 캠페인 영상 ‘플레이 온 플레이’를 공개했다. 이번 캠페인은 e스포츠와 케이팝을 대표하는 두 인물을 통해 캐주얼 게이머부터 프로게이머까지 다양한 이용자가 구글 플레이에서 게임을 즐길 수 있다는 메시지를 담았다. 영상은 모바일 게임을 PC와 태블릿 등 대화면에서도 이어 즐길 수 있는 ‘구글 플레이 게임즈’ 기능과 이용에 따라 포인트·아이템 보상을 제공하는 ‘구글 플레이 포인트’를 소개한다. 광고 제작사 돌고래유괴단이 연출했으며 도서관, 버스정류장, 지하철, PC방, 카페 등 일상 공간을 배경으로 총 5편의 숏폼 콘텐츠로 제작됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Google Play Unveils Mobile Game Campaign With Faker and Karina",
+        "excerpt": "Google Play released its “Play on Play” campaign video on the 15th, featuring pro gamer Faker Lee Sang-hyeok and aespa member Karina to expand touchpoints with game users.",
+        "body": "Google Play released the mobile game campaign video “Play on Play” on the 15th, featuring pro gamer “Faker” Lee Sang-hyeok and Karina of aespa. The campaign uses two figures representing esports and K-pop to deliver the message that a wide range of users, from casual gamers to professional gamers, can enjoy games through Google Play. The video introduces Google Play Games, which lets users continue mobile games on larger screens such as PCs and tablets, and Google Play Points, which provides points and item rewards based on game use. Directed by advertising studio Dolphin Kidnappers, the campaign was produced as five short-form videos set in everyday places including a library, bus stop, subway, PC room and cafe. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "Google Play、Fakerとカリナ起用のモバイルゲームキャンペーン公開",
+        "excerpt": "Google Playは15日、プロゲーマーのFakerことイ・サンヒョクとaespaのカリナが共演する「Play on Play」キャンペーン映像を公開し、ゲーム利用者との接点拡大に乗り出した。",
+        "body": "Google Playは15日、プロゲーマー「Faker」ことイ・サンヒョクとaespaメンバーのカリナが共演するモバイルゲームキャンペーン映像「Play on Play」を公開した。今回のキャンペーンは、eスポーツとK-POPを代表する2人を通じ、カジュアルゲーマーからプロゲーマーまで幅広い利用者がGoogle Playでゲームを楽しめるというメッセージを伝える。映像では、モバイルゲームをPCやタブレットなど大画面でも続けて楽しめる「Google Play Games」機能と、利用に応じてポイントやアイテム報酬を提供する「Google Play Points」を紹介する。広告制作会社ドルゴレ誘拐団が演出し、図書館、バス停、地下鉄、PCバン、カフェなど日常空間を舞台に計5本のショートフォームコンテンツとして制作された。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Google Play发布Faker与Karina同框手游活动视频",
+        "excerpt": "Google Play于15日公开由职业选手Faker李相赫和aespa成员Karina共同出演的“Play on Play”活动视频，借此扩大与游戏用户的接触点。",
+        "body": "Google Play于15日发布移动游戏活动视频“Play on Play”，由职业电竞选手“Faker”李相赫和aespa成员Karina共同出演。本次活动通过代表电竞和K-pop的两位人物传递信息：从休闲玩家到职业玩家，各类用户都可以通过Google Play享受游戏。视频介绍了可在PC、平板等大屏设备上继续游玩手机游戏的“Google Play Games”功能，以及根据游戏使用提供积分和道具奖励的“Google Play Points”服务。该视频由广告制作公司Dolphin Kidnappers执导，共制作成5支短视频，场景包括图书馆、公交站、地铁、网吧和咖啡馆等日常空间。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Google Play lanza campaña móvil con Faker y Karina de aespa",
+        "excerpt": "Google Play publicó el día 15 el video de campaña “Play on Play”, con el jugador profesional Faker Lee Sang-hyeok y Karina de aespa, para ampliar el contacto con usuarios de juegos.",
+        "body": "Google Play publicó el día 15 el video de campaña de juegos móviles “Play on Play”, protagonizado por el jugador profesional “Faker” Lee Sang-hyeok y Karina, integrante de aespa. La campaña reúne a dos figuras representativas de los esports y el K-pop para transmitir que diversos usuarios, desde jugadores casuales hasta profesionales, pueden disfrutar juegos a través de Google Play. El video presenta Google Play Games, función que permite continuar juegos móviles en pantallas grandes como PC y tabletas, y Google Play Points, servicio que ofrece puntos y recompensas de ítems según el uso. La producción fue dirigida por la agencia Dolphin Kidnappers y consta de cinco contenidos cortos ambientados en espacios cotidianos como biblioteca, parada de autobús, metro, cibercafé y cafetería. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Google Play lança campanha mobile com Faker e Karina do aespa",
+        "excerpt": "O Google Play divulgou no dia 15 o vídeo da campanha “Play on Play”, com o pro player Faker Lee Sang-hyeok e Karina, do aespa, para ampliar pontos de contato com usuários de jogos.",
+        "body": "O Google Play divulgou no dia 15 o vídeo da campanha de jogos mobile “Play on Play”, estrelado pelo pro player “Faker” Lee Sang-hyeok e por Karina, integrante do aespa. A campanha usa duas figuras que representam os esports e o K-pop para transmitir a mensagem de que diferentes usuários, de jogadores casuais a profissionais, podem jogar pelo Google Play. O vídeo apresenta o Google Play Games, recurso que permite continuar jogos mobile em telas maiores, como PCs e tablets, e o Google Play Points, serviço que oferece pontos e recompensas de itens conforme o uso. A produção foi dirigida pela agência Dolphin Kidnappers e criada em cinco vídeos curtos ambientados em espaços cotidianos como biblioteca, ponto de ônibus, metrô, lan house e café. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Google Play startet Mobile-Gaming-Kampagne mit Faker und Karina",
+        "excerpt": "Google Play veröffentlichte am 15. das Kampagnenvideo „Play on Play“ mit Pro-Gamer Faker Lee Sang-hyeok und aespa-Mitglied Karina, um mehr Kontaktpunkte zu Spiele-Nutzern zu schaffen.",
+        "body": "Google Play veröffentlichte am 15. das Mobile-Gaming-Kampagnenvideo „Play on Play“ mit Pro-Gamer „Faker“ Lee Sang-hyeok und Karina von aespa. Die Kampagne setzt auf zwei Persönlichkeiten aus Esports und K-Pop und vermittelt, dass Nutzer vom Gelegenheitsspieler bis zum Profi über Google Play Spiele genießen können. Das Video stellt Google Play Games vor, mit dem sich Mobile Games auch auf größeren Bildschirmen wie PC und Tablet weiterspielen lassen, sowie Google Play Points, einen Dienst mit Punkten und Item-Belohnungen je nach Nutzung. Regie führte die Werbeproduktionsfirma Dolphin Kidnappers. Produziert wurden fünf Kurzvideos in Alltagsszenen wie Bibliothek, Bushaltestelle, U-Bahn, PC-Bang und Café. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Google Play dévoile une campagne mobile avec Faker et Karina",
+        "excerpt": "Google Play a publié le 15 la vidéo de campagne « Play on Play », avec le joueur professionnel Faker Lee Sang-hyeok et Karina d’aespa, afin d’élargir ses points de contact avec les joueurs.",
+        "body": "Google Play a publié le 15 la vidéo de campagne de jeux mobiles « Play on Play », avec le joueur professionnel « Faker » Lee Sang-hyeok et Karina, membre d’aespa. La campagne s’appuie sur deux figures représentant l’esport et la K-pop pour montrer que des utilisateurs variés, des joueurs occasionnels aux professionnels, peuvent profiter des jeux via Google Play. La vidéo présente Google Play Games, qui permet de poursuivre des jeux mobiles sur de grands écrans comme les PC et les tablettes, ainsi que Google Play Points, un service offrant des points et des récompenses d’objets selon l’utilisation. Réalisée par l’agence Dolphin Kidnappers, elle comprend cinq contenus courts situés dans des lieux du quotidien comme une bibliothèque, un arrêt de bus, le métro, un PC bang et un café. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "غوغل بلاي تطلق حملة ألعاب هاتفية تجمع فيكر وكارينا",
+        "excerpt": "أطلقت غوغل بلاي في 15 الشهر فيديو حملة “Play on Play” بمشاركة اللاعب المحترف فيكر لي سانغ هيوك وكارينا من aespa، بهدف توسيع نقاط التواصل مع مستخدمي الألعاب.",
+        "body": "أطلقت غوغل بلاي في 15 الشهر فيديو حملة ألعاب الهواتف “Play on Play”، بمشاركة اللاعب المحترف “فيكر” لي سانغ هيوك وكارينا، عضوة فرقة aespa. تقدم الحملة شخصيتين تمثلان الرياضات الإلكترونية والكيبوب لنقل رسالة مفادها أن مستخدمين متنوعين، من اللاعبين العاديين إلى المحترفين، يمكنهم الاستمتاع بالألعاب عبر غوغل بلاي. ويعرض الفيديو ميزة Google Play Games التي تتيح متابعة ألعاب الهاتف على شاشات أكبر مثل الحاسوب والجهاز اللوحي، وخدمة Google Play Points التي تقدم نقاطا ومكافآت عناصر بحسب الاستخدام. تولت شركة الإعلانات Dolphin Kidnappers الإخراج، وأنتجت الحملة في خمسة مقاطع قصيرة تدور في أماكن يومية مثل المكتبة ومحطة الحافلات ومترو الأنفاق ومقهى الإنترنت والمقهى. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Google Play ने Faker और Karina के साथ मोबाइल गेम अभियान जारी किया",
+        "excerpt": "Google Play ने 15 तारीख को प्रो गेमर Faker Lee Sang-hyeok और aespa सदस्य Karina वाले “Play on Play” अभियान वीडियो को जारी किया, ताकि गेम उपयोगकर्ताओं से संपर्क बढ़ाया जा सके।",
+        "body": "Google Play ने 15 तारीख को मोबाइल गेम अभियान वीडियो “Play on Play” जारी किया, जिसमें प्रो गेमर “Faker” Lee Sang-hyeok और aespa सदस्य Karina साथ नजर आते हैं। यह अभियान ईस्पोर्ट्स और K-pop का प्रतिनिधित्व करने वाली दो हस्तियों के जरिए यह संदेश देता है कि casual gamers से लेकर professional gamers तक अलग-अलग उपयोगकर्ता Google Play के माध्यम से गेम खेल सकते हैं। वीडियो में Google Play Games सुविधा दिखाई गई है, जिससे मोबाइल गेम PC और tablet जैसी बड़ी स्क्रीन पर भी जारी रखे जा सकते हैं, और Google Play Points सेवा पेश की गई है, जो उपयोग के अनुसार points और item rewards देती है। विज्ञापन निर्माता Dolphin Kidnappers ने इसका निर्देशन किया है। कुल पांच short-form videos बनाए गए हैं, जिनकी पृष्ठभूमि library, bus stop, subway, PC room और cafe जैसे रोजमर्रा के स्थान हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Google Play Rilis Kampanye Game Mobile Bersama Faker dan Karina",
+        "excerpt": "Google Play pada tanggal 15 merilis video kampanye “Play on Play” yang menampilkan pro gamer Faker Lee Sang-hyeok dan Karina aespa untuk memperluas titik kontak dengan pengguna game.",
+        "body": "Google Play pada tanggal 15 merilis video kampanye game mobile “Play on Play” yang menampilkan pro gamer “Faker” Lee Sang-hyeok dan Karina, anggota aespa. Kampanye ini menghadirkan dua sosok yang mewakili esports dan K-pop untuk menyampaikan pesan bahwa berbagai pengguna, dari gamer kasual hingga pro gamer, dapat menikmati game melalui Google Play. Video tersebut memperkenalkan Google Play Games, fitur yang memungkinkan game mobile dilanjutkan di layar besar seperti PC dan tablet, serta Google Play Points, layanan yang memberikan poin dan hadiah item sesuai penggunaan game. Video diarahkan oleh rumah produksi iklan Dolphin Kidnappers dan dibuat menjadi lima konten short-form dengan latar ruang sehari-hari seperti perpustakaan, halte bus, kereta bawah tanah, PC room, dan kafe. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "0669c644f9ca",
+    "slug": "건설-불황에-전략-바꾼-대우건설-현금-쌓고-데이터센터원전-확대-660600",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T15:34:23.912Z",
+    "updatedAt": "2026-05-15T15:34:23.912Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932280/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932280/1",
+    "titleFingerprint": "ca343581d077f783059bf4915bdab25426c18683",
+    "dedupKeys": [
+      "0669c644f9ca08ed266310172493bdc78d6654de",
+      "ca343581d077f783059bf4915bdab25426c18683",
+      "ab2bf93c5f6022909f6b280ccf75c1b814b66758"
+    ],
+    "imageUrl": "/images/articles/0669c644f9ca.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대우건설, 건설 불황 속 현금 2조원 확보…데이터센터·원전 확대 속도",
+        "excerpt": "대우건설은 15일 1분기 보고서를 통해 건설경기 침체와 부동산 불확실성 속에서 현금 확보와 수익성 중심 선별수주, 데이터센터·원전 등 신사업 확대 전략을 밝혔다.",
+        "body": "대우건설이 건설경기 침체와 부동산 시장 불확실성이 이어지는 가운데 외형 확대보다 현금 확보와 수익성 중심의 선별수주에 무게를 두고 있다. 15일 공개한 1분기 분기보고서에 따르면 연결 기준 매출은 1조9514억 원이다. 건축 부문은 1조2732억 원으로 전체의 65.2%를 차지했고, 토목 3505억 원, 플랜트 2840억 원이 뒤를 이었다. 1분기 말 현금및현금성자산은 2조224억 원으로 지난해 말 1조8288억 원보다 약 1935억 원 늘었다. PF 부실, 미분양 적체, 공사비 상승으로 업계 전반의 현금 부담이 커진 상황에서 대우건설은 주택 중심 구조를 넘어 데이터센터·원전·에너지 등 신사업 확대에도 속도를 내고 있다. 회사는 보고서에서 “미분양 및 입주 리스크 등 가치사슬의 핵심 리스크를 현금흐름 관점에서 통합 관리하고 있다”고 밝혔다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Daewoo E&C Builds Cash Above 2 Trillion Won as It Expands Data Centers and Nuclear Projects",
+        "excerpt": "Daewoo E&C said in its first-quarter report on the 15th that it is focusing on cash reserves, selective profitable orders, and new businesses amid a weak construction market.",
+        "body": "Daewoo E&C is shifting its focus from expanding scale to securing cash and taking selective orders centered on profitability as the construction downturn and property market uncertainty continue. According to its first-quarter report released on the 15th, consolidated revenue stood at 1.9514 trillion won. The building division posted 1.2732 trillion won, or 65.2% of the total, followed by civil engineering at 350.5 billion won and plants at 284.0 billion won. Cash and cash equivalents at the end of the first quarter reached 2.0224 trillion won, up about 193.5 billion won from 1.8288 trillion won at the end of last year. With project-financing distress, unsold housing inventories, and rising construction costs increasing cash pressure across the industry, Daewoo E&C is also accelerating expansion beyond housing into data centers, nuclear power, and energy. The company said it is managing core value-chain risks, including unsold units and move-in risks, from a cash-flow perspective. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "大宇建設、建設不況下で現金2兆ウォン超を確保…データセンター・原発を拡大",
+        "excerpt": "大宇建設は15日の第1四半期報告書で、建設景気低迷と不動産不確実性の中、現金確保と収益性重視の選別受注、新事業拡大に注力すると示した。",
+        "body": "大宇建設は、建設景気の低迷と不動産市場の不確実性が続く中、外形拡大よりも現金確保と収益性を重視した選別受注に軸足を置いている。15日に公開した第1四半期報告書によると、連結売上高は1兆9514億ウォンだった。建築部門は1兆2732億ウォンで全体の65.2%を占め、土木3505億ウォン、プラント2840億ウォンが続いた。第1四半期末の現金および現金性資産は2兆224億ウォンで、昨年末の1兆8288億ウォンから約1935億ウォン増えた。PF不良、未分譲の滞留、工事費上昇により業界全体で現金負担が高まる中、大宇建設は住宅中心の構造を越え、データセンター、原発、エネルギーなど新事業の拡大も急いでいる。同社は報告書で、未分譲や入居リスクなど価値連鎖の中核リスクをキャッシュフローの観点から統合管理していると説明した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "大宇建设应对行业低迷，现金增至2万亿韩元以上并扩大数据中心、核电业务",
+        "excerpt": "大宇建设15日在一季度报告中表示，在建筑景气低迷和房地产不确定性持续之际，将聚焦现金储备、盈利性选择性接单及新业务扩张。",
+        "body": "在建筑景气低迷和房地产市场不确定性持续的背景下，大宇建设正把重点从扩大规模转向 확보现金和以盈利性为中心的选择性接单。根据其15日披露的一季度报告，合并口径销售额为1.9514万亿韩元。建筑部门为1.2732万亿韩元，占整体的65.2%，其后为土木3505亿韩元、工厂项目2840亿韩元。一季度末现金及现金等价物为2.0224万亿韩元，较去年末的1.8288万亿韩元增加约1935亿韩元。在PF不良、未售住房积压和工程费上涨使行业现金压力加大的情况下，大宇建设也在加快摆脱住宅中心结构，扩大数据中心、核电、能源等新业务。公司在报告中称，正从现金流角度综合管理未售及入住风险等价值链核心风险。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Daewoo E&C eleva su caja a más de 2 billones de wones y acelera centros de datos y nuclear",
+        "excerpt": "Daewoo E&C informó el día 15 en su reporte del primer trimestre que, ante la debilidad constructora e incertidumbre inmobiliaria, prioriza caja, rentabilidad y nuevos negocios.",
+        "body": "Daewoo E&C está dando prioridad a asegurar efectivo y a una contratación selectiva centrada en la rentabilidad, por encima de ampliar tamaño, mientras continúan la desaceleración de la construcción y la incertidumbre del mercado inmobiliario. Según el informe del primer trimestre publicado el día 15, sus ingresos consolidados fueron de 1,9514 billones de wones. El área de edificación registró 1,2732 billones, el 65,2% del total, seguida por obra civil con 350.500 millones y plantas con 284.000 millones. Al cierre del primer trimestre, el efectivo y equivalentes sumaron 2,0224 billones de wones, unos 193.500 millones más que los 1,8288 billones de finales del año pasado. En un sector presionado por problemas de PF, acumulación de viviendas sin vender y aumento de costos de obra, la compañía también acelera su expansión más allá de la vivienda hacia centros de datos, energía nuclear y energía. En el reporte señaló que gestiona de forma integrada los riesgos clave de la cadena de valor, incluidos inventario sin vender y riesgos de ocupación, desde la perspectiva del flujo de caja. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Daewoo E&C reforça caixa acima de 2 trilhões de wons e amplia data centers e energia nuclear",
+        "excerpt": "A Daewoo E&C afirmou no relatório do 1º trimestre, divulgado no dia 15, que prioriza caixa, encomendas seletivas rentáveis e novos negócios em meio à fraqueza do setor.",
+        "body": "A Daewoo E&C está concentrando sua estratégia em garantir caixa e aceitar contratos de forma seletiva com foco em rentabilidade, em vez de ampliar escala, diante da desaceleração da construção e da incerteza no mercado imobiliário. Segundo o relatório do primeiro trimestre divulgado no dia 15, a receita consolidada foi de 1,9514 trilhão de wons. A divisão de edificações somou 1,2732 trilhão de wons, ou 65,2% do total, seguida por engenharia civil, com 350,5 bilhões, e plantas industriais, com 284,0 bilhões. No fim do primeiro trimestre, caixa e equivalentes de caixa chegaram a 2,0224 trilhões de wons, cerca de 193,5 bilhões acima dos 1,8288 trilhão registrados no fim do ano passado. Com problemas de PF, estoque de imóveis não vendidos e alta dos custos de obra pressionando o setor, a empresa também acelera a expansão além da habitação, em data centers, energia nuclear e energia. No relatório, afirmou que administra de forma integrada os principais riscos da cadeia de valor, incluindo imóveis não vendidos e riscos de ocupação, sob a ótica do fluxo de caixa. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Daewoo E&C stärkt Barmittel auf über 2 Billionen Won und baut Rechenzentren sowie Atomkraft aus",
+        "excerpt": "Daewoo E&C erklärte im Quartalsbericht vom 15., dass es angesichts der Baukrise und Immobilienunsicherheit auf Liquidität, profitable Aufträge und neue Geschäftsfelder setzt.",
+        "body": "Daewoo E&C richtet seine Strategie angesichts der anhaltenden Baukonjunkturschwäche und Unsicherheit am Immobilienmarkt stärker auf Liquiditätssicherung und selektive, ertragsorientierte Aufträge aus, statt auf Größenwachstum. Laut dem am 15. veröffentlichten Bericht zum ersten Quartal lag der konsolidierte Umsatz bei 1,9514 Billionen Won. Der Hochbau erzielte 1,2732 Billionen Won und machte damit 65,2% des Gesamtumsatzes aus; es folgten Tiefbau mit 350,5 Milliarden Won und Anlagenbau mit 284,0 Milliarden Won. Die Zahlungsmittel und Zahlungsmitteläquivalente beliefen sich zum Ende des ersten Quartals auf 2,0224 Billionen Won, rund 193,5 Milliarden Won mehr als die 1,8288 Billionen Won zum Jahresende. Während notleidende Projektfinanzierungen, unverkaufte Bestände und steigende Baukosten die Liquidität der Branche belasten, beschleunigt Daewoo E&C auch den Ausbau neuer Geschäfte jenseits des Wohnungsbaus, darunter Rechenzentren, Kernkraft und Energie. Im Bericht heißt es, das Unternehmen steuere zentrale Risiken der Wertschöpfungskette, darunter unverkaufte Einheiten und Einzugsrisiken, integriert aus Cashflow-Sicht. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Daewoo E&C porte sa trésorerie au-delà de 2 000 milliards de wons et accélère data centers et nucléaire",
+        "excerpt": "Daewoo E&C a indiqué dans son rapport du premier trimestre publié le 15 qu’elle privilégie trésorerie, commandes rentables et nouveaux métiers face au ralentissement du bâtiment.",
+        "body": "Daewoo E&C privilégie désormais la sécurisation de trésorerie et les prises de commandes sélectives axées sur la rentabilité plutôt que l’expansion de taille, alors que le ralentissement de la construction et l’incertitude immobilière se poursuivent. Selon son rapport du premier trimestre publié le 15, le chiffre d’affaires consolidé s’est élevé à 1 951,4 milliards de wons. Le bâtiment a généré 1 273,2 milliards de wons, soit 65,2% du total, devant le génie civil à 350,5 milliards et les installations industrielles à 284,0 milliards. À la fin du premier trimestre, la trésorerie et les équivalents de trésorerie atteignaient 2 022,4 milliards de wons, en hausse d’environ 193,5 milliards par rapport aux 1 828,8 milliards de fin d’année dernière. Alors que les difficultés de financement de projets, les stocks invendus et la hausse des coûts de construction pèsent sur le secteur, l’entreprise accélère aussi son passage au-delà du logement vers les data centers, le nucléaire et l’énergie. Elle indique dans le rapport gérer de manière intégrée les risques clés de la chaîne de valeur, dont les invendus et les risques d’emménagement, sous l’angle des flux de trésorerie. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "دايو للهندسة والبناء ترفع السيولة فوق تريليوني وون وتتوسع في مراكز البيانات والطاقة النووية",
+        "excerpt": "قالت دايو للهندسة والبناء في تقرير الربع الأول الصادر في 15 إنّها تركز على السيولة والطلبات الانتقائية المربحة والأعمال الجديدة وسط ركود البناء.",
+        "body": "تتجه دايو للهندسة والبناء إلى التركيز على تأمين السيولة والطلبات الانتقائية القائمة على الربحية بدلا من توسيع الحجم، في ظل استمرار ركود قطاع البناء وضبابية سوق العقارات. وبحسب تقرير الربع الأول الذي نشرته في 15، بلغت الإيرادات المجمعة 1.9514 تريليون وون. وسجل قطاع المباني 1.2732 تريليون وون، بما يعادل 65.2% من الإجمالي، تلاه قطاع الهندسة المدنية بـ350.5 مليار وون، ثم المنشآت الصناعية بـ284.0 مليار وون. وبلغت النقدية وما يعادلها في نهاية الربع الأول 2.0224 تريليون وون، بزيادة تقارب 193.5 مليار وون عن 1.8288 تريليون وون في نهاية العام الماضي. ومع تزايد ضغوط السيولة في القطاع بسبب تعثر تمويل المشاريع، وتراكم الوحدات غير المباعة، وارتفاع تكاليف البناء، تسرع الشركة أيضا التوسع خارج هيكل الأعمال المعتمد على الإسكان نحو مراكز البيانات والطاقة النووية والطاقة. وقالت في التقرير إنها تدير بشكل متكامل المخاطر الأساسية في سلسلة القيمة، بما في ذلك مخاطر الوحدات غير المباعة والانتقال للسكن، من منظور التدفقات النقدية. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Daewoo E&C ने नकदी 2 ट्रिलियन वॉन से ऊपर की, डेटा सेंटर और परमाणु कारोबार विस्तार तेज",
+        "excerpt": "Daewoo E&C ने 15 तारीख को जारी पहली तिमाही रिपोर्ट में कहा कि निर्माण मंदी और रियल एस्टेट अनिश्चितता के बीच वह नकदी, लाभकारी चुनिंदा ऑर्डर और नए कारोबार पर ध्यान दे रही है।",
+        "body": "निर्माण क्षेत्र की सुस्ती और रियल एस्टेट बाजार की अनिश्चितता जारी रहने के बीच Daewoo E&C आकार बढ़ाने के बजाय नकदी सुरक्षित करने और लाभप्रदता केंद्रित चुनिंदा ऑर्डर लेने पर जोर दे रही है। 15 तारीख को जारी पहली तिमाही रिपोर्ट के अनुसार, समेकित बिक्री 1.9514 ट्रिलियन वॉन रही। भवन निर्माण खंड ने 1.2732 ट्रिलियन वॉन दर्ज किए, जो कुल का 65.2% है, जबकि सिविल इंजीनियरिंग 350.5 बिलियन वॉन और प्लांट 284.0 बिलियन वॉन रहे। पहली तिमाही के अंत में नकद और नकद समतुल्य 2.0224 ट्रिलियन वॉन थे, जो पिछले साल के अंत के 1.8288 ट्रिलियन वॉन से लगभग 193.5 बिलियन वॉन अधिक है। PF संकट, बिना बिके घरों के जमा होने और निर्माण लागत बढ़ने से उद्योग में नकदी दबाव बढ़ा है। इसी बीच कंपनी आवास-केंद्रित संरचना से आगे बढ़कर डेटा सेंटर, परमाणु ऊर्जा और ऊर्जा जैसे नए कारोबारों का विस्तार भी तेज कर रही है। रिपोर्ट में कंपनी ने कहा कि वह बिना बिके प्रोजेक्ट और प्रवेश जोखिम सहित वैल्यू चेन के मुख्य जोखिमों को नकदी प्रवाह के नजरिए से एकीकृत रूप से प्रबंधित कर रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Daewoo E&C Kumpulkan Kas di Atas 2 Triliun Won, Perluas Data Center dan Nuklir",
+        "excerpt": "Daewoo E&C menyatakan dalam laporan kuartal I pada tanggal 15 bahwa di tengah lesunya konstruksi dan ketidakpastian properti, perusahaan memprioritaskan kas, pesanan selektif yang menguntungkan, dan bisnis baru.",
+        "body": "Daewoo E&C kini menitikberatkan strategi pada pengamanan kas dan penerimaan proyek secara selektif berbasis profitabilitas, bukan perluasan skala, di tengah berlanjutnya pelemahan sektor konstruksi dan ketidakpastian pasar properti. Menurut laporan kuartal pertama yang dirilis pada tanggal 15, pendapatan konsolidasi mencapai 1,9514 triliun won. Divisi bangunan mencatat 1,2732 triliun won, atau 65,2% dari total, disusul teknik sipil 350,5 miliar won dan plant 284,0 miliar won. Pada akhir kuartal pertama, kas dan setara kas mencapai 2,0224 triliun won, naik sekitar 193,5 miliar won dari 1,8288 triliun won pada akhir tahun lalu. Ketika tekanan kas industri meningkat akibat masalah PF, penumpukan unit tak terjual, dan kenaikan biaya konstruksi, perusahaan juga mempercepat ekspansi keluar dari struktur yang berpusat pada perumahan menuju data center, tenaga nuklir, dan energi. Dalam laporan itu, perusahaan menyatakan mengelola secara terpadu risiko inti rantai nilai, termasuk risiko unit tak terjual dan hunian, dari sudut pandang arus kas. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "93acddca924b",
     "slug": "내비-화면속으로-들어온-축구장-현대차-월드컵-열기-운전석에-심는다-727943",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Rekonstruksi Sinbanpo 19·25: POSCO E&C Andalkan Hauterre di Banpo",
         "excerpt": "POSCO E&C mengejar proyek rekonstruksi terpadu Sinbanpo 19·25 di Jamwon-dong, Seocho-gu, dengan merek Hauterre serta tawaran desain dan pembiayaan.",
         "body": "POSCO E&C bersaing untuk dipilih sebagai kontraktor proyek rekonstruksi terpadu Sinbanpo 19·25 di Jamwon-dong, Seocho-gu, Seoul, dengan menempatkan merek hunian premium Hauterre sebagai inti penawaran. Proyek ini direncanakan mencakup tujuh gedung, dari empat lantai bawah tanah hingga 49 lantai di atas tanah, dengan total 614 unit. POSCO E&C menetapkan Sinbanpo 19·25 sebagai lokasi strategis utama dan mendorong kerja sama desain dengan firma Belanda UNStudio. Perusahaan kemudian mengusulkan iuran anggota nol, pemandangan Sungai Han untuk seluruh rumah tangga anggota asosiasi, serta dukungan finansial awal sebesar 200 juta won per rumah tangga. Asosiasi berencana memilih kontraktor dalam rapat umum pada 30 Mei. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "c6ef0a9c0e26",
-    "slug": "한국-중진국의-함정-피하려면-창조적-혁신금융-키워야-610520",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T21:57:19.651Z",
-    "updatedAt": "2026-05-14T21:57:19.651Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927871/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133927871/2",
-    "titleFingerprint": "24de73f33e20be291f86ffbb73e98f448e8040e0",
-    "dedupKeys": [
-      "c6ef0a9c0e260ef24ccd86887a41b1ee69e218e8",
-      "24de73f33e20be291f86ffbb73e98f448e8040e0",
-      "ae11cc887776b217a263c9a6f388a2f46a919f41"
-    ],
-    "imageUrl": "/images/articles/c6ef0a9c0e26.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국 중진국의 함정 피하려면 혁신금융 키워야, 피터 하윗 교수 제언",
-        "excerpt": "피터 하윗 브라운대 명예교수는 14일 서울 롯데호텔에서 열린 2026 동아국제금융포럼에서 한국이 선진국 지위를 유지하려면 혁신금융을 키워야 한다고 강조했다.",
-        "body": "피터 하윗 미국 브라운대 명예교수는 14일 서울 중구 롯데호텔에서 열린 ‘2026 동아국제금융포럼’ 기조강연에서 한국이 ‘중진국의 함정’을 피하려면 창조적 혁신금융을 키워야 한다고 말했다. 그는 한국, 대만, 싱가포르 같은 국가들이 금융을 통해 선진국 지위를 유지할 수 있다며 “한 국가가 계속 선진국을 유지할지 가늠하려면 금융 시스템을 봐야 한다”고 밝혔다. AI를 중심으로 첨단 기술이 산업 판도를 바꾸는 상황에서 혁신 기술 기업을 지원하는 금융의 역할이 중요하다는 설명이다. 하윗 교수는 기존 대기업의 지속 혁신을 위해 스타트업을 키워 자극제로 삼아야 한다고 조언했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Korea Needs Innovation Finance to Avoid Middle-Income Trap, Peter Howitt Says",
-        "excerpt": "Brown University professor emeritus Peter Howitt said at the 2026 Dong-A International Finance Forum in Seoul on May 14 that Korea needs stronger innovation finance to remain advanced.",
-        "body": "Peter Howitt, professor emeritus at Brown University in the United States, said in a keynote speech at the 2026 Dong-A International Finance Forum held at Lotte Hotel in Jung-gu, Seoul, on May 14 that Korea must foster creative innovation finance to avoid the “middle-income trap.” He said countries such as Korea, Taiwan and Singapore can maintain advanced-economy status through finance, adding that a nation’s financial system shows whether it can remain advanced. As advanced technologies led by AI reshape industries, he stressed the need for finance that actively supports innovative technology firms. Howitt also advised nurturing startups as a stimulus for continued innovation by major companies. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国が中所得国の罠を避けるには革新金融の育成が必要、ハウィット氏",
-        "excerpt": "ピーター・ハウィット米ブラウン大名誉教授は14日、ソウルの2026東亜国際金融フォーラムで、韓国が先進国の地位を保つには革新金融が必要だと述べた。",
-        "body": "米ブラウン大学のピーター・ハウィット名誉教授は14日、ソウル中区のロッテホテルで開かれた「2026東亜国際金融フォーラム」の基調講演で、韓国が「中所得国の罠」を避けるには創造的な革新金融を育てる必要があると述べた。韓国、台湾、シンガポールのような国は金融を通じて先進国の地位を維持できるとし、「一国が先進国であり続けられるかを判断するには金融システムを見るべきだ」と語った。AIを中心に先端技術が産業構造を変えるなか、革新技術企業を支える金融の力が重要だと強調した。また、大企業が継続的に革新するためにはスタートアップを育て、刺激剤にすべきだと助言した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国要避开中等收入陷阱，应壮大创新金融，彼得·豪伊特建言",
-        "excerpt": "布朗大学名誉教授彼得·豪伊特14日在首尔举行的2026东亚国际金融论坛上表示，韩国若要保持发达国家地位，应加强创新金融。",
-        "body": "美国布朗大学名誉教授彼得·豪伊特14日在首尔中区乐天酒店举行的“2026东亚国际金融论坛”主题演讲中表示，韩国若要避免“中等收入陷阱”，必须培育创造性创新金融。他说，韩国、台湾、新加坡等国家可以通过金融维持发达经济体地位，并指出“判断一个国家能否继续保持发达国家地位，应观察其金融体系”。在以人工智能为中心的尖端技术重塑产业格局之际，他强调，积极支持创新技术企业的金融力量至关重要。豪伊特还建议，应培育初创企业，将其作为刺激大型企业持续创新的动力。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Corea debe impulsar finanzas innovadoras para evitar la trampa de ingreso medio",
-        "excerpt": "Peter Howitt, profesor emérito de Brown, dijo el 14 de mayo en el Foro Financiero Internacional Dong-A 2026 en Seúl que Corea necesita finanzas innovadoras para seguir siendo avanzada.",
-        "body": "Peter Howitt, profesor emérito de la Universidad Brown de Estados Unidos, afirmó el 14 de mayo en su discurso principal del Foro Financiero Internacional Dong-A 2026, celebrado en el Hotel Lotte de Jung-gu, Seúl, que Corea debe fomentar finanzas de innovación creativa para evitar la “trampa de ingreso medio”. Señaló que países como Corea, Taiwán y Singapur pueden mantener su condición de economías avanzadas mediante las finanzas, y dijo que para evaluar si un país seguirá siendo avanzado hay que observar su sistema financiero. En un contexto en que las tecnologías avanzadas lideradas por la IA reorganizan las industrias, subrayó la importancia de financiar a empresas tecnológicas innovadoras. También aconsejó impulsar startups para estimular la innovación continua de las grandes compañías. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Coreia precisa ampliar finanças inovadoras para evitar armadilha da renda média",
-        "excerpt": "Peter Howitt, professor emérito da Brown, disse em 14 de maio no Fórum Financeiro Internacional Dong-A 2026, em Seul, que a Coreia precisa fortalecer finanças inovadoras.",
-        "body": "Peter Howitt, professor emérito da Universidade Brown, dos Estados Unidos, afirmou em 14 de maio, em palestra principal no Fórum Financeiro Internacional Dong-A 2026, realizado no Lotte Hotel em Jung-gu, Seul, que a Coreia deve desenvolver finanças de inovação criativa para evitar a “armadilha da renda média”. Segundo ele, países como Coreia, Taiwan e Singapura podem manter o status de economias avançadas por meio das finanças, e o sistema financeiro indica se uma nação continuará avançada. Com tecnologias de ponta centradas em IA reformulando setores, Howitt destacou a necessidade de finanças que apoiem ativamente empresas de tecnologia inovadora. Ele também recomendou estimular startups para incentivar a inovação contínua das grandes empresas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Korea braucht Innovationsfinanzierung gegen Falle mittlerer Einkommen, sagt Howitt",
-        "excerpt": "Peter Howitt, emeritierter Professor der Brown University, sagte am 14. Mai beim Dong-A International Finance Forum 2026 in Seoul, Korea müsse Innovationsfinanzierung stärken.",
-        "body": "Peter Howitt, emeritierter Professor der Brown University in den USA, sagte am 14. Mai in seiner Grundsatzrede beim Dong-A International Finance Forum 2026 im Lotte Hotel in Jung-gu, Seoul, Korea müsse kreative Innovationsfinanzierung ausbauen, um die “Falle mittlerer Einkommen” zu vermeiden. Länder wie Korea, Taiwan und Singapur könnten ihren Status als entwickelte Volkswirtschaften durch Finanzen halten. Ob ein Land fortgesetzt entwickelt bleibe, lasse sich am Finanzsystem erkennen. Da fortgeschrittene Technologien rund um KI die Industriestruktur verändern, betonte er die Bedeutung von Finanzierungen, die innovative Technologieunternehmen aktiv unterstützen. Zudem riet Howitt, Startups zu fördern, um große Unternehmen zu kontinuierlicher Innovation anzuregen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "La Corée doit développer la finance innovante pour éviter le piège du revenu moyen",
-        "excerpt": "Peter Howitt, professeur émérite à Brown, a déclaré le 14 mai au Forum financier international Dong-A 2026 à Séoul que la Corée devait renforcer la finance innovante.",
-        "body": "Peter Howitt, professeur émérite à l’Université Brown aux États-Unis, a déclaré le 14 mai, lors de son discours d’ouverture au Forum financier international Dong-A 2026 organisé au Lotte Hotel de Jung-gu, à Séoul, que la Corée devait développer une finance d’innovation créative pour éviter le “piège du revenu moyen”. Il a indiqué que des pays comme la Corée, Taïwan et Singapour peuvent conserver leur statut d’économies avancées grâce à la finance, ajoutant que le système financier permet d’évaluer si un pays restera avancé. Alors que les technologies de pointe centrées sur l’IA redessinent les industries, il a souligné le rôle essentiel du financement des entreprises technologiques innovantes. Il a aussi conseillé de soutenir les startups afin de stimuler l’innovation continue des grandes entreprises. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كوريا تحتاج إلى تمويل ابتكاري لتجنب فخ الدخل المتوسط، وفق بيتر هاويت",
-        "excerpt": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون، في 14 مايو خلال منتدى دونغ آه المالي الدولي 2026 في سيول إن كوريا تحتاج إلى تعزيز التمويل الابتكاري.",
-        "body": "قال بيتر هاويت، الأستاذ الفخري في جامعة براون الأميركية، في كلمة رئيسية خلال “منتدى دونغ آه المالي الدولي 2026” الذي عقد في 14 مايو في فندق لوتيه بمنطقة جونغ غو في سيول، إن على كوريا تنمية تمويل ابتكاري خلاق لتجنب “فخ الدخل المتوسط”. وأوضح أن دولا مثل كوريا وتايوان وسنغافورة تستطيع الحفاظ على موقعها كدول متقدمة من خلال التمويل، مضيفا أن النظر إلى النظام المالي يوضح ما إذا كانت الدولة ستبقى متقدمة. ومع إعادة التقنيات المتقدمة، وفي مقدمتها الذكاء الاصطناعي، تشكيل خريطة الصناعات، شدد على أهمية التمويل الذي يدعم شركات التكنولوجيا المبتكرة. كما نصح برعاية الشركات الناشئة لتكون حافزا لاستمرار ابتكار الشركات الكبرى. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "मध्यम आय के जाल से बचने को कोरिया को नवाचार वित्त बढ़ाना होगा: पीटर हॉविट",
-        "excerpt": "ब्राउन विश्वविद्यालय के एमेरिटस प्रोफेसर पीटर हॉविट ने 14 मई को सियोल में 2026 डोंग-ए अंतरराष्ट्रीय वित्त मंच में कहा कि कोरिया को नवाचार वित्त मजबूत करना होगा।",
-        "body": "अमेरिका के ब्राउन विश्वविद्यालय के एमेरिटस प्रोफेसर पीटर हॉविट ने 14 मई को सियोल के जुंग-गु स्थित लोट्टे होटल में आयोजित “2026 डोंग-ए अंतरराष्ट्रीय वित्त मंच” में मुख्य भाषण देते हुए कहा कि कोरिया को “मध्यम आय के जाल” से बचने के लिए रचनात्मक नवाचार वित्त को बढ़ाना होगा। उन्होंने कहा कि कोरिया, ताइवान और सिंगापुर जैसे देश वित्त के जरिए विकसित देश का दर्जा बनाए रख सकते हैं, और किसी देश के आगे भी विकसित बने रहने का आकलन उसके वित्तीय तंत्र से किया जा सकता है। AI केंद्रित उन्नत तकनीकें उद्योगों को बदल रही हैं, इसलिए नवाचार तकनीक कंपनियों को सक्रिय समर्थन देने वाला वित्त जरूरी है। हॉविट ने बड़ी कंपनियों में निरंतर नवाचार को प्रेरित करने के लिए स्टार्टअप को बढ़ावा देने की सलाह दी। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Korea Perlu Perkuat Keuangan Inovatif untuk Hindari Jebakan Pendapatan Menengah",
-        "excerpt": "Profesor emeritus Brown University Peter Howitt pada 14 Mei di Forum Keuangan Internasional Dong-A 2026 di Seoul mengatakan Korea perlu memperkuat keuangan inovatif.",
-        "body": "Peter Howitt, profesor emeritus Brown University di Amerika Serikat, dalam pidato utama di Forum Keuangan Internasional Dong-A 2026 yang digelar pada 14 Mei di Lotte Hotel, Jung-gu, Seoul, mengatakan Korea harus mengembangkan keuangan inovasi kreatif untuk menghindari “jebakan pendapatan menengah”. Ia menyebut negara seperti Korea, Taiwan, dan Singapura dapat mempertahankan status negara maju melalui keuangan, serta sistem keuangan menjadi tolok ukur apakah suatu negara dapat terus maju. Saat teknologi mutakhir yang berpusat pada AI mengubah peta industri, ia menekankan pentingnya kekuatan keuangan yang aktif mendukung perusahaan teknologi inovatif. Howitt juga menyarankan pengembangan startup sebagai pemicu inovasi berkelanjutan bagi perusahaan besar. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "99eb83cbb7be",
-    "slug": "항공-이어-여행업계도-비상경영유류세-폭등에-허리띠-죈다-828735",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T21:56:14.719Z",
-    "updatedAt": "2026-05-14T21:56:14.719Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928210/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928210/1",
-    "titleFingerprint": "31d1055914e830e88885c9fbdcca747a631efb81",
-    "dedupKeys": [
-      "99eb83cbb7be178262664fd55e54a2c22d941ec6",
-      "31d1055914e830e88885c9fbdcca747a631efb81",
-      "91b9fce88f3666ff0c8dd6e200bde6dc51312088"
-    ],
-    "imageUrl": "/images/articles/99eb83cbb7be.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고유가·고환율에 여행업계 비상경영 돌입, LCC 감편·유류할증료 급등으로 허리띠 죈다",
-        "excerpt": "중동 전쟁 여파로 고유가와 고환율이 길어지자 항공업계에 이어 여행업계도 LCC 감편과 유류할증료 급등 피해를 점검하며 비상경영에 들어갔다.",
-        "body": "중동 전쟁 여파로 촉발된 고유가와 고환율 국면이 장기화되면서 항공업계에 이어 여행업계도 비상경영에 돌입했다. 15일 여행업계에 따르면 저비용항공사(LCC)의 국제선 감편과 유류할증료 급등으로 여행사 피해가 가시화되자 한국여행업협회(KATA)는 회원사 피해 파악에 공식 착수했다. 제주항공은 5~6월 국제선 왕복 187편을 줄였고, 진에어는 푸꾸옥·괌 노선을 중심으로 176편을 감편했다. 에어부산도 왕복 212편을 줄이는 등 전쟁 이후 국내 LCC의 축소 국제선은 왕복 1000편 수준에 달한다. 티웨이항공 등 일부 항공사는 무급휴직에 들어갔고, 여행사들도 단축근무와 대책 마련에 나섰다. KATA는 피해 현황을 근거로 정부에 고용유지 등 실효성 있는 지원을 건의할 계획이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Travel Firms Enter Emergency Mode as High Oil, Weak Won and LCC Flight Cuts Hit Demand",
-        "excerpt": "As the Middle East war prolongs high oil prices and exchange-rate pressure, Korean travel agencies are assessing damage from LCC flight cuts and rising fuel surcharges.",
-        "body": "Korea’s travel industry has entered emergency management as high oil prices and a weak won, triggered by the Middle East war, continue to weigh on aviation and tourism. According to industry sources on the 15th, the Korea Association of Travel Agents (KATA) began formally assessing damage among member companies after low-cost carrier flight reductions and sharply higher fuel surcharges started affecting travel agencies. Jeju Air cut 187 round-trip international flights in May and June, Jin Air reduced 176 flights mainly on Phu Quoc and Guam routes, and Air Busan cut 212 round trips. Since the war, reduced international services by domestic LCCs have reached about 1,000 round trips. Some airlines, including T’way Air, have introduced unpaid leave, while travel agencies are adopting shorter work schedules and preparing countermeasures. KATA plans to ask the government for practical support, including employment retention measures. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "高油価・ウォン安で旅行業界も非常経営、LCC減便と燃油サーチャージ急騰が直撃",
-        "excerpt": "中東戦争の影響で高油価と高為替が長期化し、韓国の旅行業界はLCC減便と燃油サーチャージ上昇による被害把握に入った。",
-        "body": "中東戦争の影響で始まった高油価と高為替の局面が長引き、航空業界に続いて旅行業界も非常経営に入った。15日の旅行業界によると、格安航空会社（LCC）の国際線減便と燃油サーチャージの急騰で旅行会社への打撃が表面化したことを受け、韓国旅行業協会（KATA）は会員企業の被害把握に正式に着手した。済州航空は5～6月に国際線往復187便を削減し、ジンエアーはフーコック・グアム路線を中心に176便を減便した。エアプサンも往復212便を減らし、戦争後に韓国LCCで縮小された国際線は往復1000便規模に達する。一部航空会社では無給休職も続き、旅行会社も短縮勤務と対策づくりに動いている。KATAは被害状況を基に雇用維持など実効性ある支援を政府に求める計画だ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "高油价高汇率冲击韩国旅游业，LCC减航与燃油附加费上涨引发应急经营",
-        "excerpt": "受中东战争影响，高油价和高汇率持续，韩国旅游业因低成本航司减航和燃油附加费上涨开始排查企业受损情况。",
-        "body": "受中东战争影响而出现的高油价和高汇率局面持续，继航空业之后，韩国旅游业也进入应急经营状态。据15日旅游业消息，低成本航空公司（LCC）国际航线减班和燃油附加费大幅上涨使旅行社受损逐渐显现，韩国旅行社协会（KATA）已正式着手掌握会员企业受损情况。济州航空在5月至6月减少国际线往返187班，真航空以富国岛、关岛航线为中心减班176班，釜山航空也减少往返212班。战争以来，韩国国内LCC缩减的国际航班规模已达约往返1000班。部分航空公司还实施无薪休假，旅行社则开始采取缩短工作时间并制定应对措施。KATA计划以受损情况为依据，向政府建议包括维持就业在内的有效支援方案。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Agencias de viajes de Corea entran en emergencia por petróleo caro, won débil y recortes LCC",
-        "excerpt": "La guerra en Oriente Medio prolonga el alza del petróleo y la presión cambiaria; las agencias coreanas evalúan daños por recortes LCC y cargos de combustible.",
-        "body": "La industria de viajes de Corea ha entrado en gestión de emergencia mientras se prolongan los altos precios del petróleo y la presión cambiaria provocados por la guerra en Oriente Medio. Según el sector el día 15, la Korea Association of Travel Agents (KATA) inició una evaluación formal de los daños entre sus miembros después de que los recortes de vuelos internacionales de aerolíneas de bajo coste y el fuerte aumento de los recargos por combustible empezaran a afectar a las agencias. Jeju Air redujo 187 vuelos internacionales de ida y vuelta entre mayo y junio; Jin Air recortó 176, principalmente en rutas a Phu Quoc y Guam; y Air Busan redujo 212. Desde la guerra, los vuelos internacionales recortados por LCC nacionales alcanzan unos 1.000 viajes de ida y vuelta. Algunas aerolíneas, incluida T’way Air, han aplicado licencias no remuneradas, mientras las agencias introducen jornadas reducidas y preparan medidas. KATA pedirá al Gobierno apoyos efectivos, incluida la conservación del empleo. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Turismo coreano adota gestão emergencial com petróleo caro, câmbio alto e cortes das LCCs",
-        "excerpt": "Com a guerra no Oriente Médio prolongando petróleo caro e pressão cambial, agências coreanas avaliam perdas por cortes de LCCs e alta da taxa de combustível.",
-        "body": "O setor de turismo da Coreia entrou em gestão emergencial com a continuidade dos preços altos do petróleo e do câmbio elevado provocados pela guerra no Oriente Médio. Segundo o setor no dia 15, a Korea Association of Travel Agents (KATA) iniciou oficialmente o levantamento de danos entre empresas associadas após cortes de voos internacionais das companhias de baixo custo e forte alta das sobretaxas de combustível atingirem as agências. A Jeju Air reduziu 187 voos internacionais de ida e volta entre maio e junho; a Jin Air cortou 176, principalmente nas rotas de Phu Quoc e Guam; e a Air Busan reduziu 212 viagens de ida e volta. Desde a guerra, os cortes de voos internacionais das LCCs domésticas chegam a cerca de 1.000 viagens. Algumas aéreas, como a T’way Air, adotaram licenças não remuneradas, enquanto agências reduzem jornadas e preparam medidas. A KATA pretende solicitar ao governo apoio efetivo, incluindo manutenção do emprego. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Koreas Reisebranche im Notbetrieb: Hohe Ölpreise, Wechselkursdruck und LCC-Kürzungen belasten Firmen",
-        "excerpt": "Der Nahostkrieg verlängert hohe Ölpreise und Wechselkursdruck; Koreas Reisebranche prüft Schäden durch LCC-Flugkürzungen und höhere Treibstoffzuschläge.",
-        "body": "Koreas Reisebranche ist in den Notbetrieb übergegangen, da die durch den Nahostkrieg ausgelösten hohen Ölpreise und der starke Wechselkursdruck anhalten. Branchenangaben vom 15. zufolge begann die Korea Association of Travel Agents (KATA) offiziell damit, Schäden bei Mitgliedsunternehmen zu erfassen, nachdem Kürzungen internationaler Flüge durch Billigfluggesellschaften und stark gestiegene Treibstoffzuschläge Reisebüros trafen. Jeju Air strich im Mai und Juni 187 internationale Hin- und Rückflüge, Jin Air kürzte 176 Flüge vor allem auf den Strecken nach Phu Quoc und Guam, und Air Busan reduzierte 212 Hin- und Rückflüge. Seit dem Krieg belaufen sich die gestrichenen internationalen LCC-Verbindungen im Inland auf rund 1.000 Hin- und Rückflüge. Einige Airlines, darunter T’way Air, führten unbezahlten Urlaub ein; Reisebüros setzen auf verkürzte Arbeitszeiten und Gegenmaßnahmen. KATA will der Regierung wirksame Hilfen einschließlich Beschäftigungssicherung vorschlagen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le tourisme coréen passe en gestion d’urgence face au pétrole cher, au change élevé et aux coupes LCC",
-        "excerpt": "La guerre au Moyen-Orient prolonge la hausse du pétrole et du change; les agences coréennes évaluent les pertes liées aux coupes LCC et aux surtaxes carburant.",
-        "body": "Le secteur coréen du voyage est passé en gestion d’urgence alors que les prix élevés du pétrole et la pression des changes, déclenchés par la guerre au Moyen-Orient, se prolongent. Selon le secteur le 15, la Korea Association of Travel Agents (KATA) a officiellement commencé à recenser les dommages subis par ses membres après que les réductions de vols internationaux des compagnies à bas coûts et la forte hausse des surtaxes carburant ont touché les agences. Jeju Air a supprimé 187 vols internationaux aller-retour en mai et juin; Jin Air en a réduit 176, surtout vers Phu Quoc et Guam; Air Busan a aussi retranché 212 allers-retours. Depuis la guerre, les coupes de vols internationaux des LCC coréennes atteignent environ 1.000 allers-retours. Certaines compagnies, dont T’way Air, ont instauré des congés sans solde, tandis que les agences réduisent le temps de travail et préparent des mesures. KATA demandera au gouvernement un soutien concret, notamment pour maintenir l’emploi. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "قطاع السفر الكوري يدخل إدارة طارئة مع ارتفاع النفط والعملة وتقليص رحلات شركات الطيران منخفضة التكلفة",
-        "excerpt": "مع استمرار آثار حرب الشرق الأوسط على أسعار النفط وسعر الصرف، بدأت وكالات السفر الكورية تقييم الأضرار من تقليص رحلات LCC وارتفاع رسوم الوقود.",
-        "body": "دخل قطاع السفر في كوريا مرحلة إدارة طارئة مع استمرار موجة ارتفاع أسعار النفط وسعر الصرف التي أثارتها حرب الشرق الأوسط، وذلك بعد قطاع الطيران. وبحسب أوساط القطاع في يوم 15، بدأت رابطة وكالات السفر الكورية (KATA) رسميا حصر الأضرار لدى الشركات الأعضاء بعدما أصبحت خسائر وكالات السفر واضحة بسبب تقليص الرحلات الدولية لشركات الطيران منخفضة التكلفة وارتفاع رسوم الوقود الإضافية. خفضت Jeju Air عدد رحلاتها الدولية ذهابا وإيابا بمقدار 187 رحلة في مايو ويونيو، وقلصت Jin Air 176 رحلة تركزت على فو كوك وغوام، كما خفضت Air Busan 212 رحلة ذهابا وإيابا. ومنذ الحرب بلغ حجم الرحلات الدولية المخفضة لدى شركات LCC المحلية نحو 1000 رحلة ذهابا وإيابا. وبدأت بعض الشركات، منها T’way Air، إجازات غير مدفوعة، بينما اعتمدت وكالات السفر ساعات عمل أقصر وتبحث عن إجراءات مضادة. وتعتزم KATA مطالبة الحكومة بدعم عملي، بما في ذلك الحفاظ على الوظائف. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "महंगे तेल, ऊंचे विनिमय दबाव और LCC कटौती से कोरियाई यात्रा उद्योग आपात प्रबंधन में",
-        "excerpt": "मध्य पूर्व युद्ध से तेल कीमतें और विनिमय दबाव लंबे समय तक ऊंचे रहने पर कोरियाई यात्रा एजेंसियां LCC कटौती और ईंधन अधिभार से नुकसान आंक रही हैं।",
-        "body": "मध्य पूर्व युद्ध के असर से शुरू हुई ऊंची तेल कीमतों और उच्च विनिमय दबाव की स्थिति लंबी खिंचने पर कोरिया का यात्रा उद्योग भी विमानन क्षेत्र के बाद आपात प्रबंधन में चला गया है। उद्योग के अनुसार 15 तारीख को, कम लागत वाली एयरलाइनों (LCC) की अंतरराष्ट्रीय उड़ान कटौती और ईंधन अधिभार में तेज वृद्धि से यात्रा एजेंसियों पर असर स्पष्ट होने के बाद Korea Association of Travel Agents (KATA) ने सदस्य कंपनियों के नुकसान का औपचारिक आकलन शुरू किया। Jeju Air ने मई-जून में 187 अंतरराष्ट्रीय राउंड-ट्रिप उड़ानें घटाईं, Jin Air ने फू क्वोक और गुआम मार्गों पर केंद्रित 176 उड़ानें कम कीं, और Air Busan ने 212 राउंड-ट्रिप घटाईं। युद्ध के बाद घरेलू LCC की घटाई गई अंतरराष्ट्रीय उड़ानें करीब 1,000 राउंड-ट्रिप तक पहुंच गई हैं। T’way Air सहित कुछ एयरलाइनों ने अवैतनिक अवकाश शुरू किया, जबकि यात्रा एजेंसियां कम कार्य समय और उपाय तैयार कर रही हैं। KATA सरकार से रोजगार बनाए रखने समेत प्रभावी समर्थन मांगेगा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Industri Travel Korea Masuk Manajemen Darurat karena Minyak Mahal, Kurs Tinggi, dan Pemangkasan LCC",
-        "excerpt": "Dampak perang Timur Tengah memperpanjang harga minyak dan tekanan kurs; agen travel Korea menilai kerugian dari pemangkasan LCC dan biaya bahan bakar.",
-        "body": "Industri perjalanan Korea memasuki manajemen darurat karena harga minyak tinggi dan tekanan kurs yang dipicu perang Timur Tengah terus berlanjut, menyusul sektor penerbangan. Menurut kalangan industri pada tanggal 15, Korea Association of Travel Agents (KATA) resmi mulai mendata kerugian perusahaan anggota setelah pemangkasan penerbangan internasional maskapai berbiaya rendah dan kenaikan tajam fuel surcharge mulai memukul agen perjalanan. Jeju Air memangkas 187 penerbangan internasional pulang-pergi pada Mei-Juni, Jin Air mengurangi 176 penerbangan terutama di rute Phu Quoc dan Guam, sementara Air Busan memangkas 212 penerbangan pulang-pergi. Sejak perang, pengurangan penerbangan internasional LCC domestik mencapai sekitar 1.000 penerbangan pulang-pergi. Beberapa maskapai, termasuk T’way Air, menerapkan cuti tanpa bayaran, sedangkan agen perjalanan mulai memberlakukan jam kerja lebih pendek dan menyiapkan langkah respons. KATA berencana mengusulkan dukungan efektif kepada pemerintah, termasuk pemeliharaan lapangan kerja. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "4890f3a5949b",
-    "slug": "적자-사업-안-한다건설사-옥석-가리기에-신규-수주-반토막-132919",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T21:54:55.083Z",
-    "updatedAt": "2026-05-14T21:54:55.083Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928218/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133928218/1",
-    "titleFingerprint": "661d208963a599e257c6c687962fb236855f0e88",
-    "dedupKeys": [
-      "4890f3a5949b57b459cd27ae1740031c6429e839",
-      "661d208963a599e257c6c687962fb236855f0e88",
-      "c07794a55ddc2d6c595e010f39a5fb96a4654d58"
-    ],
-    "imageUrl": "/images/articles/4890f3a5949b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "건설사 신규 수주 급감, 공사비 급등에 ‘수익성 선별 수주’ 확산",
-        "excerpt": "올해 1분기 주요 건설사 신규 수주가 공사비 상승과 부동산 경기 침체 장기화로 급감하며, 업계가 외형보다 이익 중심의 선별 수주로 돌아서고 있다.",
-        "body": "올해 1분기 건설사 신규 수주가 큰 폭으로 줄었다. 공사비 급등과 부동산 경기 침체가 이어지는 가운데 건설사들이 매출 확대보다 수익성을 우선하는 선별 수주 전략으로 전환했기 때문이다. 15일 사업보고서에 따르면 현대건설의 올해 1분기 신규 수주는 3조9621억 원으로, 전년 동기 9조4301억 원보다 약 58% 감소했다. 업계는 원자재 가격과 인건비가 함께 오르고 금융비용 부담도 커지면서 공격적인 수주 경쟁을 피하고 있다. 한국건설기술연구원에 따르면 올해 3월 건설공사비지수는 134.4로, 지난해 8월 130.9 이후 매월 상승했다. 업계에서는 적자 가능성이 있는 사업은 맡지 않겠다는 분위기가 뚜렷해지고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Construction Orders Plunge as Builders Shift to Profit-Focused Bidding",
-        "excerpt": "In this year’s first quarter, new orders at major builders fell sharply as rising construction costs and a prolonged real estate slowdown pushed firms toward selective bidding.",
-        "body": "New construction orders fell sharply in the first quarter of this year as builders moved away from expanding sales and focused instead on profitability. The shift comes as construction costs surge and the real estate market downturn continues. According to business reports dated the 15th, Hyundai Engineering & Construction recorded 3.9621 trillion won in new orders in the first quarter, down about 58% from 9.4301 trillion won a year earlier. The industry is avoiding aggressive bidding as raw material prices, labor costs and financing burdens rise together. The Korea Institute of Civil Engineering and Building Technology said the construction cost index reached 134.4 in March, rising every month since 130.9 last August. The mood is clear: builders are avoiding projects that could turn unprofitable. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "建設会社の新規受注が急減、工事費高騰で収益重視の選別受注へ",
-        "excerpt": "今年第1四半期、主要建設会社の新規受注は工事費上昇と不動産市況低迷の長期化を受けて急減し、業界は利益重視の選別受注へ傾いている。",
-        "body": "今年第1四半期、建設会社の新規受注が大きく減少した。工事費の急騰と不動産景気の低迷が続く中、各社が売上拡大より収益性を優先する選別受注戦略に転じたためだ。15日の事業報告書によると、現代建設の今年第1四半期の新規受注は3兆9621億ウォンで、前年同期の9兆4301億ウォンから約58%減少した。業界では原材料価格と人件費が同時に上昇し、金融費用の負担も拡大しているため、攻撃的な受注競争を避けている。韓国建設技術研究院によれば、今年3月の建設工事費指数は134.4で、昨年8月の130.9以降、毎月上昇した。赤字の可能性がある事業は受けないという雰囲気が強まっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "建筑企业新订单锐减，成本飙升下转向盈利优先的选择性接单",
-        "excerpt": "今年一季度，主要建筑企业新订单因施工成本上涨和房地产低迷持续而大幅减少，行业正从扩张规模转向重视利润的选择性接单。",
-        "body": "今年一季度，建筑企业新订单大幅减少。在施工成本快速上升、房地产市场低迷持续的背景下，企业正从扩大销售规模转向以盈利能力为中心的选择性接单策略。根据15日的业务报告，现代建设今年一季度新订单为3.9621万亿韩元，较去年同期的9.4301万亿韩元减少约58%。业内因原材料价格和人工成本同时上涨，金融费用负担也扩大，正在避免激进的接单竞争。韩国建设技术研究院数据显示，今年3月建筑工程成本指数为134.4，自去年8月的130.9以来连续每月上升。行业内“不做可能亏损项目”的氛围愈发明显。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Pedidos de constructoras caen con fuerza por costos y licitaciones selectivas",
-        "excerpt": "En el primer trimestre de este año, los nuevos pedidos de grandes constructoras cayeron por el alza de costos y la prolongada debilidad inmobiliaria, priorizando rentabilidad.",
-        "body": "Los nuevos pedidos de las constructoras cayeron con fuerza en el primer trimestre de este año. El motivo es el giro de las empresas hacia una estrategia de contratación selectiva centrada en la rentabilidad, mientras suben los costos de obra y se prolonga la debilidad del mercado inmobiliario. Según los informes de negocio del día 15, Hyundai Engineering & Construction registró 3,9621 billones de wones en nuevos pedidos en el primer trimestre, cerca de un 58% menos que los 9,4301 billones de un año antes. El sector evita competir agresivamente por obras porque aumentan a la vez las materias primas, la mano de obra y los costos financieros. El Instituto Coreano de Tecnología de Construcción informó que el índice de costos de construcción llegó a 134,4 en marzo, subiendo cada mes desde 130,9 en agosto pasado. La postura de no asumir proyectos con riesgo de pérdidas se está consolidando. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Novos pedidos de construtoras despencam com custos altos e seleção por lucro",
-        "excerpt": "No primeiro trimestre deste ano, novos pedidos de grandes construtoras caíram fortemente com alta dos custos e fraqueza imobiliária prolongada, levando a licitações seletivas.",
-        "body": "Os novos pedidos das construtoras caíram de forma acentuada no primeiro trimestre deste ano. A queda ocorre porque as empresas passaram a priorizar rentabilidade, e não expansão de receita, diante da alta dos custos de construção e da prolongada desaceleração do mercado imobiliário. Segundo relatórios de negócios do dia 15, a Hyundai Engineering & Construction registrou 3,9621 trilhões de won em novos pedidos no primeiro trimestre, cerca de 58% abaixo dos 9,4301 trilhões de won do mesmo período do ano anterior. O setor evita disputas agressivas por contratos porque matérias-primas, mão de obra e custos financeiros aumentam ao mesmo tempo. O Instituto Coreano de Tecnologia de Construção informou que o índice de custos de construção chegou a 134,4 em março, subindo todos os meses desde 130,9 em agosto passado. A ideia de não aceitar projetos com risco de prejuízo está se fortalecendo. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Bauaufträge brechen ein, Firmen setzen wegen Kostenanstieg auf Gewinnprüfung",
-        "excerpt": "Im ersten Quartal dieses Jahres gingen neue Aufträge großer Bauunternehmen wegen steigender Baukosten und anhaltender Immobilienschwäche stark zurück.",
-        "body": "Die neuen Aufträge der Bauunternehmen sind im ersten Quartal dieses Jahres deutlich zurückgegangen. Grund ist der Wechsel zu einer selektiven Auftragsstrategie, bei der Rentabilität wichtiger ist als Umsatzwachstum, während Baukosten stark steigen und die Immobilienflaute anhält. Laut Geschäftsberichten vom 15. meldete Hyundai Engineering & Construction im ersten Quartal neue Aufträge von 3,9621 Billionen Won, rund 58% weniger als 9,4301 Billionen Won im Vorjahreszeitraum. Die Branche meidet aggressive Bieterkämpfe, weil Rohstoffpreise, Löhne und Finanzierungskosten zugleich steigen. Nach Angaben des Korea Institute of Civil Engineering and Building Technology lag der Baukostenindex im März bei 134,4 und stieg seit 130,9 im vergangenen August jeden Monat. Projekte mit möglichem Verlust werden zunehmend gemieden. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les commandes du BTP chutent, les groupes privilégient les contrats rentables",
-        "excerpt": "Au premier trimestre, les nouvelles commandes des grands constructeurs ont fortement reculé avec la hausse des coûts et la faiblesse prolongée de l’immobilier.",
-        "body": "Les nouvelles commandes des entreprises de construction ont fortement diminué au premier trimestre de cette année. Cette baisse s’explique par le passage à une stratégie de sélection des contrats centrée sur la rentabilité, alors que les coûts de construction flambent et que le marché immobilier reste déprimé. Selon les rapports d’activité du 15, Hyundai Engineering & Construction a enregistré 3 962,1 milliards de wons de nouvelles commandes au premier trimestre, soit environ 58% de moins que les 9 430,1 milliards de wons de l’an dernier. Le secteur évite les appels d’offres agressifs, car les prix des matières premières, les salaires et les coûts financiers augmentent ensemble. L’Institut coréen de technologie de la construction indique que l’indice des coûts de construction a atteint 134,4 en mars, en hausse chaque mois depuis 130,9 en août dernier. L’idée de refuser les projets à risque de pertes s’installe. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "تراجع حاد في طلبيات شركات البناء مع ارتفاع التكاليف وتركيزها على الربحية",
-        "excerpt": "في الربع الأول من هذا العام، هبطت الطلبيات الجديدة لشركات البناء الكبرى بسبب ارتفاع تكاليف الإنشاء وطول ركود العقارات، مع تفضيل العقود المربحة.",
-        "body": "تراجعت الطلبيات الجديدة لشركات البناء بقوة في الربع الأول من هذا العام. وجاء ذلك مع تحول الشركات من توسيع المبيعات إلى اختيار المشاريع على أساس الربحية، في ظل ارتفاع تكاليف البناء واستمرار ركود سوق العقارات. ووفق تقارير الأعمال الصادرة في اليوم 15، سجلت هيونداي للهندسة والإنشاءات طلبيات جديدة بقيمة 3.9621 تريليون وون في الربع الأول، بانخفاض يقارب 58% عن 9.4301 تريليون وون في الفترة نفسها من العام السابق. وتتجنب الصناعة المنافسة العدوانية على العقود مع ارتفاع أسعار المواد الخام وتكاليف العمالة وأعباء التمويل معا. وذكر المعهد الكوري لتكنولوجيا الهندسة المدنية والبناء أن مؤشر تكاليف البناء بلغ 134.4 في مارس، مرتفعا كل شهر منذ 130.9 في أغسطس الماضي. وتتضح في القطاع نزعة عدم قبول المشاريع التي قد تسبب خسائر. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "निर्माण कंपनियों के नए ऑर्डर घटे, लागत बढ़ने पर लाभ केंद्रित चयन बढ़ा",
-        "excerpt": "इस साल पहली तिमाही में प्रमुख निर्माण कंपनियों के नए ऑर्डर निर्माण लागत बढ़ने और रियल एस्टेट सुस्ती लंबी चलने से तेज घटे, जबकि कंपनियां लाभ को प्राथमिकता दे रही हैं।",
-        "body": "इस साल पहली तिमाही में निर्माण कंपनियों के नए ऑर्डर तेजी से घटे। निर्माण लागत में उछाल और रियल एस्टेट बाजार की लंबी सुस्ती के बीच कंपनियां बिक्री बढ़ाने के बजाय लाभप्रदता को प्राथमिकता देने वाली चयनात्मक ऑर्डर रणनीति अपना रही हैं। 15 तारीख के कारोबार रिपोर्टों के अनुसार, Hyundai Engineering & Construction को पहली तिमाही में 3.9621 ट्रिलियन वॉन के नए ऑर्डर मिले, जो पिछले साल की समान अवधि के 9.4301 ट्रिलियन वॉन से करीब 58% कम है। कच्चे माल, मजदूरी और वित्तीय लागत साथ-साथ बढ़ने से उद्योग आक्रामक बोली प्रतिस्पर्धा से बच रहा है। Korea Institute of Civil Engineering and Building Technology के अनुसार मार्च में निर्माण लागत सूचकांक 134.4 रहा, जो पिछले अगस्त के 130.9 के बाद हर महीने बढ़ा। घाटे की आशंका वाले प्रोजेक्ट न लेने का रुख साफ हो रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pesanan Baru Konstruksi Anjlok, Kontraktor Pilih Proyek yang Menguntungkan",
-        "excerpt": "Pada kuartal pertama tahun ini, pesanan baru kontraktor besar turun tajam karena biaya konstruksi naik dan pasar properti lesu berkepanjangan, mendorong seleksi proyek.",
-        "body": "Pesanan baru perusahaan konstruksi turun tajam pada kuartal pertama tahun ini. Penurunan terjadi karena kontraktor beralih dari mengejar pertumbuhan penjualan ke strategi selektif yang mengutamakan profitabilitas, di tengah lonjakan biaya konstruksi dan pelemahan pasar properti yang berkepanjangan. Menurut laporan bisnis tanggal 15, Hyundai Engineering & Construction mencatat pesanan baru 3,9621 triliun won pada kuartal pertama, turun sekitar 58% dari 9,4301 triliun won pada periode yang sama tahun lalu. Industri menghindari persaingan agresif karena harga bahan baku, biaya tenaga kerja, dan beban pembiayaan naik bersamaan. Korea Institute of Civil Engineering and Building Technology menyebut indeks biaya konstruksi Maret mencapai 134,4, naik setiap bulan sejak 130,9 pada Agustus lalu. Sikap untuk tidak mengambil proyek yang berpotensi merugi makin jelas. Sumber: rss.donga.com"
       }
     }
   }
