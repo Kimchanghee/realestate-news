@@ -1,5 +1,230 @@
 [
   {
+    "id": "7fafefee9b18",
+    "slug": "두나무-1분기-매출영업益-반토막-실적-부진에도-영업이익률-37-303922",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T11:49:55.820Z",
+    "updatedAt": "2026-05-15T11:49:55.820Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932801/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260515/133932801/1",
+    "titleFingerprint": "57334b5cc445fc8853dbc84abd5ee6da60190086",
+    "dedupKeys": [
+      "7fafefee9b18c0d8d03907f869e365959580833f",
+      "57334b5cc445fc8853dbc84abd5ee6da60190086",
+      "5bb2cbf4ee286c5c291cec0a116618cdaeb5e5f7"
+    ],
+    "imageUrl": "/images/articles/7fafefee9b18.png",
+    "i18n": {
+      "ko": {
+        "title": "두나무 1분기 매출·영업이익 급감, 업비트 거래량 둔화 영향",
+        "excerpt": "업비트 운영사 두나무는 15일 올해 1분기 매출 2346억 원, 영업이익 880억 원을 공시했다. 글로벌 경기 둔화와 국제 정세 불확실성으로 거래량이 줄며 실적이 부진했다.",
+        "body": "업비트 운영사 두나무는 15일 공시를 통해 올해 1분기 매출 2346억 원, 영업이익 880억 원을 기록했다고 밝혔다. 지난해 1분기와 비교하면 매출은 55%, 영업이익은 78% 감소했다. 글로벌 경기 둔화로 디지털자산 시장 거래량이 줄어든 데다 중동 전쟁 등 국제 정세 불확실성이 가상자산 가격 약세에 영향을 준 것으로 풀이된다. 국내 주식시장 호황도 업비트 거래량 감소 요인으로 거론됐다. 다만 영업이익률은 37%로 집계됐다. 업계에서는 국내 투자자의 가상자산 보유금액과 거래대금이 1년 사이 반토막 난 것으로 보고 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Dunamu Q1 Revenue and Operating Profit Plunge as Upbit Trading Slows",
+        "excerpt": "Dunamu, operator of Upbit, disclosed on the 15th that first-quarter revenue was 234.6 billion won and operating profit was 88 billion won, as weaker global conditions and geopolitical uncertainty reduced trading volume.",
+        "body": "Dunamu, the operator of Upbit, said in a filing on the 15th that it posted first-quarter revenue of 234.6 billion won and operating profit of 88 billion won. Compared with the same quarter last year, revenue fell 55% and operating profit dropped 78%. The company explained that slowing global economic conditions reduced trading volume in the digital asset market. Uncertainty over international affairs, including the Middle East war, also weighed on cryptocurrency prices, especially Bitcoin. A strong domestic stock market was also cited as a factor behind lower Upbit trading activity. Still, Dunamu’s operating margin stood at 37%. Industry data indicate that Korean investors’ crypto holdings and trading value have halved over the past year. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ドゥナム第1四半期、売上高・営業利益が急減　アップビット取引減が影響",
+        "excerpt": "アップビット運営会社ドゥナムは15日、今年第1四半期の売上高2346億ウォン、営業利益880億ウォンを公示した。世界景気の鈍化と国際情勢の不確実性で取引量が減少した。",
+        "body": "アップビットを運営するドゥナムは15日の公示で、今年第1四半期の売上高が2346億ウォン、営業利益が880億ウォンだったと明らかにした。前年同期比で売上高は55%、営業利益は78%減少した。世界景気の鈍化によりデジタル資産市場の取引量が減ったことが業績に影響した。中東戦争など国際情勢の不確実性も、ビットコインを中心とする暗号資産価格の下落要因とみられる。韓国株式市場の好況もアップビットの取引量減少につながったと分析されている。一方、営業利益率は37%だった。業界では、韓国投資家の暗号資産保有額と取引代金が1年で半減したとみている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Dunamu一季度营收和营业利润大幅下滑，Upbit交易量放缓拖累业绩",
+        "excerpt": "Upbit运营商Dunamu于15日公告称，今年一季度营收为2346亿韩元，营业利润为880亿韩元。全球经济放缓和国际局势不确定性导致交易量减少。",
+        "body": "Upbit运营商Dunamu于15日通过公告表示，今年一季度实现营收2346亿韩元、营业利润880亿韩元。与去年一季度相比，营收减少55%，营业利润下降78%。公司解释称，全球经济放缓导致数字资产市场交易量减少，进而影响业绩。中东战争等国际局势不确定性也被认为加剧了以比特币为中心的虚拟资产价格下跌。韩国股市活跃同样被列为Upbit交易量减少的因素。不过，Dunamu营业利润率仍为37%。业内数据显示，韩国投资者虚拟资产持有金额和交易额在一年内减半。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Dunamu reduce fuerte ingresos y beneficio operativo en el primer trimestre por menor actividad en Upbit",
+        "excerpt": "Dunamu, operador de Upbit, informó el día 15 que sus ingresos del primer trimestre fueron de 234.600 millones de wones y el beneficio operativo de 88.000 millones, afectados por menor volumen de negociación.",
+        "body": "Dunamu, operador de Upbit, informó en una comunicación del día 15 que registró en el primer trimestre ingresos de 234.600 millones de wones y un beneficio operativo de 88.000 millones. Frente al mismo periodo del año anterior, los ingresos cayeron un 55% y el beneficio operativo un 78%. La compañía explicó que la desaceleración económica global redujo el volumen de negociación en el mercado de activos digitales. La incertidumbre internacional, incluida la guerra en Oriente Medio, también influyó en la debilidad de los precios de criptoactivos como Bitcoin. El auge del mercado bursátil surcoreano fue citado además como factor de menor actividad en Upbit. Aun así, el margen operativo fue del 37%. Según el sector, las tenencias y el valor negociado de criptoactivos por inversores locales se redujeron a la mitad en un año. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Dunamu vê receita e lucro operacional do 1º trimestre despencarem com menor negociação na Upbit",
+        "excerpt": "A Dunamu, operadora da Upbit, informou no dia 15 que teve receita de 234,6 bilhões de won e lucro operacional de 88 bilhões no primeiro trimestre, com queda no volume de ativos digitais.",
+        "body": "A Dunamu, operadora da Upbit, informou em comunicado no dia 15 que registrou receita de 234,6 bilhões de won e lucro operacional de 88 bilhões de won no primeiro trimestre deste ano. Em relação ao mesmo período do ano passado, a receita caiu 55% e o lucro operacional recuou 78%. A empresa explicou que a desaceleração da economia global reduziu o volume de negociação no mercado de ativos digitais. A incerteza internacional, incluindo a guerra no Oriente Médio, também afetou os preços de criptoativos, especialmente o Bitcoin. A força do mercado acionário sul-coreano foi apontada como outro fator para a queda nas negociações da Upbit. Ainda assim, a margem operacional ficou em 37%. Segundo o setor, o valor detido e negociado em criptoativos por investidores locais caiu pela metade em um ano. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Dunamu meldet starken Rückgang bei Umsatz und Betriebsgewinn im ersten Quartal",
+        "excerpt": "Dunamu, Betreiber von Upbit, gab am 15. bekannt, dass der Umsatz im ersten Quartal 234,6 Milliarden Won und der Betriebsgewinn 88 Milliarden Won betrugen. Schwächere Konjunktur und Unsicherheit drückten das Handelsvolumen.",
+        "body": "Dunamu, Betreiber der Kryptobörse Upbit, teilte in einer Mitteilung am 15. mit, dass der Umsatz im ersten Quartal bei 234,6 Milliarden Won und der Betriebsgewinn bei 88 Milliarden Won lag. Gegenüber dem Vorjahresquartal sank der Umsatz um 55%, der Betriebsgewinn um 78%. Das Unternehmen erklärte, die globale Konjunkturabkühlung habe das Handelsvolumen am Markt für digitale Vermögenswerte verringert. Internationale Unsicherheiten, darunter der Krieg im Nahen Osten, belasteten zudem die Preise von Kryptowerten, vor allem Bitcoin. Auch die starke Entwicklung des südkoreanischen Aktienmarkts wurde als Grund für geringere Upbit-Umsätze genannt. Die operative Marge lag dennoch bei 37%. Branchenangaben zufolge halbierten sich Kryptobestände und Handelsvolumen koreanischer Anleger binnen eines Jahres. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Dunamu voit son chiffre d’affaires et son résultat opérationnel chuter au premier trimestre",
+        "excerpt": "Dunamu, opérateur d’Upbit, a annoncé le 15 un chiffre d’affaires trimestriel de 234,6 milliards de wons et un résultat opérationnel de 88 milliards, sous l’effet du recul des volumes d’échange.",
+        "body": "Dunamu, l’opérateur d’Upbit, a indiqué dans une publication du 15 que son chiffre d’affaires du premier trimestre s’élevait à 234,6 milliards de wons et son résultat opérationnel à 88 milliards de wons. Par rapport au premier trimestre de l’an dernier, le chiffre d’affaires a reculé de 55% et le résultat opérationnel de 78%. L’entreprise a expliqué que le ralentissement économique mondial avait réduit les volumes de transaction sur le marché des actifs numériques. Les incertitudes internationales, dont la guerre au Moyen-Orient, ont aussi pesé sur les prix des cryptoactifs, notamment le Bitcoin. La vigueur du marché boursier sud-coréen est également citée comme facteur de baisse de l’activité sur Upbit. La marge opérationnelle atteint toutefois 37%. Selon le secteur, les avoirs et montants échangés en cryptoactifs par les investisseurs coréens ont diminué de moitié en un an. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "دونامو تسجل تراجعا حادا في إيرادات وأرباح الربع الأول مع تباطؤ تداولات Upbit",
+        "excerpt": "أعلنت دونامو، مشغلة منصة Upbit، في 15 من الشهر أن إيرادات الربع الأول بلغت 234.6 مليار وون وأن الربح التشغيلي بلغ 88 مليار وون، مع تراجع أحجام التداول بفعل تباطؤ الاقتصاد العالمي.",
+        "body": "قالت دونامو، الشركة المشغلة لمنصة Upbit، في إفصاح يوم 15 إن إيراداتها في الربع الأول من هذا العام بلغت 234.6 مليار وون، بينما بلغ الربح التشغيلي 88 مليار وون. وبالمقارنة مع الربع الأول من العام الماضي، انخفضت الإيرادات 55% وتراجع الربح التشغيلي 78%. وأوضحت الشركة أن تباطؤ الاقتصاد العالمي أدى إلى انخفاض حجم التداول في سوق الأصول الرقمية. كما أثرت حالة عدم اليقين في الأوضاع الدولية، بما في ذلك حرب الشرق الأوسط، في أسعار الأصول المشفرة، خصوصا بيتكوين. وذُكر أيضا ازدهار سوق الأسهم المحلية في كوريا كعامل في تراجع تداولات Upbit. ومع ذلك، بلغ هامش الربح التشغيلي 37%. وتشير بيانات القطاع إلى أن حيازات المستثمرين الكوريين من الأصول المشفرة وقيمة تداولاتهم انخفضت إلى النصف خلال عام. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Dunamu की पहली तिमाही आय और परिचालन लाभ घटे, Upbit ट्रेडिंग सुस्ती का असर",
+        "excerpt": "Upbit की संचालक Dunamu ने 15 तारीख को बताया कि पहली तिमाही में राजस्व 234.6 अरब वॉन और परिचालन लाभ 88 अरब वॉन रहा। वैश्विक सुस्ती और अनिश्चितता से डिजिटल एसेट ट्रेडिंग घटी।",
+        "body": "Upbit की संचालक Dunamu ने 15 तारीख को दाखिल सूचना में कहा कि इस वर्ष पहली तिमाही में उसका राजस्व 234.6 अरब वॉन और परिचालन लाभ 88 अरब वॉन रहा। पिछले वर्ष की पहली तिमाही की तुलना में राजस्व 55% और परिचालन लाभ 78% घटा। कंपनी ने बताया कि वैश्विक आर्थिक सुस्ती के कारण डिजिटल एसेट बाजार में ट्रेडिंग वॉल्यूम कम हुआ, जिससे प्रदर्शन प्रभावित हुआ। मध्य पूर्व युद्ध सहित अंतरराष्ट्रीय अनिश्चितता ने भी बिटकॉइन केंद्रित क्रिप्टो कीमतों में कमजोरी पर असर डाला। घरेलू शेयर बाजार की तेजी को भी Upbit ट्रेडिंग में कमी का कारण माना गया। फिर भी परिचालन लाभ मार्जिन 37% रहा। उद्योग के अनुसार, कोरियाई निवेशकों की क्रिप्टो होल्डिंग और ट्रेडिंग वैल्यू एक वर्ष में आधी हो गई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Dunamu Catat Penurunan Tajam Pendapatan dan Laba Operasi Kuartal I karena Transaksi Upbit Melemah",
+        "excerpt": "Dunamu, operator Upbit, mengumumkan pada tanggal 15 bahwa pendapatan kuartal I mencapai 234,6 miliar won dan laba operasi 88 miliar won, terdampak penurunan volume transaksi aset digital.",
+        "body": "Dunamu, operator Upbit, menyatakan dalam keterbukaan pada tanggal 15 bahwa pendapatan kuartal pertama tahun ini mencapai 234,6 miliar won dan laba operasi 88 miliar won. Dibandingkan kuartal pertama tahun lalu, pendapatan turun 55% dan laba operasi merosot 78%. Perusahaan menjelaskan bahwa perlambatan ekonomi global mengurangi volume transaksi di pasar aset digital. Ketidakpastian situasi internasional, termasuk perang di Timur Tengah, juga memengaruhi pelemahan harga aset kripto, terutama Bitcoin. Menguatnya pasar saham domestik Korea turut disebut sebagai faktor penurunan transaksi Upbit. Meski begitu, margin laba operasi tercatat 37%. Menurut industri, nilai kepemilikan dan transaksi aset kripto investor Korea turun setengah dalam satu tahun. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "3baf5bfa4abc",
+    "slug": "靑-블룸버그에-항의-서한국민배당금-발언-잘못-보도해-시장-혼선-196160",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T11:48:49.506Z",
+    "updatedAt": "2026-05-15T11:48:49.506Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260515/133932808/1",
+    "canonicalUrl": "https://www.donga.com/news/Politics/article/all/20260515/133932808/1",
+    "titleFingerprint": "e7b9ce49cf587362999a1a09041d345c43192cea",
+    "dedupKeys": [
+      "3baf5bfa4abc51ddc83859a55ef308843896b17a",
+      "e7b9ce49cf587362999a1a09041d345c43192cea",
+      "1e02aa2de0a0076de8c95de64c62f6c00754e54b"
+    ],
+    "imageUrl": "/images/articles/3baf5bfa4abc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "청와대, 블룸버그에 항의 서한…‘국민배당금’ 오보 논란 확산",
+        "excerpt": "청와대가 15일 김용범 대통령정책실장의 국민배당금 발언을 블룸버그가 ‘초과이익’ 배분으로 잘못 보도해 시장 혼선을 키웠다며 공식 항의한 것으로 알려졌다.",
+        "body": "청와대가 김용범 대통령정책실장의 ‘국민배당금 제안’ 발언을 잘못 해석해 보도했다며 미국 언론사 블룸버그통신에 공식 항의 서한을 보낸 것으로 알려졌다. 15일 정부 부처 등에 따르면 청와대는 블룸버그가 김 실장의 발언 중 ‘초과세수’를 ‘초과이익’으로 받아들일 수 있게 보도해 시장 혼선을 초래했다는 취지의 서한을 발송한 것으로 전해졌다. 블룸버그는 애초 이를 “share of AI profit”이라고 표현했고, 주식시장이 큰 폭으로 감소한 뒤 김 실장이 ‘초과세수를 활용해야 한다’고 해명했다고 보도했다. 청와대는 김 실장이 초과이익 배분이 아니라 초과세수 배분을 언급했다는 입장이며, 블룸버그에 인정과 공식 사과를 요구한 것으로 전해진다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Blue House Protests Bloomberg Report on ‘National Dividend’ Remarks",
+        "excerpt": "The Blue House reportedly sent Bloomberg a formal protest on May 15, saying its report misread Kim Yong-beom’s national dividend remarks and caused market confusion.",
+        "body": "The Blue House has reportedly sent a formal protest letter to Bloomberg, saying the U.S. news agency misinterpreted remarks by Kim Yong-beom, presidential chief of policy, on a proposed “national dividend.” According to government ministries on May 15, the Blue House argued that Bloomberg reported Kim’s reference to “excess tax revenue” in a way that could be understood as a distribution of “excess profits,” creating confusion in the market. Bloomberg initially described the remarks as a “share of AI profit.” After the stock market fell sharply, it later reported that Kim had clarified he meant using excess tax revenue. The Blue House maintains Kim referred to distributing excess tax revenue, not excess profits, and reportedly demanded acknowledgment and a formal apology. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "韓国大統領府、ブルームバーグに抗議書簡…国民配当金報道に異議",
+        "excerpt": "韓国大統領府は15日、金容範政策室長の国民配当金発言をブルームバーグが誤って解釈し、市場混乱を招いたとして正式に抗議したとされる。",
+        "body": "韓国大統領府は、金容範大統領政策室長の「国民配当金提案」に関する発言を誤って解釈して報じたとして、米ブルームバーグ通信に正式な抗議書簡を送ったと伝えられた。15日、政府部処などによると、大統領府はブルームバーグが金氏の発言のうち「超過税収」を「超過利益」と受け取られ得る形で報じ、市場に混乱をもたらしたとの趣旨の書簡を送付したという。ブルームバーグは当初、発言を「share of AI profit」と表現した。その後、株式市場が大幅に下落すると、金氏が「超過税収を活用すべきだ」と説明したと報じた。大統領府は、金氏が述べたのは超過利益の配分ではなく超過税収の配分だとの立場で、認定と公式謝罪を求めたとされる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国总统府致函抗议彭博：国民分红报道引发市场混乱",
+        "excerpt": "韩国总统府据悉于15日向彭博发出正式抗议信，称其误读金容范“国民分红”发言，将“超额税收”报道成“超额利润”。",
+        "body": "韩国总统府据悉已向美国媒体彭博社发送正式抗议信，称其错误解读并报道总统政策室长金容范有关“国民分红提案”的发言。根据15日政府部门等消息，总统府认为，彭博将金室长所说的“超额税收”以可能被理解为“超额利润”分配的方式报道，导致市场出现混乱，并对投资心理产生负面影响。彭博最初在报道中使用了“share of AI profit”的表述。此后，股市大幅下跌后，彭博报道称金室长已澄清称应“利用超额税收”。总统府立场是，金室长原本提到的是超额税收分配，而非超额利润分配，并据悉要求彭博承认错误并正式道歉。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Casa Azul protesta ante Bloomberg por reporte sobre ‘dividendo nacional’",
+        "excerpt": "La Casa Azul habría enviado el 15 de mayo una protesta formal a Bloomberg por interpretar como ‘beneficios excedentes’ las palabras de Kim Yong-beom sobre el dividendo nacional.",
+        "body": "La Casa Azul habría enviado una carta formal de protesta a Bloomberg, al considerar que la agencia estadounidense interpretó erróneamente las declaraciones de Kim Yong-beom, jefe de política presidencial, sobre una propuesta de “dividendo nacional”. Según ministerios del Gobierno el 15 de mayo, la Casa Azul sostuvo que Bloomberg presentó la referencia de Kim a “ingresos fiscales excedentes” de una forma que podía entenderse como reparto de “beneficios excedentes”, lo que generó confusión en el mercado. Bloomberg escribió inicialmente “share of AI profit”. Después de una fuerte caída bursátil, informó que Kim había aclarado que se refería a utilizar ingresos fiscales excedentes. La Casa Azul afirma que Kim habló de distribuir ingresos fiscales excedentes, no beneficios, y habría pedido reconocimiento y disculpa oficial. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Casa Azul protesta contra Bloomberg por fala sobre ‘dividendo nacional’",
+        "excerpt": "A Casa Azul teria enviado em 15 de maio uma carta formal à Bloomberg, alegando que a agência interpretou mal a fala de Kim Yong-beom sobre dividendo nacional.",
+        "body": "A Casa Azul teria enviado uma carta formal de protesto à Bloomberg, afirmando que a agência norte-americana interpretou e noticiou de forma equivocada as declarações de Kim Yong-beom, chefe de política presidencial, sobre uma proposta de “dividendo nacional”. Segundo ministérios do governo em 15 de maio, a Casa Azul disse que a Bloomberg tratou a referência de Kim a “receita tributária excedente” de modo que poderia ser entendida como distribuição de “lucros excedentes”, causando confusão no mercado. Inicialmente, a Bloomberg usou a expressão “share of AI profit”. Depois de forte queda no mercado acionário, informou que Kim esclareceu que se referia ao uso de receita tributária excedente. A Casa Azul sustenta que Kim falou em distribuir receita tributária excedente, não lucros, e teria exigido reconhecimento e desculpas formais. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Südkoreas Präsidialamt protestiert bei Bloomberg wegen Dividenden-Bericht",
+        "excerpt": "Das südkoreanische Präsidialamt soll Bloomberg am 15. Mai offiziell protestiert haben, weil Kim Yong-beoms Äußerung zur Volksdividende falsch gedeutet worden sei.",
+        "body": "Das südkoreanische Präsidialamt hat Bloomberg Berichten zufolge ein offizielles Protestschreiben geschickt. Anlass ist die Darstellung von Äußerungen Kim Yong-beoms, des Leiters für Präsidialpolitik, zu einem Vorschlag für eine „Volksdividende“. Laut Regierungsstellen vom 15. Mai argumentierte das Präsidialamt, Bloomberg habe Kims Bezug auf „überschüssige Steuereinnahmen“ so wiedergegeben, dass er als Verteilung von „Überschussgewinnen“ verstanden werden konnte. Dies habe Marktturbulenzen ausgelöst und die Anlegerstimmung belastet. Bloomberg schrieb zunächst von einem „share of AI profit“. Nach einem deutlichen Rückgang am Aktienmarkt berichtete Bloomberg, Kim habe klargestellt, er meine die Nutzung überschüssiger Steuereinnahmen. Das Präsidialamt betont, Kim habe nicht von Gewinnverteilung, sondern von Steuereinnahmen gesprochen, und soll Anerkennung sowie eine offizielle Entschuldigung gefordert haben. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La présidence sud-coréenne proteste auprès de Bloomberg sur le ‘dividende national’",
+        "excerpt": "La présidence sud-coréenne aurait adressé le 15 mai une protestation officielle à Bloomberg, accusée d’avoir mal interprété les propos de Kim Yong-beom.",
+        "body": "La présidence sud-coréenne aurait envoyé une lettre officielle de protestation à Bloomberg, estimant que l’agence américaine a mal interprété les propos de Kim Yong-beom, chef de la politique présidentielle, sur une proposition de « dividende national ». Selon des ministères, le 15 mai, la présidence affirme que Bloomberg a présenté la référence de Kim aux « recettes fiscales excédentaires » d’une manière pouvant être comprise comme un partage de « profits excédentaires », provoquant une confusion sur les marchés. Bloomberg avait d’abord écrit « share of AI profit ». Après une forte baisse du marché boursier, l’agence a rapporté que Kim avait précisé qu’il parlait d’utiliser des recettes fiscales excédentaires. La présidence soutient que Kim évoquait leur distribution, non celle de profits, et aurait demandé une reconnaissance des faits ainsi que des excuses officielles. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الرئاسة الكورية تحتج على بلومبرغ بسبب تقرير عن ‘توزيعات وطنية’",
+        "excerpt": "أرسلت الرئاسة الكورية الجنوبية، وفق ما نقل، خطاب احتجاج رسميا إلى بلومبرغ في 15 مايو بسبب تفسير تصريحات كيم يونغ-بوم على أنها توزيع أرباح فائضة.",
+        "body": "أفادت تقارير بأن الرئاسة الكورية الجنوبية أرسلت خطاب احتجاج رسميا إلى وكالة بلومبرغ الأميركية، معتبرة أنها فسرت بشكل خاطئ تصريحات كيم يونغ-بوم، رئيس السياسات الرئاسية، بشأن مقترح “التوزيعات الوطنية”. وبحسب جهات حكومية في 15 مايو، ترى الرئاسة أن بلومبرغ عرضت إشارة كيم إلى “الإيرادات الضريبية الفائضة” بطريقة قد تفهم على أنها توزيع “أرباح فائضة”، ما تسبب في ارتباك بالسوق وأثر سلبا في نفسية المستثمرين. وكانت بلومبرغ قد استخدمت في البداية عبارة “share of AI profit”. وبعد هبوط كبير في سوق الأسهم، ذكرت أن كيم أوضح أنه يقصد استخدام الإيرادات الضريبية الفائضة. وتؤكد الرئاسة أن حديثه كان عن توزيع الإيرادات الضريبية الفائضة لا الأرباح، وطالبت، بحسب التقارير، بالاعتراف والاعتذار الرسمي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ब्लूमबर्ग रिपोर्ट पर दक्षिण कोरियाई राष्ट्रपति कार्यालय का विरोध पत्र",
+        "excerpt": "दक्षिण कोरिया के राष्ट्रपति कार्यालय ने 15 मई को ब्लूमबर्ग को औपचारिक विरोध पत्र भेजा, क्योंकि किम योंग-बोम की राष्ट्रीय लाभांश टिप्पणी को गलत बताया गया।",
+        "body": "दक्षिण कोरिया के राष्ट्रपति कार्यालय ने कथित तौर पर अमेरिकी समाचार एजेंसी ब्लूमबर्ग को औपचारिक विरोध पत्र भेजा है। उसका कहना है कि राष्ट्रपति नीति प्रमुख किम योंग-बोम की “राष्ट्रीय लाभांश प्रस्ताव” संबंधी टिप्पणी को गलत ढंग से समझकर रिपोर्ट किया गया। 15 मई को सरकारी मंत्रालयों आदि के अनुसार, राष्ट्रपति कार्यालय का तर्क है कि ब्लूमबर्ग ने किम की “अतिरिक्त कर राजस्व” वाली बात को इस तरह प्रस्तुत किया कि उसे “अतिरिक्त मुनाफे” के बंटवारे के रूप में समझा जा सकता था, जिससे बाजार में भ्रम पैदा हुआ। ब्लूमबर्ग ने शुरू में इसे “share of AI profit” लिखा था। शेयर बाजार में बड़ी गिरावट के बाद उसने रिपोर्ट किया कि किम ने स्पष्ट किया कि उनका मतलब अतिरिक्त कर राजस्व के उपयोग से था। राष्ट्रपति कार्यालय का कहना है कि किम ने मुनाफे नहीं, बल्कि अतिरिक्त कर राजस्व के वितरण की बात की थी और उसने कथित तौर पर स्वीकारोक्ति व औपचारिक माफी मांगी है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kantor Presiden Korea Protes Bloomberg soal Laporan ‘Dividen Nasional’",
+        "excerpt": "Kantor Presiden Korea Selatan dilaporkan mengirim surat protes resmi pada 15 Mei karena Bloomberg dinilai salah menafsirkan pernyataan Kim Yong-beom soal dividen nasional.",
+        "body": "Kantor Presiden Korea Selatan dilaporkan mengirim surat protes resmi kepada Bloomberg, dengan alasan kantor berita AS itu salah menafsirkan pernyataan Kim Yong-beom, kepala kebijakan presiden, tentang usulan “dividen nasional”. Menurut sejumlah kementerian pemerintah pada 15 Mei, Kantor Presiden menilai Bloomberg memberitakan rujukan Kim pada “kelebihan penerimaan pajak” dengan cara yang dapat dipahami sebagai pembagian “kelebihan laba”, sehingga memicu kebingungan pasar dan berdampak negatif pada sentimen investasi. Bloomberg awalnya menulis “share of AI profit”. Setelah pasar saham turun tajam, Bloomberg melaporkan bahwa Kim mengklarifikasi maksudnya sebagai penggunaan kelebihan penerimaan pajak. Kantor Presiden menegaskan Kim berbicara tentang pembagian kelebihan penerimaan pajak, bukan laba, dan dilaporkan meminta pengakuan serta permintaan maaf resmi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "25f0e47d14ec",
+    "slug": "엄재웅-kpga-경북오픈-2r-단독-선두-도약2위-왕정훈에-한-타-차-526332",
+    "channelId": "REALESTATE",
+    "category": "realestate",
+    "publishedAt": "2026-05-15T11:47:41.356Z",
+    "updatedAt": "2026-05-15T11:47:41.356Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Sports/article/all/20260515/133932825/1",
+    "canonicalUrl": "https://www.donga.com/news/Sports/article/all/20260515/133932825/1",
+    "titleFingerprint": "63271f23d827f3b61144066682b97d556d1b4813",
+    "dedupKeys": [
+      "25f0e47d14ec82113317b808e6b46b865b1959dc",
+      "63271f23d827f3b61144066682b97d556d1b4813",
+      "0ed62c9a69389cccdc6f430086a597086b2763e8"
+    ],
+    "imageUrl": "/images/articles/25f0e47d14ec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "엄재웅, KPGA 경북오픈 2라운드 단독 선두…왕정훈과 1타 차 접전",
+        "excerpt": "엄재웅이 15일 경북 구미 골프존카운티 선산CC에서 열린 KPGA 경북오픈 2라운드에서 5언더파를 기록, 중간합계 10언더파로 단독 선두에 올랐다.",
+        "body": "엄재웅(36·우성종합건설)이 15일 경북 구미시 골프존카운티 선산CC(파71)에서 열린 한국프로골프(KPGA)투어 경북오픈 2라운드에서 단독 선두로 올라섰다. 그는 버디 6개와 보기 1개를 묶어 5언더파 66타를 쳤고, 이틀 연속 5언더파를 기록하며 중간합계 10언더파 132타를 만들었다. 왕정훈은 이날 4언더파를 추가해 9언더파 133타로 단독 2위에 자리했다. 2009년 KPGA투어에 데뷔한 엄재웅은 통산 3승을 보유하고 있으며 이번 대회에서 4승에 도전한다. 첫날 공동 선두였던 박상현은 2오버파로 흔들려 중간합계 5언더파 129타, 공동 10위가 됐다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Eom Jae-woong Takes Solo Lead at KPGA Gyeongbuk Open After Round 2",
+        "excerpt": "Eom Jae-woong shot a 5-under 66 on May 15 at Golfzon County Sunsan CC in Gumi, moving to 10-under overall and taking the solo lead at the KPGA Gyeongbuk Open.",
+        "body": "Eom Jae-woong, 36, of Woosung Construction, moved into the solo lead on May 15 in the second round of the KPGA Tour Gyeongbuk Open at Golfzon County Sunsan CC, a par-71 course in Gumi, North Gyeongsang Province. Eom carded six birdies and one bogey for a 5-under 66, posting 5-under for the second straight day to reach 10-under 132. Wang Jeung-hun added a 4-under round and rose to second alone at 9-under 133, one stroke behind. Eom, who debuted on the KPGA Tour in 2009, has three career wins and is seeking his fourth title this week. Park Sang-hyun, a co-leader after the first round, slipped with a 2-over round and stood tied for 10th at 5-under 129 with Jung Chan-min and Lee Sang-yeop. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "厳在雄、KPGA慶北オープン2Rで単独首位…王情訓と1打差",
+        "excerpt": "厳在雄が15日、慶尚北道亀尾市のゴルフゾンカウンティ善山CCで行われたKPGA慶北オープン第2ラウンドで5アンダーを記録し、通算10アンダーで単独首位に立った。",
+        "body": "厳在雄（36、ウソン総合建設）が15日、慶尚北道亀尾市のゴルフゾンカウンティ善山CC（パー71）で開かれた韓国プロゴルフ（KPGA）ツアー慶北オープン第2ラウンドで単独首位に浮上した。厳在雄はバーディー6個、ボギー1個で5アンダー66をマークし、2日連続の5アンダーで通算10アンダー132とした。王情訓はこの日4アンダーを加え、9アンダー133で単独2位に上がった。2009年にKPGAツアーへデビューした厳在雄は通算3勝を挙げており、今大会で4勝目を狙う。初日共同首位だった朴相賢は2オーバーと崩れ、通算5アンダー129で鄭讃敏、李相燁らと並び10位タイとなった。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "严宰雄升至KPGA庆北公开赛第二轮单独领先，领先王情训一杆",
+        "excerpt": "严宰雄15日在韩国庆北龟尾Golfzon County善山CC进行的KPGA庆北公开赛第二轮打出66杆，以总成绩低于标准杆10杆升至单独领先。",
+        "body": "严宰雄（36岁，Woosung综合建设）15日在庆尚北道龟尾市Golfzon County善山CC（标准杆71杆）举行的韩国职业高尔夫（KPGA）巡回赛庆北公开赛第二轮中升至单独领先。他抓下6只小鸟、吞下1个柏忌，打出低于标准杆5杆的66杆，连续两天交出5 under成绩，以总成绩低于标准杆10杆、132杆排在首位。王情训当天再添4 under，以总成绩低于标准杆9杆、133杆升至单独第二，落后一杆。2009年在KPGA巡回赛出道的严宰雄目前拥有3个个人冠军，本次比赛将冲击生涯第4胜。首日并列领先的朴相贤当天打出高于标准杆2杆，排名下滑至总成绩低于标准杆5杆、129杆，与郑灿敏、李相烨等并列第10。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Eom Jae-woong lidera en solitario el Gyeongbuk Open KPGA tras la segunda ronda",
+        "excerpt": "Eom Jae-woong firmó el 15 de mayo un 66, cinco bajo par, en Golfzon County Sunsan CC de Gumi y alcanzó el liderato en solitario del Gyeongbuk Open KPGA con 10 bajo par.",
+        "body": "Eom Jae-woong, de 36 años y jugador de Woosung Construction, ascendió el 15 de mayo al liderato en solitario del Gyeongbuk Open del KPGA Tour tras la segunda ronda disputada en Golfzon County Sunsan CC, campo par 71 situado en Gumi, provincia de Gyeongsang del Norte. Eom logró seis birdies y un bogey para entregar 66 golpes, cinco bajo par, y por segundo día seguido registró esa misma cifra para quedar con 132 golpes, 10 bajo par. Wang Jeung-hun sumó un 4 bajo par y subió al segundo puesto en solitario con 133 golpes, 9 bajo par, a un golpe del líder. Eom debutó en el KPGA Tour en 2009, acumula tres victorias y busca su cuarto título. Park Sang-hyun, colíder tras la primera jornada, cayó con un 2 sobre par y quedó empatado en el décimo lugar con 129 golpes, 5 bajo par. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Eom Jae-woong assume liderança isolada no Gyeongbuk Open da KPGA após 2ª rodada",
+        "excerpt": "Eom Jae-woong fez 66 tacadas, cinco abaixo do par, em 15 de maio no Golfzon County Sunsan CC, em Gumi, e chegou a 10 abaixo para liderar sozinho o Gyeongbuk Open da KPGA.",
+        "body": "Eom Jae-woong, 36 anos, da Woosung Construction, assumiu em 15 de maio a liderança isolada do Gyeongbuk Open do KPGA Tour após a segunda rodada no Golfzon County Sunsan CC, campo de par 71 em Gumi, província de Gyeongsang do Norte. Ele marcou seis birdies e um bogey para fechar o dia com 66 tacadas, cinco abaixo do par, repetindo o desempenho da primeira rodada e chegando a 132 tacadas, 10 abaixo. Wang Jeung-hun acrescentou uma volta de 4 abaixo e subiu para o segundo lugar isolado, com 133 tacadas, 9 abaixo, a uma tacada do líder. Eom estreou no KPGA Tour em 2009, soma três vitórias na carreira e busca o quarto título nesta semana. Park Sang-hyun, colíder no primeiro dia, oscilou com 2 acima do par e caiu para o décimo lugar empatado, com 129 tacadas, 5 abaixo. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Eom Jae-woong führt nach Runde zwei der KPGA Gyeongbuk Open allein",
+        "excerpt": "Eom Jae-woong spielte am 15. Mai im Golfzon County Sunsan CC in Gumi eine 66er-Runde mit fünf unter Par und übernahm bei der KPGA Gyeongbuk Open mit insgesamt zehn unter Par allein die Führung.",
+        "body": "Eom Jae-woong, 36, von Woosung Construction, hat am 15. Mai in der zweiten Runde der Gyeongbuk Open der KPGA Tour im Golfzon County Sunsan CC, einem Par-71-Platz in Gumi, die alleinige Führung übernommen. Eom notierte sechs Birdies und ein Bogey und kam auf 66 Schläge, fünf unter Par. Da er damit am zweiten Tag in Folge fünf unter Par spielte, liegt er mit insgesamt 132 Schlägen, zehn unter Par, vorn. Wang Jeung-hun verbesserte sich mit einer Runde von vier unter Par auf Rang zwei allein, bei 133 Schlägen und neun unter Par, einen Schlag zurück. Eom debütierte 2009 auf der KPGA Tour, hat drei Karrieresiege und strebt nun seinen vierten Titel an. Park Sang-hyun, nach Tag eins geteilter Führender, fiel mit zwei über Par zurück und liegt mit 129 Schlägen, fünf unter Par, auf dem geteilten zehnten Platz. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Eom Jae-woong seul en tête du Gyeongbuk Open KPGA après le 2e tour",
+        "excerpt": "Eom Jae-woong a rendu le 15 mai une carte de 66, soit cinq sous le par, au Golfzon County Sunsan CC de Gumi, pour prendre seul la tête du Gyeongbuk Open KPGA à 10 sous le par.",
+        "body": "Eom Jae-woong, 36 ans, de Woosung Construction, a pris seul la tête du Gyeongbuk Open du KPGA Tour le 15 mai lors du deuxième tour disputé au Golfzon County Sunsan CC, parcours par 71 situé à Gumi, dans la province du Gyeongsang du Nord. Il a réussi six birdies pour un bogey et signé une carte de 66, cinq sous le par. Avec un deuxième 5 sous le par consécutif, il totalise 132 coups, 10 sous le par. Wang Jeung-hun a ajouté un 4 sous le par et s’est hissé seul à la deuxième place, à 133 coups, 9 sous le par, à une longueur. Eom, qui a débuté sur le KPGA Tour en 2009, compte trois victoires et vise un quatrième titre. Park Sang-hyun, coleader après le premier tour, a reculé avec une carte de 2 au-dessus du par et se retrouve 10e ex aequo à 129 coups, 5 sous le par. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أوم جاي وونغ ينفرد بصدارة بطولة غيونغبوك المفتوحة في الجولة الثانية",
+        "excerpt": "سجل أوم جاي وونغ في 15 مايو 66 ضربة، أي خمس ضربات دون المعدل، في ملعب غولفزون كاونتي سونسان بمدينة غومي، ليتصدر بطولة غيونغبوك المفتوحة في جولة KPGA بمجموع 10 دون المعدل.",
+        "body": "انفرد أوم جاي وونغ، البالغ 36 عاما ولاعب ووسونغ للإنشاءات، بصدارة بطولة غيونغبوك المفتوحة ضمن جولة رابطة الغولف الكورية للمحترفين KPGA في 15 مايو، بعد الجولة الثانية التي أقيمت على ملعب غولفزون كاونتي سونسان في مدينة غومي، وهو ملعب بمعدل 71 ضربة. سجل أوم ستة بيردي وبوغي واحدا لينهي الجولة بـ66 ضربة، أي خمس ضربات دون المعدل، وكرر نتيجة اليوم الأول ليبلغ مجموع 132 ضربة، 10 دون المعدل. وأضاف وانغ جونغ هون أربع ضربات دون المعدل وصعد إلى المركز الثاني منفردا بمجموع 133 ضربة، 9 دون المعدل، وبفارق ضربة واحدة. أوم، الذي بدأ مسيرته في جولة KPGA عام 2009، يملك ثلاثة ألقاب ويسعى إلى لقبه الرابع. أما بارك سانغ هيون، الذي كان متصدرا مشتركا في اليوم الأول، فتراجع بعد تسجيل ضربتين فوق المعدل وأصبح عاشرا بالتساوي عند 129 ضربة، 5 دون المعدل. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "ईओम जे-वूंग KPGA ग्योंगबुक ओपन के दूसरे राउंड के बाद अकेले शीर्ष पर",
+        "excerpt": "ईओम जे-वूंग ने 15 मई को गुमी के गोल्फज़ोन काउंटी सूनसान CC में 5 अंडर 66 का स्कोर बनाया और कुल 10 अंडर के साथ KPGA ग्योंगबुक ओपन में अकेली बढ़त हासिल की।",
+        "body": "ईओम जे-वूंग, 36, वूसुंग कंस्ट्रक्शन, ने 15 मई को ग्योंगसांगबुक-डो के गुमी स्थित गोल्फज़ोन काउंटी सूनसान CC, पार 71, में खेले गए KPGA टूर ग्योंगबुक ओपन के दूसरे राउंड में अकेली बढ़त बना ली। उन्होंने छह बर्डी और एक बोगी के साथ 5 अंडर 66 का कार्ड जमा किया। लगातार दूसरे दिन 5 अंडर खेलने के बाद उनका कुल स्कोर 10 अंडर 132 हो गया। वांग जंग-हून ने इस दिन 4 अंडर जोड़ा और 9 अंडर 133 के साथ अकेले दूसरे स्थान पर पहुंचे, ईओम से एक शॉट पीछे। 2009 में KPGA टूर पर पदार्पण करने वाले ईओम के नाम तीन करियर जीत हैं और वे इस टूर्नामेंट में चौथी जीत की कोशिश कर रहे हैं। पहले दिन संयुक्त बढ़त पर रहे पार्क सांग-ह्युन 2 ओवर के कारण फिसले और 5 अंडर 129 के साथ जंग चान-मिन और ली सांग-यॉप के साथ संयुक्त 10वें स्थान पर रहे। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Eom Jae-woong Pimpin Sendiri Putaran 2 KPGA Gyeongbuk Open, Unggul Satu Pukulan",
+        "excerpt": "Eom Jae-woong mencetak 66 pukulan, lima di bawah par, pada 15 Mei di Golfzon County Sunsan CC, Gumi, dan memimpin sendiri KPGA Gyeongbuk Open dengan total 10 di bawah par.",
+        "body": "Eom Jae-woong, 36 tahun, dari Woosung Construction, naik ke posisi pemimpin tunggal pada 15 Mei dalam putaran kedua KPGA Tour Gyeongbuk Open di Golfzon County Sunsan CC, lapangan par 71 di Gumi, Gyeongsang Utara. Ia membukukan enam birdie dan satu bogey untuk mencatat 66 pukulan, lima di bawah par. Dengan dua hari beruntun mencetak 5 under, Eom mengumpulkan total 132 pukulan, 10 di bawah par. Wang Jeung-hun menambah 4 under pada hari itu dan naik ke posisi kedua tunggal dengan 133 pukulan, 9 di bawah par, tertinggal satu pukulan. Eom, yang debut di KPGA Tour pada 2009, memiliki tiga kemenangan karier dan memburu gelar keempatnya di turnamen ini. Park Sang-hyun, yang memimpin bersama pada hari pertama, turun setelah mencatat 2 over par dan berada di posisi 10 bersama dengan total 129 pukulan, 5 di bawah par. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "31375523ed60",
     "slug": "gtx-a-삼성역-구간서-시공-오류국토부-서울시철도공단-감사-착수-348629",
     "channelId": "REALESTATE",
@@ -4271,231 +4496,6 @@
         "title": "Peraih Nobel Howitt Ingatkan Inovasi AI Mempercepat Transisi Teknologi Besar",
         "excerpt": "Peter Howitt, profesor emeritus Brown University, mengatakan pada 14 Mei di Dong-A International Finance Forum 2026 di Seoul bahwa AI mengubah struktur pekerjaan lebih cepat daripada teknologi sebelumnya.",
         "body": "Peter Howitt, profesor emeritus Brown University di Amerika Serikat, mengatakan pada 14 Mei dalam “Dong-A International Finance Forum 2026” di Lotte Hotel, Jung-gu, Seoul, bahwa perkembangan teknologi kecerdasan buatan membuat pekerjaan yang ada menghilang dan pekerjaan baru muncul. Ia menyebut laju perubahan jauh lebih cepat dibanding saat teknologi inovatif masa lalu seperti mesin uap, listrik, dan komputer ditemukan, seraya mengatakan bahwa “kita berada pada tahap awal transisi teknologi besar.” Howitt menerima Hadiah Nobel Ekonomi tahun lalu atas jasanya mengembangkan konsep “destruksi kreatif” Joseph Schumpeter dan menjelaskan hubungan antara inovasi dan pertumbuhan. Ia menekankan bahwa perusahaan dan akademisi harus berinteraksi untuk mengikuti evolusi AI, sementara pemerintah perlu membantu pekerja yang kehilangan pekerjaan dalam proses itu. Anggota parlemen Jin Sung-joon dari Partai Demokrat Korea mengatakan dalam sambutannya bahwa pertumbuhan sejati berarti memasok sumber daya produktif bagi teknologi dan industri baru agar semua orang tumbuh bersama. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "b8dc77b7114c",
-    "slug": "정의선-이란-전쟁-우려-커-신기술-체질-개선으로-전쟁후-대비-293055",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T19:12:20.227Z",
-    "updatedAt": "2026-05-14T19:12:20.227Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133926444/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133926444/2",
-    "titleFingerprint": "191ba0a3faa6e01b10573852db83681e0cb8f1fa",
-    "dedupKeys": [
-      "b8dc77b7114c2ae875cb30cd23dc292acb5e98bb",
-      "191ba0a3faa6e01b10573852db83681e0cb8f1fa",
-      "472893a60e673284962c4385e1f7fdd02aa5dec8"
-    ],
-    "imageUrl": "/images/articles/b8dc77b7114c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정의선 현대차 회장, 이란 전쟁 장기화에 “신기술·체질 개선으로 이후 대비”",
-        "excerpt": "정의선 현대자동차그룹 회장은 14일 서울 양재사옥에서 중동 상황 장기화로 사우디 공장 준공 지연과 판매 감소가 우려된다며 신기술 개발과 체질 개선으로 전쟁 이후를 준비하겠다고 밝혔다.",
-        "body": "정의선 현대자동차그룹 회장은 14일 서울 서초구 헌릉로 현대차그룹 양재사옥에서 열린 ‘로비 스토리 타운홀’ 행사에 앞서 기자들과 만나 미국과 이란의 전쟁 장기화에 따른 우려를 밝혔다. 정 회장은 “중동 상황이 길어지면서 우려가 많이 되고 있다”며 “우리가 잘할 수 있는 신기술 개발과 체질 개선을 통해 ‘이후’를 대비하겠다”고 말했다. 현대차그룹은 현재 중동 지역 사업에 차질을 겪고 있으며, 사우디아라비아 공장 준공 지연 가능성과 중동 자동차 판매량 감소가 언급됐다. 정 회장은 테슬라 FSD와 중국 전기차 공세 등 경쟁 심화에 대해서도 “긴장이 되는 동시에 좋은 기회”라고 평가했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hyundai’s Chung Eui-sun Cites Iran War Risks, Plans Postwar Readiness With New Tech",
-        "excerpt": "Hyundai Motor Group Chairman Chung Eui-sun said on the 14th in Seoul that prolonged Middle East tensions may delay its Saudi plant and cut regional sales, but the group will prepare through new technology and internal improvements.",
-        "body": "Hyundai Motor Group Chairman Chung Eui-sun met reporters on the 14th before the “Lobby Story Town Hall” event at the group’s Yangjae headquarters on Heolleung-ro, Seocho-gu, Seoul, and expressed concern over the prolonged war between the United States and Iran. “As the Middle East situation drags on, concerns are growing,” Chung said, adding that the group would prepare for what comes “after” through new technology development and structural improvements it can execute well. Hyundai Motor Group is currently facing disruption in its Middle East business, with possible delays to completion of its plant in Saudi Arabia and lower auto sales in the region cited. On intensifying competition from Tesla’s FSD and Chinese electric vehicles, Chung said it was both tense and a good opportunity. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "現代自・鄭義宣会長、イラン戦争長期化に懸念　新技術と体質改善で戦後に備え",
-        "excerpt": "現代自動車グループの鄭義宣会長は14日、ソウルの良才社屋で、中東情勢の長期化によりサウジ工場の竣工遅延や販売減が懸念されるとし、新技術と体質改善で戦後に備える考えを示した。",
-        "body": "現代自動車グループの鄭義宣会長は14日、ソウル市瑞草区献陵路の現代自動車グループ良才社屋で開かれた「ロビーストーリー・タウンホール」行事に先立ち記者団に会い、米国とイランの戦争長期化への懸念を示した。鄭会長は「中東情勢が長引き、懸念が大きくなっている」と述べ、「われわれが得意とする新技術開発と体質改善を通じて『その後』に備える」と語った。現代自動車グループは現在、中東地域の事業に支障が出ており、サウジアラビアで建設中の工場の竣工遅延の可能性や中東での自動車販売減少が言及された。テスラのFSDや中国電気自動車の攻勢など競争激化については「緊張すると同時に良い機会」と評価した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "现代汽车郑义宣谈伊朗战争忧虑：以新技术和体质改善准备战后",
-        "excerpt": "现代汽车集团会长郑义宣14日在首尔良才总部表示，中东局势长期化令人担忧，沙特工厂竣工或推迟、地区销量下降，集团将以新技术开发和体质改善准备战后。",
-        "body": "现代汽车集团会长郑义宣14日在首尔瑞草区献陵路现代汽车集团良才总部举行的“Lobby Story Town Hall”活动前会见记者，表达了对美国与伊朗战争长期化的担忧。郑义宣表示：“中东局势持续拉长，令人十分担心。”他还说，将通过集团擅长的新技术开发和体质改善来准备“之后”。目前，现代汽车集团在中东地区业务正受到影响，正在沙特阿拉伯建设的工厂可能推迟竣工，中东地区汽车销量也有所下降。对于特斯拉FSD和中国电动汽车攻势等全球竞争加剧，郑义宣评价称，这既令人紧张，也是一个好机会。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Chung Eui-sun de Hyundai ve riesgos por la guerra con Irán y prepara la posguerra",
-        "excerpt": "El presidente de Hyundai Motor Group, Chung Eui-sun, dijo el día 14 en Seúl que la prolongación de la situación en Medio Oriente preocupa por retrasos en la planta saudí y menores ventas, y que responderá con nuevas tecnologías y mejoras internas.",
-        "body": "Chung Eui-sun, presidente de Hyundai Motor Group, se reunió con periodistas el día 14 antes del acto “Lobby Story Town Hall” en la sede de Yangjae del grupo, en Heolleung-ro, Seocho-gu, Seúl, y expresó preocupación por la prolongación de la guerra entre Estados Unidos e Irán. “La situación en Medio Oriente se está alargando y genera mucha preocupación”, dijo Chung. Añadió que el grupo se preparará para el “después” mediante el desarrollo de nuevas tecnologías y una mejora de su estructura interna. Hyundai Motor Group afronta actualmente dificultades en sus negocios de Medio Oriente; se mencionaron posibles retrasos en la finalización de la planta que construye en Arabia Saudita y una caída de las ventas de automóviles en la región. Sobre la competencia de Tesla FSD y los vehículos eléctricos chinos, Chung la calificó como una tensión y, a la vez, una buena oportunidad. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Chung Eui-sun, da Hyundai, vê risco na guerra com o Irã e prepara o pós-guerra",
-        "excerpt": "O presidente do Hyundai Motor Group, Chung Eui-sun, afirmou no dia 14 em Seul que a prolongação da situação no Oriente Médio preocupa por possível atraso na fábrica saudita e queda nas vendas, mas que o grupo se preparará com novas tecnologias e melhorias internas.",
-        "body": "Chung Eui-sun, presidente do Hyundai Motor Group, encontrou jornalistas no dia 14 antes do evento “Lobby Story Town Hall”, na sede de Yangjae do grupo, em Heolleung-ro, Seocho-gu, Seul, e manifestou preocupação com a prolongação da guerra entre Estados Unidos e Irã. “À medida que a situação no Oriente Médio se prolonga, há muita preocupação”, disse Chung. Ele acrescentou que o grupo se preparará para o “depois” por meio do desenvolvimento de novas tecnologias e da melhoria de sua estrutura interna. O Hyundai Motor Group enfrenta atualmente dificuldades em seus negócios no Oriente Médio; foram citados possível atraso na conclusão da fábrica em construção na Arábia Saudita e queda nas vendas de automóveis na região. Sobre a concorrência do FSD da Tesla e dos veículos elétricos chineses, Chung disse que é motivo de tensão e, ao mesmo tempo, uma boa oportunidade. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hyundai-Chef Chung Eui-sun warnt vor Iran-Kriegsrisiken und setzt auf neue Technik",
-        "excerpt": "Hyundai-Motor-Group-Chef Chung Eui-sun sagte am 14. in Seoul, die lange Lage im Nahen Osten könne den Bau des Saudi-Werks verzögern und Verkäufe senken; mit neuer Technologie und internen Verbesserungen wolle man die Zeit danach vorbereiten.",
-        "body": "Chung Eui-sun, Vorsitzender der Hyundai Motor Group, traf am 14. vor der Veranstaltung “Lobby Story Town Hall” am Yangjae-Hauptsitz des Konzerns in Heolleung-ro, Seocho-gu, Seoul, Journalisten und äußerte Sorge über den langwierigen Krieg zwischen den USA und Iran. “Da sich die Lage im Nahen Osten hinzieht, gibt es viele Sorgen”, sagte Chung. Der Konzern werde sich durch die Entwicklung neuer Technologien und strukturelle Verbesserungen, die er gut beherrsche, auf die Zeit “danach” vorbereiten. Hyundai Motor Group hat derzeit Einschränkungen im Nahostgeschäft; genannt wurden eine mögliche Verzögerung bei der Fertigstellung des Werks in Saudi-Arabien und geringere Autoverkäufe in der Region. Zur schärferen Konkurrenz durch Teslas FSD und chinesische Elektroautos sagte Chung, dies sei angespannt und zugleich eine gute Chance. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Chung Eui-sun de Hyundai inquiet de la guerre avec l’Iran, mise sur la technologie",
-        "excerpt": "Le président de Hyundai Motor Group, Chung Eui-sun, a déclaré le 14 à Séoul que la situation prolongée au Moyen-Orient pourrait retarder l’usine saoudienne et réduire les ventes, mais que le groupe préparera l’après-guerre par de nouvelles technologies et des améliorations internes.",
-        "body": "Chung Eui-sun, président de Hyundai Motor Group, a rencontré la presse le 14 avant l’événement “Lobby Story Town Hall” au siège de Yangjae du groupe, sur Heolleung-ro, à Seocho-gu, Séoul, et a exprimé son inquiétude face à la prolongation de la guerre entre les États-Unis et l’Iran. “La situation au Moyen-Orient se prolonge et suscite beaucoup d’inquiétude”, a déclaré Chung. Il a ajouté que le groupe se préparera à “l’après” grâce au développement de nouvelles technologies et à une amélioration de sa structure interne. Hyundai Motor Group subit actuellement des perturbations dans ses activités au Moyen-Orient; un possible retard dans l’achèvement de l’usine en Arabie saoudite et une baisse des ventes automobiles régionales ont été évoqués. Face au FSD de Tesla et à l’offensive des véhicules électriques chinois, Chung a parlé d’une tension mais aussi d’une bonne opportunité. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "رئيس هيونداي تشونغ أوي-سون يحذر من مخاطر حرب إيران ويستعد لما بعدها بالتقنيات",
-        "excerpt": "قال رئيس مجموعة هيونداي موتور تشونغ أوي-سون في سيول يوم 14 إن إطالة أمد الوضع في الشرق الأوسط تثير القلق بسبب احتمال تأخر مصنع السعودية وتراجع المبيعات، مؤكدا الاستعداد لما بعد الحرب عبر التقنيات الجديدة وتحسين البنية الداخلية.",
-        "body": "التقى رئيس مجموعة هيونداي موتور تشونغ أوي-سون بالصحفيين يوم 14 قبل فعالية “Lobby Story Town Hall” في مقر المجموعة في يانغجاي على طريق هيونلونغ، بمنطقة سوتشو في سيول، وأعرب عن قلقه من إطالة أمد الحرب بين الولايات المتحدة وإيران. وقال تشونغ: “مع استمرار وضع الشرق الأوسط لفترة أطول، تزداد المخاوف كثيرا”، مضيفا أن المجموعة ستستعد لـ“ما بعد ذلك” من خلال تطوير التقنيات الجديدة وتحسين البنية الداخلية، وهي مجالات تستطيع إجادتها. وتواجه هيونداي موتور حاليا اضطرابات في أعمالها بالشرق الأوسط، مع الإشارة إلى احتمال تأخر اكتمال المصنع الذي تبنيه في السعودية وتراجع مبيعات السيارات في المنطقة. وبشأن احتدام المنافسة مع نظام FSD من تسلا وهجوم السيارات الكهربائية الصينية، قال تشونغ إن الأمر يسبب توترا وفي الوقت نفسه يمثل فرصة جيدة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ह्युंदै चेयरमैन चुंग यूई-सुन बोले, ईरान युद्ध चिंता बढ़ा रहा; नई तकनीक से तैयारी",
-        "excerpt": "ह्युंदै मोटर ग्रुप के चेयरमैन चुंग यूई-सुन ने 14 तारीख को सियोल में कहा कि मध्य पूर्व की स्थिति लंबी खिंचने से सऊदी संयंत्र में देरी और बिक्री घटने की चिंता है, लेकिन समूह नई तकनीक और आंतरिक सुधारों से युद्ध के बाद की तैयारी करेगा।",
-        "body": "ह्युंदै मोटर ग्रुप के चेयरमैन चुंग यूई-सुन ने 14 तारीख को सियोल के सेओचो-गु स्थित हेओल्लुंग-रो पर समूह के यांगजे मुख्यालय में “Lobby Story Town Hall” कार्यक्रम से पहले पत्रकारों से मुलाकात की और अमेरिका तथा ईरान के युद्ध के लंबा खिंचने पर चिंता जताई। चुंग ने कहा, “मध्य पूर्व की स्थिति लंबी चल रही है, इसलिए चिंता काफी बढ़ रही है।” उन्होंने कहा कि समूह अपनी मजबूत क्षमता वाले नए तकनीकी विकास और आंतरिक सुधारों के जरिए “बाद की स्थिति” के लिए तैयारी करेगा। ह्युंदै मोटर ग्रुप को फिलहाल मध्य पूर्व कारोबार में बाधा का सामना है; सऊदी अरब में बन रहे संयंत्र के पूरा होने में देरी की संभावना और क्षेत्र में वाहन बिक्री घटने का उल्लेख किया गया। टेस्ला के FSD और चीनी इलेक्ट्रिक वाहनों की आक्रामकता से बढ़ती प्रतिस्पर्धा पर चुंग ने कहा कि यह तनावपूर्ण भी है और एक अच्छा अवसर भी। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Chung Eui-sun Hyundai Soroti Risiko Perang Iran, Siapkan Pascaperang dengan Teknologi",
-        "excerpt": "Chairman Hyundai Motor Group Chung Eui-sun pada tanggal 14 di Seoul mengatakan situasi Timur Tengah yang berkepanjangan mengkhawatirkan karena pabrik Saudi bisa tertunda dan penjualan regional turun, namun grup akan bersiap lewat teknologi baru dan perbaikan internal.",
-        "body": "Chairman Hyundai Motor Group Chung Eui-sun bertemu wartawan pada tanggal 14 sebelum acara “Lobby Story Town Hall” di kantor pusat Yangjae milik grup di Heolleung-ro, Seocho-gu, Seoul, dan menyampaikan kekhawatiran atas perang Amerika Serikat dan Iran yang berkepanjangan. “Situasi Timur Tengah yang berlarut-larut menimbulkan banyak kekhawatiran,” kata Chung. Ia menambahkan bahwa grup akan mempersiapkan masa “setelahnya” melalui pengembangan teknologi baru dan perbaikan struktur internal yang dapat dilakukan dengan baik. Hyundai Motor Group saat ini mengalami gangguan pada bisnis di kawasan Timur Tengah; disebutkan kemungkinan keterlambatan penyelesaian pabrik yang sedang dibangun di Arab Saudi serta penurunan penjualan mobil di kawasan tersebut. Mengenai persaingan global yang makin ketat dari FSD Tesla dan ofensif kendaraan listrik China, Chung menilai hal itu menegangkan sekaligus merupakan peluang yang baik. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "8cbd9faa70c0",
-    "slug": "신한투자증권-퇴직연금-수익률-디폴트옵션-등-2개부문-업계-1위-653133",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T19:10:57.350Z",
-    "updatedAt": "2026-05-14T19:10:57.350Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260514/133926446/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260514/133926446/2",
-    "titleFingerprint": "dc6ef952c319ccd1ab9f400f5f63af1e048c32a4",
-    "dedupKeys": [
-      "8cbd9faa70c08db039a5c0ea608c4cff02e23643",
-      "dc6ef952c319ccd1ab9f400f5f63af1e048c32a4",
-      "3c0d24d52efe52bb28356189f3bfaeec928e7172"
-    ],
-    "imageUrl": "/images/articles/8cbd9faa70c0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "신한투자증권 퇴직연금 수익률 2개 부문 증권업계 1위 달성",
-        "excerpt": "신한투자증권은 14일 금융감독원 퇴직연금 비교공시 분석 결과 3월 말 기준 디폴트옵션과 DC 원리금비보장상품 1년 수익률에서 증권업계 1위를 기록했다고 밝혔다.",
-        "body": "신한투자증권은 14일 퇴직연금 2개 부문에서 증권업계 수익률 1위를 차지했다고 밝혔다. 회사가 금융감독원 퇴직연금 비교공시를 분석한 결과, 3월 말 기준 디폴트옵션 중립투자형2호의 1년 수익률은 17.56%, 확정기여형(DC) 원리금비보장상품의 1년 수익률은 27.17%로 각각 업계 1위였다. 신한투자증권의 퇴직연금 총 자산은 3월 말 기준 8조 원 규모로, 1분기인 1월부터 3월까지 약 1조 원 늘었다. 회사는 전문가 100여 명으로 구성된 ‘신한 프리미어 패스파인더’를 통해 고객 투자 성향을 분석하고 솔루션을 제공한다. 최근에는 CEO와 임원 대상 ‘C레벨 연금컨설팅’을 강화해 세무, 노무, 계리 전문가 조언도 지원한다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Shinhan Securities Leads Pension Returns in Two Industry Categories",
-        "excerpt": "Shinhan Securities said on May 14 that, based on FSS pension comparison disclosures as of end-March, it ranked first among securities firms in one-year returns for default options and DC non-principal-guaranteed products.",
-        "body": "Shinhan Securities said on May 14 that it ranked first among securities firms in returns across two retirement pension categories. According to the company’s analysis of the Financial Supervisory Service’s retirement pension comparison disclosures, the one-year return for its Default Option Neutral Investment Type No. 2 stood at 17.56% as of the end of March, while the one-year return for defined contribution (DC) non-principal-guaranteed products reached 27.17%, both leading the industry. Shinhan Securities’ total retirement pension assets stood at about 8 trillion won at the end of March, rising by roughly 1 trillion won during the first quarter from January to March. The firm operates “Shinhan Premier Pathfinder,” staffed by about 100 specialists, to analyze clients’ investment profiles and provide solutions. It has also strengthened C-level pension consulting for CEOs and executives, offering advice from tax, labor and actuarial experts. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "新韓投資証券、退職年金利回り2部門で証券業界1位に",
-        "excerpt": "新韓投資証券は14日、金融監督院の退職年金比較公示を分析した結果、3月末基準でデフォルトオプションとDC元本非保証商品の1年利回りが証券業界1位だったと発表した。",
-        "body": "新韓投資証券は14日、退職年金の2部門で証券業界の利回り1位を記録したと明らかにした。同社が金融監督院の退職年金比較公示を分析した結果、3月末時点でデフォルトオプションの中立投資型2号の1年利回りは17.56%、確定拠出型（DC）の元本非保証商品の1年利回りは27.17%で、それぞれ業界首位だった。新韓投資証券の退職年金総資産は3月末基準で約8兆ウォンとなり、第1四半期の1月から3月だけで約1兆ウォン増加した。同社は約100人の専門家で構成する「新韓プレミア・パスファインダー」を運営し、退職年金顧客の投資性向を分析してソリューションを提供している。最近はCEOと役員向けの「Cレベル年金コンサルティング」も強化し、税務、労務、数理専門家の助言を支援している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "新韩投资证券退休金收益率两项指标居证券业首位",
-        "excerpt": "新韩投资证券14日表示，分析金融监督院退休金比较公示后，截至3月底，其默认选项和DC非保本商品一年收益率均位居证券行业第一。",
-        "body": "新韩投资证券14日表示，公司在退休金两个领域的收益率位居证券行业第一。该公司分析金融监督院退休金比较公示后称，截至3月底，默认选项中立投资型2号的一年收益率为17.56%，确定缴费型（DC）非保本商品的一年收益率为27.17%，分别居行业首位。新韩投资证券的退休金总资产截至3月底约为8万亿韩元，仅第一季度1月至3月就增加约1万亿韩元。公司运营由约100名专家组成的“新韩Premier Pathfinder”，分析退休金客户的投资倾向并提供解决方案。近期还加强面向CEO和高管的“C级养老金咨询”，提供税务、劳务和精算专家建议。出处: rss.donga.com"
-      },
-      "es": {
-        "title": "Shinhan Securities lidera dos categorías de rentabilidad en pensiones",
-        "excerpt": "Shinhan Securities informó el 14 de mayo que, según su análisis de las divulgaciones comparativas de pensiones del FSS al cierre de marzo, ocupó el primer lugar del sector bursátil en rentabilidad anual de opciones por defecto y productos DC no garantizados.",
-        "body": "Shinhan Securities informó el 14 de mayo que ocupó el primer lugar entre las firmas de valores en dos categorías de rentabilidad de pensiones de jubilación. Según el análisis de la compañía sobre las divulgaciones comparativas de pensiones de la Autoridad de Supervisión Financiera, al cierre de marzo la rentabilidad a un año de la opción por defecto Neutral Investment Type No. 2 fue del 17,56%, mientras que la de los productos de contribución definida (DC) sin garantía de principal alcanzó el 27,17%, ambas líderes del sector. Los activos totales de pensiones de Shinhan Securities sumaban unos 8 billones de wones al cierre de marzo, tras aumentar cerca de 1 billón de wones en el primer trimestre, de enero a marzo. La firma opera “Shinhan Premier Pathfinder”, con unos 100 expertos, para analizar el perfil inversor de sus clientes y ofrecer soluciones. También reforzó su consultoría de pensiones para CEO y ejecutivos, con apoyo de expertos fiscales, laborales y actuariales. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Shinhan Securities lidera retornos de previdência em duas áreas",
-        "excerpt": "A Shinhan Securities informou em 14 de maio que, com base em análise das divulgações comparativas de previdência do FSS no fim de março, ficou em primeiro lugar no setor em opções padrão e produtos DC sem garantia de principal.",
-        "body": "A Shinhan Securities informou em 14 de maio que ficou em primeiro lugar entre as corretoras em duas categorias de rentabilidade de planos de aposentadoria. Segundo a análise da empresa sobre as divulgações comparativas de previdência da Autoridade de Supervisão Financeira, no fim de março o retorno de um ano da opção padrão Neutral Investment Type No. 2 foi de 17,56%, enquanto o retorno de um ano dos produtos de contribuição definida (DC) sem garantia de principal chegou a 27,17%, ambos líderes do setor. Os ativos totais de previdência da Shinhan Securities somavam cerca de 8 trilhões de won no fim de março, com aumento de aproximadamente 1 trilhão de won apenas no primeiro trimestre, de janeiro a março. A empresa opera o “Shinhan Premier Pathfinder”, formado por cerca de 100 especialistas, para analisar o perfil de investimento dos clientes e oferecer soluções. Também reforçou a consultoria de previdência para CEOs e executivos, com apoio de especialistas tributários, trabalhistas e atuariais. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Shinhan Securities führt bei Rentenrenditen in zwei Sparten",
-        "excerpt": "Shinhan Securities teilte am 14. Mai mit, dass es laut Analyse der FSS-Vergleichsdaten per Ende März bei Default-Optionen und DC-Produkten ohne Kapitalgarantie die höchsten Einjahresrenditen unter Wertpapierfirmen erzielte.",
-        "body": "Shinhan Securities gab am 14. Mai bekannt, in zwei Kategorien der betrieblichen Altersvorsorge die höchste Rendite unter den Wertpapierfirmen erzielt zu haben. Nach Auswertung der Vergleichsoffenlegungen der Finanzaufsicht lag die Einjahresrendite der Default-Option Neutral Investment Type No. 2 Ende März bei 17,56%. Die Einjahresrendite von beitragsorientierten DC-Produkten ohne Kapitalgarantie erreichte 27,17%. Beide Werte belegten den ersten Platz der Branche. Das gesamte Rentenvermögen von Shinhan Securities belief sich Ende März auf rund 8 Billionen Won und stieg allein im ersten Quartal von Januar bis März um etwa 1 Billion Won. Das Unternehmen betreibt “Shinhan Premier Pathfinder” mit rund 100 Fachleuten, um Anlageprofile von Rentenkunden zu analysieren und Lösungen bereitzustellen. Zuletzt wurde zudem die C-Level-Rentenberatung für CEOs und Führungskräfte gestärkt, einschließlich Beratung durch Steuer-, Arbeitsrechts- und Versicherungsmathematik-Experten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Shinhan Securities en tête des rendements retraite dans deux segments",
-        "excerpt": "Shinhan Securities a annoncé le 14 mai qu’après analyse des données comparatives du FSS à fin mars, ses rendements annuels des options par défaut et des produits DC non garantis étaient les premiers du secteur des valeurs mobilières.",
-        "body": "Shinhan Securities a annoncé le 14 mai avoir pris la première place du secteur des valeurs mobilières dans deux catégories de rendement des retraites. Selon l’analyse par la société des publications comparatives de l’Autorité de supervision financière, le rendement sur un an de l’option par défaut Neutral Investment Type No. 2 atteignait 17,56% à fin mars, tandis que celui des produits à cotisations définies (DC) sans garantie du capital s’élevait à 27,17%, tous deux en tête du secteur. Les actifs totaux de retraite de Shinhan Securities représentaient environ 8 000 milliards de wons à fin mars, en hausse d’environ 1 000 milliard de wons sur le seul premier trimestre, de janvier à mars. La société exploite “Shinhan Premier Pathfinder”, composé d’environ 100 spécialistes, pour analyser le profil d’investissement des clients retraite et proposer des solutions. Elle a récemment renforcé le conseil retraite destiné aux CEO et dirigeants, avec l’appui d’experts fiscaux, sociaux et actuariels. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "شينهان للاستثمار تتصدر عوائد التقاعد في فئتين بقطاع الأوراق المالية",
-        "excerpt": "أعلنت شينهان للاستثمار في 14 مايو أنها تصدرت شركات الأوراق المالية في عوائد عام واحد لخيارات التقاعد الافتراضية ومنتجات DC غير المضمونة، استنادا إلى إفصاحات المقارنة لدى هيئة الرقابة المالية حتى نهاية مارس.",
-        "body": "أعلنت شينهان للاستثمار والأوراق المالية في 14 مايو أنها احتلت المركز الأول بين شركات الأوراق المالية في عوائد فئتين من صناديق التقاعد. ووفقا لتحليل الشركة لإفصاحات المقارنة الخاصة بالتقاعد الصادرة عن هيئة الرقابة المالية، بلغ عائد عام واحد لخيارها الافتراضي من نوع الاستثمار المحايد رقم 2 مستوى 17.56% حتى نهاية مارس، بينما بلغ عائد عام واحد لمنتجات المساهمة المحددة (DC) غير المضمونة الأصل 27.17%، ليتصدرا القطاع. وبلغ إجمالي أصول التقاعد لدى شينهان للاستثمار نحو 8 تريليونات وون في نهاية مارس، بعد زيادة تقارب تريليون وون خلال الربع الأول من يناير إلى مارس. وتدير الشركة برنامج “Shinhan Premier Pathfinder” الذي يضم نحو 100 خبير لتحليل ميول عملاء التقاعد الاستثمارية وتقديم الحلول. كما عززت مؤخرا استشارات التقاعد الموجهة إلى الرؤساء التنفيذيين وكبار المديرين، بدعم من خبراء الضرائب والعمل والاكتواريين. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "शिनहान सिक्योरिटीज रिटायरमेंट पेंशन रिटर्न में दो श्रेणियों में शीर्ष पर",
-        "excerpt": "शिनहान सिक्योरिटीज ने 14 मई को कहा कि वित्तीय पर्यवेक्षण सेवा के मार्च अंत तक के पेंशन तुलना खुलासों के विश्लेषण में डिफॉल्ट विकल्प और DC गैर-गारंटीड उत्पादों के एक वर्षीय रिटर्न में वह प्रतिभूति उद्योग में पहले स्थान पर रही।",
-        "body": "शिनहान इन्वेस्टमेंट सिक्योरिटीज ने 14 मई को बताया कि उसने रिटायरमेंट पेंशन की दो श्रेणियों में प्रतिभूति उद्योग में सबसे अधिक रिटर्न दर्ज किया। कंपनी के अनुसार, वित्तीय पर्यवेक्षण सेवा की रिटायरमेंट पेंशन तुलना घोषणाओं के विश्लेषण में मार्च अंत तक डिफॉल्ट विकल्प न्यूट्रल इन्वेस्टमेंट टाइप नंबर 2 का एक वर्षीय रिटर्न 17.56% रहा। वहीं परिभाषित अंशदान (DC) वाले मूलधन-गैर-गारंटीड उत्पादों का एक वर्षीय रिटर्न 27.17% रहा, और दोनों श्रेणियों में कंपनी पहले स्थान पर रही। शिनहान सिक्योरिटीज की कुल रिटायरमेंट पेंशन संपत्ति मार्च अंत में लगभग 8 ट्रिलियन वॉन थी, जो जनवरी से मार्च की पहली तिमाही में ही करीब 1 ट्रिलियन वॉन बढ़ी। कंपनी लगभग 100 विशेषज्ञों वाली “Shinhan Premier Pathfinder” टीम संचालित करती है, जो ग्राहकों की निवेश प्रवृत्ति का विश्लेषण कर समाधान देती है। हाल में उसने CEO और अधिकारियों के लिए C-level पेंशन कंसल्टिंग भी मजबूत की है, जिसमें कर, श्रम और एक्चुरियल विशेषज्ञों की सलाह मिलती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Shinhan Securities Pimpin Imbal Hasil Pensiun di Dua Kategori",
-        "excerpt": "Shinhan Securities pada 14 Mei menyatakan, berdasarkan analisis pengungkapan perbandingan pensiun FSS per akhir Maret, imbal hasil satu tahun opsi default dan produk DC nonjaminan pokoknya menempati posisi pertama di industri sekuritas.",
-        "body": "Shinhan Securities pada 14 Mei menyatakan bahwa perusahaan menempati peringkat pertama di industri sekuritas untuk imbal hasil pada dua kategori dana pensiun. Berdasarkan analisis perusahaan atas pengungkapan perbandingan dana pensiun dari Financial Supervisory Service, imbal hasil satu tahun untuk Default Option Neutral Investment Type No. 2 mencapai 17,56% per akhir Maret. Sementara itu, imbal hasil satu tahun produk defined contribution (DC) tanpa jaminan pokok mencapai 27,17%, dan keduanya menjadi yang tertinggi di industri. Total aset dana pensiun Shinhan Securities sekitar 8 triliun won pada akhir Maret, bertambah sekitar 1 triliun won selama kuartal pertama dari Januari hingga Maret. Perusahaan mengoperasikan “Shinhan Premier Pathfinder” yang terdiri dari sekitar 100 ahli untuk menganalisis profil investasi nasabah pensiun dan menyediakan solusi. Baru-baru ini, perusahaan juga memperkuat konsultasi pensiun C-level untuk CEO dan eksekutif, dengan dukungan nasihat dari ahli pajak, ketenagakerjaan, dan aktuaria. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "ce5ecae9129c",
-    "slug": "삼전닉스-셔세권-반도체-하이퍼사이클-누릴-부동산은-884316",
-    "channelId": "REALESTATE",
-    "category": "realestate",
-    "publishedAt": "2026-05-14T19:09:42.761Z",
-    "updatedAt": "2026-05-14T19:09:42.761Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/realestate/12047955",
-    "canonicalUrl": "https://www.mk.co.kr/news/realestate/12047955",
-    "titleFingerprint": "3f4958ef524b805ab66c023c9371efb9311b200f",
-    "dedupKeys": [
-      "ce5ecae9129c14904b8140031b0d29919eb287b0",
-      "3f4958ef524b805ab66c023c9371efb9311b200f",
-      "bc77694b0c0b7cb590ef87f4412d0217c1806cb9"
-    ],
-    "imageUrl": "/images/articles/ce5ecae9129c.png",
-    "i18n": {
-      "ko": {
-        "title": "삼전닉스 셔세권 부동산, 반도체 하이퍼사이클 기대 속 선택지 부상",
-        "excerpt": "지난 10일 다주택자 양도소득세 중과제도가 4년 만에 부활하면서 내 집 마련을 준비하던 실수요자들이 대출 매수와 시장 관망 사이에서 고민하고 있다.",
-        "body": "지난 10일 다주택자 양도소득세 중과제도가 4년 만에 부활하면서 내 집 마련을 계획한 실수요자들의 판단이 복잡해지고 있다. 대출을 받아 지금 주택 매수에 나설지, 시장 흐름을 더 지켜볼지 선택해야 하는 상황이다. 이런 가운데 반도체 하이퍼사이클 기대와 맞물린 이른바 삼전닉스 ‘셔세권’ 부동산이 관심 대상에 올랐다. 세제 변화가 매수 심리에 영향을 주는 가운데 실수요자는 자금 조달 부담과 향후 시장 추이를 함께 따져야 한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung-SK ‘Shuttle Zone’ Property Draws Attention Amid Chip Hypercycle Hopes",
-        "excerpt": "After the heavy capital gains tax on multiple-home owners returned on the 10th after four years, end-users planning to buy a home are weighing loans against waiting for market trends.",
-        "body": "After the heavy capital gains tax on multiple-home owners returned on the 10th after a four-year suspension, decisions have become more complicated for end-users planning to buy a home. They now face the choice of taking out a loan and buying immediately or watching the market for longer. Against this backdrop, real estate in so-called Samsung-SK ‘shuttle zones,’ tied to expectations for a semiconductor hypercycle, is drawing attention. As tax changes affect buyer sentiment, end-users must consider both financing burdens and future market direction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン・SK『シャトル圏』不動産、半導体ハイパーサイクル期待で注目",
-        "excerpt": "10日、多住宅保有者への譲渡所得税重課制度が4年ぶりに復活し、住宅購入を計画する実需者はローン購入か市場様子見かで悩んでいる。",
-        "body": "10日、多住宅保有者に対する譲渡所得税の重課制度が4年ぶりに復活し、マイホーム購入を計画していた実需者の判断は複雑になっている。すぐにローンを組んで住宅を買うのか、市場の流れをもう少し見守るのかを選ばなければならない状況だ。こうした中、半導体ハイパーサイクルへの期待と結び付いた、いわゆるサムスン・SK『シャトル圏』不動産が関心を集めている。税制変化が買い心理に影響する中、実需者は資金調達負担と今後の市場動向をともに見極める必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星与SK“班车圈”房产受关注，半导体超级周期预期升温",
-        "excerpt": "10日，多套房持有者转让所得税重税制度时隔4年恢复，计划购房的刚需买家正纠结于贷款入市还是继续观望市场走势。",
-        "body": "10日，多套房持有者转让所得税重税制度时隔4年恢复，使计划购置自住房的刚需买家判断更加复杂。他们需要在立即贷款买房与继续观察市场走势之间作出选择。在这一背景下，与半导体超级周期预期相联系的所谓三星、SK“班车圈”房产成为关注对象。税制变化正在影响买房心理，刚需买家需同时权衡资金筹措压力和今后市场走向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Inmuebles en ‘zona shuttle’ de Samsung y SK ganan foco por el ciclo de chips",
-        "excerpt": "El día 10 volvió tras cuatro años el recargo al impuesto sobre ganancias de capital para multipropietarios, complicando la decisión de compra de vivienda de usuarios finales.",
-        "body": "El día 10, el sistema de recargo al impuesto sobre ganancias de capital para propietarios de varias viviendas volvió tras cuatro años, complicando la decisión de quienes planean comprar una casa para uso propio. Ahora deben elegir entre pedir un préstamo y comprar de inmediato o seguir observando la evolución del mercado. En este contexto, los inmuebles en las llamadas ‘zonas shuttle’ de Samsung y SK, vinculados a las expectativas de un hiperciclo de semiconductores, atraen atención. Con el cambio fiscal afectando el ánimo comprador, los usuarios finales deben evaluar tanto la carga financiera como la dirección futura del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Imóveis na ‘zona shuttle’ de Samsung e SK atraem foco com ciclo dos chips",
-        "excerpt": "No dia 10, a sobretaxa sobre ganho de capital para donos de vários imóveis voltou após quatro anos, levando compradores finais a ponderar empréstimo ou espera.",
-        "body": "No dia 10, o regime de sobretaxa sobre ganho de capital para proprietários de múltiplos imóveis voltou após quatro anos, tornando mais complexa a decisão de quem planeja comprar a casa própria. Esses compradores precisam escolher entre tomar um empréstimo e comprar agora ou observar por mais tempo o rumo do mercado. Nesse cenário, imóveis nas chamadas ‘zonas shuttle’ de Samsung e SK, ligados às expectativas de um hiperciclo de semicondutores, passaram a chamar atenção. Com a mudança tributária afetando o sentimento de compra, os usuários finais devem avaliar o peso do financiamento e as tendências futuras do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung-SK-‘Shuttle-Zonen’ bei Immobilien rücken durch Chip-Hyperzyklus in den Fokus",
-        "excerpt": "Am 10. kehrte die erhöhte Kapitalertragsteuer für Mehrfachhausbesitzer nach vier Jahren zurück; Eigennutzer wägen nun Kreditkauf gegen weiteres Abwarten ab.",
-        "body": "Am 10. wurde die erhöhte Kapitalertragsteuer für Eigentümer mehrerer Wohnungen nach vier Jahren wieder eingeführt, wodurch die Entscheidung für Menschen, die ein Eigenheim planen, komplizierter geworden ist. Sie müssen nun wählen, ob sie sofort einen Kredit aufnehmen und kaufen oder den Marktverlauf weiter beobachten. In diesem Umfeld geraten Immobilien in sogenannten Samsung-SK-‘Shuttle-Zonen’, verbunden mit Erwartungen an einen Halbleiter-Hyperzyklus, in den Blick. Da die Steueränderung die Kaufstimmung beeinflusst, müssen Eigennutzer sowohl die Finanzierungslast als auch die künftige Marktentwicklung abwägen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Immobilier des ‘zones navette’ Samsung-SK: l’hypercycle des puces attire l’attention",
-        "excerpt": "Le 10, la surtaxe sur les plus-values des multipropriétaires est revenue après quatre ans, poussant les acheteurs occupants à hésiter entre crédit et attente.",
-        "body": "Le 10, le régime de surtaxe sur les plus-values immobilières des propriétaires de plusieurs logements a été rétabli après quatre ans, compliquant les décisions des acheteurs qui prévoient d’acquérir leur résidence. Ils doivent choisir entre emprunter pour acheter immédiatement ou continuer à observer l’évolution du marché. Dans ce contexte, l’immobilier des dites ‘zones navette’ Samsung-SK, lié aux attentes autour d’un hypercycle des semi-conducteurs, retient l’attention. Alors que le changement fiscal influence le sentiment d’achat, les acheteurs occupants doivent évaluer à la fois la charge de financement et les perspectives du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "عقارات «مناطق الحافلات» لسامسونغ وSK تحت الضوء مع آمال دورة الرقائق",
-        "excerpt": "في يوم 10، عاد تشديد ضريبة أرباح رأس المال على مالكي عدة منازل بعد أربع سنوات، ما جعل الراغبين في شراء مسكن يفاضلون بين الاقتراض والانتظار.",
-        "body": "في يوم 10، عاد نظام تشديد ضريبة أرباح رأس المال على مالكي عدة منازل بعد توقف دام أربع سنوات، فأصبحت قرارات الراغبين في شراء مسكن للاستخدام الفعلي أكثر تعقيدا. عليهم الآن الاختيار بين الحصول على قرض وشراء منزل فورا أو متابعة اتجاه السوق لفترة أطول. وفي هذا السياق، لفتت العقارات في ما يسمى «مناطق الحافلات» المرتبطة بسامسونغ وSK الانتباه، مع توقعات بدورة فائقة في قطاع أشباه الموصلات. ومع تأثير التغيير الضريبي في معنويات الشراء، يحتاج المشترون الفعليون إلى تقييم عبء التمويل واتجاهات السوق المقبلة معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung-SK ‘शटल जोन’ प्रॉपर्टी पर चिप हाइपरसाइकिल उम्मीदों से नजर",
-        "excerpt": "10 तारीख को बहु-घर मालिकों पर पूंजीगत लाभ कर की सख्ती चार साल बाद लौटी, जिससे घर खरीदने वाले वास्तविक खरीदार कर्ज लेने या बाजार देखने के बीच उलझे हैं।",
-        "body": "10 तारीख को कई घर रखने वालों पर पूंजीगत लाभ कर की अतिरिक्त व्यवस्था चार साल बाद फिर लागू हुई, जिससे अपना घर खरीदने की योजना बना रहे वास्तविक खरीदारों के फैसले जटिल हो गए हैं। उनके सामने विकल्प है कि अभी कर्ज लेकर घर खरीदें या बाजार की चाल को कुछ और समय तक देखें। इसी बीच सेमीकंडक्टर हाइपरसाइकिल की उम्मीदों से जुड़े Samsung-SK के तथाकथित ‘शटल जोन’ रियल एस्टेट पर ध्यान जा रहा है। कर बदलाव से खरीद भावना प्रभावित हो रही है, इसलिए वास्तविक खरीदारों को धन जुटाने के बोझ और आगे के बाजार रुझान दोनों पर विचार करना होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Properti ‘Zona Shuttle’ Samsung-SK Disorot Saat Harapan Hipersiklus Chip Naik",
-        "excerpt": "Pada tanggal 10, pajak capital gain yang lebih berat bagi pemilik banyak rumah kembali setelah empat tahun, membuat pembeli hunian bingung antara pinjaman dan menunggu pasar.",
-        "body": "Pada tanggal 10, skema pajak capital gain yang lebih berat bagi pemilik beberapa rumah kembali diberlakukan setelah empat tahun, membuat keputusan para pembeli yang berencana memiliki rumah sendiri menjadi lebih rumit. Mereka harus memilih apakah segera mengambil pinjaman untuk membeli rumah atau menunggu perkembangan pasar lebih lama. Dalam situasi ini, properti di apa yang disebut ‘zona shuttle’ Samsung-SK, yang dikaitkan dengan ekspektasi hipersiklus semikonduktor, menarik perhatian. Saat perubahan pajak memengaruhi sentimen beli, pembeli riil perlu mempertimbangkan beban pendanaan dan arah pasar ke depan. Sumber: mk.co.kr"
       }
     }
   }
