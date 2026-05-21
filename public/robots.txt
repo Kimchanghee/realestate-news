@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://korearealestatenews.online/sitemap.xml
+Host: korearealestatenews.online
+IndexNow-Key: 138ada0ea25bc6a6d52aaaaacdedd234
