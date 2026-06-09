@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;600;700;900&family=Noto+Sans+KR:wght@400;500;700&family=Poppins:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700;800&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,21 +6,22 @@
 
 :root {
   color-scheme: light;
-  --ink: #17191e;
-  --paper: #ffffff;
-  --soft: #e6e7ea;
-  --line2: #d6d8dd;
-  --muted: #5b616e;
+  --ink: #231a12;
+  --paper: #fdfaf5;
+  --soft: #ece5da;
+  --line2: #ddd3c5;
+  --muted: #65594c;
   --faint: #8a909c;
-  --accent: #b45309;
-  --accent-orange: #b45309;
-  --accent-blue: #b45309;
-  --accent-green: #b45309;
+  --accent: #b4530a;
+  --accent-orange: #b4530a;
+  --accent-blue: #b4530a;
+  --accent-green: #b4530a;
   --red: #c8102e;
   --up: #0a9d57;
   --down: #d93025;
-  --serif: 'Noto Serif KR', Georgia, 'Times New Roman', serif;
-  --sans: 'Noto Sans KR', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --serif: 'Noto Serif KR', Georgia, serif;
+  --sans: 'Noto Sans KR', system-ui, sans-serif;
+  --mast: 'Nanum Myeongjo','Noto Serif KR',serif;
 }
 
 html, body { background: var(--paper); color: var(--ink); font-family: var(--sans); -webkit-font-smoothing: antialiased; }
@@ -51,9 +52,9 @@ a:hover { text-decoration: none; }
 .tk .dn { color: var(--down); font-weight: 700; }
 
 .np-mast { text-align: center; padding: 24px 0 14px; }
-.np-mast .logo { font-family: var(--serif); font-weight: 900; font-size: 42px; letter-spacing: -1px; line-height: 1; color: var(--ink); }
+.np-mast .logo { font-family: var(--mast); font-weight: 800; font-size: 44px; letter-spacing: -0.8px; line-height: 1; color: var(--ink);  }
 .np-mast .logo .dot { color: var(--accent); }
-.np-mast .tag { margin-top: 9px; font-size: 13px; color: var(--muted); }
+.np-mast .tag { margin-top: 9px; font-size: 13px; color: var(--muted);  }
 
 .np-nav { border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line2); }
 .np-nav .in { max-width: 1200px; margin: 0 auto; padding: 0 24px; height: 48px; display: flex; align-items: center; }
