@@ -50,13 +50,13 @@ function getOffers(locale: Locale): Offer[] {
   const keyword = channel.keywords?.[0] || channel.name;
 
   // Coupang search URL — auto-tracked via Coupang Partners deeplink converter
-  const coupangSearch = `https://www.coupang.com/np/search?component=&q=${encodeURIComponent('부동산 책 인테리어')}`;
+  const coupangSearch = `https://www.coupang.com/np/search?component=&q=${encodeURIComponent('비트코인 하드월렛')}`;
 
-  // AliExpress search URL — fallback to home decor category
-  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-home-decor.html';
+  // AliExpress search URL — fallback to gadget category
+  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-bitcoin-hardware-wallet.html';
 
   const amazonUrl = new URL('https://www.amazon.com/s');
-  amazonUrl.searchParams.set('k', 'real estate investing book');
+  amazonUrl.searchParams.set('k', 'bitcoin hardware wallet');
   amazonUrl.searchParams.set('tag', AMAZON_TAG);
   amazonUrl.searchParams.set('linkCode', 'll2');
   amazonUrl.searchParams.set('language', 'en_US');
@@ -94,6 +94,13 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
 
   const copy = getCopy(locale, placement);
   const compact = placement === 'sidebar';
+  const hasAdsterra = Boolean(
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY ||
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY ||
+    process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY ||
+    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY ||
+    process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY
+  );
 
   return (
     <section className={`affiliate-module ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
@@ -123,7 +130,7 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
       </div>
 
 
-      {placement === 'article' && (
+      {placement === 'article' && hasAdsterra && (
         <div
           className="safe-inline-adsterra-news"
           style={{ marginTop: 20, padding: 12, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}
