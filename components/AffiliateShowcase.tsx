@@ -48,15 +48,14 @@ function getCopy(locale: Locale, placement: Placement) {
 function getOffers(locale: Locale): Offer[] {
   const isKo = locale === 'ko';
   const keyword = channel.keywords?.[0] || channel.name;
+  // Official Coupang Partners short link. Env can override per site.
+  const coupangPartnerUrl = process.env.NEXT_PUBLIC_COUPANG_FALLBACK_URL || 'https://link.coupang.com/a/efySALPmDc';
 
-  // Coupang search URL — auto-tracked via Coupang Partners deeplink converter
-  const coupangSearch = `https://www.coupang.com/np/search?component=&q=${encodeURIComponent('비트코인 하드월렛')}`;
-
-  // AliExpress search URL — fallback to gadget category
-  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-bitcoin-hardware-wallet.html';
+  // AliExpress search URL — fallback to home decor category
+  const aliExpressSearch = 'https://www.aliexpress.com/w/wholesale-home-decor.html';
 
   const amazonUrl = new URL('https://www.amazon.com/s');
-  amazonUrl.searchParams.set('k', 'bitcoin hardware wallet');
+  amazonUrl.searchParams.set('k', 'real estate investing book');
   amazonUrl.searchParams.set('tag', AMAZON_TAG);
   amazonUrl.searchParams.set('linkCode', 'll2');
   amazonUrl.searchParams.set('language', 'en_US');
@@ -65,7 +64,7 @@ function getOffers(locale: Locale): Offer[] {
     {
       id: 'coupang',
       label: isKo ? '쿠팡 파트너스' : 'Coupang Partners',
-      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangSearch,
+      href: process.env.NEXT_PUBLIC_COUPANG_PARTNERS_URL || coupangPartnerUrl,
       badge: isKo ? '국내 전환용' : 'KR conversion',
       note: isKo ? '국내 배송과 즉시 구매 성향이 강한 방문자용' : 'Good fit for Korea-based visitors ready to buy.'
     },
@@ -85,7 +84,7 @@ function getOffers(locale: Locale): Offer[] {
     }
   ];
 
-  return offers.filter((offer) => offer.id === "coupang" && Boolean(offer.href));
+  return offers.filter((offer) => Boolean(offer.href));
 }
 
 export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
@@ -94,7 +93,6 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
 
   const copy = getCopy(locale, placement);
   const compact = placement === 'sidebar';
-  const hasAdsterra = true;
 
   return (
     <section className={`affiliate-module ${compact ? 'affiliate-module-compact' : ''}`} aria-label={copy.title}>
@@ -124,7 +122,7 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
       </div>
 
 
-      {placement === 'article' && hasAdsterra && (
+      {placement === 'article' && (
         <div
           className="safe-inline-adsterra-news"
           style={{ marginTop: 20, padding: 12, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}
