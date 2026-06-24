@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://korearealestatenews.online/sitemap.xml
 Host: korearealestatenews.online
 IndexNow-Key: 138ada0ea25bc6a6d52aaaaacdedd234
