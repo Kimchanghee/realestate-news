@@ -8,7 +8,7 @@ export const channel = {
   name: '코리아부동산데일리',
   tagline: '한국 부동산 시세 · 정책 · 분양 소식을 매일 5분 안에',
   description: '아파트 시세, 청약, 정부 부동산 정책, 분양·재건축 뉴스를 초등생도 이해할 수 있게 정리합니다.',
-  domain: 'realestate-news-lac.vercel.app',
+  domain: 'korearealestatenews.online',
   accent: 'blue',
   keywords: ['부동산', '아파트', '청약', '분양', '시세', '재건축'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },

@@ -5,6 +5,7 @@ import { channel } from '@/channel.config';
 import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
 import { itemListJsonLd } from '@/lib/seo';
+import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
 
 export const revalidate = 60;
 
@@ -12,18 +13,17 @@ export default async function Home({ params: { locale } }: { params: { locale: L
   const t = await getTranslations({ locale });
   const articles = await db.listLatest(channel.id, 24);
   const [hero, ...rest] = articles;
-  const channelName = (channel as any).name || '';
-  const channelDesc = (channel as any).description || (channel as any).tagline || '';
+  const site = getChannelLocale(locale);
 
   return (
     <div>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${channel.name} latest news`)) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd(articles.slice(0, 20), locale, `${site.name} ${channelLabel('latestNews', locale)}`)) }}
       />
       <header style={{ marginBottom: 20 }}>
         <h1 style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.3, margin: 0, color: 'var(--ink)' }}>
-          {channelName}{channelDesc ? ` — ${channelDesc}` : ''}
+          {site.name}{site.description ? ` — ${site.description}` : ''}
         </h1>
       </header>
 
@@ -52,14 +52,14 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </aside>
       </section>
 
-      <section className="search-priority-panel" aria-label="Search priority pages" style={{ margin: '0 0 32px', padding: 18, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}>
-        <p className="affiliate-eyebrow">Search priority</p>
-        <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>{channel.name} reader paths</h2>
+      <section className="search-priority-panel" aria-label={channelLabel('searchPriority', locale)} style={{ margin: '0 0 32px', padding: 18, border: '1px solid var(--soft)', borderRadius: 8, background: '#fff' }}>
+        <p className="affiliate-eyebrow">{channelLabel('searchPriority', locale)}</p>
+        <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>{site.name} {channelLabel('readerPaths', locale)}</h2>
         <p style={{ color: '#5f5c55', marginBottom: 12 }}>
-          Start with the hero story, then move through category pages and related articles. This gives readers and search crawlers clear paths beyond the first article card.
+          {channelLabel('searchPriorityBody', locale)}
         </p>
         <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-          <a href={'/' + locale} className="tag">{channel.name}</a>
+          <a href={'/' + locale} className="tag">{site.name}</a>
           <a href={'/' + locale + '/rss.xml'} className="tag">RSS</a>
           <a href="/sitemap.xml" className="tag">Sitemap</a>
           <a href="/news-sitemap.xml" className="tag">News sitemap</a>
@@ -71,20 +71,18 @@ export default async function Home({ params: { locale } }: { params: { locale: L
         </div>
       </section>
 
-      <section className="reader-workflow-panel" aria-label="Reader workflow">
+      <section className="reader-workflow-panel" aria-label={channelLabel('readerWorkflow', locale)}>
         <div>
-          <p className="affiliate-eyebrow">Reader workflow</p>
+          <p className="affiliate-eyebrow">{channelLabel('readerWorkflow', locale)}</p>
           <h2 style={{ fontSize: 20, fontWeight: 600, marginBottom: 10 }}>
-            {locale === 'ko' ? '탐색-비교-확인 흐름' : 'Find, compare, and verify quickly'}
+            {channelLabel('readerWorkflowHeading', locale)}
           </h2>
           <p style={{ color: '#5f5c55', marginBottom: 12 }}>
-            {locale === 'ko'
-              ? '최신 기사에서 카테고리 허브, 관련 기사, 사이트맵까지 한 번에 이동할 수 있게 구성했습니다.'
-              : 'Move from latest stories to category hubs, related posts, and sitemap paths without leaving the site.'}
+            {channelLabel('readerWorkflowBody', locale)}
           </p>
         </div>
         <div className="reader-workflow-links">
-          <a href={'/' + locale} className="tag">{channel.name}</a>
+          <a href={'/' + locale} className="tag">{site.name}</a>
           <a href={'/' + locale + '/rss.xml'} className="tag">RSS</a>
           <a href="/sitemap.xml" className="tag">Sitemap</a>
           <a href="/llms.txt" className="tag">llms.txt</a>
