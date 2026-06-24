@@ -9,16 +9,23 @@ type Props = {
 const DEFAULT_ADSTERRA_KEY = 'f3fd82c41fc918c20dc3e52e7e413ada';
 const DEFAULT_ADSTERRA_HOST = 'molecularshindy.com';
 
+function normalizeAdsterraKey(value?: string) {
+  const key = value?.trim().match(/^[a-f0-9]{32}$/i)?.[0];
+  return key || '';
+}
+
 function pickAdsterraKey(explicit?: string) {
-  return (
-    explicit ||
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY ||
-    process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY ||
-    DEFAULT_ADSTERRA_KEY
-  );
+  const candidates = [
+    explicit,
+    DEFAULT_ADSTERRA_KEY,
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_300_KEY,
+    process.env.NEXT_PUBLIC_ADSTERRA_BANNER_KEY,
+    process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_KEY,
+    process.env.NEXT_PUBLIC_ADSTERRA_POPUNDER_KEY,
+    process.env.NEXT_PUBLIC_ADSTERRA_SMARTLINK_KEY
+  ];
+
+  return candidates.map(normalizeAdsterraKey).find(Boolean) || '';
 }
 
 function pickAdsterraHost() {
