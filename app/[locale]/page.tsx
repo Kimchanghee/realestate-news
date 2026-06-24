@@ -6,12 +6,13 @@ import { defaultLocale, type Locale } from '@/i18n';
 import { getTranslations } from 'next-intl/server';
 import { itemListJsonLd } from '@/lib/seo';
 import { channelLabel, getChannelLocale } from '@/lib/channel-locale';
+import { filterArticlesForLocale } from '@/lib/article-locale';
 
 export const revalidate = 60;
 
 export default async function Home({ params: { locale } }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale });
-  const articles = await db.listLatest(channel.id, 24);
+  const articles = filterArticlesForLocale(await db.listLatest(channel.id, 24), locale);
   const [hero, ...rest] = articles;
   const site = getChannelLocale(locale);
 
