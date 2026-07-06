@@ -20,7 +20,7 @@ const GENERATE_ALL_LOCALES = process.env.GENERATE_ALL_LOCALES === '1';
 const PROMPT_LOCALES = GENERATE_ALL_LOCALES ? LOCALES : ['ko'];
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36';
 const TARGET_BODY_MIN = Number(process.env.TARGET_BODY_MIN || '1000');
-const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '1200');
+const TARGET_BODY_MAX = Number(process.env.TARGET_BODY_MAX || '4000');
 const MAX_KO_REPAIR_RETRIES = Number(process.env.MAX_KO_REPAIR_RETRIES || '2');
 const CODEX_TIMEOUT_MS = Number(process.env.CODEX_TIMEOUT_MS || '900000');
 const CODEX_MODEL = 'gpt-5.5';
