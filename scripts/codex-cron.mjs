@@ -575,7 +575,7 @@ async function main() {
     } catch (e) { console.error(`fail: ${e.message}`); }
   }
 
-  if (ok > 0) await rebuildSeed();
+  if (ok >= 0) await rebuildSeed();
   console.log(`done: ${ok}/${picked.length}`);
 }
 
