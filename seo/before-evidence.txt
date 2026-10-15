@@ -1,0 +1,16 @@
+# BEFORE evidence (captured 2026-10-15 23:48 KST)
+curl -s -o /dev/null -w '%{http_code}' https://korearealestatenews.online/ -> 402
+curl -s -o /dev/null -w '%{http_code}' https://korearealestatenews.online/robots.txt -> 402
+curl -s -o /dev/null -w '%{http_code}' https://korearealestatenews.online/sitemap.xml -> 402
+curl -s -o /dev/null -w '%{http_code}' https://korearealestatenews.online/llms.txt -> 402
+curl -s -o /dev/null -w '%{http_code}' https://korearealestatenews.online/no-such-page-xyz -> 402
+HTTP/1.1 402 Payment Required
+Cache-Control: public, max-age=0, must-revalidate
+Content-Length: 78
+Content-Type: text/plain; charset=utf-8
+Date: Thu, 15 Oct 2026 14:48:34 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Vercel-Error: DEPLOYMENT_DISABLED
+X-Vercel-Id: icn1::v7lg4-1792075714860-b0050dce9798
+

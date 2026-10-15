@@ -1,0 +1,29 @@
+{
+  "name": "korearealestatenews-online",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "집계산서 — 내 집 마련·전월세 비용 계산 데스크 (korearealestatenews.online)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview --port 4321",
+    "check": "astro check",
+    "refresh": "node scripts/refresh.mjs",
+    "gate": "node scripts/gate.mjs",
+    "test": "node --test tests/calc.test.mjs tests/refresh.test.mjs",
+    "og": "node scripts/og.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "astro": "^5.18.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.26.0",
+  "engines": {
+    "node": ">=22"
+  }
+}

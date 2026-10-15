@@ -1,0 +1,15 @@
+{
+  "baseRate": {
+    "ok": true,
+    "at": "2026-10-15T14:59:32.920Z",
+    "rows": 61,
+    "current": {
+      "date": "2026-08-27",
+      "rate": 3
+    }
+  },
+  "trades": {
+    "ok": null,
+    "note": "DATA_GO_KR_SERVICE_KEY not set; 실거래가 refresh skipped (no prices rendered)."
+  }
+}
