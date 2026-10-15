@@ -13,6 +13,8 @@ function Step($name, [scriptblock]$cmd) {
 if (-not (Test-Path node_modules)) { Step 'pnpm install' { pnpm install --frozen-lockfile } }
 Step 'refresh' { pnpm refresh }
 Step 'test'    { pnpm test }
+# OG cards embed the current rate; re-render if the shared Playwright is present (non-fatal).
+if (Test-Path ..\_qa-tools\node_modules\playwright) { node scripts/og.mjs; if ($LASTEXITCODE -ne 0) { Write-Warning 'og render failed; keeping previous PNGs'; $global:LASTEXITCODE = 0 } }
 Step 'build'   { pnpm build }
 Step 'gate'    { pnpm gate }
 Write-Host 'refresh-build OK'
