@@ -19,8 +19,8 @@ so the old 3,064-file news archive is never checked out; the first commit on thi
 - [x] M2 pages/layout/design (6 calc pages, data page, home, about/methodology/contact/privacy/terms/disclaimer/404; 등기부/관공서 서식 design in src/styles/global.css)
 - [x] M3 guides (10: +mortgage-repayment-methods, +property-tax-how-calculated) + legal pages (done in M2)
 - [x] M4 SEO — GATE PASS (25 pages). done: robots/sitemap-index/sitemap-0 (src/lib/urls.ts registry), rss.xml, llms.txt, llms-full.txt, IndexNow key file. scripts/gate.mjs written; all titles 50–60 / descs 150–160 fixed; broken related links fixed; gate now fails ONLY on missing OG PNGs. OG: scripts/og.mjs (pnpm og) renders 18 PNGs via _qa-tools playwright + installed ms-playwright headless shell. Remaining small: content/backlog.md, DESIGN_REFERENCES.md, seo/measure.md
-- [ ] M5 QA — done: build 0, astro check 0 errors, test 24/24, gate PASS 25, curl evidence seo/after-evidence.txt (404 path=404). TODO: screenshots (node qa/shot.cjs needs pnpm preview on :4321), seo/scorecard.md
-- [ ] M6 push + report
+- [x] M5 QA — build 0, astro check 0 errors, test 24/24, gate PASS 25, curl evidence seo/after-evidence.txt (404 path=404), Playwright shots qa/shots/{home,calc_loan-limit,guide_how-dsr-is-calculated}-{1440,390}.png (overflow none, CLS 0, focus 3px outline; reviewed), seo/scorecard.md before/after written.
+- [x] M6 push + report (scorecard commit pushed; final CONTRACT §8 report delivered to parent 2026-10-16)
 
 ## Notes
 - _pw-browsers folder does not exist; Playwright browsers live in %LOCALAPPDATA%\ms-playwright (use those, do not download).
