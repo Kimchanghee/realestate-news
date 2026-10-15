@@ -1,0 +1,123 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import MoneyField from '../components/MoneyField.astro';
+import { FORMS, DATA_PAGE } from '../lib/forms.ts';
+import { conversionCap } from '../lib/calc/conversion.ts';
+import { calcAcquisition } from '../lib/calc/acquisition.ts';
+import { fmtWon, fmtKorean } from '../lib/calc/util.ts';
+import { LENDING, CHECKED } from '../lib/rules.ts';
+import baseRate from '../data/base-rate.json';
+import { webPage } from '../lib/ld.ts';
+import { site } from '../site.config.ts';
+
+const guides = (await getCollection('guides')).sort((a, b) => (a.data.updated < b.data.updated ? 1 : -1)).slice(0, 6);
+const br = baseRate.current.rate;
+const cap = conversionCap(br);
+const updated = [CHECKED, baseRate.asOf].sort().at(-1)!;
+const title = '집계산서 – 취득세·중개보수·전월세 전환·DSR·재산세 계산을 법령 기준으로';
+const description = `주택 취득세, 중개보수, 전월세 전환율(현재 상한 ${cap.toFixed(2)}%), DSR·LTV 대출 한도, 주담대 상환액, 재산세를 현행 법령·고시와 한국은행 기준금리로 계산하는 무료 서식입니다. 모든 결과에 근거 조문과 기준일을 붙입니다.`;
+const q = calcAcquisition({ price: 500_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
+if (!q.ok) throw new Error();
+const ld = [webPage({ name: site.name, path: '/', description, dateModified: updated })];
+---
+<Base title={title} description={description} path="/" og="/og/default.png" ld={ld} pageType="home" modified={updated}>
+  <section class="sheet">
+    <p class="form-no">[발급] 부동산 비용 계산 서식 · 확인일 {updated}</p>
+    <h1>집 살 때·빌릴 때 드는 돈, 얼마인지 조문대로 계산합니다</h1>
+    <p class="lead" data-answer>
+      <strong>{baseRate.asOf} 확인 기준 전월세 전환율 상한은 {cap.toFixed(2)}%, 한국은행 기준금리는 {br.toFixed(2)}%</strong>입니다. 집계산서는 취득세·중개보수·전월세 전환·대출 한도·상환액·재산세 6개 서식을 법제처 원문과 대조한 요율로 계산하고, 결과마다 근거 조문과 기준일을 붙입니다.
+    </p>
+
+    <h2 class="vh">오늘 적용되는 기준값</h2>
+    <dl class="kv">
+      <div><dt>한국은행 기준금리</dt><dd>{br.toFixed(2)}%</dd><dd class="meta">{baseRate.current.date} 결정 · {baseRate.asOf} 확인</dd></div>
+      <div><dt>전월세 전환율 상한</dt><dd>{cap.toFixed(2)}%</dd><dd class="meta">기준금리 + 2%p (주임법 시행령 제9조)</dd></div>
+      <div><dt>스트레스 DSR 가산</dt><dd>{LENDING.stressBase}%p</dd><dd class="meta">수도권·규제지역 주담대 하한 {LENDING.stressMetroFloor}%p</dd></div>
+      <div><dt>생애최초 취득세 감면</dt><dd>200만원</dd><dd class="meta">소형 비아파트·인구감소지역 300만원 (12억 이하)</dd></div>
+      <div><dt>1주택 재산세 공정시장가액비율</dt><dd>43~45%</dd><dd class="meta">2026년, 다주택 60% (시행령 제109조)</dd></div>
+      <div><dt>중개보수 매매 상한</dt><dd>0.4~0.7%</dd><dd class="meta">시행규칙 별표1, 임대차 0.3~0.6%</dd></div>
+    </dl>
+  </section>
+
+  <section class="sheet">
+    <p class="part">서 식 목 록</p>
+    <table class="register">
+      <thead><tr><th scope="col">번호</th><th scope="col">서식과 묻는 것</th><th scope="col">근거·기준일</th></tr></thead>
+      <tbody>
+        {FORMS.map((f) => (
+          <tr>
+            <td class="no">{f.no}</td>
+            <td><a class="title" href={f.path}>{f.title}</a><span class="q">{f.question}</span></td>
+            <td class="law">{f.law}<br /><span class="num">{f.updated}</span></td>
+          </tr>
+        ))}
+        <tr>
+          <td class="no">자료</td>
+          <td><a class="title" href={DATA_PAGE.path}>{DATA_PAGE.title}</a><span class="q">기준금리가 바뀔 때마다 법정 상한은 어떻게 달라졌나?</span></td>
+          <td class="law">한국은행 기준금리 공시<br /><span class="num">{DATA_PAGE.updated}</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="sheet" aria-labelledby="quick-h">
+    <h2 id="quick-h" style="margin-top:0">빠른 계산: 이 집 취득세는?</h2>
+    <div class="desk" data-calc="quick" style="margin-top:0.6rem">
+      <form id="q-form" novalidate>
+        <fieldset class="fields">
+          <legend class="vh">빠른 취득세 계산</legend>
+          <MoneyField id="qprice" label="취득가액" value={500_000_000} />
+          <div class="row">
+            <label class="lab" for="qhouses">취득 후 주택 수</label>
+            <div class="val">
+              <select id="qhouses" name="qhouses">
+                <option value="1" selected>1주택</option>
+                <option value="2">2주택 (조정대상지역)</option>
+                <option value="3">3주택 이상 (조정대상지역)</option>
+              </select>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+      <div class="ledger-wrap">
+        <table class="ledger">
+          <caption>산 출 내 역 (85㎡ 이하 가정)</caption>
+          <tbody>
+            <tr><th scope="row">취득세</th><td data-out="acq">{fmtWon(q.lines[0].amount)}</td></tr>
+            <tr><th scope="row">지방교육세</th><td data-out="edu">{fmtWon(q.lines[1].amount)}</td></tr>
+          </tbody>
+          <tfoot><tr><th scope="row">합계</th><td><span data-out="total">{fmtWon(q.total)}</span><span class="words" data-out="words">{fmtKorean(q.total)}</span></td></tr></tfoot>
+        </table>
+        <p class="status">생애최초 감면·85㎡ 초과·일시적 2주택은 <a href="/calc/acquisition-tax/">취득세 계산서 전체 서식</a>에서 계산하세요.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sheet">
+    <p class="part">최 근 가 이 드</p>
+    <ul class="related">
+      {guides.map((g) => (<li><a href={`/guide/${g.id}/`}>{g.data.h1}<small>{g.data.updated} 수정 · {g.data.question}</small></a></li>))}
+    </ul>
+    <p style="margin-top:1rem"><a href="/guide/">가이드 전체 보기</a> · <a href="/methodology/">계산 방법과 자료 출처</a> · <a href="/about/">집계산서 소개</a></p>
+  </section>
+</Base>
+
+<script>
+  import { calcAcquisition } from '../lib/calc/acquisition.ts';
+  import { fmtWon, fmtKorean } from '../lib/calc/util.ts';
+  import { wire, money, out, clearErrors, fieldError } from '../lib/client.ts';
+  const form = document.getElementById('q-form') as HTMLFormElement;
+  const desk = form.closest('[data-calc]') as HTMLElement;
+  wire(form, 'quick_acquisition_tax', () => {
+    clearErrors(form);
+    const houses = Number((form.elements.namedItem('qhouses') as HTMLSelectElement).value);
+    const r = calcAcquisition({ price: money(form, 'qprice'), houses, regulated: houses > 1, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
+    if (!r.ok) { fieldError(form, 'qprice', r.message); desk.dataset.state = 'invalid'; return; }
+    desk.dataset.state = 'ok';
+    out(desk, 'acq', fmtWon(r.lines[0].amount));
+    out(desk, 'edu', fmtWon(r.lines[1].amount));
+    out(desk, 'total', fmtWon(r.total));
+    out(desk, 'words', fmtKorean(r.total));
+  });
+</script>

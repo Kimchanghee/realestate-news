@@ -1,0 +1,16 @@
+---
+import type { Basis as B } from '../lib/rules.ts';
+interface Props { items: B[]; extra?: string }
+const { items, extra } = Astro.props;
+---
+<aside class="basis" aria-label="계산 근거와 기준일">
+  {items.map((b) => (
+    <dl>
+      <dt>항목</dt><dd>{b.label}</dd>
+      <dt>근거</dt><dd><a href={b.url} rel="noopener" target="_blank">{b.law}</a></dd>
+      <dt>시행</dt><dd class="num">{b.effective}</dd>
+      <dt>대조일</dt><dd class="num">{b.checked} (법제처 원문과 대조)</dd>
+    </dl>
+  ))}
+  {extra && <p style="margin:.5rem 0 0">{extra}</p>}
+</aside>

@@ -1,0 +1,16 @@
+---
+import { fmtKorean } from '../lib/calc/util.ts';
+interface Props { id: string; label: string; sub?: string; value: number; required?: boolean }
+const { id, label, sub, value, required = true } = Astro.props;
+---
+<div class="row">
+  <label class="lab" for={id}>{label}{sub && <small>{sub}</small>}</label>
+  <div class="val">
+    <div class="unit">
+      <input type="text" inputmode="numeric" autocomplete="off" id={id} name={id} value={value.toLocaleString('ko-KR')} data-money required={required} aria-describedby={`${id}-echo ${id}-err`} />
+      <span>원</span>
+    </div>
+    <span class="hint" id={`${id}-echo`}>= {fmtKorean(value)}</span>
+    <span class="err" id={`${id}-err`} role="alert"></span>
+  </div>
+</div>

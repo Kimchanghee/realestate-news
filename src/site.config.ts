@@ -22,6 +22,8 @@ export const site = {
   indexNowKey: '9d4f933b26315f835a969b509128ba5a',
   // Affiliate URLs: empty until the owner signs up. Empty = neutral official links only.
   affiliates: {} as Record<string, string>,
+  // AdSense manual ad-slot IDs (numeric strings from the AdSense UI). Empty = no reserved unit rendered.
+  adSlots: { 'calc-below': '', 'guide-mid': '', 'guide-end': '' } as Record<string, string>,
   // Consent Mode v2: regions defaulting to denied (EEA + UK + CH)
   consentDeniedRegions: [
     'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IS', 'IE', 'IT', 'LV', 'LI',

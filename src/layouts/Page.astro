@@ -1,0 +1,18 @@
+---
+// Shared shell for About / Methodology / policy pages.
+import Base from './Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import { breadcrumb, webPage } from '../lib/ld.ts';
+interface Props { title: string; description: string; path: string; h1: string; label: string; updated: string; answer: string; type?: string; extraLd?: object[] }
+const { title, description, path, h1, label, updated, answer, type = 'WebPage', extraLd = [] } = Astro.props;
+const ld = [webPage({ name: h1, path, description, dateModified: updated, type }), breadcrumb([{ name: '홈', path: '/' }, { name: label, path }]), ...extraLd];
+---
+<Base title={title} description={description} path={path} ld={ld} pageType="page" modified={updated}>
+  <article class="sheet prose">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: label, path }]} />
+    <p class="form-no">[안내] {label} · 최종 수정 <time datetime={updated}>{updated}</time></p>
+    <h1>{h1}</h1>
+    <p class="lead" data-answer>{answer}</p>
+    <slot />
+  </article>
+</Base>

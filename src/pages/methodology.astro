@@ -1,0 +1,47 @@
+---
+import Page from '../layouts/Page.astro';
+import { basis, CHECKED } from '../lib/rules.ts';
+import baseRate from '../data/base-rate.json';
+import { conversionCap } from '../lib/calc/conversion.ts';
+const updated = [CHECKED, baseRate.asOf].sort().at(-1)!;
+const rows = Object.values(basis);
+---
+<Page
+  title="계산 방법·자료 출처 – 집계산서가 쓰는 조문, 요율, 갱신 주기와 검증 방법"
+  description="집계산서의 6개 계산서가 사용하는 지방세법·공인중개사법 시행규칙·주택임대차보호법 시행령 조문과 금융위원회 행정지도, 한국은행 기준금리 자동 확인 방식, 절사·반올림 규칙, 손계산 테스트와 데이터 실패 시 처리 원칙을 정리했습니다."
+  path="/methodology/"
+  h1="집계산서는 무엇을 근거로 어떻게 계산하나요?"
+  label="계산 방법·자료 출처"
+  updated={updated}
+  answer={`집계산서의 요율과 한도는 모두 현행 법령·고시 원문에서 가져오며 ${CHECKED}에 법제처 원문과 다시 대조했습니다. 기준금리만 한국은행 공시표에서 자동으로 확인하고(최근 확인 ${baseRate.asOf}), 확인에 실패하면 마지막 값과 그 날짜를 그대로 씁니다.`}
+>
+  <h2>어떤 조문과 고시를 쓰나요?</h2>
+  <div class="tbl-wrap">
+    <table class="tbl">
+      <caption>계산서별 근거 — 대조일 {CHECKED}</caption>
+      <thead><tr><th scope="col">항목</th><th scope="col">근거</th><th scope="col">시행</th></tr></thead>
+      <tbody>
+        {rows.map((b) => (<tr><td>{b.label}</td><td><a href={b.url} rel="noopener" target="_blank">{b.law}</a></td><td class="num">{b.effective}</td></tr>))}
+        <tr><td>한국은행 기준금리</td><td><a href={baseRate.sourceUrl} rel="noopener" target="_blank">{baseRate.source}</a></td><td class="num">{baseRate.current.date} 결정</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>기준금리는 어떻게 갱신되나요?</h2>
+  <p>매일 자동 작업이 한국은행 "기준금리 추이" 공시표를 읽어 결정일과 금리를 저장합니다. 표에서 행이 20개 미만이거나, 0~10% 범위를 벗어나거나, 미래 날짜가 나오면 그날 값은 버리고 이전 값을 유지합니다. {baseRate.asOf} 확인 기준 기준금리는 {baseRate.current.rate.toFixed(2)}%({baseRate.current.date} 결정)이고, 이에 따른 전월세 전환율 상한은 {conversionCap(baseRate.current.rate).toFixed(2)}%입니다.</p>
+  <p>실거래가·시세 자료는 현재 연결되어 있지 않습니다. 국토교통부 실거래가 공개 API 연동 지점은 마련해 두었지만, 인증키가 없는 상태에서 표본 값이나 추정치를 대신 보여주지 않습니다.</p>
+
+  <h2>금액은 어떻게 자르고 반올림하나요?</h2>
+  <ul>
+    <li>세액과 보수는 원 미만을 버립니다. 실제 고지서는 10원 미만 절사 등 기관 규칙에 따라 몇 원 차이가 날 수 있습니다.</li>
+    <li>취득세 6억~9억원 구간 세율은 지방세법 규정대로 소수점 이하 다섯째 자리에서 반올림합니다(7억원 → 1.67%).</li>
+    <li>대출 상환액은 매달 원 단위로 반올림하고, 마지막 달에 남은 원금을 모두 갚도록 맞춥니다. DSR 기준 한도는 백만원 단위로 내립니다.</li>
+    <li>비율(DSR·LTV·전환율)은 소수 둘째 자리까지 표시합니다.</li>
+  </ul>
+
+  <h2>계산이 맞는지 어떻게 확인하나요?</h2>
+  <p>계산 코드는 화면과 같은 함수 하나를 서버(정적 HTML 생성)와 브라우저가 함께 씁니다. 이 함수에 대해 손으로 계산한 24개 사례(예: 7억원 1주택 취득세 1,169만원, 전세 3억원 중개보수 90만원, 1억원·4%·30년 원리금균등 월 477,415원)를 자동 테스트로 돌리고, 하나라도 틀리면 사이트를 다시 만들지 않습니다.</p>
+
+  <h2>이 사이트가 원출처인 숫자는 무엇인가요?</h2>
+  <p>법정 요율 자체의 원출처는 법령입니다. 집계산서가 직접 계산해 공개하는 값은 <a href="/data/conversion-rate-cap/">전월세 전환율 상한 변동표</a>(한국은행 기준금리 결정마다 산식을 적용한 이력)와 각 계산서의 예시 산출액입니다. 인용할 때는 페이지 주소와 확인일을 함께 적어 주세요.</p>
+</Page>

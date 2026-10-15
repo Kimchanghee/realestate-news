@@ -1,0 +1,10 @@
+---
+interface Props { links: { href: string; title: string; note?: string }[]; heading?: string }
+const { links, heading = '함께 보면 좋은 서식·가이드' } = Astro.props;
+---
+<section aria-labelledby="rel-h">
+  <h2 id="rel-h">{heading}</h2>
+  <ul class="related">
+    {links.map((l) => (<li><a href={l.href}>{l.title}{l.note && <small>{l.note}</small>}</a></li>))}
+  </ul>
+</section>

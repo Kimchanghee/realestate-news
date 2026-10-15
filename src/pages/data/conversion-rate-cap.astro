@@ -1,0 +1,96 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Related from '../../components/Related.astro';
+import { conversionCap } from '../../lib/calc/conversion.ts';
+import { stepLine } from '../../lib/chart.ts';
+import { DATA_PAGE } from '../../lib/forms.ts';
+import baseRate from '../../data/base-rate.json';
+import { abs, orgId } from '../../site.config.ts';
+import { breadcrumb, webPage } from '../../lib/ld.ts';
+
+const path = DATA_PAGE.path;
+const br = baseRate.current.rate;
+const cap = conversionCap(br);
+const hist = baseRate.history;
+// 상한 규정(기준금리 + 2%p)은 2016-11-30 시행 시행령부터 적용되므로, 그 이전 행은 "당시 규정 다름"으로 표시한다.
+const RULE_FROM = '2016-11-30';
+const ruleRows = hist.filter((h) => h.date >= '2016-01-01');
+const title = `전월세 전환율 상한 변동표 – 한국은행 기준금리별 법정 상한 이력 | 집계산서`;
+const description = `한국은행 기준금리 결정일마다 주택임대차보호법 시행령의 전월세 전환율 상한(min(10%, 기준금리+가산이율))이 어떻게 바뀌었는지 계산한 표입니다. 현재 상한은 ${cap.toFixed(2)}%이며 ${baseRate.asOf} 한국은행 공시로 확인했습니다.`;
+const chart = stepLine(
+  hist.filter((h) => h.date >= '2008-03-01').map((h) => ({ date: h.date, v: h.rate })),
+  { label: '2008년 이후 한국은행 기준금리(실선)와 현행 산식 기준 전환율 상한(점선)', second: hist.filter((h) => h.date >= '2008-03-01').map((h) => ({ date: h.date, v: conversionCap(h.rate) })) },
+);
+const dataset = {
+  '@type': 'Dataset',
+  '@id': abs(path) + '#dataset',
+  name: '전월세 전환율 법정 상한 변동표',
+  description,
+  url: abs(path),
+  inLanguage: 'ko-KR',
+  dateModified: baseRate.asOf,
+  temporalCoverage: `${hist[hist.length - 1].date}/${baseRate.current.date}`,
+  isBasedOn: baseRate.sourceUrl,
+  creator: { '@id': orgId },
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  variableMeasured: ['한국은행 기준금리(%)', '전월세 전환율 상한(%)'],
+};
+const ld = [webPage({ name: DATA_PAGE.title, path, description, dateModified: baseRate.asOf }), dataset, breadcrumb([{ name: '홈', path: '/' }, { name: DATA_PAGE.title, path }])];
+---
+<Base title={title} description={description} path={path} og={DATA_PAGE.og} ld={ld} pageType="data" modified={baseRate.asOf}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: DATA_PAGE.title, path }]} />
+    <p class="form-no">[자료] 기준금리 연동 법정 상한</p>
+    <h1>전월세 전환율 상한은 언제 얼마였나요?</h1>
+    <p class="lead" data-answer>
+      <strong>현재 전월세 전환율 상한은 연 {cap.toFixed(2)}%</strong>로, {baseRate.current.date}에 결정된 한국은행 기준금리 {br.toFixed(2)}%에 2%p를 더한 값입니다. 아래 표는 한국은행 공시 기준금리 결정 {hist.length}건에 현행 산식을 적용해 집계산서가 계산한 이력입니다({baseRate.asOf} 확인).
+    </p>
+    <dl class="kv">
+      <div><dt>현재 상한</dt><dd>{cap.toFixed(2)}%</dd><dd class="meta">min(10%, {br.toFixed(2)}% + 2%p)</dd></div>
+      <div><dt>기준금리 결정일</dt><dd class="num">{baseRate.current.date}</dd><dd class="meta">직전 {hist[1].rate.toFixed(2)}% ({hist[1].date})</dd></div>
+      <div><dt>원자료</dt><dd style="font-size:1rem"><a href={baseRate.sourceUrl} rel="noopener" target="_blank">{baseRate.source}</a></dd><dd class="meta">확인일 {baseRate.asOf} · 결정 {hist.length}건</dd></div>
+    </dl>
+    <figure class="chart">
+      <div set:html={chart}></div>
+      <figcaption>2008년 3월 이후 기준금리(실선)와 현행 산식(기준금리 + 2%p, 상한 10%)으로 본 전환율 상한(점선). 2020년 이전 실제 법정 상한은 아래 설명처럼 산식이 달랐습니다.</figcaption>
+    </figure>
+
+    <h2>산식은 언제 바뀌었나요?</h2>
+    <p>보증금을 월세로 바꿀 때의 상한 산식은 시행령 개정으로 두 번 크게 바뀌었습니다. 연 10%(연 1할)와 비교하는 구조는 그대로지만, 비교 대상이 2016년 11월 29일까지는 "기준금리 × 4배", 2016년 11월 30일부터는 "기준금리 + 연 3.5%", 2020년 9월 29일 시행령 개정부터는 "기준금리 + 연 2%"입니다. 따라서 아래 표의 "현행 산식 상한"은 과거 시점의 실제 법정 상한이 아니라, 지금 규정을 그때 기준금리에 적용한 값입니다.</p>
+
+    <h2>2016년 이후 결정별 상한은?</h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>한국은행 기준금리 결정일별 — 원자료: {baseRate.source} ({baseRate.asOf} 확인), 상한은 집계산서 계산</caption>
+        <thead><tr><th scope="col">결정일</th><th scope="col">기준금리</th><th scope="col">현행 산식 상한 (+2%p)</th><th scope="col">결정일 당시 시행 산식</th></tr></thead>
+        <tbody>
+          {ruleRows.map((h) => (
+            <tr>
+              <td class="num">{h.date}</td>
+              <td class="num">{h.rate.toFixed(2)}%</td>
+              <td class="num">{conversionCap(h.rate).toFixed(2)}%</td>
+              <td>{h.date >= '2020-09-29' ? `min(10%, 기준금리 + 2%p) = ${conversionCap(h.rate).toFixed(2)}%` : h.date >= RULE_FROM ? `min(10%, 기준금리 + 3.5%p) = ${Math.min(10, h.rate + 3.5).toFixed(2)}%` : `min(10%, 기준금리 × 4) = ${Math.min(10, h.rate * 4).toFixed(2)}%`}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p>2016년 이전 결정을 포함한 전체 {hist.length}건의 기준금리 이력은 한국은행 원자료 페이지에서 확인할 수 있습니다. 집계산서는 매일 한국은행 공시표를 다시 읽고, 읽지 못한 날에는 마지막으로 확인한 값과 그 확인일을 그대로 표시합니다.</p>
+    <h2>이 표를 인용할 때 주의할 점</h2>
+    <ul class="prose">
+      <li>이 표의 상한은 기존 계약의 보증금 → 월세 전환에 적용되는 법정 최고치이며, 시장에서 관찰되는 전월세전환율(한국부동산원 통계)과 다릅니다.</li>
+      <li>상한 판단 시점은 전환 약정 시점의 기준금리입니다. 기준금리 결정일 이후 시행령 적용 여부가 다툼이 되면 법률 전문가와 확인하세요.</li>
+      <li>인용 시 "집계산서, 전월세 전환율 상한 변동표, {baseRate.asOf} 확인"과 이 페이지 주소를 함께 적어 주세요 (CC BY 4.0).</li>
+    </ul>
+  </article>
+  <section class="sheet prose">
+    <Related
+      links={[
+        { href: '/calc/jeonse-conversion/', title: '전월세 전환 계산서 — 내 보증금으로 최대 월세 계산', note: '서식 제3호' },
+        { href: '/guide/jeonse-to-monthly-conversion-cap/', title: '전월세 전환율 상한 계산법과 예외', note: '가이드' },
+        { href: '/methodology/', title: '계산 방법과 자료 출처', note: '안내' },
+      ]}
+    />
+  </section>
+</Base>

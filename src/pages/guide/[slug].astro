@@ -1,0 +1,68 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Faq from '../../components/Faq.astro';
+import Related from '../../components/Related.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { FORMS } from '../../lib/forms.ts';
+import { article, breadcrumb, faqPage } from '../../lib/ld.ts';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((g) => ({ params: { slug: g.id }, props: { entry: g, all: guides } }));
+}
+const { entry, all } = Astro.props;
+const g = entry.data;
+const { Content } = await render(entry);
+const path = `/guide/${entry.id}/`;
+const og = `/og/guide-${entry.id}.png`;
+const tool = g.tool ? FORMS.find((f) => f.path === g.tool) : undefined;
+const relatedGuides = g.related
+  .map((slug) => all.find((x) => x.id === slug))
+  .filter((x): x is NonNullable<typeof x> => !!x)
+  .map((x) => ({ href: `/guide/${x.id}/`, title: x.data.h1, note: '가이드' }));
+const links = [
+  ...(tool ? [{ href: tool.path, title: tool.title, note: `서식 ${tool.no} · ${tool.question}` }] : []),
+  ...relatedGuides,
+  { href: '/guide/', title: '가이드 전체 목록', note: '안내' },
+];
+const crumbs = [
+  { name: '홈', path: '/' },
+  { name: '가이드', path: '/guide/' },
+  { name: g.h1, path },
+];
+const ld = [
+  article({ headline: g.h1, path, description: g.description, datePublished: g.published, dateModified: g.updated, image: og }),
+  breadcrumb(crumbs),
+  ...(g.faq.length ? [faqPage(g.faq)] : []),
+];
+---
+<Base title={g.title} description={g.description} path={path} og={og} ld={ld} pageType="guide" ogType="article" published={g.published} modified={g.updated}>
+  <article class="sheet prose guide">
+    <Crumbs items={crumbs} />
+    <p class="form-no">[안내] {g.question}</p>
+    <h1>{g.h1}</h1>
+    <p class="meta-line">
+      <span>작성 <time datetime={g.published}>{g.published}</time></span>
+      <span>최종 수정 <time datetime={g.updated}>{g.updated}</time></span>
+      <span>자료 기준일 <time datetime={g.data_asof}>{g.data_asof}</time></span>
+      <span>작성: 집계산서 편집팀</span>
+    </p>
+    <p class="lead" data-answer>{g.answer}</p>
+    {tool && (
+      <p class="notice">바로 계산하기: <a href={tool.path}>{tool.title}</a> — {tool.question}</p>
+    )}
+    <Content />
+    <AdSlot id="guide-end" />
+    <section aria-labelledby="src-h">
+      <h2 id="src-h">출처</h2>
+      <ol class="sources" data-sources>
+        {g.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+      </ol>
+      <p class="changelog">{g.changelog ?? `${g.updated} 작성·원문 대조.`} 법령과 고시는 바뀔 수 있으니 계약·신고 전 원문을 확인하세요.</p>
+    </section>
+    {g.faq.length > 0 && <Faq faq={g.faq} />}
+    <Related links={links} />
+  </article>
+</Base>

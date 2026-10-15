@@ -1,0 +1,15 @@
+---
+interface Props { id: string; label: string; sub?: string; value: number | string; unit: string; step?: string; min?: string; max?: string; hint?: string }
+const { id, label, sub, value, unit, step = 'any', min, max, hint } = Astro.props;
+---
+<div class="row">
+  <label class="lab" for={id}>{label}{sub && <small>{sub}</small>}</label>
+  <div class="val">
+    <div class="unit">
+      <input type="number" inputmode="decimal" id={id} name={id} value={value} step={step} min={min} max={max} aria-describedby={`${id}-hint ${id}-err`} />
+      <span>{unit}</span>
+    </div>
+    {hint ? <span class="hint" id={`${id}-hint`}>{hint}</span> : <span id={`${id}-hint`} hidden></span>}
+    <span class="err" id={`${id}-err`} role="alert"></span>
+  </div>
+</div>

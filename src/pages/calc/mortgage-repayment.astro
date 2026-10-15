@@ -1,0 +1,179 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Faq from '../../components/Faq.astro';
+import Related from '../../components/Related.astro';
+import MoneyField from '../../components/MoneyField.astro';
+import NumField from '../../components/NumField.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { calcRepayment, METHOD_LABEL, type Method, type RepayResult } from '../../lib/calc/repayment.ts';
+import { fmtWon, fmtKorean } from '../../lib/calc/util.ts';
+import { yearlyBars } from '../../lib/chart.ts';
+import { FORMS } from '../../lib/forms.ts';
+import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
+
+const form = FORMS[4];
+const path = form.path;
+const title = '주담대 상환액 계산기 – 원리금균등·원금균등·만기일시 월 납입금과 총이자 비교 | 집계산서';
+const description =
+  '대출금·금리·기간을 넣으면 원리금균등, 원금균등, 만기일시 세 가지 상환 방식의 첫 달·마지막 달 납입액과 총이자를 한 표에서 비교하고, 연도별 원금·이자 구성을 막대 그래프로 보여줍니다. 계산 공식과 손계산 예시를 함께 공개합니다.';
+const methods: Method[] = ['annuity', 'equalPrincipal', 'bullet'];
+const res = Object.fromEntries(methods.map((m) => [m, calcRepayment({ principal: 300_000_000, ratePct: 4, months: 360, method: m })])) as Record<Method, RepayResult>;
+const a = res.annuity, e = res.equalPrincipal, b = res.bullet;
+const chart = yearlyBars(a.yearly, '원리금균등 연도별 원금(먹색)과 이자(빗금) 구성');
+const faq = [
+  {
+    q: '3억원을 4%로 30년 빌리면 매달 얼마씩 갚나요?',
+    a: `원리금균등이면 매달 ${fmtWon(a.firstPayment)}을 갚고 30년간 이자는 총 ${fmtWon(a.totalInterest)}입니다. 원금균등은 첫 달 ${fmtWon(e.firstPayment)}에서 점점 줄어들며 총이자는 ${fmtWon(e.totalInterest)}입니다.`,
+  },
+  {
+    q: '원리금균등과 원금균등 중 무엇이 이자가 적나요?',
+    a: '같은 금리·기간이면 원금균등이 총이자가 적습니다. 원금을 매달 같은 금액씩 갚아 잔액이 더 빨리 줄기 때문입니다. 대신 초반 월 납입액이 원리금균등보다 커서 DSR 한도 계산에서는 불리할 수 있습니다.',
+  },
+  {
+    q: '만기일시상환은 왜 총이자가 가장 큰가요?',
+    a: '만기까지 원금을 갚지 않아 대출 잔액 전체에 대한 이자를 매달 내기 때문입니다. 3억원·4%·30년이면 매달 이자만 100만원, 30년 이자 합계는 약 3억 6천만원으로 원금보다 많습니다.',
+  },
+];
+const ld = [
+  webApp({ name: form.title, path, description, dateModified: form.updated }),
+  breadcrumb([{ name: '홈', path: '/' }, { name: form.title, path }]),
+  faqPage(faq),
+];
+---
+<Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
+    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <h1>주담대 월 상환액과 총이자는 얼마인가요?</h1>
+    <p class="lead" data-answer>
+      <strong>3억원을 연 4%로 30년 빌리면 원리금균등은 매달 {fmtWon(a.firstPayment)}, 총이자 {fmtKorean(a.totalInterest)}</strong>입니다. 같은 조건에서 원금균등은 총이자가 {fmtKorean(e.totalInterest)}으로 더 적지만 첫 달 납입액이 {fmtWon(e.firstPayment)}로 큽니다(월 복리 표준 공식 기준).
+    </p>
+
+    <div class="desk" data-calc="repayment">
+      <form id="rp-form" novalidate>
+        <p class="part">입 력 란</p>
+        <fieldset class="fields">
+          <legend class="vh">대출 조건</legend>
+          <MoneyField id="principal" label="대출금" value={300_000_000} />
+          <NumField id="ratePct" label="연 금리" value={4} unit="%" step="0.01" min="0" max="30" hint="고정금리 가정. 변동금리는 현재 금리로 본 근사치입니다." />
+          <NumField id="years" label="기간" value={30} unit="년" step="1" min="1" max="50" />
+          <div class="row">
+            <label class="lab" for="chartMethod">그래프 방식</label>
+            <div class="val">
+              <select id="chartMethod" name="chartMethod">
+                {methods.map((m) => <option value={m} selected={m === 'annuity'}>{METHOD_LABEL[m]}</option>)}
+              </select>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+
+      <div class="ledger-wrap">
+        <div class="tbl-wrap" style="margin:0;border:0">
+          <table class="ledger" style="min-width:20rem">
+            <caption>산 출 내 역 (방식별 비교)</caption>
+            <thead>
+              <tr><th scope="col"><span class="vh">항목</span></th>{methods.map((m) => <th scope="col" style="text-align:right">{METHOD_LABEL[m]}</th>)}</tr>
+            </thead>
+            <tbody>
+              <tr><th scope="row">첫 달</th>{methods.map((m) => <td data-out={`first-${m}`}>{fmtWon(res[m].firstPayment)}</td>)}</tr>
+              <tr><th scope="row">마지막 달</th>{methods.map((m) => <td data-out={`last-${m}`}>{fmtWon(res[m].lastPayment)}</td>)}</tr>
+              <tr><th scope="row">첫해 합계</th>{methods.map((m) => <td data-out={`year1-${m}`}>{fmtWon(res[m].firstYearPayment)}</td>)}</tr>
+            </tbody>
+            <tfoot>
+              <tr><th scope="row">총이자</th>{methods.map((m) => <td data-out={`interest-${m}`} style="font-size:1rem">{fmtWon(res[m].totalInterest)}</td>)}</tr>
+            </tfoot>
+          </table>
+        </div>
+        <p class="notice" data-out="note"></p>
+      </div>
+    </div>
+
+    <figure class="chart">
+      <div data-chart set:html={chart}></div>
+      <figcaption data-out="chartCap">연도별 원금(먹색)·이자(빗금) — 원리금균등, 가로축 = 경과 연수</figcaption>
+    </figure>
+  </article>
+
+  <AdSlot id="calc-below" />
+
+  <section class="sheet prose">
+    <h2>상환 방식별 계산 공식은?</h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>P = 대출금, r = 월 금리(연 금리 ÷ 12), n = 개월 수</caption>
+        <thead><tr><th scope="col">방식</th><th scope="col">월 납입액</th><th scope="col">특징</th></tr></thead>
+        <tbody>
+          <tr><td>원리금균등</td><td>P × r × (1+r)ⁿ ÷ ((1+r)ⁿ − 1)</td><td>매달 같은 금액, 초반엔 이자 비중이 큼</td></tr>
+          <tr><td>원금균등</td><td>P ÷ n + 남은 원금 × r</td><td>납입액이 매달 줄어듦, 총이자 가장 적음</td></tr>
+          <tr><td>만기일시</td><td>P × r (마지막 달에 P 추가)</td><td>매달 이자만, 총이자 가장 큼</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>손계산 예시: 1억원·연 4%·360개월 원리금균등이면 r = 0.003333…, (1+r)³⁶⁰ ≈ 3.3135이므로 월 납입액은 1억 × 0.003333 × 3.3135 ÷ 2.3135 ≈ 477,415원입니다. 이 계산서의 결과는 이 값과 1원 이내로 일치하도록 자동 테스트하고 있습니다.</p>
+    <h2>이 계산서가 하지 않는 것</h2>
+    <ul>
+      <li>거치기간, 중도상환, 금리 변동, 중도상환수수료는 반영하지 않습니다.</li>
+      <li>은행은 일할 계산이나 원 단위 절사 방식이 달라 실제 납입액이 몇 원~몇십 원 다를 수 있습니다.</li>
+    </ul>
+    <p class="changelog">변경 이력: {form.updated} — 세 방식 비교표와 연도별 그래프 공개.</p>
+  </section>
+
+  <section class="sheet prose">
+    <Faq faq={faq} />
+    <Related
+      links={[
+        { href: '/guide/mortgage-repayment-methods/', title: '원리금균등·원금균등·만기일시, 무엇을 고를까', note: '가이드' },
+        { href: '/calc/loan-limit/', title: '대출 한도(DSR·LTV) 계산서', note: '서식 제4호' },
+        { href: '/guide/how-dsr-is-calculated/', title: 'DSR 계산법과 스트레스 DSR', note: '가이드' },
+      ]}
+    />
+  </section>
+</Base>
+
+<script>
+  import { calcRepayment, METHOD_LABEL, type Method } from '../../lib/calc/repayment.ts';
+  import { fmtWon } from '../../lib/calc/util.ts';
+  import { yearlyBars } from '../../lib/chart.ts';
+  import { wire, money, num, out, clearErrors, fieldError } from '../../lib/client.ts';
+  const form = document.getElementById('rp-form') as HTMLFormElement;
+  const desk = form.closest('[data-calc]') as HTMLElement;
+  const sheet = form.closest('.sheet') as HTMLElement;
+  const chartBox = sheet.querySelector('[data-chart]') as HTMLElement;
+  const methods: Method[] = ['annuity', 'equalPrincipal', 'bullet'];
+  wire(form, 'mortgage_repayment', () => {
+    clearErrors(form);
+    const years = num(form, 'years');
+    const base = { principal: money(form, 'principal'), ratePct: num(form, 'ratePct'), months: Math.round(years * 12) };
+    if (!Number.isInteger(years)) {
+      fieldError(form, 'years', '기간은 1~50 사이 정수(년)로 입력하세요.');
+      desk.dataset.state = 'invalid';
+      return;
+    }
+    const results = methods.map((m) => calcRepayment({ ...base, method: m }));
+    const bad = results.find((r) => !r.ok);
+    if (bad && !bad.ok) {
+      fieldError(form, bad.field === 'months' ? 'years' : bad.field, bad.message);
+      desk.dataset.state = 'invalid';
+      out(desk, 'note', '입력값을 고치면 다시 계산합니다.');
+      return;
+    }
+    desk.dataset.state = 'ok';
+    results.forEach((r, i) => {
+      if (!r.ok) return;
+      const m = methods[i];
+      out(desk, `first-${m}`, fmtWon(r.firstPayment));
+      out(desk, `last-${m}`, fmtWon(r.lastPayment));
+      out(desk, `year1-${m}`, fmtWon(r.firstYearPayment));
+      out(desk, `interest-${m}`, fmtWon(r.totalInterest));
+    });
+    const cm = (form.elements.namedItem('chartMethod') as HTMLSelectElement).value as Method;
+    const sel = results[methods.indexOf(cm)];
+    if (sel.ok) {
+      chartBox.innerHTML = yearlyBars(sel.yearly, `${METHOD_LABEL[cm]} 연도별 원금과 이자 구성`);
+      out(sheet, 'chartCap', `연도별 원금(먹색)·이자(빗금) — ${METHOD_LABEL[cm]}, 가로축 = 경과 연수`);
+    }
+    out(desk, 'note', '');
+  });
+</script>

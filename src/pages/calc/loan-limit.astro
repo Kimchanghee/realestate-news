@@ -1,0 +1,233 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Basis from '../../components/Basis.astro';
+import Faq from '../../components/Faq.astro';
+import Related from '../../components/Related.astro';
+import MoneyField from '../../components/MoneyField.astro';
+import NumField from '../../components/NumField.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { calcLoan } from '../../lib/calc/loan.ts';
+import { fmtWon, fmtKorean } from '../../lib/calc/util.ts';
+import { basis, LENDING } from '../../lib/rules.ts';
+import { FORMS } from '../../lib/forms.ts';
+import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
+
+const form = FORMS[3];
+const path = form.path;
+const title = '주담대 한도 계산기 – DSR·스트레스 DSR·LTV·DTI로 최대 대출액 확인 | 집계산서';
+const description =
+  '연소득·집값·금리·만기를 넣으면 은행권 DSR 40% 기준 스트레스 금리(1.5%p·수도권 3.0%p)를 더한 대출 한도와 LTV 한도, 수도권 주담대 6·4·2억 한도 중 가장 낮은 금액을 찾아 최대 대출 가능액과 DSR·DTI·LTV 비율을 보여줍니다.';
+const base = { income: 60_000_000, value: 500_000_000, amount: 300_000_000, ratePct: 4, years: 30, method: 'annuity' as const, stressPct: LENDING.stressBase, dsrLimit: LENDING.dsrBank, ltvPct: LENDING.ltvNonRegulated, existingAnnual: 0, otherInterest: 0, metroCap: false };
+const d = calcLoan(base);
+if (!d.ok) throw new Error();
+const bind = { dsr: '스트레스 DSR', ltv: 'LTV', cap: '수도권 한도' } as const;
+const faq = [
+  {
+    q: '연봉 6천만원이면 주담대를 얼마까지 받을 수 있나요?',
+    a: `은행권 DSR 40%, 금리 4%·30년 원리금균등, 스트레스 금리 1.5%p를 가정하면 DSR 기준 한도는 약 ${fmtKorean(d.maxByDsr)}입니다. 실제 한도는 LTV와 지역별 한도 중 더 낮은 금액으로 정해집니다.`,
+  },
+  {
+    q: '스트레스 DSR은 무엇인가요?',
+    a: '대출 기간 중 금리가 오를 가능성을 반영해, DSR을 계산할 때만 실제 금리에 가산금리(스트레스 금리)를 더하는 제도입니다. 실제로 내는 이자는 그대로지만 한도 계산에 쓰는 원리금이 커져 대출 가능액이 줄어듭니다.',
+  },
+  {
+    q: 'DSR과 DTI는 어떻게 다른가요?',
+    a: 'DSR은 모든 대출의 연간 원리금 상환액을 연소득으로 나눈 비율이고, DTI는 주택담보대출 원리금에 다른 대출의 이자만 더해 연소득으로 나눈 비율입니다. 현재 은행 심사의 핵심 기준은 DSR입니다.',
+  },
+  {
+    q: '이 계산 결과대로 대출이 나오나요?',
+    a: '아닙니다. 소득 인정 방식, 신용점수, 기존 대출의 DSR 산정 방식, 은행 내부 기준에 따라 한도가 달라집니다. 이 계산서는 규제 비율로 본 최대치를 가늠하는 용도이며, 확정 한도는 금융회사 심사로 정해집니다.',
+  },
+];
+const ld = [
+  webApp({ name: form.title, path, description, dateModified: form.updated }),
+  breadcrumb([{ name: '홈', path: '/' }, { name: form.title, path }]),
+  faqPage(faq),
+];
+---
+<Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
+    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <h1>내 소득으로 주담대는 얼마까지 나오나요?</h1>
+    <p class="lead" data-answer>
+      <strong>주택담보대출 한도는 DSR 한도·LTV 한도·지역별 최대 한도 중 가장 낮은 금액</strong>입니다. 은행권 DSR은 연소득의 40%이고, 한도 계산에는 실제 금리에 스트레스 금리(기본 1.5%p, 수도권·규제지역 주담대 3.0%p)를 더합니다({basis.lending.effective} 시행 기준).
+    </p>
+
+    <div class="desk" data-calc="loan">
+      <form id="ln-form" novalidate>
+        <p class="part">입 력 란</p>
+        <fieldset class="fields">
+          <legend class="vh">소득과 대출 조건</legend>
+          <MoneyField id="income" label="연소득" sub="세전, 부부합산 가능" value={base.income} />
+          <MoneyField id="value" label="주택 가격" sub="시세·감정가" value={base.value} />
+          <MoneyField id="amount" label="희망 대출금" value={base.amount} />
+          <NumField id="ratePct" label="대출 금리" value={base.ratePct} unit="%" step="0.01" min="0" max="30" />
+          <NumField id="years" label="만기" value={base.years} unit="년" step="1" min="1" max="50" />
+          <div class="row">
+            <label class="lab" for="method">상환 방식</label>
+            <div class="val">
+              <select id="method" name="method">
+                <option value="annuity" selected>원리금균등</option>
+                <option value="equalPrincipal">원금균등 (첫해 기준)</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <label class="lab" for="stressPreset">스트레스 금리</label>
+            <div class="val">
+              <select id="stressPreset" name="stressPreset">
+                <option value="1.5" selected>1.5%p — 3단계 기본 (변동금리)</option>
+                <option value="3">3.0%p — 수도권·규제지역 주담대 하한</option>
+                <option value="0">0%p — 고정금리 등 미적용</option>
+              </select>
+              <span class="hint">혼합형·주기형은 적용 비율이 낮아지므로 은행 안내값을 아래에 직접 넣으세요.</span>
+            </div>
+          </div>
+          <NumField id="stressPct" label="적용 가산금리" value={base.stressPct} unit="%p" step="0.01" min="0" max="10" />
+          <div class="row">
+            <label class="lab" for="dsrLimit">DSR 기준</label>
+            <div class="val">
+              <select id="dsrLimit" name="dsrLimit">
+                <option value="40" selected>40% — 은행권</option>
+                <option value="50">50% — 제2금융권</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <label class="lab" for="ltvPct">적용 LTV</label>
+            <div class="val">
+              <select id="ltvPct" name="ltvPct">
+                <option value="70" selected>70% — 비규제지역</option>
+                <option value="40">40% — 규제지역</option>
+              </select>
+              <span class="hint">생애최초·서민 실수요자 우대는 은행·정책상품마다 다릅니다.</span>
+            </div>
+          </div>
+          <MoneyField id="existingAnnual" label="기존 대출 연 원리금" sub="DSR에 합산" value={0} required={false} />
+          <MoneyField id="otherInterest" label="기존 대출 연 이자" sub="DTI용" value={0} required={false} />
+          <div class="row">
+            <span class="lab">지역 한도</span>
+            <div class="val"><label class="check"><input type="checkbox" name="metroCap" /> 수도권·규제지역 (시가 15억 이하 6억, 25억 이하 4억, 초과 2억)</label></div>
+          </div>
+        </fieldset>
+      </form>
+
+      <div class="ledger-wrap">
+        <table class="ledger">
+          <caption>산 출 내 역</caption>
+          <tbody>
+            <tr><th scope="row"><span class="no">①</span>희망 대출 연 원리금</th><td data-out="annualActual">{fmtWon(d.annualActual)}</td></tr>
+            <tr><th scope="row"><span class="no">②</span>DSR (실제 금리)</th><td data-out="dsr">{d.dsr}%</td></tr>
+            <tr><th scope="row"><span class="no">③</span>스트레스 DSR</th><td data-out="stressDsr">{d.stressDsr}%</td></tr>
+            <tr><th scope="row"><span class="no">④</span>DTI</th><td data-out="dti">{d.dti}%</td></tr>
+            <tr><th scope="row"><span class="no">⑤</span>LTV</th><td data-out="ltv">{d.ltv}%</td></tr>
+            <tr><th scope="row"><span class="no">⑥</span>DSR 기준 한도</th><td data-out="maxByDsr">{fmtWon(d.maxByDsr)}</td></tr>
+            <tr><th scope="row"><span class="no">⑦</span>LTV 기준 한도</th><td data-out="maxByLtv">{fmtWon(d.maxByLtv)}</td></tr>
+            <tr data-show="capRow" hidden><th scope="row"><span class="no">⑧</span>수도권 주담대 한도</th><td data-out="maxByCap">—</td></tr>
+          </tbody>
+          <tfoot>
+            <tr><th scope="row">최대 대출 가능액<span class="words" data-out="binding">{bind[d.binding]} 기준</span></th><td><span data-out="maxLoan">{fmtWon(d.maxLoan)}</span><span class="words" data-out="maxWords">{fmtKorean(d.maxLoan)}</span></td></tr>
+          </tfoot>
+        </table>
+        <p class="notice" data-out="note" data-note>{!d.dsrPass ? '희망 대출금이 스트레스 DSR 기준을 넘습니다.' : ''}</p>
+        <Basis items={[basis.lending]} extra="한도 계산 원리금은 백만원 단위로 내림했습니다." />
+      </div>
+    </div>
+  </article>
+
+  <AdSlot id="calc-below" />
+
+  <section class="sheet prose">
+    <h2>DSR 한도는 어떻게 계산하나요?</h2>
+    <p>DSR 한도는 (연소득 × DSR 기준 − 기존 대출 연 원리금)을 "대출 1원당 연간 원리금"으로 나눈 값입니다. 연 원리금은 실제 금리가 아니라 실제 금리 + 스트레스 금리로 계산합니다. 연소득 6천만원, 기존 대출 없음, 4% + 1.5%p = 5.5%·30년 원리금균등이면 1원당 연 원리금이 약 0.0681원이므로 2,400만원 ÷ 0.0681 ≈ {fmtKorean(d.maxByDsr)}이 DSR 기준 한도입니다.</p>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>이 계산서의 기본 규제값 — {basis.lending.checked} 대조 (금융위원회 발표 기준)</caption>
+        <thead><tr><th scope="col">항목</th><th scope="col">값</th><th scope="col">적용 범위</th></tr></thead>
+        <tbody>
+          <tr><td>DSR 기준</td><td class="num">40% / 50%</td><td>은행권 / 제2금융권 차주 단위</td></tr>
+          <tr><td>스트레스 금리</td><td class="num">{LENDING.stressBase}%p</td><td>3단계 스트레스 DSR 기본 (2025-07-01)</td></tr>
+          <tr><td>수도권·규제지역 하한</td><td class="num">{LENDING.stressMetroFloor}%p</td><td>주택담보대출 (2025-10-16)</td></tr>
+          <tr><td>LTV</td><td class="num">{LENDING.ltvRegulated}% / {LENDING.ltvNonRegulated}%</td><td>규제지역 / 비규제지역 (일반 차주)</td></tr>
+          <tr><td>수도권·규제지역 주담대 최대</td><td class="num">6억 / 4억 / 2억</td><td>시가 15억 이하 / 25억 이하 / 25억 초과</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h2>이 계산서가 하지 않는 것</h2>
+    <ul>
+      <li>정책모기지(디딤돌·보금자리론 등), 전세대출, 신용대출의 DSR 산정 특례는 반영하지 않습니다.</li>
+      <li>만기일시상환 대출은 DSR 산정 시 원금을 일정 기간으로 나눠 반영하는 별도 규칙이 있어 제외했습니다.</li>
+      <li>행정지도 비율은 정부 발표로 수시로 바뀝니다. 표의 대조일 이후 변경은 금융회사 안내가 우선합니다.</li>
+    </ul>
+    <p class="changelog">변경 이력: {form.updated} — 스트레스 DSR 3단계·수도권 하한 3.0%p·주담대 6/4/2억 한도 반영.</p>
+  </section>
+
+  <section class="sheet prose">
+    <Faq faq={faq} />
+    <Related
+      links={[
+        { href: '/guide/how-dsr-is-calculated/', title: 'DSR 계산법과 스트레스 DSR 한도 영향', note: '가이드' },
+        { href: '/calc/mortgage-repayment/', title: '주담대 상환 3방식 계산서', note: '서식 제5호' },
+        { href: '/guide/mortgage-repayment-methods/', title: '원리금균등·원금균등·만기일시 비교', note: '가이드' },
+        { href: '/calc/acquisition-tax/', title: '주택 취득세 계산서', note: '서식 제1호' },
+      ]}
+    />
+  </section>
+</Base>
+
+<script>
+  import { calcLoan } from '../../lib/calc/loan.ts';
+  import { fmtWon, fmtKorean } from '../../lib/calc/util.ts';
+  import { wire, money, num, checked, out, show, clearErrors, fieldError } from '../../lib/client.ts';
+  const form = document.getElementById('ln-form') as HTMLFormElement;
+  const desk = form.closest('[data-calc]') as HTMLElement;
+  const sel = (n: string) => (form.elements.namedItem(n) as HTMLSelectElement).value;
+  const preset = form.elements.namedItem('stressPreset') as HTMLSelectElement;
+  const stressInput = form.elements.namedItem('stressPct') as HTMLInputElement;
+  preset.addEventListener('change', () => { stressInput.value = preset.value; });
+  const bind = { dsr: '스트레스 DSR', ltv: 'LTV', cap: '수도권 한도' } as const;
+  wire(form, 'loan_limit', () => {
+    clearErrors(form);
+    const r = calcLoan({
+      income: money(form, 'income'),
+      value: money(form, 'value'),
+      amount: money(form, 'amount'),
+      ratePct: num(form, 'ratePct'),
+      years: num(form, 'years'),
+      method: sel('method') as 'annuity' | 'equalPrincipal',
+      stressPct: num(form, 'stressPct'),
+      dsrLimit: Number(sel('dsrLimit')),
+      ltvPct: Number(sel('ltvPct')),
+      existingAnnual: money(form, 'existingAnnual'),
+      otherInterest: money(form, 'otherInterest'),
+      metroCap: checked(form, 'metroCap'),
+    });
+    if (!r.ok) {
+      fieldError(form, r.field, r.message);
+      desk.dataset.state = 'invalid';
+      out(desk, 'note', '입력값을 고치면 다시 계산합니다.');
+      return;
+    }
+    desk.dataset.state = 'ok';
+    out(desk, 'annualActual', fmtWon(r.annualActual));
+    out(desk, 'dsr', `${r.dsr}%`);
+    out(desk, 'stressDsr', `${r.stressDsr}%`);
+    out(desk, 'dti', `${r.dti}%`);
+    out(desk, 'ltv', `${r.ltv}%`);
+    out(desk, 'maxByDsr', fmtWon(r.maxByDsr));
+    out(desk, 'maxByLtv', fmtWon(r.maxByLtv));
+    show(desk, 'capRow', r.maxByCap !== null);
+    out(desk, 'maxByCap', r.maxByCap !== null ? fmtWon(r.maxByCap) : '—');
+    out(desk, 'binding', `${bind[r.binding]} 기준`);
+    out(desk, 'maxLoan', fmtWon(r.maxLoan));
+    out(desk, 'maxWords', fmtKorean(r.maxLoan));
+    const notes: string[] = [];
+    if (!r.dsrPass) notes.push(`희망 대출금은 스트레스 DSR ${r.stressDsr}%로 기준을 넘습니다.`);
+    if (!r.ltvPass) notes.push(`희망 대출금의 LTV ${r.ltv}%가 적용 LTV를 넘습니다.`);
+    if (r.maxByDsr === 0) notes.push('기존 대출 원리금만으로 DSR 기준에 도달해 추가 한도가 없습니다.');
+    out(desk, 'note', notes.join(' '));
+    (desk.querySelector('[data-note]') as HTMLElement).className = 'notice' + (notes.length ? ' warn' : '');
+  });
+</script>

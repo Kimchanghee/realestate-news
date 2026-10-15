@@ -1,0 +1,220 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Basis from '../../components/Basis.astro';
+import Faq from '../../components/Faq.astro';
+import Related from '../../components/Related.astro';
+import MoneyField from '../../components/MoneyField.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { calcAcquisition } from '../../lib/calc/acquisition.ts';
+import { fmtWon, fmtKorean, fmtPct } from '../../lib/calc/util.ts';
+import { basis } from '../../lib/rules.ts';
+import { FORMS } from '../../lib/forms.ts';
+import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
+
+const form = FORMS[0];
+const path = form.path;
+const title = '주택 취득세 계산기 2026 – 1주택·다주택 중과·생애최초 감면 반영 | 집계산서';
+const description =
+  '집값과 보유 주택 수, 조정대상지역 여부, 전용 85㎡ 초과 여부만 넣으면 취득세·지방교육세·농어촌특별세와 생애최초 감면(200만·300만원 한도)까지 지방세법 조문 기준으로 바로 계산합니다. 6억~9억 구간 산식도 그대로 반영됩니다.';
+const d = calcAcquisition({ price: 500_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
+if (!d.ok) throw new Error('default calc failed');
+const ex7 = calcAcquisition({ price: 700_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
+if (!ex7.ok) throw new Error();
+const faq = [
+  {
+    q: '7억원 아파트를 1주택으로 사면 취득세는 얼마인가요?',
+    a: `전용 85㎡ 이하·1주택 기준 취득세율은 (7×2/3−3)% = 1.67%이므로 취득세 ${fmtWon(ex7.lines[0].amount)}, 지방교육세 ${fmtWon(ex7.lines[1].amount)}, 합계 ${fmtWon(ex7.total)}입니다. 85㎡를 넘으면 농어촌특별세 0.2%(140만원)가 더해집니다.`,
+  },
+  {
+    q: '조정대상지역에서 일시적 2주택이면 8%가 적용되나요?',
+    a: '아닙니다. 종전 주택을 법정 처분기한 안에 팔 예정인 일시적 2주택은 일반세율(1~3%)로 신고합니다. 기한 안에 종전 주택을 처분하지 않으면 중과세율(8%)과의 차액이 가산세와 함께 추징됩니다.',
+  },
+  {
+    q: '생애최초 감면은 얼마까지 받을 수 있나요?',
+    a: '취득가액 12억원 이하 주택을 본인과 배우자 모두 처음 사는 경우 취득세 본세를 200만원 한도로 감면합니다. 전용 60㎡ 이하·3억원(수도권 6억원) 이하 아파트 외 공동주택 등이나 인구감소지역 주택은 한도가 300만원입니다.',
+  },
+  {
+    q: '취득세는 언제까지 내야 하나요?',
+    a: '취득일(보통 잔금일, 그 전에 등기하면 등기일)부터 60일 이내에 주택 소재지 시·군·구에 신고하고 납부해야 합니다. 기한을 넘기면 신고불성실·납부지연 가산세가 붙습니다.',
+  },
+];
+const ld = [
+  webApp({ name: form.title, path, description, dateModified: form.updated }),
+  breadcrumb([{ name: '홈', path: '/' }, { name: form.title, path }]),
+  faqPage(faq),
+];
+const modeLabel = { general: '일반세율', surcharge8: '중과 8%', surcharge12: '중과 12%' } as const;
+---
+<Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
+    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <h1>집 살 때 취득세는 얼마인가요?</h1>
+    <p class="lead" data-answer>
+      <strong>주택 취득세는 취득가액 6억원 이하 1%, 6억 초과 9억원 이하는 가액에 비례한 산식으로 1~3% 사이, 9억원 초과 3%</strong>이고, 여기에 지방교육세(세율의 10%)와 전용 85㎡ 초과 시 농어촌특별세 0.2%가 붙습니다.
+      조정대상지역 2주택은 8%, 3주택 이상은 12%로 중과됩니다(지방세법, {form.updated} 대조).
+    </p>
+
+    <div class="desk" data-calc="acquisition">
+      <form id="acq-form" novalidate aria-describedby="acq-status">
+        <p class="part">입 력 란</p>
+        <fieldset class="fields">
+          <legend class="vh">취득 조건</legend>
+          <MoneyField id="price" label="취득가액" sub="실거래 신고가" value={500_000_000} />
+          <div class="row">
+            <label class="lab" for="houses">취득 후 주택 수<small>1세대 기준, 이 집 포함</small></label>
+            <div class="val">
+              <select id="houses" name="houses">
+                <option value="1" selected>1주택</option>
+                <option value="2">2주택</option>
+                <option value="3">3주택</option>
+                <option value="4">4주택 이상</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <span class="lab" id="reg-l">소재지</span>
+            <div class="val choices" role="radiogroup" aria-labelledby="reg-l">
+              <label><input type="radio" name="regulated" value="0" checked /> 비조정대상지역</label>
+              <label><input type="radio" name="regulated" value="1" /> 조정대상지역</label>
+            </div>
+          </div>
+          <div class="row">
+            <span class="lab">추가 조건</span>
+            <div class="val">
+              <label class="check"><input type="checkbox" name="over85" /> 전용면적 85㎡ 초과</label>
+              <label class="check"><input type="checkbox" name="temporary" /> 일시적 2주택 (종전 주택 처분 예정)</label>
+              <label class="check"><input type="checkbox" name="firstHome" /> 생애최초 감면 신청</label>
+              <label class="check" data-show="small-opt" hidden><input type="checkbox" name="firstHomeSmall" /> 300만원 한도 요건 충족 (60㎡ 이하 비아파트 등·인구감소지역)</label>
+            </div>
+          </div>
+        </fieldset>
+        <p class="status" id="acq-status" aria-live="polite">입력값을 바꾸면 산출 내역이 바로 다시 계산됩니다.</p>
+      </form>
+
+      <div class="ledger-wrap">
+        <table class="ledger" aria-describedby="acq-note">
+          <caption>산 출 내 역</caption>
+          <tbody>
+            <tr><th scope="row"><span class="no">①</span>적용 구분</th><td data-out="mode">{modeLabel[d.mode]}</td></tr>
+            <tr><th scope="row"><span class="no">②</span>취득세 <span class="rate" data-out="acqRate">({fmtPct(d.acqRate)})</span></th><td data-out="acq">{fmtWon(d.lines[0].amount)}</td></tr>
+            <tr><th scope="row"><span class="no">③</span>지방교육세 <span class="rate" data-out="eduRate">({fmtPct(d.lines[1].rate, 3)})</span></th><td data-out="edu">{fmtWon(d.lines[1].amount)}</td></tr>
+            <tr><th scope="row"><span class="no">④</span>농어촌특별세 <span class="rate" data-out="ruralRate">(85㎡ 이하 비과세)</span></th><td data-out="rural">{fmtWon(d.lines[2].amount)}</td></tr>
+            <tr class="minus" data-show="relief" hidden><th scope="row"><span class="no">⑤</span>생애최초 감면</th><td data-out="relief">0원</td></tr>
+            <tr data-show="reliefRural" hidden><th scope="row"><span class="no">⑥</span>감면분 농특세 (20%)</th><td data-out="reliefRural">0원</td></tr>
+          </tbody>
+          <tfoot>
+            <tr><th scope="row">납부 합계</th><td><span data-out="total">{fmtWon(d.total)}</span><span class="words" data-out="totalWords">{fmtKorean(d.total)}</span></td></tr>
+          </tfoot>
+        </table>
+        <p class="notice" id="acq-note" data-out="note"></p>
+        <Basis items={[basis.acquisition, basis.firstHome]} />
+      </div>
+    </div>
+  </article>
+
+  <AdSlot id="calc-below" />
+
+  <section class="sheet prose">
+    <h2>취득세율은 어떻게 정해지나요?</h2>
+    <p>유상으로 주택을 취득하면 지방세법 제11조 제1항 제8호의 세율이 적용됩니다. 6억원 이하는 1%, 9억원 초과는 3%이며, 그 사이는 금액에 비례해 세율이 올라가도록 산식이 정해져 있습니다.</p>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>1주택(또는 비조정 2주택·일시적 2주택) 유상취득 세율 — {form.updated} 기준</caption>
+        <thead><tr><th scope="col">취득가액</th><th scope="col">취득세</th><th scope="col">지방교육세</th><th scope="col">농특세(85㎡ 초과)</th></tr></thead>
+        <tbody>
+          <tr><td>6억원 이하</td><td class="num">1%</td><td class="num">0.1%</td><td class="num">0.2%</td></tr>
+          <tr><td>6억원 초과 9억원 이하</td><td class="num">(가액×2/3억 − 3)%</td><td class="num">취득세율의 10%</td><td class="num">0.2%</td></tr>
+          <tr><td>9억원 초과</td><td class="num">3%</td><td class="num">0.3%</td><td class="num">0.2%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>6억~9억원 구간 세율은 소수점 이하 다섯째 자리에서 반올림합니다. 예를 들어 7억원은 7×2/3−3 = 1.6667에서 1.67%, 8억원은 2.33%입니다. 7억원 1주택(85㎡ 이하)의 취득세는 {fmtWon(ex7.lines[0].amount)}, 지방교육세를 더한 납부액은 {fmtWon(ex7.total)}입니다.</p>
+
+    <h2>다주택자 중과세율은 몇 %인가요?</h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>지방세법 제13조의2 주택 수별 세율 (개인, 취득 후 1세대 주택 수)</caption>
+        <thead><tr><th scope="col">구분</th><th scope="col">조정대상지역</th><th scope="col">비조정대상지역</th></tr></thead>
+        <tbody>
+          <tr><td>1주택</td><td>1~3%</td><td>1~3%</td></tr>
+          <tr><td>2주택</td><td>8% (일시적 2주택은 1~3%)</td><td>1~3%</td></tr>
+          <tr><td>3주택</td><td>12%</td><td>8%</td></tr>
+          <tr><td>4주택 이상</td><td>12%</td><td>12%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>중과 시 지방교육세는 0.4%, 농어촌특별세(85㎡ 초과)는 8%일 때 0.6%, 12%일 때 1.0%입니다. 공시가격 1억원 이하 주택 등 주택 수에서 빠지는 예외가 있으므로, 보유 주택 수가 애매하면 관할 시·군·구 세무과에 먼저 확인하세요.</p>
+
+    <h2>이 계산서가 하지 않는 것</h2>
+    <ul>
+      <li>조정대상지역 지정 여부는 계약일·취득일 기준으로 바뀔 수 있어 직접 고르게 했습니다. 국토교통부 고시로 확인하세요.</li>
+      <li>법인, 증여·상속·신축(원시취득), 오피스텔·상가 등 주택 외 부동산은 세율이 다르므로 계산하지 않습니다.</li>
+      <li>생애최초 감면 시 지방교육세 처리 방식은 지자체 고지 기준을 따르므로 본세 감면액만 반영했습니다.</li>
+    </ul>
+    <p class="changelog">변경 이력: {form.updated} — 지특법 제36조의3(법률 제21738호) 300만원 한도 요건 반영, 세율표 법제처 원문 대조.</p>
+  </section>
+
+  <section class="sheet prose">
+    <Faq faq={faq} />
+    <Related
+      links={[
+        { href: '/guide/first-home-acquisition-tax-relief/', title: '생애최초 취득세 감면 요건과 추징 조건', note: '가이드' },
+        { href: '/guide/acquisition-tax-rate-structure/', title: '취득세율 6억~9억 구간 산식과 다주택 중과 구조', note: '가이드' },
+        { href: '/calc/brokerage-fee/', title: '중개보수 상한 계산서', note: '서식 제2호' },
+        { href: '/calc/loan-limit/', title: '대출 한도(DSR·LTV) 계산서', note: '서식 제4호' },
+      ]}
+    />
+  </section>
+</Base>
+
+<script>
+  import { calcAcquisition } from '../../lib/calc/acquisition.ts';
+  import { fmtWon, fmtKorean, fmtPct } from '../../lib/calc/util.ts';
+  import { wire, money, checked, radio, out, show, clearErrors, fieldError } from '../../lib/client.ts';
+
+  const form = document.getElementById('acq-form') as HTMLFormElement;
+  const desk = form.closest('[data-calc]') as HTMLElement;
+  const label = { general: '일반세율', surcharge8: '중과 8%', surcharge12: '중과 12%' } as const;
+  wire(form, 'acquisition_tax', () => {
+    clearErrors(form);
+    const houses = Number((form.elements.namedItem('houses') as HTMLSelectElement).value);
+    const firstHome = checked(form, 'firstHome');
+    show(desk, 'small-opt', firstHome);
+    const r = calcAcquisition({
+      price: money(form, 'price'),
+      houses,
+      regulated: radio(form, 'regulated') === '1',
+      over85: checked(form, 'over85'),
+      temporary: checked(form, 'temporary'),
+      firstHome,
+      firstHomeSmall: firstHome && checked(form, 'firstHomeSmall'),
+    });
+    if (!r.ok) {
+      fieldError(form, r.field, r.message);
+      desk.dataset.state = 'invalid';
+      out(desk, 'note', '입력값을 고치면 다시 계산합니다.');
+      return;
+    }
+    desk.dataset.state = 'ok';
+    out(desk, 'mode', label[r.mode]);
+    out(desk, 'acqRate', `(${fmtPct(r.acqRate)})`);
+    out(desk, 'acq', fmtWon(r.lines[0].amount));
+    out(desk, 'eduRate', `(${fmtPct(r.lines[1].rate, 3)})`);
+    out(desk, 'edu', fmtWon(r.lines[1].amount));
+    out(desk, 'ruralRate', r.lines[2].rate ? `(${fmtPct(r.lines[2].rate)})` : '(85㎡ 이하 비과세)');
+    out(desk, 'rural', fmtWon(r.lines[2].amount));
+    show(desk, 'relief', r.relief > 0);
+    out(desk, 'relief', `−${fmtWon(r.relief)}`);
+    show(desk, 'reliefRural', r.reliefRural > 0);
+    out(desk, 'reliefRural', fmtWon(r.reliefRural));
+    out(desk, 'total', fmtWon(r.total));
+    out(desk, 'totalWords', fmtKorean(r.total));
+    const notes: string[] = [];
+    if (r.reliefNote) notes.push(r.reliefNote);
+    if (houses === 2 && checked(form, 'temporary') && radio(form, 'regulated') !== '1') notes.push('비조정대상지역 2주택은 일시적 여부와 관계없이 일반세율입니다.');
+    if (r.mode !== 'general') notes.push('중과 대상입니다. 주택 수 산정 예외(공시가격 1억원 이하 등)에 해당하는지 확인하세요.');
+    out(desk, 'note', notes.join(' '));
+  });
+</script>

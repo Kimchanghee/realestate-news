@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { breadcrumb, webPage } from '../../lib/ld.ts';
+import { abs } from '../../site.config.ts';
+
+const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
+const updated = guides.map((g) => g.data.updated).sort().at(-1)!;
+const path = '/guide/';
+const title = '내 집 마련·전월세 가이드 – 법령·공공기관 원문으로 확인한 실무 안내 | 집계산서';
+const description = `생애최초 취득세 감면, 전세 계약 서류, 확정일자와 전입신고, 전세보증금 반환보증, 중개보수 협의, DSR, 청약 기본까지 ${guides.length}편의 가이드를 법제처·국토교통부·국세청·HUG 원문과 대조해 정리했습니다. 각 글에 기준일과 출처를 붙였습니다.`;
+const ld = [
+  webPage({ name: '가이드', path, description, dateModified: updated, type: 'CollectionPage' }),
+  { '@type': 'ItemList', itemListElement: guides.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/guide/${g.id}/`), name: g.data.h1 })) },
+  breadcrumb([{ name: '홈', path: '/' }, { name: '가이드', path }]),
+];
+---
+<Base title={title} description={description} path={path} ld={ld} pageType="page" modified={updated}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: '가이드', path }]} />
+    <p class="form-no">[안내] 가이드 목록 · {guides.length}편</p>
+    <h1>집 계약 전에 무엇을 확인해야 하나요?</h1>
+    <p class="lead" data-answer>
+      <strong>계약 전에는 등기부등본·보증금 회수 가능성·세금·대출 한도 네 가지를 먼저 확인</strong>해야 합니다. 아래 {guides.length}편은 그 순서대로 법령과 공공기관 원문을 대조해 쓴 실무 안내이며, 각 글 첫 문단에 결론을 적었습니다.
+    </p>
+    <table class="register">
+      <thead><tr><th scope="col">번호</th><th scope="col">질문과 결론</th><th scope="col">기준일</th></tr></thead>
+      <tbody>
+        {guides.map((g, i) => (
+          <tr>
+            <td class="no">안내 {String(i + 1).padStart(2, '0')}</td>
+            <td><a class="title" href={`/guide/${g.id}/`}>{g.data.h1}</a><span class="q">{g.data.answer}</span></td>
+            <td class="law num">{g.data.data_asof}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    <p style="margin-top:1rem">새 글은 <a href="/rss.xml">RSS 피드</a>로도 받아볼 수 있습니다. 계산이 먼저 필요하면 <a href="/">서식 목록</a>으로 가세요.</p>
+  </article>
+</Base>

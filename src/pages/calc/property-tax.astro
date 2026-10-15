@@ -1,0 +1,177 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Basis from '../../components/Basis.astro';
+import Faq from '../../components/Faq.astro';
+import Related from '../../components/Related.astro';
+import MoneyField from '../../components/MoneyField.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { calcProperty } from '../../lib/calc/property.ts';
+import { fmtWon, fmtKorean, fmtPct } from '../../lib/calc/util.ts';
+import { basis } from '../../lib/rules.ts';
+import { FORMS } from '../../lib/forms.ts';
+import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
+
+const form = FORMS[5];
+const path = form.path;
+const title = '재산세 계산기 2026 – 공시가격으로 1세대1주택 특례·7월·9월 고지액 계산 | 집계산서';
+const description =
+  '주택 공시가격과 1세대1주택 여부를 넣으면 2026년 공정시장가액비율(43·44·45%, 일반 60%), 특례세율, 도시지역분, 지방교육세를 반영한 재산세와 7월·9월 고지 예상액, 종합부동산세 공제금액 초과 여부를 보여줍니다. 한계도 함께 적었습니다.';
+const d = calcProperty({ price: 500_000_000, oneHouse: true, city: true });
+if (!d.ok) throw new Error();
+const ex3 = calcProperty({ price: 300_000_000, oneHouse: true, city: true });
+if (!ex3.ok) throw new Error();
+const faq = [
+  {
+    q: '공시가격 3억원 1주택 재산세는 얼마인가요?',
+    a: `2026년 공정시장가액비율 43%를 적용한 과세표준은 1억 2,900만원이고, 특례세율로 재산세 ${fmtWon(ex3.propertyTax)}, 도시지역분 ${fmtWon(ex3.cityTax)}, 지방교육세 ${fmtWon(ex3.eduTax)}을 더해 약 ${fmtWon(ex3.total)}입니다. 재산세 본세가 20만원 이하라 7월에 한 번에 고지됩니다.`,
+  },
+  {
+    q: '재산세는 언제 내나요?',
+    a: '과세기준일은 매년 6월 1일입니다. 주택분 재산세는 7월(7월 16일~31일)과 9월(9월 16일~30일)에 절반씩 고지되며, 해당 연도 주택분 재산세가 20만원 이하면 7월에 한 번에 고지됩니다.',
+  },
+  {
+    q: '1세대1주택 특례세율은 누구에게 적용되나요?',
+    a: '과세기준일 현재 1세대 1주택이고 공시가격(시가표준액)이 9억원 이하인 주택에 표준세율보다 0.05%p 낮은 세율이 적용됩니다. 9억원을 넘는 1주택은 특례 공정시장가액비율(45%)만 적용되고 세율은 표준세율입니다.',
+  },
+];
+const ld = [
+  webApp({ name: form.title, path, description, dateModified: form.updated }),
+  breadcrumb([{ name: '홈', path: '/' }, { name: form.title, path }]),
+  faqPage(faq),
+];
+---
+<Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
+  <article class="sheet">
+    <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
+    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <h1>올해 주택 재산세는 얼마인가요?</h1>
+    <p class="lead" data-answer>
+      <strong>주택 재산세는 공시가격 × 공정시장가액비율(2026년 1세대1주택 43~45%, 그 외 60%)로 과세표준을 구한 뒤 0.1~0.4% 누진세율</strong>을 곱해 계산합니다. 공시가격 9억원 이하 1세대1주택은 0.05~0.35% 특례세율이 적용됩니다(지방세법 시행령 제109조, {form.updated} 대조).
+    </p>
+
+    <div class="desk" data-calc="property">
+      <form id="pt-form" novalidate>
+        <p class="part">입 력 란</p>
+        <fieldset class="fields">
+          <legend class="vh">주택 정보</legend>
+          <MoneyField id="price" label="공시가격" sub="주택 공시가격(6월 1일 기준)" value={500_000_000} />
+          <div class="row">
+            <span class="lab" id="own-l">보유 구분</span>
+            <div class="val choices" role="radiogroup" aria-labelledby="own-l">
+              <label><input type="radio" name="oneHouse" value="1" checked /> 1세대 1주택</label>
+              <label><input type="radio" name="oneHouse" value="0" /> 그 외 (다주택·법인 등)</label>
+            </div>
+          </div>
+          <div class="row">
+            <span class="lab">도시지역분</span>
+            <div class="val"><label class="check"><input type="checkbox" name="city" checked /> 도시지역(재산세 도시지역분 부과 지역)</label></div>
+          </div>
+        </fieldset>
+        <p class="status">공시가격은 부동산공시가격 알리미(realtyprice.kr)에서 조회할 수 있습니다.</p>
+      </form>
+
+      <div class="ledger-wrap">
+        <table class="ledger">
+          <caption>산 출 내 역</caption>
+          <tbody>
+            <tr><th scope="row"><span class="no">①</span>공정시장가액비율</th><td data-out="ratio">{fmtPct(d.ratio)}</td></tr>
+            <tr><th scope="row"><span class="no">②</span>과세표준</th><td data-out="taxBase">{fmtWon(d.taxBase)}</td></tr>
+            <tr><th scope="row"><span class="no">③</span>재산세 <span class="rate" data-out="rateKind">({d.special ? '1주택 특례세율' : '표준세율'})</span></th><td data-out="propertyTax">{fmtWon(d.propertyTax)}</td></tr>
+            <tr><th scope="row"><span class="no">④</span>도시지역분 (0.14%)</th><td data-out="cityTax">{fmtWon(d.cityTax)}</td></tr>
+            <tr><th scope="row"><span class="no">⑤</span>지방교육세 (20%)</th><td data-out="eduTax">{fmtWon(d.eduTax)}</td></tr>
+            <tr><th scope="row"><span class="no">⑥</span>7월 고지 예상</th><td data-out="july">{fmtWon(d.july)}</td></tr>
+            <tr><th scope="row"><span class="no">⑦</span>9월 고지 예상</th><td data-out="september">{fmtWon(d.september)}</td></tr>
+          </tbody>
+          <tfoot>
+            <tr><th scope="row">연간 합계</th><td><span data-out="total">{fmtWon(d.total)}</span><span class="words" data-out="totalWords">{fmtKorean(d.total)}</span></td></tr>
+          </tfoot>
+        </table>
+        <p class={`notice ${d.compTaxPossible ? 'warn' : ''}`} data-out="note" data-note>{d.compTaxPossible ? '' : ''}</p>
+        <Basis items={[basis.propertyTax]} extra="지역자원시설세(소방분)와 과세표준상한제는 계산하지 않습니다." />
+      </div>
+    </div>
+  </article>
+
+  <AdSlot id="calc-below" />
+
+  <section class="sheet prose">
+    <h2>재산세 세율표는 어떻게 되나요?</h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>주택 재산세 세율 (지방세법 제111조, 제111조의2) — {form.updated} 대조</caption>
+        <thead><tr><th scope="col">과세표준</th><th scope="col">표준세율</th><th scope="col">1세대1주택 특례 (공시 9억 이하)</th></tr></thead>
+        <tbody>
+          <tr><td>6천만원 이하</td><td>0.1%</td><td>0.05%</td></tr>
+          <tr><td>6천만원 초과 1.5억원 이하</td><td>6만원 + 초과분 0.15%</td><td>3만원 + 초과분 0.1%</td></tr>
+          <tr><td>1.5억원 초과 3억원 이하</td><td>19.5만원 + 초과분 0.25%</td><td>12만원 + 초과분 0.2%</td></tr>
+          <tr><td>3억원 초과</td><td>57만원 + 초과분 0.4%</td><td>42만원 + 초과분 0.35%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption>2026년 주택 공정시장가액비율 (지방세법 시행령 제109조, 2026-05-29 개정)</caption>
+        <thead><tr><th scope="col">구분</th><th scope="col">공시가격</th><th scope="col">비율</th></tr></thead>
+        <tbody>
+          <tr><td rowspan="3">1세대 1주택</td><td>3억원 이하</td><td class="num">43%</td></tr>
+          <tr><td>3억원 초과 6억원 이하</td><td class="num">44%</td></tr>
+          <tr><td>6억원 초과</td><td class="num">45%</td></tr>
+          <tr><td>그 외 주택</td><td>전체</td><td class="num">60%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>1세대1주택 특례세율은 2026년 말 일몰 예정이었으나, 행정안전부는 2026년 8월 26일 발표한 지방세제 개편안에서 2029년까지 연장하는 안을 내놓았습니다. 개정 법률이 시행되면 이 페이지의 근거 조문 시행일을 갱신합니다.</p>
+    <h2>이 계산서가 하지 않는 것</h2>
+    <ul>
+      <li>과세표준상한제(직전 연도 과세표준 대비 증가 상한)와 세부담 관련 조정은 직전 연도 자료가 필요해 반영하지 않았습니다. 실제 고지액이 이 계산보다 낮을 수 있습니다.</li>
+      <li>지역자원시설세(소방분)는 건축물 시가표준액 기준이라 계산하지 않습니다.</li>
+      <li>종합부동산세는 세대원 전체 보유 주택 합산·세액공제가 필요해 대상 여부만 표시합니다. 정확한 금액은 국세청 홈택스 모의계산을 이용하세요.</li>
+    </ul>
+    <p class="changelog">변경 이력: {form.updated} — 2026년 공정시장가액비율(43·44·45%) 반영, 특례세율 연장 개편안 기재.</p>
+  </section>
+
+  <section class="sheet prose">
+    <Faq faq={faq} />
+    <Related
+      links={[
+        { href: '/guide/property-tax-structure/', title: '재산세 계산 구조와 1세대1주택 특례', note: '가이드' },
+        { href: '/calc/acquisition-tax/', title: '주택 취득세 계산서', note: '서식 제1호' },
+        { href: '/guide/capital-gains-tax-basics/', title: '양도소득세 기본 구조와 한계', note: '가이드' },
+      ]}
+    />
+  </section>
+</Base>
+
+<script>
+  import { calcProperty } from '../../lib/calc/property.ts';
+  import { fmtWon, fmtKorean, fmtPct } from '../../lib/calc/util.ts';
+  import { wire, money, checked, radio, out, clearErrors, fieldError } from '../../lib/client.ts';
+  const form = document.getElementById('pt-form') as HTMLFormElement;
+  const desk = form.closest('[data-calc]') as HTMLElement;
+  const note = desk.querySelector('[data-note]') as HTMLElement;
+  wire(form, 'property_tax', () => {
+    clearErrors(form);
+    const r = calcProperty({ price: money(form, 'price'), oneHouse: radio(form, 'oneHouse') === '1', city: checked(form, 'city') });
+    if (!r.ok) {
+      fieldError(form, r.field, r.message);
+      desk.dataset.state = 'invalid';
+      note.className = 'notice';
+      out(desk, 'note', '입력값을 고치면 다시 계산합니다.');
+      return;
+    }
+    desk.dataset.state = 'ok';
+    out(desk, 'ratio', fmtPct(r.ratio));
+    out(desk, 'taxBase', fmtWon(r.taxBase));
+    out(desk, 'rateKind', `(${r.special ? '1주택 특례세율' : '표준세율'})`);
+    out(desk, 'propertyTax', fmtWon(r.propertyTax));
+    out(desk, 'cityTax', fmtWon(r.cityTax));
+    out(desk, 'eduTax', fmtWon(r.eduTax));
+    out(desk, 'july', fmtWon(r.july));
+    out(desk, 'september', fmtWon(r.september));
+    out(desk, 'total', fmtWon(r.total));
+    out(desk, 'totalWords', fmtKorean(r.total));
+    note.className = 'notice' + (r.compTaxPossible ? ' warn' : '');
+    out(desk, 'note', r.compTaxPossible ? `공시가격이 종합부동산세 공제금액(${fmtKorean(r.compTaxThreshold)})을 넘어 종부세 대상일 수 있습니다. 12월 고지를 확인하세요.` : '');
+  });
+</script>

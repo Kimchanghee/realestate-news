@@ -16,7 +16,7 @@ so the old 3,064-file news archive is never checked out; the first commit on thi
 
 ## Milestones
 - [x] M1 scaffold + calc libs + tests (24 node:test pass; BOK base-rate refresh → src/data/base-rate.json asOf 2026-10-15). Old archive removal committed 7e74381 and pushed.
-- [ ] M2 pages/layout/design
+- [x] M2 pages/layout/design (6 calc pages, data page, home, about/methodology/contact/privacy/terms/disclaimer/404; 등기부/관공서 서식 design in src/styles/global.css)
 - [ ] M3 guides (≥10) + legal pages
 - [ ] M4 SEO (sitemap, rss, llms, LD, OG, gate)
 - [ ] M5 QA (build, check, gate, curl, screenshots) + scorecard
