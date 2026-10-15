@@ -14,9 +14,9 @@ import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
 
 const form = FORMS[1];
 const path = form.path;
-const title = '중개보수(복비) 계산기 – 매매·전세·월세 상한요율과 부가세 2026 기준 | 집계산서';
+const title = '중개보수(복비) 계산기 – 매매·전세·월세 상한요율·한도액과 부가세 2026 기준 | 집계산서';
 const description =
-  '거래 종류와 금액만 넣으면 공인중개사법 시행규칙 별표1의 상한요율과 한도액으로 매매·전세·월세 중개보수 최대액을 계산하고, 월세 환산 거래금액(×100, ×70)과 부가세 10% 포함 금액까지 보여줍니다. 오피스텔 요율도 지원합니다.';
+  '거래 종류와 금액만 넣으면 공인중개사법 시행규칙 별표1의 상한요율과 한도액으로 매매·전세·월세 중개보수 최대액을 계산하고, 월세 환산 거래금액(×100, ×70)과 부가세 10% 포함 금액까지 보여줍니다. 오피스텔 요율과 협의 기준, 계산 근거 조문도 함께 안내합니다.';
 const d = calcBrokerage({ deal: 'sale', kind: 'house', price: 600_000_000, monthly: 0, vat: false });
 if (!d.ok) throw new Error();
 const ex = calcBrokerage({ deal: 'lease', kind: 'house', price: 300_000_000, monthly: 0, vat: true });

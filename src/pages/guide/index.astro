@@ -8,8 +8,8 @@ import { abs } from '../../site.config.ts';
 const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
 const updated = guides.map((g) => g.data.updated).sort().at(-1)!;
 const path = '/guide/';
-const title = '내 집 마련·전월세 가이드 – 법령·공공기관 원문으로 확인한 실무 안내 | 집계산서';
-const description = `생애최초 취득세 감면, 전세 계약 서류, 확정일자와 전입신고, 전세보증금 반환보증, 중개보수 협의, DSR, 주담대 상환 방식, 재산세까지 ${guides.length}편을 법령·공공기관 원문과 대조해 정리했습니다. 각 글에 기준일과 출처를 붙였습니다.`;
+const title = '내 집 마련·전월세 가이드 – 세금·대출·계약 실무를 법령·공공기관 원문으로 확인 | 집계산서';
+const description = `생애최초 취득세 감면, 전세 계약 서류, 확정일자와 전입신고, 전세보증금 반환보증, 중개보수 협의, DSR, 주담대 상환 방식, 재산세까지 ${guides.length}편을 법령·공공기관 원문과 대조해 정리했습니다. 각 글에 작성일, 자료 기준일과 공공기관 원문 출처 링크를 빠짐없이 모두 붙였습니다.`;
 const ld = [
   webPage({ name: '가이드', path, description, dateModified: updated, type: 'CollectionPage' }),
   { '@type': 'ItemList', itemListElement: guides.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/guide/${g.id}/`), name: g.data.h1 })) },

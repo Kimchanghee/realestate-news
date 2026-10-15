@@ -16,8 +16,8 @@ const hist = baseRate.history;
 // 상한 규정(기준금리 + 2%p)은 2016-11-30 시행 시행령부터 적용되므로, 그 이전 행은 "당시 규정 다름"으로 표시한다.
 const RULE_FROM = '2016-11-30';
 const ruleRows = hist.filter((h) => h.date >= '2016-01-01');
-const title = `전월세 전환율 상한 변동표 – 한국은행 기준금리별 법정 상한 이력 | 집계산서`;
-const description = `한국은행 기준금리 결정일마다 주택임대차보호법 시행령의 전월세 전환율 상한(min(10%, 기준금리+가산이율))이 어떻게 바뀌었는지 계산한 표입니다. 현재 상한은 ${cap.toFixed(2)}%이며 ${baseRate.asOf} 한국은행 공시로 확인했습니다.`;
+const title = `전월세 전환율 상한 변동표 – 한국은행 기준금리 결정일별 법정 상한 계산 이력 | 집계산서`;
+const description = `한국은행 기준금리 결정일마다 주택임대차보호법 시행령의 전월세 전환율 상한(min(10%, 기준금리+가산이율))이 어떻게 바뀌었는지 계산한 표입니다. 현재 상한은 ${cap.toFixed(2)}%이며 ${baseRate.asOf} 한국은행 공시로 확인했습니다. 다음 금리 결정 뒤 표가 자동으로 갱신됩니다.`;
 const chart = stepLine(
   hist.filter((h) => h.date >= '2008-03-01').map((h) => ({ date: h.date, v: h.rate })),
   { label: '2008년 이후 한국은행 기준금리(실선)와 현행 산식 기준 전환율 상한(점선)', second: hist.filter((h) => h.date >= '2008-03-01').map((h) => ({ date: h.date, v: conversionCap(h.rate) })) },

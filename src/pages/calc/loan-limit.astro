@@ -17,7 +17,7 @@ const form = FORMS[3];
 const path = form.path;
 const title = '주담대 한도 계산기 – DSR·스트레스 DSR·LTV·DTI로 최대 대출액 확인 | 집계산서';
 const description =
-  '연소득·집값·금리·만기를 넣으면 은행권 DSR 40% 기준 스트레스 금리(1.5%p·수도권 3.0%p)를 더한 대출 한도와 LTV 한도, 수도권 주담대 6·4·2억 한도 중 가장 낮은 금액을 찾아 최대 대출 가능액과 DSR·DTI·LTV 비율을 보여줍니다.';
+  '연소득·집값·금리·만기를 넣으면 은행권 DSR 40% 기준 스트레스 금리(1.5%p·수도권 3.0%p)를 더한 대출 한도와 LTV 한도, 수도권 주담대 6·4·2억 한도 중 가장 낮은 금액을 찾아 최대 대출 가능액과 DSR·DTI·LTV 비율을 근거와 함께 보여줍니다.';
 const base = { income: 60_000_000, value: 500_000_000, amount: 300_000_000, ratePct: 4, years: 30, method: 'annuity' as const, stressPct: LENDING.stressBase, dsrLimit: LENDING.dsrBank, ltvPct: LENDING.ltvNonRegulated, existingAnnual: 0, otherInterest: 0, metroCap: false };
 const d = calcLoan(base);
 if (!d.ok) throw new Error();

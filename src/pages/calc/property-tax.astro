@@ -16,7 +16,7 @@ const form = FORMS[5];
 const path = form.path;
 const title = '재산세 계산기 2026 – 공시가격으로 1세대1주택 특례·7월·9월 고지액 계산 | 집계산서';
 const description =
-  '주택 공시가격과 1세대1주택 여부를 넣으면 2026년 공정시장가액비율(43·44·45%, 일반 60%), 특례세율, 도시지역분, 지방교육세를 반영한 재산세와 7월·9월 고지 예상액, 종합부동산세 공제금액 초과 여부를 보여줍니다. 한계도 함께 적었습니다.';
+  '주택 공시가격과 1세대1주택 여부를 넣으면 2026년 공정시장가액비율(43·44·45%, 일반 60%), 특례세율, 도시지역분, 지방교육세를 반영한 재산세와 7월·9월 고지 예상액, 종합부동산세 공제금액 초과 여부를 보여줍니다. 과세표준상한제 등 한계도 함께 적었습니다.';
 const d = calcProperty({ price: 500_000_000, oneHouse: true, city: true });
 if (!d.ok) throw new Error();
 const ex3 = calcProperty({ price: 300_000_000, oneHouse: true, city: true });
@@ -135,9 +135,9 @@ const ld = [
     <Faq faq={faq} />
     <Related
       links={[
-        { href: '/guide/property-tax-structure/', title: '재산세 계산 구조와 1세대1주택 특례', note: '가이드' },
+        { href: '/guide/property-tax-how-calculated/', title: '재산세 계산 구조와 1세대1주택 특례', note: '가이드' },
         { href: '/calc/acquisition-tax/', title: '주택 취득세 계산서', note: '서식 제1호' },
-        { href: '/guide/capital-gains-tax-basics/', title: '양도소득세 기본 구조와 한계', note: '가이드' },
+        { href: '/guide/acquisition-tax-rate-structure/', title: '취득세 세율 구조 (1~3%·8%·12%)', note: '가이드' },
       ]}
     />
   </section>

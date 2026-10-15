@@ -11,12 +11,13 @@ import { fmtWon, fmtKorean } from '../../lib/calc/util.ts';
 import { yearlyBars } from '../../lib/chart.ts';
 import { FORMS } from '../../lib/forms.ts';
 import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
+import baseRate from '../../data/base-rate.json';
 
 const form = FORMS[4];
 const path = form.path;
 const title = '주담대 상환액 계산기 – 원리금균등·원금균등·만기일시 월 납입금과 총이자 비교 | 집계산서';
 const description =
-  '대출금·금리·기간을 넣으면 원리금균등, 원금균등, 만기일시 세 가지 상환 방식의 첫 달·마지막 달 납입액과 총이자를 한 표에서 비교하고, 연도별 원금·이자 구성을 막대 그래프로 보여줍니다. 계산 공식과 손계산 예시를 함께 공개합니다.';
+  '대출금·금리·기간을 넣으면 원리금균등, 원금균등, 만기일시 세 가지 상환 방식의 첫 달·마지막 달 납입액과 총이자를 한 표에서 비교하고, 연도별 원금·이자 구성을 막대 그래프로 보여줍니다. 계산 공식과 손계산 예시, 한국은행 기준금리와 확인 기준일도 함께 모두 공개합니다.';
 const methods: Method[] = ['annuity', 'equalPrincipal', 'bullet'];
 const res = Object.fromEntries(methods.map((m) => [m, calcRepayment({ principal: 300_000_000, ratePct: 4, months: 360, method: m })])) as Record<Method, RepayResult>;
 const a = res.annuity, e = res.equalPrincipal, b = res.bullet;
@@ -117,6 +118,7 @@ const ld = [
       <li>거치기간, 중도상환, 금리 변동, 중도상환수수료는 반영하지 않습니다.</li>
       <li>은행은 일할 계산이나 원 단위 절사 방식이 달라 실제 납입액이 몇 원~몇십 원 다를 수 있습니다.</li>
     </ul>
+    <p>참고 금리: 한국은행 기준금리 연 {baseRate.current.rate.toFixed(2)}% ({baseRate.current.date} 결정, {baseRate.asOf} 확인 · <a href={baseRate.sourceUrl} rel="noopener" target="_blank">한국은행 기준금리 추이</a>). 주택담보대출 금리는 여기에 은행별 가산금리가 붙으므로 약정서의 금리를 넣어 계산하세요.</p>
     <p class="changelog">변경 이력: {form.updated} — 세 방식 비교표와 연도별 그래프 공개.</p>
   </section>
 

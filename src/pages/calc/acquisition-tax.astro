@@ -14,9 +14,9 @@ import { breadcrumb, faqPage, webApp } from '../../lib/ld.ts';
 
 const form = FORMS[0];
 const path = form.path;
-const title = '주택 취득세 계산기 2026 – 1주택·다주택 중과·생애최초 감면 반영 | 집계산서';
+const title = '주택 취득세 계산기 2026 – 1주택·다주택 중과·생애최초 감면·농특세까지 반영 | 집계산서';
 const description =
-  '집값과 보유 주택 수, 조정대상지역 여부, 전용 85㎡ 초과 여부만 넣으면 취득세·지방교육세·농어촌특별세와 생애최초 감면(200만·300만원 한도)까지 지방세법 조문 기준으로 바로 계산합니다. 6억~9억 구간 산식도 그대로 반영됩니다.';
+  '집값과 보유 주택 수, 조정대상지역 여부, 전용 85㎡ 초과 여부만 넣으면 취득세·지방교육세·농어촌특별세와 생애최초 감면(200만·300만원 한도)까지 지방세법 조문 기준으로 바로 계산합니다. 6억~9억 구간 산식도 그대로 반영되고, 결과마다 근거 조문이 함께 붙습니다.';
 const d = calcAcquisition({ price: 500_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
 if (!d.ok) throw new Error('default calc failed');
 const ex7 = calcAcquisition({ price: 700_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });

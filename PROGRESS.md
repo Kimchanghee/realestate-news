@@ -18,7 +18,7 @@ so the old 3,064-file news archive is never checked out; the first commit on thi
 - [x] M1 scaffold + calc libs + tests (24 node:test pass; BOK base-rate refresh → src/data/base-rate.json asOf 2026-10-15). Old archive removal committed 7e74381 and pushed.
 - [x] M2 pages/layout/design (6 calc pages, data page, home, about/methodology/contact/privacy/terms/disclaimer/404; 등기부/관공서 서식 design in src/styles/global.css)
 - [x] M3 guides (10: +mortgage-repayment-methods, +property-tax-how-calculated) + legal pages (done in M2)
-- [ ] M4 SEO — done: robots/sitemap-index/sitemap-0 (src/lib/urls.ts registry), rss.xml, llms.txt, llms-full.txt, IndexNow key file. TODO: gate.mjs, OG PNGs (public/og/*.png referenced by forms.ts), desc lengths 150–160 (guides currently ~140), backlog.md, DESIGN_REFERENCES.md
+- [ ] M4 SEO — done: robots/sitemap-index/sitemap-0 (src/lib/urls.ts registry), rss.xml, llms.txt, llms-full.txt, IndexNow key file. scripts/gate.mjs written; all titles 50–60 / descs 150–160 fixed; broken related links fixed; gate now fails ONLY on missing OG PNGs. TODO: OG PNGs (public/og/<name>.png: default, 6 calc, conversion-rate-cap, guides use ?), backlog.md, DESIGN_REFERENCES.md
 - [ ] M5 QA (build, check, gate, curl, screenshots) + scorecard
 - [ ] M6 push + report
 

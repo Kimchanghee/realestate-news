@@ -15,8 +15,8 @@ const guides = (await getCollection('guides')).sort((a, b) => (a.data.updated < 
 const br = baseRate.current.rate;
 const cap = conversionCap(br);
 const updated = [CHECKED, baseRate.asOf].sort().at(-1)!;
-const title = '집계산서 – 취득세·중개보수·전월세 전환·DSR·재산세 계산을 법령 기준으로';
-const description = `주택 취득세, 중개보수, 전월세 전환율(현재 상한 ${cap.toFixed(2)}%), DSR·LTV 대출 한도, 주담대 상환액, 재산세를 현행 법령·고시와 한국은행 기준금리로 계산하는 무료 서식입니다. 모든 결과에 근거 조문과 기준일을 붙입니다.`;
+const title = '집계산서 – 취득세·중개보수·전월세 전환·DSR·LTV·재산세를 현행 법령 기준으로 바로 계산';
+const description = `주택 취득세, 중개보수, 전월세 전환율(현재 상한 ${cap.toFixed(2)}%), DSR·LTV 대출 한도, 주담대 상환액, 재산세를 현행 법령·고시와 한국은행 기준금리로 계산하는 무료 서식입니다. 모든 결과에 근거 조문과 기준일을 붙이고, 입력값은 서버로 보내지 않습니다. 회원가입도 필요 없습니다.`;
 const q = calcAcquisition({ price: 500_000_000, houses: 1, regulated: false, over85: false, temporary: false, firstHome: false, firstHomeSmall: false });
 if (!q.ok) throw new Error();
 const ld = [webPage({ name: site.name, path: '/', description, dateModified: updated })];
