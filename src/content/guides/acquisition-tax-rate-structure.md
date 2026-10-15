@@ -8,7 +8,7 @@ data_asof: "2026-10-15"
 published: "2026-10-15"
 updated: "2026-10-15"
 tool: "/calc/acquisition-tax/"
-related: ["first-home-acquisition-tax-relief", "capital-gains-tax-basics"]
+related: ["first-home-acquisition-tax-relief", "property-tax-how-calculated"]
 order: 2
 sources:
   - name: "법제처 – 지방세법 제11조(부동산 취득의 세율), 제13조의2(법인의 주택 취득 등 중과)"
