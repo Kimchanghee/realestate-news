@@ -1,0 +1,63 @@
+# AFTER crawler-eye evidence (curl, no JS) — local astro preview, 2026-10-16 01:36 KST
+/ -> 200 text/html 15572
+/calc/acquisition-tax/ -> 200 text/html 20553
+/calc/loan-limit/ -> 200 text/html 22364
+/data/conversion-rate-cap/ -> 200 text/html 19261
+/guide/how-dsr-is-calculated/ -> 200 text/html 17979
+/sitemap-index.xml -> 200 text/xml 232
+/sitemap-0.xml -> 200 text/xml 2880
+/robots.txt -> 200 text/plain 86
+/llms.txt -> 200 text/plain 7798
+/llms-full.txt -> 200 text/plain 44570
+/rss.xml -> 200 text/xml 7386
+/ads.txt -> 200 text/plain 58
+/9d4f933b26315f835a969b509128ba5a.txt -> 200 text/plain 32
+/og/default.png -> 200 image/png 56782
+/no-such-page-xyz/ -> 404 text/html 8977
+
+== /
+<title>집계산서 – 취득세·중개보수·전월세 전환·DSR·LTV·재산세를 현행 법령 기준으로 바로 계산</title>
+<meta name="description" content="주택 취득세, 중개보수, 전월세 전환율(현재 상한 5.00%), DSR·LTV 대출 한도, 주담대 상환액, 재산세를 현행 법령·고시와 한국은행 기준금리로 계산하는 무료 서식입니다. 모든 결과에 근거 조문과 기준일을 붙이고, 입력값은 서버로 보내지 않습니다. 회원가입도 필요 없습니다.">
+<link rel="canonical" href="https://korearealestatenews.online/">
+LD parse OK; @graph types: Organization, WebSite, WebPage
+answer: 2026-10-15 확인 기준 전월세 전환율 상한은 5.00%, 한국은행 기준금리는 3.00%입니다. 집계산서는 취득세·중개보수·전월세 전환·대출 한도·상환액·재산세 6개 서식을 법제처 원문과 대조한 요율로 계산하고, 결과마다 근거 조문과 기준일을 붙입니다.
+noindex present: 
+
+== /calc/acquisition-tax/
+<title>주택 취득세 계산기 2026 – 1주택·다주택 중과·생애최초 감면·농특세까지 반영 | 집계산서</title>
+<meta name="description" content="집값과 보유 주택 수, 조정대상지역 여부, 전용 85㎡ 초과 여부만 넣으면 취득세·지방교육세·농어촌특별세와 생애최초 감면(200만·300만원 한도)까지 지방세법 조문 기준으로 바로 계산합니다. 6억~9억 구간 산식도 그대로 반영되고, 결과마다 근거 조문이 함께 붙습니다.">
+<link rel="canonical" href="https://korearealestatenews.online/calc/acquisition-tax/">
+LD parse OK; @graph types: Organization, WebSite, WebApplication, BreadcrumbList, FAQPage
+answer: 주택 취득세는 취득가액 6억원 이하 1%, 6억 초과 9억원 이하는 가액에 비례한 산식으로 1~3% 사이, 9억원 초과 3%이고, 여기에 지방교육세(세율의 10%)와 전용 85㎡ 초과 시 농어촌특별세 0.2%가 붙습니다.       조정대상지역 2주택은 8%, 3주택 이상은 12%로 중과됩니다(지방세법, 2026-10-15 대조).
+noindex present: 
+
+== /calc/loan-limit/
+<title>주담대 한도 계산기 – DSR·스트레스 DSR·LTV·DTI로 최대 대출액 확인 | 집계산서</title>
+<meta name="description" content="연소득·집값·금리·만기를 넣으면 은행권 DSR 40% 기준 스트레스 금리(1.5%p·수도권 3.0%p)를 더한 대출 한도와 LTV 한도, 수도권 주담대 6·4·2억 한도 중 가장 낮은 금액을 찾아 최대 대출 가능액과 DSR·DTI·LTV 비율을 근거와 함께 보여줍니다.">
+<link rel="canonical" href="https://korearealestatenews.online/calc/loan-limit/">
+LD parse OK; @graph types: Organization, WebSite, WebApplication, BreadcrumbList, FAQPage
+answer: 주택담보대출 한도는 DSR 한도·LTV 한도·지역별 최대 한도 중 가장 낮은 금액입니다. 은행권 DSR은 연소득의 40%이고, 한도 계산에는 실제 금리에 스트레스 금리(기본 1.5%p, 수도권·규제지역 주담대 3.0%p)를 더합니다(2025-10-16 시행 기준).
+noindex present: 
+
+== /guide/how-dsr-is-calculated/
+<title>DSR 계산법 – 연 원리금÷연소득, 스트레스 DSR이 대출 한도를 줄이는 원리와 예시 | 집계산서</title>
+<meta name="description" content="DSR은 모든 가계대출의 연간 원리금 상환액을 연소득으로 나눈 비율이며 은행권 기준 40%입니다. 스트레스 DSR은 한도 계산에만 가산금리를 더해 대출 가능액을 줄입니다. 연소득 6천만원 예시로 실제 금리와 스트레스 금리별 한도 차이를 계산해 보여줍니다. 기준일을 함께 적었습니다.">
+<link rel="canonical" href="https://korearealestatenews.online/guide/how-dsr-is-calculated/">
+LD parse OK; @graph types: Organization, WebSite, Article, BreadcrumbList, FAQPage
+answer: DSR은 보유한 모든 가계대출의 연간 원리금을 연소득으로 나눈 비율로, 은행권은 40%를 넘을 수 없습니다. 스트레스 DSR은 이 계산에 쓰는 금리에 1.5%p(수도권·규제지역 주담대는 3.0%p 하한)를 더하므로, 연소득 6천만원·30년 대출 한도가 4%일 때보다 수천만원 줄어듭니다.
+noindex present: 
+
+== robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://korearealestatenews.online/sitemap-index.xml
+== llms.txt (head)
+# 집계산서 (korearealestatenews.online)
+
+> 집계산서는 주택 취득세, 중개보수, 전월세 전환율, DSR·LTV, 주담대 상환액, 재산세를 현행 법령·고시 기준으로 계산하고 근거 조문과 기준일을 함께 보여주는 한국어 계산 서식 모음입니다.
+
+운영 원칙: 계산 결과마다 근거 법령 조문과 확인 기준일을 표시합니다. 개인 맞춤 세무·법률·투자 자문이 아닙니다. 데이터 기준일: 한국은행 기준금리 3.00% (2026-08-27 결정, 2026-10-15 확인), 전월세 전환율 상한 5.00%.
+
+## 계산 서식
+- [주택 취득세 계산서](https://korearealestatenews.online/calc/acquisition-tax/): 집을 사면 취득세·지방교육세·농특세가 모두 얼마인가? 근거: 지방세법 제11조·제13조의2, 지특법 제36조의3. 기준일 2026-10-15.
