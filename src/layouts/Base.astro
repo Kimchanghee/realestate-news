@@ -67,7 +67,7 @@ const consentRegions = JSON.stringify(site.consentDeniedRegions);
       window.trackTool = function (name) { if (sent[name]) return; sent[name] = 1; if (window.__ga4) gtag('event', 'tool_used', { tool_name: name }); };
     </script>
     {site.ga4Id && <script async src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`}></script>}
-    <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>
+    {site.adsEnabled && (<script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>)}
     <script type="application/ld+json" set:html={ldJson} />
   </head>
   <body data-page-type={pageType}>

@@ -17,6 +17,8 @@ export const site = {
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string) || '',
   naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string) || '',
   adsenseClient: 'ca-pub-4490818204529253',
+  // Enable only after publisher account and required certified CMP are verified.
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   contactEmail: 'contact@korearealestatenews.online',
   // IndexNow key; the matching key file is public/<key>.txt
   indexNowKey: '9d4f933b26315f835a969b509128ba5a',
