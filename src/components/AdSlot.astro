@@ -1,12 +1,12 @@
 ---
 // Reserved, fixed-height in-content ad unit (no layout shift). Renders only when the owner configures a
-// real AdSense ad-slot ID in site.config.ts `adSlots`; until then Auto ads alone decide placement.
+// real AdSense ad-slot ID in site.config.ts `adSlots` AND ads are enabled (PUBLIC_ADS_ENABLED=true); otherwise nothing renders.
 import { site } from '../site.config.ts';
 interface Props { id: 'calc-below' | 'guide-mid' | 'guide-end' }
 const { id } = Astro.props;
 const slot = (site.adSlots as Record<string, string>)[id] ?? '';
 ---
-{slot && (
+{site.adsEnabled && /^\d{6,}$/.test(slot) && (
   <div class="ad-slot" aria-label="광고">
     <span>광고</span>
     <ins class="adsbygoogle" style="display:block;min-height:250px" data-ad-client={site.adsenseClient} data-ad-slot={slot} data-ad-format="auto" data-full-width-responsive="true"></ins>
