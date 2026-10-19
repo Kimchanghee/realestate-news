@@ -15,7 +15,7 @@ export const site = {
   lang: 'ko',
   ga4Id: (env.PUBLIC_GA4_ID as string) || '',
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string) || '',
-  naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string) || '',
+  naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string) || '117446f3f8d3a8a5c396ffaf58d01309ae802ef3',
   adsenseClient: 'ca-pub-4490818204529253',
   // Enable only after publisher account and required certified CMP are verified.
   adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
