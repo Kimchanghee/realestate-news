@@ -44,7 +44,7 @@ const ld = [
 <Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
   <article class="sheet">
     <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
-    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <div class="form-no">[서식 {form.no}] {form.title}</div>
     <h1>올해 주택 재산세는 얼마인가요?</h1>
     <p class="lead" data-answer>
       <strong>주택 재산세는 공시가격 × 공정시장가액비율(2026년 1세대1주택 43~45%, 그 외 60%)로 과세표준을 구한 뒤 0.1~0.4% 누진세율</strong>을 곱해 계산합니다. 공시가격 9억원 이하 1세대1주택은 0.05~0.35% 특례세율이 적용됩니다(지방세법 시행령 제109조, {form.updated} 대조).

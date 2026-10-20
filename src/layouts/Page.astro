@@ -10,7 +10,7 @@ const ld = [webPage({ name: h1, path, description, dateModified: updated, type }
 <Base title={title} description={description} path={path} ld={ld} pageType="page" modified={updated}>
   <article class="sheet prose">
     <Crumbs items={[{ name: '홈', path: '/' }, { name: label, path }]} />
-    <p class="form-no">[안내] {label} · 최종 수정 <time datetime={updated}>{updated}</time></p>
+    <div class="form-no">[안내] {label} · 최종 수정 <time datetime={updated}>{updated}</time></div>
     <h1>{h1}</h1>
     <p class="lead" data-answer>{answer}</p>
     <slot />

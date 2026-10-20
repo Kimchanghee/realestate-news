@@ -54,6 +54,11 @@ for (const loc of locs) {
   const ans = main.match(/<p[^>]*data-answer[^>]*>([\s\S]*?)<\/p>/);
   if (!ans || len(norm(text(ans[1]))) < 40) fail(path, 'direct answer (p[data-answer] ≥40 chars) missing');
 
+  // question page: the first paragraph after the H1 must be the direct answer (eyebrow/byline are not <p>)
+  const afterH1 = main.split(/<\/h1>/)[1];
+  if (!afterH1) fail(path, 'no h1 in main');
+  else { const fp = afterH1.match(/<p\b[^>]*>/); if (!fp || !/data-answer/.test(fp[0])) fail(path, 'first <p> after H1 is not the direct answer'); }
+
   // internal links in main
   const internal = new Set([...main.matchAll(/href="(\/[^"#]*)"/g)].map((m) => m[1]).filter((h) => h !== path));
   if (internal.size < 2) fail(path, `internal links ${internal.size} < 2`);

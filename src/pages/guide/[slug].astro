@@ -41,15 +41,15 @@ const ld = [
 <Base title={g.title} description={g.description} path={path} og={og} ld={ld} pageType="guide" ogType="article" published={g.published} modified={g.updated}>
   <article class="sheet prose guide">
     <Crumbs items={crumbs} />
-    <p class="form-no">[안내] {g.question}</p>
+    <div class="form-no">[안내] {g.question}</div>
     <h1>{g.h1}</h1>
-    <p class="meta-line">
+    <p class="lead" data-answer>{g.answer}</p>
+    <div class="meta-line">
       <span>작성 <time datetime={g.published}>{g.published}</time></span>
       <span>최종 수정 <time datetime={g.updated}>{g.updated}</time></span>
       <span>자료 기준일 <time datetime={g.data_asof}>{g.data_asof}</time></span>
       <span>작성: 집계산서 편집팀</span>
-    </p>
-    <p class="lead" data-answer>{g.answer}</p>
+    </div>
     {tool && (
       <p class="notice">바로 계산하기: <a href={tool.path}>{tool.title}</a> — {tool.question}</p>
     )}

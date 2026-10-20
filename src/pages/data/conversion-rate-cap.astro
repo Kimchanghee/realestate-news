@@ -41,7 +41,7 @@ const ld = [webPage({ name: DATA_PAGE.title, path, description, dateModified: ba
 <Base title={title} description={description} path={path} og={DATA_PAGE.og} ld={ld} pageType="data" modified={baseRate.asOf}>
   <article class="sheet">
     <Crumbs items={[{ name: '홈', path: '/' }, { name: DATA_PAGE.title, path }]} />
-    <p class="form-no">[자료] 기준금리 연동 법정 상한</p>
+    <div class="form-no">[자료] 기준금리 연동 법정 상한</div>
     <h1>전월세 전환율 상한은 언제 얼마였나요?</h1>
     <p class="lead" data-answer>
       <strong>현재 전월세 전환율 상한은 연 {cap.toFixed(2)}%</strong>로, {baseRate.current.date}에 결정된 한국은행 기준금리 {br.toFixed(2)}%에 2%p를 더한 값입니다. 아래 표는 한국은행 공시 기준금리 결정 {hist.length}건에 현행 산식을 적용해 집계산서가 계산한 이력입니다({baseRate.asOf} 확인).

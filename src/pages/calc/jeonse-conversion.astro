@@ -51,7 +51,7 @@ const ld = [
 <Base title={title} description={description} path={path} og={form.og} ld={ld} pageType="calc" modified={form.updated}>
   <article class="sheet">
     <Crumbs items={[{ name: '홈', path: '/' }, { name: form.title, path }]} />
-    <p class="form-no">[서식 {form.no}] {form.title}</p>
+    <div class="form-no">[서식 {form.no}] {form.title}</div>
     <h1>보증금을 월세로 바꾸면 월세는 최대 얼마인가요?</h1>
     <p class="lead" data-answer>
       <strong>전월세 전환율 상한은 연 {capStr}%</strong>입니다. 한국은행 기준금리 {br.toFixed(2)}%({baseRate.current.date} 결정)에 2%p를 더한 값으로, 보증금 1억원을 월세로 바꾸면 월 {fmtWon(Math.floor(1e8 * cap / 100 / 12))}까지만 받을 수 있습니다({baseRate.asOf} 한국은행 공시 확인).

@@ -23,7 +23,7 @@ const ld = [webPage({ name: site.name, path: '/', description, dateModified: upd
 ---
 <Base title={title} description={description} path="/" og="/og/default.png" ld={ld} pageType="home" modified={updated}>
   <section class="sheet">
-    <p class="form-no">[발급] 부동산 비용 계산 서식 · 확인일 {updated}</p>
+    <div class="form-no">[발급] 부동산 비용 계산 서식 · 확인일 {updated}</div>
     <h1>집 살 때·빌릴 때 드는 돈, 얼마인지 조문대로 계산합니다</h1>
     <p class="lead" data-answer>
       <strong>{baseRate.asOf} 확인 기준 전월세 전환율 상한은 {cap.toFixed(2)}%, 한국은행 기준금리는 {br.toFixed(2)}%</strong>입니다. 집계산서는 취득세·중개보수·전월세 전환·대출 한도·상환액·재산세 6개 서식을 법제처 원문과 대조한 요율로 계산하고, 결과마다 근거 조문과 기준일을 붙입니다.

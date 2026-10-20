@@ -11,6 +11,8 @@ export const GET: APIRoute = async () => {
     '',
     `> ${site.description}`,
     '',
+    `최종 갱신: ${[baseRate.asOf, ...FORMS.map((f) => f.updated), ...guides.map((g) => String(g.data.updated))].map((d) => String(d).slice(0, 10)).sort().pop()} (한국은행 기준금리 확인일·서식·가이드 수정일 중 최신)`,
+    '',
     `운영 원칙: 계산 결과마다 근거 법령 조문과 확인 기준일을 표시합니다. 개인 맞춤 세무·법률·투자 자문이 아닙니다. 데이터 기준일: 한국은행 기준금리 ${baseRate.current.rate.toFixed(2)}% (${baseRate.current.date} 결정, ${baseRate.asOf} 확인), 전월세 전환율 상한 ${cap.toFixed(2)}%.`,
     '',
     '## 계산 서식',

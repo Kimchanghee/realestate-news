@@ -28,3 +28,10 @@ Check server/CF analytics for GPTBot, ClaudeBot, PerplexityBot, Yeti (Naver) hit
 ## Decision rules
 - A guide with 0 impressions at +28d: re-check title/answer vs actual SERP wording before writing new pages.
 - Any data page with stale `asOf` > 60 days: investigate `pnpm refresh` logs before anything else.
+
+## 재측정 2026-11-03 (2026-10-20 5레인 작업 기준)
+- 수치 기준선: 콘솔 데이터 대기 중(GSC·Bing·네이버 서치어드바이저 내보내기 전에는 숫자를 기록하지 않음).
+- 2026-10-20 반영: 모든 페이지 첫 문단 = 직답(기준금리 표시줄·서식 번호·작성 정보는 문단이 아닌 요소로 이동), robots에 Claude-SearchBot·Perplexity-User 추가, llms.txt 최종 갱신일 표기, 푸터 브랜드 표기 "집계산서는" 수정.
+- 2026-11-03 기록 항목: 변경 URL별 색인 여부, 노출·클릭·평균 순위(GSC), 네이버 수집 여부, Bing 색인 여부.
+- 인용 점검(O/X, 날짜·정확한 질문 기록): 일시적 2주택 취득세 중과 배제 요건과 처분 기한은? / 종합부동산세는 언제, 공시가 얼마부터 내나? / 계약갱신청구권과 5% 상한은 어떻게 쓰나? / 집계산서는 무엇인가?
+- AI 크롤러 방문(GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, PerplexityBot): Cloudflare 분석에서 확인 가능할 때만 기록.

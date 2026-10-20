@@ -78,7 +78,7 @@ const consentRegions = JSON.stringify(site.consentDeniedRegions);
           <span class="brand-name">{site.name}</span>
           <span class="brand-sub">{site.tagline}</span>
         </a>
-        <p class="issue">기준금리 <b class="num">{baseRate.current.rate.toFixed(2)}%</b> · 확인 <span class="num">{baseRate.asOf}</span></p>
+        <div class="issue">기준금리 <b class="num">{baseRate.current.rate.toFixed(2)}%</b> · 확인 <span class="num">{baseRate.asOf}</span></div>
         <nav class="toc" aria-label="계산 서식 목록">
           <ol>
             {FORMS.map((f) => (
@@ -101,7 +101,7 @@ const consentRegions = JSON.stringify(site.consentDeniedRegions);
         <div>
           <h2>{site.name}</h2>
           <p class="disc">
-            {site.name}은 공개된 법령·고시와 한국은행 기준금리로 부동산 거래·보유 비용을 계산하는 참고용 서식입니다.
+            {site.name}는 공개된 법령·고시와 한국은행 기준금리로 부동산 거래·보유 비용을 계산하는 참고용 서식입니다.
             세무·법률·대출 상담이 아니며, 실제 세액과 한도는 관할 지자체·금융회사·세무 전문가의 확인이 최종입니다.
           </p>
           <p class="disc">광고 고지: 이 사이트는 Google AdSense 광고를 게재합니다. 현재 제휴(수수료) 링크는 없으며, 생기면 해당 링크 옆과 이 자리에 표시합니다.</p>
